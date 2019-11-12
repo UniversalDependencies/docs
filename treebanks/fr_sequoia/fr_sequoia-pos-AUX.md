@@ -74,7 +74,7 @@ Examples: <em>est, a, fait</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="fr_sequoia-dep-aux.html">aux</a></tt> (948; 41% instances), <tt><a href="fr_sequoia-dep-aux-pass.html">aux:pass</a></tt> (756; 33% instances), <tt><a href="fr_sequoia-dep-cop.html">cop</a></tt> (563; 24% instances), <tt><a href="fr_sequoia-dep-aux-caus.html">aux:caus</a></tt> (34; 1% instances)
+`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="fr_sequoia-dep-aux-tense.html">aux:tense</a></tt> (948; 41% instances), <tt><a href="fr_sequoia-dep-aux-pass.html">aux:pass</a></tt> (756; 33% instances), <tt><a href="fr_sequoia-dep-cop.html">cop</a></tt> (563; 24% instances), <tt><a href="fr_sequoia-dep-aux-caus.html">aux:caus</a></tt> (34; 1% instances)
 
 Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1701; 74% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (285; 12% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (274; 12% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (28; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (4; 0% instances)
 

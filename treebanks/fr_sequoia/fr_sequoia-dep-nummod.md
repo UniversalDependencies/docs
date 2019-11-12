@@ -54,7 +54,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	9	9	NUM	_	NumType=Card	4	nummod	_	_
 6	33619	33619	NUM	_	NumType=Card	1	nummod	_	_
 7	Bielefeld	Bielefeld	PROPN	_	_	6	nmod	_	_
-8	Allemagne	Allemagne	PROPN	_	Gender=Fem|Number=Sing	7	flat:name	_	_
+8	Allemagne	Allemagne	PROPN	_	Gender=Fem|Number=Sing	6	nmod	_	_
 
 ~~~
 

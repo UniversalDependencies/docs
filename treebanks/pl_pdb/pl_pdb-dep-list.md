@@ -19,40 +19,40 @@ The following 9 pairs of parts of speech are connected with `list`: <tt><a href=
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 list	color:blue
-1	12	12	X	dig	NumForm=Digit	6	list	6:list	_
-2	Motyw	motyw	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	_
-3	29	29	X	dig	NumForm=Digit	2	nmod	2:nmod	_
-4	dyrektywy	dyrektywa	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	2	nmod	2:nmod	_
-5	2000/31	2000/31	X	dig	NumForm=Digit	4	nmod	4:nmod	_
-6	przewiduje	przewidywać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-7	:	:	PUNCT	interp	PunctType=Colo	6	punct	6:punct	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 1 list	color:blue
+1	17	17	X	dig	NumForm=Digit	8	list	8:list	SpaceAfter=No
+2	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	SpaceAfter=No
+3	Ten	ten	DET	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	det	7:det	_
+4	nowy	nowy	ADJ	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	SpaceAfter=No
+5	,	,	PUNCT	interp	PunctType=Comm	6	punct	6:punct	_
+6	drogi	drogi	ADJ	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	conj	4:conj|7:amod	_
+7	płaszcz	płaszcz	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	_
+8	marszczy	marszczyć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+9	ci	ty	PRON	ppron12:sg:dat:f:sec:nakc	Case=Dat|Gender=Fem|Number=Sing|Person=2|PronType=Prs|Variant=Short	8	obl	8:obl	_
+10	się	się	PRON	part	PronType=Prs|Reflex=Yes	8	expl:pv	8:expl:pv	_
+11	na	na	ADP	prep:loc	AdpType=Prep	12	case	12:case	Case=Loc
+12	biodrach	biodro	NOUN	subst:pl:loc:n:ncol	Case=Loc|Gender=Neut|Number=Plur	8	obl	8:obl	SpaceAfter=No
+13	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 13 list	color:blue
-1	Co	co	PRON	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	4:nsubj	_
-2	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	4	cop	4:cop	_
-3	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
-4	lek	lek	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-5	Keppra	Keppra	PROPN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	4	nmod	4:nmod	_
-6	i	i	CCONJ	conj	_	12	cc	12:cc	_
-7	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Loc
-8	jakim	jaki	DET	adj:sg:loc:m3:pos	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|PronType=Int	9	det	9:det	_
-9	celu	cel	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	12:obl	_
-10	się	się	PRON	part	PronType=Prs|Reflex=Yes	12	expl:pv	12:expl:pv	_
-11	go	on	PRON	ppron3:sg:acc:m3:ter:nakc:npraep	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Short	12	obj	12:obj	_
-12	stosuje	stosować	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	0:root|4:conj	_
-13	2	2	X	dig	NumForm=Digit	4	list	4:list|12:list	SpaceAfter=No
-14	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 list	color:blue
+1	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
+2	1	1	X	dig	NumForm=Digit	3	list	3:list	_
+3	Statki	statek	NOUN	subst:pl:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
+4	przewożące	przewozić	ADJ	pact:pl:nom:m3:imperf:aff	Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Act	3	acl	3:acl	_
+5	więcej	więcej	DET	num:pl:acc:m1:rec	Animacy=Hum|Case=Acc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	4	obj	4:obj	_
+6	niż	niż	SCONJ	comp	ConjType=Cmpr	8	mark	8:mark	_
+7	36	36	NUM	num:pl:acc:m1:rec	Animacy=Hum|Case=Acc|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	8	nummod:gov	8:nummod:gov	_
+8	pasażerów	pasażer	NOUN	subst:pl:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur	5	obl:cmpr	5:obl:cmpr	_
 
 ~~~
 

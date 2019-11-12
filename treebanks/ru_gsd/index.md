@@ -19,10 +19,10 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Vitaly Nikolaev, Olga Lyashevskaya.
 
 Repository: [UD_Russian-GSD](https://github.com/UniversalDependencies/UD_Russian-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_gsd22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_gsd25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
-License: CC BY-NC-SA 4.0
+License: CC BY-SA 4.0
 
 Genre: wiki
 
@@ -34,7 +34,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | annotated manually, natively in UD style |
+| Lemmas | annotated manually |
 | UPOS | annotated manually, natively in UD style |
 | XPOS | annotated manually |
 | Features | annotated manually, natively in UD style |

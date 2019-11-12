@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `Comp`, `Prl`, `Temp` are language-specific.
 It occurs with 15 different values: `Abe`, `Abl`, `Com`, `Comp`, `Dat`, `Ela`, `Gen`, `Ill`, `Ine`, `Lat`, `Loc`, `Nom`, `Prl`, `Temp`, `Tra`.
 
-6357 tokens (40%) have a non-empty value of `Case`.
+6358 tokens (40%) have a non-empty value of `Case`.
 3274 types (64%) occur at least once with a non-empty value of `Case`.
 1596 lemmas (64%) occur at least once with a non-empty value of `Case`.
-The feature is used with 12 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3625; 23% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (818; 5% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (575; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (355; 2% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (350; 2% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (289; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (118; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (109; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (102; 1% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The feature is used with 12 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3626; 23% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (818; 5% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (575; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (355; 2% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (350; 2% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (289; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (118; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (109; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (102; 1% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-3625 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+3626 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3036; 84%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3036; 84%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1869; 52%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3037; 84%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3037; 84%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1870; 52%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -33,7 +33,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Ine` (250; 7% of non-empty `Case`): <em>вайгельсэ, кудосо, кедьсэнзэ, велесэнть, потсо, тайгасо, вирьсэ, кудосонть, ашосо, вальгейсэ</em>
 * `Lat` (59; 2% of non-empty `Case`): <em>кудов, ёнов, ушов, велев, тайгав, ульцяв, вирев, Вечерняв, волостев, кардазов</em>
 * `Loc` (2; 0% of non-empty `Case`): <em>шлямо</em>
-* `Nom` (1642; 45% of non-empty `Case`): <em>бандитэсь, партизантнэ, ялгат, авазо, бандитнэ, ломань, ведь, тев, тол, сёвонь</em>
+* `Nom` (1643; 45% of non-empty `Case`): <em>бандитэсь, партизантнэ, ялгат, авазо, бандитнэ, ломань, ведь, тев, тол, сёвонь</em>
 * `Prl` (62; 2% of non-empty `Case`): <em>вирьганть, ланга, ульцява, вальмаванть, велеванть, кудованть, потмова, ульцяванть, вайгельга, вариневанть</em>
 * `Temp` (13; 0% of non-empty `Case`): <em>шкане, кизэне, охотникне</em>
 * `Tra` (37; 1% of non-empty `Case`): <em>ломанькс, пакшакс, паморьксэкс, председателькс, Ацамокс, Пултокс, Урозокс, валкс, велекс, вельксэкс</em>
@@ -164,7 +164,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 * `Loc` (14; 4% of non-empty `Case`): <em>ало, икеле, Алонзо, Икелензэ, икелест, ёно</em>
 * `Prl` (54; 15% of non-empty `Case`): <em>ланга, перька, юткова, кувалма, мельга, мельганзо, алга, велькска, ланганзо, мельган</em>
 * `Tra` (1; 0% of non-empty `Case`): <em>кондямокс</em>
-* `EMPTY` (185): <em>марто, кис, мельга, мартонзо, пачк, каршо, кувалт, кисэ, ладсо, перть</em>
+* `EMPTY` (186): <em>марто, кис, мельга, мартонзо, пачк, каршо, кувалт, кисэ, ладсо, перть</em>
 
 <table>
   <tr><th>Paradigm <i>вакссо</i></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Prl</tt></th></tr>
@@ -196,7 +196,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 * `Nom` (13; 4% of non-empty `Case`): <em>истямо, ламо, секе, алкукскак, байтяк, истякак</em>
 * `Prl` (15; 5% of non-empty `Case`): <em>кува, бокава, ланга, пельга, тия, Ваксканзо, вакска, вальмалга, мельганзо, перть-пельга</em>
 * `Tra` (24; 8% of non-empty `Case`): <em>секс, лиякс, мекс, лиякскак, мекс-бути</em>
-* `EMPTY` (1069): <em>ансяк, кода, пек, истя, уш, ней, мейле, седе, прок, яла</em>
+* `EMPTY` (1068): <em>ансяк, кода, пек, истя, уш, ней, мейле, седе, прок, яла</em>
 
 <table>
   <tr><th>Paradigm <i>васоло</i></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
@@ -291,7 +291,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 * `Loc` (2; 33% of non-empty `Case`): <em>улеме</em>
 * `Nom` (4; 67% of non-empty `Case`): <em>бу</em>
-* `EMPTY` (679): <em>а, аволь, _, эзь, апак, ульнесь, арась, ль, ули, иля</em>
+* `EMPTY` (680): <em>а, аволь, _, эзь, апак, ульнесь, арась, ль, ули, иля</em>
 
 ### `INTJ`
 
@@ -300,12 +300,12 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `INTJ` tokens may have the following values of `Case`:
 
 * `Nom` (1; 100% of non-empty `Case`): <em>Бах</em>
-* `EMPTY` (104): <em>вана, ох, виде, ну, Арась, ура, ялгай, Эх, тетяй, Да</em>
+* `EMPTY` (102): <em>вана, ох, виде, ну, Арась, ура, ялгай, Эх, тетяй, Да</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (122; 92%),
+<tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (123; 92%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> NOUN</tt> (16; 70%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> PROPN</tt> (15; 100%),
 <tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (13; 68%),

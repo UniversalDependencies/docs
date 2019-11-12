@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>die</em> (<tt><a href="de_pud-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.000000 (the average of all parts of speech is 1.195606).
+The form / lemma ratio of `PRON` is 2.000000 (the average of all parts of speech is 1.195571).
 
 The 1st highest number of forms (8) was observed with the lemma “der”: <em>das, dem, den, denen, der, deren, dessen, die</em>.
 

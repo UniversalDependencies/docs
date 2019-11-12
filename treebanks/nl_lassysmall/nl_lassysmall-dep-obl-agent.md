@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="nl_lassysmall-dep-o
 119 instances of `obl:agent` (64%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.61621621621622.
 
-The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (104; 56% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (66; 36% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (104; 56% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (66; 36% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -58,34 +58,32 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 9 obl:agent	color:blue
-1	In	in	ADP	VZ|init	_	2	case	2:case	_
-2	1794	1794	NUM	TW|hoofd|vrij	_	6	obl	6:obl:in	_
-3	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	6	aux:pass	6:aux:pass	_
-4	het	het	DET	LID|bep|stan|evon	Definite=Def	5	det	5:det	_
-5	graafschap	graafschap	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	6	nsubj:pass	6:nsubj:pass	_
-6	veroverd	veroveren	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
-7	door	door	ADP	VZ|init	_	9	case	9:case	_
-8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
-9	Fransen	Frans	ADJ	ADJ|nom|basis|met-e|mv-n	Degree=Pos	6	obl:agent	6:obl:agent	_
-10	en	en	CCONJ	VG|neven	_	12	cc	12:cc	_
-11	vervolgens	vervolgens	ADV	BW	_	12	advmod	12:advmod	_
-12	viel	vallen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	6	conj	6:conj:en	_
-13	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	12	nsubj	12:nsubj	_
-14	tot	tot	ADP	VZ|init	_	15	case	15:case	_
-15	1814	1814	NUM	TW|hoofd|vrij	_	12	obl	12:obl:tot	_
-16	bestuurlijk	bestuurlijk	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	12	advmod	12:advmod	_
-17	onder	onder	ADP	VZ|init	_	19	case	19:case	_
-18	het	het	DET	LID|bep|stan|evon	Definite=Def	19	det	19:det	_
-19	departement	departement	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	12	obl	12:obl:onder	_
-20	van	van	ADP	VZ|init	_	22	case	22:case	_
-21	de	de	DET	LID|bep|stan|rest	Definite=Def	22	det	22:det	_
-22	Nedermaas	Nedermaas	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	19	nmod	19:nmod:van	SpaceAfter=No
-23	.	.	PUNCT	LET	_	6	punct	6:punct	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 7 obl:agent	color:blue
+1	Het	het	DET	LID|bep|stan|evon	Definite=Def	3	det	3:det	_
+2	Franse	Frans	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	3	amod	3:amod	_
+3	leger	leger	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	20	nsubj:pass	20:nsubj:pass	_
+4	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	20	aux:pass	20:aux:pass	_
+5	door	door	ADP	VZ|init	_	7	case	7:case	_
+6	het	het	DET	LID|bep|stan|evon	Definite=Def	7	det	7:det	_
+7	Nederlandse	Nederlands	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	20	obl:agent	20:obl:agent	_
+8	(	(	PUNCT	LET	_	9	punct	9:punct	SpaceAfter=No
+9	Hollanders	Hollander	PROPN	N|eigen|mv|basis	Number=Plur	7	nmod	7:nmod	_
+10	en	en	CCONJ	VG|neven	_	11	cc	11:cc	_
+11	Belgen	Belg	PROPN	N|eigen|mv|basis	Number=Plur	9	conj	7:nmod|9:conj:en	SpaceAfter=No
+12	)	)	PUNCT	LET	_	9	punct	9:punct	SpaceAfter=No
+13	,	,	PUNCT	LET	_	15	punct	15:punct	_
+14	het	het	DET	LID|bep|stan|evon	Definite=Def	15	det	15:det	_
+15	Britse	Brits	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	7	conj	7:conj:en|20:obl:agent	_
+16	en	en	CCONJ	VG|neven	_	19	cc	19:cc	_
+17	het	het	DET	LID|bep|stan|evon	Definite=Def	19	det	19:det	_
+18	Pruisische	Pruisisch	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	19	amod	19:amod	_
+19	leger	leger	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	7	conj	7:conj:en|20:obl:agent	_
+20	verslagen	verslag	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
+21	.	.	PUNCT	LET	_	20	punct	20:punct	_
 
 ~~~
 

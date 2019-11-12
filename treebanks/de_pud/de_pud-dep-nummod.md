@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-175 nodes (1%) are attached to their parents as `nummod`.
+226 nodes (1%) are attached to their parents as `nummod`.
 
-159 instances of `nummod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16571428571429.
+159 instances of `nummod` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1283185840708.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (150; 86% instances), <tt><a href="de_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (22; 13% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (201; 89% instances), <tt><a href="de_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (22; 10% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

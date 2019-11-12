@@ -8,50 +8,67 @@ udver: '2'
 
 This relation is universal.
 
-37 nodes (0%) are attached to their parents as `dep`.
+46 nodes (0%) are attached to their parents as `dep`.
 
-35 instances of `dep` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.32432432432432.
+44 instances of `dep` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.39130434782609.
 
-The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (11; 30% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (7; 19% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (7; 19% instances), <tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (7; 19% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances).
+The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (16; 35% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (10; 22% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (8; 17% instances), <tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (7; 15% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 29	bgColor:blue
-# visual-style 29	fgColor:white
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
-# visual-style 27 29 dep	color:blue
-1	«	«	PUNCT	_	_	2	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-2	Արմենպրես	Արմենպրես	PROPN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Com|Number=Sing	6	nmod:poss	_	Translit=armenpres|LTranslit=armenpres|SpaceAfter=No
-3	»	»	PUNCT	_	_	2	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
-4	-	-	PUNCT	_	_	2	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-5	ի	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	2	dep	_	Translit=i|LTranslit=ë
-6	հաղորդմամբ	հաղորդում	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	10	parataxis	_	Translit=haġordmamb|LTranslit=haġordowm|SpaceAfter=No
-7	՝	՝	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
-8	պարային	պարային	ADJ	_	Degree=Pos	9	amod	_	Translit=parayin|LTranslit=parayin
-9	մասն	մաս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	10	obj	_	Translit=masn|LTranslit=mas
-10	ապահովեցին	ապահովել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=apahovec’in|LTranslit=apahovel
-11	DJ	DJ	X	_	Foreign=Yes	10	nsubj	_	Translit=dj|LTranslit=dj
-12	Beatman	Beatman	X	_	Foreign=Yes	11	flat	_	Translit=beatman|LTranslit=beatman|SpaceAfter=No
-13	-	-	PUNCT	_	_	12	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-14	ը	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	12	dep	_	Translit=ë|LTranslit=ë|SpaceAfter=No
-15	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
-16	Arik	Arik	X	_	Foreign=Yes	11	conj	_	Translit=arik|LTranslit=arik
-17	K	K	X	_	Foreign=Yes	16	flat	_	Translit=k|LTranslit=k|SpaceAfter=No
-18	-	-	PUNCT	_	_	17	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-19	ը	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	17	dep	_	Translit=ë|LTranslit=ë|SpaceAfter=No
-20	,	,	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,
-21	Lucy	Lucy	X	_	Foreign=Yes	11	conj	_	Translit=lucy|LTranslit=lucy
-22	Sowa	Sowa	X	_	Foreign=Yes	21	flat	_	Translit=sowa|LTranslit=sowa|SpaceAfter=No
-23	-	-	PUNCT	_	_	22	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-24	ն	ն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	22	dep	_	Translit=n|LTranslit=n
-25	և	և	CCONJ	_	_	26	cc	_	Translit=ew|LTranslit=ew
-26	Big	Big	X	_	Foreign=Yes	11	conj	_	Translit=big|LTranslit=big
-27	Bro	Bro	X	_	Foreign=Yes	26	flat	_	Translit=bro|LTranslit=bro|SpaceAfter=No
-28	-	-	PUNCT	_	_	27	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-29	ն	ն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	27	dep	_	Translit=n|LTranslit=n|SpaceAfter=No
-30	:	:	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 19 dep	color:blue
+1	«	«	PUNCT	_	_	4	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+2	Ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=Es|LTranslit=es
+3	չեմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	aux	_	Translit=čem|LTranslit=em
+4	ուզում	ուզել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=owzowm|LTranslit=owzel|SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
+6	որ	որ	SCONJ	_	_	9	mark	_	Translit=or|LTranslit=or
+7	Նուբարաշեն	Նուբարաշեն	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	8	obj	_	Translit=Nowbarašen|LTranslit=Nowbarašen
+8	ասելով	ասել	VERB	_	Case=Ins|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	9	advcl	_	Translit=aselov|LTranslit=asel
+9	հիշենք	հիշել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	Translit=hišenk’|LTranslit=hišel
+10	աղբանոցը	աղբանոց	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	9	obj	_	Translit=aġbanoc’ë|LTranslit=aġbanoc’|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
+12	գժանոցը	գժանոց	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	10	conj	_	Translit=gžanoc’ë|LTranslit=gžanoc’|SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
+14	բոլոր	բոլոր	DET	_	PronType=Tot	16	det	_	Translit=bolor|LTranslit=bolor
+15	«	«	PUNCT	_	_	16	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+16	ոց	ոց	X	_	_	10	conj	_	Translit=oc’|LTranslit=oc’|SpaceAfter=No
+17	»	»	PUNCT	_	_	16	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
+18	-	-	PUNCT	_	_	16	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+19	երը	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	16	dep	_	Translit=erë|LTranslit=ë|SpaceAfter=No
+20	»	»	PUNCT	_	_	4	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
+21	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 dep	color:blue
+1	Մեֆիստոֆելի	Մեֆիստոֆել	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Prs|Number=Sing	2	nmod:poss	_	Translit=Mefistofeli|LTranslit=Mefistofel
+2	մեներգն	մեներգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=menergn|LTranslit=menerg
+3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=ē|LTranslit=em
+4	«	«	PUNCT	_	_	5	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+5	Ֆաուստ	Ֆաուստ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Prs|Number=Sing	2	obl	_	Translit=Faowst|LTranslit=Faowst|SpaceAfter=No
+6	»	»	PUNCT	_	_	5	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
+7	-	-	PUNCT	_	_	5	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+8	ից	ը	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	5	dep	_	Translit=ic’|LTranslit=ë|SpaceAfter=No
+9	...	...	PUNCT	_	_	12	punct	_	Translit=...|LTranslit=...
+10	երևի	երևի	PART	_	_	12	discourse	_	Translit=erewi|LTranslit=erewi
+11	հարևան	հարևան	ADJ	_	_	12	amod	_	Translit=harewan|LTranslit=harewan
+12	տանից	տուն	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	2	conj	_	Translit=tanic’|LTranslit=town
+13	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	cop	_	Translit=ē|LTranslit=em
+14	կամ	կամ	CCONJ	_	ConjType=Comp	15	cc	_	Translit=kam|LTranslit=kam
+15	փողոցից	փողոց	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	12	conj	_	Translit=p’oġoc’ic’|LTranslit=p’oġoc’|SpaceAfter=No
+16	...	...	PUNCT	_	_	2	punct	_	Translit=...|LTranslit=...
 
 ~~~
 
@@ -63,7 +80,7 @@ The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 6 dep	color:blue
 1	«	«	PUNCT	_	_	3	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-2	Առաջին	առաջին	ADJ	_	Degree=Pos|NumForm=Word|NumType=Ord	3	amod	_	Translit=aṙaǰin|LTranslit=aṙaǰin
+2	Առաջին	առաջին	ADJ	_	Degree=Pos|NumForm=Word|NumType=Ord	3	amod	_	Translit=Aṙaǰin|LTranslit=aṙaǰin
 3	լրատվական	լրատվական	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	7	nmod:poss	_	Translit=lratvakan|LTranslit=lratvakan|SpaceAfter=No
 4	»	»	PUNCT	_	_	3	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
 5	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
@@ -71,49 +88,9 @@ The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="
 7	զրուցակիցն	զրուցակից	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=zrowc’akic’n|LTranslit=zrowc’akic’
 8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	Translit=ē|LTranslit=em
 9	հրապարակախոս	հրապարակախոս	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	10	nmod	_	Translit=hraparakaxos|LTranslit=hraparakaxos
-10	Արա	Արա	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	7	nsubj	_	Translit=ara|LTranslit=ara
-11	Նեդոլյանը	Նեդոլյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	10	flat	_	Translit=nedolyanë|LTranslit=nedolyan|SpaceAfter=No
+10	Արա	Արա	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	7	nsubj	_	Translit=Ara|LTranslit=Ara
+11	Նեդոլյանը	Նեդոլյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	10	flat	_	Translit=Nedolyanë|LTranslit=Nedolyan|SpaceAfter=No
 12	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 dep	color:blue
-1	«	«	PUNCT	_	_	2	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-2	Արմենպրես	Արմենպրես	PROPN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Com|Number=Sing	6	nmod:poss	_	Translit=armenpres|LTranslit=armenpres|SpaceAfter=No
-3	»	»	PUNCT	_	_	2	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
-4	-	-	PUNCT	_	_	2	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-5	ի	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	2	dep	_	Translit=i|LTranslit=ë
-6	հաղորդմամբ	հաղորդում	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	10	parataxis	_	Translit=haġordmamb|LTranslit=haġordowm|SpaceAfter=No
-7	՝	՝	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
-8	պարային	պարային	ADJ	_	Degree=Pos	9	amod	_	Translit=parayin|LTranslit=parayin
-9	մասն	մաս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	10	obj	_	Translit=masn|LTranslit=mas
-10	ապահովեցին	ապահովել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=apahovec’in|LTranslit=apahovel
-11	DJ	DJ	X	_	Foreign=Yes	10	nsubj	_	Translit=dj|LTranslit=dj
-12	Beatman	Beatman	X	_	Foreign=Yes	11	flat	_	Translit=beatman|LTranslit=beatman|SpaceAfter=No
-13	-	-	PUNCT	_	_	12	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-14	ը	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	12	dep	_	Translit=ë|LTranslit=ë|SpaceAfter=No
-15	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
-16	Arik	Arik	X	_	Foreign=Yes	11	conj	_	Translit=arik|LTranslit=arik
-17	K	K	X	_	Foreign=Yes	16	flat	_	Translit=k|LTranslit=k|SpaceAfter=No
-18	-	-	PUNCT	_	_	17	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-19	ը	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	17	dep	_	Translit=ë|LTranslit=ë|SpaceAfter=No
-20	,	,	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,
-21	Lucy	Lucy	X	_	Foreign=Yes	11	conj	_	Translit=lucy|LTranslit=lucy
-22	Sowa	Sowa	X	_	Foreign=Yes	21	flat	_	Translit=sowa|LTranslit=sowa|SpaceAfter=No
-23	-	-	PUNCT	_	_	22	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-24	ն	ն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	22	dep	_	Translit=n|LTranslit=n
-25	և	և	CCONJ	_	_	26	cc	_	Translit=ew|LTranslit=ew
-26	Big	Big	X	_	Foreign=Yes	11	conj	_	Translit=big|LTranslit=big
-27	Bro	Bro	X	_	Foreign=Yes	26	flat	_	Translit=bro|LTranslit=bro|SpaceAfter=No
-28	-	-	PUNCT	_	_	27	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-29	ն	ն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	27	dep	_	Translit=n|LTranslit=n|SpaceAfter=No
-30	:	:	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

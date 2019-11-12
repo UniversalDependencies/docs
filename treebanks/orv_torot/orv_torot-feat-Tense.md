@@ -12,17 +12,17 @@ It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 27020 tokens (18%) have a non-empty value of `Tense`.
 10825 types (34%) occur at least once with a non-empty value of `Tense`.
 2529 lemmas (28%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (23845; 16% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (3175; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (23846; 16% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (3174; 2% instances).
 
 ### `VERB`
 
-23845 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (95% of all `VERB` tokens) have a non-empty value of `Tense`.
+23846 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (95% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (22867; 96%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (17804; 75%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17803; 75%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17803; 75%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15476; 65%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14408; 60%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13406; 56%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13191; 55%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (12491; 52%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (22868; 96%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (17804; 75%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17803; 75%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17803; 75%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15476; 65%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14408; 60%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13407; 56%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13192; 55%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (12491; 52%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (14027; 59% of non-empty `Tense`): <em>реч, приде, иде, посла, повелѣ, поиде, придоша, престави, нача, рѣша</em>
+* `Past` (14028; 59% of non-empty `Tense`): <em>реч, приде, иде, посла, повелѣ, поиде, придоша, престави, нача, рѣша</em>
 * `Pres` (9818; 41% of non-empty `Tense`): <em>гл҃ѧ, ити, хотѧ, видѣти, платити, рекуще, бити, дати, створити, поиди</em>
 * `EMPTY` (1321): <em>створилъ, пришелъ, далъ, нѣтъ, пришли, взѧлъ, нѣту, взѧли, битъ, взѧл</em>
 
@@ -70,14 +70,14 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-3175 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (97% of all `AUX` tokens) have a non-empty value of `Tense`.
+3174 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (97% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3175; 100%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2780; 88%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2780; 88%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2780; 88%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2683; 85%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2638; 83%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2426; 76%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (2171; 68%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1740; 55%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3174; 100%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2780; 88%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2780; 88%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2780; 88%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2683; 85%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2638; 83%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2425; 76%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (2171; 68%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1739; 55%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (296; 9% of non-empty `Tense`): <em>будеть, бѹдеть, будет, буду, будуть, бѹдѹ, будемъ, будть, будут, будущии</em>
-* `Past` (1570; 49% of non-empty `Tense`): <em>бѣ, быс, бѧше, бы, бꙑс҃, бысть, быша, бѣша, бѧху, бывъ</em>
+* `Past` (1569; 49% of non-empty `Tense`): <em>бѣ, быс, бѧше, бы, бꙑс҃, бысть, быша, бѣша, бѧху, бывъ</em>
 * `Pres` (1309; 41% of non-empty `Tense`): <em>есть, ѥсть, суть, быти, ѥси, еси, сущю, ес, есми, буди</em>
 * `EMPTY` (86): <em>было, былъ, были, была, бꙑло, был, бꙑлъ, бꙑли, бꙑле</em>
 
@@ -166,5 +166,5 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="orv_torot-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (32; 51%),
 <tt>AUX --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (14; 58%),
 <tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> AUX</tt> (13; 62%),
-<tt>VERB --[<tt><a href="orv_torot-dep-flat.html">flat</a></tt>]--> VERB</tt> (11; 100%).
+<tt>VERB --[<tt><a href="orv_torot-dep-flat.html">flat</a></tt>]--> VERB</tt> (12; 100%).
 

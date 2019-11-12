@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Past`, `Pres`.
 
-26287 tokens (13%) have a non-empty value of `Tense`.
+26283 tokens (13%) have a non-empty value of `Tense`.
 4761 types (13%) occur at least once with a non-empty value of `Tense`.
 1916 lemmas (10%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (13815; 7% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (12000; 6% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (472; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (13812; 7% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (11997; 6% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (472; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-13815 <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Tense`.
+13812 <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9236; 67%), <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7722; 56%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7722; 56%), <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7722; 56%), <tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7722; 56%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9233; 67%), <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7719; 56%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7719; 56%), <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7719; 56%), <tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7719; 56%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (6100; 44% of non-empty `Tense`): <em>izjavio, rekao, kazao, mogli, mogla, dodao, mogao, moglo, trebala, dobili</em>
-* `Pres` (7715; 56% of non-empty `Tense`): <em>može, ima, kaže, treba, mogu, nema, mora, postoji, možete, imaju</em>
+* `Pres` (7712; 56% of non-empty `Tense`): <em>može, ima, kaže, treba, mogu, nema, mora, postoji, možete, imaju</em>
 * `EMPTY` (3603): <em>imati, pomoći, raditi, pronaći, vidjeti, reći, nastaviti, dobiti, doći, morati</em>
 
 <table>
@@ -44,15 +44,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-12000 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Tense`.
+11997 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11384; 95%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10611; 88%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (10597; 88%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8808; 73%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11382; 95%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10609; 88%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (10596; 88%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8805; 73%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Imp` (2; 0% of non-empty `Tense`): <em>bijaše</em>
-* `Past` (1389; 12% of non-empty `Tense`): <em>bi, bio, bilo, bila, bili, bile, biste, bismo, bih</em>
-* `Pres` (10609; 88% of non-empty `Tense`): <em>je, su, će, nije, smo, sam, neće, nisu, ćete, ćemo</em>
+* `Past` (1388; 12% of non-empty `Tense`): <em>bi, bio, bilo, bila, bili, bile, biste, bismo, bih</em>
+* `Pres` (10607; 88% of non-empty `Tense`): <em>je, su, će, nije, smo, sam, neće, nisu, ćete, ćemo</em>
 * `EMPTY` (541): <em>biti, bit, budite</em>
 
 <table>
@@ -93,14 +93,32 @@ The most frequent other feature values with which `ADV` and `Tense` co-occurred:
 
 * `Past` (78; 17% of non-empty `Tense`): <em>dodavši, rekavši, kazavši, pobijedivši, završivši, dosegnuvši, naglasivši, primijetivši, Izrazivši, Napomenuvši</em>
 * `Pres` (394; 83% of non-empty `Tense`): <em>uključujući, zahvaljujući, govoreći, ističući, dodajući, ukazujući, tražeći, opisujući, pozivajući, sudeći</em>
-* `EMPTY` (8280): <em>više, samo, još, također, posto, već, kada, sada, nekoliko, međutim</em>
+* `EMPTY` (8392): <em>više, samo, još, također, posto, već, kada, sada, nekoliko, međutim</em>
 
 `Tense` seems to be **lexical feature** of `ADV`. 100% lemmas (222) occur only with one value of `Tense`.
+
+### `DET`
+
+2 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Tense`.
+
+The most frequent other feature values with which `DET` and `Tense` co-occurred: <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`DET` tokens may have the following values of `Tense`:
+
+* `Past` (1; 50% of non-empty `Tense`): <em>bilo</em>
+* `Pres` (1; 50% of non-empty `Tense`): <em>sam</em>
+* `EMPTY` (7395): <em>koji, to, koje, koja, svoje, ove, toga, sve, kojima, koju</em>
+
+<table>
+  <tr><th>Paradigm <i>biti</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>bilo</em></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sam</em></td><td></td></tr>
+</table>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (1260; 79%),
+<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (1258; 79%),
 <tt>VERB --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (554; 57%),
 <tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (30; 65%),
 <tt>AUX --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (23; 68%),

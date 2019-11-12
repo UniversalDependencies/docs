@@ -11,7 +11,7 @@ It occurs with 8 different values: `Cnd`, `CndCnj`, `Cnj`, `Des`, `Imp`, `Ind`, 
 
 2307 tokens (15%) have a non-empty value of `Mood`.
 1396 types (27%) occur at least once with a non-empty value of `Mood`.
-639 lemmas (26%) occur at least once with a non-empty value of `Mood`.
+638 lemmas (26%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 5 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2048; 13% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (249; 2% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -49,16 +49,16 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 249 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (36% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (193; 78%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (178; 71%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (150; 60%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (137; 55%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (193; 78%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (179; 72%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (149; 60%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (137; 55%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnj` (14; 6% of non-empty `Mood`): <em>аволинь, аволить, аволь, бу, улевель, аволизе, аволинек, улевельть, эряволь</em>
-* `Imp` (10; 4% of non-empty `Mood`): <em>кадык, давай, давайте, иля</em>
-* `Ind` (191; 77% of non-empty `Mood`): <em>эзь, ульнесь, арась, ули, ульнесть, улить, эряви, эсть, савсь, эзинь</em>
-* `Opt` (20; 8% of non-empty `Mood`): <em>Кадык, давайте, илязо, улезэ, иляст, улест, илязт, улезт</em>
+* `Imp` (12; 5% of non-empty `Mood`): <em>кадык, давайте, давай, иля</em>
+* `Ind` (192; 77% of non-empty `Mood`): <em>эзь, ульнесь, арась, ули, ульнесть, улить, эряви, эсть, савсь, эзинь</em>
+* `Opt` (17; 7% of non-empty `Mood`): <em>Кадык, илязо, улезэ, иляст, улест, илязт, улезт</em>
 * `Proh` (14; 6% of non-empty `Mood`): <em>иля, илядо, Илять</em>
-* `EMPTY` (436): <em>а, аволь, _, апак, ль, т, ли, эзь, ель, бу</em>
+* `EMPTY` (437): <em>а, аволь, _, апак, ль, т, ли, эзь, ель, бу</em>
 
 <table>
   <tr><th>Paradigm <i>улемс</i></th><th><tt>Ind</tt></th><th><tt>Opt</tt></th><th><tt>Cnj</tt></th></tr>
@@ -96,7 +96,7 @@ The most frequent other feature values with which `ADV` and `Mood` co-occurred: 
 `ADV` tokens may have the following values of `Mood`:
 
 * `Imp` (1; 100% of non-empty `Mood`): <em>Я</em>
-* `EMPTY` (1357): <em>ансяк, кода, пек, истя, уш, ней, мейле, седе, прок, яла</em>
+* `EMPTY` (1356): <em>ансяк, кода, пек, истя, уш, ней, мейле, седе, прок, яла</em>
 
 ### `PART`
 

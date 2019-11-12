@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>jest</em> (<tt><a href="pl_pud-pos-AU
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 5.800000 (the average of all parts of speech is 1.435647).
+The form / lemma ratio of `AUX` is 5.800000 (the average of all parts of speech is 1.434889).
 
 The 1st highest number of forms (18) was observed with the lemma “być”: <em>Będziemy, byli, być, był, była, było, były, będzie, będą, będę, em, jest, jestem, jesteśmy, m, są, ście, śmy</em>.
 
@@ -75,7 +75,7 @@ Examples: <em>jest</em>
 
 `AUX` nodes are attached to their parents using 5 different relations: <tt><a href="pl_pud-dep-cop.html">cop</a></tt> (215; 47% instances), <tt><a href="pl_pud-dep-aux-pass.html">aux:pass</a></tt> (141; 31% instances), <tt><a href="pl_pud-dep-aux.html">aux</a></tt> (49; 11% instances), <tt><a href="pl_pud-dep-aux-clitic.html">aux:clitic</a></tt> (26; 6% instances), <tt><a href="pl_pud-dep-aux-cnd.html">aux:cnd</a></tt> (24; 5% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (257; 56% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (117; 26% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (66; 15% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (257; 56% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (117; 26% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (65; 14% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt> (1; 0% instances)
 
 434 (95%) `AUX` nodes are leaves.
 

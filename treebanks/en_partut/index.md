@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_English-ParTUT](https://github.com/UniversalDependencies/UD_English-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_partut22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_partut25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -291,7 +291,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: more, greater, better, higher, later, bigger, lower, closer, larger, smaller</li>
+      <li>ADJ: more, greater, better, higher, later, lower, bigger, closer, larger, smaller</li>
       <li>ADV: more, less, later, longer</li>
     </ul>
   </li>
@@ -300,7 +300,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: other, new, European, economic, financial, social, many, important, first, own</li>
+      <li>ADJ: other, new, European, economic, financial, social, many, important, own, first</li>
       <li>ADV: real-time</li>
     </ul>
   </li>
@@ -580,7 +580,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (563)</li>
+      <li>VERB-Fin--NOUN (564)</li>
       <li>VERB-Fin--PRON (617)</li>
       <li>VERB-Ger--NOUN (36)</li>
       <li>VERB-Ger--PRON (46)</li>
@@ -601,7 +601,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--NOUN (261)</li>
       <li>VERB-Ger--PRON (17)</li>
       <li>VERB-Inf--NOUN (579)</li>
-      <li>VERB-Inf--PRON (79)</li>
+      <li>VERB-Inf--PRON (78)</li>
       <li>VERB-Part--NOUN (213)</li>
       <li>VERB-Part--NOUN-ADP('s) (1)</li>
       <li>VERB-Part--PRON (21)</li>

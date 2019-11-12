@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Joakim Nivre.
 
 Repository: [UD_Slovenian-SST](https://github.com/UniversalDependencies/UD_Slovenian-SST)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_sst22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_sst25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -36,7 +36,7 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | annotated manually, natively in UD style |
+| Lemmas | annotated manually |
 | UPOS | annotated manually, natively in UD style |
 | XPOS | annotated manually |
 | Features | annotated manually, natively in UD style |
@@ -76,7 +76,7 @@ Joakim Nivre (guidelines consulting)
 
 ## Relations
 
-[acl](sl_sst-dep-acl.html) – [advcl](sl_sst-dep-advcl.html) – [advmod](sl_sst-dep-advmod.html) – [amod](sl_sst-dep-amod.html) – [appos](sl_sst-dep-appos.html) – [aux](sl_sst-dep-aux.html) – [case](sl_sst-dep-case.html) – [cc](sl_sst-dep-cc.html) – [cc:preconj](sl_sst-dep-cc-preconj.html) – [ccomp](sl_sst-dep-ccomp.html) – [conj](sl_sst-dep-conj.html) – [conj:extend](sl_sst-dep-conj-extend.html) – [cop](sl_sst-dep-cop.html) – [csubj](sl_sst-dep-csubj.html) – [det](sl_sst-dep-det.html) – [discourse](sl_sst-dep-discourse.html) – [discourse:filler](sl_sst-dep-discourse-filler.html) – [dislocated](sl_sst-dep-dislocated.html) – [expl](sl_sst-dep-expl.html) – [fixed](sl_sst-dep-fixed.html) – [flat](sl_sst-dep-flat.html) – [flat:foreign](sl_sst-dep-flat-foreign.html) – [flat:name](sl_sst-dep-flat-name.html) – [goeswith](sl_sst-dep-goeswith.html) – [iobj](sl_sst-dep-iobj.html) – [mark](sl_sst-dep-mark.html) – [nmod](sl_sst-dep-nmod.html) – [nsubj](sl_sst-dep-nsubj.html) – [nummod](sl_sst-dep-nummod.html) – [obj](sl_sst-dep-obj.html) – [obl](sl_sst-dep-obl.html) – [orphan](sl_sst-dep-orphan.html) – [parataxis](sl_sst-dep-parataxis.html) – [parataxis:discourse](sl_sst-dep-parataxis-discourse.html) – [parataxis:restart](sl_sst-dep-parataxis-restart.html) – [punct](sl_sst-dep-punct.html) – [reparandum](sl_sst-dep-reparandum.html) – [root](sl_sst-dep-root.html) – [vocative](sl_sst-dep-vocative.html) – [xcomp](sl_sst-dep-xcomp.html)
+[acl](sl_sst-dep-acl.html) – [advcl](sl_sst-dep-advcl.html) – [advmod](sl_sst-dep-advmod.html) – [amod](sl_sst-dep-amod.html) – [appos](sl_sst-dep-appos.html) – [aux](sl_sst-dep-aux.html) – [case](sl_sst-dep-case.html) – [cc](sl_sst-dep-cc.html) – [cc:preconj](sl_sst-dep-cc-preconj.html) – [ccomp](sl_sst-dep-ccomp.html) – [conj](sl_sst-dep-conj.html) – [conj:extend](sl_sst-dep-conj-extend.html) – [cop](sl_sst-dep-cop.html) – [csubj](sl_sst-dep-csubj.html) – [dep](sl_sst-dep-dep.html) – [det](sl_sst-dep-det.html) – [discourse](sl_sst-dep-discourse.html) – [discourse:filler](sl_sst-dep-discourse-filler.html) – [dislocated](sl_sst-dep-dislocated.html) – [expl](sl_sst-dep-expl.html) – [fixed](sl_sst-dep-fixed.html) – [flat](sl_sst-dep-flat.html) – [flat:foreign](sl_sst-dep-flat-foreign.html) – [flat:name](sl_sst-dep-flat-name.html) – [goeswith](sl_sst-dep-goeswith.html) – [iobj](sl_sst-dep-iobj.html) – [mark](sl_sst-dep-mark.html) – [nmod](sl_sst-dep-nmod.html) – [nsubj](sl_sst-dep-nsubj.html) – [nummod](sl_sst-dep-nummod.html) – [obj](sl_sst-dep-obj.html) – [obl](sl_sst-dep-obl.html) – [orphan](sl_sst-dep-orphan.html) – [parataxis](sl_sst-dep-parataxis.html) – [parataxis:discourse](sl_sst-dep-parataxis-discourse.html) – [parataxis:restart](sl_sst-dep-parataxis-restart.html) – [punct](sl_sst-dep-punct.html) – [reparandum](sl_sst-dep-reparandum.html) – [root](sl_sst-dep-root.html) – [vocative](sl_sst-dep-vocative.html) – [xcomp](sl_sst-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -264,7 +264,7 @@ Joakim Nivre (guidelines consulting)
 <ul>
   <li>Dual
     <ul>
-      <li>ADJ: blagovni, blagovnih, cela, drugih, grozna, mali, napisana, predvidena, spodnji, sprejeta</li>
+      <li>ADJ: blagovni, blagovnih, drugih, grozna, mali, napisana, predvidena, spodnji, sprejeta, upognjena</li>
       <li>ADJ-Part: napisana, predvidena, sprejeta, upognjena</li>
       <li>AUX-Fin: sta, sva, bova, bosta, nisva</li>
       <li>AUX-Part: bila</li>
@@ -830,11 +830,11 @@ Joakim Nivre (guidelines consulting)
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: biti, _.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: biti.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: biti, _.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: biti.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -911,5 +911,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 7 relation subtypes: <a>cc:preconj</a>, <a>conj:extend</a>, <a>discourse:filler</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>parataxis:discourse</a>, <a>parataxis:restart</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>dep</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a></li>
 </ul>

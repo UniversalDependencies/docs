@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Mbya_Guarani-Thomas: POS Tags: `PROPN`
 
 There are 5 `PROPN` lemmas (2%), 5 `PROPN` types (1%) and 9 `PROPN` tokens (1%).
-Out of 15 observed tags, the rank of `PROPN` is: 12 in number of lemmas, 12 in number of types and 12 in number of tokens.
+Out of 15 observed tags, the rank of `PROPN` is: 11 in number of lemmas, 11 in number of types and 11 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Tupã, Guarani, Madre, Patricia, Tierra</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.313725).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.311688).
 
 The 1st highest number of forms (1) was observed with the lemma “Guarani”: <em>Guarani</em>.
 

@@ -144,11 +144,11 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="fr_fqb-dep-det.html">det</a></tt>]--> DET</tt> (2209; 71%),
 <tt>NOUN --[<tt><a href="fr_fqb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (631; 71%),
 <tt>ADJ --[<tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (499; 95%),
-<tt>VERB --[<tt><a href="fr_fqb-dep-expl.html">expl</a></tt>]--> PRON</tt> (203; 60%),
+<tt>VERB --[<tt><a href="fr_fqb-dep-expl-subj.html">expl:subj</a></tt>]--> PRON</tt> (203; 64%),
 <tt>VERB --[<tt><a href="fr_fqb-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (140; 95%),
 <tt>NOUN --[<tt><a href="fr_fqb-dep-acl.html">acl</a></tt>]--> VERB</tt> (80; 60%),
 <tt>ADJ --[<tt><a href="fr_fqb-dep-det.html">det</a></tt>]--> DET</tt> (41; 77%),
 <tt>NOUN --[<tt><a href="fr_fqb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (21; 54%),
 <tt>NOUN --[<tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (15; 56%),
-<tt>NOUN --[<tt><a href="fr_fqb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (12; 67%).
+<tt>NOUN --[<tt><a href="fr_fqb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (7; 58%).
 

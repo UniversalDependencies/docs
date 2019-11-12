@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Armenian-ArmTDP: Relations: `aux:caus`
 
 This relation is a language-specific subtype of <tt><a href="hy_armtdp-dep-aux.html">aux</a></tt>.
+There are also 1 other language-specific subtypes of `aux`: <tt><a href="hy_armtdp-dep-aux-ex.html">aux:ex</a></tt>.
 
-1 nodes (0%) are attached to their parents as `aux:caus`.
+2 nodes (0%) are attached to their parents as `aux:caus`.
 
-1 instances of `aux:caus` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+2 instances of `aux:caus` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.5.
 
-The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (2; 100% instances).
 
 
 ~~~ conllu
@@ -22,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 aux:caus	color:blue
-1	Վերադառնալով	վերադառնալ	VERB	_	Case=Ins|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Intr|VerbForm=Gdv|Voice=Mid	5	advcl	_	Translit=veradaṙnalov|LTranslit=veradaṙnal
+1	Վերադառնալով	վերադառնալ	VERB	_	Case=Ins|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Intr|VerbForm=Gdv|Voice=Mid	5	advcl	_	Translit=Veradaṙnalov|LTranslit=veradaṙnal
 2	վրան	վրան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	obl	_	Translit=vran|LTranslit=vran|SpaceAfter=No
 3	՝	՝	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
 4	նա	նա	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj:caus	_	Translit=na|LTranslit=na

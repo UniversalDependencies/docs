@@ -31,7 +31,7 @@ The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href=
 7	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	obj	_	word=to|msd=Zk-set
 8	rekel	reči	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	4	parataxis	_	word=reku|msd=Ggdd-em
 9	?	?	PUNCT	Z	_	8	punct	_	word=?|msd=U
-10	[speaker:laughter]	[speaker:laughter]	X	X	_	4	punct	_	word=[speaker:laughter]|msd=N
+10	[speaker:laughter]	[speaker:laughter]	PUNCT	X	_	4	punct	_	word=[speaker:laughter]|msd=N
 
 ~~~
 

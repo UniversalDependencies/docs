@@ -13,7 +13,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 76278 tokens (51%) have a non-empty value of `Gender`.
 24046 types (74%) occur at least once with a non-empty value of `Gender`.
 7101 lemmas (79%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (31604; 21% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (15504; 10% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (9845; 7% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (8109; 5% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (7242; 5% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt> (2784; 2% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (709; 0% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (481; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (31604; 21% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (15504; 10% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (9845; 7% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (8109; 5% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (7243; 5% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt> (2784; 2% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (709; 0% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (480; 0% instances).
 
 ### `NOUN`
 
@@ -132,14 +132,14 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `VERB`
 
-7242 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Gender`.
+7243 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7242; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7242; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7242; 100%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Strong</tt> (6563; 91%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6264; 86%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6042; 83%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5871; 81%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4778; 66%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7243; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7243; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7243; 100%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Strong</tt> (6564; 91%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6265; 86%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6043; 83%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5872; 81%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4779; 66%).
 
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (468; 6% of non-empty `Gender`): <em>заложена, наставши, слышавъши, биющи, положена, гл҃щи, дала, избита, пришедъши, пришьдъши</em>
-* `Masc` (6487; 90% of non-empty `Gender`): <em>слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, пришедшю, слышавше</em>
+* `Masc` (6488; 90% of non-empty `Gender`): <em>слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, пришедшю, слышавше</em>
 * `Neut` (287; 4% of non-empty `Gender`): <em>вышло, рекше, погибло, въсходѧщю, повелѣно, положено, гл҃емаго, изгыбло, исходѧщю, остало</em>
 * `EMPTY` (17924): <em>реч, приде, иде, посла, повелѣ, поиде, придоша, престави, нача, рѣша</em>
 
@@ -228,14 +228,14 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `AUX`
 
-481 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (15% of all `AUX` tokens) have a non-empty value of `Gender`.
+480 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (15% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (481; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (481; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (481; 100%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (481; 100%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (395; 82%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Strong</tt> (378; 79%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (355; 74%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (249; 52%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (480; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (480; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (480; 100%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (480; 100%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (394; 82%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Strong</tt> (377; 79%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (354; 74%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (249; 52%).
 
 `AUX` tokens may have the following values of `Gender`:
 
 * `Fem` (63; 13% of non-empty `Gender`): <em>сѹщи, бывши, была, сѹщю, сущи, сущю, сущюю, бывъши, сѹщѹ, бывшю</em>
-* `Masc` (336; 70% of non-empty `Gender`): <em>сущю, бывъ, былъ, бывшю, сыи, сѹщю, бывше, сы, сѹща, были</em>
+* `Masc` (335; 70% of non-empty `Gender`): <em>сущю, бывъ, былъ, бывшю, сыи, сѹщю, бывше, сы, сѹща, были</em>
 * `Neut` (82; 17% of non-empty `Gender`): <em>было, сѹще, бывшая, бывшаго, бывъшеѥ, сущю, сѹщю, бывшее, бывшемъ, бывшеє</em>
 * `EMPTY` (2780): <em>бѣ, быс, есть, ѥсть, будеть, бѧше, суть, бы, быти, бꙑс҃</em>
 

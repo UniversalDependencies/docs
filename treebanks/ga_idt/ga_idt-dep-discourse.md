@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `discourse`.
+16 nodes (0%) are attached to their parents as `discourse`.
 
-6 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.
+12 instances of `discourse` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.3125.
 
-The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (4; 67% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (1; 17% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 17% instances).
+The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (9; 56% instances), <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (3; 19% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (1; 6% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -39,6 +39,21 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 discourse	color:blue
+1	Búm	Búm	INTJ	Itj	_	0	root	_	_
+2	bí	bí	INTJ	Itj	_	1	discourse	_	_
+3	á	á	INTJ	Itj	_	1	discourse	_	_
+4	de	de	INTJ	Itj	_	1	discourse	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
@@ -49,26 +64,6 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 3	a	a	PART	Voc	PartType=Voc	4	case:voc	_	_
 4	chumannaigh	chumannaigh	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	!	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 discourse	color:blue
-1	MISE	mise	PRON	Pers	Number=Sing|Person=1|PronType=Emp	2	discourse	_	_
-2	Roinn	roinn	VERB	VTI	Mood=Imp|Number=Sing|Person=2	0	root	_	_
-3	ar	ar	ADP	Simp	_	6	case	_	_
-4	a	a	PART	Nm	PartType=Num	5	mark:prt	_	_
-5	trí	trí	NUM	Num	NumType=Card	6	nummod	_	_
-6	amháin	amháin	ADJ	Adj	Degree=Pos	2	obl	_	_
-7	a	a	PART	Vb	PartType=Vb|PronType=Rel	8	nsubj	_	_
-8	bheidh	bí	VERB	FutInd	Form=Len|Mood=Ind|Tense=Fut	6	acl:relcl	_	_
-9	uait	ó	ADP	Prep	Number=Sing|Person=2	8	obl:prep	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

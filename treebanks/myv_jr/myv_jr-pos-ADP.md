@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Erzya-JR: POS Tags: `ADP`
 
-There are 76 `ADP` lemmas (3%), 133 `ADP` types (3%) and 535 `ADP` tokens (3%).
+There are 77 `ADP` lemmas (3%), 134 `ADP` types (3%) and 536 `ADP` tokens (3%).
 Out of 16 observed tags, the rank of `ADP` is: 6 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>марто, лангс, эйсэ, мельга, эйстэ, лангсо, кис, ланга, перька, ёнов</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>лангс</em> (<tt><a href="myv_jr-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.750000 (the average of all parts of speech is 1.992447).
+The form / lemma ratio of `ADP` is 1.740260 (the average of all parts of speech is 1.993575).
 
 The 1st highest number of forms (8) was observed with the lemma “марто”: <em>марто, мартонзо, мартонк, мартонть, мартонь, мартост, мартот, мартояк</em>.
 
@@ -61,22 +61,22 @@ The 2nd highest number of forms (8) was observed with the lemma “эйсэ”: 
 
 The 3rd highest number of forms (6) was observed with the lemma “эйстэ”: <em>эйстэ, эйстэдест, эйстэнек, эйстэнзэ, эйстэст, эстэдест</em>.
 
-`ADP` occurs with 9 features: <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (350; 65% instances), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt> (218; 41% instances), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt> (99; 19% instances), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt> (99; 19% instances), <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt> (91; 17% instances), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (17; 3% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (14; 3% instances), <tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt> (9; 2% instances), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt> (1; 0% instances)
+`ADP` occurs with 9 features: <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (350; 65% instances), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt> (218; 41% instances), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt> (99; 18% instances), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt> (99; 18% instances), <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt> (91; 17% instances), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (17; 3% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (14; 3% instances), <tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt> (9; 2% instances), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt> (1; 0% instances)
 
 `ADP` occurs with 23 feature-value pairs: `AdpType=Post`, `AdvType=Loc`, `AdvType=Tim`, `Case=Abl`, `Case=Dat`, `Case=Ela`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Lat`, `Case=Loc`, `Case=Prl`, `Case=Tra`, `Clitic=Gak`, `Definite=Ind`, `Derivation=AdvstO`, `Number=Plur,Sing`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`
 
 `ADP` occurs with 88 feature combinations.
-The most frequent feature combination is `_` (111 tokens).
-Examples: <em>марто, кис, кувалт, ладсо, кисэ, трокс, вельде, кувал, кувалма, таркас</em>
+The most frequent feature combination is `_` (112 tokens).
+Examples: <em>марто, кис, кувалт, ладсо, кисэ, трокс, вельде, кувал, кувалма, прок</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 12 different relations: <tt><a href="myv_jr-dep-case.html">case</a></tt> (416; 78% instances), <tt><a href="myv_jr-dep-obl.html">obl</a></tt> (80; 15% instances), <tt><a href="myv_jr-dep-obj.html">obj</a></tt> (22; 4% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (4; 1% instances), <tt><a href="myv_jr-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="myv_jr-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="myv_jr-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="myv_jr-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="myv_jr-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="myv_jr-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="myv_jr-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances), <tt><a href="myv_jr-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 12 different relations: <tt><a href="myv_jr-dep-case.html">case</a></tt> (417; 78% instances), <tt><a href="myv_jr-dep-obl.html">obl</a></tt> (80; 15% instances), <tt><a href="myv_jr-dep-obj.html">obj</a></tt> (22; 4% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (4; 1% instances), <tt><a href="myv_jr-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="myv_jr-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="myv_jr-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="myv_jr-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="myv_jr-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="myv_jr-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="myv_jr-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances), <tt><a href="myv_jr-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (331; 62% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (103; 19% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (43; 8% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (36; 7% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 1% instances),  (2; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (333; 62% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (103; 19% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (43; 8% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (36; 7% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 1% instances),  (2; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-514 (96%) `ADP` nodes are leaves.
+515 (96%) `ADP` nodes are leaves.
 
 13 (2%) `ADP` nodes have one child.
 

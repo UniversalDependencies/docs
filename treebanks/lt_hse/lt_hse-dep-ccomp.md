@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-49 nodes (1%) are attached to their parents as `ccomp`.
+48 nodes (1%) are attached to their parents as `ccomp`.
 
-41 instances of `ccomp` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.57142857142857.
+41 instances of `ccomp` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.47916666666667.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (33; 67% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (5; 10% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (4; 8% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (4; 8% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (33; 69% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (5; 10% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (4; 8% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (3; 6% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

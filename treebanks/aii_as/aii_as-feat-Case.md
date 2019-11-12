@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="aii_as-pos-PRON.htm
 
 12 <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> tokens (28% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="aii_as-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11; 92%), <tt><a href="aii_as-feat-Person.html">Person</a></tt><tt>=3</tt> (8; 67%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="aii_as-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12; 100%), <tt><a href="aii_as-feat-Person.html">Person</a></tt><tt>=3</tt> (8; 67%).
 
 `PRON` tokens may have the following values of `Case`:
 

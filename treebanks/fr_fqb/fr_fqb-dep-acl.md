@@ -46,7 +46,7 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 12 acl	color:blue
-1	Il	il_y_a	PRON	_	Mood=Ind	0	root	_	MWEPOS=V
+1	Il	il_y_a	PRON	_	Mood=Ind	0	root	_	EXTPOS=V
 2	y	_	PRON	_	_	1	fixed	_	_
 3	a	_	VERB	_	Mood=Ind|VerbForm=Fin	1	fixed	_	_
 4	combien	combien	ADV	_	PronType=Int	1	obj	_	_
@@ -56,7 +56,7 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	vaisseau	vaisseau	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
 10	Titanic	Titanic	PROPN	_	_	9	nmod	_	_
-11	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:tense	_	_
 12	coulé	couler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	_
 13	?	?	PUNCT	_	_	1	punct	_	_
 

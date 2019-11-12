@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>tipo</em>
-* `EMPTY` (4261): <em>Jahr, Jahre, Zeit, Jahren, Menschen, Regierung, Stadt, Geschichte, Teil, Jahrhundert</em>
+* `EMPTY` (4248): <em>Jahr, Jahre, Zeit, Jahren, Menschen, Regierung, Stadt, Geschichte, Teil, Jahrhundert</em>
 
 ### `X`
 

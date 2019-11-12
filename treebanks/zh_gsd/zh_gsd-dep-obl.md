@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSD: Relations: `obl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `obl`: <tt><a href="zh_gsd-dep-obl-patient.html">obl:patient</a></tt>.
 
-2576 nodes (2%) are attached to their parents as `obl`.
+2581 nodes (2%) are attached to their parents as `obl`.
 
-2267 instances of `obl` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.05007763975155.
+2269 instances of `obl` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.04688105385509.
 
-The following 10 pairs of parts of speech are connected with `obl`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1916; 74% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (232; 9% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (221; 9% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (158; 6% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-X.html">X</a></tt> (26; 1% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `obl`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1946; 75% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (232; 9% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (196; 8% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (158; 6% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-X.html">X</a></tt> (21; 1% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 23	bgColor:blue
 # visual-style 23	fgColor:white
 # visual-style 23 22 obl	color:blue
-1	在	在	VERB	VV	_	12	acl	_	SpaceAfter=No
+1	在	在	VERB	VV	_	12	advcl	_	SpaceAfter=No
 2	平原	平原	NOUN	NN	_	1	obj	_	SpaceAfter=No
 3	、	、	PUNCT	EC	_	4	punct	_	SpaceAfter=No
 4	塔	塔	NOUN	NN	_	2	conj	_	SpaceAfter=No
@@ -33,9 +34,9 @@ The following 10 pairs of parts of speech are connected with `obl`: <tt><a href=
 9	或	或	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 10	迷宮	迷宮	NOUN	NN	_	2	conj	_	SpaceAfter=No
 11	中	中	NOUN	NN	_	2	acl	_	SpaceAfter=No
-12	移動	移動	VERB	VV	_	23	acl	_	SpaceAfter=No
+12	移動	移動	VERB	VV	_	23	advcl	_	SpaceAfter=No
 13	時	時	ADP	IN	_	12	mark	_	SpaceAfter=No
-14	,	,	PUNCT	,	_	23	punct	_	SpaceAfter=No
+14	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
 15	玩家	玩家	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
 16	將	將	ADV	RB	_	23	advmod	_	SpaceAfter=No
 17	會	會	AUX	MD	_	23	aux	_	SpaceAfter=No
@@ -45,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `obl`: <tt><a href=
 21	的	的	PART	DEC	_	20	mark:relcl	_	SpaceAfter=No
 22	敵人	敵人	NOUN	NN	_	23	obl	_	SpaceAfter=No
 23	作戰	作戰	VERB	VV	_	0	root	_	SpaceAfter=No
-24	.	.	PUNCT	.	_	23	punct	_	SpaceAfter=No
+24	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -58,18 +59,18 @@ The following 10 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 5 4 obl	color:blue
 1	支線	支線	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
 2	從	從	ADP	IN	_	4	case	_	SpaceAfter=No
-3	朝陽	朝陽	PROPN	NNP	_	4	case:suff	_	SpaceAfter=No
+3	朝陽	朝陽	PROPN	NNP	_	4	compound	_	SpaceAfter=No
 4	門	門	PART	SFN	_	5	obl	_	SpaceAfter=No
-5	到	到	VERB	VV	_	9	acl	_	SpaceAfter=No
+5	到	到	VERB	VV	_	9	advcl	_	SpaceAfter=No
 6	楊閘	楊閘	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
 7	環島	環島	NOUN	NN	_	5	obj	_	SpaceAfter=No
 8	後	後	ADP	IN	_	5	mark	_	SpaceAfter=No
-9	繼續	繼續	VERB	VV	_	19	acl	_	SpaceAfter=No
+9	繼續	繼續	VERB	VV	_	19	advcl	_	SpaceAfter=No
 10	向	向	ADP	IN	_	11	case	_	SpaceAfter=No
 11	東	東	NOUN	NN	_	12	obl	_	SpaceAfter=No
 12	行駛	行駛	VERB	VV	_	9	xcomp	_	SpaceAfter=No
-13	,	,	PUNCT	,	_	19	punct	_	SpaceAfter=No
-14	上	上	VERB	VV	_	19	acl	_	SpaceAfter=No
+13	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
+14	上	上	VERB	VV	_	19	advcl	_	SpaceAfter=No
 15	京	京	PROPN	NNP	_	17	nmod	_	SpaceAfter=No
 16	哈	哈	PROPN	NNP	_	17	nmod	_	SpaceAfter=No
 17	高速	高速	NOUN	NN	_	14	obj	_	SpaceAfter=No
@@ -79,7 +80,7 @@ The following 10 pairs of parts of speech are connected with `obl`: <tt><a href=
 21	武夷	武夷	PROPN	NNP	_	23	nmod	_	SpaceAfter=No
 22	花園	花園	NOUN	NN	_	23	nmod	_	SpaceAfter=No
 23	小區	小區	NOUN	NN	_	19	obj	_	SpaceAfter=No
-24	.	.	PUNCT	.	_	19	punct	_	SpaceAfter=No
+24	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -102,7 +103,7 @@ The following 10 pairs of parts of speech are connected with `obl`: <tt><a href=
 10	蒙特利爾	蒙特利爾	PROPN	NNP	_	6	conj	_	SpaceAfter=No
 11	和	和	CCONJ	CC	_	12	cc	_	SpaceAfter=No
 12	多倫多	多倫多	PROPN	NNP	_	6	conj	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+13	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 ~~~
 

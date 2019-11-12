@@ -12,18 +12,19 @@ It occurs with 2 different values: `No`, `Yes`.
 826 tokens (15%) have a non-empty value of `Reflex`.
 613 types (26%) occur at least once with a non-empty value of `Reflex`.
 366 lemmas (23%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 3 part-of-speech tags: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (711; 13% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (108; 2% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (7; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (707; 13% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (112; 2% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (7; 0% instances).
 
 ### `VERB`
 
-711 <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Reflex`.
+707 <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `VERB` and `Reflex` co-occurred: <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (627; 88%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (614; 86%), <tt><a href="lt_hse-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (565; 79%), <tt><a href="lt_hse-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (543; 76%), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (533; 75%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (387; 54%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (377; 53%).
+The most frequent other feature values with which `VERB` and `Reflex` co-occurred: <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (623; 88%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (610; 86%), <tt><a href="lt_hse-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (561; 79%), <tt><a href="lt_hse-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (539; 76%), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (529; 75%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (383; 54%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (374; 53%).
 
 `VERB` tokens may have the following values of `Reflex`:
 
-* `No` (658; 93% of non-empty `Reflex`): <em>gali, turi, negali, vadinami, žinoma, būti, galima, nėra, sako, žino</em>
+* `No` (654; 93% of non-empty `Reflex`): <em>gali, turi, negali, vadinami, žinoma, būti, galima, nėra, sako, žino</em>
 * `Yes` (53; 7% of non-empty `Reflex`): <em>darosi, nesiskiria, skiriasi, Nesinori, Remiantis, apsigynėme, apsijuokdamas, apsiribokime, atsiliepia, atsiradusi</em>
+* `EMPTY` (1): <em>prašom</em>
 
 <table>
   <tr><th>Paradigm <i>laikyti</i></th><th><tt>Yes</tt></th><th><tt>No</tt></th></tr>
@@ -43,13 +44,13 @@ The most frequent other feature values with which `VERB` and `Reflex` co-occurre
 
 ### `AUX`
 
-108 <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Reflex`.
+112 <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `AUX` and `Reflex` co-occurred: <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (107; 99%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (101; 94%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt> (95; 88%), <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (88; 81%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (86; 80%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (86; 80%).
+The most frequent other feature values with which `AUX` and `Reflex` co-occurred: <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (111; 99%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (105; 94%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt> (98; 88%), <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (92; 82%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (90; 80%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (89; 79%).
 
 `AUX` tokens may have the following values of `Reflex`:
 
-* `No` (108; 100% of non-empty `Reflex`): <em>buvo, yra, nėra, būtų, būti, nebūtų, būna, nebuvo, esu, Esama</em>
+* `No` (112; 100% of non-empty `Reflex`): <em>buvo, yra, nėra, būtų, būti, nebūtų, būna, esu, nebuvo, bus</em>
 
 ### `NOUN`
 
@@ -66,13 +67,13 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Reflex`:
 <tt>VERB --[<tt><a href="lt_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (88; 90%),
-<tt>VERB --[<tt><a href="lt_hse-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (81; 89%),
+<tt>VERB --[<tt><a href="lt_hse-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (81; 88%),
 <tt>VERB --[<tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (34; 92%),
 <tt>VERB --[<tt><a href="lt_hse-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (31; 94%),
 <tt>VERB --[<tt><a href="lt_hse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (30; 79%),
-<tt>VERB --[<tt><a href="lt_hse-dep-aux.html">aux</a></tt>]--> AUX</tt> (25; 100%),
+<tt>VERB --[<tt><a href="lt_hse-dep-aux.html">aux</a></tt>]--> AUX</tt> (26; 100%),
 <tt>VERB --[<tt><a href="lt_hse-dep-cop.html">cop</a></tt>]--> AUX</tt> (5; 100%),
 <tt>VERB --[<tt><a href="lt_hse-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<tt><a href="lt_hse-dep-aux-pass.html">aux:pass</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="lt_hse-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="lt_hse-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2; 100%).
 

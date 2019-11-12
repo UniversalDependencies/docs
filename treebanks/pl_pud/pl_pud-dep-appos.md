@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-133 nodes (1%) are attached to their parents as `appos`.
+136 nodes (1%) are attached to their parents as `appos`.
 
-133 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.25563909774436.
+136 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.23529411764706.
 
-The following 8 pairs of parts of speech are connected with `appos`: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (90; 68% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (17; 13% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (17; 13% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-X.html">X</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `appos`: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (92; 68% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (17; 13% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (17; 13% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-X.html">X</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -70,7 +70,7 @@ The following 8 pairs of parts of speech are connected with `appos`: <tt><a href
 5	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux:pass	6:aux:pass	_
 6	poświęcona	poświęcić	ADJ	ppas:sg:nom:f:perf:aff	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	0:root	_
 7	Małgorzacie	Małgorzata	PROPN	subst:sg:dat:f	Case=Dat|Gender=Fem|Number=Sing	6	iobj	6:iobj	_
-8	Douglas	douglas	NOUN	subst:sg:dat:f	Case=Dat|Gender=Fem|Number=Sing	7	flat	7:flat	SpaceAfter=No
+8	Douglas	douglas	NOUN	subst:sg:dat:f	Case=Dat|Gender=Fem|Number=Sing	7	nmod:flat	7:nmod:flat	SpaceAfter=No
 9	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
 10	hrabinie	hrabina	NOUN	subst:sg:dat:f	Case=Dat|Gender=Fem|Number=Sing	7	appos	7:appos	_
 11	Lennox	Lennox	PROPN	subst:sg:dat:f	Case=Dat|Gender=Fem|Number=Sing	10	flat	10:flat	SpaceAfter=No

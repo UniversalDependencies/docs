@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Daniel Zeman.
 
 Repository: [UD_Spanish-AnCora](https://github.com/UniversalDependencies/UD_Spanish-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: GNU GPL 3.0
 
@@ -178,6 +178,7 @@ Spanish data from the AnCora corpus.
       <li>NOUN: personas, parte, vida, situación, vez, forma, elecciones, empresa, horas, decisión</li>
       <li>NUM: ambas, media, una, DECENAS, quinientas</li>
       <li>PRON: la, una, ella, las, ellas, otra, cuya, unas, ésta, otras</li>
+      <li>PROPN: Cuba</li>
       <li>VERB-Part: aprobada, considerada, dada, utilizada, comprada, dadas, incluida, rechazada, recibida, violada</li>
     </ul>
   </li>
@@ -235,6 +236,7 @@ Spanish data from the AnCora corpus.
       <li>NOUN-Part: heredado</li>
       <li>NUM: medio, media, un, doble, triple, uno, cero, una, cuádruple</li>
       <li>PRON: lo, le, me, uno, quien, la, todo, él, eso, nada</li>
+      <li>PROPN: Cuba</li>
       <li>VERB-Fin: tiene, dijo, hace, aseguró, explicó, afirmó, hizo, señaló, anunció, añadió</li>
       <li>VERB-Part: hecho, tenido, dado, visto, conseguido, pasado, ganado, llegado, perdido, logrado</li>
     </ul>

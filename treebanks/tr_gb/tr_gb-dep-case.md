@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 2	gene	gene	ADV	_	_	5	advmod	_	_
 3	makinanın	makina	NOUN	_	Case=Gen|Number=Sing	5	obl	_	_
 4	içinde	içinde	ADP	_	Number[psor]=Sing|Person[psor]=3	3	case	_	_
-5	bırakmışım	bırak	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+5	bırakmışım	bırak	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -39,11 +39,11 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 4 case	color:blue
 1	Londra	Londra	PROPN	_	Number=Sing	5	nsubj	_	_
-2	sonbaharda	sonbahar	NOUN	_	Case=Loc|Number=Sing	5	nmod:tmod	_	_
+2	sonbaharda	sonbahar	NOUN	_	Case=Loc|Number=Sing	5	obl:tmod	_	_
 3	o	o	PRON	_	Case=Nom|Number=Sing	5	nmod	_	_
 4	kadar	kadar	ADP	_	_	3	case	_	_
 5	güzel	güzel	ADJ	_	_	0	root	_	_
-6	olur	ol	AUX	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+6	olur	ol	AUX	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 7	ki	ki	ADV	_	_	5	advmod:emph	_	SpaceAfter=No
 8	!	!	PUNCT	_	_	5	punct	_	_
 
@@ -61,7 +61,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 3	sonra	sonra	ADP	_	_	2	case	_	_
 4	beni	ben	PRON	_	Case=Acc|Number=Sing|Person=1	6	obj	_	_
 5	telefonla	telefon	NOUN	_	Case=Ins|Number=Sing	6	obl	_	_
-6	ara	ara	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
+6	ara	ara	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~

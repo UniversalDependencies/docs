@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Npr`, `Pre`.
 
-4307 tokens (1%) have a non-empty value of `PrepCase`.
+4288 tokens (1%) have a non-empty value of `PrepCase`.
 82 types (0%) occur at least once with a non-empty value of `PrepCase`.
 47 lemmas (0%) occur at least once with a non-empty value of `PrepCase`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (4148; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (159; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (4132; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (156; 0% instances).
 
 ### `PRON`
 
-4148 <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> tokens (25% of all `PRON` tokens) have a non-empty value of `PrepCase`.
+4132 <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> tokens (25% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt> (4148; 100%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4148; 100%), <tt><a href="pl_pdb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (4148; 100%), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt> (3376; 81%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2872; 69%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2590; 62%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt> (4132; 100%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4132; 100%), <tt><a href="pl_pdb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (4132; 100%), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt> (3363; 81%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2861; 69%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2580; 62%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
-* `Npr` (3315; 80% of non-empty `PrepCase`): <em>jego, ich, jej, go, mu, ją, on, je, im, ona</em>
-* `Pre` (833; 20% of non-empty `PrepCase`): <em>nich, nim, niego, niej, nią, nimi, nie, niemu, ń, on</em>
+* `Npr` (3303; 80% of non-empty `PrepCase`): <em>jego, ich, jej, go, mu, ją, on, je, im, ona</em>
+* `Pre` (829; 20% of non-empty `PrepCase`): <em>nich, nim, niego, niej, nią, nimi, nie, niemu, ń, on</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Npr</tt></th><th><tt>Pre</tt></th></tr>
@@ -111,13 +111,18 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 
 ### `ADJ`
 
-159 <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `PrepCase`.
+156 <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `ADJ` and `PrepCase` co-occurred: <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (159; 100%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (159; 100%), <tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (159; 100%), <tt><a href="pl_pdb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (159; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (159; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (159; 100%), <tt><a href="pl_pdb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (159; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (159; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (159; 100%).
+The most frequent other feature values with which `ADJ` and `PrepCase` co-occurred: <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (156; 100%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (156; 100%), <tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (156; 100%), <tt><a href="pl_pdb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (156; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (156; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (156; 100%), <tt><a href="pl_pdb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (156; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (156; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (156; 100%).
 
 `ADJ` tokens may have the following values of `PrepCase`:
 
-* `Pre` (159; 100% of non-empty `PrepCase`): <em>prostu, dawna, wolna, daleka, angielsku, niedawna, bliska, cichu, francusku, nowa</em>
+* `Pre` (156; 100% of non-empty `PrepCase`): <em>prostu, dawna, wolna, daleka, angielsku, niedawna, bliska, cichu, francusku, nowa</em>
 
 `PrepCase` seems to be **lexical feature** of `ADJ`. 100% lemmas (44) occur only with one value of `PrepCase`.
+
+## Relations with Agreement in `PrepCase`
+
+The 10 most frequent relations where parent and child node agree in `PrepCase`:
+<tt>ADJ --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%).
 

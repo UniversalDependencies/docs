@@ -15,7 +15,7 @@ The 10 most frequent `X` types:  <em>joint, venture, personal, station, work, ba
 
 The 10 most frequent ambiguous lemmas: <em>work</em> (<tt><a href="it_vit-pos-X.html">X</a></tt> 9, <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 2), <em>personal</em> (<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="it_vit-pos-X.html">X</a></tt> 8), <em>computer</em> (<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="it_vit-pos-X.html">X</a></tt> 7), <em>station</em> (<tt><a href="it_vit-pos-X.html">X</a></tt> 7, <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 2), <em>facile</em> (<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="it_vit-pos-X.html">X</a></tt> 5), <em>bond</em> (<tt><a href="it_vit-pos-X.html">X</a></tt> 4, <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 3), <em>top</em> (<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="it_vit-pos-X.html">X</a></tt> 4, <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> 2), <em>business</em> (<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="it_vit-pos-X.html">X</a></tt> 3), <em>of</em> (<tt><a href="it_vit-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_vit-pos-X.html">X</a></tt> 3), <em>pro</em> (<tt><a href="it_vit-pos-X.html">X</a></tt> 3, <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> 2, <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>personal</em> (<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="it_vit-pos-X.html">X</a></tt> 8), <em>station</em> (<tt><a href="it_vit-pos-X.html">X</a></tt> 8, <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 2), <em>work</em> (<tt><a href="it_vit-pos-X.html">X</a></tt> 8, <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 2), <em>computer</em> (<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="it_vit-pos-X.html">X</a></tt> 7), <em>facile</em> (<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="it_vit-pos-X.html">X</a></tt> 5), <em>bond</em> (<tt><a href="it_vit-pos-X.html">X</a></tt> 4, <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 2), <em>c'</em> (<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> 174, <tt><a href="it_vit-pos-X.html">X</a></tt> 3, <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 1), <em>top</em> (<tt><a href="it_vit-pos-X.html">X</a></tt> 4, <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> 2), <em>business</em> (<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="it_vit-pos-X.html">X</a></tt> 3), <em>of</em> (<tt><a href="it_vit-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_vit-pos-X.html">X</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>personal</em> (<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="it_vit-pos-X.html">X</a></tt> 8), <em>station</em> (<tt><a href="it_vit-pos-X.html">X</a></tt> 8, <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 2), <em>work</em> (<tt><a href="it_vit-pos-X.html">X</a></tt> 8, <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 2), <em>computer</em> (<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="it_vit-pos-X.html">X</a></tt> 7), <em>facile</em> (<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="it_vit-pos-X.html">X</a></tt> 5), <em>bond</em> (<tt><a href="it_vit-pos-X.html">X</a></tt> 4, <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 2), <em>c'</em> (<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> 174, <tt><a href="it_vit-pos-X.html">X</a></tt> 3), <em>top</em> (<tt><a href="it_vit-pos-X.html">X</a></tt> 4, <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> 2), <em>business</em> (<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="it_vit-pos-X.html">X</a></tt> 3), <em>of</em> (<tt><a href="it_vit-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_vit-pos-X.html">X</a></tt> 3)
 
 
 * <em>personal</em>
@@ -39,7 +39,6 @@ The 10 most frequent ambiguous types:  <em>personal</em> (<tt><a href="it_vit-po
 * <em>c'</em>
   * <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> 174: <em>" qui non <b>c'</b> è neanche il Pronto Soccorso " .</em>
   * <tt><a href="it_vit-pos-X.html">X</a></tt> 3: <em>" la bureautique est facile , <b>c'</b> est très facile " .</em>
-  * <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 1: <em>Le osservazioni maggiori , quantitativamente , interessano la classe <b>c'</b> di i farmaci .</em>
 * <em>top</em>
   * <tt><a href="it_vit-pos-X.html">X</a></tt> 4: <em>Niente top issime , ma le <b>top</b> model ci saranno .</em>
   * <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> 3: <em>Niente <b>top</b> issime , ma le top model ci saranno .</em>
@@ -53,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>personal</em> (<tt><a href="it_vit-po
 
 ## Morphology
 
-The form / lemma ratio of `X` is 0.995614 (the average of all parts of speech is 1.497676).
+The form / lemma ratio of `X` is 0.995614 (the average of all parts of speech is 1.497845).
 
 The 1st highest number of forms (2) was observed with the lemma “work”: <em>station, work</em>.
 

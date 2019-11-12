@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="de_lit-dep-det.html">det</a></tt>.
 
-382 nodes (1%) are attached to their parents as `det:poss`.
+383 nodes (1%) are attached to their parents as `det:poss`.
 
-381 instances of `det:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.37696335078534.
+383 instances of `det:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3733681462141.
 
-The following 9 pairs of parts of speech are connected with `det:poss`: <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (364; 95% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="de_lit-pos-X.html">X</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `det:poss`: <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (370; 97% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (6; 2% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,28 +63,31 @@ The following 9 pairs of parts of speech are connected with `det:poss`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 det:poss	color:blue
-1	Wie	wie	ADV	ADV	_	2	advmod	_	_
-2	bequem	bequem	ADJ	ADJD	_	0	root	_	_
-3	ist	sein	AUX	VAFIN	_	2	cop	_	_
-4	es	es	PRON	PPER	_	2	expl	_	_
-5	doch	doch	ADV	ADV	_	10	advmod	_	_
-6	daß	daß	ADJ	ADJD	_	8	det:poss	_	_
-7	mythologische	mythologisch	ADJ	ADJA	_	8	amod	_	_
-8	Wesen	Wesen	NOUN	NN	_	10	obl	_	_
-9	allerlei	allerlei	PRON	PIS	_	10	obj	_	_
-10	bedeuten	bedeuten	VERB	VVINF	_	2	csubj	_	SpaceAfter=No
-11	,	--	PUNCT	$,	_	10	punct	_	_
-12	was	was	ADV	PWAV	_	15	obj	_	_
-13	man	man	PRON	PIS	_	15	nsubj	_	_
-14	sich	sich	PRON	PRF	_	15	iobj	_	_
-15	zueignen	zueignen	VERB	VVINF	_	10	advcl	_	_
-16	möchte	möchten	VERB	VMFIN	_	15	aux	_	SpaceAfter=No
-17	!	--	PUNCT	$.	_	2	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 14 det:poss	color:blue
+1	Wie	wie	ADV	PWAV	_	8	advmod	_	_
+2	konnte	können	AUX	VMFIN	_	8	aux	_	_
+3	er	er	PRON	PPER	_	8	nsubj	_	_
+4	besser	gut	ADJ	ADJD	_	8	advmod	_	_
+5	an	an	ADP	APPR	_	7	case	_	_
+6	die	der	DET	ART	_	7	det	_	_
+7	Nachwelt	Nachwelt	NOUN	NN	_	8	obl	_	_
+8	appellieren	appellieren	VERB	VVINF	_	0	root	_	SpaceAfter=No
+9	,	--	PUNCT	$,	_	8	punct	_	_
+10	als	als	CCONJ	KOKOM	_	13	case	_	_
+11	durch	durch	ADP	APPR	_	13	case	_	_
+12	das	der	DET	ART	_	13	det	_	_
+13	Vergessen	vergessen	NOUN	NN	_	8	nmod	_	_
+14	seiner	sein	DET	PPOSAT	_	15	det:poss	_	_
+15	selbst	selbst	ADV	ADV	_	13	advmod	_	_
+16	im	in	ADP	APPRART	_	17	case	_	_
+17	Umgange	Umgange	NOUN	NN	_	13	nmod	_	_
+18	mit	mit	ADP	APPR	_	19	case	_	_
+19	ihr	ihr	PRON	PPER	_	17	nmod	_	SpaceAfter=No
+20	?	--	PUNCT	$.	_	8	punct	_	_
 
 ~~~
 

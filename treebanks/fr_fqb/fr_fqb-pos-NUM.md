@@ -58,9 +58,9 @@ Parents of `NUM` nodes belong to 4 different parts of speech: <tt><a href="fr_fq
 
 2 (2%) `NUM` nodes have three or more children.
 
-The highest child degree of a `NUM` node is 6.
+The highest child degree of a `NUM` node is 7.
 
-Children of `NUM` nodes are attached using 6 different relations: <tt><a href="fr_fqb-dep-case.html">case</a></tt> (59; 78% instances), <tt><a href="fr_fqb-dep-punct.html">punct</a></tt> (6; 8% instances), <tt><a href="fr_fqb-dep-nmod.html">nmod</a></tt> (4; 5% instances), <tt><a href="fr_fqb-dep-dep.html">dep</a></tt> (3; 4% instances), <tt><a href="fr_fqb-dep-advmod.html">advmod</a></tt> (2; 3% instances), <tt><a href="fr_fqb-dep-det.html">det</a></tt> (2; 3% instances)
+Children of `NUM` nodes are attached using 6 different relations: <tt><a href="fr_fqb-dep-case.html">case</a></tt> (59; 77% instances), <tt><a href="fr_fqb-dep-punct.html">punct</a></tt> (6; 8% instances), <tt><a href="fr_fqb-dep-nmod.html">nmod</a></tt> (5; 6% instances), <tt><a href="fr_fqb-dep-dep.html">dep</a></tt> (3; 4% instances), <tt><a href="fr_fqb-dep-advmod.html">advmod</a></tt> (2; 3% instances), <tt><a href="fr_fqb-dep-det.html">det</a></tt> (2; 3% instances)
 
-Children of `NUM` nodes belong to 7 different parts of speech: <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (59; 78% instances), <tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (6; 8% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt> (3; 4% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (2; 3% instances)
+Children of `NUM` nodes belong to 7 different parts of speech: <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (59; 77% instances), <tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (6; 8% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt> (3; 4% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (2; 3% instances)
 

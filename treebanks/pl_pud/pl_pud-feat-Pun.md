@@ -16,9 +16,9 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pl_pud-pos-X.html">
 
 ### `X`
 
-151 <tt><a href="pl_pud-pos-X.html">X</a></tt> tokens (38% of all `X` tokens) have a non-empty value of `Pun`.
+151 <tt><a href="pl_pud-pos-X.html">X</a></tt> tokens (66% of all `X` tokens) have a non-empty value of `Pun`.
 
-The most frequent other feature values with which `X` and `Pun` co-occurred: <tt><a href="pl_pud-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (151; 100%), <tt><a href="pl_pud-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (151; 100%).
+The most frequent other feature values with which `X` and `Pun` co-occurred: <tt><a href="pl_pud-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (151; 100%), <tt><a href="pl_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (151; 100%).
 
 `X` tokens may have the following values of `Pun`:
 
@@ -30,6 +30,6 @@ The most frequent other feature values with which `X` and `Pun` co-occurred: <tt
 ## Relations with Agreement in `Pun`
 
 The 10 most frequent relations where parent and child node agree in `Pun`:
-<tt>X --[<tt><a href="pl_pud-dep-nmod.html">nmod</a></tt>]--> X</tt> (12; 92%),
-<tt>X --[<tt><a href="pl_pud-dep-fixed.html">fixed</a></tt>]--> X</tt> (2; 67%).
+<tt>X --[<tt><a href="pl_pud-dep-amod.html">amod</a></tt>]--> X</tt> (12; 100%),
+<tt>X --[<tt><a href="pl_pud-dep-fixed.html">fixed</a></tt>]--> X</tt> (2; 100%).
 

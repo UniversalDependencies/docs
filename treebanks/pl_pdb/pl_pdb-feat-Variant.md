@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Long`, `Short`.
 
-26984 tokens (8%) have a non-empty value of `Variant`.
+26913 tokens (8%) have a non-empty value of `Variant`.
 106 types (0%) occur at least once with a non-empty value of `Variant`.
 24 lemmas (0%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 4 part-of-speech tags: <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (19674; 6% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (5152; 1% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (2145; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (13; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (19627; 6% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (5134; 1% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (2139; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (13; 0% instances).
 
 ### `ADP`
 
-19674 <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> tokens (53% of all `ADP` tokens) have a non-empty value of `Variant`.
+19627 <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> tokens (53% of all `ADP` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADP` and `Variant` co-occurred: <tt><a href="pl_pdb-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (19674; 100%).
+The most frequent other feature values with which `ADP` and `Variant` co-occurred: <tt><a href="pl_pdb-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (19627; 100%).
 
 `ADP` tokens may have the following values of `Variant`:
 
-* `Long` (823; 4% of non-empty `Variant`): <em>ze, we, przede, ode, przeze, beze, nade, pode</em>
-* `Short` (18851; 96% of non-empty `Variant`): <em>w, z, od, przez, przed, pod, nad, bez, poprzez, spod</em>
+* `Long` (819; 4% of non-empty `Variant`): <em>ze, we, przede, ode, przeze, beze, nade, pode</em>
+* `Short` (18808; 96% of non-empty `Variant`): <em>w, z, od, przez, przed, pod, nad, bez, poprzez, spod</em>
 
 <table>
   <tr><th>Paradigm <i>w</i></th><th><tt>Long</tt></th><th><tt>Short</tt></th></tr>
@@ -32,14 +32,14 @@ The most frequent other feature values with which `ADP` and `Variant` co-occurre
 
 ### `PRON`
 
-5152 <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> tokens (31% of all `PRON` tokens) have a non-empty value of `Variant`.
+5134 <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> tokens (31% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5152; 100%), <tt><a href="pl_pdb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5152; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt> (4148; 81%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3876; 75%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3356; 65%), <tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (3315; 64%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (2660; 52%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5134; 100%), <tt><a href="pl_pdb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5134; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt> (4132; 80%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3863; 75%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3344; 65%), <tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (3303; 64%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (2650; 52%).
 
 `PRON` tokens may have the following values of `Variant`:
 
-* `Long` (3833; 74% of non-empty `Variant`): <em>jego, ich, jej, mnie, nich, ją, on, je, nim, niego</em>
-* `Short` (1319; 26% of non-empty `Variant`): <em>go, mi, mu, ci, cię, ich, je, im, ń, jej</em>
+* `Long` (3818; 74% of non-empty `Variant`): <em>jego, ich, jej, mnie, nich, ją, on, je, nim, niego</em>
+* `Short` (1316; 26% of non-empty `Variant`): <em>go, mi, mu, ci, cię, ich, je, im, ń, jej</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Long</tt></th><th><tt>Short</tt></th></tr>
@@ -141,14 +141,14 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 ### `AUX`
 
-2145 <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> tokens (24% of all `AUX` tokens) have a non-empty value of `Variant`.
+2139 <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> tokens (24% of all `AUX` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `AUX` and `Variant` co-occurred: <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2145; 100%), <tt><a href="pl_pdb-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (2145; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2145; 100%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2145; 100%), <tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2145; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2145; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2145; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=1</tt> (1876; 87%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1689; 79%).
+The most frequent other feature values with which `AUX` and `Variant` co-occurred: <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2139; 100%), <tt><a href="pl_pdb-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (2139; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2139; 100%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2139; 100%), <tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2139; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2139; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2139; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=1</tt> (1870; 87%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1684; 79%).
 
 `AUX` tokens may have the following values of `Variant`:
 
-* `Long` (1053; 49% of non-empty `Variant`): <em>em, eś</em>
-* `Short` (1092; 51% of non-empty `Variant`): <em>m, śmy, ś, ście</em>
+* `Long` (1050; 49% of non-empty `Variant`): <em>em, eś</em>
+* `Short` (1089; 51% of non-empty `Variant`): <em>m, śmy, ś, ście</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>Long</tt></th><th><tt>Short</tt></th></tr>

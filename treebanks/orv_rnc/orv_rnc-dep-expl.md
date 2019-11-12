@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Russian-RNC: Relations: `expl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `expl`: <tt><a href="orv_rnc-dep-expl-pv.html">expl:pv</a></tt>.
 
-7 nodes (0%) are attached to their parents as `expl`.
+8 nodes (0%) are attached to their parents as `expl`.
 
-7 instances of `expl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.57142857142857.
+8 instances of `expl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.875.
 
-The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (5; 71% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 14% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 14% instances).
+The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (5; 63% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 13% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 13% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -35,7 +36,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 11	всѣми	весь	DET	_	Case=Ins|Gender=Fem|Number=Plur	12	det	_	_
 12	волостьми	волость	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
-14	Тържькъ	Тържокъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
+14	Тържькъ	Торжокъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
 16	Бѣжицѣ	Бѣжицѣ	PROPN	_	Case=Nom|Gender=Fem|Number=Plur	9	conj	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	_
@@ -48,7 +49,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 24	,	,	PUNCT	_	_	25	punct	_	_
 25	Егна	Егна	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	9	conj	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	_
-27	Заволочие	Заволочие	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	9	conj	_	SpaceAfter=No
+27	Заволочие	Заволочье	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	9	conj	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	_
 29	Терѣ	Терѣ	PROPN	_	Case=Nom|Gender=Fem|Number=Plur	9	conj	_	SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	_
@@ -78,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 6	и	и	CCONJ	_	_	8	cc	_	_
 7	твоихъ	твой	DET	_	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes	8	det	_	_
 8	мужь	мужъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	5	conj	_	_
-9	пошло	пойти	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes	2	acl:relcl	_	SpaceAfter=No
+9	пошло	поити	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes	2	acl:relcl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	то	то	PART	_	_	12	expl	_	_
 12	твое	твой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes	0	root	_	_
@@ -115,8 +116,8 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 13	священьстве	священьство	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	30	nmod	_	_
 14	и	и	CCONJ	_	_	17	cc	_	_
 15	о	о	ADP	_	_	17	case	_	_
-16	душевней	душевний	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	17	amod	_	_
-17	ползе	полза	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+16	душевней	душевный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	17	amod	_	_
+17	ползе	польза	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	_
 19	колико	колико	ADV	_	Degree=Pos	20	advmod	_	_
 20	мочно	мочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	28	advcl	_	SpaceAfter=No

@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 3	fgColor:white
 # visual-style 3 1 discourse	color:blue
 1	Voici	voici	ADP	E	_	3	discourse	_	_
-2	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
+2	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	microphotographies	microphotographie	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
 4	de	de	ADP	E	_	5	case	_	_
 5	Nick	Nick	PROPN	SP	_	3	nmod	_	_

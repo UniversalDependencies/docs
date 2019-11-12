@@ -35,8 +35,8 @@ The 2nd highest number of forms (1) was observed with the lemma “ng”: <em>ng
 `PART` occurs with 2 feature-value pairs: `Case=Erg`, `Polarity=Neg`
 
 `PART` occurs with 2 feature combinations.
-The most frequent feature combination is `Case=Erg` (1 tokens).
-Examples: <em>ng</em>
+The most frequent feature combination is `Polarity=Neg` (1 tokens).
+Examples: <em>Hindi</em>
 
 
 ## Relations

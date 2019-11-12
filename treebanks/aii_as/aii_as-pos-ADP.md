@@ -13,9 +13,9 @@ The 10 most frequent `ADP` lemmas: <em>ܠ, ܡܼܢ, ܕ, ܒ, ܓܵܘ, ܩܵܐ, ܒܸ,
 
 The 10 most frequent `ADP` types:  <em>ܠ, ܕ, ܩܵܐ, ܒ, ܓܵܘ, ܡܼܢ, ܡ̣ܢ, ܒܸ, ܒܘܕ, ܒܘܼܬ</em>
 
-The 10 most frequent ambiguous lemmas: <em>ܕ</em> (<tt><a href="aii_as-pos-PART.html">PART</a></tt> 11, <tt><a href="aii_as-pos-ADP.html">ADP</a></tt> 5, <tt><a href="aii_as-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="aii_as-pos-DET.html">DET</a></tt> 1, <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> 1), <em>ܒ</em> (<tt><a href="aii_as-pos-ADP.html">ADP</a></tt> 4, <tt><a href="aii_as-pos-PART.html">PART</a></tt> 1), <em>ܥܲܡ</em> (<tt><a href="aii_as-pos-ADP.html">ADP</a></tt> 1, <tt><a href="aii_as-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ܕ</em> (<tt><a href="aii_as-pos-PART.html">PART</a></tt> 11, <tt><a href="aii_as-pos-ADP.html">ADP</a></tt> 5, <tt><a href="aii_as-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="aii_as-pos-DET.html">DET</a></tt> 1, <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> 1), <em>ܒ</em> (<tt><a href="aii_as-pos-ADP.html">ADP</a></tt> 4, <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> 1), <em>ܥܲܡ</em> (<tt><a href="aii_as-pos-ADP.html">ADP</a></tt> 1, <tt><a href="aii_as-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ܕ</em> (<tt><a href="aii_as-pos-PART.html">PART</a></tt> 11, <tt><a href="aii_as-pos-ADP.html">ADP</a></tt> 5, <tt><a href="aii_as-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="aii_as-pos-DET.html">DET</a></tt> 1, <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> 1), <em>ܒ</em> (<tt><a href="aii_as-pos-ADP.html">ADP</a></tt> 4, <tt><a href="aii_as-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ܕ</em> (<tt><a href="aii_as-pos-PART.html">PART</a></tt> 11, <tt><a href="aii_as-pos-ADP.html">ADP</a></tt> 5, <tt><a href="aii_as-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="aii_as-pos-DET.html">DET</a></tt> 1, <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> 1), <em>ܒ</em> (<tt><a href="aii_as-pos-ADP.html">ADP</a></tt> 4, <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> 1)
 
 
 * <em>ܕ</em>
@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>ܕ</em> (<tt><a href="aii_as-pos-PART
   * <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> 1: <em>ܗܵܘ̇ <b>ܕ</b> ܙܵܪܸܥ ܜܵܒ̣ܬܐ : ܒ ܚܵܨܸܕ ܫܠܵܡܵܐ .</em>
 * <em>ܒ</em>
   * <tt><a href="aii_as-pos-ADP.html">ADP</a></tt> 4: <em>ܐܲܢܹܐ ܒܢܵܬܹ̈ܐ ܕ ܥܲܡܝܼ ܝܢܵܐ , ܚܬܘܵܬܝܼ̈ ܝܢܵܐ <b>ܒ</b> ܐܘܼܡܬܵܐ ܐܬܘܿܪܵܝܬܵܐ .</em>
-  * <tt><a href="aii_as-pos-PART.html">PART</a></tt> 1: <em>ܗܵܘ̇ ܕ ܙܵܪܸܥ ܜܵܒ̣ܬܐ : <b>ܒ</b> ܚܵܨܸܕ ܫܠܵܡܵܐ .</em>
+  * <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> 1: <em>ܗܵܘ̇ ܕ ܙܵܪܸܥ ܜܵܒ̣ܬܐ : <b>ܒ</b> ܚܵܨܸܕ ܫܠܵܡܵܐ .</em>
 
 ## Morphology
 

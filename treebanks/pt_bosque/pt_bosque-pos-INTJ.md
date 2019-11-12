@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-Bosque: POS Tags: `INTJ`
 
-There are 28 `INTJ` lemmas (0%), 28 `INTJ` types (0%) and 38 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 12 in number of types and 16 in number of tokens.
+There are 28 `INTJ` lemmas (0%), 28 `INTJ` types (0%) and 37 `INTJ` tokens (0%).
+Out of 17 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>rarará, não, é, adeus, ah, ai, alô, basta, bem, bingo</em>
 
 The 10 most frequent `INTJ` types:  <em>Rarará, não, é, Adeus, Ah, Ai, Alô, BINGO, Deus, Droga</em>
 
-The 10 most frequent ambiguous lemmas: <em>não</em> (<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 1387, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>é</em> (<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 38, <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 27, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 2), <em>adeus</em> (<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 1), <em>basta</em> (<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 1), <em>bem</em> (<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 109, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 16, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>claro</em> (<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> 32, <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 16, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>deus</em> (<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>droga</em> (<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 32, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>já</em> (<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 341, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 23, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>meu</em> (<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> 94, <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> 2, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 1, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>não</em> (<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 1388, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 2), <em>é</em> (<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 2, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 1, <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> 1), <em>adeus</em> (<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 1), <em>basta</em> (<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 1), <em>bem</em> (<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 110, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 19, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 16, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>claro</em> (<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> 32, <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 16, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>deus</em> (<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>droga</em> (<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 32, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>já</em> (<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 350, <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 1, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>meu</em> (<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> 94, <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> 2, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 1, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>não</em> (<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 1243, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 2), <em>é</em> (<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> 1037, <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> 90, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 26, <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 15, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>Adeus</em> (<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>Deus</em> (<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 1), <em>Meu</em> (<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> 4, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>Pois</em> (<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 1, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>Qual</em> (<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> 7, <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> 2, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>Socorro</em> (<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>Viva</em> (<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 8, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>basta</em> (<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> 11, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>não</em> (<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 1243, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 2), <em>é</em> (<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> 1059, <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> 97, <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 3, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>Adeus</em> (<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>Deus</em> (<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 8, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>Meu</em> (<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> 4, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>Pois</em> (<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 1, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>Qual</em> (<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> 7, <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> 2, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>Socorro</em> (<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>Viva</em> (<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 8, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1), <em>basta</em> (<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> 11, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>não</em>
@@ -23,19 +23,19 @@ The 10 most frequent ambiguous types:  <em>não</em> (<tt><a href="pt_bosque-pos
   * <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 2: <em>Não , <b>não</b> e <b>não</b></em>
   * <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 2: <em>Apesar de evitar dar um <b>não</b> definitivo , Marise deixou claro que deve recusar o convite de Brizola .</em>
 * <em>é</em>
-  * <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> 1037: <em>Conforto <b>é</b> fundamental .</em>
-  * <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> 90: <em>« Toda platéia de música erudita <b>é</b> tradicionalista » , explica .</em>
-  * <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 26: <em>O que <b>é</b> que acham que mudou desde os anos de apogeu de o conjunto ?</em>
-  * <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 15: <em>Mas <b>é</b> em a Republica Dominicana que o cruzeiro atinge seu ponto alto .</em>
+  * <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> 1059: <em>Conforto <b>é</b> fundamental .</em>
+  * <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> 97: <em>« Toda platéia de música erudita <b>é</b> tradicionalista » , explica .</em>
+  * <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> 9: <em>Mas <b>é</b> em a Republica Dominicana que o cruzeiro atinge seu ponto alto .</em>
+  * <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 3: <em>Em a disputa por o mercado de impressoras quem sai ganhando <b>é</b> o consumidor .</em>
   * <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 3: <em>De a série Soluções , o « PC <b>é</b> mais que uma máquina de escrever » é o lançamento de a Ariadne ( 132 págs . )</em>
   * <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1: <em>Pois <b>é</b> , Palmeiras e Corinthians fazem hoje a finalíssima de o Brasileiro .</em>
 * <em>Adeus</em>
   * <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1: <em>Os manifestantes reagem a a intervenção , agitando lenços brancos e gritando « <b>Adeus</b> De Gaulle » .</em>
   * <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1: <em>« <b>Adeus</b> America » de Jan Schutte , « O Casamento de Muriel » de P.J. Hogan , « 71 Fragmentos de a Cronologia de Um Acaso » , de Michael Haneke , « Fresh » de Boaz Yakin , « Venus de Neve » de Sotiris Gortisas , « Costas a as Costas , Cara a Cara » de Huang Jianxin , « Rainha Bandida » de Shekkar Kapur , « Sem Pele » de Alessandro d' Allatri , « Wrony » de Dorota Kedzierzawska , « Três Palmeiras » de João Botelho , « Katia Ismailova » de Valeri Todorovski , « Os Silêncios de o Palácio » de Moufida Tiati e o filme coletivo « Homem, Deus e Monstro » .</em>
 * <em>Deus</em>
-  * <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 9: <em>Já se definiu uma vez como « moço de recados » de <b>Deus</b> .</em>
+  * <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 8: <em>Já se definiu uma vez como « moço de recados » de <b>Deus</b> .</em>
+  * <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 2: <em>« <b>Deus</b> me livre .</em>
   * <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1: <em>Meu <b>Deus</b> !</em>
-  * <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 1: <em>Entretanto , Couto Ferreira apresentava ontem um alto teor de ácido úrico em o sangue e encontrava se em acelerado emagrecimento , segundo informou o director-clínico de o Hospital Prisional S.João de <b>Deus</b> , Manuel Pinéu .</em>
 * <em>Meu</em>
   * <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> 4: <em>« <b>Meu</b> passado muito me orgulha » , dá de ombros Maciel .</em>
   * <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> 1: <em><b>Meu</b> Deus !</em>
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>não</em> (<tt><a href="pt_bosque-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.417416).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.413768).
 
 The 1st highest number of forms (1) was observed with the lemma “adeus”: <em>Adeus</em>.
 
@@ -69,24 +69,18 @@ The 2nd highest number of forms (1) was observed with the lemma “ah”: <em>Ah
 
 The 3rd highest number of forms (1) was observed with the lemma “ai”: <em>Ai</em>.
 
-`INTJ` occurs with 6 features: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt> (4; 11% instances), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt> (3; 8% instances), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt> (1; 3% instances), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt> (1; 3% instances), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt> (1; 3% instances), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt> (1; 3% instances)
-
-`INTJ` occurs with 7 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Ind`, `Number=Sing`, `Person=3`, `Tense=Past`, `VerbForm=Fin`
-
-`INTJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (34 tokens).
-Examples: <em>Rarará, não, é, Ah, Ai, Alô, BINGO, Deus, Droga, Hein</em>
+`INTJ` does not occur with any features.
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="pt_bosque-dep-discourse.html">discourse</a></tt> (13; 34% instances), <tt><a href="pt_bosque-dep-root.html">root</a></tt> (12; 32% instances), <tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt> (4; 11% instances), <tt><a href="pt_bosque-dep-obj.html">obj</a></tt> (4; 11% instances), <tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt> (3; 8% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (2; 5% instances)
+`INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="pt_bosque-dep-discourse.html">discourse</a></tt> (13; 35% instances), <tt><a href="pt_bosque-dep-root.html">root</a></tt> (12; 32% instances), <tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt> (4; 11% instances), <tt><a href="pt_bosque-dep-obj.html">obj</a></tt> (4; 11% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt> (2; 5% instances)
 
-Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (14; 37% instances),  (12; 32% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (6; 16% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
+Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (14; 38% instances),  (12; 32% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (6; 16% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
 
 12 (32%) `INTJ` nodes are leaves.
 
-14 (37%) `INTJ` nodes have one child.
+13 (35%) `INTJ` nodes have one child.
 
 6 (16%) `INTJ` nodes have two children.
 
@@ -94,7 +88,7 @@ Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="pt_b
 
 The highest child degree of a `INTJ` node is 3.
 
-Children of `INTJ` nodes are attached using 9 different relations: <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (30; 68% instances), <tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt> (4; 9% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt> (2; 5% instances), <tt><a href="pt_bosque-dep-vocative.html">vocative</a></tt> (2; 5% instances), <tt><a href="pt_bosque-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="pt_bosque-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="pt_bosque-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
+Children of `INTJ` nodes are attached using 9 different relations: <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (30; 70% instances), <tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt> (4; 9% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="pt_bosque-dep-vocative.html">vocative</a></tt> (2; 5% instances), <tt><a href="pt_bosque-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="pt_bosque-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="pt_bosque-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
 
-Children of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (30; 68% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (6; 14% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (30; 70% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (6; 14% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

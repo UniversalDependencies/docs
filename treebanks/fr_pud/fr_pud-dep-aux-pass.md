@@ -6,7 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-PUD: Relations: `aux:pass`
 
-This relation is a language-specific subtype of <tt><a href="fr_pud-dep-aux.html">aux</a></tt>.
+This relation is a language-specific subtype of .
+There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_pud-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_pud-dep-aux-tense.html">aux:tense</a></tt>.
 
 226 nodes (1%) are attached to their parents as `aux:pass`.
 
@@ -25,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	Auparavant	_	ADV	RB	_	7	advmod	_	_
 2	les	_	DET	DT	Gender=Masc|Number=Plur	3	det	_	_
 3	jets	_	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj:pass	_	_
-4	avaient	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp	7	aux	_	_
+4	avaient	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp	7	aux:tense	_	_
 5	seulement	_	ADV	RB	_	7	advmod	_	_
 6	été	_	AUX	VBN	Gender=Masc|Number=Sing	7	aux:pass	_	_
 7	vus	_	VERB	VBN	Gender=Masc|Number=Plur	0	root	_	_
@@ -48,7 +49,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 3	de	_	ADP	IN	_	5	case	_	_
 4	10	_	NUM	CD	_	5	nummod	_	_
 5	semaines	_	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
-6	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
+6	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux:tense	_	_
 7	été	_	AUX	VBN	Gender=Masc|Number=Sing	9	aux:pass	_	_
 8	«	_	PUNCT	``	_	9	punct	_	_
 9	certifiée	_	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	_

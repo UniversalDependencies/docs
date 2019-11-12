@@ -52,10 +52,10 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	J.	J.	PROPN	_	_	2	flat:name	_	_
 4	Famalaro	Famalaro	PROPN	_	_	2	flat:name	_	_
 5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	SpaceAfter=No
-6	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	7	expl	_	_
+6	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	7	expl:subj	_	_
 7	accusé	accuser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 8	d'	de	ADP	_	_	10	mark	_	SpaceAfter=No
-9	avoir	avoir	AUX	_	VerbForm=Inf	10	aux	_	_
+9	avoir	avoir	AUX	_	VerbForm=Inf	10	aux:tense	_	_
 10	tué	tuer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	xcomp	_	_
 11	?	?	PUNCT	_	_	10	punct	_	_
 
@@ -69,7 +69,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 1 nsubj:pass	color:blue
 1	Qui	qui	PRON	_	PronType=Int	4	nsubj:pass	_	_
-2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 3	été	être	AUX	_	Tense=Past|VerbForm=Part	4	aux:pass	_	_
 4	élu	élire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 5	gouverneur	gouverneur	NOUN	_	Gender=Masc|Number=Sing	4	xcomp	_	_

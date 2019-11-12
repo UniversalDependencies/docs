@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_partut-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.199021).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.199053).
 
 The 1st highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
 
@@ -52,9 +52,9 @@ Examples: <em>to, 's, '</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 4 different relations: <tt><a href="en_partut-dep-mark.html">mark</a></tt> (680; 53% instances), <tt><a href="en_partut-dep-case.html">case</a></tt> (375; 29% instances), <tt><a href="en_partut-dep-advmod.html">advmod</a></tt> (233; 18% instances), <tt><a href="en_partut-dep-conj.html">conj</a></tt> (2; 0% instances)
+`PART` nodes are attached to their parents using 5 different relations: <tt><a href="en_partut-dep-mark.html">mark</a></tt> (680; 53% instances), <tt><a href="en_partut-dep-case.html">case</a></tt> (375; 29% instances), <tt><a href="en_partut-dep-advmod.html">advmod</a></tt> (232; 18% instances), <tt><a href="en_partut-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="en_partut-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (788; 61% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (216; 17% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (201; 16% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (34; 3% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (30; 2% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (790; 61% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (217; 17% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (201; 16% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (34; 3% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (30; 2% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 1287 (100%) `PART` nodes are leaves.
 

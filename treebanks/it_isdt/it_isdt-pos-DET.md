@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>la</em> (<tt><a href="it_isdt-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.924051 (the average of all parts of speech is 1.480817).
+The form / lemma ratio of `DET` is 1.924051 (the average of all parts of speech is 1.480768).
 
 The 1st highest number of forms (10) was observed with the lemma “il”: <em>gli, i, i1, il, l', la, le, lo, lu, l’</em>.
 
@@ -82,7 +82,7 @@ Examples: <em>il, lo, l’, l', le, de, i, i1, lu</em>
 
 `DET` nodes are attached to their parents using 8 different relations: <tt><a href="it_isdt-dep-det.html">det</a></tt> (46345; 95% instances), <tt><a href="it_isdt-dep-det-poss.html">det:poss</a></tt> (1870; 4% instances), <tt><a href="it_isdt-dep-det-predet.html">det:predet</a></tt> (411; 1% instances), <tt><a href="it_isdt-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="it_isdt-dep-fixed.html">fixed</a></tt> (5; 0% instances), <tt><a href="it_isdt-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="it_isdt-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="it_isdt-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (43070; 89% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (3208; 7% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (1106; 2% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (573; 1% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (311; 1% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (161; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (99; 0% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt> (83; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (21; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (2; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (43072; 89% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (3206; 7% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (1106; 2% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (573; 1% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (311; 1% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (161; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (99; 0% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt> (83; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (21; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (2; 0% instances)
 
 48613 (100%) `DET` nodes are leaves.
 

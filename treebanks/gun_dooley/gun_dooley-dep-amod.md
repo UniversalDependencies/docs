@@ -8,31 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-371 nodes (3%) are attached to their parents as `amod`.
+40 nodes (0%) are attached to their parents as `amod`.
 
-363 instances of `amod` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.48247978436658.
+40 instances of `amod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 10 pairs of parts of speech are connected with `amod`: <tt><a href="gun_dooley-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gun_dooley-pos-PART.html">PART</a></tt> (193; 52% instances), <tt><a href="gun_dooley-pos-PRON.html">PRON</a></tt>-<tt><a href="gun_dooley-pos-PART.html">PART</a></tt> (117; 32% instances), <tt><a href="gun_dooley-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gun_dooley-pos-ADJ.html">ADJ</a></tt> (42; 11% instances), <tt><a href="gun_dooley-pos-PRON.html">PRON</a></tt>-<tt><a href="gun_dooley-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="gun_dooley-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gun_dooley-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="gun_dooley-pos-NUM.html">NUM</a></tt>-<tt><a href="gun_dooley-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="gun_dooley-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gun_dooley-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="gun_dooley-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gun_dooley-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="gun_dooley-pos-PART.html">PART</a></tt>-<tt><a href="gun_dooley-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gun_dooley-pos-PRON.html">PRON</a></tt>-<tt><a href="gun_dooley-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="gun_dooley-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gun_dooley-pos-ADJ.html">ADJ</a></tt> (30; 75% instances), <tt><a href="gun_dooley-pos-PRON.html">PRON</a></tt>-<tt><a href="gun_dooley-pos-ADJ.html">ADJ</a></tt> (8; 20% instances), <tt><a href="gun_dooley-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gun_dooley-pos-ADJ.html">ADJ</a></tt> (2; 5% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 7 amod	color:blue
-1	_	_	PRON	pro	Person=3|PronType=Prs	8	obl:sentcon	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 amod	color:blue
+1	_	_	PRON	pro	Person=3|PronType=Prs	6	obl:sentcon	_	_
 2	_	_	SCONJ	subordconn	_	1	mark	_	_
-3	_	_	PART	discprt	_	1	advmod	_	_
-4	_	_	PART	illocprt	_	1	advmod	_	_
-5	_	_	NOUN	n	_	8	obl	_	_
-6	_	_	ADJ	adj	_	5	amod	_	_
-7	_	_	PART	focprt	_	5	amod	_	_
-8	_	_	VERB	vi	Person[subj]=3|Subcat=Int	0	root	_	_
-9	_	_	VERB	vi	Person[subj]=3|Subcat=Int	8	advcl	_	_
-10	_	_	SCONJ	subordconn	_	9	mark	_	_
-11	_	_	PUNCT	punct	_	8	punct	_	_
+3	_	_	PART	illocprt	_	1	dep:mod	_	_
+4	_	_	NOUN	n	_	6	nsubj	_	_
+5	_	_	ADJ	inact	_	4	amod	_	_
+6	_	_	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+7	_	_	PRON	pro	Clusivity=In|Number=Plur|Person=1|PronType=Prs	6	obl	_	_
+8	_	_	SCONJ	rel	_	7	mark	_	_
+9	_	_	ADP	post	_	7	case	_	_
+10	_	_	PUNCT	punct	_	6	punct	_	_
 
 ~~~
 
@@ -40,40 +39,41 @@ The following 10 pairs of parts of speech are connected with `amod`: <tt><a href
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 amod	color:blue
-1	_	_	PRON	pro	Person=3|PronType=Prs	5	nsubj	_	_
-2	_	_	PART	quantprt	_	1	clf	_	_
-3	_	_	PART	discprt	_	1	amod	_	_
-4	_	_	PART	illocprt	_	1	amod	_	_
-5	_	_	VERB	vt	Person[subj]=3|Subcat=Tran	0	root	_	_
-6	_	_	VERB	vs	Person=3|VerbForm=Ser	5	compound:svc	_	_
-7	_	_	NUM	num	_	8	nummod	_	_
-8	_	_	NOUN	n	_	5	obl	_	_
-9	_	_	ADP	post	_	8	case	_	_
-10	_	_	PUNCT	punct	_	5	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 amod	color:blue
+1	_	_	PUNCT	punct	_	2	punct	_	_
+2	_	_	PRON	interpron	PronType=Int	5	parataxis:rep	_	_
+3	_	_	ADJ	inact	_	2	amod	_	_
+4	_	_	PUNCT	punct	_	2	punct	_	_
+5	_	_	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	8	advcl	_	_
+6	_	_	SCONJ	subordconn	_	5	mark	_	_
+7	_	_	PART	illocprt	_	5	dep:mod	_	_
+8	_	_	VERB	vt	Mood=Ind|Person[subj]=3|Polarity=Neg|Subcat=Tran|VerbForm=Fin	0	root	_	_
+9	_	_	VERB	vpos	Polarity=Neg|VerbForm=Post	8	compound:svc	_	_
+10	_	_	PART	illocprt	_	8	dep:mod	_	_
+11	_	_	PUNCT	punct	_	12	punct	_	_
+12	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	8	conj	_	_
+13	_	_	PART	focprt	_	12	dep:mod	_	_
+14	_	_	PUNCT	punct	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 amod	color:blue
-1	_	_	PRON	pro	Person=3|PronType=Prs	8	obl:sentcon	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 amod	color:blue
+1	_	_	PRON	pro	Person=3|PronType=Prs	6	obl:sentcon	_	_
 2	_	_	SCONJ	subordconn	_	1	mark	_	_
-3	_	_	PART	discprt	_	1	advmod	_	_
-4	_	_	PART	illocprt	_	1	advmod	_	_
-5	_	_	NOUN	n	_	8	obl	_	_
-6	_	_	ADJ	adj	_	5	amod	_	_
-7	_	_	PART	focprt	_	5	amod	_	_
-8	_	_	VERB	vi	Person[subj]=3|Subcat=Int	0	root	_	_
-9	_	_	VERB	vi	Person[subj]=3|Subcat=Int	8	advcl	_	_
-10	_	_	SCONJ	subordconn	_	9	mark	_	_
-11	_	_	PUNCT	punct	_	8	punct	_	_
+3	_	_	PART	illocprt	_	1	dep:mod	_	_
+4	_	_	PROPN	nprop	_	6	nsubj	_	_
+5	_	_	ADJ	inact	_	4	amod	_	_
+6	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+7	_	_	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	6	compound:svc	_	_
+8	_	_	PUNCT	punct	_	6	punct	_	_
 
 ~~~
 

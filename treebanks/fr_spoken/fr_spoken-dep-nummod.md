@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-303 nodes (1%) are attached to their parents as `nummod`.
+157 nodes (0%) are attached to their parents as `nummod`.
 
-163 instances of `nummod` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.41584158415842.
+150 instances of `nummod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28662420382166.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (165; 54% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (95; 31% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (20; 7% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (7; 2% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (146; 93% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (6; 4% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -30,39 +30,68 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 7 nummod	color:blue
-1	c'	ce	PRON	_	_	2	nsubj	_	_
-2	est	être	AUX	_	_	0	root	_	_
-3	je	je	PRON	_	_	5	nsubj	_	_
-4	te	te	PRON	_	_	5	obj	_	_
-5	dis	dire	VERB	DISCOURSE	_	2	parataxis:discourse	_	_
-6	dix-huit	dix-huit	NUM	_	_	2	nummod	_	_
-7	cent	cent	NUM	_	_	6	nummod	_	_
-8	soixante-dix	soixante-dix	NUM	_	_	7	nummod	_	_
-9	par	par	ADP	_	_	10	case	_	_
-10	là	là	ADV	_	_	6	dep	_	_
+# visual-style 6 5 nummod	color:blue
+1	pa~	pa~	SCONJ	_	_	2	reparandum	_	_
+2	parce	parce	SCONJ	_	_	8	mark	_	_
+3	que	que	SCONJ	_	_	2	fixed	_	_
+4	à	à	ADP	_	_	6	case	_	_
+5	trente	trente	NUM	_	_	6	nummod	_	_
+6	mille	mille	NUM	_	_	8	obl:mod	_	_
+7	vous	vous	PRON	_	_	8	nsubj	_	_
+8	êtes	être	VERB	_	_	0	root	_	_
+9	dans	dans	ADP	_	_	18	reparandum	_	_
+10	dans	dans	ADP	_	_	18	reparandum	_	_
+11	encore	encore	ADV	_	_	12	advmod	_	_
+12	dans	dans	ADP	_	_	18	reparandum	_	_
+13	le	le	DET	_	_	12	det	_	_
+14	dans	dans	ADP	_	_	16	case	_	_
+15	le	le	DET	_	_	16	det	_	_
+16	raison~	raison~	NOUN	_	_	18	reparandum	_	_
+17	enfin	enfin	ADV	_	_	16	discourse	_	_
+18	dans	dans	ADP	_	_	19	case	_	_
+19	l~	l~	X	_	_	8	obl:arg	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 nummod	color:blue
-1	Nice	Nice	PROPN	_	_	3	nsubj	_	_
-2	s'	se	PRON	_	_	3	dep:iobj	_	_
-3	impose	imposer	VERB	_	_	0	root	_	_
-4	à	à	ADP	_	_	5	case	_	_
-5	Nancy	Nancy	PROPN	_	_	3	obl:comp	_	_
-6	deux	deux	NUM	_	_	3	nummod	_	_
-7	à	à	ADP	_	_	8	case	_	_
-8	un	un	NOUN	_	_	6	dep	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 nummod	color:blue
+1	et	et	CCONJ	_	_	26	cc	_	_
+2	le	le	DET	_	_	3	det	_	_
+3	français	français	NOUN	_	_	26	dislocated	_	_
+4	langue	langue	NOUN	_	_	3	compound	_	_
+5	étrangère	étranger	ADJ	_	_	4	amod	_	_
+6	dans	dans	ADP	_	_	8	case	_	_
+7	un	un	DET	_	_	8	det	_	_
+8	milieu	milieu	NOUN	_	_	26	obl:mod	_	_
+9	euh	euh	INTJ	_	_	8	discourse	_	_
+10	où	où	ADV	_	_	17	advmod	_	_
+11	quatre-vingt-dix	quatre-vingt-dix	NUM	_	_	12	nummod	_	_
+12	pour	pour	ADV	_	_	17	nsubj	_	EXTPOS=NOUN
+13	cent	cent	NUM	_	_	12	obj	_	INMWE=Yes
+14	de	de	ADP	_	_	16	case	_	_
+15	la	le	DET	_	_	16	det	_	_
+16	classe	classe	NOUN	_	_	12	obj	_	_
+17	est	être	VERB	_	_	8	acl:relcl	_	_
+18	en	en	ADP	_	_	19	case	_	_
+19	langue	langue	NOUN	_	_	17	obl:arg	_	_
+20	étrangère	étranger	ADJ	_	_	19	amod	_	_
+21	c'	ce	PRON	_	_	26	nsubj	_	_
+22	est	être	AUX	_	_	26	cop	_	_
+23	beaucoup	beaucoup	ADV	_	_	25	advmod	_	_
+24	ben	ben	INTJ	_	_	23	discourse	_	_
+25	moins	moins	ADV	_	_	26	advmod	_	_
+26	facile	facile	ADJ	_	_	0	root	_	_
+27	malgré	malgré	ADP	_	_	28	case	_	_
+28	tout	tout	PRON	_	_	26	obl:mod	_	_
 
 ~~~
 

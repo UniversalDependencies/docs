@@ -11,9 +11,9 @@ This relation is universal.
 1000 nodes (5%) are attached to their parents as `root`.
 
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.191.
+Average distance between parent and child is 6.189.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (773; 77% instances), -<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (143; 14% instances), -<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (75; 8% instances), -<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), -<tt><a href="pl_pud-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (773; 77% instances), -<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (142; 14% instances), -<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (75; 8% instances), -<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), -<tt><a href="pl_pud-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

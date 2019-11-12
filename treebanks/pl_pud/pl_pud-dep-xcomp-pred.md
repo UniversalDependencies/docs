@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PUD: Relations: `xcomp:pred`
 
 This relation is a language-specific subtype of <tt><a href="pl_pud-dep-xcomp.html">xcomp</a></tt>.
+There are also 1 other language-specific subtypes of `xcomp`: <tt><a href="pl_pud-dep-xcomp-subj.html">xcomp:subj</a></tt>.
 
-45 nodes (0%) are attached to their parents as `xcomp:pred`.
+44 nodes (0%) are attached to their parents as `xcomp:pred`.
 
-39 instances of `xcomp:pred` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.35555555555556.
+38 instances of `xcomp:pred` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.31818181818182.
 
-The following 4 pairs of parts of speech are connected with `xcomp:pred`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (28; 62% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (14; 31% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `xcomp:pred`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (27; 61% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (14; 32% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,8 +23,8 @@ The following 4 pairs of parts of speech are connected with `xcomp:pred`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 xcomp:pred	color:blue
-1	Tylko	tylko	PART	part	_	2	advmod	2:advmod	_
-2	50	50	X	dig	NumForm=Digit	3	nsubj	3:nsubj	_
+1	Tylko	tylko	PART	part	_	2	advmod:emph	2:advmod:emph	_
+2	50	50	NUM	num:pl:nom:m3:rec	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	3	nsubj	3:nsubj	_
 3	stanowiły	stanowić	VERB	praet:pl:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	targowiska	targowisko	NOUN	subst:pl:acc:n:ncol	Case=Acc|Gender=Neut|Number=Plur	3	xcomp:pred	3:xcomp:pred	SpaceAfter=No
 5	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	_

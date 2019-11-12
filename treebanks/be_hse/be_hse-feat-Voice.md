@@ -74,10 +74,10 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (92; 71%),
-<tt>VERB --[<tt><a href="be_hse-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (58; 62%),
-<tt>VERB --[<tt><a href="be_hse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (33; 66%),
-<tt>VERB --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (33; 57%),
-<tt>VERB --[<tt><a href="be_hse-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (29; 60%),
+<tt>VERB --[<tt><a href="be_hse-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (58; 64%),
+<tt>VERB --[<tt><a href="be_hse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (36; 68%),
+<tt>VERB --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (30; 56%),
+<tt>VERB --[<tt><a href="be_hse-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (29; 59%),
 <tt>VERB --[<tt><a href="be_hse-dep-aux.html">aux</a></tt>]--> AUX</tt> (16; 62%),
 <tt>VERB --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> VERB</tt> (1; 100%).
 

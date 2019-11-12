@@ -63,7 +63,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 9 10 orphan	color:blue
 1	Nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	expirons	expirons	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	du	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+3	du	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	dioxyde	dioxyde	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
 5	de	de	ADP	E	_	6	case	_	_
 6	carbone	carbone	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No

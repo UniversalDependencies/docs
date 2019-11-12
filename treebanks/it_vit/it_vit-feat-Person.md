@@ -25,7 +25,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `1` (1159; 14% of non-empty `Person`): <em>sono, sia, ho, abbiamo, siamo, possa, avevo, stiamo, dobbiamo, avrei</em>
 * `2` (103; 1% of non-empty `Person`): <em>hai, state, sei, avete, stai, siete, volete, vorresti, volevi, vuoi</em>
 * `3` (6833; 84% of non-empty `Person`): <em>è, ha, hanno, sono, era, sarà, deve, può, aveva, possono</em>
-* `EMPTY` (1325): <em>essere, stato, stata, stati, aver, state, potuto, dovuto, esser, essendo</em>
+* `EMPTY` (1325): <em>essere, stato, stata, stati, aver, state, potuto, dovuto, esser, poter</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -116,7 +116,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 
 * `1` (1; 50% of non-empty `Person`): <em>vedo</em>
 * `3` (1; 50% of non-empty `Person`): <em>dice</em>
-* `EMPTY` (57986): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
+* `EMPTY` (57989): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
 
 ### `ADV`
 
@@ -147,14 +147,15 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 `DET` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>il</em>
-* `EMPTY` (43976): <em>il, la, l', i, le, un, una, gli, lo, questo</em>
+* `EMPTY` (43977): <em>il, la, l', i, le, un, una, gli, lo, questo</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> VERB</tt> (596; 62%),
-<tt>VERB --[<tt><a href="it_vit-dep-expl-impers.html">expl:impers</a></tt>]--> PRON</tt> (35; 81%),
+<tt>VERB --[<tt><a href="it_vit-dep-expl-impers.html">expl:impers</a></tt>]--> PRON</tt> (35; 83%),
 <tt>AUX --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 100%),
 <tt>VERB --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
-<tt>AUX --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="it_vit-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (1; 100%).
 

@@ -57,7 +57,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 * `Imp` (714; 8% of non-empty `Tense`): <em>era, aveva, erano, fosse, avevano, poteva, avevo, fossero, doveva, avesse</em>
 * `Past` (736; 8% of non-empty `Tense`): <em>stato, stata, stati, fu, state, potuto, dovuto, voluto, venne, fatto</em>
 * `Pres` (6759; 77% of non-empty `Tense`): <em>è, ha, sono, hanno, deve, può, sia, possono, devono, ho</em>
-* `EMPTY` (657): <em>essere, aver, esser, essendo, poter, far, avere, voler, dover, è</em>
+* `EMPTY` (657): <em>essere, aver, esser, poter, essendo, far, avere, voler, dover, è</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -91,7 +91,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Pres` (10; 100% of non-empty `Tense`): <em>redigente, controllanti, cauzionante, dice, vedo</em>
-* `EMPTY` (57978): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
+* `EMPTY` (57981): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
 
 ### `DET`
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `DET` and `Tense` co-occurred:
 `DET` tokens may have the following values of `Tense`:
 
 * `Past` (5; 100% of non-empty `Tense`): <em>dette, detto, detta</em>
-* `EMPTY` (43972): <em>il, la, l', i, le, un, una, gli, lo, questo</em>
+* `EMPTY` (43973): <em>il, la, l', i, le, un, una, gli, lo, questo</em>
 
 ### `ADJ`
 

@@ -9,25 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-164 tokens (1%) have a non-empty value of `NumType`.
-53 types (1%) occur at least once with a non-empty value of `NumType`.
-28 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (163; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+255 tokens (1%) have a non-empty value of `NumType`.
+68 types (1%) occur at least once with a non-empty value of `NumType`.
+36 lemmas (1%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (254; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-163 <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> tokens (40% of all `NUM` tokens) have a non-empty value of `NumType`.
+254 <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> tokens (40% of all `NUM` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (187; 74%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (125; 77% of non-empty `NumType`): <em>dhá, trí, céad, seacht, ceithre, fiche, sé, aon, dá, cúig</em>
-* `Ord` (38; 23% of non-empty `NumType`): <em>chéad, dara, 10ú, gcéad, 11ú, 17ú, 18ú, 3ú, cheathrú, dtríú</em>
-* `EMPTY` (240): <em>(2), (1), (a), (b), 1, (4), (c), (3), 1997, 1992</em>
+* `Card` (193; 76% of non-empty `NumType`): <em>dhá, trí, céad, dá, cúig, seacht, sé, ceithre, fiche, deich</em>
+* `Ord` (61; 24% of non-empty `NumType`): <em>chéad, dara, gcéad, 18ú, 10ú, tríú, 11ú, 17ú, 26ú, 31ú</em>
+* `EMPTY` (380): <em>(2), (1), (a), (b), (4), (c), 1, 10, 1997, 2</em>
 
 <table>
   <tr><th>Paradigm <i>céad</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>céad</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt></tt></td><td></td><td><em>gcéad</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt></tt></td><td><em>gcéad</em></td><td><em>gcéad</em></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt></tt></td><td><em>chéad</em></td><td><em>chéad</em></td></tr>
 </table>
 
@@ -40,11 +42,11 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>céad</em>
-* `EMPTY` (6324): <em>bheith, chur, rud, duine, dhéanamh, chuid, fear, dul, fáil, lá</em>
+* `EMPTY` (10772): <em>bheith, rud, duine, chur, dhéanamh, chuid, lá, dul, chéile, fear</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NUM</tt> (3; 100%),
-<tt>NUM --[<tt><a href="ga_idt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2; 67%).
+<tt>NUM --[<tt><a href="ga_idt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (4; 80%),
+<tt>NUM --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NUM</tt> (3; 100%).
 

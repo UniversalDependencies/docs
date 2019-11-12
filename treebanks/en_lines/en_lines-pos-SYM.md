@@ -13,9 +13,9 @@ The 10 most frequent `SYM` lemmas: <em>%, like</em>
 
 The 10 most frequent `SYM` types:  <em>%, -%, Like</em>
 
-The 10 most frequent ambiguous lemmas: <em>%</em> (<tt><a href="en_lines-pos-SYM.html">SYM</a></tt> 5, <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 4), <em>like</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 141, <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 52, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 1, <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>%</em> (<tt><a href="en_lines-pos-SYM.html">SYM</a></tt> 5, <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 4), <em>like</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 164, <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 60, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 1, <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>%</em> (<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> 3), <em>-%</em> (<tt><a href="en_lines-pos-SYM.html">SYM</a></tt> 2, <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 1), <em>Like</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 2, <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>%</em> (<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> 3), <em>-%</em> (<tt><a href="en_lines-pos-SYM.html">SYM</a></tt> 2, <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 1), <em>Like</em> (<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 6, <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> 1)
 
 
 * <em>%</em>
@@ -25,12 +25,12 @@ The 10 most frequent ambiguous types:  <em>%</em> (<tt><a href="en_lines-pos-NOU
   * <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> 2: <em>The flat-rate approach produces more risk of overcompensation , which is why we have set the margin at 2.6 <b>-%</b> .</em>
   * <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 1: <em>The only product of any significance is canned tomatoes , but even they account for no more than 7 <b>-%</b> of the market .</em>
 * <em>Like</em>
-  * <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 2: <em><b>Like</b> , last year , some old witch died and her tea set was sold to an antiques shop .</em>
+  * <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 6: <em><b>Like</b> my father she could not speak what she felt .</em>
   * <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> 1: <em>SELECT asterisk FROM Customers WHERE Country <b>Like</b> U %</em>
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.500000 (the average of all parts of speech is 1.244453).
+The form / lemma ratio of `SYM` is 1.500000 (the average of all parts of speech is 1.241057).
 
 The 1st highest number of forms (2) was observed with the lemma “%”: <em>%, -%</em>.
 

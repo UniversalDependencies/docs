@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 * `Anim` (37; 10% of non-empty `Animacy`): <em>cimra, gospoda, otroka, sina, atija, babeka, dedca, duha, ekonomista, eksponenta</em>
 * `Inan` (343; 90% of non-empty `Animacy`): <em>dan, način, petek, denar, izraz, teden, primer, čas, konec, mesec</em>
-* `EMPTY` (3247): <em>bistvu, redu, strani, jutro, leto, stvari, evrov, koncu, gospod, hvala</em>
+* `EMPTY` (3246): <em>bistvu, redu, strani, jutro, leto, stvari, evrov, koncu, gospod, hvala</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (219) occur only with one value of `Animacy`.
 

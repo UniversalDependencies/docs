@@ -13,7 +13,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 79542 tokens (53%) have a non-empty value of `Case`.
 24095 types (75%) occur at least once with a non-empty value of `Case`.
 7110 lemmas (79%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (31604; 21% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (15609; 10% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (11196; 7% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (9846; 7% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (7311; 5% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt> (2786; 2% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (709; 0% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (481; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (31604; 21% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (15609; 10% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (11196; 7% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (9846; 7% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (7312; 5% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt> (2786; 2% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (709; 0% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (480; 0% instances).
 
 ### `NOUN`
 
@@ -117,9 +117,9 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `VERB`
 
-7311 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Case`.
+7312 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7311; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7311; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7242; 99%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Strong</tt> (6563; 90%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6487; 89%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6264; 86%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6111; 84%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4778; 65%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7312; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7312; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7243; 99%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Strong</tt> (6564; 90%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6488; 89%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6265; 86%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6112; 84%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4779; 65%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -128,7 +128,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Gen` (263; 4% of non-empty `Case`): <em>стоꙗща, гл҃ща, идуща, гл҃емаго, гл҃юща, кованых, лежаща, нарѧжаных, нарѧженых, сѣдѧща</em>
 * `Ins` (34; 0% of non-empty `Case`): <em>золоченꙑми, изʼбранʼными, избранʼными, злачеными, калеными, съкрушенъмь, умиленама, въздрастъшим, възлежащими, възлюбленымь</em>
 * `Loc` (19; 0% of non-empty `Case`): <em>бивши, ведѹщиимь, въ, живѹщиимь, золочоных, исходищихъ, кающемь, нареченѣмь, наречнѣмь, нарѣцаѥмѣмъ</em>
-* `Nom` (5874; 80% of non-empty `Case`): <em>слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, слышавше, видѣвше</em>
+* `Nom` (5875; 80% of non-empty `Case`): <em>слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, слышавше, видѣвше</em>
 * `EMPTY` (17855): <em>реч, приде, иде, посла, повелѣ, поиде, придоша, престави, нача, рѣша</em>
 
 <table>
@@ -201,9 +201,9 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `AUX`
 
-481 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (15% of all `AUX` tokens) have a non-empty value of `Case`.
+480 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (15% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (481; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (481; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (481; 100%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (481; 100%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (395; 82%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Strong</tt> (378; 79%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (355; 74%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (336; 70%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (249; 52%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (480; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (480; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (480; 100%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (480; 100%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (394; 82%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Strong</tt> (377; 79%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (354; 74%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (335; 70%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (249; 52%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -212,7 +212,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Gen` (39; 8% of non-empty `Case`): <em>сѹща, суща, бывшаго, сѹщиихъ, бывших, бывъшю, сущаго, сущихъ, будущаго, бывша</em>
 * `Ins` (3; 1% of non-empty `Case`): <em>сѹщиими, сꙋщими</em>
 * `Loc` (5; 1% of non-empty `Case`): <em>бывшемъ, будущемъ, бꙑвшеи, сѹщиихъ</em>
-* `Nom` (218; 45% of non-empty `Case`): <em>бывъ, было, былъ, сыи, бывше, сы, были, была, сѹще, суще</em>
+* `Nom` (217; 45% of non-empty `Case`): <em>бывъ, было, былъ, сыи, бывше, сы, были, была, сѹще, суще</em>
 * `EMPTY` (2780): <em>бѣ, быс, есть, ѥсть, будеть, бѧше, суть, бы, быти, бꙑс҃</em>
 
 <table>

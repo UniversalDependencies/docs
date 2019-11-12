@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2553 nodes (10%) are attached to their parents as `punct`.
+2554 nodes (10%) are attached to their parents as `punct`.
 
 1690 instances of `punct` (66%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.45593419506463.
+Average distance between parent and child is 8.45379796397807.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (1357; 53% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (691; 27% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (133; 5% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (133; 5% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (77; 3% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (59; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (46; 2% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (33; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (15; 1% instances), <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (1356; 53% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (685; 27% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (134; 5% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (133; 5% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (77; 3% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (66; 3% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (46; 2% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (33; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (15; 1% instances), <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	,	_	PUNCT	,	_	7	punct	_	_
 6	le	_	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
 7	maximum	_	NOUN	NN	Gender=Masc|Number=Sing	2	appos	_	_
-8	autorisé	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	7	ccomp	_	SpaceAfter=No
+8	autorisé	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	7	acl	_	SpaceAfter=No
 9	.	_	PUNCT	.	_	2	punct	_	_
 
 ~~~

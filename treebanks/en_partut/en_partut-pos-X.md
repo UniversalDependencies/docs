@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>La</em> (<tt><a href="en_partut-pos-X
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.030769 (the average of all parts of speech is 1.199021).
+The form / lemma ratio of `X` is 1.030769 (the average of all parts of speech is 1.199053).
 
 The 1st highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
 
@@ -77,9 +77,9 @@ Examples: <em>La, Comédie, humaine, De, Illusions, Le, Perdues, Chagrin, Peau, 
 
 Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="en_partut-pos-X.html">X</a></tt> (81; 54% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (26; 17% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (20; 13% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (17; 11% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt> (1; 1% instances),  (1; 1% instances)
 
-103 (69%) `X` nodes are leaves.
+104 (69%) `X` nodes are leaves.
 
-12 (8%) `X` nodes have one child.
+11 (7%) `X` nodes have one child.
 
 7 (5%) `X` nodes have two children.
 

@@ -111,7 +111,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 * `Ger` (16; 1% of non-empty `VerbForm`): <em>estupendo, normando, agricolas, contendo, inclusive, lindo, paralela</em>
 * `Inf` (22; 1% of non-empty `VerbForm`): <em>particular, mártir, SOLIDARIO, Vestibular, aviar, bereber, consular, dispar, glaciar, kandar</em>
 * `Part` (1962; 98% of non-empty `VerbForm`): <em>pasado, compuesto, privado, conocidos, conocida, ubicado, privada, abierto, elevada, abierta</em>
-* `EMPTY` (22895): <em>gran, primera, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
+* `EMPTY` (22896): <em>gran, primera, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (842) occur only with one value of `VerbForm`.
 
@@ -143,7 +143,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 * `Ger` (21; 10% of non-empty `VerbForm`): <em>Fernando, Orlando, Absorbiendo, Armando, Buscando, Esperando, Moose, Pompeyo, Sembrando, diciembre</em>
 * `Inf` (67; 32% of non-empty `VerbForm`): <em>Charles, Sir, Star, vodafone, Aimar, Air, Amir, Balvicar, Bonaparte, Conocer</em>
 * `Part` (123; 58% of non-empty `VerbForm`): <em>Unidos, Unido, Alvarado, Quesada, visto, Abiertas, Casado, Hurtado, Puerto, Quemada</em>
-* `EMPTY` (39285): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
+* `EMPTY` (39284): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
 
 `VerbForm` seems to be **lexical feature** of `PROPN`. 100% lemmas (145) occur only with one value of `VerbForm`.
 

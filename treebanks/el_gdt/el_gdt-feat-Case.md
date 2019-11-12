@@ -97,9 +97,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (985; 34% of non-empty `Case`): <em>που, αυτό, αυτή, οποία, το, οποίο, αυτά, αυτές, μας, οποίες</em>
+* `Acc` (984; 34% of non-empty `Case`): <em>που, αυτό, αυτή, οποία, το, οποίο, αυτά, αυτές, μας, οποίες</em>
 * `Gen` (895; 31% of non-empty `Case`): <em>τους, μας, του, της, μου, σας, αυτής, αυτού, αυτών, άλλων</em>
-* `Nom` (1019; 35% of non-empty `Case`): <em>που, αυτό, οποία, αυτή, οποίος, οποίο, αυτά, εμείς, αυτές, οποίες</em>
+* `Nom` (1020; 35% of non-empty `Case`): <em>που, αυτό, οποία, αυτή, οποίος, οποίο, αυτά, εμείς, αυτές, οποίες</em>
 
 <table>
   <tr><th>Paradigm <i>που</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
@@ -183,7 +183,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PROPN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (1265; 99%),
 <tt>NOUN --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (862; 97%),
 <tt>NOUN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> PRON</tt> (586; 99%),
-<tt>PRON --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (367; 99%),
+<tt>PRON --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (368; 99%),
 <tt>ADJ --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (230; 98%),
 <tt>NOUN --[<tt><a href="el_gdt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (228; 57%),
 <tt>PROPN --[<tt><a href="el_gdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (178; 99%),

@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 * `Imp` (1390; 12% of non-empty `Aspect`): <em>хотѧше, стояше, гл҃ааше, творѧше, молѧше, имѧше, гл҃ше, идѧше, стоꙗше, сѣчахꙋ</em>
 * `Perf` (9264; 78% of non-empty `Aspect`): <em>реч, приде, иде, посла, повелѣ, поиде, придоша, престави, нача, рѣша</em>
 * `Res` (1200; 10% of non-empty `Aspect`): <em>створилъ, пришелъ, далъ, пришли, взѧлъ, взѧли, взѧл, вышло, послалъ, реклъ</em>
-* `EMPTY` (13312): <em>слышавъ, гл҃ѧ, ити, видѣвъ, хотѧ, рекъ, видѣти, платити, рекуще, бити</em>
+* `EMPTY` (13313): <em>слышавъ, гл҃ѧ, ити, видѣвъ, хотѧ, рекъ, видѣти, платити, рекуще, бити</em>
 
 <table>
   <tr><th>Paradigm <i>рещи</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th><th><tt>Res</tt></th></tr>
@@ -51,7 +51,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 * `Imp` (717; 47% of non-empty `Aspect`): <em>бѣ, бѧше, бѣша, бѧху, бѧшеть, бѧхꙋ, бѧхуть, бѧхѹ, бѣхъ, бꙗше</em>
 * `Perf` (718; 47% of non-empty `Aspect`): <em>быс, бы, бꙑс҃, бысть, быша, бꙑша, бых, быхъ, бꙑ, быста</em>
 * `Res` (86; 6% of non-empty `Aspect`): <em>было, былъ, были, была, бꙑло, был, бꙑлъ, бꙑли, бꙑле</em>
-* `EMPTY` (1740): <em>есть, ѥсть, будеть, суть, быти, ѥси, еси, сущю, ес, есми</em>
+* `EMPTY` (1739): <em>есть, ѥсть, будеть, суть, быти, ѥси, еси, сущю, ес, есми</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th><th><tt>Res</tt></th></tr>

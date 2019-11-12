@@ -13,7 +13,7 @@ This relation is universal.
 77 instances of `case` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.55844155844156.
 
-The following 6 pairs of parts of speech are connected with `case`: <tt><a href="gun_thomas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> (39; 51% instances), <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt>-<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> (19; 25% instances), <tt><a href="gun_thomas-pos-VERB.html">VERB</a></tt>-<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> (13; 17% instances), <tt><a href="gun_thomas-pos-ADV.html">ADV</a></tt>-<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> (4; 5% instances), <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt>-<tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="gun_thomas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `case`: <tt><a href="gun_thomas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> (39; 51% instances), <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt>-<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> (19; 25% instances), <tt><a href="gun_thomas-pos-VERB.html">VERB</a></tt>-<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> (13; 17% instances), <tt><a href="gun_thomas-pos-ADV.html">ADV</a></tt>-<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> (3; 4% instances), <tt><a href="gun_thomas-pos-PART.html">PART</a></tt>-<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt>-<tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="gun_thomas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,9 +22,9 @@ The following 6 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 case	color:blue
-1	Romoĩ	moĩ	VERB	vt	Clusivity[subj]=Ex|Person[subj]=1|Subcat=Tran	0	root	_	A1.EXCL-CAUS-be.localized
+1	Romoĩ	moĩ	VERB	vt	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Tran|VerbForm=Fin	0	root	_	A1.PL.EXCL-CAUS-localized
 2	mitã	mitã	NOUN	n	_	1	obj	_	child
-3	oñembo'e	ñembo'e	VERB	vi:a	_	1	xcomp	_	A3-learn
+3	oñembo'e	ñembo'e	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	1	xcomp	_	A3-learn
 4	aguã	aguã	SCONJ	subordconn	_	3	mark	_	PURP
 5	jurua	jurua	NOUN	n	_	3	obl	_	non.indigenous
 6	rami	rami	ADP	post	_	5	case	_	like
@@ -41,9 +41,9 @@ The following 6 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 3 4 case	color:blue
 1	Ha'e	ha'e	CCONJ	coordconn	_	5	cc	_	and
 2	,	,	PUNCT	punct	_	5	punct	_	_
-3	opa	opa	PRON	univpro	PronType=Tot	5	obl	_	everywhere
+3	opa	opa	PRON	quant	PronType=Tot	5	obl	_	everywhere
 4	rupi	upi	ADP	post	_	3	case	_	R-through
-5	ka'aguy	ka'aguy	NOUN	n	_	0	root	_	forest
+5	ka'aguy	ka'aguy	VERB	n:pred	Mood=Ind|Subcat=Int|VerbForm=Vnoun	0	root	_	forest
 6	.	.	PUNCT	punct	_	5	punct	_	_
 
 ~~~
@@ -56,10 +56,10 @@ The following 6 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 7 case	color:blue
 1	Ha'e	ha'e	PRON	pro	Person=3|PronType=Prs	4	dislocated:cleft	_	3
-2	cheremiarirõ'i	emiarirõ	NOUN	n	Number[psor]=Sing	4	nsubj	_	B1.SG-R-grand.child-=DIM
-3	kuery	kuery	PART	quantprt	_	2	clf	_	COL
-4	oja	ja	VERB	vi:a	_	0	root	_	A3-be.born
-5	ramo'i	ramo	ADV	adv	_	4	advmod	_	recently-=DIM
+2	cheremiarirõ'i	emiarirõ	NOUN	n	Number[psor]=Sing	4	nsubj	_	B1.SG-R-grandchild-=DIM
+3	kuery	kuery	PART	quantprt	_	2	dep:mod	_	COL
+4	oja	ja	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	A3-born
+5	ramo'i	ramo	PART	temprt	_	4	dep:mod	_	recently-=DIM
 6	va'e	va'e	SCONJ	rel	_	4	mark	_	REL
 7	pe	pe	ADP	post	_	4	case	_	DAT
 8	guarã	gua	SCONJ	nmlzer	_	4	mark	_	NMLZ-FUT

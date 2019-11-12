@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 5 different values: `Conv`, `Fin`, `Inf`, `Part`, `Vnoun`.
 
-2676 tokens (15%) have a non-empty value of `VerbForm`.
+2670 tokens (15%) have a non-empty value of `VerbForm`.
 1791 types (24%) occur at least once with a non-empty value of `VerbForm`.
 938 lemmas (19%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1639; 9% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (412; 2% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (405; 2% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (220; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1633; 9% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (412; 2% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (405; 2% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (220; 1% instances).
 
 ### `VERB`
 
-1639 <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+1633 <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1610; 98%), <tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1334; 81%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1198; 73%), <tt><a href="pl_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1094; 67%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (944; 58%), <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (885; 54%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (872; 53%), <tt><a href="pl_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (821; 50%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1604; 98%), <tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1328; 81%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1192; 73%), <tt><a href="pl_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1094; 67%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (938; 57%), <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (879; 54%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (866; 53%), <tt><a href="pl_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (821; 50%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (69; 4% of non-empty `VerbForm`): <em>począwszy, tworząc, biorąc, będąc, grając, mówiąc, Korespondując, Korzystając, Oczyszczając, Odpowiedziawszy</em>
-* `Fin` (1336; 82% of non-empty `VerbForm`): <em>może, ma, powiedział, mogą, można, było, jest, miał, miała, mówi</em>
+* `Fin` (1330; 81% of non-empty `VerbForm`): <em>może, ma, powiedział, mogą, można, było, jest, miał, miała, mówi</em>
 * `Inf` (234; 14% of non-empty `VerbForm`): <em>być, zrobić, doprowadzić, mieć, utrzymać, poradzić, tworzyć, zobaczyć, dać, dotrzeć</em>
 
 <table>
@@ -42,14 +42,14 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `ADJ`
 
-412 <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> tokens (19% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+412 <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> tokens (17% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="pl_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (412; 100%), <tt><a href="pl_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (406; 99%), <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (298; 72%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (245; 59%), <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (228; 55%), <tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (228; 55%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (211; 51%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (412; 100% of non-empty `VerbForm`): <em>napisane, uznawane, posiadający, używane, związana, związane, Założony, Zjednoczonych, finansowane, oddanych</em>
-* `EMPTY` (1774): <em>jednym, ostatnich, 1, nowych, pierwszy, wielkiej, inne, dużą, innych, innymi</em>
+* `EMPTY` (1946): <em>I, II, jednym, ostatnich, 1, nowych, pierwszy, wielkiej, inne, dużą</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (299) occur only with one value of `VerbForm`.
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Vnoun` (220; 100% of non-empty `VerbForm`): <em>zniszczenie, kręcenia, ograniczaniu, ograniczenia, opuszczenia, otwarcie, poszukiwaniu, powstrzymania, przejęcia, przekroczenie</em>
-* `EMPTY` (4299): <em>lat, roku, części, miejsce, wojny, latach, ludzi, raz, wieku, większość</em>
+* `EMPTY` (4284): <em>lat, roku, części, miejsce, wojny, latach, ludzi, raz, wieku, większość</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (160) occur only with one value of `VerbForm`.
 
@@ -103,11 +103,12 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (160; 99%),
-<tt>VERB --[<tt><a href="pl_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (37; 88%),
+<tt>VERB --[<tt><a href="pl_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (36; 88%),
 <tt>VERB --[<tt><a href="pl_pud-dep-parataxis-obj.html">parataxis:obj</a></tt>]--> VERB</tt> (32; 97%),
-<tt>VERB --[<tt><a href="pl_pud-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (29; 100%),
-<tt>VERB --[<tt><a href="pl_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (13; 59%),
+<tt>VERB --[<tt><a href="pl_pud-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (30; 100%),
+<tt>VERB --[<tt><a href="pl_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (13; 62%),
 <tt>ADJ --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (9; 56%),
+<tt>VERB --[<tt><a href="pl_pud-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (5; 83%),
 <tt>VERB --[<tt><a href="pl_pud-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="pl_pud-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (3; 100%),
 <tt>AUX --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).

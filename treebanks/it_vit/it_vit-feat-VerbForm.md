@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
 30371 tokens (11%) have a non-empty value of `VerbForm`.
-7191 types (31%) occur at least once with a non-empty value of `VerbForm`.
+7190 types (31%) occur at least once with a non-empty value of `VerbForm`.
 1924 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 8 part-of-speech tags: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (20935; 7% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (9413; 3% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
@@ -120,7 +120,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Fin` (2; 18% of non-empty `VerbForm`): <em>dice, vedo</em>
 * `Ger` (1; 9% of non-empty `VerbForm`): <em>lenendo</em>
 * `Part` (8; 73% of non-empty `VerbForm`): <em>redigente, controllanti, cauzionante</em>
-* `EMPTY` (57977): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
+* `EMPTY` (57980): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
 
 ### `DET`
 
@@ -131,7 +131,7 @@ The most frequent other feature values with which `DET` and `VerbForm` co-occurr
 `DET` tokens may have the following values of `VerbForm`:
 
 * `Part` (5; 100% of non-empty `VerbForm`): <em>dette, detto, detta</em>
-* `EMPTY` (43972): <em>il, la, l', i, le, un, una, gli, lo, questo</em>
+* `EMPTY` (43973): <em>il, la, l', i, le, un, una, gli, lo, questo</em>
 
 ### `ADJ`
 

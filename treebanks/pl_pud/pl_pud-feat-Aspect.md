@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-2634 tokens (14%) have a non-empty value of `Aspect`.
+2628 tokens (14%) have a non-empty value of `Aspect`.
 1785 types (24%) occur at least once with a non-empty value of `Aspect`.
 930 lemmas (19%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 4 part-of-speech tags: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1615; 9% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (412; 2% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (387; 2% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (220; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1609; 9% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (412; 2% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (387; 2% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (220; 1% instances).
 
 ### `VERB`
 
-1615 <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Aspect`.
+1609 <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1610; 100%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1312; 81%), <tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1310; 81%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1174; 73%), <tt><a href="pl_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1070; 66%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (944; 58%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (848; 53%), <tt><a href="pl_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (821; 51%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1604; 100%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1306; 81%), <tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1304; 81%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1168; 73%), <tt><a href="pl_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1070; 67%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (938; 58%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (842; 52%), <tt><a href="pl_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (821; 51%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (885; 55% of non-empty `Aspect`): <em>może, ma, mogą, było, jest, miał, miała, mówi, być, miały</em>
+* `Imp` (879; 55% of non-empty `Aspect`): <em>może, ma, mogą, było, jest, miał, miała, mówi, być, miały</em>
 * `Perf` (730; 45% of non-empty `Aspect`): <em>powiedział, powiedziała, udało, napisał, ogłosił, spotkał, zrobić, doprowadzić, dotarła, począwszy</em>
 * `EMPTY` (24): <em>można, trzeba, warto, widać, potrzeba, wiadomo, wolno</em>
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `ADJ`
 
-412 <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> tokens (19% of all `ADJ` tokens) have a non-empty value of `Aspect`.
+412 <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> tokens (17% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
 The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="pl_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (412; 100%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (412; 100%), <tt><a href="pl_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (406; 99%), <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (298; 72%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (245; 59%), <tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (228; 55%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (211; 51%).
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 * `Imp` (184; 45% of non-empty `Aspect`): <em>uznawane, posiadający, używane, finansowane, otaczającego, reprezentowane, reprezentujące, traktowane, urzędującym, wykorzystywana</em>
 * `Perf` (228; 55% of non-empty `Aspect`): <em>napisane, związana, związane, Założony, Zjednoczonych, oddanych, ogłoszony, podbite, podzielony, sprzedany</em>
-* `EMPTY` (1774): <em>jednym, ostatnich, 1, nowych, pierwszy, wielkiej, inne, dużą, innych, innymi</em>
+* `EMPTY` (1946): <em>I, II, jednym, ostatnich, 1, nowych, pierwszy, wielkiej, inne, dużą</em>
 
 `Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (299) occur only with one value of `Aspect`.
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 
 * `Imp` (76; 35% of non-empty `Aspect`): <em>kręcenia, ograniczaniu, poszukiwaniu, przyznawanie, tworzenie, używanie, wytwarzania, Flokowanie, badania, bycia</em>
 * `Perf` (144; 65% of non-empty `Aspect`): <em>zniszczenie, ograniczenia, opuszczenia, otwarcie, powstrzymania, przejęcia, przekroczenie, przyjęcia, uzyskania, użyciu</em>
-* `EMPTY` (4299): <em>lat, roku, części, miejsce, wojny, latach, ludzi, raz, wieku, większość</em>
+* `EMPTY` (4284): <em>lat, roku, części, miejsce, wojny, latach, ludzi, raz, wieku, większość</em>
 
 `Aspect` seems to be **lexical feature** of `NOUN`. 100% lemmas (160) occur only with one value of `Aspect`.
 
@@ -82,12 +82,12 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (120; 75%),
 <tt>ADJ --[<tt><a href="pl_pud-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (106; 75%),
-<tt>VERB --[<tt><a href="pl_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (80; 57%),
-<tt>VERB --[<tt><a href="pl_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (20; 91%),
-<tt>VERB --[<tt><a href="pl_pud-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (16; 55%),
+<tt>VERB --[<tt><a href="pl_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (78; 57%),
+<tt>VERB --[<tt><a href="pl_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (21; 51%),
+<tt>VERB --[<tt><a href="pl_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (19; 90%),
 <tt>ADJ --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (9; 56%),
-<tt>VERB --[<tt><a href="pl_pud-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (5; 100%),
 <tt>VERB --[<tt><a href="pl_pud-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="pl_pud-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (2; 67%),
-<tt>AUX --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="pl_pud-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (2; 67%),
+<tt>ADJ --[<tt><a href="pl_pud-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> VERB</tt> (1; 100%).
 

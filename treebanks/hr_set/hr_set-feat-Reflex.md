@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-3575 tokens (2%) have a non-empty value of `Reflex`.
+3574 tokens (2%) have a non-empty value of `Reflex`.
 27 types (0%) occur at least once with a non-empty value of `Reflex`.
 2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (2905; 1% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (670; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (2904; 1% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (670; 0% instances).
 
 ### `PRON`
 
-2905 <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Reflex`.
+2904 <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2905; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2905; 100%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2905; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2905; 100%), <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2835; 98%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2904; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2904; 100%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2904; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2904; 100%), <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2834; 98%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (2905; 100% of non-empty `Reflex`): <em>se, sebe, sebi, si, sobom</em>
+* `Yes` (2904; 100% of non-empty `Reflex`): <em>se, sebe, sebi, si, sobom</em>
 * `EMPTY` (2438): <em>što, ih, mi, ga, im, mu, on, njih, nam, vam</em>
 
 ### `DET`
@@ -34,5 +34,5 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (670; 100% of non-empty `Reflex`): <em>svoje, svoj, svoju, svojim, svojih, svojoj, svojeg, svog, svom, svojem</em>
-* `EMPTY` (6529): <em>koji, to, koje, koja, ove, toga, kojima, koju, sve, tome</em>
+* `EMPTY` (6727): <em>koji, to, koje, koja, ove, toga, sve, kojima, koju, tome</em>
 

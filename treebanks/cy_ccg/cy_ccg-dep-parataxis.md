@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (0%) are attached to their parents as `parataxis`.
+33 nodes (0%) are attached to their parents as `parataxis`.
 
-17 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.8823529411765.
+33 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 11.8484848484848.
 
-The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 29% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 18% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (3; 18% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (3; 18% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 12% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 6% instances).
+The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (10; 30% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (6; 18% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 15% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (5; 15% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (3; 9% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,13 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 8 parataxis	color:blue
-1	Mae	bod	VERB	verb	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 2	croeso	croeso	NOUN	noun	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	i	i	ADP	prep	_	4	case	_	_
-4	bawb	bawb	NOUN	noun	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+4	bawb	pawb	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	punct	_	8	punct	_	_
 6	nid	ni	PART	neg	_	8	advmod	_	_
-7	oes	bod	AUX	aux	Number=Sing|Person=3|Tense=Pres	8	cop	_	_
+7	oes	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	cop	_	_
 8	rhaid	rhaid	NOUN	noun	Gender=Masc|Number=Sing	1	parataxis	_	_
 9	bod	bod	AUX	verbnoun	Number=Sing|VerbForm=Vnoun	11	cop	_	_
 10	yn	yn	PART	pred	_	11	case:pred	_	_
@@ -37,6 +37,30 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 13	'r	y	DET	art	_	14	det	_	_
 14	Gymdeithas	cymdeithas	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	11	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	punct	_	8	punct	_	SpacesAfter=\s\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 parataxis	color:blue
+1	Y	y	DET	art	_	2	det	_	_
+2	cwestiwn	cwestio	VERB	verb	Mood=Imp|Number=Sing|Person=1	4	nsubj	_	_
+3	nawr	nawr	ADV	adv	_	2	advmod	_	_
+4	ydy	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	punct	_	4	punct	_	_
+6	Pam	pam	ADV	adv	_	8	advmod	_	_
+7	na	na	PART	neg	_	8	advmod	_	_
+8	allwn	gallu	VERB	verb	Mood=Imp|Mutation=SM|Number=Sing|Person=1	4	parataxis	_	_
+9	ni	ni	PRON	indep	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+10	wneud	gwneud	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	8	xcomp	_	_
+11	jobyn	jobyn	NOUN	noun	Gender=Masc|Number=Sing	10	obj	_	_
+12	gwell	da	ADJ	cmp	Degree=Cmp|Gender=Masc|Number=Sing	11	amod	_	_
+13	ohoni	o	ADP	cprep	Gender=Fem|Number=Sing|Person=3	10	obl	_	SpaceAfter=No
+14	?	?	PUNCT	punct	_	8	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -58,34 +82,6 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 9	un	un	NUM	num	_	10	nummod	_	_
 10	wythnos	wythnos	NOUN	noun	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 9 parataxis	color:blue
-1	Mae	bod	VERB	verb	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-2	'n	yn	AUX	impf	_	3	aux	_	_
-3	helpu	helpu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
-4	os	os	SCONJ	sconj	_	5	mark	_	_
-5	tynnwch	tynnu	VERB	verb	Number=Plur|Person=2|Tense=Fut	3	advcl	_	_
-6	eich	eich	PRON	dep	Number=Plur|Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
-7	clustffonau	clustffon	NOUN	noun	Number=Plur	5	obj	_	SpaceAfter=No
-8	,	,	PUNCT	punct	_	9	punct	_	_
-9	wyddoch	gwybod	VERB	verb	Mutation=SM|Number=Plur|Person=3|Tense=Past	3	parataxis	_	_
-10	chi	chi	PRON	indep	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	_
-11	-	-	PUNCT	punct	_	13	punct	_	_
-12	nid	ni	PART	neg	_	13	advmod	_	_
-13	ydych	bod	VERB	verb	Number=Plur|Person=2|Tense=Pres	9	ccomp	_	_
-14	yn	yn	AUX	impf	_	15	aux	_	_
-15	clywed	clywed	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	13	xcomp	_	_
-16	eich	eich	PRON	dep	Number=Plur|Person=2|Poss=Yes|PronType=Prs	17	nmod:poss	_	_
-17	hun	hun	PRON	refl	PronType=Rcp	15	obj	_	SpaceAfter=No
-18	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

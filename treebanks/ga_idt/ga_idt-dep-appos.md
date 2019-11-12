@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-108 nodes (0%) are attached to their parents as `appos`.
+174 nodes (0%) are attached to their parents as `appos`.
 
-108 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.49074074074074.
+174 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.09195402298851.
 
-The following 15 pairs of parts of speech are connected with `appos`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (37; 34% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (22; 20% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (17; 16% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (9; 8% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (6; 6% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (5; 5% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 21 pairs of parts of speech are connected with `appos`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (65; 37% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (30; 17% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (28; 16% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (12; 7% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (10; 6% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (6; 3% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,6 +39,31 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 11 appos	color:blue
+1	Iarmhairt	iarmhairt	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	_
+2	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	Chogaidh	cogadh	NOUN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
+4	i	i	ADP	Simp	_	5	case	_	_
+5	Murascaill	murascaill	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	nmod	_	_
+6	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	flat	_	_
+7	Peirse	Peirse	PROPN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	5	flat	_	_
+8	Muireann	Muireann	PROPN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	nmod	_	_
+9	Ó	ó	PART	Pat	PartType=Pat	8	flat:name	_	_
+10	Briain	Briain	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	8	flat:name	_	_
+11	Cairt	cairt	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	8	appos	_	_
+12	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Náisiún	náisiún	NOUN	Noun	Case=Gen|Definite=Def|Gender=Masc|NounType=Weak|Number=Plur	11	nmod	_	_
+14	Aontaithe	aontaithe	ADJ	Adj	VerbForm=Part	13	flat	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 7	bgColor:blue
@@ -48,7 +73,7 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
 3	a	a	DET	Det	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod:poss	_	_
 4	dheartháir	deartháir	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	0	root	_	_
-5	Ian	Ian	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	compound	_	_
+5	Ian	Ian	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	appos	_	_
 6	agus	agus	CCONJ	Coord	_	7	cc	_	_
 7	fear	fear	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	conj	_	_
 8	eile	eile	DET	Det	PronType=Dem	7	det	_	_
@@ -62,31 +87,6 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 16	seirbhíse	seirbhís	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	xcomp:pred	_	_
 17	seo	seo	DET	Det	PronType=Dem	16	det	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 11 appos	color:blue
-1	Iarmhairt	iarmhairt	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	_
-2	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
-3	Chogaidh	cogadh	NOUN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	compound	_	_
-4	i	i	ADP	Simp	_	5	case	_	_
-5	Murascaill	murascaill	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	nmod	_	_
-6	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	Peirse	Peirse	PROPN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	5	compound	_	_
-8	Muireann	Muireann	PROPN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	nmod	_	_
-9	Ó	ó	PART	Pat	PartType=Pat	8	flat:name	_	_
-10	Briain	Briain	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	8	flat:name	_	_
-11	Cairt	cairt	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	8	appos	_	_
-12	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	Náisiún	náisiún	NOUN	Noun	Case=Gen|Definite=Def|Gender=Masc|NounType=Weak|Number=Plur	11	compound	_	_
-14	Aontaithe	aontaithe	ADJ	Adj	VerbForm=Part	13	amod	_	SpaceAfter=No
-15	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

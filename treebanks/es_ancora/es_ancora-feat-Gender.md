@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-191619 tokens (35%) have a non-empty value of `Gender`.
-17273 types (44%) occur at least once with a non-empty value of `Gender`.
-11603 lemmas (44%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (87899; 16% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (67973; 12% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (24251; 4% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (5963; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (4715; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (528; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (290; 0% instances).
+191623 tokens (35%) have a non-empty value of `Gender`.
+17277 types (44%) occur at least once with a non-empty value of `Gender`.
+11605 lemmas (44%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (87902; 16% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (67973; 12% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (24251; 4% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (5963; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (4715; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (528; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (290; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-87899 <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> tokens (87% of all `NOUN` tokens) have a non-empty value of `Gender`.
+87902 <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> tokens (87% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61643; 70%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61645; 70%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (41005; 47% of non-empty `Gender`): <em>personas, parte, vida, situación, vez, forma, elecciones, empresa, horas, decisión</em>
-* `Masc` (46894; 53% of non-empty `Gender`): <em>años, presidente, millones, equipo, partido, país, año, ministro, mundo, grupo</em>
-* `EMPTY` (12773): <em>pesetas, dólares, frente, parte, portavoz, líder, respecto, vez, pese, policía</em>
+* `Masc` (46897; 53% of non-empty `Gender`): <em>años, presidente, millones, equipo, partido, país, año, ministro, mundo, grupo</em>
+* `EMPTY` (12770): <em>pesetas, dólares, frente, parte, portavoz, líder, respecto, vez, pese, policía</em>
 
 <table>
   <tr><th>Paradigm <i>candidato</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>candidatos</em></td><td><em>CANDIDATAS</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (7739) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (7740) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -137,6 +137,15 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
   <tr><th>Paradigm <i>ambos</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt></tt></td><td><em>ambos</em></td><td><em>ambas</em></td></tr>
 </table>
+
+### `PROPN`
+
+1 <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Gender`.
+
+`PROPN` tokens may have the following values of `Gender`:
+
+* `Fem` (1; 100% of non-empty `Gender`): <em>Cuba</em>
+* `EMPTY` (42546): <em>Gobierno, España, Madrid, Barcelona, José, PP, Estado, Juan, Nacional, Estados</em>
 
 ## Relations with Agreement in `Gender`
 

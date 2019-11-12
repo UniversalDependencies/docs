@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 9	fgColor:white
 # visual-style 9 10 nummod	color:blue
 1	Où	où	ADV	_	PronType=Int	3	obl:arg	_	_
-2	se	le/lui	PRON	_	Person=3|Reflex=Yes	3	expl	_	_
+2	se	le/lui	PRON	_	Person=3|Reflex=Yes	3	expl:comp	_	_
 3	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	écosystème	écosystème	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	Apollo	Apollo	PROPN	_	Gender=Masc|Number=Sing	6	nsubj:pass	_	_
 3	11	11	NUM	_	NumType=Card	2	nummod	_	_
 4	fut	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	SpaceAfter=No
-5	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
+5	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	6	expl:subj	_	_
 6	lancé	lancer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 7	?	?	PUNCT	_	_	6	punct	_	_
 

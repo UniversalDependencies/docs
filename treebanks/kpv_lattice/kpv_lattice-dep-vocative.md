@@ -8,28 +8,25 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `vocative`.
+5 nodes (0%) are attached to their parents as `vocative`.
 
-3 instances of `vocative` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+3 instances of `vocative` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.8.
 
-The following 2 pairs of parts of speech are connected with `vocative`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (3; 75% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
+The following 2 pairs of parts of speech are connected with `vocative`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (4; 80% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 7 vocative	color:blue
-1	Мунігмозыс	мунны	VERB	V	Derivation=Igmoz|Number[psor]=Sing|Person[psor]=3|VerbForm=Conv	3	advcl	_	_
-2	он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	aux	_	_
-3	тӧр	тӧрны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	_
-4	бергӧдчыныс	бергӧдчыны	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
-5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	командир	командир	NOUN	N	Case=Nom|Number=Sing	7	nmod	_	_
-7	ёрт	ёрт	NOUN	N	Case=Nom|Number=Sing	3	vocative	_	SpaceAfter=No
-8	!	!	PUNCT	CLB	_	3	punct	_	_
+# visual-style 3 1 vocative	color:blue
+1	Сэм	сэм	NOUN	N	Case=Nom|Number=Sing	3	vocative	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	1	punct	_	_
+3	восьты	восьтны	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+4	ӧшиньсӧ	ӧшинь	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	SpaceAfter=No
+5	!	!	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

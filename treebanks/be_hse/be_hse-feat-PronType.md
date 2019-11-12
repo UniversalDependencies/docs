@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Prs` (126; 48% of non-empty `PronType`): <em>я, мы, яны, вы, яго, ён, мне, мяне, яна, нас</em>
 * `Rel` (47; 18% of non-empty `PronType`): <em>якія, які, якіх, што, якая, якой, якім, якi, якога, якое</em>
 * `Tot` (6; 2% of non-empty `PronType`): <em>ўсё, усё, усе</em>
-* `EMPTY` (142): <em>якiя, гэта, iх, ён, якiх, іх, iм, я, яны, мне</em>
+* `EMPTY` (143): <em>якiя, гэта, iх, ён, якiх, іх, iм, што, я, яны</em>
 
 <table>
   <tr><th>Paradigm <i>гэта</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>

@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-FQB: Relations: `aux:caus`
 
-This relation is a language-specific subtype of <tt><a href="fr_fqb-dep-aux.html">aux</a></tt>.
-There are also 1 other language-specific subtypes of `aux`: <tt><a href="fr_fqb-dep-aux-pass.html">aux:pass</a></tt>.
+This relation is a language-specific subtype of .
+There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_fqb-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="fr_fqb-dep-aux-tense.html">aux:tense</a></tt>.
 
 3 nodes (0%) are attached to their parents as `aux:caus`.
 

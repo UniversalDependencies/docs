@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-GSD: POS Tags: `PART`
 
-There are 59 `PART` lemmas (0%), 61 `PART` types (0%) and 999 `PART` tokens (1%).
+There are 59 `PART` lemmas (0%), 61 `PART` types (0%) and 998 `PART` tokens (1%).
 Out of 16 observed tags, the rank of `PART` is: 9 in number of lemmas, 9 in number of types and 13 in number of tokens.
 
 The 10 most frequent `PART` lemmas: か, 第, 約, ね, さ, よ, -, な, 翌, 年
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  約 (<tt><a href="ja_gsd-pos-PART.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.033898 (the average of all parts of speech is 1.058680).
+The form / lemma ratio of `PART` is 1.033898 (the average of all parts of speech is 1.058496).
 
 The 1st highest number of forms (3) was observed with the lemma “か”: か, かどうか, か否か.
 
@@ -68,11 +68,11 @@ The 3rd highest number of forms (1) was observed with the lemma “-”: -.
 
 ## Relations
 
-`PART` nodes are attached to their parents using 2 different relations: <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (536; 54% instances), <tt><a href="ja_gsd-dep-compound.html">compound</a></tt> (463; 46% instances)
+`PART` nodes are attached to their parents using 2 different relations: <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (536; 54% instances), <tt><a href="ja_gsd-dep-compound.html">compound</a></tt> (462; 46% instances)
 
-Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (471; 47% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (235; 24% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (136; 14% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (108; 11% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (27; 3% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (470; 47% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (235; 24% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (136; 14% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (108; 11% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (27; 3% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-999 (100%) `PART` nodes are leaves.
+998 (100%) `PART` nodes are leaves.
 
 The highest child degree of a `PART` node is 0.
 

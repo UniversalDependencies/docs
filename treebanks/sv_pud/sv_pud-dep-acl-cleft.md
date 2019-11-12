@@ -38,7 +38,7 @@ The following 3 pairs of parts of speech are connected with `acl:cleft`: <tt><a 
 13	hot	hot	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	0:root	_
 14	som	som	PRON	HP|-|-|-	PronType=Int,Rel	15	nsubj	15:nsubj	_
 15	upptar	uppta	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:cleft	13:acl:cleft	_
-16	Karels	karel	NOUN	NN|UTR|SIN|IND|GEN	Case=Gen|Definite=Ind|Gender=Com|Number=Sing	17	nmod:poss	17:nmod:poss	_
+16	Karels	Karel	PROPN	PM|UTR|SIN|GEN	Case=Gen|Gender=Com|Number=Sing	17	nmod:poss	17:nmod:poss	_
 17	uppmärksamhet	uppmärksamhet	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	15	obj	15:obj	SpaceAfter=No
 18	.	.	PUNCT	MAD	_	13	punct	13:punct	_
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-41084 nodes (22%) are attached to their parents as `case`.
+41087 nodes (22%) are attached to their parents as `case`.
 
-41084 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22295784246909.
+41087 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.22281987003188.
 
-The following 8 pairs of parts of speech are connected with `case`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (32449; 79% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (4346; 11% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (2408; 6% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (1049; 3% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (467; 1% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (187; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (174; 0% instances), <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances).
+The following 8 pairs of parts of speech are connected with `case`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (32442; 79% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (4357; 11% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (2407; 6% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (1049; 3% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (467; 1% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (187; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (174; 0% instances), <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances).
 
 
 ~~~ conllu

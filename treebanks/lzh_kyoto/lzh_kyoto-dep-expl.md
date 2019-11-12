@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-171 nodes (0%) are attached to their parents as `expl`.
+197 nodes (0%) are attached to their parents as `expl`.
 
-114 instances of `expl` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17543859649123.
+137 instances of `expl` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15228426395939.
 
-The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (166; 97% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (5; 3% instances).
+The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (192; 97% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (5; 3% instances).
 
 
 ~~~ conllu
@@ -39,7 +39,7 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 14	fgColor:white
 # visual-style 14 10 expl	color:blue
 1	而	而	CCONJ	p,助詞,接続,並列	_	14	advmod	_	Gloss=and|SpaceAfter=No
-2	以	以	VERB	v,動詞,行為,動作	VerbForm=Conv	3	advmod	_	Gloss=use|SpaceAfter=No
+2	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	3	advmod	_	Gloss=use|SpaceAfter=No
 3	為	爲	VERB	v,動詞,行為,生産	_	9	acl	_	Gloss=make|SpaceAfter=No
 4	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	6	advmod	_	Gloss=not-yet|SpaceAfter=No
 5	嘗	嘗	ADV	v,副詞,時相,過去	AdvType=Tim|Tense=Past	6	advmod	_	Gloss=once|SpaceAfter=No

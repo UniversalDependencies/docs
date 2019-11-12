@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-321 nodes (0%) are attached to their parents as `fixed`.
+320 nodes (0%) are attached to their parents as `fixed`.
 
-321 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.06230529595016.
+320 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.0625.
 
-The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (96; 30% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (79; 25% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (58; 18% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (48; 15% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (39; 12% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (96; 30% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (79; 25% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (58; 18% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (48; 15% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (38; 12% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

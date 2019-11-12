@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>но</em> (<tt><a href="myv_jr-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.992447).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.993575).
 
 The 1st highest number of forms (1) was observed with the lemma “имени”: <em>имени</em>.
 

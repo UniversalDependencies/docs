@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-286 nodes (1%) are attached to their parents as `nummod`.
+287 nodes (1%) are attached to their parents as `nummod`.
 
-260 instances of `nummod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40559440559441.
+261 instances of `nummod` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40418118466899.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (263; 92% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (8; 3% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (263; 92% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (8; 3% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	ene	en	NUM	Mlpfpa	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	word=ene|msd=Kbzzmt
 10	take	tak	DET	Pd-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	word=take|msd=Zk-zmt
 11	č	_	X	Xt	_	13	reparandum	_	word=č|msd=Nt
-12	[gap]	[gap]	X	X	_	4	punct	_	word=[gap]|msd=N
+12	[gap]	[gap]	PUNCT	X	_	13	punct	_	word=[gap]|msd=N
 13	stare	star	ADJ	Agpfpa	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	word=stare|msd=Ppnzmt
 14	barve	barva	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	7	conj	_	word=barve|msd=Sozmt
 

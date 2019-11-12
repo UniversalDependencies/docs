@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (0%) are attached to their parents as `dep`.
+22 nodes (0%) are attached to their parents as `dep`.
 
-9 instances of `dep` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.66666666666667.
+13 instances of `dep` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.72727272727273.
 
-The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (6; 40% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (4; 27% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (3; 20% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 7% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 7% instances).
+The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (10; 45% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (4; 18% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (4; 18% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -43,19 +43,6 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 dep	color:blue
-1	ⲧⲟⲩ	ⲧⲟⲩ	X	FM	_	0	root	_	_
-2	ⲁⲩⲧⲟⲩ	ⲁⲩⲧⲟⲩ	X	FM	_	1	dep	_	Orig=ⲁⲩⲧⲟⲩ`
-3	:	:	PUNCT	PUNCT	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 8	bgColor:blue
@@ -69,6 +56,19 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 6	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	8	case	_	Orig=ⲛ̄ⲥⲁ
 7	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	[.....]	[.....]	NOUN	N	_	2	parataxis	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 dep	color:blue
+1	ⲧⲟⲩ	ⲧⲟⲩ	X	FM	_	0	root	_	_
+2	ⲁⲩⲧⲟⲩ	ⲁⲩⲧⲟⲩ	X	FM	_	1	dep	_	Orig=ⲁⲩⲧⲟⲩ`
+3	:	:	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

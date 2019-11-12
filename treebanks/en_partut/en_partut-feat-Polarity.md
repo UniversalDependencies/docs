@@ -30,5 +30,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="en_partut-pos-PART.
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (1891): <em>more, also, so, now, only, how, however, well, as, very</em>
+* `EMPTY` (1895): <em>more, also, so, now, only, how, however, well, as, very</em>
 

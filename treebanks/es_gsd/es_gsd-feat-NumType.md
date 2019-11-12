@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (941; 100% of non-empty `NumType`): <em>primer, primera, segunda, segundo, primeros, primeras, tercera, tercer, cuarto, cuarta</em>
-* `EMPTY` (23954): <em>gran, mismo, mayor, nuevo, estadounidense, total, mejor, nacional, grandes, nueva</em>
+* `EMPTY` (23955): <em>gran, mismo, mayor, nuevo, estadounidense, total, mejor, nacional, grandes, nueva</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (35) occur only with one value of `NumType`.
 

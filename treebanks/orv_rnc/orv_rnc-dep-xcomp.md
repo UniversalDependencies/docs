@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-137 nodes (1%) are attached to their parents as `xcomp`.
+194 nodes (1%) are attached to their parents as `xcomp`.
 
-111 instances of `xcomp` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.64963503649635.
+157 instances of `xcomp` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.74742268041237.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (120; 88% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (11; 8% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (173; 89% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (16; 8% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -62,7 +62,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	а	а	CCONJ	_	_	4	cc	_	_
 2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 3	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
-4	платешшик	платешшикъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	платешшик	платежчикъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 5	токо	тако	ADV	_	Degree=Pos	7	advmod	_	_
 6	не	не	PART	_	Polarity=Neg	7	advmod	_	_
 7	дорого	дорого	ADV	_	Degree=Pos	8	xcomp	_	_

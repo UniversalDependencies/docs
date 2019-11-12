@@ -40,7 +40,7 @@ The following 13 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 6 cop	color:blue
 1	"	"	PUNCT	Z	_	4	punct	_	SpaceAfter=No
-2	Deceniju	decenija	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	advmod	_	_
+2	Deceniju	decenija	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
 3	kasnije	kasno	ADV	Rgc	Degree=Cmp	4	advmod	_	_
 4	vidimo	videti	VERB	Vmr1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	da	da	SCONJ	Cs	_	9	mark	_	_

@@ -41,15 +41,15 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 1640 <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (958; 58%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (901; 55%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (837; 51%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (959; 58%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (900; 55%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (836; 51%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Ind` (10; 1% of non-empty `PronType`): <em>nekdo, nekoga, nekomu, marsikaj</em>
 * `Int` (231; 14% of non-empty `PronType`): <em>kaj, kdo, česa, koga, čim, komu, čem, čemu, što</em>
 * `Neg` (3; 0% of non-empty `PronType`): <em>nihče, nobeden</em>
-* `Prs` (1355; 83% of non-empty `PronType`): <em>se, jaz, mi, ti, ga, jih, si, jo, nas, vi</em>
-* `Rel` (41; 3% of non-empty `PronType`): <em>kar, karkoli, kdor, kdorkoli, čemer, česar</em>
+* `Prs` (1356; 83% of non-empty `PronType`): <em>se, jaz, mi, ti, ga, jih, si, jo, nas, vi</em>
+* `Rel` (40; 2% of non-empty `PronType`): <em>kar, karkoli, kdor, kdorkoli, čemer, česar</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (18) occur only with one value of `PronType`.
 

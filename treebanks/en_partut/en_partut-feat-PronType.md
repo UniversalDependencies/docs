@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-7332 tokens (15%) have a non-empty value of `PronType`.
+7330 tokens (15%) have a non-empty value of `PronType`.
 125 types (2%) occur at least once with a non-empty value of `PronType`.
 69 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_partut-pos-DET.html">DET</a></tt> (5321; 11% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1993; 4% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (18; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_partut-pos-DET.html">DET</a></tt> (5321; 11% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1991; 4% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (18; 0% instances).
 
 ### `DET`
 
@@ -39,17 +39,17 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-1993 <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `PronType`.
+1991 <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1770; 89%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1768; 89%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (157; 8% of non-empty `PronType`): <em>this, that, those, these</em>
-* `Ind` (126; 6% of non-empty `PronType`): <em>all, some, others, each, nothing, Many, other, one, Much, both</em>
+* `Ind` (125; 6% of non-empty `PronType`): <em>all, some, others, each, nothing, Many, other, one, Much, both</em>
 * `Int` (18; 1% of non-empty `PronType`): <em>what, who</em>
-* `Prs` (1265; 63% of non-empty `PronType`): <em>it, I, we, he, you, they, them, him, everyone, us</em>
-* `Rel` (427; 21% of non-empty `PronType`): <em>which, that, who, what, where, whom, whose, when, whereby</em>
+* `Prs` (1265; 64% of non-empty `PronType`): <em>it, I, we, he, you, they, them, him, everyone, us</em>
+* `Rel` (426; 21% of non-empty `PronType`): <em>which, that, who, what, where, whom, whose, when, whereby</em>
 * `EMPTY` (62): <em>there</em>
 
 <table>
@@ -69,7 +69,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADV` tokens may have the following values of `PronType`:
 
 * `Neg` (18; 100% of non-empty `PronType`): <em>non, no, none</em>
-* `EMPTY` (1874): <em>more, also, so, now, only, how, however, well, as, very</em>
+* `EMPTY` (1878): <em>more, also, so, now, only, how, however, well, as, very</em>
 
 ## Relations with Agreement in `PronType`
 

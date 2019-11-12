@@ -11,40 +11,10 @@ There are 1 language-specific subtypes of `expl`: <tt><a href="nl_lassysmall-dep
 
 47 nodes (0%) are attached to their parents as `expl`.
 
-39 instances of `expl` (83%) are right-to-left (child precedes parent).
+38 instances of `expl` (81%) are right-to-left (child precedes parent).
 Average distance between parent and child is 5.21276595744681.
 
-The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (15; 32% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (14; 30% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (8; 17% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (7; 15% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (3; 6% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 expl	color:blue
-1	Het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	2	expl	2:expl	_
-2	schijnt	schijnen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	namelijk	namelijk	ADV	BW	_	2	advmod	2:advmod	_
-4	dat	dat	SCONJ	VG|onder	_	18	mark	18:mark	SpaceAfter=No
-5	,	,	PUNCT	LET	_	4	punct	4:punct	_
-6	toen	toen	SCONJ	VG|onder	_	11	mark	11:mark	_
-7	Keizer	Keizer	PROPN	SPEC|deeleigen	_	11	nsubj	11:nsubj	_
-8	Karel	Karel	PROPN	SPEC|deeleigen	_	7	flat	7:flat	_
-9	de	de	DET	LID|bep|stan|rest	Definite=Def	10	det	10:det	_
-10	stad	stad	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	11	obj	11:obj	_
-11	bezocht	bezoeken	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	18	advcl	18:advcl:toen	SpaceAfter=No
-12	,	,	PUNCT	LET	_	11	punct	11:punct	_
-13	de	de	DET	LID|bep|stan|rest	Definite=Def	14	det	14:det	_
-14	stadswachter	stadswachter	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	18	nsubj	18:nsubj	_
-15	hem	hem	PRON	VNW|pers|pron|obl|vol|3|ev|masc	Case=Acc|Person=3|PronType=Prs	18	obj	18:obj|19:nsubj:xsubj	_
-16	niet	niet	ADV	BW	_	18	advmod	18:advmod	_
-17	had	hebben	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	18	aux	18:aux	_
-18	zien	zien	VERB	WW|inf|vrij|zonder	VerbForm=Inf	2	csubj	2:csubj	_
-19	aankomen	aankomen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	18	xcomp	18:xcomp	SpaceAfter=No
-20	.	.	PUNCT	LET	_	2	punct	2:punct	_
-
-~~~
+The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (35; 74% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (6; 13% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (6; 13% instances).
 
 
 ~~~ conllu
@@ -56,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 1	Gravelspecialiste	gravelspecialiste	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	nsubj	7:nsubj	_
 2	Clijsters	Clijsters	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	appos	1:appos	_
 3	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
-4	er	er	ADV	VNW|aanw|adv-pron|stan|red|3|getal	_	11	expl	11:expl	_
+4	er	er	PRON	VNW|aanw|adv-pron|stan|red|3|getal	Person=3|PronType=Dem	11	expl	11:expl	_
 5	niet	niet	ADV	BW	_	7	advmod	7:advmod	_
 6	in	in	ADP	VZ|fin	_	11	case	11:case	_
 7	geslaagd	slagen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
@@ -65,6 +35,37 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 10	te	te	ADP	VZ|init	_	11	mark	11:mark	_
 11	halen	halen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	7	advcl	7:advcl:in	SpaceAfter=No
 12	.	.	PUNCT	LET	_	7	punct	7:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 expl	color:blue
+1	Vreemd	vreemd	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	0:root	_
+2	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
+3	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	1	expl	1:expl	_
+4	dan	dan	ADV	BW	_	1	advmod	1:advmod	_
+5	ook	ook	ADV	BW	_	1	advmod	1:advmod	_
+6	niet	niet	ADV	BW	_	1	advmod	1:advmod	_
+7	dat	dat	SCONJ	VG|onder	_	18	mark	18:mark	_
+8	groten	groot	ADJ	ADJ|nom|basis|met-e|mv-n	Degree=Pos	18	nsubj	18:nsubj	_
+9	uit	uit	ADP	VZ|init	_	11	case	11:case	_
+10	de	de	DET	LID|bep|stan|rest	Definite=Def	11	det	11:det	_
+11	filmwereld	filmwereld	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	8	nmod	8:nmod:uit	SpaceAfter=No
+12	,	,	PUNCT	LET	_	14	punct	14:punct	_
+13	zoals	zoals	SCONJ	VG|onder	_	14	mark	14:mark	_
+14	Steven	Steven	PROPN	SPEC|deeleigen	_	8	acl	8:acl:zoals	_
+15	Spielberg	Spielberg	PROPN	SPEC|deeleigen	_	14	flat	14:flat	SpaceAfter=No
+16	,	,	PUNCT	LET	_	8	punct	8:punct	_
+17	bewondering	bewondering	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	18	obj	18:obj	_
+18	hadden	hebben	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	1	csubj	1:csubj	_
+19	voor	voor	ADP	VZ|init	_	20	case	20:case	_
+20	Hergé	Hergé	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	17	nmod	17:nmod:voor	SpaceAfter=No
+21	.	.	PUNCT	LET	_	1	punct	1:punct	_
 
 ~~~
 

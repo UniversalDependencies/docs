@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Alessio Salomoni.
 
 Repository: [UD_German-LIT](https://github.com/UniversalDependencies/UD_German-LIT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_lit22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_lit25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -44,14 +44,14 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-It aims at gathering texts of the German literary history. Currently, it hosts Fragments of the early Romanticism, i.e. aphorism-like texts mainly dealing with philosophical issues concerning art, beauty and related topics.
+This treebank aims at gathering texts of the German literary history. Currently, it hosts Fragments of the early Romanticism, i.e. aphorism-like texts mainly dealing with philosophical issues concerning art, beauty and related topics.
 
 
 
-In a long-term perspective, this treebank aims at gathering texts from different genres and different authors of the German literary history. Currently, it exclusively hosts Fragments of the early Romanticism (end of the 18th century, modern German), i.e. really short texts, often in aphorism-like form, dealing with philosophical issues in a witty and cryptic way. They mainly deal with aesthetics, i.e. with philosophy concerning art and beauty.
-This treebank is mainly intended for stylistic analysis that can benefit from the dependency formalism as well as from the opportunity to automatically and quickly retrieve information concerning syntax.
+In a long-term perspective, this treebank aims at gathering texts from different genres and different authors of the German literary history. Currently, it exclusively hosts Fragments of the early Romanticism (end of the 18th century, modern German), i.e. really short texts, often in aphorism-like form, that deal with philosophical issues in a witty and cryptic way. They mainly deal with aesthetics, i.e. philosophy concerning art and beauty.
+This treebank is mainly intended for corpus-based stylistic analysis that can benefit from the dependency relations as well as from all the other levels of annotation (currently LEMMA and both UPOs and XPOS).
 
-Version 2.4 hosts the following texts (each text is followed by the reference to the original edition from which it was digitized, as well as by the permalink to the online source of the raw text):
+The version 2.5 hosts the following texts (each text is followed by the reference to the original edition from which it was digitized, as well as by the permalink to the online source of the digital raw text):
 
 - Friedrich Schlegel, Kritische Fragmente [Lyceum-Fragmente].
 Source: Kritische Friedrich-Schlegel-Ausgabe. Erste Abteilung: Kritische Neuausgabe, Band 2, München, Paderborn, Wien, Zürich 1967, S. 147-164.
@@ -68,28 +68,26 @@ Source: Novalis: Schriften. Die Werke Friedrich von Hardenbergs. Band 2, Stuttga
 Entstanden 1797/98. Erstdruck in: Athenäum (Berlin), 1. Bd., 1. Stück, 1798. Vier Fragmente stammen von Friedrich Schlegel.
 Permalink: http://www.zeno.org/nid/20005446929
 
-Each sentence in the treebank file is preceded by some comments introduced by '#', through which the following information is preserved:
+Each sentence in the treebank is preceded by some comments introduced by '#', through which the following information is respectively encoded:
 - Genre
 - Author
 - Work
-- Number of the fragment. It is based upon the classification adopted in the source raw text. Each time a new fragemnt begins, it is preceded by the comment 'newpar id = [name]', and the number of the fragment is incorporated into the 'sent_id' field as well, followed by the numer of the sentence in that fragment. Moreover, each time a new work begins, it is preceded by the comment '# newdoc id = [name]'. For instance:
+- Number of the fragment. It is based upon the classification adopted in the source raw text. Each time a new fragemnt begins, it is preceded by the comment 'newpar id = [name]', and the number of the fragment is incorporated into the 'sent_id' field as well, followed by the numer of the sentence in that fragment. Moreover, each time a new collection of fragment, i.e. work, begins, it is preceded by the comment '# newdoc id = [name]'. For instance:
 
-'# newdoc id = bluethenstaub'
-'# newpar id = bluethenstaub-f1'
-'# author = Novalis'
-'# work = Blüthenstaub'
-'# sent_id = bluethenstaub-f1-s1'
+- '# newdoc id = bluethenstaub'
+- '# newpar id = bluethenstaub-f1'
+- '# author = Novalis'
+- '# work = Blüthenstaub'
+- '# sent_id = bluethenstaub-f1-s1'
 
-We made this choice since the treebank is exactly intended as a structured version in dependency formalism of the original texts, therefore we want to preserve the parallelism between the treebanked data and the source texts as much as possible.
+In this case, the sentence following the set of comments would be the first sentence of the first fragment of the collection "Blüthenstaub" written by Novalis.
+We made this choice about such a use of comments because we want to preserve the parallelism between the treebanked data and the source texts as much as possible. In this perpsetive, this treebank aims to be the linguistically annotated counterpart of the orgiginal texts, thus preserving those categories that we are traditionally acquainted to adopt in order to work on literary texts.
 
 ## Acknowledgments
 
-Many thanks to Daniel Zeman, who promptly solved some fundamental problems concerning data format, and showed great interest for this project right from the beginning.
+Many thanks to Daniel Zeman, who has promptly solved some fundamental problems concerning the data format, and showed great interest for this project right from the beginning.
 ...
 
-## References
-
-* (citation)
 
 # Statistics of UD German LIT
 
@@ -109,19 +107,19 @@ Many thanks to Daniel Zeman, who promptly solved some fundamental problems conce
 
 
 <ul>
-<li>This corpus contains 1922 sentences, 40351 tokens and 40456 syntactic words.</li>
+<li>This corpus contains 1922 sentences, 40335 tokens and 40440 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5428 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 5427 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 types of words with spaces. Examples: Altertums wie, Ich =</li>
+<li>This corpus does not contain words with spaces.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 44 types of words that contain both letters and punctuation. Examples: 's, z.B., Hemsterhuys', d.h., u.s.w., 'n, (eigentlich, (gleich, Fr., Friedrichsd'or, Früh-, Gattung), Heydenreich,Jacob, Jahrs-, Mengs), Nicht-Ich, Normal-Seelen, Rechts-, Rubens', S., Scheidungs-, Theorien-Eierstock, W., Z.B., annehme;, befand.Ein, bleibt's, d'epigramme, erhebe:so, geheimni?, ist's, jusqu', jusqu'au, können.In, l'essence, man's, niet-, tief-, weg;, »Es, »Louise, »Meister, »Nathan, »Wem</li>
+<li>This corpus contains 43 types of words that contain both letters and punctuation. Examples: 's, z.B., Hemsterhuys', d.h., u.s.w., 'n, (eigentlich, (gleich, Fr., Friedrichsd'or, Früh-, Gattung), Heydenreich,Jacob, Jahrs-, Mengs), Nicht-Ich, Normal-Seelen, Rechts-, Rubens', S., Scheidungs-, Theorien-Eierstock, W., Z.B., annehme;, bleibt's, d'epigramme, erhebe:so, geheimni?, ist's, jusqu', jusqu'au, können.In, l'essence, man's, niet-, tief-, weg;, »Es, »Louise, »Meister, »Nathan, »Wem</li>
 </ul>
 
 <ul>
@@ -139,27 +137,27 @@ Many thanks to Daniel Zeman, who promptly solved some fundamental problems conce
 </ul>
 
 <ul>
-<li>This corpus contains 4 word types tagged as particles (PART): am, dazu, nicht, zu</li>
+<li>This corpus contains 3 word types tagged as particles (PART): am, nicht, zu</li>
 </ul>
 
 <ul>
-<li>This corpus contains 92 lemmas tagged as pronouns (PRON): 's, --, This, alle, aller, allerlei, allgemein, ander, anderer, andr, andre, andren, andrer, beide, bißchen, cela, chen, der, derjenige, derselbe, dich, dieser, dir, dreyen, du, ebensoviel, eignen, ein, einander, einer, einig, einige, einiger, eins, einzeln, einzig, einziger, er, erfolge, ers, erster, es, etwas, fein, himself, ich, ihm, ihn, ihnen, ihr, irgendetwas, jeder, jemand, jene, jener, kein, keiner, letzt, letzter, man, mancher, mans, mehr, meist, meiste, meister, mich, mirs, nichts, niemand, ohnedem, selbst, sich, sicher, sie, solch, solcher, uns, unsre, viel, viele, vieler, was, welcher, wem, wenig, weniger, wer, wir, worauf, «, »es</li>
+<li>This corpus contains 95 lemmas tagged as pronouns (PRON): 's, --, This, alle, aller, allerlei, allgemein, ander, anderer, anders, andr, andre, andren, andrer, beide, beyde, bißchen, cela, chen, daß, der, derjenige, derselbe, dich, dieser, dir, dreyen, du, eignen, ein, einander, einer, einig, einige, einiger, eins, einzeln, einzig, einziger, er, erfolge, ers, erster, es, etwas, fein, himself, ich, ihm, ihn, ihnen, ihr, irgendetwas, jeder, jemand, jene, jener, kein, keiner, letzt, letzter, man, man's, mancher, mans, mehr, meist, meiste, meister, merkwürdig, mich, mirs, nichts, niemand, nous, que, selbst, sich, sie, solch, solcher, uns, unsre, viel, viele, vieler, was, welcher, wem, wenig, weniger, wer, wir, worauf, »es</li>
 </ul>
 
 <ul>
-<li>This corpus contains 63 lemmas tagged as determiners (DET): 5), I, Roman, all, alle, aller, beide, beiderlei, beym, dant, das, dein, der, derselbe, descriptiv, die, diesem, dieser, ein, einig, einige, einiger, einzeln, etwas, gemein, ihr, il, in, irgendein, jeder, jedermann, jener, kein, la, lauter, le, mancher, mancherlei, mehr, mehre, mehren, mein, meister, nichts, sein, seinemleben, solch, solcher, still, taub, the, unser, unsern, unsers, viel, viele, vieler, was, welcher, wenig, weniger, wenigster, wieviel</li>
+<li>This corpus contains 59 lemmas tagged as determiners (DET): 5), I, Roman, all, alle, aller, beide, beyd, dant, das, dein, der, derselbe, die, diesem, dieser, ein, einig, einiger, einzeln, etwas, gemein, ihr, il, in, irgendein, jeder, jedermann, jener, kein, la, lauter, le, mancher, mancherlei, mehr, mehre, mehren, mein, meister, nichts, sein, seinemleben, solch, solcher, still, the, unser, unsern, unsers, viel, viele, vieler, was, welcher, wenig, weniger, wenigster, wieviel</li>
 </ul>
 
 <ul>
-<li>Out of the above, 29 lemmas occurred sometimes as PRON and sometimes as DET: alle, aller, beide, der, derselbe, dieser, ein, einig, einige, einiger, einzeln, etwas, ihr, jeder, jener, kein, mancher, mehr, meister, nichts, solch, solcher, viel, viele, vieler, was, welcher, wenig, weniger</li>
+<li>Out of the above, 28 lemmas occurred sometimes as PRON and sometimes as DET: alle, aller, beide, der, derselbe, dieser, ein, einig, einiger, einzeln, etwas, ihr, jeder, jener, kein, mancher, mehr, meister, nichts, solch, solcher, viel, viele, vieler, was, welcher, wenig, weniger</li>
 </ul>
 
 <ul>
-<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): --, Mengs), bleibt', era, haben, hören, ist, sein, seyn, sollen, werden, wollen</li>
+<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): dürfen, haben, können, mögen, müssen, sein, sollen, werden, wollen</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: haben, hören, ist, sein, seyn, sollen, werden, wollen</li>
+<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: dürfen, haben, können, mögen, sein, sollen, werden, wollen</li>
 </ul>
 
 <ul>
@@ -208,12 +206,12 @@ Many thanks to Daniel Zeman, who promptly solved some fundamental problems conce
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 19 lemmas as copulas (<a>cop</a>). Examples: sein, werden, seyn, bleiben, scheinen, ist, haben, --, achtete, bleibt', era, erklären, erscheinen, erstaunen, geschehen, heißen, mystifizieren, verfliegen, wirken.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: sein.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 27 lemmas as auxiliaries (<a>aux</a>). Examples: können, müssen, sollen, haben, sein, wollen, werden, dürfen, zu, mögen, möchten, seyn, --, an, frühern, hast, in, ist, kannen, kaum, können.in, müßt, sey, sollt, voll, vollen, wissen.</li>
-<li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: werden, sein, haben, seyn.</li>
+<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: können, müssen, sollen, haben, sein, werden, wollen, dürfen, mögen.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: werden, sein.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -222,15 +220,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (720)</li>
+      <li>VERB--NOUN (759)</li>
       <li>VERB--NOUN-ADP(als) (1)</li>
       <li>VERB--NOUN-ADP(an) (1)</li>
-      <li>VERB--NOUN-ADP(für) (1)</li>
+      <li>VERB--NOUN-ADP(für) (2)</li>
       <li>VERB--NOUN-ADP(in) (1)</li>
       <li>VERB--NOUN-ADP(jenseits) (1)</li>
+      <li>VERB--NOUN-ADP(unter) (1)</li>
       <li>VERB--NOUN-ADP(wie) (2)</li>
       <li>VERB--NOUN-ADP(–) (1)</li>
-      <li>VERB--PRON (1163)</li>
+      <li>VERB--PRON (1197)</li>
       <li>VERB--PRON-ADP(zu) (1)</li>
     </ul>
   </li>
@@ -239,8 +238,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (722)</li>
-      <li>VERB--NOUN-ADP(als) (2)</li>
+      <li>VERB--NOUN (744)</li>
+      <li>VERB--NOUN-ADP(als) (1)</li>
       <li>VERB--NOUN-ADP(an) (1)</li>
       <li>VERB--NOUN-ADP(auf) (2)</li>
       <li>VERB--NOUN-ADP(bey) (1)</li>
@@ -250,8 +249,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(nach) (1)</li>
       <li>VERB--NOUN-ADP(um) (1)</li>
       <li>VERB--NOUN-ADP(wie) (1)</li>
-      <li>VERB--NOUN-ADP(zu) (3)</li>
-      <li>VERB--PRON (590)</li>
+      <li>VERB--NOUN-ADP(zu) (4)</li>
+      <li>VERB--PRON (599)</li>
       <li>VERB--PRON-ADP(Bey) (1)</li>
       <li>VERB--PRON-ADP(in) (1)</li>
       <li>VERB--PRON-ADP(mit) (1)</li>
@@ -262,8 +261,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (65)</li>
-      <li>VERB--PRON (86)</li>
+      <li>VERB--NOUN (66)</li>
+      <li>VERB--PRON (99)</li>
       <li>VERB--PRON-ADP(bey) (1)</li>
     </ul>
   </li>

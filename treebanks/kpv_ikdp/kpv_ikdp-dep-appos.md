@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 2	ыдзыдэсь	ыджыд	ADJ	A	Case=Nom|Number=Plur	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	CLB	_	2	punct	_	_
 4	ребята	ребята	NOUN	N	Case=Nom|Number=Plur	9	nsubj	_	Lang=Rus|SpaceAfter=No
-5	-	-	PUNCT	CLB	_	4	punct	_	SpaceAfter=No
+5	-	-	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
 6	то	то	PART	Pcle	_	4	discourse	_	Lang=Rus
 7	у	у	ADP	Pr	_	8	case	_	Lang=Rus
 8	меня	я	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	obl	_	Lang=Rus

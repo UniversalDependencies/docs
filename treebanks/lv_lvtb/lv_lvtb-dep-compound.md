@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-279 nodes (0%) are attached to their parents as `compound`.
+327 nodes (0%) are attached to their parents as `compound`.
 
-271 instances of `compound` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07168458781362.
+289 instances of `compound` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08256880733945.
 
-The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (188; 67% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (47; 17% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (14; 5% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (14; 5% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (12; 4% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (199; 61% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (51; 16% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (43; 13% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (15; 5% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (14; 4% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 5	,	,	PUNCT	zc	_	4	punct	4:punct	LvtbNodeId=a-d29-p299s2w5
 6	tu	tu	PRON	pp20snn	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	9:nsubj	LvtbNodeId=a-d29-p299s2w6
 7	pats	pats	PRON	pg0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	6	compound	6:compound	LvtbNodeId=a-d29-p299s2w7
-8	sev	sevis	PRON	px000dn	Case=Dat|PronType=Rcp|Reflex=Yes	9	iobj	9:iobj	LvtbNodeId=a-d29-p299s2w8
+8	sev	sevis	PRON	px000dn	Case=Dat|PronType=Prs|Reflex=Yes	9	iobj	9:iobj	LvtbNodeId=a-d29-p299s2w8
 9	saki	sacīt	VERB	vmnipt32san	Evident=Fh|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d29-p299s2w9|SpaceAfter=No
 10	.	.	PUNCT	zs	_	9	punct	9:punct	LvtbNodeId=a-d29-p299s2w10
 
@@ -47,7 +47,7 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 3	roku	roka	NOUN	ncfpg4	Case=Gen|Gender=Fem|Number=Plur	4	nmod	4:nmod:gen	LvtbNodeId=a-p13504-p2s6w3
 4	ziepes	ziepes	NOUN	ncfdn5	Case=Nom|Gender=Fem|Number=Ptan	7	nsubj	7:nsubj	LvtbNodeId=a-p13504-p2s6w4
 5	no	no	ADP	sppd	_	6	case	6:case	LvtbNodeId=a-p13504-p2s6w5
-6	rokām	roka	NOUN	ncfpd4	Case=Dat|Gender=Fem|Number=Plur	7	obl	7:obl	LvtbNodeId=a-p13504-p2s6w6
+6	rokām	roka	NOUN	ncfpd4	Case=Dat|Gender=Fem|Number=Plur	7	obl	7:obl:no	LvtbNodeId=a-p13504-p2s6w6
 7	likvidē	likvidēt	VERB	vmnipt230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p13504-p2s6w7
 8	zivju	zivs	NOUN	ncfpg6	Case=Gen|Gender=Fem|Number=Plur	11	nmod	11:nmod:gen	LvtbNodeId=a-p13504-p2s6w8
 9	un	un	CCONJ	cc	_	10	cc	10:cc	LvtbNodeId=a-p13504-p2s6w9
@@ -59,23 +59,17 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 compound	color:blue
-1	Šur	šur	ADV	r0p	_	5	advmod	5:advmod|7:advmod|9:advmod	LvtbNodeId=a-d122-p165s1w1
-2	tur	tur	ADV	r0p	PronType=Dem	1	compound	1:compound	LvtbNodeId=a-d122-p165s1w2
-3	starp	starp	ADP	sppd	_	4	case	4:case	LvtbNodeId=a-d122-p165s1w3
-4	kokiem	koks	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	5	obl	5:obl|7:obl|9:obl	LvtbNodeId=a-d122-p165s1w4
-5	cēlās	celties	VERB	vmyist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d122-p165s1w5|SpaceAfter=No
-6	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-d122-p165s1w6
-7	vēlās	velties	VERB	vmyisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	5:conj	LvtbNodeId=a-d122-p165s1w7
-8	un	un	CCONJ	cc	_	9	cc	9:cc	LvtbNodeId=a-d122-p165s1w8
-9	kāpa	kāpt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	5:conj	LvtbNodeId=a-d122-p165s1w9
-10	balta	balts	ADJ	affsnnp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	11:amod	LvtbNodeId=a-d122-p165s1w10
-11	migla	migla	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj|7:nsubj|9:nsubj	LvtbNodeId=a-d122-p165s1w11|SpaceAfter=No
-12	.	.	PUNCT	zs	_	5	punct	5:punct	LvtbNodeId=a-d122-p165s1w12
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 compound	color:blue
+1	Brīdi	brīdis	NOUN	ncmsa2	Case=Acc|Gender=Masc|Number=Sing	3	obl	3:obl:acc	LvtbNodeId=a-d137-p1158s5w1
+2	abi	abi	PRON	pg0mpnn	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	3	nsubj	3:nsubj	LvtbNodeId=a-d137-p1158s5w2
+3	lūkojas	lūkoties	VERB	vmyipi230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d137-p1158s5w3
+4	viens	viens	NUM	mcsmsn	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	5	compound	5:compound	LvtbNodeId=a-d137-p1158s5w4
+5	otrā	otrs	NUM	mcsmsl	Case=Loc|Gender=Masc|Number=Sing|NumType=Card	3	nummod	3:nummod	LvtbNodeId=a-d137-p1158s5w5|SpaceAfter=No
+6	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-d137-p1158s5w6
 
 ~~~
 

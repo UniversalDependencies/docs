@@ -18,11 +18,11 @@ The feature is used with 2 part-of-speech tags: <tt><a href="kpv_ikdp-pos-VERB.h
 
 11 <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Connegative`.
 
-The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="kpv_ikdp-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 91%).
+The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="kpv_ikdp-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 82%).
 
 `VERB` tokens may have the following values of `Connegative`:
 
-* `Yes` (11; 100% of non-empty `Connegative`): <em>вермы, тӧд, бросайтчы, ветлоо, во, привлекайтныс, сдайт, удит</em>
+* `Yes` (11; 100% of non-empty `Connegative`): <em>вермы, сдайт, тӧд, бросайтчы, ветлоо, во, привлекайтныс, удит</em>
 
 ### `AUX`
 

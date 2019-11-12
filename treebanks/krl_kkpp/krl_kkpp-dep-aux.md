@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="krl_kkpp-dep-aux-pass.html">aux:pass</a></tt>.
 
-59 nodes (2%) are attached to their parents as `aux`.
+58 nodes (2%) are attached to their parents as `aux`.
 
-58 instances of `aux` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27118644067797.
+57 instances of `aux` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27586206896552.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (50; 85% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt>-<tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (49; 84% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt>-<tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (5; 9% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

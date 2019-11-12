@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	pièces	pièce	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
 3	justificatives	justificatif	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
 4	adresser	adresser	VERB	_	VerbForm=Inf	0	root	_	_
-5	lord	lors_de	ADV	_	_	8	case	_	MWEPOS=ADP
+5	lord	lors_de	ADV	_	_	8	case	_	EXTPOS=ADP
 6	de	_	ADP	_	_	5	fixed	_	_
 7	ma	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes	8	det	_	_
 8	demande	demande	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	_
@@ -50,9 +50,9 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 7	Slam	Slam	PROPN	_	_	3	nmod	_	_
 8	Bjorn	Bjorn	PROPN	_	_	13	nsubj	_	_
 9	Borg	Borg	PROPN	_	_	8	flat:name	_	_
-10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	SpaceAfter=No
-11	-t	t	PART	_	_	12	expl	_	SpaceAfter=No
-12	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	13	expl	_	_
+10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:tense	_	SpaceAfter=No
+11	-t	t	PART	_	_	12	dep	_	SpaceAfter=No
+12	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	13	expl:subj	_	_
 13	remportés	remporter	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 14	?	?	PUNCT	_	_	13	punct	_	_
 
@@ -73,13 +73,13 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 6	Majeure	majeur	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
 7	de	de	ADP	_	_	8	case	_	_
 8	baseball	baseball	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
-9	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	_
 10	remporté	remporter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 12	plus	plus	ADV	_	_	11	advmod	_	_
 13	de	de	ADP	_	_	12	fixed	_	_
 14	victoires	victoire	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	_
-15	d'	d'affilé	ADP	_	_	14	amod	_	MWEPOS=ADJ|SpaceAfter=No
+15	d'	d'affilé	ADP	_	_	14	amod	_	EXTPOS=ADJ|SpaceAfter=No
 16	affilé	_	ADJ	_	_	15	fixed	_	_
 17	?	?	PUNCT	_	_	10	punct	_	_
 

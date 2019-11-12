@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>nicht</em> (<tt><a href="de_pud-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.014409 (the average of all parts of speech is 1.195606).
+The form / lemma ratio of `ADV` is 1.014409 (the average of all parts of speech is 1.195571).
 
 The 1st highest number of forms (2) was observed with the lemma “genau”: <em>genau, genauer</em>.
 

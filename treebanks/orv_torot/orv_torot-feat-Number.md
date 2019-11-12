@@ -12,7 +12,7 @@ It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 97632 tokens (65%) have a non-empty value of `Number`.
 30333 types (94%) occur at least once with a non-empty value of `Number`.
 8090 lemmas (90%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (31604; 21% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (22718; 15% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (15609; 10% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (11196; 7% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (9846; 7% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (3164; 2% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt> (2786; 2% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (709; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (31604; 21% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (22719; 15% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (15609; 10% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (11196; 7% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (9846; 7% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (3163; 2% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt> (2786; 2% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (709; 0% instances).
 
 ### `NOUN`
 
@@ -39,15 +39,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-22718 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (90% of all `VERB` tokens) have a non-empty value of `Number`.
+22719 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (90% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21740; 96%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (15477; 68%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15476; 68%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15476; 68%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15476; 68%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14408; 63%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14027; 62%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (12491; 55%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21741; 96%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (15477; 68%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15476; 68%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15476; 68%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15476; 68%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14408; 63%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14028; 62%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (12491; 55%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Dual` (495; 2% of non-empty `Number`): <em>придоста, рекоста, поидоста, сѣдоста, радуита, яста, видѣста, взѧста, начаста, посласта</em>
 * `Plur` (7950; 35% of non-empty `Number`): <em>придоша, рѣша, послаша, поидоша, идоша, начаша, сташа, даша, положиша, рекоша</em>
-* `Sing` (14273; 63% of non-empty `Number`): <em>реч, приде, иде, посла, повелѣ, поиде, престави, нача, створи, слышавъ</em>
+* `Sing` (14274; 63% of non-empty `Number`): <em>реч, приде, иде, посла, повелѣ, поиде, престави, нача, створи, слышавъ</em>
 * `EMPTY` (2448): <em>ити, видѣти, платити, бити, дати, створити, взѧти, имѣти, творити, молити</em>
 
 <table>
@@ -180,15 +180,15 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `AUX`
 
-3164 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (97% of all `AUX` tokens) have a non-empty value of `Number`.
+3163 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (97% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3164; 100%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2683; 85%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2683; 85%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2683; 85%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2683; 85%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2638; 83%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (2171; 69%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1643; 52%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3163; 100%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2683; 85%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2683; 85%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2683; 85%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2683; 85%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2638; 83%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (2171; 69%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1642; 52%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Dual` (56; 2% of non-empty `Number`): <em>быста, ѥста, еста, есвѣ, бѧста, бѣста, будевѣ, бывъшю, бꙑс҃, беста</em>
 * `Plur` (611; 19% of non-empty `Number`): <em>суть, быша, бѣша, бѧху, есмѧ, бꙑша, ѥсмы, бывше, есте, бѧхꙋ</em>
-* `Sing` (2497; 79% of non-empty `Number`): <em>бѣ, быс, есть, ѥсть, будеть, бѧше, бы, ѥси, бꙑс҃, еси</em>
+* `Sing` (2496; 79% of non-empty `Number`): <em>бѣ, быс, есть, ѥсть, будеть, бѧше, бы, ѥси, бꙑс҃, еси</em>
 * `EMPTY` (97): <em>быти, бꙑти, быть</em>
 
 <table>

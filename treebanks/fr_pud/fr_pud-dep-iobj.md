@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4 2 iobj	color:blue
 1	J’	_	PRON	PRP	Number=Sing|Person=1	4	nsubj	_	OrigForm=J'|SpaceAfter=No
 2	en	_	PRON	PRP	Person=3	4	iobj	_	_
-3	ai	_	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	aux	_	_
+3	ai	_	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	aux:tense	_	_
 4	aperçu	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	.	_	PUNCT	.	_	4	punct	_	_
 

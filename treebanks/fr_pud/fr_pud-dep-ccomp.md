@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-305 nodes (1%) are attached to their parents as `ccomp`.
+174 nodes (1%) are attached to their parents as `ccomp`.
 
-296 instances of `ccomp` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.04262295081967.
+168 instances of `ccomp` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.63793103448276.
 
-The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (142; 47% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (131; 43% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (12; 4% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (142; 82% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (12; 7% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -34,25 +34,6 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 ccomp	color:blue
-1	5000	_	NUM	CD	_	2	nummod	_	_
-2	dollars	_	NOUN	NN	Gender=Masc|Number=Plur	0	root	_	_
-3	par	_	ADP	IN	_	4	case	_	_
-4	personne	_	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
-5	,	_	PUNCT	,	_	7	punct	_	_
-6	le	_	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
-7	maximum	_	NOUN	NN	Gender=Masc|Number=Sing	2	appos	_	_
-8	autorisé	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	7	ccomp	_	SpaceAfter=No
-9	.	_	PUNCT	.	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 2	bgColor:blue
@@ -61,7 +42,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 1	Je	_	PRON	PRP	Number=Sing|Person=1	2	nsubj	_	_
 2	crois	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
 3	qu’	_	ADP	IN	_	6	mark	_	OrigForm=qu'|SpaceAfter=No
-4	il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
+4	il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	6	expl:subj	_	_
 5	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
 6	juste	_	ADJ	JJ	Gender=Masc|Number=Sing	2	ccomp	_	_
 7	de	_	ADP	IN	_	8	mark	_	_
@@ -77,6 +58,42 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 17	style	_	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
 18	rétro	_	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
 19	.	_	PUNCT	.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 14 ccomp	color:blue
+1	Les	_	DET	DT	Gender=Fem|Number=Plur	2	det	_	_
+2	traces	_	NOUN	NN	Gender=Fem|Number=Plur	9	nsubj	_	_
+3	de	_	ADP	IN	_	4	case	_	_
+4	sang	_	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
+5	sur	_	ADP	IN	_	7	case	_	_
+6	les	_	DET	DT	Gender=Masc|Number=Plur	7	det	_	_
+7	vêtements	_	NOUN	NN	Gender=Masc|Number=Plur	2	nmod	_	_
+8	étaient	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp	9	cop	_	_
+9	telles	_	ADJ	JJ	Gender=Fem|Number=Plur	0	root	_	_
+10	qu'	_	ADP	IN	_	14	mark	_	SpaceAfter=No
+11	elles	_	PRON	PRP	Gender=Fem|Number=Plur|Person=3	14	nsubj:pass	_	_
+12	avaient	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp	14	aux:tense	_	_
+13	été	_	AUX	VBN	Gender=Masc|Number=Sing	14	aux:pass	_	_
+14	décrites	_	VERB	VBN	Gender=Fem|Number=Plur	9	ccomp	_	_
+15	dans	_	ADP	IN	_	17	case	_	_
+16	les	_	DET	DT	Gender=Masc|Number=Plur	17	det	_	_
+17	bulletins	_	NOUN	NN	Gender=Masc|Number=Plur	14	obl	_	_
+18	d'	_	ADP	IN	_	19	case	_	SpaceAfter=No
+19	information	_	NOUN	NN	Gender=Fem|Number=Sing	17	nmod	_	_
+20	de	de	ADP	INDT	_	22	case	_	_
+21	le	le	DET	_	Gender=Masc|Number=Sing	22	det	_	_
+22	jour	_	NOUN	NN	Gender=Masc|Number=Sing	17	nmod	_	_
+23	de	de	ADP	INDT	_	25	case	_	_
+24	le	le	DET	_	Gender=Masc|Number=Sing	25	det	_	_
+25	meurtre	_	NOUN	NN	Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+26	.	_	PUNCT	.	_	9	punct	_	_
 
 ~~~
 

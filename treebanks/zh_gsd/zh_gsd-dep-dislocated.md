@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-63 nodes (0%) are attached to their parents as `dislocated`.
+62 nodes (0%) are attached to their parents as `dislocated`.
 
-61 instances of `dislocated` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.6031746031746.
+60 instances of `dislocated` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.58064516129032.
 
-The following 16 pairs of parts of speech are connected with `dislocated`: <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (24; 38% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (7; 11% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (7; 11% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (5; 8% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 15 pairs of parts of speech are connected with `dislocated`: <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (23; 37% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (7; 11% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (7; 11% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (5; 8% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,19 +22,19 @@ The following 16 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 dislocated	color:blue
-1	總括	總括	VERB	VV	_	3	acl	_	SpaceAfter=No
+1	總括	總括	VERB	VV	_	3	advcl	_	SpaceAfter=No
 2	來	來	ADV	RB	_	3	mark	_	SpaceAfter=No
-3	說	說	VERB	VV	_	6	dep	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	6	punct	_	SpaceAfter=No
+3	說	說	VERB	VV	_	0	root	_	SpaceAfter=No
+4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 5	名人	名人	NOUN	NN	_	6	nmod	_	SpaceAfter=No
-6	會議	會議	NOUN	NN	_	0	root	_	SpaceAfter=No
+6	會議	會議	NOUN	NN	_	3	parataxis	_	SpaceAfter=No
 7	旨	旨	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 8	在	在	VERB	VV	_	6	dislocated	_	SpaceAfter=No
 9	維持	維持	VERB	VV	Voice=Cau	8	xcomp	_	SpaceAfter=No
 10	國家	國家	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 11	繁榮	繁榮	ADJ	JJ	_	12	advcl	_	SpaceAfter=No
 12	安定	安定	ADJ	JJ	_	9	ccomp	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+13	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -50,25 +50,25 @@ The following 16 pairs of parts of speech are connected with `dislocated`: <tt><
 3	一般	一般	ADV	RB	_	11	advmod	_	SpaceAfter=No
 4	比	比	ADP	IN	_	9	case	_	SpaceAfter=No
 5	淺焙	淺焙	NOUN	NN	_	6	nmod	_	SpaceAfter=No
-6	咖啡	咖啡	NOUN	NN	_	9	det	_	SpaceAfter=No
+6	咖啡	咖啡	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 7	的	的	PART	DEC	Case=Gen	6	case:dec	_	SpaceAfter=No
-8	咖啡	咖啡	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+8	咖啡	咖啡	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	因	因	PART	SFN	_	11	nmod	_	SpaceAfter=No
 10	含量	含量	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 11	少	少	ADJ	JJ	_	2	dislocated	_	SpaceAfter=No
-12	,	,	PUNCT	,	_	11	punct	_	SpaceAfter=No
+12	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 13	因為	因為	ADP	IN	_	16	case	_	SpaceAfter=No
 14	烘焙	烘焙	VERB	VV	_	16	csubj	_	SpaceAfter=No
 15	能	能	AUX	MD	_	16	aux	_	SpaceAfter=No
 16	減少	減少	VERB	VV	_	11	xcomp	_	SpaceAfter=No
-17	咖啡	咖啡	NOUN	NN	_	18	case:suff	_	SpaceAfter=No
-18	豆	豆	PART	SFN	_	23	det	_	SpaceAfter=No
+17	咖啡	咖啡	NOUN	NN	_	18	compound	_	SpaceAfter=No
+18	豆	豆	PART	SFN	_	23	nmod	_	SpaceAfter=No
 19	裡	裡	ADP	IN	_	18	acl	_	SpaceAfter=No
 20	的	的	PART	DEC	Case=Gen	18	case:dec	_	SpaceAfter=No
-21	咖啡	咖啡	NOUN	NN	_	22	case:suff	_	SpaceAfter=No
+21	咖啡	咖啡	NOUN	NN	_	22	compound	_	SpaceAfter=No
 22	因	因	PART	SFN	_	23	nmod	_	SpaceAfter=No
 23	含量	含量	NOUN	NN	_	16	obj	_	SpaceAfter=No
-24	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+24	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -81,28 +81,28 @@ The following 16 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 16 22 dislocated	color:blue
 1	但	但	ADV	RB	_	3	mark	_	SpaceAfter=No
 2	可以	可以	AUX	MD	_	3	aux	_	SpaceAfter=No
-3	舉	舉	VERB	VV	_	10	dep	_	SpaceAfter=No
+3	舉	舉	VERB	VV	_	0	root	_	SpaceAfter=No
 4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	事	事	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 6	爲	爲	AUX	VC	_	7	cop	_	SpaceAfter=No
 7	例	例	NOUN	NN	_	3	ccomp	_	SpaceAfter=No
-8	,	,	PUNCT	,	_	10	punct	_	SpaceAfter=No
+8	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 9	他	他	PRON	PRP	Person=3	10	nsubj	_	SpaceAfter=No
-10	說	說	VERB	VV	_	0	root	_	SpaceAfter=No
+10	說	說	VERB	VV	_	3	parataxis	_	SpaceAfter=No
 11	他	他	PRON	PRP	Person=3	12	nsubj	_	SpaceAfter=No
-12	喜歡	喜歡	VERB	VV	_	16	dep	_	SpaceAfter=No
+12	喜歡	喜歡	VERB	VV	_	16	advcl	_	SpaceAfter=No
 13	涉覽	涉覽	VERB	VV	_	12	xcomp	_	SpaceAfter=No
 14	筆記	筆記	NOUN	NN	_	13	obj	_	SpaceAfter=No
-15	,	,	PUNCT	,	_	16	punct	_	SpaceAfter=No
+15	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 16	中國	中國	PROPN	NNP	_	10	ccomp	_	SpaceAfter=No
 17	的	的	PART	DEC	Case=Gen	16	case:dec	_	SpaceAfter=No
-18	,	,	PUNCT	,	_	16	punct	_	SpaceAfter=No
+18	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 19	他	他	PRON	PRP	Person=3	22	nsubj	_	SpaceAfter=No
 20	幾乎	幾乎	ADV	RB	_	22	advmod	_	SpaceAfter=No
 21	都	都	ADV	RB	_	22	mark	_	SpaceAfter=No
 22	看	看	VERB	VV	_	16	dislocated	_	SpaceAfter=No
 23	過	過	PART	AS	Aspect=Perf	22	case:aspect	_	SpaceAfter=No
-24	.	.	PUNCT	.	_	10	punct	_	SpaceAfter=No
+24	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 ~~~
 

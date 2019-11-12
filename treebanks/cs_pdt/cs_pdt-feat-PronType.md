@@ -10,20 +10,20 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-113711 tokens (8%) have a non-empty value of `PronType`.
+113696 tokens (8%) have a non-empty value of `PronType`.
 966 types (1%) occur at least once with a non-empty value of `PronType`.
 187 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (56127; 4% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (44919; 3% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (12665; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (56112; 4% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (44919; 3% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (12665; 1% instances).
 
 ### `DET`
 
-56127 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+56112 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (49140; 88%), <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (46712; 83%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46710; 83%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (41810; 74%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35868; 64%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (49125; 88%), <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (46697; 83%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46695; 83%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (41795; 74%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35853; 64%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (21052; 38% of non-empty `PronType`): <em>to, tím, tom, této, tomu, tento, toho, tohoto, tato, těchto</em>
+* `Dem` (21037; 37% of non-empty `PronType`): <em>to, tím, tom, této, tomu, tento, toho, tohoto, tato, těchto</em>
 * `Emp` (700; 1% of non-empty `PronType`): <em>sám, sama, sami, samy, samo, samu, samého</em>
 * `Ind` (3898; 7% of non-empty `PronType`): <em>několik, některé, některých, několika, mnoho, někteří, mnoha, nějaké, nějaký, málo</em>
 * `Int,Rel` (11671; 21% of non-empty `PronType`): <em>které, který, která, kteří, kterou, jaké, kterým, kolik, kterých, kterého</em>

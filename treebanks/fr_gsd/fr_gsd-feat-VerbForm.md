@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-44859 tokens (11%) have a non-empty value of `VerbForm`.
+44866 tokens (11%) have a non-empty value of `VerbForm`.
 8282 types (19%) occur at least once with a non-empty value of `VerbForm`.
-2224 lemmas (7%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (31950; 8% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (12907; 3% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 0% instances).
+2227 lemmas (7%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (31957; 8% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (12907; 3% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-31950 <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+31957 <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20785; 65%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19771; 62%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18246; 57%), <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (18244; 57%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20786; 65%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19775; 62%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18251; 57%), <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (18249; 57%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (13713; 43% of non-empty `VerbForm`): <em>a, peut, fait, est, trouve, devient, doit, ont, permet, agit</em>
+* `Fin` (13715; 43% of non-empty `VerbForm`): <em>a, peut, fait, est, trouve, devient, doit, ont, permet, agit</em>
 * `Inf` (5523; 17% of non-empty `VerbForm`): <em>faire, partir, voir, prendre, avoir, mettre, passer, trouver, aller, dire</em>
-* `Part` (12714; 40% of non-empty `VerbForm`): <em>né, située, situé, eu, fait, mort, connu, nommé, née, réalisé</em>
-* `EMPTY` (42): <em>voilà, voici, Making, Park, Progrediens, Take, Tell, Voila, come, configure</em>
+* `Part` (12719; 40% of non-empty `VerbForm`): <em>né, située, situé, eu, fait, mort, connu, nommé, née, réalisé</em>
+* `EMPTY` (37): <em>voilà, voici, Making, Park, Voila, cf, come, publicly-traded, sèche</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -64,7 +64,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 12907 <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10814; 84%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (10726; 83%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9756; 76%), <tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9658; 75%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10814; 84%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (10726; 83%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9757; 76%), <tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9658; 75%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
@@ -116,22 +116,24 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>informé</em>
-* `EMPTY` (23673): <em>premier, première, français, même, autres, française, tous, grande, grand, nouveau</em>
+* `EMPTY` (23660): <em>premier, première, français, même, autres, française, tous, grande, grand, nouveau</em>
 
 ### `X`
 
 1 <tt><a href="fr_gsd-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `VerbForm`.
 
+The most frequent other feature values with which `X` and `VerbForm` co-occurred: <tt><a href="fr_gsd-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (1; 100%).
+
 `X` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>Bound</em>
-* `EMPTY` (1668): <em>of, the, etc., and, in, a, for, B, me, to</em>
+* `EMPTY` (1819): <em>of, the, etc., and, in, a, for, Company, me, B</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2449; 80%),
-<tt>VERB --[<tt><a href="fr_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (180; 54%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2447; 80%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (178; 54%),
 <tt>AUX --[<tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (7; 100%),
 <tt>VERB --[<tt><a href="fr_gsd-dep-advcl-cleft.html">advcl:cleft</a></tt>]--> VERB</tt> (4; 80%),
 <tt>AUX --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 67%),
@@ -139,5 +141,5 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="fr_gsd-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="fr_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="fr_gsd-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="fr_gsd-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<tt><a href="fr_gsd-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1; 100%).
 

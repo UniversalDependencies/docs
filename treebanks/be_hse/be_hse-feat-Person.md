@@ -47,7 +47,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `2` (14; 8% of non-empty `Person`): <em>вы, вас, вамі, ты</em>
 * `3` (84; 49% of non-empty `Person`): <em>яны, ён, іх, яго, яна, iх, яе, iм, ім, яму</em>
 * `4` (1; 1% of non-empty `Person`): <em>яму</em>
-* `EMPTY` (231): <em>гэта, якiя, якія, таго, які, што, тое, гэтым, тым, якая</em>
+* `EMPTY` (232): <em>гэта, якiя, якія, таго, што, які, тое, гэтым, тым, якая</em>
 
 <table>
   <tr><th>Paradigm <i>ён</i></th><th><tt>3</tt></th><th><tt>4</tt></th></tr>
@@ -111,7 +111,5 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (47; 77%),
-<tt>VERB --[<tt><a href="be_hse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (7; 54%),
-<tt>VERB --[<tt><a href="be_hse-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (48; 77%).
 

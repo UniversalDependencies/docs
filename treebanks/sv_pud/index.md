@@ -16,11 +16,11 @@ Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
-The following people have contributed to making this treebank part of UD: Joakim Nivre.
+The following people have contributed to making this treebank part of UD: Joakim Nivre, Bernadeta Griciūtė.
 
 Repository: [UD_Swedish-PUD](https://github.com/UniversalDependencies/UD_Swedish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 4.0
 
@@ -34,10 +34,10 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | assigned by a program, not checked manually |
-| UPOS | assigned by a program, not checked manually |
-| XPOS | assigned by a program, not checked manually |
-| Features | assigned by a program, not checked manually |
+| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
+| UPOS | assigned by a program, with some manual corrections, but not a full manual verification |
+| XPOS | assigned by a program, with some manual corrections, but not a full manual verification |
+| Features | assigned by a program, with some manual corrections, but not a full manual verification |
 | Relations | annotated manually, natively in UD style |
 
 ## Description
@@ -70,7 +70,7 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 
 ## Features
 
-[Abbr](sv_pud-feat-Abbr.html) – [Case](sv_pud-feat-Case.html) – [Definite](sv_pud-feat-Definite.html) – [Degree](sv_pud-feat-Degree.html) – [Foreign](sv_pud-feat-Foreign.html) – [Gender](sv_pud-feat-Gender.html) – [Mood](sv_pud-feat-Mood.html) – [Number](sv_pud-feat-Number.html) – [Polarity](sv_pud-feat-Polarity.html) – [Poss](sv_pud-feat-Poss.html) – [PronType](sv_pud-feat-PronType.html) – [Tense](sv_pud-feat-Tense.html) – [VerbForm](sv_pud-feat-VerbForm.html) – [Voice](sv_pud-feat-Voice.html)
+[Abbr](sv_pud-feat-Abbr.html) – [Case](sv_pud-feat-Case.html) – [Definite](sv_pud-feat-Definite.html) – [Degree](sv_pud-feat-Degree.html) – [Foreign](sv_pud-feat-Foreign.html) – [Gender](sv_pud-feat-Gender.html) – [Mood](sv_pud-feat-Mood.html) – [Number](sv_pud-feat-Number.html) – [NumType](sv_pud-feat-NumType.html) – [Polarity](sv_pud-feat-Polarity.html) – [Poss](sv_pud-feat-Poss.html) – [PronType](sv_pud-feat-PronType.html) – [Tense](sv_pud-feat-Tense.html) – [VerbForm](sv_pud-feat-VerbForm.html) – [Voice](sv_pud-feat-Voice.html)
 
 ## Relations
 
@@ -112,11 +112,11 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 </ul>
 
 <ul>
-<li>This corpus contains 59 lemmas tagged as pronouns (PRON): alla, allt, alltihop, allting, alltsammans, andra, annat, båda, bådas, de, den, denna, dennes, deras, dess, dessa, det, detta, din, du, en, ens, er, ett, fler, han, hans, hennes, her, hon, ingen, inget, intet, jag, man, me, min, my, mycket, många, mångt, ni, någon, något, några, sig, sin, som, vad, varandra, vars, vem, vi, vilka, vilkas, vilken, vilket, vår, you</li>
+<li>This corpus contains 61 lemmas tagged as pronouns (PRON): 'ya, Papua, alla, allt, alltihop, allting, alltsammans, andra, annat, båda, bådas, de, den, denna, dennes, deras, dess, dessa, det, detta, din, du, en, ens, er, ett, fler, han, hans, hennes, her, hon, ingen, inget, intet, jag, man, me, min, my, mycket, många, mångt, ni, någon, något, några, sig, sin, som, vad, varandra, vars, vem, vi, vilka, vilkas, vilken, vilket, vår, you</li>
 </ul>
 
 <ul>
-<li>This corpus contains 17 lemmas tagged as determiners (DET): A, Die, El, Las, Le, all, båda, den, denna, en, ingen, någon, samma, that, the, varje, vilken</li>
+<li>This corpus contains 17 lemmas tagged as determiners (DET): A, Die, El, Le, all, båda, den, denna, en, ingen, las, någon, samma, that, the, varje, vilken</li>
 </ul>
 
 <ul>
@@ -148,7 +148,7 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
   <li>Inf
   <ul>
     <li>AUX: vara, ha, kunna, behöva, bli, få, må, vilja</li>
-    <li>VERB: ha, få, göra, ta, gå, se, bli, hjälpa, spela, använda</li>
+    <li>VERB: ha, få, göra, ta, gå, se, använda, bli, hjälpa, spela</li>
   </ul>
   </li>
 </ul>
@@ -156,8 +156,8 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: betydande, sett, följande, kända, allierade, känd, levande, omfattande, regisserad, anställd</li>
-    <li>VERB: Breaking, förlorad, tvungen</li>
+    <li>ADJ: betydande, följande, kända, sett, allierade, känd, levande, omfattande, regisserad, anställd</li>
+    <li>VERB: Breaking, förlorad, stammande, tvungen</li>
   </ul>
   </li>
 </ul>
@@ -166,7 +166,7 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
   <li>Sup
   <ul>
     <li>AUX: varit, blivit, kunnat</li>
-    <li>VERB: blivit, gjort, beslutat, fått, gått, haft, kommit, sett, skrivit, ansett</li>
+    <li>VERB: blivit, gjort, sett, beslutat, fått, gått, haft, kommit, skrivit, ansett</li>
   </ul>
   </li>
 </ul>
@@ -181,12 +181,13 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Com
     <ul>
-      <li>ADJ: stor, lång, egen, ensam, hög, liten, modern, politisk, ekonomisk, kort</li>
+      <li>ADJ: stor, lång, egen, ensam, hög, liten, modern, politisk, direkt, ekonomisk</li>
       <li>ADJ-Part: känd, regisserad, anställd, gift, intresserad, samlad, utgiven, Designad, Grundad, Nedgrävd</li>
       <li>DET: en, den, denna, någon, ingen, all, det, ett, vilken</li>
-      <li>NOUN: personer, miljoner, del, grund, oktober, världen, delen, tiden, plats, dollar</li>
+      <li>NOUN: personer, miljoner, grund, oktober, världen, del, delen, tiden, plats, dollar</li>
       <li>NUM: en</li>
       <li>PRON: han, jag, sin, hon, den, vi, honom, en, du, henne</li>
+      <li>PROPN: Karels, låglandseuropa</li>
       <li>VERB-Part: förlorad, tvungen</li>
     </ul>
   </li>
@@ -203,12 +204,13 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: sett, annat, nytt, otroligt, öppet, allmänt, möjligt, stort, dåligt, eget</li>
-      <li>ADJ-Part: sett, inräknat, känt, Format, Uttryckt, begränsat, bevakat, beväpnat, delat, drivet</li>
+      <li>ADJ: annat, nytt, otroligt, sett, öppet, allmänt, möjligt, stort, dåligt, eget</li>
+      <li>ADJ-Part: sett, Format, Uttryckt, begränsat, bevakat, beväpnat, delat, drivet, fortsatt, färdigställt</li>
       <li>DET: ett, det, detta, något, inget, vilket, De, allt</li>
       <li>NOUN: år, havet, fall, kriget, liv, antal, barn, åren, land, slutet</li>
       <li>NUM: ett</li>
       <li>PRON: det, detta, sitt, vad, vilket, ett, mycket, allt, vårt, allting</li>
+      <li>PROPN: Panamanäset</li>
     </ul>
   </li>
 </ul>
@@ -222,10 +224,11 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
   <li>Plur
     <ul>
       <li>ADJ: många, flera, andra, nya, stora, olika, fler, små, vissa, båda</li>
-      <li>ADJ-Part: allierade, kända, inblandade, kombinerade, kvalificerade, misstänkta, samlade, Finansierade, avlidna, beskattade</li>
+      <li>ADJ-Part: allierade, kända, inblandade, kvalificerade, misstänkta, samlade, Finansierade, avlidna, besvarade, beväpnade</li>
       <li>DET: de, alla, dessa, några, inga, båda</li>
       <li>NOUN: år, personer, miljoner, dollar, barn, människor, åren, delar, företag, gånger</li>
-      <li>PRON: de, sina, vi, dem, vilka, oss, alla, många, andra, dessa</li>
+      <li>PRON: de, sina, vi, dem, vilka, oss, alla, andra, dessa, många</li>
+      <li>PROPN: Mps, Victorias</li>
     </ul>
   </li>
 </ul>
@@ -233,12 +236,13 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: stor, hela, nya, södra, andra, lång, norra, brittiska, egen, ensam</li>
-      <li>ADJ-Part: sett, känd, regisserad, anställd, fortsatt, gift, inräknat, intresserad, känt, samlad</li>
+      <li>ADJ: stor, hela, nya, norra, södra, andra, lång, brittiska, direkt, egen</li>
+      <li>ADJ-Part: sett, känd, regisserad, anställd, fortsatt, gift, intresserad, samlad, utgiven, utmärkt</li>
       <li>DET: en, den, ett, det, denna, varje, detta, någon, något, ingen</li>
-      <li>NOUN: havet, år, del, grund, oktober, världen, delen, kriget, liv, tiden</li>
+      <li>NOUN: havet, år, grund, oktober, världen, del, delen, kriget, liv, tiden</li>
       <li>NUM: en, ett</li>
       <li>PRON: det, han, jag, sin, hon, den, detta, honom, sitt, vad</li>
+      <li>PROPN: North, Punta, Amazon, Cuaron, Karels, Korint, Krasnoyarsk, MahaNakhon, Panamanäset, Slack</li>
       <li>VERB-Part: förlorad, tvungen</li>
     </ul>
   </li>
@@ -251,7 +255,7 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: sig, honom, dem, henne, oss, mig, dig, er, sej, varandra</li>
+      <li>PRON: sig, honom, dem, henne, oss, mig, dig, er, varandra</li>
     </ul>
   </li>
 </ul>
@@ -270,13 +274,13 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
   <li>Nom
     <ul>
       <li>ADJ: första, andra, nya, många, flera, stora, stor, hela, senaste, sista</li>
-      <li>ADJ-Part: betydande, sett, följande, kända, allierade, känd, levande, omfattande, regisserad, anställd</li>
+      <li>ADJ-Part: betydande, följande, kända, sett, allierade, känd, levande, omfattande, regisserad, anställd</li>
       <li>ADV: Anyway</li>
-      <li>NOUN: år, havet, personer, fall, miljoner, del, grund, oktober, världen, delen</li>
+      <li>NOUN: år, havet, personer, fall, miljoner, grund, oktober, världen, del, delen</li>
       <li>NUM: två, tre, fyra, 1, sex, 10, tio, 000, 2014, 2015</li>
-      <li>PRON: han, de, jag, hon, vi, du, man, Me, ni</li>
+      <li>PRON: han, de, jag, hon, vi, du, man, Me, Papua, ni</li>
       <li>PROPN: Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, Medelhavet, Albanien, Donald</li>
-      <li>VERB-Part: förlorad, tvungen</li>
+      <li>VERB-Part: förlorad, stammande, tvungen</li>
     </ul>
   </li>
 </ul>
@@ -289,11 +293,12 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Def
     <ul>
-      <li>ADJ: hela, senaste, nya, sista, högsta, största, södra, andra, bästa, främsta</li>
-      <li>ADJ-Part: Förenade, använda, bildade, bundna, frusna, frånskilda, förbättrade, hyllade, icke-vita, idealiserade</li>
+      <li>ADJ: hela, senaste, nya, sista, högsta, norra, största, södra, andra, bästa</li>
+      <li>ADJ-Part: Förenade, bildade, bundna, frusna, frånskilda, hyllade, icke-vita, idealiserade, kända, publicerade</li>
       <li>DET: den, de, det, denna, the, dessa, detta, a, Die, El</li>
       <li>NOUN: havet, världen, delen, kriget, tiden, gången, regeringen, regionen, staden, åren</li>
       <li>PRON: det, han, de, sig, hans, jag, sin, hon, den, sina</li>
+      <li>PROPN: Panamanäset</li>
     </ul>
   </li>
 </ul>
@@ -301,12 +306,13 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: flera, stor, fler, lång, ensam, hög, liten, modern, politisk, sett</li>
-      <li>ADJ-Part: sett, känd, regisserad, anställd, fortsatt, gift, inräknat, intresserad, känt, samlad</li>
+      <li>ADJ: flera, stor, fler, lång, direkt, ensam, hög, liten, modern, politisk</li>
+      <li>ADJ-Part: sett, känd, regisserad, anställd, fortsatt, gift, intresserad, samlad, utgiven, utmärkt</li>
       <li>DET: en, ett, samma, varje, några, någon, något, ingen, inget, a</li>
-      <li>NOUN: år, personer, fall, miljoner, del, grund, oktober, liv, plats, antal</li>
+      <li>NOUN: år, personer, fall, miljoner, grund, oktober, del, liv, plats, antal</li>
       <li>NUM: en, ett</li>
-      <li>PRON: vad, en, vilket, vilka, alla, många, andra, ett, mycket, allt</li>
+      <li>PRON: vad, vilket, en, vilka, alla, andra, ett, mycket, många, någon</li>
+      <li>PROPN: Korint, låglandseuropa</li>
       <li>VERB-Part: förlorad, tvungen</li>
     </ul>
   </li>
@@ -322,8 +328,8 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: större, högre, mer, tidigare, senare, färre, mindre, ytterligare, yttre, äldre</li>
-      <li>ADV: mer, senare, tidigare, längre, bättre, mindre, hellre, snarare, närmare, vidare</li>
+      <li>ADJ: större, tidigare, högre, mer, senare, bättre, färre, ytterligare, yttre, äldre</li>
+      <li>ADV: mer, senare, tidigare, längre, mindre, bättre, hellre, snarare, närmare, vidare</li>
     </ul>
   </li>
 </ul>
@@ -332,7 +338,7 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
   <li>Pos
     <ul>
       <li>ADJ: nya, andra, många, flera, stora, stor, hela, brittiska, olika, fler</li>
-      <li>ADV: helt, mycket, ofta, väldigt, djupt, långt, direkt, lite, väl, faktiskt</li>
+      <li>ADV: helt, mycket, ofta, väldigt, djupt, långt, lite, väl, faktiskt, snart</li>
     </ul>
   </li>
 </ul>
@@ -340,7 +346,7 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: senaste, sista, högsta, största, bästa, främsta, bäst, flesta, mesta, värsta</li>
+      <li>ADJ: senaste, sista, högsta, största, bästa, främsta, bäst, flesta, värsta, bredast</li>
       <li>ADV: mest, sist, främst, värst, Minst, helst, ytterst, knappast</li>
     </ul>
   </li>
@@ -380,9 +386,10 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ-Part: betydande, följande, levande, omfattande, beroende, dominerande, närvarande, omgivande, sittande, självstyrande</li>
+      <li>ADJ-Part: betydande, följande, levande, omfattande, beroende, dominerande, omgivande, sittande, självstyrande, växande</li>
       <li>AUX-Fin: är, var, har, hade, kan, skulle, kommer, kunde, måste, ville</li>
       <li>VERB-Fin: har, sade, finns, säger, började, hade, blev, gjorde, tog, kommer</li>
+      <li>VERB-Part: stammande</li>
     </ul>
   </li>
 </ul>
@@ -394,7 +401,7 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Past
     <ul>
-      <li>ADJ-Part: sett, kända, allierade, känd, regisserad, anställd, fortsatt, gift, inblandade, inräknat</li>
+      <li>ADJ-Part: kända, sett, allierade, känd, regisserad, anställd, fortsatt, gift, inblandade, intresserad</li>
       <li>AUX-Fin: var, hade, skulle, kunde, ville, blev, borde, Did, behövde, fick</li>
       <li>VERB-Fin: sade, började, hade, blev, gjorde, tog, användes, skrev, spelade, berättade</li>
       <li>VERB-Part: förlorad, tvungen</li>
@@ -405,9 +412,10 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Pres
     <ul>
-      <li>ADJ-Part: betydande, följande, levande, omfattande, beroende, dominerande, närvarande, omgivande, sittande, självstyrande</li>
+      <li>ADJ-Part: betydande, följande, levande, omfattande, beroende, dominerande, omgivande, sittande, självstyrande, växande</li>
       <li>AUX-Fin: är, har, kan, kommer, måste, ska, vill, bör, blir, får</li>
       <li>VERB-Fin: har, finns, säger, kommer, börjar, står, ger, hjälper, inkluderar, innehåller</li>
+      <li>VERB-Part: stammande</li>
     </ul>
   </li>
 </ul>
@@ -423,9 +431,9 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
       <li>AUX-Inf: vara, ha, kunna, behöva, bli, få, må, vilja</li>
       <li>AUX-Sup: varit, blivit, kunnat</li>
       <li>VERB-Fin: har, sade, säger, började, hade, blev, gjorde, tog, kommer, börjar</li>
-      <li>VERB-Inf: ha, få, göra, ta, gå, se, bli, hjälpa, spela, använda</li>
+      <li>VERB-Inf: ha, få, göra, ta, gå, se, använda, bli, hjälpa, spela</li>
       <li>VERB-Part: Breaking</li>
-      <li>VERB-Sup: blivit, gjort, beslutat, fått, gått, haft, kommit, sett, skrivit, ansett</li>
+      <li>VERB-Sup: blivit, gjort, sett, beslutat, fått, gått, haft, kommit, skrivit, ansett</li>
     </ul>
   </li>
 </ul>
@@ -451,7 +459,7 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Art
     <ul>
-      <li>DET: den, det</li>
+      <li>DET: det, the, de, den, en</li>
     </ul>
   </li>
 </ul>
@@ -459,7 +467,7 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: mycket</li>
+      <li>PRON: mycket, någon</li>
     </ul>
   </li>
 </ul>
@@ -475,6 +483,33 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
   </li>
 </ul>
 
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: de, det</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NumType</a></li>
+</ul>
+
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: I, IV, V, VI, X, en</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: First</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Poss</a></li>
@@ -501,9 +536,11 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
     <ul>
       <li>Yes
         <ul>
-          <li>ADV: f.Kr., ca, e.Kr., fvt</li>
+          <li>ADJ: St.</li>
+          <li>ADV: f.Kr., ca, e.Kr.</li>
           <li>CCONJ: &</li>
-          <li>NOUN: %, f.Kr., md, Mps, nr, AIDS, BA, C, Mrs, RHS</li>
+          <li>NOUN: %, f.Kr., md, nr, AIDS, C, Mrs, dr, e.Kr., f.Kr</li>
+          <li>PROPN: Mps, RHS, AKP:s, ECB:s, RSPB:s</li>
         </ul>
       </li>
     </ul>
@@ -515,7 +552,12 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: Business, Over, Protection, Rasa, Return, Services, Show, Things, Tulcea, View</li>
+          <li>ADJ: high</li>
+          <li>ADP: Over</li>
+          <li>NOUN: Business, Ground, Protection, Return, Services, Show, Things, View, Zimmer, concept</li>
+          <li>PRON: 'Ya, My</li>
+          <li>PROPN: Carolina, North, Punta, Rasa, del</li>
+          <li>VERB: Controlled, Knew, Thought</li>
         </ul>
       </li>
     </ul>
@@ -541,21 +583,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (6)</li>
+      <li>VERB--PRON (1)</li>
+      <li>VERB-Fin--NOUN (7)</li>
       <li>VERB-Fin--NOUN-ADP(On) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (358)</li>
+      <li>VERB-Fin--NOUN-Nom (362)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(runt) (1)</li>
-      <li>VERB-Fin--PRON (181)</li>
-      <li>VERB-Fin--PRON-Nom (177)</li>
+      <li>VERB-Fin--PRON (183)</li>
+      <li>VERB-Fin--PRON-Nom (179)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Nom (51)</li>
+      <li>VERB-Inf--NOUN-Nom (52)</li>
       <li>VERB-Inf--PRON (27)</li>
       <li>VERB-Inf--PRON-Nom (42)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
-      <li>VERB-Sup--NOUN (1)</li>
-      <li>VERB-Sup--NOUN-Nom (52)</li>
+      <li>VERB-Sup--NOUN-Nom (53)</li>
       <li>VERB-Sup--PRON (26)</li>
-      <li>VERB-Sup--PRON-Nom (25)</li>
+      <li>VERB-Sup--PRON-Nom (26)</li>
     </ul>
   </li>
 </ul>
@@ -563,13 +605,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (370)</li>
-      <li>VERB-Fin--PRON (24)</li>
+      <li>VERB-Fin--NOUN (2)</li>
+      <li>VERB-Fin--NOUN-Gen (2)</li>
+      <li>VERB-Fin--NOUN-Nom (378)</li>
+      <li>VERB-Fin--PRON (26)</li>
       <li>VERB-Fin--PRON-Acc (52)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Nom (249)</li>
+      <li>VERB-Inf--NOUN-Nom (251)</li>
       <li>VERB-Inf--PRON (20)</li>
       <li>VERB-Inf--PRON-Acc (13)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>

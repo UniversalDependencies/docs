@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 # visual-style 1	fgColor:white
 # visual-style 1 8 advcl:relcl	color:blue
 1	Rządził	rządzić	VERB	praet:sg:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	tylko	tylko	PART	part	_	4	advmod	4:advmod	_
+2	tylko	tylko	PART	part	_	3	advmod:emph	3:advmod:emph	_
 3	piętnaście	piętnaście	NUM	num:pl:acc:m3:rec:ncol	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumForm=Word	4	nummod:gov	4:nummod:gov	_
 4	lat	rok	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	obl	1:obl	SpaceAfter=No
 5	,	,	PUNCT	interp	PunctType=Comm	8	punct	8:punct	_

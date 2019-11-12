@@ -16,11 +16,11 @@ Family: Uralic, Permic
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
 
-The following people have contributed to making this treebank part of UD: Niko Partanen, Rogier Blokland, Michael Rießler.
+The following people have contributed to making this treebank part of UD: Niko Partanen, Rogier Blokland, Michael Rießler, Jack Rueter.
 
 Repository: [UD_Komi_Zyrian-IKDP](https://github.com/UniversalDependencies/UD_Komi_Zyrian-IKDP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 4.0
 
@@ -77,11 +77,11 @@ If you use this treebank in your work, please cite:
 
 ## Features
 
-[Case](kpv_ikdp-feat-Case.html) – [Connegative](kpv_ikdp-feat-Connegative.html) – [Derivation](kpv_ikdp-feat-Derivation.html) – [Evident](kpv_ikdp-feat-Evident.html) – [Mood](kpv_ikdp-feat-Mood.html) – [Number](kpv_ikdp-feat-Number.html) – [Number[psor]](kpv_ikdp-feat-Number-psor.html) – [NumType](kpv_ikdp-feat-NumType.html) – [Person](kpv_ikdp-feat-Person.html) – [Person[psor]](kpv_ikdp-feat-Person-psor.html) – [Polarity](kpv_ikdp-feat-Polarity.html) – [PronType](kpv_ikdp-feat-PronType.html) – [Reflex](kpv_ikdp-feat-Reflex.html) – [Tense](kpv_ikdp-feat-Tense.html) – [VerbForm](kpv_ikdp-feat-VerbForm.html) – [Voice](kpv_ikdp-feat-Voice.html)
+[Case](kpv_ikdp-feat-Case.html) – [Connegative](kpv_ikdp-feat-Connegative.html) – [Degree](kpv_ikdp-feat-Degree.html) – [Derivation](kpv_ikdp-feat-Derivation.html) – [Evident](kpv_ikdp-feat-Evident.html) – [Mood](kpv_ikdp-feat-Mood.html) – [Number](kpv_ikdp-feat-Number.html) – [Number[psor]](kpv_ikdp-feat-Number-psor.html) – [NumType](kpv_ikdp-feat-NumType.html) – [Person](kpv_ikdp-feat-Person.html) – [Person[psor]](kpv_ikdp-feat-Person-psor.html) – [Polarity](kpv_ikdp-feat-Polarity.html) – [PronType](kpv_ikdp-feat-PronType.html) – [Reflex](kpv_ikdp-feat-Reflex.html) – [Tense](kpv_ikdp-feat-Tense.html) – [VerbForm](kpv_ikdp-feat-VerbForm.html) – [Voice](kpv_ikdp-feat-Voice.html)
 
 ## Relations
 
-[acl](kpv_ikdp-dep-acl.html) – [advcl](kpv_ikdp-dep-advcl.html) – [advmod](kpv_ikdp-dep-advmod.html) – [amod](kpv_ikdp-dep-amod.html) – [appos](kpv_ikdp-dep-appos.html) – [aux](kpv_ikdp-dep-aux.html) – [case](kpv_ikdp-dep-case.html) – [cc](kpv_ikdp-dep-cc.html) – [ccomp](kpv_ikdp-dep-ccomp.html) – [compound](kpv_ikdp-dep-compound.html) – [conj](kpv_ikdp-dep-conj.html) – [cop](kpv_ikdp-dep-cop.html) – [csubj](kpv_ikdp-dep-csubj.html) – [det](kpv_ikdp-dep-det.html) – [discourse](kpv_ikdp-dep-discourse.html) – [fixed](kpv_ikdp-dep-fixed.html) – [flat:name](kpv_ikdp-dep-flat-name.html) – [goeswith](kpv_ikdp-dep-goeswith.html) – [iobj](kpv_ikdp-dep-iobj.html) – [list](kpv_ikdp-dep-list.html) – [mark](kpv_ikdp-dep-mark.html) – [nmod](kpv_ikdp-dep-nmod.html) – [nsubj](kpv_ikdp-dep-nsubj.html) – [nummod](kpv_ikdp-dep-nummod.html) – [obj](kpv_ikdp-dep-obj.html) – [obl](kpv_ikdp-dep-obl.html) – [parataxis](kpv_ikdp-dep-parataxis.html) – [punct](kpv_ikdp-dep-punct.html) – [reparandum](kpv_ikdp-dep-reparandum.html) – [root](kpv_ikdp-dep-root.html) – [xcomp](kpv_ikdp-dep-xcomp.html)
+[acl](kpv_ikdp-dep-acl.html) – [acl:relcl](kpv_ikdp-dep-acl-relcl.html) – [advcl](kpv_ikdp-dep-advcl.html) – [advmod](kpv_ikdp-dep-advmod.html) – [amod](kpv_ikdp-dep-amod.html) – [appos](kpv_ikdp-dep-appos.html) – [aux](kpv_ikdp-dep-aux.html) – [aux:neg](kpv_ikdp-dep-aux-neg.html) – [case](kpv_ikdp-dep-case.html) – [cc](kpv_ikdp-dep-cc.html) – [ccomp](kpv_ikdp-dep-ccomp.html) – [compound](kpv_ikdp-dep-compound.html) – [conj](kpv_ikdp-dep-conj.html) – [cop](kpv_ikdp-dep-cop.html) – [csubj](kpv_ikdp-dep-csubj.html) – [det](kpv_ikdp-dep-det.html) – [discourse](kpv_ikdp-dep-discourse.html) – [fixed](kpv_ikdp-dep-fixed.html) – [flat:name](kpv_ikdp-dep-flat-name.html) – [goeswith](kpv_ikdp-dep-goeswith.html) – [iobj](kpv_ikdp-dep-iobj.html) – [list](kpv_ikdp-dep-list.html) – [mark](kpv_ikdp-dep-mark.html) – [nmod](kpv_ikdp-dep-nmod.html) – [nsubj](kpv_ikdp-dep-nsubj.html) – [nummod](kpv_ikdp-dep-nummod.html) – [obj](kpv_ikdp-dep-obj.html) – [obl](kpv_ikdp-dep-obl.html) – [parataxis](kpv_ikdp-dep-parataxis.html) – [punct](kpv_ikdp-dep-punct.html) – [reparandum](kpv_ikdp-dep-reparandum.html) – [root](kpv_ikdp-dep-root.html) – [xcomp](kpv_ikdp-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -115,11 +115,11 @@ If you use this treebank in your work, please cite:
 </ul>
 
 <ul>
-<li>This corpus contains 18 word types tagged as particles (PART): Ну, Так, вед, веське, вот, выйым, да, же, значит, и, ли, не, но, тай, то, тоже, чё, эське</li>
+<li>This corpus contains 17 word types tagged as particles (PART): Ну, Так, вед, вот, выйым, гашке, да, же, значит, и, ли, не, но, тай, то, тоже, чё</li>
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as pronouns (PRON): Всё, ас, быд, быдӧн, кодке, кодкӧ, ме, ми, мы, мыйке, мыйкӧ, мӧд, некод, нинӧм, сыа, сэтшӧм, сійӧ, сія, татшӧм, что, этайӧ, этія, я</li>
+<li>This corpus contains 22 lemmas tagged as pronouns (PRON): Всё, ас, быд, быдӧн, кодке, кодкӧ, ме, ми, мы, мыйке, мыйкӧ, мӧд, некод, нинӧм, сыа, сэтшӧм, сійӧ, сія, татшӧм, что, этія, я</li>
 </ul>
 
 <ul>
@@ -139,13 +139,13 @@ If you use this treebank in your work, please cite:
 </ul>
 
 <ul>
-<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: вӧрзялыгдырйи</li>
+    <li>VERB: велӧдчигӧныс, вӧрзялыгдырйи, локтігӧныс, мунігӧныс</li>
   </ul>
   </li>
 </ul>
@@ -155,14 +155,6 @@ If you use this treebank in your work, please cite:
   <ul>
     <li>AUX: вӧлі, из, ог, вӧліс, оз, были, лоас, он, было, лоо</li>
     <li>VERB: босьтіс, ветлі, мӧдэма, примитіс, пукаліс, рӧдитчи, рӧдитчылі, ветліс, висьталэма, колэныс</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Ger
-  <ul>
-    <li>VERB: велӧдчигӧныс, локтігӧныс, мунігӧныс</li>
   </ul>
   </li>
 </ul>
@@ -199,7 +191,7 @@ If you use this treebank in your work, please cite:
       <li>AUX-Fin: были</li>
       <li>NOUN: кокъясэ, ребята, Гожемъясын, Керкаяс, бабаясыс, баняяс, вокъяскед, вӧӧяссэ, гаражъяс, глаза</li>
       <li>NUM: квайтэнэсь</li>
-      <li>PRON: миян, Ми, меам, менам, миянумес</li>
+      <li>PRON: миян, ми, меам, миянумес</li>
       <li>VERB: знали, колэныс, пондісны, ваедісны, вайӧдісны, велӧдчӧны, ветлӧны, видзены, висьмисныс, вӧдитам</li>
       <li>VERB-Fin: колэныс, пондісны, ваедісны, вайӧдісны, велӧдчӧны, ветлӧны, видзены, висьмисныс, вӧдитам, вӧрземаась</li>
     </ul>
@@ -215,13 +207,14 @@ If you use this treebank in your work, please cite:
       <li>AUX: вӧлі, из, вӧліс, вӧв, лоас, было, ло, лоо</li>
       <li>AUX-Fin: вӧлі, из, вӧліс, лоас, было, лоо</li>
       <li>DET: Став, всю, мӧд, ставыс, такое</li>
+      <li>INTJ: мыйке, эта</li>
       <li>NOUN: во, ае, год, чой, чом, вок, класс, коми, лун, маме</li>
       <li>NUM: сизим, дас, куим, кык, нёль, вит, вторая, кызь-вит, кӧкъямыс, первей</li>
-      <li>PRON: ме, сыа, сія, сы, сійӧ, Всё, кодке, менам, меня, ми</li>
-      <li>PROPN: Иван, Тимкалэн, Азии, Генриетта, Дань, Елена, Зӧт, Из, Йӧртым, Красный</li>
+      <li>PRON: сыа, ме, сія, сы, менам, сійӧ, Всё, кодке, меня, нас</li>
+      <li>PROPN: Иван, Из, Тимкалэн, Азии, Генриетта, Дань, Елена, Зӧт, Йӧртым, Красный</li>
       <li>VERB: босьтіс, вермы, ветлі, мӧдэма, примитіс, пукаліс, рӧдитчи, рӧдитчылі, ветліс, висьталэма</li>
+      <li>VERB-Conv: велӧдчигӧныс, локтігӧныс, мунігӧныс</li>
       <li>VERB-Fin: босьтіс, ветлі, мӧдэма, примитіс, пукаліс, рӧдитчи, рӧдитчылі, ветліс, висьталэма, кочегариті</li>
-      <li>VERB-Ger: велӧдчигӧныс, локтігӧныс, мунігӧныс</li>
     </ul>
   </li>
 </ul>
@@ -234,8 +227,8 @@ If you use this treebank in your work, please cite:
   <li>Acc
     <ul>
       <li>DET: всю</li>
-      <li>NOUN: живносьсэ, мамсӧ, тятейсӧ, берегсэ, вӧлэсьсэ, вӧӧяссэ, деревню, лымсӧ, местӧсӧ, немсэ</li>
-      <li>PRON: сіес, сійӧ, быдӧнӧс, менэ, миянумес, никодэс, сіе</li>
+      <li>NOUN: мамсӧ, тятейсӧ, берегсэ, вӧлэсьсэ, вӧӧяссэ, деревню, живносьсэ, лымсӧ, местӧсӧ, немсэ</li>
+      <li>PRON: сіес, быдӧнӧс, менэ, миянумес, никодэс</li>
     </ul>
   </li>
 </ul>
@@ -300,7 +293,7 @@ If you use this treebank in your work, please cite:
     <ul>
       <li>ADP: доре, вылэ, сае, вылас, вылӧ, дорас, дінӧ, ордӧ</li>
       <li>ADV: вӧдзӧ, бӧрӧ, сэтчӧ</li>
-      <li>NOUN: тундраа, кокъясэ, местэас, пачӧ, Армияа, Гортас, дедьсаде, керкаӧ, местаясэ, местэам</li>
+      <li>NOUN: тундраа, кокъясэ, местэас, пачӧ, Армияа, Гортас, детсадэ, керкаӧ, местаясэ, местэам</li>
       <li>PROPN: Нярьян-Маре, ОПХ-а, Печораӧ</li>
     </ul>
   </li>
@@ -326,7 +319,7 @@ If you use this treebank in your work, please cite:
       <li>NOUN: удовольствием, йӧйӧн, луннас, аресэн, гожемъяснас, гуӧн, крукӧн, кылэн, луннас-а, лёкӧн</li>
       <li>NUM: квайтэнэсь</li>
       <li>PROPN: Семӧв-Егырӧн</li>
-      <li>VERB-Ger: велӧдчигӧныс, локтігӧныс, мунігӧныс</li>
+      <li>VERB-Conv: велӧдчигӧныс, локтігӧныс, мунігӧныс</li>
     </ul>
   </li>
 </ul>
@@ -345,19 +338,12 @@ If you use this treebank in your work, please cite:
       <li>ADJ: ас, бия, второй, дик, кык-суда, Берёзовский, Вто-, Выль, Ленинградскей, Нарьян-Марскей</li>
       <li>ADV: бӧр, водз</li>
       <li>DET: Став, мӧд, ставыс, такое</li>
+      <li>INTJ: мыйке</li>
       <li>NOUN: во, ае, год, чой, чом, вок, класс, коми, лун, маме</li>
       <li>NUM: сизим, дас, куим, кык, нёль, вит, вторая, кызь-вит, кӧкъямыс, первей</li>
-      <li>PRON: ме, сыа, сія, ми, мыйке, сы, Миян, ачыс, кодке, Сійӧ</li>
+      <li>PRON: сыа, ме, сія, сы, ми, сійӧ, ачыс, кодке, асланум, ачум</li>
       <li>PROPN: Иван, Из, Генриетта, Дань, Елена, Зӧт, Йӧртым, Красный, Ляпиныс, Микул</li>
       <li>VERB: босьтӧм</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Per
-    <ul>
-      <li>ADP: вывті</li>
     </ul>
   </li>
 </ul>
@@ -379,11 +365,30 @@ If you use this treebank in your work, please cite:
   </li>
 </ul>
 
+<ul>
+  <li>Tra
+    <ul>
+      <li>ADP: вывті</li>
+    </ul>
+  </li>
+</ul>
+
 
 
 <h3>Degree and Polarity</h3>
 
 
+<ul>
+  <li><a>Degree</a></li>
+</ul>
+
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADV: Медбӧрын</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Polarity</a></li>
@@ -493,7 +498,8 @@ If you use this treebank in your work, please cite:
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: мӧд, сы, сэтшем, татшӧм, эта</li>
+      <li>INTJ: эта</li>
+      <li>PRON: мӧд, сы, сэтшем, татшӧм</li>
     </ul>
   </li>
 </ul>
@@ -501,7 +507,15 @@ If you use this treebank in your work, please cite:
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: кодке</li>
+      <li>PRON: кодке, мыйке</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>ADV: кудз</li>
     </ul>
   </li>
 </ul>
@@ -510,7 +524,7 @@ If you use this treebank in your work, please cite:
   <li>Prs
     <ul>
       <li>ADJ: ас</li>
-      <li>PRON: ме, сыа, миян, сія, ми, сы, менам, сійӧ, меня, нас</li>
+      <li>PRON: сыа, ме, миян, сія, сы, ми, менам, сійӧ, меня, нас</li>
     </ul>
   </li>
 </ul>
@@ -518,7 +532,7 @@ If you use this treebank in your work, please cite:
 <ul>
   <li>Qnt
     <ul>
-      <li>PRON: быд</li>
+      <li>PRON: быд, быдӧнӧс</li>
     </ul>
   </li>
 </ul>
@@ -619,7 +633,7 @@ If you use this treebank in your work, please cite:
       <li>DET: ставыс</li>
       <li>NOUN: ае, маме, мамыс, тятеис, гортас, луннас, мамсӧ, местэас, тятейсӧ, Ваыс</li>
       <li>PROPN: Ляпиныс</li>
-      <li>VERB-Ger: велӧдчигӧныс, локтігӧныс, мунігӧныс</li>
+      <li>VERB-Conv: велӧдчигӧныс, локтігӧныс, мунігӧныс</li>
     </ul>
   </li>
 </ul>
@@ -633,7 +647,7 @@ If you use this treebank in your work, please cite:
       <li>Yes
         <ul>
           <li>AUX: вӧв, ло</li>
-          <li>VERB: вермы, тӧд, бросайтчы, ветлоо, во, привлекайтныс, сдайт, удит</li>
+          <li>VERB: вермы, сдайт, тӧд, бросайтчы, ветлоо, во, привлекайтныс, удит</li>
         </ul>
       </li>
     </ul>
@@ -666,7 +680,7 @@ If you use this treebank in your work, please cite:
           <li>DET: ставыс</li>
           <li>NOUN: мамыс, тятеис, гортас, луннас, мамсӧ, местэас, тятейсӧ, Ваыс, бабаясыс, берегсэ</li>
           <li>PROPN: Ляпиныс</li>
-          <li>VERB-Ger: велӧдчигӧныс, локтігӧныс, мунігӧныс</li>
+          <li>VERB-Conv: велӧдчигӧныс, локтігӧныс, мунігӧныс</li>
         </ul>
       </li>
     </ul>
@@ -678,11 +692,11 @@ If you use this treebank in your work, please cite:
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: вӧвны, лоны.</li>
+<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: вӧвны, быть, лоны.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: оз, вӧвны, абу, быть, лоны.</li>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: вӧвны, абу, лоны.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -711,8 +725,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (12)</li>
       <li>VERB-Fin--NOUN-Ill (1)</li>
       <li>VERB-Fin--NOUN-Nom (12)</li>
-      <li>VERB-Fin--PRON-Acc (5)</li>
-      <li>VERB-Fin--PRON-Nom (1)</li>
+      <li>VERB-Fin--PRON-Acc (2)</li>
+      <li>VERB-Fin--PRON-Nom (4)</li>
       <li>VERB-Inf--NOUN-Acc (2)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
     </ul>
@@ -733,7 +747,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 1 relation subtypes: <a>flat:name</a></li>
+<li>This corpus uses 3 relation subtypes: <a>acl:relcl</a>, <a>aux:neg</a>, <a>flat:name</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a>, <a>dep</a></li>
 </ul>

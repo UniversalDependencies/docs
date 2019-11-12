@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 1	Chamber	chamber	X	Xf	Foreign=Yes	0	root	_	Dep=0|Rel=Root
 2	of	of	X	Xf	Foreign=Yes	1	flat:foreign	_	Dep=0|Rel=Root
 3	Torture	torture	X	Xf	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No|Dep=0|Rel=Root
-4	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
+4	.	.	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 

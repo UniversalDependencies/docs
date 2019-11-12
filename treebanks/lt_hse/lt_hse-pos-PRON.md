@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Lithuanian-HSE: POS Tags: `PRON`
 
-There are 25 `PRON` lemmas (2%), 76 `PRON` types (3%) and 256 `PRON` tokens (5%).
+There are 25 `PRON` lemmas (2%), 75 `PRON` types (3%) and 254 `PRON` tokens (5%).
 Out of 16 observed tags, the rank of `PRON` is: 8 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>kuris, jie, jis, ji, mes, tai, kas, tas, aš, savęs</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>tai</em> (<tt><a href="lt_hse-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 3.040000 (the average of all parts of speech is 1.444778).
+The form / lemma ratio of `PRON` is 3.000000 (the average of all parts of speech is 1.442977).
 
 The 1st highest number of forms (13) was observed with the lemma “kuris”: <em>kuri, kuriais, kurias, kurie, kuriems, kurio, kurioje, kurios, kuris, kuriuos, kurią, kurių, kurį</em>.
 
@@ -60,7 +60,7 @@ The 2nd highest number of forms (8) was observed with the lemma “jie”: <em>j
 
 The 3rd highest number of forms (5) was observed with the lemma “ji”: <em>ja, jai, ji, jos, ją</em>.
 
-`PRON` occurs with 4 features: <tt><a href="lt_hse-feat-Case.html">Case</a></tt> (235; 92% instances), <tt><a href="lt_hse-feat-Number.html">Number</a></tt> (210; 82% instances), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt> (147; 57% instances), <tt><a href="lt_hse-feat-Person.html">Person</a></tt> (130; 51% instances)
+`PRON` occurs with 4 features: <tt><a href="lt_hse-feat-Case.html">Case</a></tt> (233; 92% instances), <tt><a href="lt_hse-feat-Number.html">Number</a></tt> (208; 82% instances), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt> (145; 57% instances), <tt><a href="lt_hse-feat-Person.html">Person</a></tt> (130; 51% instances)
 
 `PRON` occurs with 13 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`
 
@@ -71,13 +71,13 @@ Examples: <em>to, nieko, viso, kurio, kito, vieno</em>
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 13 different relations: <tt><a href="lt_hse-dep-nsubj.html">nsubj</a></tt> (102; 40% instances), <tt><a href="lt_hse-dep-obj.html">obj</a></tt> (58; 23% instances), <tt><a href="lt_hse-dep-obl.html">obl</a></tt> (37; 14% instances), <tt><a href="lt_hse-dep-nmod.html">nmod</a></tt> (17; 7% instances), <tt><a href="lt_hse-dep-fixed.html">fixed</a></tt> (15; 6% instances), <tt><a href="lt_hse-dep-iobj.html">iobj</a></tt> (13; 5% instances), <tt><a href="lt_hse-dep-advmod.html">advmod</a></tt> (4; 2% instances), <tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt> (4; 2% instances), <tt><a href="lt_hse-dep-obl-agent.html">obl:agent</a></tt> (2; 1% instances), <tt><a href="lt_hse-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="lt_hse-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="lt_hse-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="lt_hse-dep-root.html">root</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 13 different relations: <tt><a href="lt_hse-dep-nsubj.html">nsubj</a></tt> (102; 40% instances), <tt><a href="lt_hse-dep-obj.html">obj</a></tt> (58; 23% instances), <tt><a href="lt_hse-dep-obl.html">obl</a></tt> (38; 15% instances), <tt><a href="lt_hse-dep-nmod.html">nmod</a></tt> (17; 7% instances), <tt><a href="lt_hse-dep-fixed.html">fixed</a></tt> (15; 6% instances), <tt><a href="lt_hse-dep-iobj.html">iobj</a></tt> (13; 5% instances), <tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt> (4; 2% instances), <tt><a href="lt_hse-dep-obl-agent.html">obl:agent</a></tt> (2; 1% instances), <tt><a href="lt_hse-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="lt_hse-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="lt_hse-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="lt_hse-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="lt_hse-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 12 different parts of speech: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (177; 69% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (37; 14% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (19; 7% instances), <tt><a href="lt_hse-pos-ADP.html">ADP</a></tt> (7; 3% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (4; 2% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `PRON` nodes belong to 12 different parts of speech: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (177; 70% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (36; 14% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (19; 7% instances), <tt><a href="lt_hse-pos-ADP.html">ADP</a></tt> (7; 3% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (4; 2% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (1; 0% instances),  (1; 0% instances)
 
-187 (73%) `PRON` nodes are leaves.
+185 (73%) `PRON` nodes are leaves.
 
-60 (23%) `PRON` nodes have one child.
+60 (24%) `PRON` nodes have one child.
 
 4 (2%) `PRON` nodes have two children.
 
@@ -85,7 +85,7 @@ Parents of `PRON` nodes belong to 12 different parts of speech: <tt><a href="lt_
 
 The highest child degree of a `PRON` node is 6.
 
-Children of `PRON` nodes are attached using 18 different relations: <tt><a href="lt_hse-dep-case.html">case</a></tt> (35; 39% instances), <tt><a href="lt_hse-dep-punct.html">punct</a></tt> (18; 20% instances), <tt><a href="lt_hse-dep-acl-relcl.html">acl:relcl</a></tt> (4; 4% instances), <tt><a href="lt_hse-dep-advmod.html">advmod</a></tt> (4; 4% instances), <tt><a href="lt_hse-dep-amod.html">amod</a></tt> (4; 4% instances), <tt><a href="lt_hse-dep-cop.html">cop</a></tt> (4; 4% instances), <tt><a href="lt_hse-dep-nsubj.html">nsubj</a></tt> (4; 4% instances), <tt><a href="lt_hse-dep-advmod-emph.html">advmod:emph</a></tt> (2; 2% instances), <tt><a href="lt_hse-dep-appos.html">appos</a></tt> (2; 2% instances), <tt><a href="lt_hse-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="lt_hse-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="lt_hse-dep-det.html">det</a></tt> (2; 2% instances), <tt><a href="lt_hse-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="lt_hse-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="lt_hse-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="lt_hse-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="lt_hse-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+Children of `PRON` nodes are attached using 18 different relations: <tt><a href="lt_hse-dep-case.html">case</a></tt> (35; 38% instances), <tt><a href="lt_hse-dep-punct.html">punct</a></tt> (18; 20% instances), <tt><a href="lt_hse-dep-acl-relcl.html">acl:relcl</a></tt> (4; 4% instances), <tt><a href="lt_hse-dep-advmod.html">advmod</a></tt> (4; 4% instances), <tt><a href="lt_hse-dep-amod.html">amod</a></tt> (4; 4% instances), <tt><a href="lt_hse-dep-cop.html">cop</a></tt> (4; 4% instances), <tt><a href="lt_hse-dep-nsubj.html">nsubj</a></tt> (4; 4% instances), <tt><a href="lt_hse-dep-advmod-emph.html">advmod:emph</a></tt> (3; 3% instances), <tt><a href="lt_hse-dep-appos.html">appos</a></tt> (2; 2% instances), <tt><a href="lt_hse-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="lt_hse-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="lt_hse-dep-det.html">det</a></tt> (2; 2% instances), <tt><a href="lt_hse-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="lt_hse-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="lt_hse-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="lt_hse-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="lt_hse-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Children of `PRON` nodes belong to 12 different parts of speech: <tt><a href="lt_hse-pos-ADP.html">ADP</a></tt> (34; 38% instances), <tt><a href="lt_hse-pos-PUNCT.html">PUNCT</a></tt> (18; 20% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (4; 4% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (4; 4% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="lt_hse-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances)
+Children of `PRON` nodes belong to 12 different parts of speech: <tt><a href="lt_hse-pos-ADP.html">ADP</a></tt> (34; 37% instances), <tt><a href="lt_hse-pos-PUNCT.html">PUNCT</a></tt> (18; 20% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (5; 5% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (4; 4% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (4; 4% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (4; 4% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="lt_hse-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances)
 

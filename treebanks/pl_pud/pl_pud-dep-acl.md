@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="pl_pud-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-136 nodes (1%) are attached to their parents as `acl`.
+248 nodes (1%) are attached to their parents as `acl`.
 
-72 instances of `acl` (53%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.08088235294118.
+146 instances of `acl` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.13709677419355.
 
-The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (129; 95% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (7; 5% instances).
+The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (230; 93% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (12; 5% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,27 +36,43 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 acl	color:blue
+1	Następnie	następnie	ADV	adv	_	2	advmod	2:advmod	_
+2	zmierzyła	zmierzyć	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	się	się	PRON	part	PronType=Prs|Reflex=Yes	2	expl:pv	2:expl:pv	_
+4	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	8	case	8:case	Case=Ins
+5	broniącą	bronić	ADJ	pact:sg:inst:f:imperf:aff	Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Act	8	acl	8:acl	_
+6	tytułu	tytuł	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obj	5:obj	_
+7	mistrza	mistrz	NOUN	subst:sg:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
+8	Sarą	Sara	PROPN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	2	obl:arg	2:obl:arg	_
+9	Errani	Errani	PROPN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	8	flat	8:flat	SpaceAfter=No
+10	,	,	PUNCT	interp	PunctType=Comm	12	punct	12:punct	_
+11	ale	ale	CCONJ	conj	_	12	cc	12:cc	_
+12	przegrała	przegrać	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	0:root|2:conj	SpaceAfter=No
+13	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 acl	color:blue
-1	Australia	Australia	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	15:nsubj	SpaceAfter=No
-2	,	,	PUNCT	interp	PunctType=Comm	3	punct	3:punct	_
-3	zaprawiona	zaprawić	ADJ	ppas:sg:nom:f:perf:aff	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	1	acl	1:acl	_
-4	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	5	case	5:case	Case=Loc
-5	bojach	bój	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	obl:arg	3:obl:arg	_
-6	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	8	case	8:case	Case=Acc
-7	ostatnie	ostatni	ADJ	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	8	amod	8:amod	_
-8	mecze	mecz	NOUN	subst:pl:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obl:agent	3:obl:agent	_
-9	Rugby	rugby	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	8	nmod	8:nmod	_
-10	Championship	Championship	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	flat	9:flat	SpaceAfter=No
-11	,	,	PUNCT	interp	PunctType=Comm	3	punct	3:punct	_
-12	była	być	AUX	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	cop	15:cop	_
-13	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	15	case	15:case	Case=Loc
-14	najwyższej	wysoki	ADJ	adj:sg:loc:f:sup	Case=Loc|Degree=Sup|Gender=Fem|Number=Sing	15	amod	15:amod	_
-15	formie	forma	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
-16	.	.	PUNCT	interp	PunctType=Peri	15	punct	15:punct	_
+# visual-style 3 7 acl	color:blue
+1	Mają	mieć	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	jedną	jeden	ADJ	adj:sg:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	3:amod	_
+3	szansę	szansa	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	1	iobj	1:iobj	_
+4	na	na	ADP	prep:acc	AdpType=Prep	5	case	5:case	Case=Acc
+5	odkupienie	odkupienie	NOUN	subst:sg:acc:n:ncol	Case=Acc|Gender=Neut|Number=Sing	3	nmod:arg	3:nmod:arg	SpaceAfter=No
+6	:	:	PUNCT	interp	PunctType=Colo	3	punct	3:punct	_
+7	pokonać	pokonać	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	3	acl	3:acl	_
+8	Anglię	Anglia	PROPN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	7	obj	7:obj	SpaceAfter=No
+9	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~
 

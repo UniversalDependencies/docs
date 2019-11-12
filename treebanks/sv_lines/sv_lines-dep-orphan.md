@@ -8,36 +8,37 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (0%) are attached to their parents as `orphan`.
+9 nodes (0%) are attached to their parents as `orphan`.
 
-7 instances of `orphan` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.25.
+8 instances of `orphan` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.33333333333333.
 
-The following 6 pairs of parts of speech are connected with `orphan`: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (2; 25% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (2; 25% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 13% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 13% instances).
+The following 7 pairs of parts of speech are connected with `orphan`: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (2; 22% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 11% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 11% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
-# visual-style 14 15 orphan	color:blue
-1	"	"	PUNCT	Quote	_	13	punct	_	SpaceAfter=No
-2	och	och	CCONJ	_	_	5	cc	_	_
-3	som	som	SCONJ	_	_	5	mark	_	_
-4	ni	ni	PRON	PERS-P2PL-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	5	nsubj	_	_
-5	förstår	förstå	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	SpaceAfter=No
-6	,	,	PUNCT	Comma	_	5	punct	_	_
-7	kan	kunna	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
-8	vissa	viss	ADJ	POS-PL-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	13	nsubj	_	_
-9	av	av	ADP	_	_	12	case	_	_
-10	de	den	DET	DEM-PL	Definite=Def|Number=Plur|PronType=Dem	12	det	_	_
-11	här	här	ADV	_	_	10	fixed	_	_
-12	giftblandningarna	giftblandning	NOUN	PL-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	8	nmod	_	_
-13	ge	ge	VERB	INF-ACT	VerbForm=Inf|Voice=Act	0	root	_	_
-14	intryck	intryck	NOUN	IND-NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	13	obj	_	_
-15	av	av	ADP	_	_	14	orphan	_	SpaceAfter=No
-16	"	"	PUNCT	Quote	_	13	punct	_	_
+# visual-style 14 16 orphan	color:blue
+1	När	när	SCONJ	_	_	6	mark	_	_
+2	jag	jag	PRON	PERS-P1SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	6	nsubj	_	_
+3	var	vara	AUX	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+4	fem	fem	NUM	CARD-PL	_	5	nummod	_	_
+5	år	år	NOUN	IND-NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	6	nmod	_	_
+6	gammal	gammal	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	7	advcl	_	_
+7	gick	gå	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	min	jag	PRON	P1SG-GEN-SG	Case=Gen|Definite=Def|Gender=Com|Number=Sing|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
+9	far	far	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	7	nsubj	_	_
+10	på	på	ADP	_	_	11	case	_	_
+11	tabletter	tablett	NOUN	PL-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	7	obl	_	_
+12	och	och	CCONJ	_	_	14	cc	_	_
+13	min	jag	PRON	P1SG-GEN-SG	Case=Gen|Definite=Def|Gender=Com|Number=Sing|Poss=Yes|PronType=Prs	14	nmod:poss	_	_
+14	mor	mor	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	7	conj	_	_
+15	på	på	ADP	_	_	16	case	_	_
+16	gin	gin	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	14	orphan	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	7	punct	_	_
 
 ~~~
 
@@ -75,7 +76,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 17	fgColor:white
 # visual-style 17 29 orphan	color:blue
 1	–	–	PUNCT	Dash	_	17	punct	_	_
-2	Det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	3	expl	_	_
+2	Det	den	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	17	expl	_	_
 3	skulle	skola	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	17	aux	_	SpaceAfter=No
 4	,	,	PUNCT	Comma	_	5	punct	_	_
 5	fortsatte	fortsätta	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	17	parataxis	_	_

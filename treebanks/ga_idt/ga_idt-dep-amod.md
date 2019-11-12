@@ -8,51 +8,48 @@ udver: '2'
 
 This relation is universal.
 
-705 nodes (3%) are attached to their parents as `amod`.
+1184 nodes (3%) are attached to their parents as `amod`.
 
-687 instances of `amod` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.86241134751773.
+1157 instances of `amod` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.71199324324324.
 
-The following 13 pairs of parts of speech are connected with `amod`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (606; 86% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (29; 4% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (27; 4% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `amod`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1038; 88% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (45; 4% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (31; 3% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (22; 2% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (21; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 amod	color:blue
-1	is	is	AUX	Cop	Tense=Pres|VerbForm=Cop	2	cop	_	_
-2	laistigh	laistigh	ADV	Loc	_	0	root	_	_
-3	de	de	ADP	Simp	_	4	case	_	_
-4	bhliain	bliain	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Fem|Number=Sing	2	obl:tmod	_	_
-5	o	ó	ADP	Simp	_	6	case	_	_
-6	am	am	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	nmod	_	_
-7	rithte	rithte	ADJ	Adj	VerbForm=Part	6	amod	_	_
-8	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
-9	Achta	acht	NOUN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	compound	_	_
-10	so	seo	DET	CM	Dialect=Munster|PronType=Dem	9	det	_	_
-11	a	a	PART	Vb	PartType=Vb|PronType=Rel	12	mark:prt	_	_
-12	déanfar	déan	VERB	VTI	Mood=Ind|Tense=Fut|Voice=Auto	2	csubj:cleft	_	_
-13	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	12	obj	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 amod	color:blue
+1	Bean	bean	NOUN	Noun	Gender=Fem|Number=Sing	0	root	_	_
+2	shuidhte	suidhte	ADJ	Adj	Form=Len|VerbForm=Part	1	amod	_	_
+3	dhéanta	déanta	ADJ	Adj	Degree=Pos|Form=Len	1	amod	_	SpaceAfter=No
+4	...	...	PUNCT	...	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 amod	color:blue
-1	Tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
-2	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
-3	teilifís	teilifís	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	nsubj	_	_
-4	'	'	PUNCT	Punct	_	5	punct	_	SpaceAfter=No
-5	mínádúrtha	mínádúrtha	ADJ	Adj	Degree=Pos	1	amod	_	SpaceAfter=No
-6	'	'	PUNCT	Punct	_	5	punct	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 amod	color:blue
+1	Níor	níor	PART	Vb	PartType=Vb|Tense=Past	2	advmod	_	_
+2	dhúirt	abair	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
+3	Mr.	Mr.	X	Abr	Abbr=Yes	2	nsubj	_	_
+4	Mac	mac	PART	Pat	Gender=Masc|Number=Sing	3	flat:name	_	_
+5	níos	níos	PART	Cmp	Number=Sing|PartType=Comp	6	mark:prt	_	_
+6	mó	mór	ADJ	Adj	Degree=Cmp,Sup	2	amod	_	_
+7	ach	ach	SCONJ	Subord	_	11	mark	_	_
+8	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	doras	doras	NOUN	Noun	Definite=Def|Gender=Masc|Number=Sing	11	obj	_	_
+10	a	a	PART	Inf	PartType=Inf	11	mark	_	_
+11	dhúnadh	dúnadh	NOUN	Noun	Form=Len|VerbForm=Inf	2	advcl	_	_
+12	amach	amach	ADV	Dir	_	11	advmod	_	_
+13	air	ar	ADP	Prep	Gender=Masc|Number=Sing|Person=3	11	obl:prep	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

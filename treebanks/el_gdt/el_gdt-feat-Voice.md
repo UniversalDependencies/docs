@@ -61,6 +61,5 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="el_gdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (37; 77%),
 <tt>VERB --[<tt><a href="el_gdt-dep-cop.html">cop</a></tt>]--> AUX</tt> (30; 79%),
 <tt>VERB --[<tt><a href="el_gdt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (22; 52%),
-<tt>VERB --[<tt><a href="el_gdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (3; 60%),
 <tt>VERB --[<tt><a href="el_gdt-dep-obl.html">obl</a></tt>]--> VERB</tt> (2; 100%).
 

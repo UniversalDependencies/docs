@@ -36,15 +36,15 @@ The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="sl_ssj-dep-punct.html">punct</a></tt> (18596; 100% instances), <tt><a href="sl_ssj-dep-root.html">root</a></tt> (2; 0% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (12917; 69% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (2374; 13% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (2355; 13% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (396; 2% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (128; 1% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt> (117; 1% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (114; 1% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (72; 0% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (72; 0% instances), <tt><a href="sl_ssj-pos-INTJ.html">INTJ</a></tt> (20; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (20; 0% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (3; 0% instances),  (2; 0% instances), <tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (12884; 69% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (2381; 13% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (2346; 13% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (399; 2% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (145; 1% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (120; 1% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt> (118; 1% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (76; 0% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (73; 0% instances), <tt><a href="sl_ssj-pos-INTJ.html">INTJ</a></tt> (23; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (20; 0% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (3; 0% instances),  (2; 0% instances), <tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
 
-18594 (100%) `PUNCT` nodes are leaves.
+18597 (100%) `PUNCT` nodes are leaves.
 
-4 (0%) `PUNCT` nodes have one child.
+1 (0%) `PUNCT` nodes have one child.
 
 The highest child degree of a `PUNCT` node is 1.
 
-Children of `PUNCT` nodes are attached using 3 different relations: <tt><a href="sl_ssj-dep-case.html">case</a></tt> (2; 50% instances), <tt><a href="sl_ssj-dep-nmod.html">nmod</a></tt> (1; 25% instances), <tt><a href="sl_ssj-dep-punct.html">punct</a></tt> (1; 25% instances)
+Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="sl_ssj-dep-punct.html">punct</a></tt> (1; 100% instances)
 
-Children of `PUNCT` nodes belong to 3 different parts of speech: <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (2; 50% instances), <tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (1; 25% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 25% instances)
+Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances)
 

@@ -114,7 +114,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 72	assurer	assurer	VERB	V	VerbForm=Inf	61	conj	_	SpaceAfter=No
 73	,	,	PUNCT	FF	_	72	punct	_	_
 74	par	par	ADP	E	_	76	case	_	_
-75	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Dem	76	det	_	_
+75	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	76	det	_	_
 76	mesures	mesure	NOUN	S	Gender=Fem|Number=Plur	72	obl	_	_
 77	progressives	progressif	ADJ	A	Gender=Fem|Number=Plur	76	amod	_	_
 78	d'	de	ADP	E	_	79	case	_	SpaceAfter=No

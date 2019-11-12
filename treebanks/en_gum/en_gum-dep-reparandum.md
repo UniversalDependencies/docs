@@ -50,7 +50,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 1	If	if	SCONJ	IN	_	5	mark	_	_
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_
 3	ca	can	AUX	MD	VerbForm=Fin	5	aux	_	SpaceAfter=No
-4	n't	n't	PART	RB	Polarity=Neg	5	advmod	_	_
+4	n't	not	PART	RB	Polarity=Neg	5	advmod	_	_
 5	buy	buy	VERB	VB	VerbForm=Inf	12	advcl	_	_
 6	ballet	ballet	NOUN	NN	Number=Sing	7	compound	_	_
 7	shoes	shoe	NOUN	NNS	Number=Plur	5	obj	_	SpaceAfter=No

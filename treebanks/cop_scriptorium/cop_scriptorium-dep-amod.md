@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (0%) are attached to their parents as `amod`.
+20 nodes (0%) are attached to their parents as `amod`.
 
-16 instances of `amod` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.29411764705882.
+18 instances of `amod` (90%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25.
 
-The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (15; 88% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 6% instances).
+The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (18; 90% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

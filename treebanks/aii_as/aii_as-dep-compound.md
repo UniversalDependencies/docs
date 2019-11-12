@@ -38,9 +38,9 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 compound	color:blue
-1	ܐܵܕܝܼܐ	ܐܵܕܝܼܐ	ADV	_	_	4	advmod	_	_
+1	ܐܵܕܝܼܐ	ܐܵܕܝܼܐ	ADV	_	_	7	advmod	_	_
 2	ܐܵܢܝܼ	ܐܵܢܝܼ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
-3	ܠܸܐ	ܠܸܐ	PART	_	_	4	advmod	_	_
+3	ܠܸܐ	ܠܸܐ	PART	_	_	7	advmod	_	_
 4	ܝ݇ܢܵܐ	ܗܵܘܹܐ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Root=ܗܘܐ
 5	ܓܵܘ	ܓܵܘ	ADP	_	_	7	case	_	_
 6	ܒܹܝܬ̣	ܒܹܝܬ̣	NOUN	_	_	7	compound	_	_

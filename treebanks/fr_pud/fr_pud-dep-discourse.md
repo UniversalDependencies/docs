@@ -50,7 +50,7 @@ The following 8 pairs of parts of speech are connected with `discourse`: <tt><a 
 6	ou	_	CCONJ	CC	_	7	cc	_	_
 7	prépayé	_	ADJ	JJ	Gender=Masc|Number=Sing	5	conj	_	_
 8	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	cop	_	SpaceAfter=No
-9	-il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	10	expl	_	_
+9	-il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	10	expl:subj	_	_
 10	cher	_	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 11	?	_	PUNCT	.	_	10	punct	_	_
 

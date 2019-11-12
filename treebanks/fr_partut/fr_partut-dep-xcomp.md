@@ -47,7 +47,7 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	créer	créer	VERB	V	VerbForm=Inf	0	root	_	_
 2	et	et	CCONJ	CC	_	3	cc	_	_
 3	reproduire	reproduire	VERB	V	VerbForm=Inf	1	conj	_	_
-4	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	_
+4	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	oeuvres	oeuvre	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
 6	dites	dire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
 7	derivées	dérivé	ADJ	A	Gender=Fem|Number=Plur	6	xcomp	_	SpaceAfter=No

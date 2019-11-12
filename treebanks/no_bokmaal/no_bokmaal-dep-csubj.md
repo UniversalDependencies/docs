@@ -33,7 +33,7 @@ The following 26 pairs of parts of speech are connected with `csubj`: <tt><a hre
 8	vanskelig	vanskelig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 9	å	å	PART	_	_	11	mark	_	_
 10	få	få	AUX	_	VerbForm=Inf	11	aux	_	_
-11	sove	sove	VERB	_	VerbForm=Inf	8	csubj	_	SpaceAfter=No
+11	sove	sove	VERB	_	VerbForm=Inf	8	csubj	_	_
 12	.	$.	PUNCT	_	_	8	punct	_	_
 
 ~~~
@@ -53,7 +53,7 @@ The following 26 pairs of parts of speech are connected with `csubj`: <tt><a hre
 6	å	å	PART	_	_	7	mark	_	_
 7	puste	puste	VERB	_	VerbForm=Inf	3	csubj	_	_
 8	der	der	ADV	_	_	7	advmod	_	_
-9	inne	inne	ADP	_	_	8	nmod	_	SpaceAfter=No
+9	inne	inne	ADP	_	_	8	nmod	_	_
 10	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -71,13 +71,13 @@ The following 26 pairs of parts of speech are connected with `csubj`: <tt><a hre
 4	slik	slik	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	regjering	regjering	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	7	nsubj	_	_
 6	kan	kunne	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
-7	leve	leve	VERB	_	VerbForm=Inf	13	csubj	_	SpaceAfter=No
+7	leve	leve	VERB	_	VerbForm=Inf	13	csubj	_	_
 8	,	$,	PUNCT	_	_	7	punct	_	_
 9	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	_
 10	en	en	DET	_	Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 11	helt	hel	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	12	advmod	_	_
 12	annen	annen	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
-13	sak	sak	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+13	sak	sak	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 14	.	$.	PUNCT	_	_	13	punct	_	_
 
 ~~~

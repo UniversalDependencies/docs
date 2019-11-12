@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (0%) are attached to their parents as `orphan`.
+12 nodes (0%) are attached to their parents as `orphan`.
 
-9 instances of `orphan` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.
+10 instances of `orphan` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.66666666666667.
 
-The following 6 pairs of parts of speech are connected with `orphan`: <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (4; 36% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (2; 18% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (1; 9% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (1; 9% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 9% instances).
+The following 7 pairs of parts of speech are connected with `orphan`: <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (4; 33% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (2; 17% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (2; 17% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (1; 8% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -91,15 +91,15 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	aux:pass	_	_
 3	angenommen	annehmen	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	$,	_	5	punct	_	_
-5	dass	dass	CCONJ	KOUS	_	3	csubj:pass	_	_
-6	Freistadt	Freistadt	PROPN	NN	Case=Nom|Gender=Fem|Number=Sing	5	dep	_	_
+4	,	,	PUNCT	$,	_	6	punct	_	_
+5	dass	dass	CCONJ	KOUS	_	6	mark	_	_
+6	Freistadt	Freistadt	PROPN	NN	Case=Nom|Gender=Fem|Number=Sing	3	csubj:pass	_	_
 7	um	um	ADP	APPR	_	8	case	_	_
-8	1225	1225	NUM	CARD	NumType=Card	5	nmod	_	_
+8	1225	1225	NUM	CARD	NumType=Card	6	orphan	_	_
 9	von	von	ADP	APPR	_	11	case	_	_
 10	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	Babenberger	Babenberger	PROPN	ADJA	Case=Dat|Gender=Masc|Number=Sing	6	orphan	_	_
-12	Leopold	Leopold	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	11	appos	_	_
+12	Leopold	Leopold	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	11	flat	_	_
 13	VI	VI	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	12	flat	_	SpaceAfter=No
 14	.	.	PUNCT	$.	_	13	punct	_	_
 

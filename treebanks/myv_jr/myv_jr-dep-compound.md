@@ -47,7 +47,7 @@ The following 17 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound	color:blue
 1	—	—	PUNCT	PUNCT	_	3	punct	_	_
-2	Кадык	кадык	AUX	AUX	Mood=Opt	3	aux	_	GTtags=TV,Imprt,ScSg2,OcSg3
+2	Кадык	кадык	AUX	AUX	Mood=Imp	3	aux:opt	_	GTtags=TV,Imprt,ScSg2,OcSg3
 3	ютавтсызь	ютавтомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,ScPl3,OcSg3
 4	балягатне	баляга	NOUN	N	Case=Nom|Definite=Def|Number=Plur	3	nsubj	_	GTtags=Pl,Nom,Def
 5	пеетькшнема	пеедькшнемс	VERB	V	Case=Nom|Definite=Ind|Number=Sing|Valency=1|VerbForm=Vnoun	6	compound	_	GTtags=IV,Stem/е,NomAct,Sg,Nom,Indef

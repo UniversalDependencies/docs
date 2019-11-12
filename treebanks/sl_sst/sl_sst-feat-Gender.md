@@ -11,21 +11,21 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt>, <tt><a href="sl_sst-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-9592 tokens (33%) have a non-empty value of `Gender`.
-4434 types (73%) occur at least once with a non-empty value of `Gender`.
+9590 tokens (33%) have a non-empty value of `Gender`.
+4433 types (73%) occur at least once with a non-empty value of `Gender`.
 2967 lemmas (75%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3627; 12% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1664; 6% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (1613; 5% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (1164; 4% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (682; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (444; 2% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (270; 1% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (128; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3626; 12% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1664; 6% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (1613; 5% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (1164; 4% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (681; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (444; 2% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (270; 1% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (128; 0% instances).
 
 ### `NOUN`
 
-3627 <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+3626 <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="sl_sst-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3247; 90%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2737; 75%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="sl_sst-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3246; 90%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2736; 75%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (1518; 42% of non-empty `Gender`): <em>strani, stvari, hvala, minut, stopinj, gospa, stran, razmere, stvar, veze</em>
-* `Masc` (1628; 45% of non-empty `Gender`): <em>dan, redu, čas, evrov, koncu, gospod, ljudi, način, dni, del</em>
+* `Masc` (1627; 45% of non-empty `Gender`): <em>dan, redu, čas, evrov, koncu, gospod, ljudi, način, dni, del</em>
 * `Neut` (481; 13% of non-empty `Gender`): <em>bistvu, jutro, leto, leta, vprašanje, letih, ime, mestu, let, leti</em>
 
 <table>
@@ -34,13 +34,13 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="sl_sst-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>oči</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (1524) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (1523) occur only with one value of `Gender`.
 
 ### `ADJ`
 
 1664 <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1478; 89%), <tt><a href="sl_sst-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1442; 87%), <tt><a href="sl_sst-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1351; 81%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1265; 76%), <tt><a href="sl_sst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (879; 53%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1478; 89%), <tt><a href="sl_sst-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1442; 87%), <tt><a href="sl_sst-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1350; 81%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1266; 76%), <tt><a href="sl_sst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (880; 53%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -119,16 +119,16 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `PRON`
 
-682 <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> tokens (42% of all `PRON` tokens) have a non-empty value of `Gender`.
+681 <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> tokens (42% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (493; 72%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (473; 69%), <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (397; 58%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (492; 72%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (472; 69%), <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (397; 58%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (122; 18% of non-empty `Gender`): <em>jo, ona, jih, ji, je, njej, njo, midve, me, nje</em>
 * `Masc` (320; 47% of non-empty `Gender`): <em>ga, mi, jih, kdo, vi, on, jim, mu, oni, njega</em>
-* `Neut` (240; 35% of non-empty `Gender`): <em>kaj, kar, česa, čim, jih, karkoli, ga, marsikaj, čem, čemer</em>
-* `EMPTY` (958): <em>se, jaz, ti, mi, si, nas, vam, meni, me, mene</em>
+* `Neut` (239; 35% of non-empty `Gender`): <em>kaj, kar, česa, čim, jih, karkoli, ga, marsikaj, čem, čemer</em>
+* `EMPTY` (959): <em>se, jaz, ti, mi, si, nas, vam, meni, me, mene</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

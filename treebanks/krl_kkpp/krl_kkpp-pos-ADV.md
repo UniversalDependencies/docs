@@ -58,15 +58,15 @@ Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="krl_
 
 155 (86%) `ADV` nodes are leaves.
 
-21 (12%) `ADV` nodes have one child.
+22 (12%) `ADV` nodes have one child.
 
-2 (1%) `ADV` nodes have two children.
+1 (1%) `ADV` nodes have two children.
 
 3 (2%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 5.
 
-Children of `ADV` nodes are attached using 14 different relations: <tt><a href="krl_kkpp-dep-cc.html">cc</a></tt> (12; 32% instances), <tt><a href="krl_kkpp-dep-conj.html">conj</a></tt> (5; 13% instances), <tt><a href="krl_kkpp-dep-punct.html">punct</a></tt> (4; 11% instances), <tt><a href="krl_kkpp-dep-obl.html">obl</a></tt> (3; 8% instances), <tt><a href="krl_kkpp-dep-advcl.html">advcl</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-dep-cop.html">cop</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-dep-fixed.html">fixed</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-dep-nsubj-cop.html">nsubj:cop</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="krl_kkpp-dep-ccomp.html">ccomp</a></tt> (1; 3% instances), <tt><a href="krl_kkpp-dep-compound.html">compound</a></tt> (1; 3% instances), <tt><a href="krl_kkpp-dep-nmod-poss.html">nmod:poss</a></tt> (1; 3% instances), <tt><a href="krl_kkpp-dep-obj.html">obj</a></tt> (1; 3% instances), <tt><a href="krl_kkpp-dep-orphan.html">orphan</a></tt> (1; 3% instances)
+Children of `ADV` nodes are attached using 13 different relations: <tt><a href="krl_kkpp-dep-cc.html">cc</a></tt> (12; 32% instances), <tt><a href="krl_kkpp-dep-conj.html">conj</a></tt> (5; 14% instances), <tt><a href="krl_kkpp-dep-punct.html">punct</a></tt> (4; 11% instances), <tt><a href="krl_kkpp-dep-obl.html">obl</a></tt> (3; 8% instances), <tt><a href="krl_kkpp-dep-advcl.html">advcl</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-dep-cop.html">cop</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-dep-fixed.html">fixed</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-dep-nsubj-cop.html">nsubj:cop</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="krl_kkpp-dep-ccomp.html">ccomp</a></tt> (1; 3% instances), <tt><a href="krl_kkpp-dep-compound.html">compound</a></tt> (1; 3% instances), <tt><a href="krl_kkpp-dep-nmod-poss.html">nmod:poss</a></tt> (1; 3% instances), <tt><a href="krl_kkpp-dep-obj.html">obj</a></tt> (1; 3% instances)
 
-Children of `ADV` nodes belong to 8 different parts of speech: <tt><a href="krl_kkpp-pos-CCONJ.html">CCONJ</a></tt> (12; 32% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (8; 21% instances), <tt><a href="krl_kkpp-pos-ADV.html">ADV</a></tt> (6; 16% instances), <tt><a href="krl_kkpp-pos-PUNCT.html">PUNCT</a></tt> (4; 11% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-pos-SCONJ.html">SCONJ</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (2; 5% instances)
+Children of `ADV` nodes belong to 8 different parts of speech: <tt><a href="krl_kkpp-pos-CCONJ.html">CCONJ</a></tt> (12; 32% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (7; 19% instances), <tt><a href="krl_kkpp-pos-ADV.html">ADV</a></tt> (6; 16% instances), <tt><a href="krl_kkpp-pos-PUNCT.html">PUNCT</a></tt> (4; 11% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-pos-SCONJ.html">SCONJ</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (2; 5% instances)
 

@@ -94,10 +94,9 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (91; 85%),
-<tt>VERB --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (30; 52%),
-<tt>VERB --[<tt><a href="be_hse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (27; 54%),
+<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (91; 84%),
+<tt>VERB --[<tt><a href="be_hse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (29; 55%),
+<tt>VERB --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (28; 52%),
 <tt>VERB --[<tt><a href="be_hse-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (10; 56%),
-<tt>VERB --[<tt><a href="be_hse-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="be_hse-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="be_hse-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%).
 

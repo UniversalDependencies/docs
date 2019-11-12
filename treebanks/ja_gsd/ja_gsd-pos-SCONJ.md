@@ -6,27 +6,27 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-GSD: POS Tags: `SCONJ`
 
-There are 23 `SCONJ` lemmas (0%), 26 `SCONJ` types (0%) and 8521 `SCONJ` tokens (5%).
+There are 22 `SCONJ` lemmas (0%), 25 `SCONJ` types (0%) and 8513 `SCONJ` tokens (5%).
 Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 7 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: て, こと, が, と, の, ので, ため, ば, たり, ながら
 
 The 10 most frequent `SCONJ` types:  て, こと, が, と, の, ので, ため, で, ば, たり
 
-The 10 most frequent ambiguous lemmas: て (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 4849, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 2), こと (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 778, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 102, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2), が (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 4165, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 772), と (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 3152, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 532), の (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 8845, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 515, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 1), ため (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 238, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 104), ば (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 131, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 4), から (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 989, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 63), し (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 46, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 1), ところが (<tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 3)
+The 10 most frequent ambiguous lemmas: て (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 4849, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 2), こと (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 773, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 107, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2), が (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 4168, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 772), と (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 3152, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 532), の (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 8845, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 515, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 1), ため (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 238, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 104), ば (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 131, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 2), から (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 989, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 63), し (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 46, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 1), とも (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 28, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  て (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 4677, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 3), こと (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 778, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 102, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2), が (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 4165, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 772), と (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 3137, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 532), の (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 8844, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 515, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 67, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 1), ため (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 238, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 104, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 1), で (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2781, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 471, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 154, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 7), ば (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 131, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 4), たり (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 77, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2), から (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 989, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 63)
+The 10 most frequent ambiguous types:  て (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 4677, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 3), こと (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 773, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 107, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2), が (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 4168, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 772), と (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 3137, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 532), の (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 8844, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 515, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 67, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 1), ため (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 238, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 104, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 1), で (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2781, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 471, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 154, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 7), ば (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 131, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 2), たり (<tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 77, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2), から (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 989, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 63)
 
 
 * て
   * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 4677: 私 は 初めて だっ た ん だ けど 思っ <b>て</b> い た より も 魚 は 新鮮 でし た 。
   * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 3: 横田 は 「 じつに うまく いき まし <b>て</b> ね 」 と 回顧 し て いる 。
 * こと
-  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 778: これら が 順に 収縮 する <b>こと</b> で 食物 を 胃 に 送り出す ような 動き を する 。
-  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 102: 府中 や 国立 の 辺り の 土地 が 得意 と の <b>こと</b> で 、 色々と 紹介 し て もらう こと が でき まし た 。
+  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 773: これら が 順に 収縮 する <b>こと</b> で 食物 を 胃 に 送り出す ような 動き を する 。
+  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 107: 府中 や 国立 の 辺り の 土地 が 得意 と の <b>こと</b> で 、 色々と 紹介 し て もらう こと が でき まし た 。
   * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2: こんな <b>こと</b> でき ない ?
 * が
-  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 4165: ただし 、 50 周年 ソング に 変更 後 は 、 ED も 歌 つき の もの <b>が</b> 使わ れ た 。
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 4168: ただし 、 50 周年 ソング に 変更 後 は 、 ED も 歌 つき の もの <b>が</b> 使わ れ た 。
   * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 772: ほとんど は 浅海生 だ <b>が</b> 、 水深 数 百 m ほど の 深海 まで 生息 する もの も いる 。
 * と
   * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 3137: 姉 <b>と</b> 同じ 先生 だっ た ので 、 話 やすかっ た です 。
@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  て (<tt><a href="ja_gsd-pos-SCONJ.html">
   * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 7: 私 は ここ の 病院 に 行き 、 人 が 怖く なり 、 外 に <b>で</b> れ なく なり まし た 。
 * ば
   * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 131: われわれ の 組織 が つぶれれ <b>ば</b> 良い と 日共 や 権力 が 願望 を もっ て も 今 の ところ 手 を 下す 方法 が ない 。
-  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 4: 明石 駅 で は 「 北 3 番 のり <b>ば</b> 」 から 発車 する 。
+  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 2: 最初 は 歌 と ダンス が 上手 な 人間 を 14 人 集め て EXILE <b>ば</b> り の 正義 の 味方 を 組織 し よう と し た が 見つから ず 、 都内 在住 の 20 歳 以上 から 無作為 に 47 人 集め られ 、 それに デラックス ファイター が 加え られ て DXF 48 と なっ た 。
 * たり
   * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 77: 相手 GK と 1 対 1 に なっ <b>たり</b> だ と か 、 完全 に フリー で シュート を 打つ と いう の も なかっ た 。
   * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2: 犯罪 が 行為 で なければ なら ない という こと は 、 これら の もの は およそ 犯罪 <b>たり</b> 得 ない こと を 意味 する 。
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  て (<tt><a href="ja_gsd-pos-SCONJ.html">
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.130435 (the average of all parts of speech is 1.058680).
+The form / lemma ratio of `SCONJ` is 1.136364 (the average of all parts of speech is 1.058496).
 
 The 1st highest number of forms (4) was observed with the lemma “て”: ちゃ, て, で, に.
 
@@ -71,11 +71,11 @@ The 3rd highest number of forms (1) was observed with the lemma “かぎり”:
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (8521; 100% instances)
+`SCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (8513; 100% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (7557; 89% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (510; 6% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (409; 5% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (3; 0% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (7552; 89% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (510; 6% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (406; 5% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (3; 0% instances)
 
-8442 (99%) `SCONJ` nodes are leaves.
+8434 (99%) `SCONJ` nodes are leaves.
 
 21 (0%) `SCONJ` nodes have one child.
 

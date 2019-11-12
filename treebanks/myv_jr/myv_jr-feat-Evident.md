@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Evident` co-occurre
 `ADV` tokens may have the following values of `Evident`:
 
 * `Nfh` (5; 100% of non-empty `Evident`): <em>келя</em>
-* `EMPTY` (1353): <em>ансяк, кода, пек, истя, уш, ней, мейле, седе, прок, яла</em>
+* `EMPTY` (1352): <em>ансяк, кода, пек, истя, уш, ней, мейле, седе, прок, яла</em>
 
 ### `PART`
 

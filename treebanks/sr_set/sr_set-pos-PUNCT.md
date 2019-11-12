@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>„</em> (<tt><a href="sr_set-pos-PUN
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.844851).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.842192).
 
 The 1st highest number of forms (2) was observed with the lemma “...”: <em>..., …</em>.
 
@@ -42,15 +42,15 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 `PUNCT` nodes are attached to their parents using 4 different relations: <tt><a href="sr_set-dep-punct.html">punct</a></tt> (12333; 100% instances), <tt><a href="sr_set-dep-flat.html">flat</a></tt> (5; 0% instances), <tt><a href="sr_set-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="sr_set-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (5841; 47% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (3311; 27% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1372; 11% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (773; 6% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (592; 5% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (158; 1% instances), <tt><a href="sr_set-pos-X.html">X</a></tt> (94; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (79; 1% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (50; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (32; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (5831; 47% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (3315; 27% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1370; 11% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (774; 6% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (594; 5% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (158; 1% instances), <tt><a href="sr_set-pos-X.html">X</a></tt> (94; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (79; 1% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (51; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (33; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-12338 (100%) `PUNCT` nodes are leaves.
+12337 (100%) `PUNCT` nodes are leaves.
 
-2 (0%) `PUNCT` nodes have one child.
+3 (0%) `PUNCT` nodes have one child.
 
 The highest child degree of a `PUNCT` node is 1.
 
-Children of `PUNCT` nodes are attached using 2 different relations: <tt><a href="sr_set-dep-case.html">case</a></tt> (1; 50% instances), <tt><a href="sr_set-dep-conj.html">conj</a></tt> (1; 50% instances)
+Children of `PUNCT` nodes are attached using 3 different relations: <tt><a href="sr_set-dep-case.html">case</a></tt> (1; 33% instances), <tt><a href="sr_set-dep-conj.html">conj</a></tt> (1; 33% instances), <tt><a href="sr_set-dep-punct.html">punct</a></tt> (1; 33% instances)
 
-Children of `PUNCT` nodes belong to 2 different parts of speech: <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 50% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1; 50% instances)
+Children of `PUNCT` nodes belong to 3 different parts of speech: <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 33% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1; 33% instances), <tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> (1; 33% instances)
 

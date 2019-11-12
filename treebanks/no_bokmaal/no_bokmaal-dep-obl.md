@@ -28,7 +28,7 @@ The following 69 pairs of parts of speech are connected with `obl`: <tt><a href=
 4	rovdyr	rovdyr	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	1	nsubj	_	_
 5	i	i	ADP	_	_	7	case	_	_
 6	denne	denne	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
-7	sak	sak	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+7	sak	sak	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	_
 8	?	$?	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -61,7 +61,7 @@ The following 69 pairs of parts of speech are connected with `obl`: <tt><a href=
 4	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	stolte	stolt	ADJ	_	Degree=Pos|Number=Plur	0	root	_	_
 6	over	over	ADP	_	_	7	case	_	_
-7	NATO-medlemskapet	NATO-medlemskap	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+7	NATO-medlemskapet	NATO-medlemskap	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	5	obl	_	_
 8	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~

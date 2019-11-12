@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-GSD: POS Tags: `CCONJ`
 
-There are 15 `CCONJ` lemmas (0%), 16 `CCONJ` types (0%) and 10112 `CCONJ` tokens (3%).
+There are 14 `CCONJ` lemmas (0%), 15 `CCONJ` types (0%) and 10108 `CCONJ` tokens (3%).
 Out of 17 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 16 in number of types and 12 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>et, ou, mais, car, ni, soit, donc, or, and, e</em>
 
 The 10 most frequent `CCONJ` types:  <em>et, ou, mais, car, ni, soit, Or, donc, and, e</em>
 
-The 10 most frequent ambiguous lemmas: <em>ou</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 890, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 1), <em>car</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 127, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 4), <em>soit</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 44, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 32), <em>donc</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 178, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 11), <em>or</em> (<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 50, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 11, <tt><a href="fr_gsd-pos-X.html">X</a></tt> 4), <em>and</em> (<tt><a href="fr_gsd-pos-X.html">X</a></tt> 25, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 5), <em>e</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1), <em>i</em> (<tt><a href="fr_gsd-pos-X.html">X</a></tt> 4, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1), <em>y</em> (<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 537, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ou</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 890, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 1), <em>car</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 127, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 4), <em>soit</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 44, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 32), <em>donc</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 178, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 11), <em>or</em> (<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 50, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 11, <tt><a href="fr_gsd-pos-X.html">X</a></tt> 4), <em>and</em> (<tt><a href="fr_gsd-pos-X.html">X</a></tt> 26, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 4), <em>e</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1), <em>i</em> (<tt><a href="fr_gsd-pos-X.html">X</a></tt> 4, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1), <em>und</em> (<tt><a href="fr_gsd-pos-X.html">X</a></tt> 2, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ou</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 886, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 7), <em>car</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 121, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 2), <em>soit</em> (<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> 100, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 44, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 32, <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> 3), <em>Or</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 11, <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 3), <em>donc</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 175, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 11), <em>and</em> (<tt><a href="fr_gsd-pos-X.html">X</a></tt> 25, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 5), <em>e</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1), <em>est</em> (<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> 5095, <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> 158, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 44, <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1), <em>i</em> (<tt><a href="fr_gsd-pos-X.html">X</a></tt> 4, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1), <em>y</em> (<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 530, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ou</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 886, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 7), <em>car</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 121, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 2), <em>soit</em> (<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> 100, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 44, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 32, <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> 3), <em>Or</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 11, <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 3), <em>donc</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 175, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 11), <em>and</em> (<tt><a href="fr_gsd-pos-X.html">X</a></tt> 26, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 4), <em>e</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1), <em>est</em> (<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> 5096, <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> 157, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 44, <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1), <em>i</em> (<tt><a href="fr_gsd-pos-X.html">X</a></tt> 4, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1), <em>und</em> (<tt><a href="fr_gsd-pos-X.html">X</a></tt> 2, <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>ou</em>
@@ -37,28 +37,28 @@ The 10 most frequent ambiguous types:  <em>ou</em> (<tt><a href="fr_gsd-pos-CCON
   * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 175: <em>« Tu es <b>donc</b> las de la corvée politique ?</em>
   * <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 11: <em>C' est un affluent de l' Aube en rive gauche , <b>donc</b> un sous-affluent de la Seine .</em>
 * <em>and</em>
-  * <tt><a href="fr_gsd-pos-X.html">X</a></tt> 25: <em>Falling Out est le deuxième album de Peter Bjorn <b>and</b> John .</em>
-  * <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 5: <em>Une syllabe est également attribué à chaque pétale , ce sont : dda , ddha , nna , ta , tha , da , dha , na , pa , <b>and</b> pha .</em>
+  * <tt><a href="fr_gsd-pos-X.html">X</a></tt> 26: <em>Falling Out est le deuxième album de Peter Bjorn <b>and</b> John .</em>
+  * <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 4: <em>Une syllabe est également attribué à chaque pétale , ce sont : dda , ddha , nna , ta , tha , da , dha , na , pa , <b>and</b> pha .</em>
 * <em>e</em>
   * <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 3: <em>La Pieve di Corsignano ou plus précisément l église Saint-Vital-et-Saint-Modeste ( Pieve dei Santi Vito <b>e</b> Modesto en italien ) est une église romane située sur la commune de Pienza , en Toscane .</em>
   * <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 1: <em>Un locuteur vaudois , par exemple , aura très souvent tendance à prononcer le « <b>e</b> muet » de les mots se terminant par -ée , -ie , -ue .</em>
   * <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1: <em>Comment être chic et stylé ( <b>e</b> ) en moins de 5 minutes et sans dépenser beaucoup d' argent ?</em>
 * <em>est</em>
-  * <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> 5095: <em>C' <b>est</b> véritablement pour le futur baptisé un changement de cap .</em>
-  * <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> 158: <em>La question suivante <b>est</b> : Peut -on y prendre épouse ?</em>
+  * <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> 5096: <em>C' <b>est</b> véritablement pour le futur baptisé un changement de cap .</em>
+  * <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> 157: <em>La question suivante <b>est</b> : Peut -on y prendre épouse ?</em>
   * <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 44: <em>Elles sont situées à l' <b>est</b> de la République serbe de Bosnie .</em>
   * <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> 3: <em>Environ 84 autres sont encerclés sur la partie <b>est</b> de l' île , capturés et jugés .</em>
   * <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1: <em>De ce château , il ne reste actuellement que des restes passifs : quelques communs et une annexe : la Jardinnerie et la Serrurerie et le Mardelin , des aqueducs souterrains , des caves , ses trois sources , son réservoir inférieur , ses fossés , <b>est</b> bien sûr ses bois de le parc ... Victor Petit .</em>
 * <em>i</em>
   * <tt><a href="fr_gsd-pos-X.html">X</a></tt> 4: <em>Elle comprend notamment le célèbre diamant Koh - <b>i</b> Nor ( « montagne de lumière » ) .</em>
   * <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1: <em>La Coma <b>i</b> la Pedra est une commune de la comarque de le Solsonès , dans la Province de Lleida ( Lérida , en castillan ) , en communauté autonome espagnole de Catalogne .</em>
-* <em>y</em>
-  * <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 530: <em>Elle <b>y</b> incarnera la Poussette de Manon peu de temps après .</em>
-  * <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Le recensement de 1962 donne 49,5 % d' hommes et 50,5 % de femmes , proportions usuelles ( Censo de poblacion <b>y</b> vivienda 1962 , Ministerio de Hacienda , 1966 ) .</em>
+* <em>und</em>
+  * <tt><a href="fr_gsd-pos-X.html">X</a></tt> 2: <em>Il est notamment l' auteur de Exkursionsflora für Österreich <b>und</b> die ehemals österreichischen Nachbargebiete ( 1897 ) .</em>
+  * <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Le club fut reconstitué sous l' appellation Turn - <b>und</b> Sportverein Eintracht Dortmund 1848 ou TuS Eintracht Dortmund 1848 .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 1.302640).
+The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.302679).
 
 The 1st highest number of forms (2) was observed with the lemma “et”: <em>est, et</em>.
 
@@ -66,16 +66,22 @@ The 2nd highest number of forms (1) was observed with the lemma “Ni”: <em>Ni
 
 The 3rd highest number of forms (1) was observed with the lemma “and”: <em>and</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="fr_gsd-feat-Foreign.html">Foreign</a></tt> (4; 0% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (10104 tokens).
+Examples: <em>et, ou, mais, car, ni, soit, Or, donc, e, ed</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="fr_gsd-dep-cc.html">cc</a></tt> (10068; 100% instances), <tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt> (23; 0% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (10; 0% instances), <tt><a href="fr_gsd-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="fr_gsd-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="fr_gsd-dep-flat-name.html">flat:name</a></tt> (2; 0% instances), <tt><a href="fr_gsd-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances), <tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="fr_gsd-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="fr_gsd-dep-cc.html">cc</a></tt> (10066; 100% instances), <tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt> (23; 0% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (10; 0% instances), <tt><a href="fr_gsd-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="fr_gsd-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="fr_gsd-dep-flat-name.html">flat:name</a></tt> (2; 0% instances), <tt><a href="fr_gsd-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3999; 40% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (3180; 31% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1358; 13% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (927; 9% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (250; 2% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (144; 1% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (111; 1% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (62; 1% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (34; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (19; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3994; 40% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (3178; 31% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1353; 13% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (928; 9% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (250; 2% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (144; 1% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (110; 1% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (70; 1% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (35; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (19; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
 
-10003 (99%) `CCONJ` nodes are leaves.
+9999 (99%) `CCONJ` nodes are leaves.
 
 106 (1%) `CCONJ` nodes have one child.
 

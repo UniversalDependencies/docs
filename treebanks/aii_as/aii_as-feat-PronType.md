@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Art`, `Dem`, `Int`, `Prs`.
 
-36 tokens (8%) have a non-empty value of `PronType`.
-21 types (8%) occur at least once with a non-empty value of `PronType`.
-22 lemmas (9%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> (26; 6% instances), <tt><a href="aii_as-pos-DET.html">DET</a></tt> (10; 2% instances).
+37 tokens (8%) have a non-empty value of `PronType`.
+22 types (9%) occur at least once with a non-empty value of `PronType`.
+23 lemmas (10%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> (27; 6% instances), <tt><a href="aii_as-pos-DET.html">DET</a></tt> (10; 2% instances).
 
 ### `PRON`
 
-26 <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> tokens (60% of all `PRON` tokens) have a non-empty value of `PronType`.
+27 <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> tokens (63% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="aii_as-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17; 65%), <tt><a href="aii_as-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15; 58%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="aii_as-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17; 63%), <tt><a href="aii_as-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15; 56%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Int` (1; 4% of non-empty `PronType`): <em>ܕ</em>
-* `Prs` (25; 96% of non-empty `PronType`): <em>ܐܵܢܝܼ, ܠܸܗ, ܐܲܢ݇ܬ, ܐܵܢܵܐ, ܥܵܢܹܐ, ܐܲܚܢܲܢ, ܐܲܚܬܘܢ, ܒܹܗ, ܕܝܲܢ, ܕܝܼܘܼܟܼ</em>
-* `EMPTY` (17): <em>ܠܹܗ, ܓܵܢܹܗ, ܡܘܼܕܝܼ, ܐܵܗܵܐ, ܐܵܢܵܐ, ܐܸܠܲܟ̣ܘܢ, ܒܝܼܵܗܿ, ܚܕܵܕܸܐ, ܟܸܤܠܵܘܟ̣ܘܿܢ, ܠܗ݇ܘܿܢ</em>
+* `Prs` (26; 96% of non-empty `PronType`): <em>ܐܵܢܝܼ, ܠܸܗ, ܐܲܢ݇ܬ, ܐܵܢܵܐ, ܥܵܢܹܐ, ܐܲܚܢܲܢ, ܐܲܚܬܘܢ, ܒܝܼܵܗܿ, ܒܹܗ, ܕܝܲܢ</em>
+* `EMPTY` (16): <em>ܠܹܗ, ܓܵܢܹܗ, ܡܘܼܕܝܼ, ܐܵܗܵܐ, ܐܵܢܵܐ, ܐܸܠܲܟ̣ܘܢ, ܚܕܵܕܸܐ, ܟܸܤܠܵܘܟ̣ܘܿܢ, ܠܗ݇ܘܿܢ, ܠܝܼ</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (17) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (18) occur only with one value of `PronType`.
 
 ### `DET`
 

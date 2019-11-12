@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `acl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `acl`: <tt><a href="kpv_lattice-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-43 nodes (2%) are attached to their parents as `acl`.
+22 nodes (1%) are attached to their parents as `acl`.
 
-27 instances of `acl` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.16279069767442.
+16 instances of `acl` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.
 
-The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (24; 56% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (16; 37% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (17; 77% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (4; 18% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -36,73 +37,70 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 15 acl	color:blue
-1	Одсӧ	од	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nmod	_	_
-2	чинтытӧг	чинтыны	VERB	V	Derivation=Tog|Polarity=Neg|VerbForm=Conv	6	advcl	_	SpaceAfter=No
-3	,	,	PUNCT	CLB	_	4	punct	_	_
-4	шоферыс	шофёр	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	_
-5	машинасӧ	машина	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obj	_	_
-6	веськӧдіс	веськӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	ӧти	ӧти	NUM	Num	NumType=Card	9	nummod	_	_
-8	татшӧм	татшӧм	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	9	det	_	_
-9	переулокӧ	переулок	NOUN	N	Case=Ill|Number=Sing	6	obl	_	SpaceAfter=No
-10	,	,	PUNCT	CLB	_	11	punct	_	_
-11	коді	коді	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	15	nsubj	_	_
-12	вӧлі	вӧвны	AUX	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	_
-13	зэв	зэв	ADV	Adv	_	14	advmod	_	_
-14	крутӧя	крутӧя	ADV	Adv	_	15	advmod	_	_
-15	кежӧ	кежны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	SpaceAfter=No
-16	.	.	PUNCT	CLB	_	6	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 10 acl	color:blue
+1	Мед	мед	SCONJ	CS	_	10	mark	_	_
+2	жӧ	жӧ	PART	Pcle	_	10	advmod	_	_
+3	нин	нин	ADV	Adv	_	10	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	мися	мися	PART	Pcle	_	10	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	7	punct	_	_
+7	кӧть	кӧть	SCONJ	CS	_	10	mark	_	_
+8	кутшӧмкӧ	кутшӧм	PRON	Pron	PronType=Ind	9	det	_	_
+9	тӧвру	тӧвру	NOUN	N	Case=Nom|Number=Sing	10	nsubj	_	_
+10	пӧльыштлас	пӧльыштлыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	acl	_	SpaceAfter=No
+11	,	,	PUNCT	CLB	_	12	punct	_	_
+12	думайта	думайтны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	ас	ас	DET	Det	_	14	det	_	_
+14	кежысь	кеж	NOUN	N	Case=Ela|Number=Sing	12	obl	_	SpaceAfter=No
+15	.	.	PUNCT	CLB	_	12	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 27 acl	color:blue
-1	Быд	быд	PRON	Pron	PronType=Qnt	2	det	_	_
-2	колхозник	колхозник	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
-3	да	да	CCONJ	CC	_	4	cc	_	_
-4	колхозница	колхозница	NOUN	N	Case=Nom|Number=Sing	2	conj	_	_
-5	обязанӧсь	обязан	ADJ	A	Case=Nom|Number=Plur	0	root	_	_
-6	тышкасьны	тышкасьны	VERB	V	VerbForm=Inf	5	advcl	_	_
-7	сы	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
-8	вӧсна	вӧсна	ADP	Po	_	7	case	_	SpaceAfter=No
-9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	медым	медым	SCONJ	CS	_	14	mark	_	_
-11	му	му	NOUN	N	Case=Nom|Number=Sing	14	obl	_	_
-12	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	11	case	_	_
-13	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	14	aux	_	_
-14	коль	кольны	VERB	V	Connegative=Yes|Number=Sing	6	acl	_	_
-15	ниӧти	ниӧти	PRON	Pro	Case=Nom|Number=Sing|Polarity=Neg	16	det	_	_
-16	шеп	шеп	NOUN	N	Case=Nom|Number=Sing	14	nsubj	_	SpaceAfter=No
-17	,	,	PUNCT	CLB	_	18	punct	_	_
-18	быдӧнлы	быдӧн	PRON	Pron	Case=Dat|Number=Sing	20	obl	_	_
-19	должен	должен	ADJ	N	Case=Nom|Number=Sing	14	acl	_	_
-20	лоны	лоны	VERB	V	VerbForm=Inf	19	xcomp	_	_
-21	гӧгӧрвоана	гӧгӧрвоана	ADV	Adv	_	20	advmod	_	SpaceAfter=No
-22	,	,	PUNCT	CLB	_	27	punct	_	_
-23	мый	мый	SCONJ	CS	_	27	mark	_	_
-24	быд	быд	PRON	Pron	PronType=Qnt	25	det	_	_
-25	нянь	нянь	NOUN	N	Case=Nom|Number=Sing	27	nsubj	_	_
-26	шеп	шеп	NOUN	N	Case=Nom|Number=Sing	25	compound	_	_
-27	сьӧктаммӧдӧ	сьӧктаммӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl	_	_
-28	колхозниклысь	колхозник	NOUN	N	Case=Abl|Number=Sing	29	nmod	_	_
-29	трудоденьсӧ	трудодень	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	27	obj	_	SpaceAfter=No
-30	,	,	PUNCT	CLB	_	32	punct	_	_
-31	унджык	унджык	ADV	Adv	_	32	advmod	_	_
-32	воӧ	во	NOUN	N	Case=Ill|Number=Sing	27	conj	_	_
-33	нянь	нянь	NOUN	N	Case=Nom|Number=Sing	32	nsubj	_	_
-34	трудодень	трудодень	NOUN	N	Case=Nom|Number=Sing	32	obl	_	_
-35	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	34	case	_	SpaceAfter=No
-36	.	.	PUNCT	CLB	_	6	punct	_	_
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 20 acl	color:blue
+1	Тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
+2	лыдпасъясыс	лыдпас	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
+3	висьталӧны	висьтавны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	сы	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+5	йылысь	йылысь	ADP	Po	Case=Ela|Number=Sing	4	case	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	7	punct	_	_
+7	мый	мый	SCONJ	CS	_	8	mark	_	_
+8	колхозъясса	колхозъясса	ADJ	A	Case=Nom|Number=Sing	9	amod	_	_
+9	председательяс	председатель	NOUN	N	Case=Nom|Number=Plur	20	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	CLB	_	20	punct	_	_
+11	а	а	CCONJ	CC	_	20	cc	_	_
+12	сідз	сідз	ADV	Adv	_	20	advmod	_	_
+13	жӧ	жӧ	PART	Pcle	_	12	advmod	_	_
+14	сиктса	сиктса	ADJ	A	Case=Nom|Number=Sing	15	amod	_	_
+15	общественность	общественность	NOUN	N	Case=Nom|Number=Sing	16	nmod	_	_
+16	колхозникъясӧс	колхозник	NOUN	N	Case=Acc|Number=Plur	20	obj	_	_
+17	ӧнӧдз	ӧнӧдз	ADV	Adv	Case=Ter	20	advmod	_	_
+18	на	на	ADV	Adv	_	17	advmod	_	_
+19	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	20	aux:neg	_	_
+20	мобилизуйтны	мобилизуйтны	VERB	V	Connegative=Yes	4	acl	_	_
+21	ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	22	amod	_	_
+22	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	23	obj	_	_
+23	босьтӧм	босьтны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	20	advcl	_	_
+24	вӧсна	вӧсна	ADP	Po	_	23	case	_	_
+25	тышӧ	тышӧ	NOUN	N	Case=Ill|Number=Sing	20	obl	_	SpaceAfter=No
+26	,	,	PUNCT	CLB	_	27	punct	_	_
+27	аскадӧ	аскадӧ	NOUN	N	Case=Ill|Number=Sing	31	obl	_	_
+28	да	да	CCONJ	CC	_	31	cc	_	_
+29	некутшӧм	некутшӧм	PRON	Pron	Case=Nom|Number=Sing|Polarity=Neg	30	det	_	_
+30	вошӧмъястӧг	вошӧм	NOUN	N	Case=Car|Number=Plur	31	obl	_	_
+31	идралӧм	идравны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	33	acl	_	_
+32	вӧсна	вӧсна	ADP	Po	_	31	case	_	_
+33	тышӧ	тышӧ	NOUN	N	Case=Ill|Number=Sing	25	conj	_	SpaceAfter=No
+34	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

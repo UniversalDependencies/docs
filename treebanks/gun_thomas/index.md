@@ -19,10 +19,10 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Guillaume Thomas.
 
 Repository: [UD_Mbya_Guarani-Thomas](https://github.com/UniversalDependencies/UD_Mbya_Guarani-Thomas)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgun_thomas22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgun_thomas25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
-License: CC BY-SA 4.0
+License: CC BY-NC-SA 4.0
 
 Genre: nonfiction
 
@@ -37,10 +37,10 @@ Do not submit pull requests against the UD repository.
 | Annotation | Source |
 |------------|--------|
 | Lemmas | assigned by a program, not checked manually |
-| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | assigned by a program, with some manual corrections, but not a full manual verification |
 | XPOS | annotated manually |
-| Features | annotated manually in non-UD style, automatically converted to UD |
-| Relations | annotated manually, natively in UD style |
+| Features | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| Relations | assigned by a program, with some manual corrections, but not a full manual verification |
 
 ## Description
 
@@ -66,6 +66,8 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 
 * Kim Gerdes, 2013. Collaborative dependency annotation. In Journal Proceedings of the second international conference on dependency linguistics (DepLing 2013), 88-97.
 
+
+
 # Statistics of UD Mbya Guarani Thomas
 
 ## POS Tags
@@ -74,11 +76,11 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 
 ## Features
 
-[Clusivity](gun_thomas-feat-Clusivity.html) – [Clusivity[obj]](gun_thomas-feat-Clusivity-obj.html) – [Clusivity[subj]](gun_thomas-feat-Clusivity-subj.html) – [Number](gun_thomas-feat-Number.html) – [Number[psor]](gun_thomas-feat-Number-psor.html) – [Person](gun_thomas-feat-Person.html) – [Person[obj]](gun_thomas-feat-Person-obj.html) – [Person[subj]](gun_thomas-feat-Person-subj.html) – [Polarity](gun_thomas-feat-Polarity.html) – [PronType](gun_thomas-feat-PronType.html) – [Subcat](gun_thomas-feat-Subcat.html) – [VerbForm](gun_thomas-feat-VerbForm.html)
+[Clusivity](gun_thomas-feat-Clusivity.html) – [Clusivity[obj]](gun_thomas-feat-Clusivity-obj.html) – [Clusivity[psor]](gun_thomas-feat-Clusivity-psor.html) – [Clusivity[subj]](gun_thomas-feat-Clusivity-subj.html) – [Mood](gun_thomas-feat-Mood.html) – [Number](gun_thomas-feat-Number.html) – [Number[psor]](gun_thomas-feat-Number-psor.html) – [NumType](gun_thomas-feat-NumType.html) – [Person](gun_thomas-feat-Person.html) – [Person[obj]](gun_thomas-feat-Person-obj.html) – [Person[subj]](gun_thomas-feat-Person-subj.html) – [Polarity](gun_thomas-feat-Polarity.html) – [PronType](gun_thomas-feat-PronType.html) – [Subcat](gun_thomas-feat-Subcat.html) – [VerbForm](gun_thomas-feat-VerbForm.html)
 
 ## Relations
 
-[acl](gun_thomas-dep-acl.html) – [advcl](gun_thomas-dep-advcl.html) – [advmod](gun_thomas-dep-advmod.html) – [advmod:sentcon](gun_thomas-dep-advmod-sentcon.html) – [amod](gun_thomas-dep-amod.html) – [appos](gun_thomas-dep-appos.html) – [case](gun_thomas-dep-case.html) – [cc](gun_thomas-dep-cc.html) – [ccomp](gun_thomas-dep-ccomp.html) – [clf](gun_thomas-dep-clf.html) – [compound](gun_thomas-dep-compound.html) – [compound:svc](gun_thomas-dep-compound-svc.html) – [conj](gun_thomas-dep-conj.html) – [cop](gun_thomas-dep-cop.html) – [csubj](gun_thomas-dep-csubj.html) – [det](gun_thomas-dep-det.html) – [discourse](gun_thomas-dep-discourse.html) – [discourse:q](gun_thomas-dep-discourse-q.html) – [dislocated](gun_thomas-dep-dislocated.html) – [dislocated:cleft](gun_thomas-dep-dislocated-cleft.html) – [fixed](gun_thomas-dep-fixed.html) – [flat](gun_thomas-dep-flat.html) – [list](gun_thomas-dep-list.html) – [mark](gun_thomas-dep-mark.html) – [nmod](gun_thomas-dep-nmod.html) – [nsubj](gun_thomas-dep-nsubj.html) – [nummod](gun_thomas-dep-nummod.html) – [obj](gun_thomas-dep-obj.html) – [obl](gun_thomas-dep-obl.html) – [obl:sentcon](gun_thomas-dep-obl-sentcon.html) – [parataxis](gun_thomas-dep-parataxis.html) – [parataxis:rep](gun_thomas-dep-parataxis-rep.html) – [punct](gun_thomas-dep-punct.html) – [reparandum](gun_thomas-dep-reparandum.html) – [root](gun_thomas-dep-root.html) – [vocative](gun_thomas-dep-vocative.html) – [xcomp](gun_thomas-dep-xcomp.html)
+[acl](gun_thomas-dep-acl.html) – [advcl](gun_thomas-dep-advcl.html) – [advmod](gun_thomas-dep-advmod.html) – [amod](gun_thomas-dep-amod.html) – [appos](gun_thomas-dep-appos.html) – [case](gun_thomas-dep-case.html) – [cc](gun_thomas-dep-cc.html) – [ccomp](gun_thomas-dep-ccomp.html) – [compound](gun_thomas-dep-compound.html) – [compound:svc](gun_thomas-dep-compound-svc.html) – [conj](gun_thomas-dep-conj.html) – [cop](gun_thomas-dep-cop.html) – [csubj](gun_thomas-dep-csubj.html) – [dep:mod](gun_thomas-dep-dep-mod.html) – [det](gun_thomas-dep-det.html) – [discourse](gun_thomas-dep-discourse.html) – [dislocated](gun_thomas-dep-dislocated.html) – [dislocated:cleft](gun_thomas-dep-dislocated-cleft.html) – [fixed](gun_thomas-dep-fixed.html) – [list](gun_thomas-dep-list.html) – [mark](gun_thomas-dep-mark.html) – [nmod](gun_thomas-dep-nmod.html) – [nsubj](gun_thomas-dep-nsubj.html) – [nummod](gun_thomas-dep-nummod.html) – [obj](gun_thomas-dep-obj.html) – [obl](gun_thomas-dep-obl.html) – [obl:sentcon](gun_thomas-dep-obl-sentcon.html) – [parataxis](gun_thomas-dep-parataxis.html) – [parataxis:rep](gun_thomas-dep-parataxis-rep.html) – [punct](gun_thomas-dep-punct.html) – [reparandum](gun_thomas-dep-reparandum.html) – [root](gun_thomas-dep-root.html) – [vocative](gun_thomas-dep-vocative.html) – [xcomp](gun_thomas-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -96,7 +98,7 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 </ul>
 
 <ul>
-<li>This corpus contains 111 types of words that contain both letters and punctuation. Examples: ha'e, ka'aguy, va'e, va'ekue, cheremiarirõ'i, mba'e, he'i, ko'agã, kova'e, romba'apo, ete'i, ko'ape, mba'eicha, nda'u, ra'e, ramo'i, va'erã, ho'u, ndoro'ui, ro'u, roñea'ã, Mava'e, Mba'echa, amombe'u, añemoñe'ẽ, e'ỹ, ha'e'i, hũ'i, kirami'i, kue'iry, kyri'ĩ, kyrĩgue'i, kyrĩngue'i, ome'ẽ, oreka'aguy, oñembo'e, oñemokyri'ĩmba, porã'i, rei'i, rãe'i, 'rã, Aroñoty'i, Ha'eve, Ko'apy, Mbegueve-gueve, Nañoty'i, Tembiapo'i, a'i, ague'i, aipoa'e</li>
+<li>This corpus contains 110 types of words that contain both letters and punctuation. Examples: ha'e, ka'aguy, va'e, va'ekue, cheremiarirõ'i, mba'e, he'i, ko'agã, kova'e, romba'apo, ete'i, ko'ape, mba'eicha, nda'u, ra'e, ramo'i, va'erã, ho'u, ndoro'ui, ro'u, roñea'ã, Mava'e, Mba'echa, amombe'u, añemoñe'ẽ, e'ỹ, ha'e'i, hũ'i, kirami'i, kue'iry, kyri'ĩ, kyrĩgue'i, kyrĩngue'i, ome'ẽ, oreka'aguy, oñembo'e, oñemokyri'ĩmba, porã'i, rei'i, rãe'i, ñañoty'i, 'rã, Aroñoty'i, Ha'eve, Ko'apy, Mbegueve-gueve, Tembiapo'i, a'i, ague'i, aipoa'e</li>
 </ul>
 
 <ul>
@@ -112,15 +114,15 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 </ul>
 
 <ul>
-<li>This corpus contains 32 word types tagged as particles (PART): 'rã, ave, avi, e'ỹ, ete, ete'i, jevy, ju, katu, ke, ko, kue'iry, kuera, kuery, ma, mi, nda'u, neĩ, ngo, ni, pa, po, poteri, ra'e, rei, rei'i, ri, rã, ta, te, teri, tove</li>
+<li>This corpus contains 44 word types tagged as particles (PART): 'rã, Aromeno, Upearã, ani, ave, avi, e'ỹ, ete, ete'i, gui, jepe, jepi, jevy, ju, katu, ke, ko, kue'iry, kuera, kuery, kuri, ma, mavoi, mi, nda'u, neĩ, ngo, ni, pa, po, poteri, ra'e, ramo, ramo'i, rei, rei'i, ri, rã, ta, te, teri, tove, upei, voi</li>
 </ul>
 
 <ul>
-<li>This corpus contains 22 lemmas tagged as pronouns (PRON): che, chee, eta, ha'e, ichupe, kirami, ko'ava, kova'e, mava'e, mba'e, ndee, ndeevy, opa, ore, oregui, pende, pendevy, umia, upe, upea, ñande, ñandevy</li>
+<li>This corpus contains 23 lemmas tagged as pronouns (PRON): che, chee, eta, ha'e, ichupe, kirami, ko'ava, kova'e, mava'e, mba'e, ndee, ndeevy, opa, ore, oregui, pende, pendevy, umia, upe, upea, upeve, ñande, ñandevy</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5 lemmas tagged as determiners (DET): kova'e, mava'e, mba'e, pavẽ, pe</li>
+<li>This corpus contains 6 lemmas tagged as determiners (DET): javive, kova'e, mava'e, mba'e, pavẽ, pe</li>
 </ul>
 
 <ul>
@@ -136,13 +138,28 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 </ul>
 
 <ul>
-<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+<ul>
+  <li>Fin
+  <ul>
+    <li>VERB: oiko, opa, ou, cheayvu, roju, romba'apo, oñevanga, roiko, rojapo, roñoty</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inf
+  <ul>
+    <li>VERB: ha'e, he'i, ndaipovei, aa, kyri'ĩ, aipoa'e, ha'e'i, ja'e, marã, ndaa'ei</li>
+  </ul>
+  </li>
 </ul>
 
 <ul>
   <li>Post
   <ul>
-    <li>ADV: jepe</li>
     <li>VERB: kuaa'i, pota</li>
   </ul>
   </li>
@@ -151,7 +168,15 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 <ul>
   <li>Ser
   <ul>
-    <li>VERB: erekovy, eravy-ravy'i, ovy-ovy, rekovy, ainy, oikovy, oiny, okuapy</li>
+    <li>VERB: erekovy, ainy, eravy-ravy'i, oikovy, oiny, okuapy, ovy-ovy, rekovy</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Vnoun
+  <ul>
+    <li>VERB: ka'aguy</li>
   </ul>
   </li>
 </ul>
@@ -196,9 +221,9 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: ani</li>
       <li>PRON: mba'eve</li>
-      <li>VERB: ndaipovei, ndoro'ui, ndapechai, Ndoroikuaavei, ndaa'ei, ndo'ui, ndojapoi</li>
+      <li>VERB-Fin: ndoro'ui, ndapechai, Ndoroikuaavei, ndo'ui, ndojapoi</li>
+      <li>VERB-Inf: ndaipovei, ndaa'ei</li>
     </ul>
   </li>
 </ul>
@@ -208,6 +233,36 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
+
+<ul>
+  <li>Des
+    <ul>
+      <li>VERB-Fin: tojapouka, toendu</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: eekombo'e</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>VERB-Fin: oiko, opa, ou, cheayvu, roju, romba'apo, oñevanga, roiko, rojapo, roñoty</li>
+      <li>VERB-Inf: ha'e, he'i, ndaipovei, aa, kyri'ĩ, aipoa'e, ha'e'i, ja'e, marã, ndaa'ei</li>
+      <li>VERB-Ser: erekovy, ainy, eravy-ravy'i, oikovy, oiny, okuapy, ovy-ovy, rekovy</li>
+      <li>VERB-Vnoun: ka'aguy</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -239,17 +294,8 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 <ul>
   <li>Int
     <ul>
-      <li>ADV: mba'eicha, Mba'echa, mamo</li>
       <li>DET: mba'e, Mava'e</li>
       <li>PRON: mba'e, Mava'e</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Neg
-    <ul>
-      <li>PRON: mba'eve</li>
     </ul>
   </li>
 </ul>
@@ -265,11 +311,23 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 <ul>
   <li>Tot
     <ul>
+      <li>DET: pavẽ, javive</li>
       <li>PRON: opa</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>NumType</a></li>
+</ul>
+
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: peteĩ, mokoĩ, mokoĩ'i</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -297,7 +355,7 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 <ul>
   <li>3
     <ul>
-      <li>PRON: ha'e, ichupe</li>
+      <li>PRON: ha'e, ichupe, heta</li>
       <li>VERB-Ser: oikovy, oiny, okuapy</li>
     </ul>
   </li>
@@ -312,7 +370,7 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: pendejaryi</li>
+      <li>NOUN: ñanerembiapo, oreayvu, orechy, orejaryi, oreka'aguy, pendejaryi, Ñanderu, oremba'e'i, orerembi'u, Ñanderuvicha</li>
     </ul>
   </li>
 </ul>
@@ -320,7 +378,7 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: cheremiarirõ'i, cheru, chejaryi, chetuva, Cheapoare, cheayvu, chehistoria, chememby, chememby'i, chepi'a'i</li>
+      <li>NOUN: cheremiarirõ'i, cheru, chejaryi, chetuva, Cheapoare, chehistoria, chememby, chememby'i, chepi'a'i, cherakykue</li>
     </ul>
   </li>
 </ul>
@@ -333,13 +391,11 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
     <ul>
       <li>Ex
         <ul>
-          <li>NOUN: oreayvu, orechy, orejaryi, oreka'aguy, oremba'e'i, orerembi'u</li>
           <li>PRON: ore, oregui</li>
         </ul>
       </li>
       <li>In
         <ul>
-          <li>NOUN: ñanerembiapo, Ñanderuvicha, ñandejara, ñandejaryi, ñandepy'a, ñandereko, ñaneñe'ẽ</li>
           <li>PRON: ñande, ñandevy</li>
         </ul>
       </li>
@@ -352,12 +408,29 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
     <ul>
       <li>Ex
         <ul>
-          <li>VERB: orepytyvõ'i, orereko, orereroayvu</li>
+          <li>VERB-Fin: orepytyvõ'i, orereko, orereroayvu</li>
         </ul>
       </li>
       <li>In
         <ul>
-          <li>VERB: ñanderayvu</li>
+          <li>VERB-Fin: ñanderayvu</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Clusivity[psor]</a>
+    <ul>
+      <li>Ex
+        <ul>
+          <li>NOUN: oreayvu, orechy, orejaryi, oreka'aguy, oremba'e'i, orerembi'u</li>
+        </ul>
+      </li>
+      <li>In
+        <ul>
+          <li>NOUN: ñanerembiapo, Ñanderu, Ñanderuvicha, ñandejara, ñandejaryi, ñandepy'a, ñandereko, ñaneñe'ẽ</li>
         </ul>
       </li>
     </ul>
@@ -369,12 +442,12 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
     <ul>
       <li>Ex
         <ul>
-          <li>VERB: romba'apo, rojapo, roñoty, ndoro'ui, ro'u, Ndoroikuaavei, Romoĩ, orojapo, rogueru, rojeheka</li>
+          <li>VERB-Fin: roju, romba'apo, roiko, rojapo, roñoty, ndoro'ui, ro'u, roñea'ã, Ndoroikuaavei, Romoĩ</li>
         </ul>
       </li>
       <li>In
         <ul>
-          <li>VERB: jaecha, jajapo, jaraa, jareko, Nañoty'i, ja'u, jaikuaapa, jajoguereko, ñaikotevẽ, ñama'ety'i</li>
+          <li>VERB-Fin: jaecha, jajapo, jaraa, jareko, ñañoty'i, ja'u, jaiko, jaikuaapa, jaje'apa, jajoguereko</li>
         </ul>
       </li>
     </ul>
@@ -386,12 +459,12 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
     <ul>
       <li>1
         <ul>
-          <li>VERB: chemoirũ, chereroñe'ẽ, orepytyvõ'i, orereko, orereroayvu, ñanderayvu</li>
+          <li>VERB-Fin: chemoirũ, chereroñe'ẽ, orepytyvõ'i, orereko, orereroayvu, ñanderayvu</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>VERB: imoiny</li>
+          <li>VERB-Fin: imoiny</li>
         </ul>
       </li>
     </ul>
@@ -403,17 +476,17 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
     <ul>
       <li>1
         <ul>
-          <li>VERB: romba'apo, ha'e, rojapo, roñoty, aipota, ajapo, areko, jaecha, ndoro'ui, ro'u</li>
+          <li>VERB-Fin: cheayvu, roju, romba'apo, roiko, rojapo, roñoty, aiko, aipota, ajapo, areko</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB: ndapechai, eekombo'e, ereikuaa, erendu, pemokañy, pereko, remoñendu</li>
+          <li>VERB-Fin: ndapechai, reju, eekombo'e, ereikuaa, erendu, pemokañy, penderecharãi, pereko, remoñendu</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>VERB: he'i, ho'u, oikuaa, ojapo, oeja, oendu, oikotevẽ, oñemokyri'ĩmba, ndo'ui, ndojapoi</li>
+          <li>VERB-Fin: oiko, opa, ou, oñevanga, ho'u, oikuaa, oja, ojapo, opyta, heta</li>
         </ul>
       </li>
     </ul>
@@ -423,14 +496,28 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 <ul>
   <li><a>Subcat</a>
     <ul>
+      <li>Ditran
+        <ul>
+          <li>VERB-Fin: ome'ẽ, tojapouka</li>
+        </ul>
+      </li>
       <li>Int
         <ul>
-          <li>VERB: ndaipovei, añemoñe'ẽ, oñemokyri'ĩmba, akay'u, jajoguereko, oñemomichĩmba</li>
+          <li>VERB-Fin: oiko, opa, ou, cheayvu, roju, romba'apo, oñevanga, roiko, aiko, oja</li>
+          <li>VERB-Inf: ndaipovei, aa, kyri'ĩ, marã, porãina, tuichapa'i</li>
+          <li>VERB-Vnoun: ka'aguy</li>
+        </ul>
+      </li>
+      <li>IntInd
+        <ul>
+          <li>VERB-Fin: roñea'ã, jaje'apa, oña'ã, penderecharãi</li>
+          <li>VERB-Inf: ñeñandu</li>
         </ul>
       </li>
       <li>Tran
         <ul>
-          <li>VERB: ha'e, he'i, romba'apo, rojapo, roñoty, aipota, ajapo, areko, ho'u, jaecha</li>
+          <li>VERB-Fin: rojapo, roñoty, aipota, ajapo, areko, ho'u, jaecha, ndoro'ui, oikuaa, ojapo</li>
+          <li>VERB-Inf: ha'e, he'i, aipoa'e, ha'e'i, ja'e, ndaa'ei</li>
         </ul>
       </li>
     </ul>
@@ -455,8 +542,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (38)</li>
-      <li>VERB--PRON (46)</li>
+      <li>VERB-Fin--NOUN (29)</li>
+      <li>VERB-Fin--PRON (44)</li>
+      <li>VERB-Inf--NOUN (10)</li>
+      <li>VERB-Inf--PRON (2)</li>
     </ul>
   </li>
 </ul>
@@ -464,9 +553,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (41)</li>
-      <li>VERB--NOUN-ADP(pe) (1)</li>
-      <li>VERB--PRON (17)</li>
+      <li>VERB-Fin--NOUN (39)</li>
+      <li>VERB-Fin--PRON (15)</li>
+      <li>VERB-Inf--NOUN (2)</li>
+      <li>VERB-Inf--PRON (2)</li>
     </ul>
   </li>
 </ul>
@@ -484,6 +574,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>advmod:sentcon</a>, <a>compound:svc</a>, <a>discourse:q</a>, <a>dislocated:cleft</a>, <a>obl:sentcon</a>, <a>parataxis:rep</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>aux</a>, <a>orphan</a>, <a>goeswith</a>, <a>dep</a></li>
+<li>This corpus uses 5 relation subtypes: <a>compound:svc</a>, <a>dep:mod</a>, <a>dislocated:cleft</a>, <a>obl:sentcon</a>, <a>parataxis:rep</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>flat</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

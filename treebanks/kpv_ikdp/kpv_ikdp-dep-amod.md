@@ -43,7 +43,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	ойын	ой	NOUN	N	Case=Ine|Number=Sing	5	obl	_	GTtags=Sg,Ine
 5	думайтіс	думайтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed|GTtags=IV,Ind,Prt1,Sg3
 6	мӧдны	мӧдны	VERB	V	VerbForm=Inf	5	xcomp	_	GTtags=IV,Inf
-7	Йӧртым	йӧртым	PROPN	N	Case=Nom|Number=Sing	8	nmod	_	GTtags=Prop,Sem/Plc,Sg,Nom
+7	Йӧртым	Йӧртым	PROPN	N	Case=Nom|Number=Sing	8	nmod	_	GTtags=Prop,Sem/Plc,Sg,Nom
 8	туйӧ	туйӧ	NOUN	N	Case=Ill|Number=Sing	6	obl	_	GTtags=Sg,Ill|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	5	punct	_	_
 

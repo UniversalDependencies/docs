@@ -8,65 +8,70 @@ udver: '2'
 
 This relation is universal.
 
-867 nodes (4%) are attached to their parents as `obj`.
+1435 nodes (4%) are attached to their parents as `obj`.
 
-505 instances of `obj` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.62745098039216.
+880 instances of `obj` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.68641114982578.
 
-The following 22 pairs of parts of speech are connected with `obj`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (352; 41% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (260; 30% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (108; 12% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (73; 8% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (27; 3% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `obj`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (621; 43% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (415; 29% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (154; 11% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (132; 9% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (43; 3% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (23; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 obj	color:blue
-1	Ar	ar	PART	Vb	PartType=Vb|Tense=Past	2	mark:prt	_	_
-2	ith	ith	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-3	sí	sí	PRON	Pers	Gender=Fem|Number=Sing|Person=3	2	nsubj	_	_
-4	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
-5	dinnéar	dinnéar	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
-6	?	?	PUNCT	?	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 obj	color:blue
-1	Is	is	AUX	Cop	Tense=Pres|VerbForm=Cop	3	cop	_	_
-2	ag	ag	ADP	Simp	_	3	case	_	_
-3	déanamh	déanamh	NOUN	Noun	VerbForm=Vnoun	0	root	_	_
-4	cáca	cáca	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	_
-5	atá	bí	VERB	VI	Mood=Ind|PronType=Rel|Tense=Pres	3	csubj:cleft	_	_
-6	mé	mé	PRON	Pers	Number=Sing|Person=1	5	nsubj	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 4 5 obj	color:blue
+1	Ar	ar	ADP	Simp	_	2	case	_	_
+2	gcúl	cúl	NOUN	Noun	Form=Ecl|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+3	,	,	PUNCT	Punct	_	4	punct	_	_
+4	taispeántar	taispeáin	VERB	VT	Mood=Ind|Tense=Pres|Voice=Auto	0	root	_	_
+5	slua	slua	NOUN	Noun	Gender=Masc|Number=Sing	4	obj	_	_
+6	ag	ag	ADP	Simp	_	7	case	_	_
+7	iarraidh	iarraidh	NOUN	Noun	VerbForm=Vnoun	4	xcomp	_	_
+8	brú	brú	NOUN	Noun	VerbForm=Inf	7	obj	_	_
+9	isteach	isteach	ADV	Dir	_	8	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
+# visual-style 5 3 obj	color:blue
+1	Caithfidh	caith	VERB	VTI	Mood=Ind|Tense=Fut	0	root	_	_
+2	foirne	foireann	NOUN	Noun	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	úsáid	úsáid	NOUN	Noun	Gender=Fem|Number=Sing	5	obj	_	_
+4	a	a	PART	Inf	PartType=Inf	5	mark	_	_
+5	bhaint	baint	NOUN	Noun	Form=Len|VerbForm=Inf	1	xcomp	_	_
+6	as	as	ADP	Simp	_	8	case	_	_
+7	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+8	huimhreacha	uimhir	NOUN	Noun	Definite=Def|Gender=Fem|Number=Plur	5	nmod	_	_
+9	4-15	4-15	NUM	Num	_	8	nummod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 5 obj	color:blue
-1	Tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
-2	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
-3	teicníocht	teicníocht	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	nsubj	_	_
-4	inste	inste	ADJ	Adj	VerbForm=Part	3	amod	_	_
-5	a	a	PART	Vb	PartType=Vb|PronType=Rel	6	obj	_	_
-6	roghnaíonn	roghnaigh	VERB	VT	Mood=Ind|Tense=Pres	3	acl:relcl	_	_
-7	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
-8	thar	thar	ADV	Its	_	11	advmod	_	_
-9	a	a	ADV	Its	_	8	fixed	_	_
-10	bheith	bheith	ADV	Its	_	8	fixed	_	_
-11	éifeachtach	éifeachtach	ADJ	Adj	Degree=Pos	1	xcomp:pred	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 obj	color:blue
+1	nobilis	nobilis	X	Foreign	Foreign=Yes	0	root	_	SpaceAfter=No
+2	)	)	PUNCT	Punct	_	4	punct	_	SpaceAfter=No
+3	,	,	PUNCT	Punct	_	4	punct	_	_
+4	gaol	gaol	NOUN	Noun	Gender=Masc|Number=Sing	1	parataxis	_	_
+5	leis	le	ADP	Prep	Gender=Masc|Number=Sing|Person=3	4	obl:prep	_	_
+6	a	a	PART	Vb	PartType=Vb|PronType=Rel	7	obj	_	_
+7	fhaightear	faigh	VERB	VT	Form=Len|Mood=Ind|Tense=Pres|Voice=Auto	4	acl:relcl	_	_
+8	sa	i	ADP	Art	Number=Sing|PronType=Art	9	case	_	_
+9	Mheánmhuir	Meánmhuir	PROPN	Noun	Form=Len|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

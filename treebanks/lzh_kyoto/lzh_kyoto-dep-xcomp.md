@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-154 nodes (0%) are attached to their parents as `xcomp`.
+176 nodes (0%) are attached to their parents as `xcomp`.
 
-154 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.77922077922078.
+176 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.76704545454545.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (99; 64% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (47; 31% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (8; 5% instances).
+The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (113; 64% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (53; 30% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (10; 6% instances).
 
 
 ~~~ conllu
@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 3	使	使	VERB	v,動詞,行為,使役	_	0	root	_	Gloss=[make-to-do]|SpaceAfter=No
 4	閔	閔	PROPN	n,名詞,人,姓氏	NameType=Sur	3	obj	_	Gloss=[surname]|SpaceAfter=No
 5	子騫	子騫	PROPN	n,名詞,人,名	NameType=Giv	4	flat	_	Gloss=[given-name]|SpaceAfter=No
-6	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	8	cop	_	Gloss=be|SpaceAfter=No
+6	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	8	cop	_	Gloss=be|SpaceAfter=No
 7	費	費	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	8	nmod	_	Gloss=[place-name]|SpaceAfter=No
 8	宰	宰	NOUN	n,名詞,人,役割	_	3	xcomp	_	Gloss=minister|SpaceAfter=No
 

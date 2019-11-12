@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="orv_rnc-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-38 nodes (0%) are attached to their parents as `nummod`.
+70 nodes (0%) are attached to their parents as `nummod`.
 
-36 instances of `nummod` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23684210526316.
+67 instances of `nummod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15714285714286.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (34; 89% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2; 5% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (66; 94% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	ж	жъ	PART	_	_	1	advmod	_	_
 3	на	на	ADP	_	_	5	case	_	_
 4	обѣ	оба	NUM	_	Case=Acc|Gender=Fem	5	nummod	_	_
-5	сторонѣ	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Dual	1	obl	_	SpaceAfter=No
+5	сторонѣ	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	1	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	твоимъ	твой	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes	2	det	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
 5	како	како	ADV	_	Degree=Pos	6	advmod	_	_
-6	пошло	пойти	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes	9	advcl	_	SpaceAfter=No
+6	пошло	поити	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes	9	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	погонъ	погонъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
 9	имати	имати	VERB	_	Aspect=Imp|VerbForm=Inf	0	root	_	SpaceAfter=No
@@ -53,14 +53,14 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 12	князя	князь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	orphan	_	_
 13	по	по	ADP	_	_	15	case	_	_
 14	5	5	NUM	_	Case=Acc	15	nummod:gov	_	_
-15	кунъ	куна	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	8	appos	_	SpaceAfter=No
+15	кунъ	куна	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	8	parataxis	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	22	punct	_	_
 17	а	а	CCONJ	_	_	22	cc	_	_
 18	от	отъ	ADP	_	_	19	case	_	_
 19	тиуна	тиунъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	22	orphan	_	_
 20	по	по	ADP	_	_	22	case	_	_
 21	двѣ	два	NUM	_	Case=Acc|Gender=Fem	22	nummod	_	_
-22	дългѣи	долгий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Dual|Variant=Long	15	conj	_	SpaceAfter=No
+22	дългѣи	долгий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Adnum|Variant=Long	15	conj	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
@@ -89,14 +89,14 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 15	своихъ	свой	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Poss=Yes	18	det	_	_
 16	государевыхъ	государевъ	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	18	amod	_	_
 17	ратныхъ	ратный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	18	amod	_	_
-18	людей	людие/люди/человѣкъ$	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
+18	людей	человѣкъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	21	punct	_	_
 20	и	и	CCONJ	_	_	21	cc	_	_
 21	надобно	надобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	conj	_	_
 22	де	де	PART	_	_	21	advmod	_	_
 23	послати	послати	VERB	_	Aspect=Perf|VerbForm=Inf	21	csubj	_	_
 24	ратныхъ	ратный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	25	amod	_	_
-25	людей	людие/люди/человѣкъ$	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	23	obj	_	_
+25	людей	человѣкъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	23	obj	_	_
 26	тысячь	тысяча	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	25	nummod	_	_
 27	съ	съ	ADP	_	_	28	case	_	_
 28	шесть	шесть	NUM	_	Case=Acc	26	nummod	_	SpaceAfter=No

@@ -11,9 +11,9 @@ This relation is universal.
 1550 nodes (10%) are attached to their parents as `root`.
 
 1550 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.52516129032258.
+Average distance between parent and child is 3.52.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1219; 79% instances), -<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (133; 9% instances), -<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (61; 4% instances), -<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (41; 3% instances), -<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (34; 2% instances), -<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (23; 1% instances), -<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (21; 1% instances), -<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (6; 0% instances), -<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), -<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1218; 79% instances), -<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (134; 9% instances), -<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (61; 4% instances), -<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (41; 3% instances), -<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (34; 2% instances), -<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (23; 1% instances), -<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (21; 1% instances), -<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (6; 0% instances), -<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), -<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

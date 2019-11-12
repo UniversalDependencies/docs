@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-5237 tokens (11%) have a non-empty value of `Tense`.
-1295 types (19%) occur at least once with a non-empty value of `Tense`.
-816 lemmas (15%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (3123; 6% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2114; 4% instances).
+5236 tokens (11%) have a non-empty value of `Tense`.
+1294 types (19%) occur at least once with a non-empty value of `Tense`.
+815 lemmas (15%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (3123; 6% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2113; 4% instances).
 
 ### `VERB`
 
 3123 <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> tokens (66% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_partut-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1902; 61%), <tt><a href="en_partut-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1885; 60%), <tt><a href="en_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1693; 54%), <tt><a href="en_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1647; 53%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_partut-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1901; 61%), <tt><a href="en_partut-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1885; 60%), <tt><a href="en_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1693; 54%), <tt><a href="en_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1647; 53%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (1822; 58% of non-empty `Tense`): <em>made, given, wrote, based, taken, had, used, adopted, published, provided</em>
 * `Pres` (1301; 42% of non-empty `Tense`): <em>is, has, have, know, are, believe, including, need, think, makes</em>
-* `EMPTY` (1604): <em>like, make, take, have, ensure, do, see, ask, be, continue</em>
+* `EMPTY` (1605): <em>like, make, take, have, ensure, do, see, ask, be, continue</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -38,14 +38,14 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-2114 <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Tense`.
+2113 <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1998; 95%), <tt><a href="en_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1974; 93%), <tt><a href="en_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (1531; 72%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1997; 95%), <tt><a href="en_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1973; 93%), <tt><a href="en_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (1530; 72%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Past` (704; 33% of non-empty `Tense`): <em>was, would, should, been, were, had, could, did, might, 'd</em>
-* `Pres` (1410; 67% of non-empty `Tense`): <em>is, are, has, have, can, will, shall, may, do, must</em>
+* `Pres` (1409; 67% of non-empty `Tense`): <em>is, are, has, have, can, will, shall, may, do, must</em>
 * `EMPTY` (320): <em>be, have, being, having, shall, can</em>
 
 <table>

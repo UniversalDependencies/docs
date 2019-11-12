@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="fr_gsd-pos-ADV.html
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (2791; 100% of non-empty `Polarity`): <em>pas, n', ne, plus, jamais, non, qu', point, guère, nullement</em>
-* `EMPTY` (12599): <em>plus, très, aussi, où, ainsi, alors, bien, également, lors, puis</em>
+* `EMPTY` (12592): <em>plus, très, aussi, où, ainsi, alors, bien, également, lors, puis</em>
 
 ### `DET`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (108; 100% of non-empty `Polarity`): <em>aucun, aucune, No, Nul</em>
-* `EMPTY` (61099): <em>le, la, les, l', un, une, des, son, sa, cette</em>
+* `EMPTY` (61157): <em>le, la, les, l', un, une, des, son, sa, cette</em>
 
 ### `PRON`
 
@@ -43,10 +43,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (10; 100% of non-empty `Polarity`): <em>rien, aucun</em>
-* `EMPTY` (17778): <em>il, qui, se, s', elle, on, c', y, ils, lui</em>
-
-## Relations with Agreement in `Polarity`
-
-The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>ADV --[<tt><a href="fr_gsd-dep-obl-arg.html">obl:arg</a></tt>]--> ADV</tt> (1; 100%).
+* `EMPTY` (17772): <em>il, qui, se, s', elle, on, c', y, ils, lui</em>
 

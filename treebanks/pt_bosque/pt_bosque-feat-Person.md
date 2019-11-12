@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-18593 tokens (8%) have a non-empty value of `Person`.
-4324 types (17%) occur at least once with a non-empty value of `Person`.
-1336 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (10770; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5399; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (2422; 1% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+18612 tokens (8%) have a non-empty value of `Person`.
+4327 types (17%) occur at least once with a non-empty value of `Person`.
+1341 lemmas (7%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (12006; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4179; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (2427; 1% instances).
 
 ### `VERB`
 
-10770 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Person`.
+12006 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10769; 100%), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10489; 97%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9668; 90%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8208; 76%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12005; 100%), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11706; 98%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10732; 89%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9102; 76%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6107; 51%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (670; 6% of non-empty `Person`): <em>sei, tenho, acho, temos, espero, penso, queremos, quero, acredito, creio</em>
+* `1` (744; 6% of non-empty `Person`): <em>temos, sei, tenho, acho, podemos, espero, penso, queremos, quero, acredito</em>
 * `2` (16; 0% of non-empty `Person`): <em>move, Compreendeste, Criaste, Olha, Rodeaste, Roubarás, Roubaste, Saiba, chamais, chega</em>
-* `3` (10084; 94% of non-empty `Person`): <em>há, tem, disse, diz, é, fez, afirmou, foi, têm, faz</em>
-* `EMPTY` (8575): <em>fazer, ter, ver, dar, feito, dizer, falar, feita, manter, saber</em>
+* `3` (11246; 94% of non-empty `Person`): <em>tem, há, disse, pode, diz, é, deve, está, fez, têm</em>
+* `EMPTY` (8785): <em>fazer, ter, ver, dar, feito, dizer, partir, falar, feita, manter</em>
 
 <table>
   <tr><th>Paradigm <i>ver</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -49,16 +49,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-5399 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Person`.
+4179 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5290; 98%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4789; 89%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4017; 74%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3167; 59%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4088; 98%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3739; 89%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3136; 75%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2435; 58%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (228; 4% of non-empty `Person`): <em>estamos, estou, fui, vamos, podemos, somos, sou, vou, tenho, temos</em>
+* `1` (155; 4% of non-empty `Person`): <em>estamos, fui, estou, vamos, somos, sou, vou, tenho, estava, tinha</em>
 * `2` (4; 0% of non-empty `Person`): <em>Sê, vais</em>
-* `3` (5167; 96% of non-empty `Person`): <em>é, foi, são, está, foram, vai, pode, era, estão, tem</em>
-* `EMPTY` (910): <em>ser, ter, sido, estar, sendo, tendo, vir, continuar, vindo, poder</em>
+* `3` (4020; 96% of non-empty `Person`): <em>é, foi, são, está, foram, vai, era, será, estão, tem</em>
+* `EMPTY` (831): <em>ser, ter, sido, sendo, estar, é, tendo, estando, ir, estado</em>
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -89,16 +89,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-2422 <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> tokens (33% of all `PRON` tokens) have a non-empty value of `Person`.
+2427 <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> tokens (33% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2421; 100%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1747; 72%), <tt><a href="pt_bosque-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1462; 60%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1457; 60%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2425; 100%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1751; 72%), <tt><a href="pt_bosque-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1464; 60%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1458; 60%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (314; 13% of non-empty `Person`): <em>eu, me, nos, nós, mim, nosco</em>
+* `1` (316; 13% of non-empty `Person`): <em>eu, me, nos, nós, mim, nosco, si</em>
 * `2` (9; 0% of non-empty `Person`): <em>te, ti, vos, vós</em>
-* `3` (2099; 87% of non-empty `Person`): <em>se, ele, lhe, o, eles, ela, a, elas, você, lo</em>
-* `EMPTY` (4867): <em>que, o, se, isso, quem, tudo, isto, nada, os, a</em>
+* `3` (2102; 87% of non-empty `Person`): <em>se, ele, lhe, o, eles, ela, a, elas, você, lo</em>
+* `EMPTY` (5039): <em>que, o, se, isso, onde, quem, tudo, os, isto, nada</em>
 
 <table>
   <tr><th>Paradigm <i>nós</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -113,36 +113,15 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Unsp</tt></tt></td><td><em>nós</em></td><td></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `PRON`. 92% lemmas (12) occur only with one value of `Person`.
-
-### `INTJ`
-
-1 <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> tokens (3% of all `INTJ` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `INTJ` and `Person` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
-
-`INTJ` tokens may have the following values of `Person`:
-
-* `3` (1; 100% of non-empty `Person`): <em>viu</em>
-* `EMPTY` (37): <em>Rarará, não, é, Adeus, Ah, Ai, Alô, BINGO, Deus, Droga</em>
-
-### `SCONJ`
-
-1 <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Person`.
-
-`SCONJ` tokens may have the following values of `Person`:
-
-* `3` (1; 100% of non-empty `Person`): <em>se</em>
-* `EMPTY` (2230): <em>que, se, porque, embora, pois, como, caso, quando, Mesmo, Senão</em>
-
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (723; 69%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-expl.html">expl</a></tt>]--> PRON</tt> (709; 75%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (172; 52%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (802; 74%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-expl.html">expl</a></tt>]--> PRON</tt> (722; 75%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (534; 53%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (206; 60%),
+<tt>AUX --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 100%),
 <tt>PRON --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 60%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 100%),
-<tt>AUX --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>PRON --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> PRON</tt> (1; 100%).
 

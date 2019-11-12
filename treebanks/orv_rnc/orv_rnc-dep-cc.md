@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1461 nodes (10%) are attached to their parents as `cc`.
+1777 nodes (9%) are attached to their parents as `cc`.
 
-1461 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.15126625598905.
+1777 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.27462014631401.
 
-The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (733; 50% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (484; 33% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (140; 10% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (54; 4% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (25; 2% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (17; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (969; 55% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (525; 30% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (159; 9% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (65; 4% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (26; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (21; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,12 +45,12 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="o
 1	Отдал	отдати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	0	root	_	_
 2	грамотку	грамотка	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
 3	члвкъ	человѣкъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-4	Семѣна	Семѣнъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+4	Семѣна	Семенъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 5	Базлова	Базловъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	_
-6	Ѳедотко	Ѳедотко	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+6	Ѳедотко	Федотко	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
 7	і	и	CCONJ	_	_	8	cc	_	_
 8	полтину	полтина	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	conj	_	_
-9	денегъ	денги	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+9	денегъ	деньги	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
 
 ~~~
 
@@ -64,13 +64,13 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="o
 1	А	а	CCONJ	_	_	9	cc	_	_
 2	о	о	ADP	_	_	3	case	_	_
 3	чем	что	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	5	obl	_	_
-4	сѧ	ся	AUX	_	Analyt=Yes	5	aux	_	_
+4	сѧ	ся	PRON	_	Analyt=Yes	5	expl:pv	_	_
 5	сопрꙋт	сперетися	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin	9	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	ино	ино	CCONJ	_	_	9	cc	_	_
 8	им	они	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	iobj	_	_
 9	трети	третий	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-10	ѡ[те]ць	отець	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+10	ѡ[те]ць	отецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
 11	наш	нашъ	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes	10	det	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
 13	митрополит	митрополитъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	SpaceAfter=No

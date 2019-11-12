@@ -22,7 +22,7 @@ The following 4 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 13 advcl:cleft	color:blue
-1	C'	ce	PRON	_	Number=Sing|Person=3	5	nsubj	_	SpaceAfter=No
+1	C'	ce	PRON	_	Number=Sing|Person=3	5	expl:subj	_	SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	dans	dans	ADP	_	_	5	case	_	_
 4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -33,7 +33,7 @@ The following 4 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
 10	élèves	élève	NOUN	_	Number=Plur	13	nsubj	_	_
 11	apprentis-acteurs	apprenti-acteur	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	_
-12	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux:tense	_	_
 13	joué	jouer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl:cleft	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -46,7 +46,7 @@ The following 4 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 advcl:cleft	color:blue
-1	C'	ce	PRON	_	Number=Sing|Person=3	3	nsubj	_	SpaceAfter=No
+1	C'	ce	PRON	_	Number=Sing|Person=3	3	expl:subj	_	SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	Renaud	Renaud	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	van	van	X	_	_	3	dep	_	_
@@ -57,7 +57,7 @@ The following 4 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 9	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
 10	dossier	dossier	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
 11	qui	qui	PRON	_	PronType=Rel	13	nsubj	_	_
-12	s'	se	PRON	_	Person=3|Reflex=Yes	13	expl	_	SpaceAfter=No
+12	s'	se	PRON	_	Person=3|Reflex=Yes	13	expl:pass	_	SpaceAfter=No
 13	enlisera	enliser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	acl:relcl	_	_
 14	dans	dans	ADP	_	_	16	case	_	_
 15	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
@@ -81,7 +81,7 @@ The following 4 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 2	être	être	AUX	_	VerbForm=Inf	3	cop	_	_
 3	précis	précis	ADJ	_	Gender=Masc	7	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
-5	c'	ce	PRON	_	Number=Sing|Person=3	7	nsubj	_	SpaceAfter=No
+5	c'	ce	PRON	_	Number=Sing|Person=3	7	expl:subj	_	SpaceAfter=No
 6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	autour	autour	ADV	_	_	0	root	_	_
 8	de	de	ADP	_	_	9	case	_	_
@@ -93,7 +93,7 @@ The following 4 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 14	aviculture	aviculture	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
 15	de	de	ADP	_	_	16	case	_	_
 16	Belfort	Belfort	PROPN	_	Gender=Masc|Number=Sing	14	nmod	_	_
-17	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+17	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux:tense	_	_
 18	vraiment	vraiment	ADV	_	_	19	advmod	_	_
 19	pris	prendre	VERB	_	Gender=Masc|Tense=Past|VerbForm=Part	7	advcl:cleft	_	_
 20	sa	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes	22	det	_	_

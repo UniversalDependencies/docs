@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Johannes Heinecke, Francis Tyers.
 
 Repository: [UD_Welsh-CCG](https://github.com/UniversalDependencies/UD_Welsh-CCG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcy_ccg22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcy_ccg25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 4.0
 
@@ -58,6 +58,21 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 
 ## Acknowledgments
 
+If you use this treebank in your work, please cite:
+
+```
+@inproceedings{heinecke2019,
+author = {Heinecke, Johannes and Tyers, Francis M.},
+title = {{Development of a Universal Dependencies treebank for Welsh}},
+year = {2019},
+booktitle = {{Proceedings of the Celtic Language Technology Workshop}},
+publisher = {European Association for Machine Translation},
+address = {Dublin},
+pages = {21--31},
+url = {https://www.aclweb.org/anthology/W19-6904},
+}
+```
+
 
 # Statistics of UD Welsh CCG
 
@@ -71,17 +86,17 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 
 ## Relations
 
-[acl](cy_ccg-dep-acl.html) – [acl:relcl](cy_ccg-dep-acl-relcl.html) – [advcl](cy_ccg-dep-advcl.html) – [advmod](cy_ccg-dep-advmod.html) – [amod](cy_ccg-dep-amod.html) – [appos](cy_ccg-dep-appos.html) – [aux](cy_ccg-dep-aux.html) – [case](cy_ccg-dep-case.html) – [case:pred](cy_ccg-dep-case-pred.html) – [cc](cy_ccg-dep-cc.html) – [ccomp](cy_ccg-dep-ccomp.html) – [compound](cy_ccg-dep-compound.html) – [conj](cy_ccg-dep-conj.html) – [cop](cy_ccg-dep-cop.html) – [csubj](cy_ccg-dep-csubj.html) – [det](cy_ccg-dep-det.html) – [expl](cy_ccg-dep-expl.html) – [fixed](cy_ccg-dep-fixed.html) – [flat](cy_ccg-dep-flat.html) – [flat:name](cy_ccg-dep-flat-name.html) – [iobj](cy_ccg-dep-iobj.html) – [mark](cy_ccg-dep-mark.html) – [nmod](cy_ccg-dep-nmod.html) – [nmod:agent](cy_ccg-dep-nmod-agent.html) – [nmod:poss](cy_ccg-dep-nmod-poss.html) – [nsubj](cy_ccg-dep-nsubj.html) – [nummod](cy_ccg-dep-nummod.html) – [obj](cy_ccg-dep-obj.html) – [obl](cy_ccg-dep-obl.html) – [obl:agent](cy_ccg-dep-obl-agent.html) – [parataxis](cy_ccg-dep-parataxis.html) – [punct](cy_ccg-dep-punct.html) – [root](cy_ccg-dep-root.html) – [xcomp](cy_ccg-dep-xcomp.html)
+[acl](cy_ccg-dep-acl.html) – [acl:relcl](cy_ccg-dep-acl-relcl.html) – [advcl](cy_ccg-dep-advcl.html) – [advmod](cy_ccg-dep-advmod.html) – [amod](cy_ccg-dep-amod.html) – [appos](cy_ccg-dep-appos.html) – [aux](cy_ccg-dep-aux.html) – [case](cy_ccg-dep-case.html) – [case:pred](cy_ccg-dep-case-pred.html) – [cc](cy_ccg-dep-cc.html) – [ccomp](cy_ccg-dep-ccomp.html) – [compound](cy_ccg-dep-compound.html) – [conj](cy_ccg-dep-conj.html) – [cop](cy_ccg-dep-cop.html) – [csubj](cy_ccg-dep-csubj.html) – [det](cy_ccg-dep-det.html) – [discourse](cy_ccg-dep-discourse.html) – [expl](cy_ccg-dep-expl.html) – [fixed](cy_ccg-dep-fixed.html) – [flat](cy_ccg-dep-flat.html) – [flat:name](cy_ccg-dep-flat-name.html) – [iobj](cy_ccg-dep-iobj.html) – [mark](cy_ccg-dep-mark.html) – [nmod](cy_ccg-dep-nmod.html) – [nmod:agent](cy_ccg-dep-nmod-agent.html) – [nmod:poss](cy_ccg-dep-nmod-poss.html) – [nsubj](cy_ccg-dep-nsubj.html) – [nummod](cy_ccg-dep-nummod.html) – [obj](cy_ccg-dep-obj.html) – [obl](cy_ccg-dep-obl.html) – [obl:agent](cy_ccg-dep-obl-agent.html) – [parataxis](cy_ccg-dep-parataxis.html) – [punct](cy_ccg-dep-punct.html) – [root](cy_ccg-dep-root.html) – [xcomp](cy_ccg-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 601 sentences, 10568 tokens and 10662 syntactic words.</li>
+<li>This corpus contains 956 sentences, 16820 tokens and 16989 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1541 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 2468 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -89,12 +104,12 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 </ul>
 
 <ul>
-<li>This corpus contains 28 types of words that contain both letters and punctuation. Examples: 'r, 'n, 'i, 'w, 'u, 'ch, 'm, budd-daliadau, de-ddwyrain, pêl-droed, 'cello, 'ma, Eingl-Sacsoniaid, Is-gangellor, Noord-Holland, ad-unwyd, ar-lein, cam-drin, cyd-destunau, d', ddad-dreiglo, ddi-waith, de-orllewin, di-ben-draw, e-bost, hanner-brawd, hunan-bwysig, n-Og</li>
+<li>This corpus contains 39 types of words that contain both letters and punctuation. Examples: 'r, 'n, 'i, 'w, 'u, 'ch, 'm, ar-lein, de-ddwyrain, Is-Ganghellor, budd-daliadau, e-bost, pêl-droed, 'cello, 'ma, Budd-dal, Eingl-Sacsoniaid, Is-gangellor, Mhen-y-bont, Noord-Holland, Pen-y-bont, Wi-Fi, ad-unwyd, cam-drin, chrysau-T, chyd-aelodau, cyd-destunau, d', ddad-dreiglo, ddi-guro, ddi-waith, de-orllewin, di-ben-draw, hanner-brawd, hunan-bwysig, n-Og, ry'n, ‘Steddfod, ‘ma</li>
 </ul>
 
 <ul>
-<li>This corpus contains 94 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 19 types of multi-word tokens. Examples: roedd, rydym, rwy, Rydw, Roeddwn, dydw, Dydy, Rwyt, does, dyw, roeddech, Doedd, Roeddet, dydi, dydych, rydych, Rwyf, Rydan, Rydyn.</li>
+<li>This corpus contains 168 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+<li>There are 27 types of multi-word tokens. Examples: roedd, rydw, rydym, rwy, does, Roeddwn, dydw, dydych, rydych, Doedd, Dydy, Rwyt, Rydyn, dwi, roeddech, rydan, Roeddet, Rwi, dyw, rwyf, Dydyn, Roedden, dydi, Doeddech, Dwyt, Roeddem, Rydwi.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -107,15 +122,15 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 </ul>
 
 <ul>
-<li>This corpus contains 13 word types tagged as particles (PART): 'n, A, ddim, fe, mi, mo, na, nad, ni, nid, y, yn, yr</li>
+<li>This corpus contains 15 word types tagged as particles (PART): 'n, A, Nac, ddim, fe, mi, mo, na, nad, ni, nid, r, y, yn, yr</li>
 </ul>
 
 <ul>
-<li>This corpus contains 33 lemmas tagged as pronouns (PRON): Cwrteisi, a, chi, ci, dy, e, ei, eich, ein, eu, fe, fy, hi, hon, hun, hunan, hwn, hwnnw, hwy, hyn, hynny, i, int, mi, neb, ni, ninnau, pawb, pwy, rhai, rhain, sawl, ti</li>
+<li>This corpus contains 32 lemmas tagged as pronouns (PRON): Cwrteisi, a, chi, ci, dy, e, ei, eich, ein, eu, fe, fy, hi, hon, hun, hwn, hwnnw, hwy, hyn, hynny, i, innau, mi, neb, ni, ninnau, pawb, pwy, rhai, rhain, sawl, ti</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as determiners (DET): Rufeinwyr, y, yn</li>
+<li>This corpus contains 4 lemmas tagged as determiners (DET): Rufeinwyr, The, y, yn</li>
 </ul>
 
 <ul>
@@ -137,9 +152,10 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
   <li>Vnoun
   <ul>
     <li>ADJ: cynddrwg, farw, sal</li>
+    <li>ADP: ynddo</li>
     <li>ADV: eleni</li>
-    <li>AUX: bod, fod, mod</li>
-    <li>NOUN: bod, cael, dod, gael, ddod, wneud, canu, fod, fynd, mynd</li>
+    <li>AUX: fod, bod, mod</li>
+    <li>NOUN: bod, cael, fod, dod, gael, wneud, ddod, fynd, mynd, canu</li>
     <li>PRON: rhain</li>
     <li>PROPN: Ffestiniog, Arfon, H, Llanhari</li>
   </ul>
@@ -156,12 +172,12 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: leol, Saesneg, drydedd, falch, fechan, gyflawn, Werdd, ariannol, cenedlaethol, chwyldroadol</li>
-      <li>ADP: arni, ati, amdani, ganddi, iddi, rhagddi, wrthi</li>
-      <li>NOUN: ysgol, iaith, Eisteddfod, Gymraeg, sir, ystod, rhan, wythnos, addysg, gymdeithas</li>
-      <li>NUM: tair, ddwy, dwy, bedair, filiwn, pedair, thair</li>
+      <li>ADJ: leol, ariannol, fechan, Saesneg, drydedd, falch, gref, gyflawn, Chernyweg, Gymraeg</li>
+      <li>ADP: arni, ati, ganddi, iddi, wrthi, amdani, ohoni, rhagddi, ynddi</li>
+      <li>NOUN: iaith, ysgol, sir, Gymraeg, Eisteddfod, rhan, addysg, ystod, bobl, wythnos</li>
+      <li>NUM: tair, ddwy, dwy, pedair, bedair, filiwn, thair</li>
       <li>PRON: hi, ei, hon, 'i</li>
-      <li>PROPN: Cymru, Nghymru, Gymru, Ffrainc, Gwynedd, Loegr, Afon, Arfon, Bwchadanas, Coed</li>
+      <li>PROPN: Cymru, Nghymru, Gymru, Gwynedd, Eisteddfod, Faner, Ffrainc, Loegr, Urdd, Wladfa</li>
       <li>VERB: Adawes</li>
     </ul>
   </li>
@@ -170,17 +186,22 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: brif, unrhyw, arbennig, bach, Dirprwy, Du, Llithrig, academaidd, arbenigol, diweddar</li>
-      <li>ADP: iddo, ganddo, amdano, wrtho, ymhlith</li>
-      <li>ADV: Heddiw, dim, felly</li>
+      <li>ADJ: unrhyw, arbennig, bach, brif, arbenigol, ddiweddar, gyflym, academaidd, braf, ddiolchgar</li>
+      <li>ADP: iddo, ganddo, amdano, Ganddyn, arno, gerbron, i, ohonyn, than, trwyddo</li>
+      <li>ADP-Vnoun: ynddo</li>
+      <li>ADV: byth, Heddiw, dim, felly, lle</li>
       <li>CCONJ: megis</li>
-      <li>NOUN: ôl, gwaith, rhaid, plant, cyngor, disgyblion, nifer, byd, mwyn, amser</li>
+      <li>DET: The</li>
+      <li>NOUN: ôl, cyngor, gwaith, nifer, rhaid, plant, mwyn, hanes, gyfer, angen</li>
       <li>NOUN-Vnoun: teledu</li>
-      <li>NUM: dau, ddau, deg</li>
+      <li>NUM: dau, ddau, bedwar, bymtheg, ddeuddeg, deg, hugain, pedwar</li>
       <li>PART: ddim</li>
-      <li>PRON: ei, o, hwn, 'i, e, ef, hwnnw, fo, 'w, Cwrteisi</li>
-      <li>PROPN: Gwynedd, Môn, Steffan, Cellb, Mlaenau, Ngwynedd, Powell, Évian, Bay, Bernard</li>
+      <li>PRON: ei, 'i, o, hwn, e, ef, hwnnw, fo, 'w, neb</li>
+      <li>PROPN: Gwynedd, Môn, Ubuntu, BBC, Mlaenau, Steffan, Cellb, DU, Gerallt, Hughes</li>
+      <li>PUNCT: -</li>
       <li>SCONJ: mai</li>
+      <li>SYM: £</li>
+      <li>VERB: Annogir, cheir, cysylltir</li>
     </ul>
   </li>
 </ul>
@@ -193,13 +214,13 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: eraill, arbenigol, cryfion, llai, prysuraf</li>
-      <li>ADP: ichi, gennych, ohonom, arnoch, arnom, ganddynt, atoch, gennym, iddyn, wrthon</li>
-      <li>AUX: ydych, Byddwch, buoch, ydym</li>
-      <li>NOUN: plant, disgyblion, myfyrwyr, aelodau, blynyddoedd, siaradwyr, ysgolion, 1970au, Cymry, Saeson</li>
-      <li>PRON: chi, eu, eich, hyn, ni, ein, nhw, 'w, hynny, 'u</li>
-      <li>PROPN: Cymry, Pryderi, Wyn, Gaerdydd, Llangefni</li>
-      <li>VERB: ydych, ydym, cewch, dewch, maen, Peidiwch, wnewch, allwch, ewch, gallwch</li>
+      <li>ADJ: eraill, arbenigol, cryfion, gwledig, llai, prysuraf</li>
+      <li>ADP: gennym, ichi, arnom, gennych, ohonom, arnoch, ganddynt, iddyn, Ganddyn, arnyn</li>
+      <li>AUX: ydych, Byddwch, buoch, ydym, oeddech</li>
+      <li>NOUN: plant, ysgolion, disgyblion, myfyrwyr, Cymry, aelodau, blynyddoedd, geiriau, ardaloedd, blant</li>
+      <li>PRON: chi, eu, ni, eich, hyn, nhw, ein, hynny, 'u, 'w</li>
+      <li>PROPN: Cymry, Llangefni, Pryderi, Wyn, Gaerdydd</li>
+      <li>VERB: ydych, ydym, maen, ydyn, dewch, cewch, gallwch, Peidiwch, oeddech, wnewch</li>
     </ul>
   </li>
 </ul>
@@ -207,24 +228,28 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: brif, leol, unrhyw, arbennig, ardderchog, bach, Dirprwy, Du, Llithrig, Saesneg</li>
+      <li>ADJ: leol, unrhyw, barod, arbennig, bach, brif, Gymreig, ddiweddar, gyflym, academaidd</li>
       <li>ADJ-Vnoun: cynddrwg, farw, sal</li>
-      <li>ADP: iddo, arni, ganddo, arnaf, ati, gennyf, amdani, amdano, ganddi, gennyt</li>
-      <li>ADV: eleni, Heddiw, dim, felly</li>
+      <li>ADP: iddo, ganddo, arni, ati, ganddi, iddi, wrthi, amdani, amdano, arnaf</li>
+      <li>ADP-Vnoun: ynddo</li>
+      <li>ADV: byth, eleni, Heddiw, dim, felly, lle</li>
       <li>ADV-Vnoun: eleni</li>
-      <li>AUX: mae, yw, oedd, bod, fod, sy, oes, ydy, bu, bydd</li>
-      <li>AUX-Vnoun: bod, fod, mod</li>
+      <li>AUX: mae, yw, oedd, fod, bod, oes, sy, bu, sydd, ydy</li>
+      <li>AUX-Vnoun: fod, bod, mod</li>
       <li>CCONJ: megis</li>
-      <li>NOUN: bod, ôl, ysgol, iaith, cael, dod, gael, gwaith, Eisteddfod, Gymraeg</li>
-      <li>NOUN-Vnoun: bod, cael, dod, gael, ddod, wneud, canu, fod, fynd, mynd</li>
-      <li>NUM: deg, filiwn, pedair</li>
+      <li>DET: The</li>
+      <li>NOUN: bod, cael, ôl, iaith, fod, dod, ysgol, cyngor, gwaith, sir</li>
+      <li>NOUN-Vnoun: bod, cael, fod, dod, gael, wneud, ddod, fynd, mynd, canu</li>
+      <li>NUM: pedair, 1774, 1830, filiwn, bedwar, bymtheg, ddeuddeg, deg, hugain, pedwar</li>
       <li>PART: ddim</li>
-      <li>PRON: ei, hi, i, fy, 'i, o, ti, fi, e, ef</li>
+      <li>PRON: ei, i, hi, fy, ti, 'i, o, e, fi, ef</li>
       <li>PRON-Vnoun: rhain</li>
-      <li>PROPN: Cymru, Nghymru, Bangor, Gymru, Gwynedd, Ffestiniog, Môn, Steffan, Arfon, Ariannin</li>
+      <li>PROPN: Cymru, Bangor, Nghymru, Gwynedd, Gymru, Môn, Ffestiniog, Ubuntu, BBC, Mlaenau</li>
       <li>PROPN-Vnoun: Ffestiniog, Arfon, H, Llanhari</li>
+      <li>PUNCT: -</li>
       <li>SCONJ: mai</li>
-      <li>VERB: mae, oedd, sy, bydd, sydd, cafodd, fydd, aeth, byddai, ydw</li>
+      <li>SYM: £</li>
+      <li>VERB: mae, sy, oedd, bydd, sydd, ydw, fydd, cafodd, byddai, aeth</li>
     </ul>
   </li>
 </ul>
@@ -242,7 +267,7 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: mwy, fwy, well, uwch, amlach, bellach, ehangach, arafach, cynharach, harddach</li>
+      <li>ADJ: mwy, fwy, well, uwch, amlach, bellach, ehangach, arafach, cynharach, gwell</li>
     </ul>
   </li>
 </ul>
@@ -250,7 +275,7 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Equ
     <ul>
-      <li>ADJ: cystal, galed, rhated, trydded, belled, gryfed, gynted</li>
+      <li>ADJ: ogystal, cystal, galed, rhated, trydded, belled, gryfed, gynted</li>
     </ul>
   </li>
 </ul>
@@ -258,7 +283,7 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: Cymraeg, lleol, newydd, Gymraeg, hen, unig, bob, holl, mawr, prif</li>
+      <li>ADJ: newydd, Cymraeg, lleol, holl, hen, ifanc, Gymraeg, bob, mawr, prif</li>
       <li>ADJ-Vnoun: cynddrwg, farw, sal</li>
     </ul>
   </li>
@@ -267,7 +292,7 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: cyntaf, uchaf, fwyaf, nesaf, gorau, mwyaf, amlycaf, diwethaf, bennaf, eithaf</li>
+      <li>ADJ: cyntaf, nesaf, uchaf, mwyaf, gorau, fwyaf, diwethaf, olaf, amlycaf, enwocaf</li>
     </ul>
   </li>
 </ul>
@@ -285,7 +310,8 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Cnd
     <ul>
-      <li>VERB: byddai, adnabyddid</li>
+      <li>AUX: byddai</li>
+      <li>VERB: byddai, allai, ddylai, dylai, Gallai, adnabyddid, byddech, dylem, Dymunai, Hoffai</li>
     </ul>
   </li>
 </ul>
@@ -293,7 +319,17 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: Paid, Ceisiwch, Credwch, Cymerwch, Ewch, Ildiwch, Peidiwch, dewch, ystyriwch</li>
+      <li>VERB: Peidiwch, dewch, Edrychwn, Paid, cofiwch, cysylltwch, ewch, gallwn, Ceisiwch, Credwch</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADJ: nes</li>
+      <li>AUX: mae, yw, oedd, oes, sy, bu, ydych, sydd, ydy, bydd</li>
+      <li>VERB: mae, sy, oedd, bydd, sydd, ydw, ydych, ydym, fydd, cafodd</li>
     </ul>
   </li>
 </ul>
@@ -301,7 +337,8 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Sub
     <ul>
-      <li>VERB: fo</li>
+      <li>AUX: baech</li>
+      <li>VERB: fo, Gweler, sylwer</li>
     </ul>
   </li>
 </ul>
@@ -313,8 +350,8 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: bydd, fydd, Byddwch, byddant</li>
-      <li>VERB: bydd, fydd, caiff, cewch, gall, welir, daw, dewch, wnewch, Peidiwch</li>
+      <li>AUX: bydd, fydd, Byddaf, Byddwch, Byddan, Byddi, bydda, byddant</li>
+      <li>VERB: bydd, fydd, gall, caiff, gellir, ddaw, gallwch, cewch, daw, welir</li>
     </ul>
   </li>
 </ul>
@@ -322,8 +359,8 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: oedd, Oeddet, oeddech, oeddwn</li>
-      <li>VERB: oedd, byddai, meddai, oeddwn, dylai, Gallai, allai, allwn, ddylai, dylem</li>
+      <li>AUX: oedd, byddai, Oeddet, oeddech, oeddwn</li>
+      <li>VERB: oedd, byddai, meddai, oeddwn, allai, oeddech, oeddet, ddylai, dylai, Gallai</li>
     </ul>
   </li>
 </ul>
@@ -331,8 +368,9 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Past
     <ul>
-      <li>AUX: bu, Buodd, buoch, fu</li>
-      <li>VERB: cafodd, aeth, ddaeth, dywedodd, sefydlwyd, Gwelais, daeth, ddechreuodd, dechreuodd, enillodd</li>
+      <li>ADJ: nes</li>
+      <li>AUX: bu, Buodd, buoch, fu, Bûm</li>
+      <li>VERB: cafodd, aeth, ddaeth, dywedodd, gafodd, bu, daeth, wnaeth, ddechreuodd, es</li>
     </ul>
   </li>
 </ul>
@@ -341,7 +379,7 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
   <li>Pqp
     <ul>
       <li>AUX: baswn</li>
-      <li>VERB: Basai, Fasai, baswn</li>
+      <li>VERB: baswn, Basai, Fasai, Gallasai</li>
     </ul>
   </li>
 </ul>
@@ -349,8 +387,9 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: mae, yw, sy, oes, ydy, sydd, ydych, wyt, ydw, dw</li>
-      <li>VERB: mae, sy, sydd, ydych, ydym, ydw, wy, oes, maen, yw</li>
+      <li>AUX: mae, yw, oes, sy, ydych, sydd, ydy, dw, ydw, wyt</li>
+      <li>PRON: i</li>
+      <li>VERB: mae, sy, sydd, ydw, ydych, ydym, maen, ydyn, wy, wyt</li>
     </ul>
   </li>
 </ul>
@@ -367,7 +406,7 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Contrastive
     <ul>
-      <li>PRON: ninnau</li>
+      <li>PRON: ninnau, innau</li>
     </ul>
   </li>
 </ul>
@@ -400,7 +439,7 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: ei, hi, chi, eu, eich, fy, 'i, ni, ein, o</li>
+      <li>PRON: ei, chi, hi, eu, ni, eich, nhw, fy, ein, ti</li>
       <li>PROPN: Llangefni</li>
     </ul>
   </li>
@@ -409,7 +448,7 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Rcp
     <ul>
-      <li>PRON: hun, hunan</li>
+      <li>PRON: hun, hunain, hunan</li>
     </ul>
   </li>
 </ul>
@@ -430,7 +469,7 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: ei, eich, eu, ein, fy, 'i, 'w, 'ch, 'n, hi</li>
+      <li>PRON: ei, eich, eu, ein, fy, 'i, 'n, 'w, 'u, 'ch</li>
     </ul>
   </li>
 </ul>
@@ -441,13 +480,22 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 </ul>
 
 <ul>
+  <li>0
+    <ul>
+      <li>VERB: gellir, welir, cynhelir, sefydlwyd, ceir, lleolir, rhoddwyd, adnabyddid, gwelir, gwelwyd</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>1
     <ul>
-      <li>ADP: ohonom, arnaf, arnom, gennyf, gennym, rhyngof, wrthof, wrthon</li>
-      <li>AUX: ydw, baswn, dw, dwi, oeddwn, wyf, ydym</li>
-      <li>PRON: i, fy, ni, ein, fi, 'n, 'm, ninnau</li>
+      <li>ADJ: nes</li>
+      <li>ADP: gennym, arnom, ohonom, arnaf, gennyf, gennyn, rhyngof, wrthof, wrthon</li>
+      <li>AUX: dw, ydw, Byddaf, ydym, Bûm, Dwi, baswn, bydda, oeddwn, wy</li>
+      <li>PRON: i, ni, fy, ein, fi, 'n, 'm, ninnau, innau</li>
       <li>PROPN: Llangefni</li>
-      <li>VERB: ydym, ydw, wy, oeddwn, Gwelais, dwi, es, welais, Gwn, allwn</li>
+      <li>VERB: ydw, ydym, oeddwn, wy, ydyn, Dwi, allwn, dw, es, wyf</li>
     </ul>
   </li>
 </ul>
@@ -456,9 +504,9 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
   <li>2
     <ul>
       <li>ADP: ichi, gennych, arnoch, atoch, gennyt, wrthot, wrthych</li>
-      <li>AUX: ydych, wyt, Byddwch, Oeddet, buoch, oeddech, wedi</li>
-      <li>PRON: chi, eich, ti, 'ch, dy, d', di, thi</li>
-      <li>VERB: ydych, cewch, dewch, Peidiwch, wnewch, allwch, ewch, gallwch, gwelwch, wyt</li>
+      <li>AUX: ydych, Byddwch, Oeddet, buoch, wyt, Byddi, baech, oeddech, wedi</li>
+      <li>PRON: chi, eich, ti, 'ch, dy, di, d', thi</li>
+      <li>VERB: ydych, wyt, dewch, gall, gallwch, cewch, Peidiwch, oeddech, oeddet, wnewch</li>
     </ul>
   </li>
 </ul>
@@ -466,18 +514,11 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 <ul>
   <li>3
     <ul>
-      <li>ADP: iddo, arni, ganddo, ati, ganddynt, amdani, amdano, ganddi, iddi, iddyn</li>
-      <li>AUX: mae, yw, oedd, sy, oes, ydy, bu, bydd, sydd, fydd</li>
-      <li>PRON: ei, hi, eu, 'i, o, nhw, 'w, 'u, e, ef</li>
-      <li>VERB: mae, oedd, sy, bydd, sydd, cafodd, fydd, aeth, byddai, caiff</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Impers
-    <ul>
-      <li>VERB: gellir, welir, ceir, sefydlwyd, lleolir, rhoddwyd, Cynhelir, adnabyddid, gwelir, gwelwyd</li>
+      <li>ADP: iddo, ganddo, arni, ati, ganddi, iddi, wrthi, amdani, amdano, ganddynt</li>
+      <li>ADP-Vnoun: ynddo</li>
+      <li>AUX: mae, yw, oedd, oes, sy, bu, sydd, ydy, bydd, fydd</li>
+      <li>PRON: ei, hi, eu, nhw, 'i, o, 'w, 'u, e, ef</li>
+      <li>VERB: mae, sy, oedd, bydd, sydd, fydd, cafodd, maen, byddai, aeth</li>
     </ul>
   </li>
 </ul>
@@ -493,43 +534,42 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
     <ul>
       <li>AM
         <ul>
-          <li>ADJ: chyfeillgar, phob</li>
-          <li>ADP: chan, thua</li>
-          <li>ADV: phryd</li>
-          <li>NOUN: chael, chyffwrdd, chyfryniad, chymorth, chynrychiolwyr, chyrff, hanfon, hymgais, phobl, Cherdd</li>
-          <li>NOUN-Vnoun: chael, chyffwrdd, hanfon, chadw, chanu, charcharu, chasglu, chodi, chreithio, chyflythrennu</li>
+          <li>ADJ: Chernyweg, Chymreig, chadarn, chyfeillgar, chymhleth, pheryglus, phob, phrofiadol</li>
+          <li>ADP: chan, thros, thua, than</li>
+          <li>ADV: phryd, throsodd</li>
+          <li>NOUN: chael, phobl, chadw, chyffwrdd, chyfleusterau, chymdeithasau, chymorth, chymunedau, chymysg, chynnal</li>
+          <li>NOUN-Vnoun: chael, chadw, chyffwrdd, chynnal, hadeiladu, hanfon, hysgrifennu, Phwllheli, chanu, charcharu</li>
           <li>NUM: hugain, thair</li>
           <li>PROPN: Chynllaith</li>
           <li>SCONJ: phan</li>
-          <li>VERB: chaiff, chafodd, chasglodd, chlywaist, chuddiwyd, chyrhaeddodd, phenderfynwyd, pherfformiwyd, phrynodd, thalodd</li>
+          <li>VERB: chaiff, chafodd, chasglodd, cheir, chlywaist, chuddiwyd, chyrhaeddodd, phenderfynwyd, pherfformiwyd, phrynodd</li>
         </ul>
       </li>
       <li>NM
         <ul>
           <li>ADJ: mhob</li>
+          <li>ADV: mha</li>
           <li>AUX-Vnoun: mod</li>
-          <li>NOUN: nghanolfan, Mhrifysgol, Ngherddorfa, mrawd, nhŷ, nod, Is-gangellor, Mae, Mhobol, Mhontarddulais</li>
-          <li>NOUN-Vnoun: mod, ngalw, ngeni, ngheni, nharo, nhynnu</li>
-          <li>PROPN: Nghymru, Mangor, Nghaerdydd, Dwyfor, Mhatagonia, Mlaenau, Ngaerdydd, Nghaerfyrddin, Ngwynedd, Llanelli</li>
-          <li>SCONJ: mai</li>
-          <li>VERB: maen, Nest</li>
+          <li>NOUN: mae, mod, mlynedd, nghanolfan, nhŷ, Mhrifysgol, mhentref, mrawd, nhref, nod</li>
+          <li>NOUN-Vnoun: mod, ngalw, ngeni, ngheni, nharo, nhynnu, nodi</li>
+          <li>PROPN: Nghymru, Nghaerdydd, Mangor, Mlaenau, Mhatagonia, Nghaerfyrddin, Ngwynedd, Mhantycelyn, Mhenrhyndeudraeth, Mhrydain</li>
+          <li>VERB: Nest</li>
         </ul>
       </li>
       <li>SM
         <ul>
-          <li>ADJ: Gymraeg, bob, dda, genedlaethol, gwbl, fwy, ogystal, bellach, bersonol, fawr</li>
+          <li>ADJ: Gymraeg, bob, dda, fawr, fwy, genedlaethol, gwbl, leol, ogystal, barod</li>
           <li>ADJ-Vnoun: farw</li>
-          <li>ADP: drwy, gan, dan</li>
-          <li>ADV: gyntaf, Fodd, ddigon, ddoe, drwodd, rywle</li>
-          <li>AUX: fod, fydd, fu, wedi</li>
+          <li>ADP: drwy, gan, dan, fewn</li>
+          <li>ADV: gyntaf, ddoe, ddigon, Fodd, drosodd, drwodd, rywle</li>
+          <li>AUX: fod, fydd, fu</li>
           <li>AUX-Vnoun: fod</li>
-          <li>NOUN: gael, Gymraeg, ddod, wneud, fynd, fod, gyfer, gymdeithas, ben, ferch</li>
-          <li>NOUN-Vnoun: gael, ddod, wneud, fynd, fod, greu, ddefnyddio, weld, dderbyn, godi</li>
-          <li>NUM: ddau, ddwy, bum, bedair, filiwn</li>
+          <li>NOUN: fod, Gymraeg, gael, wneud, ddod, fynd, gyfer, bobl, gymdeithas, waith</li>
+          <li>NOUN-Vnoun: fod, gael, wneud, ddod, fynd, weld, dderbyn, greu, ddefnyddio, drafod</li>
+          <li>NUM: ddwy, ddau, bedair, bum, bump, filiwn, bedwar, bymtheg, ddeuddeg</li>
           <li>PART: ddim</li>
-          <li>PROPN: Gaerdydd, Gymru, Gaerfyrddin, Ben, Damascus, Drawsfynydd, Feirionnydd, Fôn, Gaernarfon, Loegr</li>
-          <li>SCONJ: mai</li>
-          <li>VERB: fydd, ddaeth, welir, wnewch, allwch, ddechreuodd, gafodd, welais, wnaeth, allai</li>
+          <li>PROPN: Gymru, Gaerdydd, Fôn, Gaerfyrddin, Gaernarfon, Ben, DU, Drawsfynydd, Faner, Feirionnydd</li>
+          <li>VERB: fydd, ddaeth, gafodd, ddaw, allai, welir, wnaeth, allwn, ddechreuodd, wnewch</li>
         </ul>
       </li>
     </ul>
@@ -567,9 +607,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (188)</li>
+      <li>VERB--NOUN (290)</li>
+      <li>VERB--NOUN-ADP(ar) (1)</li>
+      <li>VERB--NOUN-ADP(i) (1)</li>
       <li>VERB--NOUN-ADP(o) (1)</li>
-      <li>VERB--PRON (160)</li>
+      <li>VERB--PRON (283)</li>
+      <li>VERB--PRON-ADP(gan) (1)</li>
     </ul>
   </li>
 </ul>
@@ -577,8 +620,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (99)</li>
-      <li>VERB--PRON (30)</li>
+      <li>VERB--NOUN (125)</li>
+      <li>VERB--PRON (38)</li>
     </ul>
   </li>
 </ul>
@@ -597,5 +640,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>case:pred</a>, <a>flat:name</a>, <a>nmod:agent</a>, <a>nmod:poss</a>, <a>obl:agent</a></li>
-<li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

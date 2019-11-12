@@ -251,7 +251,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>PROPN --[<tt><a href="sl_ssj-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (685; 100%),
 <tt>ADJ --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> ADJ</tt> (633; 93%),
 <tt>VERB --[<tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (580; 73%),
-<tt>VERB --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> VERB</tt> (551; 69%),
+<tt>VERB --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> VERB</tt> (557; 69%),
 <tt>PROPN --[<tt><a href="sl_ssj-dep-amod.html">amod</a></tt>]--> ADJ</tt> (245; 99%),
 <tt>PROPN --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> PROPN</tt> (226; 71%).
 

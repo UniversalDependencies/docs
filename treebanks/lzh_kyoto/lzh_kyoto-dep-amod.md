@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1061 nodes (2%) are attached to their parents as `amod`.
+1681 nodes (2%) are attached to their parents as `amod`.
 
-1057 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10744580584354.
+1667 instances of `amod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17370612730518.
 
-The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (852; 80% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (195; 18% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 14 pairs of parts of speech are connected with `amod`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (1347; 80% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (277; 16% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (15; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,25 +52,25 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 amod	color:blue
-1	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	2	aux	_	Gloss=wish|SpaceAfter=No
-2	輕	輕	VERB	v,動詞,描写,量	Degree=Pos	9	acl	_	Gloss=light|SpaceAfter=No
-3	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	2	obj	_	Gloss=[3PRON]|SpaceAfter=No
-4	於	於	ADP	v,前置詞,基盤,*	_	8	case	_	Gloss=at|SpaceAfter=No
-5	堯	堯	PROPN	n,名詞,人,名	NameType=Giv	8	nmod	_	Gloss=[given-name]|SpaceAfter=No
-6	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	5	conj	_	Gloss=[given-name]|SpaceAfter=No
-7	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
-8	道	道	NOUN	n,名詞,制度,儀礼	_	2	obl	_	Gloss=doctrine|SpaceAfter=No
-9	者	者	PART	p,助詞,提示,*	_	11	nsubj	_	Gloss=that-which|SpaceAfter=No
-10	大	大	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	11	amod	_	Gloss=big|SpaceAfter=No
-11	貉	貉	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	0	root	_	Gloss=[country-name]|SpaceAfter=No
-12	小	小	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	13	amod	_	Gloss=small|SpaceAfter=No
-13	貉	貉	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	11	conj	_	Gloss=[country-name]|SpaceAfter=No
-14	也	也	PART	p,助詞,句末,*	_	11	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 amod	color:blue
+1	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	2	amod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
+2	禮	禮	NOUN	n,名詞,制度,儀礼	_	3	advcl	_	Gloss=ceremony|SpaceAfter=No
+3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=use|SpaceAfter=No
+5	辨	辨	VERB	v,動詞,行為,動作	_	3	ccomp	_	Gloss=discriminate|SpaceAfter=No
+6	君	君	NOUN	n,名詞,人,役割	_	13	nmod	_	Gloss=ruler|SpaceAfter=No
+7	臣	臣	NOUN	n,名詞,人,役割	_	6	flat	_	Gloss=vassal|SpaceAfter=No
+8	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	6	conj	_	Gloss=up|SpaceAfter=No
+9	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	8	flat	_	Gloss=down|SpaceAfter=No
+10	長	長	NOUN	n,名詞,人,関係	_	6	conj	_	Gloss=elder|SpaceAfter=No
+11	幼	幼	NOUN	n,名詞,人,関係	_	10	flat	_	Gloss=young|SpaceAfter=No
+12	之	之	SCONJ	p,助詞,接続,属格	_	6	case	_	Gloss='s|SpaceAfter=No
+13	位	位	NOUN	n,名詞,制度,場	Case=Loc	5	obj	_	Gloss=rank|SpaceAfter=No
+14	也	也	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 ~~~
 

@@ -8,12 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-813 nodes (2%) are attached to their parents as `xcomp`.
+1183 nodes (2%) are attached to their parents as `xcomp`.
 
-787 instances of `xcomp` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.64944649446494.
+1131 instances of `xcomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.85376162299239.
 
-The following 23 pairs of parts of speech are connected with `xcomp`: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (566; 70% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (69; 8% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (45; 6% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (37; 5% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (18; 2% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (18; 2% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (13; 2% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1032; 87% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (73; 6% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (24; 2% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (23; 2% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (17; 1% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 xcomp	color:blue
+1	Viso	visas	DET	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Tot	2	det	2:det	_
+2	to	tas	DET	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	4	obj	4:obj	_
+3	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	_
+4	išvengti	išvengti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	3	xcomp	3:xcomp	_
+5	nusprendus	nuspręsti	VERB	vksm.pad.būt-k.	Aspect=Perf|Polarity=Pos|Tense=Past|VerbForm=Ger	4	advcl	4:advcl	_
+6	dirbti	dirbti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	5	xcomp	5:xcomp	_
+7	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	6	obl	6:obl	SpaceAfter=No
+8	.	.	PUNCT	skyr.	_	3	punct	3:punct	_
+
+~~~
 
 
 ~~~ conllu
@@ -22,52 +40,35 @@ The following 23 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 xcomp	color:blue
-1	Viso	visas	DET	Pgmsgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Tot	2	det	2:det	_
-2	to	tas	DET	Pgmsgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	3	obj	3:obj	_
-3	išvengti	išvengti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
-4	nusprendus	nuspręsti	VERB	Vgaa----n--n--	Polarity=Pos|Tense=Past|VerbForm=Ger	3	advcl	3:advcl	_
-5	dirbti	dirbti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	4	xcomp	4:xcomp	_
-6	namuose	namai	NOUN	Ncmpln-	Case=Loc|Gender=Masc|Number=Plur	5	obl	5:obl	SpaceAfter=No
-7	.	.	PUNCT	Z	_	3	punct	3:punct	_
+1	Jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod	_
+2	teigimu	teigimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	4	parataxis	4:parataxis	SpaceAfter=No
+3	,	,	PUNCT	skyr.	_	2	punct	2:punct	_
+4	sudėtinga	sudėtingas	ADJ	bdv.nelygin.bev.	Definite=Ind|Degree=Pos|Gender=Neut	0	root	0:root	_
+5	vertinti	vertinti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	4	xcomp	4:xcomp	_
+6	Latvijos	Latvija	PROPN	dkt.tikr.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod	_
+7	padėtį	padėtis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	5	obj	5:obj	SpaceAfter=No
+8	.	.	PUNCT	skyr.	_	4	punct	4:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 xcomp	color:blue
-1	Darbas	darbas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-2	namuose	namai	NOUN	Ncmpln-	Case=Loc|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
-3	tapti	tapti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	1	xcomp	1:xcomp	_
-4	ir	ir	PART	Qg	_	5	advmod:emph	5:advmod:emph	_
-5	palaima	palaima	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	3	obj	3:obj	SpaceAfter=No
-6	,	,	PUNCT	Z	_	8	punct	8:punct	_
-7	ir	ir	PART	Qg	_	8	advmod:emph	8:advmod:emph	_
-8	prakeikimu	prakeikimas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	5	conj	3:obj|5:conj	SpaceAfter=No
-9	.	.	PUNCT	Z	_	1	punct	1:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 xcomp	color:blue
-1	Todėl	todėl	ADV	Rgp	Degree=Pos	0	root	0:root	_
-2	kiekvienai	kiekvienas	DET	Pgfsdn	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Tot	5	det	5:det	_
-3	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	4	nmod	4:nmod	_
-4	darbo	darbas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
-5	dienai	diena	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	6	iobj	6:iobj	_
-6	sugalvoti	sugalvoti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	1	xcomp	1:xcomp	_
-7	užduotis	užduotis	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	6	obj	6:obj	_
-8	ir	ir	CCONJ	Cg	_	9	cc	9:cc	_
-9	tikslą	tikslas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	7	conj	6:obj|7:conj	SpaceAfter=No
-10	.	.	PUNCT	Z	_	1	punct	1:punct	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 xcomp	color:blue
+1	Kita	kita	ADV	sampl.prv.nelygin.	Degree=Pos|Hyph=Yes	8	parataxis	8:parataxis	_
+2	vertus	vertus	X	tęs.	Hyph=Yes	1	nmod	1:nmod	SpaceAfter=No
+3	,	,	PUNCT	skyr.	_	1	punct	1:punct	_
+4	gyventi	gyventi	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	8	csubj	8:csubj	_
+5	su	su	ADP	prl.Įn.	AdpType=Prep|Case=Ins	7	case	7:case	_
+6	tokia	toks	DET	įv.mot.vns.Įn.	Case=Ins|Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem	7	det	7:det	_
+7	paslaptimi	paslaptis	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	4	obl:arg	4:obl:arg	_
+8	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+9	būti	būti	AUX	vksm.bndr.	Polarity=Pos|VerbForm=Inf	10	cop	10:cop	_
+10	neįmanoma	neįmanomas	ADJ	bdv.nelygin.bev.	Definite=Ind|Degree=Pos|Gender=Neut	8	xcomp	8:xcomp	SpaceAfter=No
+11	.	.	PUNCT	skyr.	_	8	punct	8:punct	_
 
 ~~~
 

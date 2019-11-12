@@ -55,7 +55,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `SCONJ` tokens may have the following values of `Mood`:
 
 * `Cnd` (10; 100% of non-empty `Mood`): <em>каб</em>
-* `EMPTY` (134): <em>што, як, калі, чым, то, бо, хоць, каб, нават, прычым</em>
+* `EMPTY` (133): <em>што, як, калі, чым, то, бо, хоць, каб, нават, прычым</em>
 
 ### `NOUN`
 
@@ -71,9 +71,8 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (94; 90%),
-<tt>VERB --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (49; 84%),
-<tt>VERB --[<tt><a href="be_hse-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (33; 69%),
-<tt>VERB --[<tt><a href="be_hse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (27; 59%),
-<tt>VERB --[<tt><a href="be_hse-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (95; 90%),
+<tt>VERB --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (45; 83%),
+<tt>VERB --[<tt><a href="be_hse-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (34; 69%),
+<tt>VERB --[<tt><a href="be_hse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (30; 61%).
 

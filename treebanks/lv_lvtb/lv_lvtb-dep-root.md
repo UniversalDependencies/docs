@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13026 nodes (6%) are attached to their parents as `root`.
+13643 nodes (6%) are attached to their parents as `root`.
 
-13026 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.33985874405036.
+13643 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.37631019570476.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (10480; 80% instances), -<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1148; 9% instances), -<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (573; 4% instances), -<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (322; 2% instances), -<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (156; 1% instances), -<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (135; 1% instances), -<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (54; 0% instances), -<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (50; 0% instances), -<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (37; 0% instances), -<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (33; 0% instances), -<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (22; 0% instances), -<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (10; 0% instances), -<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), -<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (10989; 81% instances), -<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1204; 9% instances), -<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (603; 4% instances), -<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (338; 2% instances), -<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (163; 1% instances), -<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (143; 1% instances), -<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (54; 0% instances), -<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (53; 0% instances), -<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (37; 0% instances), -<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (33; 0% instances), -<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (10; 0% instances), -<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (7; 0% instances), -<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), -<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 8	nāks	nākt	VERB	vmnifi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	LvtbNodeId=a-c12-p51s2w8
 9	tikai	tikai	PART	q	_	11	discourse	11:discourse	LvtbNodeId=a-c12-p51s2w9
 10	par	par	ADP	spsa	_	11	case	11:case	LvtbNodeId=a-c12-p51s2w10
-11	labu	labs	ADJ	afmsanp	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	obl	8:obl	LvtbNodeId=a-c12-p51s2w11
+11	labu	labs	ADJ	afmsanp	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	obl	8:obl:par	LvtbNodeId=a-c12-p51s2w11
 
 ~~~
 
@@ -45,12 +45,12 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 4 root	color:blue
 1	Viņi	viņš	PRON	pp3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj|6:nsubj|8:nsubj	LvtbNodeId=a-c13-p43s2w1
 2	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	LvtbNodeId=a-c13-p43s2w2
-3	lieli	liels	ADJ	afmpnnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	4:amod	LvtbNodeId=a-c13-p43s2w3
+3	lieli	liels	ADJ	afmpnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	4	amod	4:amod	LvtbNodeId=a-c13-p43s2w3
 4	diplomāti	diplomāts	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	LvtbNodeId=a-c13-p43s2w4|SpaceAfter=No
 5	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-c13-p43s2w5
 6	prot	prast	VERB	vonipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	LvtbNodeId=a-c13-p43s2w6
 7	būt	būt	AUX	vcnn0ii000n	Polarity=Pos|VerbForm=Inf	8	cop	8:cop	LvtbNodeId=a-c13-p43s2w7
-8	plastiski	plastisks	ADJ	afmpnnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	6	xcomp	6:xcomp	LvtbNodeId=a-c13-p43s2w8|SpaceAfter=No
+8	plastiski	plastisks	ADJ	afmpnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	6	xcomp	6:xcomp	LvtbNodeId=a-c13-p43s2w8|SpaceAfter=No
 9	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-c13-p43s2w9
 
 ~~~
@@ -65,7 +65,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	[	[	PUNCT	zb	_	2	punct	2:punct	LvtbNodeId=a-c13-p43s7w1|SpaceAfter=No
 2	8.	8.	ADJ	xo	NumType=Ord	0	root	0:root	LvtbNodeId=a-c13-p43s7w2|SpaceAfter=No
 3	,	,	PUNCT	zc	_	4	punct	4:punct	LvtbNodeId=a-c13-p43s7w3|SpaceAfter=No
-4	103	103	NUM	xn	NumType=Card	2	acl	2:acl	LvtbNodeId=a-c13-p43s7w4|SpaceAfter=No
+4	103	103	NUM	xn	NumType=Card	2	dep	2:dep	LvtbNodeId=a-c13-p43s7w4|SpaceAfter=No
 5	]	]	PUNCT	zb	_	2	punct	2:punct	LvtbNodeId=a-c13-p43s7w5
 
 ~~~

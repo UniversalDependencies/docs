@@ -8,35 +8,34 @@ udver: '2'
 
 This relation is universal.
 
-66 nodes (0%) are attached to their parents as `nummod`.
+86 nodes (0%) are attached to their parents as `nummod`.
 
-57 instances of `nummod` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.89393939393939.
+72 instances of `nummod` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.87209302325581.
 
-The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (64; 97% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (2; 3% instances).
+The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (84; 98% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 12 nummod	color:blue
-1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	dislocated	_	_
-2	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
-3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
-4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
-5	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	VerbForm=Fin	1	acl	_	_
-6	ⲇⲉ	ⲇⲉ	PART	PTC	_	8	advmod	_	_
-7	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	8	aux	_	_
-8	ⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	0	root	_	_
-9	ⲁⲣⲁ	ⲁⲣⲁ	PART	PTC	_	8	advmod	_	_
-10	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	_
-11	ϭⲓⲥ	ϭⲓⲥ	NUM	NUM	NumType=Card	12	compound	_	_
-12	ⲧⲃⲁ	ⲧⲃⲁ	NUM	NUM	NumType=Card	14	nummod	_	_
-13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲣ
-14	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	8	nsubj	_	_
-15	.	.	PUNCT	PUNCT	_	8	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 11 nummod	color:blue
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
+2	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	3	det	_	_
+3	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	0	root	_	_
+4	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
+5	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	ⲥⲛⲟϥ	ⲥⲛⲟϥ	NOUN	N	_	7	nsubj	_	_
+7	ϣⲟⲩⲟ	ϣⲟⲩⲟ	VERB	V	VerbForm=Fin	3	acl	_	_
+8	ⲙⲙⲟ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
+10	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	13	advmod	_	_
+11	ⲙⲛⲧⲥⲛⲟⲟⲩⲥ	ⲙⲛⲧⲥⲛⲟⲟⲩⲥ	NUM	NUM	NumType=Card	13	nummod	_	Morphs=ⲙⲛⲧ-ⲥⲛⲟⲟⲩⲥ
+12	ⲛ	ⲛ	ADP	PREP	_	13	case	_	Orig=ⲣ
+13	ⲣⲟⲙⲡⲉ	ⲣⲟⲙⲡⲉ	NOUN	N	_	7	advcl	_	_
+14	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

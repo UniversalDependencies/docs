@@ -6,29 +6,29 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Features: `Case`
 
-This feature is universal but the values `Car`, `Egr`, `Per`, `Prl` are language-specific.
-It occurs with 15 different values: `Acc`, `Car`, `Com`, `Dat`, `Egr`, `Ela`, `Gen`, `Ill`, `Ine`, `Ins`, `Loc`, `Nom`, `Per`, `Prl`, `Ter`.
+This feature is universal but the values `Car`, `Egr`, `Prl` are language-specific.
+It occurs with 15 different values: `Acc`, `Car`, `Com`, `Dat`, `Egr`, `Ela`, `Gen`, `Ill`, `Ine`, `Ins`, `Loc`, `Nom`, `Prl`, `Ter`, `Tra`.
 
-522 tokens (41%) have a non-empty value of `Case`.
+525 tokens (41%) have a non-empty value of `Case`.
 372 types (61%) occur at least once with a non-empty value of `Case`.
-295 lemmas (59%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (268; 21% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (79; 6% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (52; 4% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (39; 3% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (30; 2% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (29; 2% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (16; 1% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (4; 0% instances).
+287 lemmas (58%) occur at least once with a non-empty value of `Case`.
+The feature is used with 10 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (268; 21% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (81; 6% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (52; 4% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (39; 3% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (30; 2% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (29; 2% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (16; 1% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
 268 <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (234; 87%), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (204; 76%), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (204; 76%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (237; 88%), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (204; 76%), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (204; 76%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (18; 7% of non-empty `Case`): <em>живносьсэ, мамсӧ, тятейсӧ, берегсэ, вӧлэсьсэ, вӧӧяссэ, деревню, лымсӧ, местӧсӧ, немсэ</em>
+* `Acc` (18; 7% of non-empty `Case`): <em>мамсӧ, тятейсӧ, берегсэ, вӧлэсьсэ, вӧӧяссэ, деревню, живносьсэ, лымсӧ, местӧсӧ, немсэ</em>
 * `Car` (1; 0% of non-empty `Case`): <em>няньтӧг</em>
 * `Com` (6; 2% of non-empty `Case`): <em>вокъяскед, дядьяскед, мукедыс, родительяскед, тӧварышъескӧт, челядькед</em>
 * `Dat` (4; 1% of non-empty `Case`): <em>аелы, году, прозвищу, часу</em>
 * `Ela` (5; 2% of non-empty `Case`): <em>керкасис, дӧмысь, дӧраысь, ягись</em>
 * `Gen` (14; 5% of non-empty `Case`): <em>возраста, девушек, директора, инвалидность, километров, мамыслӧн, мая, месеча, месяцев, оформления</em>
-* `Ill` (27; 10% of non-empty `Case`): <em>тундраа, кокъясэ, местэас, пачӧ, Армияа, Гортас, дедьсаде, керкаӧ, местаясэ, местэам</em>
+* `Ill` (27; 10% of non-empty `Case`): <em>тундраа, кокъясэ, местэас, пачӧ, Армияа, Гортас, детсадэ, керкаӧ, местаясэ, местэам</em>
 * `Ine` (22; 8% of non-empty `Case`): <em>тундраын, годын, Гожемъясын, гортас, гортын, дӧмын, колаын, колхозын, кӧрдорын, местӧын</em>
 * `Ins` (14; 5% of non-empty `Case`): <em>удовольствием, йӧйӧн, луннас, аресэн, гожемъяснас, гуӧн, крукӧн, кылэн, луннас-а, лёкӧн</em>
 * `Loc` (1; 0% of non-empty `Case`): <em>шоке</em>
@@ -36,31 +36,31 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Ter` (1; 0% of non-empty `Case`): <em>гортэдзыс</em>
 
 <table>
-  <tr><th>Paradigm <i>мам</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>мам</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>маме</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>мамыс</em></td><td><em>мамсӧ</em></td><td><em>мамыслӧн</em></td></tr>
+  <tr><th>Paradigm <i>местӧ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th></tr>
+  <tr><td><tt></tt></td><td></td><td></td><td><em>местӧын</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td></td><td></td><td><em>местэам</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>местэыс</em></td><td><em>местӧсӧ</em></td><td></td><td><em>местэас</em></td></tr>
 </table>
 
 ### `PRON`
 
-79 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (83% of all `PRON` tokens) have a non-empty value of `Case`.
+81 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (87% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (67; 85%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (62; 78%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (70; 86%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63; 78%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (9; 11% of non-empty `Case`): <em>сіес, сійӧ, быдӧнӧс, менэ, миянумес, никодэс, сіе</em>
+* `Acc` (6; 7% of non-empty `Case`): <em>сіес, быдӧнӧс, менэ, миянумес, никодэс</em>
 * `Dat` (3; 4% of non-empty `Case`): <em>аслум, мен, менум</em>
 * `Ela` (1; 1% of non-empty `Case`): <em>Сыысь</em>
-* `Gen` (15; 19% of non-empty `Case`): <em>миян, менам, меня, нас, Сылэн, меам, сылӧн</em>
-* `Nom` (51; 65% of non-empty `Case`): <em>ме, сыа, сія, ми, мыйке, сы, Миян, ачыс, кодке, Сійӧ</em>
-* `EMPTY` (16): <em>сы, быд, мӧд, что, Всё, мыйке, сыа, эта, этія</em>
+* `Gen` (17; 21% of non-empty `Case`): <em>миян, менам, меня, нас, Сылэн, меам, сылӧн</em>
+* `Nom` (54; 67% of non-empty `Case`): <em>сыа, ме, сія, сы, ми, сійӧ, ачыс, кодке, асланум, ачум</em>
+* `EMPTY` (12): <em>быд, мӧд, сы, что, Всё, мыйке, этія</em>
 
 <table>
   <tr><th>Paradigm <i>ме</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ме</em></td><td><em>менэ</em></td><td><em>мен, менум</em></td><td><em>менам</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>меам, менам</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>меам</em></td></tr>
 </table>
 
 ### `ADJ`
@@ -103,7 +103,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 30 <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> tokens (97% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 90%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 100%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -133,7 +133,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 * `Ill` (13; 45% of non-empty `Case`): <em>доре, вылэ, сае, вылас, вылӧ, дорас, дінӧ, ордӧ</em>
 * `Ine` (14; 48% of non-empty `Case`): <em>вылын, бӧрын, сайын, бӧрас</em>
-* `Per` (2; 7% of non-empty `Case`): <em>вывті</em>
+* `Tra` (2; 7% of non-empty `Case`): <em>вывті</em>
 * `EMPTY` (24): <em>в, у, с, для, до, кузя, без, койд, нынніыс, от</em>
 
 <table>
@@ -157,7 +157,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 * `Ins` (1; 6% of non-empty `Case`): <em>унаэн</em>
 * `Nom` (2; 13% of non-empty `Case`): <em>бӧр, водз</em>
 * `Ter` (1; 6% of non-empty `Case`): <em>дзикедз</em>
-* `EMPTY` (83): <em>сэн, нин, зэй, пока, только, гашке, эні, ӧні, Сэсся, каждэй</em>
+* `EMPTY` (82): <em>сэн, нин, зэй, пока, только, эні, ӧні, Сэсся, каждэй, кор</em>
 
 <table>
   <tr><th>Paradigm <i>уна</i></th><th><tt>Ins</tt></th><th><tt>Ela</tt></th></tr>
@@ -180,13 +180,24 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 4 <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="kpv_ikdp-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (3; 75%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="kpv_ikdp-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt> (3; 75%).
 
 `VERB` tokens may have the following values of `Case`:
 
 * `Ins` (3; 75% of non-empty `Case`): <em>велӧдчигӧныс, локтігӧныс, мунігӧныс</em>
 * `Nom` (1; 25% of non-empty `Case`): <em>босьтӧм</em>
 * `EMPTY` (171): <em>босьтіс, вермы, ветлі, мӧдэма, примитіс, пукаліс, рӧдитчи, рӧдитчылі, ветліс, висьталэма</em>
+
+### `INTJ`
+
+1 <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> tokens (33% of all `INTJ` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `INTJ` and `Case` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`INTJ` tokens may have the following values of `Case`:
+
+* `Nom` (1; 100% of non-empty `Case`): <em>мыйке</em>
+* `EMPTY` (2): <em>ой, эта</em>
 
 ## Relations with Agreement in `Case`
 

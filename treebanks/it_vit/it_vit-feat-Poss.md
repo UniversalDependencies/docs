@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (1255; 100% of non-empty `Poss`): <em>sua, suo, loro, suoi, nostro, sue, nostra, mia, mio, propria</em>
-* `EMPTY` (42722): <em>il, la, l', i, le, un, una, gli, lo, questo</em>
+* `EMPTY` (42723): <em>il, la, l', i, le, un, una, gli, lo, questo</em>
 
 `Poss` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `Poss`.
 

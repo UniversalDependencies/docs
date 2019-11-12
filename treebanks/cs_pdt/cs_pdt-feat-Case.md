@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 
-854881 tokens (57%) have a non-empty value of `Case`.
+854866 tokens (57%) have a non-empty value of `Case`.
 105404 types (82%) occur at least once with a non-empty value of `Case`.
 42842 lemmas (74%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (362908; 24% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (173090; 11% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (145304; 10% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (66479; 4% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (50619; 3% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (44858; 3% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (11623; 1% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (362908; 24% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (173090; 11% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (145304; 10% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (66479; 4% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (50604; 3% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (44858; 3% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (11623; 1% instances).
 
 ### `NOUN`
 
@@ -123,18 +123,18 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `DET`
 
-50619 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (90% of all `DET` tokens) have a non-empty value of `Case`.
+50604 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (90% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (46651; 92%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46651; 92%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (43633; 86%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (41751; 82%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35449; 70%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (46636; 92%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46636; 92%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (43618; 86%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (41736; 82%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35434; 70%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (12255; 24% of non-empty `Case`): <em>to, které, své, kterou, svou, svůj, který, tuto, tento, všechny</em>
+* `Acc` (12247; 24% of non-empty `Case`): <em>to, které, své, kterou, svou, svůj, který, tuto, tento, všechny</em>
 * `Dat` (2389; 5% of non-empty `Case`): <em>tomu, tomuto, všem, svým, kterým, svému, těm, této, kterému, své</em>
 * `Gen` (7084; 14% of non-empty `Case`): <em>toho, tohoto, této, svého, všech, těchto, svých, své, některých, našich</em>
 * `Ins` (3500; 7% of non-empty `Case`): <em>tím, svým, tímto, svou, svými, kterým, několika, jakým, touto, jejím</em>
 * `Loc` (4921; 10% of non-empty `Case`): <em>tom, tomto, této, svém, své, těchto, všech, svých, našem, kterém</em>
-* `Nom` (20461; 40% of non-empty `Case`): <em>to, který, které, která, kteří, tato, tento, ten, každý, její</em>
+* `Nom` (20454; 40% of non-empty `Case`): <em>to, který, které, která, kteří, tato, tento, ten, každý, její</em>
 * `Voc` (9; 0% of non-empty `Case`): <em>má, můj, Vaše, mio, moje, náš</em>
 * `EMPTY` (5508): <em>jeho, jejich, její, jejichž, jehož, jejíž, moc, t, Some, My</em>
 
@@ -209,7 +209,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 * `Ins` (1047; 9% of non-empty `Case`): <em>jedním, jednou, dvěma, třemi, oběma, čtyřmi, pěti, šesti, deseti, osmi</em>
 * `Loc` (1038; 9% of non-empty `Case`): <em>dvou, jedné, jednom, třech, obou, pěti, čtyřech, třetině, šesti, deseti</em>
 * `Nom` (3039; 26% of non-empty `Case`): <em>jeden, dva, tři, jedna, oba, dvě, obě, čtyři, pět, jedno</em>
-* `EMPTY` (29881): <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
+* `EMPTY` (29885): <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
 
 <table>
   <tr><th>Paradigm <i>jeden</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -226,7 +226,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (147105; 98%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-case.html">case</a></tt>]--> ADP</tt> (108265; 95%),
-<tt>NOUN --[<tt><a href="cs_pdt-dep-det.html">det</a></tt>]--> DET</tt> (22811; 80%),
+<tt>NOUN --[<tt><a href="cs_pdt-dep-det.html">det</a></tt>]--> DET</tt> (22803; 80%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (20756; 94%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-case.html">case</a></tt>]--> ADP</tt> (12600; 82%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (10680; 95%),

@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="zh_gsd-pos-ADV.html
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (244; 100% of non-empty `Polarity`): 不、 未、 沒、 別、 無
-* `EMPTY` (5505): 也、 並、 而、 但、 所、 都、 曾、 則、 就、 還
+* `EMPTY` (5504): 也、 並、 而、 但、 所、 都、 曾、 則、 就、 還
 

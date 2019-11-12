@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-307 nodes (1%) are attached to their parents as `fixed`.
+360 nodes (0%) are attached to their parents as `fixed`.
 
-307 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17263843648208.
+360 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15833333333333.
 
-The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (172; 56% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (109; 36% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (11; 4% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (10; 3% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (5; 2% instances).
+The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (198; 55% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (93; 26% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (38; 11% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (12; 3% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (11; 3% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,20 +58,14 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 fixed	color:blue
-1	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nsubj	_	Gloss=heaven|SpaceAfter=No
-2	油	油	NOUN	n,名詞,可搬,道具	_	4	advmod	_	Gloss=oil|SpaceAfter=No
-3	然	然	PART	p,接尾辞,*,*	_	2	fixed	_	Gloss=[suffix]|SpaceAfter=No
-4	作	作	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
-5	雲	雲	NOUN	n,名詞,天象,気象	_	4	obj	_	Gloss=cloud|SpaceAfter=No
-6	沛	沛	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	8	advmod	_	Gloss=torrential|SpaceAfter=No
-7	然	然	PART	p,接尾辞,*,*	_	6	fixed	_	Gloss=[suffix]|SpaceAfter=No
-8	下	下	VERB	v,動詞,行為,動作	_	4	parataxis	_	Gloss=go-down|SpaceAfter=No
-9	雨	雨	NOUN	n,名詞,天象,気象	_	8	obj	_	Gloss=rain|SpaceAfter=No
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	惡	惡	ADV	v,副詞,疑問,所在	_	3	advmod	_	Gloss=how|SpaceAfter=No
+2	乎	乎	PART	p,接尾辞,*,*	_	1	fixed	_	Gloss=[suffix]|SpaceAfter=No
+3	執	執	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hold|SpacesAfter=\n
 
 ~~~
 

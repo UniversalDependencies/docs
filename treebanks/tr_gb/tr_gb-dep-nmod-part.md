@@ -23,11 +23,11 @@ The following 11 pairs of parts of speech are connected with `nmod:part`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nmod:part	color:blue
-1	Oyuncuların	_	NOUN	_	Case=Gen|Number=Plur	2	nmod:part	_	_
+1	Oyuncuların	oyuncu	NOUN	_	Case=Gen|Number=Plur	2	nmod:part	_	_
 2	hepsi	hepsi	PRON	_	Case=Nom|Number=Sing	5	nsubj	_	_
 3	yeni	yeni	ADJ	_	_	4	amod	_	_
 4	kostümler	kostüm	NOUN	_	Case=Nom|Number=Plur	5	obj	_	_
-5	istiyorlar	iste	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+5	istiyorlar	iste	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -42,9 +42,9 @@ The following 11 pairs of parts of speech are connected with `nmod:part`: <tt><a
 1	Çikolata	çikolata	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
 2	lı	-li	ADP	_	_	1	case	_	_
 3	pastadan	pasta	NOUN	_	Case=Abl|Number=Sing	5	nmod:part	_	_
-4	iki	iki	NUM	_	NumType=Ord	5	nummod	_	_
+4	iki	iki	NUM	_	NumType=Card	5	nummod	_	_
 5	dilim	dilim	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
-6	yedi	ye	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+6	yedi	ye	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -60,7 +60,7 @@ The following 11 pairs of parts of speech are connected with `nmod:part`: <tt><a
 2	yakın	yakın	ADJ	_	_	3	amod	_	_
 3	arkadaşlarımdan	arkadaş	NOUN	_	Case=Abl|Number=Plur|Number[psor]=Sing|Person[psor]=1	4	nmod:part	_	_
 4	biri	bir	NUM	_	Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	_
-5	değildir	değil	AUX	_	Mood=Gen|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	4	aux	_	SpaceAfter=No
+5	değildir	değil	AUX	_	Mood=Gen|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

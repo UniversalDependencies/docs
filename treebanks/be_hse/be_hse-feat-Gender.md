@@ -116,7 +116,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem` (25; 13% of non-empty `Gender`): <em>якая, яна, яе, якой, якую, ёй</em>
 * `Masc` (55; 30% of non-empty `Gender`): <em>ён, які, яго, яму, каго, якім, ім, iх, Нiхто, кім</em>
 * `Neut` (106; 57% of non-empty `Gender`): <em>гэта, таго, тое, гэтым, тым, што, якое, гэтага, чым, усё</em>
-* `EMPTY` (218): <em>я, якiя, якія, яны, мы, мне, іх, вы, мяне, iх</em>
+* `EMPTY` (219): <em>я, якiя, якія, яны, мы, мне, іх, вы, мяне, што</em>
 
 <table>
   <tr><th>Paradigm <i>які</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -223,13 +223,13 @@ The most frequent other feature values with which `SYM` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (723; 54%),
-<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (132; 86%),
-<tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (81; 96%),
+<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (133; 88%),
+<tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (82; 98%),
 <tt>ADJ --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (73; 89%),
 <tt>PROPN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (57; 81%),
 <tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (45; 52%),
 <tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (22; 59%),
+<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> NOUN</tt> (18; 60%),
 <tt>NOUN --[<tt><a href="be_hse-dep-nummod-entity.html">nummod:entity</a></tt>]--> NUM</tt> (18; 53%),
-<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> NOUN</tt> (14; 54%),
 <tt>PROPN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13; 93%).
 

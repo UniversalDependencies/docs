@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 5	fgColor:white
 # visual-style 5 8 parataxis	color:blue
 1	J'	il	PRON	_	Number=Sing|Person=1	3	nsubj	_	SpaceAfter=No
-2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	contracté	contracter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	Pacs	Pac	NOUN	_	_	3	obj	_	_

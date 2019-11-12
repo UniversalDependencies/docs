@@ -12,9 +12,9 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="aii_as-dep-aux-pos
 18 nodes (4%) are attached to their parents as `aux`.
 
 13 instances of `aux` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05555555555556.
+Average distance between parent and child is 1.16666666666667.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="aii_as-pos-VERB.html">VERB</a></tt>-<tt><a href="aii_as-pos-PART.html">PART</a></tt> (10; 56% instances), <tt><a href="aii_as-pos-VERB.html">VERB</a></tt>-<tt><a href="aii_as-pos-AUX.html">AUX</a></tt> (7; 39% instances), <tt><a href="aii_as-pos-AUX.html">AUX</a></tt>-<tt><a href="aii_as-pos-PART.html">PART</a></tt> (1; 6% instances).
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="aii_as-pos-VERB.html">VERB</a></tt>-<tt><a href="aii_as-pos-AUX.html">AUX</a></tt> (17; 94% instances), <tt><a href="aii_as-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aii_as-pos-AUX.html">AUX</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -26,13 +26,13 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	ܟܠ	ܟܠ	DET	_	_	3	det	_	_
 2	ܚܲܕ	ܚܲܕ	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	ܢܦܝܼܠܵܐ	ܢܦܝܼܠܵܐ	ADJ	_	Gender=Masc|Number=Sing	5	nsubj	_	_
-4	ܟܸܐ	ܟܸܐ	PART	_	Mood=Ind	5	aux	_	_
+4	ܟܸܐ	ܟܸܐ	AUX	_	Mood=Ind	5	aux	_	_
 5	ܩܵܐܸܡ	ܩܵܐܸܡ	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Pres	0	root	_	Root=ܩܝܡ
 6	،	،	PUNCT	_	_	11	punct	_	_
 7	ܐܘܼܦ	ܐܘܼܦ	ADV	_	_	9	advmod	_	_
 8	ܐܲܚܢܲܢ	ܐܲܚܲܢ	PRON	_	Number=Plur|Person=1|PronType=Prs	9	nmod	_	_
 9	ܐܵܬܘܿܪܵܝܹܐ	ܐܵܬܘܿܪܵܝܐ	ADJ	_	Number=Plur	11	nsubj	_	_
-10	ܒܸܬ	ܒܸܬ	PART	_	_	11	aux	_	_
+10	ܒܸܬ	ܒܸܬ	AUX	_	_	11	aux	_	_
 11	ܩܵܝܡܲܚ	ܩܵܐܸܡ	VERB	_	Number=Plur|Person=1|Tense=Pres	5	parataxis	_	Root=ܩܝܡ
 12	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -42,31 +42,11 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 aux	color:blue
-1	ܒܝܕܥܝܐ	ܝܲܕܥܹܐ	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
-2	ܝܘܸܢ	ܗܵܘܹܐ	AUX	_	Gender=Masc|Number=Sing|Person=1|Tense=Pres	1	aux	_	Root=ܗܘܐ
-3	ܦܫܡܬܘܟ	ܦܫܡܬܐ	NOUN	_	Number=Sing|Person=2	7	nsubj	_	_
-4	ܟܠܗ	ܟܠܗ	ADV	_	_	3	advmod	_	_
-5	ܝܼܠܵܗܿ	ܗܵܘܹܐ	AUX	_	Gender=Fem|Person=3|Tense=Pres	7	cop	_	Root=ܗܘܐ
-6	ܒܘܕ	ܒܘܕ	ADP	_	_	7	case	_	_
-7	ܓܵܡܝܼ̈ܘܼܟ	ܓܵܡܝܼ	NOUN	_	Number=Plur|Person=2|Poss=Yes	1	ccomp	_	_
-8	ܘ	ܘ	CCONJ	_	_	9	cc	_	_
-9	ܬܲܓܵܪܘܼܬܘܼܟ	ܬܲܓܵܪܘܼܬܵܐ	NOUN	_	Person=2|Poss=Yes	7	conj	_	_
-10	.	.	PUNCT	_	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 aux	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 aux	color:blue
 1	ܐܝܼܣܚܵܩ	ܐܝܼܣܚܵܩ	PROPN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
-2	ܟܲܕ	ܟܲܕ	PART	_	_	3	aux	_	_
+2	ܟܲܕ	ܟܲܕ	AUX	_	_	5	aux	_	_
 3	ܝ݇ܬܝܼܒܵܐ	ܗܵܘܹܐ	AUX	_	Tense=Past	5	cop	_	_
 4	ܥܲܠ	ܥܲܠ	ADP	_	_	5	case	_	_
 5	ܦܲܥܘܵܐ	ܦܲܥܘܵܐ	NOUN	_	_	1	advcl	_	_

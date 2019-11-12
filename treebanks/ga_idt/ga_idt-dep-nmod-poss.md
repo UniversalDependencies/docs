@@ -8,28 +8,55 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ga_idt-dep-nmod.html">nmod</a></tt>.
 
-234 nodes (1%) are attached to their parents as `nmod:poss`.
+372 nodes (1%) are attached to their parents as `nmod:poss`.
 
-234 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05128205128205.
+370 instances of `nmod:poss` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.0752688172043.
 
-The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (228; 97% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (4; 2% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (357; 96% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (8; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nmod:poss	color:blue
-1	Casaimid	cas	VERB	VTI	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
-2	beirt	beirt	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	compound	_	_
-3	ar	ar	ADP	Simp	_	5	case	_	_
-4	ár	ár	DET	Det	Number=Plur|Person=1|Poss=Yes	5	nmod:poss	_	_
-5	sáil	sáil	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	obl	_	_
-6	d'	do	PART	Vb	PartType=Vb	8	case	_	SpaceAfter=No
-7	aon	aon	DET	Det	PronType=Ind	8	det	_	_
-8	chéim	céim	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 15 nmod:poss	color:blue
+1	Cé	cé	SCONJ	Subord	_	3	mark	_	_
+2	nár	nár	PART	Vb	PartType=Cmpl|Tense=Past	3	mark:prt	_	_
+3	dhúirt	abair	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	6	advcl	_	_
+4	tú	tú	PRON	Pers	Number=Sing|Person=2	3	nsubj	_	_
+5	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	6	obj	_	_
+6	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
+7	'	'	PUNCT	Punct	_	8	punct	_	SpaceAfter=No
+8	fhios	fios	NOUN	Noun	Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	_
+9	agam	ag	ADP	Prep	Number=Sing|Person=1	6	obl:prep	_	_
+10	gur	gur	PART	Vb	PartType=Vb|Tense=Past	11	mark:prt	_	_
+11	thuig	tuig	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	6	ccomp	_	_
+12	tú	tú	PRON	Pers	Number=Sing|Person=2	11	nsubj	_	_
+13	sin	sin	PRON	Dem	PronType=Dem	11	obj	_	_
+14	i	i	ADP	Simp	_	16	case	_	_
+15	do	do	DET	Det	Number=Sing|Person=2|Poss=Yes	16	nmod:poss	_	_
+16	chroí	croí	NOUN	Noun	Form=Len|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nmod:poss	color:blue
+1	Seasaim	seas	VERB	VTI	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+2	le	le	ADP	Simp	_	3	case	_	_
+3	balla	balla	NOUN	Noun	Gender=Masc|Number=Sing	1	obl	_	_
+4	trasna	trasna	PART	Inf	PartType=Inf	3	amod	_	_
+5	uathu	ó	ADP	Prep	Number=Plur|Person=3	1	obl:prep	_	_
+6	dá	do	ADP	Poss	Number=Plur|Person=3|Poss=Yes	7	nmod:poss	_	_
+7	bhféachaint	féachaint	NOUN	Noun	Form=Ecl|VerbForm=Inf	1	obl	_	_
+8	nóiméad	nóiméad	NOUN	Noun	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
@@ -48,78 +75,6 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 5	a	a	PART	Inf	PartType=Inf	6	nmod:poss	_	_
 6	laghad	laghad	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nmod:poss	color:blue
-1	Beidh	bí	VERB	FutInd	Mood=Ind|Tense=Fut	0	root	_	_
-2	a	a	DET	Det	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	nmod:poss	_	_
-3	chomhionann	ionann	ADJ	Adj	Degree=Pos|Form=Len	1	nsubj	_	_
-4	le	le	ADP	Simp	_	5	case	_	_
-5	déanamh	déananh	NOUN	Noun	Form=Len|VerbForm=Inf	1	xcomp	_	_
-6	le	le	ADP	Simp	_	7	case	_	_
-7	fuaimniú	fuaimniú	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	5	nmod	_	_
-8	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	teanga	teanga	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	compound	_	_
-10	agus	agus	CCONJ	Coord	_	12	cc	_	_
-11	is	is	AUX	Cop	Tense=Pres|VerbForm=Cop	12	cop	_	_
-12	mithid	mithid	ADJ	Adj	Degree=Pos	1	conj	_	_
-13	sin	sin	PRON	Dem	PronType=Dem	12	nsubj	_	_
-14	le	le	ADP	Simp	_	15	case	_	_
-15	freastal	freastal	NOUN	Noun	VerbForm=Inf	12	xcomp	_	_
-16	ar	ar	ADP	Simp	_	17	case	_	_
-17	mhúinteoirí	múinteoir	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
-18	,	,	PUNCT	Punct	_	19	punct	_	_
-19	agus	agus	CCONJ	Coord	_	20	cc	_	_
-20	orthu	ar	ADP	Prep	Number=Plur|Person=3	17	conj	_	_
-21	sin	sin	PRON	Dem	PronType=Dem	20	det	_	_
-22	a	a	PART	Vb	PartType=Vb|PronType=Rel	23	nsubj	_	_
-23	bhíonn	bí	VERB	PresImp	Form=Len	20	acl:relcl	_	_
-24	ag	ag	ADP	Simp	_	25	case	_	_
-25	plé	plé	NOUN	Noun	VerbForm=Vnoun	23	xcomp	_	_
-26	le	le	ADP	Simp	_	27	case	_	_
-27	scrúduithe	scrúdú	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	25	nmod	_	_
-28	agus	agus	CCONJ	Coord	_	30	cc	_	_
-29	le	le	ADP	Simp	_	30	case	_	_
-30	trialacha	triail	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Plur	27	conj	_	_
-31	cainte	caint	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	30	compound	_	_
-32	agus	agus	CCONJ	Coord	_	33	cc	_	_
-33	éisteachta	éisteacht	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	31	conj	_	SpaceAfter=No
-34	,	,	PUNCT	Punct	_	35	punct	_	_
-35	agus	agus	CCONJ	Coord	_	39	cc	_	_
-36	go	go	PART	Ad	PartType=Ad	37	mark:prt	_	_
-37	háirithe	áirithe	ADJ	Adj	Degree=Pos	39	advmod	_	_
-38	le	le	ADP	Simp	_	39	case	_	_
-39	cuidiú	cuidiú	NOUN	Noun	VerbForm=Inf	15	conj	_	_
-40	le	le	ADP	Simp	_	41	case	_	_
-41	lucht	lucht	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	39	nmod	_	_
-42	raidió	raidió	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	41	compound	_	_
-43	agus	agus	CCONJ	Coord	_	44	cc	_	_
-44	teilifíse	teilifís	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	42	conj	_	_
-45	uirlis	uirlis	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	44	compound	_	_
-46	chumhachtach	cumhachtach	ADJ	Adj	Case=NomAcc|Gender=Fem|Number=Sing	45	amod	_	_
-47	chumarsáide	cumarsáid	NOUN	Noun	Case=Gen|Form=Len|Gender=Fem|Number=Sing	45	compound	_	SpaceAfter=No
-48	,	,	PUNCT	Punct	_	50	punct	_	_
-49	a	a	PART	Vb	PartType=Vb|PronType=Rel	50	nsubj	_	_
-50	dhéanfadh	déan	VERB	VTI	Form=Len|Mood=Cnd	45	acl:relcl	_	_
-51	freastal	freastal	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	50	obj	_	_
-52	ar	ar	ADP	Simp	_	53	case	_	_
-53	phobal	pobal	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	50	obl	_	_
-54	leathan	leathan	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	53	amod	_	_
-55	ilbhéascnach	ilbhéascnach	ADJ	Adj	_	53	amod	_	SpaceAfter=No
-56	,	,	PUNCT	Punct	_	58	punct	_	_
-57	a	a	PART	Inf	PartType=Inf	58	mark	_	_
-58	chothú	cothú	NOUN	Noun	Form=Len|VerbForm=Inf	50	xcomp	_	_
-59	agus	agus	CCONJ	Coord	_	61	cc	_	_
-60	a	a	PART	Inf	PartType=Inf	61	mark	_	_
-61	bhuanú	buanú	NOUN	Noun	Form=Len|VerbForm=Inf	58	conj	_	SpaceAfter=No
-62	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

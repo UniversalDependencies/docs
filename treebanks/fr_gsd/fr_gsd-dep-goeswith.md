@@ -22,13 +22,13 @@ The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 goeswith	color:blue
-1	Nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	avons	avoir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+1	Nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+2	avons	avoir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	testé	tester	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	restaurant	restaurant	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
 6	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
-7	week	weekend	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	MWEPOS=NOUN
+7	week	weekend	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	EXTPOS=NOUN|Type=MWE
 8	end	end	NOUN	_	Gender=Fem|Number=Sing	7	goeswith	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -55,7 +55,7 @@ The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a 
 12	dans	dans	ADP	_	_	15	case	_	_
 13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 14	petit	petit	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
-15	sous	sous	ADP	_	_	11	nmod	_	MWEPOS=NOUN
+15	sous	sous	ADP	_	_	11	nmod	_	EXTPOS=NOUN|Type=MWE
 16	marin	marin	NOUN	_	Gender=Masc|Number=Sing	15	goeswith	_	_
 17	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 18	parfait	parfait	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
@@ -80,9 +80,9 @@ The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 goeswith	color:blue
-1	Pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
-2	de	un	DET	_	Definite=Ind|PronType=Art	3	det	_	_
-3	sèche	sécher	VERB	_	_	0	root	_	MWEPOS=NOUN
+1	Pas	pas	ADV	_	Polarity=Neg	0	root	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	sèche	sécher	VERB	_	_	1	obl:arg	_	EXTPOS=NOUN|Type=MWE
 4	cheveux	cheveu	NOUN	_	Gender=Masc|Number=Plur	3	goeswith	_	_
 5	ni	ni	CCONJ	_	_	7	cc	_	_
 6	de	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -90,10 +90,10 @@ The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a 
 8	rasoir	rasoir	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
 9	dans	dans	ADP	_	_	11	case	_	_
 10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	salle	salle	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+11	salle	salle	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	bains	bain	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	3	punct	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

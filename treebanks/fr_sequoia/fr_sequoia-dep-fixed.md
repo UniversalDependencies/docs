@@ -22,7 +22,7 @@ The following 44 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	De	de	ADP	_	_	11	advmod	_	MWE=de_plus|MWEPOS=ADV
+1	De	de	ADP	_	_	11	advmod	_	EXTPOS=ADV|MWE=de_plus
 2	plus	plus	ADV	_	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	11	punct	_	_
 4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -49,7 +49,7 @@ The following 44 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	perfusion	perfusion	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
 3	agit	agir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	à	à	ADP	_	_	8	advmod	_	MWE=au_moins|MWEPOS=ADV
+4	à	à	ADP	_	_	8	advmod	_	EXTPOS=ADV|MWE=au_moins
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	fixed	_	_
 6	moins	moins	ADV	_	_	4	fixed	_	_
 7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -66,7 +66,7 @@ The following 44 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 6	fgColor:white
 # visual-style 6 7 fixed	color:blue
 1	Angiox	Angiox	PROPN	_	_	4	nsubj:pass	_	_
-2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 3	été	être	AUX	_	Tense=Past|VerbForm=Part	4	aux:pass	_	_
 4	étudié	étudier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 5	chez	chez	ADP	_	_	9	case	_	_

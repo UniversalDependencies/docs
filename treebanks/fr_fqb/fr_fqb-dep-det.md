@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3801 nodes (16%) are attached to their parents as `det`.
+3808 nodes (16%) are attached to their parents as `det`.
 
-3801 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1186529860563.
+3808 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1202731092437.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3193; 84% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (538; 14% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (53; 1% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3193; 84% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (538; 14% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (53; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -61,7 +61,7 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 9	fgColor:white
 # visual-style 9 8 det	color:blue
 1	Qui	qui	PRON	_	PronType=Int	3	nsubj	_	_
-2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	remporté	remporter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	Oscar	Oscar	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_

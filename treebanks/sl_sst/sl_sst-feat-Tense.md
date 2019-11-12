@@ -87,6 +87,5 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt>]--> VERB</tt> (29; 53%),
 <tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="sl_sst-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (2; 67%),
-<tt>AUX --[<tt><a href="sl_sst-dep-parataxis-discourse.html">parataxis:discourse</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%).
 

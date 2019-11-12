@@ -12,10 +12,10 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cs_pdt-feat-Number.html">Number</a></tt>, <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt>.
 
-833871 tokens (55%) have a non-empty value of `Number`.
+833856 tokens (55%) have a non-empty value of `Number`.
 129498 types (101%) occur at least once with a non-empty value of `Number`.
 49111 lemmas (84%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (363295; 24% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (184589; 12% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (111060; 7% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (68762; 5% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (49244; 3% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (31665; 2% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (13607; 1% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (11649; 1% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (363295; 24% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (184589; 12% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (111060; 7% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (68762; 5% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (49229; 3% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (31665; 2% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (13607; 1% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (11649; 1% instances).
 
 ### `NOUN`
 
@@ -150,15 +150,15 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `DET`
 
-49244 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Number`.
+49229 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (44860; 91%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (44860; 91%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (42257; 86%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (39960; 81%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (44845; 91%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (44845; 91%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (42242; 86%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (39945; 81%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Dual` (4; 0% of non-empty `Number`): <em>jejíma, svýma, těma</em>
 * `Plur` (13372; 27% of non-empty `Number`): <em>které, kteří, všechny, všech, těchto, své, tyto, svých, některé, některých</em>
-* `Sing` (35868; 73% of non-empty `Number`): <em>to, který, která, tím, tom, této, které, tomu, tento, své</em>
+* `Sing` (35853; 73% of non-empty `Number`): <em>to, který, která, tím, tom, této, které, tomu, tento, své</em>
 * `EMPTY` (6883): <em>jeho, jejich, několik, několika, mnoho, jejichž, mnoha, kolik, jehož, tolik</em>
 
 <table>
@@ -308,7 +308,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 * `Dual` (27; 0% of non-empty `Number`): <em>oběma, dvěma, čtyřma</em>
 * `Plur` (6148; 53% of non-empty `Number`): <em>dva, tři, dvě, dvou, čtyři, obou, oba, tří, pěti, obě</em>
 * `Sing` (5474; 47% of non-empty `Number`): <em>jeden, tisíc, pět, jednoho, jedné, jedna, jednu, deset, jedním, šest</em>
-* `EMPTY` (29855): <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
+* `EMPTY` (29859): <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
 
 <table>
   <tr><th>Paradigm <i>dva</i></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -329,7 +329,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (147874; 98%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (68214; 61%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (38835; 82%),
-<tt>NOUN --[<tt><a href="cs_pdt-dep-det.html">det</a></tt>]--> DET</tt> (23443; 82%),
+<tt>NOUN --[<tt><a href="cs_pdt-dep-det.html">det</a></tt>]--> DET</tt> (23412; 82%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (17267; 78%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (11067; 53%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (10708; 95%),

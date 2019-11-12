@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="be_hse-dep-aux-pass.html">aux:pass</a></tt>.
 
-30 nodes (0%) are attached to their parents as `aux`.
+29 nodes (0%) are attached to their parents as `aux`.
 
-26 instances of `aux` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26666666666667.
+25 instances of `aux` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27586206896552.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (26; 87% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (3; 10% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (26; 90% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (2; 7% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6	fgColor:white
 # visual-style 6 5 aux	color:blue
 1	Пры	пры	ADP	IN	_	6	mark	_	_
-2	чым	чым	SCONJ	IN	_	1	goeswith	_	_
+2	чым	чым	SCONJ	IN	_	1	fixed	_	_
 3	гэтыя	гэты	DET	DT	Case=Nom|Number=Plur|PronType=Dem	4	det	_	_
 4	рэкамендацыі	рэкамендацыя	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	_
 5	будуць	быць	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	aux	_	_

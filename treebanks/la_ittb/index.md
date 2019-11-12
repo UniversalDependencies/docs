@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Marco Passarotti, Daniel Zeman, Berta González Saavedra, Flavio Massimiliano Cecchini.
 
 Repository: [UD_Latin-ITTB](https://github.com/UniversalDependencies/UD_Latin-ITTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -59,7 +59,7 @@ Latin data from the _Index Thomisticus_ Treebank. Data are taken from the _Index
 <pre>
 @article{lait-ud,
 author = {Cecchini, Flavio Massimiliano and Passarotti, Marco and Marongiu, Paola and Zeman, Daniel},
-title = {{Challenges in Converting the Index Thomisticus treebank into Universal Dependencies}},
+title = {Challenges in Converting the \emph{Index Thomisticus} treebank into Universal Dependencies},
 journal = {Proceedings of the Universal Dependencies Workshop 2018 (UDW 2018)},
 year = {2018},
 address = {Brussels, Belgium}

@@ -17,20 +17,21 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 5 compound	color:blue
-1	Šiuo	šis	DET	Pgmsin	Case=Ins|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	2	det	2:det	_
-2	metu	metas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	0	root	0:root	_
-3	ES	ES	X	Ya	Abbr=Yes	4	nmod	4:nmod	_
-4	rinkoje	rinka	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing	2	obl	2:obl	_
-5	trys	trys	NUM	Mcm-nl-	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card	6	compound	6:compound	_
-6	dešimtys	dešimt	NUM	Mcfpnl-	Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	8	nummod:gov	8:nummod:gov	_
-7	GMO	GMO	X	Ya	Abbr=Yes	8	nmod	8:nmod	_
-8	produktų	produktas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	2	nsubj	2:nsubj	SpaceAfter=No
-9	.	.	PUNCT	Z	_	2	punct	2:punct	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 compound	color:blue
+1	Šiuo	šis	DET	įv.vyr.vns.Įn.	Case=Ins|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	2	det	2:det	_
+2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	5	obl	5:obl	_
+3	ES	ES	X	akr.	Abbr=Yes	4	nmod	4:nmod	_
+4	rinkoje	rinka	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	5	obl	5:obl	_
+5	cirkuliuoja	cirkuliuoti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	trys	trys	NUM	sktv.raid.kiek.mot.V.	Case=Nom|Gender=Fem|NumForm=Word|NumType=Card	7	compound	7:compound	_
+7	dešimtys	dešimt	NUM	sktv.raid.kiek.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	9	nummod:gov	9:nummod:gov	_
+8	GMO	GMO	X	akr.	Abbr=Yes	9	nmod	9:nmod	_
+9	produktų	produktas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	5	nsubj	5:nsubj	SpaceAfter=No
+10	.	.	PUNCT	skyr.	_	5	punct	5:punct	_
 
 ~~~
 

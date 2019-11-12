@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-9736 tokens (10%) have a non-empty value of `Definite`.
+9724 tokens (10%) have a non-empty value of `Definite`.
 12 types (0%) occur at least once with a non-empty value of `Definite`.
 6 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (9736; 10% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (9724; 10% instances).
 
 ### `DET`
 
-9736 <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> tokens (93% of all `DET` tokens) have a non-empty value of `Definite`.
+9724 <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Definite`.
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (8070; 83% of non-empty `Definite`): <em>de, het, der, 't, 's, des, dé</em>
-* `Ind` (1666; 17% of non-empty `Definite`): <em>een</em>
-* `EMPTY` (762): <em>deze, dit, alle, geen, die, enkele, veel, elke, sommige, dat</em>
+* `Def` (8064; 83% of non-empty `Definite`): <em>de, het, der, 't, 's, des, dé</em>
+* `Ind` (1660; 17% of non-empty `Definite`): <em>een</em>
+* `EMPTY` (865): <em>deze, dit, alle, geen, die, enkele, veel, elke, sommige, dat</em>
 
 ## Relations with Agreement in `Definite`
 

@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	Eğer	eğer	SCONJ	_	_	4	mark	_	_
 2	sokağa	sokak	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
 3	çıkmak	çık	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	4	xcomp	_	_
-4	istiyorsan	iste	VERB	_	Aspect=Prog|Evident=Fh|Mood=Cnd|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
+4	istiyorsan	iste	VERB	_	Aspect=Prog|Evident=Fh|Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	…	…	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -41,7 +41,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	Bayram’ın	bayram	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
 3	ailesi	aile	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	_
 4	zengin	zengin	ADJ	_	_	5	xcomp	_	_
-5	sayılıyormuş	say	VERB	_	Aspect=Prog|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
+5	sayılıyormuş	say	VERB	_	Aspect=Prog|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -59,7 +59,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 4	resim	resim	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
 5	sanat	sanat	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
 6	eseri	eser	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	xcomp	_	_
-7	sayılmaz	say	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
+7	sayılmaz	say	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~

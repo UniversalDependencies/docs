@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Assyrian-AS: POS Tags: `PRON`
 
 There are 29 `PRON` lemmas (12%), 27 `PRON` types (10%) and 43 `PRON` tokens (9%).
-Out of 13 observed tags, the rank of `PRON` is: 4 in number of lemmas, 4 in number of types and 4 in number of tokens.
+Out of 13 observed tags, the rank of `PRON` is: 4 in number of lemmas, 4 in number of types and 5 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>ܐܵܢܝܼ, ܠܸܗ, ܐܵܢܵܐ, ܠܹܗ, ܐܲܢ݇ܬ, ܡܘܼܕܝܼ, ܐܲܚܬܘܢ, ܐܲܚܲܢ, ܐܵܗܵܐ, ܐܸܠܲܟ̣ܘܢ</em>
 
@@ -41,11 +41,11 @@ The 2nd highest number of forms (1) was observed with the lemma “ܐܲܚܲܢ”
 
 The 3rd highest number of forms (1) was observed with the lemma “ܐܲܢ݇ܬ”: <em>ܐܲܢ݇ܬ</em>.
 
-`PRON` occurs with 7 features: <tt><a href="aii_as-feat-Person.html">Person</a></tt> (27; 63% instances), <tt><a href="aii_as-feat-PronType.html">PronType</a></tt> (26; 60% instances), <tt><a href="aii_as-feat-Number.html">Number</a></tt> (24; 56% instances), <tt><a href="aii_as-feat-Gender.html">Gender</a></tt> (14; 33% instances), <tt><a href="aii_as-feat-Case.html">Case</a></tt> (12; 28% instances), <tt><a href="aii_as-feat-Poss.html">Poss</a></tt> (4; 9% instances), <tt><a href="aii_as-feat-ProneType.html">ProneType</a></tt> (1; 2% instances)
+`PRON` occurs with 6 features: <tt><a href="aii_as-feat-Person.html">Person</a></tt> (27; 63% instances), <tt><a href="aii_as-feat-PronType.html">PronType</a></tt> (27; 63% instances), <tt><a href="aii_as-feat-Number.html">Number</a></tt> (24; 56% instances), <tt><a href="aii_as-feat-Gender.html">Gender</a></tt> (14; 33% instances), <tt><a href="aii_as-feat-Case.html">Case</a></tt> (12; 28% instances), <tt><a href="aii_as-feat-Poss.html">Poss</a></tt> (4; 9% instances)
 
-`PRON` occurs with 13 feature-value pairs: `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Int`, `PronType=Prs`, `ProneType=Prs`
+`PRON` occurs with 12 feature-value pairs: `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Int`, `PronType=Prs`
 
-`PRON` occurs with 25 feature combinations.
+`PRON` occurs with 24 feature combinations.
 The most frequent feature combination is `_` (7 tokens).
 Examples: <em>ܠܹܗ, ܡܘܼܕܝܼ, ܐܵܗܵܐ, ܚܕܵܕܸܐ, ܡܵܢܝܼ</em>
 

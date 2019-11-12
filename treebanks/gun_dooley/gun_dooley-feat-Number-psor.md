@@ -11,14 +11,14 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="gun_dooley-feat-Number.html">Number</a></tt>, <tt><a href="gun_dooley-feat-Number-psor.html">Number[psor]</a></tt>.
 
-62 tokens (1%) have a non-empty value of `Number[psor]`.
-4 types (4%) occur at least once with a non-empty value of `Number[psor]`.
-4 lemmas (4%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="gun_dooley-pos-NOUN.html">NOUN</a></tt> (62; 1% instances).
+71 tokens (1%) have a non-empty value of `Number[psor]`.
+3 types (3%) occur at least once with a non-empty value of `Number[psor]`.
+3 lemmas (3%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 1 part-of-speech tags: <tt><a href="gun_dooley-pos-NOUN.html">NOUN</a></tt> (71; 1% instances).
 
 ### `NOUN`
 
-62 <tt><a href="gun_dooley-pos-NOUN.html">NOUN</a></tt> tokens (5% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+71 <tt><a href="gun_dooley-pos-NOUN.html">NOUN</a></tt> tokens (6% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 

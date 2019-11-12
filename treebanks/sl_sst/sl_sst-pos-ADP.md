@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>v</em> (<tt><a href="sl_sst-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.048780 (the average of all parts of speech is 1.572106).
+The form / lemma ratio of `ADP` is 1.048780 (the average of all parts of speech is 1.570645).
 
 The 1st highest number of forms (2) was observed with the lemma “k”: <em>h, k</em>.
 
@@ -73,21 +73,21 @@ Examples: <em>v, na, pri, po, o, ob</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 9 different relations: <tt><a href="sl_sst-dep-case.html">case</a></tt> (1692; 94% instances), <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (53; 3% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (15; 1% instances), <tt><a href="sl_sst-dep-nmod.html">nmod</a></tt> (15; 1% instances), <tt><a href="sl_sst-dep-obl.html">obl</a></tt> (14; 1% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="sl_sst-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="sl_sst-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="sl_sst-dep-root.html">root</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 9 different relations: <tt><a href="sl_sst-dep-case.html">case</a></tt> (1691; 94% instances), <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (54; 3% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (15; 1% instances), <tt><a href="sl_sst-dep-nmod.html">nmod</a></tt> (15; 1% instances), <tt><a href="sl_sst-dep-obl.html">obl</a></tt> (14; 1% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="sl_sst-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="sl_sst-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="sl_sst-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (1190; 66% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (161; 9% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (111; 6% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (104; 6% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (66; 4% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (53; 3% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (37; 2% instances), <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (29; 2% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (27; 1% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (20; 1% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (3; 0% instances),  (1; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (1192; 66% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (163; 9% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (111; 6% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (104; 6% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (66; 4% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (53; 3% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (37; 2% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (27; 1% instances), <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (25; 1% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (20; 1% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (3; 0% instances),  (1; 0% instances)
 
-1753 (97%) `ADP` nodes are leaves.
+1758 (98%) `ADP` nodes are leaves.
 
-37 (2%) `ADP` nodes have one child.
+30 (2%) `ADP` nodes have one child.
 
-10 (1%) `ADP` nodes have two children.
+12 (1%) `ADP` nodes have two children.
 
 2 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 8 different relations: <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (38; 60% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (13; 21% instances), <tt><a href="sl_sst-dep-discourse-filler.html">discourse:filler</a></tt> (5; 8% instances), <tt><a href="sl_sst-dep-advmod.html">advmod</a></tt> (2; 3% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="sl_sst-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="sl_sst-dep-discourse.html">discourse</a></tt> (1; 2% instances), <tt><a href="sl_sst-dep-punct.html">punct</a></tt> (1; 2% instances)
+Children of `ADP` nodes are attached using 6 different relations: <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (34; 57% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (13; 22% instances), <tt><a href="sl_sst-dep-punct.html">punct</a></tt> (8; 13% instances), <tt><a href="sl_sst-dep-advmod.html">advmod</a></tt> (2; 3% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="sl_sst-dep-discourse.html">discourse</a></tt> (1; 2% instances)
 
-Children of `ADP` nodes belong to 9 different parts of speech: <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (29; 46% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (9; 14% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (6; 10% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (5; 8% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (4; 6% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (3; 5% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (2; 3% instances)
+Children of `ADP` nodes belong to 9 different parts of speech: <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (25; 42% instances), <tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> (8; 13% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (7; 12% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (6; 10% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (4; 7% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (3; 5% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (2; 3% instances)
 

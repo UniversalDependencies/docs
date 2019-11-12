@@ -36,7 +36,7 @@ The following 35 pairs of parts of speech are connected with `acl`: <tt><a href=
 11	på	på	ADP	_	_	14	case	_	_
 12	ny	ny	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	14	amod	_	_
 13	rødgrønn	rødgrønn	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	14	amod	_	_
-14	valgseier	valgseier	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+14	valgseier	valgseier	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	_
 15	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -59,7 +59,7 @@ The following 35 pairs of parts of speech are connected with `acl`: <tt><a href=
 9	NRK	NRK	PROPN	_	_	5	obl	_	_
 10	tidligere	tidlig	ADJ	_	Degree=Cmp	12	advmod	_	_
 11	i	i	ADP	_	_	12	case	_	_
-12	år	år	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+12	år	år	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	5	obl	_	_
 13	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -79,7 +79,7 @@ The following 35 pairs of parts of speech are connected with `acl`: <tt><a href=
 6	og	og	CCONJ	_	_	7	cc	_	_
 7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	conj	_	_
 8	å	å	PART	_	_	9	mark	_	_
-9	betrakte	betrakte	VERB	_	VerbForm=Inf	7	acl	_	SpaceAfter=No
+9	betrakte	betrakte	VERB	_	VerbForm=Inf	7	acl	_	_
 10	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~

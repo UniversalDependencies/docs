@@ -94,9 +94,11 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (718; 61%),
-<tt>VERB --[<tt><a href="fr_sequoia-dep-expl.html">expl</a></tt>]--> PRON</tt> (203; 58%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (577; 57%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (167; 59%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-expl-subj.html">expl:subj</a></tt>]--> PRON</tt> (143; 90%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> VERB</tt> (118; 58%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (34; 60%),
 <tt>PRON --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (21; 95%),
 <tt>PRON --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (9; 90%),
 <tt>PRON --[<tt><a href="fr_sequoia-dep-advcl-cleft.html">advcl:cleft</a></tt>]--> VERB</tt> (1; 100%).

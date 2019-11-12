@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PUD: Relations: `advmod:arg`
 
 This relation is a language-specific subtype of <tt><a href="pl_pud-dep-advmod.html">advmod</a></tt>.
-There are also 1 other language-specific subtypes of `advmod`: <tt><a href="pl_pud-dep-advmod-neg.html">advmod:neg</a></tt>.
+There are also 2 other language-specific subtypes of `advmod`: <tt><a href="pl_pud-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="pl_pud-dep-advmod-neg.html">advmod:neg</a></tt>.
 
 1 nodes (0%) are attached to their parents as `advmod:arg`.
 

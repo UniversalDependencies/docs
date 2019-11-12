@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="a
 # visual-style 5 1 cc	color:blue
 1	ܘ	ܘ	CCONJ	_	_	5	cc	_	_
 2	ܐܝܟܵܐ	ܐܝܟܵܐ	ADV	_	_	5	advmod	_	_
-3	ܟܹܐ	ܟܹܐ	PART	_	_	5	aux	_	_
+3	ܟܹܐ	ܟܹܐ	AUX	_	_	5	aux	_	_
 4	ܦܵܝܫܵܐ	ܦܵܝܫ	AUX	_	Gender=Fem|Number=Sing|Person=3	5	aux	_	_
 5	ܡܘ̣ܦܠ݀ܚܬܵܐ	ܡܦܠܚ	VERB	_	Gender=Fem|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	0	root	_	_
 6	?	?	PUNCT	_	_	5	punct	_	_

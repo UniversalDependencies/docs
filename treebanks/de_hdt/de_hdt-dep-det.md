@@ -9,66 +9,70 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="de_hdt-dep-det-poss.html">det:poss</a></tt>.
 
-58537 nodes (10%) are attached to their parents as `det`.
+421575 nodes (12%) are attached to their parents as `det`.
 
-58527 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42342450074312.
+421500 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39626875407697.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (54202; 93% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (2694; 5% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1269; 2% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (274; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (43; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (41; 0% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `det`: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (373643; 89% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (20595; 5% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (18019; 4% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (6692; 2% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1618; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (348; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (228; 0% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (164; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (154; 0% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (86; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 det	color:blue
-1	Zusätzliche	zusätzlich	ADJ	ADJA	Degree=Pos|Number=Plur	2	amod	_	_
-2	Online-Stunden	Stunde	NOUN	NN	Gender=Fem|Number=Plur|Person=3	3	nsubj	_	_
-3	kosten	kosten	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
-4	in	in	ADP	APPR	Case=Dat	6	case	_	_
-5	allen	all	DET	PIDAT	Case=Dat|Number=Plur|Person=3	6	det	_	_
-6	Fällen	Fall	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3	3	obl	_	_
-7	6	6	NUM	CARD	Number=Plur|Person=3	8	nummod	_	_
-8	Mark	Mark	NOUN	NN	Gender=Fem|Number=Plur|Person=3	3	obj	_	_
-9	.	.	PUNCT	$.	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det	color:blue
+1	"	"	PUNCT	$(	PunctType=Brck	4	punct	_	_
+2	Diesen	dies	DET	PDAT	Case=Dat|Number=Plur|PronType=Dem	3	det	_	_
+3	Gerüchten	Gerücht	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur|Person=3	4	obj	_	_
+4	liegt	liegen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	eine	eine	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	unseriöse	unseriöse	ADJ	ADJA	Gender=Fem|Number=Sing	7	amod	_	_
+7	Recherche	Recherche	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nsubj	_	_
+8	zugrunde	zugrunde	ADP	PTKVZ	PartType=Vbp	4	compound:prt	_	_
+9	.	.	PUNCT	$.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 det	color:blue
-1	Laxer	Laxer	ADJ	ADJA	Gender=Masc|Number=Sing	2	amod	_	_
-2	Umgang	Umgang	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-3	mit	mit	ADP	APPR	Case=Dat	4	case	_	_
-4	Kundendaten	Datum	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur|Person=3	2	nmod	_	_
-5	bei	bei	ADP	APPR	Case=Dat	7	case	_	_
-6	der	der	DET	ART	Case=Dat|Gender=Fem|Number=Sing	7	det	_	_
-7	Telekom	Telekom	PROPN	NE	Case=Dat|Gender=Fem|Number=Sing|Person=3	2	nmod	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 det	color:blue
+1	Diese	Diese	DET	PDAT	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	Auskunft	Auskunft	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nsubj	_	_
+3	gab	geben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	jedenfalls	jedenfalls	ADV	ADV	_	3	advmod	_	_
+5	heute	heute	ADV	ADV	_	3	advmod	_	_
+6	die	die	DET	ART	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Hotline	Hotline	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	obj	_	_
+8	der	der	DET	ART	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Telekom	Telekom	PROPN	NE	Case=Gen|Gender=Fem|Number=Sing|Person=3	7	nmod	_	_
+10	.	.	PUNCT	$.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 det	color:blue
-1	Mit	Mit	ADP	APPR	Case=Dat	3	case	_	_
-2	einer	einer	DET	ART	Case=Dat|Gender=Fem|Number=Sing	3	det	_	_
-3	Batterie	Batterie	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing|Person=3	9	obl	_	_
-4	soll	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
-5	der	der	DET	ART	Case=Nom|Gender=Masc|Number=Sing	6	det	_	_
-6	Pocketreader	Pocketreader	X	FM	Person=3	9	nsubj	_	_
-7	20	20	NUM	CARD	Number=Plur|Person=3	8	nummod	_	_
-8	Stunden	Stunde	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur|Person=3	9	obl	_	_
-9	laufen	laufen	VERB	VVINF	_	0	root	_	_
-10	.	.	PUNCT	$.	_	9	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 det	color:blue
+1	Gestern	Gestern	ADV	ADV	_	2	advmod	_	_
+2	Abend	Abend	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obl	_	_
+3	um	um	ADP	APPR	AdpType=Prep	5	case	_	_
+4	20.34	20.34	NUM	CARD	Number=Plur|NumType=Card|Person=3	5	nummod	_	_
+5	Uhr	Uhr	NOUN	NN	Gender=Fem|Number=Sing|Person=3	2	nmod	_	_
+6	nahm	nehmen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	das	das	DET	ART	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+8	Schicksal	Schicksal	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nsubj	_	_
+9	seinen	seinen	PRON	PPOSAT	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	Lauf	Lauf	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	_	_
+11	:	:	PUNCT	$.	PunctType=Peri	6	punct	_	_
 
 ~~~
 

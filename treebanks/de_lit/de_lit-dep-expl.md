@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-158 nodes (0%) are attached to their parents as `expl`.
+160 nodes (0%) are attached to their parents as `expl`.
 
-118 instances of `expl` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.43670886075949.
+122 instances of `expl` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.50625.
 
-The following 8 pairs of parts of speech are connected with `expl`: <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (106; 67% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (25; 16% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (12; 8% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (10; 6% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt>-<tt><a href="de_lit-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-DET.html">DET</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `expl`: <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (112; 70% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (26; 16% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (11; 7% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (6; 4% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="de_lit-pos-DET.html">DET</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -56,16 +56,27 @@ The following 8 pairs of parts of speech are connected with `expl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 expl	color:blue
-1	Auch	auch	ADV	ADV	_	2	advmod	_	_
-2	war	sein	AUX	VAFIN	_	0	root	_	_
-3	es	es	PRON	PPER	_	2	expl	_	_
-4	Phryne	Phryne	PROPN	NE	_	2	nsubj	_	SpaceAfter=No
-5	.	--	PUNCT	$.	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 expl	color:blue
+1	Es	es	PRON	PPER	_	5	expl	_	_
+2	ist	sein	AUX	VAFIN	_	5	cop	_	_
+3	ein	ein	DET	ART	_	5	det	_	_
+4	großer	groß	ADJ	ADJA	_	5	amod	_	_
+5	Irrtum	Irrtum	NOUN	NN	_	0	root	_	SpaceAfter=No
+6	,	--	PUNCT	$,	_	13	punct	_	_
+7	den	der	DET	ART	_	8	det	_	_
+8	Witz	Witz	NOUN	NN	_	13	obj	_	_
+9	bloß	bloß	ADV	ADV	_	13	advmod	_	_
+10	auf	auf	ADP	APPR	_	12	case	_	_
+11	die	der	DET	ART	_	12	det	_	_
+12	Gesellschaft	Gesellschaft	NOUN	NN	_	13	obl	_	_
+13	einschränken	einschränken	VERB	VVINF	_	5	csubj	_	_
+14	zu	zu	PART	PTKZU	_	13	mark	_	_
+15	wollen	wollen	AUX	VMINF	_	13	aux	_	SpaceAfter=No
+16	.	--	PUNCT	$.	_	5	punct	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="de_lit-dep-nsubj.html">nsubj</a></tt>.
 
-126 nodes (0%) are attached to their parents as `nsubj:pass`.
+121 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-124 instances of `nsubj:pass` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.49206349206349.
+121 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.27272727272727.
 
-The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (61; 48% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (57; 45% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (60; 50% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (54; 45% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -62,7 +62,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 1 nsubj:pass	color:blue
 1	Poesie	Poesie	PROPN	NE	_	6	nsubj:pass	_	_
-2	kann	können	VERB	VMFIN	_	6	aux	_	_
+2	kann	können	AUX	VMFIN	_	6	aux	_	_
 3	nur	nur	ADV	ADV	_	6	advmod	_	_
 4	durch	durch	ADP	APPR	_	5	case	_	_
 5	Poesie	Poesie	NOUN	NN	_	6	obl	_	_

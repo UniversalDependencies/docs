@@ -70,7 +70,7 @@ The 10 most frequent ambiguous types:  <em>y</em> (<tt><a href="es_gsd-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.256167).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.256161).
 
 The 1st highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
 
@@ -93,17 +93,17 @@ Examples: <em>y, o, pero, que, e, como, ni, sino, mientras, si</em>
 
 Parents of `CCONJ` nodes belong to 17 different parts of speech: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (5113; 37% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (4231; 31% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (1904; 14% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1110; 8% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (484; 4% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (310; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (249; 2% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (110; 1% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (96; 1% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (80; 1% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (42; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (42; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (30; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> (17; 0% instances), <tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances),  (1; 0% instances)
 
-13641 (99%) `CCONJ` nodes are leaves.
+13633 (99%) `CCONJ` nodes are leaves.
 
-140 (1%) `CCONJ` nodes have one child.
+156 (1%) `CCONJ` nodes have one child.
 
-28 (0%) `CCONJ` nodes have two children.
+20 (0%) `CCONJ` nodes have two children.
 
 13 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 7.
 
-Children of `CCONJ` nodes are attached using 19 different relations: <tt><a href="es_gsd-dep-fixed.html">fixed</a></tt> (110; 44% instances), <tt><a href="es_gsd-dep-nmod.html">nmod</a></tt> (42; 17% instances), <tt><a href="es_gsd-dep-punct.html">punct</a></tt> (34; 14% instances), <tt><a href="es_gsd-dep-cc.html">cc</a></tt> (17; 7% instances), <tt><a href="es_gsd-dep-case.html">case</a></tt> (11; 4% instances), <tt><a href="es_gsd-dep-det.html">det</a></tt> (5; 2% instances), <tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt> (5; 2% instances), <tt><a href="es_gsd-dep-advmod.html">advmod</a></tt> (4; 2% instances), <tt><a href="es_gsd-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="es_gsd-dep-mark.html">mark</a></tt> (4; 2% instances), <tt><a href="es_gsd-dep-cop.html">cop</a></tt> (3; 1% instances), <tt><a href="es_gsd-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="es_gsd-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="es_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-iobj.html">iobj</a></tt> (1; 0% instances)
+Children of `CCONJ` nodes are attached using 19 different relations: <tt><a href="es_gsd-dep-fixed.html">fixed</a></tt> (110; 44% instances), <tt><a href="es_gsd-dep-nmod.html">nmod</a></tt> (42; 17% instances), <tt><a href="es_gsd-dep-punct.html">punct</a></tt> (34; 14% instances), <tt><a href="es_gsd-dep-conj.html">conj</a></tt> (12; 5% instances), <tt><a href="es_gsd-dep-case.html">case</a></tt> (11; 4% instances), <tt><a href="es_gsd-dep-cc.html">cc</a></tt> (9; 4% instances), <tt><a href="es_gsd-dep-det.html">det</a></tt> (5; 2% instances), <tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt> (5; 2% instances), <tt><a href="es_gsd-dep-advmod.html">advmod</a></tt> (4; 2% instances), <tt><a href="es_gsd-dep-mark.html">mark</a></tt> (4; 2% instances), <tt><a href="es_gsd-dep-cop.html">cop</a></tt> (3; 1% instances), <tt><a href="es_gsd-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="es_gsd-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="es_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-iobj.html">iobj</a></tt> (1; 0% instances)
 
 Children of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> (44; 18% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (43; 17% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (42; 17% instances), <tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (34; 14% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (30; 12% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (17; 7% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (13; 5% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (5; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 

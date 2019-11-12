@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="fr_sequoia-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-898 nodes (1%) are attached to their parents as `flat:name`.
+851 nodes (1%) are attached to their parents as `flat:name`.
 
-898 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14031180400891.
+851 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08695652173913.
 
-The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (693; 77% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (204; 23% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (711; 84% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (139; 16% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,7 +61,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 5	Ruymbeke	Ruymbeke	PROPN	_	_	4	flat:name	_	_
 6	et	et	CCONJ	_	_	7	cc	_	_
 7	Simeoni	Simeoni	PROPN	_	_	4	conj	_	_
-8	s'	se	PRON	_	Person=3|Reflex=Yes	9	expl	_	SpaceAfter=No
+8	s'	se	PRON	_	Person=3|Reflex=Yes	9	expl:comp	_	SpaceAfter=No
 9	intéressent	intéresser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	à	à	ADP	_	_	12	case	_	_
 11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_

@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 406 tokens (0%) have a non-empty value of `Reflex`.
 18 types (0%) occur at least once with a non-empty value of `Reflex`.
-2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
+3 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (406; 0% instances).
 
 ### `PRON`
@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (406; 100% of non-empty `Reflex`): <em>să, se, s-, -să, -și, sine, -se, și, și-, -s</em>
-* `EMPTY` (31073): <em>să, lui, el, ce, carele, ei, voi, lor, -i, -l</em>
+* `EMPTY` (39577): <em>să, ce, lui, el, carele, ei, lor, -i, -l, voi</em>
 

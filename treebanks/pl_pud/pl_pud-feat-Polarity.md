@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="pl_pud-pos-ADJ.html
 
 ### `ADJ`
 
-412 <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> tokens (19% of all `ADJ` tokens) have a non-empty value of `Polarity`.
+412 <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> tokens (17% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="pl_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (412; 100%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (412; 100%), <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (298; 72%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (245; 59%), <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (228; 55%), <tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (228; 55%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (211; 51%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 * `Neg` (6; 1% of non-empty `Polarity`): <em>niekwestionowana, nienarodzone, nieprzeszkolonymi, niespotykanych, nietrafionych, niewystawionych</em>
 * `Pos` (406; 99% of non-empty `Polarity`): <em>napisane, uznawane, posiadający, używane, związana, związane, Założony, Zjednoczonych, finansowane, oddanych</em>
-* `EMPTY` (1774): <em>jednym, ostatnich, 1, nowych, pierwszy, wielkiej, inne, dużą, innych, innymi</em>
+* `EMPTY` (1946): <em>I, II, jednym, ostatnich, 1, nowych, pierwszy, wielkiej, inne, dużą</em>
 
 <table>
   <tr><th>Paradigm <i>wystawić</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -44,18 +44,18 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Pos` (220; 100% of non-empty `Polarity`): <em>zniszczenie, kręcenia, ograniczaniu, ograniczenia, opuszczenia, otwarcie, poszukiwaniu, powstrzymania, przejęcia, przekroczenie</em>
-* `EMPTY` (4299): <em>lat, roku, części, miejsce, wojny, latach, ludzi, raz, wieku, większość</em>
+* `EMPTY` (4284): <em>lat, roku, części, miejsce, wojny, latach, ludzi, raz, wieku, większość</em>
 
 `Polarity` seems to be **lexical feature** of `NOUN`. 100% lemmas (160) occur only with one value of `Polarity`.
 
 ### `PART`
 
-121 <tt><a href="pl_pud-pos-PART.html">PART</a></tt> tokens (33% of all `PART` tokens) have a non-empty value of `Polarity`.
+121 <tt><a href="pl_pud-pos-PART.html">PART</a></tt> tokens (32% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (121; 100% of non-empty `Polarity`): <em>nie</em>
-* `EMPTY` (246): <em>również, tylko, już, jednak, około, czy, jeszcze, ponad, nawet, przynajmniej</em>
+* `EMPTY` (258): <em>również, tylko, już, jednak, czy, około, jeszcze, może, ponad, nawet</em>
 
 ## Relations with Agreement in `Polarity`
 

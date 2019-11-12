@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-GB: POS Tags: `CCONJ`
 
-There are 16 `CCONJ` lemmas (1%), 17 `CCONJ` types (0%) and 184 `CCONJ` tokens (1%).
+There are 16 `CCONJ` lemmas (1%), 17 `CCONJ` types (0%) and 185 `CCONJ` tokens (1%).
 Out of 16 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>ve, ne, ama, de, ya, da, hem, ister, yoksa, değil</em>
 
 The 10 most frequent `CCONJ` types:  <em>ve, ne, ama, de, ya, da, hem, ister, yoksa, İster</em>
 
-The 10 most frequent ambiguous lemmas: <em>ne</em> (<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> 59, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 30, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="tr_gb-pos-DET.html">DET</a></tt> 1, <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> 1), <em>ama</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 2), <em>de</em> (<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 58, <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> 20, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ya</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 18, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 16, <tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>da</em> (<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 45, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 17), <em>hem</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 1), <em>yoksa</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 4), <em>değil</em> (<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> 62, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> 2), <em>gerek</em> (<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> 27, <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> 1), <em>ile</em> (<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ne</em> (<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> 59, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 30, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="tr_gb-pos-DET.html">DET</a></tt> 1, <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> 1), <em>ama</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 1), <em>de</em> (<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 58, <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> 20, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ya</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 18, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 16, <tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>da</em> (<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 45, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 17), <em>hem</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 1), <em>yoksa</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 4), <em>değil</em> (<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> 62, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> 2), <em>gerek</em> (<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> 27, <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> 1), <em>ile</em> (<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> 40, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 7, <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="tr_gb-pos-DET.html">DET</a></tt> 1, <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> 1), <em>ama</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 1), <em>de</em> (<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 58, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ya</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 11, <tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>da</em> (<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 45, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 17), <em>ister</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> 1), <em>yoksa</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 2), <em>İster</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> 1), <em>değil</em> (<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> 36, <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ile</em> (<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> 40, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 7, <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="tr_gb-pos-DET.html">DET</a></tt> 1, <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> 1), <em>de</em> (<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 58, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ya</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 11, <tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>da</em> (<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 45, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 17), <em>ister</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> 1), <em>yoksa</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 2), <em>İster</em> (<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> 1), <em>değil</em> (<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> 36, <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ile</em> (<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>ne</em>
@@ -25,9 +25,6 @@ The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="tr_gb-pos-PRON.
   * <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> 2: <em>O <b>ne</b> zaman dır onu okumak istiyordu .</em>
   * <tt><a href="tr_gb-pos-DET.html">DET</a></tt> 1: <em>Bilgisayarımı <b>ne</b> zaman istersen kullanabilirsin .</em>
   * <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> 1: <em>Bugün günlerden <b>ne</b> ?</em>
-* <em>ama</em>
-  * <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 23: <em>Şan derslerine gidip duruyor <b>ama</b> şarkı söylediği yok .</em>
-  * <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 1: <em>Şey gibi olmasın <b>ama</b> , sana bir şey sormak istiyorum .</em>
 * <em>de</em>
   * <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 58: <em>Ahmet’te <b>de</b> bunlardan bir tane var .</em>
   * <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> 19: <em>Bakabilirim <b>de</b> , beklemesi gerek .</em>
@@ -58,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="tr_gb-pos-PRON.
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.062500 (the average of all parts of speech is 2.314222).
+The form / lemma ratio of `CCONJ` is 1.062500 (the average of all parts of speech is 2.302829).
 
 The 1st highest number of forms (2) was observed with the lemma “ister”: <em>ister, İster</em>.
 
@@ -71,23 +68,23 @@ The 3rd highest number of forms (1) was observed with the lemma “da”: <em>da
 `CCONJ` occurs with 1 feature-value pairs: `PronType=Neg`
 
 `CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (182 tokens).
+The most frequent feature combination is `_` (183 tokens).
 Examples: <em>ve, ne, ama, de, ya, da, hem, ister, yoksa, İster</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="tr_gb-dep-cc.html">cc</a></tt> (160; 87% instances), <tt><a href="tr_gb-dep-fixed.html">fixed</a></tt> (17; 9% instances), <tt><a href="tr_gb-dep-advmod-emph.html">advmod:emph</a></tt> (6; 3% instances), <tt><a href="tr_gb-dep-mark.html">mark</a></tt> (1; 1% instances)
+`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="tr_gb-dep-cc.html">cc</a></tt> (160; 86% instances), <tt><a href="tr_gb-dep-fixed.html">fixed</a></tt> (18; 10% instances), <tt><a href="tr_gb-dep-advmod-emph.html">advmod:emph</a></tt> (7; 4% instances)
 
-Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (54; 29% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (51; 28% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (28; 15% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (21; 11% instances), <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (17; 9% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (11; 6% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Parents of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (54; 29% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (52; 28% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (27; 15% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (22; 12% instances), <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (18; 10% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (11; 6% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (1; 1% instances)
 
-165 (90%) `CCONJ` nodes are leaves.
+163 (88%) `CCONJ` nodes are leaves.
 
-19 (10%) `CCONJ` nodes have one child.
+22 (12%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="tr_gb-dep-fixed.html">fixed</a></tt> (18; 95% instances), <tt><a href="tr_gb-dep-punct.html">punct</a></tt> (1; 5% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="tr_gb-dep-fixed.html">fixed</a></tt> (20; 91% instances), <tt><a href="tr_gb-dep-punct.html">punct</a></tt> (2; 9% instances)
 
-Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (17; 89% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (1; 5% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (18; 82% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (2; 9% instances), <tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (2; 9% instances)
 

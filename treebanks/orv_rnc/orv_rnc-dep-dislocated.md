@@ -8,12 +8,53 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `dislocated`.
+3 nodes (0%) are attached to their parents as `dislocated`.
 
-2 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 11.5.
+2 instances of `dislocated` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.66666666666667.
 
-The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 50% instances).
+The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (2; 67% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 25 14 dislocated	color:blue
+1	а	а	CCONJ	_	_	8	cc	_	_
+2	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	8	obj	_	_
+3	ѧ	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+4	о	о	ADP	_	_	5	case	_	_
+5	деньгахъ	деньги	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	8	obl	_	_
+6	к	къ	ADP	_	_	7	case	_	_
+7	тебѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	8	obl	_	_
+8	писал	писати	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	27	advcl	_	_
+9	что	что	SCONJ	_	_	10	mark	_	_
+10	дать	дати	VERB	_	Aspect=Perf|VerbForm=Inf	8	xcomp	_	_
+11	Степанꙋ	Степанъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	_
+12	Ѳекълистовꙋ	Феклистовъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	11	flat:name	_	_
+13	и	и	CCONJ	_	_	27	cc	_	_
+14	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	25	dislocated	_	_
+15	пожалꙋи	пожаловати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	27	discourse	_	_
+16	бꙋде	быти	SCONJ	_	_	23	mark	_	_
+17	бꙋдетъ	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	23	cop	_	_
+18	от	отъ	ADP	_	_	19	case	_	_
+19	нево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nmod	_	_
+20	в	въ	ADP	_	_	21	case	_	_
+21	деле	дѣло	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	23	nmod	_	_
+22	какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing	23	det	_	_
+23	помошь	помощь	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	27	advcl	_	_
+24	и	и	CCONJ	_	_	27	cc	_	_
+25	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	27	nsubj	_	_
+26	емꙋ	онъ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	iobj	_	_
+27	даи	дати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+28	хотя	хотѣти	PART	_	_	30	advmod	_	_
+29	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing	30	det	_	_
+30	полтинꙋ	полтина	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	31	obj	_	_
+31	даи	дати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	27	conj	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -48,16 +89,16 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 24	и	и	CCONJ	_	_	26	cc	_	_
 25	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	26	amod	_	_
 26	князя	князь	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	23	conj	_	_
-27	Ѳеодора	Ѳеодоръ	PROPN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	22	appos	_	_
+27	Ѳеодора	Феодоръ	PROPN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	22	appos	_	_
 28	Алексѣевича	Алексѣевичь	PROPN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	27	flat:name	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	37	punct	_	_
 30	всеа	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing	36	det	_	_
-31	Великія	Великий	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	36	amod	_	_
+31	Великія	великий	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	36	amod	_	_
 32	и	и	CCONJ	_	_	33	cc	_	_
 33	Малыя	малый	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	31	conj	_	_
 34	и	и	CCONJ	_	_	35	cc	_	_
 35	Бѣлыя	бѣлый	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	31	conj	_	_
-36	Росіи	Росия	PROPN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	_
+36	Росіи	Россия	PROPN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	_
 37	самодержца	самодержецъ	NOUN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	22	appos	_	SpaceAfter=No
 38	,	,	PUNCT	_	_	41	punct	_	_
 39	изъ	изъ	ADP	_	_	41	case	_	_
@@ -72,7 +113,7 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 48	,	,	PUNCT	_	_	51	punct	_	_
 49	съ	съ	ADP	_	_	51	case	_	_
 50	посадскихъ	посадский	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	51	amod	_	_
-51	людей	люди	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	159	obl	_	_
+51	людей	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	159	obl	_	_
 52	и	и	CCONJ	_	_	55	cc	_	_
 53	съ	съ	ADP	_	_	55	case	_	_
 54	уѣздныхъ	уѣздный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	55	amod	_	_
@@ -84,7 +125,7 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 60	полоняничные	полоняничный	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	57	conj	_	SpaceAfter=No
 61	,	,	PUNCT	_	_	63	punct	_	_
 62	и	и	CCONJ	_	_	63	cc	_	_
-63	четвертные	четвертный	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	57	conj	_	SpaceAfter=No
+63	четвертные	четвертной	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	57	conj	_	SpaceAfter=No
 64	,	,	PUNCT	_	_	66	punct	_	_
 65	и	и	CCONJ	_	_	66	cc	_	_
 66	ямскіе	ямской	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	57	conj	_	SpaceAfter=No
@@ -98,7 +139,7 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 74	,	,	PUNCT	_	_	76	punct	_	_
 75	и	и	CCONJ	_	_	76	cc	_	_
 76	подмоги	подмога	NOUN	OOV|Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	57	conj	_	_
-77	подъячимъ	подъячий	NOUN	OOV|Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	76	nmod	_	SpaceAfter=No
+77	подъячимъ	подьячий	NOUN	OOV|Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	76	nmod	_	SpaceAfter=No
 78	,	,	PUNCT	_	_	80	punct	_	_
 79	и	и	CCONJ	_	_	80	cc	_	_
 80	сторожамъ	сторожъ	NOUN	OOV|Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	77	conj	_	SpaceAfter=No
@@ -109,7 +150,7 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 85	и	и	CCONJ	_	_	89	cc	_	_
 86	тюремнымъ	тюремный	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	89	amod	_	_
 87	и	и	CCONJ	_	_	88	cc	_	_
-88	губнымъ	губный	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	86	conj	_	_
+88	губнымъ	губной	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	86	conj	_	_
 89	цѣловалникомъ	цѣловалникъ	NOUN	OOV|Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	77	conj	_	SpaceAfter=No
 90	,	,	PUNCT	_	_	93	punct	_	_
 91	и	и	CCONJ	_	_	93	cc	_	_
@@ -118,7 +159,7 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 94	воеводскихъ	воеводский	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	95	amod	_	_
 95	дворовъ	дворъ	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Plur	93	obl	_	_
 96	и	и	CCONJ	_	_	98	cc	_	_
-97	губныхъ	губный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	98	amod	_	_
+97	губныхъ	губной	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	98	amod	_	_
 98	избъ	изба	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	95	conj	_	_
 99	и	и	CCONJ	_	_	102	cc	_	_
 100	въ	въ	ADP	_	_	102	case	_	_
@@ -185,9 +226,9 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 161	впредь	впредь	ADV	_	Degree=Pos	168	advmod	_	_
 162	до	до	ADP	_	_	164	case	_	_
 163	валовыхъ	валовый	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	164	amod	_	_
-164	писцовъ	писецъ	NOUN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Fem|Number=Plur	168	obl	_	_
+164	писцовъ	писецъ	NOUN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	168	obl	_	_
 165	тѣхъ	тотъ	DET	_	Case=Gen|Gender=Fem|Number=Plur	166	det	_	_
-166	денегъ	денги	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	168	obj	_	_
+166	денегъ	деньги	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	168	obj	_	_
 167	не	не	PART	_	Polarity=Neg	168	advmod	_	_
 168	сбирать	сбирати	VERB	OOV|Transit=Tran	Aspect=Imp|VerbForm=Inf	159	conj	_	SpaceAfter=No
 169	;	;	PUNCT	_	_	205	punct	_	_
@@ -218,21 +259,21 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 194	и	и	CCONJ	_	_	196	cc	_	_
 195	съ	съ	ADP	_	_	197	case	_	_
 196	уѣздныхъ	уѣздный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	197	amod	_	_
-197	людей	люди	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	199	obl	_	_
+197	людей	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	199	obl	_	_
 198	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	199	nsubj:pass	_	_
 199	взато	взяти	VERB	OOV	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	205	advcl	_	SpaceAfter=No
 200	,	,	PUNCT	_	_	199	punct	_	_
 201	и	и	CCONJ	_	_	205	cc	_	_
 202	тѣ	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Plur	204	det	_	_
 203	сборные	сборный	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	204	amod	_	_
-204	денги	денги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	205	obj	_	_
+204	денги	деньги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	205	obj	_	_
 205	роздать	роздати	VERB	OOV|Transit=Tran	Aspect=Perf|VerbForm=Inf	159	conj	_	_
 206	тѣмъ	тотъ	DET	_	Case=Ins|Gender=Masc|Number=Sing	208	det	_	_
 207	же	же	PART	_	_	206	advmod	_	_
-208	людемъ	люди	NOUN	Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	205	iobj	_	_
+208	людемъ	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	205	iobj	_	_
 209	съ	съ	ADP	_	_	210	case	_	_
 210	кого	кто	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	212	obl	_	_
-211	сколко	сколко	NUM	_	Case=Nom	212	nsubj:pass	_	_
+211	сколко	сколко	NUM	_	Case=Acc	212	nsubj:pass	_	_
 212	взято	взяти	VERB	OOV|Transit=Tran	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	205	acl	_	SpaceAfter=No
 213	;	;	PUNCT	_	_	241	punct	_	_
 214	а	а	CCONJ	_	_	217	cc	_	_
@@ -252,11 +293,11 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 228	прежнихъ	прежний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	232	obl	_	_
 229	и	и	CCONJ	_	_	231	cc	_	_
 230	съ	съ	ADP	_	_	232	case	_	_
-231	прибылыхъ	прибылый	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	228	conj	_	_
+231	прибылыхъ	прибылой	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	228	conj	_	_
 232	дворовъ	дворъ	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Plur	241	obl	_	SpaceAfter=No
 233	,	,	PUNCT	_	_	232	punct	_	_
 234	по	по	ADP	_	_	236	case	_	_
-235	переписнымъ	переписный	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	236	amod	_	_
+235	переписнымъ	переписной	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	236	amod	_	_
 236	книгамъ	книга	NOUN	Animacy[lex]=Inan	Case=Dat|Gender=Fem|Number=Plur	241	obl	_	SpaceAfter=No
 237	,	,	PUNCT	_	_	236	punct	_	_
 238	на	на	ADP	_	_	240	case	_	_
@@ -283,16 +324,16 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 259	посадскихъ	посадский	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	262	amod	_	_
 260	и	и	CCONJ	_	_	261	cc	_	_
 261	уѣздныхъ	уѣздный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	259	conj	_	_
-262	людехъ	люди	NOUN	Animacy[lex]=Anim	Case=Loc|Gender=Masc|Number=Plur	263	obl	_	_
+262	людехъ	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Loc|Gender=Masc|Number=Plur	263	obl	_	_
 263	положены	положити	VERB	Transit=Tran	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	295	acl:relcl	_	_
 264	оброчные	оброчный	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	265	amod	_	_
-265	денги	денги	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Fem|Number=Plur	263	nsubj:pass	_	_
+265	денги	деньги	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Fem|Number=Plur	263	nsubj:pass	_	_
 266	съ	съ	ADP	_	_	267	case	_	_
 267	лавокъ	лавка	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	263	obl	_	SpaceAfter=No
 268	,	,	PUNCT	_	_	271	punct	_	_
 269	и	и	CCONJ	_	_	271	cc	_	_
 270	съ	съ	ADP	_	_	271	case	_	_
-271	мелницъ	мелница	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	267	conj	_	SpaceAfter=No
+271	мелницъ	мельница	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	267	conj	_	SpaceAfter=No
 272	,	,	PUNCT	_	_	277	punct	_	_
 273	и	и	CCONJ	_	_	277	cc	_	_
 274	съ	съ	ADP	_	_	277	case	_	_
@@ -304,7 +345,7 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 280	платятъ	платити	VERB	OOV|Transit=Tran	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	263	conj	_	_
 281	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur	280	nsubj	_	_
 282	тѣ	тотъ	DET	_	Case=Acc|Gender=Masc|Number=Plur	283	det	_	_
-283	денги	денги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	280	obj	_	_
+283	денги	деньги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	280	obj	_	_
 284	изъ	изъ	ADP	_	_	285	case	_	_
 285	воли	воля	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Sing	280	obl	_	_
 286	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes	285	det	_	_
@@ -313,7 +354,7 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 289	,	,	PUNCT	_	_	293	punct	_	_
 290	и	и	CCONJ	_	_	293	cc	_	_
 291	тѣ	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Plur	292	det	_	_
-292	денги	денги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	293	obj	_	_
+292	денги	деньги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	293	obj	_	_
 293	имать	имати	VERB	Transit=Tran	Aspect=Imp|VerbForm=Inf	159	conj	_	_
 294	съ	съ	ADP	_	_	295	case	_	_
 295	нихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	293	obl	_	SpaceAfter=No
@@ -324,49 +365,8 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 300	статей	статья	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	293	obl	_	SpaceAfter=No
 301	,	,	PUNCT	_	_	300	punct	_	_
 302	по	по	ADP	_	_	303	case	_	_
-303	прежнему	прежнему	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Variant=Long	293	obl	_	SpaceAfter=No
+303	прежнему	прежний	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Variant=Long	293	obl	_	SpaceAfter=No
 304	.	.	PUNCT	_	_	303	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 25 14 dislocated	color:blue
-1	а	а	CCONJ	_	_	8	cc	_	_
-2	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	8	obj	_	_
-3	ѧ	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-4	о	о	ADP	_	_	5	case	_	_
-5	деньгахъ	деньги	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	8	obl	_	_
-6	к	къ	ADP	_	_	7	case	_	_
-7	тебѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	8	obl	_	_
-8	писал	писати	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	27	advcl	_	_
-9	что	что	SCONJ	_	_	10	mark	_	_
-10	дать	дати	VERB	_	Aspect=Perf|VerbForm=Inf	8	xcomp	_	_
-11	Степанꙋ	Степанъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	_
-12	Ѳекълистовꙋ	Ѳекълистовъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	11	flat:name	_	_
-13	и	и	CCONJ	_	_	27	cc	_	_
-14	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	25	dislocated	_	_
-15	пожалꙋи	пожаловати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	27	discourse	_	_
-16	бꙋде	быти	SCONJ	_	_	23	mark	_	_
-17	бꙋдетъ	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	23	cop	_	_
-18	от	отъ	ADP	_	_	19	case	_	_
-19	нево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nmod	_	_
-20	в	въ	ADP	_	_	21	case	_	_
-21	деле	дѣло	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	23	nmod	_	_
-22	какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing	23	det	_	_
-23	помошь	помошь	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	27	advcl	_	_
-24	и	и	CCONJ	_	_	27	cc	_	_
-25	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	27	nsubj	_	_
-26	емꙋ	онъ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	iobj	_	_
-27	даи	дати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-28	хотя	хотѣти	PART	_	_	30	advmod	_	_
-29	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing	30	det	_	_
-30	полтинꙋ	полтина	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	31	obj	_	_
-31	даи	дати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	27	conj	_	_
 
 ~~~
 

@@ -11,22 +11,22 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="es_ancora-feat-Number.html">Number</a></tt>, <tt><a href="es_ancora-feat-Number-psor.html">Number[psor]</a></tt>.
 
-262609 tokens (48%) have a non-empty value of `Number`.
-26813 types (69%) occur at least once with a non-empty value of `Number`.
-14041 lemmas (54%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (91794; 17% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (73568; 13% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (35658; 6% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (34904; 6% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (13483; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (10337; 2% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (2865; 1% instances).
+262613 tokens (48%) have a non-empty value of `Number`.
+26815 types (69%) occur at least once with a non-empty value of `Number`.
+14042 lemmas (54%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (91797; 17% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (73568; 13% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (35658; 6% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (34904; 6% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (13483; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (10337; 2% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (2865; 1% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-91794 <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> tokens (91% of all `NOUN` tokens) have a non-empty value of `Number`.
+91797 <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> tokens (91% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (46691; 51%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (46694; 51%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (27708; 30% of non-empty `Number`): <em>años, millones, personas, países, días, meses, elecciones, partidos, horas, puntos</em>
-* `Sing` (64086; 70% of non-empty `Number`): <em>presidente, equipo, partido, país, año, parte, ministro, mundo, grupo, portavoz</em>
-* `EMPTY` (8878): <em>pesetas, dólares, frente, respecto, vez, pese, año, partir, mayo, 1999</em>
+* `Plur` (27709; 30% of non-empty `Number`): <em>años, millones, personas, países, días, meses, elecciones, partidos, horas, puntos</em>
+* `Sing` (64088; 70% of non-empty `Number`): <em>presidente, equipo, partido, país, año, parte, ministro, mundo, grupo, portavoz</em>
+* `EMPTY` (8875): <em>pesetas, dólares, frente, respecto, vez, pese, año, partir, mayo, 1999</em>
 
 <table>
   <tr><th>Paradigm <i>año</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -179,12 +179,21 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 `Number` seems to be **lexical feature** of `NUM`. 100% lemmas (47) occur only with one value of `Number`.
 
+### `PROPN`
+
+1 <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Number`.
+
+`PROPN` tokens may have the following values of `Number`:
+
+* `Sing` (1; 100% of non-empty `Number`): <em>Cuba</em>
+* `EMPTY` (42546): <em>Gobierno, España, Madrid, Barcelona, José, PP, Estado, Juan, Nacional, Estados</em>
+
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (59332; 98%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (26248; 96%),
-<tt>NOUN --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13363; 55%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13364; 55%),
 <tt>VERB --[<tt><a href="es_ancora-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11217; 87%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-acl.html">acl</a></tt>]--> VERB</tt> (4868; 59%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3746; 79%),

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-1269 tokens (7%) have a non-empty value of `PronType`.
+1266 tokens (7%) have a non-empty value of `PronType`.
 177 types (2%) occur at least once with a non-empty value of `PronType`.
 61 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (639; 3% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (499; 3% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (131; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (639; 3% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (499; 3% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (128; 1% instances).
 
 ### `PRON`
 
@@ -48,10 +48,10 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 * `Dem` (150; 30% of non-empty `PronType`): <em>tym, ten, tych, tego, ta, takie, takich, te, tej, to</em>
 * `Ind` (96; 19% of non-empty `PronType`): <em>wiele, więcej, wielu, kilka, Niektórzy, niektóre, kilku, dużo, niewiele, pewnym</em>
-* `Int` (11; 2% of non-empty `PronType`): <em>jaki, który, Jakie, jakiej, jaką, które, którym</em>
+* `Int` (10; 2% of non-empty `PronType`): <em>jaki, który, Jakie, jakiej, jaką, które</em>
 * `Neg` (4; 1% of non-empty `PronType`): <em>żadnej, żaden, żadnego</em>
 * `Prs` (80; 16% of non-empty `PronType`): <em>swojej, swoich, swoje, swojego, swoim, swoją, swój, Nasze, mój, naszych</em>
-* `Rel` (127; 25% of non-empty `PronType`): <em>które, który, która, którzy, którego, których, której, jaką, którym, jakiej</em>
+* `Rel` (128; 26% of non-empty `PronType`): <em>które, który, która, którzy, którego, których, której, którym, jaką, jakiej</em>
 * `Tot` (31; 6% of non-empty `PronType`): <em>każdy, wszystkich, każda, każdego, wszelkich, wszystkie, Wszyscy, każdej, każdym, wszelkie</em>
 
 <table>
@@ -80,7 +80,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>których</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>którą</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>której</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>którym</em></td><td><em>którym</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>którym</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>których</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>która</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>które</em></td></tr>
@@ -92,19 +92,19 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `ADV`
 
-131 <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> tokens (24% of all `ADV` tokens) have a non-empty value of `PronType`.
+128 <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> tokens (24% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="pl_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (90; 69%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="pl_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (90; 70%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (48; 37% of non-empty `PronType`): <em>tam, tak, dlatego, tutaj, wtedy, wówczas, dotąd</em>
+* `Dem` (46; 36% of non-empty `PronType`): <em>tam, tak, dlatego, tutaj, wtedy, wówczas, dotąd</em>
 * `Ind` (3; 2% of non-empty `PronType`): <em>kiedyś, kiedykolwiek</em>
-* `Int` (36; 27% of non-empty `PronType`): <em>kiedy, dlaczego, jak, Skąd</em>
+* `Int` (36; 28% of non-empty `PronType`): <em>kiedy, dlaczego, jak, Skąd</em>
 * `Neg` (3; 2% of non-empty `PronType`): <em>nigdy</em>
-* `Rel` (33; 25% of non-empty `PronType`): <em>gdzie, kiedy, jak, skąd</em>
+* `Rel` (32; 25% of non-empty `PronType`): <em>gdzie, kiedy, jak, skąd</em>
 * `Tot` (8; 6% of non-empty `PronType`): <em>zawsze</em>
-* `EMPTY` (413): <em>bardzo, często, wciąż, bardziej, następnie, całkowicie, gdy, najbardziej, wcześniej, później</em>
+* `EMPTY` (407): <em>bardzo, często, wciąż, bardziej, następnie, całkowicie, gdy, najbardziej, wcześniej, później</em>
 
 <table>
   <tr><th>Paradigm <i>kiedy</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -114,6 +114,6 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="pl_pud-dep-nmod.html">nmod</a></tt>]--> DET</tt> (1; 100%),
-<tt>PRON --[<tt><a href="pl_pud-dep-obl.html">obl</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="pl_pud-dep-nmod.html">nmod</a></tt>]--> DET</tt> (1; 100%).
 

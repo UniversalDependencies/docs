@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-568 nodes (4%) are attached to their parents as `obj`.
+717 nodes (4%) are attached to their parents as `obj`.
 
-347 instances of `obj` (61%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.50880281690141.
+435 instances of `obj` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.34449093444909.
 
-The following 10 pairs of parts of speech are connected with `obj`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (395; 70% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (112; 20% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (21; 4% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (21; 4% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `obj`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (505; 70% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (142; 20% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (26; 4% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (21; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,25 +54,28 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 obj	color:blue
-1	Разумѣй	разумѣти	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	же	же	PART	_	_	9	advmod	_	_
-3	сие	сей	DET	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	9	punct	_	_
-5	к	къ	ADP	_	_	6	case	_	_
-6	чему	что	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	9	obl	_	_
-7	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	9	obj	_	_
-8	Курбской	Курбской	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
-9	претворил	претворити	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	3	acl:relcl	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	13	punct	_	_
-11	чтоб	чтобы	SCONJ	_	Mood=Cnd	13	mark	_	_
-12	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	13	obj	_	_
-13	погубити	погубити	VERB	_	Aspect=Perf|VerbForm=Inf	9	advcl	_	SpaceAfter=No
-14	!	!	PUNCT	_	_	1	punct	_	_
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 15 obj	color:blue
+1	И	и	CCONJ	_	_	7	cc	_	SpaceAfter=Yes
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=Yes
+4	х.	холопъ	NOUN	OOV	Abbr=Yes	2	appos	_	SpaceAfter=Yes
+5	т.	твой	DET	OOV	Abbr=Yes	4	det	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=Yes
+7	послал	послати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	SpaceAfter=Yes
+8	к	къ	ADP	_	_	9	case	_	SpaceAfter=Yes
+9	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	SpaceAfter=Yes
+11	г.	государь	NOUN	OOV	Abbr=Yes	9	parataxis	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	SpaceAfter=Yes
+13	к	къ	ADP	_	_	14	case	_	SpaceAfter=Yes
+14	Москве	Москва	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=Yes
+15	Олександра	Олександръ	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=Yes
+16	Суровцова	Суровцовъ	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	15	flat:name	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=Yes
 
 ~~~
 

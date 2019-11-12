@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="en_lines-dep-aux-pass.html">aux:pass</a></tt>.
 
-2402 nodes (3%) are attached to their parents as `aux`.
+2746 nodes (3%) are attached to their parents as `aux`.
 
-2393 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.65070774354704.
+2739 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.64785142024763.
 
-The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2198; 92% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (92; 4% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (58; 2% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (41; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2496; 91% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (111; 4% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (65; 2% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (56; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	fgColor:white
 # visual-style 7 5 aux	color:blue
 1	The	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
-2	SQL	sql	PROPN	SG-NOM	Number=Sing	4	compound	_	_
+2	SQL	SQL	PROPN	SG-NOM	Number=Sing	4	compound	_	_
 3	Server	server	NOUN	SG-NOM	Number=Sing	2	flat	_	_
 4	database	database	NOUN	SG-NOM	Number=Sing	7	nsubj	_	_
 5	must	must	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
@@ -32,8 +32,8 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	running	run	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
 8	on	on	ADP	_	_	12	case	_	_
 9	a	a	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	_
-10	Windows	window	PROPN	SG-NOM	Case=Nom	12	compound	_	_
-11	NT	nt	PROPN	SG-NOM	Case=Nom	10	flat	_	_
+10	Windows	Windows	PROPN	SG-NOM	Case=Nom	12	compound	_	_
+11	NT	NT	PROPN	SG-NOM	Case=Nom	10	flat	_	_
 12	platform	platform	NOUN	SG-NOM	Number=Sing	7	obl	_	SpaceAfter=No
 13	.	.	PUNCT	Period	_	7	punct	_	_
 

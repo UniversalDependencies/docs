@@ -73,16 +73,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `DET`
 
-368 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Person`.
+368 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (368; 100%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (368; 100%), <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (368; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (289; 79%), <tt><a href="sr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (209; 57%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (368; 100%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (368; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (289; 79%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `1` (80; 22% of non-empty `Person`): <em>naše, našeg, naša, naš, naših, moj, našem, našoj, moja, moju</em>
 * `2` (10; 3% of non-empty `Person`): <em>vaša, vaše, vašem, tvojim, vaš</em>
 * `3` (278; 76% of non-empty `Person`): <em>njegova, njegov, njegovog, njen, njihov, njegove, njihove, njegovih, njegovim, njegovom</em>
-* `EMPTY` (3077): <em>koji, to, koje, koja, svoje, ove, toga, koju, taj, sve</em>
+* `EMPTY` (3298): <em>koji, to, koje, koja, svoje, ove, sve, toga, nekoliko, koju</em>
 
 ## Relations with Agreement in `Person`
 
@@ -90,7 +90,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (300; 69%),
 <tt>AUX --[<tt><a href="sr_set-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (22; 81%),
 <tt>AUX --[<tt><a href="sr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (5; 63%),
-<tt>AUX --[<tt><a href="sr_set-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (4; 67%),
+<tt>AUX --[<tt><a href="sr_set-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (4; 57%),
 <tt>VERB --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 67%),
 <tt>AUX --[<tt><a href="sr_set-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="sr_set-dep-obj.html">obj</a></tt>]--> AUX</tt> (2; 100%),

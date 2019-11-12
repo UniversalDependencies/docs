@@ -24,9 +24,9 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 5 7 orphan	color:blue
 1	Sana	sen	PRON	_	Case=Dat|Number=Sing|Person=2	5	obl	_	_
 2	bugün	bugün	NOUN	_	Case=Nom|Number=Sing	5	obl:tmod	_	_
-3	iki	iki	NUM	_	NumType=Ord	4	nummod	_	_
+3	iki	iki	NUM	_	NumType=Card	4	nummod	_	_
 4	mektup	mektup	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
-5	geldi	gel	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+5	geldi	gel	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 7	Semra’ya	Semra	PROPN	_	Case=Dat|Number=Sing	5	orphan	_	_
 8	da	da	ADV	_	_	7	advmod:emph	_	_
@@ -45,9 +45,9 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 5 10 orphan	color:blue
 1	Sana	sen	PRON	_	Case=Dat|Number=Sing|Person=2	5	obl	_	_
 2	bugün	bugün	NOUN	_	Case=Nom|Number=Sing	5	obl:tmod	_	_
-3	iki	iki	NUM	_	NumType=Ord	4	nummod	_	_
+3	iki	iki	NUM	_	NumType=Card	4	nummod	_	_
 4	mektup	mektup	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
-5	geldi	gel	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+5	geldi	gel	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 7	Semra’ya	Semra	PROPN	_	Case=Dat|Number=Sing	5	orphan	_	_
 8	da	da	ADV	_	_	7	advmod:emph	_	_

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="lt_hse-dep-aux-pass.html">aux:pass</a></tt>.
 
-35 nodes (1%) are attached to their parents as `aux`.
+33 nodes (1%) are attached to their parents as `aux`.
 
-34 instances of `aux` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42857142857143.
+32 instances of `aux` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45454545454545.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (25; 71% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (3; 9% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (2; 6% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (2; 6% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (26; 79% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (4; 12% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (2; 6% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

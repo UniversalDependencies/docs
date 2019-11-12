@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	Caf	Caf	NOUN	_	_	4	nsubj	_	_
 4	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-5	-elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3	4	expl	_	_
+5	-elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3	4	expl:subj	_	_
 6	m'	le/lui	PRON	_	Number=Sing|Person=1	7	obj	_	SpaceAfter=No
 7	aider	aider	VERB	_	VerbForm=Inf	4	xcomp	_	_
 8	?	?	PUNCT	_	_	7	punct	_	_

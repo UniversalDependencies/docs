@@ -9,89 +9,52 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="zh_gsd-dep-case.html">case</a></tt>.
 There are also 3 other language-specific subtypes of `case`: <tt><a href="zh_gsd-dep-case-aspect.html">case:aspect</a></tt>, <tt><a href="zh_gsd-dep-case-dec.html">case:dec</a></tt>, <tt><a href="zh_gsd-dep-case-pref.html">case:pref</a></tt>.
 
-5563 nodes (5%) are attached to their parents as `case:suff`.
+1 nodes (0%) are attached to their parents as `case:suff`.
 
-5562 instances of `case:suff` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02067229911918.
+1 instances of `case:suff` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.
 
-The following 17 pairs of parts of speech are connected with `case:suff`: <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (2004; 36% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1938; 35% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1238; 22% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (158; 3% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (141; 3% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-X.html">X</a></tt> (36; 1% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 case:suff	color:blue
-1	隨後	隨後	ADV	RB	_	8	advmod	_	SpaceAfter=No
-2	愛斯基摩	愛斯基摩	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
-3	人	人	PART	SFN	_	8	nsubj	_	SpaceAfter=No
-4	和	和	CCONJ	CC	_	6	cc	_	SpaceAfter=No
-5	維京	維京	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
-6	人	人	PART	SFN	_	3	conj	_	SpaceAfter=No
-7	相繼	相繼	ADV	RB	_	8	advmod	_	SpaceAfter=No
-8	定居	定居	VERB	VV	_	0	root	_	SpaceAfter=No
-9	於	於	ADP	IN	_	10	case	_	SpaceAfter=No
-10	此	此	PRON	PRD	_	8	obl	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	8	punct	_	SpaceAfter=No
-
-~~~
+The following 1 pairs of parts of speech are connected with `case:suff`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 16 case:suff	color:blue
-1	這種	這種	DET	DT	_	2	det	_	SpaceAfter=No
-2	車輛	車輛	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
-3	如果	如果	ADP	IN	_	4	case	_	SpaceAfter=No
-4	歸	歸	VERB	VV	_	10	xcomp	_	SpaceAfter=No
-5	私人	私人	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
-6	擁有	擁有	VERB	VV	_	4	ccomp	_	SpaceAfter=No
-7	,	,	PUNCT	,	_	10	punct	_	SpaceAfter=No
-8	多半	多半	ADV	RB	_	10	advmod	_	SpaceAfter=No
-9	會	會	AUX	MD	_	10	aux	_	SpaceAfter=No
-10	設置	設置	VERB	VV	_	0	root	_	SpaceAfter=No
-11	昂貴	昂貴	ADJ	JJ	_	14	amod	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
-13	音頻	音頻	NOUN	NN	_	14	nmod	_	SpaceAfter=No
-14	設備	設備	NOUN	NN	_	10	obj	_	SpaceAfter=No
-15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No
-16	電視	電視	NOUN	NN	_	17	case:suff	_	SpaceAfter=No
-17	機	機	PART	SFN	_	14	conj	_	SpaceAfter=No
-18	、	、	PUNCT	EC	_	20	punct	_	SpaceAfter=No
-19	影碟	影碟	NOUN	NN	_	20	case:suff	_	SpaceAfter=No
-20	機	機	PART	SFN	_	14	conj	_	SpaceAfter=No
-21	,	,	PUNCT	,	_	23	punct	_	SpaceAfter=No
-22	以及	以及	CCONJ	CC	_	23	cc	_	SpaceAfter=No
-23	吧台	吧台	NOUN	NN	_	14	conj	_	SpaceAfter=No
-24	和	和	CCONJ	CC	_	25	cc	_	SpaceAfter=No
-25	冰箱	冰箱	NOUN	NN	_	23	conj	_	SpaceAfter=No
-26	.	.	PUNCT	.	_	10	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 case:suff	color:blue
-1	大	大	ADV	RB	_	2	advmod	_	SpaceAfter=No
-2	多數	多數	ADJ	JJ	_	6	det	_	SpaceAfter=No
-3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
-4	加長	加長	VERB	VV	_	5	case:suff	_	SpaceAfter=No
-5	型	型	PART	SFN	_	6	nmod	_	SpaceAfter=No
-6	禮車	禮車	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
-7	則是	則是	AUX	VC	_	11	cop	_	SpaceAfter=No
-8	租車	租車	NOUN	NN	_	9	nmod	_	SpaceAfter=No
-9	公司	公司	NOUN	NN	_	11	det	_	SpaceAfter=No
-10	的	的	PART	DEC	Case=Gen	9	case:dec	_	SpaceAfter=No
-11	財產	財產	NOUN	NN	_	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	11	punct	_	SpaceAfter=No
+# visual-style 30	bgColor:blue
+# visual-style 30	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 30 case:suff	color:blue
+1	「	「	PUNCT	``	_	5	punct	_	SpaceAfter=No
+2	貓囒	貓囒	PROPN	NNP	_	3	compound	_	SpaceAfter=No
+3	山	山	PART	SFN	_	5	nmod	_	SpaceAfter=No
+4	自然	自然	NOUN	NN	_	5	nmod	_	SpaceAfter=No
+5	步道	步道	NOUN	NN	_	11	nmod	_	SpaceAfter=No
+6	」	」	PUNCT	''	_	5	punct	_	SpaceAfter=No
+7	（	（	PUNCT	(	_	8	punct	_	SpaceAfter=No
+8	Maolan	Maolan	X	FW	_	5	appos	_	_
+9	trail	trail	X	FW	_	8	flat:foreign	_	SpaceAfter=No
+10	）	）	PUNCT	)	_	8	punct	_	SpaceAfter=No
+11	入口	入口	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
+12	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
+13	兩	兩	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
+14	處	處	NOUN	NN	_	12	obj	_	SpaceAfter=No
+15	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
+16	西	西	NOUN	NN	_	17	nmod	_	SpaceAfter=No
+17	入口	入口	NOUN	NN	_	18	nsubj	_	SpaceAfter=No
+18	位	位	VERB	VV	_	12	parataxis	_	SpaceAfter=No
+19	於	於	VERB	VV	_	18	mark	_	SpaceAfter=No
+20	台	台	PROPN	NNP	_	30	nmod	_	SpaceAfter=No
+21	21	21	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No
+22	線	線	NOUN	NN	_	30	nmod	_	SpaceAfter=No
+23	公路	公路	NOUN	NN	_	30	nmod	_	SpaceAfter=No
+24	63	63	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No
+25	公里	公里	NOUN	NNB	_	26	compound	_	SpaceAfter=No
+26	處	處	PART	SFN	_	30	nmod	_	SpaceAfter=No
+27	明潭	明潭	PROPN	NNP	_	30	nmod	_	SpaceAfter=No
+28	國中	國中	NOUN	NN	_	30	nmod	_	SpaceAfter=No
+29	生態	生態	NOUN	NN	_	30	compound	_	SpaceAfter=No
+30	池	池	PART	SFN	_	18	case:suff	_	SpaceAfter=No
+31	旁	旁	NOUN	NN	_	30	acl	_	SpaceAfter=No
+32	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 ~~~
 

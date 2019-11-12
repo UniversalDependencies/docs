@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Natalia Silveira, Timothy Dozat, Christopher Manning, Sebastian Schuster, John Bauer, Miriam Connor, Marie-Catherine de Marneffe, Nathan Schneider, Sam Bowman, Hanzhi Zhu, Daniel Galbraith.
 
 Repository: [UD_English-EWT](https://github.com/UniversalDependencies/UD_English-EWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 4.0
 
@@ -239,7 +239,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       <li>NOUN: people, years, days, things, questions, times, months, guys, friends, places</li>
       <li>PRON: they, we, their, our, them, us, those, these, themselves, 's</li>
       <li>PROPN: americans, Beatles, Iraqis, Palestinians, Islands, Tigers, Shiites, Seas, Muslims, Christians</li>
-      <li>VERB: associates, rays</li>
+      <li>VERB: rays</li>
     </ul>
   </li>
 </ul>
@@ -256,8 +256,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       <li>NUM: 9/11</li>
       <li>PRON: i, it, my, he, me, this, his, that, him, she</li>
       <li>PROPN: Bush, US, al, Iraq, enron, united, Iran, New, China, states</li>
-      <li>SYM: %, 1%P701!.doc</li>
-      <li>VERB: is, has, was, says, 's, makes, seems, needs, looks, comes</li>
+      <li>SYM: #, %, 1%P701!.doc</li>
       <li>VERB-Fin: is, has, was, says, 's, makes, seems, needs, looks, comes</li>
       <li>X: URSULA</li>
     </ul>
@@ -279,7 +278,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Nom
     <ul>
-      <li>PRON: i, you, it, they, we, he, she, u, ti</li>
+      <li>PRON: i, you, it, they, we, he, she, the, u, ti</li>
     </ul>
   </li>
 </ul>
@@ -293,7 +292,6 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <li>Def
     <ul>
       <li>DET: the</li>
-      <li>PRON: The</li>
     </ul>
   </li>
 </ul>
@@ -357,6 +355,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <li>Imp
     <ul>
       <li>AUX-Fin: do, be, get</li>
+      <li>AUX-Inf: get</li>
       <li>VERB-Fin: let, go, see, take, try, get, make, give, call, put</li>
     </ul>
   </li>
@@ -420,7 +419,6 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <li>Art
     <ul>
       <li>DET: the, a, an</li>
-      <li>PRON: The</li>
     </ul>
   </li>
 </ul>
@@ -561,17 +559,17 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
         <ul>
           <li>ADP: o, thru, w, ta, vs, f, b/c, w/, 2, 4</li>
           <li>ADV: Def, aka, deffly, prolly</li>
-          <li>AUX-Fin: shal, wud</li>
+          <li>AUX-Fin: ar, shal, wud</li>
           <li>AUX-Inf: b</li>
           <li>CCONJ: n, 'n, VS</li>
           <li>DET: da, dat, sm</li>
           <li>INTJ: wel</li>
-          <li>NOUN: luv, b, c, DJ's, THX, lovin', r., somethin, syd, yrs</li>
+          <li>NOUN: luv, b, c, DJ's, THX, UV, lovin', r., somethin, syd</li>
           <li>PART: na, ta, 2, a</li>
           <li>PRON: u, ur, 'em, any1, em, wht</li>
           <li>PROPN: Phx</li>
           <li>SCONJ: b/c, 4, bc, cos, coz, cus, ig, w/out</li>
-          <li>VERB-Fin: wan, ar, c'm, hav</li>
+          <li>VERB-Fin: wan, c'm, hav</li>
           <li>VERB-Ger: playin</li>
           <li>VERB-Inf: hav, wan</li>
           <li>VERB-Part: gon</li>
@@ -600,14 +598,14 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       <li>Yes
         <ul>
           <li>ADJ: accomodating, unic, Aweesome, Awsome, Chineese, Disatisfied, Hopless, Lovley, accomdating, brillant</li>
-          <li>ADP: then, a, and, of, aboout, abou, admidst, aground, amoung, becuse</li>
+          <li>ADP: then, a, and, of, the, aboout, abou, admidst, aground, amoung</li>
           <li>ADV: to, definately, completly, truely, Consistantly, Definetely, REALY, Unfortunalty, a, absoulutely</li>
-          <li>AUX-Fin: woud, ',, a, ar, as, cold, hav, hvae, made, most</li>
+          <li>AUX-Fin: ar, woud, ',, a, as, cold, hav, hvae, made, most</li>
           <li>CCONJ: an, adn, a, ad=nd, amd, ans, at, of</li>
           <li>DET: and, teh, aa, dthat, he, ssome, te, then, ther, whhich</li>
-          <li>NOUN: catagory, hamburguers, DJ's, Mechaincs, Sanwiches, Sstaff, Unlce, ammount, appartment, aunte</li>
+          <li>NOUN: catagory, hamburguers, DJ's, Mechaincs, Sanwiches, Sstaff, Unlce, ammount, anywere, appartment</li>
           <li>PART: too, ot</li>
-          <li>PRON: out, It's, thier, ti, you</li>
+          <li>PRON: the, out, It's, thier, ti, you</li>
           <li>PROPN: Sear's, Bramen, Guiness, Hirsohima, Nagaski, Thanksgiv8ing</li>
           <li>SCONJ: becuse, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse, then</li>
           <li>VERB-Fin: new, reccomend, recieved, answetred, appologized, deliverd, fixeded, let's, orderd, preceded</li>
@@ -640,19 +638,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN (1997)</li>
-      <li>VERB-Fin--PRON (793)</li>
+      <li>VERB-Fin--NOUN (1998)</li>
+      <li>VERB-Fin--PRON (791)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
-      <li>VERB-Fin--PRON-Nom (4746)</li>
+      <li>VERB-Fin--PRON-Nom (4748)</li>
       <li>VERB-Ger--NOUN (85)</li>
       <li>VERB-Ger--PRON (22)</li>
       <li>VERB-Ger--PRON-Acc (7)</li>
       <li>VERB-Ger--PRON-Nom (186)</li>
       <li>VERB-Inf--NOUN (658)</li>
-      <li>VERB-Inf--PRON (291)</li>
+      <li>VERB-Inf--PRON (288)</li>
       <li>VERB-Inf--PRON-Acc (37)</li>
-      <li>VERB-Inf--PRON-Nom (2612)</li>
+      <li>VERB-Inf--PRON-Nom (2615)</li>
       <li>VERB-Part--NOUN (458)</li>
       <li>VERB-Part--PRON (143)</li>
       <li>VERB-Part--PRON-Acc (4)</li>
@@ -664,16 +661,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3499)</li>
+      <li>VERB-Fin--NOUN (3500)</li>
       <li>VERB-Fin--NOUN-ADP('s) (1)</li>
       <li>VERB-Fin--PRON (340)</li>
-      <li>VERB-Fin--PRON-Acc (870)</li>
+      <li>VERB-Fin--PRON-Acc (869)</li>
       <li>VERB-Fin--PRON-Nom (63)</li>
       <li>VERB-Ger--NOUN (1041)</li>
       <li>VERB-Ger--PRON (47)</li>
       <li>VERB-Ger--PRON-Acc (118)</li>
       <li>VERB-Ger--PRON-Nom (10)</li>
-      <li>VERB-Inf--NOUN (3197)</li>
+      <li>VERB-Inf--NOUN (3194)</li>
       <li>VERB-Inf--NOUN-ADP('s) (1)</li>
       <li>VERB-Inf--NOUN-ADP(of) (1)</li>
       <li>VERB-Inf--PRON (324)</li>

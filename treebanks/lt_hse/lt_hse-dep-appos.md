@@ -75,7 +75,7 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 9	pirmąja	pirmas	ADJ	ORD	Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	conj	_	En=first
 10	vertybe	vertybė	NOUN	NN	Case=Ins|Gender=Fem|Number=Sing	6	iobj	_	En=worthy|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	12	punct	_	En=,
-12	nepalyginti	palyginti	VERB	VB	Polarity=Neg|Reflex=No|VerbForm=Inf|Voice=Act	13	advmod	_	En=compared
+12	nepalyginti	palyginti	VERB	VB	Polarity=Neg|Reflex=No|VerbForm=Inf|Voice=Act	13	advcl	_	En=compared
 13	svarbesne	svarbus	ADJ	JJR	Case=Ins|Definite=Ind|Degree=Cmp|Gender=Fem|Number=Sing	10	appos	_	En=important
 14	už	už	ADP	UH	_	15	case	_	En=than
 15	demokratiją	demokratija	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	En=democracy|SpaceAfter=No

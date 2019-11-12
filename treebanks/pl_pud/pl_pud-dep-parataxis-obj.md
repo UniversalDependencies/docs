@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Polish-PUD: Relations: `parataxis:obj`
 
-This relation is a language-specific subtype of <tt><a href="pl_pud-dep-parataxis.html">parataxis</a></tt>.
+This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `parataxis`: <tt><a href="pl_pud-dep-parataxis-insert.html">parataxis:insert</a></tt>.
 
 46 nodes (0%) are attached to their parents as `parataxis:obj`.

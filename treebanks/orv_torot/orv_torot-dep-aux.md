@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="orv_torot-dep-aux-pass.html">aux:pass</a></tt>.
 
-748 nodes (0%) are attached to their parents as `aux`.
+747 nodes (0%) are attached to their parents as `aux`.
 
 456 instances of `aux` (61%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.70320855614973.
+Average distance between parent and child is 1.7041499330656.
 
-The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (709; 95% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (15; 2% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (708; 95% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (15; 2% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

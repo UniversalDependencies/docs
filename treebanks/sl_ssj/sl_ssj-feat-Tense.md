@@ -83,8 +83,8 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> VERB</tt> (418; 72%),
-<tt>VERB --[<tt><a href="sl_ssj-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (265; 51%),
+<tt>VERB --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> VERB</tt> (419; 72%),
+<tt>VERB --[<tt><a href="sl_ssj-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (262; 50%),
 <tt>AUX --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
 

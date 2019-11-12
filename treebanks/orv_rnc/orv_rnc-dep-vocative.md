@@ -78,7 +78,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 1	fgColor:white
 # visual-style 1 5 vocative	color:blue
 1	Уне	уне	VERB	_	_	0	root	_	_
-2	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	1	cop	_	_
+2	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	1	aux	_	_
 3	ти	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	iobj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	Упадыше	Упадышъ	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
@@ -86,13 +86,13 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 7	аще	аще	SCONJ	_	_	12	mark	_	_
 8	не	не	PART	_	Polarity=Neg	12	advmod	_	_
 9	был	быти	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	12	aux	_	_
-10	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	12	aux	_	_
+10	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	12	aux	_	_
 11	во	въ	ADP	_	_	12	case	_	_
 12	утробѣ	утроба	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	1	advcl	_	_
 13	матерьни	матерний	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	12	amod	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	18	punct	_	_
 15	не	не	PART	_	Polarity=Neg	18	advmod	_	_
-16	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	18	aux	_	_
+16	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	18	aux	_	_
 17	былъ	быти	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	18	aux	_	_
 18	нареченъ	наречи	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	conj	_	_
 19	предатель	предатель	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	xcomp	_	_

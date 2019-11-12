@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 1 nsubj:caus	color:blue
 1	J'	il	PRON	_	Number=Sing|Person=1	4	nsubj:caus	_	SpaceAfter=No
-2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 3	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	aux:caus	_	_
 4	construire	construire	VERB	_	VerbForm=Inf	0	root	_	_
 5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_

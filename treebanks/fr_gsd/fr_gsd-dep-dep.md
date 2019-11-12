@@ -8,41 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `dep`.
+86 nodes (0%) are attached to their parents as `dep`.
 
-3 instances of `dep` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+84 instances of `dep` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.04651162790698.
 
-The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (1; 25% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (1; 25% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 25% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 25% instances).
+The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-PART.html">PART</a></tt> (84; 98% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 dep	color:blue
-1	En	en	ADP	_	_	4	case	_	_
-2	d'	un	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	4	det	_	SpaceAfter=No
-3	autres	autre	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	_
-4	termes	terme	NOUN	_	Gender=Masc|Number=Plur	11	obl:mod	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
-7	x	x	SYM	_	_	9	dep	_	_
-8	k	k	SYM	_	_	7	dep	_	_
-9	valeurs	valeur	NOUN	_	Gender=Fem|Number=Plur	11	nsubj:pass	_	_
-10	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
-11	calculées	calculer	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
-12	en	en	ADP	_	_	13	mark	_	_
-13	utilisant	utiliser	VERB	_	Tense=Pres|VerbForm=Part	11	advcl	_	_
-14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
-15	x	x	SYM	_	_	13	obj	_	_
-16	{	{	PUNCT	_	_	17	punct	_	_
-17	k-1	k-1	SYM	_	_	15	nmod	_	_
-18	}	}	PUNCT	_	_	17	punct	_	_
-19	calculées	calculer	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	15	acl	_	_
-20	précédemment	précédemment	ADV	_	_	19	advmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	11	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 dep	color:blue
+1	Va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	-t	t	PART	_	_	3	dep	_	SpaceAfter=No
+3	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+4	se	se	PRON	_	Person=3|PronType=Prs	5	expl:pass	_	_
+5	circonscrire	circonscrire	VERB	_	VerbForm=Inf	1	xcomp	_	_
+6	à	à	ADP	_	_	9	case	_	_
+7	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+8	seule	seul	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+9	matière	matière	NOUN	_	Gender=Fem|Number=Sing	5	obl:arg	_	_
+10	?	?	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -50,30 +39,37 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 dep	color:blue
-1	En	en	ADP	_	_	4	case	_	_
-2	d'	un	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	4	det	_	SpaceAfter=No
-3	autres	autre	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	_
-4	termes	terme	NOUN	_	Gender=Masc|Number=Plur	11	obl:mod	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
-7	x	x	SYM	_	_	9	dep	_	_
-8	k	k	SYM	_	_	7	dep	_	_
-9	valeurs	valeur	NOUN	_	Gender=Fem|Number=Plur	11	nsubj:pass	_	_
-10	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
-11	calculées	calculer	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
-12	en	en	ADP	_	_	13	mark	_	_
-13	utilisant	utiliser	VERB	_	Tense=Pres|VerbForm=Part	11	advcl	_	_
-14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
-15	x	x	SYM	_	_	13	obj	_	_
-16	{	{	PUNCT	_	_	17	punct	_	_
-17	k-1	k-1	SYM	_	_	15	nmod	_	_
-18	}	}	PUNCT	_	_	17	punct	_	_
-19	calculées	calculer	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	15	acl	_	_
-20	précédemment	précédemment	ADV	_	_	19	advmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	11	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 dep	color:blue
+1	Engelbert	Engelbert	PROPN	_	_	23	nsubj	_	_
+2	Zaschka	Zaschka	PROPN	_	_	1	flat:name	_	_
+3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	1er	1er	NUM	_	_	1	nmod	_	_
+5	septembre	septembre	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+6	1895	1895	NUM	_	_	5	nmod	_	_
+7	à	à	ADP	_	_	8	case	_	_
+8	Fribourg-en-Brisgau	Fribourg-en-Brisgau	PROPN	_	_	4	dep	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	Allemagne	Allemagne	PROPN	_	_	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	et	et	CCONJ	_	_	13	cc	_	_
+13	mort	mourir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	26	26	NUM	_	_	13	obl:arg	_	_
+16	juin	juin	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+17	1955	1955	NUM	_	_	16	nmod	_	_
+18	à	à	ADP	_	_	19	case	_	_
+19	Fribourg-en-Brisgau	Fribourg-en-Brisgau	PROPN	_	_	13	obl:arg	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	4	punct	_	_
+21	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
+22	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	pionnier	pionnier	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+24	allemand	allemand	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	_
+25	de	de	ADP	_	_	27	case	_	_
+26	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	SpaceAfter=No
+27	aéronautique	aéronautique	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	23	punct	_	_
 
 ~~~
 
@@ -115,8 +111,8 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 29	:	:	PUNCT	_	_	34	punct	_	_
 30	«	«	PUNCT	_	_	34	punct	_	_
 31	raconter	raconter	VERB	_	VerbForm=Inf	34	csubj	_	_
-32	trop	trop	ADV	_	_	31	obj	_	_
-33	m'	me	PRON	_	Number=Sing|Person=1|PronType=Prs	34	iobj	_	SpaceAfter=No
+32	trop	trop	ADV	_	_	31	advmod	_	_
+33	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	34	iobj	_	SpaceAfter=No
 34	effrayait	effrayer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	parataxis	_	_
 35	plus	plus	ADV	_	_	34	advmod	_	_
 36	que	que	SCONJ	_	_	38	mark	_	_

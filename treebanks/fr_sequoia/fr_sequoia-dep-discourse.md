@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 1 discourse	color:blue
-1	Eh	eh	INTJ	_	_	15	discourse	_	MWE=eh_bien|MWEPOS=I
+1	Eh	eh	INTJ	_	_	15	discourse	_	EXTPOS=I|MWE=eh_bien
 2	bien	bien	ADV	_	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	15	punct	_	_
 4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -32,10 +32,10 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 8	,	,	PUNCT	_	_	6	punct	_	_
 9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
 10	astronaute	astronaute	NOUN	_	Number=Sing	6	appos	_	_
-11	John	John	PROPN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+11	John	John	PROPN	_	Gender=Masc|Number=Sing	10	appos	_	_
 12	Glenn	Glenn	PROPN	_	Gender=Masc|Number=Sing	11	flat:name	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	_
-14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:tense	_	_
 15	parti	partir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 16	dans	dans	ADP	_	_	18	case	_	_
 17	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No

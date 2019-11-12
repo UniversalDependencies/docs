@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Dmitry Sichinava.
 
 Repository: [UD_Lithuanian-HSE](https://github.com/UniversalDependencies/UD_Lithuanian-HSE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_hse22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_hse25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 4.0
 
@@ -96,7 +96,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 </ul>
 
 <ul>
-<li>This corpus contains 32 word types tagged as particles (PART): Kiek, ar, atseit, beje, bene, bent, būtent, dar, gal, galbūt, ir, jau, juk, juo, ko, mat, ne, net, netgi, nors, nė, pat, prašom, tai, taigi, taip, tarkime, tegu, tik, turbūt, vargu, vien</li>
+<li>This corpus contains 31 word types tagged as particles (PART): Kiek, ar, atseit, beje, bene, bent, būtent, dar, gal, galbūt, ir, jau, juk, juo, ko, mat, ne, net, netgi, nors, nė, pat, tai, taigi, taip, tarkime, tegu, tik, turbūt, vargu, vien</li>
 </ul>
 
 <ul>
@@ -126,7 +126,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: buvo, yra, nėra, būtų, nebūtų, būna, nebuvo, esu, Esame, bus</li>
+    <li>AUX: buvo, yra, nėra, būtų, nebūtų, būna, esu, nebuvo, bus, Esame</li>
     <li>VERB: gali, turi, negali, nėra, sako, žino, analizuoja, bando, dera, dūstu</li>
   </ul>
   </li>
@@ -180,7 +180,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
       <li>DET: kokia, tokia, tokios, tokią, tos, kokias, tokiai, tokias, visa, šioje</li>
       <li>NOUN: tautos, tauta, tiesa, valstybės, tautą, tolerancijos, abejonės, dauguma, klaida, komedijos</li>
       <li>NUM: Dešimtys, dvi, trijų</li>
-      <li>PRON: ji, ją, kurios, jos, kurią, kuri, pati, ja, jai, jas</li>
+      <li>PRON: ji, ją, kurios, jos, kurią, kuri, ja, jai, jas, kokios</li>
       <li>PROPN: Lietuvos, Europos, Rusijos, Lietuva, Rusija, Lietuvoje, Vilma, Lietuvą, Rusijai, Juknaitė</li>
       <li>VERB-Part: paskelbta, Mąstanti, apsuptose, atitinkančios, atmesta, atsakyta, atsiradusi, baigta, baramos, bijanti</li>
       <li>VERB-PartPus: duodama, atsižvelgdamos, nesakoma, nesikurdama, neturėdama</li>
@@ -193,7 +193,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
     <ul>
       <li>ADJ: kitų, vienas, lietuvis, gero, lietuviu, lietuvius, lietuvių, vienintelis, įvairiais, blogesnis</li>
       <li>AUX-Part: esąs</li>
-      <li>DET: tas, tą, to, tų, viso, jokių, kiekvienas, toks, jokiu, jų</li>
+      <li>DET: tas, tą, to, tų, viso, jokių, kiekvienas, pats, toks, jokiu</li>
       <li>NOUN: laikais, metų, pasaulyje, pilotų, amžiaus, daugelis, filosofas, metu, pagrindo, prietaisai</li>
       <li>NUM: du, trys, šimtus, penkis, trijų, tūkstančius, vieną, šimtą</li>
       <li>PRON: jis, to, kuris, jie, jo, nieko, jį, kurie, kurį, viso</li>
@@ -240,9 +240,9 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
   <li>Sing
     <ul>
       <li>ADJ: vienas, lietuvis, gero, lietuviu, tautinė, tautinės, viena, vienintelis, Laikinosios, blogesnis</li>
-      <li>AUX-Fin: yra, buvo, nėra, būtų, nebūtų, būna, nebuvo, esu, bus, nebus</li>
+      <li>AUX-Fin: yra, buvo, nėra, būtų, nebūtų, būna, esu, nebuvo, bus, nebus</li>
       <li>AUX-Part: esąs</li>
-      <li>DET: tą, kokia, tas, tokia, to, tokią, viso, kiekvienas, tokiai, tokios</li>
+      <li>DET: tą, kokia, tas, tokia, to, tokią, viso, kiekvienas, pats, tokiai</li>
       <li>NOUN: tautos, tauta, tiesa, valstybės, pasaulyje, tautą, tolerancijos, abejonės, amžiaus, daugelis</li>
       <li>NUM: vieną, šimtą</li>
       <li>PRON: jis, ji, to, kuris, jo, man, ją, nieko, aš, jį</li>
@@ -331,7 +331,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
     <ul>
       <li>ADJ: vienas, lietuvis, tautinė, viena, vienintelis, blogesnis, didelė, kitas, pasaulinė, paskutiniai</li>
       <li>AUX-Part: esąs</li>
-      <li>DET: kokia, tas, tie, tokia, kai, kiekvienas, toks, visa, Tokios, Tos</li>
+      <li>DET: kokia, tas, tie, tokia, kai, kiekvienas, pats, toks, visa, Tokios</li>
       <li>NOUN: tauta, tiesa, daugelis, dauguma, filosofas, klaida, prietaisai, žodžiai, adresas, daiktas</li>
       <li>NUM: trys, Dešimtys, Du</li>
       <li>PRON: jis, kas, ji, jie, kuris, mes, aš, kurie, jūs, kuri</li>
@@ -435,7 +435,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
   <li>Pos
     <ul>
       <li>ADJ: aišku</li>
-      <li>AUX-Fin: buvo, yra, būtų, būna, esu, Esame, bus, būsime</li>
+      <li>AUX-Fin: buvo, yra, būtų, būna, esu, bus, Esame, būsime</li>
       <li>AUX-Inf: būti</li>
       <li>AUX-Part: Esama, esą, esąs</li>
       <li>VERB-Fin: gali, turi, sako, žino, analizuoja, bando, dera, dūstu, gyvena, kalba</li>
@@ -495,7 +495,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: buvo, yra, nėra, būna, nebuvo, esu, Esame, bus, būsime, nebus</li>
+      <li>AUX-Fin: buvo, yra, nėra, būna, esu, nebuvo, bus, Esame, būsime, nebus</li>
       <li>VERB-Fin: gali, turi, negali, nėra, sako, žino, analizuoja, bando, dera, dūstu</li>
       <li>VERB-Inf: nesiseka, nesutinku</li>
     </ul>
@@ -510,7 +510,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
   <li>Fut
     <ul>
       <li>AUX-Fin: bus, būsime, nebus, nebūsi</li>
-      <li>VERB-Fin: Pridursiu, Priminsiu, apims, ateis, atsiras, bandysi, bus, galėsi, generuos, išnyks</li>
+      <li>VERB-Fin: Pridursiu, Priminsiu, apims, ateis, atsiras, bandysi, galėsi, generuos, išnyks, karinės</li>
     </ul>
   </li>
 </ul>
@@ -519,7 +519,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
   <li>Past
     <ul>
       <li>AUX-Fin: buvo, nebuvo</li>
-      <li>VERB-Fin: lėmė, pasakojo, atsirado, buvo, galėjo, gamino, gavo, liko, neapėmė, norėjo</li>
+      <li>VERB-Fin: lėmė, pasakojo, atsirado, galėjo, gamino, gavo, liko, neapėmė, norėjo, pasirinko</li>
       <li>VERB-Part: paskelbta, skirtas, aplamdytą, apsemtų, apsuptose, atmesta, atsakyta, atsiradusi, baigta, buvęs</li>
     </ul>
   </li>
@@ -572,7 +572,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 <ul>
   <li>Act
     <ul>
-      <li>AUX-Fin: buvo, yra, nėra, būtų, nebūtų, būna, nebuvo, esu, Esame, bus</li>
+      <li>AUX-Fin: buvo, yra, nėra, būtų, nebūtų, būna, esu, nebuvo, bus, Esame</li>
       <li>AUX-Inf: būti</li>
       <li>AUX-Part: esą, esąs</li>
       <li>VERB-Fin: gali, turi, negali, nėra, sako, žino, analizuoja, bando, dera, dūstu</li>
@@ -616,7 +616,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 <ul>
   <li>No
     <ul>
-      <li>AUX-Fin: buvo, yra, nėra, būtų, nebūtų, būna, nebuvo, esu, Esame, bus</li>
+      <li>AUX-Fin: buvo, yra, nėra, būtų, nebūtų, būna, esu, nebuvo, bus, Esame</li>
       <li>AUX-Inf: būti</li>
       <li>AUX-Part: Esama, esą, esąs</li>
       <li>VERB-Fin: gali, turi, negali, nėra, sako, žino, analizuoja, bando, dera, dūstu</li>
@@ -650,7 +650,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
     <ul>
       <li>AUX-Fin: esu, Esame, būsime, nesame</li>
       <li>PRON: mes, man, mus, mums, aš, mūsų, mumis</li>
-      <li>VERB-Fin: dūstu, draudžiame, gyvename, neapėmė, sutinku, žinome, Esu, Grįžkime, Lukterėkime, Nesame</li>
+      <li>VERB-Fin: dūstu, draudžiame, gyvename, neapėmė, sutinku, žinome, Grįžkime, Lukterėkime, Nesame, Neturėtume</li>
       <li>VERB-Inf: nesutinku</li>
     </ul>
   </li>
@@ -693,7 +693,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 </ul>
 
 <ul>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: būti, prašom, tegu.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: būti.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: būti.</li>
 </ul>
 

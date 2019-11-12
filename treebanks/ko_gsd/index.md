@@ -19,10 +19,10 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Jinho Choi, Na-Rae Han, Jena Hwang, Jayeol Chun.
 
 Repository: [UD_Korean-GSD](https://github.com/UniversalDependencies/UD_Korean-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_gsd22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_gsd25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
-License: CC BY-NC-SA 3.0 US
+License: CC BY-SA 4.0
 
 Genre: news, blog
 

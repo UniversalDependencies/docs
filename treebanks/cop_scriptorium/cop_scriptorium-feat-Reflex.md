@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-5 tokens (0%) have a non-empty value of `Reflex`.
+10 tokens (0%) have a non-empty value of `Reflex`.
 2 types (0%) occur at least once with a non-empty value of `Reflex`.
 2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-4 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Reflex`.
+9 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `ADV` and `Reflex` co-occurred: <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `ADV` and `Reflex` co-occurred: <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (9; 100%).
 
 `ADV` tokens may have the following values of `Reflex`:
 
-* `Yes` (4; 100% of non-empty `Reflex`): ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ
-* `EMPTY` (1038): ⲉⲃⲟⲗ, ⲁⲛ, ⲧⲏⲣ, ⲛ, ⲉϩⲣⲁⲓ, ⲉϩⲟⲩⲛ, ⲟⲛ, ⲙⲙⲁⲩ, ⲧⲙ, ϩⲣⲁⲓ
+* `Yes` (9; 100% of non-empty `Reflex`): ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ
+* `EMPTY` (1586): ⲉⲃⲟⲗ, ⲁⲛ, ⲧⲏⲣ, ⲉϩⲟⲩⲛ, ⲟⲛ, ⲛ, ⲉϩⲣⲁⲓ, ⲙⲙⲁⲩ, ⲙⲡⲣ, ⲧⲙ
 
 ### `PRON`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): ⲙⲙⲓⲛⲙⲙⲟ
-* `EMPTY` (4254): ϥ, ⲩ, ⲟⲩ, ⲥ, ⲕ, ⲧⲛ, ⲧⲉⲧⲛ, ⲓ, ⲡⲉ, ⲛ
+* `EMPTY` (6522): ϥ, ⲩ, ⲟⲩ, ⲥ, ⲓ, ⲕ, ⲛ, ⲧⲛ, ⲡⲉ, ⲧⲉⲧⲛ
 

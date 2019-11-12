@@ -16,11 +16,11 @@ Family: Uralic, Mordvin
 
 This treebank has been part of Universal Dependencies since the UD v2.3 release.
 
-The following people have contributed to making this treebank part of UD: Jack Rueter, Francis Tyers.
+The following people have contributed to making this treebank part of UD: Jack Rueter, Francis Tyers, Elena Klementieva, Olga Erina, Ivan Riabov.
 
 Repository: [UD_Erzya-JR](https://github.com/UniversalDependencies/UD_Erzya-JR)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmyv_jr22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmyv_jr25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 4.0
 
@@ -51,7 +51,12 @@ UD Erzya is the original annotation (CoNLL-U) for texts in the Erzya language. T
 
 ## Acknowledgments
 
-The original annotation has been performed by Jack Rueter at the University of Helsinki using morphological tools facilitated at the Norwegian Arctic University in Tromsø and with continuous consultation from Francis Tyers. Without the Erzya writers themselves, we would be no where…
+The original annotation has been performed by Jack Rueter at the University of Helsinki using morphological tools
+facilitated at the Norwegian Arctic University in Tromsø and with continuous consultation from Francis Tyers.
+The idea and funding for the first three months of the project came from Anssi Yli-Jyrä, Research Fellow at
+the Academy of Finland (dec. No 270354 - A Usable Finite-State Model for Adequate
+Syntactic Complexity), who made it possible to work with Erzya UD.
+Without the Erzya writers themselves, we would be no where…
 
 If you use this data in your work, please cite:
 
@@ -77,7 +82,7 @@ year={2018}
 
 ## Relations
 
-[acl](myv_jr-dep-acl.html) – [acl:relcl](myv_jr-dep-acl-relcl.html) – [advcl](myv_jr-dep-advcl.html) – [advmod](myv_jr-dep-advmod.html) – [advmod:tmod](myv_jr-dep-advmod-tmod.html) – [amod](myv_jr-dep-amod.html) – [appos](myv_jr-dep-appos.html) – [aux](myv_jr-dep-aux.html) – [aux:neg](myv_jr-dep-aux-neg.html) – [aux:q](myv_jr-dep-aux-q.html) – [case](myv_jr-dep-case.html) – [cc](myv_jr-dep-cc.html) – [cc:preconj](myv_jr-dep-cc-preconj.html) – [ccomp](myv_jr-dep-ccomp.html) – [compound](myv_jr-dep-compound.html) – [compound:coll](myv_jr-dep-compound-coll.html) – [compound:redup](myv_jr-dep-compound-redup.html) – [compound:svc](myv_jr-dep-compound-svc.html) – [conj](myv_jr-dep-conj.html) – [cop](myv_jr-dep-cop.html) – [csubj](myv_jr-dep-csubj.html) – [dep](myv_jr-dep-dep.html) – [det](myv_jr-dep-det.html) – [discourse](myv_jr-dep-discourse.html) – [dislocated](myv_jr-dep-dislocated.html) – [expl](myv_jr-dep-expl.html) – [fixed](myv_jr-dep-fixed.html) – [flat](myv_jr-dep-flat.html) – [flat:name](myv_jr-dep-flat-name.html) – [mark](myv_jr-dep-mark.html) – [nmod](myv_jr-dep-nmod.html) – [nmod:comp](myv_jr-dep-nmod-comp.html) – [nmod:gobj](myv_jr-dep-nmod-gobj.html) – [nmod:gsubj](myv_jr-dep-nmod-gsubj.html) – [nsubj](myv_jr-dep-nsubj.html) – [nummod](myv_jr-dep-nummod.html) – [obj](myv_jr-dep-obj.html) – [obl](myv_jr-dep-obl.html) – [obl:agent](myv_jr-dep-obl-agent.html) – [obl:tmod](myv_jr-dep-obl-tmod.html) – [orphan](myv_jr-dep-orphan.html) – [parataxis](myv_jr-dep-parataxis.html) – [punct](myv_jr-dep-punct.html) – [root](myv_jr-dep-root.html) – [vocative](myv_jr-dep-vocative.html) – [xcomp](myv_jr-dep-xcomp.html) – [xcomp:ds](myv_jr-dep-xcomp-ds.html)
+[acl](myv_jr-dep-acl.html) – [acl:relcl](myv_jr-dep-acl-relcl.html) – [advcl](myv_jr-dep-advcl.html) – [advmod](myv_jr-dep-advmod.html) – [advmod:tmod](myv_jr-dep-advmod-tmod.html) – [amod](myv_jr-dep-amod.html) – [appos](myv_jr-dep-appos.html) – [aux](myv_jr-dep-aux.html) – [aux:cnd](myv_jr-dep-aux-cnd.html) – [aux:imp](myv_jr-dep-aux-imp.html) – [aux:neg](myv_jr-dep-aux-neg.html) – [aux:opt](myv_jr-dep-aux-opt.html) – [aux:q](myv_jr-dep-aux-q.html) – [case](myv_jr-dep-case.html) – [cc](myv_jr-dep-cc.html) – [cc:preconj](myv_jr-dep-cc-preconj.html) – [ccomp](myv_jr-dep-ccomp.html) – [compound](myv_jr-dep-compound.html) – [compound:coll](myv_jr-dep-compound-coll.html) – [compound:redup](myv_jr-dep-compound-redup.html) – [compound:svc](myv_jr-dep-compound-svc.html) – [conj](myv_jr-dep-conj.html) – [cop](myv_jr-dep-cop.html) – [csubj](myv_jr-dep-csubj.html) – [dep](myv_jr-dep-dep.html) – [det](myv_jr-dep-det.html) – [discourse](myv_jr-dep-discourse.html) – [dislocated](myv_jr-dep-dislocated.html) – [expl](myv_jr-dep-expl.html) – [fixed](myv_jr-dep-fixed.html) – [flat](myv_jr-dep-flat.html) – [flat:name](myv_jr-dep-flat-name.html) – [mark](myv_jr-dep-mark.html) – [nmod](myv_jr-dep-nmod.html) – [nmod:comp](myv_jr-dep-nmod-comp.html) – [nmod:gobj](myv_jr-dep-nmod-gobj.html) – [nmod:gsubj](myv_jr-dep-nmod-gsubj.html) – [nsubj](myv_jr-dep-nsubj.html) – [nummod](myv_jr-dep-nummod.html) – [obj](myv_jr-dep-obj.html) – [obl](myv_jr-dep-obl.html) – [obl:agent](myv_jr-dep-obl-agent.html) – [obl:tmod](myv_jr-dep-obl-tmod.html) – [orphan](myv_jr-dep-orphan.html) – [parataxis](myv_jr-dep-parataxis.html) – [punct](myv_jr-dep-punct.html) – [root](myv_jr-dep-root.html) – [vocative](myv_jr-dep-vocative.html) – [xcomp](myv_jr-dep-xcomp.html) – [xcomp:ds](myv_jr-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -129,7 +134,7 @@ year={2018}
 </ul>
 
 <ul>
-<li>This corpus contains 19 lemmas tagged as auxiliaries (AUX): а, аволь, апак, арась, бу, давай, давайте, иля, кадык, кармамс, ли, оль, савкшномс, савомс, улемс, ульнемс, штоли, эзь, эрявомс</li>
+<li>This corpus contains 18 lemmas tagged as auxiliaries (AUX): а, аволь, апак, арась, бу, давай, иля, кадык, кармамс, ли, оль, савкшномс, савомс, улемс, ульнемс, штоли, эзь, эрявомс</li>
 </ul>
 
 <ul>
@@ -659,7 +664,7 @@ year={2018}
   <li>Imp
     <ul>
       <li>ADV: Я</li>
-      <li>AUX: кадык, давай, давайте, иля</li>
+      <li>AUX: кадык, давайте, давай, иля</li>
       <li>PART: азё</li>
       <li>VERB: адя, вант, азё, ванодо, кирдть, Ёвтак, кадык, учок, чийть, ютак</li>
     </ul>
@@ -679,7 +684,7 @@ year={2018}
 <ul>
   <li>Opt
     <ul>
-      <li>AUX: Кадык, давайте, илязо, улезэ, иляст, улест, илязт, улезт</li>
+      <li>AUX: Кадык, илязо, улезэ, иляст, улест, илязт, улезт</li>
       <li>VERB: лоподезэ, лоткаст, маряст, содаст, эцест</li>
     </ul>
   </li>
@@ -1276,7 +1281,7 @@ year={2018}
       </li>
       <li>Sing
         <ul>
-          <li>AUX: эзизе, эзизь, эссе, Кадык, Эзик, аволизе, эзимизь, эзия</li>
+          <li>AUX: эзизе, кадык, эзизь, эссе, Эзик, аволизе, эзимизь, эзия</li>
           <li>VERB: саизе, путызе, кепедизе, кевкстизе, неизе, таргизе, ёртызе, маризе, маштызь, панжизе</li>
         </ul>
       </li>
@@ -1344,7 +1349,7 @@ year={2018}
       </li>
       <li>3
         <ul>
-          <li>AUX: эзизе, эзизь, эзинзе, эссе, Илять, Кадык, Эзик, аволизе, эзия</li>
+          <li>AUX: эзизе, эзизь, кадык, эзинзе, эссе, Илять, Эзик, аволизе, эзия</li>
           <li>VERB: саизе, путызе, кепедизе, кевкстизе, неизе, таргизе, ёртызе, маризе, маштызь, панжизе</li>
           <li>VERB-Conv: юкстнезь</li>
         </ul>
@@ -1408,7 +1413,7 @@ year={2018}
       <li>2
         <ul>
           <li>ADV: Я</li>
-          <li>AUX: иля, ят, т, аволить, илядо, эзить, Илять, Кадык, Улят, Эзик</li>
+          <li>AUX: иля, ят, т, аволить, илядо, кадык, эзить, Илять, Улят, Эзик</li>
           <li>PART: азё</li>
           <li>VERB: мерят, адя, вант, азё, ванодо, кирдть, содат, Ёвтак, кадсак, кадык</li>
         </ul>
@@ -1462,7 +1467,7 @@ year={2018}
       </li>
       <li>2
         <ul>
-          <li>AUX: Кадык, эряволь</li>
+          <li>AUX: кадык, эряволь</li>
           <li>NOUN: валаськавтомадо, кандомадо, коламодо, путыцязо, ёвтамозояк</li>
           <li>NOUN-Vnoun: валаськавтомадо, кандомадо</li>
           <li>VERB: мерсь, ютась, саизе, путызе, ваны, кепедизе, кевкстизе, неизе, сергедсь, сергець</li>
@@ -1497,7 +1502,7 @@ year={2018}
 </ul>
 
 <ul>
-<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: савомс, эзь, эрявомс, кадык, бу, давайте, ли, савкшномс, кармамс, давай.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: савомс, эзь, эрявомс, ли, савкшномс, кармамс.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1509,8 +1514,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Gen (3)</li>
       <li>VERB--NOUN-Ine (1)</li>
-      <li>VERB--NOUN-Nom (573)</li>
+      <li>VERB--NOUN-Nom (572)</li>
       <li>VERB--NOUN-Nom-ADP(марто) (1)</li>
+      <li>VERB--NOUN-Nom-ADP(прок) (1)</li>
       <li>VERB--PRON (1)</li>
       <li>VERB--PRON-Gen-ADP(пелев) (1)</li>
       <li>VERB--PRON-Nom (231)</li>
@@ -1567,6 +1573,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>advmod:tmod</a>, <a>aux:neg</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>compound:coll</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>flat:name</a>, <a>nmod:comp</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>obl:agent</a>, <a>obl:tmod</a>, <a>xcomp:ds</a></li>
+<li>This corpus uses 18 relation subtypes: <a>acl:relcl</a>, <a>advmod:tmod</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:neg</a>, <a>aux:opt</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>compound:coll</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>flat:name</a>, <a>nmod:comp</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>obl:agent</a>, <a>obl:tmod</a>, <a>xcomp:ds</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

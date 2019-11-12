@@ -9,45 +9,51 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `discourse`: <tt><a href="pl_pdb-dep-discourse-emo.html">discourse:emo</a></tt>.
 
-89 nodes (0%) are attached to their parents as `discourse:intj`.
+98 nodes (0%) are attached to their parents as `discourse:intj`.
 
-73 instances of `discourse:intj` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.58426966292135.
+82 instances of `discourse:intj` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.02040816326531.
 
-The following 7 pairs of parts of speech are connected with `discourse:intj`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (57; 64% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (19; 21% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (6; 7% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `discourse:intj`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (59; 60% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (19; 19% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (9; 9% instances), <tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (3; 3% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 1 discourse:intj	color:blue
-1	Och	och	INTJ	interj	_	4	discourse:intj	4:discourse:intj	SpaceAfter=No
-2	,	,	PUNCT	interp	PunctType=Comm	1	punct	1:punct	_
-3	znowu	znowu	PART	part	_	4	advmod	4:advmod	_
-4	ślęczysz	ślęczeć	VERB	fin:sg:sec:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-5	nad	nad	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	6	case	6:case	Case=Ins
-6	zadaniem	zadanie	NOUN	subst:sg:inst:n:ncol	Case=Ins|Gender=Neut|Number=Sing	4	obl:arg	4:obl:arg	SpaceAfter=No
-7	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
+# visual-style 4 2 discourse:intj	color:blue
+1	—	—	PUNCT	interp	PunctType=Dash	2	punct	2:punct	_
+2	Aaa	aaa	INTJ	interj	_	4	discourse:intj	4:discourse:intj	_
+3	—	—	PUNCT	interp	PunctType=Dash	2	punct	2:punct	_
+4	powiedziała	powiedzieć	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	Margie	Margie	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
+6	Tallworth	Tallworth	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	5	flat	5:flat	SpaceAfter=No
+7	;	;	PUNCT	interp	PunctType=Semi	8	punct	8:punct	_
+8	zatkało	zatkać	VERB	praet:sg:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	0:root|4:conj	_
+9	ją	on	PRON	ppron3:sg:acc:f:ter:akc:npraep	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	8	iobj	8:iobj	SpaceAfter=No
+10	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 1 discourse:intj	color:blue
-1	Dobra	dobra	INTJ	interj	_	5	discourse:intj	5:discourse:intj	_
-2	ludzie	człowiek	NOUN	subst:pl:voc:m1	Animacy=Hum|Case=Voc|Gender=Masc|Number=Plur	5	vocative	5:vocative	SpaceAfter=No
+# visual-style 5 2 discourse:intj	color:blue
+1	-	-	PUNCT	interp	PunctType=Hyph	8	punct	8:punct	_
+2	A	a	INTJ	interj	_	5	discourse:intj	5:discourse:intj	SpaceAfter=No
 3	,	,	PUNCT	interp	PunctType=Comm	2	punct	2:punct	_
-4	teraz	teraz	ADV	adv	_	5	advmod	5:advmod	_
-5	brawa	brawo	NOUN	subst:pl:nom:n:ncol	Case=Nom|Gender=Neut|Number=Plur	0	root	0:root	SpaceAfter=No
-6	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	SpaceAfter=No
-7	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	SpaceAfter=No
-8	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	_
+4	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	5	cop	5:cop	_
+5	pan	pan	NOUN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	8	parataxis:obj	8:parataxis:obj	_
+6	komisarz	komisarz	NOUN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	5	appos	5:appos	_
+7	-	-	PUNCT	interp	PunctType=Hyph	8	punct	8:punct	_
+8	wyszczerzył	wyszczerzyć	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+9	spróchniałe	spróchniały	ADJ	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	10	amod	10:amod	_
+10	zęby	ząb	NOUN	subst:pl:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obj	8:obj	SpaceAfter=No
+11	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	_
 
 ~~~
 

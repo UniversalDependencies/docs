@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-62 nodes (0%) are attached to their parents as `ccomp`.
+64 nodes (0%) are attached to their parents as `ccomp`.
 
-61 instances of `ccomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.40322580645161.
+63 instances of `ccomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.375.
 
-The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (48; 77% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (5; 8% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (49; 77% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (5; 8% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (5; 8% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -59,24 +59,22 @@ The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 9 ccomp	color:blue
-1	Я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	цалкам	цалкам	ADV	RB	Degree=Pos	3	advmod	_	_
-3	упэўнена	упэўнены	ADJ	JJH	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	PUNCT	_	9	punct	_	_
-5	што	што	SCONJ	IN	_	9	mark	_	_
-6	беларуская	беларускі	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
-7	мова	мова	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
-8	зноў	зноў	ADV	RB	Degree=Pos	9	advmod	_	_
-9	загучыць	загучыць	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	ccomp	_	_
-10	у	у	ADP	IN	_	12	case	_	_
-11	беларускім	беларускі	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
-12	народзе	народ	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
-13	.	.	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 3 10 ccomp	color:blue
+1	І	і	CCONJ	CC	_	3	cc	_	_
+2	мне	я	PRON	PRP	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+3	здаецца	здавацца	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	10	punct	_	_
+5	што	што	SCONJ	IN	_	10	mark	_	_
+6	ў	ў	ADP	IN	_	7	case	_	_
+7	вас	вы	PRON	PRP	Case=Gen|Number=Plur|Person=2|PronType=Prs	10	nmod	_	_
+8	тая	той	DET	DT	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+9	ж	ж	PART	UH	_	8	advmod:discourse	_	_
+10	сітуацыя	сітуацыя	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	ccomp	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

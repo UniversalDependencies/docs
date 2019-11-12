@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-21745 tokens (11%) have a non-empty value of `Person`.
+21741 tokens (11%) have a non-empty value of `Person`.
 2579 types (7%) occur at least once with a non-empty value of `Person`.
 1367 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (11386; 6% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (7941; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1589; 1% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (829; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (11384; 6% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (7938; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1589; 1% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (830; 0% instances).
 
 ### `AUX`
 
-11386 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Person`.
+11384 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11386; 100%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10611; 93%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10609; 93%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8318; 73%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11384; 100%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10609; 93%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10607; 93%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8316; 73%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (592; 5% of non-empty `Person`): <em>smo, sam, ćemo, bismo, nismo, bih, nisam, ću, nećemo, neću</em>
+* `1` (591; 5% of non-empty `Person`): <em>smo, sam, ćemo, bismo, nismo, bih, nisam, ću, nećemo, neću</em>
 * `2` (197; 2% of non-empty `Person`): <em>ćete, ste, biste, bi, niste, Jeste, nećete, si, ćeš, budite</em>
-* `3` (10597; 93% of non-empty `Person`): <em>je, su, će, bi, nije, neće, nisu, bude, jest, budu</em>
-* `EMPTY` (1155): <em>biti, bio, bilo, bila, bit, bili, bile</em>
+* `3` (10596; 93% of non-empty `Person`): <em>je, su, će, bi, nije, neće, nisu, bude, jest, budu</em>
+* `EMPTY` (1154): <em>biti, bio, bilo, bila, bit, bili, bile</em>
 
 <table>
   <tr><th>Paradigm <i>biti</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -41,15 +41,15 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `VERB`
 
-7941 <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> tokens (46% of all `VERB` tokens) have a non-empty value of `Person`.
+7938 <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> tokens (46% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7941; 100%), <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7941; 100%), <tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7941; 100%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7722; 97%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7715; 97%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4856; 61%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7938; 100%), <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7938; 100%), <tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7938; 100%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7719; 97%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7712; 97%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4853; 61%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (710; 9% of non-empty `Person`): <em>možemo, mislim, imamo, moramo, želimo, mogu, nadamo, vjerujem, nadam, znam</em>
 * `2` (479; 6% of non-empty `Person`): <em>možete, želite, kliknite, imate, morate, nemojte, koristite, nemate, očekujete, tražite</em>
-* `3` (6752; 85% of non-empty `Person`): <em>može, ima, kaže, treba, mogu, nema, mora, postoji, imaju, radi</em>
+* `3` (6749; 85% of non-empty `Person`): <em>može, ima, kaže, treba, mogu, nema, mora, postoji, imaju, radi</em>
 * `EMPTY` (9477): <em>izjavio, rekao, kazao, imati, mogli, mogla, dodao, mogao, moglo, trebala</em>
 
 <table>
@@ -71,27 +71,27 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (373; 23% of non-empty `Person`): <em>mi, nam, nas, ja, me, nama, mene, meni, mnom</em>
 * `2` (155; 10% of non-empty `Person`): <em>vam, vas, ti, vi, vama, te, tebe, tebi</em>
 * `3` (1061; 67% of non-empty `Person`): <em>ih, ga, im, mu, on, njih, ona, joj, oni, ono</em>
-* `EMPTY` (3754): <em>se, što, ništa, tko, nešto, nitko, čime, čega, sebe, sebi</em>
+* `EMPTY` (3753): <em>se, što, ništa, tko, nešto, nitko, čime, čega, sebe, sebi</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Person`.
 
 ### `DET`
 
-829 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (12% of all `DET` tokens) have a non-empty value of `Person`.
+830 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (829; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (829; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (631; 76%), <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (415; 50%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (829; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (829; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (632; 76%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (227; 27% of non-empty `Person`): <em>naše, naš, naša, našim, naših, moj, moja, našeg, naši, našu</em>
+* `1` (228; 27% of non-empty `Person`): <em>naše, naš, naša, našim, naših, moj, moja, našeg, naši, našu</em>
 * `2` (52; 6% of non-empty `Person`): <em>vaše, vašem, vaš, vaša, vašim, vašeg, tvoj, Tvoji, tvoja, tvoje</em>
 * `3` (550; 66% of non-empty `Person`): <em>njegova, njegov, njihov, njihova, njegove, njihove, njegovu, njihovu, njezina, njihovo</em>
-* `EMPTY` (6370): <em>koji, to, koje, koja, svoje, ove, toga, kojima, koju, sve</em>
+* `EMPTY` (6567): <em>koji, to, koje, koja, svoje, ove, toga, sve, kojima, koju</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (727; 66%),
+<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (725; 66%),
 <tt>AUX --[<tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (16; 80%),
 <tt>AUX --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (15; 54%),
 <tt>AUX --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (12; 67%),

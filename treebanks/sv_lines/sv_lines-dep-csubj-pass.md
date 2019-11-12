@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 csubj:pass	color:blue
-1	Det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
+1	Det	den	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
 2	kändes	kännas	VERB	PAST-PASS	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	tröstande	trösta	VERB	NDE	Mood=Ind|VerbForm=Part|Voice=Act	2	xcomp	_	_
 4	att	att	PART	_	_	5	mark	_	_

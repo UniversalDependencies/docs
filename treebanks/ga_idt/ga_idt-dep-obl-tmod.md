@@ -9,72 +9,67 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ga_idt-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="ga_idt-dep-obl-prep.html">obl:prep</a></tt>.
 
-74 nodes (0%) are attached to their parents as `obl:tmod`.
+193 nodes (0%) are attached to their parents as `obl:tmod`.
 
-58 instances of `obl:tmod` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.86486486486486.
+148 instances of `obl:tmod` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.81347150259067.
 
-The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (44; 59% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (14; 19% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (9; 12% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (117; 61% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (29; 15% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (13; 7% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (11; 6% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 9 obl:tmod	color:blue
-1	Cé	cé	PRON	Q	PronType=Int	2	nsubj	_	_
-2	atá	bí	VERB	PresInd	Mood=Ind|PronType=Rel|Tense=Pres	0	root	_	_
-3	ag	ag	ADP	Simp	_	4	case	_	_
-4	comóradh	comóradh	NOUN	Noun	VerbForm=Vnoun	2	xcomp	_	_
-5	a	a	DET	Det	Gender=Masc|Number=Sing|Person=3|Poss=Yes	6	nmod:poss	_	_
-6	lá	lá	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	obj	_	_
-7	breithe	breith	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	6	compound	_	_
-8	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
-9	tseachtain	seachtain	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Sing	2	obl:tmod	_	_
-10	seo	seo	DET	Det	PronType=Dem	9	det	_	SpaceAfter=No
-11	?	?	PUNCT	?	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 obl:tmod	color:blue
+1	Tháinig	tar	VERB	VI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
+2	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
+3	abhaile	abhaile	ADV	Dir	_	1	advmod	_	_
+4	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	oíche	oíche	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Sing	1	obl:tmod	_	_
+6	sin	sin	DET	Det	PronType=Dem	5	det	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 10 obl:tmod	color:blue
-1	Agus	agus	CCONJ	Coord	_	2	advmod	_	_
-2	ranganna	rang	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	0	root	_	_
-3	seiteanna	seit	NOUN	Noun	Case=Gen|Gender=Masc|NounType=Strong|Number=Plur	2	compound	_	_
-4	agus	agus	CCONJ	Coord	_	5	cc	_	_
-5	céilí	céile	NOUN	Noun	Case=Gen|Gender=Masc|NounType=Strong|Number=Plur	2	conj	_	_
-6	do	do	ADP	Simp	_	7	case	_	_
-7	dhaoine	duine	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Plur	2	nmod	_	_
-8	fásta	fásta	ADJ	Adj	VerbForm=Part	7	amod	_	_
-9	gach	gach	DET	Det	Definite=Def	10	det	_	_
-10	oíche	oíche	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	2	obl:tmod	_	_
-11	Dé	Dé	NOUN	Subst	Number=Sing	12	compound	_	_
-12	Luain	luain	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	10	compound	_	_
-13	ag	ag	ADP	Simp	_	14	case	_	_
-14	8.30	8.30	NUM	Num	_	2	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 obl:tmod	color:blue
+1	Agus	agus	SCONJ	Subord	_	2	mark	_	_
+2	dul	dul	NOUN	Noun	VerbForm=Inf	0	root	_	_
+3	isteach	isteach	ADV	Dir	_	2	advmod	_	_
+4	chuig	chuig	ADP	Simp	_	6	case	_	_
+5	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	obair	obair	NOUN	Noun	Gender=Fem|Number=Sing	2	nmod	_	_
+7	Dé	Dé	NOUN	Subst	Number=Sing	6	obl:tmod	_	_
+8	Sathairn	Satharn	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	7	flat	_	_
+9	chomh	chomh	ADV	Its	_	10	advmod	_	_
+10	maith	maith	ADJ	Adj	Degree=Pos	2	amod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 obl:tmod	color:blue
-1	An	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	2	det	_	_
-2	lá	lá	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
-3	a	a	PART	Vb	PartType=Vb|PronType=Rel	4	obl:tmod	_	_
-4	cuireadh	cuir	VERB	VTI	Mood=Ind|Tense=Past|Voice=Auto	2	acl:relcl	_	_
-5	Butt	Butt	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
-6	...	...	PUNCT	...	_	2	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 7 obl:tmod	color:blue
+1	Thugamar	tabhair	VERB	VTI	_	0	root	_	_
+2	aghaidh	aghaidh	NOUN	Noun	_	1	obj	_	_
+3	ar	ar	ADP	Simp	_	5	case	_	_
+4	an	an	DET	Art	PronType=Art	5	det	_	_
+5	mbialann	bialann	NOUN	Noun	_	1	obl	_	_
+6	ag	ag	ADP	Simp	_	7	case	_	_
+7	3.00	3.00	NUM	Num	_	1	obl:tmod	_	_
+8	pm	pm	X	Abr	Abbr=Yes	7	flat	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

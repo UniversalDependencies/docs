@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="kpv_ikdp-pos-AUX.ht
 
 22 <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (18; 82%), <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17; 77%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17; 77%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17; 77%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (17; 77%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17; 77%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>невозможнэ, никучем, ничего</em>
-* `EMPTY` (96): <em>сэн, нин, вӧдзӧ, зэй, пока, только, бӧрӧ, гашке, эні, ӧні</em>
+* `EMPTY` (95): <em>сэн, нин, вӧдзӧ, зэй, пока, только, бӧрӧ, эні, ӧні, Сэсся</em>
 
 ### `PART`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>не</em>
-* `EMPTY` (62): <em>да, и, вот, значит, же, Ну, выйым, но, то, тоже</em>
+* `EMPTY` (63): <em>да, и, вот, значит, же, Ну, выйым, гашке, но, то</em>
 
 ### `PRON`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>никодэс, нинӧм</em>
-* `EMPTY` (93): <em>сыа, ме, миян, сы, сія, ми, быд, менам, мыйке, сійӧ</em>
+* `EMPTY` (91): <em>сыа, ме, миян, сы, сія, ми, быд, менам, сійӧ, ачыс</em>
 
 ## Relations with Agreement in `Polarity`
 

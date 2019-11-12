@@ -12,7 +12,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 2745 tokens (51%) have a non-empty value of `Number`.
 1943 types (84%) occur at least once with a non-empty value of `Number`.
 1249 lemmas (78%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (1102; 21% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (542; 10% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (392; 7% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (300; 6% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (210; 4% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (102; 2% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (91; 2% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt> (6; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (1102; 21% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (538; 10% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (392; 7% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (300; 6% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (208; 4% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (106; 2% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (93; 2% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt> (6; 0% instances).
 
 ### `NOUN`
 
@@ -36,15 +36,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-542 <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Number`.
+538 <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (500; 92%), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (482; 89%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (457; 84%), <tt><a href="lt_hse-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (397; 73%), <tt><a href="lt_hse-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (396; 73%), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (387; 71%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (385; 71%), <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (354; 65%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt> (316; 58%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (496; 92%), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (478; 89%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (453; 84%), <tt><a href="lt_hse-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (393; 73%), <tt><a href="lt_hse-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (392; 73%), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (383; 71%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (381; 71%), <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (350; 65%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt> (313; 58%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (165; 30% of non-empty `Number`): <em>vadinami, gali, turi, analizuoja, draudžiame, girdėję, gyvename, pastebimi, žinome, Grįžkime</em>
-* `Sing` (377; 70% of non-empty `Number`): <em>gali, negali, sako, žino, bando, dera, dūstu, kalba, nėra, reikia</em>
-* `EMPTY` (169): <em>žinoma, būti, galima, mylėti, turėti, vadinti, atsirasti, bandoma, diskriminuoti, gaminti</em>
+* `Plur` (164; 30% of non-empty `Number`): <em>vadinami, gali, turi, analizuoja, draudžiame, girdėję, gyvename, pastebimi, žinome, Grįžkime</em>
+* `Sing` (374; 70% of non-empty `Number`): <em>gali, negali, sako, žino, bando, dera, dūstu, kalba, nėra, reikia</em>
+* `EMPTY` (170): <em>žinoma, būti, galima, mylėti, turėti, vadinti, atsirasti, bandoma, diskriminuoti, gaminti</em>
 
 <table>
   <tr><th>Paradigm <i>galėti</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -98,14 +98,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `PRON`
 
-210 <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Number`.
+208 <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (106; 50%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (105; 50%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (88; 42% of non-empty `Number`): <em>juos, jų, jie, mes, mus, mums, kurie, jiems, jus, kuriuos</em>
-* `Sing` (122; 58% of non-empty `Number`): <em>jis, ji, to, kuris, jo, man, ją, nieko, aš, jį</em>
+* `Sing` (120; 58% of non-empty `Number`): <em>jis, ji, to, kuris, jo, man, ją, nieko, aš, jį</em>
 * `EMPTY` (46): <em>tai, kas, ką, save, kuo, sau, savęs, tuo, ko, niekam</em>
 
 <table>
@@ -123,14 +123,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-102 <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Number`.
+106 <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (102; 100%), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (102; 100%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (101; 99%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt> (95; 93%), <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (88; 86%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (80; 78%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (106; 100%), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (106; 100%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (105; 99%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt> (98; 92%), <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (92; 87%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (84; 79%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (16; 16% of non-empty `Number`): <em>buvo, yra, Esame, būsime, būtų, nesame</em>
-* `Sing` (86; 84% of non-empty `Number`): <em>yra, buvo, nėra, būtų, nebūtų, būna, nebuvo, esu, bus, esąs</em>
+* `Plur` (17; 16% of non-empty `Number`): <em>buvo, yra, Esame, būsime, būtų, nesame</em>
+* `Sing` (89; 84% of non-empty `Number`): <em>yra, buvo, nėra, būtų, nebūtų, būna, esu, nebuvo, bus, esąs</em>
 * `EMPTY` (6): <em>būti, Esama, esą</em>
 
 <table>
@@ -153,14 +153,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `DET`
 
-91 <tt><a href="lt_hse-pos-DET.html">DET</a></tt> tokens (55% of all `DET` tokens) have a non-empty value of `Number`.
+93 <tt><a href="lt_hse-pos-DET.html">DET</a></tt> tokens (56% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (50; 55%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (51; 55%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (33; 36% of non-empty `Number`): <em>jokių, tie, tų, kokias, tokias, Tokios, Tos, jų, kitokių, kokie</em>
-* `Sing` (58; 64% of non-empty `Number`): <em>tą, kokia, tas, tokia, to, tokią, viso, kiekvienas, tokiai, tokios</em>
+* `Plur` (33; 35% of non-empty `Number`): <em>jokių, tie, tų, kokias, tokias, Tokios, Tos, jų, kitokių, kokie</em>
+* `Sing` (60; 65% of non-empty `Number`): <em>tą, kokia, tas, tokia, to, tokią, viso, kiekvienas, pats, tokiai</em>
 * `EMPTY` (73): <em>mūsų, savo, jo, jų, jos, mano, tavo, šių, tam, tuo</em>
 
 <table>
@@ -200,7 +200,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="lt_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (221; 87%),
 <tt>NOUN --[<tt><a href="lt_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (113; 86%),
 <tt>VERB --[<tt><a href="lt_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (113; 79%),
-<tt>NOUN --[<tt><a href="lt_hse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (111; 57%),
+<tt>NOUN --[<tt><a href="lt_hse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (112; 57%),
 <tt>VERB --[<tt><a href="lt_hse-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (61; 79%),
 <tt>VERB --[<tt><a href="lt_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (60; 76%),
 <tt>NOUN --[<tt><a href="lt_hse-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (59; 64%),

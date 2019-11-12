@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 ccomp	color:blue
 1	Gitmenizi	git	VERB	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=2|VerbForm=Vnoun	2	ccomp	_	_
-2	bekliyor	bekle	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+2	bekliyor	bekle	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -39,11 +39,11 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 2	adam	adam	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 3	tarih	tarih	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
 4	hocası	hoca	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	ccomp	_	_
-5	ymış	i	AUX	_	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	_
+5	ymış	i	AUX	_	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
 6	marih	tarih	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
 7	hocası	hoca	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	compound:redup	_	_
-8	ymış	i	AUX	_	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
-9	anlamam	anla	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=1|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+8	ymış	i	AUX	_	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+9	anlamam	anla	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
@@ -59,7 +59,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 2	evli	evli	ADJ	_	_	5	ccomp	_	_
 3	olduğunu	ol	AUX	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	2	cop	_	_
 4	sonradan	sonradan	ADV	_	_	5	advmod	_	_
-5	öğrendim	öğren	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	SpaceAfter=No
+5	öğrendim	öğren	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

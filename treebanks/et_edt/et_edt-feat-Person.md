@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-48217 tokens (11%) have a non-empty value of `Person`.
-5876 types (7%) occur at least once with a non-empty value of `Person`.
-1822 lemmas (4%) occur at least once with a non-empty value of `Person`.
-The feature is used with 6 part-of-speech tags: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (25086; 6% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (14188; 3% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (8940; 2% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+48648 tokens (11%) have a non-empty value of `Person`.
+5889 types (7%) occur at least once with a non-empty value of `Person`.
+1823 lemmas (4%) occur at least once with a non-empty value of `Person`.
+The feature is used with 6 part-of-speech tags: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (25280; 6% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (14339; 3% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (9026; 2% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-25086 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Person`.
+25280 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (25086; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (25085; 100%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24301; 97%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19397; 77%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13935; 56%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (25280; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (25279; 100%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24492; 97%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19515; 77%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (14077; 56%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (2830; 11% of non-empty `Person`): <em>arvan, sain, mõtlesin, tean, ütlesin, nägin, tegin, mäletan, vaatan, läksin</em>
-* `2` (1114; 4% of non-empty `Person`): <em>vaata, tule, tahad, mine, tead, lähed, kuule, saad, näe, pane</em>
-* `3` (21142; 84% of non-empty `Person`): <em>on, tuleb, ütles, sai, tuli, jääb, saab, läks, jäi, ütleb</em>
-* `EMPTY` (22588): <em>teha, saada, saanud, teada, võtta, näha, pole, öelda, jäänud, kasutada</em>
+* `1` (2850; 11% of non-empty `Person`): <em>arvan, sain, mõtlesin, tean, ütlesin, nägin, tegin, mäletan, vaatan, läksin</em>
+* `2` (1123; 4% of non-empty `Person`): <em>vaata, tule, tahad, mine, tead, lähed, kuule, saad, näe, pane</em>
+* `3` (21307; 84% of non-empty `Person`): <em>on, tuleb, ütles, sai, tuli, saab, jääb, läks, ütleb, jäi</em>
+* `EMPTY` (22815): <em>teha, saada, saanud, teada, võtta, näha, pole, öelda, minna, jäänud</em>
 
 <table>
   <tr><th>Paradigm <i>saama</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -41,16 +41,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-14188 <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> tokens (65% of all `AUX` tokens) have a non-empty value of `Person`.
+14339 <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> tokens (65% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14188; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (14188; 100%), <tt><a href="et_edt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (14151; 100%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13914; 98%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11228; 79%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (11153; 79%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14339; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (14339; 100%), <tt><a href="et_edt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (14302; 100%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14062; 98%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11341; 79%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (11292; 79%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (671; 5% of non-empty `Person`): <em>olen, oleme, olin, pean, peame, olime, võime, saame, peaksime, oleksin</em>
-* `2` (259; 2% of non-empty `Person`): <em>oled, olete, olid, ära, võid, ole, pead, ärge, võite, peate</em>
-* `3` (13258; 93% of non-empty `Person`): <em>on, oli, võib, olid, saab, peab, võivad, ongi, pidi, võis</em>
-* `EMPTY` (7799): <em>ei, pole, ole, oleks, olnud, olla, peaks, saa, olema, polnud</em>
+* `1` (683; 5% of non-empty `Person`): <em>olen, oleme, olin, pean, peame, olime, võime, saame, peaksime, oleksin</em>
+* `2` (263; 2% of non-empty `Person`): <em>oled, olete, olid, ära, võid, ole, pead, ärge, võite, peate</em>
+* `3` (13393; 93% of non-empty `Person`): <em>on, oli, võib, olid, saab, peab, võivad, ongi, pidi, võis</em>
+* `EMPTY` (7876): <em>ei, pole, ole, oleks, olnud, olla, peaks, saa, olema, võiks</em>
 
 <table>
   <tr><th>Paradigm <i>olema</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -66,16 +66,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-8940 <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> tokens (39% of all `PRON` tokens) have a non-empty value of `Person`.
+9026 <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> tokens (39% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8940; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6232; 70%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4696; 53%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9026; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6262; 69%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4732; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (3241; 36% of non-empty `Person`): <em>ma, meie, me, minu, mul, mind, mina, meil, mulle, mu</em>
-* `2` (821; 9% of non-empty `Person`): <em>sa, te, teie, sinu, sul, sulle, sind, sina, su, teid</em>
-* `3` (4878; 55% of non-empty `Person`): <em>ta, tema, nad, nende, talle, tal, teda, neid, neil, neile</em>
-* `EMPTY` (13841): <em>see, mis, oma, kes, seda, mida, selle, midagi, mille, nende</em>
+* `1` (3277; 36% of non-empty `Person`): <em>ma, meie, me, minu, mul, meil, mind, mina, mulle, mu</em>
+* `2` (826; 9% of non-empty `Person`): <em>sa, te, teie, sinu, sul, sulle, sind, sina, su, teid</em>
+* `3` (4923; 55% of non-empty `Person`): <em>ta, tema, nad, nende, talle, tal, teda, neid, neil, neile</em>
+* `EMPTY` (13991): <em>see, oma, mis, kes, seda, mida, selle, midagi, mille, nende</em>
 
 ### `DET`
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 `DET` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>nende</em>
-* `EMPTY` (6804): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, ühe</em>
+* `EMPTY` (6895): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, ühe</em>
 
 ### `NOUN`
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 `NOUN` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>Kõneleja</em>
-* `EMPTY` (114702): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `EMPTY` (115603): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 ### `PROPN`
 
@@ -108,12 +108,12 @@ The most frequent other feature values with which `PROPN` and `Person` co-occurr
 `PROPN` tokens may have the following values of `Person`:
 
 * `1` (1; 100% of non-empty `Person`): <em>Meie</em>
-* `EMPTY` (26402): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
+* `EMPTY` (26564): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2549; 61%),
+<tt>VERB --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2565; 61%),
 <tt>PRON --[<tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt>]--> PRON</tt> (2; 67%),
 <tt>PRON --[<tt><a href="et_edt-dep-csubj.html">csubj</a></tt>]--> PRON</tt> (1; 100%),
 <tt>VERB --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).

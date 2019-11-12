@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="de_pud-pos-ADJ.html
 
 ### `ADJ`
 
-1385 <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
+1385 <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1181; 85%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (801; 58%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (31; 2% of non-empty `Degree`): <em>afrikanischer, besser, beunruhigender, größer, größere, höher, höherer, kürzer, lieber, nützlicher</em>
 * `Pos` (1322; 95% of non-empty `Degree`): <em>ersten, neue, letzten, bekannt, möglich, neuen, groß, große, politischen, Vereinigten</em>
 * `Sup` (32; 2% of non-empty `Degree`): <em>besten, größten, schlimmsten, höchsten, Oberste, Obersten, bekannteste, beknackteste, erfoglreichste, erfolgreichste</em>
-* `EMPTY` (1): <em>45.</em>
+* `EMPTY` (14): <em>1., 30., 10., 11., 12., 19., 21., 27., 4., 45.</em>
 
 <table>
   <tr><th>Paradigm <i>groß</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

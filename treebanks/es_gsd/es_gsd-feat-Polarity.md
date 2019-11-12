@@ -43,7 +43,7 @@ The most frequent other feature values with which `PROPN` and `Polarity` co-occu
 `PROPN` tokens may have the following values of `Polarity`:
 
 * `Neg` (8; 100% of non-empty `Polarity`): <em>no, not, nunca</em>
-* `EMPTY` (39488): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
+* `EMPTY` (39487): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
 
 ### `X`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>gran</em>
-* `EMPTY` (24894): <em>gran, primera, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
+* `EMPTY` (24895): <em>gran, primera, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
 
 ### `ADP`
 

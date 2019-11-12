@@ -7,77 +7,71 @@ udver: '2'
 ## Treebank Statistics: UD_Armenian-ArmTDP: Features: `Animacy`
 
 This feature is universal but the values `Hum` are language-specific.
-It occurs with 3 different values: `Hum`, `Inan`, `Nhum`.
+It occurs with 2 different values: `Hum`, `Nhum`.
 
-10646 tokens (29%) have a non-empty value of `Animacy`.
-6099 types (59%) occur at least once with a non-empty value of `Animacy`.
-3084 lemmas (54%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (9330; 26% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1314; 4% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+15130 tokens (29%) have a non-empty value of `Animacy`.
+7941 types (60%) occur at least once with a non-empty value of `Animacy`.
+3813 lemmas (54%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (13328; 25% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1802; 3% instances).
 
 ### `NOUN`
 
-9330 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+13328 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7130; 76%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (6327; 68%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10136; 76%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (9085; 68%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Hum` (1402; 15% of non-empty `Animacy`): <em>մարդկանց, կինը, կնոջ, հայոց, մարդիկ, հայրերի, մարդ, մայր, մարդու, աստված</em>
-* `Inan` (2; 0% of non-empty `Animacy`): <em>լարումից, պահի</em>
-* `Nhum` (7926; 85% of non-empty `Animacy`): <em>անգամ, բան, հանրապետության, տարի, դեպքում, տեղի, ժամանակ, օրը, ծրագրի, տարվա</em>
+* `Hum` (2027; 15% of non-empty `Animacy`): <em>նախագահի, մարդկանց, մարդիկ, մարդ, հայոց, կինը, կնոջ, աստված, վարչապետի, տեր</em>
+* `Nhum` (11301; 85% of non-empty `Animacy`): <em>հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, օրը, ծրագրի, թ</em>
+* `EMPTY` (1): <em>Աստծուս</em>
 
 <table>
-  <tr><th>Paradigm <i>պահ</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>պահից</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>պահին</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>պահերին</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>պահի</em></td><td><em>պահի</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>պահ</em></td><td></td></tr>
+  <tr><th>Paradigm <i>մարմին</i></th><th><tt>Nhum</tt></th><th><tt>Hum</tt></th></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>մարմնից</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>մարմնին</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>մարմիններին</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>մարմնի</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>մարմինների</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>մարմնով</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>մարմնում</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>մարմինը</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>մարմինները</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>մարմին</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (2626) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (3228) occur only with one value of `Animacy`.
 
 ### `PROPN`
 
-1314 <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+1802 <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1306; 99%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (937; 71%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (783; 60%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1794; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1326; 74%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1039; 58%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Hum` (747; 57% of non-empty `Animacy`): <em>Սիմեոնը, Կարեն, Սարգսյանի, Կարապետյանը, Սերժ, Հարութը, Նիկոլ, Վիգեն, Սարգսյանը, Արմեն</em>
-* `Nhum` (567; 43% of non-empty `Animacy`): <em>Հայաստանի, Հայաստանում, Իրանի, ՀՀ, Ադրբեջանի, Հայաստան, Իրանը, Կաթողիկեի, Էջմիածնի, Երևանի</em>
-* `EMPTY` (1): <em>24</em>
+* `Hum` (1005; 56% of non-empty `Animacy`): <em>Լևոն, Սիմեոնը, Կարեն, Արմինուսը, Սարգսյանի, Կարապետյանը, Սերժ, Լուկրեցիան, Հարութը, Նիկոլ</em>
+* `Nhum` (797; 44% of non-empty `Animacy`): <em>Հայաստանի, ՀՀ, Հայաստանում, Իրանի, Ադրբեջանի, Հայաստան, Իրանը, Կաթողիկեի, Էջմիածնի, Հայաստանը</em>
+* `EMPTY` (2): <em>24, Վրեմյա</em>
 
 <table>
   <tr><th>Paradigm <i>Չիբուխչյան</i></th><th><tt>Nhum</tt></th><th><tt>Hum</tt></th></tr>
   <tr><td><tt></tt></td><td><em>Չիբուխչյանն</em></td><td><em>Չիբուխչյանը</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (445) occur only with one value of `Animacy`.
-
-### `PRON`
-
-2 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Animacy`.
-
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=Dist</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (2; 100%).
-
-`PRON` tokens may have the following values of `Animacy`:
-
-* `Nhum` (2; 100% of non-empty `Animacy`): <em>դրան</em>
-* `EMPTY` (1380): <em>նա, մենք, ես, դա, ինչ, այն, նրանք, ինձ, որը, նրան</em>
+`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (565) occur only with one value of `Animacy`.
 
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1460; 80%),
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (755; 94%),
-<tt>PROPN --[<tt><a href="hy_armtdp-dep-flat.html">flat</a></tt>]--> PROPN</tt> (220; 100%),
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (189; 65%),
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-npmod.html">nmod:npmod</a></tt>]--> NOUN</tt> (177; 88%),
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (140; 85%),
-<tt>PROPN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (100; 96%),
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (87; 84%),
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (83; 66%),
-<tt>PROPN --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> PROPN</tt> (81; 100%).
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (2183; 80%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1063; 94%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (312; 69%),
+<tt>PROPN --[<tt><a href="hy_armtdp-dep-flat.html">flat</a></tt>]--> PROPN</tt> (265; 100%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-npmod.html">nmod:npmod</a></tt>]--> NOUN</tt> (263; 86%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (199; 87%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (133; 87%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (129; 63%),
+<tt>PROPN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (120; 97%),
+<tt>PROPN --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> PROPN</tt> (99; 99%).
 

@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt>, <tt><a href="hy_armtdp-feat-Person-psor.html">Person[psor]</a></tt>.
 
-4952 tokens (14%) have a non-empty value of `Person`.
-909 types (9%) occur at least once with a non-empty value of `Person`.
-379 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (2466; 7% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1328; 4% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (693; 2% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (465; 1% instances).
+7096 tokens (13%) have a non-empty value of `Person`.
+1229 types (9%) occur at least once with a non-empty value of `Person`.
+491 lemmas (7%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (3607; 7% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1925; 4% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (936; 2% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (628; 1% instances).
 
 ### `AUX`
 
-2466 <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Person`.
+3607 <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> tokens (97% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2466; 100%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2447; 99%), <tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2444; 99%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2168; 88%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1843; 75%), <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1752; 71%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3607; 100%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3585; 99%), <tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3582; 99%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3184; 88%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2720; 75%), <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2609; 72%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (298; 12% of non-empty `Person`): <em>եմ, էինք, էի, չեմ, չէինք, չենք, չէի, կլինեի, կլինենք</em>
-* `2` (66; 3% of non-empty `Person`): <em>ես, եք, չես, էիր, չեք, չէիր</em>
-* `3` (2102; 85% of non-empty `Person`): <em>է, էր, են, էին, չի, չէր, ենք, չեն, չէ, չէին</em>
-* `EMPTY` (30): <em>եղել, լինելու, լինում</em>
+* `1` (413; 11% of non-empty `Person`): <em>եմ, էինք, էի, չեմ, չենք, չէի, չէինք, կլինենք, կլինեի, ունեի</em>
+* `2` (122; 3% of non-empty `Person`): <em>ես, եք, չես, էիր, չեք, չէիր</em>
+* `3` (3072; 85% of non-empty `Person`): <em>է, էր, են, էին, չի, ենք, չէր, չեն, չէ, ա</em>
+* `EMPTY` (110): <em>պետք, պիտի, եղել, լինելու, լինում, չպիտի, տալիս</em>
 
 <table>
   <tr><th>Paradigm <i>եմ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -44,48 +44,51 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `VERB`
 
-1328 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Person`.
+1925 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1328; 100%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1113; 84%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (951; 72%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (873; 66%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (720; 54%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (709; 53%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1925; 100%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1548; 80%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1439; 75%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1157; 60%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (1063; 55%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1053; 55%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (231; 17% of non-empty `Person`): <em>տեսանք, գիտեմ, գիտեինք, ունենք, չգիտեինք, ասացի, ասեմ, մտանք, նշենք, ասենք</em>
-* `2` (84; 6% of non-empty `Person`): <em>չգիտես, տուր, արի, գիտեք, հիշեք, նայիր, չունես, տարեք, քոռանաս, Ասա</em>
-* `3` (1013; 76% of non-empty `Person`): <em>չկա, կա, ասաց, ունի, լինի, կան, նշեց, կար, ունեցավ, չունի</em>
-* `EMPTY` (3313): <em>ուզում, գալիս, տալիս, ասում, տեսնում, նայում, գնում, եղել, անում, նշված</em>
+* `1` (314; 16% of non-empty `Person`): <em>ասացի, գիտեմ, տեսանք, ունենք, գիտեինք, չգիտեինք, չունենք, ասեմ, հիշենք, մտանք</em>
+* `2` (242; 13% of non-empty `Person`): <em>արի, չգիտես, տուր, գնա, նայիր, փակիր, չունես, ասա, գիտես, լսի</em>
+* `3` (1369; 71% of non-empty `Person`): <em>չկա, ասաց, կա, լինի, ունի, չունի, կան, կար, նշեց, եկավ</em>
+* `EMPTY` (4824): <em>ուզում, ասում, գալիս, տալիս, անում, նշված, գնում, նայում, տեսնում, սպասում</em>
 
 <table>
-  <tr><th>Paradigm <i>ունենալ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td></td><td><em>չունեիր</em></td><td><em>չուներ</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>չունեմ</em></td><td><em>չունես</em></td><td><em>չունի</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>ունեի</em></td><td></td><td><em>ուներ</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ունեմ</em></td><td></td><td><em>ունի</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td></td><td></td><td><em>չունեին</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>չունեն</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>ունեինք</em></td><td></td><td><em>ունեին</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ունենք</em></td><td></td><td><em>ունեն</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>չունեցավ</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>ունեցավ</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>կունենա</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>կունենանք</em></td><td></td><td><em>կունենան</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ունենա</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ունենանք</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>չունենք</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>լինել</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Dur</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>եղանք</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>չեղավ</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>էղավ</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>եղավ</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>եղան</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>կլիներ</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>կլինեմ</em></td><td></td><td><em>կլինի</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>կլինեն</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td><em>եղեք</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>չլիներ</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>չլինի</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>լիներ</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>լինի</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>չլինեինք</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>չլինեն</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>լինեինք</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>լինենք</em></td><td></td><td><em>լինեն</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>լինեին</em></td></tr>
 </table>
 
 ### `PRON`
 
-693 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (50% of all `PRON` tokens) have a non-empty value of `Person`.
+936 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (48% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (693; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (643; 93%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (591; 85%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (419; 60%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (401; 58%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (936; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (865; 92%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (780; 83%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (605; 65%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (533; 57%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (266; 38% of non-empty `Person`): <em>մենք, ես, ինձ, մեզ, մեր, իմ, ինձանից, իմն, մեզանից, մեզնից</em>
-* `2` (50; 7% of non-empty `Person`): <em>դու, քեզ, ձեզ, դուք, քո, Ձեր, Քոնը, քոնից, քոնոնք</em>
-* `3` (377; 54% of non-empty `Person`): <em>նա, նրանք, նրան, նրանց, իրեն, ինքը, իրենց, իր, նրանցից, նրա</em>
-* `EMPTY` (689): <em>դա, ինչ, այն, որը, որոնք, մեկը, ով, ոչինչ, բոլորը, դրա</em>
+* `1` (358; 38% of non-empty `Person`): <em>ես, մենք, ինձ, մեզ, մեր, իմ, ինձանից, մերը, իմն, մեզանից</em>
+* `2` (89; 10% of non-empty `Person`): <em>քեզ, դու, ձեզ, դուք, քո, Ձեր, Քոնը, ձեզանից, ձեզնից, քեզնից</em>
+* `3` (489; 52% of non-empty `Person`): <em>նա, նրանք, նրան, նրանց, իրեն, ինքը, իր, նրա, իրենց, ինքն</em>
+* `EMPTY` (1005): <em>ինչ, դա, այն, որը, որոնք, ով, մեկը, սա, ոչինչ, դրա</em>
 
 <table>
   <tr><th>Paradigm <i>մենք</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -97,29 +100,31 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Assoc</tt></tt></td><td></td><td><em>մերոնք</em></td></tr>
 </table>
 
+`Person` seems to be **lexical feature** of `PRON`. 93% lemmas (13) occur only with one value of `Person`.
+
 ### `DET`
 
-465 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (32% of all `DET` tokens) have a non-empty value of `Person`.
+628 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (32% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (465; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (464; 100%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (464; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (297; 64%), <tt><a href="hy_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (297; 64%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (250; 54%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (628; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (627; 100%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (627; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (388; 62%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (359; 57%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (169; 36% of non-empty `Person`): <em>մեր, իմ</em>
-* `2` (28; 6% of non-empty `Person`): <em>քո, ձեր, Ձեզնից, քու</em>
-* `3` (268; 58% of non-empty `Person`): <em>իր, նրա, իրենց, նրանց</em>
-* `EMPTY` (980): <em>այդ, մի, այս, այն, ամեն, ինչ, բոլոր, այլ, մյուս, նույն</em>
+* `1` (208; 33% of non-empty `Person`): <em>մեր, իմ</em>
+* `2` (47; 7% of non-empty `Person`): <em>քո, ձեր, Ձեզնից, քու</em>
+* `3` (373; 59% of non-empty `Person`): <em>իր, նրա, իրենց, նրանց, յուր</em>
+* `EMPTY` (1305): <em>մի, այդ, այս, այն, ինչ, ամեն, բոլոր, այլ, մյուս, էս</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (229; 57%),
-<tt>VERB --[<tt><a href="hy_armtdp-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (8; 100%),
-<tt>PRON --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 80%),
+<tt>VERB --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (392; 61%),
+<tt>VERB --[<tt><a href="hy_armtdp-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (13; 100%),
+<tt>PRON --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> PRON</tt> (5; 71%),
+<tt>PRON --[<tt><a href="hy_armtdp-dep-flat.html">flat</a></tt>]--> PRON</tt> (2; 100%),
 <tt>DET --[<tt><a href="hy_armtdp-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>DET --[<tt><a href="hy_armtdp-dep-appos.html">appos</a></tt>]--> DET</tt> (1; 100%),
 <tt>PRON --[<tt><a href="hy_armtdp-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>PRON --[<tt><a href="hy_armtdp-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (1; 100%),
-<tt>VERB --[<tt><a href="hy_armtdp-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="hy_armtdp-dep-flat.html">flat</a></tt>]--> DET</tt> (1; 100%),
 <tt>VERB --[<tt><a href="hy_armtdp-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
 

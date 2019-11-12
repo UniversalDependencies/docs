@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 3	ܙܵܪܸܥ	ܙܵܪܸܥ	VERB	_	Gender=Masc|Number=Sing|Person=3	1	acl:relcl	_	_
 4	ܜܵܒ̣ܬܐ	ܜܵܒ̣ܬܐ	NOUN	_	Gender=Fem	3	obj	_	_
 5	:	:	PUNCT	_	_	7	punct	_	_
-6	ܒ	ܒ	PART	_	_	7	aux	_	_
+6	ܒ	ܒ	AUX	_	_	7	aux	_	_
 7	ܚܵܨܸܕ	ܚܵܨܸܕ	VERB	_	Gender=Masc|Number=Sing|Person=3	0	root	_	_
 8	ܫܠܵܡܵܐ	ܫܠܵܡܵܐ	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
 9	.	.	PUNCT	_	_	7	punct	_	_

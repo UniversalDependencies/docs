@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2691 nodes (11%) are attached to their parents as `case`.
+2684 nodes (11%) are attached to their parents as `case`.
 
-2691 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.67149758454106.
+2684 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.67064083457526.
 
-The following 10 pairs of parts of speech are connected with `case`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (1788; 66% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (727; 27% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (62; 2% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (59; 2% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (25; 1% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `case`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (1781; 66% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (727; 27% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (62; 2% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (59; 2% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (25; 1% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 6	en	en	ADP	_	_	7	case	_	_
 7	France	France	PROPN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
 8	ou	ou	CCONJ	_	_	9	cc	_	_
-9	à	à_l'étranger	ADP	_	_	7	conj	_	MWEPOS=ADV
+9	à	à_l'étranger	ADP	_	_	7	conj	_	EXTPOS=ADV
 10	l'	_	DET	_	_	9	fixed	_	SpaceAfter=No
 11	étranger	_	NOUN	_	_	9	fixed	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
@@ -67,9 +67,9 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 1	À	à	ADP	_	_	2	case	_	_
 2	qui	qui	PRON	_	PronType=Int	7	obl:arg	_	_
 3	Shostakovitch	Shostakovitch	PROPN	_	_	7	nsubj	_	_
-4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	SpaceAfter=No
-5	-t	t	PART	_	_	6	expl	_	SpaceAfter=No
-6	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	7	expl	_	_
+4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	SpaceAfter=No
+5	-t	t	PART	_	_	6	dep	_	SpaceAfter=No
+6	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	7	expl:subj	_	_
 7	dédié	dédier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	son	son	DET	_	Number=Sing|Poss=Yes	9	det	_	_
 9	quatuor	quatuor	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_

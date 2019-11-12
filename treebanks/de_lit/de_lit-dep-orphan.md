@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-51 nodes (0%) are attached to their parents as `orphan`.
+61 nodes (0%) are attached to their parents as `orphan`.
 
-43 instances of `orphan` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.07843137254902.
+45 instances of `orphan` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.83606557377049.
 
-The following 15 pairs of parts of speech are connected with `orphan`: <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (21; 41% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (5; 10% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (4; 8% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (4; 8% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-PART.html">PART</a></tt> (2; 4% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 21 pairs of parts of speech are connected with `orphan`: <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (21; 34% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (5; 8% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (3; 5% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> (3; 5% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -59,25 +59,41 @@ The following 15 pairs of parts of speech are connected with `orphan`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 12 orphan	color:blue
-1	Der	der	DET	ART	_	2	det	_	_
-2	Dichter	Dichter	NOUN	NN	_	13	nsubj	_	_
-3	kann	können	VERB	VMFIN	_	13	aux	_	_
-4	wenig	wenig	ADV	ADV	_	13	advmod	_	_
-5	vom	von	ADP	APPRART	_	6	case	_	_
-6	Philosophen	Philosoph	NOUN	NN	_	13	obl	_	SpaceAfter=No
-7	,	--	PUNCT	$,	_	13	punct	_	_
-8	dieser	dieser	PRON	PDS	_	13	conj	_	_
-9	aber	aber	ADV	ADV	_	8	orphan	_	_
-10	viel	viel	PRON	PIS	_	8	orphan	_	_
-11	von	von	ADP	APPR	_	12	case	_	_
-12	ihm	ihm	PRON	PPER	_	8	orphan	_	_
-13	lernen	lernen	VERB	VVINF	_	0	root	_	SpaceAfter=No
-14	.	--	PUNCT	$.	_	13	punct	_	_
+# visual-style 29	bgColor:blue
+# visual-style 29	fgColor:white
+# visual-style 26	bgColor:blue
+# visual-style 26	fgColor:white
+# visual-style 26 29 orphan	color:blue
+1	Sollte	sollen	AUX	VMFIN	_	8	aux	_	_
+2	dies	dieser	PRON	PDS	_	8	nsubj	_	_
+3	nicht	nicht	PART	PTKNEG	_	8	advmod	_	_
+4	auch	auch	ADV	ADV	_	6	advmod	_	_
+5	bei	bei	ADP	APPR	_	6	case	_	_
+6	Malern	Maler	NOUN	NN	_	8	nmod	_	_
+7	der	der	DET	ART	_	8	det	_	_
+8	Fall	Fall	NOUN	NN	_	0	root	_	_
+9	sein	sein	AUX	VAINF	_	8	cop	_	SpaceAfter=No
+10	;	--	PUNCT	$.	_	11	punct	_	_
+11	malt	malen	VERB	VVFIN	_	8	parataxis	_	_
+12	nicht	nicht	PART	PTKNEG	_	11	advmod	_	_
+13	Michelangelo	Michelangelo	PROPN	NE	_	11	nsubj	_	_
+14	in	in	ADP	APPR	_	16	case	_	_
+15	gewissem	gewiß	ADJ	ADJA	_	16	amod	_	_
+16	Sinn	Sinn	NOUN	NN	_	11	obl	_	_
+17	wie	wie	CCONJ	KOKOM	_	19	case	_	_
+18	ein	ein	DET	ART	_	19	det	_	_
+19	Bildhauer	Bildhauer	NOUN	NN	_	11	obl	_	SpaceAfter=No
+20	,	--	PUNCT	$,	_	21	punct	_	_
+21	Raffael	Raffael	PROPN	NE	_	11	conj	_	_
+22	wie	wie	CCONJ	KOKOM	_	24	case	_	_
+23	ein	ein	DET	ART	_	24	det	_	_
+24	Architekt	Architekt	NOUN	NN	_	21	orphan	_	SpaceAfter=No
+25	,	--	PUNCT	$,	_	26	punct	_	_
+26	Correggio	Correggio	PROPN	NE	_	11	conj	_	_
+27	wie	wie	CCONJ	KOKOM	_	29	case	_	_
+28	ein	ein	DET	ART	_	29	det	_	_
+29	Musiker	Musiker	NOUN	NN	_	26	orphan	_	SpaceAfter=No
+30	?	--	PUNCT	$.	_	8	punct	_	_
 
 ~~~
 

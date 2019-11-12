@@ -10,10 +10,10 @@ This relation is a language-specific subtype of <tt><a href="de_lit-dep-aux.html
 
 166 nodes (0%) are attached to their parents as `aux:pass`.
 
-123 instances of `aux:pass` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.84939759036145.
+124 instances of `aux:pass` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.50602409638554.
 
-The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (153; 92% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (6; 4% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (2; 1% instances).
+The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (159; 96% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -81,7 +81,7 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 10	würden	werden	AUX	VAFIN	_	9	aux:pass	_	SpaceAfter=No
 11	,	--	PUNCT	$,	_	9	punct	_	_
 12	erhalten	erhalten	VERB	VVFIN	_	0	root	_	_
-13	dadurch	dadurch	X	PROAV	_	12	advmod	_	_
+13	dadurch	dadurch	ADV	PROAV	_	12	advmod	_	_
 14	ein	ein	DET	ART	_	16	det	_	_
 15	großes	groß	ADJ	ADJA	_	16	amod	_	_
 16	Interesse	Interesse	NOUN	NN	_	12	obj	_	SpaceAfter=No

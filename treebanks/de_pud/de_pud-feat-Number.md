@@ -14,18 +14,18 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 12545 tokens (59%) have a non-empty value of `Number`.
 5314 types (82%) occur at least once with a non-empty value of `Number`.
 4398 lemmas (82%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4257; 20% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2841; 13% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1219; 6% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1181; 6% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1152; 5% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1084; 5% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (804; 4% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4244; 20% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2841; 13% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1219; 6% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1194; 6% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1152; 5% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1084; 5% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (804; 4% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-4257 <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+4244 <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (4257; 100%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (4244; 100%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (1249; 29% of non-empty `Number`): <em>Jahre, Jahren, Menschen, Millionen, Auswirkungen, Teile, Inseln, Leute, Länder, Männer</em>
-* `Sing` (3008; 71% of non-empty `Number`): <em>Jahr, Zeit, Regierung, Stadt, Geschichte, Jahrhundert, Oktober, Teil, Film, Mal</em>
+* `Sing` (2995; 71% of non-empty `Number`): <em>Jahr, Zeit, Regierung, Stadt, Geschichte, Jahrhundert, Oktober, Teil, Film, Mal</em>
 * `EMPTY` (5): <em>C, Festspiele, Keim, Kleinen, Teil</em>
 
 <table>
@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>Jahr</em></td><td><em>Jahre</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 90% lemmas (2195) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 90% lemmas (2186) occur only with one value of `Number`.
 
 ### `DET`
 
@@ -96,14 +96,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `ADJ`
 
-1181 <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> tokens (85% of all `ADJ` tokens) have a non-empty value of `Number`.
+1194 <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> tokens (85% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1179; 100%), <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1128; 96%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1179; 99%), <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1128; 94%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (379; 32% of non-empty `Number`): <em>letzten, neue, ersten, verschiedene, Vereinigten, neuen, Olympischen, kleine, verschiedenen, alten</em>
-* `Sing` (802; 68% of non-empty `Number`): <em>ersten, neue, eigene, große, britischen, erste, gemeinsamen, letzten, neuen, zweiten</em>
+* `Sing` (815; 68% of non-empty `Number`): <em>ersten, neue, eigene, große, britischen, erste, gemeinsamen, letzten, neuen, zweiten</em>
 * `EMPTY` (205): <em>bekannt, möglich, groß, klar, sicher, unglaublich, verheiratet, alt, ausgerichtet, ausgesetzt</em>
 
 <table>
@@ -228,9 +228,9 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (2600; 100%),
-<tt>NOUN --[<tt><a href="de_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1041; 100%),
-<tt>NOUN --[<tt><a href="de_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (490; 60%),
+<tt>NOUN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (2590; 100%),
+<tt>NOUN --[<tt><a href="de_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1054; 100%),
+<tt>NOUN --[<tt><a href="de_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (492; 60%),
 <tt>VERB --[<tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (419; 76%),
 <tt>VERB --[<tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (306; 70%),
 <tt>NOUN --[<tt><a href="de_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (225; 99%),

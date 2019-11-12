@@ -12,7 +12,7 @@ It occurs with 2 different values: `Anim`, `Inan`.
 2399 tokens (2%) have a non-empty value of `Animacy`.
 924 types (5%) occur at least once with a non-empty value of `Animacy`.
 869 lemmas (9%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1497; 2% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (497; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (224; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (160; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1497; 2% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (470; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (224; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (160; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (47; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -35,15 +35,15 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 ### `ADJ`
 
-497 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Animacy`.
+470 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt> (497; 100%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (497; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (497; 100%), <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (470; 95%), <tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (347; 70%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt> (470; 100%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (470; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (470; 100%), <tt><a href="sr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (457; 97%), <tt><a href="sr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (457; 97%), <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (443; 94%), <tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (347; 74%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
-* `Anim` (63; 13% of non-empty `Animacy`): <em>bivšeg, novog, američkog, generalnog, kosovskog, prvog, sledećeg, visokog, Sejdijuovog, Zlatnog</em>
-* `Inan` (434; 87% of non-empty `Animacy`): <em>prvi, novi, ekonomski, veliki, drugi, politički, veći, međunarodni, socijalni, važan</em>
-* `EMPTY` (11225): <em>prošle, inostranih, novi, srpske, bivši, drugi, političke, drugim, nove, evropske</em>
+* `Anim` (61; 13% of non-empty `Animacy`): <em>bivšeg, novog, američkog, generalnog, kosovskog, sledećeg, visokog, Sejdijuovog, Zlatnog, apatični</em>
+* `Inan` (409; 87% of non-empty `Animacy`): <em>novi, ekonomski, veliki, politički, veći, međunarodni, socijalni, važan, Ahtisarijev, direktan</em>
+* `EMPTY` (10381): <em>prošle, inostranih, novi, srpske, bivši, političke, nove, evropske, novog, Crne</em>
 
 <table>
   <tr><th>Paradigm <i>nov</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -51,7 +51,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
   <tr><td><tt><tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>nov</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `ADJ`. 95% lemmas (273) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `ADJ`. 96% lemmas (270) occur only with one value of `Animacy`.
 
 ### `PROPN`
 
@@ -69,15 +69,15 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 ### `DET`
 
-160 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Animacy`.
+160 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt> (160; 100%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (160; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (160; 100%), <tt><a href="sr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (141; 88%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (141; 88%), <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (104; 65%), <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (83; 52%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt> (160; 100%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (160; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (160; 100%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (141; 88%), <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (83; 52%).
 
 `DET` tokens may have the following values of `Animacy`:
 
 * `Anim` (18; 11% of non-empty `Animacy`): <em>svog, koji, nekoga, njegovog, svakog, kakvog, kojeg, tog</em>
 * `Inan` (142; 89% of non-empty `Animacy`): <em>svoj, taj, koji, njihov, kakav, ovaj, svaki, neki, njegov, takav</em>
-* `EMPTY` (3285): <em>koji, to, koje, koja, svoje, ove, toga, koju, sve, kojima</em>
+* `EMPTY` (3506): <em>koji, to, koje, koja, svoje, ove, sve, toga, nekoliko, koju</em>
 
 <table>
   <tr><th>Paradigm <i>koji</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -86,19 +86,20 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 ### `NUM`
 
-20 <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `Animacy`.
+47 <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt> (20; 100%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (20; 100%), <tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (20; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt> (47; 100%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (47; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (47; 100%), <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (27; 57%), <tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (27; 57%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
-* `Anim` (3; 15% of non-empty `Animacy`): <em>jednog</em>
-* `Inan` (17; 85% of non-empty `Animacy`): <em>jedan, dva</em>
-* `EMPTY` (1249): <em>tri, jedan, dve, dva, pet, četiri, 20, jedna, deset, šest</em>
+* `Anim` (5; 11% of non-empty `Animacy`): <em>jednog, prvog</em>
+* `Inan` (42; 89% of non-empty `Animacy`): <em>jedan, prvi, drugi, deveti, dva, treći</em>
+* `EMPTY` (2032): <em>tri, jedan, dve, dva, pet, četiri, 20, jedna, deset, šest</em>
 
 <table>
   <tr><th>Paradigm <i>jedan</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>jednog</em></td><td><em>jedan</em></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>jedan</em></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jednog</em></td><td><em>jedan</em></td></tr>
 </table>
 
 ### `PRON`
@@ -118,11 +119,11 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>NOUN --[<tt><a href="sr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (425; 98%),
 <tt>NOUN --[<tt><a href="sr_set-dep-det.html">det</a></tt>]--> DET</tt> (130; 98%),
 <tt>PROPN --[<tt><a href="sr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (33; 94%),
-<tt>NOUN --[<tt><a href="sr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (22; 63%),
+<tt>NOUN --[<tt><a href="sr_set-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (28; 68%),
+<tt>NOUN --[<tt><a href="sr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (21; 62%),
 <tt>ADJ --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (15; 94%),
-<tt>NOUN --[<tt><a href="sr_set-dep-nummod.html">nummod</a></tt>]--> ADJ</tt> (15; 75%),
-<tt>NOUN --[<tt><a href="sr_set-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (13; 62%),
 <tt>PROPN --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> PROPN</tt> (10; 56%),
 <tt>PROPN --[<tt><a href="sr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7; 78%),
-<tt>NOUN --[<tt><a href="sr_set-dep-appos.html">appos</a></tt>]--> PROPN</tt> (4; 57%).
+<tt>NOUN --[<tt><a href="sr_set-dep-appos.html">appos</a></tt>]--> PROPN</tt> (4; 57%),
+<tt>PROPN --[<tt><a href="sr_set-dep-amod.html">amod</a></tt>]--> PROPN</tt> (3; 100%).
 

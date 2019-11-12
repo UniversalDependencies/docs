@@ -93,7 +93,7 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 5	,	,	PUNCT	PUNCT	_	2	punct	_	_
 6	a	a	CCONJ	CCONJ	_	7	cc	_	_
 7	šielä	šielä	ADV	ADV	_	2	advmod	_	_
-8	marjua	marju	NOUN	NOUN	Case=Par|Number=Sing	7	orphan	_	_
+8	marjua	marju	NOUN	NOUN	Case=Par|Number=Sing	2	conj	_	_
 9	niin	niin	ADV	ADV	_	12	advmod	_	_
 10	kun	kun	ADV	ADV	_	9	fixed	_	_
 11	ois	olla	AUX	AUX	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	12	aux	_	_

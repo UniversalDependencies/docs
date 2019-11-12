@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ma</em> (<tt><a href="hr_set-pos-INTJ
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 0.857143 (the average of all parts of speech is 1.847676).
+The form / lemma ratio of `INTJ` is 0.857143 (the average of all parts of speech is 1.847405).
 
 The 1st highest number of forms (1) was observed with the lemma “E”: <em>E</em>.
 

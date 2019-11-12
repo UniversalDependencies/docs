@@ -29,13 +29,13 @@ The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a h
 5	kinda	kinda	ADV	RB	_	6	advmod	_	_
 6	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 7	about	about	ADP	IN	_	8	case	_	_
-8	him	him	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	SpaceAfter=No
+8	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	_	_
 10	but	but	CCONJ	CC	_	13	cc	_	_
 11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 12	never	never	ADV	RB	Polarity=Neg	13	advmod	_	_
 13	met	meet	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	conj	_	_
-14	him	him	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No
+14	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~

@@ -46,9 +46,9 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 5	тыра	тыр	ADV	Adv	_	8	advcl	_	_
 6	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
-8	думайтэныс	думайтэныс	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed|SpaceAfter=No
+8	думайтэныс	думайтны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Lang=Mixed|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	гашке	гашкӧ	ADV	Adv	_	12	advmod	_	SpaceAfter=No
+10	гашке	гашкӧ	PART	Pcle	_	12	advmod	_	SpaceAfter=No
 11	,	,	PUNCT	CLB	_	12	punct	_	_
 12	вӧрзям	вӧрзьыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
 13	да	да	PART	Pcle	_	12	advmod	_	Lang=Mixed
@@ -73,7 +73,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 11 12 goeswith	color:blue
 1	Пока	пока	ADV	Adv	_	2	advmod	_	_
 2	лёк	лёк	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
-3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	2	aux	_	_
+3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	2	aux:neg	_	_
 4	ло	лоны	AUX	V	Connegative=Yes|Number=Sing	2	aux	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	но	но	CCONJ	CC	_	13	cc	_	Lang=Mixed|SpaceAfter=No

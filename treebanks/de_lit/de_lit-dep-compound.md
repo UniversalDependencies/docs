@@ -42,7 +42,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 17	hinein	hinein	ADV	ADV	_	19	advmod	_	_
 18	jeder	jeder	PRON	PIS	_	19	nsubj	_	_
 19	gehn	gehn	VERB	VVINF	_	13	csubj	_	_
-20	kann	können	VERB	VMFIN	_	19	aux	_	SpaceAfter=No
+20	kann	können	AUX	VMFIN	_	19	aux	_	SpaceAfter=No
 21	,	--	PUNCT	$,	_	26	punct	_	_
 22	ohne	ohne	SCONJ	KOUI	_	26	mark	_	_
 23	daß	daß	SCONJ	KOUS	_	26	mark	_	_
@@ -108,7 +108,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 26	skizzierte	skizzieren	VERB	VVPP	_	27	amod	_	_
 27	Fantasien	Fantasien	PROPN	NE	_	17	conj	_	SpaceAfter=No
 28	:	--	PUNCT	$.	_	4	punct	_	_
-29	im	in	ADP	APPRART	_	30	advmod	_	_
+29	im	in	ADP	APPRART	_	30	case	_	_
 30	letzten	letzt	PRON	PIS	_	31	obl	_	_
 31	zeigt	zeigen	VERB	VVFIN	_	4	parataxis	_	_
 32	sich	sich	PRON	PRF	_	31	iobj	_	_

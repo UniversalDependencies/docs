@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="gun_dooley-dep-compound.html">compound</a></tt>.
 
-263 nodes (2%) are attached to their parents as `compound:svc`.
+259 nodes (2%) are attached to their parents as `compound:svc`.
 
-263 instances of `compound:svc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.79087452471483.
+259 instances of `compound:svc` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.72586872586873.
 
-The following 2 pairs of parts of speech are connected with `compound:svc`: <tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt>-<tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt> (260; 99% instances), <tt><a href="gun_dooley-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt> (3; 1% instances).
+The following 2 pairs of parts of speech are connected with `compound:svc`: <tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt>-<tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt> (258; 100% instances), <tt><a href="gun_dooley-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,12 +23,12 @@ The following 2 pairs of parts of speech are connected with `compound:svc`: <tt>
 # visual-style 5	fgColor:white
 # visual-style 5 6 compound:svc	color:blue
 1	_	_	PRON	pro	Person=3|PronType=Prs	5	nsubj	_	_
-2	_	_	PART	quantprt	_	1	clf	_	_
-3	_	_	PART	discprt	_	1	amod	_	_
-4	_	_	PART	illocprt	_	1	amod	_	_
-5	_	_	VERB	vt	Person[subj]=3|Subcat=Tran	0	root	_	_
-6	_	_	VERB	vs	Person=3|VerbForm=Ser	5	compound:svc	_	_
-7	_	_	NUM	num	_	8	nummod	_	_
+2	_	_	PART	quantprt	_	1	dep:mod	_	_
+3	_	_	PART	discprt	_	1	dep:mod	_	_
+4	_	_	PART	illocprt	_	1	dep:mod	_	_
+5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+6	_	_	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	5	compound:svc	_	_
+7	_	_	NUM	num	NumType=Card	8	nummod	_	_
 8	_	_	NOUN	n	_	5	obl	_	_
 9	_	_	ADP	post	_	8	case	_	_
 10	_	_	PUNCT	punct	_	5	punct	_	_
@@ -37,23 +37,22 @@ The following 2 pairs of parts of speech are connected with `compound:svc`: <tt>
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 11 compound:svc	color:blue
-1	_	_	NUM	num	_	2	nummod	_	_
-2	_	_	NOUN	n	_	8	obl	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 compound:svc	color:blue
+1	_	_	PUNCT	punct	_	5	punct	_	_
+2	_	_	PRON	dem	PronType=Dem	5	obl	_	_
 3	_	_	ADP	post	_	2	case	_	_
-4	_	_	VERB	vi	Person[subj]=3|Subcat=Int	8	advcl	_	_
-5	_	_	SCONJ	subordconn	_	4	mark	_	_
-6	_	_	PART	illocprt	_	4	advmod	_	_
-7	_	_	NOUN	n	_	8	nsubj	_	_
-8	_	_	NOUN	n	_	0	root	_	_
-9	_	_	ADJ	vi:i	_	8	amod	_	_
-10	_	_	PART	intprt	_	9	advmod	_	_
-11	_	_	VERB	vs	Person=3|VerbForm=Ser	8	compound:svc	_	_
-12	_	_	PUNCT	punct	_	8	punct	_	_
+4	_	_	PART	intprt	_	2	dep:mod	_	_
+5	_	_	NOUN	n	Number[psor]=Sing	10	parataxis:rep	_	_
+6	_	_	PART	intprt	_	5	dep:mod	_	_
+7	_	_	VERB	vs	Mood=Ind|Person=2|VerbForm=Ser	5	compound:svc	_	_
+8	_	_	SCONJ	subordconn	_	5	mark	_	_
+9	_	_	PUNCT	punct	_	5	punct	_	_
+10	_	_	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	0	root	_	_
+11	_	_	PUNCT	punct	_	10	punct	_	_
 
 ~~~
 

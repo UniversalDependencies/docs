@@ -102,7 +102,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (141; 37% of non-empty `Number`): <em>якiя, яны, мы, якія, іх, вы, iх, якiх, iм, нас</em>
 * `Sing` (238; 63% of non-empty `Number`): <em>гэта, я, таго, ён, тое, які, мне, мяне, яго, гэтым</em>
-* `EMPTY` (25): <em>што, сабе, сябе, гэта, які, якія, чаго, чым, што-небудзь, якога</em>
+* `EMPTY` (26): <em>што, сабе, сябе, гэта, які, якія, чаго, чым, што-небудзь, якога</em>
 
 <table>
   <tr><th>Paradigm <i>які</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -229,14 +229,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1325; 98%),
-<tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (880; 59%),
-<tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (423; 83%),
-<tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (322; 88%),
-<tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (156; 91%),
-<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (149; 97%),
-<tt>NOUN --[<tt><a href="be_hse-dep-det.html">det</a></tt>]--> DET</tt> (146; 81%),
-<tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (123; 68%),
+<tt>NOUN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1324; 98%),
+<tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (881; 59%),
+<tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (422; 83%),
+<tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (322; 87%),
+<tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (156; 90%),
+<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (147; 97%),
+<tt>NOUN --[<tt><a href="be_hse-dep-det.html">det</a></tt>]--> DET</tt> (147; 81%),
+<tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (125; 68%),
 <tt>ADJ --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (121; 95%),
 <tt>NOUN --[<tt><a href="be_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (88; 93%).
 

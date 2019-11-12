@@ -42,7 +42,7 @@ The following 40 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4 12 conj	color:blue
 1	M.	monsieur	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	Rousselot	Rousselot	PROPN	_	_	1	flat:name	_	_
-3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 4	insisté	insister	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	pour	pour	ADP	_	_	7	mark	_	_
 6	me	le	PRON	_	Number=Sing|Person=1	7	obj	_	_
@@ -65,7 +65,7 @@ The following 40 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 6 8 conj	color:blue
 1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	finale	finale	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
-3	se	se	PRON	_	Person=3|Reflex=Yes	4	expl	_	_
+3	se	se	PRON	_	Person=3|Reflex=Yes	4	expl:pass	_	_
 4	joua	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	entre	entre	ADP	_	_	6	case	_	_
 6	Utrecht	Utrecht	PROPN	_	_	4	obl:arg	_	_

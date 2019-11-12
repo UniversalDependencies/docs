@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-ccomp.html">ccomp</a></tt>.
 
-64 nodes (0%) are attached to their parents as `ccomp:pmod`.
+74 nodes (0%) are attached to their parents as `ccomp:pmod`.
 
-49 instances of `ccomp:pmod` (77%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.484375.
+58 instances of `ccomp:pmod` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.36486486486486.
 
-The following 7 pairs of parts of speech are connected with `ccomp:pmod`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (47; 73% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (6; 9% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (5; 8% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `ccomp:pmod`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (54; 73% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (6; 8% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -32,32 +32,6 @@ The following 7 pairs of parts of speech are connected with `ccomp:pmod`: <tt><a
 8	așa	așa	ADV	Rg	_	9	advmod	_	ref=MARC15.44
 9	curînd	cura	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl:tcl	_	ref=MARC15.44|SpaceAfter=No
 10	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MARC15.44
-
-~~~
-
-
-~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 15 ccomp:pmod	color:blue
-1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=LUCA11.35
-2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	obl	_	ref=LUCA11.35
-3	ia	lua	VERB	Vmm-2s--z	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	0	root	_	ref=LUCA11.35
-4	aminte	aminte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obj	_	ref=LUCA11.35
-5	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	15	mark	_	ref=LUCA11.35
-6	lumina	lumină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	15	nsubj	_	ref=LUCA11.35
-7	carea	care	PRON	Pw3fsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	8	nsubj	_	ref=LUCA11.35
-8	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	ref=LUCA11.35
-9	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=LUCA11.35
-10	tine	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	8	obl	_	ref=LUCA11.35|SpaceAfter=No
-11	,	,	PUNCT	COMMA	_	6	punct	_	ref=LUCA11.35
-12	să	să	PART	Qs	PartType=Sub	15	mark	_	ref=LUCA11.35
-13	nu	nu	ADV	Qz	Polarity=Neg	15	advmod	_	ref=LUCA11.35
-14	fie	fi	AUX	Vasp3s	Mood=Sub|Number=Sing|Person=3|Tense=Pres	15	cop	_	ref=LUCA11.35
-15	întunearec	întuneric	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	ccomp:pmod	_	ref=LUCA11.35|SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	3	punct	_	ref=LUCA11.35
 
 ~~~
 
@@ -94,6 +68,32 @@ The following 7 pairs of parts of speech are connected with `ccomp:pmod`: <tt><a
 24	împărăție	împărăție	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	23	xcomp	_	ref=PAVEL_COLAS.1.12|SpaceAfter=No
 25	)	)	PUNCT	RPAR	_	23	punct	_	ref=PAVEL_COLAS.1.12|SpaceAfter=No
 26	.	.	PUNCT	PERIOD	_	2	punct	_	ref=PAVEL_COLAS.1.12
+
+~~~
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 15 ccomp:pmod	color:blue
+1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=LUCA11.35
+2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	obl	_	ref=LUCA11.35
+3	ia	lua	VERB	Vmm-2s--z	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	0	root	_	ref=LUCA11.35
+4	aminte	aminte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obj	_	ref=LUCA11.35
+5	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	15	mark	_	ref=LUCA11.35
+6	lumina	lumină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	15	nsubj	_	ref=LUCA11.35
+7	carea	care	PRON	Pw3fsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	8	nsubj	_	ref=LUCA11.35
+8	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	ref=LUCA11.35
+9	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=LUCA11.35
+10	tine	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	8	obl	_	ref=LUCA11.35|SpaceAfter=No
+11	,	,	PUNCT	COMMA	_	6	punct	_	ref=LUCA11.35
+12	să	să	PART	Qs	PartType=Sub	15	mark	_	ref=LUCA11.35
+13	nu	nu	ADV	Qz	Polarity=Neg	15	advmod	_	ref=LUCA11.35
+14	fie	fi	AUX	Vasp3s	Mood=Sub|Number=Sing|Person=3|Tense=Pres	15	cop	_	ref=LUCA11.35
+15	întunearec	întuneric	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	ccomp:pmod	_	ref=LUCA11.35|SpaceAfter=No
+16	.	.	PUNCT	PERIOD	_	3	punct	_	ref=LUCA11.35
 
 ~~~
 

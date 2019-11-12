@@ -1,0 +1,56 @@
+---
+layout: base
+title:  'Statistics of INTJ in UD_Bhojpuri-BHTB'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Bhojpuri-BHTB: POS Tags: `INTJ`
+
+There are 4 `INTJ` lemmas (0%), 4 `INTJ` types (0%) and 4 `INTJ` tokens (0%).
+Out of 15 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.
+
+The 10 most frequent `INTJ` lemmas: <em>अजी, अर, गहर, दोसर</em>
+
+The 10 most frequent `INTJ` types:  <em>अजी, अरे, गहरे, दोसरे</em>
+
+The 10 most frequent ambiguous lemmas: <em>दोसर</em> (<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> 2, <tt><a href="bho_bhtb-pos-INTJ.html">INTJ</a></tt> 1)
+
+The 10 most frequent ambiguous types:  
+
+
+
+## Morphology
+
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.008588).
+
+The 1st highest number of forms (1) was observed with the lemma “अजी”: <em>अजी</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “अर”: <em>अरे</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “गहर”: <em>गहरे</em>.
+
+`INTJ` occurs with 3 features: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt> (3; 75% instances), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt> (3; 75% instances), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt> (3; 75% instances)
+
+`INTJ` occurs with 3 feature-value pairs: `Case=Acc`, `Gender=Masc`, `Number=Sing`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `Case=Acc|Gender=Masc|Number=Sing` (3 tokens).
+Examples: <em>अरे, गहरे, दोसरे</em>
+
+
+## Relations
+
+`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (2; 50% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (1; 25% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (1; 25% instances)
+
+Parents of `INTJ` nodes belong to 1 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (4; 100% instances)
+
+3 (75%) `INTJ` nodes are leaves.
+
+1 (25%) `INTJ` nodes have one child.
+
+The highest child degree of a `INTJ` node is 1.
+
+Children of `INTJ` nodes are attached using 1 different relations: <tt><a href="bho_bhtb-dep-punct.html">punct</a></tt> (1; 100% instances)
+
+Children of `INTJ` nodes belong to 1 different parts of speech: <tt><a href="bho_bhtb-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances)
+

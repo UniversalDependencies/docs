@@ -51,7 +51,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Mult` (19; 61% of non-empty `NumType`): <em>весть, Ламоксть, Колмоксть, Чуросто, зярыяксть, кавксть, кеменьшкаксть, Кавкстешкаксть, вестешка, вестькак</em>
 * `Ord` (7; 23% of non-empty `NumType`): <em>омбоцеде, колмоцеде, васенцеде, васняяк</em>
 * `Sets` (3; 10% of non-empty `NumType`): <em>кавонест, ламонест</em>
-* `EMPTY` (1327): <em>ансяк, кода, пек, истя, уш, ней, мейле, седе, прок, яла</em>
+* `EMPTY` (1326): <em>ансяк, кода, пек, истя, уш, ней, мейле, седе, прок, яла</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (15) occur only with one value of `NumType`.
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Mary Yako.
 
 Repository: [UD_Assyrian-AS](https://github.com/UniversalDependencies/UD_Assyrian-AS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaii_as22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaii_as25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 4.0
 
@@ -48,7 +48,7 @@ The Uppsala Assyrian Treebank is a small treebank for Modern Standard Assyrian. 
 
 
 
-The Uppsala Assyrian Treebank (UAT) is a small treebank which consists of 57 sentences and cirka 380 tokens. The data was randomly collected from different textbooks and a short translation of The Merchant of Venice.
+The Uppsala Assyrian Treebank (UAT) is a small treebank which consists of 57 sentences and 453 tokens. The data was randomly collected from different textbooks and a short translation of The Merchant of Venice.
 The treebank was manually built and annotated following the UD annotation guidlines.
 This treebank is the very first attempt to building a treebank for the Modern Standard Assyrian language, and since it is a very small treebank, we kept the data in one file as test data.
 
@@ -58,6 +58,8 @@ We look forward to increasing the size of the treebank and enriching its annotat
 
 Building the Uppsala Assyrian Treebank was a project conducted by Mary Yako at Uppsala University under the supervision of Joakim Nivre.
 
+
+
 # Statistics of UD Assyrian AS
 
 ## POS Tags
@@ -66,7 +68,7 @@ Building the Uppsala Assyrian Treebank was a project conducted by Mary Yako at U
 
 ## Features
 
-[Case](aii_as-feat-Case.html) – [Definite](aii_as-feat-Definite.html) – [Gender](aii_as-feat-Gender.html) – [Mood](aii_as-feat-Mood.html) – [Number](aii_as-feat-Number.html) – [Person](aii_as-feat-Person.html) – [Poss](aii_as-feat-Poss.html) – [ProneType](aii_as-feat-ProneType.html) – [PronType](aii_as-feat-PronType.html) – [Tense](aii_as-feat-Tense.html) – [VerbForm](aii_as-feat-VerbForm.html) – [Voice](aii_as-feat-Voice.html)
+[Case](aii_as-feat-Case.html) – [Definite](aii_as-feat-Definite.html) – [Gender](aii_as-feat-Gender.html) – [Mood](aii_as-feat-Mood.html) – [Number](aii_as-feat-Number.html) – [Person](aii_as-feat-Person.html) – [Poss](aii_as-feat-Poss.html) – [PronType](aii_as-feat-PronType.html) – [Tense](aii_as-feat-Tense.html) – [VerbForm](aii_as-feat-VerbForm.html) – [Voice](aii_as-feat-Voice.html)
 
 ## Relations
 
@@ -104,7 +106,7 @@ Building the Uppsala Assyrian Treebank was a project conducted by Mary Yako at U
 </ul>
 
 <ul>
-<li>This corpus contains 12 word types tagged as particles (PART): ܒ, ܒܸܕ, ܒܸܬ, ܒܹܬ, ܕ, ܟܲܕ, ܟܸܐ, ܟܹܐ, ܠܵܐ, ܠܸܐ, ܠܹܐ, ܩܲܡ</li>
+<li>This corpus contains 4 word types tagged as particles (PART): ܕ, ܠܵܐ, ܠܸܐ, ܠܹܐ</li>
 </ul>
 
 <ul>
@@ -120,7 +122,7 @@ Building the Uppsala Assyrian Treebank was a project conducted by Mary Yako at U
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): ܗܵܘܹܐ, ܡܵܨܸܢ, ܦܵܝܫ, ܵܗܵܘܹܐ</li>
+<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): ܒ, ܒܸܕ, ܒܸܬ, ܒܹܬ, ܗܵܘܹܐ, ܟܲܕ, ܟܸܐ, ܟܹܐ, ܡܵܨܸܢ, ܦܵܝܫ, ܩܲܡ, ܵܗܵܘܹܐ</li>
 </ul>
 
 <ul>
@@ -289,8 +291,8 @@ Building the Uppsala Assyrian Treebank was a project conducted by Mary Yako at U
 <ul>
   <li>Ind
     <ul>
+      <li>AUX: ܝܠܵܗܿ, ܝܠܹܗ, ܝ݇ܢܵܐ, ܝܢܵܐ, ܟܸܐ, ܝܘܸܢ, ܝܠܸܗ, ܝܠܹܐ, ܝ݇ܬܘܢ</li>
       <li>AUX-Fin: ܝܠܵܗܿ, ܝܠܹܗ, ܝ݇ܢܵܐ, ܝܢܵܐ, ܝܘܸܢ, ܝܠܸܗ, ܝܠܹܐ, ܝ݇ܬܘܢ</li>
-      <li>PART: ܟܸܐ</li>
       <li>VERB: ܒܝܕܥܝܐ</li>
     </ul>
   </li>
@@ -367,7 +369,7 @@ Building the Uppsala Assyrian Treebank was a project conducted by Mary Yako at U
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: ܐܵܢܝܼ, ܠܸܗ, ܐܲܢ݇ܬ, ܐܵܢܵܐ, ܥܵܢܹܐ, ܐܲܚܢܲܢ, ܐܲܚܬܘܢ, ܒܹܗ, ܕܝܲܢ, ܕܝܼܘܼܟܼ</li>
+      <li>PRON: ܐܵܢܝܼ, ܠܸܗ, ܐܲܢ݇ܬ, ܐܵܢܵܐ, ܥܵܢܹܐ, ܐܲܚܢܲܢ, ܐܲܚܬܘܢ, ܒܝܼܵܗܿ, ܒܹܗ, ܕܝܲܢ</li>
     </ul>
   </li>
 </ul>
@@ -435,18 +437,6 @@ Building the Uppsala Assyrian Treebank was a project conducted by Mary Yako at U
 
 <h3>Other Features</h3>
 
-
-<ul>
-  <li><a>ProneType</a>
-    <ul>
-      <li>Prs
-        <ul>
-          <li>PRON: ܒܝܼܵܗܿ</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
 
 <h2>Syntax</h2>
 

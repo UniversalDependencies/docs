@@ -11,19 +11,19 @@ It occurs with 2 different values: `Def`, `Ind`.
 
 3976 tokens (14%) have a non-empty value of `Definite`.
 19 types (0%) occur at least once with a non-empty value of `Definite`.
-7 lemmas (0%) occur at least once with a non-empty value of `Definite`.
+6 lemmas (0%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 1 part-of-speech tags: <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (3976; 14% instances).
 
 ### `DET`
 
 3976 <tt><a href="fr_partut-pos-DET.html">DET</a></tt> tokens (83% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="fr_partut-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3809; 96%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2828; 71%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="fr_partut-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3945; 99%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2828; 71%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (3347; 84% of non-empty `Definite`): <em>le, les, la, l', des, d', de</em>
-* `Ind` (629; 16% of non-empty `Definite`): <em>une, un, des, de, d', Aucune, du</em>
+* `Def` (3342; 84% of non-empty `Definite`): <em>le, les, la, l', des, d', de</em>
+* `Ind` (634; 16% of non-empty `Definite`): <em>une, un, des, de, d', Aucune, du</em>
 * `EMPTY` (806): <em>ce, cette, ces, toute, son, votre, sa, tous, leur, tout</em>
 
 <table>

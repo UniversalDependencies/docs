@@ -21,7 +21,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nl_lassysmall-pos-X
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (340; 100% of non-empty `Foreign`): <em>de, la, les, the, Vive, of, art, cordon, des, design</em>
-* `EMPTY` (127): <em>o.a., o.m., West-, dd, enz., Oost-, Taal-, noord-, schilder-, --foto's</em>
+* `EMPTY` (125): <em>o.a., o.m., West-, dd, enz., Oost-, Taal-, noord-, schilder-, --foto's</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (257) occur only with one value of `Foreign`.
 

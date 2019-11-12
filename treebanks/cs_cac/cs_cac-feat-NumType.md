@@ -53,7 +53,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 * `Card` (651; 100% of non-empty `NumType`): <em>několik, mnoho, několika, mnoha, kolik, tolik, málo, nejeden, mála, nejednom</em>
 * `Ord` (3; 0% of non-empty `NumType`): <em>Kolikátý, kolikátá, kolikátém</em>
-* `EMPTY` (19116): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
+* `EMPTY` (19108): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
 
 ### `ADV`
 

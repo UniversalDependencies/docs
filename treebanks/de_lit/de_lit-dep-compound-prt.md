@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="de_lit-dep-compound.html">compound</a></tt>.
 
-76 nodes (0%) are attached to their parents as `compound:prt`.
+75 nodes (0%) are attached to their parents as `compound:prt`.
 
-74 instances of `compound:prt` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.64473684210526.
+73 instances of `compound:prt` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.69333333333333.
 
-The following 5 pairs of parts of speech are connected with `compound:prt`: <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (71; 93% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt>-<tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `compound:prt`: <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (71; 95% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt>-<tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

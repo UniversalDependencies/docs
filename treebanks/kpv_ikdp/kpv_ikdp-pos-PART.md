@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: POS Tags: `PART`
 
-There are 17 `PART` lemmas (3%), 18 `PART` types (3%) and 64 `PART` tokens (5%).
+There are 17 `PART` lemmas (3%), 17 `PART` types (3%) and 65 `PART` tokens (5%).
 Out of 15 observed tags, the rank of `PART` is: 9 in number of lemmas, 9 in number of types and 6 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>да, и, вот, значит, жӧ, выйым, но, ну, то, тожӧ</em>
+The 10 most frequent `PART` lemmas: <em>да, и, вот, значит, жӧ, выйым, гашкӧ, но, ну, то</em>
 
-The 10 most frequent `PART` types:  <em>да, и, вот, значит, же, Ну, выйым, но, то, тоже</em>
+The 10 most frequent `PART` types:  <em>да, и, вот, значит, же, Ну, выйым, гашке, но, то</em>
 
 The 10 most frequent ambiguous lemmas: <em>да</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 9, <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 3), <em>и</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 9), <em>но</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3), <em>то</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>так</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 1, <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> 1)
 
@@ -33,40 +33,40 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="kpv_ikdp-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.058824 (the average of all parts of speech is 1.198459).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.221569).
 
-The 1st highest number of forms (2) was observed with the lemma “эськӧ”: <em>веське, эське</em>.
+The 1st highest number of forms (1) was observed with the lemma “вед”: <em>вед</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “вед”: <em>вед</em>.
+The 2nd highest number of forms (1) was observed with the lemma “вот”: <em>вот</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “вот”: <em>вот</em>.
+The 3rd highest number of forms (1) was observed with the lemma “выйым”: <em>выйым</em>.
 
 `PART` occurs with 1 features: <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt> (2; 3% instances)
 
 `PART` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `PART` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (62 tokens).
-Examples: <em>да, и, вот, значит, же, Ну, выйым, но, то, тоже</em>
+The most frequent feature combination is `_` (63 tokens).
+Examples: <em>да, и, вот, значит, же, Ну, выйым, гашке, но, то</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 8 different relations: <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (50; 78% instances), <tt><a href="kpv_ikdp-dep-root.html">root</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-dep-appos.html">appos</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-goeswith.html">goeswith</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-mark.html">mark</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-obj.html">obj</a></tt> (1; 2% instances)
+`PART` nodes are attached to their parents using 8 different relations: <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (51; 78% instances), <tt><a href="kpv_ikdp-dep-root.html">root</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-dep-appos.html">appos</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-goeswith.html">goeswith</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-mark.html">mark</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-obj.html">obj</a></tt> (1; 2% instances)
 
-Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (26; 41% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (18; 28% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (6; 9% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (5; 8% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (3; 5% instances),  (3; 5% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
+Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (26; 40% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (18; 28% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (6; 9% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (6; 9% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (3; 5% instances),  (3; 5% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 
-38 (59%) `PART` nodes are leaves.
+37 (57%) `PART` nodes are leaves.
 
-20 (31%) `PART` nodes have one child.
+21 (32%) `PART` nodes have one child.
 
-4 (6%) `PART` nodes have two children.
+5 (8%) `PART` nodes have two children.
 
 2 (3%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 7.
 
-Children of `PART` nodes are attached using 8 different relations: <tt><a href="kpv_ikdp-dep-punct.html">punct</a></tt> (23; 57% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (5; 13% instances), <tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt> (4; 10% instances), <tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt> (3; 8% instances), <tt><a href="kpv_ikdp-dep-goeswith.html">goeswith</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (1; 3% instances)
+Children of `PART` nodes are attached using 8 different relations: <tt><a href="kpv_ikdp-dep-punct.html">punct</a></tt> (26; 60% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (5; 12% instances), <tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt> (4; 9% instances), <tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt> (3; 7% instances), <tt><a href="kpv_ikdp-dep-goeswith.html">goeswith</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (1; 2% instances)
 
-Children of `PART` nodes belong to 6 different parts of speech: <tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (23; 57% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (5; 13% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (5; 13% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (4; 10% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 3% instances)
+Children of `PART` nodes belong to 6 different parts of speech: <tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (26; 60% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (6; 14% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (5; 12% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

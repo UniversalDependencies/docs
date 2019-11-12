@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (1; 33% of non-empty `Gender`): <em>Любань</em>
 * `Masc` (2; 67% of non-empty `Gender`): <em>Вострин, Елеська</em>
-* `EMPTY` (3632): <em>бандитэсь, партизантнэ, кедензэ, ялгат, прянзо, авазо, кенкшенть, кудов, лангс, бандитнэ</em>
+* `EMPTY` (3633): <em>бандитэсь, партизантнэ, кедензэ, ялгат, прянзо, авазо, кенкшенть, кудов, лангс, бандитнэ</em>
 
 ## Relations with Agreement in `Gender`
 

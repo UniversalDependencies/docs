@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-960 nodes (0%) are attached to their parents as `expl`.
+974 nodes (0%) are attached to their parents as `expl`.
 
-578 instances of `expl` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10104166666667.
+580 instances of `expl` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.09958932238193.
 
-The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (956; 100% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (4; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (969; 99% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -68,6 +68,37 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 29	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 30	história	história	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 expl	color:blue
+1	Eis	eis	ADV	_	_	0	root	_	_
+2	lo	ele	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	abalada	abalada	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	para	para	ADP	_	_	6	case	_	_
+6	Flagstad	Flagstad	PROPN	_	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Arizona	Arizona	PROPN	_	Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	com	com	ADP	_	_	13	case	_	_
+11	mais	mais	ADV	_	_	12	advmod	_	_
+12	quatro	quatro	NUM	_	NumType=Card	13	nummod	_	_
+13	cúmplices	cúmplice	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	entre	entre	ADP	_	_	16	case	_	_
+16	eles	ele	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	nmod	_	_
+17	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	actor	actor	NOUN	_	Gender=Masc|Number=Sing	13	appos	_	_
+19	Dustin	Dustin	PROPN	_	Gender=Masc|Number=Sing	18	appos	_	MWE=Dustin_Farnum|MWEPOS=PROPN
+20	Farnum	Farnum	PROPN	_	Number=Sing	19	flat:name	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

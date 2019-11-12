@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-det.html">det</a></tt>.
 
-69 nodes (0%) are attached to their parents as `det:predet`.
+70 nodes (0%) are attached to their parents as `det:predet`.
 
-69 instances of `det:predet` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.26086956521739.
+70 instances of `det:predet` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.25714285714286.
 
-The following 3 pairs of parts of speech are connected with `det:predet`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (63; 91% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (5; 7% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `det:predet`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (64; 91% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (5; 7% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -70,7 +70,7 @@ The following 3 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 13 11 det:predet	color:blue
 1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	_
 2	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-3	me	me	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
 4	out	out	ADP	RP	_	2	compound:prt	_	_
 5	on	on	ADP	IN	_	6	case	_	_
 6	books	book	NOUN	NNS	Number=Plur	2	obl	_	_

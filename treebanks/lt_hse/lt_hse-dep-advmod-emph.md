@@ -10,10 +10,10 @@ This relation is a language-specific subtype of <tt><a href="lt_hse-dep-advmod.h
 
 81 nodes (2%) are attached to their parents as `advmod:emph`.
 
-80 instances of `advmod:emph` (99%) are right-to-left (child precedes parent).
+79 instances of `advmod:emph` (98%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.09876543209877.
 
-The following 9 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (25; 31% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (24; 30% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (10; 12% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (10; 12% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (7; 9% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (25; 31% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (24; 30% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (10; 12% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (10; 12% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (7; 9% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (3; 4% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

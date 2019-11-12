@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Abs` (31; 5% of non-empty `Degree`): <em>Santísima, buenísimas, aceleradísimo, altísima, altísimo, bellísima, buenísima, buenísimo, completísima, contentísima</em>
 * `Cmp` (481; 81% of non-empty `Degree`): <em>mayor, mejor, mejores, menor, mayores, menores, peor, peores</em>
 * `Sup` (79; 13% of non-empty `Degree`): <em>máximo, máxima, mínima, mínimo, mínimas, óptimo, máximas, máximos, mínimos, óptima</em>
-* `EMPTY` (24304): <em>gran, primera, primer, mismo, nuevo, estadounidense, total, nacional, grandes, nueva</em>
+* `EMPTY` (24305): <em>gran, primera, primer, mismo, nuevo, estadounidense, total, nacional, grandes, nueva</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (34) occur only with one value of `Degree`.
 

@@ -11,32 +11,33 @@ This relation is universal.
 54 nodes (0%) are attached to their parents as `csubj`.
 
 53 instances of `csubj` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.59259259259259.
+Average distance between parent and child is 9.75925925925926.
 
-The following 10 pairs of parts of speech are connected with `csubj`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (18; 33% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (15; 28% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (10; 19% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `csubj`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (26; 48% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (12; 22% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (6; 11% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 11 csubj	color:blue
-1	Uit	uit	ADP	VZ|init	_	3	case	3:case	_
-2	genetisch	genetisch	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	3	amod	3:amod	_
-3	onderzoek	onderzoek	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl:uit	_
-4	blijkt	blijken	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-5	echter	echter	ADV	BW	_	4	advmod	4:advmod	_
-6	dat	dat	SCONJ	VG|onder	_	11	mark	11:mark	_
-7	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
-8	huidige	huidig	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	9	amod	9:amod	_
-9	Belgen	Belg	PROPN	N|eigen|mv|basis	Number=Plur	11	nsubj	11:nsubj	_
-10	niet	niet	ADV	BW	_	11	advmod	11:advmod	_
-11	afstammen	afstammen	VERB	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	4	csubj	4:csubj	_
-12	van	van	ADP	VZ|init	_	14	case	14:case	_
-13	de	de	DET	LID|bep|stan|rest	Definite=Def	14	det	14:det	_
-14	Belgae	Belga	PROPN	N|eigen|mv|basis	Number=Plur	11	obl	11:obl:van	SpaceAfter=No
-15	.	.	PUNCT	LET	_	4	punct	4:punct	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 8 csubj	color:blue
+1	Het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	2	expl	2:expl	_
+2	werd	worden	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	duidelijk	duidelijk	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	2	xcomp	2:xcomp	_
+4	dat	dat	SCONJ	VG|onder	_	8	mark	8:mark	_
+5	de	de	DET	LID|bep|stan|rest	Definite=Def	6	det	6:det	_
+6	politie	politie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	8	nsubj	8:nsubj	_
+7	ernstig	ernstig	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	8	advmod	8:advmod	_
+8	gefaald	falen	VERB	WW|vd|vrij|zonder	VerbForm=Part	2	csubj	2:csubj	_
+9	had	hebben	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	8	aux	8:aux	_
+10	in	in	ADP	VZ|init	_	13	case	13:case	_
+11	een	een	DET	LID|onbep|stan|agr	Definite=Ind	13	det	13:det	_
+12	eerder	eerder	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	13	amod	13:amod	_
+13	onderzoek	onderzoek	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	8	obl	8:obl:in	_
+14	naar	naar	ADP	VZ|init	_	15	case	15:case	_
+15	Dutroux	Dutroux	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	nmod	13:nmod:naar	SpaceAfter=No
+16	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~
 

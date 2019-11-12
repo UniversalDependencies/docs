@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PUD: Relations: `ccomp:obj`
 
 This relation is a language-specific subtype of <tt><a href="pl_pud-dep-ccomp.html">ccomp</a></tt>.
+There are also 1 other language-specific subtypes of `ccomp`: <tt><a href="pl_pud-dep-ccomp-cleft.html">ccomp:cleft</a></tt>.
 
 48 nodes (0%) are attached to their parents as `ccomp:obj`.
 
 48 instances of `ccomp:obj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.16666666666667.
+Average distance between parent and child is 6.54166666666667.
 
-The following 4 pairs of parts of speech are connected with `ccomp:obj`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (29; 60% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (11; 23% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (7; 15% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `ccomp:obj`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (30; 63% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (8; 17% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (7; 15% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -23,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `ccomp:obj`: <tt><a 
 # visual-style 1	fgColor:white
 # visual-style 1 6 ccomp:obj	color:blue
 1	Powiedzmy	powiedzieć	VERB	impt:pl:pri:perf	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	tylko	tylko	PART	part	_	6	advmod	6:advmod	SpaceAfter=No
+2	tylko	tylko	PART	part	_	1	advmod:emph	1:advmod:emph	SpaceAfter=No
 3	,	,	PUNCT	interp	PunctType=Comm	6	punct	6:punct	_
 4	że	że	SCONJ	comp	_	6	mark	6:mark	_
 5	nie	nie	PART	part	Polarity=Neg	6	advmod:neg	6:advmod:neg	_

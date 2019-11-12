@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Zdeněk Žabokrtský, Gosse Bouma, Gertjan van Noord.
 
 Repository: [UD_Dutch-Alpino](https://github.com/UniversalDependencies/UD_Dutch-Alpino)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_alpino22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_alpino25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,7 +73,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 
 ## Features
 
-[Abbr](nl_alpino-feat-Abbr.html) – [Case](nl_alpino-feat-Case.html) – [Definite](nl_alpino-feat-Definite.html) – [Degree](nl_alpino-feat-Degree.html) – [Foreign](nl_alpino-feat-Foreign.html) – [Gender](nl_alpino-feat-Gender.html) – [Number](nl_alpino-feat-Number.html) – [Person](nl_alpino-feat-Person.html) – [PronType](nl_alpino-feat-PronType.html) – [Reflex](nl_alpino-feat-Reflex.html) – [Tense](nl_alpino-feat-Tense.html) – [VerbForm](nl_alpino-feat-VerbForm.html)
+[Abbr](nl_alpino-feat-Abbr.html) – [Case](nl_alpino-feat-Case.html) – [Definite](nl_alpino-feat-Definite.html) – [Degree](nl_alpino-feat-Degree.html) – [Foreign](nl_alpino-feat-Foreign.html) – [Gender](nl_alpino-feat-Gender.html) – [Number](nl_alpino-feat-Number.html) – [Person](nl_alpino-feat-Person.html) – [Poss](nl_alpino-feat-Poss.html) – [PronType](nl_alpino-feat-PronType.html) – [Reflex](nl_alpino-feat-Reflex.html) – [Tense](nl_alpino-feat-Tense.html) – [VerbForm](nl_alpino-feat-VerbForm.html)
 
 ## Relations
 
@@ -83,11 +83,11 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 
 
 <ul>
-<li>This corpus contains 13583 sentences and 208633 tokens.</li>
+<li>This corpus contains 13578 sentences and 208470 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 21728 tokens (10%) that are not followed by a space.</li>
+<li>This corpus contains 21719 tokens (10%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -95,7 +95,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 </ul>
 
 <ul>
-<li>This corpus contains 1464 types of words that contain both letters and punctuation. Examples: J., mr., dr., zo'n, 't, H., a., 's, C., W., M., drs., B., prof., G., p., pct., d., R., 'n, F., L., o.a., K., Zuid-Afrika, T., z'n, v., S., auto's, jl., n.v., E., ir., Sovjet-Unie, St., West-Duitsland, o.m., Noord-Korea, mln., D'66, a.s., binnen-, m'n, mevr., Mina's, Oost-Berlijn, directeur-generaal, ds., etc.</li>
+<li>This corpus contains 1461 types of words that contain both letters and punctuation. Examples: J., mr., dr., zo'n, 't, H., a., 's, C., W., M., B., drs., G., prof., p., pct., d., R., 'n, F., L., o.a., K., Zuid-Afrika, T., z'n, v., S., auto's, jl., n.v., E., ir., Sovjet-Unie, St., West-Duitsland, o.m., Noord-Korea, mln., D'66, a.s., binnen-, m'n, mevr., Mina's, Oost-Berlijn, directeur-generaal, ds., etc.</li>
 </ul>
 
 <ul>
@@ -114,23 +114,23 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 </ul>
 
 <ul>
-<li>This corpus contains 79 lemmas tagged as pronouns (PRON): al, allebei, alles, beide, d'r, da, dat, datgene, degene, deze, die, diegene, dien, dit, een, elk, elkaar, enig, enkele, er, ge, geen, gij, ginds, haar, haarzelf, hare, hem, hemzelf, hen, het, hetgeen, hetgene, hij, hijzelf, hun, ieder, iedereen, iemand, iets, ik, je, jezelf, jij, jou, jullie, m'n, me, meerdere, men, mezelf, mij, mijn, minder, niemand, niets, niks, ons, onszelf, sommig, teveel, u, uw, veel, wat, we, weinig, welk, wie, wij, ze, zich, zichzelf, zij, zijn, zijzelf, zo'n, zoiets, zulk</li>
+<li>This corpus contains 78 lemmas tagged as pronouns (PRON): al, allebei, alles, beide, d'r, da, dat, datgene, degene, deze, die, diegene, dien, dit, een, elk, elkaar, enig, enkele, er, ge, geen, gij, ginds, haar, haarzelf, hare, hem, hemzelf, hen, het, hetgeen, hetgene, hij, hijzelf, hun, ieder, iedereen, iemand, iets, ik, je, jezelf, jij, jou, jullie, m'n, me, meerdere, men, mezelf, mij, mijn, minder, niemand, niets, niks, ons, onszelf, sommig, u, uw, veel, wat, we, weinig, welk, wie, wij, ze, zich, zichzelf, zij, zijn, zijzelf, zo'n, zoiets, zulk</li>
 </ul>
 
 <ul>
-<li>This corpus contains 46 lemmas tagged as determiners (DET): 's, al, allerlei, anderhalf, andermans, beide, dat, datzelfde, de, den, der, des, deze, dezelfde, die, dien, diezelfde, dit, een, eenzelfde, elk, elkaar, enig, enkel, enkele, ettelijk, geen, het, hetzelfde, ieder, meerdere, menig, mijne, minder, niemand, onvoldoende, sommig, teveel, veel, voldoende, wat, weinig, welk, wie, zo'n, zulk</li>
+<li>This corpus contains 92 lemmas tagged as determiners (DET): 's, 1/2, 1/3, 1/4, 1000, 2, 2.392, 20.000, 22,1, 2500, 33, 37,7, 47, 5.001, 5000, 8, 9.000, al, allerlei, anderhalf, andermans, beide, bijna, ca., dat, datzelfde, de, den, der, des, deze, dezelfde, die, dien, diezelfde, dit, een, eenzelfde, elk, elkaar, enig, enkel, enkele, ettelijk, geen, genoeg, haar, helemaal, het, hetzelfde, hoe, hun, ieder, je, juist, maar, meerdere, menig, mijn, mijne, min, minder, net, niemand, niet, nog, nogal, ons, onvoldoende, reeds, slechts, sommig, steeds, te, teveel, uw, veel, voldoende, vrijwel, wat, weinig, wel, welhaast, welk, wie, x, zeer, zijn, zijn/haar, zo, zo'n, zulk</li>
 </ul>
 
 <ul>
-<li>Out of the above, 27 lemmas occurred sometimes as PRON and sometimes as DET: al, beide, dat, deze, die, dien, dit, een, elk, elkaar, enig, enkele, geen, het, ieder, meerdere, minder, niemand, sommig, teveel, veel, wat, weinig, welk, wie, zo'n, zulk</li>
+<li>Out of the above, 33 lemmas occurred sometimes as PRON and sometimes as DET: al, beide, dat, deze, die, dien, dit, een, elk, elkaar, enig, enkele, geen, haar, het, hun, ieder, je, meerdere, mijn, minder, niemand, ons, sommig, uw, veel, wat, weinig, welk, wie, zijn, zo'n, zulk</li>
 </ul>
 
 <ul>
-<li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): blijken, blijven, hebben, heten, hoeven, krijgen, kunnen, lijken, moeten, mogen, schijnen, worden, zijn, zullen</li>
+<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): hebben, krijgen, kunnen, moeten, mogen, worden, zijn, zullen</li>
 </ul>
 
 <ul>
-<li>Out of the above, 14 lemmas occurred sometimes as AUX and sometimes as VERB: blijken, blijven, hebben, heten, hoeven, krijgen, kunnen, lijken, moeten, mogen, schijnen, worden, zijn, zullen</li>
+<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: hebben, krijgen, kunnen, moeten, mogen, worden, zijn, zullen</li>
 </ul>
 
 <ul>
@@ -140,8 +140,8 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: is, was, heeft, werd, wordt, zijn, zal, zou, kan, hebben</li>
-    <li>VERB: heeft, komt, wil, is, gaat, zei, kwam, noemt, ligt, hebben</li>
+    <li>AUX: is, was, heeft, zijn, werd, wordt, zal, zou, kan, hebben</li>
+    <li>VERB: heeft, komt, heet, wil, is, gaat, zei, kwam, noemt, ligt</li>
   </ul>
   </li>
 </ul>
@@ -149,8 +149,8 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: worden, zijn, kunnen, moeten, hebben, blijven, zullen, mogen, hoeven, krijgen</li>
-    <li>VERB: komen, gaan, maken, zien, doen, nemen, laten, zeggen, geven, brengen</li>
+    <li>AUX: worden, zijn, kunnen, moeten, hebben, zullen, mogen, krijgen</li>
+    <li>VERB: komen, gaan, maken, zien, doen, nemen, laten, zeggen, worden, geven</li>
   </ul>
   </li>
 </ul>
@@ -158,8 +158,8 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>Part
   <ul>
-    <li>AUX: geweest, geworden, gebleven, gebleken, gekregen, zijnde, gehad</li>
-    <li>VERB: gemaakt, gehouden, genoemd, genomen, gedaan, afgelopen, gegeven, gekomen, gezien, gesteld</li>
+    <li>AUX: geweest, gekregen, zijnde, gehad, geworden</li>
+    <li>VERB: gemaakt, gehouden, genoemd, genomen, gedaan, afgelopen, gegeven, gekomen, geworden, gezien</li>
   </ul>
   </li>
 </ul>
@@ -184,7 +184,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
   <li>Com,Neut
     <ul>
       <li>NOUN: soort, boord, keer, paar, subsidie, opium, punt, accordeon, affiche, aperitief</li>
-      <li>PROPN: Estonia, Financien, ARJOS, Beernink, Eeg, IOS, Munchen, SAR, VHO, Van</li>
+      <li>PROPN: Estonia, Financien, ARJOS, Beernink, Eeg, IOS, Munchen, SAR, VHO, Beerda</li>
     </ul>
   </li>
 </ul>
@@ -217,10 +217,10 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>Sing
     <ul>
-      <li>AUX-Fin: is, was, heeft, werd, wordt, zal, zou, kan, moet, heet</li>
+      <li>AUX-Fin: is, was, heeft, werd, wordt, zal, zou, kan, moet, had</li>
       <li>NOUN: jaar, land, heer, plaats, tijd, minister, flo, uur, stad, man</li>
       <li>PROPN: Nederland, Amsterdam, zaterdag, Groningen, Rotterdam, Europa, Engeland, januari, zondag, JGZ</li>
-      <li>VERB-Fin: heeft, komt, wil, is, gaat, zei, kwam, noemt, ligt, staat</li>
+      <li>VERB-Fin: heeft, komt, heet, wil, is, gaat, zei, kwam, noemt, ligt</li>
     </ul>
   </li>
 </ul>
@@ -292,7 +292,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: verder, beter, later, jongeren, langer, groter, grotere, hoger, vroeger, vroegere</li>
+      <li>ADJ: verder, later, beter, jongeren, langer, groter, grotere, hoger, vroeger, ouder</li>
     </ul>
   </li>
 </ul>
@@ -328,7 +328,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
   <li>Past
     <ul>
       <li>AUX-Fin: was, werd, zou, had, waren, werden, kon, zouden, moest, hadden</li>
-      <li>VERB-Fin: zei, kwam, had, was, vond, kreeg, vroeg, maakte, won, ging</li>
+      <li>VERB-Fin: zei, kwam, had, werd, was, vond, kreeg, vroeg, maakte, won</li>
     </ul>
   </li>
 </ul>
@@ -336,8 +336,8 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: is, heeft, wordt, zijn, zal, kan, hebben, moet, heet, heb</li>
-      <li>VERB-Fin: heeft, komt, wil, is, gaat, noemt, ligt, hebben, zijn, staat</li>
+      <li>AUX-Fin: is, heeft, zijn, wordt, zal, kan, hebben, moet, heb, worden</li>
+      <li>VERB-Fin: heeft, komt, heet, wil, is, gaat, noemt, ligt, hebben, zijn</li>
     </ul>
   </li>
 </ul>
@@ -354,7 +354,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: dat, dit, die, er, deze, zo'n, degenen, datgene, degene, zulke</li>
+      <li>PRON: dat, dit, er, die, deze, zo'n, degenen, datgene, degene, d'r</li>
     </ul>
   </li>
 </ul>
@@ -362,7 +362,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: meer, veel, iets, niets, wat, alles, minder, weinig, al, enige</li>
+      <li>PRON: meer, iets, niets, veel, alles, wat, enige, minder, iedereen, weinig</li>
     </ul>
   </li>
 </ul>
@@ -400,6 +400,17 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 </ul>
 
 
+<ul>
+  <li><a>Poss</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: zijn, hun, haar, mijn, onze, ons, je, uw, z'n, m'n</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Reflex</a></li>
@@ -464,7 +475,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
     <ul>
       <li>Yes
         <ul>
-          <li>X: fancy, a, the, and, front, to, National, be, fiction, flo</li>
+          <li>X: fancy, the, a, and, front, to, National, be, fiction, flo</li>
         </ul>
       </li>
     </ul>
@@ -476,11 +487,11 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 7 lemmas as copulas (<a>cop</a>). Examples: zijn, worden, heten, blijven, lijken, blijken, schijnen.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: zijn.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, zullen, zijn, kunnen, moeten, mogen, blijken, hoeven.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, zullen, zijn, kunnen, moeten, mogen.</li>
 <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: worden, zijn, krijgen.</li>
 </ul>
 
@@ -490,19 +501,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3467)</li>
+      <li>VERB-Fin--NOUN (3847)</li>
       <li>VERB-Fin--NOUN-ADP(op) (1)</li>
-      <li>VERB-Fin--PRON (1687)</li>
+      <li>VERB-Fin--PRON (1786)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Nom (2576)</li>
-      <li>VERB-Inf--NOUN (604)</li>
-      <li>VERB-Inf--PRON (303)</li>
+      <li>VERB-Fin--PRON-Nom (2627)</li>
+      <li>VERB-Inf--NOUN (601)</li>
+      <li>VERB-Inf--PRON (311)</li>
       <li>VERB-Inf--PRON-Acc (2)</li>
       <li>VERB-Inf--PRON-Nom (551)</li>
-      <li>VERB-Part--NOUN (811)</li>
-      <li>VERB-Part--PRON (275)</li>
+      <li>VERB-Part--NOUN (818)</li>
+      <li>VERB-Part--PRON (283)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Nom (511)</li>
+      <li>VERB-Part--PRON-Nom (510)</li>
     </ul>
   </li>
 </ul>
@@ -515,12 +526,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (520)</li>
       <li>VERB-Fin--PRON-Acc (209)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN (1438)</li>
+      <li>VERB-Inf--NOUN (1437)</li>
       <li>VERB-Inf--NOUN-ADP(voor) (1)</li>
       <li>VERB-Inf--PRON (266)</li>
       <li>VERB-Inf--PRON-Acc (102)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (715)</li>
+      <li>VERB-Part--NOUN (717)</li>
       <li>VERB-Part--PRON (182)</li>
       <li>VERB-Part--PRON-Acc (47)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
@@ -531,11 +542,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (66)</li>
+      <li>VERB-Fin--NOUN (68)</li>
       <li>VERB-Fin--NOUN-ADP(aan) (1)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-ADP(aan) (1)</li>
-      <li>VERB-Fin--PRON-Acc (146)</li>
+      <li>VERB-Fin--PRON-Acc (169)</li>
       <li>VERB-Fin--PRON-Nom (6)</li>
       <li>VERB-Inf--NOUN (45)</li>
       <li>VERB-Inf--NOUN-ADP(aan) (1)</li>
@@ -543,11 +554,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-ADP(aan) (1)</li>
       <li>VERB-Inf--PRON-Acc (41)</li>
       <li>VERB-Inf--PRON-Nom (5)</li>
-      <li>VERB-Part--NOUN (50)</li>
+      <li>VERB-Part--NOUN (51)</li>
       <li>VERB-Part--NOUN-ADP(aan) (2)</li>
       <li>VERB-Part--PRON (3)</li>
       <li>VERB-Part--PRON-ADP(aan) (2)</li>
-      <li>VERB-Part--PRON-Acc (55)</li>
+      <li>VERB-Part--PRON-Acc (56)</li>
       <li>VERB-Part--PRON-Nom (5)</li>
     </ul>
   </li>

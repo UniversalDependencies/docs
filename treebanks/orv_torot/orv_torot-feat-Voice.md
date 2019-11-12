@@ -12,17 +12,17 @@ It occurs with 2 different values: `Act`, `Pass`.
 28306 tokens (19%) have a non-empty value of `Voice`.
 11569 types (36%) occur at least once with a non-empty value of `Voice`.
 2616 lemmas (29%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (25045; 17% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (3261; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (25046; 17% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (3260; 2% instances).
 
 ### `VERB`
 
-25045 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
+25046 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (17804; 71%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17803; 71%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17803; 71%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15476; 62%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14408; 58%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14273; 57%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14027; 56%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13191; 53%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (17804; 71%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17803; 71%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17803; 71%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15476; 62%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14408; 58%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14274; 57%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14028; 56%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13192; 53%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (24067; 96% of non-empty `Voice`): <em>реч, приде, иде, посла, повелѣ, поиде, придоша, престави, нача, рѣша</em>
+* `Act` (24068; 96% of non-empty `Voice`): <em>реч, приде, иде, посла, повелѣ, поиде, придоша, престави, нача, рѣша</em>
 * `Pass` (978; 4% of non-empty `Voice`): <em>поставленъ, положенъ, послании, заложена, побѣженъ, любимъ, побѣжени, положена, казними, оубьенъ</em>
 * `EMPTY` (121): <em>нѣтъ, нѣту, битъ, кнѧжитъ, нѣтуть, нѣтѹ, ставитъ, искатъ, воеватъ, посадницитъ</em>
 
@@ -77,13 +77,13 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-3261 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
+3260 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2780; 85%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2780; 85%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2780; 85%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2683; 82%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2638; 81%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2497; 77%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (2171; 67%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1740; 53%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2780; 85%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2780; 85%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2780; 85%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2683; 82%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2638; 81%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2496; 77%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (2171; 67%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1739; 53%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (3261; 100% of non-empty `Voice`): <em>бѣ, быс, есть, ѥсть, будеть, бѧше, суть, бы, быти, бꙑс҃</em>
+* `Act` (3260; 100% of non-empty `Voice`): <em>бѣ, быс, есть, ѥсть, будеть, бѧше, суть, бы, быти, бꙑс҃</em>
 
 ## Relations with Agreement in `Voice`
 
@@ -91,7 +91,7 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="orv_torot-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3978; 93%),
 <tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (2448; 98%),
 <tt>VERB --[<tt><a href="orv_torot-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1429; 97%),
-<tt>VERB --[<tt><a href="orv_torot-dep-aux.html">aux</a></tt>]--> AUX</tt> (709; 100%),
+<tt>VERB --[<tt><a href="orv_torot-dep-aux.html">aux</a></tt>]--> AUX</tt> (708; 100%),
 <tt>VERB --[<tt><a href="orv_torot-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (289; 92%),
 <tt>VERB --[<tt><a href="orv_torot-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (218; 94%),
 <tt>VERB --[<tt><a href="orv_torot-dep-obj.html">obj</a></tt>]--> VERB</tt> (87; 85%),

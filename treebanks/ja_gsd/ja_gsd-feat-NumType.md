@@ -9,18 +9,18 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Card`.
 
-4347 tokens (2%) have a non-empty value of `NumType`.
+4346 tokens (2%) have a non-empty value of `NumType`.
 715 types (3%) occur at least once with a non-empty value of `NumType`.
 715 lemmas (3%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (4347; 2% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (4346; 2% instances).
 
 ### `NUM`
 
-4347 <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+4346 <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (4347; 100% of non-empty `NumType`): 1, 2, 3, 4, 一, 5, 10, 6, 二, 7
+* `Card` (4346; 100% of non-empty `NumType`): 1, 2, 3, 4, 一, 5, 10, 6, 二, 7
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (715) occur only with one value of `NumType`.
 

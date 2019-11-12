@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="f
 # visual-style 12	fgColor:white
 # visual-style 12 10 cc	color:blue
 1	Qui	qui	PRON	_	PronType=Int	3	nsubj	_	_
-2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	remporté	remporter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	Oscar	Oscar	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_

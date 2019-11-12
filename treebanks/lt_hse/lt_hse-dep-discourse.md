@@ -43,9 +43,9 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 19	smūgius	smūgis	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	16	obj	_	En=hit
 20	katastrofų	katastrofa	NOUN	NN	Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	En=catastrophy
 21	metu	metas	NOUN	NN	Case=Ins|Gender=Masc|Number=Sing	19	nmod	_	En=time|SpaceAfter=No
-22	,	,	PUNCT	PUNCT	_	12	punct	_	En=,
+22	,	,	PUNCT	PUNCT	_	16	punct	_	En=,
 23	juos	jie	PRON	PRP	Case=Acc|Number=Plur|Person=3	24	obj	_	En=he
-24	aptikti	aptikti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	19	acl	_	En=find
+24	aptikti	aptikti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	30	csubj	_	En=find
 25	jūros	jūra	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	En=sea
 26	dugne	dugnas	NOUN	NN	Case=Loc|Gender=Masc|Number=Sing	24	obl	_	En=bed
 27	neretai	neretai	ADV	RB	Degree=Pos|Polarity=Neg	30	advmod	_	En=frequently

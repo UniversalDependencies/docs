@@ -8,76 +8,68 @@ udver: '2'
 
 This relation is universal.
 
-22208 nodes (6%) are attached to their parents as `root`.
+22152 nodes (6%) are attached to their parents as `root`.
 
-22208 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.9807726945245.
+22152 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.98225893824485.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (18642; 84% instances), -<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (1539; 7% instances), -<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1453; 7% instances), -<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (181; 1% instances), -<tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (166; 1% instances), -<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (80; 0% instances), -<tt><a href="pl_pdb-pos-X.html">X</a></tt> (60; 0% instances), -<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (38; 0% instances), -<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (38; 0% instances), -<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="pl_pdb-pos-SYM.html">SYM</a></tt> (2; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (18616; 84% instances), -<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (1531; 7% instances), -<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1451; 7% instances), -<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (170; 1% instances), -<tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (164; 1% instances), -<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (79; 0% instances), -<tt><a href="pl_pdb-pos-X.html">X</a></tt> (61; 0% instances), -<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (38; 0% instances), -<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (29; 0% instances), -<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), -<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), -<tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="pl_pdb-pos-SYM.html">SYM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 5 root	color:blue
-1	Dziewczynka	dziewczynka	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
-2	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	4	case	4:case	Case=Ins
-3	mokrymi	mokry	ADJ	adj:pl:inst:m3:pos	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	4	amod	4:amod	_
-4	włosami	włos	NOUN	subst:pl:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
-5	stoi	stać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-6	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	7	case	7:case	Case=Loc
-7	wodzie	woda	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	5	obl	5:obl	_
-8	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	10	case	10:case	Case=Ins
-9	czarnym	czarny	ADJ	adj:sg:inst:n:pos	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	10	amod	10:amod	_
-10	kołem	koło	NOUN	subst:sg:inst:n:ncol	Case=Ins|Gender=Neut|Number=Sing	5	obl:arg	5:obl:arg	_
-11	do	do	ADP	prep:gen	AdpType=Prep	12	case	12:case	Case=Gen
-12	pływania	pływać	NOUN	ger:sg:gen:n:imperf:aff	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	10	nmod	10:nmod	SpaceAfter=No
-13	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	_
+# visual-style 0 2 root	color:blue
+1	Pies	pies	NOUN	subst:sg:nom:m2	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
+2	płynie	płynąć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	7	case	7:case	Case=Ins
+4	małą	mały	ADJ	adj:sg:inst:f:pos	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	7	amod	7:amod	SpaceAfter=No
+5	,	,	PUNCT	interp	PunctType=Comm	6	punct	6:punct	_
+6	żółtą	żółty	ADJ	adj:sg:inst:f:pos	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	conj	4:conj|7:amod	_
+7	piłką	piłka	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	2	obl:arg	2:obl:arg	_
+8	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Loc
+9	pysku	pysk	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	7:nmod	SpaceAfter=No
+10	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 8 root	color:blue
-1	Przy	przy	ADP	prep:loc	AdpType=Prep	2	case	2:case	Case=Loc
-2	ul	ulica	X	brev:pun	Abbr=Yes|Pun=Yes	8	nmod	8:nmod	SpaceAfter=No
-3	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
-4	Opolskiej	Opolski	ADJ	adj:sg:loc:f:pos	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	2	amod	2:amod	_
-5	i	i	CCONJ	conj	_	6	cc	6:cc	_
-6	Pstrowskiego	Pstrowski	PROPN	subst:sg:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing	4	conj	2:amod|4:conj	_
-7	zabytkowe	zabytkowy	ADJ	adj:pl:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	8	amod	8:amod	_
-8	piece	piec	NOUN	subst:pl:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
-9	wapiennicze	wapienniczy	ADJ	adj:pl:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	8	amod	8:amod	_
-10	z	z	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	12	case	12:case	Case=Gen
-11	XIX	XIX	ADJ	adj:sg:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Roman|NumType=Ord	12	amod	12:amod	_
-12	w	wiek	X	brev:pun	Abbr=Yes|Pun=Yes	8	nmod	8:nmod	SpaceAfter=No
-13	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	_
+# visual-style 0 6 root	color:blue
+1	Ta	ten	DET	adj:sg:nom:f:pos	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	2:det	_
+2	robota	robota	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	_
+3	na	na	ADP	prep:acc	AdpType=Prep	4	case	4:case	Case=Acc
+4	akord	akord	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	nmod	2:nmod	_
+5	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	6	cop	6:cop	_
+6	morderstwo	morderstwo	NOUN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 3 root	color:blue
-1	Sprawa	sprawa	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	3:nsubj|6:nsubj	_
-2	była	być	AUX	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
-3	efektowna	efektowny	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
-4	,	,	PUNCT	interp	PunctType=Comm	6	punct	6:punct	_
-5	ale	ale	CCONJ	conj	_	6	cc	6:cc	_
-6	pachniała	pachnieć	VERB	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	0:root|3:conj	_
-7	meliniarstwem	meliniarstwo	NOUN	subst:sg:inst:n:ncol	Case=Ins|Gender=Neut|Number=Sing	6	iobj	6:iobj	_
-8	na	na	ADP	prep:acc	AdpType=Prep	9	case	9:case	Case=Acc
-9	kilometr	kilometr	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	6:obl	SpaceAfter=No
-10	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	_
+# visual-style 0 4 root	color:blue
+1	Tutaj	tutaj	ADV	adv	PronType=Dem	4	advmod	4:advmod|7:advmod	_
+2	firma	firma	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	4:nsubj:pass|7:nsubj:pass	_
+3	została	zostać	AUX	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	4:aux:pass	_
+4	założona	założyć	ADJ	ppas:sg:nom:f:perf:aff	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	0:root	_
+5	i	i	CCONJ	conj	_	7	cc	7:cc	_
+6	najmocniej	mocno	ADV	adv:sup	Degree=Sup	7	advmod	7:advmod	_
+7	wrosła	wrosnąć	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	0:root|4:conj	_
+8	w	w	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Acc
+9	pejzaż	pejzaż	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl:arg	7:obl:arg	_
+10	społeczny	społeczny	ADJ	adj:sg:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	9:amod	SpaceAfter=No
+11	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
 

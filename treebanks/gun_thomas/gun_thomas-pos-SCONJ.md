@@ -13,14 +13,14 @@ The 10 most frequent `SCONJ` lemmas: <em>a, va'e, aguã, vy, ramo, gua, rire, ro
 
 The 10 most frequent `SCONJ` types:  <em>aguã, arã, va'e, vy, va'ekue, ramo, guarã, rire, a, ronguare</em>
 
-The 10 most frequent ambiguous lemmas: <em>ramo</em> (<tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="gun_thomas-pos-ADV.html">ADV</a></tt> 4), <em>rã</em> (<tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="gun_thomas-pos-PART.html">PART</a></tt> 1), <em>eve</em> (<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 2, <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 2), <em>jave</em> (<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 2, <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 1), <em>peve</em> (<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 2, <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 1), <em>porque</em> (<tt><a href="gun_thomas-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ramo</em> (<tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="gun_thomas-pos-PART.html">PART</a></tt> 4), <em>rã</em> (<tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="gun_thomas-pos-PART.html">PART</a></tt> 1), <em>eve</em> (<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 2, <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 2), <em>jave</em> (<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 2, <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 1), <em>peve</em> (<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 2, <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 1), <em>porque</em> (<tt><a href="gun_thomas-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ramo</em> (<tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="gun_thomas-pos-ADV.html">ADV</a></tt> 1), <em>rã</em> (<tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="gun_thomas-pos-PART.html">PART</a></tt> 1), <em>reve</em> (<tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 1), <em>jave</em> (<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 2, <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ramo'i</em> (<tt><a href="gun_thomas-pos-ADV.html">ADV</a></tt> 3, <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ramo</em> (<tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="gun_thomas-pos-PART.html">PART</a></tt> 1), <em>rã</em> (<tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="gun_thomas-pos-PART.html">PART</a></tt> 1), <em>reve</em> (<tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 1), <em>jave</em> (<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 2, <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ramo'i</em> (<tt><a href="gun_thomas-pos-PART.html">PART</a></tt> 3, <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>ramo</em>
   * <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 10: <em>Upei roju , kyrĩngue'i cheremiarirõ tuichapa'i ma <b>ramo</b> .</em>
-  * <tt><a href="gun_thomas-pos-ADV.html">ADV</a></tt> 1: <em>Jajapo tembiapo mi , agã guarã , agã , chee ha'a mi ma rire jepe cheremiarirõ'i kuery oja <b>ramo</b> ramo'i va'e pe guarã .</em>
+  * <tt><a href="gun_thomas-pos-PART.html">PART</a></tt> 1: <em>Jajapo tembiapo mi , agã guarã , agã , chee ha'a mi ma rire jepe cheremiarirõ'i kuery oja <b>ramo</b> ramo'i va'e pe guarã .</em>
 * <em>rã</em>
   * <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 3: <em>Mokoĩ ñevanga reko ma aỹ jareko ha'e jepi ichupe kuera ajeve <b>rã</b> mokoĩ teko , jaraa porã arã peteĩ jokota re porã peteĩcha jaraa porã arã , ñandereko , ñanerembiapo , ha'e .</em>
   * <tt><a href="gun_thomas-pos-PART.html">PART</a></tt> 1: <em>Ha'e'i ichyrã ou , ha'e neĩ <b>rã</b> teri oiko .</em>
@@ -31,12 +31,12 @@ The 10 most frequent ambiguous types:  <em>ramo</em> (<tt><a href="gun_thomas-po
   * <tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 2: <em>Peicha roiko , upei <b>jave</b> py , upe ronguare ou kuri peteĩ jurua kuery , jurua kuery ou peteĩ ara py ovaẽ kuri ko'ape .</em>
   * <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Ha'e che upecha vy ka'ay ha'u <b>jave</b> , cheayvu katu ichupe kuera .</em>
 * <em>ramo'i</em>
-  * <tt><a href="gun_thomas-pos-ADV.html">ADV</a></tt> 3: <em>Ha'e cheremiarirõ'i kuery oja <b>ramo'i</b> va'e pe guarã .</em>
+  * <tt><a href="gun_thomas-pos-PART.html">PART</a></tt> 3: <em>Ha'e cheremiarirõ'i kuery oja <b>ramo'i</b> va'e pe guarã .</em>
   * <tt><a href="gun_thomas-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Ha'e ore roju <b>ramo'i</b> ronguare ngo ko'ape , ka'aguy heta .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.444444 (the average of all parts of speech is 1.313725).
+The form / lemma ratio of `SCONJ` is 1.444444 (the average of all parts of speech is 1.311688).
 
 The 1st highest number of forms (5) was observed with the lemma “a”: <em>a, a'i, ague, ague'i, arã</em>.
 
@@ -53,13 +53,13 @@ The 3rd highest number of forms (2) was observed with the lemma “gua”: <em>g
 
 Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="gun_thomas-pos-VERB.html">VERB</a></tt> (99; 75% instances), <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt> (14; 11% instances), <tt><a href="gun_thomas-pos-ADV.html">ADV</a></tt> (10; 8% instances), <tt><a href="gun_thomas-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="gun_thomas-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="gun_thomas-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
 
-129 (98%) `SCONJ` nodes are leaves.
+131 (99%) `SCONJ` nodes are leaves.
 
-3 (2%) `SCONJ` nodes have one child.
+1 (1%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="gun_thomas-dep-fixed.html">fixed</a></tt> (3; 100% instances)
+Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="gun_thomas-dep-fixed.html">fixed</a></tt> (1; 100% instances)
 
-Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="gun_thomas-pos-ADV.html">ADV</a></tt> (3; 100% instances)
+Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="gun_thomas-pos-PART.html">PART</a></tt> (1; 100% instances)
 

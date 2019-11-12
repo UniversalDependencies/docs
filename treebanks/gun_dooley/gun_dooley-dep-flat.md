@@ -22,12 +22,12 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 flat	color:blue
-1	_	_	VERB	vi	Person[subj]=3|Subcat=Int	6	advcl	_	_
-2	_	_	ADV	adv	_	1	advmod	_	_
+1	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	6	advcl	_	_
+2	_	_	ADV	inact	_	1	advmod	_	_
 3	_	_	SCONJ	nmlzer	_	1	mark	_	_
 4	_	_	ADP	post	_	1	case	_	_
-5	_	_	PART	illocprt	_	1	advmod	_	_
-6	_	_	VERB	vt	Person[subj]=3|Subcat=Tran	0	root	_	_
+5	_	_	PART	illocprt	_	1	dep:mod	_	_
+6	_	_	VERB	vt	Mood=Ind|Person[subj]=3|Subcat=Tran|VerbForm=Fin	0	root	_	_
 7	_	_	PROPN	nprop	_	6	obj	_	_
 8	_	_	PROPN	nprop	_	7	flat	_	_
 9	_	_	PUNCT	punct	_	6	punct	_	_
@@ -42,24 +42,24 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 8 flat	color:blue
 1	_	_	PUNCT	punct	_	14	punct	_	_
-2	_	_	ADV	adv	_	14	advmod	_	_
-3	_	_	NOUN	n	_	4	nmod	_	_
-4	_	_	NOUN	n	_	2	obl	_	_
-5	_	_	SCONJ	subordconn	_	4	case	_	_
+2	_	_	PART	temprt	_	4	dep:mod	_	_
+3	_	_	VERB	n:pred	Mood=Ind|Subcat=Int|VerbForm=Vnoun	4	compound	_	_
+4	_	_	VERB	n:pred	Mood=Ind|Subcat=Int|VerbForm=Vnoun	11	advcl	_	_
+5	_	_	SCONJ	subordconn	_	4	mark	_	_
 6	_	_	PUNCT	punct	_	7	punct	_	_
 7	_	_	NOUN	n	_	11	parataxis:rep	_	_
 8	_	_	INTJ	onom	_	7	flat	_	_
 9	_	_	INTJ	onom	_	7	flat	_	_
 10	_	_	PUNCT	punct	_	7	punct	_	_
-11	oro'e	oro'e	VERB	vt	Subcat=Tran	14	advcl	_	say
+11	oro'e	oro'e	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	14	advcl	_	say
 12	_	_	SCONJ	rel	_	11	mark	_	_
-13	_	_	PART	discprt	_	11	advmod	_	_
-14	_	_	VERB	vi	Clusivity[subj]=Ex|Person[subj]=1|Subcat=Int	18	parataxis:rep	_	_
-15	_	_	PART	aspprt	_	14	advmod	_	_
-16	_	_	PART	tensprt	_	14	advmod	_	_
+13	_	_	PART	discprt	_	11	dep:mod	_	_
+14	_	_	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	18	parataxis:rep	_	_
+15	_	_	PART	aspprt	_	14	dep:mod	_	_
+16	_	_	PART	temprt	_	14	dep:mod	_	_
 17	_	_	PUNCT	punct	_	14	punct	_	_
-18	_	_	VERB	vt	Person[subj]=3|Subcat=Tran	0	root	_	_
-19	_	_	VERB	vs	Person=3|VerbForm=Ser	18	compound:svc	_	_
+18	_	_	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	0	root	_	_
+19	_	_	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	18	compound:svc	_	_
 20	_	_	PUNCT	punct	_	18	punct	_	_
 
 ~~~

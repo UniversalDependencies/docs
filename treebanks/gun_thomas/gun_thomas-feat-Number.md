@@ -34,12 +34,12 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 2 <tt><a href="gun_thomas-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="gun_thomas-feat-Clusivity.html">Clusivity</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="gun_thomas-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="gun_thomas-feat-Clusivity-psor.html">Clusivity[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="gun_thomas-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (2; 100% of non-empty `Number`): <em>kyrĩgue'i</em>
-* `EMPTY` (169): <em>jurua, ka'aguy, cheremiarirõ'i, opy, tembiapo, cheru, reko, avachi, guembe, rekoachy</em>
+* `EMPTY` (167): <em>jurua, ka'aguy, cheremiarirõ'i, opy, tembiapo, cheru, reko, avachi, guembe, rekoachy</em>
 
 ## Relations with Agreement in `Number`
 

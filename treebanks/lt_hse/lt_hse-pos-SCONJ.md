@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>kaip</em> (<tt><a href="lt_hse-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.947368 (the average of all parts of speech is 1.444778).
+The form / lemma ratio of `SCONJ` is 0.947368 (the average of all parts of speech is 1.442977).
 
 The 1st highest number of forms (1) was observed with the lemma “dėl”: <em>dėl</em>.
 
@@ -69,9 +69,9 @@ The 3rd highest number of forms (1) was observed with the lemma “jeigu”: <em
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="lt_hse-dep-mark.html">mark</a></tt> (127; 87% instances), <tt><a href="lt_hse-dep-case.html">case</a></tt> (11; 8% instances), <tt><a href="lt_hse-dep-advmod.html">advmod</a></tt> (4; 3% instances), <tt><a href="lt_hse-dep-fixed.html">fixed</a></tt> (3; 2% instances), <tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="lt_hse-dep-mark.html">mark</a></tt> (130; 89% instances), <tt><a href="lt_hse-dep-case.html">case</a></tt> (11; 8% instances), <tt><a href="lt_hse-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="lt_hse-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (88; 60% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (29; 20% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (14; 10% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (6; 4% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (1; 1% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (88; 60% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (30; 21% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (14; 10% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (1; 1% instances)
 
 128 (88%) `SCONJ` nodes are leaves.
 

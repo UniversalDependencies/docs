@@ -6,14 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-GSD: Relations: `expl:pass`
 
-This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-expl.html">expl</a></tt>.
+This relation is a language-specific subtype of .
+There are also 2 other language-specific subtypes of `expl`: <tt><a href="fr_gsd-dep-expl-comp.html">expl:comp</a></tt>, <tt><a href="fr_gsd-dep-expl-subj.html">expl:subj</a></tt>.
 
-768 nodes (0%) are attached to their parents as `expl:pass`.
+760 nodes (0%) are attached to their parents as `expl:pass`.
 
-768 instances of `expl:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13020833333333.
+760 instances of `expl:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13157894736842.
 
-The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (768; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (760; 100% instances).
 
 
 ~~~ conllu

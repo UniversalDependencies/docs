@@ -29,7 +29,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 5	AKP	_	PROPN	NNP	Number=Sing	2	nmod	_	_
 6	se	_	PRON	PRP	Gender=Masc|Number=Plur|Person=3	7	obj	_	_
 7	servent	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
-8	aujourd	_	ADV	RB	_	7	obl:tmod	_	_
+8	aujourd	_	ADV	RB	_	7	obl:mod	_	_
 9	hui	_	X	GW	_	8	goeswith	_	_
 10	de	_	ADP	IN	_	12	case	_	_
 11	ce	_	DET	DT	Gender=Masc|Number=Sing	12	det	_	_
@@ -108,7 +108,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 14	ème	_	X	GW	_	13	goeswith	_	_
 15	siècle	_	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 16	,	_	PUNCT	,	_	10	punct	_	_
-17	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	aux	_	_
+17	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	aux:tense	_	_
 18	été	_	AUX	VBN	Gender=Masc|Number=Sing	19	aux:pass	_	_
 19	remis	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 20	en	_	ADP	IN	_	21	case	_	_

@@ -162,9 +162,9 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="fr_fqb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (768; 72%),
 <tt>ADJ --[<tt><a href="fr_fqb-dep-cop.html">cop</a></tt>]--> AUX</tt> (545; 100%),
 <tt>ADJ --[<tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (499; 95%),
-<tt>VERB --[<tt><a href="fr_fqb-dep-aux.html">aux</a></tt>]--> AUX</tt> (443; 89%),
+<tt>VERB --[<tt><a href="fr_fqb-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (443; 89%),
 <tt>VERB --[<tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (394; 87%),
 <tt>VERB --[<tt><a href="fr_fqb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (311; 53%),
-<tt>VERB --[<tt><a href="fr_fqb-dep-expl.html">expl</a></tt>]--> PRON</tt> (294; 60%),
+<tt>VERB --[<tt><a href="fr_fqb-dep-expl-subj.html">expl:subj</a></tt>]--> PRON</tt> (294; 93%),
 <tt>VERB --[<tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (248; 58%).
 

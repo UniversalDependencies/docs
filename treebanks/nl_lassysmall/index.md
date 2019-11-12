@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Gosse Bouma, Gertjan van Noord.
 
 Repository: [UD_Dutch-LassySmall](https://github.com/UniversalDependencies/UD_Dutch-LassySmall)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_lassysmall22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_lassysmall25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 4.0
 
@@ -66,7 +66,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 
 ## Features
 
-[Abbr](nl_lassysmall-feat-Abbr.html) – [Case](nl_lassysmall-feat-Case.html) – [Definite](nl_lassysmall-feat-Definite.html) – [Degree](nl_lassysmall-feat-Degree.html) – [Foreign](nl_lassysmall-feat-Foreign.html) – [Gender](nl_lassysmall-feat-Gender.html) – [Number](nl_lassysmall-feat-Number.html) – [Person](nl_lassysmall-feat-Person.html) – [PronType](nl_lassysmall-feat-PronType.html) – [Reflex](nl_lassysmall-feat-Reflex.html) – [Tense](nl_lassysmall-feat-Tense.html) – [VerbForm](nl_lassysmall-feat-VerbForm.html)
+[Abbr](nl_lassysmall-feat-Abbr.html) – [Case](nl_lassysmall-feat-Case.html) – [Definite](nl_lassysmall-feat-Definite.html) – [Degree](nl_lassysmall-feat-Degree.html) – [Foreign](nl_lassysmall-feat-Foreign.html) – [Gender](nl_lassysmall-feat-Gender.html) – [Number](nl_lassysmall-feat-Number.html) – [Person](nl_lassysmall-feat-Person.html) – [Poss](nl_lassysmall-feat-Poss.html) – [PronType](nl_lassysmall-feat-PronType.html) – [Reflex](nl_lassysmall-feat-Reflex.html) – [Tense](nl_lassysmall-feat-Tense.html) – [VerbForm](nl_lassysmall-feat-VerbForm.html)
 
 ## Relations
 
@@ -76,11 +76,11 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 
 
 <ul>
-<li>This corpus contains 7341 sentences and 98107 tokens.</li>
+<li>This corpus contains 7338 sentences and 98033 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 13704 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 12703 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -88,7 +88,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 </ul>
 
 <ul>
-<li>This corpus contains 971 types of words that contain both letters and punctuation. Examples: Sint-Niklaas, CD&V, sp.a, N-VA, Vlaams-Brabant, Henin-Hardenne, ca., o.a., 't, Oost-Vlaanderen, kabinet-Van, Parijs-Roubaix, West-Vlaanderen, Waals-Brabant, kabinet-Kok, zo'n, minister-president, Oostenrijk-Este, mr., nr., programma's, v.Chr., B​r​u​s​s​e​l​-​H​a​l​l​e​-​V​i​l​v​o​o​r​d​e, Nieuw-Vlaamse, Pandy's, Saksen-Coburg-Gotha, V​l​a​a​m​s​-​n​a​t​i​o​n​a​l​i​s​t​i​s​c​h​e, links-liberale, kabinet-Balkenende, vice-premier, 's, F.C., Jean-Marie, Vandersteen's, Vlaams-Nationaal, kabinet-Den, rooms-katholieke, thema's, C​h​r​i​s​t​e​n​-​D​e​m​o​c​r​a​t​i​s​c​h, I-City, Jean-Luc, Noord-Brabant, Noord-Frankrijk, Sint-Katelijne-Waver, WTA-toernooi, auto's, b., e., en/of, g.</li>
+<li>This corpus contains 970 types of words that contain both letters and punctuation. Examples: Sint-Niklaas, CD&V, sp.a, N-VA, Vlaams-Brabant, Henin-Hardenne, ca., o.a., 't, Oost-Vlaanderen, kabinet-Van, Parijs-Roubaix, West-Vlaanderen, Waals-Brabant, kabinet-Kok, zo'n, minister-president, Oostenrijk-Este, mr., nr., programma's, v.Chr., B​r​u​s​s​e​l​-​H​a​l​l​e​-​V​i​l​v​o​o​r​d​e, Nieuw-Vlaamse, Pandy's, Saksen-Coburg-Gotha, V​l​a​a​m​s​-​n​a​t​i​o​n​a​l​i​s​t​i​s​c​h​e, links-liberale, kabinet-Balkenende, vice-premier, 's, F.C., Jean-Marie, Vandersteen's, Vlaams-Nationaal, kabinet-Den, rooms-katholieke, thema's, C​h​r​i​s​t​e​n​-​D​e​m​o​c​r​a​t​i​s​c​h, I-City, Jean-Luc, Noord-Brabant, Noord-Frankrijk, Sint-Katelijne-Waver, WTA-toernooi, auto's, b., e., en/of, g.</li>
 </ul>
 
 <ul>
@@ -107,23 +107,23 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 </ul>
 
 <ul>
-<li>This corpus contains 57 lemmas tagged as pronouns (PRON): al, alles, beide, dat, degene, deze, die, dit, elk, elkaar, enig, enkel, geen, haar, hem, hemzelf, hen, het, hetgeen, hetwelk, hij, hun, ieder, iedereen, iemand, iets, ik, je, jij, me, meer, mekaar, men, mij, mijn, minder, niemand, niets, ons, sommig, teveel, u, uw, veel, wat, we, weinig, welk, wie, wij, ze, zich, zichzelf, zij, zijn, zijzelf, zo'n</li>
+<li>This corpus contains 55 lemmas tagged as pronouns (PRON): al, alles, beide, dat, degene, deze, die, dit, elk, elkaar, enig, enkel, er, geen, haar, hem, hemzelf, hen, het, hetgeen, hetwelk, hij, hun, ieder, iedereen, iemand, iets, ik, je, jij, me, mekaar, men, mij, mijn, minder, niemand, niets, ons, sommig, u, uw, veel, wat, we, weinig, welk, wie, wij, ze, zich, zichzelf, zij, zijn, zijzelf</li>
 </ul>
 
 <ul>
-<li>This corpus contains 26 lemmas tagged as determiners (DET): 't, al, beide, dat, de, der, deze, die, dit, een, elk, enig, enkel, geen, het, ieder, meerdere, menig, sommig, veel, wat, weinig, welk, wie, zo'n, zulk</li>
+<li>This corpus contains 60 lemmas tagged as determiners (DET): 't, +11,77, +46,29, +52,93, +64,68, 1/2, 1/4, 1/8, 26%, 3×, al, allerlei, anderhalf, beide, ca, dat, datzelfde, de, der, deze, dezelfde, die, diezelfde, dit, een, elk, enig, enkel, ettelijk, geen, haar, haast, het, hetzelfde, ieder, meerdere, menig, net, niet, nog, nogal, ongeveer, onvoldoende, sommig, steeds, te, tweederde, veel, voldoende, vrijwel, wat, weinig, wel, welk, wie, zeer, zijn, zo'n, zowat, zulk</li>
 </ul>
 
 <ul>
-<li>Out of the above, 19 lemmas occurred sometimes as PRON and sometimes as DET: al, beide, dat, deze, die, dit, elk, enig, enkel, geen, het, ieder, sommig, veel, wat, weinig, welk, wie, zo'n</li>
+<li>Out of the above, 20 lemmas occurred sometimes as PRON and sometimes as DET: al, beide, dat, deze, die, dit, elk, enig, enkel, geen, haar, het, ieder, sommig, veel, wat, weinig, welk, wie, zijn</li>
 </ul>
 
 <ul>
-<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): blijken, blijven, hebben, heten, hoeven, kunnen, lijken, moeten, mogen, worden, zijn, zullen</li>
+<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): hebben, kunnen, moeten, mogen, worden, zijn, zullen</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: blijken, blijven, hebben, kunnen, lijken, moeten, worden, zijn</li>
+<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: hebben, kunnen, moeten, worden, zijn</li>
 </ul>
 
 <ul>
@@ -133,8 +133,8 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: is, werd, was, wordt, zijn, werden, worden, waren, zou, kan</li>
-    <li>VERB: zie, heeft, kwam, is, zijn, komt, telt, staat, was, wint</li>
+    <li>AUX: is, werd, was, wordt, zijn, werden, waren, worden, zou, kan</li>
+    <li>VERB: werd, zie, heeft, kwam, is, zijn, komt, telt, staat, was</li>
   </ul>
   </li>
 </ul>
@@ -142,8 +142,8 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: worden, zijn, kunnen, hebben, moeten, blijven, heten, mogen, zullen</li>
-    <li>VERB: maken, gaan, laten, tekenen, geven, houden, zien, nemen, hebben, komen</li>
+    <li>AUX: worden, zijn, kunnen, hebben, moeten, mogen, zullen</li>
+    <li>VERB: worden, maken, gaan, laten, tekenen, geven, houden, zien, nemen, hebben</li>
   </ul>
   </li>
 </ul>
@@ -151,8 +151,8 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 <ul>
   <li>Part
   <ul>
-    <li>AUX: geworden, geweest, gebleven, zijnde, geheten</li>
-    <li>VERB: genoemd, volgende, opgericht, gemaakt, gebruikt, gekozen, gelegen, verkozen, bestaande, geboren</li>
+    <li>AUX: geweest, zijnde</li>
+    <li>VERB: genoemd, volgende, opgericht, gemaakt, gebruikt, geworden, gekozen, gelegen, verkozen, bestaande</li>
   </ul>
   </li>
 </ul>
@@ -168,7 +168,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
   <li>Com
     <ul>
       <li>NOUN: partij, stad, eeuw, naam, regering, koning, finale, provincie, politie, reeks</li>
-      <li>PROPN: juni, oktober, Ensor, Vandersteen, Kuifje, VLD, CVP, D66, november, Napoleon</li>
+      <li>PROPN: juni, oktober, Ensor, Vandersteen, Kuifje, VLD, CVP, november, D66, Napoleon</li>
     </ul>
   </li>
 </ul>
@@ -199,7 +199,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 <ul>
   <li>Plur
     <ul>
-      <li>AUX-Fin: zijn, werden, worden, waren, hebben, kunnen, hadden, moeten, zouden, moesten</li>
+      <li>AUX-Fin: zijn, werden, waren, worden, hebben, kunnen, hadden, moeten, zouden, moesten</li>
       <li>NOUN: jaren, verkiezingen, gemeenten, partijen, inwoners, leden, links, zetels, verhalen, provincies</li>
       <li>PROPN: Belgen, Nederlanden, Fransen, Vlamingen, Pruisen, Kempen, grenslandhallen, Ardennen, Brusselaars, Middeleeuwen</li>
       <li>VERB-Fin: zijn, hebben, kwamen, staan, vormen, verschenen, hadden, gaan, komen, bestaan</li>
@@ -213,7 +213,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
       <li>AUX-Fin: is, werd, was, wordt, zou, kan, had, heeft, kon, moest</li>
       <li>NOUN: partij, jaar, stad, eeuw, naam, regering, koning, finale, deel, provincie</li>
       <li>PROPN: België, Brussel, Antwerpen, Vlaanderen, Hasselt, Nederland, Bel, juni, oktober, Vandersteen</li>
-      <li>VERB-Fin: zie, heeft, kwam, is, komt, telt, staat, was, wint, had</li>
+      <li>VERB-Fin: werd, zie, heeft, kwam, is, komt, telt, staat, was, wint</li>
     </ul>
   </li>
 </ul>
@@ -305,7 +305,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
   <li>Past
     <ul>
       <li>AUX-Fin: werd, was, werden, waren, zou, had, kon, moest, hadden, zouden</li>
-      <li>VERB-Fin: kwam, was, had, ontstond, kreeg, ging, nam, maakte, bleef, zorgde</li>
+      <li>VERB-Fin: werd, kwam, was, had, ontstond, kreeg, ging, bleef, nam, maakte</li>
     </ul>
   </li>
 </ul>
@@ -331,7 +331,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: deze, dit, dat, die, zo'n, degenen, degene</li>
+      <li>PRON: deze, dit, dat, die, er, degenen</li>
     </ul>
   </li>
 </ul>
@@ -339,7 +339,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: meer, vele, veel, meeste, enige, minder, meest, alle, weinig, alles</li>
+      <li>PRON: meer, enige, veel, alles, elk, minder, weinig, velen, allen, iedereen</li>
     </ul>
   </li>
 </ul>
@@ -377,6 +377,17 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 </ul>
 
 
+<ul>
+  <li><a>Poss</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: zijn, haar, hun, mijn, Hare, Zijne, ons, onze, z'n, uw</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Reflex</a></li>
@@ -453,11 +464,11 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: zijn, worden, blijven, heten, blijken, lijken.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: zijn.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, zijn, kunnen, zullen, moeten, mogen, blijken, hoeven.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, zijn, kunnen, zullen, moeten, mogen.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: worden, zijn.</li>
 </ul>
 
@@ -467,15 +478,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1316)</li>
-      <li>VERB-Fin--PRON (624)</li>
-      <li>VERB-Fin--PRON-Nom (397)</li>
-      <li>VERB-Inf--NOUN (98)</li>
-      <li>VERB-Inf--PRON (56)</li>
-      <li>VERB-Inf--PRON-Nom (55)</li>
-      <li>VERB-Part--NOUN (105)</li>
-      <li>VERB-Part--PRON (52)</li>
-      <li>VERB-Part--PRON-Nom (32)</li>
+      <li>VERB-Fin--NOUN (1384)</li>
+      <li>VERB-Fin--PRON (656)</li>
+      <li>VERB-Fin--PRON-Nom (417)</li>
+      <li>VERB-Inf--NOUN (101)</li>
+      <li>VERB-Inf--PRON (59)</li>
+      <li>VERB-Inf--PRON-Nom (59)</li>
+      <li>VERB-Part--NOUN (98)</li>
+      <li>VERB-Part--PRON (56)</li>
+      <li>VERB-Part--PRON-Nom (34)</li>
     </ul>
   </li>
 </ul>
@@ -483,14 +494,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1165)</li>
+      <li>VERB-Fin--NOUN (1166)</li>
       <li>VERB-Fin--PRON (85)</li>
       <li>VERB-Fin--PRON-Acc (50)</li>
-      <li>VERB-Inf--NOUN (358)</li>
+      <li>VERB-Inf--NOUN (359)</li>
       <li>VERB-Inf--PRON (26)</li>
       <li>VERB-Inf--PRON-Acc (43)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (73)</li>
+      <li>VERB-Part--NOUN (74)</li>
       <li>VERB-Part--PRON (11)</li>
       <li>VERB-Part--PRON-Acc (3)</li>
     </ul>

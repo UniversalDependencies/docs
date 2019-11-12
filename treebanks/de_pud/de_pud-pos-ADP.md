@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>zu</em> (<tt><a href="de_pud-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.016129 (the average of all parts of speech is 1.195606).
+The form / lemma ratio of `ADP` is 1.016129 (the average of all parts of speech is 1.195571).
 
 The 1st highest number of forms (2) was observed with the lemma “von”: <em>v., von</em>.
 
@@ -76,7 +76,7 @@ Examples: <em>in, von, zu, mit, für, an, auf, nach, bei, über</em>
 
 `ADP` nodes are attached to their parents using 4 different relations: <tt><a href="de_pud-dep-case.html">case</a></tt> (2039; 100% instances), <tt><a href="de_pud-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-flat.html">flat</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (1572; 77% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (340; 17% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (60; 3% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (31; 2% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="de_pud-pos-SYM.html">SYM</a></tt> (12; 1% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (1562; 76% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (340; 17% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (60; 3% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (31; 2% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="de_pud-pos-SYM.html">SYM</a></tt> (12; 1% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
 2036 (100%) `ADP` nodes are leaves.
 

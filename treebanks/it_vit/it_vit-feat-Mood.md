@@ -25,7 +25,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `Cnd` (369; 5% of non-empty `Mood`): <em>potrebbe, sarebbe, dovrebbe, avrebbe, potrebbero, sarebbero, dovrebbero, avrebbero, avrei, vorrebbe</em>
 * `Ind` (7553; 93% of non-empty `Mood`): <em>è, ha, sono, hanno, era, sarà, deve, può, sia, aveva</em>
 * `Sub` (173; 2% of non-empty `Mood`): <em>fosse, abbia, abbiano, fossero, avesse, dovesse, dovessero, potesse, avessero, sia</em>
-* `EMPTY` (1325): <em>essere, stato, stata, stati, aver, state, potuto, dovuto, esser, essendo</em>
+* `EMPTY` (1325): <em>essere, stato, stata, stati, aver, state, potuto, dovuto, esser, poter</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -92,7 +92,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 `NOUN` tokens may have the following values of `Mood`:
 
 * `Ind` (2; 100% of non-empty `Mood`): <em>dice, vedo</em>
-* `EMPTY` (57986): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
+* `EMPTY` (57989): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
 
 ### `ADV`
 

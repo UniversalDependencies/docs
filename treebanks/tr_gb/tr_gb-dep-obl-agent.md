@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 3 1 obl:agent	color:blue
 1	Annesine	anne	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl:agent	_	_
 2	bulaşık	bulaşık	NOUN	_	Case=Nom|Number=Sing	3	obj	_	_
-3	yıkatmıyor	yıka	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Cau	0	root	_	SpaceAfter=No
+3	yıkatmıyor	yıka	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -40,7 +40,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	Herkese	herkes	PRON	_	Case=Dat|Number=Sing|Person=3	4	obl:agent	_	_
 2	birer	bir	NUM	_	NumType=Dist	3	nummod	_	_
 3	ağaç	ağaç	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
-4	diktirildi	dik	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=CauPass	0	root	_	SpaceAfter=No
+4	diktirildi	dik	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauPass	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	Nuran	Nuran	PROPN	_	Number=Sing	4	nsubj	_	_
 2	Deniz'e	Deniz	PROPN	_	Case=Dat|Number=Sing	4	obl:agent	_	_
 3	kapıyı	kapı	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
-4	açtırdı	aç	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Cau	0	root	_	SpaceAfter=No
+4	açtırdı	aç	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

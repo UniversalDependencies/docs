@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Djamé Seddah, Marie Candito, Bruno Guillaume.
 
 Repository: [UD_French-FQB](https://github.com/UniversalDependencies/UD_French-FQB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: LGPL-LR
 
@@ -44,7 +44,7 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The corpus **UD_French-FQB** is an automatic conversion of the [French QuestionBank v1](http://alpage.inria.fr/Treebanks/FQB/), a corpus entirely made of questions
+The corpus **UD_French-FQB** is an automatic conversion of the [French QuestionBank v1](http://alpage.inria.fr/Treebanks/FQB/), a corpus entirely made of questions.
 
 
 
@@ -65,7 +65,8 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 
 * Guillaume Bonfante, Bruno Guillaume, Guy Perrier. [Application of Graph Rewriting to Natural Language Processing](https://hal.inria.fr/hal-01814386). ISTE Wiley, 1, pp.272, 2018, Logic, Linguistics and Computer Science Set, Christian Rétoré, 1786300966. ⟨hal-01814386⟩
 
-* John Judge, Aoife Cahill, and Joseph van Genabith, (2006). [QuestionBank: Creating a Corpus of Parse-Annotated Questions](https://aclweb.org/anthology/papers/P/P06/P06-1063/). In Proceedings of the 21st International Conference on Computational Linguistics and 44th Anual Meeting of the Association for Computational Linguistics (COLING-ACL 2006), pages 497–504, Sydney, Australia.
+* John Judge, Aoife Cahill, and Joseph van Genabith, (2006). [QuestionBank: Creating a Corpus of Parse-Annotated Questions](https://aclweb.org/anthology/papers/P/P06/P06-1063/). In Proceedings of the 21st International Conference on Computational Linguistics and 44th Annual Meeting of the Association for Computational Linguistics (COLING-ACL 2006), pages 497–504, Sydney, Australia.
+
 
 # Statistics of UD French FQB
 
@@ -79,7 +80,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 
 ## Relations
 
-[acl](fr_fqb-dep-acl.html) – [acl:relcl](fr_fqb-dep-acl-relcl.html) – [advcl](fr_fqb-dep-advcl.html) – [advcl:cleft](fr_fqb-dep-advcl-cleft.html) – [advmod](fr_fqb-dep-advmod.html) – [amod](fr_fqb-dep-amod.html) – [appos](fr_fqb-dep-appos.html) – [aux](fr_fqb-dep-aux.html) – [aux:caus](fr_fqb-dep-aux-caus.html) – [aux:pass](fr_fqb-dep-aux-pass.html) – [case](fr_fqb-dep-case.html) – [cc](fr_fqb-dep-cc.html) – [ccomp](fr_fqb-dep-ccomp.html) – [conj](fr_fqb-dep-conj.html) – [cop](fr_fqb-dep-cop.html) – [dep](fr_fqb-dep-dep.html) – [det](fr_fqb-dep-det.html) – [dislocated](fr_fqb-dep-dislocated.html) – [expl](fr_fqb-dep-expl.html) – [fixed](fr_fqb-dep-fixed.html) – [flat:foreign](fr_fqb-dep-flat-foreign.html) – [flat:name](fr_fqb-dep-flat-name.html) – [goeswith](fr_fqb-dep-goeswith.html) – [iobj](fr_fqb-dep-iobj.html) – [mark](fr_fqb-dep-mark.html) – [nmod](fr_fqb-dep-nmod.html) – [nsubj](fr_fqb-dep-nsubj.html) – [nsubj:caus](fr_fqb-dep-nsubj-caus.html) – [nsubj:pass](fr_fqb-dep-nsubj-pass.html) – [nummod](fr_fqb-dep-nummod.html) – [obj](fr_fqb-dep-obj.html) – [obl:agent](fr_fqb-dep-obl-agent.html) – [obl:arg](fr_fqb-dep-obl-arg.html) – [obl:mod](fr_fqb-dep-obl-mod.html) – [orphan](fr_fqb-dep-orphan.html) – [parataxis](fr_fqb-dep-parataxis.html) – [punct](fr_fqb-dep-punct.html) – [root](fr_fqb-dep-root.html) – [xcomp](fr_fqb-dep-xcomp.html)
+[acl](fr_fqb-dep-acl.html) – [acl:relcl](fr_fqb-dep-acl-relcl.html) – [advcl](fr_fqb-dep-advcl.html) – [advcl:cleft](fr_fqb-dep-advcl-cleft.html) – [advmod](fr_fqb-dep-advmod.html) – [amod](fr_fqb-dep-amod.html) – [appos](fr_fqb-dep-appos.html) – [aux:caus](fr_fqb-dep-aux-caus.html) – [aux:pass](fr_fqb-dep-aux-pass.html) – [aux:tense](fr_fqb-dep-aux-tense.html) – [case](fr_fqb-dep-case.html) – [cc](fr_fqb-dep-cc.html) – [ccomp](fr_fqb-dep-ccomp.html) – [conj](fr_fqb-dep-conj.html) – [cop](fr_fqb-dep-cop.html) – [dep](fr_fqb-dep-dep.html) – [det](fr_fqb-dep-det.html) – [dislocated](fr_fqb-dep-dislocated.html) – [expl:comp](fr_fqb-dep-expl-comp.html) – [expl:subj](fr_fqb-dep-expl-subj.html) – [fixed](fr_fqb-dep-fixed.html) – [flat:foreign](fr_fqb-dep-flat-foreign.html) – [flat:name](fr_fqb-dep-flat-name.html) – [goeswith](fr_fqb-dep-goeswith.html) – [iobj](fr_fqb-dep-iobj.html) – [mark](fr_fqb-dep-mark.html) – [nmod](fr_fqb-dep-nmod.html) – [nsubj](fr_fqb-dep-nsubj.html) – [nsubj:caus](fr_fqb-dep-nsubj-caus.html) – [nsubj:pass](fr_fqb-dep-nsubj-pass.html) – [nummod](fr_fqb-dep-nummod.html) – [obj](fr_fqb-dep-obj.html) – [obl:agent](fr_fqb-dep-obl-agent.html) – [obl:arg](fr_fqb-dep-obl-arg.html) – [obl:mod](fr_fqb-dep-obl-mod.html) – [orphan](fr_fqb-dep-orphan.html) – [parataxis](fr_fqb-dep-parataxis.html) – [punct](fr_fqb-dep-punct.html) – [root](fr_fqb-dep-root.html) – [xcomp](fr_fqb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -525,7 +526,6 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 </ul>
 
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, être.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être.</li>
 </ul>
 
@@ -547,16 +547,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (264)</li>
+      <li>VERB-Fin--NOUN (267)</li>
       <li>VERB-Fin--NOUN-ADP(de) (4)</li>
-      <li>VERB-Fin--NOUN-ADP(du) (3)</li>
       <li>VERB-Fin--PRON (70)</li>
-      <li>VERB-Inf--NOUN (136)</li>
+      <li>VERB-Inf--NOUN (137)</li>
       <li>VERB-Inf--NOUN-ADP(de) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(de_le) (1)</li>
       <li>VERB-Inf--PRON (29)</li>
-      <li>VERB-Part--NOUN (191)</li>
-      <li>VERB-Part--NOUN-ADP(de_le) (1)</li>
+      <li>VERB-Part--NOUN (192)</li>
       <li>VERB-Part--PRON (14)</li>
     </ul>
   </li>
@@ -583,7 +580,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>flat</a>, <a>obl</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>expl:comp</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
+<li>The following 4 main types are not used alone, they are always subtyped: <a>aux</a>, <a>expl</a>, <a>flat</a>, <a>obl</a></li>
 <li>The following 7 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

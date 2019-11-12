@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (12; 100% of non-empty `Foreign`): <em>Holy, Night, O, Big, Dream, Earth, Sex, Song, Study</em>
-* `EMPTY` (26391): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
+* `EMPTY` (26553): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
 
 ### `NOUN`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>camera, factory, live, obscura, outlet</em>
-* `EMPTY` (114698): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `EMPTY` (115599): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 ### `ADV`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>nahui, so, u</em>
-* `EMPTY` (41613): <em>ka, siis, nii, kas, juba, välja, aga, veel, mitte, väga</em>
+* `EMPTY` (42044): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
 
 ### `ADJ`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>druzhnõi</em>
-* `EMPTY` (36587): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, esimene</em>
+* `EMPTY` (36772): <em>suur, võimalik, hea, eesti, suurem, uue, suure, raske, oluline, esimene</em>
 
 ### `CCONJ`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>versus</em>
-* `EMPTY` (15965): <em>ja, ning, või, aga, kuid, kui, ega, vaid, ehk, ent</em>
+* `EMPTY` (16139): <em>ja, ning, või, aga, kuid, kui, ega, vaid, ehk, ent</em>
 
 ## Relations with Agreement in `Foreign`
 

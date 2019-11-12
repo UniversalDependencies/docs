@@ -57,7 +57,7 @@ The following 31 pairs of parts of speech are connected with `obj`: <tt><a href=
 3	lahko	lahko	ADV	Rgp	Degree=Pos	4	advmod	_	word=lahko|msd=Rsn
 4	naredimo	narediti	VERB	Vmer1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	word=nardimo|msd=Ggdspm
 5	…	…	PUNCT	Z	_	4	punct	_	word=…|msd=U
-6	[:voice]	[:voice]	X	X	_	4	punct	_	word=[:voice]|msd=N
+6	[:voice]	[:voice]	PUNCT	X	_	4	punct	_	word=[:voice]|msd=N
 
 ~~~
 

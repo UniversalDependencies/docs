@@ -8,46 +8,75 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="de_hdt-dep-obl.html">obl</a></tt>.
 
-2671 nodes (0%) are attached to their parents as `obl:arg`.
+4 nodes (0%) are attached to their parents as `obl:arg`.
 
-1536 instances of `obl:arg` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.7083489329839.
+3 instances of `obl:arg` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.
 
-The following 17 pairs of parts of speech are connected with `obl:arg`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (1873; 70% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (392; 15% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (136; 5% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (66; 2% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (56; 2% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (56; 2% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (28; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (26; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `obl:arg`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (1; 25% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 obl:arg	color:blue
-1	Download-Steuer	Steuer	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	_
-2	soll	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	_
-3	für	für	ADP	APPR	_	4	case	_	_
-4	Chancengleichheit	Gleichheit	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	obl:arg	_	_
-5	sorgen	sorgen	VERB	VVINF	_	0	root	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 8 obl:arg	color:blue
+1	Angeblich	angeblich	ADJ	ADJD	Degree=Pos|Variant=Short	2	advmod	_	_
+2	geriet	geraten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	der	der	DET	ART	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Apple-Chef	Chef	NOUN	NN	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+5	darüber	darüber	ADV	PROAV	_	4	advmod	_	_
+6	so	so	ADV	ADV	Degree=Pos	2	advmod	_	_
+7	in	in	ADP	APPR	AdpType=Prep|Case=Acc	8	case	_	_
+8	Rage	Rage	NOUN	NN	Gender=Fem|Number=Sing|Person=3	2	obl:arg	_	_
+9	(	(	PUNCT	$(	PunctType=Brck	12	punct	_	_
+10	nicht	nicht	PART	PTKNEG	Polarity=Neg	12	advmod	_	_
+11	zu	zu	PART	PTKZU	PartType=Inf	12	mark	_	_
+12	verwechseln	verwechseln	VERB	VVINF	VerbForm=Inf	8	parataxis	_	_
+13	mit	mit	ADP	APPR	AdpType=Prep|Case=Dat	16	case	_	_
+14	dem	dem	DET	ART	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	gleichnamigen	gleichnamig	ADJ	ADJA	Degree=Pos|Number=Sing	16	amod	_	_
+16	ATI-Chip	Chip	NOUN	NN	Gender=Masc|Number=Sing|Person=3	12	obl	_	_
+17	...	...	PUNCT	$.	PunctType=Peri	12	punct	_	_
+18	)	)	PUNCT	$(	PunctType=Brck	12	punct	_	_
+19	,	,	PUNCT	$,	PunctType=Comm	28	punct	_	_
+20	dass	dass	SCONJ	KOUS	_	28	mark	_	_
+21	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
+22	die	die	DET	ART	Case=Acc|Number=Plur|PronType=Art	23	det	_	_
+23	Radeon-Karten	Karte	NOUN	NN	Gender=Fem|Number=Plur|Person=3	27	obj	_	_
+24	aus	aus	ADP	APPR	AdpType=Prep|Case=Dat	26	case	_	_
+25	allen	all	DET	PIDAT	Case=Dat|Number=Plur|Person=3	26	det	_	_
+26	Macintosh-Modellen	Modell	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur|Person=3	27	obl	_	_
+27	entfernen	entfernen	VERB	VVINF	VerbForm=Inf	28	xcomp	_	_
+28	ließ	lassen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+29	.	.	PUNCT	$.	PunctType=Peri	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 obl:arg	color:blue
-1	Dazu	Dazu	ADV	PROAV	_	2	obl:arg	_	_
-2	gehöre	gehören	VERB	VVFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	,	,	PUNCT	$,	_	9	punct	_	_
-4	dass	dass	SCONJ	KOUS	_	9	mark	_	_
-5	Verbraucher	Verbraucher	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	9	nsubj	_	_
-6	in	in	ADP	APPR	Case=Dat	8	case	_	_
-7	ihrem	ihrem	PRON	PPOSAT	Case=Dat|Gender=Neut|Number=Sing|Person=3	8	det:poss	_	_
-8	Heimatland	Land	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	9	obl	_	_
-9	klagen	klagen	VERB	VVINF	_	2	csubj	_	_
-10	können	können	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres	9	aux	_	_
-11	.	.	PUNCT	$.	_	2	punct	_	_
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 15 obl:arg	color:blue
+1	Werner	Werner	PROPN	NE	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
+2	Schmidt	Schmidt	PROPN	NE	Number=Sing|Person=3	1	flat:name	_	_
+3	,	,	PUNCT	$,	PunctType=Comm	4	punct	_	_
+4	Wirtschaftsreferent	Referent	NOUN	NN	Gender=Masc|Number=Sing|Person=3	1	appos	_	_
+5	beim	beim	ADP	APPRART	AdpType=Prep|Case=Dat|PronType=Art	6	case	_	_
+6	Bundesbeauftragten	Beauftragt	NOUN	NN	Degree=Pos|Number=Sing|Person=3	4	nmod	_	_
+7	für	für	ADP	APPR	AdpType=Prep|Case=Acc	8	case	_	_
+8	Datenschutz	Schutz	NOUN	NN	Gender=Masc|Number=Sing|Person=3	6	nmod	_	_
+9	,	,	PUNCT	$,	PunctType=Comm	4	punct	_	_
+10	hält	halten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	ein	ein	DET	ART	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
+12	solches	solch	ADJ	PIDAT	Case=Acc|Gender=Neut|Number=Sing|Person=3	13	amod	_	_
+13	Vorgehen	Vorgehen	NOUN	NN	Gender=Neut|Number=Sing|Person=3	10	obj	_	_
+14	für	für	ADP	APPR	AdpType=Prep|Case=Acc	15	case	_	_
+15	strafbar	strafbar	ADJ	ADJD	Degree=Pos|Variant=Short	10	obl:arg	_	_
+16	:	:	PUNCT	$.	PunctType=Peri	10	punct	_	_
 
 ~~~
 
@@ -55,20 +84,28 @@ The following 17 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 obl:arg	color:blue
-1	So	so	ADV	ADV	Degree=Pos	9	advmod	_	_
-2	soll	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
-3	man	man	PRON	PIS	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
-4	parallel	parallel	ADJ	ADJD	Degree=Pos	9	advcl	_	_
-5	zum	zum	ADP	APPRART	Case=Dat	6	case	_	_
-6	Surfen	Surfen	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	4	obl:arg	_	_
-7	Streaming	Streaming	X	FM	Person=3	9	obj	_	_
-8	Media	Media	X	FM	Person=3	7	flat	_	_
-9	genießen	genießen	VERB	VVINF	_	0	root	_	_
-10	können	können	AUX	VMINF	_	9	aux	_	_
-11	.	.	PUNCT	$.	_	9	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 obl:arg	color:blue
+1	Aber	Aber	CCONJ	KON	_	7	cc	_	_
+2	die	die	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Sitzung	Sitzung	NOUN	NN	Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
+4	sollte	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	7	aux	_	_
+5	auch	auch	ADV	ADV	_	6	advmod	_	_
+6	dazu	dazu	ADV	PROAV	_	7	obl:arg	_	_
+7	dienen	dienen	VERB	VVINF	VerbForm=Inf	0	root	_	_
+8	,	,	PUNCT	$,	PunctType=Comm	18	punct	_	_
+9	der	der	DET	ART	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Öffentlichkeit	Öffentlichkeit	NOUN	NN	Gender=Fem|Number=Sing|Person=3	18	iobj	_	_
+11	einen	einen	DET	ART	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Einblick	Einblick	NOUN	NN	Gender=Masc|Number=Sing|Person=3	18	obj	_	_
+13	in	in	ADP	APPR	AdpType=Prep|Case=Acc	16	case	_	_
+14	den	den	DET	ART	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	demokratisches	demokratisch	ADJ	ADJA	Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	Prozeß	Prozeß	NOUN	NN	Gender=Masc|Number=Sing|Person=3	12	nmod	_	_
+17	zu	zu	PART	PTKZU	PartType=Inf	18	mark	_	_
+18	bieten	bieten	VERB	VVINF	VerbForm=Inf	7	xcomp	_	_
+19	.	.	PUNCT	$.	PunctType=Peri	7	punct	_	_
 
 ~~~
 

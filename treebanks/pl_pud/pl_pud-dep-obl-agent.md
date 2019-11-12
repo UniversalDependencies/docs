@@ -70,7 +70,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 9 obl:agent	color:blue
 1	Stany	Stany	PROPN	subst:pl:nom:n:pt	Case=Nom|Gender=Neut|Number=Ptan	3	nsubj	3:nsubj	_
-2	Zjednoczone	Zjednoczony	ADJ	adj:pl:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	1	flat	1:flat	_
+2	Zjednoczone	Zjednoczony	ADJ	adj:pl:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	1	amod:flat	1:amod:flat	_
 3	wyzwoliły	wyzwolić	VERB	praet:pl:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	Kubę	kuba	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	_
 5	(	(	PUNCT	interp	PunctSide=Ini|PunctType=Brck	7	punct	7:punct	SpaceAfter=No

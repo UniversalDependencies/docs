@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_gb-feat-Number.html">Number</a></tt>, <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt>.
 
-1521 tokens (9%) have a non-empty value of `Number[psor]`.
-966 types (19%) occur at least once with a non-empty value of `Number[psor]`.
-517 lemmas (25%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 7 part-of-speech tags: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (914; 5% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (353; 2% instances), <tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (167; 1% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (50; 0% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
+1522 tokens (9%) have a non-empty value of `Number[psor]`.
+967 types (19%) occur at least once with a non-empty value of `Number[psor]`.
+516 lemmas (25%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 7 part-of-speech tags: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (915; 5% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (353; 2% instances), <tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (167; 1% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (50; 0% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-914 <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> tokens (21% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+915 <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> tokens (21% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (725; 79%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (686; 75%).
+The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (726; 79%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (686; 75%).
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 
@@ -133,7 +133,7 @@ The most frequent other feature values with which `PRON` and `Number[psor]` co-o
 
 12 <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> tokens (3% of all `NUM` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NUM` and `Number[psor]` co-occurred: <tt><a href="tr_gb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 100%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 67%).
+The most frequent other feature values with which `NUM` and `Number[psor]` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 100%), <tt><a href="tr_gb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (9; 75%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 67%).
 
 `NUM` tokens may have the following values of `Number[psor]`:
 

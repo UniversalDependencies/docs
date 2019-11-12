@@ -57,7 +57,7 @@ Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="be_h
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 3 different relations: <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (164; 98% instances), <tt><a href="be_hse-dep-punct.html">punct</a></tt> (2; 1% instances), <tt><a href="be_hse-dep-goeswith.html">goeswith</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 2 different relations: <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (165; 99% instances), <tt><a href="be_hse-dep-punct.html">punct</a></tt> (2; 1% instances)
 
 Children of `ADP` nodes belong to 6 different parts of speech: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (109; 65% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (46; 28% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (7; 4% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 

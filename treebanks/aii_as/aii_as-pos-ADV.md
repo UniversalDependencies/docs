@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Assyrian-AS: POS Tags: `ADV`
 
 There are 15 `ADV` lemmas (6%), 15 `ADV` types (6%) and 16 `ADV` tokens (4%).
-Out of 13 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 10 in number of tokens.
+Out of 13 observed tags, the rank of `ADV` is: 5 in number of lemmas, 6 in number of types and 10 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>ܪܵܒܵܐ, ܐܘܼܦ, ܐܝܟܵܐ, ܐܝܼܡܲܢ, ܐܲܝܟܵܐ, ܐܲܟ̣ܲܐ, ܐܵܕܝܼܐ, ܐܵܕܝܼܵܐ, ܟܠܗ, ܟܠܝܘܿܡ</em>
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ܐܝܼܡܲܢ�
 
 `ADV` nodes are attached to their parents using 3 different relations: <tt><a href="aii_as-dep-advmod.html">advmod</a></tt> (14; 88% instances), <tt><a href="aii_as-dep-obl.html">obl</a></tt> (1; 6% instances), <tt><a href="aii_as-dep-root.html">root</a></tt> (1; 6% instances)
 
-Parents of `ADV` nodes belong to 5 different parts of speech: <tt><a href="aii_as-pos-VERB.html">VERB</a></tt> (10; 63% instances), <tt><a href="aii_as-pos-ADJ.html">ADJ</a></tt> (2; 13% instances), <tt><a href="aii_as-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> (1; 6% instances),  (1; 6% instances)
+Parents of `ADV` nodes belong to 4 different parts of speech: <tt><a href="aii_as-pos-VERB.html">VERB</a></tt> (10; 63% instances), <tt><a href="aii_as-pos-NOUN.html">NOUN</a></tt> (3; 19% instances), <tt><a href="aii_as-pos-ADJ.html">ADJ</a></tt> (2; 13% instances),  (1; 6% instances)
 
 13 (81%) `ADV` nodes are leaves.
 

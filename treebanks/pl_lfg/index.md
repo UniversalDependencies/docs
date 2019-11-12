@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Agnieszka Patejuk, Adam Przepiórkowski.
 
 Repository: [UD_Polish-LFG](https://github.com/UniversalDependencies/UD_Polish-LFG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_lfg22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_lfg25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: GNU GPL 3.0
 

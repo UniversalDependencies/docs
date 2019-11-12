@@ -9,18 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Cop`.
 
-203 tokens (0%) have a non-empty value of `VerbType`.
+279 tokens (0%) have a non-empty value of `VerbType`.
 1 types (0%) occur at least once with a non-empty value of `VerbType`.
 1 lemmas (0%) occur at least once with a non-empty value of `VerbType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (203; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (279; 0% instances).
 
-### `VERB`
+### `AUX`
 
-203 <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `VerbType`.
+279 <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> tokens (19% of all `AUX` tokens) have a non-empty value of `VerbType`.
 
-The most frequent other feature values with which `VERB` and `VerbType` co-occurred: <tt><a href="lzh_kyoto-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (203; 100%), <tt><a href="lzh_kyoto-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (203; 100%).
+The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="lzh_kyoto-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (279; 100%).
 
-`VERB` tokens may have the following values of `VerbType`:
+`AUX` tokens may have the following values of `VerbType`:
 
-* `Cop` (203; 100% of non-empty `VerbType`): <em>為</em>
+* `Cop` (279; 100% of non-empty `VerbType`): <em>為</em>
 

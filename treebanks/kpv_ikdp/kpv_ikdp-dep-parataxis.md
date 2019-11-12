@@ -69,14 +69,14 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 7 4 parataxis	color:blue
 1	Супругаа	супруга	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	7	nsubj	_	Lang=Mixed|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	кудз	кудз	ADV	Adv	_	4	advmod	_	_
+3	кудз	кудз	ADV	Adv	PronType=Int	4	advmod	_	_
 4	висьтооны	висьтооны	VERB	V	VerbForm=Inf	7	parataxis	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	абу	абу	AUX	Pcle	Polarity=Neg	7	aux	_	_
 7	оленевод	оленевод	NOUN	N	Case=Nom|Number=Sing	0	root	_	Lang=Mixed
 8	да	да	PART	Pcle	_	7	advmod	_	Lang=Mixed|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	приведитчис	приведитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl	_	Lang=Mixed
+10	приведитчис	приведитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	Lang=Mixed
 11	кольччыны	кольччыны	VERB	V	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	7	punct	_	_
 

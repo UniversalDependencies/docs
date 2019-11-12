@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-765 tokens (0%) have a non-empty value of `Hyph`.
-406 types (1%) occur at least once with a non-empty value of `Hyph`.
-399 lemmas (1%) occur at least once with a non-empty value of `Hyph`.
-The feature is used with 9 part-of-speech tags: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (440; 0% instances), <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> (167; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (65; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (47; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (34; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+773 tokens (0%) have a non-empty value of `Hyph`.
+412 types (1%) occur at least once with a non-empty value of `Hyph`.
+405 lemmas (1%) occur at least once with a non-empty value of `Hyph`.
+The feature is used with 9 part-of-speech tags: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (447; 0% instances), <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> (167; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (65; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (48; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (34; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-440 <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Hyph`.
+447 <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `NOUN` and `Hyph` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (372; 85%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (262; 60%).
+The most frequent other feature values with which `NOUN` and `Hyph` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (378; 85%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (268; 60%).
 
 `NOUN` tokens may have the following values of `Hyph`:
 
-* `Yes` (440; 100% of non-empty `Hyph`): <em>teadus-, kesk-, haigus-, alg-, kodu-, laade-, majandus-, uurimis-, andme-, haridus-</em>
+* `Yes` (447; 100% of non-empty `Hyph`): <em>teadus-, kesk-, haigus-, alg-, kodu-, laade-, majandus-, uurimis-, andme-, haridus-</em>
 
-`Hyph` seems to be **lexical feature** of `NOUN`. 100% lemmas (301) occur only with one value of `Hyph`.
+`Hyph` seems to be **lexical feature** of `NOUN`. 100% lemmas (307) occur only with one value of `Hyph`.
 
 ### `PUNCT`
 
@@ -48,15 +48,15 @@ The most frequent other feature values with which `NUM` and `Hyph` co-occurred: 
 
 ### `PROPN`
 
-47 <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Hyph`.
+48 <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `PROPN` and `Hyph` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35; 74%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (29; 62%).
+The most frequent other feature values with which `PROPN` and `Hyph` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35; 73%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (29; 60%).
 
 `PROPN` tokens may have the following values of `Hyph`:
 
-* `Yes` (47; 100% of non-empty `Hyph`): <em>Kesk-, Haridus-, Kuurort-, Liha-, Lõuna-, Ida-, Julgeoleku-, Lähis-, Saare-, Agnese-</em>
+* `Yes` (48; 100% of non-empty `Hyph`): <em>Kesk-, Haridus-, Kuurort-, Liha-, Lõuna-, Ida-, Julgeoleku-, Lähis-, Saare-, Agnese-</em>
 
-`Hyph` seems to be **lexical feature** of `PROPN`. 100% lemmas (33) occur only with one value of `Hyph`.
+`Hyph` seems to be **lexical feature** of `PROPN`. 100% lemmas (34) occur only with one value of `Hyph`.
 
 ### `ADJ`
 

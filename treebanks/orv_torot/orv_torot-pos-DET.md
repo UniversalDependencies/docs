@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>всѧ</em> (<tt><a href="orv_torot-p
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 11.171429 (the average of all parts of speech is 3.570811).
+The form / lemma ratio of `DET` is 11.171429 (the average of all parts of speech is 3.571089).
 
 The 1st highest number of forms (64) was observed with the lemma “вьсь”: <em>в[сѧ, вес, весь, вохи, вохо, все, всего, всее, всеи, всей, всем, всему, всемъ, всемь, всемѹ, всемꙋ, всехъ, всею, всея, всеі, всеѧ, всеꙗ, вси, всихъ, всхѣ, всь, всю, вся, всѣ, всѣго, всѣи, всѣм, всѣмʼ, всѣми, всѣмъ, всѣмь, всѣмѹ, всѣм҃, всѣх, всѣхʼ, всѣхъ, всѣх҃, всѣю, всѧ, всꙗ, въсь, въсю, вьсе, вьсего, вьсеи, вьсемь, вьсею, вьсеꙗ, вьси, вьсь, вьсю, вьсѣ, вьсѣми, вьсѣмъ, вьсѣмь, вьсѣхъ, вьсѧ, вьсꙗ, вѣ</em>.
 

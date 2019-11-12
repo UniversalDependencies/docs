@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1079 nodes (5%) are attached to their parents as `amod`.
+1089 nodes (5%) are attached to their parents as `amod`.
 
-1076 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20111214087118.
+1086 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19926538108356.
 
-The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1042; 97% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (27; 3% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1055; 97% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (27; 2% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,29 +59,34 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 12 amod	color:blue
-1	Winstone	Winstone	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	nsubj:pass	_	_
-2	wurde	werden	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	17	aux:pass	_	_
-3	an	an	ADP	APPR	_	6	case	_	_
-4	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|Person=3	6	det	_	_
-5	4.	4.	NOUN	.	Case=Dat|Gender=Masc|Number=Sing|Person=3	6	amod	_	_
-6	Oktober	Oktober	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	obl:tmod	_	_
-7	1988	1988	NUM	CD	NumType=Card	6	nummod	_	_
-8	und	und	CCONJ	CC	_	13	cc	_	_
-9	erneut	erneut	ADV	RB	Degree=Pos	13	advmod	_	_
-10	an	an	ADP	APPR	_	13	case	_	_
-11	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|Person=3	13	det	_	_
-12	19.	19.	NOUN	.	Case=Dat|Gender=Masc|Number=Sing|Person=3	13	amod	_	_
-13	März	März	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	obl:tmod	_	_
-14	1993	1993	NUM	CD	NumType=Card	13	nummod	_	_
-15	für	für	ADP	IN	_	16	case	_	_
-16	bankrott	bankrott	ADV	RB	Degree=Pos	17	obl	_	_
-17	erklärt	erklären	VERB	VBN	Tense=Past	0	root	_	SpaceAfter=No
-18	.	.	PUNCT	.	_	17	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 16 amod	color:blue
+1	Die	der	DET	DT	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3	2	det	_	_
+2	Älteren	Ältere	NOUN	NNA	Case=Nom|Gender=Masc|Number=Plur|Person=3	9	nsubj	_	InflectionType=Weak
+3	werden	werden	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	9	aux	_	_
+4	500	500	NUM	CD	NumType=Card	5	nummod	_	_
+5	€	€	SYM	SYM	_	9	obj	_	_
+6	von	von	ADP	APPR	_	8	case	_	_
+7	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|Person=3	8	det	_	_
+8	Staat	Staat	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	9	obl	_	_
+9	bekommen	bekommen	VERB	VB	_	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	20	punct	_	_
+11	die	der	PRON	REL	Case=Acc|Gender=Masc|Number=Plur|Person=3	20	obj	_	_
+12	sie	sie	PRON	PRP	Case=Nom|Gender=Masc|Number=Plur|Person=3	20	nsubj	_	_
+13	bis	bis	ADP	IN	_	18	case	_	_
+14	zu	zu	ADP	APPR	_	18	case	_	_
+15	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|Person=3	18	det	_	_
+16	31	31	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	18	amod	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	16	punct	_	_
+18	Dezember	Dezember	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	20	obl:tmod	_	_
+19	2017	2017	NUM	CD	NumType=Card	18	nummod	_	_
+20	ausgegeben	ausgeben	VERB	VBN	Tense=Past	5	acl:relcl	_	_
+21	haben	haben	AUX	VB	_	20	aux	_	_
+22	müssen	müssen	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	20	aux	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	9	punct	_	_
 
 ~~~
 

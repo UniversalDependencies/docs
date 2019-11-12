@@ -71,21 +71,21 @@ Examples: <em>tudi, še, že, le, naj, prav, samo, seveda, sicer, več</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 8 different relations: <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (3920; 96% instances), <tt><a href="sl_ssj-dep-mark.html">mark</a></tt> (61; 1% instances), <tt><a href="sl_ssj-dep-discourse.html">discourse</a></tt> (55; 1% instances), <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (42; 1% instances), <tt><a href="sl_ssj-dep-cc-preconj.html">cc:preconj</a></tt> (12; 0% instances), <tt><a href="sl_ssj-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="sl_ssj-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="sl_ssj-dep-obj.html">obj</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 8 different relations: <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (3921; 96% instances), <tt><a href="sl_ssj-dep-mark.html">mark</a></tt> (61; 1% instances), <tt><a href="sl_ssj-dep-discourse.html">discourse</a></tt> (54; 1% instances), <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (42; 1% instances), <tt><a href="sl_ssj-dep-cc-preconj.html">cc:preconj</a></tt> (12; 0% instances), <tt><a href="sl_ssj-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="sl_ssj-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="sl_ssj-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (3179; 78% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (476; 12% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (218; 5% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (92; 2% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (53; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (27; 1% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (10; 0% instances),  (5; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances)
+Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (3174; 77% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (476; 12% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (217; 5% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (94; 2% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (54; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (10; 0% instances),  (5; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances)
 
 3955 (96%) `PART` nodes are leaves.
 
 132 (3%) `PART` nodes have one child.
 
-10 (0%) `PART` nodes have two children.
+9 (0%) `PART` nodes have two children.
 
-2 (0%) `PART` nodes have three or more children.
+3 (0%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 3.
 
-Children of `PART` nodes are attached using 3 different relations: <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (84; 53% instances), <tt><a href="sl_ssj-dep-punct.html">punct</a></tt> (72; 46% instances), <tt><a href="sl_ssj-dep-case.html">case</a></tt> (2; 1% instances)
+Children of `PART` nodes are attached using 3 different relations: <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (84; 53% instances), <tt><a href="sl_ssj-dep-punct.html">punct</a></tt> (73; 46% instances), <tt><a href="sl_ssj-dep-case.html">case</a></tt> (2; 1% instances)
 
-Children of `PART` nodes belong to 6 different parts of speech: <tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (72; 46% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (53; 34% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (13; 8% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (11; 7% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (7; 4% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (2; 1% instances)
+Children of `PART` nodes belong to 6 different parts of speech: <tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (73; 46% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (53; 33% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (13; 8% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (11; 7% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (7; 4% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (2; 1% instances)
 

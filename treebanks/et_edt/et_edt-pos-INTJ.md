@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>noh</em> (<tt><a href="et_edt-pos-INT
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.010638 (the average of all parts of speech is 1.912003).
+The form / lemma ratio of `INTJ` is 1.010638 (the average of all parts of speech is 1.914025).
 
 The 1st highest number of forms (2) was observed with the lemma “oi”: <em>oi, oi-oi-joo</em>.
 

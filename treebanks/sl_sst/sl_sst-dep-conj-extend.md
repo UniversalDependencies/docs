@@ -27,7 +27,7 @@ The following 18 pairs of parts of speech are connected with `conj:extend`: <tt>
 3	hrvaščine	hrvaščina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	1	conj	_	word=hrvaščine|msd=Sozer
 4	pa	pa	CCONJ	Cc	_	5	cc	_	word=pa|msd=Vp
 5	še	še	PART	Q	_	1	conj	_	word=še|msd=L
-6	[gap]	[gap]	X	X	_	1	punct	_	word=[gap]|msd=N
+6	[gap]	[gap]	PUNCT	X	_	8	punct	_	word=[gap]|msd=N
 7	pa	pa	CCONJ	Cc	_	8	cc	_	word=pa|msd=Vp
 8	cirilica	cirilica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	word=cirilica|msd=Sozei
 9	pa	pa	CCONJ	Cc	_	10	cc	_	word=pa|msd=Vp

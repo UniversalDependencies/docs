@@ -8,36 +8,38 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `compound`.
+6 nodes (0%) are attached to their parents as `compound`.
 
-4 instances of `compound` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.4.
+5 instances of `compound` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.33333333333333.
 
-The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 20% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 50% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 17% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 compound	color:blue
-1	Celt	celt	NOUN	noun	_	0	root	_	SpaceAfter=No
-2	-	-	PUNCT	punct	_	1	punct	_	SpaceAfter=No
-3	Iberiad	iberiad	NOUN	noun	_	1	compound	_	_
-4	oedd	bod	AUX	aux	Number=Sing|Person=3|Tense=Imp	1	cop	_	_
-5	Macsen	Macsen	PROPN	person	Gender=Fem|Number=Sing	1	nsubj	_	_
-6	Wledig	Gwledig	PROPN	person	Mutation=SM	5	flat:name	_	_
-7	a	a	PRON	rel	PronType=Rel	8	nsubj	_	_
-8	ddaeth	dod	VERB	verb	Mutation=SM|Number=Sing|Person=3|Tense=Past	5	acl:relcl	_	_
-9	i	i	ADP	prep	_	10	case	_	_
-10	ynysoedd	ynys	NOUN	noun	Gender=Fem|Number=Plur	8	obl	_	_
-11	Prydain	Prydain	PROPN	place	_	10	appos	_	_
-12	yn	yn	ADP	prep	_	15	case	_	_
-13	y	y	DET	art	_	15	det	_	_
-14	trydded	trydd	ADJ	eq	Degree=Equ	15	amod	_	_
-15	canrif	canrif	NOUN	noun	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
-16	.	.	PUNCT	punct	_	8	punct	_	SpacesAfter=\n
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 13 compound	color:blue
+1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	gosodwr	gosodwr	NOUN	noun	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	yn	yn	AUX	impf	_	4	aux	_	_
+4	rhoi	rhoi	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
+5	siawns	siawns	NOUN	noun	Gender=Fem|Number=Sing	4	obj	_	_
+6	i	i	ADP	prep	_	7	case	_	_
+7	di	ti	PRON	indep	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+8	lawrlwytho	lawrlwytho	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	4	advcl	_	_
+9	updates	updates	NOUN	noun	Gender=Masc|Number=Sing	8	obj	_	_
+10	a	a	CCONJ	cconj	_	11	cc	_	_
+11	galluogi	galluogi	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	8	conj	_	_
+12	MP3	MP3	NOUN	noun	Gender=Masc|Number=Sing	11	obj	_	_
+13	codecs	codecs	NOUN	noun	Gender=Masc|Number=Sing	12	compound	_	_
+14	i	i	ADP	prep	_	15	mark	_	_
+15	gael	cael	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	11	ccomp	_	_
+16	ei	ei	PRON	dep	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	obj	_	_
+17	osod	gosod	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	15	ccomp	_	SpaceAfter=No
+18	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -50,7 +52,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 24 26 compound	color:blue
 1	Un	un	NUM	num	_	2	nummod	_	_
 2	peth	peth	NOUN	noun	Gender=Masc|Number=Sing	16	nsubj	_	_
-3	sydd	bod	VERB	verb	Number=Sing|Person=3|Relative=Rel|Tense=Pres	2	acl:relcl	_	_
+3	sydd	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Relative=Rel|Tense=Pres	2	acl:relcl	_	_
 4	wedi	wedi	AUX	ante	_	5	aux	_	_
 5	codi	codi	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	3	xcomp	_	_
 6	unwaith	unwaith	ADV	adv	_	5	advmod	_	_
@@ -61,7 +63,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 11	arweinyddol	arweinyddol	ADJ	pos	Degree=Pos	10	amod	_	_
 12	Plaid	plaid	NOUN	noun	Gender=Fem|Number=Sing	10	nmod	_	_
 13	Cymru	Cymru	PROPN	place	Gender=Fem|Number=Sing	12	flat:name	_	_
-14	yw	bod	AUX	aux	Number=Sing|Person=3|Tense=Pres	16	cop	_	SpaceAfter=No
+14	yw	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	cop	_	SpaceAfter=No
 15	'r	y	DET	art	_	16	det	_	_
 16	cwestiwn	cwestiwn	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
 17	am	am	ADP	prep	_	18	case	_	_
@@ -88,13 +90,13 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 1	Fodd	modd	ADV	adv	Mutation=SM	10	advmod	_	_
 2	bynnag	bynnag	ADV	adv	_	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	punct	_	4	punct	_	_
-4	bum	pum	NUM	num	Mutation=SM	5	nummod	_	_
+4	bum	pump	NUM	num	Mutation=SM	5	nummod	_	_
 5	mis	mis	NOUN	noun	Gender=Masc|Number=Sing	10	obl	_	_
 6	ers	ers	ADP	prep	_	8	case	_	_
 7	ei	ei	PRON	dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
 8	hagor	agor	NOUN	verbnoun	Mutation=AM|Number=Sing|VerbForm=Vnoun	5	acl	_	SpaceAfter=No
 9	,	,	PUNCT	punct	_	10	punct	_	_
-10	mae	bod	VERB	verb	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+10	mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 11	'r	y	DET	art	_	12	det	_	_
 12	awdurdod	awdurdod	NOUN	noun	Gender=Masc|Number=Sing	10	nsubj	_	_
 13	wedi	wedi	AUX	ante	_	14	aux	_	_
@@ -116,7 +118,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 29	erbyn	erbyn	ADP	prep	_	30	case	_	_
 30	17:00	17:00	NUM	num	_	27	obl	_	_
 31	ddydd	dydd	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	27	obl	_	_
-32	Mercher	mercher	NOUN	noun	Gender=Masc|Number=Sing	31	compound	_	SpaceAfter=No
+32	Mercher	Mercher	NOUN	noun	Gender=Masc|Number=Sing	31	compound	_	SpaceAfter=No
 33	.	.	PUNCT	punct	_	25	punct	_	SpacesAfter=\n
 
 ~~~

@@ -25,7 +25,7 @@ The following 23 pairs of parts of speech are connected with `iobj`: <tt><a href
 1	Obitelji	obitelj	NOUN	Ncfsd	Case=Dat|Gender=Fem|Number=Sing	3	iobj	_	_
 2	će	htjeti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	trebati	trebati	VERB	Vmn	VerbForm=Inf	0	root	_	_
-4	barem	barem	PART	Qo	_	6	det	_	_
+4	barem	barem	DET	Qo	_	6	det	_	_
 5	pet	pet	NUM	Mlc	NumType=Card	6	nummod	_	_
 6	godina	godina	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	3	nsubj	_	_
 7	da	da	SCONJ	Cs	_	8	mark	_	_

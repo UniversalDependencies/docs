@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-PUD: POS Tags: `AUX`
 
-There are 13 `AUX` lemmas (0%), 33 `AUX` types (1%) and 733 `AUX` tokens (4%).
+There are 13 `AUX` lemmas (0%), 32 `AUX` types (1%) and 732 `AUX` tokens (4%).
 Out of 16 observed tags, the rank of `AUX` is: 12 in number of lemmas, 9 in number of types and 10 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>vara, ha, kunna, skola, komma, måste, vilja, bli, böra, behöva</em>
 
 The 10 most frequent `AUX` types:  <em>är, var, har, hade, kan, skulle, kommer, vara, ha, varit</em>
 
-The 10 most frequent ambiguous lemmas: <em>vara</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 353, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 5, <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>ha</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 170, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 71), <em>kunna</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 71, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 1), <em>skola</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 52, <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> 6), <em>komma</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 40, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 27), <em>vilja</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 12, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 3, <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>bli</em> (<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 31, <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 7), <em>behöva</em> (<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 8, <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 4), <em>få</em> (<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 26, <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>vara</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 352, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 6, <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>ha</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 170, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 71), <em>kunna</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 71, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 1), <em>skola</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 52, <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> 6), <em>komma</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 40, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 27), <em>vilja</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 12, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 3, <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>bli</em> (<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 31, <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 7), <em>behöva</em> (<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 8, <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 4), <em>få</em> (<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 26, <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 3)
 
 The 10 most frequent ambiguous types:  <em>är</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 202, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 2), <em>var</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 105, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 1), <em>har</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 89, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 36), <em>hade</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 55, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 16), <em>kan</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 51, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 1), <em>kommer</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 40, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 11), <em>vara</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 28, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 1), <em>ha</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 26, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 16), <em>ville</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 7, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 1), <em>vill</em> (<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> 4, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 2)
 
@@ -51,15 +51,15 @@ The 10 most frequent ambiguous types:  <em>är</em> (<tt><a href="sv_pud-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.538462 (the average of all parts of speech is 1.237532).
+The form / lemma ratio of `AUX` is 2.461538 (the average of all parts of speech is 1.239021).
 
-The 1st highest number of forms (5) was observed with the lemma “vara”: <em>var, vara, varade, varit, är</em>.
+The 1st highest number of forms (4) was observed with the lemma “bli”: <em>blev, bli, blir, blivit</em>.
 
-The 2nd highest number of forms (4) was observed with the lemma “bli”: <em>blev, bli, blir, blivit</em>.
+The 2nd highest number of forms (4) was observed with the lemma “kunna”: <em>kan, kunde, kunna, kunnat</em>.
 
-The 3rd highest number of forms (4) was observed with the lemma “kunna”: <em>kan, kunde, kunna, kunnat</em>.
+The 3rd highest number of forms (4) was observed with the lemma “vara”: <em>var, vara, varit, är</em>.
 
-`AUX` occurs with 4 features: <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt> (733; 100% instances), <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt> (733; 100% instances), <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt> (648; 88% instances), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt> (647; 88% instances)
+`AUX` occurs with 4 features: <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt> (732; 100% instances), <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt> (732; 100% instances), <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt> (647; 88% instances), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt> (646; 88% instances)
 
 `AUX` occurs with 8 feature-value pairs: `Mood=Imp`, `Mood=Ind`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Sup`, `Voice=Act`
 
@@ -70,21 +70,21 @@ Examples: <em>är, har, kan, kommer, måste, ska, vill, bör, blir, får</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 8 different relations: <tt><a href="sv_pud-dep-aux.html">aux</a></tt> (369; 50% instances), <tt><a href="sv_pud-dep-cop.html">cop</a></tt> (343; 47% instances), <tt><a href="sv_pud-dep-aux-pass.html">aux:pass</a></tt> (8; 1% instances), <tt><a href="sv_pud-dep-root.html">root</a></tt> (8; 1% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 7 different relations: <tt><a href="sv_pud-dep-aux.html">aux</a></tt> (369; 50% instances), <tt><a href="sv_pud-dep-cop.html">cop</a></tt> (343; 47% instances), <tt><a href="sv_pud-dep-aux-pass.html">aux:pass</a></tt> (8; 1% instances), <tt><a href="sv_pud-dep-root.html">root</a></tt> (8; 1% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (338; 46% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (169; 23% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (164; 22% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (19; 3% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (11; 2% instances),  (8; 1% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances)
+Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (340; 46% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (168; 23% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (167; 23% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (14; 2% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (11; 2% instances),  (8; 1% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances)
 
 718 (98%) `AUX` nodes are leaves.
 
 2 (0%) `AUX` nodes have one child.
 
-2 (0%) `AUX` nodes have two children.
+1 (0%) `AUX` nodes have two children.
 
 11 (2%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 6.
 
-Children of `AUX` nodes are attached using 12 different relations: <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (11; 22% instances), <tt><a href="sv_pud-dep-punct.html">punct</a></tt> (11; 22% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (5; 10% instances), <tt><a href="sv_pud-dep-ccomp.html">ccomp</a></tt> (4; 8% instances), <tt><a href="sv_pud-dep-expl.html">expl</a></tt> (4; 8% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (3; 6% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (3; 6% instances), <tt><a href="sv_pud-dep-xcomp.html">xcomp</a></tt> (3; 6% instances), <tt><a href="sv_pud-dep-aux.html">aux</a></tt> (2; 4% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (2; 4% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="sv_pud-dep-cc.html">cc</a></tt> (1; 2% instances)
+Children of `AUX` nodes are attached using 12 different relations: <tt><a href="sv_pud-dep-punct.html">punct</a></tt> (11; 23% instances), <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (10; 21% instances), <tt><a href="sv_pud-dep-ccomp.html">ccomp</a></tt> (4; 8% instances), <tt><a href="sv_pud-dep-expl.html">expl</a></tt> (4; 8% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (4; 8% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (3; 6% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (3; 6% instances), <tt><a href="sv_pud-dep-xcomp.html">xcomp</a></tt> (3; 6% instances), <tt><a href="sv_pud-dep-aux.html">aux</a></tt> (2; 4% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (2; 4% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="sv_pud-dep-cc.html">cc</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-PUNCT.html">PUNCT</a></tt> (11; 22% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (10; 20% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (10; 20% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (9; 18% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (3; 6% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (3; 6% instances), <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances)
+Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-PUNCT.html">PUNCT</a></tt> (11; 23% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (9; 19% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (9; 19% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (9; 19% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (3; 6% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (3; 6% instances), <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances)
 

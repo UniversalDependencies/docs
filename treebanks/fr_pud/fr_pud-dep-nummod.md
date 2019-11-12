@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-243 nodes (1%) are attached to their parents as `nummod`.
+219 nodes (1%) are attached to their parents as `nummod`.
 
-213 instances of `nummod` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09876543209877.
+189 instances of `nummod` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10958904109589.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (174; 72% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (33; 14% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (18; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (18; 7% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (150; 68% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (33; 15% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (18; 8% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (18; 8% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	,	_	PUNCT	,	_	7	punct	_	_
 6	le	_	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
 7	maximum	_	NOUN	NN	Gender=Masc|Number=Sing	2	appos	_	_
-8	autorisé	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	7	ccomp	_	SpaceAfter=No
+8	autorisé	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	7	acl	_	SpaceAfter=No
 9	.	_	PUNCT	.	_	2	punct	_	_
 
 ~~~
@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Les	_	DET	DT	Gender=Fem|Number=Plur	2	det	_	_
 2	sources	_	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj	_	_
 3	consultées	_	ADJ	JJ	Gender=Fem|Number=Plur	2	amod	_	_
-4	ont	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux	_	_
+4	ont	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux:tense	_	_
 5	indiqué	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 6	que	_	SCONJ	IN	_	12	mark	_	_
 7	c’	_	PRON	PDEM	_	12	nsubj	_	OrigForm=c'|SpaceAfter=No
@@ -69,11 +69,11 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	quantité	_	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
 3	de	_	ADP	IN	_	4	case	_	_
 4	marchandises	_	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
-5	transportées	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Part	4	ccomp	_	_
+5	transportées	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Part	4	acl	_	_
 6	via	_	ADP	IN	_	8	case	_	_
 7	le	_	DET	DT	Gender=Masc|Number=Sing	8	det	_	_
 8	Danube	_	PROPN	NNP	Gender=Masc|Number=Sing	5	obl	_	_
-9	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux	_	_
+9	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux:tense	_	_
 10	augmenté	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 11	de	_	ADP	IN	_	15	case	_	_
 12	près	_	ADV	RB	_	14	advmod	_	_

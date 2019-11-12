@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_lines-dep-aux.html">aux</a></tt>.
 
-697 nodes (1%) are attached to their parents as `aux:pass`.
+766 nodes (1%) are attached to their parents as `aux:pass`.
 
-696 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.31133428981349.
+765 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29634464751958.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (696; 100% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (763; 100% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	Additional	additional	ADJ	POS	Degree=Pos	2	amod	_	_
 2	information	information	NOUN	SG-NOM	Number=Sing	7	nsubj:pass	_	_
 3	about	about	ADP	_	_	4	case	_	_
-4	XML	xml	PROPN	SG-NOM	Number=Sing	2	nmod	_	_
+4	XML	XML	PROPN	SG-NOM	Number=Sing	2	nmod	_	_
 5	can	can	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
 6	be	be	AUX	INF	VerbForm=Inf	7	aux:pass	_	_
 7	found	find	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -34,6 +34,23 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 10	web	web	NOUN	SG-NOM	Number=Sing	11	compound	_	_
 11	site	site	NOUN	SG-NOM	Number=Sing	7	obl	_	SpaceAfter=No
 12	.	.	PUNCT	Period	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 aux:pass	color:blue
+1	My	I	PRON	P1SG-GEN	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+2	family	family	NOUN	SG-NOM	Number=Sing	4	nsubj:pass	_	_
+3	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	addicted	addicted	ADJ	POS	Degree=Pos|VerbForm=Part	0	root	_	_
+5	to	to	ADP	_	_	6	case	_	_
+6	sentimentality	sentimentality	NOUN	SG-NOM	Number=Sing	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	Period	_	4	punct	_	_
 
 ~~~
 

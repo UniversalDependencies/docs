@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>ex</em> (<tt><a href="es_gsd-pos-X.ht
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.043478 (the average of all parts of speech is 1.256167).
+The form / lemma ratio of `PART` is 1.043478 (the average of all parts of speech is 1.256161).
 
 The 1st highest number of forms (2) was observed with the lemma “ir”: <em>Vamos, Vaya</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9012 nodes (5%) are attached to their parents as `root`.
+9010 nodes (5%) are attached to their parents as `root`.
 
-9012 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.66622281402574.
+9010 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.66748057713651.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (6299; 70% instances), -<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1340; 15% instances), -<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (984; 11% instances), -<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (135; 1% instances), -<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (115; 1% instances), -<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (48; 1% instances), -<tt><a href="hr_set-pos-DET.html">DET</a></tt> (37; 0% instances), -<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (25; 0% instances), -<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (11; 0% instances), -<tt><a href="hr_set-pos-PART.html">PART</a></tt> (10; 0% instances), -<tt><a href="hr_set-pos-X.html">X</a></tt> (5; 0% instances), -<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="hr_set-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), -<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (6298; 70% instances), -<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1339; 15% instances), -<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (984; 11% instances), -<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (135; 1% instances), -<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (115; 1% instances), -<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (48; 1% instances), -<tt><a href="hr_set-pos-DET.html">DET</a></tt> (37; 0% instances), -<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (25; 0% instances), -<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (11; 0% instances), -<tt><a href="hr_set-pos-PART.html">PART</a></tt> (10; 0% instances), -<tt><a href="hr_set-pos-X.html">X</a></tt> (5; 0% instances), -<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="hr_set-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), -<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

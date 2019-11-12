@@ -63,6 +63,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Ins` (5; 2% of non-empty `Case`): <em>kaikin</em>
 * `Nom` (126; 44% of non-empty `Case`): <em>hyö, mie, hiän, myö, še, kaikki, šie, ne, kumpaset, mit</em>
 * `Par` (40; 14% of non-empty `Case`): <em>mitä, tätä, šitä, iččie, niitä, kumpaista, muuta, Milma, heitä, häntä</em>
+* `EMPTY` (1): <em>kennih</em>
 
 <table>
   <tr><th>Paradigm <i>še</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Par</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th></tr>
@@ -179,7 +180,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 * `Gen` (1; 50% of non-empty `Case`): <em>ollun</em>
 * `Ine` (1; 50% of non-empty `Case`): <em>olleššah</em>
-* `EMPTY` (133): <em>on, oli, ei, voit, ois, olet, ollah, oltih, pitäy, en</em>
+* `EMPTY` (132): <em>on, oli, ei, voit, ois, olet, ollah, oltih, pitäy, en</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Gen</tt></th><th><tt>Ine</tt></th></tr>
@@ -196,8 +197,8 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PROPN --[<tt><a href="krl_kkpp-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (14; 67%),
 <tt>PROPN --[<tt><a href="krl_kkpp-dep-conj.html">conj</a></tt>]--> PROPN</tt> (11; 100%),
 <tt>ADJ --[<tt><a href="krl_kkpp-dep-conj.html">conj</a></tt>]--> ADJ</tt> (10; 100%),
+<tt>NOUN --[<tt><a href="krl_kkpp-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 75%),
 <tt>NOUN --[<tt><a href="krl_kkpp-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> PRON</tt> (6; 86%),
 <tt>PROPN --[<tt><a href="krl_kkpp-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (6; 100%),
-<tt>NOUN --[<tt><a href="krl_kkpp-dep-appos.html">appos</a></tt>]--> NOUN</tt> (5; 100%),
-<tt>NOUN --[<tt><a href="krl_kkpp-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5; 71%).
+<tt>NOUN --[<tt><a href="krl_kkpp-dep-appos.html">appos</a></tt>]--> NOUN</tt> (5; 100%).
 

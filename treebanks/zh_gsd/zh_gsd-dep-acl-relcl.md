@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="zh_gsd-dep-acl.html">acl</a></tt>.
 
-1785 nodes (1%) are attached to their parents as `acl:relcl`.
+1786 nodes (1%) are attached to their parents as `acl:relcl`.
 
-1781 instances of `acl:relcl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.47619047619048.
+1780 instances of `acl:relcl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.46472564389698.
 
-The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1345; 75% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (185; 10% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (134; 8% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (49; 3% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1346; 75% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (185; 10% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (134; 8% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (49; 3% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,18 +26,18 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	二十一	二十一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	日	日	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No
-5	,	,	PUNCT	,	_	8	punct	_	SpaceAfter=No
+5	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
 6	努爾哈赤	努爾哈赤	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
-7	出城	出城	VERB	VV	_	8	acl	_	SpaceAfter=No
+7	出城	出城	VERB	VV	_	8	advcl	_	SpaceAfter=No
 8	迎接	迎接	VERB	VV	_	0	root	_	SpaceAfter=No
 9	前來	前來	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
 10	瀋陽	瀋陽	PROPN	NNP	_	9	obj	_	SpaceAfter=No
 11	的	的	PART	DEC	_	9	mark:relcl	_	SpaceAfter=No
-12	科爾沁	科爾沁	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+12	科爾沁	科爾沁	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	部	部	PART	SFN	_	15	nmod	_	SpaceAfter=No
 14	奧巴	奧巴	PROPN	NNP	_	15	nmod	_	SpaceAfter=No
 15	貝勒	貝勒	NOUN	NN	_	8	obj	_	SpaceAfter=No
-16	.	.	PUNCT	.	_	8	punct	_	SpaceAfter=No
+16	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -58,20 +58,20 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 8	在	在	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 9	日本	日本	PROPN	NNP	_	8	obj	_	SpaceAfter=No
 10	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
-11	知名	知名	ADJ	JJ	_	12	case:suff	_	SpaceAfter=No
+11	知名	知名	ADJ	JJ	_	12	compound	_	SpaceAfter=No
 12	度	度	PART	SFN	_	6	obj	_	SpaceAfter=No
 13	時	時	ADP	IN	_	6	mark	_	SpaceAfter=No
 14	甚至	甚至	ADV	RB	_	15	mark	_	SpaceAfter=No
 15	說	說	VERB	VV	_	0	root	_	SpaceAfter=No
 16	「	「	PUNCT	``	_	19	punct	_	SpaceAfter=No
 17	四百萬	四百萬	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
-18	日本	日本	PROPN	NNP	_	19	case:suff	_	SpaceAfter=No
+18	日本	日本	PROPN	NNP	_	19	compound	_	SpaceAfter=No
 19	人	人	PART	SFN	_	21	nsubj	_	SpaceAfter=No
 20	可能	可能	AUX	MD	_	21	aux	_	SpaceAfter=No
 21	錯	錯	ADJ	JJ	_	15	ccomp	_	SpaceAfter=No
-22	了	了	X	UH	_	21	discourse	_	SpaceAfter=No
+22	了	了	PART	UH	_	21	discourse	_	SpaceAfter=No
 23	」	」	PUNCT	''	_	21	punct	_	SpaceAfter=No
-24	.	.	PUNCT	.	_	15	punct	_	SpaceAfter=No
+24	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -87,23 +87,23 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 3	世界	世界	NOUN	NN	_	8	advmod	_	SpaceAfter=No
 4	上	上	ADP	IN	_	3	acl	_	SpaceAfter=No
 5	產婦	產婦	NOUN	NN	_	7	nmod	_	SpaceAfter=No
-6	死亡	死亡	VERB	VV	_	7	case:suff	_	SpaceAfter=No
+6	死亡	死亡	VERB	VV	_	7	compound	_	SpaceAfter=No
 7	率	率	PART	SFN	_	8	nsubj	_	SpaceAfter=No
 8	最高	最高	ADJ	JJ	_	10	acl:relcl	_	SpaceAfter=No
 9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
-10	國家	國家	NOUN	NN	_	20	dep	_	SpaceAfter=No
-11	,	,	PUNCT	,	_	20	punct	_	SpaceAfter=No
+10	國家	國家	NOUN	NN	_	0	root	_	SpaceAfter=No
+11	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No
 12	這	這	PRON	PRD	_	20	nsubj	_	SpaceAfter=No
 13	和	和	ADP	IN	_	18	case	_	SpaceAfter=No
 14	印度	印度	PROPN	NNP	_	16	nmod	_	SpaceAfter=No
 15	代孕	代孕	NOUN	NN	_	16	nmod	_	SpaceAfter=No
-16	產業	產業	NOUN	NN	_	18	det	_	SpaceAfter=No
+16	產業	產業	NOUN	NN	_	18	nmod	_	SpaceAfter=No
 17	的	的	PART	DEC	Case=Gen	16	case:dec	_	SpaceAfter=No
 18	發展	發展	NOUN	NN	_	20	obl	_	SpaceAfter=No
 19	不	不	ADV	RB	Polarity=Neg	20	advmod	_	SpaceAfter=No
-20	無	無	VERB	VV	_	0	root	_	SpaceAfter=No
+20	無	無	VERB	VV	_	10	parataxis	_	SpaceAfter=No
 21	關係	關係	NOUN	NN	_	20	obj	_	SpaceAfter=No
-22	.	.	PUNCT	.	_	20	punct	_	SpaceAfter=No
+22	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 ~~~
 

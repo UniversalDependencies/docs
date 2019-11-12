@@ -55,7 +55,7 @@ The following 54 pairs of parts of speech are connected with `conj`: <tt><a href
 9	ene	en	NUM	Mlpfpa	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	word=ene|msd=Kbzzmt
 10	take	tak	DET	Pd-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	word=take|msd=Zk-zmt
 11	č	_	X	Xt	_	13	reparandum	_	word=č|msd=Nt
-12	[gap]	[gap]	X	X	_	4	punct	_	word=[gap]|msd=N
+12	[gap]	[gap]	PUNCT	X	_	13	punct	_	word=[gap]|msd=N
 13	stare	star	ADJ	Agpfpa	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	word=stare|msd=Ppnzmt
 14	barve	barva	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	7	conj	_	word=barve|msd=Sozmt
 
@@ -70,7 +70,7 @@ The following 54 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 5 6 conj	color:blue
 1	preskok	preskok	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	word=preskok|msd=Sometn
 2	barve	barva	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	word=barve|msd=Sozer
-3	…	…	PUNCT	Z	_	1	punct	_	word=…|msd=U
+3	…	…	PUNCT	Z	_	6	punct	_	word=…|msd=U
 4	torej	torej	CCONJ	Cc	_	6	cc	_	word=torej|msd=Vp
 5	moder	moder	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	parataxis	_	word=moder|msd=Ppnmein
 6	rdeč	rdeč	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	word=rdeč|msd=Ppnmein

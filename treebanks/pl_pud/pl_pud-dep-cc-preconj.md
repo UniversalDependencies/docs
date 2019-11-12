@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 1	W	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	2	case	2:case	Case=Loc
 2	przemówieniu	przemówienie	NOUN	subst:sg:loc:n:ncol	Case=Loc|Gender=Neut|Number=Sing	12	obl	12:obl	_
 3	do	do	ADP	prep:gen	AdpType=Prep	4	case	4:case	Case=Gen
-4	rządu	rząd	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl:arg	2:obl:arg	_
+4	rządu	rząd	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod:arg	2:nmod:arg	_
 5	wkrótce	wkrótce	ADV	adv	_	7	advmod	7:advmod	_
 6	po	po	ADP	prep:loc	AdpType=Prep	7	case	7:case	Case=Loc
 7	przekroczeniu	przekroczyć	NOUN	ger:sg:loc:n:perf:aff	Aspect=Perf|Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	12	obl	12:obl	_

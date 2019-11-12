@@ -8,33 +8,33 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pl_pdb-dep-cc.html">cc</a></tt>.
 
-278 nodes (0%) are attached to their parents as `cc:preconj`.
+273 nodes (0%) are attached to their parents as `cc:preconj`.
 
-278 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.01798561151079.
+273 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.05494505494505.
 
-The following 15 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (137; 49% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (42; 15% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (30; 11% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (23; 8% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (15; 5% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (12; 4% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (9; 3% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (136; 50% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (43; 16% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (30; 11% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (23; 8% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (12; 4% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (12; 4% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (9; 3% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 cc:preconj	color:blue
-1	Tym	ten	DET	adj:sg:inst:m3:pos	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	2	det	2:det	_
-2	razem	raz	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	4:obl	_
-3	nie	nie	PART	part	Polarity=Neg	4	advmod:neg	4:advmod:neg	_
-4	było	być	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-5	jej	on	PRON	ppron3:sg:gen:f:ter:akc:npraep	Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	4	nsubj	4:nsubj	_
-6	ani	ani	CCONJ	conj	_	8	cc:preconj	8:cc:preconj	_
-7	przy	przy	ADP	prep:loc	AdpType=Prep	8	case	8:case	Case=Loc
-8	stoliku	stolik	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	4:obl	SpaceAfter=No
+# visual-style 6 5 cc:preconj	color:blue
+1	Mógł	móc	VERB	praet:sg:m3:imperf:nagl	Animacy=Inan|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	by	by	AUX	part	_	1	aux:cnd	1:aux:cnd	_
+3	być	być	AUX	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	4	cop	4:cop	_
+4	siedzibą	siedziba	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	1	xcomp	1:xcomp	_
+5	zarówno	zarówno	CCONJ	conj	_	6	cc:preconj	6:cc:preconj	_
+6	giełdy	giełda	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod	SpaceAfter=No
+7	,	,	PUNCT	interp	PunctType=Comm	8	punct	8:punct	_
+8	kina	kino	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	6	conj	4:nmod|6:conj	SpaceAfter=No
 9	,	,	PUNCT	interp	PunctType=Comm	12	punct	12:punct	_
-10	ani	ani	CCONJ	conj	_	12	cc	12:cc	_
-11	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	12	case	12:case	Case=Loc
-12	kolejce	kolejka	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	8	conj	4:obl|8:conj	SpaceAfter=No
-13	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
+10	jak	jak	CCONJ	conj	_	12	cc	12:cc	_
+11	i	i	CCONJ	conj	_	10	fixed	10:fixed	_
+12	muzeum	muzeum	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	6	conj	4:nmod|6:conj	SpaceAfter=No
+13	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~
 
@@ -62,27 +62,26 @@ The following 15 pairs of parts of speech are connected with `cc:preconj`: <tt><
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 cc:preconj	color:blue
-1	Wiadomo	wiadomo	VERB	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	0	root	0:root	SpaceAfter=No
-2	,	,	PUNCT	interp	PunctType=Comm	9	punct	9:punct	_
-3	że	że	SCONJ	comp	_	9	mark	9:mark	_
-4	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	6	case	6:case	Case=Loc
-5	tym	ten	DET	adj:sg:loc:m3:pos	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	6	det	6:det	_
-6	roku	rok	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	9:obl	_
-7	uczniowie	uczeń	NOUN	subst:pl:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	9:nsubj	_
-8	będą	być	AUX	bedzie:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	9	aux	9:aux	_
-9	zdawać	zdawać	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	1	ccomp	1:ccomp	_
-10	albo	albo	CCONJ	conj	_	11	cc:preconj	11:cc:preconj	_
-11	starą	stary	ADJ	adj:sg:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	15:amod	SpaceAfter=No
-12	,	,	PUNCT	interp	PunctType=Comm	14	punct	14:punct	_
-13	albo	albo	CCONJ	conj	_	14	cc	14:cc	_
-14	nową	nowy	ADJ	adj:sg:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	conj	11:conj|15:amod	_
-15	maturę	matura	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	9	obj	9:obj	SpaceAfter=No
-16	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 cc:preconj	color:blue
+1	17	17	X	dig	NumForm=Digit	4	list	4:list	SpaceAfter=No
+2	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
+3	Nie	nie	PART	part	Polarity=Neg	4	advmod:neg	4:advmod:neg	_
+4	mam	mieć	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	ani	ani	CCONJ	conj	_	7	cc:preconj	7:cc:preconj	_
+6	zbyt	zbyt	ADV	adv	_	7	advmod	7:advmod	_
+7	wysokiego	wysoki	ADJ	adj:sg:gen:n:pos	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	12:amod	SpaceAfter=No
+8	,	,	PUNCT	interp	PunctType=Comm	11	punct	11:punct	_
+9	ani	ani	CCONJ	conj	_	11	cc	11:cc	_
+10	zbyt	zbyt	ADV	adv	_	11	advmod	11:advmod	_
+11	małego	mały	ADJ	adj:sg:gen:n:pos	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	conj	7:conj|12:amod	_
+12	mniemania	mniemanie	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	4	iobj	4:iobj	_
+13	o	o	ADP	prep:loc	AdpType=Prep	14	case	14:case	Case=Loc
+14	sobie	siebie	PRON	siebie:loc	Case=Loc|PronType=Prs|Reflex=Yes	12	nmod:arg	12:nmod:arg	SpaceAfter=No
+15	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
 

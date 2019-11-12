@@ -65,7 +65,7 @@ The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href=
 24	ܚܲܝܠܵܐ	ܚܲܝܠܵܐ	NOUN	_	Gender=Masc|Number=Sing	20	advcl	_	_
 25	ܕ	ܕ	PART	_	_	26	case	_	_
 26	ܡܵܪܝܵܐ	ܡܵܪܝܵܐ	PROPN	_	Gender=Masc|Number=Sing	24	nmod	_	_
-27	ܒܸܬ	ܒܸܬ	PART	_	_	28	aux	_	_
+27	ܒܸܬ	ܒܸܬ	AUX	_	_	28	aux	_	_
 28	ܥܵܒ̣ܪܸܢ	ܥܵܒ̣ܪ	VERB	_	Gender=Masc|Number=Sing|Person=1|Tense=Pres	6	conj	_	_
 29	ܓܵܘ	ܓܵܘ	ADP	_	_	30	case	_	_
 30	ܒܹܝܬܨܵܘܒܵܐ	ܒܹܝܬܨܵܘܒܵܐ	NOUN	_	Number=Sing	28	obl	_	_

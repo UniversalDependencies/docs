@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sl_sst-pos-X.html">
 
 ### `X`
 
-96 <tt><a href="sl_sst-pos-X.html">X</a></tt> tokens (6% of all `X` tokens) have a non-empty value of `Foreign`.
+96 <tt><a href="sl_sst-pos-X.html">X</a></tt> tokens (13% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (96; 100% of non-empty `Foreign`): <em>green, of, grass, home, non, stop, beautiful, day, fa, gung</em>
-* `EMPTY` (1577): <em>[gap], [pause], [speaker:laughter], [audience:laughter], [:voice], s, [all:laughter], [incident], j, n</em>
+* `EMPTY` (656): <em>[pause], [gap], s, j, n, m, p, z, t, [:voice]</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (72) occur only with one value of `Foreign`.
 

@@ -9,11 +9,11 @@ udver: '2'
 There are 28 `NUM` lemmas (5%), 29 `NUM` types (5%) and 49 `NUM` tokens (4%).
 Out of 15 observed tags, the rank of `NUM` is: 5 in number of lemmas, 6 in number of types and 10 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>сизим, дас, куим, кык, десятой, мӧдэд, нёль, сорок, Девять, вит</em>
+The 10 most frequent `NUM` lemmas: <em>сизим, дас, куим, кык, десятой, мӧд, нёль, сорок, Девять, вит</em>
 
 The 10 most frequent `NUM` types:  <em>сизим, дас, куим, кык, десятой, мӧдэд, нёль, сорок, Девять, вит</em>
 
-The 10 most frequent ambiguous lemmas: 
+The 10 most frequent ambiguous lemmas: <em>мӧд</em> (<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> 2, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.035714 (the average of all parts of speech is 1.198459).
+The form / lemma ratio of `NUM` is 1.035714 (the average of all parts of speech is 1.221569).
 
 The 1st highest number of forms (2) was observed with the lemma “сизим”: <em>сизим, сизимед</em>.
 

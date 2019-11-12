@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `0` are language-specific.
 It occurs with 4 different values: `0`, `1`, `2`, `3`.
 
-998 tokens (5%) have a non-empty value of `Person`.
+992 tokens (5%) have a non-empty value of `Person`.
 433 types (6%) occur at least once with a non-empty value of `Person`.
 305 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (545; 3% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (226; 1% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (212; 1% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (15; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (539; 3% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (226; 1% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (212; 1% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (15; 0% instances).
 
 ### `VERB`
 
-545 <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `Person`.
+539 <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (545; 100%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (545; 100%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (545; 100%), <tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (543; 100%), <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (540; 99%), <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (469; 86%), <tt><a href="pl_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (447; 82%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (345; 63%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (539; 100%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (539; 100%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (539; 100%), <tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (537; 100%), <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (534; 99%), <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (463; 86%), <tt><a href="pl_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (441; 82%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (339; 63%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `0` (50; 9% of non-empty `Person`): <em>wprowadzono, mówiono, używano, wykorzystano, zbudowano, Dokonano, Podawano, Studiowano, Ustanowiono, Zabijano</em>
 * `1` (44; 8% of non-empty `Person`): <em>możemy, Mamy, Myślę, mam, musimy, wiem, Lubię, Mogę, Muszę, Ocenimy</em>
 * `2` (6; 1% of non-empty `Person`): <em>Musisz, Upuść, chcecie, irytujesz, kłócicie, nasłuchujesz</em>
-* `3` (445; 82% of non-empty `Person`): <em>może, ma, mogą, jest, mówi, należy, są, znajduje, będzie, chce</em>
+* `3` (439; 81% of non-empty `Person`): <em>może, ma, mogą, jest, mówi, należy, są, znajduje, będzie, chce</em>
 * `EMPTY` (1094): <em>powiedział, można, było, miał, miała, powiedziała, być, miały, udało, napisał</em>
 
 <table>

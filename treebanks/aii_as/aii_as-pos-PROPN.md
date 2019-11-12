@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Assyrian-AS: POS Tags: `PROPN`
 
 There are 9 `PROPN` lemmas (4%), 9 `PROPN` types (3%) and 12 `PROPN` tokens (3%).
-Out of 13 observed tags, the rank of `PROPN` is: 9 in number of lemmas, 10 in number of types and 12 in number of tokens.
+Out of 13 observed tags, the rank of `PROPN` is: 9 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>ܐܝܼܣܚܵܩ, ܐܢܛܘܢܝܘ, ܐܲܠܵܗܵܐ, ܐܵܫܘܼܪ, ܐܼܿܪܒܹܝܠ, ܡܵܪܝܵܐ, ܢܝܼܢܘܹܐ, ܢܨܝܼܒ̣ܝܼܢ, ܬܗܪܵܢ</em>
 

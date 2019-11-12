@@ -8,28 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-924 nodes (3%) are attached to their parents as `cop`.
+810 nodes (2%) are attached to their parents as `cop`.
 
-884 instances of `cop` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.2965367965368.
+771 instances of `cop` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.41975308641975.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (437; 47% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (306; 33% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (107; 12% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (45; 5% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (20; 2% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `cop`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (325; 40% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (310; 38% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (101; 12% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (27; 3% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (26; 3% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 2 cop	color:blue
-1	c'	ce	PRON	_	_	5	nsubj	_	_
-2	est	être	AUX	_	_	5	cop	_	_
-3	plus	plus	PART	_	_	5	dep	_	_
-4	au	à+le	ADP	_	_	5	case	_	_
-5	niveau	niveau	NOUN	_	_	0	root	_	_
+# visual-style 5 3 cop	color:blue
+1	ou	ou	CCONJ	_	_	5	cc	_	_
+2	c'	ce	PRON	_	_	5	nsubj	_	_
+3	est	être	AUX	_	_	5	cop	_	_
+4	l'	le	DET	_	_	5	det	_	_
+5	argent	argent	NOUN	_	_	0	root	_	_
 6	de	de	ADP	_	_	8	case	_	_
-7	la	le	DET	_	_	8	det	_	_
-8	fac	fac	NOUN	_	_	5	nmod	_	_
+7	le	le	DET	_	_	8	det	_	_
+8	cinéma	cinéma	NOUN	_	_	5	nmod	_	_
 
 ~~~
 
@@ -61,7 +61,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop	color:blue
 1	ben	ben	INTJ	_	_	4	discourse	_	_
-2	c'	ce	PRON	_	_	4	nsubj	_	_
+2	c'	ce	PRON	_	_	4	expl:subj	_	_
 3	est	être	AUX	_	_	4	cop	_	_
 4	moi	lui	PRON	_	_	0	root	_	_
 5	qui	qui	PRON	_	_	8	nsubj	_	_

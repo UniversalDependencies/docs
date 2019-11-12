@@ -40,7 +40,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-131 <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> tokens (97% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+131 <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="krl_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (115; 88%), <tt><a href="krl_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (114; 87%), <tt><a href="krl_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (113; 86%), <tt><a href="krl_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (102; 78%), <tt><a href="krl_kkpp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (84; 64%).
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 * `Fin` (127; 97% of non-empty `VerbForm`): <em>on, oli, ei, voit, ois, olet, ollah, oltih, pitäy, en</em>
 * `Inf` (3; 2% of non-empty `VerbForm`): <em>olla, olleššah</em>
 * `Part` (1; 1% of non-empty `VerbForm`): <em>ollun</em>
-* `EMPTY` (4): <em>ole, kennih</em>
+* `EMPTY` (3): <em>ole</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>

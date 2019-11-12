@@ -22,19 +22,19 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 13 acl	color:blue
-1	Ko'apy	ko'apy	ADV	adv	_	2	advmod	_	here
-2	roju	ju	VERB	vi:a	_	6	advcl	_	A1.EXCL-come
+1	Ko'apy	ko'apy	ADV	dem	_	2	advmod	_	here
+2	roju	ju	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	6	advcl	_	A1.PL.EXCL-come
 3	rire	rire	SCONJ	subordconn	_	2	mark	_	after
-4	ma	ma	PART	aspprt	_	2	advmod	_	ASP
+4	ma	ma	PART	aspprt	_	2	dep:mod	_	ASP
 5	,	,	PUNCT	punct	_	6	punct	_	_
-6	ou	u	VERB	vi:a	_	0	root	_	A3-come
-7	kuri	kuri	ADV	adv	_	6	advmod	_	CUR
+6	ou	u	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	A3-come
+7	kuri	kuri	PART	temprt	_	6	dep:mod	_	CUR
 8	cheñora	cheñora	NOUN	n	_	6	nsubj	_	lady
 9	,	,	PUNCT	punct	_	13	punct	_	_
 10	Patricia	Patricia	PROPN	nprop	_	13	nsubj	_	Patricia
 11	Madre	Madre	PROPN	nprop	_	10	fixed	_	Madre
 12	Tierra	Tierra	PROPN	nprop	_	10	fixed	_	Tierra
-13	oje'ea	je'e	VERB	vt	Person[subj]=3|Subcat=Tran	8	acl	_	A3-REFL-say-IMPRS
+13	oje'ea	je'e	VERB	vt	Mood=Ind|Person[subj]=3|Subcat=Tran|VerbForm=Fin	8	acl	_	A3-REFL-say-IMPRS
 14	.	.	PUNCT	punct	_	13	punct	_	_
 
 ~~~

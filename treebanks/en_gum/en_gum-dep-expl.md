@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-188 nodes (0%) are attached to their parents as `expl`.
+190 nodes (0%) are attached to their parents as `expl`.
 
-183 instances of `expl` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32446808510638.
+185 instances of `expl` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32105263157895.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (172; 91% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (11; 6% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (174; 92% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (11; 6% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 expl	color:blue
-1	There	There	PRON	EX	_	2	expl	_	_
+1	There	there	PRON	EX	_	2	expl	_	_
 2	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	things	thing	NOUN	NNS	Number=Plur	2	nsubj	_	_
 4	in	in	ADP	IN	_	6	case	_	_
@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 expl	color:blue
-1	There	There	PRON	EX	_	5	expl	_	_
+1	There	there	PRON	EX	_	5	expl	_	_
 2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	_	_
 4	much	much	ADJ	JJ	Degree=Pos	5	amod	_	_
