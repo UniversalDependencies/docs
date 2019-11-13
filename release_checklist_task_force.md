@@ -68,6 +68,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   this is how you remove the tag from where it is now: `git tag -d r2.1`.
   And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.<br />
   <code>for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.5 ; git push --tags ; cd .. ; echo ; done</code>
+  **Note: We will later update certain files in the `docs` repository (statistics etc.)
+  It may be thus better to wait with tagging the repositories until `docs` is in its final state.**
 
 ## Updating automatically generated parts of documentation
 
