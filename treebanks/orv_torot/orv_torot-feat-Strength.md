@@ -12,7 +12,7 @@ It occurs with 2 different values: `Strong`, `Weak`.
 17011 tokens (11%) have a non-empty value of `Strength`.
 9173 types (28%) occur at least once with a non-empty value of `Strength`.
 2783 lemmas (31%) occur at least once with a non-empty value of `Strength`.
-The feature is used with 4 part-of-speech tags: <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (9288; 6% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (7241; 5% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (481; 0% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (9288; 6% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (7242; 5% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (480; 0% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
@@ -64,13 +64,13 @@ The most frequent other feature values with which `ADJ` and `Strength` co-occurr
 
 ### `VERB`
 
-7241 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Strength`.
+7242 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Strength`.
 
-The most frequent other feature values with which `VERB` and `Strength` co-occurred: <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7241; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7241; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7241; 100%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6486; 90%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6264; 87%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6041; 83%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5871; 81%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4778; 66%).
+The most frequent other feature values with which `VERB` and `Strength` co-occurred: <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7242; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7242; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7242; 100%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6487; 90%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6265; 87%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6042; 83%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5872; 81%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4779; 66%).
 
 `VERB` tokens may have the following values of `Strength`:
 
-* `Strong` (6563; 91% of non-empty `Strength`): <em>слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, пришедшю, слышавше</em>
+* `Strong` (6564; 91% of non-empty `Strength`): <em>слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, пришедшю, слышавше</em>
 * `Weak` (678; 9% of non-empty `Strength`): <em>вѣдыи, послании, имыи, рекыи, стрѣлѧющим, идыи, могыи, золоченꙑми, любѧи, приходѧщая</em>
 
 <table>
@@ -104,13 +104,13 @@ The most frequent other feature values with which `VERB` and `Strength` co-occur
 
 ### `AUX`
 
-481 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (15% of all `AUX` tokens) have a non-empty value of `Strength`.
+480 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (15% of all `AUX` tokens) have a non-empty value of `Strength`.
 
-The most frequent other feature values with which `AUX` and `Strength` co-occurred: <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (481; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (481; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (481; 100%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (481; 100%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (395; 82%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (355; 74%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (336; 70%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (249; 52%).
+The most frequent other feature values with which `AUX` and `Strength` co-occurred: <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (480; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (480; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (480; 100%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (480; 100%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (394; 82%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (354; 74%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (335; 70%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (249; 52%).
 
 `AUX` tokens may have the following values of `Strength`:
 
-* `Strong` (378; 79% of non-empty `Strength`): <em>сущю, бывъ, сѹщю, было, бывшю, былъ, бывше, сѹще, сѹща, сѹщи</em>
+* `Strong` (377; 79% of non-empty `Strength`): <em>сущю, бывъ, сѹщю, было, бывшю, былъ, бывше, сѹще, сѹща, сѹщи</em>
 * `Weak` (103; 21% of non-empty `Strength`): <em>сыи, будущии, бывшая, сущая, сущим, сѹщиимъ, сѹщиихъ, бывшаго, бывъшеѥ, соущїи</em>
 
 <table>
@@ -185,7 +185,7 @@ The 10 most frequent relations where parent and child node agree in `Strength`:
 <tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (629; 53%),
 <tt>ADJ --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> ADJ</tt> (327; 90%),
 <tt>ADJ --[<tt><a href="orv_torot-dep-flat.html">flat</a></tt>]--> ADJ</tt> (27; 100%),
-<tt>VERB --[<tt><a href="orv_torot-dep-flat.html">flat</a></tt>]--> VERB</tt> (7; 100%),
+<tt>VERB --[<tt><a href="orv_torot-dep-flat.html">flat</a></tt>]--> VERB</tt> (8; 100%),
 <tt>ADJ --[<tt><a href="orv_torot-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (4; 80%),
 <tt>ADJ --[<tt><a href="orv_torot-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (4; 57%),
 <tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 67%),

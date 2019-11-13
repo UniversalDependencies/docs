@@ -12,18 +12,19 @@ It occurs with 2 different values: `Neg`, `Pos`.
 912 tokens (17%) have a non-empty value of `Polarity`.
 650 types (28%) occur at least once with a non-empty value of `Polarity`.
 394 lemmas (25%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 7 part-of-speech tags: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (711; 13% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (108; 2% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (42; 1% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (20; 0% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="lt_hse-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (707; 13% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (112; 2% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (42; 1% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (20; 0% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="lt_hse-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances).
 
 ### `VERB`
 
-711 <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
+707 <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (658; 93%), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (627; 88%), <tt><a href="lt_hse-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (565; 79%), <tt><a href="lt_hse-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (543; 76%), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (533; 75%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (387; 54%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (377; 53%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (654; 93%), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (623; 88%), <tt><a href="lt_hse-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (561; 79%), <tt><a href="lt_hse-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (539; 76%), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (529; 75%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (383; 54%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (374; 53%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (97; 14% of non-empty `Polarity`): <em>nėra, negali, neapėmė, nemėgsta, nesiskiria, Nedrįskite, Nesame, Nesinori, Neturėtume, laikąs</em>
-* `Pos` (614; 86% of non-empty `Polarity`): <em>gali, turi, vadinami, žinoma, būti, galima, sako, žino, analizuoja, bando</em>
+* `Pos` (610; 86% of non-empty `Polarity`): <em>gali, turi, vadinami, žinoma, būti, galima, sako, žino, analizuoja, bando</em>
+* `EMPTY` (1): <em>prašom</em>
 
 <table>
   <tr><th>Paradigm <i>galėti</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -41,14 +42,14 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 ### `AUX`
 
-108 <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Polarity`.
+112 <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (108; 100%), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (107; 99%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (101; 94%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt> (95; 88%), <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (88; 81%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (86; 80%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (112; 100%), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (111; 99%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (105; 94%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt> (98; 88%), <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (92; 82%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (89; 79%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (22; 20% of non-empty `Polarity`): <em>nėra, nebūtų, nebuvo, nebus, nebūna, nebūsi, nesame</em>
-* `Pos` (86; 80% of non-empty `Polarity`): <em>buvo, yra, būtų, būti, būna, esu, Esama, Esame, bus, būsime</em>
+* `Pos` (90; 80% of non-empty `Polarity`): <em>buvo, yra, būtų, būti, būna, esu, bus, Esama, Esame, būsime</em>
 
 <table>
   <tr><th>Paradigm <i>būti</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -77,7 +78,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (42; 100% of non-empty `Polarity`): <em>ne, nė</em>
-* `EMPTY` (127): <em>ir, beje, net, taip, jau, bent, gal, pat, netgi, turbūt</em>
+* `EMPTY` (126): <em>ir, beje, net, taip, jau, bent, gal, pat, netgi, turbūt</em>
 
 ### `ADJ`
 
@@ -128,13 +129,13 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>VERB --[<tt><a href="lt_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (79; 81%),
-<tt>VERB --[<tt><a href="lt_hse-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (71; 78%),
+<tt>VERB --[<tt><a href="lt_hse-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (71; 77%),
 <tt>VERB --[<tt><a href="lt_hse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (29; 76%),
 <tt>VERB --[<tt><a href="lt_hse-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (23; 70%),
 <tt>VERB --[<tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (21; 57%),
-<tt>VERB --[<tt><a href="lt_hse-dep-aux.html">aux</a></tt>]--> AUX</tt> (19; 76%),
+<tt>VERB --[<tt><a href="lt_hse-dep-aux.html">aux</a></tt>]--> AUX</tt> (20; 77%),
 <tt>VERB --[<tt><a href="lt_hse-dep-cop.html">cop</a></tt>]--> AUX</tt> (3; 60%),
-<tt>VERB --[<tt><a href="lt_hse-dep-aux-pass.html">aux:pass</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="lt_hse-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="lt_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="lt_hse-dep-advmod.html">advmod</a></tt>]--> CCONJ</tt> (1; 100%).
 

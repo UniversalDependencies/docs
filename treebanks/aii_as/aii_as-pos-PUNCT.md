@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Assyrian-AS: POS Tags: `PUNCT`
 
 There are 6 `PUNCT` lemmas (2%), 5 `PUNCT` types (2%) and 66 `PUNCT` tokens (15%).
-Out of 13 observed tags, the rank of `PUNCT` is: 10 in number of lemmas, 11 in number of types and 2 in number of tokens.
+Out of 13 observed tags, the rank of `PUNCT` is: 10 in number of lemmas, 10 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ?, ,, :, _, ،</em>
 

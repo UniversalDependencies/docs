@@ -72,7 +72,7 @@ Examples: <em>je</em>
 
 `AUX` nodes are attached to their parents using 2 different relations: <tt><a href="sl_ssj-dep-aux.html">aux</a></tt> (7153; 72% instances), <tt><a href="sl_ssj-dep-cop.html">cop</a></tt> (2826; 28% instances)
 
-Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (6433; 64% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (2445; 25% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (978; 10% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (66; 1% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (31; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (3; 0% instances)
+Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (6433; 64% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (2447; 25% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (960; 10% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (66; 1% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (31; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (19; 0% instances)
 
 9978 (100%) `AUX` nodes are leaves.
 

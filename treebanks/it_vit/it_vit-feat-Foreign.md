@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>coalition</em>
-* `EMPTY` (57987): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
+* `EMPTY` (57990): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
 
 ## Relations with Agreement in `Foreign`
 

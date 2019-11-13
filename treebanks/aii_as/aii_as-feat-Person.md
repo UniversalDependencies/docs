@@ -16,7 +16,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="aii_as-pos-AUX.html
 
 ### `AUX`
 
-39 <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `Person`.
+39 <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="aii_as-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (33; 85%), <tt><a href="aii_as-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 69%), <tt><a href="aii_as-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21; 54%), <tt><a href="aii_as-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21; 54%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `1` (7; 18% of non-empty `Person`): <em>ܝܘܸܢ, ܝܼܘܵܢ, ܡܵܨܸܢ</em>
 * `2` (3; 8% of non-empty `Person`): <em>ܝ݇ܘܸܬ, ܝ݇ܘܹܬ, ܝ݇ܬܘܢ</em>
 * `3` (29; 74% of non-empty `Person`): <em>ܝܠܹܗ, ܝܠܵܗܿ, ܝ݇ܢܵܐ, ܝܢܵܐ, ܝܠܹܐ, ܝܠܸܗ, ܝܼܠܵܗܿ, ܦܵܝܫܵܐ</em>
-* `EMPTY` (1): <em>ܝ݇ܬܝܼܒܵܐ</em>
+* `EMPTY` (12): <em>ܒܸܕ, ܒܸܬ, ܟܹܐ, ܒ, ܒܹܬ, ܝ݇ܬܝܼܒܵܐ, ܟܲܕ, ܟܸܐ, ܩܲܡ</em>
 
 <table>
   <tr><th>Paradigm <i>ܗܵܘܹܐ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -65,7 +65,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 27 <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> tokens (63% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="aii_as-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (19; 70%), <tt><a href="aii_as-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (18; 67%), <tt><a href="aii_as-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18; 67%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="aii_as-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (20; 74%), <tt><a href="aii_as-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (18; 67%), <tt><a href="aii_as-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18; 67%).
 
 `PRON` tokens may have the following values of `Person`:
 

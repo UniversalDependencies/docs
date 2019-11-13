@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-965 nodes (4%) are attached to their parents as `root`.
+1575 nodes (4%) are attached to their parents as `root`.
 
-965 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.06321243523316.
+1575 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.5752380952381.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (792; 82% instances), -<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (96; 10% instances), -<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (40; 4% instances), -<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (24; 2% instances), -<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (7; 1% instances), -<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), -<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1298; 82% instances), -<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (138; 9% instances), -<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (81; 5% instances), -<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (38; 2% instances), -<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), -<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (7; 0% instances), -<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 3 root	color:blue
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	_
 2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-3	ⲧⲛⲧⲱⲛ	ⲧⲟⲛⲧⲛ	VERB	VSTAT	VerbForm=Fin	0	root	_	Orig=ⲧ︤ⲛ︥Ⲧⲱⲛ`
+3	ⲧⲛⲧⲱⲛ	ⲧⲟⲛⲧⲛ	VERB	VSTAT	VerbForm=Fin	0	root	_	Orig=ⲧ︤ⲛ︥ⲧⲱⲛ`
 4	ⲉ	ⲉ	ADP	PREP	_	6	case	_	_
 5	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 6	ϩⲏⲃⲥ	ϩⲏⲃⲥ	NOUN	N	_	3	obl	_	Orig=ϩⲏⲃ︤ⲥ︥`

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-GB: POS Tags: `ADV`
 
-There are 172 `ADV` lemmas (8%), 174 `ADV` types (3%) and 1073 `ADV` tokens (6%).
+There are 171 `ADV` lemmas (8%), 174 `ADV` types (3%) and 1072 `ADV` tokens (6%).
 Out of 16 observed tags, the rank of `ADV` is: 5 in number of lemmas, 7 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>çok, daha, de, artık, da, en, hiç, bile, biraz, pek</em>
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>çok</em> (<tt><a href="tr_gb-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.011628 (the average of all parts of speech is 2.314222).
+The form / lemma ratio of `ADV` is 1.017544 (the average of all parts of speech is 2.302829).
 
 The 1st highest number of forms (3) was observed with the lemma “-ce”: <em>ca, ce, ça</em>.
 
@@ -71,25 +71,25 @@ The 3rd highest number of forms (2) was observed with the lemma “ise”: <em>s
 `ADV` occurs with 1 feature-value pairs: `PronType=Int`
 
 `ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1042 tokens).
+The most frequent feature combination is `_` (1041 tokens).
 Examples: <em>çok, daha, de, artık, da, en, hiç, bile, biraz, pek</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 15 different relations: <tt><a href="tr_gb-dep-advmod.html">advmod</a></tt> (753; 70% instances), <tt><a href="tr_gb-dep-advmod-emph.html">advmod:emph</a></tt> (130; 12% instances), <tt><a href="tr_gb-dep-discourse.html">discourse</a></tt> (112; 10% instances), <tt><a href="tr_gb-dep-fixed.html">fixed</a></tt> (24; 2% instances), <tt><a href="tr_gb-dep-case.html">case</a></tt> (19; 2% instances), <tt><a href="tr_gb-dep-compound-redup.html">compound:redup</a></tt> (15; 1% instances), <tt><a href="tr_gb-dep-cc.html">cc</a></tt> (9; 1% instances), <tt><a href="tr_gb-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="tr_gb-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="tr_gb-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-root.html">root</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 15 different relations: <tt><a href="tr_gb-dep-advmod.html">advmod</a></tt> (753; 70% instances), <tt><a href="tr_gb-dep-advmod-emph.html">advmod:emph</a></tt> (130; 12% instances), <tt><a href="tr_gb-dep-discourse.html">discourse</a></tt> (112; 10% instances), <tt><a href="tr_gb-dep-fixed.html">fixed</a></tt> (26; 2% instances), <tt><a href="tr_gb-dep-case.html">case</a></tt> (19; 2% instances), <tt><a href="tr_gb-dep-compound-redup.html">compound:redup</a></tt> (15; 1% instances), <tt><a href="tr_gb-dep-cc.html">cc</a></tt> (7; 1% instances), <tt><a href="tr_gb-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="tr_gb-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="tr_gb-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-root.html">root</a></tt> (1; 0% instances), <tt><a href="tr_gb-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (623; 58% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (170; 16% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (120; 11% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (95; 9% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (38; 4% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (620; 58% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (171; 16% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (120; 11% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (95; 9% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (38; 4% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances),  (1; 0% instances)
 
 952 (89%) `ADV` nodes are leaves.
 
-111 (10%) `ADV` nodes have one child.
+110 (10%) `ADV` nodes have one child.
 
 10 (1%) `ADV` nodes have two children.
 
 The highest child degree of a `ADV` node is 2.
 
-Children of `ADV` nodes are attached using 12 different relations: <tt><a href="tr_gb-dep-advmod.html">advmod</a></tt> (55; 42% instances), <tt><a href="tr_gb-dep-fixed.html">fixed</a></tt> (23; 18% instances), <tt><a href="tr_gb-dep-compound-redup.html">compound:redup</a></tt> (15; 11% instances), <tt><a href="tr_gb-dep-advmod-emph.html">advmod:emph</a></tt> (10; 8% instances), <tt><a href="tr_gb-dep-punct.html">punct</a></tt> (10; 8% instances), <tt><a href="tr_gb-dep-nmod.html">nmod</a></tt> (7; 5% instances), <tt><a href="tr_gb-dep-aux-q.html">aux:q</a></tt> (3; 2% instances), <tt><a href="tr_gb-dep-nmod-comp.html">nmod:comp</a></tt> (3; 2% instances), <tt><a href="tr_gb-dep-advcl.html">advcl</a></tt> (2; 2% instances), <tt><a href="tr_gb-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="tr_gb-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="tr_gb-dep-conj.html">conj</a></tt> (1; 1% instances)
+Children of `ADV` nodes are attached using 12 different relations: <tt><a href="tr_gb-dep-advmod.html">advmod</a></tt> (55; 42% instances), <tt><a href="tr_gb-dep-fixed.html">fixed</a></tt> (23; 18% instances), <tt><a href="tr_gb-dep-compound-redup.html">compound:redup</a></tt> (15; 12% instances), <tt><a href="tr_gb-dep-advmod-emph.html">advmod:emph</a></tt> (10; 8% instances), <tt><a href="tr_gb-dep-punct.html">punct</a></tt> (9; 7% instances), <tt><a href="tr_gb-dep-nmod.html">nmod</a></tt> (7; 5% instances), <tt><a href="tr_gb-dep-aux-q.html">aux:q</a></tt> (3; 2% instances), <tt><a href="tr_gb-dep-nmod-comp.html">nmod:comp</a></tt> (3; 2% instances), <tt><a href="tr_gb-dep-advcl.html">advcl</a></tt> (2; 2% instances), <tt><a href="tr_gb-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="tr_gb-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="tr_gb-dep-conj.html">conj</a></tt> (1; 1% instances)
 
-Children of `ADV` nodes belong to 10 different parts of speech: <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (95; 73% instances), <tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (10; 8% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (8; 6% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (6; 5% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Children of `ADV` nodes belong to 10 different parts of speech: <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (95; 73% instances), <tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (9; 7% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (8; 6% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (6; 5% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 

@@ -63,7 +63,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Int` (95; 62% of non-empty `PronType`): <em>кода, ков, косто, косо, зняро, зярдо, зяро, мекс, козонь, Мезекс</em>
 * `Rel` (23; 15% of non-empty `PronType`): <em>зярдо, кода, козонь, зняро, косо, кува, знярдо, зярс, ков</em>
 * `Tot` (6; 4% of non-empty `PronType`): <em>свал</em>
-* `EMPTY` (1205): <em>ансяк, пек, истя, уш, ней, мейле, седе, прок, яла, эщо</em>
+* `EMPTY` (1204): <em>ансяк, пек, истя, уш, ней, мейле, седе, прок, яла, эщо</em>
 
 <table>
   <tr><th>Paradigm <i>кода</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -123,7 +123,7 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 `AUX` tokens may have the following values of `PronType`:
 
 * `Int` (1; 100% of non-empty `PronType`): <em>ят</em>
-* `EMPTY` (684): <em>а, аволь, _, эзь, апак, ульнесь, арась, ль, ули, иля</em>
+* `EMPTY` (685): <em>а, аволь, _, эзь, апак, ульнесь, арась, ль, ули, иля</em>
 
 ## Relations with Agreement in `PronType`
 

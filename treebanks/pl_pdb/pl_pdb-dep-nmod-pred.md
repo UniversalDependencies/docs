@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PDB: Relations: `nmod:pred`
 
 This relation is a language-specific subtype of <tt><a href="pl_pdb-dep-nmod.html">nmod</a></tt>.
-There are also 2 other language-specific subtypes of `nmod`: <tt><a href="pl_pdb-dep-nmod-arg.html">nmod:arg</a></tt>, <tt><a href="pl_pdb-dep-nmod-flat.html">nmod:flat</a></tt>.
+There are also 3 other language-specific subtypes of `nmod`: <tt><a href="pl_pdb-dep-nmod-arg.html">nmod:arg</a></tt>, <tt><a href="pl_pdb-dep-nmod-flat.html">nmod:flat</a></tt>, <tt><a href="pl_pdb-dep-nmod-poss.html">nmod:poss</a></tt>.
 
 12 nodes (0%) are attached to their parents as `nmod:pred`.
 
@@ -72,7 +72,7 @@ The following 4 pairs of parts of speech are connected with `nmod:pred`: <tt><a 
 9	bycie	być	NOUN	ger:sg:nom:n:imperf:aff	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	13	nsubj	13:nsubj	_
 10	kimś	ktoś	PRON	subst:sg:inst:m1	Animacy=Hum|Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	9	nmod:pred	9:nmod:pred	_
 11	niepowtarzalnym	niepowtarzalny	ADJ	adj:sg:inst:m1:pos	Animacy=Hum|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	10:amod	_
-12	też	też	PART	part	_	13	advmod	13:advmod	_
+12	też	też	PART	part	_	13	advmod:emph	13:advmod:emph	_
 13	ma	mieć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	6:ccomp	_
 14	swoje	swój	DET	adj:pl:acc:f:pos	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	15	det:poss	15:det:poss	_
 15	zalety	zaleta	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	13	iobj	13:iobj	SpaceAfter=No

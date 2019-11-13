@@ -28,7 +28,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 4	geç	geç	ADV	_	_	5	advmod	_	_
 5	gelmesi	gel	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	6	nsubj:cop	_	_
 6	iyi	iyi	ADJ	_	_	0	root	_	_
-7	oldu	ol	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	SpaceAfter=No
+7	oldu	ol	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -61,7 +61,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 4	en	en	ADV	_	_	5	advmod	_	_
 5	vahşisi	vahşi	NOUN	_	Case=Nom|Number=Sing	6	nsubj:cop	_	_
 6	kaplan	kaplan	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
-7	mış	i	AUX	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	_
+7	mış	i	AUX	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 8	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~

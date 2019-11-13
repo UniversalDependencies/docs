@@ -23,9 +23,9 @@ The following 4 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 3 appos	color:blue
 1	Biz	biz	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
-2	üç	üç	NUM	_	NumType=Ord	3	nummod	_	_
+2	üç	üç	NUM	_	NumType=Card	3	nummod	_	_
 3	arkadaş	arkadaş	NOUN	_	Case=Nom|Number=Sing	1	appos	_	_
-4	konuşuyoruz	konuş	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
+4	konuşuyoruz	konuş	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -42,7 +42,7 @@ The following 4 pairs of parts of speech are connected with `appos`: <tt><a href
 3	şeylerle	şey	NOUN	_	Case=Ins|Number=Plur	6	obl	_	_
 4	çok	çok	ADV	_	_	5	advmod	_	_
 5	iyi	iyi	ADV	_	_	6	advmod	_	_
-6	gidiyor	git	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+6	gidiyor	git	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	örneğin	örneğin	ADV	_	_	10	discourse	_	_
 9	kuzu	kuzu	NOUN	_	Case=Nom|Number=Sing	10	nmod	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-192 nodes (1%) are attached to their parents as `det`.
+193 nodes (1%) are attached to their parents as `det`.
 
-190 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26041666666667.
+191 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25906735751295.
 
-The following 6 pairs of parts of speech are connected with `det`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (181; 94% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `det`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (182; 94% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

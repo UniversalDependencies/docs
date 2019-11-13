@@ -8,26 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-54 nodes (0%) are attached to their parents as `orphan`.
+6 nodes (0%) are attached to their parents as `orphan`.
 
-54 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.94444444444444.
+6 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.16666666666667.
 
-The following 20 pairs of parts of speech are connected with `orphan`: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (15; 28% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (7; 13% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (4; 7% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (3; 6% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (3; 6% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 orphan	color:blue
-1	Per	Per	ADP	APPR	_	2	case	_	_
-2	Sprache	Sprache	NOUN	NN	Gender=Fem|Number=Sing|Person=3	0	root	_	_
-3	durchs	durchs	ADP	APPRART	Case=Acc|Gender=Neut	4	case	_	_
-4	Web	Web	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	orphan	_	_
-
-~~~
+The following 2 pairs of parts of speech are connected with `orphan`: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (4; 67% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (2; 33% instances).
 
 
 ~~~ conllu
@@ -36,27 +22,48 @@ The following 20 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 orphan	color:blue
-1	Roter	rot	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
-2	Punkt	Punkt	NOUN	NN	Gender=Masc|Number=Sing|Person=3	0	root	_	_
-3	zu	zu	PART	PTKZU	_	4	mark	_	_
-4	vermieten	vermieten	VERB	VVINF	_	2	orphan	_	_
+1	Alle	all	DET	PIDAT	Case=Nom|Number=Plur|Person=3	2	det	_	_
+2	Schulen	Schule	NOUN	NN	Gender=Fem|Number=Plur|Person=3	0	root	_	_
+3	ans	ans	ADP	APPRART	AdpType=Prep|Case=Acc|Gender=Neut|PronType=Art	4	case	_	_
+4	Netz	Netz	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	orphan	_	_
+5	und	und	CCONJ	KON	_	7	cc	_	_
+6	jedem	jeder	DET	PIAT	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Neg,Tot	7	det	_	_
+7	Schüler	Schüler	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	conj	_	_
+8	einen	einen	DET	ART	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Laptop	Laptop	NOUN	NN	Gender=Masc|Number=Sing|Person=3	7	orphan	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 orphan	color:blue
-1	Zwischen	Zwischen	ADP	APPR	Case=Dat	3	case	_	_
-2	den	den	DET	ART	Case=Dat|Number=Plur	3	det	_	_
-3	Zeilen	Zeile	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3	0	root	_	_
-4	(	(	PUNCT	$(	_	5	punct	_	_
-5	Janko	Janko	PROPN	NE	Number=Sing|Person=3	3	orphan	_	_
-6	Röttgers	Röttgers	PROPN	NE	Case=Gen|Number=Sing|Person=3	5	flat:name	_	_
-7	)	)	PUNCT	$(	_	5	punct	_	_
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 22 orphan	color:blue
+1	Die	Die	DET	ART	Case=Nom|Number=Plur|PronType=Art	2	det	_	_
+2	Anwenderzahlen	Zahl	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	3	nsubj	_	_
+3	liegen	liegen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	nach	nach	ADV	ADV	_	3	advmod	_	_
+5	wie	wie	CCONJ	KOKOM	ConjType=Comp	6	mark	_	_
+6	vor	vor	ADV	ADV	_	4	advcl	_	_
+7	unter	unter	ADP	APPR	AdpType=Prep|Case=Dat	9	case	_	_
+8	der	der	DET	ART	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	100.000-Marke	Marke	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing|Person=3	3	obl	_	_
+10	,	,	PUNCT	$,	PunctType=Comm	16	punct	_	_
+11	während	während	SCONJ	KOUS	_	16	mark	_	_
+12	T-Online	T-Online	PROPN	NE	Case=Nom|Number=Sing|Person=3	16	nsubj	_	_
+13	1,7	1,7	NUM	CARD	Number=Plur|NumType=Card|Person=3	14	nummod	_	_
+14	Millionen	Million	NOUN	NN	Gender=Fem|Number=Plur|Person=3	15	nummod	_	_
+15	Teilnehmer	Teilnehmer	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	16	obj	_	_
+16	zählt	zählen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+17	,	,	PUNCT	$,	PunctType=Comm	16	punct	_	_
+18	AOL	AOL	PROPN	NE	Case=Nom|Number=Sing|Person=3	16	conj	_	_
+19	400.000	400.000	NUM	CARD	Number=Plur|NumType=Card|Person=3	18	orphan	_	_
+20	und	und	CCONJ	KON	_	21	cc	_	_
+21	CompuServe	CompuServe	PROPN	NE	Person=3	16	conj	_	_
+22	280.000	280.000	NUM	CARD	Number=Plur|NumType=Card|Person=3	21	orphan	_	_
+23	.	.	PUNCT	$.	PunctType=Peri	3	punct	_	_
 
 ~~~
 

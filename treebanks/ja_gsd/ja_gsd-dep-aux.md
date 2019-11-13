@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21416 nodes (12%) are attached to their parents as `aux`.
+21394 nodes (12%) are attached to their parents as `aux`.
 
-21416 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.75158759805753.
+21394 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.75133214920071.
 
-The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (18243; 85% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (2426; 11% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (666; 3% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (46; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (18219; 85% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (2427; 11% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (665; 3% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (46; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

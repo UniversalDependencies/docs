@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 iobj	color:blue
-1	Rhoddodd	rhoi	VERB	verb	Number=Sing|Person=3|Tense=Past	0	root	_	_
+1	Rhoddodd	rhoi	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 2	hyn	hyn	PRON	dem	Number=Plur|PronType=Dem	1	nsubj	_	_
 3	gryfder	cryfder	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	1	obj	_	_
 4	i	i	ADP	prep	_	5	case	_	_
@@ -54,11 +54,11 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 30	mor	mor	ADV	adv	_	31	advmod	_	_
 31	gynted	cynt	ADJ	eq	Degree=Equ|Mutation=SM	24	advcl	_	_
 32	ag	â	CCONJ	cconj	_	35	cc	_	_
-33	oedd	bod	AUX	aux	Number=Sing|Person=3|Tense=Imp	35	cop	_	_
+33	oedd	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Imp	35	cop	_	_
 34	yn	yn	PART	pred	_	35	case:pred	_	_
 35	bosib	bosib	ADJ	pos	Degree=Pos	31	advcl	_	SpaceAfter=No
 36	,	,	PUNCT	punct	_	38	punct	_	_
-37	bu	bod	AUX	aux	Number=Sing|Person=3|Tense=Past	38	cop	_	_
+37	bu	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Past	38	cop	_	_
 38	rhaid	rhaid	NOUN	noun	Gender=Masc|Number=Sing	1	conj	_	_
 39	iddo	i	ADP	cprep	Gender=Masc|Number=Sing|Person=3	40	nsubj	_	_
 40	wneud	gwneud	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	38	acl	_	_

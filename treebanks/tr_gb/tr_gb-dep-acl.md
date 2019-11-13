@@ -37,7 +37,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 acl	color:blue
-1	bugün	bugün	NOUN	_	Case=Nom|Number=Sing	2	nmod:tmod	_	_
+1	bugün	bugün	NOUN	_	Case=Nom|Number=Sing	2	obl:tmod	_	_
 2	işte	iş	NOUN	_	Case=Loc|Number=Sing	4	acl	_	_
 3	olan	ol	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Part	2	cop	_	_
 4	kadın	kadın	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
@@ -54,12 +54,12 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 1	Yemeğin	yemek	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	_
 2	altını	alt	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obj	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	kaynadıktan	kayna	VERB	_	Mood=Ind|Tense=Past	5	acl	_	_
+4	kaynadıktan	kayna	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl	_	_
 5	ne	ne	PRON	_	Case=Nom|Number=Sing|PronType=Int	7	nmod	_	_
 6	kadar	kadar	ADP	_	_	5	case	_	_
 7	zaman	zaman	NOUN	_	Case=Nom|Number=Sing	9	obl	_	_
 8	sonra	sonra	ADP	_	_	7	case	_	_
-9	kapatıyorsunuz	kapa	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres|Voice=Cau	0	root	_	SpaceAfter=No
+9	kapatıyorsunuz	kapa	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	_	SpaceAfter=No
 10	?	?	PUNCT	_	_	9	punct	_	_
 
 ~~~

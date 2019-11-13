@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hy_armtdp-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="hy_armtdp-dep-nsubj-caus.html">nsubj:caus</a></tt>.
 
-141 nodes (0%) are attached to their parents as `nsubj:pass`.
+184 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-77 instances of `nsubj:pass` (55%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.65957446808511.
+103 instances of `nsubj:pass` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.10869565217391.
 
-The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (110; 78% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (24; 17% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (144; 78% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (31; 17% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (6; 3% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 nsubj:pass	color:blue
-1	Քո	դու	DET	_	Case=Gen|Number=Sing|Person=2|Polite=Infm|Poss=Yes|PronType=Prs	3	det:poss	_	Translit=k’o|LTranslit=dow
+1	Քո	դու	DET	_	Case=Gen|Number=Sing|Person=2|Polite=Infm|Poss=Yes|PronType=Prs	3	det:poss	_	Translit=K’o|LTranslit=dow
 2	բոլոր	բոլոր	DET	_	PronType=Tot	3	det	_	Translit=bolor|LTranslit=bolor
 3	ճակատամարտերն	ճակատամարտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	7	nsubj:pass	_	Translit=č̣akatamartern|LTranslit=č̣akatamart
 4	այլևս	այլևս	ADV	_	_	7	advmod	_	Translit=aylews|LTranslit=aylews
@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj:pass	color:blue
-1	Դա	դա	PRON	_	Case=Nom|Distance=Med|Number=Sing|PronType=Dem	2	nsubj:pass	_	Translit=da|LTranslit=da
+1	Դա	դա	PRON	_	Case=Nom|Distance=Med|Number=Sing|PronType=Dem	2	nsubj:pass	_	Translit=Da|LTranslit=da
 2	արտահայտվեց	արտահայտել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=artahaytvec’|LTranslit=artahaytel
 3	հիմնականում	հիմնականում	ADV	_	_	4	advmod:emph	_	Translit=himnakanowm|LTranslit=himnakanowm
 4	ներմուծման	ներմուծում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	6	nmod:poss	_	Translit=nermowçman|LTranslit=nermowçowm
@@ -60,14 +60,14 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 11	fgColor:white
 # visual-style 11 8 nsubj:pass	color:blue
 1	—	—	PUNCT	_	_	3	punct	_	Translit=—|LTranslit=—
-2	Հնարավոր	հնարավոր	ADJ	_	Degree=Pos	3	xcomp	_	Translit=hnaravor|LTranslit=hnaravor
+2	Հնարավոր	հնարավոր	ADJ	_	Degree=Pos	3	xcomp	_	Translit=Hnaravor|LTranslit=hnaravor
 3	համարում	համարել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=hamarowm|LTranslit=hamarel
 4	՞	՞	PUNCT	_	_	3	punct	_	Translit=?|LTranslit=?
 5	եք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	Translit=ek’|LTranslit=em|SpaceAfter=No
 6	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
 7	որ	որ	SCONJ	_	_	11	mark	_	Translit=or|LTranslit=or
-8	Սերժ	Սերժ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	11	nsubj:pass	_	Translit=serž|LTranslit=serž
-9	Սարգսյանը	Սարգսյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	8	flat	_	Translit=sargsyanë|LTranslit=sargsyan
+8	Սերժ	Սերժ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	11	nsubj:pass	_	Translit=Serž|LTranslit=Serž
+9	Սարգսյանը	Սարգսյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	8	flat	_	Translit=Sargsyanë|LTranslit=Sargsyan
 10	չի	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	11	aux	_	Translit=či|LTranslit=em
 11	առաջադրվի	առաջադրել	VERB	_	Aspect=Prosp|Connegative=Yes|Mood=Cnd|Subcat=Intr|VerbForm=Fin|Voice=Pass	3	ccomp	_	Translit=aṙaǰadrvi|LTranslit=aṙaǰadrel
 12	վարչապետի	վարչապետ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	13	nmod:poss	_	Translit=varčapeti|LTranslit=varčapet

@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-PUD: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="fr_pud-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fr_pud-dep-nsubj-caus.html">nsubj:caus</a></tt>.
 
 200 nodes (1%) are attached to their parents as `nsubj:pass`.
 
@@ -25,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	Auparavant	_	ADV	RB	_	7	advmod	_	_
 2	les	_	DET	DT	Gender=Masc|Number=Plur	3	det	_	_
 3	jets	_	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj:pass	_	_
-4	avaient	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp	7	aux	_	_
+4	avaient	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp	7	aux:tense	_	_
 5	seulement	_	ADV	RB	_	7	advmod	_	_
 6	été	_	AUX	VBN	Gender=Masc|Number=Sing	7	aux:pass	_	_
 7	vus	_	VERB	VBN	Gender=Masc|Number=Plur	0	root	_	_

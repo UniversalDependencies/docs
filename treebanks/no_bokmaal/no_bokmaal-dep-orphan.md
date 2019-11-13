@@ -40,7 +40,7 @@ The following 47 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 12	fgColor:white
 # visual-style 12 15 orphan	color:blue
 1	Til	til	ADP	_	_	2	case	_	_
-2	informasjon	informasjon	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+2	informasjon	informasjon	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	_
 3	,	$,	PUNCT	_	_	2	punct	_	_
 4	så	så	ADV	_	_	5	nmod	_	_
 5	veier	veie	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -54,7 +54,7 @@ The following 47 pairs of parts of speech are connected with `orphan`: <tt><a hr
 13	dersom	dersom	SCONJ	_	_	15	mark	_	_
 14	jeg	jeg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
 15	vasker	vaske	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	orphan	_	_
-16	meg	jeg	PRON	_	Animacy=Hum|Case=Acc|Number=Sing|Person=1|PronType=Prs	15	obj	_	SpaceAfter=No
+16	meg	jeg	PRON	_	Animacy=Hum|Case=Acc|Number=Sing|Person=1|PronType=Prs	15	obj	_	_
 17	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -71,14 +71,14 @@ The following 47 pairs of parts of speech are connected with `orphan`: <tt><a hr
 3	nemlig	nemlig	ADV	_	_	4	advmod	_	_
 4	vindretningen	vindretning	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
 5	som	som	PRON	_	PronType=Rel	6	nsubj	_	_
-6	avgjør	avgjøre	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:cleft	_	SpaceAfter=No
+6	avgjør	avgjøre	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:cleft	_	_
 7	,	$,	PUNCT	_	_	11	punct	_	_
 8	og	og	CCONJ	_	_	11	cc	_	_
 9	om	om	SCONJ	_	_	11	mark	_	_
 10	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	expl	_	_
 11	er	være	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	_
 12	tett	tett	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	13	amod	_	_
-13	tåke	tåke	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	SpaceAfter=No
+13	tåke	tåke	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	_
 14	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~

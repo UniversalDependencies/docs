@@ -54,7 +54,7 @@ The following 13 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 7 6 reparandum	color:blue
 1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	film	film	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:pass	_	_
-3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	_
 5	tourné	tourner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	à	à	ADP	_	_	7	reparandum	_	_
@@ -83,7 +83,7 @@ The following 13 pairs of parts of speech are connected with `reparandum`: <tt><
 29	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	30	det	_	SpaceAfter=No
 30	Essex	Essex	PROPN	_	_	11	conj	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	35	punct	_	_
-32	en	en	ADP	_	_	35	advmod	_	MWEPOS=ADV
+32	en	en	ADP	_	_	35	advmod	_	EXTPOS=ADV|Type=MWE
 33	particulier	particulier	NOUN	_	Gender=Masc|Number=Sing	32	fixed	_	_
 34	à	à	ADP	_	_	35	case	_	_
 35	Hammerwood	Hammerwood	PROPN	_	_	30	nmod	_	_

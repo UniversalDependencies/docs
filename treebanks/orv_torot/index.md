@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Hanne Eckhoff.
 
 Repository: [UD_Old_Russian-TOROT](https://github.com/UniversalDependencies/UD_Old_Russian-TOROT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_torot22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_torot25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -57,6 +57,8 @@ The conversion was performed using a script written by Dag Haug and modified by 
 ## References
 
 Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digital editions: The Tromsø Old Russian and OCS Treebank'. Scripta & e-scripta 14–15, pp. 9-25.
+
+
 
 # Statistics of UD Old Russian TOROT
 
@@ -119,11 +121,11 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): быти, не.быти, съдумати</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): быти, не быти</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: не.быти, съдумати</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: не быти</li>
 </ul>
 
 <ul>
@@ -707,7 +709,7 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
 </ul>
 
 <ul>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: быти, не.быти, съдумати.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: быти, не быти.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: быти.</li>
 </ul>
 

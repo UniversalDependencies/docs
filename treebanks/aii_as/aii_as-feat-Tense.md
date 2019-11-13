@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="aii_as-pos-AUX.html
 
 ### `AUX`
 
-34 <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> tokens (85% of all `AUX` tokens) have a non-empty value of `Tense`.
+34 <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> tokens (67% of all `AUX` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="aii_as-feat-Person.html">Person</a></tt><tt>=3</tt> (28; 82%), <tt><a href="aii_as-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21; 62%), <tt><a href="aii_as-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 62%), <tt><a href="aii_as-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21; 62%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 * `Past` (1; 3% of non-empty `Tense`): <em>ܝ݇ܬܝܼܒܵܐ</em>
 * `Pres` (33; 97% of non-empty `Tense`): <em>ܝܠܹܗ, ܝܠܵܗܿ, ܝ݇ܢܵܐ, ܝܢܵܐ, ܝܘܸܢ, ܝܠܹܐ, ܝܠܸܗ, ܝܼܠܵܗܿ, ܝ݇ܘܸܬ, ܝ݇ܘܹܬ</em>
-* `EMPTY` (6): <em>ܝܘܸܢ, ܝܼܘܵܢ, ܡܵܨܸܢ, ܦܵܝܫܵܐ</em>
+* `EMPTY` (17): <em>ܒܸܕ, ܒܸܬ, ܝܘܸܢ, ܝܼܘܵܢ, ܟܹܐ, ܒ, ܒܹܬ, ܟܲܕ, ܟܸܐ, ܡܵܨܸܢ</em>
 
 <table>
   <tr><th>Paradigm <i>ܗܵܘܹܐ</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -58,7 +58,6 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="aii_as-dep-aux.html">aux</a></tt>]--> AUX</tt> (3; 60%),
 <tt>VERB --[<tt><a href="aii_as-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="aii_as-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

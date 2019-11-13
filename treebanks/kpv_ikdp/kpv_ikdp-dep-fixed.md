@@ -24,9 +24,9 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 10 11 fixed	color:blue
 1	Сыысь	сійӧ	PRON	Pron	Case=Ela|Number=Sing|Person=3|PronType=Prs	6	obl	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	гашке	гашкӧ	ADV	Adv	_	6	advmod	_	SpaceAfter=No
+3	гашке	гашкӧ	PART	Pcle	_	6	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux:neg	_	_
 6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	Lang=Mixed
 7	в	в	ADP	Pr	_	8	case	_	Lang=Rus
 8	глаза	глаз	NOUN	N	Case=Nom|Number=Plur	6	obl	_	Lang=Rus|SpaceAfter=No
@@ -52,7 +52,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 4	никучем	никутшӧм	ADV	Adv	Polarity=Neg	5	advmod	_	_
 5	иностраннэй	иностраннӧй	ADJ	A	Case=Nom|Number=Sing	6	advmod	_	Lang=Mixed
 6	местаясэ	места	NOUN	N	Case=Ill|Number=Plur	8	obl	_	Lang=Mixed
-7	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux:neg	_	_
 8	ветлоо	ветлыны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	8	punct	_	_
 
@@ -65,10 +65,10 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Сы	сійӧ	PRON	Pron	Number=Sing|Person=3|PronType=Prs	3	advmod	_	GTtags=Pers,Sg3,Cmpl
+1	Сы	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	advmod	_	GTtags=Pers,Sg3,Cmpl
 2	бӧрын	бӧрын	ADP	Po	Case=Ine|Number=Sing	1	fixed	_	GTtags=Sg,Ine
 3	вӧччисны	вӧччыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Refl,Ind,Prt1,Pl3
-4	гортас	горт	NOUN	Hom1	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	GTtags=N,Sg,Ine,PxSg3|SpaceAfter=No
+4	гортас	горт	NOUN	N	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	GTtags=N,Sg,Ine,PxSg3|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~

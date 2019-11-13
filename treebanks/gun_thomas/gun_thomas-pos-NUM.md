@@ -21,13 +21,19 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.500000 (the average of all parts of speech is 1.313725).
+The form / lemma ratio of `NUM` is 1.500000 (the average of all parts of speech is 1.311688).
 
 The 1st highest number of forms (2) was observed with the lemma “mokoĩ”: <em>mokoĩ, mokoĩ'i</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “peteĩ”: <em>peteĩ</em>.
 
-`NUM` does not occur with any features.
+`NUM` occurs with 1 features: <tt><a href="gun_thomas-feat-NumType.html">NumType</a></tt> (6; 100% instances)
+
+`NUM` occurs with 1 feature-value pairs: `NumType=Card`
+
+`NUM` occurs with 1 feature combinations.
+The most frequent feature combination is `NumType=Card` (6 tokens).
+Examples: <em>peteĩ, mokoĩ, mokoĩ'i</em>
 
 
 ## Relations

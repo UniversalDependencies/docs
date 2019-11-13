@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13495 nodes (10%) are attached to their parents as `case`.
+13494 nodes (10%) are attached to their parents as `case`.
 
-13492 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4907743608744.
+13491 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.49088483770565.
 
-The following 20 pairs of parts of speech are connected with `case`: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (10594; 79% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (1000; 7% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (645; 5% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (488; 4% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (247; 2% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (236; 2% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (130; 1% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (75; 1% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (17; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (13; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `case`: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (10594; 79% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (1000; 7% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (645; 5% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (488; 4% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (247; 2% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (236; 2% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (130; 1% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (75; 1% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (17; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (13; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 20 pairs of parts of speech are connected with `case`: <tt><a href
 7	vložiti	vložiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	6	ccomp	_	Dep=6|Rel=Obj
 8	več	več	DET	Rgc	PronType=Ind	9	det	_	Dep=9|Rel=Atr
 9	truda	trud	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No|Dep=7|Rel=Obj
-10	.	.	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 
@@ -77,7 +77,7 @@ The following 20 pairs of parts of speech are connected with `case`: <tt><a href
 9	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	11	obj	_	Dep=11|Rel=Obj
 10	sploh	sploh	PART	Q	_	11	advmod	_	Dep=0|Rel=Root
 11	imamo	imeti	VERB	Vmpr1p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No|Dep=0|Rel=Root
-12	!	!	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
+12	!	!	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 

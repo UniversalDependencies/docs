@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4196 nodes (2%) are attached to their parents as `nummod`.
+4195 nodes (2%) are attached to their parents as `nummod`.
 
-4196 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3734509056244.
+4195 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.37282479141836.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (3946; 94% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (163; 4% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (62; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (4; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (3945; 94% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (163; 4% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (62; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (4; 0% instances).
 
 
 ~~~ conllu

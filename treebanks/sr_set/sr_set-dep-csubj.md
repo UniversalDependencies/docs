@@ -29,7 +29,7 @@ The following 15 pairs of parts of speech are connected with `csubj`: <tt><a hre
 5	predstavi	predstaviti	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	csubj	_	_
 6	svoje	svoj	DET	Px-fpa	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	_
 7	preporuke	preporuka	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	_
-8	6.	6.	ADJ	Mdo	NumType=Ord	9	nummod	_	_
+8	6.	6.	NUM	Mdo	NumType=Ord	9	nummod	_	_
 9	decembra	decembar	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
 10	.	.	PUNCT	Z	_	1	punct	_	_
 

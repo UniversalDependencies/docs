@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 13	fgColor:white
 # visual-style 13 14 orphan	color:blue
 1	Qui	qui	PRON	_	PronType=Int	3	nsubj	_	_
-2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	:	:	PUNCT	_	_	3	punct	_	_
 5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No

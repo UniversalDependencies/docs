@@ -11,7 +11,7 @@ This relation is universal.
 42 nodes (0%) are attached to their parents as `orphan`.
 
 32 instances of `orphan` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.47619047619048.
+Average distance between parent and child is 3.57142857142857.
 
 The following 15 pairs of parts of speech are connected with `orphan`: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (16; 38% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (5; 12% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (4; 10% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (4; 10% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
@@ -82,7 +82,7 @@ The following 15 pairs of parts of speech are connected with `orphan`: <tt><a hr
 22	di	di	ADP	E	_	23	case	23:case	_
 23	passeggeri	passeggero	NOUN	S	Gender=Masc|Number=Plur	21	nmod	21:nmod:di	_
 24	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	25	det	25:det	SpaceAfter=No
-25	anno	anno	NOUN	S	Gender=Masc|Number=Sing	23	orphan	23:orphan	SpaceAfter=No
+25	anno	anno	NOUN	S	Gender=Masc|Number=Sing	21	orphan	21:orphan	SpaceAfter=No
 26	.	.	PUNCT	FS	_	8	punct	8:punct	_
 
 ~~~

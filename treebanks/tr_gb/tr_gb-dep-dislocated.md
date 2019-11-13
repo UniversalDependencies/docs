@@ -27,12 +27,12 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	ki	ki	SCONJ	_	_	6	mark	_	_
 4	baklava	baklava	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
 5	yapmayı	yap	VERB	_	Case=Acc|Number=Sing|VerbForm=Vnoun	6	xcomp	_	_
-6	bilmesin	bil	VERB	_	Mood=Opt|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	2	acl	_	SpaceAfter=No
+6	bilmesin	bil	VERB	_	Mood=Opt|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	acl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1	11	nsubj	_	_
 9	ona	o	PRON	_	Case=Dat|Number=Sing	11	obl	_	_
 10	ahçı	ahçı	NOUN	_	Case=Nom|Number=Sing	11	obj	_	_
-11	demem	de	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=1|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+11	demem	de	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
@@ -49,13 +49,13 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	herkesin	herkes	PRON	_	Case=Gen|Number=Sing|Person=3	5	nmod	_	_
 4	doğum	doğum	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
 5	gününü	gün	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obj	_	_
-6	hatırlarsın	hatırla	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=2|Tense=Pres	1	acl	_	SpaceAfter=No
+6	hatırlarsın	hatırla	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	acl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2	12	nsubj	_	_
 9	bile	bile	ADV	_	_	8	advmod:emph	_	_
 10	Semra’nın	Semra	PROPN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	11	nmod	_	_
 11	kini	-ki	NOUN	_	Case=Acc|Number=Sing	12	ccomp	_	_
-12	unuttun	unut	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	SpaceAfter=No
+12	unuttun	unut	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~
@@ -70,11 +70,11 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Semra	Semra	PROPN	_	Number=Sing	8	dislocated	_	_
 2	ki	ki	SCONJ	_	_	4	mark	_	_
 3	partileri	parti	NOUN	_	Case=Acc|Number=Plur	4	obj	_	_
-4	sevmez	sev	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	1	acl	_	SpaceAfter=No
+4	sevmez	sev	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	1	acl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	_
 6	o	o	PRON	_	Case=Nom|Number=Sing|Person=3	8	nsubj	_	_
 7	bile	bile	ADV	_	_	6	advmod:emph	_	_
-8	eğlendi	eğlen	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+8	eğlendi	eğlen	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~

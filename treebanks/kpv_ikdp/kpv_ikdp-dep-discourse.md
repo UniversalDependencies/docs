@@ -8,12 +8,44 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `discourse`.
+8 nodes (1%) are attached to their parents as `discourse`.
 
-4 instances of `discourse` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.33333333333333.
+4 instances of `discourse` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.
 
-The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> (1; 17% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 17% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 17% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 17% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 17% instances).
+The following 8 pairs of parts of speech are connected with `discourse`: <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 13% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 discourse	color:blue
+1	Ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	6	reparandum	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	1	punct	_	_
+3	мыйке	мыйке	INTJ	Interj	Case=Nom|Number=Sing	1	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	6	amod	_	_
+6	муас	му	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
+7	рӧдиттьыны	рӧдиттьыны	VERB	V	VerbForm=Inf	8	xcomp	_	Lang=Mixed
+8	мӧдэма	мӧдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	10	punct	_	_
+10	абу	абу	AUX	Pcle	Polarity=Neg	11	aux:neg	_	_
+11	мӧдэма	мӧдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	SpaceAfter=No
+12	,	,	PUNCT	CLB	_	13	punct	_	_
+13	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	16	reparandum	_	SpaceAfter=No
+14	,	,	PUNCT	CLB	_	15	punct	_	_
+15	абу	абу	AUX	Pcle	Polarity=Neg	16	aux:neg	_	_
+16	мӧдэма	мӧдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	_
+17	тытэн	тытэн	ADV	Adv	_	16	obl	_	SpaceAfter=No
+18	,	,	PUNCT	CLB	_	19	punct	_	_
+19	Из	из	PROPN	N	Case=Nom|Number=Sing	21	obl	_	_
+20	сайын	сайын	ADP	Po	Case=Ine|Number=Sing	19	case	_	_
+21	рӧдиттьынысэ	рӧдиттьыны	VERB	V	VerbForm=Inf	16	ccomp	_	Lang=Mixed|SpaceAfter=No
+22	.	.	PUNCT	CLB	_	8	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -48,38 +80,12 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	ыдзыдэсь	ыджыд	ADJ	A	Case=Nom|Number=Plur	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	CLB	_	2	punct	_	_
 4	ребята	ребята	NOUN	N	Case=Nom|Number=Plur	9	nsubj	_	Lang=Rus|SpaceAfter=No
-5	-	-	PUNCT	CLB	_	4	punct	_	SpaceAfter=No
+5	-	-	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
 6	то	то	PART	Pcle	_	4	discourse	_	Lang=Rus
 7	у	у	ADP	Pr	_	8	case	_	Lang=Rus
 8	меня	я	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	obl	_	Lang=Rus
 9	большие	большой	ADJ	A	Case=Nom|Number=Plur	2	appos	_	Lang=Rus|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 14 discourse	color:blue
-1	А	а	CCONJ	CC	_	4	cc	_	_
-2	ае	ай	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
-3	тоже	тожӧ	PART	Pcle	_	4	advmod	_	_
-4	рӧбитіс	рӧбитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	столярын	столяр	NOUN	N	Case=Ine|Number=Sing	4	obl	_	Lang=Rus
-6	ли	ли	PART	Pcle	_	5	advmod	_	Lang=Mixed
-7	слесарьын	слесарь	NOUN	N	Case=Ine|Number=Sing	5	appos	_	Lang=Rus
-8	ли	ли	PART	Pcle	_	7	advmod	_	Lang=Mixed|SpaceAfter=No
-9	,	,	PUNCT	CLB	_	8	punct	_	_
-10	но	но	CCONJ	CC	_	15	cc	_	Lang=Mixed|SpaceAfter=No
-11	,	,	PUNCT	CLB	_	10	punct	_	_
-12	чё	чё	PART	Pcle	_	15	obj	_	Lang=Rus|SpaceAfter=No|Note=Check
-13	-	-	PUNCT	CLB	_	12	punct	_	SpaceAfter=No
-14	то	то	PART	Pcle	_	12	discourse	_	Lang=Rus
-15	делал	делать	VERB	V	Number=Sing	4	conj	_	Lang=Rus|SpaceAfter=No
-16	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

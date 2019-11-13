@@ -13,18 +13,18 @@ The 10 most frequent `INTJ` lemmas: <em>о, аминь, оле</em>
 
 The 10 most frequent `INTJ` types:  <em>о, Аминь, Оле</em>
 
-The 10 most frequent ambiguous lemmas: <em>о</em> (<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 65, <tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>о</em> (<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 71, <tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>о</em> (<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 61, <tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>о</em> (<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 67, <tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>о</em>
-  * <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 61: <em>И государь царь Михаил Федорович <b>о</b> том как укажет .</em>
+  * <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 67: <em>И государь царь Михаил Федорович <b>о</b> том как укажет .</em>
   * <tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt> 1: <em>На мьзды ли предаеши врагом Новъгород , <b>о</b> Упадыщче , сладкаго брашна вкусивъ в Великом Новѣградѣ ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.860579).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.900114).
 
 The 1st highest number of forms (1) was observed with the lemma “аминь”: <em>Аминь</em>.
 

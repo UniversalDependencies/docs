@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Georg Rehm, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Michael Mandl, Sebastian Bank, Martin Popel, Daniel Zeman.
 
 Repository: [UD_German-PUD](https://github.com/UniversalDependencies/UD_German-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_pud22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_pud25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 3.0
 
@@ -34,7 +34,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | annotated manually, natively in UD style |
+| Lemmas | annotated manually |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
 | XPOS | not available |
 | Features | annotated manually in non-UD style, automatically converted to UD |
@@ -200,7 +200,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: ersten, Vereinigten, letzten, neue, besten, gesamten, große, großer, neuen, verschiedene</li>
+      <li>ADJ: ersten, Vereinigten, letzten, neue, 1., besten, gesamten, große, großer, neuen</li>
       <li>DET: dem, der, den, die, des, ein, einen, einem, dieser, diesem</li>
       <li>NOUN: Menschen, Oktober, Teil, Film, Kaiser, April, Fall, Krieg, Präsident, Tag</li>
       <li>NUM: hunderte</li>
@@ -279,7 +279,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: ersten, letzten, neuen, selben, zweiten, Vereinigten, besten, deutschen, gemeinsamen, hohem</li>
+      <li>ADJ: ersten, letzten, neuen, selben, zweiten, 1., Vereinigten, besten, deutschen, gemeinsamen</li>
       <li>ADP: z., z</li>
       <li>DET: dem, der, den, einem, einer, dieser, diesem, anderen, vielen, beiden</li>
       <li>NOUN: Jahr, Jahren, Zeit, Jahrhundert, Bezug, Fall, Krieg, Leben, Region, Tag</li>
@@ -488,7 +488,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: 16, 45.</li>
+      <li>ADJ: 1., 30., 10., 11., 12., 16, 19., 21., 27., 4.</li>
     </ul>
   </li>
 </ul>

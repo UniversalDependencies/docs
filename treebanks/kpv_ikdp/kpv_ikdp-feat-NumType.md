@@ -12,7 +12,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 48 tokens (4%) have a non-empty value of `NumType`.
 31 types (5%) occur at least once with a non-empty value of `NumType`.
-27 lemmas (5%) occur at least once with a non-empty value of `NumType`.
+26 lemmas (5%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (47; 4% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `NUM`

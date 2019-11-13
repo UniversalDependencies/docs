@@ -27,7 +27,7 @@ The following 14 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 2	pièces	pièce	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
 3	justificatives	justificatif	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
 4	adresser	adresser	VERB	_	VerbForm=Inf	0	root	_	_
-5	lord	lors_de	ADV	_	_	8	case	_	MWEPOS=ADP
+5	lord	lors_de	ADV	_	_	8	case	_	EXTPOS=ADP
 6	de	_	ADP	_	_	5	fixed	_	_
 7	ma	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes	8	det	_	_
 8	demande	demande	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	_
@@ -50,7 +50,7 @@ The following 14 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 6	en	en	ADP	_	_	7	case	_	_
 7	France	France	PROPN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
 8	ou	ou	CCONJ	_	_	9	cc	_	_
-9	à	à_l'étranger	ADP	_	_	7	conj	_	MWEPOS=ADV
+9	à	à_l'étranger	ADP	_	_	7	conj	_	EXTPOS=ADV
 10	l'	_	DET	_	_	9	fixed	_	SpaceAfter=No
 11	étranger	_	NOUN	_	_	9	fixed	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
@@ -67,8 +67,8 @@ The following 14 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 1	Combien	combien	ADV	_	PronType=Int	7	obj	_	_
 2	de	de	ADP	_	_	3	case	_	_
 3	condoms	condom	NOUN	_	Gender=Masc|Number=Plur	1	obl:arg	_	_
-4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	SpaceAfter=No
-5	-t	t	PART	_	_	6	expl	_	SpaceAfter=No
+4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	SpaceAfter=No
+5	-t	t	PART	_	_	6	dep	_	SpaceAfter=No
 6	-on	il	PRON	_	Number=Sing|Person=3	7	nsubj	_	_
 7	vendu	vendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	à	à	ADP	_	_	10	case	_	_

@@ -6,87 +6,87 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-LinES: POS Tags: `ADP`
 
-There are 91 `ADP` lemmas (1%), 93 `ADP` types (1%) and 8756 `ADP` tokens (11%).
-Out of 17 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 4 in number of tokens.
+There are 94 `ADP` lemmas (1%), 97 `ADP` types (1%) and 9878 `ADP` tokens (11%).
+Out of 17 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>i, på, av, med, för, till, om, som, från, över</em>
+The 10 most frequent `ADP` lemmas: <em>i, på, av, med, för, till, som, om, från, över</em>
 
-The 10 most frequent `ADP` types:  <em>i, på, av, med, för, till, om, som, från, över</em>
+The 10 most frequent `ADP` types:  <em>i, på, av, med, för, till, som, om, från, över</em>
 
-The 10 most frequent ambiguous lemmas: <em>i</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1660, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 66), <em>på</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1148, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 37), <em>av</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 867, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 26), <em>med</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 860, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 45, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 4), <em>för</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 837, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 43, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 3), <em>till</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 701, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 121), <em>om</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 359, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 306, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 31), <em>som</em> (<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 933, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 357, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 112, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 7), <em>från</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 297, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 1), <em>över</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 164, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 21, <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>i</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1859, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 67), <em>på</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1313, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 37), <em>av</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 987, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 30), <em>med</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 961, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 47, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 11), <em>för</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 946, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 41, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 3), <em>till</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 784, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 126), <em>som</em> (<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1086, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 406, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 129, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 8), <em>om</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 391, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 322, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 35), <em>från</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 325, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 1), <em>över</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 191, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 21, <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1562, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 62), <em>på</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1104, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 37), <em>av</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 858, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 26), <em>med</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 834, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 45, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 4), <em>för</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 787, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 40, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> 5, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 2), <em>till</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 689, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 116), <em>om</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 340, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 214, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 31), <em>som</em> (<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 931, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 351, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 106, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 7), <em>från</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 290, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 1), <em>över</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 159, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 18)
+The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1748, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 62), <em>på</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1260, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 37), <em>av</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 978, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 30), <em>med</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 934, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 47, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 11), <em>för</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 891, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 38, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> 5, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 2), <em>till</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 769, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 120), <em>som</em> (<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1084, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 398, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 123, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 8), <em>om</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 372, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 227, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 35), <em>från</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 318, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 1), <em>över</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 186, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 20)
 
 
 * <em>i</em>
-  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1562: <em>Vissa av hyperlänkarna <b>i</b> det här avsnittet leder till webben .</em>
+  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1748: <em>Vissa av hyperlänkarna <b>i</b> det här avsnittet leder till webben .</em>
   * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 62: <em>Du kan gruppera <b>i</b> intervaller som exempelvis veckor och kvartal .</em>
 * <em>på</em>
-  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1104: <em>SQL Server-databasen måste köras <b>på</b> Windows NT .</em>
+  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1260: <em>SQL Server-databasen måste köras <b>på</b> Windows NT .</em>
   * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 37: <em>Jag kände att jag höll <b>på</b> att bli av intresse för vetenskapen .</em>
 * <em>av</em>
-  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 858: <em>Vissa <b>av</b> hyperlänkarna i det här avsnittet leder till webben .</em>
-  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 26: <em>Jag borde egentligen ge mig <b>av</b> , sa han .</em>
+  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 978: <em>Vissa <b>av</b> hyperlänkarna i det här avsnittet leder till webben .</em>
+  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 30: <em>Jag borde egentligen ge mig <b>av</b> , sa han .</em>
 * <em>med</em>
-  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 834: <em>Du kan också framhäva en kontroll <b>med</b> hjälp av specialeffekter .</em>
-  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 45: <em>Den är till och <b>med</b> utställd på er .</em>
-  * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Hon sprang ner för att möta dem , <b>med</b> det yviga , bruna håret fladdrande i luften .</em>
+  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 934: <em>Du kan också framhäva en kontroll <b>med</b> hjälp av specialeffekter .</em>
+  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 47: <em>Den är till och <b>med</b> utställd på er .</em>
+  * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 11: <em>Hon sprang ner för att möta dem , <b>med</b> det yviga , bruna håret fladdrande i luften .</em>
 * <em>för</em>
-  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 787: <em>Du kan ange färgen och bredden <b>för</b> kontrollernas kantlinjer .</em>
-  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 40: <em>Jadå , han är smart . Men han pratar <b>för</b> mycket .</em>
-  * <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 15: <em>Men han avbröt sig hastigt , <b>för</b> det gjorde ont att tänka på Hermione .</em>
+  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 891: <em>Du kan ange färgen och bredden <b>för</b> kontrollernas kantlinjer .</em>
+  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 38: <em>Jadå , han är smart . Men han pratar <b>för</b> mycket .</em>
+  * <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 17: <em>Men han avbröt sig hastigt , <b>för</b> det gjorde ont att tänka på Hermione .</em>
   * <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> 5: <em>Navrozov <b>för</b> denna inställning vidare .</em>
   * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 3: <em>Inte <b>för</b> att dom nånsin har ansträngt sig .</em>
   * <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 2: <em>I fråga om att undanta den energikrävande industrin ser vi både <b>för</b> - och nackdelar med kommissionens förslag .</em>
 * <em>till</em>
-  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 689: <em>Vissa av hyperlänkarna i det här avsnittet leder <b>till</b> webben .</em>
-  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 116: <em>Den är <b>till</b> och med utställd på er .</em>
-* <em>om</em>
-  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 340: <em>Mer information <b>om</b> XML finns på webbplatsen .</em>
-  * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 214: <em>Han undrade <b>om</b> den unge Auster hade varit bättre på det än han .</em>
-  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 31: <em>Jag har ingen användning för den , sa Quinn och såg sig <b>om</b> i lägenheten .</em>
+  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 769: <em>Vissa av hyperlänkarna i det här avsnittet leder <b>till</b> webben .</em>
+  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 120: <em>Den är <b>till</b> och med utställd på er .</em>
 * <em>som</em>
-  * <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 931: <em>Identifiera filter <b>som</b> är igång</em>
-  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 351: <em>SQL Server måste köras på samma dator <b>som</b> Access-projektet .</em>
-  * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 106: <em>Författare ? Quinn uttalade ordet <b>som</b> vore det en veklagan .</em>
-  * <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 7: <em>Man har undersökt såväl barn <b>som</b> anställda på elverk .</em>
+  * <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1084: <em>Identifiera filter <b>som</b> är igång</em>
+  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 398: <em>SQL Server måste köras på samma dator <b>som</b> Access-projektet .</em>
+  * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 123: <em>Författare ? Quinn uttalade ordet <b>som</b> vore det en veklagan .</em>
+  * <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Man har undersökt såväl barn <b>som</b> anställda på elverk .</em>
+* <em>om</em>
+  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 372: <em>Mer information <b>om</b> XML finns på webbplatsen .</em>
+  * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 227: <em>Han undrade <b>om</b> den unge Auster hade varit bättre på det än han .</em>
+  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 35: <em>Jag har ingen användning för den , sa Quinn och såg sig <b>om</b> i lägenheten .</em>
 * <em>från</em>
-  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 290: <em>Jag minns bordskonversation <b>från</b> Leon Blums och Edouard Daladiers dagar .</em>
+  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 318: <em>Jag minns bordskonversation <b>från</b> Leon Blums och Edouard Daladiers dagar .</em>
   * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 1: <em>Det skulle heller inte göra mycket vare sig <b>från</b> eller till .</em>
 * <em>över</em>
-  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 159: <em>Klockan var nu <b>över</b> fem .</em>
-  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 18: <em>Om kommunismen tog <b>över</b> Italien , skulle påven då flytta till Jerusalem ?</em>
+  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 186: <em>Klockan var nu <b>över</b> fem .</em>
+  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 20: <em>Om kommunismen tog <b>över</b> Italien , skulle påven då flytta till Jerusalem ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.021978 (the average of all parts of speech is 1.414201).
+The form / lemma ratio of `ADP` is 1.031915 (the average of all parts of speech is 1.417078).
 
 The 1st highest number of forms (2) was observed with the lemma “nedför”: <em>nedför, nerför</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “sedan”: <em>sedan, sen</em>.
+The 2nd highest number of forms (2) was observed with the lemma “nära”: <em>nära, närmast</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
+The 3rd highest number of forms (2) was observed with the lemma “sedan”: <em>sedan, sen</em>.
 
 `ADP` does not occur with any features.
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 15 different relations: <tt><a href="sv_lines-dep-case.html">case</a></tt> (7872; 90% instances), <tt><a href="sv_lines-dep-mark.html">mark</a></tt> (601; 7% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (117; 1% instances), <tt><a href="sv_lines-dep-compound-prt.html">compound:prt</a></tt> (85; 1% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (31; 0% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (27; 0% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="sv_lines-dep-flat.html">flat</a></tt> (6; 0% instances), <tt><a href="sv_lines-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="sv_lines-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-root.html">root</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 16 different relations: <tt><a href="sv_lines-dep-case.html">case</a></tt> (8866; 90% instances), <tt><a href="sv_lines-dep-mark.html">mark</a></tt> (667; 7% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (126; 1% instances), <tt><a href="sv_lines-dep-compound-prt.html">compound:prt</a></tt> (124; 1% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (40; 0% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (30; 0% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="sv_lines-dep-flat.html">flat</a></tt> (6; 0% instances), <tt><a href="sv_lines-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="sv_lines-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (6182; 71% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (803; 9% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (736; 8% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (655; 7% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (152; 2% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (88; 1% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (86; 1% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (39; 0% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances),  (1; 0% instances), <tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 14 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (6950; 70% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (967; 10% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (850; 9% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (706; 7% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (167; 2% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (93; 1% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (92; 1% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (40; 0% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances),  (2; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 0% instances)
 
-8600 (98%) `ADP` nodes are leaves.
+9724 (98%) `ADP` nodes are leaves.
 
-79 (1%) `ADP` nodes have one child.
+75 (1%) `ADP` nodes have one child.
 
-69 (1%) `ADP` nodes have two children.
+71 (1%) `ADP` nodes have two children.
 
 8 (0%) `ADP` nodes have three or more children.
 
-The highest child degree of a `ADP` node is 5.
+The highest child degree of a `ADP` node is 7.
 
-Children of `ADP` nodes are attached using 12 different relations: <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (185; 76% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (25; 10% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (16; 7% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="sv_lines-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="sv_lines-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-expl.html">expl</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 12 different relations: <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (197; 80% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (18; 7% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (16; 6% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (4; 2% instances), <tt><a href="sv_lines-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-expl.html">expl</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 13 different parts of speech: <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (88; 36% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (71; 29% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (25; 10% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (16; 7% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (14; 6% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (10; 4% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 13 different parts of speech: <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (92; 37% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (76; 31% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (18; 7% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (16; 6% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (14; 6% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (12; 5% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

@@ -110,8 +110,8 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>PRON --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (3; 75%),
 <tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="sl_sst-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1; 100%),
-<tt>AUX --[<tt><a href="sl_sst-dep-parataxis-discourse.html">parataxis:discourse</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%),
 <tt>DET --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> DET</tt> (1; 100%),
-<tt>DET --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (1; 100%).
+<tt>DET --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (1; 100%),
+<tt>VERB --[<tt><a href="sl_sst-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (1; 100%).
 

@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `AUX`
 
-26 <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> tokens (65% of all `AUX` tokens) have a non-empty value of `Gender`.
+26 <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> tokens (51% of all `AUX` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="aii_as-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 96%), <tt><a href="aii_as-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (22; 85%), <tt><a href="aii_as-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 73%).
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Fem` (10; 38% of non-empty `Gender`): <em>ܝܠܵܗܿ, ܝܼܘܵܢ, ܝܼܠܵܗܿ, ܦܵܝܫܵܐ</em>
 * `Masc` (16; 62% of non-empty `Gender`): <em>ܝܠܹܗ, ܝܘܸܢ, ܝܠܹܐ, ܝܠܸܗ, ܝ݇ܘܸܬ, ܝ݇ܘܹܬ, ܡܵܨܸܢ</em>
-* `EMPTY` (14): <em>ܝ݇ܢܵܐ, ܝܢܵܐ, ܝܘܸܢ, ܝ݇ܬܘܢ, ܝ݇ܬܝܼܒܵܐ</em>
+* `EMPTY` (25): <em>ܝ݇ܢܵܐ, ܝܢܵܐ, ܒܸܕ, ܒܸܬ, ܝܘܸܢ, ܟܹܐ, ܒ, ܒܹܬ, ܝ݇ܬܘܢ, ܝ݇ܬܝܼܒܵܐ</em>
 
 <table>
   <tr><th>Paradigm <i>ܗܵܘܹܐ</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -95,7 +95,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 14 <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> tokens (33% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="aii_as-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 71%), <tt><a href="aii_as-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9; 64%), <tt><a href="aii_as-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 57%), <tt><a href="aii_as-feat-Person.html">Person</a></tt><tt>=3</tt> (8; 57%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="aii_as-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 71%), <tt><a href="aii_as-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (10; 71%), <tt><a href="aii_as-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 57%), <tt><a href="aii_as-feat-Person.html">Person</a></tt><tt>=3</tt> (8; 57%).
 
 `PRON` tokens may have the following values of `Gender`:
 

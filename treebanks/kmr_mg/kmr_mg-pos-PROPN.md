@@ -37,8 +37,8 @@ The 3rd highest number of forms (2) was observed with the lemma “Amerîka”: 
 `PROPN` occurs with 9 feature-value pairs: `Case=Con`, `Case=Nom`, `Case=Obl`, `Definite=Def`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
 `PROPN` occurs with 15 feature combinations.
-The most frequent feature combination is `Case=Obl|Definite=Def|Gender=Fem|Number=Sing` (115 tokens).
-Examples: <em>Tirkiyeyê, Ewropayê, Hindistanê, Amedê, Stenbolê, Stokmoranê, Germanistanê, Kurdistanê, Swêdê, Îranê</em>
+The most frequent feature combination is `Case=Obl|Gender=Masc|Number=Sing` (115 tokens).
+Examples: <em>Holmes, Rweylot, Stonêr, Wetsin, Mihemed, Mistentiq, Silêman, Özal, Şerlok, Ahmet</em>
 
 
 ## Relations

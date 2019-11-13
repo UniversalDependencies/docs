@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 9	etnines	etninis	ADJ	JJL	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	10	amod	_	En=ethnic
 10	mažumas	mažumas	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	En=smallness
 11	nelojaliomis	nelojalus	ADJ	JJL	Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg	5	iobj	_	En=not_loyal
-12	ex	ex	ADP	UH	_	5	advmod	_	En=by
+12	ex	ex	X	UH	_	5	obl	_	En=by
 13	definitione	definitione	X	X	_	12	flat	_	En=definition|SpaceAfter=No
 14	,	,	PUNCT	PUNCT	_	19	punct	_	En=,
 15	o	o	CCONJ	CC	_	19	cc	_	En=and
@@ -89,7 +89,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 18	bendruomenių	bendruomenė	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	En=community
 19	vadovus	vadovas	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	En=administrator
 20	–	–	PUNCT	PUNCT	_	23	punct	_	En=–
-21	paprasčiausia	paprasčiausias	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	23	advmod	_	En=mere
+21	paprasčiausia	paprasčiausias	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	23	nmod	_	En=mere
 22	penktąja	penktas	ADJ	ORD	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	En=fifth
 23	kolona	kolona	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	19	orphan	_	En=colon|SpaceAfter=No
 24	.	.	PUNCT	PUNCT	_	5	punct	_	En=.

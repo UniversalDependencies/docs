@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Lithuanian-HSE: POS Tags: `PART`
 
-There are 33 `PART` lemmas (2%), 32 `PART` types (1%) and 169 `PART` tokens (3%).
+There are 32 `PART` lemmas (2%), 31 `PART` types (1%) and 168 `PART` tokens (3%).
 Out of 16 observed tags, the rank of `PART` is: 6 in number of lemmas, 8 in number of types and 10 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>ne, ir, beje, net, taip, jau, bent, gal, netgi, nė</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="lt_hse-pos-PART
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 0.969697 (the average of all parts of speech is 1.444778).
+The form / lemma ratio of `PART` is 0.968750 (the average of all parts of speech is 1.442977).
 
 The 1st highest number of forms (1) was observed with the lemma “ar”: <em>ar</em>.
 
@@ -66,27 +66,27 @@ The 3rd highest number of forms (1) was observed with the lemma “beje”: <em>
 `PART` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `PART` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (127 tokens).
+The most frequent feature combination is `_` (126 tokens).
 Examples: <em>ir, beje, net, taip, jau, bent, gal, pat, netgi, turbūt</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 15 different relations: <tt><a href="lt_hse-dep-advmod-emph.html">advmod:emph</a></tt> (81; 48% instances), <tt><a href="lt_hse-dep-advmod.html">advmod</a></tt> (30; 18% instances), <tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt> (19; 11% instances), <tt><a href="lt_hse-dep-fixed.html">fixed</a></tt> (10; 6% instances), <tt><a href="lt_hse-dep-cc.html">cc</a></tt> (9; 5% instances), <tt><a href="lt_hse-dep-mark.html">mark</a></tt> (4; 2% instances), <tt><a href="lt_hse-dep-root.html">root</a></tt> (3; 2% instances), <tt><a href="lt_hse-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="lt_hse-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="lt_hse-dep-aux.html">aux</a></tt> (2; 1% instances), <tt><a href="lt_hse-dep-discourse.html">discourse</a></tt> (2; 1% instances), <tt><a href="lt_hse-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="lt_hse-dep-nummod-gov.html">nummod:gov</a></tt> (1; 1% instances), <tt><a href="lt_hse-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="lt_hse-dep-obl.html">obl</a></tt> (1; 1% instances)
+`PART` nodes are attached to their parents using 13 different relations: <tt><a href="lt_hse-dep-advmod-emph.html">advmod:emph</a></tt> (81; 48% instances), <tt><a href="lt_hse-dep-advmod.html">advmod</a></tt> (31; 18% instances), <tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt> (19; 11% instances), <tt><a href="lt_hse-dep-fixed.html">fixed</a></tt> (10; 6% instances), <tt><a href="lt_hse-dep-cc.html">cc</a></tt> (9; 5% instances), <tt><a href="lt_hse-dep-mark.html">mark</a></tt> (4; 2% instances), <tt><a href="lt_hse-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="lt_hse-dep-root.html">root</a></tt> (3; 2% instances), <tt><a href="lt_hse-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="lt_hse-dep-discourse.html">discourse</a></tt> (2; 1% instances), <tt><a href="lt_hse-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="lt_hse-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="lt_hse-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (52; 31% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (50; 30% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (18; 11% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (16; 9% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (10; 6% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (6; 4% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (5; 3% instances), <tt><a href="lt_hse-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (3; 2% instances),  (3; 2% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (51; 30% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (50; 30% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (18; 11% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (16; 10% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (10; 6% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (6; 4% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (5; 3% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="lt_hse-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances),  (3; 2% instances), <tt><a href="lt_hse-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 
-127 (75%) `PART` nodes are leaves.
+128 (76%) `PART` nodes are leaves.
 
-31 (18%) `PART` nodes have one child.
+30 (18%) `PART` nodes have one child.
 
-8 (5%) `PART` nodes have two children.
+7 (4%) `PART` nodes have two children.
 
 3 (2%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 3.
 
-Children of `PART` nodes are attached using 8 different relations: <tt><a href="lt_hse-dep-punct.html">punct</a></tt> (29; 52% instances), <tt><a href="lt_hse-dep-fixed.html">fixed</a></tt> (18; 32% instances), <tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt> (3; 5% instances), <tt><a href="lt_hse-dep-cc.html">cc</a></tt> (2; 4% instances), <tt><a href="lt_hse-dep-acl.html">acl</a></tt> (1; 2% instances), <tt><a href="lt_hse-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="lt_hse-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="lt_hse-dep-obj.html">obj</a></tt> (1; 2% instances)
+Children of `PART` nodes are attached using 8 different relations: <tt><a href="lt_hse-dep-punct.html">punct</a></tt> (27; 51% instances), <tt><a href="lt_hse-dep-fixed.html">fixed</a></tt> (18; 34% instances), <tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt> (3; 6% instances), <tt><a href="lt_hse-dep-acl.html">acl</a></tt> (1; 2% instances), <tt><a href="lt_hse-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="lt_hse-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="lt_hse-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="lt_hse-dep-obj.html">obj</a></tt> (1; 2% instances)
 
-Children of `PART` nodes belong to 11 different parts of speech: <tt><a href="lt_hse-pos-PUNCT.html">PUNCT</a></tt> (29; 52% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (7; 13% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (6; 11% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="lt_hse-pos-CCONJ.html">CCONJ</a></tt> (2; 4% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
+Children of `PART` nodes belong to 11 different parts of speech: <tt><a href="lt_hse-pos-PUNCT.html">PUNCT</a></tt> (27; 51% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (7; 13% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (6; 11% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (4; 8% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
 

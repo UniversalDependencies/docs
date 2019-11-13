@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-60 tokens (0%) have a non-empty value of `Foreign`.
-53 types (1%) occur at least once with a non-empty value of `Foreign`.
-52 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-X.html">X</a></tt> (59; 0% instances), <tt><a href="hy_armtdp-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+89 tokens (0%) have a non-empty value of `Foreign`.
+78 types (1%) occur at least once with a non-empty value of `Foreign`.
+77 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-X.html">X</a></tt> (88; 0% instances), <tt><a href="hy_armtdp-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `X`
 
-59 <tt><a href="hy_armtdp-pos-X.html">X</a></tt> tokens (62% of all `X` tokens) have a non-empty value of `Foreign`.
+88 <tt><a href="hy_armtdp-pos-X.html">X</a></tt> tokens (44% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (59; 100% of non-empty `Foreign`): <em>Յելլ, Daily, Nas, Reuters, ZipLine, Allianplace, Area, Arik, Beatman, Big</em>
-* `EMPTY` (36): <em>թույլ, ո, նկատի, կոյունլու, մ, շ, տանուլ, ր, Lragir.am, դուր</em>
+* `Yes` (88; 100% of non-empty `Foreign`): <em>Յելլ, Community, Daily, In, Metal, Nas, Reuters, ZipLine, vino, Allianplace</em>
+* `EMPTY` (113): <em>ո, մ, ր, շ, թույլ, նկատի, ու, ա, կոյունլու, ւ</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (51) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (76) occur only with one value of `Foreign`.
 
 ### `PUNCT`
 
@@ -32,11 +32,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-X.htm
 `PUNCT` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>!</em>
-* `EMPTY` (6712): <em>,, :, ։, ՝, -, », «, ., ՞, ...</em>
+* `EMPTY` (10178): <em>,, ։, :, ՝, ., », -, «, ՞, ...</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="hy_armtdp-dep-flat.html">flat</a></tt>]--> X</tt> (20; 100%),
-<tt>X --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> X</tt> (6; 100%).
+<tt>X --[<tt><a href="hy_armtdp-dep-flat.html">flat</a></tt>]--> X</tt> (36; 100%),
+<tt>X --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> X</tt> (6; 100%),
+<tt>X --[<tt><a href="hy_armtdp-dep-compound.html">compound</a></tt>]--> X</tt> (1; 100%).
 

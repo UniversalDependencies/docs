@@ -12,7 +12,7 @@ It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Vo
 2283 tokens (43%) have a non-empty value of `Case`.
 1636 types (70%) occur at least once with a non-empty value of `Case`.
 1075 lemmas (67%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (1102; 21% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (392; 7% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (300; 6% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (235; 4% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (146; 3% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (93; 2% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (1102; 21% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (392; 7% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (300; 6% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (233; 4% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (146; 3% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (95; 2% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -84,9 +84,9 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `PRON`
 
-235 <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `Case`.
+233 <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (122; 52%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (120; 52%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (57; 24% of non-empty `Case`): <em>jų, to, jo, nieko, savęs, viso, jos, kurio, kurios, kurių</em>
 * `Ins` (9; 4% of non-empty `Case`): <em>kuo, juo, ja, jais, jokiu, kuriais, mumis</em>
 * `Loc` (2; 1% of non-empty `Case`): <em>jose, kurioje</em>
-* `Nom` (90; 38% of non-empty `Case`): <em>jis, kas, ji, jie, kuris, mes, aš, kurie, jūs, kuri</em>
+* `Nom` (88; 38% of non-empty `Case`): <em>jis, kas, ji, jie, kuris, mes, aš, kurie, jūs, kuri</em>
 * `EMPTY` (21): <em>tai, tuo</em>
 
 <table>
@@ -120,7 +120,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ins` (4; 3% of non-empty `Case`): <em>išlaikančiu, kalbančiu, nepriimtina, pabrėžiamomis</em>
 * `Loc` (7; 5% of non-empty `Case`): <em>apsuptose, nenorinčiose, nežinančiose, nukritusiame, prižiūrimose, valdomame, veikusioje</em>
 * `Nom` (97; 66% of non-empty `Case`): <em>vadinami, girdėję, grįžtamasis, laikomas, paskelbta, pastebimi, skirtas, žinojęs, Mąstanti, Pradėjęs</em>
-* `EMPTY` (565): <em>gali, turi, negali, žinoma, būti, galima, nėra, sako, žino, analizuoja</em>
+* `EMPTY` (562): <em>gali, turi, negali, žinoma, būti, galima, nėra, sako, žino, analizuoja</em>
 
 <table>
   <tr><th>Paradigm <i>būti</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -132,18 +132,18 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `DET`
 
-93 <tt><a href="lt_hse-pos-DET.html">DET</a></tt> tokens (57% of all `DET` tokens) have a non-empty value of `Case`.
+95 <tt><a href="lt_hse-pos-DET.html">DET</a></tt> tokens (57% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (58; 62%), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (50; 54%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (60; 63%), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (51; 54%).
 
 `DET` tokens may have the following values of `Case`:
 
 * `Acc` (17; 18% of non-empty `Case`): <em>tą, tokią, kokias, tokias, kurį, pačius, visas, visus, visą</em>
 * `Dat` (5; 5% of non-empty `Case`): <em>tokiai, kokiai, tokiems, visokiems</em>
-* `Gen` (27; 29% of non-empty `Case`): <em>jokių, to, tų, viso, tokios, tos, jokios, jos, jų, kitokių</em>
-* `Ins` (7; 8% of non-empty `Case`): <em>tuo, jokiu, kokiu, savuoju, svo, tais, tokia</em>
+* `Gen` (27; 28% of non-empty `Case`): <em>jokių, to, tų, viso, tokios, tos, jokios, jos, jų, kitokių</em>
+* `Ins` (7; 7% of non-empty `Case`): <em>tuo, jokiu, kokiu, savuoju, svo, tais, tokia</em>
 * `Loc` (5; 5% of non-empty `Case`): <em>šioje, kuriuose, tame, Šiose</em>
-* `Nom` (32; 34% of non-empty `Case`): <em>kokia, tas, tie, tokia, kai, kiekvienas, toks, visa, Tokios, Tos</em>
+* `Nom` (34; 36% of non-empty `Case`): <em>kokia, tas, tie, tokia, kai, kiekvienas, pats, toks, visa, Tokios</em>
 * `EMPTY` (71): <em>mūsų, savo, jo, jų, jos, mano, tavo, šių, tam, tuos</em>
 
 <table>
@@ -185,7 +185,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `AUX` tokens may have the following values of `Case`:
 
 * `Nom` (1; 100% of non-empty `Case`): <em>esąs</em>
-* `EMPTY` (107): <em>buvo, yra, nėra, būtų, būti, nebūtų, būna, nebuvo, esu, Esama</em>
+* `EMPTY` (111): <em>buvo, yra, nėra, būtų, būti, nebūtų, būna, esu, nebuvo, bus</em>
 
 ## Relations with Agreement in `Case`
 
@@ -195,7 +195,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PROPN --[<tt><a href="lt_hse-dep-flat.html">flat</a></tt>]--> PROPN</tt> (37; 90%),
 <tt>ADJ --[<tt><a href="lt_hse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (28; 90%),
 <tt>PROPN --[<tt><a href="lt_hse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (27; 87%),
-<tt>NOUN --[<tt><a href="lt_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (25; 78%),
+<tt>NOUN --[<tt><a href="lt_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (25; 81%),
 <tt>ADJ --[<tt><a href="lt_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (22; 100%),
 <tt>NOUN --[<tt><a href="lt_hse-dep-amod.html">amod</a></tt>]--> VERB</tt> (22; 81%),
 <tt>PROPN --[<tt><a href="lt_hse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (17; 85%),

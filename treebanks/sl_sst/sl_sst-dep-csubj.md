@@ -55,7 +55,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 5	na	na	ADP	Sl	Case=Loc	6	case	_	word=na|msd=Dm
 6	onemu	oni	DET	Pd-nsd	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	2	obl	_	word=unemu|msd=Zk-sed
 7	n	_	X	Xt	_	9	reparandum	_	word=n|msd=Nt
-8	[gap]	[gap]	X	X	_	10	punct	_	word=[gap]|msd=N
+8	[gap]	[gap]	PUNCT	X	_	9	punct	_	word=[gap]|msd=N
 9	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	word=je|msd=Gp-ste-n
 10	premočno	premočen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	word=premočno|msd=Ppnsei
 

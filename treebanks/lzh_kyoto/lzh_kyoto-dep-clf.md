@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-170 nodes (0%) are attached to their parents as `clf`.
+232 nodes (0%) are attached to their parents as `clf`.
 
-167 instances of `clf` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.08235294117647.
+227 instances of `clf` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07758620689655.
 
-The following 2 pairs of parts of speech are connected with `clf`: <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (166; 98% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (4; 2% instances).
+The following 3 pairs of parts of speech are connected with `clf`: <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (226; 97% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,6 +42,20 @@ The following 2 pairs of parts of speech are connected with `clf`: <tt><a href="
 3	牆	牆	NOUN	n,名詞,固定物,建造物	Case=Loc	4	nsubj	_	Gloss=wall-of-a-house|SpaceAfter=No
 4	數	數	NOUN	n,名詞,数量,*	_	0	root	_	Gloss=number|SpaceAfter=No
 5	仞	仞	NOUN	n,名詞,度量衡,*	NounType=Class	4	clf	_	Gloss=[length-unit]|SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 clf	color:blue
+1	廣	廣	VERB	v,動詞,描写,量	Degree=Pos	4	nsubj	_	Gloss=wide|SpaceAfter=No
+2	各	各	ADV	v,副詞,範囲,限定	_	4	advmod	_	Gloss=each|SpaceAfter=No
+3	寸	寸	NOUN	n,名詞,度量衡,*	NounType=Class	4	clf	_	Gloss=[length-unit]|SpaceAfter=No
+4	半	半	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=half|SpacesAfter=\n
 
 ~~~
 

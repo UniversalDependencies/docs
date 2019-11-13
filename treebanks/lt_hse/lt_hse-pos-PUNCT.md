@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.444778).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.442977).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “)”: <em>)</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="lt_hse-dep-punct.html">punct</a></tt> (1093; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (510; 47% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (293; 27% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (83; 8% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (69; 6% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (44; 4% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (29; 3% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (18; 2% instances), <tt><a href="lt_hse-pos-ADP.html">ADP</a></tt> (10; 1% instances), <tt><a href="lt_hse-pos-INTJ.html">INTJ</a></tt> (10; 1% instances), <tt><a href="lt_hse-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="lt_hse-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (513; 47% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (293; 27% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (83; 8% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (69; 6% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (45; 4% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (27; 2% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (18; 2% instances), <tt><a href="lt_hse-pos-ADP.html">ADP</a></tt> (10; 1% instances), <tt><a href="lt_hse-pos-INTJ.html">INTJ</a></tt> (10; 1% instances), <tt><a href="lt_hse-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="lt_hse-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 1093 (100%) `PUNCT` nodes are leaves.
 

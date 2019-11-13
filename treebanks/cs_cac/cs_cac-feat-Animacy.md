@@ -151,7 +151,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 * `Anim` (858; 35% of non-empty `Animacy`): <em>kteří, každý, sami, každého, ti, někteří, naši, svého, každému, tito</em>
 * `Inan` (1567; 65% of non-empty `Animacy`): <em>které, tyto, který, tento, svůj, každý, některé, ty, každém, její</em>
-* `EMPTY` (17345): <em>to, které, jejich, jeho, která, který, tím, této, své, těchto</em>
+* `EMPTY` (17337): <em>to, které, jejich, jeho, která, který, tím, této, své, těchto</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>

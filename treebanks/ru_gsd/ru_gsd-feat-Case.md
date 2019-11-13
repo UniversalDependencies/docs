@@ -245,7 +245,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1922; 95%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (954; 98%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-det.html">det</a></tt>]--> DET</tt> (916; 71%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (864; 90%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (865; 90%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (742; 65%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> PROPN</tt> (517; 99%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (504; 92%),

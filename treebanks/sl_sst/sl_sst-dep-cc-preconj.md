@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 3 cc:preconj	color:blue
 1	j	_	X	Xt	_	3	reparandum	_	word=j|msd=Nt
-2	[gap]	[gap]	X	X	_	4	punct	_	word=[gap]|msd=N
+2	[gap]	[gap]	PUNCT	X	_	3	punct	_	word=[gap]|msd=N
 3	ali	ali	CCONJ	Cc	_	4	cc:preconj	_	word=al|msd=Vp
 4	imate	imeti	VERB	Vmpr2p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	word=imate|msd=Ggnsdm-n
 5	eee	eee	INTJ	I	_	7	discourse:filler	_	word=eee|msd=M
@@ -51,7 +51,7 @@ The following 9 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 5	pri	pri	ADP	Sl	Case=Loc	6	case	_	word=pri|msd=Dm
 6	registraciji	registracija	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	word=registraciji|msd=Sozem
 7	bi	biti	VERB	Va-c	Mood=Cnd|VerbForm=Fin	0	root	_	word=bi|msd=Gp-g
-8	[gap]	[gap]	X	X	_	7	punct	_	word=[gap]|msd=N
+8	[gap]	[gap]	PUNCT	X	_	11	punct	_	word=[gap]|msd=N
 9	za	za	ADP	Sa	Case=Acc	11	case	_	word=za|msd=Dt
 10	sto	sto	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	word=sto|msd=Kbg-mt
 11	evrov	evro	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	word=evrov|msd=Sommr

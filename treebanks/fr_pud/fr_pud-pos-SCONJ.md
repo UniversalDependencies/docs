@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` lemmas: <em>_</em>
 
 The 10 most frequent `SCONJ` types:  <em>que, qu', quand, lorsque, qu’, lorsqu’, lorsqu', puisqu'</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 4804, <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 3323, <tt><a href="fr_pud-pos-DET.html">DET</a></tt> 3036, <tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> 2553, <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> 2277, <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 1603, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 1333, <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> 1241, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 1035, <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> 1020, <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 562, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 462, <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 209, <tt><a href="fr_pud-pos-X.html">X</a></tt> 43, <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> 34, <tt><a href="fr_pud-pos-PART.html">PART</a></tt> 9)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 4805, <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 3323, <tt><a href="fr_pud-pos-DET.html">DET</a></tt> 3294, <tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> 2554, <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> 2263, <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 1627, <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> 1240, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 1056, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 1035, <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> 1030, <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 562, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 462, <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 209, <tt><a href="fr_pud-pos-X.html">X</a></tt> 43, <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> 34, <tt><a href="fr_pud-pos-PART.html">PART</a></tt> 8)
 
 The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 132, <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 45, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 12), <em>qu'</em> (<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 9, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 9, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 1), <em>quand</em> (<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 18, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 3), <em>qu’</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 23, <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 1)
 
@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_pud-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 8.000000 (the average of all parts of speech is 309.000000).
+The form / lemma ratio of `SCONJ` is 8.000000 (the average of all parts of speech is 309.450000).
 
 The 1st highest number of forms (8) was observed with the lemma “_”: <em>lorsqu', lorsque, lorsqu’, puisqu', qu', quand, que, qu’</em>.
 
@@ -56,7 +56,7 @@ Examples: <em>que, qu', quand, lorsque, qu’, lorsqu’, lorsqu', puisqu'</em>
 
 `SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="fr_pud-dep-mark.html">mark</a></tt> (148; 71% instances), <tt><a href="fr_pud-dep-fixed.html">fixed</a></tt> (61; 29% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (128; 61% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (43; 21% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (18; 9% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (12; 6% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (127; 61% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (43; 21% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (18; 9% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (12; 6% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 209 (100%) `SCONJ` nodes are leaves.
 

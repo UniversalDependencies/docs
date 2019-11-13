@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-210530 tokens (49%) have a non-empty value of `Number`.
+210531 tokens (49%) have a non-empty value of `Number`.
 28556 types (63%) occur at least once with a non-empty value of `Number`.
 18090 lemmas (50%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (73467; 17% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (60694; 14% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (27650; 6% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (24201; 6% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (10155; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (7478; 2% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (4458; 1% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1627; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (671; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (129; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (73467; 17% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (60694; 14% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (27650; 6% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (24202; 6% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (10155; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (7478; 2% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (4458; 1% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1627; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (671; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (129; 0% instances).
 
 ### `NOUN`
 
@@ -86,12 +86,12 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-24201 <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Number`.
+24202 <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (6953; 29% of non-empty `Number`): <em>grandes, diferentes, principales, importantes, sociales, internacionales, primeros, anteriores, siguientes, últimos</em>
-* `Sing` (17248; 71% of non-empty `Number`): <em>gran, estadounidense, primera, total, primer, nacional, principal, importante, general, mismo</em>
+* `Sing` (17249; 71% of non-empty `Number`): <em>gran, estadounidense, primera, total, primer, nacional, principal, importante, general, mismo</em>
 * `EMPTY` (694): <em>después, Internacional, Mundial, mejor, Real, estupendo, Cultural, Nacional, Primer, igual</em>
 
 <table>
@@ -160,7 +160,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (609; 14% of non-empty `Number`): <em>Unidos, Estados, Luis, van, Dos, ángeles, on, siete, Ciencias, Olímpicos</em>
 * `Sing` (3849; 86% of non-empty `Number`): <em>Nacional, mundial, general, guerra, the, of, Partido, José, popular, Segunda</em>
-* `EMPTY` (35038): <em>San, España, Estados, Unidos, madrid, Juan, septiembre, julio, enero, junio</em>
+* `EMPTY` (35037): <em>San, España, Estados, Unidos, madrid, Juan, septiembre, julio, enero, junio</em>
 
 <table>
   <tr><th>Paradigm <i>san</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -232,7 +232,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="es_gsd-dep-det.html">det</a></tt>]--> DET</tt> (48602; 96%),
-<tt>NOUN --[<tt><a href="es_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (17765; 95%),
+<tt>NOUN --[<tt><a href="es_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (17766; 95%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (11026; 55%),
 <tt>VERB --[<tt><a href="es_gsd-dep-obl.html">obl</a></tt>]--> NOUN</tt> (9396; 53%),
 <tt>VERB --[<tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6349; 84%),
@@ -240,5 +240,5 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="es_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2924; 75%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-cop.html">cop</a></tt>]--> AUX</tt> (2866; 89%),
 <tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2149; 72%),
-<tt>NOUN --[<tt><a href="es_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (1977; 87%).
+<tt>NOUN --[<tt><a href="es_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (1978; 87%).
 

@@ -6,23 +6,23 @@ udver: '2'
 
 ## Treebank Statistics: UD_Estonian-EDT: POS Tags: `PUNCT`
 
-There are 31 `PUNCT` lemmas (0%), 33 `PUNCT` types (0%) and 70959 `PUNCT` tokens (16%).
+There are 31 `PUNCT` lemmas (0%), 33 `PUNCT` types (0%) and 71498 `PUNCT` tokens (16%).
 Out of 16 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 14 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ", ), (, -, :, ?, !, “</em>
 
 The 10 most frequent `PUNCT` types:  <em>., ,, ", ), (, -, :, ?, !, “</em>
 
-The 10 most frequent ambiguous lemmas: <em>-</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1456, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 9), <em>?</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1289, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 6, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>!</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 960, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1), <em>></em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 26, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1), <em>*</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 12, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>=</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 17, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>-</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1464, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 9), <em>?</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1299, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 6, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>!</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 960, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1), <em>></em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 26, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1), <em>*</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 12, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>=</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 17, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1420, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 9), <em>?</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1289, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 6, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>!</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 960, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1), <em>></em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 22, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1), <em>*</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 12, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>=</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 17, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1428, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 9), <em>?</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1299, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 6, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>!</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 960, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1), <em>></em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 22, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1), <em>*</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 12, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>=</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 17, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 
 * <em>-</em>
-  * <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1420: <em>“ Ma olen optimist <b>-</b> oleme majanduskasvu esimeses faasis . ”</em>
+  * <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1428: <em>“ Ma olen optimist <b>-</b> oleme majanduskasvu esimeses faasis . ”</em>
   * <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 9: <em>Keskmine vanus 6 p rühmas oli 64,3 <b>-</b> 7,4 ja 10-12 p rühmas 67,3 <b>-</b> 9,2 aastat , see erinevus oli tõepärane .</em>
 * <em>?</em>
-  * <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1289: <em>Kust tuli mõte kirjutada ooper " Writing to Vermeer " <b>?</b></em>
+  * <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1299: <em>Kust tuli mõte kirjutada ooper " Writing to Vermeer " <b>?</b></em>
   * <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 6: <em>Tabeli väljadel toodud märgid " <b>?</b> " ja " <b>?</b> " kujutavad endast vastavalt sünteetilist positiivset või negatiivset mõju peegeldavat indikaatorit , mis on saadud mitme allindikaatori koondamise teel .</em>
   * <tt><a href="et_edt-pos-X.html">X</a></tt> 1: <em>Sihtasutuse koolitusplaanidest saab ülevaate interneti koduleheküljelt ( <b>?</b> ) .</em>
 * <em>!</em>
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="et_edt-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.064516 (the average of all parts of speech is 1.912003).
+The form / lemma ratio of `PUNCT` is 1.064516 (the average of all parts of speech is 1.914025).
 
 The 1st highest number of forms (3) was observed with the lemma “-”: <em>-, –, —</em>.
 
@@ -53,17 +53,17 @@ The 3rd highest number of forms (2) was observed with the lemma “--”: <em>-,
 `PUNCT` occurs with 1 feature-value pairs: `Hyph=Yes`
 
 `PUNCT` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (70792 tokens).
+The most frequent feature combination is `_` (71331 tokens).
 Examples: <em>., ,, ", ), (, -, :, ?, !, “</em>
 
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="et_edt-dep-punct.html">punct</a></tt> (70959; 100% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="et_edt-dep-punct.html">punct</a></tt> (71498; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (41131; 58% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (14308; 20% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (5284; 7% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (4071; 6% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1971; 3% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1860; 3% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1594; 2% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (271; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (256; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (180; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (41469; 58% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (14453; 20% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (5333; 7% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (4071; 6% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1955; 3% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1866; 3% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1613; 2% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (276; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (255; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (180; 0% instances), <tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (2; 0% instances)
 
-70959 (100%) `PUNCT` nodes are leaves.
+71498 (100%) `PUNCT` nodes are leaves.
 
 The highest child degree of a `PUNCT` node is 0.
 

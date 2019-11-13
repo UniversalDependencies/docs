@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek.
 
 Repository: [UD_Slovenian-SSJ](https://github.com/UniversalDependencies/UD_Slovenian-SSJ)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -106,7 +106,7 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
 
 ## Relations
 
-[acl](sl_ssj-dep-acl.html) – [advcl](sl_ssj-dep-advcl.html) – [advmod](sl_ssj-dep-advmod.html) – [amod](sl_ssj-dep-amod.html) – [appos](sl_ssj-dep-appos.html) – [aux](sl_ssj-dep-aux.html) – [case](sl_ssj-dep-case.html) – [cc](sl_ssj-dep-cc.html) – [cc:preconj](sl_ssj-dep-cc-preconj.html) – [ccomp](sl_ssj-dep-ccomp.html) – [conj](sl_ssj-dep-conj.html) – [cop](sl_ssj-dep-cop.html) – [csubj](sl_ssj-dep-csubj.html) – [dep](sl_ssj-dep-dep.html) – [det](sl_ssj-dep-det.html) – [discourse](sl_ssj-dep-discourse.html) – [expl](sl_ssj-dep-expl.html) – [fixed](sl_ssj-dep-fixed.html) – [flat](sl_ssj-dep-flat.html) – [flat:foreign](sl_ssj-dep-flat-foreign.html) – [flat:name](sl_ssj-dep-flat-name.html) – [iobj](sl_ssj-dep-iobj.html) – [mark](sl_ssj-dep-mark.html) – [nmod](sl_ssj-dep-nmod.html) – [nsubj](sl_ssj-dep-nsubj.html) – [nummod](sl_ssj-dep-nummod.html) – [obj](sl_ssj-dep-obj.html) – [obl](sl_ssj-dep-obl.html) – [parataxis](sl_ssj-dep-parataxis.html) – [punct](sl_ssj-dep-punct.html) – [root](sl_ssj-dep-root.html) – [xcomp](sl_ssj-dep-xcomp.html)
+[acl](sl_ssj-dep-acl.html) – [advcl](sl_ssj-dep-advcl.html) – [advmod](sl_ssj-dep-advmod.html) – [amod](sl_ssj-dep-amod.html) – [appos](sl_ssj-dep-appos.html) – [aux](sl_ssj-dep-aux.html) – [case](sl_ssj-dep-case.html) – [cc](sl_ssj-dep-cc.html) – [cc:preconj](sl_ssj-dep-cc-preconj.html) – [ccomp](sl_ssj-dep-ccomp.html) – [conj](sl_ssj-dep-conj.html) – [cop](sl_ssj-dep-cop.html) – [csubj](sl_ssj-dep-csubj.html) – [dep](sl_ssj-dep-dep.html) – [det](sl_ssj-dep-det.html) – [discourse](sl_ssj-dep-discourse.html) – [expl](sl_ssj-dep-expl.html) – [fixed](sl_ssj-dep-fixed.html) – [flat](sl_ssj-dep-flat.html) – [flat:foreign](sl_ssj-dep-flat-foreign.html) – [flat:name](sl_ssj-dep-flat-name.html) – [iobj](sl_ssj-dep-iobj.html) – [mark](sl_ssj-dep-mark.html) – [nmod](sl_ssj-dep-nmod.html) – [nsubj](sl_ssj-dep-nsubj.html) – [nummod](sl_ssj-dep-nummod.html) – [obj](sl_ssj-dep-obj.html) – [obl](sl_ssj-dep-obl.html) – [parataxis](sl_ssj-dep-parataxis.html) – [punct](sl_ssj-dep-punct.html) – [root](sl_ssj-dep-root.html) – [vocative](sl_ssj-dep-vocative.html) – [xcomp](sl_ssj-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -116,7 +116,7 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
 </ul>
 
 <ul>
-<li>This corpus contains 18508 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 25466 tokens (18%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -909,7 +909,7 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
 </ul>
 
 <ul>
-<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: biti, bga, dab, dam, gauš, kse, neb, seu, tlelevš.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: biti.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1003,5 +1003,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 3 relation subtypes: <a>cc:preconj</a>, <a>flat:foreign</a>, <a>flat:name</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

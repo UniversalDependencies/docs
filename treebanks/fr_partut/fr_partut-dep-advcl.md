@@ -72,7 +72,7 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	qui	qui	PRON	PR	PronType=Rel	8	nsubj	_	_
 7	ont	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	absorbé	absorber	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
-9	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+9	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	PCB	PCB	PROPN	SP	_	8	obj	_	_
 11	de	de	ADP	E	_	13	case	_	_
 12	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_

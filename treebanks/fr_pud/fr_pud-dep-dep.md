@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `dep`.
+8 nodes (0%) are attached to their parents as `dep`.
 
-7 instances of `dep` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22222222222222.
+6 instances of `dep` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25.
 
-The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-PART.html">PART</a></tt> (7; 78% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (1; 11% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
+The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-PART.html">PART</a></tt> (6; 75% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (1; 13% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 31 32 dep	color:blue
 1	Elle	_	PRON	PRP	Gender=Fem|Number=Sing|Person=3	2	nsubj	_	_
 2	débute	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	sa	_	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	4	nmod:poss	_	_
+3	sa	_	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	carrière	_	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	à	_	ADP	IN	_	7	case	_	_
 6	la	_	DET	DT	Gender=Fem|Number=Sing	7	det	_	_

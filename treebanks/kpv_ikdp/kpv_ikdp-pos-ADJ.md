@@ -9,7 +9,7 @@ udver: '2'
 There are 43 `ADJ` lemmas (8%), 45 `ADJ` types (7%) and 52 `ADJ` tokens (4%).
 Out of 15 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 4 in number of types and 9 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>ас, бия, второй, дик, кык-суда, лёк, ыджыд, Берёзовский, Вто-, Ленинградскей</em>
+The 10 most frequent `ADJ` lemmas: <em>ас, бия, второй, дик, кык-суда, лёк, ыджыд, Берёзовский, Вто-, Ленинградскӧй</em>
 
 The 10 most frequent `ADJ` types:  <em>ас, бия, второй, дик, кык-суда, Берёзовский, Вто-, Выль, Ленинградскей, Нарьян-Марскей</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.046512 (the average of all parts of speech is 1.198459).
+The form / lemma ratio of `ADJ` is 1.046512 (the average of all parts of speech is 1.221569).
 
 The 1st highest number of forms (2) was observed with the lemma “лёк”: <em>лёк, лёк-а</em>.
 
@@ -54,7 +54,7 @@ Parents of `ADJ` nodes belong to 6 different parts of speech: <tt><a href="kpv_i
 
 The highest child degree of a `ADJ` node is 6.
 
-Children of `ADJ` nodes are attached using 13 different relations: <tt><a href="kpv_ikdp-dep-punct.html">punct</a></tt> (12; 27% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (9; 20% instances), <tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt> (5; 11% instances), <tt><a href="kpv_ikdp-dep-cc.html">cc</a></tt> (3; 7% instances), <tt><a href="kpv_ikdp-dep-nmod.html">nmod</a></tt> (3; 7% instances), <tt><a href="kpv_ikdp-dep-amod.html">amod</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-aux.html">aux</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-nummod.html">nummod</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-compound.html">compound</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-cop.html">cop</a></tt> (1; 2% instances)
+Children of `ADJ` nodes are attached using 15 different relations: <tt><a href="kpv_ikdp-dep-punct.html">punct</a></tt> (12; 27% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (8; 18% instances), <tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt> (5; 11% instances), <tt><a href="kpv_ikdp-dep-cc.html">cc</a></tt> (3; 7% instances), <tt><a href="kpv_ikdp-dep-nmod.html">nmod</a></tt> (3; 7% instances), <tt><a href="kpv_ikdp-dep-amod.html">amod</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-nummod.html">nummod</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-aux-neg.html">aux:neg</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-compound.html">compound</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (1; 2% instances)
 
-Children of `ADJ` nodes belong to 10 different parts of speech: <tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (12; 27% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (7; 16% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (5; 11% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (4; 9% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (4; 9% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (3; 7% instances), <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (3; 7% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (3; 7% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 2% instances)
+Children of `ADJ` nodes belong to 11 different parts of speech: <tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (12; 27% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (7; 16% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (5; 11% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (4; 9% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (4; 9% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (3; 7% instances), <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (3; 7% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (3; 7% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 

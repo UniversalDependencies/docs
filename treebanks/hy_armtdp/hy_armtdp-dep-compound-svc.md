@@ -9,27 +9,28 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hy_armtdp-dep-compound.html">compound</a></tt>.
 There are also 2 other language-specific subtypes of `compound`: <tt><a href="hy_armtdp-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="hy_armtdp-dep-compound-redup.html">compound:redup</a></tt>.
 
-27 nodes (0%) are attached to their parents as `compound:svc`.
+38 nodes (0%) are attached to their parents as `compound:svc`.
 
-26 instances of `compound:svc` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.85185185185185.
+37 instances of `compound:svc` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.10526315789474.
 
-The following 1 pairs of parts of speech are connected with `compound:svc`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (27; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound:svc`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (38; 100% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 compound:svc	color:blue
-1	Իջեցրել	իջնել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=iǰec’rel|LTranslit=iǰnel
-2	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=en|LTranslit=em
-3	մեքենայից	մեքենա	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	1	obl	_	Translit=mek’enayic’|LTranslit=mek’ena
-4	ու	ու	CCONJ	_	_	5	cc	_	Translit=ow|LTranslit=ow
-5	քշել	քշել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	1	conj	_	Translit=k’šel|LTranslit=k’šel
-6	գնացել	գնալ	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	5	compound:svc	_	Translit=gnac’el|LTranslit=gnal|SpaceAfter=No
-7	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 compound:svc	color:blue
+1	Շունը	շուն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	Translit=Šownë|LTranslit=šown
+2	մոտեցել	մոտենալ	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=motec’el|LTranslit=motenal|SpaceAfter=No
+3	`	`	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
+4	ջինսի	ջինս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	5	nmod:poss	_	Translit=ǰinsi|LTranslit=ǰins
+5	փողքն	փողք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	obj	_	Translit=p’oġk’n|LTranslit=p’oġk’
+6	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	7	aux	_	Translit=ēr|LTranslit=em
+7	հոտոտում	հոտոտել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	2	compound:svc	_	Translit=hototowm|LTranslit=hototel|SpaceAfter=No
+8	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

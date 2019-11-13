@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lv_lvtb-dep-aux.html">aux</a></tt>.
 
-1202 nodes (1%) are attached to their parents as `aux:pass`.
+1278 nodes (1%) are attached to their parents as `aux:pass`.
 
-1185 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12895174708819.
+1261 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12910798122066.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1198; 100% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1273; 100% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -65,7 +65,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 13 12 aux:pass	color:blue
 1	Vēl	vēl	ADV	r0t	_	3	advmod	3:advmod	LvtbNodeId=a-d198-p73s2w1
 2	vienmēr	vienmēr	ADV	r0t	PronType=Tot	3	advmod	3:advmod	LvtbNodeId=a-d198-p73s2w2
-3	kaila	kails	ADJ	affsnnp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-d198-p73s2w3|SpaceAfter=No
+3	kaila	kails	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-d198-p73s2w3|SpaceAfter=No
 4	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-d198-p73s2w4
 5	vēl	vēl	ADV	r0t	_	7	advmod	7:advmod	LvtbNodeId=a-d198-p73s2w5
 6	vienmēr	vienmēr	ADV	r0t	PronType=Tot	7	advmod	7:advmod	LvtbNodeId=a-d198-p73s2w6
@@ -75,7 +75,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 10	vīrieša	vīrietis	NOUN	ncmsg2	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod:gen	LvtbNodeId=a-d198-p73s2w10
 11	balss	balss	NOUN	ncfsn6	Case=Nom|Gender=Fem|Number=Sing	13	nsubj:pass	13:nsubj:pass|15.1:nsubj	LvtbNodeId=a-d198-p73s2w11
 12	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux:pass	13:aux:pass	LvtbNodeId=a-d198-p73s2w12
-13	silta	silts	ADJ	affsnnp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	conj	3:conj	LvtbNodeId=a-d198-p73s2w13
+13	silta	silts	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	conj	3:conj	LvtbNodeId=a-d198-p73s2w13
 14	un	un	CCONJ	cc	_	15	cc	15.1:cc	LvtbNodeId=a-d198-p73s2w14
 15	tuvu	tuvu	ADV	r0p	_	13	conj	15.1:advmod	LvtbNodeId=a-d198-p73s2w15|SpaceAfter=No
 16	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-d198-p73s2w16

@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="sr_set-dep-det.html
 147 instances of `det:numgov` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.3469387755102.
 
-The following 8 pairs of parts of speech are connected with `det:numgov`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (132; 90% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `det:numgov`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (134; 91% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (5; 3% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 8 pairs of parts of speech are connected with `det:numgov`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 det:numgov	color:blue
-1	Toliko	toliko	ADV	Rgp	Degree=Pos|PronType=Dem	3	det:numgov	_	_
+1	Toliko	toliko	DET	Rgp	Degree=Pos|PronType=Dem	3	det:numgov	_	_
 2	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	radnika	radnik	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	4	obj	_	_
 4	otpušteno	otpustiti	ADJ	Appnsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
@@ -41,7 +41,7 @@ The following 8 pairs of parts of speech are connected with `det:numgov`: <tt><a
 2	govora	govor	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 3	uspešno	uspešno	ADV	Rgp	Degree=Pos	7	advmod	_	_
 4	u	u	ADP	Sl	Case=Loc	6	case	_	_
-5	mnogo	mnogo	ADV	Rgp	Degree=Pos	6	det:numgov	_	_
+5	mnogo	mnogo	DET	Rgp	Degree=Pos	6	det:numgov	_	_
 6	čemu	što	PRON	Pi3n-l	Case=Loc|Gender=Neut|PronType=Int,Rel	7	obl	_	_
 7	odslikava	odslikavati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	epohu	epoha	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
@@ -64,7 +64,7 @@ The following 8 pairs of parts of speech are connected with `det:numgov`: <tt><a
 2	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	takođe	takođe	ADV	Rgp	Degree=Pos	4	advmod	_	_
 4	smenila	smeniti	VERB	Vmp-sf	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-5	nekoliko	nekoliko	ADV	Rgp	Degree=Pos|PronType=Ind	6	det:numgov	_	_
+5	nekoliko	nekoliko	DET	Rgp	Degree=Pos|PronType=Ind	6	det:numgov	_	_
 6	moćnih	moćan	ADJ	Agpfpgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
 7	ličnosti	ličnost	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	4	obj	_	_
 8	iz	iz	ADP	Sg	Case=Gen	10	case	_	_

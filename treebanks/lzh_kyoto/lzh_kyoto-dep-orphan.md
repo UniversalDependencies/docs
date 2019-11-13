@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 orphan	color:blue
-1	學	學	VERB	v,動詞,行為,動作	VerbForm=Part	3	amod	_	Gloss=study|SpaceAfter=No
+1	學	學	VERB	v,動詞,行為,動作	_	3	acl	_	Gloss=study|SpaceAfter=No
 2	而	而	CCONJ	p,助詞,接続,並列	_	1	orphan	_	Gloss=and|SpaceAfter=No
 3	篇	篇	NOUN	n,名詞,可搬,伝達	_	0	root	_	Gloss=section-of-a-book|SpaceAfter=No
 4	第	第	NOUN	n,名詞,数量,*	_	3	list	_	Gloss=order-in-a-sequence|SpaceAfter=No

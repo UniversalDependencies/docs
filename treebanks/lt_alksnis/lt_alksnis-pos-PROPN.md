@@ -6,70 +6,76 @@ udver: '2'
 
 ## Treebank Statistics: UD_Lithuanian-ALKSNIS: POS Tags: `PROPN`
 
-There are 368 `PROPN` lemmas (5%), 467 `PROPN` types (4%) and 856 `PROPN` tokens (2%).
-Out of 17 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 12 in number of tokens.
+There are 559 `PROPN` lemmas (6%), 702 `PROPN` types (4%) and 1593 `PROPN` tokens (2%).
+Out of 17 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 11 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>Lietuva, Europa, Kaunas, Vilnius, Kalėdos, Glaveckas, Mažuolis, Maxima, Rusija, Haitis</em>
+The 10 most frequent `PROPN` lemmas: <em>Lietuva, Europa, Vilnius, Kaunas, Šengenas, Kalėdos, Marcinkevičienė, Glaveckas, Mažuolis, Rusija</em>
 
-The 10 most frequent `PROPN` types:  <em>Lietuvos, Europos, Kauno, Vilniaus, Lietuvoje, Kalėdų, Lietuva, Mažuolis, Glaveckas, Lietuvą</em>
+The 10 most frequent `PROPN` types:  <em>Lietuvos, Europos, Lietuvoje, Kauno, Vilniaus, Lietuva, Šengeno, Lietuvai, Vilnius, Kalėdų</em>
 
-The 10 most frequent ambiguous lemmas: <em>Kalėdos</em> (<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 14, <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 1), <em>Baltic</em> (<tt><a href="lt_alksnis-pos-X.html">X</a></tt> 4, <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1), <em>klausimas</em> (<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 34, <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>Kalėdos</em> (<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 14, <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 1), <em>Iglesias</em> (<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 1), <em>klausimas</em> (<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 63, <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>Kalėdų</em> (<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 1), <em>Baltic</em> (<tt><a href="lt_alksnis-pos-X.html">X</a></tt> 4, <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1), <em>Gintaras</em> (<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1), <em>Seimo</em> (<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1), <em>klausimai</em> (<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>Kalėdų</em> (<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 1), <em>Gintaras</em> (<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 1), <em>Greta</em> (<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="lt_alksnis-pos-ADP.html">ADP</a></tt> 1), <em>Iglesias</em> (<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 1), <em>Seimo</em> (<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 28, <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1), <em>Vidutinė</em> (<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1), <em>klausimai</em> (<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1)
 
 
 * <em>Kalėdų</em>
-  * <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 10: <em>2 savaitėms iki <b>Kalėdų</b></em>
-  * <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 1: <em>savaitei iki <b>Kalėdų</b></em>
-* <em>Baltic</em>
-  * <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 4: <em>Žodžių mūšiu prasidėjęs koncernų MG <b>Baltic</b> ir Vilniaus prekyba vadovų konfliktas jų bendrovių ryšiams kol kas .</em>
-  * <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1: <em>Aprangos generalinis direktorius Rimantas Perveneckas , kad koncerno MG <b>Baltic</b> kontroliuojamos mažmeninės drabužių prekybos lyderės Aprangos ir populiarių Vilniaus prekybos prekybos centrų Akropolis bendradarbiavimo neturėtų paveikti pastaruoju metu įsiplieskęs koncernų vadovų konfliktas , išprovokuotas nacionalinio investuotojo kūrimo projekto .</em>
+  * <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 10: <em>Likus 2 savaitėms iki <b>Kalėdų</b></em>
+  * <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 1: <em>Likus savaitei iki <b>Kalėdų</b></em>
 * <em>Gintaras</em>
-  * <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 1: <em>§ <b>Gintaras</b> Viešvilės užkardoje .</em>
-  * <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1: <em>Urbanistikos klausimais merui patarimus Lietuvos architektų sąjungos Kauno skyriaus vadovas <b>Gintaras</b> Balčytis , verslo plėtros - Kauno pramonės , prekybos ir amatų rūmų prezidentas Mečislovas Rondomanskas bei Kauno krašto pramonininkų asociacijos prezidentas Algimantas Jankauskas , akademinės bendruomenės - Kauno technologijos universiteto senato pirmininkas Ramutis Bansevičius , Kauno medicinos universiteto senato pirmininkas Vilius Grabauskas , kultūros - Justinas Krėpšta .</em>
+  * <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 2: <em><b>Gintaras</b> Goda</em>
+  * <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Gintaras</b> saugomas Viešvilės užkardoje .</em>
+* <em>Greta</em>
+  * <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 2: <em>1990 m . mirė Švedijoje gimusi kino žvaigždė <b>Greta</b> Garbo .</em>
+  * <tt><a href="lt_alksnis-pos-ADP.html">ADP</a></tt> 1: <em><b>Greta</b> įprastinių parametrų matavome šiuos naujus parametrus : latencijos ( Lp 300 ) ir amplitudės ( Ap 300 ) santykį , atpažinimo laiką ( IT ) , kognityvinio komplekso statumą ( SCC ) , P 300 bangos energiją , P 300 bangos nusileidžiančiosios dalies greitį ( SDS ) bei greičio parametrus A ir B .</em>
+* <em>Iglesias</em>
+  * <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1: <em>Su ilgamete drauge Ana Kurnikova išsiskyręs dainininkas E . <b>Iglesias</b> išgyvena sunkų laikotarpį - jį kankina nemiga ir įvairūs kompleksai .</em>
+  * <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 1: <em>Kitą ketvirtadienį E . <b>Iglesias</b> pasirodymą stebės 8500 žiūrovų .</em>
 * <em>Seimo</em>
-  * <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 23: <em><b>Seimo</b> komitetai svarsto šį pasiūlymą , žino direktorė .</em>
-  * <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1: <em>Pasiūlymų labai daug įvairių buvo išnagrinėta tik ne Vyriausybėje , bet ir <b>Seimo</b> komitetuose , tai ką , jie ( „ NDX Energija “ - red . past . ) neturi teisės atnešti jie yra viena iš kompanijų , kuri dalyvauja elektros versle .</em>
+  * <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 28: <em><b>Seimo</b> komitetai svarsto šį pasiūlymą “ , - žino direktorė .</em>
+  * <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1: <em>Pasiūlymų labai daug įvairių buvo išnagrinėta ne tik Vyriausybėje , bet ir <b>Seimo</b> komitetuose , tai ką , jie ( „ NDX Energija “ - red . past . ) neturi teisės atnešti , jie yra viena iš kompanijų , kuri dalyvauja elektros versle .</em>
+* <em>Vidutinė</em>
+  * <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> 1: <em><b>Vidutinė</b> registracijos procedūros trukmė taip pat sutrumpėjo 50 % .</em>
+  * <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1: <em>1 . <b>Vidutinė</b> įmonė – įmonė , kurioje dirba mažiau kaip 250 darbuotojų ir kurios finansiniai duomenys atitinka bent vieną iš šių sąlygų :</em>
 * <em>klausimai</em>
-  * <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 2: <em>Protokole būti nurodyta data , protokolo registravimo numeris , Komiteto posėdžio dalyviai , svarstyti <b>klausimai</b> , kalbėję bei klausimus pateikę asmenys , balsavimo rezultatai ir priimti sprendimai .</em>
-  * <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1: <em>Žinau , negeri mano <b>klausimai</b> , geresnių šį savaitgalį nebesugalvoju ...</em>
+  * <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> 8: <em>Lietuvai įstojus į Europos Sąjungos šalių bendriją , socialiniai <b>klausimai</b> vis dažniau tampa politinių debatų objektu .</em>
+  * <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> 1: <em>Žinau , negeri mano <b>klausimai</b> , bet geresnių šį savaitgalį nebesugalvoju ...</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.269022 (the average of all parts of speech is 1.826215).
+The form / lemma ratio of `PROPN` is 1.255814 (the average of all parts of speech is 2.065462).
 
-The 1st highest number of forms (7) was observed with the lemma “Lietuva”: <em>LIETUVOJE, LIETUVOS, Lietuva, Lietuvai, Lietuvoje, Lietuvos, Lietuvą</em>.
+The 1st highest number of forms (8) was observed with the lemma “Lietuva”: <em>LIETUVA, LIETUVOJE, LIETUVOS, Lietuva, Lietuvai, Lietuvoje, Lietuvos, Lietuvą</em>.
 
 The 2nd highest number of forms (5) was observed with the lemma “Europa”: <em>EUROPOS, Europa, Europoje, Europos, Europą</em>.
 
 The 3rd highest number of forms (5) was observed with the lemma “Glaveckas”: <em>GLAVECKAS, Glaveckas, Glavecko, Glavecku, Glavecką</em>.
 
-`PROPN` occurs with 4 features: <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt> (851; 99% instances), <tt><a href="lt_alksnis-feat-Number.html">Number</a></tt> (849; 99% instances), <tt><a href="lt_alksnis-feat-Case.html">Case</a></tt> (846; 99% instances), <tt><a href="lt_alksnis-feat-NameType.html">NameType</a></tt> (779; 91% instances)
+`PROPN` occurs with 3 features: <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt> (1574; 99% instances), <tt><a href="lt_alksnis-feat-Number.html">Number</a></tt> (1573; 99% instances), <tt><a href="lt_alksnis-feat-Case.html">Case</a></tt> (1572; 99% instances)
 
-`PROPN` occurs with 13 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `NameType=Geo`, `NameType=Giv`, `NameType=Sur`, `Number=Plur`, `Number=Sing`
+`PROPN` occurs with 10 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
-`PROPN` occurs with 54 feature combinations.
-The most frequent feature combination is `Case=Gen|Gender=Fem|NameType=Geo|Number=Sing` (161 tokens).
-Examples: <em>Lietuvos, Europos, Rusijos, Prancūzijos, EUROPOS, LIETUVOS, Latvijos, Baltijos, Dainavos, Estijos</em>
+`PROPN` occurs with 22 feature combinations.
+The most frequent feature combination is `Case=Gen|Gender=Fem|Number=Sing` (522 tokens).
+Examples: <em>Lietuvos, Europos, LIETUVOS, EUROPOS, Marcinkevičienės, Rusijos, Baltijos, Trejybės, Latvijos, Prancūzijos</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 14 different relations: <tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt> (331; 39% instances), <tt><a href="lt_alksnis-dep-flat.html">flat</a></tt> (205; 24% instances), <tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt> (102; 12% instances), <tt><a href="lt_alksnis-dep-obl.html">obl</a></tt> (60; 7% instances), <tt><a href="lt_alksnis-dep-root.html">root</a></tt> (51; 6% instances), <tt><a href="lt_alksnis-dep-conj.html">conj</a></tt> (49; 6% instances), <tt><a href="lt_alksnis-dep-obj.html">obj</a></tt> (23; 3% instances), <tt><a href="lt_alksnis-dep-obl-arg.html">obl:arg</a></tt> (20; 2% instances), <tt><a href="lt_alksnis-dep-iobj.html">iobj</a></tt> (6; 1% instances), <tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-dep.html">dep</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 14 different relations: <tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt> (899; 56% instances), <tt><a href="lt_alksnis-dep-obl.html">obl</a></tt> (146; 9% instances), <tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt> (141; 9% instances), <tt><a href="lt_alksnis-dep-conj.html">conj</a></tt> (126; 8% instances), <tt><a href="lt_alksnis-dep-flat.html">flat</a></tt> (110; 7% instances), <tt><a href="lt_alksnis-dep-root.html">root</a></tt> (73; 5% instances), <tt><a href="lt_alksnis-dep-obj.html">obj</a></tt> (40; 3% instances), <tt><a href="lt_alksnis-dep-obl-arg.html">obl:arg</a></tt> (34; 2% instances), <tt><a href="lt_alksnis-dep-iobj.html">iobj</a></tt> (10; 1% instances), <tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt> (9; 1% instances), <tt><a href="lt_alksnis-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-appos.html">appos</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (547; 64% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (158; 18% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (71; 8% instances),  (51; 6% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (2; 0% instances)
+Parents of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (976; 61% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (264; 17% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (245; 15% instances),  (73; 5% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (15; 1% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (12; 1% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-555 (65%) `PROPN` nodes are leaves.
+1057 (66%) `PROPN` nodes are leaves.
 
-184 (21%) `PROPN` nodes have one child.
+312 (20%) `PROPN` nodes have one child.
 
-44 (5%) `PROPN` nodes have two children.
+140 (9%) `PROPN` nodes have two children.
 
-73 (9%) `PROPN` nodes have three or more children.
+84 (5%) `PROPN` nodes have three or more children.
 
-The highest child degree of a `PROPN` node is 7.
+The highest child degree of a `PROPN` node is 8.
 
-Children of `PROPN` nodes are attached using 22 different relations: <tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt> (145; 26% instances), <tt><a href="lt_alksnis-dep-punct.html">punct</a></tt> (121; 22% instances), <tt><a href="lt_alksnis-dep-conj.html">conj</a></tt> (55; 10% instances), <tt><a href="lt_alksnis-dep-case.html">case</a></tt> (42; 8% instances), <tt><a href="lt_alksnis-dep-flat.html">flat</a></tt> (33; 6% instances), <tt><a href="lt_alksnis-dep-cc.html">cc</a></tt> (30; 5% instances), <tt><a href="lt_alksnis-dep-acl.html">acl</a></tt> (22; 4% instances), <tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt> (18; 3% instances), <tt><a href="lt_alksnis-dep-advmod-emph.html">advmod:emph</a></tt> (16; 3% instances), <tt><a href="lt_alksnis-dep-obl.html">obl</a></tt> (15; 3% instances), <tt><a href="lt_alksnis-dep-appos.html">appos</a></tt> (9; 2% instances), <tt><a href="lt_alksnis-dep-det.html">det</a></tt> (9; 2% instances), <tt><a href="lt_alksnis-dep-advmod.html">advmod</a></tt> (7; 1% instances), <tt><a href="lt_alksnis-dep-amod.html">amod</a></tt> (7; 1% instances), <tt><a href="lt_alksnis-dep-obl-arg.html">obl:arg</a></tt> (6; 1% instances), <tt><a href="lt_alksnis-dep-mark.html">mark</a></tt> (5; 1% instances), <tt><a href="lt_alksnis-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="lt_alksnis-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-dep-cop.html">cop</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-csubj.html">csubj</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 20 different relations: <tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt> (316; 35% instances), <tt><a href="lt_alksnis-dep-punct.html">punct</a></tt> (230; 26% instances), <tt><a href="lt_alksnis-dep-conj.html">conj</a></tt> (142; 16% instances), <tt><a href="lt_alksnis-dep-case.html">case</a></tt> (59; 7% instances), <tt><a href="lt_alksnis-dep-cc.html">cc</a></tt> (53; 6% instances), <tt><a href="lt_alksnis-dep-acl.html">acl</a></tt> (19; 2% instances), <tt><a href="lt_alksnis-dep-advmod-emph.html">advmod:emph</a></tt> (18; 2% instances), <tt><a href="lt_alksnis-dep-det.html">det</a></tt> (14; 2% instances), <tt><a href="lt_alksnis-dep-amod.html">amod</a></tt> (9; 1% instances), <tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt> (8; 1% instances), <tt><a href="lt_alksnis-dep-appos.html">appos</a></tt> (7; 1% instances), <tt><a href="lt_alksnis-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="lt_alksnis-dep-obl.html">obl</a></tt> (5; 1% instances), <tt><a href="lt_alksnis-dep-cop.html">cop</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-dep-flat.html">flat</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-nummod.html">nummod</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 15 different parts of speech: <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> (121; 22% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (108; 19% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (76; 14% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (71; 13% instances), <tt><a href="lt_alksnis-pos-ADP.html">ADP</a></tt> (42; 8% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (35; 6% instances), <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> (30; 5% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (16; 3% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (14; 3% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="lt_alksnis-pos-AUX.html">AUX</a></tt> (2; 0% instances)
+Children of `PROPN` nodes belong to 15 different parts of speech: <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (245; 27% instances), <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> (230; 26% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (146; 16% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (75; 8% instances), <tt><a href="lt_alksnis-pos-ADP.html">ADP</a></tt> (59; 7% instances), <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> (53; 6% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (22; 2% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (18; 2% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (14; 2% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="lt_alksnis-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (2; 0% instances)
 

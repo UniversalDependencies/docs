@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-aux.html">aux</a></tt>.
 
-851 nodes (1%) are attached to their parents as `aux:pass`.
+875 nodes (1%) are attached to their parents as `aux:pass`.
 
-850 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23736780258519.
+874 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23428571428571.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (843; 99% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (866; 99% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -78,7 +78,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 11	which	which	PRON	WDT	PronType=Rel	15	nsubj	_	_
 12	may	may	AUX	MD	VerbForm=Fin	15	aux	_	_
 13	be	be	AUX	VB	VerbForm=Inf	15	aux:pass	_	_
-14	an	an	DET	DT	Definite=Ind|PronType=Art	15	det	_	_
+14	an	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	_
 15	attempt	attempt	NOUN	NN	Number=Sing	8	acl:relcl	_	_
 16	to	to	PART	TO	_	18	mark	_	_
 17	"	"	PUNCT	``	_	18	punct	_	SpaceAfter=No

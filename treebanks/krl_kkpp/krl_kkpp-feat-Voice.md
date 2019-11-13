@@ -38,14 +38,14 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-115 <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> tokens (85% of all `AUX` tokens) have a non-empty value of `Voice`.
+115 <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Voice`.
 
 The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="krl_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (115; 100%), <tt><a href="krl_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (113; 98%), <tt><a href="krl_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (101; 88%), <tt><a href="krl_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (93; 81%), <tt><a href="krl_kkpp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (84; 73%).
 
 `AUX` tokens may have the following values of `Voice`:
 
 * `Act` (115; 100% of non-empty `Voice`): <em>on, oli, ei, voit, olet, ollah, oltih, pitäy, en, voijah</em>
-* `EMPTY` (20): <em>ois, ole, voisin, olis, olla, vois, kennih, olisko, olleššah, ollun</em>
+* `EMPTY` (19): <em>ois, ole, voisin, olis, olla, vois, olisko, olleššah, ollun</em>
 
 ### `ADP`
 

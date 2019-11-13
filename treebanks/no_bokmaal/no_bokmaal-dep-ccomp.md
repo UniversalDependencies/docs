@@ -32,7 +32,7 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 8	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
 9	synes	synes	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
 10	om	om	ADP	_	_	11	case	_	_
-11	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obl	_	SpaceAfter=No
+11	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
 12	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 4	at	at	SCONJ	_	_	7	mark	_	_
 5	røyking	røyking	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	_
 6	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_
-7	farlig	farlig	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	3	ccomp	_	SpaceAfter=No
+7	farlig	farlig	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	3	ccomp	_	_
 8	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	trodde	tro	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 4	var	være	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	_
-5	spøk	spøk	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	ccomp	_	SpaceAfter=No
+5	spøk	spøk	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	ccomp	_	_
 6	:	$:	PUNCT	_	_	2	punct	_	_
 
 ~~~

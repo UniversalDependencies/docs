@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8781 nodes (5%) are attached to their parents as `advcl`.
+8734 nodes (5%) are attached to their parents as `advcl`.
 
-8781 instances of `advcl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.7942147819155.
+8734 instances of `advcl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.7162811999084.
 
-The following 38 pairs of parts of speech are connected with `advcl`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (5406; 62% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1230; 14% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (499; 6% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (491; 6% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (477; 5% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (243; 3% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (101; 1% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (83; 1% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (81; 1% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (28; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (26; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (23; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 38 pairs of parts of speech are connected with `advcl`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (5367; 61% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1194; 14% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (515; 6% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (497; 6% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (464; 5% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (243; 3% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (102; 1% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (96; 1% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (77; 1% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (28; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (28; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (23; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -79,31 +79,23 @@ The following 38 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 9 advcl	color:blue
-1	私	私	PRON	NP	_	3	nsubj	_	SpaceAfter=No
-2	は	は	ADP	PK	_	1	case	_	SpaceAfter=No
-3	初めて	初めて	ADV	RB	_	17	advcl	_	SpaceAfter=No
-4	だっ	だ	AUX	AV	_	3	cop	_	SpaceAfter=No
-5	た	た	AUX	AV	_	3	aux	_	SpaceAfter=No
-6	ん	ん	SCONJ	PNB	_	3	mark	_	SpaceAfter=No
-7	だ	だ	AUX	AV	_	3	cop	_	SpaceAfter=No
-8	けど	けど	SCONJ	PC	_	3	mark	_	SpaceAfter=No
-9	思っ	思う	VERB	VV	_	17	advcl	_	SpaceAfter=No
-10	て	て	SCONJ	PC	_	9	mark	_	SpaceAfter=No
-11	い	いる	AUX	AV	_	9	aux	_	SpaceAfter=No
-12	た	た	AUX	AV	_	9	aux	_	SpaceAfter=No
-13	より	より	ADP	PS	_	9	case	_	SpaceAfter=No
-14	も	も	ADP	PK	_	9	case	_	SpaceAfter=No
-15	魚	魚	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
-16	は	は	ADP	PK	_	15	case	_	SpaceAfter=No
-17	新鮮	新鮮	ADJ	JN	_	0	root	_	SpaceAfter=No
-18	でし	だ	AUX	XV	_	17	aux	_	SpaceAfter=No
-19	た	た	AUX	AV	_	17	aux	_	SpaceAfter=No
-20	。	。	PUNCT	SYM	_	17	punct	_	SpaceAfter=No
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 3 advcl	color:blue
+1	定期的	定期的	ADJ	JN	_	3	advcl	_	SpaceAfter=No
+2	に	だ	AUX	XV	_	1	aux	_	SpaceAfter=No
+3	イベント	イベント	VERB	VV	_	10	advcl	_	SpaceAfter=No
+4	し	する	AUX	XV	_	3	aux	_	SpaceAfter=No
+5	て	て	SCONJ	PC	_	3	mark	_	SpaceAfter=No
+6	る	いる	AUX	AV	_	3	aux	_	SpaceAfter=No
+7	らしく	らしい	AUX	AV	_	3	aux	_	SpaceAfter=No
+8	て	て	SCONJ	PC	_	3	mark	_	SpaceAfter=No
+9	要	要	NOUN	NN	_	10	compound	_	SpaceAfter=No
+10	チェック	チェック	NOUN	NN	_	0	root	_	SpaceAfter=No
+11	です	だ	AUX	AV	_	10	cop	_	SpaceAfter=No
+12	。	。	PUNCT	SYM	_	10	punct	_	SpaceAfter=No
 
 ~~~
 

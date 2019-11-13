@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 * `Anim` (8; 15% of non-empty `Animacy`): <em>карводо, карвот, маравдо, мекште, промодо, псака, укскадо, унжадо</em>
 * `Hum` (44; 85% of non-empty `Animacy`): <em>коммунист, атясь, аванть, коммунистэнь, кудазоравась, охотникень, Атятнень-сэрдятнень, Вирьавась, Вострин, Елеська</em>
-* `EMPTY` (3583): <em>бандитэсь, партизантнэ, кедензэ, ялгат, прянзо, авазо, кенкшенть, кудов, лангс, бандитнэ</em>
+* `EMPTY` (3584): <em>бандитэсь, партизантнэ, кедензэ, ялгат, прянзо, авазо, кенкшенть, кудов, лангс, бандитнэ</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (28) occur only with one value of `Animacy`.
 

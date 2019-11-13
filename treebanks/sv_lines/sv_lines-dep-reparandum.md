@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 24	bgColor:blue
 # visual-style 24	fgColor:white
 # visual-style 24 14 reparandum	color:blue
-1	Det	det	PRON	PERS-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
+1	Det	den	PRON	PERS-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
 2	var	vara	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	precis	precis	ADV	_	_	9	advmod	_	_
 4	som	som	SCONJ	_	_	9	mark	_	_
@@ -35,7 +35,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 11	en	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	12	det	_	_
 12	sammansvärjning	sammansvärjning	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	9	obl	_	SpaceAfter=No
 13	,	,	PUNCT	Comma	_	14	punct	_	_
-14	något	något	PRON	IND-SG	Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	24	reparandum	_	_
+14	något	någon	PRON	IND-SG	Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	24	reparandum	_	_
 15	–	–	PUNCT	Dash	_	17	punct	_	_
 16	jag	jag	PRON	PERS-P1SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	17	nsubj	_	_
 17	vet	veta	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	24	parataxis	_	_
@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 21	ska	skola	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	22	aux	_	_
 22	säga	säga	VERB	INF-ACT	VerbForm=Inf|Voice=Act	17	ccomp	_	_
 23	–	–	PUNCT	Dash	_	17	punct	_	_
-24	något	något	PRON	IND-SG	Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	12	appos	_	_
+24	något	någon	PRON	IND-SG	Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	12	appos	_	_
 25	lite	lite	ADV	_	Degree=Pos	26	advmod	_	_
 26	skumt	skum	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	24	amod	_	SpaceAfter=No
 27	,	,	PUNCT	Comma	_	31	punct	_	_

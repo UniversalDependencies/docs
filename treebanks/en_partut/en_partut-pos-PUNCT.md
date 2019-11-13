@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="en_partut-pos-PU
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.105263 (the average of all parts of speech is 1.199021).
+The form / lemma ratio of `PUNCT` is 1.105263 (the average of all parts of speech is 1.199053).
 
 The 1st highest number of forms (3) was observed with the lemma “.”: <em>., ..., ....</em>.
 
@@ -46,7 +46,7 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="en_partut-dep-punct.html">punct</a></tt> (5797; 100% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (2552; 44% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1807; 31% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (383; 7% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (381; 7% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (326; 6% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (215; 4% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (70; 1% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="en_partut-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="en_partut-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (2553; 44% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1806; 31% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (384; 7% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (381; 7% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (326; 6% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (215; 4% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (70; 1% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="en_partut-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="en_partut-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
 
 5796 (100%) `PUNCT` nodes are leaves.
 

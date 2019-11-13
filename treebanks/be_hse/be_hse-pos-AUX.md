@@ -53,7 +53,7 @@ Examples: <em>было, была</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="be_hse-dep-aux.html">aux</a></tt> (30; 39% instances), <tt><a href="be_hse-dep-cop.html">cop</a></tt> (28; 36% instances), <tt><a href="be_hse-dep-aux-pass.html">aux:pass</a></tt> (18; 23% instances), <tt><a href="be_hse-dep-advcl.html">advcl</a></tt> (1; 1% instances)
+`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="be_hse-dep-aux.html">aux</a></tt> (29; 38% instances), <tt><a href="be_hse-dep-cop.html">cop</a></tt> (28; 36% instances), <tt><a href="be_hse-dep-aux-pass.html">aux:pass</a></tt> (19; 25% instances), <tt><a href="be_hse-dep-advcl.html">advcl</a></tt> (1; 1% instances)
 
 Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (45; 58% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (12; 16% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (12; 16% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (5; 6% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (1; 1% instances)
 

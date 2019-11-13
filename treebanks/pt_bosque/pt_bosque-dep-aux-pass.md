@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pt_bosque-dep-aux.html">aux</a></tt>.
 
-1128 nodes (0%) are attached to their parents as `aux:pass`.
+1145 nodes (1%) are attached to their parents as `aux:pass`.
 
-1128 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.08156028368794.
+1145 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.08034934497817.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1114; 99% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (14; 1% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1130; 99% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (15; 1% instances).
 
 
 ~~~ conllu

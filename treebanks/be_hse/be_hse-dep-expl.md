@@ -29,7 +29,7 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 5	а	а	CCONJ	CC	_	10	cc	_	_
 6	на	на	ADP	IN	_	8	case	_	_
 7	самой	самы	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
-8	справе	справа	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	parataxis	_	SpaceAfter=No
+8	справе	справа	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	8	punct	_	_
 10	сустракаюся	сустракаца	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	3	parataxis	_	_
 11	з	з	ADP	IN	_	13	case	_	_

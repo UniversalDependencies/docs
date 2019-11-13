@@ -46,8 +46,8 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 22	f'	_	ADP	PREP	_	23	case	_	SpaceAfter=No
 23	Malta	_	PROPN	NOUN_PROP	_	21	obl	_	_
 24	u	_	CCONJ	CONJ_CORD	_	25	cc	_	_
-25	oħrajn	_	ADJ	ADJ	_	21	conj	_	orig_deprel=nsubj
-26	barra	_	ADV	ADV	_	25	orphan	_	orig_deprel=obl|SpaceAfter=No
+25	oħrajn	_	ADJ	ADJ	_	21	conj	_	_
+26	barra	_	ADV	ADV	_	25	orphan	_	SpaceAfter=No
 27	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 ~~~
@@ -67,9 +67,9 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 6	sett	_	NOUN	NOUN	_	5	obj	_	_
 7	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
 8	n-	_	DET	DEF	_	9	det	_	SpaceAfter=No
-9	numri	_	NOUN	NOUN	_	5	conj	_	orig_deprel=nsubj
+9	numri	_	NOUN	NOUN	_	5	conj	_	_
 10	komplessi	_	ADJ	ADJ	_	9	amod	_	_
-11	sett	_	NOUN	NOUN	_	9	orphan	_	orig_deprel=obj
+11	sett	_	NOUN	NOUN	_	9	orphan	_	_
 12	ieħor	_	ADJ	ADJ	_	11	amod	_	SpaceAfter=No
 13	.	_	PUNCT	X_PUN	_	5	punct	_	_
 

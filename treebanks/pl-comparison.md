@@ -35,7 +35,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 22208 sentences, 348737 tokens and 351406 syntactic words.</li>
+      <li>This corpus contains 22152 sentences, 347377 tokens and 350036 syntactic words.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -52,7 +52,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 53378 tokens (15%) that are not followed by a space.</li>
+      <li>This corpus contains 53073 tokens (15%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -86,7 +86,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 388 types of words that contain both letters and punctuation. Examples: m.in, i/lub, n.p.m, Harry'ego, PPE-DE, PiS-u, S.A, 10-letni, 65-letniego, 70-lecia, BIG-u, Blake'a, F-16, Gaulle'a, George'a, ONZ-owskich, P.S, e-sporcie, kung-fu, savoir-vivre’u, sms-a, ub.r, -wymiarowej, -y, .pl, 1/28/H-L, 100-krotnie, 100-ml, 11-latek, 12-cyfrowy, 12-letni, 12-letnim, 12-tym, 1299-tym, 13-latek, 13-letni, 13-miesięcznego, 14-latka, 14-letni, 14-letniego, 15-letni, 16-latków, 17-latkom, 17-letnia, 18-godzinne, 18-latce, 18-latek, 18-letniego, 18-stymi, 185-osobową</li>
+      <li>This corpus contains 388 types of words that contain both letters and punctuation. Examples: m.in, i/lub, n.p.m, Harry'ego, PPE-DE, PiS-u, S.A, 10-letni, 65-letniego, 70-lecia, BIG-u, Blake'a, F-16, Gaulle'a, George'a, ONZ-owskich, P.S, e-sporcie, kung-fu, sms-a, ub.r, -wymiarowej, -y, .pl, 1/28/H-L, 100-krotnie, 100-ml, 11-latek, 12-cyfrowy, 12-letni, 12-letnim, 12-tym, 1299-tym, 13-latek, 13-letni, 13-miesięcznego, 14-latka, 14-letni, 14-letniego, 15-letni, 16-latków, 17-latkom, 17-letnia, 18-godzinne, 18-latce, 18-latek, 18-letniego, 18-stymi, 185-osobową, 19-calowy</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -102,8 +102,8 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 2504 multi-word tokens. On average, one multi-word token consists of 2.07 syntactic words.</li>
-      <li>There are 1237 types of multi-word tokens. Examples: chciałbym, byłoby, byłem, miałem, powinniśmy, bym, mieliśmy, myślałem, chciałem, widziałem, mógłby, byłby, słyszałem, byłam, miałam, wiedziałem, mówiłem, chciałabym, byliśmy, chciałby, mogłem, widziałam, mogłyby, zostałem, zrobiłem, powiedziałem, zobaczyłem, żebym, byłaby, byłyby, gdybym, myślałam, pomyślałem, powinieneś, wiedziałam, chciałam, mogłaby, musiałem, żebyś, byłbym, byłeś, byś, miałaby, mogłoby, mógłbym, mógłbyś, straciłem, usłyszałem, zacząłem, chcieliby.</li>
+      <li>This corpus contains 2495 multi-word tokens. On average, one multi-word token consists of 2.07 syntactic words.</li>
+      <li>There are 1237 types of multi-word tokens. Examples: chciałbym, byłoby, byłem, miałem, powinniśmy, bym, mieliśmy, myślałem, chciałem, widziałem, mógłby, byłby, słyszałem, byłam, miałam, wiedziałem, mówiłem, chciałabym, byliśmy, chciałby, mogłem, widziałam, mogłyby, zostałem, zrobiłem, powiedziałem, zobaczyłem, żebym, byłaby, gdybym, myślałam, pomyślałem, powinieneś, wiedziałam, byłyby, chciałam, mogłaby, musiałem, żebyś, byłbym, byłeś, byś, miałaby, mogłoby, mógłbym, mógłbyś, usłyszałem, zacząłem, mogłam, należałoby.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -152,12 +152,12 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 136 word types tagged as particles (PART): Ai, Albo, Ależ, Azaliż, Czyżby, Il, Jakoś, Jakżeż, Moze, Niemalże, Notabene, Otóż, The, a, aby, akurat, ale, ani, aż, ba, blisko, bo, bodaj, bowiem, byle, bynajmniej, chociaż, chociażby, choć, choćby, chyba, co, conajmniej, coś, czy, czyż, dopiero, dosyć, dość, gdyby, gdzie, gdzieś, głównie, i, istotnie, jak, jakby, jakoby, jednak, jednakże, jedynie, jeszce, jeszcze, już, lada, ledwie, może, nadto, najmniej, najwyżej, naprawdę, nareszcie, natomiast, nawet, niby, nie, niejako, niemal, nieomal, nieprawdaż, niespełna, niestety, no, nuż, oby, oczywiście, około, ot, oto, pewnie, podobno, ponad, ponadto, poniekąd, ponoć, prawie, przecie, przecież, przeszło, przynajmniej, raczej, rzeczywiście, również, skądinąd, szczególnie, tak, także, tam, tego, też, to, toż, trochę, tu, tuż, tylko, widocznie, więc, wprawdzie, wprost, wreszcie, wręcz, wszak, wszakże, wyłącznie, właściwie, właśnie, z, za, zaledwie, zapewne, zaraz, zarazem, zatem, zaś, zbyt, ze, zgoła, znowu, znowuż, znów, zresztą, zwłaszcza, zynajmniej, Żeby, że</li>
+      <li>This corpus contains 135 word types tagged as particles (PART): Azaliż, Czyżby, Istotnie, Jakżeż, Moze, Niemalże, Notabene, Otóż, a, aby, akurat, ale, ani, aż, ba, blisko, bo, bodaj, bowiem, byle, bynajmniej, chociaż, chociażby, choć, choćby, chyba, co, coraz, coś, czy, czyż, dopiero, doprawdy, dosyć, dość, gdyby, gdzie, gdzieś, głównie, i, jak, jakby, jakoby, jednak, jednakże, jedynie, jeszce, jeszcze, już, lada, ledwie, może, nadto, najwidoczniej, najwyraźniej, najwyżej, naprawdę, nareszcie, natomiast, nawet, niby, nie, niejako, niemal, nieomal, nieprawdaż, niespełna, niestety, no, nuż, oby, oczywiście, ok, około, ot, oto, pewnie, podobno, ponad, ponadto, poniekąd, ponoć, prawie, przecie, przecież, przeszło, przynajmniej, raczej, raptem, rzeczywiście, również, skądinąd, szczególnie, tak, także, tam, tego, też, to, toż, trochę, tu, tuż, tylko, widać, widocznie, więc, wprawdzie, wprost, wreszcie, wręcz, wszak, wszakże, wyłącznie, właściwie, właśnie, z, za, zaledwie, zapewne, zaraz, zarazem, zatem, zaś, ze, zgoła, znacznie, znowu, znowuż, znów, zresztą, zwłaszcza, zynajmniej, Żeby, że</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 38 word types tagged as particles (PART): Czyżby, Niestety, Oto, a, aż, co, czy, dopiero, dość, i, jednak, jedynie, jeszcze, już, może, naprawdę, nawet, nie, niemal, około, podobno, ponad, prawie, przynajmniej, raczej, również, tak, też, to, tuż, tylko, wreszcie, właśnie, za, zaledwie, zatem, znowu, znów</li>
+      <li>This corpus contains 43 word types tagged as particles (PART): Czyżby, Niestety, Oto, a, aż, co, coraz, czy, dopiero, dość, i, jak, jednak, jedynie, jeszcze, już, może, najwyraźniej, naprawdę, nawet, nie, niemal, około, podobno, ponad, prawie, przynajmniej, raczej, również, tak, też, to, tuż, tylko, więc, wreszcie, właśnie, za, zaledwie, zatem, zbyt, znowu, znów</li>
       </ul>
     </td>
   </tr>
@@ -169,7 +169,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 25 lemmas tagged as pronouns (PRON): co, cokolwiek, coś, cóż, i, ja, kto, ktokolwiek, ktoś, któż, mu, my, nic, nie, nikt, on, siebie, się, tamto, to, ty, we, wszyscy, wszystko, wy</li>
+      <li>This corpus contains 23 lemmas tagged as pronouns (PRON): co, cokolwiek, coś, cóż, ja, kto, ktokolwiek, ktoś, któż, mu, my, nic, nie, nikt, on, siebie, się, tamto, to, ty, wszyscy, wszystko, wy</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -368,7 +368,7 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>ADJ: dotyczące, dotyczących, związane, ubrany, określonych, związanych, przeznaczone, przedstawione, przygotowane, ubrana</li>
+          <li>ADJ: dotyczące, dotyczących, związane, ubrany, określonych, związanych, przeznaczone, przedstawione, ubrana, dotyczącego</li>
         </ul>
         </li>
       </ul>
@@ -465,9 +465,9 @@ udver: '2'
             <li>ADJ: europejskiej, jednej, drugiej, jedna, innych, polskiej, pierwszej, inne, jedną, sama</li>
             <li>ADJ-Part: dotyczących, dotyczące, ubrana, przyjęta, dotyczącej, lecącej, uniesionymi, związane, widziana, związanych</li>
             <li>AUX-Fin: była, została, były, zostały</li>
-            <li>DET: tej, która, ta, które, której, tę, swoją, którą, tych, te</li>
+            <li>DET: tej, która, ta, które, której, tę, swoją, którą, tych, kilka</li>
             <li>NOUN: kobieta, pracy, osób, dziewczynka, pani, osoby, sprawie, ręce, wodzie, wody</li>
-            <li>NUM: dwie, trzy, cztery, dwóch, pięć, 10, obie, sześć, 5, trzech</li>
+            <li>NUM: dwie, trzy, cztery, dwóch, pięć, obie, 10, sześć, 5, trzech</li>
             <li>PRON: jej, ją, ona, niej, mnie, ich, nią, mi, je, ja</li>
             <li>PROPN: Polsce, Polski, UE, Europy, Polska, Europie, Warszawie, Warszawy, AWS, Rosji</li>
             <li>VERB-Fin: miała, powinna, mogła, chciała, powiedziała, musiała, była, stała, widziała, wiedziała</li>
@@ -479,7 +479,7 @@ udver: '2'
       <ul>
         <li>Fem
           <ul>
-            <li>ADJ: wielkiej, dużą, północna, Północnej, brytyjskiej, drugiej, dużej, jednej, pierwszej, całej</li>
+            <li>ADJ: wielkiej, dużą, północna, I, Północnej, brytyjskiej, drugiej, dużej, jednej, pierwszej</li>
             <li>ADJ-Part: uznawane, związana, używane, wyhodowanych, wykorzystywana, zabezpieczona, Odkryte, Opublikowana, Przeprowadzona, badającej</li>
             <li>AUX-Fin: była, została, zostały, były</li>
             <li>DET: która, swojej, które, ta, tej, więcej, swoją, której, takich, jaką</li>
@@ -517,13 +517,13 @@ udver: '2'
           <ul>
             <li>ADJ: jeden, sam, pierwszy, cały, innych, drugi, 1, mały, jednym, duży</li>
             <li>ADJ-Part: ubrany, dotyczące, dotyczący, dotyczących, stojący, przeznaczone, przygotowany, związane, oparty, trzymający</li>
-            <li>AUX-Fin: był, został, byli, były, zostali, zostały, byl, bywali</li>
+            <li>AUX-Fin: był, został, byli, były, zostały, zostali, byl, bywali</li>
             <li>DET: ten, który, tym, którzy, tego, którym, które, tych, te, których</li>
             <li>NOUN: mężczyzna, roku, pan, lat, człowiek, chłopiec, ludzi, sposób, domu, dnia</li>
             <li>NUM: dwa, dwóch, 10, trzech, trzy, 3, 2, dwaj, 30, 5</li>
-            <li>PRON: jego, go, ich, mnie, mu, mi, nas, on, nim, ja</li>
+            <li>PRON: jego, go, ich, mnie, mu, mi, nas, on, nim, kto</li>
             <li>PROPN: Andrzej, Jerzy, SLD, Marek, Piotr, Jan, Polacy, Polaków, Krzysztof, Jacek</li>
-            <li>VERB-Fin: miał, powiedział, chciał, mógł, powinien, mówił, mogli, mieli, był, powinni</li>
+            <li>VERB-Fin: miał, powiedział, chciał, mógł, powinien, mówił, mieli, mogli, był, powinni</li>
           </ul>
         </li>
       </ul>
@@ -532,12 +532,12 @@ udver: '2'
       <ul>
         <li>Masc
           <ul>
-            <li>ADJ: ostatnich, 1, jednym, pierwszy, jeden, 60, nowego, nowy, innych, innymi</li>
+            <li>ADJ: ostatnich, 1, jednym, pierwszy, II, jeden, 60, I, III, nowego</li>
             <li>ADJ-Part: posiadający, Założony, oddanych, ogłoszony, podzielony, reprezentowane, sprzedany, spędzonym, udomowione, urzędującym</li>
             <li>AUX-Fin: był, został, były, byli, zostali, zostały</li>
             <li>DET: który, tym, ten, którzy, tego, każdy, którego, które, tych, wielu</li>
             <li>NOUN: lat, roku, latach, ludzi, raz, wieku, świecie, czasów, dolarów, funtów</li>
-            <li>NUM: dwa, dwóch, 3, trzy, 5, 10, 100, 2, 20, dziesięć</li>
+            <li>NUM: dwa, dwóch, 3, trzy, 5, 1,5, 10, 100, 2, 20</li>
             <li>PRON: jego, ich, go, mu, ktoś, im, nich, niego, ja, kto</li>
             <li>PROPN: Trumpa, Hongkongu, Pekinu, Qing, American, Chińczyków, Disneya, Joseph, Mishima, Totmesa</li>
             <li>VERB-Fin: powiedział, miał, napisał, ogłosił, pracował, spotkał, miały, mógł, postanowił, uznał</li>
@@ -569,14 +569,14 @@ udver: '2'
       <ul>
         <li>Neut
           <ul>
-            <li>ADJ: członkowskie, członkowskich, drugie, jedno, pierwsze, dotyczące, jednym, całe, innych, nowe</li>
-            <li>ADJ-Part: dotyczące, związane, dotyczących, rozpostartymi, dotyczącego, przeprowadzone, przygotowane, zawarte, przedstawione, przyjęte</li>
+            <li>ADJ: członkowskie, członkowskich, drugie, jedno, pierwsze, dotyczące, jednym, nowe, całe, innych</li>
+            <li>ADJ-Part: dotyczące, związane, dotyczących, rozpostartymi, dotyczącego, przeprowadzone, zawarte, przedstawione, przygotowane, przyjęte</li>
             <li>AUX-Fin: było, zostało, były, zostały, była</li>
             <li>DET: które, to, takie, tym, tego, te, swoje, tych, jakie, moje</li>
             <li>NOUN: dzieci, dziecko, życie, państwa, życia, pobliżu, miasta, prawa, miejscu, działania</li>
             <li>NOUN-Vnoun: stosowania, głosowania, przyjęcie, stosowanie, wprowadzenia, działania, wykorzystania, zapewnienia, tworzenia, osiągnięcia</li>
             <li>NUM: dwoje, dwa, pół, trzy, trzech, dwóch, Troje, obu, pięć, 10</li>
-            <li>PRON: to, co, tym, tego, coś, wszystko, nic, wszystkim, czym, czego</li>
+            <li>PRON: to, co, tym, tego, coś, wszystko, nic, czym, wszystkim, czego</li>
             <li>PROPN: USA, PiS, Niemczech, Niemiec, Stanów, PSL, WE, Włoszech, PKP, Chin</li>
             <li>VERB-Fin: było, stało, udało, powinno, miało, doszło, okazało, mogło, należało, wydawało</li>
           </ul>
@@ -628,12 +628,12 @@ udver: '2'
             <li>ADJ: jeden, sam, innych, młody, drugi, mały, młodych, ubrany, sami, inni</li>
             <li>ADJ-Part: ubrany, stojący, trzymający, widziany, obserwowany, przygotowany, zatrzymany, ubrani, mający, mianowany</li>
             <li>AUX-Fin: był, byli, został, zostali, byl, bywali</li>
-            <li>DET: którzy, który, ten, każdy, wielu, ci, swoich, których, tych, którego</li>
+            <li>DET: którzy, który, ten, każdy, wielu, ci, swoich, tych, których, którego</li>
             <li>NOUN: mężczyzna, pan, człowiek, chłopiec, ludzi, ludzie, człowieka, pana, chłopak, mężczyzn</li>
             <li>NUM: dwóch, dwaj, trzech, czterech, obaj, sześciu, pięciu, trzej, 10, dwoje</li>
-            <li>PRON: jego, mnie, mu, go, ich, mi, nas, ja, kto, on</li>
+            <li>PRON: jego, mnie, mu, go, ich, mi, nas, kto, ja, on</li>
             <li>PROPN: Andrzej, Jerzy, Marek, Piotr, Jan, Polacy, Polaków, Krzysztof, Jacek, Janusz</li>
-            <li>VERB-Fin: powiedział, miał, chciał, mógł, mówił, mogli, mieli, powinien, powinni, był</li>
+            <li>VERB-Fin: powiedział, miał, chciał, mógł, mówił, mieli, mogli, powinien, powinni, był</li>
           </ul>
         </li>
       </ul>
@@ -642,12 +642,12 @@ udver: '2'
       <ul>
         <li>Hum
           <ul>
-            <li>ADJ: innymi, jeden, egipskiego, generalny, innych, ostatni, pierwszym, posiadający, pozostali, sam</li>
+            <li>ADJ: I, II, III, innymi, jeden, IV, egipskiego, generalny, innych, ostatni</li>
             <li>ADJ-Part: posiadający, urzędującym, Poważanemu, Zaangażowanych, badający, biorących, nieprzeszkolonymi, obserwującym, ochrzczony, odchodzącego</li>
             <li>AUX-Fin: został, był, byli, zostali</li>
             <li>DET: który, którzy, wielu, Niektórzy, którego, tych, każdy, swoich, których, tacy</li>
             <li>NOUN: ludzi, członków, prezydent, agentów, cesarza, król, Republikanów, inwestorów, ludzie, mieszkańcy</li>
-            <li>NUM: dwóch, dwaj, obaj, 10000, 100000, 1200, 330, 367, 400, 550</li>
+            <li>NUM: dwóch, dwaj, obaj, 10000, 100000, 1200, 330, 367, 400, 5,7</li>
             <li>PRON: jego, ich, mu, go, ktoś, im, nich, ja, kto, mnie</li>
             <li>PROPN: Trumpa, Qing, Chińczyków, Disneya, Joseph, Mishima, Totmesa, Trump, Winstone, Wright</li>
             <li>VERB-Fin: powiedział, miał, napisał, ogłosił, pracował, spotkał, mógł, postanowił, zaczął, chciał</li>
@@ -670,8 +670,8 @@ udver: '2'
             <li>DET: ten, tym, tego, który, które, którym, te, kilka, tych, swój</li>
             <li>NOUN: roku, lat, sposób, domu, dnia, raz, czas, czasu, stroju, czasie</li>
             <li>NUM: dwa, 10, trzy, 3, dwóch, 2, 30, 5, trzech, 15</li>
-            <li>PRON: go, jego, ich, je, nim, on, nich, niego, one, mu</li>
-            <li>PROPN: SLD, Poznaniu, Krakowie, Izraela, Jorku, ZUS, VAT, Wrocławiu, Krakowa, Iraku</li>
+            <li>PRON: go, jego, ich, je, on, nim, nich, niego, one, mu</li>
+            <li>PROPN: SLD, Poznaniu, Krakowie, Izraela, ZUS, Jorku, VAT, Wrocławiu, Krakowa, Iraku</li>
             <li>VERB-Fin: miał, powinien, powinny, mógł, był, przyjął, stał, rozpoczął, zakończył, mogły</li>
           </ul>
         </li>
@@ -681,7 +681,7 @@ udver: '2'
       <ul>
         <li>Inan
           <ul>
-            <li>ADJ: ostatnich, 1, pierwszy, jednym, 60, nowego, kolejnym, nowy, 30, 70</li>
+            <li>ADJ: ostatnich, 1, pierwszy, jednym, 60, nowego, 1492, 2010, 2012, 2014</li>
             <li>ADJ-Part: Założony, oddanych, podzielony, reprezentowane, spędzonym, związany, Generowany, Moscone, Nagrodzony, anektowanym</li>
             <li>AUX-Fin: był, został, były, zostały</li>
             <li>DET: tym, ten, który, tego, które, każdy, swojego, którego, swój, wiele</li>
@@ -725,7 +725,7 @@ udver: '2'
             <li>AUX-Fin: został</li>
             <li>DET: który</li>
             <li>NOUN: dolarów, funtów, dorsza, golfa, smartfona, Adidas, Banany, Ford, Muppety, Ptaków</li>
-            <li>NUM: 10000, 125, 15000, 15001, 19999, 71, 760</li>
+            <li>NUM: 1,5, 10000, 103,7, 125, 15000, 15001, 19999, 25000, 71, 760</li>
             <li>PROPN: Boeinga, ExxonMobil, Forda, Harleya-Davidsona, Odiego, Oscara, Rambler, Samsunga, Snapchat, Twittera</li>
             <li>VERB-Fin: składał, stracił</li>
           </ul>
@@ -781,10 +781,10 @@ udver: '2'
             <li>DET: które, te, tych, którzy, których, kilka, wszystkie, wszystkich, wiele, takich</li>
             <li>NOUN: lat, osób, dzieci, ludzi, osoby, ludzie, dni, pieniądze, kobiety, ręce</li>
             <li>NOUN-Vnoun: zachorowań, działań, oskarżeniami, polubień, wytrzeźwień, zawirowań, Drgania, Wypędzeniom, Zakłócenia, chrapania</li>
-            <li>NUM: dwie, dwa, dwóch, trzy, 10, trzech, cztery, 3, pięć, 2</li>
+            <li>NUM: dwie, dwa, dwóch, trzy, trzech, 10, cztery, 3, pięć, 2</li>
             <li>PRON: ich, nich, nas, je, nam, im, one, nimi, oni, my</li>
             <li>PROPN: Polacy, Polaków, Rosjanie, amerykanie, Niemcy, Niemców, PKP, Francuzi, Indian, Żydów</li>
-            <li>VERB-Fin: mogą, mają, mamy, są, muszą, mogli, mieli, siedzą, stoją, musimy</li>
+            <li>VERB-Fin: mogą, mają, mamy, są, muszą, mieli, mogli, siedzą, stoją, musimy</li>
           </ul>
         </li>
       </ul>
@@ -816,9 +816,9 @@ udver: '2'
       <ul>
         <li>Ptan
           <ul>
-            <li>NOUN: drzwi, ramach, okularach, danych, środki, dane, spodenkach, środków, warunki, ludzi</li>
+            <li>NOUN: drzwi, ramach, okularach, danych, dane, środki, spodenkach, środków, warunki, ludzi</li>
             <li>PRON: wszyscy, wszystkich, wszystkim, wszystkimi</li>
-            <li>PROPN: USA, Niemczech, Niemiec, Stanów, Włoszech, Chin, Indii, Stanach, Włochy, Katowicach</li>
+            <li>PROPN: USA, Niemczech, Niemiec, Stanów, Włoszech, Chin, Indii, Stanach, Włochy, Kielcach</li>
           </ul>
         </li>
       </ul>
@@ -858,11 +858,11 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: jeden, sam, europejskiej, pierwszy, jednym, cały, 1, jednej, drugi, drugiej</li>
+            <li>ADJ: jeden, sam, europejskiej, pierwszy, jednym, cały, 1, jednej, drugiej, drugi</li>
             <li>ADJ-Part: ubrany, ubrana, dotyczącego, dotyczący, przyjęta, dotyczącej, lecącej, stojący, widziana, przygotowany</li>
             <li>AUX: jest, em, będzie, m, był, było, była, eś, jestem, został</li>
             <li>AUX-Fin: jest, będzie, był, było, była, jestem, został, została, będę, zostanie</li>
-            <li>DET: ten, który, tej, tym, tego, która, którym, ta, to, której</li>
+            <li>DET: ten, który, tej, tym, tego, która, którym, ta, to, którego</li>
             <li>NOUN: mężczyzna, roku, pan, kobieta, człowiek, pracy, chłopiec, dziewczynka, pani, sposób</li>
             <li>NOUN-Vnoun: stosowania, głosowania, przyjęcie, stosowanie, wprowadzenia, wykorzystania, działania, zapewnienia, tworzenia, osiągnięcia</li>
             <li>NUM: pół, półtora, 1, 35, półtorej, 0,4, 0,5, 1,9, 13, 2,26</li>
@@ -877,14 +877,14 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: jednym, 1, pierwszy, wielkiej, dużą, jeden, nowego, północna, Północnej, brytyjskiej</li>
+            <li>ADJ: I, II, jednym, 1, pierwszy, wielkiej, dużą, jeden, nowego, północna</li>
             <li>ADJ-Part: posiadający, związana, Założony, napisane, ogłoszony, otaczającego, podzielony, sprzedany, spędzonym, urzędującym</li>
             <li>AUX: jest, był, został, będzie, było, była, em, została, zostało, m</li>
             <li>AUX-Fin: jest, był, został, będzie, było, była, została, zostało, zostanie, będę</li>
             <li>DET: który, tym, ten, która, swojej, tego, ta, którego, każdy, swojego</li>
             <li>NOUN: roku, miejsce, wojny, części, raz, wieku, większość, pracy, świecie, część</li>
             <li>NOUN-Vnoun: zniszczenie, kręcenia, ograniczaniu, ograniczenia, opuszczenia, otwarcie, poszukiwaniu, powstrzymania, przejęcia, przekroczenie</li>
-            <li>NUM: 0, pół, półtora</li>
+            <li>NUM: 0, 1,5, pół, półtora</li>
             <li>PRON: jego, to, jej, tym, co, go, ją, tego, mu, ktoś</li>
             <li>PROPN: Brytanii, Clinton, Trumpa, Azji, BBC, Danevirke, Europy, Francji, Hongkongu, Kesha</li>
             <li>VERB-Fin: może, ma, powiedział, było, jest, miał, miała, mówi, powiedziała, udało</li>
@@ -935,9 +935,9 @@ udver: '2'
             <li>ADJ-Part: dotyczące, związane, dotyczący, dotyczącą, trzymany, lecącą, określone, otwarte, ustanawiający, wymienione</li>
             <li>ADP: temu</li>
             <li>DET: ten, te, swoje, które, kilka, tę, swoją, wiele, swój, wszystkie</li>
-            <li>NOUN: sposób, raz, czas, temat, życie, pieniądze, uwagę, dzień, stronę, ręce</li>
+            <li>NOUN: sposób, raz, temat, czas, życie, pieniądze, uwagę, dzień, stronę, ręce</li>
             <li>NOUN-Vnoun: przyjęcie, stosowanie, tworzenie, odrzucenie, zmniejszenie, działanie, obniżenie, poparcie, prowadzenie, przeprowadzenie</li>
-            <li>NUM: dwa, trzy, 10, dwie, 3, pół, 2, pięć, cztery, 5</li>
+            <li>NUM: dwa, trzy, 10, dwie, 2, 3, pół, pięć, cztery, 5</li>
             <li>PRON: to, go, co, mnie, ją, je, coś, nas, siebie, cię</li>
             <li>PROPN: Europę, Polskę, Polaków, Rosję, Adama, Amerykę, Boga, Jana, Piotra, Warszawę</li>
           </ul>
@@ -954,7 +954,7 @@ udver: '2'
             <li>DET: swoje, więcej, kilka, ten, wiele, które, jaką, swoją, swój, który</li>
             <li>NOUN: miejsce, raz, sposób, uwagę, rolę, lata, możliwość, część, koniec, rzecz</li>
             <li>NOUN-Vnoun: otwarcie, zawieszenie, założenie, bycie, cofanie, doinwestowanie, dokonanie, dotarcie, nadużycie, odciążenie</li>
-            <li>NUM: dwa, trzy, 3, dwie, sześć, 10, 16, 34, 4, 6</li>
+            <li>NUM: dwa, trzy, 3, dwie, sześć, 1,4, 1,5, 10, 16, 34</li>
             <li>PRON: to, ją, go, je, co, siebie, coś, nas, ich, mnie</li>
             <li>PROPN: Niemcy, Antarktykę, Chrisa, Duffy’ego, Kadesz, Morawy, Oscara, Trację, Trumpa, Abakumowa</li>
           </ul>
@@ -983,7 +983,7 @@ udver: '2'
       <ul>
         <li>Dat
           <ul>
-            <li>ADJ: innym, własnym, drugiemu, młodemu, młodym, całej, członkowskim, jednemu, nowemu, nowym</li>
+            <li>ADJ: innym, drugiemu, własnym, młodemu, młodym, całej, członkowskim, jednemu, nowemu, nowym</li>
             <li>ADJ-Part: biegnącemu, potrzebującym, Panującej, Zjednoczonemu, bitemu, będącego, będącej, błądzącym, dbającym, doprowadzającemu</li>
             <li>DET: którym, któremu, swoim, tym, temu, tej, naszym, swojemu, wszystkim, każdemu</li>
             <li>NOUN: panu, ludziom, komisji, dzieciom, osobom, pani, państwu, życiu, mężczyźnie, dziennikarzom</li>
@@ -1035,7 +1035,7 @@ udver: '2'
           <ul>
             <li>ADJ: innych, europejskiej, nowych, różnych, nowego, drugiej, jednego, polskiej, polskiego, dotyczących</li>
             <li>ADJ-Part: dotyczących, związanych, dotyczącego, określonych, lecącej, zawartych, zgromadzonych, dotyczącej, działających, mających</li>
-            <li>DET: tego, tych, tej, których, którego, wszystkich, takich, swoich, takiego, naszych</li>
+            <li>DET: tego, tych, tej, których, którego, takich, wszystkich, swoich, takiego, naszych</li>
             <li>NOUN: lat, osób, roku, pracy, ludzi, dnia, dzieci, czasu, wody, życia</li>
             <li>NOUN-Vnoun: stosowania, głosowania, wprowadzenia, wykorzystania, działania, zapewnienia, tworzenia, przyjęcia, osiągnięcia, prowadzenia</li>
             <li>NUM: dwóch, trzech, pięciu, 10, czterech, obu, 2, 3, 5, dziesięciu</li>
@@ -1054,7 +1054,7 @@ udver: '2'
             <li>DET: tego, swojej, którego, swojego, tych, takich, swoich, tej, których, jakiej</li>
             <li>NOUN: lat, wojny, osób, czasów, dolarów, funtów, ludzi, października, pracy, euro</li>
             <li>NOUN-Vnoun: kręcenia, ograniczenia, opuszczenia, powstrzymania, przejęcia, przyjęcia, uzyskania, wprowadzenia, wytwarzania, wzięcia</li>
-            <li>NUM: dwóch, obu, 3, 20, 14, 2, 5, czterech, sześciu, 10</li>
+            <li>NUM: dwóch, obu, 3, 20, 14, 2, 5, czterech, sześciu, 1,5</li>
             <li>PRON: jego, jej, ich, tego, siebie, nich, niego, mnie, niej, go</li>
             <li>PROPN: Europy, Francji, Pekinu, USA, Albanii, Ameryki, BBC, Clinton, Disneya, Qing</li>
           </ul>
@@ -1084,8 +1084,8 @@ udver: '2'
         <li>Ins
           <ul>
             <li>ADJ: jednym, innymi, samym, jedną, wielkim, dużym, drugim, długimi, Europejską, dużą</li>
-            <li>ADJ-Part: uniesionymi, rozłożonymi, dotyczącymi, rozpostartymi, uniesioną, określoną, wyciągniętą, ośnieżonym, ugiętymi, mającą</li>
-            <li>DET: tym, moim, którym, swoim, tą, każdym, którą, którymi, naszym, jakim</li>
+            <li>ADJ-Part: uniesionymi, rozłożonymi, dotyczącymi, rozpostartymi, uniesioną, określoną, wyciągniętą, ośnieżonym, ugiętymi, prowadzącymi</li>
+            <li>DET: tym, moim, swoim, tą, którym, każdym, którą, którymi, naszym, jakim</li>
             <li>NOUN: wodą, głową, razem, zdaniem, czasem, ręką, pomocą, względem, rękami, celem</li>
             <li>NOUN-Vnoun: przyjęciem, rozpoczęciem, wejściem, zastosowaniem, prowadzeniem, tworzeniem, uwzględnieniem, użyciem, wprowadzeniem, wskazaniem</li>
             <li>NUM: dwoma, trzema, dwiema, obiema, 3, 4, dwudziestu, pięcioma, 10, 1080</li>
@@ -1136,7 +1136,7 @@ udver: '2'
             <li>ADJ: czerwonej, jednym, sportowym, jednej, samym, czarnym, całym, innych, czerwonym, białej</li>
             <li>ADJ-Part: określonym, dmuchanych, dotyczących, określonych, pokrytej, wzburzonej, dotyczącej, prowadzonym, zastawionym, zaśnieżonym</li>
             <li>DET: tym, tej, którym, których, której, tych, swoim, każdym, naszym, takich</li>
-            <li>NOUN: roku, sprawie, wodzie, czasie, stroju, trawie, pobliżu, przypadku, kasku, celu</li>
+            <li>NOUN: roku, sprawie, wodzie, stroju, czasie, trawie, pobliżu, przypadku, kasku, celu</li>
             <li>NOUN-Vnoun: zakończeniu, podejmowaniu, przeprowadzeniu, wprowadzeniu, leczeniu, przekazaniu, wejściu, wyjściu, wykonywaniu, wypiciu</li>
             <li>NUM: dwóch, trzech, obu, czterech, 10, 20, dziesięciu, 50, dwudziestu, pięciu</li>
             <li>PRON: tym, nim, czym, nich, niej, sobie, mnie, wszystkim, czymś, niczym</li>
@@ -1149,7 +1149,7 @@ udver: '2'
       <ul>
         <li>Loc
           <ul>
-            <li>ADJ: Wielkiej, Północnej, samym, brytyjskiej, całej, jednym, najlepszym, najwyższym, wschodniej, zeszłym</li>
+            <li>ADJ: Wielkiej, Północnej, samym, 1492, 2013, 2014, brytyjskiej, całej, jednym, najlepszym</li>
             <li>ADJ-Part: spędzonym, anektowanym, doświadczonej, generujących, liczącym, nadchodzącym, naprężającym, niewystawionych, obniżonym, odsłoniętej</li>
             <li>DET: tym, którym, swoim, kilku, której, pewnym, tych, których, swojej, takich</li>
             <li>NOUN: latach, roku, świecie, czasie, końcu, przypadku, miejscu, celu, razie, sprawie</li>
@@ -1184,8 +1184,8 @@ udver: '2'
         <li>Nom
           <ul>
             <li>ADJ: jeden, sam, jedna, inne, mały, drugi, pierwszy, sama, europejska, członkowskie</li>
-            <li>ADJ-Part: ubrany, dotyczące, związane, ubrana, przeznaczone, przyjęta, przygotowane, stojący, przedstawione, widziana</li>
-            <li>DET: który, które, która, którzy, ten, ta, te, takie, to, wszystkie</li>
+            <li>ADJ-Part: ubrany, dotyczące, związane, ubrana, przeznaczone, przyjęta, stojący, przedstawione, przygotowane, widziana</li>
+            <li>DET: który, które, która, którzy, ten, ta, te, takie, to, każdy</li>
             <li>NOUN: mężczyzna, pan, kobieta, człowiek, chłopiec, dziewczynka, pani, ludzie, pies, osoby</li>
             <li>NOUN-Vnoun: stosowanie, przyjęcie, zapewnienie, otwarcie, wprowadzenie, rozszerzenie, badanie, ograniczenie, podawanie, wykorzystanie</li>
             <li>NUM: dwie, dwa, dwóch, trzy, cztery, dwaj, dwoje, pięć, trzech, obaj</li>
@@ -1199,12 +1199,12 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>ADJ: jeden, północna, inne, duża, niejasne, pierwsze, sama, brytyjski, dawny, greckie</li>
+            <li>ADJ: II, jeden, północna, inne, I, duża, niejasne, pierwsze, sama, brytyjski</li>
             <li>ADJ-Part: napisane, uznawane, związana, Założony, finansowane, ogłoszony, podzielony, posiadający, reprezentowane, sprzedany</li>
             <li>DET: który, które, która, którzy, ta, ten, każdy, takie, wiele, te</li>
             <li>NOUN: rząd, większość, film, Morze, czas, prezydent, bank, część, handel, klasztor</li>
             <li>NOUN-Vnoun: zniszczenie, używanie, Flokowanie, Przejście, Ujawnienie, dążenie, istnienie, objęcie, pokrywanie, przeciwstawianie</li>
-            <li>NUM: dwa, trzy, 330, dwaj, obaj, obie, 100, 10000, 120, 1200</li>
+            <li>NUM: dwa, trzy, 330, dwaj, obaj, obie, 100, 10000, 11, 120</li>
             <li>PRON: to, co, ktoś, ona, ja, kto, on, one, coś, oni</li>
             <li>PROPN: Chiny, Kesha, Trump, Blunt, Clinton, Francja, Joseph, Mishima, Winstone, Wright</li>
           </ul>
@@ -1229,7 +1229,7 @@ udver: '2'
       <ul>
         <li>Voc
           <ul>
-            <li>ADJ: droga, głupi, szanowny, młody, Drodzy, Nowy, Wspaniaty, Wysoki, dobrzy, duży</li>
+            <li>ADJ: droga, szanowny, głupi, młody, Drodzy, Nowy, Wspaniaty, Wysoki, dobrzy, duży</li>
             <li>ADJ-Part: trzymający</li>
             <li>DET: moja, mój, moje, nasz</li>
             <li>NOUN: panie, pośle, marszałku, pani, kochanie, tato, mamo, ministrze, panowie, doktorze</li>
@@ -1382,7 +1382,7 @@ udver: '2'
         <li>Cmp
           <ul>
             <li>ADJ: większe, starszy, dalsze, lepsze, większej, starsza, większym, dalszych, większą, większa</li>
-            <li>ADV: bardziej, lepiej, wcześniej, dalej, później, mniej, więcej, częściej, łatwiej, wyżej</li>
+            <li>ADV: bardziej, wcześniej, lepiej, dalej, później, mniej, więcej, częściej, łatwiej, wyżej</li>
           </ul>
         </li>
       </ul>
@@ -1413,7 +1413,7 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ: innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</li>
+            <li>ADJ: innych, jeden, inne, sam, europejskiej, pierwszy, różnych, jednym, cały, 1</li>
             <li>ADV: bardzo, tak, jak, dobrze, zgodnie, często, jednocześnie, obecnie, trudno, szybko</li>
           </ul>
         </li>
@@ -1423,8 +1423,8 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ: jednym, ostatnich, 1, nowych, pierwszy, wielkiej, inne, dużą, innych, innymi</li>
-            <li>ADV: bardzo, często, tak, jak, całkowicie, dobrze, głównie, podobnie, szczególnie, ponownie</li>
+            <li>ADJ: I, II, jednym, ostatnich, 1, nowych, pierwszy, wielkiej, inne, dużą</li>
+            <li>ADV: bardzo, często, jak, tak, całkowicie, dobrze, głównie, podobnie, szczególnie, ponownie</li>
           </ul>
         </li>
       </ul>
@@ -1445,8 +1445,8 @@ udver: '2'
       <ul>
         <li>Sup
           <ul>
-            <li>ADJ: najlepsze, najważniejsze, największe, najbliższych, najlepszy, najlepszym, najwyższe, najbliższym, najlepszych, największych</li>
-            <li>ADV: najbardziej, najmniej, najczęściej, najlepiej, najszybciej, najprawdopodobniej, najwyraźniej, najwięcej, najbliżej, najchętniej</li>
+            <li>ADJ: najlepsze, najważniejsze, największe, najbliższych, najlepszym, najlepszy, najwyższe, najbliższym, najlepszych, największych</li>
+            <li>ADV: najbardziej, najmniej, najczęściej, najlepiej, najszybciej, najprawdopodobniej, najwięcej, najbliżej, najchętniej, najdalej</li>
           </ul>
         </li>
       </ul>
@@ -1456,7 +1456,7 @@ udver: '2'
         <li>Sup
           <ul>
             <li>ADJ: najwyższym, najlepszym, największym, najwyższy, najgorszych, najlepszych, najnowsze, najważniejszych, najważniejszym, największy</li>
-            <li>ADV: najbardziej, najmniej, najwyraźniej, najlepiej, najprawdopodobniej, najszerzej</li>
+            <li>ADV: najbardziej, najmniej, najlepiej, najprawdopodobniej, najszerzej</li>
           </ul>
         </li>
       </ul>
@@ -1528,7 +1528,7 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ-Part: dotyczące, dotyczących, związane, ubrany, określonych, związanych, przeznaczone, przedstawione, przygotowane, ubrana</li>
+            <li>ADJ-Part: dotyczące, dotyczących, związane, ubrany, określonych, związanych, przeznaczone, przedstawione, ubrana, dotyczącego</li>
             <li>NOUN-Vnoun: stosowania, głosowania, przyjęcie, stosowanie, wprowadzenia, działania, wykorzystania, zapewnienia, tworzenia, osiągnięcia</li>
           </ul>
         </li>
@@ -1694,7 +1694,7 @@ udver: '2'
             <li>NOUN-Vnoun: stosowania, głosowania, stosowanie, działania, tworzenia, prowadzenia, wykonywania, czynienia, pływania, tworzenie</li>
             <li>VERB-Conv: trzymając, patrząc, mówiąc, mając, stojąc, uwzględniając, siedząc, chcąc, biorąc, używając</li>
             <li>VERB-Fin: ma, może, jest, stoi, mówi, siedzi, miał, było, należy, mam</li>
-            <li>VERB-Inf: być, mieć, robić, patrzeć, mówić, iść, wiedzieć, żyć, myśleć, stanowić</li>
+            <li>VERB-Inf: być, mieć, robić, patrzeć, mówić, iść, wiedzieć, żyć, myśleć, prowadzić</li>
           </ul>
         </li>
       </ul>
@@ -1736,7 +1736,7 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>ADJ-Part: związane, ubrany, określonych, związanych, przeznaczone, przedstawione, przygotowane, ubrana, przyjęta, określone</li>
+            <li>ADJ-Part: związane, ubrany, określonych, związanych, przeznaczone, przedstawione, ubrana, przygotowane, przyjęta, określone</li>
             <li>AUX-Fin: został, została, zostanie, zostały, zostaną, zostało, zostali, zostacie, zostanę</li>
             <li>AUX-Inf: zostać</li>
             <li>NOUN-Vnoun: przyjęcie, wprowadzenia, wykorzystania, zapewnienia, osiągnięcia, przyjęcia, zastosowania, wprowadzenie, zapewnienie, wykonania</li>
@@ -1814,7 +1814,7 @@ udver: '2'
         <li>Imp
           <ul>
             <li>AUX-Fin: bądź</li>
-            <li>VERB-Fin: powiedz, daj, patrz, weź, chodź, Zobacz, idź, Przypomnijmy, czekaj, powiedzmy</li>
+            <li>VERB-Fin: powiedz, daj, patrz, weź, chodź, Zobacz, idź, Przypomnijmy, powiedzmy, czekaj</li>
           </ul>
         </li>
       </ul>
@@ -1928,7 +1928,7 @@ udver: '2'
           <ul>
             <li>AUX-Fin: był, było, była, były, został, została, byli, zostały, zostało, zostali</li>
             <li>VERB-Conv: począwszy, spojrzawszy, zważywszy, Dokonawszy, otrzymawszy, stanąwszy, straciwszy, wyzbywszy, Doszedłszy, Nadawszy</li>
-            <li>VERB-Fin: miał, było, powiedział, chciał, mógł, miała, mówił, mogli, mieli, był</li>
+            <li>VERB-Fin: miał, było, powiedział, chciał, mógł, miała, mówił, mieli, mogli, był</li>
           </ul>
         </li>
       </ul>
@@ -2057,7 +2057,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>ADJ-Part: związane, ubrany, określonych, związanych, przeznaczone, przedstawione, przygotowane, ubrana, prowadzone, przyjęta</li>
+            <li>ADJ-Part: związane, ubrany, określonych, związanych, przeznaczone, przedstawione, ubrana, prowadzone, przygotowane, przyjęta</li>
           </ul>
         </li>
       </ul>
@@ -2127,7 +2127,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>ADV: tak, dlatego, tu, tam, wtedy, tutaj, wówczas, stąd, dotąd, stamtąd</li>
+            <li>ADV: tak, tu, tam, dlatego, wtedy, tutaj, wówczas, stąd, dotąd, stamtąd</li>
             <li>DET: ten, tej, tym, tego, te, tych, ta, takie, to, takich</li>
             <li>PRON: to, tym, tego, temu, tamto, tamtym</li>
           </ul>
@@ -2163,7 +2163,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADV: kiedyś, gdzieś, kiedykolwiek, niekiedy, jakoś, skądś, gdziekolwiek, dokądś, jakkolwiek</li>
-            <li>DET: kilka, wiele, więcej, wielu, kilku, jakiś, jakieś, dużo, niektóre, niektórych</li>
+            <li>DET: kilka, wiele, więcej, wielu, kilku, jakiś, jakieś, dużo, niektórych, niektóre</li>
             <li>PRON: coś, ktoś, kogoś, czegoś, czymś, kimś, komuś, cokolwiek, ktokolwiek, kogokolwiek</li>
           </ul>
         </li>
@@ -2209,7 +2209,7 @@ udver: '2'
         <li>Int
           <ul>
             <li>ADV: kiedy, dlaczego, jak, Skąd</li>
-            <li>DET: jaki, który, Jakie, jakiej, jaką, które, którym</li>
+            <li>DET: jaki, który, Jakie, jakiej, jaką, które</li>
             <li>PRON: co, czym, kto, Kim</li>
           </ul>
         </li>
@@ -2233,7 +2233,7 @@ udver: '2'
         <li>Neg
           <ul>
             <li>ADV: nigdy, nigdzie</li>
-            <li>DET: żadnych, żadnego, żaden, żadnej, żadne, żadnym, żadna, żadnymi, żadną, żadnemu</li>
+            <li>DET: żadnego, żadnych, żaden, żadnej, żadne, żadnym, żadna, żadnymi, żadną, żadnemu</li>
             <li>PRON: nic, nikt, niczego, nikogo, nikomu, niczym, nikim, niczemu</li>
           </ul>
         </li>
@@ -2266,7 +2266,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>DET: swoje, swoich, swoją, swoim, naszych, swój, nasze, mój, moim, naszym</li>
+            <li>DET: swoje, swoich, swoją, swoim, naszych, swój, nasze, mój, naszym, moim</li>
             <li>PRON: się, jego, ich, jej, go, mnie, sobie, mi, mu, siebie</li>
           </ul>
         </li>
@@ -2301,7 +2301,7 @@ udver: '2'
         <li>Rel
           <ul>
             <li>ADV: kiedy, gdzie, jak, skąd</li>
-            <li>DET: które, który, którzy, która, których, którym, której, którego, którą, jakie</li>
+            <li>DET: które, który, która, którzy, których, którym, której, którego, którą, jakie</li>
             <li>PRON: co, kto, czego, czym, kim, kogo, komu, czemu</li>
           </ul>
         </li>
@@ -2312,7 +2312,7 @@ udver: '2'
         <li>Rel
           <ul>
             <li>ADV: gdzie, kiedy, jak, skąd</li>
-            <li>DET: które, który, która, którzy, którego, których, której, jaką, którym, jakiej</li>
+            <li>DET: które, który, która, którzy, którego, których, której, którym, jaką, jakiej</li>
             <li>PRON: co, czym, kto</li>
           </ul>
         </li>
@@ -2336,7 +2336,7 @@ udver: '2'
         <li>Tot
           <ul>
             <li>ADV: zawsze, wszędzie</li>
-            <li>DET: wszystkie, wszystkich, każdy, każdym, każdego, każdej, każda, wszelkie, wszyscy, każde</li>
+            <li>DET: wszystkie, wszystkich, każdy, każdym, każdego, każdej, wszyscy, każda, wszelkie, każde</li>
             <li>PRON: wszystko, wszystkim, wszyscy, wszystkich, wszystkiego, wszystkie, Wszystkiemu, wszystkimi, wszytko</li>
           </ul>
         </li>
@@ -2397,7 +2397,7 @@ udver: '2'
         <li>Card
           <ul>
             <li>DET: wiele, więcej, wielu, kilka, kilku, dużo, niewiele, mniej, parę, wieloma</li>
-            <li>NUM: 3, 100, 5, 10, 2, 20, 10000, 14, 16, 330</li>
+            <li>NUM: 3, 100, 5, 1,5, 10, 2, 20, 1,4, 10000, 14</li>
           </ul>
         </li>
       </ul>
@@ -2428,7 +2428,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>ADJ: 1, II, 2, 2008, 2000, 2009, 17, 20, 13, 15</li>
+            <li>ADJ: 1, II, 2008, 2000, 2009, 2, 20, 15, 1995, XIX</li>
           </ul>
         </li>
       </ul>
@@ -2437,7 +2437,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>ADJ: 1, 60, 30, 31, 70, 10, 11, 21, 4, 50</li>
+            <li>ADJ: I, II, 1, 60, III, 1492, 2010, 2012, 2014, 2015</li>
           </ul>
         </li>
       </ul>
@@ -2500,7 +2500,7 @@ udver: '2'
       <ul>
         <li>Yes
           <ul>
-            <li>DET: swoje, swoich, swoją, swoim, naszych, swój, nasze, mój, moim, naszym</li>
+            <li>DET: swoje, swoich, swoją, swoim, naszych, swój, nasze, mój, naszym, moim</li>
           </ul>
         </li>
       </ul>
@@ -2595,7 +2595,7 @@ udver: '2'
       <ul>
         <li>0
           <ul>
-            <li>VERB-Fin: stwierdzono, znaleziono, ustalono, zatrzymano, przeprowadzono, przedstawiono, traktowano, wprowadzono, zaczęto, zwolniono</li>
+            <li>VERB-Fin: stwierdzono, znaleziono, ustalono, zatrzymano, przeprowadzono, przedstawiono, traktowano, wprowadzono, zaczęto, pokazano</li>
           </ul>
         </li>
       </ul>
@@ -2630,9 +2630,9 @@ udver: '2'
           <ul>
             <li>AUX: em, m, śmy, jestem, będziemy, będę, jesteśmy, będziem, zostanę</li>
             <li>AUX-Fin: jestem, będziemy, będę, jesteśmy, będziem, zostanę</li>
-            <li>DET: naszych, nasze, mój, moim, naszym, naszej, moja, mojej, nasz, moje</li>
-            <li>PRON: mnie, mi, nas, ja, nam, my, mną, nami, I, NI</li>
-            <li>VERB-Fin: mam, wiem, mamy, proszę, mogę, musimy, możemy, chcę, dziękuję, muszę</li>
+            <li>DET: naszych, nasze, mój, naszym, moim, naszej, moja, nasz, moje, mojej</li>
+            <li>PRON: mnie, mi, nas, ja, nam, my, mną, nami, NI</li>
+            <li>VERB-Fin: mam, wiem, proszę, mamy, musimy, mogę, możemy, chcę, dziękuję, muszę</li>
           </ul>
         </li>
       </ul>
@@ -2827,7 +2827,7 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>DET: mój, moim, moja, mojej, moje, mojego, twój, moją, moich, twoje</li>
+            <li>DET: mój, moim, moja, moje, mojej, mojego, twój, moją, moich, twoje</li>
           </ul>
         </li>
       </ul>
@@ -2863,6 +2863,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
+                <li>PART: ok</li>
                 <li>X: r, zł, art, tys, proc, m, s, ust, np, ul</li>
               </ul>
             </li>
@@ -3012,7 +3013,7 @@ udver: '2'
             </li>
             <li>Oper
               <ul>
-                <li>CCONJ: plus, minus, minusy, plusy</li>
+                <li>CCONJ: plus, minus</li>
               </ul>
             </li>
             <li>Pred
@@ -3090,12 +3091,12 @@ udver: '2'
           <ul>
             <li>No
               <ul>
-                <li>X: dala, ciemku, cna, dna, dwójnasób, mimo, młodu, naprzeciwka, niemiara, oścież</li>
+                <li>X: dala, ciemku, cna, dna, dwójnasób, młodu, naprzeciwka, niemiara, oścież, oślep</li>
               </ul>
             </li>
             <li>Yes
               <ul>
-                <li>X: de, von, New, San, Don, bin, Le, Santa, a, di</li>
+                <li>X: de, San, a, of, von, New, Don, bin, di, Le</li>
               </ul>
             </li>
           </ul>
@@ -3113,7 +3114,7 @@ udver: '2'
             </li>
             <li>Yes
               <ul>
-                <li>X: the, de, El, San, Von, 'Ya, A, Breaking, Di, Die</li>
+                <li>X: of, the, de, El, Von, 'Ya, A, Breaking, Buck, Century</li>
               </ul>
             </li>
           </ul>
@@ -3194,16 +3195,16 @@ udver: '2'
           <ul>
             <li>Digit
               <ul>
-                <li>ADJ: 1, 2, 2008, 2000, 2009, 17, 20, 13, 15, 8</li>
+                <li>ADJ: 1, 2008, 2000, 2009, 2, 20, 15, 1995, 1996, 1997</li>
                 <li>NUM: 10, 3, 2, 30, 5, 15, 20, 4, 50, 12</li>
-                <li>X: 2, 1, 3, 4, 00, 5, 6, 7, 8, 30</li>
+                <li>X: 2, 1, 3, 4, 5, 6, 7, 8, 9, 10</li>
               </ul>
             </li>
             <li>Roman
               <ul>
-                <li>ADJ: II, XIX, I, IV, III, XVI, XVIII, VIII, XII, XX</li>
+                <li>ADJ: II, XIX, I, IV, III, XVI, XVIII, XX, VIII, XII</li>
                 <li>NUM: IX</li>
-                <li>X: I, IV, II, III, VI, XI, XVI, XX</li>
+                <li>X: I, IV, II, III, VI, XI</li>
               </ul>
             </li>
             <li>Word
@@ -3221,15 +3222,14 @@ udver: '2'
           <ul>
             <li>Digit
               <ul>
-                <li>ADJ: 1, 60, 30, 31, 70, 10, 11, 21, 4, 50</li>
-                <li>NUM: 3, 100, 5, 10, 2, 20, 10000, 14, 16, 330</li>
-                <li>X: 2014, 2015, 1492, 2010, 2012, 2017, 1992, 2011, 2013, 2016</li>
+                <li>ADJ: 1, 60, 1492, 2010, 2012, 2014, 2015, 2011, 2013, 2017</li>
+                <li>NUM: 3, 100, 5, 1,5, 10, 2, 20, 1,4, 10000, 14</li>
+                <li>X: 2004, 2016, 1.165, 1918, 1954, 1991, 1992, 1994, 1997, 200</li>
               </ul>
             </li>
             <li>Roman
               <ul>
-                <li>ADJ: V, XX</li>
-                <li>X: I, II, III, VIII, IV, V, VI, XIV, XVI, IX</li>
+                <li>ADJ: I, II, III, V, VIII, IV, VI, XIV, XVI, XX</li>
               </ul>
             </li>
             <li>Word
@@ -3308,7 +3308,8 @@ udver: '2'
             </li>
             <li>Yes
               <ul>
-                <li>X: r, art, tys, proc, ust, np, ul, godz, m.in, ok</li>
+                <li>PART: ok</li>
+                <li>X: r, art, tys, proc, ust, np, ul, godz, m.in, prof</li>
               </ul>
             </li>
           </ul>
@@ -3755,16 +3756,16 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Acc (8)</li>
+            <li>VERB-Fin--NOUN-Acc (7)</li>
             <li>VERB-Fin--NOUN-Dat (2)</li>
-            <li>VERB-Fin--NOUN-Gen (648)</li>
+            <li>VERB-Fin--NOUN-Gen (642)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(do) (3)</li>
             <li>VERB-Fin--NOUN-Ins (1)</li>
-            <li>VERB-Fin--NOUN-Nom (11621)</li>
+            <li>VERB-Fin--NOUN-Nom (11591)</li>
             <li>VERB-Fin--PRON-Acc (2)</li>
             <li>VERB-Fin--PRON-Dat (2)</li>
             <li>VERB-Fin--PRON-Gen (58)</li>
-            <li>VERB-Fin--PRON-Nom (1808)</li>
+            <li>VERB-Fin--PRON-Nom (1796)</li>
             <li>VERB-Inf--NOUN-Gen (5)</li>
             <li>VERB-Inf--NOUN-Nom (108)</li>
             <li>VERB-Inf--PRON-Acc (1)</li>
@@ -3782,7 +3783,7 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB-Fin--NOUN-Acc (3)</li>
-            <li>VERB-Fin--NOUN-Gen (30)</li>
+            <li>VERB-Fin--NOUN-Gen (31)</li>
             <li>VERB-Fin--NOUN-Nom (478)</li>
             <li>VERB-Fin--PRON-Gen (2)</li>
             <li>VERB-Fin--PRON-Nom (53)</li>
@@ -3829,25 +3830,26 @@ udver: '2'
             <li>VERB-Conv--NOUN-Nom (3)</li>
             <li>VERB-Conv--PRON-Acc (32)</li>
             <li>VERB-Conv--PRON-Gen (3)</li>
-            <li>VERB-Fin--NOUN-Acc (5824)</li>
+            <li>VERB-Fin--NOUN-Acc (5813)</li>
             <li>VERB-Fin--NOUN-Dat (1)</li>
-            <li>VERB-Fin--NOUN-Gen (968)</li>
+            <li>VERB-Fin--NOUN-Gen (962)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
-            <li>VERB-Fin--NOUN-Ins (11)</li>
+            <li>VERB-Fin--NOUN-Ins (12)</li>
             <li>VERB-Fin--NOUN-Loc-ADP(po) (1)</li>
             <li>VERB-Fin--NOUN-Nom (24)</li>
-            <li>VERB-Fin--PRON-Acc (1385)</li>
-            <li>VERB-Fin--PRON-Gen (232)</li>
-            <li>VERB-Fin--PRON-Ins (4)</li>
+            <li>VERB-Fin--PRON-Acc (1379)</li>
+            <li>VERB-Fin--PRON-Gen (229)</li>
+            <li>VERB-Fin--PRON-Ins (6)</li>
             <li>VERB-Fin--PRON-Nom (3)</li>
-            <li>VERB-Inf--NOUN-Acc (1636)</li>
+            <li>VERB-Inf--NOUN-Acc (1628)</li>
             <li>VERB-Inf--NOUN-Dat (1)</li>
-            <li>VERB-Inf--NOUN-Gen (340)</li>
-            <li>VERB-Inf--NOUN-Ins (4)</li>
+            <li>VERB-Inf--NOUN-Gen (339)</li>
+            <li>VERB-Inf--NOUN-Ins (3)</li>
             <li>VERB-Inf--NOUN-Nom (8)</li>
-            <li>VERB-Inf--PRON-Acc (412)</li>
+            <li>VERB-Inf--PRON-Acc (411)</li>
             <li>VERB-Inf--PRON-Dat (1)</li>
             <li>VERB-Inf--PRON-Gen (81)</li>
+            <li>VERB-Inf--PRON-Ins (1)</li>
           </ul>
         </li>
       </ul>
@@ -3900,27 +3902,25 @@ udver: '2'
             <li>VERB-Conv--PRON-Acc (1)</li>
             <li>VERB-Conv--PRON-Dat (23)</li>
             <li>VERB-Conv--PRON-Ins (2)</li>
-            <li>VERB-Fin--NOUN-Acc (926)</li>
-            <li>VERB-Fin--NOUN-Dat (559)</li>
-            <li>VERB-Fin--NOUN-Gen (588)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(do) (1)</li>
+            <li>VERB-Fin--NOUN-Acc (921)</li>
+            <li>VERB-Fin--NOUN-Dat (561)</li>
+            <li>VERB-Fin--NOUN-Gen (587)</li>
             <li>VERB-Fin--NOUN-Ins (799)</li>
             <li>VERB-Fin--NOUN-Loc-ADP(o) (1)</li>
-            <li>VERB-Fin--NOUN-Nom (16)</li>
-            <li>VERB-Fin--PRON-Acc (180)</li>
-            <li>VERB-Fin--PRON-Dat (973)</li>
+            <li>VERB-Fin--NOUN-Nom (17)</li>
+            <li>VERB-Fin--PRON-Acc (178)</li>
+            <li>VERB-Fin--PRON-Dat (974)</li>
             <li>VERB-Fin--PRON-Gen (110)</li>
             <li>VERB-Fin--PRON-Ins (55)</li>
-            <li>VERB-Fin--PRON-Nom (6)</li>
+            <li>VERB-Fin--PRON-Nom (7)</li>
             <li>VERB-Inf--NOUN-Acc (92)</li>
-            <li>VERB-Inf--NOUN-Dat (161)</li>
-            <li>VERB-Inf--NOUN-Gen (73)</li>
-            <li>VERB-Inf--NOUN-Gen-ADP(do) (1)</li>
-            <li>VERB-Inf--NOUN-Ins (174)</li>
+            <li>VERB-Inf--NOUN-Dat (159)</li>
+            <li>VERB-Inf--NOUN-Gen (72)</li>
+            <li>VERB-Inf--NOUN-Ins (173)</li>
             <li>VERB-Inf--NOUN-Loc-ADP(o) (1)</li>
             <li>VERB-Inf--NOUN-Nom (1)</li>
             <li>VERB-Inf--PRON-Acc (14)</li>
-            <li>VERB-Inf--PRON-Dat (151)</li>
+            <li>VERB-Inf--PRON-Dat (150)</li>
             <li>VERB-Inf--PRON-Gen (17)</li>
             <li>VERB-Inf--PRON-Ins (14)</li>
           </ul>
@@ -3936,7 +3936,7 @@ udver: '2'
             <li>VERB-Conv--PRON-Dat (2)</li>
             <li>VERB-Fin--NOUN-Acc (45)</li>
             <li>VERB-Fin--NOUN-Dat (34)</li>
-            <li>VERB-Fin--NOUN-Gen (32)</li>
+            <li>VERB-Fin--NOUN-Gen (35)</li>
             <li>VERB-Fin--NOUN-Ins (34)</li>
             <li>VERB-Fin--NOUN-Nom (1)</li>
             <li>VERB-Fin--PRON-Acc (1)</li>
@@ -3966,7 +3966,7 @@ udver: '2'
       <h3>Reflexive Verbs</h3>
       
       <ul>
-        <li>This corpus contains 1665 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stać się, znajdować się, udać się, wydawać się, okazać się, starać się, znaleźć się, pojawić się, odbyć się, czuć się, dowiedzieć się, zajmować się, bać się, cieszyć się, bawić się, dziać się, pojawiać się, stawać się, wspinać się, rozpocząć się, spotkać się, spodziewać się, zastanawiać się, unosić się, zdarzać się, zdecydować się, zatrzymać się, zgadzać się, dać się, opierać się, trzymać się, domagać się, zająć się, stosować się, zgodzić się, odbywać się, zbliżać się, obawiać się, posługiwać się, przyglądać się, uczyć się, zmienić się, kończyć się, podobać się, spotykać się, uśmiechać się, uśmiechnąć się, zacząć się, zwrócić się, mówić się</li>
+        <li>This corpus contains 1664 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stać się, znajdować się, udać się, wydawać się, okazać się, znaleźć się, starać się, pojawić się, odbyć się, czuć się, dowiedzieć się, zajmować się, bać się, cieszyć się, bawić się, dziać się, wspinać się, pojawiać się, stawać się, rozpocząć się, spotkać się, spodziewać się, zastanawiać się, unosić się, zdarzać się, zdecydować się, zatrzymać się, dać się, opierać się, trzymać się, zgadzać się, zająć się, domagać się, stosować się, zgodzić się, odbywać się, zbliżać się, obawiać się, posługiwać się, przyglądać się, uczyć się, zmienić się, kończyć się, podobać się, spotykać się, uśmiechać się, uśmiechnąć się, zacząć się, zwrócić się, mówić się</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -4028,17 +4028,17 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 29 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:obj</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>discourse:emo</a>, <a>discourse:intj</a>, <a>expl:pv</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
-      <li>The following 2 main types are not used alone, they are always subtyped: <a>discourse</a>, <a>expl</a></li>
-      <li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      <li>This corpus uses 38 relation subtypes: <a>acl:relcl</a>, <a>advcl:cmpr</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>discourse:emo</a>, <a>discourse:intj</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:flat</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>obl:orphan</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:cleft</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
+      <li>The following 3 main types are not used alone, they are always subtyped: <a>discourse</a>, <a>expl</a>, <a>parataxis</a></li>
+      <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 25 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:obj</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:pred</a></li>
-      <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
+      <li>This corpus uses 31 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
+      <li>The following 2 main types are not used alone, they are always subtyped: <a>expl</a>, <a>parataxis</a></li>
       <li>The following 8 relation types are not used in this corpus at all: <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>

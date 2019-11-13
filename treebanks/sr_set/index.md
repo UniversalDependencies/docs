@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Tanja Samardžić, Nikola Ljubešić.
 
 Repository: [UD_Serbian-SET](https://github.com/UniversalDependencies/UD_Serbian-SET)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsr_set22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsr_set25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 4.0
 
@@ -36,7 +36,7 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | annotated manually, natively in UD style |
+| Lemmas | annotated manually |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
 | XPOS | not available |
 | Features | annotated manually in non-UD style, automatically converted to UD |
@@ -62,7 +62,7 @@ additional news documents from the Serbian web.
 
 ## Relations
 
-[acl](sr_set-dep-acl.html) – [advcl](sr_set-dep-advcl.html) – [advmod](sr_set-dep-advmod.html) – [amod](sr_set-dep-amod.html) – [appos](sr_set-dep-appos.html) – [aux](sr_set-dep-aux.html) – [case](sr_set-dep-case.html) – [cc](sr_set-dep-cc.html) – [ccomp](sr_set-dep-ccomp.html) – [compound](sr_set-dep-compound.html) – [conj](sr_set-dep-conj.html) – [cop](sr_set-dep-cop.html) – [csubj](sr_set-dep-csubj.html) – [dep](sr_set-dep-dep.html) – [det](sr_set-dep-det.html) – [det:numgov](sr_set-dep-det-numgov.html) – [discourse](sr_set-dep-discourse.html) – [fixed](sr_set-dep-fixed.html) – [flat](sr_set-dep-flat.html) – [goeswith](sr_set-dep-goeswith.html) – [iobj](sr_set-dep-iobj.html) – [list](sr_set-dep-list.html) – [mark](sr_set-dep-mark.html) – [nmod](sr_set-dep-nmod.html) – [nsubj](sr_set-dep-nsubj.html) – [nummod](sr_set-dep-nummod.html) – [nummod:gov](sr_set-dep-nummod-gov.html) – [obj](sr_set-dep-obj.html) – [obl](sr_set-dep-obl.html) – [orphan](sr_set-dep-orphan.html) – [parataxis](sr_set-dep-parataxis.html) – [punct](sr_set-dep-punct.html) – [root](sr_set-dep-root.html) – [vocative](sr_set-dep-vocative.html) – [xcomp](sr_set-dep-xcomp.html)
+[acl](sr_set-dep-acl.html) – [advcl](sr_set-dep-advcl.html) – [advmod](sr_set-dep-advmod.html) – [amod](sr_set-dep-amod.html) – [appos](sr_set-dep-appos.html) – [aux](sr_set-dep-aux.html) – [case](sr_set-dep-case.html) – [cc](sr_set-dep-cc.html) – [ccomp](sr_set-dep-ccomp.html) – [compound](sr_set-dep-compound.html) – [conj](sr_set-dep-conj.html) – [cop](sr_set-dep-cop.html) – [csubj](sr_set-dep-csubj.html) – [dep](sr_set-dep-dep.html) – [det](sr_set-dep-det.html) – [det:numgov](sr_set-dep-det-numgov.html) – [discourse](sr_set-dep-discourse.html) – [fixed](sr_set-dep-fixed.html) – [flat](sr_set-dep-flat.html) – [iobj](sr_set-dep-iobj.html) – [list](sr_set-dep-list.html) – [mark](sr_set-dep-mark.html) – [nmod](sr_set-dep-nmod.html) – [nsubj](sr_set-dep-nsubj.html) – [nummod](sr_set-dep-nummod.html) – [nummod:gov](sr_set-dep-nummod-gov.html) – [obj](sr_set-dep-obj.html) – [obl](sr_set-dep-obl.html) – [orphan](sr_set-dep-orphan.html) – [parataxis](sr_set-dep-parataxis.html) – [punct](sr_set-dep-punct.html) – [root](sr_set-dep-root.html) – [vocative](sr_set-dep-vocative.html) – [xcomp](sr_set-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -103,7 +103,7 @@ additional news documents from the Serbian web.
 </ul>
 
 <ul>
-<li>This corpus contains 38 lemmas tagged as determiners (DET): alfa, dva, dve, ikakav, kakav, ko, koji, koliki, mi, moj, naš, neka, nekakav, neki, nečiji, nijedan, nikakav, njegov, njen, njihov, oba, onaj, ovaj, ovakav, sav, svaki, svačiji, sve, svoj, taj, takav, takođe, to, toliki, tvoj, vaš, čiji, što</li>
+<li>This corpus contains 57 lemmas tagged as determiners (DET): alfa, bilo, dovoljno, dva, dve, ikakav, jedan, još, kakav, ko, koji, koliki, koliko, la, malo, mi, mnogi, mnogo, moj, naš, neka, nekakav, neki, nekoliko, nečiji, nijedan, nikakav, njegov, njen, njihov, oba, odsto, onaj, onoliko, ostali, ovaj, ovakav, pola, previše, puno, sam, sav, svaki, svačiji, sve, svoj, taj, takav, takođe, te, to, toliki, toliko, tvoj, vaš, čiji, što</li>
 </ul>
 
 <ul>
@@ -169,12 +169,12 @@ additional news documents from the Serbian web.
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: prošle, srpske, Crne, evropske, političke, druge, demokratske, nove, Crna, jugoistočne</li>
+      <li>ADJ: prošle, srpske, Crne, evropske, političke, demokratske, nove, Crna, druge, jugoistočne</li>
       <li>ADJ-Part: održana, otvorena, završena, korišćena, postavljena, povezana, usmerena, završene, integrisane, izrečena</li>
       <li>AUX-Part: bila, bile</li>
-      <li>DET: koja, koje, ove, koju, svoje, svoju, te, kojoj, ta, kojima</li>
+      <li>DET: koja, koje, ove, koju, svoje, svoju, te, kojoj, ta, sve</li>
       <li>NOUN: godine, zemlje, godina, vlada, stranke, zemalja, vlade, zemlja, vlasti, nedelje</li>
-      <li>NUM: dve, jedna, jedne, obe, jednoj, jednu, dveju, jednom, obeju</li>
+      <li>NUM: dve, jedna, prva, jedne, obe, jednoj, jednu, prvoj, prve, devedesetih</li>
       <li>PRON: ona, je, joj, one, nje, ju, njoj, njom, nju</li>
       <li>PROPN: Srbije, Srbija, Srbiji, Makedonija, Turska, Turske, Makedoniji, Bugarska, Evrope, Hrvatska</li>
       <li>VERB-Part: rekla, mogla, saopštila, dobila, postala, imala, osvojila, povećala, objavila, potpisala</li>
@@ -185,12 +185,12 @@ additional news documents from the Serbian web.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: novi, drugi, inostranih, bivši, prvi, glavni, mnogi, novog, veliki, unutrašnjih</li>
+      <li>ADJ: novi, inostranih, bivši, glavni, novog, veliki, drugi, mnogi, unutrašnjih, srpski</li>
       <li>ADJ-Part: održan, otvoren, postignut, završen, zadužen, napravljen, osuđen, izloženi, održani, održanom</li>
       <li>AUX-Part: bio, bili</li>
       <li>DET: koji, taj, svoj, neki, svog, ovog, tog, koje, svoje, kojim</li>
       <li>NOUN: evra, predsednik, ministar, poslova, ljudi, miliona, ponedeljak, premijer, dana, utorak</li>
-      <li>NUM: jedan, jednog, jednom, oba, jednim, dva, jedni, nijedan</li>
+      <li>NUM: jedan, prvi, drugi, jednog, jednom, prvog, prvom, oba, prvih, jednim</li>
       <li>PRON: on, oni, ga, njega, ko, mu, niko, neko, njemu, koga</li>
       <li>PROPN: EU, BiH, UN, Beogradu, NATO, UN-a, SETimes, NATO-u, Balkanu, EBRD</li>
       <li>VERB-Part: rekao, izjavio, dodao, sastao, pozvao, ukazao, izrazio, dobio, mogao, postao</li>
@@ -201,12 +201,12 @@ additional news documents from the Serbian web.
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: potrebno, sve, drugo, moguće, ljudskih, ljudska, održano, radnih, važno, Crnog</li>
+      <li>ADJ: potrebno, moguće, sve, ljudskih, ljudska, održano, radnih, važno, Crnog, drugo</li>
       <li>ADJ-Part: održano, povređeno, objavljenom, razgovarano, uhapšeno, saopšteno, zaključeno, data, omogućeno, otkriveno</li>
       <li>AUX-Part: bilo, bila</li>
       <li>DET: to, toga, tome, koja, koje, ovo, sve, svoje, tom, tim</li>
       <li>NOUN: prava, vreme, pitanja, članstvo, pitanje, mesto, nasilje, saopštenju, pitanju, mesta</li>
-      <li>NUM: jedno, dva, jednom</li>
+      <li>NUM: jedno, drugo, prvo, treće, Prve, Sedamnaesto, druga, drugih, drugom, dva</li>
       <li>PRON: što, šta, ništa, ono, nešto, čime, čega, čemu, ona, kome</li>
       <li>PROPN: Kosova, Kosovo, Kosovu, Skoplju, Sarajevu, Belene, Kosovom, Skoplja, Skoplje, Vetvendosje</li>
       <li>VERB-Part: trebalo, moglo, došlo, pokazalo, omogućilo, postalo, dobilo, okupilo, prisustvovalo, dogodilo</li>
@@ -221,11 +221,11 @@ additional news documents from the Serbian web.
 <ul>
   <li>Anim
     <ul>
-      <li>ADJ: bivšeg, novog, američkog, generalnog, kosovskog, prvog, sledećeg, visokog, Sejdijuovog, Zlatnog</li>
+      <li>ADJ: bivšeg, novog, američkog, generalnog, kosovskog, sledećeg, visokog, Sejdijuovog, Zlatnog, apatični</li>
       <li>ADJ-Part: kuvani, plaćenog, pozicioniranog, predloženog, uplašen, zbunjen</li>
       <li>DET: svog, koji, nekoga, njegovog, svakog, kakvog, kojeg, tog</li>
       <li>NOUN: predsednika, kandidata, ministra, premijera, komesara, savetnika, sekretara, svedoka, direktora, generala</li>
-      <li>NUM: jednog</li>
+      <li>NUM: jednog, prvog</li>
       <li>PRON: nikoga</li>
       <li>PROPN: Đinđića, Gruevskog, Krasnićija, Morinu, Nikolu, Rena, Zorana, Acu, Ahtisarija, Anana</li>
     </ul>
@@ -235,11 +235,11 @@ additional news documents from the Serbian web.
 <ul>
   <li>Inan
     <ul>
-      <li>ADJ: prvi, novi, ekonomski, veliki, drugi, politički, veći, međunarodni, socijalni, važan</li>
+      <li>ADJ: novi, ekonomski, veliki, politički, veći, međunarodni, socijalni, važan, Ahtisarijev, direktan</li>
       <li>ADJ-Part: adresiran, kategorizovan, odživljeni, očekivan, očekivani, predloženi, preopterećeni</li>
       <li>DET: svoj, taj, koji, njihov, kakav, ovaj, svaki, neki, njegov, takav</li>
       <li>NOUN: ponedeljak, utorak, petak, četvrtak, način, napredak, proces, razvoj, sporazum, rad</li>
-      <li>NUM: jedan, dva</li>
+      <li>NUM: jedan, prvi, drugi, deveti, dva, treći</li>
       <li>PROPN: EU, NATO, SETimes, BiH, Balkan, Kipar, Hag, Zagreb, Beograd, Boru</li>
     </ul>
   </li>
@@ -252,13 +252,13 @@ additional news documents from the Serbian web.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: inostranih, drugim, mnogi, drugih, političkih, unutrašnjih, novih, drugi, nove, kiparskih</li>
+      <li>ADJ: inostranih, političkih, mnogi, drugim, unutrašnjih, novih, nove, drugih, drugi, kiparskih</li>
       <li>ADJ-Part: izloženi, održani, počinjeni, završene, data, integrisane, osumnjičenih, otvorena, podignute, povezane</li>
       <li>AUX-Fin: su, smo, bi, će, nisu, budu, ćemo, bismo, neće, ste</li>
       <li>AUX-Part: bili, bile, bila</li>
-      <li>DET: koji, koje, svoje, kojima, neki, sve, koja, svojih, tih, neke</li>
+      <li>DET: koji, koje, svoje, kojima, sve, neki, koja, svojih, svi, svih</li>
       <li>NOUN: evra, godina, poslova, ljudi, zemalja, miliona, prava, vlasti, dana, zemlje</li>
-      <li>NUM: dve, dveju, dva, obe, jedni, oba, tri, trima</li>
+      <li>NUM: dve, prvih, drugih, devedesetih, dveju, drugim, prve, druge, drugi, dva</li>
       <li>PRON: oni, ih, mi, im, njih, nam, nas, njima, one, nama</li>
       <li>PROPN: Srbi, Srba, Albanci, Grka, Albanaca, Turaka, Grci, Crnogorci, Srbima, kg</li>
       <li>VERB-Fin: mogu, kažu, imaju, moraju, koriste, žele, nalaze, postoje, čine, imamo</li>
@@ -270,13 +270,13 @@ additional news documents from the Serbian web.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: prošle, novi, bivši, prvi, novog, Crne, srpske, glavni, veliki, drugi</li>
+      <li>ADJ: prošle, novi, bivši, novog, Crne, srpske, glavni, veliki, evropske, srpski</li>
       <li>ADJ-Part: održan, održana, održano, otvoren, otvorena, postignut, završen, zadužen, napravljen, održanom</li>
       <li>AUX-Fin: je, će, bi, nije, bude, neće, sam, biće, jeste, bih</li>
       <li>AUX-Part: bio, bilo, bila</li>
       <li>DET: koji, to, koja, ove, toga, koju, taj, svoj, tom, svoju</li>
       <li>NOUN: godine, predsednik, ministar, zemlje, vlada, ponedeljak, premijer, vlade, zemlja, sredu</li>
-      <li>NUM: jedan, jedna, jedne, jednog, jednom, jedno, jednoj, jednu, jednim, dva</li>
+      <li>NUM: jedan, prvi, jedna, prva, jedne, drugi, jednog, jednom, jedno, jednoj</li>
       <li>PRON: on, ona, ga, njega, mu, ono, je, ja, joj, mi</li>
       <li>PROPN: EU, BiH, Kosova, Srbije, Kosovo, Srbija, Kosovu, Srbiji, UN, Beogradu</li>
       <li>VERB-Fin: kaže, ima, može, treba, mora, navodi, postoji, očekuje, nema, smatra</li>
@@ -292,12 +292,12 @@ additional news documents from the Serbian web.
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: novu, nove, prvi, sve, političku, ratne, veliku, ekonomske, novi, političke</li>
+      <li>ADJ: novu, nove, političku, ratne, veliku, ekonomske, novi, političke, ekonomski, lokalne</li>
       <li>ADJ-Part: usmerenu, dodatu, adresiran, dobijene, grupisana, izazvanu, izgovorene, izgubljeno, izrečenu, kategorizovan</li>
       <li>ADP: za, u, na, kroz, po, uz, pod, pred, među, o</li>
       <li>DET: svoje, koju, to, koje, svoj, svoju, sve, taj, koji, tu</li>
       <li>NOUN: ponedeljak, sredu, utorak, podršku, petak, četvrtak, nedelju, vreme, pomoć, članstvo</li>
-      <li>NUM: jedan, dve, jednu, obe, jedno, jednog, oba, dva, tri</li>
+      <li>NUM: jedan, prvi, dve, jednu, drugi, prvu, drugo, drugu, obe, jedno</li>
       <li>PRON: se, ga, ih, šta, što, je, ništa, nas, sebe, koga</li>
       <li>PROPN: Kosovo, EU, NATO, Srbiju, SETimes, Tursku, BiH, Bugarsku, Albaniju, Balkan</li>
     </ul>
@@ -310,9 +310,9 @@ additional news documents from the Serbian web.
       <li>ADJ: evropskoj, bivšem, drugim, konačnom, kosovskom, međunarodnim, demokratskim, ekonomskom, evropskim, kosovskim</li>
       <li>ADJ-Part: održanom, povećanim</li>
       <li>ADP: ka, uprkos, prema, nasuprot</li>
-      <li>DET: tome, kojima, onima, toj, tom, našoj, njegovoj, onoj, svojim, svojoj</li>
+      <li>DET: tome, kojima, onima, toj, svim, tom, našoj, njegovoj, onoj, svojim</li>
       <li>NOUN: novinarima, građanima, zemlji, premijeru, članstvu, institucijama, grupi, reformama, savetu, uniji</li>
-      <li>NUM: jednoj, jednom</li>
+      <li>NUM: jednoj, trećim, drugoj, jednom, prvoj, trećem</li>
       <li>PRON: im, mu, nam, joj, mi, sebi, vam, kome, nikome, njemu</li>
       <li>PROPN: NATO-u, Beogradu, Srbiji, Evropi, Turskoj, Briselu, Bugarskoj, Hrvatskoj, Makedoniji, Rusiji</li>
     </ul>
@@ -322,12 +322,12 @@ additional news documents from the Serbian web.
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: prošle, inostranih, novog, Crne, drugih, političkih, srpske, unutrašnjih, novih, evropske</li>
+      <li>ADJ: prošle, inostranih, novog, Crne, političkih, srpske, unutrašnjih, novih, evropske, drugih</li>
       <li>ADJ-Part: osumnjičenih, otpuštenih, povezanih, prodate, usmerenog, zasnovane, aktivirane, doživljenog, isprane, izabrane</li>
       <li>ADP: od, iz, do, protiv, posle, zbog, između, tokom, sa, pre</li>
-      <li>DET: ove, toga, tog, ovog, svog, svojih, te, tih, svih, svoje</li>
+      <li>DET: ove, toga, tog, ovog, svog, svojih, svih, te, tih, svoje</li>
       <li>NOUN: godine, evra, godina, zemlje, poslova, miliona, zemalja, vlade, nedelje, dana</li>
-      <li>NUM: jedne, jednog, dveju, dve, oba, obeju</li>
+      <li>NUM: jedne, jednog, prvih, drugih, prvog, devedesetih, dveju, dve, prve, druge</li>
       <li>PRON: njih, njega, nas, čega, ih, sebe, nje, kog, nekoga</li>
       <li>PROPN: Kosova, Srbije, Turske, Evrope, UN-a, Makedonije, Hrvatske, Bugarske, NATO-a, Albanije</li>
     </ul>
@@ -340,9 +340,9 @@ additional news documents from the Serbian web.
       <li>ADJ: drugim, međunarodnim, srpskim, velikim, Crnom, kosovskim, novim, ličnim, političkim, samim</li>
       <li>ADJ-Part: Izabranom, nanesenom, održanim, posvećenim, prihvaćenim, pronađenim, proverenim, razvijenim, ugrađenim, zaleđenom</li>
       <li>ADP: sa, među, pod, s, za, nad, pred, na</li>
-      <li>DET: kojim, kojima, kojom, tim, time, svojim, svojom, nekim, takvim, ovom</li>
+      <li>DET: kojim, kojima, kojom, tim, time, svojim, svim, svojom, nekim, takvim</li>
       <li>NOUN: obzirom, predsednikom, kolegom, premijerom, sporazumom, nazivom, zemljama, ljudima, predstavnicima, sudom</li>
-      <li>NUM: jednim, jednom, obe, trima</li>
+      <li>NUM: drugim, jednim, drugom, jednom, 40-im, drugima, obe, prvim, trećim, trima</li>
       <li>PRON: čime, njima, sobom, njim, Njime, njom, nama</li>
       <li>PROPN: Srbijom, Grčkom, Kosovom, Makedonijom, Beogradom, Fatmirom, Sejdiuom, Turskom, Bosnom, Hercegovinom</li>
     </ul>
@@ -352,12 +352,12 @@ additional news documents from the Serbian web.
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: crnoj, novom, drugim, političkoj, svetskom, jugoistočnoj, prvom, objavljenom, velikoj, makedonskom</li>
+      <li>ADJ: crnoj, novom, drugim, političkoj, svetskom, jugoistočnoj, objavljenom, velikoj, makedonskom, međunarodnim</li>
       <li>ADJ-Part: objavljenom, održanom, objavljenoj, održanoj, dokazanoj, iskorišćenim, izvedenoj, nanetom, podeljenom, pogođenim</li>
       <li>ADP: u, na, o, prema, po, pri, Pema, Uprkos</li>
       <li>DET: tom, kojoj, kojem, tome, svom, kojima, ovom, svojoj, toj, nekim</li>
       <li>NOUN: zemlji, regionu, pogledu, izveštaju, saopštenju, godini, međuvremenu, pitanju, putu, rečima</li>
-      <li>NUM: jednom, jednoj, obe</li>
+      <li>NUM: jednom, prvom, jednoj, prvoj, drugom, drugoj, prvim, trećem, drugim, obe</li>
       <li>PRON: njemu, njima, čemu, sebi, vama, kome, njoj, kom, nama, nečemu</li>
       <li>PROPN: Kosovu, Srbiji, Beogradu, Makedoniji, Evropi, Balkanu, Albaniji, Bugarskoj, Bosni, Hercegovini</li>
     </ul>
@@ -367,11 +367,11 @@ additional news documents from the Serbian web.
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: novi, bivši, drugi, mnogi, glavni, srpski, kosovski, prvi, Crna, turski</li>
+      <li>ADJ: novi, bivši, mnogi, glavni, drugi, srpski, kosovski, Crna, turski, veliki</li>
       <li>ADJ-Part: održan, održana, otvorena, održano, otvoren, postignut, završen, zadužen, napravljen, osuđen</li>
-      <li>DET: koji, koja, to, koje, neki, taj, ta, njegova, svi, njegov</li>
+      <li>DET: koji, koja, to, koje, neki, taj, ta, sve, njegova, svi</li>
       <li>NOUN: predsednik, ministar, vlada, premijer, zemlja, deo, broj, direktor, ljudi, policija</li>
-      <li>NUM: jedan, dve, jedna, obe, jedno, dva, jedni, oba, nijedan</li>
+      <li>NUM: jedan, dve, jedna, prvi, prva, drugi, obe, jedno, druga, treći</li>
       <li>PRON: on, što, ona, oni, mi, ko, ono, niko, ja, šta</li>
       <li>PROPN: EU, BiH, Srbija, Kosovo, UN, Makedonija, Turska, Bugarska, Hrvatska, Rusija</li>
     </ul>
@@ -396,6 +396,8 @@ additional news documents from the Serbian web.
     <ul>
       <li>ADJ: novi, prošle, inostranih, srpske, bivši, novog, političke, nove, evropske, glavni</li>
       <li>ADJ-Part: održana, otvorena, održano, održanom, povređeno, izloženi, objavljenom, održani, razgovarano, uhapšeno</li>
+      <li>DET: sve, svim, svih, svi, mnogi, sva, Nijedna, jednoj, mom, nekih</li>
+      <li>NUM: drugoj, dve, jednoj</li>
     </ul>
   </li>
 </ul>
@@ -403,8 +405,10 @@ additional news documents from the Serbian web.
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: važan, održan, dobar, poznat, otvoren, sam, čitav, postignut, završen, zadužen</li>
+      <li>ADJ: važan, održan, dobar, poznat, otvoren, čitav, postignut, sam, završen, zadužen</li>
       <li>ADJ-Part: održan, otvoren, postignut, završen, zadužen, napravljen, osuđen, uspostavljen, usredsređen, objavljen</li>
+      <li>DET: Sam</li>
+      <li>NUM: druga, jedan</li>
     </ul>
   </li>
 </ul>
@@ -421,6 +425,7 @@ additional news documents from the Serbian web.
     <ul>
       <li>ADJ: veći, veće, bolji, veća, bolje, bolju, dalji, veću, širem, bolja</li>
       <li>ADV: više, dalje, kasnije, manje, ranije, bolje, gore, lakše, snažnije, Tačnije</li>
+      <li>DET: više, manje</li>
     </ul>
   </li>
 </ul>
@@ -428,9 +433,11 @@ additional news documents from the Serbian web.
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: novi, prošle, drugi, inostranih, srpske, bivši, prvi, novog, političke, drugim</li>
+      <li>ADJ: novi, prošle, inostranih, srpske, bivši, novog, političke, nove, evropske, glavni</li>
       <li>ADJ-Part: održan, održana, otvorena, održano, otvoren, postignut, završen, zadužen, napravljen, održanom</li>
-      <li>ADV: takođe, međutim, još, samo, odsto, kada, oko, već, danas, sada</li>
+      <li>ADV: takođe, međutim, samo, još, odsto, kada, oko, već, danas, sada</li>
+      <li>DET: nekoliko, sve, puno, mnogo, svim, koliko, malo, odsto, toliko, svih</li>
+      <li>NUM: prvi, drugi, prva, prvih, drugom, prve, prvog, prvom, drugih, prvoj</li>
     </ul>
   </li>
 </ul>
@@ -440,6 +447,7 @@ additional news documents from the Serbian web.
     <ul>
       <li>ADJ: najveći, najvećih, najveća, najbolji, najbolju, najveće, najviši, najboljem, najnovije, najnovijem</li>
       <li>ADV: najmanje, najviše, najbolje, najčešće, najblaže, najgore, najperfektnije, najteže, najverovatnije</li>
+      <li>DET: najviše</li>
     </ul>
   </li>
 </ul>
@@ -559,7 +567,7 @@ additional news documents from the Serbian web.
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: sada, tako, onda, tu, ovde, toliko, zato, tada, tamo, onako</li>
+      <li>ADV: sada, tako, onda, tu, ovde, zato, tada, toliko, tamo, onako</li>
       <li>DET: to, ove, toga, taj, te, tom, ta, tome, tog, ovog</li>
     </ul>
   </li>
@@ -568,8 +576,8 @@ additional news documents from the Serbian web.
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: nekoliko, nekada, ikada, negde, ponekad, nekako, nekad</li>
-      <li>DET: neki, neke, nekim, neka, neko, nekih, ikakvih, neku, nekog, nekoga</li>
+      <li>ADV: nekada, ikada, nekoliko, negde, ponekad, nekako, nekad</li>
+      <li>DET: nekoliko, neki, neke, nekim, neka, neko, nekih, ikakvih, neku, nekog</li>
       <li>PRON: nešto, neko, išta, nekoga, nečemu</li>
     </ul>
   </li>
@@ -637,7 +645,8 @@ additional news documents from the Serbian web.
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: 2007., 2004., 21., 1., 9., 12., 2008., 28., 17., 14.</li>
+      <li>ADJ: 2008., 2006., 2004, 2010, 2011., 1999., 2004., 2007., 2009., 2011</li>
+      <li>NUM: 21., 1., 2007., 9., 28., 12., 17., 2004., 11., 14.</li>
     </ul>
   </li>
 </ul>
@@ -773,15 +782,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen (72)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(od) (7)</li>
       <li>VERB-Fin--NOUN-Nom (1430)</li>
-      <li>VERB-Fin--PRON-Acc (2)</li>
+      <li>VERB-Fin--PRON-Acc (4)</li>
       <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
-      <li>VERB-Fin--PRON-Nom (151)</li>
+      <li>VERB-Fin--PRON-Nom (162)</li>
       <li>VERB-Inf--NOUN-Acc (4)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(od) (1)</li>
       <li>VERB-Inf--NOUN-Nom (184)</li>
-      <li>VERB-Inf--PRON-Acc (3)</li>
-      <li>VERB-Inf--PRON-Nom (23)</li>
+      <li>VERB-Inf--PRON-Acc (5)</li>
+      <li>VERB-Inf--PRON-Nom (24)</li>
       <li>VERB-Part--NOUN-Acc (5)</li>
       <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Part--NOUN-Gen (65)</li>
@@ -791,7 +800,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
       <li>VERB-Part--PRON-Gen-ADP(od) (1)</li>
-      <li>VERB-Part--PRON-Nom (246)</li>
+      <li>VERB-Part--PRON-Ins (1)</li>
+      <li>VERB-Part--PRON-Loc-ADP(o) (1)</li>
+      <li>VERB-Part--PRON-Nom (259)</li>
     </ul>
   </li>
 </ul>
@@ -850,5 +861,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 2 relation subtypes: <a>det:numgov</a>, <a>nummod:gov</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>reparandum</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

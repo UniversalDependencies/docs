@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1218 nodes (4%) are attached to their parents as `aux`.
+1215 nodes (4%) are attached to their parents as `aux`.
 
-1168 instances of `aux` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25205254515599.
+1165 instances of `aux` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.25432098765432.
 
-The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1084; 89% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (66; 5% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (46; 4% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1084; 89% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (66; 5% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (46; 4% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -67,7 +67,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 8	slana	slana	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	10	advcl	_	word=slana|msd=Sozei
 9	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	word=smo|msd=Gp-spm-n
 10	pasli	pasti	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=pasl|msd=Ggnd-mm
-11	[:voice]	[:voice]	X	X	_	10	punct	_	word=[:voice]|msd=N
+11	[:voice]	[:voice]	PUNCT	X	_	10	punct	_	word=[:voice]|msd=N
 
 ~~~
 

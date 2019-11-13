@@ -81,7 +81,7 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 `PRON` tokens may have the following values of `Degree`:
 
 * `Pos` (2; 100% of non-empty `Degree`): <em>iх, чым</em>
-* `EMPTY` (402): <em>гэта, я, якiя, якія, яны, мы, таго, які, ён, што</em>
+* `EMPTY` (403): <em>гэта, я, якiя, якія, яны, мы, таго, што, які, ён</em>
 
 ### `NOUN`
 
@@ -121,12 +121,12 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (127; 99%),
 <tt>ADJ --[<tt><a href="be_hse-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (23; 82%),
-<tt>ADV --[<tt><a href="be_hse-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (17; 85%),
+<tt>ADV --[<tt><a href="be_hse-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (16; 76%),
 <tt>ADJ --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13; 100%),
 <tt>ADJ --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (3; 100%),
 <tt>ADJ --[<tt><a href="be_hse-dep-obl.html">obl</a></tt>]--> ADJ</tt> (3; 75%),
 <tt>ADV --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> ADV</tt> (3; 75%),
 <tt>ADJ --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (2; 100%),
-<tt>ADV --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="be_hse-dep-mark.html">mark</a></tt>]--> ADV</tt> (1; 100%).
 

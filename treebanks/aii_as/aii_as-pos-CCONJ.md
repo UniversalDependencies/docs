@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Assyrian-AS: POS Tags: `CCONJ`
 
 There are 3 `CCONJ` lemmas (1%), 3 `CCONJ` types (1%) and 25 `CCONJ` tokens (6%).
-Out of 13 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 12 in number of types and 9 in number of tokens.
+Out of 13 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 12 in number of types and 8 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>ܘ, ܝܲܢ, ܐܝܼܢܵܐ</em>
 

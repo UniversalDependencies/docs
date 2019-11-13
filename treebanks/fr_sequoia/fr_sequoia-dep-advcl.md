@@ -25,7 +25,7 @@ The following 10 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 4 7 advcl	color:blue
 1	M.	monsieur	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	Rousselot	Rousselot	PROPN	_	_	1	flat:name	_	_
-3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 4	insisté	insister	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	pour	pour	ADP	_	_	7	mark	_	_
 6	me	le	PRON	_	Number=Sing|Person=1	7	obj	_	_
@@ -46,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 2 advcl	color:blue
-1	S'	se	PRON	_	Person=3|Reflex=Yes	2	expl	_	SpaceAfter=No
+1	S'	se	PRON	_	Person=3|Reflex=Yes	2	expl:comp	_	SpaceAfter=No
 2	agissant	agir	VERB	_	Tense=Pres|VerbForm=Part	13	advcl	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -55,7 +55,7 @@ The following 10 pairs of parts of speech are connected with `advcl`: <tt><a hre
 7	Paget	Paget	PROPN	_	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	13	punct	_	_
 9	Aclasta	Aclasta	PROPN	_	_	13	nsubj	_	_
-10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:tense	_	_
 11	été	être	AUX	_	Tense=Past|VerbForm=Part	13	cop	_	_
 12	plus	plus	ADV	_	_	13	advmod	_	_
 13	efficace	efficace	ADJ	_	Number=Sing	0	root	_	_

@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 16	fgColor:white
 # visual-style 16 3 csubj:pass	color:blue
 1	「	「	PUNCT	``	_	3	punct	_	SpaceAfter=No
-2	燒荒	燒荒	VERB	VV	_	3	acl	_	SpaceAfter=No
+2	燒荒	燒荒	VERB	VV	_	3	advcl	_	SpaceAfter=No
 3	肥田	肥田	VERB	VV	_	16	csubj:pass	_	SpaceAfter=No
 4	」	」	PUNCT	''	_	3	punct	_	SpaceAfter=No
 5	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No
@@ -32,8 +32,8 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 8	原始	原始	ADJ	JJ	_	11	amod	_	SpaceAfter=No
 9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
 10	農業	農業	NOUN	NN	_	11	nmod	_	SpaceAfter=No
-11	技術	技術	NOUN	NN	_	16	acl	_	SpaceAfter=No
-12	,	,	PUNCT	,	_	16	punct	_	SpaceAfter=No
+11	技術	技術	NOUN	NN	_	16	advcl	_	SpaceAfter=No
+12	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 13	曾	曾	ADV	RB	_	16	advmod	_	SpaceAfter=No
 14	被	被	VERB	BB	Voice=Pass	16	aux:pass	_	SpaceAfter=No
 15	廣泛	廣泛	ADV	RB	_	16	advmod	_	SpaceAfter=No
@@ -43,7 +43,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 19	大	大	PART	PFA	_	20	case:pref	_	SpaceAfter=No
 20	部分	部分	NOUN	NN	_	21	nmod	_	SpaceAfter=No
 21	地區	地區	NOUN	NN	_	16	obl	_	SpaceAfter=No
-22	.	.	PUNCT	.	_	16	punct	_	SpaceAfter=No
+22	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
 ~~~
 

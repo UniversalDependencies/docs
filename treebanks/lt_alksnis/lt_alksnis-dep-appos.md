@@ -8,29 +8,26 @@ udver: '2'
 
 This relation is universal.
 
-77 nodes (0%) are attached to their parents as `appos`.
+194 nodes (0%) are attached to their parents as `appos`.
 
-77 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.44155844155844.
+194 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.2319587628866.
 
-The following 26 pairs of parts of speech are connected with `appos`: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (18; 23% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (7; 9% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-X.html">X</a></tt> (7; 9% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (7; 9% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (3; 4% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_alksnis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt>-<tt><a href="lt_alksnis-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_alksnis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 31 pairs of parts of speech are connected with `appos`: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (62; 32% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (21; 11% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (20; 10% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-X.html">X</a></tt> (9; 5% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_alksnis-pos-X.html">X</a></tt> (5; 3% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="lt_alksnis-pos-SYM.html">SYM</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_alksnis-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_alksnis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 8 appos	color:blue
-1	Dalis	dalis	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
-2	jų	jis	PRON	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	nmod	1:nmod	_
-3	yra	būti	AUX	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
-4	šlifuoti	šlifuoti	VERB	Vgps-pmpnnnn-p	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
-5	dalis	dalis	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
-6	-	-	PUNCT	Z	_	8	punct	8:punct	_
-7	neapdorotas	neapdoroti	VERB	Vgps-smpynnn-p	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	_
-8	gintaras	gintaras	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	5	appos	5:appos	SpaceAfter=No
-9	.	.	PUNCT	Z	_	4	punct	4:punct	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 appos	color:blue
+1	Dviračių	dviratis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	2	nmod	2:nmod	_
+2	takai	takas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
+3	-	-	PUNCT	skyr.	_	4	punct	4:punct	_
+4	pinigai	pinigai	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	2	appos	2:appos	_
+5	į	į	ADP	prl.G.	AdpType=Prep|Case=Acc	6	case	6:case	_
+6	balą	bala	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	4	obl:arg	4:obl:arg	_
 
 ~~~
 
@@ -41,54 +38,41 @@ The following 26 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 appos	color:blue
-1	§	§	PUNCT	Z	_	2	punct	2:punct	_
-2	2.1	2.1	NUM	M----d-	NumForm=Digit	0	root	0:root	SpaceAfter=No
-3	.	.	PUNCT	Z	_	2	punct	2:punct	_
-4	Nacionalinę	nacionalinis	ADJ	Agpfsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	2:amod	_
-5	mokėjimo	mokėjimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod	_
-6	prie	prie	ADP	Sgg	AdpType=Prep|Case=Gen	9	case	9:case	_
-7	Žemės	žemė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod	_
-8	ūkio	ūkis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	9:nmod	_
-9	ministerijos	ministerija	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	2	obl:arg	2:obl:arg	_
-10	(	(	PUNCT	Z	_	2	punct	2:punct	SpaceAfter=No
-11	toliau	toli	ADV	Rgc	Degree=Cmp	2	advmod	2:advmod	_
-12	–	–	PUNCT	Z	_	13	punct	13:punct	_
-13	Agentūra	agentūra	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	11	appos	11:appos	SpaceAfter=No
-14	)	)	PUNCT	Z	_	2	punct	2:punct	SpaceAfter=No
-15	:	:	PUNCT	Z	_	2	punct	2:punct	_
+1	2.1	2.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	5	nummod	5:nummod	SpaceAfter=No
+2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
+3	Nacionalinę	nacionalinis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
+4	mokėjimo	mokėjimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
+5	agentūrą	agentūra	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	_
+6	prie	prie	ADP	prl.K.	AdpType=Prep|Case=Gen	9	case	9:case	_
+7	Žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod	_
+8	ūkio	ūkis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	9	nmod	9:nmod	_
+9	ministerijos	ministerija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	5	obl:arg	5:obl:arg	_
+10	(	(	PUNCT	skyr.	_	5	punct	5:punct	SpaceAfter=No
+11	toliau	toli	ADV	prv.aukšt.	Degree=Cmp	5	advmod	5:advmod	_
+12	–	–	PUNCT	skyr.	_	13	punct	13:punct	_
+13	Agentūra	agentūra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	11	appos	11:appos	SpaceAfter=No
+14	)	)	PUNCT	skyr.	_	5	punct	5:punct	SpaceAfter=No
+15	:	:	PUNCT	skyr.	_	5	punct	5:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 22 appos	color:blue
-1	§	§	PUNCT	Z	_	6	punct	6:punct	_
-2	Daugiau	daug	ADV	Rgc	Degree=Cmp	6	advmod	6:advmod	_
-3	nei	nei	SCONJ	Cg	_	4	mark	4:mark	_
-4	pusė	pusė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	_
-5	apklaustųjų	apklausti	VERB	Vgps-pmpnygn-p	Aspect=Perf|Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	_
-6	nepasitikėjo	nepasitikėti	VERB	Vgma3p--y--yi-	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	0:root	_
-7	teismais	teismas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	6	obj	6:obj	_
-8	-	-	PUNCT	Z	_	10	punct	10:punct	_
-9	61	61	NUM	M----d-	NumForm=Digit	10	nummod	10:nummod	_
-10	proc	proc.	X	Ys	Abbr=Yes	2	nmod	2:nmod	SpaceAfter=No
-11	.	.	PUNCT	Z	_	10	punct	10:punct	SpaceAfter=No
-12	,	,	PUNCT	Z	_	6	punct	6:punct	_
-13	savivaldybėmis	savivaldybė	NOUN	Ncfpin-	Case=Ins|Gender=Fem|Number=Plur	6	obj	6:obj	_
-14	-	-	PUNCT	Z	_	16	punct	16:punct	_
-15	56	56	NUM	M----d-	NumForm=Digit	16	nummod	16:nummod	_
-16	proc	proc.	X	Ys	Abbr=Yes	13	appos	13:appos	SpaceAfter=No
-17	.	.	PUNCT	Z	_	16	punct	16:punct	_
-18	komerciniais	komercinis	ADJ	Agpmpin	Case=Ins|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	19	amod	19:amod	_
-19	bankais	bankas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	6	obj	6:obj	_
-20	-	-	PUNCT	Z	_	22	punct	22:punct	_
-21	54	54	NUM	M----d-	NumForm=Digit	22	nummod	22:nummod	_
-22	proc	proc.	X	Ys	Abbr=Yes	19	appos	19:appos	SpaceAfter=No
-23	.	.	PUNCT	Z	_	6	punct	6:punct	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 9 appos	color:blue
+1	Tiesa	tiesa	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
+2	,	,	PUNCT	skyr.	_	1	punct	1:punct	_
+3	stengtis	stengtis	VERB	vksm.bndr.sngr.	Polarity=Pos|Reflex=Yes|VerbForm=Inf	1	csubj	1:csubj	_
+4	būti	būti	AUX	vksm.bndr.	Polarity=Pos|VerbForm=Inf	5	cop	5:cop	_
+5	gražiam	gražus	ADJ	bdv.nelygin.vyr.vns.N.	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	xcomp	3:xcomp	SpaceAfter=No
+6	,	,	PUNCT	skyr.	_	7	punct	7:punct	_
+7	pasitempti	pasitempti	VERB	vksm.bndr.sngr.	Polarity=Pos|Reflex=Yes|VerbForm=Inf	3	conj	1:csubj|3:conj	_
+8	–	–	PUNCT	skyr.	_	9	punct	9:punct	_
+9	sveikintina	sveikinti	VERB	vksm.dlv.reik.bev.	Definite=Ind|Gender=Neut|Mood=Nec|Polarity=Pos|VerbForm=Part	1	appos	1:appos	SpaceAfter=No
+10	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 ~~~
 

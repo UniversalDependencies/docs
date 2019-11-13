@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="de_lit-dep-nmod.html">nmod</a></tt>.
 
-75 nodes (0%) are attached to their parents as `nmod:poss`.
+78 nodes (0%) are attached to their parents as `nmod:poss`.
 
-66 instances of `nmod:poss` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.73333333333333.
+69 instances of `nmod:poss` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.69230769230769.
 
-The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (36; 48% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (21; 28% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (7; 9% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (7; 9% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (38; 49% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-DET.html">DET</a></tt> (20; 26% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (9; 12% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (7; 9% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -38,7 +38,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 3 nmod:poss	color:blue
 1	besonders	besonders	ADV	ADV	_	4	advmod	_	_
-2	wider	wider	ADP	APPR	_	4	advmod	_	_
+2	wider	wider	ADV	ADV	_	4	advmod	_	_
 3	ihre	ihr	DET	PPOSAT	_	4	nmod:poss	_	_
 4	Poesie	Poesie	NOUN	NN	_	0	root	_	SpaceAfter=No
 5	.	--	PUNCT	$.	_	4	punct	_	_
@@ -47,17 +47,23 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nmod:poss	color:blue
-1	Laura	Laura	PROPN	NE	_	5	nsubj	_	_
-2	war	sein	AUX	VAFIN	_	5	cop	_	_
-3	des	der	DET	ART	_	4	det	_	_
-4	Dichters	Dichter	NOUN	NN	_	5	nmod:poss	_	_
-5	Werk	Werk	NOUN	NN	_	0	root	_	SpaceAfter=No
-6	.	--	PUNCT	$.	_	5	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 nmod:poss	color:blue
+1	Es	es	PRON	PPER	_	2	expl	_	_
+2	gibt	geben	VERB	VVFIN	_	0	root	_	_
+3	einen	ein	DET	ART	_	5	det	_	_
+4	andern	anderer	ADJ	ADJA	_	5	amod	_	_
+5	Ehrgeiz	Ehrgeiz	NOUN	NN	_	2	obj	_	SpaceAfter=No
+6	,	--	PUNCT	$,	_	8	punct	_	_
+7	der	der	DET	PRELS	_	8	det	_	_
+8	lieber	lieber	ADV	ADV	_	5	parataxis	_	_
+9	wie	wie	CCONJ	KOKOM	_	11	case	_	_
+10	Tassos	Tasso	PROPN	NE	_	11	nmod:poss	_	_
+11	Gabriel	Gabriel	PROPN	NE	_	8	nmod	_	SpaceAfter=No
+12	:	--	PUNCT	$.	_	2	punct	_	_
 
 ~~~
 

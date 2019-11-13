@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-4456 tokens (28%) have a non-empty value of `Definite`.
+4457 tokens (28%) have a non-empty value of `Definite`.
 2437 types (48%) occur at least once with a non-empty value of `Definite`.
 1258 lemmas (51%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 12 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3034; 19% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (574; 4% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (337; 2% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (124; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (107; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (106; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (97; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (45; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The feature is used with 12 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3035; 19% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (574; 4% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (337; 2% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (124; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (107; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (106; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (97; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (45; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-3034 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (83% of all `NOUN` tokens) have a non-empty value of `Definite`.
+3035 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (83% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3034; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3034; 100%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3035; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3035; 100%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Def` (1164; 38% of non-empty `Definite`): <em>бандитэсь, партизантнэ, кенкшенть, бандитнэ, бандитнэнь, тайганть, веленть, кудонть, роштятнень, чись</em>
-* `Ind` (1870; 62% of non-empty `Definite`): <em>ялгат, кудов, лангс, тев, велень, каськас, ломань, ведь, тол, ёнов</em>
+* `Ind` (1871; 62% of non-empty `Definite`): <em>ялгат, кудов, лангс, тев, велень, каськас, ломань, ведь, тол, ёнов</em>
 * `EMPTY` (601): <em>кедензэ, прянзо, авазо, сельмензэ, кедьсэнзэ, чамазо, аванзо, лангозонзо, пильгензэ, тевензэ</em>
 
 <table>
@@ -180,7 +180,7 @@ The most frequent other feature values with which `ADV` and `Definite` co-occurr
 `ADV` tokens may have the following values of `Definite`:
 
 * `Ind` (45; 100% of non-empty `Definite`): <em>колияк, истямо, косояк, ламо, мекев, секе, сехте, Кодашка, аламодо, алкукскак</em>
-* `EMPTY` (1313): <em>ансяк, кода, пек, истя, уш, ней, мейле, седе, прок, яла</em>
+* `EMPTY` (1312): <em>ансяк, кода, пек, истя, уш, ней, мейле, седе, прок, яла</em>
 
 `Definite` seems to be **lexical feature** of `ADV`. 100% lemmas (24) occur only with one value of `Definite`.
 
@@ -193,7 +193,7 @@ The most frequent other feature values with which `ADP` and `Definite` co-occurr
 `ADP` tokens may have the following values of `Definite`:
 
 * `Ind` (17; 100% of non-empty `Definite`): <em>перька, ваксс, вакссо, томбалев, ало, вакска, кондямокс, латалов, мартонь, удалов</em>
-* `EMPTY` (518): <em>марто, лангс, лангсо, мельга, кис, ёнов, ланга, эйстэ, ланкс, мартонзо</em>
+* `EMPTY` (519): <em>марто, лангс, лангсо, мельга, кис, ёнов, ланга, эйстэ, ланкс, мартонзо</em>
 
 `Definite` seems to be **lexical feature** of `ADP`. 100% lemmas (10) occur only with one value of `Definite`.
 
@@ -215,7 +215,7 @@ The most frequent other feature values with which `AUX` and `Definite` co-occurr
 `AUX` tokens may have the following values of `Definite`:
 
 * `Ind` (4; 100% of non-empty `Definite`): <em>бу</em>
-* `EMPTY` (681): <em>а, аволь, _, эзь, апак, ульнесь, арась, ль, ули, иля</em>
+* `EMPTY` (682): <em>а, аволь, _, эзь, апак, ульнесь, арась, ль, ули, иля</em>
 
 ### `INTJ`
 
@@ -224,12 +224,12 @@ The most frequent other feature values with which `AUX` and `Definite` co-occurr
 `INTJ` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>Бах</em>
-* `EMPTY` (104): <em>вана, ох, виде, ну, Арась, ура, ялгай, Эх, тетяй, Да</em>
+* `EMPTY` (102): <em>вана, ох, виде, ну, Арась, ура, ялгай, Эх, тетяй, Да</em>
 
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (111; 91%),
+<tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (112; 91%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (61; 58%),
 <tt>PROPN --[<tt><a href="myv_jr-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (19; 100%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> NOUN</tt> (13; 57%),

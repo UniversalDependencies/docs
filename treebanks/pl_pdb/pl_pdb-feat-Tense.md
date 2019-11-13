@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-39146 tokens (11%) have a non-empty value of `Tense`.
-11825 types (20%) occur at least once with a non-empty value of `Tense`.
-4401 lemmas (16%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (33583; 10% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (5563; 2% instances).
+39010 tokens (11%) have a non-empty value of `Tense`.
+11822 types (20%) occur at least once with a non-empty value of `Tense`.
+4398 lemmas (16%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (33474; 10% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (5536; 2% instances).
 
 ### `VERB`
 
-33583 <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Tense`.
+33474 <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32766; 98%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (32318; 96%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (32318; 96%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24359; 73%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23639; 70%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (22394; 67%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19314; 58%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32663; 98%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (32210; 96%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (32210; 96%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24277; 73%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23570; 70%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (22317; 67%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19239; 57%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (2003; 6% of non-empty `Tense`): <em>będzie, wystarczy, da, uda, odbędzie, znajdzie, powiem, stanie, będą, pozwoli</em>
-* `Past` (14625; 44% of non-empty `Tense`): <em>miał, było, powiedział, chciał, mógł, miała, mówił, mogli, mieli, był</em>
-* `Pres` (16955; 50% of non-empty `Tense`): <em>ma, może, jest, stoi, można, mówi, siedzi, należy, mam, mogą</em>
-* `EMPTY` (6161): <em>powiedzieć, być, mieć, zrobić, znaleźć, robić, patrzeć, zobaczyć, mówić, wziąć</em>
+* `Fut` (1996; 6% of non-empty `Tense`): <em>będzie, wystarczy, da, uda, odbędzie, znajdzie, powiem, stanie, będą, pozwoli</em>
+* `Past` (14589; 44% of non-empty `Tense`): <em>miał, było, powiedział, chciał, mógł, miała, mówił, mieli, mogli, był</em>
+* `Pres` (16889; 50% of non-empty `Tense`): <em>ma, może, jest, stoi, można, mówi, siedzi, należy, mam, mogą</em>
+* `EMPTY` (6127): <em>powiedzieć, być, mieć, zrobić, znaleźć, robić, patrzeć, zobaczyć, mówić, wziąć</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -55,16 +55,16 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-5563 <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> tokens (63% of all `AUX` tokens) have a non-empty value of `Tense`.
+5536 <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> tokens (63% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="pl_pdb-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (5563; 100%), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5563; 100%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5556; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5556; 100%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4357; 78%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4237; 76%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3795; 68%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3558; 64%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt> (3024; 54%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="pl_pdb-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (5536; 100%), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5536; 100%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5529; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5529; 100%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4332; 78%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4213; 76%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3770; 68%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3538; 64%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt> (3004; 54%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (1093; 20% of non-empty `Tense`): <em>będzie, będą, będziemy, będę, zostanie, zostaną, będziesz, będziecie, bedzie, bedziesz</em>
-* `Past` (1326; 24% of non-empty `Tense`): <em>był, było, była, były, został, została, byli, zostały, zostało, zostali</em>
-* `Pres` (3144; 57% of non-empty `Tense`): <em>jest, to, są, jestem, jesteś, jesteśmy, zostaje, zostają, będąc, bywa</em>
-* `EMPTY` (3208): <em>em, by, m, śmy, być, eś, ś, zostać, niech, ście</em>
+* `Fut` (1091; 20% of non-empty `Tense`): <em>będzie, będą, będziemy, będę, zostanie, zostaną, będziesz, będziecie, bedzie, bedziesz</em>
+* `Past` (1323; 24% of non-empty `Tense`): <em>był, było, była, były, został, została, byli, zostały, zostało, zostali</em>
+* `Pres` (3122; 56% of non-empty `Tense`): <em>jest, to, są, jestem, jesteś, jesteśmy, zostaje, zostają, będąc, bywa</em>
+* `EMPTY` (3195): <em>em, by, m, śmy, być, eś, ś, zostać, niech, ście</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -96,9 +96,10 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> VERB</tt> (4040; 86%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1662; 56%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> VERB</tt> (4030; 86%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1625; 56%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (67; 50%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (48; 73%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-obl-cmpr.html">obl:cmpr</a></tt>]--> VERB</tt> (31; 57%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-advcl-cmpr.html">advcl:cmpr</a></tt>]--> VERB</tt> (34; 62%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%).
 

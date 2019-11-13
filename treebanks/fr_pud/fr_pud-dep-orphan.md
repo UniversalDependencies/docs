@@ -35,7 +35,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 11	nom	_	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
 12	de	_	ADP	IN	_	13	case	_	_
 13	Ciscaucasie	_	PROPN	NNP	Gender=Fem|Number=Sing	11	nmod	_	_
-14	et	_	CCONJ	CC	_	17	cc	_	_
+14	et	_	CCONJ	CC	_	16	cc	_	_
 15	la	_	DET	DT	Gender=Fem|Number=Sing	16	det	_	_
 16	partie	_	NOUN	NN	Gender=Fem|Number=Sing	8	conj	_	orig_deprel=nsubj:pass
 17	sud	_	NOUN	NN	Gender=Fem|Number=Sing	16	compound	_	_
@@ -87,7 +87,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 13	fgColor:white
 # visual-style 13 15 orphan	color:blue
 1	Il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
-2	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
+2	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux:tense	_	_
 3	également	_	ADV	RB	_	4	advmod	_	_
 4	construit	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 5	et	_	CCONJ	CC	_	6	cc	_	_

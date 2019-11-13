@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_French-Spoken: Relations: `nsubj:caus`
 
 This relation is a language-specific subtype of <tt><a href="fr_spoken-dep-nsubj.html">nsubj</a></tt>.
-There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="fr_spoken-dep-nsubj-expl.html">nsubj:expl</a></tt>, <tt><a href="fr_spoken-dep-nsubj-pass.html">nsubj:pass</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fr_spoken-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-18 nodes (0%) are attached to their parents as `nsubj:caus`.
+14 nodes (0%) are attached to their parents as `nsubj:caus`.
 
-18 instances of `nsubj:caus` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.05555555555556.
+14 instances of `nsubj:caus` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.42857142857143.
 
-The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (14; 78% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (4; 22% instances).
+The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (12; 86% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (2; 14% instances).
 
 
 ~~~ conllu
@@ -36,20 +36,22 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 4 nsubj:caus	color:blue
-1	alors	alors	ADV	_	_	8	advmod:periph	_	_
-2	les	le	DET	_	_	3	det	_	_
-3	la	le	DET	_	_	4	det	_	_
-4	probabilité	probabilité	NOUN	_	_	8	nsubj:caus	_	_
-5	ne	ne	PART	_	_	8	advmod	_	_
-6	fait	faire	AUX	_	_	8	aux:caus	_	_
-7	qu'	que	SCONJ	_	_	8	advcl	_	_
-8	augmenter	augmenter	VERB	CAUSATIVE	_	0	root	_	_
-9	avec	avec	ADP	_	_	11	case	_	_
-10	le	le	DET	_	_	11	det	_	_
-11	temps	temps	NOUN	_	_	8	obl:mod	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 4 nsubj:caus	color:blue
+1	je	je	PRON	_	_	2	nsubj	_	_
+2	sais	savoir	VERB	_	_	0	root	_	_
+3	que	que	SCONJ	_	_	10	mark	_	_
+4	bien	bien	NOUN	_	_	10	nsubj:caus	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	les	le	DET	_	_	7	det	_	_
+7	tragédies	tragédie	NOUN	_	_	4	nmod	_	_
+8	aujourd'hui	aujourd'	ADV	_	_	10	advmod	_	_
+9	font	faire	AUX	_	_	10	aux:caus	_	_
+10	douter	douter	VERB	_	_	2	ccomp	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	cette	ce	DET	_	_	13	det	_	_
+13	espérance	espérance	NOUN	_	_	10	obl:arg	_	_
 
 ~~~
 

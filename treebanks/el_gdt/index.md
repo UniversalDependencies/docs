@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Prokopis Prokopidis.
 
 Repository: [UD_Greek-GDT](https://github.com/UniversalDependencies/UD_Greek-GDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gdt22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gdt25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -36,7 +36,7 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | annotated manually, natively in UD style |
+| Lemmas | annotated manually |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
 | XPOS | annotated manually in non-UD style, automatically converted to UD |
 | Features | annotated manually in non-UD style, automatically converted to UD |
@@ -93,7 +93,7 @@ National Technical University of Athens.
 
 ## Relations
 
-[acl](el_gdt-dep-acl.html) – [acl:relcl](el_gdt-dep-acl-relcl.html) – [advcl](el_gdt-dep-advcl.html) – [advmod](el_gdt-dep-advmod.html) – [amod](el_gdt-dep-amod.html) – [appos](el_gdt-dep-appos.html) – [aux](el_gdt-dep-aux.html) – [case](el_gdt-dep-case.html) – [cc](el_gdt-dep-cc.html) – [ccomp](el_gdt-dep-ccomp.html) – [compound](el_gdt-dep-compound.html) – [conj](el_gdt-dep-conj.html) – [cop](el_gdt-dep-cop.html) – [csubj](el_gdt-dep-csubj.html) – [csubj:pass](el_gdt-dep-csubj-pass.html) – [dep](el_gdt-dep-dep.html) – [det](el_gdt-dep-det.html) – [discourse](el_gdt-dep-discourse.html) – [expl](el_gdt-dep-expl.html) – [fixed](el_gdt-dep-fixed.html) – [flat](el_gdt-dep-flat.html) – [iobj](el_gdt-dep-iobj.html) – [mark](el_gdt-dep-mark.html) – [nmod](el_gdt-dep-nmod.html) – [nsubj](el_gdt-dep-nsubj.html) – [nsubj:pass](el_gdt-dep-nsubj-pass.html) – [nummod](el_gdt-dep-nummod.html) – [obj](el_gdt-dep-obj.html) – [obl](el_gdt-dep-obl.html) – [obl:agent](el_gdt-dep-obl-agent.html) – [orphan](el_gdt-dep-orphan.html) – [parataxis](el_gdt-dep-parataxis.html) – [punct](el_gdt-dep-punct.html) – [root](el_gdt-dep-root.html) – [vocative](el_gdt-dep-vocative.html) – [xcomp](el_gdt-dep-xcomp.html)
+[acl](el_gdt-dep-acl.html) – [acl:relcl](el_gdt-dep-acl-relcl.html) – [advcl](el_gdt-dep-advcl.html) – [advmod](el_gdt-dep-advmod.html) – [amod](el_gdt-dep-amod.html) – [appos](el_gdt-dep-appos.html) – [aux](el_gdt-dep-aux.html) – [case](el_gdt-dep-case.html) – [cc](el_gdt-dep-cc.html) – [ccomp](el_gdt-dep-ccomp.html) – [compound](el_gdt-dep-compound.html) – [conj](el_gdt-dep-conj.html) – [cop](el_gdt-dep-cop.html) – [csubj](el_gdt-dep-csubj.html) – [csubj:pass](el_gdt-dep-csubj-pass.html) – [dep](el_gdt-dep-dep.html) – [det](el_gdt-dep-det.html) – [discourse](el_gdt-dep-discourse.html) – [expl](el_gdt-dep-expl.html) – [fixed](el_gdt-dep-fixed.html) – [flat](el_gdt-dep-flat.html) – [iobj](el_gdt-dep-iobj.html) – [mark](el_gdt-dep-mark.html) – [nmod](el_gdt-dep-nmod.html) – [nsubj](el_gdt-dep-nsubj.html) – [nsubj:pass](el_gdt-dep-nsubj-pass.html) – [nummod](el_gdt-dep-nummod.html) – [obj](el_gdt-dep-obj.html) – [obl](el_gdt-dep-obl.html) – [obl:agent](el_gdt-dep-obl-agent.html) – [obl:arg](el_gdt-dep-obl-arg.html) – [orphan](el_gdt-dep-orphan.html) – [parataxis](el_gdt-dep-parataxis.html) – [punct](el_gdt-dep-punct.html) – [root](el_gdt-dep-root.html) – [vocative](el_gdt-dep-vocative.html) – [xcomp](el_gdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -738,6 +738,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>csubj:pass</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>csubj:pass</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

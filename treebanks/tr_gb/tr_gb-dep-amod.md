@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-296 nodes (2%) are attached to their parents as `amod`.
+304 nodes (2%) are attached to their parents as `amod`.
 
-294 instances of `amod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.45608108108108.
+302 instances of `amod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45065789473684.
 
-The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (285; 96% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (294; 97% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	uygun	uygun	ADJ	_	_	5	amod	_	_
 4	bir	bir	DET	_	Definite=Ind|Number=Sing|Polarity=Pos	5	det	_	_
 5	sözcük	sözcük	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
-6	düşünemiyorum	düşün	VERB	_	Aspect=Prog|Mood=Pot|Number=Sing|Person=1|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+6	düşünemiyorum	düşün	VERB	_	Aspect=Prog|Mood=Pot|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -54,18 +54,20 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 3 amod	color:blue
-1	Kedilere	kedi	NOUN	_	Case=Dat|Number=Plur	6	obl	_	_
-2	niye	niye	ADV	_	PronType=Int	6	advmod	_	_
-3	doğru	doğru	ADJ	_	_	6	amod	_	_
-4	dürüst	dürüst	ADJ	_	_	3	fixed	_	_
-5	yemek	yemek	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
-6	vermiyorsun	ver	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
-7	?	?	PUNCT	_	_	6	punct	_	_
+# visual-style 6 4 amod	color:blue
+1	O	o	PRON	_	Case=Nom|Number=Sing	2	obj	_	_
+2	kedinin	kedi	NOUN	_	Case=Gen|Number=Sing	6	nsubj	_	_
+3	insana	insan	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+4	hoş	hoş	ADJ	_	_	6	amod	_	_
+5	bir	bir	DET	_	Definite=Ind|Number=Sing	6	det	_	_
+6	sokuluşu	sokul	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	7	csubj	_	_
+7	var	var	ADJ	_	_	0	root	_	_
+8	dı	i	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

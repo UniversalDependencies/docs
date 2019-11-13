@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-65985 nodes (11%) are attached to their parents as `case`.
+381146 nodes (11%) are attached to their parents as `case`.
 
-65346 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.69881033568235.
+377165 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.74127762064931.
 
-The following 13 pairs of parts of speech are connected with `case`: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (51746; 78% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (9027; 14% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1780; 3% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1432; 2% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (702; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (609; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (440; 1% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (216; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (23; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `case`: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (290060; 76% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (48177; 13% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (12123; 3% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (10645; 3% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (5393; 1% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (4041; 1% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (2315; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (2072; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1991; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (1506; 0% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1342; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (499; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (344; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (164; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (160; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (105; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (79; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (54; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (38; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,12 +22,15 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 case	color:blue
-1	CCC	CCC	PROPN	NE	Case=Nom|Person=3	2	nsubj	_	_
-2	warnt	warnen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	vor	vor	ADP	APPR	Case=Dat	4	case	_	_
-4	Cyber-Krieg	Krieg	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	2	obl	_	_
-5	gegen	gegen	ADP	APPR	Case=Acc	6	case	_	_
-6	Jugoslawien	Jugoslawien	PROPN	NE	Case=Acc|Number=Sing|Person=3	4	nmod	_	_
+1	Die	Die	DET	ART	Case=Nom|Number=Plur|PronType=Art	2	det	_	_
+2	Nachrichten	Nachricht	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	5	nsubj	_	_
+3	vom	vom	ADP	APPRART	AdpType=Prep|Case=Dat|PronType=Art	4	case	_	_
+4	Konkurs	Konkurs	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
+5	entbehren	entbehren	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	jeder	jede	DET	PIDAT	Case=Gen|Gender=Fem|Number=Sing|Person=3	7	det	_	_
+7	Grundlage	Grundlage	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing|Person=3	5	obj	_	_
+8	.	.	PUNCT	$.	PunctType=Peri	5	punct	_	_
+9	"	"	PUNCT	$(	PunctType=Brck	5	punct	_	_
 
 ~~~
 
@@ -39,32 +42,30 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 5 case	color:blue
 1	CCC	CCC	PROPN	NE	Case=Nom|Person=3	2	nsubj	_	_
-2	warnt	warnen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	vor	vor	ADP	APPR	Case=Dat	4	case	_	_
+2	warnt	warnen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	vor	vor	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
 4	Cyber-Krieg	Krieg	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	2	obl	_	_
-5	gegen	gegen	ADP	APPR	Case=Acc	6	case	_	_
+5	gegen	gegen	ADP	APPR	AdpType=Prep|Case=Acc	6	case	_	_
 6	Jugoslawien	Jugoslawien	PROPN	NE	Case=Acc|Number=Sing|Person=3	4	nmod	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 case	color:blue
-1	"	"	PUNCT	$(	_	3	punct	_	_
-2	Namen	Name	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	3	nsubj	_	_
-3	haben	haben	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
-4	für	für	ADP	APPR	_	5	case	_	_
-5	mich	mich	PRON	PPER	Case=Acc|Number=Sing|Person=1	3	obl	_	_
-6	im	im	ADP	APPRART	Case=Dat	7	case	_	_
-7	Internet	Internet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	3	obl	_	_
-8	keine	kein	DET	PIAT	Case=Acc|Gender=Fem|Number=Sing|Person=3	9	det	_	_
-9	Bedeutung	Bedeutung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	obj	_	_
-10	"	"	PUNCT	$(	_	3	punct	_	_
-11	.	.	PUNCT	$.	_	3	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 case	color:blue
+1	Als	Als	CCONJ	KOKOM	ConjType=Comp	2	case	_	_
+2	Zielgruppe	Zielgruppe	NOUN	NN	Gender=Fem|Number=Sing|Person=3	3	obl	_	_
+3	sieht	sehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Meister	Meister	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+5	15	15	NUM	CARD	Number=Plur|NumType=Card|Person=3	3	obj	_	_
+6	bis	bis	ADP	APPR	AdpType=Prep	8	case	_	_
+7	25-jährige	jährig	ADJ	ADJA	Degree=Pos|Number=Plur	8	amod	_	_
+8	Surfer	Surfer	X	FM	Foreign=Yes|Person=3	5	nmod	_	_
+9	.	.	PUNCT	$.	PunctType=Peri	3	punct	_	_
 
 ~~~
 

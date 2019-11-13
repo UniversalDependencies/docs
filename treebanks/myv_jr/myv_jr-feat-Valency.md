@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `1`, `2`.
 
-2514 tokens (16%) have a non-empty value of `Valency`.
+2515 tokens (16%) have a non-empty value of `Valency`.
 1702 types (33%) occur at least once with a non-empty value of `Valency`.
 693 lemmas (28%) occur at least once with a non-empty value of `Valency`.
-The feature is used with 3 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2390; 15% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (109; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (15; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2390; 15% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (110; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (15; 0% instances).
 
 ### `VERB`
 
@@ -45,14 +45,14 @@ The most frequent other feature values with which `VERB` and `Valency` co-occurr
 
 ### `AUX`
 
-109 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (16% of all `AUX` tokens) have a non-empty value of `Valency`.
+110 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (16% of all `AUX` tokens) have a non-empty value of `Valency`.
 
-The most frequent other feature values with which `AUX` and `Valency` co-occurred: <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (108; 99%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (93; 85%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (88; 81%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (73; 67%).
+The most frequent other feature values with which `AUX` and `Valency` co-occurred: <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (109; 99%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (93; 85%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (89; 81%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (74; 67%).
 
 `AUX` tokens may have the following values of `Valency`:
 
-* `1` (107; 98% of non-empty `Valency`): <em>ульнесь, ули, ульнесть, улить, эряви, савсь, сави, улезэ, Эрявсь, савкшнось</em>
-* `2` (2; 2% of non-empty `Valency`): <em>Кадык, эряволь</em>
+* `1` (107; 97% of non-empty `Valency`): <em>ульнесь, ули, ульнесть, улить, эряви, савсь, сави, улезэ, Эрявсь, савкшнось</em>
+* `2` (3; 3% of non-empty `Valency`): <em>кадык, эряволь</em>
 
 <table>
   <tr><th>Paradigm <i>эрявомс</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>

@@ -28,12 +28,12 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 4	China	China	PROPN	_	Number=Sing	2	flat:name	_	_
 5	informou	informar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	_	_	20	mark	_	_
-7	para	para	ADP	_	_	8	mark	_	_
+7	para	para	SCONJ	_	_	8	mark	_	_
 8	redigir	redigir	VERB	_	VerbForm=Inf	20	advcl	_	_
 9	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
 10	dicionário	dicionário	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
 11	de	de	ADP	_	_	14	case	_	_
-12	34	34	NUM	_	_	14	nummod	_	MWE=34_470
+12	34	34	NUM	_	NumType=Card	14	nummod	_	MWE=34_470
 13	470	470	NUM	_	NumType=Card	12	goeswith	_	_
 14	entradas	entrada	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	_
 15	em	em	ADP	_	_	16	case	_	_

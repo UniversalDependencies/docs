@@ -8,12 +8,54 @@ udver: '2'
 
 This relation is universal.
 
-958 nodes (0%) are attached to their parents as `fixed`.
+1714 nodes (1%) are attached to their parents as `fixed`.
 
-958 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25469728601253.
+1714 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.27887981330222.
 
-The following 48 pairs of parts of speech are connected with `fixed`: <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (195; 20% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (129; 13% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (121; 13% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (93; 10% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (61; 6% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (58; 6% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (37; 4% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (27; 3% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (25; 3% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (20; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (20; 2% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (17; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (16; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (16; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (11; 1% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 60 pairs of parts of speech are connected with `fixed`: <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (400; 23% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (290; 17% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (166; 10% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (129; 8% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (129; 8% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (88; 5% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (57; 3% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (49; 3% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (36; 2% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (33; 2% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (32; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (30; 2% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (22; 1% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (21; 1% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (16; 1% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (15; 1% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (9; 1% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	Apesar	apesar	ADV	_	_	4	case	_	MWE=Apesar_de|MWEPOS=ADP
+2	de	de	ADP	_	_	1	fixed	_	_
+3	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	críticas	crítica	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	Vogts	Vogts	PROPN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+7	prefere	preferir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	manter	manter	VERB	_	VerbForm=Inf	7	xcomp	_	_
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	discrição	discrição	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	A	a	ADP	_	_	4	case	_	MWE=A_partir_de|MWEPOS=ADP
+2	partir	partir	NOUN	_	_	1	fixed	_	_
+3	de	de	ADP	_	_	1	fixed	_	_
+4	agora	agora	ADV	_	_	10	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	taxa	taxa	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+8	deve	dever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	sempre	sempre	ADV	_	_	10	advmod	_	_
+10	recuar	recuar	VERB	_	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -33,44 +75,6 @@ The following 48 pairs of parts of speech are connected with `fixed`: <tt><a hre
 9	quatro	quatro	NUM	_	NumType=Card	10	nummod	_	_
 10	anos	ano	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 fixed	color:blue
-1	Cada	cada	DET	_	Gender=Masc|Number=Sing	4	nsubj	_	MWE=Cada_um
-2	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
-3	o	ele	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
-4	fez	fazer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	a	a	ADP	_	Gender=Masc|Number=Sing	4	obl	_	MWE=a_seu_modo
-6	seu	seu	DET	_	Gender=Masc|Number=Sing	7	det	_	_
-7	modo	modo	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 fixed	color:blue
-1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	população	população	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
-3	mundial	mundial	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
-4	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-5	em	em	ADP	_	_	8	case	_	MWE=em_torno_de
-6	torno	torno	NOUN	_	_	5	fixed	_	_
-7	de	de	ADP	_	_	5	fixed	_	_
-8	5,66	5,66	NUM	_	NumType=Card	0	root	_	MWE=5,66_bilhões
-9	bilhões	bilhão	NUM	_	Gender=Masc|Number=Plur|NumType=Card	8	flat	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

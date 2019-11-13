@@ -75,5 +75,5 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>PROPN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3; 100%),
-<tt>X --[<tt><a href="ru_gsd-dep-goeswith.html">goeswith</a></tt>]--> X</tt> (1; 100%).
+<tt>X --[<tt><a href="ru_gsd-dep-list.html">list</a></tt>]--> X</tt> (1; 100%).
 

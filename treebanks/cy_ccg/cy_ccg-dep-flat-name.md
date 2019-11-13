@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cy_ccg-dep-flat.html">flat</a></tt>.
 
-86 nodes (1%) are attached to their parents as `flat:name`.
+134 nodes (1%) are attached to their parents as `flat:name`.
 
-86 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.24418604651163.
+134 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26119402985075.
 
-The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (69; 80% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (7; 8% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (3; 3% instances).
+The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (116; 87% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (7; 5% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (3; 2% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat:name	color:blue
 1	yr	y	PART	aff	_	2	advmod	_	_
-2	wy	bod	VERB	verb	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+2	wy	bod	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
 3	'n	yn	AUX	impf	_	4	aux	_	_
 4	eilio	eilio	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
 5	Elin	Elin	PROPN	person	_	4	obj	_	_
@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a 
 1	Mudiad	mudiad	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	0	root	_	_
 2	ieuenctid	ieuenctid	NOUN	noun	Gender=Masc|Number=Sing	1	nmod	_	_
 3	Cymraeg	Cymraeg	ADJ	pos	Degree=Pos	2	amod	_	_
-4	yw	bod	AUX	aux	Number=Sing|Person=3|Tense=Pres	1	cop	_	_
+4	yw	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	cop	_	_
 5	Urdd	urdd	NOUN	noun	Gender=Fem|Number=Sing	1	nsubj	_	_
 6	Gobaith	gobaith	NOUN	noun	Gender=Masc|Number=Sing	5	flat:name	_	_
 7	Cymru	Cymru	PROPN	place	Gender=Fem|Number=Sing	6	flat:name	_	SpaceAfter=No
@@ -65,7 +65,7 @@ The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a 
 1	Mudiad	mudiad	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	0	root	_	_
 2	ieuenctid	ieuenctid	NOUN	noun	Gender=Masc|Number=Sing	1	nmod	_	_
 3	Cymraeg	Cymraeg	ADJ	pos	Degree=Pos	2	amod	_	_
-4	yw	bod	AUX	aux	Number=Sing|Person=3|Tense=Pres	1	cop	_	_
+4	yw	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	cop	_	_
 5	Urdd	urdd	NOUN	noun	Gender=Fem|Number=Sing	1	nsubj	_	_
 6	Gobaith	gobaith	NOUN	noun	Gender=Masc|Number=Sing	5	flat:name	_	_
 7	Cymru	Cymru	PROPN	place	Gender=Fem|Number=Sing	6	flat:name	_	SpaceAfter=No

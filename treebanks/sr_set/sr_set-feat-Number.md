@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 60467 tokens (62%) have a non-empty value of `Number`.
 18115 types (99%) occur at least once with a non-empty value of `Number`.
 8559 lemmas (90%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23811; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (11028; 11% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (7787; 8% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7407; 8% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (6039; 6% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3441; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (684; 1% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (270; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23811; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10711; 11% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (7787; 8% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7407; 8% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (6039; 6% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3502; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (684; 1% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (526; 1% instances).
 
 ### `NOUN`
 
@@ -37,15 +37,15 @@ The feature is used with 8 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.htm
 
 ### `ADJ`
 
-11028 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (94% of all `ADJ` tokens) have a non-empty value of `Number`.
+10711 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10599; 96%), <tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (9945; 90%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10282; 96%), <tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (9882; 92%), <tt><a href="sr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (9616; 90%), <tt><a href="sr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9616; 90%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (3563; 32% of non-empty `Number`): <em>inostranih, drugim, mnogi, drugih, političkih, unutrašnjih, novih, drugi, nove, kiparskih</em>
-* `Sing` (7465; 68% of non-empty `Number`): <em>prošle, novi, bivši, prvi, novog, Crne, srpske, glavni, veliki, drugi</em>
-* `EMPTY` (694): <em>2007., 2004., 21., 1., 9., 12., 2008., 28., 17., 14.</em>
+* `Plur` (3468; 32% of non-empty `Number`): <em>inostranih, političkih, mnogi, drugim, unutrašnjih, novih, nove, drugih, drugi, kiparskih</em>
+* `Sing` (7243; 68% of non-empty `Number`): <em>prošle, novi, bivši, novog, Crne, srpske, glavni, veliki, evropske, srpski</em>
+* `EMPTY` (140): <em>2008., 2006., tzv., 2004, 2010, 2011., 1999., 2004., 2007., 2009.</em>
 
 <table>
   <tr><th>Paradigm <i>nov</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -155,15 +155,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `DET`
 
-3441 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+3502 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3094; 90%), <tt><a href="sr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3077; 89%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3073; 89%), <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2683; 78%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3134; 89%), <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2744; 78%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (1066; 31% of non-empty `Number`): <em>koji, koje, svoje, kojima, neki, sve, koja, svojih, tih, neke</em>
-* `Sing` (2375; 69% of non-empty `Number`): <em>koji, to, koja, ove, toga, koju, taj, svoj, tom, svoju</em>
-* `EMPTY` (4): <em>neko, nekoga</em>
+* `Plur` (1110; 32% of non-empty `Number`): <em>koji, koje, svoje, kojima, sve, neki, koja, svojih, svi, svih</em>
+* `Sing` (2392; 68% of non-empty `Number`): <em>koji, to, koja, ove, toga, koju, taj, svoj, tom, svoju</em>
+* `EMPTY` (164): <em>nekoliko, više, bilo, puno, koliko, mnogo, toliko, malo, manje, neko</em>
 
 <table>
   <tr><th>Paradigm <i>koji</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -220,45 +220,47 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `NUM`
 
-270 <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> tokens (21% of all `NUM` tokens) have a non-empty value of `Number`.
+526 <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> tokens (25% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (270; 100%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (153; 57%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (270; 51%), <tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (270; 51%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (67; 25% of non-empty `Number`): <em>dve, dveju, dva, obe, jedni, oba, tri, trima</em>
-* `Sing` (203; 75% of non-empty `Number`): <em>jedan, jedna, jedne, jednog, jednom, jedno, jednoj, jednu, jednim, dva</em>
-* `EMPTY` (999): <em>tri, dva, pet, četiri, 20, deset, šest, 50, 10, sedam</em>
+* `Plur` (118; 22% of non-empty `Number`): <em>dve, prvih, drugih, devedesetih, dveju, drugim, prve, druge, drugi, dva</em>
+* `Sing` (408; 78% of non-empty `Number`): <em>jedan, prvi, jedna, prva, jedne, drugi, jednog, jednom, jedno, jednoj</em>
+* `EMPTY` (1553): <em>tri, dva, pet, četiri, 20, deset, šest, 21., 1., 2007.</em>
 
 <table>
   <tr><th>Paradigm <i>jedan</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jednog</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jedan</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jednu</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>jedno</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jednom</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jednoj</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jednog</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jedne</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jednim</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jednom</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jednom</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jednoj</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>jednom</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jedan</em></td><td><em>jedni</em></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jedna</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>jedno</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jednog</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jedan</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jedan</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jednu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jedno</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jednom</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jednoj</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jednog</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jedne</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jednim</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jednom</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jednoj</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jednom</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jednoj</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jednom</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jedan</em></td><td><em>jedni</em></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jedna</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>jedno</em></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="sr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8047; 99%),
+<tt>NOUN --[<tt><a href="sr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8051; 99%),
 <tt>NOUN --[<tt><a href="sr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4019; 64%),
 <tt>VERB --[<tt><a href="sr_set-dep-aux.html">aux</a></tt>]--> AUX</tt> (2972; 87%),
 <tt>VERB --[<tt><a href="sr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2790; 86%),
 <tt>VERB --[<tt><a href="sr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2312; 60%),
-<tt>NOUN --[<tt><a href="sr_set-dep-det.html">det</a></tt>]--> DET</tt> (1626; 99%),
+<tt>NOUN --[<tt><a href="sr_set-dep-det.html">det</a></tt>]--> DET</tt> (1677; 99%),
 <tt>VERB --[<tt><a href="sr_set-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1447; 53%),
 <tt>NOUN --[<tt><a href="sr_set-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1411; 73%),
 <tt>PROPN --[<tt><a href="sr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1311; 99%),

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1101 nodes (8%) are attached to their parents as `amod`.
+1264 nodes (7%) are attached to their parents as `amod`.
 
-945 instances of `amod` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.53133514986376.
+1080 instances of `amod` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.54430379746835.
 
-The following 15 pairs of parts of speech are connected with `amod`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1053; 96% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (21; 2% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `amod`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1203; 95% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (22; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,34 +58,19 @@ The following 15 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 15 amod	color:blue
-1	А	а	CCONJ	_	_	3	cc	_	_
-2	не	не	PART	_	Polarity=Neg	3	advmod	_	_
-3	пристати	пристати	VERB	_	Aspect=Perf|VerbForm=Inf	0	root	_	_
-4	ти	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
-5	к	къ	ADP	_	_	6	case	_	_
-6	татаром	татаринъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	3	obl	_	_
-7	и	и	CCONJ	_	_	9	cc	_	_
-8	к	къ	ADP	_	_	9	case	_	_
-9	Литвѣ	Литва	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	6	conj	_	_
-10	никоторою	никоторый	DET	_	Case=Ins|Gender=Fem|Number=Sing	11	det	_	_
-11	хитростью	хитрость	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	iobj	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	17	punct	_	_
-13	ни	ни	CCONJ	_	_	17	cc	_	_
-14	к	къ	ADP	_	_	15	case	_	_
-15	иномꙋ	иной	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	17	amod	_	_
-16	х	къ	ADP	_	_	17	case	_	_
-17	комꙋ	кто	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Int	6	conj	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	22	punct	_	_
-19	кто	кто	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	22	nsubj	_	_
-20	бꙋдет	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	22	cop	_	_
-21	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	22	iobj	_	_
-22	недрꙋг	недругъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	acl:relcl	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 amod	color:blue
+1	А	а	CCONJ	_	_	5	cc	_	_
+2	жены	жена	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	5	aux	_	_
+4	ваши	вашъ	DET	_	Case=Nom|Gender=Fem|Number=Plur|Poss=Yes	2	det	_	_
+5	имели	имѣти	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes	0	root	_	_
+6	покровены	покрыти	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	amod	_	_
+7	главы	глава	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

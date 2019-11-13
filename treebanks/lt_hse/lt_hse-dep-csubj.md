@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `csubj`.
+7 nodes (0%) are attached to their parents as `csubj`.
 
-4 instances of `csubj` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.66666666666667.
+4 instances of `csubj` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.
 
-The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (3; 50% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (2; 33% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (1; 17% instances).
+The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (3; 43% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (2; 29% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (2; 29% instances).
 
 
 ~~~ conllu
@@ -51,6 +51,47 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 30	bgColor:blue
+# visual-style 30	fgColor:white
+# visual-style 30 24 csubj	color:blue
+1	Mat	mat	PART	UH	_	12	discourse	_	En=because
+2	nors	nors	PART	UH	_	12	nmod	_	En=though
+3	savirašiai	savirašis	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	En=self-writing
+4	prietaisai	prietaisas	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	En=device|SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	8	punct	_	En=,
+6	dar	dar	ADV	RB	Degree=Pos	8	advmod	_	En=yet
+7	kitaip	kitaip	ADV	RB	Degree=Pos	8	advmod	_	En=otherwise
+8	vadinami	vadinti	VERB	VBNL	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Act	4	acl:relcl	_	En=call
+9	juodosiomis	juodas	ADJ	JJL	Case=Ins|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	10	amod	_	En=black
+10	dėžėmis	dėžė	NOUN	NN	Case=Ins|Gender=Fem|Number=Plur	8	iobj	_	En=box|SpaceAfter=No
+11	,	,	PUNCT	PUNCT	_	8	punct	_	En=,
+12	pagaminti	pagaminti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	30	advcl	_	En=manufacture
+13	taip	taip	ADV	RB	Degree=Pos	12	advmod	_	En=so|SpaceAfter=No
+14	,	,	PUNCT	PUNCT	_	16	punct	_	En=,
+15	kad	kad	SCONJ	UH	_	16	mark	_	En=that
+16	atlaikytų	atlaikyti	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Polarity=Pos|Reflex=No|VerbForm=Fin|Voice=Act	12	conj	_	En=survive
+17	ypač	ypač	ADV	RB	Degree=Pos	18	advmod	_	En=especially
+18	stiprius	stiprus	ADJ	JJL	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	19	amod	_	En=strong
+19	smūgius	smūgis	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	16	obj	_	En=hit
+20	katastrofų	katastrofa	NOUN	NN	Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	En=catastrophy
+21	metu	metas	NOUN	NN	Case=Ins|Gender=Masc|Number=Sing	19	nmod	_	En=time|SpaceAfter=No
+22	,	,	PUNCT	PUNCT	_	16	punct	_	En=,
+23	juos	jie	PRON	PRP	Case=Acc|Number=Plur|Person=3	24	obj	_	En=he
+24	aptikti	aptikti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	30	csubj	_	En=find
+25	jūros	jūra	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	En=sea
+26	dugne	dugnas	NOUN	NN	Case=Loc|Gender=Masc|Number=Sing	24	obl	_	En=bed
+27	neretai	neretai	ADV	RB	Degree=Pos|Polarity=Neg	30	advmod	_	En=frequently
+28	būna	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	30	aux	_	En=be
+29	ypač	ypač	ADV	RB	Degree=Pos	30	advmod	_	En=especially
+30	sunku	sunkus	ADJ	PRED	Definite=Ind|Degree=Pos|Gender=Neut	0	root	_	En=difficult|SpaceAfter=No
+31	.	.	PUNCT	PUNCT	_	30	punct	_	En=.
+
+~~~
+
+
+~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 11	bgColor:blue
@@ -79,69 +120,6 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 21	dūstu	dusti	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	14	appos	_	En=suffocate|SpaceAfter=No
 22	“	“	PUNCT	PUNCT	_	21	punct	_	En=“|SpaceAfter=No
 23	.	.	PUNCT	PUNCT	_	11	punct	_	En=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
-# visual-style 31	bgColor:blue
-# visual-style 31	fgColor:white
-# visual-style 31 32 csubj	color:blue
-1	Tikras	tikras	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	En=true
-2	lietuvis	lietuvis	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	nsubj	_	En=Lithianian
-3	yra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	En=be
-4	tik	tik	ADV	RB	Degree=Pos	5	advmod	_	En=only
-5	tas	tas	PRON	DT	Case=Nom|Gender=Masc|Number=Sing	0	root	_	En=this|SpaceAfter=No
-6	,	,	PUNCT	PUNCT	_	7	punct	_	En=,
-7	kuris	kuris	PRON	WPA	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	En=which
-8	nemėgsta	mėgti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	En=like|SpaceAfter=No
-9	,	,	PUNCT	PUNCT	_	13	punct	_	En=,
-10	o	o	CCONJ	CC	_	13	cc	_	En=and
-11	dar	dar	ADV	RB	Degree=Pos	12	advmod	_	En=even
-12	geriau	gerai	ADV	RBR	Degree=Cmp	13	advmod	_	En=better
-13	nekenčia	nekęsti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	En=hate
-14	rusų	rusas	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	13	obj	_	En=Russian|SpaceAfter=No
-15	,	,	PUNCT	PUNCT	_	16	punct	_	En=,
-16	lenkų	lenkas	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	14	conj	_	En=Polish|SpaceAfter=No
-17	,	,	PUNCT	PUNCT	_	18	punct	_	En=,
-18	žydų	žydas	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	14	conj	_	En=Jews|SpaceAfter=No
-19	,	,	PUNCT	PUNCT	_	23	punct	_	En=,
-20	taip	taip	CCONJ	CC	_	23	cc	_	En=as_well_as
-21	pat	pat	PART	UH	_	20	fixed	_	En=as_well_as
-22	ir	ir	PART	UH	_	20	fixed	_	En=as_well_as
-23	vakariečių	vakarietis	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	14	conj	_	En=Western_people|SpaceAfter=No
-24	,	,	PUNCT	PUNCT	_	25	punct	_	En=,
-25	mėgsta	mėgti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	En=like
-26	nebent	nebent	SCONJ	UH	_	27	mark	_	En=unless
-27	palestiniečius	palestinietis	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	25	obj	_	En=Palestinians
-28	(	(	PUNCT	PUNCT	_	31	punct	_	En=(|SpaceAfter=No
-29	beje	beje	PART	PARENTH	_	31	parataxis	_	En=by_the_way|SpaceAfter=No
-30	,	,	PUNCT	PUNCT	_	29	punct	_	En=,
-31	nesunku	nesunkus	ADJ	PRED	Definite=Ind|Degree=Pos|Gender=Neut|Polarity=Neg	27	parataxis	_	En=not_difficult
-32	įsivaizduoti	įsivaizduoti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	31	csubj	_	En=imagine|SpaceAfter=No
-33	,	,	PUNCT	PUNCT	_	37	punct	_	En=,
-34	ką	kas	PRON	WP	Case=Acc	38	obj	_	En=what
-35	mūsų	mūsų	DET	PRP$	_	36	det	_	En=our
-36	patriotai	patriotas	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	37	nsubj	_	En=patriot
-37	pradėtų	pradėti	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Polarity=Pos|Reflex=No|VerbForm=Fin|Voice=Act	32	ccomp	_	En=start
-38	sakyti	sakyti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	37	xcomp	_	En=say
-39	apie	apie	ADP	UH	_	40	case	_	En=about
-40	palestiniečius	palestinietis	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	38	obl	_	En=Palestinians|SpaceAfter=No
-41	,	,	PUNCT	PUNCT	_	45	punct	_	En=,
-42	jeigu	jeigu	SCONJ	UH	_	45	mark	_	En=if
-43	su	su	ADP	UH	_	44	case	_	En=with
-44	jais	jie	PRON	PRP	Case=Ins|Number=Plur|Person=3	45	obl	_	En=they
-45	susidurtų	susidurti	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Polarity=Pos|Reflex=Yes|VerbForm=Fin|Voice=Act	37	advcl	_	En=confront
-46	kasdienybėje	kasdienybė	NOUN	NN	Case=Loc|Gender=Fem|Number=Sing	45	obl	_	En=daily_life|SpaceAfter=No
-47	,	,	PUNCT	PUNCT	_	49	punct	_	En=,
-48	kaip	kaip	ADV	WRB	Degree=Pos	49	advmod	_	En=just_as
-49	susidūrė	susidurti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	45	advcl	_	En=confront
-50	su	su	ADP	UH	_	51	case	_	En=with
-51	čečėnais	čečėnas	NOUN	NN	Case=Ins|Gender=Masc|Number=Plur	49	obl	_	En=Chechen|SpaceAfter=No
-52	)	)	PUNCT	PUNCT	_	31	punct	_	En=)|SpaceAfter=No
-53	.	.	PUNCT	PUNCT	_	5	punct	_	En=.
 
 ~~~
 

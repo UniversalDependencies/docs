@@ -117,7 +117,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Conv` (1; 100% of non-empty `VerbForm`): <em>rekoč</em>
-* `EMPTY` (2871): <em>tako, zdaj, a, pol, kako, lahko, tam, kar, potem, res</em>
+* `EMPTY` (2872): <em>tako, zdaj, a, pol, kako, lahko, tam, kar, potem, res</em>
 
 ## Relations with Agreement in `VerbForm`
 
@@ -131,5 +131,5 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt>]--> VERB</tt> (41; 71%),
 <tt>ADJ --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5; 63%),
 <tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (2; 100%),
-<tt>AUX --[<tt><a href="sl_sst-dep-parataxis-discourse.html">parataxis:discourse</a></tt>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%).
 

@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 4	рещи	рещи	VERB	_	Aspect=Perf|VerbForm=Inf	2	parataxis	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	и	и	CCONJ	_	_	8	cc	_	_
-7	безаконное	безаконный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Long	8	amod	_	_
+7	безаконное	беззаконный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Long	8	amod	_	_
 8	поумѣние	поумѣние	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	conj	_	_
 9	тогда	тогда	ADV	_	Degree=Pos	10	advmod	_	_
 10	обрѣте	обрѣсти	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	2	parataxis	_	_
@@ -66,7 +66,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 26	гради	градъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	27	obl	_	_
 27	погубити	погубити	VERB	_	Aspect=Perf|VerbForm=Inf	19	conj	_	_
 28	и	и	CCONJ	_	_	31	cc	_	_
-29	зборищу	зборище	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	31	iobj	_	_
+29	зборищу	сборище	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	31	iobj	_	_
 30	лукавому	лукавый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Variant=Long	29	amod	_	_
 31	предати	предати	VERB	_	Aspect=Perf|VerbForm=Inf	27	conj	_	SpaceAfter=No
 32	,	,	PUNCT	_	_	35	punct	_	_
@@ -85,7 +85,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 9	fgColor:white
 # visual-style 9 8 discourse	color:blue
 1	На	на	ADP	_	_	2	case	_	_
-2	мьзды	мьзда	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	_
+2	мьзды	мзда	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	_
 3	ли	ли	PART	_	_	4	advmod	_	_
 4	предаеши	предаяти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	врагом	врагъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	4	iobj	_	_

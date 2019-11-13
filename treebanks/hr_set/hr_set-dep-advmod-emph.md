@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="hr_set-dep-advmod.h
 43 instances of `advmod:emph` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.02325581395349.
 
-The following 3 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (40; 93% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (39; 91% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -56,30 +56,35 @@ The following 3 pairs of parts of speech are connected with `advmod:emph`: <tt><
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 advmod:emph	color:blue
-1	Oko	oko	ADV	Rgp	Degree=Pos	2	advmod:emph	_	_
-2	30%	30%	SYM	Mds	NumType=Mult	17	obj	_	_
-3	cijene	cijena	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	ToDo=nmod
-4	izgradnje	izgradnja	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
-5	muzeja	muzej	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
-6	i	i	CCONJ	Cc	_	4	cc	_	ToDo=cc-without-conj
-7	transporta	transport	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	4	case	_	_
-8	izložaka	izložak	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
-9	-	-	PUNCT	Z	_	12	punct	_	_
-10	što	što	PRON	Pi3n-n	Case=Nom|Gender=Neut|PronType=Int,Rel	12	nsubj	_	_
-11	ukupno	ukupno	ADV	Rgp	Degree=Pos	12	advmod	_	_
-12	iznosi	iznositi	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
-13	129	129	NUM	Mdc	NumType=Card	14	compound	_	_
-14	milijuna	milijun	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	12	obl	_	_
-15	eura	euro	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
-16	-	-	PUNCT	Z	_	12	punct	_	_
-17	pokriva	pokrivati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-18	EU	EU	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	SpaceAfter=No
-19	.	.	PUNCT	Z	_	17	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 16 advmod:emph	color:blue
+1	Sejdiu	Sejdiu	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	kaže	kazati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	da	da	SCONJ	Cs	_	6	mark	_	_
+4	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	to	taj	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
+6	premalo	premalo	ADV	Rgp	Degree=Pos	2	ccomp	_	SpaceAfter=No
+7	,	,	PUNCT	Z	_	15	punct	_	_
+8	te	te	CCONJ	Cc	_	15	cc	_	_
+9	da	da	SCONJ	Cs	_	15	mark	_	_
+10	su	biti	AUX	Var3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+11	neke	neki	DET	Pi-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	12	det	_	_
+12	zemlje	zemlja	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	_
+13	u	u	ADP	Sl	Case=Loc	14	case	_	_
+14	regiji	regija	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	12	nmod	_	_
+15	prodavale	prodavati	VERB	Vmp-pf	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	conj	_	_
+16	samo	samo	ADV	Rgp	Degree=Pos	17	advmod:emph	_	_
+17	jednu	jedan	DET	Mlcfsa	Case=Acc|Gender=Fem|Number=Sing|NumType=Card	20	det	_	_
+18	ili	ili	CCONJ	Cc	_	19	cc	_	_
+19	nekoliko	nekoliko	ADV	Rgp	Degree=Pos|PronType=Ind	17	conj	_	_
+20	tvrtki	tvrtka	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	15	obj	_	_
+21	po	po	ADP	Sl	Case=Loc	23	case	_	_
+22	toj	taj	DET	Pd-fsl	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	_
+23	cijeni	cijena	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+24	.	.	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 

@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` lemmas: <em>ay, maşallah, aaa, aferin, haydi, işte
 
 The 10 most frequent `INTJ` types:  <em>Ay, maşallah, Aaa, Aferin, Haydi, Lütfen, Tabii, Yok, işte</em>
 
-The 10 most frequent ambiguous lemmas: <em>ay</em> (<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> 2), <em>işte</em> (<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 7, <tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> 1), <em>tabii</em> (<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> 1), <em>yok</em> (<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> 58, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ay</em> (<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> 2), <em>işte</em> (<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 7, <tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> 1), <em>tabii</em> (<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> 1), <em>yok</em> (<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> 58, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>Tabii</em> (<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> 1), <em>Yok</em> (<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> 1), <em>işte</em> (<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>Tabii</em> (<tt><a href="tr_gb-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.314222).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.302829).
 
 The 1st highest number of forms (1) was observed with the lemma “aaa”: <em>Aaa</em>.
 

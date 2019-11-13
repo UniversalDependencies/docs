@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="sl_ssj-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-4668 nodes (3%) are attached to their parents as `cc`.
+4667 nodes (3%) are attached to their parents as `cc`.
 
-4668 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.40231362467866.
+4667 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.39875723162631.
 
-The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (1870; 40% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (1753; 38% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (636; 14% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (180; 4% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (75; 2% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (37; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (31; 1% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (26; 1% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (25; 1% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `cc`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (1869; 40% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (1747; 37% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (636; 14% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (180; 4% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (75; 2% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (39; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (35; 1% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (26; 1% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (24; 1% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 7	in	in	CCONJ	Cc	_	9	cc	_	Dep=9|Rel=Conj
 8	navadne	navaden	ADJ	Agpmpa	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	Dep=9|Rel=Atr
 9	državljane	državljan	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No|Dep=6|Rel=Coord
-10	.	.	PUNCT	Z	_	3	punct	_	Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	3	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 6	dvesto	dvesto	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 7	petdeset	petdeset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 8	milijonov	milijon	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No|Dep=3|Rel=Coord
-9	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
+9	.	.	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 
@@ -70,7 +70,7 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 6	pisanja	pisanje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	Dep=5|Rel=Atr
 7	poročila	poročilo	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	Dep=6|Rel=Atr
 8	drugačna	drugačen	ADJ	Agpmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual	0	root	_	SpaceAfter=No|Dep=2|Rel=Atr
-9	.	.	PUNCT	Z	_	8	punct	_	Dep=0|Rel=Root
+9	.	.	PUNCT	Z	_	8	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 

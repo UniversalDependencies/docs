@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 2 4 ccomp	color:blue
 1	Où	où	ADV	_	PronType=Int	2	obl:arg	_	_
 2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	se	le/lui	PRON	_	Person=3|Reflex=Yes	4	expl	_	_
+3	se	le/lui	PRON	_	Person=3|Reflex=Yes	4	expl:comp	_	_
 4	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 5	South	South	PROPN	_	_	2	nsubj	_	_
 6	Bend	Bend	PROPN	_	_	5	flat:name	_	_

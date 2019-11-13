@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `csubj`.
+10 nodes (0%) are attached to their parents as `csubj`.
 
-9 instances of `csubj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.44444444444444.
+10 instances of `csubj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.5.
 
-The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (4; 44% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (2; 22% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (2; 22% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
+The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (4; 40% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (3; 30% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (3; 30% instances).
 
 
 ~~~ conllu
@@ -53,27 +53,25 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 8 csubj	color:blue
-1	Мне	я	PRON	PRP	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
-2	здаецца	здавацца	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	PUNCT	_	8	punct	_	_
-4	што	што	SCONJ	IN	_	8	mark	_	_
-5	сітуацыя	сітуацыя	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
-6	ў	ў	ADP	IN	_	7	case	_	_
-7	вас	вы	PRON	PRP	Case=Gen|Number=Plur|Person=2|PronType=Prs	5	nmod	_	_
-8	нагадвае	нагадваць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	_	_
-9	сітуацыю	сітуацыя	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
-10	ў	ў	ADP	IN	_	11	case	_	_
-11	Чэхіі	Чэхія	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	_
-12	ў	ў	ADP	IN	_	13	case	_	_
-13	пачатку	пачатак	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	nmod	_	_
-14	XIX	XIX	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
-15	стагоддзя	стагоддзе	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	PUNCT	_	2	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 13 csubj	color:blue
+1	Сёння	сёння	ADV	RB	Degree=Pos	5	advmod	_	_
+2	ніхто	ніхто	PRON	DT	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	5	nsubj	_	_
+3	ўжо	ўжо	ADV	RB	Degree=Pos	5	advmod	_	_
+4	не	не	PART	UH	Polarity=Neg	5	advmod	_	_
+5	размаўляе	размаўляць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	на	на	ADP	IN	_	8	case	_	_
+7	беларускай	беларускі	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	мове	мова	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	PUNCT	_	10	punct	_	_
+10	трэба	трэба	VERB	PRED	_	5	conj	_	_
+11	з	з	ADP	IN	_	12	case	_	_
+12	гэтым	гэта	PRON	DT	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	13	obl	_	_
+13	прымірыцца	прымірыцца	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Mid	10	csubj	_	SpaceAfter=No
+14	...	...	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 

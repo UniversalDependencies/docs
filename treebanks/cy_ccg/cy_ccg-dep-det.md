@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-736 nodes (7%) are attached to their parents as `det`.
+1119 nodes (7%) are attached to their parents as `det`.
 
-705 instances of `det` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.06114130434783.
+1073 instances of `det` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05719392314567.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (645; 88% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (39; 5% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (14; 2% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (989; 88% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (55; 5% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (31; 3% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (20; 2% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 11	fgColor:white
 # visual-style 11 10 det	color:blue
 1	yr	y	PART	aff	_	2	advmod	_	_
-2	wy	bod	VERB	verb	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+2	wy	bod	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
 3	'n	yn	AUX	impf	_	4	aux	_	_
 4	eilio	eilio	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
 5	Elin	Elin	PROPN	person	_	4	obj	_	_
@@ -44,16 +44,16 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 det	color:blue
-1	Adawes	gadael	VERB	verb	Gender=Fem|Mutation=SM|Number=Sing|Person=1|Tense=Past	0	root	_	_
+1	Adawes	gadael	VERB	verb	Gender=Fem|Mood=Ind|Mutation=SM|Number=Sing|Person=1|Tense=Past	0	root	_	_
 2	i	i	PRON	indep	Number=Sing|Person=1	1	nsubj	_	SpaceAfter=No
 3	'm	fy	PRON	dep	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
-4	sgidiau	esgid	NOUN	noun	Number=Plur	1	obj	_	_
+4	sgidiau	esgid	NOUN	noun	Gender=Fem|Number=Plur	1	obj	_	_
 5	fi	i	PRON	indep	Number=Sing|Person=1|PronType=Prs	4	expl	_	_
 6	rywle	rhywle	ADV	adv	Mutation=SM	1	advcl	_	_
 7	fan	man	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	6	obl	_	_
 8	hyn	hyn	PRON	dem	Number=Plur|PronType=Dem	7	det	_	SpaceAfter=No
 9	,	,	PUNCT	punct	_	13	punct	_	_
-10	dw	bod	AUX	aux	Number=Sing|Person=1|Tense=Pres	13	cop	_	_
+10	dw	bod	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Pres	13	cop	_	_
 11	i	i	PRON	indep	Number=Sing|Person=1	13	nsubj	_	SpaceAfter=No
 12	'n	yn	PART	pred	_	13	case:pred	_	_
 13	siŵr	siŵr	ADJ	pos	Degree=Pos	1	parataxis	_	SpaceAfter=No
@@ -63,30 +63,26 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 17 det	color:blue
-1	Fe	fe	PART	aff	_	3	advmod	_	SpaceAfter=No
-2	'i	ei	PRON	dep	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-3	lleolir	lleoli	VERB	verb	Person=Impers|Tense=Pres	0	root	_	_
-4	oddi	oddi	ADP	prep	_	6	case	_	_
-5	ar	ar	ADP	prep	_	4	fixed	_	_
-6	flaen	blaen	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	3	obl	_	_
-7	deheuol	eheuol	ADJ	pos	Degree=Pos|Mutation=SM	6	amod	_	_
-8	Gorynys	Gorynys	PROPN	place	Gender=Masc|Number=Sing	6	nmod	_	_
-9	Malaya	Malaya	PROPN	place	Gender=Masc|Number=Sing	8	flat:name	_	SpaceAfter=No
-10	,	,	PUNCT	punct	_	12	punct	_	_
-11	137	137	NUM	num	_	12	nummod	_	_
-12	km	km	NOUN	noun	Gender=Masc|Number=Sing	15	nmod	_	_
-13	i	i	ADP	prep	_	15	case	_	SpaceAfter=No
-14	'r	y	DET	art	_	15	det	_	_
-15	gogledd	gogledd	NOUN	noun	Gender=Masc|Number=Sing	3	obl	_	_
-16	o	o	ADP	prep	_	18	case	_	SpaceAfter=No
-17	'r	y	DET	art	_	18	det	_	_
-18	Cyhydedd	Cyhydedd	PROPN	place	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
-19	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\n
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 13 det	color:blue
+1	Cafodd	cael	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+2	yr	y	DET	art	_	3	det	_	_
+3	ymgyrch	ymgyrch	NOUN	noun	Gender=Fem|Number=Sing	1	nsubj	_	_
+4	yn	yn	AUX	impf	_	5	aux	_	_
+5	cael	cael	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
+6	ei	ei	PRON	dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+7	lansio	lansio	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	5	ccomp	_	_
+8	ar	ar	ADP	prep	_	9	case	_	_
+9	Faes	maes	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	7	obl	_	_
+10	y	y	DET	art	_	11	det	_	_
+11	Brifwyl	prifwyl	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	9	nmod	_	_
+12	yn	yn	ADP	prep	_	14	case	_	_
+13	y	y	DET	art	_	14	det	_	_
+14	Fenni	Fenni	PROPN	place	Number=Sing	9	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

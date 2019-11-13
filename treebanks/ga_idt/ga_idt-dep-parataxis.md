@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-32 nodes (0%) are attached to their parents as `parataxis`.
+215 nodes (1%) are attached to their parents as `parataxis`.
 
-31 instances of `parataxis` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 20.3125.
+207 instances of `parataxis` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 15.2372093023256.
 
-The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (17; 53% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (3; 9% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (3; 9% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (3; 9% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances).
+The following 34 pairs of parts of speech are connected with `parataxis`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (54; 25% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (36; 17% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (29; 13% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (22; 10% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (13; 6% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (4; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,52 +42,38 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 14 parataxis	color:blue
-1	Ní	is	AUX	Cop	Polarity=Neg|Tense=Pres|VerbForm=Cop	2	cop	_	_
-2	cosúil	cosúil	ADJ	Adj	Degree=Pos	0	root	_	_
-3	go	go	PART	Vb	PartType=Cmpl	4	mark:prt	_	_
-4	raibh	bí	VERB	PastInd	Form=Ecl|Mood=Ind|Tense=Past	2	csubj:cop	_	_
-5	mórán	mórán	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	nsubj	_	_
-6	le	le	ADP	Cmpd	PrepForm=Cmpd	9	case	_	_
-7	cois	cois	ADP	Cmpd	_	6	fixed	_	_
-8	dhá	dó	NUM	Num	NumType=Card	9	nummod	_	_
-9	scór	scór	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	5	nmod	_	_
-10	uilig	uile	DET	Det	_	9	det	_	_
-11	acu	ag	ADP	Prep	Number=Plur|Person=3	10	compound	_	_
-12	istigh	istigh	ADV	Dir	_	4	xcomp:pred	_	_
-13	-	-	PUNCT	Punct	_	14	punct	_	_
-14	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	2	parataxis	_	_
-15	100	100	NUM	Num	_	14	nsubj	_	_
-16	i	i	ADP	Simp	_	17	case	_	_
-17	nGaillimh	Gaillimh	PROPN	Noun	Case=NomAcc|Form=Ecl|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
-18	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 7 parataxis	color:blue
+1	Athróidh	athraigh	VERB	VTI	Mood=Ind|Tense=Fut	0	root	_	_
+2	seo	seo	PRON	Dem	PronType=Dem	1	det	_	_
+3	luath	luath	ADJ	Adj	Degree=Pos	2	amod	_	_
+4	go	go	ADJ	Adj	Number=Sing	2	amod	_	_
+5	leor	leor	ADJ	Adj	_	4	flat	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	7	punct	_	_
+7	seans	seans	NOUN	Noun	Gender=Masc|Number=Sing	1	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 9 parataxis	color:blue
-1	Bricfeasta	bricfeasta	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	0	root	_	_
-2	Gaelach	gaelach	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	1	amod	_	_
-3	sa	i	ADP	Art	Number=Sing|PronType=Art	4	case	_	_
-4	bhialann	bialann	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	_
-5	2.00-6.00	2.00-6.00	NUM	Num	_	4	nummod	_	_
-6	in	i	ADP	Simp	_	7	case	_	_
-7	BRICRIÚ	BRICRIÚ	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
-8	:	:	PUNCT	Punct	_	9	punct	_	_
-9	Beidh	bí	VERB	FutInd	Mood=Ind|Tense=Fut	1	parataxis	_	_
-10	mé	mé	PRON	Pers	Number=Sing|Person=1	9	nsubj	_	_
-11	díreach	díreach	ADJ	Adj	Degree=Pos	9	xcomp:pred	_	_
-12	leat	le	ADP	Prep	Number=Sing|Person=2	9	obl:prep	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 1 6 parataxis	color:blue
+1	Litir	litir	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	_
+2	as	as	ADP	Simp	_	3	case	_	_
+3	Meiricea	Meiricea	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	nmod	_	_
+4	-	-	PUNCT	Punct	_	6	punct	_	_
+5	I	I	ADP	Simp	_	6	case	_	_
+6	mbeal	mbeal	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	parataxis	_	_
+7	na	na	DET	Art	PronType=Art	8	det	_	_
+8	Gaoithe	Gaoithe	PROPN	Noun	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

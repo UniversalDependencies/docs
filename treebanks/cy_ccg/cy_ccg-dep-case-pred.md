@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cy_ccg-dep-case.html">case</a></tt>.
 
-227 nodes (2%) are attached to their parents as `case:pred`.
+369 nodes (2%) are attached to their parents as `case:pred`.
 
-227 instances of `case:pred` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07488986784141.
+369 instances of `case:pred` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.06775067750678.
 
-The following 6 pairs of parts of speech are connected with `case:pred`: <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (151; 67% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (66; 29% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `case:pred`: <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (242; 66% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (110; 30% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (9; 2% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `case:pred`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 case:pred	color:blue
-1	Mae	bod	AUX	aux	Number=Sing|Person=3|Tense=Pres	7	cop	_	SpaceAfter=No
+1	Mae	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	SpaceAfter=No
 2	'r	y	DET	art	_	3	det	_	_
 3	duw	duw	NOUN	noun	Gender=Masc|Number=Sing	7	nsubj	_	_
 4	hwn	hwn	PRON	dem	Gender=Masc|PronType=Dem	3	amod	_	_
@@ -44,7 +44,7 @@ The following 6 pairs of parts of speech are connected with `case:pred`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 case:pred	color:blue
-1	Mae	bod	AUX	aux	Number=Sing|Person=3|Tense=Pres	3	cop	_	SpaceAfter=No
+1	Mae	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	SpaceAfter=No
 2	'n	yn	PART	pred	_	3	case:pred	_	_
 3	rhaid	rhaid	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
 4	i	i	ADP	prep	_	5	case	_	_
@@ -58,27 +58,24 @@ The following 6 pairs of parts of speech are connected with `case:pred`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 case:pred	color:blue
-1	Yn	yn	PART	pred	_	2	case:pred	_	_
-2	ddigon	digon	ADV	adv	Mutation=SM	7	advmod	_	_
-3	naturiol	naturiol	ADJ	pos	Degree=Pos	2	amod	_	_
-4	mae	bod	AUX	aux	Number=Sing|Person=3|Tense=Pres	7	cop	_	_
-5	bwyta	bwyta	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	7	nsubj	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 case:pred	color:blue
+1	Yr	y	DET	art	_	2	det	_	_
+2	addysg	addysg	NOUN	noun	Gender=Fem|Number=Sing	9	nsubj	_	_
+3	gorau	da	ADJ	sup	Degree=Sup	2	amod	_	_
+4	i	i	ADP	prep	_	5	case	_	_
+5	blentyn	plentyn	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	2	nmod	_	_
 6	yn	yn	PART	pred	_	7	case:pred	_	_
-7	rhan	rhan	NOUN	noun	Gender=Fem|Number=Sing	0	root	_	_
-8	bwysig	pwysig	ADJ	pos	Degree=Pos|Mutation=SM	7	amod	_	_
-9	o	o	ADP	prep	_	11	case	_	_
-10	bob	pob	ADJ	pos	Degree=Pos|Mutation=SM	11	amod	_	_
-11	gwyliau	gŵyl	NOUN	noun	Gender=Fem|Number=Plur	7	nmod	_	_
-12	a	a	CCONJ	cconj	_	14	cc	_	_
-13	phob	pob	ADJ	pos	Degree=Pos|Mutation=AM	14	amod	_	_
-14	taith	taith	NOUN	noun	Gender=Fem|Number=Sing	11	conj	_	_
-15	tramor	tramor	ADJ	pos	Degree=Pos	14	amod	_	SpaceAfter=No
-16	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\n
+7	aml	aml	ADV	adv	_	5	advmod	_	_
+8	yw	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
+9	addysg	addysg	NOUN	noun	Gender=Fem|Number=Sing	0	root	_	_
+10	mewn	mewn	ADP	prep	_	11	case	_	_
+11	ysgol	ysgol	NOUN	noun	Gender=Fem|Number=Sing	9	nmod	_	_
+12	leol	lleol	ADJ	pos	Degree=Pos|Gender=Fem|Mutation=SM|Number=Sing	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	punct	_	9	punct	_	_
 
 ~~~
 

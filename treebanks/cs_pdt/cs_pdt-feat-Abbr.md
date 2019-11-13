@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `CCONJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (192; 100% of non-empty `Abbr`): <em>tj, tzn, n</em>
-* `EMPTY` (56685): <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
+* `EMPTY` (56681): <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
 
 ### `ADP`
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 `DET` tokens may have the following values of `Abbr`:
 
 * `Yes` (21; 100% of non-empty `Abbr`): <em>t, n, mn, vš</em>
-* `EMPTY` (56106): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
+* `EMPTY` (56091): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
 ### `X`
 
@@ -124,7 +124,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `PART` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>CA</em>
-* `EMPTY` (8514): <em>jen, až, asi, li, ne, nejen, prý, to, jenom, ano</em>
+* `EMPTY` (8529): <em>jen, až, asi, li, ne, nejen, prý, to, jenom, ano</em>
 
 ## Relations with Agreement in `Abbr`
 
@@ -134,9 +134,9 @@ The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>PROPN --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (15; 60%),
 <tt>X --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> X</tt> (9; 100%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (5; 83%),
+<tt>DET --[<tt><a href="cs_pdt-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (4; 100%),
 <tt>ADV --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADV --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>PART --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>ADP --[<tt><a href="cs_pdt-dep-dep.html">dep</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>ADP --[<tt><a href="cs_pdt-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADP --[<tt><a href="cs_pdt-dep-dep.html">dep</a></tt>]--> NOUN</tt> (1; 100%).
 

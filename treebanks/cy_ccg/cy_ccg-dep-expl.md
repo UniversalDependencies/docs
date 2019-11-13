@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24 nodes (0%) are attached to their parents as `expl`.
+32 nodes (0%) are attached to their parents as `expl`.
 
-19 instances of `expl` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.20833333333333.
+27 instances of `expl` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15625.
 
-The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (20; 83% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (4; 17% instances).
+The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (28; 88% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (4; 13% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 expl	color:blue
-1	Mae	bod	VERB	verb	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 2	hi	hi	PRON	indep	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	SpaceAfter=No
 3	'n	yn	AUX	impf	_	5	aux	_	_
 4	dy	dy	PRON	dep	Number=Sing|Person=2|PronType=Prs	5	obj	_	_
@@ -40,7 +40,7 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 7 expl	color:blue
 1	yr	y	PART	aff	_	2	advmod	_	_
-2	wy	bod	VERB	verb	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+2	wy	bod	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
 3	'n	yn	AUX	impf	_	4	aux	_	_
 4	teimlo	teimlo	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
 5	eich	eich	PRON	dep	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	_

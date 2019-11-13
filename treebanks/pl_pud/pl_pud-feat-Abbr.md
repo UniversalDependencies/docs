@@ -16,20 +16,20 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pl_pud-pos-X.html">
 
 ### `X`
 
-154 <tt><a href="pl_pud-pos-X.html">X</a></tt> tokens (39% of all `X` tokens) have a non-empty value of `Abbr`.
+154 <tt><a href="pl_pud-pos-X.html">X</a></tt> tokens (67% of all `X` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="pl_pud-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (154; 100%), <tt><a href="pl_pud-feat-Pun.html">Pun</a></tt><tt>=Yes</tt> (146; 95%).
+The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="pl_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (154; 100%), <tt><a href="pl_pud-feat-Pun.html">Pun</a></tt><tt>=Yes</tt> (146; 95%).
 
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (154; 100% of non-empty `Abbr`): <em>r, p.n.e, w, C, mld, św, Z, n.e, ws, dr</em>
-* `EMPTY` (241): <em>I, II, the, 2014, 2015, III, 1492, 2010, 2012, 2017</em>
+* `EMPTY` (76): <em>of, the, de, 2004, 2016, El, Von, 'Ya, 1.165, 1918</em>
 
 `Abbr` seems to be **lexical feature** of `X`. 100% lemmas (13) occur only with one value of `Abbr`.
 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>X --[<tt><a href="pl_pud-dep-nmod.html">nmod</a></tt>]--> X</tt> (12; 92%),
-<tt>X --[<tt><a href="pl_pud-dep-fixed.html">fixed</a></tt>]--> X</tt> (2; 67%).
+<tt>X --[<tt><a href="pl_pud-dep-amod.html">amod</a></tt>]--> X</tt> (12; 100%),
+<tt>X --[<tt><a href="pl_pud-dep-fixed.html">fixed</a></tt>]--> X</tt> (2; 100%).
 

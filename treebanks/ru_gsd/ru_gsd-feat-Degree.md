@@ -104,7 +104,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> ADJ</tt> (423; 99%),
-<tt>ADJ --[<tt><a href="ru_gsd-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (189; 69%),
+<tt>ADJ --[<tt><a href="ru_gsd-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (191; 69%),
 <tt>ADJ --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (124; 98%),
 <tt>ADJ --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (68; 100%),
 <tt>ADV --[<tt><a href="ru_gsd-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (43; 63%),

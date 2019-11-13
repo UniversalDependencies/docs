@@ -9,7 +9,7 @@ udver: '2'
 There are 21 `PROPN` lemmas (4%), 22 `PROPN` types (4%) and 31 `PROPN` tokens (2%).
 Out of 15 observed tags, the rank of `PROPN` is: 8 in number of lemmas, 8 in number of types and 12 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>Иван, из, Ляпин, Азия, Генриетта, Дань, Елена, Зӧт, Красный, Микул</em>
+The 10 most frequent `PROPN` lemmas: <em>Иван, из, Ляпин, Азия, Генриетта, Дань, Елена, Зӧт, Йӧртым, Красный</em>
 
 The 10 most frequent `PROPN` types:  <em>Иван, Из, Азии, Генриетта, Дань, Елена, Зӧт, Йӧртым, Красный, Ляпинын</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.047619 (the average of all parts of speech is 1.198459).
+The form / lemma ratio of `PROPN` is 1.047619 (the average of all parts of speech is 1.221569).
 
 The 1st highest number of forms (2) was observed with the lemma “Ляпин”: <em>Ляпинын, Ляпиныс</em>.
 
@@ -29,13 +29,13 @@ The 2nd highest number of forms (1) was observed with the lemma “Азия”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “Генриетта”: <em>Генриетта</em>.
 
-`PROPN` occurs with 4 features: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (30; 97% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (28; 90% instances), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt> (1; 3% instances)
+`PROPN` occurs with 4 features: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (31; 100% instances), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (30; 97% instances), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt> (1; 3% instances)
 
 `PROPN` occurs with 9 feature-value pairs: `Case=Dat`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=3`
 
-`PROPN` occurs with 9 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (18 tokens).
-Examples: <em>Иван, Генриетта, Дань, Елена, Зӧт, Из, Йӧртым, Красный, Микул, Октябрь</em>
+`PROPN` occurs with 8 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing` (21 tokens).
+Examples: <em>Иван, Из, Генриетта, Дань, Елена, Зӧт, Йӧртым, Красный, Микул, Октябрь</em>
 
 
 ## Relations

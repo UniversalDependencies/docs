@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-135 nodes (3%) are attached to their parents as `mark`.
+137 nodes (3%) are attached to their parents as `mark`.
 
-132 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.66666666666667.
+134 instances of `mark` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.63503649635036.
 
-The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (86; 64% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (23; 17% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (13; 10% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt>-<tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (87; 64% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (24; 18% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (13; 9% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt>-<tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -59,7 +59,7 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 13	buvo	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	21	cop	_	En=be
 14	–	–	PUNCT	PUNCT	_	16	punct	_	En=–
 15	nors	nors	SCONJ	UH	_	16	mark	_	En=though
-16	nebėra	bebūti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	13	parataxis	_	En=remain
+16	nebėra	bebūti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	En=remain
 17	–	–	PUNCT	PUNCT	_	16	punct	_	En=–
 18	agrarinė	agrarinis	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	En=farmer|SpaceAfter=No
 19	,	,	PUNCT	PUNCT	_	20	punct	_	En=,

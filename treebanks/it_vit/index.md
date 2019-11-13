@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Fabio Tamburini, Maria Simi, Cristina Bosco.
 
 Repository: [UD_Italian-VIT](https://github.com/UniversalDependencies/UD_Italian-VIT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_vit22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_vit25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -82,6 +82,8 @@ Dependency-Graph Rewriting In Proc. of the Fourth International
 Conference on Dependency Linguistics - Depling 2017, Pisa, 18-20
 September 2017, 248-254.
 
+
+
 # Statistics of UD Italian VIT
 
 ## POS Tags
@@ -94,13 +96,13 @@ September 2017, 248-254.
 
 ## Relations
 
-[acl](it_vit-dep-acl.html) – [acl:relcl](it_vit-dep-acl-relcl.html) – [advcl](it_vit-dep-advcl.html) – [advmod](it_vit-dep-advmod.html) – [amod](it_vit-dep-amod.html) – [appos](it_vit-dep-appos.html) – [aux](it_vit-dep-aux.html) – [aux:pass](it_vit-dep-aux-pass.html) – [case](it_vit-dep-case.html) – [cc](it_vit-dep-cc.html) – [ccomp](it_vit-dep-ccomp.html) – [compound](it_vit-dep-compound.html) – [conj](it_vit-dep-conj.html) – [cop](it_vit-dep-cop.html) – [csubj](it_vit-dep-csubj.html) – [dep](it_vit-dep-dep.html) – [det](it_vit-dep-det.html) – [det:poss](it_vit-dep-det-poss.html) – [det:predet](it_vit-dep-det-predet.html) – [discourse](it_vit-dep-discourse.html) – [dislocated](it_vit-dep-dislocated.html) – [expl](it_vit-dep-expl.html) – [expl:impers](it_vit-dep-expl-impers.html) – [fixed](it_vit-dep-fixed.html) – [flat](it_vit-dep-flat.html) – [flat:foreign](it_vit-dep-flat-foreign.html) – [flat:name](it_vit-dep-flat-name.html) – [iobj](it_vit-dep-iobj.html) – [mark](it_vit-dep-mark.html) – [nmod](it_vit-dep-nmod.html) – [nsubj](it_vit-dep-nsubj.html) – [nsubj:pass](it_vit-dep-nsubj-pass.html) – [nummod](it_vit-dep-nummod.html) – [obj](it_vit-dep-obj.html) – [obl](it_vit-dep-obl.html) – [obl:agent](it_vit-dep-obl-agent.html) – [orphan](it_vit-dep-orphan.html) – [parataxis](it_vit-dep-parataxis.html) – [punct](it_vit-dep-punct.html) – [root](it_vit-dep-root.html) – [vocative](it_vit-dep-vocative.html) – [xcomp](it_vit-dep-xcomp.html)
+[acl](it_vit-dep-acl.html) – [acl:relcl](it_vit-dep-acl-relcl.html) – [advcl](it_vit-dep-advcl.html) – [advmod](it_vit-dep-advmod.html) – [amod](it_vit-dep-amod.html) – [appos](it_vit-dep-appos.html) – [aux](it_vit-dep-aux.html) – [aux:pass](it_vit-dep-aux-pass.html) – [case](it_vit-dep-case.html) – [cc](it_vit-dep-cc.html) – [ccomp](it_vit-dep-ccomp.html) – [compound](it_vit-dep-compound.html) – [conj](it_vit-dep-conj.html) – [cop](it_vit-dep-cop.html) – [csubj](it_vit-dep-csubj.html) – [dep](it_vit-dep-dep.html) – [det](it_vit-dep-det.html) – [det:poss](it_vit-dep-det-poss.html) – [det:predet](it_vit-dep-det-predet.html) – [discourse](it_vit-dep-discourse.html) – [dislocated](it_vit-dep-dislocated.html) – [expl](it_vit-dep-expl.html) – [expl:impers](it_vit-dep-expl-impers.html) – [expl:pass](it_vit-dep-expl-pass.html) – [fixed](it_vit-dep-fixed.html) – [flat](it_vit-dep-flat.html) – [flat:foreign](it_vit-dep-flat-foreign.html) – [flat:name](it_vit-dep-flat-name.html) – [iobj](it_vit-dep-iobj.html) – [mark](it_vit-dep-mark.html) – [nmod](it_vit-dep-nmod.html) – [nsubj](it_vit-dep-nsubj.html) – [nsubj:pass](it_vit-dep-nsubj-pass.html) – [nummod](it_vit-dep-nummod.html) – [obj](it_vit-dep-obj.html) – [obl](it_vit-dep-obl.html) – [obl:agent](it_vit-dep-obl-agent.html) – [orphan](it_vit-dep-orphan.html) – [parataxis](it_vit-dep-parataxis.html) – [punct](it_vit-dep-punct.html) – [root](it_vit-dep-root.html) – [vocative](it_vit-dep-vocative.html) – [xcomp](it_vit-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 10087 sentences, 259575 tokens and 279839 syntactic words.</li>
+<li>This corpus contains 10087 sentences, 259573 tokens and 279840 syntactic words.</li>
 </ul>
 
 <ul>
@@ -112,12 +114,12 @@ September 2017, 248-254.
 </ul>
 
 <ul>
-<li>This corpus contains 84 types of words that contain both letters and punctuation. Examples: l', d', un', c', quest', s', all', dell', vent', anch', trent', tutt', com', /ter, c-c, cos', g-1, quarant', 14/a, baby-sitter, centro-sinistra, dev', g/1, joint-venture, senz', 1990-equ-100, Banfield-tripcovich, Bèghin-say, Lehnigk-emden, Sant', bloc-notes, dall', h-1, mezz', nient', qual', sessant', 's, /bis, 0,03%minus, 108/a, 12-mo, 38-ma, 5/h9/051, 500-equ-250, Alain-gauze, Avanti_!, Champs-elysées, Fim-cisl, Grafico-1</li>
+<li>This corpus contains 85 types of words that contain both letters and punctuation. Examples: l', d', un', c', quest', s', all', dell', vent', anch', trent', tutt', com', /ter, c-c, cos', g-1, quarant', 14/a, baby-sitter, centro-sinistra, dev', g/1, joint-venture, senz', 1990-equ-100, Banfield-tripcovich, Bèghin-say, Lehnigk-emden, Sant', bloc-notes, dall', h-1, mezz', nient', qual', sessant', 's, /bis, 0,03%minus, 108/a, 12-mo, 38-ma, 5/h9/051, 500-equ-250, Alain-gauze, Avanti_!, Champs-elysées, Fim-cisl, Grafico-1</li>
 </ul>
 
 <ul>
-<li>This corpus contains 20256 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 556 types of multi-word tokens. Examples: del, della, al, dei, dell', delle, nel, alla, all', nella, ai, dal, dalla, degli, alle, sul, dall', nell', sulla, nei, nelle, agli, dello, sui, dalle, dai, negli, sulle, sull', dagli, allo, nello, sugli, dallo, col, sullo, farsi, essersi, farlo, misurarsi, coi, darsi, trovarsi, disporsi, impegnarsi, porsi, averla, battersi, confrontarsi, diffondersi.</li>
+<li>This corpus contains 20259 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 558 types of multi-word tokens. Examples: del, della, al, dei, dell', delle, nel, alla, all', nella, ai, dal, dalla, degli, alle, sul, dall', nell', sulla, nei, nelle, agli, dello, sui, dalle, dai, negli, sulle, sull', dagli, allo, nello, sugli, dallo, col, sullo, farsi, essersi, farlo, misurarsi, coi, darsi, trovarsi, disporsi, impegnarsi, porsi, averla, battersi, confrontarsi, diffondersi.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -589,7 +591,6 @@ September 2017, 248-254.
       <li>DET: un', una</li>
       <li>NOUN: 6</li>
       <li>NUM: due, tre, cento, 15, 1, 1973, 2, quattro, 30, 6</li>
-      <li>PUNCT: ...</li>
     </ul>
   </li>
 </ul>
@@ -719,14 +720,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (4)</li>
       <li>VERB--PRON (4)</li>
-      <li>VERB-Fin--NOUN (2811)</li>
+      <li>VERB-Fin--NOUN (2814)</li>
       <li>VERB-Fin--PRON (1637)</li>
       <li>VERB-Ger--NOUN (38)</li>
       <li>VERB-Ger--PRON (30)</li>
       <li>VERB-Inf--NOUN (408)</li>
       <li>VERB-Inf--PRON (177)</li>
-      <li>VERB-Part--NOUN (1228)</li>
-      <li>VERB-Part--PRON (538)</li>
+      <li>VERB-Part--NOUN (1230)</li>
+      <li>VERB-Part--PRON (537)</li>
     </ul>
   </li>
 </ul>
@@ -736,14 +737,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (93)</li>
       <li>VERB--PRON (4)</li>
-      <li>VERB-Fin--NOUN (2220)</li>
-      <li>VERB-Fin--PRON (502)</li>
+      <li>VERB-Fin--NOUN (2218)</li>
+      <li>VERB-Fin--PRON (517)</li>
       <li>VERB-Ger--NOUN (372)</li>
       <li>VERB-Ger--PRON (43)</li>
-      <li>VERB-Inf--NOUN (2202)</li>
-      <li>VERB-Inf--PRON (253)</li>
-      <li>VERB-Part--NOUN (1252)</li>
-      <li>VERB-Part--PRON (324)</li>
+      <li>VERB-Inf--NOUN (2205)</li>
+      <li>VERB-Inf--PRON (256)</li>
+      <li>VERB-Part--NOUN (1251)</li>
+      <li>VERB-Part--PRON (327)</li>
     </ul>
   </li>
 </ul>
@@ -752,20 +753,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB--PRON (2)</li>
-      <li>VERB-Fin--PRON (13)</li>
+      <li>VERB-Fin--PRON (85)</li>
+      <li>VERB-Ger--PRON (2)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--PRON (7)</li>
-      <li>VERB-Part--PRON (9)</li>
+      <li>VERB-Inf--PRON (29)</li>
+      <li>VERB-Part--PRON (52)</li>
     </ul>
   </li>
 </ul>
 
 
+<h3>Reflexive Passive</h3>
+
+<ul>
+  <li>This corpus contains 1 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: determinare si</li>
+</ul>
 
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>expl:impers</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

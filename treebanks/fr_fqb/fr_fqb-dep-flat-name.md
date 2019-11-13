@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="fr_fqb-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-570 nodes (2%) are attached to their parents as `flat:name`.
+581 nodes (2%) are attached to their parents as `flat:name`.
 
-570 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13859649122807.
+581 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.1342512908778.
 
-The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (552; 97% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (18; 3% instances).
+The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (569; 98% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (12; 2% instances).
 
 
 ~~~ conllu
@@ -26,12 +26,12 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 1	Quand	quand	ADV	_	PronType=Int	10	advmod	_	_
 2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	cardinal	cardinal	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
-4	Juan	Juan	PROPN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+4	Juan	Juan	PROPN	_	Gender=Masc|Number=Sing	3	appos	_	_
 5	Jesus	Jesus	PROPN	_	Gender=Masc|Number=Sing	4	flat:name	_	_
-6	Posadas	Posadas	PROPN	_	_	3	nmod	_	_
-7	Ocampo	Ocampo	PROPN	_	_	3	nmod	_	_
-8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	SpaceAfter=No
-9	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	10	expl	_	_
+6	Posadas	Posadas	PROPN	_	_	4	flat:name	_	_
+7	Ocampo	Ocampo	PROPN	_	_	4	flat:name	_	_
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	SpaceAfter=No
+9	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	10	expl:subj	_	_
 10	mort	mourir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	?	?	PUNCT	_	_	10	punct	_	_
 

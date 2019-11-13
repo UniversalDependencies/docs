@@ -11,10 +11,10 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="myv_jr-feat-Person.html">Person</a></tt>, <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt>.
 
-429 tokens (3%) have a non-empty value of `Person[obj]`.
+430 tokens (3%) have a non-empty value of `Person[obj]`.
 325 types (6%) occur at least once with a non-empty value of `Person[obj]`.
 193 lemmas (8%) occur at least once with a non-empty value of `Person[obj]`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (411; 3% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (18; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (411; 3% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (19; 0% instances).
 
 ### `VERB`
 
@@ -38,9 +38,9 @@ The most frequent other feature values with which `VERB` and `Person[obj]` co-oc
 
 ### `AUX`
 
-18 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Person[obj]`.
+19 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Person[obj]`.
 
-The most frequent other feature values with which `AUX` and `Person[obj]` co-occurred: <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (17; 94%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (16; 89%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Prt1</tt> (15; 83%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13; 72%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (13; 72%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (13; 72%).
+The most frequent other feature values with which `AUX` and `Person[obj]` co-occurred: <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (17; 89%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (16; 84%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Prt1</tt> (16; 84%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14; 74%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (14; 74%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (13; 68%).
 
 `AUX` tokens may have the following values of `Person[obj]`:
 

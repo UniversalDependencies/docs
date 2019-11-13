@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Tommi A Pirinen.
 
 Repository: [UD_Karelian-KKPP](https://github.com/UniversalDependencies/UD_Karelian-KKPP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkrl_kkpp22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkrl_kkpp25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 4.0
 
@@ -36,7 +36,7 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | annotated manually, natively in UD style |
+| Lemmas | annotated manually |
 | UPOS | annotated manually, natively in UD style |
 | XPOS | not available |
 | Features | annotated manually, natively in UD style |
@@ -74,6 +74,7 @@ finding equivalent examples from Finnish treebanks.
 * Ahtia, Edvard Vilhelm. *Karjalan kielioppi.* Karjalan Kansalaisseura, (1938).
 * [Karjalan kielen
 verkkosanakirja](http://kaino.kotus.fi/cgi-bin/kks/kks_etusivu.cgi)
+
 
 # Statistics of UD Karelian KKPP
 
@@ -124,7 +125,7 @@ verkkosanakirja](http://kaino.kotus.fi/cgi-bin/kks/kks_etusivu.cgi)
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as pronouns (PRON): hiän, hyö, iče, joka, jokahini, kaikki, ken, koko, kumpaine, mi, mie, mitänä, molompi, moni, muu, myö, ne, nämä, sie, toini, työ, tämä, še</li>
+<li>This corpus contains 24 lemmas tagged as pronouns (PRON): hiän, hyö, iče, joka, jokahini, kaikki, ken, kennih, koko, kumpaine, mi, mie, mitänä, molompi, moni, muu, myö, ne, nämä, sie, toini, työ, tämä, še</li>
 </ul>
 
 <ul>
@@ -135,7 +136,7 @@ verkkosanakirja](http://kaino.kotus.fi/cgi-bin/kks/kks_etusivu.cgi)
 </ul>
 
 <ul>
-<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): ei, kennih, olla, piteä, voija</li>
+<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): ei, olla, piteä, voija</li>
 </ul>
 
 <ul>
@@ -532,7 +533,7 @@ verkkosanakirja](http://kaino.kotus.fi/cgi-bin/kks/kks_etusivu.cgi)
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: kaikki, kaikin, kumpaset, kumpasien, kumpaista, kumpasešta, monet, muut, muuta, Jokahini</li>
+      <li>PRON: kaikki, kaikin, kumpaset, kumpasien, kennih, kumpaista, kumpasešta, monet, muut, muuta</li>
     </ul>
   </li>
 </ul>
@@ -670,8 +671,8 @@ verkkosanakirja](http://kaino.kotus.fi/cgi-bin/kks/kks_etusivu.cgi)
       <li>Yes
         <ul>
           <li>AUX: ole</li>
-          <li>VERB: huomata, järješšän, kuottele, käynyn, käyvä, miellytä, pitän, tahton, tunneta, šano</li>
-          <li>VERB-Fin: huomata, järješšän, kuottele, käynyn, käyvä, pitän, tahton, tunneta, šano</li>
+          <li>VERB: huomata, järješšän, kuottele, käynyn, käyvä, miellytä, pitän, tahton, tunneta</li>
+          <li>VERB-Fin: huomata, järješšän, kuottele, käynyn, käyvä, pitän, tahton, tunneta</li>
         </ul>
       </li>
     </ul>
@@ -731,7 +732,7 @@ verkkosanakirja](http://kaino.kotus.fi/cgi-bin/kks/kks_etusivu.cgi)
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: olla, ei, voija, piteä, kennih.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: olla, ei, voija, piteä.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: olla.</li>
 </ul>
 
@@ -745,6 +746,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN-Nom (72)</li>
       <li>VERB-Fin--NOUN-Par (2)</li>
+      <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Ela (1)</li>
       <li>VERB-Fin--PRON-Nom (80)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>

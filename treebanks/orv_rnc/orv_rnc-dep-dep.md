@@ -56,7 +56,7 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 14	Яков	Яковъ	PROPN	OOV|Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	13	appos	_	_
 15	Ниэнборх	Ниэнборхъ	PROPN	OOV|Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	14	flat:name	_	SpaceAfter=No
 16	:	:	PUNCT	_	_	17	punct	_	_
-17	пришол	прийти	VERB	Transit=Intr	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	7	parataxis	_	_
+17	пришол	приити	VERB	Transit=Intr	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	7	parataxis	_	_
 18	де	де	PART	_	_	17	advmod	_	_
 19	к	къ	ADP	_	_	20	case	_	_
 20	нему	онъ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
@@ -116,7 +116,7 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 74	Полочах	Полочи	PROPN	OOV|Animacy[lex]=Inan	Case=Loc|Gender=Fem|Number=Plur	69	acl	_	SpaceAfter=No
 75	,	,	PUNCT	_	_	78	punct	_	_
 76	за	за	ADP	_	_	78	case	_	_
-77	Тверскими	тверский	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Variant=Long	78	amod	_	_
+77	Тверскими	тверской	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Variant=Long	78	amod	_	_
 78	вороты	ворота	NOUN	Animacy[lex]=Inan	Case=Ins|Gender=Neut|Number=Plur	74	nmod	_	SpaceAfter=No
 79	,	,	PUNCT	_	_	82	punct	_	_
 80	на	на	ADP	_	_	81	case	_	_
@@ -144,7 +144,7 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 102	на	на	ADP	_	_	103	case	_	_
 103	поединке	поединокъ	NOUN	OOV|Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Sing	97	obl	_	_
 104	со	съ	ADP	_	_	105	case	_	_
-105	пьяна	пьянъ	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	97	obl	_	SpaceAfter=No
+105	пьяна	пьяный	ADJ	OOV|Animacy[lex]=Inan	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	97	obl	_	SpaceAfter=No
 106	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
@@ -187,14 +187,14 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 29	указ	указъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	28	obj	_	_
 30	что	что	SCONJ	_	_	31	mark	_	_
 31	жит	жити	VERB	_	Aspect=Imp|VerbForm=Inf	29	nmod	_	_
-32	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	31	aux	_	_
+32	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	31	aux	_	_
 33	мужику	мужикъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	31	iobj	_	_
 34	с	съ	ADP	_	_	36	case	_	_
-35	ннешнеи	нынешний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	36	amod	_	_
+35	ннешнеи	нынѣшний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	36	amod	_	_
 36	женкои	женка	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	31	obl	_	_
 37	і	и	CCONJ	_	_	40	cc	_	_
 38	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	40	nsubj	_	_
-39	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	40	aux	_	_
+39	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	40	aux	_	_
 40	сталъ	стати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	0	root	_	_
 41	і	и	CCONJ	_	_	43	cc	_	_
 42	мужиком	мужикъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	43	obj	_	_

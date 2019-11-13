@@ -87,6 +87,5 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="el_gdt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (70; 92%),
 <tt>VERB --[<tt><a href="el_gdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (43; 90%),
 <tt>VERB --[<tt><a href="el_gdt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (40; 95%),
-<tt>VERB --[<tt><a href="el_gdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (5; 100%),
-<tt>VERB --[<tt><a href="el_gdt-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="el_gdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (6; 100%).
 

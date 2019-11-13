@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 2 1 compound:redup	color:blue
 1	Yavaş	yavaş	ADV	_	_	2	compound:redup	_	_
 2	yavaş	yavaş	ADV	_	_	3	advmod	_	_
-3	gel	gel	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
+3	gel	gel	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -38,10 +38,10 @@ The following 7 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 4 3 compound:redup	color:blue
 1	Genç	genç	ADJ	_	_	2	amod	_	_
 2	kadın	kadın	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
-3	ağlaya	ağlaya	VERB	_	Mood=Ind	4	compound:redup	_	_
-4	ağlaya	ağlaya	VERB	_	Mood=Ind	6	advcl	_	_
+3	ağlaya	ağlaya	VERB	_	Mood=Ind|VerbForm=Conv	4	compound:redup	_	_
+4	ağlaya	ağlaya	VERB	_	Mood=Ind|VerbForm=Conv	6	advcl	_	_
 5	hikayesini	hikaye	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obj	_	_
-6	anlattı	anlat	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+6	anlattı	anlat	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -56,7 +56,7 @@ The following 7 pairs of parts of speech are connected with `compound:redup`: <t
 1	Çocuklar	çocuk	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
 2	kendi	kendi	PRON	_	Case=Nom|Number=Sing|Reflex=Yes	3	compound:redup	_	_
 3	kendilerine	kendi	PRON	_	Case=Dat|Number=Sing|Person=3|Reflex=Yes	1	nmod	_	_
-4	yıkanabilirler	yıka	VERB	_	Aspect=Hab|Mood=GenPot|Number=Plur|Person=3|Tense=Pres|Voice=Rfl	0	root	_	SpaceAfter=No
+4	yıkanabilirler	yıka	VERB	_	Aspect=Hab|Mood=GenPot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

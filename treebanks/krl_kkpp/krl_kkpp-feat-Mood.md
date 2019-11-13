@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-127 <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Mood`.
+127 <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Mood`.
 
 The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="krl_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (127; 100%), <tt><a href="krl_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (115; 91%), <tt><a href="krl_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (113; 89%), <tt><a href="krl_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (102; 80%), <tt><a href="krl_kkpp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (84; 66%).
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `Cnd` (12; 9% of non-empty `Mood`): <em>ois, voisin, olis, vois, olisko</em>
 * `Imp` (2; 2% of non-empty `Mood`): <em>Elä</em>
 * `Ind` (113; 89% of non-empty `Mood`): <em>on, oli, ei, voit, olet, ollah, oltih, pitäy, en, voijah</em>
-* `EMPTY` (8): <em>ole, olla, kennih, olleššah, ollun</em>
+* `EMPTY` (7): <em>ole, olla, olleššah, ollun</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th></tr>

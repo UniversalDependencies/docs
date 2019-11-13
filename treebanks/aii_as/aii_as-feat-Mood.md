@@ -12,18 +12,18 @@ It occurs with 2 different values: `Imp`, `Ind`.
 26 tokens (6%) have a non-empty value of `Mood`.
 13 types (5%) occur at least once with a non-empty value of `Mood`.
 6 lemmas (2%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> (21; 5% instances), <tt><a href="aii_as-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="aii_as-pos-PART.html">PART</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> (22; 5% instances), <tt><a href="aii_as-pos-VERB.html">VERB</a></tt> (4; 1% instances).
 
 ### `AUX`
 
-21 <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> tokens (53% of all `AUX` tokens) have a non-empty value of `Mood`.
+22 <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> tokens (43% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="aii_as-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 100%), <tt><a href="aii_as-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21; 100%), <tt><a href="aii_as-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 90%), <tt><a href="aii_as-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 62%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="aii_as-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 95%), <tt><a href="aii_as-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21; 95%), <tt><a href="aii_as-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 86%), <tt><a href="aii_as-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 59%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Ind` (21; 100% of non-empty `Mood`): <em>ܝܠܵܗܿ, ܝܠܹܗ, ܝ݇ܢܵܐ, ܝܢܵܐ, ܝܘܸܢ, ܝܠܸܗ, ܝܠܹܐ, ܝ݇ܬܘܢ</em>
-* `EMPTY` (19): <em>ܝܠܹܗ, ܝܘܸܢ, ܝܼܘܵܢ, ܝ݇ܢܵܐ, ܝܠܹܐ, ܝܢܵܐ, ܝܼܠܵܗܿ, ܝ݇ܘܸܬ, ܝ݇ܘܹܬ, ܝ݇ܬܝܼܒܵܐ</em>
+* `Ind` (22; 100% of non-empty `Mood`): <em>ܝܠܵܗܿ, ܝܠܹܗ, ܝ݇ܢܵܐ, ܝܢܵܐ, ܟܸܐ, ܝܘܸܢ, ܝܠܸܗ, ܝܠܹܐ, ܝ݇ܬܘܢ</em>
+* `EMPTY` (29): <em>ܝܠܹܗ, ܝܘܸܢ, ܒܸܕ, ܒܸܬ, ܝܼܘܵܢ, ܝ݇ܢܵܐ, ܟܹܐ, ܒ, ܒܹܬ, ܝܠܹܐ</em>
 
 ### `VERB`
 
@@ -36,13 +36,4 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (3; 75% of non-empty `Mood`): <em>ܩܲܒܸܠ, ܦܪܘܫ, ܬܸܝܡܘܿܢ</em>
 * `Ind` (1; 25% of non-empty `Mood`): <em>ܒܝܕܥܝܐ</em>
 * `EMPTY` (53): <em>ܐ݇ܡܸܪܹܗ, ܬܘܼܚܡܸܢܹܗ, ܐܡܸܪܗܘܿܢ, ܐܡܸܪܹܗ, ܐܵܣܩܸܢ, ܐܵܬܲܚ, ܒܥܹܐܠܗ݇ܘܿܢ, ܒܸܐܬܵܝܵܐ, ܒܸܛܠܵܒܵܐ, ܒܸܩܪܵܛܹܗ</em>
-
-### `PART`
-
-1 <tt><a href="aii_as-pos-PART.html">PART</a></tt> tokens (3% of all `PART` tokens) have a non-empty value of `Mood`.
-
-`PART` tokens may have the following values of `Mood`:
-
-* `Ind` (1; 100% of non-empty `Mood`): <em>ܟܸܐ</em>
-* `EMPTY` (29): <em>ܕ, ܠܵܐ, ܒܸܕ, ܒܸܬ, ܟܹܐ, ܠܸܐ, ܒ, ܒܹܬ, ܟܲܕ, ܠܹܐ</em>
 

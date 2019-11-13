@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (0%) are attached to their parents as `orphan`.
+18 nodes (0%) are attached to their parents as `orphan`.
 
-11 instances of `orphan` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.2.
+14 instances of `orphan` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.16666666666667.
 
-The following 8 pairs of parts of speech are connected with `orphan`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (5; 33% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (4; 27% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 7% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 7% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 7% instances).
+The following 9 pairs of parts of speech are connected with `orphan`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (6; 33% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (4; 22% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 11% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -80,28 +80,48 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
-# visual-style 13 16 orphan	color:blue
-1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	3	cc	_	_
-2	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
-3	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	0	root	_	_
-4	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
-5	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	3	acl	_	_
-6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
-7	ϭⲟⲛⲥ	ϭⲟⲛⲥ	NOUN	N	_	5	obj	_	_
-8	.	.	PUNCT	PUNCT	_	5	punct	_	_
-9	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	11	cc	_	_
-10	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
-11	ϥⲱϭⲉ	ϥⲱϭⲉ	VERB	V	VerbForm=Fin	5	conj	_	_
-12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	13	cc	_	_
-13	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	conj	_	_
-14	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
-15	ⲛⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	16	det	_	_
-16	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	13	orphan	_	_
-17	.	.	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 13 15 orphan	color:blue
+1	ⲛⲧⲟϥ	ⲛⲧⲟϥ	PRON	PPERI	_	7	dislocated	_	Orig=ⲚⲦⲞϤ
+2	ⲟⲛ	ⲟⲛ	ADV	ADV	_	7	advmod	_	Orig=ⲞⲚ
+3	ⲁⲡⲁ	ⲁⲡⲁ	NOUN	N	_	1	appos	_	Orig=ⲀⲠⲀ
+4	ⲉⲫⲣⲁⲓⲙ	ⲉⲫⲣⲁⲓⲙ	PROPN	NPROP	_	3	flat	_	Orig=ⲈⲪⲢⲀⲒ̈Ⲙ
+5	ⲉ	ⲉⲣⲉ	PART	CFOC	_	7	mark	_	Orig=Ⲉ
+6	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	7	nsubj	_	Orig=Ϥ
+7	ⲥϩⲁⲓ	ⲥϩⲁⲓ	VERB	V	_	0	root	_	Orig=ⲤϨⲀⲒ
+8	ⲉⲣⲁⲧ	ⲉⲣⲁⲧ	ADP	PREP	_	9	case	_	Orig=ⲈⲢⲀⲦ
+9	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	7	obl	_	Orig=Ϥ
+10	ⲛ	ⲛ	ADP	PREP	_	12	case	_	Orig=Ⲛ
+11	ⲟⲩ	ⲟⲩ	DET	ART	_	12	det	_	Orig=ⲞⲨ
+12	ⲙⲉⲣⲓⲧ	ⲙⲉⲣⲓⲧ	NOUN	N	_	7	obl	_	Orig=ⲘⲈⲢⲒⲦ
+13	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	18	reparandum	_	Orig=Ⲛ̅Ⲧ
+14	ⲁ	ⲁ	AUX	APST	_	13	orphan	_	Orig=Ⲁ
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	13	orphan	_	Orig=Ϥ
+16	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	18	mark	_	Orig=Ⲉ
+17	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	18	nsubj	_	Orig=Ϥ
+18	ϫⲓⲥⲃⲱ	ϫⲓⲥⲃⲱ	VERB	V	_	12	acl	_	Morphs=ϫⲓ-ⲥⲃⲱ|Orig=ϪⲒⲤⲂⲰ
+19	ⲛⲧⲟⲟⲧ	ⲛⲧⲛ	ADP	PREP	_	20	case	_	Orig=ⲚⲦⲞⲞⲦ
+20	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	18	obl	_	Orig=Ϥ̅
+21	·	·	PUNCT	PUNCT	_	7	punct	_	_
+22	—	—	PUNCT	PUNCT	_	7	punct	_	_
+23	·	·	PUNCT	PUNCT	_	7	punct	_	_
+24	·	·	PUNCT	PUNCT	_	7	punct	_	_
+25	—	—	PUNCT	PUNCT	_	7	punct	_	_
+26	·	·	PUNCT	PUNCT	_	7	punct	_	_
+27	·	·	PUNCT	PUNCT	_	7	punct	_	_
+28	—	—	PUNCT	PUNCT	_	7	punct	_	_
+29	·	·	PUNCT	PUNCT	_	7	punct	_	_
+30	·	·	PUNCT	PUNCT	_	7	punct	_	_
+31	—	—	PUNCT	PUNCT	_	7	punct	_	_
+32	·	·	PUNCT	PUNCT	_	7	punct	_	_
+33	·	·	PUNCT	PUNCT	_	7	punct	_	_
+34	—	—	PUNCT	PUNCT	_	7	punct	_	_
+35	·	·	PUNCT	PUNCT	_	7	punct	_	_
+36	·	·	PUNCT	PUNCT	_	7	punct	_	_
+37	—	—	PUNCT	PUNCT	_	7	punct	_	_
 
 ~~~
 

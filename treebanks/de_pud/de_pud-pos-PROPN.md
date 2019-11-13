@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>US</em> (<tt><a href="de_pud-pos-PROP
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.039352 (the average of all parts of speech is 1.195606).
+The form / lemma ratio of `PROPN` is 1.039352 (the average of all parts of speech is 1.195571).
 
 The 1st highest number of forms (3) was observed with the lemma “Hitchcock”: <em>Hichcocks, Hitchcock, Hitchcocks</em>.
 

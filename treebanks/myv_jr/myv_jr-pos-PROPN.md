@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>Любань</em> (<tt><a href="myv_j
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.612903 (the average of all parts of speech is 1.992447).
+The form / lemma ratio of `PROPN` is 1.612903 (the average of all parts of speech is 1.993575).
 
 The 1st highest number of forms (5) was observed with the lemma “Кирё”: <em>Кире, Кирё, Кирёнень, Кирёнь, Кирёяк</em>.
 

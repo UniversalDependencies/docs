@@ -50,6 +50,5 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="sl_sst-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (4; 100%),
 <tt>NUM --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> NUM</tt> (4; 100%),
 <tt>ADJ --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> ADJ</tt> (2; 100%),
-<tt>NUM --[<tt><a href="sl_sst-dep-advmod.html">advmod</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="sl_sst-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="sl_sst-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2; 100%).
 

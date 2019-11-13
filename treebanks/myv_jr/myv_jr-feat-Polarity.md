@@ -23,7 +23,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (391; 100% of non-empty `Polarity`): <em>а, аволь, апак, эзь, арась, эзинь, эсть, эзть, арасть, арасель</em>
-* `EMPTY` (294): <em>_, ульнесь, ль, ули, т, иля, ли, ульнесть, кадык, ель</em>
+* `EMPTY` (295): <em>_, ульнесь, ль, ули, т, иля, ли, ульнесть, кадык, ель</em>
 
 ### `INTJ`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `INTJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>Арась</em>
-* `EMPTY` (101): <em>вана, ох, виде, ну, ура, ялгай, Эх, тетяй, Да, Угу</em>
+* `EMPTY` (99): <em>вана, ох, виде, ну, ура, ялгай, Эх, тетяй, Да, Угу</em>
 
 ### `PRON`
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="orv_rnc-dep-aux-pass.html">aux:pass</a></tt>.
 
-87 nodes (1%) are attached to their parents as `aux`.
+115 nodes (1%) are attached to their parents as `aux`.
 
-56 instances of `aux` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.88505747126437.
+77 instances of `aux` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.00869565217391.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (69; 79% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (10; 11% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (4; 5% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (94; 82% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (11; 10% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -41,29 +41,19 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 3 aux	color:blue
-1	И	и	CCONJ	_	_	7	cc	_	_
-2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
-3	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	7	aux	_	_
-4	о	о	ADP	_	_	5	case	_	_
-5	всем	все	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Tot	7	obl	_	_
-6	в	въ	ADP	_	_	7	case	_	_
-7	благочестии	благочестие	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	0	root	_	_
-8	и	и	CCONJ	_	_	10	cc	_	_
-9	в	въ	ADP	_	_	10	case	_	_
-10	управлении	управление	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	7	conj	_	_
-11	были	быти	AUX	_	Number=Plur|Tense=Past|VerbForm=PartRes	7	cop	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	17	punct	_	_
-13	как	какъ	SCONJ	_	_	17	case	_	_
-14	всякии	всякий	DET	_	Case=Nom|Gender=Masc|Number=Plur|Variant=Long	17	det	_	_
-15	сущии	быти	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Long|VerbForm=Part|Voice=Act	17	amod	_	_
-16	православнии	православный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	17	amod	_	_
-17	християне	християнинъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 3 4 aux	color:blue
+1	А	а	CCONJ	_	_	3	cc	_	SpaceAfter=Yes
+2	за	за	ADP	_	_	3	case	_	SpaceAfter=Yes
+3	лошадьми	лошадь	NOUN	OOV	Case=Ins|Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=Yes
+4	б	бъ	AUX	_	Analyt=Yes|Mood=Cnd	3	aux	_	SpaceAfter=Yes
+5	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	iobj	_	SpaceAfter=Yes
+6	самому	самъ	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	5	nmod	_	SpaceAfter=Yes
+7	ехать	ехати	VERB	OOV	VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=Yes
 
 ~~~
 
@@ -101,7 +91,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 25	старостъ	староста	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
 26	и	и	CCONJ	_	_	30	cc	_	_
 27	всего	весь	DET	_	Case=Gen|Gender=Masc|Number=Sing	29	det	_	_
-28	Устюжского	Устюжский	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	29	amod	_	_
+28	Устюжского	устюжский	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	29	amod	_	_
 29	уѣзду	уѣздъ	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
 30	крестьянъ	крестьянинъ	NOUN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	25	conj	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	15	punct	_	_
@@ -124,14 +114,14 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 48	,	,	PUNCT	_	_	51	punct	_	_
 49	съ	съ	ADP	_	_	51	case	_	_
 50	посадскихъ	посадский	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	51	amod	_	_
-51	людей	люди	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	63	obl	_	_
+51	людей	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	63	obl	_	_
 52	и	и	CCONJ	_	_	55	cc	_	_
 53	съ	съ	ADP	_	_	55	case	_	_
 54	уѣздныхъ	уѣздный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	55	amod	_	_
 55	крестьянъ	крестьянинъ	NOUN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	51	conj	_	SpaceAfter=No
 56	,	,	PUNCT	_	_	51	punct	_	_
 57	стрѣлецкіе	стрѣлецкий	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	58	amod	_	_
-58	денги	денги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	63	obj	_	_
+58	денги	деньги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	63	obj	_	_
 59	и	и	CCONJ	_	_	62	cc	_	_
 60	иные	иной	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	62	amod	_	_
 61	всякіе	всякий	DET	OOV	Case=Acc|Gender=Masc|Number=Plur|Variant=Long	62	det	_	_
@@ -150,8 +140,8 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 74	къ	къ	ADP	_	_	76	case	_	_
 75	тому	тотъ	DET	_	Case=Dat|Gender=Masc|Number=Sing	76	det	_	_
 76	сбору	сборъ	NOUN	OOV|Animacy[lex]=Inan	Case=Dat|Gender=Masc|Number=Sing	81	obl	_	_
-77	мірскіе	мірской	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	78	amod	_	_
-78	люди	люди	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Plur	81	nsubj	_	_
+77	мірскіе	мирской	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	78	amod	_	_
+78	люди	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Plur	81	nsubj	_	_
 79	межъ	межъ	ADP	_	_	80	case	_	_
 80	себя	себя	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	81	obl	_	_
 81	выберутъ	выбрати	VERB	OOV|Transit=Tran	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	69	acl:relcl	_	SpaceAfter=No
@@ -160,12 +150,12 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 84	платить	платити	VERB	Transit=Tran	Aspect=Imp|VerbForm=Inf	63	conj	_	_
 85	имъ	они	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	84	iobj	_	_
 86	тѣ	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Plur	87	det	_	_
-87	денги	денги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	84	obj	_	_
+87	денги	деньги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	84	obj	_	_
 88	въ	въ	ADP	_	_	89	case	_	_
 89	году	годъ	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Sing	92	nmod	_	_
 90	на	на	ADP	_	_	92	case	_	_
 91	три	три	NUM	_	Case=Acc	92	nummod:gov	_	_
-92	срока	срокъ	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	84	obl	_	SpaceAfter=No
+92	срока	срокъ	NOUN	OOV|Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Adnum	84	obl	_	SpaceAfter=No
 93	,	,	PUNCT	_	_	95	punct	_	_
 94	по	по	ADP	_	_	95	case	_	_
 95	третямъ	треть	NOUN	OOV|Animacy[lex]=Inan	Case=Dat|Gender=Fem|Number=Plur	84	obl	_	SpaceAfter=No
@@ -208,7 +198,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 132	для	для	ADP	_	_	133	case	_	_
 133	правежу	правежъ	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	136	obl	_	_
 134	тѣхъ	тотъ	DET	_	Case=Gen|Gender=Fem|Number=Plur	135	det	_	_
-135	денегъ	денги	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	133	nmod	_	_
+135	денегъ	деньги	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	133	nmod	_	_
 136	посылать	посылати	VERB	OOV|Transit=Tran	Aspect=Imp|VerbForm=Inf	32	conj	_	_
 137	имъ	они	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	136	iobj	_	_
 138	изъ	изъ	ADP	_	_	140	case	_	_
@@ -225,7 +215,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 149	,	,	PUNCT	_	_	153	punct	_	_
 150	и	и	CCONJ	_	_	153	cc	_	_
 151	тѣ	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Plur	152	det	_	_
-152	денги	денги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	153	obj	_	_
+152	денги	деньги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	153	obj	_	_
 153	сбирать	сбирати	VERB	OOV|Transit=Tran	Aspect=Imp|VerbForm=Inf	136	conj	_	_
 154	имъ	они	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	153	iobj	_	_
 155	по	по	ADP	_	_	156	case	_	_
@@ -248,13 +238,13 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 172	правежу	правежъ	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	189	obl	_	SpaceAfter=No
 173	,	,	PUNCT	_	_	172	punct	_	_
 174	въ	въ	ADP	_	_	176	case	_	_
-175	Устюжской	Устюжский	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	176	amod	_	_
+175	Устюжской	устюжский	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	176	amod	_	_
 176	уѣздъ	уѣздъ	NOUN	OOV|Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Sing	189	obl	_	SpaceAfter=No
 177	,	,	PUNCT	_	_	176	punct	_	_
 178	изъ	изъ	ADP	_	_	180	case	_	_
 179	приказной	приказный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	180	amod	_	_
 180	избы	изба	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Sing	189	obl	_	_
-181	подъячихъ	подъячий	NOUN	OOV|Animacy[lex]=Anim	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	189	obj	_	SpaceAfter=No
+181	подъячихъ	подьячий	NOUN	OOV|Animacy[lex]=Anim	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	189	obj	_	SpaceAfter=No
 182	,	,	PUNCT	_	_	184	punct	_	_
 183	и	и	CCONJ	_	_	184	cc	_	_
 184	стрѣлцовъ	стрѣлецъ	NOUN	OOV|Animacy[lex]=Anim	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	181	conj	_	SpaceAfter=No
@@ -270,7 +260,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 194	и	и	CCONJ	_	_	197	cc	_	_
 195	въ	въ	ADP	_	_	197	case	_	_
 196	ѣздовыхъ	ѣздовой	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	197	amod	_	_
-197	денгахъ	денги	NOUN	OOV|Animacy[lex]=Inan	Case=Loc|Gender=Fem|Number=Plur	193	conj	_	_
+197	денгахъ	деньги	NOUN	OOV|Animacy[lex]=Inan	Case=Loc|Gender=Fem|Number=Plur	193	conj	_	_
 198	никакихъ	никакой	DET	OOV	Case=Gen|Gender=Masc|Number=Plur	199	det	_	_
 199	убытковъ	убытокъ	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Plur	200	obj	_	_
 200	чинить	чинити	VERB	Transit=Tran	Aspect=Imp|VerbForm=Inf	203	xcomp	_	_

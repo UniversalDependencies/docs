@@ -48,7 +48,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 * `Def` (3; 2% of non-empty `Definite`): <em>grįžtamasis, vadinamųjų</em>
 * `Ind` (165; 98% of non-empty `Definite`): <em>vadinami, žinoma, galima, bandoma, girdėję, laikomas, paskelbta, pastebimi, skirtas, sudužusio</em>
-* `EMPTY` (543): <em>gali, turi, negali, būti, nėra, sako, žino, analizuoja, bando, dera</em>
+* `EMPTY` (540): <em>gali, turi, negali, būti, nėra, sako, žino, analizuoja, bando, dera</em>
 
 <table>
   <tr><th>Paradigm <i>vadinti</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -68,7 +68,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (2; 33% of non-empty `Definite`): <em>savojo, savuoju</em>
 * `Ind` (4; 67% of non-empty `Definite`): <em>tų, svo</em>
-* `EMPTY` (158): <em>mūsų, savo, jų, jo, jos, tą, kokia, mano, tas, tokia</em>
+* `EMPTY` (160): <em>mūsų, savo, jų, jo, jos, tą, kokia, mano, tas, tokia</em>
 
 ### `AUX`
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `AUX` and `Definite` co-occurr
 `AUX` tokens may have the following values of `Definite`:
 
 * `Ind` (3; 100% of non-empty `Definite`): <em>Esama, esą, esąs</em>
-* `EMPTY` (105): <em>buvo, yra, nėra, būtų, būti, nebūtų, būna, nebuvo, esu, Esame</em>
+* `EMPTY` (109): <em>buvo, yra, nėra, būtų, būti, nebūtų, būna, esu, nebuvo, bus</em>
 
 ## Relations with Agreement in `Definite`
 

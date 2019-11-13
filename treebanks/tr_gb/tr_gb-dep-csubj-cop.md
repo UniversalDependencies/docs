@@ -38,7 +38,7 @@ The following 8 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 # visual-style 2 6 csubj:cop	color:blue
 1	Kendi	kendi	PRON	_	Case=Nom|Number=Sing|Reflex=Yes	2	nmod	_	_
 2	fikri	fikir	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	_
-3	ydi	i	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	_
+3	ydi	i	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
 4	Ahmet’in	Ahmet	PROPN	_	Case=Gen|Number=Sing	2	nmod	_	_
 5	mobilyaları	mobilya	NOUN	_	Case=Acc|Number=Plur	6	obj	_	_
 6	değiştirmek	değiş	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun|Voice=Cau	2	csubj:cop	_	SpaceAfter=No

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-csubj.html">csubj</a></tt>.
 
-55 nodes (0%) are attached to their parents as `csubj:pass`.
+61 nodes (0%) are attached to their parents as `csubj:pass`.
 
-37 instances of `csubj:pass` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.05454545454545.
+38 instances of `csubj:pass` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.37704918032787.
 
-The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (51; 93% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (56; 92% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -72,46 +72,35 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 29	bgColor:blue
-# visual-style 29	fgColor:white
-# visual-style 29 28 csubj:pass	color:blue
-1	Aceștea	acesta	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	3	nsubj	_	ref=IOAN_APOC_17.14
-2	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	aux	_	ref=IOAN_APOC_17.14
-3	face	face	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=IOAN_APOC_17.14
-4	războiu	război	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	ref=IOAN_APOC_17.14
-5	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=IOAN_APOC_17.14
-6	Mielul	miel	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	ref=IOAN_APOC_17.14|SpaceAfter=No
-7	,	,	PUNCT	COMMA	_	11	punct	_	ref=IOAN_APOC_17.14
-8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=IOAN_APOC_17.14|SpaceAfter=No
-9	-i	el	PRON	Pp3mpa--------w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak	11	obj	_	ref=IOAN_APOC_17.14
-10	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	aux	_	ref=IOAN_APOC_17.14
-11	birui	birui	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	ref=IOAN_APOC_17.14
-12	Mielul	miel	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	ref=IOAN_APOC_17.14
-13	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=IOAN_APOC_17.14
-14	ei	el	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nmod:pmod	_	ref=IOAN_APOC_17.14|SpaceAfter=No
-15	,	,	PUNCT	COMMA	_	18	punct	_	ref=IOAN_APOC_17.14
-16	că	că	SCONJ	Csssp	Polarity=Pos	18	mark	_	ref=IOAN_APOC_17.14|SpaceAfter=No
-17	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	cop	_	ref=IOAN_APOC_17.14
-18	Domnu	domn	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	11	obl	_	ref=IOAN_APOC_17.14
-19	domnilor	domn	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	18	nmod	_	ref=IOAN_APOC_17.14
-20	și	și	CCONJ	Ccssp	Polarity=Pos	21	cc	_	ref=IOAN_APOC_17.14
-21	Împăratul	împărat	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	18	conj	_	ref=IOAN_APOC_17.14
-22	împăraților	împărat	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	21	nmod	_	ref=IOAN_APOC_17.14|SpaceAfter=No
-23	,	,	PUNCT	COMMA	_	29	punct	_	ref=IOAN_APOC_17.14
-24	și	și	CCONJ	Ccssp	Polarity=Pos	29	cc	_	ref=IOAN_APOC_17.14
-25	carii	care	PRON	Pw3mpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	28	nsubj	_	ref=IOAN_APOC_17.14|SpaceAfter=No
-26	-s	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	28	cop	_	ref=IOAN_APOC_17.14
-27	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	28	case	_	ref=IOAN_APOC_17.14
-28	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	29	csubj:pass	_	ref=IOAN_APOC_17.14
-29	chemați	chema	VERB	Vmii2p	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	18	conj	_	ref=IOAN_APOC_17.14|SpaceAfter=No
-30	-s	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	29	aux:pass	_	ref=IOAN_APOC_17.14
-31	și	și	CCONJ	Ccssp	Polarity=Pos	32	cc	_	ref=IOAN_APOC_17.14
-32	aleși	alege	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	29	conj	_	ref=IOAN_APOC_17.14
-33	și	și	CCONJ	Ccssp	Polarity=Pos	34	cc	_	ref=IOAN_APOC_17.14
-34	credincioși	credincios	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	29	conj	_	ref=IOAN_APOC_17.14|SpaceAfter=No
-35	.	.	PUNCT	PERIOD	_	3	punct	_	ref=IOAN_APOC_17.14
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 csubj:pass	color:blue
+1	Căci	căci	SCONJ	Cscsp	Compound=Yes|Polarity=Pos	8	mark	_	ref=PART_IV_CAP_3c.41.3b
+2	atunci	atunci	ADV	Rg	_	8	advmod:tmod	_	ref=PART_IV_CAP_3c.41.3b
+3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	6	nsubj	_	ref=PART_IV_CAP_3c.41.3b
+4	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	ref=PART_IV_CAP_3c.41.3b
+5	mai	mai	ADV	Rg	_	6	advmod	_	ref=PART_IV_CAP_3c.41.3b
+6	mult	mult	ADV	Rg	_	8	csubj:pass	_	ref=PART_IV_CAP_3c.41.3b
+7	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	8	expl:pass	_	ref=PART_IV_CAP_3c.41.3b
+8	scoate	scoate	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=PART_IV_CAP_3c.41.3b
+9	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	10	case	_	ref=PART_IV_CAP_3c.41.3b
+10	legaturi	legat	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	8	obl	_	ref=PART_IV_CAP_3c.41.3b|SpaceAfter=No
+11	,	,	PUNCT	COMMA	_	14	punct	_	ref=PART_IV_CAP_3c.41.3b
+12	și	și	CCONJ	Ccssp	Polarity=Pos	14	cc	_	ref=PART_IV_CAP_3c.41.3b
+13	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	14	expl:pv	_	ref=PART_IV_CAP_3c.41.3b
+14	dă	da	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	ref=PART_IV_CAP_3c.41.3b
+15	moștenitorilor	moștenitor	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	14	iobj	_	ref=PART_IV_CAP_3c.41.3b|SpaceAfter=No
+16	,	,	PUNCT	COMMA	_	23	punct	_	ref=PART_IV_CAP_3c.41.3b
+17	iară	iar	CCONJ	Ccssp	Polarity=Pos	23	cc	_	ref=PART_IV_CAP_3c.41.3b
+18	cealelalte	celălalt	DET	Dd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	19	det	_	ref=PART_IV_CAP_3c.41.3b
+19	orîndueli	orîndueli	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	23	nsubj	_	ref=PART_IV_CAP_3c.41.3b
+20	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	21	case	_	ref=PART_IV_CAP_3c.41.3b
+21	diiată	diată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	19	nmod	_	ref=PART_IV_CAP_3c.41.3b
+22	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	23	expl:pv	_	ref=PART_IV_CAP_3c.41.3b
+23	împlinesc	împlini	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	ref=PART_IV_CAP_3c.41.3b|SpaceAfter=No
+24	.	.	PUNCT	PERIOD	_	8	punct	_	ref=PART_IV_CAP_3c.41.3b
 
 ~~~
 

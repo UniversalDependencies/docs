@@ -13,7 +13,7 @@ This relation is universal.
 5 instances of `orphan` (71%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.14285714285714.
 
-The following 4 pairs of parts of speech are connected with `orphan`: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (2; 29% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (2; 29% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (2; 29% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 14% instances).
+The following 4 pairs of parts of speech are connected with `orphan`: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (2; 29% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (2; 29% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (2; 29% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -59,7 +59,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 11	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing	13	det	13:det	_
 12	södra	söder	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	13	amod	13:amod	_
 13	delen	del	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	conj	13.1:nsubj	_
-14	som	som	SCONJ	KN	_	15	mark	15:mark	_
+14	som	som	ADP	KN	_	15	mark	15:mark	_
 15	Transkaukasus	Transkaukasus	PROPN	PM|NOM	Case=Nom	13	orphan	13.1:obl	SpaceAfter=No
 16	.	.	PUNCT	MAD	_	7	punct	7:punct	_
 
@@ -72,7 +72,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 9 orphan	color:blue
-1	Durán	durán	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	2	nsubj	2:nsubj|4:nsubj	_
+1	Durán	Durán	PROPN	PM|NOM	Case=Nom	2	nsubj	2:nsubj|4:nsubj	_
 2	agerar	agera	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	som	som	SCONJ	KN	_	4	mark	4:mark	_
 4	talesman	talesman	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	xcomp	2:xcomp	_

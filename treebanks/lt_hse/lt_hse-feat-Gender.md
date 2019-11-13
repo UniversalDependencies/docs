@@ -12,7 +12,7 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 2232 tokens (42%) have a non-empty value of `Gender`.
 1636 types (70%) occur at least once with a non-empty value of `Gender`.
 1085 lemmas (68%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (1102; 21% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (399; 7% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (300; 6% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (178; 3% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (147; 3% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (89; 2% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (1102; 21% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (399; 7% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (300; 6% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (178; 3% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (145; 3% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (91; 2% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (44; 25% of non-empty `Gender`): <em>duodama, paskelbta, Mąstanti, apsuptose, atitinkančios, atmesta, atsakyta, atsiradusi, atsižvelgdamos, baigta</em>
 * `Masc` (111; 62% of non-empty `Gender`): <em>vadinami, girdėję, grįžtamasis, laikomas, pastebimi, skirtas, sudužusio, žinojęs, Pradėjęs, apibrėžimas</em>
 * `Neut` (23; 13% of non-empty `Gender`): <em>žinoma, galima, bandoma, Būtina, Kalbama, apima, esama, manoma, mokama, negalima</em>
-* `EMPTY` (533): <em>gali, turi, negali, būti, nėra, sako, žino, analizuoja, bando, dera</em>
+* `EMPTY` (530): <em>gali, turi, negali, būti, nėra, sako, žino, analizuoja, bando, dera</em>
 
 <table>
   <tr><th>Paradigm <i>žinoti</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -94,14 +94,14 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `PRON`
 
-147 <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> tokens (57% of all `PRON` tokens) have a non-empty value of `Gender`.
+145 <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> tokens (57% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (110; 75%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (80; 54%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (108; 74%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (78; 54%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (41; 28% of non-empty `Gender`): <em>ji, ją, kurios, jos, kurią, kuri, pati, ja, jai, jas</em>
-* `Masc` (106; 72% of non-empty `Gender`): <em>jis, to, kuris, jie, jo, nieko, jį, kurie, kurį, viso</em>
+* `Fem` (40; 28% of non-empty `Gender`): <em>ji, ją, kurios, jos, kurią, kuri, ja, jai, jas, kokios</em>
+* `Masc` (105; 72% of non-empty `Gender`): <em>jis, to, kuris, jie, jo, nieko, jį, kurie, kurį, viso</em>
 * `EMPTY` (109): <em>tai, juos, kas, jų, mes, man, mus, mums, aš, ką</em>
 
 <table>
@@ -119,14 +119,14 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `DET`
 
-89 <tt><a href="lt_hse-pos-DET.html">DET</a></tt> tokens (54% of all `DET` tokens) have a non-empty value of `Gender`.
+91 <tt><a href="lt_hse-pos-DET.html">DET</a></tt> tokens (55% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (58; 65%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (60; 66%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (39; 44% of non-empty `Gender`): <em>kokia, tokia, tokios, tokią, tos, kokias, tokiai, tokias, visa, šioje</em>
-* `Masc` (50; 56% of non-empty `Gender`): <em>tas, tą, to, tų, viso, jokių, kiekvienas, toks, jokiu, jų</em>
+* `Fem` (40; 44% of non-empty `Gender`): <em>kokia, tokia, tokios, tokią, tos, kokias, tokiai, tokias, visa, šioje</em>
+* `Masc` (51; 56% of non-empty `Gender`): <em>tas, tą, to, tų, viso, jokių, kiekvienas, pats, toks, jokiu</em>
 * `EMPTY` (75): <em>mūsų, savo, jo, jų, jos, mano, tavo, šių, tam, tie</em>
 
 <table>
@@ -168,7 +168,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Masc` (1; 33% of non-empty `Gender`): <em>esąs</em>
 * `Neut` (2; 67% of non-empty `Gender`): <em>Esama, esą</em>
-* `EMPTY` (105): <em>buvo, yra, nėra, būtų, būti, nebūtų, būna, nebuvo, esu, Esame</em>
+* `EMPTY` (109): <em>buvo, yra, nėra, būtų, būti, nebūtų, būna, esu, nebuvo, bus</em>
 
 <table>
   <tr><th>Paradigm <i>būti</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
@@ -185,7 +185,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>PROPN --[<tt><a href="lt_hse-dep-flat.html">flat</a></tt>]--> PROPN</tt> (35; 85%),
 <tt>ADJ --[<tt><a href="lt_hse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (29; 94%),
 <tt>PROPN --[<tt><a href="lt_hse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (28; 90%),
-<tt>NOUN --[<tt><a href="lt_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (26; 81%),
+<tt>NOUN --[<tt><a href="lt_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (26; 84%),
 <tt>NOUN --[<tt><a href="lt_hse-dep-amod.html">amod</a></tt>]--> VERB</tt> (22; 81%),
 <tt>ADJ --[<tt><a href="lt_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (21; 95%),
 <tt>PROPN --[<tt><a href="lt_hse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (15; 75%),

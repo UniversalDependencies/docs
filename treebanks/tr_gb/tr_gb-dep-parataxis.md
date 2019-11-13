@@ -27,11 +27,11 @@ The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	kapı	kapı	NOUN	_	Case=Nom|Number=Sing	2	fixed	_	_
 4	bir	bir	DET	_	Definite=Ind|Number=Sing	5	det	_	_
 5	alıcı	alıcı	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
-6	geldi	gel	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	10	parataxis	_	SpaceAfter=No
+6	geldi	gel	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	parataxis	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	odaları	oda	NOUN	_	Case=Acc|Number=Plur	10	obj	_	_
 9	modaları	moda	NOUN	_	Case=Acc|Number=Plur	8	compound:redup	_	_
-10	dolaştı	dolaş	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+10	dolaştı	dolaş	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
@@ -43,7 +43,7 @@ The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 parataxis	color:blue
-1	Bakabilirim	bak	VERB	_	Aspect=Hab|Mood=GenPot|Number=Sing|Person=1|Tense=Pres	5	parataxis	_	_
+1	Bakabilirim	bak	VERB	_	Aspect=Hab|Mood=GenPot|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
 2	de	de	CCONJ	_	_	1	cc	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	_
 4	beklemesi	bekle	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	5	ccomp	_	_
@@ -62,7 +62,7 @@ The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Esra	Esra	PROPN	_	Number=Sing	3	nsubj	_	_
 2	Handan'ın	Handan	PROPN	_	Case=Gen|Number=Sing	3	nmod	_	_
 3	ablası	abla	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	_
-4	ymış	i	AUX	_	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	cop	_	_
+4	ymış	i	AUX	_	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	öyle	öyle	ADJ	_	_	3	parataxis	_	_
 7	mi	mi	AUX	_	PronType=Int	6	aux:q	_	SpaceAfter=No

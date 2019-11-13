@@ -87,7 +87,7 @@ The most frequent other feature values with which `ADV` and `Tense` co-occurred:
 
 * `Past` (31; 11% of non-empty `Tense`): <em>rekavši, dostigavši, osvojivši, pobedivši, ponovivši, primetivši, Naslutivši, Pohvalivši, Počevši, dobivši</em>
 * `Pres` (249; 89% of non-empty `Tense`): <em>uključujući, ukazujući, dodajući, govoreći, obećavajući, opisujući, zahvaljujući, tražeći, tvrdeći, ističući</em>
-* `EMPTY` (3160): <em>takođe, kada, međutim, više, još, samo, odsto, sada, nekoliko, oko</em>
+* `EMPTY` (3061): <em>takođe, kada, međutim, samo, još, odsto, više, sada, oko, uvek</em>
 
 `Tense` seems to be **lexical feature** of `ADV`. 100% lemmas (119) occur only with one value of `Tense`.
 

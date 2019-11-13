@@ -77,14 +77,14 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-1095 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+1095 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (10% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1095; 100%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (947; 86%), <tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (801; 73%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (778; 71%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1095; 100%), <tt><a href="sr_set-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1095; 100%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (947; 86%), <tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (801; 73%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (778; 71%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1095; 100% of non-empty `VerbForm`): <em>održan, održana, otvorena, održano, otvoren, postignut, završen, zadužen, napravljen, održanom</em>
-* `EMPTY` (10627): <em>novi, prošle, drugi, inostranih, srpske, bivši, prvi, novog, političke, drugim</em>
+* `EMPTY` (9756): <em>novi, prošle, inostranih, srpske, bivši, novog, političke, nove, evropske, glavni</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (422) occur only with one value of `VerbForm`.
 
@@ -98,7 +98,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 
 * `Conv` (280; 99% of non-empty `VerbForm`): <em>uključujući, ukazujući, dodajući, govoreći, rekavši, obećavajući, opisujući, zahvaljujući, tražeći, tvrdeći</em>
 * `Part` (2; 1% of non-empty `VerbForm`): <em>Obraćajući, počev</em>
-* `EMPTY` (3158): <em>takođe, kada, međutim, više, još, samo, odsto, sada, nekoliko, oko</em>
+* `EMPTY` (3059): <em>takođe, kada, međutim, samo, još, odsto, više, sada, oko, uvek</em>
 
 <table>
   <tr><th>Paradigm <i>obraćati</i></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>

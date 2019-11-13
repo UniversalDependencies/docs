@@ -46,6 +46,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (102; 35% of non-empty `Number`): <em>hyö, meijän, myö, meilä, ne, kaikin, kumpaset, kumpasien, mit, niitä</em>
 * `Sing` (186; 65% of non-empty `Number`): <em>mie, hiän, mitä, še, šiitä, miun, kaikki, šen, šie, mih</em>
+* `EMPTY` (1): <em>kennih</em>
 
 <table>
   <tr><th>Paradigm <i>mie</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -108,7 +109,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-131 <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> tokens (97% of all `AUX` tokens) have a non-empty value of `Number`.
+131 <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="krl_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (127; 97%), <tt><a href="krl_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (115; 88%), <tt><a href="krl_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (113; 86%), <tt><a href="krl_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (102; 78%), <tt><a href="krl_kkpp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (84; 64%).
 
@@ -116,7 +117,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 * `Plur` (14; 11% of non-empty `Number`): <em>ollah, oltih, voijah, emmä, olemma, voimma</em>
 * `Sing` (117; 89% of non-empty `Number`): <em>on, oli, ei, voit, ois, olet, pitäy, en, ole, voisin</em>
-* `EMPTY` (4): <em>olla, kennih, olleššah</em>
+* `EMPTY` (3): <em>olla, olleššah</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

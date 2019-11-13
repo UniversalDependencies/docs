@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (1068; 7% of non-empty `Mood`): <em>поиди, иди, даи, ходи, идѣте, вижь, помилуи, пусти, радуита, сп҃си</em>
 * `Ind` (14408; 93% of non-empty `Mood`): <em>реч, приде, иде, посла, повелѣ, поиде, придоша, престави, нача, рѣша</em>
-* `EMPTY` (9690): <em>слышавъ, гл҃ѧ, ити, видѣвъ, хотѧ, рекъ, видѣти, платити, рекуще, бити</em>
+* `EMPTY` (9691): <em>слышавъ, гл҃ѧ, ити, видѣвъ, хотѧ, рекъ, видѣти, платити, рекуще, бити</em>
 
 <table>
   <tr><th>Paradigm <i>рещи</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -53,7 +53,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Imp` (45; 2% of non-empty `Mood`): <em>буди, бѹди, буд, будѣте, бѹдѣмъ, бꙋди, ест</em>
 * `Ind` (2638; 98% of non-empty `Mood`): <em>бѣ, быс, есть, ѥсть, будеть, бѧше, суть, бы, бꙑс҃, ѥси</em>
-* `EMPTY` (578): <em>быти, сущю, бывъ, сѹщю, было, бывшю, былъ, сыи, бывше, сѹще</em>
+* `EMPTY` (577): <em>быти, сущю, бывъ, сѹщю, было, бывшю, былъ, сыи, бывше, сѹще</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>

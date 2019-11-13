@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-22272 tokens (11%) have a non-empty value of `Definite`.
-10449 types (29%) occur at least once with a non-empty value of `Definite`.
-4182 lemmas (23%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22272; 11% instances).
+22264 tokens (11%) have a non-empty value of `Definite`.
+10448 types (29%) occur at least once with a non-empty value of `Definite`.
+4181 lemmas (23%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 3 part-of-speech tags: <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22099; 11% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (159; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (6; 0% instances).
 
 ### `ADJ`
 
-22272 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (92% of all `ADJ` tokens) have a non-empty value of `Definite`.
+22099 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21161; 95%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14576; 65%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (20989; 95%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14544; 66%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Def` (20821; 93% of non-empty `Definite`): <em>sve, novi, svi, svih, vanjskih, glavni, novih, nove, prošle, hrvatski</em>
-* `Ind` (1451; 7% of non-empty `Definite`): <em>velik, sam, dobar, važan, poznat, održan, otvoren, postignut, rođen, siguran</em>
-* `EMPTY` (2019): <em>prvi, drugi, druge, drugih, 1., prva, drugim, 2004., 2008., 2007.</em>
+* `Def` (20652; 93% of non-empty `Definite`): <em>novi, sve, svi, vanjskih, glavni, novih, nove, prošle, hrvatski, moguće</em>
+* `Ind` (1447; 7% of non-empty `Definite`): <em>velik, sam, dobar, važan, poznat, održan, otvoren, postignut, rođen, siguran</em>
+* `EMPTY` (1786): <em>drugi, prvi, druge, drugih, 2004., 1., 2008., 2007., 2009., 2006.</em>
 
 <table>
   <tr><th>Paradigm <i>velik</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -106,6 +106,40 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
   <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>najveće</em></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>najveća</em></td></tr>
 </table>
+
+### `DET`
+
+159 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Definite`.
+
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (159; 100%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (159; 100%), <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (159; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (159; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt> (137; 86%), <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (83; 52%).
+
+`DET` tokens may have the following values of `Definite`:
+
+* `Def` (156; 98% of non-empty `Definite`): <em>sve, svih, svi, svim, sva, mnogi, ostalih, mnoge, ostala, ostale</em>
+* `Ind` (3; 2% of non-empty `Definite`): <em>sam, određen</em>
+* `EMPTY` (7238): <em>koji, to, koje, koja, svoje, ove, toga, kojima, koju, sve</em>
+
+<table>
+  <tr><th>Paradigm <i>sam</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>samoga</em></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>same</em></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>samog</em></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>sam</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>sama</em></td></tr>
+</table>
+
+`Definite` seems to be **lexical feature** of `DET`. 92% lemmas (12) occur only with one value of `Definite`.
+
+### `NUM`
+
+6 <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Definite`.
+
+The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="hr_set-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (4; 67%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%).
+
+`NUM` tokens may have the following values of `Definite`:
+
+* `Def` (6; 100% of non-empty `Definite`): <em>11-tog, devedesetim, osamdesetih, prvoj, prvom, trećom</em>
+* `EMPTY` (3374): <em>jedan, tri, dva, dvije, jedna, pet, četiri, 20, 10, šest</em>
 
 ## Relations with Agreement in `Definite`
 

@@ -100,7 +100,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (2656; 28% of non-empty `Person`): <em>naše, naší, našich, náš, našeho, naši, našem, můj, mého, moje</em>
 * `2` (267; 3% of non-empty `Person`): <em>vaše, vaší, váš, vašeho, vaši, vašich, vašem, vašimi, vaším, Your</em>
 * `3` (6494; 69% of non-empty `Person`): <em>jeho, jejich, její, jejichž, jehož, jejím, jejíž, jejího, jejích, jejímž</em>
-* `EMPTY` (46710): <em>to, které, který, která, své, tím, kteří, tom, této, tomu</em>
+* `EMPTY` (46695): <em>to, které, který, která, své, tím, kteří, tom, této, tomu</em>
 
 ## Relations with Agreement in `Person`
 

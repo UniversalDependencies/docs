@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Mbya_Guarani-Thomas: POS Tags: `CCONJ`
 
 There are 5 `CCONJ` lemmas (2%), 6 `CCONJ` types (1%) and 27 `CCONJ` tokens (2%).
-Out of 15 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 10 in number of types and 9 in number of tokens.
+Out of 15 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 9 in number of types and 9 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>ha'e, ha, pero, porque, ajeve</em>
 
@@ -19,13 +19,13 @@ The 10 most frequent ambiguous types:  <em>ha'e</em> (<tt><a href="gun_thomas-po
 
 
 * <em>ha'e</em>
-  * <tt><a href="gun_thomas-pos-VERB.html">VERB</a></tt> 8: <em>Nañoty'i arã guembe , <b>ha'e</b> .</em>
+  * <tt><a href="gun_thomas-pos-VERB.html">VERB</a></tt> 8: <em>Ñañoty'i arã guembe , <b>ha'e</b> .</em>
   * <tt><a href="gun_thomas-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Tupã ojapo va'ekue upea , avachi <b>ha'e</b> avi .</em>
   * <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt> 5: <em>Ha'e'i ichyrã ou , <b>ha'e</b> neĩ rã teri oiko .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.200000 (the average of all parts of speech is 1.313725).
+The form / lemma ratio of `CCONJ` is 1.200000 (the average of all parts of speech is 1.311688).
 
 The 1st highest number of forms (2) was observed with the lemma “ha'e”: <em>Ha'e'i, ha'e</em>.
 
@@ -40,7 +40,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ha”: <em>Ha
 
 `CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="gun_thomas-dep-cc.html">cc</a></tt> (26; 96% instances), <tt><a href="gun_thomas-dep-reparandum.html">reparandum</a></tt> (1; 4% instances)
 
-Parents of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="gun_thomas-pos-VERB.html">VERB</a></tt> (19; 70% instances), <tt><a href="gun_thomas-pos-NOUN.html">NOUN</a></tt> (6; 22% instances), <tt><a href="gun_thomas-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="gun_thomas-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances)
+Parents of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="gun_thomas-pos-VERB.html">VERB</a></tt> (20; 74% instances), <tt><a href="gun_thomas-pos-NOUN.html">NOUN</a></tt> (5; 19% instances), <tt><a href="gun_thomas-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="gun_thomas-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances)
 
 23 (85%) `CCONJ` nodes are leaves.
 

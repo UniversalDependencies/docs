@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-223 nodes (2%) are attached to their parents as `fixed`.
+224 nodes (2%) are attached to their parents as `fixed`.
 
-223 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.23318385650224.
+224 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.23214285714286.
 
-The following 11 pairs of parts of speech are connected with `fixed`: <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (109; 49% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (46; 21% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (36; 16% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (8; 4% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (8; 4% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (7; 3% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `fixed`: <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (109; 49% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (46; 21% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (36; 16% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (8; 4% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (8; 4% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (7; 3% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

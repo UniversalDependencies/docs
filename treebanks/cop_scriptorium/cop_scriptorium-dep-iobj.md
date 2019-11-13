@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-40 nodes (0%) are attached to their parents as `iobj`.
+58 nodes (0%) are attached to their parents as `iobj`.
 
-40 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.225.
+58 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.1551724137931.
 
-The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (37; 93% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (3; 8% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (53; 91% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -65,6 +65,41 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 20	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	_	19	appos	_	_
 22	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 iobj	color:blue
+1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	dislocated	_	_
+2	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	4	mark	_	_
+3	ⲛⲁ	ⲛⲁ	AUX	FUT	_	4	aux	_	_
+4	ϫⲓⲟⲩⲁ	ϫⲓⲟⲩⲁ	VERB	V	VerbForm=Fin	1	acl	_	Morphs=ϫⲓ-ⲟⲩⲁ
+5	ⲇⲉ	ⲇⲉ	PART	PTC	_	11	advmod	_	_
+6	ⲉ	ⲉ	ADP	PREP	_	8	case	_	_
+7	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	ⲡⲛⲉⲩⲙⲁ	ⲡⲛⲉⲩⲙⲁ	NOUN	N	_	4	obl	_	_
+9	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	10	mark	_	_
+10	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	8	acl	_	_
+11	ⲙⲙⲛⲧ	ⲙⲛⲧⲉ	AUX	EXIST	_	0	root	_	_
+12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	_
+13	ⲕⲱ	ⲕⲱ	NOUN	N	_	11	obj	_	_
+14	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	13	advmod	_	_
+15	ϣⲁ	ϣⲁ	ADP	PREP	_	16	case	_	_
+16	ⲉⲛⲉϩ	ⲉⲛⲉϩ	NOUN	N	_	11	obl	_	_
+17	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	19	cc	_	_
+18	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+19	ϭⲏⲡ	ϭⲱⲡⲉ	VERB	VSTAT	VerbForm=Fin	11	conj	_	_
+20	ⲉ	ⲉ	ADP	PREP	_	22	case	_	_
+21	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	22	det	_	_
+22	ⲛⲟⲃⲉ	ⲛⲟⲃⲉ	NOUN	N	_	19	obl	_	_
+23	ϣⲁ	ϣⲁ	ADP	PREP	_	24	case	_	_
+24	ⲉⲛⲉϩ	ⲉⲛⲉϩ	NOUN	N	_	19	obl	_	_
+25	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 ~~~
 

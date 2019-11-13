@@ -6,21 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Belarusian-HSE: POS Tags: `SCONJ`
 
-There are 11 `SCONJ` lemmas (0%), 11 `SCONJ` types (0%) and 144 `SCONJ` tokens (1%).
+There are 11 `SCONJ` lemmas (0%), 11 `SCONJ` types (0%) and 143 `SCONJ` tokens (1%).
 Out of 16 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 15 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>што, як, калі, каб, чым, то, бо, хоць, нават, прычым</em>
 
 The 10 most frequent `SCONJ` types:  <em>што, як, калі, каб, чым, то, бо, хоць, нават, прычым</em>
 
-The 10 most frequent ambiguous lemmas: <em>што</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 67, <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> 19, <tt><a href="be_hse-pos-DET.html">DET</a></tt> 1), <em>як</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 6, <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> 1), <em>бо</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 1), <em>хоць</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="be_hse-pos-PART.html">PART</a></tt> 1), <em>нават</em> (<tt><a href="be_hse-pos-PART.html">PART</a></tt> 5, <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 1), <em>таму</em> (<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 10, <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>што</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 66, <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> 20, <tt><a href="be_hse-pos-DET.html">DET</a></tt> 1), <em>як</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 6, <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> 1), <em>бо</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 1), <em>хоць</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="be_hse-pos-PART.html">PART</a></tt> 1), <em>нават</em> (<tt><a href="be_hse-pos-PART.html">PART</a></tt> 5, <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 1), <em>таму</em> (<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 10, <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>што</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 67, <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> 12, <tt><a href="be_hse-pos-DET.html">DET</a></tt> 1), <em>як</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 3, <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> 1), <em>чым</em> (<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> 4, <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 4), <em>бо</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 1), <em>хоць</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="be_hse-pos-PART.html">PART</a></tt> 1), <em>нават</em> (<tt><a href="be_hse-pos-PART.html">PART</a></tt> 5, <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 1), <em>таму</em> (<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 7, <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>што</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 66, <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> 13, <tt><a href="be_hse-pos-DET.html">DET</a></tt> 1), <em>як</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 3, <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> 1), <em>чым</em> (<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> 4, <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 4), <em>бо</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 1), <em>хоць</em> (<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="be_hse-pos-PART.html">PART</a></tt> 1), <em>нават</em> (<tt><a href="be_hse-pos-PART.html">PART</a></tt> 5, <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 1), <em>таму</em> (<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 7, <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>што</em>
-  * <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 67: <em>Таму <b>што</b> , на жаль , у большасці няма з кім практыкавацца .</em>
-  * <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> 12: <em>Уранава : Першае , <b>што</b> мяне зацікавіла , было тое , што я яе нідзе не чула .</em>
+  * <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 66: <em>Таму <b>што</b> , на жаль , у большасці няма з кім практыкавацца .</em>
+  * <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> 13: <em>Уранава : Першае , <b>што</b> мяне зацікавіла , было тое , што я яе нідзе не чула .</em>
   * <tt><a href="be_hse-pos-DET.html">DET</a></tt> 1: <em>I была яшчэ адна , апошняя , у гонар Більба , неспадзяванка , якая ( на <b>што</b> Гэндальф і спадзяваўся ) страшэнна напалохала хобітаў .</em>
 * <em>як</em>
   * <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> 16: <em>Мiграцыя — <b>як</b> вiрус , перад якiм нельга паставiць санiтарны кардон .</em>
@@ -57,17 +57,17 @@ The 3rd highest number of forms (1) was observed with the lemma “калі”: 
 `SCONJ` occurs with 1 feature-value pairs: `Mood=Cnd`
 
 `SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (134 tokens).
+The most frequent feature combination is `_` (133 tokens).
 Examples: <em>што, як, калі, чым, то, бо, хоць, каб, нават, прычым</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="be_hse-dep-mark.html">mark</a></tt> (131; 91% instances), <tt><a href="be_hse-dep-case.html">case</a></tt> (8; 6% instances), <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (3; 2% instances), <tt><a href="be_hse-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="be_hse-dep-goeswith.html">goeswith</a></tt> (1; 1% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="be_hse-dep-mark.html">mark</a></tt> (130; 91% instances), <tt><a href="be_hse-dep-case.html">case</a></tt> (8; 6% instances), <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (4; 3% instances), <tt><a href="be_hse-dep-advmod.html">advmod</a></tt> (1; 1% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (112; 78% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (13; 9% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (9; 6% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (7; 5% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (111; 78% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (13; 9% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (9; 6% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (7; 5% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
-143 (99%) `SCONJ` nodes are leaves.
+142 (99%) `SCONJ` nodes are leaves.
 
 1 (1%) `SCONJ` nodes have one child.
 

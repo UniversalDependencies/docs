@@ -8,12 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `discourse`.
+63 nodes (0%) are attached to their parents as `discourse`.
 
-8 instances of `discourse` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.
+56 instances of `discourse` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.3968253968254.
 
-The following 4 pairs of parts of speech are connected with `discourse`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (10; 77% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 8% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 8% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 8% instances).
+The following 17 pairs of parts of speech are connected with `discourse`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (28; 44% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (10; 16% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (6; 10% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 discourse	color:blue
+1	Compreendem	compreender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	_
+3	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Int	7	obj	_	_
+4	é	ser	AUX	_	_	7	discourse	_	MWE=é_que|MWEPOS=INTJ
+5	que	que	SCONJ	_	_	4	fixed	_	_
+6	vocês	você	PRON	_	Case=Nom|Gender=Unsp|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+7	queriam	querer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	1	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -30,9 +48,9 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 6	claro	claro	INTJ	_	_	2	discourse	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	2	punct	_	_
 8	também	também	ADV	_	_	2	advmod	_	_
-9	graças	graças	ADV	_	_	2	advmod	_	MWE=graças_a
-10	a	a	ADP	_	_	11	case	_	_
-11	Cruyff	Cruyff	PROPN	_	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+9	graças	graças	ADV	_	_	11	case	_	MWE=graças_a|MWEPOS=ADP
+10	a	a	ADP	_	_	9	fixed	_	_
+11	Cruyff	Cruyff	PROPN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 12	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -40,65 +58,18 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
-# visual-style 27 24 discourse	color:blue
-1	Em	em	ADP	_	_	2	case	_	MWE=Em_vez_de
-2	vez	vez	NOUN	_	_	16	obl	_	_
-3	de	de	ADP	_	_	4	mark	_	_
-4	mandar	mandar	VERB	_	VerbForm=Inf	2	acl	_	_
-5	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	papel	papel	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
-7	por	por	ADP	_	_	9	case	_	_
-8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	garçom	garçom	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
-10	com	com	ADP	_	_	11	case	_	_
-11	cantadas	cantar	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	_
-12	escritas	escrever	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	11	acl	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	12	punct	_	_
-14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	plínio	plínio	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_
-16	liga	ligar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-17	para	para	ADP	_	_	19	case	_	_
-18	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-19	plínia	plínia	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
-20	de	de	ADP	_	_	22	case	_	_
-21	sua	seu	DET	_	Gender=Fem|Number=Sing|PronType=Prs	22	det	_	_
-22	predileção	predileção	NOUN	_	Gender=Fem|Number=Sing	19	nmod	_	_
-23	e	e	CCONJ	_	_	27	cc	_	_
-24	pronto	pronto	INTJ	_	_	27	discourse	_	_
-25	--	--	PUNCT	_	_	16	punct	_	_
-26	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
-27	feito	feito	ADJ	_	Gender=Masc|Number=Sing	16	parataxis	_	_
-28	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
-29	contato	contato	NOUN	_	Gender=Masc|Number=Sing	27	nsubj	_	_
-30	imediato	imediato	ADJ	_	Gender=Masc|Number=Sing	29	amod	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	16	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 8 discourse	color:blue
-1	Já	já	ADV	_	_	2	advmod	_	_
-2	nem	nem	ADV	_	_	3	advmod	_	_
-3	ouvem	ouvir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	voz	voz	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
-6	de	de	ADP	_	_	8	case	_	_
-7	«	«	PUNCT	_	_	8	punct	_	SpaceAfter=No
-8	já	já	INTJ	_	_	5	discourse	_	SpaceAfter=No
-9	»	»	PUNCT	_	_	8	punct	_	_
-10	de	de	ADP	_	_	12	case	_	_
-11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	instrutor-largador	instrutor-largador	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 discourse	color:blue
+1	R.	r.	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+2	--	--	PUNCT	_	_	1	punct	_	_
+3	Não	não	ADV	_	Polarity=Neg	6	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	não	não	ADV	_	Polarity=Neg	6	advmod	_	_
+6	acredito	acreditar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

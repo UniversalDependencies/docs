@@ -29,7 +29,7 @@ The following 64 pairs of parts of speech are connected with `nmod`: <tt><a href
 5	til	til	ADP	_	_	8	case	_	_
 6	sin	sin	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
 7	neste	neste	DET	_	Definite=Def|PronType=Dem	8	det	_	_
-8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
 9	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 64 pairs of parts of speech are connected with `nmod`: <tt><a href
 4	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	stolte	stolt	ADJ	_	Degree=Pos|Number=Plur	0	root	_	_
 6	over	over	ADP	_	_	7	case	_	_
-7	NATO-medlemskapet	NATO-medlemskap	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+7	NATO-medlemskapet	NATO-medlemskap	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	5	obl	_	_
 8	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 64 pairs of parts of speech are connected with `nmod`: <tt><a href
 5	til	til	ADP	_	_	8	case	_	_
 6	sin	sin	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
 7	neste	neste	DET	_	Definite=Def|PronType=Dem	8	det	_	_
-8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
 9	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~

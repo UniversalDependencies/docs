@@ -198,7 +198,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="ca_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (22794; 97%),
 <tt>NOUN --[<tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13169; 52%),
 <tt>VERB --[<tt><a href="ca_ancora-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (8272; 66%),
-<tt>NOUN --[<tt><a href="ca_ancora-dep-acl.html">acl</a></tt>]--> VERB</tt> (4037; 52%),
+<tt>NOUN --[<tt><a href="ca_ancora-dep-acl.html">acl</a></tt>]--> VERB</tt> (4038; 52%),
 <tt>NOUN --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4019; 77%),
 <tt>ADJ --[<tt><a href="ca_ancora-dep-cop.html">cop</a></tt>]--> AUX</tt> (1671; 86%),
 <tt>VERB --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (1586; 68%),

@@ -12,19 +12,19 @@ It occurs with 4 different values: `Fin`, `Inf`, `Part`, `Sup`.
 28375 tokens (19%) have a non-empty value of `VerbForm`.
 11601 types (36%) occur at least once with a non-empty value of `VerbForm`.
 2619 lemmas (29%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (25114; 17% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (3261; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (25115; 17% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (3260; 2% instances).
 
 ### `VERB`
 
-25114 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+25115 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (24067; 96%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (17873; 71%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17872; 71%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17803; 71%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14408; 57%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14273; 57%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14027; 56%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13260; 53%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (24068; 96%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (17873; 71%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17872; 71%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17803; 71%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14408; 57%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14274; 57%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14028; 56%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13261; 53%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (15476; 62% of non-empty `VerbForm`): <em>реч, приде, иде, посла, повелѣ, поиде, придоша, престави, нача, рѣша</em>
 * `Inf` (2327; 9% of non-empty `VerbForm`): <em>ити, видѣти, платити, бити, дати, створити, взѧти, имѣти, творити, молити</em>
-* `Part` (7242; 29% of non-empty `VerbForm`): <em>слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, пришедшю, слышавше</em>
+* `Part` (7243; 29% of non-empty `VerbForm`): <em>слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, пришедшю, слышавше</em>
 * `Sup` (69; 0% of non-empty `VerbForm`): <em>битъ, кнѧжитъ, ставитъ, искатъ, воеватъ, посадницитъ, воѥватъ, молит, блюстъ, боротъ</em>
 * `EMPTY` (52): <em>нѣтъ, нѣту, нѣтуть, нѣтѹ, нету, нетѹ, ниту</em>
 
@@ -68,15 +68,15 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-3261 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+3260 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3261; 100%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2780; 85%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2780; 85%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2780; 85%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2638; 81%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2497; 77%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (2171; 67%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1740; 53%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3260; 100%), <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2780; 85%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2780; 85%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2780; 85%), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2638; 81%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2496; 77%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (2171; 67%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1739; 53%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Fin` (2683; 82% of non-empty `VerbForm`): <em>бѣ, быс, есть, ѥсть, будеть, бѧше, суть, бы, бꙑс҃, ѥси</em>
 * `Inf` (97; 3% of non-empty `VerbForm`): <em>быти, бꙑти, быть</em>
-* `Part` (481; 15% of non-empty `VerbForm`): <em>сущю, бывъ, сѹщю, было, бывшю, былъ, сыи, бывше, сѹще, сѹща</em>
+* `Part` (480; 15% of non-empty `VerbForm`): <em>сущю, бывъ, сѹщю, было, бывшю, былъ, сыи, бывше, сѹще, сѹща</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -197,7 +197,7 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="orv_torot-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (38; 58%),
 <tt>AUX --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (20; 83%),
 <tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> AUX</tt> (19; 90%),
-<tt>VERB --[<tt><a href="orv_torot-dep-flat.html">flat</a></tt>]--> VERB</tt> (12; 100%),
+<tt>VERB --[<tt><a href="orv_torot-dep-flat.html">flat</a></tt>]--> VERB</tt> (13; 100%),
 <tt>AUX --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 57%),
 <tt>AUX --[<tt><a href="orv_torot-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (4; 100%),
 <tt>AUX --[<tt><a href="orv_torot-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (3; 75%).

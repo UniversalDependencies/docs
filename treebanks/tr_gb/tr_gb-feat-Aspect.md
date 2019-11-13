@@ -11,14 +11,14 @@ It occurs with 9 different values: `Dur`, `DurPerf`, `Hab`, `Imp`, `Perf`, `Perf
 
 2161 tokens (13%) have a non-empty value of `Aspect`.
 1290 types (26%) occur at least once with a non-empty value of `Aspect`.
-269 lemmas (13%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2033; 12% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (128; 1% instances).
+272 lemmas (13%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2032; 12% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (129; 1% instances).
 
 ### `VERB`
 
-2033 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Aspect`.
+2032 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2025; 100%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2025; 100%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2024; 100%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2023; 100%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1789; 88%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1663; 82%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1642; 81%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1517; 75%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1484; 73%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (1098; 54%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2024; 100%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2024; 100%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2023; 100%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2022; 100%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1788; 88%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1662; 82%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1641; 81%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1516; 75%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1483; 73%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (1097; 54%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 * `DurPerf` (2; 0% of non-empty `Aspect`): <em>donakaldık, kutlayagelmişlerdir</em>
 * `Hab` (373; 18% of non-empty `Aspect`): <em>içer, gerekebilir, yayardık, bilir, bulabilirsin, gelir, gelirim, giderse, konuşabilirsin, sayılır</em>
 * `Imp` (1; 0% of non-empty `Aspect`): <em>vereyim</em>
-* `Perf` (995; 49% of non-empty `Aspect`): <em>geldi, görmüş, söyledi, gitti, gitmiş, gördüm, etti, görmedim, verdi, aldık</em>
+* `Perf` (994; 49% of non-empty `Aspect`): <em>geldi, görmüş, söyledi, gitti, gitmiş, gördüm, etti, görmedim, verdi, aldık</em>
 * `PerfRapid` (1; 0% of non-empty `Aspect`): <em>giriverdi</em>
 * `Prog` (641; 32% of non-empty `Aspect`): <em>istiyor, çalışıyor, gerekiyor, gidiyor, ediyorum, istemiyor, sanıyorum, seviyor, yapıyor, geliyor</em>
 * `Prosp` (18; 1% of non-empty `Aspect`): <em>olacaktı, alacaktım, anlamayacaktım, tutacaktı, atılacaktı, gerekecekti, gezdirecektik, gidecekti, gidecektim, gidecektin</em>
@@ -66,13 +66,13 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>Gittim</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>gidiyorum</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>gitmeyeceksin</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>gideceksin</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut,Past</tt></tt></td><td></td><td></td><td></td><td><em>gidecektin</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>gideceksin</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>gittin</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>gidiyorsun</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>gitmedi</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>gidecek</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut,Past</tt></tt></td><td></td><td></td><td></td><td><em>gidecekti</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>gidecek</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>gidilecek</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>gitti</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>gidiyor</em></td><td></td><td></td></tr>
@@ -93,15 +93,15 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-128 <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> tokens (17% of all `AUX` tokens) have a non-empty value of `Aspect`.
+129 <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> tokens (17% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (128; 100%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (128; 100%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (114; 89%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (105; 82%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (90; 70%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (86; 67%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (129; 100%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (129; 100%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (115; 89%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (106; 82%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (91; 71%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (87; 67%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Hab` (37; 29% of non-empty `Aspect`): <em>olursa, olur, olurdu, olabilir, olursak, bilirim, olabilirdim, olamaz, olamazsın, olmayız</em>
 * `Imp` (1; 1% of non-empty `Aspect`): <em>se</em>
-* `Perf` (64; 50% of non-empty `Aspect`): <em>oldu, olacak, olacağız, olacağım, olamayacaksın, olduk, oldun, olmadı, olmayacak, olmuş</em>
+* `Perf` (65; 50% of non-empty `Aspect`): <em>oldu, olacak, olacağız, olacağım, olamayacaksın, olduk, oldun, olmadı, olmayacak, olmuş</em>
 * `Prog` (21; 16% of non-empty `Aspect`): <em>oluyor, oluyorum, olmuyor, oluyorsun, biliyor, bulunuyoruz, oluyordu, oluyorduk, oluyorlar, oluyorlardı</em>
 * `Prosp` (5; 4% of non-empty `Aspect`): <em>olacaktı</em>
 * `EMPTY` (622): <em>mi, mı, değil, olan, dı, mu, olarak, olduğunu, dır, mış</em>
@@ -138,8 +138,8 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>olmayacak</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>olmadı</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>olmuyor</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>olacak</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut,Past</tt></tt></td><td></td><td></td><td></td><td><em>olacaktı</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>olacak</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>oldu</em></td><td><em>oluyordu</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>oluyor</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>olmadık</em></td><td></td><td></td><td></td></tr>
@@ -157,6 +157,5 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="tr_gb-dep-conj.html">conj</a></tt>]--> VERB</tt> (36; 77%),
-<tt>VERB --[<tt><a href="tr_gb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (15; 56%),
-<tt>VERB --[<tt><a href="tr_gb-dep-obj.html">obj</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="tr_gb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (15; 56%).
 

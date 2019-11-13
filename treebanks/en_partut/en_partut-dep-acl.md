@@ -9,29 +9,29 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="en_partut-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-831 nodes (2%) are attached to their parents as `acl`.
+830 nodes (2%) are attached to their parents as `acl`.
 
-630 instances of `acl` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.63176895306859.
+629 instances of `acl` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.64819277108434.
 
-The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (779; 94% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (777; 94% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 5 acl	color:blue
-1	But	but	CCONJ	CC	_	6	cc	_	_
-2	these	this	PRON	PD	Number=Plur|PronType=Dem	6	nsubj	_	_
-3	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	_	_
-4	essentially	essentially	ADV	B	_	6	advmod	_	_
-5	externalized	externalize	VERB	V	Tense=Past|VerbForm=Part	6	acl	_	_
-6	stomachs	stomach	NOUN	S	Number=Plur	0	root	_	_
-7	and	and	CCONJ	CC	_	8	cc	_	_
-8	lungs	lung	NOUN	S	Number=Plur	6	conj	_	SpaceAfter=No
-9	.	.	PUNCT	FS	_	6	punct	_	_
+# visual-style 6 8 acl	color:blue
+1	And	and	CCONJ	CC	_	4	cc	_	_
+2	so	so	ADV	B	_	4	advmod	_	_
+3	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+4	see	see	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
+6	mushroom	mushroom	NOUN	S	Number=Sing	4	obj	_	_
+7	here	here	ADV	B	_	4	advmod	_	_
+8	sporulating	sporulate	VERB	V	VerbForm=Ger	6	acl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~
 

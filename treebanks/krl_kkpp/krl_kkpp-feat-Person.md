@@ -40,7 +40,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-127 <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Person`.
+127 <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="krl_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (127; 100%), <tt><a href="krl_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (115; 91%), <tt><a href="krl_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (113; 89%), <tt><a href="krl_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (113; 89%), <tt><a href="krl_kkpp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (84; 66%).
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `1` (11; 9% of non-empty `Person`): <em>en, voisin, emmä, olemma, olen, olin, voimma</em>
 * `2` (14; 11% of non-empty `Person`): <em>voit, olet, Elä, Oletko, et</em>
 * `3` (102; 80% of non-empty `Person`): <em>on, oli, ei, ois, ollah, oltih, pitäy, voijah, olis, vois</em>
-* `EMPTY` (8): <em>ole, olla, kennih, olleššah, ollun</em>
+* `EMPTY` (7): <em>ole, olla, olleššah, ollun</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -73,7 +73,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (70; 55% of non-empty `Person`): <em>mie, myö, meijän, miun, meilä, miula, miut, Milma, Miušta, meiltä</em>
 * `2` (13; 10% of non-empty `Person`): <em>šie, šiun, teijän, työ, šiula</em>
 * `3` (44; 35% of non-empty `Person`): <em>hyö, hiän, hänen, heijän, heilä, heitä, hänellä, häntä</em>
-* `EMPTY` (161): <em>mitä, še, šiitä, kaikki, šen, ne, kaikin, mih, tätä, šitä</em>
+* `EMPTY` (162): <em>mitä, še, šiitä, kaikki, šen, ne, kaikin, mih, tätä, šitä</em>
 
 ### `CCONJ`
 

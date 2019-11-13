@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="lt_hse-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-48 nodes (1%) are attached to their parents as `acl`.
+47 nodes (1%) are attached to their parents as `acl`.
 
-29 instances of `acl` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.83333333333333.
+28 instances of `acl` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.78723404255319.
 
-The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (32; 67% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt>-<tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt>-<tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (31; 66% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt>-<tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt>-<tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

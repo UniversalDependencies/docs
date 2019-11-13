@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1	5	xcomp	_	_
 4	şimdi	şimdi	ADV	_	_	5	advmod	_	_
-5	çıkıyorum	çık	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
+5	çıkıyorum	çık	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -56,8 +56,8 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4 1 vocative	color:blue
 1	Çocuklar	çocuk	NOUN	_	Case=Nom|Number=Plur	4	vocative	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	bağırmadan	bağırmadan	VERB	_	Mood=Ind	4	advcl	_	_
-4	oynayın	oyna	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
+3	bağırmadan	bağırmadan	VERB	_	Mood=Ind|VerbForm=Conv	4	advcl	_	_
+4	oynayın	oyna	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	_	4	punct	_	_
 
 ~~~

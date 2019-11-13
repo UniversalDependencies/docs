@@ -206,8 +206,8 @@ The most frequent other feature values with which `ADV` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1148; 78%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NOUN</tt> (756; 87%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1147; 78%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NOUN</tt> (757; 87%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (151; 81%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (108; 50%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-appos.html">appos</a></tt>]--> PROPN</tt> (103; 80%),

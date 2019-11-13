@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `PART` tokens may have the following values of `Foreign`:
 
 * `Yes` (120; 100% of non-empty `Foreign`): <em>off, džambo, not, t, oui, Bienvenue, So, ne, sorry, viva</em>
-* `EMPTY` (8397): <em>jen, až, asi, li, ne, nejen, prý, to, jenom, ano</em>
+* `EMPTY` (8412): <em>jen, až, asi, li, ne, nejen, prý, to, jenom, ano</em>
 
 `Foreign` seems to be **lexical feature** of `PART`. 100% lemmas (28) occur only with one value of `Foreign`.
 
@@ -110,7 +110,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (80; 100% of non-empty `Foreign`): <em>and, et, und, As, or, ma, So, e, n</em>
-* `EMPTY` (56797): <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
+* `EMPTY` (56793): <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
 
 ### `PRON`
 
@@ -134,7 +134,7 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 `NUM` tokens may have the following values of `Foreign`:
 
 * `Yes` (29; 100% of non-empty `Foreign`): <em>Four, Twenty, Seven, Six, one, Five, Three, Tre, Tri, seděm</em>
-* `EMPTY` (41475): <em>1, 2, 3, dva, tři, 4, jeden, 6, dvě, tisíc</em>
+* `EMPTY` (41479): <em>1, 2, 3, dva, tři, 4, jeden, 6, dvě, tisíc</em>
 
 `Foreign` seems to be **lexical feature** of `NUM`. 100% lemmas (12) occur only with one value of `Foreign`.
 
@@ -147,7 +147,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (20; 100% of non-empty `Foreign`): <em>Some, My, That, This, Your, sua, C, Notre, These, ce</em>
-* `EMPTY` (56107): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
+* `EMPTY` (56092): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
 `Foreign` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `Foreign`.
 

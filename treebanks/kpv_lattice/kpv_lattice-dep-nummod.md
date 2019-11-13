@@ -13,7 +13,7 @@ This relation is universal.
 13 instances of `nummod` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.30769230769231.
 
-The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (11; 85% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (2; 15% instances).
+The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (11; 85% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -48,6 +48,42 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	ичӧтик	ичӧтик	ADJ	A	Case=Nom|Derivation=Ik|Number=Sing	6	amod	_	_
 6	ныв	ныв	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 nummod	color:blue
+1	Тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	3	det	_	_
+2	жӧ	жӧ	PART	Pcle	_	3	advmod	_	_
+3	книгаас	книга	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl	_	_
+4	ми	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+5	висьталам	висьтавны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	сӧмын	сӧмын	ADV	Adv	_	5	advmod	_	_
+7	нёль	нёль	NUM	Num	Case=Nom|Number=Sing|NumType=Card	8	nummod	_	_
+8	самӧй	самӧй	PART	Pcle	_	9	advmod	_	_
+9	обыкновеннӧй	обыкновеннӧй	ADJ	A	Case=Nom|Number=Sing	10	amod	_	_
+10	боевӧй	боевӧй	ADJ	A	Case=Nom|Number=Sing	11	amod	_	_
+11	случай	случай	NOUN	N	Case=Nom|Number=Sing	5	obj	_	_
+12	йылысь	йылысь	ADP	Po	Case=Ela|Number=Sing	11	case	_	SpaceAfter=No
+13	,	,	PUNCT	CLB	_	14	punct	_	_
+14	кодъяс	коді	PRON	Pron	Case=Nom|Number=Plur|PronType=Int	21	nsubj	_	_
+15	коркӧ	коркӧ	ADV	Adv	PronType=Ind	21	advmod	_	SpaceAfter=No
+16	,	,	PUNCT	CLB	_	17	punct	_	_
+17	гражданскӧй	гражданскӧй	ADJ	A	Case=Nom|Number=Sing	18	amod	_	_
+18	война	война	NOUN	N	Case=Nom|Number=Sing	19	nmod	_	_
+19	лунъясын	лун	NOUN	N	Case=Ine|Number=Plur	15	conj	_	SpaceAfter=No
+20	,	,	PUNCT	CLB	_	21	punct	_	_
+21	вӧвліны	вӧвлыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
+22	фронт	фронт	NOUN	N	Case=Nom|Number=Sing	21	obl	_	_
+23	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	22	case	_	_
+24	Климент	Климент	PROPN	N	Case=Nom|Number=Sing	21	obl	_	_
+25	Ефремовичкӧд	Ефрем	PROPN	N	Case=Com|Number=Sing	24	flat:name	_	SpaceAfter=No
+26	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
 

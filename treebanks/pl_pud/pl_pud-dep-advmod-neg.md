@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PUD: Relations: `advmod:neg`
 
 This relation is a language-specific subtype of <tt><a href="pl_pud-dep-advmod.html">advmod</a></tt>.
-There are also 1 other language-specific subtypes of `advmod`: <tt><a href="pl_pud-dep-advmod-arg.html">advmod:arg</a></tt>.
+There are also 2 other language-specific subtypes of `advmod`: <tt><a href="pl_pud-dep-advmod-arg.html">advmod:arg</a></tt>, <tt><a href="pl_pud-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-120 nodes (1%) are attached to their parents as `advmod:neg`.
+119 nodes (1%) are attached to their parents as `advmod:neg`.
 
-120 instances of `advmod:neg` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.06666666666667.
+119 instances of `advmod:neg` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05882352941176.
 
-The following 9 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (81; 68% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (20; 17% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (5; 4% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (81; 68% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (20; 17% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (5; 4% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 5 advmod:neg	color:blue
 1	Powiedzmy	powiedzieć	VERB	impt:pl:pri:perf	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	tylko	tylko	PART	part	_	6	advmod	6:advmod	SpaceAfter=No
+2	tylko	tylko	PART	part	_	1	advmod:emph	1:advmod:emph	SpaceAfter=No
 3	,	,	PUNCT	interp	PunctType=Comm	6	punct	6:punct	_
 4	że	że	SCONJ	comp	_	6	mark	6:mark	_
 5	nie	nie	PART	part	Polarity=Neg	6	advmod:neg	6:advmod:neg	_
@@ -48,7 +48,7 @@ The following 9 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 5	„	„	PUNCT	interp	PunctSide=Ini|PunctType=Quot	6	punct	6:punct	SpaceAfter=No
 6	Gra	gra	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
 7	o	o	ADP	prep:acc	AdpType=Prep	8	case	8:case	Case=Acc
-8	tron	tron	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl:arg	6:obl:arg	SpaceAfter=No
+8	tron	tron	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	nmod:arg	6:nmod:arg	SpaceAfter=No
 9	”	”	PUNCT	interp	PunctSide=Fin|PunctType=Quot	6	punct	6:punct	SpaceAfter=No
 10	,	,	PUNCT	interp	PunctType=Comm	12	punct	12:punct	_
 11	tylko	tylko	CCONJ	conj	_	12	cc	12:cc	_

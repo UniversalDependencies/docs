@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Alina Wróblewska.
 
 Repository: [UD_Polish-PUD](https://github.com/UniversalDependencies/UD_Polish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pud22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pud25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 4.0
 
@@ -49,7 +49,7 @@ This is the Polish portion of the Parallel Universal Dependencies (PUD) treebank
 
 
 
-PUD-PL consists of 1000 Polish sentences (18,389 tokens) in the same order as in the PUD treebanks in other languages. Morpho-syntactic annotations were automatically predicted by [COMBO](https://github.com/360er0/COMBO) trained on Polish Dependency Bank 2.0 and then manually corrected. Finally, the trees were converted into the UD trees using the same converting procedure as in the case of the PDB-UD treebank. The annotation schema of PUD-PL is thus the same as in the Polish PDB-UD treebank. 458 PUD-PL trees contain enhanced edges.
+PUD-PL consists of 1000 Polish sentences (18,389 tokens) in the same order as in the PUD treebanks in other languages. Morpho-syntactic annotations were automatically predicted by [COMBO](https://github.com/360er0/COMBO) trained on Polish Dependency Bank 2.0 and then manually corrected. Finally, the trees were converted into the UD trees using the same converting procedure as in the case of the PDB-UD treebank. The annotation schema of PUD-PL is thus the same as in the Polish PDB-UD treebank. 459 PUD-PL trees contain enhanced edges.
 
 ## Acknowledgments
 
@@ -85,7 +85,7 @@ year = {2018}
 
 ## Relations
 
-[acl](pl_pud-dep-acl.html) – [acl:relcl](pl_pud-dep-acl-relcl.html) – [advcl](pl_pud-dep-advcl.html) – [advcl:relcl](pl_pud-dep-advcl-relcl.html) – [advmod](pl_pud-dep-advmod.html) – [advmod:arg](pl_pud-dep-advmod-arg.html) – [advmod:neg](pl_pud-dep-advmod-neg.html) – [amod](pl_pud-dep-amod.html) – [amod:flat](pl_pud-dep-amod-flat.html) – [appos](pl_pud-dep-appos.html) – [aux](pl_pud-dep-aux.html) – [aux:clitic](pl_pud-dep-aux-clitic.html) – [aux:cnd](pl_pud-dep-aux-cnd.html) – [aux:pass](pl_pud-dep-aux-pass.html) – [case](pl_pud-dep-case.html) – [cc](pl_pud-dep-cc.html) – [cc:preconj](pl_pud-dep-cc-preconj.html) – [ccomp](pl_pud-dep-ccomp.html) – [ccomp:obj](pl_pud-dep-ccomp-obj.html) – [conj](pl_pud-dep-conj.html) – [cop](pl_pud-dep-cop.html) – [csubj](pl_pud-dep-csubj.html) – [det](pl_pud-dep-det.html) – [det:numgov](pl_pud-dep-det-numgov.html) – [det:nummod](pl_pud-dep-det-nummod.html) – [det:poss](pl_pud-dep-det-poss.html) – [expl:pv](pl_pud-dep-expl-pv.html) – [fixed](pl_pud-dep-fixed.html) – [flat](pl_pud-dep-flat.html) – [iobj](pl_pud-dep-iobj.html) – [mark](pl_pud-dep-mark.html) – [nmod](pl_pud-dep-nmod.html) – [nmod:arg](pl_pud-dep-nmod-arg.html) – [nmod:flat](pl_pud-dep-nmod-flat.html) – [nmod:pred](pl_pud-dep-nmod-pred.html) – [nsubj](pl_pud-dep-nsubj.html) – [nsubj:pass](pl_pud-dep-nsubj-pass.html) – [nummod](pl_pud-dep-nummod.html) – [nummod:gov](pl_pud-dep-nummod-gov.html) – [obj](pl_pud-dep-obj.html) – [obl](pl_pud-dep-obl.html) – [obl:agent](pl_pud-dep-obl-agent.html) – [obl:arg](pl_pud-dep-obl-arg.html) – [obl:cmpr](pl_pud-dep-obl-cmpr.html) – [orphan](pl_pud-dep-orphan.html) – [parataxis](pl_pud-dep-parataxis.html) – [parataxis:insert](pl_pud-dep-parataxis-insert.html) – [parataxis:obj](pl_pud-dep-parataxis-obj.html) – [punct](pl_pud-dep-punct.html) – [root](pl_pud-dep-root.html) – [vocative](pl_pud-dep-vocative.html) – [xcomp](pl_pud-dep-xcomp.html) – [xcomp:pred](pl_pud-dep-xcomp-pred.html)
+[acl](pl_pud-dep-acl.html) – [acl:relcl](pl_pud-dep-acl-relcl.html) – [advcl](pl_pud-dep-advcl.html) – [advcl:relcl](pl_pud-dep-advcl-relcl.html) – [advmod](pl_pud-dep-advmod.html) – [advmod:arg](pl_pud-dep-advmod-arg.html) – [advmod:emph](pl_pud-dep-advmod-emph.html) – [advmod:neg](pl_pud-dep-advmod-neg.html) – [amod](pl_pud-dep-amod.html) – [amod:flat](pl_pud-dep-amod-flat.html) – [appos](pl_pud-dep-appos.html) – [aux](pl_pud-dep-aux.html) – [aux:clitic](pl_pud-dep-aux-clitic.html) – [aux:cnd](pl_pud-dep-aux-cnd.html) – [aux:pass](pl_pud-dep-aux-pass.html) – [case](pl_pud-dep-case.html) – [cc](pl_pud-dep-cc.html) – [cc:preconj](pl_pud-dep-cc-preconj.html) – [ccomp](pl_pud-dep-ccomp.html) – [ccomp:cleft](pl_pud-dep-ccomp-cleft.html) – [ccomp:obj](pl_pud-dep-ccomp-obj.html) – [conj](pl_pud-dep-conj.html) – [cop](pl_pud-dep-cop.html) – [csubj](pl_pud-dep-csubj.html) – [csubj:pass](pl_pud-dep-csubj-pass.html) – [det](pl_pud-dep-det.html) – [det:numgov](pl_pud-dep-det-numgov.html) – [det:nummod](pl_pud-dep-det-nummod.html) – [det:poss](pl_pud-dep-det-poss.html) – [expl:pv](pl_pud-dep-expl-pv.html) – [fixed](pl_pud-dep-fixed.html) – [flat](pl_pud-dep-flat.html) – [flat:foreign](pl_pud-dep-flat-foreign.html) – [iobj](pl_pud-dep-iobj.html) – [mark](pl_pud-dep-mark.html) – [nmod](pl_pud-dep-nmod.html) – [nmod:arg](pl_pud-dep-nmod-arg.html) – [nmod:flat](pl_pud-dep-nmod-flat.html) – [nmod:poss](pl_pud-dep-nmod-poss.html) – [nmod:pred](pl_pud-dep-nmod-pred.html) – [nsubj](pl_pud-dep-nsubj.html) – [nsubj:pass](pl_pud-dep-nsubj-pass.html) – [nummod](pl_pud-dep-nummod.html) – [nummod:gov](pl_pud-dep-nummod-gov.html) – [obj](pl_pud-dep-obj.html) – [obl](pl_pud-dep-obl.html) – [obl:agent](pl_pud-dep-obl-agent.html) – [obl:arg](pl_pud-dep-obl-arg.html) – [obl:cmpr](pl_pud-dep-obl-cmpr.html) – [orphan](pl_pud-dep-orphan.html) – [parataxis:insert](pl_pud-dep-parataxis-insert.html) – [parataxis:obj](pl_pud-dep-parataxis-obj.html) – [punct](pl_pud-dep-punct.html) – [root](pl_pud-dep-root.html) – [vocative](pl_pud-dep-vocative.html) – [xcomp](pl_pud-dep-xcomp.html) – [xcomp:pred](pl_pud-dep-xcomp-pred.html) – [xcomp:subj](pl_pud-dep-xcomp-subj.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -121,7 +121,7 @@ year = {2018}
 </ul>
 
 <ul>
-<li>This corpus contains 38 word types tagged as particles (PART): Czyżby, Niestety, Oto, a, aż, co, czy, dopiero, dość, i, jednak, jedynie, jeszcze, już, może, naprawdę, nawet, nie, niemal, około, podobno, ponad, prawie, przynajmniej, raczej, również, tak, też, to, tuż, tylko, wreszcie, właśnie, za, zaledwie, zatem, znowu, znów</li>
+<li>This corpus contains 43 word types tagged as particles (PART): Czyżby, Niestety, Oto, a, aż, co, coraz, czy, dopiero, dość, i, jak, jednak, jedynie, jeszcze, już, może, najwyraźniej, naprawdę, nawet, nie, niemal, około, podobno, ponad, prawie, przynajmniej, raczej, również, tak, też, to, tuż, tylko, więc, wreszcie, właśnie, za, zaledwie, zatem, zbyt, znowu, znów</li>
 </ul>
 
 <ul>
@@ -199,7 +199,7 @@ year = {2018}
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: wielkiej, dużą, północna, Północnej, brytyjskiej, drugiej, dużej, jednej, pierwszej, całej</li>
+      <li>ADJ: wielkiej, dużą, północna, I, Północnej, brytyjskiej, drugiej, dużej, jednej, pierwszej</li>
       <li>ADJ-Part: uznawane, związana, używane, wyhodowanych, wykorzystywana, zabezpieczona, Odkryte, Opublikowana, Przeprowadzona, badającej</li>
       <li>AUX-Fin: była, została, zostały, były</li>
       <li>DET: która, swojej, które, ta, tej, więcej, swoją, której, takich, jaką</li>
@@ -215,12 +215,12 @@ year = {2018}
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: ostatnich, 1, jednym, pierwszy, jeden, 60, nowego, nowy, innych, innymi</li>
+      <li>ADJ: ostatnich, 1, jednym, pierwszy, II, jeden, 60, I, III, nowego</li>
       <li>ADJ-Part: posiadający, Założony, oddanych, ogłoszony, podzielony, reprezentowane, sprzedany, spędzonym, udomowione, urzędującym</li>
       <li>AUX-Fin: był, został, były, byli, zostali, zostały</li>
       <li>DET: który, tym, ten, którzy, tego, każdy, którego, które, tych, wielu</li>
       <li>NOUN: lat, roku, latach, ludzi, raz, wieku, świecie, czasów, dolarów, funtów</li>
-      <li>NUM: dwa, dwóch, 3, trzy, 5, 10, 100, 2, 20, dziesięć</li>
+      <li>NUM: dwa, dwóch, 3, trzy, 5, 1,5, 10, 100, 2, 20</li>
       <li>PRON: jego, ich, go, mu, ktoś, im, nich, niego, ja, kto</li>
       <li>PROPN: Trumpa, Hongkongu, Pekinu, Qing, American, Chińczyków, Disneya, Joseph, Mishima, Totmesa</li>
       <li>VERB-Fin: powiedział, miał, napisał, ogłosił, pracował, spotkał, miały, mógł, postanowił, uznał</li>
@@ -252,12 +252,12 @@ year = {2018}
 <ul>
   <li>Hum
     <ul>
-      <li>ADJ: innymi, jeden, egipskiego, generalny, innych, ostatni, pierwszym, posiadający, pozostali, sam</li>
+      <li>ADJ: I, II, III, innymi, jeden, IV, egipskiego, generalny, innych, ostatni</li>
       <li>ADJ-Part: posiadający, urzędującym, Poważanemu, Zaangażowanych, badający, biorących, nieprzeszkolonymi, obserwującym, ochrzczony, odchodzącego</li>
       <li>AUX-Fin: został, był, byli, zostali</li>
       <li>DET: który, którzy, wielu, Niektórzy, którego, tych, każdy, swoich, których, tacy</li>
       <li>NOUN: ludzi, członków, prezydent, agentów, cesarza, król, Republikanów, inwestorów, ludzie, mieszkańcy</li>
-      <li>NUM: dwóch, dwaj, obaj, 10000, 100000, 1200, 330, 367, 400, 550</li>
+      <li>NUM: dwóch, dwaj, obaj, 10000, 100000, 1200, 330, 367, 400, 5,7</li>
       <li>PRON: jego, ich, mu, go, ktoś, im, nich, ja, kto, mnie</li>
       <li>PROPN: Trumpa, Qing, Chińczyków, Disneya, Joseph, Mishima, Totmesa, Trump, Winstone, Wright</li>
       <li>VERB-Fin: powiedział, miał, napisał, ogłosił, pracował, spotkał, mógł, postanowił, zaczął, chciał</li>
@@ -268,7 +268,7 @@ year = {2018}
 <ul>
   <li>Inan
     <ul>
-      <li>ADJ: ostatnich, 1, pierwszy, jednym, 60, nowego, kolejnym, nowy, 30, 70</li>
+      <li>ADJ: ostatnich, 1, pierwszy, jednym, 60, nowego, 1492, 2010, 2012, 2014</li>
       <li>ADJ-Part: Założony, oddanych, podzielony, reprezentowane, spędzonym, związany, Generowany, Moscone, Nagrodzony, anektowanym</li>
       <li>AUX-Fin: był, został, były, zostały</li>
       <li>DET: tym, ten, który, tego, które, każdy, swojego, którego, swój, wiele</li>
@@ -289,7 +289,7 @@ year = {2018}
       <li>AUX-Fin: został</li>
       <li>DET: który</li>
       <li>NOUN: dolarów, funtów, dorsza, golfa, smartfona, Adidas, Banany, Ford, Muppety, Ptaków</li>
-      <li>NUM: 10000, 125, 15000, 15001, 19999, 71, 760</li>
+      <li>NUM: 1,5, 10000, 103,7, 125, 15000, 15001, 19999, 25000, 71, 760</li>
       <li>PROPN: Boeinga, ExxonMobil, Forda, Harleya-Davidsona, Odiego, Oscara, Rambler, Samsunga, Snapchat, Twittera</li>
       <li>VERB-Fin: składał, stracił</li>
     </ul>
@@ -330,14 +330,14 @@ year = {2018}
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: jednym, 1, pierwszy, wielkiej, dużą, jeden, nowego, północna, Północnej, brytyjskiej</li>
+      <li>ADJ: I, II, jednym, 1, pierwszy, wielkiej, dużą, jeden, nowego, północna</li>
       <li>ADJ-Part: posiadający, związana, Założony, napisane, ogłoszony, otaczającego, podzielony, sprzedany, spędzonym, urzędującym</li>
       <li>AUX: jest, był, został, będzie, było, była, em, została, zostało, m</li>
       <li>AUX-Fin: jest, był, został, będzie, było, była, została, zostało, zostanie, będę</li>
       <li>DET: który, tym, ten, która, swojej, tego, ta, którego, każdy, swojego</li>
       <li>NOUN: roku, miejsce, wojny, części, raz, wieku, większość, pracy, świecie, część</li>
       <li>NOUN-Vnoun: zniszczenie, kręcenia, ograniczaniu, ograniczenia, opuszczenia, otwarcie, poszukiwaniu, powstrzymania, przejęcia, przekroczenie</li>
-      <li>NUM: 0, pół, półtora</li>
+      <li>NUM: 0, 1,5, pół, półtora</li>
       <li>PRON: jego, to, jej, tym, co, go, ją, tego, mu, ktoś</li>
       <li>PROPN: Brytanii, Clinton, Trumpa, Azji, BBC, Danevirke, Europy, Francji, Hongkongu, Kesha</li>
       <li>VERB-Fin: może, ma, powiedział, było, jest, miał, miała, mówi, powiedziała, udało</li>
@@ -358,7 +358,7 @@ year = {2018}
       <li>DET: swoje, więcej, kilka, ten, wiele, które, jaką, swoją, swój, który</li>
       <li>NOUN: miejsce, raz, sposób, uwagę, rolę, lata, możliwość, część, koniec, rzecz</li>
       <li>NOUN-Vnoun: otwarcie, zawieszenie, założenie, bycie, cofanie, doinwestowanie, dokonanie, dotarcie, nadużycie, odciążenie</li>
-      <li>NUM: dwa, trzy, 3, dwie, sześć, 10, 16, 34, 4, 6</li>
+      <li>NUM: dwa, trzy, 3, dwie, sześć, 1,4, 1,5, 10, 16, 34</li>
       <li>PRON: to, ją, go, je, co, siebie, coś, nas, ich, mnie</li>
       <li>PROPN: Niemcy, Antarktykę, Chrisa, Duffy’ego, Kadesz, Morawy, Oscara, Trację, Trumpa, Abakumowa</li>
     </ul>
@@ -388,7 +388,7 @@ year = {2018}
       <li>DET: tego, swojej, którego, swojego, tych, takich, swoich, tej, których, jakiej</li>
       <li>NOUN: lat, wojny, osób, czasów, dolarów, funtów, ludzi, października, pracy, euro</li>
       <li>NOUN-Vnoun: kręcenia, ograniczenia, opuszczenia, powstrzymania, przejęcia, przyjęcia, uzyskania, wprowadzenia, wytwarzania, wzięcia</li>
-      <li>NUM: dwóch, obu, 3, 20, 14, 2, 5, czterech, sześciu, 10</li>
+      <li>NUM: dwóch, obu, 3, 20, 14, 2, 5, czterech, sześciu, 1,5</li>
       <li>PRON: jego, jej, ich, tego, siebie, nich, niego, mnie, niej, go</li>
       <li>PROPN: Europy, Francji, Pekinu, USA, Albanii, Ameryki, BBC, Clinton, Disneya, Qing</li>
     </ul>
@@ -413,7 +413,7 @@ year = {2018}
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: Wielkiej, Północnej, samym, brytyjskiej, całej, jednym, najlepszym, najwyższym, wschodniej, zeszłym</li>
+      <li>ADJ: Wielkiej, Północnej, samym, 1492, 2013, 2014, brytyjskiej, całej, jednym, najlepszym</li>
       <li>ADJ-Part: spędzonym, anektowanym, doświadczonej, generujących, liczącym, nadchodzącym, naprężającym, niewystawionych, obniżonym, odsłoniętej</li>
       <li>DET: tym, którym, swoim, kilku, której, pewnym, tych, których, swojej, takich</li>
       <li>NOUN: latach, roku, świecie, czasie, końcu, przypadku, miejscu, celu, razie, sprawie</li>
@@ -428,12 +428,12 @@ year = {2018}
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: jeden, północna, inne, duża, niejasne, pierwsze, sama, brytyjski, dawny, greckie</li>
+      <li>ADJ: II, jeden, północna, inne, I, duża, niejasne, pierwsze, sama, brytyjski</li>
       <li>ADJ-Part: napisane, uznawane, związana, Założony, finansowane, ogłoszony, podzielony, posiadający, reprezentowane, sprzedany</li>
       <li>DET: który, które, która, którzy, ta, ten, każdy, takie, wiele, te</li>
       <li>NOUN: rząd, większość, film, Morze, czas, prezydent, bank, część, handel, klasztor</li>
       <li>NOUN-Vnoun: zniszczenie, używanie, Flokowanie, Przejście, Ujawnienie, dążenie, istnienie, objęcie, pokrywanie, przeciwstawianie</li>
-      <li>NUM: dwa, trzy, 330, dwaj, obaj, obie, 100, 10000, 120, 1200</li>
+      <li>NUM: dwa, trzy, 330, dwaj, obaj, obie, 100, 10000, 11, 120</li>
       <li>PRON: to, co, ktoś, ona, ja, kto, on, one, coś, oni</li>
       <li>PROPN: Chiny, Kesha, Trump, Blunt, Clinton, Francja, Joseph, Mishima, Winstone, Wright</li>
     </ul>
@@ -489,8 +489,8 @@ year = {2018}
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: jednym, ostatnich, 1, nowych, pierwszy, wielkiej, inne, dużą, innych, innymi</li>
-      <li>ADV: bardzo, często, tak, jak, całkowicie, dobrze, głównie, podobnie, szczególnie, ponownie</li>
+      <li>ADJ: I, II, jednym, ostatnich, 1, nowych, pierwszy, wielkiej, inne, dużą</li>
+      <li>ADV: bardzo, często, jak, tak, całkowicie, dobrze, głównie, podobnie, szczególnie, ponownie</li>
     </ul>
   </li>
 </ul>
@@ -499,7 +499,7 @@ year = {2018}
   <li>Sup
     <ul>
       <li>ADJ: najwyższym, najlepszym, największym, najwyższy, najgorszych, najlepszych, najnowsze, najważniejszych, najważniejszym, największy</li>
-      <li>ADV: najbardziej, najmniej, najwyraźniej, najlepiej, najprawdopodobniej, najszerzej</li>
+      <li>ADV: najbardziej, najmniej, najlepiej, najprawdopodobniej, najszerzej</li>
     </ul>
   </li>
 </ul>
@@ -698,7 +698,7 @@ year = {2018}
   <li>Int
     <ul>
       <li>ADV: kiedy, dlaczego, jak, Skąd</li>
-      <li>DET: jaki, który, Jakie, jakiej, jaką, które, którym</li>
+      <li>DET: jaki, który, Jakie, jakiej, jaką, które</li>
       <li>PRON: co, czym, kto, Kim</li>
     </ul>
   </li>
@@ -727,7 +727,7 @@ year = {2018}
   <li>Rel
     <ul>
       <li>ADV: gdzie, kiedy, jak, skąd</li>
-      <li>DET: które, który, która, którzy, którego, których, której, jaką, którym, jakiej</li>
+      <li>DET: które, który, która, którzy, którego, których, której, którym, jaką, jakiej</li>
       <li>PRON: co, czym, kto</li>
     </ul>
   </li>
@@ -751,7 +751,7 @@ year = {2018}
   <li>Card
     <ul>
       <li>DET: wiele, więcej, wielu, kilka, kilku, dużo, niewiele, mniej, parę, wieloma</li>
-      <li>NUM: 3, 100, 5, 10, 2, 20, 10000, 14, 16, 330</li>
+      <li>NUM: 3, 100, 5, 1,5, 10, 2, 20, 1,4, 10000, 14</li>
     </ul>
   </li>
 </ul>
@@ -759,7 +759,7 @@ year = {2018}
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: 1, 60, 30, 31, 70, 10, 11, 21, 4, 50</li>
+      <li>ADJ: I, II, 1, 60, III, 1492, 2010, 2012, 2014, 2015</li>
     </ul>
   </li>
 </ul>
@@ -936,7 +936,7 @@ year = {2018}
       </li>
       <li>Yes
         <ul>
-          <li>X: the, de, El, San, Von, 'Ya, A, Breaking, Di, Die</li>
+          <li>X: of, the, de, El, Von, 'Ya, A, Breaking, Buck, Century</li>
         </ul>
       </li>
     </ul>
@@ -960,15 +960,14 @@ year = {2018}
     <ul>
       <li>Digit
         <ul>
-          <li>ADJ: 1, 60, 30, 31, 70, 10, 11, 21, 4, 50</li>
-          <li>NUM: 3, 100, 5, 10, 2, 20, 10000, 14, 16, 330</li>
-          <li>X: 2014, 2015, 1492, 2010, 2012, 2017, 1992, 2011, 2013, 2016</li>
+          <li>ADJ: 1, 60, 1492, 2010, 2012, 2014, 2015, 2011, 2013, 2017</li>
+          <li>NUM: 3, 100, 5, 1,5, 10, 2, 20, 1,4, 10000, 14</li>
+          <li>X: 2004, 2016, 1.165, 1918, 1954, 1991, 1992, 1994, 1997, 200</li>
         </ul>
       </li>
       <li>Roman
         <ul>
-          <li>ADJ: V, XX</li>
-          <li>X: I, II, III, VIII, IV, V, VI, XIV, XVI, IX</li>
+          <li>ADJ: I, II, III, V, VIII, IV, VI, XIV, XVI, XX</li>
         </ul>
       </li>
       <li>Word
@@ -1131,7 +1130,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (3)</li>
-      <li>VERB-Fin--NOUN-Gen (30)</li>
+      <li>VERB-Fin--NOUN-Gen (31)</li>
       <li>VERB-Fin--NOUN-Nom (478)</li>
       <li>VERB-Fin--PRON-Gen (2)</li>
       <li>VERB-Fin--PRON-Nom (53)</li>
@@ -1169,7 +1168,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Dat (2)</li>
       <li>VERB-Fin--NOUN-Acc (45)</li>
       <li>VERB-Fin--NOUN-Dat (34)</li>
-      <li>VERB-Fin--NOUN-Gen (32)</li>
+      <li>VERB-Fin--NOUN-Gen (35)</li>
       <li>VERB-Fin--NOUN-Ins (34)</li>
       <li>VERB-Fin--NOUN-Nom (1)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
@@ -1202,7 +1201,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 25 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:obj</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:pred</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
+<li>This corpus uses 31 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
+<li>The following 2 main types are not used alone, they are always subtyped: <a>expl</a>, <a>parataxis</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

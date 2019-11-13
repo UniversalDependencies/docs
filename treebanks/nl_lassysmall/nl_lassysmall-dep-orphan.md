@@ -8,66 +8,37 @@ udver: '2'
 
 This relation is universal.
 
-101 nodes (0%) are attached to their parents as `orphan`.
+50 nodes (0%) are attached to their parents as `orphan`.
 
-55 instances of `orphan` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.54455445544554.
+31 instances of `orphan` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.5.
 
-The following 33 pairs of parts of speech are connected with `orphan`: <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (28; 28% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (7; 7% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> (5; 5% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (4; 4% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (4; 4% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (4; 4% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 orphan	color:blue
-1	Henin	Henin	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nsubj	2:nsubj|9:nsubj	_
-2	wint	winnen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	de	de	DET	LID|bep|stan|rest	Definite=Def	5	det	5:det	_
-4	eerste	één	ADJ	TW|rang|prenom|stan	_	5	amod	5:amod	_
-5	set	set	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	obj	2:obj	_
-6	met	met	ADP	VZ|init	_	7	case	7:case	_
-7	6-2	6-2	SYM	SPEC|symb	_	2	obl	2:obl:met	_
-8	maar	maar	CCONJ	VG|neven	_	9	cc	9:cc	_
-9	verliest	verliezen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	2	conj	2:conj:maar	_
-10	de	de	DET	LID|bep|stan|rest	Definite=Def	11	orphan	9.1:det	_
-11	tweede	twee	ADJ	TW|rang|prenom|stan	_	9	obj	9.1:amod	_
-12	met	met	ADP	VZ|init	_	13	case	13:case	_
-13	4-6	4-6	SYM	SPEC|symb	_	9	obl	9:obl:met	SpaceAfter=No
-14	.	.	PUNCT	LET	_	2	punct	2:punct	_
-
-~~~
+The following 24 pairs of parts of speech are connected with `orphan`: <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (6; 12% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> (5; 10% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (4; 8% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (4; 8% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 20 orphan	color:blue
-1	1966	1966	NUM	TW|hoofd|vrij	_	2	parataxis	2:parataxis	_
-2	Wereldrecords	wereldrecord	NOUN	N|soort|mv|basis	Number=Plur	0	root	0:root	_
-3	voor	voor	ADP	VZ|init	_	6	case	6:case	_
-4	de	de	DET	LID|bep|stan|rest	Definite=Def	6	det	6:det	_
-5	20	20	NUM	TW|hoofd|prenom|stan	_	6	nummod	6:nummod	_
-6	kilometer	kilometer	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nmod	2:nmod:voor	_
-7	(	(	PUNCT	LET	_	9	punct	9:punct	SpaceAfter=No
-8	58	58	NUM	TW|hoofd|prenom|stan	_	9	nummod	9:nummod	_
-9	minuten	minuut	NOUN	N|soort|mv|basis	Number=Plur	2	nmod	2:nmod	_
-10	6,2	6,2	NUM	TW|hoofd|prenom|stan	_	11	nummod	11:nummod	_
-11	seconden	seconde	NOUN	N|soort|mv|basis	Number=Plur	9	nmod	9:nmod	SpaceAfter=No
-12	)	)	PUNCT	LET	_	9	punct	9:punct	_
-13	en	en	CCONJ	VG|neven	_	17	cc	2:cc	_
-14	de	de	DET	LID|bep|stan|rest	Definite=Def	17	det	17:det	_
-15	1	1	NUM	TW|hoofd|prenom|stan	_	16	nummod	16:nummod	_
-16	uur	uur	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	17	nmod	17:nmod	_
-17	race	race	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	conj	2.1:nmod:voor	_
-18	(	(	PUNCT	LET	_	20	punct	20:punct	SpaceAfter=No
-19	20.664	20.664	NUM	TW|hoofd|prenom|stan	_	20	nummod	20:nummod	_
-20	meter	meter	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	17	orphan	2.1:nmod	SpaceAfter=No
-21	)	)	PUNCT	LET	_	20	punct	20:punct	SpaceAfter=No
-22	.	.	PUNCT	LET	_	2	punct	2:punct	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 12 orphan	color:blue
+1	Ten	te	ADP	VZ|versm	_	2	case	2:case	_
+2	noorden	noorden	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	obl	3:obl:te	_
+3	grenst	grenzen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	de	de	DET	LID|bep|stan|rest	Definite=Def	5	det	5:det	_
+5	provincie	provincie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	nsubj	3:nsubj|10.1:nsubj	_
+6	aan	aan	ADP	VZ|init	_	8	case	8:case	_
+7	de	de	DET	LID|bep|stan|rest	Definite=Def	8	det	8:det	_
+8	provincie	provincie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	obl	3:obl:aan	_
+9	Luik	Luik	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	8	appos	8:appos	_
+10	en	en	CCONJ	VG|neven	_	15	cc	10.1:cc	_
+11	ten	te	ADP	VZ|versm	_	12	case	12:case	_
+12	westen	westen	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	15	orphan	10.1:obl:te	_
+13	aan	aan	ADP	VZ|init	_	15	case	15:case	_
+14	de	de	DET	LID|bep|stan|rest	Definite=Def	15	det	15:det	_
+15	provincie	provincie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	conj	10.1:obl:aan	_
+16	Namen	Namen	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	15	appos	15:appos	SpaceAfter=No
+17	.	.	PUNCT	LET	_	3	punct	3:punct	_
 
 ~~~
 
@@ -100,6 +71,31 @@ The following 33 pairs of parts of speech are connected with `orphan`: <tt><a hr
 20	14	14	NUM	TW|hoofd|prenom|stan	_	21	nummod	21:nummod	_
 21	%	%	SYM	SPEC|symb	_	16	orphan	14.1:obl:naar	SpaceAfter=No
 22	.	.	PUNCT	LET	_	3	punct	3:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 10 orphan	color:blue
+1	In	in	ADP	VZ|init	_	2	case	2:case	_
+2	1909	1909	NUM	TW|hoofd|vrij	_	7	obl	7:obl:in	_
+3	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	7	aux:pass	7:aux:pass	_
+4	de	de	DET	LID|bep|stan|rest	Definite=Def	6	det	6:det	_
+5	persoonlijke	persoonlijk	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	6	amod	6:amod	_
+6	dienstplicht	dienstplicht	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	nsubj:pass	7:nsubj:pass	_
+7	ingevoerd	invoeren	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
+8	en	en	CCONJ	VG|neven	_	14	cc	8.2:cc	_
+9	in	in	ADP	VZ|init	_	10	case	10:case	_
+10	1913	1913	NUM	TW|hoofd|vrij	_	14	orphan	8.2:obl:in	_
+11	de	de	DET	LID|bep|stan|rest	Definite=Def	14	det	14:det	_
+12	algemene	algemeen	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	14	amod	14:amod	_
+13	persoonlijke	persoonlijk	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	14	amod	14:amod	_
+14	dienstplicht	dienstplicht	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	conj	8.2:nsubj:pass|8.2:nsubj:xsubj	SpaceAfter=No
+15	.	.	PUNCT	LET	_	7	punct	7:punct	_
 
 ~~~
 

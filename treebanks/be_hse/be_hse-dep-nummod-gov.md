@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="be_hse-dep-nummod.html">nummod</a></tt>.
 There are also 1 other language-specific subtypes of `nummod`: <tt><a href="be_hse-dep-nummod-entity.html">nummod:entity</a></tt>.
 
-98 nodes (1%) are attached to their parents as `nummod:gov`.
+99 nodes (1%) are attached to their parents as `nummod:gov`.
 
-98 instances of `nummod:gov` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23469387755102.
+99 instances of `nummod:gov` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23232323232323.
 
-The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (66; 67% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (16; 16% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (16; 16% instances).
+The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (67; 68% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (16; 16% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (16; 16% instances).
 
 
 ~~~ conllu

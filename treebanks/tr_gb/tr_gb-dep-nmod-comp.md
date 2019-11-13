@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `nmod:comp`: <tt><a 
 3	uygun	uygun	ADJ	_	_	5	amod	_	_
 4	bir	bir	DET	_	Definite=Ind|Number=Sing|Polarity=Pos	5	det	_	_
 5	sözcük	sözcük	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
-6	düşünemiyorum	düşün	VERB	_	Aspect=Prog|Mood=Pot|Number=Sing|Person=1|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+6	düşünemiyorum	düşün	VERB	_	Aspect=Prog|Mood=Pot|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 5 pairs of parts of speech are connected with `nmod:comp`: <tt><a 
 5	benden	ben	PRON	_	Case=Abl|Number=Sing|Person=1	7	nmod:comp	_	_
 6	daha	daha	ADV	_	_	7	advmod	_	_
 7	fazla	fazla	ADV	_	_	8	advmod	_	_
-8	çalıştın	çalış	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	SpaceAfter=No
+8	çalıştın	çalış	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~

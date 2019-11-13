@@ -37,7 +37,7 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 `NUM` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>bir</em>
-* `EMPTY` (374): <em>iki, üç, beş, yüz, on, dört, bir, bin, dokuz, kaç</em>
+* `EMPTY` (364): <em>iki, üç, beş, yüz, on, dört, bir, bin, dokuz, kaç</em>
 
 ### `PRON`
 

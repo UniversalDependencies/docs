@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 csubj	color:blue
-1	Il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+1	Il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	3	expl:subj	_	_
 2	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
 3	difficile	_	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 4	de	_	ADP	IN	_	5	mark	_	_
@@ -61,8 +61,8 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 7	le	_	DET	DT	Gender=Masc|Number=Sing	8	det	_	_
 8	commerce	_	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
 9	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-10	tout	_	DET	PDT	Gender=Masc|Number=Sing	12	det:predet	_	_
-11	son	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	12	nmod:poss	_	_
+10	tout	_	ADJ	PDT	Gender=Masc|Number=Sing	12	amod	_	_
+11	son	_	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
 12	sens	_	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 13	.	_	PUNCT	.	_	9	punct	_	_
 
@@ -91,7 +91,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 14	chose	_	NOUN	NN	Gender=Fem|Number=Sing	3	parataxis	_	_
 15	»	_	PUNCT	''	_	3	punct	_	SpaceAfter=No
 16	,	_	PUNCT	,	_	3	punct	_	_
-17	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux	_	_
+17	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux:tense	_	_
 18	constaté	_	VERB	VBN	Gender=Masc|Number=Sing	3	parataxis	_	_
 19	l’	_	DET	DT	Gender=Masc|Number=Sing	20	det	_	OrigForm=l'|SpaceAfter=No
 20	américain	_	NOUN	NN	Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No

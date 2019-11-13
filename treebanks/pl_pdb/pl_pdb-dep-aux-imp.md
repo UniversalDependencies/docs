@@ -18,66 +18,51 @@ The following 4 pairs of parts of speech are connected with `aux:imp`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 aux:imp	color:blue
-1	-	-	PUNCT	interp	PunctType=Hyph	8	punct	8:punct	_
-2	Panie	pan	NOUN	subst:sg:voc:m1	Animacy=Hum|Case=Voc|Gender=Masc|Number=Sing	8	vocative	8:vocative	_
-3	podchorąży	podchorąży	NOUN	subst:sg:voc:m1	Animacy=Hum|Case=Voc|Gender=Masc|Number=Sing	2	appos	2:appos	SpaceAfter=No
-4	,	,	PUNCT	interp	PunctType=Comm	2	punct	2:punct	_
-5	niech	niech	AUX	part	_	8	aux:imp	8:aux:imp	_
-6	się	się	PRON	part	PronType=Prs|Reflex=Yes	8	expl:pv	8:expl:pv	_
-7	pan	pan	NOUN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	_
-8	pośpieszy	pośpieszyć	VERB	fin:sg:ter:perf	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-9	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 aux:imp	color:blue
+1	Niech	niech	AUX	part	_	2	aux:imp	2:aux:imp	_
+2	przyjdzie	przyjść	VERB	fin:sg:ter:perf	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	kierownik	kierownik	NOUN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
+4	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 8 aux:imp	color:blue
-1	I	i	CCONJ	conj	_	4	cc	4:cc	_
-2	chyba	chyba	PART	part	_	4	advmod	4:advmod	_
-3	się	się	PRON	part	PronType=Prs|Reflex=Yes	4	expl:pv	4:expl:pv	_
-4	udało	udać	VERB	praet:sg:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-5	,	,	PUNCT	interp	PunctType=Comm	7	punct	7:punct	_
-6	a	a	CCONJ	conj	_	7	cc	7:cc	_
-7	dowodem	dowód	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	conj	4:conj	_
-8	niech	niech	AUX	part	_	7	aux:imp	7:aux:imp	_
-9	będzie	być	AUX	bedzie:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	cop	7:cop	_
-10	to	to	PRON	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	7:nsubj	SpaceAfter=No
-11	,	,	PUNCT	interp	PunctType=Comm	19	punct	19:punct	_
-12	że	że	SCONJ	comp	_	19	mark	19:mark|25:mark|30:mark	_
-13	gdy	gdy	ADV	adv	_	14	advmod	14:advmod	_
-14	byli	być	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	19	advcl	19:advcl|25:advcl|30:advcl	_
-15	śmy	być	AUX	aglt:pl:pri:imperf:nwok	Aspect=Imp|Clitic=Yes|Number=Plur|Person=1|Variant=Short	14	aux:clitic	14:aux:clitic	_
-16	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	17	case	17:case	Case=Loc
-17	Innsbrucku	Innsbruck	PROPN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	14:obl	SpaceAfter=No
-18	,	,	PUNCT	interp	PunctType=Comm	14	punct	14:punct	_
-19	podchodzili	podchodzić	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	10:ccomp	_
-20	do	do	ADP	prep:gen	AdpType=Prep	21	case	21:case	Case=Gen
-21	nas	my	PRON	ppron12:pl:gen:m1:pri	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	19	obl:arg	19:obl:arg	_
-22	nasi	nasz	DET	adj:pl:nom:m1:pos	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	23	det:poss	23:det:poss	_
-23	przyjaciele	przyjaciel	NOUN	subst:pl:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	19:nsubj|25:nsubj|30:nsubj	SpaceAfter=No
-24	,	,	PUNCT	interp	PunctType=Comm	25	punct	25:punct	_
-25	łapali	łapać	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	19	conj	10:ccomp|19:conj	_
-26	się	się	PRON	part	PronType=Prs|Reflex=Yes	25	expl:pv	25:expl:pv	_
-27	za	za	ADP	prep:acc	AdpType=Prep	28	case	28:case	Case=Acc
-28	głowy	głowa	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	25	obl:arg	25:obl:arg	_
-29	i	i	CCONJ	conj	_	30	cc	30:cc	_
-30	pytali	pytać	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	19	conj	10:ccomp|19:conj	SpaceAfter=No
-31	,	,	PUNCT	interp	PunctType=Comm	35	punct	35:punct	_
-32	co	co	PRON	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	35	nsubj	35:nsubj	_
-33	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	35	cop	35:cop	_
-34	za	za	PART	part	_	35	advmod	35:advmod	_
-35	zmiany	zmiana	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	30	ccomp	30:ccomp	SpaceAfter=No
-36	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 aux:imp	color:blue
+1	Jednocześnie	jednocześnie	ADV	adv:pos	Degree=Pos	9	advmod	9:advmod	_
+2	tak	tak	ADV	adv:pos	Degree=Pos|PronType=Dem	3	advmod	3:advmod	_
+3	wysokie	wysoki	ADJ	adj:pl:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	4:amod	_
+4	wyniki	wynik	NOUN	subst:pl:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	9:nsubj	_
+5	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	6	case	6:case	Case=Loc
+6	nauce	nauka	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	4	nmod	4:nmod	_
+7	niech	niech	AUX	part	_	9	aux:imp	9:aux:imp	_
+8	będą	być	AUX	bedzie:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	9	cop	9:cop	_
+9	przykładem	przykład	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	0:root	_
+10	dla	dla	ADP	prep:gen	AdpType=Prep	11	case	11:case	Case=Gen
+11	uczniów	uczeń	NOUN	subst:pl:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur	9	nmod	9:nmod	_
+12	płockich	płocki	ADJ	adj:pl:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	13	amod	13:amod	_
+13	szkół	szkoła	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	11	nmod	11:nmod	SpaceAfter=No
+14	,	,	PUNCT	interp	PunctType=Comm	18	punct	18:punct	_
+15	że	że	SCONJ	comp	_	18	mark	18:mark	_
+16	wszystko	wszystko	PRON	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	18	nsubj	18:nsubj	_
+17	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	18:cop	_
+18	możliwe	możliwy	ADJ	adj:sg:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	ccomp	9:ccomp	SpaceAfter=No
+19	,	,	PUNCT	interp	PunctType=Comm	18	punct	18:punct	_
+20	jeśli	jeśli	SCONJ	comp	_	25	mark	25:mark	_
+21	czegoś	coś	PRON	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	25	iobj	25:iobj	_
+22	się	się	PRON	part	PronType=Prs|Reflex=Yes	25	expl:pv	25:expl:pv	_
+23	naprawdę	naprawdę	PART	part	_	24	advmod:emph	24:advmod:emph	_
+24	bardzo	bardzo	ADV	adv:pos	Degree=Pos	25	advmod	25:advmod	_
+25	pragnie	pragnąć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	18:advcl	SpaceAfter=No
+26	.	.	PUNCT	interp	PunctType=Peri	9	punct	9:punct	_
 
 ~~~
 

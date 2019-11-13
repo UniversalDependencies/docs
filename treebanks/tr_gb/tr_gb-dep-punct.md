@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2696 nodes (16%) are attached to their parents as `punct`.
+2698 nodes (16%) are attached to their parents as `punct`.
 
-2532 instances of `punct` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.47959940652819.
+2534 instances of `punct` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.4770200148258.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (1966; 73% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (364; 14% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (227; 8% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (63; 2% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (47; 2% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (1968; 73% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (363; 13% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (228; 8% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (63; 2% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (47; 2% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt>-<tt><a href="tr_gb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	zaman	zaman	NOUN	_	Case=Nom|Number=Sing	6	obl:tmod	_	_
 4	yemeklerini	ye	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	6	obj	_	_
 5	lokantada	lokanta	NOUN	_	Case=Loc|Number=Sing	6	obl	_	_
-6	yer	ye	VERB	_	Aspect=Hab|Evident=Fh|Mood=Gen|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+6	yer	ye	VERB	_	Aspect=Hab|Evident=Fh|Mood=Gen|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~

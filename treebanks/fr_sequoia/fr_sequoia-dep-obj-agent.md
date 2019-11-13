@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 # visual-style 5 7 obj:agent	color:blue
 1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	conteur	conteur	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:caus	_	_
-3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	_
 5	jouer	jouer	VERB	_	VerbForm=Inf	0	root	_	_
 6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
@@ -40,7 +40,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 # visual-style 41	bgColor:blue
 # visual-style 41	fgColor:white
 # visual-style 41 38 obj:agent	color:blue
-1	C'	ce	PRON	_	Number=Sing|Person=3	4	nsubj	_	SpaceAfter=No
+1	C'	ce	PRON	_	Number=Sing|Person=3	4	expl:subj	_	SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	lieu	lieu	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
@@ -58,7 +58,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 16	fonctionne	fonctionner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
 17	aujourd'hui	aujourd'hui	ADV	_	_	16	advmod	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	16	punct	_	_
-19	face	face	NOUN	_	Gender=Fem|Number=Sing	23	case	_	MWE=face_à|MWEPOS=ADP
+19	face	face	NOUN	_	Gender=Fem|Number=Sing	23	case	_	EXTPOS=ADP|MWE=face_à
 20	à	à	ADP	_	_	19	fixed	_	_
 21	tous	tout	ADJ	_	Gender=Masc|Number=Plur	23	amod	_	_
 22	ces	ce	DET	_	Number=Plur|PronType=Dem	23	det	_	_
@@ -91,8 +91,8 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 49	nous	soi	PRON	_	Number=Plur|Person=1|PronType=Prs	54	dislocated	_	_
 50	tous	tout	ADJ	_	Gender=Masc|Number=Plur	49	amod	_	SpaceAfter=No
 51	,	,	PUNCT	_	_	54	punct	_	_
-52	nous	il	PRON	_	Number=Plur|Person=1	54	nsubj	_	_
-53	avons	avoir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	54	aux	_	_
+52	nous	il	PRON	_	Number=Plur|Person=1	54	expl:subj	_	_
+53	avons	avoir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	54	aux:tense	_	_
 54	admis	admettre	VERB	_	Gender=Masc|Tense=Past|VerbForm=Part	47	acl:relcl	_	_
 55	jusqu'	jusque	ADP	_	_	58	case	_	SpaceAfter=No
 56	à	à	ADP	_	_	58	case	_	_

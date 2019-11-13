@@ -10,10 +10,10 @@ This relation is universal.
 
 18596 nodes (13%) are attached to their parents as `punct`.
 
-10354 instances of `punct` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.18197461819746.
+10394 instances of `punct` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.1446009894601.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (12917; 69% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (2374; 13% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (2355; 13% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (396; 2% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (128; 1% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (117; 1% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (114; 1% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (72; 0% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (72; 0% instances), <tt><a href="sl_ssj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (12884; 69% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (2381; 13% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (2346; 13% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (399; 2% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (145; 1% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (120; 1% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (118; 1% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (76; 0% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (73; 0% instances), <tt><a href="sl_ssj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 6	dvesto	dvesto	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 7	petdeset	petdeset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 8	milijonov	milijon	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No|Dep=3|Rel=Coord
-9	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
+9	.	.	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 8	seboj	se	PRON	Px---i	Case=Ins|PronType=Prs|Reflex=Yes	10	nmod	_	Dep=10|Rel=Atr
 9	tesno	tesno	ADV	Rgp	Degree=Pos	10	advmod	_	Dep=10|Rel=Atr
 10	povezana	povezan	ADJ	Appmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=6|Rel=Atr
-11	.	.	PUNCT	Z	_	10	punct	_	Dep=0|Rel=Root
+11	.	.	PUNCT	Z	_	10	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	"	"	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 6	nacionalizma	nacionalizem	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No|Dep=4|Rel=Atr
 7	"	"	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
-8	?	?	PUNCT	Z	_	4	punct	_	Dep=0|Rel=Root
+8	?	?	PUNCT	Z	_	4	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 

@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="aii_as-pos-AUX.html
 
 ### `AUX`
 
-21 <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> tokens (53% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+21 <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> tokens (41% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="aii_as-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21; 100%), <tt><a href="aii_as-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 100%), <tt><a href="aii_as-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 90%), <tt><a href="aii_as-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 62%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Fin` (21; 100% of non-empty `VerbForm`): <em>ܝܠܵܗܿ, ܝܠܹܗ, ܝ݇ܢܵܐ, ܝܢܵܐ, ܝܘܸܢ, ܝܠܸܗ, ܝܠܹܐ, ܝ݇ܬܘܢ</em>
-* `EMPTY` (19): <em>ܝܠܹܗ, ܝܘܸܢ, ܝܼܘܵܢ, ܝ݇ܢܵܐ, ܝܠܹܐ, ܝܢܵܐ, ܝܼܠܵܗܿ, ܝ݇ܘܸܬ, ܝ݇ܘܹܬ, ܝ݇ܬܝܼܒܵܐ</em>
+* `EMPTY` (30): <em>ܝܠܹܗ, ܝܘܸܢ, ܒܸܕ, ܒܸܬ, ܝܼܘܵܢ, ܝ݇ܢܵܐ, ܟܹܐ, ܒ, ܒܹܬ, ܝܠܹܐ</em>
 
 ### `VERB`
 

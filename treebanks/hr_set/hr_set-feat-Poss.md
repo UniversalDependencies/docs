@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hr_set-pos-DET.html
 
 ### `DET`
 
-1582 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (22% of all `DET` tokens) have a non-empty value of `Poss`.
+1582 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (21% of all `DET` tokens) have a non-empty value of `Poss`.
 
 The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1499; 95%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1154; 73%).
 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (1582; 100% of non-empty `Poss`): <em>svoje, svoj, svoju, svojim, njegova, svojih, njegov, njihov, naše, svojoj</em>
-* `EMPTY` (5617): <em>koji, to, koje, koja, ove, toga, kojima, koju, sve, tome</em>
+* `EMPTY` (5815): <em>koji, to, koje, koja, ove, toga, sve, kojima, koju, tome</em>
 
 `Poss` seems to be **lexical feature** of `DET`. 100% lemmas (14) occur only with one value of `Poss`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (374; 100% of non-empty `Poss`): <em>nevladinih, nevladine, UN-ova, vladinih, Appleovih, Ashdownov, Božju, UN-ovog, vladini, Appleov</em>
-* `EMPTY` (23917): <em>sve, novi, svi, prvi, drugi, svih, vanjskih, glavni, novih, nove</em>
+* `EMPTY` (23511): <em>novi, sve, svi, drugi, vanjskih, prvi, glavni, novih, nove, prošle</em>
 
 `Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (216) occur only with one value of `Poss`.
 

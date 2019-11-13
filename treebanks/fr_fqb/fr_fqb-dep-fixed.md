@@ -30,7 +30,7 @@ The following 20 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	en	en	ADP	_	_	7	case	_	_
 7	France	France	PROPN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
 8	ou	ou	CCONJ	_	_	9	cc	_	_
-9	à	à_l'étranger	ADP	_	_	7	conj	_	MWEPOS=ADV
+9	à	à_l'étranger	ADP	_	_	7	conj	_	EXTPOS=ADV
 10	l'	_	DET	_	_	9	fixed	_	SpaceAfter=No
 11	étranger	_	NOUN	_	_	9	fixed	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
@@ -48,7 +48,7 @@ The following 20 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	pièces	pièce	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
 3	justificatives	justificatif	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
 4	adresser	adresser	VERB	_	VerbForm=Inf	0	root	_	_
-5	lord	lors_de	ADV	_	_	8	case	_	MWEPOS=ADP
+5	lord	lors_de	ADV	_	_	8	case	_	EXTPOS=ADP
 6	de	_	ADP	_	_	5	fixed	_	_
 7	ma	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes	8	det	_	_
 8	demande	demande	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	_
@@ -63,7 +63,7 @@ The following 20 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 fixed	color:blue
-1	à	à_partir_de	ADP	_	_	4	case	_	MWEPOS=ADP
+1	à	à_partir_de	ADP	_	_	4	case	_	EXTPOS=ADP
 2	partir	_	VERB	_	VerbForm=Inf	1	fixed	_	_
 3	de	_	ADP	_	_	1	fixed	_	_
 4	quand	quand	ADV	_	PronType=Int	7	obl:mod	_	_

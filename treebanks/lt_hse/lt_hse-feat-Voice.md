@@ -12,20 +12,20 @@ It occurs with 3 different values: `Act`, `Necess`, `Pass`.
 818 tokens (15%) have a non-empty value of `Voice`.
 605 types (26%) occur at least once with a non-empty value of `Voice`.
 359 lemmas (23%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (710; 13% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (108; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (706; 13% instances), <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> (112; 2% instances).
 
 ### `VERB`
 
-710 <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
+706 <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (658; 93%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (613; 86%), <tt><a href="lt_hse-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (564; 79%), <tt><a href="lt_hse-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (542; 76%), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (532; 75%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (387; 55%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (377; 53%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (654; 93%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (609; 86%), <tt><a href="lt_hse-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (560; 79%), <tt><a href="lt_hse-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (538; 76%), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (528; 75%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (383; 54%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (374; 53%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (627; 88% of non-empty `Voice`): <em>gali, turi, negali, vadinami, būti, nėra, sako, žino, analizuoja, bando</em>
+* `Act` (623; 88% of non-empty `Voice`): <em>gali, turi, negali, vadinami, būti, nėra, sako, žino, analizuoja, bando</em>
 * `Necess` (8; 1% of non-empty `Voice`): <em>Būtina, baustinas, gerbtinų, leistinas, neleistina, nepriimtina, priimtinas, sektinų</em>
 * `Pass` (75; 11% of non-empty `Voice`): <em>žinoma, galima, bandoma, grįžtamasis, laikomas, paskelbta, pastebimi, skirtas, Kalbama, apibrėžimas</em>
-* `EMPTY` (1): <em>Remiantis</em>
+* `EMPTY` (2): <em>Remiantis, prašom</em>
 
 <table>
   <tr><th>Paradigm <i>būti</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th><th><tt>Necess</tt></th></tr>
@@ -36,15 +36,11 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
   <tr><td><tt><tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>nebūtų</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būtų</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būtų</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lt_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>Esu</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="lt_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>nebuvo</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="lt_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>nėra</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lt_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>bus</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lt_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>buvo</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lt_hse-feat-Tense.html">Tense</a></tt><tt>=PresHab</tt>|<tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>būna</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lt_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>yra</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="lt_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>Nesame</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lt_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>buvo</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>būti</em></td><td></td><td></td></tr>
 </table>
 
@@ -52,13 +48,13 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-108 <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
+112 <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (108; 100%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (101; 94%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt> (95; 88%), <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (88; 81%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (86; 80%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (86; 80%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (112; 100%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (105; 94%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=3</tt> (98; 88%), <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (92; 82%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (90; 80%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (89; 79%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (107; 99% of non-empty `Voice`): <em>buvo, yra, nėra, būtų, būti, nebūtų, būna, nebuvo, esu, Esame</em>
+* `Act` (111; 99% of non-empty `Voice`): <em>buvo, yra, nėra, būtų, būti, nebūtų, būna, esu, nebuvo, bus</em>
 * `Pass` (1; 1% of non-empty `Voice`): <em>Esama</em>
 
 <table>
@@ -88,14 +84,14 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="lt_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (93; 95%),
-<tt>VERB --[<tt><a href="lt_hse-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (77; 85%),
+<tt>VERB --[<tt><a href="lt_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (92; 94%),
+<tt>VERB --[<tt><a href="lt_hse-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (77; 84%),
 <tt>VERB --[<tt><a href="lt_hse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (31; 82%),
 <tt>VERB --[<tt><a href="lt_hse-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (29; 88%),
 <tt>VERB --[<tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (26; 70%),
 <tt>VERB --[<tt><a href="lt_hse-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="lt_hse-dep-cop.html">cop</a></tt>]--> AUX</tt> (3; 60%),
 <tt>VERB --[<tt><a href="lt_hse-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2; 100%),
-<tt>AUX --[<tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="lt_hse-dep-aux.html">aux</a></tt>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<tt><a href="lt_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="lt_hse-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (1; 100%).
 

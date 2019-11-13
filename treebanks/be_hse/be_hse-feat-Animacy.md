@@ -81,7 +81,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 * `Anim` (7; 9% of non-empty `Animacy`): <em>каго, iх, кім, хто, якiм, якіх</em>
 * `Inan` (72; 91% of non-empty `Animacy`): <em>гэта, гэтым, што, гэтага, чым, тое, усё, ўсё, таго, тым</em>
-* `EMPTY` (325): <em>я, якiя, яны, мы, якія, ён, таго, які, мне, тое</em>
+* `EMPTY` (326): <em>я, якiя, яны, мы, якія, ён, таго, які, мне, тое</em>
 
 <table>
   <tr><th>Paradigm <i>які</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -162,14 +162,14 @@ The most frequent other feature values with which `SYM` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1265; 84%),
-<tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (477; 94%),
-<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (148; 97%),
-<tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (137; 76%),
-<tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (81; 96%),
+<tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1266; 84%),
+<tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (476; 94%),
+<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (146; 97%),
+<tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (139; 76%),
+<tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (82; 98%),
 <tt>PROPN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (70; 100%),
-<tt>NOUN --[<tt><a href="be_hse-dep-obl.html">obl</a></tt>]--> NOUN</tt> (21; 78%),
+<tt>NOUN --[<tt><a href="be_hse-dep-obl.html">obl</a></tt>]--> NOUN</tt> (21; 81%),
+<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> NOUN</tt> (19; 63%),
 <tt>PROPN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (18; 100%),
-<tt>NOUN --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (16; 70%),
-<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> NOUN</tt> (15; 58%).
+<tt>NOUN --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (15; 68%).
 

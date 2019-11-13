@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-148 nodes (1%) are attached to their parents as `mark`.
+187 nodes (1%) are attached to their parents as `mark`.
 
-147 instances of `mark` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.87837837837838.
+186 instances of `mark` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.31550802139037.
 
-The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (107; 72% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (19; 13% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (14; 9% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (140; 75% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (20; 11% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (18; 10% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,13 +24,13 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 7 6 mark	color:blue
 1	а	а	CCONJ	_	_	5	cc	_	_
 2	ему	онъ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
-3	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	5	aux	_	_
+3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	5	aux	_	_
 4	указ	указъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
 5	промыслить	промыслити	VERB	_	Aspect=Perf|VerbForm=Inf	0	root	_	_
 6	чтобъ	чтобы	SCONJ	_	Mood=Cnd	7	mark	_	_
 7	жить	жити	VERB	_	Aspect=Imp|VerbForm=Inf	5	ccomp	_	_
 8	с	съ	ADP	_	_	10	case	_	_
-9	ннешнеи	нынешний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	10	amod	_	_
+9	ннешнеи	нынѣшний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	10	amod	_	_
 10	женъкои	женка	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	obl	_	_
 
 ~~~
@@ -61,27 +61,27 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 mark	color:blue
-1	а	а	CCONJ	_	_	5	cc	_	_
-2	мꙋжикъ	мужикъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
-3	ꙋ	у	ADP	_	_	4	case	_	_
-4	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	obl	_	_
-5	добытъ	добыти	VERB	_	Aspect=Perf|VerbForm=Inf	16	ccomp	_	_
-6	и	и	CCONJ	_	_	10	cc	_	_
-7	бꙋдетъ	быти	SCONJ	_	_	10	mark	_	_
-8	вамъ	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	10	iobj	_	_
-9	не	не	PART	_	Polarity=Neg	10	advmod	_	_
-10	возможъно	возможный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	conj	_	_
-11	избыть	избыти	VERB	_	Aspect=Perf|VerbForm=Inf	10	xcomp	_	_
-12	и	и	CCONJ	_	_	16	cc	_	_
-13	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	16	nsubj	_	_
-14	ко	къ	ADP	_	_	15	case	_	_
-15	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	16	obl	_	_
-16	отпишите	отписати	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 mark	color:blue
+1	А	а	CCONJ	_	_	4	cc	_	SpaceAfter=Yes
+2	будет	будетъ	SCONJ	_	_	4	mark	_	SpaceAfter=Yes
+3	сеять	сеяти	VERB	OOV	VerbForm=Inf|Voice=Act	4	csubj	_	SpaceAfter=Yes
+4	поздо	поздый	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=Yes
+6	и	и	CCONJ	_	_	11	cc	_	SpaceAfter=Yes
+7	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	SpaceAfter=Yes
+8	бы	бы	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	aux	_	SpaceAfter=Yes
+9	ту	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	SpaceAfter=Yes
+10	землю	земля	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=Yes
+11	посеял	посеяти	VERB	OOV	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	SpaceAfter=Yes
+12	рожью	рожь	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	11	iobj	_	SpaceAfter=Yes
+13	ко	ко	ADP	_	_	15	case	_	SpaceAfter=Yes
+14	160-му	160-й	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	15	amod	_	SpaceAfter=Yes
+15	году	годъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=Yes
 
 ~~~
 

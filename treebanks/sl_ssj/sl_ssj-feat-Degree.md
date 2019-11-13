@@ -102,10 +102,10 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (953; 80%),
-<tt>ADJ --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> ADJ</tt> (628; 94%),
-<tt>ADV --[<tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (217; 72%),
-<tt>ADV --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> ADV</tt> (65; 94%),
-<tt>ADJ --[<tt><a href="sl_ssj-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (24; 89%),
+<tt>ADJ --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> ADJ</tt> (629; 94%),
+<tt>ADV --[<tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (216; 72%),
+<tt>ADV --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> ADV</tt> (66; 94%),
+<tt>ADJ --[<tt><a href="sl_ssj-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (25; 89%),
 <tt>ADJ --[<tt><a href="sl_ssj-dep-mark.html">mark</a></tt>]--> ADV</tt> (21; 95%),
 <tt>ADJ --[<tt><a href="sl_ssj-dep-amod.html">amod</a></tt>]--> ADJ</tt> (20; 80%),
 <tt>ADJ --[<tt><a href="sl_ssj-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (19; 95%),

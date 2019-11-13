@@ -8,12 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (0%) are attached to their parents as `dep`.
+17 nodes (0%) are attached to their parents as `dep`.
 
-8 instances of `dep` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.5.
+15 instances of `dep` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.23529411764706.
 
-The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (6; 75% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (2; 25% instances).
+The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (8; 47% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (6; 35% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (2; 12% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (1; 6% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 dep	color:blue
+1	Tlelevš	tlelevš	X	X	_	2	dep	_	Dep=2|Rel=PPart
+2	ostal	ostati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=0|Rel=Root
+3	,	,	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
+4	kjer	kjer	SCONJ	Cs	_	6	mark	_	Dep=6|Rel=Conj
+5	te	ti	PRON	Pp2-sa--y	Case=Acc|Number=Sing|Person=2|PronType=Prs|Variant=Short	6	obj	_	Dep=6|Rel=Obj
+6	mam	meti	VERB	Vmpr1s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	advcl	_	Dep=2|Rel=AdvO
+7	pred	pred	ADP	Si	Case=Ins	8	case	_	Dep=8|Rel=Atr
+8	očmi	oči	NOUN	Ncfpi	Case=Ins|Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No|Dep=6|Rel=AdvO
+9	.	.	PUNCT	Z	_	2	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+
+~~~
 
 
 ~~~ conllu
@@ -34,7 +53,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 10	zavezništvo	zavezništvo	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	Dep=9|Rel=Obj
 11	proti	proti	ADP	Sd	Case=Dat	12	case	_	Dep=12|Rel=Atr
 12	Burgundcem	Burgundec	PROPN	Npmpd	Case=Dat|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No|Dep=10|Rel=Atr
-13	.	.	PUNCT	Z	_	9	punct	_	Dep=0|Rel=Root
+13	.	.	PUNCT	Z	_	9	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 
@@ -69,7 +88,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 22	spominjanje	spominjanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	19	conj	_	Dep=19|Rel=Coord
 23	in	in	CCONJ	Cc	_	24	cc	_	Dep=24|Rel=Conj
 24	pozabljanje	pozabljanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	19	conj	_	SpaceAfter=No|Dep=19|Rel=Coord
-25	.	.	PUNCT	Z	_	17	punct	_	Dep=0|Rel=Root
+25	.	.	PUNCT	Z	_	17	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 

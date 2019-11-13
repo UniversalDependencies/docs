@@ -9,17 +9,17 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-18 tokens (0%) have a non-empty value of `Foreign`.
-18 types (0%) occur at least once with a non-empty value of `Foreign`.
+19 tokens (0%) have a non-empty value of `Foreign`.
+19 types (0%) occur at least once with a non-empty value of `Foreign`.
 1 lemmas (25%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 1 part-of-speech tags: <tt><a href="fr_pud-pos-X.html">X</a></tt> (18; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="fr_pud-pos-X.html">X</a></tt> (19; 0% instances).
 
 ### `X`
 
-18 <tt><a href="fr_pud-pos-X.html">X</a></tt> tokens (42% of all `X` tokens) have a non-empty value of `Foreign`.
+19 <tt><a href="fr_pud-pos-X.html">X</a></tt> tokens (44% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (18; 100% of non-empty `Foreign`): <em>Este, Greco, Mei, Mundo, Nostrum, Ping, Píanó, Rasa, Rós, Skylark</em>
-* `EMPTY` (25): <em>El, Punta, a, posteriori, Cumae, Die, Fjögur, Jin, Mare, Or</em>
+* `Yes` (19; 100% of non-empty `Foreign`): <em>Este, Greco, Mare, Mei, Mundo, Nostrum, Ping, Píanó, Rasa, Rós</em>
+* `EMPTY` (24): <em>El, Punta, a, posteriori, Cumae, Die, Fjögur, Jin, Or, Pithekoussae</em>
 

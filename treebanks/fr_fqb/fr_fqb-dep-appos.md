@@ -8,12 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `appos`.
+55 nodes (0%) are attached to their parents as `appos`.
 
-1 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+55 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.56363636363636.
 
-The following 1 pairs of parts of speech are connected with `appos`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `appos`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (54; 98% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (1; 2% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 appos	color:blue
+1	Quand	quand	ADV	_	PronType=Int	10	advmod	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	cardinal	cardinal	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+4	Juan	Juan	PROPN	_	Gender=Masc|Number=Sing	3	appos	_	_
+5	Jesus	Jesus	PROPN	_	Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Posadas	Posadas	PROPN	_	_	4	flat:name	_	_
+7	Ocampo	Ocampo	PROPN	_	_	4	flat:name	_	_
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	SpaceAfter=No
+9	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	10	expl:subj	_	_
+10	mort	mourir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	?	?	PUNCT	_	_	10	punct	_	_
+
+~~~
 
 
 ~~~ conllu

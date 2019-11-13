@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 3	-ce	ce	PRON	_	_	1	nsubj	_	_
 4	que	que	PRON	_	PronType=Rel	7	obj	_	_
 5	Chostakovitch	Chostakovitch	PROPN	_	_	7	nsubj	_	_
-6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_
 7	écrit	écrire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl:cleft	_	_
 8	pour	pour	ADP	_	_	9	case	_	_
 9	Rostropovitch	Rostropovitch	PROPN	_	_	7	obl:mod	_	_

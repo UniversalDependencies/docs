@@ -16,11 +16,11 @@ Family: Indo-European, Celtic
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
-The following people have contributed to making this treebank part of UD: Teresa Lynn, Jennifer Foster, Abigail Walsh Sarah McGuinness.
+The following people have contributed to making this treebank part of UD: Teresa Lynn, Jennifer Foster, Sarah McGuinness, Abigail Walsh, Jason Phelan.
 
 Repository: [UD_Irish-IDT](https://github.com/UniversalDependencies/UD_Irish-IDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udga_idt22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udga_idt25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 3.0
 
@@ -44,7 +44,7 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-A Universal Dependencies 1020-sentence treebank for modern Irish.
+A Universal Dependencies 1763-sentence treebank for modern Irish.
 
 
 
@@ -60,9 +60,11 @@ The conversion from the IDT annotation scheme to the UD annotation scheme was de
 The UD Treebank is split into two sets as follows:
 
 * 454 trees (test)
+* 451 trees (dev)
 * 566 trees (train)
 
-Note: the split was formerly 150- test, 150-dev, 720-train, but have split as above for the 2017 CoNLL shared task on dependency parsing.
+Note: the 451 dev trees were taken from the set of newly annotated trees. The rest of the newly annotated trees have been added to the
+training set.
 
 ## Acknowledgments
 
@@ -87,17 +89,17 @@ and is co-funded under the European Regional Development Fund.
 
 ## Relations
 
-[acl:relcl](ga_idt-dep-acl-relcl.html) – [advcl](ga_idt-dep-advcl.html) – [advmod](ga_idt-dep-advmod.html) – [amod](ga_idt-dep-amod.html) – [appos](ga_idt-dep-appos.html) – [case](ga_idt-dep-case.html) – [case:voc](ga_idt-dep-case-voc.html) – [cc](ga_idt-dep-cc.html) – [ccomp](ga_idt-dep-ccomp.html) – [compound](ga_idt-dep-compound.html) – [compound:prt](ga_idt-dep-compound-prt.html) – [conj](ga_idt-dep-conj.html) – [cop](ga_idt-dep-cop.html) – [csubj:cleft](ga_idt-dep-csubj-cleft.html) – [csubj:cop](ga_idt-dep-csubj-cop.html) – [det](ga_idt-dep-det.html) – [discourse](ga_idt-dep-discourse.html) – [fixed](ga_idt-dep-fixed.html) – [flat](ga_idt-dep-flat.html) – [flat:name](ga_idt-dep-flat-name.html) – [list](ga_idt-dep-list.html) – [mark](ga_idt-dep-mark.html) – [mark:prt](ga_idt-dep-mark-prt.html) – [nmod](ga_idt-dep-nmod.html) – [nmod:poss](ga_idt-dep-nmod-poss.html) – [nsubj](ga_idt-dep-nsubj.html) – [nummod](ga_idt-dep-nummod.html) – [obj](ga_idt-dep-obj.html) – [obl](ga_idt-dep-obl.html) – [obl:prep](ga_idt-dep-obl-prep.html) – [obl:tmod](ga_idt-dep-obl-tmod.html) – [parataxis](ga_idt-dep-parataxis.html) – [punct](ga_idt-dep-punct.html) – [root](ga_idt-dep-root.html) – [vocative](ga_idt-dep-vocative.html) – [xcomp](ga_idt-dep-xcomp.html) – [xcomp:pred](ga_idt-dep-xcomp-pred.html)
+[acl:relcl](ga_idt-dep-acl-relcl.html) – [advcl](ga_idt-dep-advcl.html) – [advmod](ga_idt-dep-advmod.html) – [amod](ga_idt-dep-amod.html) – [appos](ga_idt-dep-appos.html) – [case](ga_idt-dep-case.html) – [case:voc](ga_idt-dep-case-voc.html) – [cc](ga_idt-dep-cc.html) – [ccomp](ga_idt-dep-ccomp.html) – [compound](ga_idt-dep-compound.html) – [compound:prt](ga_idt-dep-compound-prt.html) – [conj](ga_idt-dep-conj.html) – [cop](ga_idt-dep-cop.html) – [csubj:cleft](ga_idt-dep-csubj-cleft.html) – [csubj:cop](ga_idt-dep-csubj-cop.html) – [det](ga_idt-dep-det.html) – [discourse](ga_idt-dep-discourse.html) – [fixed](ga_idt-dep-fixed.html) – [flat](ga_idt-dep-flat.html) – [flat:foreign](ga_idt-dep-flat-foreign.html) – [flat:name](ga_idt-dep-flat-name.html) – [list](ga_idt-dep-list.html) – [mark](ga_idt-dep-mark.html) – [mark:prt](ga_idt-dep-mark-prt.html) – [nmod](ga_idt-dep-nmod.html) – [nmod:poss](ga_idt-dep-nmod-poss.html) – [nsubj](ga_idt-dep-nsubj.html) – [nummod](ga_idt-dep-nummod.html) – [obj](ga_idt-dep-obj.html) – [obl](ga_idt-dep-obl.html) – [obl:prep](ga_idt-dep-obl-prep.html) – [obl:tmod](ga_idt-dep-obl-tmod.html) – [parataxis](ga_idt-dep-parataxis.html) – [punct](ga_idt-dep-punct.html) – [root](ga_idt-dep-root.html) – [vocative](ga_idt-dep-vocative.html) – [xcomp](ga_idt-dep-xcomp.html) – [xcomp:pred](ga_idt-dep-xcomp-pred.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1020 sentences and 23964 tokens.</li>
+<li>This corpus contains 1763 sentences and 40572 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2516 tokens (10%) that are not followed by a space.</li>
+<li>This corpus contains 4408 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -105,7 +107,7 @@ and is co-funded under the European Regional Development Fund.
 </ul>
 
 <ul>
-<li>This corpus contains 204 types of words that contain both letters and punctuation. Examples: d', b', fho-alt, (a), (b), a', m', (c), Co., 'n, Uimh., s', t-am, &quot;, O', a'm, n', n-a, n-oibreacha, n-áirítear, nua-aimseartha, t-airgead, t-ábhar, (d), (i), (ii), Anne-Marie, Ard-Chomhairle, Ard-Mhúsaem, I.R., J., P., bhfo-alt, h-Íde, mb', meán-suidhte, n-athair, n-éireoidh, nea-mbrí, t-eolas, t-ionad, 's, (W), (e), (f), (iii), (iv), (vi), -e, .i.</li>
+<li>This corpus contains 299 types of words that contain both letters and punctuation. Examples: d', b', fho-alt, (b), a', (a), m', 'n, (c), Co., Dr., O', a'm, s', t-am, (d), (ii), Uimh., mb', n-áirítear, t-airgead, t-ábhar, &quot;, 's, (i), an-tóir, fho-ailt, h-Íde, n', n-a, n-oibreacha, n-éireoidh, nua-aimseartha, (f), (iv), .i., Anne-Marie, Ard-Chomhairle, Ard-Mhúsaem, D., I.R., J., Mr., P., Príomh-Acht, an-chuid, bhfo-alt, e.g., i.e., lch.</li>
 </ul>
 
 <ul>
@@ -120,15 +122,15 @@ and is co-funded under the European Regional Development Fund.
 </ul>
 
 <ul>
-<li>This corpus contains 35 word types tagged as particles (PART): Mac, Mc, Mhic, Nic, O', Uí, a, a', ab, an, ar, ba, d', de, do, faoina, go, gur, ina, inar, is, le, lena, lenar, n', n-a, nach, ná, nár, ní, níor, níos, o, trasna, Ó</li>
+<li>This corpus contains 42 word types tagged as particles (PART): DA, Mc, Mhac, Mhic, Nic, O', UÍ, Uí, a, a', ab, an, ar, b', ba, d', de, do, dá, faoina, go, gur, ina, inar, is, le, lena, lenar, mac, n', n-a, nach, ná, nár, ní, níor, níos, o, trasna, trína, ó, óna</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29 lemmas tagged as pronouns (PRON): cad, ceachtar, cibé, cé, céard, ea, eisean, féin, iad, ise, iúd, mise, muid, mé, pé, seisean, seo, siad, sibh, sin, sinn, siúd, sé, sí, that, tusa, tú, é, í</li>
+<li>This corpus contains 31 lemmas tagged as pronouns (PRON): cad, ceachtar, cibé, cé, céard, ea, eisean, féin, iad, ise, iúd, mise, muid, mé, pé, seisean, seo, siad, sibh, sin, sinn, sise, siúd, sé, sí, that, tusa, té, tú, é, í</li>
 </ul>
 
 <ul>
-<li>This corpus contains 22 lemmas tagged as determiners (DET): a, an, aon, cad, cibé, cé, do, eile, gach, gach_uile, iomaí, leath, mo, na, s, seo, sin, siúd, the, uile, ár, úd</li>
+<li>This corpus contains 23 lemmas tagged as determiners (DET): a, achan, an, aon, cad, cibé, cé, do, eile, gach, gach_uile, iomaí, leath, mo, na, s, seo, sin, siúd, the, uile, ár, úd</li>
 </ul>
 
 <ul>
@@ -149,9 +151,9 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Cop
   <ul>
-    <li>ADP: ar</li>
     <li>AUX: is, ba, gur, ní, b', nach, gurb, níor, gurbh, mba</li>
-    <li>SCONJ: más, dar, ós, Sular, murab</li>
+    <li>PART: b', ba, ar, gur, is</li>
+    <li>SCONJ: más, ós, dar, darb, Is, Sular, murab</li>
     <li>X: Caidé</li>
   </ul>
   </li>
@@ -160,7 +162,7 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Inf
   <ul>
-    <li>NOUN: fáil, bheith, chur, dhéanamh, rá, dul, thabhairt, cur, tabhairt, bhaint</li>
+    <li>NOUN: bheith, fáil, dhéanamh, chur, rá, dul, cur, thabhairt, siúl, teacht</li>
   </ul>
   </li>
 </ul>
@@ -168,7 +170,9 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: déanta, bunaithe, imithe, leagtha, ráite, scríofa, tugtha, Aontaithe, bailithe, briste</li>
+    <li>ADJ: déanta, bunaithe, curtha, imithe, caite, scríofa, tugtha, leagtha, ráite, aontaithe</li>
+    <li>NOUN: póilíneachta</li>
+    <li>PROPN: Aontaithe</li>
   </ul>
   </li>
 </ul>
@@ -176,7 +180,7 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Vnoun
   <ul>
-    <li>NOUN: dul, faire, obair, teacht, éirí, déanamh, iarraidh, brath, cur, breathnú</li>
+    <li>NOUN: dul, teacht, iarraidh, obair, cur, éirí, baint, déanamh, faire, brath</li>
   </ul>
   </li>
 </ul>
@@ -191,13 +195,15 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: mhaith, mhór, bheag, chéanna, iomlán, poiblí, óg, fada, inrátaithe, luachmhar</li>
-      <li>ADP: uirthi, ina, di, aici, á, inti, dá, léi, chuici, léithe</li>
+      <li>ADJ: mhór, mhaith, bheag, éigin, bhreá, chéanna, fada, iomlán, poiblí, sóisialta</li>
+      <li>ADP: uirthi, di, aici, ina, léi, á, inti, dá, léithe, chuici</li>
+      <li>CCONJ: toisc</li>
       <li>DET: na, a</li>
-      <li>NOUN: chuid, leith, bhliain, áit, uair, bliain, gcuid, cuid, aghaidh, gceist</li>
-      <li>PRON: sí, í, ise, hí</li>
-      <li>PROPN: Gaeilge, hÉireann, Éirinn, Ghaeilge, Mháire, Fraince, nGaeilge, Éire, Meiriceá, Máire</li>
-      <li>X: open</li>
+      <li>NOUN: chuid, leith, bhliain, áit, bliain, uair, cuid, tír, gcuid, oíche</li>
+      <li>PRON: sí, í, sise, ise, hí</li>
+      <li>PROPN: Gaeilge, hÉireann, Mháire, Éirinn, Ghaeilge, Fraince, Máire, nGaeilge, Éire, hEorpa</li>
+      <li>SCONJ: toisc</li>
+      <li>X: Ghaelainn, open, shilling</li>
     </ul>
   </li>
 </ul>
@@ -205,15 +211,18 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: mór, éigin, beag, chéanna, fada, óg, ard, bán, deireanach, eachtraigh</li>
-      <li>ADP: ann, air, ina, leis, aige, á, dá, dó, chuige, lena</li>
-      <li>AUX-Cop: Sé</li>
+      <li>ADJ: mór, éigin, beag, iomlán, fada, óg, chéanna, céanna, áirithe, ard</li>
+      <li>ADP: ann, air, ina, leis, aige, á, dá, dó, lena, de</li>
+      <li>AUX-Cop: sé</li>
       <li>DET: a</li>
-      <li>NOUN: rud, duine, fear, lá, daoine, chéile, alt, am, ceann, measc</li>
-      <li>PRON: sé, é, seisean, eisean, hé</li>
-      <li>PROPN: Átha, Bhaile, Seán, mBaile, Phádraig, Bhreandán, Chill, Chorcaí, Eoin, Fianna</li>
-      <li>VERB: Tá's</li>
-      <li>X: fá, Kill</li>
+      <li>INTJ: No</li>
+      <li>NOUN: duine, rud, fear, lá, chéile, daoine, fad, am, ceann, leabhar</li>
+      <li>NUM: fiche</li>
+      <li>PART: Mhac, ní, Mac</li>
+      <li>PRON: sé, é, seisean, hé, eisean</li>
+      <li>PROPN: Átha, Baile, Seán, Bhaile, mBaile, Phádraig, Cill, Pádraig, Euro, Fianna</li>
+      <li>VERB: Bain, Tá's</li>
+      <li>X: fá, Celtica, Erris, Irish, Kill, Politics, Skinner, Studica, The, Week</li>
     </ul>
   </li>
 </ul>
@@ -226,13 +235,14 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: beaga, éagsúla, difriúla, aisteacha, deonacha, lansacha, maithe, móra, poiblí, príomhúla</li>
-      <li>ADP: acu, ina, orthu, dóibh, leo, sna, againn, dúinn, á, díobh</li>
+      <li>ADJ: beaga, éagsúla, móra, óga, difriúla, maithe, áirithe, Sóisialta, aisteacha, deonacha</li>
+      <li>ADP: acu, orthu, ina, leo, sna, dóibh, againn, dúinn, á, díobh</li>
       <li>DET: na, a, ár</li>
-      <li>NOUN: daoine, dhaoine, tíortha, blianta, rudaí, rialacha, scrúduithe, Ballstáit, scéalta, seirbhísí</li>
-      <li>PRON: iad, siad, muid, hiad, siadsan, sibh, sinn, sinne, iadsan</li>
-      <li>PROPN: mBaile, Eorpach, Mumhan, gCill, hIceadha, Éireannaigh, Comharsain, Doirí, Fíoncheannaithe, Gaeil</li>
-      <li>VERB: Táimid, bhíodar, Amharcaigí, Bhíomar, Casaimid, Chaitheamar, Chuamar, Chuiridís, Creidimidne, Fuaireamar</li>
+      <li>NOUN: daoine, dhaoine, cúrsaí, blianta, rudaí, tithe, tíortha, lámha, rialacha, scéalta</li>
+      <li>PRON: iad, siad, muid, sibh, sinn, hiad, siadsan, sinne, iadsan</li>
+      <li>PROPN: mBaile, Éireannaigh, Coimisinéirí, Eorpach, Mumhan, Stáit, gCill, gConamara, hIceadha, Aontachtaíocha</li>
+      <li>VERB: táimid, bhíodar, chuadar, chuamar, mbeidís, rabhadar, Amharcaigí, Bhíomar, Buailimid, Casaimid</li>
+      <li>X: bádaí</li>
     </ul>
   </li>
 </ul>
@@ -240,16 +250,21 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: éigin, mór, chéanna, mhaith, mhór, óg, fada, beag, iomlán, ard</li>
-      <li>ADP: sa, ann, den, ina, air, san, don, leis, ón, á</li>
-      <li>AUX-Cop: Sé, Cén</li>
-      <li>DET: an, na, a, mo, do, m', a', 'n, cén, The</li>
-      <li>NOUN: bith, rud, duine, chuid, fear, féidir, lá, leith, oiread, chéile</li>
-      <li>PART: níos</li>
-      <li>PRON: sé, é, sí, mé, í, tú, cén, mise, ea, seisean</li>
-      <li>PROPN: Gaeilge, Átha, Bhaile, Seán, hÉireann, Éirinn, Ghaeilge, Mháire, nGaeilge, Éire</li>
-      <li>VERB: féach, bíodh, déan, bhíos, cuir, rabhas, Tabhair, faigh, glacaim, leanas</li>
-      <li>X: fá, dein, Bhraitheas, Kill, chuireas, domhsa, open</li>
+      <li>ADJ: mór, mhór, éigin, mhaith, iomlán, chéanna, óg, beag, fada, ard</li>
+      <li>ADP: sa, ann, den, ina, air, san, don, leis, ón, faoin</li>
+      <li>AUX: sé, An, Cén</li>
+      <li>AUX-Cop: sé, Cén</li>
+      <li>CCONJ: toisc</li>
+      <li>DET: an, na, a, mo, do, m', 'n, a', cén, The</li>
+      <li>INTJ: No</li>
+      <li>NOUN: duine, rud, bith, chuid, lá, féidir, chéile, fear, leith, bhliain</li>
+      <li>NUM: fiche</li>
+      <li>PART: níos, Mhac, an, ba, ní, Mac, a'</li>
+      <li>PRON: sé, é, mé, sí, í, tú, cén, ea, mise, seisean</li>
+      <li>PROPN: Gaeilge, Átha, hÉireann, Baile, Seán, Bhaile, Éirinn, Mháire, Cill, Ghaeilge</li>
+      <li>SCONJ: toisc</li>
+      <li>VERB: bíodh, féach, cuir, déan, tabhair, bhíos, rabhas, labhair, mbínn, bheifeá</li>
+      <li>X: fá, dein, domhsa, Bhraitheas, Celtica, Erris, Ghaelainn, Irish, Kill, Politics</li>
     </ul>
   </li>
 </ul>
@@ -261,7 +276,7 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Dat
     <ul>
-      <li>NOUN: gcrích, cionn, Tigh, láimh, chionn, chois, gcionn, leabhair, mbliana, ndíg</li>
+      <li>NOUN: cionn, láimh, tigh, gcrích, chois, mbliana, chionn, dtigh, gcionn, gcéin</li>
       <li>PROPN: Éirinn, hÉirinn</li>
     </ul>
   </li>
@@ -270,11 +285,11 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: beaga, eachtraigh, mhóir, speisialta, éagsúla, Caitlicí, Ultacha, bána, cháilithigh, deonacha</li>
+      <li>ADJ: Shóisialaigh, beaga, dhaonna, eachtraigh, mhóir, speisialta, sóisialta, éagsúla, Caitlicí, Gaelach</li>
       <li>DET: na</li>
-      <li>NOUN: airgid, cinn, tíre, bliana, cathrach, chloig, hoíche, teanga, Fómhair, Gaeltachta</li>
-      <li>NOUN-Inf: Fiosraithe, bhreithnithe, chleachta, claonta, cosanta, craptha, dhéanta, dumpála, eagraithe, fuaraithe</li>
-      <li>PROPN: Gaeilge, Átha, Bhaile, hÉireann, mBaile, Fraince, Chill, Mumhan, hEorpa, Chaoin</li>
+      <li>NOUN: cinn, bliana, tíre, airgid, oibre, léinn, scéil, Gaeltachta, scoile, seachtaine</li>
+      <li>NOUN-Inf: pleanála, scriosta, Fiosraithe, bailithe, bhreithnithe, chanta, chleachta, claonta, cosanta, craptha</li>
+      <li>PROPN: Gaeilge, Átha, hÉireann, Bhaile, mBaile, Fraince, Phádraig, hEorpa, Chaoin, Chill</li>
     </ul>
   </li>
 </ul>
@@ -282,9 +297,10 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>NomAcc
     <ul>
-      <li>ADJ: éigin, mór, chéanna, mhaith, mhór, óg, beaga, fada, beag, iomlán</li>
-      <li>NOUN: rud, chuid, duine, fear, lá, leith, bhliain, áit, daoine, uair</li>
-      <li>PROPN: Seán, Ghaeilge, Gaeilge, Mháire, nGaeilge, Éire, Bhreandán, Chorcaí, Fianna, John</li>
+      <li>ADJ: éigin, mór, mhaith, chéanna, mhór, óg, beaga, fada, beag, iomlán</li>
+      <li>NOUN: rud, chuid, duine, fear, lá, leith, bhliain, chéile, áit, daoine</li>
+      <li>NUM: fiche</li>
+      <li>PROPN: Seán, Mháire, Ghaeilge, Gaeilge, nGaeilge, Éire, Bhreandán, Chorcaí, Fianna, John</li>
       <li>VERB: Tá's</li>
       <li>X: Kill, open</li>
     </ul>
@@ -294,8 +310,8 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Voc
     <ul>
-      <li>NOUN: Chapaillín, Dhochtúir, Oideachais, bhithiúnaigh, chúil, dhaoine, fheara, ghrá, naofacht, pheaitín</li>
-      <li>PROPN: Dhoráid, Mháiréad, Phádraig, Pháidín, Sheáin, Tom</li>
+      <li>NOUN: bhó, fheara, Chapaillín, Dhaid, Dhochtúir, Oideachais, Rí, bhithiúnaigh, bhráithre, bran</li>
+      <li>PROPN: Dhoráid, Mháire, Mháiréad, Phádraig, Pháidín, Sheáin, Tom</li>
     </ul>
   </li>
 </ul>
@@ -308,11 +324,13 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Def
     <ul>
-      <li>DET: an, na, gach, chuile, a', a, 'n, ngach, iomaí, The</li>
-      <li>NOUN: fear, bhliain, saol, leabhar, lá, hoíche, áit, bliana, chloig, méid</li>
+      <li>AUX: An</li>
+      <li>DET: an, na, gach, chuile, 'n, a', a, ngach, achan, iomaí</li>
+      <li>NOUN: bhliain, fear, saol, leabhar, lá, duine, méid, bliana, tAire, áit</li>
       <li>NUM: dá, dhá</li>
-      <li>PROPN: Gaeilge, hÉireann, Ghaeilge, hEorpa, Coileánach, Afraic, Bheilg, Breathnach, Ceallach, Chaitlín</li>
-      <li>X: achan</li>
+      <li>PART: an, a'</li>
+      <li>PROPN: Gaeilge, hÉireann, Ghaeilge, hEorpa, na, an, Afraic, Cholóim, Coileánach, Coimisinéirí</li>
+      <li>X: achan, Ghaelainn</li>
     </ul>
   </li>
 </ul>
@@ -320,7 +338,7 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Ind
     <ul>
-      <li>NOUN: láimh, Criosanna, dlíthe, gnóthaí, oibre, uibheacha</li>
+      <li>NOUN: láimh, oibre, Criosanna, ainmneacha, cionn, dlíthe, gnóthaí, uibheacha</li>
     </ul>
   </li>
 </ul>
@@ -335,7 +353,7 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Cmp,Sup
     <ul>
-      <li>ADJ: mó, fearr, fhearr, mhó, déanaí, báine, caoile, ceolmhaire, ciallmhaire, daoire</li>
+      <li>ADJ: mó, fearr, fhearr, déanaí, mhó, faide, measa, báine, caoile, lú</li>
     </ul>
   </li>
 </ul>
@@ -343,8 +361,9 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: amháin, maith, léir, mór, áirithe, fada, mó, beag, céanna, náisiúnta</li>
-      <li>NOUN: ceart</li>
+      <li>ADJ: maith, amháin, léir, mór, nua, fada, céanna, minic, áirithe, mó</li>
+      <li>NOUN: leabhar, ceart, pósta</li>
+      <li>PROPN: Náisiúnta</li>
     </ul>
   </li>
 </ul>
@@ -357,8 +376,8 @@ and is co-funded under the European Regional Development Fund.
   <li>Neg
     <ul>
       <li>AUX-Cop: ní, nach, níor, nár, níorbh, nárbh</li>
-      <li>PART: ní, nach, níor, ná, nár, n'</li>
-      <li>VERB: raibh, níl, bheidh, bhfuil, fhaca, bhain, chuireann, dhéanfadh, mbeidh, thugann</li>
+      <li>PART: nach, ní, níor, ná, nár, n'</li>
+      <li>VERB: raibh, níl, bheidh, bhfuil, fhaca, bhain, chuireann, dhéanfadh, mbeidh, thug</li>
       <li>X: chan, cha, dein, ná</li>
     </ul>
   </li>
@@ -376,8 +395,16 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX-Cop: Ba, mba</li>
-      <li>VERB: bheadh, mbeadh, dtiocfadh, dhéanfadh, rachadh, bhféadfadh, bhféadfaí, chuirfeadh, dtuigfí, fhéadfadh</li>
+      <li>AUX-Cop: Ba, B', mba</li>
+      <li>VERB: bheadh, mbeadh, dtiocfadh, fhéadfadh, bhféadfaí, bhféadfadh, dhéanfadh, fhéadfaí, rachadh, thiocfadh</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Cnd,Int
+    <ul>
+      <li>VERB: gceapfaí, gcloisfimis, mbeadh</li>
     </ul>
   </li>
 </ul>
@@ -386,8 +413,17 @@ and is co-funded under the European Regional Development Fund.
   <li>Imp
     <ul>
       <li>PART: ná</li>
-      <li>VERB: bhíodh, féach, bíodh, déan, cuir, dhéanadh, Tabhair, faigh, mbínn, mbíodh</li>
+      <li>PROPN: Lig</li>
+      <li>VERB: bhíodh, bíodh, féach, cuir, mbíodh, déan, tabhair, dhéanadh, labhair, mbínn</li>
       <li>X: dein</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp,Int
+    <ul>
+      <li>VERB: mbíodh</li>
     </ul>
   </li>
 </ul>
@@ -395,7 +431,9 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Ind
     <ul>
-      <li>VERB: bhí, tá, raibh, atá, bhfuil, bheidh, beidh, thug, tháinig, mbeidh</li>
+      <li>NOUN: luas</li>
+      <li>SCONJ: dar</li>
+      <li>VERB: bhí, tá, raibh, atá, bhfuil, bheidh, beidh, thug, chuir, tháinig</li>
       <li>X: dhein, Bhraitheas, chuireas, deineadh</li>
     </ul>
   </li>
@@ -404,8 +442,9 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Int
     <ul>
-      <li>AUX-Cop: an, nach, Cén, nár</li>
+      <li>AUX-Cop: an, nach, nár, Arbh, Cén</li>
       <li>PART: nach</li>
+      <li>VERB: mbíonn</li>
     </ul>
   </li>
 </ul>
@@ -414,7 +453,7 @@ and is co-funded under the European Regional Development Fund.
   <li>Sub
     <ul>
       <li>PART: go</li>
-      <li>VERB: Roinne, chroma, n-imí, raibh, shéide</li>
+      <li>VERB: n-ithe, Loisce, Roinne, bhfeaca, bhfága, chroma, n-imí, ndéileáiltear, raibh, shéide</li>
     </ul>
   </li>
 </ul>
@@ -426,7 +465,8 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Fut
     <ul>
-      <li>VERB: bheidh, beidh, mbeidh, caithfidh, déanfaidh, cuirfidh, déanfar, féadfaidh, féadfidh, measfaidh</li>
+      <li>PART: an</li>
+      <li>VERB: bheidh, beidh, mbeidh, caithfidh, déanfaidh, féadfaidh, cuirfidh, déanfar, measfaidh, ndéanfar</li>
     </ul>
   </li>
 </ul>
@@ -434,11 +474,13 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Cop: ba, b', gur, níor, gurbh, mba, nár, ab, níorbh, ar</li>
-      <li>PART: gur, níor, ar, nár</li>
-      <li>SCONJ: Sular, murab</li>
+      <li>ADV: Cár</li>
+      <li>AUX-Cop: ba, b', gur, níor, gurbh, nár, mba, ab, níorbh, mb'</li>
+      <li>PART: gur, níor, ar, nár, b', nach, ba</li>
+      <li>PART-Cop: b', ba, gur</li>
+      <li>SCONJ: sular, murab</li>
       <li>SCONJ-Cop: Sular, murab</li>
-      <li>VERB: bhí, raibh, thug, tháinig, chuir, dúirt, bhíodh, cuireadh, rinneadh, rinne</li>
+      <li>VERB: bhí, raibh, thug, chuir, tháinig, dúirt, bhíodh, rinne, chuaigh, cuireadh</li>
       <li>X: dhein, chuireas, deineadh</li>
     </ul>
   </li>
@@ -447,9 +489,12 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Pres
     <ul>
-      <li>ADP-Cop: ar</li>
-      <li>AUX-Cop: is, gur, ní, nach, gurb, an, ar, sea</li>
-      <li>VERB: tá, atá, bhfuil, níl, deir, bhaineann, dar, adeir, chuireann, cuirtear</li>
+      <li>AUX-Cop: is, ní, gur, nach, gurb, an, sea, ar, nách, sé</li>
+      <li>NOUN: luas</li>
+      <li>PART-Cop: ar, is</li>
+      <li>SCONJ: Is, dar</li>
+      <li>SCONJ-Cop: Is</li>
+      <li>VERB: tá, atá, bhfuil, níl, deir, bhaineann, dar, adeir, chuireann, leanas</li>
       <li>X: Bhraitheas</li>
     </ul>
   </li>
@@ -462,7 +507,7 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Auto
     <ul>
-      <li>VERB: cuireadh, rinneadh, cuirtear, deonadh, dhéantar, dtagraítear, déanfar, déantar, faightear, shonraítear</li>
+      <li>VERB: cuireadh, rinneadh, foilsíodh, cuirtear, tugadh, bhféadfaí, déantar, faightear, baineadh, dtagraítear</li>
       <li>X: deineadh</li>
     </ul>
   </li>
@@ -479,9 +524,12 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Art
     <ul>
-      <li>ADP: sa, den, san, don, ón, faoin, sna, fén, ins</li>
+      <li>ADP: sa, den, san, don, ón, faoin, sna, fén, ins, dena</li>
+      <li>AUX: An, Cén</li>
       <li>AUX-Cop: Cén</li>
-      <li>DET: an, na, a, a', 'n, The, aon</li>
+      <li>DET: an, na, 'n, a', a, The, aon</li>
+      <li>PART: an, a'</li>
+      <li>PROPN: an, na</li>
     </ul>
   </li>
 </ul>
@@ -489,9 +537,10 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Dem
     <ul>
-      <li>AUX-Cop: Seo, Sin</li>
-      <li>DET: seo, sin, eile, san, úd, so, s', siúd</li>
-      <li>PRON: sin, seo, siúd, shin, san, in, iúd, súd, that</li>
+      <li>AUX: Sin, seo</li>
+      <li>AUX-Cop: seo, Sin</li>
+      <li>DET: seo, sin, eile, úd, san, so, s', siúd</li>
+      <li>PRON: sin, seo, shin, siúd, san, in, iúd, súd, that, so</li>
       <li>X: san, so</li>
     </ul>
   </li>
@@ -500,8 +549,8 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Emp
     <ul>
-      <li>ADP: againne, agamsa, agatsa, domsa, leatsa, liomsa, airsean, dósan, leosan, tríothusan</li>
-      <li>PRON: mise, seisean, eisean, ise, siadsan, sinne, iadsan, tusa</li>
+      <li>ADP: againne, agamsa, domsa, liomsa, agatsa, daoibhse, leatsa, airsean, chugamsa, duitse</li>
+      <li>PRON: mise, seisean, sise, eisean, ise, siadsan, sinne, tusa, iadsan</li>
     </ul>
   </li>
 </ul>
@@ -509,8 +558,8 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Ind
     <ul>
-      <li>DET: aon, cibé, uile, haon, n-uile</li>
-      <li>PRON: pé, Cibé, ceachtar, cheachtar</li>
+      <li>DET: aon, uile, cibé, haon, n-uile, t-aon</li>
+      <li>PRON: pé, Cibé, ceachtar, té, cheachtar</li>
     </ul>
   </li>
 </ul>
@@ -518,9 +567,10 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Int
     <ul>
-      <li>ADV: conas, cá, Cad</li>
+      <li>ADV: conas, cá, Cad, Cár</li>
       <li>DET: cad, cén</li>
       <li>PRON: cad, cé, cén, céard</li>
+      <li>SCONJ: cé</li>
     </ul>
   </li>
 </ul>
@@ -536,9 +586,12 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Rel
     <ul>
-      <li>AUX-Cop: ba, nach, is, ab, nár, nárbh</li>
-      <li>PART: a, ina, nach, inar, ar, lena, n-a, nár, faoina, lenar</li>
-      <li>VERB: atá, leanas, eireos, atáid, atáimse, bhíos, chaoinfeas, chuireas, fhéadas, rachas</li>
+      <li>ADP: le</li>
+      <li>AUX-Cop: nach, is, ba, ab, nár, nách, nárbh</li>
+      <li>NOUN: luas</li>
+      <li>PART: a, nach, ina, inar, ar, lena, faoina, nár, dá, n-a</li>
+      <li>PART-Cop: ba</li>
+      <li>VERB: atá, leanas, bhíos, eireos, atáid, atáimse, chaoinfeas, chuireas, fhéadas, mharcálas</li>
       <li>X: ná</li>
     </ul>
   </li>
@@ -552,7 +605,7 @@ and is co-funded under the European Regional Development Fund.
   <li>Card
     <ul>
       <li>NOUN: céad</li>
-      <li>NUM: dhá, trí, céad, seacht, ceithre, fiche, sé, aon, dá, cúig</li>
+      <li>NUM: dhá, trí, céad, dá, cúig, seacht, sé, ceithre, fiche, deich</li>
     </ul>
   </li>
 </ul>
@@ -560,7 +613,7 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Ord
     <ul>
-      <li>NUM: chéad, dara, 10ú, gcéad, 11ú, 17ú, 18ú, 3ú, cheathrú, dtríú</li>
+      <li>NUM: chéad, dara, gcéad, 18ú, 10ú, tríú, 11ú, 17ú, 26ú, 31ú</li>
     </ul>
   </li>
 </ul>
@@ -572,8 +625,9 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Yes
     <ul>
-      <li>ADP: ina, á, dá, lena, faoina, arna, óna, dhá, lenár, dár</li>
-      <li>DET: a, mo, do, m', ár, d'</li>
+      <li>ADP: ina, á, dá, lena, faoina, arna, óna, im, dhá, lenár</li>
+      <li>DET: a, mo, do, ár, m', d', dh'</li>
+      <li>X: a</li>
     </ul>
   </li>
 </ul>
@@ -598,11 +652,12 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>1
     <ul>
-      <li>ADP: liom, agam, againn, dúinn, orm, dom, linn, chugainn, chugam, a'm</li>
-      <li>DET: mo, m', ár</li>
-      <li>PRON: mé, muid, mise, sinn, sinne</li>
-      <li>VERB: bhíos, rabhas, Táimid, glacaim, leanas, mbeinn, mbínn, Bhíomar, Casaimid, Chaitheamar</li>
-      <li>X: Bhraitheas, chuireas, domhsa</li>
+      <li>ADP: liom, agam, orm, againn, dom, dúinn, chugam, chugainn, linn, a'm</li>
+      <li>DET: mo, ár, m'</li>
+      <li>PRON: mé, muid, mise, sinn, sinne, me</li>
+      <li>PROPN: Sinn</li>
+      <li>VERB: táimid, bhíos, rabhas, mbínn, chuamar, chuireas, cuirfead, glacaim, leanas, mbeinn</li>
+      <li>X: domhsa, Bhraitheas, chuireas</li>
     </ul>
   </li>
 </ul>
@@ -610,10 +665,11 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>2
     <ul>
-      <li>ADP: leat, agat, duit, ort, agatsa, leatsa, uait, agaibh, asat, oraibh</li>
-      <li>DET: do, d'</li>
-      <li>PRON: tú, sibh, thusa, thú, tusa</li>
-      <li>VERB: féach, déan, cuir, Tabhair, faigh, éist, Amharcaigí, BUAIL, Cheapfá, Lig</li>
+      <li>ADP: leat, agat, duit, ort, oraibh, uait, agatsa, asat, daoibhse, dhuit</li>
+      <li>DET: do, d', dh'</li>
+      <li>PRON: tú, sibh, tusa, thusa, thú</li>
+      <li>PROPN: Lig</li>
+      <li>VERB: féach, cuir, déan, tabhair, labhair, bheifeá, dóigh, faigh, lig, shílfeá</li>
       <li>X: dein</li>
     </ul>
   </li>
@@ -622,12 +678,12 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>3
     <ul>
-      <li>ADP: ann, ina, air, leis, acu, á, dá, aige, orthu, dó</li>
-      <li>AUX-Cop: Sé</li>
+      <li>ADP: ann, ina, air, leis, á, acu, dá, aige, orthu, dó</li>
+      <li>AUX-Cop: sé</li>
       <li>DET: a</li>
-      <li>PRON: sé, é, sí, iad, siad, í, ea, seisean, eisean, ise</li>
-      <li>VERB: bíodh, bhíodar, Chuiridís, Sheoladar, atáid, bheidís, bogadh, chríochnaíodar, chuadar, chuireadar</li>
-      <li>X: fá</li>
+      <li>PRON: sé, é, sí, iad, í, siad, ea, seisean, hé, sise</li>
+      <li>VERB: bíodh, bhíodar, chuadar, mbeidís, rabhadar, Chuiridís, Sheoladar, atáid, bhailíodar, bheidís</li>
+      <li>X: fá, a</li>
     </ul>
   </li>
 </ul>
@@ -647,7 +703,7 @@ and is co-funded under the European Regional Development Fund.
           <li>NUM: 1A, 3B, A, S1067</li>
           <li>PROPN: UNDDSMS</li>
           <li>SYM: post@clubsult.com</li>
-          <li>X: Co., Uimh., FÁS, A, I.R., IO, J., P., RTÉ, SEIF</li>
+          <li>X: Co., Dr., FÁS, RTÉ, Uimh., Dr, 4C, A, D., I.R.</li>
         </ul>
       </li>
     </ul>
@@ -665,13 +721,17 @@ and is co-funded under the European Regional Development Fund.
       <li>Munster
         <ul>
           <li>DET: san, so</li>
+          <li>PRON: san, so</li>
           <li>VERB: dhein</li>
-          <li>X: age, dein, des, dhein, fachta, Bhraitheas, chuireas, deineadh, ná, san</li>
+          <li>X: dhein, age, dein, des, fachta, ná, Bhraitheas, Ghaelainn, chuireas, deineadh</li>
         </ul>
       </li>
       <li>Ulster
         <ul>
-          <li>X: chan, fá, cha, Caidé, achan, domhsa</li>
+          <li>ADP: domh</li>
+          <li>AUX-Cop: chan</li>
+          <li>DET: achan</li>
+          <li>X: fá, chan, achan, cha, domhsa, Caidé, bádaí, choinne</li>
           <li>X-Cop: Caidé</li>
         </ul>
       </li>
@@ -690,8 +750,8 @@ and is co-funded under the European Regional Development Fund.
           <li>DET: The</li>
           <li>NOUN: Office, Regeneration, tasks, cheap</li>
           <li>PROPN: major</li>
-          <li>VERB: deemed</li>
-          <li>X: -e, Comptroller-General, Cyrano, Forget, I, Love, May, September, TrueType, You</li>
+          <li>VERB: bheitheá, deemed</li>
+          <li>X: The, tally, -e, Comptroller-General, Cyrano, Diamond, End, Era, Forget, Green</li>
         </ul>
       </li>
     </ul>
@@ -703,16 +763,21 @@ and is co-funded under the European Regional Development Fund.
     <ul>
       <li>Ecl
         <ul>
-          <li>ADJ: gcéanna</li>
+          <li>ADJ: chéanna, gcéanna</li>
           <li>AUX-Cop: mba</li>
           <li>DET: ngach, gach</li>
-          <li>NOUN: gcuid, gcás, gceist, ndóigh, bhfeidhm, gcónaí, gcomhairle, dtús, mbealach, ndáil</li>
-          <li>NOUN-Inf: bhfeidhmiú, bhfíorú, gcailliúint, gcomhlíonadh, gcraitheadh, gcraoladh, gcur, ndéanamh, ngabháil, ngoradh</li>
+          <li>NOUN: gcás, gcuid, gceist, ndóigh, dtaobh, gcónaí, mbliana, bhfeidhm, gcomhairle, mbaile</li>
+          <li>NOUN-Inf: gcur, ndéanamh, bhfeidhmiú, bhféachaint, bhfíorú, gcailliúint, gcaitheamh, gcló, gcomhlíonadh, gcomhnascadh</li>
           <li>NOUN-Vnoun: titim</li>
-          <li>NUM: gcéad, dtríú, gceithre</li>
+          <li>NUM: gcéad, dtríú, gceithre, n-aon, naoi</li>
           <li>PART: n-a</li>
-          <li>PROPN: mBaile, nGaeilge, Mumhan, gCill, nGaillimh, Mullen, Mí, Sergeant, gCambridge, gCuan</li>
-          <li>VERB: raibh, bhfuil, mbeidh, mbeadh, mbíonn, mbaineann, bhfaca, dtiocfadh, ndeachaigh, bhfuair</li>
+          <li>PROPN: mBaile, nGaeilge, nGaillimh, Mumhan, bhFrainc, gCill, gConamara, Feirste, Macha, Mullen</li>
+          <li>VERB: bhfuil, raibh, mbeadh, mbeidh, mbíonn, dtiocfadh, bhfaca, mbíodh, mbaineann, bhféadfaí</li>
+        </ul>
+      </li>
+      <li>Ecl,Emp
+        <ul>
+          <li>VERB: bhféadfainnse, mbínnse</li>
         </ul>
       </li>
       <li>Emp
@@ -724,32 +789,36 @@ and is co-funded under the European Regional Development Fund.
       </li>
       <li>HPref
         <ul>
-          <li>ADJ: háirithe, hamháin, hiontach, han-luath, hiomlán, hálainn, héifeachtach, héifeachtúil</li>
+          <li>ADJ: háirithe, hamháin, hiomlán, hiontach, héifeachtach, han-luath, han-mhaith, hingearach, háitiúil, hálainn</li>
+          <li>ADP: hair</li>
           <li>DET: haon</li>
-          <li>NOUN: háit, hordú, haigne, heagraíochtaí, hOllscoile, haghaidh, hainm, hainmhithe, halt, ham</li>
-          <li>NOUN-Inf: himeacht, hithe, hordú, húsáid</li>
+          <li>NOUN: háit, haghaidh, hordú, haigne, haois, heagraíochtaí, háiteanna, húsáid, hOileáin, hOllscoile</li>
+          <li>NOUN-Inf: húsáid, haisíoc, himeacht, hithe, hordú, hól</li>
           <li>NUM: haon</li>
-          <li>PROPN: h-Íde, hÉirinn, mí</li>
+          <li>PRON: hé</li>
+          <li>PROPN: h-Íde, hIaráice, hÉirinn, mí</li>
         </ul>
       </li>
       <li>Len
         <ul>
-          <li>ADJ: mhaith, cheart, chóir, Bhriotáineach, céanna, chéanna, mhór, chomhionann, chultúrtha, chuí</li>
-          <li>ADJ-Part: Bhunaithe</li>
-          <li>ADP: dhaoibh, dhom, dhíobh, dhúinn</li>
+          <li>ADJ: chóir, mhaith, cheart, céanna, chéanna, Bhriotáineach, bheag, mhór, phoiblí, bhreá</li>
+          <li>ADJ-Part: Bhunaithe, shuidhte</li>
+          <li>ADP: dhaoibh, dhom, dhíobh, dhó, dhóibh, dhúinn</li>
           <li>ADV: Thuaidh</li>
-          <li>NOUN: bheith, chur, dhéanamh, chuid, chéile, thabhairt, fho-alt, bhaint, fhios, chineál</li>
-          <li>NOUN-Inf: bheith, chur, dhéanamh, thabhairt, bhaint, chaitheamh, fháil, dhul, sheoladh, choinneáil</li>
-          <li>NUM: chéad, dhó, cheathrú, thrí, cheithre, sheacht, sheasca, thríú</li>
+          <li>NOUN: bheith, chur, dhéanamh, chuid, chéile, thabhairt, thaobh, bhaint, fhios, bhliain</li>
+          <li>NOUN-Inf: bheith, chur, dhéanamh, thabhairt, bhaint, fháil, chaitheamh, choinneáil, dhul, bhualadh</li>
+          <li>NUM: chéad, dhó, cheathrú, cheithre, chúig, mhíle, thrí, dheich, sheacht, sheasca</li>
+          <li>PART: Mhac</li>
           <li>PRON: cheachtar, thusa, thú</li>
-          <li>PROPN: Bhaile, Átha, Mháire, Phádraig, Bhreandán, Chill, Bhéal, Cholm, Chonamara, Ghaeilge</li>
-          <li>VERB: bhí, bheidh, raibh, thug, tháinig, bheadh, chuir, bhíonn, bhíodh, bhaineann</li>
-          <li>X: dhein, chuireas</li>
+          <li>PROPN: Átha, Bhaile, Mháire, Phádraig, Bhreandán, Chill, Chonamara, Ghaeilge, Mhaigh, Bhéal</li>
+          <li>VERB: bhí, raibh, bheidh, bhíonn, thug, chuir, tháinig, bheadh, bhíodh, chuaigh</li>
+          <li>X: dhein, The, chuireas</li>
         </ul>
       </li>
       <li>VF
         <ul>
-          <li>AUX-Cop: b', gurb, gurbh, ab, níorbh, mb', nárbh</li>
+          <li>AUX-Cop: b', gurb, gurbh, ab, níorbh, mb', Arbh, nárbh</li>
+          <li>PART-Cop: b'</li>
         </ul>
       </li>
     </ul>
@@ -761,26 +830,27 @@ and is co-funded under the European Regional Development Fund.
     <ul>
       <li>NotSlender
         <ul>
-          <li>ADJ: beaga, difriúla, príomhúla, seachtracha, aisteacha, bríomhara, crúcacha, deasa, deonacha, eachtracha</li>
+          <li>ADJ: beaga, móra, difriúla, fiara, ingearacha, maithe, príomhúla, seachtracha, óga, Oilimpeacha</li>
+          <li>PROPN: Beaga</li>
         </ul>
       </li>
       <li>Slender
         <ul>
-          <li>ADJ: éagsúla, aisteacha, bhradacha, chuí, cháilitheacha, dheonacha, ghlasa, mhéadracha, orgánacha, phríomhúla</li>
+          <li>ADJ: éagsúla, áitiúla, óga, Chonallacha, aisteacha, bhradacha, bhréana, chuí, cháilitheacha, dheonacha</li>
         </ul>
       </li>
       <li>Strong
         <ul>
-          <li>ADJ: beaga, éagsúla, Ultacha, bána, deonacha, difriúla, inmheánacha, maithe, móra, núicléacha</li>
-          <li>NOUN: daoine, oibreacha, ban, n-oibreacha, ndaoine, ceoltóirí, gCailíní, nduillí, orduithe, rudaí</li>
+          <li>ADJ: beaga, éagsúla, Ultacha, bána, comhionanna, deonacha, difriúla, gairide, inmheánacha, lán-aimseartha</li>
+          <li>NOUN: daoine, oibreacha, ban, n-oibreacha, ndaoine, scríbhneoirí, amhránaithe, ceoltóirí, cásanna, cúrsaí</li>
           <li>PROPN: Fíoncheannaithe</li>
         </ul>
       </li>
       <li>Weak
         <ul>
-          <li>ADJ: orgánach, plaisteach, saor</li>
-          <li>NOUN: Fiontar, súl, Náisiún, bhflaitheas, breiseán, fear, mballstát, Bhéal, Ealaíon, Foras</li>
-          <li>PROPN: Eorpach, Éireannach</li>
+          <li>ADJ: Gaelach, cliniciúil, díograiseach, mór, orgánach, plaisteach, saor</li>
+          <li>NOUN: súl, Fiontar, Náisiún, bhflaitheas, bhfocal, bord, bpobal, breiseán, crann, fear</li>
+          <li>PROPN: Eorpach, Bhaisleac, Cúng, gCeantar, Árann, Éireannach</li>
         </ul>
       </li>
     </ul>
@@ -797,13 +867,16 @@ and is co-funded under the European Regional Development Fund.
       </li>
       <li>Cmpl
         <ul>
+          <li>AUX-Cop: nach</li>
           <li>PART: go, nach, nár, ná</li>
         </ul>
       </li>
       <li>Comp
         <ul>
           <li>AUX-Cop: ba</li>
-          <li>PART: níos, ní</li>
+          <li>NOUN: ní, ba, níos</li>
+          <li>PART: níos, ba, ní</li>
+          <li>PART-Cop: ba</li>
         </ul>
       </li>
       <li>Cop
@@ -829,18 +902,19 @@ and is co-funded under the European Regional Development Fund.
       </li>
       <li>Pat
         <ul>
-          <li>PART: Ó, de, Mac, Uí, Ní, Nic, O', Mc, Mhic, O</li>
+          <li>PART: ó, mac, de, Uí, Ní, Mhic, O', Nic, Mc, O</li>
+          <li>PROPN: Ó</li>
         </ul>
       </li>
       <li>Vb
         <ul>
-          <li>PART: a, d', ní, gur, do, nach, níor, ar, an, ná</li>
+          <li>PART: a, d', ní, gur, nach, do, an, níor, ar, ná</li>
           <li>X: chan, cha, ná</li>
         </ul>
       </li>
       <li>Voc
         <ul>
-          <li>ADJ: Eachtraigh, fáinneach, ghil, ghrinn, uaisle</li>
+          <li>ADJ: chairdiúil, uaisle, Eachtraigh, chóir, fáinneach, ghil, ghrinn</li>
           <li>PART: a</li>
         </ul>
       </li>
@@ -853,7 +927,8 @@ and is co-funded under the European Regional Development Fund.
     <ul>
       <li>Cmpd
         <ul>
-          <li>ADP: i, go, ar, de, tar, in, le, os, thar, faoi</li>
+          <li>ADP: i, ar, de, go, tar, le, in, réir, os, éis</li>
+          <li>X: choinne, fá</li>
         </ul>
       </li>
     </ul>
@@ -878,12 +953,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (22)</li>
+      <li>VERB--NOUN (458)</li>
+      <li>VERB--NOUN-ADP(de) (1)</li>
       <li>VERB--NOUN-Dat (2)</li>
-      <li>VERB--NOUN-Gen (6)</li>
-      <li>VERB--NOUN-NomAcc (610)</li>
+      <li>VERB--NOUN-Gen (9)</li>
+      <li>VERB--NOUN-NomAcc (618)</li>
       <li>VERB--NOUN-NomAcc-ADP(le) (1)</li>
-      <li>VERB--PRON (416)</li>
+      <li>VERB--PRON (685)</li>
     </ul>
   </li>
 </ul>
@@ -891,12 +967,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (5)</li>
-      <li>VERB--NOUN-Gen (5)</li>
-      <li>VERB--NOUN-NomAcc (340)</li>
+      <li>VERB--NOUN (259)</li>
+      <li>VERB--NOUN-ADP(ar) (1)</li>
+      <li>VERB--NOUN-ADP(de) (1)</li>
+      <li>VERB--NOUN-ADP(le) (1)</li>
+      <li>VERB--NOUN-ADP(um) (1)</li>
+      <li>VERB--NOUN-Gen (7)</li>
+      <li>VERB--NOUN-Gen-ADP(chun) (1)</li>
+      <li>VERB--NOUN-NomAcc (348)</li>
       <li>VERB--NOUN-NomAcc-ADP(as) (1)</li>
       <li>VERB--NOUN-NomAcc-ADP(le) (1)</li>
-      <li>VERB--PRON (73)</li>
+      <li>VERB--PRON (132)</li>
     </ul>
   </li>
 </ul>
@@ -914,7 +995,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>case:voc</a>, <a>compound:prt</a>, <a>csubj:cleft</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>mark:prt</a>, <a>nmod:poss</a>, <a>obl:prep</a>, <a>obl:tmod</a>, <a>xcomp:pred</a></li>
+<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>case:voc</a>, <a>compound:prt</a>, <a>csubj:cleft</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:prt</a>, <a>nmod:poss</a>, <a>obl:prep</a>, <a>obl:tmod</a>, <a>xcomp:pred</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>acl</a>, <a>csubj</a></li>
 <li>The following 9 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

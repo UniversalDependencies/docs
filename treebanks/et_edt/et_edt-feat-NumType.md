@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-11980 tokens (3%) have a non-empty value of `NumType`.
-2340 types (3%) occur at least once with a non-empty value of `NumType`.
-1871 lemmas (4%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 6 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (9252; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2605; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (90; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (28; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances).
+12023 tokens (3%) have a non-empty value of `NumType`.
+2343 types (3%) occur at least once with a non-empty value of `NumType`.
+1874 lemmas (4%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 6 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (9280; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2620; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (90; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (28; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-9252 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+9280 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6879; 74%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (5748; 62%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6899; 74%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (5762; 62%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (9241; 100% of non-empty `NumType`): <em>kaks, 1, üks, 2, 000, kolm, 10, kahe, 3, ühe</em>
+* `Card` (9269; 100% of non-empty `NumType`): <em>kaks, 1, üks, 2, 000, kolm, 10, kahe, 3, ühe</em>
 * `Ord` (11; 0% of non-empty `NumType`): <em>kolmandat, 2000.-2001., I, III, Teine, VII, esimest, kolmas, sajas, teise</em>
 
 <table>
@@ -33,19 +33,19 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
   <tr><td><tt></tt></td><td><em>2000</em></td><td><em>2000.-2001.</em></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1482) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1484) occur only with one value of `NumType`.
 
 ### `ADJ`
 
-2605 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `NumType`.
+2620 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2605; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2605; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2605; 100%), <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2604; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1887; 72%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2620; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2620; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2620; 100%), <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2619; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1898; 72%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Card` (1; 0% of non-empty `NumType`): <em>Teine</em>
-* `Ord` (2604; 100% of non-empty `NumType`): <em>esimene, esimest, 1., esimese, teine, 2000., 2., teise, 1997., 1999.</em>
-* `EMPTY` (33983): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, viimase</em>
+* `Ord` (2619; 100% of non-empty `NumType`): <em>esimene, 1., esimest, esimese, teine, 2000., 2., teise, 1997., 1999.</em>
+* `EMPTY` (34153): <em>suur, võimalik, hea, eesti, suurem, uue, suure, raske, oluline, viimase</em>
 
 <table>
   <tr><th>Paradigm <i>teine</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -69,7 +69,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td></td><td><em>teiseks</em></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (394) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (395) occur only with one value of `NumType`.
 
 ### `SYM`
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `SYM` and `NumType` co-occurre
 `SYM` tokens may have the following values of `NumType`:
 
 * `Card` (90; 100% of non-empty `NumType`): <em>%, %-lt, %-le, %-ni</em>
-* `EMPTY` (592): <em>%, %-l, =, &amp;, %-ni, *, -, &, ?, §</em>
+* `EMPTY` (593): <em>%, %-l, =, &amp;, %-ni, *, -, &, ?, §</em>
 
 ### `PROPN`
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 
 * `Card` (6; 21% of non-empty `NumType`): <em>GP-2, Sputnik-1, ZIL-130, 8, Kolme, MiG-29</em>
 * `Ord` (22; 79% of non-empty `NumType`): <em>Teist, Teise, Kolmanda, ADV, M, Esimene, Esimese, Neljanda, Neljandal, Teisel</em>
-* `EMPTY` (26375): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
+* `EMPTY` (26537): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
 
 `NumType` seems to be **lexical feature** of `PROPN`. 100% lemmas (13) occur only with one value of `NumType`.
 
@@ -105,7 +105,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (4; 100% of non-empty `NumType`): <em>IL-5, IL-3, IL-4</em>
-* `EMPTY` (114699): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `EMPTY` (115600): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 ### `X`
 
@@ -121,13 +121,13 @@ The most frequent other feature values with which `X` and `NumType` co-occurred:
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="et_edt-dep-compound.html">compound</a></tt>]--> NUM</tt> (542; 100%),
-<tt>NUM --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> NUM</tt> (345; 100%),
+<tt>NUM --[<tt><a href="et_edt-dep-compound.html">compound</a></tt>]--> NUM</tt> (528; 100%),
+<tt>NUM --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> NUM</tt> (343; 100%),
 <tt>NUM --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> NUM</tt> (112; 100%),
-<tt>NUM --[<tt><a href="et_edt-dep-goeswith.html">goeswith</a></tt>]--> NUM</tt> (79; 100%),
-<tt>ADJ --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (62; 86%),
-<tt>NUM --[<tt><a href="et_edt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (50; 98%),
-<tt>SYM --[<tt><a href="et_edt-dep-compound.html">compound</a></tt>]--> NUM</tt> (38; 97%),
+<tt>NUM --[<tt><a href="et_edt-dep-goeswith.html">goeswith</a></tt>]--> NUM</tt> (94; 100%),
+<tt>ADJ --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (63; 86%),
+<tt>NUM --[<tt><a href="et_edt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (52; 98%),
+<tt>SYM --[<tt><a href="et_edt-dep-compound.html">compound</a></tt>]--> NUM</tt> (37; 97%),
 <tt>ADJ --[<tt><a href="et_edt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8; 80%),
 <tt>NUM --[<tt><a href="et_edt-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (7; 100%),
 <tt>NUM --[<tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (7; 100%).

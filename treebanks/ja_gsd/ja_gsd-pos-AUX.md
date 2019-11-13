@@ -6,21 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-GSD: POS Tags: `AUX`
 
-There are 118 `AUX` lemmas (0%), 283 `AUX` types (1%) and 23778 `AUX` tokens (13%).
+There are 118 `AUX` lemmas (0%), 282 `AUX` types (1%) and 23754 `AUX` tokens (13%).
 Out of 16 observed tags, the rank of `AUX` is: 7 in number of lemmas, 7 in number of types and 3 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: た, する, だ, いる, れる, ます, ない, ようだ, られる, なる
 
 The 10 most frequent `AUX` types:  た, し, れ, いる, さ, する, な, い, ます, に
 
-The 10 most frequent ambiguous lemmas: する (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 4704, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 1123), いる (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 2139, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 117), ます (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1281, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 3), ない (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1131, <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 237), なる (<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 730, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 236), おる (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 205, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 6), せる (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 203, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 4), 来る (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 167, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 60), ある (<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 837, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 164), できる (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 150, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 128)
+The 10 most frequent ambiguous lemmas: する (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 4705, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 1122), いる (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 2139, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 117), ます (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1281, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 3), ない (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1131, <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 237), なる (<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 730, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 236), おる (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 205, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 6), せる (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 203, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 4), 来る (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 167, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 60), ある (<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 837, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 164), できる (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 150, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 128)
 
-The 10 most frequent ambiguous types:  し (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 2502, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 870, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 46), いる (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1249, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 47), さ (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1118, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 98, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 55), する (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1043, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 144), な (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 893, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 26, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 3), い (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 864, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 71), ます (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 666, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 3), に (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 5443, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 601, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 17), ない (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 566, <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 140), で (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2781, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 471, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 154, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 7)
+The 10 most frequent ambiguous types:  し (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 2503, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 869, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 46), いる (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1249, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 47), さ (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1118, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 98, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 55), する (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1043, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 144), な (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 893, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 26, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 3), い (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 864, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 71), ます (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 666, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 3), に (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 5443, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 602, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 17), ない (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 566, <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 140), で (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2781, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 471, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 154, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 7)
 
 
 * し
-  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 2502: 同僚 教師 の すみれ と 彩 は そんな 夕子 と 意気投合 <b>し</b> 、 問題 を 解決 する ため 行動 を 共に する 。
-  * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 870: ヴィクトル ・ ユゴー など フランス ・ ロマン派 を 専門 と <b>し</b> た 。
+  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 2503: 同僚 教師 の すみれ と 彩 は そんな 夕子 と 意気投合 <b>し</b> 、 問題 を 解決 する ため 行動 を 共に する 。
+  * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 869: ヴィクトル ・ ユゴー など フランス ・ ロマン派 を 専門 と <b>し</b> た 。
   * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 46: 彼 に関する 本 を 何 冊 も 読み まし た <b>し</b> , 彼 の プレゼン を YouTube で 見 て は 興奮 し て い まし た 。
 * いる
   * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1249: 海 は 油膜 を 貼っ て 青白く 光っ て おり 、 無数 の 漂着物 が 流れ て <b>いる</b> 。
@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  し (<tt><a href="ja_gsd-pos-AUX.html">AU
   * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 3: “ 1000 万 円 当たり <b>ます</b> ように ” と いう の も あり まし た 。
 * に
   * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 5443: ただし 、 50 周年 ソング <b>に</b> 変更 後 は 、 ED も 歌 つき の もの が 使わ れ た 。
-  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 601: スタッフ さん も 親切 <b>に</b> 接し て くれ た ので 、 緊張 せ ず に 居心地 が 良かっ た です 。
+  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 602: スタッフ さん も 親切 <b>に</b> 接し て くれ た ので 、 緊張 せ ず に 居心地 が 良かっ た です 。
   * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 17: スタッフ さん も 親切 に 接し て くれ た ので 、 緊張 せ ず <b>に</b> 居心地 が 良かっ た です 。
 * ない
   * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 566: 16 日 の 東京株式市場 も 主力 輸出 株 は さえ <b>ない</b> 。
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  し (<tt><a href="ja_gsd-pos-AUX.html">AU
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.398305 (the average of all parts of speech is 1.058680).
+The form / lemma ratio of `AUX` is 2.389831 (the average of all parts of speech is 1.058496).
 
 The 1st highest number of forms (22) was observed with the lemma “だ”: 、で, く, じゃ, だ, だっ, だろ, で, であっ, であり, である, であれ, であろ, でし, でしょ, です, では, でも, な, なら, なる, に, の.
 
@@ -71,11 +71,11 @@ The 3rd highest number of forms (8) was observed with the lemma “そうだ”:
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="ja_gsd-dep-aux.html">aux</a></tt> (21416; 90% instances), <tt><a href="ja_gsd-dep-cop.html">cop</a></tt> (2176; 9% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (184; 1% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (2; 0% instances)
+`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="ja_gsd-dep-aux.html">aux</a></tt> (21394; 90% instances), <tt><a href="ja_gsd-dep-cop.html">cop</a></tt> (2175; 9% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (183; 1% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (2; 0% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (18553; 78% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (2640; 11% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (2334; 10% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (138; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (62; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (36; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (2; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (18526; 78% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (2641; 11% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (2334; 10% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (138; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (64; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (36; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (2; 0% instances)
 
-23778 (100%) `AUX` nodes are leaves.
+23754 (100%) `AUX` nodes are leaves.
 
 The highest child degree of a `AUX` node is 0.
 

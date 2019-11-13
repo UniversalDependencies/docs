@@ -8,24 +8,29 @@ udver: '2'
 
 This relation is universal.
 
-33429 nodes (6%) are attached to their parents as `amod`.
+189509 nodes (6%) are attached to their parents as `amod`.
 
-33428 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09031080798109.
+189480 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.09834889108169.
 
-The following 13 pairs of parts of speech are connected with `amod`: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (32074; 96% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (696; 2% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (474; 1% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (68; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (47; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (44; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `amod`: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (182222; 96% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (4331; 2% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (1789; 1% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (416; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (345; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (198; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (124; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (26; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 amod	color:blue
-1	Europäischer	europäisch	ADJ	ADJA	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
-2	Fernsehsender	Sender	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	0	root	_	_
-3	im	im	ADP	APPRART	Case=Dat	4	case	_	_
-4	Internet	Internet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	2	nmod	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 amod	color:blue
+1	"	"	PUNCT	$(	PunctType=Brck	4	punct	_	_
+2	Diesen	dies	DET	PDAT	Case=Dat|Number=Plur|PronType=Dem	3	det	_	_
+3	Gerüchten	Gerücht	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur|Person=3	4	obj	_	_
+4	liegt	liegen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	eine	eine	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	unseriöse	unseriöse	ADJ	ADJA	Gender=Fem|Number=Sing	7	amod	_	_
+7	Recherche	Recherche	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nsubj	_	_
+8	zugrunde	zugrunde	ADP	PTKVZ	PartType=Vbp	4	compound:prt	_	_
+9	.	.	PUNCT	$.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -36,16 +41,16 @@ The following 13 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 amod	color:blue
-1	Die	Die	DET	ART	Case=Nom|Gender=Fem|Number=Sing	2	det	_	_
+1	Die	Die	DET	ART	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	max.mobil	max.mobil	PROPN	NE	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
-3	gehört	gehören	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-4	zu	zu	ADP	APPR	Case=Dat	6	case	_	_
-5	81	81	NUM	CARD	Number=Plur|Person=3	6	nummod	_	_
+3	gehört	gehören	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	zu	zu	ADP	APPR	AdpType=Prep|Case=Dat	6	case	_	_
+5	81	81	NUM	CARD	Number=Plur|NumType=Card|Person=3	6	nummod	_	_
 6	Prozent	Prozent	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur|Person=3	3	obl	_	_
-7	der	der	DET	ART	Case=Dat|Gender=Fem|Number=Sing	9	det	_	_
+7	der	der	DET	ART	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	Deutschen	deutsch	ADJ	ADJA	Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
 9	Telekom	Telekom	PROPN	NE	Case=Dat|Gender=Fem|Number=Sing|Person=3	3	obj	_	_
-10	.	.	PUNCT	$.	_	3	punct	_	_
+10	.	.	PUNCT	$.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -56,15 +61,15 @@ The following 13 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 amod	color:blue
-1	Als	Als	ADP	KOKOM	_	2	case	_	_
+1	Als	Als	CCONJ	KOKOM	ConjType=Comp	2	case	_	_
 2	Zielgruppe	Zielgruppe	NOUN	NN	Gender=Fem|Number=Sing|Person=3	3	obl	_	_
-3	sieht	sehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	sieht	sehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	Meister	Meister	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
-5	15	15	NUM	CARD	Number=Plur|Person=3	3	obj	_	_
-6	bis	bis	ADP	APPR	_	8	case	_	_
+5	15	15	NUM	CARD	Number=Plur|NumType=Card|Person=3	3	obj	_	_
+6	bis	bis	ADP	APPR	AdpType=Prep	8	case	_	_
 7	25-jährige	jährig	ADJ	ADJA	Degree=Pos|Number=Plur	8	amod	_	_
-8	Surfer	Surfer	X	FM	Person=3	5	nmod	_	_
-9	.	.	PUNCT	$.	_	3	punct	_	_
+8	Surfer	Surfer	X	FM	Foreign=Yes|Person=3	5	nmod	_	_
+9	.	.	PUNCT	$.	PunctType=Peri	3	punct	_	_
 
 ~~~
 

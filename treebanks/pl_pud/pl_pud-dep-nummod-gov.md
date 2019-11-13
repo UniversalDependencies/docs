@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pl_pud-dep-nummod.html">nummod</a></tt>.
 
-62 nodes (0%) are attached to their parents as `nummod:gov`.
+69 nodes (0%) are attached to their parents as `nummod:gov`.
 
-62 instances of `nummod:gov` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11290322580645.
+69 instances of `nummod:gov` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14492753623188.
 
-The following 2 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (53; 85% instances), <tt><a href="pl_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (9; 15% instances).
+The following 2 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (60; 87% instances), <tt><a href="pl_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (9; 13% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 4	obszarze	obszar	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	5:obl	_
 5	wzrosły	wzrosnąć	VERB	praet:pl:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	8	case	8:case	Case=Loc
-7	2015	2015	X	dig	NumForm=Digit	8	nmod:flat	8:nmod:flat	_
+7	2015	2015	ADJ	adj:sg:loc:m3:pos	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	8	amod:flat	8:amod:flat	_
 8	r	rok	X	brev:pun	Abbr=Yes|Pun=Yes	5	obl	5:obl	SpaceAfter=No
 9	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	_
 10	o	o	ADP	prep:acc	AdpType=Prep	12	case	12:case	Case=Acc

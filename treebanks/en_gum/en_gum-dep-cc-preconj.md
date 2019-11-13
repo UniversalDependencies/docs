@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-cc.html">cc</a></tt>.
 
-48 nodes (0%) are attached to their parents as `cc:preconj`.
+51 nodes (0%) are attached to their parents as `cc:preconj`.
 
-47 instances of `cc:preconj` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.9375.
+50 instances of `cc:preconj` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.92156862745098.
 
-The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (25; 52% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (8; 17% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (7; 15% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (6; 13% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (27; 53% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (8; 16% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (7; 14% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (7; 14% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -59,24 +59,25 @@ The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 cc:preconj	color:blue
-1	These	these	DET	DT	Number=Plur|PronType=Dem	2	det	_	_
-2	names	name	NOUN	NNS	Number=Plur	4	nsubj:pass	_	_
-3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
-4	given	give	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	either	either	CCONJ	CC	_	7	cc:preconj	_	_
-6	in	in	ADP	IN	_	7	case	_	_
-7	Eegimaa	Eegimaa	PROPN	NNP	Number=Sing	4	obl	_	_
-8	or	or	CCONJ	CC	_	12	cc	_	_
-9	in	in	ADP	IN	_	12	case	_	_
-10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	_
-11	different	different	ADJ	JJ	Degree=Pos	12	amod	_	_
-12	language	language	NOUN	NN	Number=Sing	6	conj	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	4	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 cc:preconj	color:blue
+1	In	in	ADP	IN	_	3	case	_	_
+2	existing	exist	VERB	VBG	VerbForm=Ger	3	amod	_	_
+3	proposals	proposal	NOUN	NNS	Number=Plur	7	obl	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+6	can	can	AUX	MD	VerbForm=Fin	7	aux	_	_
+7	find	find	VERB	VB	VerbForm=Inf	0	root	_	_
+8	both	both	CCONJ	DT	_	9	cc:preconj	_	_
+9	generic	generic	ADJ	JJ	Degree=Pos	13	amod	_	_
+10	and	and	CCONJ	CC	_	11	cc	_	_
+11	specific	specific	ADJ	JJ	Degree=Pos	9	conj	_	_
+12	mutation	mutation	NOUN	NN	Number=Sing	13	compound	_	_
+13	operators	operator	NOUN	NNS	Number=Plur	7	obj	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~
 

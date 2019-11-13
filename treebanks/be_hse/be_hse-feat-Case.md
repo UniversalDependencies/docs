@@ -24,9 +24,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 * `Acc` (581; 15% of non-empty `Case`): <em>выкананне, дзейнасць, органы, час, нагляд, намер, санкцыі, спіс, вядзенне, кантроль</em>
 * `Dat` (91; 2% of non-empty `Case`): <em>папярэджанню, вобласці, лiквiдацыi, абнаўленню, ажыццяўленні, выкарыстанню, вырашэнні, вытворчасцi, гледачам, захаванню</em>
-* `Gen` (1686; 42% of non-empty `Case`): <em>Рэспублiкi, органаў, сiтуацый, падраздзяленняў, сакавіка, абароны, года, бяспекi, лiквiдацыi, работнiкаў</em>
+* `Gen` (1687; 42% of non-empty `Case`): <em>Рэспублiкi, органаў, сiтуацый, падраздзяленняў, сакавіка, абароны, года, бяспекi, лiквiдацыi, работнiкаў</em>
 * `Ins` (326; 8% of non-empty `Case`): <em>заканадаўствам, органамi, грамадзянамi, арганiзацыямi, падраздзяленнямi, абаронай, выкананнем, актамi, асобамi, лiквiдацыяй</em>
-* `Loc` (649; 16% of non-empty `Case`): <em>сiтуацыях, галiне, адпаведнасцi, парадку, лiквiдацыi, дачыненні, годзе, лютым, межах, правах</em>
+* `Loc` (648; 16% of non-empty `Case`): <em>сiтуацыях, галiне, адпаведнасцi, парадку, лiквiдацыi, дачыненні, годзе, лютым, межах, правах</em>
 * `Nom` (642; 16% of non-empty `Case`): <em>Артыкул, органы, падраздзяленнi, мова, Мiнiстэрства, работнiкi, грамадзяне, зарплата, нагляд, асобы</em>
 * `EMPTY` (2): <em>млн, склаў</em>
 
@@ -46,9 +46,9 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 * `Acc` (224; 14% of non-empty `Case`): <em>iншыя, дзяржаўны, iншую, беларускую, чорны, смяротнае, апошнія, выканаўчыя, мясцовыя, неабходныя</em>
 * `Dat` (24; 1% of non-empty `Case`): <em>Гродзенскай, беларускаму, Абласным, Віцебскай, Мiнскаму, абавязковаму, агульнай, адэкватным, афіцыйнай, беларускай</em>
-* `Gen` (676; 41% of non-empty `Case`): <em>надзвычайных, дзяржаўнага, радыяцыйнай, прамысловай, грамадзянскай, пажарнай, iншых, асабiстай, падсобнай, надзвычайнай</em>
+* `Gen` (677; 41% of non-empty `Case`): <em>надзвычайных, дзяржаўнага, радыяцыйнай, прамысловай, грамадзянскай, пажарнай, iншых, асабiстай, падсобнай, надзвычайнай</em>
 * `Ins` (167; 10% of non-empty `Case`): <em>iншымi, выканаўчымi, распарадчымi, мясцовымi, грамадзянскай, рэспублiканскiмi, Асноўнымi, беларускімі, знешнім, самым</em>
-* `Loc` (256; 16% of non-empty `Case`): <em>надзвычайных, беларускім, 2012, асабiстых, другім, падсобных, першым, 2011, Мінскай, адмiнiстрацыйных</em>
+* `Loc` (255; 16% of non-empty `Case`): <em>надзвычайных, беларускім, 2012, асабiстых, другім, падсобных, першым, 2011, Мінскай, адмiнiстрацыйных</em>
 * `Nom` (292; 18% of non-empty `Case`): <em>iншыя, беларуская, дзяржаўны, беларускі, Мiнскае, гарадское, сярэдняя, Абласныя, Асноўныя, Нацыянальны</em>
 * `EMPTY` (34): <em>павінны, важна, немагчыма, перакананы, вымушаны, павінна, адкрыта, актуальны, дзіўна, звязана</em>
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Ins` (24; 6% of non-empty `Case`): <em>гэтым, тым, чым, імі, якімі, ім, iмi, вамі, кім, якiм</em>
 * `Loc` (23; 6% of non-empty `Case`): <em>iх, гэтым, якой, тым, якім, сабе, чым, якіх, іх</em>
 * `Nom` (211; 53% of non-empty `Case`): <em>я, гэта, якiя, якія, яны, мы, які, што, ён, вы</em>
-* `EMPTY` (3): <em>гэта, што</em>
+* `EMPTY` (4): <em>гэта, што</em>
 
 <table>
   <tr><th>Paradigm <i>які</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -215,14 +215,14 @@ The most frequent other feature values with which `SYM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1321; 98%),
-<tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (464; 91%),
-<tt>NOUN --[<tt><a href="be_hse-dep-det.html">det</a></tt>]--> DET</tt> (139; 77%),
+<tt>NOUN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1320; 98%),
+<tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (460; 91%),
+<tt>NOUN --[<tt><a href="be_hse-dep-det.html">det</a></tt>]--> DET</tt> (140; 77%),
 <tt>ADJ --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (119; 94%),
-<tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (82; 98%),
+<tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (83; 99%),
 <tt>NOUN --[<tt><a href="be_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (71; 75%),
 <tt>PROPN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (69; 99%),
 <tt>ADJ --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (48; 86%),
 <tt>NOUN --[<tt><a href="be_hse-dep-nummod-entity.html">nummod:entity</a></tt>]--> NUM</tt> (33; 97%),
-<tt>NOUN --[<tt><a href="be_hse-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (28; 85%).
+<tt>NOUN --[<tt><a href="be_hse-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (27; 84%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lzh_kyoto-dep-flat.html">flat</a></tt>.
 
-307 nodes (1%) are attached to their parents as `flat:vv`.
+565 nodes (1%) are attached to their parents as `flat:vv`.
 
-307 instances of `flat:vv` (100%) are left-to-right (parent precedes child).
+565 instances of `flat:vv` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `flat:vv`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (300; 98% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (7; 2% instances).
+The following 6 pairs of parts of speech are connected with `flat:vv`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (512; 91% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (43; 8% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,23 +31,33 @@ The following 2 pairs of parts of speech are connected with `flat:vv`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 flat:vv	color:blue
-1	王	王	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=king|SpaceAfter=No
-2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
-3	好	好	VERB	v,動詞,行為,態度	_	5	csubj	_	Gloss=favour|SpaceAfter=No
-4	樂	樂	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=music|SpaceAfter=No
-5	甚	甚	VERB	v,動詞,描写,形質	Degree=Pos	10	advcl	_	Gloss=extreme|SpaceAfter=No
-6	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	10	advmod	_	Gloss=then|SpaceAfter=No
-7	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	8	nmod	_	Gloss=[country-name]|SpaceAfter=No
-8	國	國	NOUN	n,名詞,主体,集団	_	10	nsubj	_	Gloss=country|SpaceAfter=No
-9	其	其	PART	p,助詞,句頭,*	_	10	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
-10	庶	庶	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=common|SpaceAfter=No
-11	幾	幾	ADV	v,副詞,判断,推定	_	10	flat:vv	_	Gloss=how-many|SpaceAfter=No
-12	乎	乎	PART	p,助詞,句末,*	_	10	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat:vv	color:blue
+1	浸	浸	ADV	v,動詞,行為,動作	VerbForm=Conv	4	advmod	_	Gloss=soak|SpaceAfter=No
+2	潤	潤	VERB	v,動詞,描写,形質	Degree=Pos	1	flat:vv	_	Gloss=moisten|SpaceAfter=No
+3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
+4	譖	譖	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=accuse-falsely|SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 flat:vv	color:blue
+1	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	2	det	_	Gloss=[1PRON]|SpaceAfter=No
+2	王	王	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=king|SpaceAfter=No
+3	庶	庶	ADV	v,動詞,描写,量	Degree=Pos|VerbForm=Conv	5	advmod	_	Gloss=common|SpaceAfter=No
+4	幾	幾	ADV	v,副詞,判断,推定	_	3	flat:vv	_	Gloss=how-many|SpaceAfter=No
+5	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+6	疾	疾	NOUN	n,名詞,不可譲,疾病	_	5	obj	_	Gloss=illness|SpaceAfter=No
+7	病	病	NOUN	n,名詞,不可譲,疾病	_	6	flat	_	Gloss=disease|SpaceAfter=No
+8	與	與	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 
 ~~~
 

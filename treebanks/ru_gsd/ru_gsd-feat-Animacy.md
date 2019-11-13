@@ -247,7 +247,7 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1086; 95%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1000; 64%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (963; 99%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (890; 93%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (891; 93%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> NOUN</tt> (650; 84%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (527; 97%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> PROPN</tt> (519; 99%),

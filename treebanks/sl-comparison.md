@@ -36,7 +36,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 18508 tokens (13%) that are not followed by a space.</li>
+      <li>This corpus contains 25466 tokens (18%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -512,7 +512,7 @@ udver: '2'
       <ul>
         <li>Dual
           <ul>
-            <li>ADJ: blagovni, blagovnih, cela, drugih, grozna, mali, napisana, predvidena, spodnji, sprejeta</li>
+            <li>ADJ: blagovni, blagovnih, drugih, grozna, mali, napisana, predvidena, spodnji, sprejeta, upognjena</li>
             <li>ADJ-Part: napisana, predvidena, sprejeta, upognjena</li>
             <li>AUX-Fin: sta, sva, bova, bosta, nisva</li>
             <li>AUX-Part: bila</li>
@@ -1975,19 +1975,19 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: biti, _.</li>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: biti.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: biti, bga, dab, dam, gauš, kse, neb, seu, tlelevš.</li>
+      <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: biti.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: biti, _.</li>
+      <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: biti.</li>
       </ul>
     </td>
   </tr>
@@ -2183,7 +2183,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 3 relation subtypes: <a>cc:preconj</a>, <a>flat:foreign</a>, <a>flat:name</a></li>
-      <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 7 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -2191,7 +2191,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 7 relation subtypes: <a>cc:preconj</a>, <a>conj:extend</a>, <a>discourse:filler</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>parataxis:discourse</a>, <a>parataxis:restart</a></li>
-      <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>dep</a></li>
+      <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a></li>
       </ul>
     </td>
   </tr>

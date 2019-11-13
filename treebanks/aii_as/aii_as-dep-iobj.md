@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 iobj	color:blue
-1	ܒܸܕ	ܒܸܕ	PART	_	_	2	aux	_	_
+1	ܒܸܕ	ܒܸܕ	AUX	_	_	2	aux	_	_
 2	ܟܵܬ̣ܒܸܢ	ܟܵܬ̣ܒ	VERB	_	Gender=Masc|Number=Sing|Person=1	0	root	_	_
 3	ܠܸܗ	ܠܸܗ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
 4	ܕܪܵܫܝܼ	ܕܪܵܫܐ	NOUN	_	Gender=Masc|Number=Sing|Person=1|Poss=Yes	2	obj	_	_

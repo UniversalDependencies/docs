@@ -23,7 +23,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (45; 100% of non-empty `Abbr`): <em>o.a., o.m., dd, enz., Co, Dir, Gew, N.B., OLV, a.k.a</em>
-* `EMPTY` (422): <em>de, la, les, the, Vive, of, art, cordon, des, design</em>
+* `EMPTY` (420): <em>de, la, les, the, Vive, of, art, cordon, des, design</em>
 
 `Abbr` seems to be **lexical feature** of `X`. 100% lemmas (20) occur only with one value of `Abbr`.
 

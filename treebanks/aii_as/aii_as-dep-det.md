@@ -40,13 +40,13 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 1	ܟܠ	ܟܠ	DET	_	_	3	det	_	_
 2	ܚܲܕ	ܚܲܕ	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	ܢܦܝܼܠܵܐ	ܢܦܝܼܠܵܐ	ADJ	_	Gender=Masc|Number=Sing	5	nsubj	_	_
-4	ܟܸܐ	ܟܸܐ	PART	_	Mood=Ind	5	aux	_	_
+4	ܟܸܐ	ܟܸܐ	AUX	_	Mood=Ind	5	aux	_	_
 5	ܩܵܐܸܡ	ܩܵܐܸܡ	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Pres	0	root	_	Root=ܩܝܡ
 6	،	،	PUNCT	_	_	11	punct	_	_
 7	ܐܘܼܦ	ܐܘܼܦ	ADV	_	_	9	advmod	_	_
 8	ܐܲܚܢܲܢ	ܐܲܚܲܢ	PRON	_	Number=Plur|Person=1|PronType=Prs	9	nmod	_	_
 9	ܐܵܬܘܿܪܵܝܹܐ	ܐܵܬܘܿܪܵܝܐ	ADJ	_	Number=Plur	11	nsubj	_	_
-10	ܒܸܬ	ܒܸܬ	PART	_	_	11	aux	_	_
+10	ܒܸܬ	ܒܸܬ	AUX	_	_	11	aux	_	_
 11	ܩܵܝܡܲܚ	ܩܵܐܸܡ	VERB	_	Number=Plur|Person=1|Tense=Pres	5	parataxis	_	Root=ܩܝܡ
 12	.	.	PUNCT	_	_	5	punct	_	_
 

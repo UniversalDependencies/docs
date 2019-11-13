@@ -8,68 +8,32 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hy_armtdp-dep-csubj.html">csubj</a></tt>.
 
-13 nodes (0%) are attached to their parents as `csubj:pass`.
+17 nodes (0%) are attached to their parents as `csubj:pass`.
 
-13 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.
+17 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 11.1176470588235.
 
-The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (10; 77% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 8% instances).
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 11 csubj:pass	color:blue
-1	Պարզվել	պարզել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	Translit=parzvel|LTranslit=parzel
-2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=ē|LTranslit=em
-3	նաև	նաև	CCONJ	_	ConjType=Comp	1	cc	_	Translit=naew|LTranslit=naew|SpaceAfter=No
-4	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
-5	որ	որ	SCONJ	_	_	11	mark	_	Translit=or|LTranslit=or
-6	նման	նման	ADJ	_	_	7	amod	_	Translit=nman|LTranslit=nman
-7	աշխատողներն	աշխատող	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	11	nsubj	_	Translit=ašxatoġnern|LTranslit=ašxatoġ
-8	ավելի	ավելի	ADV	_	Degree=Cmp	9	advmod	_	Translit=aveli|LTranslit=aveli
-9	քիչ	քիչ	ADV	_	Degree=Pos	11	advmod	_	Translit=k’ič|LTranslit=k’ič
-10	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	Translit=en|LTranslit=em
-11	հիվանդանում	հիվանդանալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	1	csubj:pass	_	Translit=hivandanowm|LTranslit=hivandanal|SpaceAfter=No
-12	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
-
-~~~
+The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (15; 88% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 20 csubj:pass	color:blue
-1	Ներմուծման	ներմուծում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	2	nmod:poss	_	Translit=nermowçman|LTranslit=nermowçowm
-2	ոլորտում	ոլորտ	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	4	obl	_	Translit=olortowm|LTranslit=olort
-3	հետևյալ	հետևյալ	ADJ	_	_	4	amod	_	Translit=hetewyal|LTranslit=hetewyal
-4	պատկերն	պատկեր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=patkern|LTranslit=patker
-5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
-6	՝	՝	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
-7	պարզվում	պարզվել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	4	appos	_	Translit=parzvowm|LTranslit=parzvel
-8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
-9	,	,	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,
-10	որ	որ	SCONJ	_	_	20	mark	_	Translit=or|LTranslit=or
-11	նույն	նույն	DET	_	Distance=Dist|PronType=Dem	13	det	_	Translit=nowyn|LTranslit=nowyn
-12	հունվար	հունվար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	13	nmod	_	Translit=hownvar|LTranslit=hownvar
-13	ամսին	ամիս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	15	obl	_	Translit=amsin|LTranslit=amis
-14	Հայաստան	Հայաստան	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	15	obl	_	Translit=hayastan|LTranslit=hayastan
-15	ներմուծված	ներմուծել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	17	acl	_	Translit=nermowçvaç|LTranslit=nermowçel
-16	հանքահումքային	հանքահումքային	ADJ	_	_	17	amod	_	Translit=hank’ahowmk’ayin|LTranslit=hank’ahowmk’ayin
-17	արտադրանքի	արտադրանք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	18	nmod:poss	_	Translit=artadrank’i|LTranslit=artadrank’
-18	ծավալերն	ծավալ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur|Typo=Yes	20	nsubj	_	Translit=çavalern|LTranslit=çaval
-19	ավելի	ավելի	ADV	_	Degree=Cmp	20	advmod	_	Translit=aveli|LTranslit=aveli
-20	մեծ	մեծ	ADJ	_	Degree=Pos	7	csubj:pass	_	Translit=meç|LTranslit=meç
-21	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	cop	_	Translit=en|LTranslit=em
-22	եղել	լինել	AUX	_	Aspect=Perf|VerbForm=Part	20	aux	_	Translit=eġel|LTranslit=linel|SpaceAfter=No
-23	,	,	PUNCT	_	_	25	punct	_	Translit=,|LTranslit=,
-24	քան	քան	SCONJ	_	_	25	case	_	Translit=k’an|LTranslit=k’an
-25	արտահանվածը	արտահանված	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	20	obl	_	Translit=artahanvaçë|LTranslit=artahanvaç|SpaceAfter=No
-26	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 csubj:pass	color:blue
+1	Հայկը	Հայկ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	9	nsubj	_	Translit=Haykë|LTranslit=Hayk|SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
+3	թող	թող	PART	_	_	5	discourse	_	Translit=t’oġ|LTranslit=t’oġ
+4	թույլ	թույլ	X	_	_	5	compound:lvc	_	Translit=t’owyl|LTranslit=t’owyl
+5	տրվի	տալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	9	parataxis	_	Translit=trvi|LTranslit=tal
+6	ասել	ասել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	5	csubj:pass	_	Translit=asel|LTranslit=asel|SpaceAfter=No
+7	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
+8	համը	համ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	9	compound:lvc	_	Translit=hamë|LTranslit=ham
+9	հանել	հանել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=hanel|LTranslit=hanel
+10	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	Translit=ē|LTranslit=em
+11	ուղղակի	ուղղակի	ADV	_	_	9	advmod	_	Translit=owġġaki|LTranslit=owġġaki|SpaceAfter=No
+12	:	:	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -80,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 41	bgColor:blue
 # visual-style 41	fgColor:white
 # visual-style 41 45 csubj:pass	color:blue
-1	Բայց	բայց	CCONJ	_	_	13	cc	_	Translit=bayc’|LTranslit=bayc’
+1	Բայց	բայց	CCONJ	_	_	13	cc	_	Translit=Bayc’|LTranslit=bayc’
 2	նախքան	նախքան	ADP	_	AdpType=Prep	11	case	_	Translit=naxk’an|LTranslit=naxk’an
 3	ճանապարհների	ճանապարհ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	4	nmod:poss	_	Translit=č̣anaparhneri|LTranslit=č̣anaparh
 4	երկարության	երկարություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	11	obl	_	Translit=erkarowt’yan|LTranslit=erkarowt’yown
@@ -104,7 +68,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 22	էինք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Imp|VerbForm=Fin	23	aux	_	Translit=ēink’|LTranslit=em
 23	ճանաչում	ճանաչել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Act	58	advcl	_	Translit=č̣anačowm|LTranslit=č̣anačel|SpaceAfter=No
 24	՝	՝	PUNCT	_	_	25	punct	_	Translit=,|LTranslit=,
-25	Մարտինին	Մարտին	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Giv|Number=Sing	21	appos	_	Translit=martinin|LTranslit=martin|SpaceAfter=No
+25	Մարտինին	Մարտին	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Giv|Number=Sing	21	appos	_	Translit=Martinin|LTranslit=Martin|SpaceAfter=No
 26	,	,	PUNCT	_	_	32	punct	_	Translit=,|LTranslit=,
 27	իսկ	իսկ	CCONJ	_	_	32	cc	_	Translit=isk|LTranslit=isk
 28	մյուսին	մյուս	PRON	_	Case=Dat|Definite=Def|Distance=Dist|Number=Sing|PronType=Dem	32	obj	_	Translit=myowsin|LTranslit=myows|SpaceAfter=No
@@ -132,7 +96,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 50	փողոցի	փողոց	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	51	nmod:poss	_	Translit=p’oġoc’i|LTranslit=p’oġoc’
 51	անունն	անուն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	54	obj	_	Translit=anownn|LTranslit=anown
 52	անգամ	անգամ	ADV	_	_	51	advmod:emph	_	Translit=angam|LTranslit=angam
-53	չպիտի	պիտի	PART	_	Polarity=Neg	54	advmod	_	Translit=čpiti|LTranslit=piti
+53	չպիտի	պիտի	AUX	_	Polarity=Neg	54	aux	_	Translit=čpiti|LTranslit=piti
 54	լսած	լսել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	45	acl:relcl	_	Translit=lsaç|LTranslit=lsel
 55	լինեն	լինել	AUX	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	54	aux	_	Translit=linen|LTranslit=linel|SpaceAfter=No
 56	,	,	PUNCT	_	_	58	punct	_	Translit=,|LTranslit=,
@@ -142,8 +106,8 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 60	մեզ	մենք	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	62	obl	_	Translit=mez|LTranslit=menk’
 61	քաջ	քաջ	ADV	_	_	62	advmod	_	Translit=k’aǰ|LTranslit=k’aǰ
 62	ծանոթ	ծանոթ	ADJ	_	Degree=Pos	63	amod	_	Translit=çanot’|LTranslit=çanot’
-63	Մարտին	Մարտին	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	58	obj	_	Translit=martin|LTranslit=martin
-64	Սահակյանին	Սահակյան	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Sur|Number=Sing	63	flat	_	Translit=sahakyanin|LTranslit=sahakyan
+63	Մարտին	Մարտին	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	58	obj	_	Translit=Martin|LTranslit=Martin
+64	Սահակյանին	Սահակյան	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Sur|Number=Sing	63	flat	_	Translit=Sahakyanin|LTranslit=Sahakyan
 65	ու	ու	CCONJ	_	_	66	cc	_	Translit=ow|LTranslit=ow
 66	թվում	թվալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	58	conj	_	Translit=t’vowm|LTranslit=t’val
 67	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	66	aux	_	Translit=ēr|LTranslit=em|SpaceAfter=No
@@ -164,7 +128,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 82	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	81	aux	_	Translit=ēr|LTranslit=em|SpaceAfter=No
 83	,	,	PUNCT	_	_	85	punct	_	Translit=,|LTranslit=,
 84	լավ	լավ	ADV	_	Degree=Pos	85	advmod	_	Translit=lav|LTranslit=lav
-85	գիտենք	գիտենալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	81	csubj	_	Translit=gitenk’|LTranslit=gitenal
+85	գիտենք	գիտել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	81	csubj	_	Translit=gitenk’|LTranslit=gitel
 86	նրան	նա	PRON	_	Case=Dat|Definite=Def|Number=Sing|Person=3|PronType=Prs	85	obj	_	Translit=nran|LTranslit=na|SpaceAfter=No
 87	,	,	PUNCT	_	_	99	punct	_	Translit=,|LTranslit=,
 88	նա	նա	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	99	nsubj	_	Translit=na|LTranslit=na
@@ -181,6 +145,38 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 99	արել	անել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	85	conj	_	Translit=arel|LTranslit=anel
 100	կյանքում	կյանք	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	99	obl	_	Translit=kyank’owm|LTranslit=kyank’|SpaceAfter=No
 101	։	։	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 csubj:pass	color:blue
+1	Ցուցանակի	ցուցանակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	obl	_	Translit=C’owc’anaki|LTranslit=c’owc’anak
+2	վրա	վրա	ADP	_	AdpType=Post|Case=Nom	1	case	_	Translit=vra|LTranslit=vra
+3	նշված	նշել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	Translit=nšvaç|LTranslit=nšel
+4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
+5	՝	՝	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
+6	«	«	PUNCT	_	_	7	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+7	Զաբել	Զաբել	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	3	csubj:pass	_	Translit=Zabel|LTranslit=Zabel
+8	Եսայան	Եսայան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	7	flat	_	Translit=Esayan|LTranslit=Esayan|SpaceAfter=No
+9	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
+10	1878	1878	NUM	_	NumForm=Digit|NumType=Card	7	parataxis	_	Translit=1878|LTranslit=1878|SpaceAfter=No
+11	-	-	PUNCT	_	_	12	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+12	1943	1943	NUM	_	NumForm=Digit|NumType=Card	10	conj	_	Translit=1943|LTranslit=1943|SpaceAfter=No
+13	.	.	PUNCT	_	_	16	punct	_	Translit=.|LTranslit=.
+14	հայ	հայ	ADJ	_	Degree=Pos	16	amod	_	Translit=hay|LTranslit=hay
+15	կին	կին	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	16	nmod	_	Translit=kin|LTranslit=kin
+16	գրող	գրող	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	7	appos	_	Translit=groġ|LTranslit=groġ|SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,
+18	մարդու	մարդ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	19	nmod:poss	_	Translit=mardow|LTranslit=mard
+19	իրավունքների	իրավունք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	20	nmod:poss	_	Translit=iravownk’neri|LTranslit=iravownk’
+20	ակտիվիստ	ակտիվիստ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	16	conj	_	Translit=aktivist|LTranslit=aktivist|SpaceAfter=No
+21	»	»	PUNCT	_	_	7	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
+22	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3812 nodes (2%) are attached to their parents as `cop`.
+5298 nodes (2%) are attached to their parents as `cop`.
 
-2973 instances of `cop` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.67838405036726.
+4224 instances of `cop` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.69479048697622.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (1668; 44% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (825; 22% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (353; 9% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (340; 9% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (304; 8% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (255; 7% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (37; 1% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (26; 1% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (2262; 43% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (1327; 25% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (476; 9% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (460; 9% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (423; 8% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (262; 5% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (51; 1% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (30; 1% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,27 +54,29 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 cop	color:blue
-1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc	_	ref=MATT22.20
-2	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT22.20
-3	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	2	iobj	_	ref=MATT22.20|SpaceAfter=No
-4	:	:	PUNCT	COLON	_	6	punct	_	ref=MATT22.20
-5	Al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	6	det	_	ref=MATT22.20
-6	cui	cine	PRON	Pw3-so	Case=Dat,Gen|Number=Sing|Person=3|PronType=Int,Rel	2	parataxis	_	ref=MATT22.20
-7	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	ref=MATT22.20
-8	acest	acesta	DET	Dd3msr---e	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	9	det	_	ref=MATT22.20
-9	chip	chip	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT22.20
-10	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT22.20
-11	scriptura	scriptură	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	conj	_	ref=MATT22.20
-12	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	13	nsubj	_	ref=MATT22.20
-13	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl	_	ref=MATT22.20
-14	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	ref=MATT22.20
-15	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	13	obl	_	ref=MATT22.20|SpaceAfter=No
-16	?	?	PUNCT	QUEST	_	6	punct	_	ref=MATT22.20
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 3 cop	color:blue
+1	Ce	ci	CCONJ	Ccssz	Polarity=Neg	11	cc	_	ref=MATT5.37
+2	să	să	PART	Qs	PartType=Sub	11	mark	_	ref=MATT5.37
+3	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	11	cop	_	ref=MATT5.37
+4	cuvîntul	cuvânt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	ref=MATT5.37
+5	vostru	tău	DET	Ds2ms-p	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	4	det	_	ref=MATT5.37|SpaceAfter=No
+6	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT5.37
+7	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	nsubj	_	ref=MATT5.37|SpaceAfter=No
+8	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	ref=MATT5.37
+9	așa	așa	ADV	Rg	_	4	acl	_	ref=MATT5.37|SpaceAfter=No
+10	,	,	PUNCT	COMMA	_	9	punct	_	ref=MATT5.37
+11	așa	așa	ADV	Rg	_	0	root	_	ref=MATT5.37|SpaceAfter=No
+12	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT5.37
+13	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	15	nsubj	_	ref=MATT5.37
+14	nu	nu	ADV	Qz	Polarity=Neg	15	advmod	_	ref=MATT5.37|SpaceAfter=No
+15	-i	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	csubj	_	ref=MATT5.37|SpaceAfter=No
+16	,	,	PUNCT	COMMA	_	15	punct	_	ref=MATT5.37
+17	nu	nu	ADV	Qz	Polarity=Neg	11	conj	_	ref=MATT5.37|SpaceAfter=No
+18	.	.	PUNCT	PERIOD	_	11	punct	_	ref=MATT5.37
 
 ~~~
 

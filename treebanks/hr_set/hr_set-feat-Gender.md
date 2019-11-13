@@ -11,22 +11,22 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt>, <tt><a href="hr_set-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-100371 tokens (50%) have a non-empty value of `Gender`.
-32355 types (91%) occur at least once with a non-empty value of `Gender`.
+100354 tokens (50%) have a non-empty value of `Gender`.
+32354 types (91%) occur at least once with a non-empty value of `Gender`.
 15638 lemmas (84%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48398; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (23080; 12% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12823; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7199; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (6093; 3% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1551; 1% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (616; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (611; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48386; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22714; 11% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12826; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7366; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (6093; 3% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1551; 1% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (803; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (615; 0% instances).
 
 ### `NOUN`
 
-48398 <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+48386 <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34538; 71%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34528; 71%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (18906; 39% of non-empty `Gender`): <em>godine, godina, zemlje, kuna, zemalja, stranke, država, strane, vlada, vlasti</em>
-* `Masc` (22141; 46% of non-empty `Gender`): <em>milijuna, eura, ljudi, dana, predsjednik, poslova, način, ministar, dio, ponedjeljak</em>
-* `Neut` (7351; 15% of non-empty `Gender`): <em>vrijeme, mjesto, prava, pitanje, mjesta, pitanja, ulaganja, rješenje, članstvo, području</em>
+* `Fem` (18901; 39% of non-empty `Gender`): <em>godine, godina, zemlje, kuna, zemalja, stranke, država, strane, vlada, vlasti</em>
+* `Masc` (22136; 46% of non-empty `Gender`): <em>milijuna, eura, ljudi, dana, predsjednik, poslova, način, ministar, dio, ponedjeljak</em>
+* `Neut` (7349; 15% of non-empty `Gender`): <em>vrijeme, mjesto, prava, pitanje, mjesta, pitanja, ulaganja, rješenje, članstvo, području</em>
 * `EMPTY` (191): <em>dr., kg, GB, prof., m, km, g., kn, cm, mil.</em>
 
 <table>
@@ -38,20 +38,20 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>kune</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (6348) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (6347) occur only with one value of `Gender`.
 
 ### `ADJ`
 
-23080 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Gender`.
+22714 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21969; 95%), <tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (20821; 90%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15129; 66%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21604; 95%), <tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (20652; 91%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14950; 66%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (9045; 39% of non-empty `Gender`): <em>sve, prošle, hrvatske, druge, nove, europske, svih, prva, nova, novu</em>
-* `Masc` (10622; 46% of non-empty `Gender`): <em>novi, svi, prvi, drugi, vanjskih, glavni, hrvatski, sve, bivši, najveći</em>
-* `Neut` (3413; 15% of non-empty `Gender`): <em>moguće, potrebno, važno, dobro, drugo, internetskog, prvo, ljudskih, sva, pravo</em>
-* `EMPTY` (1211): <em>1., 2004., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
+* `Fem` (8897; 39% of non-empty `Gender`): <em>prošle, hrvatske, sve, nove, europske, druge, nova, novu, političke, srpske</em>
+* `Masc` (10441; 46% of non-empty `Gender`): <em>novi, svi, drugi, vanjskih, prvi, glavni, hrvatski, bivši, najveći, novog</em>
+* `Neut` (3376; 15% of non-empty `Gender`): <em>moguće, potrebno, važno, dobro, drugo, internetskog, ljudskih, pravo, radnih, radno</em>
+* `EMPTY` (1171): <em>2004., 1., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
 
 <table>
   <tr><th>Paradigm <i>velik</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -98,14 +98,14 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `PROPN`
 
-12823 <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Gender`.
+12826 <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12509; 98%), <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6512; 51%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12512; 98%), <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6512; 51%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (4060; 32% of non-empty `Gender`): <em>BiH, Hrvatskoj, Srbije, Hrvatska, Srbija, Hrvatske, Europe, Srbiji, Makedonija, Turske</em>
-* `Masc` (8339; 65% of non-empty `Gender`): <em>EU, SETimes, UN-a, Windows, Beogradu, NATO-u, NATO-a, Bog, Zagrebu, Zagreb</em>
+* `Fem` (4062; 32% of non-empty `Gender`): <em>BiH, Hrvatskoj, Srbije, Hrvatska, Srbija, Hrvatske, Europe, Srbiji, Makedonija, Turske</em>
+* `Masc` (8340; 65% of non-empty `Gender`): <em>EU, SETimes, UN-a, Windows, Beogradu, NATO-u, NATO-a, Bog, Zagrebu, Zagreb</em>
 * `Neut` (424; 3% of non-empty `Gender`): <em>Kosova, Kosovo, Kosovu, Sarajevu, Skoplju, Kosovom, Skoplja, Skoplje, Jarinje, Sarajevo</em>
 * `EMPTY` (23): <em>R., AMG, B, R, B.o.B., BamS, DI, EBEL, EL, G.</em>
 
@@ -118,19 +118,20 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
   <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>BiH</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (4244) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (4245) occur only with one value of `Gender`.
 
 ### `DET`
 
-7199 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
+7366 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6370; 88%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6370; 88%), <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5617; 78%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5086; 71%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6537; 89%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6537; 89%), <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5784; 79%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5113; 69%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (2371; 33% of non-empty `Gender`): <em>koje, koja, ove, koju, kojoj, svoje, svoju, te, ta, kojima</em>
-* `Masc` (3039; 42% of non-empty `Gender`): <em>koji, svoj, taj, neki, koje, ovaj, ovog, kojem, kojim, kojima</em>
-* `Neut` (1789; 25% of non-empty `Gender`): <em>to, toga, koje, tome, sve, ovo, koja, svoje, time, tim</em>
+* `Fem` (2439; 33% of non-empty `Gender`): <em>koje, koja, ove, koju, kojoj, svoje, svoju, te, ta, kojima</em>
+* `Masc` (3125; 42% of non-empty `Gender`): <em>koji, svoj, taj, neki, koje, ovaj, ovog, kojem, kojim, kojima</em>
+* `Neut` (1802; 24% of non-empty `Gender`): <em>to, toga, koje, tome, sve, ovo, koja, svoje, time, tim</em>
+* `EMPTY` (31): <em>bilo, sve, te, više, ni, niti, Die, The, barem, baš</em>
 
 <table>
   <tr><th>Paradigm <i>koji</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -161,7 +162,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (1710; 28% of non-empty `Gender`): <em>mogla, trebala, izjavila, dobila, priopćila, rekla, postala, imala, kazala, objavila</em>
 * `Masc` (3835; 63% of non-empty `Gender`): <em>izjavio, rekao, kazao, mogli, dodao, mogao, dobili, trebao, trebali, imali</em>
 * `Neut` (548; 9% of non-empty `Gender`): <em>moglo, trebalo, došlo, pokazalo, dogodilo, omogućilo, ostalo, dovelo, počelo, prošlo</em>
-* `EMPTY` (11325): <em>može, ima, kaže, treba, mogu, nema, mora, postoji, možete, imaju</em>
+* `EMPTY` (11322): <em>može, ima, kaže, treba, mogu, nema, mora, postoji, možete, imaju</em>
 
 <table>
   <tr><th>Paradigm <i>moći</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -180,7 +181,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem` (211; 14% of non-empty `Gender`): <em>ona, joj, je, ju, one, nje, njom, nju, njoj, njome</em>
 * `Masc` (583; 38% of non-empty `Gender`): <em>ga, mu, on, oni, tko, nitko, njega, njemu, netko, svatko</em>
 * `Neut` (757; 49% of non-empty `Gender`): <em>što, ništa, nešto, ono, čime, čega, čemu, ona, išta, nečemu</em>
-* `EMPTY` (3792): <em>se, ih, mi, im, njih, nam, vam, nas, ja, njima</em>
+* `EMPTY` (3791): <em>se, ih, mi, im, njih, nam, vam, nas, ja, njima</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -192,37 +193,18 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>on</em></td><td><em>ona</em></td><td><em>ono</em></td></tr>
 </table>
 
-### `AUX`
-
-616 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (5% of all `AUX` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (616; 100%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (616; 100%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (616; 100%), <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (616; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (490; 80%).
-
-`AUX` tokens may have the following values of `Gender`:
-
-* `Fem` (169; 27% of non-empty `Gender`): <em>bila, bile</em>
-* `Masc` (280; 45% of non-empty `Gender`): <em>bio, bili</em>
-* `Neut` (167; 27% of non-empty `Gender`): <em>bilo, bila</em>
-* `EMPTY` (11925): <em>je, su, će, bi, biti, nije, smo, sam, neće, nisu</em>
-
-<table>
-  <tr><th>Paradigm <i>biti</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bio</em></td><td><em>bila</em></td><td><em>bilo</em></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>bili</em></td><td><em>bile</em></td><td><em>bila</em></td></tr>
-</table>
-
 ### `NUM`
 
-611 <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> tokens (19% of all `NUM` tokens) have a non-empty value of `Gender`.
+803 <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> tokens (24% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="hr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (576; 94%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (433; 71%), <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (322; 53%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (580; 72%), <tt><a href="hr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (573; 71%).
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (288; 47% of non-empty `Gender`): <em>dvije, jedna, jednu, dviju, jedne, obje, jednoj, jednom, obiju, objema</em>
-* `Masc` (292; 48% of non-empty `Gender`): <em>jedan, jednog, jednom, jednim, jedni, oba, dvaju, dvama, obaju, Dva</em>
-* `Neut` (31; 5% of non-empty `Gender`): <em>jedno, jednog, jednom, Dvoje, Oba, dva, dvoja, jednoga</em>
-* `EMPTY` (2537): <em>tri, dva, pet, četiri, 20, 10, šest, deset, 15, 100</em>
+* `Fem` (364; 45% of non-empty `Gender`): <em>dvije, jedna, jednu, dviju, jedne, obje, jednoj, prva, druge, jednom</em>
+* `Masc` (383; 48% of non-empty `Gender`): <em>jedan, jednog, prvi, jednom, jednim, jedni, drugi, oba, dvaju, prvih</em>
+* `Neut` (56; 7% of non-empty `Gender`): <em>jedno, prvo, prvom, drugo, prvim, jednog, jednom, treće, Dvoje, Oba</em>
+* `EMPTY` (2577): <em>tri, dva, pet, četiri, 20, 10, šest, deset, 15, 100</em>
 
 <table>
   <tr><th>Paradigm <i>jedan</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -237,17 +219,36 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
   <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>jedni</em></td><td></td><td></td></tr>
 </table>
 
+### `AUX`
+
+615 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (5% of all `AUX` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (615; 100%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (615; 100%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (615; 100%), <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (615; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (489; 80%).
+
+`AUX` tokens may have the following values of `Gender`:
+
+* `Fem` (169; 27% of non-empty `Gender`): <em>bila, bile</em>
+* `Masc` (280; 46% of non-empty `Gender`): <em>bio, bili</em>
+* `Neut` (166; 27% of non-empty `Gender`): <em>bilo, bila</em>
+* `EMPTY` (11923): <em>je, su, će, bi, biti, nije, smo, sam, neće, nisu</em>
+
+<table>
+  <tr><th>Paradigm <i>biti</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bio</em></td><td><em>bila</em></td><td><em>bilo</em></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>bili</em></td><td><em>bile</em></td><td><em>bila</em></td></tr>
+</table>
+
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16387; 95%),
-<tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3050; 98%),
-<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2101; 98%),
-<tt>NOUN --[<tt><a href="hr_set-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1350; 75%),
+<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16400; 95%),
+<tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3198; 97%),
+<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2105; 98%),
+<tt>NOUN --[<tt><a href="hr_set-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1348; 75%),
 <tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1132; 57%),
 <tt>ADJ --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (864; 95%),
-<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (772; 94%),
+<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (769; 94%),
 <tt>PROPN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> PROPN</tt> (713; 75%),
 <tt>NOUN --[<tt><a href="hr_set-dep-acl.html">acl</a></tt>]--> ADJ</tt> (677; 85%),
-<tt>ADJ --[<tt><a href="hr_set-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (583; 90%).
+<tt>ADJ --[<tt><a href="hr_set-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (582; 90%).
 

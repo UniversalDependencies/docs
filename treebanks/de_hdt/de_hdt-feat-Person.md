@@ -9,177 +9,183 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-255008 tokens (43%) have a non-empty value of `Person`.
-51380 types (82%) occur at least once with a non-empty value of `Person`.
-22520 lemmas (79%) occur at least once with a non-empty value of `Person`.
-The feature is used with 9 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (124067; 21% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (34398; 6% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (23680; 4% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (22963; 4% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (21374; 4% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (12222; 2% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (11306; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (3300; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (1698; 0% instances).
+1463511 tokens (43%) have a non-empty value of `Person`.
+161798 types (86%) occur at least once with a non-empty value of `Person`.
+57349 lemmas (82%) occur at least once with a non-empty value of `Person`.
+The feature is used with 10 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (723034; 21% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (193986; 6% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (134429; 4% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (134057; 4% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (125416; 4% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (71297; 2% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (52978; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (19099; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (9214; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-124067 <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Person`.
+723034 <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (95385; 77%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (79040; 64%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (646803; 89%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (453089; 63%).
 
 `NOUN` tokens may have the following values of `Person`:
 
-* `3` (124067; 100% of non-empty `Person`): <em>Internet, Prozent, Unternehmen, Mark, Version, Software, Kunden, Jahr, Firma, Markt</em>
-* `EMPTY` (1102): <em>informations-, Industrie-, Audio-, ISDN-, Telekommunikations-, Video-, Hard-, Internet-, Computer-, Daten-</em>
+* `3` (723034; 100% of non-empty `Person`): <em>Prozent, Millionen, Internet, Unternehmen, Mark, US-Dollar, Milliarden, Jahr, Kunden, Firma</em>
+* `EMPTY` (6070): <em>informations-, internet-, Rück-, Audio-, computer-, Industrie-, Telekommunikations-, Telefon-, Hard-, Umsatz-</em>
 
-`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (7842) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (13818) occur only with one value of `Person`.
 
 ### `PROPN`
 
-34398 <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Person`.
+193986 <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (30470; 89%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (21965; 64%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21299; 62%).
+The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (166252; 86%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (132700; 68%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (125638; 65%).
 
 `PROPN` tokens may have the following values of `Person`:
 
-* `3` (34398; 100% of non-empty `Person`): <em>Microsoft, Intel, telepolis, Telekom, Deutschland, USA, AOL, Apple, c't, Linux</em>
-* `EMPTY` (2): <em>3COMs, q/depesche</em>
+* `3` (193986; 100% of non-empty `Person`): <em>Microsoft, Telekom, Deutschland, Intel, USA, telepolis, AOL, ibm, ICANN, CeBIT</em>
+* `EMPTY` (6): <em>3COMs, Danke, IM, Nylis, q/depesche, unbekannt</em>
 
-`Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (8390) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (27685) occur only with one value of `Person`.
 
 ### `VERB`
 
-23680 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Person`.
+134429 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19811; 84%), <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (18557; 78%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17990; 76%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (134429; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (134425; 100%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (133685; 99%), <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (102876; 77%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (101545; 76%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (166; 1% of non-empty `Person`): <em>brauchen, sehen, wissen, glauben, befinden, bekommen, erhielt, machen, arbeiten, bitten</em>
-* `2` (112; 0% of non-empty `Person`): <em>siehe, Stimm, schaut, sprich, Tötet, macht, Benutzt, Bleibt, Erwischt, Gehe</em>
-* `3` (23402; 99% of non-empty `Person`): <em>gibt, sagte, bietet, steht, erklärte, geht, kommt, stellt, liegt, gab</em>
-* `EMPTY` (22979): <em>machen, angekündigt, lassen, geben, kommen, anbieten, bringen, geplant, entwickelt, nutzen</em>
+* `1` (1827; 1% of non-empty `Person`): <em>brauchen, sehen, wissen, glauben, glaube, stehen, gehen, arbeiten, denke, erwarten</em>
+* `2` (833; 1% of non-empty `Person`): <em>siehe, sprich, update, Stimm, bleibt, steht, lies, Mach, Mehr, geht</em>
+* `3` (131769; 98% of non-empty `Person`): <em>sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</em>
+* `EMPTY` (129156): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
 
 <table>
-  <tr><th>Paradigm <i>machen</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>machte</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>macht</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Macht</em></td><td><em>machen</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>machten</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>machen</em></td><td><em>macht</em></td><td><em>machen</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>mache, machte</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>machen</em></td><td></td><td><em>machen, machten</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>macht</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>machten</em></td></tr>
+  <tr><th>Paradigm <i>geben</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>gib</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Gebt</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>gab</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>geb, gebe</em></td><td></td><td><em>gibt, gebe, gäbe</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>gibt, gab, gebe, Gäbe</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>gaben</em></td><td></td><td><em>gaben</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>geben</em></td><td></td><td><em>geben, gäben</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>gaben, geben</em></td></tr>
 </table>
-
-`Person` seems to be **lexical feature** of `VERB`. 94% lemmas (1696) occur only with one value of `Person`.
 
 ### `AUX`
 
-22963 <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Person`.
+134057 <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (19302; 84%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16834; 73%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15964; 70%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (134055; 100%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (134054; 100%), <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (113724; 85%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (93578; 70%), <tt><a href="de_hdt-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (88436; 66%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (286; 1% of non-empty `Person`): <em>haben, werden, können, sind, wollen, müssen, kann, hatten, wollten, wurde</em>
-* `2` (3; 0% of non-empty `Person`): <em>habt, hättest, musst</em>
-* `3` (22674; 99% of non-empty `Person`): <em>ist, hat, wird, soll, sind, will, sei, hatte, sollen, kann</em>
-* `EMPTY` (3086): <em>werden, sein, können, haben, worden, gewesen, müssen, wollen, dürfen, gehabt</em>
+* `1` (2672; 2% of non-empty `Person`): <em>haben, sind, werden, können, wollen, müssen, bin, habe, kann, hatten</em>
+* `2` (49; 0% of non-empty `Person`): <em>werdet, habt, hast, bist, könnt, seid, solltet, dürft, kannst, müsst</em>
+* `3` (131336; 98% of non-empty `Person`): <em>ist, hat, wird, soll, sind, sei, will, hatte, werden, kann</em>
+* `EMPTY` (19084): <em>werden, sein, können, haben, worden, gewesen, müssen, geworden, wollen, dürfen</em>
 
 <table>
-  <tr><th>Paradigm <i>haben</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>hatte</em></td><td></td><td><em>hatte</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>habe</em></td><td></td><td><em>hat</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>haben</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>hatten</em></td><td></td><td><em>hatten</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>haben</em></td><td><em>habt</em></td><td><em>haben</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>habe</em></td><td><em>hättest</em></td><td><em>habe, hätte</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>haben</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>haben, hätten</em></td><td></td><td><em>haben, hätten</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>hat, hatte, habe, hätte</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>hatten, hätten</em></td></tr>
+  <tr><th>Paradigm <i>sein</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>seid</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>war</em></td><td></td><td><em>war</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>bin, sei, wäre</em></td><td><em>bist</em></td><td><em>ist, sei, wäre, wär</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bin</em></td><td></td><td><em>ist, sei, war, wäre</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>waren</em></td><td></td><td><em>waren</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sind, wären, seien</em></td><td><em>seid</em></td><td><em>sind, seien, wären</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>sind, seien, waren, wären</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td></td><td></td><td><em>seien</em></td></tr>
 </table>
 
 ### `PRON`
 
-21374 <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
+125416 <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12985; 61%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="de_hdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (107046; 85%), <tt><a href="de_hdt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (104266; 83%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (77356; 62%), <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (72577; 58%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (64908; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (670; 3% of non-empty `Person`): <em>wir, uns, ich, unsere, unser, unseren, unserer, mich, unserem, mein</em>
-* `2` (9; 0% of non-empty `Person`): <em>du, ihr, dein, euch, eurer</em>
-* `3` (20695; 97% of non-empty `Person`): <em>sich, es, die, sie, man, er, das, der, ihre, seine</em>
-* `EMPTY` (5): <em>wieviel, alle, mir</em>
+* `1` (6668; 5% of non-empty `Person`): <em>wir, ich, uns, unsere, unserer, unser, mir, unseren, mich, unserem</em>
+* `2` (162; 0% of non-empty `Person`): <em>ihr, du, euch, dir, deine, deiner, eure, dein, dich, euer</em>
+* `3` (118586; 95% of non-empty `Person`): <em>sich, es, die, sie, man, das, er, der, ihre, seine</em>
+* `EMPTY` (25): <em>wieviel, das, unsereins, wieviele, alle, irgendwem, mir</em>
 
 <table>
   <tr><th>Paradigm <i>ihr</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ihr</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_hdt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>ihr</em></td></tr>
   <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ihr</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ihr</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ihr</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_hdt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>ihr</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_hdt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>ihr</em></td></tr>
   <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ihr</em></td><td></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `PRON`. 99% lemmas (159) occur only with one value of `Person`.
-
-### `X`
-
-12222 <tt><a href="de_hdt-pos-X.html">X</a></tt> tokens (99% of all `X` tokens) have a non-empty value of `Person`.
-
-`X` tokens may have the following values of `Person`:
-
-* `3` (12222; 100% of non-empty `Person`): <em>OS, of, internet, the, world, digital, Explorer, for, network, and</em>
-* `EMPTY` (91): <em>G4, on, 9x, Call, de, D2, ante, last, British, Low-Power</em>
-
-`Person` seems to be **lexical feature** of `X`. 100% lemmas (4111) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 99% lemmas (214) occur only with one value of `Person`.
 
 ### `NUM`
 
-11306 <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Person`.
+71297 <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NUM` and `Person` co-occurred: <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (11124; 98%).
+The most frequent other feature values with which `NUM` and `Person` co-occurred: <tt><a href="de_hdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (71296; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (70478; 99%).
 
 `NUM` tokens may have the following values of `Person`:
 
-* `3` (11306; 100% of non-empty `Person`): <em>zwei, 2000, drei, 2001, vier, 1999, 2, 4, 5, 10</em>
-* `EMPTY` (3): <em>eins, 8×8</em>
+* `3` (71297; 100% of non-empty `Person`): <em>zwei, 2000, drei, 2001, 1999, vier, fünf, 20, 100, 30</em>
+* `EMPTY` (6): <em>eins, 8×8</em>
 
-`Person` seems to be **lexical feature** of `NUM`. 100% lemmas (1923) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `NUM`. 100% lemmas (6531) occur only with one value of `Person`.
+
+### `X`
+
+52978 <tt><a href="de_hdt-pos-X.html">X</a></tt> tokens (99% of all `X` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="de_hdt-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (52978; 100%).
+
+`X` tokens may have the following values of `Person`:
+
+* `3` (52978; 100% of non-empty `Person`): <em>of, internet, the, and, digital, mobile, media, for, OS, network</em>
+* `EMPTY` (735): <em>x, on, D2, Call, G4, ×, de, 9x, ad, and</em>
+
+`Person` seems to be **lexical feature** of `X`. 100% lemmas (10438) occur only with one value of `Person`.
 
 ### `DET`
 
-3300 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Person`.
+19099 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2183; 66%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1833; 56%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12462; 65%), <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Ind,Neg,Tot</tt> (11301; 59%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (10611; 56%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `3` (3300; 100% of non-empty `Person`): <em>keine, alle, einige, mehr, kein, allen, einigen, mehrere, keinen, beide</em>
-* `EMPTY` (65650): <em>die, der, den, das, des, eine, dem, ein, einen, einer</em>
+* `3` (19099; 100% of non-empty `Person`): <em>keine, alle, kein, einige, mehr, aller, allen, keinen, mehrere, einigen</em>
+* `EMPTY` (384685): <em>die, der, den, das, des, eine, dem, ein, einen, einem</em>
 
-`Person` seems to be **lexical feature** of `DET`. 100% lemmas (36) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `DET`. 100% lemmas (47) occur only with one value of `Person`.
 
 ### `ADJ`
 
-1698 <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Person`.
+9214 <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1357; 80%), <tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1347; 79%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (916; 54%).
+The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="de_hdt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9213; 100%), <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8065; 88%), <tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (6462; 70%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4760; 52%).
 
 `ADJ` tokens may have the following values of `Person`:
 
-* `3` (1698; 100% of non-empty `Person`): <em>viele, 1., beiden, meisten, 15., vielen, wenig, paar, 2., wenige</em>
-* `EMPTY` (45877): <em>neue, neuen, deutschen, deutsche, ersten, anderen, erste, weitere, eigenen, andere</em>
+* `3` (9214; 100% of non-empty `Person`): <em>viele, 1., beiden, meisten, vielen, paar, wenigen, viel, wenig, 15.</em>
+* `EMPTY` (259379): <em>neue, neuen, ersten, deutschen, deutsche, anderen, weitere, eigenen, erste, letzten</em>
 
-`Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (57) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (105) occur only with one value of `Person`.
+
+### `SCONJ`
+
+1 <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Person`.
+
+`SCONJ` tokens may have the following values of `Person`:
+
+* `3` (1; 100% of non-empty `Person`): <em>dass</em>
+* `EMPTY` (29441): <em>dass, um, wenn, ob, daß, da, während, weil, nachdem, als</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>NOUN --[<tt><a href="de_hdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (16275; 98%),
-<tt>VERB --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11882; 66%),
-<tt>VERB --[<tt><a href="de_hdt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (9865; 50%),
-<tt>NOUN --[<tt><a href="de_hdt-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (9846; 99%),
-<tt>NOUN --[<tt><a href="de_hdt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (6608; 100%),
-<tt>NOUN --[<tt><a href="de_hdt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (6420; 100%),
-<tt>NOUN --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5987; 86%),
-<tt>VERB --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (5087; 65%),
-<tt>X --[<tt><a href="de_hdt-dep-flat.html">flat</a></tt>]--> X</tt> (4912; 99%),
-<tt>VERB --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (4451; 64%).
+<tt>NOUN --[<tt><a href="de_hdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (158030; 99%),
+<tt>VERB --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (66221; 66%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (48009; 100%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (35951; 100%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (34542; 87%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (33317; 100%),
+<tt>VERB --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (30062; 65%),
+<tt>VERB --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (26235; 66%),
+<tt>X --[<tt><a href="de_hdt-dep-flat.html">flat</a></tt>]--> X</tt> (22761; 99%),
+<tt>PROPN --[<tt><a href="de_hdt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (17178; 100%).
 

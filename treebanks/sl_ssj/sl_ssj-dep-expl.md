@@ -31,7 +31,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 7	bodo	biti	AUX	Va-f3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	9	cop	_	Dep=1|Rel=Obj
 8	ravno	ravno	PART	Q	_	9	advmod	_	Dep=9|Rel=Atr
 9	realni	realen	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	ccomp	_	SpaceAfter=No|Dep=7|Rel=Atr
-10	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 10	o	o	ADP	Sl	Case=Loc	12	case	_	Dep=12|Rel=Atr
 11	njenih	njen	DET	Ps3mplsf	Case=Loc|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	Dep=12|Rel=Atr
 12	vzrokih	vzrok	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No|Dep=9|Rel=Obj
-13	.	.	PUNCT	Z	_	3	punct	_	Dep=0|Rel=Root
+13	.	.	PUNCT	Z	_	3	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 
@@ -95,7 +95,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 28	vode	voda	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	Dep=27|Rel=Atr
 29	šele	šele	PART	Q	_	30	advmod	_	Dep=0|Rel=Root
 30	zaslužiti	zaslužiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	23	csubj	_	SpaceAfter=No|Dep=25|Rel=Sb
-31	.	.	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
+31	.	.	PUNCT	Z	_	2	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 

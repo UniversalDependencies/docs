@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 12 acl	color:blue
 1	ܐܝܼܣܚܵܩ	ܐܝܼܣܚܵܩ	PROPN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
-2	ܟܲܕ	ܟܲܕ	PART	_	_	3	aux	_	_
+2	ܟܲܕ	ܟܲܕ	AUX	_	_	5	aux	_	_
 3	ܝ݇ܬܝܼܒܵܐ	ܗܵܘܹܐ	AUX	_	Tense=Past	5	cop	_	_
 4	ܥܲܠ	ܥܲܠ	ADP	_	_	5	case	_	_
 5	ܦܲܥܘܵܐ	ܦܲܥܘܵܐ	NOUN	_	_	1	advcl	_	_

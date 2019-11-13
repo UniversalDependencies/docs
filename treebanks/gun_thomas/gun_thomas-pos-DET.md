@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Mbya_Guarani-Thomas: POS Tags: `DET`
 
-There are 5 `DET` lemmas (2%), 6 `DET` types (1%) and 11 `DET` tokens (1%).
-Out of 15 observed tags, the rank of `DET` is: 11 in number of lemmas, 11 in number of types and 10 in number of tokens.
+There are 6 `DET` lemmas (2%), 6 `DET` types (1%) and 11 `DET` tokens (1%).
+Out of 15 observed tags, the rank of `DET` is: 9 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>kova'e, pavẽ, mba'e, pe, mava'e</em>
+The 10 most frequent `DET` lemmas: <em>kova'e, mba'e, pavẽ, pe, javive, mava'e</em>
 
-The 10 most frequent `DET` types:  <em>kova'e, mba'e, pavẽ, pe, Mava'e, pavẽ'i</em>
+The 10 most frequent `DET` types:  <em>kova'e, mba'e, pavẽ, pe, Mava'e, javive</em>
 
-The 10 most frequent ambiguous lemmas: <em>kova'e</em> (<tt><a href="gun_thomas-pos-DET.html">DET</a></tt> 3, <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt> 2), <em>mba'e</em> (<tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt> 9, <tt><a href="gun_thomas-pos-DET.html">DET</a></tt> 2, <tt><a href="gun_thomas-pos-VERB.html">VERB</a></tt> 2, <tt><a href="gun_thomas-pos-NOUN.html">NOUN</a></tt> 1), <em>pe</em> (<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 18, <tt><a href="gun_thomas-pos-DET.html">DET</a></tt> 2), <em>mava'e</em> (<tt><a href="gun_thomas-pos-DET.html">DET</a></tt> 1, <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>kova'e</em> (<tt><a href="gun_thomas-pos-DET.html">DET</a></tt> 3, <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt> 2), <em>mba'e</em> (<tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt> 9, <tt><a href="gun_thomas-pos-DET.html">DET</a></tt> 2, <tt><a href="gun_thomas-pos-VERB.html">VERB</a></tt> 2, <tt><a href="gun_thomas-pos-NOUN.html">NOUN</a></tt> 1), <em>pavẽ</em> (<tt><a href="gun_thomas-pos-DET.html">DET</a></tt> 2, <tt><a href="gun_thomas-pos-ADV.html">ADV</a></tt> 1), <em>pe</em> (<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 18, <tt><a href="gun_thomas-pos-DET.html">DET</a></tt> 2), <em>mava'e</em> (<tt><a href="gun_thomas-pos-DET.html">DET</a></tt> 1, <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>kova'e</em> (<tt><a href="gun_thomas-pos-DET.html">DET</a></tt> 3, <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt> 2), <em>mba'e</em> (<tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt> 8, <tt><a href="gun_thomas-pos-DET.html">DET</a></tt> 2), <em>pe</em> (<tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> 18, <tt><a href="gun_thomas-pos-DET.html">DET</a></tt> 2), <em>Mava'e</em> (<tt><a href="gun_thomas-pos-DET.html">DET</a></tt> 1, <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt> 1)
 
@@ -33,17 +33,17 @@ The 10 most frequent ambiguous types:  <em>kova'e</em> (<tt><a href="gun_thomas-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.200000 (the average of all parts of speech is 1.313725).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.311688).
 
-The 1st highest number of forms (2) was observed with the lemma “pavẽ”: <em>pavẽ, pavẽ'i</em>.
+The 1st highest number of forms (1) was observed with the lemma “javive”: <em>javive</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “kova'e”: <em>kova'e</em>.
 
 The 3rd highest number of forms (1) was observed with the lemma “mava'e”: <em>Mava'e</em>.
 
-`DET` occurs with 1 features: <tt><a href="gun_thomas-feat-PronType.html">PronType</a></tt> (8; 73% instances)
+`DET` occurs with 1 features: <tt><a href="gun_thomas-feat-PronType.html">PronType</a></tt> (11; 100% instances)
 
-`DET` occurs with 2 feature-value pairs: `PronType=Dem`, `PronType=Int`
+`DET` occurs with 3 feature-value pairs: `PronType=Dem`, `PronType=Int`, `PronType=Tot`
 
 `DET` occurs with 3 feature combinations.
 The most frequent feature combination is `PronType=Dem` (5 tokens).
@@ -54,7 +54,7 @@ Examples: <em>kova'e, pe</em>
 
 `DET` nodes are attached to their parents using 3 different relations: <tt><a href="gun_thomas-dep-det.html">det</a></tt> (7; 64% instances), <tt><a href="gun_thomas-dep-amod.html">amod</a></tt> (3; 27% instances), <tt><a href="gun_thomas-dep-reparandum.html">reparandum</a></tt> (1; 9% instances)
 
-Parents of `DET` nodes belong to 2 different parts of speech: <tt><a href="gun_thomas-pos-NOUN.html">NOUN</a></tt> (9; 82% instances), <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt> (2; 18% instances)
+Parents of `DET` nodes belong to 2 different parts of speech: <tt><a href="gun_thomas-pos-NOUN.html">NOUN</a></tt> (8; 73% instances), <tt><a href="gun_thomas-pos-PRON.html">PRON</a></tt> (3; 27% instances)
 
 10 (91%) `DET` nodes are leaves.
 
@@ -62,7 +62,7 @@ Parents of `DET` nodes belong to 2 different parts of speech: <tt><a href="gun_t
 
 The highest child degree of a `DET` node is 1.
 
-Children of `DET` nodes are attached using 1 different relations: <tt><a href="gun_thomas-dep-discourse-q.html">discourse:q</a></tt> (1; 100% instances)
+Children of `DET` nodes are attached using 1 different relations: <tt><a href="gun_thomas-dep-dep-mod.html">dep:mod</a></tt> (1; 100% instances)
 
 Children of `DET` nodes belong to 1 different parts of speech: <tt><a href="gun_thomas-pos-PART.html">PART</a></tt> (1; 100% instances)
 

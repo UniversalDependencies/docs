@@ -23,14 +23,16 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (4340; 100% of non-empty `Poss`): <em>son, sa, ses, leur, leurs, notre, mon, nos, ma, votre</em>
-* `EMPTY` (56867): <em>le, la, les, l', un, une, des, cette, ce, de</em>
+* `EMPTY` (56925): <em>le, la, les, l', un, une, des, cette, ce, de</em>
 
 ### `X`
 
 3 <tt><a href="fr_gsd-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Poss`.
 
+The most frequent other feature values with which `X` and `Poss` co-occurred: <tt><a href="fr_gsd-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (3; 100%).
+
 `X` tokens may have the following values of `Poss`:
 
 * `Yes` (3; 100% of non-empty `Poss`): <em>Andrew, Dumbo's, Schott's</em>
-* `EMPTY` (1666): <em>of, the, etc., and, in, a, for, B, me, to</em>
+* `EMPTY` (1817): <em>of, the, etc., and, in, a, for, Company, me, B</em>
 

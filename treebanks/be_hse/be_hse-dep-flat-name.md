@@ -12,7 +12,7 @@ There are also 1 other language-specific subtypes of `flat`: <tt><a href="be_hse
 86 nodes (1%) are attached to their parents as `flat:name`.
 
 86 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05813953488372.
+Average distance between parent and child is 1.04651162790698.
 
 The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (85; 99% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (1; 1% instances).
 

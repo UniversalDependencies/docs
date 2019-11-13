@@ -12,18 +12,18 @@ It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 7159 tokens (14%) have a non-empty value of `VerbForm`.
 1818 types (27%) occur at least once with a non-empty value of `VerbForm`.
 1038 lemmas (19%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (4727; 10% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2432; 5% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (4728; 10% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2431; 5% instances).
 
 ### `VERB`
 
-4727 <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+4728 <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_partut-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3502; 74%), <tt><a href="en_partut-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3489; 74%), <tt><a href="en_partut-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3030; 64%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_partut-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3502; 74%), <tt><a href="en_partut-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3490; 74%), <tt><a href="en_partut-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3031; 64%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (1696; 36% of non-empty `VerbForm`): <em>is, has, have, wrote, know, are, believe, had, need, made</em>
-* `Ger` (442; 9% of non-empty `VerbForm`): <em>including, according, establishing, improving, increasing, using, making, considering, creating, doing</em>
+* `Ger` (443; 9% of non-empty `VerbForm`): <em>including, according, establishing, improving, increasing, using, making, considering, creating, doing</em>
 * `Inf` (1159; 25% of non-empty `VerbForm`): <em>like, make, take, have, ensure, do, see, ask, be, continue</em>
 * `Part` (1430; 30% of non-empty `VerbForm`): <em>given, based, made, taken, adopted, including, used, granted, set, done</em>
 
@@ -40,13 +40,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-2432 <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+2431 <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1974; 81%), <tt><a href="en_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (1532; 63%), <tt><a href="en_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1408; 58%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1973; 81%), <tt><a href="en_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (1531; 63%), <tt><a href="en_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1407; 58%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (1998; 82% of non-empty `VerbForm`): <em>is, are, was, has, would, should, have, can, will, shall</em>
+* `Fin` (1997; 82% of non-empty `VerbForm`): <em>is, are, was, has, would, should, have, can, will, shall</em>
 * `Ger` (26; 1% of non-empty `VerbForm`): <em>being, having</em>
 * `Inf` (294; 12% of non-empty `VerbForm`): <em>be, have, shall, can</em>
 * `Part` (114; 5% of non-empty `VerbForm`): <em>been, being, had</em>

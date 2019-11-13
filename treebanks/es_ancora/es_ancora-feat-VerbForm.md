@@ -134,7 +134,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Fin` (9; 82% of non-empty `VerbForm`): <em>parte, alusión, banda, capitulo, cara, hincapié, punto, vergüenza</em>
 * `Inf` (1; 9% of non-empty `VerbForm`): <em>leña</em>
 * `Part` (1; 9% of non-empty `VerbForm`): <em>heredado</em>
-* `EMPTY` (100661): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, pesetas</em>
+* `EMPTY` (100661): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, día</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `VerbForm`.
 

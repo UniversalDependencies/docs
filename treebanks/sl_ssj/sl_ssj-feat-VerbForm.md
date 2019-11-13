@@ -126,9 +126,10 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> VERB</tt> (1178; 86%),
-<tt>VERB --[<tt><a href="sl_ssj-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (693; 72%),
-<tt>VERB --[<tt><a href="sl_ssj-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (640; 68%),
+<tt>VERB --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> VERB</tt> (1185; 86%),
+<tt>VERB --[<tt><a href="sl_ssj-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (686; 71%),
+<tt>VERB --[<tt><a href="sl_ssj-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (643; 68%),
+<tt>ADJ --[<tt><a href="sl_ssj-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (8; 53%),
 <tt>AUX --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
 

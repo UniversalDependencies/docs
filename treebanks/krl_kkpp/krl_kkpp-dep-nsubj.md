@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nsubj`: <tt><a href="krl_kkpp-dep-nsubj-cop.html">nsubj:cop</a></tt>.
 
-202 nodes (7%) are attached to their parents as `nsubj`.
+203 nodes (7%) are attached to their parents as `nsubj`.
 
-177 instances of `nsubj` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75742574257426.
+178 instances of `nsubj` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75369458128079.
 
-The following 10 pairs of parts of speech are connected with `nsubj`: <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (91; 45% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (80; 40% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (15; 7% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nsubj`: <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (92; 45% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (80; 39% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (15; 7% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

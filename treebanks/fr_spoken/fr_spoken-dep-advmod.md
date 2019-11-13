@@ -7,36 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_French-Spoken: Relations: `advmod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `advmod`: <tt><a href="fr_spoken-dep-advmod-periph.html">advmod:periph</a></tt>.
 
-1890 nodes (5%) are attached to their parents as `advmod`.
+2307 nodes (7%) are attached to their parents as `advmod`.
 
-1103 instances of `advmod` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.81111111111111.
+1456 instances of `advmod` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.27394885132206.
 
-The following 41 pairs of parts of speech are connected with `advmod`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (487; 26% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PART.html">PART</a></tt> (440; 23% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (270; 14% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (227; 12% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (99; 5% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-PART.html">PART</a></tt> (73; 4% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-PART.html">PART</a></tt> (50; 3% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (37; 2% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (32; 2% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-PART.html">PART</a></tt> (28; 1% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-PART.html">PART</a></tt> (25; 1% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (20; 1% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-PART.html">PART</a></tt> (16; 1% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="fr_spoken-pos-PART.html">PART</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="fr_spoken-pos-PART.html">PART</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 advmod	color:blue
-1	donc	donc	ADV	_	_	6	advmod:periph	_	_
-2	ça	ça	PRON	_	_	6	dislocated	_	_
-3	c'	ce	PRON	_	_	6	nsubj	_	_
-4	est	être	AUX	_	_	6	cop	_	_
-5	un	un	DET	_	_	6	det	_	_
-6	endroit	endroit	NOUN	_	_	0	root	_	_
-7	que	que	PRON	_	_	9	obj	_	_
-8	j'	je	PRON	_	_	9	nsubj	_	_
-9	aime	aimer	VERB	_	_	6	acl:relcl	_	_
-10	pas	pas	PART	_	_	11	advmod	_	_
-11	trop	trop	ADV	_	_	9	advmod	_	_
-12	euh	euh	INTJ	_	_	11	discourse	_	_
-
-~~~
+The following 15 pairs of parts of speech are connected with `advmod`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (1268; 55% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (365; 16% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (355; 15% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (137; 6% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (72; 3% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (57; 2% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (25; 1% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,12 +23,12 @@ The following 41 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 3	fgColor:white
 # visual-style 3 2 advmod	color:blue
 1	vous	vous	PRON	_	_	3	nsubj	_	_
-2	n'	ne	PART	_	_	3	advmod	_	_
+2	n'	ne	ADV	_	_	3	advmod	_	_
 3	avez	avoir	VERB	_	_	0	root	_	_
-4	pas	pas	PART	_	_	3	advmod	_	_
-5	autour	autour	NOUN	_	_	3	obl:mod	_	_
+4	pas	pas	ADV	_	_	3	advmod	_	_
+5	autour	autour	ADV	_	_	3	advmod	_	_
 6	de	de	ADP	_	_	7	case	_	_
-7	vous	lui	PRON	_	_	5	nmod	_	_
+7	vous	lui	PRON	_	_	5	obl:arg	_	_
 8	cette	ce	DET	_	_	9	det	_	_
 9	impression	impression	NOUN	_	_	3	obj	_	_
 10	que	que	SCONJ	_	_	9	dep	_	_
@@ -75,6 +52,25 @@ The following 41 pairs of parts of speech are connected with `advmod`: <tt><a hr
 8	été	être	AUX	_	_	10	cop	_	_
 9	très	très	ADV	_	_	10	advmod	_	_
 10	bénéfique	bénéfique	ADJ	_	_	4	ccomp	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 advmod	color:blue
+1	c'	ce	PRON	_	_	2	nsubj	_	_
+2	est	être	VERB	_	_	0	root	_	_
+3	plus	plus	ADV	_	_	6	advmod	_	_
+4	à	à	ADP	_	_	6	case	_	_
+5	le	le	DET	_	_	6	det	_	_
+6	niveau	niveau	NOUN	_	_	2	obl:arg	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	le	DET	_	_	9	det	_	_
+9	fac	fac	NOUN	_	_	6	nmod	_	_
 
 ~~~
 

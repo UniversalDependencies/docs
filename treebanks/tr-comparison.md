@@ -30,7 +30,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 2802 sentences, 16509 tokens and 16879 syntactic words.</li>
+      <li>This corpus contains 2802 sentences, 16511 tokens and 16881 syntactic words.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -47,7 +47,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 2656 tokens (16%) that are not followed by a space.</li>
+      <li>This corpus contains 2658 tokens (16%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -164,7 +164,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 51 lemmas tagged as pronouns (PRON): _, aynısı, bazıları, bazılarımız, bazısı, başkaları, başkası, ben, bir, birbir, biri, birimiz, birşey, biz, bizler, bu, bura, böylesi, hangileri, hangileriniz, hanginiz, hangisi, hani, hepimiz, hepsi, herkes, herşey, hiçbiri, hiçbirimiz, hiçbiriniz, ikisi, insan, kendi, kim, kiminiz, kimse, ne, nere, o, ora, sen, siz, sizler, yarısı, yenisi, çoğu, öbürü, öteki, şişmanın, şu, şura</li>
+      <li>This corpus contains 50 lemmas tagged as pronouns (PRON): aynısı, bazıları, bazılarımız, bazısı, başkaları, başkası, ben, bir, birbir, biri, birimiz, birşey, biz, bizler, bu, bura, böylesi, hangileri, hangileriniz, hanginiz, hangisi, hani, hepimiz, hepsi, herkes, herşey, hiçbiri, hiçbirimiz, hiçbiriniz, ikisi, insan, kendi, kim, kiminiz, kimse, ne, nere, o, ora, sen, siz, sizler, yarısı, yenisi, çoğu, öbürü, öteki, şişmanın, şu, şura</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -248,7 +248,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -267,8 +267,8 @@ udver: '2'
       <ul>
         <li>Conv
         <ul>
-          <li>AUX: ken</li>
-          <li>VERB: öleli, alalı, bilip, dolaşırken, koşarak, seyretmeden, yaparak, yedikçe, fısıldaşmaya, geleceklerken</li>
+          <li>AUX: olarak, yken, ken</li>
+          <li>VERB: gelince, gidip, öleli, oturup, alalı, alıp, ağlaya, başlayınca, bilip, bulup</li>
         </ul>
         </li>
       </ul>
@@ -294,6 +294,24 @@ udver: '2'
         </ul>
         </li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: değil, dı, oldu, olacak, mış, miş, ydı, dır, tı, ydi</li>
+          <li>VERB: geldi, görmüş, istiyor, söyledi, çalışıyor, gerekiyor, gidiyor, ediyorum, gitti, gitmiş</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
     </td>
   </tr>
   <tr>
@@ -354,7 +372,7 @@ udver: '2'
         <li>Vnoun
         <ul>
           <li>AUX: olmak, olması, olmamız, olma, olmamalarına, olmasına, olmasını</li>
-          <li>VERB: gitmek, almak, görmek, yapmamız, çıkmak, almamız, gelmek, gelmesi, gitmeniz, vermek</li>
+          <li>VERB: gitmek, görmek, almak, yapmamız, çıkmak, almamız, gelmek, gelmesi, girmeyi, gitmeniz</li>
         </ul>
         </li>
       </ul>
@@ -428,12 +446,13 @@ udver: '2'
         <li>Plur
           <ul>
             <li>AUX: misiniz, lar, miyiz, dük, olacağız, ydik, değiliz, değiller, ler, musunuz</li>
+            <li>AUX-Fin: lar, dük, olacağız, ydik, değiliz, değiller, ler, olduk, olursak, bulunuyoruz</li>
             <li>AUX-Vnoun: olmamalarına</li>
             <li>NOUN: çocuklar, günlerde, ağaçlar, kitaplar, öğrenciler, kişiler, sıralarda, çocukların, şeyler, anahtarlarını</li>
             <li>NUM: 1830’larda, 1920’lerde, otuzlarda</li>
             <li>PRON: onlar, onları, onların, bunları, bunlar, bunlardan, kimseler, neler, Kimleri, Oralar</li>
             <li>PROPN: Ahmet’ler, Fransızlar, Atatürk’ler, Nehru’lar, Nermin’ler, Semra’lar, İtalyanlar, Türkleri</li>
-            <li>VERB: aldık, bulduk, gelmişler, girelim, soralım, yayardık, geldiler, gidiyoruz, gitsek, gittiler</li>
+            <li>VERB-Fin: aldık, bulduk, gelmişler, girelim, soralım, yayardık, geldiler, gidiyoruz, gitsek, gittiler</li>
             <li>VERB-Part: katılanların, sevmeyenleri, katılanlar, vermeyenleri, Olanları, Söylediklerini, alacaklarını, bayılanlar, dediklerimi, dikeceklerimizde</li>
             <li>VERB-Vnoun: alınmalar, boşaltmalarını, gidişlerimiz, götürülmeler, uyandırılmalar</li>
           </ul>
@@ -483,17 +502,18 @@ udver: '2'
             <li>ADP: başka, durumunda, halinde, için, kadar, karşı, lıktan, üzere, Aşağısı, gibileri</li>
             <li>AUX: değil, dı, mı, oldu, olacak, olduğunu, mu, mış, mi, miş</li>
             <li>AUX-Conv: ken</li>
+            <li>AUX-Fin: değil, dı, oldu, olacak, mış, miş, ydı, dır, tı, ydi</li>
             <li>AUX-Part: olduğunu, olduğu, olacağı, olacağımızı, olduktan, olduğuna, olmadığın, bulunduğumuza, olacağına, olacağını</li>
             <li>AUX-Vnoun: olmak, olması, olmamız, olma, olmasına, olmasını</li>
             <li>DET: bir, bu, o, her, bütün, şu, birkaç, bazı, hiçbir, başka</li>
             <li>NOUN: gün, bugün, şey, evde, saat, ev, çocuk, yıl, dün, kız</li>
-            <li>NUM: altıda, ikide, 9’da, biri, dörde, dördün, kaçta, 1830’, 1994’te, 5’te</li>
+            <li>NUM: altıda, ikide, 9’da, biri, dörde, dördün, kaçta, 1994’te, 5’te, buçukta</li>
             <li>PRON: ben, sen, ne, burada, bana, benim, o, biz, kendi, senin</li>
             <li>PROPN: Ahmet, Ali, Ayşe, Mehmet, Semra, Necla, Türk, Erol, Fatma, İngiliz</li>
-            <li>VERB: geldi, gitmek, istiyor, söyledi, ediyorum, gerekiyor, gördüm, etti, gitti, görmedim</li>
             <li>VERB-Conv: geleceklerken, göstermişken</li>
+            <li>VERB-Fin: geldi, istiyor, söyledi, ediyorum, gerekiyor, gördüm, etti, gitti, görmedim, istemiyor</li>
             <li>VERB-Part: çaldığını, bilmediğini, edildikten, evleneceğini, gerektiğini, istemediğine, okuduğunu, olduğu, oturacağım, oturduğunu</li>
-            <li>VERB-Vnoun: gitmek, almak, görmek, yapmamız, çıkmak, almamız, gelmek, gelmesi, gitmeniz, vermek</li>
+            <li>VERB-Vnoun: gitmek, görmek, almak, yapmamız, çıkmak, almamız, gelmek, gelmesi, girmeyi, gitmeniz</li>
           </ul>
         </li>
       </ul>
@@ -629,9 +649,9 @@ udver: '2'
             <li>NUM: yediyi</li>
             <li>PRON: beni, bunu, seni, onu, bizi, kimseyi, onları, bunları, kendisini, hangisini</li>
             <li>PROPN: Semra’yı, Tosca’yı, Ali’yi, Mehmet’i, Zeki’yi, Afrika’yı, Ahmet’i, Coşkun’u, Ertan’ı, Korkut’u</li>
-            <li>VERB: çaldığını, almayı, girmeyi, gitmeyi, yapmayı, bilmediğini, evleneceğini, gelmesini, gerektiğini, kazanmasını</li>
+            <li>VERB-Fin: açacağını, dayanamayacağını, katılamayacağımı</li>
             <li>VERB-Part: çaldığını, bilmediğini, evleneceğini, gerektiğini, okuduğunu, oturduğunu, yaptığını, yazdığını, çarptığını, Olanları</li>
-            <li>VERB-Vnoun: almayı, girmeyi, gitmeyi, yapmayı, gelmesini, kazanmasını, pişirmesini, yapmasını, çalmanı, şakalaşmayı</li>
+            <li>VERB-Vnoun: girmeyi, almayı, gitmeyi, yapmayı, gelmesini, kazanmasını, pişirmesini, yapmasını, çalmanı, şakalaşmayı</li>
           </ul>
         </li>
       </ul>
@@ -683,9 +703,9 @@ udver: '2'
             <li>NUM: dörde, ikiye, yediye, 6.30’a, bire, milyona</li>
             <li>PRON: bana, ona, oraya, sana, nereye, size, bize, buraya, kendine, kendisine</li>
             <li>PROPN: Ankara’ya, Semra’ya, Londra’ya, Amerika’ya, Zeki’ye, Ahmet’e, Almanya’ya, Antalya’ya, Bodrum’a, Erol’a</li>
-            <li>VERB: almaya, dökmeye, geleceğine, yapmaya, bitirmeye, gitmek, görmeye, istemediğine, kalmışa, konuşmaya</li>
+            <li>VERB-Fin: geleceğine, kalmışa, bitinceye, dönünceye, gelinceye, ölünceye</li>
             <li>VERB-Part: istemediğine, azarlayacağına, gezdiğine, gittiğine, olduğuna, sarabileceğine, sevmeyenlere, vereceklerine</li>
-            <li>VERB-Vnoun: almaya, dökmeye, yapmaya, bitirmeye, görmeye, konuşmaya, yağmaya, öğrenmeye, başladı, beslememize</li>
+            <li>VERB-Vnoun: almaya, dökmeye, yapmaya, bitirmeye, gitmek, görmeye, konuşmaya, yağmaya, öğrenmeye, başladı</li>
           </ul>
         </li>
       </ul>
@@ -853,7 +873,7 @@ udver: '2'
             <li>NUM: altıda, ikide, 9’da, kaçta, 1994’te, 5’te, buçukta, on, otuzda, yarımda</li>
             <li>PRON: burada, nerede, bizde, orada, şurada, bende, başkalarında, buralarda, kendisinde, sizde</li>
             <li>PROPN: İstanbul’da, Ankara’da, Londra’da, Verona’da, Türkiye’de, Amerika’da, Kanada’da, Taksim’de, Adana’da, Ahmet’te</li>
-            <li>VERB: Boyanmışlarında, Döndüğümde, Konuşmakta, Konuşmamda, anlamamakta, denemekte, dikeceklerimizde, dinlemekte, ettiğinde, gitmekte</li>
+            <li>VERB-Fin: Boyanmışlarında</li>
             <li>VERB-Part: Döndüğümde, dikeceklerimizde, ettiğinde, gittiğimde, gittiğinde, indiğimizde, sattığında, taşındığımızda, çıktığında</li>
             <li>VERB-Vnoun: Konuşmakta, Konuşmamda, anlamamakta, denemekte, dinlemekte, gitmekte, gitmemekte, sormakta</li>
           </ul>
@@ -906,12 +926,12 @@ udver: '2'
             <li>AUX-Vnoun: olmak, olması, olmamız, olma</li>
             <li>DET: ne</li>
             <li>NOUN: gün, bugün, şey, saat, ev, çocuk, yıl, zaman, çocuklar, dün</li>
-            <li>NUM: onbeşi</li>
+            <li>NUM: milyarlık, onbeşi</li>
             <li>PRON: ben, sen, ne, o, biz, kendi, bu, onlar, herkes, siz</li>
             <li>PROPN: Fransızca, İngilizce, Almanca, Aydın, Turgut, Türk, Türkçe, Zeki, Çince</li>
-            <li>VERB: gitmek, almak, yapmamız, çıkmak, almamız, gelmek, gelmesi, gitmeniz, görmek, vermek</li>
+            <li>VERB-Fin: başlayacağı</li>
             <li>VERB-Part: sevmeyenleri, katılanlar, olduğu, oturacağım, vermeyenleri, Bildiğim, Dediğim, Kazanan, anlattığı, anlayacağın</li>
-            <li>VERB-Vnoun: gitmek, almak, yapmamız, çıkmak, almamız, gelmek, gelmesi, gitmeniz, görmek, vermek</li>
+            <li>VERB-Vnoun: gitmek, almak, görmek, yapmamız, çıkmak, almamız, gelmek, gelmesi, gitmeniz, vermek</li>
           </ul>
         </li>
       </ul>
@@ -1075,12 +1095,13 @@ udver: '2'
           <ul>
             <li>ADJ: yok</li>
             <li>AUX: değil, değilim, değildi, değildir, değiliz, değiller, değilse, olamayacaksın, olmadı, olmadığın</li>
+            <li>AUX-Fin: değil, değilim, değildi, değildir, değiliz, değiller, değilse, olamayacaksın, olmadı, olmayacak</li>
             <li>AUX-Part: olmadığın, olamayacağını, olmadığım, olmayacağın</li>
             <li>AUX-Vnoun: olmamalarına</li>
             <li>DET: hiçbir</li>
             <li>PRON: hiçbiri, Hiçbirimiz, hiçbiriniz, hiçbirisi</li>
-            <li>VERB: görmedim, istemiyor, bilmiyordum, gitmedi, sevmiyor, konaklamayacaklar, anlayamıyorum, bilmiyorum, bitmiyor, düşünemiyorum</li>
             <li>VERB-Conv: fısıldaşmaya</li>
+            <li>VERB-Fin: görmedim, istemiyor, bilmiyordum, gitmedi, sevmiyor, konaklamayacaklar, anlayamıyorum, bilmiyorum, bitmiyor, düşünemiyorum</li>
             <li>VERB-Part: sevmeyenleri, bilmediğini, istemediğine, vermeyenleri, almayacağını, anlamadığını, anlayamadığını, baktırmadığından, bitmeyebileceğinin, ettirmediğini</li>
             <li>VERB-Vnoun: alınmaması, söylememek, anlamamakta, beğenmememizden, gitmemek, gitmemekte, götürmemeye, okumaması, sevmememizi, sevmeyişimizi</li>
           </ul>
@@ -1127,7 +1148,7 @@ udver: '2'
           <ul>
             <li>DET: Bu, bir</li>
             <li>PRON: Bundan, bana, burada</li>
-            <li>VERB: aldıysan, ayrılmış, buluşacağız, bırakmışım, bırakıyorsun, edin, girelim</li>
+            <li>VERB-Fin: aldıysan, ayrılmış, buluşacağız, bırakmışım, bırakıyorsun, edin, girelim</li>
           </ul>
         </li>
       </ul>
@@ -1208,7 +1229,7 @@ udver: '2'
       <ul>
         <li>Dur
           <ul>
-            <li>VERB: yürüyedur</li>
+            <li>VERB-Fin: yürüyedur</li>
           </ul>
         </li>
       </ul>
@@ -1225,7 +1246,7 @@ udver: '2'
       <ul>
         <li>DurPerf
           <ul>
-            <li>VERB: donakaldık, kutlayagelmişlerdir</li>
+            <li>VERB-Fin: donakaldık, kutlayagelmişlerdir</li>
           </ul>
         </li>
       </ul>
@@ -1249,9 +1270,9 @@ udver: '2'
       <ul>
         <li>Hab
           <ul>
-            <li>AUX: olursa, olur, olurdu, olabilir, olursak, bilirim, olabilirdim, olamaz, olamazsın, olmayız</li>
-            <li>VERB: içer, gerekebilir, yayardık, bilir, bulabilirsin, gelir, gelirim, giderse, konuşabilirsin, sayılır</li>
+            <li>AUX-Fin: olursa, olur, olurdu, olabilir, olursak, bilirim, olabilirdim, olamaz, olamazsın, olmayız</li>
             <li>VERB-Conv: geleceklerken, çalışırken</li>
+            <li>VERB-Fin: içer, gerekebilir, yayardık, bilir, bulabilirsin, gelir, gelirim, giderse, konuşabilirsin, sayılır</li>
           </ul>
         </li>
       </ul>
@@ -1287,8 +1308,8 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>AUX: se</li>
-            <li>VERB: vereyim</li>
+            <li>AUX-Fin: se</li>
+            <li>VERB-Fin: vereyim</li>
           </ul>
         </li>
       </ul>
@@ -1312,9 +1333,9 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>AUX: oldu, olacak, olacağız, olacağım, olamayacaksın, olduk, oldun, olmadı, olmayacak, olmuş</li>
-            <li>VERB: geldi, görmüş, söyledi, gitti, gitmiş, gördüm, etti, görmedim, verdi, aldık</li>
+            <li>AUX-Fin: oldu, olacak, olacağız, olacağım, olamayacaksın, olduk, oldun, olmadı, olmayacak, olmuş</li>
             <li>VERB-Conv: göstermişken</li>
+            <li>VERB-Fin: geldi, görmüş, söyledi, gitti, gitmiş, gördüm, etti, görmedim, verdi, aldık</li>
             <li>VERB-Part: tanınmış, pişmiş, toplanmış, yemiş, şaşılacak</li>
           </ul>
         </li>
@@ -1365,7 +1386,7 @@ udver: '2'
       <ul>
         <li>PerfRapid
           <ul>
-            <li>VERB: giriverdi</li>
+            <li>VERB-Fin: giriverdi</li>
           </ul>
         </li>
       </ul>
@@ -1382,8 +1403,8 @@ udver: '2'
       <ul>
         <li>Prog
           <ul>
-            <li>AUX: oluyor, oluyorum, olmuyor, oluyorsun, biliyor, bulunuyoruz, oluyordu, oluyorduk, oluyorlar, oluyorlardı</li>
-            <li>VERB: istiyor, çalışıyor, gerekiyor, gidiyor, ediyorum, istemiyor, sanıyorum, seviyor, yapıyor, geliyor</li>
+            <li>AUX-Fin: oluyor, oluyorum, olmuyor, oluyorsun, biliyor, bulunuyoruz, oluyordu, oluyorduk, oluyorlar, oluyorlardı</li>
+            <li>VERB-Fin: istiyor, çalışıyor, gerekiyor, gidiyor, ediyorum, istemiyor, sanıyorum, seviyor, yapıyor, geliyor</li>
           </ul>
         </li>
       </ul>
@@ -1431,8 +1452,8 @@ udver: '2'
       <ul>
         <li>Prosp
           <ul>
-            <li>AUX: olacaktı</li>
-            <li>VERB: olacaktı, alacaktım, anlamayacaktım, tutacaktı, atılacaktı, gerekecekti, gezdirecektik, gidecekti, gidecektim, gidecektin</li>
+            <li>AUX-Fin: olacaktı</li>
+            <li>VERB-Fin: olacaktı, alacaktım, anlamayacaktım, tutacaktı, atılacaktı, gerekecekti, gezdirecektik, gidecekti, gidecektim, gidecektin</li>
           </ul>
         </li>
       </ul>
@@ -1461,7 +1482,7 @@ udver: '2'
       <ul>
         <li>Rapid
           <ul>
-            <li>VERB: kapayıversene</li>
+            <li>VERB-Fin: kapayıversene</li>
           </ul>
         </li>
       </ul>
@@ -1503,8 +1524,8 @@ udver: '2'
       <ul>
         <li>Cnd
           <ul>
-            <li>AUX: olsa, olsam, sa, değilse, ise, olsaydı, olsaydım, se, dıysa, idiyse</li>
-            <li>VERB: olsa, gitsek, bitse, seyretsek, çalışsa, alsalar, anlatsa, binsek, bitirmedinizse, geliyorsa</li>
+            <li>AUX-Fin: olsa, olsam, sa, değilse, ise, olsaydı, olsaydım, se, dıysa, idiyse</li>
+            <li>VERB-Fin: olsa, gitsek, bitse, seyretsek, çalışsa, alsalar, anlatsa, binsek, bitirmedinizse, geliyorsa</li>
           </ul>
         </li>
       </ul>
@@ -1535,8 +1556,8 @@ udver: '2'
       <ul>
         <li>CndGen
           <ul>
-            <li>AUX: olursa, olursak, olmazsa, olursam, olursan</li>
-            <li>VERB: giderse, olmazsa, büyütülürlerse, gelirse, seçerseniz, yatarsa, açarsa, binerse, bulmazsa, gelmezse</li>
+            <li>AUX-Fin: olursa, olursak, olmazsa, olursam, olursan</li>
+            <li>VERB-Fin: giderse, olmazsa, büyütülürlerse, gelirse, seçerseniz, yatarsa, açarsa, binerse, bulmazsa, gelmezse</li>
           </ul>
         </li>
       </ul>
@@ -1560,7 +1581,7 @@ udver: '2'
       <ul>
         <li>CndGenPot
           <ul>
-            <li>VERB: görüşemezsek</li>
+            <li>VERB-Fin: görüşemezsek</li>
           </ul>
         </li>
       </ul>
@@ -1577,7 +1598,7 @@ udver: '2'
       <ul>
         <li>CndPot
           <ul>
-            <li>VERB: kullanabilseydik, düşünebiliyorsanız, gelebilselerdi, görebilsem</li>
+            <li>VERB-Fin: kullanabilseydik, düşünebiliyorsanız, gelebilselerdi, görebilsem</li>
           </ul>
         </li>
       </ul>
@@ -1640,9 +1661,9 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>AUX: dır, dir, olur, olurdu, değildir, olmuştur, bilirim, değilimdir, dur, midir</li>
-            <li>VERB: içer, yayardık, bilir, gelir, gelirim, sayılır, sever, yapar, yetişir, alır</li>
+            <li>AUX-Fin: dır, dir, olur, olurdu, değildir, olmuştur, bilirim, değilimdir, dur, midir</li>
             <li>VERB-Conv: geleceklerken, çalışırken</li>
+            <li>VERB-Fin: içer, yayardık, bilir, gelir, gelirim, sayılır, sever, yapar, yetişir, alır</li>
           </ul>
         </li>
       </ul>
@@ -1677,7 +1698,7 @@ udver: '2'
       <ul>
         <li>GenNec
           <ul>
-            <li>VERB: seçilmelidir</li>
+            <li>VERB-Fin: seçilmelidir</li>
           </ul>
         </li>
       </ul>
@@ -1723,8 +1744,8 @@ udver: '2'
       <ul>
         <li>GenPot
           <ul>
-            <li>AUX: olabilir, olabilirdim, olamaz, olamazsın</li>
-            <li>VERB: gerekebilir, bulabilirsin, konuşabilirsin, geçemez, koyabiliriz, Bakabilirim, alamaz, bekleyemeyiz, dönebilirdi, gelemezsin</li>
+            <li>AUX-Fin: olabilir, olabilirdim, olamaz, olamazsın</li>
+            <li>VERB-Fin: gerekebilir, bulabilirsin, konuşabilirsin, geçemez, koyabiliriz, Bakabilirim, alamaz, bekleyemeyiz, dönebilirdi, gelemezsin</li>
           </ul>
         </li>
       </ul>
@@ -1755,7 +1776,7 @@ udver: '2'
       <ul>
         <li>GenPotPot
           <ul>
-            <li>VERB: edemeyebilirim, gelemeyebilir</li>
+            <li>VERB-Fin: edemeyebilirim, gelemeyebilir</li>
           </ul>
         </li>
       </ul>
@@ -1772,8 +1793,8 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>AUX: olsun, olun</li>
-            <li>VERB: ver, al, git, bak, gel, getir, kal, yürü, Koşma, ara</li>
+            <li>AUX-Fin: olsun, olun</li>
+            <li>VERB-Fin: ver, al, git, bak, gel, getir, kal, yürü, Koşma, ara</li>
           </ul>
         </li>
       </ul>
@@ -1824,11 +1845,13 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADJ: var, belli</li>
-            <li>AUX: olarak, değil, olan, dı, oldu, olacak, mış, yken, miş, ydı</li>
+            <li>AUX-Conv: olarak, yken</li>
+            <li>AUX-Fin: değil, dı, oldu, olacak, mış, miş, ydı, tı, ydi, tu</li>
             <li>AUX-Part: olan, olmayan, olacağım, olduğu, olacağı, olmayacak, oldukları, olduğum, olduğumuz, olduğun</li>
-            <li>VERB: geldi, görmüş, istiyor, söyledi, çalışıyor, gerekiyor, geçen, gidiyor, ediyorum, gelince</li>
-            <li>VERB-Conv: göstermişken</li>
+            <li>VERB-Conv: gelince, gidip, oturup, alıp, ağlaya, başlayınca, bulup, deyip, gelip, görünce</li>
+            <li>VERB-Fin: geldi, görmüş, istiyor, söyledi, çalışıyor, gerekiyor, gidiyor, ediyorum, gitti, gitmiş</li>
             <li>VERB-Part: geçen, yaptığı, ettiğimiz, geldiği, oynayan, sevdiği, gördüğünüz, sevdiğim, akan, aldığın</li>
+            <li>VERB-Vnoun: kanıtlamak</li>
           </ul>
         </li>
       </ul>
@@ -1878,8 +1901,8 @@ udver: '2'
       <ul>
         <li>Nec
           <ul>
-            <li>AUX: olmalı, olmalıydım, olmalılar, olmalıyım, olmalıyız</li>
-            <li>VERB: gitmeliyim, araştırmalıyız, düşünmeliyiz, etmeliyiz, halletmeli, karşılamalıyız, katılmalıyız, sormalısın, söylemeliydi, söylememelisin</li>
+            <li>AUX-Fin: olmalı, olmalıydım, olmalılar, olmalıyım, olmalıyız</li>
+            <li>VERB-Fin: gitmeliyim, araştırmalıyız, düşünmeliyiz, etmeliyiz, halletmeli, karşılamalıyız, katılmalıyız, sormalısın, söylemeliydi, söylememelisin</li>
           </ul>
         </li>
       </ul>
@@ -1927,8 +1950,8 @@ udver: '2'
       <ul>
         <li>Opt
           <ul>
-            <li>AUX: olsun, olalım, olayım, olmasın</li>
-            <li>VERB: girelim, soralım, alalım, edeyim, getirsin, koyalım, almasın, gidelim, gideyim, göstermeyelim</li>
+            <li>AUX-Fin: olsun, olalım, olayım, olmasın</li>
+            <li>VERB-Fin: girelim, soralım, alalım, edeyim, getirsin, koyalım, almasın, gidelim, gideyim, göstermeyelim</li>
           </ul>
         </li>
       </ul>
@@ -1958,10 +1981,10 @@ udver: '2'
       <ul>
         <li>Pot
           <ul>
-            <li>AUX: olamayacaksın, olamayacağını</li>
+            <li>AUX-Fin: olamayacaksın</li>
             <li>AUX-Part: olamayacağını</li>
-            <li>VERB: aldatabiliyorlar, anlayamıyorum, düşünemiyorum, gelemeyecek, Okuyamadım, alamadık, bakamıyor, bulabildim, dayanamıyorum, gelemeyecekler</li>
-            <li>VERB-Part: anlayamadığını, bitmeyebileceğinin, edebileceği, göremeyenler, içilebilecek, kullanabileceği, kullanabileceğini, kıskanabileceklerini, sarabileceğine, sağlayamadığı</li>
+            <li>VERB-Fin: aldatabiliyorlar, anlayamıyorum, düşünemiyorum, gelemeyecek, Okuyamadım, alamadık, bakamıyor, bulabildim, dayanamıyorum, gelemeyecekler</li>
+            <li>VERB-Part: anlayamadığını, bitmeyebileceğinin, edebileceği, göremeyenler, inanılamayacak, içilebilecek, kullanabileceği, kullanabileceğini, kıskanabileceklerini, sarabileceğine</li>
             <li>VERB-Vnoun: görebilmesi, konuşabilmek, oturabilmek, söylemeyebilmek</li>
           </ul>
         </li>
@@ -1998,7 +2021,7 @@ udver: '2'
       <ul>
         <li>PotPot
           <ul>
-            <li>VERB: edemeyebileceğim</li>
+            <li>VERB-Fin: edemeyebileceğim</li>
           </ul>
         </li>
       </ul>
@@ -2067,9 +2090,9 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
-            <li>AUX: olacak, olacağım, olacağı, olmayacak, olacağız, olacağımızı, olamayacaksın, olacaklar, olacaksın, olacaksınız</li>
+            <li>AUX-Fin: olacak, olacağız, olacağım, olamayacaksın, olmayacak, olacaklar, olacaksın, olacaksınız</li>
             <li>AUX-Part: olacağı, olacağım, olacağımızı, olmayacak, olacağına, olacağını, olamayacağını, olmayacağın</li>
-            <li>VERB: yıkayacak, gidecek, konaklamayacaklar, başlayacak, gelecek, geleceğine, gelemeyecek, girecek, göreceğim, oturacak</li>
+            <li>VERB-Fin: yıkayacak, konaklamayacaklar, başlayacak, gelecek, geleceğine, gelemeyecek, gidecek, anlayacaksın, bulunacak, değiştirecek</li>
             <li>VERB-Part: anlayacak, evleneceğini, geleceği, konuşabileceği, okuyacağım, oturacağım, yarayacak, Söyleyecek, alacakları, alacaklarını</li>
           </ul>
         </li>
@@ -2105,8 +2128,8 @@ udver: '2'
       <ul>
         <li>Fut,Past
           <ul>
-            <li>AUX: olacaktı</li>
-            <li>VERB: olacaktı, alacaktım, anlamayacaktım, tutacaktı, atılacaktı, gerekecekti, gezdirecektik, gidecekti, gidecektim, gidecektin</li>
+            <li>AUX-Fin: olacaktı</li>
+            <li>VERB-Fin: olacaktı, alacaktım, anlamayacaktım, tutacaktı, atılacaktı, gerekecekti, gezdirecektik, gidecekti, gidecektim, gidecektin</li>
           </ul>
         </li>
       </ul>
@@ -2130,9 +2153,10 @@ udver: '2'
         <li>Past
           <ul>
             <li>AUX: dı, oldu, olduğunu, mış, miş, ydı, olduğu, tı, ydi, tu</li>
+            <li>AUX-Fin: dı, oldu, mış, miş, ydı, tı, ydi, tu, ymış, di</li>
             <li>AUX-Part: olduğunu, olduğu, olduktan, olduğuna, olmadığın, bulunduğumuza, oldukları, olduklarını, olduğum, olduğumuz</li>
-            <li>VERB: geldi, görmüş, söyledi, gitti, gitmiş, gördüm, etti, görmedim, verdi, aldık</li>
             <li>VERB-Conv: göstermişken</li>
+            <li>VERB-Fin: geldi, görmüş, söyledi, gitti, gitmiş, gördüm, etti, görmedim, verdi, aldık</li>
             <li>VERB-Part: yaptığı, çaldığını, ettiğimiz, geldiği, sevdiği, bildiğim, ettiğin, gördüğünüz, sevdiğim, aldığın</li>
           </ul>
         </li>
@@ -2171,7 +2195,7 @@ udver: '2'
       <ul>
         <li>Pqp
           <ul>
-            <li>VERB: gelmişti, getirmişti, göstermiştim, söylemişti, yağmıştı, almıştım, bulanmıştı, demişti, gitmemiştim, koymuştu</li>
+            <li>VERB-Fin: gelmişti, getirmişti, göstermiştim, söylemişti, yağmıştı, almıştım, bulanmıştı, demişti, gitmemiştim, koymuştu</li>
           </ul>
         </li>
       </ul>
@@ -2203,9 +2227,10 @@ udver: '2'
           <ul>
             <li>ADJ: var, belli</li>
             <li>AUX: değil, olan, mı, dir, olsa, olsun, olursa, yım, dır, olmalı</li>
+            <li>AUX-Fin: değil, dir, olsa, olsun, olursa, yım, dır, olmalı, olsam, olur</li>
             <li>AUX-Part: olan, olmayan</li>
-            <li>VERB: istiyor, çalışıyor, gerekiyor, geçen, gidiyor, ediyorum, istemiyor, olsa, sanıyorum, seviyor</li>
             <li>VERB-Conv: geleceklerken, çalışırken</li>
+            <li>VERB-Fin: istiyor, çalışıyor, gerekiyor, gidiyor, ediyorum, istemiyor, olsa, sanıyorum, seviyor, yapıyor</li>
             <li>VERB-Part: geçen, oynayan, katılanların, sevmeyenleri, akan, arayan, baltalayan, başlayan, duran, gelen</li>
           </ul>
         </li>
@@ -2274,7 +2299,7 @@ udver: '2'
       <ul>
         <li>Cau
           <ul>
-            <li>VERB: bitirmiş, bitirdi, işletiyordu, yaptırdık, yaptırdım, ayırtmak, bitirir, bitirmedinizse, bitirmeye, değiştirecek</li>
+            <li>VERB-Fin: bitirmiş, bitirdi, işletiyordu, yaptırdık, yaptırdım, bitirir, bitirmedinizse, değiştirecek, düzeltiyordu, inandıramadı</li>
             <li>VERB-Part: baktırmadığından, ettirmediğini</li>
             <li>VERB-Vnoun: bitirmeye, pişirmesini, ayırtmak, boşaltmalarını, değiştirmek, düzeltmemiz, kolaylaştırmak, okutma, okutmak, rahatlatmaya</li>
           </ul>
@@ -2315,7 +2340,7 @@ udver: '2'
       <ul>
         <li>CauCau
           <ul>
-            <li>VERB: kestirttim, yaptırtmış, akıttırıyor</li>
+            <li>VERB-Fin: kestirttim, yaptırtmış, akıttırıyor</li>
           </ul>
         </li>
       </ul>
@@ -2332,7 +2357,7 @@ udver: '2'
       <ul>
         <li>CauCauPass
           <ul>
-            <li>VERB: yaptırtıldı</li>
+            <li>VERB-Fin: yaptırtıldı</li>
           </ul>
         </li>
       </ul>
@@ -2349,7 +2374,7 @@ udver: '2'
       <ul>
         <li>CauPass
           <ul>
-            <li>VERB: büyütülürlerse, başlatılmak, diktirildi, durdurulmak, görevlendirilir, kararlaştırıldı, karşılaştırılmasını, pişirilseydi, uyandırılmalar, yapılaştırılmamış</li>
+            <li>VERB-Fin: büyütülürlerse, diktirildi, görevlendirilir, kararlaştırıldı, pişirilseydi, yapılaştırılmamış</li>
             <li>VERB-Part: çıkartıldığı</li>
             <li>VERB-Vnoun: başlatılmak, durdurulmak, karşılaştırılmasını, uyandırılmalar</li>
           </ul>
@@ -2386,7 +2411,7 @@ udver: '2'
       <ul>
         <li>CauPassRcp
           <ul>
-            <li>VERB: D​ö​ğ​ü​ş​t​ü​r​ü​l​m​e​y​e​b​i​l​i​y​o​r, Görüştürülemeye, dövüştürüldü</li>
+            <li>VERB-Fin: D​ö​ğ​ü​ş​t​ü​r​ü​l​m​e​y​e​b​i​l​i​y​o​r, Görüştürülemeye, dövüştürüldü</li>
           </ul>
         </li>
       </ul>
@@ -2403,7 +2428,7 @@ udver: '2'
       <ul>
         <li>CauRcp
           <ul>
-            <li>VERB: araştırmalıyız, öpüştürdü</li>
+            <li>VERB-Fin: araştırmalıyız, öpüştürdü</li>
           </ul>
         </li>
       </ul>
@@ -2421,8 +2446,8 @@ udver: '2'
         <li>Pass
           <ul>
             <li>AUX-Part: bulunduğumuza</li>
-            <li>VERB: isteniyormuş, sayılır, açıldı, konmuş, satılmış, addediliyoruz, alınmaması, açılmamıştır, biliniyor, bozulmaktadır</li>
-            <li>VERB-Part: edildikten, tanınmış, içilebilecek, okunanı, yapılacağı, yendikten, çekildiğini, şaşılacak</li>
+            <li>VERB-Fin: isteniyormuş, sayılır, açıldı, konmuş, satılmış, addediliyoruz, açılmamıştır, biliniyor, bozulmaktadır, bozulmuş</li>
+            <li>VERB-Part: edildikten, tanınmış, inanılamayacak, içilebilecek, okunanı, yapılacağı, yendikten, çekildiğini, şaşılacak</li>
             <li>VERB-Vnoun: alınmaması, verilmesi, yapılması, yazılması, alınmalar, asılmasını, atılması, edilmek, ertelenmesi, gidilmeye</li>
           </ul>
         </li>
@@ -2461,7 +2486,7 @@ udver: '2'
       <ul>
         <li>PassPass
           <ul>
-            <li>VERB: kırılınır, üzülünebilir</li>
+            <li>VERB-Fin: kırılınır, üzülünebilir</li>
           </ul>
         </li>
       </ul>
@@ -2478,7 +2503,7 @@ udver: '2'
       <ul>
         <li>PassRcp
           <ul>
-            <li>VERB: dövüşülmüştür</li>
+            <li>VERB-Fin: dövüşülmüştür</li>
           </ul>
         </li>
       </ul>
@@ -2495,7 +2520,7 @@ udver: '2'
       <ul>
         <li>PassRfl
           <ul>
-            <li>VERB: yıkanılır</li>
+            <li>VERB-Fin: yıkanılır</li>
           </ul>
         </li>
       </ul>
@@ -2512,8 +2537,8 @@ udver: '2'
       <ul>
         <li>Rcp
           <ul>
-            <li>VERB: dövüşmezler, dövüştü, dövüştüler, tanışamadın, tanışmışlar, tanıştınız, fısıldaşmaya, karşılaştım, tanışmış, tanışıyormuşsunuz</li>
             <li>VERB-Conv: fısıldaşmaya</li>
+            <li>VERB-Fin: dövüşmezler, dövüştü, dövüştüler, tanışamadın, tanışmışlar, tanıştınız, karşılaştım, tanışmış, tanışıyormuşsunuz</li>
           </ul>
         </li>
       </ul>
@@ -2530,7 +2555,7 @@ udver: '2'
       <ul>
         <li>Rfl
           <ul>
-            <li>VERB: kapanıyor, yıkanabilirler, Görünen, giyindin, kapanmıştı, sürünüyor, yalanıyordu, yıkanmıştı</li>
+            <li>VERB-Fin: kapanıyor, yıkanabilirler, Görünen, giyindin, kapanmıştı, sürünüyor, yalanıyordu, yıkanmıştı</li>
           </ul>
         </li>
       </ul>
@@ -2564,9 +2589,9 @@ udver: '2'
       <ul>
         <li>Fh
           <ul>
-            <li>AUX: tı, değildik</li>
-            <li>VERB: geleceğine, korkuyor, aldım, açacağını, başlayacağı, bilmiyordum, dayanamayacağını, değer, duymamaz, duymaz</li>
+            <li>AUX-Fin: tı, değildik</li>
             <li>VERB-Conv: geleceklerken, çalışırken</li>
+            <li>VERB-Fin: geleceğine, korkuyor, aldım, açacağını, başlayacağı, bilmiyordum, dayanamayacağını, değer, duymamaz, duymaz</li>
             <li>VERB-Part: şaşılacak</li>
           </ul>
         </li>
@@ -2585,8 +2610,9 @@ udver: '2'
         <li>Nfh
           <ul>
             <li>AUX: mış, miş, ymış, muş, larmış, olmuş, olmuştur, ymiş, ymüş, değillermiş</li>
-            <li>VERB: görmüş, gitmiş, bitirmiş, okumuş, yapmış, gelmişler, istemiş, isteniyormuş, olmuş, vermiş</li>
+            <li>AUX-Fin: mış, miş, ymış, muş, larmış, olmuş, olmuştur, ymiş, ymüş, değillermiş</li>
             <li>VERB-Conv: göstermişken</li>
+            <li>VERB-Fin: görmüş, gitmiş, bitirmiş, okumuş, yapmış, gelmişler, istemiş, isteniyormuş, olmuş, vermiş</li>
             <li>VERB-Part: tanınmış, pişmiş, toplanmış, yemiş</li>
           </ul>
         </li>
@@ -2693,6 +2719,7 @@ udver: '2'
             <li>ADJ: nasıl, ne</li>
             <li>ADV: neden, nasıl, ne, niye, niçin</li>
             <li>AUX: mi, mı, mu, mü, musun, misiniz, misin, miyiz, musunuz, mısın</li>
+            <li>AUX-Fin: midir, miyimdir, mudurlar, mıdır</li>
             <li>DET: hangi, ne</li>
             <li>NOUN: ne, neci</li>
             <li>NUM: kaç</li>
@@ -2795,7 +2822,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Card
+          <ul>
+            <li>NUM: iki, üç, beş, yüz, dört, on, bir, bin, dokuz, sekiz</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2838,7 +2871,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>NUM: iki, üç, beş, yüz, dört, on, bir, bin, dokuz, sekiz</li>
+            <li>ADJ: ikinci, üçüncü, 18., Dördüncü, birinci, milyon, İki, İkinci</li>
           </ul>
         </li>
       </ul>
@@ -2946,8 +2979,9 @@ udver: '2'
         <li>1
           <ul>
             <li>AUX: yım, olsam, değilim, miyiz, dük, olacağız, oluyorum, ydik, değiliz, olacağım</li>
+            <li>AUX-Fin: yım, olsam, değilim, dük, olacağız, oluyorum, ydik, değiliz, olacağım, olduk</li>
             <li>PRON: ben, bana, benim, biz, bizim, beni, bize, bizi, benden, benimle</li>
-            <li>VERB: ediyorum, gördüm, görmedim, sanıyorum, aldık, gidiyorum, bilmiyordum, istiyorum, okudum, sanıyordum</li>
+            <li>VERB-Fin: ediyorum, gördüm, görmedim, sanıyorum, aldık, gidiyorum, bilmiyordum, istiyorum, okudum, sanıyordum</li>
           </ul>
         </li>
       </ul>
@@ -2983,8 +3017,9 @@ udver: '2'
         <li>2
           <ul>
             <li>AUX: musun, misiniz, misin, musunuz, mısın, mısınız, mıydınız, olamayacaksın, oldun, oluyorsun</li>
+            <li>AUX-Fin: olamayacaksın, oldun, oluyorsun, sün, sın, değildiniz, değilsin, değilsiniz, dur, olacaksın</li>
             <li>PRON: sen, senin, seni, sana, siz, sizin, size, kendiniz, Kendin, Sizler</li>
-            <li>VERB: istiyorsun, ver, aldın, gittin, gördün, bulabilirsin, istiyorsunuz, konuşabilirsin, al, gidiyorsun</li>
+            <li>VERB-Fin: istiyorsun, ver, aldın, gittin, gördün, bulabilirsin, istiyorsunuz, konuşabilirsin, al, gidiyorsun</li>
           </ul>
         </li>
       </ul>
@@ -3025,10 +3060,11 @@ udver: '2'
             <li>ADJ: var, belli</li>
             <li>AUX: değil, dı, mı, oldu, olacak, mu, mış, mi, miş, ydı</li>
             <li>AUX-Conv: ken</li>
+            <li>AUX-Fin: değil, dı, oldu, olacak, mış, miş, ydı, dır, tı, ydi</li>
             <li>AUX-Part: olduğunu</li>
             <li>PRON: herkes, o, herkesin, ona, birisi, kendisi, kendisine, onun, kendisini, onu</li>
-            <li>VERB: geldi, istiyor, söyledi, gerekiyor, etti, gitti, istemiyor, olsa, seviyor, verdi</li>
             <li>VERB-Conv: geleceklerken, göstermişken</li>
+            <li>VERB-Fin: geldi, istiyor, söyledi, gerekiyor, etti, gitti, istemiyor, olsa, seviyor, verdi</li>
             <li>VERB-Part: tanınmış, pişmiş, yemiş</li>
           </ul>
         </li>
@@ -3210,7 +3246,7 @@ udver: '2'
             <li>NUM: biri, kaçı, yedisinde, 95’i, beşi, birinde, onbeşi, yedisi</li>
             <li>PRON: burası, Burasını, biri, neresi, nerenden, nesi, orası, Ötekine, Şurası</li>
             <li>PROPN: Fatma’nın, Semra’nın, Türkleri</li>
-            <li>VERB: yaptığı, çaldığını, geldiği, gelmesi, sevdiği, bildiğim, ettiğin, geleceğine, gitmem, sevdiğim</li>
+            <li>VERB-Fin: geleceğine, Boyanmışlarında, açacağını, başlayacağı, dayanamayacağını, katılamayacağımı</li>
             <li>VERB-Part: yaptığı, çaldığını, geldiği, sevdiği, bildiğim, ettiğin, sevdiğim, aldığın, anlayamadığı, anlayamadığım</li>
             <li>VERB-Vnoun: gelmesi, gitmem, almamız, alınmaması, bitmesiyle, gelmesini, girmesinden, kazanmasını, pişirmesini, verilmesi</li>
           </ul>
@@ -3343,7 +3379,7 @@ udver: '2'
                 <li>AUX-Part: olacağım, olacağımızı, bulunduğumuza, olduğum, olduğumuz, olmadığım</li>
                 <li>AUX-Vnoun: olmamız</li>
                 <li>NOUN: annem, Dayım, Saçımı, Vaktim, annemin, evimizden, kardeşimin, komşumuz, misafirlerimiz, toplantılarımıza</li>
-                <li>VERB: yapmamız, almamız, ettiğimiz, bildiğim, gitmem, konuşmamız, sevdiğim, anlayamadığım, aradığımız, gittiğim</li>
+                <li>VERB-Fin: katılamayacağımı</li>
                 <li>VERB-Part: ettiğimiz, bildiğim, sevdiğim, anlayamadığım, aradığımız, gittiğim, korktuğum, okuduğum, okuyacağım, oturacağım</li>
                 <li>VERB-Vnoun: yapmamız, almamız, gitmem, konuşmamız, Konuşmamda, Konuşmamdan, almam, beslememize, beğenmememizden, durmamız</li>
               </ul>
@@ -3368,7 +3404,7 @@ udver: '2'
                 <li>NUM: biri, kaçı, yedisinde, 95’i, beşi, birinde, onbeşi, yedisi</li>
                 <li>PRON: burası, Burasını, biri, neresi, birbirleriyle, nesi, orası, Şurası</li>
                 <li>PROPN: Türkleri</li>
-                <li>VERB: yaptığı, geldiği, gelmesi, sevdiği, geleceğine, sevmeyenleri, çaldığını, alınmaması, anlayamadığı, bilmediğini</li>
+                <li>VERB-Fin: geleceğine, Boyanmışlarında, açacağını, başlayacağı, dayanamayacağını</li>
                 <li>VERB-Part: yaptığı, geldiği, sevdiği, sevmeyenleri, çaldığını, anlayamadığı, bilmediğini, evleneceğini, geleceği, gerektiğini</li>
                 <li>VERB-Vnoun: gelmesi, alınmaması, bitmesiyle, gelmesini, girmesinden, kazanmasını, pişirmesini, verilmesi, yapmasını, yapılması</li>
               </ul>
@@ -3541,17 +3577,19 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-Acc (3)</li>
-            <li>VERB--NOUN-Gen (9)</li>
-            <li>VERB--NOUN-Ins (7)</li>
-            <li>VERB--NOUN-Loc (1)</li>
-            <li>VERB--NOUN-Nom (423)</li>
-            <li>VERB--PRON-Abl (1)</li>
-            <li>VERB--PRON-Acc (1)</li>
-            <li>VERB--PRON-Dat (3)</li>
-            <li>VERB--PRON-Gen (5)</li>
-            <li>VERB--PRON-Nom (212)</li>
-            <li>VERB-Conv--NOUN-Nom (3)</li>
+            <li>VERB-Conv--NOUN-Ins (1)</li>
+            <li>VERB-Conv--NOUN-Nom (9)</li>
+            <li>VERB-Conv--PRON-Nom (5)</li>
+            <li>VERB-Fin--NOUN-Acc (3)</li>
+            <li>VERB-Fin--NOUN-Gen (9)</li>
+            <li>VERB-Fin--NOUN-Ins (6)</li>
+            <li>VERB-Fin--NOUN-Loc (1)</li>
+            <li>VERB-Fin--NOUN-Nom (418)</li>
+            <li>VERB-Fin--PRON-Abl (1)</li>
+            <li>VERB-Fin--PRON-Acc (1)</li>
+            <li>VERB-Fin--PRON-Dat (3)</li>
+            <li>VERB-Fin--PRON-Gen (5)</li>
+            <li>VERB-Fin--PRON-Nom (207)</li>
             <li>VERB-Part--NOUN-Acc (1)</li>
             <li>VERB-Part--NOUN-Gen (22)</li>
             <li>VERB-Part--NOUN-Nom (26)</li>
@@ -3639,21 +3677,22 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN-Abl (1)</li>
-            <li>VERB--NOUN-Acc (423)</li>
-            <li>VERB--NOUN-Nom (282)</li>
-            <li>VERB--PRON-Abl (6)</li>
-            <li>VERB--PRON-Acc (94)</li>
-            <li>VERB--PRON-Nom (13)</li>
-            <li>VERB--PRON-Nom-ADP(kadar) (2)</li>
-            <li>VERB-Conv--NOUN-Acc (2)</li>
-            <li>VERB-Conv--NOUN-Nom (4)</li>
+            <li>VERB-Conv--NOUN-Acc (10)</li>
+            <li>VERB-Conv--NOUN-Nom (13)</li>
+            <li>VERB-Conv--PRON-Acc (2)</li>
+            <li>VERB-Fin--NOUN-Abl (1)</li>
+            <li>VERB-Fin--NOUN-Acc (413)</li>
+            <li>VERB-Fin--NOUN-Nom (271)</li>
+            <li>VERB-Fin--PRON-Abl (6)</li>
+            <li>VERB-Fin--PRON-Acc (92)</li>
+            <li>VERB-Fin--PRON-Nom (13)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(kadar) (2)</li>
             <li>VERB-Part--NOUN-Acc (33)</li>
             <li>VERB-Part--NOUN-Nom (34)</li>
             <li>VERB-Part--PRON-Acc (11)</li>
             <li>VERB-Part--PRON-Nom (3)</li>
-            <li>VERB-Vnoun--NOUN-Acc (51)</li>
-            <li>VERB-Vnoun--NOUN-Nom (66)</li>
+            <li>VERB-Vnoun--NOUN-Acc (53)</li>
+            <li>VERB-Vnoun--NOUN-Nom (68)</li>
             <li>VERB-Vnoun--PRON-Acc (22)</li>
             <li>VERB-Vnoun--PRON-Nom (1)</li>
           </ul>

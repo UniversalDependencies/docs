@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.435647).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.434889).
 
 The 1st highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
 
@@ -42,7 +42,7 @@ Examples: <em>.</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="pl_pud-dep-punct.html">punct</a></tt> (2658; 100% instances)
 
-Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1464; 55% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (470; 18% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (360; 14% instances), <tt><a href="pl_pud-pos-X.html">X</a></tt> (154; 6% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (144; 5% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (21; 1% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (17; 1% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt> (3; 0% instances)
+Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1464; 55% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (467; 18% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (365; 14% instances), <tt><a href="pl_pud-pos-X.html">X</a></tt> (151; 6% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (144; 5% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (21; 1% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (17; 1% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt> (4; 0% instances)
 
 2658 (100%) `PUNCT` nodes are leaves.
 

@@ -30,7 +30,7 @@ The 1st highest number of forms (1) was observed with the lemma “t”: <em>-t<
 
 ## Relations
 
-`PART` nodes are attached to their parents using 1 different relations: <tt><a href="fr_sequoia-dep-expl.html">expl</a></tt> (7; 100% instances)
+`PART` nodes are attached to their parents using 1 different relations: <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (7; 100% instances)
 
 Parents of `PART` nodes belong to 1 different parts of speech: <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (7; 100% instances)
 

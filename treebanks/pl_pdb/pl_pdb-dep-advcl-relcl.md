@@ -7,31 +7,34 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PDB: Relations: `advcl:relcl`
 
 This relation is a language-specific subtype of <tt><a href="pl_pdb-dep-advcl.html">advcl</a></tt>.
+There are also 1 other language-specific subtypes of `advcl`: <tt><a href="pl_pdb-dep-advcl-cmpr.html">advcl:cmpr</a></tt>.
 
-75 nodes (0%) are attached to their parents as `advcl:relcl`.
+76 nodes (0%) are attached to their parents as `advcl:relcl`.
 
-74 instances of `advcl:relcl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.64.
+74 instances of `advcl:relcl` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.73684210526316.
 
-The following 3 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (66; 88% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (5; 7% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (4; 5% instances).
+The following 3 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (66; 87% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (6; 8% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (4; 5% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 6 advcl:relcl	color:blue
-1	Przeczytał	przeczytać	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	dokładnie	dokładnie	ADV	adv:pos	Degree=Pos	1	advmod	1:advmod	SpaceAfter=No
-3	,	,	PUNCT	interp	PunctType=Comm	6	punct	6:punct	_
-4	po	po	ADP	prep:loc	AdpType=Prep	5	case	5:case	Case=Loc
-5	czym	co	PRON	subst:sg:loc:n:ncol	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	6	obl	6:obl	_
-6	obejrzał	obejrzeć	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl:relcl	1:advcl:relcl	_
-7	się	się	PRON	part	PronType=Prs|Reflex=Yes	6	expl:pv	6:expl:pv	_
-8	na	na	ADP	prep:acc	AdpType=Prep	9	case	9:case	Case=Acc
-9	tablicę	tablica	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	6	obl:arg	6:obl:arg	SpaceAfter=No
-10	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
+# visual-style 1 8 advcl:relcl	color:blue
+1	Ćwiczy	ćwiczyć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	kilka	kilka	DET	num:pl:acc:f:rec	Case=Acc|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	3	det:numgov	3:det:numgov	_
+3	godzin	godzina	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	1	obl	1:obl	SpaceAfter=No
+4	,	,	PUNCT	interp	PunctType=Comm	8	punct	8:punct	_
+5	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	6	case	6:case	Case=Acc
+6	co	co	PRON	subst:sg:acc:n:ncol	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	8	obl	8:obl	_
+7	nie	nie	PART	part	Polarity=Neg	8	advmod:neg	8:advmod:neg	_
+8	wyrabia	wyrabiać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl:relcl	1:advcl:relcl	_
+9	się	się	PRON	part	PronType=Prs|Reflex=Yes	8	expl:pv	8:expl:pv	_
+10	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	11	case	11:case	Case=Loc
+11	pracy	praca	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	8	obl	8:obl	SpaceAfter=No
+12	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~
 
@@ -45,8 +48,8 @@ The following 3 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 1	Stwierdziły	stwierdzić	VERB	praet:pl:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	interp	PunctType=Comm	7	punct	7:punct	_
 3	że	że	SCONJ	comp	_	7	mark	7:mark	_
-4	po	po	ADP	prep:acc	AdpType=Prep	7	parataxis:insert	7:parataxis:insert	Case=Acc
-5	prostu	prosty	ADJ	adjp	PrepCase=Pre	4	fixed	4:fixed	_
+4	po	po	ADP	prep:acc	AdpType=Prep	5	case	5:case	Case=Acc
+5	prostu	prosty	ADJ	adjp	PrepCase=Pre	7	obl	7:obl	_
 6	nie	nie	PART	part	Polarity=Neg	7	advmod:neg	7:advmod:neg	_
 7	chcą	chcieć	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp:obj	1:ccomp:obj	_
 8	dialogować	dialogować	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	7:xcomp	_
@@ -82,7 +85,7 @@ The following 3 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 11	wyborem	wybór	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	conj	2:iobj|4:conj	SpaceAfter=No
 12	,	,	PUNCT	interp	PunctType=Comm	19	punct	19:punct	_
 13	dzięki	dzięki	ADP	prep:dat	AdpType=Prep	14	case	14:case	Case=Dat
-14	czemu	co	PRON	subst:sg:dat:n:ncol	Case=Dat|Gender=Neut|Number=Sing|PronType=Int	19	obl	19:obl	_
+14	czemu	co	PRON	subst:sg:dat:n:ncol	Case=Dat|Gender=Neut|Number=Sing|PronType=Int	19	nmod	19:nmod	_
 15	konsumenci	konsument	NOUN	subst:pl:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	19:nsubj	_
 16	są	być	AUX	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	19:cop	_
 17	na	na	ADP	prep:loc	AdpType=Prep	19	case	19:case	Case=Loc

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-261 nodes (1%) are attached to their parents as `fixed`.
+493 nodes (1%) are attached to their parents as `fixed`.
 
-261 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.03831417624521.
+493 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06896551724138.
 
-The following 19 pairs of parts of speech are connected with `fixed`: <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (187; 72% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (21; 8% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (14; 5% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (10; 4% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 36 pairs of parts of speech are connected with `fixed`: <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (307; 62% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (46; 9% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (33; 7% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (24; 5% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (13; 3% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (11; 2% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,14 @@ The following 19 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
-1	Leanann	lean	VERB	VTI	Mood=Ind|Tense=Pres	0	root	_	_
-2	Ramadan	Ramadan	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	ar	ar	ADP	Cmpd	PrepForm=Cmpd	5	case	_	_
-4	feadh	feadh	ADP	Cmpd	_	3	fixed	_	_
-5	seachtaine	seachtain	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	1	obl:tmod	_	_
-6	4	4	NUM	Num	_	5	nummod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	1	punct	_	_
+1	Tá	bí	VERB	VI	Mood=Ind|Tense=Pres	0	root	_	_
+2	mé	mé	PRON	Pers	Number=Sing|Person=1	1	nsubj	_	_
+3	tar	tar	ADP	Cmpd	_	7	case	_	_
+4	éis	éis	ADP	Cmpd	_	3	fixed	_	_
+5	cáca	cáca	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	7	obj	_	_
+6	a	a	PART	Inf	PartType=Inf	7	mark	_	_
+7	dhéanamh	déanamh	NOUN	Noun	Form=Len|VerbForm=Inf	1	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 
@@ -36,21 +37,19 @@ The following 19 pairs of parts of speech are connected with `fixed`: <tt><a hre
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 fixed	color:blue
-1	Tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
-2	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
-3	teicníocht	teicníocht	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	nsubj	_	_
-4	inste	inste	ADJ	Adj	VerbForm=Part	3	amod	_	_
-5	a	a	PART	Vb	PartType=Vb|PronType=Rel	6	obj	_	_
-6	roghnaíonn	roghnaigh	VERB	VT	Mood=Ind|Tense=Pres	3	acl:relcl	_	_
-7	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
-8	thar	thar	ADV	Its	_	11	advmod	_	_
-9	a	a	ADV	Its	_	8	fixed	_	_
-10	bheith	bheith	ADV	Its	_	8	fixed	_	_
-11	éifeachtach	éifeachtach	ADJ	Adj	Degree=Pos	1	xcomp:pred	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 fixed	color:blue
+1	Ach	ach	SCONJ	Subord	_	2	mark	_	_
+2	tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
+3	roinnt	roinnt	NOUN	Noun	Gender=Fem|Number=Sing	2	nsubj	_	_
+4	cláracha	clár	NOUN	Noun	Gender=Masc|Number=Plur	3	nmod	_	_
+5	maithe	maith	ADJ	Adj	NounType=NotSlender|Number=Plur	3	amod	_	_
+6	ann	i	ADP	Prep	Gender=Masc|Number=Sing|Person=3	2	xcomp:pred	_	_
+7	mar	mar	ADP	Simp	_	2	advmod	_	_
+8	sin	sin	PRON	Dem	PronType=Dem	7	fixed	_	_
+9	fhéin	féin	NOUN	Ref	Reflex=Yes	7	fixed	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -61,21 +60,12 @@ The following 19 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
-1	Agus	agus	CCONJ	Coord	_	7	advmod	_	_
-2	gan	gan	ADP	Simp	_	6	case	_	_
-3	a	a	NOUN	Subst	Number=Sing	6	obj	_	_
-4	thuilleadh	tuilleadh	NOUN	Subst	_	3	fixed	_	_
-5	a	a	PART	Inf	PartType=Inf	6	mark	_	_
-6	rá	rá	NOUN	Noun	Form=Len|VerbForm=Inf	7	xcomp	_	_
-7	thug	tabhair	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-8	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
-9	Bainisteoir	bainisteoir	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
-10	a	a	DET	Det	Gender=Masc|Number=Sing|Person=3|Poss=Yes	11	nmod:poss	_	_
-11	aghaidh	aghaidh	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	7	obj	_	_
-12	suas	suas	ADV	Dir	_	14	case	_	_
-13	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
-14	staighre	staighre	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
-15	.	.	PUNCT	.	_	7	punct	_	_
+1	Scairt	scairt	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
+2	mé	mé	PRON	Pers	Number=Sing|Person=1	1	nsubj	_	_
+3	ar	ar	ADV	Dir	_	1	advmod	_	_
+4	ais	ais	ADV	Dir	_	3	fixed	_	_
+5	air	ar	ADP	Prep	Gender=Masc|Number=Sing|Person=3	1	obl:prep	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

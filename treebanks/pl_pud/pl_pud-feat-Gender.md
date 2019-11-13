@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-9976 tokens (54%) have a non-empty value of `Gender`.
-6696 types (89%) occur at least once with a non-empty value of `Gender`.
-4347 lemmas (87%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (4519; 25% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (2171; 12% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (1321; 7% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (767; 4% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (499; 3% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (357; 2% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (183; 1% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (159; 1% instances).
+10148 tokens (55%) have a non-empty value of `Gender`.
+6791 types (90%) occur at least once with a non-empty value of `Gender`.
+4442 lemmas (89%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (4504; 24% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (2343; 13% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (1326; 7% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (767; 4% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (499; 3% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (357; 2% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (193; 1% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (159; 1% instances).
 
 ### `NOUN`
 
-4519 <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+4504 <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3246; 72%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2488; 55%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3232; 72%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2486; 55%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (1550; 34% of non-empty `Gender`): <em>części, wojny, większość, osób, pracy, część, linii, ochrony, uwagę, historii</em>
-* `Masc` (2031; 45% of non-empty `Gender`): <em>lat, roku, latach, ludzi, raz, wieku, świecie, czasów, dolarów, funtów</em>
-* `Neut` (938; 21% of non-empty `Gender`): <em>miejsce, miasta, morze, euro, danych, miejscu, prawa, życia, badania, działania</em>
+* `Masc` (2018; 45% of non-empty `Gender`): <em>lat, roku, latach, ludzi, raz, wieku, świecie, czasów, dolarów, funtów</em>
+* `Neut` (936; 21% of non-empty `Gender`): <em>miejsce, miasta, morze, euro, danych, miejscu, prawa, życia, badania, działania</em>
 
 <table>
   <tr><th>Paradigm <i>państwo</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
@@ -36,19 +36,19 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>państwa</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (1937) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (1923) occur only with one value of `Gender`.
 
 ### `ADJ`
 
-2171 <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
+2343 <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1759; 81%), <tt><a href="pl_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1759; 81%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1759; 81%), <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1759; 81%), <tt><a href="pl_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1679; 77%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1469; 68%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1175; 54%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1931; 82%), <tt><a href="pl_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1931; 82%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1931; 82%), <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1931; 82%), <tt><a href="pl_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1851; 79%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1641; 70%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1187; 51%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (792; 36% of non-empty `Gender`): <em>wielkiej, dużą, północna, Północnej, brytyjskiej, drugiej, dużej, jednej, pierwszej, całej</em>
-* `Masc` (996; 46% of non-empty `Gender`): <em>ostatnich, 1, jednym, pierwszy, jeden, 60, nowego, nowy, innych, innymi</em>
-* `Neut` (383; 18% of non-empty `Gender`): <em>pierwsze, Zjednoczonych, bezpośrednie, całe, duże, greckie, inne, małe, olimpijskich, Celtyckim</em>
+* `Fem` (804; 34% of non-empty `Gender`): <em>wielkiej, dużą, północna, I, Północnej, brytyjskiej, drugiej, dużej, jednej, pierwszej</em>
+* `Masc` (1156; 49% of non-empty `Gender`): <em>ostatnich, 1, jednym, pierwszy, II, jeden, 60, I, III, nowego</em>
+* `Neut` (383; 16% of non-empty `Gender`): <em>pierwsze, Zjednoczonych, bezpośrednie, całe, duże, greckie, inne, małe, olimpijskich, Celtyckim</em>
 * `EMPTY` (15): <em>północno, gotów, południowo, prostu, angielsku, austriacko, francusko, męsku, niedawna, późna</em>
 
 <table>
@@ -85,15 +85,15 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `PROPN`
 
-1321 <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Gender`.
+1326 <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1203; 91%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1208; 91%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (339; 26% of non-empty `Gender`): <em>Brytanii, Clinton, Azji, Europy, Francji, Kesha, Rosji, Ziemi, Albanii, Ameryki</em>
-* `Masc` (760; 58% of non-empty `Gender`): <em>Trumpa, Hongkongu, Pekinu, Qing, American, Chińczyków, Disneya, Joseph, Mishima, Totmesa</em>
-* `Neut` (222; 17% of non-empty `Gender`): <em>USA, Chiny, BBC, Danevirke, Ontario, Chinach, Niemcy, Alpy, Andy, Brisbane</em>
+* `Fem` (340; 26% of non-empty `Gender`): <em>Brytanii, Clinton, Azji, Europy, Francji, Kesha, Rosji, Ziemi, Albanii, Ameryki</em>
+* `Masc` (760; 57% of non-empty `Gender`): <em>Trumpa, Hongkongu, Pekinu, Qing, American, Chińczyków, Disneya, Joseph, Mishima, Totmesa</em>
+* `Neut` (226; 17% of non-empty `Gender`): <em>USA, Chiny, BBC, Danevirke, Ontario, Chinach, Niemcy, Alpy, Andy, Brisbane</em>
 
 <table>
   <tr><th>Paradigm <i>Trump</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -105,7 +105,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>Trump</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (940) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (941) occur only with one value of `Gender`.
 
 ### `VERB`
 
@@ -118,7 +118,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (202; 26% of non-empty `Gender`): <em>miała, powiedziała, dotarła, mogła, stała, miały, ogłosiła, spowodowała, ujawniła, uznała</em>
 * `Masc` (441; 57% of non-empty `Gender`): <em>powiedział, miał, napisał, ogłosił, pracował, spotkał, miały, mógł, postanowił, uznał</em>
 * `Neut` (124; 16% of non-empty `Gender`): <em>było, udało, stało, dostało, mogło, odbyło, przyczyniło, rozpoczęło, skutkowało, spowodowało</em>
-* `EMPTY` (872): <em>może, ma, mogą, można, jest, mówi, być, należy, są, znajduje</em>
+* `EMPTY` (866): <em>może, ma, mogą, można, jest, mówi, być, należy, są, znajduje</em>
 
 <table>
   <tr><th>Paradigm <i>móc</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -164,7 +164,6 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>której</em></td><td><em>którego</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>których</em></td><td><em>których</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>którą</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td></td><td></td><td><em>którym</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>której</em></td><td><em>którym</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td></td><td><em>których</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>która</em></td><td><em>które</em></td></tr>
@@ -228,14 +227,14 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `NUM`
 
-183 <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Gender`.
+193 <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (180; 98%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (109; 60%), <tt><a href="pl_pud-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (93; 51%), <tt><a href="pl_pud-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (93; 51%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (189; 98%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (114; 59%), <tt><a href="pl_pud-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (100; 52%), <tt><a href="pl_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (100; 52%).
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (29; 16% of non-empty `Gender`): <em>dwie, obie, obu, czterech, dwiema, dwóch, sześć, trzy, 168000, 328</em>
-* `Masc` (141; 77% of non-empty `Gender`): <em>dwa, dwóch, 3, trzy, 5, 10, 100, 2, 20, dziesięć</em>
+* `Fem` (29; 15% of non-empty `Gender`): <em>dwie, obie, obu, czterech, dwiema, dwóch, sześć, trzy, 168000, 328</em>
+* `Masc` (151; 78% of non-empty `Gender`): <em>dwa, dwóch, 3, trzy, 5, 1,5, 10, 100, 2, 20</em>
 * `Neut` (13; 7% of non-empty `Gender`): <em>1.335, 1.365, 100, 34, 35000, 500, Trzy, cztery, dwa, dwóch</em>
 
 <table>
@@ -281,14 +280,14 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="pl_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1423; 100%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1333; 99%),
 <tt>VERB --[<tt><a href="pl_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (277; 54%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-det.html">det</a></tt>]--> DET</tt> (192; 99%),
-<tt>PROPN --[<tt><a href="pl_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (185; 94%),
-<tt>VERB --[<tt><a href="pl_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (165; 76%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-acl.html">acl</a></tt>]--> ADJ</tt> (126; 98%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-acl.html">acl</a></tt>]--> ADJ</tt> (226; 98%),
+<tt>PROPN --[<tt><a href="pl_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (192; 95%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-det.html">det</a></tt>]--> DET</tt> (188; 98%),
+<tt>VERB --[<tt><a href="pl_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (165; 75%),
 <tt>ADJ --[<tt><a href="pl_pud-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (91; 65%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-amod-flat.html">amod:flat</a></tt>]--> ADJ</tt> (83; 100%),
 <tt>NOUN --[<tt><a href="pl_pud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (82; 96%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (80; 100%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-appos.html">appos</a></tt>]--> PROPN</tt> (76; 84%).
+<tt>NOUN --[<tt><a href="pl_pud-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (80; 100%).
 

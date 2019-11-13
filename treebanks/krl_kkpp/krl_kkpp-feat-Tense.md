@@ -37,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-114 <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> tokens (84% of all `AUX` tokens) have a non-empty value of `Tense`.
+114 <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> tokens (85% of all `AUX` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="krl_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (113; 99%), <tt><a href="krl_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (113; 99%), <tt><a href="krl_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (113; 99%), <tt><a href="krl_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (100; 88%), <tt><a href="krl_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (93; 82%).
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 * `Past` (30; 26% of non-empty `Tense`): <em>oli, oltih, ollun</em>
 * `Pres` (84; 74% of non-empty `Tense`): <em>on, ei, voit, olet, ollah, pitäy, en, voijah, Oletko, emmä</em>
-* `EMPTY` (21): <em>ois, ole, voisin, Elä, olis, olla, vois, kennih, olisko, olleššah</em>
+* `EMPTY` (20): <em>ois, ole, voisin, Elä, olis, olla, vois, olisko, olleššah</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

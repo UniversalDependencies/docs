@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (17; 100% of non-empty `Foreign`): <em>Γαρμπή, ΖΒΖ, Καίτη, Φόρος, αφέλια, π, τ, τοῦ, φ, χ</em>
-* `EMPTY` (39479): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
+* `EMPTY` (39478): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (17) occur only with one value of `Foreign`.
 

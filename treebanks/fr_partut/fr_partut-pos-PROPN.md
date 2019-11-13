@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParTUT: POS Tags: `PROPN`
 
-There are 176 `PROPN` lemmas (5%), 176 `PROPN` types (4%) and 482 `PROPN` tokens (2%).
+There are 170 `PROPN` lemmas (5%), 170 `PROPN` types (4%) and 476 `PROPN` tokens (2%).
 Out of 17 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Facebook, Pericles, Europe, Européenne, Union, Commons, Creative, CE, CEE, Koch</em>
@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>CE</em> (<tt><a href="fr_partut-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.364538).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.366035).
 
 The 1st highest number of forms (2) was observed with the lemma “De”: <em>DE, De</em>.
 
@@ -59,21 +59,21 @@ The 3rd highest number of forms (1) was observed with the lemma “A5-0108”: <
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 14 different relations: <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (225; 47% instances), <tt><a href="fr_partut-dep-flat-name.html">flat:name</a></tt> (60; 12% instances), <tt><a href="fr_partut-dep-flat.html">flat</a></tt> (54; 11% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (39; 8% instances), <tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt> (34; 7% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (29; 6% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (12; 2% instances), <tt><a href="fr_partut-dep-appos.html">appos</a></tt> (10; 2% instances), <tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (5; 1% instances), <tt><a href="fr_partut-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="fr_partut-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-obl-agent.html">obl:agent</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 13 different relations: <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (224; 47% instances), <tt><a href="fr_partut-dep-flat-name.html">flat:name</a></tt> (60; 13% instances), <tt><a href="fr_partut-dep-flat.html">flat</a></tt> (54; 11% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (39; 8% instances), <tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt> (34; 7% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (29; 6% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (11; 2% instances), <tt><a href="fr_partut-dep-appos.html">appos</a></tt> (10; 2% instances), <tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (5; 1% instances), <tt><a href="fr_partut-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="fr_partut-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (278; 58% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (85; 18% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (82; 17% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (22; 5% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (3; 1% instances),  (3; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (278; 58% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (81; 17% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (80; 17% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (22; 5% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (3; 1% instances),  (3; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-212 (44%) `PROPN` nodes are leaves.
+208 (44%) `PROPN` nodes are leaves.
 
-98 (20%) `PROPN` nodes have one child.
+98 (21%) `PROPN` nodes have one child.
 
-84 (17%) `PROPN` nodes have two children.
+84 (18%) `PROPN` nodes have two children.
 
-88 (18%) `PROPN` nodes have three or more children.
+86 (18%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 12.
 
-Children of `PROPN` nodes are attached using 15 different relations: <tt><a href="fr_partut-dep-case.html">case</a></tt> (176; 31% instances), <tt><a href="fr_partut-dep-det.html">det</a></tt> (127; 22% instances), <tt><a href="fr_partut-dep-punct.html">punct</a></tt> (81; 14% instances), <tt><a href="fr_partut-dep-flat-name.html">flat:name</a></tt> (60; 10% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (35; 6% instances), <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (32; 6% instances), <tt><a href="fr_partut-dep-cc.html">cc</a></tt> (21; 4% instances), <tt><a href="fr_partut-dep-nummod.html">nummod</a></tt> (14; 2% instances), <tt><a href="fr_partut-dep-amod.html">amod</a></tt> (9; 2% instances), <tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt> (5; 1% instances), <tt><a href="fr_partut-dep-acl.html">acl</a></tt> (4; 1% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-appos.html">appos</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 14 different relations: <tt><a href="fr_partut-dep-case.html">case</a></tt> (175; 31% instances), <tt><a href="fr_partut-dep-det.html">det</a></tt> (125; 22% instances), <tt><a href="fr_partut-dep-punct.html">punct</a></tt> (81; 14% instances), <tt><a href="fr_partut-dep-flat-name.html">flat:name</a></tt> (61; 11% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (35; 6% instances), <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (31; 5% instances), <tt><a href="fr_partut-dep-cc.html">cc</a></tt> (21; 4% instances), <tt><a href="fr_partut-dep-nummod.html">nummod</a></tt> (14; 2% instances), <tt><a href="fr_partut-dep-amod.html">amod</a></tt> (6; 1% instances), <tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt> (5; 1% instances), <tt><a href="fr_partut-dep-acl.html">acl</a></tt> (4; 1% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-appos.html">appos</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-compound.html">compound</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (175; 31% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (127; 22% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (85; 15% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (81; 14% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (46; 8% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (21; 4% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (14; 2% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (3; 1% instances)
+Children of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (174; 31% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (125; 22% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (81; 14% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (81; 14% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (46; 8% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (21; 4% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (14; 2% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (3; 1% instances)
 

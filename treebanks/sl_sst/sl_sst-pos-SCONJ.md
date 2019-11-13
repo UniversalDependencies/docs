@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>da</em> (<tt><a href="sl_sst-pos-SCON
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.572106).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.570645).
 
 The 1st highest number of forms (1) was observed with the lemma “ako”: <em>ako</em>.
 
@@ -53,19 +53,19 @@ The 3rd highest number of forms (1) was observed with the lemma “dokler”: <e
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="sl_sst-dep-mark.html">mark</a></tt> (1040; 81% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (112; 9% instances), <tt><a href="sl_sst-dep-case.html">case</a></tt> (49; 4% instances), <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (39; 3% instances), <tt><a href="sl_sst-dep-orphan.html">orphan</a></tt> (21; 2% instances), <tt><a href="sl_sst-dep-advcl.html">advcl</a></tt> (7; 1% instances), <tt><a href="sl_sst-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="sl_sst-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (2; 0% instances)
+`SCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="sl_sst-dep-mark.html">mark</a></tt> (1041; 82% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (112; 9% instances), <tt><a href="sl_sst-dep-case.html">case</a></tt> (49; 4% instances), <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (39; 3% instances), <tt><a href="sl_sst-dep-orphan.html">orphan</a></tt> (20; 2% instances), <tt><a href="sl_sst-dep-advcl.html">advcl</a></tt> (7; 1% instances), <tt><a href="sl_sst-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="sl_sst-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (2; 0% instances)
 
-Parents of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (877; 69% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (94; 7% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (80; 6% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (49; 4% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (45; 4% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (38; 3% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (20; 2% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (19; 1% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (12; 1% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (3; 0% instances),  (3; 0% instances)
+Parents of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (879; 69% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (94; 7% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (80; 6% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (49; 4% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (45; 4% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (37; 3% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (20; 2% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (18; 1% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (12; 1% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (3; 0% instances),  (3; 0% instances)
 
-1226 (96%) `SCONJ` nodes are leaves.
+1227 (96%) `SCONJ` nodes are leaves.
 
-48 (4%) `SCONJ` nodes have one child.
+39 (3%) `SCONJ` nodes have one child.
 
-3 (0%) `SCONJ` nodes have two children.
+11 (1%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 5 different relations: <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (40; 74% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (9; 17% instances), <tt><a href="sl_sst-dep-discourse-filler.html">discourse:filler</a></tt> (2; 4% instances), <tt><a href="sl_sst-dep-punct.html">punct</a></tt> (2; 4% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
+Children of `SCONJ` nodes are attached using 5 different relations: <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (39; 64% instances), <tt><a href="sl_sst-dep-punct.html">punct</a></tt> (11; 18% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (9; 15% instances), <tt><a href="sl_sst-dep-discourse-filler.html">discourse:filler</a></tt> (1; 2% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
 
-Children of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (38; 70% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (11; 20% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> (1; 2% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (37; 61% instances), <tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> (11; 18% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (10; 16% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

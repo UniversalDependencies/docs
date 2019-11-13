@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Hum` are language-specific.
 It occurs with 3 different values: `Hum`, `Inan`, `Nhum`.
 
-83784 tokens (24%) have a non-empty value of `Animacy`.
-28666 types (48%) occur at least once with a non-empty value of `Animacy`.
-15087 lemmas (55%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (38959; 11% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (16251; 5% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (9224; 3% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (7297; 2% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (4861; 1% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (4639; 1% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (1934; 1% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (619; 0% instances).
+83511 tokens (24%) have a non-empty value of `Animacy`.
+28667 types (48%) occur at least once with a non-empty value of `Animacy`.
+15086 lemmas (54%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 8 part-of-speech tags: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (38829; 11% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (16199; 5% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (9197; 3% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (7287; 2% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (4841; 1% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (4619; 1% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (1922; 1% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (617; 0% instances).
 
 ### `NOUN`
 
-38959 <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> tokens (45% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+38829 <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> tokens (45% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (38959; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26952; 69%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (38829; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26861; 69%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Hum` (10129; 26% of non-empty `Animacy`): <em>mężczyzna, pan, człowiek, chłopiec, ludzi, ludzie, człowieka, pana, chłopak, mężczyzn</em>
-* `Inan` (27513; 71% of non-empty `Animacy`): <em>roku, lat, sposób, domu, dnia, raz, czas, czasu, stroju, czasie</em>
-* `Nhum` (1317; 3% of non-empty `Animacy`): <em>pies, złotych, ptak, psy, dolarów, psa, konia, kot, konie, koniu</em>
-* `EMPTY` (48528): <em>kobieta, pracy, osób, dzieci, dziewczynka, pani, osoby, sprawie, dziecko, życie</em>
+* `Hum` (10089; 26% of non-empty `Animacy`): <em>mężczyzna, pan, człowiek, chłopiec, ludzi, ludzie, człowieka, pana, chłopak, mężczyzn</em>
+* `Inan` (27422; 71% of non-empty `Animacy`): <em>roku, lat, sposób, domu, dnia, raz, czas, czasu, stroju, czasie</em>
+* `Nhum` (1318; 3% of non-empty `Animacy`): <em>pies, złotych, ptak, psy, dolarów, psa, konia, kot, konie, koniu</em>
+* `EMPTY` (48391): <em>kobieta, pracy, osób, dzieci, dziewczynka, pani, osoby, sprawie, dziecko, życie</em>
 
 <table>
   <tr><th>Paradigm <i>pilot</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
@@ -37,20 +37,20 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>piloci</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 98% lemmas (4541) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 98% lemmas (4542) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
-16251 <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> tokens (45% of all `ADJ` tokens) have a non-empty value of `Animacy`.
+16199 <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> tokens (45% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16251; 100%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13026; 80%), <tt><a href="pl_pdb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (13026; 80%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (13026; 80%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13026; 80%), <tt><a href="pl_pdb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12528; 77%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10910; 67%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16199; 100%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (12981; 80%), <tt><a href="pl_pdb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (12981; 80%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12981; 80%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (12981; 80%), <tt><a href="pl_pdb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12487; 77%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10871; 67%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
-* `Hum` (3964; 24% of non-empty `Animacy`): <em>jeden, sam, innych, młody, drugi, mały, młodych, ubrany, sami, inni</em>
-* `Inan` (11698; 72% of non-empty `Animacy`): <em>cały, pierwszy, 1, jeden, nowy, jednym, nowego, sportowym, inne, różnych</em>
-* `Nhum` (589; 4% of non-empty `Animacy`): <em>biały, duży, czarny, mały, szary, brązowy, czarnego, jeden, małego, drapieżny</em>
-* `EMPTY` (19785): <em>europejskiej, innych, prostu, inne, jednej, drugiej, jedna, polskiej, członkowskie, pierwszej</em>
+* `Hum` (3951; 24% of non-empty `Animacy`): <em>jeden, sam, innych, młody, drugi, mały, młodych, ubrany, sami, inni</em>
+* `Inan` (11660; 72% of non-empty `Animacy`): <em>cały, pierwszy, 1, jeden, nowy, jednym, nowego, sportowym, inne, różnych</em>
+* `Nhum` (588; 4% of non-empty `Animacy`): <em>biały, duży, czarny, mały, szary, brązowy, czarnego, jeden, małego, drapieżny</em>
+* `EMPTY` (19715): <em>europejskiej, innych, prostu, inne, jednej, drugiej, jedna, polskiej, członkowskie, pierwszej</em>
 
 <table>
   <tr><th>Paradigm <i>jeden</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
@@ -67,16 +67,16 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 ### `VERB`
 
-9224 <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `Animacy`.
+9197 <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9224; 100%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9224; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9224; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9224; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9224; 100%), <tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9039; 98%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6856; 74%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5294; 57%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9197; 100%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9197; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9197; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9197; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9197; 100%), <tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9014; 98%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6839; 74%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5281; 57%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
-* `Hum` (7757; 84% of non-empty `Animacy`): <em>powiedział, miał, chciał, mógł, mówił, mogli, mieli, powinien, powinni, był</em>
-* `Inan` (1305; 14% of non-empty `Animacy`): <em>miał, powinien, powinny, mógł, był, przyjął, stał, rozpoczął, zakończył, mogły</em>
+* `Hum` (7734; 84% of non-empty `Animacy`): <em>powiedział, miał, chciał, mógł, mówił, mieli, mogli, powinien, powinni, był</em>
+* `Inan` (1301; 14% of non-empty `Animacy`): <em>miał, powinien, powinny, mógł, był, przyjął, stał, rozpoczął, zakończył, mogły</em>
 * `Nhum` (162; 2% of non-empty `Animacy`): <em>mógł, usiadł, zamerdał, był, mogły, padł, powinien, urodziły, wpadł, zaczął</em>
-* `EMPTY` (30520): <em>ma, może, jest, stoi, można, mówi, siedzi, było, należy, mam</em>
+* `EMPTY` (30404): <em>ma, może, jest, stoi, można, mówi, siedzi, było, należy, mam</em>
 
 <table>
   <tr><th>Paradigm <i>mieć</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
@@ -86,16 +86,16 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 ### `PROPN`
 
-7297 <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> tokens (63% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+7287 <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> tokens (63% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7297; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6953; 95%), <tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3976; 54%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7287; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6942; 95%), <tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3967; 54%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Hum` (5450; 75% of non-empty `Animacy`): <em>Andrzej, Jerzy, Marek, Piotr, Jan, Polacy, Polaków, Krzysztof, Jacek, Janusz</em>
-* `Inan` (1709; 23% of non-empty `Animacy`): <em>SLD, Poznaniu, Krakowie, Izraela, Jorku, ZUS, VAT, Wrocławiu, Krakowa, Iraku</em>
-* `Nhum` (138; 2% of non-empty `Animacy`): <em>Ptak, Fiata, Dingiem, Humphrey, Instagramie, Mars, Odiego, Piast, Pożeracz, Presa</em>
-* `EMPTY` (4347): <em>Polsce, Polski, UE, Europy, Polska, Europie, Warszawie, Warszawy, USA, AWS</em>
+* `Hum` (5442; 75% of non-empty `Animacy`): <em>Andrzej, Jerzy, Marek, Piotr, Jan, Polacy, Polaków, Krzysztof, Jacek, Janusz</em>
+* `Inan` (1708; 23% of non-empty `Animacy`): <em>SLD, Poznaniu, Krakowie, Izraela, ZUS, Jorku, VAT, Wrocławiu, Krakowa, Iraku</em>
+* `Nhum` (137; 2% of non-empty `Animacy`): <em>Ptak, Fiata, Dingiem, Humphrey, Instagramie, Mars, Odiego, Piast, Pożeracz, Presa</em>
+* `EMPTY` (4340): <em>Polsce, Polski, UE, Europy, Polska, Europie, Warszawie, Warszawy, USA, AWS</em>
 
 <table>
   <tr><th>Paradigm <i>Piast</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
@@ -108,16 +108,16 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 ### `PRON`
 
-4861 <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> tokens (29% of all `PRON` tokens) have a non-empty value of `Animacy`.
+4841 <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> tokens (29% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4861; 100%), <tt><a href="pl_pdb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (4861; 100%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4174; 86%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3361; 69%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt> (2590; 53%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4841; 100%), <tt><a href="pl_pdb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (4841; 100%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4157; 86%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3350; 69%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt> (2580; 53%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `Hum` (4160; 86% of non-empty `Animacy`): <em>jego, mnie, mu, go, ich, mi, nas, ja, kto, on</em>
-* `Inan` (609; 13% of non-empty `Animacy`): <em>go, jego, ich, je, nim, on, nich, niego, one, mu</em>
+* `Hum` (4142; 86% of non-empty `Animacy`): <em>jego, mnie, mu, go, ich, mi, nas, kto, ja, on</em>
+* `Inan` (607; 13% of non-empty `Animacy`): <em>go, jego, ich, je, on, nim, nich, niego, one, mu</em>
 * `Nhum` (92; 2% of non-empty `Animacy`): <em>go, jego, ich, mu, nim, niego, nimi, im, nich, one</em>
-* `EMPTY` (11739): <em>się, to, co, jej, tym, sobie, tego, siebie, ją, coś</em>
+* `EMPTY` (11692): <em>się, to, co, jej, tym, sobie, siebie, tego, ją, coś</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
@@ -155,16 +155,16 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 ### `DET`
 
-4639 <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> tokens (50% of all `DET` tokens) have a non-empty value of `Animacy`.
+4619 <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> tokens (50% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4639; 100%), <tt><a href="pl_pdb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4221; 91%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4221; 91%), <tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (4070; 88%), <tt><a href="pl_pdb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3908; 84%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2606; 56%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4619; 100%), <tt><a href="pl_pdb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4203; 91%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4203; 91%), <tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (4056; 88%), <tt><a href="pl_pdb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3891; 84%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2600; 56%).
 
 `DET` tokens may have the following values of `Animacy`:
 
-* `Hum` (1411; 30% of non-empty `Animacy`): <em>którzy, który, ten, każdy, wielu, ci, swoich, których, tych, którego</em>
-* `Inan` (3119; 67% of non-empty `Animacy`): <em>ten, tym, tego, który, które, którym, te, kilka, tych, swój</em>
+* `Hum` (1404; 30% of non-empty `Animacy`): <em>którzy, który, ten, każdy, wielu, ci, swoich, tych, których, którego</em>
+* `Inan` (3106; 67% of non-empty `Animacy`): <em>ten, tym, tego, który, które, którym, te, kilka, tych, swój</em>
 * `Nhum` (109; 2% of non-empty `Animacy`): <em>które, ten, który, jakiś, którym, takiego, twój, kilkuset, którego, mniej</em>
-* `EMPTY` (4646): <em>tej, które, która, ta, te, to, tych, której, takie, swoje</em>
+* `EMPTY` (4634): <em>tej, które, która, ta, te, to, tych, której, takie, swoje</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
@@ -184,16 +184,16 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 ### `NUM`
 
-1934 <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> tokens (70% of all `NUM` tokens) have a non-empty value of `Animacy`.
+1922 <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> tokens (70% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1934; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1895; 98%), <tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1089; 56%), <tt><a href="pl_pdb-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (1088; 56%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1922; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1883; 98%), <tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1079; 56%), <tt><a href="pl_pdb-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (1078; 56%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
-* `Hum` (383; 20% of non-empty `Animacy`): <em>dwóch, dwaj, trzech, czterech, obaj, sześciu, pięciu, trzej, 10, dwoje</em>
-* `Inan` (1385; 72% of non-empty `Animacy`): <em>dwa, 10, trzy, 3, dwóch, 2, 30, 5, trzech, 15</em>
-* `Nhum` (166; 9% of non-empty `Animacy`): <em>dwa, trzy, 2, 100, 3, pięć, 1500, 20, 5, 500</em>
-* `EMPTY` (833): <em>dwie, trzy, cztery, dwóch, dwoje, pięć, 10, trzech, dwa, pół</em>
+* `Hum` (382; 20% of non-empty `Animacy`): <em>dwóch, dwaj, trzech, czterech, obaj, sześciu, pięciu, trzej, 10, dwoje</em>
+* `Inan` (1373; 71% of non-empty `Animacy`): <em>dwa, 10, trzy, 3, dwóch, 2, 30, 5, trzech, 15</em>
+* `Nhum` (167; 9% of non-empty `Animacy`): <em>dwa, trzy, 2, 100, 3, pięć, 1500, 20, 5, 500</em>
+* `EMPTY` (817): <em>dwie, trzy, cztery, dwóch, dwoje, pięć, trzech, 10, dwa, pół</em>
 
 <table>
   <tr><th>Paradigm <i>dwa</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
@@ -208,16 +208,16 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 ### `AUX`
 
-619 <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Animacy`.
+617 <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (619; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (619; 100%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (619; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (619; 100%), <tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (619; 100%), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (619; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (619; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (619; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (479; 77%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (470; 76%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="pl_pdb-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (617; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (617; 100%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (617; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (617; 100%), <tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (617; 100%), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (617; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (617; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (617; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (478; 77%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (469; 76%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
-* `Hum` (350; 57% of non-empty `Animacy`): <em>był, byli, został, zostali, byl, bywali</em>
-* `Inan` (259; 42% of non-empty `Animacy`): <em>był, został, były, zostały</em>
+* `Hum` (349; 57% of non-empty `Animacy`): <em>był, byli, został, zostali, byl, bywali</em>
+* `Inan` (258; 42% of non-empty `Animacy`): <em>był, został, były, zostały</em>
 * `Nhum` (10; 2% of non-empty `Animacy`): <em>był, został, Były, zostały</em>
-* `EMPTY` (8152): <em>jest, em, to, by, będzie, m, są, śmy, być, było</em>
+* `EMPTY` (8114): <em>jest, em, to, by, będzie, m, są, śmy, być, było</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
@@ -228,14 +228,14 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="pl_pdb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10366; 98%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-det.html">det</a></tt>]--> DET</tt> (1920; 97%),
-<tt>PROPN --[<tt><a href="pl_pdb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1328; 97%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1253; 99%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1221; 62%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9519; 99%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-acl.html">acl</a></tt>]--> ADJ</tt> (2067; 99%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-det.html">det</a></tt>]--> DET</tt> (1890; 97%),
+<tt>PROPN --[<tt><a href="pl_pdb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1327; 97%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1220; 63%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1079; 66%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-appos.html">appos</a></tt>]--> PROPN</tt> (741; 86%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (707; 100%),
-<tt>ADJ --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (661; 80%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (639; 92%).
+<tt>NOUN --[<tt><a href="pl_pdb-dep-appos.html">appos</a></tt>]--> PROPN</tt> (739; 86%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (703; 99%),
+<tt>ADJ --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (659; 80%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (626; 92%).
 

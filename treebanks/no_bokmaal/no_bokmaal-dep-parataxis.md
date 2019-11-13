@@ -29,10 +29,10 @@ The following 31 pairs of parts of speech are connected with `parataxis`: <tt><a
 5	livet	liv	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	3	nmod	_	_
 6	på	på	ADP	_	_	8	case	_	_
 7	en	en	DET	_	Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	pub	pub	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+8	pub	pub	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	_
 9	,	$,	PUNCT	_	_	10	punct	_	_
 10	sier	si	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
-11	han	han	PRON	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	SpaceAfter=No
+11	han	han	PRON	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 12	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -52,10 +52,10 @@ The following 31 pairs of parts of speech are connected with `parataxis`: <tt><a
 6	var	være	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	_
 7	han	han	PRON	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 8	mer	mye	ADJ	_	Degree=Cmp	9	advmod	_	_
-9	krevende	kreve	ADJ	_	VerbForm=Part	0	root	_	SpaceAfter=No
+9	krevende	kreve	ADJ	_	VerbForm=Part	0	root	_	_
 10	,	$,	PUNCT	_	_	11	punct	_	_
 11	sier	si	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	9	parataxis	_	_
-12	pappa	pappa	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	11	nsubj	_	SpaceAfter=No
+12	pappa	pappa	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	11	nsubj	_	_
 13	.	$.	PUNCT	_	_	9	punct	_	_
 
 ~~~
@@ -69,11 +69,11 @@ The following 31 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3 5 parataxis	color:blue
 1	Hver	hver	DET	_	Gender=Fem|Number=Sing|PronType=Tot	3	det	_	_
 2	eneste	eneste	NUM	_	Definite=Def|NumType=Card	3	nummod	_	_
-3	uke	uke	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	uke	uke	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 4	,	$,	PUNCT	_	_	5	punct	_	_
 5	sier	si	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 6	hun	hun	PRON	_	Animacy=Hum|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-7	lattermildt	lattermild	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	advmod	_	SpaceAfter=No
+7	lattermildt	lattermild	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	advmod	_	_
 8	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~

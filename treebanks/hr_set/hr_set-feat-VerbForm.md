@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-32486 tokens (16%) have a non-empty value of `VerbForm`.
+32481 tokens (16%) have a non-empty value of `VerbForm`.
 7350 types (21%) occur at least once with a non-empty value of `VerbForm`.
-2414 lemmas (13%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (17418; 9% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (12541; 6% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (2055; 1% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (472; 0% instances).
+2413 lemmas (13%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 5 part-of-speech tags: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (17415; 9% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (12538; 6% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (2054; 1% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (472; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-17418 <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+17415 <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11325; 65%), <tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11325; 65%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9477; 54%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9477; 54%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9271; 53%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11322; 65%), <tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11322; 65%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9477; 54%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9477; 54%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9268; 53%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (7941; 46% of non-empty `VerbForm`): <em>može, ima, kaže, treba, mogu, nema, mora, postoji, možete, imaju</em>
+* `Fin` (7938; 46% of non-empty `VerbForm`): <em>može, ima, kaže, treba, mogu, nema, mora, postoji, možete, imaju</em>
 * `Inf` (3384; 19% of non-empty `VerbForm`): <em>imati, pomoći, raditi, pronaći, vidjeti, reći, nastaviti, dobiti, doći, morati</em>
 * `Part` (6093; 35% of non-empty `VerbForm`): <em>izjavio, rekao, kazao, mogli, mogla, dodao, mogao, moglo, trebala, dobili</em>
 
@@ -48,15 +48,15 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-12541 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+12538 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10611; 85%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10609; 85%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (10597; 84%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8808; 70%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10609; 85%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10607; 85%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (10596; 85%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8805; 70%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (11386; 91% of non-empty `VerbForm`): <em>je, su, će, bi, nije, smo, sam, neće, nisu, ćete</em>
+* `Fin` (11384; 91% of non-empty `VerbForm`): <em>je, su, će, bi, nije, smo, sam, neće, nisu, ćete</em>
 * `Inf` (539; 4% of non-empty `VerbForm`): <em>biti, bit</em>
-* `Part` (616; 5% of non-empty `VerbForm`): <em>bio, bilo, bila, bili, bile</em>
+* `Part` (615; 5% of non-empty `VerbForm`): <em>bio, bilo, bila, bili, bile</em>
 
 <table>
   <tr><th>Paradigm <i>biti</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -91,16 +91,16 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-2055 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+2054 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2055; 100%), <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1656; 81%), <tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1541; 75%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1412; 69%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2054; 100%), <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1655; 81%), <tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1541; 75%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1411; 69%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (2055; 100% of non-empty `VerbForm`): <em>održana, otvorena, održan, povećana, objavljenom, održano, otvoren, rođen, postignut, usmjerene</em>
-* `EMPTY` (22236): <em>sve, novi, svi, prvi, drugi, svih, vanjskih, glavni, novih, nove</em>
+* `Part` (2054; 100% of non-empty `VerbForm`): <em>održana, otvorena, održan, povećana, objavljenom, održano, otvoren, rođen, postignut, usmjerene</em>
+* `EMPTY` (21831): <em>novi, sve, svi, drugi, vanjskih, prvi, glavni, novih, nove, prošle</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (637) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (636) occur only with one value of `VerbForm`.
 
 ### `ADV`
 
@@ -111,14 +111,32 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Conv` (472; 100% of non-empty `VerbForm`): <em>uključujući, zahvaljujući, govoreći, ističući, dodajući, ukazujući, tražeći, opisujući, pozivajući, sudeći</em>
-* `EMPTY` (8280): <em>više, samo, još, također, posto, već, kada, sada, nekoliko, međutim</em>
+* `EMPTY` (8392): <em>više, samo, još, također, posto, već, kada, sada, nekoliko, međutim</em>
 
 `VerbForm` seems to be **lexical feature** of `ADV`. 100% lemmas (222) occur only with one value of `VerbForm`.
+
+### `DET`
+
+2 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `VerbForm`.
+
+The most frequent other feature values with which `DET` and `VerbForm` co-occurred: <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`DET` tokens may have the following values of `VerbForm`:
+
+* `Fin` (1; 50% of non-empty `VerbForm`): <em>sam</em>
+* `Part` (1; 50% of non-empty `VerbForm`): <em>bilo</em>
+* `EMPTY` (7395): <em>koji, to, koje, koja, svoje, ove, toga, sve, kojima, koju</em>
+
+<table>
+  <tr><th>Paradigm <i>biti</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>bilo</em></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sam</em></td><td></td></tr>
+</table>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (1616; 83%),
+<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (1614; 83%),
 <tt>VERB --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (591; 60%),
 <tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (87; 65%),
 <tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (34; 68%),

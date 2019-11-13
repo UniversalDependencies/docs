@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>х҃</em> (<tt><a href="orv_torot-pos
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 4.777778 (the average of all parts of speech is 3.570811).
+The form / lemma ratio of `NUM` is 4.777778 (the average of all parts of speech is 3.571089).
 
 The 1st highest number of forms (47) was observed with the lemma “единъ”: <em>а, а҃, еди, един, едина, единаго, едино, единого, единои, едином, единому, единомъ, единомь, единомꙋ, единою, едину, единъ, единым, единымъ, единыхъ, единѣмъ, единѣхъ, единѹ, едінъ, єдино, єдинъ, ѥдин, ѥдина, ѥдини, ѥдино, ѥдиного, ѥдинои, ѥдином, ѥдиномȣ, ѥдиному, ѥдиномь, ѥдиномѹ, ѥдиноꙗ, ѥдину, ѥдинъ, ѥдины, ѥдиныи, ѥдинѣмъ, ѥдинѣмь, ѥдинѣхъ, ѥдинѹ, ѥдін</em>.
 

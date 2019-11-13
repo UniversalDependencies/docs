@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Ord`, `Range`.
 
-7004 tokens (3%) have a non-empty value of `NumType`.
-1505 types (6%) occur at least once with a non-empty value of `NumType`.
-1453 lemmas (9%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (6441; 2% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (559; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+7002 tokens (3%) have a non-empty value of `NumType`.
+1504 types (6%) occur at least once with a non-empty value of `NumType`.
+1452 lemmas (9%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (6440; 2% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (559; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-6441 <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+6440 <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (5483; 85% of non-empty `NumType`): <em>due, tre, cento, 15, 1, 1973, 2, quattro, 30, 6</em>
+* `Card` (5482; 85% of non-empty `NumType`): <em>due, tre, cento, 15, 1, 1973, 2, quattro, 30, 6</em>
 * `Range` (958; 15% of non-empty `NumType`): <em>268/73, 29/09/73, 21:30, 1,5, 127/91, 1975/1983, 270/1982, 31/10/75, 820/71, 1.300</em>
 * `EMPTY` (11): <em>i, uno, 8, mille</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1427) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1426) occur only with one value of `NumType`.
 
 ### `ADJ`
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>un', una</em>
-* `EMPTY` (43975): <em>il, la, l', i, le, un, una, gli, lo, questo</em>
+* `EMPTY` (43976): <em>il, la, l', i, le, un, una, gli, lo, questo</em>
 
 ### `NOUN`
 
@@ -59,16 +59,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>6</em>
-* `EMPTY` (57987): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
-
-### `PUNCT`
-
-1 <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `NumType`.
-
-`PUNCT` tokens may have the following values of `NumType`:
-
-* `Card` (1; 100% of non-empty `NumType`): <em>...</em>
-* `EMPTY` (31575): <em>,, ., ", ), -, (, :, ?, ;, <</em>
+* `EMPTY` (57990): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
 
 ## Relations with Agreement in `NumType`
 

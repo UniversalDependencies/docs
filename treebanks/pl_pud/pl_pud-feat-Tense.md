@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-1792 tokens (10%) have a non-empty value of `Tense`.
+1786 tokens (10%) have a non-empty value of `Tense`.
 1038 types (14%) occur at least once with a non-empty value of `Tense`.
 623 lemmas (12%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1403; 8% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (389; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1397; 8% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (389; 2% instances).
 
 ### `VERB`
 
-1403 <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Tense`.
+1397 <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1374; 98%), <tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1334; 95%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1334; 95%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (962; 69%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (943; 67%), <tt><a href="pl_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (860; 61%), <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (803; 57%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1368; 98%), <tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1328; 95%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1328; 95%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (956; 68%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (937; 67%), <tt><a href="pl_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (860; 62%), <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (797; 57%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (46; 3% of non-empty `Tense`): <em>będzie, otrzyma, pomoże, Będą, Ocenimy, Pozwoli, Zagrają, da, dopuści, dołączy</em>
 * `Past` (821; 59% of non-empty `Tense`): <em>powiedział, było, miał, miała, powiedziała, miały, udało, napisał, ogłosił, pracował</em>
-* `Pres` (536; 38% of non-empty `Tense`): <em>może, ma, mogą, można, jest, mówi, należy, są, znajduje, chce</em>
+* `Pres` (530; 38% of non-empty `Tense`): <em>może, ma, mogą, można, jest, mówi, należy, są, znajduje, chce</em>
 * `EMPTY` (236): <em>być, zrobić, doprowadzić, mieć, utrzymać, poradzić, tworzyć, zobaczyć, dać, dotrzeć</em>
 
 <table>
@@ -77,6 +77,5 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (129; 87%),
-<tt>VERB --[<tt><a href="pl_pud-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (15; 52%),
 <tt>AUX --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

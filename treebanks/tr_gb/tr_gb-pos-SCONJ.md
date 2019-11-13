@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="tr_gb-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.314222).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.302829).
 
 The 1st highest number of forms (1) was observed with the lemma “de”: <em>de</em>.
 
@@ -65,7 +65,7 @@ The 3rd highest number of forms (1) was observed with the lemma “eğer”: <em
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="tr_gb-dep-mark.html">mark</a></tt> (88; 97% instances), <tt><a href="tr_gb-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="tr_gb-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="tr_gb-dep-fixed.html">fixed</a></tt> (1; 1% instances)
+`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="tr_gb-dep-mark.html">mark</a></tt> (89; 98% instances), <tt><a href="tr_gb-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="tr_gb-dep-fixed.html">fixed</a></tt> (1; 1% instances)
 
 Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (76; 84% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (9; 10% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

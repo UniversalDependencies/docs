@@ -70,7 +70,7 @@ The 10 most frequent ambiguous types:  <em>же</em> (<tt><a href="orv_torot-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.756522 (the average of all parts of speech is 3.570811).
+The form / lemma ratio of `ADV` is 1.756522 (the average of all parts of speech is 3.571089).
 
 The 1st highest number of forms (11) was observed with the lemma “же”: <em>ж, жа, же, жи, жо, жъ, жь, ж҃, иже, ше, єже</em>.
 

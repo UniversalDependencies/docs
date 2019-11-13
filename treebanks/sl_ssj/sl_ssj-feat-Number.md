@@ -274,10 +274,10 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="sl_ssj-dep-aux.html">aux</a></tt>]--> AUX</tt> (5664; 88%),
 <tt>NOUN --[<tt><a href="sl_ssj-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5012; 65%),
 <tt>VERB --[<tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3661; 92%),
-<tt>VERB --[<tt><a href="sl_ssj-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3533; 51%),
+<tt>VERB --[<tt><a href="sl_ssj-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3534; 51%),
 <tt>NOUN --[<tt><a href="sl_ssj-dep-det.html">det</a></tt>]--> DET</tt> (2873; 87%),
-<tt>ADJ --[<tt><a href="sl_ssj-dep-cop.html">cop</a></tt>]--> AUX</tt> (1850; 97%),
-<tt>NOUN --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1670; 78%),
+<tt>ADJ --[<tt><a href="sl_ssj-dep-cop.html">cop</a></tt>]--> AUX</tt> (1851; 97%),
+<tt>NOUN --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1669; 78%),
 <tt>NOUN --[<tt><a href="sl_ssj-dep-acl.html">acl</a></tt>]--> VERB</tt> (1225; 72%),
 <tt>NOUN --[<tt><a href="sl_ssj-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1217; 81%).
 

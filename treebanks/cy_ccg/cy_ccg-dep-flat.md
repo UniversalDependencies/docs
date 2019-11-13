@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `flat`: <tt><a href="cy_ccg-dep-flat-name.html">flat:name</a></tt>.
 
-66 nodes (1%) are attached to their parents as `flat`.
+94 nodes (1%) are attached to their parents as `flat`.
 
-66 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07575757575758.
+94 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.0531914893617.
 
-The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (59; 89% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 8% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (83; 88% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 7 8 flat	color:blue
 1	Fe	fe	PART	aff	_	3	advmod	_	SpaceAfter=No
 2	'i	ei	PRON	dep	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-3	sefydlwyd	sefydlu	VERB	verb	Person=Impers|Tense=Past	0	root	_	_
+3	sefydlwyd	sefydlu	VERB	verb	Mood=Ind|Person=0|Tense=Past	0	root	_	_
 4	yn	yn	ADP	prep	_	5	case	_	_
 5	1922	1922	NUM	num	_	3	obl	_	_
 6	gan	gan	ADP	prep	_	7	case	_	_
@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 flat	color:blue
-1	Rhyddhawyd	rhyddhau	VERB	verb	Person=Impers|Tense=Past	0	root	_	_
+1	Rhyddhawyd	rhyddhau	VERB	verb	Mood=Ind|Person=0|Tense=Past	0	root	_	_
 2	un	un	NUM	num	_	3	nummod	_	_
 3	albwm	albwm	NOUN	noun	Gender=Masc|Number=Sing	1	obj	_	_
 4	o	o	ADP	prep	_	6	case	_	SpaceAfter=No
@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 22 flat	color:blue
-1	Mae	bod	AUX	aux	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+1	Mae	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 2	'n	yn	AUX	impf	_	3	aux	_	_
 3	gwahanu	gwahanu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
 4	yr	y	DET	art	_	5	det	_	_
@@ -78,7 +78,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 7	wrth	wrth	ADP	prep	_	6	fixed	_	_
 8	y	y	DET	art	_	9	det	_	_
 9	Waddenzee	Waddenzee	PROPN	place	Gender=Masc|Number=Sing	3	obj	_	_
-10	ac	ac	CCONJ	cconj	_	12	cc	_	_
+10	ac	a	CCONJ	cconj	_	12	cc	_	_
 11	yn	yn	AUX	impf	_	12	aux	_	_
 12	cysylltu	cysylltu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	3	conj	_	_
 13	taleithiau	talaith	NOUN	noun	Gender=Masc|Number=Plur	12	obj	_	_

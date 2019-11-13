@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_French-ParTUT](https://github.com/UniversalDependencies/UD_French-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -94,7 +94,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 
 
 <ul>
-<li>This corpus contains 1020 sentences, 27658 tokens and 28594 syntactic words.</li>
+<li>This corpus contains 1020 sentences, 27658 tokens and 28595 syntactic words.</li>
 </ul>
 
 <ul>
@@ -110,7 +110,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 </ul>
 
 <ul>
-<li>This corpus contains 936 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 937 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 4 types of multi-word tokens. Examples: des, du, au, aux.</li>
 </ul>
 
@@ -131,7 +131,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 </ul>
 
 <ul>
-<li>This corpus contains 29 lemmas tagged as determiners (DET): aucun, autre, ce, certain, ces, cet, cette, chaque, de, des, la, le, leur, maint, mon, nombreux, nos, notre, plusieurs, quel, quelconque, quelque, son, tel, tout, un, uno, vos, votre</li>
+<li>This corpus contains 28 lemmas tagged as determiners (DET): aucun, autre, ce, certain, ces, cet, cette, chaque, de, la, le, leur, maint, mon, nombreux, nos, notre, plusieurs, quel, quelconque, quelque, son, tel, tout, un, uno, vos, votre</li>
 </ul>
 
 <ul>
@@ -395,7 +395,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Art
     <ul>
-      <li>DET: le, les, la, l', une, un, des, d', de</li>
+      <li>DET: le, les, la, l', une, un, des, d', de, du</li>
     </ul>
   </li>
 </ul>
@@ -404,7 +404,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
   <li>Dem
     <ul>
       <li>ADJ: tel</li>
-      <li>DET: des, ce, cette, ces, cet, de, d', telles, du</li>
+      <li>DET: ce, cette, ces, cet, de, d', Des, telles</li>
       <li>PRON: c', ce, cela, ceux, ça, ceci, celui, -ce, celle, celui-ci</li>
     </ul>
   </li>
@@ -596,7 +596,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN (340)</li>
       <li>VERB-Inf--PRON (65)</li>
       <li>VERB-Inf--PRON-ADP(de) (1)</li>
-      <li>VERB-Part--NOUN (132)</li>
+      <li>VERB-Part--NOUN (131)</li>
       <li>VERB-Part--PRON (41)</li>
     </ul>
   </li>

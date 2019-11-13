@@ -47,7 +47,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 8186 sentences and 184118 tokens.</li>
+      <li>This corpus contains 8186 sentences and 184072 tokens.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -74,7 +74,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 183469 tokens (100%) that are not followed by a space.</li>
+      <li>This corpus contains 183425 tokens (100%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -1014,7 +1014,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus uses 116 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, いる, れる, だ, ます, ない, ようだ, られる, なる, おる, せる, う, 来る, できる, たい, しまう, くれる, いく, そうだ, たら, ける, もらう, みる, える, べし, なら, やすい, くださる, 続ける, いただく, らしい, める, でした, 始める, 行く, かもしれる, みたいだ, 出す, 出来る, 合う, すぎる, 頂く, ある, ちゃう, 込む, おく, なければ, もらえる, させる.</li>
+      <li>This corpus uses 116 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, いる, れる, だ, ます, ない, ようだ, られる, なる, おる, せる, う, 来る, できる, たい, しまう, くれる, いく, そうだ, たら, もらう, みる, える, べし, なら, やすい, ける, くださる, 続ける, いただく, らしい, める, でした, 始める, 行く, かもしれる, みたいだ, 出す, 出来る, 合う, すぎる, 頂く, ある, ちゃう, おく, なければ, 込む, もらえる, させる.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -1066,18 +1066,18 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB--NOUN-ADP(から)-ADP(が) (3)</li>
-            <li>VERB--NOUN-ADP(が) (2519)</li>
+            <li>VERB--NOUN-ADP(が) (2516)</li>
             <li>VERB--NOUN-ADP(が)-ADP(に) (1)</li>
             <li>VERB--NOUN-ADP(だけ)-ADP(が) (4)</li>
             <li>VERB--NOUN-ADP(だけ)-ADP(は) (3)</li>
             <li>VERB--NOUN-ADP(など)-ADP(が) (35)</li>
             <li>VERB--NOUN-ADP(など)-ADP(は) (7)</li>
             <li>VERB--NOUN-ADP(のみ)-ADP(が) (1)</li>
-            <li>VERB--NOUN-ADP(は) (1756)</li>
+            <li>VERB--NOUN-ADP(は) (1751)</li>
             <li>VERB--NOUN-ADP(まで)-ADP(が) (2)</li>
             <li>VERB--NOUN-ADP(まで)-ADP(も)-ADP(が) (1)</li>
             <li>VERB--PRON-ADP(が) (50)</li>
-            <li>VERB--PRON-ADP(は) (110)</li>
+            <li>VERB--PRON-ADP(は) (109)</li>
           </ul>
         </li>
       </ul>
@@ -1252,7 +1252,7 @@ udver: '2'
             <li>VERB--NOUN-ADP(など)-ADP(に)-ADP(は) (1)</li>
             <li>VERB--NOUN-ADP(など)-ADP(に)-ADP(も) (3)</li>
             <li>VERB--NOUN-ADP(なり)-ADP(に) (1)</li>
-            <li>VERB--NOUN-ADP(に) (3525)</li>
+            <li>VERB--NOUN-ADP(に) (3527)</li>
             <li>VERB--NOUN-ADP(に)-ADP(しか) (2)</li>
             <li>VERB--NOUN-ADP(に)-ADP(だけ)-ADP(で)-ADP(も) (1)</li>
             <li>VERB--NOUN-ADP(に)-ADP(だけ)-ADP(は) (2)</li>
@@ -1260,7 +1260,7 @@ udver: '2'
             <li>VERB--NOUN-ADP(に)-ADP(は) (394)</li>
             <li>VERB--NOUN-ADP(に)-ADP(は)-ADP(と) (1)</li>
             <li>VERB--NOUN-ADP(に)-ADP(まで) (10)</li>
-            <li>VERB--NOUN-ADP(に)-ADP(も) (108)</li>
+            <li>VERB--NOUN-ADP(に)-ADP(も) (107)</li>
             <li>VERB--NOUN-ADP(のみ)-ADP(に) (1)</li>
             <li>VERB--NOUN-ADP(は)-ADP(に) (1)</li>
             <li>VERB--NOUN-ADP(ほど)-ADP(に) (1)</li>

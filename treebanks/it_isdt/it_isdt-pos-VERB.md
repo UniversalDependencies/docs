@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>ha</em> (<tt><a href="it_isdt-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 3.644424 (the average of all parts of speech is 1.480817).
+The form / lemma ratio of `VERB` is 3.644424 (the average of all parts of speech is 1.480768).
 
 The 1st highest number of forms (31) was observed with the lemma “avere”: <em>Avremo, abbia, abbiamo, abbiano, avendo, avente, aventi, aver, avere, avesse, avete, aveva, avevamo, avevano, avevo, avranno, avrebbe, avrebbero, avrei, avreste, avrete, avrà, avrò, avuta, avuto, ebbe, ebbero, ha, hai, hanno, ho</em>.
 

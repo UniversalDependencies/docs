@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (254; 100% of non-empty `Poss`): <em>hans, sin, sina, dess, deras, hennes, sitt, min, vars, vår</em>
-* `EMPTY` (1061): <em>som, det, han, de, sig, jag, hon, den, vi, detta</em>
+* `EMPTY` (1064): <em>som, det, han, de, sig, jag, hon, den, vi, detta</em>
 
 `Poss` seems to be **lexical feature** of `PRON`. 100% lemmas (14) occur only with one value of `Poss`.
 

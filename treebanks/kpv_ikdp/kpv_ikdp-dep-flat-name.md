@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a 
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	но	но	PART	Pcle	_	8	advmod	_	Lang=Mixed|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	6	punct	_	_
-8	стадыс	стадыс	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	nsubj	_	Lang=Mixed
+8	стадыс	стад	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	nsubj	_	Lang=Mixed
 9	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	CLB	_	11	punct	_	_
 11	колхоз	колхоз	NOUN	N	Case=Nom|Number=Sing	8	conj	_	Lang=Mixed

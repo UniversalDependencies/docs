@@ -11,19 +11,19 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="hr_set-feat-Number.html">Number</a></tt>, <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt>.
 
-119720 tokens (60%) have a non-empty value of `Number`.
-34636 types (97%) occur at least once with a non-empty value of `Number`.
+119699 tokens (60%) have a non-empty value of `Number`.
+34635 types (97%) occur at least once with a non-empty value of `Number`.
 16336 lemmas (88%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48398; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (23080; 12% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (14034; 7% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12823; 6% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (12002; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7199; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1590; 1% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (594; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48386; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22714; 11% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (14031; 7% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12826; 6% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (11999; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7367; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1590; 1% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (786; 0% instances).
 
 ### `NOUN`
 
-48398 <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+48386 <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (13860; 29% of non-empty `Number`): <em>godina, milijuna, eura, ljudi, kuna, zemalja, poslova, dana, zemlje, prava</em>
-* `Sing` (34538; 71% of non-empty `Number`): <em>godine, predsjednik, vrijeme, način, ministar, dio, ponedjeljak, tjedna, premijer, broj</em>
+* `Plur` (13858; 29% of non-empty `Number`): <em>godina, milijuna, eura, ljudi, kuna, zemalja, poslova, dana, zemlje, prava</em>
+* `Sing` (34528; 71% of non-empty `Number`): <em>godine, predsjednik, vrijeme, način, ministar, dio, ponedjeljak, tjedna, premijer, broj</em>
 * `EMPTY` (191): <em>dr., kg, GB, prof., m, km, g., kn, cm, mil.</em>
 
 <table>
@@ -37,15 +37,15 @@ The feature is used with 8 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.htm
 
 ### `ADJ`
 
-23080 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Number`.
+22714 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21969; 95%), <tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (20821; 90%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21604; 95%), <tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (20652; 91%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (7951; 34% of non-empty `Number`): <em>sve, svi, svih, vanjskih, novih, svim, drugih, unutarnjih, mnogi, nove</em>
-* `Sing` (15129; 66% of non-empty `Number`): <em>prvi, novi, glavni, prošle, drugi, novog, bivši, prošlog, potrebno, najveći</em>
-* `EMPTY` (1211): <em>1., 2004., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
+* `Plur` (7764; 34% of non-empty `Number`): <em>svi, sve, vanjskih, novih, svih, unutarnjih, drugih, nove, drugi, svim</em>
+* `Sing` (14950; 66% of non-empty `Number`): <em>novi, prvi, glavni, prošle, novog, drugi, bivši, prošlog, potrebno, najveći</em>
+* `EMPTY` (1171): <em>2004., 1., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
 
 <table>
   <tr><th>Paradigm <i>velik</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -105,14 +105,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-14034 <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> tokens (81% of all `VERB` tokens) have a non-empty value of `Number`.
+14031 <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> tokens (81% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7941; 57%), <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7941; 57%), <tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7941; 57%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7722; 55%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7715; 55%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7938; 57%), <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7938; 57%), <tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7938; 57%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7719; 55%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7712; 55%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (4763; 34% of non-empty `Number`): <em>mogu, možete, imaju, moraju, mogli, postoje, kažu, žele, dobili, možemo</em>
-* `Sing` (9271; 66% of non-empty `Number`): <em>može, izjavio, ima, rekao, kaže, kazao, treba, nema, mora, postoji</em>
+* `Sing` (9268; 66% of non-empty `Number`): <em>može, izjavio, ima, rekao, kaže, kazao, treba, nema, mora, postoji</em>
 * `EMPTY` (3384): <em>imati, pomoći, raditi, pronaći, vidjeti, reći, nastaviti, dobiti, doći, morati</em>
 
 <table>
@@ -130,14 +130,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PROPN`
 
-12823 <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+12826 <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8339; 65%), <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6512; 51%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8340; 65%), <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6512; 51%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (314; 2% of non-empty `Number`): <em>Srbi, Srba, Albanaca, Albanci, Grka, Turaka, Grci, Hrvata, Hrvati, Crnogorci</em>
-* `Sing` (12509; 98% of non-empty `Number`): <em>EU, BiH, Kosova, Hrvatskoj, Srbije, SETimes, Hrvatska, Kosovo, Srbija, UN-a</em>
+* `Sing` (12512; 98% of non-empty `Number`): <em>EU, BiH, Kosova, Hrvatskoj, Srbije, SETimes, Hrvatska, Kosovo, Srbija, UN-a</em>
 * `EMPTY` (23): <em>R., AMG, B, R, B.o.B., BamS, DI, EBEL, EL, G.</em>
 
 <table>
@@ -150,18 +150,18 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>EU</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (4298) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (4299) occur only with one value of `Number`.
 
 ### `AUX`
 
-12002 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
+11999 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11386; 95%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10611; 88%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10609; 88%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (10597; 88%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11384; 95%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10609; 88%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10607; 88%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (10596; 88%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (3194; 27% of non-empty `Number`): <em>su, smo, će, bi, nisu, bili, ćete, ćemo, ste, bile</em>
-* `Sing` (8808; 73% of non-empty `Number`): <em>je, će, bi, nije, bio, bilo, sam, bila, neće, bude</em>
+* `Sing` (8805; 73% of non-empty `Number`): <em>je, će, bi, nije, bio, bilo, sam, bila, neće, bude</em>
 * `EMPTY` (539): <em>biti, bit</em>
 
 <table>
@@ -184,14 +184,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `DET`
 
-7199 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+7367 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6370; 88%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6370; 88%), <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5617; 78%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6538; 89%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6537; 89%), <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5785; 79%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (2113; 29% of non-empty `Number`): <em>koji, koje, kojima, svoje, neki, koja, tih, svojim, oni, svojih</em>
-* `Sing` (5086; 71% of non-empty `Number`): <em>to, koji, koja, toga, ove, koje, koju, svoj, tome, sve</em>
+* `Plur` (2253; 31% of non-empty `Number`): <em>koji, koje, kojima, svoje, neki, koja, tih, svojim, oni, svojih</em>
+* `Sing` (5114; 69% of non-empty `Number`): <em>to, koji, koja, toga, ove, koje, koju, svoj, tome, sve</em>
+* `EMPTY` (30): <em>bilo, sve, te, više, ni, niti, Die, The, barem, baš</em>
 
 <table>
   <tr><th>Paradigm <i>koji</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -227,21 +228,21 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (776; 49% of non-empty `Number`): <em>ih, im, njih, mi, nam, vam, nas, oni, njima, vas</em>
 * `Sing` (814; 51% of non-empty `Number`): <em>ga, mu, on, ona, mi, joj, ono, ja, je, njega</em>
-* `EMPTY` (3753): <em>se, što, ništa, tko, nešto, nitko, čime, čega, sebe, sebi</em>
+* `EMPTY` (3752): <em>se, što, ništa, tko, nešto, nitko, čime, čega, sebe, sebi</em>
 
 `Number` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Number`.
 
 ### `NUM`
 
-594 <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> tokens (19% of all `NUM` tokens) have a non-empty value of `Number`.
+786 <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> tokens (23% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="hr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (594; 100%), <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (309; 52%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="hr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (591; 75%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (161; 27% of non-empty `Number`): <em>dvije, dviju, triju, jedni, dvaju, četiriju, dva, dvama, trima, četirima</em>
-* `Sing` (433; 73% of non-empty `Number`): <em>jedan, jedna, jednom, jednog, jednu, jedno, jedne, jednoj, jednim, jednoga</em>
-* `EMPTY` (2554): <em>tri, dva, pet, četiri, 20, 10, šest, deset, 15, 100</em>
+* `Plur` (206; 26% of non-empty `Number`): <em>dvije, dviju, prvih, triju, jedni, drugih, drugim, dvaju, druge, prve</em>
+* `Sing` (580; 74% of non-empty `Number`): <em>jedan, jedna, jednom, jednog, jednu, prvi, jedno, jedne, jednoj, prva</em>
+* `EMPTY` (2594): <em>tri, dva, pet, četiri, 20, 10, šest, deset, 15, 100</em>
 
 <table>
   <tr><th>Paradigm <i>jedan</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -266,14 +267,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16388; 95%),
-<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9182; 62%),
+<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16402; 95%),
+<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9181; 62%),
 <tt>VERB --[<tt><a href="hr_set-dep-aux.html">aux</a></tt>]--> AUX</tt> (5279; 82%),
 <tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4684; 85%),
 <tt>VERB --[<tt><a href="hr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3814; 51%),
-<tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3072; 98%),
+<tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3220; 98%),
 <tt>NOUN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2847; 78%),
-<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2141; 99%),
-<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2041; 74%),
+<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2146; 99%),
+<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2042; 74%),
 <tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1766; 89%).
 

@@ -35,7 +35,7 @@ The following 35 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 11	på	på	ADP	_	_	14	case	_	_
 12	ny	ny	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	14	amod	_	_
 13	rødgrønn	rødgrønn	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	14	amod	_	_
-14	valgseier	valgseier	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+14	valgseier	valgseier	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	_
 15	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 35 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	Det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	blir	bli	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	mer	mye	ADJ	_	Degree=Cmp	4	advmod	_	_
-4	forsettlig	forsettlig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	xcomp	_	SpaceAfter=No
+4	forsettlig	forsettlig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	xcomp	_	_
 5	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -65,7 +65,7 @@ The following 35 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	Det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	ble	bli	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	rene	ren	ADJ	_	Degree=Pos|Number=Plur	4	amod	_	_
-4	ord	ord	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	xcomp	_	SpaceAfter=No
+4	ord	ord	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	xcomp	_	_
 5	:	$:	PUNCT	_	_	2	punct	_	_
 
 ~~~

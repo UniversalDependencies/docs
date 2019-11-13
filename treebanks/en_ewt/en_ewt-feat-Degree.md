@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-16701 tokens (7%) have a non-empty value of `Degree`.
+16698 tokens (7%) have a non-empty value of `Degree`.
 2905 types (15%) occur at least once with a non-empty value of `Degree`.
 2407 lemmas (15%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 5 part-of-speech tags: <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (15952; 6% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (744; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (15949; 6% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (744; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-15952 <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
+15949 <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (596; 4% of non-empty `Degree`): <em>more, better, less, larger, bigger, earlier, older, smaller, higher, worse</em>
-* `Pos` (14807; 93% of non-empty `Degree`): <em>good, great, other, new, many, last, same, few, sure, little</em>
+* `Pos` (14804; 93% of non-empty `Degree`): <em>good, great, other, new, many, last, same, few, sure, little</em>
 * `Sup` (549; 3% of non-empty `Degree`): <em>best, most, worst, cheapest, largest, latest, easiest, highest, oldest, biggest</em>
 * `EMPTY` (12): <em>fake, such, Every, Global, Pakistani, criminal, enough, female, middle, real</em>
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (156; 21% of non-empty `Degree`): <em>later, better, longer, less, earlier, sooner, further, closer, higher, faster</em>
 * `Pos` (490; 66% of non-empty `Degree`): <em>well, far, soon, long, hard, early, late, close, little, high</em>
 * `Sup` (98; 13% of non-empty `Degree`): <em>least, best, worst, highest, longest</em>
-* `EMPTY` (12300): <em>so, just, when, very, also, how, now, even, there, then</em>
+* `EMPTY` (12306): <em>so, just, when, very, also, how, now, even, there, then</em>
 
 `Degree` seems to be **lexical feature** of `ADV`. 100% lemmas (37) occur only with one value of `Degree`.
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 `PROPN` tokens may have the following values of `Degree`:
 
 * `Pos` (3; 100% of non-empty `Degree`): <em>Central, Modern, english</em>
-* `EMPTY` (16896): <em>bush, US, al, Iraq, enron, united, Iran, New, China, states</em>
+* `EMPTY` (16895): <em>bush, US, al, Iraq, enron, united, Iran, New, China, states</em>
 
 ### `INTJ`
 
@@ -76,12 +76,12 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>equivalant</em>
-* `EMPTY` (43101): <em>time, people, service, place, thanks, food, way, year, day, number</em>
+* `EMPTY` (43058): <em>time, people, service, place, thanks, food, way, year, day, number</em>
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (619; 97%),
+<tt>ADJ --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (620; 97%),
 <tt>ADJ --[<tt><a href="en_ewt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (102; 95%),
 <tt>ADJ --[<tt><a href="en_ewt-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (41; 87%),
 <tt>ADJ --[<tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (37; 88%),

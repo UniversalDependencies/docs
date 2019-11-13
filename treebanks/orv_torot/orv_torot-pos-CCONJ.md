@@ -76,7 +76,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="orv_torot-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.950000 (the average of all parts of speech is 3.570811).
+The form / lemma ratio of `CCONJ` is 1.950000 (the average of all parts of speech is 3.571089).
 
 The 1st highest number of forms (8) was observed with the lemma “и”: <em>[и], i, ι, и, н, і, ї, ꙇ</em>.
 

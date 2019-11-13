@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Assyrian-AS: POS Tags: `DET`
 
 There are 9 `DET` lemmas (4%), 9 `DET` types (3%) and 16 `DET` tokens (4%).
-Out of 13 observed tags, the rank of `DET` is: 8 in number of lemmas, 9 in number of types and 11 in number of tokens.
+Out of 13 observed tags, the rank of `DET` is: 8 in number of lemmas, 8 in number of types and 11 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ܐܵܗܵܐ, ܚܲܕ, ܚܲܕ݇, ܐܲܢܹܐ, ܕ, ܗܿܘ, ܚܕܵܐ, ܚܕ݇, ܟܠ</em>
 

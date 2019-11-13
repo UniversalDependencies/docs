@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-129 nodes (0%) are attached to their parents as `iobj`.
+150 nodes (0%) are attached to their parents as `iobj`.
 
-124 instances of `iobj` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.24806201550388.
+145 instances of `iobj` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26666666666667.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (105; 81% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (17; 13% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (7; 5% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (124; 83% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (19; 13% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (7; 5% instances).
 
 
 ~~~ conllu

@@ -46,7 +46,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 9	dere	dere	PRON	_	Animacy=Hum|Case=Acc|Number=Plur|Person=2|PronType=Prs	8	obj	_	_
 10	som	som	PRON	_	PronType=Rel	11	nsubj	_	_
 11	jobber	jobbe	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
-12	her	her	ADV	_	_	11	advmod	_	SpaceAfter=No
+12	her	her	ADV	_	_	11	advmod	_	_
 13	?	$?	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -65,7 +65,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 5	i	i	ADP	_	_	6	case	_	_
 6	Drammen	Drammen	PROPN	_	_	4	obl	_	_
 7	i	i	ADP	_	_	8	case	_	_
-8	1926	1926	NUM	_	Number=Plur|NumType=Card	4	obl	_	SpaceAfter=No
+8	1926	1926	NUM	_	Number=Plur|NumType=Card	4	obl	_	_
 9	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~

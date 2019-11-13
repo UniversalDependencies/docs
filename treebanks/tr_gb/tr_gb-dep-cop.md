@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	Mutlaka	mutlaka	ADV	_	_	3	advmod	_	_
 2	zamanı	zaman	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
 3	var	var	ADJ	_	_	0	root	_	_
-4	dır	i	AUX	_	Mood=Gen|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+4	dır	i	AUX	_	Mood=Gen|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -39,10 +39,10 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4 5 cop	color:blue
 1	Zeki	Zeki	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	babasını	baba	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obj	_	_
-3	onbeş	onbeş	NUM	_	NumType=Ord	4	nummod	_	_
+3	onbeş	onbeş	NUM	_	NumType=Card	4	nummod	_	_
 4	yıl	yıl	NOUN	_	Case=Nom|Number=Sing	6	advcl	_	_
-5	dır	i	AUX	_	Mood=Gen|Number=Sing|Person=3	4	cop	_	_
-6	görmüyormuş	gör	VERB	_	Aspect=Prog|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+5	dır	i	AUX	_	Mood=Gen|Number=Sing|Person=3|VerbForm=Fin	4	cop	_	_
+6	görmüyormuş	gör	VERB	_	Aspect=Prog|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	annesini	anne	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	conj	_	_
 9	değil	değil	AUX	_	PronType=Neg	8	aux	_	SpaceAfter=No
@@ -60,7 +60,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	Herkesin	herkes	PRON	_	Case=Gen|Number=Sing	2	nsubj	_	_
 2	burada	bura	PRON	_	Case=Loc|Number=Sing	4	ccomp	_	_
 3	olduğunu	ol	AUX	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	2	cop	_	_
-4	bilmiyordum	bil	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	0	root	_	SpaceAfter=No
+4	bilmiyordum	bil	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

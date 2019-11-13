@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-410 nodes (2%) are attached to their parents as `xcomp`.
+398 nodes (2%) are attached to their parents as `xcomp`.
 
-409 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.39268292682927.
+397 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.40201005025126.
 
-The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (275; 67% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (47; 11% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (36; 9% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (28; 7% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (17; 4% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-X.html">X</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (265; 67% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (45; 11% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (36; 9% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (28; 7% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (17; 4% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 xcomp	color:blue
-1	Tout	_	DET	PDT	Gender=Masc|Number=Sing	3	det:predet	_	_
+1	Tout	_	ADJ	PDT	Gender=Masc|Number=Sing	3	amod	_	_
 2	le	_	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
 3	monde	_	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 4	ne	_	ADV	RB	Polarity=Neg	5	advmod	_	_
@@ -48,11 +48,11 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4 6 xcomp	color:blue
 1	C’	_	PRON	PDEM	_	4	nsubj	_	OrigForm=C'|SpaceAfter=No
 2	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
-3	son	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	4	nmod:poss	_	_
+3	son	_	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	rêve	_	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 5	de	_	ADP	IN	_	6	case	_	_
 6	terminer	_	VERB	VB	_	4	xcomp	_	_
-7	sa	_	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	8	nmod:poss	_	_
+7	sa	_	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	carrière	_	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 9	ici	_	ADV	RB	_	6	advmod	_	SpaceAfter=No
 10	.	_	PUNCT	.	_	4	punct	_	_
@@ -69,7 +69,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	Catherine	_	PROPN	NNP	Gender=Fem|Number=Sing	5	nsubj	_	_
 2	II	_	NUM	CD	_	1	nummod	_	Proper=True
 3	s’	_	PRON	PRP	Gender=Fem|Number=Sing|Person=3	5	obj	_	OrigForm=s'|SpaceAfter=No
-4	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	_
+4	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux:tense	_	_
 5	montrée	_	VERB	VBN	Gender=Fem|Number=Sing	0	root	_	_
 6	très	_	ADV	RB	_	7	advmod	_	_
 7	satisfaite	_	ADJ	JJ	Gender=Fem|Number=Sing	5	xcomp	_	SpaceAfter=No

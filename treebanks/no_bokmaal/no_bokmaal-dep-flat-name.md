@@ -46,7 +46,7 @@ The following 29 pairs of parts of speech are connected with `flat:name`: <tt><a
 4	døren	dør	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	2	obj	_	_
 5	til	til	ADP	_	_	6	case	_	_
 6	Mulligan's	Mulligan's	PROPN	_	_	4	nmod	_	_
-7	pub	pub	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	6	flat:name	_	SpaceAfter=No
+7	pub	pub	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	6	flat:name	_	_
 8	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -69,7 +69,7 @@ The following 29 pairs of parts of speech are connected with `flat:name`: <tt><a
 9	i	i	ADP	_	_	10	case	_	_
 10	Den	Den	PROPN	_	_	8	nmod	_	_
 11	norske	norsk	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	10	flat:name	_	_
-12	kirke	kirke	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	10	flat:name	_	SpaceAfter=No
+12	kirke	kirke	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	10	flat:name	_	_
 13	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~

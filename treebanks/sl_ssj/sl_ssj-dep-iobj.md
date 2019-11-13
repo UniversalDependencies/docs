@@ -66,7 +66,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	svoj	svoj	DET	Px-msa	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	Dep=6|Rel=Atr
 5	mobilni	mobilen	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	Dep=6|Rel=Atr
 6	telefon	telefon	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No|Dep=3|Rel=Obj
-7	.	.	PUNCT	Z	_	3	punct	_	Dep=0|Rel=Root
+7	.	.	PUNCT	Z	_	3	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 
 ~~~
 

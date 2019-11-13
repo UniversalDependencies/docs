@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 obl:arg	color:blue
-1	à	à_partir_de	ADP	_	_	4	case	_	MWEPOS=ADP
+1	à	à_partir_de	ADP	_	_	4	case	_	EXTPOS=ADP
 2	partir	_	VERB	_	VerbForm=Inf	1	fixed	_	_
 3	de	_	ADP	_	_	1	fixed	_	_
 4	quand	quand	ADV	_	PronType=Int	7	obl:mod	_	_
@@ -49,7 +49,7 @@ The following 10 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 4 2 obl:arg	color:blue
 1	à	à	ADP	_	_	2	case	_	_
 2	combien	combien	ADV	_	PronType=Int	4	obl:arg	_	_
-3	s'	le/lui	PRON	_	Person=3|Reflex=Yes	4	expl	_	SpaceAfter=No
+3	s'	le/lui	PRON	_	Person=3|Reflex=Yes	4	expl:comp	_	SpaceAfter=No
 4	élève	élever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	mon	son	DET	_	Number=Sing|Poss=Yes	6	det	_	_
 6	aide	aide	NOUN	_	Number=Sing	4	nsubj	_	_

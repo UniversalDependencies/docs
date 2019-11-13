@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-472 nodes (4%) are attached to their parents as `advcl`.
+486 nodes (4%) are attached to their parents as `advcl`.
 
-386 instances of `advcl` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.54872881355932.
+397 instances of `advcl` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.61728395061728.
 
-The following 7 pairs of parts of speech are connected with `advcl`: <tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt>-<tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt> (430; 91% instances), <tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt>-<tt><a href="gun_dooley-pos-NOUN.html">NOUN</a></tt> (26; 6% instances), <tt><a href="gun_dooley-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="gun_dooley-pos-PRON.html">PRON</a></tt>-<tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt>-<tt><a href="gun_dooley-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt>-<tt><a href="gun_dooley-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt>-<tt><a href="gun_dooley-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt>-<tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt> (480; 99% instances), <tt><a href="gun_dooley-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="gun_dooley-pos-PRON.html">PRON</a></tt>-<tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -23,64 +23,83 @@ The following 7 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 8	fgColor:white
 # visual-style 8 6 advcl	color:blue
 1	_	_	PUNCT	punct	_	2	punct	_	_
-2	_	_	VERB	vt	Person[subj]=2|Subcat=Tran	11	parataxis:rep	_	_
+2	_	_	VERB	vt	Mood=Imp|Person[subj]=2|Subcat=Tran|VerbForm=Fin	11	parataxis:rep	_	_
 3	_	_	NOUN	n	_	2	obj	_	_
 4	_	_	PUNCT	punct	_	2	punct	_	_
-5	_	_	ADV	adv	_	6	advmod	_	_
-6	_	_	VERB	vi	Person[subj]=1|Subcat=Int	8	advcl	_	_
+5	_	_	PART	temprt	_	6	dep:mod	_	_
+6	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	8	advcl	_	_
 7	_	_	SCONJ	subordconn	_	6	mark	_	_
-8	_	_	VERB	vi	Person[subj]=1|Subcat=Int	2	advcl	_	_
+8	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	2	advcl	_	_
 9	_	_	SCONJ	subordconn	_	8	mark	_	_
 10	_	_	PUNCT	punct	_	2	punct	_	_
-11	_	_	VERB	vt	Person[subj]=3|Subcat=Tran	0	root	_	_
+11	_	_	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	0	root	_	_
 12	_	_	PUNCT	punct	_	11	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 3 advcl	color:blue
-1	_	_	PRON	pro	Person=3|PronType=Prs	8	obl:sentcon	_	_
-2	_	_	PART	illocprt	_	1	amod	_	_
-3	_	_	NOUN	n	_	8	advcl	_	_
-4	_	_	PART	aspprt	_	3	amod	_	_
-5	_	_	SCONJ	subordconn	_	3	mark	_	_
-6	_	_	PART	discprt	_	3	advmod	_	_
-7	_	_	PART	illocprt	_	3	advmod	_	_
-8	_	_	VERB	vi	Person[subj]=3|Subcat=Int	0	root	_	_
-9	_	_	PART	focprt	_	8	advmod	_	_
-10	_	_	PART	aspprt	_	8	advmod	_	_
-11	_	_	NOUN	n	_	8	obl	_	_
-12	_	_	ADP	post	_	11	case	_	_
-13	_	_	NOUN	n	_	8	obl	_	_
-14	_	_	ADP	post	_	13	case	_	_
-15	_	_	PUNCT	punct	_	8	punct	_	_
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 20 advcl	color:blue
+1	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	12	advcl	_	_
+2	_	_	SCONJ	subordconn	_	1	mark	_	_
+3	_	_	NOUN	n	_	12	obl	_	_
+4	_	_	PART	illocprt	_	3	dep:mod	_	_
+5	_	_	NOUN	n	_	7	nsubj	_	_
+6	_	_	PART	quantprt	_	5	dep:mod	_	_
+7	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	12	advcl	_	_
+8	_	_	PART	temprt	_	7	dep:mod	_	_
+9	_	_	SCONJ	subordconn	_	7	mark	_	_
+10	_	_	PART	discprt	_	7	dep:mod	_	_
+11	_	_	PART	illocprt	_	7	dep:mod	_	_
+12	_	_	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	0	root	_	_
+13	_	_	PUNCT	punct	_	12	punct	_	_
+14	_	_	PUNCT	punct	_	26	punct	_	_
+15	_	_	NOUN	n	Number[psor]=Sing	26	nsubj	_	_
+16	_	_	PART	focprt	_	15	dep:mod	_	_
+17	_	_	PART	intprt	_	15	dep:mod	_	_
+18	_	_	PUNCT	punct	_	26	punct	_	_
+19	_	_	PUNCT	punct	_	23	punct	_	_
+20	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	23	advcl	_	_
+21	_	_	SCONJ	subordconn	_	20	mark	_	_
+22	_	_	NOUN	n	_	23	obl	_	_
+23	_	_	NOUN	n	Number[psor]=Sing	26	parataxis:rep	_	_
+24	_	_	SCONJ	rel	_	23	mark	_	_
+25	_	_	PUNCT	punct	_	23	punct	_	_
+26	_	_	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	12	parataxis:rep	_	_
+27	_	_	PUNCT	punct	_	26	punct	_	_
+28	_	_	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	26	parataxis	_	_
+29	_	_	NOUN	n	_	28	nsubj	_	_
+30	_	_	PART	quantprt	_	29	dep:mod	_	_
+31	_	_	PUNCT	punct	_	12	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 4 advcl	color:blue
-1	_	_	NUM	num	_	2	nummod	_	_
-2	_	_	NOUN	n	_	8	obl	_	_
-3	_	_	ADP	post	_	2	case	_	_
-4	_	_	VERB	vi	Person[subj]=3|Subcat=Int	8	advcl	_	_
-5	_	_	SCONJ	subordconn	_	4	mark	_	_
-6	_	_	PART	illocprt	_	4	advmod	_	_
-7	_	_	NOUN	n	_	8	nsubj	_	_
-8	_	_	NOUN	n	_	0	root	_	_
-9	_	_	ADJ	vi:i	_	8	amod	_	_
-10	_	_	PART	intprt	_	9	advmod	_	_
-11	_	_	VERB	vs	Person=3|VerbForm=Ser	8	compound:svc	_	_
-12	_	_	PUNCT	punct	_	8	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 advcl	color:blue
+1	_	_	PUNCT	punct	_	10	punct	_	_
+2	_	_	ADV	mod	_	8	advmod	_	_
+3	_	_	PART	intprt	_	2	dep:mod	_	_
+4	_	_	PART	quantprt	_	2	dep:mod	_	_
+5	_	_	PRON	pro	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+6	_	_	ADJ	mod	_	5	amod	_	_
+7	_	_	PART	discprt	_	5	dep:mod	_	_
+8	_	_	VERB	vt	Mood=Ind|Person[subj]=2|Subcat=Tran|VerbForm=Fin	10	advcl	_	_
+9	_	_	SCONJ	subordconn	_	8	mark	_	_
+10	_	_	PRON	pro	Person=3|PronType=Prs	14	parataxis:rep	_	_
+11	_	_	ADP	post	_	10	case	_	_
+12	_	_	PART	focprt	_	10	dep:mod	_	_
+13	_	_	PUNCT	punct	_	10	punct	_	_
+14	_	_	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	0	root	_	_
+15	_	_	PUNCT	punct	_	14	punct	_	_
 
 ~~~
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Angelika Peljak-Łapińska, Daria Petrova.
 
 Repository: [UD_Belarusian-HSE](https://github.com/UniversalDependencies/UD_Belarusian-HSE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbe_hse22)<br />
-Download all treebanks: [UD 2.2](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbe_hse25)<br />
+Download all treebanks: [UD 2.5](/#download)
 
 License: CC BY-SA 4.0
 
@@ -69,7 +69,7 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
 
 ## Relations
 
-[acl](be_hse-dep-acl.html) – [acl:relcl](be_hse-dep-acl-relcl.html) – [advcl](be_hse-dep-advcl.html) – [advmod](be_hse-dep-advmod.html) – [advmod:discourse](be_hse-dep-advmod-discourse.html) – [amod](be_hse-dep-amod.html) – [appos](be_hse-dep-appos.html) – [aux](be_hse-dep-aux.html) – [aux:pass](be_hse-dep-aux-pass.html) – [case](be_hse-dep-case.html) – [cc](be_hse-dep-cc.html) – [ccomp](be_hse-dep-ccomp.html) – [compound](be_hse-dep-compound.html) – [conj](be_hse-dep-conj.html) – [cop](be_hse-dep-cop.html) – [csubj](be_hse-dep-csubj.html) – [det](be_hse-dep-det.html) – [discourse](be_hse-dep-discourse.html) – [expl](be_hse-dep-expl.html) – [fixed](be_hse-dep-fixed.html) – [flat](be_hse-dep-flat.html) – [flat:foreign](be_hse-dep-flat-foreign.html) – [flat:name](be_hse-dep-flat-name.html) – [goeswith](be_hse-dep-goeswith.html) – [iobj](be_hse-dep-iobj.html) – [mark](be_hse-dep-mark.html) – [nmod](be_hse-dep-nmod.html) – [nsubj](be_hse-dep-nsubj.html) – [nsubj:pass](be_hse-dep-nsubj-pass.html) – [nummod](be_hse-dep-nummod.html) – [nummod:entity](be_hse-dep-nummod-entity.html) – [nummod:gov](be_hse-dep-nummod-gov.html) – [obj](be_hse-dep-obj.html) – [obl](be_hse-dep-obl.html) – [obl:agent](be_hse-dep-obl-agent.html) – [orphan](be_hse-dep-orphan.html) – [parataxis](be_hse-dep-parataxis.html) – [punct](be_hse-dep-punct.html) – [root](be_hse-dep-root.html) – [vocative](be_hse-dep-vocative.html) – [xcomp](be_hse-dep-xcomp.html)
+[acl](be_hse-dep-acl.html) – [acl:relcl](be_hse-dep-acl-relcl.html) – [advcl](be_hse-dep-advcl.html) – [advmod](be_hse-dep-advmod.html) – [advmod:discourse](be_hse-dep-advmod-discourse.html) – [amod](be_hse-dep-amod.html) – [appos](be_hse-dep-appos.html) – [aux](be_hse-dep-aux.html) – [aux:pass](be_hse-dep-aux-pass.html) – [case](be_hse-dep-case.html) – [cc](be_hse-dep-cc.html) – [ccomp](be_hse-dep-ccomp.html) – [compound](be_hse-dep-compound.html) – [conj](be_hse-dep-conj.html) – [cop](be_hse-dep-cop.html) – [csubj](be_hse-dep-csubj.html) – [det](be_hse-dep-det.html) – [discourse](be_hse-dep-discourse.html) – [expl](be_hse-dep-expl.html) – [fixed](be_hse-dep-fixed.html) – [flat](be_hse-dep-flat.html) – [flat:foreign](be_hse-dep-flat-foreign.html) – [flat:name](be_hse-dep-flat-name.html) – [iobj](be_hse-dep-iobj.html) – [mark](be_hse-dep-mark.html) – [nmod](be_hse-dep-nmod.html) – [nsubj](be_hse-dep-nsubj.html) – [nsubj:pass](be_hse-dep-nsubj-pass.html) – [nummod](be_hse-dep-nummod.html) – [nummod:entity](be_hse-dep-nummod-entity.html) – [nummod:gov](be_hse-dep-nummod-gov.html) – [obj](be_hse-dep-obj.html) – [obl](be_hse-dep-obl.html) – [obl:agent](be_hse-dep-obl-agent.html) – [orphan](be_hse-dep-orphan.html) – [parataxis](be_hse-dep-parataxis.html) – [punct](be_hse-dep-punct.html) – [root](be_hse-dep-root.html) – [vocative](be_hse-dep-vocative.html) – [xcomp](be_hse-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -817,8 +817,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Acc (2)</li>
       <li>VERB-Fin--NOUN-Gen (16)</li>
-      <li>VERB-Fin--NOUN-Nom (308)</li>
+      <li>VERB-Fin--NOUN-Nom (309)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(між) (1)</li>
+      <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Nom (163)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
@@ -840,7 +841,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Acc (8)</li>
       <li>VERB-Conv--NOUN-Gen (2)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Acc (220)</li>
+      <li>VERB-Fin--NOUN-Acc (221)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(да) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(ў) (1)</li>
       <li>VERB-Fin--NOUN-Dat (3)</li>
@@ -905,5 +906,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>advmod:discourse</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:entity</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

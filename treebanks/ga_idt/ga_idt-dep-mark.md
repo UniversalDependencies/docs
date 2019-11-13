@@ -9,79 +9,78 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `mark`: <tt><a href="ga_idt-dep-mark-prt.html">mark:prt</a></tt>.
 
-729 nodes (3%) are attached to their parents as `mark`.
+1209 nodes (3%) are attached to their parents as `mark`.
 
-715 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.63374485596708.
+1187 instances of `mark` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.67080231596361.
 
-The following 26 pairs of parts of speech are connected with `mark`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (285; 39% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (214; 29% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (55; 8% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (44; 6% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (40; 5% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (15; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (13; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (12; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (9; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 12 mark	color:blue
-1	Níl	bí	VERB	VI	Mood=Ind|Polarity=Neg|Tense=Pres	0	root	_	_
-2	a	a	DET	Det	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	det	_	_
-3	fhios	fios	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	1	nsubj	_	_
-4	agat	ag	ADP	Prep	Number=Sing|Person=2	1	obl:prep	_	_
-5	cad	cad	DET	Det	PronType=Int	1	ccomp	_	_
-6	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	8	nmod	_	_
-7	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
-8	éagóir	éagóir	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	5	xcomp:pred	_	_
-9	orm	ar	ADP	Prep	Number=Sing|Person=1	8	obl:prep	_	_
-10	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
-11	mé	mé	PRON	Pers	Number=Sing|Person=1	13	obj	_	_
-12	a	a	PART	Inf	PartType=Inf	13	mark	_	_
-13	choimeád	coimeád	NOUN	Noun	Form=Len|VerbForm=Inf	5	xcomp	_	_
-14	anseo	anseo	ADV	Loc	_	13	advmod	_	SpaceAfter=No
-15	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
+The following 30 pairs of parts of speech are connected with `mark`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (428; 35% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (396; 33% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (122; 10% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (53; 4% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (52; 4% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (32; 3% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (23; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (20; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (19; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (10; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 mark	color:blue
-1	Chuaigh	téigh	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	abhaile	abhaile	ADV	Dir	_	1	advmod	_	_
-4	nuair	nuair	SCONJ	Subord	_	6	mark	_	_
-5	a	a	PART	Vb	PartType=Vb|PronType=Rel	6	mark:prt	_	_
-6	bhí	bí	VERB	VI	Form=Len|Mood=Ind|Tense=Past	1	advcl	_	_
-7	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
-8	cóisir	cóisir	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	6	nsubj	_	_
-9	thart	thart	ADV	Dir	_	6	xcomp:pred	_	SpaceAfter=No
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 mark	color:blue
+1	Caithfidh	caith	VERB	VTI	Mood=Ind|Tense=Fut	0	root	_	_
+2	foirne	foireann	NOUN	Noun	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	úsáid	úsáid	NOUN	Noun	Gender=Fem|Number=Sing	5	obj	_	_
+4	a	a	PART	Inf	PartType=Inf	5	mark	_	_
+5	bhaint	baint	NOUN	Noun	Form=Len|VerbForm=Inf	1	xcomp	_	_
+6	as	as	ADP	Simp	_	8	case	_	_
+7	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+8	huimhreacha	uimhir	NOUN	Noun	Definite=Def|Gender=Fem|Number=Plur	5	nmod	_	_
+9	4-15	4-15	NUM	Num	_	8	nummod	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 mark	color:blue
-1	Bhain	Bain	PROPN	Noun	Case=Gen|Form=Len|Gender=Masc|Number=Sing	0	root	_	_
-2	sin	sin	PRON	Dem	PronType=Dem	1	nsubj	_	_
-3	preab	preab	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	obj	_	_
-4	asainn	as	ADP	Prep	Number=Plur|Person=1	1	obl:prep	_	_
-5	agus	agus	SCONJ	Subord	_	7	mark	_	_
-6	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
-7	bheirt	beirt	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Fem|Number=Sing	1	advcl	_	_
-8	againn	ag	ADP	Prep	Number=Plur|Person=1	7	compound	_	_
-9	i	i	ADP	Simp	_	10	case	_	_
-10	ndíg	díog	NOUN	Noun	Case=Dat|Form=Ecl|Gender=Fem|Number=Sing	7	nmod	_	_
-11	ag	ag	ADP	Simp	_	12	case	_	_
-12	faire	faire	NOUN	Noun	VerbForm=Vnoun	7	xcomp	_	_
-13	air	ar	ADP	Prep	Gender=Masc|Number=Sing|Person=3	12	obl:prep	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 mark	color:blue
+1	Cé	cé	SCONJ	Subord	_	3	mark	_	_
+2	nár	nár	PART	Vb	PartType=Cmpl|Tense=Past	3	mark:prt	_	_
+3	dhúirt	abair	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	6	advcl	_	_
+4	tú	tú	PRON	Pers	Number=Sing|Person=2	3	nsubj	_	_
+5	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	6	obj	_	_
+6	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
+7	'	'	PUNCT	Punct	_	8	punct	_	SpaceAfter=No
+8	fhios	fios	NOUN	Noun	Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	_
+9	agam	ag	ADP	Prep	Number=Sing|Person=1	6	obl:prep	_	_
+10	gur	gur	PART	Vb	PartType=Vb|Tense=Past	11	mark:prt	_	_
+11	thuig	tuig	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	6	ccomp	_	_
+12	tú	tú	PRON	Pers	Number=Sing|Person=2	11	nsubj	_	_
+13	sin	sin	PRON	Dem	PronType=Dem	11	obj	_	_
+14	i	i	ADP	Simp	_	16	case	_	_
+15	do	do	DET	Det	Number=Sing|Person=2|Poss=Yes	16	nmod:poss	_	_
+16	chroí	croí	NOUN	Noun	Form=Len|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 mark	color:blue
+1	Agus	agus	SCONJ	Subord	_	2	mark	_	_
+2	dul	dul	NOUN	Noun	VerbForm=Inf	0	root	_	_
+3	isteach	isteach	ADV	Dir	_	2	advmod	_	_
+4	chuig	chuig	ADP	Simp	_	6	case	_	_
+5	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	obair	obair	NOUN	Noun	Gender=Fem|Number=Sing	2	nmod	_	_
+7	Dé	Dé	NOUN	Subst	Number=Sing	6	obl:tmod	_	_
+8	Sathairn	Satharn	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	7	flat	_	_
+9	chomh	chomh	ADV	Its	_	10	advmod	_	_
+10	maith	maith	ADJ	Adj	Degree=Pos	2	amod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

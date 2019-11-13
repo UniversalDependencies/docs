@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 
-9073 tokens (49%) have a non-empty value of `Case`.
-6118 types (81%) occur at least once with a non-empty value of `Case`.
-4076 lemmas (82%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (4519; 25% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (2171; 12% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (1321; 7% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (499; 3% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (377; 2% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (183; 1% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances).
+9245 tokens (50%) have a non-empty value of `Case`.
+6213 types (82%) occur at least once with a non-empty value of `Case`.
+4171 lemmas (84%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (4504; 24% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (2343; 13% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (1326; 7% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (499; 3% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (377; 2% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (193; 1% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-4519 <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+4504 <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3246; 72%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2488; 55%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3232; 72%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2486; 55%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Acc` (889; 20% of non-empty `Case`): <em>miejsce, raz, sposób, uwagę, rolę, lata, możliwość, część, koniec, rzecz</em>
 * `Dat` (74; 2% of non-empty `Case`): <em>Radzie, armii, ludziom, mieszkańcom, pracownikom, Douglas, Imperium, Partii, aktywom, cudzoziemcom</em>
-* `Gen` (1608; 36% of non-empty `Case`): <em>lat, wojny, osób, czasów, dolarów, funtów, ludzi, października, pracy, euro</em>
+* `Gen` (1604; 36% of non-empty `Case`): <em>lat, wojny, osób, czasów, dolarów, funtów, ludzi, października, pracy, euro</em>
 * `Ins` (378; 8% of non-empty `Case`): <em>czasem, celem, latem, razem, zimą, liczbą, pomocą, prezydentem, przedmiotem, rządem</em>
-* `Loc` (629; 14% of non-empty `Case`): <em>latach, roku, świecie, czasie, końcu, przypadku, miejscu, celu, razie, sprawie</em>
-* `Nom` (940; 21% of non-empty `Case`): <em>rząd, większość, film, Morze, czas, prezydent, bank, część, handel, klasztor</em>
+* `Loc` (628; 14% of non-empty `Case`): <em>latach, roku, świecie, czasie, końcu, przypadku, miejscu, celu, razie, sprawie</em>
+* `Nom` (930; 21% of non-empty `Case`): <em>rząd, większość, film, Morze, czas, prezydent, bank, część, handel, klasztor</em>
 * `Voc` (1; 0% of non-empty `Case`): <em>Ludzie</em>
 
 <table>
@@ -38,18 +38,18 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-2171 <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
+2343 <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1759; 81%), <tt><a href="pl_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1759; 81%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1759; 81%), <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1759; 81%), <tt><a href="pl_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1679; 77%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1469; 68%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1175; 54%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1931; 82%), <tt><a href="pl_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1931; 82%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1931; 82%), <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1931; 82%), <tt><a href="pl_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1851; 79%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1641; 70%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1187; 51%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (395; 18% of non-empty `Case`): <em>pierwszy, 1, całe, całą, nową, ogromną, bezpośrednie, duże, dużą, małe</em>
-* `Dat` (33; 2% of non-empty `Case`): <em>dalszemu, Osmańskiemu, Poważanemu, Wielkiej, Zjednoczonym, całej, chemicznemu, duńskiej, dużej, egipskiemu</em>
-* `Gen` (623; 29% of non-empty `Case`): <em>nowych, ostatnich, nowego, 60, drugiej, jednej, 1, innych, pierwszej, różnych</em>
-* `Ins` (186; 9% of non-empty `Case`): <em>jednym, innymi, dużą, kolejnym, niezbędnym, pierwszym, jedną, młodą, najważniejszym, największym</em>
-* `Loc` (245; 11% of non-empty `Case`): <em>Wielkiej, Północnej, samym, brytyjskiej, całej, jednym, najlepszym, najwyższym, wschodniej, zeszłym</em>
-* `Nom` (689; 32% of non-empty `Case`): <em>jeden, północna, inne, duża, niejasne, pierwsze, sama, brytyjski, dawny, greckie</em>
+* `Acc` (400; 17% of non-empty `Case`): <em>pierwszy, 1, całe, całą, nową, ogromną, bezpośrednie, duże, dużą, małe</em>
+* `Dat` (33; 1% of non-empty `Case`): <em>dalszemu, Osmańskiemu, Poważanemu, Wielkiej, Zjednoczonym, całej, chemicznemu, duńskiej, dużej, egipskiemu</em>
+* `Gen` (698; 30% of non-empty `Case`): <em>nowych, ostatnich, nowego, 60, drugiej, jednej, 1, innych, pierwszej, różnych</em>
+* `Ins` (186; 8% of non-empty `Case`): <em>jednym, innymi, dużą, kolejnym, niezbędnym, pierwszym, jedną, młodą, najważniejszym, największym</em>
+* `Loc` (324; 14% of non-empty `Case`): <em>Wielkiej, Północnej, samym, 1492, 2013, 2014, brytyjskiej, całej, jednym, najlepszym</em>
+* `Nom` (702; 30% of non-empty `Case`): <em>II, jeden, północna, inne, I, duża, niejasne, pierwsze, sama, brytyjski</em>
 * `EMPTY` (15): <em>północno, gotów, południowo, prostu, angielsku, austriacko, francusko, męsku, niedawna, późna</em>
 
 <table>
@@ -71,18 +71,18 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PROPN`
 
-1321 <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+1326 <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1203; 91%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (760; 58%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1208; 91%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (760; 57%).
 
 `PROPN` tokens may have the following values of `Case`:
 
 * `Acc` (90; 7% of non-empty `Case`): <em>Niemcy, Antarktykę, Chrisa, Duffy’ego, Kadesz, Morawy, Oscara, Trację, Trumpa, Abakumowa</em>
 * `Dat` (35; 3% of non-empty `Case`): <em>Rosji, Andy’emu, Associated, BBC, Benoît, Brytanii, CNN, Donaldowi, Europie, Georgowi</em>
-* `Gen` (384; 29% of non-empty `Case`): <em>Europy, Francji, Pekinu, USA, Albanii, Ameryki, BBC, Clinton, Disneya, Qing</em>
+* `Gen` (386; 29% of non-empty `Case`): <em>Europy, Francji, Pekinu, USA, Albanii, Ameryki, BBC, Clinton, Disneya, Qing</em>
 * `Ins` (67; 5% of non-empty `Case`): <em>Abbotsford, Albanią, American, Anne, Aounem, Austerlitz, Azją, Brytanią, CCN, Carterem</em>
-* `Loc` (160; 12% of non-empty `Case`): <em>Brytanii, USA, Azji, Chinach, Afryce, Europie, Glasgow, Gwinei, Hongkongu, Internecie</em>
-* `Nom` (585; 44% of non-empty `Case`): <em>Chiny, Kesha, Trump, Blunt, Clinton, Francja, Joseph, Mishima, Winstone, Wright</em>
+* `Loc` (164; 12% of non-empty `Case`): <em>Brytanii, USA, Azji, Chinach, Afryce, Europie, Glasgow, Gwinei, Hongkongu, Internecie</em>
+* `Nom` (584; 44% of non-empty `Case`): <em>Chiny, Kesha, Trump, Blunt, Clinton, Francja, Joseph, Mishima, Winstone, Wright</em>
 
 <table>
   <tr><th>Paradigm <i>Trump</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th></tr>
@@ -116,7 +116,6 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>która</em></td><td></td><td></td><td><em>której</em></td><td><em>której</em></td><td><em>którą</em></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td></td><td><em>które</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>które</em></td><td><em>które</em></td><td></td><td><em>których</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td></td><td></td><td></td><td></td><td><em>którym</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>które</em></td><td><em>które</em></td><td></td><td><em>którego</em></td><td><em>którym</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>które</em></td><td></td><td></td><td><em>których</em></td><td><em>których</em></td><td></td></tr>
 </table>
@@ -153,18 +152,18 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `NUM`
 
-183 <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Case`.
+193 <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (180; 98%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (141; 77%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (109; 60%), <tt><a href="pl_pud-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (93; 51%), <tt><a href="pl_pud-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (93; 51%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (189; 98%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (151; 78%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (114; 59%), <tt><a href="pl_pud-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (100; 52%), <tt><a href="pl_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (100; 52%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Acc` (71; 39% of non-empty `Case`): <em>dwa, trzy, 3, dwie, sześć, 10, 16, 34, 4, 6</em>
+* `Acc` (77; 40% of non-empty `Case`): <em>dwa, trzy, 3, dwie, sześć, 1,4, 1,5, 10, 16, 34</em>
 * `Dat` (1; 1% of non-empty `Case`): <em>45</em>
-* `Gen` (50; 27% of non-empty `Case`): <em>dwóch, obu, 3, 20, 14, 2, 5, czterech, sześciu, 10</em>
+* `Gen` (51; 26% of non-empty `Case`): <em>dwóch, obu, 3, 20, 14, 2, 5, czterech, sześciu, 1,5</em>
 * `Ins` (7; 4% of non-empty `Case`): <em>dwiema, dwoma, 71, dwudziestoma, ośmioma</em>
 * `Loc` (10; 5% of non-empty `Case`): <em>dwóch, 100, 137, 17, 33, 500, 80, obu, siedmiu</em>
-* `Nom` (44; 24% of non-empty `Case`): <em>dwa, trzy, 330, dwaj, obaj, obie, 100, 10000, 120, 1200</em>
+* `Nom` (47; 24% of non-empty `Case`): <em>dwa, trzy, 330, dwaj, obaj, obie, 100, 10000, 11, 120</em>
 
 <table>
   <tr><th>Paradigm <i>dwa</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -183,19 +182,19 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 `ADP` tokens may have the following values of `Case`:
 
 * `Acc` (3; 100% of non-empty `Case`): <em>temu</em>
-* `EMPTY` (2051): <em>w, na, z, do, o, po, przez, od, dla, za</em>
+* `EMPTY` (2047): <em>w, na, z, do, o, po, przez, od, dla, za</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="pl_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1422; 99%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1330; 99%),
 <tt>NOUN --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (245; 97%),
-<tt>PROPN --[<tt><a href="pl_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (187; 95%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-det.html">det</a></tt>]--> DET</tt> (186; 96%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-acl.html">acl</a></tt>]--> ADJ</tt> (128; 99%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-acl.html">acl</a></tt>]--> ADJ</tt> (229; 100%),
+<tt>PROPN --[<tt><a href="pl_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (194; 96%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-det.html">det</a></tt>]--> DET</tt> (183; 96%),
 <tt>NOUN --[<tt><a href="pl_pud-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (80; 100%),
-<tt>ADJ --[<tt><a href="pl_pud-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (77; 100%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (77; 91%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-appos.html">appos</a></tt>]--> PROPN</tt> (75; 83%),
-<tt>ADJ --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (70; 88%).
+<tt>ADJ --[<tt><a href="pl_pud-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (78; 99%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (78; 92%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-appos.html">appos</a></tt>]--> PROPN</tt> (76; 83%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-amod-flat.html">amod:flat</a></tt>]--> ADJ</tt> (75; 90%).
 

@@ -29,7 +29,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 5	til	til	ADP	_	_	8	case	_	_
 6	sin	sin	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
 7	neste	neste	DET	_	Definite=Def|PronType=Dem	8	det	_	_
-8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
 9	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 7	over	over	ADP	_	_	0	root	_	_
 8	for	for	ADP	_	_	10	case	_	_
 9	de	de	DET	_	Number=Plur|PronType=Dem	10	det	_	_
-10	rødgrønne	rødgrønn	ADJ	_	Degree=Pos|Number=Plur	7	advmod	_	SpaceAfter=No
+10	rødgrønne	rødgrønn	ADJ	_	Degree=Pos|Number=Plur	7	advmod	_	_
 11	.	$.	PUNCT	_	_	7	punct	_	_
 
 ~~~
@@ -70,7 +70,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 6	selv	selv	DET	_	PronType=Prs	5	det	_	_
 7	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	underskrevet	underskrive	VERB	_	VerbForm=Part	1	advcl	_	_
-9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	obj	_	_
 10	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~

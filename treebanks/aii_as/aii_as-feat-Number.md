@@ -56,7 +56,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-38 <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Number`.
+38 <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="aii_as-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (32; 84%), <tt><a href="aii_as-feat-Person.html">Person</a></tt><tt>=3</tt> (28; 74%), <tt><a href="aii_as-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21; 55%), <tt><a href="aii_as-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21; 55%).
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 * `Plur` (11; 29% of non-empty `Number`): <em>ܝ݇ܢܵܐ, ܝܢܵܐ, ܝ݇ܬܘܢ</em>
 * `Sing` (27; 71% of non-empty `Number`): <em>ܝܠܹܗ, ܝܠܵܗܿ, ܝܘܸܢ, ܝܠܹܐ, ܝܼܘܵܢ, ܝܠܸܗ, ܝ݇ܘܸܬ, ܝ݇ܘܹܬ, ܡܵܨܸܢ, ܦܵܝܫܵܐ</em>
-* `EMPTY` (2): <em>ܝܼܠܵܗܿ, ܝ݇ܬܝܼܒܵܐ</em>
+* `EMPTY` (13): <em>ܒܸܕ, ܒܸܬ, ܟܹܐ, ܒ, ܒܹܬ, ܝܼܠܵܗܿ, ܝ݇ܬܝܼܒܵܐ, ܟܲܕ, ܟܸܐ, ܩܲܡ</em>
 
 <table>
   <tr><th>Paradigm <i>ܗܵܘܹܐ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -98,7 +98,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 24 <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> tokens (56% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="aii_as-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (17; 71%), <tt><a href="aii_as-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14; 58%), <tt><a href="aii_as-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13; 54%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="aii_as-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (18; 75%), <tt><a href="aii_as-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14; 58%), <tt><a href="aii_as-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13; 54%).
 
 `PRON` tokens may have the following values of `Number`:
 

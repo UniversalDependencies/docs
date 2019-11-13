@@ -9,30 +9,27 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pl_pdb-dep-det.html">det</a></tt>.
 There are also 2 other language-specific subtypes of `det`: <tt><a href="pl_pdb-dep-det-numgov.html">det:numgov</a></tt>, <tt><a href="pl_pdb-dep-det-poss.html">det:poss</a></tt>.
 
-184 nodes (0%) are attached to their parents as `det:nummod`.
+183 nodes (0%) are attached to their parents as `det:nummod`.
 
-182 instances of `det:nummod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17391304347826.
+181 instances of `det:nummod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17486338797814.
 
-The following 4 pairs of parts of speech are connected with `det:nummod`: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (179; 97% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `det:nummod`: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (178; 97% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 det:nummod	color:blue
-1	Przed	przed	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	3	case	3:case	Case=Ins
-2	samymi	sam	ADJ	adj:pl:inst:m3:pos	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	3	amod	3:amod	_
-3	torami	tor	NOUN	subst:pl:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	4	obl	4:obl	_
-4	widać	widać	VERB	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	0	root	0:root	_
-5	drogę	droga	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	4	iobj	4:iobj	_
-6	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Loc
-7	odległości	odległość	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	6	fixed	6:fixed	_
-8	kilku	kilka	DET	num:pl:gen:m3:congr	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	9	det:nummod	9:det:nummod	_
-9	kilometrów	kilometr	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	obl	4:obl	SpaceAfter=No
-10	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 det:nummod	color:blue
+1	Sprawa	sprawa	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	_
+2	rozsypała	rozsypać	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	się	się	PRON	part	PronType=Prs|Reflex=Yes	2	expl:pv	2:expl:pv	_
+4	po	po	ADP	prep:loc	AdpType=Prep	6	case	6:case	Case=Loc
+5	paru	parę	DET	num:pl:loc:m3:congr	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	6	det:nummod	6:det:nummod	_
+6	miesiącach	miesiąc	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	2	obl	2:obl	SpaceAfter=No
+7	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~
 
@@ -80,7 +77,7 @@ The following 4 pairs of parts of speech are connected with `det:nummod`: <tt><a
 10	nie	nie	PART	part	Polarity=Neg	11	advmod:neg	11:advmod:neg	_
 11	przyjmowali	przyjmować	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	5:ccomp	_
 12	ich	on	PRON	ppron3:pl:gen:m1:ter:akc:npraep	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	11	obj	11:obj	_
-13	zbyt	zbyt	PART	part	_	12	advmod	12:advmod	_
+13	zbyt	zbyt	ADV	adv	_	12	advmod	12:advmod	_
 14	dużo	dużo	DET	num:pl:gen:m1:congr	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	12	det:nummod	12:det:nummod	SpaceAfter=No
 15	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	_
 

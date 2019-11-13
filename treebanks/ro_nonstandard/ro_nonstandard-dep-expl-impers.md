@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-expl.html">expl</a></tt>.
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_nonstandard-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_nonstandard-dep-expl-poss.html">expl:poss</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pv.html">expl:pv</a></tt>.
 
-133 nodes (0%) are attached to their parents as `expl:impers`.
+134 nodes (0%) are attached to their parents as `expl:impers`.
 
-119 instances of `expl:impers` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21052631578947.
+120 instances of `expl:impers` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2089552238806.
 
-The following 2 pairs of parts of speech are connected with `expl:impers`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (131; 98% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (2; 2% instances).
+The following 2 pairs of parts of speech are connected with `expl:impers`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (132; 99% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

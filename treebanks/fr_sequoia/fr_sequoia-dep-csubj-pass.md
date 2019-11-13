@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	promoteur	promoteur	NOUN	_	Gender=Masc|Number=Sing	3	obl:agent	_	_
 7	qui	qui	PRON	_	PronType=Rel	10	nsubj	_	_
-8	s'	se	PRON	_	Person=3|Reflex=Yes	10	expl	_	SpaceAfter=No
+8	s'	se	PRON	_	Person=3|Reflex=Yes	10	expl:comp	_	SpaceAfter=No
 9	y	y	PRON	_	Person=3	10	iobj	_	_
 10	engage	engager	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 11	étant	être	AUX	_	Tense=Pres|VerbForm=Part	12	aux:pass	_	_

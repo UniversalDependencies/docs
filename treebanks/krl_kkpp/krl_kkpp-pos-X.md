@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Karelian-KKPP: POS Tags: `X`
 
 There are 5 `X` lemmas (1%), 5 `X` types (0%) and 6 `X` tokens (0%).
-Out of 14 observed tags, the rank of `X` is: 13 in number of lemmas, 13 in number of types and 13 in number of tokens.
+Out of 14 observed tags, the rank of `X` is: 12 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>open, Antilaš, naistai, simvolista, www.etnocenter.ru</em>
 

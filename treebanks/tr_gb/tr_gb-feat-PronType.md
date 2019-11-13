@@ -18,13 +18,13 @@ The feature is used with 8 part-of-speech tags: <tt><a href="tr_gb-pos-AUX.html"
 
 196 <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> tokens (26% of all `AUX` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `AUX` and `PronType` co-occurred: <tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (196; 100%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (196; 100%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (196; 100%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (192; 98%), <tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (166; 85%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (105; 54%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (105; 54%).
+The most frequent other feature values with which `AUX` and `PronType` co-occurred: <tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (196; 100%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (196; 100%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (192; 98%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (192; 98%), <tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (166; 85%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (105; 54%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (105; 54%).
 
 `AUX` tokens may have the following values of `PronType`:
 
 * `Int` (190; 97% of non-empty `PronType`): <em>mi, mı, mu, mü, musun, misiniz, misin, miyiz, musunuz, mısın</em>
 * `Neg` (6; 3% of non-empty `PronType`): <em>değil</em>
-* `EMPTY` (554): <em>değil, olan, dı, oldu, olarak, olacak, olduğunu, mış, dır, miş</em>
+* `EMPTY` (555): <em>değil, olan, dı, oldu, olarak, olacak, olduğunu, mış, dır, miş</em>
 
 ### `PRON`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (31; 100% of non-empty `PronType`): <em>neden, nasıl, ne, niye, niçin</em>
-* `EMPTY` (1042): <em>çok, daha, de, artık, da, en, hiç, bile, biraz, pek</em>
+* `EMPTY` (1041): <em>çok, daha, de, artık, da, en, hiç, bile, biraz, pek</em>
 
 ### `ADJ`
 
@@ -54,18 +54,18 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADJ` tokens may have the following values of `PronType`:
 
 * `Int` (8; 100% of non-empty `PronType`): <em>nasıl, ne</em>
-* `EMPTY` (774): <em>var, yok, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım</em>
+* `EMPTY` (784): <em>var, yok, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım</em>
 
 ### `NUM`
 
 8 <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `NUM` and `PronType` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="tr_gb-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (8; 100%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 100%).
+The most frequent other feature values with which `NUM` and `PronType` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="tr_gb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (8; 100%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 100%).
 
 `NUM` tokens may have the following values of `PronType`:
 
 * `Int` (8; 100% of non-empty `PronType`): <em>kaç</em>
-* `EMPTY` (367): <em>iki, üç, beş, yüz, on, bir, dört, bin, dokuz, birer</em>
+* `EMPTY` (357): <em>iki, üç, beş, yüz, on, bir, dört, bin, dokuz, birer</em>
 
 ### `DET`
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `CCONJ` tokens may have the following values of `PronType`:
 
 * `Neg` (2; 100% of non-empty `PronType`): <em>değil</em>
-* `EMPTY` (182): <em>ve, ne, ama, de, ya, da, hem, ister, yoksa, İster</em>
+* `EMPTY` (183): <em>ve, ne, ama, de, ya, da, hem, ister, yoksa, İster</em>
 
 ### `NOUN`
 

@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sl_sst-pos-ADV.h
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.572106).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.570645).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -72,19 +72,19 @@ The 3rd highest number of forms (1) was observed with the lemma “aaa”: <em>a
 
 `INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="sl_sst-dep-discourse-filler.html">discourse:filler</a></tt> (728; 65% instances), <tt><a href="sl_sst-dep-discourse.html">discourse</a></tt> (194; 17% instances), <tt><a href="sl_sst-dep-root.html">root</a></tt> (184; 17% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="sl_sst-dep-goeswith.html">goeswith</a></tt> (2; 0% instances)
 
-Parents of `INTJ` nodes belong to 15 different parts of speech: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (439; 39% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (238; 21% instances),  (184; 17% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (69; 6% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (36; 3% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (32; 3% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (29; 3% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (22; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `INTJ` nodes belong to 14 different parts of speech: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (444; 40% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (243; 22% instances),  (184; 17% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (70; 6% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (36; 3% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (32; 3% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (28; 3% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (23; 2% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (22; 2% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 1056 (95%) `INTJ` nodes are leaves.
 
 33 (3%) `INTJ` nodes have one child.
 
-13 (1%) `INTJ` nodes have two children.
+14 (1%) `INTJ` nodes have two children.
 
-10 (1%) `INTJ` nodes have three or more children.
+9 (1%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 9.
 
-Children of `INTJ` nodes are attached using 9 different relations: <tt><a href="sl_sst-dep-punct.html">punct</a></tt> (47; 46% instances), <tt><a href="sl_sst-dep-discourse.html">discourse</a></tt> (43; 42% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (3; 3% instances), <tt><a href="sl_sst-dep-discourse-filler.html">discourse:filler</a></tt> (2; 2% instances), <tt><a href="sl_sst-dep-goeswith.html">goeswith</a></tt> (2; 2% instances), <tt><a href="sl_sst-dep-vocative.html">vocative</a></tt> (2; 2% instances), <tt><a href="sl_sst-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="sl_sst-dep-nummod.html">nummod</a></tt> (1; 1% instances), <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 9 different relations: <tt><a href="sl_sst-dep-punct.html">punct</a></tt> (44; 44% instances), <tt><a href="sl_sst-dep-discourse.html">discourse</a></tt> (43; 43% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (3; 3% instances), <tt><a href="sl_sst-dep-discourse-filler.html">discourse:filler</a></tt> (2; 2% instances), <tt><a href="sl_sst-dep-goeswith.html">goeswith</a></tt> (2; 2% instances), <tt><a href="sl_sst-dep-vocative.html">vocative</a></tt> (2; 2% instances), <tt><a href="sl_sst-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="sl_sst-dep-nummod.html">nummod</a></tt> (1; 1% instances), <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> (27; 26% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (26; 25% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (22; 22% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (21; 21% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> (44; 44% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (26; 26% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (22; 22% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (1; 1% instances)
 

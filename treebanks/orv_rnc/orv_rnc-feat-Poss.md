@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="orv_rnc-pos-DET.htm
 
 ### `DET`
 
-289 <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> tokens (37% of all `DET` tokens) have a non-empty value of `Poss`.
+289 <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> tokens (31% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (191; 66%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (179; 62%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (289; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (191; 66%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (179; 62%).
 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (289; 100% of non-empty `Poss`): <em>мои, своих, твой, своего, твоих, нашего, твои, нашему, своими, твоего</em>
-* `EMPTY` (486): <em>то, тѣхъ, тѣ, того, сей, вся, всякіе, всеа, томъ, тот</em>
+* `EMPTY` (655): <em>то, тѣхъ, т., тѣ, того, тот, те, сей, вся, всякіе</em>
 
 ### `ADJ`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (5; 100% of non-empty `Poss`): <em>государева, Троицынъ, Христово</em>
-* `EMPTY` (1319): <em>великого, земскимъ, великомꙋ, великий, великому, стрѣлецкіе, великом, уѣздныхъ, посадскихъ, государева</em>
+* `EMPTY` (1521): <em>великого, земскимъ, великомꙋ, 160-го, великий, великому, стрѣлецкіе, великом, государева, государеву</em>
 

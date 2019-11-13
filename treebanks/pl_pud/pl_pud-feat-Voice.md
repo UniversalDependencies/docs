@@ -9,27 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-2353 tokens (13%) have a non-empty value of `Voice`.
+2347 tokens (13%) have a non-empty value of `Voice`.
 1582 types (21%) occur at least once with a non-empty value of `Voice`.
 869 lemmas (17%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1610; 9% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (412; 2% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (331; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1604; 9% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (412; 2% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (331; 2% instances).
 
 ### `VERB`
 
-1610 <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Voice`.
+1604 <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1307; 81%), <tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1305; 81%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1169; 73%), <tt><a href="pl_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1070; 66%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (940; 58%), <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (880; 55%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (843; 52%), <tt><a href="pl_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (821; 51%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1301; 81%), <tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1299; 81%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1163; 73%), <tt><a href="pl_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1070; 67%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (934; 58%), <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (874; 54%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (837; 52%), <tt><a href="pl_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (821; 51%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (1610; 100% of non-empty `Voice`): <em>może, ma, powiedział, mogą, było, jest, miał, miała, mówi, powiedziała</em>
+* `Act` (1604; 100% of non-empty `Voice`): <em>może, ma, powiedział, mogą, było, jest, miał, miała, mówi, powiedziała</em>
 * `EMPTY` (29): <em>można, będzie, trzeba, warto, widać, Będą, potrzeba, wiadomo, wolno</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (705) occur only with one value of `Voice`.
 
 ### `ADJ`
 
-412 <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> tokens (19% of all `ADJ` tokens) have a non-empty value of `Voice`.
+412 <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> tokens (17% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
 The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="pl_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (412; 100%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (412; 100%), <tt><a href="pl_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (406; 99%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (245; 59%), <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (228; 55%), <tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (228; 55%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (211; 51%).
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 * `Act` (114; 28% of non-empty `Voice`): <em>posiadający, otaczającego, reprezentujące, urzędującym, Podupadające, badającej, badający, biorących, broniącą, budujących</em>
 * `Pass` (298; 72% of non-empty `Voice`): <em>napisane, uznawane, używane, związana, związane, Założony, Zjednoczonych, finansowane, oddanych, ogłoszony</em>
-* `EMPTY` (1774): <em>jednym, ostatnich, 1, nowych, pierwszy, wielkiej, inne, dużą, innych, innymi</em>
+* `EMPTY` (1946): <em>I, II, jednym, ostatnich, 1, nowych, pierwszy, wielkiej, inne, dużą</em>
 
 <table>
   <tr><th>Paradigm <i>reprezentować</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -65,11 +65,11 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (160; 99%),
 <tt>VERB --[<tt><a href="pl_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (152; 88%),
-<tt>VERB --[<tt><a href="pl_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (136; 96%),
-<tt>VERB --[<tt><a href="pl_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (39; 93%),
+<tt>VERB --[<tt><a href="pl_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (133; 98%),
+<tt>VERB --[<tt><a href="pl_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (38; 93%),
 <tt>VERB --[<tt><a href="pl_pud-dep-parataxis-obj.html">parataxis:obj</a></tt>]--> VERB</tt> (30; 91%),
-<tt>VERB --[<tt><a href="pl_pud-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (28; 97%),
-<tt>VERB --[<tt><a href="pl_pud-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (5; 100%),
+<tt>VERB --[<tt><a href="pl_pud-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (29; 97%),
+<tt>VERB --[<tt><a href="pl_pud-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (4; 67%),
 <tt>VERB --[<tt><a href="pl_pud-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="pl_pud-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (3; 100%),
 <tt>AUX --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).

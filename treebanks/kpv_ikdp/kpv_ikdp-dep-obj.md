@@ -65,7 +65,7 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 10	но	но	CCONJ	CC	_	15	cc	_	Lang=Mixed|SpaceAfter=No
 11	,	,	PUNCT	CLB	_	10	punct	_	_
 12	чё	чё	PART	Pcle	_	15	obj	_	Lang=Rus|SpaceAfter=No|Note=Check
-13	-	-	PUNCT	CLB	_	12	punct	_	SpaceAfter=No
+13	-	-	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No
 14	то	то	PART	Pcle	_	12	discourse	_	Lang=Rus
 15	делал	делать	VERB	V	Number=Sing	4	conj	_	Lang=Rus|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	4	punct	_	_

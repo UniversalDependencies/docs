@@ -30,7 +30,7 @@ The following 20 pairs of parts of speech are connected with `obj`: <tt><a href=
 6	selv	selv	DET	_	PronType=Prs	5	det	_	_
 7	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	underskrevet	underskrive	VERB	_	VerbForm=Part	1	advcl	_	_
-9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	obj	_	_
 10	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -48,10 +48,10 @@ The following 20 pairs of parts of speech are connected with `obj`: <tt><a href=
 4	også	også	ADV	_	_	2	advmod	_	_
 5	selv	selv	ADV	_	_	2	advmod	_	_
 6	litt	litt	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	7	advmod	_	_
-7	smittet	smitte	ADJ	_	Definite=Ind|Number=Sing|VerbForm=Part	2	xcomp	_	SpaceAfter=No
+7	smittet	smitte	ADJ	_	Definite=Ind|Number=Sing|VerbForm=Part	2	xcomp	_	_
 8	;	$;	PUNCT	_	_	10	punct	_	_
 9	jeg	jeg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
-10	spør	spørre	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+10	spør	spørre	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	_
 11	:	$:	PUNCT	_	_	2	punct	_	_
 
 ~~~

@@ -46,10 +46,10 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 9	fgColor:white
 # visual-style 9 8 compound	color:blue
 1	Elle	_	PRON	PRP	Gender=Fem|Number=Sing|Person=3	3	nsubj	_	_
-2	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	_
+2	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux:tense	_	_
 3	parlé	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 4	de	_	ADP	IN	_	6	case	_	_
-5	son	_	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	6	nmod:poss	_	_
+5	son	_	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	expérience	_	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
 7	à	_	ADP	IN	_	9	case	_	_
 8	CCN	_	PROPN	NNP	Number=Sing	9	compound	_	_
@@ -65,7 +65,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 19 compound	color:blue
-1	Il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+1	Il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	3	expl:subj	_	_
 2	s'	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	3	obj	_	SpaceAfter=No
 3	agit	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	de	_	ADP	IN	_	7	case	_	_

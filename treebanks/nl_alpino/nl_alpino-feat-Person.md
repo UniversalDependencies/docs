@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-11404 tokens (5%) have a non-empty value of `Person`.
+11357 tokens (5%) have a non-empty value of `Person`.
 106 types (0%) occur at least once with a non-empty value of `Person`.
 53 lemmas (0%) occur at least once with a non-empty value of `Person`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (11404; 5% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (11357; 5% instances).
 
 ### `PRON`
 
-11404 <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> tokens (86% of all `PRON` tokens) have a non-empty value of `Person`.
+11357 <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> tokens (87% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="nl_alpino-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8744; 77%), <tt><a href="nl_alpino-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5879; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="nl_alpino-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9814; 86%), <tt><a href="nl_alpino-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8721; 77%), <tt><a href="nl_alpino-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5833; 51%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (2432; 21% of non-empty `Person`): <em>ik, we, ons, wij, me, mijn, mij, onze, mezelf, m'n</em>
-* `2` (623; 5% of non-empty `Person`): <em>je, u, jullie, jij, jou, uw, gij, jouw, ge, jezelf</em>
-* `3` (8349; 73% of non-empty `Person`): <em>hij, het, dat, zijn, wat, zich, ze, wie, men, hun</em>
-* `EMPTY` (1910): <em>die, meer, veel, elkaar, deze, minder, weinig, al, enige, zo'n</em>
+* `1` (2428; 21% of non-empty `Person`): <em>ik, we, ons, wij, me, mijn, mij, onze, mezelf, m'n</em>
+* `2` (621; 5% of non-empty `Person`): <em>je, u, jullie, jij, jou, uw, gij, jouw, ge, jezelf</em>
+* `3` (8308; 73% of non-empty `Person`): <em>hij, het, dat, zijn, wat, zich, ze, wie, men, hun</em>
+* `EMPTY` (1754): <em>die, meer, elkaar, veel, deze, enige, minder, weinig, velen, hetgeen</em>
 
 <table>
   <tr><th>Paradigm <i>haarzelf</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>

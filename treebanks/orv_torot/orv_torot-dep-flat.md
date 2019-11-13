@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `flat`: <tt><a href="orv_torot-dep-flat-name.html">flat:name</a></tt>.
 
-320 nodes (0%) are attached to their parents as `flat`.
+321 nodes (0%) are attached to their parents as `flat`.
 
-320 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.003125.
+321 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.00311526479751.
 
-The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="orv_torot-pos-DET.html">DET</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (123; 38% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (75; 23% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (57; 18% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (30; 9% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (12; 4% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (9; 3% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (8; 3% instances), <tt><a href="orv_torot-pos-X.html">X</a></tt>-<tt><a href="orv_torot-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="orv_torot-pos-DET.html">DET</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (123; 38% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (75; 23% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (57; 18% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (30; 9% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (13; 4% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (9; 3% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="orv_torot-pos-X.html">X</a></tt>-<tt><a href="orv_torot-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
