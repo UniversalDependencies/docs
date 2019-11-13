@@ -98,9 +98,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 * Run the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment,
   and its arguments are names of folders to be released.<br />
-  <code>RELEASE=2.4 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
+  <code>RELEASE=2.5 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
   * If we later find out that we need to fix a bug in one (or a few) repository, we can update the release folder without building everything from scratch:<br />
-    <code>RELEASE=2.4 tools/package_ud_release.sh --update UD_X UD_Y</code>
+    <code>RELEASE=2.5 tools/package_ud_release.sh --update UD_X UD_Y</code>
 * Make the release packages temporarily available for download somewhere and ask the treebank providers to check them before we archive them in Lindat.
 * Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS). Tell Milan Straka that he can start training UDPipe models of the new data.
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
@@ -133,7 +133,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 <small><code style='color:lightgrey'>
 \# copy metadata to biblio<br />
-rel="2.4"<br />
+rel="2.5"<br />
 path=$(pwd)<br />
 cd /net/data<br />
 tar xzf $path/release-$rel/ud-treebanks-v$rel.tgz<br />
