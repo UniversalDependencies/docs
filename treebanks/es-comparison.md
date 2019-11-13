@@ -426,6 +426,7 @@ udver: '2'
             <li>NOUN: personas, parte, vida, situación, vez, forma, elecciones, empresa, horas, decisión</li>
             <li>NUM: ambas, media, una, DECENAS, quinientas</li>
             <li>PRON: la, una, ella, las, ellas, otra, cuya, unas, ésta, otras</li>
+            <li>PROPN: Cuba</li>
             <li>VERB-Part: aprobada, considerada, dada, utilizada, comprada, dadas, incluida, rechazada, recibida, violada</li>
           </ul>
         </li>
@@ -634,6 +635,7 @@ udver: '2'
             <li>NOUN-Part: heredado</li>
             <li>NUM: medio, media, un, doble, triple, uno, cero, una, cuádruple</li>
             <li>PRON: lo, le, me, uno, quien, la, todo, él, eso, nada</li>
+            <li>PROPN: Cuba</li>
             <li>VERB-Fin: tiene, dijo, hace, aseguró, explicó, afirmó, hizo, señaló, anunció, añadió</li>
             <li>VERB-Part: hecho, tenido, dado, visto, conseguido, pasado, ganado, llegado, perdido, logrado</li>
           </ul>
@@ -2517,7 +2519,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 212 lemmas as copulas (<a>cop</a>). Examples: ser, estar, llamado, encontrar, hacer, llamar, quedar, considerar, parecer, ver, resultar, denominado, volver, nombrar, significar, mantener, titulado, denominar, permanecer, nombrado, elegir, hallar, considerado, declarar, proclamar, titular, declarado, morir, pasar, salir, sentir, caer, constituir, designado, haber, nacer, nacido, nacionalizado, poner, seguir, sero, terminar, vivir, acabar, andar, aparecer, autodenominado, con, creer, dejar.</li>
+      <li>This corpus uses 211 lemmas as copulas (<a>cop</a>). Examples: ser, estar, llamado, encontrar, hacer, llamar, quedar, considerar, parecer, ver, resultar, denominado, volver, nombrar, significar, mantener, titulado, denominar, permanecer, nombrado, elegir, hallar, considerado, declarar, proclamar, titular, declarado, morir, pasar, salir, sentir, caer, constituir, designado, haber, nacer, nacido, nacionalizado, poner, seguir, sero, terminar, vivir, acabar, andar, aparecer, autodenominado, con, creer, dejar.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -3050,7 +3052,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>nsubj:pass</a></li>
-      <li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="33%" valign="top">

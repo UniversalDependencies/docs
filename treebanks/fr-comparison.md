@@ -64,17 +64,17 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 16342 sentences, 389363 tokens and 400387 syntactic words.</li>
+      <li>This corpus contains 16342 sentences, 389371 tokens and 400396 syntactic words.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 1000 sentences, 24137 tokens and 24734 syntactic words.</li>
+      <li>This corpus contains 1000 sentences, 24138 tokens and 24735 syntactic words.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 1020 sentences, 27658 tokens and 28594 syntactic words.</li>
+      <li>This corpus contains 1020 sentences, 27658 tokens and 28595 syntactic words.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -84,7 +84,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 2786 sentences and 34972 tokens.</li>
+      <li>This corpus contains 2789 sentences, 34840 tokens and 35373 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -101,12 +101,12 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 58211 tokens (15%) that are not followed by a space.</li>
+      <li>This corpus contains 58214 tokens (15%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 3445 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 3446 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -138,7 +138,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 126 types of words with spaces. Examples: 10 000, 100 000, 20 000, 50 000, 1 000, 2 000, 1 200, 1 500, 200 000, 25 000, 5 000, 80 000, 1 100, 1 400, 150 000, 2 500, 30 000, 300 000, 400 000, 60 000, 68 000, 02 31 30 47 70, 1 068, 1 108, 1 209, 1 231, 1 237 500, 1 250, 1 300, 1 345, 1 444 861, 1 496, 1 500 000, 1 728, 1 766 691 409, 1 890, 1,186 569 110, 10 250, 11 437, 11 506, 11 839, 13 500, 13 641, 147 000, 149 900, 16 000, 16 851, 170 055, 18 424, 19 000</li>
+      <li>This corpus contains 128 types of words with spaces. Examples: 10 000, 100 000, 20 000, 50 000, 1 000, 2 000, 1 200, 1 500, 200 000, 25 000, 5 000, 80 000, 1 100, 1 400, 150 000, 2 500, 30 000, 300 000, 400 000, 60 000, 68 000, 900 000, 02 31 30 47 70, 1 068, 1 108, 1 209, 1 231, 1 237 500, 1 250, 1 300, 1 345, 1 444 861, 1 496, 1 500 000, 1 728, 1 766 691 409, 1 890, 1,186 569 110, 10 250, 11 437, 11 506, 11 839, 13 500, 13 641, 147 000, 149 900, 16 000, 16 851, 170 055, 18 424</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -175,12 +175,12 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 2168 types of words that contain both letters and punctuation. Examples: l', d', s', qu', n', c', jusqu', j', aujourd'hui, États-Unis, -il, -t, m', lui-même, celui-ci, c'est-à-dire, M., lorsqu', celle-ci, -elle, au-dessus, etc., -ce, sud-est, Royaume-Uni, ceux-ci, au-delà, elle-même, peut-être, sud-ouest, -ils, J.-C., av., nord-ouest, -on, nord-est, -vous, Etats-Unis, Grande-Bretagne, Pays-Bas, eux-mêmes, porte-parole, Notre-Dame, puisqu', week-end, C., quelqu'un, -là, celles-ci, chef-lieu</li>
+      <li>This corpus contains 2167 types of words that contain both letters and punctuation. Examples: l', d', s', qu', n', c', jusqu', j', aujourd'hui, États-Unis, -il, -t, m', lui-même, celui-ci, c'est-à-dire, M., lorsqu', celle-ci, -elle, au-dessus, etc., -ce, sud-est, Royaume-Uni, ceux-ci, au-delà, elle-même, peut-être, sud-ouest, -ils, J.-C., av., nord-ouest, -on, nord-est, -vous, Etats-Unis, Grande-Bretagne, Pays-Bas, eux-mêmes, porte-parole, Notre-Dame, puisqu', week-end, quelqu'un, -là, C., celles-ci, chef-lieu</li>
       </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 149 types of words that contain both letters and punctuation. Examples: l', d', l’, d’, qu', s', n', qu’, n’, s’, c', jusqu', c’, -il, J.-C., États-Unis, peut-être, -t, Grande-Bretagne, M., au-delà, j’, Etats-Unis, au-dessus, av., j', jusqu’, porte-parole, P​a​p​o​u​a​s​i​e​-​N​o​u​v​e​l​l​e​-​G​u​i​n​é​e, Pays-Bas, grand-mère, m’, nord-ouest, quelqu'un, -ce, -là, C.B., J-C, J.-C, Joliot-Curie, Royaume-Uni, Sud-Est, aujourd'hui, cité-état, e-mails, elle-même, lorsqu’, l‘, soi-disant, 'Ya</li>
+      <li>This corpus contains 148 types of words that contain both letters and punctuation. Examples: l', d', l’, d’, qu', s', n', qu’, n’, s’, c', jusqu', c’, -il, J.-C., États-Unis, peut-être, -t, Grande-Bretagne, M., au-delà, j’, Etats-Unis, au-dessus, av., j', jusqu’, porte-parole, P​a​p​o​u​a​s​i​e​-​N​o​u​v​e​l​l​e​-​G​u​i​n​é​e, Pays-Bas, grand-mère, m’, nord-ouest, quelqu'un, -ce, -là, C.B., J-C, J.-C, Joliot-Curie, Royaume-Uni, Sud-Est, aujourd'hui, cité-état, e-mails, elle-même, lorsqu’, l‘, soi-disant, 'Ya</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -195,7 +195,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 75 types of words that contain both letters and punctuation. Examples: c', l', d', j', qu', n', s', m', -là, -ce, jusqu', peut-être, aujourd', dix-huit, quelqu', -vous, -il, -même, t', dix-neuvième, vingt-cinq, vingt-deux, -on, -tu, dix-huitième, dix-neuf, lorsqu', quatre-vingt-six, soixante-dix, vingt-et-unième, vingt-neuf, -d', -ils, -moi, -nous, cinquante-six, dix-sept, puisqu', quarante-cinq, quarante-huit, quarante-neuf, quelqu'un, soixante-cinq, trente-neuf, vingt-six, -toi, Royaume-Uni, Sainte-Claire, aujourd'hui, c'est-à-dire</li>
+      <li>This corpus contains 94 types of words that contain both letters and punctuation. Examples: c', l', d', j', qu', n', s', m', -ce, -là, jusqu', peut-être, aujourd'hui, c'est-à-dire, dix-huit, rond-point, Notre-Dame, quelqu', là-bas, -vous, -il, -même, dix-neuf, t', -chose, dix-neuvième, rendez-vous, vingt-cinq, vingt-deux, -on, -tu, S​a​i​n​t​-​J​e​a​n​-​d​e​-​M​a​u​r​i​e​n​n​e, dix-huitième, lorsqu', là-dedans, là-dessus, quatre-vingt-six, soixante-dix, vingt-et-unième, vingt-neuf, vis-à-vis, -d', -ils, -moi, -nous, -t-il, cinquante-six, dix-sept, mi-temps, puisqu'</li>
       </ul>
     </td>
   </tr>
@@ -214,7 +214,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 11024 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>This corpus contains 11025 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 9 types of multi-word tokens. Examples: du, des, au, aux, auquel, duquel, auxquels, desquelles, auxquelles.</li>
       </ul>
     </td>
@@ -226,7 +226,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 936 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>This corpus contains 937 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 4 types of multi-word tokens. Examples: des, du, au, aux.</li>
       </ul>
     </td>
@@ -238,6 +238,8 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
+      <li>This corpus contains 533 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 5 types of multi-word tokens. Examples: du, au, des, aux, auquel.</li>
       </ul>
     </td>
   </tr>
@@ -304,8 +306,8 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-      <li>This corpus does not use the following tags: SYM</li>
+      <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: PART, SYM</li>
       </ul>
     </td>
   </tr>
@@ -322,12 +324,12 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 6 word types tagged as particles (PART): -ci, -t, ci, l', là, t'</li>
+      <li>This corpus contains 5 word types tagged as particles (PART): -ci, -t, ci, là, t'</li>
       </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 3 word types tagged as particles (PART): -là, -t, l’</li>
+      <li>This corpus contains 2 word types tagged as particles (PART): -là, -t</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -342,7 +344,6 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 10 word types tagged as particles (PART): jamais, même, n', ne, non, n~, pas, plus, que, t</li>
       </ul>
     </td>
   </tr>
@@ -359,7 +360,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 76 lemmas tagged as pronouns (PRON): 1 728, 2, 345, I, aucun, autre, autrui, beaucoup, ce, ceci, cela, celui, celui-ci, celui-là, certain, ceux-là, chacun, cinq, combien, dernier, deux, dont, elle, elle-même, en, eux-mêmes, il, it, je, le, lequel, leur, lui, lui-même, me, moi, moi-même, même, nous, nous-mêmes, nul, on, onze, où, personne, peu, plupart, plusieurs, premier, quatre, que, quel, quelqu'un, qui, quiconque, quinze, quo, quoi, rien, se, she, sien, sienne, soi, soi-même, soixante, te, tel, tout, trois, tu, un, vous, which, y, ça</li>
+      <li>This corpus contains 71 lemmas tagged as pronouns (PRON): 1 728, 2, 345, I, aucun, autre, autrui, beaucoup, ce, ceci, cela, celui, celui-ci, celui-là, certain, ceux-là, chacun, cinq, combien, dernier, deux, dont, elle-même, en, eux-mêmes, il, je, le, lequel, leur, lui, lui-aussi, lui-même, me, moi, moi-même, même, nous, nous-mêmes, nul, on, onze, personne, peu, plupart, plusieurs, premier, quatre, que, quel, quelqu'un, qui, quiconque, quinze, quo, quoi, rien, se, sien, sienne, soi, soi-même, soixante, tel, tout, trois, tu, un, vous, y, ça</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -379,7 +380,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 58 lemmas tagged as pronouns (PRON): aucun, autre, beaucoup, c', ce, ceci, cela, celui, certain, certains, chacun, chose, combien, comment, dont, elle, en, grand, il, je, j~, le, lequel, lui, me, mien, moi, nous, on, où, personne, plupart, plusieurs, pourquoi, qu', quand, que, quel, quelqu'un, qui, quoi, qu~, rien, se, sien, soi, te, tel, toi, tout, tu, un, uns, vivre, vous, y, à+lequel, ça</li>
+      <li>This corpus contains 57 lemmas tagged as pronouns (PRON): aucun, autre, beaucoup, ce, ceci, cela, celui, certain, certains, chacun, chose, ci, combien, comment, dont, elle, en, grand, il, je, j~, le, lequel, lui, me, mien, moi, nous, on, où, personne, plupart, plusieurs, pourquoi, qu', quand, que, quel, quelqu'un, qui, quoi, qu~, rien, se, sien, soi, te, tel, toi, tout, tu, un, uns, vous, y, à, ça</li>
       </ul>
     </td>
   </tr>
@@ -396,7 +397,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 31 lemmas tagged as determiners (DET): Las, Les, Los, a, aucun, ce, certain, chaque, de, der, différent, divers, du, el, il, l', la, le, ledit, lui, no, noster, nul, plusieurs, quel, quelque, son, tel, the, tout, un</li>
+      <li>This corpus contains 30 lemmas tagged as determiners (DET): Las, Les, Los, a, aucun, ce, certain, chaque, de, der, différent, divers, du, el, il, l', la, le, ledit, lui, no, nul, plusieurs, quel, quelque, son, tel, the, tout, un</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -406,7 +407,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 29 lemmas tagged as determiners (DET): aucun, autre, ce, certain, ces, cet, cette, chaque, de, des, la, le, leur, maint, mon, nombreux, nos, notre, plusieurs, quel, quelconque, quelque, son, tel, tout, un, uno, vos, votre</li>
+      <li>This corpus contains 28 lemmas tagged as determiners (DET): aucun, autre, ce, certain, ces, cet, cette, chaque, de, la, le, leur, maint, mon, nombreux, nos, notre, plusieurs, quel, quelconque, quelque, son, tel, tout, un, uno, vos, votre</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -416,7 +417,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 24 lemmas tagged as determiners (DET): Des, aucun, ce, certain, cet, chaque, de+le, du, l', le, les, l~, mon, plusieurs, quel, quelque, son, tel, tout, toute, un, une, un~, u~</li>
+      <li>This corpus contains 26 lemmas tagged as determiners (DET): A, Des, aucun, ce, certain, cet, chaque, de, de+le, du, d~, l', le, les, l~, mon, plusieurs, quelque, son, tel, tout, toute, un, une, un~, u~</li>
       </ul>
     </td>
   </tr>
@@ -453,7 +454,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: aucun, ce, certain, le, plusieurs, quel, tel, tout, un</li>
+      <li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: aucun, ce, certain, le, plusieurs, tel, tout, un</li>
       </ul>
     </td>
   </tr>
@@ -490,7 +491,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): aller, avoir, devoir, faire, pouvoir, vouloir, être</li>
+      <li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): avoir, faire, être</li>
       </ul>
     </td>
   </tr>
@@ -527,7 +528,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: aller, avoir, devoir, faire, pouvoir, vouloir, être</li>
+      <li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: avoir, faire, être</li>
       </ul>
     </td>
   </tr>
@@ -879,7 +880,6 @@ udver: '2'
         <li>Fem
           <ul>
             <li>ADJ: première, française, grande, même, nouvelle, toutes, nombreuses, nationale, autres, seule</li>
-            <li>ADV: grâce, suite, face, Grace</li>
             <li>AUX-Part: faite</li>
             <li>DET: la, une, les, l', sa, cette, des, ses, son, leur</li>
             <li>NOUN: ville, partie, région, fois, commune, années, famille, année, fin, place</li>
@@ -898,9 +898,9 @@ udver: '2'
           <ul>
             <li>ADJ: première, grande, nouvelle, plusieurs, dernière, dernières, nombreuses, nouvelles, autres, deuxième</li>
             <li>ADP: dont</li>
-            <li>DET: la, les, une, l', l’, des, cette, de, toute, ces</li>
+            <li>DET: la, les, une, l', l’, sa, des, cette, leur, ses</li>
             <li>NOUN: années, guerre, partie, ville, année, fois, mer, personnes, région, histoire</li>
-            <li>PRON: sa, qui, elle, leur, se, ses, leurs, s', son, elles</li>
+            <li>PRON: qui, elle, se, s', elles, s’, l', laquelle, que, celle</li>
             <li>PROPN: Chine, Amérique, Europe, Australie, France, Italie, Afrique, Albanie, Grande-Bretagne, Méditerranée</li>
             <li>SCONJ: que</li>
             <li>VERB: composée, dirigée, apparue, devenue, utilisée, considérée, considérées, déroulée, détruite, faite</li>
@@ -981,11 +981,10 @@ udver: '2'
           <ul>
             <li>ADJ: premier, français, tous, grand, autres, nouveau, même, dernier, nombreux, seul</li>
             <li>ADJ-Part: informé</li>
-            <li>ADV: vis-à-vis, Nombre, RAS, bien, mieux</li>
             <li>AUX-Part: été, fait</li>
             <li>DET: le, les, un, l', son, des, ce, ses, ces, de</li>
             <li>NOUN: ans, pays, nom, monde, temps, groupe, siècle, état, cours, lieu</li>
-            <li>NUM: milliards</li>
+            <li>NUM: milliards, millions</li>
             <li>PRON: il, on, ils, le, un, -il, lequel, celui, ceux, tout</li>
             <li>PROPN: IRT, Imperium, Palais, mémorique</li>
             <li>SYM: M, k</li>
@@ -1003,12 +1002,12 @@ udver: '2'
           <ul>
             <li>ADJ: autres, grand, général, nouveaux, plusieurs, certains, nouveau, chaque, dernier, nombreux</li>
             <li>ADP: dont, au-delà</li>
-            <li>AUX: été</li>
+            <li>AUX: été, fait</li>
             <li>AUX-Part: été</li>
-            <li>DET: le, les, un, l', des, l’, ce, ces, de, tout</li>
+            <li>DET: le, les, un, l', des, l’, son, ce, ses, ces</li>
             <li>NOUN: ans, nord, état, gouvernement, siècle, jour, monde, pays, sud, temps</li>
             <li>NUM: 1er, premier</li>
-            <li>PRON: il, qui, son, ils, se, s', ses, leur, lui, le</li>
+            <li>PRON: il, qui, ils, se, s', lui, le, -il, s’, eux</li>
             <li>PROPN: Trump, J.-C., États-Unis, Joseph, Donald, Gerry, Cameroun, Disney, Edgar, Mexique</li>
             <li>VERB: eu, déclaré, dit, fait, commencé, indiqué, décidé, joué, utilisé, compris</li>
             <li>VERB-Part: réalisé, dirigés, fondé, inscrits, passé, situé, Conçu, Enterré, abandonné, accompagné</li>
@@ -1046,36 +1045,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-      <ul>
-        <li>Neut
-          <ul>
-            <li>ADJ: Koninklijk</li>
-            <li>NOUN: Museum</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
     </td>
     <td width="14%" valign="top">
 
@@ -1181,7 +1150,6 @@ udver: '2'
         <li>Plur
           <ul>
             <li>ADJ: autres, tous, nombreux, toutes, nombreuses, grands, premières, premiers, grandes, différents</li>
-            <li>ADV: mieux</li>
             <li>AUX-Fin: sont, ont, étaient, avons, furent, avaient, seront, sommes, soient, auraient</li>
             <li>DET: les, des, ses, ces, de, plusieurs, leurs, quelques, d', certains</li>
             <li>NOUN: ans, années, pays, enfants, habitants, personnes, jours, droits, points, hommes</li>
@@ -1189,9 +1157,9 @@ udver: '2'
             <li>PRON: ils, nous, vous, autres, les, elles, ceux, eux, leur, tous</li>
             <li>PROPN: IRT</li>
             <li>SYM: k</li>
-            <li>VERB-Fin: ont, peuvent, font, doivent, sont, prennent, trouvent, vont, permettent, constituent</li>
+            <li>VERB-Fin: ont, peuvent, font, doivent, sont, prennent, trouvent, vont, permettent, allez</li>
             <li>VERB-Part: utilisés, appelés, utilisées, connus, situés, produits, réalisés, liées, mis, prises</li>
-            <li>X: Commons, Legends, Studies, Troubles, Windows, Archives, Arts, Workers</li>
+            <li>X: Archives, Arts, Commons, Legends, Studies, Troubles, Verbum, Windows</li>
           </ul>
         </li>
       </ul>
@@ -1203,12 +1171,12 @@ udver: '2'
             <li>ADJ: autres, plusieurs, nouveaux, certains, dernières, nombreuses, nouvelles, nombreux, quelques, telles</li>
             <li>ADP: dont</li>
             <li>AUX: ont, sont, avaient, étaient, furent, aient, auraient, avons, sommes, soient</li>
-            <li>DET: les, des, ces, de, d', tous, d’, toutes, The, e</li>
+            <li>DET: les, des, ses, ces, de, leurs, d', nos, d’, The</li>
             <li>NOUN: années, ans, personnes, entreprises, dollars, jours, euros, femmes, gens, mois</li>
-            <li>PRON: qui, ils, ses, nous, se, leurs, vous, eux, elles, s'</li>
+            <li>PRON: qui, ils, nous, se, vous, eux, elles, s', ceux, lesquelles</li>
             <li>PROPN: États-Unis, Caraïbes, Alpes, Andes, Antilles, Balkans, Boeing, Forums, Humblebums, News</li>
             <li>SCONJ: que</li>
-            <li>VERB: peuvent, sont, ont, pourraient, étaient, font, devons, avaient, commencent, devraient</li>
+            <li>VERB: peuvent, sont, ont, pourraient, étaient, devons, font, avaient, commencent, devraient</li>
             <li>VERB-Part: dirigés, inscrits, suivies, Financées, accompagnés, accumulées, accusées, appliquées, choisies, clos</li>
           </ul>
         </li>
@@ -1295,7 +1263,6 @@ udver: '2'
           <ul>
             <li>ADJ: premier, première, même, français, française, grand, grande, nouveau, autre, politique</li>
             <li>ADJ-Part: informé</li>
-            <li>ADV: grâce, suite, face, vis-à-vis, Grace, Nombre, RAS, bien</li>
             <li>AUX-Fin: est, a, était, fut, avait, ai, sera, soit, aurait, fait</li>
             <li>AUX-Part: été, fait, faite</li>
             <li>DET: le, la, l', un, une, son, sa, cette, ce, leur</li>
@@ -1305,7 +1272,7 @@ udver: '2'
             <li>SYM: M</li>
             <li>VERB-Fin: a, peut, fait, est, trouve, devient, doit, permet, agit, faut</li>
             <li>VERB-Part: né, située, situé, eu, fait, mort, connu, nommé, née, réalisé</li>
-            <li>X: Airplane, An, Center, Chancellor, Devil, National, Requiem, Science, Theater, World</li>
+            <li>X: Airplane, An, Black, Book, Bound, Center, Chancellor, College, Concept, Devil</li>
             <li>X-Part: Bound</li>
           </ul>
         </li>
@@ -1319,12 +1286,12 @@ udver: '2'
             <li>ADP: dont, au-delà</li>
             <li>AUX: a, est, été, était, avait, fut, ai, soit, aurait, serait</li>
             <li>AUX-Part: été</li>
-            <li>DET: le, la, l', un, une, l’, cette, ce, the, de</li>
+            <li>DET: le, la, l', un, une, l’, son, sa, cette, leur</li>
             <li>NOUN: guerre, partie, ville, nord, année, état, sud, gouvernement, mer, siècle</li>
             <li>NUM: 1er, premier</li>
-            <li>PRON: il, qui, son, sa, elle, leur, se, on, je, s'</li>
+            <li>PRON: il, qui, elle, se, on, je, s', lui, s’, le</li>
             <li>PROPN: Chine, Hong, Kong, Paris, Trump, Pékin, J.-C., Amérique, Europe, Londres</li>
-            <li>VERB: a, est, peut, dit, fait, eu, déclaré, avait, était, pourrait</li>
+            <li>VERB: a, est, peut, dit, eu, déclaré, fait, avait, était, pourrait</li>
             <li>VERB-Part: dirigée, réalisé, fondé, menée, passé, situé, Conçu, Enterré, Formée, Reconnue</li>
           </ul>
         </li>
@@ -2316,8 +2283,8 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>AUX: était, avait, avaient, étaient, avais, étais, étions</li>
-            <li>VERB: avait, était, étaient, pouvait, comprenait, faisait, pensait, avaient, considérait, allait</li>
+            <li>AUX: était, avait, avaient, étaient, avais, faisaient, faisait, étais, étions</li>
+            <li>VERB: avait, était, étaient, pouvait, comprenait, pensait, avaient, considérait, faisait, allait</li>
           </ul>
         </li>
       </ul>
@@ -2693,7 +2660,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: le, les, la, l', une, un, des, d', de</li>
+            <li>DET: le, les, la, l', une, un, des, d', de, du</li>
           </ul>
         </li>
       </ul>
@@ -2750,7 +2717,7 @@ udver: '2'
         <li>Dem
           <ul>
             <li>ADJ: tel</li>
-            <li>DET: des, ce, cette, ces, cet, de, d', telles, du</li>
+            <li>DET: ce, cette, ces, cet, de, d', Des, telles</li>
             <li>PRON: c', ce, cela, ceux, ça, ceci, celui, -ce, celle, celui-ci</li>
           </ul>
         </li>
@@ -2862,7 +2829,8 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>PRON: qui, qu', que, Laquelle, quoi, Lesquelles</li>
+            <li>ADV: où, quand</li>
+            <li>PRON: qui, qu', que, quoi, Laquelle, Lesquelles</li>
           </ul>
         </li>
       </ul>
@@ -2965,7 +2933,8 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: son, sa, ses, leur, leurs, notre, nos, mon, votre, My</li>
+            <li>DET: son, sa, ses, leur, leurs, notre, nos, mon, votre, ma</li>
+            <li>PRON: My, sienne</li>
           </ul>
         </li>
       </ul>
@@ -3017,8 +2986,9 @@ udver: '2'
       <ul>
         <li>Rel
           <ul>
-            <li>ADV: où, ou, oà</li>
+            <li>ADV: où, ou</li>
             <li>PRON: qui, dont, qu', que, lequel, laquelle, lesquels, lesquelles, quoi</li>
+            <li>SCONJ: que</li>
           </ul>
         </li>
       </ul>
@@ -3237,7 +3207,9 @@ udver: '2'
       </ul>
     </td>
     <td width="14%" valign="top">
-
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
@@ -3287,7 +3259,13 @@ udver: '2'
       </ul>
     </td>
     <td width="14%" valign="top">
-
+      <ul>
+        <li>Yes
+          <ul>
+            <li>DET: son, sa, ses, leur, leurs, notre, nos, mon, votre, ma</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
@@ -3464,7 +3442,8 @@ udver: '2'
         <li>1
           <ul>
             <li>AUX: ai, avons, sommes, suis, avais, serais, étais, étions</li>
-            <li>PRON: je, nous, notre, nos, j’, j', me, mon, m’, My</li>
+            <li>DET: notre, nos, mon, ma, mes, My</li>
+            <li>PRON: je, nous, j’, j', me, m’, moi, My, m'</li>
             <li>VERB: devons, Disons, allons, comprends, pense, pensons, pouvons, Love, Thought, adorais</li>
           </ul>
         </li>
@@ -3536,7 +3515,8 @@ udver: '2'
         <li>2
           <ul>
             <li>AUX: avez</li>
-            <li>PRON: vous, votre, You, toi, 'Ya, se, vos</li>
+            <li>DET: votre, vos</li>
+            <li>PRON: vous, You, toi, 'Ya, se</li>
             <li>VERB: devez, Buck, Don’t, Knew, Knuck, Laisse, Tiens, Voilà, avez, disputez</li>
           </ul>
         </li>
@@ -3618,7 +3598,8 @@ udver: '2'
         <li>3
           <ul>
             <li>AUX: a, est, ont, sont, était, avait, fut, avaient, étaient, furent</li>
-            <li>PRON: il, y, se, son, sa, elle, ils, ses, leur, s'</li>
+            <li>DET: son, sa, ses, leur, leurs, Her, sar</li>
+            <li>PRON: il, y, se, elle, ils, s', on, s’, lui, le</li>
             <li>VERB: a, est, peut, avait, était, peuvent, pourrait, sont, ont, pourraient</li>
           </ul>
         </li>
@@ -3738,7 +3719,7 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>PRON: leur, leurs, notre, nos, votre, vos</li>
+            <li>DET: leur, leurs, notre, nos, votre, vos</li>
           </ul>
         </li>
       </ul>
@@ -3767,7 +3748,8 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>PRON: son, sa, ses, mon, My, ma, mes, sar, sienne</li>
+            <li>DET: son, sa, ses, mon, ma, mes, My, sar</li>
+            <li>PRON: My, sienne</li>
           </ul>
         </li>
       </ul>
@@ -3813,7 +3795,24 @@ udver: '2'
 
     </td>
     <td width="14%" valign="top">
-
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>CCONJ: and</li>
+                <li>NOUN: Records, lugsail</li>
+                <li>NUM: 1832, 1833, 1834, 1919, 1920, 2000, 4, 50</li>
+                <li>PROPN: Ricky, Riverside</li>
+                <li>PUNCT: ,</li>
+                <li>SYM: &</li>
+                <li>X: of, the, and, in, for, Company, a, to, your, me</li>
+                <li>X-Part: Bound</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
@@ -3821,7 +3820,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>X: Este, Greco, Mei, Mundo, Nostrum, Ping, Píanó, Rasa, Rós, Skylark</li>
+                <li>X: Este, Greco, Mare, Mei, Mundo, Nostrum, Ping, Píanó, Rasa, Rós</li>
               </ul>
             </li>
           </ul>
@@ -3853,9 +3852,9 @@ udver: '2'
               <ul>
                 <li>ADJ: bonne, cuite, exemptent, impeccaple, influant, influent, légèr, saoudite</li>
                 <li>ADP: des, apres, en, entres</li>
-                <li>ADV: voir, la, prés, ou</li>
-                <li>AUX-Fin: on, son, était</li>
-                <li>DET: le</li>
+                <li>ADV: ou, voir, la, oà, prés</li>
+                <li>AUX-Fin: avait, on, son, était</li>
+                <li>DET: le, sont</li>
                 <li>INTJ: Et</li>
                 <li>NOUN: groupe, Acceuil, Série, attaque, correspondant, coup, enrégistrements, modèle, parti, partisans</li>
                 <li>PART: ci, là</li>
@@ -3865,7 +3864,7 @@ udver: '2'
                 <li>VERB: Voila, crée, créé, pourrait, Surnommé, accueilli, accusent, affilé, affilées, affrontent</li>
                 <li>VERB-Fin: pourrait, accueilli, accusent, affrontent, comporte, concentre, considèrent, constitue, date, devraient</li>
                 <li>VERB-Inf: entammer, intaller</li>
-                <li>VERB-Part: crée, créé, Surnommé, affilé, affilées, devenu, dépendent, dérivaient, franchit, partit</li>
+                <li>VERB-Part: crée, créé, Surnommé, affilé, affilées, classifié, devenu, dit, dépendent, dérivaient</li>
                 <li>X: durint</li>
               </ul>
             </li>
@@ -3954,7 +3953,6 @@ udver: '2'
   <tr>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, être.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être.</li>
       </ul>
     </td>
@@ -3966,13 +3964,11 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, être.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
       </ul>
     </td>
@@ -3984,13 +3980,12 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, être.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, pouvoir, vouloir, être, devoir, aller, faire.</li>
+      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, être.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être.</li>
       </ul>
     </td>
@@ -4044,18 +4039,17 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (4)</li>
-            <li>VERB--PRON (1)</li>
-            <li>VERB-Fin--NOUN (4414)</li>
-            <li>VERB-Fin--NOUN-ADP(de) (1)</li>
+            <li>VERB--NOUN (3)</li>
+            <li>VERB-Fin--NOUN (4447)</li>
+            <li>VERB-Fin--NOUN-ADP(de) (2)</li>
             <li>VERB-Fin--NOUN-ADP(à) (1)</li>
-            <li>VERB-Fin--PRON (6345)</li>
+            <li>VERB-Fin--PRON (5889)</li>
             <li>VERB-Fin--PRON-ADP(à) (1)</li>
             <li>VERB-Inf--NOUN (1)</li>
             <li>VERB-Inf--PRON (2)</li>
-            <li>VERB-Part--NOUN (1416)</li>
+            <li>VERB-Part--NOUN (1413)</li>
             <li>VERB-Part--NOUN-ADP(de) (1)</li>
-            <li>VERB-Part--PRON (1485)</li>
+            <li>VERB-Part--PRON (1469)</li>
           </ul>
         </li>
       </ul>
@@ -4067,8 +4061,8 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (561)</li>
-            <li>VERB--PRON (469)</li>
+            <li>VERB--NOUN (559)</li>
+            <li>VERB--PRON (464)</li>
             <li>VERB-Part--NOUN (2)</li>
           </ul>
         </li>
@@ -4103,9 +4097,9 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB-Fin--NOUN (794)</li>
-            <li>VERB-Fin--PRON (1010)</li>
+            <li>VERB-Fin--PRON (869)</li>
             <li>VERB-Part--NOUN (306)</li>
-            <li>VERB-Part--PRON (223)</li>
+            <li>VERB-Part--PRON (213)</li>
           </ul>
         </li>
       </ul>
@@ -4117,10 +4111,9 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (190)</li>
+            <li>VERB--NOUN (218)</li>
             <li>VERB--NOUN-ADP(de) (1)</li>
-            <li>VERB--NOUN-ADP(de+le) (5)</li>
-            <li>VERB--PRON (2186)</li>
+            <li>VERB--PRON (2368)</li>
           </ul>
         </li>
       </ul>
@@ -4131,16 +4124,13 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (264)</li>
+            <li>VERB-Fin--NOUN (267)</li>
             <li>VERB-Fin--NOUN-ADP(de) (4)</li>
-            <li>VERB-Fin--NOUN-ADP(du) (3)</li>
             <li>VERB-Fin--PRON (70)</li>
-            <li>VERB-Inf--NOUN (136)</li>
+            <li>VERB-Inf--NOUN (137)</li>
             <li>VERB-Inf--NOUN-ADP(de) (1)</li>
-            <li>VERB-Inf--NOUN-ADP(de_le) (1)</li>
             <li>VERB-Inf--PRON (29)</li>
-            <li>VERB-Part--NOUN (191)</li>
-            <li>VERB-Part--NOUN-ADP(de_le) (1)</li>
+            <li>VERB-Part--NOUN (192)</li>
             <li>VERB-Part--PRON (14)</li>
           </ul>
         </li>
@@ -4170,17 +4160,17 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--NOUN (20)</li>
-            <li>VERB--PRON (5)</li>
-            <li>VERB-Fin--NOUN (5179)</li>
+            <li>VERB--PRON (4)</li>
+            <li>VERB-Fin--NOUN (5130)</li>
             <li>VERB-Fin--NOUN-ADP(pour) (1)</li>
             <li>VERB-Fin--NOUN-ADP(à) (1)</li>
-            <li>VERB-Fin--PRON (1121)</li>
-            <li>VERB-Inf--NOUN (2690)</li>
-            <li>VERB-Inf--PRON (629)</li>
-            <li>VERB-Part--NOUN (2117)</li>
+            <li>VERB-Fin--PRON (1117)</li>
+            <li>VERB-Inf--NOUN (2681)</li>
+            <li>VERB-Inf--PRON (624)</li>
+            <li>VERB-Part--NOUN (2113)</li>
             <li>VERB-Part--NOUN-ADP(de) (1)</li>
             <li>VERB-Part--NOUN-ADP(en) (1)</li>
-            <li>VERB-Part--PRON (363)</li>
+            <li>VERB-Part--PRON (365)</li>
           </ul>
         </li>
       </ul>
@@ -4189,8 +4179,8 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (770)</li>
-            <li>VERB--PRON (219)</li>
+            <li>VERB--NOUN (767)</li>
+            <li>VERB--PRON (217)</li>
             <li>VERB-Part--NOUN (39)</li>
             <li>VERB-Part--PRON (2)</li>
           </ul>
@@ -4211,7 +4201,7 @@ udver: '2'
             <li>VERB-Inf--NOUN (340)</li>
             <li>VERB-Inf--PRON (65)</li>
             <li>VERB-Inf--PRON-ADP(de) (1)</li>
-            <li>VERB-Part--NOUN (132)</li>
+            <li>VERB-Part--NOUN (131)</li>
             <li>VERB-Part--PRON (41)</li>
           </ul>
         </li>
@@ -4221,17 +4211,15 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (643)</li>
-            <li>VERB-Fin--NOUN-ADP(de) (5)</li>
+            <li>VERB-Fin--NOUN (648)</li>
             <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (2)</li>
             <li>VERB-Fin--PRON (146)</li>
-            <li>VERB-Inf--NOUN (686)</li>
-            <li>VERB-Inf--NOUN-ADP(de) (4)</li>
+            <li>VERB-Inf--NOUN (689)</li>
+            <li>VERB-Inf--NOUN-ADP(de) (1)</li>
             <li>VERB-Inf--NOUN-ADP(jusque)-ADP(à) (1)</li>
             <li>VERB-Inf--NOUN-ADP(à) (1)</li>
             <li>VERB-Inf--PRON (76)</li>
-            <li>VERB-Part--NOUN (487)</li>
-            <li>VERB-Part--NOUN-ADP(de) (7)</li>
+            <li>VERB-Part--NOUN (494)</li>
             <li>VERB-Part--PRON (61)</li>
           </ul>
         </li>
@@ -4241,11 +4229,13 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (887)</li>
-            <li>VERB--NOUN-ADP(de) (24)</li>
-            <li>VERB--NOUN-ADP(de+le) (5)</li>
-            <li>VERB--NOUN-ADP(d~) (1)</li>
-            <li>VERB--PRON (539)</li>
+            <li>VERB--NOUN (874)</li>
+            <li>VERB--NOUN-ADP(de) (20)</li>
+            <li>VERB--NOUN-ADP(que) (1)</li>
+            <li>VERB--NOUN-ADP(sur) (1)</li>
+            <li>VERB--PRON (545)</li>
+            <li>VERB--PRON-ADP(de) (1)</li>
+            <li>VERB--PRON-ADP(à) (1)</li>
           </ul>
         </li>
       </ul>
@@ -4282,9 +4272,9 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Fin--PRON (431)</li>
-            <li>VERB-Inf--PRON (151)</li>
-            <li>VERB-Part--PRON (194)</li>
+            <li>VERB-Fin--PRON (467)</li>
+            <li>VERB-Inf--PRON (160)</li>
+            <li>VERB-Part--PRON (207)</li>
           </ul>
         </li>
       </ul>
@@ -4324,7 +4314,7 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--PRON (363)</li>
+            <li>VERB--PRON (369)</li>
           </ul>
         </li>
       </ul>
@@ -4364,7 +4354,7 @@ udver: '2'
       <h3>Reflexive Passive</h3>
       
       <ul>
-        <li>This corpus contains 223 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: trouver se, situer se, faire se, développer se, tenir se, retrouver se, étendre s', terminer se, poursuivre se, élever s', rencontrer se, ajouter s', classer se, distinguer se, appliquer s', produire se, tenir s', imposer s', jouer se, nommer se, présenter se, appeler s', inscrire s', qualifier se, expliquer s', traduire se, achever s', concentrer se, manifester se, ouvrir s', aggraver s', améliorer s', appuyer s', effectuer s', produire s', transformer se, vendre se, arrêter s', articuler s', distinguer s', dresser se, endormir s', former se, installer s', placer se, établir s', accompagner s', allonger s', annoncer s', briser se</li>
+        <li>This corpus contains 222 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: trouver se, situer se, faire se, développer se, tenir se, retrouver se, étendre s', terminer se, poursuivre se, élever s', rencontrer se, ajouter s', classer se, distinguer se, appliquer s', produire se, tenir s', imposer s', jouer se, nommer se, présenter se, inscrire s', qualifier se, expliquer s', traduire se, achever s', concentrer se, manifester se, ouvrir s', aggraver s', améliorer s', appuyer s', effectuer s', produire s', transformer se, vendre se, arrêter s', articuler s', distinguer s', dresser se, endormir s', former se, installer s', placer se, établir s', accompagner s', allonger s', annoncer s', briser se, décomposer se</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -4374,7 +4364,11 @@ udver: '2'
 
     </td>
     <td width="14%" valign="top">
-
+      <h3>Reflexive Passive</h3>
+      
+      <ul>
+        <li>This corpus contains 44 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: inscrire s', casser se, justifier se, maintenir s', appliquer s', expliquer s', retrouver se, étendre s', affaiblir s', agrandir s', cantonner s', changer se, concrétiser se, cristalliser se, desserrer se, développer s', effacer s', effectuer s', enliser s', faire se, glisser se, imposer s', jouer se, limiter s', limiter se, manifester se, mettre se, observer s', opérer s', ouvrir s', payer se, placer se, poser se, poursuivre se, rapporter se, rattacher se, retourner se, stabiliser se, tenir se, terminer s', terminer se, éclaircir s', établir s', étaler s'</li>
+      </ul>
     </td>
     <td width="14%" valign="top">
 
@@ -4399,7 +4393,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: connaître soi-même, célébrer nous-mêmes</li>
+        <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: célébrer nous-mêmes</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -4427,8 +4421,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
-      <li>The following 2 main types are not used alone, they are always subtyped: <a>flat</a>, <a>obl</a></li>
+      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>expl:comp</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
+      <li>The following 4 main types are not used alone, they are always subtyped: <a>aux</a>, <a>expl</a>, <a>flat</a>, <a>obl</a></li>
       <li>The following 7 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
       </ul>
     </td>
@@ -4444,7 +4438,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
+      <li>This corpus uses 19 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>csubj:pass</a>, <a>expl:comp</a>, <a>expl:pass</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
+      <li>The following 3 main types are not used alone, they are always subtyped: <a>aux</a>, <a>expl</a>, <a>flat</a></li>
       <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a></li>
       </ul>
     </td>
@@ -4452,7 +4447,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>csubj:pass</a>, <a>expl:comp</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:mod</a></li>
+      <li>The following 3 main types are not used alone, they are always subtyped: <a>aux</a>, <a>expl</a>, <a>flat</a></li>
       <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
       </ul>
     </td>
@@ -4468,8 +4464,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
-      <li>The following 2 main types are not used alone, they are always subtyped: <a>flat</a>, <a>obl</a></li>
+      <li>This corpus uses 18 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>csubj:pass</a>, <a>expl:comp</a>, <a>expl:pass</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
+      <li>The following 4 main types are not used alone, they are always subtyped: <a>aux</a>, <a>expl</a>, <a>flat</a>, <a>obl</a></li>
       <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
       </ul>
     </td>
@@ -4477,9 +4473,9 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 23 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>advcl:periph</a>, <a>advmod:periph</a>, <a>appos:conj</a>, <a>appos:nmod</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>conj:coord</a>, <a>conj:dicto</a>, <a>csubj:pass</a>, <a>dep:iobj</a>, <a>dep:obj</a>, <a>nsubj:caus</a>, <a>nsubj:expl</a>, <a>nsubj:pass</a>, <a>obl:comp</a>, <a>obl:mod</a>, <a>obl:periph</a>, <a>parataxis:discourse</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>parataxis:parenth</a></li>
-      <li>The following 3 main types are not used alone, they are always subtyped: <a>appos</a>, <a>conj</a>, <a>parataxis</a></li>
-      <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>expl:subj</a>, <a>nmod:appos</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:insert</a>, <a>parataxis:parenth</a></li>
+      <li>The following 2 main types are not used alone, they are always subtyped: <a>expl</a>, <a>obl</a></li>
+      <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
       </ul>
     </td>
   </tr>
