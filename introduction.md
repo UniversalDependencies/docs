@@ -144,6 +144,10 @@ UD is an open collaboration with many project members. The administrative struct
 
 * Kim Gerdes, Bruno Guillaume, Sylvain Kahane, Guy Perrier. 2019. [Improving Surface-syntactic Universal Dependencies (SUD): surface-syntactic functions and deep-syntactic features](https://www.aclweb.org/anthology/W19-7814.pdf), _Proceedings of the 17th international conference on Treebanks and Linguistic Theories (TLT)_, SyntaxFest, Paris.
 
+* Anssi Yli-Jyrä. 2019. [Transition-Based Coding and Formal Language Theory for Ordered Digraphs](https://www.aclweb.org/anthology/W19-3115/), _Proceedings of the 14th International Conference on Finite-State Methods and Natural Language Processing (FSMNLP, Dresden, Germany, 23–25 September 2019)_, pp. 118–131.  SIGFSM, Association for Computational Linguistics.
+
+* Anssi Yli-Jyrä. 2019. [How to embed noncrossing trees in Universal Dependencies treebanks in a low-complexity regular language](https://doi.org/10.15398/jlm.v7i2.213). _Journal of Language Modelling_, 7(2):177-232.
+
 ### 2018
 
 * [_Proceedings of the Second Workshop on Universal Dependencies_](https://www.aclweb.org/anthology/W18-6000.pdf), UDW 2018, EMNLP,Brussels.
@@ -201,6 +205,8 @@ UD is an open collaboration with many project members. The administrative struct
   Sookyoung Kwak, Gustavo Mendonça, Tatiana Lando, Rattima Nitisaroj, Josie Li. 2017.
   [CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](https://www.aclweb.org/anthology/K17-3001.pdf).
   In *Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies*, pp. 1-19.
+
+* Anssi Yli-Jyrä. 2017. [Bounded-Depth High-Coverage Search Space for Noncrossing Parses](https://www.aclweb.org/anthology/W17-4007.pdf). In _Proceedings of the 13th International Conference on Finite State Methods and Natural Language Processing (FSMNLP 2017, Umeå, Sweden, 4-6 September 2017)_, pp. 30-40. SIGFSM, Association for Computational Linguistics.
 
 ### 2016
 
