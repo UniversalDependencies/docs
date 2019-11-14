@@ -55,7 +55,8 @@ If you want to discuss individual annotation questions, use the
 The data is released through LINDAT/CLARIN.
 
 * The next release (v2.5) is scheduled for November 15, 2019 (data freeze on November 1).
-* Version 2.4 treebanks are available at <a href="http://hdl.handle.net/11234/1-2988">http://hdl.handle.net/11234/1-2988</a>. 146 treebanks, 83 languages, released May 15, 2019.
+* Version 2.5 treebanks are available at <a href="http://hdl.handle.net/11234/1-3105">http://hdl.handle.net/11234/1-3105</a>. 157 treebanks, 90 languages, released November 15, 2019.
+* Version 2.4 treebanks are archived at http://hdl.handle.net/11234/1-2988. 146 treebanks, 83 languages, released May 15, 2019.
 * Version 2.3 treebanks are archived at http://hdl.handle.net/11234/1-2895. 129 treebanks, 76 languages, released November 15, 2018.
 * Version 2.2 treebanks are archived at http://hdl.handle.net/11234/1-2837. 122 treebanks, 71 languages, released July 1, 2018.
 * Version 2.1 treebanks are archived at http://hdl.handle.net/11234/1-2515. 102 treebanks, 60 languages, released November 15, 2017.
