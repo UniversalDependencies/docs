@@ -61,7 +61,7 @@ The UD Treebank is split into two sets as follows:
 
 * 454 trees (test)
 * 451 trees (dev)
-* 566 trees (train)
+* 858 trees (train)
 
 Note: the 451 dev trees were taken from the set of newly annotated trees. The rest of the newly annotated trees have been added to the
 training set.
