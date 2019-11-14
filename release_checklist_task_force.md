@@ -109,7 +109,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
   they can be reached at lindat-help@ufal.mff.cuni.cz).
   **Update November 2019: They actually create XML and HTML documents from it. To reduce manual work on both sides,
-  we could generate these documents directly. See e-mail from Ondřej Košarko on 13.11.2019.**<br />
+  we could generate these documents directly. See e-mail from Ondřej Košarko on 13.11.2019.
+  See also my notes in the README file of the LICENSE repository.**<br />
   <code>( for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; grep -i license: README* ; cd .. ; echo ; done ) |&amp; less</code>
 * Once the Lindat staff make the new license list available in their system, we can create
   a new Lindat item for the new version of UD. The preferable way: Create the new item as
