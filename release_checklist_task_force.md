@@ -135,6 +135,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Update the title page of Universal Dependencies. Send out announcement to ud@stp.lingfil.uu.se, corpora@uib.no, ACL list etc.
 * Upload the data to the search engines (PML-TQ, Kontext, SETS etc.)
 * Check the issues of the docs repository on Github, close the ones that have been solved, and create a new milestone for the others.
+* Generate Deep UD based on the new UD release.
 
 <small><code style='color:lightgrey'>
 \# copy metadata to biblio<br />
