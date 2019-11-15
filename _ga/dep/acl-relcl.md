@@ -37,3 +37,13 @@ _Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le (...) daoine áirith
 Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas (...) le daoine áirithe a iompú in aghaidh na hEaglaise inar rugadh iad \n Used loyalty for-the Church Established as instrument (...) with people certain to-turn against the Church in-which were-born they
 acl:relcl(hEaglaise, rugadh)
 ~~~
+
+NOTE: There are also examples of embedded relative clauses introduced by the copula, as shown below.
+
+_...go raibh 49% de <b>pháistí</b>, <b>ar</b> <b>Naíonáin</b> Shinsearacha iad an bhliain sin,..._  '...that 49% of <b>children</b>, <b>who</b> where <b>Senior</b> Infants that year,...' 
+
+~~~ sdparse
+...go raibh 49% de pháistí, ar Naíonáin Shinsearacha iad an bhliain sin,... \n ...to that 49% of children, of_whom Infants Senior were_they the year that,...
+acl:relcl(pháistí, Naíonáin)
+cop(Naíonáin, ar)
+~~~
