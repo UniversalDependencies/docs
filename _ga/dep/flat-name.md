@@ -24,7 +24,7 @@ flat:name(Seosaimhín, Ní)
 flat:name(Seosaimhín, Bheaglaoich)
 ~~~ 
 
-NOTE: Personal names appearing in any language are treated as flat:name relations (see below). 
+NOTE: Personal names appearing in any language are treated as `flat:name` relations (see below). 
 
 _muintir Kennedy, Marilyn <b>Monroe</b>, Sam <b>Giancano</b>, Judith <b>Cambell</b> agus an FBI._ the Kennedy family, Marilyn <b>Monroe</b>, Sam <b>Giancano</b>, Judith <b>Cambell</b> and the FBI.
 
