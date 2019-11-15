@@ -22,7 +22,7 @@ flat:foreign(The, Island)
 _a thugann siad do Bhaile Átha Cliath agus Béal Feirste, 'in <b>the</b> <b>two</b> <b>parts</b> <b>of</b> <b>this</b> <b>island</b>'._ 'that they give to Dublin and Belfast, 'in <b>the</b> <b>two</b> <b>parts</b> <b>of</b> <b>this</b> <b>island</b>''
 
 ~~~ sdparse
-a thugann siad do Bhaile Átha Cliath agus Béal Feirste, ' in the two parts of this island ' \n that give they to Dublin [] [] and Belfast [] '
+a thugann siad do Bhaile Átha Cliath agus Béal Feirste, ' in the two parts of this island ' \n that give they to Dublin [] [] and Belfast [], ' in the two parts of this island '
 flat:foreign(in, the)
 flat:foreign(in, two)
 flat:foreign(in, parts)
