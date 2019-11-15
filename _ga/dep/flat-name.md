@@ -29,7 +29,7 @@ NOTE: Personal names appearing in any language are treated as flat:name relation
 _muintir Kennedy, Marilyn <b>Monroe</b>, Sam <b>Giancano</b>, Judith <b>Cambell</b> agus an FBI._ the Kennedy family, Marilyn <b>Monroe</b>, Sam <b>Giancano</b>, Judith <b>Cambell</b> and the FBI.
 
 ~~~ sdparse
-muintir Kennedy, Marilyn Monroe, Sam Giancano, Judith Cambell agus an FBI. \n people Kennedy, Marilyn Monroe, Sam Giancano, Judith Cambell and the FBI.
+muintir Kennedy, Marilyn Monroe , Sam Giancano , Judith Cambell agus an FBI. \n people Kennedy, Marilyn Monroe, Sam Giancano, Judith Cambell and the FBI.
 flat:name(Marilyn, Monroe)
 flat:name(Sam, Giancano)
 flat:name(Judith, Cambell)
