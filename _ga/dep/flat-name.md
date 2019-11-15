@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 
-In UD Irish, this not only includes surnames, but also surname particles such as _Mac_, _Mc_, _Ó_, _de_, _Uí_ and _Ní_.
+In UD Irish, this not only includes surnames, but also surname particles such as _Ó_, _Mac_, _Mag_, _Mc_ _Uí_, _Ua_, _Ní_, _Nig_, _Nic_
 
 _Is mian linn ár mbuíochas a chur in iúl go háirithe do Sheán <b>Ó Gallchóir</b>_ `We want to express our thanks in particular to John <b>Gallagher</b>'
 
@@ -22,4 +22,15 @@ _Iriseoir agus craoltóir le Raidió na Gaeltachta i mBaile Átha Cliath í Seos
 Iriseoir agus craoltóir le Raidió na Gaeltachta i mBaile Átha Cliath í Seosaimhín Ní Bheaglaoich \n Journalist and broadcaster with Radio of-the Gaeltacht in Dublin is Seosaimhín Ní Bheaglaoich
 flat:name(Seosaimhín, Ní)
 flat:name(Seosaimhín, Bheaglaoich)
+~~~ 
+
+NOTE: Personal names appearing in any language are treated as flat:name relations (see below). 
+
+muintir Kennedy, Marilyn <b>Monroe</b>, Sam <b>Giancano</b>, Judith <b>Cambell</b> agus an FBI.
+
+~~~ sdparse
+muintir Kennedy, Marilyn Monroe, Sam Giancano, Judith Cambell agus an FBI. \n people Kennedy, Marilyn Monroe, Sam Giancano, Judith Cambell and the FBI.
+flat:name(Marilyn, Monroe)
+flat:name(Sam, Giancano)
+flat:name(Judith, Cambell)
 ~~~ 
