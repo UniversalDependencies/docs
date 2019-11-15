@@ -38,6 +38,7 @@ If you would like to have your tool added to this page, please write the
     * [DepEdit](#depedit)
     * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
     * [pyconll](#pyconll)
+    * [conllu](#conllu)
     * [Treex](#treex)
     * [UDPipe](#udpipe)
     * [UDAPI](#udapi)
@@ -346,6 +347,18 @@ The latest CoNLL-U 2.0 format is not yet supported.
 * Homepage: <https://pyconll.github.io/>
 * Documentation: <https://pyconll.readthedocs.io/en/latest/>
 
+#### conllu
+
+**conllu** is a python library that parses a CoNLL-U string into a nested python dictionary. 
+
+It's easily installable with "pip install conllu", has good documentation and a big test suite that ensures working code, and is very customizable, which means it also works for custom formats that are similar to CoNLL-U. It works with both Python 2 and Python 3.
+
+* Category: library
+* Platform: Any OS with Python 2 or Python 3 implementation
+* Implementation: Python 2 and Python 3
+* License: MIT License
+* Homepage: <https://pypi.org/project/conllu/>
+* Documentation: <https://github.com/EmilStenstrom/conllu/blob/master/README.md>
 
 #### Treex
 
