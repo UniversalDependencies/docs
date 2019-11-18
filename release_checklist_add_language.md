@@ -10,7 +10,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 # How to add a language to UD
 
-* Make sure the language name, ISO code, family and flag is listed in docs-automation in codes_and_flags.yaml.
+* Make sure the language name, ISO code, family and flag is listed in docs-automation in `codes_and_flags.yaml`.
 * Create the language collection in the docs repository. Run `addlanguage.sh langcode langname`
   (If the name of the language consists of multiple words, replace spaces by underscores.
   However, since fall 2017 the script uses the name of the language only in the report it issues,
