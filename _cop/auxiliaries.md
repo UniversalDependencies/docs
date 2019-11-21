@@ -10,6 +10,11 @@ The standard Coptic grammar posits many auxiliaries. The basic form of most Copt
 
 See also the documentation of the [aux]() relation.
 
+* _ⲟⲩⲛ_ – indefinite present marker
+* _ⲙⲛ_ – negative indefinite present marker
+* _ⲙⲛⲧⲉ_ – pronominal form of _ⲙⲛ_
+* _ϣⲁⲣⲉ_ – aorist aspect (it is generally the case that…), form for nominal
+subject
 * _ϣⲁ_ – aorist, form for pronominal subject
 * _ⲙⲉⲣⲉ_ – negative aorist (it is generally not the case), form for noun subject
 * _ⲙⲉ_ – negative aorist, form for pronoun subject
