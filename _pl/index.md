@@ -70,7 +70,7 @@ udver: '2'
 * The [Reflex]() feature marks so-called reflexive pronouns _(się, siebie)_ and determiners _(swój)_, even when they are not used reflexively or reciprocally.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
-  Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person. 
+  Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
   On the other hand, it is marked on finite verbs ([VERB](), [AUX]()).
 * A [layered feature](../../u/overview/feat-layers.html), [Number[psor]](),
   appears with certain possessive determiners and encodes the lexical number of the possessor.
@@ -86,7 +86,7 @@ udver: '2'
 
 ### Verbal Features
 
-* Typical Polish verbs (including auxiliaries) have lexical [Aspect](), either imperfective (`Imp`) or perfective (`Perf`). 
+* Typical Polish verbs (including auxiliaries) have lexical [Aspect](), either imperfective (`Imp`) or perfective (`Perf`).
   * There is, however, a class of verb-like words, marked as [VERB]() with the universal `VerbType` feature with the language-specific `Quasi` value, which do not inflect for person and do not have aspect.
   * On the other hand, the `Aspect` feature is used with de-verbal nouns (gerunds) and adjectives (participles), if they have the `VerbForm` feature.
 * Finite verbs have one of three values of [Mood](): `Ind`, `Imp` or `Cnd`. The conditional mood is only used with the conditional auxiliary (_by_). The imperative mood is marked on imperative forms of verbs, as well as on the imperative auxiliary (_niech_, and its variant _niechaj_).  All other finite verb forms, but not the “mobile inflection” auxiliaries (_m_, _śmy_, etc.), are marked for the indicative mood.
@@ -147,7 +147,9 @@ udver: '2'
 
 ### Relations Overview
 
-* The following [relation subtypes](https://universaldependencies.org/pl/dep/index.html) are used in Polish:
+This is an overview only. For more detailed discussion and examples, see the list of [Polish relations](dep/index.html).
+
+* The following relation subtypes are used in Polish:
   * [acl:relcl]() for relative clauses,
   * [advcl:cmpr]() for comparative clauses (as of release 2.5, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html))
   * [advcl:relcl]() for relative clause modifiers of clauses (as of release 2.5, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
