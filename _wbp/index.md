@@ -4,7 +4,7 @@ title:  'Warlpiri UD'
 udver: '2'
 ---
 
-# UD for Warlpiri <span class="flagspan"><img class="flag" src="../../flags/svg/AU.svg" /></span>
+# UD for Warlpiri <span class="flagspan"><img class="flag" src="../../flags/svg/AU-ABORIGINAL.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
