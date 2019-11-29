@@ -40,7 +40,7 @@ udver: '2'
   Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
   * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
   * Verbs can also cross-reference arguments other than the subject.
-    In order to distinguish features of different cross-references arguments, [layered features](../../u/overview/feat-layers.html)
+    In order to distinguish features of different cross-referenced arguments, [layered features](../../u/overview/feat-layers.html)
     have been introduced:
     [Person[obj]]() and [Number[obj]]() are features of the absolutive object.
     [Person[dat]]() and [Person[sdat]]() refer to a dative argument.
