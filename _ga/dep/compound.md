@@ -7,6 +7,8 @@ udver: '2'
 
 UD Irish uses the `compound` relation for noun compounding. In Irish, when two nouns are compounded, the second is in the genitive case. While the definition of compound can vary depending on the literature, for UD we take the compound relation to refer to any two or more words that are closely bound together in describing a discrete entity. By discrete we mean a compound noun often has a different, or more specific meaning than the individual components combined. 
 
+### Examples
+
 We currently define noun compounds as including compounding noun constructions. The absence of a definite article in certain noun-noun constructions may indicate whether a noun-noun construction is compound: where the noun dependent is indefinite, the construction is often compound, while the same construction with a definite noun dependent is often labelled as nmod. (i.e. deireadh seachtaine). Possible exception, example given below: ‘oifig an phoist’ -- depends on whether this construction is deemed non-compositional (office of the post) or compositional (Post Office).
 
 _Oifig an <b>Phoist</b>_ `<b>Post</b> Office'   (lit. Office of_the Post)
@@ -28,8 +30,6 @@ compound(mhic, léinn)
 
 If a noun-noun construction contains a word that does not occur outside of that specific construction, that is a strong indicator that the construction should be labelled as compound.
 Cúig déag (lit. ‘five teen’) ‘fifteen’
-
-### Examples
 
 _lucht <b>imirce</b>_ `<b>emigrants</b>'   (lit. crowd of_emigrating)
 
