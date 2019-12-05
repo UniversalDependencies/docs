@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2019-12-04T19:21:44Z">2019-12-04T19:21:44 zulu</time>
+Regenerated <time class="timeago" datetime="2019-12-05T07:59:12Z">2019-12-05T07:59:12 zulu</time>
 
 # Aux chain
 
