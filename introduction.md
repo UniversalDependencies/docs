@@ -152,6 +152,8 @@ UD is an open collaboration with many project members. The administrative struct
   [The Forest Lion and the Bull: Morphosyntactic Annotation of the Panchatantra](http://ufal.mff.cuni.cz/biblio/attachments/2018-zeman-p1924099829345317043.pdf).
   In: Computación y Sistemas, ISSN 1405-5546, vol. 22, no. 4, pp. 1377-1384.
 
+* N. Gruzitis, L. Pretkalnina, B. Saulite, L. Rituma, G. Nespore-Berzkalne, A. Znotins and P. Paikens. 2018. [Creation of a Balanced State-of-the-Art Multilayer Corpus for NLU](http://www.lrec-conf.org/proceedings/lrec2018/pdf/935.pdf). In *Proceedings of the 11th International Conference on Language Resources and Evaluation (LREC)*, pp. 4506-4513.
+
 * Sonja Marković, Daniel Zeman. 2018.
   [Reflexives in Universal Dependencies](http://www.ep.liu.se/ecp/155/ecp18155.pdf#page=139).
   In *Proceedings of the 17th International Workshop on Treebanks and Linguistic Theories (TLT 2018)*, pp. 131-146.
