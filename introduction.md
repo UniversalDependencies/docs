@@ -158,6 +158,8 @@ UD is an open collaboration with many project members. The administrative struct
 
 * Agnieszka Patejuk and Adam Przepiórkowski. 2018. [*From Lexical Functional Grammar to Enhanced Universal Dependencies: Linguistically informed treebanks of Polish*](http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf). Institute of Computer Science, Polish Academy of Sciences, Warsaw. (263 pages)
 
+* Lauma Pretkalniņa, Laura Rituma and Baiba Saulīte. 2018. [Deriving Enhanced Universal Dependencies from a Hybrid Dependency-Constituency Treebank](https://www.researchgate.net/publication/327520269). In *Text, Speech, and Dialogue*, vol. 11107, pp. 95-105.
+
 * Adam Przepiórkowski and Agnieszka Patejuk. 2018. [Arguments and adjuncts in Universal Dependencies](http://aclweb.org/anthology/C18-1324). In *Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)*, pages 3837–3852, Santa Fe, NM.
 
 * Sylvain Kahane, Marine Courtin, Kim Gerdes. 2018. [Multi-word annotation in syntactic treebanks: Propositions for Universal Dependencies](https://www.aclweb.org/anthology/W17-7622.pdff), _Proceedings of the 16th international conference on Treebanks and Linguistic Theories (TLT)_, Prague.
