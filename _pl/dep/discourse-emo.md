@@ -9,14 +9,14 @@ The `discourse:emo` relation is used in the Polish [PDB-UD](http://universaldepe
 
 ~~~ conllu
 # visual-style 2 9 discourse:emo color:blue
-1	Nie	nie	PART	part	Polarity=Neg	2	advmod:neg	2:advmod:neg	_
-2	ma	mieć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	co	co	PART	part	_	2	fixed	2:fixed	_
-4	dramatyzować	dramatyzować	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	2:xcomp	SpaceAfter=No
-5	,	,	PUNCT	interp	PunctType=Comm	6	punct	6:punct	_
+1	Nie	nie	PART	part	Polarity=Neg	2	advmod:neg	_	_
+2	ma	mieć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	co	co	PART	part	_	2	fixed	_	_
+4	dramatyzować	dramatyzować	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	interp	PunctType=Comm	6	punct	_	_
 6	jest	być	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	0:root|2:conj	_
-7	jeszcze	jeszcze	PART	part	_	6	advmod:emph	6:advmod:emph	_
-8	news:pl.rec.kuchnia	news:pl.rec.kuchnia	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	_
+7	jeszcze	jeszcze	PART	part	_	6	advmod:emph	_	_
+8	news:pl.rec.kuchnia	news:pl.rec.kuchnia	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 9	:-)	:-)	SYM	emo	_	2	discourse:emo	2:discourse:emo|6:discourse:emo	_
 ~~~
 

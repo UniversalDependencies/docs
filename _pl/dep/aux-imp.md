@@ -9,10 +9,10 @@ The `aux:imp` relation in the Polish [PDB-UD](http://universaldependencies.org/t
 
 ~~~ conllu
 # visual-style 2 1 aux:imp color:blue
-1	Niech	niech	AUX	part	_	2	aux:imp	2:aux:imp	_
-2	śnią	śnić	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	spokojnie	spokojnie	ADV	adv:pos	Degree=Pos	2	advmod	2:advmod	SpaceAfter=No
-4	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
+1	Niech	niech	AUX	part	_	2	aux:imp	_	_
+2	śnią	śnić	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	spokojnie	spokojnie	ADV	adv:pos	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	interp	PunctType=Peri	2	punct	_	_
 ~~~
 
 ~~~ conllu

@@ -9,17 +9,17 @@ The `det:nummod` relation is used in the Polish [PDB-UD](http://universaldepende
 
 ~~~ conllu
 # visual-style 5 3 det:nummod color:blue
-1	Byli	być	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	5	case	5:case	Case=Loc
-3	wielu	wiele	DET	num:pl:loc:m3:congr	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	5	det:nummod	5:det:nummod	_
-4	innych	inny	ADJ	adj:pl:loc:m3:pos	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	5	amod	5:amod	_
-5	związkach	związek	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	1	obl:arg	1:obl:arg	SpaceAfter=No
-6	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
-7	które	który	DET	adj:pl:nom:m3:pos	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	10:nsubj	_
-8	się	się	PRON	part	PronType=Prs|Reflex=Yes	10	expl:pv	10:expl:pv	_
-9	jednak	jednak	PART	part	_	10	advmod:emph	10:advmod:emph	_
-10	rozsypały	rozsypać	VERB	praet:pl:m3:perf	Animacy=Inan|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl:relcl	SpaceAfter=No
-11	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
+1	Byli	być	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	5	case	_	Case=Loc
+3	wielu	wiele	DET	num:pl:loc:m3:congr	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	5	det:nummod	_	_
+4	innych	inny	ADJ	adj:pl:loc:m3:pos	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
+5	związkach	związek	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	1	obl:arg	_	SpaceAfter=No
+6	,	,	PUNCT	interp	PunctType=Comm	10	punct	_	_
+7	które	który	DET	adj:pl:nom:m3:pos	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	_	_
+8	się	się	PRON	part	PronType=Prs|Reflex=Yes	10	expl:pv	_	_
+9	jednak	jednak	PART	part	_	10	advmod:emph	_	_
+10	rozsypały	rozsypać	VERB	praet:pl:m3:perf	Animacy=Inan|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	SpaceAfter=No
+11	.	.	PUNCT	interp	PunctType=Peri	1	punct	_	_
 ~~~
 
 ~~~ conllu

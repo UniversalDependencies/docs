@@ -9,14 +9,14 @@ The `advmod:neg` relation is used in the Polish [PDB-UD](http://universaldepende
 
 ~~~ conllu
 # visual-style 3 2 advmod:neg color:blue
-1	-	-	PUNCT	interp	PunctType=Hyph	7	punct	7:punct	_
-2	Nie	nie	PART	part	Polarity=Neg	3	advmod:neg	3:advmod:neg	_
-3	siedź	siedzieć	VERB	impt:sg:sec:imperf	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	7	parataxis:obj	7:parataxis:obj	_
-4	do	do	ADP	prep:gen	AdpType=Prep	5	case	5:case	Case=Gen
-5	późna	późny	ADJ	adjp	PrepCase=Pre	3	obl	3:obl	_
-6	-	-	PUNCT	interp	PunctType=Hyph	7	punct	7:punct	_
-7	rzekł	rzec	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-8	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	_
+1	-	-	PUNCT	interp	PunctType=Hyph	7	punct	_	_
+2	Nie	nie	PART	part	Polarity=Neg	3	advmod:neg	_	_
+3	siedź	siedzieć	VERB	impt:sg:sec:imperf	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	7	parataxis:obj	_	_
+4	do	do	ADP	prep:gen	AdpType=Prep	5	case	_	Case=Gen
+5	późna	późny	ADJ	adjp	PrepCase=Pre	3	obl	_	_
+6	-	-	PUNCT	interp	PunctType=Hyph	7	punct	_	_
+7	rzekł	rzec	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	interp	PunctType=Peri	7	punct	_	_
 ~~~
 
 ~~~ conllu
@@ -27,5 +27,5 @@ The `advmod:neg` relation is used in the Polish [PDB-UD](http://universaldepende
 5	-	_	_	_	_	_	_	_	_
 6	he	_	_	_	_	_	_	_	_
 7	said	_	_	_	_	_	_	_	_
-8.	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
 ~~~

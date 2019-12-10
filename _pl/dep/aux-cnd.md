@@ -10,19 +10,19 @@ The `aux:cnd` relation is used in the Polish [PDB-UD](http://universaldependenci
 ~~~ conllu
 # visual-style 2 1 aux:cnd color:blue
 1-2	Mógłby	_	_	_	_	_	_	_	_
-1	Mógł	móc	VERB	praet:sg:m3:imperf:nagl	Animacy=Inan|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	by	by	AUX	part	_	1	aux:cnd	1:aux:cnd	_
-3	być	być	AUX	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	4	cop	4:cop	_
-4	siedzibą	siedziba	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	1	xcomp	1:xcomp	_
-5	zarówno	zarówno	CCONJ	conj	_	6	cc:preconj	6:cc:preconj	_
-6	giełdy	giełda	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod	SpaceAfter=No
-7	,	,	PUNCT	interp	PunctType=Comm	8	punct	8:punct	_
+1	Mógł	móc	VERB	praet:sg:m3:imperf:nagl	Animacy=Inan|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	by	by	AUX	part	_	1	aux:cnd	_	_
+3	być	być	AUX	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	4	cop	_	_
+4	siedzibą	siedziba	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	1	xcomp	_	_
+5	zarówno	zarówno	CCONJ	conj	_	6	cc:preconj	_	_
+6	giełdy	giełda	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	interp	PunctType=Comm	8	punct	_	_
 8	kina	kino	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	6	conj	4:nmod|6:conj	SpaceAfter=No
-9	,	,	PUNCT	interp	PunctType=Comm	12	punct	12:punct	_
-10	jak	jak	CCONJ	conj	_	12	cc	12:cc	_
-11	i	i	CCONJ	conj	_	10	fixed	10:fixed	_
+9	,	,	PUNCT	interp	PunctType=Comm	12	punct	_	_
+10	jak	jak	CCONJ	conj	_	12	cc	_	_
+11	i	i	CCONJ	conj	_	10	fixed	_	_
 12	muzeum	muzeum	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	6	conj	4:nmod|6:conj	SpaceAfter=No
-13	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
+13	.	.	PUNCT	interp	PunctType=Peri	1	punct	_	_
 ~~~
 
 ~~~ conllu

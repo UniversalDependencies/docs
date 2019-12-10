@@ -9,14 +9,14 @@ The `nmod:pred` relation is used in the Polish [PDB](http://universaldependencie
 
 ~~~ conllu
 # visual-style 6 7 nmod:pred color:blue
-1	-	-	PUNCT	interp	PunctType=Hyph	4	punct	4:punct	_
-2	Jestem	być	AUX	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
-3	bardzo	bardzo	ADV	adv:pos	Degree=Pos	4	advmod	4:advmod	_
-4	dumna	dumny	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	0:root	_
-5	z	z	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	6	case	6:case	Case=Gen
-6	bycia	być	NOUN	ger:sg:gen:n:imperf:aff	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	4	obl:arg	4:obl:arg	_
-7	ciechanowianką	ciechanowianka	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	6	nmod:pred	6:nmod:pred	SpaceAfter=No
-8	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
+1	-	-	PUNCT	interp	PunctType=Hyph	4	punct	_	_
+2	Jestem	być	AUX	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	bardzo	bardzo	ADV	adv:pos	Degree=Pos	4	advmod	_	_
+4	dumna	dumny	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+5	z	z	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	6	case	_	Case=Gen
+6	bycia	być	NOUN	ger:sg:gen:n:imperf:aff	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	4	obl:arg	_	_
+7	ciechanowianką	ciechanowianka	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	6	nmod:pred	_	SpaceAfter=No
+8	.	.	PUNCT	interp	PunctType=Peri	4	punct	_	_
 ~~~
 
 ~~~ conllu
