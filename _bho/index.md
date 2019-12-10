@@ -29,7 +29,7 @@ udver: '2'
   * Modal auxiliaries:
     * सक _saka_ (“be able, can”) <!-- Page 153. -->
     * पा _pā_ (“to manage”) <!-- Page 153. -->
-    * चाहि _cāhi_ (“needed, should, ought to”)
+    * चाही _cāhi_ (“needed, should, ought to”)
     * हो _ho_ (“to have to”) <!-- Page 165. -->
     * पड़ _paṛa_ (“must”) <!-- Pages 165, 166. -->
   * Phase verbs:
