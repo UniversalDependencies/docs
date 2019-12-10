@@ -152,11 +152,15 @@ UD is an open collaboration with many project members. The administrative struct
   [The Forest Lion and the Bull: Morphosyntactic Annotation of the Panchatantra](http://ufal.mff.cuni.cz/biblio/attachments/2018-zeman-p1924099829345317043.pdf).
   In: Computación y Sistemas, ISSN 1405-5546, vol. 22, no. 4, pp. 1377-1384.
 
+* N. Gruzitis, L. Pretkalnina, B. Saulite, L. Rituma, G. Nespore-Berzkalne, A. Znotins and P. Paikens. 2018. [Creation of a Balanced State-of-the-Art Multilayer Corpus for NLU](http://www.lrec-conf.org/proceedings/lrec2018/pdf/935.pdf). In *Proceedings of the 11th International Conference on Language Resources and Evaluation (LREC)*, pp. 4506-4513.
+
 * Sonja Marković, Daniel Zeman. 2018.
   [Reflexives in Universal Dependencies](http://www.ep.liu.se/ecp/155/ecp18155.pdf#page=139).
   In *Proceedings of the 17th International Workshop on Treebanks and Linguistic Theories (TLT 2018)*, pp. 131-146.
 
 * Agnieszka Patejuk and Adam Przepiórkowski. 2018. [*From Lexical Functional Grammar to Enhanced Universal Dependencies: Linguistically informed treebanks of Polish*](http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf). Institute of Computer Science, Polish Academy of Sciences, Warsaw. (263 pages)
+
+* Lauma Pretkalniņa, Laura Rituma and Baiba Saulīte. 2018. [Deriving Enhanced Universal Dependencies from a Hybrid Dependency-Constituency Treebank](https://www.researchgate.net/publication/327520269). In *Text, Speech, and Dialogue*, vol. 11107, pp. 95-105.
 
 * Adam Przepiórkowski and Agnieszka Patejuk. 2018. [Arguments and adjuncts in Universal Dependencies](http://aclweb.org/anthology/C18-1324). In *Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)*, pages 3837–3852, Santa Fe, NM.
 
