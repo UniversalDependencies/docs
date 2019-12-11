@@ -178,6 +178,9 @@ UD is an open collaboration with many project members. The administrative struct
 
 * [_Proceedings of the First Workshop on Universal Dependencies_](https://www.aclweb.org/anthology/W17-0400.pdf), UDW 2017, NoDaLiDa, Gothenburg.
 
+* Teresa Lynn, Jennifer Foster and Mark Dras. 2017.
+[Morphological Features of the Irish Universal Dependency Treebank](http://doras.dcu.ie/23609/1/LYNN_tlt15.pdf). In *Proceedings of the 15th International Workshop on Treebanks and Linguistic Theories (TLT 2017)*, pp 111-122.
+
 * Joakim Nivre, Daniel Zeman, Filip Ginter, Francis Tyers. 2017.
   [EACL tutorial on Universal Dependencies](http://universaldependencies.org/eacl17tutorial/).
 
@@ -207,6 +210,9 @@ UD is an open collaboration with many project members. The administrative struct
   In *Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies*, pp. 1-19.
 
 ### 2016
+
+* Teresa Lynn and Jennifer Foster. 2016.
+[Universal Dependencies for Irish](http://doras.dcu.ie/23607/1/Lynn_CLTW2016.pdf). In *Proceedings of the Second Celtic Language Technology Workshop (CLTW 2016)*, pp. 79-92.
 
 * Héctor Martínez Alonso, Daniel Zeman. 2016.
   [Universal Dependencies for the AnCora treebanks](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/5341).
@@ -270,8 +276,12 @@ UD is an open collaboration with many project members. The administrative struct
 * Katri Haverinen, Jenna Nyblom, Timo Viljanen, Veronika Laippala, Samuel Kohonen, Anna Missilä, Stina Ojala, Tapio Salakoski, and Filip Ginter. 2013.
   [Building the essential resources for Finnish: the Turku Dependency Treebank](http://dx.doi.org/10.1007/s10579-013-9244-1). Language Resources and Evaluation. Volume 48, Issue 3, pp 493-531.
 
+
 * Janna Lipenkova and Milan Souček. 2014. [Converting Russian Dependency Treebank to Stanford Typed
 Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics*, pp. 143-147.
+
+* Teresa Lynn, Jennifer Foster, Mark Dras and Lamia Tounsi. 2014.
+[Cross-lingual Transfer Parsing for Low-Resourced Languages: An Irish Case Study](https://www.aclweb.org/anthology/W14-4606/) In *Proceedings of the First Celtic Language Technology Workshop (CLTW 2014)* 
 
 * Marie-Catherine de Marneffe, Miriam Connor, Natalia Silveira, Samuel R. Bowman, Timothy Dozat, and Christopher D. Manning. 2013.
   [More constructions, more genres: extending Stanfod Dependencies](http://anthology.aclweb.org/W/W13/W13-3721.pdf).
