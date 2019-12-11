@@ -18,4 +18,4 @@ udver: '2'
 
 Please consider subscribing to the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud), <strong>especially if you are going to contribute data.</strong> Important announcements for the data providers are circulated through this list.
 
-[On-line validation site](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl)
+[On-line validation site](http://quest.ms.mff.cuni.cz/udvalidator/)

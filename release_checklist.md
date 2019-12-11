@@ -318,7 +318,7 @@ Once you do this, you are all set. Your copy will stay switched to the dev branc
 # Validation
 
 Up-to-date automatic validation runs of the repositories are available
-[here](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl).
+[here](http://quest.ms.mff.cuni.cz/udvalidator/).
 These are based on the `dev` branch of the data and use the `validate.py` script
 described below. Note that the validation script evolved significantly between
 releases 2.3 and 2.5. Now it includes many content-focused tests that check
