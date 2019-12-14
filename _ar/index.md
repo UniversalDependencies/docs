@@ -27,7 +27,7 @@ udver: '2'
 * Some Arabic auxiliaries inflect like verbs, some do not inflect at all.
   The following auxiliaries are found in the data:
   * The copula كَان _(kān)_ and the negative copulas لَيس _(lays)_ and لسنا _(lasnā)._
-  * Future tense particle سَ _(sa)_ “will”
+  * Future tense / modal auxiliary سَوفَ _(sawfa)_ or its clitic version سَ _(sa)_ “will”
   * Modal particle قَد _(qad)_ “may”
   * Modal particle رُبَّمَا _(rubbamā)_ “maybe, perhaps”
 
