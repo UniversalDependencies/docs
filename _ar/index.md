@@ -30,6 +30,8 @@ udver: '2'
   * Future tense / modal auxiliary سَوفَ _(sawfa)_ or its clitic version سَ _(sa)_ “will”
   * Modal particle قَد _(qad)_ “may”
   * Modal particle رُبَّمَا _(rubbamā)_ “maybe, perhaps”
+  * Modal particle عَلَّ _(ʿalla)_ “perhaps”
+  * Aspectual auxiliary verb عَاد _(ʿād)_ “return, no longer do”
 
 ### Nominal Features
 
