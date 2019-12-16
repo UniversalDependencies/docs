@@ -21,7 +21,7 @@ udver: '2'
 
 * Bhojpuri uses all 17 universal POS categories, including particles ([PART]()).
 * Bhojpuri has the following auxiliary verbs ([AUX]()):
-  * हऽ _ha’_, आ _ā_, सन _sana_, बा _bā_, भा _bhā_ and ना _nā_ are equivalents of “to be”. They are used as copulas and in periphrastic tenses.
+  * हऽ _ha’_, आ _ā_, स _sa_, बा _bā_, छी _chi_, भा _bhā_ and ना _nā_ are equivalents of “to be”. They are used as copulas and in periphrastic tenses.
   * गइल _gaila_ for the past tense.
   * रह _raha_ (“to stay”) for the progressive aspect (with the stem of the main verb and the auxiliary).
   * कर _kara_ (“to do”) for the habitual aspect (with the perfective participle of the main verb).
