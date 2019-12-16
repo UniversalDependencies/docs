@@ -42,7 +42,7 @@ udver: '2'
     in compound verbs:
     * जा _jā_ (“to go”) (note that this verb can also be used as real auxiliary in passives)
     * ले _le_ (“to take”)
-    * दे _de_ (“to give”)
+    * दे _de_, मार _mār_ (“to give”)
     * डाल _ḍāla_ (“to throw”) <!-- The second batch of compound verbs is described on pages 220–222. To throw gives a sense of vigorousness. -->
     * पड़ _paṛa_ (“to fall”) (note that this verb can also be used as modal “must”) <!-- Adds a sense of suddenness or change of state. -->
     * बैठ _baiṭha_ (“to sit”) <!-- Adds a sense of foolishness or stubbornness. -->
