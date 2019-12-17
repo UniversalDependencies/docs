@@ -387,6 +387,10 @@ used only in the enhanced representation. Only the latter should be listed in `e
 
     cat *-ud-*.conllu | perl -CDS -e 'while(<>) { if(m/^[\d\.]+\t/) { @f=split(/\t/); @d=split(/\|/, $f[8]); foreach my $d (@d) { $d =~ s/^[\d\.]+://; $h{$d}++ } } } @k=sort(keys(%h)); foreach my $k (@k) { print $k, "\n"; }' | grep ':'
 
+or (note the paths and the Arabic-specific extension at two positions)
+
+    cat *-ud-*.conllu | perl -CDS -e 'open(DEPREL, "../tools/data/deprel.ar"); while(<DEPREL>) {chomp; $deprel{$_}++} close(DEPREL); while(<>) { if(m/^[\d\.]+\t/) { @f=split(/\t/); @d=split(/\|/, $f[8]); foreach my $d (@d) { $d =~ s/^[\d\.]+://; $h{$d}++ unless($deprel{$d}) } } } @k=sort(keys(%h)); foreach my $k (@k) { print $k, "\n"; }' | grep ':' > ../tools/data/edeprel.ar
+
 Since the `v2.0` release, whitespace is allowed in the `FORM` and `LEMMA` fields under conditions
 specified [here](v2/segmentation.html). This is supported in the validator through the UD-wide
 file `data/tokens_w_space.ud` and its language-specific variants `data/tokens_w_space.xx`. In
