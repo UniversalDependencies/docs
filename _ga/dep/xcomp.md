@@ -48,3 +48,12 @@ xcomp(Chuirfeadh,fáil)
 case(fáil, ar)
 
 ~~~
+
+NOTE: This label is also used for secondary predicates, i.e. where two predicates occur within one clause. 
+
+_Shín mé amach díreach romham í agus <b>fuair</b> mé an áit <b>folamh</b>_ `I stretched it out in front of me and found the place empty'
+
+~~~ sdparse
+Shín mé amach díreach romham í agus fuair mé an áit folamh \n Stretched I out straight in_front_of_me it and found I the place empty 
+xcomp(fuair, folamh)
+~~~
