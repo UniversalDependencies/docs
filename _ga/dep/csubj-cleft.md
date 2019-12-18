@@ -43,3 +43,23 @@ csubj:cleft(pháirc, chonaic)
 cop(pháirc, Is)
 ~~~
 
+#### Adjective predicate fronting ####
+
+_Is mó <b>atá</b> sí siúd ina ghá ná sinne anso._ 'She <b>is</b> needed here more than we are.'
+
+~~~ sdparse
+Is mó atá sí siúd ina ghá ná sinne anso. \n Is more that_is she [emph] in_its need than us_[emph] here.
+csubj:cleft(mó, atá)
+cop(mó, Is)
+~~~
+
+NOTE: In phrases where adjectival fronting of the predicate occurs with the presence of a noun, the noun should be treated as the predicate with the adjective demoted to adjectival modifier dependent on that noun.
+
+_Is iomaí <b>seift</b> <b>atá</b> á lorg ag údaráis phoiblí ar fud an domhain..._ 'Public authorities all over the world are looking for ways to...'
+
+~~~ sdparse
+Is iomaí seift atá á lorg ag údaráis phoiblí ar fud an domhain \n Is many trick that_are at_her looking by authorities pub on whole of_the world 
+csubj:cleft(seift, atá)
+cop(seift, Is)
+amod(seift, iomaí)
+~~~
