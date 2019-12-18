@@ -36,7 +36,7 @@ obl(saor, gceanglas)
 case(gceanglas, ón)
 ~~~ 
 
-_Níor chonaic sé na haghaidheanna smeartha le <b>snas</b> roimhe_  'He hasn't seen the faces smeared with polish before then'
+_Níor chonaic sé na haghaidheanna smeartha le <b>snas</b> roimhe_  'He hasn't seen the faces smeared with <b>polish</b> before then'
 
 ~~~ sdparse
 Níor chonaic sé na haghaidheanna smeartha le snas roimhe \n Did_not saw he the faces smeared with polish before
