@@ -53,7 +53,7 @@ csubj:cleft(mó, atá)
 cop(mó, Is)
 ~~~
 
-NOTE: In phrases where adjectival fronting of the predicate occur along with a noun phrase, the noun should be treated as the predicate with the adjective demoted to adjectival modifier dependent on that noun/the head of the noun phrase.
+NOTE: In phrases where the adjectival predicate is fronted, the noun should still be treated as the predicate with the adjective demoted to adjectival modifier dependent on that noun/the head of the noun phrase.
 
 _Is iomaí <b>seift</b> <b>atá</b> á lorg ag údaráis phoiblí ar fud an domhain..._ 'Public authorities all over the world are looking for ways to...'
 
