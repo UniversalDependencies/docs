@@ -47,7 +47,7 @@ For POS-tagging of classical Chinese texts in UD, we use `VERB` `ADV` `AUX` `ADP
 
 There is one Classical Chinese UD treebank:
 
-* [UD_Classical_Chinese-Kyoto](https://universaldependencies.org/treebanks/lzh_kyoto/)
+* [UD_Classical_Chinese-Kyoto](https://universaldependencies.org/treebanks/lzh_kyoto/) (implemented in [UD-Kanbun](https://github.com/KoichiYasuoka/UD-Kanbun/))
 
 ## References
 
