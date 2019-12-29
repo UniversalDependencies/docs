@@ -51,4 +51,4 @@ There is one Classical Chinese UD treebank:
 
 ## References
 
-* Koichi Yasuoka: Universal Dependencies Treebank of the Four Books in Classical Chinese, DADH2019: 10th International Conference of Digital Archives and Digital Humanities, 1st ed. (December 5, 2019), pp.20-28.
+* Koichi Yasuoka: Universal Dependencies Treebank of the Four Books in Classical Chinese, DADH2019: 10th International Conference of Digital Archives and Digital Humanities (December 2019), pp.20-28.
