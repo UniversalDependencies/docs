@@ -8,6 +8,7 @@ udver: '2'
 
 * [Simple verbal clauses](simple_verbal_clauses.html) (intransitive, transitive; core vs. oblique arguments)
 * [Simple noun phrases](simple_noun_phrases.html)
+  * [Two nominals](two_nominals.html)
 * Modifiers (obliques and adverbials; adjectives; adverbs modifying nouns; modifiers modifying other modifiers)
 * Coordination (of simple noun phrases or simple clauses; difference from parataxis?)
 * More about simple clauses
