@@ -20,6 +20,7 @@ udver: '2'
   * போ / _po_ “go” for future tense, follows the infinitive of the main verb
   * மாட்டேன் / _māṭṭen_ “will not” (lemma மாட்டு _māṭṭu_) for negative future tense with human subject
   * படு / _paṭu_ “experience” for the passive voice
+  * வை / _vai_ “put” for the causative voice
   * இல் / _il_ (இல்லை / _illai_) “not be” for negation
   * உள் / _uḷ_ “within”, வேண்டு / _veṇṭu_ “must”, இரு / _iru_ “be”, வரு / _varu_ “come”, கொள் / _kòḷ_ “take”, செய் / _cèy_ “do”, விடு / _viṭu_ “let”, வா / _vā_ “come”
   * முடியும் / _muṭiyum_ “can” (lemma முடி _muṭi_): modal auxiliary, follows the infinitive of the main verb
