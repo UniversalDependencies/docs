@@ -23,7 +23,7 @@ For the causative auxiliary _faire_, the relation is [aux:caus]().
 In French, both _être_ and _avoir_ can be used as tense auxiliaries.
 
 ~~~ sdparse
-Quelles conséquences cela a - t - il eu ? \n What consequences did this have ?
+Quelles conséquences cela a -t-il eu ? \n What consequences did this have ?
 aux(eu, a)
 ~~~
 
@@ -34,10 +34,10 @@ aux(changé,a)
 
 ~~~ sdparse
 je suis restée à Paris \n I stayed in Paris
-aux(resté,Paris)
+aux(restée,Paris)
 ~~~
 
-In **UD_French-ParTUT**:
+In **UD_French-ParTUT**, a few other lemma are used as auxiliaries:
 ~~~ sdparse
 On peut nager dans le lac \n One can swim in the lake
 aux(nager, peut)

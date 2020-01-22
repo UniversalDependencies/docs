@@ -17,5 +17,5 @@ aux:tense(marié,est)
 
 ~~~ sdparse
 On a construit sur les ruines \n We built on the ruins
-aux(construit,a)
+aux:tense(construit,a)
 ~~~
