@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 In a causative construction the `obj:agent` relation attaches the infinitive verb to his agent, when the latter is the syntactical object of the sentence
-(this initial agent has been demoted and became the object of the causative contruction).
+(this initial agent has been demoted and became the object of the causative construction).
 For example, in the following sentence, _ses petits_ is the tue agent of the verb "sauter" (_Ses petits ont sauté dans la mare_).
 This nominal phrase can be pronominalized as follows: _La cane les a fait sauter dans la mare._ The use of the pronoun _les_ clearly shows that _ses petits_ is the syntactical object of the sentence.
 

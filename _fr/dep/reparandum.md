@@ -16,5 +16,3 @@ nmod(Va, gauche)
 reparandum(gauche, droi-)
 case(droi-, à-2)
 ~~~
-
-For disfluences and reformulations **UD_French-Spoken** uses the [conj:dicto]() relation instead of the `reparandum` relation.

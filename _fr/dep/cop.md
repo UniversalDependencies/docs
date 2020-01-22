@@ -18,8 +18,6 @@ amod(homme, honnête)
 det(homme, un)
 ~~~
 
-The `cop` relation can be found in **UD_French-Spoken**:
-
 ~~~ sdparse
 c' est une jeune fille pauvre \n it's a poor girl
 cop(fille,est)

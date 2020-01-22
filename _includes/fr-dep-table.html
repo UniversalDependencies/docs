@@ -36,11 +36,10 @@
       <table class="category">
         <tr><td><a>nsubj</a></td></tr>
         <tr><td>↳<a>nsubj:caus</a></td></tr>
-        <tr><td>↳<a>nsubj:expl</a> [Spo]</td></tr>
         <tr><td>↳<a>nsubj:pass</a></td></tr>
         <tr><td><a>obj</a></td></tr>
         <tr><td>↳<a>obj:agent</a></td></tr>
-        <tr><td>↳<a>obj:lvc</a> [GSD]</td></tr>
+        <tr><td>↳<a>obj:lvc</a></td></tr>
         <tr><td><a>iobj</a></td></tr>
         <tr><td>↳<a>iobj:agent</a></td></tr>
       </table>
@@ -50,7 +49,6 @@
         <tr><td><a>csubj</a></td></tr>
         <tr><td>↳<a>csubj:pass</a></td></tr>
         <tr><td><a>ccomp</a></td></tr>
-        <tr><td>↳<a>ccomp:cleft</a></td></tr>
         <tr><td><a>xcomp</a></td></tr>
       </table>
     </td>
@@ -67,28 +65,24 @@
           <tr><td><a>obl</a></td></tr>
           <tr><td>↳<a>obl:agent</a></td></tr>
           <tr><td>↳<a>obl:arg</a></td></tr>
-          <tr><td>↳<a>obl:comp</a> [Spo]</td></tr>
           <tr><td>↳<a>obl:mod</a></td></tr>
-          <tr><td>↳<a>obl:periph</a> [Spo]</td></tr>
-          <tr><td>↳<a>obl:tmod</a> [PUD]</td></tr>
           <tr><td><a>vocative</a></td></tr>
           <tr><td><a>expl</a></td></tr>
-          <tr><td>↳<a>expl:pass</a> [GSD]</td></tr>
+          <tr><td>↳<a>expl:comp</a></td></tr>
+          <tr><td>↳<a>expl:pass</a></td></tr>
+          <tr><td>↳<a>expl:subj</a></td></tr>
           <tr><td><a>dislocated</a></td></tr>
-          <tr><td>↳<a>dislocated:cleft</a></td></tr>
         </table>
       </td>
       <td>
         <table class="category">
           <tr><td><a>advcl</a></td></tr>
           <tr><td>↳<a>advcl:cleft</a></td></tr>
-          <tr><td>↳<a>advcl:periph</a> [Spo]</td></tr>
         </table>
       </td>
       <td>
         <table class="category">
           <tr><td><a>advmod</a></td></tr>
-          <tr><td>↳<a>advmod:periph</a> [Spo]</td></tr>
           <tr><td><a>discourse</a></td></tr>
         </table>
       </td>
@@ -97,6 +91,7 @@
           <tr><td><a>aux</a></td></tr>
           <tr><td>↳<a>aux:caus</a></td></tr>
           <tr><td>↳<a>aux:pass</a></td></tr>
+          <tr><td>↳<a>aux:tense</a></td></tr>
           <tr><td><a>cop</a></td></tr>
           <tr><td><a>mark</a></td></tr>
         </table>
@@ -111,10 +106,8 @@
       <td>
         <table class="category">
           <tr><td><a>nmod</a></td></tr>
-          <tr><td>↳<a>nmod:poss</a> [PUD]</td></tr>
+          <tr><td>↳<a>nmod:appos</a> [Spo]</td></tr>
           <tr><td><a>appos</a></td></tr>
-          <tr><td>↳<a>appos:conj</a> [Spo]</td></tr>
-          <tr><td>↳<a>appos:nmod</a> [Spo]</td></tr>
           <tr><td><a>nummod</a></td></tr>
         </table>
       </td>
@@ -132,7 +125,6 @@
       <td>
         <table class="category">
           <tr><td><a>det</a></td></tr>
-          <tr><td>↳<a>det:predet</a> [PUD]</td></tr>
           <tr><td><a>case</a></td></tr>
         </table>
       </td>
@@ -168,8 +160,6 @@
       <td>
         <table class="category">
           <tr><td><a>conj</a></td></tr>
-          <tr><td>↳<a>conj:coord</a> [Spo]</td></tr>
-          <tr><td>↳<a>conj:dicto</a> [Spo]</td></tr>
           <tr><td><a>cc</a></td></tr>
         </table>
       </td>
@@ -184,13 +174,8 @@
     </td>
     <td>
       <table class="category">
-        <tr><td><a>list</a> [&#8709;]</td></tr>
         <tr><td><a>parataxis</a></td></tr>
-        <tr><td>↳<a>parataxis:conj</a> [&#8709;]</td></tr>
-        <tr><td>↳<a>parataxis:discourse</a> [Spo]</td></tr>
-        <tr><td>↳<a>parataxis:dislocated</a> [&#8709;]</td></tr>
         <tr><td>↳<a>parataxis:insert</a> [Spo]</td></tr>
-        <tr><td>↳<a>parataxis:obj</a> [Spo]</td></tr>
         <tr><td>↳<a>parataxis:parenth</a> [Spo]</td></tr>
       </table>
     </td>
@@ -198,7 +183,7 @@
       <table class="category">
         <tr><td><a>orphan</a></td></tr>
         <tr><td><a>goeswith</a></td></tr>
-        <tr><td><a>reparandum</a> [GSD]</td></tr>
+        <tr><td><a>reparandum</a></td></tr>
       </table>
     </td>
     <td>
@@ -206,8 +191,6 @@
         <tr><td><a>punct</a></td></tr>
         <tr><td><a>root</a></td></tr>
         <tr><td><a>dep</a></td></tr>
-        <tr><td>↳<a>dep:obj</a> [Spo]</td></tr>
-        <tr><td>↳<a>dep:iobj</a> [Spo]</td></tr>
       </table>
     </td>
   </tr>

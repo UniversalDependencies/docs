@@ -21,6 +21,3 @@ punct(mouillé, .)
 ~~~
 
 Since the **UD_French-Spoken** corpus is an oral corpus, there are no punctuation signs (apart from hyphens in certain words or constructions).
-
-N.B.: In **UD_French-Spoken** some constructions containing hyphens are annotated with the [goeswith]() relation.
-See the [tokenization](http://universaldependencies.org/fr/tokenization.html) page.

@@ -45,5 +45,5 @@ For instance, in the following example, _que son mari est arrivé_ (in _dès que
 ~~~ sdparse
 Muriel a quitté la pièce dès que son mari est arrivé . \n Muriel left the room as soon as her husband arrived.
 mark(arrivé,que)
-case(arrivé,dès)
+mark(arrivé,dès)
 ~~~

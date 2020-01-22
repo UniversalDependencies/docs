@@ -35,5 +35,3 @@ c'est vraiment très agréable \n it's really very pleasant
 advmod(agréable, très)
 advmod(agréable, vraiment)
 ~~~
-
-For adverbial modifiers which are not governed by their heads, **UD_French-Spoken** uses the [advmod:periph]() relation.

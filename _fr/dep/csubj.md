@@ -9,11 +9,9 @@ A clausal subject is a clausal syntactic subject of a clause, i.e., the subject 
 The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb.
 
 ~~~ sdparse
-Qu'il vienne m' embête . \n His coming bothers me.
+Qu' il vienne m' embête . \n His coming bothers me.
 csubj(embête, vienne)
 ~~~
-
-Here is an example from **UD_French-Spoken**:
 
 ~~~ sdparse
 créer des choses qui durent m'a paru être essentiel \n creating things that last seemed essential to me

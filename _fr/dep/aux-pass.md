@@ -13,7 +13,7 @@ Kennedy fut assassiné \n Kennedy was murdered
 aux:pass(assassiné, fut)
 ~~~
 
-Other auxiliaries associated with the same main verb are not labeled `aux:pass` but `aux` since they do not themselves indicate passive voice.
+Other auxiliaries associated with the same main verb are not labeled `aux:pass` but `aux` or `aux:tense` since they do not themselves indicate passive voice.
 
 ~~~ sdparse
 Kennedy a été assassiné \n Kennedy has been murdered
