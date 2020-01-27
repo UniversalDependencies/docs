@@ -19,11 +19,11 @@ The `xcomp:pred` relation is used in the Polish [PDB-UD](http://universaldepende
 7	się	się	PRON	part	PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 8	zagubiony	zagubiony	ADJ	adj:sg:nom:m1:pos	Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	xcomp:pred	_	SpaceAfter=No
 9	,	,	PUNCT	interp	PunctType=Comm	10	punct	_	_
-10	bezradny	bezradny	ADJ	adj:sg:nom:m1:pos	Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	conj	6:xcomp:pred|8:conj	SpaceAfter=No
+10	bezradny	bezradny	ADJ	adj:sg:nom:m1:pos	Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	conj	6:xcomp:pred	SpaceAfter=No
 11	,	,	PUNCT	interp	PunctType=Comm	12	punct	_	_
-12	opuszczony	opuszczony	ADJ	adj:sg:nom:m1:pos	Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	conj	6:xcomp:pred|8:conj	_
+12	opuszczony	opuszczony	ADJ	adj:sg:nom:m1:pos	Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	conj	6:xcomp:pred	_
 13	i	i	CCONJ	conj	_	14	cc	_	_
-14	samotny	samotny	ADJ	adj:sg:nom:m1:pos	Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	conj	6:xcomp:pred|8:conj	SpaceAfter=No
+14	samotny	samotny	ADJ	adj:sg:nom:m1:pos	Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	conj	6:xcomp:pred	SpaceAfter=No
 15	.	.	PUNCT	interp	PunctType=Peri	6	punct	_	_
 ~~~
 

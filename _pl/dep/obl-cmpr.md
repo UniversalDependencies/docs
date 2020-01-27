@@ -10,12 +10,12 @@ The `obl:cmpr` relation is used in the Polish [PDB-UD](http://universaldependenc
 
 ~~~ conllu
 # visual-style 9 12 obl:cmpr color:blue
-1	W	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	2	case	2:case|6:case	Case=Loc
+1	W	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	2	case	6:case	Case=Loc
 2	krajach	kraj	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	obl	_	_
 3	Europy	Europa	PROPN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	Zachodniej	Zachodni	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod:flat	_	_
 5	i	i	CCONJ	conj	_	6	cc	_	_
-6	USA	USA	PROPN	subst:pl:loc:n:pt	Case=Loc|Gender=Neut|Number=Ptan	2	conj	2:conj|7:obl	_
+6	USA	USA	PROPN	subst:pl:loc:n:pt	Case=Loc|Gender=Neut|Number=Ptan	2	conj	7:obl	_
 7	jest	być	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 8	kilkakrotnie	kilkakrotnie	ADV	adv:pos	Degree=Pos	13	advmod	_	_
 9	więcej	więcej	DET	num:pl:nom:m1:rec	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	13	det:numgov	_	_

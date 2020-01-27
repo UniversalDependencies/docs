@@ -11,11 +11,11 @@ The `advcl:cmpr` relation is used in the Polish [PDB-UD](http://universaldepende
 # visual-style 1 10 advcl:cmpr color:blue
 1	Wolę	woleć	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	kreskówki	kreskówka	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	1	iobj	_	_
-3	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	7	case	5:case|7:case	Case=Ins
+3	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	7	case	7:case	Case=Ins
 4	"	"	PUNCT	interp	PunctType=Quot	5	punct	_	SpaceAfter=No
 5	Bolkiem	Bolek	PROPN	subst:sg:inst:m1	Animacy=Hum|Case=Ins|Gender=Masc|Number=Sing	2	nmod	_	_
 6	i	i	CCONJ	conj	_	7	cc	_	_
-7	Lolkiem	Lolek	PROPN	subst:sg:inst:m1	Animacy=Hum|Case=Ins|Gender=Masc|Number=Sing	5	conj	2:nmod|5:conj	SpaceAfter=No
+7	Lolkiem	Lolek	PROPN	subst:sg:inst:m1	Animacy=Hum|Case=Ins|Gender=Masc|Number=Sing	5	conj	2:nmod	SpaceAfter=No
 8	"	"	PUNCT	interp	PunctType=Quot	5	punct	_	_
 9	niż	niż	SCONJ	comp	ConjType=Cmpr	10	mark	_	_
 10	kochać	kochać	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	1	advcl:cmpr	_	_
