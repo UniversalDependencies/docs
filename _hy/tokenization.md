@@ -7,7 +7,7 @@ udver: '2'
 # Tokenization
 
 The low-level tokenization of the Eastern Armenian UD treebank follows the tokenization of the
-[ՀայՇտեմ - Eastern Armenian Dependency Treebank 1.0](http://armtreebank.yerevann.com/) (ArmDT-East):
+[Հայերենի ծառադարան - Eastern Armenian Treebank](http://armtreebank.yerevann.com/):
 
 * In general, tokens are delimited by whitespace.
 * Punctuation (recognized by the corresponding Unicode property) that is conventionally written adjacent to the preceding or following word is separated during tokenization.
