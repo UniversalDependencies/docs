@@ -591,9 +591,10 @@ It may be embedded deeper as in the following example.
 </table>
 
 If the relative clause has a nominal predicate, the relative pronoun may occupy the head position
-within the clause. In such cases no relation should be added from its head to its co-referential
+within the clause. In such cases no relation should be added from its parent to its co-referential
 element (because they are the same node). We should only add a `nsubj` relation from the antecedent
-to the `nsubj` of the relative pronoun. The `acl:relcl` should remain the same as in basic
+to the `nsubj` of the relative clause (and remove the corresponding `nsubj` relation between the
+relative pronoun and the subject). The `acl:relcl` should remain the same as in basic
 dependencies.
 
 <!-- https://github.com/UniversalDependencies/docs/issues/531 -->
