@@ -601,6 +601,7 @@ dependencies.
 <table> <!--He became chairman, which he still is-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
+# visual-style 5 6 nsubj color:green
 1 He       he       PRON  _ Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs 2 nsubj _ _
 2 became   become   NOUN  _ Mood=Ind|Tense=Past|VerbForm=Fin 0 root _ _
 3 chairman chairman NOUN  _ Number=Sing 2 xcomp _ SpaceAfter=No
