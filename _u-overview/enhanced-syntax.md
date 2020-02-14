@@ -530,7 +530,7 @@ Adverbial relativizers receive the same treatment.
 # visual-style 5 2 obl color:blue
 1 the the DET DT Definite=Def|PronType=Art 2 det _ _
 2 episode episode NOUN NN Number=Sing 0 root 5:obl _
-3 where where ADV WRB PronType=Rel 5 advmod 2:ref _
+3 where where ADV WRB PronType=Rel 2 ref _ _
 4 Monica Monica PROPN NNP Number=Sing 5 nsubj _ _
 5 sings sing NOUN NNS Number=Plur 2 acl:relcl _ _
 </div>
