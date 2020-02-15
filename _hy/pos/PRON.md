@@ -21,7 +21,7 @@ To make the annotation parallel across languages, it should be now tagged `PRON`
 ### Examples
 
 - personal pronouns: _ես, դու, նա, մենք, դուք, նրանք&nbsp;_ “I, you, he, she, it, we, you, they”
-- possessive pronouns: _իմը, քոնը, նրանը, մերը, ձերը, նրանցը&nbsp;_ “mine, yours, his/hers/its, ours, yours, theirs”
+- possessive pronouns (which usually stand alone as a nominal): _իմը, քոնը, նրանը, մերը, ձերը, նրանցը&nbsp;_ “mine, yours, his/hers/its, ours, yours, theirs”
 - demonstrative pronouns: _սա, դա, նա&nbsp;_ “this, that, that”
 - reflexive pronouns: _իր, իրեն, իրենց&nbsp;_ “myself, yourself, oneself, ourselves, yourselves, themselves”
 -	reciprocal pronouns:  _մեկմեկու (մեկմեկի), միմյանց, իրար&nbsp;_ “one another, each other, each other”
