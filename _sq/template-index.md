@@ -9,7 +9,7 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * Words are delimited based on whitespace and punctuation. 
-* Multi-word tokens exist and have been segmented based on whitespace as well. In the current dataset, they appear in the following forms:
+* No multi-word tokens occur. However, multi-word units exist and have been segmented based on whitespace as well. In the current dataset, they appear in the following forms:
   * adjectives, i.e. i madh (big)
   * pronouns, i.e. i cili (who)
   * nouns (nominalized participle), i.e. të vdekurit (the dead)
@@ -24,20 +24,20 @@ udver: '2'
 ### Tags
 
 * Out of the 17 tags, only 14 were used (`SYM`, `INT` and `X` did not occur).
-* The following words were tagged as PART:
+* The following words were tagged as [PART]():
   * the negative markers: *s'*, *nuk*
   * the particle used to build the comparative and superlative degree of adjectives and adverbs: *më*
-  * the particle which functions as an adverbial: *madje* 
+  * the particle which functions as an adverbial: *madje*
+  * the particle *të* when occuring in front of verbs.
+  * the particle *duke* which is used to build he gerund form of verbs.
 * Auxiliaries ([AUX]()) are all verbals in Albanian an can be listed as follows:
   * The temporal auxiliary *kam* (to have), which combined with the supine forms periphrastically the perfect tense of the active voice.
   * The temporal/passive auxiliary *jam* (to be), which combined with the supine forms periphrastically the perfect tense of the passive voice.
   * The temporal auxiliary *u* (not translated), which combined with the past tense of the active voice forms periphrastically the past tense of the passive/middle voice.
-  * The modals *mund*, *duhet*, *të*, *duke* 
   * The copulas *jam* (to be), bëhem (to become), and the verb *njoh* when in passive followed by as, i.e. *njihet si shkrimtar* (he/she is acknowledged as a writer.)
-  * The tag DET is used for articles/clitics (*i/e/të/një*) both for those forming adjectival and pronomial compounds and those forming the genitive/ablative/dative case of nouns. 
+  * The tag DET is used for articles/clitics (*i/e/të/një*) both for those forming adjectival and pronomial multi-word units and those forming the genitive/ablative/dative case of nouns. 
   * The tag PRON is used for all types of pronouns.
-  * Participles (past) are mainly used adjectivally in Albanian and are generally tagged as ADJ. The only exception is when these occur in a nominalized form, in which case they are tagged as NOUN i.e. të vdekurit (the dead).
-  * Adjectival, pronomial and nominal multi-word expressions have been assigned the tag COMPOUND with the subtype :adj and :pron respectively for the two first ones.
+  * Participles (past) are mainly used adjectivally in Albanian and are generally tagged as [ADJ](). The only exception is when these occur in a nominalized form, in which case they are tagged as NOUN i.e. të vdekurit (the dead).
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -70,8 +70,9 @@ udver: '2'
     * acl:relcl for relative clauses
     * csubj:pass for clausal subjects of passive verbs or impersonal verb constructions (i.e. it is my duty *to say*...)
     * nmod:poss for possessive/genitive modifiers
-    * compound:adj for multi-word adjectives and pronouns (and rarely nouns) (i.e. i madh) 
+    * det:adj for multi-word adjectives and pronouns (and rarely nouns) (i.e. i madh) 
 
+ * Adjectival, pronomial and nominal multi-word units have been assigned the tag COMPOUND with the subtype :adj and :pron respectively for the two first ones.
 
 
 ---
