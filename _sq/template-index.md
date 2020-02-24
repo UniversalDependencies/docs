@@ -8,7 +8,7 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* Words are delimited based on whitespace and punctuation. 
+* Words are delimited based on whitespace and punctuation.
 * No multi-word tokens occur. However, multi-word units exist and have been segmented based on whitespace as well. In the current dataset, they appear in the following forms:
   * adjectives, i.e. i madh (big)
   * pronouns, i.e. i cili (who)
@@ -31,7 +31,7 @@ udver: '2'
   * The temporal/passive auxiliary *jam* (to be), which combined with the supine forms periphrastically the perfect tense of the mediopassive voice.
   * The temporal auxiliary *u* (self), which  combined with a finite verb form builds periphrastically the Aorist of the mediopassive voice.
   * The copula *jam* (to be)
-* The tag DET is used for articles/clitics (*i/e/të/një*) both for those forming adjectival and pronomial multi-word units and those forming the genitive/ablative/dative case of nouns. 
+* The tag DET is used for articles/clitics (*i/e/të/një*) both for those forming adjectival and pronomial multi-word units and those forming the genitive/ablative/dative case of nouns.
 * The tag PRON is used for all types of pronouns.
 * Participles (past) are mainly used adjectivally in Albanian and are generally tagged as [ADJ](). The only exception is when these occur in a nominalized form, in which case they are tagged as NOUN i.e. të vdekurit (the dead).
 
@@ -60,12 +60,12 @@ udver: '2'
     * nmod:poss for possessive/genitive modifiers
     * det:adj for prearticulated adjectives
     * det:pron for prearticulated pronouns
-    * det:noun for prearticulated nouns 
+    * det:noun for prearticulated nouns
 
 
 ## Treebanks
 
-There is [one](../treebanks/sq-comparison.html) LANGUAGE UD treebank.
+There is one Albanian UD treebank.
 
   * [Albanian-TSA](../treebanks/sq_tsa/index.html)
 
