@@ -60,7 +60,7 @@ udver: '2'
     * nmod:poss for possessive/genitive modifiers
     * det:adj for prearticulated adjectives
     * det:pron for prearticulated pronouns
-    * det:noun for prearticulated nouns
+    * det:noun for prearticulated nouns 
 
 
 ## Treebanks
