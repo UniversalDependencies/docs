@@ -14,10 +14,6 @@ udver: '2'
   * pronouns, i.e. i cili (who)
   * nouns (nominalized participle), i.e. të vdekurit (the dead)
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
@@ -39,10 +35,6 @@ udver: '2'
 * The tag PRON is used for all types of pronouns.
 * Participles (past) are mainly used adjectivally in Albanian and are generally tagged as [ADJ](). The only exception is when these occur in a nominalized form, in which case they are tagged as NOUN i.e. të vdekurit (the dead).
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
@@ -54,10 +46,6 @@ udver: '2'
 * For Determiners, only [Gender]() has been provided, although number, and case apply as well.
   * Note about DET: Determiners (which only preceed nouns in order to form cases) agree in Gender and Number with the head of the noun phrase and not the noun that is their head (the noun for which they act as case markers). i.e. shkronjat (FEM, PL) e (FEM, PL) librit (MASC, SING) (The letters of the book). This is why, when inflecting nouns for case, one leaves undetermined the gender of the DET in grammar books and provides all options.
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 
@@ -74,10 +62,6 @@ udver: '2'
     * det:pron for prearticulated pronouns
     * det:noun for prearticulated nouns
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
@@ -85,9 +69,3 @@ There is [one](../treebanks/sq-comparison.html) LANGUAGE UD treebank.
 
   * [Albanian-TSA](../treebanks/sq_tsa/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
