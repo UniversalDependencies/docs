@@ -50,12 +50,16 @@ flat(4, 1997)
 _Dé_ + day of the week in the genitive case should be treated like a proper noun string with the flat relation
 
 ~~~ sdparse
-Ceardlann Aisteoireachta agus Drámaíochta sa Chrannóg i nGaoth Dobhair Dé Sathairn agus Dé Domhnaigh seo caite
+Dé Sathairn \n Saturday
 flat(Dé,Sathairn)
+~~~ 
+
+~~~ sdparse
+Ceardlann Aisteoireachta agus Drámaíochta i nGaoth Dobhair Dé Domhnaigh seo caite \n Acting and drama workshops in Gweedore last Sunday
 flat(Dé, Domhnaigh)
 ~~~ 
 
 ~~~ sdparse
-ranganna seiteanna agus céilí do dhaoine fásta gach oíche Dé Luain ag 8.30.
+ranganna seteanna agus céilí do dhaoine fásta gach oíche Dé Luain ag 8.30. \n Set classes and céilis for adults every Monday evening at 8.30
 flat(Dé,Luain)
 ~~~ 
