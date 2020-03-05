@@ -78,7 +78,7 @@ Similar to the emphatic pronoun _self_ in English, e.g. himself, themselves.
 
 ~~~ sdparse
 Cé hiad féin ? \n Who are THEY ?
-compound(hiad, féin)
+nmod(hiad, féin)
 ~~~ 
 
 #### Ownership:
@@ -87,11 +87,24 @@ It can also translate as ownership, yet the possessive pronoun will also be pres
 
 ~~~ sdparse
 ábalta a rá lena bpobal féin \n able to say to their own community
-compound(bpobal, féin)
+nmod(bpobal, féin)
 ~~~
 
 ~~~ sdparse
 le bean Choilm \n with Colm's wife
-compound(bean, Choilm)
+nmod(bean, Choilm)
 ~~~
+
+#### Days and Months:
+
+~~~ sdparse
+I mí Mheán Fómhair 1940
+nmod(mí, Mheán Fómhair)
+~~~
+
+~~~ sdparse
+chaith pióg le Bertie Ahern le linn an fheachtais olltoghcháin i mí Aibreáin. \n A pie was thrown at Bertie Ahern during the election campaign in the month of April
+nmod(mí, Aibreáin)
+~~~
+
 
