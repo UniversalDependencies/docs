@@ -95,10 +95,14 @@ le bean Choilm \n with Colm's wife
 nmod(bean, Choilm)
 ~~~
 
-#### Days and Months:
+#### Months:
+
+In Irish, the word for month is _mí_. When _mí_ is placed in front of the name of the month, the month is in the genitive case (literally meaning 'the month of'). When this happens, we label the name of the month as an nmod. 
+
+We treat days of the week as [flat](https://github.com/UniversalDependencies/docs/blob/pages-source/_ga/dep/flat.md). 
 
 ~~~ sdparse
-I mí Mheán Fómhair 1940
+I mí Mheán Fómhair 1940. \n In the month of September
 nmod(mí, Mheán Fómhair)
 ~~~
 
