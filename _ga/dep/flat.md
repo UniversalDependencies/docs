@@ -44,3 +44,18 @@ nummod(p.m., 5.00)
 flat(4, Aibreán)
 flat(4, 1997)
 ~~~ 
+
+#### Days of the week
+
+_Dé_ + day of the week in the genitive case should be treated like a proper noun string with the flat relation
+
+~~~ sdparse
+Ceardlann Aisteoireachta agus Drámaíochta sa Chrannóg i nGaoth Dobhair Dé Sathairn agus Dé Domhnaigh seo caite
+flat(Dé,Sathairn)
+flat(Dé, Domhnaigh)
+~~~ 
+
+~~~ sdparse
+ranganna seiteanna agus céilí do dhaoine fásta gach oíche Dé Luain ag 8.30.
+flat(Dé,Luain)
+~~~ 
