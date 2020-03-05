@@ -106,5 +106,3 @@ nmod(mí, Mheán Fómhair)
 chaith pióg le Bertie Ahern le linn an fheachtais olltoghcháin i mí Aibreáin. \n A pie was thrown at Bertie Ahern during the election campaign in the month of April
 nmod(mí, Aibreáin)
 ~~~
-
-
