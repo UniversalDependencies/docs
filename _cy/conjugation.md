@@ -29,7 +29,7 @@ language's influence on the written language (cf. Jones 1976, Wiilliams 1980 and
 |      | *canan nhw*	| *can(s)on nhw*   | *canen nhw*  |             |
 | IMPS | *cenir*	| *canwyd*         | *cenid*      | *canasid/canesid* |
 
-### Subjunctive (Mood=Pqp)
+### Subjunctive (Mood=Sub)
 
 | name      | Present Tense | Preterite Tense |
 | ---- | -------------- | ---------------- | 
