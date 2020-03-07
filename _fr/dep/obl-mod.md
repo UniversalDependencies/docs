@@ -15,6 +15,3 @@ oui oui je prends le métro le matin à huit heures et demie \n yes i take the u
 obl:mod(prends, heures)
 obl:mod (prends, matin)
 ~~~
-
-In **UD_French-Spoken**, for prepositional phrases which are required by the verb (or the adjective), the [obl:comp]() relation is used.
-For non-core nominal dependents of a verb, we can use the [obl:periph]() relation.

@@ -530,7 +530,7 @@ Adverbial relativizers receive the same treatment.
 # visual-style 5 2 obl color:blue
 1 the the DET DT Definite=Def|PronType=Art 2 det _ _
 2 episode episode NOUN NN Number=Sing 0 root 5:obl _
-3 where where ADV WRB PronType=Rel 5 advmod 2:ref _
+3 where where ADV WRB PronType=Rel 2 ref _ _
 4 Monica Monica PROPN NNP Number=Sing 5 nsubj _ _
 5 sings sing NOUN NNS Number=Plur 2 acl:relcl _ _
 </div>
@@ -591,15 +591,17 @@ It may be embedded deeper as in the following example.
 </table>
 
 If the relative clause has a nominal predicate, the relative pronoun may occupy the head position
-within the clause. In such cases no relation should be added from its head to its co-referential
+within the clause. In such cases no relation should be added from its parent to its co-referential
 element (because they are the same node). We should only add a `nsubj` relation from the antecedent
-to the `nsubj` of the relative pronoun. The `acl:relcl` should remain the same as in basic
+to the `nsubj` of the relative clause (and remove the corresponding `nsubj` relation between the
+relative pronoun and the subject). The `acl:relcl` should remain the same as in basic
 dependencies.
 
 <!-- https://github.com/UniversalDependencies/docs/issues/531 -->
 <table> <!--He became chairman, which he still is-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
+# visual-style 5 6 nsubj color:green
 1 He       he       PRON  _ Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs 2 nsubj _ _
 2 became   become   NOUN  _ Mood=Ind|Tense=Past|VerbForm=Fin 0 root _ _
 3 chairman chairman NOUN  _ Number=Sing 2 xcomp _ SpaceAfter=No

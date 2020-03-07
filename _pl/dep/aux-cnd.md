@@ -17,11 +17,11 @@ The `aux:cnd` relation is used in the Polish [PDB-UD](http://universaldependenci
 5	zarówno	zarówno	CCONJ	conj	_	6	cc:preconj	_	_
 6	giełdy	giełda	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	interp	PunctType=Comm	8	punct	_	_
-8	kina	kino	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	6	conj	4:nmod|6:conj	SpaceAfter=No
+8	kina	kino	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	6	conj	4:nmod	SpaceAfter=No
 9	,	,	PUNCT	interp	PunctType=Comm	12	punct	_	_
 10	jak	jak	CCONJ	conj	_	12	cc	_	_
 11	i	i	CCONJ	conj	_	10	fixed	_	_
-12	muzeum	muzeum	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	6	conj	4:nmod|6:conj	SpaceAfter=No
+12	muzeum	muzeum	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	6	conj	4:nmod	SpaceAfter=No
 13	.	.	PUNCT	interp	PunctType=Peri	1	punct	_	_
 ~~~
 

@@ -19,7 +19,7 @@ Il faut venir tôt pour avoir de la place \n One needs to get there early to hav
 advcl(venir, avoir)
 ~~~
 
-**UD_French-Spoken** also uses the `advcl`relation. Here are some examples:
+Here are some examples from **UD_French-Spoken**:
 
 ~~~ sdparse
 ils ont fait médecine parce que euh ça va être un métier stable \n they studied medecine because uh it's gonna be a steady job
@@ -31,4 +31,3 @@ advcl(fait, va)
 advcl(donne, mets)
 ~~~
 
-However **UD_French-Spoken** uses another subrelation [advcl:periph]() for averbial clause modifiers that cannot be clefted.

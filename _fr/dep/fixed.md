@@ -21,15 +21,14 @@ fixed(alors,qu')
 mark(censé,alors)
 ~~~
 
-Instead of using the `fixed` relation, **UD_French-Spoken** syntactically analyzes as many expressions as possible (i.e. the `fixed` relation is only used for syntactically irregular constructions).
-For instance, _il y a_ corresponds to two frozen expressions: a particular marker of clefting (_il y a trois livres sur la table_) and an adposition (_Paul est arrivé il y a trois jours_).
+_il y a_ corresponds to two frozen expressions: a particular marker of clefting (_il y a trois livres sur la table_) and an adposition (_Paul est arrivé il y a trois jours_).
 The first is syntactically regular and is analyzed with regular relations.
 The second is syntactically deviant and is analyzed with _fixed_:
 
 ~~~ sdparse
 Il y a trois livres sur la table. \n There are three books on the table.
-nsubj:expl(a, Il)
-advmod(a, y)
+expl:subj(a, Il)
+iobj(a, y)
 ~~~
 
 ~~~ sdparse

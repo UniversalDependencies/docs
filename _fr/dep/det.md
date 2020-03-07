@@ -17,25 +17,15 @@ Quel livre préfères-tu ? \n Which book do you prefer ?
 det(livre, Quel)
 ~~~
 
-The `det` relation is also used by **UD_French-Spoken**:
-
 ~~~ sdparse
 donc la vigilance sera accrue à ce moment -là \n so there will be increased vigilance at that time
 det(vigilance,la)
 det(moment,ce)
 ~~~
 
-In some corpora of the French treebank, possessive determiners are marked with the [nmod:poss]() relation:
+Possessive determiners are marked as `det` in French (unlike the English data whet the [nmod:poss]() relation is used):
 
 ~~~ sdparse
 Mon ami  \n My friend
-nmod:poss(ami, Mon)
-~~~
-
-All French corpora annotates possessive determiners with a `det` relation and does not use the `nmod:poss` relation, exept **UD_French-PUD**.
-
-~~~ sdparse
-nous allons vous prouver l' efficacité de notre boule magique \n we will show you the efficiency of our magic ball
-det(boule,notre)
-det(efficacité,l')
+det(ami, Mon)
 ~~~

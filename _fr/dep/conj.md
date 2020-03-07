@@ -19,8 +19,3 @@ Une seconde d' hésitation , d' inattention ou de retard  \n A second of hesitat
 conj(hésitation, inattention)
 conj(hésitation, retard)
 ~~~
-
-**UD_French-Spoken** does not use the simple `conj` relation.
-Three different subrelations are used instead: [appos:conj](), [conj:coord]() and [conj:dicto]().
-
-

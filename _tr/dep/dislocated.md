@@ -15,10 +15,12 @@ the dislocated element attaches to the head of the clause to which it belongs
 
 ~~~ sdparse
 Ali ki hızlı okur, o bile kitabı bitiremedi . \n Ali, who is a fast reader, even he could not finish the book .
-dislocated(o, Ali)
+dislocated(bitiremedi, Ali)
+nsubj(bitiremedi, o)
 ~~~
 
 ~~~ sdparse
 Bir öğrenci ki yazım kurallarına dikkat etmez, ben onu dersten geçirmem . \n A student who does not pay attention to the spelling, I do not allow him/her to pass the course .
-dislocated(onu, öğrenci)
+obj(geçirmem, onu)
+dislocated(geçirmem, öğrenci)
 ~~~

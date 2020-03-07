@@ -44,7 +44,7 @@ The `advmod:arg` relation is used in the Polish [PDB-UD](http://universaldepende
 18	bardzo	bardzo	ADV	adv:pos	Degree=Pos	19	advmod	_	_
 19	śmiesznie	śmiesznie	ADV	adv:pos	Degree=Pos	17	advmod:arg	_	_
 20	i	i	CCONJ	conj	_	21	cc	_	_
-21	głupio	głupio	ADV	adv:pos	Degree=Pos	19	conj	17:advmod:arg|19:conj	SpaceAfter=No
+21	głupio	głupio	ADV	adv:pos	Degree=Pos	19	conj	17:advmod:arg	SpaceAfter=No
 22	.	.	PUNCT	interp	PunctType=Peri	17	punct	_	_
 ~~~
 

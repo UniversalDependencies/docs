@@ -18,8 +18,6 @@ Je suis certain qu'il l'a fait \n I am certain that he did it
 ccomp(certain, fait)
 ~~~
 
-Here is an example from **UD_French-Spoken** with a `ccomp`:
-
 ~~~ sdparse
 on ne peut pas exclure qu' il y ait quelque chose de grave \n it cannot be ruled out that there is something serious
 ccomp(exclure, ait)

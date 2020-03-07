@@ -30,3 +30,36 @@ flat(Bhaile, Cliath)
 flat(Bhaile, Thiar)
 flat(Bhaile, Thuaidh)
 ~~~ 
+
+NOTE: Information clusters that contain dates/times should be labelled in the following way:
+
+_Ní mór na foirmeacha (...) a <b>bheith</b> san Ardoifig roimh 5.00 <b>p.m.</b>, <b>Aoine</b>, <b>4</b> Aibreán 1997._ The forms must be submitted to Head Office before 5:00 p.m., Friday, 4 April 1997. 
+
+~~~ sdparse
+Ní mór na foirmeacha (...) a bheith san Ardoifig roimh 5.00 p.m. , Aoine , 4 Aibreán 1997 . \n Must be the forms (...) to being in_the Head_office before 5.00 p.m. , Friday , 4 April 1997 .
+obl:tmod(bheith, p.m.)
+obl:tmod(bheith, Aoine)
+obl:tmod(bheith, 4)
+nummod(p.m., 5.00)
+flat(4, Aibreán)
+flat(4, 1997)
+~~~ 
+
+#### Days of the week
+
+_Dé_ is often used when referring to a particualr day of the week. The particular day of the week follows _Dé_ and is in the genitive case. We treat this like a proper noun string with the flat relation.
+
+~~~ sdparse
+Dé Sathairn \n Saturday
+flat(Dé,Sathairn)
+~~~ 
+
+~~~ sdparse
+Ceardlann Aisteoireachta agus Drámaíochta i nGaoth Dobhair Dé Domhnaigh seo caite \n Acting and drama workshops in Gweedore last Sunday
+flat(Dé, Domhnaigh)
+~~~ 
+
+~~~ sdparse
+ranganna seteanna agus céilí do dhaoine fásta gach oíche Dé Luain ag 8.30. \n Set classes and céilis for adults every Monday evening at 8.30
+flat(Dé,Luain)
+~~~ 

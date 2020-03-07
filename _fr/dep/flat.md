@@ -32,4 +32,3 @@ det(Belle, La)
 det(Bête, la)
 ~~~
 
-**UD_French-Spoken** uses [appos:nmod]() instead of `flat`.

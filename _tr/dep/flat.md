@@ -15,7 +15,7 @@ flat(Mustafa, Kemal)
 ~~~
 
 Similar to some other treebanks, e.g.,  [Czech](cs-dep/flat), 
-we do not use [nmod]() for titles and honorifics.
+we use [nmod]() for titles and honorifics.
 
 ~~~ sdparse
 Gazi Mustafa Kemal

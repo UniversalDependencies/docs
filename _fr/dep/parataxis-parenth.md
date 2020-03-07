@@ -5,7 +5,7 @@ shortdef: 'parataxis parenthesical'
 udver: '2'
 ---
 
-In **UD_French-Spoken**, the `parataxis:parenth` relation is used for parenthetical clauses.
+Only in **UD_French-Spoken**, the `parataxis:parenth` relation is used for parenthetical clauses.
 They could constitute autonomous sentences but they are inserted within another illocutary unit.
 
 ~~~ sdparse
@@ -13,11 +13,7 @@ Les enfants ont le droit d'avoir du temps libre ( voir ci-dessous ) \n Children 
 parataxis:parenth(ont, voir)
 ~~~
 
-Here is an example from **UD_French-Spoken**:
-
 ~~~ sdparse
 alors que heinze c'est quand même assez extraordinaire hein c'est le patron de la défense \n wheras Heinze it's quite extraordinary he's the boss of defense
 parataxis:parenth(patron, extraordinaire)
 ~~~
-
-There are five more subrelations that **UD_French-Spoken** uses: [parataxis:discourse](), [parataxis:dislocated](), [parataxis:insert](), [parataxis:obj]() and [parataxis:conj]().

@@ -13,7 +13,7 @@ head of the relative clause.
 J'ai vu l' homme qui t' aime \n I saw the man who loves you
 acl:relcl(homme, aime)
 nsubj(aime, qui)
-dobj(aime, t')
+obj(aime, t')
 ~~~
 
 Some examples from **UD_French-Spoken**:
@@ -30,4 +30,4 @@ acl:relcl(enseignants,souvenez)
 obl:comp(souvenez,dont)
 ~~~
 
-N.B.: For cleft sentences, two corpora use the [advcl:cleft]() subrelation.
+N.B.: For cleft sentences, the [advcl:cleft]() subrelation is used in most French corpora.

@@ -22,7 +22,3 @@ parataxis(ont, voir)
 C'est l' idée : les enfants sont le futur \n That is the thought : children are the future
 parataxis(idée, futur)
 ~~~
-
-**UD_French-Spoken** does not use the simple `parataxis` relation.
-There are instead six different subrelations:
-[parataxis:discourse](), [parataxis:dislocated](), [parataxis:insert](), [parataxis:obj](), [parataxis:parenth]() and [parataxis:conj]().

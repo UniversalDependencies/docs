@@ -5,10 +5,20 @@ shortdef: 'expletive'
 udver: '2'
 ---
 
-Note that currently expletives are not annotated consistently in the French treebank.
+Note that in version 2.5, expletives are not annotated consistently in the French treebank.
+
+|                      |        UD_French-GSD |    UD_French-Sequoia |        UD_French-FQB |        UD_French-PUD |     UD_French-ParTUT |        UD_French-FTB |     UD_French-Spoken |
+|----------------------|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|
+|                 expl |      **===========** |      **===========** |      **===========** |      **===========** | [212](http://match.grew.fr/?corpus=UD_French-ParTUT@2.5&relation=expl) [0.74%] | [4112](http://match.grew.fr/?corpus=UD_French-FTB@2.5&relation=expl) [0.72%] |      **===========** |
+|            expl:comp | [1105](http://match.grew.fr/?corpus=UD_French-GSD@2.5&relation=expl:comp) [0.28%] | [286](http://match.grew.fr/?corpus=UD_French-Sequoia@2.5&relation=expl:comp) [0.41%] | [176](http://match.grew.fr/?corpus=UD_French-FQB@2.5&relation=expl:comp) [0.73%] | [28](http://match.grew.fr/?corpus=UD_French-PUD@2.5&relation=expl:comp) [0.11%] |      **===========** |      **===========** |      **===========** |
+|            expl:pass | [760](http://match.grew.fr/?corpus=UD_French-GSD@2.5&relation=expl:pass) [0.19%] | [57](http://match.grew.fr/?corpus=UD_French-Sequoia@2.5&relation=expl:pass) [0.08%] |      **===========** |      **===========** |      **===========** |      **===========** |      **===========** |
+|            expl:subj | [763](http://match.grew.fr/?corpus=UD_French-GSD@2.5&relation=expl:subj) [0.19%] | [241](http://match.grew.fr/?corpus=UD_French-Sequoia@2.5&relation=expl:subj) [0.34%] | [331](http://match.grew.fr/?corpus=UD_French-FQB@2.5&relation=expl:subj) [1.37%] | [83](http://match.grew.fr/?corpus=UD_French-PUD@2.5&relation=expl:subj) [0.34%] |      **===========** |      **===========** | [354](http://match.grew.fr/?corpus=UD_French-Spoken@2.5&relation=expl:subj) [1.00%] |
+
+
+The remaining of the page is OUTDATED and not relevant to version 2.5
 
 **UD_French-Spoken** does not use the `expl` relation.
-The current definition sates that the `expl`relation should be used for "nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate" (see the universal dependency page [u-dep/expl]()).
+The current definition sates that the `expl` relation should be used for "nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate" (see the universal dependency page [u-dep/expl]()).
 This definition seems to give more value to the semantic relations than to the syntactic relations.
 That is why **UD_French-Spoken** only uses `expl` as a subrelation for impersonal constructions.
 All other arguments (whether they satisfy a semantic role of the predicate or not) will be annotated with the usual syntactic dependency relations (nsubj, obj etc.).

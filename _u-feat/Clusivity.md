@@ -23,7 +23,7 @@ Includes the listener, i.e. _we_ = _I + you_ (+ optionally _they_).
 #### Examples
 
 * [id] _<b>kita</b>_ “<b>we</b>”
-* [crk] _<b>niwīcihānān</b>_ “we (I+they) help him”
+* [crk] _<b>kiwīcihānaw</b>_ “we (I+you) help him”
 
 ### <a name="Ex">`Ex`</a>: exclusive
 
@@ -32,7 +32,7 @@ Excludes the listener, i.e. _we_ = _I + they._
 #### Examples
 
 * [id] _<b>kami</b>_ “<b>we</b>”
-* [crk] _<b>kiwīcihānaw</b>_ “we (I+you) help him”
+* [crk] _<b>niwīcihānān</b>_ “we (I+they) help him”
 
 ## References
 

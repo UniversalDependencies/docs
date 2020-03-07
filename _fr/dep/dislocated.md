@@ -5,7 +5,7 @@ shortdef : 'dislocated elements'
 udver: '2'
 ---
 
-The `dislocated` relation is used for fronted or postposed elements that do not fulfill the usual core grammatical relations of a sentence.
+The `dislocated` relation is used for fronted or postposed elements that do not fulfil the usual core grammatical relations of a sentence.
 Dislocated elements are attached to the same governor as the dependent that they double for.
 
 This construction is quite frequent in spoken French.

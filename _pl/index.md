@@ -23,7 +23,7 @@ udver: '2'
 
 ### Tags
 
-* Polish in principle uses all 17 universal POS categories: [SYM]() is only used in the [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) treebank to mark symbols, e.g. _%_ (percent), _°_ (degree), _+_ (plus), _-_ (minus), _$_ (dollar), or emojis, e.g. _:-)_, and [X]() is only used in the [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) treebank (to mark abbreviations and digits).
+1. * Polish in principle uses all 17 universal POS categories: [SYM]() is only used in the [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) treebank to mark symbols, e.g. _%_ (percent), _°_ (degree), _+_ (plus), _-_ (minus), _$_ (dollar), or emojis, e.g. _:-)_, and [X]() is only used in the [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) treebank (to mark abbreviations and digits).
 * The [NOUN]() tag is used not only for prototypical nouns, but also – somewhat arbitrarily – for gerunds (the so-called _-nie/-cie_ forms), which have both nominal and verbal properties.
 * Pronouns ([PRON]()) are here understood as personal pronouns, so-called reflexive pronouns (also in their non-reflexive and – generally – non-pronominal uses), and such nominal pronouns as _kto_ “who”, _nic_ “nothing” and _wszyscy_ “everybody”.
 * As Polish grammars do not include a separate part of speech _determiner_, the [DET]() class is based on a word list and includes words treated by standard Polish tagsets as adjectives, numerals or even nouns:

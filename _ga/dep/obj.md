@@ -43,3 +43,19 @@ _An lá a cuireadh <b>é</b>_  'The day <b>he</b> was buried'
 An lá a cuireadh é \n The day that was_buried he
 obj(cuireadh, é)
 ~~~
+
+NOTE: We treat nominal dependents of verbal nouns as `obj` whether the definite article is present or not. 
+
+_...gan do bheith ag <b>caitheamh</b> an <b>lae</b>..._  '...without <b>spending</b> the <b>day</b>...'
+
+~~~ sdparse
+gan do bheith ag caitheamh an lae \n without to being at_the spending of_the day
+obj(caitheamh, lae)
+~~~
+
+_Is ag <b>déanamh</b> <b>cáca</b> atá mé._  'I'm <b>making</b> a <b>cake</b>'
+
+~~~ sdparse
+Is ag déanamh cáca atá mé \n Is at_the making of_a_cake that_am I
+obj(déanamh, cáca)
+~~~

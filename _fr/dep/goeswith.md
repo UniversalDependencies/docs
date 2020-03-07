@@ -6,22 +6,12 @@ udver: '2'
 ---
 
 This relation links two parts of a word that are separated in text that is not well edited, or due to tokenization errors.
-The head is in some sense the *main* part.
+
+
+|                      |        UD_French-GSD |    UD_French-Sequoia |        UD_French-FQB |        UD_French-PUD |     UD_French-ParTUT |        UD_French-FTB |     UD_French-Spoken |
+|----------------------|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|
+|             goeswith | [31](http://match.grew.fr/?corpus=UD_French-GSD@2.5&relation=goeswith) [0.01%] | [2](http://match.grew.fr/?corpus=UD_French-Sequoia@2.5&relation=goeswith) [0.00%] | [1](http://match.grew.fr/?corpus=UD_French-FQB@2.5&relation=goeswith) [0.00%] | [3](http://match.grew.fr/?corpus=UD_French-PUD@2.5&relation=goeswith) [0.01%] | [1](http://match.grew.fr/?corpus=UD_French-ParTUT@2.5&relation=goeswith) [0.00%] |      **===========** |      **===========** |
+
 
 This relation is rarely used in the French treebank.
-
-~~~ sdparse
-Ils sont partis aujourd' hui  \n They left today
-goeswith(aujourd', hui)
-~~~
-
-For some constructions using hyphens, **UD_French-Spoken** uses the `goeswith` relation:
-
-~~~ sdparse
-A - t - il mangé la dernière part de gâteau ? \n Did he eat the last slice of cake?
-goeswith(--2,t)
-goeswith(--2,--4)
-goeswith(--2,il-5)
-~~~
-
-For more details see the [tokenization page](http://universaldependencies.org/fr/tokenization.html).
+Most of the times, it is used in cases where the `-` character is missing in the orginal text like in *lui même* (should be *lui-même*).

@@ -18,8 +18,7 @@ In **UD_French-Sequoia**, the `obl` relation is not used but it is replaced by [
 
 In **UD_French-GSD**, the distinction `obl:mod` / `obl:arg` is not available everywhere, the `obl` relation is then used.
 
-**UD_French-Spoken** uses the `obl:mod` relation when the dependent is a modifier of the verb and the [obl:comp]() relation when the dependent is a core argument of the verb.
-The [obl:periph]() relation is used to annotate some of the non-core nominal dependents of the verb.
+**UD_French-Spoken** uses the `obl:mod` relation when the dependent is a modifier of the verb and the [obl:arg]() relation when the dependent is a core argument of the verb.
 
 Here are a few examples:
 

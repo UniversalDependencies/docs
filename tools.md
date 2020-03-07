@@ -326,7 +326,7 @@ DepEdit is a simple, open source, configurable tool for manipulating dependency 
 
 DKPro Core is collection of software components for natural language processing (NLP) based on the Apache UIMA framework. DKPro Core can be used to build workflows that automatically process text using a wide range of NLP tools from third parties that are all interoperable (Stanford CoreNLP, Apache OpenNLP, ClearNLP, mate-tools, etc etc.). It also supports a range of different data formats and can be used to convert between the different supported formats.
 
-Starting with version 1.9.0, DKPro Core supports [reading and writing](https://zoidberg.ukp.informatik.tu-darmstadt.de/jenkins/job/DKPro%20Core%20Documentation%20(GitHub)/de.tudarmstadt.ukp.dkpro.core$de.tudarmstadt.ukp.dkpro.core.doc-asl/doclinks/6/#format-ConllU) the CoNLL-U format.
+Starting with version 1.9.0, DKPro Core supports reading and writing the CoNLL-U format.
 
 The latest CoNLL-U 2.0 format is not yet supported.
 

@@ -5,7 +5,7 @@ shortdef: 'cleft adverbial clause modifier'
 udver: '2'
 ---
 
-The `advcl:cleft` relation is used in two corpora (**UD_French-Spoken** and **UD_French-GSD**).
+The `advcl:cleft` relation is used in four corpora.
 It is used to link the clefted element and the clause of the cleft sentence.
 This link is used for every type of cleft element (nominal phrase, prepositional phrase etc.).
 

@@ -6,8 +6,8 @@ udver: '2'
 
 # Tokenization
 
-The low-level tokenization of the Eastern Armenian UD treebank follows the tokenization of the
-[ՀայՇտեմ - Eastern Armenian Dependency Treebank 1.0](http://armtreebank.yerevann.com/) (ArmDT-East):
+The low-level tokenization of the UD Eastern Armenian Treebank follows the tokenization of the
+[Հայերենի ծառադարան - Eastern Armenian Treebank](http://armtreebank.yerevann.com/):
 
 * In general, tokens are delimited by whitespace.
 * Punctuation (recognized by the corresponding Unicode property) that is conventionally written adjacent to the preceding or following word is separated during tokenization.
@@ -17,7 +17,7 @@ The low-level tokenization of the Eastern Armenian UD treebank follows the token
     In these cases, the first token is a special form of adjective that never occurs independently.
     Compounds without a hyphen are not split, thus _ռազմածովային_ “navy” is one token but _հասարակական-քաղաքական_ “civic-social” would be three tokens.
     Another common case of splitting-on-hyphen are reduplicative or echo words as in *մեծ-մեծ* “very big”, *շուն-մուն* “dog or something”.
-  * Inflectional bound morphemes and hypens after phrases or sentences used as names in quotation marks or after abbreviations marked by a period, as in *«Երկիր Նաիրի»-ից* “from “Yerkir Nairi” or *1937 թ.-ին* “in year 1937” are split and are considered as separate tokens: {&nbsp;*<b>«</b>* *<b>Երկիր</b>* *<b>Նաիրի</b>* *<b>»</b>* *<b>-</b>* *<b>ից</b>*&nbsp;} and {&nbsp;*<b>1937</b>* , *<b>թ</b>* , *<b>.</b>* , *<b>-</b>* , *<b>ին</b>*&nbsp;} .
+  * Inflectional bound morphemes and hypens after phrases or sentences used as names in quotation marks or after abbreviations marked by a period, as in *«Երկիր Նաիրի»-ից* “from “Yerkir Nairi” or *1937 թ.-ին* “in year 1937” are split and are considered as separate tokens: {&nbsp;*<b>«</b>* , *<b>Երկիր</b>* , *<b>Նաիրի</b>* , *<b>»</b>* , *<b>-</b>* , *<b>ից</b>*&nbsp;} and {&nbsp;*<b>1937</b>* , *<b>թ</b>* , *<b>.</b>* , *<b>-</b>* , *<b>ին</b>*&nbsp;} .
   The word before the hypen is the head and the bound morpheme is linked with a `dep`. Tokenizing and segmenting this way seems easier for parsing.  
   * The words that contain “infixed” punctuation (question, exclamation, emphasis and Armenian abbreviation marks), as in *ինչո՞ւ* “why?”, are considered multi-word tokens and become two tokens, *<b>ինչու</b>* and *<b>՞</b>* . EXCEPTION is the apostrophe, as in *Ժաննա դ՚Արկ* “Joan of Arc”, which is split and belongs to the preceding word, {&nbsp;*<b>Ժաննա</b>* , *<b>դ՚</b>* , *<b>Արկ</b>*&nbsp;}.
   * Numerical expressions (including dates) are treated as single words as long as they do not contain spaces, for example, *<b>355,089.40</b>* , *<b>01.01.1970</b>* , *<b>01/01/1970</b>* , *<b>11:00</b>* , *<b>11.00</b>* , *<b>1937-1938</b>* , *<b>10-15</b>* . Decimal numbers are also kept as one token, e.g. *<b>2.1</b>* , *<b>2,1</b>* , *<b>0.5-1.5</b>* .

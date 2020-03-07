@@ -18,19 +18,10 @@ Appelation d'origine contrôlée  ( AOC )
 appos(Appelation, AOC)
 ~~~
 
-**UD_French-Spoken** does not use the `appos` relation anymore.
-Instead there are two subrelations [appos:nmod]() and [appos:conj]().
-
-The `appos:nmod` relation is used for appositions which modify nominal elements.
+In **UD_French-Spoken**, two relations are used: `appos` and [nmod:appos]().
 
 ~~~ sdparse
 la place Voltaire
-appos:nmod(place, Voltaire)
+nmod:appos(place, Voltaire)
 ~~~
 
-The `appos:conj` relation is used for appositions that respect the prosody of list (the elements of such an appositions are in the same paradigm and have the same referent):
-
-~~~ sdparse
-Sam , mon frère , est arrivé . \n Sam, my brother, arrived.
-appos:conj(Sam, frère)
-~~~
