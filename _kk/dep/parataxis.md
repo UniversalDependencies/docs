@@ -10,6 +10,7 @@ As with explicit coordinations, the last element is the governor.
 Also parenthetical and interjected clauses can receive the `parataxis` dependency. 
 
 ~~~ sdparse
-Азамат пен Айгүл ойнағанды жақсы көреді , олар әрдайым бақшада бірге ойнайды . \n Azamat and Aygül playing XX see , they always garden-in together play .
+Азамат пен Айгүл ойнағанды жақсы көреді , олар әрдайым бақшада бірге ойнайды . \n Azamat and Aygül playing well see , they always garden-in together play .
 parataxis(ойнайды-12, көреді-6)
 ~~~
+‘Azamat and Aygül like playing, they always play together in the garden.’
