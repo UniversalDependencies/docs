@@ -13,4 +13,4 @@ Also parenthetical and interjected clauses can receive the `parataxis` dependenc
 Азамат пен Айгүл ойнағанды жақсы көреді , олар әрдайым бақшада бірге ойнайды . \n Azamat and Aygül playing well see , they always garden-in together play .
 parataxis(ойнайды-12, көреді-6)
 ~~~
-‘Azamat and Aygül like playing, they always play together in the garden.’
+'Azamat and Aygül like playing, they always play together in the garden.'
