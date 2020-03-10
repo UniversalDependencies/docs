@@ -29,3 +29,14 @@ _Helena McMahon, <b>duine</b> a bhfuil baint aici le healaín phobail i Luimneac
 Helena McMahon, duine a bhfuil baint aici le healaín phobail i Luimneach. \n Helena McMahon, person who there_is part at_her with art of_community in Limerick.
 appos(Helena, duine)
 ~~~
+
+In cases where a date string forms a separate clause (potentially introduced by punctuation), the appos label is preferred for the head of the string. Subsequent tokens that are part of the string are attached as flat. 
+
+_Tá an spriocdháta seo a leanas leagtha amach d'iarratais ar chabhair dheontais: <b>16</b> Eanáir 2003._ `The following closing date has been set for applications for grant aid: 16 January 2003.'
+
+~~~ sdparse
+Tá an spriocdháta seo a leanas leagtha amach d'iarratais ar chabhair dheontais: 16 Eanáir 2003. \n Is the closing_date this that will_follow laid out for_applications on aid of_grant: 16 January 2003.
+appos(spriocdháta, 16)
+flat(16, Eanáir)
+flat(16, 2003.)
+~~~
