@@ -49,17 +49,23 @@ flat(4, 1997)
 
 _Dé_ is often used when referring to a particualr day of the week. The particular day of the week follows _Dé_ and is in the genitive case. We treat this like a proper noun string with the flat relation.
 
+_Dé <b>Sathairn</b>_ (on) Saturday
+
 ~~~ sdparse
-Dé Sathairn \n Saturday
+Dé Sathairn \n [] of_Saturday
 flat(Dé,Sathairn)
 ~~~ 
 
+_Ceardlann Aisteoireachta agus Drámaíochta i nGaoth Dobhair Dé <b>Domhnaigh</b> seo caite_ Acting and Drama Workshop in Gweedore last Sunday
+
 ~~~ sdparse
-Ceardlann Aisteoireachta agus Drámaíochta i nGaoth Dobhair Dé Domhnaigh seo caite \n Acting and drama workshops in Gweedore last Sunday
+Ceardlann Aisteoireachta agus Drámaíochta i nGaoth Dobhair Dé Domhnaigh seo caite \n Workshop of_Acting and of_Drama in Gweedore [] [] of_Sunday this_past spent
 flat(Dé, Domhnaigh)
 ~~~ 
 
+_ranganna seteanna agus céilí do dhaoine fásta gach oíche Dé <b>Luain</b> ag 8.30._ set dancing and céilí classes for adults every Monday night at 8.30.
+
 ~~~ sdparse
-ranganna seteanna agus céilí do dhaoine fásta gach oíche Dé Luain ag 8.30. \n Set classes and céilis for adults every Monday evening at 8.30
+ranganna seteanna agus céilí do dhaoine fásta gach oíche Dé Luain ag 8.30. \n Classes of_sets and of_céilí for people grown every night [] of_Monday at 8.30 
 flat(Dé,Luain)
 ~~~ 
