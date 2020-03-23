@@ -47,7 +47,7 @@ flat(4, 1997)
 
 #### Days of the week
 
-_Dé_ is often used when referring to a particualr day of the week. The particular day of the week follows _Dé_ and is in the genitive case. We treat this like a proper noun string with the flat relation.
+_Dé_ is a particle that introduces days of the week. The particular day of the week follows _Dé_ in the genitive case. We treat this like a proper noun string, i.e. with the flat relation.
 
 _Dé <b>Sathairn</b>_ '(on) Saturday'
 
