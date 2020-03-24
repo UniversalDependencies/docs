@@ -74,7 +74,7 @@ flat(Dé,Luain)
 
 Per the UD guidelines regarding the treatment of [Dates and Complex Numerals](https://universaldependencies.org/u/dep/all.html#dates-and-complex-numerals), date expressions with a clear syntactic structure should be annotated with regular dependency relations. 
 
-_Phós siad ar an 10ú lá de mhí na Nollag_ 'They got married on the 10th of December'
+_Phós siad ar an <b>10ú lá de mhí na Nollag</b>_ 'They got married on the 10th of December'
 
 ~~~ sdparse
 Phós siad ar an 10ú lá de mhí na Nollag \n Married they on the 10th day of_the month of December []
