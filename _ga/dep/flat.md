@@ -47,7 +47,7 @@ flat(4, 1997)
 
 #### Days of the week
 
-_Dé_ is a particle that introduces days of the week. The particular day of the week follows _Dé_ in the genitive case. We treat this like a proper noun string, i.e. with the flat relation.
+_Dé_ is a particle that introduces days of the week. The particular day of the week follows _Dé_ in the genitive case. We treat this as having no phrasal structure, i.e. with the flat relation.
 
 _Dé <b>Sathairn</b>_ '(on) Saturday'
 
@@ -68,4 +68,39 @@ _ranganna seteanna agus céilí do dhaoine fásta gach oíche Dé <b>Luain</b> a
 ~~~ sdparse
 ranganna seteanna agus céilí do dhaoine fásta gach oíche Dé Luain ag 8.30. \n Classes of_sets and of_céilí for people grown every night [] of_Monday at 8.30 
 flat(Dé,Luain)
+~~~ 
+
+#### Months of the year
+
+Per the UD guidelines regarding the treatment of [Dates and Complex Numerals](https://universaldependencies.org/u/dep/all.html#dates-and-complex-numerals), date expressions with a clear syntactic structure should be annotated with regular dependency relations. 
+
+_Phós siad ar an 10ú lá de mhí na Nollag_ 'They got married on the 10th of December'
+
+~~~ sdparse
+Phós siad ar an 10ú lá de mhí na Nollag \n Married they on the 10th day of_the month of December []
+nummod(lá,10ú)
+obl(lá,Phós)
+nmod(lá,mhí)
+nmod(mhí,Nollag)
+~~~ 
+
+However, the `flat` relation should be used for date expressions which have a flat structure with no clearly discernible head.
+
+_10-12 Deireadh <b>Fómhair</b>_ '10-12 December'
+
+~~~ sdparse
+10-12 Deireadh Fómhair \n 10-12 December []
+flat(10,12)
+flat(10,Deireadh)
+flat(10,Fómhair)
+~~~ 
+
+NOTE: Several months of the year in Irish are composed of two nouns. In this case, the second noun is treated as `flat` on the first. 
+
+
+_Meán <b>Fómhair</b>_ 'September'
+
+~~~ sdparse
+Meán Fómhair \n September []
+flat(Meán,Fómhair)
 ~~~ 
