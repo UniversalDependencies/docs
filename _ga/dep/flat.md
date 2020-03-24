@@ -86,10 +86,10 @@ nmod(mhí,Nollag)
 
 However, the `flat` relation should be used for date expressions which have a flat structure with no clearly discernible head.
 
-_10-12 Deireadh <b>Fómhair</b>_ '10-12 December'
+_10 - 12 Deireadh <b>Fómhair</b>_ '10 - 12 December'
 
 ~~~ sdparse
-10-12 Deireadh Fómhair \n 10-12 December []
+10 - 12 Deireadh Fómhair \n 10 - 12 December []
 flat(10,12)
 flat(10,Deireadh)
 flat(10,Fómhair)
@@ -97,10 +97,9 @@ flat(10,Fómhair)
 
 NOTE: Several months of the year in Irish are composed of two nouns. In this case, the second noun is treated as `flat` on the first. 
 
-
 _Meán <b>Fómhair</b>_ 'September'
 
 ~~~ sdparse
-Meán Fómhair \n September []
+Meán Fómhair \n Middle of_Harvest
 flat(Meán,Fómhair)
 ~~~ 
