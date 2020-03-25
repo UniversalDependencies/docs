@@ -36,6 +36,8 @@ The comparative particle is used for introducing a comparative adjective (see [D
 * _<b>níos</b> mó_ “bigger”
 * _<b>níos</b> déine_ “more intense”
 
+NOTE: Although 'níos' is tagged as a substantive noun in the standard rule-based POS tagger and in IDT, we mark it as a particle in order to ensure consistency with the superlative form in the same manner.
+
 ### `Cop` : copular
 
 The copular particle introduces a copular construction. There is only one instance of this particle in the treebank currently.
