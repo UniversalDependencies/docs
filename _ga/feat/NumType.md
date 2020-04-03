@@ -23,16 +23,6 @@ Cardinal numbers can be divided into those without nouns (used in counting, givi
 * _<b>naoi</b> <b>g</b>capall <b>déag</b>_ "nineteen horses"
 * _<b>seasca</b> punt_ "sixty pounds"
 
-### `Pers` : personal numerals
-
-The personal numerals are used for counting people. From numbers 1-12 this system of counting differs from that used with other nouns, after that, the form is the same as the cardinal form, or a combination of the two forms.
-
-#### Examples
-
-* _duine <b>amháin</b>_ "<b>one</b> person"
-* _<b>beirt</b>_ "two people"
-* _<b>aon</b> b<b>h</b>ean <b>dhéag</b>_ "eleven women"
-* _<b>seasca</b> fear_ "sixty men"
 
 ### `Ord` : ordinal numbers
 
