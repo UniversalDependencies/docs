@@ -10,7 +10,7 @@ The `orphan` relation is employed in cases of head ellipsis, i.e. where promotio
 
 ### Examples
 
-_Tháinig riail chun cinn a choiscfeadh dath a chur ar dhath eile, nó <b>miotal</b> ar mhiotal eile._ 'A rule was introduced that would ban the placement of one colour over another, or one <b>metal</b> over another.'
+_Tháinig riail chun cinn a choiscfeadh dath a chur ar dhath eile, nó <b>miotal</b> ar mhiotal eile._ 'A rule was introduced that would ban placing one colour over another, or one <b>metal</b> over another.'
 
 ~~~ sdparse
 Tháinig riail chun cinn a choiscfeadh dath a chur ar dhath eile, nó miotal ar mhiotal eile. \n Came rule to fore that would_ban colour to put on colour other, or metal on metal other.
