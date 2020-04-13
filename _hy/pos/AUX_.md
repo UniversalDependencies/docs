@@ -49,7 +49,7 @@ Note, that fintie present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ a
   _<b>հասկացնել</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand” (morphological causative),
   _<b>հասկացնել</b>_.`Cau` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”.
 
-- Conditional mood. The mood particle _<b>պիտի</b>_ “to by necessary, useful” and the impersonal predicative _<b>պետք է</b>_ “lit: is needed” are combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
+- Necessitative mood. The mood particle _<b>պիտի</b>_ “to by necessary, useful” and the impersonal predicative _<b>պետք է</b>_ “lit: is needed” are combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
 _<b>պիտի (պետք է)</b> գնա&nbsp;_ “he/she <b>must</b> go home”,
 _<b>պիտի (պետք է)</b> գնար&nbsp;_ “he/she <b>had</b> to go”.
 
