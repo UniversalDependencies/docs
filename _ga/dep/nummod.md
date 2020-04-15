@@ -27,7 +27,7 @@ nummod(fo-alt, (1))
 _don aoisghrúpa faoi <b>ocht</b> mbliana_ `for the under <b>eights</b> age group'
 
 ~~~ sdparse
-don aoisghrúpa faoi ocht mbliana. \n for_the age_group under eight years
+don aoisghrúpa faoi ocht mbliana \n for_the age_group under eight years
 nummod(mbliana, ocht)
 ~~~
 
