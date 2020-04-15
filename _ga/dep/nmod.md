@@ -97,9 +97,9 @@ nmod(bean, Choilm)
 
 #### Months:
 
-In Irish, the word for month is _mí_. We often use the word _mí_ when referring to a paricular month. For example <b>mí Iúil</b> means the month of July. The name of the month is in the genitive case (literally meaning 'the month of'). In this case, we label the name of the month as nmod. Months that are composed of more than two nouns are treated as `flat`.
+In Irish, the word for month is _mí_ (lit. 'the month of'). We often use the word _mí_ when referring to a paricular month. For example <b>mí Iúil</b> means 'the month of July'. The name of the month follows 'mí' in the genitive case. We label the name of the month as `nmod`. Months that are composed of more than two nouns are treated as `flat`.
 
-NOTE: We treat days of the week as [flat](https://universaldependencies.org/ga/dep/flat.html) 
+NOTE: We also treat days of the week as [flat](https://universaldependencies.org/ga/dep/flat.html) 
 
 ~~~ sdparse
 chaith pióg le Bertie Ahern le linn an fheachtais olltoghcháin i mí Aibreáin \n A pie was thrown at Bertie Ahern during the election campaign in the month of April
