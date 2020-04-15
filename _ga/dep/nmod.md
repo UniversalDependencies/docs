@@ -95,16 +95,6 @@ le bean Choilm \n with Colm's wife
 nmod(bean, Choilm)
 ~~~
 
-#### Quantifiers:
-
-_sa bhliain <b>1975</b>_ `in the year <b>1975</b>'
-
-~~~ sdparse
-sa bhliain 1975 \n in year 1975
-nummod(bhliain, 1975)
-~~~
-
-
 #### Months:
 
 In Irish, the word for month is _mí_. We often use the word _mí_ when referring to a paricular month. For example <b>mí Iúil</b> means the month of July. The name of the month is in the genitive case (literally meaning 'the month of'). In this case, we label the name of the month as nmod. Months that are composed of more than two nouns are treated as `flat`.
