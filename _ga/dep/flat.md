@@ -33,7 +33,7 @@ flat(Bhaile, Thuaidh)
 
 NOTE: Information clusters that contain dates/times should be labelled in the following way:
 
-_Ní mór na foirmeacha (...) a <b>bheith</b> san Ardoifig roimh 5.00 <b>p.m.</b>, <b>Aoine</b>, <b>4</b> Aibreán 1997._ The forms must be submitted to Head Office before 5:00 p.m., Friday, 4 April 1997. 
+_Ní mór na foirmeacha (...) a <b>bheith</b> san Ardoifig roimh 5.00 <b>p.m.</b>, <b>Aoine</b>, <b>4</b> <b>Aibreán</b> <b>1997</b>._ The forms must be submitted to Head Office before 5:00 <b>p.m.</b>, <b>Friday</b>, <b>4</b> <b>April</b> <b>1997</b>. 
 
 ~~~ sdparse
 Ní mór na foirmeacha (...) a bheith san Ardoifig roimh 5.00 p.m. , Aoine , 4 Aibreán 1997 . \n Must be the forms (...) to being in_the Head_office before 5.00 p.m. , Friday , 4 April 1997 .
@@ -45,7 +45,7 @@ flat(4, Aibreán)
 flat(4, 1997)
 ~~~ 
 
-Similarly, simpler date strings with no discernible internal syntactic structure should also be treated as flat per the UD guidelines. 
+Similarly, date strings with no discernible internal syntactic structure should also be treated as flat per the UD guidelines. 
 
 _sa bhliain <b>1975</b>_ `in the year <b>1975</b>'
 
