@@ -45,6 +45,15 @@ flat(4, Aibreán)
 flat(4, 1997)
 ~~~ 
 
+Similarly, simpler date strings with no discernible internal syntactic structure should also be treated as flat per the UD guidelines. 
+
+_sa bhliain <b>1975</b>_ `in the year <b>1975</b>'
+
+~~~ sdparse
+sa bhliain 1975 \n in year 1975
+nummod(bhliain, 1975)
+~~~
+
 #### Days of the week
 
 _Dé_ is a particle that introduces days of the week. The particular day of the week follows _Dé_ in the genitive case. We treat this as having no phrasal structure, i.e. with the flat relation.
