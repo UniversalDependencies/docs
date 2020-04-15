@@ -12,7 +12,7 @@ Note, we use the language specific labels [flat:name](https://universaldependenc
 The `flat` label is also used to attach what was previously labelled as `foreign`.
 
 
-### Example
+### Proper nouns
 
 _Tá muintir Chorcaí an-mhíshásta le Fianna <b>Fáil</b>_ 'Cork people are very unhappy with Fianna <b>Fáil</b>'
 
@@ -31,32 +31,9 @@ flat(Bhaile, Thiar)
 flat(Bhaile, Thuaidh)
 ~~~ 
 
-NOTE: Information clusters that contain dates/times should be labelled in the following way:
-
-_Ní mór na foirmeacha (...) a <b>bheith</b> san Ardoifig roimh 5.00 <b>p.m.</b>, <b>Aoine</b>, <b>4</b> <b>Aibreán</b> <b>1997</b>._ The forms must be submitted to Head Office before 5:00 <b>p.m.</b>, <b>Friday</b>, <b>4</b> <b>April</b> <b>1997</b>. 
-
-~~~ sdparse
-Ní mór na foirmeacha (...) a bheith san Ardoifig roimh 5.00 p.m. , Aoine , 4 Aibreán 1997 . \n Must be the forms (...) to being in_the Head_office before 5.00 p.m. , Friday , 4 April 1997 .
-obl:tmod(bheith, p.m.)
-obl:tmod(bheith, Aoine)
-obl:tmod(bheith, 4)
-nummod(p.m., 5.00)
-flat(4, Aibreán)
-flat(4, 1997)
-~~~ 
-
-Similarly, date strings with no discernible internal syntactic structure should also be treated as flat per the UD guidelines. 
-
-_sa bhliain <b>1975</b>_ `in the year <b>1975</b>'
-
-~~~ sdparse
-sa bhliain 1975 \n in year 1975
-flat(bhliain, 1975)
-~~~
-
 #### Days of the week
 
-_Dé_ is a particle that introduces days of the week. The particular day of the week follows _Dé_ in the genitive case. We treat this as having no phrasal structure, i.e. with the flat relation.
+_Dé_ is a particle that introduces days of the week. The particular day of the week follows _Dé_ in the genitive case. We treat this as having no phrasal structure, i.e. with the `flat` dependency relation.
 
 _Dé <b>Sathairn</b>_ '(on) Saturday'
 
@@ -79,7 +56,7 @@ ranganna seteanna agus céilí do dhaoine fásta gach oíche Dé Luain ag 8.30. 
 flat(Dé,Luain)
 ~~~ 
 
-#### Months of the year
+#### Date strings
 
 Per the UD guidelines regarding the treatment of [Dates and Complex Numerals](https://universaldependencies.org/u/dep/all.html#dates-and-complex-numerals), date expressions with a clear syntactic structure should be annotated with regular dependency relations. 
 
@@ -104,7 +81,30 @@ flat(10,Deireadh)
 flat(10,Fómhair)
 ~~~ 
 
-NOTE: Several months of the year in Irish are composed of two nouns. In this case, the second noun is treated as `flat` on the first. 
+_Ní mór na foirmeacha (...) a <b>bheith</b> san Ardoifig roimh 5.00 <b>p.m.</b>, <b>Aoine</b>, <b>4</b> <b>Aibreán</b> <b>1997</b>._ The forms must be submitted to Head Office before 5:00 <b>p.m.</b>, <b>Friday</b>, <b>4</b> <b>April</b> <b>1997</b>. 
+
+~~~ sdparse
+Ní mór na foirmeacha (...) a bheith san Ardoifig roimh 5.00 p.m. , Aoine , 4 Aibreán 1997 . \n Must be the forms (...) to being in_the Head_office before 5.00 p.m. , Friday , 4 April 1997 .
+obl:tmod(bheith, p.m.)
+obl:tmod(bheith, Aoine)
+obl:tmod(bheith, 4)
+nummod(p.m., 5.00)
+flat(4, Aibreán)
+flat(4, 1997)
+~~~ 
+
+Similarly, simpler date strings with no internal syntactic structure should also be treated as `flat` per the UD guidelines. 
+
+_sa bhliain <b>1975</b>_ `in the year <b>1975</b>'
+
+~~~ sdparse
+sa bhliain 1975 \n in year 1975
+flat(bhliain, 1975)
+~~~
+
+#### Months of the year
+
+Several months of the year in Irish are composed of two nouns with the second in the genitive case. In cases like these, the second noun is treated as `flat` on the first. 
 
 _Meán <b>Fómhair</b>_ 'September'
 
