@@ -51,7 +51,7 @@ _sa bhliain <b>1975</b>_ `in the year <b>1975</b>'
 
 ~~~ sdparse
 sa bhliain 1975 \n in year 1975
-nummod(bhliain, 1975)
+flat(bhliain, 1975)
 ~~~
 
 #### Days of the week
