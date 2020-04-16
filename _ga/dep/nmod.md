@@ -119,14 +119,14 @@ We treat itemisation numbers as nmod: chapter <b>1</b>, article <b>(a)</b>
 
 For example:
 
-_<b>(a)</b> Ní bheidh feidhm ag fo-ailt <b>(1)</b> <b>(b)</b> agus <b>(2)</b>_ '<b>(a)</b> The sub article <b>(1)</b> <b>(b)</b> and <b>(2)</b> will have no purpose'
+_<b>(a)</b> Ní bheidh feidhm ag fo-ailt <b>(1)</b> <b>(b)</b> agus <b>(2)</b>_ '<b>(a)</b> The sub-article <b>(1)</b> <b>(b)</b> and <b>(2)</b> will have no purpose'
 
 ~~~ sdparse
 (a) Ní bheidh feidhm ag fo-ailt (1) (b) agus (2) \n (a) Not will purpose have sub-paragraph (1) (b) and (2) 
-nmmod((a), bheidh)
-nmod((1), fo-ailt)
-nmod((b), fo-ailt)
-nmod((2), fo-ailt)
+nmod((a), bheidh)
+nmod((1), fo)
+nmod((b), fo)
+nmod((2), fo)
 ~~~
 
 NOTE: We treat ordinal numbers as [amod](https://universaldependencies.org/ga/dep/amod.html) and cardinal numbers as [nummod](https://universaldependencies.org/ga/dep/nummod.html)
