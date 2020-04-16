@@ -119,10 +119,10 @@ We treat itemisation numbers as nmod: chapter <b>1</b>, article <b>(a)</b>
 
 For example:
 
-<b>(a)</b> Ní bheidh feidhm ag fo-ailt <b>(1)</b> <b>(b)</b> agus <b>(2)</b> \n <b>(a)</b> The sub article <b>(1)</b> <b>(b)</b> and <b>(2)</b> will have no purpose. 
+_<b>(a)</b> Ní bheidh feidhm ag fo-ailt <b>(1)</b> <b>(b)</b> agus <b>(2)</b>_ '<b>(a)</b> The sub article <b>(1)</b> <b>(b)</b> and <b>(2)</b> will have no purpose'
 
 ~~~ sdparse
-(a) Ní bheidh feidhm ag fo-ailt (1) (b) agus (2) \n (a)The sub article (1) (b) and (2) will have no purpose. 
+(a) Ní bheidh feidhm ag fo-ailt (1) (b) agus (2) \n (a)The sub-paragraph (1) (b) and (2) will have no purpose 
 nmod((a), bheidh)
 nmod((1), fo-ailt)
 nmod((b), fo-ailt)
