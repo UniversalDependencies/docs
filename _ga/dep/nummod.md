@@ -5,7 +5,7 @@ shortdef: 'numeric modifier'
 udver: '2'
 ---
 
-*Numeric modifiers* of a noun or NP, cardinal numbers, are marked with the `nummod` dependency type. Quantifiers are also included.
+*Numeric modifiers* of a noun or NP such as cardinal numbers, are marked with the `nummod` dependency type. Quantifiers are also included.
 
 ### Examples
 
