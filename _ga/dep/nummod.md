@@ -23,7 +23,7 @@ I gceann cúig bliana \n In time_of five years
 nummod(bliana, cúig)
 ~~~
 
-_ina bhfuil <b>27</b> Ballstát `in which there are <b>27</b> Member States'
+_ina bhfuil <b>27</b> Ballstát_ `in which there are <b>27</b> Member States'
 
 ~~~ sdparse
 ina bhfuil 27 Ballstát \n in_which are 27 Member_States
