@@ -113,9 +113,13 @@ flat(Mheán, Fómhair)
 flat(1940, Mheán)
 ~~~
 
-###Numbers
-We treat itemisation numbers as nmod: chapter 1, article (a)
-(a) Ní bheidh feidhm ag fo-ailt (1) (b) agus (2) \n (a)The sub article (1) (b) and (2) will have no purpose. 
+### Numbers
+
+We treat itemisation numbers as nmod: chapter <b>1</b>, article <b>(a)</b>
+
+For example:
+
+<b>(a)</b> Ní bheidh feidhm ag fo-ailt <b>(1)</b> <b>(b)</b> agus <b>(2)</b> \n <b>(a)</b> The sub article <b>(1)</b> <b>(b)</b> and <b>(2)</b> will have no purpose. 
 
 ~~~ sdparse
 (a) Ní bheidh feidhm ag fo-ailt (1) (b) agus (2) \n (a)The sub article (1) (b) and (2) will have no purpose. 
@@ -125,4 +129,4 @@ nmod((b), fo-ailt)
 nmod((2), fo-ailt)
 ~~~
 
-NOTE: We treat ordrinal numbers as [amod](https://universaldependencies.org/ga/dep/amod.html) and cardinal numbers as [mummod](https://universaldependencies.org/ga/dep/nummod.html)
+NOTE: We treat ordrinal numbers as [amod](https://universaldependencies.org/ga/dep/amod.html) and cardinal numbers as [nummod](https://universaldependencies.org/ga/dep/nummod.html)
