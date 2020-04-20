@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 In Irish the `mark` label is used for infinitive markers and for subordinate conjunctions. 
-Note that subordinate conjunctions are attached to the head of the complement clause (not the matrix clause as is the case in the Irish Dependency Treebank). In Irish, we also have a language sub-type label [mark:prt](http://universaldependencies.org/docsv1/ga/dep/mark-prt.html)
+Note that subordinate conjunctions are attached to the head of the complement clause (not the matrix clause as is the case in the Irish Dependency Treebank). In Irish, we also have a language sub-type label [mark:prt](http://universaldependencies.org/docsv1/ga/dep/mark-prt.html).
 
 ### Examples
 
