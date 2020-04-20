@@ -20,6 +20,14 @@ mark(ndeachaigh, Cé)
 advcl(is, ndeachaigh)
 ~~~
 
+_ní raibh cuimhne chruinn againn ar a chéile, <b>ach</b> ghlacamar leis_ 'We do not have a clear memory of eachother, <b>but</b> we accepted it'
+
+~~~ sdparse
+ní raibh cuimhne chruinn againn ar a chéile, ach ghlacamar leis \n not was memory clear we_have of_eachother, but we_accepted it
+mark(ghlacamar, ach)
+advcl(raibh, ghlacamar)
+~~~
+
 _Ba ar Mháirín a smaoiníodh sé <b>nuair</b> a d' fheicfeadh sé iad_ `He would think of Máirín <b>when</b> he would see them'
 
 ~~~ sdparse
