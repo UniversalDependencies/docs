@@ -40,14 +40,14 @@ udver: '2'
 
 ### Core Arguments and Adjuncts
 
-* Tagalog uses the (Austronesian voice system)[https://en.wikipedia.org/wiki/Austronesian_alignment], a typologically unusual class of morphosyntactic alignment. In Tagalog, two core arguments (the topic argument and non-topic argument) are marked by prepositions, with their semantic roles determined by voice affixes on the verb. For the purposes of UD annotation, the following guidelines are used:
-  * The topic argument (marked by the preposition *ang*) is attached to the predicate using the (nsubj)[https://universaldependencies.org/u/dep/nsubj.html] relation.
-  * The non-topic argument (marked by the preposition *ng*) is attached to the predicate using the (obj)[https://universaldependencies.org/u/dep/obj.html] relation.
-  * Other adjuncts are attached to the predicate using the (obl)[https://universaldependencies.org/u/dep/obl.html] relation.
+* Tagalog uses the [Austronesian voice system](https://en.wikipedia.org/wiki/Austronesian_alignment), a typologically unusual class of morphosyntactic alignment. In Tagalog, two core arguments (the topic argument and non-topic argument) are marked by prepositions, with their semantic roles determined by voice affixes on the verb. For the purposes of UD annotation, the following guidelines are used:
+  * The topic argument (marked by the preposition *ang*) is attached to the predicate using the [nsubj](https://universaldependencies.org/u/dep/nsubj.html) relation.
+  * The non-topic argument (marked by the preposition *ng*) is attached to the predicate using the [obj](https://universaldependencies.org/u/dep/obj.html) relation.
+  * Other adjuncts are attached to the predicate using the [obl](https://universaldependencies.org/u/dep/obl.html) relation.
 
 ### Non-verbal Predicates
 
-* Non-verbal clauses (such as noun, adverb, or adjective phrases) may be used as predicates in Tagalog. In these instances, the highest node of the clause is labeled as (root)[https://universaldependencies.org/u/dep/root.html], and all other nodes typically connected to the root verb are instead connected to this node.
+* Non-verbal clauses (such as noun, adverb, or adjective phrases) may be used as predicates in Tagalog. In these instances, the highest node of the clause is labeled as [root](https://universaldependencies.org/u/dep/root.html), and all other nodes typically connected to the root verb are instead connected to this node.
 
 
 ## Treebanks
