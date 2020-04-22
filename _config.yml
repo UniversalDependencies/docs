@@ -252,6 +252,8 @@ collections:
     output: true
   sga:
     output: true
+  ndg:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
