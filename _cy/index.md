@@ -81,14 +81,23 @@ See [conjugation tables](conjugation.md) for forms and corresponding UD Tense/Mo
   * _i fyny_ «up»
   * _i mewn_ «into»
   * _o fewn_ «within»
+  * _o dan_ «under»
+  * _o hyd_ «always»
   * _ynglŷn â_ «in connection with»
   * _yn lle_ «instead»
+  * _yn erbyn_ «against»
   * _oddi ar_ «since»
   * _oddi yma_ «from here»
   * _oddi wrth_ «from»
   * _oddi mewn_ «within»
   * _ar draws_ «across»
   * _er gwaethaf_ «in spite of»
+  * _er mai_ «although»
+  * _er drwg_ «despite»
+  * _wrth gwrs_ «of course»
+  * _wrth i_ «to»
+  * _yn hytrach_ «rather than»
+  * _ynglŷn â_ «regarding»
 
 
 ---
