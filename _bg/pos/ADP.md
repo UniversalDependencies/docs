@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADP'
 shortdef: 'adposition'
+udver: '2'
 ---
 
 ### Definition
