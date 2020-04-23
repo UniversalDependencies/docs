@@ -86,6 +86,7 @@ See [conjugation tables](conjugation.md) for forms and corresponding UD Tense/Mo
   * _ynglŷn â_ «in connection with»
   * _yn lle_ «instead»
   * _yn erbyn_ «against»
+  * _modd bynnag_ «however»
   * _oddi ar_ «since»
   * _oddi yma_ «from here»
   * _oddi wrth_ «from»
