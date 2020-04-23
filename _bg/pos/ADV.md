@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADV'
 shortdef: 'adverb'
+udver: '2'
 ---
 
 ### Definition
@@ -9,7 +10,7 @@ shortdef: 'adverb'
 In the group of Bulgarian adverbs there are words that typically modify [verbs](VERB) for such
 categories as time, place, direction or manner. They may also modify
 [adjectives](ADJ) and other adverbs, as in _<b>very briefly</b>_ or
-_<b>arguably</b> wrong_. Some adverbs can modify even [nouns] (Noun).
+_<b>arguably wrong</b>_. Some adverbs can modify even [nouns] (Noun).
 
 In BulTreeBank tagset the corresponding POS tag is `D`.
 
