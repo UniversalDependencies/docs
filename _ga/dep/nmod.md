@@ -102,7 +102,9 @@ In Irish, the word for month is _mí_ (lit. 'the month of'). We often use the wo
 NOTE: We also treat days of the week as [flat](https://universaldependencies.org/ga/dep/flat.html) 
 
 ~~~ sdparse
-chaith pióg le Bertie Ahern le linn an fheachtais olltoghcháin i mí Aibreáin \n A pie was thrown at Bertie Ahern during the election campaign in the month of April
+Caitheadh pióg le Bertie Ahern le linn an fheachtais olltoghcháin i mí Aibreáin \n A pie was thrown at Bertie Ahern during the election campaign in the month of April
+obl:tmod(Caitheadh, fheachtais)
+nmod(fheachtais, mí)
 nmod(mí, Aibreáin)
 ~~~
 
