@@ -97,16 +97,38 @@ nmod(bean, Choilm)
 
 #### Months:
 
-In Irish, the word for month is _mí_. We often use the word _mí_ when referring to a paricular month. For example <b>Mí Iúil</b> means the month of July. The name of the month is in the genitive case (literally meaning 'the month of'). In this case, we label the name of the month as an nmod. 
+In Irish, the word for month is _mí_ (lit. 'the month of'). We often use the word _mí_ when referring to a paricular month. For example <b>mí Iúil</b> means 'the month of July'. The name of the month follows 'mí' in the genitive case. We label the name of the month as `nmod`. Months that are composed of more than two nouns are treated as `flat`.
 
-We treat days of the week as [flat](https://universaldependencies.org/ga/dep/flat.html) 
+NOTE: We also treat days of the week as [flat](https://universaldependencies.org/ga/dep/flat.html) 
+
+~~~ sdparse
+Caitheadh pióg le Bertie Ahern le linn an fheachtais olltoghcháin i mí Aibreáin \n A pie was thrown at Bertie Ahern during the election campaign in the month of April
+obl:tmod(Caitheadh, fheachtais)
+nmod(fheachtais, mí)
+nmod(mí, Aibreáin)
+~~~
 
 ~~~ sdparse
 I mí Mheán Fómhair 1940 \n In the month of September
-nmod(mí, Mheán Fómhair)
+nmod(mí, Mheán)
+flat(Mheán, Fómhair)
+flat(1940, Mheán)
 ~~~
 
+### Numbers
+
+We treat itemisation numbers as nmod: chapter <b>1</b>, article <b>(a)</b>
+
+For example:
+
+_<b>(a)</b> Ní bheidh feidhm ag fo-ailt <b>(1)</b> <b>(b)</b> agus <b>(2)</b>_ '<b>(a)</b> The sub-articles <b>(1)</b> <b>(b)</b> and <b>(2)</b> will have no purpose'
+
 ~~~ sdparse
-chaith pióg le Bertie Ahern le linn an fheachtais olltoghcháin i mí Aibreáin \n A pie was thrown at Bertie Ahern during the election campaign in the month of April
-nmod(mí, Aibreáin)
+(a) Ní bheidh feidhm ag fo-ailt (1) (b) agus (2) \n (a) Not will purpose have sub-paragraph (1) (b) and (2) 
+nmod(bheidh, (a) )
+nmod(fo-ailt, (1))
+nmod(fo-ailt, (b))
+nmod(fo-ailt, (2))
 ~~~
+
+NOTE: We treat ordinal numbers as [amod](https://universaldependencies.org/ga/dep/amod.html) and cardinal numbers as [nummod](https://universaldependencies.org/ga/dep/nummod.html)

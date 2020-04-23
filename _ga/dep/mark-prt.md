@@ -13,6 +13,7 @@ The UD Irish subtype `mark:prt' is used for the various particles in Irish, incl
 * verb particles: _d'_, _a_, and the complementisers _go_, _nach_, _nár_, _gur_, _gurbh_, 
 * comparative and superlative particles: _is_, _níos_
 * days of the week particle: _Dé_
+* to differentiate between the subordinate marker _ach_ in different structures 
 
 
 ### Examples
@@ -86,14 +87,13 @@ Ba í an difríocht is suntasaí \n Was it the difference most remarkable
 mark:prt(suntasaí, is)
 ~~~
 
+### ACH
 
+mark:prt was specifically chosen instead of mark to differentiate between the instances where it meant "only" and the subordinate clause "ach" (but).
 
+_Níl fágtha den seandream <b>ach</b> an Ceannaire, Mary Harney_ 'The leader, Mary Harney, is the <b>only</b> remaining leader of the former group
 
-
-
-
-
-
-
-
-
+~~~ sdparse
+Níl fágtha den seandream ach an Ceannaire, Mary Harney \n Not left of_the old_group only the Leader, Mary Harney
+mark:prt(Ceannaire, , ach)
+~~~

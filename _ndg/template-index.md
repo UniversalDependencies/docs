@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Serbian UD'
+title:  'Ndengeleko UD'
 udver: '2'
 ---
 
-# UD for Serbian <span class="flagspan"><img class="flag" src="../../flags/svg/RS.svg" /></span>
+# UD for Ndengeleko <span class="flagspan"><img class="flag" src="../../flags/svg/TZ.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [N](../treebanks/ndg-comparison.html) Ndengeleko UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [Ndengeleko-A](../treebanks/ndg_a/index.html)
+  * [Ndengeleko-B](../treebanks/ndg_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

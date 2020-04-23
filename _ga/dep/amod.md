@@ -43,3 +43,21 @@ _daoine <b>áirithe</b>_ '<b>certain</b> people'
 daoine áirithe \n people certain
 amod(daoine, áirithe)
 ~~~
+
+
+#### Ordinal numbers
+
+_<b>19ú</b> haois_ '<b>19th</b> century'
+
+~~~ sdparse
+19ú haois \n 19th age
+amod(haois, 19ú)
+~~~
+
+_mac léinn ar choláistí ar an <b>dara</b> nó ar an <b>tríú</b> leibhéal_ 'students of <b>second-</b> or <b>third-</b>level colleges'
+
+~~~ sdparse
+mac léinn ar choláistí ar an dara nó ar an tríú leibhéal \n students [] on colleges on the second or on the third level
+amod(leibhéal, dara)
+conj(dara, tríú)
+~~~

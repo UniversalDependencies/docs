@@ -29,7 +29,7 @@ cp _template/template-index.md "$f"
 
 # replace references to "template" with references to the language
 # code in the copied materials:
-perl -p -i -e 's/template/'"$lc"'/; s/<LanguageName> UD/'"$language_wsp"' UD/; s/UD for LANGUAGE/UD for '"$language_wsp"'/; s/AQ.svg/'"$flag"'.svg/;' "$f"/*.md
+perl -p -i -e 's/template/'"$lc"'/; s/<LanguageName> UD/'"$language_wsp"' UD/; s/LANGUAGE/'"$language_wsp"'/; s/LCODE/'"$lc"'/; s/AQ.svg/'"$flag"'.svg/;' "$f"/*.md
 
 tmp=`mktemp addlanguage-tmp-XXX`
 

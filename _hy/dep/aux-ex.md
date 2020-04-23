@@ -9,14 +9,14 @@ The `aux:ex` relation links the resultative participle (i.e. the governor) and t
 
 ~~~ sdparse
 Նա հագած ուներ թեթև վերարկու ։ \n He had a light coat dressed .
-aux(հագած, ուներ)
-aux(dressed, had)
+aux:ex(հագած, ուներ)
+aux:ex(dressed, had)
 ~~~ 
 
 ~~~ sdparse
 Երեկվանից ոչ մի տող գրած չկամ ։ \n I do-not-have a single line written since-yesterday . (lit: “I-do-not-exist written no any row since-yesterday.”)
-aux(գրած, չկամ)
-aux(written, do-not-have)
+aux:ex(գրած, չկամ)
+aux:ex(written, do-not-have)
 ~~~ 
 
 For more details see [specific-syntax](http://universaldependencies.org/hy/overview/specific-syntax.html).

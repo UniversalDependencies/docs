@@ -603,7 +603,7 @@ dependencies.
 <div class="conllu-parse">
 # visual-style 5 6 nsubj color:green
 1 He       he       PRON  _ Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs 2 nsubj _ _
-2 became   become   NOUN  _ Mood=Ind|Tense=Past|VerbForm=Fin 0 root _ _
+2 became   become   VERB  _ Mood=Ind|Tense=Past|VerbForm=Fin 0 root _ _
 3 chairman chairman NOUN  _ Number=Sing 2 xcomp _ SpaceAfter=No
 4 ,        ,        PUNCT _ _ 5 punct _ _
 5 which    which    PRON  _ PronType=Rel 3 acl:relcl _ _
@@ -617,7 +617,7 @@ dependencies.
 # visual-style 3 6 nsubj color:blue
 # visual-style 3 5 ref color:blue
 1 He       he       PRON  _ Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs 2 nsubj _ _
-2 became   become   NOUN  _ Mood=Ind|Tense=Past|VerbForm=Fin 0 root _ _
+2 became   become   VERB  _ Mood=Ind|Tense=Past|VerbForm=Fin 0 root _ _
 3 chairman chairman NOUN  _ Number=Sing 2 xcomp _ SpaceAfter=No
 4 ,        ,        PUNCT _ _ 5 punct _ _
 5 which    which    PRON  _ PronType=Rel 3 acl:relcl 3:ref _
@@ -685,7 +685,7 @@ The following formal rules apply (copied from the summary at the beginning of th
 <div class="conllu-parse">
 # visual-style 2 5 obl color:green
 # visual-style 2 7 advcl color:green
-1  He      _ _ _ _ 2 det   _ _
+1  He      _ _ _ _ 2 nsubj _ _
 2  went    _ _ _ _ 0 root  _ _
 3  to      _ _ _ _ 5 case  _ _
 4  the     _ _ _ _ 5 det   _ _
@@ -699,7 +699,7 @@ The following formal rules apply (copied from the summary at the beginning of th
 <div class="conllu-parse">
 # visual-style 2 5 obl:to color:blue
 # visual-style 2 7 advcl:after color:blue
-1  He      _ _ _ _ 2 det         _ _
+1  He      _ _ _ _ 2 nsubj       _ _
 2  went    _ _ _ _ 0 root        _ _
 3  to      _ _ _ _ 5 case        _ _
 4  the     _ _ _ _ 5 det         _ _

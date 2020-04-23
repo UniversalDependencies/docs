@@ -41,8 +41,7 @@ The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive
 
 * _Առաջարկությունը <b>մերժվեց</b> (մասնակիցների կողմից)&nbsp;_ “The suggestion <b>was denied</b> (by the participants)”,
 * _Նա <b>արհամարվում</b> է ժողովրդից&nbsp;_ “He is <b>despised</b> by the people”,
-* _Անտառը <b>ծածկված</b> է ձյունով&nbsp;_ “The forest is <b>covered</b> by snow”,
-* _Դրա մասին շատ է <b>խոսվել</b>&nbsp;_ “It was <b>spoken</b> much about that”.
+* _Անտառը <b>ծածկված</b> է ձյունով&nbsp;_ “The forest is <b>covered</b> by snow”.
 
 ### <a name="Mid">`Mid`</a>: middle voice
 

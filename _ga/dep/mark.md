@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 In Irish the `mark` label is used for infinitive markers and for subordinate conjunctions. 
-Note that subordinate conjunctions are attached to the head of the complement clause (not the matrix clause as is the case in the Irish Dependency Treebank).
+Note that subordinate conjunctions are attached to the head of the complement clause (not the matrix clause as is the case in the Irish Dependency Treebank). In Irish, we also have a language sub-type label [mark:prt](https://universaldependencies.org/ga/dep/mark-prt.html).
 
 ### Examples
 
@@ -18,6 +18,14 @@ _<b>Cé</b> go ndeachaigh sé thar fóir leis an tuairim sin , is cinnte go raib
 Cé go ndeachaigh sé thar fóir leis an tuairim sin , is cinnte go raibh mórán scríobhneoirí Béarla den bharúil chéanna \n Although that went he over board with the opinion DEM , is certain that was many writers English of_the opinion same
 mark(ndeachaigh, Cé)
 advcl(is, ndeachaigh)
+~~~
+
+_ní raibh cuimhne chruinn againn ar a chéile, <b>ach</b> ghlacamar leis_ 'We do not have a clear memory of eachother, <b>but</b> we accepted it'
+
+~~~ sdparse
+ní raibh cuimhne chruinn againn ar a chéile, ach ghlacamar leis \n not was memory clear we_have of_eachother, but we_accepted it
+mark(ghlacamar, ach)
+advcl(raibh, ghlacamar)
 ~~~
 
 _Ba ar Mháirín a smaoiníodh sé <b>nuair</b> a d' fheicfeadh sé iad_ `He would think of Máirín <b>when</b> he would see them'

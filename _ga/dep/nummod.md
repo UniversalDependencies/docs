@@ -5,31 +5,27 @@ shortdef: 'numeric modifier'
 udver: '2'
 ---
 
-*Numeric modifiers* of a noun or NP, including both cardinal and
-ordinal numbers, are marked with the `nummod` dependency type. Quantifiers are also included.
+*Numeric modifiers* of a noun or NP such as cardinal numbers, are marked with the `nummod` dependency type. Quantifiers are also included.
 
 ### Examples
 
-_sa bhliain <b>1975</b>_ `in the year <b>1975</b>'
+_don aoisghrúpa faoi <b>ocht</b> mbliana_ `for the under <b>eights</b> age group'
 
 ~~~ sdparse
-sa bhliain 1975 \n in year 1975
-nummod(bhliain, 1975)
+don aoisghrúpa faoi ocht mbliana \n for_the age_group under eight years
+nummod(mbliana, ocht)
 ~~~
 
-_an <b>chéad</b> chéim_ `the <b>first</b> year'
+_I gceann <b>cúig</b> bliana_ `within <b>five</b> years'
 
 ~~~ sdparse
-an chéad chéim \n in first year
-nummod(chéim, chéad)
+I gceann cúig bliana \n In time_of five years
+nummod(bliana, cúig)
 ~~~
 
-_fo-alt <b>(1)</b>_ `sub-paragraph <b>(1)</b>'
+_ina bhfuil <b>27</b> Ballstát_ `in which there are <b>27</b> Member States'
 
 ~~~ sdparse
-fo-alt (1) \n sub-paragraph (1)
-nummod(fo-alt, (1))
+ina bhfuil 27 Ballstát \n in_which are 27 Member_States
+nummod(Ballstát, 27)
 ~~~
-
-
-

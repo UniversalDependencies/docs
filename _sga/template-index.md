@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Tagalog UD'
+title:  'Old Irish UD'
 udver: '2'
 ---
 
-# UD for Tagalog <span class="flagspan"><img class="flag" src="../../flags/svg/PH.svg" /></span>
+# UD for Old Irish <span class="flagspan"><img class="flag" src="../../flags/svg/IE-FOUR.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [N](../treebanks/sga-comparison.html) Old Irish UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [Old Irish-A](../treebanks/sga_a/index.html)
+  * [Old Irish-B](../treebanks/sga_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

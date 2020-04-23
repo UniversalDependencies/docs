@@ -86,6 +86,7 @@
           <tr><td>↳<a><strike>aux:pass</strike></a></td></tr>
           <tr><td><a href='https://universaldependencies.org/ga/dep/cop.html'>cop</a></td></tr>
           <tr><td><a href='https://universaldependencies.org/ga/dep/mark.html'>mark</a></td></tr>
+          <tr><td>↳<a href='https://universaldependencies.org/ga/dep/mark-prt.html'>mark:prt</a></td></tr>
         </table>
       </td>
     </tr>

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Icelandic UD'
+title:  'Abaza UD'
 udver: '2'
 ---
 
-# UD for Icelandic <span class="flagspan"><img class="flag" src="../../flags/svg/IS.svg" /></span>
+# UD for Abaza <span class="flagspan"><img class="flag" src="../../flags/svg/RU-ABAZA.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [N](../treebanks/abq-comparison.html) Abaza UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [Abaza-A](../treebanks/abq_a/index.html)
+  * [Abaza-B](../treebanks/abq_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
