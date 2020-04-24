@@ -2,6 +2,7 @@
 layout: postag
 title: 'PART'
 shortdef: 'particle'
+udver: '2'
 ---
 
 
@@ -16,12 +17,12 @@ or [auxiliary verbs](AUX)).  Particles may encode grammatical
 categories such as negation, mood, tense etc.  Particles are normally
 not inflected, although exceptions may occur.
 
-In the Bultreebank tagset the following tags map to `PART`: Tn, Ti, Tx, Tm, Tv, Te and Tg.
-(Note that `Ta` is considered `INTJ` in the universal tagset. The `Tn` particle _не_ / _ne_ "no" is also considered `INTJ`).
-
+In the Bultreebank tagset the following tags map to `PART`: Ta, Tn, Ti, Tx, Tm, Tv, Te and Tg.
 
 ### Examples
 
+- affirmative particle (Ta): _да_ / _da_ "yes"
+- negative particle (Tn): _не_ / _ne_ "no"
 - negative particle (Tn): _нито_ / _nito_ "neither"
 - interrogative particles(Ti): _ли_ / _li_"question particle"
 - auxiliary particles (Tx): _да, ще_ / _da, shte_ "to, will"
