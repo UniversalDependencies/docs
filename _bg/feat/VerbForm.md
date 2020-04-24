@@ -2,6 +2,7 @@
 layout: feature
 title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
+udver: '2'
 ---
 
 Even though the name of the feature seems to suggest that it is used
@@ -42,9 +43,9 @@ In Bulgarian there are four types of participles: _present active, past perfecti
 - видян / _vidyan_ "seen" (past passive). BulTreeBank tag: `V#cv#`
 
 
-### `Trans`: transgressive
+### `Conv`: converb
 
-The transgressive, also called adverbial participle, is a non-finite
+The converb, also called adverbial participle, is a non-finite
 verb form that shares properties of verbs and adverbs. It appears
 e.g. in Slavic and Indo-Aryan languages.
 
