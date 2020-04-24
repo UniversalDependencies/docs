@@ -2,6 +2,7 @@
 layout: feature
 title: 'Number'
 shortdef: 'number'
+udver: '2'
 ---
 
 Number is an inflectional feature of nouns, adjectives, verbs. In the tagset it is encoded as: singular (s), plural (p), count (c), pluralia tantum (l). Singularia tantum is not encoded.
