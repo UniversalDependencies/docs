@@ -2,6 +2,7 @@
 layout: feature
 title: 'Gender'
 shortdef: 'gender'
+udver: '2'
 ---
 
 Gender is usually a lexical feature of nouns and inflectional
