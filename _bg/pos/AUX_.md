@@ -27,7 +27,7 @@ auxiliaries can be expected to vary between languages. Exactly
 which words are counted as `AUX` should be part of the
 language-specific documentation.
 
-In Bulgarian the auxiliary verbs are varieties of the verb 'to be':
+In Bulgarian the auxiliary verbs are varieties of the verb 'to be' in both functions -- auxiliary and copular:
 
 - Vx# / _съм_ / _sam_ "to be" 
 - Vy# /_бъда_ / _bada_ "to be" 
