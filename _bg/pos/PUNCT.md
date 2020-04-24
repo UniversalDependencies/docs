@@ -14,7 +14,7 @@ Punctuation is not taken to include logograms such as _$_, _%_, and
 _§_, which are instead tagged as [SYM]().
 
 The punctuation in the BulTreeBank scheme follows the same principles as in the Universal tagset.
-Thus, it includes the tag `punct` which markes: period, comma, colon, etc.
+Thus, it includes the tag `punct` which marks: period, comma, colon, etc.
 
 ### Examples
 
