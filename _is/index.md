@@ -14,7 +14,6 @@ udver: '2'
 * Words with spaces are not used.
 * Imperative verbal form and cliticized verbal question form are treated as multi-word tokens and segmented to individual syntactic words.
 
----
 
 ## Morphology
 
@@ -38,7 +37,6 @@ Hildur Jónsdóttir. 2020. A Parallel Icelandic Dependency Treebank: Creation, A
 
 ### Features
 
-Features
 * Nouns have inherent gender (masc, fem or neutral), inflect for number (singular or plural), case (nominative, accusative, dative or genitive) and can take indefinite or definite article.
 * Verbs can be used in the passive and the active voice. Finite forms in indicative or subjunctive mood in addition inflect for Tense (present or past), person (1, 2 or 3) and number (singular or plural). The imperative mood inflects for number (singular or plural). There are three types of nonfinite forms: infinitives, participles (present and past), and supine (used to form perfect tenses together with the auxiliary have). The past participle additionally inflects for gender (masc, fem or neutral), number (singular or plural) and case (nom or acc).
 
@@ -65,6 +63,8 @@ obl:arg for oblique arguments that are not adjuncts
 
 ## Treebanks
 
-Icelandic-PUD
-Icelandic-UniTree
+There are two Icelandic UD treebanks in preparation:
+
+* [Icelandic-PUD](/treebanks/is_pud/index.html)
+* Icelandic-UniTree
 
