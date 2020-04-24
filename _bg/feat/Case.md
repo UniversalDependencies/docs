@@ -2,6 +2,7 @@
 layout: feature
 title: 'Case'
 shortdef: 'case'
+udver: '2'
 ---
 
 In Bulgarian only some nouns have special vocative forms (v):
@@ -16,7 +17,7 @@ The cases are still alive in personal pronouns: _nominative (n)_, _accusative (a
 
 - нея, тя, му, го / _neya, tya, mu, go_ (her.ACC.LONG, she.NOM, him.DAT.SHORT, him.ACC.SHORT).
 
-Accusative and dative cases are still present in the masculine, singular forms of some other pronouns – _interrogative, indefinite, collective, relative, negative_. Please note that the dative forms are analytical and thus, only the accusative form is marked after the preposition ‘на’.
+Accusative and dative cases are still present in the masculine, singular forms of some other pronouns – _interrogative, indefinite, collective, relative, negative_. Please note that the long dative forms are analytical and thus, only the accusative form is marked after the preposition ‘на’.
 
 ### Examples
 
