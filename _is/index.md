@@ -21,7 +21,7 @@ udver: '2'
 The PoS-tags follow the universal tag set and do not add any language-specific PoS-tags. The morphological features follow the Icelandic tagging scheme described in (Helgadóttir et. al., 2012). PoS-tags and morphological features were converted automatically to the UD scheme, see details in (Jónsdóttir, 2020).
 
 Sigrún Helgadóttir, Ásta Svavarsdóttir, Eiríkur Rögnvaldsson, Kristín Bjarnadóttir and Hrafn Loftsson. 2012. The Tagged Icelandic Corpus (MÍM). Proceedings of the Workshop on Language Technology for Normalisation of Less-Resourced Languages -SaLTMiL 8 – AfLaT2012, s. 67-72. Istanbul, Turkey. Available online at malheildir.arnastofnun.is/mim
-Hildur Jónsdóttir. 2020. A Parallel Icelandic Dependency Treebank: Creation, Annotation and Evaluation. MA thesis, University of Iceland.  https://skemman.is/handle/1946/34784.
+Hildur Jónsdóttir. 2020. A Parallel Icelandic Dependency Treebank: Creation, Annotation and Evaluation. MA thesis, University of Iceland. [https://skemman.is/handle/1946/34784](https://skemman.is/handle/1946/34784).
 
 ### Tags
 
