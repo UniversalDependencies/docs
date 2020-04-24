@@ -12,7 +12,8 @@ udver: '2'
   * Numerical expressions (including dates) are treated as single words and may contain punctuation or whitespace. Dot following the last digit of a number indicates an ordinal numeral in Icelandic: *5.*, *1.1.1970*, *11:00*, *2.000*.
   * Abbreviations are treated as single words: *e.t.v.*, *t.d.*.
 * Words with spaces are not used.
-* Imperative verbal form and cliticized verbal question form are treated as multi-word tokens and segmented to individual syntactic words. 
+* Imperative verbal form and cliticized verbal question form are treated as multi-word tokens and segmented to individual syntactic words.
+
 ---
 
 ## Morphology
