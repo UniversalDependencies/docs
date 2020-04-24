@@ -2,6 +2,7 @@
 layout: feature
 title: 'Animacy'
 shortdef: 'animacy'
+udver: '2'
 ---
 
 Similarly to [Gender]() (and to the African noun classes), animacy
@@ -13,6 +14,7 @@ tagsets (e.g. all the Multext-East tagsets).
 In the BulTreeBank tagset `Animacy` is not encoded as a special feature.
 The dichotomy that plays a role here is rather: Human - Non-human.
 With very few exceptions, these features are not encoded grammatically.
+At this point we consider dangerous to use `Hum: human`.
 
 ### Anim: animate
 
