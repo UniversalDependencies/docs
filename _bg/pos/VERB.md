@@ -2,6 +2,7 @@
 layout: postag
 title: 'VERB'
 shortdef: 'verb'
+udver: '2'
 ---
 
 ### Definition
@@ -15,7 +16,7 @@ categories like tense, mood, aspect and voice, which can either be
 expressed inflectionally or using auxilliary verbs or particles.
 
 
-The BulTreeBank annotation scheme provides the following mappings here: _main verbs_, _copulas_ and _modal verbs_.
+The BulTreeBank annotation scheme provides the following mappings here: _main verbs_ and _modal verbs_.
 Note that modal verbs do not have special labels in our annotation scheme.
 Participles and gerund are considered also `VERB`. Below the specific labels that map to `VERB` are given.
 
@@ -23,9 +24,6 @@ Participles and gerund are considered also `VERB`. Below the specific labels tha
 
 - Vp# (finite verb): _тичам_ / _ticham_ "run"
 - Vn# (impersonal verb): _вали, трябва_ / _vali, tryabva_ "It rains, must"
-- Vx# (the copula _to be_): _съм_ / _sam_ "to be"
-- Vy# (the copula _to be_): _бъда_ / _bada_ "to be"
-- Vi# (the copula _to be_): _бивам_ / _bivam_ "to be"
 - V#cv# (past passive participle): _намерен_ / _nameren_ "found". It is also mapped to [ADJ]() in its attributive usages.
 - V#cam# (past imperfective participle): _четял_ / _chetyal_ "He was reading"
 - V#cao# (past perfective participle): _дошъл_ / _doshal_ "He has come". It is also mapped to [ADJ]() in its attributive usages.
