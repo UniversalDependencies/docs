@@ -2,6 +2,7 @@
 layout: feature
 title: 'Polarity'
 shortdef: 'whether the word can be or is negated'
+udver: '2'
 ---
 
 Polarity
@@ -16,7 +17,7 @@ the exception of clear contrastive contexts)
 Verbs and transgressives, however, use the clitic _не_ for negation.
 
 The negativeness feature is used to distinguish response
-[interjections](u-pos/INTJ) _yes_ and _no_.
+[particles](u-pos/PART) _yes_ and _no_.
 
 ### `Pos`: positive, affirmative
 
