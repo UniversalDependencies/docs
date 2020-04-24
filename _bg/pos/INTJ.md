@@ -18,13 +18,14 @@ their original category when used in exclamations. For example, _God_
 is a [NOUN]() even in exclamatory uses.
 
 In BulTreeBank annotation scheme the interjections are tagged as `I`.
-These include the following groups: exclamations and onomatopoeic words.
+These include the following groups: exclamations, onomatopoeic words, greetings,
+interjection predicates.
 
-In cases like _God_, the lemmas are tagged as both: `Noun` and `Interjection`.
-Thus, only the Noun usage will be kept in the universal setting.
-
-The feedback particles, such as: _yes_ and _no_ are mapped to INTJ with the label `I`:
+The respective words with the label `I` are mapped to INTJ:
 
 - _мяу_ / _miau_ "miao"
 - _леле_ / _lele_ "gosh"
+- _здравей_ / _zdravey_ "hello"
+- _кис-кис_ / _kis-kis_ lit. "somebody smiled"
+
 
