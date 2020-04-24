@@ -2,6 +2,7 @@
 layout: postag
 title: 'PROPN'
 shortdef: 'proper noun'
+udver: '2'
 ---
 
 ### Definition
@@ -16,7 +17,7 @@ mapped here as [proper nouns](PROPN), and 2. name adjectives, which are mapped t
 ### Examples
 
 - _Мария, Иван_ / _Maria, Ivan_ "Mary, John"
-- _София, Холандия_ / _Sofiya, Holandia_ "Sofia, Holland"
+- _София, Нидерландия_ / _Sofiya, Niderlandiya_ "Sofia, the Netherlands"
 - _Иванов, Петрова_ / _Ivanov, Petrova_ as in _господин Иванов, госпожа Петрова_ / _gospodin Ivanov_, gospozha Petrova_ "Mr. Ivanov, Ms. Petrova"
 - Клинтън / _"Klintan"_ "Clinton"
 
