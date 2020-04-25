@@ -2,6 +2,7 @@
 layout: relation
 title: 'nummod'
 shortdef: 'numeric modifier'
+udver: '2'
 ---
 
 A numeric modifier of a noun is any [number](u-pos/NUM) phrase
@@ -19,14 +20,4 @@ nummod(стотинки, десет)
 nummod(stotinki, deset)
 ~~~
 
-Note that indefinite quantifiers such as _few, many_ are tagged
-[u-pos/DET]() rather than [u-pos/NUM](). 
-Therefore their relation to the quantified noun is not `nummod` but
-[det]():
-
-~~~ sdparse
-Ако бях поет , аз бих написал много стихове . \n If was-I poet , I would written many poems  .
-det(стихове, много)
-det(poems, many)
-~~~
 
