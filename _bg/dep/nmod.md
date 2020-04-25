@@ -2,17 +2,11 @@
 layout: relation
 title: 'nmod'
 shortdef: 'nominal modifier'
+udver: '2'
 ---
 
-The `nmod` relation is used for nominal modifiers. They depend either
-on another noun (group “noun dependents”) or on a predicate (group
-“non-core dependents of clausal predicates”).
-
-`nmod` is a [noun](u-pos/NOUN) (or noun phrase) functioning as a
-non-core (oblique) argument or adjunct.
-This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
-But when attaching to a noun, it corresponds to an attribute, or genitive complement (the terms are less standardized here).
-
+The `nmod` relation is used for nominal modifiers. 
+`nmod` is a [noun](u-pos/NOUN) (or noun phrase) is used for nominal dependents of another noun or noun phrase and functionally corresponds to an attribute, or genitive complement.
 
 - the possessive alternation:
 
@@ -20,22 +14,6 @@ But when attaching to a noun, it corresponds to an attribute, or genitive comple
 Купих й плат за рокля . \n Bought-I her.CLITIC cloth for dress  .
 nmod(плат, рокля)
 nmod(cloth, dress)
-~~~
-
-- `nmod` is also used for temporal nominal modifiers:
-
-~~~ sdparse
-Валя цяла нощ . \n Rained-it all night .
-nmod(Валя, нощ)
-nmod(Rained-it, night)
-~~~
-
-- predicate modification:
-
-~~~ sdparse
-От всички маси ги следяха враждебни погледи . \n From all tables them.CLITIC followed hostile gazes  .
-nmod(следяха, маси)
-nmod(followed, tables)
 ~~~
 
 - noun-noun modification:
