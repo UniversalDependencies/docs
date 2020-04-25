@@ -12,7 +12,10 @@ these structures.
 
 ~~~ sdparse
 Като стигнаха до шосето , майката - жълта и сломена от тегло жена - още отдалеч загледа мъжа си .
+appos(майката-6, жена-13)
+~~~
+
+~~~ sdparse
 When reached-they to highway-the , mother-the - yellow and crushed woman - yet distantly looked husband her.REFL .
-appos(майката, жена)
-appos(mother-the, woman)
+appos(mother-the-6, woman-11)
 ~~~
