@@ -1,11 +1,13 @@
 ---
 layout: relation
-title: 'dobj'
-shortdef: 'direct object'
+title: 'obj'
+shortdef: 'object'
+udver: '2'
 ---
 
-The direct object of a verb is the noun phrase that denotes the entity acted upon.
-The direct object in Bulgarian corresponds to the position of the "Accusative" case, 
+The object of a verb is the second most core argument of a verb after the subject. 
+Typically, it is the noun phrase that denotes the entity acted upon or which undergoes a change of state or motion (the proto-patient).
+The object in Bulgarian corresponds to the position of the "Accusative" case, 
 since nominals in Bulgarian do not have declension.
 
 Accusative example:
