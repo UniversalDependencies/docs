@@ -2,6 +2,7 @@
 layout: relation
 title: 'ccomp'
 shortdef: 'clausal complement'
+udver: '2'
 ---
 
 A clausal complement of a verb or adjective is a dependent clause 
@@ -26,7 +27,7 @@ ccomp(liked, speak)
 ~~~
 
 ~~~ sdparse
-Невеста Нена престана да вика . \n Aunt Nena stopped to shout .
+Невеста Нена престана да вика . \n Aunt Nena stopped shouting .
 xcomp(престана, вика)
 xcomp(stopped, shout)
 ~~~
