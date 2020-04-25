@@ -2,7 +2,10 @@
 layout: relation
 title: 'discourse'
 shortdef: 'discourse element'
+udver: '2'
 ---
+
+This relation is used for [interjections](u-pos/INTJ) and modal [particles](u-pos/PART). It holds also for the yes-no question particles.
 
 ## Yes-No question particle 
 
