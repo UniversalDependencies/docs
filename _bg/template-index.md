@@ -95,10 +95,10 @@ and [Bulgarian features](feat/index.html).
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [1](../treebanks/LCODE-comparison.html) Bulgarian UD treebank:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [Bulgarian-BTB](../treebanks/LCODE_a/index.html)
+
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
