@@ -25,7 +25,6 @@ In the Bultreebank tagset the following tags map to `PART`: Ta, Tn, Ti, Tx, Tm, 
 - negative particle (Tn): _не_ / _ne_ "no"
 - negative particle (Tn): _нито_ / _nito_ "neither"
 - interrogative particles(Ti): _ли_ / _li_"question particle"
-- auxiliary particles (Tx): _да, ще_ / _da, shte_ "to, will"
 - modal particles (Tm): _май_ / _may_ "possibly"
 - verbal particles (Tv): _нека_ / _neka_ "let"
 - emphasis particles (Te): _даже_ / _dazhe_ "even"
