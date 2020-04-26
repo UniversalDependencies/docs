@@ -23,7 +23,22 @@ udver: '2'
 
 ### Tags
 
-*
+This is an overview only. For more detailed discussion and examples, see the list of [Bulgarian POS tags](pos/index.html)
+and [Bulgarian features](feat/index.html).
+
+* Bulgarian uses 15 universal POS categories. It does not make use of ([SYM]()) and ([X]()).
+* Affirmative, negative, interrogative, modal particles are analyzed as ([PART]()). 
+* The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is handled as follows:
+** as pronouns - personal and reflexive pronouns, and all entity-pointing other pronouns (demonstrative, interrogative, relative, indefinite, collective, negative).
+** as determiners - the attributive and possessive atributive forms of the demonstrative, interrogative, relative, indefinite, collective, negative pronouns; the long forms of the possessive pronouns.
+** Disclamer 1: entity-denoting demonstrative, interrogative, relative, indefinite, collective, negative pronouns can be either ([PRON]()) or ([DET]()) depending on the usage of the homonymic form. If it is used as a pro-noun, it is pronoun. If it is used attributively, it is determiner.
+** Disclaimer 2: Bulgarian has a post-positined definite article which is part of the word and a phrasal affix within a phrase. Thus, it does not have a distinct analysis.
+* Bulgarian has just one auxiliary verb ([AUX]()), _съм_ / сам (“to be”), but lemmas _бъда_ / bada, _бивам_ / bivam, _би_ / bi (would) are also possible.
+* Auxiliary particles _ще_ / shte ("will, shall") and _да_ / da ("to") are analyzed as ([AUX]()) as well.
+* Modal verbs are analyzed as ([VERB]()).
+* As ([ADJ]()) the following POS are tagged: adjectives, odrinal numerals, partciples in adjectival usage, adjectives from family names.
+* As ([VERB]()) the following POS are tagged: personal and impersonal verbs, participles when used as indicators of evidentiality and converbs.
+
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
