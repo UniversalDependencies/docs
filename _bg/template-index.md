@@ -86,7 +86,32 @@ and [Bulgarian features](feat/index.html).
 
 ## Syntax
 
-*
+This is an overview only. For more detailed discussion and examples, see the list of [Bulgarian relations](dep/index.html).
+
+### Core Arguments, Oblique Arguments and Adjuncts
+
+* Nominal subject ([nsubj]()) is a noun phrase in nominative case, without preposition.
+* An finite subordinate clause can serve the role of a subject. In such a case it is labeled as clausal subject, [csubj](). There is no infinitive in Bulgarian.
+* Objects can be bare noun phrases in the position of an accusative pronoun.
+* Bare accusative, dative and prepositinal dative are considered core (with the preposition _на_ / na).
+* All other prepositional objects are considered oblique.
+* Accusative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
+* If a verb subcategorizes for modal verbs or verbs of control, the infinitival complement is labeled [xcomp]().
+* Adjuncts are usually prepositional phrases, but they can be bare noun phrases as well. They are labeled [obl]().
+* In Bulgarian there is the phenomenon of clitic doubling. Thus, when the short pronoun appears alone, it takes the role of [obj]() or [iobj](). However, when the full-fledged pronoun or phrase is present, it is marked [expl](). Expletive [expl]() is used also for the reflexive short pronouns when they are semantically empty and part of the lexical verb. For example: _смея се_ / smeya se "I am laughing"
+* In Bulgarian copula [cop]() is expressed by the auxiliary verb _съм_ / sam "to be" and its synonyms.
+* In passive clauses (both reflexive and periphrastic passive), the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
+* The auxiliary verb in periphrastic passive is labeled [aux:pass]().
+
+### Other relations:
+
+* In Bulgarian the Yes-No questions are formed with the question particle ли (li). At the moment this particle is annotated with the [discourse]() relation.
+
+### No used relations:
+
+* `dislocated`, `clf`, `list`, `reparandum`, `orphan`, `dep`
+
+
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
