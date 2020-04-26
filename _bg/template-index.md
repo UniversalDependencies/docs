@@ -95,7 +95,7 @@ and [Bulgarian features](feat/index.html).
 
 ## Treebanks
 
-There are [1](../treebanks/LCODE-comparison.html) Bulgarian UD treebank:
+There is [1](../treebanks/LCODE-comparison.html) Bulgarian UD treebank:
 
   * [Bulgarian-BTB](../treebanks/LCODE_a/index.html)
 
