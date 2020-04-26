@@ -47,7 +47,37 @@ and [Bulgarian features](feat/index.html).
 
 ### Features
 
-*
+#### Nominal Features
+
+* Nouns [NOUN]() and PROPN]() have an inherent [Gender]() feature with one of the three values: `Masc`, `Fem` or `Neut`.
+* [Animacy]() is a semantic feature. It is gramatically incorporated only in some pronouns and numerals. The distinction `Human - Non-human` is more explicit in the `Count` form of `Masculine`. `Count` form is applicable only for masculine nouns (`Masc`) that denote Non-human.
+* ADJ](), [DET](), [NUM](), [PART]() inflect for `Gender` and `Number`, and agree with nouns.
+* Bulgarian lacks declension, so only some vocative forms have vocative case, while personal pronouns have nominative, accusative and dative cases. Masculine forms of `Int`, `Rel`, `Neg`, `Ind` and very rarely `Tot` have accusative and dative forms.
+
+#### Degree and Polarity
+
+* [Degree]() is an inherent feature for adjectives ([ADJ]()) and adverbs ([ADV]()). It has one of three possible values: `Pos`, `Cmp`, `Sup`.
+* [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to negative and affirmative particles [PART]().
+ 
+#### Verbal Features
+
+* Similarly to other Slavic languages, Bulgarian verbs have as a lexically classifying feature [Aspect](), either imperfective (`Imp`) or perfective (`Perf`). 
+* Finite verbs always have one of three values of [Mood](): `Ind`, `Imp` or `Cnd`. The conditional mood is only used with the special conditional auxiliaries _(бих / bih, би / bi, бихме / bihme, бихте / bihte, биха / biha)_. The l-participle of the main verb, that is needed to form the analytic conditional, is not marked with this feature.
+* Verbs in the indicative mood always have one of three values of [Tense](): `Past`, `Imp` and `Pres`. `Fut` is not used because this tense is always analytic and formed with a special particle.
+* There are two values of the [Voice]() feature: `Act` and `Pass`. Only the passive participle has `Voice=Pass`. All other verb forms have `Voice=Act`.
+
+#### Pronouns, Determiners, Quantifiers
+
+* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
+* [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()), determiners ([DET]()) and adverbs ([ADV]()).
+* The [Poss]() feature marks possessive personal determiners (e.g. _мой_ / moy “my”),
+  possessive interrogative, indefinite or negative determiners (e.g. _чий_ / chiy “whose”),
+  possessive relative determiners (e.g. _чийто_ / chiyto “whose”)
+  and possessive adjectives (e.g. _майчин_ / maychin “mother's”). It also marks the clitic personal pronouns `Prs` and reflexive pronouns.
+* The [Reflex]() feature marks reflexive pronouns _(себе си, се, си)_ / sebe si, se, si and determiners _(свой)_ / svoy "one's own" and possesive clitic pronoun _си_ / si.
+* [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
+  
+
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
