@@ -14,10 +14,7 @@ udver: '2'
 * The hyphenated complex words are treated as one token: _външно-политически_ / vanshno-politicheski "foreign-political", _министър-председателят_ / ministar-predsedateleyat "the prime minister", _по-малко_ / po-malko "less".
 * Depending on the intervals, there might be cases in which the complex word is analyzed as three tokens. For example _ДПС - депутати_ / DPS - members-of-parliament "MPs from the DPS party".
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
 
----
 
 ## Morphology
 
@@ -27,7 +24,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 and [Bulgarian features](feat/index.html).
 
 * Bulgarian uses 15 universal POS categories. It does not make use of ([SYM]()) and ([X]()).
-* Affirmative, negative, interrogative, modal particles are analyzed as ([PART]()). 
+* Affirmative, negative, interrogative, modal particles are analyzed as ([PART]()).
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is handled as follows:
   * as pronouns - personal and reflexive pronouns, and all entity-pointing other pronouns (demonstrative, interrogative, relative, indefinite, collective, negative).
   * as determiners - the attributive and possessive atributive forms of the demonstrative, interrogative, relative, indefinite, collective, negative pronouns; the long forms of the possessive pronouns.
@@ -38,12 +35,6 @@ and [Bulgarian features](feat/index.html).
 * Modal verbs are analyzed as ([VERB]()).
 * The following POS are tagged as ([ADJ]()): adjectives; ordinal numerals; partciples in adjectival usage adjectives derived from family names.
 * The following POS are tagged as ([VERB]()): personal and impersonal verbs; participles when used as verbal forms - indicators of evidentiality; and converbs.
-
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
@@ -61,10 +52,10 @@ and [Bulgarian features](feat/index.html).
 
 * [Degree]() is an inherent feature for adjectives ([ADJ]()) and adverbs ([ADV]()). It has one of three possible values: `Pos`, `Cmp`, `Sup`.
 * [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to negative and affirmative particles [PART]().
- 
+
 #### Verbal Features
 
-* Similarly to other Slavic languages, Bulgarian verbs have as a lexically classifying feature [Aspect](), either imperfective (`Imp`) or perfective (`Perf`). 
+* Similarly to other Slavic languages, Bulgarian verbs have as a lexically classifying feature [Aspect](), either imperfective (`Imp`) or perfective (`Perf`).
 * Finite verbs always have one of three values of [Mood](): `Ind`, `Imp` or `Cnd`. The conditional mood is only used with the special conditional auxiliaries _(бих / bih, би / bi, бихме / bihme, бихте / bihte, биха / biha)_. The l-participle of the main verb, that is needed to form the analytic conditional, is not marked with this feature.
 * Verbs in the indicative mood always have one of three values of [Tense](): `Past`, `Imp` and `Pres`. `Fut` is not used because this tense is always analytic and formed with a special particle.
 * There are two values of the [Voice]() feature: `Act` and `Pass`. Only the passive participle has `Voice=Pass`. All other verb forms have `Voice=Act`.
@@ -79,13 +70,8 @@ and [Bulgarian features](feat/index.html).
   and possessive adjectives (e.g. _майчин_ / maychin “mother's”). It also marks the clitic personal pronouns `Prs` and reflexive pronouns.
 * The [Reflex]() feature marks reflexive pronouns _(себе си, се, си)_ / sebe si, se, si and determiners _(свой)_ / svoy "one's own" and possesive clitic pronoun _си_ / si.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
-  
 
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 
@@ -116,21 +102,8 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
-
 ## Treebanks
 
-There is [1](../treebanks/LCODE-comparison.html) Bulgarian UD treebank:
+There is 1 Bulgarian UD treebank:
 
-  * [Bulgarian-BTB](../treebanks/LCODE_a/index.html)
-
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Bulgarian-BTB](../treebanks/bg_btb/index.html)
