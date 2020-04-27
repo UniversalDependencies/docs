@@ -12,7 +12,7 @@ udver: '2'
 * In general, words are delimited by whitespace characters. In our original treebank we use MWEs, such as compound subordinators, adverbs or composite pronouns. However, in UD every single token is segmented separately. For example: _за да_ / za da"in order to", _може би_ / mozhe bi"maybe", _се забавям_ / se zavavyam"slow myself". For indicating the common POS meaning, we use the relation `fixed`.
 * The numbers are analyzed as one token when used as expression without spaces (20000) or with an internal comma as indicator (10,434).
 * The hyphenated complex words are treated as one token: _външно-политически_ / vanshno-politicheski "foreign-political", _министър-председателят_ / ministar-predsedateleyat "the prime minister", _по-малко_ / po-malko "less".
-* Depending on the intervals, there might be cases in which the complex word is analyzed as three tokens. For example _ДПС - депутати_ / DPS - members-of-parliament"MPs from the DPS party".
+* Depending on the intervals, there might be cases in which the complex word is analyzed as three tokens. For example _ДПС - депутати_ / DPS - members-of-parliament "MPs from the DPS party".
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
