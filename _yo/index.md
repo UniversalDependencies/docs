@@ -25,7 +25,7 @@ udver: '2'
   * _kìí_ – negative habitual (“usually be/do not”)
   * _ń_ – imperfective or progressive aspect
   * _ti_ – perfective aspect (“have”)
-  * _yóò, máa, á, ó, yió_ – future tense (“shall, will”)
+  * _yóò, máa, á, a, ó, yió_ – future tense (“shall, will”)
   * _ìbá, ì bá_ – conditional (“would”); written as one word in old texts, modern spelling is _ì bá_
   * _lè_ – modal “can, may”
   * _gbọdọ̀_ – modal “must”
