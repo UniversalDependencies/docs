@@ -53,8 +53,9 @@ and [Bulgarian features](feat/index.html).
 
 * Nouns [NOUN]() and PROPN]() have an inherent [Gender]() feature with one of the three values: `Masc`, `Fem` or `Neut`.
 * [Animacy]() is a semantic feature. It is gramatically incorporated only in some pronouns and numerals. The distinction `Human - Non-human` is more explicit in the `Count` form of `Masculine`. `Count` form is applicable only for masculine nouns (`Masc`) that denote Non-human.
-* ADJ](), [DET](), [NUM](), [PART]() inflect for `Gender` and `Number`, and agree with nouns.
+* [ADJ](), [DET](), [NUM](), [PART]() inflect for `Gender` and `Number`, and agree with nouns.
 * Bulgarian lacks declension, so only some vocative forms have vocative case, while personal pronouns have nominative, accusative and dative cases. Masculine forms of `Int`, `Rel`, `Neg`, `Ind` and very rarely `Tot` have accusative and dative forms.
+* Bulgarian nominals (nouns, adjectives, ordinal numerals, attributively used participles) make use of the `Definite` feature. When the form has a definite article, it is marked as `Def`. When no definite article is attached after the ending, it is marked as `Ind`.
 
 #### Degree and Polarity
 
