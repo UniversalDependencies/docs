@@ -34,10 +34,10 @@ and [Bulgarian features](feat/index.html).
   * Disclamer 1: entity-denoting demonstrative, interrogative, relative, indefinite, collective, negative pronouns can be either ([PRON]()) or ([DET]()) depending on the usage of the homonymic form. If it is used as a pro-noun, it is pronoun. If it is used attributively, it is determiner.
   * Disclaimer 2: Bulgarian has a post-positined definite article which is part of the word and a phrasal affix within a phrase. Thus, it does not have a distinct analysis.
 * Bulgarian has just one auxiliary verb ([AUX]()), _съм_ / сам (“to be”), but lemmas _бъда_ / bada, _бивам_ / bivam, _би_ / bi ("would") are also possible.
-* Auxiliary particles _ще_ / shte ("will, shall") and _да_ / da ("to") are analyzed as ([AUX]()) as well.
+* Auxiliary particles _ще_ / shte ("will, shall") and _да_ / da ("to") are analyzed as ([AUX]()).
 * Modal verbs are analyzed as ([VERB]()).
-* As ([ADJ]()) the following POS are tagged: adjectives, odrinal numerals, partciples in adjectival usage, adjectives from family names.
-* As ([VERB]()) the following POS are tagged: personal and impersonal verbs, participles when used as indicators of evidentiality and converbs.
+* The following POS are tagged as ([ADJ]()): adjectives; ordinal numerals; partciples in adjectival usage adjectives derived from family names.
+* The following POS are tagged as ([VERB]()): personal and impersonal verbs; participles when used as verbal forms - indicators of evidentiality; and converbs.
 
 
 ---
