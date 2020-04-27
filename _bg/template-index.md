@@ -47,6 +47,8 @@ and [Bulgarian features](feat/index.html).
 
 ### Features
 
+* Features Not used:`Abbr`, `Typo`, `NounClass`, `Evident`, `Polite`, `Clusivity`. Although `Evident` and `Polite` are relevant for Bulgarian, their annotation requires additional manual intervention and thus - for the moment they are not reflected.
+
 #### Nominal Features
 
 * Nouns [NOUN]() and PROPN]() have an inherent [Gender]() feature with one of the three values: `Masc`, `Fem` or `Neut`.
