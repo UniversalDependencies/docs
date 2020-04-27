@@ -28,6 +28,7 @@ udver: '2'
   * _yóò, máa, á, ó, yió_ – future tense (“shall, will”)
   * _ìbá, ì bá_ – conditional (“would”); written as one word in old texts, modern spelling is _ì bá_
   * _lè_ – modal “can, may”
+  * _gbọdọ̀_ – modal “must”
   * _má, máà_ – negative “do not” (cf. the negative particle _kò_)
 * The tag [DET]() is used for articles and pronominal words used with a determiner function;
   they can precede or follow the noun they quantify.
