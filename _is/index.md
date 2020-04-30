@@ -66,5 +66,5 @@ obl:arg for oblique arguments that are not adjuncts
 There are two Icelandic UD treebanks in preparation:
 
 * [Icelandic-PUD](/treebanks/is_pud/index.html)
-* Icelandic-UniTree
+* Icelandic-IcePaHC
 
