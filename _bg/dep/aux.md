@@ -14,7 +14,7 @@ aux(прочетена-3, беше-2)
 ~~~
 
 ~~~ sdparse
-Book-the was read .
+Book_the was read .
 aux(read-3, was-2)
 ~~~
 
