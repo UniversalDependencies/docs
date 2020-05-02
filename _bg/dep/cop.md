@@ -13,7 +13,7 @@ cop(тих-3, беше-2)
 ~~~
 
 ~~~ sdparse
-The-Danube was silent and calm .
-cop(silent-3, was-2)
+The Danube was silent and calm .
+cop(silent-4, was-2)
 ~~~
 
