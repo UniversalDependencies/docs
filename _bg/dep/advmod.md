@@ -13,8 +13,8 @@ advmod(защитава-4, безплатно-5)
 ~~~
 
 ~~~ sdparse
-He will defend them for-free .
-advmod(defend-3, for-free-5)
+He will defend them for_free .
+advmod(defend-3, for_free-5)
 ~~~
 
 Note that the relation between the Bulgarian negative particle _не_ ne "no" and its head is marked with [advmod]().
@@ -25,8 +25,8 @@ advmod(смееше-2, не-1)
 ~~~
 
 ~~~ sdparse
-Did-not dare to lift eyes .
-advmod(dare-2, Did-not-1)
+Did_not dare to lift eyes .
+advmod(dare-2, Did_not-1)
 ~~~
 
 
