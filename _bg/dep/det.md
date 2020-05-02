@@ -5,7 +5,7 @@ shortdef: 'determiner'
 udver: '2'
 ---
 
-The relation determiner [det]() holds between a nominal head and its determiner. Most commonly, a word of POS [DET]() will have the relation [det]() and vice versa. 
+The relation [det]() holds between a nominal head and its determiner. Most commonly, a word of POS [DET]() will have the relation [det]() and vice versa. 
 
 In Bulgarian all words that are categorsed as [DET]() also bear [det]() relation.
 
