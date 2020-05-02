@@ -17,7 +17,7 @@ number or quantity, etc.
 In Bulgarian the definite article is part of the word, thus it is not considered
 as determiner.
 
-However, the following pronouns are mapped to [detereminers](DET):
+However, the following pronouns are mapped to [determiners](DET):
 
 - demonstratives: Pda#, Pde#
 - relatives: Pra#, Pre#, Prp#
@@ -27,9 +27,9 @@ However, the following pronouns are mapped to [detereminers](DET):
 - negatives: Pna#, Pne#, Pnp#
 - possessives: Ps@l
 
-Note that the attributive usages (#a#) and possessive attributive usages (#p#) go directly into DET category, while entities (#e#) can be either
+Note that the attributive usages (#a#) and possessive attributive usages (#p#) go directly into [DET]() category, while entities (#e#) can be either
 determiners or pronouns. The possessive pronouns (Ps#) are mapped with only their long forms (#l#). 
-The short forms are clitics and will be treated differently.
+The short forms are clitics and will be treated as [PRON]().
 
 
 ### Examples
