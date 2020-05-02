@@ -16,9 +16,9 @@ expl(науча-4, я-3)
 ~~~
 
 ~~~ sdparse
-I would teach her.clitic her.arg a lesson .
-obj(teach-3, her.arg-5)
-expl(teach-3, her.cl-4)
+I would teach her.CLITIC her.ARGUMENT a lesson .
+obj(teach-3, her.ARGUMENT-5)
+expl(teach-3, her.CLITIC-4)
 ~~~
 
 In Bulgarian this relation is used also for reflexive particles that are semantiaclly vacuous and thus are part of the lexical meaning of the verb.
