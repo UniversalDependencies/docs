@@ -14,6 +14,6 @@ mark(заминал-5, че-3)
 ~~~
 
 ~~~ sdparse
-Believe-I that he has gone .
+Believe_I that he has gone .
 mark(gone-5, that-2)
 ~~~
