@@ -16,6 +16,6 @@ appos(майката-6, жена-13)
 ~~~
 
 ~~~ sdparse
-When reached-they to highway-the , mother-the - yellow and crushed woman - yet distantly looked husband her.REFL .
-appos(mother-the-6, woman-11)
+When reached_they to highway_the , mother_the - yellow and crushed woman - yet distantly looked husband her.REFL .
+appos(mother_the-6, woman-11)
 ~~~
