@@ -24,12 +24,12 @@ However, the short possessive and reflexive-possessive pronouns are treated as [
 
 ~~~ sdparse
 Изглежда , любопитството й беше по-силно от всичко .
-det(любопитсвото-3, й-4)
+det(любопитството-3, й-4)
 ~~~
 
 ~~~ sdparse
-It seems that curiosity her-SHORT was stronger than anything else .
-det(curiosity-4, her-SHORT-5)
+It seems that curiosity her.SHORT was stronger than anything else .
+det(curiosity-4, her.SHORT-5)
 ~~~
 
 
