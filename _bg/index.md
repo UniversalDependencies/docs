@@ -98,7 +98,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ### No used relations:
 
-* `dislocated`, `clf`, `list`, `reparandum`, `orphan`, `dep`
+* `compound`, `dislocated`, `clf`, `list`, `reparandum`, `orphan`, `dep`
 
 
 
