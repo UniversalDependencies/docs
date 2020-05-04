@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'cc'
-shortdef: 'oordinating conjunction'
+shortdef: 'coordinating conjunction'
 udver: '2'
 ---
 
