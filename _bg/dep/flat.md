@@ -9,8 +9,8 @@ The [flat]() relation is one of three relations for multiword expressions multiw
 
 Flat MWEs are annotated with a flat structure, where all subsequent words in the expression are attached to the first one using the [flat]() label. The assumption is that these expressions do not have any internal syntactic structure and that the structural annotation is in principle arbitrary. In practice, however, it is highly desirable to use a consistent annotation of all flat MWEs in all languages.
 
-In Bulgarian names are annotation with this relation for the sake of comparability. Otherwise, Bulgarian proper names have a clear internal syntactic structure.
-Foe dates and complex numerals the following relations are used: [nummod]() and [amod]().
+In Bulgarian the names are annotated with this relation for the sake of comparability. Otherwise, Bulgarian proper names have a clear internal syntactic structure.
+For dates and complex numerals the following relations are used: [nummod]() and [amod]().
 
 
 ~~~ sdparse
