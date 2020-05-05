@@ -40,3 +40,13 @@ appos(spriocdháta, 16)
 flat(16, Eanáir)
 flat(16, 2003.)
 ~~~
+
+In cases where the sentence can be disjointed, but there is a close relation between the tokens, we use appos. 
+
+_Tuilleadh eolais Fón: <b>01-4757401</b> r-phost: <b>eolas@cnag.ie<b/>._ 'More information Phone: <b>01-4757401</b> email: <b>eolas@cnag.ie.</b>'
+
+~~~ sdparse
+Tuilleadh eolais Fón: 01-4757401 r-phost: eolas@cnag.ie. \n More information Phone: 01-4757104 email: eolas@cnag.ie.
+appos(fón, 01-4757401)
+appos(r-phost, eolas@cnag.ie.)
+~~~
