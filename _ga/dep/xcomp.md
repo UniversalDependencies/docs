@@ -46,5 +46,14 @@ _Chuirfeadh iad ar <b>fáil</b>_ `They would be made available'
 Chuirfeadh iad ar fáil \n Would_be_put they on getting
 xcomp(Chuirfeadh,fáil)
 case(fáil, ar)
+~~~
 
+Verbal nouns in Irish can have either a fronted object or the object can follow the verbal noun. 
+
+_Déanann Máire iarracht é a mhusclú._ 'Máire makes an effort to wake him up.'
+
+~~~ sdparse
+Déanann Máire iarracht é a mhusclú \n 'Makes Máire effort him to wake
+xcomp(Déanann, mhusclú)
+obj(é, mhusclú)
 ~~~
