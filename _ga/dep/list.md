@@ -36,6 +36,6 @@ appos(ceannteidil, costas)
 list(costas, cruth)
 list(costas, blas)
 list(costas, bialuach)
-list(costas, líon na mbreiseán)
-list(costas, tír a dhéanta)
+list(costas, líon)
+list(costas, tír)
 ~~~
