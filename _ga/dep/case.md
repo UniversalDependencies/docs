@@ -57,7 +57,7 @@ case(gcuairteoir, ar)
 
 #### Obliques
 
-Oblique arguments are also labelled `case`.
+Oblique arguments are also introduced by case markers and are therefore labelled `case`.
 
 _Tá muintir Chorcaí an-mhíshásta <b>le</b> Fianna Fáil_ 'The people of Cork are very unhappy <b>with</b> Fianna Fáil'
 
@@ -67,6 +67,10 @@ obl(Tá, Fianna)
 case(Fianna, le)
 ~~~
 
-
-
+_Tá port amháin á chanadh <b>ag</b> an <b>Uachtarán</b> Chirac ó ceapadh é._ 'President Chirac has been singing the same old song since he was appointed'
+~~~ sdparse
+Tá port amháin á chanadh ag an Uachtarán Chirac ó ceapadh é \n Is tune one being to_sing by the President Chirac from was-appointed he.
+obl(chanadh, Uachtarán)
+case(Uachtarán, ag)
+~~~
 
