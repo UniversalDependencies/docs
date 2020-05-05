@@ -70,7 +70,7 @@ Note that the secondary predicate can also attach either to the verbal noun of v
 D'fhéadfadh imreoir nó dhó seal a chaitheamh <b>díomhaoin</b> ón imirt dá bharr. `Some players could spend <b>a while</b> off the pitch because of it'
 
 ~~~ sdparse
-D'fhéadfadh imreoir nó dhó seal a chaitheamh <b>díomhaoin</b> ón imirt dá bharr. \n Could a_player or two a_while to spending idle from playing to_its reason.
+D'fhéadfadh imreoir nó dhó seal a chaitheamh díomhaoin ón imirt dá bharr. \n Could a_player or two a_while to spending idle from playing to_its reason.
 xcomp:pred(chaitheamh, díomhaoin)
 ~~~
 
