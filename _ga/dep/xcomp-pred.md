@@ -5,7 +5,7 @@ shortdef : 'predicate'
 udver: '2'
 ---
 
-We extend the label `xcomp` as a UD Irish subtype `xcomp:pred` to mark predicates of the substantive verb _bí_ (be), which can have predicate arguments in the form of adverbial, adjectival and prepositional phrases and for cases where a secondary predicate occurs.
+We extend the label `xcomp` as a UD Irish subtype `xcomp:pred` to mark predicates of the substantive verb _bí_ (to be), which can have predicate arguments in the form of adverbial, adjectival and prepositional phrases and for cases where a secondary predicate occurs.
 Note that this differs from Irish ([cop]()) constructions. 
 
 ### Examples
@@ -28,11 +28,10 @@ Bhí teas ollmhór ann \n Was heat great in_it
 xcomp:pred(Bhí, ann)
 ~~~
 
-B'amhlaidh bhí an mairtíneach 'na shuí `It was very hot <b>there</b>'
-
+a bhí ina dhiaidh sin ina <b>T.D.</b> `who was later a <b>T.D.</b>'
 ~~~ sdparse
-Bhí teas ollmhór ann \n Was heat great in_it 
-xcomp:pred(Bhí, ann)
+a bhí ina dhiaidh sin ina T.D. \n who was in_its after a T.D. 
+xcomp:pred(bhí, T.D.)
 ~~~
 
 Note that the head of the prepositional phrase is the noun.
@@ -63,11 +62,16 @@ _Shín mé amach díreach romham í agus <b>fuair</b> mé an áit <b>folamh</b>_
 
 ~~~ sdparse
 Shín mé amach díreach romham í agus fuair mé an áit folamh \n Stretched I out straight in_front_of_me it and found I the place empty 
-xcomp(fuair, folamh)
+xcomp:pred(fuair, folamh)
 ~~~
 
+Note that the secondaury predicate can also attach to the verbal noun of verbs other than the substantive verb _bí_ (to be)
 
+D'fhéadfadh imreoir nó dhó seal a chaitheamh <b>díomhaoin</b> ón imirt dá bharr. `Some players could spend <b>a while</b> off the pitch because of it'
 
-
+~~~ sdparse
+D'fhéadfadh imreoir nó dhó seal a chaitheamh <b>díomhaoin</b> ón imirt dá bharr. \n Could a_player or two a_while to spending idle from playing to_its reason.
+xcomp:pred(chaitheamh, díomhaoin)
+~~~
 
 
