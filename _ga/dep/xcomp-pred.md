@@ -5,7 +5,7 @@ shortdef : 'predicate'
 udver: '2'
 ---
 
-We extend the label `xcomp` as a UD Irish subtype `xcomp:pred` to mark predicates of the substantive verb _bí_ (be), which can have predicate arguments in the form of adverbial, adjectival and prepositional phrases.
+We extend the label `xcomp` as a UD Irish subtype `xcomp:pred` to mark predicates of the substantive verb _bí_ (be), which can have predicate arguments in the form of adverbial, adjectival and prepositional phrases and for cases where a secondary predicate occurs.
 Note that this differs from Irish ([cop]()) constructions. 
 
 ### Examples
@@ -22,6 +22,13 @@ xcomp:pred(Bhí, dochreidte)
 
 
 _Bhí teas ollmhór <b>ann</b>_ `It was very hot <b>there</b>'
+
+~~~ sdparse
+Bhí teas ollmhór ann \n Was heat great in_it 
+xcomp:pred(Bhí, ann)
+~~~
+
+B'amhlaidh bhí an mairtíneach 'na shuí `It was very hot <b>there</b>'
 
 ~~~ sdparse
 Bhí teas ollmhór ann \n Was heat great in_it 
@@ -48,6 +55,16 @@ Tá Meryl Streep go hiontach sa scannán sin \n Is Meryl Streep [] wonderful in 
 xcomp:pred(Tá, hiontach)
 ~~~
 
+#### Secondary Predicate
+
+This label is also used for secondary predicates, i.e. where two predicates occur within one clause. 
+
+_Shín mé amach díreach romham í agus <b>fuair</b> mé an áit <b>folamh</b>_ `I stretched it out in front of me and <b>found</b> the place <b>empty</b>'
+
+~~~ sdparse
+Shín mé amach díreach romham í agus fuair mé an áit folamh \n Stretched I out straight in_front_of_me it and found I the place empty 
+xcomp(fuair, folamh)
+~~~
 
 
 
