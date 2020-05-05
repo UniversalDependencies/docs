@@ -33,3 +33,14 @@ _Is í an <b>bhean</b> cruthaitheóir agus cosantóir na beatha._ `The <b>woman<
 ROOT Is í an bhean cruthaitheóir agus cosantóir na beatha. \n ROOT Is her the woman creator and defender of_the life.  
 root(ROOT, bhean)
 ~~~
+
+In copular constructions where the pleonastic conjunction '_ná_' occurs, the subject is fronted and the predicate appears clause-finally introduced by '_ná_'. Therefore, the `root` and the `cop` are located far from one other. 
+
+_Is í an obair a bheadh le déanamh ná 'aghaidh a <b>thabhairt</b> ar pholaitiú agus ar bharbarú an domhain'._ The work that would have to be done would be to <b>address</b> the politicisation and violent nature of the world.
+
+~~~ sdparse
+ROOT Is í an obair a bheadh le déanamh ná 'aghaidh a thabhairt</b> ar pholaitiú agus ar bharbarú an domhain'. \n ROOT Is it(fem) the work that would_be to doing [] face to giving on politicising and on violence of_the world.  
+root(ROOT, thabhairt)
+obj(thabhairt, aghaidh)
+cop(thabhairt, Is)
+~~~
