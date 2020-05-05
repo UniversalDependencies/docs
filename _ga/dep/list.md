@@ -33,7 +33,7 @@ _Déantar comparáid idir na staideanna éagsúla faoi na <b>ceannteidil</b> seo
 ~~~ sdparse
 Déantar comparáid idir na staideanna éagsúla faoi na ceannteidil seo a leanas: costas; cruth / cuma; blas; bialuach; líon na mbreiseán; tír a dhéanta. \n Is_made a_comparison between the states different under the headings this that follows: cost; shape / appearance; taste; food value; amount of adjectives; country of_its production.
 appos(ceannteidil, costas)
-list(costas, cruth/cuma)
+list(costas, cruth)
 list(costas, blas)
 list(costas, bialuach)
 list(costas, líon na mbreiseán)
