@@ -21,6 +21,32 @@ case(ⲕ, ⲙⲙⲟ)
 
 Note that this is just like a nominal subject (`nsubj`): what would be fitting? To tolerate you. To tolerate you is fitting.
 
+A relatively frequent case is the predicative 'p-et' construction after a noun predicate, where a subject clause marked by the relative converter follows what looks like an article, but is in fact a truncated copula. In the following example, the postponed clause is `csubj`. Note that the copula ⲡ has xpos=COP and upos=PRON, while the article is DET (xpos=ART).
+
+~~~ sdparse
+ⲡ/DET ⲛⲟⲩⲧⲉ/NOUN ⲡ/PRON ⲉⲧ/SCONJ ⲁⲩⲝⲁⲛⲉ/VERB \n God is who raised them
+
+csubj(ⲛⲟⲩⲧⲉ, ⲁⲩⲝⲁⲛⲉ)
+cop(ⲛⲟⲩⲧⲉ, ⲡ-2)
+mark(ⲁⲩⲝⲁⲛⲉ, ⲉⲧ)
+det(ⲛⲟⲩⲧⲉ, ⲡ-1)
+~~~
+
+Compare this to the 'normal' p-et- construction, which does not contain a copula and functions as an argument nominal phrase (and note there is only upos=DET here):
+
+
+~~~ sdparse
+ⲡ/DET ⲉⲛⲧ/SCONJ ⲁ/AUX ϥ/PRON ⲥⲟⲣⲙ/VERB ⲉⲥ/PRON ⲉⲓ/VERB \n The one who lost it is coming
+
+nsubj(ⲉⲓ, ⲡ)
+acl(ⲡ, ⲥⲟⲣⲙ)
+mark(ⲥⲟⲣⲙ, ⲉⲛⲧ)
+nsubj(ⲥⲟⲣⲙ, ϥ)
+obj(ⲥⲟⲣⲙ, ⲉⲥ)
+aux(ⲥⲟⲣⲙ, ⲁ)
+~~~
+
+
 The small class of mostly Greek origin impersonal verbs also takes subject clauses, such as ⲉⲝⲉⲥⲧⲓ 'it is appropriate', which points from main verb to subordinate verb:
 
 ~~~ sdparse
