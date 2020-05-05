@@ -27,7 +27,7 @@ A relatively frequent case is the predicative 'p-et' construction after a noun p
 ⲡ/DET ⲛⲟⲩⲧⲉ/NOUN ⲡ/PRON ⲉⲧ/SCONJ ⲁⲩⲝⲁⲛⲉ/VERB \n God is who raised them
 
 csubj(ⲛⲟⲩⲧⲉ, ⲁⲩⲝⲁⲛⲉ)
-cop(ⲛⲟⲩⲧⲉ, ⲡ-2)
+cop(ⲛⲟⲩⲧⲉ, ⲡ-3)
 mark(ⲁⲩⲝⲁⲛⲉ, ⲉⲧ)
 det(ⲛⲟⲩⲧⲉ, ⲡ-1)
 ~~~
