@@ -31,7 +31,7 @@ list(d, l)
 _Déantar comparáid idir na staideanna éagsúla faoi na <b>ceannteidil</b> seo a leanas: <b>costas</b>; <b>cruth/cuma</b>; <b>blas</b>; <b>bialuach</b>; <b>líon</b> na mbreiseán; <b>tír</b> a dhéanta._ `The different states are compared under the following <b>headings</b>: <b>cost</b>; <b>shape/appearance</b>; <b>taste</b>; <b>food value</b>; <b>amount</b> of additives; <b>country</b> of production
 
 ~~~ sdparse
-Déantar comparáid idir na staideanna éagsúla faoi na ceannteidil seo a leanas: costas; cruth/cuma; blas; bialuach; líon na mbreiseán; tír a dhéanta. \n Is_made a_comparison between the states different under the headings this that follows: 
+Déantar comparáid idir na staideanna éagsúla faoi na ceannteidil seo a leanas: costas; cruth / cuma; blas; bialuach; líon na mbreiseán; tír a dhéanta. \n Is_made a_comparison between the states different under the headings this that follows: cost; shape / appearance; taste; food value; amount of adjectives; country of_its production.
 appos(ceannteidil, costas)
 list(costas, cruth/cuma)
 list(costas, blas)
