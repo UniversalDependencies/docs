@@ -24,7 +24,7 @@ Note that this is just like a nominal subject (`nsubj`): what would be fitting? 
 A relatively frequent case is the predicative 'p-et' construction after a noun predicate, where a subject clause marked by the relative converter follows what looks like an article, but is in fact a truncated copula. In the following example, the postponed clause is `csubj`. Note that the copula ⲡ has xpos=COP and upos=PRON, while the article is DET (xpos=ART).
 
 ~~~ sdparse
-ⲡ/DET ⲛⲟⲩⲧⲉ/NOUN ⲡ/PRON ⲉⲧ/SCONJ ⲁⲩⲝⲁⲛⲉ/VERB \n God is who raised them
+ⲡ/DET ⲛⲟⲩⲧⲉ/NOUN ⲡ/PRON ⲉⲧ/SCONJ ⲁⲩⲝⲁⲛⲉ/VERB \n It is God who raised them
 
 csubj(ⲛⲟⲩⲧⲉ, ⲁⲩⲝⲁⲛⲉ)
 cop(ⲛⲟⲩⲧⲉ, ⲡ-3)
