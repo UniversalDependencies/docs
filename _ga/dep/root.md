@@ -41,6 +41,6 @@ _Is í an obair a bheadh le déanamh ná 'aghaidh a <b>thabhairt</b> ar pholaiti
 ~~~ sdparse
 ROOT Is í an obair a bheadh le déanamh ná 'aghaidh a thabhairt</b> ar pholaitiú agus ar bharbarú an domhain'. \n ROOT Is it(fem) the work that would_be to doing [] face to giving on politicising and on violence of_the world.  
 root(ROOT, thabhairt)
-obj(thabhairt, aghaidh)
+obj(thabhairt, 'aghaidh)
 cop(thabhairt, Is)
 ~~~
