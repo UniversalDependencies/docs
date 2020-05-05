@@ -34,7 +34,7 @@ ROOT Is í an bhean cruthaitheóir agus cosantóir na beatha. \n ROOT Is her the
 root(ROOT, bhean)
 ~~~
 
-In copular constructions where the pleonastic conjunction '_ná_' occurs, the subject is fronted and the predicate appears clause-finally introduced by '_ná_'. Therefore, the `root` and the `cop` are located far from one other. 
+In copular constructions where the pleonastic conjunction '_ná_' occurs, the subject is fronted and the predicate appears clause-finally introduced by '_ná_'. This conjunction allows for the re-ordering of the COP-PRED-SUBJ structure. Therefore, the `root` and the `cop` are separated by the subject of the copular phrase from one other. 
 
 _Is í an obair a bheadh le déanamh ná 'aghaidh a <b>thabhairt</b> ar pholaitiú agus ar bharbarú an domhain'._ The work that would have to be done would be to <b>address</b> the politicisation and violent nature of the world.
 
