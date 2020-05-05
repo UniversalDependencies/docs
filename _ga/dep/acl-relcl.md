@@ -49,7 +49,7 @@ acl:relcl(rud, mhaith)
 cop(mhaith, ar)
 ~~~
 
-_...go raibh 49% de <b>pháistí</b>, <b>ar</b> <b>Naíonáin</b> Shinsearacha iad an bhliain sin,..._  `...that 49% of <b>children</b>, <b>who</b> where <b>Senior</b> Infants that year,...' 
+_...go raibh 49% de <b>pháistí</b>, ar <b>Naíonáin</b> Shinsearacha iad an bhliain sin,..._  `...that 49% of <b>children</b>, <b>who</b> where <b>Senior</b> Infants that year,...' 
 
 ~~~ sdparse
 go raibh 49% de pháistí , ar Naíonáin Shinsearacha iad an bhliain sin, \n to that 49% of children, of_whom Infants Senior were_they the year that,
@@ -59,7 +59,8 @@ cop(Naíonáin, ar)
 
 NOTE: This kind of construction occurs quite often in legal text.
 
-_...cibé <b>forálacha</b> teagmhasacha, forlíontacha agus iarmhartacha is <b>dóigh</b> leis an Aire a bheith riachtanach..._ `...whatever incidental, supplementary and consequential <b>provisions</b> as <b>appear</b> to the Minister to be necessary 
+_...cibé <b>forálacha</b> teagmhasacha, forlíontacha agus iarmhartacha is <b>dóigh</b> leis an Aire a bheith riachtanach..._ `...whatever incidental, supplementary and consequential <b>provisions</b> as <b>appear</b> to the Minister to be necessary
+
 ~~~ sdparse
 ...cibé forálacha teagmhasacha, forlíontacha agus iarmhartacha is dóigh leis an Aire a bheith riachtanach... \n ...whatever provisions incidental, supplementary and consequential that is_thought with the Minister to be necessary...
 acl:relcl(forálacha, dóigh)
