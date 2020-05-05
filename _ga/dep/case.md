@@ -59,7 +59,7 @@ case(gcuairteoir, ar)
 
 Oblique arguments are also introduced by case markers and are therefore labelled `case`.
 
-_Tá muintir Chorcaí an-mhíshásta <b>le</b> Fianna Fáil_ 'The people of Cork are very unhappy <b>with</b> Fianna Fáil'
+_Tá muintir Chorcaí an-mhíshásta <b>le</b> <b>Fianna Fáil</b>_ 'The people of Cork are very unhappy <b>with</b> Fianna Fáil'
 
 ~~~ sdparse
 Tá muintir Chorcaí an-mhíshásta le Fianna Fáil \n Be people Cork very-unhappy with Fianna Fáil
