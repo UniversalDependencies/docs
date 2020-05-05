@@ -39,7 +39,7 @@ In copular constructions where the pleonastic conjunction '_ná_' occurs, the su
 _Is í an obair a bheadh le déanamh ná 'aghaidh a <b>thabhairt</b> ar pholaitiú agus ar bharbarú an domhain'._ The work that would have to be done would be to <b>address</b> the politicisation and violent nature of the world.
 
 ~~~ sdparse
-ROOT Is í an obair a bheadh le déanamh ná 'aghaidh a thabhairt</b> ar pholaitiú agus ar bharbarú an domhain'. \n ROOT Is it(fem) the work that would_be to doing [] face to giving on politicising and on violence of_the world.  
+ROOT Is í an obair a bheadh le déanamh ná 'aghaidh a thabhairt ar pholaitiú agus ar bharbarú an domhain'. \n ROOT Is it(fem) the work that would_be to doing [] face to giving on politicising and on violence of_the world.  
 root(ROOT, thabhairt)
 obj(thabhairt, 'aghaidh)
 cop(thabhairt, Is)
