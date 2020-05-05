@@ -67,7 +67,7 @@ xcomp:pred(fuair, folamh)
 
 Note that the secondary predicate can also attach either to the verbal noun of verbs other than the substantive verb _bí_ (to be) or to a noun. 
 
-D'fhéadfadh imreoir nó dhó seal a chaitheamh <b>díomhaoin</b> ón imirt dá bharr. `Some players could spend <b>a while</b> off the pitch because of it'
+_D'fhéadfadh imreoir nó dhó seal a chaitheamh <b>díomhaoin</b> ón imirt dá bharr._ `Some players could spend <b>a while</b> off the pitch because of it'
 
 ~~~ sdparse
 D'fhéadfadh imreoir nó dhó seal a chaitheamh díomhaoin ón imirt dá bharr. \n Could a_player or two a_while to spending idle from playing to_its reason.
@@ -76,7 +76,7 @@ xcomp:pred(chaitheamh, díomhaoin)
 
 In the case of an adjectival secondary predicate attaching to a noun, note that the adjective in question does not agree with the noun in terms of gender or number.
 
-Bhí Monte Carlo faoi fhurú, an áit <b>beo</b> le Sasanaigh. `Monte Carlo was a hive of activity, the place <b>teeming</b> with English people'
+_Bhí Monte Carlo faoi fhurú, an áit <b>beo</b> le Sasanaigh._ `Monte Carlo was a hive of activity, the place <b>teeming</b> with English people'
 
 ~~~ sdparse
 Bhí Monte Carlo faoi fhurú, an áit beo le Sasanaigh. \n Was Monte Carlo under activity, the place alive with English_people.
