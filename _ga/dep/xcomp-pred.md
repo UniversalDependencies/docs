@@ -65,7 +65,7 @@ Shín mé amach díreach romham í agus fuair mé an áit folamh \n Stretched I 
 xcomp:pred(fuair, folamh)
 ~~~
 
-Note that the secondaury predicate can also attach to the verbal noun of verbs other than the substantive verb _bí_ (to be)
+Note that the secondary predicate can also attach either to the verbal noun of verbs other than the substantive verb _bí_ (to be) or to a noun. In the case of an adjectival secondary predicate attaching to a noun, note that the adjective in question does not agree with the noun in terms of gender or number. 
 
 D'fhéadfadh imreoir nó dhó seal a chaitheamh <b>díomhaoin</b> ón imirt dá bharr. `Some players could spend <b>a while</b> off the pitch because of it'
 
@@ -74,4 +74,10 @@ D'fhéadfadh imreoir nó dhó seal a chaitheamh <b>díomhaoin</b> ón imirt dá 
 xcomp:pred(chaitheamh, díomhaoin)
 ~~~
 
+Bhí Monte Carlo faoi fhurú, an áit <b>beo</b> le Sasanaigh. `Monte Carlo was a hive of activity, the place <b>teeming</b> with English people'
+
+~~~ sdparse
+Bhí Monte Carlo faoi fhurú, an áit beo le Sasanaigh. \n Was Monte Carlo under activity, the place alive with English_people.
+xcomp:pred( áit, beo)
+~~~
 
