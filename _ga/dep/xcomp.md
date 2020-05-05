@@ -50,10 +50,18 @@ case(fáil, ar)
 
 Verbal nouns in Irish can have either a fronted object or the object can follow the verbal noun. 
 
-_Déanann Máire iarracht é a mhusclú._ 'Máire makes an effort to wake him up.'
+_Déanann Máire iarracht <>é</b> a mhusclú._ 'Máire makes an effort to wake <b>him</b> up.'
 
 ~~~ sdparse
 Déanann Máire iarracht é a mhusclú \n 'Makes Máire effort him to wake
 xcomp(Déanann, mhusclú)
 obj(é, mhusclú)
+~~~
+
+_tá MRBI ag déanamh suirbhé ar son Raidió na Gaeltachta_ 'MRBI are doing a survey on behalf of Raidió na Gaeltachta'
+
+~~~ sdparse
+tá MRBI ag déanamh suirbhé ar son Raidió na Gaeltachta \n are MRBI at_doing survey on behalf_of Raidió na Gaeltachta
+xcomp(tá, déanamh)
+obj(suirbhé, déanamh)
 ~~~
