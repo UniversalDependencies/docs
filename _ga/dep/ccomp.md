@@ -80,5 +80,4 @@ nsubj(gá, fhaitíos)
 parataxis(gá, cuma)
 ccomp(cuma, cén)
 nsubj(cén, chré)
-acl:relcl(lucht, atá)
 ~~~
