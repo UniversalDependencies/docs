@@ -52,6 +52,7 @@ _an deireadh seachtaine <b>seo caite</b>_ 'the <b>last</b> weekend'
 an deireadh seachtaine seo caite \n the end week this last
 compound(deireadh, seachtaine)
 fixed(seo, caite)
+det(deireadh, seo)
 ~~~
 
 _don bhliain <b>seo chugainn</b>_ 'for the <b>next</b> year'
@@ -59,6 +60,7 @@ _don bhliain <b>seo chugainn</b>_ 'for the <b>next</b> year'
 ~~~ sdparse
 don bhliain seo chugainn \n for_the year this towards
 fixed(seo, chugainn)
+det(bhliain, seo)
 ~~~
 
 _Ní fhaca mé rud ar bith._ 'I did not see anyting at all'
@@ -66,4 +68,5 @@ _Ní fhaca mé rud ar bith._ 'I did not see anyting at all'
 ~~~ sdparse
 Ní fhaca mé rud ar bith. \n Not see me anything at all
 fixed(ar, bith)
+nmod(rud, ar)
 ~~~
