@@ -73,7 +73,7 @@ It can also occur where the head of the `ccomp` is simultaneously the head of a 
 _Ní gá aon fhaitíos, cuma <b>cén</b> chré ná cultúr._ `There's no need to be afraid, regardless of creed or culture.
 
 ~~~ sdparse
-ROOT Ní gá aon fhaitíos , cuma cén chré ná cultúr. \n NEG need any fear , regardless which creed or culture. 
+ROOT Ní gá aon fhaitíos , cuma cén chré ná cultúr. \n ROOT NEG need any fear , regardless which creed or culture. 
 cop(gá, Ní)
 root(ROOT, gá)
 nsubj(gá, fhaitíos)
