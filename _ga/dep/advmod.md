@@ -38,6 +38,14 @@ Níor tháinig sé go fóill \n Not arrived he [] yet
 advmod(tháinig, fóill)
 ~~~
 
+_chuala mé iad ag maíomh go <b>minic</b>_ 'I heard them stating <b>often</b>'
+
+~~~ sdparse
+chuala mé iad ag maíomh go minic \n heard me them at stating [] often
+advmod(maíomh, minic)
+~~~
+
+
 NOTE: Some temporal constructions which bear this dependency relation are also treated as fixed multiword expressions, e.g.:
 
 _<b>fad</b> a bhí Fianna Fáil ar thaobh an fhreasúra_ `<b>while</b> Fianna Fáil were in opposition'
@@ -84,3 +92,14 @@ advmod(chóir, conas)
 ccomp(threorú, chóir)
 csubj:cop(gnó, threorú)
 ~~~
+
+### General adverbs
+
+_Rinne an fear comharthaí agus é ag labhairt ionas go dtuigfí a scéal._ 'The man made signals while he was speaking so that his story would be understood.
+
+~~~ sdparse
+Rinne an fear comharthaí agus é ag labhairt ionas go dtuigfí a scéal. \n Made the man signals while he at speaking so that understood his story
+advmod(dtuigfí, ionas)
+~~~
+
+Rinne an fear comharthaí agus é ag labhairt ionas go dtuigfí a scéal
