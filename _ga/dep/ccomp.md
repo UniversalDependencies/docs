@@ -35,7 +35,8 @@ Note that interrogative pronouns that occur mid-sentence are also labelled `ccom
 _Níl a fhios agam cad chuige a <b>mbíonn</b> an saol ag magadh air._  `I don't know <b>why</b> everyone makes fun of him.
 
 ~~~ sdparse
-Níl a fhios agam cad chuige a mbíonn an saol ag magadh air . \n Is_not its knowledge at_me what towards that does_be the life at the_mocking on_him . 
+ROOT Níl a fhios agam cad chuige a mbíonn an saol ag magadh air . \n ROOT Is_not its knowledge at_me what towards that does_be the life at the_mocking on_him . 
+root(ROOT, Níl)
 obl(mbíonn, cad)
 obl:prep(cad, chuige)
 mark:prt(mbíonn, a)
