@@ -27,5 +27,5 @@ Some abreviations are also marked as proper nouns.
 * _Eoraip_ "Europe"
 * _Michael D. Higgins_
 * _Lucht Oibre_ Labour Party
-*_EPI_
-*_MRBI_
+*_RTE_ 'Raidió Teilifís Éireann
+*_TD_ 'Teachta Dála'
