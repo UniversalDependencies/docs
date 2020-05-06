@@ -47,15 +47,17 @@ cop(thabhairt, Is)
 
 The interrogative pronoun _cén_ (a contraction of _cad é an_, lit. 'which one') is raised to root-level when it occurs at the beginning of a sentence, as shown below. It is usually followed by a relativised noun, a closed clausal complement (`ccomp`). 
 
-<b>Cén</b> chaoi a ndéantar measúnú ar obair chliniciúil, shaotharlainne agus phraiticiúil eile? `<b>How</b> is the other clinical, laboratory and practical work assessed?
+_<b>Cén</b> chaoi a ndéantar measúnú ar obair chliniciúil, shaotharlainne agus phraiticiúil eile?_ `<b>How</b> is the other clinical, laboratory and practical work assessed?
 
 ~~~ sdparse
 ROOT Cén chaoi a ndéantar measúnú ar obair chliniciúil, shaotharlainne agus phraiticiúil eile ? \n ROOT Which_one way in_which is_done assessment on work clinical, laboratory and practical other ?  
 root(ROOT, Cén)
+nsubj(Cén, chaoi)
+obl(ndéantar, a)
 acl:relcl(chaoi, ndéantar)
 ~~~
 
-<b>Cén</b> fáth gur thug sí geallúint shoiléir do na tuistí agus ansin gur bhris sí an gheallúint? `<b>Why</b> did she make a clear promise to parents only to break it?
+_<b>Cén</b> fáth gur thug sí geallúint shoiléir do na tuistí agus ansin gur bhris sí an gheallúint?_ `<b>Why</b> did she make a clear promise to parents only to break it?
 
 ~~~ sdparse
 ROOT Cén fáth gur thug sí geallúint shoiléir do na tuistí agus ansin gur bhris sí an gheallúint ? \n ROOT Which_one reason that(PAST) gave she promise clear to the parents and then that(PAST) broke she the promise ?   
@@ -66,7 +68,7 @@ ccomp(fáth, thug)
 
 It can also be the predicate of a copular phrase. 
 
-<b>Cén</b> sórt comhairle í? `<b>What</b> kind of advice is it?
+_<b>Cén</b> sórt comhairle í?_ `<b>What</b> kind of advice is it?
 
 ~~~ sdparse
 ROOT Cén sórt comhairle í ? \n ROOT Which kind of_advice it(fem) ? 
@@ -78,7 +80,7 @@ nmod(sórt, í)
 
 The interrogative pronoun _cé_ (lit. who, whom) is raised to predicate level when followed by a noun.
 
-<b>Cé</b> leis an teach? `Who owns the house?
+_<b>Cé</b> leis an teach?_ `Who owns the house?
 
 ~~~ sdparse
 ROOT Cé leis an teach ? \n ROOT Who with_it the house ?
@@ -90,7 +92,7 @@ nsubj(Cé, teach)
 
 However, _cé_ is treated as the fronted subject/oblique when followed by a verb. Note that the verb particle '_a_' is labelled `mark:prt`in instances like the one below.
 
-Cé a <b>labhair</b>? `Who <b>spoke</b>?
+_Cé a <b>labhair</b>?_ `Who <b>spoke</b>?
 
 ~~~ sdparse
 ROOT Cé a labhair ? \n ROOT Who with_it the house ?
@@ -99,7 +101,7 @@ nsubj(labhair, Cé)
 mark:prt(labhair, a)
 ~~~
 
-Cé leis a <b>dtiocfaidh</b> a rá go bhfuil… `Who can <b>say</b> that...
+_Cé leis a <b>dtiocfaidh</b> a rá go bhfuil…_ `Who can <b>say</b> that...
 
 ~~~ sdparse
 ROOT Cé leis a dtiocfaidh a rá go bhfuil ? \n ROOT Who with_it [] will_come to say that is ?
