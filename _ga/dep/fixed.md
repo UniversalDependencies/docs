@@ -43,3 +43,20 @@ _Níor chorraigh <b>a thuilleadh</b> linn an tosta_ 'He didn't stir <b>any more<
 Níor chorraigh a thuilleadh linn an tosta \n Did not move its more with_us of_the silence
 fixed(a, thuilleadh)
 ~~~
+
+### Fixed Phrases
+
+_an deireadh seachtaine <b>seo caite</b>_ 'the <b>last</b> weekend'
+
+~~~ sdparse
+an deireadh seachtaine seo caite \n the end week this last
+compound(deireadh, seachtaine)
+fixed(seo, caite)
+~~~
+
+_don bhliain <b>seo chugainn</b>_ 'for the <b>next</b> year'
+
+~~~ sdparse
+don bhliain seo chugainn \n for_the year next
+fixed(seo, chugainn)
+~~~
