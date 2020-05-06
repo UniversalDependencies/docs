@@ -18,6 +18,8 @@ When initial mutation occurs with proper nouns in Irish, the inflection is lower
 
 Note that days of the week and months of the year in Irish, while capitialised, are not marked as proper nouns but common nouns instead.
 
+Some abreviations are also marked as proper nouns. 
+
 #### Examples
 
 * _Lá 'le Pádraig_ "St. Patrick's Day"
@@ -25,3 +27,5 @@ Note that days of the week and months of the year in Irish, while capitialised, 
 * _Eoraip_ "Europe"
 * _Michael D. Higgins_
 * _Lucht Oibre_ Labour Party
+*_EPI_
+*_MRBI_
