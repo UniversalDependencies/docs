@@ -77,6 +77,6 @@ root(ROOT, Croinic)
 _Is é Micheal D. Higgins ba <b>chionsiocair</b> leis an Roinn a bhunú sa bhliain 1992._ `Michael D. Higgins <b>was</b> the driving force behind the establishment of the Department in 1992. 
 
 ~~~ sdparse
-Is é Micheal D. Higgins ba chionsiocair leis an Roinn a bhunú sa bhliain 1992. \n Is it(masc) Micheal D. Higgins [] primary_cause with the Department to establish in_the year 1992.
+Is é Micheal D Higgins ba chionsiocair leis an Roinn a bhunú sa bhliain 1992. \n Is it(masc) Micheal D Higgins [] primary_cause with the Department to establish in_the year 1992.
 csubj:cleft(Michael, chionsiocair)
 ~~~
