@@ -67,6 +67,6 @@ _Ní fhaca mé rud ar bith._ 'I did not see anyting at all'
 
 ~~~ sdparse
 Ní fhaca mé rud ar bith. \n Not see me anything at all
-fixed(ar, bith)
+fixed(ar, bith.)
 nmod(rud, ar)
 ~~~
