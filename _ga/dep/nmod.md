@@ -108,6 +108,17 @@ nmod(fheachtais, mí)
 nmod(mí, Aibreáin)
 ~~~
 
+Simple, non specific date string, should also be treated as nmod per the UD guidelines. 
+
+_sa bhliain <b>1975</b>_ `in the year <b>1975</b>'
+
+~~~ sdparse
+sa bhliain 1975 \n in year 1975
+flat(bhliain, 1975)
+~~~
+
+However, a more specific date string, referring to a specific month, should be labelled as [flat](https://universaldependencies.org/ga/dep/flat.html)
+
 ~~~ sdparse
 I mí Mheán Fómhair 1940 \n In the month of September
 nmod(mí, Mheán)
