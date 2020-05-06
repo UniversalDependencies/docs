@@ -29,3 +29,40 @@ _D'admhaigh Piaras Ó Dochartaigh go <b>raibh</b> an páirtí rólag._ 'Piaras �
 D'admhaigh Piaras Ó Dochartaigh go raibh an páirtí rólag. \n Admitted Piaras Ó Dochartaigh that was the party too-weak. 
 ccomp(D'admhaigh, raibh)
 ~~~
+
+Note that interrogative pronouns that occur mid-sentence are also labelled `ccomp`. In the following examples, the verb heads the `ccomp` with the interrogative pronoun being treated as a fronted object, subject or oblique. 
+
+_Níl a fhios agam cad chuige a <b>mbíonn</b> an saol ag magadh air._  `I don't know <b>why</b> everyone makes fun of him.
+
+~~~ sdparse
+Níl a fhios agam cad chuige a mbíonn an saol ag magadh air . \n Is_not its knowledge at_me what towards that does_be the life at the_mocking on_him . 
+obl(mbíonn, obl)
+obl:prep(cad, chuige)
+mark:prt(mbíonn, a)
+ccomp(Níl, mbíonn)
+~~~
+
+Ní deacair a mheas cad <b>tá</b> ar bhur n-iníon. `It's not hard to guess <b>what's</b> wrong with your daughter.
+
+~~~ sdparse
+ROOT Ní deacair a mheas cad tá ar bhur n-iníon . \n Is_not difficult to think what is on your daughter . 
+cop(deacair, Ní)
+root(ROOT, deacair)
+csubj:cop(deacair, mheas)
+nsubj(tá, cad)
+mark:prt(mheas, a)
+ccomp(deacair, tá)
+~~~
+
+However, where a noun is relativised following an interrogative pronoun that occurs mid-sentence, the question word is raised and becomes the head of the `ccomp`.
+
+Tá MRBI ag déanamh suirbhé ar son Raidió na Gaeltachta chun a fháil amach <b>cad</b> é an lucht éisteachta atá anois ag an stáisiún. `MRBI is carrying out a survey on behalf of Raidió na Gaeltachta to find out what audience the station now <b>has</b>.
+
+~~~ sdparse
+ROOT Tá MRBI ag déanamh suirbhé ar son Raidió na Gaeltachta chun a fháil amach cad é an lucht éisteachta atá anois ag an stáisiún. . \n Is MRBI at_the doing of_survey on behalf of_Raidió na Gaeltachta in_order to find out what is the crod of_listening that_is now at the station. 
+root(ROOT, Tá)
+ccomp(Tá, cad)
+nmod(lucht, é)
+nsubj(cad, lucht)
+acl:relcl(lucht, atá)
+~~~
