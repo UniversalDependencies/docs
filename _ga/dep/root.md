@@ -16,7 +16,9 @@ ROOT Ní thugtar íocaíochtaí mura n-iarrtar iad \n ROOT Not given payments if
 root(ROOT, thugtar)
 ~~~
 
-Copular constructions in Irish follow the copula-predicate-subject pattern, wherein the predicate is usually the root (see the example below).
+#### Copular constructions
+
+Copular constructions in Irish follow the copula-predicate-subject pattern, wherein the predicate is the `root` (see the example below).
 
 _Is <b>cuntas</b> réasúnta é sa mhórchuid._ `It's a reasonable <b>account</b>, for the most part'
 
@@ -34,7 +36,7 @@ ROOT Is í an bhean cruthaitheóir agus cosantóir na beatha. \n ROOT Is her the
 root(ROOT, bhean)
 ~~~
 
-In copular constructions where the pleonastic conjunction '_ná_' occurs, the subject is fronted and the predicate appears clause-finally introduced by '_ná_'. This conjunction allows for the re-ordering of the COP-PRED-SUBJ structure. Therefore, the `root` and the `cop` are separated from one other by the subject of the copular phrase. 
+Where the pleonastic conjunction '_ná_' occurs, the subject is fronted and the predicate appears clause-finally introduced by '_ná_'. This conjunction allows for the re-ordering of the COP-PRED-SUBJ structure. Therefore, the `root` and the `cop` are separated from one other by the subject of the copular phrase. 
 
 _Is í an obair a bheadh le déanamh ná 'aghaidh a <b>thabhairt</b> ar pholaitiú agus ar bharbarú an domhain'._ The work that would have to be done would be to <b>address</b> the politicisation and violent nature of the world.
 
@@ -44,6 +46,8 @@ root(ROOT, thabhairt)
 obj(thabhairt, 'aghaidh)
 cop(thabhairt, Is)
 ~~~
+
+#### Interrogative pronouns
 
 The interrogative pronoun _cén_ (a contraction of _cad é an_, lit. 'which one') is raised to root-level when it occurs at the beginning of a sentence, as shown below. It is usually followed by a relativised noun, a closed clausal complement (`ccomp`). 
 
