@@ -14,14 +14,14 @@ governor of the copular subject. The copular construction may consist of a copul
 
 #### Verbal ####
 
-_Ba ghearr gur <b>fhás</b> drochiontaoibh Kitchener_ 'It didn't take long for Kitchener's distrust to <b>grow</b>'
+_Ba ghearr gur <b>fhás</b> drochiontaoibh Kitchener_ `It didn't take long for Kitchener's distrust to <b>grow</b>'
 
 ~~~ sdparse
 Ba ghearr gur fhás drochiontaoibh Kitchener \n Was short that(past)_which grew distrust Kitchener
 csubj:cop(ghearr, fhás)
 ~~~
 
-_Is dócha go <b>raibh</b> an ceart aici_  'It is likely that she <b>was</b> correct'
+_Is dócha go <b>raibh</b> an ceart aici_  `It is likely that she <b>was</b> correct'
 
 ~~~ sdparse
 Is dócha go raibh an ceart aici \n Is probable that was the right at_her
@@ -30,7 +30,7 @@ csubj:cop(dócha, raibh)
 
 #### Adjectival ####
 
-_Is fíor gur <b>láidre</b> Fianna Fáil ag cosaint na neodrachta ná Fine Gael faoi láthair_  'It is true that Fianna Fáil are <b>better</b> at protecting neutrality than Fine Gael at the moment'
+_Is fíor gur <b>láidre</b> Fianna Fáil ag cosaint na neodrachta ná Fine Gael faoi láthair_  `It is true that Fianna Fáil are <b>better</b> at protecting neutrality than Fine Gael at the moment'
 
 ~~~ sdparse
 Is fíor gur láidre Fianna Fáil ag cosaint na neodrachta ná Fine Gael faoi láthair \n Is true that stronger Fianna Fáil at protecting of_the neutrality Fine Gael under presence
@@ -39,9 +39,12 @@ csubj:cop(fíor, láidre)
 
 #### Nominal ####
 
-_Is í Croinic Thomáis Eccleston is <b>foinse</b> do sheoladh na litreach seo_  'The Chronicle of Thomas Eccleston is the <b>source</b> of the sending of this letter'
+_Ní féidir leat iachall a <b>chur</b> orm é a dhéanamh._  `You can't <b>make</b> me do it'
 
 ~~~ sdparse
-Is í Croinic Thomáis Eccleston is foinse do sheoladh na litreach seo \n Is her Chronicle of_Thomas Eccleston is  source of sending of_the letter this
-csubj:cop(Croinic, foinse)
+Ní féidir leat iachall a chur orm é a dhéanamh. \n NEG able with_you constraint to put on_me it to do
+obj(chur, iachall)
+csubj:cop(féidir, chur)
+obj(dhéanamh, é)
+xcomp(iachall, dhéanamh)
 ~~~
