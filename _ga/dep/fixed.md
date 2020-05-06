@@ -57,6 +57,13 @@ fixed(seo, caite)
 _don bhliain <b>seo chugainn</b>_ 'for the <b>next</b> year'
 
 ~~~ sdparse
-don bhliain seo chugainn \n for_the year next
+don bhliain seo chugainn \n for_the year this towards
 fixed(seo, chugainn)
+~~~
+
+_Ní fhaca mé rud ar bith._ 'I did not see anyting at all'
+
+~~~ sdparse
+Ní fhaca mé rud ar bith. \n Not see me anything at all
+fixed(ar, bith)
 ~~~
