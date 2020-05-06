@@ -63,10 +63,10 @@ fixed(seo, chugainn)
 det(bhliain, seo)
 ~~~
 
-_Ní fhaca mé rud ar bith._ 'I did not see anyting at all'
+_Ní fhaca mé rud ar bith_ 'I did not see anyting at all'
 
 ~~~ sdparse
-Ní fhaca mé rud ar bith. \n Not see me anything at all
-fixed(ar, bith.)
+Ní fhaca mé rud ar bith \n Not see me anything at all
+fixed(ar, bith)
 nmod(rud, ar)
 ~~~
