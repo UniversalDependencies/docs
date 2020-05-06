@@ -34,7 +34,7 @@ ROOT Is í an bhean cruthaitheóir agus cosantóir na beatha. \n ROOT Is her the
 root(ROOT, bhean)
 ~~~
 
-In copular constructions where the pleonastic conjunction '_ná_' occurs, the subject is fronted and the predicate appears clause-finally introduced by '_ná_'. This conjunction allows for the re-ordering of the COP-PRED-SUBJ structure. Therefore, the `root` and the `cop` are separated by the subject of the copular phrase from one other. 
+In copular constructions where the pleonastic conjunction '_ná_' occurs, the subject is fronted and the predicate appears clause-finally introduced by '_ná_'. This conjunction allows for the re-ordering of the COP-PRED-SUBJ structure. Therefore, the `root` and the `cop` are separated from one other by the subject of the copular phrase. 
 
 _Is í an obair a bheadh le déanamh ná 'aghaidh a <b>thabhairt</b> ar pholaitiú agus ar bharbarú an domhain'._ The work that would have to be done would be to <b>address</b> the politicisation and violent nature of the world.
 
@@ -43,4 +43,68 @@ ROOT Is í an obair a bheadh le déanamh ná 'aghaidh a thabhairt ar pholaitiú 
 root(ROOT, thabhairt)
 obj(thabhairt, 'aghaidh)
 cop(thabhairt, Is)
+~~~
+
+The interrogative pronoun _cén_ (a contraction of _cad é an_, lit. 'which one') is raised to root-level when it occurs at the beginning of a sentence, as shown below. It is usually followed by a relativised noun, a closed clausal complement (`ccomp`). 
+
+<b>Cén</b> chaoi a ndéantar measúnú ar obair chliniciúil, shaotharlainne agus phraiticiúil eile? `<b>How</b> is the other clinical, laboratory and practical work assessed?
+
+~~~ sdparse
+ROOT Cén chaoi a ndéantar measúnú ar obair chliniciúil, shaotharlainne agus phraiticiúil eile ? \n ROOT Which_one way in_which is_done assessment on work clinical, laboratory and practical other ?  
+root(ROOT, Cén)
+acl:relcl(chaoi, ndéantar)
+~~~
+
+<b>Cén</b> fáth gur thug sí geallúint shoiléir do na tuistí agus ansin gur bhris sí an gheallúint? `<b>Why</b> did she make a clear promise to parents only to break it?
+
+~~~ sdparse
+ROOT Cén fáth gur thug sí geallúint shoiléir do na tuistí agus ansin gur bhris sí an gheallúint ? \n ROOT Which_one reason that(PAST) gave she promise clear to the parents and then that(PAST) broke she the promise ?   
+root(ROOT, Cén)
+nsubj(Cén, fáth)
+ccomp(fáth, thug)
+~~~
+
+It can also be the predicate of a copular phrase. 
+
+<b>Cén</b> sórt comhairle í? `<b>What</b> kind of advice is it?
+
+~~~ sdparse
+ROOT Cén sórt comhairle í ? \n ROOT Which kind of_advice it(fem) ? 
+root(ROOT, Cén)
+nsubj(Cén, sórt)
+nmod(sórt, comhairle)
+nmod(sórt, í)
+~~~
+
+The interrogative pronoun _cé_ (lit. who, whom) is raised to predicate level when followed by a noun.
+
+<b>Cé</b> leis an teach? `Who owns the house?
+
+~~~ sdparse
+ROOT Cé leis an teach ? \n ROOT Who with_it the house ?
+root(ROOT, Cé)
+obl:prep(Cé, leis)
+case(teach, an)
+nsubj(Cé, teach)
+~~~
+
+However, _cé_ is treated as the fronted subject/oblique when followed by a verb. Note that the verb particle '_a_' is labelled `mark:prt`in instances like the one below.
+
+Cé a <b>labhair</b>? `Who <b>spoke</b>?
+
+~~~ sdparse
+ROOT Cé a labhair ? \n ROOT Who with_it the house ?
+root(ROOT, labhair)
+nsubj(labhair, Cé)
+mark:prt(labhair, a)
+~~~
+
+Cé leis a <b>dtiocfaidh</b> a rá go bhfuil… `Who can <b>say</b> that...
+
+~~~ sdparse
+ROOT Cé leis a dtiocfaidh a rá go bhfuil ? \n ROOT Who with_it [] will_come to say that is ?
+root(ROOT, dtiocfaidh)
+obl(dtiocfaidh, Cé)
+obl:prep(Cé, leis)
+mark:prt(dtiocfaidh, a)
 ~~~
