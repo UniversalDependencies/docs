@@ -76,7 +76,7 @@ _Ní gá aon fhaitíos, cuma <b>cén</b> chré ná cultúr._ `There's no need to
 ROOT Ní gá aon fhaitíos, cuma cén chré ná cultúr. \n NEG need any fear, regardless which creed or culture. 
 cop(gá, Ní)
 root(ROOT, gá)
-nsubj(gá, fhaitíos)
+nsubj(gá, fhaitíos,)
 parataxis(gá, cuma)
 ccomp(cuma, cén)
 nsubj(cén, chré)
