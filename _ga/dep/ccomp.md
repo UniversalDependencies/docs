@@ -55,15 +55,30 @@ mark:prt(mheas, a)
 ccomp(deacair, tá)
 ~~~
 
-However, where a noun is relativised following an interrogative pronoun that occurs mid-sentence, the question word is raised and becomes the head of the `ccomp`.
+However, the question word may also be the head of the `ccomp`, usually in the case where it is followed by a relativised noun phrase. 
 
 _Tá MRBI ag déanamh suirbhé ar son Raidió na Gaeltachta chun a fháil amach <b>cad</b> é an lucht éisteachta atá anois ag an stáisiún._ `MRBI is carrying out a survey on behalf of Raidió na Gaeltachta to find out what audience the station now <b>has</b>.
 
 ~~~ sdparse
-ROOT Tá MRBI ag déanamh suirbhé ar son Raidió na Gaeltachta chun a fháil amach cad é an lucht éisteachta atá anois ag an stáisiún. . \n Is MRBI at_the doing of_survey on behalf of_Raidió na Gaeltachta in_order to find out what is the crod of_listening that_is now at the station. 
+ROOT Tá MRBI ag déanamh suirbhé ar son Raidió na Gaeltachta chun a fháil amach cad é an lucht éisteachta atá anois ag an stáisiún. \n Is MRBI at_the doing of_survey on behalf of_Raidió na Gaeltachta in_order to find out what is the crod of_listening that_is now at the station. 
 root(ROOT, Tá)
 ccomp(Tá, cad)
 nmod(lucht, é)
 nsubj(cad, lucht)
 acl:relcl(lucht, atá)
+~~~
+
+It can also occur where the head of the `ccomp` is simultaneously the head of a copular clause.
+
+_Ní gá aon fhaitíos, cuma <b>cén</b> chré ná cultúr._ `There's no need to be afraid, regardless of creed or culture.
+
+~~~ sdparse
+ROOT Ní gá aon fhaitíos, cuma cén chré ná cultúr. \n NEG need any fear, regardless which creed or culture. 
+cop(gá, Ní)
+root(ROOT, gá)
+nsubj(gá, fhaitíos)
+parataxis(gá, cuma)
+ccomp(cuma, cén)
+nsubj(cén, chré)
+(lucht, atá)
 ~~~
