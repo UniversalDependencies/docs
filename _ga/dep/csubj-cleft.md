@@ -74,10 +74,10 @@ csubj:cleft(Croinic, foinse)
 root(ROOT, Croinic)
 ~~~
 
-_Is é Micheal D. Higgins ba <b>chionsiocair</b> leis an Roinn a bhunú sa bhliain 1992._ `Michael D. Higgins <b>was</b> the driving force behind the establishment of the Department in 1992. 
+_Is é Michael D. Higgins ba <b>chionsiocair</b> leis an Roinn a bhunú sa bhliain 1992._ `Michael D. Higgins <b>was</b> the driving force behind the establishment of the Department in 1992. 
 
 ~~~ sdparse
-ROOT Is é Micheal D Higgins ba chionsiocair leis an Roinn a bhunú sa bhliain 1992. \n ROOT Is it(masc) Micheal D Higgins [] primary_cause with the Department to establish in_the year 1992.
+ROOT Is é Michael D Higgins ba chionsiocair leis an Roinn a bhunú sa bhliain 1992. \n ROOT Is it(masc) Michael D Higgins [] primary_cause with the Department to establish in_the year 1992.
 root(ROOT, Michael)
 csubj:cleft(Michael, chionsiocair)
 csubj:cop(chionsiocair, bhunú)
