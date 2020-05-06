@@ -53,3 +53,12 @@ Má bhreathnaítear ar Ghaillimh \n If is-looked on Galway
 obl(bhreathnaítear, Ghaillimh)
 case(Ghaillimh, ar)
 ~~~ 
+
+_Sagairt a bhí ag saothrú ar na <b>misin</b> ann a bhformhór_ 'The majority working on the missions there were priests'
+
+~~~ sdparse
+Sagairt a bhí ag saothrú ar na misin ann a bhformhór \n Priests it was at_working on the missions there the majority
+obl(saothrú, misin)
+case(misin, ar)
+~~~ 
+
