@@ -42,7 +42,7 @@ csubj:cop(fíor, láidre)
 _Ní féidir leat iachall a <b>chur</b> orm é a dhéanamh._  `You can't <b>make</b> me do it.'
 
 ~~~ sdparse
-Ní féidir leat iachall a chur orm é a dhéanamh . \n NEG able with_you constraint to put on_me it to do
+Ní féidir leat iachall a chur orm é a dhéanamh . \n NEG able with_you constraint to put on_me it to do .
 obj(chur, iachall) .
 csubj:cop(féidir, chur)
 obj(dhéanamh, é)
