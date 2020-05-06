@@ -9,7 +9,23 @@ UD Irish uses the `compound` relation for noun compounding. In Irish, when two n
 
 ### Examples
 
-We currently define noun compounds as including compounding noun constructions. The absence of a definite article in certain noun-noun constructions may indicate whether a noun-noun construction is compound: where the noun dependent is indefinite, the construction is often compound, while the same construction with a definite noun dependent is often labelled as nmod. (i.e. deireadh seachtaine). Possible exception, example given below: ‘oifig an phoist’ -- depends on whether this construction is deemed non-compositional (office of the post) or compositional (Post Office).
+We currently define noun compounds as including compounding noun constructions. The absence of a definite article in certain noun-noun constructions may indicate whether a noun-noun construction is compound: where the noun dependent is indefinite, the construction is often compound, while the same construction with a definite noun dependent is often labelled as nmod. (i.e. _deireadh seachtaine_).
+
+_cluiche <b>ceannais</b>_ `<b>final</b>'   (lit. game of_authority)
+
+~~~ sdparse
+chasfar na contaetha seo ar a chéile sa chluiche ceannais \n will_meet the counties this on their other in_the game of_authority
+compound(chluiche, ceannais)
+~~~
+
+_lucht <b>imirce</b>_ `<b>emigrants</b>'   (lit. crowd of_emigrating)
+
+~~~ sdparse
+ag breathnú ar na báid seoil ar a mbealach le lucht imirce go Meiriceá \n at looking on the boats of_sailing with crowd of_emigrating to America
+compound(lucht, imirce)
+~~~
+
+One possible exception is the example given below: ‘_oifig an phoist_’. The choice of label depends on whether this construction is deemed non-compositional (office of the post) or compositional (Post Office).
 
 _Oifig an <b>Phoist</b>_ `<b>Post</b> Office'   (lit. Office of_the Post)
 
@@ -28,19 +44,11 @@ beidh an lámh in uachtar acu feasta ar mhic léinn \n will_be the hand in upper
 compound(mhic, léinn)
 ~~~
 
-If a noun-noun construction contains a word that does not occur outside of that specific construction, that is a strong indicator that the construction should be labelled as compound.
-Cúig déag (lit. ‘five teen’) ‘fifteen’
+If a noun-noun construction contains a cranberry word that does not occur outside of that specific construction, that is a strong indicator that the construction should be labelled as compound, i.e. _Cúig déag_ (lit. ‘five teen’) ‘fifteen’. However, the cranberry word still attaches to the ordinal number even if it occurs further from its head, as shown below. 
 
-_lucht <b>imirce</b>_ `<b>emigrants</b>'   (lit. crowd of_emigrating)
-
-~~~ sdparse
-ag breathnú ar na báid seoil ar a mbealach le lucht imirce go Meiriceá \n at looking on the boats of_sailing with crowd of_emigrating to America
-compound(lucht, imirce)
-~~~
-
-_cluiche <b>ceannais</b>_ `<b>final</b>'   (lit. game of_authority)
+_naoi gcéad <b>déag</b>_ nineteen hundred
 
 ~~~ sdparse
-chasfar na contaetha seo ar a chéile sa chluiche ceannais \n will_meet the counties this on their other in_the game of_authority
-compound(chluiche, ceannais)
+naoi gcéad déag \n nine hundreds -teen
+compound(naoi, déag)
 ~~~
