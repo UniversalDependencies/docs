@@ -108,7 +108,7 @@ nmod(fheachtais, mí)
 nmod(mí, Aibreáin)
 ~~~
 
-Simple, non specific date string, should also be treated as nmod per the UD guidelines. 
+A simple, non specific date string should also be treated as nmod per the UD guidelines. 
 
 _sa bhliain <b>1975</b>_ `in the year <b>1975</b>'
 
