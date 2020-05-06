@@ -95,7 +95,7 @@ csubj:cop(gnó, threorú)
 
 ### General adverbs
 
-_Rinne an fear comharthaí agus é ag labhairt ionas go dtuigfí a scéal._ 'The man made signals while he was speaking so that his story would be understood.
+_Rinne an fear comharthaí agus é ag labhairt ionas go dtuigfí a scéal._ 'The man made signals while he was speaking so that his story would be understood.'
 
 ~~~ sdparse
 Rinne an fear comharthaí agus é ag labhairt ionas go dtuigfí a scéal. \n Made the man signals while he at speaking so that understood his story
