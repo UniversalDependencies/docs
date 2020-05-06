@@ -90,7 +90,7 @@ case(teach, an)
 nsubj(Cé, teach)
 ~~~
 
-However, _cé_ is treated as the fronted subject/oblique when followed by a verb. Note that the verb particle '_a_' is labelled `mark:prt`in instances like the one below.
+However, _cé_ is treated as the fronted subject/oblique when followed by a verb. Note that the verb particle '_a_' is labelled `mark:prt`in instances like those shown below.
 
 _Cé a <b>labhair</b>?_ `Who <b>spoke</b>?
 
