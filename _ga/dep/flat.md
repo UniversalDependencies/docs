@@ -93,15 +93,6 @@ flat(4, Aibreán)
 flat(4, 1997)
 ~~~ 
 
-Similarly, simpler date strings with no internal syntactic structure should also be treated as `flat` per the UD guidelines. 
-
-_sa bhliain <b>1975</b>_ `in the year <b>1975</b>'
-
-~~~ sdparse
-sa bhliain 1975 \n in year 1975
-flat(bhliain, 1975)
-~~~
-
 #### Months of the year
 
 Several months of the year in Irish are composed of two nouns with the second in the genitive case. In cases like these, the second noun is treated as `flat` on the first. 
