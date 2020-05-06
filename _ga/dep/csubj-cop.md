@@ -46,5 +46,5 @@ Ní féidir leat iachall a chur orm é a dhéanamh. \n NEG able with_you constra
 obj(chur, iachall)
 csubj:cop(féidir, chur)
 obj(dhéanamh, é)
-xcomp(iachall, dhéanamh)
+xcomp(chur, dhéanamh)
 ~~~
