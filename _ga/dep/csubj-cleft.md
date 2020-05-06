@@ -63,3 +63,20 @@ csubj:cleft(seift, atá)
 cop(seift, Is)
 amod(seift, iomaí)
 ~~~
+
+NOTE: Relative clauses may also be clefted. As shown below, the relative clause is raised to predicate level when it occurs in the predicate position in a copular phrase.
+
+_Is í Croinic Thomáis Eccleston is <b>foinse</b> do sheoladh na litreach seo_  'The Chronicle of Thomas Eccleston is the <b>source</b> of the sending of this letter'
+
+~~~ sdparse
+ROOT Is í Croinic Thomáis Eccleston is foinse do sheoladh na litreach seo \n Is it(fem) Chronicle of_Thomas Eccleston []  source of sending of_the letter this
+csubj:cleft(Croinic, foinse)
+root(ROOT, Croinic)
+~~~
+
+_Is é Micheal D. Higgins ba <b>chionsiocair</b> leis an Roinn a bhunú sa bhliain 1992._ Michael D. Higgins <b>was</b> the driving force behind the establishment of the Department in 1992. 
+
+~~~ sdparse
+Is é Micheal D. Higgins ba chionsiocair leis an Roinn a bhunú sa bhliain 1992. \n Is it(masc) Micheal D. Higgins [] primary_cause with the Department to establish in_the year 1992.
+csubj:cleft(Michael, chionsiocair)
+~~~
