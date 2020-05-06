@@ -63,7 +63,7 @@ fixed(seo, chugainn)
 det(bhliain, seo)
 ~~~
 
-_Ní fhaca mé rud ar bith_ 'I did not see anyting at all'
+_Ní fhaca mé rud <b>ar bith</b>_ 'I did not see anyting <b>at all</b>'
 
 ~~~ sdparse
 Ní fhaca mé rud ar bith \n Not see me anything at all
