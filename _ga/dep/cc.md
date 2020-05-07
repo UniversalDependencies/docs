@@ -68,9 +68,9 @@ _...éan <b>ná</b> feithid <b>ná</b> beach <b>ná</b> ainmhí._ ...a bird <b>o
 
 ~~~ sdparse
 ... éan ná1 feithid ná2 beach ná3 ainmhí . \n ... bird or insect or bee or animal .
-cc(feithid, ná)
-cc(beach, ná)
-cc(ainmhí, ná)
+cc(feithid, ná1)
+cc(beach, ná2)
+cc(ainmhí, ná3)
 conj(éan, feithid)
 conj(éan, beach)
 conj(éan, ainmhí)
