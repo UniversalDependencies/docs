@@ -61,3 +61,23 @@ mac léinn ar choláistí ar an dara nó ar an tríú leibhéal \n students [] o
 amod(leibhéal, dara)
 conj(dara, tríú)
 ~~~
+
+#### Adjectives acting adverbially
+
+Despite having the POS tag ADJ, adjectives can act adverbially when preceded by the particle _go_ (labelled `mark:prt`) as shown below.
+
+_Rith sé go <b>mall</b>._ He ran <b>slowly</b>. 
+
+~~~ sdparse
+Rith sé go mall \n did_run he [PART] slow
+advmod(Rith, mall)
+mark:prt(mall, go)
+~~~
+
+_Tháinig sé 'na bhaile go <b>minic</b> chuig a mháthair._ He <b>often</b> came home to his mother.
+
+~~~ sdparse
+Tháinig sé 'na bhaile go minic chuig a máthair \n did_come he 'from_the home [PART] often toward his mother
+advmod(Tháinig, minic)
+mark:prt(minic, go)
+~~~
