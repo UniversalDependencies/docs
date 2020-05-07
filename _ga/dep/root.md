@@ -47,6 +47,38 @@ obj(thabhairt, 'aghaidh)
 cop(thabhairt, Is)
 ~~~
 
+Contracted copula forms (where the copula and the predicate are combined) are also labelled `root`.
+
+<b>'Sé</b> seo an chéad duine riamh do chonaic na hógaibh go raibh spéaclaí air. `<b>He</b> is the first person the young people had ever seen wearing glasses`
+
+~~~ sdparse
+ROOT 'Sé seo an chéad duine riamh do chonaic na hógaibh go raibh spéaclaí air. \n ROOT Is_he this the first person ever that did_see the young_people that were spectacles on_him.  
+root(ROOT, 'Sé)
+nsubj('Sé, duine)
+~~~
+
+#### Demonstrative pronouns
+
+Demonstrative pronouns that predicate copular phrases are also labelled as the `root`.
+
+<b>Seo</b> an fear a chonaic an bád. `<b>This</b> is the man who saw the boat.`
+~~~ sdparse
+ROOT Seo an fear a chonaic an bád. \n ROOT Is_this the man who did_see the boat.
+root(ROOT, Seo)
+nsubj(Seo, fear)
+acl:relcl(fear, chonaic)
+nsubj(chonaic, a)
+~~~
+
+<b>Sin</b> an gort a cuireadh an síol ann. `<b>That's</b> the field where the seed was sown.`
+~~~ sdparse
+ROOT Sin an gort a cuireadh an síol ann. \n ROOT Is_that the field in_which was_put the seed in_it.
+root(ROOT, Sin)
+nsubj(Sin, gort)
+acl:relcl(gort, cuireadh)
+obl(cuireadh, a)
+obl:prep(cuireadh, ann)
+~~~
 #### Interrogative pronouns
 
 The interrogative pronoun _cén_ (a contraction of _cad é an_, lit. 'which one') is raised to root-level when it occurs at the beginning of a sentence, as shown below. It is usually followed by a relativised noun, a closed clausal complement (`ccomp`). 
