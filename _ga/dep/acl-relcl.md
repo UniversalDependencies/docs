@@ -41,10 +41,10 @@ obl(rugadh, inar)
 
 NOTE: 'dá' in Irish is often POS-tagged as SCONJ (conditional marker) in the treebank. However, it is also a relative compound when the particles _a_ and _ar_ are used with the prepositions _de_ and _do_ to become _dá_ and _dár_.
 
-_Níor chuala mise, ná aon duine <b>dá</b> raibh in aon sacán liom, mo thuismitheoirí ag labhairt Béarla riamh._ 'I did not hear, or anyone else who was with me, my parents speaking English before. 
+_Níor chuala mise, ná aon duine <b>dá</b> raibh in aon sacán liom, mo thuismitheoirí ag labhairt Béarla riamh._ 'I did not hear, or anyone else my age who was with me, my parents speaking English before. 
 
 ~~~ sdparse
-'Níor chuala mise, ná aon duine dá raibh in aon sacán liom, mo thuismitheoirí ag labhairt Béarla riamh. \n Not hear me, or any person who was in any ... with_me, my parents at speaking English before.
+'Níor chuala mise, ná aon duine dá raibh in aon sacán liom, mo thuismitheoirí ag labhairt Béarla riamh. \n Not hear me, or any person who was in any age with_me, my parents at speaking English before.
 obl(raibh, dá)
 acl:relcl(duine, raibh)
 ~~~
