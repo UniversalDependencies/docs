@@ -72,7 +72,7 @@ nsubj(chonaic, a)
 
 <b>Sin</b> an gort a cuireadh an síol ann. '<b>That's</b> the field where the seed was sown.'
 ~~~ sdparse
-ROOT Sin an gort a cuireadh an síol ann. \n ROOT Is_that the field in_which was_put the seed in_it.
+ROOT Sin an gort a cuireadh an síol ann . \n ROOT Is_that the field in_which was_put the seed in_it .
 root(ROOT, Sin)
 nsubj(Sin, gort)
 acl:relcl(gort, cuireadh)
