@@ -41,7 +41,7 @@ _Is cuma <b>cad</b> eile a socraíodh ag Comhdháil Nice..._ 'Regardless of <b>w
 
 ~~~ sdparse
 Is cuma cad eile a socraíodh ag Comhdháil Nice... \n COP regardless what else that was_decided at Conference Nice...
-obj(socraíodh, cád)
+obj(socraíodh, cad)
 ~~~
 
 _<b>Cad</b> a d'ith sí?_ '<b>What</b> did she eat?
