@@ -68,6 +68,26 @@ D' inis tú dom \n PART told you to_me
 mark:prt(inis, D')
 ~~~
 
+Note that the verb particle '_a_' is labelled `mark:prt`in instances like those shown below where the interrogative pronoun is raised to `root` level.
+
+_Cé <b>a</b> labhair?_ `Who spoke?
+
+~~~ sdparse
+ROOT Cé a labhair ? \n ROOT Who with_it the house ?
+root(ROOT, labhair)
+nsubj(labhair, Cé)
+mark:prt(labhair, a)
+~~~
+
+_Cé leis <b>a</b> dtiocfaidh a rá go bhfuil…_ `Who can <b>say</b> that...
+
+~~~ sdparse
+ROOT Cé leis a dtiocfaidh a rá go bhfuil ? \n ROOT Who with_it [] will_come to say that is ?
+root(ROOT, dtiocfaidh)
+obl(dtiocfaidh, Cé)
+obl:prep(Cé, leis)
+mark:prt(dtiocfaidh, a)
+~~~
 
 #### Complementiser
 
