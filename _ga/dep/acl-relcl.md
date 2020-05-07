@@ -39,6 +39,16 @@ acl:relcl(hEaglaise, rugadh)
 obl(rugadh, inar)
 ~~~ 
 
+'dá' in Irish is often POS-tagged as SCONJ (conditional marker) in the treebank. However, it is also a relative compound when the particles _a_ and _ar_ are used with the prepositions _de_ and _do_ to become _dá_ and _dár_.
+
+_Níor chuala mise, ná aon duine <b>dá</b> raibh in aon sacán liom, mo thuismitheoirí ag labhairt Béarla riamh._ 'I did not hear, or anyone else who was with me, my parents speaking English before. 
+
+~~~ sdparse
+'Níor chuala mise, ná aon duine dá raibh in aon sacán liom, mo thuismitheoirí ag labhairt Béarla riamh. \n Not hear me, or any person who was in any ... with_me, my parents at speaking English before
+obl(raibh, dá)
+acl:relcl(duine, raibh)
+~~~
+
 NOTE: There are also examples of embedded relative clauses introduced by the copula, as shown below.
 
 _Tá cúpla rud eile sa leabhar seo ar <b>mhaith</b> liom tagairt dóibh._ `There are a few other things in this book which I would <b>like</b> to address.
