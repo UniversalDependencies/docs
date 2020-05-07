@@ -26,6 +26,12 @@ conj(oidhreachta,Ghaeilge)
 cc(Ghaeilge, agus)
 ~~~
 
+The coordinating conjunction _ná_ can also mean 'than' and is treated as follows:
 
+_Ná déan níos mó moille ná mar is <b>gá</b>._ 'Don't delay for any longer than <b>necessary</b>.'
 
-
+~~~ sdparse
+Ná déan níos mó moille ná mar is gá . \n IMP_NEG do SUP(pres) more of_delay than as COP necessary . 
+conj(déan, gá)
+cc(gá, ná)
+~~~
