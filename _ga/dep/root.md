@@ -49,7 +49,7 @@ cop(thabhairt, Is)
 
 Contracted copula forms (where the copula and the predicate are combined) are also labelled `root`.
 
-<b>'Sé</b> seo an chéad duine riamh do chonaic na hógaibh go raibh spéaclaí air. `<b>He</b> is the first person the young people had ever seen wearing glasses`
+<b>'Sé</b> seo an chéad duine riamh do chonaic na hógaibh go raibh spéaclaí air. '<b>He</b> is the first person the young people had ever seen wearing glasses'
 
 ~~~ sdparse
 ROOT 'Sé seo an chéad duine riamh do chonaic na hógaibh go raibh spéaclaí air. \n ROOT Is_he this the first person ever that did_see the young_people that were spectacles on_him.  
@@ -61,7 +61,7 @@ nsubj('Sé, duine)
 
 Demonstrative pronouns that predicate copular phrases are also labelled as the `root`.
 
-<b>Seo</b> an fear a chonaic an bád. `<b>This</b> is the man who saw the boat.`
+<b>Seo</b> an fear a chonaic an bád. '<b>This</b> is the man who saw the boat.'
 ~~~ sdparse
 ROOT Seo an fear a chonaic an bád. \n ROOT Is_this the man who did_see the boat.
 root(ROOT, Seo)
@@ -70,7 +70,7 @@ acl:relcl(fear, chonaic)
 nsubj(chonaic, a)
 ~~~
 
-<b>Sin</b> an gort a cuireadh an síol ann. `<b>That's</b> the field where the seed was sown.`
+<b>Sin</b> an gort a cuireadh an síol ann. '<b>That's</b> the field where the seed was sown.'
 ~~~ sdparse
 ROOT Sin an gort a cuireadh an síol ann. \n ROOT Is_that the field in_which was_put the seed in_it.
 root(ROOT, Sin)
