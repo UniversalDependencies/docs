@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Primitive Irish UD'
+title:  'Archaic Irish UD'
 udver: '2'
 ---
 
-# UD for Primitive Irish <span class="flagspan"><img class="flag" src="../../flags/svg/IE-FOUR.svg" /></span>
+# UD for Archaic Irish <span class="flagspan"><img class="flag" src="../../flags/svg/IE-FOUR.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/pgl-comparison.html) Primitive Irish UD treebanks:
+There are [N](../treebanks/pgl-comparison.html) Archaic Irish UD treebanks:
 
-  * [Primitive Irish-A](../treebanks/pgl_a/index.html)
-  * [Primitive Irish-B](../treebanks/pgl_b/index.html)
+  * [Archaic Irish-A](../treebanks/pgl_a/index.html)
+  * [Archaic Irish-B](../treebanks/pgl_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
