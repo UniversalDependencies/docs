@@ -23,7 +23,8 @@ There is also a special case of tagging _agus_ "and" as a subordinate conjunctio
 * _sula_/_sular_ "before"
 * _<b>sular</b> féidir linn imeacht, ní mór dúinn léarscáil a cheannach_ "<b>before</b> we can leave, we need to buy a map"
 * _Seo pictúir a tógadh dhó <b>agus</b> é briste_ "here is a picture that was taken of it <b>and</b> it broken"
-
+* _más_ 'If'
+* _Is féidir libh troid amárach, <b>más</b> gá ar chor ar bith é_ ''You can fight tomorrow, if there is a need to.''
 
 
 Source: Studies in Irish Syntax, Nancy Stenson (1981), Tübingen: Gunter Narr Verlag
