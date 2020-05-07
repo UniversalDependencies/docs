@@ -79,7 +79,7 @@ conj(éan, ainmhí)
 _Thaistil Eoin ní ba mhó <b>ná</b> aon duine eile._ 'Eoin travelled more <b>than</b> anyone else.'
 
 ~~~ sdparse
-Thaistil Eoin ní ba mhó ná aon duine eile. \n Travelled EOin thing SUP(past) bigger than any person other.
+Thaistil Eoin ní ba mhó ná aon duine eile. \n Travelled Eoin thing SUP(past) bigger than any person other.
 cc(duine, ná)
 conj(Eoin, duine)
 ~~~
