@@ -37,14 +37,14 @@ obj(chur, eolas)
 
 The interrogative pronoun _cad_ (lit. 'what') is labelled as `obj` when it is fronted. 
 
-_Is cuma <b>cad</b> eile a socraíodh ag Comhdháil Nice..._ `Regardless of <b>whatever</b> else was decided at the Nice convention...`
+_Is cuma <b>cad</b> eile a socraíodh ag Comhdháil Nice..._ 'Regardless of <b>whatever</b> else was decided at the Nice convention...
 
 ~~~ sdparse
 Is cuma cad eile a socraíodh ag Comhdháil Nice... \n COP regardless what else that was_decided at COnference Nice...
 obj(socraíodh, cád)
 ~~~
 
-_<b>Cad</b> a d'ith sí?_ `What did she eat?`
+_<b>Cad</b> a d'ith sí?_ '<b>What</b> did she eat?
 
 ~~~ sdparse
 Cad a d'ith sí? \n What that did_eat she?
