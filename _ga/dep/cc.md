@@ -20,7 +20,6 @@ cc(hinstitiúidí, agus)
 conj(bainc, hinstitiúidí)
 ~~~
 
-
 Coordination of more than two elements is treated as follows (note there is also embedded coordination within the main coordinated phrase).
 
 _Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe_ 
@@ -45,4 +44,42 @@ _<b>Agus</b> deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thu
 ~~~ sdparse
 Agus deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thuataí na hIaráice . \n And it-is-said that cancer rates amongst laypeople in Iraq have increased hugely .
 cc(deirtear, Agus)
+~~~
+
+The coordinating conjunction _ná_ (meaning 'than'/'or') is treated as follows. 
+
+_Tá pobal Chonamara níos trodaí <b>ná</b> Gaeltachtaí eile._ The community of Connemara are more outspoken <b>than</b> those of other Gaeltachtaí.
+
+~~~ sdparse
+Tá pobal Chonamara níos trodaí ná Gaeltachtaí eile. \n Is public of_Connemara more outspoken than Gaeltachtaí other.
+cc(Gaeltachtaí, ná)
+conj(pobal, Gaeltachtaí)
+~~~
+
+_Is fearr béal dúnta <b>ná</b> béal le hÉirinn._ A closed mouth is better <b>than</b> a big one.
+
+~~~ sdparse
+Is fearr béal1 dúnta ná béal2 le hÉirinn. \n COP better mouth closed than mouth with Ireland.
+cc(béal2, ná)
+conj(béal1, béal2)
+~~~
+
+_...éan <b>ná</b> feithid <b>ná</b> beach <b>ná</b> ainmhí._ ...a bird <b>or</b> an insect <b>or</b> a bee <b>or</b> an animal.
+
+~~~ sdparse
+... éan ná1 feithid ná2 beach ná3 ainmhí . \n ... bird or insect or bee or animal .
+cc(feithid, ná)
+cc(beach, ná)
+cc(ainmhí, ná)
+conj(éan, feithid)
+conj(éan, beach)
+conj(éan, ainmhí)
+~~~
+
+_Thaistil Eoin ní ba mhó <b>ná</b> aon duine eile._ 'Eoin travelled more <b>than</b> anyone else.'
+
+~~~ sdparse
+Thaistil Eoin ní ba mhó ná aon duine eile. \n Travelled EOin thing SUP(past) bigger than any person other.
+cc(duine, ná)
+conj(Eoin, duine)
 ~~~
