@@ -13,9 +13,17 @@ Note that this differs from Irish ([cop]()) constructions.
 _Bhí sé <b>dochreidte</b> go raibh sé fós beo_ `It was <b>unbelieveable</b> that he was still alive'
 
 #### Adjectival Predicate
+
 ~~~ sdparse
 Bhí sé dochreidte go raibh sé fós beo \n Was it unbelieveable that was he still alive
 xcomp:pred(Bhí, dochreidte)
+~~~
+
+_Tá aibítir iaraiglifeach na hÉigipte <b>léirithe</b> ar clé._ The Egyptian hieroglyphic alphabet is <b>shown</b> to the left.
+
+~~~ sdparse
+Tá aibítir iaraiglifeach na hÉigipte léirithe ar clé. \n Is alphabet hieroglyphic of_the Egypt shown on left.
+xcomp:pred(Tá, léirithe)
 ~~~
 
 #### PP Predicate
