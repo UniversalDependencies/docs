@@ -142,7 +142,7 @@ _Cé leis a <b>dtiocfaidh</b> a rá go bhfuil…_ `Who can <b>say</b> that...
 ~~~ sdparse
 ROOT Cé leis a dtiocfaidh a rá go bhfuil ? \n ROOT Who with_it [] will_come to say that is ?
 root(ROOT, dtiocfaidh)
-obl(dtiocfaidh, Cé)
+nsubj(dtiocfaidh, Cé)
 obl:prep(Cé, leis)
 mark:prt(dtiocfaidh, a)
 ~~~
