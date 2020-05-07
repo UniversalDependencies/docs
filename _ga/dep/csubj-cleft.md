@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 Irish cleft constructions use a copula and are analysed in line with other copular construction: COP PRED SUBJ. 
-In contrast to English, Irish clefts are much less restrictive with regards to the type of element that can be fronted: nouns, prepositional phrases, adverbial phrases, adjectives and verbal nouns. 
+In contrast to English, Irish clefts are much less restrictive with regards to the type of element that can be fronted: nouns, prepositional phrases, adverbial phrases, adjectives and verbal nouns. Note that the verbal particle that introduces `csubj:cleft` is always labelled `mark:prt`. 
 
 ### Examples
 
@@ -17,6 +17,7 @@ _Is <b>leabhar</b> a thug sí dom_ 'It is a <b>book</b> that she gave me'
 ~~~ sdparse
 Is leabhar a thug sí dom \n is book [] gave she to_me
 csubj:cleft(leabhar, thug)
+mark:prt(thug, a)
 cop(leabhar, Is)
 ~~~
 
@@ -46,6 +47,7 @@ _Is <b>laistigh</b> de bhliain a déanfar é_ 'It is <b>within</b> a year that i
 ~~~ sdparse
 Is laistigh de bhliain a déanfar é \n is within a year [] will_be_done it
 csubj:cleft(laistigh, déanfar)
+mark:prt(déanfar, a)
 cop(laistigh, Is)
 ~~~
 
@@ -57,6 +59,7 @@ _Is <b>sa pháirc</b> a chonaic mé é_ `It is <b>in the park</b> that I saw him
 ~~~ sdparse
 Is sa pháirc a chonaic mé é \n is in_the park [] saw I him
 csubj:cleft(pháirc, chonaic)
+mark:prt(chonaic, a)
 cop(pháirc, Is)
 ~~~
 
