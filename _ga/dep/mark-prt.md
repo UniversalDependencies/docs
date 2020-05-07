@@ -14,6 +14,7 @@ The UD Irish subtype `mark:prt' is used for the various particles in Irish, incl
 * comparative and superlative particles: _is_, _níos_
 * days of the week particle: _Dé_
 * to differentiate between the subordinate marker _ach_ in different structures 
+* the pleonastic conjunction _ná_ which introduces the predicate of a copular phrase
 
 
 ### Examples
@@ -107,7 +108,23 @@ Ba í an difríocht is suntasaí \n Was it the difference most remarkable
 mark:prt(suntasaí, is)
 ~~~
 
-### ACH
+#### Pleonastic conjunction
+
+The pleonastic conjunction _ná_ allows for the re-ordering of the copula-predicate-subject structure as it introduces the predicate in a copular phrase, as shown in the example below. In cases like these, _ná_ is labelled `mark:prt`.
+
+_Ba é an t-ainm a bhí ar an stail <b>ná</b> an 'Darling Arabian'._ 'The name of the stallion was 'The Darling Arabian'.'
+
+~~~ sdparse
+ROOT Ba é an t-ainm a bhí ar an stail <b>ná</b> an 'Darling Arabian'. \n COP(past) it the name that was on the stallion [CONJ] the 'Darling Arabian'.
+mark:prt('Darling, ná)
+cop('Darling, Ba)
+root(ROOT, 'Darling)
+nsubj('Darling, t-ainm)
+nmod(t-ainm,  é)
+acl:relcl(t-ainm, bhí)
+~~~
+
+#### ACH
 
 mark:prt was specifically chosen instead of mark to differentiate between the instances where it meant "only" and the subordinate clause "ach" (but).
 
