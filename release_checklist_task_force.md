@@ -20,7 +20,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   back; if this is the case, you will see lists of modified files in the output and you
   will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done</code>
-* Run `tools/check_files.pl |& tee release-2.5-report.txt | less`.
+* Run `tools/check_files.pl |& tee release-2.6-report.txt | less`.
   (Check the code for parameters that are currently hard-coded, such as the release number.)
   The script will visit all repositories and report any missing files, unexpected or unexpectedly named files.
   It will download the [online validation report](http://quest.ms.mff.cuni.cz/udvalidator/)
@@ -61,13 +61,13 @@ See [here](release_checklist.html) for the checklist for data contributors.
     <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout dev ; cd .. ; echo ; done</code>
 * Re-evaluate the treebanks for the star ranking on the website. This is done only in the master branch and the result is stored there.<br />
   <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I tools tools/evaluate_treebank.pl $i --verbose &gt;&amp; $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done</code>
-* Tag the current commit in all repositories with the tag of the current release (`git tag r2.5` for UD 2.5).
+* Tag the current commit in all repositories with the tag of the current release (`git tag r2.6` for UD 2.6).
   Push the tag to Github: `git push origin --tags`.
   You may even tag a particular commit retroactively: `git tag -a r2.1 9fceb02`.
   If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
   this is how you remove the tag from where it is now: `git tag -d r2.1`.
   And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.<br />
-  <code>for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.5 ; git push --tags ; cd .. ; echo ; done</code>
+  <code>for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.6 ; git push --tags ; cd .. ; echo ; done</code>
   **Note: We will later update certain files in the `docs` repository (statistics etc.)
   It may be thus better to wait with tagging the repositories until `docs` is in its final state.**
 
@@ -76,7 +76,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).<br />
   <code>cd docs-automation ; make all ; cd ../docs ; git pull --no-edit ; git commit -a -m 'Updated title page.' ; git push</code>
 * Run the `conllu-stats.pl` script again (but with different settings) and generate the long statistics that are displayed in the docs; note that the script takes the release number as a parameter and puts it in the generated index page:<br />
-  <code>cd docs ; git pull --no-edit ; cd .. ; for i in $(cat released_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --release 2.5 --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
+  <code>cd docs ; git pull --no-edit ; cd .. ; for i in $(cat released_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --release 2.6 --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
 * Generate side-by-side comparison whenever there are multiple treebanks of one language:<br />
   <code>perl tools/generate_comparison_of_treebanks.pl ; cd docs ; git add treebanks/*-comparison.md ; git commit -m 'Updated comparison of treebanks.' ; git push ; cd ..</code>
 * Run two other scripts that generate the lists of language-specific features and dependency
@@ -100,9 +100,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 * Run the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment,
   and its arguments are names of folders to be released.<br />
-  <code>RELEASE=2.5 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
+  <code>RELEASE=2.6 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
   * If we later find out that we need to fix a bug in one (or a few) repository, we can update the release folder without building everything from scratch:<br />
-    <code>RELEASE=2.5 tools/package_ud_release.sh --update UD_X UD_Y</code>
+    <code>RELEASE=2.6 tools/package_ud_release.sh --update UD_X UD_Y</code>
 * Make the release packages temporarily available for download somewhere and ask the treebank providers to check them before we archive them in Lindat.
 * Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS). Tell Milan Straka that he can start training UDPipe models of the new data.
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
@@ -139,7 +139,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 <small><code style='color:lightgrey'>
 \# copy metadata to biblio<br />
-rel="2.5"<br />
+rel="2.6"<br />
 path=$(pwd)<br />
 cd /net/data<br />
 tar xzf $path/release-$rel/ud-treebanks-v$rel.tgz<br />
