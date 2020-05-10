@@ -6,233 +6,263 @@ udver: '2'
 
 <table>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h1>UD_English-ESL</h1>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h1>UD_English-EWT</h1>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h1>UD_English-GUM</h1>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <h1>UD_English-GUMReddit</h1>
+    </td>
+    <td width="12%" valign="top">
       <h1>UD_English-LinES</h1>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h1>UD_English-PUD</h1>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h1>UD_English-ParTUT</h1>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h1>UD_English-Pronouns</h1>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 5124 sentences and 97681 tokens.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 16622 sentences and 254829 tokens.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
-      <li>This corpus contains 5427 sentences and 101277 tokens.</li>
+      <li>This corpus contains 5961 sentences and 113374 tokens.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 895 sentences and 16286 tokens.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 5243 sentences and 94217 tokens.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 1000 sentences and 21176 tokens.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 2090 sentences, 49602 tokens and 49634 syntactic words.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 285 sentences and 1695 tokens.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 34370 tokens (13%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
-      <li>This corpus contains 13960 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 15832 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 2144 tokens (13%) that are not followed by a space.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 12250 tokens (13%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 2746 tokens (13%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 6461 tokens (13%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 385 tokens (23%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not contain words that contain both letters and punctuation.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 924 types of words that contain both letters and punctuation. Examples: 's, n't, 'm, 'll, 've, 're, 'd, Dr., e-mail, Mr., ’s, U.S., st., Inc., etc., Sept., vs., W., .doc, c​a​r​o​l​.​s​t​.​c​l​a​i​r​@​e​n​r​o​n​.​c​o​m, it's, 01-Feb-02, n’t, Dec., Ft., Oct., alt.animals.cat, p&l, :D, Corp., Ms., No., Non-Bondad, PG&E, S., Yahoo!, i.e., A., Analysis_0712, D.C., E., ENRON.XLS, MEH-risk, Sha'lan, b/c, co., ekrapels@esaibos.com, enrongss.xls, p.m., 80's</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
-      <li>This corpus contains 653 types of words that contain both letters and punctuation. Examples: 's, n't, ’s, n’t, 're, 'll, 've, U.S., ’ve, ’re, 'd, L'Enfant, ’m, al., e.g., ’ll, ’d, Mof-Ávvi, St., pro-Beijing, 'm, i.e., Naqsh-e, how-to, pan-democracy, c., etc., eye-tracking, north-south, t-shirt, Vava'u, W., adult-like, anti-establishment, e-mail, m., native-like, pan-democrat, re-elected, real-world, upside-down, #istandwithahmed, F-E, I-44, L., Morgan-Short, Mr., Triple-A, U.S, all-district</li>
+      <li>This corpus contains 739 types of words that contain both letters and punctuation. Examples: 's, ’s, n't, n’t, 're, 'll, 've, U.S., ’re, ’ve, e.g., 'd, L'Enfant, ’d, ’ll, ’m, al., St., non-avian, 'm, Mof-Ávvi, pro-Beijing, i.e., Mr., Naqsh-e, c., cross-sectional, how-to, pan-democracy, etc., eye-tracking, north-south, other-initiated, t-shirt, J., L., Ph.D., Vava'u, W., adult-like, anti-establishment, control-weight, e-mail, m., native-like, pan-democrat, re-elected, real-world, upside-down, #istandwithahmed</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus does not contain words that contain both letters and punctuation.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 513 types of words that contain both letters and punctuation. Examples: 's, n't, 've, 'll, 'm, 'd, 're, ANSI-92, Mr., ANSI-89, Mrs., 31-Dec-1999, o'clock, 01-Jul-1999, Gai-Hinnom, drop-down, middle-aged, well-formed, &amp;, Ben-Gurion, Hong-Kong, XML-based, a.m., by-and-by, cat-flap, custom-house, d', good-by, p.m, second-class, second-hand, .xsl, Dar-es-Salaam, Jo-Ann, No-6, Sha'ananim, St., Vice-President, anti-Semitic, case-sensitive, coup-d'etat, crew-cut, dark-green, eat-e, eight-inch, first-class, forty-eight, great-grandfather, higher-level, house-elf</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 46 types of words that contain both letters and punctuation. Examples: 's, ’s, n't, n’t, U.S., No., St., co-starring, ’d, B.C., Ms., ’m, ’ve, 'Ya, 'd, 'm, 've, B-29s, B.C.E., G.D.P., I., Jr., M.A., Mr., Z., anti-fascist, ca., co-starred, co-wrote, e-mail, ex-minister, extra-marital, inter-communal, mid-1962, mid-1970s, mid-1980s, mid-Sixties, multi-ethnic, non-fiction, non-white, pro-Beijing, re-domesticated, re-elected, un-detectable, wi-fi, ’re</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 86 types of words that contain both letters and punctuation. Examples: 's, 're, so-called, 'm, 've, cost-effective, long-term, ’s, hi-tech, self-regulation, 'd, 'll, D', G., Mid-1590s, R&D, S., T., e.g., etc., i.e., late-1990, medium-sized, p., part-time, real-time, son-in-law, A., African-American, C., Co-operation, D., Fine-tune, H., M., Mr., Self-destructive, St., W., W.H., above-mentioned, avant-garde, back-up, best-selling, blow-ups, case-by-case, co-financing, co-ordination, cost-effectiveness, deep-seated</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 3 types of words that contain both letters and punctuation. Examples: 's, n't, 'll</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 32 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 9 types of multi-word tokens. Examples: cannot, don't, ain't, can't, won't, aren't, des, had, shouldn't.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -241,7 +271,7 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -250,7 +280,7 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -259,7 +289,7 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -268,7 +298,7 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -277,7 +307,7 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -286,7 +316,16 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -298,268 +337,303 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 1 word types tagged as particles (PART): _</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 21 word types tagged as particles (PART): ', 's, -s, 2, `s, a, n, n't, na, not, nt, n’t, ot, s, t, ta, the, to, too, ’, ’s</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
-      <li>This corpus contains 12 word types tagged as particles (PART): ', 's, n't, n`t, na, not, n’t, s, to, ’, ’s, ’t</li>
+      <li>This corpus contains 13 word types tagged as particles (PART): ', 's, n't, n`t, na, not, n’t, s, the, to, ’, ’s, ’t</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 1 word types tagged as particles (PART): _</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 7 word types tagged as particles (PART): ', 's, in, n't, not, t', to</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 8 word types tagged as particles (PART): ', 's, n't, not, n’t, to, up, ’s</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 4 word types tagged as particles (PART): ', 's, not, to</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 5 word types tagged as particles (PART): 's, n't, not, nt, to</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
-      <li>This corpus contains 78 lemmas tagged as pronouns (PRON): 's, anybody, anyone, anything, ever, everybody, everyone, everything, he, hers, herself, himself, i, is, it, it's, its, itself, mine, mines, my, myself, nobody, nothing, one, our, ours, ourselves, s, self, she, somebody, someone, something, that, the, thei, their, theirs, them, themselves, then, there, these, they, they're, theyy, this, those, thou, thy, u, ur, us, use, waht, we, what, whatever, which, who, who's, whoever, whom, whomever, whoooooo, whose, wtf, ya, ya'll, ye, yo, you, you're, your, yours, yourself, yourselves</li>
+      <li>This corpus contains 77 lemmas tagged as pronouns (PRON): 's, anybody, anyone, anything, ever, everybody, everyone, everything, he, hers, herself, himself, i, is, it, it's, its, itself, mine, mines, my, myself, nobody, nothing, one, our, ours, ourselves, s, self, she, somebody, someone, something, that, the, thei, their, theirs, them, themselves, there, these, they, they're, theyy, this, those, thou, thy, u, ur, us, use, waht, we, what, whatever, which, who, who's, whoever, whom, whomever, whoooooo, whose, wtf, ya, ya'll, ye, yo, you, you're, your, yours, yourself, yourselves</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
-      <li>This corpus contains 55 lemmas tagged as pronouns (PRON): I, a, all, another, any, be, both, each, either, every, half, he, her, herself, himself, his, it, its, itself, me, mine, my, myself, no, one, our, quite, s/he, she, some, such, that, the, their, theirs, them, themselves, there, these, they, this, those, us, we, what, whatever, which, who, whoever, whom, whose, you, your, yours, yourself</li>
+      <li>This corpus contains 53 lemmas tagged as pronouns (PRON): I, a, all, another, any, be, both, each, either, every, half, he, her, herself, himself, his, it, its, itself, mine, my, myself, no, one, oneself, our, quite, s/he, she, some, such, that, the, their, theirs, themselves, there, these, they, this, those, we, what, whatever, which, who, whoever, whom, whose, you, your, yours, yourself</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 49 lemmas tagged as pronouns (PRON): I, Much, a, all, another, any, anybody, anyone, anything, both, each, either, else, everybody, everyone, everything, half, he, her, herself, it, many, neither, no, nobody, none, nothing, one, other, own, she, some, somebody, someone, something, such, te, that, there, they, this, we, what, whatever, whatnot, which, who, whoever, you</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 28 lemmas tagged as pronouns (PRON): 'ya, I, he, herself, himself, it, its, itself, my, one, she, that, themselves, there, these, they, this, those, us, we, what, where, which, who, whoever, whom, whose, you</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 44 lemmas tagged as pronouns (PRON): above, all, anyone, both, each, everyone, everything, first, he, her, his, i, it, latter, many, most, much, nobody, none, nothing, one, other, second, several, she, some, someone, something, that, them, there, they, third, this, us, we, what, when, where, whereby, which, who, whose, you</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 8 lemmas tagged as pronouns (PRON): all, he, it, me, she, there, they, you</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 23 lemmas tagged as determiners (DET): a, all, another, any, both, each, either, every, half, many, neither, no, quite, some, such, that, the, these, this, those, what, whatever, which</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 25 lemmas tagged as determiners (DET): 6, Mat, Une, a, all, another, any, both, each, either, every, no, one, other, some, such, that, the, these, this, those, what, whatever, which, you</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 22 lemmas tagged as determiners (DET): a, all, an, any, both, du, each, either, every, la, le, no, none, one, some, that, the, this, what, whatever, which, who</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 21 lemmas tagged as determiners (DET): a, all, another, any, both, each, either, every, half, nary, no, some, such, that, the, there, these, this, those, whatever, which</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 38 lemmas tagged as determiners (DET): L, Les, a, all, another, any, both, certain, each, every, her, his, its, la, le, ma, many, more, my, neither, no, numerous, one, several, some, such, that, the, their, this, une, uno, us, what, whatever, which, you, ’s</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as determiners (DET): any, the</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: that, the, these, this, those, what, whatever, which</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 21 lemmas occurred sometimes as PRON and sometimes as DET: a, all, another, any, both, each, either, every, no, one, some, such, that, the, these, this, those, what, whatever, which, you</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 16 lemmas occurred sometimes as PRON and sometimes as DET: a, all, any, both, each, either, no, none, one, some, that, this, what, whatever, which, who</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: that, there, these, this, those, which</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 15 lemmas occurred sometimes as PRON and sometimes as DET: all, both, each, her, his, many, one, several, some, that, this, us, what, which, you</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): be, can, could, do, get, have, may, might, must, ought, shall, should, will, would</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): be, can, could, do, get, have, may, might, must, shall, should, will, would</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): be, can, could, do, get, have, may, might, must, shall, should, will, would</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): be, can, could, do, get, have, may, might, must, should, will, would</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): be, can, do, have, may, might, must, shall, will</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): be, do, will</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: be, can, do, get, have</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: be, do, get, have, will</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: be, do, get, have, will</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: be, do, get, have, will</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: be, do, have, will</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: be</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus does not use the VerbForm feature.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -569,18 +643,28 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fin
         <ul>
-          <li>ADJ: naked</li>
-          <li>AUX: is, was, can, will, are, would, should, may, were, do</li>
-          <li>VERB: said, have, are, is, has, had, think, want, get, says</li>
+          <li>AUX: is, was, can, will, are, would, should, were, may, has</li>
+          <li>VERB: said, have, are, is, has, had, think, want, get, came</li>
         </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: _</li>
+          <li>SCONJ: _</li>
+          <li>VERB: _</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -590,7 +674,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -601,7 +685,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -611,7 +695,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -623,10 +707,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ger
         <ul>
@@ -636,23 +720,32 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ger
         <ul>
           <li>AUX: being, having, getting</li>
-          <li>NOUN: Resting, programming, reparcelling</li>
-          <li>PROPN: Calling</li>
           <li>SCONJ: according, depending, including, regarding</li>
-          <li>VERB: using, including, making, following, doing, having, going, writing, growing, living</li>
+          <li>VERB: using, including, following, making, doing, having, going, growing, writing, living</li>
         </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Ger
+        <ul>
+          <li>AUX: _</li>
+          <li>SCONJ: _</li>
+          <li>VERB: _</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ger
         <ul>
@@ -662,7 +755,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ger
         <ul>
@@ -672,7 +765,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ger
         <ul>
@@ -683,10 +776,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -696,18 +789,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Inf
         <ul>
-          <li>AUX: be, do, have, get, a</li>
-          <li>INTJ: Welcome</li>
-          <li>VERB: make, have, see, do, get, take, know, find, use, go</li>
+          <li>AUX: be, have, do, get, a</li>
+          <li>VERB: make, have, see, do, get, take, know, find, go, use</li>
         </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>AUX: _</li>
+          <li>VERB: _</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -717,7 +819,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -727,7 +829,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -737,7 +839,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -749,10 +851,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -762,19 +864,29 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Part
         <ul>
-          <li>ADJ: developed, naked, tired</li>
           <li>AUX: been</li>
-          <li>SCONJ: given, based, compared, got</li>
-          <li>VERB: used, known, called, given, found, made, done, based, taken, born</li>
+          <li>SCONJ: given, based, compared</li>
+          <li>VERB: used, known, called, found, made, given, born, based, done, seen</li>
         </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Part
+        <ul>
+          <li>AUX: _</li>
+          <li>SCONJ: _</li>
+          <li>VERB: _</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -785,7 +897,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -795,7 +907,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -805,7 +917,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -816,74 +928,85 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="12%" valign="top">
       <h3>Nominal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Com
           <ul>
@@ -893,21 +1016,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -916,7 +1039,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -925,7 +1048,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Fem
+          <ul>
+            <li>PRON: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -934,7 +1066,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -943,7 +1075,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -955,7 +1087,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -966,10 +1098,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -978,7 +1110,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -987,7 +1119,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>PRON: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -996,7 +1137,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -1005,7 +1146,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -1016,7 +1157,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -1027,19 +1168,19 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neut
           <ul>
-            <li>PRON: it, its, itself, ti</li>
+            <li>PRON: it, its, itself, THERE, ti</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1048,7 +1189,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Neut
+          <ul>
+            <li>PRON: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1057,7 +1207,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1066,10 +1216,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1080,68 +1230,76 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1154,20 +1312,32 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Plur
           <ul>
             <li>DET: these, those</li>
-            <li>NOUN: people, years, things, studies, days, minutes, children, ants, games, hours</li>
+            <li>NOUN: people, years, studies, things, languages, days, children, minutes, friends, games</li>
             <li>PRON: we, they, their, them, our, us, those, themselves, these</li>
             <li>PROPN: States, skittles, Chathams, Sox, Mets, Thais, Americans, Games, Netherlands, Thrones</li>
-            <li>SCONJ: points</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>DET: _</li>
+            <li>NOUN: _</li>
+            <li>PRON: _</li>
+            <li>PROPN: _</li>
+            <li>SCONJ: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1181,7 +1351,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1194,7 +1364,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1209,7 +1379,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1221,14 +1391,14 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: Global, Pakistani, criminal, female, middle</li>
+            <li>ADJ: Global, Pakistani, criminal, middle</li>
             <li>ADV: best</li>
             <li>AUX-Fin: is, was, has, 's, am, does, s, ’s, `s, ai</li>
             <li>DET: this, that</li>
@@ -1244,32 +1414,41 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: Best, real-world, 27th, Catholic, English, Foreign, Irish, Last, opposite, paternal</li>
-            <li>ADV: How, Loud, Out, outside, that</li>
+            <li>ADV: Always, Little, Loud, Out</li>
             <li>AUX: is, was, has, 's, ’s, does, am, s, Be, S’</li>
             <li>AUX-Fin: is, was, has, 's, ’s, does, am, s, S’, isn</li>
             <li>DET: this, that, The, A</li>
-            <li>NOUN: time, city, way, language, world, something, work, research, life, part</li>
-            <li>NOUN-Ger: Resting, programming, reparcelling</li>
+            <li>NOUN: time, city, way, language, world, life, study, year, something, day</li>
             <li>NUM: I, half, II, Seven, Three, XV, pm</li>
             <li>PRON: it, i, he, his, she, her, my, this, its, that</li>
-            <li>PROPN: New, United, University, Scientology, York, Warhol, lee, Moreau, Party, fort</li>
-            <li>PROPN-Ger: Calling</li>
-            <li>PUNCT: (, )</li>
+            <li>PROPN: New, University, United, York, Scientology, Warhol, lee, September, Moreau, Party</li>
+            <li>PUNCT: ?</li>
             <li>SYM: %</li>
-            <li>VERB-Fin: is, has, says, was, 's, comes, makes, ’s, means, takes</li>
-            <li>VERB-Ger: starring</li>
-            <li>VERB-Part: div., m.</li>
-            <li>X: née</li>
+            <li>VERB-Fin: is, has, says, was, 's, comes, makes, takes, ’s, means</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>AUX-Fin: _</li>
+            <li>DET: _</li>
+            <li>NOUN: _</li>
+            <li>PRON: _</li>
+            <li>PROPN: _</li>
+            <li>SYM: _</li>
+            <li>VERB-Fin: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1287,7 +1466,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1305,7 +1484,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1321,7 +1500,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1337,43 +1516,48 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1382,16 +1566,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Acc
           <ul>
-            <li>PRON: it, them, me, her, him, you, us, yourself, himself, themselves</li>
+            <li>PRON: it, them, me, him, her, you, us, himself, yourself, themselves</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>PRON: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1400,7 +1593,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1409,24 +1602,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1435,13 +1631,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1452,10 +1648,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -1464,18 +1660,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Nom
           <ul>
             <li>DET: you</li>
-            <li>PART: na</li>
             <li>PRON: you, it, i, he, we, they, she</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>PRON: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -1484,7 +1688,7 @@ udver: '2'
             <li>ADV: n't, for, last, nearest, and, a.m., alike, besides, left, p.m</li>
             <li>AUX: 'd, 're</li>
             <li>CCONJ: as, only, so, rather</li>
-            <li>DET: one, whose, La</li>
+            <li>DET: one, La, whose</li>
             <li>INTJ: Ave, Er</li>
             <li>NOUN: garden, Jews, sir, smile, faces, Americans, Mr., bush, fellow, objects</li>
             <li>NUM: n, U</li>
@@ -1498,7 +1702,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -1507,10 +1711,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -1521,68 +1725,76 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -1591,7 +1803,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -1601,7 +1813,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Def
+          <ul>
+            <li>DET: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -1611,7 +1832,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -1620,7 +1841,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -1629,7 +1850,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -1640,10 +1861,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1652,18 +1873,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
             <li>DET: a, an</li>
             <li>PRON: a</li>
-            <li>PROPN: A</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: _</li>
+            <li>PRON: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1674,7 +1904,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1683,7 +1913,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1692,73 +1922,81 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="12%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -1768,17 +2006,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Cmp
           <ul>
-            <li>ADJ: more, better, larger, further, greater, easier, higher, smaller, younger, later</li>
-            <li>ADV: later, less, earlier, longer, further, better, sooner, more, worse</li>
+            <li>ADJ: more, better, larger, greater, further, smaller, younger, easier, higher, later</li>
+            <li>ADV: later, less, earlier, longer, further, better, sooner, worse</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADJ: _</li>
+            <li>ADV: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -1788,7 +2036,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -1798,7 +2046,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -1808,15 +2056,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1829,24 +2077,32 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ: other, many, new, good, such, first, own, different, important, last</li>
-            <li>ADJ-Fin: naked</li>
-            <li>ADJ-Part: developed, naked, tired</li>
-            <li>ADV: well, far, long, soon, little, early, badly, hard, close, fast</li>
+            <li>ADJ: other, many, new, such, good, first, own, different, same, important</li>
+            <li>ADV: well, far, long, soon, little, early, hard, badly, fast, late</li>
             <li>DET: other, such</li>
-            <li>NOUN: organic-sugarcane</li>
             <li>PUNCT: —</li>
             <li>SCONJ: such</li>
-            <li>VERB-Part: battered</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>ADJ: _</li>
+            <li>ADV: _</li>
+            <li>INTJ: _</li>
+            <li>VERB: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1859,7 +2115,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1869,7 +2125,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1879,7 +2135,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1890,10 +2146,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -1903,17 +2159,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sup
           <ul>
-            <li>ADJ: most, best, least, largest, highest, greatest, latest, biggest, worst, hardest</li>
+            <li>ADJ: most, best, least, largest, highest, greatest, latest, worst, biggest, hardest</li>
             <li>ADV: best, least, fastest, longest</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Sup
+          <ul>
+            <li>ADJ: _</li>
+            <li>ADV: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -1924,7 +2190,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -1934,7 +2200,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -1944,45 +2210,50 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1993,34 +2264,52 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
-            <li>ADJ: unlikely, unknown, impossible, unable, unprecedented, incomprehensible, inevitable, unfamiliar, inadequate, non-profit</li>
-            <li>ADV: never, no, Unfortunately, nowhere, indirectly, Ne, pas, unambiguously, unawares, uncomprehendingly</li>
+            <li>ADJ: non-avian, unknown, unlikely, unable, impossible, universal, unprecedented, unfamiliar, incomprehensible, inevitable</li>
+            <li>ADV: never, no, unfortunately, nowhere, indirectly, Ne, pas, unambiguously, unawares, uncomprehendingly</li>
             <li>DET: no</li>
             <li>INTJ: no</li>
             <li>NOUN: nothing, involvement, disadvantages, discomfort, dislikes, disrespect, dysphoria, inadequacies, intolerance, involvements</li>
             <li>PART: not, n't, n’t, n`t, ’t</li>
             <li>PRON: no</li>
             <li>PROPN: Immortals, Immortal, pas</li>
-            <li>VERB-Fin: involve, involved, disliked, dismounted, involves, disintegrated, dislike, unclenched</li>
+            <li>VERB-Fin: involve, involved, disliked, dismounted, involves, disintegrated, dislike, unclenched, uncovered</li>
             <li>VERB-Ger: involving</li>
             <li>VERB-Inf: undo, Uncover, disentangle, dislike</li>
-            <li>VERB-Part: involved, disbanded, immortalized, non-fixed, uncovered</li>
+            <li>VERB-Part: involved, immortalized, disbanded, non-fixed, uncovered</li>
             <li>X: no</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>ADJ: _</li>
+            <li>ADV: _</li>
+            <li>DET: _</li>
+            <li>INTJ: _</li>
+            <li>NOUN: _</li>
+            <li>PART: _</li>
+            <li>VERB-Fin: _</li>
+            <li>VERB-Ger: _</li>
+            <li>VERB-Inf: _</li>
+            <li>VERB-Part: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2031,7 +2320,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2041,7 +2330,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2052,114 +2341,128 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="14%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="14%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="14%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="14%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="14%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="14%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="14%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="12%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="12%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="12%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="12%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="12%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="12%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="12%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2170,7 +2473,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2179,7 +2482,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2190,10 +2502,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2203,7 +2515,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2214,33 +2526,42 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
             <li>AUX-Fin: is, was, are, do, have, has, were, 's, am, 'm</li>
             <li>VERB-Fin: have, is, had, said, has, are, want, need, know, think</li>
+            <li>VERB-Part: ordered</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
-            <li>ADJ-Fin: naked</li>
-            <li>AUX-Fin: is, was, are, were, do, has, 's, have, had, ’s</li>
-            <li>AUX-Inf: Do</li>
-            <li>VERB-Fin: said, have, are, is, has, had, want, think, says, came</li>
-            <li>VERB-Part: aged</li>
+            <li>AUX-Fin: is, was, are, were, has, do, had, 's, have, ’s</li>
+            <li>VERB-Fin: said, have, are, is, has, had, want, think, came, says</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX-Fin: _</li>
+            <li>SCONJ-Fin: _</li>
+            <li>VERB-Fin: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2252,7 +2573,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2263,7 +2584,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2274,7 +2595,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2288,16 +2609,19 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Sub
           <ul>
@@ -2307,10 +2631,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sub
           <ul>
@@ -2320,7 +2644,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Sub
           <ul>
@@ -2331,45 +2655,50 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -2381,22 +2710,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Past
           <ul>
-            <li>ADJ-Fin: naked</li>
-            <li>ADJ-Part: developed, naked, tired</li>
-            <li>AUX-Fin: was, were, had, did, 'd, ’d, got, where</li>
+            <li>AUX-Fin: was, were, had, did, ’d, 'd, got, where</li>
             <li>AUX-Part: been</li>
-            <li>SCONJ-Part: given, based, compared, got</li>
-            <li>VERB-Fin: said, had, came, took, was, became, wanted, made, started, began</li>
-            <li>VERB-Part: used, known, called, given, found, made, done, based, taken, born</li>
+            <li>SCONJ-Part: given, based, compared</li>
+            <li>VERB-Fin: said, had, came, was, became, took, made, wanted, died, started</li>
+            <li>VERB-Part: used, known, called, found, made, given, born, based, done, seen</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX-Fin: _</li>
+            <li>AUX-Part: _</li>
+            <li>SCONJ-Part: _</li>
+            <li>VERB-Fin: _</li>
+            <li>VERB-Part: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -2408,7 +2748,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -2421,7 +2761,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -2433,7 +2773,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -2446,10 +2786,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -2460,20 +2800,30 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pres
           <ul>
-            <li>AUX-Fin: is, are, do, has, 's, have, ’s, 're, does, 've</li>
-            <li>AUX-Inf: Do</li>
+            <li>AUX-Fin: is, are, has, do, 's, have, ’s, 're, does, 've</li>
             <li>VERB-Fin: have, are, is, has, want, think, says, know, say, get</li>
-            <li>VERB-Ger: doing, trying</li>
             <li>VERB-Part: going, coming, doing, trying, looking, getting, taking, working, making, becoming</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>AUX-Fin: _</li>
+            <li>SCONJ-Fin: _</li>
+            <li>VERB-Fin: _</li>
+            <li>VERB-Part: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -2486,7 +2836,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -2497,7 +2847,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -2511,7 +2861,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -2525,43 +2875,49 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -2570,21 +2926,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -2593,10 +2949,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -2606,102 +2965,113 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="12%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="12%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -2710,18 +3080,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Art
           <ul>
             <li>DET: the, a, an</li>
             <li>PRON: the, a</li>
-            <li>PROPN: A</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: _</li>
+            <li>PRON: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -2730,7 +3109,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -2739,7 +3118,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -2748,7 +3127,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -2759,25 +3138,25 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Dem
           <ul>
-            <li>ADV: there, then, here, that</li>
+            <li>ADV: then, there, here, that</li>
             <li>DET: this, that, these, those</li>
             <li>PRON: this, that, those, these</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Dem
           <ul>
-            <li>ADV: then, there, here, that</li>
+            <li>ADV: then, there, here</li>
             <li>DET: this, these, that, those</li>
             <li>PRON: that, this, those, these</li>
             <li>SCONJ: that</li>
@@ -2785,7 +3164,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>ADV: _</li>
+            <li>DET: _</li>
+            <li>PRON: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -2796,7 +3186,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -2808,7 +3198,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -2818,21 +3208,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2841,10 +3234,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2854,7 +3247,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2865,10 +3258,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -2879,29 +3272,41 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Int
           <ul>
             <li>DET: what, which, whatever</li>
-            <li>PRON: what, which, who, whatever, whose, whom, whoever</li>
-            <li>SCONJ: when, how, where, why, wherever, Whenever, While</li>
+            <li>PRON: what, which, who, whose, whatever, whom, whoever</li>
+            <li>SCONJ: when, how, where, why, wherever, whither, Whenever, While</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Int
           <ul>
-            <li>ADV: how, where, why, when, wherever</li>
-            <li>DET: what, which, whatever</li>
-            <li>PRON: what, who, which, whom, whatever, whose</li>
+            <li>ADV: _</li>
+            <li>DET: _</li>
+            <li>PRON: _</li>
+            <li>SCONJ: _</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>ADV: how, why, where, when, wherever</li>
+            <li>DET: what, which, whatever</li>
+            <li>PRON: what, who, which, whatever, whom, whose</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -2913,7 +3318,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -2923,21 +3328,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2947,10 +3355,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2959,15 +3367,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -2976,18 +3384,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Prs
           <ul>
             <li>DET: you</li>
-            <li>PART: na</li>
-            <li>PRON: it, you, i, he, we, his, they, your, she, her</li>
+            <li>PRON: it, you, i, he, his, we, they, your, she, her</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>PRON: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -2996,7 +3412,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3005,7 +3421,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3015,7 +3431,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3026,10 +3442,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -3040,29 +3456,40 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Rel
           <ul>
             <li>DET: that</li>
-            <li>PRON: that, which, who, what, whom</li>
+            <li>PRON: that, which, who, whom, what</li>
             <li>SCONJ: where, that, when, why</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Rel
           <ul>
-            <li>ADV: where</li>
-            <li>PRON: that</li>
+            <li>PRON: _</li>
+            <li>SCONJ: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>ADV: where, why</li>
+            <li>DET: whose</li>
+            <li>PRON: that, who, which, what, whom, whose</li>
             <li>SCONJ: that</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -3074,7 +3501,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -3084,21 +3511,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -3108,10 +3538,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -3120,50 +3550,55 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -3172,18 +3607,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Card
           <ul>
             <li>DET: 6, one</li>
-            <li>NUM: one, two, 1, 2, 3, 6, 15, 4, 24, 5</li>
-            <li>X: 1., 3.</li>
+            <li>NUM: one, two, 1, 2, 3, 6, 15, 4, 5, 24</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>NUM: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -3192,7 +3635,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -3202,7 +3645,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -3211,7 +3654,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -3222,10 +3665,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -3234,7 +3677,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -3244,7 +3687,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Mult
+          <ul>
+            <li>ADV: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -3253,7 +3705,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -3262,18 +3714,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -3283,16 +3735,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ord
           <ul>
-            <li>ADJ: first, second, third, 19th, 20th, fourth, 10th, 2nd, 30th, ninth</li>
+            <li>ADJ: first, second, third, 19th, fourth, 20th, 10th, 2nd, 30th, ninth</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Ord
+          <ul>
+            <li>ADJ: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -3301,7 +3762,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -3310,7 +3771,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -3320,77 +3781,92 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
-            <li>PRON: my, your, their, his, our, its, her, whose, out, ur</li>
+            <li>PRON: my, your, their, his, our, its, her, whose, there, you</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
-            <li>PRON: his, your, my, their, her, its, our, whose, yours</li>
+            <li>PRON: his, your, their, my, her, its, our, whose, yours</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
+            <li>PRON: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>DET: whose</li>
             <li>PRON: his, my, your, its, our, whose, her</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -3399,7 +3875,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -3409,7 +3885,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -3420,41 +3896,46 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -3463,16 +3944,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
-            <li>PRON: yourself, himself, themselves, itself, myself, herself</li>
+            <li>PRON: himself, yourself, themselves, myself, itself, herself</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>PRON: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -3481,7 +3971,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -3490,53 +3980,58 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -3547,19 +4042,29 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>1
           <ul>
             <li>AUX-Fin: am, was</li>
-            <li>PART: na</li>
-            <li>PRON: i, we, my, me, our, us, myself</li>
+            <li>PRON: i, we, my, our, me, us, myself</li>
             <li>VERB-Fin: was, am</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>AUX-Fin: _</li>
+            <li>PRON: _</li>
+            <li>VERB-Fin: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -3570,7 +4075,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -3580,7 +4085,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -3591,7 +4096,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -3606,10 +4111,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -3618,7 +4123,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -3628,7 +4133,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>PRON: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -3637,7 +4151,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -3646,7 +4160,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -3657,7 +4171,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -3672,10 +4186,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -3686,18 +4200,29 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>3
           <ul>
             <li>AUX-Fin: is, was, has, 's, ’s, does, s, S’, isn</li>
             <li>PRON: it, he, his, they, she, her, their, them, its, him</li>
-            <li>VERB-Fin: is, has, says, was, 's, comes, makes, ’s, means, takes</li>
+            <li>VERB-Fin: is, has, says, was, 's, comes, makes, takes, ’s, means</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>AUX-Fin: _</li>
+            <li>PRON: _</li>
+            <li>VERB-Fin: _</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -3708,7 +4233,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -3719,7 +4244,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -3733,7 +4258,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -3748,102 +4273,114 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="12%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="12%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -3856,11 +4393,11 @@ udver: '2'
                 <li>CCONJ: n, 'n, VS</li>
                 <li>DET: da, dat, sm</li>
                 <li>INTJ: wel</li>
-                <li>NOUN: luv, b, c, DJ's, THX, UV, lovin', r., somethin, syd</li>
+                <li>NOUN: mins, luv, yrs, b, c, min, yr, DJ's, THX, UV</li>
                 <li>PART: na, ta, 2, a</li>
                 <li>PRON: u, ur, 'em, any1, em, wht</li>
                 <li>PROPN: Phx</li>
-                <li>SCONJ: b/c, 4, bc, cos, coz, cus, ig, w/out</li>
+                <li>SCONJ: b/c, 4, bc, cos, coz, cus, ig, tho, w/out</li>
                 <li>VERB-Fin: wan, c'm, hav</li>
                 <li>VERB-Ger: playin</li>
                 <li>VERB-Inf: hav, wan</li>
@@ -3872,24 +4409,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -3903,7 +4443,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -3916,13 +4456,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -3935,7 +4478,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -3948,35 +4491,35 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: accomodating, unic, Aweesome, Awsome, Chineese, Disatisfied, Hopless, Lovley, accomdating, brillant</li>
+                <li>ADJ: accomodating, rediculous, knowledgable, unic, Aweesome, Awsome, Chineese, Disatisfied, Hopless, Lovley</li>
                 <li>ADP: then, a, and, of, the, aboout, abou, admidst, aground, amoung</li>
-                <li>ADV: to, definately, completly, truely, Consistantly, Definetely, REALY, Unfortunalty, a, absoulutely</li>
+                <li>ADV: to, definately, completly, realy, their, truely, Consistantly, Definetely, Unfortunalty, a</li>
                 <li>AUX-Fin: ar, woud, ',, a, as, cold, hav, hvae, made, most</li>
                 <li>CCONJ: an, adn, a, ad=nd, amd, ans, at, of</li>
                 <li>DET: and, teh, aa, dthat, he, ssome, te, then, ther, whhich</li>
-                <li>NOUN: catagory, hamburguers, DJ's, Mechaincs, Sanwiches, Sstaff, Unlce, ammount, anywere, appartment</li>
+                <li>NOUN: catagory, hamburguers, resturant, DJ's, MYSTERYS, Mechaincs, Sanwiches, Sstaff, Unlce, advise</li>
                 <li>PART: too, ot</li>
-                <li>PRON: the, out, It's, thier, ti, you</li>
+                <li>PRON: the, there, you, out, It's, it, then, thier, ti</li>
                 <li>PROPN: Sear's, Bramen, Guiness, Hirsohima, Nagaski, Thanksgiv8ing</li>
-                <li>SCONJ: becuse, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse, then</li>
-                <li>VERB-Fin: new, reccomend, recieved, answetred, appologized, deliverd, fixeded, let's, orderd, preceded</li>
-                <li>VERB-Ger: ASWERING, EATTING, drive, drving</li>
-                <li>VERB-Inf: reccommend, recieve, recomend, accomodate, bare, critisize, endevour, hlep, ltake, purchace</li>
-                <li>VERB-Part: Rcommended, amplifiaed, botn, excepted, recomended</li>
+                <li>SCONJ: becuse, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse, sice</li>
+                <li>VERB-Fin: where, new, reccomend, recieved, answetred, appologized, aswered, deliverd, fixeded, let's</li>
+                <li>VERB-Ger: ASWERING, EATTING, drive, drving, hireing</li>
+                <li>VERB-Inf: reccommend, recieve, recomend, accomodate, bare, charger, critisize, endevour, had, here</li>
+                <li>VERB-Part: Rcommended, amplifiaed, botn, effected, excepted, ordered, recomended, use</li>
                 <li>X: ect.</li>
               </ul>
             </li>
@@ -3984,24 +4527,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -4010,7 +4556,7 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -4019,7 +4565,7 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: be.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -4028,7 +4574,16 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: be.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -4037,7 +4592,7 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: be.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -4046,7 +4601,7 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: be.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -4055,7 +4610,7 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: be.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -4066,43 +4621,49 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus uses 15 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, will, do, can, would, could, should, may, might, must, shall, get, better, to.</li>
       <li>This corpus uses 5 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, get, become, have, would.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
-      <li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: have, do, will, be, can, would, should, may, could, might, must, shall.</li>
+      <li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: have, do, be, can, will, would, should, may, could, might, must, shall.</li>
       <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, get.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+      <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, do, can, would, will, could, must, should, may, might, shall, get.</li>
       <li>This corpus uses 10 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, have, will, can, get, could, must, should, may, would.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, would, will, can, do, could, may, might, should, must.</li>
       <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, get.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: have, will, shall, be, can, may, do, must, might.</li>
       <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, have.</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
       <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: will.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be.</li>
@@ -4110,7 +4671,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -4125,14 +4686,14 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (1998)</li>
+            <li>VERB-Fin--NOUN (2003)</li>
             <li>VERB-Fin--PRON (791)</li>
             <li>VERB-Fin--PRON-Acc (3)</li>
             <li>VERB-Fin--PRON-Nom (4748)</li>
@@ -4140,46 +4701,74 @@ udver: '2'
             <li>VERB-Ger--PRON (22)</li>
             <li>VERB-Ger--PRON-Acc (7)</li>
             <li>VERB-Ger--PRON-Nom (186)</li>
-            <li>VERB-Inf--NOUN (658)</li>
+            <li>VERB-Inf--NOUN (660)</li>
             <li>VERB-Inf--PRON (288)</li>
             <li>VERB-Inf--PRON-Acc (37)</li>
-            <li>VERB-Inf--PRON-Nom (2615)</li>
+            <li>VERB-Inf--PRON-Nom (2612)</li>
             <li>VERB-Part--NOUN (458)</li>
             <li>VERB-Part--PRON (143)</li>
             <li>VERB-Part--PRON-Acc (4)</li>
-            <li>VERB-Part--PRON-Nom (1267)</li>
+            <li>VERB-Part--PRON-Nom (1268)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (1111)</li>
-            <li>VERB-Fin--PRON (339)</li>
+            <li>VERB-Fin--NOUN (1240)</li>
+            <li>VERB-Fin--PRON (374)</li>
             <li>VERB-Fin--PRON-Acc (1)</li>
-            <li>VERB-Fin--PRON-Nom (1502)</li>
-            <li>VERB-Ger--NOUN (38)</li>
+            <li>VERB-Fin--PRON-Nom (1696)</li>
+            <li>VERB-Ger--NOUN (47)</li>
             <li>VERB-Ger--PRON (7)</li>
             <li>VERB-Ger--PRON-Acc (3)</li>
-            <li>VERB-Ger--PRON-Nom (29)</li>
-            <li>VERB-Inf--NOUN (281)</li>
-            <li>VERB-Inf--PRON (90)</li>
-            <li>VERB-Inf--PRON-Acc (11)</li>
-            <li>VERB-Inf--PRON-Nom (604)</li>
-            <li>VERB-Part--NOUN (191)</li>
-            <li>VERB-Part--PRON (36)</li>
+            <li>VERB-Ger--PRON-Nom (30)</li>
+            <li>VERB-Inf--NOUN (306)</li>
+            <li>VERB-Inf--PRON (95)</li>
+            <li>VERB-Inf--PRON-Acc (12)</li>
+            <li>VERB-Inf--PRON-Nom (627)</li>
+            <li>VERB-Part--NOUN (218)</li>
+            <li>VERB-Part--PRON (42)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
-            <li>VERB-Part--PRON-Nom (267)</li>
+            <li>VERB-Part--PRON-Nom (300)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB--PRON-Nom (1)</li>
+            <li>VERB-Fin--NOUN (222)</li>
+            <li>VERB-Fin--PRON (79)</li>
+            <li>VERB-Fin--PRON-Acc (1)</li>
+            <li>VERB-Fin--PRON-Nom (401)</li>
+            <li>VERB-Ger--NOUN (5)</li>
+            <li>VERB-Ger--PRON (4)</li>
+            <li>VERB-Ger--PRON-Acc (1)</li>
+            <li>VERB-Ger--PRON-Nom (13)</li>
+            <li>VERB-Inf--NOUN (61)</li>
+            <li>VERB-Inf--PRON (26)</li>
+            <li>VERB-Inf--PRON-Acc (4)</li>
+            <li>VERB-Inf--PRON-Nom (184)</li>
+            <li>VERB-Part--NOUN (27)</li>
+            <li>VERB-Part--PRON (14)</li>
+            <li>VERB-Part--PRON-Acc (1)</li>
+            <li>VERB-Part--PRON-Nom (103)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -4212,7 +4801,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -4238,7 +4827,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -4257,7 +4846,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -4274,7 +4863,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -4286,58 +4875,79 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (3500)</li>
+            <li>VERB-Fin--NOUN (3502)</li>
             <li>VERB-Fin--NOUN-ADP('s) (1)</li>
-            <li>VERB-Fin--PRON (340)</li>
+            <li>VERB-Fin--PRON (339)</li>
             <li>VERB-Fin--PRON-Acc (869)</li>
             <li>VERB-Fin--PRON-Nom (63)</li>
             <li>VERB-Ger--NOUN (1041)</li>
             <li>VERB-Ger--PRON (47)</li>
             <li>VERB-Ger--PRON-Acc (118)</li>
             <li>VERB-Ger--PRON-Nom (10)</li>
-            <li>VERB-Inf--NOUN (3194)</li>
+            <li>VERB-Inf--NOUN (3195)</li>
             <li>VERB-Inf--NOUN-ADP('s) (1)</li>
             <li>VERB-Inf--NOUN-ADP(of) (1)</li>
-            <li>VERB-Inf--PRON (324)</li>
-            <li>VERB-Inf--PRON-Acc (791)</li>
+            <li>VERB-Inf--PRON (323)</li>
+            <li>VERB-Inf--PRON-Acc (789)</li>
             <li>VERB-Inf--PRON-Nom (88)</li>
-            <li>VERB-Part--NOUN (770)</li>
+            <li>VERB-Part--NOUN (771)</li>
             <li>VERB-Part--PRON (123)</li>
-            <li>VERB-Part--PRON-Acc (92)</li>
+            <li>VERB-Part--PRON-Acc (93)</li>
             <li>VERB-Part--PRON-Nom (4)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (1572)</li>
-            <li>VERB-Fin--PRON (77)</li>
-            <li>VERB-Fin--PRON-Acc (217)</li>
-            <li>VERB-Fin--PRON-Nom (3)</li>
-            <li>VERB-Ger--NOUN (577)</li>
-            <li>VERB-Ger--PRON (12)</li>
-            <li>VERB-Ger--PRON-Acc (48)</li>
+            <li>VERB-Fin--NOUN (1747)</li>
+            <li>VERB-Fin--PRON (84)</li>
+            <li>VERB-Fin--PRON-Acc (240)</li>
+            <li>VERB-Fin--PRON-Nom (4)</li>
+            <li>VERB-Ger--NOUN (645)</li>
+            <li>VERB-Ger--PRON (14)</li>
+            <li>VERB-Ger--PRON-Acc (50)</li>
             <li>VERB-Ger--PRON-Nom (1)</li>
-            <li>VERB-Inf--NOUN (1153)</li>
+            <li>VERB-Inf--NOUN (1233)</li>
             <li>VERB-Inf--PRON (69)</li>
-            <li>VERB-Inf--PRON-Acc (195)</li>
+            <li>VERB-Inf--PRON-Acc (211)</li>
             <li>VERB-Inf--PRON-Nom (3)</li>
-            <li>VERB-Part--NOUN (219)</li>
-            <li>VERB-Part--PRON (22)</li>
-            <li>VERB-Part--PRON-Acc (31)</li>
+            <li>VERB-Part--NOUN (256)</li>
+            <li>VERB-Part--PRON (25)</li>
+            <li>VERB-Part--PRON-Acc (34)</li>
             <li>VERB-Part--PRON-Nom (1)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB-Fin--NOUN (250)</li>
+            <li>VERB-Fin--PRON (34)</li>
+            <li>VERB-Fin--PRON-Acc (48)</li>
+            <li>VERB-Ger--NOUN (62)</li>
+            <li>VERB-Ger--PRON (2)</li>
+            <li>VERB-Ger--PRON-Acc (14)</li>
+            <li>VERB-Inf--NOUN (229)</li>
+            <li>VERB-Inf--PRON (30)</li>
+            <li>VERB-Inf--PRON-Acc (52)</li>
+            <li>VERB-Inf--PRON-Nom (3)</li>
+            <li>VERB-Part--NOUN (57)</li>
+            <li>VERB-Part--PRON (4)</li>
+            <li>VERB-Part--PRON-Acc (12)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -4346,7 +4956,7 @@ udver: '2'
             <li>VERB--PRON-ADP(into) (1)</li>
             <li>VERB--PRON-Acc (22)</li>
             <li>VERB--PRON-Nom (2)</li>
-            <li>VERB-Fin--NOUN (1253)</li>
+            <li>VERB-Fin--NOUN (1252)</li>
             <li>VERB-Fin--NOUN-ADP(for) (1)</li>
             <li>VERB-Fin--NOUN-ADP(in) (1)</li>
             <li>VERB-Fin--NOUN-ADP(on) (1)</li>
@@ -4377,7 +4987,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -4397,7 +5007,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -4415,7 +5025,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -4429,7 +5039,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -4439,12 +5049,12 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
             <li>VERB-Fin--NOUN (17)</li>
-            <li>VERB-Fin--PRON (4)</li>
+            <li>VERB-Fin--PRON (3)</li>
             <li>VERB-Fin--PRON-Acc (173)</li>
             <li>VERB-Fin--PRON-Nom (5)</li>
             <li>VERB-Ger--NOUN (9)</li>
@@ -4460,22 +5070,41 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
             <li>VERB-Fin--NOUN (11)</li>
-            <li>VERB-Fin--PRON-Acc (28)</li>
+            <li>VERB-Fin--PRON-Acc (34)</li>
             <li>VERB-Ger--NOUN (6)</li>
-            <li>VERB-Ger--PRON-Acc (6)</li>
+            <li>VERB-Ger--PRON-Acc (7)</li>
             <li>VERB-Inf--NOUN (11)</li>
             <li>VERB-Inf--PRON-Acc (19)</li>
+            <li>VERB-Part--NOUN (1)</li>
             <li>VERB-Part--PRON (1)</li>
+            <li>VERB-Part--PRON-Acc (2)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB-Fin--NOUN (3)</li>
+            <li>VERB-Fin--PRON (1)</li>
+            <li>VERB-Fin--PRON-Acc (16)</li>
+            <li>VERB-Ger--NOUN (1)</li>
+            <li>VERB-Ger--PRON-Acc (3)</li>
+            <li>VERB-Inf--NOUN (2)</li>
+            <li>VERB-Inf--PRON-Acc (8)</li>
+            <li>VERB-Part--NOUN (2)</li>
+            <li>VERB-Part--PRON-Acc (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -4494,7 +5123,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -4507,7 +5136,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -4523,7 +5152,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -4534,56 +5163,62 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
-
-    </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="12%" valign="top">
+
+    </td>
+    <td width="12%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -4593,14 +5228,21 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 42 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: call themselves, find himself, force yourself, give yourself, proclaim himself, Declare himself, ask yourself, assert himself, attach itself, buy myself, call myself, coin myself, comfort yourself, declare myself, distinguish himself, establish herself, expose yourself, find themselves, find yourself, fling themselves, give themselves, go yourself, haul themselves, infect themselves, introduce themselves, maintain himself, make herself, make themselves, make yourself, pick herself, prepare yourself, prove itself, redesign itself, remind yourself, reposition itself, restrain himself, support himself, teach himself, tell myself, tell yourself, turn himself, wrap itself</li>
+        <li>This corpus contains 48 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: find himself, call themselves, find yourself, force yourself, give yourself, proclaim himself, teach himself, Declare himself, ask yourself, assert himself, attach itself, buy myself, call myself, coin myself, comfort yourself, declare myself, devote himself, distinguish himself, establish herself, expose yourself, feel himself, find myself, find themselves, fling themselves, give themselves, go yourself, haul themselves, infect themselves, introduce themselves, maintain himself, make herself, make themselves, make yourself, pick herself, prepare yourself, prove itself, punish himself, redesign itself, remind yourself, reposition itself, restrain himself, steady himself, stop himself, support himself, tell myself, tell yourself, turn himself, wrap itself</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Verbs with Reflexive Core Objects</h3>
+      
+      <ul>
+        <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: _ _</li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -4610,22 +5252,22 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 8 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: declare himself, establish itself, establish themselves, find himself, find itself, identify themselves, immerse themselves, protect themselves</li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -4633,7 +5275,7 @@ udver: '2'
       <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -4641,7 +5283,7 @@ udver: '2'
       <li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -4649,7 +5291,15 @@ udver: '2'
       <li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
+      <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>orphan</a></li>
+      </ul>
+    </td>
+    <td width="12%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -4657,7 +5307,7 @@ udver: '2'
       <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -4665,7 +5315,7 @@ udver: '2'
       <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -4673,7 +5323,7 @@ udver: '2'
       <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="14%" valign="top">
+    <td width="12%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>

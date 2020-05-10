@@ -30,7 +30,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 16936 sentences and 348764 tokens.</li>
+      <li>This corpus contains 21403 sentences and 449959 tokens.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -47,7 +47,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 66961 tokens (19%) that are not followed by a space.</li>
+      <li>This corpus contains 89142 tokens (20%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -81,7 +81,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 588 types of words that contain both letters and punctuation. Examples: -i, -l, -au, n-, -mi, într-, -să, l-, -s, s-, m-, i-, -n, mi-, -o, -și, -ți, ce-, de-, c-, ne-, ș-, -va, te-, -a, pentr-, -te, -vă, le-, -mă, și-, să-, ți-, -le, -am, v-, nu-, -său, -lea, dentr-, dintr-, -voiu, pân-, -se, d-, -ne, -sa, Şi-, li-, -oi</li>
+      <li>This corpus contains 963 types of words that contain both letters and punctuation. Examples: -i, -l, -au, -n, n-, s-, i-, -mi, l-, într-, m-, ș-, mi-, -s, -ț, -să, ce-, de-, -m, le-, și-, -o, c-, -a, -și, ne-, te-, pentr-, -ți, -va, -te, -mă, -am, să-, -vă, -le, -său, -ș, dintr-, -ai, nu-, Ş-, ți-, v-, pân-, -lea, -ne, dentr-, Şi-, -ar</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -143,7 +143,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 12 word types tagged as particles (PART): -a, -să, a, a-, ca, n-, s, s-, se, sâ, să, să-</li>
+      <li>This corpus contains 15 word types tagged as particles (PART): -a, -să, a, a-, ca, n-, s, s-, sa, se, si, sâ, sî, să, să-</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -160,7 +160,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 92 lemmas tagged as pronouns (PRON): ,, -ul, Iș, acela, același, acesta, aceștia, altceva, altcineva, altul, alții, atât, atâta, care, ce, ceilalți, cel, celălalt, ceva, cine, cineva, cineși, cutare, cât, câtva, destul, dumnealor, dumnealui, dumneata, dumneavoastră, dânsa, dânsul, e1, el, eluși, eu, fi, fiecare, fiecine, fieșcare, fieșcine, fiește, fieștecare, fieștecine, io, l, mata, meu, mineși, mult, măria, mărie, neșcine, neșcât, neștine, niciunul, nimeni, nimic, nimicuța, noiși, nostru, oare, oarecare, oarece, oarecine, oarecât, oricare, orice, oricine, oricât, orișicine, puțin, sfinția, sine, sineși, singur, său, tot, tu, tău, unul, voi, voiși, vostru, vreunul, însul, însumi, însuși, însuți, ăla, ălalalt, ăsta</li>
+      <li>This corpus contains 120 lemmas tagged as pronouns (PRON): ,, -ul, -unul, Iș, acel, acela, același, acest, acesta, aceștia, aicela, alt, altceva, altcineva, altul, alții, alțâi, atât, atâta, care, careaș, ce, cei, ceilalți, cel, celălalt, ceva, ci, cine, cineva, cineș, cineși, cutare, cât, câtva, destul, dumnealor, dumnealui, dumneata, dumneavoastră, dânsa, dânsul, e1, ea, el, eluși, eu, fi, fiecare, fiecine, fieșcare, fieșcine, fiește, fieștecare, fieștecine, io, l, lui, lume, mata, meu, mineși, mult, mă, măria, mărie, neșcine, neșcât, neștine, niciunul, nime, nimeni, nimic, nimicuța, noiși, nostru, oare, oarecare, oarece, oarecine, oarecât, oricare, orice, oricine, oricât, orișicine, puțin, puțintel, se, sfinția, sfinție, sfânt, sieși, sine, sineși, singur, sinw, ssine, să, său, tot, totul, tu, tău, unul, voi, voiși, vostru, vrea, vreunul, însul, însumi, însuși, însuți, îș, ăla, ălalalt, ăsta, și, șie</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -177,7 +177,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 74 lemmas tagged as determiners (DET): -său, -ul, Fieștece, a, acela, același, acest, acesta, acestu, acătare, al, alt, altul, atât, atâta, atâte, avea, care, ce, ceilalți, cel, celi, celălalt, ceva, cutare, cât, câte, câtva, destul, el, eu, fiecare, fieșcare, fiește, fieștecare, iui, meu, mult, nescai, nescaiva, nescare, neșcât, niciun, niscaiva, niscavai, nostru, oare, oarecare, oarece, oarecine, oarecât, ori, oricare, orice, oricât, plin, puțin, puțintel, său, tot, tău, un, unul, vostru, vrea, vreo, vreun, vreunul, însumi, însuși, însuți, ăla, ălalalt, ăsta</li>
+      <li>This corpus contains 82 lemmas tagged as determiners (DET): -sâu, -său, -ul, Fieștece, a, acel, acela, același, acest, acesta, acestu, aceșta, aceștie, acătare, al, alt, altul, atât, atâta, atâte, avea, care, ce, cei, ceilalți, cel, celi, celălalt, ceva, ci, cutare, cât, câte, câtva, destul, el, eu, fiecare, fieșcare, fiește, fieștecare, iui, lu, meu, mult, nescai, nescaiva, nescare, neșcât, niciun, niscaiva, niscareva, niscavai, nostru, oare, oarecare, oarece, oarecine, oarecât, ori, oricare, orice, oricât, plin, puțin, puțintel, său, tot, tău, un, unul, vostru, vrea, vreo, vreun, vreunul, însumi, însuși, însuți, ăla, ălalalt, ăsta</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -194,7 +194,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 48 lemmas occurred sometimes as PRON and sometimes as DET: -ul, acela, același, acesta, altul, atât, atâta, care, ce, ceilalți, cel, celălalt, ceva, cutare, cât, câtva, destul, el, eu, fiecare, fieșcare, fiește, fieștecare, meu, mult, neșcât, nostru, oare, oarecare, oarece, oarecine, oarecât, oricare, orice, oricât, puțin, său, tot, tău, unul, vostru, vreunul, însumi, însuși, însuți, ăla, ălalalt, ăsta</li>
+      <li>Out of the above, 55 lemmas occurred sometimes as PRON and sometimes as DET: -ul, acel, acela, același, acest, acesta, alt, altul, atât, atâta, care, ce, cei, ceilalți, cel, celălalt, ceva, ci, cutare, cât, câtva, destul, el, eu, fiecare, fieșcare, fiește, fieștecare, meu, mult, neșcât, nostru, oare, oarecare, oarece, oarecine, oarecât, oricare, orice, oricât, puțin, puțintel, său, tot, tău, unul, vostru, vrea, vreunul, însumi, însuși, însuți, ăla, ălalalt, ăsta</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -265,7 +265,7 @@ udver: '2'
         <li>Fin
         <ul>
           <li>AUX: era, vor, e, iaste, -i, ai, fie, poate, -s, fu</li>
-          <li>VERB: zise, era, are, zice, face, zic, ia, facă, dzise, arată</li>
+          <li>VERB: zise, are, era, zice, facă, face, ia, dea, dă, zic</li>
         </ul>
         </li>
       </ul>
@@ -296,8 +296,8 @@ udver: '2'
       <ul>
         <li>Ger
         <ul>
-          <li>AUX: fiind, fiindu, nefiind, fîindu, neputînd, neputîndu, putîndu</li>
-          <li>VERB: zicînd, răspunzînd, văzînd, avînd, auzind, grăind, eșind, fiind, luînd, mergînd</li>
+          <li>AUX: fiind, fiindu, nefiind, fîindu, neputînd, neputând, neputîndu, Nefiindu, nefind, putîndu</li>
+          <li>VERB: zicînd, văzînd, răspunzînd, avînd, auzind, grăind, eșind, fiind, luînd, mergînd</li>
         </ul>
         </li>
       </ul>
@@ -328,8 +328,8 @@ udver: '2'
       <ul>
         <li>Inf
         <ul>
-          <li>AUX: fi, putea, hi, trebui, ști, fii, fir-, fire, pute, vii</li>
-          <li>VERB: da, face, fi, veni, lua, zice, vedea, vrea, avea, grăi</li>
+          <li>AUX: fi, hi, putea, hii, fii, trebui, ști, fir-, fire, pute</li>
+          <li>VERB: da, face, veni, fi, lua, vedea, zice, vrea, pune, avea</li>
         </ul>
         </li>
       </ul>
@@ -360,8 +360,8 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>AUX: fost, vrut, putut, fostu, pututu</li>
-          <li>VERB: făcut, scris, dat, luat, venit, zis, pus, văzut, fost, auzit</li>
+          <li>AUX: fost, putut, vrut, fostu, pututu</li>
+          <li>VERB: făcut, dat, luat, scris, pus, venit, dus, zis, văzut, vinit</li>
         </ul>
         </li>
       </ul>
@@ -420,14 +420,14 @@ udver: '2'
       <ul>
         <li>Fem
           <ul>
-            <li>ADJ: bună, bune, sfîntă, frumoasă, reale, noao, curată, neagră, rea, dereaptă</li>
-            <li>DET: a, o, toată, toate, mea, multe, tot, cea, ta, sa</li>
-            <li>NOUN: credință, casa, credința, lume, carte, parte, zi, țara, zile, casă</li>
-            <li>NUM: doao, treia, două, mii, mie, patra, doa, doua, sută, doaoa</li>
-            <li>PRON: o, aceaia, aceasta, carea, toate, le, aceastea, ei, -o, ia</li>
-            <li>PROPN: Evangheliia, Maria, Moldova, Galilea, Iudea, Roma, Evanghelie, Asiia, Evangheliei, Leșască</li>
-            <li>VERB: scrisă, dată, scrise, adevărată, pusă, făcută, adevărate, făcute, puse, neapărată</li>
-            <li>VERB-Part: scrisă, dată, scrise, adevărată, pusă, făcută, adevărate, făcute, puse, neapărată</li>
+            <li>ADJ: bună, svînta, svîntă, bune, mare, sfîntă, curată, frumoasă, plină, rea</li>
+            <li>DET: a, o, toată, ta, tot, toate, cea, mea, multe, sa</li>
+            <li>NOUN: lume, țară, credință, țara, casa, mila, parte, casă, milă, pace</li>
+            <li>NUM: doao, treia, mii, două, mie, doa, patra, doua, sută, sute</li>
+            <li>PRON: o, aceaia, carea, aceasta, le, toate, aceastea, ei, -o, ia</li>
+            <li>PROPN: Poartă, Evangheliia, Moldova, Cameniță, Leșască, Maria, Munteniască, Galilea, Evanghelie, Evanghelii</li>
+            <li>VERB: scrisă, dată, scrise, adevărată, făcute, făcută, pusă, adevărate, ascunsă, puse</li>
+            <li>VERB-Part: scrisă, dată, scrise, adevărată, făcute, făcută, pusă, adevărate, ascunsă, puse</li>
           </ul>
         </li>
       </ul>
@@ -467,15 +467,15 @@ udver: '2'
       <ul>
         <li>Masc
           <ul>
-            <li>ADJ: bun, sfînt, datoriu, omenesc, verde, rău, mic, mari, viu, slobod</li>
+            <li>ADJ: svinte, bun, sfînt, datoriu, omenesc, rău, verde, svîntul, mic, viu</li>
             <li>ADV: cît</li>
             <li>AUX-Part: fost, vrut</li>
-            <li>DET: un, al, cel, mieu, cei, toți, tău, său, nostru, acel</li>
-            <li>NOUN: vodă, domnul, domnului, fiiul, om, duhul, tatăl, numele, omul, cuvîntul</li>
-            <li>NUM: doi, întîiu, doisprăzeace, întîi, dintîiu, întăiu, amîndoi, un, dentîiu, trei</li>
-            <li>PRON: lui, el, carele, -l, ei, carii, -i, unul, l-, toți</li>
-            <li>PROPN: Dumnezău, Iisus, Hristos, Pavel, Pătru, Ioan, Ierosalim, Duca, Iacov, Moisi</li>
-            <li>VERB-Part: scris, făcut, născut, pus, dat, zis, dus, iubit, chemat, legat</li>
+            <li>DET: un, al, cel, mieu, tău, cei, său, toți, nostru, acel</li>
+            <li>NOUN: vodă, domnul, doamne, omul, domnului, cuvîntul, om, fiiul, numele, duhul</li>
+            <li>NUM: doi, întîiu, doisprăzeace, întîi, dintîiu, un, întăiu, amîndoi, dentîiu, doilea</li>
+            <li>PRON: lui, el, -l, carele, ei, -i, carii, l-, l, unul</li>
+            <li>PROPN: dumnezău, Iisus, Hristos, Pavel, David, Pătru, Ioan, Duca, Cantemir, Ierosalim</li>
+            <li>VERB-Part: scris, făcut, dat, pus, născut, dus, zis, iubit, chemat, legat</li>
           </ul>
         </li>
       </ul>
@@ -545,17 +545,17 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>ADJ: bune, mari, mici, reale, minciunoși, buni, scumpe, slobozi, credincioși, tari</li>
-            <li>AUX: au, vor, am, sînt, veți, ați, -s, vom, sînteți, s</li>
+            <li>ADJ: bune, mari, buni, mici, reale, nalte, minciunoși, scumpe, slobozi, credincioși</li>
+            <li>AUX: au, am, vor, sînt, -s, veți, ați, vom, -am, or</li>
             <li>AUX-Fin: vor, -s, au, fiți, pot, am, fireți, fură, putum, putură</li>
-            <li>DET: toate, multe, cei, toți, voastre, mulți, ale, ceale, sale, ai</li>
-            <li>NOUN: oameni, oamenii, ucenicii, ani, oamenilor, zile, ochii, fraților, zilele, frații</li>
-            <li>NUM: trei, doi, doao, cinci, patru, două, șapte, mii, doisprăzeace, șase</li>
-            <li>PRON: lor, voi, ei, carii, noi, vă, le, voao, -i, toate</li>
-            <li>PROPN: Iași, București, Domneștii, Paștile, Galați, Focșani, Botășeni, Hristoși, Cupăreștii, Domnești</li>
-            <li>VERB: zisără, zic, au, știți, veniră, fac, faceți, arată, știm, îndeamnă</li>
-            <li>VERB-Fin: zisără, zic, au, știți, veniră, fac, faceți, arată, știm, îndeamnă</li>
-            <li>VERB-Part: scrise, aleși, chemați, fericiți, făcute, sămnați, puse, adevărate, iubiți, cuprinși</li>
+            <li>DET: toate, multe, cei, toți, tale, mulți, voastre, ale, sale, ceale</li>
+            <li>NOUN: oameni, oamenii, ucenicii, ani, ochii, oamenilor, bani, zile, cuvinte, pizmașii</li>
+            <li>NUM: trei, doi, doao, patru, cinci, mii, două, șapte, doisprăzeace, șase</li>
+            <li>PRON: lor, voi, ei, le, -i, carii, vă, noi, voao, ne</li>
+            <li>PROPN: Iași, Iașii, București, Galați, Cupăreștii, Bucureștii, Domneștii, Focșani, Paștile, Focșeni</li>
+            <li>VERB: zisără, au, zic, fac, știți, veniră, arată, faceți, știm, îndeamnă</li>
+            <li>VERB-Fin: zisără, au, zic, fac, știți, veniră, arată, faceți, știm, îndeamnă</li>
+            <li>VERB-Part: scrise, aleși, făcute, chemați, fericiți, sămnați, puse, adevărate, iubiți, cuprinși</li>
           </ul>
         </li>
       </ul>
@@ -600,19 +600,19 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: mare, bună, bun, sfînt, datoriu, verde, omenesc, rău, mic, sfîntă</li>
+            <li>ADJ: mare, bună, svînta, svinte, bun, sfînt, datoriu, verde, svîntă, omenesc</li>
             <li>ADV: cît</li>
-            <li>AUX: va, -i, iaste, -au, e, a, era, voiu, ai, easte</li>
+            <li>AUX: va, -i, -au, iaste, a, era, e, ai, voiu, easte</li>
             <li>AUX-Fin: era, e, iaste, -i, ai, poate, fu, putea, are, poci</li>
             <li>AUX-Part: fost, vrut</li>
-            <li>DET: lui, a, un, o, al, toată, cel, mieu, mea, tot</li>
-            <li>NOUN: vodă, domnul, domnului, fiiul, om, duhul, tatăl, numele, omul, cuvîntul</li>
-            <li>NUM: întîiu, treia, mie, dintîiu, întăiu, patra, un, doao, dentîiu, doa</li>
-            <li>PRON: lui, el, carele, -l, eu, -i, o, aceaia, mine, mă</li>
-            <li>PROPN: Dumnezău, Iisus, Hristos, Pavel, Pătru, Ioan, Ierosalim, Duca, Iacov, Moisi</li>
-            <li>VERB: zise, era, are, face, zice, dzise, iaste, dă, zicea, veni</li>
-            <li>VERB-Fin: zise, era, are, face, zice, dzise, iaste, dă, zicea, veni</li>
-            <li>VERB-Part: scris, scrisă, făcut, dată, născut, pus, dat, zis, dus, iubit</li>
+            <li>DET: lui, a, un, o, ta, toată, tot, al, cel, cea</li>
+            <li>NOUN: vodă, domnul, doamne, omul, domnului, cuvîntul, om, lume, țară, fiiul</li>
+            <li>NUM: întîiu, treia, mie, dintîiu, patra, un, doa, întăiu, sută, doao</li>
+            <li>PRON: lui, el, -l, carele, -i, mă, eu, o, mine, te</li>
+            <li>PROPN: dumnezău, Iisus, Hristos, Pavel, David, Pătru, Ioan, Duca, Cantemir, Ierosalim</li>
+            <li>VERB: zise, are, era, face, dă, zice, dzise, iaste, vine, avea</li>
+            <li>VERB-Fin: zise, are, era, face, dă, zice, dzise, iaste, vine, avea</li>
+            <li>VERB-Part: scris, făcut, scrisă, dată, dat, pus, născut, dus, zis, iubit</li>
           </ul>
         </li>
       </ul>
@@ -677,8 +677,8 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>ADP: de, în, pre, cu, la, ca, din, pentru, întru, den</li>
-            <li>PRON: să, el, -l, se, o, mă, voi, mine, s, -i</li>
+            <li>ADP: de, în, cu, la, pre, ca, din, pe, pentru, întru</li>
+            <li>PRON: să, -l, el, mă, -i, s, o, se, mine, te</li>
           </ul>
         </li>
       </ul>
@@ -709,15 +709,15 @@ udver: '2'
       <ul>
         <li>Acc,Nom
           <ul>
-            <li>ADJ: mare, bună, bun, sfînt, datoriu, verde, omenesc, bune, mari, rău</li>
+            <li>ADJ: mare, bună, svînta, bun, sfînt, datoriu, verde, svîntă, bune, omenesc</li>
             <li>ADV: cît</li>
-            <li>DET: a, un, o, al, toată, toate, cel, ce, mea, multe</li>
-            <li>NOUN: vodă, domnul, fiiul, duhul, numele, tatăl, om, omul, cuvîntul, oameni</li>
-            <li>NUM: doao, mie, mii, amîndoi, sută, jumătate, amândoi, sute, amîndoao, doilea</li>
-            <li>PRON: ce, carele, el, aceaia, cine, carii, aceasta, carea, voi, unul</li>
-            <li>PROPN: Dumnezău, Iisus, Hristos, Pavel, Pătru, Ioan, Ierosalim, Duca, Iacov, Moisi</li>
-            <li>VERB: scrisă, dată, adevărată, făcută, pusă, neapărată, ascunsă, cinstită, uscată, ascuțită</li>
-            <li>VERB-Part: scrisă, dată, adevărată, făcută, pusă, neapărată, ascunsă, cinstită, uscată, ascuțită</li>
+            <li>DET: a, un, o, toată, ta, tot, al, toate, cel, cea</li>
+            <li>NOUN: vodă, domnul, omul, cuvîntul, om, lume, țară, numele, fiiul, duhul</li>
+            <li>NUM: doao, mii, mie, amîndoi, sută, doo, sute, amândoi, jumătate, doilea</li>
+            <li>PRON: ce, carele, el, cine, carii, aceaia, tu, carea, aceasta, voi</li>
+            <li>PROPN: dumnezău, Iisus, Hristos, Pavel, David, Pătru, Ioan, Duca, Cantemir, Ierosalim</li>
+            <li>VERB: scrisă, dată, adevărată, făcută, pusă, -ndurată, ascunsă, neapărată, cinstită, luminată</li>
+            <li>VERB-Part: scrisă, dată, adevărată, făcută, pusă, -ndurată, ascunsă, neapărată, cinstită, luminată</li>
           </ul>
         </li>
       </ul>
@@ -745,8 +745,8 @@ udver: '2'
       <ul>
         <li>Dat
           <ul>
-            <li>ADP: derept, asemenea, asupră, înainte</li>
-            <li>PRON: lor, -i, voao, lui, -mi, mi-, -și, -ți, le, mi</li>
+            <li>ADP: asupră, derept, nainte, asemenea, denainte, înainte</li>
+            <li>PRON: -i, lor, -mi, voao, lui, le, mi-, -ț, mi, -m</li>
           </ul>
         </li>
       </ul>
@@ -777,12 +777,12 @@ udver: '2'
       <ul>
         <li>Dat,Gen
           <ul>
-            <li>ADJ: creștinești, mari, marelui, sfinte, sîrmanului, reale, sfinților, vechi, cerești, iubitului</li>
-            <li>DET: lui, celui, celor, sale, tuturor, unui, tale, meale, aceștii, lu</li>
-            <li>NOUN: domnului, oamenilor, omului, jidovilor, trupului, popilor, pămîntului, legiei, duhului, tatălui</li>
-            <li>NUM: mii, amîndurora, sute, unii, tusșapte, unui, zeacelui, șeaselui</li>
-            <li>PRON: lor, căruia, celora, cărora, altuia, celuia, celor, cui, tuturor, acelora</li>
-            <li>PROPN: Ducăi, Evangheliei, Galileei, Rimului, Iudei, Radului, Moldovii, Iudeei, Mariei, Marii</li>
+            <li>ADJ: svintei, svîntului, vechi, creștinești, mari, marelui, sfinte, sîrmanului, reale, sfinților</li>
+            <li>DET: lui, celui, celor, sale, tuturor, unui, tale, aceștii, meale, mele</li>
+            <li>NOUN: domnului, oamenilor, omului, jidovilor, trupului, popilor, pămîntului, lumii, legiei, tatălui</li>
+            <li>NUM: mii, amîndurora, sute, tustrei, unii, amânduror, tusșapte, unui, zeacelui, șeaselui</li>
+            <li>PRON: lor, căruia, celora, cărora, celor, altuia, cui, celuia, tuturor, acelora</li>
+            <li>PROPN: Ducăi, Evangheliei, Moldovei, Moldovii, Evanghelii, Galileei, Iudei, Rimului, Radului, Sionului</li>
             <li>VERB-Part: adevărate, arate, curate, aduse, arătate, uscate, acoperite, alease, aleaseei, ascunse</li>
           </ul>
         </li>
@@ -817,8 +817,8 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>ADP: înaintea, împrotiva, asupra, împotriva, dinaintea, desupra, deasupra, asupră, înnaintea, împregiurul</li>
-            <li>PRON: lui, ei, măriei, lor, o, iei, mării, măriii, -i, sfinției</li>
+            <li>ADP: înaintea, împrotiva, asupra, împotriva, asupră, denaintea, dinaintea, înainte, desupra, denainte</li>
+            <li>PRON: lui, ei, măriei, lor, măriii, o, iei, mării, svințiii, -i</li>
           </ul>
         </li>
       </ul>
@@ -852,7 +852,7 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>PRON: eu, ei, noi, dânșii, înșii, dînșii, iei, le, înși, ele</li>
+            <li>PRON: eu, ei, noi, dînșii, dânșii, înșii, iei, le, ele, înși</li>
           </ul>
         </li>
       </ul>
@@ -885,9 +885,9 @@ udver: '2'
       <ul>
         <li>Voc
           <ul>
-            <li>ADJ: sfinte, Mititelule, cinstite, sărmane, Puternice, bune, sfinților, -afurisite, Galantoane, Sărace</li>
+            <li>ADJ: svinte, sfinte, mișele, Mititelule, cinstite, sărmane, Puternice, bune, sfinților, -afurisite</li>
             <li>NOUN: doamne, fraților, Învățătoriule, părinte, frate, bade, bădiță, cuvinte, dorule, iubiților</li>
-            <li>PROPN: Doamne, Iisuse, Saule, Staline, Manole, Agrippo, Ioane, Marie, Nistrule, Simone</li>
+            <li>PROPN: Doamne, Iisuse, Saule, Staline, Manole, Agrippo, Dumnezeule, Ioane, Marie, Nistrule</li>
           </ul>
         </li>
       </ul>
@@ -938,12 +938,12 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>ADJ: bune, bunul, marelui, sfinții, sfinților, marele, puternicul, sîrmanului, Sărmana, domneștii</li>
+            <li>ADJ: svînta, svîntul, svintele, svintei, mișelul, svîntului, bietul, cinstitul, bune, sfîntul</li>
             <li>DET: lui, -lea, -a, lu, un, -le, -lui, iui</li>
-            <li>NOUN: domnul, domnului, fiiul, duhul, numele, tatăl, omul, cuvîntul, oamenii, ucenicii</li>
-            <li>NUM: doilea, treile, treilea, întîia, întîiul, un, noaole, unii, 8-lea, opta</li>
-            <li>PRON: carele, carii, carea, toții, totul, fietecarele, alțâi, careli, caria, carele-</li>
-            <li>PROPN: Duca, Evangheliia, Maria, Moldova, Iuda, Galilea, Varnava, Asiia, Ducăi, Iudea</li>
+            <li>NOUN: domnul, omul, domnului, cuvîntul, fiiul, numele, duhul, tatăl, țara, oamenii</li>
+            <li>NUM: doilea, treile, treilea, întîia, întîiul, patrulea, un, noaole, triile, unii</li>
+            <li>PRON: carele, carii, carea, totul, toții, alțâi, careli, toțâi, toțîi, alții</li>
+            <li>PROPN: Duca, Evangheliia, Moldova, Ducăi, Maria, Brâncovanul, Dumnezăul, Iuda, Galilea, Varnava</li>
           </ul>
         </li>
       </ul>
@@ -979,10 +979,10 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>ADJ: mare, bună, bun, sfînt, datoriu, verde, mari, omenesc, bune, rău</li>
-            <li>NOUN: vodă, om, oameni, credință, lucru, adevăr, ceriu, lume, carte, parte</li>
-            <li>NUM: doao, mii, mie, un, sută, întîi, dentîiu, dintîi, jumătate, zece</li>
-            <li>PROPN: Dumnezău, Iisus, Hristos, Pavel, Pătru, Ioan, Ierosalim, Iacov, Moisi, Dumnedzău</li>
+            <li>ADJ: mare, bună, svinte, bun, sfînt, datoriu, mari, verde, svîntă, bune</li>
+            <li>NOUN: vodă, doamne, om, lume, țară, credință, oameni, parte, casă, lucru</li>
+            <li>NUM: mii, doao, mie, sută, un, sute, doo, întîi, dentîiu, dintîi</li>
+            <li>PROPN: dumnezău, Iisus, Hristos, Pavel, David, Pătru, Ioan, Cantemir, Ierosalim, Iacov</li>
           </ul>
         </li>
       </ul>
@@ -1068,7 +1068,7 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ: mare, bună, bun, sfînt, datoriu, verde, vel, mari, omenesc, bune</li>
+            <li>ADJ: mare, bună, svinte, svînta, bun, vel, sfînt, datoriu, mari, verde</li>
             <li>NOUN: SVÎNT, orb, plata, venitori, vergurele, Îndrăcitul</li>
           </ul>
         </li>
@@ -1142,13 +1142,13 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>ADV: nu, n-, nece, nici, nu-, nice, niceodată, n, neceodată, niciodată</li>
-            <li>AUX: nefiind, fii, neputînd, fi, neputîndu</li>
-            <li>AUX-Ger: nefiind, neputînd, neputîndu</li>
-            <li>CCONJ: nece, nici, nice, neci, ce, ci, Nîci</li>
-            <li>VERB-Fin: lua, lăsa, teame, duce, face, curvi, da, plânge, îmbla, gândi</li>
-            <li>VERB-Ger: neavînd, neștiind, neștiindu, neavându, neaflîndu-, necrezînd, nepriimind, neaflînd, nefăcînd, nevrînd</li>
-            <li>VERB-Part: neapărată, neîncetat, nescrisă, nespălate, nebiruită, necugetat, necunoscut, nemăritată, nespălată, nestinsu</li>
+            <li>ADV: nu, n-, nece, nice, nici, nu-, niceodată, n, neceodată, niciodată</li>
+            <li>AUX: nefiind, fii, neputînd, fi, neputând, neputîndu, Nefiindu, hii, nefind</li>
+            <li>AUX-Ger: nefiind, neputînd, neputând, neputîndu, Nefiindu, nefind</li>
+            <li>CCONJ: nece, nici, nice, neci, ce, ci, Nice-, Nîci</li>
+            <li>VERB-Fin: lăsa, face, da, lua, teame, duce, curvi, uita, îmbla, ascunde</li>
+            <li>VERB-Ger: neavînd, neștiind, neștiindu, nefăcînd, neavându, neaflîndu-, neavând, necrezînd, nepriimind, neaflînd</li>
+            <li>VERB-Part: neapărată, nescris, neîncetat, neclătită, nencetată, nescrisă, nespălate, neatinse, nebiruită, necugetat</li>
           </ul>
         </li>
       </ul>
@@ -1182,13 +1182,13 @@ udver: '2'
             <li>AUX: fiind, fiindu, fii, fîindu, fost, putîndu, vrut</li>
             <li>AUX-Ger: fiind, fiindu, fîindu, putîndu</li>
             <li>AUX-Part: fost, vrut</li>
-            <li>CCONJ: și, Şi, iară, ce, sau, au, dară, dar, iar, ș-</li>
+            <li>CCONJ: și, Şi, iară, ce, sau, ș-, iar, au, și-, dară</li>
             <li>PRON: ce</li>
-            <li>SCONJ: că, de, să, c-, deaca, căce, de-, dacă, căci, ca</li>
-            <li>VERB: zicînd, scris, răspunzînd, văzînd, avînd, auzind, grăind, scrisă, făcut, eșind</li>
-            <li>VERB-Fin: dă, vino, ia, pasă, scoală, spune, lasă, scoate, du, fă</li>
-            <li>VERB-Ger: zicînd, răspunzînd, văzînd, avînd, auzind, grăind, eșind, fiind, luînd, mergînd</li>
-            <li>VERB-Part: scris, scrisă, făcut, dată, scrise, născut, pus, dat, zis, dus</li>
+            <li>SCONJ: că, de, să, c-, de-, deaca, căce, dacă, căci, ca</li>
+            <li>VERB: zicînd, scris, văzînd, răspunzînd, avînd, auzind, grăind, scrisă, făcut, dă</li>
+            <li>VERB-Fin: dă, scoală, ia, scoate, vino, pasă, spune, lasă, fă, du</li>
+            <li>VERB-Ger: zicînd, văzînd, răspunzînd, avînd, auzind, grăind, eșind, fiind, luînd, mergînd</li>
+            <li>VERB-Part: scris, scrisă, făcut, dată, dat, pus, născut, scrise, dus, zis</li>
           </ul>
         </li>
       </ul>
@@ -1240,7 +1240,7 @@ udver: '2'
             <li>AUX-Fin: fireți</li>
             <li>AUX-Inf: fire, fire-, hire</li>
             <li>VERB-Fin: teamereți, grijireți, giudecareți, dareți, oprireți, spămîntareți, contenireți, creadereți, giurareți, greșireți</li>
-            <li>VERB-Inf: Vreare, dare, lăcuirea, priimi, Pohtire, Zicere, cearere, darea, daria, erta</li>
+            <li>VERB-Inf: hirea, Vreare, dare, lăcuirea, priimi, Pohtire, Zicere, cearere, cercarea, darea</li>
           </ul>
         </li>
       </ul>
@@ -1335,9 +1335,9 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>AUX: fiți, fii, fireți, fi, fiţi, sunteți</li>
+            <li>AUX: fiți, fii, fireți, fi, fiţi, hii, sunteți</li>
             <li>AUX-Fin: fireți, fiți</li>
-            <li>VERB-Fin: dă, vino, ia, pasă, scoală, spune, lasă, faceți, scoate, dați</li>
+            <li>VERB-Fin: dă, ia, scoală, scoate, vino, pasă, spune, lasă, faceți, fă</li>
           </ul>
         </li>
       </ul>
@@ -1361,10 +1361,10 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX: au, va, -i, am, iaste, -au, vor, e, a, era</li>
+            <li>AUX: au, va, -i, -au, am, iaste, vor, a, era, e</li>
             <li>AUX-Fin: era, vor, e, iaste, -i, ai, poate, -s, fu, au</li>
-            <li>VERB: zise, era, are, face, zic, zice, dzise, iaste, zisără, zicea</li>
-            <li>VERB-Fin: zise, era, are, face, zic, zice, dzise, iaste, zisără, zicea</li>
+            <li>VERB: zise, are, era, face, zic, zice, dzise, iaste, arată, vine</li>
+            <li>VERB-Fin: zise, are, era, face, zic, zice, dzise, iaste, arată, vine</li>
             <li>VERB-Part: va</li>
           </ul>
         </li>
@@ -1396,9 +1396,9 @@ udver: '2'
       <ul>
         <li>Sub
           <ul>
-            <li>AUX: fie, fiu, fiți, fii, fim, poată, putem, pot, vrea, fiie</li>
+            <li>AUX: fie, fii, fiu, poată, fiți, fim, fie-, hie, putem, pot</li>
             <li>AUX-Fin: fie, fiți, poată</li>
-            <li>VERB-Fin: facă, dea, ia, vie, fie, aibă, zice, vază, plătească, chiamă</li>
+            <li>VERB-Fin: facă, dea, ia, aibă, vază, vie, fie, zice, ducă, auză</li>
           </ul>
         </li>
       </ul>
@@ -1465,9 +1465,9 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>AUX: era, putea, eram, avea, vrea, iera, erați, erau, trebuia, erai</li>
+            <li>AUX: era, putea, eram, iera, avea, vrea, erați, erau, pute, erai</li>
             <li>AUX-Fin: era, putea</li>
-            <li>VERB-Fin: era, zicea, avea, făcea, mergea, da, vrea, grăiia, sta, vedea</li>
+            <li>VERB-Fin: era, avea, zicea, făcea, mergea, da, vrea, sta, grăiia, lua</li>
           </ul>
         </li>
       </ul>
@@ -1500,7 +1500,7 @@ udver: '2'
           <ul>
             <li>AUX: fu, fură, fuiu, putu, fum, putum, fuset, fuseși, putură, sînt</li>
             <li>AUX-Fin: fu, fură, putum, putură, putuși</li>
-            <li>VERB-Fin: zise, dzise, zisără, veni, fu, răspunse, veniră, văzu, făcu, deade</li>
+            <li>VERB-Fin: zise, dzise, zisără, veni, fu, răspunse, veniră, făcu, văzu, deade</li>
           </ul>
         </li>
       </ul>
@@ -1524,8 +1524,8 @@ udver: '2'
       <ul>
         <li>Pqp
           <ul>
-            <li>AUX: era, fusesie, fusesă</li>
-            <li>VERB-Fin: zisease, venise, luase, făcuse, făgăduise, auzise, luasă, dedease, poruncise, văzuse</li>
+            <li>AUX: fusese, fusesă, fusesie, era, putusă</li>
+            <li>VERB-Fin: zisease, venise, luase, făcuse, făcusă, luasă, făgăduise, apucasă, auzise, agiunsesă</li>
           </ul>
         </li>
       </ul>
@@ -1549,10 +1549,10 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>AUX: au, va, -i, am, iaste, -au, vor, e, a, sînt</li>
+            <li>AUX: au, va, -i, -au, am, iaste, vor, a, e, sînt</li>
             <li>AUX-Fin: vor, e, iaste, -i, ai, fie, poate, -s, au, pot</li>
-            <li>VERB: are, zice, face, zic, facă, dea, iaste, ia, arată, fac</li>
-            <li>VERB-Fin: are, zice, face, zic, facă, dea, iaste, ia, arată, fac</li>
+            <li>VERB: are, zice, facă, face, dea, zic, ia, fac, iaste, arată</li>
+            <li>VERB-Fin: are, zice, facă, face, dea, zic, ia, fac, iaste, arată</li>
             <li>VERB-Part: va</li>
           </ul>
         </li>
@@ -1638,7 +1638,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: lui, a, al, ale, ai, -lea, -a, lu, -al, un</li>
+            <li>DET: lui, a, al, ale, -a, ai, -lea, lu, un, -al</li>
           </ul>
         </li>
       </ul>
@@ -1667,8 +1667,8 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>DET: cel, cei, cea, acel, această, ceale, aceasta, acest, aceaia, acea</li>
-            <li>PRON: aceaia, aceasta, aceastea, cela, acesta, acela, ceia, cel, cei, aceia</li>
+            <li>DET: cel, cea, cei, acel, această, acea, aceasta, acest, ceale, acesta</li>
+            <li>PRON: aceaia, aceasta, aceastea, cela, ceia, acesta, acela, cei, cel, aceia</li>
           </ul>
         </li>
       </ul>
@@ -1699,7 +1699,7 @@ udver: '2'
       <ul>
         <li>Emp
           <ul>
-            <li>DET: însuși, înșivă, însuți, înșiși, însumi, însuș, înșine, înseși, înși</li>
+            <li>DET: însuși, înșivă, însuți, înșiși, înșine, însumi, însuș, Înșiș, înseși, înși</li>
             <li>PRON: însuși, eiși, voiși, înșivă, mineși, sineși, loruși, însuți, eluși, noiși</li>
           </ul>
         </li>
@@ -1729,9 +1729,9 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>ADV: tot, cumva, atîta, mult, oarecînd, oarecum, cîndva, uneori, multu, oricît</li>
-            <li>DET: un, o, toată, toate, multe, tot, toți, multă, mulți, alt</li>
-            <li>PRON: unul, toate, toți, unii, altul, mulți, cineva, alții, una, tot</li>
+            <li>ADV: tot, cumva, atîta, mult, oarecînd, uneori, oarecum, cîndva, hie, multu</li>
+            <li>DET: un, o, toată, tot, toate, multe, toți, multă, mulți, alt</li>
+            <li>PRON: toate, unul, toți, unii, altul, mulți, alții, cineva, una, tot</li>
           </ul>
         </li>
       </ul>
@@ -1762,8 +1762,8 @@ udver: '2'
       <ul>
         <li>Int,Rel
           <ul>
-            <li>ADV: cum, cînd, unde, când, cît, cumu, cât, cîndu, precum, câte</li>
-            <li>DET: ce, care, cîte, câte, cîtă, cîți, Câtă, Câți, carele, cît</li>
+            <li>ADV: cum, cînd, unde, când, cît, cumu, cât, precum, cîndu, câte</li>
+            <li>DET: ce, care, cîte, câte, cîtă, câtă, cîți, câți, carele, ce-</li>
             <li>PRON: ce, carele, cine, carii, carea, care, ce-, căruia, cărora, cîte</li>
           </ul>
         </li>
@@ -1798,7 +1798,7 @@ udver: '2'
         <li>Neg
           <ul>
             <li>DET: nicio, niciun, necio, neșchite, neșchită</li>
-            <li>PRON: nime, nemică, nimic, nimeni, nemic, nemurui, nimenea, nimică, nimica, nemărui</li>
+            <li>PRON: nime, nemică, nemic, nimic, nimeni, nemurui, nimenea, nimică, nimica, nemărui</li>
           </ul>
         </li>
       </ul>
@@ -1829,8 +1829,8 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>DET: mieu, mea, tău, său, nostru, ta, sa, voastră, sale, voastre</li>
-            <li>PRON: să, lui, el, -i, ei, lor, -l, voi, eu, se</li>
+            <li>DET: ta, mieu, tău, mea, său, sa, nostru, tale, sale, voastră</li>
+            <li>PRON: să, lui, el, -i, lor, -l, ei, mă, voi, le</li>
           </ul>
         </li>
       </ul>
@@ -1861,7 +1861,7 @@ udver: '2'
       <ul>
         <li>Tot
           <ul>
-            <li>NUM: amîndoi, amândoi, amîndoao, amîndurora, tusșapte, îmbe, amândouă, amîndoo, amîndouă, tușapte</li>
+            <li>NUM: amîndoi, amândoi, amîndoao, îmbe, amîndurora, tustrei, tusșapte, înbe, Tuteopt, amândouă</li>
           </ul>
         </li>
       </ul>
@@ -1907,7 +1907,7 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>NUM: trei, doi, doao, cinci, patru, două, mii, șapte, mie, doisprăzeace</li>
+            <li>NUM: trei, doi, doao, patru, cinci, mii, două, șapte, mie, doisprăzeace</li>
           </ul>
         </li>
       </ul>
@@ -1959,7 +1959,7 @@ udver: '2'
       <ul>
         <li>Mult
           <ul>
-            <li>NUM: îndoit, înbe, Cîtetrele, cîtenouă, tretii, tustreli, tustrii, îndzăcit</li>
+            <li>NUM: îndoit, tustrii, înbe, Cîtetrele, cîtenouă, tretii, tustreli, îndzăcit</li>
           </ul>
         </li>
       </ul>
@@ -1976,7 +1976,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>NUM: întîiu, treia, dentîiu, întîi, dintîiu, întăiu, patra, doa, doua, dintîi</li>
+            <li>NUM: întîiu, treia, dentîiu, întîi, dintîiu, patra, întăiu, doa, doua, dintîi</li>
           </ul>
         </li>
       </ul>
@@ -2023,7 +2023,7 @@ udver: '2'
       <ul>
         <li>Yes
           <ul>
-            <li>DET: a, al, ale, ai, tău, mieu, ta, vostru, mea, sa</li>
+            <li>DET: a, al, ale, ai, -a, tău, mieu, ta, vostru, mea</li>
             <li>PRON: ta, meu, nostru, tău</li>
           </ul>
         </li>
@@ -2118,12 +2118,12 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>AUX: am, voiu, vom, oi, sînt, -am, aș, sîntem, -voiu, -oi</li>
+            <li>AUX: am, voiu, voi, vom, -am, oi, sînt, aș, sîntem, -voiu</li>
             <li>AUX-Fin: am, pociu, Oi, poci, pot, putum, s, sunt, sînt, voiu</li>
-            <li>DET: mieu, mea, nostru, voastră, meale, noastră, noastre, miei, meu, noștri</li>
-            <li>PRON: eu, mă, mine, noi, -mi, voi, tu, m-, ne, mi-</li>
-            <li>VERB: am, zic, știu, fac, știm, duc, văzuiu, avem, dau, grăescu</li>
-            <li>VERB-Fin: am, zic, știu, fac, știm, duc, văzuiu, avem, dau, grăescu</li>
+            <li>DET: mieu, mea, nostru, voastră, noastră, meale, miei, noastre, meu, noștri</li>
+            <li>PRON: mă, eu, mine, noi, -mi, tu, m-, ne, mi-, voi</li>
+            <li>VERB: am, zic, știu, fac, duc, știm, rog, avem, văzuiu, dau</li>
+            <li>VERB-Fin: am, zic, știu, fac, duc, știm, rog, avem, văzuiu, dau</li>
           </ul>
         </li>
       </ul>
@@ -2156,11 +2156,11 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>AUX: ai, veți, ați, ești, vei, sînteți, fiți, fii, veri, -ai</li>
+            <li>AUX: ai, ești, veți, ați, vei, sînteți, -ai, -i, fii, fiți</li>
             <li>AUX-Fin: ai, fiți, ești, fireți, poți, putuși, veți</li>
-            <li>DET: tău, ta, voastre, tale, vostru, tăi, voștri, -ta, înșivă, -tău</li>
-            <li>PRON: voi, vă, voao, te, tine, -ți, ție, te-, -vă, -te</li>
-            <li>VERB-Fin: știți, faceți, faci, ai, aveți, dă, vino, ia, vezi, pasă</li>
+            <li>DET: ta, tău, tale, voastre, vostru, tăi, voștri, -ta, înșivă, -tău</li>
+            <li>PRON: te, voi, vă, voao, tine, -ț, te-, ț, ție, -te</li>
+            <li>VERB-Fin: știți, faci, dai, dă, faceți, ai, ia, scoală, știi, aveți</li>
           </ul>
         </li>
       </ul>
@@ -2188,12 +2188,12 @@ udver: '2'
         <li>3
           <ul>
             <li>ADV: cît</li>
-            <li>AUX: au, va, -i, iaste, -au, vor, e, a, era, sînt</li>
+            <li>AUX: au, va, -i, -au, iaste, vor, a, era, e, sînt</li>
             <li>AUX-Fin: era, vor, e, iaste, -i, fie, poate, -s, fu, au</li>
-            <li>DET: toată, toate, ce, multe, tot, toți, său, sa, multă, acel</li>
-            <li>PRON: să, ce, lui, el, carele, -i, ei, lor, -l, se</li>
-            <li>VERB: zise, era, are, zice, face, facă, dzise, dea, iaste, zisără</li>
-            <li>VERB-Fin: zise, era, are, zice, face, facă, dzise, dea, iaste, zisără</li>
+            <li>DET: toată, tot, toate, ce, multe, său, sa, toți, multă, acel</li>
+            <li>PRON: să, ce, lui, el, -i, lor, carele, -l, ei, le</li>
+            <li>VERB: zise, are, era, zice, facă, face, dea, ia, dzise, iaste</li>
+            <li>VERB-Fin: zise, are, era, zice, facă, face, dea, ia, dzise, iaste</li>
             <li>VERB-Part: va</li>
           </ul>
         </li>
@@ -2244,7 +2244,7 @@ udver: '2'
       <ul>
         <li>Form
           <ul>
-            <li>PRON: însul, măriei, Măriia, dumitale, mării, dumneavoastră, dânșâi, sfinției, Ți-, -ți</li>
+            <li>PRON: svinția, însul, măriei, înșii, Măriia, dumitale, mării, svințiile, dumneavoastră, dânsul</li>
           </ul>
         </li>
       </ul>
@@ -2289,8 +2289,8 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>DET: nostru, voastră, voastre, noastră, vostru, noastre, voștri, noștri, noștrii, vostră</li>
-            <li>PRON: nostru, noastră, noastre, voastră, voastre, noștri, vostru</li>
+            <li>DET: nostru, voastră, voastre, noastră, vostru, noastre, noștri, voștri, miei, noștrii</li>
+            <li>PRON: nostru, noastră, noastre, voastră, noștri, voastre, vostru</li>
           </ul>
         </li>
       </ul>
@@ -2320,8 +2320,8 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>DET: mieu, mea, tău, său, ta, sa, sale, meale, tale, miei</li>
-            <li>PRON: ta, mea, meu, tău, meale, sale, tăi, mieu, sa, săi</li>
+            <li>DET: ta, mieu, tău, mea, său, sa, tale, sale, -său, meale</li>
+            <li>PRON: ta, mea, tău, meu, săi, meale, sale, tăi, sa, mieu</li>
           </ul>
         </li>
       </ul>
@@ -2400,7 +2400,7 @@ udver: '2'
           <ul>
             <li>Prep
               <ul>
-                <li>ADP: de, în, pre, cu, la, ca, din, pentru, întru, den</li>
+                <li>ADP: de, în, cu, la, pre, ca, din, pe, pentru, întru</li>
               </ul>
             </li>
           </ul>
@@ -2444,9 +2444,9 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADP: din, pentru, den, după, pren, prin, pînă, pentr-, despre, cătră</li>
+                <li>ADP: din, pentru, den, după, prin, preste, pren, pentr-, pînă, cătră</li>
                 <li>ADV: nece</li>
-                <li>CCONJ: nece, deci, nici, nice, Decii, dece, ce, neci, deacii, dară</li>
+                <li>CCONJ: nece, deci, nice, dece, nici, Decii, ce, neci, deacii, dară</li>
                 <li>SCONJ: deaca, căce, dacă, căci, deca, ca, pentru, daca, încît, deși</li>
               </ul>
             </li>
@@ -2496,7 +2496,7 @@ udver: '2'
           <ul>
             <li>Digit
               <ul>
-                <li>NUM: 2, 7, 3, 4, 1, 12, 6, 5, 8, 10</li>
+                <li>NUM: 2, 7, 3, 4, 1, 12, 5, 6, 8, 10</li>
               </ul>
             </li>
             <li>Roman
@@ -2506,7 +2506,7 @@ udver: '2'
             </li>
             <li>Word
               <ul>
-                <li>NUM: trei, doi, doao, întîiu, treia, cinci, patru, două, mii, șapte</li>
+                <li>NUM: trei, doi, doao, întîiu, patru, cinci, treia, mii, două, șapte</li>
               </ul>
             </li>
           </ul>
@@ -2568,12 +2568,12 @@ udver: '2'
           <ul>
             <li>Inf
               <ul>
-                <li>PART: a, a-, n-, -a</li>
+                <li>PART: a, -a, a-, n-</li>
               </ul>
             </li>
             <li>Sub
               <ul>
-                <li>PART: să, să-, s-, se, -să, a, sâ, ca, s</li>
+                <li>PART: să, să-, s-, se, sâ, -să, a, s, ca, sa</li>
               </ul>
             </li>
           </ul>
@@ -2614,13 +2614,13 @@ udver: '2'
           <ul>
             <li>Postnom
               <ul>
-                <li>DET: acesta, acela, aceștiia, cela, aceia, aceasta, acestuia, aceaia, acealea, aceluia</li>
+                <li>DET: acesta, acela, aceștiia, cela, aceasta, aceia, acestuia, aceaia, acealea, ceia</li>
                 <li>PRON: ceia, celora</li>
               </ul>
             </li>
             <li>Prenom
               <ul>
-                <li>DET: acel, această, acest, ceastă, cest, acei, aceastea, aceaste, același, aceasta</li>
+                <li>DET: acel, această, acest, ceastă, acei, acea, cest, aceastea, aceste, aceaste</li>
                 <li>PRON: acea</li>
               </ul>
             </li>
@@ -2667,12 +2667,12 @@ udver: '2'
           <ul>
             <li>Strong
               <ul>
-                <li>PRON: el, lor, voi, mine, ei, voao, lui, noi, tine, mie</li>
+                <li>PRON: el, lor, mine, voi, ei, voao, lui, tine, noi, mie</li>
               </ul>
             </li>
             <li>Weak
               <ul>
-                <li>PRON: să, -i, -l, se, o, mă, s, vă, le, te</li>
+                <li>PRON: să, -i, -l, mă, le, s, o, se, te, vă</li>
               </ul>
             </li>
           </ul>
@@ -2775,69 +2775,73 @@ udver: '2'
           <ul>
             <li>VERB--PRON-Acc,Nom (1)</li>
             <li>VERB--PRON-Nom (1)</li>
-            <li>VERB-Fin--NOUN-Acc,Nom (5082)</li>
+            <li>VERB-Fin--NOUN-Acc,Nom (6579)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca) (1)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca)-ADP(la) (1)</li>
+            <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (1)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(către) (1)</li>
-            <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (3)</li>
+            <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (4)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(din) (2)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(dintre) (1)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(drept) (1)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(fără) (2)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(la) (2)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(moșie) (1)</li>
-            <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (1)</li>
+            <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (3)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(pentru) (1)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(în) (3)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(întru) (2)</li>
-            <li>VERB-Fin--NOUN-Dat,Gen (15)</li>
+            <li>VERB-Fin--NOUN-Dat,Gen (24)</li>
             <li>VERB-Fin--NOUN-Voc (2)</li>
-            <li>VERB-Fin--PRON (37)</li>
-            <li>VERB-Fin--PRON-Acc (31)</li>
-            <li>VERB-Fin--PRON-Acc,Nom (4208)</li>
+            <li>VERB-Fin--PRON (38)</li>
+            <li>VERB-Fin--PRON-Acc (32)</li>
+            <li>VERB-Fin--PRON-Acc,Nom (4928)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(ca) (1)</li>
-            <li>VERB-Fin--PRON-Acc,Nom-ADP(cu) (2)</li>
-            <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (8)</li>
+            <li>VERB-Fin--PRON-Acc,Nom-ADP(cu) (4)</li>
+            <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (12)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(din) (1)</li>
-            <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (3)</li>
-            <li>VERB-Fin--PRON-Dat (4)</li>
-            <li>VERB-Fin--PRON-Dat,Gen (9)</li>
-            <li>VERB-Fin--PRON-Gen (10)</li>
-            <li>VERB-Fin--PRON-Nom (633)</li>
-            <li>VERB-Ger--NOUN-Acc,Nom (368)</li>
+            <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (5)</li>
+            <li>VERB-Fin--PRON-Dat (14)</li>
+            <li>VERB-Fin--PRON-Dat,Gen (11)</li>
+            <li>VERB-Fin--PRON-Gen (13)</li>
+            <li>VERB-Fin--PRON-Nom (711)</li>
+            <li>VERB-Ger--NOUN-Acc,Nom (418)</li>
+            <li>VERB-Ger--NOUN-Dat,Gen (1)</li>
             <li>VERB-Ger--NOUN-Voc (1)</li>
             <li>VERB-Ger--PRON (3)</li>
             <li>VERB-Ger--PRON-Acc (1)</li>
-            <li>VERB-Ger--PRON-Acc,Nom (167)</li>
+            <li>VERB-Ger--PRON-Acc,Nom (170)</li>
             <li>VERB-Ger--PRON-Gen (1)</li>
-            <li>VERB-Ger--PRON-Nom (61)</li>
-            <li>VERB-Inf--NOUN-Acc,Nom (941)</li>
-            <li>VERB-Inf--NOUN-Acc,Nom-ADP(cu) (1)</li>
+            <li>VERB-Ger--PRON-Nom (62)</li>
+            <li>VERB-Inf--NOUN-Acc,Nom (1283)</li>
+            <li>VERB-Inf--NOUN-Acc,Nom-ADP(cu) (2)</li>
             <li>VERB-Inf--NOUN-Acc,Nom-ADP(de) (1)</li>
             <li>VERB-Inf--NOUN-Acc,Nom-ADP(din) (1)</li>
             <li>VERB-Inf--NOUN-Acc,Nom-ADP(la) (2)</li>
             <li>VERB-Inf--NOUN-Acc,Nom-ADP(împotriva) (1)</li>
             <li>VERB-Inf--NOUN-Acc,Nom-ADP(întru) (1)</li>
-            <li>VERB-Inf--NOUN-Dat,Gen (4)</li>
+            <li>VERB-Inf--NOUN-Dat,Gen (6)</li>
             <li>VERB-Inf--PRON (10)</li>
-            <li>VERB-Inf--PRON-Acc (6)</li>
-            <li>VERB-Inf--PRON-Acc,Nom (761)</li>
+            <li>VERB-Inf--PRON-Acc (10)</li>
+            <li>VERB-Inf--PRON-Acc,Nom (868)</li>
             <li>VERB-Inf--PRON-Acc,Nom-ADP(pe) (1)</li>
-            <li>VERB-Inf--PRON-Dat (1)</li>
+            <li>VERB-Inf--PRON-Dat (11)</li>
             <li>VERB-Inf--PRON-Dat,Gen (1)</li>
-            <li>VERB-Inf--PRON-Gen (1)</li>
-            <li>VERB-Inf--PRON-Nom (166)</li>
-            <li>VERB-Part--NOUN-Acc,Nom (1108)</li>
-            <li>VERB-Part--NOUN-Acc,Nom-ADP(din) (1)</li>
+            <li>VERB-Inf--PRON-Gen (2)</li>
+            <li>VERB-Inf--PRON-Nom (194)</li>
+            <li>VERB-Part--NOUN-Acc,Nom (1662)</li>
+            <li>VERB-Part--NOUN-Acc,Nom-ADP(din) (2)</li>
             <li>VERB-Part--NOUN-Acc,Nom-ADP(în) (1)</li>
-            <li>VERB-Part--NOUN-Dat,Gen (5)</li>
-            <li>VERB-Part--NOUN-Voc (1)</li>
+            <li>VERB-Part--NOUN-Dat,Gen (10)</li>
+            <li>VERB-Part--NOUN-Voc (2)</li>
             <li>VERB-Part--PRON (2)</li>
             <li>VERB-Part--PRON-Acc (9)</li>
-            <li>VERB-Part--PRON-Acc,Nom (821)</li>
+            <li>VERB-Part--PRON-Acc,Nom (998)</li>
+            <li>VERB-Part--PRON-Acc,Nom-ADP(cu) (1)</li>
+            <li>VERB-Part--PRON-Dat (7)</li>
             <li>VERB-Part--PRON-Dat,Gen (5)</li>
             <li>VERB-Part--PRON-Gen (2)</li>
-            <li>VERB-Part--PRON-Nom (164)</li>
+            <li>VERB-Part--PRON-Nom (192)</li>
           </ul>
         </li>
       </ul>
@@ -2923,20 +2927,20 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Acc,Nom (5542)</li>
-            <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (2)</li>
+            <li>VERB-Fin--NOUN-Acc,Nom (7484)</li>
+            <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (3)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (3)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(după) (3)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(fără) (1)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (3)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(în) (1)</li>
-            <li>VERB-Fin--NOUN-Dat,Gen (12)</li>
+            <li>VERB-Fin--NOUN-Dat,Gen (19)</li>
             <li>VERB-Fin--NOUN-Dat,Gen-ADP(în) (1)</li>
             <li>VERB-Fin--NOUN-Dat,Gen-ADP(înaintea) (1)</li>
             <li>VERB-Fin--NOUN-Voc (5)</li>
             <li>VERB-Fin--PRON (3)</li>
-            <li>VERB-Fin--PRON-Acc (2867)</li>
-            <li>VERB-Fin--PRON-Acc,Nom (1102)</li>
+            <li>VERB-Fin--PRON-Acc (3975)</li>
+            <li>VERB-Fin--PRON-Acc,Nom (1308)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (2)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(din) (1)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(fără) (1)</li>
@@ -2946,51 +2950,54 @@ udver: '2'
             <li>VERB-Fin--PRON-Acc-ADP(de) (1)</li>
             <li>VERB-Fin--PRON-Acc-ADP(după) (1)</li>
             <li>VERB-Fin--PRON-Acc-ADP(pe) (5)</li>
-            <li>VERB-Fin--PRON-Dat (62)</li>
-            <li>VERB-Fin--PRON-Dat,Gen (7)</li>
+            <li>VERB-Fin--PRON-Dat (131)</li>
+            <li>VERB-Fin--PRON-Dat,Gen (9)</li>
             <li>VERB-Fin--PRON-Gen (8)</li>
             <li>VERB-Fin--PRON-Nom (12)</li>
-            <li>VERB-Ger--NOUN-Acc,Nom (714)</li>
+            <li>VERB-Ger--NOUN-Acc,Nom (890)</li>
             <li>VERB-Ger--NOUN-Acc,Nom-ADP(drept) (1)</li>
             <li>VERB-Ger--NOUN-Acc,Nom-ADP(pe) (1)</li>
             <li>VERB-Ger--NOUN-Acc,Nom-ADP(spre) (1)</li>
             <li>VERB-Ger--NOUN-Acc,Nom-ADP(în) (1)</li>
             <li>VERB-Ger--NOUN-Acc,Nom-ADP(întru) (1)</li>
+            <li>VERB-Ger--NOUN-Dat,Gen (3)</li>
             <li>VERB-Ger--NOUN-Voc (2)</li>
-            <li>VERB-Ger--PRON-Acc (217)</li>
-            <li>VERB-Ger--PRON-Acc,Nom (134)</li>
+            <li>VERB-Ger--PRON-Acc (255)</li>
+            <li>VERB-Ger--PRON-Acc,Nom (137)</li>
             <li>VERB-Ger--PRON-Acc,Nom-ADP(de) (1)</li>
             <li>VERB-Ger--PRON-Acc,Nom-ADP(din) (1)</li>
-            <li>VERB-Ger--PRON-Dat (13)</li>
+            <li>VERB-Ger--PRON-Dat (14)</li>
             <li>VERB-Ger--PRON-Dat,Gen (1)</li>
-            <li>VERB-Inf--NOUN-Acc,Nom (1088)</li>
+            <li>VERB-Inf--NOUN-Acc,Nom (1464)</li>
             <li>VERB-Inf--NOUN-Acc,Nom-ADP(cu) (1)</li>
             <li>VERB-Inf--NOUN-Acc,Nom-ADP(de) (1)</li>
-            <li>VERB-Inf--NOUN-Dat,Gen (6)</li>
+            <li>VERB-Inf--NOUN-Dat,Gen (9)</li>
             <li>VERB-Inf--PRON (3)</li>
-            <li>VERB-Inf--PRON-Acc (597)</li>
-            <li>VERB-Inf--PRON-Acc,Nom (270)</li>
+            <li>VERB-Inf--PRON-Acc (855)</li>
+            <li>VERB-Inf--PRON-Acc,Nom (305)</li>
             <li>VERB-Inf--PRON-Acc,Nom-ADP(cu) (1)</li>
             <li>VERB-Inf--PRON-Acc,Nom-ADP(de) (1)</li>
             <li>VERB-Inf--PRON-Acc,Nom-ADP(pe) (1)</li>
             <li>VERB-Inf--PRON-Acc-ADP(pe) (1)</li>
-            <li>VERB-Inf--PRON-Dat (23)</li>
-            <li>VERB-Inf--PRON-Dat,Gen (2)</li>
+            <li>VERB-Inf--PRON-Dat (36)</li>
+            <li>VERB-Inf--PRON-Dat,Gen (3)</li>
             <li>VERB-Inf--PRON-Gen (3)</li>
             <li>VERB-Inf--PRON-Nom (5)</li>
-            <li>VERB-Part--NOUN-Acc,Nom (988)</li>
+            <li>VERB-Part--NOUN-Acc,Nom (1731)</li>
             <li>VERB-Part--NOUN-Acc,Nom-ADP(ca) (1)</li>
+            <li>VERB-Part--NOUN-Acc,Nom-ADP(cu) (1)</li>
+            <li>VERB-Part--NOUN-Acc,Nom-ADP(cu)-ADP(de) (1)</li>
             <li>VERB-Part--NOUN-Acc,Nom-ADP(de) (1)</li>
             <li>VERB-Part--NOUN-Acc,Nom-ADP(despre) (1)</li>
-            <li>VERB-Part--NOUN-Acc,Nom-ADP(până)-ADP(la) (1)</li>
-            <li>VERB-Part--NOUN-Dat,Gen (2)</li>
+            <li>VERB-Part--NOUN-Acc,Nom-ADP(până)-ADP(la) (2)</li>
+            <li>VERB-Part--NOUN-Dat,Gen (9)</li>
             <li>VERB-Part--NOUN-Voc (1)</li>
             <li>VERB-Part--PRON (1)</li>
-            <li>VERB-Part--PRON-Acc (899)</li>
-            <li>VERB-Part--PRON-Acc,Nom (353)</li>
-            <li>VERB-Part--PRON-Dat (34)</li>
+            <li>VERB-Part--PRON-Acc (1314)</li>
+            <li>VERB-Part--PRON-Acc,Nom (515)</li>
+            <li>VERB-Part--PRON-Dat (44)</li>
             <li>VERB-Part--PRON-Dat,Gen (6)</li>
-            <li>VERB-Part--PRON-Nom (8)</li>
+            <li>VERB-Part--PRON-Nom (10)</li>
           </ul>
         </li>
       </ul>
@@ -3085,10 +3092,10 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Acc,Nom (54)</li>
+            <li>VERB-Fin--NOUN-Acc,Nom (78)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(a) (4)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(al) (1)</li>
-            <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (2)</li>
+            <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (4)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (4)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(din) (1)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(drept) (1)</li>
@@ -3096,52 +3103,54 @@ udver: '2'
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (2)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(spre) (1)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(sub) (1)</li>
-            <li>VERB-Fin--NOUN-Dat,Gen (659)</li>
+            <li>VERB-Fin--NOUN-Acc,Nom-ADP(în) (2)</li>
+            <li>VERB-Fin--NOUN-Dat,Gen (756)</li>
             <li>VERB-Fin--NOUN-Dat,Gen-ADP(asupra) (1)</li>
             <li>VERB-Fin--NOUN-Dat,Gen-ADP(fără) (1)</li>
             <li>VERB-Fin--NOUN-Voc (11)</li>
-            <li>VERB-Fin--PRON-Acc (112)</li>
-            <li>VERB-Fin--PRON-Acc,Nom (30)</li>
+            <li>VERB-Fin--PRON-Acc (185)</li>
+            <li>VERB-Fin--PRON-Acc,Nom (43)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (4)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(drept) (1)</li>
-            <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (1)</li>
+            <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (2)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(întru) (1)</li>
             <li>VERB-Fin--PRON-Acc-ADP(spre) (1)</li>
-            <li>VERB-Fin--PRON-Dat (2900)</li>
-            <li>VERB-Fin--PRON-Dat,Gen (279)</li>
-            <li>VERB-Fin--PRON-Gen (103)</li>
+            <li>VERB-Fin--PRON-Dat (4105)</li>
+            <li>VERB-Fin--PRON-Dat,Gen (316)</li>
+            <li>VERB-Fin--PRON-Gen (107)</li>
             <li>VERB-Fin--PRON-Nom (9)</li>
-            <li>VERB-Ger--NOUN-Acc,Nom (4)</li>
+            <li>VERB-Ger--NOUN-Acc,Nom (5)</li>
             <li>VERB-Ger--NOUN-Acc,Nom-ADP(a) (1)</li>
             <li>VERB-Ger--NOUN-Acc,Nom-ADP(avea) (1)</li>
-            <li>VERB-Ger--NOUN-Dat,Gen (36)</li>
+            <li>VERB-Ger--NOUN-Dat,Gen (44)</li>
             <li>VERB-Ger--NOUN-Voc (1)</li>
-            <li>VERB-Ger--PRON-Acc (1)</li>
+            <li>VERB-Ger--PRON-Acc (5)</li>
             <li>VERB-Ger--PRON-Acc,Nom (1)</li>
-            <li>VERB-Ger--PRON-Dat (136)</li>
-            <li>VERB-Ger--PRON-Dat,Gen (20)</li>
-            <li>VERB-Ger--PRON-Gen (3)</li>
-            <li>VERB-Inf--NOUN-Acc,Nom (12)</li>
+            <li>VERB-Ger--PRON-Dat (175)</li>
+            <li>VERB-Ger--PRON-Dat,Gen (23)</li>
+            <li>VERB-Ger--PRON-Gen (4)</li>
+            <li>VERB-Inf--NOUN-Acc,Nom (23)</li>
             <li>VERB-Inf--NOUN-Acc,Nom-ADP(de) (3)</li>
-            <li>VERB-Inf--NOUN-Dat,Gen (104)</li>
-            <li>VERB-Inf--PRON-Acc (20)</li>
-            <li>VERB-Inf--PRON-Acc,Nom (9)</li>
-            <li>VERB-Inf--PRON-Dat (387)</li>
-            <li>VERB-Inf--PRON-Dat,Gen (70)</li>
-            <li>VERB-Inf--PRON-Gen (9)</li>
-            <li>VERB-Part--NOUN-Acc,Nom (11)</li>
+            <li>VERB-Inf--NOUN-Dat,Gen (125)</li>
+            <li>VERB-Inf--PRON-Acc (38)</li>
+            <li>VERB-Inf--PRON-Acc,Nom (11)</li>
+            <li>VERB-Inf--PRON-Dat (683)</li>
+            <li>VERB-Inf--PRON-Dat,Gen (83)</li>
+            <li>VERB-Inf--PRON-Gen (11)</li>
+            <li>VERB-Inf--PRON-Nom (1)</li>
+            <li>VERB-Part--NOUN-Acc,Nom (24)</li>
             <li>VERB-Part--NOUN-Acc,Nom-ADP(a) (1)</li>
             <li>VERB-Part--NOUN-Acc,Nom-ADP(de) (2)</li>
-            <li>VERB-Part--NOUN-Dat,Gen (131)</li>
+            <li>VERB-Part--NOUN-Dat,Gen (194)</li>
             <li>VERB-Part--NOUN-Dat,Gen-ADP(împotriva) (1)</li>
-            <li>VERB-Part--NOUN-Voc (2)</li>
+            <li>VERB-Part--NOUN-Voc (3)</li>
             <li>VERB-Part--PRON (1)</li>
-            <li>VERB-Part--PRON-Acc (50)</li>
-            <li>VERB-Part--PRON-Acc,Nom (8)</li>
+            <li>VERB-Part--PRON-Acc (89)</li>
+            <li>VERB-Part--PRON-Acc,Nom (16)</li>
             <li>VERB-Part--PRON-Acc,Nom-ADP(pe) (1)</li>
-            <li>VERB-Part--PRON-Dat (651)</li>
-            <li>VERB-Part--PRON-Dat,Gen (67)</li>
-            <li>VERB-Part--PRON-Gen (12)</li>
+            <li>VERB-Part--PRON-Dat (1167)</li>
+            <li>VERB-Part--PRON-Dat,Gen (75)</li>
+            <li>VERB-Part--PRON-Gen (14)</li>
           </ul>
         </li>
       </ul>
@@ -3255,7 +3264,7 @@ udver: '2'
       <h3>Reflexive Verbs</h3>
       
       <ul>
-        <li>This corpus contains 2221 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: arăta să, chema să, da să, face să, zice să, scula să, apropia să, cădea să, ruga să, întoarce să, umple să, duce să, cuveni să, mira să, duce mă, închina să, duce se, lepăda să, vindeca să, întâmpla să, afla să, tocmi să, vedea să, înturna să, aduna să, duce te, bucura să, socoti să, chema se, judeca să, teme să, cădea se, îndrepta să, dus s, sui să, părea să, închipui se, întoarce se, face se, dovedi să, despărți să, pune să, întoarce s, ține să, arăta s, ruga vă, scula s, strica să, asemăna să, boteza să</li>
+        <li>This corpus contains 2886 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: face să, arăta să, chema să, da să, zice să, scula să, întoarce să, ruga să, cădea să, apropia să, duce să, umple să, închina să, dus s, cuveni să, mira să, vedea să, duce mă, întoarce s, întâmpla să, bucura să, lepăda să, duce se, afla să, teme să, tocmi să, vindeca să, sui să, înturna să, aduna să, duce te, pune să, socoti să, ține să, chema se, judeca să, ruga mă, îndrepta să, înțelege să, cădea se, face s, părea să, ridica să, ruga vă, despărți să, închipui se, întoarce se, face se, strica să, dovedi să</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -3278,7 +3287,7 @@ udver: '2'
       <h3>Reflexive Passive</h3>
       
       <ul>
-        <li>This corpus contains 143 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: da să, face să, lua să, orândui să, vinde să, boteza să, chema să, ierta să, zice să, lăsa să, propovădui să, pune se, vesti să, arunca să, boteza mă, cere să, da -să, lua -să, vedea se, grăi să, ispiti să, naște să, omorî să, protimisi să, scrie să, turna se, tăia să, zălogi să, împărți să, ști să, adăuga să, cunoaște să, deschide să, erta să, ierta s-, lăsa -să, lăuda să, necinsti să, orîndui să, osândi să, pedepsi să, plăti să, preface să, risipi să, răstigni să, scoate să, strica să, trimite -să, vinde s, vărsa să</li>
+        <li>This corpus contains 143 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: da să, face să, lua să, orândui să, vinde să, boteza să, chema să, ierta să, zice să, lăsa să, propovădui să, pune se, vesti să, arunca să, boteza mă, cere să, da -să, lua -să, vedea se, grăi să, ispiti să, naște să, omorî să, protimisi să, scrie să, turna se, tăia să, zălogi să, împărți să, ști să, adăuga să, cunoaște să, deschide să, erta să, face s-, ierta s-, lăsa -să, lăuda să, necinsti să, orîndui să, osândi să, pedepsi să, plăti să, preface să, risipi să, răstigni să, scoate să, strica să, trimite -să, vinde s</li>
       </ul>
     </td>
     <td width="33%" valign="top">

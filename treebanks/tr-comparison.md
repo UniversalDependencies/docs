@@ -40,7 +40,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 1000 sentences, 16535 tokens and 16886 syntactic words.</li>
+      <li>This corpus contains 1000 sentences, 16536 tokens and 16882 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -57,7 +57,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 2178 tokens (13%) that are not followed by a space.</li>
+      <li>This corpus contains 2179 tokens (13%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -110,8 +110,8 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 351 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 277 types of multi-word tokens. Examples: arasındaki, sonraki, üzerindeki, bölgedeki, sahiptir, Üniversitesi'ndeki, önceki, aittir, ayındaki, değildi, dünyadaki, hakkındaki, ilgilidir, vardır, yaşındaki, yoksa, ABD'deki, Roma'daki, alandaki, buradaki, dolardır, dönemindeki, dışındaki, etrafındaki, gibiydi, görevdeki, göstergesidir, günümüzdeki, kıyısındaki, liderliğindeki, merkezdeki, tartışmalıdır, tümördür, vardı, yoktu, ülkedeki, 1912'deki, 1914'teki, 1996'daki, 2014'teki, ABD'deydi, Afrika'daki, Akdeniz'deki, Amerika'daki, Avrasya'daki, Avrupa'daki, Balkanlar'daki, Batı'daki, Brexit'teki, Cambridgeshire'deki.</li>
+      <li>This corpus contains 346 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 275 types of multi-word tokens. Examples: arasındaki, sonraki, üzerindeki, bölgedeki, sahiptir, Üniversitesi'ndeki, aittir, ayındaki, değildi, dünyadaki, hakkındaki, ilgilidir, vardır, yaşındaki, yoksa, ABD'deki, Roma'daki, alandaki, buradaki, dolardır, dönemindeki, dışındaki, etrafındaki, gibiydi, görevdeki, göstergesidir, kıyısındaki, liderliğindeki, merkezdeki, tartışmalıdır, tümördür, vardı, yoktu, önceki, ülkedeki, 1912'deki, 1914'teki, 1996'daki, 2014'teki, ABD'deydi, Afrika'daki, Akdeniz'deki, Amerika'daki, Avrasya'daki, Avrupa'daki, Balkanlar'daki, Batı'daki, Brexit'teki, Cambridgeshire'deki, Capua'daki.</li>
       </ul>
     </td>
   </tr>
@@ -164,7 +164,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 50 lemmas tagged as pronouns (PRON): aynısı, bazıları, bazılarımız, bazısı, başkaları, başkası, ben, bir, birbir, biri, birimiz, birşey, biz, bizler, bu, bura, böylesi, hangileri, hangileriniz, hanginiz, hangisi, hani, hepimiz, hepsi, herkes, herşey, hiçbiri, hiçbirimiz, hiçbiriniz, ikisi, insan, kendi, kim, kiminiz, kimse, ne, nere, o, ora, sen, siz, sizler, yarısı, yenisi, çoğu, öbürü, öteki, şişmanın, şu, şura</li>
+      <li>This corpus contains 51 lemmas tagged as pronouns (PRON): aynısı, bazıları, bazılarımız, bazısı, başkaları, başkası, ben, bir, birbir, biri, birimiz, birşey, biz, bizler, bu, bura, böylesi, hangileri, hangileriniz, hanginiz, hangisi, hani, hepimiz, hepsi, herkes, herşey, hiçbiri, hiçbirimiz, hiçbiriniz, ikisi, insan, kendi, kim, kiminiz, kimse, ne, nere, o, ora, sen, siz, sizler, yarısı, yenisi, çok, çoğu, öbürü, öteki, şişmanın, şu, şura</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -181,7 +181,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 28 lemmas tagged as determiners (DET): aynı, bazı, başka, bir, biraz, birbir, birkaç, birtakım, birçok, bu, bunca, böyle, bütün, diğer, hangi, her, herhangi, hiç, hiçbir, iki, kimi, ne, o, tek, çok, öbür, öyle, şu</li>
+      <li>This corpus contains 27 lemmas tagged as determiners (DET): aynı, bazı, başka, bir, biraz, birkaç, birtakım, birçok, bu, bunca, böyle, bütün, diğer, hangi, her, herhangi, hiç, hiçbir, iki, kimi, ne, o, tek, çok, öbür, öyle, şu</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -191,14 +191,14 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 21 lemmas tagged as determiners (DET): bazı, başka, bir, birkaç, birtakım, birçok, bu, diğer, hangi, hemen, her, herhangi, hiçbir, kaç, ne, o, tüm, çok, çoğu, öte, şu</li>
+      <li>This corpus contains 24 lemmas tagged as determiners (DET): %, 50, _, bazı, başka, bir, birkaç, birtakım, birçok, bu, diğer, hangi, her, herhangi, hiçbir, kaç, ne, o, tüm, yüz, çok, çoğu, öte, şu</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: bir, birbir, bu, ne, o, şu</li>
+      <li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: bir, bu, ne, o, çok, şu</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -208,7 +208,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: bazı, bir, bu, diğer, hangi, ne, o, çok, şu</li>
+      <li>Out of the above, 10 lemmas occurred sometimes as PRON and sometimes as DET: _, bazı, bir, bu, diğer, hangi, ne, o, çok, şu</li>
       </ul>
     </td>
   </tr>
@@ -225,7 +225,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 38 lemmas tagged as auxiliaries (AUX): _, al, aldığı, bil, bul, bırak, bırakılı, değil, dur, dön, düş, et, eğillerdi, gel, getir, geçen, git, gör, görün, hal, hisset, i, izle, kal, karşıla, kıl, mi, mu, mı, ol, say, seç, seçilir, taşı, tut, çalış, çevir, çık</li>
+      <li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): _, değil, i, mi, ol</li>
       </ul>
     </td>
   </tr>
@@ -241,7 +241,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 27 lemmas occurred sometimes as AUX and sometimes as VERB: _, al, bil, bul, bırak, değil, dur, dön, düş, et, gel, getir, git, gör, görün, i, izle, kal, karşıla, ol, say, seç, seçilir, taşı, tut, çalış, çık</li>
+      <li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: _, değil, i, ol</li>
       </ul>
     </td>
   </tr>
@@ -288,7 +288,7 @@ udver: '2'
         <li>Conv
         <ul>
           <li>ADV: olmadan, ederken, akarken, bulunmadan, durmadan, düşünmeden, görünürken, çekerken, İyileşerek</li>
-          <li>AUX: yken, ken</li>
+          <li>AUX: yken, ken, olmadan</li>
           <li>NOUN: etmeden, olmadan, oluşmadan, yapılmadan</li>
           <li>VERB: etkilenmeden</li>
         </ul>
@@ -326,9 +326,9 @@ udver: '2'
         <li>Ger
         <ul>
           <li>ADJ: kalma</li>
-          <li>AUX: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, etmesine, itmeye, olmaktan</li>
+          <li>AUX: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, itmeye, olmaktan, olmaları</li>
           <li>NOUN: büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, çıkmaya, alma, etmesi, etmesini</li>
-          <li>VERB: beklemeye, gerçekleştirmesi, uzaklaştırmaya</li>
+          <li>VERB: beklemeye, etmesine, gerçekleştirmesi, uzaklaştırmaya, çıkmaya</li>
         </ul>
         </li>
       </ul>
@@ -482,11 +482,12 @@ udver: '2'
         <li>Plur
           <ul>
             <li>ADJ: destekler, beklenmedik</li>
-            <li>AUX: olursak, olabilirler, değillerdir, diniz, kalmışlardır, kalıyoruz, karşıladılar, ler, musunuz, olabileceklerini</li>
+            <li>ADV: açıklamaların, ülkelerden</li>
+            <li>AUX: olabilirler, değillerdir, diniz, ler, musunuz, olabileceklerini, olduklarında, olmalısınız, olurlar, olursak</li>
             <li>NOUN: insanlar, güçler, yıllar, erkekler, yatırımcıların, yıllarda, Demokratlar, aylarında, bölgeler, devletleri</li>
             <li>PRON: bunlar, bunların, bunlardan, bazıları, diğerlerinin, kendilerini, şeyler, şunları, Kendilerine, bazılarını</li>
             <li>PROPN: Romalılar, Çinliler, Alpler, Atinalılar, Fenikeliler, Francisco'luların, Malenezyalıların, Meksikalılar, Spartalılar, Aborijinleri</li>
-            <li>VERB: vurgular, verdiler, alacaklar, düşünüyoruz, ediyorlar, etkilenmişlerdir, ettiler, raporlar, adlandırmışlardır, araştırıyorlar</li>
+            <li>VERB: vurgular, verdiler, alacaklar, düşünüyoruz, ediyorlar, etkilenmişlerdir, ettiler, kalmışlardır, olursak, raporlar</li>
             <li>X: lerin</li>
           </ul>
         </li>
@@ -505,7 +506,6 @@ udver: '2'
             <li>AUX-Fin: değil, dı, oldu, olacak, mış, miş, ydı, dır, tı, ydi</li>
             <li>AUX-Part: olduğunu, olduğu, olacağı, olacağımızı, olduktan, olduğuna, olmadığın, bulunduğumuza, olacağına, olacağını</li>
             <li>AUX-Vnoun: olmak, olması, olmamız, olma, olmasına, olmasını</li>
-            <li>DET: bir, bu, o, her, bütün, şu, birkaç, bazı, hiçbir, başka</li>
             <li>NOUN: gün, bugün, şey, evde, saat, ev, çocuk, yıl, dün, kız</li>
             <li>NUM: altıda, ikide, 9’da, biri, dörde, dördün, kaçta, 1994’te, 5’te, buçukta</li>
             <li>PRON: ben, sen, ne, burada, bana, benim, o, biz, kendi, senin</li>
@@ -546,22 +546,22 @@ udver: '2'
             <li>ADJ: büyük, yeni, son, sahip, fazla, ilk, aynı, iyi, ilgili, yüksek</li>
             <li>ADJ-Part: gerçekleştirilen, e​v​c​i​l​l​e​ş​t​i​r​i​l​e​n​l​e​ş​t​i​r​i​l​e​n, gerçekleşen, gerçekleştiren, sertleşen, zorlaştıran</li>
             <li>ADP: doğru, ilgili, dahil, sıra, adına, ki</li>
-            <li>ADV: açıkça, fazla, iyi, böyle, iyice, neden, yeni, az, ziyade, değil</li>
+            <li>ADV: açıkça, fazla, böyle, iyice, neden, yeni, az, iyi, ziyade, değil</li>
             <li>ADV-Conv: ederken, akarken, görünürken, çekerken</li>
-            <li>AUX: olan, dır, dir, değil, oldu, olduğunu, ydı, ydi, olduğu, dı</li>
+            <li>AUX: olan, dır, dir, değil, oldu, ise, olduğunu, ydı, ydi, olduğu</li>
             <li>CCONJ: and</li>
             <li>DET: bir, bu, her, diğer, birçok, bazı, tüm, o, birkaç, şu</li>
-            <li>NOUN: yıl, kuzey, güney, arasında, tarafından, yer, hava, kez, savaş, M.Ö.</li>
+            <li>NOUN: yıl, kuzey, güney, tarafından, yer, arasında, hava, kez, savaş, M.Ö.</li>
             <li>NOUN-Ger: edilmesine, edilmesini, f​e​d​e​r​a​l​l​e​ş​t​i​r​i​l​m​e​s​i​n​i, gerçekleştirmekten, kentleşme, kolaylaştırmamız, sömürgeleştirme, yoğunlaşmaya, yıkılmasıyla, çekilme</li>
             <li>NOUN-Part: b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı, gerçekleştiği, gerçekleştiğinde, ölümsüzleşeceği</li>
-            <li>NUM: iki, üç, on, milyon, altı, 10, bir, dört, milyar, 1</li>
+            <li>NUM: iki, üç, on, bir, milyon, altı, 10, dört, milyar, 1</li>
             <li>PRON: bu, kendi, Bununla, biri, bunu, bunun, onu, ne, o, buna</li>
             <li>PROPN: İngiliz, Çin, Alman, Amerika, ABD, Hong, Akdeniz, Avrupa, Fransız, Hint</li>
-            <li>PUNCT: 1794), dedi, reddetti</li>
-            <li>VERB: dedi, etti, ise, başladı, söyledi, çıktı, verdi, ediyor, geldi, aldı</li>
+            <li>PUNCT: 1794), dedi</li>
+            <li>VERB: dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, geldi, aldı</li>
             <li>VERB-Ger: gerçekleştirmesi, uzaklaştırmaya</li>
             <li>VERB-Part: gerçekleşen</li>
-            <li>X: Go, H, House'da, Son, in, 'da, Buck, Golden, Her, Knuck</li>
+            <li>X: Go, H, Son, in, 'da, Buck, Golden, Her, Knuck</li>
           </ul>
         </li>
       </ul>
@@ -624,9 +624,10 @@ udver: '2'
           <ul>
             <li>ADJ: sıradan</li>
             <li>ADP: ardından</li>
+            <li>ADV: ülkelerden</li>
             <li>AUX: olduğundan, olmadığından, olmaktan</li>
             <li>AUX-Ger: olmaktan</li>
-            <li>NOUN: tarafından, azından, yüzden, açısından, bakımından, yüzyıldan, görevden, ölümünden, ülkelerden, üzerinden</li>
+            <li>NOUN: tarafından, azından, yüzden, açısından, bakımından, yüzyıldan, görevden, ölümünden, üzerinden, 1960'lardan</li>
             <li>NOUN-Ger: başlamasından, devralınmasından, değiştirmesinden, gelmesinden, gerilemesinden, gerçekleştirmekten, geçirmekten, geçmesinden, gönderebilmekten, görmekten</li>
             <li>PRON: bunlardan, kendinden, Senden, birbirinden, bundan</li>
             <li>PROPN: Fransa'dan, Meiji'den, AB'den, Akhalar'dan, Avery'den, Balkanlar'dan, Danimarkacadan, Fince'den, Holden'den, Kanada'dan</li>
@@ -677,13 +678,14 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>AUX: olduğunu, olacağını, olmadığını, olabileceğini, edildiğini, olabileceklerini, olmayacağını, olmayı</li>
+            <li>AUX: olduğunu, olacağını, olmadığını, olabileceğini, olabileceklerini, olmayacağını, olmayı</li>
             <li>AUX-Ger: olmayı</li>
             <li>DET: çoğu</li>
-            <li>NOUN: olduğunu, gerektiğini, bölümünü, kişiyi, durumu, dünyayı, etmesini, ihtimalini, planını, verdiğini</li>
+            <li>NOUN: gerektiğini, olduğunu, bölümünü, kişiyi, durumu, dünyayı, etmesini, ihtimalini, planını, verdiğini</li>
             <li>NOUN-Ger: etmesini, almayı, etmeyi, çalışmasını, çalışmayı, almamasını, almasını, atanmasını, ayrılmayı, açıklamasını</li>
             <li>PRON: bunu, onu, kendisini, bizi, kendilerini, çoğunu, burayı, kendini, şunları, bazılarını</li>
             <li>PROPN: Antarktika'yı, Moravia'yı, Abakumov'u, Akdeniz'i, Almanya'yı, Andy'yi, Angel'i, Anshi'yi, Avrupa'yı, Avusturya'yı</li>
+            <li>VERB: edildiğini</li>
             <li>X: Heart"ı</li>
           </ul>
         </li>
@@ -698,7 +700,6 @@ udver: '2'
             <li>ADP: gibime</li>
             <li>AUX-Part: olduğuna, bulunduğumuza, olacağına</li>
             <li>AUX-Vnoun: olmamalarına, olmasına</li>
-            <li>DET: çoğuna</li>
             <li>NOUN: eve, okula, sokağa, akşama, masaya, sana, sinemaya, sınava, yere, işe</li>
             <li>NUM: dörde, ikiye, yediye, 6.30’a, bire, milyona</li>
             <li>PRON: bana, ona, oraya, sana, nereye, size, bize, buraya, kendine, kendisine</li>
@@ -732,13 +733,15 @@ udver: '2'
         <li>Dat
           <ul>
             <li>ADP: adına</li>
-            <li>AUX: olmasına, olmaya, olduğuna, aldığına, etmesine, hale, itmeye, sayıldığına, çıkmaya</li>
-            <li>AUX-Ger: olmasına, olmaya, etmesine, itmeye, çıkmaya</li>
+            <li>ADV: hale, yerine</li>
+            <li>AUX: olmasına, olmaya, olduğuna, itmeye</li>
+            <li>AUX-Ger: olmasına, olmaya, itmeye</li>
             <li>NOUN: ortaya, başına, ele, yerine, hale, yere, altına, haline, yılına, araya</li>
             <li>NOUN-Ger: etmeye, çıkmaya, almaya, bozulmaya, kalmasına, koymaya, kullanmaya, kurmaya, olmasına, oluşturmasına</li>
             <li>PRON: buna, ona, birbirine, bize, buraya, Kendilerine, Size, birine, bunlara, kendisine</li>
             <li>PROPN: Rusya'ya, İtalya'ya, Trump'a, ABD'ye, Agora'ya, Ahit'e, Albany'ye, Amerika'ya, Angeles'a, Asya'ya</li>
-            <li>VERB-Ger: beklemeye, uzaklaştırmaya</li>
+            <li>VERB: aldığına, beklemeye, etmesine, sayıldığına, uzaklaştırmaya, çıkmaya</li>
+            <li>VERB-Ger: beklemeye, etmesine, uzaklaştırmaya, çıkmaya</li>
             <li>X: Mps'ye</li>
           </ul>
         </li>
@@ -808,7 +811,8 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>AUX: olmasının, olacağının, olduğunun, olmanın</li>
+            <li>ADV: açıklamaların</li>
+            <li>AUX: olmasının, olduğunun, olmanın</li>
             <li>AUX-Ger: olmasının, olmanın</li>
             <li>NOUN: savaşın, yatırımcıların, yüzyılın, bölgenin, Savaşı'nın, alanlarının, bankanın, devletin, dönemin, dünyanın</li>
             <li>NOUN-Ger: alınmasının, atılmasının, basmasının, edilmesinin, etmenin, etmesinin, geçirmesinin, kalmasının, saldırmanın, sevmelerinin</li>
@@ -854,9 +858,9 @@ udver: '2'
       <ul>
         <li>Ins
           <ul>
-            <li>AUX-Ger: olmakla, olmasıyla</li>
+            <li>AUX-Ger: olmakla</li>
             <li>NOUN: nedeniyle, nedenle, çoğunlukla, ihtimalle, kesinlikle, başarıyla, hızla, kıyasla, kızla, olasılıkla</li>
-            <li>NOUN-Ger: canlandırmakla, ermesiyle, etmesiyle, girmekle, hesaplamakla, incelenmesiyle, kurulmasıyla, nitelendirmesiyle, tasarlamakla, toplanmasıyla</li>
+            <li>NOUN-Ger: canlandırmakla, ermesiyle, etmesiyle, girmekle, hesaplamakla, incelenmesiyle, kurulmasıyla, nitelendirmesiyle, olmasıyla, tasarlamakla</li>
             <li>PRON: Bununla, onunla, birbiriyle, biriyle, burayla, kendisiyle, onlarla</li>
             <li>PROPN: Arnavutluk'la, Britanya'yla, Douglas'la, Eagle'la, Horton'la, Plantagenet'le, Records'la</li>
           </ul>
@@ -900,14 +904,16 @@ udver: '2'
       <ul>
         <li>Loc
           <ul>
-            <li>ADP: sonunda</li>
-            <li>ADV: gelindiğinde</li>
-            <li>AUX: edildiğinde, olduklarında, olduğunda</li>
-            <li>NOUN: arasında, şekilde, yılında, konusunda, yüzde, üzerinde, altında, hakkında, sayıda, zamanda</li>
+            <li>ADV: arasında, şekilde, gelindiğinde, noktada, sonunda, yazısında</li>
+            <li>AUX: olduklarında, olduğunda</li>
+            <li>DET: yüzde</li>
+            <li>NOUN: arasında, şekilde, yılında, konusunda, üzerinde, altında, hakkında, sayıda, zamanda, arada</li>
             <li>NOUN-Ger: avlanmasında, etmede</li>
             <li>NOUN-Part: gerçekleştiğinde</li>
+            <li>NUM: yüzde</li>
             <li>PRON: orada, burada, birinde, nerede, bunda, onda, çoğunda</li>
             <li>PROPN: İngiltere'de, ABD'de, Afrika'da, Akdeniz'de, Roma'da, Alaska'da, Amerika'da, Asya'da, Avrupa'da, Avustralya'da</li>
+            <li>VERB: edildiğinde</li>
             <li>X: Street'te, 'da</li>
           </ul>
         </li>
@@ -924,7 +930,7 @@ udver: '2'
             <li>AUX: olmak, olması, olmadığın, olmamız, değil, olma, olmadığım, olmayacağın</li>
             <li>AUX-Part: olmadığın, olmadığım, olmayacağın</li>
             <li>AUX-Vnoun: olmak, olması, olmamız, olma</li>
-            <li>DET: ne</li>
+            <li>DET: O, ne</li>
             <li>NOUN: gün, bugün, şey, saat, ev, çocuk, yıl, zaman, çocuklar, dün</li>
             <li>NUM: milyarlık, onbeşi</li>
             <li>PRON: ben, sen, ne, o, biz, kendi, bu, onlar, herkes, siz</li>
@@ -958,13 +964,14 @@ udver: '2'
           <ul>
             <li>ADJ-Ger: kalma</li>
             <li>ADJ-Part: gerçekleştiren, sorgulayacakları</li>
-            <li>AUX: olduğu, olma, olmak, kalmak, olması, getirmek, olmaları</li>
+            <li>AUX: olduğu, olma, olmak, olması, olmaları</li>
             <li>AUX-Ger: olma, olmak, olması, olmaları</li>
             <li>NOUN: büyüme, kısmı, durum, edilmesi, film, kişi, savunma, insan, insanlar, polisi</li>
             <li>NOUN-Ger: büyüme, edilmesi, savunma, soruşturma, çalışma, çatışma, alma, almaları, artması, ayırma</li>
             <li>NOUN-Part: ölümsüzleşeceği</li>
             <li>PRON: bu, bunlar, o, ben, biri, şey, bazıları, birçoğu, herkes, burası</li>
             <li>PROPN: Trump, Blunt, Kesha, Mishima, Winstone, Yunanistan, Çin, Afrika, Aldrin, Alpler</li>
+            <li>VERB: kalmak, getirmek</li>
             <li>X: Dead, Knew, News, Prayer, Uber, You</li>
           </ul>
         </li>
@@ -1098,7 +1105,7 @@ udver: '2'
             <li>AUX-Fin: değil, değilim, değildi, değildir, değiliz, değiller, değilse, olamayacaksın, olmadı, olmayacak</li>
             <li>AUX-Part: olmadığın, olamayacağını, olmadığım, olmayacağın</li>
             <li>AUX-Vnoun: olmamalarına</li>
-            <li>DET: hiçbir</li>
+            <li>DET: hiçbir, hiç</li>
             <li>PRON: hiçbiri, Hiçbirimiz, hiçbiriniz, hiçbirisi</li>
             <li>VERB-Conv: fısıldaşmaya</li>
             <li>VERB-Fin: görmedim, istemiyor, bilmiyordum, gitmedi, sevmiyor, konaklamayacaklar, anlayamıyorum, bilmiyorum, bitmiyor, düşünemiyorum</li>
@@ -1126,9 +1133,10 @@ udver: '2'
           <ul>
             <li>ADJ: yok, inanılmaz, edilemez, almaz, alışılmamış, beklenmedik, bulunmayan, cevaplanamamış, doymayan, doğmamış</li>
             <li>ADJ-Part: sorgulayacakları</li>
-            <li>ADV: olmadan, değil, etmezken, onaylamayarak, taşmayınca, bulunmadan, durmadan, düşünmeden</li>
+            <li>ADV: değil, olmadan, etmezken, onaylamayarak, taşmayınca, bulunmadan, durmadan, düşünmeden</li>
             <li>ADV-Conv: olmadan, bulunmadan, durmadan, düşünmeden</li>
-            <li>AUX: değil, olmayan, değildir, olmadığını, olmaz, değildi, değillerdir, olmadığından, olmamalı, olmamıştır</li>
+            <li>AUX: değil, değildir, olmayan, olmadığını, olmaz, değildi, değillerdir, olmadan, olmadığından, olmamalı</li>
+            <li>AUX-Conv: olmadan</li>
             <li>DET: hiçbir</li>
             <li>NOUN: olmadığını, uyuşmazlık, almaması, almamasını, anlamadığını, beklemediğine, bulunmadığı, bulunmaması, bulunmamasını, bulunmamaya</li>
             <li>NOUN-Conv: etmeden, olmadan, oluşmadan, yapılmadan</li>
@@ -1172,13 +1180,13 @@ udver: '2'
           <ul>
             <li>ADJ: var, eden, gelen, olan, edilen, yapılan, bulunan, oluşan, yaptığı, geçen</li>
             <li>ADV: ederek, edip, kullanarak, geçerek, giderek, olup, başlayarak, göndererek, kaldırarak, olarak</li>
-            <li>AUX: olarak, olan, olduğunu, olduğu, olup, olacağını, alan, bulurken, bırakılırken, gelerek</li>
+            <li>AUX: olarak, olan, ise, olduğunu, olduğu, olup, olacağını, olabileceğini, olduğuna, olunca</li>
             <li>DET: bir, bu, her, diğer, birçok, bazı, tüm, o, birkaç, şu</li>
-            <li>NOUN: olduğunu, gerektiğini, alan, artış, artışı, gelindiğinde, verdiğini, artışın, başladığında, direniş</li>
+            <li>NOUN: gerektiğini, olduğunu, alan, artış, artışı, gelindiğinde, verdiğini, artışın, başladığında, direniş</li>
             <li>NOUN-Part: edilen</li>
             <li>NUM: bir</li>
             <li>PRON: bu, Bununla, biri, bunu, bunun, onu, bunlar, o, buna, orada</li>
-            <li>VERB: ise, sayarak, kaldığından, rastlanan, seçebilir, seçilecek, söyleyecek</li>
+            <li>VERB: alan, bulurken, bırakılırken, gelerek, ise, kaldıkça, sayarak, aldığına, bilinen, duran</li>
             <li>X: Her</li>
           </ul>
         </li>
@@ -1294,7 +1302,7 @@ udver: '2'
         <li>Hab
           <ul>
             <li>ADJ: inanılmaz, edilemez, uygulanabilir, Yenilenebilir, almaz, gerçekleştirilen, güvenilir, güvenilmez, izlenebilir, Çalar</li>
-            <li>AUX: olabilir, olursa, olursak, olabilirler, olmaz, edilir, gelebilir, olmayabilir, olur, olurlar</li>
+            <li>AUX: olabilir, olursa, olabilirler, olmaz, olmayabilir, olur, olurlar, olursak</li>
             <li>NOUN: durum, geçer, payandalar</li>
             <li>PROPN: Gezer</li>
             <li>VERB: yapar, anlatır, başlar, bulunur, eder, görülür, içerir, sağlar, açabilir, dönerdi</li>
@@ -1363,18 +1371,19 @@ udver: '2'
             <li>ADJ-Ger: kalma</li>
             <li>ADJ-Part: gerçekleştirilen, e​v​c​i​l​l​e​ş​t​i​r​i​l​e​n​l​e​ş​t​i​r​i​l​e​n, gerçekleşen, gerçekleştiren, sertleşen, sorgulayacakları, zorlaştıran</li>
             <li>ADP: ki</li>
+            <li>ADV: olmadan, bulunmadan, durmadan, düşünmeden, yükselecek, İyileşerek</li>
             <li>ADV-Conv: olmadan, bulunmadan, durmadan, düşünmeden, İyileşerek</li>
             <li>AUX: dır, dir, oldu, ydı, olmak, ydi, dı, olmuştur, tir, olacak</li>
-            <li>AUX-Conv: yken, ken</li>
-            <li>AUX-Ger: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, etmesine, itmeye, olmaktan</li>
+            <li>AUX-Conv: yken, ken, olmadan</li>
+            <li>AUX-Ger: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, itmeye, olmaktan, olmaları</li>
             <li>NOUN: yapmak, etmek, büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, görmek, çıkmaya</li>
             <li>NOUN-Conv: etmeden, olmadan, oluşmadan, yapılmadan</li>
             <li>NOUN-Ger: büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, çıkmaya, alma, etmesi, etmesini</li>
             <li>NOUN-Part: b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı, edilen, gerçekleştiği, gerçekleştiğinde, ölümsüzleşeceği</li>
-            <li>PUNCT: dedi, reddetti</li>
-            <li>VERB: dedi, etti, başladı, söyledi, çıktı, verdi, geldi, aldı, edildi, geçirdi</li>
+            <li>PUNCT: dedi</li>
+            <li>VERB: dedi, etti, başladı, söyledi, çıktı, edildi, verdi, geldi, aldı, edilmiştir</li>
             <li>VERB-Conv: etkilenmeden</li>
-            <li>VERB-Ger: beklemeye, gerçekleştirmesi, uzaklaştırmaya</li>
+            <li>VERB-Ger: beklemeye, etmesine, gerçekleştirmesi, uzaklaştırmaya, çıkmaya</li>
             <li>VERB-Part: gerçekleşen</li>
           </ul>
         </li>
@@ -1422,9 +1431,9 @@ udver: '2'
       <ul>
         <li>Prog
           <ul>
-            <li>AUX: geliyor, oluyor, görünüyor, görünüyordu, hissediyorum, kalıyor, kalıyoruz</li>
+            <li>AUX: oluyor</li>
             <li>NOUN: hatırlamakta</li>
-            <li>VERB: ediyor, söylüyor, gerekiyor, gösteriyor, alıyor, bulunmaktadır, diyor, görünüyor, içeriyor, almaktadır</li>
+            <li>VERB: ediyor, söylüyor, geliyor, gerekiyor, görünüyor, gösteriyor, alıyor, bulunmaktadır, diyor, içeriyor</li>
           </ul>
         </li>
       </ul>
@@ -1544,8 +1553,8 @@ udver: '2'
       <ul>
         <li>Cnd
           <ul>
-            <li>AUX: olsa, sa, olsaydı, ise, se, yse</li>
-            <li>VERB: ise, olsa, benzese, biliyorsanız, getirmese</li>
+            <li>AUX: ise, olsa, sa, olsaydı, se, yse</li>
+            <li>VERB: olsa, ise, benzese, biliyorsanız, getirmese</li>
           </ul>
         </li>
       </ul>
@@ -1570,7 +1579,7 @@ udver: '2'
         <li>CndGen
           <ul>
             <li>AUX: olursa, olursak</li>
-            <li>VERB: olursa, bırakırsa, düşünülürse, gelirse, isterseniz, seçerse, yapılırsa</li>
+            <li>VERB: olursa, olursak, bırakırsa, düşünülürse, gelirse, isterseniz, seçerse, yapılırsa</li>
           </ul>
         </li>
       </ul>
@@ -1684,10 +1693,10 @@ udver: '2'
           <ul>
             <li>ADJ: inanılmaz, almaz, gerçekleştirilen, güvenilir, güvenilmez, Çalar</li>
             <li>ADP: ki</li>
-            <li>AUX: dir, dır, olmuştur, tir, değildir, tır, dur, dür, olacaktır, edilmiştir</li>
+            <li>AUX: dir, dır, olmuştur, tir, değildir, tır, dur, dür, olacaktır, olmaz</li>
             <li>NOUN: geçer, payandalar</li>
             <li>PROPN: Gezer</li>
-            <li>VERB: etmiştir, başlamıştır, edilmiştir, almıştır, bulunmaktadır, gelmiştir, yapar, almaktadır, anlatır, başlar</li>
+            <li>VERB: edilmiştir, etmiştir, başlamıştır, almıştır, bulunmaktadır, gelmiştir, yapar, almaktadır, anlatır, başlar</li>
           </ul>
         </li>
       </ul>
@@ -1764,7 +1773,7 @@ udver: '2'
         <li>GenPot
           <ul>
             <li>ADJ: edilemez, uygulanabilir, Yenilenebilir, izlenebilir</li>
-            <li>AUX: olabilir, olabilirler, gelebilir, olmayabilir</li>
+            <li>AUX: olabilir, olabilirler, olmayabilir</li>
             <li>VERB: açabilir, görülebilir, sağlayabilir, verebilir, anlaşılamaz, artırabilir, açabilirler, bekleyebilirdi, bulanıklaştırabilir, bulunabilir</li>
           </ul>
         </li>
@@ -1877,19 +1886,19 @@ udver: '2'
             <li>ADJ: edecek, gerçekleştirilen, Birleşmiş, adanmış, alacak, alışılmamış, beklenmedik, biçilmiş, donatılmış, donmuş</li>
             <li>ADJ-Ger: kalma</li>
             <li>ADJ-Part: gerçekleştirilen, e​v​c​i​l​l​e​ş​t​i​r​i​l​e​n​l​e​ş​t​i​r​i​l​e​n, gerçekleşen, gerçekleştiren, sertleşen, zorlaştıran</li>
-            <li>ADV: olmadan, değil, ederken, akarken, bulunmadan, durmadan, düşünmeden, görünürken, çekerken, İyileşerek</li>
+            <li>ADV: değil, olmadan, ederken, akarken, bulunmadan, durmadan, düşünmeden, görünürken, yükselecek, çekerken</li>
             <li>ADV-Conv: olmadan, ederken, akarken, bulunmadan, durmadan, düşünmeden, görünürken, çekerken, İyileşerek</li>
             <li>AUX: değil, oldu, ydı, olmak, ydi, dı, dır, olacak, olmasına, yken</li>
-            <li>AUX-Conv: yken, ken</li>
-            <li>AUX-Ger: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, etmesine, itmeye, olmaktan</li>
+            <li>AUX-Conv: yken, ken, olmadan</li>
+            <li>AUX-Ger: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, itmeye, olmaktan, olmaları</li>
             <li>NOUN: yapmak, etmek, büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, görmek, çıkmaya</li>
             <li>NOUN-Conv: etmeden, olmadan, oluşmadan, yapılmadan</li>
             <li>NOUN-Ger: büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, çıkmaya, alma, etmesi, etmesini</li>
             <li>NOUN-Part: b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı, edilen, gerçekleştiği, gerçekleştiğinde</li>
-            <li>PUNCT: dedi, reddetti</li>
-            <li>VERB: dedi, etti, başladı, söyledi, çıktı, verdi, ediyor, geldi, aldı, edildi</li>
+            <li>PUNCT: dedi</li>
+            <li>VERB: dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, geldi, aldı</li>
             <li>VERB-Conv: etkilenmeden</li>
-            <li>VERB-Ger: beklemeye, gerçekleştirmesi, uzaklaştırmaya</li>
+            <li>VERB-Ger: beklemeye, etmesine, gerçekleştirmesi, uzaklaştırmaya, çıkmaya</li>
             <li>VERB-Part: gerçekleşen</li>
           </ul>
         </li>
@@ -1921,8 +1930,8 @@ udver: '2'
         <li>Nec
           <ul>
             <li>ADJ: tartışmalı, Seçmeli</li>
-            <li>AUX: olmalı, olmalısınız, olmamalı</li>
-            <li>VERB: eğitmeliyiz</li>
+            <li>AUX: olmalısınız, olmamalı</li>
+            <li>VERB: eğitmeliyiz, olmalı</li>
           </ul>
         </li>
       </ul>
@@ -2114,10 +2123,11 @@ udver: '2'
           <ul>
             <li>ADJ: edecek, alacak, görmeyecek, kısıtlayabilecek, sokabilecek, sorgulayacakları, yapılacak, çekilebilecek, çözülebilecek, çıkaracak</li>
             <li>ADJ-Part: sorgulayacakları</li>
-            <li>AUX: olmak, olacak, olacaktır, kalmak, bulacaktır, etmek, getirmek, gidecek, izlemek, kalacak</li>
-            <li>NOUN: yapmak, etmek, görmek, izlemek, oluşturmak, almak, dönmek, geçmek, kurtarmak, kurtulmak</li>
+            <li>ADV: yükselecek</li>
+            <li>AUX: olmak, olacak, olacaktır</li>
+            <li>NOUN: yapmak, etmek, görmek, oluşturmak, almak, dönmek, geçmek, izlemek, kurtarmak, kurtulmak</li>
             <li>NOUN-Part: ölümsüzleşeceği</li>
-            <li>VERB: getirecektir, katılacak, olacak, yapacak, Karşılaştıracak, alacak, azaltacaktır, değerlendireceğiz, değişecektir, durduracak</li>
+            <li>VERB: getirecektir, izlemek, kalmak, katılacak, olacak, yapacak, Karşılaştıracak, alacak, azaltacaktır, bulacaktır</li>
           </ul>
         </li>
       </ul>
@@ -2180,11 +2190,11 @@ udver: '2'
         <li>Past
           <ul>
             <li>ADJ: Birleşmiş, adanmış, alışılmamış, beklenmedik, biçilmiş, cevaplanamamış, donatılmış, donmuş, doğmamış, edilmiş</li>
-            <li>AUX: oldu, ydı, ydi, dı, olmuştur, dır, di, edildi, dir, edilmiştir</li>
+            <li>AUX: oldu, ydı, ydi, dı, olmuştur, dır, di, dir, olsaydı, ti</li>
             <li>NOUN: b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı, gerçekleştiği, gerçekleştiğinde, kurduğunda</li>
             <li>NOUN-Part: b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı, gerçekleştiği, gerçekleştiğinde</li>
-            <li>PUNCT: dedi, reddetti</li>
-            <li>VERB: dedi, etti, başladı, söyledi, çıktı, verdi, geldi, aldı, edildi, geçirdi</li>
+            <li>PUNCT: dedi</li>
+            <li>VERB: dedi, etti, başladı, söyledi, çıktı, edildi, verdi, geldi, aldı, edilmiştir</li>
           </ul>
         </li>
       </ul>
@@ -2213,8 +2223,8 @@ udver: '2'
       <ul>
         <li>Pqp
           <ul>
-            <li>AUX: olmuştu, etmişti, kalmıştı</li>
-            <li>VERB: demişti, girmişti, kullanılmıştı, unutulmuştu, vermişti, açmıştı, başlamıştı, belirlenmişti, belirtmişti, desteklemişlerdi</li>
+            <li>AUX: olmuştu, ti</li>
+            <li>VERB: demişti, etmişti, girmişti, kalmıştı, kullanılmıştı, unutulmuştu, vermişti, açmıştı, başlamıştı, belirtmişti</li>
           </ul>
         </li>
       </ul>
@@ -2258,19 +2268,19 @@ udver: '2'
             <li>ADJ-Ger: kalma</li>
             <li>ADJ-Part: gerçekleştirilen, e​v​c​i​l​l​e​ş​t​i​r​i​l​e​n​l​e​ş​t​i​r​i​l​e​n, gerçekleşen, gerçekleştiren, sertleşen, zorlaştıran</li>
             <li>ADP: ki</li>
-            <li>ADV: olmadan, değil, bulunmadan, durmadan, düşünmeden, zorla, İyileşerek</li>
+            <li>ADV: değil, olmadan, bulunmadan, durmadan, düşünmeden, zorla, İyileşerek</li>
             <li>ADV-Conv: olmadan, bulunmadan, durmadan, düşünmeden, İyileşerek</li>
-            <li>AUX: dir, dır, değil, tir, olsa, değildir, olabilir, olmasına, tır, yken</li>
-            <li>AUX-Conv: yken, ken</li>
-            <li>AUX-Ger: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, etmesine, itmeye, olmaktan</li>
+            <li>AUX: dir, dır, değil, tir, değildir, olsa, olabilir, olmasına, tır, yken</li>
+            <li>AUX-Conv: yken, ken, olmadan</li>
+            <li>AUX-Ger: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, itmeye, olmaktan, olmaları</li>
             <li>NOUN: büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, yana, çıkmaya, alma, etmesi</li>
             <li>NOUN-Conv: etmeden, olmadan, oluşmadan, yapılmadan</li>
             <li>NOUN-Ger: büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, çıkmaya, alma, etmesi, etmesini</li>
             <li>NOUN-Part: edilen</li>
             <li>PROPN: Gezer, Yum, del</li>
-            <li>VERB: ediyor, söylüyor, gerekiyor, gösteriyor, alıyor, bulunmaktadır, diyor, görünüyor, içeriyor, olsa</li>
+            <li>VERB: ediyor, söylüyor, geliyor, gerekiyor, görünüyor, gösteriyor, olsa, alıyor, bulunmaktadır, diyor</li>
             <li>VERB-Conv: etkilenmeden</li>
-            <li>VERB-Ger: beklemeye, gerçekleştirmesi, uzaklaştırmaya</li>
+            <li>VERB-Ger: beklemeye, etmesine, gerçekleştirmesi, uzaklaştırmaya, çıkmaya</li>
             <li>VERB-Part: gerçekleşen</li>
           </ul>
         </li>
@@ -2325,8 +2335,8 @@ udver: '2'
             <li>ADJ: gerçekleştiren, zorlaştıran, çıkaracak</li>
             <li>ADJ-Part: gerçekleştiren, zorlaştıran</li>
             <li>AUX-Ger: olmaktan</li>
-            <li>NOUN: azaltılmasında, b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı, gerçekleştirmekten, geçirmekten, gönderebilmekten, görmekten, kolaylaştırmamız, oluşturmak, oluşturmasına, oynamaktan</li>
-            <li>NOUN-Ger: gerçekleştirmekten, geçirmekten, gönderebilmekten, görmekten, kolaylaştırmamız, oluşturmasına, oynamaktan, sömürgeleştirme, toplanmasıyla, vermekten</li>
+            <li>NOUN: azaltılmasında, b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı, gerçekleştirmekten, geçirmekten, gönderebilmekten, görmekten, kolaylaştırmamız, oluşturmak, oynamaktan, sömürgeleştirme</li>
+            <li>NOUN-Ger: gerçekleştirmekten, geçirmekten, gönderebilmekten, görmekten, kolaylaştırmamız, oynamaktan, sömürgeleştirme, toplanmasıyla, vermekten, yaşamaktan</li>
             <li>NOUN-Part: b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı</li>
             <li>VERB: geçirdi, anlatır, belirtti, çıkardı, başlattı, değiştirdi, geliştirdi, adlandırdı, adlandırmışlardır, anlatıyor</li>
             <li>VERB-Ger: gerçekleştirmesi, uzaklaştırmaya</li>
@@ -2471,10 +2481,9 @@ udver: '2'
           <ul>
             <li>ADJ: inanılmaz, edilemez, uygulanabilir, Yenilenebilir, adanmış, alışılmamış, beklenmedik, biçilmiş, cevaplanamamış, donatılmış</li>
             <li>ADV-Conv: görünürken</li>
-            <li>AUX: edildi, edilmiştir, bırakılmıştır, edilir, görüldü, seçildi, seçilirdi, tutuldular, çevrilmiş</li>
             <li>NOUN-Conv: yapılmadan</li>
             <li>NOUN-Ger: edilmesi, alınmasının, kullanılması, verilmesi, yapılması, atanmasını, atılmasının, avlanmasında, ayrıştırılması, bozulması</li>
-            <li>VERB: edildi, edilmiştir, yapıldı, edilmiş, görülür, bölünmüştür, etkilenmişlerdir, getirildi, görülebilir, katılacak</li>
+            <li>VERB: edildi, edilmiştir, yapıldı, edilmiş, görülür, bölünmüştür, edilir, etkilenmişlerdir, getirildi, görüldü</li>
             <li>VERB-Conv: etkilenmeden</li>
           </ul>
         </li>
@@ -2636,8 +2645,8 @@ udver: '2'
         <li>Nfh
           <ul>
             <li>ADJ: Birleşmiş, adanmış, alışılmamış, biçilmiş, cevaplanamamış, donatılmış, donmuş, doğmamış, edilmiş, esnemiş</li>
-            <li>AUX: olmuştur, olmuştu, edilmiştir, kalmıştır, bırakılmıştır, etmişti, kalmışlardır, kalmıştı, kılmıştır, mış</li>
-            <li>VERB: etmiştir, başlamıştır, edilmiştir, almıştır, edilmiş, gelmiştir, etmiş, vermiştir, yapmıştır, bölünmüştür</li>
+            <li>AUX: olmuştur, olmuştu, mış, olmamıştır, olmuş</li>
+            <li>VERB: edilmiştir, etmiştir, başlamıştır, almıştır, edilmiş, gelmiştir, etmiş, kalmıştır, vermiştir, yapmıştır</li>
           </ul>
         </li>
       </ul>
@@ -2673,7 +2682,31 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: bir, bu, o, her, bütün, şu, birkaç, bazı, hiçbir, başka</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>DET: bu, O</li>
+            <li>PRON: burada, bu, bunu, oraya, o, bundan, burası, buraya, bunun, buradan</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2690,7 +2723,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Ind
+          <ul>
+            <li>PRON: birisi, biri, çoğu, Başkalarından, bazısı, birimiz, hepsini, hiçbiri, başkasına, birini</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2764,7 +2803,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Prs
+          <ul>
+            <li>PRON: ben, sen, bana, benim, biz, kendi, senin, bizim, onlar, beni</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2784,7 +2829,6 @@ udver: '2'
       <ul>
         <li>Rcp
           <ul>
-            <li>DET: hiçbir</li>
             <li>PRON: birbirimizi, birbirimizin, birbirinizin, birbirinizle, birbirlerinden, Birbirlerine, Birbirlerini, birbirimize, birbirinden, birbirine</li>
           </ul>
         </li>
@@ -2825,7 +2869,7 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>NUM: iki, üç, beş, yüz, dört, on, bir, bin, dokuz, sekiz</li>
+            <li>NUM: iki, üç, beş, yüz, on, dört, bir, bin, dokuz, sekiz</li>
           </ul>
         </li>
       </ul>
@@ -3002,10 +3046,10 @@ udver: '2'
         <li>1
           <ul>
             <li>ADJ: beklenmedik</li>
-            <li>AUX: olursak, döndüm, hissediyorum, kalıyoruz, tum, yım, üz</li>
+            <li>AUX: olursak, tum, yım, üz</li>
             <li>NOUN: ahırıma, uğraşmayacağım</li>
             <li>PRON: ben, bizi, Bizim, benim, bize, beni</li>
-            <li>VERB: bilmiyorum, düşünüyorum, düşünüyoruz, ediyorum, Sanırım, alıyorum, anlıyorum, araştırıyoruz, arıyorum, bahsediyoruz</li>
+            <li>VERB: bilmiyorum, döndüm, düşünüyorum, düşünüyoruz, ediyorum, olursak, Sanırım, alıyorum, anlıyorum, araştırıyoruz</li>
           </ul>
         </li>
       </ul>
@@ -3097,14 +3141,14 @@ udver: '2'
           <ul>
             <li>ADJ: inanılmaz, edecek, edilemez, tartışmalı, uygulanabilir, Birleşmiş, Seçmeli, Yenilenebilir, adanmış, alacak</li>
             <li>ADP: ki</li>
-            <li>ADV: değil, ederken, akarken, görünürken, çekerken</li>
+            <li>ADV: değil, ederken, akarken, görünürken, yükselecek, çekerken</li>
             <li>ADV-Conv: ederken, akarken, görünürken, çekerken</li>
-            <li>AUX: dır, dir, değil, oldu, ydı, ydi, dı, olmak, olmuştur, tir</li>
-            <li>NOUN: yapmak, etmek, yana, görmek, izlemek, oluşturmak, almak, dönmek, geçmek, kurtarmak</li>
+            <li>AUX: dır, dir, değil, oldu, ise, ydı, ydi, dı, olmak, olmuştur</li>
+            <li>NOUN: yapmak, etmek, yana, görmek, oluşturmak, almak, dönmek, geçmek, izlemek, kurtarmak</li>
             <li>PRON: kendisini, herkes, kendisi, birbirine, kendisinin, onu, bazılarını, birbirinden, birbiriyle, birbirlerini</li>
             <li>PROPN: Gezer</li>
-            <li>PUNCT: dedi, reddetti</li>
-            <li>VERB: dedi, etti, ise, başladı, söyledi, çıktı, verdi, ediyor, geldi, aldı</li>
+            <li>PUNCT: dedi</li>
+            <li>VERB: dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, geldi, aldı</li>
             <li>X: lerin</li>
           </ul>
         </li>
@@ -3225,7 +3269,7 @@ udver: '2'
             <li>ADJ-Part: sorgulayacakları</li>
             <li>AUX: olabileceklerini, olduğunuz, olmaları</li>
             <li>AUX-Ger: olmaları</li>
-            <li>NOUN: günümüzde, almaları, topraklarına, yerlerinden, Aralarında, Denizimiz, Dönüşlerinde, akışlarını, artışlarını, aştıkları</li>
+            <li>NOUN: almaları, günümüzde, topraklarına, yerlerinden, Aralarında, Denizimiz, Dönüşlerinde, akışlarını, artışlarını, aştıkları</li>
             <li>NOUN-Ger: almaları, bakmanız, benimsemelerine, canlandırmaları, değiştirmeleri, düşünmeleri, etmeleri, gidebilmemiz, girmelerine, harcamaları</li>
             <li>NOUN-Part: b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı</li>
             <li>PRON: Bazıları, bazılarını, birbirlerini, birileri, kendilerini</li>
@@ -3276,18 +3320,18 @@ udver: '2'
           <ul>
             <li>ADJ: yaptığı, ettiği, yönettiği, bulunduğu, dini, duyduğu, oynadığı, söylediği, tarihi, aldığı</li>
             <li>ADJ-Part: gerçekleştiren</li>
-            <li>ADP: boyunca, ardından, itibarıyla, adına, aracılığıyla, sonunda</li>
-            <li>ADV: birliklerince, gelindiğinde</li>
-            <li>AUX: olduğunu, olduğu, olacağını, olmasına, olmadığını, olması, olmasının, olabileceğini, olduğuna, aldığına</li>
-            <li>AUX-Ger: olmasına, olması, olmasının, etmesine, olmasıyla</li>
+            <li>ADP: boyunca, ardından, itibarıyla, adına, aracılığıyla</li>
+            <li>ADV: arasında, birliklerince, gelindiğinde, sonunda, yazısında, yerine</li>
+            <li>AUX: olduğunu, olduğu, olacağını, olmasına, olmadığını, olması, olmasının, olabileceğini, olduğuna, olduklarında</li>
+            <li>AUX-Ger: olmasına, olması, olmasının</li>
             <li>DET: çoğu</li>
-            <li>NOUN: arasında, tarafından, yılında, konusunda, başkanı, üzerinde, başına, altında, günü, hakkında</li>
+            <li>NOUN: tarafından, arasında, yılında, konusunda, başkanı, üzerinde, başına, altında, günü, hakkında</li>
             <li>NOUN-Ger: edilmesi, etmesi, etmesini, ödemesi, alınmasının, artması, kalmasına, kullanılması, olmasına, oluşturmasına</li>
             <li>NOUN-Part: gerçekleştiği, gerçekleştiğinde, ölümsüzleşeceği</li>
             <li>PRON: birinin, burası, diğerlerinin, kendisini, bazıları, birbiriyle, birçoğu, kendisi, kendisinin, neyi</li>
             <li>PROPN: Aborijinleri, Cumhuriyeti'ni, Devletleri, Garrard'ına, Kamerun'u, Kamerunları, Kiki, Marksizminin, Persliğine, Platon</li>
-            <li>VERB: gerçekleştirmesi, kaldığından</li>
-            <li>VERB-Ger: gerçekleştirmesi</li>
+            <li>VERB: aldığına, edildiğinde, edildiğini, etmesine, ettiği, gerçekleştirmesi, göründüğü, kaldığından, sayıldığına</li>
+            <li>VERB-Ger: etmesine, gerçekleştirmesi</li>
           </ul>
         </li>
       </ul>
@@ -3472,7 +3516,7 @@ udver: '2'
             <li>2
               <ul>
                 <li>ADJ: gösterebileceğiniz, kaydedebileceğiniz</li>
-                <li>AUX: olacağının, olduğunuz</li>
+                <li>AUX: olduğunuz</li>
                 <li>NOUN: azından, 33'üne, 40'ına, Romalılaştırmanın, bakacağınızı, bakmanız, beslemenize, derinde, derinden, elinizde</li>
                 <li>NOUN-Ger: bakmanız, uyumanıza, vermemiz</li>
                 <li>PROPN: Platon</li>
@@ -3482,18 +3526,18 @@ udver: '2'
               <ul>
                 <li>ADJ: yaptığı, ettiği, yönettiği, bulunduğu, dini, duyduğu, oynadığı, söylediği, tarihi, aldığı</li>
                 <li>ADJ-Part: gerçekleştiren, sorgulayacakları</li>
-                <li>ADP: boyunca, ardından, itibarıyla, adına, aracılığıyla, sonunda</li>
-                <li>ADV: birliklerince, gelindiğinde</li>
-                <li>AUX: olduğunu, olduğu, olacağını, olmasına, olmadığını, olması, olmasının, olabileceğini, olduğuna, aldığına</li>
-                <li>AUX-Ger: olmasına, olması, olmasının, etmesine, olmaları, olmasıyla</li>
+                <li>ADP: boyunca, ardından, itibarıyla, adına, aracılığıyla</li>
+                <li>ADV: arasında, birliklerince, gelindiğinde, sonunda, yazısında, yerine</li>
+                <li>AUX: olduğunu, olduğu, olacağını, olmasına, olmadığını, olması, olmasının, olabileceğini, olduğuna, olabileceklerini</li>
+                <li>AUX-Ger: olmasına, olması, olmasının, olmaları</li>
                 <li>DET: çoğu</li>
-                <li>NOUN: arasında, tarafından, yılında, konusunda, başkanı, üzerinde, başına, altında, günü, hakkında</li>
+                <li>NOUN: tarafından, arasında, yılında, konusunda, başkanı, üzerinde, başına, altında, günü, hakkında</li>
                 <li>NOUN-Ger: edilmesi, etmesi, etmesini, ödemesi, almaları, alınmasının, artması, kalmasına, kullanılması, olmasına</li>
                 <li>NOUN-Part: b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı, gerçekleştiği, gerçekleştiğinde, ölümsüzleşeceği</li>
                 <li>PRON: biri, bazıları, birinin, burası, diğerlerinin, kendisini, çoğunu, Bunun, Kendilerine, bazılarını</li>
                 <li>PROPN: Aborijinleri, Cumhuriyeti'ni, Devletleri, Garrard'ına, Kamerun'u, Kamerunları, Kiki, Marksizminin, Persliğine, Savaşı'nda</li>
-                <li>VERB: gelir, gerçekleştirmesi, kaldığından</li>
-                <li>VERB-Ger: gerçekleştirmesi</li>
+                <li>VERB: aldığına, edildiğinde, edildiğini, etmesine, ettiği, gelir, gerçekleştirmesi, göründüğü, kaldığından, sayıldığına</li>
+                <li>VERB-Ger: etmesine, gerçekleştirmesi</li>
               </ul>
             </li>
           </ul>
@@ -3565,7 +3609,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: değil, ol, _, eğillerdi, mi, mı.</li>
+      <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: değil, mi, ol, i.</li>
       </ul>
     </td>
   </tr>
@@ -3661,11 +3705,13 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (25)</li>
-            <li>VERB--NOUN-Nom (366)</li>
+            <li>VERB--NOUN (55)</li>
+            <li>VERB--NOUN-Abl (1)</li>
+            <li>VERB--NOUN-Gen (1)</li>
+            <li>VERB--NOUN-Nom (332)</li>
             <li>VERB--PRON (2)</li>
             <li>VERB--PRON-ADP(de) (1)</li>
-            <li>VERB--PRON-Nom (34)</li>
+            <li>VERB--PRON-Nom (30)</li>
             <li>VERB-Conv--NOUN-Nom (1)</li>
           </ul>
         </li>
@@ -3761,12 +3807,15 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (144)</li>
-            <li>VERB--NOUN-Acc (127)</li>
-            <li>VERB--NOUN-Dat (16)</li>
+            <li>VERB--NOUN (131)</li>
+            <li>VERB--NOUN-Abl (5)</li>
+            <li>VERB--NOUN-Acc (132)</li>
+            <li>VERB--NOUN-Dat (23)</li>
             <li>VERB--NOUN-Gen (1)</li>
-            <li>VERB--NOUN-Nom (2)</li>
+            <li>VERB--NOUN-Ins (2)</li>
+            <li>VERB--NOUN-Nom (5)</li>
             <li>VERB--PRON (2)</li>
+            <li>VERB--PRON-Abl (1)</li>
             <li>VERB--PRON-Acc (17)</li>
             <li>VERB--PRON-Dat (1)</li>
             <li>VERB-Ger--NOUN-Acc (3)</li>
@@ -3796,8 +3845,8 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN (2)</li>
-            <li>VERB--NOUN-Dat (31)</li>
+            <li>VERB--NOUN (5)</li>
+            <li>VERB--NOUN-Dat (51)</li>
             <li>VERB--PRON-Dat (2)</li>
           </ul>
         </li>
@@ -3845,7 +3894,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 7 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: bul kendisini, devir kendisini, ilan kendisini, kur kendisini, yönet kendini, yönet kendisini, önemse kendini</li>
+        <li>This corpus contains 7 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: yönet kendi, bul kendisini, devir kendisini, emin kendinden, ilan kendisini, kur kendisini, önemse kendini</li>
       </ul>
     </td>
   </tr>
@@ -3871,8 +3920,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>det:predet</a>, <a>flat:name</a>, <a>nmod:arg</a>, <a>nmod:poss</a>, <a>obl:tmod</a></li>
-      <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>list</a>, <a>reparandum</a></li>
+      <li>This corpus uses 7 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>det:predet</a>, <a>nmod:poss</a></li>
+      <li>The following 4 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>list</a>, <a>reparandum</a></li>
       </ul>
     </td>
   </tr>

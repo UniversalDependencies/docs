@@ -930,7 +930,7 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: socialinės, būtina, vidutinio, smulkiojo, mokslinių, naujų, socialinių, svarbu, įvairių, geros</li>
-            <li>ADV: labai, taip, todėl, jau, dabar, tiek, daug, kur, kiek, tikrai</li>
+            <li>ADV: labai, taip, todėl, jau, dabar, tiek, daug, kiek, tikrai, ypač</li>
             <li>X: jaunųjų</li>
           </ul>
         </li>
@@ -1524,8 +1524,9 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-        <li>Int
+        <li>Int,Rel
           <ul>
+            <li>ADV: kur, kaip, kodėl, kada</li>
             <li>DET: kurie, kurios, kuris, kurių, kuri, kurio, kurioje, kurį, kurią, kokie</li>
             <li>PRON: kas, ką, ko, kuo, Kam</li>
           </ul>
@@ -2067,54 +2068,26 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN-Ins (2)</li>
             <li>VERB-Conv--NOUN-Acc (66)</li>
-            <li>VERB-Conv--NOUN-Dat (4)</li>
-            <li>VERB-Conv--NOUN-Gen (12)</li>
-            <li>VERB-Conv--NOUN-Ins (16)</li>
             <li>VERB-Conv--PRON-Acc (4)</li>
-            <li>VERB-Conv--PRON-Gen (1)</li>
             <li>VERB-Conv--PRON-Nom (1)</li>
             <li>VERB-Fin--NOUN (2)</li>
             <li>VERB-Fin--NOUN-Acc (796)</li>
-            <li>VERB-Fin--NOUN-Dat (77)</li>
-            <li>VERB-Fin--NOUN-Gen (274)</li>
-            <li>VERB-Fin--NOUN-Ins (114)</li>
             <li>VERB-Fin--NOUN-Nom (1)</li>
             <li>VERB-Fin--PRON (2)</li>
             <li>VERB-Fin--PRON-Acc (139)</li>
-            <li>VERB-Fin--PRON-Dat (44)</li>
-            <li>VERB-Fin--PRON-Gen (50)</li>
-            <li>VERB-Fin--PRON-Ins (13)</li>
             <li>VERB-Fin--PRON-Nom (2)</li>
             <li>VERB-Ger--NOUN-Acc (216)</li>
-            <li>VERB-Ger--NOUN-Dat (43)</li>
-            <li>VERB-Ger--NOUN-Gen (38)</li>
-            <li>VERB-Ger--NOUN-Ins (26)</li>
             <li>VERB-Ger--PRON-Acc (4)</li>
-            <li>VERB-Ger--PRON-Dat (4)</li>
-            <li>VERB-Ger--PRON-Gen (1)</li>
             <li>VERB-Inf--NOUN (1)</li>
             <li>VERB-Inf--NOUN-Acc (768)</li>
-            <li>VERB-Inf--NOUN-Dat (136)</li>
-            <li>VERB-Inf--NOUN-Gen (134)</li>
-            <li>VERB-Inf--NOUN-Ins (70)</li>
             <li>VERB-Inf--NOUN-Nom (1)</li>
             <li>VERB-Inf--PRON (1)</li>
-            <li>VERB-Inf--PRON-Acc (77)</li>
-            <li>VERB-Inf--PRON-Dat (23)</li>
-            <li>VERB-Inf--PRON-Gen (23)</li>
-            <li>VERB-Inf--PRON-Ins (6)</li>
+            <li>VERB-Inf--PRON-Acc (76)</li>
             <li>VERB-Part--NOUN (1)</li>
             <li>VERB-Part--NOUN-Acc (226)</li>
-            <li>VERB-Part--NOUN-Dat (116)</li>
-            <li>VERB-Part--NOUN-Gen (256)</li>
-            <li>VERB-Part--NOUN-Ins (135)</li>
             <li>VERB-Part--NOUN-Nom (1)</li>
             <li>VERB-Part--PRON-Acc (16)</li>
-            <li>VERB-Part--PRON-Dat (26)</li>
-            <li>VERB-Part--PRON-Gen (20)</li>
-            <li>VERB-Part--PRON-Ins (8)</li>
           </ul>
         </li>
       </ul>
@@ -2163,31 +2136,13 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Conv--NOUN-Dat (2)</li>
-            <li>VERB-Conv--NOUN-Ins (1)</li>
-            <li>VERB-Conv--PRON-Dat (1)</li>
             <li>VERB-Fin--NOUN-Acc (8)</li>
-            <li>VERB-Fin--NOUN-Dat (40)</li>
-            <li>VERB-Fin--NOUN-Gen (3)</li>
-            <li>VERB-Fin--NOUN-Ins (19)</li>
             <li>VERB-Fin--PRON-Acc (3)</li>
-            <li>VERB-Fin--PRON-Dat (37)</li>
-            <li>VERB-Fin--PRON-Gen (2)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
-            <li>VERB-Ger--NOUN-Dat (14)</li>
-            <li>VERB-Ger--NOUN-Ins (3)</li>
             <li>VERB-Inf--NOUN-Acc (3)</li>
-            <li>VERB-Inf--NOUN-Dat (77)</li>
-            <li>VERB-Inf--NOUN-Gen (1)</li>
-            <li>VERB-Inf--NOUN-Ins (22)</li>
-            <li>VERB-Inf--PRON-Acc (1)</li>
-            <li>VERB-Inf--PRON-Dat (2)</li>
+            <li>VERB-Inf--PRON-Acc (2)</li>
             <li>VERB-Part--NOUN-Acc (2)</li>
-            <li>VERB-Part--NOUN-Dat (7)</li>
-            <li>VERB-Part--NOUN-Ins (13)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
-            <li>VERB-Part--PRON-Dat (2)</li>
-            <li>VERB-Part--PRON-Ins (2)</li>
           </ul>
         </li>
       </ul>
@@ -2237,7 +2192,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 38 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: užtikrinti vystymąsi, atsakyti sau, bausti savęs, būti savimi, būtinas vystymuisi, girdėti save, išaukštinti save, išvysti save, kaltinti save, kontroliuoti save, laikyti save, leisti sau, nekontroliuoti savęs, n​e​p​a​g​a​i​l​ė​t​i​ ​d​o​m​ė​j​i​m​o​s​i, nepamiršti savęs, nepasitikėti savimi, netikėtai sau, n​e​v​y​k​d​y​t​i​ ​į​s​i​p​a​r​e​i​g​o​j​i​m​ų, nuolaidžiauti sau, p​a​g​r​į​s​t​i​ ​į​s​i​p​a​r​e​i​g​o​j​i​m​a​i​s, paklausti savęs, pasičiupinėti save, p​a​t​v​i​r​t​i​n​t​i​ ​į​s​i​s​t​e​i​g​i​m​ą, prisiekti sau, realizuoti save, reikšti kalbėjimąsi, remti mokymąsi, sakyti sau, skatinti kūrimąsi, skatinti įsisavinimą, skirti mokymuisi, statyti save, stebėti save, sukelti domėjimąsi, suslėpti save, ugdyti pasitikėjimą, užauginti savo, įtikinti save</li>
+        <li>This corpus contains 20 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: užtikrinti vystymąsi, girdėti save, išaukštinti save, išvysti save, kaltinti save, kontroliuoti save, laikyti save, pasičiupinėti save, p​a​t​v​i​r​t​i​n​t​i​ ​į​s​i​s​t​e​i​g​i​m​ą, realizuoti save, reikšti kalbėjimąsi, remti mokymąsi, skatinti kūrimąsi, skatinti įsisavinimą, statyti save, stebėti save, sukelti domėjimąsi, suslėpti save, ugdyti pasitikėjimą, įtikinti save</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -2253,7 +2208,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 6 relation subtypes: <a>advmod:emph</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
       <li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>

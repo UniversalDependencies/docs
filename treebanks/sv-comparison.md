@@ -799,7 +799,7 @@ udver: '2'
             <li>ADJ-Part: följande, särskilt, motsvarande, nuvarande, beredd, dolda, grundläggande, intresserad, liknande, omfattande</li>
             <li>ADV: i, med, på, av, runt, efter, klart, igenom, korrekt, och</li>
             <li>AUX: haft, skola</li>
-            <li>DET: båda, denne, du, vad, de, La, samtliga</li>
+            <li>DET: båda, denne, du, de, La, samtliga, vad</li>
             <li>NOUN: sätt, år, far, fält, gång, man, sidan, del, data, mor</li>
             <li>NUM: U</li>
             <li>PRON: han, jag, du, de, vi, hon, man, ni, sådan, enda</li>
@@ -1200,6 +1200,7 @@ udver: '2'
             <li>AUX-Fin: var</li>
             <li>VERB: låt, se, tänk, lägg, Exportera, klicka, kom, Ändra, Filtrera, Flytta</li>
             <li>VERB-Fin: låt, se, tänk, lägg, Exportera, klicka, kom, Ändra, Filtrera, Flytta</li>
+            <li>VERB-Inf: Länka</li>
           </ul>
         </li>
       </ul>
@@ -1235,7 +1236,7 @@ udver: '2'
             <li>AUX-Fin: var, är, hade, kan, har, skulle, kunde, måste, vill, kommer</li>
             <li>AUX-Sup: velat</li>
             <li>VERB-Fin: sa, var, hade, gick, har, kom, såg, sade, är, tog</li>
-            <li>VERB-Inf: lyckas, fyllt, inställd, klädd, avslutad, installerat, skuggad, dödade, fylld, kopplad</li>
+            <li>VERB-Inf: lyckas, fyllt, inställd, klädd, avslutad, skuggad, dödade, fylld, kopplad, minnas</li>
             <li>VERB-Part: tvungen, taget, leende, tvungna, flåsande, gjort, sittande, svävande, tröstande, baserat</li>
             <li>VERB-Sup: lyckats, funnits, färdats, hoppats, misslyckats, ordats, träffats</li>
           </ul>
@@ -1490,8 +1491,8 @@ udver: '2'
             <li>ADJ-Inf: framåtböjd</li>
             <li>NOUN-Sup: brits</li>
             <li>VERB-Fin: visas, kändes, används, hördes, tycktes, flyttas, döljs, skapas, tycks, behövs</li>
-            <li>VERB-Inf: talas, användas, fyllt, inställd, klädd, tänkas, visas, avslutad, installerat, köras</li>
-            <li>VERB-Part: tvungen, taget, tvungna, gjort, baserat, försvunnen, kallad, omgiven, utnämnd, Förundrad</li>
+            <li>VERB-Inf: talas, användas, fyllt, inställd, klädd, tänkas, visas, avslutad, köras, skuggad</li>
+            <li>VERB-Part: tvungen, taget, tvungna, gjort, baserat, försvunnen, installerat, kallad, omgiven, utnämnd</li>
             <li>VERB-Sup: skapats, använts, dragits, lagts, gjorts, tagits, brutits, fyllts, föreslagits, stängts</li>
           </ul>
         </li>
@@ -1622,7 +1623,7 @@ udver: '2'
           <ul>
             <li>ADJ: samma, beslutsamma</li>
             <li>DET: någon, något, några</li>
-            <li>PRON: man, någon, en, andra, mycket, något, ens, detsamma, några, många</li>
+            <li>PRON: man, någon, en, andra, något, mycket, ens, detsamma, några, många</li>
           </ul>
         </li>
       </ul>
@@ -1652,8 +1653,10 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>DET: vilken, vilket, vilka</li>
-            <li>PRON: vad, vem, vilka, vilket, vilken</li>
+            <li>ADJ: hurdan, Hurdana</li>
+            <li>ADV: hur, varför, var, vart, varifrån, när, vari</li>
+            <li>DET: vilka, vilken, vilket</li>
+            <li>PRON: vad, vem, vilka, vilket, vilken, allt</li>
           </ul>
         </li>
       </ul>
@@ -1697,6 +1700,7 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
+            <li>ADV: ingenstans</li>
             <li>DET: ingen, inget, inga</li>
             <li>PRON: ingenting, ingen, inget</li>
           </ul>
@@ -1777,9 +1781,10 @@ udver: '2'
       <ul>
         <li>Rel
           <ul>
+            <li>ADV: där, hur, varpå, varefter, vart, varvid, dit, då, var</li>
             <li>DET: vilken</li>
-            <li>PRON: som, något, vilket, vars, vilka, vilken, vilkas</li>
-            <li>SCONJ: som</li>
+            <li>PRON: som, något, vad, vilket, vars, vilka, vilken, vilkas</li>
+            <li>SCONJ: som, när</li>
           </ul>
         </li>
       </ul>
@@ -1802,8 +1807,8 @@ udver: '2'
       <ul>
         <li>Tot
           <ul>
-            <li>DET: alla, varje, all, allt, vilka, var, varenda, bägge</li>
-            <li>PRON: alla, allt, vem, båda, var, bägge, vars</li>
+            <li>DET: alla, varje, all, allt, var, varenda, bägge</li>
+            <li>PRON: alla, allt, båda, var, bägge</li>
           </ul>
         </li>
       </ul>
@@ -2177,18 +2182,17 @@ udver: '2'
             <li>VERB-Fin--NOUN-Nom-ADP(med) (2)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(om) (1)</li>
             <li>VERB-Fin--PRON (888)</li>
-            <li>VERB-Fin--PRON-Nom (2488)</li>
+            <li>VERB-Fin--PRON-Nom (2489)</li>
             <li>VERB-Fin--PRON-Nom-ADP(framför) (1)</li>
             <li>VERB-Inf--NOUN (1)</li>
-            <li>VERB-Inf--NOUN-Nom (197)</li>
+            <li>VERB-Inf--NOUN-Nom (194)</li>
             <li>VERB-Inf--PRON (111)</li>
-            <li>VERB-Inf--PRON-Nom (735)</li>
-            <li>VERB-Part--NOUN-Nom (16)</li>
+            <li>VERB-Inf--PRON-Nom (734)</li>
+            <li>VERB-Part--NOUN-Nom (18)</li>
             <li>VERB-Part--PRON (9)</li>
             <li>VERB-Part--PRON-Nom (18)</li>
             <li>VERB-Sup--NOUN (1)</li>
-            <li>VERB-Sup--NOUN-Gen (1)</li>
-            <li>VERB-Sup--NOUN-Nom (155)</li>
+            <li>VERB-Sup--NOUN-Nom (156)</li>
             <li>VERB-Sup--PRON (129)</li>
             <li>VERB-Sup--PRON-Nom (390)</li>
           </ul>
@@ -2256,7 +2260,7 @@ udver: '2'
             <li>VERB--PRON-Acc (1)</li>
             <li>VERB-Fin--NOUN (11)</li>
             <li>VERB-Fin--NOUN-Gen (3)</li>
-            <li>VERB-Fin--NOUN-Nom (1560)</li>
+            <li>VERB-Fin--NOUN-Nom (1559)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(emot) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(om) (2)</li>
@@ -2268,7 +2272,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Gen (11)</li>
             <li>VERB-Fin--PRON-Nom (2)</li>
             <li>VERB-Inf--NOUN (7)</li>
-            <li>VERB-Inf--NOUN-Nom (1020)</li>
+            <li>VERB-Inf--NOUN-Nom (1021)</li>
             <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
             <li>VERB-Inf--NOUN-Nom-ADP(på) (2)</li>
             <li>VERB-Inf--PRON (194)</li>

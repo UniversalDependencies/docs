@@ -47,7 +47,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 8186 sentences and 184072 tokens.</li>
+      <li>This corpus contains 8071 sentences and 192605 tokens.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -62,7 +62,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 1000 sentences and 26707 tokens.</li>
+      <li>This corpus contains 1000 sentences and 28784 tokens.</li>
       </ul>
     </td>
   </tr>
@@ -74,7 +74,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 183425 tokens (100%) that are not followed by a space.</li>
+      <li>This corpus contains 192374 tokens (100%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -89,7 +89,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 26699 tokens (100%) that are not followed by a space.</li>
+      <li>This corpus contains 28746 tokens (100%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -128,7 +128,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 76 types of words that contain both letters and punctuation. Examples: 、と, 、という, SETI@home, ”と, が、, ら・むうん, スター・ウォーズ, ルイ・ヴィトン, (株), )し, A&M, A.T, D.C.I, E.T, IT'SFRIDAY, J.Z, Jr., L'Arc, L'Orateurdu, L.E.D, O'Malley, PaulKantner's, S&P, ZYX-α, ”する, ”に, 、で, 、といった, 、など, 、の, 、を, 」し, アテナ&ロビケロッツ, アル・パチーノ, アンディ・ウォーホル, アンドレ・アガシ, イー・モバイル, ウォール・ストリート・ジャーナル, エル・ドラード, エール・フランス, オードリー・ヘップバーン, カール・ツァイス, クリーブランド・ブラウンズ, ゴールドマン・サックス, サム・シェパード, シラノ・ド・ベルジュラック, ジェームズ・ブキャナン, ジェームズ・ワトソン, ジャネット・ジャクソン, ジョン・レノン</li>
+      <li>This corpus contains 31 types of words that contain both letters and punctuation. Examples: Wi-Fi, 一、二塁, 80’s, D.C., E.T., IT’S, L.E.D., L’Arc, L’Orateur, MR., No., O’Malley, ぼ・っ・ち・, ウィルダネス・タバーン, エル・ドラード, カハ・デュエロ, カムデン・ヤーズ, パパ’S, ピーク・ウィルダーネス, ブローム・ウント・フォス, ベア・ビュット, ベル・フーシェ, ペルリー・セルトゥ, マハメド・スベール, マリィ・トロステネツ, メ〜テレ, ラ・サール, ル・マン, ロギー・バイユー, ・ふ・た・り・, 一、三塁</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -143,7 +143,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: 、と, ドナルド・トランプ, 、という, 、を, B.C, B.C., G.D.P, HerFatherDidn't, Z.A, Zettel’sTraum, 、の, 」な, ウォルト・ディズニー, エル・グレコ, オート・ガロンヌ, オードリー・ヘプバーン, カサ・サンタ・マルタ, カステルフランコ・ヴェネト, サン・ゴーダン, シガー・ロス, シー・オブ・ジ・アンティレス, ジョン・ディ・ドメニコ, スティーラーズ・ホイール, ストレンジャー・シングズ, トーキング・デッド, ド・ゴール, ハーバード・ビジネス・スクール, バハ・カリフォルニヤ, ヒラリー・クリントン, フェデリコ・フェリーニ, フランツ・ヨーゼフ, プンタ・デル・エステ, プンタ・ラサ, マラー/サド, メラニア・トランプ, ラッセ・ハルストレム, ル・コント, ルーカス・クラナッハ</li>
+      <li>This corpus contains 10 types of words that contain both letters and punctuation. Examples: B.C., G.D.P., H​e​r​F​a​t​h​e​r​D​i​d​n​’​t​L​i​k​e​M​e​A​n​y​w​a​y, Thought’YaKnew, Wi-Fi, Zettel’s, イェルバ・ブエナ, セスト・サン・ジョヴァンニ, プンタ・デル・エステ, プンタ・ラサ</li>
       </ul>
     </td>
   </tr>
@@ -214,8 +214,8 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
-      <li>This corpus does not use the following tags: INTJ, X</li>
+      <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
+      <li>This corpus does not use the following tags: X</li>
       </ul>
     </td>
   </tr>
@@ -227,7 +227,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 61 word types tagged as particles (PART): +, -, ~, およそ, か, かしらん, かどうか, か否か, がな, さ, ぞ, ぞお, な, なぁ, なあ, なー, ね, ねえ, の, のよ, ほぼ, よ, よぉ, よー, わ, ナンバー, ベスト, マイナス, マッハ, 丸, 人口, 全長, 分の, 南緯, 各, 同, 夜, 対, 平成, 年, 延べ, 昭和, 最低, 最多, 最大, 最高, 残り, 毎時, 直径, 第, 築, 紀元前, 約, 総計, 翌, 計, 金, 長さ, 高さ, 齢, ～</li>
+      <li>This corpus contains 50 word types tagged as particles (PART): か, かしらん, かね, がかっ, がち, がっ, がら, がり, がる, くらい, ぐらい, げ, さ, さえ, しか, すぎ, すら, ぞ, ぞお, たり, だけ, だり, って, っぱなし, っぽ, っぽい, っぽく, どころ, な, なぁ, なあ, など, なんて, なー, ね, ねえ, の, のみ, ばかり, ほど, まで, まとい, や, よ, よぉ, よー, わ, 的, 程, 風</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -242,7 +242,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 10 word types tagged as particles (PART): か, かどうか, さ, ね, 最大, 最高, 第, 紀元前, 約, 翌</li>
+      <li>This corpus contains 14 word types tagged as particles (PART): い, か, がかっ, さ, たり, だけ, だらけ, っぽく, ね, ばかり, ほど, まで, 的, 風</li>
       </ul>
     </td>
   </tr>
@@ -254,7 +254,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 55 lemmas tagged as pronouns (PRON): あちこち, あちら, あなた, あれ, いずれ, おまえ, おめーら, お前, かれ, ここ, こちら, この方, これ, これら, そこ, そちら, その他, それ, それぞれ, それら, どこ, どちら, どなた, どれ, なん, ぼく, みなさま, みなさん, みんな, わしゃ, わたし, われわれ, 他所, 何か, 何処, 俺, 僕, 僕ら, 君, 奴, 彼, 彼ら, 彼女, 彼女たち, 彼方, 彼等, 我々, 手前, 皆, 皆さま, 皆さん, 皆様, 私, 私たち, 誰</li>
+      <li>This corpus contains 56 lemmas tagged as pronouns (PRON): You, あちこち, あちら, あなた, あらゆる, ある, あれ, いずこ, いずれ, いつ, おまえ, おめー, お前, か, かれ, ここ, こちら, こっち, これ, こんな, そこ, そちら, そらあ, それ, そんな, どこ, どちら, どなた, どれ, どんな, なに, なん, ぼく, わしゃ, わたし, われわれ, オタク, キミ, ボク, ヲタク, 何, 何処, 何時, 余, 俺, 僕, 君, 己, 彼, 彼女, 彼方, 我, 我々, 私, 誰, 貴様</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -269,7 +269,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 26 lemmas tagged as pronouns (PRON): あなた, いずれ, かれら, ここ, これ, これら, そこ, その他, それ, それぞれ, それら, どこ, どちら, どれ, みなさん, よそ, 君たち, 彼, 彼ら, 彼女, 我々, 皆, 私, 私たち, 私達, 誰</li>
+      <li>This corpus contains 22 lemmas tagged as pronouns (PRON): You, あなた, あらゆる, ある, いずれ, いつ, かれ, ここ, これ, そこ, それ, どこ, どちら, どれ, なん, 何, 君, 彼, 彼女, 我々, 私, 誰</li>
       </ul>
     </td>
   </tr>
@@ -332,7 +332,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 118 lemmas tagged as auxiliaries (AUX): あう, あげる, ある, いく, いける, いただく, いらっしゃる, いる, う, うる, える, おく, おる, かける, かす, かねる, かもしれる, かも知れる, がたい, がちだ, がる, きる, くださる, くれる, ける, げだ, げる, こむ, ございる, させる, ざるをえる, ざるを得る, しまう, すぎる, する, せる, そうだ, た, たい, たっ, たら, たろ, たー, だ, だす, だめ, ちゃう, っぱい, っぱなし, っぽい, つづける, づめる, づらい, て, てる, できる, でした, ない, なければ, なさる, なら, なる, にくい, ぬく, ね, はじめる, ふうだ, べし, べる, ほしい, ま~す, まい, まいる, まう, ます, みせる, みたいだ, みる, める, もらう, もらえる, やすい, やっ, やる, ゆく, よい, よう, ようだ, らしい, らす, らるる, られる, れる, わす, 下さる, 出す, 出来る, 切る, 化, 参る, 合う, 回る, 始める, 尽くす, 得る, 易い, 来る, 欲しい, 済み, 直す, 終わる, 続ける, 良い, 行く, 込む, 過ぎる, 難い, 頂く</li>
+      <li>This corpus contains 109 lemmas tagged as auxiliaries (AUX): ある, いい, いく, いける, いたす, いただく, いただける, いらっしゃる, いる, える, おく, おける, おる, かかる, がたい, がましい, きる, きれる, くださる, くる, くれる, ごとし, させる, しまう, しれる, じゃ, す, すぎる, する, せる, そう, た, たい, たがる, たり, だ, だす, ちゃう, っつう, つくす, つづける, づける, づらい, てく, てる, できる, でる, とく, ない, なさる, なり, なる, にくい, ぬ, ぬく, はじめる, べし, ほしい, まい, まいる, まう, まじ, ます, みたい, みたく, みる, む, もらう, もらえる, や, やすい, やる, ゆく, よい, よう, らしい, らる, られる, り, れる, わたる, 亘る, 付ける, 出す, 切る, 参る, 合う, 回る, 始める, 尽くす, 忘れる, 慣れる, 抜く, 損ねる, 易い, 来る, 果てる, 渡る, 直す, 終わる, 続く, 続ける, 置く, 致す, 行く, 行ける, 込む, 遅れる, 難い</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -347,7 +347,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 47 lemmas tagged as auxiliaries (AUX): ある, いく, いる, う, うる, える, おる, かける, かもしれる, くれる, させる, しまう, しめる, すぎる, する, せる, そうだ, た, たい, たら, たろ, だ, できる, でした, ない, なければ, なさる, なら, なる, べし, ます, やすい, ゆく, よい, ようだ, らしい, らす, られる, れる, 出す, 化, 始める, 来る, 終える, 続ける, 良い, 行く</li>
+      <li>This corpus contains 46 lemmas tagged as auxiliaries (AUX): ある, いい, いく, いる, える, おる, がましい, くる, くれる, させる, しまう, しめる, しれる, す, すぎる, する, せる, そう, た, たい, たり, だ, づける, てる, できる, ない, なり, なる, ぬ, はじめる, べし, ます, やすい, よい, よう, らしい, られる, り, れる, わたる, 付ける, 出す, 始める, 渡る, 終える, 続ける</li>
       </ul>
     </td>
   </tr>
@@ -359,7 +359,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>Out of the above, 49 lemmas occurred sometimes as AUX and sometimes as VERB: あう, あげる, ある, いく, いける, いただく, いらっしゃる, いる, おく, おる, かける, きる, くださる, くれる, こむ, しまう, すぎる, する, せる, だす, つづける, できる, なさる, なる, はじめる, ます, みせる, みる, もらう, やる, ゆく, 下さる, 出す, 出来る, 切る, 化, 参る, 合う, 回る, 始める, 尽くす, 得る, 来る, 直す, 終わる, 続ける, 行く, 過ぎる, 頂く</li>
+      <li>Out of the above, 55 lemmas occurred sometimes as AUX and sometimes as VERB: ある, いく, いける, いたす, いただく, いただける, いらっしゃる, いる, える, おく, おる, かかる, くださる, くる, くれる, しまう, しれる, すぎる, する, そう, だす, つづける, できる, でる, なる, はじめる, まいる, みる, もらう, もらえる, やる, わたる, 亘る, 付ける, 出す, 切る, 参る, 合う, 回る, 始める, 尽くす, 忘れる, 慣れる, 抜く, 来る, 渡る, 直す, 終わる, 続く, 続ける, 置く, 致す, 行く, 行ける, 遅れる</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -373,7 +373,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>Out of the above, 16 lemmas occurred sometimes as AUX and sometimes as VERB: ある, いく, いる, かける, する, せる, できる, なさる, なる, 出す, 化, 始める, 来る, 終える, 続ける, 行く</li>
+      <li>Out of the above, 16 lemmas occurred sometimes as AUX and sometimes as VERB: ある, いく, いる, える, くる, しれる, すぎる, する, できる, なる, 付ける, 出す, 始める, 渡る, 終える, 続ける</li>
       </ul>
     </td>
   </tr>
@@ -564,7 +564,9 @@ udver: '2'
       </ul>
     </td>
     <td width="20%" valign="top">
-
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
     </td>
     <td width="20%" valign="top">
 
@@ -575,7 +577,9 @@ udver: '2'
       </ul>
     </td>
     <td width="20%" valign="top">
-
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -591,7 +595,15 @@ udver: '2'
       </ul>
     </td>
     <td width="20%" valign="top">
-
+      <ul>
+        <li>Neg
+          <ul>
+            <li>ADJ: 無い, 無く, 無かっ</li>
+            <li>AUX: ない, なかっ, なく, なけれ, なきゃ, 無い, な, 無く</li>
+            <li>NOUN: 不, 非, 反, 無, 未, 異</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="20%" valign="top">
 
@@ -607,196 +619,17 @@ udver: '2'
       </ul>
     </td>
     <td width="20%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="20%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="20%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="20%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="20%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-    <td width="20%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-    <td width="20%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-    <td width="20%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-    <td width="20%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
       <ul>
-        <li><a>NumType</a></li>
-      </ul>
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-      <ul>
-        <li><a>NumType</a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top">
-
-    </td>
-    <td width="20%" valign="top">
-      <ul>
-        <li>Card
+        <li>Neg
           <ul>
-            <li>NUM: 1, 2, 3, 4, 一, 5, 10, 6, 二, 7</li>
+            <li>AUX: ない, なかっ, なけれ, なく</li>
+            <li>NOUN: 不, 未, 非, 反, 無</li>
           </ul>
         </li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="20%" valign="top">
 
     </td>
@@ -804,13 +637,166 @@ udver: '2'
 
     </td>
     <td width="20%" valign="top">
-      <ul>
-        <li>Card
-          <ul>
-            <li>NUM: 1, 2, 3, 一, 10, 4, 6, 20, 二, 億</li>
-          </ul>
-        </li>
-      </ul>
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
     </td>
   </tr>
   <tr>
@@ -1014,7 +1000,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus uses 116 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, いる, れる, だ, ます, ない, ようだ, られる, なる, おる, せる, う, 来る, できる, たい, しまう, くれる, いく, そうだ, たら, もらう, みる, える, べし, なら, やすい, ける, くださる, 続ける, いただく, らしい, める, でした, 始める, 行く, かもしれる, みたいだ, 出す, 出来る, 合う, すぎる, 頂く, ある, ちゃう, おく, なければ, 込む, もらえる, させる.</li>
+      <li>This corpus uses 107 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, いる, れる, ます, ある, ない, られる, ぬ, よう, できる, おる, せる, たい, くる, しまう, なる, くれる, いく, てる, そう, くださる, もらう, みる, いただく, べし, やすい, らしい, しれる, 続ける, 始める, すぎる, みたい, ちゃう, いい, える, なり, もらえる, おく, す, いただける, させる, ほしい, にくい, よい, いたす, きれる, っつう, でる.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -1029,7 +1015,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus uses 45 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, いる, れる, ない, ます, ようだ, う, られる, せる, なる, おる, 来る, できる, たい, べし, 始める, かもしれる, しまう, なければ, 続ける, すぎる, える, たら, いく, かける, くれる, させる, そうだ, でした, 出す, 化, うる, しめる, たろ, なさる, なら, やすい, ゆく, らしい, らす, 終える, 良い, 行く.</li>
+      <li>This corpus uses 43 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, いる, れる, ある, ない, ます, られる, できる, よう, なる, せる, ぬ, おる, たい, べし, くる, 始める, しれる, しまう, すぎる, 続ける, す, なり, いく, くれる, させる, そう, たり, 付ける, 出す, 渡る, いい, える, がましい, しめる, づける, てる, やすい, よい, らしい, 終える.</li>
       </ul>
     </td>
   </tr>
@@ -1065,19 +1051,35 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-ADP(から)-ADP(が) (3)</li>
-            <li>VERB--NOUN-ADP(が) (2516)</li>
-            <li>VERB--NOUN-ADP(が)-ADP(に) (1)</li>
+            <li>VERB--NOUN-ADP(か)-ADP(が) (1)</li>
+            <li>VERB--NOUN-ADP(か)-ADP(は) (3)</li>
+            <li>VERB--NOUN-ADP(から)-ADP(が) (2)</li>
+            <li>VERB--NOUN-ADP(から)-ADP(の) (1)</li>
+            <li>VERB--NOUN-ADP(が) (2586)</li>
             <li>VERB--NOUN-ADP(だけ)-ADP(が) (4)</li>
             <li>VERB--NOUN-ADP(だけ)-ADP(は) (3)</li>
-            <li>VERB--NOUN-ADP(など)-ADP(が) (35)</li>
+            <li>VERB--NOUN-ADP(で)-ADP(の) (1)</li>
+            <li>VERB--NOUN-ADP(と)-ADP(が) (1)</li>
+            <li>VERB--NOUN-ADP(など)-ADP(が) (37)</li>
             <li>VERB--NOUN-ADP(など)-ADP(は) (7)</li>
+            <li>VERB--NOUN-ADP(の) (90)</li>
+            <li>VERB--NOUN-ADP(の)-ADP(で) (2)</li>
+            <li>VERB--NOUN-ADP(の)-ADP(で)-ADP(は) (1)</li>
+            <li>VERB--NOUN-ADP(の)-ADP(と) (4)</li>
+            <li>VERB--NOUN-ADP(の)-ADP(に) (4)</li>
+            <li>VERB--NOUN-ADP(の)-ADP(は) (2)</li>
             <li>VERB--NOUN-ADP(のみ)-ADP(が) (1)</li>
-            <li>VERB--NOUN-ADP(は) (1751)</li>
-            <li>VERB--NOUN-ADP(まで)-ADP(が) (2)</li>
-            <li>VERB--NOUN-ADP(まで)-ADP(も)-ADP(が) (1)</li>
-            <li>VERB--PRON-ADP(が) (50)</li>
-            <li>VERB--PRON-ADP(は) (109)</li>
+            <li>VERB--NOUN-ADP(は) (1719)</li>
+            <li>VERB--NOUN-ADP(まで)-ADP(が) (3)</li>
+            <li>VERB--NOUN-ADP(まで)-ADP(は) (13)</li>
+            <li>VERB--NOUN-ADP(や)-ADP(が) (1)</li>
+            <li>VERB--NOUN-ADP(等)-ADP(が) (1)</li>
+            <li>VERB--PRON-ADP(か)-ADP(が) (1)</li>
+            <li>VERB--PRON-ADP(か)-ADP(は) (1)</li>
+            <li>VERB--PRON-ADP(が) (46)</li>
+            <li>VERB--PRON-ADP(だけ)-ADP(が) (1)</li>
+            <li>VERB--PRON-ADP(の) (3)</li>
+            <li>VERB--PRON-ADP(は) (90)</li>
           </ul>
         </li>
       </ul>
@@ -1129,15 +1131,20 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-ADP(が) (350)</li>
+            <li>VERB--NOUN-ADP(か)-ADP(が) (1)</li>
+            <li>VERB--NOUN-ADP(が) (390)</li>
+            <li>VERB--NOUN-ADP(しか) (1)</li>
             <li>VERB--NOUN-ADP(だけ)-ADP(が) (1)</li>
+            <li>VERB--NOUN-ADP(だけ)-ADP(は) (1)</li>
+            <li>VERB--NOUN-ADP(と) (1)</li>
             <li>VERB--NOUN-ADP(など)-ADP(が) (3)</li>
-            <li>VERB--NOUN-ADP(の)-ADP(が) (2)</li>
-            <li>VERB--NOUN-ADP(は) (371)</li>
+            <li>VERB--NOUN-ADP(の) (18)</li>
+            <li>VERB--NOUN-ADP(は) (400)</li>
             <li>VERB--NOUN-ADP(まで)-ADP(も)-ADP(が) (1)</li>
-            <li>VERB--PRON-ADP(が) (30)</li>
-            <li>VERB--PRON-ADP(は) (135)</li>
-            <li>VERB--PRON-ADP(も)-ADP(が) (1)</li>
+            <li>VERB--PRON-ADP(か)-ADP(が) (1)</li>
+            <li>VERB--PRON-ADP(が) (24)</li>
+            <li>VERB--PRON-ADP(の) (1)</li>
+            <li>VERB--PRON-ADP(は) (124)</li>
           </ul>
         </li>
       </ul>
@@ -1166,22 +1173,25 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
+            <li>VERB--NOUN-ADP(か)-ADP(を) (1)</li>
+            <li>VERB--NOUN-ADP(が)-ADP(を) (1)</li>
+            <li>VERB--NOUN-ADP(が)-ADP(を)-ADP(を) (1)</li>
             <li>VERB--NOUN-ADP(だけ)-ADP(を) (2)</li>
+            <li>VERB--NOUN-ADP(と)-ADP(か)-ADP(を) (1)</li>
             <li>VERB--NOUN-ADP(と)-ADP(を) (3)</li>
-            <li>VERB--NOUN-ADP(という)-ADP(を) (1)</li>
-            <li>VERB--NOUN-ADP(といった)-ADP(を) (1)</li>
-            <li>VERB--NOUN-ADP(とか)-ADP(を) (1)</li>
-            <li>VERB--NOUN-ADP(など)-ADP(を) (53)</li>
-            <li>VERB--NOUN-ADP(に当たる)-ADP(を) (1)</li>
-            <li>VERB--NOUN-ADP(のみ)-ADP(を) (5)</li>
-            <li>VERB--NOUN-ADP(ほど)-ADP(を) (1)</li>
+            <li>VERB--NOUN-ADP(など)-ADP(を) (47)</li>
+            <li>VERB--NOUN-ADP(に)-ADP(を) (2)</li>
+            <li>VERB--NOUN-ADP(の)-ADP(の)-ADP(を) (1)</li>
+            <li>VERB--NOUN-ADP(の)-ADP(を) (3)</li>
+            <li>VERB--NOUN-ADP(のみ)-ADP(を) (3)</li>
             <li>VERB--NOUN-ADP(まで)-ADP(を) (1)</li>
-            <li>VERB--NOUN-ADP(を) (4498)</li>
-            <li>VERB--NOUN-ADP(を)-ADP(と)-ADP(も) (2)</li>
-            <li>VERB--NOUN-ADP(を)-ADP(はじめ) (4)</li>
+            <li>VERB--NOUN-ADP(を) (4494)</li>
+            <li>VERB--NOUN-ADP(を)-ADP(で)-ADP(も) (1)</li>
             <li>VERB--NOUN-ADP(を)-ADP(も) (2)</li>
+            <li>VERB--NOUN-ADP(ノ)-ADP(を) (1)</li>
+            <li>VERB--PRON-ADP(か)-ADP(を) (4)</li>
             <li>VERB--PRON-ADP(まで)-ADP(を) (1)</li>
-            <li>VERB--PRON-ADP(を) (85)</li>
+            <li>VERB--PRON-ADP(を) (79)</li>
           </ul>
         </li>
       </ul>
@@ -1215,11 +1225,9 @@ udver: '2'
           <ul>
             <li>VERB--NOUN-ADP(だけ)-ADP(を) (1)</li>
             <li>VERB--NOUN-ADP(など)-ADP(を) (2)</li>
-            <li>VERB--NOUN-ADP(の)-ADP(を) (2)</li>
-            <li>VERB--NOUN-ADP(を) (700)</li>
-            <li>VERB--NOUN-ADP(を)-ADP(はじめ) (1)</li>
+            <li>VERB--NOUN-ADP(を) (718)</li>
             <li>VERB--NOUN-ADP(を)-ADP(も) (1)</li>
-            <li>VERB--PRON-ADP(を) (21)</li>
+            <li>VERB--PRON-ADP(を) (20)</li>
           </ul>
         </li>
       </ul>
@@ -1245,33 +1253,6 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN-ADP(くらい)-ADP(に) (3)</li>
-            <li>VERB--NOUN-ADP(だけ)-ADP(に) (2)</li>
-            <li>VERB--NOUN-ADP(と)-ADP(に) (1)</li>
-            <li>VERB--NOUN-ADP(など)-ADP(に) (21)</li>
-            <li>VERB--NOUN-ADP(など)-ADP(に)-ADP(は) (1)</li>
-            <li>VERB--NOUN-ADP(など)-ADP(に)-ADP(も) (3)</li>
-            <li>VERB--NOUN-ADP(なり)-ADP(に) (1)</li>
-            <li>VERB--NOUN-ADP(に) (3527)</li>
-            <li>VERB--NOUN-ADP(に)-ADP(しか) (2)</li>
-            <li>VERB--NOUN-ADP(に)-ADP(だけ)-ADP(で)-ADP(も) (1)</li>
-            <li>VERB--NOUN-ADP(に)-ADP(だけ)-ADP(は) (2)</li>
-            <li>VERB--NOUN-ADP(に)-ADP(と) (1)</li>
-            <li>VERB--NOUN-ADP(に)-ADP(は) (394)</li>
-            <li>VERB--NOUN-ADP(に)-ADP(は)-ADP(と) (1)</li>
-            <li>VERB--NOUN-ADP(に)-ADP(まで) (10)</li>
-            <li>VERB--NOUN-ADP(に)-ADP(も) (107)</li>
-            <li>VERB--NOUN-ADP(のみ)-ADP(に) (1)</li>
-            <li>VERB--NOUN-ADP(は)-ADP(に) (1)</li>
-            <li>VERB--NOUN-ADP(ほど)-ADP(に) (1)</li>
-            <li>VERB--NOUN-ADP(まで)-ADP(に) (23)</li>
-            <li>VERB--NOUN-ADP(まで)-ADP(に)-ADP(は) (1)</li>
-            <li>VERB--PRON-ADP(に) (72)</li>
-            <li>VERB--PRON-ADP(に)-ADP(しか) (1)</li>
-            <li>VERB--PRON-ADP(に)-ADP(は) (10)</li>
-            <li>VERB--PRON-ADP(に)-ADP(も) (6)</li>
-            <li>VERB--PRON-ADP(まで)-ADP(に) (3)</li>
-            <li>VERB--PRON-ADP(まで)-ADP(に)-ADP(も) (1)</li>
           </ul>
         </li>
       </ul>
@@ -1316,17 +1297,6 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN-ADP(だけ)-ADP(に) (1)</li>
-            <li>VERB--NOUN-ADP(に) (499)</li>
-            <li>VERB--NOUN-ADP(に)-ADP(しか) (1)</li>
-            <li>VERB--NOUN-ADP(に)-ADP(は) (68)</li>
-            <li>VERB--NOUN-ADP(に)-ADP(も) (7)</li>
-            <li>VERB--NOUN-ADP(のみ)-ADP(に) (2)</li>
-            <li>VERB--NOUN-ADP(まで)-ADP(に) (8)</li>
-            <li>VERB--NOUN-ADP(まで)-ADP(に)-ADP(は) (2)</li>
-            <li>VERB--PRON-ADP(に) (20)</li>
-            <li>VERB--PRON-ADP(に)-ADP(は) (3)</li>
-            <li>VERB--PRON-ADP(に)-ADP(も) (2)</li>
           </ul>
         </li>
       </ul>
@@ -1397,7 +1367,7 @@ udver: '2'
       
       <ul>
       <li>This corpus does not use relation subtypes.</li>
-      <li>The following 12 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 13 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -1421,7 +1391,7 @@ udver: '2'
       
       <ul>
       <li>This corpus does not use relation subtypes.</li>
-      <li>The following 12 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>discourse</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 12 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
   </tr>

@@ -3623,7 +3623,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>ADV: tak, zde, tam, tu, dosud, nyní, tehdy, tady, teď, odtud</li>
+            <li>ADV: tak, proto, zde, tam, tu, dosud, nyní, tehdy, tady, teď</li>
             <li>DET: to, tím, této, těchto, tyto, tom, toho, tento, tohoto, tomu</li>
           </ul>
         </li>
@@ -6589,49 +6589,32 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB-Conv--NOUN-Acc (8)</li>
-            <li>VERB-Conv--NOUN-Gen (2)</li>
-            <li>VERB-Conv--NOUN-Ins (1)</li>
+            <li>VERB-Conv--NOUN-Gen (1)</li>
             <li>VERB-Conv--PRON-Acc (1)</li>
             <li>VERB-Fin--NOUN (3)</li>
             <li>VERB-Fin--NOUN-Acc (5612)</li>
-            <li>VERB-Fin--NOUN-Dat (342)</li>
-            <li>VERB-Fin--NOUN-Gen (445)</li>
-            <li>VERB-Fin--NOUN-Ins (234)</li>
+            <li>VERB-Fin--NOUN-Gen (143)</li>
             <li>VERB-Fin--NOUN-Nom (98)</li>
             <li>VERB-Fin--PRON (18)</li>
             <li>VERB-Fin--PRON-Acc (612)</li>
-            <li>VERB-Fin--PRON-Acc-ADP(na) (1)</li>
-            <li>VERB-Fin--PRON-Acc-ADP(o) (2)</li>
-            <li>VERB-Fin--PRON-Acc-ADP(za) (1)</li>
-            <li>VERB-Fin--PRON-Dat (206)</li>
-            <li>VERB-Fin--PRON-Gen (20)</li>
-            <li>VERB-Fin--PRON-Ins (11)</li>
+            <li>VERB-Fin--PRON-Gen (4)</li>
             <li>VERB-Fin--PRON-Nom (7)</li>
             <li>VERB-Inf--NOUN (5)</li>
             <li>VERB-Inf--NOUN-Acc (3543)</li>
-            <li>VERB-Inf--NOUN-Dat (134)</li>
-            <li>VERB-Inf--NOUN-Gen (219)</li>
-            <li>VERB-Inf--NOUN-Ins (62)</li>
-            <li>VERB-Inf--NOUN-Loc (2)</li>
+            <li>VERB-Inf--NOUN-Gen (34)</li>
+            <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
             <li>VERB-Inf--NOUN-Nom (27)</li>
             <li>VERB-Inf--PRON (6)</li>
             <li>VERB-Inf--PRON-Acc (382)</li>
-            <li>VERB-Inf--PRON-Dat (46)</li>
-            <li>VERB-Inf--PRON-Gen (17)</li>
-            <li>VERB-Inf--PRON-Ins (3)</li>
+            <li>VERB-Inf--PRON-Gen (2)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
             <li>VERB-Part--NOUN (20)</li>
             <li>VERB-Part--NOUN-Acc (2792)</li>
-            <li>VERB-Part--NOUN-Dat (168)</li>
-            <li>VERB-Part--NOUN-Gen (344)</li>
-            <li>VERB-Part--NOUN-Ins (191)</li>
+            <li>VERB-Part--NOUN-Gen (121)</li>
             <li>VERB-Part--NOUN-Nom (17)</li>
             <li>VERB-Part--PRON (14)</li>
             <li>VERB-Part--PRON-Acc (372)</li>
-            <li>VERB-Part--PRON-Acc-ADP(o) (3)</li>
-            <li>VERB-Part--PRON-Dat (116)</li>
-            <li>VERB-Part--PRON-Gen (19)</li>
-            <li>VERB-Part--PRON-Ins (5)</li>
+            <li>VERB-Part--PRON-Gen (4)</li>
             <li>VERB-Part--PRON-Nom (1)</li>
           </ul>
         </li>
@@ -6642,27 +6625,15 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB-Fin--NOUN-Acc (421)</li>
-            <li>VERB-Fin--NOUN-Dat (24)</li>
-            <li>VERB-Fin--NOUN-Gen (44)</li>
-            <li>VERB-Fin--NOUN-Ins (7)</li>
-            <li>VERB-Fin--NOUN-Loc (5)</li>
+            <li>VERB-Fin--NOUN-Gen (2)</li>
             <li>VERB-Fin--NOUN-Nom (88)</li>
             <li>VERB-Fin--PRON-Acc (12)</li>
-            <li>VERB-Fin--PRON-Dat (1)</li>
-            <li>VERB-Fin--PRON-Ins (1)</li>
             <li>VERB-Inf--NOUN-Acc (197)</li>
-            <li>VERB-Inf--NOUN-Dat (5)</li>
-            <li>VERB-Inf--NOUN-Gen (8)</li>
-            <li>VERB-Inf--NOUN-Ins (2)</li>
             <li>VERB-Inf--NOUN-Nom (23)</li>
             <li>VERB-Inf--PRON-Acc (11)</li>
             <li>VERB-Part--NOUN-Acc (25)</li>
-            <li>VERB-Part--NOUN-Dat (1)</li>
-            <li>VERB-Part--NOUN-Gen (2)</li>
-            <li>VERB-Part--NOUN-Ins (6)</li>
             <li>VERB-Part--NOUN-Nom (3)</li>
             <li>VERB-Part--PRON-Acc (5)</li>
-            <li>VERB-Part--PRON-Dat (1)</li>
           </ul>
         </li>
       </ul>
@@ -6672,45 +6643,27 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB-Conv--NOUN-Acc (16)</li>
-            <li>VERB-Conv--NOUN-Dat (2)</li>
-            <li>VERB-Conv--NOUN-Gen (1)</li>
-            <li>VERB-Conv--NOUN-Ins (3)</li>
             <li>VERB-Conv--PRON-Acc (1)</li>
             <li>VERB-Conv--PRON-Nom (1)</li>
             <li>VERB-Fin--NOUN-Acc (1128)</li>
-            <li>VERB-Fin--NOUN-Dat (54)</li>
-            <li>VERB-Fin--NOUN-Gen (85)</li>
-            <li>VERB-Fin--NOUN-Ins (43)</li>
+            <li>VERB-Fin--NOUN-Gen (49)</li>
             <li>VERB-Fin--NOUN-Nom (3)</li>
             <li>VERB-Fin--PRON (1)</li>
             <li>VERB-Fin--PRON-Acc (731)</li>
-            <li>VERB-Fin--PRON-Acc-ADP(o) (2)</li>
-            <li>VERB-Fin--PRON-Dat (221)</li>
-            <li>VERB-Fin--PRON-Gen (27)</li>
-            <li>VERB-Fin--PRON-Ins (2)</li>
+            <li>VERB-Fin--PRON-Gen (3)</li>
             <li>VERB-Fin--PRON-Nom (2)</li>
             <li>VERB-Inf--NOUN-Acc (678)</li>
-            <li>VERB-Inf--NOUN-Dat (34)</li>
-            <li>VERB-Inf--NOUN-Gen (45)</li>
-            <li>VERB-Inf--NOUN-Ins (20)</li>
+            <li>VERB-Inf--NOUN-Gen (19)</li>
             <li>VERB-Inf--NOUN-Nom (2)</li>
             <li>VERB-Inf--PRON (1)</li>
             <li>VERB-Inf--PRON-Acc (467)</li>
-            <li>VERB-Inf--PRON-Dat (91)</li>
-            <li>VERB-Inf--PRON-Gen (13)</li>
-            <li>VERB-Inf--PRON-Ins (3)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
             <li>VERB-Part--NOUN-Acc (2700)</li>
-            <li>VERB-Part--NOUN-Dat (123)</li>
-            <li>VERB-Part--NOUN-Gen (157)</li>
-            <li>VERB-Part--NOUN-Ins (128)</li>
-            <li>VERB-Part--NOUN-Loc (1)</li>
+            <li>VERB-Part--NOUN-Gen (77)</li>
             <li>VERB-Part--NOUN-Nom (13)</li>
             <li>VERB-Part--PRON (7)</li>
             <li>VERB-Part--PRON-Acc (1316)</li>
-            <li>VERB-Part--PRON-Dat (449)</li>
-            <li>VERB-Part--PRON-Gen (48)</li>
-            <li>VERB-Part--PRON-Ins (17)</li>
+            <li>VERB-Part--PRON-Gen (3)</li>
             <li>VERB-Part--PRON-Nom (1)</li>
           </ul>
         </li>
@@ -6722,45 +6675,36 @@ udver: '2'
           <ul>
             <li>VERB-Conv--NOUN (1)</li>
             <li>VERB-Conv--NOUN-Acc (17)</li>
-            <li>VERB-Conv--NOUN-Gen (2)</li>
-            <li>VERB-Conv--NOUN-Ins (8)</li>
             <li>VERB-Conv--PRON-Acc (2)</li>
-            <li>VERB-Conv--PRON-Dat (1)</li>
             <li>VERB-Fin--NOUN (89)</li>
             <li>VERB-Fin--NOUN-Acc (14709)</li>
-            <li>VERB-Fin--NOUN-Dat (952)</li>
-            <li>VERB-Fin--NOUN-Gen (1335)</li>
-            <li>VERB-Fin--NOUN-Ins (535)</li>
+            <li>VERB-Fin--NOUN-Gen (677)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(na) (3)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(o) (6)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(za) (2)</li>
             <li>VERB-Fin--NOUN-Nom (43)</li>
             <li>VERB-Fin--NOUN-Voc (1)</li>
             <li>VERB-Fin--PRON-Acc (2003)</li>
-            <li>VERB-Fin--PRON-Dat (730)</li>
-            <li>VERB-Fin--PRON-Gen (95)</li>
-            <li>VERB-Fin--PRON-Ins (25)</li>
+            <li>VERB-Fin--PRON-Gen (19)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
             <li>VERB-Inf--NOUN (31)</li>
             <li>VERB-Inf--NOUN-Acc (9904)</li>
-            <li>VERB-Inf--NOUN-Dat (507)</li>
-            <li>VERB-Inf--NOUN-Gen (692)</li>
-            <li>VERB-Inf--NOUN-Ins (254)</li>
+            <li>VERB-Inf--NOUN-Gen (266)</li>
+            <li>VERB-Inf--NOUN-Gen-ADP(na) (2)</li>
+            <li>VERB-Inf--NOUN-Gen-ADP(o) (1)</li>
             <li>VERB-Inf--NOUN-Nom (19)</li>
             <li>VERB-Inf--PRON (1)</li>
             <li>VERB-Inf--PRON-Acc (1438)</li>
-            <li>VERB-Inf--PRON-Dat (203)</li>
-            <li>VERB-Inf--PRON-Gen (50)</li>
-            <li>VERB-Inf--PRON-Ins (20)</li>
+            <li>VERB-Inf--PRON-Gen (2)</li>
             <li>VERB-Inf--PRON-Nom (6)</li>
             <li>VERB-Part--NOUN (61)</li>
             <li>VERB-Part--NOUN-Acc (13382)</li>
-            <li>VERB-Part--NOUN-Dat (752)</li>
-            <li>VERB-Part--NOUN-Gen (1409)</li>
-            <li>VERB-Part--NOUN-Ins (600)</li>
+            <li>VERB-Part--NOUN-Gen (733)</li>
+            <li>VERB-Part--NOUN-Gen-ADP(na) (1)</li>
             <li>VERB-Part--NOUN-Nom (22)</li>
             <li>VERB-Part--PRON (2)</li>
             <li>VERB-Part--PRON-Acc (1869)</li>
-            <li>VERB-Part--PRON-Dat (517)</li>
-            <li>VERB-Part--PRON-Gen (70)</li>
-            <li>VERB-Part--PRON-Ins (15)</li>
+            <li>VERB-Part--PRON-Gen (17)</li>
           </ul>
         </li>
       </ul>
@@ -6770,66 +6714,22 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB-Conv--NOUN-Acc (1)</li>
-            <li>VERB-Conv--NOUN-Gen (1)</li>
             <li>VERB-Fin--NOUN (1)</li>
-            <li>VERB-Fin--NOUN-ADP(k) (1)</li>
             <li>VERB-Fin--NOUN-Acc (157)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(na) (4)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(o) (5)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(za) (1)</li>
-            <li>VERB-Fin--NOUN-Dat (8)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(k) (5)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(proti) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (12)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(od) (1)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
-            <li>VERB-Fin--NOUN-Ins (4)</li>
-            <li>VERB-Fin--NOUN-Ins-ADP(s) (6)</li>
-            <li>VERB-Fin--NOUN-Loc-ADP(na) (5)</li>
-            <li>VERB-Fin--NOUN-Loc-ADP(o) (3)</li>
-            <li>VERB-Fin--NOUN-Loc-ADP(v) (1)</li>
+            <li>VERB-Fin--NOUN-Gen (7)</li>
             <li>VERB-Fin--NOUN-Nom (2)</li>
             <li>VERB-Fin--PRON-Acc (17)</li>
-            <li>VERB-Fin--PRON-Dat (3)</li>
-            <li>VERB-Fin--PRON-Loc-ADP(o) (1)</li>
             <li>VERB-Inf--NOUN (2)</li>
             <li>VERB-Inf--NOUN-Acc (127)</li>
-            <li>VERB-Inf--NOUN-Acc-ADP(na) (3)</li>
-            <li>VERB-Inf--NOUN-Acc-ADP(o) (1)</li>
-            <li>VERB-Inf--NOUN-Acc-ADP(v) (1)</li>
-            <li>VERB-Inf--NOUN-Dat (1)</li>
-            <li>VERB-Inf--NOUN-Gen (9)</li>
-            <li>VERB-Inf--NOUN-Gen-ADP(od) (1)</li>
-            <li>VERB-Inf--NOUN-Ins (3)</li>
-            <li>VERB-Inf--NOUN-Ins-ADP(s) (2)</li>
-            <li>VERB-Inf--NOUN-Loc-ADP(o) (1)</li>
+            <li>VERB-Inf--NOUN-Gen (6)</li>
             <li>VERB-Inf--NOUN-Nom (1)</li>
             <li>VERB-Inf--PRON-Acc (17)</li>
-            <li>VERB-Inf--PRON-Acc-ADP(na) (3)</li>
-            <li>VERB-Inf--PRON-Acc-ADP(o) (1)</li>
             <li>VERB-Part--NOUN (1)</li>
-            <li>VERB-Part--NOUN-ADP(s) (1)</li>
             <li>VERB-Part--NOUN-Acc (255)</li>
-            <li>VERB-Part--NOUN-Acc-ADP(na) (4)</li>
-            <li>VERB-Part--NOUN-Acc-ADP(o) (4)</li>
-            <li>VERB-Part--NOUN-Acc-ADP(pro) (1)</li>
-            <li>VERB-Part--NOUN-Dat (9)</li>
-            <li>VERB-Part--NOUN-Dat-ADP(k) (4)</li>
-            <li>VERB-Part--NOUN-Gen (33)</li>
-            <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
-            <li>VERB-Part--NOUN-Gen-ADP(z) (1)</li>
-            <li>VERB-Part--NOUN-Ins (4)</li>
-            <li>VERB-Part--NOUN-Ins-ADP(s) (3)</li>
-            <li>VERB-Part--NOUN-Loc-ADP(o) (2)</li>
-            <li>VERB-Part--NOUN-Loc-ADP(po) (2)</li>
+            <li>VERB-Part--NOUN-Gen (18)</li>
             <li>VERB-Part--NOUN-Nom (2)</li>
             <li>VERB-Part--PRON-Acc (42)</li>
-            <li>VERB-Part--PRON-Dat (2)</li>
-            <li>VERB-Part--PRON-Dat-ADP(k) (1)</li>
             <li>VERB-Part--PRON-Gen (1)</li>
-            <li>VERB-Part--PRON-Gen-ADP(z) (3)</li>
-            <li>VERB-Part--PRON-Ins-ADP(s) (1)</li>
-            <li>VERB-Part--PRON-Loc-ADP(o) (1)</li>
             <li>VERB-Part--PRON-Nom (1)</li>
           </ul>
         </li>
@@ -6843,34 +6743,22 @@ udver: '2'
           <ul>
             <li>VERB-Fin--NOUN (3)</li>
             <li>VERB-Fin--NOUN-Acc (45)</li>
-            <li>VERB-Fin--NOUN-Dat (174)</li>
-            <li>VERB-Fin--NOUN-Gen (10)</li>
-            <li>VERB-Fin--NOUN-Ins (53)</li>
+            <li>VERB-Fin--NOUN-Gen (6)</li>
             <li>VERB-Fin--NOUN-Nom (12)</li>
             <li>VERB-Fin--PRON-Acc (27)</li>
-            <li>VERB-Fin--PRON-Dat (187)</li>
-            <li>VERB-Fin--PRON-Gen (1)</li>
-            <li>VERB-Fin--PRON-Ins (1)</li>
             <li>VERB-Fin--PRON-Nom (2)</li>
             <li>VERB-Inf--NOUN (2)</li>
             <li>VERB-Inf--NOUN-Acc (19)</li>
-            <li>VERB-Inf--NOUN-Dat (162)</li>
-            <li>VERB-Inf--NOUN-Gen (7)</li>
-            <li>VERB-Inf--NOUN-Ins (36)</li>
+            <li>VERB-Inf--NOUN-Gen (1)</li>
             <li>VERB-Inf--NOUN-Nom (3)</li>
             <li>VERB-Inf--PRON-Acc (6)</li>
-            <li>VERB-Inf--PRON-Dat (67)</li>
             <li>VERB-Part--NOUN (1)</li>
             <li>VERB-Part--NOUN-Acc (44)</li>
-            <li>VERB-Part--NOUN-Dat (136)</li>
-            <li>VERB-Part--NOUN-Gen (11)</li>
-            <li>VERB-Part--NOUN-Ins (23)</li>
+            <li>VERB-Part--NOUN-Gen (3)</li>
             <li>VERB-Part--NOUN-Nom (5)</li>
             <li>VERB-Part--PRON (2)</li>
             <li>VERB-Part--PRON-Acc (21)</li>
-            <li>VERB-Part--PRON-Dat (137)</li>
-            <li>VERB-Part--PRON-Gen (3)</li>
-            <li>VERB-Part--PRON-Ins (1)</li>
+            <li>VERB-Part--PRON-Gen (1)</li>
           </ul>
         </li>
       </ul>
@@ -6880,11 +6768,6 @@ udver: '2'
         <li><a>iobj</a>
           <ul>
             <li>VERB-Fin--NOUN-Acc (2)</li>
-            <li>VERB-Fin--NOUN-Dat (5)</li>
-            <li>VERB-Fin--NOUN-Ins (1)</li>
-            <li>VERB-Fin--PRON-Dat (3)</li>
-            <li>VERB-Inf--NOUN-Dat (4)</li>
-            <li>VERB-Inf--NOUN-Ins (3)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
           </ul>
         </li>
@@ -6895,30 +6778,13 @@ udver: '2'
         <li><a>iobj</a>
           <ul>
             <li>VERB-Conv--PRON-Acc (1)</li>
-            <li>VERB-Conv--PRON-Dat (1)</li>
             <li>VERB-Fin--NOUN-Acc (21)</li>
-            <li>VERB-Fin--NOUN-Dat (34)</li>
-            <li>VERB-Fin--NOUN-Gen (5)</li>
-            <li>VERB-Fin--NOUN-Ins (8)</li>
             <li>VERB-Fin--PRON-Acc (46)</li>
-            <li>VERB-Fin--PRON-Dat (208)</li>
-            <li>VERB-Fin--PRON-Gen (3)</li>
-            <li>VERB-Fin--PRON-Ins (1)</li>
             <li>VERB-Inf--NOUN-Acc (10)</li>
-            <li>VERB-Inf--NOUN-Dat (26)</li>
-            <li>VERB-Inf--NOUN-Gen (1)</li>
-            <li>VERB-Inf--NOUN-Ins (5)</li>
             <li>VERB-Inf--PRON-Acc (13)</li>
-            <li>VERB-Inf--PRON-Dat (119)</li>
-            <li>VERB-Inf--PRON-Gen (3)</li>
-            <li>VERB-Inf--PRON-Ins (2)</li>
             <li>VERB-Part--NOUN-Acc (57)</li>
-            <li>VERB-Part--NOUN-Dat (103)</li>
-            <li>VERB-Part--NOUN-Gen (20)</li>
-            <li>VERB-Part--NOUN-Ins (20)</li>
+            <li>VERB-Part--NOUN-Gen (3)</li>
             <li>VERB-Part--PRON-Acc (79)</li>
-            <li>VERB-Part--PRON-Dat (463)</li>
-            <li>VERB-Part--PRON-Gen (21)</li>
           </ul>
         </li>
       </ul>
@@ -6927,38 +6793,25 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Conv--PRON-Dat (1)</li>
             <li>VERB-Fin--NOUN (3)</li>
             <li>VERB-Fin--NOUN-Acc (149)</li>
-            <li>VERB-Fin--NOUN-Dat (560)</li>
-            <li>VERB-Fin--NOUN-Gen (22)</li>
-            <li>VERB-Fin--NOUN-Ins (62)</li>
+            <li>VERB-Fin--NOUN-Gen (12)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(na) (1)</li>
             <li>VERB-Fin--NOUN-Nom (4)</li>
             <li>VERB-Fin--PRON-Acc (79)</li>
-            <li>VERB-Fin--PRON-Dat (592)</li>
-            <li>VERB-Fin--PRON-Gen (3)</li>
-            <li>VERB-Fin--PRON-Ins (5)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
             <li>VERB-Inf--NOUN (2)</li>
             <li>VERB-Inf--NOUN-Acc (61)</li>
-            <li>VERB-Inf--NOUN-Dat (442)</li>
-            <li>VERB-Inf--NOUN-Gen (19)</li>
-            <li>VERB-Inf--NOUN-Ins (70)</li>
+            <li>VERB-Inf--NOUN-Gen (3)</li>
             <li>VERB-Inf--NOUN-Nom (2)</li>
             <li>VERB-Inf--PRON-Acc (28)</li>
-            <li>VERB-Inf--PRON-Dat (354)</li>
-            <li>VERB-Inf--PRON-Gen (1)</li>
-            <li>VERB-Inf--PRON-Ins (7)</li>
             <li>VERB-Part--NOUN (4)</li>
             <li>VERB-Part--NOUN-Acc (200)</li>
-            <li>VERB-Part--NOUN-Dat (757)</li>
-            <li>VERB-Part--NOUN-Gen (38)</li>
-            <li>VERB-Part--NOUN-Ins (94)</li>
+            <li>VERB-Part--NOUN-Gen (9)</li>
+            <li>VERB-Part--NOUN-Gen-ADP(za) (1)</li>
             <li>VERB-Part--NOUN-Nom (9)</li>
             <li>VERB-Part--PRON-Acc (113)</li>
-            <li>VERB-Part--PRON-Dat (822)</li>
-            <li>VERB-Part--PRON-Gen (12)</li>
-            <li>VERB-Part--PRON-Ins (3)</li>
+            <li>VERB-Part--PRON-Gen (1)</li>
           </ul>
         </li>
       </ul>
@@ -6967,40 +6820,11 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Conv--NOUN-Acc-ADP(na) (1)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(na) (1)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(za) (2)</li>
-            <li>VERB-Fin--NOUN-Dat (6)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(k) (1)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(do) (1)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(od) (1)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
-            <li>VERB-Fin--NOUN-Ins (1)</li>
-            <li>VERB-Fin--NOUN-Ins-ADP(s) (1)</li>
-            <li>VERB-Fin--NOUN-Loc-ADP(na) (1)</li>
             <li>VERB-Fin--PRON-Acc (2)</li>
-            <li>VERB-Fin--PRON-Dat (11)</li>
-            <li>VERB-Fin--PRON-Gen-ADP(z) (1)</li>
             <li>VERB-Inf--NOUN-Acc (1)</li>
-            <li>VERB-Inf--NOUN-Acc-ADP(za) (1)</li>
-            <li>VERB-Inf--NOUN-Dat (5)</li>
-            <li>VERB-Inf--NOUN-Ins-ADP(s) (1)</li>
-            <li>VERB-Inf--NOUN-Loc-ADP(na) (1)</li>
-            <li>VERB-Inf--PRON-Dat (2)</li>
-            <li>VERB-Inf--PRON-Ins-ADP(s) (1)</li>
             <li>VERB-Part--NOUN (1)</li>
             <li>VERB-Part--NOUN-Acc (1)</li>
-            <li>VERB-Part--NOUN-Acc-ADP(za) (6)</li>
-            <li>VERB-Part--NOUN-Dat (12)</li>
-            <li>VERB-Part--NOUN-Dat-ADP(k) (1)</li>
-            <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
-            <li>VERB-Part--NOUN-Gen-ADP(z) (2)</li>
-            <li>VERB-Part--NOUN-Ins (3)</li>
-            <li>VERB-Part--NOUN-Loc-ADP(o) (1)</li>
             <li>VERB-Part--PRON-Acc (2)</li>
-            <li>VERB-Part--PRON-Dat (14)</li>
-            <li>VERB-Part--PRON-Gen (1)</li>
-            <li>VERB-Part--PRON-Gen-ADP(od) (1)</li>
           </ul>
         </li>
       </ul>
@@ -7085,7 +6909,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 119 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: překonat sebe, připomenout si, říci si, klást si, položit si, přečíst si, vzdělávat se, dát si, obohacovat se, podobný si, ukázat si, vyprávět si, dát se, koupit si, krýt se, odradit se, osvobodit se, ovlivňovat se, prohlašovat se, připomínat si, připoutat se, připravovat se, rozumět si, ukrýt se, uživit se, vidět sebe, zaplnit se, znát se, řeknout si, říkat si, adaptovat se, adekvátní sobě, blízký sobě, bránit se, charakterizovat sui, chránit se, definovat sebe, demaskovat se, doléčovat se, dovolit si, hledat sebe, hlídat se, hostit sebe, klamat sebe, kompenzovat se, koupat se, kupovat si, křížit se, léčit se, mít se</li>
+        <li>This corpus contains 73 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: překonat sebe, vzdělávat se, obohacovat se, dát se, krýt se, odradit se, osvobodit se, ovlivňovat se, prohlašovat se, připoutat se, připravovat se, ukrýt se, uživit se, vidět sebe, zaplnit se, znát se, adaptovat se, bránit se, chránit se, definovat sebe, demaskovat se, doléčovat se, hledat sebe, hlídat se, hostit sebe, klamat sebe, kompenzovat se, koupat se, křížit se, léčit se, mít se, napájet se, naučit se, navštěvovat se, obeznámit se, odehnat se, ohrožovat sebe, omývat se, ovládnout se, označovat se, plácnout se, pokřivit se, potkávat se, procvičovat se, propagovat se, provázet se, představit sebe, přemisťovat se, přesahovat sebe, přetvářet sebe</li>
           <ul>
             <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: ukrýt, uživit</li>
           </ul>
@@ -7095,16 +6919,16 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: seznámit se, stanovit si</li>
+        <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: seznámit se</li>
       </ul>
     </td>
     <td width="20%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 259 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: říkat si, koupit si, říci si, svlékat se, svléknout se, mít se, schovat se, nalít si, převléknout se, přečíst si, slyšet se, vidět se, nabídnout se, vyčítat si, zabít se, znát se, nasadit si, nechat si, odpovědět si, opakovat si, prostřít se, namlouvat si, navonět se, odpustit si, pomoci si, ponechat si, potkat se, psát si, přesvědčit se, převlékat se, připomenout si, přiznat si, schovávat se, udržet se, ujistit se, chytnout se, držet se, dělat si, kupovat si, milující se, nazvat se, obléknout se, obout se, odradit se, odvést se, odvézt se, ohlásit se, omlouvat se, omluvit se, osvobozovat se</li>
+        <li>This corpus contains 166 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: svlékat se, svléknout se, mít se, schovat se, převléknout se, slyšet se, vidět se, nabídnout se, zabít se, znát se, prostřít se, navonět se, potkat se, přesvědčit se, převlékat se, schovávat se, udržet se, ujistit se, chytnout se, držet se, milující se, nazvat se, obléknout se, obout se, odradit se, odvést se, odvézt se, ohlásit se, omlouvat se, omluvit se, osvobozovat se, ovládnout se, pohladit se, políbit se, potěšit se, prohlédnout se, přikrýt se, sprchovat se, ubránit se, uklidňovat se, uložit se, unášet se, vidět sebe, šetřit se, bavit se, bránit se, brát se, bít se, cvičit se, dovézt se</li>
           <ul>
-            <li>Out of those, 12 lemmas occurred more than once, but never without a reflexive dependent. Examples: převléknout, prostřít, navonět, obout, převlékat, milující, omlouvat, omluvit, ptát, sprchovat, ubránit, zakoupit</li>
+            <li>Out of those, 9 lemmas occurred more than once, but never without a reflexive dependent. Examples: převléknout, prostřít, navonět, převlékat, milující, omlouvat, omluvit, sprchovat, ubránit</li>
           </ul>
       </ul>
     </td>
@@ -7112,9 +6936,9 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 656 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: představit se, seznámit se, koupit si, říci si, prosadit se, přečíst si, nechat se, klást si, dát si, připomenout si, připsat si, spojit se, nechat si, položit si, střídat se, říkat si, zajistit si, ponechat si, poradit si, prezentovat se, vysvětlovat si, připravit se, učit se, znát se, bránit se, protnout se, považovat se, představovat se, vysvětlit si, dostat se, připomínat si, připravovat se, uživit se, vystřídat se, zařadit se, dovolit si, kupovat si, pomáhat si, přihlásit se, přizpůsobit se, stanovit si, zapsat se, živit se, orientovat se, pomoci si, ponechávat si, prosazovat se, skrývat se, udržet se, ujasnit si</li>
+        <li>This corpus contains 440 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: představit se, seznámit se, prosadit se, nechat se, spojit se, střídat se, prezentovat se, připravit se, učit se, znát se, bránit se, protnout se, považovat se, představovat se, dostat se, připravovat se, uživit se, vystřídat se, zařadit se, přihlásit se, přizpůsobit se, zapsat se, živit se, orientovat se, prosazovat se, skrývat se, udržet se, zachránit se, připojistit se, rozdělit se, zapojit se, oběsit se, ovlivňovat se, potkat se, prohlásit se, držet se, hlásit se, omluvit se, pojistit se, profilovat se, přesunout se, připojit se, ukázat se, zbavit se, kvalifikovat se, nechávat se, podepsat se, posílit se, prolínat se, sjednotit se</li>
           <ul>
-            <li>Out of those, 15 lemmas occurred more than once, but never without a reflexive dependent. Examples: připojistit, prolínat, transformující, dotýkat, koupat, navléknout, obalamutit, objímat, osamostatnit, potřást, překrývající, specializovat, vykoupat, zabarikádovat, zadlužit</li>
+            <li>Out of those, 13 lemmas occurred more than once, but never without a reflexive dependent. Examples: připojistit, prolínat, transformující, dotýkat, koupat, obalamutit, objímat, osamostatnit, překrývající, specializovat, vykoupat, zabarikádovat, zadlužit</li>
           </ul>
       </ul>
     </td>
@@ -7122,7 +6946,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 36 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: dostat se, vrátit se, zapojit se, zapsat se, donést si, halit se, hledat se, hrát si, integrovat své, klást si, koupit si, měnit se, nasazovat si, nastěhovat se, naučit se, naštvat se, obrátit se, odklonit se, potopit se, prohlásit se, promísit se, prosadit se, přeměnit se, připravovat se, půjčit si, rozvíjet se, rozšiřovat se, smířit se, spasit se, spojit se, udržet se, ukázat se, vybrat si, zaměstnat se, zastavit se, zhoršovat se</li>
+        <li>This corpus contains 28 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: dostat se, vrátit se, zapojit se, zapsat se, halit se, hledat se, měnit se, nastěhovat se, naučit se, naštvat se, obrátit se, odklonit se, potopit se, prohlásit se, promísit se, prosadit se, přeměnit se, připravovat se, rozvíjet se, rozšiřovat se, smířit se, spasit se, spojit se, udržet se, ukázat se, zaměstnat se, zastavit se, zhoršovat se</li>
           <ul>
             <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: vrátit, zapojit, zapsat</li>
           </ul>
@@ -7134,7 +6958,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 12 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
@@ -7143,7 +6967,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
       <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
@@ -7152,7 +6976,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
@@ -7161,7 +6985,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 12 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
@@ -7170,7 +6994,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
+      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
       <li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>

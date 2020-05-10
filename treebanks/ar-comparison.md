@@ -130,8 +130,7 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
-      <li>This corpus does not use the following tags: SCONJ</li>
+      <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -221,7 +220,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): أَ, أَلَا, إِلَّا, رُبَّمَا, سَ, سَوفَ, عَاد, عَلَّ, قَد, كَان, لَيس, مَا, هَل</li>
+      <li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): أَ, رُبَّمَا, سَ, سَوفَ, عَاد, عَلَّ, قَد, كَان, لَيس, مَا, هَل</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -1237,7 +1236,7 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>AUX: كان, ليس, كانت, ليست, كانوا, كنت, لسنا, ألا, ليسوا</li>
+            <li>AUX: كان, ليس, كانت, ليست, كانوا, كنت, لسنا, ليسوا</li>
             <li>VERB: قال, كان, أضاف, كانت, تم, أكد, أشار, أوضح, أعلن, قالت</li>
           </ul>
         </li>
@@ -1877,7 +1876,7 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, يكن, تكن, كانوا, ألا</li>
+            <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, يكن, تكن, كانوا, تعد</li>
             <li>AUX-Fin: يكون, تكون, يكن, تكن, تعد, يكونا</li>
             <li>DET: ه, ها</li>
             <li>PRON: ه, ها, هم, هو, هي, هما, هن, هى, أعضائها, أهدافها</li>
@@ -2145,7 +2144,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: كَان، لَيس، هُوَ، ".</li>
+      <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: كَان، لَيس، هُوَ.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -2166,7 +2165,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: سَ، قَد، سَوفَ، مَا، لَيس، هَل، إِلَّا، رُبَّمَا، أَ، أَلَا، عَاد، عَلَّ.</li>
+      <li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: سَ، قَد، سَوفَ، مَا، لَيس، هَل، رُبَّمَا، أَ، عَاد، عَلَّ.</li>
       <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: سَ، قَد، سَوفَ.</li>
       </ul>
     </td>
@@ -2204,9 +2203,10 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-Acc (851)</li>
+            <li>VERB--NOUN-Acc (879)</li>
             <li>VERB--NOUN-Acc-ADP(إِلَى) (3)</li>
             <li>VERB--NOUN-Acc-ADP(إِلَى)-ADP(عَلَى) (1)</li>
+            <li>VERB--NOUN-Acc-ADP(بَينَ) (1)</li>
             <li>VERB--NOUN-Acc-ADP(بِ) (2)</li>
             <li>VERB--NOUN-Acc-ADP(بِ)-ADP(فِي) (1)</li>
             <li>VERB--NOUN-Acc-ADP(تَحتَ) (1)</li>
@@ -2214,13 +2214,13 @@ udver: '2'
             <li>VERB--NOUN-Acc-ADP(ضِمنَ) (1)</li>
             <li>VERB--NOUN-Acc-ADP(عَلَى) (2)</li>
             <li>VERB--NOUN-Acc-ADP(عَن) (1)</li>
-            <li>VERB--NOUN-Acc-ADP(فِي) (4)</li>
+            <li>VERB--NOUN-Acc-ADP(فِي) (5)</li>
             <li>VERB--NOUN-Acc-ADP(قَيدَ) (1)</li>
-            <li>VERB--NOUN-Acc-ADP(لِ) (1)</li>
+            <li>VERB--NOUN-Acc-ADP(لِ) (3)</li>
             <li>VERB--NOUN-Acc-ADP(مِن) (1)</li>
             <li>VERB--NOUN-Acc-ADP(مِن)-ADP(فِي) (1)</li>
             <li>VERB--NOUN-Acc-ADP(وَ) (1)</li>
-            <li>VERB--NOUN-Gen (15)</li>
+            <li>VERB--NOUN-Gen (16)</li>
             <li>VERB--NOUN-Gen-ADP(إِلَى) (1)</li>
             <li>VERB--NOUN-Gen-ADP(بَينَ) (1)</li>
             <li>VERB--NOUN-Gen-ADP(بِ) (5)</li>
@@ -2229,13 +2229,15 @@ udver: '2'
             <li>VERB--NOUN-Gen-ADP(عَن) (3)</li>
             <li>VERB--NOUN-Gen-ADP(فِي) (2)</li>
             <li>VERB--NOUN-Gen-ADP(كَ) (1)</li>
+            <li>VERB--NOUN-Gen-ADP(لِ) (1)</li>
             <li>VERB--NOUN-Gen-ADP(مِن) (1)</li>
             <li>VERB--NOUN-Gen-ADP(مِن)-ADP(دُونَ) (1)</li>
-            <li>VERB--NOUN-Nom (4342)</li>
+            <li>VERB--NOUN-Nom (4339)</li>
+            <li>VERB--NOUN-Nom-ADP(إِنَّ) (1)</li>
             <li>VERB--NOUN-Nom-ADP(بِ) (1)</li>
             <li>VERB--NOUN-Nom-ADP(مِن) (3)</li>
-            <li>VERB--NOUN-Nom-ADP(وَ) (1)</li>
-            <li>VERB--PRON-Acc (195)</li>
+            <li>VERB--NOUN-Nom-ADP(وَ) (3)</li>
+            <li>VERB--PRON-Acc (201)</li>
             <li>VERB--PRON-Acc-ADP(إِلَى) (1)</li>
             <li>VERB--PRON-Acc-ADP(بِ) (2)</li>
             <li>VERB--PRON-Acc-ADP(بِ)-ADP(أَمَامَ) (1)</li>
@@ -2249,11 +2251,11 @@ udver: '2'
             <li>VERB--PRON-Gen-ADP(وَ) (1)</li>
             <li>VERB--PRON-Nom (24)</li>
             <li>VERB--PRON-Nom-ADP(عَلَى) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (1178)</li>
+            <li>VERB-Fin--NOUN-Acc (1221)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(بِ) (2)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(بِ)-ADP(فِي) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(عَلَى)-ADP(بِ) (1)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(فِي) (4)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(فِي) (6)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(مَعَ)-ADP(مِن) (1)</li>
             <li>VERB-Fin--NOUN-Gen (12)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(إِلَى) (1)</li>
@@ -2262,14 +2264,15 @@ udver: '2'
             <li>VERB-Fin--NOUN-Gen-ADP(مِثلَ) (4)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(مِن) (3)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(وِفقَ) (1)</li>
-            <li>VERB-Fin--NOUN-Nom (2857)</li>
+            <li>VERB-Fin--NOUN-Nom (2856)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(بِ) (4)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(حَولَ) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(فِي) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(كَ) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(لِ) (2)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(مِن) (2)</li>
-            <li>VERB-Fin--PRON-Acc (323)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(وَ) (1)</li>
+            <li>VERB-Fin--PRON-Acc (332)</li>
             <li>VERB-Fin--PRON-Acc-ADP(مِن) (1)</li>
             <li>VERB-Fin--PRON-Gen (2)</li>
             <li>VERB-Fin--PRON-Gen-ADP(وَ)-ADP(فِي) (1)</li>
@@ -2370,9 +2373,9 @@ udver: '2'
             <li>VERB--NOUN-Acc-ADP(عَلَى) (1)</li>
             <li>VERB--NOUN-Acc-ADP(فِي) (3)</li>
             <li>VERB--NOUN-Acc-ADP(مِن) (2)</li>
-            <li>VERB--NOUN-Gen (7)</li>
+            <li>VERB--NOUN-Acc-ADP(وَ) (2)</li>
             <li>VERB--NOUN-Nom (121)</li>
-            <li>VERB--PRON-Acc (660)</li>
+            <li>VERB--PRON-Acc (661)</li>
             <li>VERB--PRON-Nom (2)</li>
             <li>VERB-Fin--NOUN-Acc (2706)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(إِلَى) (3)</li>
@@ -2380,7 +2383,6 @@ udver: '2'
             <li>VERB-Fin--NOUN-Acc-ADP(عَن) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(لَا) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(لِ) (2)</li>
-            <li>VERB-Fin--NOUN-Gen (10)</li>
             <li>VERB-Fin--NOUN-Nom (85)</li>
             <li>VERB-Fin--PRON-Acc (662)</li>
           </ul>
@@ -2461,9 +2463,8 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN-Acc (123)</li>
+            <li>VERB--NOUN-Acc (122)</li>
             <li>VERB--NOUN-Acc-ADP(لَا) (1)</li>
-            <li>VERB--NOUN-Gen (2)</li>
             <li>VERB--NOUN-Nom (21)</li>
             <li>VERB--PRON-Acc (31)</li>
             <li>VERB-Fin--NOUN-Acc (57)</li>
@@ -2530,7 +2531,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 6 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
       <li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
