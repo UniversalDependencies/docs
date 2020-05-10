@@ -1,5 +1,6 @@
 - label: 'acl'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -62,6 +63,7 @@
   - label: 'pcm/dep'
   - label: 'pt/dep'
   - label: 'ru/dep'
+  - label: 'sga/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'urj/dep'
@@ -71,6 +73,7 @@
   - label: 'myv/dep'
 - label: 'advcl'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -120,7 +123,6 @@
   - label: 'yue/dep'
 - label: 'advcl-periph'
   languages:
-  - label: 'fr/dep'
   - label: 'pcm/dep'
 - label: 'advcl-relcl'
   languages:
@@ -133,6 +135,7 @@
   - label: 'myv/dep'
 - label: 'advmod'
   languages:
+  - label: 'bg/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
   - label: 'de/dep'
@@ -188,9 +191,6 @@
 - label: 'advmod-neg'
   languages:
   - label: 'pl/dep'
-- label: 'advmod-periph'
-  languages:
-  - label: 'fr/dep'
 - label: 'advmod-qnt'
   languages:
   - label: 'myv/dep'
@@ -199,6 +199,7 @@
   - label: 'myv/dep'
 - label: 'amod'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -272,14 +273,9 @@
   - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
-- label: 'appos-conj'
-  languages:
-  - label: 'fr/dep'
-- label: 'appos-nmod'
-  languages:
-  - label: 'fr/dep'
 - label: 'aux'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -372,8 +368,12 @@
   languages:
   - label: 'myv/dep'
   - label: 'tr/dep'
+- label: 'aux-tense'
+  languages:
+  - label: 'fr/dep'
 - label: 'case'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -413,6 +413,7 @@
   - label: 'ga/dep'
 - label: 'cc'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -601,6 +602,7 @@
   - label: 'zh/dep'
 - label: 'conj'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -639,17 +641,16 @@
   - label: 'pcm/dep'
 - label: 'conj-coord'
   languages:
-  - label: 'fr/dep'
   - label: 'pcm/dep'
 - label: 'conj-dicto'
   languages:
-  - label: 'fr/dep'
   - label: 'pcm/dep'
 - label: 'conj-obj'
   languages:
   - label: 'myv/dep'
 - label: 'cop'
   languages:
+  - label: 'bg/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
   - label: 'de/dep'
@@ -751,7 +752,6 @@
   - label: 'myv/dep'
 - label: 'csubjpass'
   languages:
-  - label: 'bg/dep'
   - label: 'cop/dep'
   - label: 'el/dep'
   - label: 'en/dep'
@@ -766,6 +766,7 @@
   - label: 'tr/dep'
 - label: 'csubj-pass'
   languages:
+  - label: 'bg/dep'
   - label: 'cs/dep'
   - label: 'de/dep'
   - label: 'fr/dep'
@@ -798,6 +799,7 @@
   - label: 'zh/dep'
 - label: 'det'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -930,6 +932,7 @@
   - label: 'tr/dep'
 - label: 'expl'
   languages:
+  - label: 'bg/dep'
   - label: 'de/dep'
   - label: 'el/dep'
   - label: 'en/dep'
@@ -950,12 +953,16 @@
   - label: 'tr/dep'
   - label: 'u/dep'
   - label: 'yue/dep'
+- label: 'expl-comp'
+  languages:
+  - label: 'fr/dep'
 - label: 'expl-impers'
   languages:
   - label: 'it/dep'
 - label: 'expl-pass'
   languages:
   - label: 'cs/dep'
+  - label: 'fr/dep'
   - label: 'it/dep'
 - label: 'expl-poss'
   languages:
@@ -965,8 +972,12 @@
   - label: 'cs/dep'
   - label: 'de/dep'
   - label: 'gsw/dep'
+- label: 'expl-subj'
+  languages:
+  - label: 'fr/dep'
 - label: 'fixed'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -996,6 +1007,7 @@
   - label: 'zh/dep'
 - label: 'flat'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -1031,17 +1043,20 @@
 - label: 'flat-foreign'
   languages:
   - label: 'cs/dep'
+  - label: 'fr/dep'
   - label: 'ga/dep'
   - label: 'it/dep'
   - label: 'pl/dep'
   - label: 'ru/dep'
 - label: 'flat-name'
   languages:
+  - label: 'fr/dep'
   - label: 'ga/dep'
   - label: 'it/dep'
   - label: 'kpv/dep'
   - label: 'myv/dep'
   - label: 'ru/dep'
+  - label: 'sga/dep'
   - label: 'sv/dep'
 - label: 'flat-range'
   languages:
@@ -1121,7 +1136,6 @@
   - label: 'el/dep'
   - label: 'en/dep'
   - label: 'fi/dep'
-  - label: 'fr/dep'
   - label: 'ga/dep'
   - label: 'hy/dep'
   - label: 'it/dep'
@@ -1136,6 +1150,7 @@
   - label: 'zh/dep'
 - label: 'mark'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -1243,6 +1258,7 @@
   - label: 'sv/dep'
 - label: 'nmod-appos'
   languages:
+  - label: 'fr/dep'
   - label: 'myv/dep'
   - label: 'pcm/dep'
 - label: 'nmod-arg'
@@ -1290,11 +1306,11 @@
   - label: 'bm/dep'
   - label: 'en/dep'
   - label: 'fi/dep'
-  - label: 'fr/dep'
   - label: 'ga/dep'
   - label: 'hy/dep'
   - label: 'myv/dep'
   - label: 'pcm/dep'
+  - label: 'sga/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
@@ -1362,11 +1378,9 @@
   - label: 'myv/dep'
 - label: 'nsubj-expl'
   languages:
-  - label: 'fr/dep'
   - label: 'pcm/dep'
 - label: 'nsubjpass'
   languages:
-  - label: 'bg/dep'
   - label: 'cop/dep'
   - label: 'el/dep'
   - label: 'en/dep'
@@ -1381,12 +1395,14 @@
   - label: 'tr/dep'
 - label: 'nsubj-pass'
   languages:
+  - label: 'bg/dep'
   - label: 'cs/dep'
   - label: 'de/dep'
   - label: 'fr/dep'
   - label: 'gsw/dep'
   - label: 'hy/dep'
   - label: 'ru/dep'
+  - label: 'sga/dep'
   - label: 'sv/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
@@ -1490,8 +1506,12 @@
 - label: 'obj-agent'
   languages:
   - label: 'fr/dep'
+- label: 'obj-lvc'
+  languages:
+  - label: 'fr/dep'
 - label: 'obl'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -1528,13 +1548,13 @@
 - label: 'obl-arg'
   languages:
   - label: 'cs/dep'
+  - label: 'fr/dep'
   - label: 'pl/dep'
 - label: 'obl-cmpr'
   languages:
   - label: 'pl/dep'
 - label: 'obl-comp'
   languages:
-  - label: 'fr/dep'
   - label: 'pcm/dep'
 - label: 'obl-exist'
   languages:
@@ -1551,11 +1571,11 @@
   - label: 'zh/dep'
 - label: 'obl-periph'
   languages:
-  - label: 'fr/dep'
   - label: 'pcm/dep'
 - label: 'obl-prep'
   languages:
   - label: 'ga/dep'
+  - label: 'sga/dep'
 - label: 'obl-tmod'
   languages:
   - label: 'en/dep'
@@ -1595,6 +1615,7 @@
   - label: 'zh/dep'
 - label: 'parataxis'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -1626,16 +1647,13 @@
   - label: 'it/dep'
 - label: 'parataxis-conj'
   languages:
-  - label: 'fr/dep'
   - label: 'pcm/dep'
 - label: 'parataxis-discourse'
   languages:
-  - label: 'fr/dep'
   - label: 'it/dep'
   - label: 'pcm/dep'
 - label: 'parataxis-dislocated'
   languages:
-  - label: 'fr/dep'
   - label: 'pcm/dep'
 - label: 'parataxis-hashtag'
   languages:
@@ -1651,7 +1669,6 @@
 - label: 'parataxis-obj'
   languages:
   - label: 'bm/dep'
-  - label: 'fr/dep'
   - label: 'it/dep'
   - label: 'pcm/dep'
   - label: 'pl/dep'
@@ -1743,6 +1760,7 @@
   - label: 'zh/dep'
 - label: 'vocative'
   languages:
+  - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'
   - label: 'cs/dep'
@@ -1823,6 +1841,7 @@
   languages:
   - label: 'ga/dep'
   - label: 'pl/dep'
+  - label: 'sga/dep'
 - label: 'xcomp-sp'
   languages:
   - label: 'uk/dep'
