@@ -61,15 +61,6 @@ See [here](release_checklist.html) for the checklist for data contributors.
     <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout dev ; cd .. ; echo ; done</code>
 * Re-evaluate the treebanks for the star ranking on the website. This is done only in the master branch and the result is stored there.<br />
   <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I tools tools/evaluate_treebank.pl $i --verbose &gt;&amp; $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done</code>
-* Tag the current commit in all repositories with the tag of the current release (`git tag r2.6` for UD 2.6).
-  Push the tag to Github: `git push origin --tags`.
-  You may even tag a particular commit retroactively: `git tag -a r2.1 9fceb02`.
-  If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
-  this is how you remove the tag from where it is now: `git tag -d r2.1`.
-  And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.<br />
-  <code>for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.6 ; git push --tags ; cd .. ; echo ; done</code>
-  **Note: We will later update certain files in the `docs` repository (statistics etc.)
-  It may be thus better to wait with tagging the repositories until `docs` is in its final state.**
 
 ## Updating automatically generated parts of documentation
 
@@ -95,6 +86,13 @@ See [here](release_checklist.html) for the checklist for data contributors.
   directly in a MarkDown file, and then it will re-generate only the HTML page based on this MarkDown file.
   We probably need to ask Filip or Sampo to re-run Jekyll manually? A possible hack would be to insert a blank line at the end of every
   affected MarkDown file but it is an ugly approach.
+* Tag the current commit in all repositories including docs with the tag of the current release (`git tag r2.6` for UD 2.6).
+  Push the tag to Github: `git push origin --tags`.
+  You may even tag a particular commit retroactively: `git tag -a r2.1 9fceb02`.
+  If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
+  this is how you remove the tag from where it is now: `git tag -d r2.1`.
+  And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.<br />
+  <code>for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.6 ; git push --tags ; cd .. ; echo ; done</code>
 
 ## Releasing the data
 
