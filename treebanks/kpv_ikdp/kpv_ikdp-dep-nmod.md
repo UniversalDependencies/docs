@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-56 nodes (4%) are attached to their parents as `nmod`.
+64 nodes (5%) are attached to their parents as `nmod`.
 
-39 instances of `nmod` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85714285714286.
+45 instances of `nmod` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.9375.
 
-The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (20; 36% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (11; 20% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (6; 11% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (5; 9% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (23; 36% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (16; 25% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (6; 9% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (5; 8% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (4; 6% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nmod	color:blue
-1	Рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed
+1	Рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	Lang=Mixed
 2	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	шейсят	шейсят	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	Lang=Rus
 4	четвёртэй	четвёртэй	NUM	Num	Case=Nom|Number=Sing|NumType=Ord	5	nummod	_	Lang=Rus
@@ -56,11 +56,11 @@ The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 nmod	color:blue
-1	Вӧдзӧ	вӧдзӧ	ADV	Adv	Case=Ill|Number=Sing	5	advmod	_	_
+1	Вӧдзӧ	вӧдзӧ	ADV	Adv	Case=Ill|Number=Sing	5	advmod:tmod	_	_
 2	дик	дик	ADJ	A	Case=Nom|Number=Sing	3	amod	_	GTtags=Sg,Nom
 3	Иван	Иван	PROPN	N	Case=Nom|Number=Sing	5	nsubj	_	GTtags=Sem/Mal,Prop,Sg,Nom
 4	ойын	ой	NOUN	N	Case=Ine|Number=Sing	5	obl	_	GTtags=Sg,Ine
-5	думайтіс	думайтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed|GTtags=IV,Ind,Prt1,Sg3
+5	думайтіс	думайтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	Lang=Mixed|GTtags=IV,Ind,Prt1,Sg3
 6	мӧдны	мӧдны	VERB	V	VerbForm=Inf	5	xcomp	_	GTtags=IV,Inf
 7	Йӧртым	Йӧртым	PROPN	N	Case=Nom|Number=Sing	8	nmod	_	GTtags=Prop,Sem/Plc,Sg,Nom
 8	туйӧ	туйӧ	NOUN	N	Case=Ill|Number=Sing	6	obl	_	GTtags=Sg,Ill|SpaceAfter=No

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Tommi A Pirinen.
 
 Repository: [UD_Livvi-KKPP](https://github.com/UniversalDependencies/UD_Livvi-KKPP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udolo_kkpp25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udolo_kkpp26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 

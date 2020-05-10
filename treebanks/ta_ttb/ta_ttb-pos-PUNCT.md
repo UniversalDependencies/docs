@@ -42,7 +42,7 @@ Examples: .
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ta_ttb-dep-punct.html">punct</a></tt> (1000; 100% instances)
 
-Parents of `PUNCT` nodes belong to 8 different parts of speech: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (706; 71% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (156; 16% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (81; 8% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (20; 2% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (17; 2% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (6; 1% instances)
+Parents of `PUNCT` nodes belong to 9 different parts of speech: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (705; 71% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (156; 16% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (81; 8% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (20; 2% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (17; 2% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
 1000 (100%) `PUNCT` nodes are leaves.
 

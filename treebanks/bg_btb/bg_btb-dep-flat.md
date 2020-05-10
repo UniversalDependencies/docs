@@ -67,7 +67,7 @@ The following 11 pairs of parts of speech are connected with `flat`: <tt><a href
 3	това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	5:nsubj	_
 4	да	да	AUX	Tx	_	5	aux	5:aux	_
 5	стане	стана	VERB	Vppif-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	2:acl	_
-6	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 7	Йоан-Павел	йоан-павел	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	10:nsubj	_
 8	II	втори	ADJ	Momsi	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|NumType=Ord	7	flat	7:flat	_
 9	да	да	AUX	Tx	_	10	aux	10:aux	_

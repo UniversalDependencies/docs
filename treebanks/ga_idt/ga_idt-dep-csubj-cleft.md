@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="ga_idt-dep-csubj-cop.html">csubj:cop</a></tt>.
 
-220 nodes (1%) are attached to their parents as `csubj:cleft`.
+303 nodes (0%) are attached to their parents as `csubj:cleft`.
 
-220 instances of `csubj:cleft` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.27727272727273.
+303 instances of `csubj:cleft` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.97689768976898.
 
-The following 11 pairs of parts of speech are connected with `csubj:cleft`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (98; 45% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (40; 18% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (35; 16% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (16; 7% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (15; 7% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `csubj:cleft`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (165; 54% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (39; 13% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (28; 9% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (25; 8% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (13; 4% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (12; 4% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,41 +37,36 @@ The following 11 pairs of parts of speech are connected with `csubj:cleft`: <tt>
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 9 csubj:cleft	color:blue
-1	Duradh	dur	VERB	VTI	Mood=Ind|Tense=Past|Voice=Auto	0	root	_	_
-2	gur	is	AUX	Cop	Tense=Past|VerbForm=Cop	3	cop	_	_
-3	seo	seo	PRON	Dem	PronType=Dem	1	ccomp	_	_
-4	ceann	ceann	NOUN	Noun	Gender=Masc|Number=Sing	3	nmod	_	_
-5	dena	de_na	ADP	Art	Number=Plur|PronType=Art	6	case	_	_
-6	fadhbanna	fadhb	NOUN	Noun	Gender=Fem|Number=Plur	4	nmod	_	_
-7	is	is	PART	Sup	_	8	mark:prt	_	_
-8	mó	mór	ADJ	Adj	Degree=Cmp,Sup	6	amod	_	_
-9	atá	bí	VERB	VI	Mood=Ind|PronType=Rel|Tense=Pres	3	csubj:cleft	_	_
-10	sa	i	ADP	Art	Number=Sing|PronType=Art	11	case	_	_
-11	cheantar	ceantar	NOUN	Noun	Form=Len|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 csubj:cleft	color:blue
+1	Glas	Glas	PROPN	Noun	Gender=Masc|Number=Sing	0	root	_	_
+2	a	a	PART	Vb	PartType=Vb|PronType=Rel	3	mark:prt	_	_
+3	bhíonn	bí	VERB	PresImp	Form=Len	1	csubj:cleft	_	_
+4	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	caora	caor	NOUN	Noun	Definite=Def|Gender=Fem|Number=Plur	3	nsubj	_	_
+6	ar	ar	ADP	Simp	_	7	case	_	_
+7	dtús	tús	NOUN	Noun	Form=Ecl|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 6 csubj:cleft	color:blue
-1	I	I	ADP	Simp	_	0	root	_	_
-2	nDáil	dáil	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Fem|Number=Sing	1	nmod	_	_
-3	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	bhFlaitheas	flaitheas	NOUN	Noun	Case=Gen|Form=Ecl|Gender=Masc|NounType=Weak|Number=Plur	2	nmod	_	_
-5	go	go	PART	Vb	Mood=Sub|PartType=Vb	6	mark:prt	_	_
-6	raibh	bí	VERB	VI	Form=Ecl|Mood=Sub|Tense=Pres	1	csubj:cleft	_	_
-7	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 1 4 csubj:cleft	color:blue
+1	Mise	mise	PRON	Pers	Number=Sing|Person=1|PronType=Emp	0	root	_	_
+2	amháin	amháin	ADJ	Adj	Degree=Pos	1	amod	_	_
+3	a	a	PART	Vb	PartType=Vb|PronType=Rel	4	mark:prt	_	_
+4	thabharfas	tabhair	VERB	VTI	Form=Len|Mood=Ind|PronType=Rel|Tense=Fut	1	csubj:cleft	_	_
+5	aire	aire	NOUN	Noun	Gender=Fem|Number=Sing	4	obj	_	_
+6	dó	do	ADP	Prep	Gender=Masc|Number=Sing|Person=3	4	obl:prep	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

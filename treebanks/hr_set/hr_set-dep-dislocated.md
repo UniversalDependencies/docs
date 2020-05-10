@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (0%) are attached to their parents as `dislocated`.
+7 nodes (0%) are attached to their parents as `dislocated`.
 
-8 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.125.
+7 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.85714285714286.
 
-The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (2; 25% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 13% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (1; 13% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (1; 13% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 13% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 13% instances).
+The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (2; 29% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 14% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (1; 14% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 14% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 14% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -32,8 +32,8 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 8	,	,	PUNCT	Z	_	20	punct	_	_
 9	budući	budući	ADV	Cs	_	20	advmod	_	_
 10	da	da	SCONJ	Cs	_	9	fixed	_	_
-11	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
-12	spor	spor	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	20	nsubj:pass	_	_
+11	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+12	spor	spor	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
 13	između	između	ADP	Sg	Case=Gen	14	case	_	_
 14	Hrvatske	Hrvatska	PROPN	Npfsg	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
 15	i	i	CCONJ	Cc	_	16	cc	_	_
@@ -82,15 +82,15 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 16	lipnja	lipanj	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
 17	,	,	PUNCT	Z	_	13	punct	_	_
 18	predviđeno	predvidjeti	ADJ	Appnsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
-19	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	_
-20	održavanje	održavanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	18	nsubj:pass	_	_
+19	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+20	održavanje	održavanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	_
 21	i	i	CCONJ	Cc	_	22	dislocated	_	_
 22	drugih	drugi	ADJ	Mlompg	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	23	amod	_	_
 23	sadržaja	sadržaj	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	SpaceAfter=No
 24	,	,	PUNCT	Z	_	29	punct	_	_
 25	kojima	koji	DET	Pi-mpi	Case=Ins|Gender=Masc|Number=Plur|PronType=Int,Rel	29	obl	_	_
-26	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux:pass	_	_
-27	manifestacija	manifestacija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	29	nsubj:pass	_	_
+26	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	_
+27	manifestacija	manifestacija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	29	nsubj	_	_
 28	dodatno	dodatno	ADV	Rgp	Degree=Pos	29	advmod	_	_
 29	obogaćena	obogatiti	ADJ	Appfsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	23	acl	_	SpaceAfter=No
 30	.	.	PUNCT	Z	_	18	punct	_	_

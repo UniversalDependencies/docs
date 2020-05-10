@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16540 nodes (10%) are attached to their parents as `det`.
+16554 nodes (10%) are attached to their parents as `det`.
 
-16521 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10846432889964.
+16535 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10788933188353.
 
-The following 17 pairs of parts of speech are connected with `det`: <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (15239; 92% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (701; 4% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (227; 1% instances), <tt><a href="fro_srcmf-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (215; 1% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (106; 1% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (31; 0% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `det`: <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (15256; 92% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (705; 4% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (228; 1% instances), <tt><a href="fro_srcmf-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (216; 1% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (103; 1% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (30; 0% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="fro_srcmf-pos-NUM.html">NUM</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,7 +61,7 @@ The following 17 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 5 4 det	color:blue
 1	Einz	_	ADV	ADVgen	_	6	mark	_	_
 2	vos	_	PRON	PROper	PronType=Prs	6	obj	_	_
-3	avrunt	_	VERB	VERcjg	VerbForm=Fin	6	aux	_	_
+3	avrunt	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	_
 4	li	_	DET	DETdef	Definite=Def|PronType=Art	5	det	_	_
 5	meillor	_	ADJ	ADJqua	_	6	nsubj	_	_
 6	cumperee	_	NOUN	NOMcom	Morph=VPar	0	root	_	_

@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 * `Anim` (61; 13% of non-empty `Animacy`): <em>bivšeg, novog, američkog, generalnog, kosovskog, sledećeg, visokog, Sejdijuovog, Zlatnog, apatični</em>
 * `Inan` (409; 87% of non-empty `Animacy`): <em>novi, ekonomski, veliki, politički, veći, međunarodni, socijalni, važan, Ahtisarijev, direktan</em>
-* `EMPTY` (10381): <em>prošle, inostranih, novi, srpske, bivši, političke, nove, evropske, novog, Crne</em>
+* `EMPTY` (10367): <em>prošle, inostranih, novi, srpske, bivši, političke, nove, evropske, novog, Crne</em>
 
 <table>
   <tr><th>Paradigm <i>nov</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -77,7 +77,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 * `Anim` (18; 11% of non-empty `Animacy`): <em>svog, koji, nekoga, njegovog, svakog, kakvog, kojeg, tog</em>
 * `Inan` (142; 89% of non-empty `Animacy`): <em>svoj, taj, koji, njihov, kakav, ovaj, svaki, neki, njegov, takav</em>
-* `EMPTY` (3506): <em>koji, to, koje, koja, svoje, ove, sve, toga, nekoliko, koju</em>
+* `EMPTY` (3505): <em>koji, to, koje, koja, svoje, ove, sve, toga, nekoliko, koju</em>
 
 <table>
   <tr><th>Paradigm <i>koji</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -94,7 +94,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 * `Anim` (5; 11% of non-empty `Animacy`): <em>jednog, prvog</em>
 * `Inan` (42; 89% of non-empty `Animacy`): <em>jedan, prvi, drugi, deveti, dva, treći</em>
-* `EMPTY` (2032): <em>tri, jedan, dve, dva, pet, četiri, 20, jedna, deset, šest</em>
+* `EMPTY` (2039): <em>tri, jedan, dve, dva, pet, četiri, 20, jedna, deset, šest</em>
 
 <table>
   <tr><th>Paradigm <i>jedan</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>

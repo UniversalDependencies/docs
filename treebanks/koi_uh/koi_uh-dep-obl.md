@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `obl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `obl`: <tt><a href="koi_uh-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are 2 language-specific subtypes of `obl`: <tt><a href="koi_uh-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="koi_uh-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-21 nodes (5%) are attached to their parents as `obl`.
+21 nodes (3%) are attached to their parents as `obl`.
 
-11 instances of `obl` (52%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.23809523809524.
+12 instances of `obl` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.14285714285714.
 
-The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (10; 48% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (5; 24% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (3; 14% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 5% instances).
+The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (11; 52% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (6; 29% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (2; 10% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -49,18 +49,26 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 obl	color:blue
-1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	быдмис	быдмыны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
-3	Парижын	Париж	PROPN	_	Case=Ine|Number=Sing	2	obl	_	GTtags=Prop,Sg,Ine|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	6	punct	_	_
-5	Франция	Франция	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	GTtags=Prop,Sg,Nom
-6	юркарын	юркар	NOUN	_	Case=Ine|Number=Sing	3	appos	_	GTtags=Sg,Ine|SpaceAfter=No
-7	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 2 1 obl	color:blue
+1	Меным	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obl	_	GTtags=Pron,Pers,Sg1,Dat
+2	охота	охота	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=N,Sg,Nom
+3	тӧдны	тӧдны	VERB	V	Valency=1|VerbForm=Inf	2	acl	_	GTtags=V,IV,Inf|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	12	punct	_	GTtags=CLB
+5	мыля	мыля	ADV	Adv	_	12	advmod	_	GTtags=Adv
+6	сылӧ	сія	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	obl	_	GTtags=Pron,Pers,Sg3,Dat
+7	важ	важ	ADJ	A	_	8	amod	_	GTtags=A
+8	селитьбаыс	селитьба	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	GTtags=N,Sg,Nom,PxSg3
+9	син	син	NOUN	N	Animacy=Inan|Case=Nom|Number=Sing	12	obl	_	GTtags=N,Sem/Inanim,Sg,Nom
+10	одзӧ	одзӧ	ADP	Adp	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	9	case	_	GTtags=Adp,Po,Spat,Sg,Ill
+11	оз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	12	aux:neg	_	GTtags=V,Neg,Ind,Prs,Sg3
+12	ков	ковны	VERB	V	Connegative=Yes|Valency=1	3	advcl	_	GTtags=V,IV,ConNeg|SpaceAfter=No
+13	,	,	PUNCT	CLB	_	15	punct	_	GTtags=CLB
+14	и	и	CCONJ	CC	_	15	cc	_	GTtags=CC
+15	юася	юасьны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Valency=1	2	conj	_	GTtags=V,IV,Ind,Prs,Sg1
 
 ~~~
 

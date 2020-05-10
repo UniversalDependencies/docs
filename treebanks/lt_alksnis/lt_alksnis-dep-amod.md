@@ -41,19 +41,19 @@ The following 15 pairs of parts of speech are connected with `amod`: <tt><a href
 3	lėtiniai	lėtinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	4	amod	4:amod	_
 4	susirgimai	susirgimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	9	punct	9:punct	_
-6	kurių	kuris	DET	įv.vyr.dgs.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Int	8	amod	8:amod	_
+6	kurių	kuris	DET	įv.vyr.dgs.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Int,Rel	8	amod	8:amod	_
 7	inkubacinis	inkubacinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	8:amod	_
-8	periodas	periodas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj	_
+8	periodas	periodas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj|10:nsubj	_
 9	gali	galėti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	acl	4:acl	_
 10	trukti	trukti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	9	xcomp	9:xcomp	_
 11	nuo	nuo	ADP	prl.K.	AdpType=Prep|Case=Gen	13	case	13:case	_
-12	kelių	kelis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	13	nmod	13:nmod	_
-13	mėnesių	mėnuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	10	obl	10:obl	_
+12	kelių	kelis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	13	nmod	13:nmod:gen	_
+13	mėnesių	mėnuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	10	obl	10:obl:nuo:gen	_
 14	iki	iki	ADP	prl.K.	AdpType=Prep|Case=Gen	15	case	15:case	_
-15	5	5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	10	obl	10:obl	_
+15	5	5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	10	obl	10:obl:iki	_
 16	-	-	PUNCT	skyr.	_	17	punct	17:punct	_
-17	15	15	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	15	conj	10:obl|15:conj	_
-18	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	15	nmod	15:nmod|17:nmod	SpaceAfter=No
+17	15	15	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	15	conj	10:obl:iki|15:conj	_
+18	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	15	nmod	15:nmod:gen|17:nmod:gen	SpaceAfter=No
 19	.	.	PUNCT	skyr.	_	4	punct	4:punct	_
 
 ~~~
@@ -67,7 +67,7 @@ The following 15 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 8 9 amod	color:blue
 1	Ar	ar	PART	dll.	_	2	advmod:emph	2:advmod:emph|7:advmod:emph	_
 2	turite	turėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	kuo	kas	PRON	įv.Įn.	Case=Ins|Definite=Ind|PronType=Int	4	obj	4:obj	_
+3	kuo	kas	PRON	įv.Įn.	Case=Ins|Definite=Ind|PronType=Int,Rel	4	obl:arg	4:obl:arg:ins	_
 4	užsiimti	užsiimti	VERB	vksm.bndr.sngr.	Polarity=Pos|Reflex=Yes|VerbForm=Inf	2	xcomp	2:xcomp	_
 5	ir	ir	CCONJ	jng.	_	7	cc	7:cc	_
 6	gerai	gerai	ADV	prv.nelygin.	Degree=Pos	7	advmod	7:advmod	_

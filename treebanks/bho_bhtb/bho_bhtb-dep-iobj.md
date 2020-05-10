@@ -8,27 +8,29 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (0%) are attached to their parents as `iobj`.
+17 nodes (0%) are attached to their parents as `iobj`.
 
-15 instances of `iobj` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.5.
+14 instances of `iobj` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.64705882352941.
 
-The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (11; 61% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (2; 11% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (2; 11% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (10; 59% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (2; 12% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (2; 12% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 iobj	color:blue
-1	ई	ई	DET	DM_DMD	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	compound	_	_
-2	देश	देश	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
-3	बिआह	बिआह	NOUN	N_NN	NumType=Card	6	iobj	_	_
-4	प्रधान	प्रधान	ADJ	JJ	Case=Nom	5	amod	_	_
-5	देश	देश	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	obj	_	_
-6	ह	ह	VERB	V_VM	Gender=Masc|Number=Plur|Person=3|Voice=Act	0	root	_	_
-7	।	।	PUNCT	RD_PUNC	_	6	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 iobj	color:blue
+1	सचहूं	सचहै	CCONJ	CC_CCD	_	8	dep	_	_
+2	पप्पू	पप्पू	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+3	बनि	बनी	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	xcomp	_	_
+4	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	3	mark	_	_
+5	जीयल	जीयल	NOUN	N_NN	Case=Acc	8	iobj	_	_
+6	आसान	आसान	ADJ	JJ	_	8	obj	_	_
+7	ना	ना	PART	RP_NEG	_	8	obl	_	_
+8	होखे	हो	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	_
+9	।	।	PUNCT	RD_PUNC	_	8	punct	_	_
 
 ~~~
 
@@ -51,7 +53,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 10	रंग	रंग	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	nmod	_	_
 11	जे	जे	DET	DM_DMD	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	det	_	_
 12	कीन	कीन	VERB	V_VM	_	31	obj	_	_
-13	सकता	सकता	AUX	V_VAUX	_	12	aux	_	_
+13	सकता	सक	AUX	V_VAUX	_	12	aux	_	_
 14	,	COMMA	PUNCT	RD_PUNC	_	31	punct	_	_
 15	ऊ	ऊ	PRON	PR_PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	iobj	_	_
 16	दू	दू	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	nummod	_	_
@@ -60,7 +62,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 19	से	से	ADP	PSP	AdpType=Post	18	case	_	_
 20	काम	काम	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	nmod	_	_
 21	चला	चल	VERB	V_VM	Aspect=Perf|Gender=Masc|VerbForm=Part	26	nmod	_	_
-22	लेला	लेला	AUX	V_VAUX	_	21	aux	_	_
+22	लेला	ले	AUX	V_VAUX	_	21	aux	_	_
 23	भा	भा	AUX	V_VAUX	_	21	aux	_	_
 24	छी	छी	AUX	V_VAUX	_	21	aux	_	_
 25	-	-	PUNCT	RD_SYM	_	21	punct	_	_
@@ -88,7 +90,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 5	ब्रेकिंग	ब्रेकिंग	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	amod	_	SpacesAfter=\n
 6	न्यूज	न्यूज	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obj	_	_
 7	आ	आ	VERB	V_VM	_	0	root	_	_
-8	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	aux	_	_
+8	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	aux	_	_
 9	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	6	aux	_	_
 10	–	–	PUNCT	RD_SYM	_	7	punct	_	_
 11	सबले	सबला	DET	RP_INTF	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	det	_	_

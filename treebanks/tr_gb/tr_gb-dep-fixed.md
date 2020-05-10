@@ -25,10 +25,10 @@ The following 24 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	Ya	ya	CCONJ	_	_	2	cc	_	_
 2	Ahmet	Ahmet	PROPN	_	Number=Sing	11	nsubj	_	_
 3	ya	ya	CCONJ	_	_	4	cc	_	_
-4	siz	siz	PRON	_	Case=Nom|Number=Sing|Person=2	2	conj	_	_
+4	siz	siz	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	conj	_	_
 5	ya	ya	CCONJ	_	_	7	cc	_	_
-6	da	da	CCONJ	_	_	5	fixed	_	_
-7	ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1	2	conj	_	_
+6	da	de	CCONJ	_	_	5	fixed	_	_
+7	ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	_	_
 8	hazırlıklara	hazırlık	NOUN	_	Case=Dat|Number=Plur	11	obl	_	_
 9	gönül	gönül	NOUN	_	Case=Nom|Number=Sing	11	obl	_	_
 10	lü	li	ADP	_	_	9	case	_	_
@@ -58,9 +58,9 @@ The following 24 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
-1	O	o	DET	_	Definite=Def|Number=Sing	2	det	_	_
+1	O	o	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	adamı	adam	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
-3	bir	bir	DET	_	Definite=Ind|Number=Sing	5	advmod	_	_
+3	bir	bir	DET	_	Definite=Ind|PronType=Art	5	advmod	_	_
 4	daha	daha	ADV	_	_	3	fixed	_	_
 5	görmek	gör	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	6	xcomp	_	_
 6	istemem	iste	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No

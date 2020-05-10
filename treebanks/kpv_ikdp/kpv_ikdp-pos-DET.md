@@ -13,18 +13,21 @@ The 10 most frequent `DET` lemmas: <em>став, весь, какой, мӧд, �
 
 The 10 most frequent `DET` types:  <em>Став, всю, какой, мӧд, ставыс, такое</em>
 
-The 10 most frequent ambiguous lemmas: <em>мӧд</em> (<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> 2, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>став</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 2, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2), <em>мӧд</em> (<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> 2, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>мӧд</em> (<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>мӧд</em> (<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1), <em>ставыс</em> (<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1)
 
 
 * <em>мӧд</em>
   * <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2: <em>Ну , палялі ас местэам , а <b>мӧд</b> луннас ми уже , абу <b>мӧд</b> луннас-а , сы луннас же вот , тытэн нин вӧлі .</em>
   * <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1: <em>Из сае токо ветлала , потому что <b>мӧд</b> , мӧдэд луныс , да , менам сэн нин воссис нин .</em>
+* <em>ставыс</em>
+  * <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2: <em>Как раз вежсис <b>ставыс</b> олэмыс , деньгаыс вежсис , и <b>ставыс</b> вежсис .</em>
+  * <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1: <em>Но маме как раз тыра вӧліс , думайтэныс , гашке , вӧрзям да и , ничего , бур лоо <b>ставыс</b> да .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.200000 (the average of all parts of speech is 1.221569).
+The form / lemma ratio of `DET` is 1.200000 (the average of all parts of speech is 1.252319).
 
 The 1st highest number of forms (2) was observed with the lemma “став”: <em>Став, ставыс</em>.
 

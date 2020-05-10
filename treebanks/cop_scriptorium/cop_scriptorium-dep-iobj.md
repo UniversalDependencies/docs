@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-58 nodes (0%) are attached to their parents as `iobj`.
+65 nodes (0%) are attached to their parents as `iobj`.
 
-58 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.1551724137931.
+65 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15384615384615.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (53; 91% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (59; 91% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (5; 8% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

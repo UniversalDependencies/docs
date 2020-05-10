@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Colin Batchelor.
 
 Repository: [UD_Scottish_Gaelic-ARCOSG](https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 
@@ -43,20 +43,20 @@ Development of the treebank happens directly in the UD repository, so you may su
 ## Description
 
 A treebank of Scottish Gaelic based on the
-[Annotated Reference Corpus Of Scottish Gaelic (ARCOSG)](https://datashare.is.ed.ac.uk/handle/10283/2011).
+[Annotated Reference Corpus Of Scottish Gaelic (ARCOSG)](https://github.com/Gaelic-Algorithmic-Research-Group/ARCOSG).
 
 
 
 The Scottish Gaelic treebank takes data from ARCOSG, the Annotated Reference Corpus of Scottish Gaelic (Lamb _et al._ 2016) with the annotation scheme based on that in the Irish UD treebank. Full bibliographic details are to be had there.
 
 It contains eight subcorpora of a varying number of original files, each of approximately 1000 tokens.
-Not all of them have made it into release 2.5. The test and dev files are complete and the training set will be filled out, hopefully before 2.6.
+Not all of them have made it into release 2.6. The test and dev files are complete and the training set will be filled out, hopefully before 2.7.
 All files listed below are in the training set unless they are explicitly marked as being in test or dev.
 In the ARCOSG documentation the names of contributors are given in Gaelic, which I have kept and glossed with their names in English where they will be familiar to non-Gaelic speakers.
 
 - Conversation. c01 is in test, c03 in dev and the rest in train. These are transcripts of interviews in the Western Isles from 1998 to 2000. In c03 and c04 speakers 2, 4 and 5 are children.
 - Public interview. p04 is in test, p05 in dev and the rest in train.
-- Sport. s06 is in test, s08 in dev and the rest in train. s01 to s05 are _Radio nan Gàidheil_ commentary on a match between Scotland and Australia; s06 to s10 on Scotland _vs._ Yugoslavia.
+- Sport. s06 is in test, s08 in dev and the rest in train. s01 to s05 are _Radio nan Gàidheal_ commentary on a match between Scotland and Australia; s06 to s10 on Scotland _vs._ Yugoslavia.
 - Oral narrative.
 - n01: _Na Trì Leinntean Canaich_ (test)
 - n02: _Conall Gulban_ (dev)
@@ -141,11 +141,11 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 
 
 <ul>
-<li>This corpus contains 2193 sentences, 42838 tokens and 42848 syntactic words.</li>
+<li>This corpus contains 2198 sentences, 42983 tokens and 42993 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3840 tokens (9%) that are not followed by a space.</li>
+<li>This corpus contains 3860 tokens (9%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -153,7 +153,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 </ul>
 
 <ul>
-<li>This corpus contains 844 types of words that contain both letters and punctuation. Examples: a', a’, 's, b', 'n, a-mach, [Name], 'na, ars', a-steach, an-diugh, ’s, ars’, bh', 'se, th', 'ga, co-dhiubh, h-uile, a-staigh, h-Alba, 'sa, a's, ‘s, a-rithist, d’, ma-thà, 'g, a-nis, dh’fhalbh, 'm, d', a-null, b’, co-dhiù, h-eileanan, 'ic, 'san, ‘n, a'm, a-nise, a-nuas, dh'fhalbh, a-sin, an-dràsda, eadar-dhealaichte, t-saoghal, 'nam, a-màireach, a-seo</li>
+<li>This corpus contains 848 types of words that contain both letters and punctuation. Examples: a', a’, 's, b', 'n, a-mach, [Name], 'na, ars', a-steach, an-diugh, ’s, ars’, bh', 'se, th', 'ga, co-dhiubh, h-uile, a-staigh, h-Alba, 'sa, a's, ‘s, a-rithist, d’, ma-thà, 'g, a-nis, dh’fhalbh, 'm, co-dhiù, d', a-null, b’, h-eileanan, 'ic, 'san, ‘n, a'm, a-nise, a-nuas, dh'fhalbh, a-sin, an-dràsda, eadar-dhealaichte, t-saoghal, 'nam, a-màireach, a-seo</li>
 </ul>
 
 <ul>
@@ -469,6 +469,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
   <li>Yes
     <ul>
       <li>ADV: fhèin</li>
+      <li>NOUN: a, chèile</li>
       <li>PRON: fhèin, fhéin, chèile, fhìn, chéile, a, fhein</li>
     </ul>
   </li>
@@ -481,7 +482,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>0
     <ul>
-      <li>VERB: rinneadh, fhuaras, rugadh, feumar, thathar, bhathar, faodar, lorgadh, Thathas, bhathas</li>
+      <li>VERB: rinneadh, fhuaras, rugadh, faodar, feumar, thathar, bhathar, lorgadh, Thathas, bhathas</li>
     </ul>
   </li>
 </ul>
@@ -529,17 +530,17 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: Giant, okay, Agricultural, Celtic, Royal, alright, brainy, fussy, knackered, left</li>
+          <li>ADJ: Giant, extra, important, okay, Agricultural, Celtic, Royal, alright, brainy, fast</li>
           <li>ADV: really, straight</li>
           <li>DET: the</li>
-          <li>INTJ: no, Well, okay, sorry, thanks</li>
-          <li>NOUN: contract, gym, Baby, Cheatharnaigh, Eachtra, Scouts, Society, balance, homework, test</li>
-          <li>NUM: eighteen, fifty, five, nineteen, ninety, seven, three, twenty</li>
+          <li>INTJ: no, Well, okay, really, so, sorry, thanks</li>
+          <li>NOUN: tug-of-war, Shir, coach, contract, equipment, gym, Baby, Cheatharnaigh, Eachtra, Scouts</li>
+          <li>NUM: eighteen, fifty, five, forty-thousand, nineteen, ninety, seven, ten, thousand, three</li>
           <li>PRON: I</li>
-          <li>PROPN: Sir, North, Uist</li>
+          <li>PROPN: Sir, Hosta, North, Uist</li>
           <li>SCONJ: so</li>
           <li>VERB: do, it’s, know</li>
-          <li>X: contract, tribunal, and, bhunkhouse, on, theatre, Airways, British, Bus, Captain</li>
+          <li>X: Celtic, Connections, contract, test, tribunal, Post, Well, and, bhunkhouse, on</li>
         </ul>
       </li>
     </ul>
@@ -551,8 +552,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
     <ul>
       <li>Ad
         <ul>
-          <li>PART: gu, gun, gum, 'g, g'</li>
-          <li>SCONJ: gun</li>
+          <li>PART: gu</li>
         </ul>
       </li>
       <li>Cmpl
@@ -613,7 +613,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (44)</li>
+      <li>VERB--NOUN (46)</li>
       <li>VERB--NOUN-Dat (6)</li>
       <li>VERB--NOUN-Dat-ADP([a]) (1)</li>
       <li>VERB--NOUN-Dat-ADP(de) (2)</li>
@@ -621,7 +621,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Nom (1327)</li>
       <li>VERB--NOUN-Nom-ADP(ach) (1)</li>
       <li>VERB--NOUN-Nom-ADP(eadar) (1)</li>
-      <li>VERB--PRON (1767)</li>
+      <li>VERB--PRON (1769)</li>
       <li>VERB--PRON-ADP(ach) (1)</li>
     </ul>
   </li>

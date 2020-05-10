@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (0%) are attached to their parents as `fixed`.
+10 nodes (0%) are attached to their parents as `fixed`.
 
-8 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25.
+10 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.2.
 
-The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (3; 38% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 13% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 13% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 13% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 13% instances).
+The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (3; 30% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 10% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 10% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-X.html">X</a></tt> (1; 10% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 10% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 10% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 4	से	से	ADP	PSP	AdpType=Post	3	case	_	_
 5	दूर	दूर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	compound	_	_
 6	जाए	जाया	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	21	nsubj	_	_
-7	लगीहें	लगीह	AUX	V_VAUX	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	aux	_	_
+7	लगीहें	लग	AUX	V_VAUX	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	aux	_	_
 8	आ	आ	CCONJ	CC_CCD	_	6	conj	_	_
 9	अपना	अपना	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	11	nmod	_	_
 10	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	9	case	_	_
@@ -68,25 +68,76 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 fixed	color:blue
-1	काहे	काह	PRON	PR_PRQ	_	11	discourse	_	_
-2	एह	एह	DET	DM_DMD	NumType=Card	3	det	_	_
-3	फेरा	फेरा	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	nmod	_	_
-4	में	में	ADP	PSP	AdpType=Post	3	case	_	_
-5	पड़ल	पड़ल	VERB	V_VM	Case=Nom	11	xcomp	_	_
-6	बाड़	बाड	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	aux	_	_
-7	कि	कि	SCONJ	CC_CCS	_	6	conj	_	_
-8	12	12	NUM	QT_QTC	NumType=Card	11	nummod	_	_
-9	बरीस	बरीस	NOUN	N_NN	NumType=Card	8	fixed	_	_
-10	छोट	छोट	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur|Person=3	13	amod	_	_
-11	ह	ह	VERB	V_VM	NumType=Card	0	root	_	_
-12	कि	कि	SCONJ	CC_CCS	_	10	conj	_	_
-13	बड़	बड	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	amod	_	_
-14	।	।	PUNCT	RD_PUNC	_	11	punct	_	_
+# visual-style 31	bgColor:blue
+# visual-style 31	fgColor:white
+# visual-style 30	bgColor:blue
+# visual-style 30	fgColor:white
+# visual-style 30 31 fixed	color:blue
+1	“	“	PUNCT	RD_PUNC	_	2	punct	_	_
+2	आंजनेय	आंजनेय	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nmod	_	_
+3	जी	जी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	2	compound	_	_
+4	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	2	case	_	_
+5	एह	एह	DET	DM_DMD	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	det	_	_
+6	कहनाम	कह	VERB	V_VM	_	8	obl	_	_
+7	से	से	ADP	PSP	AdpType=Post	6	case	_	_
+8	सहमति	सहमति	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	_
+9	जतावत	जतावत	VERB	V_VM	_	12	csubj	_	_
+10	चंद्रशेखर	चंद्रशेखर	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
+11	तिवारी	तिवारी	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	12	compound	_	_
+12	लिखले	लिखला	VERB	V_VM	_	0	root	_	_
+13	बाड़न	बा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	_
+14	-	-	PUNCT	RD_SYM	_	12	punct	_	_
+15	”	”	PUNCT	RD_PUNC	_	12	punct	_	_
+16	एह	एह	DET	DM_DMD	NumType=Card	17	det	_	_
+17	संग्रह	संग्रह	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	21	nmod	_	_
+18	के	को	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	17	case	_	_
+19	पढ़िके	पढ़	VERB	V_VM	_	21	advcl	_	_
+20	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	21	compound	_	_
+21	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	62	ccomp	_	_
+22	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	aux	_	_
+23	सकेला	सक	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	aux	_	_
+24	कि	कि	SCONJ	CC_CCS	_	62	mark	_	_
+25	डॉ.	डॉ.	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	27	compound	_	_
+26	विवेकी	विवेकी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	27	compound	_	_
+27	राय	राय	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	30	nsubj	_	_
+28	जी	जी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	30	compound	_	_
+29	अउरी	अउरी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	30	compound	_	_
+30	साहित्यकारन	साहित्यकारन	NOUN	N_NN	Case=Nom	32	nmod	_	_
+31	खानी	खानी	PART	RP_RPD	_	30	fixed	_	_
+32	कागद	कागद	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	62	nsubj	_	_
+33	की	की	ADP	PSP	_	32	case	_	_
+34	लेखी	लेखी	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	36	nmod	_	_
+35	ना	ना	PART	RP_NEG	Case=Nom|Gender=Masc|Number=Sing|Person=3	36	compound	_	_
+36	कहिके	कह	VERB	V_VM	_	44	ccomp	_	_
+37	महात्मा	महात्मा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	38	compound	_	_
+38	कबीर	कबीर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	62	nmod	_	_
+39	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	38	case	_	_
+40	तरह	तरह	ADP	PSP	_	38	compound	_	_
+41	‘	‘	PUNCT	RD_SYM	_	42	punct	_	_
+42	आँखिन	आँखिन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	44	nmod	_	_
+43	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	42	case	_	_
+44	देखी	देख	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	46	acl	_	_
+45	’	’	PUNCT	RD_SYM	_	44	punct	_	_
+46	कहले	कह	VERB	V_VM	Mood=Sub|VerbForm=Fin|Voice=Act	62	nmod	_	_
+47	बाड़न	बा	AUX	V_VAUX	_	46	aux	_	_
+48	,	COMMA	PUNCT	RD_PUNC	_	49	punct	_	_
+49	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	53	obl	_	_
+50	से	से	ADP	PSP	AdpType=Post	49	case	_	_
+51	उनकर	उनकर	DET	DM_DMD	_	53	det	_	_
+52	निबंध	निबंध	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	53	compound	_	_
+53	पाठक	पाठक	NOUN	N_NN	_	62	nmod	_	_
+54	पर	पर	ADP	PSP	AdpType=Post	53	case	_	_
+55	आपन	आपन	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Sing|Person=3	57	compound	_	_
+56	एगो	एगो	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	57	compound	_	_
+57	विशिष्ट	विशिष्ट	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	58	compound	_	_
+58	छाप	छाप	ADJ	JJ	_	59	amod	_	_
+59	छोड़े	छोड़ा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	62	nmod	_	_
+60	में	में	ADP	PSP	AdpType=Post	59	case	_	_
+61	सफल	सफल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	62	compound	_	_
+62	भइल	भइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	xcomp	_	_
+63	बाड़न	बा	AUX	V_VAUX	_	62	aux	_	_
+64	स	स	AUX	V_VAUX	_	62	aux	_	SpacesAfter=\s\s
+65	।	।	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\s\n
 
 ~~~
 

@@ -24,12 +24,12 @@ The following 17 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 8 7 discourse	color:blue
 1	Neměla	mít	VERB	VpFS----R-NA---	Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 2	nejmenší	malý	ADJ	AANS4----3A----	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing|Polarity=Pos	3	amod	3:amod	_
-3	ponětí	ponětí	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	1	obj	1:obj	SpaceAfter=No
+3	ponětí	ponětí	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	1	obj	1:obj|8:obl:arg:o:loc	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
 5	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	6:case	_
-6	čem	co	PRON	PQ--6----------	Animacy=Inan|Case=Loc|PronType=Int,Rel	8	obl:arg	8:obl:arg	_
+6	čem	co	PRON	PQ--6----------	Animacy=Inan|Case=Loc|PronType=Int,Rel	8	obl:arg	3:ref	_
 7	to	to	PART	TT-------------	_	8	discourse	8:discourse	_
-8	mluvím	mluvit	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	3:acl	SpaceAfter=No
+8	mluvím	mluvit	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	3:acl:relcl	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -69,7 +69,7 @@ The following 17 pairs of parts of speech are connected with `discourse`: <tt><a
 4	tam	tam	ADV	Db-------------	PronType=Dem	8	advmod	8:advmod	_
 5	takhle	takhle	ADV	Db-------------	_	8	advmod	8:advmod	_
 6	po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	7:case	_
-7	ránu	ráno	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	8	obl	8:obl	_
+7	ránu	ráno	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	8	obl	8:obl:po:loc	_
 8	děje	dít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 9	?	?	PUNCT	Z:-------------	_	8	punct	8:punct	_
 

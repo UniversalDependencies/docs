@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_French-SRCMF: Relations: `mark:advmod`
 
 This relation is a language-specific subtype of <tt><a href="fro_srcmf-dep-mark.html">mark</a></tt>.
-There are also 2 other language-specific subtypes of `mark`: <tt><a href="fro_srcmf-dep-mark-obj.html">mark:obj</a></tt>, <tt><a href="fro_srcmf-dep-mark-obl.html">mark:obl</a></tt>.
+There are also 1 other language-specific subtypes of `mark`: <tt><a href="fro_srcmf-dep-mark-obl.html">mark:obl</a></tt>.
 
 8 nodes (0%) are attached to their parents as `mark:advmod`.
 

@@ -40,7 +40,7 @@ The following 34 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 6	fgColor:white
 # visual-style 6 5 cc	color:blue
 1	Po	po	ADP	Eu6	AdpType=Prep|Case=Loc	2	case	2:case	_
-2	Silvestri	silvester	PROPN	SSis6:r	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	4:obl	_
+2	Silvestri	silvester	PROPN	SSis6:r	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	4:obl:po:loc	_
 3	sú	byť	AUX	VKepc+	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 4	zničení	zničený	ADJ	AAmp1x	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	0:root	_
 5	aj	aj	CCONJ	O	_	6	cc	6:cc	_

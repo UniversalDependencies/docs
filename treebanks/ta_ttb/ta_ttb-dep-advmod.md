@@ -27,7 +27,7 @@ The following 11 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	தமிழக	தமிழகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=tamilaka|LTranslit=tamilakam
 3	அரச்	அரசு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	Translit=arac|LTranslit=aracu
 4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	Translit=um|LTranslit=um
-5	உடந்தைய்	உடந்தை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl	Translit=uṭantaiy|LTranslit=uṭantai
+5	உடந்தைய்	உடந்தை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl:nom	Translit=uṭantaiy|LTranslit=uṭantai
 6	ஆக	ஆகு	ADV	AA-------	_	7	advmod	7:advmod	Translit=āka|LTranslit=āku
 7	உள்ளது	உள்	VERB	Vr-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=uḷḷatu|LTranslit=uḷ
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	7:punct	Translit=.|LTranslit=.
@@ -41,11 +41,11 @@ The following 11 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 advmod	color:blue
-1	இது	இது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod	Translit=itu|LTranslit=itu
+1	இது	இது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod:nom	Translit=itu|LTranslit=itu
 2	தொடர்பாக	தொடர்பு	ADV	AA-------	_	6	advmod	6:advmod	SpaceAfter=No|Translit=toṭarpāka|LTranslit=toṭarpu
 3	,	,	PUNCT	Z:-------	PunctType=Comm	6	punct	6:punct	Translit=,|LTranslit=,
 4	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	6	nsubj	6:nsubj	Translit=avar|LTranslit=avar
-5	புதன்கிழமை	புதன்கிழமை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl	Translit=putankilamai|LTranslit=putankilamai
+5	புதன்கிழமை	புதன்கிழமை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl:nom	Translit=putankilamai|LTranslit=putankilamai
 6	வெளியிட்ட	வெளியிடு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	7	amod	7:amod	Translit=veḷiyiṭṭa|LTranslit=veḷiyiṭu
 7	அறிக்கை	அறிக்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No|Translit=arikkai|LTranslit=arikkai
 8	:	:	PUNCT	Z:-------	PunctType=Comm	7	punct	7:punct	SpaceAfter=No|Translit=:|LTranslit=:
@@ -63,8 +63,8 @@ The following 11 pairs of parts of speech are connected with `advmod`: <tt><a hr
 1	இதன்படி	இதன்படி	ADV	AA-------	_	6	advmod	6:advmod	Translit=itanpaṭi|LTranslit=itanpaṭi
 2	இந்தியாவுக்கு	இந்தியா	PROPN	NED-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	6	nsubj	6:nsubj	Translit=intiyāvukku|LTranslit=intiyā
 3	128	128	NUM	U=-------	NumForm=Digit	4	nummod	4:nummod	Translit=128|LTranslit=128
-4	நாடுகளின்	நாடு	NOUN	NNG-3PN--	Case=Gen|Gender=Neut|Number=Plur|Person=3	5	nmod	5:nmod	Translit=nāṭukaḷin|LTranslit=nāṭu
-5	ஆதரவு	ஆதரவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod	Translit=ātaravu|LTranslit=ātaravu
+4	நாடுகளின்	நாடு	NOUN	NNG-3PN--	Case=Gen|Gender=Neut|Number=Plur|Person=3	5	nmod	5:nmod:gen	Translit=nāṭukaḷin|LTranslit=nāṭu
+5	ஆதரவு	ஆதரவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod:nom	Translit=ātaravu|LTranslit=ātaravu
 6	தேவை	தேவை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No|Translit=tēvai|LTranslit=tēvai
 7	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	6:punct	Translit=.|LTranslit=.
 

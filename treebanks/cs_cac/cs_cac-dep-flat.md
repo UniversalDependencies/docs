@@ -26,12 +26,12 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 1	Dohoda	dohoda	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	0:root	_
 2	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	4	case	4:case	LId=s-1
 3	*	*	SYM	Xx-------------	Abbr=Yes	4	nmod	4:nmod	_
-4	ředitelem	ředitel	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	1	nmod	1:nmod	_
+4	ředitelem	ředitel	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	1	nmod	1:nmod:s:ins	_
 5	Tomkou	Tomka	PROPN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	4	flat	4:flat	_
 6	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	7:case	LId=o-1
-7	spolupráci	spolupráce	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	1:nmod	_
+7	spolupráci	spolupráce	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	1:nmod:o:loc	_
 8	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	9:case	LId=na-1
-9	Oravě	Orava	PROPN	NNFS6-----A----	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	7	nmod	7:nmod	SpaceAfter=No
+9	Oravě	Orava	PROPN	NNFS6-----A----	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	7	nmod	7:nmod:na:loc	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -49,7 +49,7 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 4	ekonomický	ekonomický	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	5	amod	5:amod	_
 5	náměstek	náměstek	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	1	appos	1:appos	_
 6	podnikového	podnikový	ADJ	AAMS2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	7	amod	7:amod	_
-7	ředitele	ředitel	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	5:nmod	SpaceAfter=No
+7	ředitele	ředitel	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	5:nmod:gen	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -62,8 +62,8 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 5 flat	color:blue
 1	Odpověď	odpověď	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	nsubj	8:nsubj	_
-2	člena	člen	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	1	nmod	1:nmod	_
-3	Rady	rada	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	2	nmod	2:nmod	LId=rada-2|LGloss=(člověk;_např._soudní_rada)
+2	člena	člen	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	1	nmod	1:nmod:gen	_
+3	Rady	rada	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	2	nmod	2:nmod:gen	LId=rada-2|LGloss=(člověk;_např._soudní_rada)
 4	KNV	KNV	PROPN	NNIXX-----A---8	Abbr=Yes|Animacy=Inan|Gender=Masc|NameType=Com|Polarity=Pos	3	nmod	3:nmod	LGloss=(Krajský_nár._výbor)
 5	bratra	bratr	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	2	flat	2:flat	_
 6	Kozáka	Kozák	PROPN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	2	flat	2:flat	_

@@ -6,82 +6,88 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-GSD: POS Tags: `ADP`
 
-There are 74 `ADP` lemmas (0%), 93 `ADP` types (0%) and 41797 `ADP` tokens (23%).
-Out of 16 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 2 in number of tokens.
+There are 46 `ADP` lemmas (0%), 46 `ADP` types (0%) and 41632 `ADP` tokens (22%).
+Out of 16 observed tags, the rank of `ADP` is: 9 in number of lemmas, 10 in number of types and 2 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: の, は, に, を, が, と, で, も, から, や
+The 10 most frequent `ADP` lemmas: の, に, は, を, が, と, で, も, から, や
 
-The 10 most frequent `ADP` types:  の, は, に, を, が, と, で, も, から, や
+The 10 most frequent `ADP` types:  の, に, は, を, が, と, で, も, から, や
 
-The 10 most frequent ambiguous lemmas: の (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 8845, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 515, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 1), が (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 4168, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 772), と (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 3152, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 532), で (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2781, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 7), から (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 989, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 63), など (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 545, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 4), より (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 112, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 16), くらい (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 25, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 3), ずつ (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 13, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 2), はじめ (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 9, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 4)
+The 10 most frequent ambiguous lemmas: の (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 8842, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 832, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 2), に (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 6384, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 137, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 2), は (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 5514, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 5), が (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 4094, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 783, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 2), と (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 3798, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 291), で (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2586, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 24), も (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 1839, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 33), から (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 982, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 71), や (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 607, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 2, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 1), など (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 445, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 78)
 
-The 10 most frequent ambiguous types:  の (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 8844, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 515, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 67, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 1), に (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 5443, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 602, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 17), が (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 4168, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 772), と (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 3137, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 532), で (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2781, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 471, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 154, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 7), から (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 989, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 63), など (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 537, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 4), へ (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 241, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 3), より (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 112, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 16, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2), くらい (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 25, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 3)
+The 10 most frequent ambiguous types:  の (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 8842, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 832, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 2), に (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 6384, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 804, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 137, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 3), は (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 5514, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 5), が (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 4094, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 783, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 2), と (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 3798, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 291), で (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2586, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1638, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2), も (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 1839, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 33), から (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 982, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 71), や (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 607, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 1), など (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 445, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 78)
 
 
 * の
-  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 8844: ただし 、 50 周年 ソング に 変更 後 は 、 ED も 歌 つき <b>の</b> もの が 使わ れ た 。
-  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 515: 聖書 に 当てはめ た 場合 、 最も 分かり やすい <b>の</b> が ノアの方舟 伝説 である 。
-  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 67: しかも 、 熱々 <b>の</b> 料理 は とても 美味しかっ た です 。
-  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 1: 言う こと だけ は 随分 と 正しい が , 自分 の やっ て いる こと は まるっきり 反 革命家 じゃ ない <b>の</b> 。
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 8842: ただし 、 50 周年 ソング に 変更 後 は 、 ED も 歌 つき <b>の</b> もの が 使わ れ た 。
+  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 832: 姉 と 同じ 先生 だっ た <b>の</b> で 、 話 やすかっ た です 。
+  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 2: そして はっきり 言っ て こんな 価格 で いい <b>の</b> って いう くらい 安い です 。
 * に
-  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 5443: ただし 、 50 周年 ソング <b>に</b> 変更 後 は 、 ED も 歌 つき の もの が 使わ れ た 。
-  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 602: スタッフ さん も 親切 <b>に</b> 接し て くれ た ので 、 緊張 せ ず に 居心地 が 良かっ た です 。
-  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 17: スタッフ さん も 親切 に 接し て くれ た ので 、 緊張 せ ず <b>に</b> 居心地 が 良かっ た です 。
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 6384: ただし 、 50 周年 ソング <b>に</b> 変更 後 は 、 ED も 歌 つき の もの が 使わ れ た 。
+  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 804: 以上 の 操作 を 再帰 的 <b>に</b> 繰り返す と 以下 の よう な 決定 木 が 出力 さ れる 。
+  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 137: 雪 に 足 を とら れ ない よう に する ため <b>に</b> 足裏 に 取り付け られる ミニ スキー 。
+  * <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 3: <b>に</b> も かかわら ず 、 ニノイ は 、 飛行 機 を 降り て すぐ に 、 タラップ の 下 で 頭 を 撃た れ て 倒れ た 。
+* は
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 5514: ただし 、 50 周年 ソング に 変更 後 <b>は</b> 、 ED も 歌 つき の もの が 使わ れ た 。
+  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 5: 甘め の スープ で 、 家系 に し て <b>は</b> とんこつ 臭く ない 。
 * が
-  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 4168: ただし 、 50 周年 ソング に 変更 後 は 、 ED も 歌 つき の もの <b>が</b> 使わ れ た 。
-  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 772: ほとんど は 浅海生 だ <b>が</b> 、 水深 数 百 m ほど の 深海 まで 生息 する もの も いる 。
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 4094: ただし 、 50 周年 ソング に 変更 後 は 、 ED も 歌 つき の もの <b>が</b> 使わ れ た 。
+  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 783: ほとんど は 浅海 生 だ <b>が</b> 、 水深 数百 m ほど の 深海 まで 生息 する もの も いる 。
+  * <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 2: <b>が</b> 、 新 シリーズ で まさか の 再 登場 。
 * と
-  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 3137: 姉 <b>と</b> 同じ 先生 だっ た ので 、 話 やすかっ た です 。
-  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 532: 色 の 指定 に teal と 指定 する <b>と</b> 、 16 進数 表記 で # 008080 と 表現 さ れる 色 が 発色 さ れる 。
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 3798: 多彩 な ライブ アクト <b>と</b> とも に 、 祝日 前 の 渋谷 の 夜 を 盛り上げ て くれ そう だ 。
+  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 291: 以上 の 操作 を 再帰 的 に 繰り返す <b>と</b> 以下 の よう な 決定 木 が 出力 さ れる 。
 * で
-  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2781: 一方 B 国 <b>で</b> は 輸出 により 小麦 の 量 が 減る ので 、 小麦 の 価格 は 上がる 。
-  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 471: 富士通 は 、 産業機械 だけ <b>で</b> なく 、 社会 インフラ や 物流 業界 など に対して M 2 M サービス を 提供 する 。
-  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 154: 新宿 の 高速バス を 利用 する とき は 必ず 足 を 運ん <b>で</b> しまう 。
-  * <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 7: 1 シート 15 枚 撮り <b>で</b> 、 5 インチ や 8 インチ の フロッピーディスク の ような スリーブ に 収納 さ れ て いる 。
-  * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 7: 私 は ここ の 病院 に 行き 、 人 が 怖く なり 、 外 に <b>で</b> れ なく なり まし た 。
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 2586: 一方 B 国 <b>で</b> は 輸出 に より 小麦 の 量 が 減る の で 、 小麦 の 価格 は 上がる 。
+  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1638: 姉 と 同じ 先生 だっ た の <b>で</b> 、 話 やすかっ た です 。
+  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 163: 新宿 の 高速 バス を 利用 する とき は 必ず 足 を 運ん <b>で</b> しまう 。
+  * <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 24: <b>で</b> も 、 リニューアル し た ゲストハウス 風 の ロビー ?
+  * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2: 渋谷 駅 を <b>で</b> て すぐ な の で 、 行く の に も 楽 でし た 。
+* も
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 1839: ただし 、 50 周年 ソング に 変更 後 は 、 ED <b>も</b> 歌 つき の もの が 使わ れ た 。
+  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 33: 大宮 は 終盤 、 攻勢 を 仕掛ける <b>も</b> 得点 は 奪え ず 。
 * から
-  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 989: 大正 期 <b>から</b> 、 ノンフィクション 、 推理小説 など を 訳し た 。
-  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 63: 私 は 住民 に 事実 を 伝える の が 仕事 です <b>から</b> 。
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 982: 大正 期 <b>から</b> 、 ノンフィクション 、 推理 小説 など を 訳し た 。
+  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 71: 私 は 住民 に 事実 を 伝える の が 仕事 です <b>から</b> 。
+* や
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 607: 府中 <b>や</b> 国立 の 辺り の 土地 が 得意 と の こと で 、 色々 と 紹介 し て もらう こと が でき まし た 。
+  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 3: いわな <b>や</b> の 親爺 です 。
+  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1: その 場合 、 要因 を ブレインストーミング <b>や</b> なぜ なぜ 分析 に よっ て 多数 列挙 する 二 重 の 誤り を 犯す こと が 多い 。
+  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 1: 通りがかり に 軽く 食べ て 飲めれ ば いい <b>や</b> と 、 正直 あまり 味 に は 期待 せ ず に 入っ た お 店 。
 * など
-  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 537: 大正 期 から 、 ノンフィクション 、 推理小説 <b>など</b> を 訳し た 。
-  * <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 4: バイエルン 州 、 バーデン = ヴュルテンベルク 州 や ラインラント = プファルツ 州 や <b>など</b> 、 南部 に 多い 。
-* へ
-  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 241: また 、 10月 に は 販売網 の 強化 と 顧客 <b>へ</b> の サービス の 充実 を 図る ため 、 神奈川県 藤沢市 に 営業所 を 開設 。
-  * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 3: 富山 テレビ と の 契約 の 終了後 は 名古屋 タレント ビューロー から シグマ ・ セブン e <b>へ</b> 移籍 し た 。
-* より
-  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 112: 私 は 初めて だっ た ん だ けど 思っ て い た <b>より</b> も 魚 は 新鮮 でし た 。
-  * <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 16: 具体的 に は 、 <b>より</b> 使い やすく 、 <b>より</b> 対話型 の 言語 へ 。
-  * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 2: 彼女 は 、 ロサンゼルス で の <b>より</b> 高い ステータス を 得 られる 仕事 の オファー を 受け入れ た の だっ た 。
-* くらい
-  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 25: 柱 の 円周 は 、 大人 5 人 が 手 を 伸ばし て 抱え て も 届か ない <b>くらい</b> の 大きさ である 。
-  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 3: でも この <b>くらい</b> 年収 が ある と , 消費者 被害 の 救済 に , 出家 状態 で 取り組 め そう です 。
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 445: 大正 期 から 、 ノンフィクション 、 推理 小説 <b>など</b> を 訳し た 。
+  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 78: ポール ・ ウェラー から セッション や オープニング アクト の オファー を 受ける <b>など</b> 、 高い 評価 を 得 て いる 。
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.256757 (the average of all parts of speech is 1.058496).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.060594).
 
-The 1st highest number of forms (4) was observed with the lemma “をもとに”: をもとに, を元に, を基に, を基にして.
+The 1st highest number of forms (1) was observed with the lemma “か”: か.
 
-The 2nd highest number of forms (3) was observed with the lemma “と”: 、と, と, なんて.
+The 2nd highest number of forms (1) was observed with the lemma “から”: から.
 
-The 3rd highest number of forms (3) was observed with the lemma “など”: 、など, など, 等.
+The 3rd highest number of forms (1) was observed with the lemma “が”: が.
 
 `ADP` does not occur with any features.
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="ja_gsd-dep-case.html">case</a></tt> (41087; 98% instances), <tt><a href="ja_gsd-dep-cc.html">cc</a></tt> (628; 2% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (79; 0% instances), <tt><a href="ja_gsd-dep-dep.html">dep</a></tt> (3; 0% instances)
+`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="ja_gsd-dep-case.html">case</a></tt> (41495; 100% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (135; 0% instances), <tt><a href="ja_gsd-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (32970; 79% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (4447; 11% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (2415; 6% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (1051; 3% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (469; 1% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (188; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (174; 0% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (79; 0% instances), <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> (4; 0% instances)
+Parents of `ADP` nodes belong to 14 different parts of speech: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (34788; 84% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (2935; 7% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (1608; 4% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (1015; 2% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (500; 1% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (484; 1% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (180; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (99; 0% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-41795 (100%) `ADP` nodes are leaves.
+39857 (96%) `ADP` nodes are leaves.
 
-2 (0%) `ADP` nodes have one child.
+650 (2%) `ADP` nodes have one child.
 
-The highest child degree of a `ADP` node is 1.
+1123 (3%) `ADP` nodes have two children.
 
-Children of `ADP` nodes are attached using 2 different relations: <tt><a href="ja_gsd-dep-compound.html">compound</a></tt> (1; 50% instances), <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (1; 50% instances)
+2 (0%) `ADP` nodes have three or more children.
 
-Children of `ADP` nodes belong to 2 different parts of speech: <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 50% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (1; 50% instances)
+The highest child degree of a `ADP` node is 5.
+
+Children of `ADP` nodes are attached using 6 different relations: <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (2896; 100% instances), <tt><a href="ja_gsd-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (1; 0% instances)
+
+Children of `ADP` nodes belong to 6 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (1310; 45% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (1047; 36% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (539; 19% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
 

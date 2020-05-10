@@ -6,28 +6,22 @@ udver: '2'
 
 ## Treebank Statistics: UD_Serbian-SET: POS Tags: `PUNCT`
 
-There are 22 `PUNCT` lemmas (0%), 22 `PUNCT` types (0%) and 12340 `PUNCT` tokens (13%).
+There are 22 `PUNCT` lemmas (0%), 22 `PUNCT` types (0%) and 12342 `PUNCT` tokens (13%).
 Out of 17 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 14 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., ", (, ), --, :, „, ”, ?</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., ", (, ), --, :, „, ”, ?</em>
 
-The 10 most frequent ambiguous lemmas: <em>„</em> (<tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> 80, <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> 1), <em>...</em> (<tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> 20, <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>„</em> (<tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> 80, <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> 1), <em>...</em> (<tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> 19, <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous types:  
 
 
-* <em>„</em>
-  * <tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> 80: <em>Čini mi se da mi moramo da stvorimo novu generaciju <b>„</b> francuskih đaka ” .</em>
-  * <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> 1: <em>Kao što su i dablinske ulice kojima sam prošao jedne oktobarske večeri , čitav vek nakon <b>„</b> odiseje ” Leopolda Bluma , predstavljale samo bledu kopiju Džojsovog grada .</em>
-* <em>...</em>
-  * <tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> 19: <em>" Možete pratiti ovaj put ka Evropi ili krenuti alternativnim putem <b>...</b></em>
-  * <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> 1: <em>" To je veoma važan korak jer preduzimamo stvarne mere u stvaranju zone slobodnog kretanja u regionu , koja je odraz izvrsne <b>...</b> saradnje koja postoji u drugim domenima .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.842192).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.841736).
 
 The 1st highest number of forms (2) was observed with the lemma “...”: <em>..., …</em>.
 
@@ -40,17 +34,17 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 4 different relations: <tt><a href="sr_set-dep-punct.html">punct</a></tt> (12333; 100% instances), <tt><a href="sr_set-dep-flat.html">flat</a></tt> (5; 0% instances), <tt><a href="sr_set-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="sr_set-dep-obl.html">obl</a></tt> (1; 0% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="sr_set-dep-punct.html">punct</a></tt> (12342; 100% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (5831; 47% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (3315; 27% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1370; 11% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (774; 6% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (594; 5% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (158; 1% instances), <tt><a href="sr_set-pos-X.html">X</a></tt> (94; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (79; 1% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (51; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (33; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (5834; 47% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (3320; 27% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1373; 11% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (771; 6% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (597; 5% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (156; 1% instances), <tt><a href="sr_set-pos-X.html">X</a></tt> (93; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (77; 1% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (51; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (31; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-12337 (100%) `PUNCT` nodes are leaves.
+12339 (100%) `PUNCT` nodes are leaves.
 
 3 (0%) `PUNCT` nodes have one child.
 
 The highest child degree of a `PUNCT` node is 1.
 
-Children of `PUNCT` nodes are attached using 3 different relations: <tt><a href="sr_set-dep-case.html">case</a></tt> (1; 33% instances), <tt><a href="sr_set-dep-conj.html">conj</a></tt> (1; 33% instances), <tt><a href="sr_set-dep-punct.html">punct</a></tt> (1; 33% instances)
+Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="sr_set-dep-punct.html">punct</a></tt> (3; 100% instances)
 
-Children of `PUNCT` nodes belong to 3 different parts of speech: <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 33% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1; 33% instances), <tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> (1; 33% instances)
+Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> (3; 100% instances)
 

@@ -69,7 +69,7 @@ The 10 most frequent ambiguous types:  <em>ka</em> (<tt><a href="lv_lvtb-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.074074 (the average of all parts of speech is 2.200669).
+The form / lemma ratio of `SCONJ` is 1.074074 (the average of all parts of speech is 2.201338).
 
 The 1st highest number of forms (3) was observed with the lemma “kā”: <em>ka, kaa, kā</em>.
 
@@ -90,7 +90,7 @@ Examples: <em>ka, lai, kā, ja, vai, jo, nekā, gan, kamēr, turklāt</em>
 
 `SCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="lv_lvtb-dep-mark.html">mark</a></tt> (3860; 80% instances), <tt><a href="lv_lvtb-dep-case.html">case</a></tt> (403; 8% instances), <tt><a href="lv_lvtb-dep-cc.html">cc</a></tt> (292; 6% instances), <tt><a href="lv_lvtb-dep-fixed.html">fixed</a></tt> (214; 4% instances), <tt><a href="lv_lvtb-dep-discourse.html">discourse</a></tt> (37; 1% instances), <tt><a href="lv_lvtb-dep-dep.html">dep</a></tt> (13; 0% instances), <tt><a href="lv_lvtb-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 16 different parts of speech: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3390; 70% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (708; 15% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (286; 6% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (182; 4% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (121; 3% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (37; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (27; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (24; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `SCONJ` nodes belong to 16 different parts of speech: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3389; 70% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (709; 15% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (286; 6% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (182; 4% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (121; 3% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (37; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (27; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (24; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances),  (1; 0% instances)
 
 4646 (96%) `SCONJ` nodes are leaves.
 

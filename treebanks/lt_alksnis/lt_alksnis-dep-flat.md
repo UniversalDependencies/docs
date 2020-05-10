@@ -26,10 +26,10 @@ The following 18 pairs of parts of speech are connected with `flat`: <tt><a href
 1	Pagerėjo	pagerėti	VERB	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	0:root	_
 2	beveik	beveik	ADV	prv.nelygin.	Degree=Pos	3	advmod	3:advmod	_
 3	visų	visas	DET	įv.mot.dgs.K.	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur|PronType=Tot	4	det	4:det	_
-4	valstybių	valstybė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	8	nmod	8:nmod	_
+4	valstybių	valstybė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	8	nmod	8:nmod:gen	_
 5	narių	narė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	4	flat	4:flat	_
-6	inovacijų	inovacija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	7	nmod	7:nmod	_
-7	diegimo	diegimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
+6	inovacijų	inovacija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	7	obl:arg	7:obl:arg:gen	_
+7	diegimo	diegimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod:gen	_
 8	rodikliai	rodiklis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	1:nsubj	SpaceAfter=No
 9	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
@@ -42,10 +42,10 @@ The following 18 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 flat	color:blue
-1	ŽEMĖS	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	2	nmod	2:nmod	_
-2	ŪKIO	ūkis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod	_
+1	ŽEMĖS	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	2	nmod	2:nmod:gen	_
+2	ŪKIO	ūkis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	_
 3	MINISTRAS	ministras	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-4	JERONIMAS	Jeronimas	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	3	nmod	3:nmod	_
+4	JERONIMAS	Jeronimas	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	3	nmod	3:nmod:nom	_
 5	KRAUJELIS	Kraujelis	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	3	flat	3:flat	_
 
 ~~~
@@ -71,11 +71,11 @@ The following 18 pairs of parts of speech are connected with `flat`: <tt><a href
 12	ne	ne	PART	dll.	_	14	advmod:emph	14:advmod:emph	_
 13	į	į	ADP	prl.G.	AdpType=Prep|Case=Acc	15	case	15:case	_
 14	tą	tas	DET	įv.mot.vns.G.	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem	15	det	15:det	_
-15	pusę	pusė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	16	obl:arg	16:obl:arg	_
-16	važiuoja	važiuoti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	18	acl	18:acl	SpaceAfter=No
+15	pusę	pusė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	16	obl:arg	16:obl:arg:į:acc	_
+16	važiuoja	važiuoti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	18	ccomp	18:ccomp	SpaceAfter=No
 17	,	,	PUNCT	skyr.	_	16	punct	16:punct	_
 18	klausia	klausti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-19	manęs	aš	PRON	įv.vns.K.	Case=Gen|Definite=Ind|Number=Sing|Person=1|PronType=Prs	18	obj	18:obj	_
+19	manęs	aš	PRON	įv.vns.K.	Case=Gen|Definite=Ind|Number=Sing|Person=1|PronType=Prs	18	obl:arg	18:obl:arg:gen	_
 20	vairuotoja	vairuotoja	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	18:nsubj	SpaceAfter=No
 21	.	.	PUNCT	skyr.	_	18	punct	18:punct	_
 

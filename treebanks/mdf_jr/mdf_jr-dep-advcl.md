@@ -7,32 +7,33 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Relations: `advcl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `advcl`: <tt><a href="mdf_jr-dep-advcl-tmod.html">advcl:tmod</a></tt>.
 
-11 nodes (2%) are attached to their parents as `advcl`.
+27 nodes (2%) are attached to their parents as `advcl`.
 
-8 instances of `advcl` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.90909090909091.
+15 instances of `advcl` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.92592592592593.
 
-The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (7; 64% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 18% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 18% instances).
+The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (13; 48% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (10; 37% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 advcl	color:blue
-1	―	―	PUNCT	PUNCT	_	4	punct	_	_
-2	Кемоньшка	кемонь	NUM	Num	Case=Comp|Number=Plur,Sing	3	nummod	_	_
-3	кизоня	кизоня	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
-4	ётай	ётамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	6	advcl	_	SpaceAfter=No
-5	,	,	PUNCT	CLB	_	4	punct	_	_
-6	касат	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=1	0	root	_	SpaceAfter=No
-7	,	,	PUNCT	CLB	_	10	punct	_	_
-8	козонга	козонга	ADV	Adv	_	10	advmod	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 10 advcl	color:blue
+1	Тяни	тяни	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	_
+2	ёран	ёрамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=2	0	root	_	_
+3	тиемда	тиемс	VERB	V	Case=Abl|Valency=2|VerbForm=Inf	2	xcomp	_	_
+4	оцю	оцю	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	5	amod	_	_
+5	самолёт	самолёт	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	10	punct	_	_
+7	аньцек	аньцек	ADV	Adv	_	10	advmod	_	_
+8	коданга	коданга	ADV	Adv	PronType=Ind	10	advmod	_	_
 9	аф	аф	AUX	Aux	Polarity=Neg	10	aux:neg	_	_
-10	туят	тумс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=1	6	conj	_	SpaceAfter=No
-11	.	.	PUNCT	CLB	_	6	punct	_	_
+10	лисенди	лисендемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	2	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 
@@ -61,7 +62,7 @@ The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	А	а	CCONJ	CC	_	4	cc	_	_
 2	мезе	мезе	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	0	root	_	_
 3	кда	кда	SCONJ	CS	_	4	mark	_	_
-4	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	2	advcl	_	SpaceAfter=No
+4	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	2	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
 6	аньцек	аньцек	ADV	Adv	_	7	advmod	_	_
 7	налхксемс	налхксемс	VERB	V	Valency=1|VerbForm=Inf	2	advcl	_	SpaceAfter=No

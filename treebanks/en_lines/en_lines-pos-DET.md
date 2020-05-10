@@ -68,11 +68,11 @@ The 2nd highest number of forms (2) was observed with the lemma “the”: <em>T
 
 The 3rd highest number of forms (2) was observed with the lemma “this”: <em>these, this</em>.
 
-`DET` occurs with 4 features: <tt><a href="en_lines-feat-PronType.html">PronType</a></tt> (8294; 94% instances), <tt><a href="en_lines-feat-Definite.html">Definite</a></tt> (7849; 89% instances), <tt><a href="en_lines-feat-Number.html">Number</a></tt> (407; 5% instances), <tt><a href="en_lines-feat-Case.html">Case</a></tt> (13; 0% instances)
+`DET` occurs with 5 features: <tt><a href="en_lines-feat-PronType.html">PronType</a></tt> (8295; 94% instances), <tt><a href="en_lines-feat-Definite.html">Definite</a></tt> (7849; 89% instances), <tt><a href="en_lines-feat-Number.html">Number</a></tt> (407; 5% instances), <tt><a href="en_lines-feat-Case.html">Case</a></tt> (12; 0% instances), <tt><a href="en_lines-feat-Poss.html">Poss</a></tt> (1; 0% instances)
 
-`DET` occurs with 10 feature-value pairs: `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Int`, `PronType=Neg`, `PronType=Tot`
+`DET` occurs with 12 feature-value pairs: `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Int`, `PronType=Neg`, `PronType=Rel`, `PronType=Tot`
 
-`DET` occurs with 11 feature combinations.
+`DET` occurs with 12 feature combinations.
 The most frequent feature combination is `Definite=Def|PronType=Art` (5262 tokens).
 Examples: <em>the</em>
 

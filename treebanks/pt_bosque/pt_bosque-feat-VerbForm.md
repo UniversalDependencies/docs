@@ -12,21 +12,21 @@ It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 25750 tokens (11%) have a non-empty value of `VerbForm`.
 7600 types (29%) occur at least once with a non-empty value of `VerbForm`.
 1949 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (20776; 9% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4972; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (20768; 9% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4980; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-20776 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+20768 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17228; 83%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11472; 55%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (11246; 54%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10739; 52%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17226; 83%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11467; 55%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (11242; 54%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10734; 52%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (11747; 57% of non-empty `VerbForm`): <em>tem, há, disse, pode, diz, é, deve, está, fez, têm</em>
+* `Fin` (11742; 57% of non-empty `VerbForm`): <em>tem, há, disse, pode, diz, é, deve, está, fez, têm</em>
 * `Ger` (777; 4% of non-empty `VerbForm`): <em>tendo, passando, dando, incluindo, fazendo, ganhando, dizendo, mostrando, considerando, esperando</em>
-* `Inf` (4363; 21% of non-empty `VerbForm`): <em>fazer, ter, ver, dar, dizer, partir, falar, manter, saber, passar</em>
-* `Part` (3889; 19% of non-empty `VerbForm`): <em>feito, feita, feitas, dito, vindo, tido, eleito, visto, aberto, considerado</em>
-* `EMPTY` (15): <em>é, Conhecido, chamadas, conhecida, dirigido, discutido, dizer, erra, estava, irritada</em>
+* `Inf` (4366; 21% of non-empty `VerbForm`): <em>fazer, ter, ver, dar, dizer, partir, falar, manter, saber, passar</em>
+* `Part` (3883; 19% of non-empty `VerbForm`): <em>feito, feita, feitas, dito, vindo, tido, eleito, visto, aberto, considerado</em>
+* `EMPTY` (14): <em>Conhecido, chamadas, conhecida, dirigido, discutido, dizer, erra, estava, irritada, relacionados</em>
 
 <table>
   <tr><th>Paradigm <i>ter</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -73,17 +73,17 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-4972 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+4980 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (4020; 81%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3742; 75%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3149; 63%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (4030; 81%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3752; 75%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3155; 63%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (4092; 82% of non-empty `VerbForm`): <em>é, foi, são, está, foram, vai, era, será, estão, tem</em>
+* `Fin` (4102; 82% of non-empty `VerbForm`): <em>é, foi, são, está, foram, vai, era, será, estão, tem</em>
 * `Ger` (77; 2% of non-empty `VerbForm`): <em>sendo, tendo, estando</em>
-* `Inf` (690; 14% of non-empty `VerbForm`): <em>ser, ter, estar, serem, ir, terem, haver, estarem, tê, estarmos</em>
+* `Inf` (688; 14% of non-empty `VerbForm`): <em>ser, ter, estar, serem, ir, terem, haver, estarem, tê, estarmos</em>
 * `Part` (113; 2% of non-empty `VerbForm`): <em>sido, estado, ido</em>
-* `EMPTY` (38): <em>é, fomos</em>
+* `EMPTY` (39): <em>é, fomos</em>
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -143,15 +143,15 @@ The most frequent other feature values with which `PRON` and `VerbForm` co-occur
 `SCONJ` tokens may have the following values of `VerbForm`:
 
 * `Ger` (1; 100% of non-empty `VerbForm`): <em>sendo</em>
-* `EMPTY` (5362): <em>que, a, de, para, se, porque, por, como, em, quando</em>
+* `EMPTY` (5357): <em>que, a, de, para, se, porque, por, como, em, quando</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (1188; 83%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (627; 61%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (282; 79%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-acl.html">acl</a></tt>]--> VERB</tt> (17; 52%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (651; 59%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (270; 79%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (6; 55%),
 <tt>AUX --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 100%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),

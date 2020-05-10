@@ -127,5 +127,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="cs_pdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (498; 52%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> VERB</tt> (126; 77%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (13; 57%),
+<tt>VERB --[<tt><a href="cs_pdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (7; 58%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
 

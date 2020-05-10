@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1300 nodes (2%) are attached to their parents as `det`.
+2237 nodes (2%) are attached to their parents as `det`.
 
-1299 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13615384615385.
+2236 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12069736253911.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (1145; 88% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (54; 4% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (53; 4% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (20; 2% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (18; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (2097; 94% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (74; 3% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (30; 1% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (23; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,25 +31,6 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	ADV	v,副詞,判断,確定	_	8	advmod	_	Gloss=therefore|SpaceAfter=No
-3	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	nsubj	_	Gloss=Wen|SpaceAfter=No
-4	武	武	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	conj	_	Gloss=Wu|SpaceAfter=No
-5	興	興	VERB	v,動詞,行為,動作	_	8	advcl	_	Gloss=rise|SpaceAfter=No
-6	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
-7	民	民	NOUN	n,名詞,人,人	_	8	nsubj	_	Gloss=people|SpaceAfter=No
-8	好	好	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=favour|SpaceAfter=No
-9	善	善	VERB	v,動詞,描写,態度	Degree=Pos	8	obj	_	Gloss=good|SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
@@ -60,6 +41,22 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 3	斯	斯	PRON	n,代名詞,指示,*	PronType=Dem	4	det	_	Gloss=this|SpaceAfter=No
 4	語	語	VERB	v,動詞,行為,伝達	_	2	obj	_	Gloss=tell|SpaceAfter=No
 5	矣	矣	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[PFV]|SpacesAfter=\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 det	color:blue
+1	先	先	NOUN	n,名詞,固定物,関係	Case=Loc	2	obl:lmod	_	Gloss=before|SpaceAfter=No
+2	立	立	VERB	v,動詞,行為,姿勢	_	0	root	_	Gloss=stand|SpaceAfter=No
+3	乎	乎	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
+4	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	6	det	_	Gloss=[3PRON]|SpaceAfter=No
+5	大	大	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	6	amod	_	Gloss=big|SpaceAfter=No
+6	者	者	PART	p,助詞,提示,*	_	2	obj	_	Gloss=that-which|SpaceAfter=No
 
 ~~~
 

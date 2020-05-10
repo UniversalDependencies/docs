@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1655 nodes (10%) are attached to their parents as `punct`.
+2892 nodes (10%) are attached to their parents as `punct`.
 
-1062 instances of `punct` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.29848942598187.
+1764 instances of `punct` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.53838174273859.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (782; 47% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (612; 37% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (123; 7% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (55; 3% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (35; 2% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (21; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (15; 1% instances), <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-PART.html">PART</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (1358; 47% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (1067; 37% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (234; 8% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (96; 3% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (51; 2% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (32; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (27; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-PART.html">PART</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	rhaid	rhaid	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
 4	i	i	ADP	prep	_	5	case	_	_
 5	ti	ti	PRON	indep	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
-6	ddod	dod	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	3	nmod	_	_
+6	ddod	dod	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	3	acl	_	_
 7	cyn	cyn	ADP	prep	_	8	case	_	_
 8	yfory	yfory	ADV	adv	_	6	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\n

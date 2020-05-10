@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>По</em> (<tt><a href="ru_pud-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.164663 (the average of all parts of speech is 1.495958).
+The form / lemma ratio of `PROPN` is 1.164663 (the average of all parts of speech is 1.496727).
 
 The 1st highest number of forms (5) was observed with the lemma “Трамп”: <em>Трамп, Трампа, Трампе, Трампом, Трампу</em>.
 

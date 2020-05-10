@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Cnd` (356; 80% of non-empty `Mood`): <em>bhiodh, biodh, dhèanadh, faigheadh, thigeadh, rachadh, dh’fhaodadh, bheireadh, dèanadh, chuireadh</em>
 * `Imp` (87; 20% of non-empty `Mood`): <em>feuch, can, abair, cuir, biodh, till, Cumaibh, bi, gabh, tog</em>
-* `EMPTY` (3851): <em>tha, bha, robh, eil, bheil, chaidh, thuirt, chuir, fhuair, rinn</em>
+* `EMPTY` (3859): <em>tha, bha, robh, eil, bheil, chaidh, thuirt, chuir, fhuair, rinn</em>
 
 <table>
   <tr><th>Paradigm <i>bi</i></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PART` and `Mood` co-occurred:
 
 * `Imp` (6; 3% of non-empty `Mood`): <em>na</em>
 * `Int` (217; 97% of non-empty `Mood`): <em>an, a, am, 'm, na, ‘n</em>
-* `EMPTY` (3953): <em>a, a', gu, cha, air, nach, gun, chan, ag, do</em>
+* `EMPTY` (3964): <em>a, a', gu, cha, air, nach, gun, chan, ag, do</em>
 
 <table>
   <tr><th>Paradigm <i>na</i></th><th><tt>Imp</tt></th><th><tt>Int</tt></th></tr>
@@ -62,7 +62,7 @@ The most frequent other feature values with which `PRON` and `Mood` co-occurred:
 `PRON` tokens may have the following values of `Mood`:
 
 * `Int` (141; 100% of non-empty `Mood`): <em>dè, cò, dé, gu, có, mheud, Ge, càil, Carson, Ciamar</em>
-* `EMPTY` (2505): <em>e, iad, mi, i, sin, esan, thu, fhèin, seo, sinn</em>
+* `EMPTY` (2509): <em>e, iad, mi, i, sin, esan, thu, fhèin, seo, sinn</em>
 
 `Mood` seems to be **lexical feature** of `PRON`. 100% lemmas (20) occur only with one value of `Mood`.
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `PRON` and `Mood` co-occurred:
 `ADV` tokens may have the following values of `Mood`:
 
 * `Int` (54; 100% of non-empty `Mood`): <em>ciamar, carson, càit, cà, Car, cuin, cuine, son, Càit', Dé</em>
-* `EMPTY` (1873): <em>an, a-mach, a, cho, cuideachd, idir, math, an-diugh, a-steach, dìreach</em>
+* `EMPTY` (1877): <em>an, a-mach, a, cho, cuideachd, idir, math, an-diugh, a-steach, dìreach</em>
 
 `Mood` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `Mood`.
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `PRON` and `Mood` co-occurred:
 `NUM` tokens may have the following values of `Mood`:
 
 * `Int` (2; 100% of non-empty `Mood`): <em>cia, mheud</em>
-* `EMPTY` (610): <em>aon, dà, deug, trì, fhichead, ceithir, fichead, mìle, cheud, chiad</em>
+* `EMPTY` (615): <em>dà, aon, deug, trì, fhichead, ceithir, fichead, mìle, ceud, cheud</em>
 
 ## Relations with Agreement in `Mood`
 

@@ -40,23 +40,23 @@ The following 4 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 22 parataxis	color:blue
-1	எனக்கு	என்	PRON	RpD-1SA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=1|PronType=Prs	4	obl:arg	4:obl:arg	Translit=enakku|LTranslit=en
-2	ஆயுள்	ஆயுள்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=āyuḷ|LTranslit=āyuḷ
+1	எனக்கு	என்	PRON	RpD-1SA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=1|PronType=Prs	4	obl:arg	4:obl:arg:dat	Translit=enakku|LTranslit=en
+2	ஆயுள்	ஆயுள்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod:nom	Translit=āyuḷ|LTranslit=āyuḷ
 3	தண்டனை	தண்டனை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	obj	4:obj	Translit=taṇṭanai|LTranslit=taṇṭanai
-4	விதித்தால்	விதி	VERB	Vw-T---AA	Mood=Cnd|Polarity=Pos|VerbForm=Fin|Voice=Act	20	advcl	20:advcl	Translit=vitittāl|LTranslit=viti
+4	விதித்தால்	விதி	VERB	Vw-T---AA	Mood=Cnd|Polarity=Pos|VerbForm=Fin|Voice=Act	20	advcl	20:advcl:உம்	Translit=vitittāl|LTranslit=viti
 5	உம்	உம்	PART	Ts-------	_	4	mark	4:mark	Translit=um|LTranslit=um
 6	அல்லது	அல்லது	CCONJ	CC-------	_	11	cc	11:cc	Translit=allatu|LTranslit=allatu
 7	சாகும்	சாகு	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	8	amod	8:amod	Translit=cākum|LTranslit=cāku
-8	வரை	வரை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	obl	11:obl	Translit=varai|LTranslit=varai
-9	சிறையில்	சிறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	11	obl	11:obl	Translit=ciraiyil|LTranslit=cirai
+8	வரை	வரை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	obl	11:obl:nom	Translit=varai|LTranslit=varai
+9	சிறையில்	சிறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	11	obl	11:obl:loc	Translit=ciraiyil|LTranslit=cirai
 10	ஏயே	ஏயே	PART	Tk-------	_	9	advmod:emph	9:advmod:emph	Translit=ēyē|LTranslit=ēyē
-11	அடைத்து	அதை	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	4	conj	4:conj|20:advcl	Translit=aṭaittu|LTranslit=atai
+11	அடைத்து	அதை	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	4	conj	4:conj|20:advcl:உம்	Translit=aṭaittu|LTranslit=atai
 12	வைத்தால்	வை	AUX	VW-T---AA	Mood=Cnd|Polarity=Pos|VerbForm=Fin|Voice=Act	11	aux	11:aux	Translit=vaittāl|LTranslit=vai
 13	உம்	உம்	PART	Ts-------	_	11	mark	11:mark	Translit=um|LTranslit=um
 14	செய்யாத	செய்	ADJ	Jd-T----N	Polarity=Neg|VerbForm=Part	15	amod	15:amod	Translit=ceyyāta|LTranslit=cey
-15	குற்றத்துக்க்	குற்றம்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	16	obl	16:obl	Translit=kurrattukk|LTranslit=kurram
+15	குற்றத்துக்க்	குற்றம்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	16	obl	16:obl:dat	Translit=kurrattukk|LTranslit=kurram
 16	ஆக	ஆக	ADV	AA-------	_	20	advmod	20:advmod	Translit=āka|LTranslit=āka
-17	யார்	யார்	PRON	RiN-3SA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Int	20	obl	20:obl	Translit=yār|LTranslit=yār
+17	யார்	யார்	PRON	RiN-3SA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Int	20	obl	20:obl:இடம்:nom	Translit=yār|LTranslit=yār
 18	இடம்	இடம்	ADP	PP-------	AdpType=Post	17	case	17:case	Translit=iṭam|LTranslit=iṭam
 19	உம்	உம்	PART	Tv-------	_	17	advmod:emph	17:advmod:emph	Translit=um|LTranslit=um
 20	மன்னிப்பு	மன்னிப்பு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=mannippu|LTranslit=mannippu
@@ -73,8 +73,8 @@ The following 4 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 parataxis	color:blue
-1	பாகிஸ்தான்	பாகிஸ்தான்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	2:nmod	Translit=pākistān|LTranslit=pākistān
-2	சிறையில்	சிறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	3	obl	3:obl	Translit=ciraiyil|LTranslit=cirai
+1	பாகிஸ்தான்	பாகிஸ்தான்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	2:nmod:nom	Translit=pākistān|LTranslit=pākistān
+2	சிறையில்	சிறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	3	obl	3:obl:loc	Translit=ciraiyil|LTranslit=cirai
 3	அடைக்க	அடை	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	5	advcl	5:advcl	Translit=aṭaikka|LTranslit=aṭai
 4	ப்பட்ட்	படு	AUX	VT-T---PA	Polarity=Pos|VerbForm=Part|Voice=Pass	3	aux	3:aux	Translit=ppaṭṭ|LTranslit=paṭu
 5	இருந்த	இரு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	8	amod	8:amod	Translit=irunta|LTranslit=iru

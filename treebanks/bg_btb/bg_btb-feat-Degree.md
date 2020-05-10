@@ -84,7 +84,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 * `Cmp` (2; 40% of non-empty `Degree`): <em>по-напреднали, по-проточен</em>
 * `Pos` (3; 60% of non-empty `Degree`): <em>Уволнените, останалите, отличените</em>
-* `EMPTY` (17180): <em>има, няма, може, трябва, е, каза, могат, съобщи, заяви, стана</em>
+* `EMPTY` (16823): <em>има, няма, може, трябва, каза, могат, съобщи, заяви, стана, имат</em>
 
 ## Relations with Agreement in `Degree`
 
@@ -97,6 +97,6 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (4; 67%),
 <tt>ADV --[<tt><a href="bg_btb-dep-obl.html">obl</a></tt>]--> ADJ</tt> (3; 75%),
 <tt>ADJ --[<tt><a href="bg_btb-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="bg_btb-dep-obl.html">obl</a></tt>]--> ADJ</tt> (2; 67%),
-<tt>ADV --[<tt><a href="bg_btb-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (2; 67%).
+<tt>ADJ --[<tt><a href="bg_btb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="bg_btb-dep-obl.html">obl</a></tt>]--> ADJ</tt> (2; 67%).
 

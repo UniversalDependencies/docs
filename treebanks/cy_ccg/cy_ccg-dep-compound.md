@@ -10,10 +10,10 @@ This relation is universal.
 
 6 nodes (0%) are attached to their parents as `compound`.
 
-5 instances of `compound` (83%) are left-to-right (parent precedes child).
+4 instances of `compound` (67%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.33333333333333.
 
-The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 50% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 17% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
+The following 3 pairs of parts of speech are connected with `compound`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (4; 67% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 17% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -82,44 +82,19 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 compound	color:blue
-1	Fodd	modd	ADV	adv	Mutation=SM	10	advmod	_	_
-2	bynnag	bynnag	ADV	adv	_	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	punct	_	4	punct	_	_
-4	bum	pump	NUM	num	Mutation=SM	5	nummod	_	_
-5	mis	mis	NOUN	noun	Gender=Masc|Number=Sing	10	obl	_	_
-6	ers	ers	ADP	prep	_	8	case	_	_
-7	ei	ei	PRON	dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
-8	hagor	agor	NOUN	verbnoun	Mutation=AM|Number=Sing|VerbForm=Vnoun	5	acl	_	SpaceAfter=No
-9	,	,	PUNCT	punct	_	10	punct	_	_
-10	mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-11	'r	y	DET	art	_	12	det	_	_
-12	awdurdod	awdurdod	NOUN	noun	Gender=Masc|Number=Sing	10	nsubj	_	_
-13	wedi	wedi	AUX	ante	_	14	aux	_	_
-14	bygwth	bygwth	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	10	xcomp	_	_
-15	troi	troi	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	14	obj	_	_
-16	rhai	rhai	PRON	pron	PronType=Ind	15	obj	_	_
-17	o	o	ADP	prep	_	19	case	_	SpaceAfter=No
-18	'r	y	DET	art	_	19	det	_	_
-19	perchnogion	perchennog	NOUN	noun	Gender=Masc|Number=Plur	16	nmod	_	_
-20	busnes	busnes	NOUN	noun	Gender=Masc|Number=Sing	19	nmod	_	_
-21	allan	allan	ADV	adv	_	15	advmod	_	SpaceAfter=No
-22	,	,	PUNCT	punct	_	25	punct	_	_
-23	onibai	onibai	ADV	adv	_	25	mark	_	_
-24	eu	eu	PRON	dep	Number=Plur|Person=3|PronType=Prs	25	nsubj	_	_
-25	bod	bod	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	14	advcl	_	_
-26	yn	yn	AUX	impf	_	27	aux	_	_
-27	arwyddo	arwyddo	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	25	xcomp	_	_
-28	cytundebau	cytundeb	NOUN	noun	Gender=Masc|Number=Plur	27	obj	_	_
-29	erbyn	erbyn	ADP	prep	_	30	case	_	_
-30	17:00	17:00	NUM	num	_	27	obl	_	_
-31	ddydd	dydd	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	27	obl	_	_
-32	Mercher	Mercher	NOUN	noun	Gender=Masc|Number=Sing	31	compound	_	SpaceAfter=No
-33	.	.	PUNCT	punct	_	25	punct	_	SpacesAfter=\n
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 compound	color:blue
+1	Ganwch	canu	VERB	verb	Mood=Ind|Mutation=SM|Number=Plur|Person=2|Tense=Fut	0	root	_	_
+2	chi	chi	PRON	indep	Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
+3	yn	yn	ADP	prep	_	5	case	_	_
+4	y	y	DET	art	_	5	det	_	_
+5	cyngerdd	cyngerdd	NOUN	noun	Gender=Masc|Number=Sing	1	obl	_	_
+6	nos	nos	NOUN	noun	Gender=Fem|Number=Sing	7	compound	_	_
+7	yfory	yfory	ADV	adv	_	1	advmod	_	SpaceAfter=No
+8	?	?	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

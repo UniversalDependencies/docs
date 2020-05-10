@@ -190,7 +190,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 `ADJ` tokens may have the following values of `Tense`:
 
 * `Pres` (12; 100% of non-empty `Tense`): <em>var, belli</em>
-* `EMPTY` (780): <em>var, yok, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım</em>
+* `EMPTY` (777): <em>var, yok, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım</em>
 
 ## Relations with Agreement in `Tense`
 

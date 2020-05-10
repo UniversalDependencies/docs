@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-25087 tokens (10%) have a non-empty value of `Tense`.
-2823 types (15%) occur at least once with a non-empty value of `Tense`.
-1551 lemmas (10%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (15477; 6% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (9610; 4% instances).
+25088 tokens (10%) have a non-empty value of `Tense`.
+2824 types (15%) occur at least once with a non-empty value of `Tense`.
+1546 lemmas (10%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (15478; 6% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (9610; 4% instances).
 
 ### `VERB`
 
-15477 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Tense`.
+15478 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9899; 64%), <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9899; 64%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9899; 64%), <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9898; 64%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (8683; 56% of non-empty `Tense`): <em>had, said, made, got, called, told, was, used, took, attached</em>
-* `Pres` (6794; 44% of non-empty `Tense`): <em>have, is, has, are, want, need, going, know, think, thank</em>
-* `EMPTY` (12932): <em>have, get, know, go, do, see, take, let, make, give</em>
+* `Pres` (6795; 44% of non-empty `Tense`): <em>have, is, has, are, want, need, going, know, think, thank</em>
+* `EMPTY` (12930): <em>have, get, know, go, do, see, take, let, make, give</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -51,7 +51,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><th>Paradigm <i>be</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt>|<tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ar</em></td><td></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>am</em></td><td><em>was</em></td></tr>
-  <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>is, 's, s, ’s, `s, ai, se</em></td><td><em>was</em></td></tr>
+  <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>is, 's, s, ’s, `s, ai, i, se</em></td><td><em>was</em></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>was</em></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>',, ar</em></td><td><em>wase</em></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>are, 'm, 're, m, r, re, 's, ai, art, is, ´m, ’m</em></td><td><em>were</em></td></tr>

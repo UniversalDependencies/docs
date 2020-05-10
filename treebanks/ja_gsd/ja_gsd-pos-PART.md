@@ -6,73 +6,82 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-GSD: POS Tags: `PART`
 
-There are 59 `PART` lemmas (0%), 61 `PART` types (0%) and 998 `PART` tokens (1%).
-Out of 16 observed tags, the rank of `PART` is: 9 in number of lemmas, 9 in number of types and 13 in number of tokens.
+There are 45 `PART` lemmas (0%), 50 `PART` types (0%) and 1255 `PART` tokens (1%).
+Out of 16 observed tags, the rank of `PART` is: 10 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
-The 10 most frequent `PART` lemmas: か, 第, 約, ね, さ, よ, -, な, 翌, 年
+The 10 most frequent `PART` lemmas: 的, か, さ, など, たり, ね, よ, だけ, な, まで
 
-The 10 most frequent `PART` types:  か, 第, 約, ね, さ, よ, -, な, 翌, かどうか
+The 10 most frequent `PART` types:  的, か, さ, など, たり, ね, よ, だけ, な, まで
 
-The 10 most frequent ambiguous lemmas: 約 (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 96, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 2), ね (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 57, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1), - (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 49, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 46, <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 28), 翌 (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 15, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1), 年 (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 981, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 13), ~ (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 12, <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 12, <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> 3), 計 (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 10, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 5), 同 (<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 82, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 9), 昭和 (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 8, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 4), 対 (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 5)
+The 10 most frequent ambiguous lemmas: 的 (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 439, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1), か (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 240, <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 183, <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> 1), など (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 445, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 78), たり (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 74, <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 6, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 4), だけ (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 99, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 35), まで (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 283, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 24), ほど (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 43, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 22, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 2), 風 (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 12, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 5), ばかり (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 11, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 11), しか (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 40, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 9)
 
-The 10 most frequent ambiguous types:  約 (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 96, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 2), ね (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 57, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1), さ (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1118, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 98, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 55), よ (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 53, <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 1), - (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 49, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 46, <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 28), な (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 893, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 26, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 3), 翌 (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 15, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1), 年 (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 981, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 13), ~ (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 12, <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 12, <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> 4), 計 (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 10, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 5)
+The 10 most frequent ambiguous types:  的 (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 439, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1), か (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 240, <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 183, <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> 1), さ (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1086, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 98, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 89), など (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 445, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 78), たり (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 74, <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 6, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 2), ね (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 56, <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1), だけ (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 99, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 35), な (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 972, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 28, <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 2), まで (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 283, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 24), ほど (<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 43, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 22, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 2)
 
 
-* 約
-  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 96: しかしながら 、 中心部 の 温度 は 、 <b>約</b> 5,000 °C である 。
-  * <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 2: ただ 、 <b>約</b> - 33 °C 以下 に なっ て くる と 、 氷晶 核 が なく て も 凍結 し 始め 、 <b>約</b> - 42 °C で ほとんど すべて の 水滴 が 凍結 する 。
-* ね
-  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 57: やはり 、 おすすめ は 焼き物 です <b>ね</b> 。
-  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1: これ は やら <b>ね</b> ば 。
+* 的
+  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 439: 麺棒 は 直径 2 ~ 3 cm 、 長 さ 1 m 程度 の もの が 一般 <b>的</b> と いう 。
+  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1: 当時 は インターネット も なく , 公表 し て い ない 電話 番号 も 攻撃 の <b>的</b> に なっ た 。
+* か
+  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 240: どこ に する <b>か</b> 迷っ てる 方 が い たら 、 ぜひ とも ここ を オ ススメ し ます 。
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 183: 大学 で 学生 に 教え て い た 経験 から <b>か</b> 人当たり も 柔らかく 実直 な 人物 で ある 。
+  * <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> 1: 私 の 13 年間 , 守谷 香 は 仮 に も 一時 的 に 夫婦 で あっ た 夫 で ある 私 を 働か せ 続け , すべて の お 金 を 奪い取り , 信じる 心 も 奪い取り , 何 も <b>か</b> も 嘘 で 固め た 人生 を 送らさ れ て き まし た 。
 * さ
-  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1118: 以上 の 操作 を 再帰的 に 繰り返す と 以下 の ような 決定 木 が 出力 <b>さ</b> れる 。
-  * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 98: 作中 で は 、 皇 一心 や 率いる 集団 の 社会階級 の 明確 な 描写 は <b>さ</b> れ て い ない 。
-  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 55: 大き <b>さ</b> が 全く 違う 海老 とか 調理 側 は 何故 平気 な ん だろ 。
-* よ
-  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 53: 朝 まで 飲み会 コース と いう の が あり 、 4 品 で 1500 円 くらい の よう です <b>よ</b> 。
-  * <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 1: 利用 し て みる と <b>よ</b> さ に 気 が 東京 で ブランド 物 を 売り たい な と 思っ て いる 方 は ぜひ 足 を 運ん で み て ください 。
-* -
-  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 49: いなべ市 藤原町 坂本 <b>-</b> 同 市 藤原町 下野尻 を 以下 の 路線バス が 通過 する 。
-  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 46: * 1902 年 <b>-</b> ドイツ 選手権 が スタート 。
-  * <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 28: 京成本線 町屋 駅 <b>-</b> 千住大橋 駅 の 間 に 存在 し て い た 。
+  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1086: 以上 の 操作 を 再帰 的 に 繰り返す と 以下 の よう な 決定 木 が 出力 <b>さ</b> れる 。
+  * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 98: その 保健 室 の 養護 教諭 が , 生徒 から バカ に <b>さ</b> れ て い た 様子 が うかがえ ます 。
+  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 89: 麺棒 は 直径 2 ~ 3 cm 、 長 <b>さ</b> 1 m 程度 の もの が 一般 的 と いう 。
+* など
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 445: 大正 期 から 、 ノンフィクション 、 推理 小説 <b>など</b> を 訳し た 。
+  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 78: ポール ・ ウェラー から セッション や オープニング アクト の オファー を 受ける <b>など</b> 、 高い 評価 を 得 て いる 。
+* たり
+  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 74: 相手 GK と 1 対 1 に なっ <b>たり</b> だ と か 、 完全 に フリー で シュート を 打つ と いう の も なかっ た 。
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 6: それ が 当たり前 、 普通 で あっ て 、 驚い たり 、 嫌 がっ <b>たり</b> し ない 。
+  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 2: 犯罪 が 行為 で なけれ ば なら ない と いう こと は 、 これ ら の もの は およそ 犯罪 <b>たり</b> 得 ない こと を 意味 する 。
+* ね
+  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 56: やはり 、 お すすめ は 焼き物 です <b>ね</b> 。
+  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 1: これ は やら <b>ね</b> ば 。
+* だけ
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 99: 富士通 は 、 産業 機械 <b>だけ</b> で なく 、 社会 インフラ や 物流 業 界 など に 対し て M2M サービス を 提供 する 。
+  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 35: おいしい と 聞い て た <b>だけ</b> に 姉 に は 申し訳 なく て ホント に 最悪 です
 * な
-  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 893: 多彩 <b>な</b> ライブアクト とともに 、 祝日 前 の 渋谷 の 夜 を 盛り上げ て くれ そうだ 。
-  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 26: 値段 も 普通 くらい か <b>な</b> 。
-  * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 3: 上級生 の 豊富 な 経験 と 下級生 の 高い 能力 が 融合 する こと で 、 もっと もっと 強い チーム に <b>な</b> れる 。
-* 翌
-  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 15: <b>翌</b> 12 日 より 五島 産業 汽船 が 同 航路 の 運航 を 開始 し た が 、 2006 年 4月 を もっ て 廃止 。
-  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1: 250 cc クラス 決勝 で は 、 <b>翌</b> シーズン から の MotoGP クラス 行き を 決め て いる 王者 ダニ ・ ペドロサ が ホルヘ ・ ロレンソ を 抑え 、 クラス 最後 の レース を シーズン 8 勝 目 で 締めくくっ た 。
-* 年
-  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 981: ここ 数 <b>年</b> , 統一 協会 の 関連会社 による 霊感商法 で 信者 の 逮捕 者 が 続出 し て い ます 。
-  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 13: 2007 年 12月 26 日 に 発売 さ れ た 2008 <b>年</b> 2 月号 で 休刊 。
-* ~
-  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 12: 亀井 代表 は 警察庁 出身 で 、 1969 <b>~</b> 70 年 に 県警 2 課長 を 務め た 。
-  * <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 12: 営業時間 は 朝 9 時 <b>~</b> 夜 7 時 まで みたい です が 、 人気 の ある パン は すぐ なくなっ て しまい ます 。
-  * <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> 4: なん だ よ なん だ よぉ <b>~</b> , わが 署 に 来 た の なら 教え て くれ よぉ <b>~</b> 。
-* 計
-  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 10: バス は 園児 19 人 と 運転手 、 幼稚園 の 職員 の <b>計</b> 21 人 が 乗車 し 、 幼稚園 に 向かう 途中 だっ た 。
-  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 5: 追加 は 今 冬 2 回 目 で 、 除雪 費 は <b>計</b> 約 4 億 3000 万 円 に 上る 。
+  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 972: 多彩 <b>な</b> ライブ アクト と とも に 、 祝日 前 の 渋谷 の 夜 を 盛り上げ て くれ そう だ 。
+  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 28: 値段 も 普通 くらい か <b>な</b> 。
+  * <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> 2: <b>な</b> の で 、 朝日 の 撮影 に は 、 実 は 隠れ た 名所 な ん です 。
+* まで
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 283: ほとんど は 浅海 生 だ が 、 水深 数百 m ほど の 深海 <b>まで</b> 生息 する もの も いる 。
+  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 24: 柔道 人生 は 終わる <b>まで</b> 安心 でき ない 。
+* ほど
+  * <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 43: ほとんど は 浅海 生 だ が 、 水深 数百 m <b>ほど</b> の 深海 まで 生息 する もの も いる 。
+  * <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 22: 1 週間 ほど 頭痛 と 肩こり が ひどく 、 吐き気 も する <b>ほど</b> だっ た の で 、 初めて 行っ て み まし た 。
+  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 2: これ まで 貨物 専門 と し て 君臨 し て い た 同社 だ が 、 この <b>ほど</b> 軍事 ・ 国際 旅客 チャーター 便 を 運航 する こと が 明らか と なっ た 。
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.033898 (the average of all parts of speech is 1.058496).
+The form / lemma ratio of `PART` is 1.111111 (the average of all parts of speech is 1.060594).
 
-The 1st highest number of forms (3) was observed with the lemma “か”: か, かどうか, か否か.
+The 1st highest number of forms (4) was observed with the lemma “がる”: がっ, がら, がり, がる.
 
-The 2nd highest number of forms (1) was observed with the lemma “+”: +.
+The 2nd highest number of forms (3) was observed with the lemma “っぽい”: っぽ, っぽい, っぽく.
 
-The 3rd highest number of forms (1) was observed with the lemma “-”: -.
+The 3rd highest number of forms (1) was observed with the lemma “か”: か.
 
 `PART` does not occur with any features.
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 2 different relations: <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (536; 54% instances), <tt><a href="ja_gsd-dep-compound.html">compound</a></tt> (462; 46% instances)
+`PART` nodes are attached to their parents using 2 different relations: <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (1254; 100% instances), <tt><a href="ja_gsd-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (470; 47% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (235; 24% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (136; 14% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (108; 11% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (27; 3% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (549; 44% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (529; 42% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (146; 12% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (14; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-998 (100%) `PART` nodes are leaves.
+1254 (100%) `PART` nodes are leaves.
 
-The highest child degree of a `PART` node is 0.
+0 (0%) `PART` nodes have one child.
+
+1 (0%) `PART` nodes have two children.
+
+The highest child degree of a `PART` node is 2.
+
+Children of `PART` nodes are attached using 2 different relations: <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (1; 50% instances), <tt><a href="ja_gsd-dep-case.html">case</a></tt> (1; 50% instances)
+
+Children of `PART` nodes belong to 2 different parts of speech: <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (1; 50% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (1; 50% instances)
 

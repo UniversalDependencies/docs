@@ -37,12 +37,12 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 8	fgColor:white
 # visual-style 8 6 discourse	color:blue
 1	Hani	hani	ADV	_	_	3	advmod	_	_
-2	sana	sen	PRON	_	Case=Dat|Number=Sing|Person=2	3	obl	_	_
+2	sana	sen	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
 3	göstermiştim	göster	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=1|Tense=Pqp|VerbForm=Fin	8	parataxis	_	_
 4	ya	ya	ADV	_	_	3	advmod:emph	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	_
 6	işte	işte	ADV	_	_	8	discourse	_	_
-7	o	o	DET	_	Definite=Def|Number=Sing	8	det	_	_
+7	o	o	DET	_	Definite=Def|PronType=Art	8	det	_	_
 8	elbise	elbise	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -57,7 +57,7 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 4 6 discourse	color:blue
 1	Telefon	telefon	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
 2	numaram	numara	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
-3	sizde	siz	PRON	_	Case=Loc|Number=Sing|Person=2	4	nmod	_	_
+3	sizde	siz	PRON	_	Case=Loc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 4	var	var	ADJ	_	_	0	root	_	_
 5	dır	i	AUX	_	Mood=Gen|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 6	herhalde	herhalde	ADV	_	_	4	discourse	_	SpaceAfter=No

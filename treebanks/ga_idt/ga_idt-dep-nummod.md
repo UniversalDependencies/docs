@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-508 nodes (1%) are attached to their parents as `nummod`.
+333 nodes (1%) are attached to their parents as `nummod`.
 
-325 instances of `nummod` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.97834645669291.
+312 instances of `nummod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10810810810811.
 
-The following 11 pairs of parts of speech are connected with `nummod`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (406; 80% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (39; 8% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (20; 4% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (19; 4% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (13; 3% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (308; 92% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (11; 3% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (9; 3% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,38 +34,37 @@ The following 11 pairs of parts of speech are connected with `nummod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod	color:blue
-1	(f)	(f)	NUM	Item	_	2	nummod	_	_
-2	Tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
-3	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
-4	a	a	PART	Nm	PartType=Num	2	mark:prt	_	_
-5	dó	dó	NUM	Num	NumType=Card	8	nummod	_	_
-6	dhéag	déag	NOUN	Subst	Form=Len|Number=Sing	5	compound	_	_
-7	a	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
-8	chlog	clog	NOUN	Noun	Form=Len|Gender=Masc|Number=Sing	2	obl:tmod	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 nummod	color:blue
+1	Chosain	cosain	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
+2	féile	féile	NOUN	Noun	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	bliana	bliain	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	_
+5	seo	seo	DET	Det	PronType=Dem	4	det	_	_
+6	c.	c.	ADV	Abr	_	1	advmod	_	_
+7	Euro	Euro	PROPN	Noun	Gender=Masc|Number=Sing	1	obj	_	_
+8	212,000	212,000	NUM	Num	_	7	nummod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 nummod	color:blue
-1	Duaisdhráma	Duaisdhráma	NOUN	Noun	Gender=Masc|Number=Sing	0	root	_	_
-2	ó	ó	ADP	Simp	_	3	case	_	_
-3	Oireachtas	oireachtas	PROPN	Noun	Form=Len|Gender=Masc|Number=Sing	1	nmod	_	_
-4	1955	1955	NUM	Num	_	3	nummod	_	_
-5	is	is	AUX	Cop	Tense=Pres|VerbForm=Cop	7	cop	_	_
-6	ea	ea	PRON	Pers	Number=Sing|Person=3	7	nmod	_	_
-7	Moloney	Moloney	NOUN	Noun	Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 3 6 nummod	color:blue
+1	Breathnaigh	breathnaigh	VERB	VTI	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	Punct	_	3	punct	_	_
+3	míle	míle	NUM	Num	NumType=Card	1	obj	_	_
+4	is	agus	CCONJ	Coord	_	6	cc	_	_
+5	a	a	PART	Nm	PartType=Num	6	mark:prt	_	_
+6	haon	aon	NUM	Num	Form=HPref|NumType=Card	3	nummod	_	SpaceAfter=No
+7	!	!	PUNCT	!	_	1	punct	_	_
 
 ~~~
 

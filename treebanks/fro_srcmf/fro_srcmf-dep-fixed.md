@@ -33,7 +33,7 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 9	cil	_	PRON	PROdem	PronType=Dem	2	amod	_	_
 10	non	_	ADV	ADVgen	_	8	fixed	_	_
 11	a	_	ADP	PRE	_	13	case	_	_
-12	qui	_	PRON	PROrel	PronType=Prs,Rel	13	mark	_	_
+12	qui	_	PRON	PROrel	PronType=Prs,Rel	13	nmod	_	_
 13	costé	_	NOUN	NOMcom	_	15	obl	_	_
 14	je	_	PRON	PROper	PronType=Prs	15	nsubj	_	_
 15	pendrai	_	VERB	VERcjg	VerbForm=Fin	9	acl	_	_
@@ -61,10 +61,10 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 12	lairai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 13	mie	_	ADV	ADVneg	Polarity=Neg	12	advmod	_	_
 14	Ou	_	CCONJ	CONcoo	_	16	cc	_	_
-15	soit	_	VERB	VERcjg	VerbForm=Fin	16	cop	_	_
+15	soit	_	AUX	VERcjg	VerbForm=Fin	16	cop	_	_
 16	savoir	_	NOUN	NOMcom	_	12	advcl	_	_
 17	ou	_	CCONJ	CONcoo	_	19	cc	_	_
-18	soit	_	VERB	VERcjg	VerbForm=Fin	19	cop	_	_
+18	soit	_	AUX	VERcjg	VerbForm=Fin	19	cop	_	_
 19	folie	_	NOUN	NOMcom	_	16	conj	_	_
 20	Ne	_	ADV	ADVneg	Polarity=Neg	21	advmod	_	_
 21	face	_	VERB	VERcjg	VerbForm=Fin	12	ccomp	_	_

@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (360; 100% of non-empty `Abbr`): <em>SIA, IKP, TV, AS, IMS, DUS, g., plkst., RNS, gs.</em>
-* `EMPTY` (58329): <em>valsts, laikā, gada, gadā, darba, gadu, piemēram, laiku, cilvēki, gadus</em>
+* `EMPTY` (58331): <em>valsts, laikā, gada, gadā, darba, gadu, piemēram, laiku, cilvēki, gadus</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (110) occur only with one value of `Abbr`.
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>sk.</em>
-* `EMPTY` (32866): <em>ir, var, varētu, nav, bija, nevar, teica, būs, notiek, sāka</em>
+* `EMPTY` (32861): <em>ir, var, varētu, nav, bija, nevar, teica, būs, notiek, sāka</em>
 
 ## Relations with Agreement in `Abbr`
 

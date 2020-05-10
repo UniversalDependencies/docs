@@ -48,18 +48,18 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 5	odolné	odolný	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	0	root	0:root	_
 6	a	a	CCONJ	J^-------------	_	7	cc	7:cc	LId=a-1
 7	trvanlivé	trvanlivý	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	5	conj	0:root|5:conj	SpaceAfter=No
-8	,	,	PUNCT	Z:-------------	_	11	punct	11:punct	_
-9	ale	ale	CCONJ	J^-------------	_	11	cc	11:cc	_
+8	,	,	PUNCT	Z:-------------	_	11	punct	3.1:punct	_
+9	ale	ale	CCONJ	J^-------------	_	11	cc	3.1:cc	_
 10	jen	jen	PART	TT-------------	_	11	advmod:emph	11:advmod:emph	LId=jen-1|LGloss=(pouze)
-11	tehdy	tehdy	ADV	Db-------------	PronType=Dem	5	conj	0:root|5:conj	SpaceAfter=No
+11	tehdy	tehdy	ADV	Db-------------	PronType=Dem	5	conj	3.1:advmod	SpaceAfter=No
 12	,	,	PUNCT	Z:-------------	_	16	punct	16:punct	_
 13	*	*	SYM	Xx-------------	Abbr=Yes	16	aux:pass	16:aux:pass	_
 14	-	-	PUNCT	Z:-------------	_	16	punct	16:punct	_
 15	li	li	PART	TT-------------	_	16	mark	16:mark	_
-16	osazeny	osazený	ADJ	VsTP---XX-AP---	Animacy=Inan|Aspect=Perf|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	11	orphan	11:orphan	LDeriv=osadit
+16	osazeny	osazený	ADJ	VsTP---XX-AP---	Animacy=Inan|Aspect=Perf|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	11	orphan	3.1:dep	LDeriv=osadit
 17	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	19	case	19:case	LId=na-1
 18	suché	suchý	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	19	amod	19:amod	_
-19	zdivo	zdivo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	16	obl	16:obl	SpaceAfter=No
+19	zdivo	zdivo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	16	obl	16:obl:na:acc	SpaceAfter=No
 20	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
 ~~~
@@ -72,21 +72,21 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 12	fgColor:white
 # visual-style 12 13 aux:pass	color:blue
 1	Tento	tento	DET	PDYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	2:det	_
-2	cíl	cíl	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	12	nsubj:pass	12:nsubj:pass	SpaceAfter=No
+2	cíl	cíl	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	12	nsubj:pass	12:nsubj:pass|14:nsubj:pass	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
 4	stanovený	stanovený	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	2	amod	2:amod	LDeriv=stanovit|LGloss=(určit)
 5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	6:case	LId=v-1
-6	roce	rok	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	4:obl	_
+6	roce	rok	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	4:obl:v:loc	_
 7	#	&cyear;	NUM	C=-------------	NumForm=Digit|NumType=Card	6	nummod	6:nummod	_
 8	#	&clabel;	NUM	C=-------------	NumForm=Digit|NumType=Card	9	nummod	9:nummod	_
-9	sjezdem	sjezd	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	4:obl	_
-10	strany	strana	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	9	nmod	9:nmod	SpaceAfter=No|LId=strana-2|LGloss=(politická)
+9	sjezdem	sjezd	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	4:obl:ins	_
+10	strany	strana	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	9	nmod	9:nmod:acc	SpaceAfter=No|LId=strana-2|LGloss=(politická)
 11	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
 12	měl	mít	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 13	být	být	AUX	Vf--------A----	Polarity=Pos|VerbForm=Inf	12	aux:pass	12:aux:pass	_
 14	splněn	splněný	ADJ	VsYS---XX-AP---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	12	xcomp	12:xcomp	LDeriv=splnit
 15	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	16	case	16:case	LId=v-1
-16	roce	rok	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	12	obl	12:obl	_
+16	roce	rok	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	12	obl	12:obl:v:loc	_
 17	#	&cyear;	NUM	C=-------------	NumForm=Digit|NumType=Card	16	nummod	16:nummod	_
 18	.	.	PUNCT	Z:-------------	_	12	punct	12:punct	_
 

@@ -9,81 +9,91 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-294 tokens (6%) have a non-empty value of `VerbForm`.
-138 types (8%) occur at least once with a non-empty value of `VerbForm`.
-132 lemmas (8%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 9 part-of-speech tags: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (161; 3% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (61; 1% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (40; 1% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (21; 0% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+448 tokens (7%) have a non-empty value of `VerbForm`.
+169 types (10%) occur at least once with a non-empty value of `VerbForm`.
+139 lemmas (9%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 12 part-of-speech tags: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (244; 4% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (109; 2% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (51; 1% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (28; 0% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-161 <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+244 <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> tokens (32% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (158; 98%), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (129; 80%), <tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (120; 75%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (91; 57%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (86; 53%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (83; 52%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (237; 97%), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (189; 77%), <tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (186; 76%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (141; 58%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (140; 57%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (125; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (24; 15% of non-empty `VerbForm`): <em>करे, कहले, धीरे, आइलें, करेले, कहेलें, खरीदिहें, ठहरे, बोले, रखीहें</em>
-* `Inf` (7; 4% of non-empty `VerbForm`): <em>कहना, किडनी, पढ़नी, पूछनी, सुनी</em>
-* `Part` (130; 81% of non-empty `VerbForm`): <em>बा, चाहीं, होखे, होई, होला, आईं, कइले, कतहीं, कहीं, जाए</em>
-* `EMPTY` (392): <em>हो, बा, भइल, ह, आइल, क, कइल, कहल, कर, ना</em>
+* `Conv` (1; 0% of non-empty `VerbForm`): करके
+* `Fin` (35; 14% of non-empty `VerbForm`): करे, कहले, धीरे, होले, आइलें, करी, करेले, कहेलें, खरीदिहें, ठहरे
+* `Inf` (13; 5% of non-empty `VerbForm`): कहना, किडनी, जनले, जाए, पढ़नी, पूछनी, बनवावे, मिले, सुनी, होखे
+* `Part` (195; 80% of non-empty `VerbForm`): चाहीं, बा, होखे, होई, होला, कइले, कतहीं, बतवले, आईं, जाले
+* `EMPTY` (523): हो, भइल, बा, आइल, ह, क, कहल, कर, कइल, लागल
 
 <table>
-  <tr><th>Paradigm <i>कर</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>किया</em></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td></td><td><em>करीं</em></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>करे</em></td><td></td></tr>
+  <tr><th>Paradigm <i>हो</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td>होखे</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>होखी</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td>होखी</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>होई</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>होई</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>होखे</td><td></td></tr>
 </table>
 
-`VerbForm` seems to be **lexical feature** of `VERB`. 98% lemmas (81) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `VERB`. 94% lemmas (93) occur only with one value of `VerbForm`.
 
 ### `AUX`
 
-61 <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> tokens (23% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+109 <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> tokens (31% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (61; 100%), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (55; 90%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (51; 84%), <tt><a href="bho_bhtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (35; 57%), <tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (33; 54%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (32; 52%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (31; 51%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (109; 100%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (97; 89%), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (77; 71%), <tt><a href="bho_bhtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (71; 65%), <tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (71; 65%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (59; 54%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (56; 51%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (5; 8% of non-empty `VerbForm`): <em>सके, बाड़ें, लगीहें</em>
-* `Inf` (1; 2% of non-empty `VerbForm`): <em>सकेनी</em>
-* `Part` (55; 90% of non-empty `VerbForm`): <em>रहे, जाई, रहीं, रही, सकेला, आईं, कहाई, चलीं, चाहीं, जसहीं</em>
-* `EMPTY` (200): <em>बा, गइल, रहल, जा, जाव, जात, बानी, जाला, रहुवे, लागल</em>
+* `Fin` (26; 24% of non-empty `VerbForm`): बा, रहे, सके, बाटे, बाड़न, जाई, जाव, पाई, बाड़ें, रहन
+* `Inf` (1; 1% of non-empty `VerbForm`): सकेनी
+* `Part` (82; 75% of non-empty `VerbForm`): रहे, जाई, रहीं, सकेला, रही, गइल, जाला, देले, रहल, रहलीं
+* `EMPTY` (246): बा, गइल, रहल, जा, जाव, जात, बानी, बाड़न, हो, सकेला
 
-`VerbForm` seems to be **lexical feature** of `AUX`. 100% lemmas (24) occur only with one value of `VerbForm`.
+<table>
+  <tr><th>Paradigm <i>सक</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td></td><td>सकता</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td>सकेला</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td>सकेनी</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>सके</td><td></td><td></td></tr>
+</table>
 
 ### `PRON`
 
-40 <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> tokens (17% of all `PRON` tokens) have a non-empty value of `VerbForm`.
+51 <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> tokens (15% of all `PRON` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `PRON` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (36; 90%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (34; 85%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (30; 75%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (28; 70%).
+The most frequent other feature values with which `PRON` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (51; 100%), <tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (51; 100%), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (46; 90%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (44; 86%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (39; 76%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (36; 71%).
 
 `PRON` tokens may have the following values of `VerbForm`:
 
-* `Conv` (2; 5% of non-empty `VerbForm`): <em>एकर</em>
-* `Fin` (2; 5% of non-empty `VerbForm`): <em>काहे</em>
-* `Part` (36; 90% of non-empty `VerbForm`): <em>ओकरा, एकरा, ईहे, काहे, उनुका, केकरा, जेकरा, मुक्का, हमरा</em>
-* `EMPTY` (190): <em>अपना, हमरा, हम, ऊ, आपन, हमनी, रउरा, काहे, हमार, केहूँ</em>
+* `Conv` (3; 6% of non-empty `VerbForm`): एकर
+* `Fin` (2; 4% of non-empty `VerbForm`): काहे
+* `Part` (46; 90% of non-empty `VerbForm`): ओकरा, एकरा, ईहे, काहे, जेकरा, हमरा, उनुका, केकरा, मुक्का
+* `EMPTY` (284): अपना, हमरा, हम, ऊ, हमनी, आपन, हमार, केहूँ, रउरा, बिना
 
 <table>
-  <tr><th>Paradigm <i>काह</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>काहे</em></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>काहे</em></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>काहे</em></td><td></td></tr>
+  <tr><th>Paradigm <i>काहे</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>काहे</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>काहे</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>काहे</td><td></td></tr>
 </table>
 
 ### `NOUN`
 
-21 <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
+28 <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18; 86%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24; 86%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
-* `Fin` (6; 29% of non-empty `VerbForm`): <em>पहिले, कहले, जनले, बिआहे</em>
-* `Part` (15; 71% of non-empty `VerbForm`): <em>दिसाईं, पहिले, आगे, कहनी, किडनी, चुनौती, जगाईं, बानी, महती, रंगे</em>
-* `EMPTY` (1339): <em>बिआह, लोग, रंग, कार्यक्रम, देश, साल, आजु, आदमी, आयोजन, जब</em>
+* `Fin` (6; 21% of non-empty `VerbForm`): पहिले, कहले, जनले, बिआहे
+* `Part` (22; 79% of non-empty `VerbForm`): दिसाईं, पहिले, किडनी, चुनौती, बानी, रंगे, अलगे, आगे, कहनी, जगाईं
+* `EMPTY` (1826): लोग, बिआह, जी, रंग, देश, जब, भाषा, आजु, आदमी, साल
 
-`VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (17) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (18) occur only with one value of `VerbForm`.
 
 ### `DET`
 
@@ -93,42 +103,76 @@ The most frequent other feature values with which `DET` and `VerbForm` co-occurr
 
 `DET` tokens may have the following values of `VerbForm`:
 
-* `Inf` (3; 50% of non-empty `VerbForm`): <em>जवना, कवना</em>
-* `Part` (3; 50% of non-empty `VerbForm`): <em>ओकरा, जेकरा, सभे</em>
-* `EMPTY` (250): <em>ई, एह, कवनो, ओह, जवना, अइसन, ओकर, कुछ, हर, जवन</em>
+* `Inf` (3; 50% of non-empty `VerbForm`): जवना, कवना
+* `Part` (3; 50% of non-empty `VerbForm`): ओकरा, जेकरा, सभे
+* `EMPTY` (347): ई, एह, कवनो, ओह, कुछ, अइसन, ओकर, जवन, जवना, हर
+
+### `ADP`
+
+2 <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `VerbForm`.
+
+The most frequent other feature values with which `ADP` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`ADP` tokens may have the following values of `VerbForm`:
+
+* `Inf` (1; 50% of non-empty `VerbForm`): पढ़े
+* `Part` (1; 50% of non-empty `VerbForm`): लगे
+* `EMPTY` (987): के, में, से, का, पर, खातिर, ले, वाला, तबे, अतने
+
+### `PART`
+
+2 <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `VerbForm`.
+
+The most frequent other feature values with which `PART` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 100%).
+
+`PART` tokens may have the following values of `VerbForm`:
+
+* `Part` (2; 100% of non-empty `VerbForm`): नइखे, नाहीं
+* `EMPTY` (190): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
 
 ### `PROPN`
 
-2 <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `VerbForm`.
+2 <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `PROPN` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (2; 100%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `PROPN` tokens may have the following values of `VerbForm`:
 
-* `Part` (2; 100% of non-empty `VerbForm`): <em>पाती</em>
-* `EMPTY` (350): <em>भोजपुरी, प्रियंका, सिंह, पाती, राय, चोपड़ा, जी, डा॰, दिल्ली, द्विवेदी</em>
+* `Part` (2; 100% of non-empty `VerbForm`): पाती
+* `EMPTY` (417): भोजपुरी, प्रियंका, सिंह, राय, जी, पाती, डॉ., पाण्डेय, चोपड़ा, डा॰
 
-### `ADP`
+### `ADJ`
 
-1 <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `VerbForm`.
+1 <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADP` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%).
 
-`ADP` tokens may have the following values of `VerbForm`:
+`ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (1; 100% of non-empty `VerbForm`): <em>लगे</em>
-* `EMPTY` (719): <em>के, में, से, का, पर, खातिर, ले, वाला, तबे, साथे</em>
+* `Part` (1; 100% of non-empty `VerbForm`): बचपनवाला
+* `EMPTY` (249): पूरा, बड़, सांस्कृतिक, तथाकथित, प, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
 
-### `PART`
+### `ADV`
 
-1 <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `VerbForm`.
+1 <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `PART` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
 
-`PART` tokens may have the following values of `VerbForm`:
+`ADV` tokens may have the following values of `VerbForm`:
 
-* `Part` (1; 100% of non-empty `VerbForm`): <em>नइखे</em>
-* `EMPTY` (131): <em>त, ना, नइखे, बहुते, ढेर, तनिको, बस, भर, सँ, सबसे</em>
+* `Part` (1; 100% of non-empty `VerbForm`): नाहिंए
+* `EMPTY` (31): जइसे, हिन्दी, गद्य, जल्दी, ललित, सभ्य, आजुओ, आनन्द, आसानी, जरूर
+
+### `NUM`
+
+1 <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `VerbForm`.
+
+The most frequent other feature values with which `NUM` and `VerbForm` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`NUM` tokens may have the following values of `VerbForm`:
+
+* `Part` (1; 100% of non-empty `VerbForm`): सन
+* `EMPTY` (148): एगो, एक, लोग, गो, दू, कुछ, दोसर, 5, अनकस, कलिग
 
 ### `SCONJ`
 
@@ -136,13 +180,13 @@ The most frequent other feature values with which `PART` and `VerbForm` co-occur
 
 `SCONJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (1; 100% of non-empty `VerbForm`): <em>तकले</em>
-* `EMPTY` (85): <em>कि, बाकि, लपकि, काहेंकि, कोच्चि, निकलि</em>
+* `Part` (1; 100% of non-empty `VerbForm`): तकले
+* `EMPTY` (117): कि, त, काहेंकि, निकलि, बाकि, लपकि, आँखि, कोच्चि, प्रवृत्ति
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="bho_bhtb-dep-acl.html">acl</a></tt>]--> PRON</tt> (7; 54%),
+<tt>VERB --[<tt><a href="bho_bhtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 75%),
 <tt>PROPN --[<tt><a href="bho_bhtb-dep-acl.html">acl</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>VERB --[<tt><a href="bho_bhtb-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="bho_bhtb-dep-conj.html">conj</a></tt>]--> SCONJ</tt> (1; 100%).

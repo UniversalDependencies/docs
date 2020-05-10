@@ -28,7 +28,7 @@ The following 30 pairs of parts of speech are connected with `csubj`: <tt><a hre
 3	lze	lze	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	zaznamenat	zaznamenat	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	3	csubj	3:csubj	_
 5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	6:case	LId=v-1
-6	podniku	podnik	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	3:obl	_
+6	podniku	podnik	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	3:obl:v:loc	_
 7	citelné	citelný	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	8	amod	8:amod	_
 8	změny	změna	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	4	obj	4:obj	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_

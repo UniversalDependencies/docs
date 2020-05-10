@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-2032 tokens (10%) have a non-empty value of `Tense`.
-1290 types (17%) occur at least once with a non-empty value of `Tense`.
-767 lemmas (15%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1775; 9% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (257; 1% instances).
+2034 tokens (11%) have a non-empty value of `Tense`.
+1292 types (17%) occur at least once with a non-empty value of `Tense`.
+768 lemmas (15%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1777; 9% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (257; 1% instances).
 
 ### `VERB`
 
-1775 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Tense`.
+1777 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1349; 76%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1349; 76%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1215; 68%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1172; 66%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1136; 64%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (966; 54%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (916; 52%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1349; 76%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1349; 76%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1217; 68%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1174; 66%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1136; 64%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (966; 54%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (916; 52%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (45; 3% of non-empty `Tense`): <em>придется, станет, повлияет, получит, Введут, войдет, выдадут, замедлят, исчезнут, клянутся</em>
 * `Past` (1080; 61% of non-empty `Tense`): <em>сказал, стало, заявил, стал, сказала, получили, принял, начал, стали, мог</em>
-* `Pres` (650; 37% of non-empty `Tense`): <em>является, может, говорит, могут, находится, имеет, нет, работает, составляет, являются</em>
+* `Pres` (652; 37% of non-empty `Tense`): <em>является, может, говорит, могут, находится, имеет, нет, работает, составляет, являются</em>
 * `EMPTY` (338): <em>можно, сделать, получить, привести, вернуться, найти, стать, надо, остановить, покинуть</em>
 
 <table>

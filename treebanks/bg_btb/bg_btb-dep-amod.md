@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11833 nodes (8%) are attached to their parents as `amod`.
+11835 nodes (8%) are attached to their parents as `amod`.
 
-11425 instances of `amod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.30068452632469.
+11426 instances of `amod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.30080270384453.
 
-The following 10 pairs of parts of speech are connected with `amod`: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (11512; 97% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (292; 2% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `amod`: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (11513; 97% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (292; 2% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,7 +58,7 @@ The following 10 pairs of parts of speech are connected with `amod`: <tt><a href
 4	сто	сто	NUM	Mc-pi	Definite=Ind|Number=Plur|NumType=Card	2	nmod	2:nmod:на	_
 5	от	от	ADP	R	_	6	case	6:case	_
 6	посевите	посев	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	2	nmod	2:nmod:от	_
-7	били	съм	VERB	Vxitcat-p-i	Aspect=Imp|Definite=Ind|Mood=Ind|Number=Plur|VerbForm=Part|Voice=Act	13	ccomp	13:ccomp	_
+7	били	съм	AUX	Vxitcat-p-i	Aspect=Imp|Definite=Ind|Mood=Ind|Number=Plur|VerbForm=Part|Voice=Act	13	ccomp	13:ccomp	_
 8	в	в	ADP	R	_	9	case	9:case	_
 9	процес	процес	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	7	iobj	7:iobj	_
 10	на	на	ADP	R	_	11	case	11:case	_

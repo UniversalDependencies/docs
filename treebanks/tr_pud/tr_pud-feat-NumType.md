@@ -23,7 +23,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 `NUM` tokens may have the following values of `NumType`:
 
 * `Ord` (116; 100% of non-empty `NumType`): <em>iki, ikinci, üçüncü, Birinci, İkinci, 5., 8., on, yedi, üç</em>
-* `EMPTY` (260): <em>iki, üç, bir, on, 10, altı, milyar, milyon, dört, 1</em>
+* `EMPTY` (260): <em>iki, bir, üç, on, 10, altı, milyar, milyon, dört, 1</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (60) occur only with one value of `NumType`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `AUX` and `NumType` co-occurre
 `AUX` tokens may have the following values of `NumType`:
 
 * `Ord` (3; 100% of non-empty `NumType`): <em>di</em>
-* `EMPTY` (537): <em>olarak, olan, dır, dir, değil, oldu, olduğunu, tir, ydı, olmak</em>
+* `EMPTY` (486): <em>olarak, olan, dır, dir, değil, oldu, ise, olduğunu, tir, ydı</em>
 
 ### `PROPN`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Ord` (2; 100% of non-empty `NumType`): <em>Di, On</em>
-* `EMPTY` (1524): <em>İngiliz, Çin, Alman, Amerika, ABD, Hong, Trump, Akdeniz, Avrupa, Avustralya</em>
+* `EMPTY` (1525): <em>İngiliz, Çin, Alman, Amerika, ABD, Hong, Trump, Akdeniz, Avrupa, Avustralya</em>
 
 ### `DET`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>kaç</em>
-* `EMPTY` (685): <em>bir, bu, her, diğer, birçok, bazı, tüm, o, birkaç, şu</em>
+* `EMPTY` (689): <em>bir, bu, her, diğer, birçok, bazı, tüm, o, birkaç, şu</em>
 
 ### `NOUN`
 
@@ -69,11 +69,11 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>6.000'den</em>
-* `EMPTY` (6378): <em>arasında, tarafından, yıl, şekilde, kuzey, yılında, ortaya, güney, yer, konusunda</em>
+* `EMPTY` (6363): <em>tarafından, arasında, yıl, şekilde, kuzey, yılında, ortaya, güney, yer, konusunda</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> NUM</tt> (6; 100%),
-<tt>NUM --[<tt><a href="tr_pud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (4; 80%).
+<tt>NUM --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> NUM</tt> (6; 86%),
+<tt>NUM --[<tt><a href="tr_pud-dep-flat.html">flat</a></tt>]--> NUM</tt> (3; 100%).
 

@@ -40,7 +40,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 8 7 det	color:blue
 1	Žinoma	žinoti	VERB	vksm.dlv.neveik.es.bev.	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	8	parataxis	8:parataxis	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	1:punct	_
-3	Lietuvoje	Lietuva	PROPN	dkt.tikr.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	8	obl	8:obl	_
+3	Lietuvoje	Lietuva	PROPN	dkt.tikr.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	8	obl	8:obl:loc	_
 4	šie	šis	DET	įv.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	5	det	5:det	_
 5	skaičiai	skaičius	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	8:nsubj	_
 6	nebūtų	nebūti	VERB	vksm.asm.neig.tar.dgs.3.	Mood=Cnd|Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin	8	csubj	8:csubj	_
@@ -61,7 +61,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 2	priklauso	priklausyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	tik	tik	PART	dll.	_	5	advmod:emph	5:advmod:emph	_
 4	nuo	nuo	ADP	prl.K.	AdpType=Prep|Case=Gen	5	case	5:case	_
-5	jūsų	tu	PRON	įv.dgs.K.	Case=Gen|Definite=Ind|Number=Plur|Person=2|PronType=Prs	2	obl:arg	2:obl:arg	_
+5	jūsų	tu	PRON	įv.dgs.K.	Case=Gen|Definite=Ind|Number=Plur|Person=2|PronType=Prs	2	obl:arg	2:obl:arg:nuo:gen	_
 6	paties	pats	DET	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Emp	5	det	5:det	SpaceAfter=No
 7	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
 

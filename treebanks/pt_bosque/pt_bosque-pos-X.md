@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-Bosque: POS Tags: `X`
 
-There are 132 `X` lemmas (1%), 132 `X` types (0%) and 161 `X` tokens (0%).
+There are 133 `X` lemmas (1%), 133 `X` types (0%) and 162 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 7 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>in, body, pole, position, dream, jet, art, center, computing, drag</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="pt_bosque-pos-X
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.413768).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.414227).
 
 The 1st highest number of forms (1) was observed with the lemma “Adventure”: <em>Adventure</em>.
 
@@ -69,17 +69,17 @@ The 3rd highest number of forms (1) was observed with the lemma “Burgos”: <e
 `X` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
 `X` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (130 tokens).
+The most frequent feature combination is `_` (131 tokens).
 Examples: <em>in, pole, position, body, art, center, computing, drag, dream, makers</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 16 different relations: <tt><a href="pt_bosque-dep-flat-foreign.html">flat:foreign</a></tt> (74; 46% instances), <tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt> (32; 20% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (11; 7% instances), <tt><a href="pt_bosque-dep-flat-name.html">flat:name</a></tt> (8; 5% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (8; 5% instances), <tt><a href="pt_bosque-dep-obj.html">obj</a></tt> (8; 5% instances), <tt><a href="pt_bosque-dep-appos.html">appos</a></tt> (4; 2% instances), <tt><a href="pt_bosque-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (3; 2% instances), <tt><a href="pt_bosque-dep-root.html">root</a></tt> (3; 2% instances), <tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="pt_bosque-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="pt_bosque-dep-iobj.html">iobj</a></tt> (1; 1% instances), <tt><a href="pt_bosque-dep-obl-agent.html">obl:agent</a></tt> (1; 1% instances), <tt><a href="pt_bosque-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 16 different relations: <tt><a href="pt_bosque-dep-flat-foreign.html">flat:foreign</a></tt> (74; 46% instances), <tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt> (32; 20% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (11; 7% instances), <tt><a href="pt_bosque-dep-flat-name.html">flat:name</a></tt> (8; 5% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (8; 5% instances), <tt><a href="pt_bosque-dep-obj.html">obj</a></tt> (8; 5% instances), <tt><a href="pt_bosque-dep-appos.html">appos</a></tt> (4; 2% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="pt_bosque-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="pt_bosque-dep-root.html">root</a></tt> (3; 2% instances), <tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="pt_bosque-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="pt_bosque-dep-iobj.html">iobj</a></tt> (1; 1% instances), <tt><a href="pt_bosque-dep-obl-agent.html">obl:agent</a></tt> (1; 1% instances), <tt><a href="pt_bosque-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="pt_bosque-pos-X.html">X</a></tt> (85; 53% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (40; 25% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (29; 18% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (3; 2% instances),  (3; 2% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="pt_bosque-pos-X.html">X</a></tt> (85; 52% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (40; 25% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (29; 18% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (3; 2% instances),  (3; 2% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 
-86 (53%) `X` nodes are leaves.
+87 (54%) `X` nodes are leaves.
 
 2 (1%) `X` nodes have one child.
 
@@ -89,7 +89,7 @@ Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="pt_bosq
 
 The highest child degree of a `X` node is 9.
 
-Children of `X` nodes are attached using 18 different relations: <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (119; 35% instances), <tt><a href="pt_bosque-dep-flat-foreign.html">flat:foreign</a></tt> (74; 22% instances), <tt><a href="pt_bosque-dep-case.html">case</a></tt> (40; 12% instances), <tt><a href="pt_bosque-dep-det.html">det</a></tt> (39; 12% instances), <tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt> (17; 5% instances), <tt><a href="pt_bosque-dep-amod.html">amod</a></tt> (11; 3% instances), <tt><a href="pt_bosque-dep-appos.html">appos</a></tt> (8; 2% instances), <tt><a href="pt_bosque-dep-flat-name.html">flat:name</a></tt> (8; 2% instances), <tt><a href="pt_bosque-dep-acl.html">acl</a></tt> (5; 1% instances), <tt><a href="pt_bosque-dep-nummod.html">nummod</a></tt> (4; 1% instances), <tt><a href="pt_bosque-dep-cc.html">cc</a></tt> (3; 1% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="pt_bosque-dep-acl-relcl.html">acl:relcl</a></tt> (2; 1% instances), <tt><a href="pt_bosque-dep-cop.html">cop</a></tt> (2; 1% instances), <tt><a href="pt_bosque-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 18 different relations: <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (120; 35% instances), <tt><a href="pt_bosque-dep-flat-foreign.html">flat:foreign</a></tt> (74; 22% instances), <tt><a href="pt_bosque-dep-case.html">case</a></tt> (40; 12% instances), <tt><a href="pt_bosque-dep-det.html">det</a></tt> (39; 11% instances), <tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt> (17; 5% instances), <tt><a href="pt_bosque-dep-amod.html">amod</a></tt> (11; 3% instances), <tt><a href="pt_bosque-dep-appos.html">appos</a></tt> (8; 2% instances), <tt><a href="pt_bosque-dep-flat-name.html">flat:name</a></tt> (8; 2% instances), <tt><a href="pt_bosque-dep-acl.html">acl</a></tt> (5; 1% instances), <tt><a href="pt_bosque-dep-nummod.html">nummod</a></tt> (4; 1% instances), <tt><a href="pt_bosque-dep-cc.html">cc</a></tt> (3; 1% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="pt_bosque-dep-acl-relcl.html">acl:relcl</a></tt> (2; 1% instances), <tt><a href="pt_bosque-dep-cop.html">cop</a></tt> (2; 1% instances), <tt><a href="pt_bosque-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Children of `X` nodes belong to 13 different parts of speech: <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (119; 35% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (85; 25% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (39; 12% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (38; 11% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (17; 5% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (11; 3% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (2; 1% instances)
+Children of `X` nodes belong to 13 different parts of speech: <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (120; 35% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (85; 25% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (39; 11% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (38; 11% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (17; 5% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (11; 3% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (2; 1% instances)
 

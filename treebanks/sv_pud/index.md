@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Bernadeta Griciūtė.
 
 Repository: [UD_Swedish-PUD](https://github.com/UniversalDependencies/UD_Swedish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 

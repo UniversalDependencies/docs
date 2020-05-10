@@ -23,16 +23,16 @@ The following 1 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 11	fgColor:white
 # visual-style 11 12 compound:prt	color:blue
 1	மேலும்	மேலும்	ADV	AA-------	_	11	advmod	11:advmod	Translit=mēlum|LTranslit=mēlum
-2	வடக்கு	வடக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod	Translit=vaṭakku|LTranslit=vaṭakku
+2	வடக்கு	வடக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod:nom	Translit=vaṭakku|LTranslit=vaṭakku
 3	மற்றும்	மற்றும்	CCONJ	CC-------	_	4	cc	4:cc	Translit=marrum|LTranslit=marrum
-4	கிழக்குப்	கிழக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	conj	2:conj|5:nmod	Translit=kilakkup|LTranslit=kilakku
-5	பகுதியில்	பகுதி	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	11	obl	11:obl	Translit=pakutiyil|LTranslit=pakuti
-6	தமிழர்களுக்க்	தமிழர்	PROPN	NED-3PA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Plur|Person=3	11	obl	11:obl	Translit=tamilarkaḷukk|LTranslit=tamilar
+4	கிழக்குப்	கிழக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	conj	2:conj|5:nmod:nom	Translit=kilakkup|LTranslit=kilakku
+5	பகுதியில்	பகுதி	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	11	obl	11:obl:loc	Translit=pakutiyil|LTranslit=pakuti
+6	தமிழர்களுக்க்	தமிழர்	PROPN	NED-3PA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Plur|Person=3	11	obl	11:obl:ஆகு:dat	Translit=tamilarkaḷukk|LTranslit=tamilar
 7	ஆக	ஆகு	ADP	PP-------	AdpType=Post	6	case	6:case	Translit=āka|LTranslit=āku
 8	50	50	NUM	U=-------	NumForm=Digit	9	nummod	9:nummod	Translit=50|LTranslit=50
 9	ஆயிரம்	ஆயிரம்	NUM	Ux-------	NumType=Card	10	nummod	10:nummod	Translit=āyiram|LTranslit=āyiram
 10	வீடுகளை	வீடு	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	11	obj	11:obj	Translit=vīṭukaḷai|LTranslit=vīṭu
-11	கட்டிக்	கட்டு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	16	advcl	16:advcl	Translit=kaṭṭik|LTranslit=kaṭṭu
+11	கட்டிக்	கட்டு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	16	advcl	16:advcl:ஆகு	Translit=kaṭṭik|LTranslit=kaṭṭu
 12	கொடுப்பத்	கொடு	PART	TzNF3SN-A	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Ger	11	compound:prt	11:compound:prt	Translit=koṭuppat|LTranslit=koṭu
 13	ஆகவ்	ஆகு	PART	Tg-------	_	11	mark	11:mark	Translit=ākav|LTranslit=āku
 14	உம்	உம்	PART	Tv-------	_	11	advmod:emph	11:advmod:emph	Translit=um|LTranslit=um

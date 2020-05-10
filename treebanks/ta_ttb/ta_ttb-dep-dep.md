@@ -22,27 +22,27 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 25	bgColor:blue
 # visual-style 25	fgColor:white
 # visual-style 25 24 dep	color:blue
-1	அவர்கள்	அவர்	PRON	RpN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3|PronType=Prs	26	obl	26:obl	Translit=avarkaḷ|LTranslit=avar
+1	அவர்கள்	அவர்	PRON	RpN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3|PronType=Prs	26	obl	26:obl:உடன்:nom	Translit=avarkaḷ|LTranslit=avar
 2	உடன்	உடன்	ADP	PP-------	AdpType=Post	1	case	1:case	Translit=uṭan|LTranslit=uṭan
 3	,	,	PUNCT	Z:-------	PunctType=Comm	26	punct	26:punct	Translit=,|LTranslit=,
-4	பஞ்சாப்	பஞ்சாப்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nmod	7:nmod	Translit=pañcāp|LTranslit=pañcāp
+4	பஞ்சாப்	பஞ்சாப்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nmod	7:nmod:nom	Translit=pañcāp|LTranslit=pañcāp
 5	மற்றும்	மற்றும்	CCONJ	CC-------	_	6	cc	6:cc	Translit=marrum|LTranslit=marrum
-6	ஜம்மு-காஷ்மீர்	ஜம்மு-காஷ்மீர்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	conj	4:conj|7:nmod	Translit=jammu-kāṣmīr|LTranslit=jammu-kāṣmīr
-7	சிறைகளில்	சிறை	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	11	nmod	11:nmod	Translit=ciraikaḷil|LTranslit=cirai
+6	ஜம்மு-காஷ்மீர்	ஜம்மு-காஷ்மீர்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	conj	4:conj|7:nmod:nom	Translit=jammu-kāṣmīr|LTranslit=jammu-kāṣmīr
+7	சிறைகளில்	சிறை	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	11	nmod	11:nmod:இரு:loc	Translit=ciraikaḷil|LTranslit=cirai
 8	இருந்து	இரு	ADP	PP-------	AdpType=Post	7	case	7:case	Translit=iruntu|LTranslit=iru
 9	தலா	தலா	ADJ	JJ-------	_	11	amod	11:amod	Translit=talā|LTranslit=talā
 10	7	7	NUM	U=-------	NumForm=Digit	11	nummod	11:nummod	Translit=7|LTranslit=7
 11	பேர்	பேர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	25	nsubj	25:nsubj	Translit=pēr|LTranslit=pēr
 12	உம்	உம்	PART	Tv-------	_	11	advmod:emph	11:advmod:emph	Translit=um|LTranslit=um
 13	,	,	PUNCT	Z:-------	PunctType=Comm	25	punct	25:punct	Translit=,|LTranslit=,
-14	ராஜஸ்தான்	ராஜஸ்தான்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	15	nmod	15:nmod	Translit=rājastān|LTranslit=rājastān
-15	சிறையில்	சிறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	17	nmod	17:nmod	Translit=ciraiyil|LTranslit=cirai
+14	ராஜஸ்தான்	ராஜஸ்தான்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	15	nmod	15:nmod:nom	Translit=rājastān|LTranslit=rājastān
+15	சிறையில்	சிறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	17	nmod	17:nmod:இரு:loc	Translit=ciraiyil|LTranslit=cirai
 16	இருந்து	இரு	ADP	PP-------	AdpType=Post	15	case	15:case	Translit=iruntu|LTranslit=iru
 17	ஒருவர்	ஒருவர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	25	nsubj	25:nsubj	Translit=oruvar|LTranslit=oruvar
 18	உம்	உம்	PART	Tv-------	_	17	advmod:emph	17:advmod:emph	Translit=um|LTranslit=um
 19	,	,	PUNCT	Z:-------	PunctType=Comm	25	punct	25:punct	Translit=,|LTranslit=,
-20	தில்லி	தில்லி	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	21	nmod	21:nmod	Translit=tilli|LTranslit=tilli
-21	சிறையில்	சிறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	24	nmod	24:nmod	Translit=ciraiyil|LTranslit=cirai
+20	தில்லி	தில்லி	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	21	nmod	21:nmod:nom	Translit=tilli|LTranslit=tilli
+21	சிறையில்	சிறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	24	nmod	24:nmod:இரு:loc	Translit=ciraiyil|LTranslit=cirai
 22	இருந்து	இரு	ADP	PP-------	AdpType=Post	21	case	21:case	Translit=iruntu|LTranslit=iru
 23	2	2	NUM	U=-------	NumForm=Digit	24	nummod	24:nummod	Translit=2|LTranslit=2
 24	பேர்	பேர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	25	dep	25:dep	Translit=pēr|LTranslit=pēr

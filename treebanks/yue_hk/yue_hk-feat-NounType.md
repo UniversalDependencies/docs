@@ -20,7 +20,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="yue_hk-pos-NOUN.htm
 
 `NOUN` tokens may have the following values of `NounType`:
 
-* `Clf` (473; 100% of non-empty `NounType`): <em>個, 啲, 蚊, 條, 位, 年, 次, 點, 份, 封</em>
+* `Clf` (473; 100% of non-empty `NounType`): 個、 啲、 蚊、 條、 位、 年、 次、 點、 份、 封
 
 `NounType` seems to be **lexical feature** of `NOUN`. 100% lemmas (47) occur only with one value of `NounType`.
 
@@ -30,7 +30,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="yue_hk-pos-NOUN.htm
 
 `PART` tokens may have the following values of `NounType`:
 
-* `Clf` (2; 100% of non-empty `NounType`): <em>個, 啲</em>
+* `Clf` (2; 100% of non-empty `NounType`): 個、 啲
 
 ### `DET`
 
@@ -38,7 +38,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="yue_hk-pos-NOUN.htm
 
 `DET` tokens may have the following values of `NounType`:
 
-* `Clf` (1; 100% of non-empty `NounType`): <em>依個</em>
+* `Clf` (1; 100% of non-empty `NounType`): 依個
 
 ## Relations with Agreement in `NounType`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1446 nodes (1%) are attached to their parents as `expl`.
+1445 nodes (1%) are attached to their parents as `expl`.
 
-1327 instances of `expl` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.80982019363762.
+1326 instances of `expl` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.80968858131488.
 
-The following 8 pairs of parts of speech are connected with `expl`: <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (1385; 96% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (31; 2% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (1391; 96% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (31; 2% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (6; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 1 expl	color:blue
 1	Nes	_	PRON	ADVneg.PROper	Polarity=Neg|PronType=Prs	3	expl	_	_
-2	poet	_	VERB	VERcjg	VerbForm=Fin	3	aux	_	_
+2	poet	_	AUX	VERcjg	VerbForm=Fin	3	aux	_	_
 3	guarder	_	VERB	VERinf	VerbForm=Inf	0	root	_	_
 4	que	_	SCONJ	CONsub	_	9	mark	_	_
 5	mals	_	ADP	PRE	_	9	nsubj	_	_
@@ -58,10 +58,10 @@ The following 8 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 1	fgColor:white
 # visual-style 1 3 expl	color:blue
 1	Issi	_	ADV	ADVgen	_	0	root	_	_
-2	poet	_	VERB	VERcjg	VerbForm=Fin	1	aux	_	_
+2	poet	_	AUX	VERcjg	VerbForm=Fin	1	aux	_	_
 3	il	_	PRON	PROper	PronType=Prs	1	expl	_	_
 4	ben	_	ADV	ADVgen	_	1	advmod	_	_
-5	estre	_	VERB	VERinf	VerbForm=Inf	1	cop	_	_
+5	estre	_	AUX	VERinf	VerbForm=Inf	1	cop	_	_
 
 ~~~
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (10081; 100% of non-empty `VerbForm`): يتم، يمكن، يكون، تصل، تكون، يجب، يصل، يقول، يذكر، تقوم
-* `EMPTY` (11219): قال، كان، أضاف، كانت، تم، أكد، أشار، أوضح، أعلن، قالت
+* `EMPTY` (11215): قال، كان، أضاف، كانت، تم، أكد، أشار، أوضح، أعلن، قالت
 
 `VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (1229) occur only with one value of `VerbForm`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Fin` (197; 100% of non-empty `VerbForm`): يكون، تكون، يكن، تكن، تكونون، كن، أكون، اكون، تعد، نكون
-* `EMPTY` (1968): س، قد، كان، سوف، ليس، ما، كانت، ليست، هل، إلا
+* `EMPTY` (1957): س، قد، كان، ليس، سوف، ما، كانت، ليست، هل، كانوا
 
 ## Relations with Agreement in `VerbForm`
 

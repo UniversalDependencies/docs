@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.000000 (the average of all parts of speech is 1.728014).
+The form / lemma ratio of `X` is 2.000000 (the average of all parts of speech is 1.727371).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>бир, дакика</em>.
 
@@ -30,8 +30,8 @@ The 1st highest number of forms (2) was observed with the lemma “_”: <em>б�
 `X` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `X` occurs with 2 feature combinations.
-The most frequent feature combination is `Foreign=Yes` (1 tokens).
-Examples: <em>дакика</em>
+The most frequent feature combination is `_` (1 tokens).
+Examples: <em>бир</em>
 
 
 ## Relations

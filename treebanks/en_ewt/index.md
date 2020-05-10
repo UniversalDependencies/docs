@@ -16,11 +16,11 @@ Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
-The following people have contributed to making this treebank part of UD: Natalia Silveira, Timothy Dozat, Christopher Manning, Sebastian Schuster, John Bauer, Miriam Connor, Marie-Catherine de Marneffe, Nathan Schneider, Sam Bowman, Hanzhi Zhu, Daniel Galbraith.
+The following people have contributed to making this treebank part of UD: Natalia Silveira, Timothy Dozat, Christopher Manning, Sebastian Schuster, Ethan Chi, John Bauer, Miriam Connor, Marie-Catherine de Marneffe, Nathan Schneider, Sam Bowman, Hanzhi Zhu, Daniel Galbraith.
 
 Repository: [UD_English-EWT](https://github.com/UniversalDependencies/UD_English-EWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 
@@ -71,6 +71,7 @@ Annotation of the Universal Dependencies English Web Treebank was carried out by
 - Miriam Connor
 - Marie-Catherine de Marneffe
 - Nathan Schneider
+- Ethan Chi
 - Samuel Bowman
 - Hanzhi Zhu
 - Daniel Galbraith
@@ -137,7 +138,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 </ul>
 
 <ul>
-<li>This corpus contains 78 lemmas tagged as pronouns (PRON): 's, anybody, anyone, anything, ever, everybody, everyone, everything, he, hers, herself, himself, i, is, it, it's, its, itself, mine, mines, my, myself, nobody, nothing, one, our, ours, ourselves, s, self, she, somebody, someone, something, that, the, thei, their, theirs, them, themselves, then, there, these, they, they're, theyy, this, those, thou, thy, u, ur, us, use, waht, we, what, whatever, which, who, who's, whoever, whom, whomever, whoooooo, whose, wtf, ya, ya'll, ye, yo, you, you're, your, yours, yourself, yourselves</li>
+<li>This corpus contains 77 lemmas tagged as pronouns (PRON): 's, anybody, anyone, anything, ever, everybody, everyone, everything, he, hers, herself, himself, i, is, it, it's, its, itself, mine, mines, my, myself, nobody, nothing, one, our, ours, ourselves, s, self, she, somebody, someone, something, that, the, thei, their, theirs, them, themselves, there, these, they, they're, theyy, this, those, thou, thy, u, ur, us, use, waht, we, what, whatever, which, who, who's, whoever, whom, whomever, whoooooo, whose, wtf, ya, ya'll, ye, yo, you, you're, your, yours, yourself, yourselves</li>
 </ul>
 
 <ul>
@@ -222,7 +223,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Neut
     <ul>
-      <li>PRON: it, its, itself, ti</li>
+      <li>PRON: it, its, itself, THERE, ti</li>
     </ul>
   </li>
 </ul>
@@ -247,7 +248,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: Global, Pakistani, criminal, female, middle</li>
+      <li>ADJ: Global, Pakistani, criminal, middle</li>
       <li>ADV: best</li>
       <li>AUX-Fin: is, was, has, 's, am, does, s, ’s, `s, ai</li>
       <li>DET: this, that</li>
@@ -366,6 +367,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
     <ul>
       <li>AUX-Fin: is, was, are, do, have, has, were, 's, am, 'm</li>
       <li>VERB-Fin: have, is, had, said, has, are, want, need, know, think</li>
+      <li>VERB-Part: ordered</li>
     </ul>
   </li>
 </ul>
@@ -426,7 +428,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: there, then, here, that</li>
+      <li>ADV: then, there, here, that</li>
       <li>DET: this, that, these, those</li>
       <li>PRON: this, that, those, these</li>
     </ul>
@@ -497,7 +499,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: my, your, their, his, our, its, her, whose, out, ur</li>
+      <li>PRON: my, your, their, his, our, its, her, whose, there, you</li>
     </ul>
   </li>
 </ul>
@@ -564,11 +566,11 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
           <li>CCONJ: n, 'n, VS</li>
           <li>DET: da, dat, sm</li>
           <li>INTJ: wel</li>
-          <li>NOUN: luv, b, c, DJ's, THX, UV, lovin', r., somethin, syd</li>
+          <li>NOUN: mins, luv, yrs, b, c, min, yr, DJ's, THX, UV</li>
           <li>PART: na, ta, 2, a</li>
           <li>PRON: u, ur, 'em, any1, em, wht</li>
           <li>PROPN: Phx</li>
-          <li>SCONJ: b/c, 4, bc, cos, coz, cus, ig, w/out</li>
+          <li>SCONJ: b/c, 4, bc, cos, coz, cus, ig, tho, w/out</li>
           <li>VERB-Fin: wan, c'm, hav</li>
           <li>VERB-Ger: playin</li>
           <li>VERB-Inf: hav, wan</li>
@@ -597,21 +599,21 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: accomodating, unic, Aweesome, Awsome, Chineese, Disatisfied, Hopless, Lovley, accomdating, brillant</li>
+          <li>ADJ: accomodating, rediculous, knowledgable, unic, Aweesome, Awsome, Chineese, Disatisfied, Hopless, Lovley</li>
           <li>ADP: then, a, and, of, the, aboout, abou, admidst, aground, amoung</li>
-          <li>ADV: to, definately, completly, truely, Consistantly, Definetely, REALY, Unfortunalty, a, absoulutely</li>
+          <li>ADV: to, definately, completly, realy, their, truely, Consistantly, Definetely, Unfortunalty, a</li>
           <li>AUX-Fin: ar, woud, ',, a, as, cold, hav, hvae, made, most</li>
           <li>CCONJ: an, adn, a, ad=nd, amd, ans, at, of</li>
           <li>DET: and, teh, aa, dthat, he, ssome, te, then, ther, whhich</li>
-          <li>NOUN: catagory, hamburguers, DJ's, Mechaincs, Sanwiches, Sstaff, Unlce, ammount, anywere, appartment</li>
+          <li>NOUN: catagory, hamburguers, resturant, DJ's, MYSTERYS, Mechaincs, Sanwiches, Sstaff, Unlce, advise</li>
           <li>PART: too, ot</li>
-          <li>PRON: the, out, It's, thier, ti, you</li>
+          <li>PRON: the, there, you, out, It's, it, then, thier, ti</li>
           <li>PROPN: Sear's, Bramen, Guiness, Hirsohima, Nagaski, Thanksgiv8ing</li>
-          <li>SCONJ: becuse, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse, then</li>
-          <li>VERB-Fin: new, reccomend, recieved, answetred, appologized, deliverd, fixeded, let's, orderd, preceded</li>
-          <li>VERB-Ger: ASWERING, EATTING, drive, drving</li>
-          <li>VERB-Inf: reccommend, recieve, recomend, accomodate, bare, critisize, endevour, hlep, ltake, purchace</li>
-          <li>VERB-Part: Rcommended, amplifiaed, botn, excepted, recomended</li>
+          <li>SCONJ: becuse, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse, sice</li>
+          <li>VERB-Fin: where, new, reccomend, recieved, answetred, appologized, aswered, deliverd, fixeded, let's</li>
+          <li>VERB-Ger: ASWERING, EATTING, drive, drving, hireing</li>
+          <li>VERB-Inf: reccommend, recieve, recomend, accomodate, bare, charger, critisize, endevour, had, here</li>
+          <li>VERB-Part: Rcommended, amplifiaed, botn, effected, excepted, ordered, recomended, use</li>
           <li>X: ect.</li>
         </ul>
       </li>
@@ -638,7 +640,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1998)</li>
+      <li>VERB-Fin--NOUN (2003)</li>
       <li>VERB-Fin--PRON (791)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
       <li>VERB-Fin--PRON-Nom (4748)</li>
@@ -646,14 +648,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON (22)</li>
       <li>VERB-Ger--PRON-Acc (7)</li>
       <li>VERB-Ger--PRON-Nom (186)</li>
-      <li>VERB-Inf--NOUN (658)</li>
+      <li>VERB-Inf--NOUN (660)</li>
       <li>VERB-Inf--PRON (288)</li>
       <li>VERB-Inf--PRON-Acc (37)</li>
-      <li>VERB-Inf--PRON-Nom (2615)</li>
+      <li>VERB-Inf--PRON-Nom (2612)</li>
       <li>VERB-Part--NOUN (458)</li>
       <li>VERB-Part--PRON (143)</li>
       <li>VERB-Part--PRON-Acc (4)</li>
-      <li>VERB-Part--PRON-Nom (1267)</li>
+      <li>VERB-Part--PRON-Nom (1268)</li>
     </ul>
   </li>
 </ul>
@@ -661,24 +663,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3500)</li>
+      <li>VERB-Fin--NOUN (3502)</li>
       <li>VERB-Fin--NOUN-ADP('s) (1)</li>
-      <li>VERB-Fin--PRON (340)</li>
+      <li>VERB-Fin--PRON (339)</li>
       <li>VERB-Fin--PRON-Acc (869)</li>
       <li>VERB-Fin--PRON-Nom (63)</li>
       <li>VERB-Ger--NOUN (1041)</li>
       <li>VERB-Ger--PRON (47)</li>
       <li>VERB-Ger--PRON-Acc (118)</li>
       <li>VERB-Ger--PRON-Nom (10)</li>
-      <li>VERB-Inf--NOUN (3194)</li>
+      <li>VERB-Inf--NOUN (3195)</li>
       <li>VERB-Inf--NOUN-ADP('s) (1)</li>
       <li>VERB-Inf--NOUN-ADP(of) (1)</li>
-      <li>VERB-Inf--PRON (324)</li>
-      <li>VERB-Inf--PRON-Acc (791)</li>
+      <li>VERB-Inf--PRON (323)</li>
+      <li>VERB-Inf--PRON-Acc (789)</li>
       <li>VERB-Inf--PRON-Nom (88)</li>
-      <li>VERB-Part--NOUN (770)</li>
+      <li>VERB-Part--NOUN (771)</li>
       <li>VERB-Part--PRON (123)</li>
-      <li>VERB-Part--PRON-Acc (92)</li>
+      <li>VERB-Part--PRON-Acc (93)</li>
       <li>VERB-Part--PRON-Nom (4)</li>
     </ul>
   </li>
@@ -688,7 +690,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN (17)</li>
-      <li>VERB-Fin--PRON (4)</li>
+      <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-Acc (173)</li>
       <li>VERB-Fin--PRON-Nom (5)</li>
       <li>VERB-Ger--NOUN (9)</li>

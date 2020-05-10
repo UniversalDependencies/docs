@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1084 nodes (3%) are attached to their parents as `cc`.
+1765 nodes (3%) are attached to their parents as `cc`.
 
-1081 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.82656826568266.
+1760 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.80963172804533.
 
-The following 15 pairs of parts of speech are connected with `cc`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (591; 55% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (261; 24% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (58; 5% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (44; 4% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (39; 4% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (28; 3% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (22; 2% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (11; 1% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (909; 52% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (462; 26% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (126; 7% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (90; 5% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (48; 3% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (44; 2% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (36; 2% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (21; 1% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (9; 1% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,18 +52,23 @@ The following 15 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 cc	color:blue
-1	É	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	0	root	_	_
-2	liath	liath	ADJ	Adj	Degree=Pos	1	amod	_	_
-3	nó	nó	CCONJ	Coord	_	4	cc	_	_
-4	bán	bán	ADJ	Adj	Degree=Pos	2	conj	_	_
-5	nó	nó	CCONJ	Coord	_	6	cc	_	_
-6	donn	donn	ADJ	Adj	Degree=Pos	2	conj	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 cc	color:blue
+1	Thuig	tuig	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
+2	Mary	Mary	PROPN	Noun	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	Harney	Harney	PROPN	Noun	Gender=Masc|Number=Sing	2	flat:name	_	_
+4	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	1	obj	_	_
+5	seo	seo	PRON	Dem	PronType=Dem	2	det	_	_
+6	go	go	PART	Ad	PartType=Ad	7	mark:prt	_	_
+7	breá	breá	ADJ	Adj	Degree=Pos	1	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	9	punct	_	_
+9	agus	agus	CCONJ	Coord	_	10	cc	_	_
+10	Charlie	Charlie	PROPN	Noun	Gender=Masc|Number=Sing	2	conj	_	_
+11	McCreevy	McCreevy	PROPN	Noun	Gender=Masc|Number=Sing	10	flat:name	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

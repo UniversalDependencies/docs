@@ -25,10 +25,10 @@ The following 97 pairs of parts of speech are connected with `conj`: <tt><a href
 1	Poslouchal	poslouchat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 2	a	a	CCONJ	J^-------------	_	5	cc	5:cc	_
 3	tváře	tvář	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	5	nsubj	5:nsubj	_
-4	mu	on	PRON	PHMS3--3-------	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	5	obl	5:obl	_
+4	mu	on	PRON	PHMS3--3-------	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	5	obl	5:obl:dat	_
 5	svítily	svítit	VERB	VpFP----R-AA---	Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	0:root|1:conj	_
 6	obdivným	obdivný	ADJ	AANS7----1A----	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	7	amod	7:amod	_
-7	nadšením	nadšení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	5:obl	SpaceAfter=No
+7	nadšením	nadšení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	5:obl:ins	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_

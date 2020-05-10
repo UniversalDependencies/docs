@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-10623 tokens (11%) have a non-empty value of `Definite`.
-5347 types (29%) occur at least once with a non-empty value of `Definite`.
-2253 lemmas (24%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10556; 11% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (61; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (6; 0% instances).
+10611 tokens (11%) have a non-empty value of `Definite`.
+5341 types (29%) occur at least once with a non-empty value of `Definite`.
+2251 lemmas (24%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 3 part-of-speech tags: <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10544; 11% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (61; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (6; 0% instances).
 
 ### `ADJ`
 
-10556 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Definite`.
+10544 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10127; 96%), <tt><a href="sr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (9461; 90%), <tt><a href="sr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9461; 90%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7183; 68%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10115; 96%), <tt><a href="sr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (9450; 90%), <tt><a href="sr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9450; 90%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7173; 68%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Def` (9882; 94% of non-empty `Definite`): <em>novi, prošle, inostranih, srpske, bivši, novog, političke, nove, evropske, glavni</em>
+* `Def` (9870; 94% of non-empty `Definite`): <em>novi, prošle, inostranih, srpske, bivši, novog, političke, nove, evropske, glavni</em>
 * `Ind` (674; 6% of non-empty `Definite`): <em>važan, održan, dobar, poznat, otvoren, čitav, postignut, sam, završen, zadužen</em>
-* `EMPTY` (295): <em>drugi, druge, drugim, drugih, druga, 2008., drugo, 2006., tzv., 2004</em>
+* `EMPTY` (293): <em>drugi, druge, drugim, drugih, druga, 2008., drugo, 2006., tzv., 2004</em>
 
 <table>
   <tr><th>Paradigm <i>nov</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -83,7 +83,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (60; 98% of non-empty `Definite`): <em>sve, svim, svih, svi, mnogi, sva, Nijedna, jednoj, mom, nekih</em>
 * `Ind` (1; 2% of non-empty `Definite`): <em>Sam</em>
-* `EMPTY` (3605): <em>koji, to, koje, koja, svoje, ove, toga, nekoliko, koju, taj</em>
+* `EMPTY` (3604): <em>koji, to, koje, koja, svoje, ove, toga, nekoliko, koju, taj</em>
 
 <table>
   <tr><th>Paradigm <i>sam</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -108,7 +108,7 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 * `Def` (3; 50% of non-empty `Definite`): <em>drugoj, dve, jednoj</em>
 * `Ind` (3; 50% of non-empty `Definite`): <em>druga, jedan</em>
-* `EMPTY` (2073): <em>jedan, tri, dve, dva, prvi, pet, četiri, 20, jedna, deset</em>
+* `EMPTY` (2080): <em>jedan, tri, dve, dva, prvi, pet, četiri, 20, jedna, deset</em>
 
 <table>
   <tr><th>Paradigm <i>jedan</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>

@@ -88,7 +88,7 @@ Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="sk
 
 The highest child degree of a `CCONJ` node is 3.
 
-Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="sk_snk-dep-fixed.html">fixed</a></tt> (49; 78% instances), <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (7; 11% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (6; 10% instances), <tt><a href="sk_snk-dep-acl.html">acl</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="sk_snk-dep-fixed.html">fixed</a></tt> (49; 78% instances), <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (7; 11% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (6; 10% instances), <tt><a href="sk_snk-dep-acl-relcl.html">acl:relcl</a></tt> (1; 2% instances)
 
 Children of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (45; 71% instances), <tt><a href="sk_snk-pos-PUNCT.html">PUNCT</a></tt> (7; 11% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (4; 6% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

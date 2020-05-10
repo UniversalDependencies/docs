@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `VERB`
 
-There are 980 `VERB` lemmas (14%), 2532 `VERB` types (26%) and 5904 `VERB` tokens (8%).
+There are 979 `VERB` lemmas (14%), 2532 `VERB` types (26%) and 5904 `VERB` tokens (8%).
 Out of 17 observed tags, the rank of `VERB` is: 4 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: <em>devoir, avoir, pouvoir, faire, voir, présenter, mettre, recevoir, utiliser, être</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="fr_sequoia-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.583673 (the average of all parts of speech is 1.401419).
+The form / lemma ratio of `VERB` is 2.586313 (the average of all parts of speech is 1.404382).
 
 The 1st highest number of forms (21) was observed with the lemma “devoir”: <em>devaient, devait, devant, devez, devoir, devons, devra, devraient, devrais, devrait, devrez, devriez, devrions, devrons, devront, dois, doit, doivent, du, dues, dû</em>.
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>If, You, Buck, Knuck</em>
-* `EMPTY` (102): <em>the, of, North, Association, My, News, Really, Uber, lerin, 'da</em>
+* `EMPTY` (101): <em>the, of, North, Association, My, News, Really, Uber, lerin, 'da</em>
 
 ## Relations with Agreement in `Foreign`
 

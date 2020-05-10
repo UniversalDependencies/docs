@@ -43,19 +43,19 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 10 csubj:pass	color:blue
 1	"	"	PUNCT	Z:-------------	_	5	punct	5:punct	SpaceAfter=No
-2	Tomu	ten	DET	PDMS3----------	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	5	obj	5:obj	_
+2	Tomu	ten	DET	PDMS3----------	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	5	obl:arg	5:obl:arg:dat	_
 3	druhému	druhý	ADJ	CrMS3----------	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord	2	amod	2:amod	_
 4	bylo	být	AUX	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	aux:pass	5:aux:pass	_
 5	souzeno	souzený	ADJ	VsNS------AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 6	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
 7	že	že	SCONJ	J,-------------	_	10	mark	10:mark	_
 8	ten	ten	DET	PDIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	9	det	9:det	_
-9	den	den	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	10	obl	10:obl	_
+9	den	den	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	10	obl	10:obl:acc	_
 10	najde	najít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	csubj:pass	5:csubj:pass	_
 11	peněženku	peněženka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	10	obj	10:obj	_
 12	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	14	case	14:case	_
-13	tisíci	tisíc	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	14	nmod	14:nmod	_
-14	dináry	dinár	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	11	nmod	11:nmod	SpaceAfter=No
+13	tisíci	tisíc	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	14	nmod	14:nmod:ins	_
+14	dináry	dinár	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	11	nmod	11:nmod:s:ins	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
 ~~~
@@ -69,7 +69,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 5 13 csubj:pass	color:blue
 1	Tady	tady	ADV	Db-------------	PronType=Dem	5	advmod	5:advmod	_
 2	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	3	case	3:case	_
-3	vesnici	vesnice	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	5	obl	5:obl	_
+3	vesnici	vesnice	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	5	obl	5:obl:v:loc	_
 4	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	5:expl:pass	_
 5	říká	říkat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 6	,	,	PUNCT	Z:-------------	_	13	punct	13:punct	_
@@ -85,7 +85,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 16	je	on	PRON	PPIP4--3-------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obj	17:obj	_
 17	zkoušejí	zkoušet	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	5:csubj:pass|13:conj	_
 18	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	19	case	19:case	_
-19	dobrovolnících	dobrovolník	NOUN	NNMP6-----A----	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	17	obl	17:obl	SpaceAfter=No
+19	dobrovolnících	dobrovolník	NOUN	NNMP6-----A----	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	17	obl	17:obl:na:loc	SpaceAfter=No
 20	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	SpaceAfter=No
 21	"	"	PUNCT	Z:-------------	_	5	punct	5:punct	_
 

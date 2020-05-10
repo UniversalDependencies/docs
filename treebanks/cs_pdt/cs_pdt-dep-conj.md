@@ -26,8 +26,8 @@ The following 129 pairs of parts of speech are connected with `conj`: <tt><a hre
 2	-	-	PUNCT	Z:-------------	_	3	punct	3:punct	_
 3	typ	typ	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	1	conj	0:root|1:conj	SpaceAfter=No
 4	:	:	PUNCT	Z:-------------	_	5	punct	5:punct	_
-5	PANASONIC	Panasonic	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com,Pro|Number=Sing|Polarity=Pos	3	nmod	3:nmod	_
-6	PANAFAX	Panafax	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Pro|Number=Sing|Polarity=Pos	5	nmod	5:nmod	_
+5	PANASONIC	Panasonic	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com,Pro|Number=Sing|Polarity=Pos	3	nmod	3:nmod:nom	_
+6	PANAFAX	Panafax	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Pro|Number=Sing|Polarity=Pos	5	nmod	5:nmod:nom	_
 7	UF	UF	PROPN	NNXXX-----A---8	Abbr=Yes|NameType=Pro|Polarity=Pos	6	nmod	6:nmod	SpaceAfter=No|LId=UF-98
 8	-	-	PUNCT	Z:-------------	_	9	punct	9:punct	SpaceAfter=No
 9	311	311	NUM	C=-------------	NumForm=Digit|NumType=Card	7	nummod	7:nummod	_

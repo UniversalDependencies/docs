@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-89 nodes (2%) are attached to their parents as `mark`.
+122 nodes (2%) are attached to their parents as `mark`.
 
-65 instances of `mark` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.50561797752809.
+92 instances of `mark` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.55737704918033.
 
-The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (51; 57% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (13; 15% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (8; 9% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (5; 6% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `mark`: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (75; 61% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (16; 13% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (11; 9% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (5; 4% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 5 mark	color:blue
-1	जसहीं	जसह	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	4	acl	_	_
+1	जसहीं	जसह	NOUN	N_NST	_	4	acl	_	_
 2	जगह	जगह	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obl	_	_
 3	पर	पर	ADP	PSP	AdpType=Post	2	case	_	_
 4	छुआइल	छुआइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
@@ -52,7 +52,7 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 4	के	के	ADP	PSP	AdpType=Post	3	mark	_	_
 5	के	को	ADP	PSP	AdpType=Post	3	mark	_	_
 6	नौकरी	नौकरी	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	compound	_	_
-7	काहे	काह	PRON	PR_PRQ	_	8	acl	_	_
+7	काहे	काहे	PRON	PR_PRQ	_	8	acl	_	_
 8	करे	कर	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	10	advcl	_	_
 9	के	कर	ADP	PSP	AdpType=Post|Gender=Masc|Number=Plur|Person=3	8	mark	_	_
 10	बा	बा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	_

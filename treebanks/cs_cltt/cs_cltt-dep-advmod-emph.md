@@ -69,7 +69,7 @@ The following 14 pairs of parts of speech are connected with `advmod:emph`: <tt>
 8	,	,	PUNCT	Z:-------------	_	11	punct	_	_
 9	které	který	DET	P4FP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	11	nsubj	_	_
 10	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
-11	předmětem	předmět	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	7	acl	_	_
+11	předmětem	předmět	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	7	acl:relcl	_	_
 12	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	11	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	11	punct	_	_
 14	(	(	PUNCT	Z:-------------	_	11	punct	_	SpaceAfter=No

@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “Maynila”: <
 `PROPN` occurs with 2 feature-value pairs: `Gender=Fem`, `Number=Sing`
 
 `PROPN` occurs with 3 feature combinations.
-The most frequent feature combination is `Number=Sing` (1 tokens).
-Examples: <em>Juan, Linda</em>
+The most frequent feature combination is `_` (1 tokens).
+Examples: <em>Maynila</em>
 
 
 ## Relations

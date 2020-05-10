@@ -6,20 +6,20 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-PUD: POS Tags: `ADP`
 
-There are 39 `ADP` lemmas (1%), 35 `ADP` types (0%) and 701 `ADP` tokens (4%).
+There are 37 `ADP` lemmas (1%), 34 `ADP` types (0%) and 695 `ADP` tokens (4%).
 Out of 16 observed tags, the rank of `ADP` is: 8 in number of lemmas, 10 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>ki, için, ile, gibi, kadar, sonra, birlikte, göre, ardından, karşı</em>
 
 The 10 most frequent `ADP` types:  <em>ki, için, ile, gibi, kadar, sonra, birlikte, ardından, göre, karşı</em>
 
-The 10 most frequent ambiguous lemmas: <em>ki</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 185, <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> 10), <em>ile</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 55, <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt> 17), <em>sonra</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 33, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 13), <em>birlikte</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 25, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 3), <em>göre</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 19, <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> 2), <em>ardından</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 18, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 6), <em>karşı</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 17, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 1), <em>önce</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 16, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 6), <em>ait</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 8, <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>_</em> (<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 135, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 87, <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> 68, <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> 63, <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 29, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 26, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> 12, <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="tr_pud-pos-X.html">X</a></tt> 6, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 5, <tt><a href="tr_pud-pos-SYM.html">SYM</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>ki</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 180, <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> 10), <em>ile</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 55, <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt> 17), <em>sonra</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 33, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 13), <em>birlikte</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 25, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 3), <em>göre</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 19, <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> 2), <em>ardından</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 18, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 6), <em>karşı</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 17, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 1), <em>önce</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 16, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 6), <em>ait</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 8, <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>_</em> (<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 135, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 87, <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> 68, <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> 63, <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 29, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 26, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> 13, <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="tr_pud-pos-X.html">X</a></tt> 6, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 5, <tt><a href="tr_pud-pos-SYM.html">SYM</a></tt> 4, <tt><a href="tr_pud-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 192, <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> 10), <em>ile</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 55, <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt> 17), <em>kadar</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 35, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>sonra</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 33, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 7), <em>birlikte</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 25, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 3), <em>ardından</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 20, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 2), <em>göre</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 19, <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> 2), <em>karşı</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 17, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 1), <em>önce</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 16, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>ait</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 8, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 187, <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> 10), <em>ile</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 55, <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt> 17), <em>kadar</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 35, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>sonra</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 33, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 7), <em>birlikte</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 25, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 3), <em>ardından</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 20, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 2), <em>göre</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 19, <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> 2), <em>karşı</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 17, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 1), <em>önce</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 15, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 3), <em>ait</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 8, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 1)
 
 
 * <em>ki</em>
-  * <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 192: <em>Aynı zamanda 2 yaşında <b>ki</b> kızını öldürmeye teşebbüsten suçlanıyordu .</em>
+  * <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 187: <em>Aynı zamanda 2 yaşında <b>ki</b> kızını öldürmeye teşebbüsten suçlanıyordu .</em>
   * <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> 10: <em>Sinema o kadar değişti <b>ki</b> ; Hollywood aile izleyicisini kendinden uzaklaştırdı .</em>
 * <em>ile</em>
   * <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 55: <em>Woods <b>ile</b> yazışarak , bir etimoloji ortaya çıkarmaya çalıştım .</em>
@@ -45,9 +45,8 @@ The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="tr_pud-pos-ADP.
   * <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 3: <em>Bu bölüm şimdi yeni zorluklarla <b>karşı</b> karşıya .</em>
   * <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 1: <em>Buna <b>karşı</b> gelmek zorunda sın ve birinin etrafımda koşmasından sa üzerime koşmasını tercih ederim .</em>
 * <em>önce</em>
-  * <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 16: <em>Güney Amerika'nın batı ucu , And Dağları oluşmadan <b>önce</b> birçok orojeneze ev sahipliği etmiştir .</em>
+  * <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 15: <em>Güney Amerika'nın batı ucu , And Dağları oluşmadan <b>önce</b> birçok orojeneze ev sahipliği etmiştir .</em>
   * <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 3: <em>Shenzhen trafik polisi daha <b>önce</b> alışılmamış cezalara başvurmuş .</em>
-  * <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>1610'da yayınlanan Jin Ping Mei , daha <b>önce</b> ki materyalleri içeriyor olmasına rağmen , bağımsız kompozisyon eğilimine ve psikoloji ile ilgili endişeye işaret ediyor .</em>
 * <em>ait</em>
   * <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 8: <em>Bunlardan biri Aziz Peter ve Paul manastır kilisesine <b>ait</b> eski manastır dır .</em>
   * <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 2: <em>Kapsamı , bilinen birçok kazı alanına sahip , zamanın en yaygın kültürlerine <b>ait</b> tir .</em>
@@ -55,40 +54,40 @@ The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="tr_pud-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.897436 (the average of all parts of speech is 1.500000).
+The form / lemma ratio of `ADP` is 0.918919 (the average of all parts of speech is 1.503294).
 
-The 1st highest number of forms (1) was observed with the lemma “_”: <em>ki</em>.
+The 1st highest number of forms (2) was observed with the lemma “önce”: <em>önce, önceki</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “ad”: <em>adına</em>.
+The 2nd highest number of forms (1) was observed with the lemma “_”: <em>ki</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “ait”: <em>ait</em>.
+The 3rd highest number of forms (1) was observed with the lemma “ad”: <em>adına</em>.
 
-`ADP` occurs with 8 features: <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt> (24; 3% instances), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt> (24; 3% instances), <tt><a href="tr_pud-feat-Number.html">Number</a></tt> (15; 2% instances), <tt><a href="tr_pud-feat-Case.html">Case</a></tt> (5; 1% instances), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt> (1; 0% instances), <tt><a href="tr_pud-feat-Mood.html">Mood</a></tt> (1; 0% instances), <tt><a href="tr_pud-feat-Person.html">Person</a></tt> (1; 0% instances), <tt><a href="tr_pud-feat-Tense.html">Tense</a></tt> (1; 0% instances)
+`ADP` occurs with 8 features: <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt> (23; 3% instances), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt> (23; 3% instances), <tt><a href="tr_pud-feat-Number.html">Number</a></tt> (17; 2% instances), <tt><a href="tr_pud-feat-Case.html">Case</a></tt> (4; 1% instances), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt> (1; 0% instances), <tt><a href="tr_pud-feat-Mood.html">Mood</a></tt> (1; 0% instances), <tt><a href="tr_pud-feat-Person.html">Person</a></tt> (1; 0% instances), <tt><a href="tr_pud-feat-Tense.html">Tense</a></tt> (1; 0% instances)
 
-`ADP` occurs with 10 feature-value pairs: `Aspect=Perf`, `Case=Abl`, `Case=Dat`, `Case=Loc`, `Mood=Gen`, `Number=Sing`, `Number[psor]=Sing`, `Person=3`, `Person[psor]=3`, `Tense=Pres`
+`ADP` occurs with 9 feature-value pairs: `Aspect=Perf`, `Case=Abl`, `Case=Dat`, `Mood=Gen`, `Number=Sing`, `Number[psor]=Sing`, `Person=3`, `Person[psor]=3`, `Tense=Pres`
 
-`ADP` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (663 tokens).
+`ADP` occurs with 6 feature combinations.
+The most frequent feature combination is `_` (656 tokens).
 Examples: <em>ki, için, ile, gibi, kadar, sonra, birlikte, göre, ardından, karşı</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="tr_pud-dep-case.html">case</a></tt> (683; 97% instances), <tt><a href="tr_pud-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="tr_pud-dep-root.html">root</a></tt> (5; 1% instances), <tt><a href="tr_pud-dep-amod.html">amod</a></tt> (4; 1% instances), <tt><a href="tr_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="tr_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="tr_pud-dep-obj.html">obj</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="tr_pud-dep-case.html">case</a></tt> (684; 98% instances), <tt><a href="tr_pud-dep-amod.html">amod</a></tt> (4; 1% instances), <tt><a href="tr_pud-dep-root.html">root</a></tt> (4; 1% instances), <tt><a href="tr_pud-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="tr_pud-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (530; 76% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (97; 14% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (32; 5% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (13; 2% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (5; 1% instances),  (5; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (524; 75% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (99; 14% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (32; 5% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (14; 2% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (4; 1% instances),  (4; 1% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
-687 (98%) `ADP` nodes are leaves.
+684 (98%) `ADP` nodes are leaves.
 
-5 (1%) `ADP` nodes have one child.
+2 (0%) `ADP` nodes have one child.
 
 3 (0%) `ADP` nodes have two children.
 
 6 (1%) `ADP` nodes have three or more children.
 
-The highest child degree of a `ADP` node is 6.
+The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes are attached using 12 different relations: <tt><a href="tr_pud-dep-obj.html">obj</a></tt> (7; 20% instances), <tt><a href="tr_pud-dep-case.html">case</a></tt> (5; 14% instances), <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (5; 14% instances), <tt><a href="tr_pud-dep-cop.html">cop</a></tt> (4; 11% instances), <tt><a href="tr_pud-dep-nsubj.html">nsubj</a></tt> (4; 11% instances), <tt><a href="tr_pud-dep-advmod.html">advmod</a></tt> (3; 9% instances), <tt><a href="tr_pud-dep-nmod.html">nmod</a></tt> (2; 6% instances), <tt><a href="tr_pud-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="tr_pud-dep-ccomp.html">ccomp</a></tt> (1; 3% instances), <tt><a href="tr_pud-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="tr_pud-dep-obl.html">obl</a></tt> (1; 3% instances), <tt><a href="tr_pud-dep-parataxis.html">parataxis</a></tt> (1; 3% instances)
+Children of `ADP` nodes are attached using 11 different relations: <tt><a href="tr_pud-dep-obj.html">obj</a></tt> (5; 16% instances), <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (5; 16% instances), <tt><a href="tr_pud-dep-case.html">case</a></tt> (4; 13% instances), <tt><a href="tr_pud-dep-cop.html">cop</a></tt> (4; 13% instances), <tt><a href="tr_pud-dep-nsubj.html">nsubj</a></tt> (4; 13% instances), <tt><a href="tr_pud-dep-advmod.html">advmod</a></tt> (2; 6% instances), <tt><a href="tr_pud-dep-nmod.html">nmod</a></tt> (2; 6% instances), <tt><a href="tr_pud-dep-obl.html">obl</a></tt> (2; 6% instances), <tt><a href="tr_pud-dep-ccomp.html">ccomp</a></tt> (1; 3% instances), <tt><a href="tr_pud-dep-compound.html">compound</a></tt> (1; 3% instances), <tt><a href="tr_pud-dep-conj.html">conj</a></tt> (1; 3% instances)
 
-Children of `ADP` nodes belong to 9 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (13; 37% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (5; 14% instances), <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (5; 14% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (4; 11% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (3; 9% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (1; 3% instances)
+Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (12; 39% instances), <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (5; 16% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (4; 13% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (4; 13% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1; 3% instances)
 

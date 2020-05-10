@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-PUD: POS Tags: `CCONJ`
 
 There are 9 `CCONJ` lemmas (0%), 9 `CCONJ` types (0%) and 493 `CCONJ` tokens (3%).
-Out of 16 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 13 in number of types and 10 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 9 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>ve, veya, ile, hem, ya, ancak, ama, and, çünkü</em>
 
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>ve</em> (<tt><a href="tr_pud-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.500000).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.503294).
 
 The 1st highest number of forms (1) was observed with the lemma “ama”: <em>ama</em>.
 
@@ -62,17 +62,17 @@ Examples: <em>ve, veya, ile, hem, ya, ancak, ama, çünkü</em>
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="tr_pud-dep-cc.html">cc</a></tt> (482; 98% instances), <tt><a href="tr_pud-dep-cc-preconj.html">cc:preconj</a></tt> (8; 2% instances), <tt><a href="tr_pud-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="tr_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="tr_pud-dep-cc.html">cc</a></tt> (482; 98% instances), <tt><a href="tr_pud-dep-cc-preconj.html">cc:preconj</a></tt> (8; 2% instances), <tt><a href="tr_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="tr_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="tr_pud-dep-flat.html">flat</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (259; 53% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (86; 17% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (69; 14% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (55; 11% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (12; 2% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (261; 53% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (85; 17% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (71; 14% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (64; 13% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
-476 (97%) `CCONJ` nodes are leaves.
+479 (97%) `CCONJ` nodes are leaves.
 
-17 (3%) `CCONJ` nodes have one child.
+14 (3%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="tr_pud-dep-fixed.html">fixed</a></tt> (15; 88% instances), <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (2; 12% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="tr_pud-dep-fixed.html">fixed</a></tt> (12; 86% instances), <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (2; 14% instances)
 
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (15; 88% instances), <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 12% instances)
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (12; 86% instances), <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 14% instances)
 

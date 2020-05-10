@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `advcl`
 
 This relation is universal.
+There are 3 language-specific subtypes of `advcl`: <tt><a href="koi_uh-dep-advcl-lmod.html">advcl:lmod</a></tt>, <tt><a href="koi_uh-dep-advcl-mmod.html">advcl:mmod</a></tt>, <tt><a href="koi_uh-dep-advcl-tmod.html">advcl:tmod</a></tt>.
 
-7 nodes (2%) are attached to their parents as `advcl`.
+14 nodes (2%) are attached to their parents as `advcl`.
 
-6 instances of `advcl` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.14285714285714.
+9 instances of `advcl` (64%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.85714285714286.
 
-The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (5; 71% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 14% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 14% instances).
+The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (5; 36% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (5; 36% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (3; 21% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -33,44 +34,41 @@ The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 16 advcl	color:blue
-1	Сылӧ	сія	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obl	_	GTtags=Pers,Sg3,Dat
-2	коліс	ковны	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux	_	GTtags=Ind,Prt1,Sg3
-3	басӧка	басӧка	ADV	_	_	4	advmod	_	_
-4	лӧсьӧтны	лӧсьӧтны	VERB	_	VerbForm=Inf	0	root	_	GTtags=Inf
-5	юрсисӧ	юрси	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obj	_	GTtags=Sg,Acc,PxSg3|SpaceAfter=No
-6	,	,	PUNCT	_	_	14	punct	_	_
-7	но	но	CCONJ	_	_	14	cc	_	_
-8	мылякӧ	мылякӧ	ADV	_	Definite=Ind	14	advmod	_	GTtags=Indef
-9	сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	det	_	GTtags=Pers,Sg3,Nom
-10	лунӧ	лун	NOUN	_	Case=Ill|Number=Sing	14	obl:tmod	_	GTtags=Sg,Ill
-11	сылӧ	сія	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	14	obl	_	GTtags=Pers,Sg3,Dat
-12	эз	оз	AUX	_	Person=3|Polarity=Neg|Tense=Past|VerbType=Aux	14	aux:neg	_	GTtags=Prt1,3
-13	вӧв	вӧвны	AUX	_	Connegative=Yes	14	cop	_	GTtags=ConNeg
-14	охота	охота	NOUN	_	Case=Nom|Number=Sing	4	conj	_	GTtags=Sg,Nom
-15	сійӧ	сія	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	16	obj	_	GTtags=Pers,Sg3,Acc
-16	керны	керны	VERB	_	VerbForm=Inf	14	advcl	_	GTtags=Inf|SpaceAfter=No
-17	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 advcl	color:blue
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	Кытшӧм	кытшӧм	PRON	_	PronType=Int	0	root	_	_
+3	талун	талун	ADV	_	_	2	advmod:tmod	_	_
+4	луныс	лун	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nsubj:cop	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	_
+6	—	—	PUNCT	_	_	8	punct	_	_
+7	ылӧстӧма	ылӧстны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt2|Valency=1	8	advcl	_	_
+8	юаліс	юавны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	2	parataxis	_	_
+9	сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 advcl	color:blue
-1	Кыкӧн	кык	NUM	_	NumType=Dist	3	advcl	_	GTtags=Card,Distr
-2	нія	сія	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	GTtags=Pers,Pl3,Nom
-3	иньдӧтчисӧ	иньдӧтчыны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
-4	петанін	петанін	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	GTtags=Sg,Nom
-5	ладорӧ	ладор	NOUN	_	Case=Ill|Number=Sing	3	obl	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 advcl	color:blue
+1	Ордчӧн	ордчӧн	ADV	Adv	_	3	advmod:lmod	_	GTtags=Adv
+2	мекӧт	ме	PRON	Pron	Case=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	GTtags=Pron,Pers,Sg1,Com
+3	пукалӧ	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=2	0	root	_	GTtags=V,TV,Ind,Prs,Sg3
+4	сьӧд	сьӧд	ADJ	A	_	5	amod	_	GTtags=A
+5	тошока	тошока	NOUN	N	Derivation=ProprietiveMod|Number=Sing	9	amod	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A
+6	и	и	CCONJ	CC	_	8	cc	_	GTtags=CC
+7	гардчӧмкодь	гардчыны	VERB	V	Derivation=CompMod|Mood=Ind|Number=Sing|Person=3|Tense=Prt2|Valency=1	8	advcl	_	GTtags=V,IV,Ind,Prt2,Sg3,Der,Der/CompMod
+8	уссэза	ус	NOUN	N	Derivation=ProprietiveMod|Number=Plur	5	conj	_	GTtags=N,Pl,Der,Der/ProprietiveMod,A
+9	мужик	мужик	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=N,Sg,Nom|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
 
 ~~~
 

@@ -61,7 +61,7 @@ The following 12 pairs of parts of speech are connected with `acl:cleft`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 acl:cleft	color:blue
-1	Hur	hur	ADV	WH	_	2	dislocated	_	_
+1	Hur	hur	ADV	WH	PronType=Int	2	dislocated	_	_
 2	är	vara	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	det	den	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
 4	ni	ni	PRON	PERS-P2PL-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	5	nsubj	_	_

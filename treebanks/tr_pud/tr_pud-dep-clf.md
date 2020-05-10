@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `clf`: <tt><a href="
 6	kaydederek	kaydet	ADV	CRB	Polarity=Pos	12	advcl	_	_
 7	DFB	Dfb	PROPN	PROPN	Number=Sing	12	obl	_	Proper=True
 8	için	için	ADP	IN	_	7	case	_	_
-9	rekor	rekor	NOUN	NN	Number=Sing	10	compound	_	_
+9	rekor	rekor	NOUN	NN	Number=Sing	10	nmod:poss	_	_
 10	sayıda	sayı	NOUN	NN	Case=Loc|Number=Sing	11	clf	_	_
 11	gol	gol	NOUN	NN	Number=Sing	12	obj	_	_
 12	attı	at	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No

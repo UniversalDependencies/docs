@@ -7,26 +7,28 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Features: `AdvType`
 
 This feature is language-specific.
-It occurs with 5 different values: `Deg`, `Loc`, `Man`, `Sta`, `Tim`.
+It occurs with 7 different values: `Deg`, `Ideoph`, `Loc`, `Man`, `Mod`, `Sta`, `Tim`.
 
-976 tokens (6%) have a non-empty value of `AdvType`.
-250 types (5%) occur at least once with a non-empty value of `AdvType`.
-178 lemmas (7%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (733; 5% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (218; 1% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (16; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+1017 tokens (6%) have a non-empty value of `AdvType`.
+264 types (5%) occur at least once with a non-empty value of `AdvType`.
+187 lemmas (7%) occur at least once with a non-empty value of `AdvType`.
+The feature is used with 5 part-of-speech tags: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (766; 5% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (225; 1% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (17; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `ADV`
 
-733 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (54% of all `ADV` tokens) have a non-empty value of `AdvType`.
+766 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (54% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (637; 87%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (605; 83%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (669; 87%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (637; 83%).
 
 `ADV` tokens may have the following values of `AdvType`:
 
-* `Deg` (65; 9% of non-empty `AdvType`): <em>пек, вельть, кода, тунь, байтяк</em>
-* `Loc` (129; 18% of non-empty `AdvType`): <em>икелев, мекев, васоло, васов, пелев, тесэ, потс, тов, алов, верев</em>
-* `Man` (128; 17% of non-empty `AdvType`): <em>истя, кода, кодаяк, парсте, нусманясто, стамбарнэ, Видестэ, Парсте-беряньстэ, кода-бути, мазыйстэ</em>
+* `Deg` (67; 9% of non-empty `AdvType`): <em>пек, вельть, тунь, кода, самай, байтяк</em>
+* `Ideoph` (6; 1% of non-empty `AdvType`): <em>тяп-ляп, дубушки, жой, општ, дуборсо</em>
+* `Loc` (128; 17% of non-empty `AdvType`): <em>икелев, мекев, васоло, васов, пелев, тесэ, потс, тов, алов, верев</em>
+* `Man` (135; 18% of non-empty `AdvType`): <em>истя, кода, парсте, кодаяк, нусманясто, стамбарнэ, Видестэ, Парсте-беряньстэ, истяяк, кода-бути</em>
+* `Mod` (17; 2% of non-empty `AdvType`): <em>паряк, нама</em>
 * `Sta` (12; 2% of non-empty `AdvType`): <em>ласте, озадо, нусманясто, пульзядо</em>
-* `Tim` (399; 54% of non-empty `AdvType`): <em>уш, ней, мейле, яла, эщо, таго, курок, течи, зярдо, умок</em>
+* `Tim` (401; 52% of non-empty `AdvType`): <em>уш, ней, мейле, яла, эщо, таго, курок, течи, зярдо, умок</em>
 
 <table>
   <tr><th>Paradigm <i>кода</i></th><th><tt>Deg</tt></th><th><tt>Man</tt></th><th><tt>Tim</tt></th></tr>
@@ -35,17 +37,17 @@ The most frequent other feature values with which `ADV` and `AdvType` co-occurre
   <tr><td><tt><tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>кода</em></td><td></td></tr>
 </table>
 
-`AdvType` seems to be **lexical feature** of `ADV`. 98% lemmas (141) occur only with one value of `AdvType`.
+`AdvType` seems to be **lexical feature** of `ADV`. 97% lemmas (148) occur only with one value of `AdvType`.
 
 ### `ADP`
 
-218 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (41% of all `ADP` tokens) have a non-empty value of `AdvType`.
+225 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (41% of all `ADP` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADP` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (204; 94%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (196; 90%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (196; 90%).
+The most frequent other feature values with which `ADP` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (211; 94%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (202; 90%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (202; 90%).
 
 `ADP` tokens may have the following values of `AdvType`:
 
-* `Loc` (214; 98% of non-empty `AdvType`): <em>мельга, лангс, ёнов, пачк, ланкс, каршо, ваксс, лангсо, пельде, перька</em>
+* `Loc` (221; 98% of non-empty `AdvType`): <em>мельга, лангс, ёнов, каршо, пачк, ланкс, лангсо, ваксс, пельде, перька</em>
 * `Tim` (4; 2% of non-empty `AdvType`): <em>перть, пингстэ, пингстэяк</em>
 
 <table>
@@ -53,22 +55,23 @@ The most frequent other feature values with which `ADP` and `AdvType` co-occurre
   <tr><td><tt></tt></td><td><em>перть</em></td><td><em>перть</em></td></tr>
 </table>
 
-`AdvType` seems to be **lexical feature** of `ADP`. 98% lemmas (48) occur only with one value of `AdvType`.
+`AdvType` seems to be **lexical feature** of `ADP`. 98% lemmas (49) occur only with one value of `AdvType`.
 
 ### `SCONJ`
 
-16 <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (31% of all `SCONJ` tokens) have a non-empty value of `AdvType`.
+17 <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (29% of all `SCONJ` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `SCONJ` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (16; 100%).
+The most frequent other feature values with which `SCONJ` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17; 100%).
 
 `SCONJ` tokens may have the following values of `AdvType`:
 
-* `Man` (2; 13% of non-empty `AdvType`): <em>кода</em>
-* `Tim` (14; 88% of non-empty `AdvType`): <em>зярдо, кода</em>
+* `Man` (3; 18% of non-empty `AdvType`): <em>кода</em>
+* `Tim` (14; 82% of non-empty `AdvType`): <em>зярдо, кода</em>
 
 <table>
   <tr><th>Paradigm <i>кода</i></th><th><tt>Man</tt></th><th><tt>Tim</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>кода</em></td><td><em>кода</em></td></tr>
+  <tr><td><tt>_</tt></td><td><em>кода</em></td><td><em>кода</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>кода</em></td><td></td></tr>
 </table>
 
 ### `PRON`

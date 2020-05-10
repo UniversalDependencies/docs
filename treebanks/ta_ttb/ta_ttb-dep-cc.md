@@ -28,7 +28,7 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="t
 4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	Translit=um|LTranslit=um
 5	பெண்ண்	பெண்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	3	conj	3:conj|8:nsubj	Translit=peṇṇ|LTranslit=peṇ
 6	உம்	உம்	PART	Tv-------	_	5	cc	5:cc	Translit=um|LTranslit=um
-7	வாழ்க்கைத்	வாழ்க்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod	Translit=vālkkait|LTranslit=vālkkai
+7	வாழ்க்கைத்	வாழ்க்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod:nom	Translit=vālkkait|LTranslit=vālkkai
 8	துணைவர்கள்	துணைவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	11	obj	11:obj	Translit=tuṇaivarkaḷ|LTranslit=tuṇaivar
 9	என்று	என்	PART	Tt-T----A	Polarity=Pos|VerbForm=Inf	8	mark	8:mark	Translit=enru|LTranslit=en
 10	சமூகம்	சமூகம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	nsubj	11:nsubj	Translit=camūkam|LTranslit=camūkam
@@ -45,10 +45,10 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="t
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cc	color:blue
-1	வடக்கு	வடக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=vaṭakku|LTranslit=vaṭakku
+1	வடக்கு	வடக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod:nom	Translit=vaṭakku|LTranslit=vaṭakku
 2	மற்றும்	மற்றும்	CCONJ	CC-------	_	3	cc	3:cc	Translit=marrum|LTranslit=marrum
-3	கிழக்குப்	கிழக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj|4:nmod	Translit=kilakkup|LTranslit=kilakku
-4	பகுதிகளுக்க்	பகுதி	NOUN	NND-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	9	obl	9:obl	Translit=pakutikaḷukk|LTranslit=pakuti
+3	கிழக்குப்	கிழக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj|4:nmod:nom	Translit=kilakkup|LTranslit=kilakku
+4	பகுதிகளுக்க்	பகுதி	NOUN	NND-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	9	obl	9:obl:ஆகு:dat	Translit=pakutikaḷukk|LTranslit=pakuti
 5	ஆக	ஆகு	ADP	PP-------	AdpType=Post	4	case	4:case	Translit=āka|LTranslit=āku
 6	55	55	NUM	U=-------	NumForm=Digit	7	nummod	7:nummod	Translit=55|LTranslit=55
 7	பேருந்துகளை	பேருந்து	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	9	obj	9:obj	Translit=pēruntukaḷai|LTranslit=pēruntu
@@ -66,15 +66,15 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="t
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 14 cc	color:blue
-1	தமிழ்	தமிழ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod	SpaceAfter=No|Translit=tamil|LTranslit=tamil
+1	தமிழ்	தமிழ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod:nom	SpaceAfter=No|Translit=tamil|LTranslit=tamil
 2	,	,	PUNCT	Z:-------	PunctType=Comm	3	punct	3:punct	Translit=,|LTranslit=,
-3	கன்னடம்	கன்னடம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj|8:nmod	SpaceAfter=No|Translit=kannaṭam|LTranslit=kannaṭam
+3	கன்னடம்	கன்னடம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj|8:nmod:nom	SpaceAfter=No|Translit=kannaṭam|LTranslit=kannaṭam
 4	,	,	PUNCT	Z:-------	PunctType=Comm	5	punct	5:punct	Translit=,|LTranslit=,
-5	இந்தி	இந்தி	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj|8:nmod	SpaceAfter=No|Translit=inti|LTranslit=inti
+5	இந்தி	இந்தி	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj|8:nmod:nom	SpaceAfter=No|Translit=inti|LTranslit=inti
 6	,	,	PUNCT	Z:-------	PunctType=Comm	7	punct	7:punct	Translit=,|LTranslit=,
-7	ஆங்கிலம்	ஆங்கிலம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj|8:nmod	Translit=āṅkilam|LTranslit=āṅkilam
+7	ஆங்கிலம்	ஆங்கிலம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj|8:nmod:nom	Translit=āṅkilam|LTranslit=āṅkilam
 8	ஆகிய	ஆகு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	9	amod	9:amod	Translit=ākiya|LTranslit=āku
-9	மொழிகளில்	மொழி	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	10	obl	10:obl|13:obl	Translit=molikaḷil|LTranslit=moli
+9	மொழிகளில்	மொழி	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	10	obl	10:obl:loc|13:obl:loc	Translit=molikaḷil|LTranslit=moli
 10	பேசவ்	பேசு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	15	xcomp	15:xcomp	Translit=pēcav|LTranslit=pēcu
 11	உம்	உம்	PART	Tv-------	_	10	advmod:emph	10:advmod:emph	Translit=um|LTranslit=um
 12	,	,	PUNCT	Z:-------	PunctType=Comm	13	punct	13:punct	Translit=,|LTranslit=,

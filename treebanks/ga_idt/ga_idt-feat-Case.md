@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `NomAcc` are language-specific.
 It occurs with 4 different values: `Dat`, `Gen`, `NomAcc`, `Voc`.
 
-8064 tokens (20%) have a non-empty value of `Case`.
-4555 types (55%) occur at least once with a non-empty value of `Case`.
-3046 lemmas (55%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (6171; 15% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1050; 3% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (451; 1% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (388; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+9643 tokens (15%) have a non-empty value of `Case`.
+5089 types (45%) occur at least once with a non-empty value of `Case`.
+3322 lemmas (46%) occur at least once with a non-empty value of `Case`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (6840; 11% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1674; 3% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (635; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (487; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-6171 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (57% of all `NOUN` tokens) have a non-empty value of `Case`.
+6840 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (42% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6137; 99%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5215; 85%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4957; 80%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (4857; 79%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3846; 62%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6785; 99%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5737; 84%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (5481; 80%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5394; 79%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4246; 62%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Dat` (36; 1% of non-empty `Case`): <em>cionn, láimh, tigh, gcrích, chois, mbliana, chionn, dtigh, gcionn, gcéin</em>
-* `Gen` (1734; 28% of non-empty `Case`): <em>cinn, bliana, tíre, airgid, oibre, léinn, scéil, Gaeltachta, scoile, seachtaine</em>
-* `NomAcc` (4373; 71% of non-empty `Case`): <em>rud, chuid, duine, fear, lá, leith, bhliain, chéile, áit, daoine</em>
-* `Voc` (28; 0% of non-empty `Case`): <em>bhó, fheara, Chapaillín, Dhaid, Dhochtúir, Oideachais, Rí, bhithiúnaigh, bhráithre, bran</em>
-* `EMPTY` (4602): <em>bheith, chur, dhéanamh, dul, fáil, bith, rá, rud, thabhairt, duine</em>
+* `Dat` (54; 1% of non-empty `Case`): <em>láimh, tigh, cionn, gcrích, mbliana, chionn, chois, gcéin, gcionn, cloich</em>
+* `Gen` (2414; 35% of non-empty `Case`): <em>cinn, bliana, oibre, tíre, léinn, airgid, seachtaine, scéil, lae, phobail</em>
+* `NomAcc` (4339; 63% of non-empty `Case`): <em>fear, rud, chuid, duine, leabhar, lá, leith, bhliain, chéile, áit</em>
+* `Voc` (33; 0% of non-empty `Case`): <em>bhó, dhochtúir, fheara, Chapaillín, Dhaid, LIA, Oideachais, Rí, bhithiúnaigh, bhráithre</em>
+* `EMPTY` (9451): <em>bheith, chur, dhéanamh, féin, dul, fáil, duine, chuid, rud, chéile</em>
 
 <table>
   <tr><th>Paradigm <i>bean</i></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>NomAcc</tt></th></tr>
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
   <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>mhná</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>mban</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>mbean</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mhnaoi</em></td><td></td><td></td><td><em>bhean</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mhnaoi</em></td><td><em>mhná</em></td><td></td><td><em>bhean</em></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>mhná</em></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ban</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>bean</em></td></tr>
@@ -42,17 +42,17 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PROPN`
 
-1050 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (66% of all `PROPN` tokens) have a non-empty value of `Case`.
+1674 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (46% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (947; 90%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (878; 84%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (788; 75%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1464; 87%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (1347; 80%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1150; 69%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Dat` (12; 1% of non-empty `Case`): <em>Éirinn, hÉirinn</em>
-* `Gen` (377; 36% of non-empty `Case`): <em>Gaeilge, Átha, hÉireann, Bhaile, mBaile, Fraince, Phádraig, hEorpa, Chaoin, Chill</em>
-* `NomAcc` (654; 62% of non-empty `Case`): <em>Seán, Mháire, Ghaeilge, Gaeilge, nGaeilge, Éire, Bhreandán, Chorcaí, Fianna, John</em>
-* `Voc` (7; 1% of non-empty `Case`): <em>Dhoráid, Mháire, Mháiréad, Phádraig, Pháidín, Sheáin, Tom</em>
-* `EMPTY` (545): <em>Cliath, Baile, Cill, Fáil, Seán, Pádraig, Dara, Eo, Euro, Gaeilge</em>
+* `Dat` (24; 1% of non-empty `Case`): <em>Éirinn, Tigh, hÉirinn, Arainn</em>
+* `Gen` (874; 52% of non-empty `Case`): <em>Gaeilge, Átha, hÉireann, Bhaile, cliath, hEorpa, Gaeltachta, mBaile, Fraince, Chill</em>
+* `NomAcc` (760; 45% of non-empty `Case`): <em>Mháire, Seán, Ghaeilge, Gaeilge, nGaeilge, Éire, Bhreandán, Chorcaí, Eoin, Fianna</em>
+* `Voc` (16; 1% of non-empty `Case`): <em>Mháire, Sheáin, Shéamais, Chití, Dhoráid, Fhinn, Learaí, Mhuire, Mháiréad, Phádraig</em>
+* `EMPTY` (1980): <em>Baile, Cliath, Seán, Pádraig, Cill, Feirste, Údarás, Béarla, Fáil, Chomhairle</em>
 
 <table>
   <tr><th>Paradigm <i>Éire</i></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>NomAcc</tt></th></tr>
@@ -61,19 +61,30 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
   <tr><td><tt></tt></td><td><em>Éirinn</em></td><td><em>Éireann</em></td><td><em>Éire, hÉire</em></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `PROPN`. 94% lemmas (643) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `PROPN`. 91% lemmas (879) occur only with one value of `Case`.
+
+### `DET`
+
+635 <tt><a href="ga_idt-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (635; 100%), <tt><a href="ga_idt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (635; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (635; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (634; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (634; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (633; 100%).
+
+`DET` tokens may have the following values of `Case`:
+
+* `Gen` (635; 100% of non-empty `Case`): <em>na</em>
+* `EMPTY` (5103): <em>an, na, a, seo, sin, eile, aon, gach, mo, do</em>
 
 ### `ADJ`
 
-451 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (22% of all `ADJ` tokens) have a non-empty value of `Case`.
+487 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (451; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (451; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (347; 77%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (240; 53%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (487; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (487; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (366; 75%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (254; 52%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Gen` (70; 16% of non-empty `Case`): <em>Shóisialaigh, beaga, dhaonna, eachtraigh, mhóir, speisialta, sóisialta, éagsúla, Caitlicí, Gaelach</em>
-* `NomAcc` (381; 84% of non-empty `Case`): <em>éigin, mór, mhaith, chéanna, mhór, óg, beaga, fada, beag, iomlán</em>
-* `EMPTY` (1598): <em>maith, amháin, mó, mór, léir, nua, céanna, déanta, fada, mhór</em>
+* `Gen` (102; 21% of non-empty `Case`): <em>mhóir, éagsúla, speisialta, Shóisialaigh, beaga, dhaonna, eachtraigh, mór, nua, polaitiúla</em>
+* `NomAcc` (385; 79% of non-empty `Case`): <em>éigin, mór, mhaith, chéanna, mhór, óg, beaga, fada, beag, iomlán</em>
+* `EMPTY` (2722): <em>maith, mór, amháin, mó, nua, céanna, léir, déanta, mhaith, mhór</em>
 
 <table>
   <tr><th>Paradigm <i>mór</i></th><th><tt>Gen</tt></th><th><tt>NomAcc</tt></th></tr>
@@ -84,27 +95,36 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Weak</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mór</em></td><td></td></tr>
 </table>
 
-### `DET`
+### `VERB`
 
-388 <tt><a href="ga_idt-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Case`.
+2 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (388; 100%), <tt><a href="ga_idt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (388; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (388; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (387; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (387; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (386; 99%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ga_idt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2; 100%).
 
-`DET` tokens may have the following values of `Case`:
+`VERB` tokens may have the following values of `Case`:
 
-* `Gen` (388; 100% of non-empty `Case`): <em>na</em>
-* `EMPTY` (3210): <em>an, na, a, seo, sin, eile, aon, gach, mo, do</em>
+* `NomAcc` (2; 100% of non-empty `Case`): <em>Tá's, phléasc</em>
+* `EMPTY` (5224): <em>bhí, tá, raibh, atá, bhfuil, thug, mbeadh, chuir, níl, bheidh</em>
 
 ### `X`
 
 2 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
-
 `X` tokens may have the following values of `Case`:
 
 * `NomAcc` (2; 100% of non-empty `Case`): <em>Kill, open</em>
-* `EMPTY` (275): <em>Co., fá, Dr., The, FÁS, RTÉ, Uimh., a, dhein, (b)</em>
+* `EMPTY` (169): <em>the, a, of, Irish, on, May, fakir, in, island, men</em>
+
+### `ADP`
+
+1 <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1; 100%).
+
+`ADP` tokens may have the following values of `Case`:
+
+* `Gen` (1; 100% of non-empty `Case`): <em>'na</em>
+* `EMPTY` (10228): <em>ar, i, ag, le, de, sa, leis, in, ina, ann</em>
 
 ### `NUM`
 
@@ -115,30 +135,28 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 `NUM` tokens may have the following values of `Case`:
 
 * `NomAcc` (1; 100% of non-empty `Case`): <em>fiche</em>
-* `EMPTY` (633): <em>dhá, chéad, dá, trí, (2), (1), (a), (b), céad, cúig</em>
+* `EMPTY` (1000): <em>dhá, chéad, dá, trí, (2), cúig, (b), (a), (1), deich</em>
 
-### `VERB`
+### `SCONJ`
 
-1 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
+1 <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="ga_idt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1; 100%).
+`SCONJ` tokens may have the following values of `Case`:
 
-`VERB` tokens may have the following values of `Case`:
-
-* `NomAcc` (1; 100% of non-empty `Case`): <em>Tá's</em>
-* `EMPTY` (3201): <em>bhí, tá, raibh, atá, bhfuil, bheidh, thug, beidh, chuir, tháinig</em>
+* `NomAcc` (1; 100% of non-empty `Case`): <em>áit</em>
+* `EMPTY` (1118): <em>ach, nuair, mar, agus, má, go, dá, cé, ná, is</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ga_idt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (394; 63%),
-<tt>NOUN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (285; 87%),
-<tt>PROPN --[<tt><a href="ga_idt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (77; 58%),
-<tt>NOUN --[<tt><a href="ga_idt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (31; 78%),
-<tt>PROPN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (25; 96%),
-<tt>PROPN --[<tt><a href="ga_idt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (24; 63%),
-<tt>NOUN --[<tt><a href="ga_idt-dep-appos.html">appos</a></tt>]--> PROPN</tt> (19; 79%),
-<tt>PROPN --[<tt><a href="ga_idt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (14; 78%),
-<tt>NOUN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (13; 72%),
-<tt>PROPN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (11; 85%).
+<tt>NOUN --[<tt><a href="ga_idt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (412; 61%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (293; 83%),
+<tt>PROPN --[<tt><a href="ga_idt-dep-det.html">det</a></tt>]--> DET</tt> (113; 51%),
+<tt>PROPN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (32; 73%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (29; 71%),
+<tt>PROPN --[<tt><a href="ga_idt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (25; 52%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (24; 53%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-appos.html">appos</a></tt>]--> PROPN</tt> (19; 66%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (16; 73%),
+<tt>PROPN --[<tt><a href="ga_idt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (14; 74%).
 

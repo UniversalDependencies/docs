@@ -40,19 +40,19 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 1 discourse	color:blue
-1	Тыдалӧ	тыдавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	3	punct	_	_
+1	Тыдалӧ	тыдавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	9	punct	_	_
 3	разведкаыс	разведка	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	_
 4	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	det	_	_
-5	луннас	лун	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obl	_	_
-6	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+5	луннас	лун	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obl:tmod	_	_
+6	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	cop	_	_
 7	сэтшӧм	сэтшӧм	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	8	det	_	_
 8	важнӧй	важнӧй	ADJ	A	Case=Nom|Number=Sing	9	amod	_	_
 9	делӧӧн	делӧ	NOUN	N	Case=Ins|Number=Sing	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	CLB	_	11	punct	_	_
+10	,	,	PUNCT	CLB	_	13	punct	_	_
 11	мый	мый	SCONJ	CS	_	13	cc	_	_
 12	Ворошилов	Ворошилов	PROPN	N	Case=Nom|Number=Sing	13	nsubj	_	_
-13	решитчис	решитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl	_	_
+13	решитчис	решитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	acl	_	_
 14	мунны	мунны	VERB	V	VerbForm=Inf	13	xcomp	_	_
 15	ачыс	ас	PRON	Pron	Case=Nom|Person=3|Reflex=Yes	14	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	CLB	_	9	punct	_	_

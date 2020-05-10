@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_English-LinES](https://github.com/UniversalDependencies/UD_English-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -271,7 +271,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
       <li>ADV: n't, for, last, nearest, and, a.m., alike, besides, left, p.m</li>
       <li>AUX: 'd, 're</li>
       <li>CCONJ: as, only, so, rather</li>
-      <li>DET: one, whose, La</li>
+      <li>DET: one, La, whose</li>
       <li>INTJ: Ave, Er</li>
       <li>NOUN: garden, Jews, sir, smile, faces, Americans, Mr., bush, fellow, objects</li>
       <li>NUM: n, U</li>
@@ -472,9 +472,9 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Int
     <ul>
-      <li>ADV: how, where, why, when, wherever</li>
+      <li>ADV: how, why, where, when, wherever</li>
       <li>DET: what, which, whatever</li>
-      <li>PRON: what, who, which, whom, whatever, whose</li>
+      <li>PRON: what, who, which, whatever, whom, whose</li>
     </ul>
   </li>
 </ul>
@@ -499,8 +499,9 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: where</li>
-      <li>PRON: that</li>
+      <li>ADV: where, why</li>
+      <li>DET: whose</li>
+      <li>PRON: that, who, which, what, whom, whose</li>
       <li>SCONJ: that</li>
     </ul>
   </li>
@@ -550,6 +551,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Yes
     <ul>
+      <li>DET: whose</li>
       <li>PRON: his, my, your, its, our, whose, her</li>
     </ul>
   </li>
@@ -658,7 +660,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-ADP(into) (1)</li>
       <li>VERB--PRON-Acc (22)</li>
       <li>VERB--PRON-Nom (2)</li>
-      <li>VERB-Fin--NOUN (1253)</li>
+      <li>VERB-Fin--NOUN (1252)</li>
       <li>VERB-Fin--NOUN-ADP(for) (1)</li>
       <li>VERB-Fin--NOUN-ADP(in) (1)</li>
       <li>VERB-Fin--NOUN-ADP(on) (1)</li>

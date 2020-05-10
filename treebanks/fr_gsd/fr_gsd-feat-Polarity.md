@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-2909 tokens (1%) have a non-empty value of `Polarity`.
+2913 tokens (1%) have a non-empty value of `Polarity`.
 23 types (0%) occur at least once with a non-empty value of `Polarity`.
 13 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (2791; 1% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (108; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (10; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (2795; 1% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (108; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (10; 0% instances).
 
 ### `ADV`
 
-2791 <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> tokens (18% of all `ADV` tokens) have a non-empty value of `Polarity`.
+2795 <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> tokens (18% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (2791; 100% of non-empty `Polarity`): <em>pas, n', ne, plus, jamais, non, qu', point, guère, nullement</em>
-* `EMPTY` (12592): <em>plus, très, aussi, où, ainsi, alors, bien, également, lors, puis</em>
+* `Neg` (2795; 100% of non-empty `Polarity`): <em>pas, n', ne, jamais, plus, non, qu', guère, point, nullement</em>
+* `EMPTY` (12348): <em>plus, très, aussi, où, ainsi, alors, bien, également, lors, puis</em>
 
 ### `DET`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (108; 100% of non-empty `Polarity`): <em>aucun, aucune, No, Nul</em>
-* `EMPTY` (61157): <em>le, la, les, l', un, une, des, son, sa, cette</em>
+* `EMPTY` (61133): <em>le, la, les, l', un, une, des, son, sa, cette</em>
 
 ### `PRON`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (10; 100% of non-empty `Polarity`): <em>rien, aucun</em>
-* `EMPTY` (17772): <em>il, qui, se, s', elle, on, c', y, ils, lui</em>
+* `EMPTY` (17766): <em>il, qui, se, s', elle, on, c', y, ils, lui</em>
 

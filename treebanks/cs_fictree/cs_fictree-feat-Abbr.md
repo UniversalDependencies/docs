@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>apod</em>
-* `EMPTY` (10829): <em>už, tak, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
+* `EMPTY` (10831): <em>už, tak, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
 
 ## Relations with Agreement in `Abbr`
 

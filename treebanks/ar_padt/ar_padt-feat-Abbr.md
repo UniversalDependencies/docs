@@ -23,7 +23,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (504; 100% of non-empty `Abbr`): ب، د، ف، أ، م، ر، كلم، ت، غ، كجم
-* `EMPTY` (16685): اف، محمد، واشنطن، عبد، مبارك، سوريا، شارون، السارس، أفريقيا، روسيا
+* `EMPTY` (16664): اف، محمد، واشنطن، عبد، مبارك، سوريا، شارون، السارس، أفريقيا، روسيا
 
 `Abbr` seems to be **lexical feature** of `X`. 100% lemmas (21) occur only with one value of `Abbr`.
 

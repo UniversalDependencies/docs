@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="et_edt-pos-SCON
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.923077 (the average of all parts of speech is 1.914025).
+The form / lemma ratio of `SCONJ` is 0.923077 (the average of all parts of speech is 1.914080).
 
 The 1st highest number of forms (1) was observed with the lemma “ehkki”: <em>ehkki</em>.
 

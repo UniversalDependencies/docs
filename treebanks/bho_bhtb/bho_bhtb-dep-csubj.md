@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `csubj`.
+10 nodes (0%) are attached to their parents as `csubj`.
 
-7 instances of `csubj` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.44444444444444.
+8 instances of `csubj` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.9.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (3; 33% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (1; 11% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 11% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 11% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (1; 11% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (4; 40% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (1; 10% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 10% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 10% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -54,7 +54,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 5	ब्रेकिंग	ब्रेकिंग	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	amod	_	SpacesAfter=\n
 6	न्यूज	न्यूज	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obj	_	_
 7	आ	आ	VERB	V_VM	_	0	root	_	_
-8	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	aux	_	_
+8	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	aux	_	_
 9	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	6	aux	_	_
 10	–	–	PUNCT	RD_SYM	_	7	punct	_	_
 11	सबले	सबला	DET	RP_INTF	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	det	_	_

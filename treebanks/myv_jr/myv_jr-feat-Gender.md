@@ -16,15 +16,15 @@ The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PROPN.ht
 
 ### `PROPN`
 
-441 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (77% of all `PROPN` tokens) have a non-empty value of `Gender`.
+441 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (78% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (441; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (440; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (322; 73%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (320; 73%), <tt><a href="myv_jr-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (307; 70%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (441; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (440; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (322; 73%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (320; 73%), <tt><a href="myv_jr-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (306; 69%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
 * `Fem` (114; 26% of non-empty `Gender`): <em>Любань, Люба, Маря, Уля, Улянь, Марянень, Марянь, Грунянь, Лопа, Любанень</em>
 * `Masc` (327; 74% of non-empty `Gender`): <em>Микол, Ястребов, Федоров, Кирё, Кечай, Миколонь, Лапшов, Урван, Дуняшин, Дуняшинэнь</em>
-* `EMPTY` (134): <em>Палько, Волчок, Пальконень, Бертяз, Цярданев, Пальконь, Юрченко, Дёбаень, Елеськань, Колчаконь</em>
+* `EMPTY` (128): <em>Палько, Волчок, Пальконень, Бертяз, Цярданев, Пальконь, Юрченко, Дёбаень, Елеськань, Колчаконь</em>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (57) occur only with one value of `Gender`.
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (1; 33% of non-empty `Gender`): <em>Любань</em>
 * `Masc` (2; 67% of non-empty `Gender`): <em>Вострин, Елеська</em>
-* `EMPTY` (3633): <em>бандитэсь, партизантнэ, кедензэ, ялгат, прянзо, авазо, кенкшенть, кудов, лангс, бандитнэ</em>
+* `EMPTY` (3781): <em>бандитэсь, партизантнэ, кедензэ, лангс, ялгат, прянзо, кудов, авазо, кенкшенть, бандитнэ</em>
 
 ## Relations with Agreement in `Gender`
 

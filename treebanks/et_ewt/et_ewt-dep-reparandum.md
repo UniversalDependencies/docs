@@ -8,40 +8,26 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `reparandum`.
+6 nodes (0%) are attached to their parents as `reparandum`.
 
-4 instances of `reparandum` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+5 instances of `reparandum` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.83333333333333.
 
-The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 20% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 20% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (1; 20% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 20% instances).
+The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (2; 33% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 17% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (1; 17% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 19 reparandum	color:blue
-1	2.	2.	ADJ	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Ord	2	amod	2:amod	_
-2	samm	samm	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	SpaceAfter=No
-3	:	:	PUNCT	Z	_	4	punct	4:punct	_
-4	sorteerimine	sorteerimine	NOUN	S	Case=Nom|Number=Sing	2	appos	2:appos	SpaceAfter=No
-5	:	:	PUNCT	Z	_	7	punct	7:punct	_
-6	1)	1	NUM	N	NumForm=Digit|NumType=Card	7	parataxis	7:parataxis	_
-7	summa	summa	NOUN	S	Case=Nom|Number=Sing	4	parataxis	4:parataxis	_
-8	kasvavas	kasvav	ADJ	A	Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	9:acl	_
-9	järjekorras	järje_kord	NOUN	S	Case=Ine|Number=Sing	7	nmod	7:nmod	_
-10	2)	2	NUM	N	NumForm=Digit|NumType=Card	11	parataxis	11:parataxis	_
-11	ilmakaar	ilma_kaar	NOUN	S	Case=Nom|Number=Sing	7	conj	7:conj	_
-12	tähestiku	tähestik	NOUN	S	Case=Gen|Number=Sing	13	nmod	13:nmod	_
-13	järjekorras	järje_kord	NOUN	S	Case=Ine|Number=Sing	11	nmod	11:nmod	_
-14	3)	3	NUM	N	NumForm=Digit|NumType=Card	17	parataxis	17:parataxis	_
-15	võitude	võit	NOUN	S	Case=Gen|Number=Plur	17	nmod	17:nmod	_
-16	kaotuste	kaotus	NOUN	S	Case=Gen|Number=Plur	15	nmod	15:nmod	_
-17	vahe	vahe	NOUN	S	Case=Nom|Number=Sing	7	conj	7:conj	_
-18	kasvavas	kasvav	ADJ	A	Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	20:acl	_
-19	kasvavas	kasvav	ADJ	A	Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	18	reparandum	18:reparandum	_
-20	järjekorras	järje_kord	NOUN	S	Case=Ine|Number=Sing	17	nmod	17:nmod	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 reparandum	color:blue
+1	Üllatavalt	üllatavalt	ADV	D	_	2	advmod	2:advmod	_
+2	kerge	kerge	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	4	amod	4:amod	_
+3	kerge	kerge	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	reparandum	2:reparandum	_
+4	teema	teema	NOUN	S	Case=Nom|Number=Sing	5	nsubj	5:nsubj	_
+5	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+6	.	.	PUNCT	Z	_	5	punct	5:punct	_
 
 ~~~
 

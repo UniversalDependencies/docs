@@ -25,10 +25,10 @@ The following 71 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 1 6 nsubj	color:blue
 1	Může	moci	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LGloss=(mít_možnost_[něco_dělat])
 2	po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	3:case	LId=po-1
-3	mně	já	PRON	PP-S6--1-------	Case=Loc|Number=Sing|Person=1|PronType=Prs	7	obl:arg	7:obl:arg	_
+3	mně	já	PRON	PP-S6--1-------	Case=Loc|Number=Sing|Person=1|PronType=Prs	7	obl:arg	7:obl:arg:po:loc	_
 4	takové	takový	DET	PDIP4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	5	det	5:det	_
 5	údaje	údaj	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	7	obj	7:obj	_
-6	pojišťovna	pojišťovna	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	1	nsubj	1:nsubj	_
+6	pojišťovna	pojišťovna	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	1	nsubj	1:nsubj|7:nsubj	_
 7	vyžadovat	vyžadovat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	1	xcomp	1:xcomp	SpaceAfter=No
 8	?	?	PUNCT	Z:-------------	_	1	punct	1:punct	_
 

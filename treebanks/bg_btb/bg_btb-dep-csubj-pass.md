@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="bg_btb-dep-csubj.ht
 81 instances of `csubj:pass` (90%) are left-to-right (parent precedes child).
 Average distance between parent and child is 6.67777777777778.
 
-The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (68; 76% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (18; 20% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (67; 74% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (18; 20% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 4	му	мой	PRON	Psot--3--m	Person=3|Poss=Yes|PronType=Prs	3	det	3:det	_
 5	да	да	AUX	Tx	_	9	aux	9:aux	_
 6	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	_
-7	около	около	ADP	R	_	8	advmod	8:advmod	_
+7	около	около	ADP	R	_	9	case	9:case	_
 8	6700	6700	NUM	Mc-pi	Definite=Ind|Number=Plur|NumType=Card	9	nummod	9:nummod	_
 9	лири	лира	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	1	csubj:pass	1:csubj:pass	_
 10	стерлинги	стерлинг	NOUN	Ncmpi	Definite=Ind|Gender=Masc|Number=Plur	9	nmod	9:nmod	SpaceAfter=No

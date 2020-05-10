@@ -52,7 +52,7 @@ The following 25 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 3	četrdeset	četrdeset	NUM	Mlc	NumType=Card	4	nummod:gov	_	_
 4	godina	godina	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	1	obj	_	_
 5	baveći	baviti	ADV	Rr	Tense=Pres|VerbForm=Conv	1	xcomp	_	_
-6	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	5	compound	_	_
+6	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
 7	univerzitetskim	univerzitetski	ADJ	Agpmpiy	Case=Ins|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	_
 8	poslovima	posao	NOUN	Ncmpi	Case=Ins|Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
 9	.	.	PUNCT	Z	_	1	punct	_	_

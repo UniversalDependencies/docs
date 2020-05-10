@@ -9,31 +9,30 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="et_ewt-dep-csubj-cop.html">csubj:cop</a></tt>.
 
-89 nodes (0%) are attached to their parents as `csubj`.
+134 nodes (0%) are attached to their parents as `csubj`.
 
-78 instances of `csubj` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.71910112359551.
+120 instances of `csubj` (90%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.76119402985075.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (70; 79% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (8; 9% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `csubj`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (104; 78% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (11; 8% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 csubj	color:blue
-1	Aga	aga	CCONJ	J	_	2	cc	2:cc	_
-2	arvan	arvama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	et	et	SCONJ	J	_	6	mark	6:mark	_
-4	need	see	PRON	P	Case=Nom|Number=Plur|PronType=Dem	6	nsubj:cop	6:nsubj	_
-5	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
-6	nimed	nimi	NOUN	S	Case=Nom|Number=Plur	2	ccomp	2:ccomp	_
-7	keda	kes	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	10	obj	10:obj	_
-8	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	6:acl	_
-9	meelde	meel	NOUN	S	Case=Ill|Number=Sing	10	obl	10:obl	_
-10	jätta	jätma	VERB	V	VerbForm=Inf	8	csubj	8:csubj	SpaceAfter=No
-11	.	.	PUNCT	Z	_	2	punct	2:punct	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 csubj	color:blue
+1	See	see	DET	P	Case=Nom|Number=Sing|PronType=Dem	2	det	2:det	_
+2	kôik	kõik	PRON	P	Case=Nom|Number=Sing|PronType=Tot	5	obj	5:obj	_
+3	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	ära	ära	ADV	D	_	5	compound:prt	5:compound	_
+5	aurustada	aurustama	VERB	V	VerbForm=Inf	3	csubj	3:csubj	_
+6	enne	enne	ADV	D	_	5	advmod	5:advmod	_
+7	kui	kui	SCONJ	J	_	9	mark	9:mark	_
+8	pôlema	pôlema	NOUN	S	Case=Nom|Number=Sing	9	obl	9:obl	_
+9	pääsed	pääsema	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	3:advcl	SpaceAfter=No
+10	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
 

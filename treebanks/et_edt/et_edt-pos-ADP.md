@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>eest</em> (<tt><a href="et_edt-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.989418 (the average of all parts of speech is 1.914025).
+The form / lemma ratio of `ADP` is 0.989418 (the average of all parts of speech is 1.914080).
 
 The 1st highest number of forms (2) was observed with the lemma “alates”: <em>alates, kuni</em>.
 

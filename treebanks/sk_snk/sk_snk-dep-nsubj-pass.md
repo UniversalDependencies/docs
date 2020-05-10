@@ -25,11 +25,11 @@ The following 10 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 1	Neskôr	neskôr	ADV	Dx	Degree=Pos	5	advmod	5:advmod	_
 2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	5	expl:pass	5:expl:pass	_
 3	obrázok	obrázok	NOUN	SSis1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	5:nsubj:pass	_
-4	monoskopu	monoskop	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod	_
+4	monoskopu	monoskop	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	_
 5	snímal	snímať	VERB	VLesci+	Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
 6	normálnou	normálny	ADJ	AAfs7x	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	8	amod	8:amod	_
 7	televíznou	televízny	ADJ	AAfs7x	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	8	amod	8:amod	_
-8	kamerou	kamera	NOUN	SSfs7	Case=Ins|Gender=Fem|Number=Sing	5	obl	5:obl	SpaceAfter=No
+8	kamerou	kamera	NOUN	SSfs7	Case=Ins|Gender=Fem|Number=Sing	5	obl	5:obl:ins	SpaceAfter=No
 9	.	.	PUNCT	Z	_	5	punct	5:punct	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 3	hromadne	hromadne	ADV	Dx	Degree=Pos	4	advmod	4:advmod	_
 4	spaľované	spaľovaný	ADJ	Gtfp1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	0:root	_
 5	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	6	case	6:case	_
-6	krematóriách	krematórium	NOUN	SSnp6	Case=Loc|Gender=Neut|Number=Plur	4	obl	4:obl	SpaceAfter=No
+6	krematóriách	krematórium	NOUN	SSnp6	Case=Loc|Gender=Neut|Number=Plur	4	obl	4:obl:v:loc	SpaceAfter=No
 7	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 ~~~

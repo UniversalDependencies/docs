@@ -43,7 +43,7 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 1	Utíkal	utíkat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 2	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	1:aux	_
 3	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	4	case	4:case	_
-4	baráku	barák	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	1	obl	1:obl	_
+4	baráku	barák	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	1	obl	1:obl:k:dat	_
 5	a	a	CCONJ	J^-------------	_	6	cc	6:cc	_
 6	zjistil	zjistit	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	0:root|1:conj	_
 7	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	6:aux	SpaceAfter=No
@@ -51,7 +51,7 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 9	že	že	SCONJ	J,-------------	_	11	mark	11:mark	_
 10	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	11:cop	_
 11	plný	plný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	ccomp	6:ccomp	_
-12	holek	holka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	11	obj	11:obj	SpaceAfter=No
+12	holek	holka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	11	obl:arg	11:obl:arg:gen	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

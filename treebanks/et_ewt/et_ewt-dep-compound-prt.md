@@ -8,29 +8,29 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="et_ewt-dep-compound.html">compound</a></tt>.
 
-336 nodes (1%) are attached to their parents as `compound:prt`.
+563 nodes (1%) are attached to their parents as `compound:prt`.
 
-176 instances of `compound:prt` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.75.
+309 instances of `compound:prt` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.7886323268206.
 
-The following 3 pairs of parts of speech are connected with `compound:prt`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (327; 97% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (3; 1% instances).
+The following 4 pairs of parts of speech are connected with `compound:prt`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (553; 98% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 compound:prt	color:blue
-1	See	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	3	nsubj:cop	3:nsubj	_
-2	ongi	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
-3	leib	leib	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	SpaceAfter=No
-4	,	,	PUNCT	Z	_	8	punct	8:punct	_
-5	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	8	nsubj	8:nsubj	_
-6	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	8:aux	_
-7	alla	alla	ADV	D	_	8	compound:prt	8:compound	_
-8	tulnud	tulema	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	3	acl:relcl	3:acl	_
-9	taevast	taevas	NOUN	S	Case=Ela|Number=Sing	8	obl	8:obl	SpaceAfter=No
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 compound:prt	color:blue
+1	See	see	DET	P	Case=Nom|Number=Sing|PronType=Dem	2	det	2:det	_
+2	kôik	kõik	PRON	P	Case=Nom|Number=Sing|PronType=Tot	5	obj	5:obj	_
+3	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	ära	ära	ADV	D	_	5	compound:prt	5:compound	_
+5	aurustada	aurustama	VERB	V	VerbForm=Inf	3	csubj	3:csubj	_
+6	enne	enne	ADV	D	_	5	advmod	5:advmod	_
+7	kui	kui	SCONJ	J	_	9	mark	9:mark	_
+8	pôlema	pôlema	NOUN	S	Case=Nom|Number=Sing	9	obl	9:obl	_
+9	pääsed	pääsema	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	3:advcl	SpaceAfter=No
 10	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~

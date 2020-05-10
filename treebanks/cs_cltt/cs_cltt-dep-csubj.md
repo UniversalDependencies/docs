@@ -89,7 +89,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 19	porušení	porušení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	22	obj	_	_
 20	právních	právní	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	21	amod	_	_
 21	povinností	povinnost	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	19	nmod	_	_
-22	projednává	projednávat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl	_	SpaceAfter=No
+22	projednává	projednávat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	SpaceAfter=No
 23	,	,	PUNCT	Z:-------------	_	22	punct	_	_
 24	kvalifikovaným	kvalifikovaný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	25	amod	_	_
 25	odhadem	odhad	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	12	obl	_	SpaceAfter=No

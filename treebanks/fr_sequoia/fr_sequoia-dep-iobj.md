@@ -77,7 +77,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 7	composante	composante	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	_
 8	de	de	ADP	_	_	10	case	_	_
 9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
-10	Harmonie	Harmonie	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+10	Harmonie	harmonie	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
 11	municipale	municipal	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
 12	-	-	PUNCT	_	_	4	punct	_	_
 13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	SpaceAfter=No

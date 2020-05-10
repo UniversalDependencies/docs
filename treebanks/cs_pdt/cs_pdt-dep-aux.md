@@ -31,7 +31,7 @@ The following 10 pairs of parts of speech are connected with `aux`: <tt><a href=
 6	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
 7	proto	proto	CCONJ	J^-------------	_	5	cc	5:cc	LId=proto-1|LGloss=(proto;_a_proto,_ale_proto,...)
 8	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	9	case	9:case	LId=k-1
-9	vyplnění	vyplnění	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	5:obl	LDeriv=vyplnit
+9	vyplnění	vyplnění	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	5:obl:k:dat	LDeriv=vyplnit
 10	dotazník	dotazník	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	obj	5:obj	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-732 nodes (4%) are attached to their parents as `amod`.
+1396 nodes (5%) are attached to their parents as `amod`.
 
-595 instances of `amod` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16666666666667.
+1132 instances of `amod` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14469914040115.
 
-The following 10 pairs of parts of speech are connected with `amod`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (697; 95% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `amod`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1323; 95% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (20; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (18; 1% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,26 +29,6 @@ The following 10 pairs of parts of speech are connected with `amod`: <tt><a href
 5	amserau	amser	NOUN	noun	Gender=Masc|Number=Plur	1	obl	_	_
 6	cynhanesyddol	cynhanesyddol	ADJ	pos	Degree=Pos	5	amod	_	SpaceAfter=No
 7	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 amod	color:blue
-1	Mae	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-2	'r	y	DET	art	_	3	det	_	_
-3	rhybudd	rhybudd	NOUN	noun	Gender=Masc|Number=Sing	1	nsubj	_	_
-4	yn	yn	ADP	prep	_	6	case	_	_
-5	ei	ei	PRON	dep	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
-6	le	lle	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	1	obl	_	_
-7	drwy	trwy	ADP	prep	Mutation=SM	8	case	_	_
-8	Gymru	Cymru	PROPN	place	Gender=Fem|Mutation=SM|Number=Sing	6	nmod	_	_
-9	gyfan	cyfan	ADJ	pos	Degree=Pos|Mutation=SM	8	amod	_	SpaceAfter=No
-10	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -71,6 +51,26 @@ The following 10 pairs of parts of speech are connected with `amod`: <tt><a href
 10	oesol	oesol	ADJ	pos	Degree=Pos	9	amod	_	_
 11	Abertawe	Abertawe	PROPN	place	_	8	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 amod	color:blue
+1	Mae	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+2	'r	y	DET	art	_	3	det	_	_
+3	rhybudd	rhybudd	NOUN	noun	Gender=Masc|Number=Sing	1	nsubj	_	_
+4	yn	yn	ADP	prep	_	6	case	_	_
+5	ei	ei	PRON	dep	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
+6	le	lle	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	1	obl	_	_
+7	drwy	trwy	ADP	prep	Mutation=SM	8	case	_	_
+8	Gymru	Cymru	PROPN	place	Gender=Fem|Mutation=SM|Number=Sing	6	nmod	_	_
+9	gyfan	cyfan	ADJ	pos	Degree=Pos|Mutation=SM	8	amod	_	SpaceAfter=No
+10	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

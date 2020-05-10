@@ -24,7 +24,7 @@ The following 37 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 5 7 appos	color:blue
 1	Sultán	sultán	NOUN	SSms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
 2	vyhlásil	vyhlásiť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
-3	povstalcom	povstalec	NOUN	SSmp3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	2	iobj	2:iobj	_
+3	povstalcom	povstalec	NOUN	SSmp3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	2	obl:arg	2:obl:arg:dat	_
 4	svätú	svätý	ADJ	AAfs4x	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
 5	vojnu	vojna	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	2	obj	2:obj	SpaceAfter=No
 6	,	,	PUNCT	Z	_	7	punct	7:punct	_
@@ -62,7 +62,7 @@ The following 37 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	je	byť	AUX	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
 5	centrum	centrum	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	3:nsubj	_
 6	čínskeho	čínsky	ADJ	AAis2x	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	_
-7	biznisu	biznis	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
+7	biznisu	biznis	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod:gen	_
 8	-	-	PUNCT	ZIP	_	9	punct	9:punct	_
 9	Šanghaj	šanghaj	PROPN	SSis1:r	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	appos	5:appos	SpaceAfter=No
 10	.	.	PUNCT	ZIP	_	3	punct	3:punct	_

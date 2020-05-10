@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="sr_set-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.842192).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.841736).
 
 The 1st highest number of forms (1) was observed with the lemma “Ali”: <em>Ali</em>.
 
@@ -70,19 +70,19 @@ The 3rd highest number of forms (1) was observed with the lemma “ali”: <em>a
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="sr_set-dep-cc.html">cc</a></tt> (2900; 87% instances), <tt><a href="sr_set-dep-discourse.html">discourse</a></tt> (150; 5% instances), <tt><a href="sr_set-dep-fixed.html">fixed</a></tt> (107; 3% instances), <tt><a href="sr_set-dep-flat.html">flat</a></tt> (79; 2% instances), <tt><a href="sr_set-dep-advmod.html">advmod</a></tt> (73; 2% instances), <tt><a href="sr_set-dep-mark.html">mark</a></tt> (11; 0% instances), <tt><a href="sr_set-dep-case.html">case</a></tt> (7; 0% instances), <tt><a href="sr_set-dep-orphan.html">orphan</a></tt> (4; 0% instances)
+`CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="sr_set-dep-cc.html">cc</a></tt> (2897; 87% instances), <tt><a href="sr_set-dep-discourse.html">discourse</a></tt> (160; 5% instances), <tt><a href="sr_set-dep-fixed.html">fixed</a></tt> (104; 3% instances), <tt><a href="sr_set-dep-flat.html">flat</a></tt> (76; 2% instances), <tt><a href="sr_set-dep-advmod.html">advmod</a></tt> (73; 2% instances), <tt><a href="sr_set-dep-mark.html">mark</a></tt> (10; 0% instances), <tt><a href="sr_set-dep-case.html">case</a></tt> (7; 0% instances), <tt><a href="sr_set-dep-orphan.html">orphan</a></tt> (4; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1414; 42% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (826; 25% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (416; 12% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (382; 11% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (108; 3% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (78; 2% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (24; 1% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (21; 1% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="sr_set-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt> (5; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1422; 43% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (825; 25% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (416; 12% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (383; 11% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (108; 3% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (73; 2% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (24; 1% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (20; 1% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="sr_set-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (3; 0% instances)
 
-3278 (98%) `CCONJ` nodes are leaves.
+3282 (99%) `CCONJ` nodes are leaves.
 
-48 (1%) `CCONJ` nodes have one child.
+45 (1%) `CCONJ` nodes have one child.
 
-5 (0%) `CCONJ` nodes have two children.
+4 (0%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 5 different relations: <tt><a href="sr_set-dep-fixed.html">fixed</a></tt> (39; 67% instances), <tt><a href="sr_set-dep-punct.html">punct</a></tt> (12; 21% instances), <tt><a href="sr_set-dep-discourse.html">discourse</a></tt> (4; 7% instances), <tt><a href="sr_set-dep-advmod.html">advmod</a></tt> (2; 3% instances), <tt><a href="sr_set-dep-flat.html">flat</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes are attached using 5 different relations: <tt><a href="sr_set-dep-fixed.html">fixed</a></tt> (38; 72% instances), <tt><a href="sr_set-dep-punct.html">punct</a></tt> (11; 21% instances), <tt><a href="sr_set-dep-discourse.html">discourse</a></tt> (2; 4% instances), <tt><a href="sr_set-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="sr_set-dep-flat.html">flat</a></tt> (1; 2% instances)
 
-Children of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (21; 36% instances), <tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> (12; 21% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (12; 21% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (7; 12% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt> (4; 7% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 3% instances)
+Children of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (20; 38% instances), <tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> (11; 21% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (10; 19% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (6; 11% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt> (4; 8% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 4% instances)
 

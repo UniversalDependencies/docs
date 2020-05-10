@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>-ci</em> (<tt><a href="fr_gsd-pos-PAR
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.666667 (the average of all parts of speech is 1.302679).
+The form / lemma ratio of `PART` is 1.666667 (the average of all parts of speech is 1.306188).
 
 The 1st highest number of forms (2) was observed with the lemma “ci”: <em>-ci, ci</em>.
 

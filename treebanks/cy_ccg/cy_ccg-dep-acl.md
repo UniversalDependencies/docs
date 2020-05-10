@@ -9,55 +9,53 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="cy_ccg-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-280 nodes (2%) are attached to their parents as `acl`.
+531 nodes (2%) are attached to their parents as `acl`.
 
-267 instances of `acl` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.
+511 instances of `acl` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.96045197740113.
 
-The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (232; 83% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (29; 10% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (11; 4% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `acl`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (446; 84% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (48; 9% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (15; 3% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 9 acl	color:blue
-1	Rhaid	rhaid	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
-2	bod	bod	AUX	verbnoun	Number=Sing|VerbForm=Vnoun	4	cop	_	_
-3	yn	yn	PART	pred	_	4	case:pred	_	_
-4	aelod	aelod	NOUN	noun	Gender=Masc|Number=Sing	1	nmod	_	_
-5	o	o	ADP	prep	_	7	case	_	SpaceAfter=No
-6	'r	y	DET	art	_	7	det	_	_
-7	Urdd	urdd	NOUN	noun	Gender=Fem|Number=Sing	4	nmod	_	_
-8	i	i	ADP	prep	_	9	mark	_	_
-9	gystadlu	cystadlu	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	4	acl	_	SpaceAfter=No
-10	.	.	PUNCT	punct	_	1	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 acl	color:blue
+1	Mae	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	SpaceAfter=No
+2	'n	yn	PART	pred	_	3	case:pred	_	_
+3	rhaid	rhaid	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
+4	i	i	ADP	prep	_	5	case	_	_
+5	ti	ti	PRON	indep	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+6	ddod	dod	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	3	acl	_	_
+7	cyn	cyn	ADP	prep	_	8	case	_	_
+8	yfory	yfory	ADV	adv	_	6	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\n
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 acl	color:blue
-1	yr	y	PART	aff	_	2	advmod	_	_
-2	oeddet	bod	VERB	verb	Mood=Ind|Number=Sing|Person=2|Tense=Imp	0	root	_	_
-3	yn	yn	AUX	impf	_	4	aux	_	_
-4	gofyn	gofyn	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
-5	pryd	pryd	ADV	adv	_	7	advmod	_	_
-6	y	y	PART	aff	_	7	advmod	_	_
-7	byddai	bod	VERB	verb	Mood=Cnd|Number=Sing|Person=3|Tense=Imp	4	acl	_	SpaceAfter=No
-8	'r	y	DET	art	_	9	det	_	_
-9	cyngor	cyngor	NOUN	noun	Gender=Masc|Number=Sing	7	nsubj	_	_
-10	partneriaeth	partneriaeth	NOUN	noun	Gender=Fem|Number=Sing	9	nmod	_	_
-11	yn	yn	AUX	impf	_	12	aux	_	_
-12	cael	cael	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	9	xcomp	_	_
-13	ei	ei	PRON	dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
-14	sefydlu	sefydlu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	12	ccomp	_	SpaceAfter=No
-15	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\n
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 9 acl	color:blue
+1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	gan	gan	ADP	prep	_	4	case	_	_
+3	y	y	DET	art	_	4	det	_	_
+4	ddinas	dinas	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	1	obl	_	_
+5	stryd	stryd	NOUN	noun	Gender=Fem|Number=Sing	1	nsubj	_	_
+6	fawr	mawr	ADJ	pos	Degree=Pos|Mutation=SM	5	amod	_	_
+7	hir	hir	ADJ	pos	Degree=Pos	5	amod	_	_
+8	lle	lle	ADV	adv	_	9	advmod	_	_
+9	mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	acl	_	_
+10	nifer	nifer	NOUN	noun	Gender=Masc|Number=Sing	9	nsubj	_	_
+11	o	o	ADP	prep	_	12	case	_	_
+12	siopau	siop	NOUN	noun	Gender=Masc|Number=Plur	10	nmod	_	_
+13	bach	bach	ADJ	pos	Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+14	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

@@ -93,5 +93,6 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> VERB</tt> (613; 68%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (286; 67%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt>]--> PRON</tt> (4; 67%),
-<tt>VERB --[<tt><a href="lt_alksnis-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (3; 75%).
+<tt>VERB --[<tt><a href="lt_alksnis-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (3; 75%),
+<tt>VERB --[<tt><a href="lt_alksnis-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%).
 

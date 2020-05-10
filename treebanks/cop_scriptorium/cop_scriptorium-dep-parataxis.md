@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-462 nodes (1%) are attached to their parents as `parataxis`.
+480 nodes (1%) are attached to their parents as `parataxis`.
 
-460 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.40909090909091.
+478 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.35.
 
-The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (364; 79% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (18; 4% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (17; 4% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (13; 3% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (10; 2% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (374; 78% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (19; 4% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (19; 4% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (14; 3% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (12; 3% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,34 +45,6 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 9 parataxis	color:blue
-1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=ⲛ̄ⲧⲉⲣⲉ
-2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Orig=ⲓ̈
-3	ⲙⲟϣⲧ	ⲙⲟϣⲧ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲙⲟϣⲧ︤
-4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Orig=ϥ︥
-5	ⲛ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲛ̄
-6	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	7	det	_	_
-7	ⲥⲟⲡ	ⲥⲟⲡ	NOUN	N	_	3	obl	_	_
-8	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	9	det	_	_
-9	ⲏⲓ	ⲏⲓ	NOUN	N	_	3	parataxis	_	Orig=ⲏⲓ̈
-10	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	12	aux	_	Orig=ⲙ̄ⲡ
-11	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
-12	ϭⲛ	ϭⲓⲛⲉ	VERB	V	VerbForm=Fin	9	parataxis	_	Orig=ϭ︤ⲛ︥
-13	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	12	obj	_	_
-14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	Orig=ⲛ̄
-15	ⲉⲓⲇⲱⲗⲟⲛ	ⲉⲓⲇⲱⲗⲟⲛ	NOUN	N	_	13	nmod	_	_
-16	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	17	case	_	Orig=ⲛ̄ϩⲏⲧ︤
-17	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	Orig=ϥ︥
-18	.	.	PUNCT	PUNCT	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 7	bgColor:blue
@@ -96,6 +68,34 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 16	ⲥⲁ	ⲥⲁ	NOUN	N	_	12	obl	_	_
 17	ⲛϩⲟⲩⲛ	ⲛϩⲟⲩⲛ	ADV	ADV	_	16	advmod	_	_
 18	·	·	PUNCT	PUNCT	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 9 parataxis	color:blue
+1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=ⲛ̄ⲧⲉⲣⲉ
+2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Orig=ⲓ̈
+3	ⲙⲟϣⲧ	ⲙⲟϣⲧ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲙⲟϣⲧ︤
+4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Orig=ϥ︥
+5	ⲛ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲛ̄
+6	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	7	det	_	_
+7	ⲥⲟⲡ	ⲥⲟⲡ	NOUN	N	_	3	obl	_	_
+8	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	9	det	_	_
+9	ⲏⲓ	ⲏⲓ	NOUN	N	_	3	parataxis	_	Orig=ⲏⲓ̈
+10	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	12	aux	_	Orig=ⲙ̄ⲡ
+11	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+12	ϭⲛ	ϭⲓⲛⲉ	VERB	V	VerbForm=Fin	9	parataxis	_	Orig=ϭ︤ⲛ︥
+13	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	12	obj	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	Orig=ⲛ̄
+15	ⲉⲓⲇⲱⲗⲟⲛ	ⲉⲓⲇⲱⲗⲟⲛ	NOUN	N	_	13	nmod	_	_
+16	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	17	case	_	Orig=ⲛ̄ϩⲏⲧ︤
+17	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	Orig=ϥ︥
+18	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-NUM.ht
 
 2 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ru_taiga-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `NUM` tokens may have the following values of `Typo`:
 

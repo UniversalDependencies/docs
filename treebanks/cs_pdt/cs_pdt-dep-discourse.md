@@ -53,7 +53,7 @@ The following 29 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 6 1 discourse	color:blue
 1	Tak	tak	ADV	Db-------------	PronType=Dem	6	discourse	6:discourse	LId=tak-3
 2	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	3:case	LId=na-1
-3	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obl:arg	6:obl:arg	_
+3	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obl:arg	6:obl:arg:na:acc	_
 4	si	se	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	6	expl:pv	6:expl:pv	LGloss=(zvr._zájmeno/částice)
 5	ještě	ještě	ADV	Db-------------	_	6	advmod	6:advmod	_
 6	počkáte	počkat	VERB	VB-P---2P-AA---	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
@@ -63,7 +63,7 @@ The following 29 pairs of parts of speech are connected with `discourse`: <tt><a
 10	uvidíte	uvidět	VERB	VB-P---2P-AA---	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	0:root|6:conj	_
 11	tak	tak	ADV	Db-------------	PronType=Dem	13	advmod:emph	13:advmod:emph	LId=tak-3
 12	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	13	case	13:case	LId=v-1
-13	padesáti	padesát	NUM	Cn-P6----------	Case=Loc|Number=Plur|NumForm=Word|NumType=Card	10	obl	10:obl	SpaceAfter=No|LNumValue=50
+13	padesáti	padesát	NUM	Cn-P6----------	Case=Loc|Number=Plur|NumForm=Word|NumType=Card	10	obl	10:obl:v:loc	SpaceAfter=No|LNumValue=50
 14	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
 
 ~~~

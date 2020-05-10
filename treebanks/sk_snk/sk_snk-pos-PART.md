@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Slovak-SNK: POS Tags: `PART`
 
-There are 148 `PART` lemmas (1%), 146 `PART` types (1%) and 1928 `PART` tokens (2%).
+There are 147 `PART` lemmas (1%), 145 `PART` types (1%) and 1916 `PART` tokens (2%).
 Out of 17 observed tags, the rank of `PART` is: 8 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>aj, však, nie, len, už, a, až, iba, ani, ešte</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>aj</em> (<tt><a href="sk_snk-pos-PART
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 0.986486 (the average of all parts of speech is 1.801856).
+The form / lemma ratio of `PART` is 0.986395 (the average of all parts of speech is 1.801856).
 
 The 1st highest number of forms (2) was observed with the lemma “tuším”: <em>TUŠÍM, Tuším</em>.
 
@@ -63,7 +63,7 @@ The 2nd highest number of forms (2) was observed with the lemma “áno”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “I”: <em>I</em>.
 
-`PART` occurs with 2 features: <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt> (13; 1% instances), <tt><a href="sk_snk-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`PART` occurs with 2 features: <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt> (1; 0% instances), <tt><a href="sk_snk-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
 `PART` occurs with 2 feature-value pairs: `Mood=Cnd`, `Typo=Yes`
 
@@ -74,11 +74,11 @@ Examples: <em>aj, však, nie, len, už, a, až, iba, ani, ešte</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 15 different relations: <tt><a href="sk_snk-dep-advmod-emph.html">advmod:emph</a></tt> (858; 45% instances), <tt><a href="sk_snk-dep-advmod.html">advmod</a></tt> (764; 40% instances), <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (97; 5% instances), <tt><a href="sk_snk-dep-root.html">root</a></tt> (75; 4% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (67; 3% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (35; 2% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (10; 1% instances), <tt><a href="sk_snk-dep-fixed.html">fixed</a></tt> (7; 0% instances), <tt><a href="sk_snk-dep-orphan.html">orphan</a></tt> (6; 0% instances), <tt><a href="sk_snk-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="sk_snk-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 15 different relations: <tt><a href="sk_snk-dep-advmod-emph.html">advmod:emph</a></tt> (858; 45% instances), <tt><a href="sk_snk-dep-advmod.html">advmod</a></tt> (764; 40% instances), <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (97; 5% instances), <tt><a href="sk_snk-dep-root.html">root</a></tt> (75; 4% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (67; 3% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (23; 1% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (10; 1% instances), <tt><a href="sk_snk-dep-fixed.html">fixed</a></tt> (7; 0% instances), <tt><a href="sk_snk-dep-orphan.html">orphan</a></tt> (6; 0% instances), <tt><a href="sk_snk-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="sk_snk-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (791; 41% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (453; 23% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (164; 9% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (159; 8% instances),  (75; 4% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (73; 4% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (65; 3% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (63; 3% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (45; 2% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (30; 2% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="sk_snk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (782; 41% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (452; 24% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (162; 8% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (159; 8% instances),  (75; 4% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (73; 4% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (65; 3% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (63; 3% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (45; 2% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (30; 2% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="sk_snk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-1767 (92%) `PART` nodes are leaves.
+1755 (92%) `PART` nodes are leaves.
 
 72 (4%) `PART` nodes have one child.
 

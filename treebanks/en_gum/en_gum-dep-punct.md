@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13149 nodes (13%) are attached to their parents as `punct`.
+14941 nodes (13%) are attached to their parents as `punct`.
 
-8076 instances of `punct` (61%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.09377138945927.
+9101 instances of `punct` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.01512616290744.
 
-The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (6067; 46% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (2918; 22% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (1368; 10% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (932; 7% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (860; 7% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (415; 3% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (143; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (119; 1% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (91; 1% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (90; 1% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (46; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (29; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (28; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (22; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (6754; 45% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (3214; 22% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (1569; 11% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (1347; 9% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (933; 6% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (464; 3% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (154; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (130; 1% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (109; 1% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (100; 1% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (54; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (32; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (30; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (25; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -22,16 +22,16 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 11 punct	color:blue
-1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	Entity=(abstract-33(person-3)
 2	lack	lack	NOUN	NN	Number=Sing	7	nsubj:pass	_	_
 3	of	of	ADP	IN	_	4	case	_	_
-4	moderation	moderation	NOUN	NN	Number=Sing	2	nmod	_	_
+4	moderation	moderation	NOUN	NN	Number=Sing	2	nmod	_	Entity=(abstract-13)abstract-33)
 5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
 6	not	not	PART	RB	Polarity=Neg	7	advmod	_	_
 7	restricted	restrict	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-8	to	to	ADP	TO	_	10	case	_	_
-9	physical	physical	ADJ	JJ	Degree=Pos	10	amod	_	_
-10	exercise	exercise	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No
+8	to	to	ADP	IN	_	10	case	_	_
+9	physical	physical	ADJ	JJ	Degree=Pos	10	amod	_	Entity=(event-34
+10	exercise	exercise	NOUN	NN	Number=Sing	7	obl	_	Entity=event-34)|SpaceAfter=No
 11	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~
@@ -44,19 +44,19 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 9	fgColor:white
 # visual-style 9 7 punct	color:blue
 1	In	in	ADP	IN	_	3	case	_	_
-2	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
-3	memory	memory	NOUN	NN	Number=Sing	5	obl	_	_
-4	Byron	Byron	PROPN	NNP	Number=Sing	5	nsubj	_	_
+2	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	Entity=(abstract-93(person-87)
+3	memory	memory	NOUN	NN	Number=Sing	5	obl	_	Entity=abstract-93)
+4	Byron	Byron	PROPN	NNP	Number=Sing	5	nsubj	_	Entity=(person-3)
 5	composed	compose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-6	Thyrza	Thyrza	PROPN	NNP	Number=Sing	5	obj	_	SpaceAfter=No
+6	Thyrza	Thyrza	PROPN	NNP	Number=Sing	5	obj	_	Entity=(abstract-94)|SpaceAfter=No
 7	,	,	PUNCT	,	_	9	punct	_	_
-8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	Entity=(abstract-94
 9	series	series	NOUN	NN	Number=Sing	6	appos	_	_
 10	of	of	ADP	IN	_	11	case	_	_
-11	elegies	elegy	NOUN	NNS	Number=Plur	9	nmod	_	SpaceAfter=No
+11	elegies	elegy	NOUN	NNS	Number=Plur	9	nmod	_	Entity=abstract-94)|SpaceAfter=No
 12	.	.	PUNCT	.	_	5	punct	_	_
 13	[	[	PUNCT	-LSB-	_	14	punct	_	SpaceAfter=No
-14	25	@card@	NUM	CD	NumType=Card	5	dep	_	SpaceAfter=No
+14	25	25	NUM	CD	NumType=Card	5	dep	_	Entity=(abstract-95)|SpaceAfter=No
 15	]	]	PUNCT	-RSB-	_	14	punct	_	_
 
 ~~~
@@ -68,9 +68,9 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 punct	color:blue
-1	Digital	Digital	PROPN	NNP	Number=Sing	2	amod	_	_
-2	Humanities	Humanities	PROPN	NNP	Number=Sing	3	compound	_	_
-3	Clinics	Clinic	PROPN	NNPS	Number=Plur	0	root	_	_
+1	Digital	Digital	PROPN	NNP	Number=Sing	2	amod	_	Entity=(place-1(abstract-2
+2	Humanities	Humanities	PROPN	NNP	Number=Sing	3	compound	_	Entity=abstract-2)
+3	Clinics	Clinic	PROPN	NNPS	Number=Plur	0	root	_	Entity=place-1)
 4	-	-	PUNCT	:	_	3	punct	_	_
 
 ~~~

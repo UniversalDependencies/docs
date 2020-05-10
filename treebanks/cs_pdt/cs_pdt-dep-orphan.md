@@ -23,12 +23,12 @@ The following 101 pairs of parts of speech are connected with `orphan`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 5 orphan	color:blue
 1	Inzeráty	inzerát	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	0	root	0:root	SpaceAfter=No
-2	,	,	PUNCT	Z:-------------	_	3	punct	3:punct	_
-3	cedule	cedule	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	1	conj	0:root|1:conj	SpaceAfter=No
-4	,	,	PUNCT	Z:-------------	_	3	punct	3:punct	_
-5	aukce	aukce	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	3	orphan	3:orphan	_
+2	,	,	PUNCT	Z:-------------	_	3	punct	1.1:punct	_
+3	cedule	cedule	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	1	conj	1.1:dep	SpaceAfter=No
+4	,	,	PUNCT	Z:-------------	_	3	punct	1.1:punct	_
+5	aukce	aukce	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	3	orphan	1.1:dep	_
 6	bez	bez	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	7:case	LId=bez-1
-7	šance	šance	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	nmod	5:nmod	_
+7	šance	šance	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	nmod	5:nmod:bez:gen	_
 
 ~~~
 
@@ -40,11 +40,11 @@ The following 101 pairs of parts of speech are connected with `orphan`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 6 orphan	color:blue
 1	Často	často	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	0	root	0:root	_
-2	nuceně	nuceně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	1	conj	0:root|1:conj	SpaceAfter=No|LDeriv=nutit
-3	,	,	PUNCT	Z:-------------	_	2	punct	2:punct	_
+2	nuceně	nuceně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	1	conj	1.1:advmod	SpaceAfter=No|LDeriv=nutit
+3	,	,	PUNCT	Z:-------------	_	2	punct	1.1:punct	_
 4	bez	bez	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	6:case	LId=bez-1
 5	jiného	jiný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	6:amod	_
-6	výběru	výběr	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	2	orphan	2:orphan	SpaceAfter=No
+6	výběru	výběr	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	2	orphan	1.1:dep	SpaceAfter=No
 7	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -59,10 +59,10 @@ The following 101 pairs of parts of speech are connected with `orphan`: <tt><a h
 1	*	*	PUNCT	Z:-------------	_	2	punct	2:punct	_
 2	Délka	délka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	0:root	_
 3	tepelných	tepelný	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	4	amod	4:amod	_
-4	sítí	síť	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	nmod	2:nmod	_
-5	-	-	PUNCT	Z:-------------	_	6	punct	6:punct	_
-6	parovody	parovod	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	2	conj	0:root|2:conj	_
-7	152	152	NUM	C=-------------	NumForm=Digit|NumType=Card	6	orphan	6:orphan	_
+4	sítí	síť	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	nmod	2:nmod:gen	_
+5	-	-	PUNCT	Z:-------------	_	6	punct	4.1:punct	_
+6	parovody	parovod	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	2	conj	4.1:dep	_
+7	152	152	NUM	C=-------------	NumForm=Digit|NumType=Card	6	orphan	4.1:dep	_
 8	km	km`kilometr	NOUN	NNIXX-----A---8	Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos	7	nmod	7:nmod	LId=km`kilometr-1
 
 ~~~

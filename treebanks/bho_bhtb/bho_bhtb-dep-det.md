@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-118 nodes (2%) are attached to their parents as `det`.
+174 nodes (3%) are attached to their parents as `det`.
 
-116 instances of `det` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.64406779661017.
+171 instances of `det` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.59770114942529.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (82; 69% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (18; 15% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (6; 5% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (3; 3% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (123; 71% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (26; 15% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (6; 3% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -30,9 +30,9 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 6	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	5	case	_	_
 7	नेह	नेह	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
 8	नेवता	नेव	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	SpacesAfter=\n
-9	दीहल	दीहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+9	दीहल	दे	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 10	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
-11	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
+11	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
 12	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	9	aux	_	_
 13	।	।	PUNCT	RD_PUNC	_	9	punct	_	_
 
@@ -53,9 +53,9 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 6	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	5	case	_	_
 7	नेह	नेह	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
 8	नेवता	नेव	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	SpacesAfter=\n
-9	दीहल	दीहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+9	दीहल	दे	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 10	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
-11	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
+11	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
 12	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	9	aux	_	_
 13	।	।	PUNCT	RD_PUNC	_	9	punct	_	_
 
@@ -78,7 +78,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 8	त	त	PART	RP_RPD	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	compound	_	_
 9	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	14	acl	_	_
 10	गलत	गलत	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	compound	_	_
-11	होखे	होखा	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	nmod	_	_
+11	होखे	हो	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	nmod	_	_
 12	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	11	case	_	_
 13	पूरा	पूरा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	14	amod	_	_
 14	अनेसा	अनेसा	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_

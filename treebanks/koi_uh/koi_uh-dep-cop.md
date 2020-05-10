@@ -8,12 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (1%) are attached to their parents as `cop`.
+4 nodes (1%) are attached to their parents as `cop`.
 
-2 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+4 instances of `cop` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25.
 
-The following 2 pairs of parts of speech are connected with `cop`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 50% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (2; 50% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 25% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 25% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 cop	color:blue
+1	Вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	3	cop	_	GTtags=V,IV,Ind,Prt1,Sg3
+2	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj:cop	_	GTtags=Pron,Pers,Sg3,Nom
+3	лажмытик	лажмытик	ADJ	_	_	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB
+5	пӧввезӧн	пӧв	NOUN	N	Case=Ins|Number=Plur	6	obl	_	GTtags=N,Pl,Ins
+6	дорӧм	дорны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	GTtags=N,Sem/Inanim,Sg,Nom
+7	ӧшына	ӧшын	NOUN	N	Derivation=ProprietiveMod|Number=Sing	3	conj	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A|SpaceAfter=No
+8	,	,	PUNCT	CLB	_	9	punct	_	GTtags=CLB
+9	крышатӧм	крыша	NOUN	_	_	3	conj	_	SpaceAfter=No
+10	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
+
+~~~
 
 
 ~~~ conllu
@@ -52,10 +72,10 @@ The following 2 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	пондыліс	пондывны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
 3	овны	овны	AUX	_	VerbForm=Inf	4	cop	_	GTtags=Inf
-4	куриттӧг	куритны	VERB	_	Case=Car|VerbForm=Conv	2	xcomp	_	GTtags=Conv,Car
+4	куриттӧг	куритны	VERB	_	Derivation=VCar|VerbForm=Conv	2	xcomp	_	GTtags=Conv,Car
 5	да	да	CCONJ	_	_	7	cc	_	_
 6	вина	вина	NOUN	_	Case=Nom|Number=Sing	7	obj	_	GTtags=Sg,Nom
-7	ютӧг	юны	VERB	_	Case=Car|VerbForm=Conv	4	conj	_	GTtags=Conv,Car|SpaceAfter=No
+7	ютӧг	юны	VERB	_	Derivation=VCar|VerbForm=Conv	4	conj	_	GTtags=Conv,Car|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

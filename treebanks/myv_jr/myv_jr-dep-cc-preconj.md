@@ -44,25 +44,23 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 3	«	«	PUNCT	PUNCT	_	4	punct	_	GTtags=LEFT|SpaceAfter=No
 4	троицясь	троиця	NOUN	N	Case=Nom|Definite=Def|Derivation=NomAg|Number=Sing	7	nsubj	_	GTtags=NomAg,Sg,Nom,Def|SpaceAfter=No
 5	»	»	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT
-6	пек	пек	ADV	Adv	AdvType=Deg	7	advmod	_	GTtags=Degree
-7	мазы	мазы	ADJ	A	_	0	root	_	_
-8	_	оль	AUX	Cop	Number[subj]=Sing|Person[subj]=3|Tense=Pres	7	cop	_	GTtags=Prs,ScSg3
-9	,	,	PUNCT	CLB	_	7	punct	_	_
-10	эли	эли	CCONJ	CC	_	13	cc	_	_
-11	пек	пек	ADV	Adv	AdvType=Deg	12	advmod	_	GTtags=Degree
-12	вадря	вадря	ADJ	A	_	7	conj	_	_
-13	_	оль	AUX	Cop	Number[subj]=Sing|Person[subj]=3|Tense=Pres	12	cop	_	GTtags=Prs,ScSg3
-14	он	он	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	15	obj	_	GTtags=Sg,Nom,Indef
-15	несь	неемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=2	7	parataxis	_	GTtags=TV,Ind,Prt1,ScSg3
-16	Федоров	Фёдоров	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	15	nsubj	_	GTtags=Prop,Sur_Mal,Sg,Nom,Indef|SpaceAfter=No
-17	,	,	PUNCT	CLB	_	16	punct	_	_
-18	эли	эли	CCONJ	CC	_	23	cc	_	_
-19	мезень	мезе	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing|PronType=Ind	23	obl	_	GTtags=Indef,SP,Gen,Indef
-20	кувалт	кувалт	ADP	Adp	_	19	case	_	_
-21	как	гак	PART	PART	Derivation=PronGak	19	fixed	_	GTtags=Der/Indef_Гак
-22	седеезэ	седей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	23	nsubj	_	GTtags=Sg,Nom,PxSg3
-23	палы	паломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	7	conj	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
-24	?	?	PUNCT	CLB	_	7	punct	_	_
+6	пек	пек	ADV	Adv	AdvType=Deg	7	advmod:deg	_	GTtags=Degree
+7	мазы	мазы	ADJ	A	Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Prs,ScSg3|SpaceAfter=No
+8	,	,	PUNCT	CLB	_	7	punct	_	_
+9	эли	эли	CCONJ	CC	_	13	cc	_	_
+10	пек	пек	ADV	Adv	AdvType=Deg	11	advmod:deg	_	GTtags=Degree
+11	вадря	вадря	ADJ	A	Number[subj]=Sing|Person[subj]=3|Tense=Pres	12	amod	_	GTtags=Prs,ScSg3
+12	он	он	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	13	obj	_	GTtags=Sg,Nom,Indef
+13	несь	неемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	7	conj	_	GTtags=TV,Ind,Prt1,ScSg3
+14	Федоров	Фёдоров	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	13	nsubj	_	GTtags=Prop,Sur_Mal,Sg,Nom,Indef|SpaceAfter=No
+15	,	,	PUNCT	CLB	_	21	punct	_	_
+16	эли	эли	CCONJ	CC	_	21	cc	_	_
+17	мезень	мезе	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing|PronType=Ind	21	obl	_	GTtags=Indef,SP,Gen,Indef
+18	кувалт	кувалт	ADP	Adp	_	17	case	_	_
+19	как	гак	PART	PART	Derivation=PronGak	17	fixed	_	GTtags=Der/Indef_Гак
+20	седеезэ	седей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	21	nsubj	_	GTtags=Sg,Nom,PxSg3
+21	палы	паломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	7	conj	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
+22	?	?	PUNCT	CLB	_	7	punct	_	_
 
 ~~~
 
@@ -74,7 +72,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 3 cc:preconj	color:blue
 1	Сельмезэнзэ	сельме	NOUN	N	Case=Ill|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=SP,Ill,PxSg3
-2	понгонесь	понгонемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
+2	понгонесь	понгонемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 3	то	то	ADV	Adv	AdvType=Tim	4	cc:preconj	_	GTtags=Sem/Time
 4	кедьге	кедьге	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	9	punct	_	_

@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `xcomp:ds`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 5 xcomp:ds	color:blue
 1	Сынь	сынь	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Pl3,Nom
-2	тонавтсть	тонавтомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3
+2	тонавтсть	тонавтомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3
 3	эйсэнь	эйсэ	ADP	Adp	Case=Ine|Number[psor]=Sing|Person[psor]=1	2	obj	_	GTtags=Ine,PxSg1
 4	мазычинть	мазычинть	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	obj	_	GTtags=Sg,Gen,Def
 5	редямо	редямс	VERB	V	Case=Loc|Valency=2|VerbForm=Inf	2	xcomp:ds	_	GTtags=TV,Inf,Loc|SpaceAfter=No
@@ -42,9 +42,9 @@ The following 2 pairs of parts of speech are connected with `xcomp:ds`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 xcomp:ds	color:blue
-1	Окойники	окойники	ADV	Adv	AdvType=Tim	3	advmod	_	GTtags=Sem/Time|SpaceAfter=No
+1	Окойники	окойники	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
-3	велявтсть	велявтомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3
+3	велявтсть	велявтомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3
 4	лей	лей	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	obl	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Indef
 5	лангсто	ланго	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	4	case	_	GTtags=Relat,SP,Ela,Indef
 6	шлямо	шлямо	NOUN	N	Case=Loc|Valency=1|VerbForm=Inf	7	xcomp:ds	_	GTtags=IV,Inf,Loc

@@ -264,13 +264,13 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3658; 99%),
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-acl.html">acl</a></tt>]--> VERB</tt> (1587; 76%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-acl.html">acl</a></tt>]--> VERB</tt> (1532; 84%),
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1259; 59%),
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-det.html">det</a></tt>]--> DET</tt> (896; 100%),
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (518; 55%),
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (493; 66%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (651; 52%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (499; 56%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (488; 67%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (413; 98%),
 <tt>ADJ --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> ADJ</tt> (278; 96%),
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-obl.html">obl</a></tt>]--> NOUN</tt> (221; 53%),
-<tt>ADJ --[<tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (210; 97%).
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-obl.html">obl</a></tt>]--> NOUN</tt> (221; 53%).
 

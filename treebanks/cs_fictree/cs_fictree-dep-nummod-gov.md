@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 5	toho	ten	DET	PDIS2----------	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	8	det	8:det	_
 6	"	"	PUNCT	Z:-------------	_	8	punct	8:punct	SpaceAfter=No
 7	odpadního	odpadní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	8	amod	8:amod	_
-8	materiálu	materiál	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	10	obj	10:obj	SpaceAfter=No
+8	materiálu	materiál	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	10	obl:arg	10:obl:arg:gen	SpaceAfter=No
 9	"	"	PUNCT	Z:-------------	_	8	punct	8:punct	_
 10	využilo	využít	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	10	punct	10:punct	_

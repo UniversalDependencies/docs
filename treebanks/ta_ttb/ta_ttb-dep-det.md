@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 6	fgColor:white
 # visual-style 6 5 det	color:blue
 1	கடந்த	கட	ADJ	JJ-------	_	2	amod	2:amod	Translit=kaṭanta|LTranslit=kaṭa
-2	வாரம்	வாரம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl	Translit=vāram|LTranslit=vāram
+2	வாரம்	வாரம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl:nom	Translit=vāram|LTranslit=vāram
 3	ஜெர்மானிய	ஜெர்மனி	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=jermāniya|LTranslit=jermani
 4	அரசு	அரசு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	Translit=aracu|LTranslit=aracu
 5	ஒரு	ஒரு	DET	DD-------	_	6	det	6:det	Translit=oru|LTranslit=oru
@@ -40,11 +40,11 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
-1	உலகின்	உலகம்	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=ulakin|LTranslit=ulakam
+1	உலகின்	உலகம்	NOUN	NNG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod:gen	Translit=ulakin|LTranslit=ulakam
 2	மிகச்	மிக	DET	QQ-------	NumType=Card	3	det	3:det	Translit=mikac|LTranslit=mika
 3	சிறந்த	சிறந்த	ADJ	JJ-------	_	4	amod	4:amod	Translit=ciranta|LTranslit=ciranta
-4	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	5	nmod	5:nmod	Translit=nāṭukaḷ|LTranslit=nāṭu
-5	பட்டியலில்	பட்டியல்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	9	obl	9:obl	Translit=paṭṭiyalil|LTranslit=paṭṭiyal
+4	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	5	nmod	5:nmod:nom	Translit=nāṭukaḷ|LTranslit=nāṭu
+5	பட்டியலில்	பட்டியல்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	9	obl	9:obl:loc	Translit=paṭṭiyalil|LTranslit=paṭṭiyal
 6	இந்தியாவுக்கு	இந்தியா	PROPN	NED-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	9	nsubj	9:nsubj	Translit=intiyāvukku|LTranslit=intiyā
 7	78வது	78	ADJ	Uy-------	NumType=Ord	8	amod	8:amod	Translit=78vatu|LTranslit=78
 8	இடம்	இடம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	obj	9:obj	Translit=iṭam|LTranslit=iṭam
@@ -63,12 +63,12 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3 1 det	color:blue
 1	இந்த	இந்த	DET	DD-------	_	3	det	3:det	Translit=inta|LTranslit=inta
 2	இரு	இரு	NUM	Ux-------	NumType=Card	3	nummod	3:nummod	Translit=iru|LTranslit=iru
-3	இடங்களுக்கு	இடம்	PROPN	NED-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	12	obl	12:obl	Translit=iṭaṅkaḷukku|LTranslit=iṭam
-4	கனடா	கனடா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	nmod	9:nmod	SpaceAfter=No|Translit=kanaṭā|LTranslit=kanaṭā
+3	இடங்களுக்கு	இடம்	PROPN	NED-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	12	obl	12:obl:dat	Translit=iṭaṅkaḷukku|LTranslit=iṭam
+4	கனடா	கனடா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	nmod	9:nmod:nom	SpaceAfter=No|Translit=kanaṭā|LTranslit=kanaṭā
 5	,	,	PUNCT	Z:-------	PunctType=Comm	6	punct	6:punct	Translit=,|LTranslit=,
-6	ஜெர்மனி	ஜெர்மனி	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	conj	4:conj|9:nmod	SpaceAfter=No|Translit=jermani|LTranslit=jermani
+6	ஜெர்மனி	ஜெர்மனி	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	conj	4:conj|9:nmod:nom	SpaceAfter=No|Translit=jermani|LTranslit=jermani
 7	,	,	PUNCT	Z:-------	PunctType=Comm	8	punct	8:punct	Translit=,|LTranslit=,
-8	போர்ச்சுக்கல்	போர்ச்சுக்கல்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	conj	4:conj|9:nmod	Translit=pōrccukkal|LTranslit=pōrccukkal
+8	போர்ச்சுக்கல்	போர்ச்சுக்கல்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	conj	4:conj|9:nmod:nom	Translit=pōrccukkal|LTranslit=pōrccukkal
 9	ஆகிய	ஆகு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	11	amod	11:amod	Translit=ākiya|LTranslit=āku
 10	3	3	NUM	U=-------	NumForm=Digit	11	nummod	11:nummod	Translit=3|LTranslit=3
 11	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	12	nsubj	12:nsubj	Translit=nāṭukaḷ|LTranslit=nāṭu

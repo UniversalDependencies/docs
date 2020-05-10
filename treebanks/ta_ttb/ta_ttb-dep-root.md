@@ -37,7 +37,7 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 6 root	color:blue
-1	கிழக்கு	கிழக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	2:nmod	Translit=kilakku|LTranslit=kilakku
+1	கிழக்கு	கிழக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	2:nmod:nom	Translit=kilakku|LTranslit=kilakku
 2	ஆசியா	ஆசியா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obj	3:obj	Translit=āciyā|LTranslit=āciyā
 3	குறித்த	குறி	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	4	amod	4:amod	Translit=kuritta|LTranslit=kuri
 4	பேச்சுவார்த்தை	பேச்சுவார்த்தை	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	Translit=pēccuvārttai|LTranslit=pēccuvārttai
@@ -62,7 +62,7 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 3	இன்று	இன்று	ADV	AA-------	_	4	advmod	4:advmod	Translit=inru|LTranslit=inru
 4	வெளியிட்ட்	வெளியிடு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	5	advcl	5:advcl	Translit=veḷiyiṭṭ|LTranslit=veḷiyiṭu
 5	உள்ள	உள்	ADJ	Jd-T----A	Polarity=Pos|VerbForm=Part	6	amod	6:amod	Translit=uḷḷa|LTranslit=uḷ
-6	அறிக்கையில்	அறிக்கை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl	Translit=arikkaiyil|LTranslit=arikkai
+6	அறிக்கையில்	அறிக்கை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl:loc	Translit=arikkaiyil|LTranslit=arikkai
 7	கூறியிருப்பத்	கூறு	AUX	VZNF3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Ger|Voice=Act	0	root	0:root	Translit=kūriyiruppat|LTranslit=kūru
 8	ஆவது	ஆவது	PART	Tl-------	_	7	advmod:emph	7:advmod:emph	Translit=āvatu|LTranslit=āvatu
 9	:	:	PUNCT	Z:-------	PunctType=Comm	7	punct	7:punct	SpaceAfter=No|Translit=:|LTranslit=:

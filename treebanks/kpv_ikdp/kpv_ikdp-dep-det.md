@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (1%) are attached to their parents as `det`.
+17 nodes (1%) are attached to their parents as `det`.
 
-13 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07692307692308.
+17 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05882352941176.
 
-The following 2 pairs of parts of speech are connected with `det`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (10; 77% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (3; 23% instances).
+The following 2 pairs of parts of speech are connected with `det`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (14; 82% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (3; 18% instances).
 
 
 ~~~ conllu
@@ -25,8 +25,8 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 1	А	а	CCONJ	CC	_	3	cc	_	Lang=Mixed
 2	храмыс	храм	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
 3	восьса	восьса	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
-4	дзик	дзик	ADV	Adv	_	6	advmod	_	_
-5	быд	быд	PRON	Pron	PronType=Qnt	6	det	_	_
+4	дзик	дзик	ADV	Adv	_	6	advmod:deg	_	_
+5	быд	быд	PRON	Pron	PronType=Tot	6	det	_	_
 6	лун	лун	NOUN	N	Case=Nom|Number=Sing	3	obl	_	_
 7	с	с	ADP	Pr	_	8	case	_	Lang=Rus
 8	десяти	десять	NUM	Num	NumType=Card	3	nmod	_	Lang=Rus
@@ -47,7 +47,7 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 2	вӧлэсьсэ	вӧлэсь	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
 3	километров	километр	NOUN	N	Case=Gen|Number=Plur	5	obl	_	Lang=Rus
 4	четыреста	четыреста	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	Lang=Rus
-5	будет	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Lang=Rus|SpaceAfter=No
+5	будет	быть	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	Lang=Rus|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~

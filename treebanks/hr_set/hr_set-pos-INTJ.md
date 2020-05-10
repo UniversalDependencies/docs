@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Croatian-SET: POS Tags: `INTJ`
 
 There are 7 `INTJ` lemmas (0%), 6 `INTJ` types (0%) and 12 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 17 in number of lemmas, 17 in number of types and 17 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 16 in number of lemmas, 17 in number of types and 17 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>ma, e, a, ha, hajde, hmmm, o</em>
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ma</em> (<tt><a href="hr_set-pos-INTJ
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 0.857143 (the average of all parts of speech is 1.847405).
+The form / lemma ratio of `INTJ` is 0.857143 (the average of all parts of speech is 1.845497).
 
 The 1st highest number of forms (1) was observed with the lemma “E”: <em>E</em>.
 

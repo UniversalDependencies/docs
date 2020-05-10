@@ -23,8 +23,8 @@ The following 14 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 obl:tmod	color:blue
-1	O	o	PRON	_	Case=Nom|Number=Sing	6	nsubj	_	_
-2	her	her	DET	_	Definite=Def	3	det	_	_
+1	O	o	PRON	_	Case=Nom|Number=Sing|PronType=Prs	6	nsubj	_	_
+2	her	her	DET	_	Definite=Def|PronType=Art	3	det	_	_
 3	zaman	zaman	NOUN	_	Case=Nom|Number=Sing	6	obl:tmod	_	_
 4	yemeklerini	ye	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	6	obj	_	_
 5	lokantada	lokanta	NOUN	_	Case=Loc|Number=Sing	6	obl	_	_
@@ -40,8 +40,8 @@ The following 14 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 obl:tmod	color:blue
-1	Ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
-2	o	o	DET	_	Definite=Def|Number=Sing	3	det	_	_
+1	Ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	o	o	DET	_	Definite=Def|PronType=Art	3	det	_	_
 3	sırada	sıra	NOUN	_	Case=Loc|Number=Sing	4	obl:tmod	_	_
 4	öğretmen	öğretmen	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 5	dim	i	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	cop	_	_
@@ -58,7 +58,7 @@ The following 14 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 # visual-style 5 2 obl:tmod	color:blue
 1	Londra	Londra	PROPN	_	Number=Sing	5	nsubj	_	_
 2	sonbaharda	sonbahar	NOUN	_	Case=Loc|Number=Sing	5	obl:tmod	_	_
-3	o	o	PRON	_	Case=Nom|Number=Sing	5	nmod	_	_
+3	o	o	PRON	_	Case=Nom|Number=Sing|PronType=Dem	5	nmod	_	_
 4	kadar	kadar	ADP	_	_	3	case	_	_
 5	güzel	güzel	ADJ	_	_	0	root	_	_
 6	olur	ol	AUX	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_

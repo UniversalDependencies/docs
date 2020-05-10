@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-2372 tokens (12%) have a non-empty value of `VerbForm`.
-1527 types (20%) occur at least once with a non-empty value of `VerbForm`.
-874 lemmas (17%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (2097; 11% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (275; 1% instances).
+2374 tokens (12%) have a non-empty value of `VerbForm`.
+1529 types (20%) occur at least once with a non-empty value of `VerbForm`.
+875 lemmas (17%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (2099; 11% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (275; 1% instances).
 
 ### `VERB`
 
-2097 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+2099 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1534; 73%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1413; 67%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1349; 64%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1288; 61%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1172; 56%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1080; 52%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1062; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1536; 73%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1413; 67%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1349; 64%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1288; 61%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1174; 56%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1080; 51%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1064; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (67; 3% of non-empty `VerbForm`): <em>используя, начиная, играя, говоря, забив, изменив, построив, Выражаясь, Достигнув, Закрепившись</em>
 * `Fin` (1352; 64% of non-empty `VerbForm`): <em>является, может, сказал, говорит, стало, могут, заявил, находится, стал, имеет</em>
 * `Inf` (319; 15% of non-empty `VerbForm`): <em>сделать, получить, привести, вернуться, найти, стать, остановить, покинуть, создать, взять</em>
-* `Part` (359; 17% of non-empty `VerbForm`): <em>использованы, объявлен, потраченное, включены, выращенных, действующим, закрыт, написано, освобожден, оставшихся</em>
+* `Part` (361; 17% of non-empty `VerbForm`): <em>использованы, объявлен, потраченное, включены, выращенных, действующим, закрыт, написано, освобожден, оставшихся</em>
 * `EMPTY` (16): <em>можно, надо</em>
 
 <table>

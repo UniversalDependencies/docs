@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Mary Yako.
 
 Repository: [UD_Assyrian-AS](https://github.com/UniversalDependencies/UD_Assyrian-AS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaii_as25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaii_as26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 
@@ -122,7 +122,7 @@ Building the Uppsala Assyrian Treebank was a project conducted by Mary Yako at U
 </ul>
 
 <ul>
-<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): ܒ, ܒܸܕ, ܒܸܬ, ܒܹܬ, ܗܵܘܹܐ, ܟܲܕ, ܟܸܐ, ܟܹܐ, ܡܵܨܸܢ, ܦܵܝܫ, ܩܲܡ, ܵܗܵܘܹܐ</li>
+<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): ܒ, ܒܸܕ, ܒܸܬ, ܒܹܬ, ܗܵܘܹܐ, ܟܲܕ, ܟܸܐ, ܟܹܐ, ܡܵܨܸܢ, ܦܵܝܫ, ܩܲܡ</li>
 </ul>
 
 <ul>
@@ -443,7 +443,7 @@ Building the Uppsala Assyrian Treebank was a project conducted by Mary Yako at U
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: ܗܵܘܹܐ, ܵܗܵܘܹܐ.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: ܗܵܘܹܐ.</li>
 </ul>
 
 <ul>

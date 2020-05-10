@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cy_ccg-dep-obl.html">obl</a></tt>.
 
-28 nodes (0%) are attached to their parents as `obl:agent`.
+41 nodes (0%) are attached to their parents as `obl:agent`.
 
-27 instances of `obl:agent` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.32142857142857.
+39 instances of `obl:agent` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.8780487804878.
 
-The following 6 pairs of parts of speech are connected with `obl:agent`: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (15; 54% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (6; 21% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (4; 14% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `obl:agent`: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (21; 51% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (8; 20% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (5; 12% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (4; 10% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -64,31 +64,30 @@ The following 6 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 obl:agent	color:blue
-1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-2	'r	y	DET	art	_	3	det	_	_
-3	geiriau	gair	NOUN	noun	Gender=Masc|Number=Plur	1	nsubj	_	_
-4	wedi	wedi	AUX	ante	_	6	aux	_	_
-5	eu	eu	PRON	dep	Number=Plur|Person=3|PronType=Prs	6	obj	_	_
-6	ysgrifennu	ysgrifennu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
-7	gan	gan	ADP	prep	_	8	case	_	_
-8	John	John	PROPN	person	_	6	obl:agent	_	_
-9	Howel	Howel	PROPN	person	Gender=Masc|Number=Sing	8	flat:name	_	_
-10	(	(	PUNCT	punct	_	11	punct	_	SpaceAfter=No
-11	1774	1774	NUM	num	Number=Sing	9	nmod	_	SpaceAfter=No
-12	-	-	PUNCT	punct	_	13	punct	_	SpaceAfter=No
-13	1830	1830	NUM	num	Number=Sing	11	nmod	_	SpaceAfter=No
-14	)	)	PUNCT	punct	_	11	punct	_	_
-15	sef	sef	CCONJ	cconj	_	16	cc	_	_
-16	bardd	bardd	NOUN	noun	Gender=Masc|Number=Sing	8	appos	_	_
-17	a	a	CCONJ	cconj	_	18	cc	_	_
-18	golygydd	golygydd	NOUN	noun	Gender=Masc|Number=Sing	16	conj	_	_
-19	llenyddol	llenyddol	ADJ	pos	Degree=Pos	18	amod	_	SpaceAfter=No
-20	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 obl:agent	color:blue
+1	Rhwng	rhwng	ADP	prep	_	3	case	_	_
+2	pob	pob	ADJ	pos	Degree=Pos	3	amod	_	_
+3	cân	cân	NOUN	noun	Gender=Masc|Number=Sing	5	obl	_	_
+4	yr	y	PART	aff	_	5	advmod	_	_
+5	oedd	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
+6	gan	gan	ADP	prep	_	7	case	_	_
+7	Riley	Riley	PROPN	person	Gender=Masc|Number=Sing	5	obl:agent	_	_
+8	storiau	stori	NOUN	noun	Gender=Masc|Number=Plur	5	nsubj	_	_
+9	difyr	difyr	ADJ	pos	Degree=Pos	8	amod	_	_
+10	oedd	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Imp	8	acl	_	_
+11	yn	yn	AUX	impf	_	12	aux	_	_
+12	rhoi	rhoi	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	10	xcomp	_	_
+13	cefndir	cefndir	NOUN	noun	Gender=Masc|Number=Sing	12	obj	_	_
+14	a	a	CCONJ	cconj	_	15	cc	_	_
+15	chyd-destun	cyd-destun	NOUN	noun	Gender=Fem|Mutation=AM|Number=Sing	13	conj	_	_
+16	i	i	ADP	prep	_	18	case	_	SpaceAfter=No
+17	'r	y	DET	art	_	18	det	_	_
+18	caneuon	cân	NOUN	noun	Gender=Fem|Number=Plur	12	obl	_	SpaceAfter=No
+19	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\n
 
 ~~~
 

@@ -22,12 +22,12 @@ The following 31 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 appos	color:blue
-1	Dviračių	dviratis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	2	nmod	2:nmod	_
+1	Dviračių	dviratis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	2	nmod	2:nmod:gen	_
 2	takai	takas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
 3	-	-	PUNCT	skyr.	_	4	punct	4:punct	_
 4	pinigai	pinigai	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	2	appos	2:appos	_
 5	į	į	ADP	prl.G.	AdpType=Prep|Case=Acc	6	case	6:case	_
-6	balą	bala	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	4	obl:arg	4:obl:arg	_
+6	balą	bala	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	4	obl:arg	4:obl:arg:į:acc	_
 
 ~~~
 
@@ -41,12 +41,12 @@ The following 31 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	2.1	2.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	5	nummod	5:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Nacionalinę	nacionalinis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
-4	mokėjimo	mokėjimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
+4	mokėjimo	mokėjimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod:gen	_
 5	agentūrą	agentūra	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	_
 6	prie	prie	ADP	prl.K.	AdpType=Prep|Case=Gen	9	case	9:case	_
-7	Žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod	_
-8	ūkio	ūkis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	9	nmod	9:nmod	_
-9	ministerijos	ministerija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	5	obl:arg	5:obl:arg	_
+7	Žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod:gen	_
+8	ūkio	ūkis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	9	nmod	9:nmod:gen	_
+9	ministerijos	ministerija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	5	obl:arg	5:obl:arg:prie:gen	_
 10	(	(	PUNCT	skyr.	_	5	punct	5:punct	SpaceAfter=No
 11	toliau	toli	ADV	prv.aukšt.	Degree=Cmp	5	advmod	5:advmod	_
 12	–	–	PUNCT	skyr.	_	13	punct	13:punct	_

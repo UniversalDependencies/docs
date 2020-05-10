@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Serbian-SET: POS Tags: `X`
 
-There are 140 `X` lemmas (1%), 144 `X` types (1%) and 312 `X` tokens (0%).
+There are 141 `X` lemmas (1%), 145 `X` types (1%) and 313 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 8 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>setimes, al, de, a1, Windows, bin, european, XP, southeast, B92</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>SETimes</em> (<tt><a href="sr_set-pos
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.028571 (the average of all parts of speech is 1.842192).
+The form / lemma ratio of `X` is 1.028369 (the average of all parts of speech is 1.841736).
 
 The 1st highest number of forms (2) was observed with the lemma “I”: <em>I, I'm</em>.
 
@@ -69,21 +69,21 @@ The 3rd highest number of forms (2) was observed with the lemma “setimes”: <
 
 ## Relations
 
-`X` nodes are attached to their parents using 11 different relations: <tt><a href="sr_set-dep-flat.html">flat</a></tt> (120; 38% instances), <tt><a href="sr_set-dep-obl.html">obl</a></tt> (68; 22% instances), <tt><a href="sr_set-dep-parataxis.html">parataxis</a></tt> (40; 13% instances), <tt><a href="sr_set-dep-nmod.html">nmod</a></tt> (25; 8% instances), <tt><a href="sr_set-dep-appos.html">appos</a></tt> (13; 4% instances), <tt><a href="sr_set-dep-case.html">case</a></tt> (13; 4% instances), <tt><a href="sr_set-dep-conj.html">conj</a></tt> (12; 4% instances), <tt><a href="sr_set-dep-nsubj.html">nsubj</a></tt> (12; 4% instances), <tt><a href="sr_set-dep-amod.html">amod</a></tt> (4; 1% instances), <tt><a href="sr_set-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="sr_set-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 11 different relations: <tt><a href="sr_set-dep-flat.html">flat</a></tt> (121; 39% instances), <tt><a href="sr_set-dep-obl.html">obl</a></tt> (68; 22% instances), <tt><a href="sr_set-dep-parataxis.html">parataxis</a></tt> (40; 13% instances), <tt><a href="sr_set-dep-nmod.html">nmod</a></tt> (25; 8% instances), <tt><a href="sr_set-dep-appos.html">appos</a></tt> (13; 4% instances), <tt><a href="sr_set-dep-case.html">case</a></tt> (13; 4% instances), <tt><a href="sr_set-dep-conj.html">conj</a></tt> (12; 4% instances), <tt><a href="sr_set-dep-nsubj.html">nsubj</a></tt> (12; 4% instances), <tt><a href="sr_set-dep-amod.html">amod</a></tt> (4; 1% instances), <tt><a href="sr_set-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="sr_set-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (92; 29% instances), <tt><a href="sr_set-pos-X.html">X</a></tt> (87; 28% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (64; 21% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (54; 17% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (11; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (92; 29% instances), <tt><a href="sr_set-pos-X.html">X</a></tt> (88; 28% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (64; 20% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (54; 17% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (11; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-134 (43%) `X` nodes are leaves.
+135 (43%) `X` nodes are leaves.
 
-115 (37%) `X` nodes have one child.
+114 (36%) `X` nodes have one child.
 
-29 (9%) `X` nodes have two children.
+30 (10%) `X` nodes have two children.
 
 34 (11%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 7.
 
-Children of `X` nodes are attached using 12 different relations: <tt><a href="sr_set-dep-flat.html">flat</a></tt> (101; 34% instances), <tt><a href="sr_set-dep-punct.html">punct</a></tt> (93; 31% instances), <tt><a href="sr_set-dep-case.html">case</a></tt> (69; 23% instances), <tt><a href="sr_set-dep-conj.html">conj</a></tt> (10; 3% instances), <tt><a href="sr_set-dep-cc.html">cc</a></tt> (7; 2% instances), <tt><a href="sr_set-dep-appos.html">appos</a></tt> (5; 2% instances), <tt><a href="sr_set-dep-nmod.html">nmod</a></tt> (5; 2% instances), <tt><a href="sr_set-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="sr_set-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sr_set-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="sr_set-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="sr_set-dep-nummod.html">nummod</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 12 different relations: <tt><a href="sr_set-dep-flat.html">flat</a></tt> (101; 34% instances), <tt><a href="sr_set-dep-punct.html">punct</a></tt> (93; 31% instances), <tt><a href="sr_set-dep-case.html">case</a></tt> (70; 24% instances), <tt><a href="sr_set-dep-conj.html">conj</a></tt> (10; 3% instances), <tt><a href="sr_set-dep-cc.html">cc</a></tt> (7; 2% instances), <tt><a href="sr_set-dep-appos.html">appos</a></tt> (5; 2% instances), <tt><a href="sr_set-dep-nmod.html">nmod</a></tt> (5; 2% instances), <tt><a href="sr_set-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="sr_set-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sr_set-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="sr_set-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="sr_set-dep-nummod.html">nummod</a></tt> (1; 0% instances)
 
-Children of `X` nodes belong to 9 different parts of speech: <tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> (94; 32% instances), <tt><a href="sr_set-pos-X.html">X</a></tt> (87; 29% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (68; 23% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (21; 7% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (15; 5% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (7; 2% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Children of `X` nodes belong to 9 different parts of speech: <tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> (93; 31% instances), <tt><a href="sr_set-pos-X.html">X</a></tt> (88; 30% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (69; 23% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (21; 7% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (15; 5% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (7; 2% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

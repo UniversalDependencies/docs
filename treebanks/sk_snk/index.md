@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Katarína Gajdošová, Mária Šimková, Daniel Zeman.
 
 Repository: [UD_Slovak-SNK](https://github.com/UniversalDependencies/UD_Slovak-SNK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 
@@ -102,7 +102,7 @@ vol. 68, no. 2, pp. 385-395
 
 ## Relations
 
-[acl](sk_snk-dep-acl.html) – [advcl](sk_snk-dep-advcl.html) – [advmod](sk_snk-dep-advmod.html) – [advmod:emph](sk_snk-dep-advmod-emph.html) – [amod](sk_snk-dep-amod.html) – [appos](sk_snk-dep-appos.html) – [aux](sk_snk-dep-aux.html) – [aux:pass](sk_snk-dep-aux-pass.html) – [case](sk_snk-dep-case.html) – [cc](sk_snk-dep-cc.html) – [ccomp](sk_snk-dep-ccomp.html) – [compound](sk_snk-dep-compound.html) – [conj](sk_snk-dep-conj.html) – [cop](sk_snk-dep-cop.html) – [csubj](sk_snk-dep-csubj.html) – [csubj:pass](sk_snk-dep-csubj-pass.html) – [dep](sk_snk-dep-dep.html) – [det](sk_snk-dep-det.html) – [det:numgov](sk_snk-dep-det-numgov.html) – [discourse](sk_snk-dep-discourse.html) – [expl:pass](sk_snk-dep-expl-pass.html) – [expl:pv](sk_snk-dep-expl-pv.html) – [fixed](sk_snk-dep-fixed.html) – [flat](sk_snk-dep-flat.html) – [flat:foreign](sk_snk-dep-flat-foreign.html) – [iobj](sk_snk-dep-iobj.html) – [mark](sk_snk-dep-mark.html) – [nmod](sk_snk-dep-nmod.html) – [nsubj](sk_snk-dep-nsubj.html) – [nsubj:pass](sk_snk-dep-nsubj-pass.html) – [nummod](sk_snk-dep-nummod.html) – [obj](sk_snk-dep-obj.html) – [obl](sk_snk-dep-obl.html) – [obl:agent](sk_snk-dep-obl-agent.html) – [obl:arg](sk_snk-dep-obl-arg.html) – [orphan](sk_snk-dep-orphan.html) – [parataxis](sk_snk-dep-parataxis.html) – [punct](sk_snk-dep-punct.html) – [root](sk_snk-dep-root.html) – [vocative](sk_snk-dep-vocative.html) – [xcomp](sk_snk-dep-xcomp.html)
+[acl](sk_snk-dep-acl.html) – [acl:relcl](sk_snk-dep-acl-relcl.html) – [advcl](sk_snk-dep-advcl.html) – [advmod](sk_snk-dep-advmod.html) – [advmod:emph](sk_snk-dep-advmod-emph.html) – [amod](sk_snk-dep-amod.html) – [appos](sk_snk-dep-appos.html) – [aux](sk_snk-dep-aux.html) – [aux:pass](sk_snk-dep-aux-pass.html) – [case](sk_snk-dep-case.html) – [cc](sk_snk-dep-cc.html) – [ccomp](sk_snk-dep-ccomp.html) – [compound](sk_snk-dep-compound.html) – [conj](sk_snk-dep-conj.html) – [cop](sk_snk-dep-cop.html) – [csubj](sk_snk-dep-csubj.html) – [csubj:pass](sk_snk-dep-csubj-pass.html) – [dep](sk_snk-dep-dep.html) – [det](sk_snk-dep-det.html) – [det:numgov](sk_snk-dep-det-numgov.html) – [discourse](sk_snk-dep-discourse.html) – [expl:pass](sk_snk-dep-expl-pass.html) – [expl:pv](sk_snk-dep-expl-pv.html) – [fixed](sk_snk-dep-fixed.html) – [flat](sk_snk-dep-flat.html) – [flat:foreign](sk_snk-dep-flat-foreign.html) – [iobj](sk_snk-dep-iobj.html) – [mark](sk_snk-dep-mark.html) – [nmod](sk_snk-dep-nmod.html) – [nsubj](sk_snk-dep-nsubj.html) – [nsubj:pass](sk_snk-dep-nsubj-pass.html) – [nummod](sk_snk-dep-nummod.html) – [obj](sk_snk-dep-obj.html) – [obl](sk_snk-dep-obl.html) – [obl:arg](sk_snk-dep-obl-arg.html) – [orphan](sk_snk-dep-orphan.html) – [parataxis](sk_snk-dep-parataxis.html) – [punct](sk_snk-dep-punct.html) – [root](sk_snk-dep-root.html) – [vocative](sk_snk-dep-vocative.html) – [xcomp](sk_snk-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -135,7 +135,7 @@ vol. 68, no. 2, pp. 385-395
 </ul>
 
 <ul>
-<li>This corpus contains 146 word types tagged as particles (PART): Ako, Ano, Beztak, Bohužiaľ, Chvalabohu, Dobre, Ešteže, Fajn, Horkýže, Isteže, Kdeže, Kiež, Lenže, Lúčne, Mimochodom, Možnože, Namojdušu, Nanešťastie, Nech, Niežeby, Nijako, Nože, Nuž, Obzvlášť, Pomóóóc, Práveže, Reku, Skrátka, Snáď, Správne, Super, TUŠÍM, Takisto, Taktiež, Takže, Ticho, Tuším, Vcelku, Veruže, Vážne, a, aj, akiste, akoby, akurát, ale, ani, asi, aspoň, až, bezpochyby, celkom, div, dokonca, doslova, dosť, ešte, hlavne, hneď, hádam, i, iba, inak, iste, jedine, jednoducho, keď, koncov, konečne, len, možno, najmenej, najmä, nakoniec, naopak, naozaj, napodiv, napokon, napríklad, naviac, navyše, našťastie, nie, nič, no, náhodou, pekne, pochopiteľne, pomerne, poprípade, pravda, pravdaže, pravdepodobne, pravdpodobne, predovšetkým, predsa, presne, priam, približne, prinajmenšom, prirodzene, prosím, práve, radšej, respektíve, rozhodne, samozrejme, skoro, skôr, sotva, stále, síce, tak, takmer, takpovediac, tam, teda, tiež, to, totiž, toto, tu, určite, už, vari, veru, veď, vlastne, vonkoncom, vraj, vskutku, vôbec, výlučne, však, zasa, zase, zhruba, zo, zrejme, áno, údajne, čo, čoraz, Škoda, že, žiaľ</li>
+<li>This corpus contains 145 word types tagged as particles (PART): Ako, Ano, Beztak, Bohužiaľ, Chvalabohu, Dobre, Ešteže, Fajn, Horkýže, Isteže, Kdeže, Kiež, Lenže, Lúčne, Mimochodom, Možnože, Namojdušu, Nanešťastie, Nech, Niežeby, Nijako, Nože, Nuž, Obzvlášť, Pomóóóc, Práveže, Reku, Skrátka, Snáď, Správne, Super, TUŠÍM, Takisto, Taktiež, Takže, Ticho, Tuším, Vcelku, Veruže, Vážne, a, aj, akiste, akurát, ale, ani, asi, aspoň, až, bezpochyby, celkom, div, dokonca, doslova, dosť, ešte, hlavne, hneď, hádam, i, iba, inak, iste, jedine, jednoducho, keď, koncov, konečne, len, možno, najmenej, najmä, nakoniec, naopak, naozaj, napodiv, napokon, napríklad, naviac, navyše, našťastie, nie, nič, no, náhodou, pekne, pochopiteľne, pomerne, poprípade, pravda, pravdaže, pravdepodobne, pravdpodobne, predovšetkým, predsa, presne, priam, približne, prinajmenšom, prirodzene, prosím, práve, radšej, respektíve, rozhodne, samozrejme, skoro, skôr, sotva, stále, síce, tak, takmer, takpovediac, tam, teda, tiež, to, totiž, toto, tu, určite, už, vari, veru, veď, vlastne, vonkoncom, vraj, vskutku, vôbec, výlučne, však, zasa, zase, zhruba, zo, zrejme, áno, údajne, čo, čoraz, Škoda, že, žiaľ</li>
 </ul>
 
 <ul>
@@ -564,8 +564,9 @@ vol. 68, no. 2, pp. 385-395
 <ul>
   <li>Cnd
     <ul>
+      <li>ADV: akoby</li>
       <li>AUX: by</li>
-      <li>PART: akoby, Niežeby</li>
+      <li>PART: Niežeby</li>
       <li>SCONJ: aby, keby, akoby</li>
     </ul>
   </li>
@@ -1001,38 +1002,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Conv--NOUN-Acc (4)</li>
-      <li>VERB-Conv--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Acc (829)</li>
-      <li>VERB-Fin--NOUN-Dat (35)</li>
-      <li>VERB-Fin--NOUN-Gen (25)</li>
-      <li>VERB-Fin--NOUN-Ins (21)</li>
+      <li>VERB-Fin--NOUN-Gen (4)</li>
       <li>VERB-Fin--NOUN-Nom (11)</li>
       <li>VERB-Fin--PRON (5)</li>
       <li>VERB-Fin--PRON-Acc (303)</li>
-      <li>VERB-Fin--PRON-Dat (98)</li>
-      <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
       <li>VERB-Inf--NOUN-Acc (424)</li>
-      <li>VERB-Inf--NOUN-Dat (27)</li>
-      <li>VERB-Inf--NOUN-Gen (11)</li>
-      <li>VERB-Inf--NOUN-Ins (10)</li>
+      <li>VERB-Inf--NOUN-Gen (2)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON (7)</li>
       <li>VERB-Inf--PRON-Acc (118)</li>
-      <li>VERB-Inf--PRON-Dat (36)</li>
-      <li>VERB-Inf--PRON-Gen (2)</li>
-      <li>VERB-Inf--PRON-Ins (1)</li>
       <li>VERB-Part--NOUN-Acc (2032)</li>
-      <li>VERB-Part--NOUN-Dat (78)</li>
-      <li>VERB-Part--NOUN-Gen (46)</li>
-      <li>VERB-Part--NOUN-Ins (120)</li>
+      <li>VERB-Part--NOUN-Gen (10)</li>
       <li>VERB-Part--NOUN-Nom (18)</li>
       <li>VERB-Part--PRON (13)</li>
       <li>VERB-Part--PRON-Acc (739)</li>
-      <li>VERB-Part--PRON-Dat (303)</li>
-      <li>VERB-Part--PRON-Gen (17)</li>
-      <li>VERB-Part--PRON-Ins (4)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
     </ul>
   </li>
@@ -1042,29 +1027,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (4)</li>
-      <li>VERB-Fin--NOUN-Dat (14)</li>
-      <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Ins (3)</li>
       <li>VERB-Fin--PRON (4)</li>
       <li>VERB-Fin--PRON-Acc (8)</li>
-      <li>VERB-Fin--PRON-Dat (82)</li>
-      <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
-      <li>VERB-Inf--NOUN-Dat (17)</li>
-      <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Ins (1)</li>
       <li>VERB-Inf--PRON (4)</li>
       <li>VERB-Inf--PRON-Acc (5)</li>
-      <li>VERB-Inf--PRON-Dat (25)</li>
       <li>VERB-Part--NOUN-Acc (17)</li>
-      <li>VERB-Part--NOUN-Dat (71)</li>
-      <li>VERB-Part--NOUN-Gen (6)</li>
-      <li>VERB-Part--NOUN-Ins (9)</li>
+      <li>VERB-Part--NOUN-Gen (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON (33)</li>
       <li>VERB-Part--PRON-Acc (34)</li>
-      <li>VERB-Part--PRON-Dat (301)</li>
-      <li>VERB-Part--PRON-Gen (4)</li>
     </ul>
   </li>
 </ul>
@@ -1084,7 +1056,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 58 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: povedať si, prečítať si, hľadieť si, napraviť si, nájsť si, obliekať sa, odkryť si, pošúchať si, upraviť si, veriť si, bičovať sa, brúsiť si, chytiť si, farbiť sa, hladkať si, hovoriť si, kefovať si, korunovať sa, naliať sebe, nastaviť si, obdivovať sa, objať si, objednávať si, obliecť si, obliekať si, obnažovať seba, obuť si, oprašovať si, ovplyvňovať sa, pomädliť si, povzbudzovať sa, poškrabať sa, presvedčiť seba, prikázať si, prinútiť sa, pripadať si, prisahať si, priznať si, strhnúť si, ubrániť sa, udrieť si, umývať sa, uvidieť sa, vravieť si, vydrhnúť si, vyhlasovať seba, vymaniť si, vynadať si, vytiahnuť si, vyzliecť sa</li>
+  <li>This corpus contains 57 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: povedať si, prečítať si, hľadieť si, napraviť si, nájsť si, obliekať sa, odkryť si, pošúchať si, upraviť si, veriť si, bičovať sa, brúsiť si, chytiť si, farbiť sa, hladkať si, hovoriť si, kefovať si, korunovať sa, nastaviť si, obdivovať sa, objať si, objednávať si, obliecť si, obliekať si, obnažovať seba, obuť si, oprašovať si, ovplyvňovať sa, pomädliť si, povzbudzovať sa, poškrabať sa, presvedčiť seba, prikázať si, prinútiť sa, pripadať si, prisahať si, priznať si, strhnúť si, ubrániť sa, udrieť si, umývať sa, uvidieť sa, vravieť si, vydrhnúť si, vyhlasovať seba, vymaniť si, vynadať si, vytiahnuť si, vyzliecť sa, vyzliecť si</li>
     <ul>
       <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: pošúchať</li>
     </ul>
@@ -1093,7 +1065,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

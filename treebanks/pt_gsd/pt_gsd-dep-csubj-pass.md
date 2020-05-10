@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 6	foi	_	AUX	AUX	_	8	aux:pass	_	_
 7	também	também	ADV	ADV	_	8	advmod	_	_
 8	comentada	comentar	VERB	VERB	_	0	root	_	_
-9	en	en	ADP	ADP	_	11	case	_	_
+9	em	em	ADP	ADP	_	11	case	_	_
 10	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	crítica	_	NOUN	NOUN	_	8	nmod	_	_
 12	de	_	ADP	ADP	_	13	case	_	_
@@ -73,7 +73,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 24	Foolish	_	PROPN	PNOUN	_	23	conj	_	_
 25	Happy	_	PROPN	PNOUN	_	23	conj	_	SpaceAfter=No
 26	,	_	PUNCT	.	_	32	punct	_	_
-27	en	en	ADP	ADP	_	29	case	_	_
+27	em	em	ADP	ADP	_	29	case	_	_
 28	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	qual	_	PRON	PRON	_	32	nmod	_	_
 30	o	_	DET	DET	_	31	det	_	_

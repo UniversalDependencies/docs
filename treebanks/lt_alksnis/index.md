@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Andrius Utka, Erika Rimkutė, Agnė Bielinskienė, Jolanta Kovalevskaitė, Loïc Boizou, Gabrielė Aleksandravičiūtė, Kristina Brokaitė, Daniel Zeman.
 
 Repository: [UD_Lithuanian-ALKSNIS](https://github.com/UniversalDependencies/UD_Lithuanian-ALKSNIS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_alksnis25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_alksnis26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 
@@ -103,7 +103,7 @@ doi:10.3233/978-1-61499-701-6-107
 
 ## Relations
 
-[acl](lt_alksnis-dep-acl.html) – [advcl](lt_alksnis-dep-advcl.html) – [advmod](lt_alksnis-dep-advmod.html) – [advmod:emph](lt_alksnis-dep-advmod-emph.html) – [amod](lt_alksnis-dep-amod.html) – [appos](lt_alksnis-dep-appos.html) – [case](lt_alksnis-dep-case.html) – [cc](lt_alksnis-dep-cc.html) – [ccomp](lt_alksnis-dep-ccomp.html) – [compound](lt_alksnis-dep-compound.html) – [conj](lt_alksnis-dep-conj.html) – [cop](lt_alksnis-dep-cop.html) – [csubj](lt_alksnis-dep-csubj.html) – [csubj:pass](lt_alksnis-dep-csubj-pass.html) – [dep](lt_alksnis-dep-dep.html) – [det](lt_alksnis-dep-det.html) – [discourse](lt_alksnis-dep-discourse.html) – [flat](lt_alksnis-dep-flat.html) – [flat:foreign](lt_alksnis-dep-flat-foreign.html) – [iobj](lt_alksnis-dep-iobj.html) – [mark](lt_alksnis-dep-mark.html) – [nmod](lt_alksnis-dep-nmod.html) – [nsubj](lt_alksnis-dep-nsubj.html) – [nsubj:pass](lt_alksnis-dep-nsubj-pass.html) – [nummod](lt_alksnis-dep-nummod.html) – [nummod:gov](lt_alksnis-dep-nummod-gov.html) – [obj](lt_alksnis-dep-obj.html) – [obl](lt_alksnis-dep-obl.html) – [obl:arg](lt_alksnis-dep-obl-arg.html) – [orphan](lt_alksnis-dep-orphan.html) – [parataxis](lt_alksnis-dep-parataxis.html) – [punct](lt_alksnis-dep-punct.html) – [root](lt_alksnis-dep-root.html) – [xcomp](lt_alksnis-dep-xcomp.html)
+[acl](lt_alksnis-dep-acl.html) – [acl:relcl](lt_alksnis-dep-acl-relcl.html) – [advcl](lt_alksnis-dep-advcl.html) – [advmod](lt_alksnis-dep-advmod.html) – [advmod:emph](lt_alksnis-dep-advmod-emph.html) – [amod](lt_alksnis-dep-amod.html) – [appos](lt_alksnis-dep-appos.html) – [case](lt_alksnis-dep-case.html) – [cc](lt_alksnis-dep-cc.html) – [ccomp](lt_alksnis-dep-ccomp.html) – [compound](lt_alksnis-dep-compound.html) – [conj](lt_alksnis-dep-conj.html) – [cop](lt_alksnis-dep-cop.html) – [csubj](lt_alksnis-dep-csubj.html) – [csubj:pass](lt_alksnis-dep-csubj-pass.html) – [dep](lt_alksnis-dep-dep.html) – [det](lt_alksnis-dep-det.html) – [discourse](lt_alksnis-dep-discourse.html) – [flat](lt_alksnis-dep-flat.html) – [flat:foreign](lt_alksnis-dep-flat-foreign.html) – [iobj](lt_alksnis-dep-iobj.html) – [mark](lt_alksnis-dep-mark.html) – [nmod](lt_alksnis-dep-nmod.html) – [nsubj](lt_alksnis-dep-nsubj.html) – [nsubj:pass](lt_alksnis-dep-nsubj-pass.html) – [nummod](lt_alksnis-dep-nummod.html) – [nummod:gov](lt_alksnis-dep-nummod-gov.html) – [obj](lt_alksnis-dep-obj.html) – [obl](lt_alksnis-dep-obl.html) – [obl:arg](lt_alksnis-dep-obl-arg.html) – [orphan](lt_alksnis-dep-orphan.html) – [parataxis](lt_alksnis-dep-parataxis.html) – [punct](lt_alksnis-dep-punct.html) – [root](lt_alksnis-dep-root.html) – [xcomp](lt_alksnis-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -489,7 +489,7 @@ doi:10.3233/978-1-61499-701-6-107
   <li>Pos
     <ul>
       <li>ADJ: socialinės, būtina, vidutinio, smulkiojo, mokslinių, naujų, socialinių, svarbu, įvairių, geros</li>
-      <li>ADV: labai, taip, todėl, jau, dabar, tiek, daug, kur, kiek, tikrai</li>
+      <li>ADV: labai, taip, todėl, jau, dabar, tiek, daug, kiek, tikrai, ypač</li>
       <li>X: jaunųjų</li>
     </ul>
   </li>
@@ -706,8 +706,9 @@ doi:10.3233/978-1-61499-701-6-107
 </ul>
 
 <ul>
-  <li>Int
+  <li>Int,Rel
     <ul>
+      <li>ADV: kur, kaip, kodėl, kada</li>
       <li>DET: kurie, kurios, kuris, kurių, kuri, kurio, kurioje, kurį, kurią, kokie</li>
       <li>PRON: kas, ką, ko, kuo, Kam</li>
     </ul>
@@ -976,54 +977,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Ins (2)</li>
       <li>VERB-Conv--NOUN-Acc (66)</li>
-      <li>VERB-Conv--NOUN-Dat (4)</li>
-      <li>VERB-Conv--NOUN-Gen (12)</li>
-      <li>VERB-Conv--NOUN-Ins (16)</li>
       <li>VERB-Conv--PRON-Acc (4)</li>
-      <li>VERB-Conv--PRON-Gen (1)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN (2)</li>
       <li>VERB-Fin--NOUN-Acc (796)</li>
-      <li>VERB-Fin--NOUN-Dat (77)</li>
-      <li>VERB-Fin--NOUN-Gen (274)</li>
-      <li>VERB-Fin--NOUN-Ins (114)</li>
       <li>VERB-Fin--NOUN-Nom (1)</li>
       <li>VERB-Fin--PRON (2)</li>
       <li>VERB-Fin--PRON-Acc (139)</li>
-      <li>VERB-Fin--PRON-Dat (44)</li>
-      <li>VERB-Fin--PRON-Gen (50)</li>
-      <li>VERB-Fin--PRON-Ins (13)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Ger--NOUN-Acc (216)</li>
-      <li>VERB-Ger--NOUN-Dat (43)</li>
-      <li>VERB-Ger--NOUN-Gen (38)</li>
-      <li>VERB-Ger--NOUN-Ins (26)</li>
       <li>VERB-Ger--PRON-Acc (4)</li>
-      <li>VERB-Ger--PRON-Dat (4)</li>
-      <li>VERB-Ger--PRON-Gen (1)</li>
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--NOUN-Acc (768)</li>
-      <li>VERB-Inf--NOUN-Dat (136)</li>
-      <li>VERB-Inf--NOUN-Gen (134)</li>
-      <li>VERB-Inf--NOUN-Ins (70)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (77)</li>
-      <li>VERB-Inf--PRON-Dat (23)</li>
-      <li>VERB-Inf--PRON-Gen (23)</li>
-      <li>VERB-Inf--PRON-Ins (6)</li>
+      <li>VERB-Inf--PRON-Acc (76)</li>
       <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--NOUN-Acc (226)</li>
-      <li>VERB-Part--NOUN-Dat (116)</li>
-      <li>VERB-Part--NOUN-Gen (256)</li>
-      <li>VERB-Part--NOUN-Ins (135)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON-Acc (16)</li>
-      <li>VERB-Part--PRON-Dat (26)</li>
-      <li>VERB-Part--PRON-Gen (20)</li>
-      <li>VERB-Part--PRON-Ins (8)</li>
     </ul>
   </li>
 </ul>
@@ -1031,31 +1004,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Conv--NOUN-Dat (2)</li>
-      <li>VERB-Conv--NOUN-Ins (1)</li>
-      <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN-Acc (8)</li>
-      <li>VERB-Fin--NOUN-Dat (40)</li>
-      <li>VERB-Fin--NOUN-Gen (3)</li>
-      <li>VERB-Fin--NOUN-Ins (19)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
-      <li>VERB-Fin--PRON-Dat (37)</li>
-      <li>VERB-Fin--PRON-Gen (2)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Ger--NOUN-Dat (14)</li>
-      <li>VERB-Ger--NOUN-Ins (3)</li>
       <li>VERB-Inf--NOUN-Acc (3)</li>
-      <li>VERB-Inf--NOUN-Dat (77)</li>
-      <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Ins (22)</li>
-      <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Dat (2)</li>
+      <li>VERB-Inf--PRON-Acc (2)</li>
       <li>VERB-Part--NOUN-Acc (2)</li>
-      <li>VERB-Part--NOUN-Dat (7)</li>
-      <li>VERB-Part--NOUN-Ins (13)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Dat (2)</li>
-      <li>VERB-Part--PRON-Ins (2)</li>
     </ul>
   </li>
 </ul>
@@ -1065,12 +1020,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 38 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: užtikrinti vystymąsi, atsakyti sau, bausti savęs, būti savimi, būtinas vystymuisi, girdėti save, išaukštinti save, išvysti save, kaltinti save, kontroliuoti save, laikyti save, leisti sau, nekontroliuoti savęs, n​e​p​a​g​a​i​l​ė​t​i​ ​d​o​m​ė​j​i​m​o​s​i, nepamiršti savęs, nepasitikėti savimi, netikėtai sau, n​e​v​y​k​d​y​t​i​ ​į​s​i​p​a​r​e​i​g​o​j​i​m​ų, nuolaidžiauti sau, p​a​g​r​į​s​t​i​ ​į​s​i​p​a​r​e​i​g​o​j​i​m​a​i​s, paklausti savęs, pasičiupinėti save, p​a​t​v​i​r​t​i​n​t​i​ ​į​s​i​s​t​e​i​g​i​m​ą, prisiekti sau, realizuoti save, reikšti kalbėjimąsi, remti mokymąsi, sakyti sau, skatinti kūrimąsi, skatinti įsisavinimą, skirti mokymuisi, statyti save, stebėti save, sukelti domėjimąsi, suslėpti save, ugdyti pasitikėjimą, užauginti savo, įtikinti save</li>
+  <li>This corpus contains 20 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: užtikrinti vystymąsi, girdėti save, išaukštinti save, išvysti save, kaltinti save, kontroliuoti save, laikyti save, pasičiupinėti save, p​a​t​v​i​r​t​i​n​t​i​ ​į​s​i​s​t​e​i​g​i​m​ą, realizuoti save, reikšti kalbėjimąsi, remti mokymąsi, skatinti kūrimąsi, skatinti įsisavinimą, statyti save, stebėti save, sukelti domėjimąsi, suslėpti save, ugdyti pasitikėjimą, įtikinti save</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>advmod:emph</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
 <li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

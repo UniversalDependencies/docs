@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-46 nodes (1%) are attached to their parents as `ccomp`.
+57 nodes (1%) are attached to their parents as `ccomp`.
 
-44 instances of `ccomp` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 11.6304347826087.
+53 instances of `ccomp` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 11.9824561403509.
 
-The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (39; 85% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (50; 88% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -33,8 +33,8 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 9	आइडिया	आइडिया	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obj	_	SpacesAfter=\n
 10	खोजे	खोज	VERB	V_VM	_	5	ccomp	_	_
 11	में	में	ADP	PSP	AdpType=Post	10	mark	_	_
-12	लागल	लागल	AUX	V_VAUX	_	10	aux	_	_
-13	बाड़	बाड	AUX	V_VAUX	Number=Sing|Person=3|Polite=Form	10	aux	_	_
+12	लागल	लग	AUX	V_VAUX	_	10	aux	_	_
+13	बाड़	बा	AUX	V_VAUX	Number=Sing|Person=3|Polite=Form	10	aux	_	_
 14	?	।	PUNCT	RD_PUNC	_	5	punct	_	_
 
 ~~~
@@ -76,12 +76,12 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 2	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	compound	_	_
 3	चैनल	चैनल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 4	वाले	वाला	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	3	case	_	_
-5	काहे	काह	PRON	PR_PRQ	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part	6	acl	_	_
-6	एह	एह	DET	DM_DMD	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	obl	_	_
+5	काहे	काहे	PRON	PR_PRQ	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part	6	acl	_	_
+6	एह	एह	DET	DM_DMD	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obl	_	_
 7	पर	पर	ADP	PSP	AdpType=Post	6	case	_	_
 8	कपार	कपार	NOUN	N_NN	Case=Nom	9	amod	_	_
 9	खपावत	खपावत	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	obj	_	_
-10	बाड़ें	बाड़	AUX	V_VAUX	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+10	बाड़ें	बा	AUX	V_VAUX	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
 11	कि	कि	SCONJ	CC_CCS	_	31	mark	_	_
 12	प्रियंका	प्रियंका	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	14	nmod	_	_
 13	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	12	case	_	_
@@ -91,8 +91,8 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 17	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	18	compound	_	_
 18	दोकान	दोकान	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	31	nmod	_	_
 19	से	से	ADP	PSP	AdpType=Post	18	case	_	_
-20	आइल	आइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	xcomp	_	_
-21	रहुवे	रहुवे	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	aux	_	_
+20	आइल	आ	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	xcomp	_	_
+21	रहुवे	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	aux	_	_
 22	ओह	ओह	DET	DM_DMD	Case=Nom|Gender=Masc|Number=Sing|Person=3	23	compound	_	_
 23	दोकान	दोकान	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	26	nmod	_	_
 24	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	23	case	_	_
@@ -102,8 +102,8 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 28	इन्टरव्यू	इन्टरव्यू	NOUN	N_NN	Case=Nom	31	nmod	_	_
 29	कइसे	कयह	PRON	PR_PRQ	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	31	nmod	_	_
 30	हासिल	हासिल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	31	compound	_	SpacesAfter=\n
-31	कइल	कइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	ccomp	_	_
-32	जाव	जाव	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	31	aux	_	_
+31	कइल	कर	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	ccomp	_	_
+32	जाव	जा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	31	aux	_	_
 33	?	?	PUNCT	RD_PUNC	_	10	punct	_	_
 
 ~~~

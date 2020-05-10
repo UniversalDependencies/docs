@@ -31,7 +31,7 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 7	let	rok	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	4	obl	4:obl	_
 8	po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	10:case	LId=po-1
 9	jeho	jeho	DET	PSXXXZS3-------	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	10:det	LGloss=(přivlast.)
-10	*	*	SYM	Xx-------------	Abbr=Yes	7	nmod	7:nmod	_
+10	*	*	SYM	Xx-------------	Abbr=Yes	7	nmod	7:nmod:po	_
 11	*	*	SYM	Xx-------------	Abbr=Yes	4	obj	4:obj	_
 12	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
@@ -45,14 +45,14 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 4 discourse	color:blue
 1	Na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	2:case	LId=na-1
-2	balkóně	balkón	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	6:obl	_
+2	balkóně	balkón	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	6:obl:na:loc	_
 3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	6	expl:pv	6:expl:pv	LGloss=(zvr._zájmeno/částice)
 4	nám	já	PRON	PP-P3--1-------	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	discourse	6:discourse	_
-5	jich	on	PRON	PPXP2--3-------	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	nmod	7:nmod	LId=on-1
+5	jich	on	PRON	PPXP2--3-------	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	nmod	7:nmod:gen	LId=on-1
 6	sejde	sejít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 7	více	hodně	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	6	nsubj	6:nsubj	_
 8	než	než	SCONJ	J,-------------	_	9	mark	9:mark	LId=než-2
-9	desítka	desítka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	7:obl	SpaceAfter=No
+9	desítka	desítka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	7:obl:než:nom	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
 
 ~~~

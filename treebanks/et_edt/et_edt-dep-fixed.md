@@ -22,15 +22,15 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Nii	nii	ADV	D	_	4	advmod	_	_
-2	et	et	SCONJ	J	_	1	fixed	_	_
-3	tema	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-4	kasutas	kasutama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	Mozartit	Mozart	PROPN	S	Case=Par|Number=Sing	4	obj	_	_
-6	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	7	nmod	_	_
-7	unistuste	unistus	NOUN	S	Case=Gen|Number=Plur	8	nmod	_	_
-8	teokstegemisel	teoks_tegemine	NOUN	S	Case=Ade|Number=Sing	4	obl	_	SpaceAfter=No
-9	.	.	PUNCT	Z	_	4	punct	_	_
+1	Nii	nii	ADV	D	_	4	advmod	4:advmod	_
+2	et	et	SCONJ	J	_	1	fixed	1:fixed	_
+3	tema	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+4	kasutas	kasutama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	Mozartit	Mozart	PROPN	S	Case=Par|Number=Sing	4	obj	4:obj	_
+6	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	7	nmod	7:nmod	_
+7	unistuste	unistus	NOUN	S	Case=Gen|Number=Plur	8	nmod	8:nmod	_
+8	teokstegemisel	teoks_tegemine	NOUN	S	Case=Ade|Number=Sing	4	obl	4:obl	SpaceAfter=No
+9	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 ~~~
 
@@ -41,12 +41,12 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
-1	Rahvast	rahvas	NOUN	S	Case=Par|Number=Sing	2	nsubj	_	_
-2	jooksis	jooksma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	igalt	iga	PRON	P	Case=Abl|Number=Sing|PronType=Tot	2	obl	_	_
-4	poolt	poolt	ADV	D	_	3	fixed	_	_
-5	kokku	kokku	ADV	D	_	2	compound:prt	_	SpaceAfter=No
-6	.	.	PUNCT	Z	_	2	punct	_	_
+1	Rahvast	rahvas	NOUN	S	Case=Par|Number=Sing	2	nsubj	2:nsubj	_
+2	jooksis	jooksma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	igalt	iga	PRON	P	Case=Abl|Number=Sing|PronType=Tot	2	obl	2:obl	_
+4	poolt	poolt	ADV	D	_	3	fixed	3:fixed	_
+5	kokku	kokku	ADV	D	_	2	compound:prt	2:compound	SpaceAfter=No
+6	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 ~~~
 
@@ -57,11 +57,11 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Eriti	eriti	ADV	D	_	4	advmod	_	_
-2	kui	kui	ADV	D	_	1	fixed	_	_
-3	juhe	juhe	NOUN	S	Case=Nom|Number=Sing	4	nsubj:cop	_	_
-4	koos	koos	ADV	D	_	0	root	_	SpaceAfter=No
-5	"	"	PUNCT	Z	_	4	punct	_	_
+1	Eriti	eriti	ADV	D	_	4	advmod	4:advmod	_
+2	kui	kui	ADV	D	_	1	fixed	1:fixed	_
+3	juhe	juhe	NOUN	S	Case=Nom|Number=Sing	4	nsubj:cop	4:nsubj	_
+4	koos	koos	ADV	D	_	0	root	0:root	SpaceAfter=No
+5	"	"	PUNCT	Z	_	4	punct	4:punct	_
 
 ~~~
 

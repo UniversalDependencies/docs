@@ -10,22 +10,22 @@ This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 Some words have combined values of the feature; 1 combinations have been observed: `Card|Ord`.
 
-48 tokens (4%) have a non-empty value of `NumType`.
+49 tokens (4%) have a non-empty value of `NumType`.
 31 types (5%) occur at least once with a non-empty value of `NumType`.
 26 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (47; 4% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (48; 3% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-47 <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> tokens (96% of all `NUM` tokens) have a non-empty value of `NumType`.
+48 <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> tokens (96% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (33; 70%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 68%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (33; 69%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 67%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (42; 89% of non-empty `NumType`): <em>куим, сизим, дас, десятой, кык, сорок, Девять, двадцать, девятьсот, десяти</em>
+* `Card` (43; 90% of non-empty `NumType`): <em>куим, сизим, дас, десятой, кык, вит, сорок, Девять, двадцать, девятьсот</em>
 * `Card,Ord` (1; 2% of non-empty `NumType`): <em>кӧкъямыс</em>
-* `Ord` (4; 9% of non-empty `NumType`): <em>мӧдэд, сизимед, четвёртэй</em>
+* `Ord` (4; 8% of non-empty `NumType`): <em>мӧдэд, сизимед, четвёртэй</em>
 * `EMPTY` (2): <em>вторая, первей</em>
 
 <table>

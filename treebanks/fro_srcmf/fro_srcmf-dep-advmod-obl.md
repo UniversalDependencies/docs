@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="fro_srcmf-dep-advmo
 4 instances of `advmod:obl` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.25.
 
-The following 3 pairs of parts of speech are connected with `advmod:obl`: <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (2; 50% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (1; 25% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (1; 25% instances).
+The following 2 pairs of parts of speech are connected with `advmod:obl`: <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (3; 75% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -26,27 +26,9 @@ The following 3 pairs of parts of speech are connected with `advmod:obl`: <tt><a
 2	quet	_	PRON	CONsub.PROper	_	3	obj	_	_
 3	vedisse	_	VERB	VERcjg	VerbForm=Fin	7	advcl	_	_
 4	sin	_	ADV	ADVgen.PROadv	_	7	advmod:obl	_	_
-5	fui	_	VERB	VERcjg	VerbForm=Fin	7	cop	_	_
+5	fui	_	AUX	VERcjg	VerbForm=Fin	7	cop	_	_
 6	mult	_	ADV	ADVgen	_	7	advmod	_	_
 7	desirruse	_	ADJ	ADJqua	_	0	root	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 advmod:obl	color:blue
-1	Ainz	_	ADV	ADVgen	_	3	advmod	_	_
-2	que	_	SCONJ	CONsub	_	3	mark	_	_
-3	ned	_	VERB	VERppe	Tense=Past|VerbForm=Part	8	advcl	_	_
-4	fusses	_	VERB	VERcjg	VerbForm=Fin	3	aux	_	_
-5	sin	_	PRON	ADVgen.PROadv	_	8	advmod:obl	_	_
-6	fui	_	VERB	VERcjg	VerbForm=Fin	8	cop	_	_
-7	mult	_	ADV	ADVgen	_	8	advmod	_	_
-8	angussuse	_	ADJ	ADJqua	_	0	root	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-892 nodes (2%) are attached to their parents as `det`.
+1515 nodes (2%) are attached to their parents as `det`.
 
-789 instances of `det` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29260089686099.
+1357 instances of `det` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27590759075908.
 
-The following 12 pairs of parts of speech are connected with `det`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (797; 89% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (32; 4% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (31; 3% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (16; 2% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `det`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1378; 91% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (45; 3% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (37; 2% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (31; 2% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 3	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	4	det	_	_
 4	#Топ100	#Топ100	NOUN	_	_	2	obj	_	_
 5	-	-	PUNCT	_	_	7	punct	_	_
-6	что	что	PRON	_	Case=Acc	7	obj	_	_
+6	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
 7	увидеть	видеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	acl	_	_
 8	и	и	CCONJ	_	_	9	cc	_	_
 9	попробовать	пробовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	conj	_	_
@@ -44,7 +44,7 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
-1	Грустно	грустно	ADJ	_	Degree=Pos	0	root	_	_
+1	Грустно	грустно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
 2	все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing	3	det	_	_
 3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	SpaceAfter=No
 4	😥😷	😥😷	SYM	_	_	1	discourse	_	_

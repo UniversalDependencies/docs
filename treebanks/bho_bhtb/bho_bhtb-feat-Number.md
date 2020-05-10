@@ -9,254 +9,263 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-3145 tokens (64%) have a non-empty value of `Number`.
-1360 types (81%) occur at least once with a non-empty value of `Number`.
-1333 lemmas (80%) occur at least once with a non-empty value of `Number`.
-The feature is used with 14 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1175; 24% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (431; 9% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (395; 8% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (327; 7% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (195; 4% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (195; 4% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (160; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (83; 2% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (75; 2% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (70; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (34; 1% instances), <tt><a href="bho_bhtb-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+4274 tokens (64%) have a non-empty value of `Number`.
+1395 types (83%) occur at least once with a non-empty value of `Number`.
+1341 lemmas (82%) occur at least once with a non-empty value of `Number`.
+The feature is used with 14 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1628; 24% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (579; 9% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (546; 8% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (393; 6% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (277; 4% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (276; 4% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (222; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (111; 2% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (99; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (93; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (41; 1% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-1175 <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> tokens (86% of all `NOUN` tokens) have a non-empty value of `Number`.
+1628 <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> tokens (88% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1130; 96%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (884; 75%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (672; 57%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1568; 96%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1228; 75%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (944; 58%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (79; 7% of non-empty `Number`): <em>लोग, आदमी, गायक, जानकारी, दिसाईं, पहिले, रंग, रपट, आनंद, आर्थिक</em>
-* `Sing` (1096; 93% of non-empty `Number`): <em>बिआह, कार्यक्रम, साल, आजु, आयोजन, जी, देश, भाषा, भासा, रंग</em>
-* `EMPTY` (185): <em>जब, बिआह, तब, अब, पहिले, कथा, गवनई, चीफ, शामिल, उहाँ</em>
+* `Plur` (115; 7% of non-empty `Number`): लोग, गायक, जानकारी, दिसाईं, पहिले, आदमी, आनंद, आर्थिक, ओने, कबीर
+* `Sing` (1513; 93% of non-empty `Number`): जी, रंग, देश, बिआह, भाषा, आजु, साल, बात, लोगन, साहित्य
+* `EMPTY` (226): जब, बिआह, तब, अब, पहिले, उहाँ, कथा, गवनई, चीफ, जहाँ
 
 <table>
   <tr><th>Paradigm <i>बिआह</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>बिआह</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>बिआह</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>बिआह</em></td><td><em>बिआह</em></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>बिआह</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>बिआहे</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>बिआह</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>बिआह</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>बिआह</td><td>बिआह</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>बिआह</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>बिआहे</td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 98% lemmas (738) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 97% lemmas (757) occur only with one value of `Number`.
 
 ### `ADP`
 
-431 <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> tokens (60% of all `ADP` tokens) have a non-empty value of `Number`.
+579 <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> tokens (59% of all `ADP` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (423; 98%), <tt><a href="bho_bhtb-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (412; 96%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (261; 61%).
+The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (566; 98%), <tt><a href="bho_bhtb-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (556; 96%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (344; 59%).
 
 `ADP` tokens may have the following values of `Number`:
 
-* `Plur` (71; 16% of non-empty `Number`): <em>के, हमनीके, उठाके, करेके, पढ़िके, लगावेके, लगे, ले, लेके, लोग</em>
-* `Sing` (360; 84% of non-empty `Number`): <em>के, का, ले, वाला, खातिर, साथे, ओके, जाके, उठाके, ओकराके</em>
-* `EMPTY` (289): <em>में, से, पर, के, खातिर, तबे, अतने, का, अपने, उहाँका</em>
+* `Plur` (97; 17% of non-empty `Number`): के, हमनीके, उठाके, लेके, करेके, पढ़िके, लगावेके, लगे, ले, लोग
+* `Sing` (482; 83% of non-empty `Number`): के, का, ले, वाला, खातिर, ओके, जाके, साथे, ओकराके, खड़े
+* `EMPTY` (410): में, से, पर, के, खातिर, तबे, अतने, का, अपने, उहाँका
 
 <table>
   <tr><th>Paradigm <i>का</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>के</em></td><td><em>के</em></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>का</em></td><td><em>के</em></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td><em>के</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>के</em></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>के</td><td>के</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td>के</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>का, के</td><td>के</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>के</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>के</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>के</td></tr>
 </table>
 
 ### `VERB`
 
-395 <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> tokens (71% of all `VERB` tokens) have a non-empty value of `Number`.
+546 <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> tokens (71% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (307; 78%), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (277; 70%), <tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (268; 68%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (264; 67%), <tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (252; 64%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (412; 75%), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (368; 67%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (367; 67%), <tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (340; 62%), <tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (332; 61%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (79; 20% of non-empty `Number`): <em>होखे, चाहीं, होई, जाए, जाता, बा, आवे, दीं, देबे, मए</em>
-* `Sing` (316; 80% of non-empty `Number`): <em>बा, भइल, करे, आइल, क, कइल, कहल, ह, होखे, कहले</em>
-* `EMPTY` (158): <em>हो, कर, ना, ह, होला, करत, कहना, पड़ल, फगुआ, लागल</em>
+* `Plur` (106; 19% of non-empty `Number`): चाहीं, होखे, होई, आवे, जाए, जाता, देबे, बा, मए, लागे
+* `Sing` (440; 81% of non-empty `Number`): बा, भइल, आइल, करे, क, कहल, ह, होखे, कइल, कतहीं
+* `EMPTY` (221): हो, कर, ना, लागल, ह, करत, चलि, धीरे, पड़ल, भइला
 
 <table>
-  <tr><th>Paradigm <i>बा</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>बा</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>बा</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>बा</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>बा</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>बा</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>बा</em></td></tr>
+  <tr><th>Paradigm <i>हो</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>होखे</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>होखी</td><td>होई</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>होखी</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>होखे</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>होखी</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>होई</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>होखे</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>हो</td><td>हो</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>हो</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>हो</td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `VERB`. 94% lemmas (203) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `VERB`. 95% lemmas (215) occur only with one value of `Number`.
 
 ### `PROPN`
 
-327 <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `Number`.
+393 <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> tokens (94% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (324; 99%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (223; 68%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (191; 58%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (390; 99%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (270; 69%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (224; 57%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (3; 1% of non-empty `Number`): <em>हिन्दुस्तान, 25</em>
-* `Sing` (324; 99% of non-empty `Number`): <em>भोजपुरी, प्रियंका, सिंह, राय, जी, दिल्ली, द्विवेदी, पाण्डेय, प्रसाद, उदय</em>
-* `EMPTY` (25): <em>पाती, डा॰, प्रो॰, 2012, 24, अंचल, आनन्द, इटलिए, चोपड़ा, टिप्पणिए</em>
+* `Plur` (3; 1% of non-empty `Number`): हिन्दुस्तान, 25
+* `Sing` (390; 99% of non-empty `Number`): भोजपुरी, सिंह, प्रियंका, राय, जी, डॉ., पाण्डेय, तिवारी, दिल्ली, द्विवेदी
+* `EMPTY` (26): पाती, डा॰, अंचल, टिप्पणिए, प्रो॰, 2012, 24, इटलिए, चोपड़ा, पूर्वांचल
 
 <table>
   <tr><th>Paradigm <i>हिन्दुस्तान</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>हिन्दुस्तान</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>हिन्दुस्तान</em></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>हिन्दुस्तान</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td>हिन्दुस्तान</td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (173) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (180) occur only with one value of `Number`.
 
 ### `AUX`
 
-195 <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Number`.
+277 <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (164; 84%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (159; 82%), <tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (159; 82%), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (140; 72%), <tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (134; 69%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (123; 63%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (235; 85%), <tt><a href="bho_bhtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (234; 84%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (218; 79%), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (195; 70%), <tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (168; 61%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (156; 56%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (13; 7% of non-empty `Number`): <em>चलीं, चाहीं, जसहीं, जाए, जात, दीहें, नाहीं, पहिलहीं, बाड़े, मारीं</em>
-* `Sing` (182; 93% of non-empty `Number`): <em>बा, गइल, रहे, रहल, जाई, जाव, जा, बानी, जात, रहीं</em>
-* `EMPTY` (66): <em>जा, बा, गइल, लागल, हो, आइल, कइले, करी, जात, दिहलसि</em>
+* `Plur` (15; 5% of non-empty `Number`): बाड़न, रहलीं, गइल, चाहीं, जाए, जात, दीहें, देले, बाड़े, मारीं
+* `Sing` (262; 95% of non-empty `Number`): बा, रहे, गइल, रहल, जाई, जाव, जा, रहीं, बानी, सकेला
+* `EMPTY` (78): जा, गइल, बा, हो, बाड़न, दिहलसि, लागल, आइल, कइले, करी
 
 <table>
-  <tr><th>Paradigm <i>जा</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>जाए</em></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>जाई</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>जा</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>जाई</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>जा</em></td><td></td></tr>
+  <tr><th>Paradigm <i>बा</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>बाड़े</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>बा, बाड़न, बाड़</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>बा, बाड़ी</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>बा, बानी</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>बा</td><td>बाड़न</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>बा, बाटे</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>बाड़ें</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>बाड़</td><td></td></tr>
 </table>
-
-`Number` seems to be **lexical feature** of `AUX`. 93% lemmas (42) occur only with one value of `Number`.
 
 ### `PRON`
 
-195 <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> tokens (85% of all `PRON` tokens) have a non-empty value of `Number`.
+276 <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (159; 82%), <tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (157; 81%), <tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (134; 69%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (133; 68%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (100; 51%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (230; 83%), <tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (228; 83%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (184; 67%), <tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (178; 64%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (142; 51%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (56; 29% of non-empty `Number`): <em>ओकरा, हम, आम, एकरा, आपन, इनका, ईहे, एकदम, कलम, काहे</em>
-* `Sing` (139; 71% of non-empty `Number`): <em>अपना, हमरा, आपन, हमनी, ऊ, रउरा, हमार, बिना, उनुकर, उनुका</em>
-* `EMPTY` (35): <em>काहे, ऊ, केहूँ, कहाँ, एकर, अपना, ईहे, उहाँ, एकहूँ, कबो</em>
+* `Plur` (77; 28% of non-empty `Number`): ओकरा, हम, आम, एकरा, एकदम, कलम, तमाम, दरपन, बनाम, हमनी
+* `Sing` (199; 72% of non-empty `Number`): अपना, हमरा, ऊ, आपन, हमनी, रउरा, हमार, बिना, उनुकर, उनुका
+* `EMPTY` (59): ऊ, केहूँ, काहे, कहीं, एकर, कहाँ, ईहे, उहाँ, एकहूँ, कबो
 
 <table>
-  <tr><th>Paradigm <i>काह</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>काहे</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>काहे</em></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>काहे</em></td><td></td></tr>
+  <tr><th>Paradigm <i>हम</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc,Erg</tt></tt></td><td>हम</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>हम</td><td>हम, हमनी</td></tr>
 </table>
-
-`Number` seems to be **lexical feature** of `PRON`. 92% lemmas (54) occur only with one value of `Number`.
 
 ### `DET`
 
-160 <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> tokens (63% of all `DET` tokens) have a non-empty value of `Number`.
+222 <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> tokens (63% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (160; 100%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (148; 93%), <tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (148; 93%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (131; 82%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (98; 61%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (222; 100%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (207; 93%), <tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (191; 86%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (183; 82%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (130; 59%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (17; 11% of non-empty `Number`): <em>आजु, कुछु, सब, सबले, असहिष्णु, ओकरा, ओहु, जासु, जेकरा, पढ़सु</em>
-* `Sing` (143; 89% of non-empty `Number`): <em>ई, कवनो, एह, जवना, अइसन, एही, जवन, सभे, एहमें, ओह</em>
-* `EMPTY` (96): <em>एह, ओकर, ओह, कुछ, हर, अब, ई, आजु, कई, फेरु</em>
+* `Plur` (21; 9% of non-empty `Number`): कुछु, आजु, सब, सबले, असहिष्णु, ओकरा, ओहु, जासु, जेकरा, पढ़सु
+* `Sing` (201; 91% of non-empty `Number`): ई, कवनो, एह, अइसन, जवन, जवना, एही, ओह, सभे, कतना
+* `EMPTY` (131): एह, कुछ, ओकर, ओह, हर, अब, आजु, ई, फेरु, ईहो
 
 <table>
-  <tr><th>Paradigm <i>सभा</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>सभे</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>सभे</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>सभे</em></td></tr>
+  <tr><th>Paradigm <i>आजु</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td>आजुओ</td><td>आजु</td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `DET`. 96% lemmas (46) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `DET`. 94% lemmas (49) occur only with one value of `Number`.
 
 ### `ADJ`
 
-83 <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> tokens (45% of all `ADJ` tokens) have a non-empty value of `Number`.
+111 <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> tokens (44% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (74; 89%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (72; 87%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (71; 86%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (98; 88%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (96; 86%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (95; 86%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (3; 4% of non-empty `Number`): <em>छोट, चोट</em>
-* `Sing` (80; 96% of non-empty `Number`): <em>पूरा, बड़, छोट, तरह, बड़हन, नवका, बेहूदा, भोजपुरिया, अढ़ाई, अश्लील</em>
-* `EMPTY` (100): <em>सांस्कृतिक, प, आसान, खास, जरूरी, तथाकथित, आखिरी, काव्य, चुपचाप, ठीक</em>
+* `Plur` (3; 3% of non-empty `Number`): छोट, चोट
+* `Sing` (108; 97% of non-empty `Number`): पूरा, बड़, छोट, तरह, नवका, बड़हन, भोजपुरिया, अढ़ाई, अश्लील, आधा
+* `EMPTY` (139): सांस्कृतिक, तथाकथित, प, खास, चुपचाप, जरूरी, आखिरी, आसान, काव्य, लइकी
 
 <table>
   <tr><th>Paradigm <i>छोट</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>छोट</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>छोट</em></td><td><em>छोट</em></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>छोट</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>छोट</td><td>छोट</td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `ADJ`. 98% lemmas (60) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADJ`. 99% lemmas (69) occur only with one value of `Number`.
 
 ### `PART`
 
-75 <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> tokens (57% of all `PART` tokens) have a non-empty value of `Number`.
+99 <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> tokens (52% of all `PART` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (72; 96%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (66; 88%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (59; 79%).
+The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (94; 95%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (89; 90%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (79; 80%).
 
 `PART` tokens may have the following values of `Number`:
 
-* `Plur` (13; 17% of non-empty `Number`): <em>नइखे, बहुते, त, तिकवते</em>
-* `Sing` (62; 83% of non-empty `Number`): <em>त, ना, नइखे, बस, अलावे, केहू, खाली, गमगमावे, घटना, जादा</em>
-* `EMPTY` (57): <em>ना, त, ढेर, तनिको, भर, सँ, सभ, अतना, उहाँसे, ठाक</em>
+* `Plur` (17; 17% of non-empty `Number`): नइखे, बहुते, त, तिकवते, नाहीं
+* `Sing` (82; 83% of non-empty `Number`): त, ना, बस, गमगमावे, घटना, नइखे, अतना, अलावे, केहू, खाली
+* `EMPTY` (93): ना, त, नइखे, भर, ढेर, तनिको, बनवले, बिना, भी, सँ
 
 <table>
   <tr><th>Paradigm <i>त</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>त</em></td><td><em>त</em></td></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>त</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>त</td><td>त</td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>त</td><td></td></tr>
 </table>
 
 ### `NUM`
 
-70 <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> tokens (64% of all `NUM` tokens) have a non-empty value of `Number`.
+93 <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> tokens (62% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (70; 100%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (67; 96%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (66; 94%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (55; 79%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (93; 100%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (88; 95%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (87; 94%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (75; 81%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (13; 19% of non-empty `Number`): <em>लोग, उमंग, कलिग</em>
-* `Sing` (57; 81% of non-empty `Number`): <em>एगो, गो, दू, छठवां, दोसरा, दोसरो, २०१२, 2, 5, एके</em>
-* `EMPTY` (40): <em>एक, कुछ, बाकि, 12, 120, 2011, 75, अनकस, आठ, चार</em>
+* `Plur` (21; 23% of non-empty `Number`): लोग, कलिग, उमंग, सन, सभ
+* `Sing` (72; 77% of non-empty `Number`): एगो, गो, दू, 5, छठवां, दोसर, दोसरा, दोसरो, सिलसिला, २०१२
+* `EMPTY` (56): एक, कुछ, अनकस, बाकि, 12, 120, 2011, 75, आठ, एगो
 
-`Number` seems to be **lexical feature** of `NUM`. 100% lemmas (26) occur only with one value of `Number`.
+<table>
+  <tr><th>Paradigm <i>सभ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>सभ</td><td></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td>सभ</td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `NUM`. 96% lemmas (27) occur only with one value of `Number`.
 
 ### `CCONJ`
 
-34 <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> tokens (30% of all `CCONJ` tokens) have a non-empty value of `Number`.
+41 <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> tokens (27% of all `CCONJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `CCONJ` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (24; 71%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (24; 71%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (24; 71%).
+The most frequent other feature values with which `CCONJ` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (30; 73%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (30; 73%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (30; 73%).
 
 `CCONJ` tokens may have the following values of `Number`:
 
-* `Plur` (4; 12% of non-empty `Number`): <em>आ, फगुआ, रउँआ</em>
-* `Sing` (30; 88% of non-empty `Number`): <em>बाकिर, अउर, फगुआ, भा, खम्भा, राउर, आ, आउर, आखिर</em>
-* `EMPTY` (78): <em>आ, बाकिर, अउर, खैर, बलुक, सचहूं</em>
+* `Plur` (4; 10% of non-empty `Number`): आ, फगुआ, रउँआ
+* `Sing` (37; 90% of non-empty `Number`): बाकिर, अउर, फगुआ, भा, राउर, आखिर, खम्भा, आ, आउर
+* `EMPTY` (110): आ, बाकिर, अउर, आउर, खैर, बलुक, सचहूं
 
 <table>
   <tr><th>Paradigm <i>आ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>आ</em></td></tr>
-  <tr><td><tt></tt></td><td><em>आ</em></td><td><em>आ</em></td></tr>
+  <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td>आ</td></tr>
+  <tr><td><tt></tt></td><td>आ</td><td>आ</td></tr>
 </table>
-
-### `INTJ`
-
-3 <tt><a href="bho_bhtb-pos-INTJ.html">INTJ</a></tt> tokens (75% of all `INTJ` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `INTJ` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3; 100%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 100%).
-
-`INTJ` tokens may have the following values of `Number`:
-
-* `Sing` (3; 100% of non-empty `Number`): <em>अरे, गहरे, दोसरे</em>
-* `EMPTY` (1): <em>अजी</em>
 
 ### `ADV`
 
-1 <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `Number`.
+4 <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> tokens (13% of all `ADV` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 75%).
 
 `ADV` tokens may have the following values of `Number`:
 
-* `Sing` (1; 100% of non-empty `Number`): <em>जल्दी</em>
-* `EMPTY` (17): <em>हिन्दी, जइसे, सभ्य, आसानी, गद्य, जल्दी, तेज, दुर्भाग्य, लगातार, ललित</em>
+* `Plur` (1; 25% of non-empty `Number`): नाहिंए
+* `Sing` (3; 75% of non-empty `Number`): आजुओ, जल्दी, शुरू
+* `EMPTY` (28): जइसे, हिन्दी, गद्य, ललित, सभ्य, आनन्द, आसानी, जरूर, जल्दी, जसहीं
+
+### `INTJ`
+
+4 <tt><a href="bho_bhtb-pos-INTJ.html">INTJ</a></tt> tokens (80% of all `INTJ` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `INTJ` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (4; 100%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4; 100%).
+
+`INTJ` tokens may have the following values of `Number`:
+
+* `Sing` (4; 100% of non-empty `Number`): गहरे, अरे, दोसरे
+* `EMPTY` (1): अजी
 
 ### `SCONJ`
 
@@ -264,20 +273,20 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 `SCONJ` tokens may have the following values of `Number`:
 
-* `Plur` (1; 100% of non-empty `Number`): <em>तकले</em>
-* `EMPTY` (85): <em>कि, बाकि, लपकि, काहेंकि, कोच्चि, निकलि</em>
+* `Plur` (1; 100% of non-empty `Number`): तकले
+* `EMPTY` (117): कि, त, काहेंकि, निकलि, बाकि, लपकि, आँखि, कोच्चि, प्रवृत्ति
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (150; 74%),
-<tt>VERB --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (136; 55%),
-<tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (133; 79%),
-<tt>PROPN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (114; 92%),
-<tt>VERB --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (77; 55%),
-<tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> DET</tt> (61; 78%),
-<tt>PROPN --[<tt><a href="bho_bhtb-dep-case.html">case</a></tt>]--> ADP</tt> (40; 57%),
-<tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (39; 75%),
-<tt>VERB --[<tt><a href="bho_bhtb-dep-case.html">case</a></tt>]--> ADP</tt> (34; 55%),
-<tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (33; 92%).
+<tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (216; 73%),
+<tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (188; 77%),
+<tt>VERB --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (182; 53%),
+<tt>PROPN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (137; 93%),
+<tt>VERB --[<tt><a href="bho_bhtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (116; 51%),
+<tt>VERB --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (96; 53%),
+<tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> DET</tt> (74; 76%),
+<tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (46; 73%),
+<tt>PROPN --[<tt><a href="bho_bhtb-dep-case.html">case</a></tt>]--> ADP</tt> (46; 55%),
+<tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (41; 89%).
 

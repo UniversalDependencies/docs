@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-130 tokens (0%) have a non-empty value of `Poss`.
+173 tokens (0%) have a non-empty value of `Poss`.
 12 types (0%) occur at least once with a non-empty value of `Poss`.
 1 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 2 part-of-speech tags: <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (129; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (172; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-129 <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Poss`.
+172 <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (129; 100%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (129; 100%), <tt><a href="et_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (129; 100%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (120; 93%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (172; 100%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (172; 100%), <tt><a href="et_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (172; 100%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (160; 93%).
 
 `PRON` tokens may have the following values of `Poss`:
 
-* `Yes` (129; 100% of non-empty `Poss`): <em>oma, omale, omadega, omad, omade, omaks, omal, omi, on</em>
-* `EMPTY` (2251): <em>see, mis, ma, ta, seda, kes, mida, sa, minu, nad</em>
+* `Yes` (172; 100% of non-empty `Poss`): <em>oma, omale, omadega, omaks, omad, omade, omal, omi, on</em>
+* `EMPTY` (3356): <em>ma, see, mis, ta, seda, kes, midagi, sa, mida, mul</em>
 
 ### `ADJ`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): <em>omas</em>
-* `EMPTY` (1671): <em>hea, õige, head, vana, teatud, võimalik, huvitav, ilus, parem, 3.</em>
+* `EMPTY` (2456): <em>hea, õige, esimene, head, lihtne, inglise, raske, võimalik, antud, huvitav</em>
 

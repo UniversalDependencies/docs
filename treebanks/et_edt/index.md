@@ -19,12 +19,12 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Kadri Muischnek, Kaili Müürisep, Tiina Puolakainen, Andriela Rääbis, Liisi Torga.
 
 Repository: [UD_Estonian-EDT](https://github.com/UniversalDependencies/UD_Estonian-EDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_edt25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_edt26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-NC-SA 4.0
 
-Genre: fiction, news, nonfiction
+Genre: fiction, news, nonfiction, academic
 
 Questions, comments?
 General annotation questions (either Estonian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -115,15 +115,15 @@ This work was financed by the [National Programme for Estonian Language Technolo
 </ul>
 
 <ul>
-<li>This corpus contains 65 lemmas tagged as pronouns (PRON): ei-tea-mitmes, ei_keegi, ei_miski, esimene, iga, iga_sugune, iga_üks, ise, ise_enese, keegi, kes, kolmas, kumb, kumbki, kõik, mi-mina, milleks, milline, mina, minema, mingi, mingi_sugune, minu-mina, minu_sugune, mis, mis_sugune, miski, mitme_sugune, mitu, muu, mõlema, mõni, neljas, nemad, nii_paljuke, nii_sugune, oma, oma_enese, oma_sugune, oma_taoline, palju, sama, sama_sugune, see, see_sama, see_samune, see_sugune, selline, sihuke, sina, sinu_sugune, säärane, teie_sugune, teine, teine_teise, teineteise, teist_sugune, tema, tema_sugune, too, too_sama, üks, üks_teise, üks_teist, ükski</li>
+<li>This corpus contains 62 lemmas tagged as pronouns (PRON): ei-tea-mitmes, ei_keegi, ei_miski, esimene, iga, iga_sugune, iga_üks, ise, ise_enese, keegi, kes, kumb, kumbki, kõik, mi-mina, milleks, milline, mina, mingi, mingi_sugune, minu-mina, minu_sugune, mis, mis_sugune, miski, mitme_sugune, mitu, muu, mõlema, mõni, nemad, nii_paljuke, nii_sugune, oma, oma_enese, oma_sugune, oma_taoline, palju, sama, sama_sugune, see, see_sama, see_samune, see_sugune, selline, sihuke, sina, sinu_sugune, säärane, teie_sugune, teine, teine_teise, teineteise, teist_sugune, tema, tema_sugune, too, too_sama, üks, üks_teise, üks_teist, ükski</li>
 </ul>
 
 <ul>
-<li>This corpus contains 55 lemmas tagged as determiners (DET): Iga_üks, Oma, esimene, iga, iga_sugu, iga_sugune, keegi, kogu, kolmas, kumb, kumbki, kõik, meie_sugune, milline, mingi, mingi_sugune, minu_sugune, mis, mis_sugune, miski, mitme_sugune, mitmene, mitmes, mitu, muist, muu, mõlema, mõne_sugune, mõni, mõningane, mõningas, nihuke, nii_sugune, palju, sama, sama_sugune, see, see-ja-see, see_sama, see_sugune, selline, sihuke, siuke, säärane, taoline, teine, teist_sugune, tema_sugune, tema_taoline, terve, too, too_sama, üks, üks_teise, ükski</li>
+<li>This corpus contains 52 lemmas tagged as determiners (DET): Oma, esimene, iga, iga_sugu, iga_sugune, keegi, kogu, kolmas, kumb, kumbki, kõik, meie_sugune, milline, mingi, mingi_sugune, minu_sugune, mis, mis_sugune, miski, mitme_sugune, mitmes, mitu, muist, muu, mõlema, mõne_sugune, mõni, mõningane, mõningas, nihuke, nii_sugune, palju, sama, sama_sugune, see, see-ja-see, see_sama, see_sugune, selline, sihuke, siuke, säärane, taoline, teine, teist_sugune, tema_sugune, tema_taoline, terve, too, too_sama, üks, ükski</li>
 </ul>
 
 <ul>
-<li>Out of the above, 38 lemmas occurred sometimes as PRON and sometimes as DET: esimene, iga, iga_sugune, keegi, kolmas, kumb, kumbki, kõik, milline, mingi, mingi_sugune, minu_sugune, mis, mis_sugune, miski, mitme_sugune, mitu, muu, mõlema, mõni, nii_sugune, palju, sama, sama_sugune, see, see_sama, see_sugune, selline, sihuke, säärane, teine, teist_sugune, tema_sugune, too, too_sama, üks, üks_teise, ükski</li>
+<li>Out of the above, 36 lemmas occurred sometimes as PRON and sometimes as DET: esimene, iga, iga_sugune, keegi, kumb, kumbki, kõik, milline, mingi, mingi_sugune, minu_sugune, mis, mis_sugune, miski, mitme_sugune, mitu, muu, mõlema, mõni, nii_sugune, palju, sama, sama_sugune, see, see_sama, see_sugune, selline, sihuke, säärane, teine, teist_sugune, tema_sugune, too, too_sama, üks, ükski</li>
 </ul>
 
 <ul>
@@ -209,7 +209,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>NUM: pooled, tuhandeid, miljoneid, kümneid, miljardeid, tuhanded, sadu, sajad, kümnete, miljonite</li>
       <li>PRON: nad, nende, meie, kes, me, mis, neid, need, meil, mida</li>
       <li>PROPN: Nõukogude, Mõõdukad, Põhjamaade, Ühendriikide, Ametiühingute, Arstide, Baltimaade, Bekajd, Jagomägede, Mõõdukate</li>
-      <li>VERB-Fin: on, saavad, said, hakkavad, jäävad, tulevad, annavad, teevad, lähevad, jäid</li>
+      <li>VERB-Fin: saavad, on, said, hakkavad, jäävad, tulevad, annavad, teevad, lähevad, jäid</li>
     </ul>
   </li>
 </ul>
@@ -219,7 +219,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
     <ul>
       <li>ADJ: suur, hea, võimalik, suurem, uue, suure, raske, oluline, esimene, viimase</li>
       <li>ADJ-Part: huvitav, erinev, vastava, vastav, erineva, erinevat, käesoleva, olev, elav, meeldiv</li>
-      <li>ADV: laiemalt, optimaalsemalt, otstarbekamalt, täis</li>
+      <li>ADV: täis</li>
       <li>AUX-Fin: on, oli, võib, saab, olen, peab, olin, pidi, võis, ongi</li>
       <li>CCONJ: või</li>
       <li>DET: see, selle, üks, iga, seda, sel, ühe, sama, samal, mitu</li>
@@ -258,7 +258,6 @@ This work was financed by the [National Programme for Estonian Language Technolo
     <ul>
       <li>ADJ: esimeselt, vasakult, puhtalt, teiselt, vahetumalt, 2008., Kaugelt, Vaimsetelt, Vanematelt, Vormikohastelt</li>
       <li>ADJ-Part: asuvalt, kasvavalt, lebavalt, olevalt, piirnevalt, saadavatelt, tiirlevatelt, valitsevatelt, vastujuhtuvatelt</li>
-      <li>ADV: laiemalt, optimaalsemalt, otstarbekamalt</li>
       <li>DET: ühelt, teistelt, kõigilt, mitmelt, samalt, sellelt, Igasuguselt, igalt, minusuguselt, mitmetelt</li>
       <li>NOUN: töölt, maalt, seisukohalt, riigilt, välismaalt, inimestelt, katuselt, lavalt, põrandalt, turult</li>
       <li>NUM: ühelt, 100, miljonilt, 11, 1245, 3,7, 30-lt, 33-lt, 35, 58</li>
@@ -273,7 +272,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
   <li>Add
     <ul>
       <li>ADJ: uude, esimesse, laia, kohalikku, suurde, kummalisse, pikka, riiklikku, tagumisse, 16.</li>
-      <li>DET: teise, mõnda, ühte, kumba, kumbagi, mitmesse</li>
+      <li>DET: teise, mõnda, ühte, kumba, kumbagi</li>
       <li>NOUN: kätte, koju, tuppa, meelde, silma, selga, kööki, pähe, ellu, toime</li>
       <li>NUM: kahte, nelja, viide, ühte, -45,8, 1996, 45, 8-9, kolme, kuude</li>
       <li>PRON: teise, ühte</li>
@@ -394,7 +393,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>NUM: kümnetesse, esikaheksasse, miljarditesse, seitsmesse</li>
       <li>PRON: sellesse, endasse, temasse, millesse, kellesse, kellessegi, neisse, üksteisesse, millessegi, mitmetesse</li>
       <li>PROPN: Eestisse, Tartusse, Euroopasse, NATOsse, Tallinnasse, Moskvasse, Ameerikasse, Hiinasse, Helsingisse, Indiasse</li>
-      <li>VERB-Sup: hakkama, tegema, minema, saama, võtma, maksma, käima, vaatama, tulema, andma</li>
+      <li>VERB-Sup: hakkama, minema, tegema, saama, võtma, maksma, käima, vaatama, tulema, andma</li>
     </ul>
   </li>
 </ul>
@@ -473,7 +472,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>NOUN: lisaks, põhjuseks, aluseks, aastaks, eesmärgiks, ajaks, kasuks, lõpuks, õnneks, ülesandeks</li>
       <li>NOUN-Part: viibinuks, väljavalituteks</li>
       <li>NUM: kaheks, üheks, 99, kolmeks, neljaks, viieks, paariks, kuueks, pooleks, 10-15</li>
-      <li>PRON: selleks, omaks, samaks, milleks, nendeks, selliseks, iseendaks, kelleks, kõigeks, paljudeks</li>
+      <li>PRON: selleks, omaks, milleks, samaks, nendeks, selliseks, iseendaks, kelleks, kõigeks, paljudeks</li>
       <li>PROPN: Arpanetiks, Atriumiks, Cabernet'-veiniks, Chappaquaks, Entente'iks, Franckiks, Francoks, Freewomaniks, Hitleriks, Indiaks</li>
       <li>SYM: A-ks</li>
       <li>VERB-Sup: leidmaks, kirjeldamaks, vältimaks, näitamaks, rõhutamaks, selgitamaks, Andmaks, Jõudmaks, Kavandamaks, Saavutamaks</li>
@@ -495,7 +494,6 @@ This work was financed by the [National Programme for Estonian Language Technolo
     <ul>
       <li>ADJ: suurem, suurema, parem, väiksem, suuremad, kõrgem, suuremat, lihtsam, kõrgema, parema</li>
       <li>ADJ-Part: adutavamaid, eelistatavamad, hinnatavam, konverteeritavam, nauditavam, nähtavam, soovitatavam</li>
-      <li>ADV: laiemalt, optimaalsemalt, otstarbekamalt</li>
     </ul>
   </li>
 </ul>
@@ -691,8 +689,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 <ul>
   <li>Int,Rel
     <ul>
-      <li>ADJ: missugune, Missugust, milline, missugused, mitmendal</li>
-      <li>ADV: kus</li>
+      <li>ADJ: missugune, Missugust, kumb, milline, missugused, mitmendal</li>
       <li>DET: mis, millise, millist, missugune, missugused, kumb, millised, missugust, Milliseid, kumba</li>
       <li>PRON: mis, kes, mida, mille, kelle, millest, millega, kellel, milles, keda</li>
     </ul>
@@ -715,8 +712,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 <ul>
   <li>Rcp
     <ul>
-      <li>DET: üksteise</li>
-      <li>PRON: teineteist, teineteise, teineteisest, üksteist, üksteisest, teineteisele, üksteise, üksteisele, iseenda, üksteisega</li>
+      <li>PRON: teineteist, teineteise, teineteisest, üksteist, üksteise, üksteisest, teineteisele, üksteisele, iseenda, üksteisega</li>
     </ul>
   </li>
 </ul>
@@ -724,7 +720,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 <ul>
   <li>Rel
     <ul>
-      <li>ADJ: milline, millised, millist, kumb, millise, milliseid, millises, millisesse, milliste, milliseks</li>
+      <li>ADJ: milline, millised, millist, millise, kumb, milliseid, millises, millisesse, milliste, milliseks</li>
       <li>ADV: kus</li>
       <li>DET: millise, millist, millised, milliseid, milline, millises, kumma, kummas, millisest, milliste</li>
       <li>PRON: mis, kes, mida, mille, milline, millised, kelle, kellel, keda, kellele</li>
@@ -793,7 +789,6 @@ This work was financed by the [National Programme for Estonian Language Technolo
 <ul>
   <li>Yes
     <ul>
-      <li>DET: üksteise</li>
       <li>PRON: ise, end, endale, enda, ennast, endast, endal, iseenda, enese, endaga</li>
     </ul>
   </li>
@@ -901,7 +896,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
           <li>ADJ: druzhnõi</li>
           <li>ADV: nahui, so, u</li>
           <li>CCONJ: versus</li>
-          <li>NOUN: camera, factory, live, obscura, outlet</li>
+          <li>NOUN: camera, factory, live, obscura, outlet, injunction, preliminary</li>
           <li>PROPN: Holy, Night, O, Big, Dream, Earth, Sex, Song, Study</li>
           <li>X: tõ, ?????, Proopusk, in, jesh, la, stupai, á, ??????????, ?????????????</li>
         </ul>
@@ -943,11 +938,8 @@ This work was financed by the [National Programme for Estonian Language Technolo
       </li>
       <li>Letter
         <ul>
-          <li>ADJ: esimene, esimest, esimese, teine, teise, esimesel, esimesed, esimeses, teisel, kolmas</li>
-          <li>DET: üks</li>
-          <li>NOUN: Esimese, paarid, poolt</li>
+          <li>ADJ: esimene, esimest, esimese, teine, teise, esimesel, esimesed, teisel, esimeses, kolmas</li>
           <li>NUM: kaks, üks, kolm, kahe, miljonit, ühe, viis, miljoni, neli, kolme</li>
-          <li>PRON: kolmandal</li>
           <li>PROPN: Teist, Teise, Kolmanda, Esimene, Esimese, Kolme, Neljanda, Neljandal, Teisel</li>
         </ul>
       </li>
@@ -989,17 +981,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(ringis) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(üle) (3)</li>
       <li>VERB-Fin--NOUN-Ine (2)</li>
-      <li>VERB-Fin--NOUN-Nom (11366)</li>
-      <li>VERB-Fin--NOUN-Par (1071)</li>
+      <li>VERB-Fin--NOUN-Nom (11364)</li>
+      <li>VERB-Fin--NOUN-Par (1070)</li>
       <li>VERB-Fin--NOUN-Par-ADP(kuni) (1)</li>
-      <li>VERB-Fin--PRON-Nom (5786)</li>
+      <li>VERB-Fin--PRON-Nom (5789)</li>
       <li>VERB-Fin--PRON-Par (139)</li>
       <li>VERB-Inf--NOUN (4)</li>
       <li>VERB-Inf--NOUN-Gen (3)</li>
       <li>VERB-Inf--NOUN-Nom (521)</li>
       <li>VERB-Inf--NOUN-Par (51)</li>
       <li>VERB-Inf--PRON-Nom (273)</li>
-      <li>VERB-Inf--PRON-Par (16)</li>
+      <li>VERB-Inf--PRON-Par (15)</li>
       <li>VERB-Part--NOUN (3)</li>
       <li>VERB-Part--NOUN-Gen (7)</li>
       <li>VERB-Part--NOUN-Ine (1)</li>
@@ -1012,7 +1004,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Sup--NOUN-Ine (1)</li>
       <li>VERB-Sup--NOUN-Nom (314)</li>
       <li>VERB-Sup--NOUN-Par (18)</li>
-      <li>VERB-Sup--PRON-Nom (177)</li>
+      <li>VERB-Sup--PRON-Nom (176)</li>
       <li>VERB-Sup--PRON-Par (5)</li>
     </ul>
   </li>
@@ -1035,21 +1027,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Par (6103)</li>
       <li>VERB-Fin--NOUN-Par-ADP(kuni) (2)</li>
       <li>VERB-Fin--PRON-Gen (186)</li>
-      <li>VERB-Fin--PRON-Nom (195)</li>
-      <li>VERB-Fin--PRON-Par (1485)</li>
+      <li>VERB-Fin--PRON-Nom (194)</li>
+      <li>VERB-Fin--PRON-Par (1486)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Gen (307)</li>
+      <li>VERB-Inf--NOUN-Gen (306)</li>
       <li>VERB-Inf--NOUN-Nom (632)</li>
       <li>VERB-Inf--NOUN-Par (2544)</li>
       <li>VERB-Inf--NOUN-Par-ADP(kuni) (1)</li>
       <li>VERB-Inf--PRON-Gen (24)</li>
       <li>VERB-Inf--PRON-Nom (59)</li>
-      <li>VERB-Inf--PRON-Par (632)</li>
+      <li>VERB-Inf--PRON-Par (633)</li>
       <li>VERB-Part--NOUN (6)</li>
       <li>VERB-Part--NOUN-Gen (312)</li>
       <li>VERB-Part--NOUN-Gen-ADP(üle) (1)</li>
       <li>VERB-Part--NOUN-Nom (731)</li>
-      <li>VERB-Part--NOUN-Par (919)</li>
+      <li>VERB-Part--NOUN-Par (920)</li>
       <li>VERB-Part--NOUN-Par-ADP(kuni) (1)</li>
       <li>VERB-Part--PRON-Gen (28)</li>
       <li>VERB-Part--PRON-Nom (170)</li>

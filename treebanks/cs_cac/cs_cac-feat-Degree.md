@@ -95,7 +95,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (1516; 14% of non-empty `Degree`): <em>více, dále, méně, později, dříve, víc, spíše, lépe, dál, výše</em>
 * `Pos` (8637; 81% of non-empty `Degree`): <em>tedy, často, stále, dobře, přímo, současně, stejně, hlavně, postupně, jistě</em>
 * `Sup` (449; 4% of non-empty `Degree`): <em>nejméně, nejlépe, nejvíce, nejdříve, nejčastěji, nejpozději, nejvíc, nejvýše, nejdéle, nejrychleji</em>
-* `EMPTY` (16963): <em>tak, také, jak, již, už, ještě, pak, kde, velmi, třeba</em>
+* `EMPTY` (17530): <em>tak, také, jak, proto, již, už, ještě, pak, kde, velmi</em>
 
 <table>
   <tr><th>Paradigm <i>dobře</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

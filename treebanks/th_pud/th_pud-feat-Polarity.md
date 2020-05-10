@@ -22,6 +22,6 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (205; 100% of non-empty `Polarity`): <em>ไม่, ความไม่, มิ, อย่างไม่, การไม่</em>
-* `EMPTY` (804): <em>ได้, ไป, มา, ขึ้น, อยู่, แล้ว, ออก, ยัง, ลง, กำลัง</em>
+* `Neg` (205; 100% of non-empty `Polarity`): ไม่, ความไม่, มิ, อย่างไม่, การไม่
+* `EMPTY` (804): ได้, ไป, มา, ขึ้น, อยู่, แล้ว, ออก, ยัง, ลง, กำลัง
 

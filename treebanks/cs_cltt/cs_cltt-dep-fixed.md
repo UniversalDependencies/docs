@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-362 nodes (1%) are attached to their parents as `fixed`.
+364 nodes (1%) are attached to their parents as `fixed`.
 
-362 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.18508287292818.
+364 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.18406593406593.
 
-The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (258; 71% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (66; 18% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (33; 9% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (258; 71% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (66; 18% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (33; 9% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

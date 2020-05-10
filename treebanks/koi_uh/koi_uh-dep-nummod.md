@@ -8,33 +8,34 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (1%) are attached to their parents as `nummod`.
+5 nodes (1%) are attached to their parents as `nummod`.
 
-3 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.66666666666667.
+5 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.6.
 
-The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (3; 100% instances).
+The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (5; 100% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 nummod	color:blue
-1	Дёма	Дёма	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom
-2	да	да	CCONJ	_	_	3	cc	_	_
-3	Лида	Лида	PROPN	_	Case=Nom|Number=Sing	1	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-4	мунісӧ	мунны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
-5	ордчӧн	ордчӧн	ADV	_	_	4	advmod	_	_
-6	кык	кык	NUM	_	NumType=Card	7	nummod	_	GTtags=Card,Abs
-7	квартал	квартал	NOUN	_	Case=Nom|Number=Sing	4	obl	_	GTtags=Sg,Nom
-8	и	и	CCONJ	_	_	12	cc	_	_
-9	ӧтамӧдлӧ	ӧтамӧд	PRON	_	Case=All|Number=Sing	12	obl	_	GTtags=Sg,All
-10	только	только	ADV	_	_	12	advmod	_	_
-11	кыкисьӧн	кыкисьӧн	ADV	_	NumType=MultDist	12	advmod	_	GTtags=Mult,Distr
-12	шыасисӧ	шыасьны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	conj	_	SpaceAfter=No
-13	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nummod	color:blue
+1	А	а	CCONJ	CC	_	6	cc	_	GTtags=CC
+2	вот	вот	ADV	Adv	_	6	advmod	_	GTtags=Adv
+3	эна	эна	PRON	_	Case=Nom|Number=Plur|PronType=Dem	5	det	_	_
+4	кык	кык	NUM	Num	NumType=Card	5	nummod	_	GTtags=Num,Card,Cmpl
+5	керкуын	керку	NOUN	N	Case=Ine|Number=Sing	6	obl:lmod	_	GTtags=N,Sg,Ine
+6	олісӧ	овны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=V,IV,Ind,Prt1,Pl3
+7	воннэз	вон	NOUN	N	Case=Nom|Number=Plur	6	nsubj	_	GTtags=N,Pl,Nom|SpaceAfter=No
+8	:	:	PUNCT	CLB	_	9	punct	_	GTtags=CLB
+9	Нетулика	Нетулика	PROPN	NameType=Giv	_	7	list	_	_
+10	Сеня	Сень	NOUN	N	Derivation=ProprietiveMod|NameType=Giv|Number=Sing	9	flat:name	_	GTtags=N,Prop,Sem/Sur,Sg,Der,Der/ProprietiveMod,A
+11	да	да	CCONJ	CC	_	12	cc	_	GTtags=CC
+12	Тулика	Тулика	PROPN	_	NameType=Giv	7	list	_	_
+13	Прокоп	Прокоп	PROPN	N	Case=Nom|NameType=Giv|Number=Sing	12	flat:name	_	GTtags=N,Prop,Sem/Sur,Sg,Nom|SpaceAfter=No
+14	.	.	PUNCT	CLB	_	6	punct	_	GTtags=CLB
 
 ~~~
 

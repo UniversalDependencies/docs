@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-163 nodes (6%) are attached to their parents as `obj`.
+536 nodes (7%) are attached to their parents as `obj`.
 
-148 instances of `obj` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.53374233128834.
+494 instances of `obj` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.74067164179104.
 
-The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (83; 51% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (72; 44% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 19 pairs of parts of speech are connected with `obj`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (319; 60% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (163; 30% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (16; 3% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=JOHN_10.31
 8	láti	láti	ADP	_	_	9	case	_	Gloss=to|Ref=JOHN_10.31
 9	sọ	sọ	VERB	_	_	5	advcl	_	Gloss=throw|Ref=JOHN_10.31
-10	lù	lù	VERB	_	_	9	compound:svc	_	Gloss=upon|Ref=JOHN_10.31
+10	lù	lù	VERB	_	_	9	compound:svc	_	Gloss=beat|Ref=JOHN_10.31
 11	ú	ú	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	obj	_	Gloss=him|Ref=JOHN_10.31|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=JOHN_10.31
 
@@ -60,31 +60,39 @@ The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 obj	color:blue
-1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	6	cc	_	Gloss=but|Ref=JOHN_11.46
-2	àwọn	àwọn	DET	_	_	3	det	_	Gloss=the|Ref=JOHN_11.46
-3	ẹlòmíràn	ẹlòmíràn	ADJ	_	_	6	nsubj	_	Gloss=others|Ref=JOHN_11.46
-4	nínú	nínú	ADP	_	_	5	case	_	Gloss=in|Ref=JOHN_11.46
-5	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nmod	_	Gloss=them|Ref=JOHN_11.46
-6	tọ	tọ	VERB	_	_	0	root	_	Gloss=went|Ref=JOHN_11.46
-7	àwọn	àwọn	DET	_	_	8	det	_	Gloss=the|Ref=JOHN_11.46
-8	Farisí	farisí	PROPN	_	_	6	obj	_	Gloss=pharisees|Ref=JOHN_11.46
-9	lọ	lọ	VERB	_	_	6	compound:svc	_	Gloss=go|Ref=JOHN_11.46|SpaceAfter=No
-10	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=JOHN_11.46
-11	wọ́n	wọ́n	PRON	_	_	13	nsubj	_	Gloss=they|Ref=JOHN_11.46
-12	sì	sì	CCONJ	_	_	13	cc	_	Gloss=then|Ref=JOHN_11.46
-13	sọ	sọ	VERB	_	_	6	conj	_	Gloss=spake|Ref=JOHN_11.46
-14	fún	fún	ADP	_	_	15	case	_	Gloss=unto|Ref=JOHN_11.46
-15	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	obl	_	Gloss=them|Ref=JOHN_11.46
-16	ohun	ohun	NOUN	_	_	13	obj	_	Gloss=thing|Ref=JOHN_11.46
-17	tí	tí	PRON	_	PronType=Rel	19	obj	_	Gloss=that|Ref=JOHN_11.46
-18	Jésù	jésù	PROPN	_	_	19	nsubj	_	Gloss=jesus|Ref=JOHN_11.46
-19	ṣe	ṣe	VERB	_	_	16	acl	_	Gloss=do|Ref=JOHN_11.46|SpaceAfter=No
-20	.	.	PUNCT	_	_	6	punct	_	Gloss=.|Ref=JOHN_11.46
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 20 obj	color:blue
+1	Nítorí	Nítorí	SCONJ	_	_	4	mark	_	Ref=MARK_5.28|Gloss=because
+2	ti	tí	PRON	_	PronType=Rel|Typo=Yes	1	fixed	_	Ref=MARK_5.28|Gloss=
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Ref=MARK_5.28|Gloss=she
+4	rò	rò	VERB	_	_	0	root	_	Ref=MARK_5.28|Gloss=think
+5	ní	ní	ADP	_	_	6	case	_	Ref=MARK_5.28|Gloss=in
+6	ọkàn	ọkàn	NOUN	_	_	4	obl	_	Ref=MARK_5.28|Gloss=heart
+7	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	nmod	_	Ref=MARK_5.28|Gloss=her
+8	pé	pé	SCONJ	_	_	17	mark	_	Ref=MARK_5.28|SpaceAfter=No|Gloss=that
+9	,	,	PUNCT	_	_	17	punct	_	Ref=MARK_5.28|Gloss=,
+10	“	“	PUNCT	_	_	17	punct	_	Ref=MARK_5.28|SpaceAfter=No|Gloss=“
+11	Bí	Bí	SCONJ	_	_	17	mark	_	Ref=MARK_5.28|Gloss=if
+12	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	Ref=MARK_5.28|Gloss=i
+13	bá	bá	SCONJ	_	_	17	mark	_	Ref=MARK_5.28|Gloss=if
+14	ṣá	ṣá	ADV	_	_	17	advmod	_	Ref=MARK_5.28|Gloss=may
+15	à	à	X	_	_	14	goeswith	_	Ref=MARK_5.28|Gloss=
+16	lè	lè	AUX	_	_	17	aux	_	Ref=MARK_5.28|Gloss=can
+17	fi	fi	VERB	_	_	4	conj	_	Ref=MARK_5.28|Gloss=use
+18	ọwọ́	ọwọ́	NOUN	_	_	17	obj	_	Ref=MARK_5.28|Gloss=hand
+19	kan	kan	VERB	_	_	18	compound:svc	_	Ref=MARK_5.28|Gloss=touch
+20	aṣọ	aṣọ	NOUN	_	_	18	obj	_	Ref=MARK_5.28|Gloss=garments
+21	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	20	nmod	_	Ref=MARK_5.28|SpaceAfter=No|Gloss=his
+22	,	,	PUNCT	_	_	26	punct	_	Ref=MARK_5.28|Gloss=,
+23	ara	ara	PRON	_	PronType=Emp	26	nsubj	_	Ref=MARK_5.28|Gloss=self
+24	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	23	nmod	_	Ref=MARK_5.28|Gloss=my
+25	yóò	yóò	AUX	_	_	26	aux	_	Ref=MARK_5.28|Gloss=shall
+26	dá	dá	VERB	_	_	17	compound:svc	_	Ref=MARK_5.28|Gloss=heal|SpaceAfter=No
+27	.	.	PUNCT	_	_	17	punct	_	Ref=MARK_5.28|Gloss=.|SpaceAfter=No
+28	”	”	PUNCT	_	_	17	punct	_	Ref=MARK_5.28|Gloss=”
 
 ~~~
 

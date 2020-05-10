@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `vocative`.
+6 nodes (0%) are attached to their parents as `vocative`.
 
-3 instances of `vocative` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.8.
+3 instances of `vocative` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.
 
-The following 2 pairs of parts of speech are connected with `vocative`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (4; 80% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+The following 2 pairs of parts of speech are connected with `vocative`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (5; 83% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 1 vocative	color:blue
 1	Сэм	сэм	NOUN	N	Case=Nom|Number=Sing	3	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	1	punct	_	_
-3	восьты	восьтны	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+2	,	,	PUNCT	CLB	_	3	punct	_	_
+3	восьты	восьтны	VERB	V	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 4	ӧшиньсӧ	ӧшинь	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	SpaceAfter=No
 5	!	!	PUNCT	CLB	_	3	punct	_	_
 

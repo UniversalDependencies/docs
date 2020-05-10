@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `CCONJ`
 
-There are 13 `CCONJ` lemmas (0%), 14 `CCONJ` types (0%) and 1637 `CCONJ` tokens (2%).
+There are 12 `CCONJ` lemmas (0%), 14 `CCONJ` types (0%) and 1637 `CCONJ` tokens (2%).
 Out of 17 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 12 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>et, ou, mais, puis, car, ni, soit, or, -, tantôt</em>
@@ -37,13 +37,13 @@ The 10 most frequent ambiguous types:  <em>puis</em> (<tt><a href="fr_sequoia-po
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.076923 (the average of all parts of speech is 1.401419).
+The form / lemma ratio of `CCONJ` is 1.166667 (the average of all parts of speech is 1.404382).
 
 The 1st highest number of forms (2) was observed with the lemma “et”: <em>&, et</em>.
 
 The 2nd highest number of forms (2) was observed with the lemma “ou”: <em>/, ou</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
+The 3rd highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
 
 `CCONJ` does not occur with any features.
 

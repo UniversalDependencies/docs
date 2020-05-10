@@ -46,8 +46,8 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 1	Ahi	_	INTJ	INJ	_	6	discourse	_	_
 2	Tristran	_	PROPN	NOMpro	_	6	vocative	_	_
 3	tant	_	ADV	ADVgen	_	6	advmod	_	_
-4	par	_	ADP	PRE	_	6	advmod	_	_
-5	es	_	VERB	VERcjg	VerbForm=Fin	6	cop	_	_
+4	par	_	ADV	ADVgen	_	6	advmod	_	_
+5	es	_	AUX	VERcjg	VerbForm=Fin	6	cop	_	_
 6	ber	_	ADJ	ADJqua	_	0	root	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	por	_	ADP	PRE	_	6	case	_	_
 6	Dieu	_	PROPN	NOMpro	_	7	obl	_	_
 7	que	_	PRON	PROint	PronType=Int	0	root	_	_
-8	est	_	VERB	VERcjg	VerbForm=Fin	7	cop	_	_
+8	est	_	AUX	VERcjg	VerbForm=Fin	7	cop	_	_
 9	ce	_	PRON	PROdem	PronType=Dem	7	nsubj	_	_
 10	que	_	PRON	PROrel	PronType=Prs,Rel	12	obj	_	_
 11	vos	_	PRON	PROper	PronType=Prs	12	nsubj	_	_

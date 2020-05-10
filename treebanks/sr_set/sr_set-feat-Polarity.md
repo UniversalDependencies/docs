@@ -11,7 +11,7 @@ It occurs with 1 different values: `Neg`.
 
 633 tokens (1%) have a non-empty value of `Polarity`.
 12 types (0%) occur at least once with a non-empty value of `Polarity`.
-6 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
+5 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 2 part-of-speech tags: <tt><a href="sr_set-pos-PART.html">PART</a></tt> (347; 0% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (286; 0% instances).
 
 ### `PART`
@@ -32,5 +32,5 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (286; 100% of non-empty `Polarity`): <em>nije, nisu, neće, nismo, nisam, nećemo, neću</em>
-* `EMPTY` (5902): <em>je, su, će, bi, biti, bio, bude, smo, bilo, bila</em>
+* `EMPTY` (5917): <em>je, su, će, bi, biti, bio, bude, smo, bilo, bila</em>
 

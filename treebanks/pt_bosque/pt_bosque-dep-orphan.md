@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (0%) are attached to their parents as `orphan`.
+12 nodes (0%) are attached to their parents as `orphan`.
 
-14 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.
+12 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.91666666666667.
 
-The following 9 pairs of parts of speech are connected with `orphan`: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (5; 36% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (2; 14% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 7% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 7% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 7% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (1; 7% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 7% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 7% instances).
+The following 9 pairs of parts of speech are connected with `orphan`: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (2; 17% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (2; 17% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (2; 17% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 8% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (1; 8% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 8% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -81,30 +81,38 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 16 orphan	color:blue
-1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	homem	homem	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	fuma	fumar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	entre	entre	ADP	_	_	5	case	_	_
-5	11	11	NUM	_	NumType=Card	8	nummod	_	_
-6	e	e	CCONJ	_	_	7	cc	_	_
-7	20	20	NUM	_	NumType=Card	5	conj	_	_
-8	cigarros	cigarro	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
-9	por	por	ADP	_	_	10	case	_	_
-10	dia	dia	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
-11	e	e	CCONJ	_	_	13	cc	_	_
-12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	mulher	mulher	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	13	punct	_	_
-15	entre	entre	ADP	_	_	16	case	_	_
-16	5	5	NUM	_	NumType=Card	13	orphan	_	_
-17	e	e	CCONJ	_	_	18	cc	_	_
-18	10	10	NUM	_	NumType=Card	16	conj	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 orphan	color:blue
+1	George	George	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	fazia	fazer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	música	música	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	Ira	Ira	PROPN	_	Gender=Masc|Number=Sing	2	conj	_	_
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	letra	letra	NOUN	_	Gender=Fem|Number=Sing	6	orphan	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	2	punct	_	_
+10	embora	embora	SCONJ	_	_	19	mark	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	como	como	ADP	_	_	15	case	_	_
+13	em	em	ADP	_	_	15	case	_	_
+14	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	15	det	_	_
+15	parceria	parceria	NOUN	_	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	cada	cada	PRON	_	Gender=Unsp|Number=Sing|PronType=Tot	19	nsubj	_	_
+18	qual	qual	DET	_	Gender=Unsp|Number=Sing|PronType=Rel	17	fixed	_	_
+19	desse	dar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+20	palpites	palpite	NOUN	_	Gender=Masc|Number=Plur	19	obj	_	_
+21	em	em	ADP	_	_	23	case	_	_
+22	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	especialidade	especialidade	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	_
+24	de	de	ADP	_	_	26	case	_	_
+25	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	outro	outro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	23	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

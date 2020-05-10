@@ -58,7 +58,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 9	fgColor:white
 # visual-style 9 7 csubj	color:blue
 1	Bahçeyi	bahçe	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
-2	bu	bu	DET	_	Definite=Def|Number=Sing	3	det	_	_
+2	bu	bu	DET	_	Definite=Def|PronType=Art	3	det	_	_
 3	hale	hal	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
 4	getirmek	getir	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	7	advcl	_	_
 5	için	için	ADP	_	_	4	mark	_	_

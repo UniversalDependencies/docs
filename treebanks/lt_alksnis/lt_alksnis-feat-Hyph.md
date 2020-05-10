@@ -131,7 +131,7 @@ The 10 most frequent relations where parent and child node agree in `Hyph`:
 <tt>DET --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> X</tt> (54; 100%),
 <tt>X --[<tt><a href="lt_alksnis-dep-cc.html">cc</a></tt>]--> CCONJ</tt> (10; 91%),
 <tt>X --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> X</tt> (10; 100%),
-<tt>PRON --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (8; 62%),
+<tt>PRON --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (8; 67%),
 <tt>X --[<tt><a href="lt_alksnis-dep-case.html">case</a></tt>]--> ADP</tt> (3; 100%),
 <tt>X --[<tt><a href="lt_alksnis-dep-cc.html">cc</a></tt>]--> SCONJ</tt> (3; 100%),
 <tt>INTJ --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> X</tt> (2; 100%).

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fro_srcmf-dep-case.html">case</a></tt>.
 
-2143 nodes (1%) are attached to their parents as `case:det`.
+2147 nodes (1%) are attached to their parents as `case:det`.
 
-2142 instances of `case:det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12272515165656.
+2146 instances of `case:det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12249650675361.
 
-The following 6 pairs of parts of speech are connected with `case:det`: <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (1904; 89% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (97; 5% instances), <tt><a href="fro_srcmf-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (70; 3% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (28; 1% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (27; 1% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (17; 1% instances).
+The following 6 pairs of parts of speech are connected with `case:det`: <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (1906; 89% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (97; 5% instances), <tt><a href="fro_srcmf-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (70; 3% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (28; 1% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (27; 1% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (19; 1% instances).
 
 
 ~~~ conllu

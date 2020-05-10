@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 8 appos	color:blue
 1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
 3	сорок	сорок	NUM	Num	Case=Nom|NumType=Card	4	nummod	_	Lang=Rus
 4	первом	первый	ADJ	A	Case=Ins|Number=Sing	5	amod	_	Lang=Rus
 5	году	год	NOUN	N	Case=Dat|Number=Sing	2	obl	_	Lang=Rus|SpaceAfter=No
@@ -67,7 +67,7 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 4	,	,	PUNCT	CLB	_	3	punct	_	_
 5	значит	значит	PART	Pcle	_	2	appos	_	Lang=Rus|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	5	punct	_	_
-7	машкуритчӧны	машкуритчыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	машкуритчӧны	машкуритчыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	7	punct	_	_
 
 ~~~

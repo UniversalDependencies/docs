@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 20 30 iobj	color:blue
 1	Ilẹ̀	ilẹ̀	NOUN	_	_	3	nsubj	_	Gloss=land|Ref=GEN_1.12
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.12
-3	hù	hu	NOUN	_	_	0	root	_	Gloss=grow|Ref=GEN_1.12
+3	hù	hu	VERB	_	_	0	root	_	Gloss=grow|Ref=GEN_1.12
 4	ọ̀gbìn	ọ̀gbìn	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=herb|Ref=GEN_1.12
 5	:	:	PUNCT	_	_	6	punct	_	Gloss=:|Ref=GEN_1.12
 6	ewéko	ewéko	NOUN	_	_	3	parataxis	_	Gloss=herb|Ref=GEN_1.12

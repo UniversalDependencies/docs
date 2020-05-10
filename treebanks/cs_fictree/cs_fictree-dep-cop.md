@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 9 6 cop	color:blue
 1	Když	když	SCONJ	J,-------------	_	3	mark	3:mark	_
 2	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pv	3:expl:pv	_
-3	zhroutí	zhroutit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	9:advcl	_
+3	zhroutí	zhroutit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	9:advcl:když	_
 4	optimista	optimista	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nsubj	3:nsubj	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	3	punct	3:punct	_
 6	bývá	bývat	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	_
@@ -70,7 +70,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 5	zeptal	zeptat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 6	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
 7	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	5:expl:pv	_
-8	bráchy	brácha	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	iobj	5:iobj	SpaceAfter=No
+8	bráchy	brácha	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	obl:arg	5:obl:arg:gen	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
 ~~~

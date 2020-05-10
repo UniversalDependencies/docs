@@ -7,59 +7,50 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: Relations: `advmod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `advmod`: <tt><a href="pcm_nsc-dep-advmod-emph.html">advmod:emph</a></tt>.
+There are 3 language-specific subtypes of `advmod`: <tt><a href="pcm_nsc-dep-advmod-appos.html">advmod:appos</a></tt>, <tt><a href="pcm_nsc-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="pcm_nsc-dep-advmod-periph.html">advmod:periph</a></tt>.
 
-710 nodes (6%) are attached to their parents as `advmod`.
+4309 nodes (3%) are attached to their parents as `advmod`.
 
-494 instances of `advmod` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.16760563380282.
+3104 instances of `advmod` (72%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.91250870271525.
 
-The following 12 pairs of parts of speech are connected with `advmod`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (488; 69% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (77; 11% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (69; 10% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (29; 4% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (13; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-SYM.html">SYM</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `advmod`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1842; 43% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1097; 25% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (472; 11% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (254; 6% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (197; 5% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (91; 2% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (63; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (43; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (42; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (38; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (29; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (28; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (26; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (17; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 advmod	color:blue
-1	#	#	PUNCT	_	_	7	punct	_	_
-2	sotay	sotay	SCONJ	_	_	7	mark	_	_
-3	di	di	DET	_	_	4	det	_	_
-4	rain	rain	NOUN	_	_	7	nsubj	_	_
-5	sef	sef	ADV	PART	_	4	advmod:emph	_	_
-6	kuku	kuku	ADV	_	_	7	advmod	_	_
-7	fall	fall	VERB	_	_	0	root	_	_
-8	some	some	DET	_	_	9	det	_	_
-9	house	house	NOUN	_	_	7	obj	_	_
-10	dem	dem	DET	PART	_	9	det	_	_
-11	down	down	ADP	_	_	7	compound:prt	_	_
-12	kpatakpata	kpatakpata	ADV	_	_	7	advmod	_	_
-13	//	//	PUNCT	_	_	7	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 advmod	color:blue
+1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=23422|AlignEnd=23583|Gloss=PUNCT
+2	meh	make	AUX	_	Mood=Opt	5	aux	_	AlignBegin=23583|AlignEnd=23707|Gloss=SBJV
+3	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=23707|AlignEnd=23758|Gloss=ACC.SG.1
+4	a	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=23788|AlignEnd=23907|Gloss=NOM.SG.1
+5	go	go	VERB	_	_	0	root	_	AlignBegin=23907|AlignEnd=24107|Gloss=go
+6	for	for	ADP	_	_	7	case	_	AlignBegin=24107|AlignEnd=24297|Gloss=for
+7	school	school	NOUN	_	_	5	obl:arg	_	AlignBegin=24297|AlignEnd=24577|Gloss=school
+8	first	first	ADV	_	_	5	advmod	_	AlignBegin=24577|AlignEnd=24826|Gloss=first
+9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=24826|AlignEnd=24856|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 2 advmod	color:blue
-1	#	#	PUNCT	_	_	7	punct	_	_
-2	derefore	derefore	ADV	_	_	7	advmod	_	_
-3	<	<	PUNCT	_	_	2	punct	_	_
-4	#	#	PUNCT	_	_	2	punct	_	_
-5	na	na	AUX	PART	_	7	cop	_	_
-6	our	our	PRON	_	_	7	nmod:poss	_	_
-7	hand	hand	NOUN	_	_	0	root	_	_
-8	>+	>+	PUNCT	_	_	12	punct	_	_
-9	di	di	DET	_	_	10	det	_	_
-10	matter	matter	NOUN	_	_	12	nsubj	_	_
-11	come	come	AUX	_	_	12	aux	_	_
-12	dey	dey	VERB	_	_	7	acl:cleft	_	_
-13	now	now	ADV	_	_	12	advmod	_	_
-14	//	//	PUNCT	_	_	7	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advmod	color:blue
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=42316|AlignEnd=42678|Gloss=PUNCT
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=42678|AlignEnd=42759|Gloss=NOM.SG.1
+3	no	no	PART	_	Polarity=Neg	4	advmod	_	AlignBegin=42759|AlignEnd=42939|Gloss=NEG
+4	go	go	VERB	_	_	0	root	_	AlignBegin=42939|AlignEnd=43049|Gloss=go
+5	back	back	ADV	_	_	4	advmod	_	AlignBegin=43049|AlignEnd=43289|Gloss=back
+6	to	to	ADP	_	_	7	case	_	AlignBegin=43289|AlignEnd=43369|Gloss=to
+7	school	school	NOUN	_	_	4	obl:arg	_	AlignBegin=43369|AlignEnd=43589|Gloss=school
+8	again	again	ADV	_	_	4	advmod	_	AlignBegin=43589|AlignEnd=43940|Gloss=again
+9	//	//	PUNCT	_	_	4	punct	_	AlignBegin=43940|AlignEnd=43970|Gloss=PUNCT
 
 ~~~
 
@@ -67,17 +58,22 @@ The following 12 pairs of parts of speech are connected with `advmod`: <tt><a hr
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 advmod	color:blue
-1	#	#	PUNCT	_	_	6	punct	_	_
-2	dis	dis	DET	_	_	3	det	_	_
-3	kind	kind	NOUN	_	_	6	nsubj	_	_
-4	thing	thing	NOUN	_	_	3	nmod	_	_
-5	no	no	ADV	PART	_	6	advmod	_	_
-6	good	good	ADJ	_	_	0	root	_	_
-7	o	o	ADV	PART	_	6	advmod:emph	_	_
-8	//	//	PUNCT	_	_	6	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 advmod	color:blue
+1	#	#	PUNCT	_	_	12	punct	_	AlignBegin=37956|AlignEnd=38608|Gloss=PUNCT
+2	later	later	ADJ	_	Degree=Cmp	12	advcl:periph	_	AlignBegin=38608|AlignEnd=39013|Gloss=late.CMPR
+3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=39013|AlignEnd=39043|Gloss=PUNCT
+4	#	#	PUNCT	_	_	2	punct	_	AlignBegin=39043|AlignEnd=40120|Gloss=PUNCT
+5	even	even	ADV	_	_	8	advmod	_	AlignBegin=40120|AlignEnd=40413|Gloss=even
+6	if	if	SCONJ	_	_	8	mark	_	AlignBegin=40413|AlignEnd=40750|Gloss=if
+7	na	na	AUX	_	PartType=Cop	8	cop	_	AlignBegin=40750|AlignEnd=40940|Gloss=be
+8	money	money	NOUN	_	_	12	advcl:emph	_	AlignBegin=40940|AlignEnd=41120|Gloss=money
+9	<	<	PUNCT	_	_	8	punct	_	AlignBegin=41120|AlignEnd=41150|Gloss=PUNCT
+10	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	AlignBegin=41150|AlignEnd=41259|Gloss=NOM.SG.3
+11	no	no	PART	_	Polarity=Neg	12	advmod	_	AlignBegin=41259|AlignEnd=41450|Gloss=NEG
+12	get	get	VERB	_	_	0	root	_	AlignBegin=41450|AlignEnd=41780|Gloss=get
+13	//	//	PUNCT	_	_	12	punct	_	AlignBegin=41780|AlignEnd=41810|Gloss=PUNCT
 
 ~~~
 

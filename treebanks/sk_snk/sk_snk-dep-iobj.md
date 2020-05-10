@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-752 nodes (1%) are attached to their parents as `iobj`.
+128 nodes (0%) are attached to their parents as `iobj`.
 
-385 instances of `iobj` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.57313829787234.
+72 instances of `iobj` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.5390625.
 
-The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (501; 67% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (146; 19% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (78; 10% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-DET.html">DET</a></tt> (18; 2% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (3; 0% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (88; 69% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (24; 19% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (12; 9% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,57 +22,50 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 iobj	color:blue
-1	Filónoé	filónoé	PROPN	SUfs1:r	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	3:nsubj	_
-2	mu	on	PRON	PFms3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	3:iobj	_
-3	porodila	porodiť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
-4	tri	tri	NUM	NNnp4	Case=Acc|Gender=Neut|Number=Plur	5	nummod	5:nummod	_
-5	deti	dieťa	NOUN	SSnp4	Case=Acc|Gender=Neut|Number=Plur	3	obj	3:obj	SpaceAfter=No
-6	,	,	PUNCT	Z	_	7	punct	7:punct	_
-7	Isandra	isandrus	PROPN	SSms4:r	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	5	appos	5:appos	SpaceAfter=No
-8	,	,	PUNCT	Z	_	9	punct	9:punct	_
-9	Hippolocha	hippolochos	PROPN	SSms4:r	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	conj	5:appos|7:conj	_
-10	a	a	CCONJ	O	_	11	cc	11:cc	_
-11	Laodameiu	laodameia	PROPN	SSfs4:r	Case=Acc|Gender=Fem|Number=Sing	7	conj	5:appos|7:conj	SpaceAfter=No
-12	.	.	PUNCT	Z	_	3	punct	3:punct	_
+1	Sám	sám	DET	PFms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	3	xcomp	3:xcomp	_
+2	seba	seba	PRON	PPhs4	Case=Acc|Number=Sing|PronType=Prs|Reflex=Yes	3	iobj	3:iobj	_
+3	vyhlasoval	vyhlasovať	VERB	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
+4	za	za	ADP	Eu4	AdpType=Prep|Case=Acc	8	case	8:case	_
+5	„	„	PUNCT	Z	_	6	punct	6:punct	SpaceAfter=No
+6	súcitného	súcitný	ADJ	AAms4x	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	8:amod	SpaceAfter=No
+7	”	”	PUNCT	Z	_	6	punct	6:punct	_
+8	konzervatívca	konzervatívec	NOUN	SSms4	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obl:arg	3:obl:arg:za:acc	SpaceAfter=No
+9	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 8 iobj	color:blue
-1	Prorok	prorok	NOUN	SSms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
-2	sprostredkováva	sprostredkovávať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	Božie	boží	ADJ	AAns4x:r	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	_
-4	slovo	slovo	NOUN	SSns4	Case=Acc|Gender=Neut|Number=Sing	2	obj	2:obj	_
-5	a	a	CCONJ	O	_	7	cc	7:cc	_
-6	jeho	jeho	DET	PUfs4	Case=Acc|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	7:det	_
-7	vôľu	vôľa	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	4	conj	2:obj|4:conj	_
-8	ľuďom	človek	NOUN	SSmp3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	2	iobj	2:iobj	SpaceAfter=No
-9	.	.	PUNCT	Z	_	2	punct	2:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 2 iobj	color:blue
-1	Prednáša	prednášať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-2	Bohu	boh	PROPN	SSms3:r	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	1	iobj	1:iobj	_
-3	prosby	prosba	NOUN	SSfp4	Case=Acc|Gender=Fem|Number=Plur	1	obj	1:obj	_
-4	ľudí	človek	NOUN	SSmp2	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	3:nmod	_
-5	a	a	CCONJ	O	_	6	cc	6:cc	_
-6	prihovárá	prihovárať	VERB	VKesc+:q	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Typo=Yes|VerbForm=Fin	1	conj	0:root|1:conj	_
-7	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	6	expl:pv	6:expl:pv	_
-8	za	za	ADP	Eu4	AdpType=Prep|Case=Acc	9	case	9:case	_
-9	ne	ona	PRON	PFfp4	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	6	obl:arg	6:obl:arg	SpaceAfter=No
-10	.	.	PUNCT	Z	_	1	punct	1:punct	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 iobj	color:blue
+1	Štúdium	štúdium	NOUN	SSns4	Case=Acc|Gender=Neut|Number=Sing	2	iobj	2:iobj	_
+2	dokončil	dokončiť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
+3	ako	ako	SCONJ	O	_	4	mark	4:mark	_
+4	samouk	samouk	NOUN	SSms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	xcomp	2:xcomp	SpaceAfter=No
+5	.	.	PUNCT	Z	_	2	punct	2:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 iobj	color:blue
+1	Toto	toto	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	det	2:det	_
+2	stanovisko	stanovisko	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	3:nsubj	_
+3	prinútilo	prinútiť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
+4	Mahmúda	mahmúd	PROPN	SSms4:r	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	iobj	3:iobj|7:nsubj	_
+5	II	ii	NUM	0	NumForm=Digit	4	nummod	4:nummod	SpaceAfter=No
+6	.	.	PUNCT	Z	_	5	punct	5:punct	_
+7	uskutočniť	uskutočniť	VERB	VId+	Aspect=Perf|Polarity=Pos|VerbForm=Inf	3	xcomp	3:xcomp	_
+8	rozhodné	rozhodný	ADJ	AAfp4x	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	9	amod	9:amod	_
+9	akcie	akcia	NOUN	SSfp4	Case=Acc|Gender=Fem|Number=Plur	7	obj	7:obj	SpaceAfter=No
+10	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (0%) are attached to their parents as `list`.
+55 nodes (0%) are attached to their parents as `list`.
 
-41 instances of `list` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.82222222222222.
+51 instances of `list` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.90909090909091.
 
-The following 5 pairs of parts of speech are connected with `list`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (23; 51% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (8; 18% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (8; 18% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (3; 7% instances).
+The following 8 pairs of parts of speech are connected with `list`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (27; 49% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (10; 18% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (8; 15% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -27,6 +27,18 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 3	篇	篇	NOUN	n,名詞,可搬,伝達	_	0	root	_	Gloss=section-of-a-book|SpaceAfter=No
 4	第	第	NOUN	n,名詞,数量,*	_	3	list	_	Gloss=order-in-a-sequence|SpaceAfter=No
 5	十二	十二	NUM	n,数詞,数,*	_	4	nummod	_	Gloss=twelve|SpacesAfter=\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 list	color:blue
+1	告子	吿子	PROPN	n,名詞,人,複合的人名	NameType=Prs	0	root	_	Gloss=Gaozi|SpaceAfter=No
+2	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	1	list	_	Gloss=up|SpacesAfter=\n
 
 ~~~
 
@@ -49,18 +61,6 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 10	叔夏	叔夏	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
 11	季隨	季隨	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
 12	季騧	季騧	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpacesAfter=\n
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 list	color:blue
-1	告子	吿子	PROPN	n,名詞,人,複合的人名	NameType=Prs	0	root	_	Gloss=Gaozi|SpaceAfter=No
-2	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	1	list	_	Gloss=up|SpacesAfter=\n
 
 ~~~
 

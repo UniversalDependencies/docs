@@ -23,7 +23,7 @@ The following 15 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 5 csubj	color:blue
 1	Očekuje	očekivati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	1	compound	_	_
+2	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	1	expl	_	_
 3	da	da	SCONJ	Cs	_	5	mark	_	_
 4	Komisija	komisija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 5	predstavi	predstaviti	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	csubj	_	_

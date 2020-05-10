@@ -25,14 +25,14 @@ The following 31 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 1	Zdůraznil	zdůraznit	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
 3	že	že	SCONJ	J,-------------	_	6	mark	6:mark	_
-4	banka	banka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	obl	6:obl	_
+4	banka	banka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	obl	6:obl:nom	_
 5	bude	být	AUX	VB-S---3F-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	6	aux	6:aux	_
 6	půjčovat	půjčovat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	1	ccomp	1:ccomp	_
 7	ne	ne	PART	TT-------------	_	8	advmod:emph	8:advmod:emph	_
-8	firmě	firma	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	6	obj	6:obj	SpaceAfter=No
+8	firmě	firma	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	6	obl:arg	6:obl:arg:dat	SpaceAfter=No
 9	,	,	PUNCT	Z:-------------	_	11	punct	11:punct	_
 10	ale	ale	CCONJ	J^-------------	_	11	cc	11:cc	_
-11	nám	já	PRON	PP-P3--1-------	Case=Dat|Number=Plur|Person=1|PronType=Prs	8	conj	6:obj|8:conj	_
+11	nám	já	PRON	PP-P3--1-------	Case=Dat|Number=Plur|Person=1|PronType=Prs	8	conj	6:obl:arg:dat|8:conj	_
 12	osobně	osobně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	11	advmod	11:advmod	SpaceAfter=No|LDeriv=osobní
 13	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
@@ -52,7 +52,7 @@ The following 31 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 5	že	že	SCONJ	J,-------------	_	10	mark	10:mark	_
 6	chalupa	chalupa	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	10	nsubj	10:nsubj	_
 7	našeho	můj	DET	PSZS2-P1-------	Case=Gen|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	8	det	8:det	LGloss=(přivlast.)
-8	čtenáře	čtenář	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	6	nmod	6:nmod	_
+8	čtenáře	čtenář	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	6	nmod	6:nmod:gen	_
 9	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	10:cop	_
 10	problémová	problémový	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	ccomp	2:ccomp	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
@@ -73,7 +73,7 @@ The following 31 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 5	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	8	case	8:case	LId=v-1
 6	vztahu	vztah	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	5	fixed	5:fixed	_
 7	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	5	fixed	5:fixed	LId=k-1
-8	občanům	občan	NOUN	NNMP3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos	11	obl	11:obl	_
+8	občanům	občan	NOUN	NNMP3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos	11	obl	11:obl:v_vztah_k:dat	_
 9	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	11:cop	_
 10	veřejným	veřejný	ADJ	AAMS7----1A----	Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	11	amod	11:amod	_
 11	činitelem	činitel	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	2	ccomp	2:ccomp	SpaceAfter=No

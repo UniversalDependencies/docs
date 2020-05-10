@@ -171,12 +171,12 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>NOUN --[<tt><a href="cs_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1589; 92%),
 <tt>NOUN --[<tt><a href="cs_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1105; 100%),
-<tt>VERB --[<tt><a href="cs_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (656; 94%),
 <tt>VERB --[<tt><a href="cs_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (616; 96%),
+<tt>VERB --[<tt><a href="cs_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (547; 94%),
 <tt>VERB --[<tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (512; 94%),
 <tt>NOUN --[<tt><a href="cs_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (305; 100%),
 <tt>NOUN --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (258; 100%),
 <tt>VERB --[<tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (216; 97%),
-<tt>NOUN --[<tt><a href="cs_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (193; 97%),
-<tt>PROPN --[<tt><a href="cs_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (166; 100%).
+<tt>PROPN --[<tt><a href="cs_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (166; 100%),
+<tt>VERB --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (166; 91%).
 

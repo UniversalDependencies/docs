@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `flat`: <tt><a href="cy_ccg-dep-flat-name.html">flat:name</a></tt>.
 
-94 nodes (1%) are attached to their parents as `flat`.
+148 nodes (0%) are attached to their parents as `flat`.
 
-94 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.0531914893617.
+148 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.0472972972973.
 
-The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (83; 88% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (133; 90% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (8; 5% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -64,34 +64,27 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 22 flat	color:blue
-1	Mae	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-2	'n	yn	AUX	impf	_	3	aux	_	_
-3	gwahanu	gwahanu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
-4	yr	y	DET	art	_	5	det	_	_
-5	IJsselmeer	Ijsselmeer	PROPN	place	_	3	obj	_	_
-6	oddi	oddi	ADP	prep	_	9	case	_	_
-7	wrth	wrth	ADP	prep	_	6	fixed	_	_
-8	y	y	DET	art	_	9	det	_	_
-9	Waddenzee	Waddenzee	PROPN	place	Gender=Masc|Number=Sing	3	obj	_	_
-10	ac	a	CCONJ	cconj	_	12	cc	_	_
-11	yn	yn	AUX	impf	_	12	aux	_	_
-12	cysylltu	cysylltu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	3	conj	_	_
-13	taleithiau	talaith	NOUN	noun	Gender=Masc|Number=Plur	12	obj	_	_
-14	Noord-Holland	Noord-holland	PROPN	place	Gender=Fem|Number=Sing	13	nmod	_	_
-15	a	a	CCONJ	cconj	_	16	cc	_	_
-16	Friesland	Friesland	PROPN	place	Gender=Fem|Number=Sing	14	conj	_	_
-17	ar	ar	ADP	prep	_	20	case	_	_
-18	hyd	hyd	ADP	prep	_	17	fixed	_	_
-19	y	y	DET	art	_	20	det	_	_
-20	briffordd	priffordd	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	12	obl	_	_
-21	Rijksweg	Rijksweg	PROPN	place	_	20	flat	_	_
-22	7	7	NUM	num	_	20	flat	_	SpaceAfter=No
-23	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 flat	color:blue
+1	Edmwnt	Edmwnt	PROPN	person	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	brawd	brawd	NOUN	noun	Gender=Masc|Number=Sing	1	nmod	_	_
+4	y	y	DET	art	_	5	det	_	_
+5	brenin	Brenin	PROPN	person	_	3	nmod	_	_
+6	Edward	Edward	PROPN	person	_	5	flat	_	_
+7	I	I	NUM	num	_	6	flat:name	_	_
+8	a	a	PRON	rel	PronType=Rel	9	obj	_	_
+9	thyfodd	tyfu	VERB	verb	Mood=Ind|Mutation=AM|Number=Sing|Person=3|Tense=Past	1	acl:relcl	_	_
+10	y	y	DET	art	_	11	det	_	_
+11	dref	tref	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	9	obj	_	_
+12	o	o	ADP	prep	_	13	case	_	_
+13	gwmpas	cwmpas	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	9	obl	_	_
+14	y	y	DET	art	_	15	det	_	_
+15	castell	castell	NOUN	noun	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

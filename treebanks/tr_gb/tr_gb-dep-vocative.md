@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 5 1 vocative	color:blue
 1	Ayşe	Ayşe	PROPN	_	Number=Sing	5	vocative	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1	5	xcomp	_	_
+3	ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	xcomp	_	_
 4	şimdi	şimdi	ADV	_	_	5	advmod	_	_
 5	çıkıyorum	çık	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
@@ -40,7 +40,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 5 1 vocative	color:blue
 1	Ayşe	Ayşe	PROPN	_	Number=Sing	5	vocative	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	benim	ben	PRON	_	Case=Gen|Number=Sing|Person=1	4	nmod	_	_
+3	benim	ben	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod	_	_
 4	anahtarım	anahtar	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	_
 5	nerede	nere	PRON	_	Case=Loc|Number=Sing|PronType=Int	0	root	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	5	punct	_	_

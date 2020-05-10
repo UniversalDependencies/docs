@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	بلاش	بِلَاش	INTJ	I---------	_	6	discourse	6:discourse	Vform=بِلَاش|Gloss=never_mind,forget_about|Root=bilA^s|Translit=bilāš|LTranslit=bilāš
 6	تنشر	نَشَر	VERB	VISA-3FS--	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	Vform=تَنشُرَ|Gloss=publish,announce,spread|Root=n_^s_r|Translit=tanšura|LTranslit=našar
 7	اسم	اِسم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	6	obj	6:obj	Vform=اِسمُ|Gloss=name|Root=s_m_y|Translit=ismu|LTranslit=ism
-8	ي	هُوَ	PRON	SP---1MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nmod	7:nmod	Vform=ِي|Gloss=he,she,it|Translit=ī|LTranslit=huwa
+8	ي	هُوَ	PRON	SP---1MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nmod	7:nmod:gen	Vform=ِي|Gloss=he,she,it|Translit=ī|LTranslit=huwa
 9	.	.	PUNCT	G---------	_	1	punct	1:punct	SpaceAfter=No|Vform=.|Translit=.
 10	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 

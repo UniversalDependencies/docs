@@ -36,10 +36,10 @@ The following 57 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 9 xcomp	color:blue
-1	Ceny	cena	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	6	nsubj	6:nsubj	LId=cena-1|LGloss=(v_penězích,_naturální,_nevyčíslitelná,...)
+1	Ceny	cena	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	6	nsubj	6:nsubj|9:nsubj	LId=cena-1|LGloss=(v_penězích,_naturální,_nevyčíslitelná,...)
 2	centrálně	centrálně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	3	advmod	3:advmod	LDeriv=centrální
 3	vyráběného	vyráběný	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	4	amod	4:amod	LDeriv=vyrábět
-4	tepla	teplo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	1	nmod	1:nmod	LId=teplo-1
+4	tepla	teplo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	1	nmod	1:nmod:gen	LId=teplo-1
 5	by	být	AUX	Vc-------------	Mood=Cnd|VerbForm=Fin	6	aux	6:aux	_
 6	mohly	moci	VERB	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	LGloss=(mít_možnost_[něco_dělat])
 7	být	být	AUX	Vf--------A----	Polarity=Pos|VerbForm=Inf	9	cop	9:cop	_

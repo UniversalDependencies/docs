@@ -244,7 +244,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 ### `ADV`
 
-10619 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (39% of all `ADV` tokens) have a non-empty value of `Polarity`.
+10619 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (38% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10619; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8637; 81%).
 
@@ -252,7 +252,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 * `Neg` (400; 4% of non-empty `Polarity`): <em>neustále, nezřídka, neméně, neobyčejně, nesmírně, nesporně, nepřímo, nepochybně, nezávisle, nedostatečně</em>
 * `Pos` (10219; 96% of non-empty `Polarity`): <em>tedy, více, dále, často, stále, dobře, přímo, současně, stejně, hlavně</em>
-* `EMPTY` (16946): <em>tak, také, jak, již, už, ještě, pak, kde, velmi, třeba</em>
+* `EMPTY` (17513): <em>tak, také, jak, proto, již, už, ještě, pak, kde, velmi</em>
 
 <table>
   <tr><th>Paradigm <i>málo</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -290,13 +290,13 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>NOUN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (57954; 96%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (44487; 100%),
-<tt>VERB --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> NOUN</tt> (15694; 95%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (44479; 100%),
+<tt>VERB --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> NOUN</tt> (15695; 95%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (14033; 99%),
-<tt>VERB --[<tt><a href="cs_cac-dep-obj.html">obj</a></tt>]--> NOUN</tt> (13541; 95%),
 <tt>VERB --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (12009; 92%),
+<tt>VERB --[<tt><a href="cs_cac-dep-obj.html">obj</a></tt>]--> NOUN</tt> (11835; 95%),
+<tt>VERB --[<tt><a href="cs_cac-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (6086; 94%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> NOUN</tt> (5350; 98%),
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (5036; 88%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> VERB</tt> (4569; 93%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-cop.html">cop</a></tt>]--> AUX</tt> (3940; 87%).
 

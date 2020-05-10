@@ -37,7 +37,7 @@ The following 19 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 nsubj	color:blue
-1	இது	இது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod	Translit=itu|LTranslit=itu
+1	இது	இது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod:nom	Translit=itu|LTranslit=itu
 2	தொடர்பான	தொடர்பு	ADJ	JJ-------	_	3	amod	3:amod	Translit=toṭarpāna|LTranslit=toṭarpu
 3	ஆலோசனைகளைய்	ஆலோசனை	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	6	obj	6:obj	Translit=ālōcanaikaḷaiy|LTranslit=ālōcanai
 4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	Translit=um|LTranslit=um

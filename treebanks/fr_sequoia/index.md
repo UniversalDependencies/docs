@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Marie Candito, Djamé Seddah, Guy Perrier, Bruno Guillaume.
 
 Repository: [UD_French-Sequoia](https://github.com/UniversalDependencies/UD_French-Sequoia)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: LGPL-LR
 
@@ -130,11 +130,11 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 </ul>
 
 <ul>
-<li>This corpus contains 88 lemmas tagged as pronouns (PRON): -moi, 0,24, 000, 1, 1 000, 1 062, 1 065, 1.000, 1/10, 1/100, 1/1000, 10, 10 000, 100, 11, 139, 14, 15, 150, 17, 19, 19 000, 2, 200, 22, 23, 29, 3, 3 852, 3 862, 34, 40, 41, 4603, 4604, 4612, 5, 50, 51, 6, 60, 69, 75, 8, 80, 92, 96, aucun, autre, beaucoup, ce, ceci, cela, celui, celui-ci, cent, certain, chacun, cinq, deux, dont, en, il, le, lequel, lui, lui-même, nul, nôtre, onze, où, personne, peu, plusieurs, que, quelques-uns, qui, quiconque, quoi, rien, se, six, soi, tout, trois, un, y, ça</li>
+<li>This corpus contains 88 lemmas tagged as pronouns (PRON): 0,24, 000, 1, 1 000, 1 062, 1 065, 1.000, 1/10, 1/100, 1/1000, 10, 10 000, 100, 11, 139, 14, 15, 150, 17, 19, 19 000, 2, 200, 22, 23, 29, 3, 3 852, 3 862, 34, 40, 41, 4603, 4604, 4612, 5, 50, 51, 6, 60, 69, 75, 8, 80, 92, 96, aucun, autre, beaucoup, ce, ceci, cela, celui, celui-ci, cent, certain, chacun, cinq, deux, dont, en, il, le, lequel, lui, lui-même, moi, nul, nôtre, onze, où, personne, peu, plusieurs, que, quelques-uns, qui, quiconque, quoi, rien, se, six, soi, tout, trois, un, y, ça</li>
 </ul>
 
 <ul>
-<li>This corpus contains 45 lemmas tagged as determiners (DET): 1 000, 1 200, 1 246, 1 500, 10 000, 100 000, 108 000, 111 547, 125 000, 13 819, 14 000, 15 000, 17 600, 2 000, 2 127, 20 000, 25 000, 4 000, 46 000, 5 000, 50 000, 500 000, 6 000, 67 025, 7 000, 7 736, 8 000, 80 000, aucun, ce, certain, chaque, différent, différentes, divers, du, le, ledit, plusieurs, quel, quelque, son, tel, tout, un</li>
+<li>This corpus contains 44 lemmas tagged as determiners (DET): 1 000, 1 200, 1 246, 1 500, 10 000, 100 000, 108 000, 111 547, 125 000, 13 819, 14 000, 15 000, 17 600, 2 000, 2 127, 20 000, 25 000, 4 000, 46 000, 5 000, 50 000, 500 000, 6 000, 67 025, 7 000, 7 736, 8 000, 80 000, aucun, ce, certain, chaque, différent, divers, du, le, ledit, plusieurs, quel, quelque, son, tel, tout, un</li>
 </ul>
 
 <ul>
@@ -191,7 +191,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
   <li>Fem
     <ul>
       <li>ADJ: européenne, première, rénale, française, toutes, nouvelle, intraveineuse, nationale, seule, osseuse</li>
-      <li>ADV: vis-à-vis, faute</li>
+      <li>ADV: faute</li>
       <li>DET: la, une, cette, sa, aucune, certaines, toute, ma, quelles, toutes</li>
       <li>NOUN: affaire, bivalirudine, commission, perfusion, administration, solution, dose, étude, fois, guerre</li>
       <li>PRON: elle, laquelle, elles, la, lesquelles, une, celle-ci, chacune, celles, celle</li>
@@ -204,7 +204,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: français, tous, ancien, osseux, premier, nombreux, dernier, compris, faux, général</li>
+      <li>ADJ: français, tous, ancien, osseux, zolédronique, premier, nombreux, dernier, compris, faux</li>
       <li>AUX-Part: fait</li>
       <li>DET: le, un, ce, cet, les, aucun, tout, du, certains, quel</li>
       <li>NOUN: %, patients, mg, ans, cas, traitement, président, effets, M., cours</li>
@@ -239,7 +239,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: autre, politique, même, clinique, ancien, européenne, jeune, première, rénale, premier</li>
+      <li>ADJ: autre, politique, même, clinique, ancien, zolédronique, européenne, jeune, première, rénale</li>
       <li>ADV: faute</li>
       <li>AUX-Fin: est, a, était, avait, sera, fut, ai, soit, aurait, suis</li>
       <li>AUX-Part: fait</li>

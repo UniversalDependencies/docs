@@ -25,7 +25,7 @@ The following 30 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	Hiljade	hiljada	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
 2	ljudi	čovek	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
 3	okupilo	okupiti	VERB	Vmp-sn	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-4	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	3	compound	_	_
+4	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	_	_
 5	na	na	ADP	Sl	Case=Loc	6	case	_	_
 6	Kipru	Kipar	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
 7	da	da	SCONJ	Cs	_	8	mark	_	_
@@ -68,7 +68,7 @@ The following 30 pairs of parts of speech are connected with `advcl`: <tt><a hre
 2	:	:	PUNCT	Z	_	1	punct	_	_
 3	Šta	šta	PRON	Pq3n-n	Case=Nom|Gender=Neut|PronType=Int,Rel	6	nsubj	_	_
 4	će	hteti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
-5	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	6	compound	_	_
+5	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	6	expl	_	_
 6	desiti	desiti	VERB	Vmn	VerbForm=Inf	0	root	_	_
 7	ako	ako	SCONJ	Cs	_	11	mark	_	_
 8	veto	veto	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_

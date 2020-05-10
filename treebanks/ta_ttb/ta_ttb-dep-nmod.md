@@ -26,7 +26,7 @@ The following 31 pairs of parts of speech are connected with `nmod`: <tt><a href
 2	தமிழக	தமிழகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=tamilaka|LTranslit=tamilakam
 3	அரச்	அரசு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	Translit=arac|LTranslit=aracu
 4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	Translit=um|LTranslit=um
-5	உடந்தைய்	உடந்தை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl	Translit=uṭantaiy|LTranslit=uṭantai
+5	உடந்தைய்	உடந்தை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl:nom	Translit=uṭantaiy|LTranslit=uṭantai
 6	ஆக	ஆகு	ADV	AA-------	_	7	advmod	7:advmod	Translit=āka|LTranslit=āku
 7	உள்ளது	உள்	VERB	Vr-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=uḷḷatu|LTranslit=uḷ
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	7:punct	Translit=.|LTranslit=.
@@ -42,8 +42,8 @@ The following 31 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 4 3 nmod	color:blue
 1	அதற்கு	அது	ADV	AA-------	_	5	advmod	5:advmod	Translit=atarku|LTranslit=atu
 2	கடந்த	கடந்த	ADJ	JJ-------	_	3	amod	3:amod	Translit=kaṭanta|LTranslit=kaṭanta
-3	சட்டப்பேரவைத்	சட்டப்பேரவை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=caṭṭappēravait|LTranslit=caṭṭappēravai
-4	தேர்தலில்	தேர்தல்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	5	obl	5:obl	Translit=tērtalil|LTranslit=tērtal
+3	சட்டப்பேரவைத்	சட்டப்பேரவை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod:nom	Translit=caṭṭappēravait|LTranslit=caṭṭappēravai
+4	தேர்தலில்	தேர்தல்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	5	obl	5:obl:loc	Translit=tērtalil|LTranslit=tērtal
 5	பலன்கிட்டியது	பலன்கிட்டு	VERB	Vr-D3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=palankiṭṭiyatu|LTranslit=palankiṭṭu
 6	.	.	PUNCT	Z#-------	PunctType=Peri	5	punct	5:punct	Translit=.|LTranslit=.
 
@@ -60,7 +60,7 @@ The following 31 pairs of parts of speech are connected with `nmod`: <tt><a href
 2	விசாரித்து	விசாரி	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	7	ccomp	7:ccomp	Translit=vicārittu|LTranslit=vicāri
 3	வருகிறோம்	வரு	AUX	VR-P1PAAA	Animacy=Anim|Gender=Com|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	2:aux	Translit=varukirōm|LTranslit=varu
 4	என	என்	PART	Tt-T----A	Polarity=Pos|VerbForm=Inf	2	mark	2:mark	Translit=ena|LTranslit=en
-5	பிரதாப்	பிரதாப்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod	Translit=piratāp|LTranslit=piratāp
+5	பிரதாப்	பிரதாப்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod:nom	Translit=piratāp|LTranslit=piratāp
 6	சிங்	சிங்	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	7	nsubj	7:nsubj	Translit=ciṅ|LTranslit=ciṅ
 7	தெரிவித்தார்	தெரிவி	VERB	Vr-D3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=terivittār|LTranslit=terivi
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	7:punct	Translit=.|LTranslit=.

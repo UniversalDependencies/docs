@@ -46,7 +46,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>Film, Wi-Fi, GIF</em>
-* `EMPTY` (4893): <em>году, года, время, лет, войны, людей, города, компании, результате, течение</em>
+* `EMPTY` (4892): <em>году, года, время, лет, войны, людей, города, компании, результате, течение</em>
 
 ## Relations with Agreement in `Foreign`
 

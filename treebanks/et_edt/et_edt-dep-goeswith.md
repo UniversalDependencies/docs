@@ -22,14 +22,14 @@ The following 14 pairs of parts of speech are connected with `goeswith`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 goeswith	color:blue
-1	Mõõtmed	mõõde	NOUN	S	Case=Nom|Number=Plur	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	Z	_	1	punct	_	_
-3	148	148	NUM	N	NumForm=Digit|NumType=Card	1	nummod	_	_
-4	x	x	X	Y	Abbr=Yes	3	goeswith	_	_
-5	59	59	NUM	N	NumForm=Digit|NumType=Card	3	goeswith	_	_
-6	x	x	X	Y	Abbr=Yes	3	goeswith	_	_
-7	32	32	NUM	N	NumForm=Digit|NumType=Card	3	goeswith	_	_
-8	mm	mm	NOUN	Y	Abbr=Yes	3	nmod	_	_
+1	Mõõtmed	mõõde	NOUN	S	Case=Nom|Number=Plur	0	root	0:root	SpaceAfter=No
+2	:	:	PUNCT	Z	_	1	punct	1:punct	_
+3	148	148	NUM	N	NumForm=Digit|NumType=Card	1	nummod	1:nummod	_
+4	x	x	X	Y	Abbr=Yes	3	goeswith	3:goeswith	_
+5	59	59	NUM	N	NumForm=Digit|NumType=Card	3	goeswith	3:goeswith	_
+6	x	x	X	Y	Abbr=Yes	3	goeswith	3:goeswith	_
+7	32	32	NUM	N	NumForm=Digit|NumType=Card	3	goeswith	3:goeswith	_
+8	mm	mm	NOUN	Y	Abbr=Yes	3	nmod	3:nmod	_
 
 ~~~
 
@@ -40,18 +40,18 @@ The following 14 pairs of parts of speech are connected with `goeswith`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 goeswith	color:blue
-1	Päikesesünkroosed	päikese_sünkroonne	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
-2	satelliidid	satelliit	NOUN	S	Case=Nom|Number=Plur	4	obj	_	_
-3	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	toimetada	toimetama	VERB	V	VerbForm=Inf	3	csubj	_	_
-5	vastupidise	vastu_pidine	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	10	amod	_	_
-6	s.o.	s.o	ADV	Y	Abbr=Yes	7	nmod	_	_
-7	i	i	NOUN	Y	Abbr=Yes	10	nmod	_	_
-8	>	>	SYM	Z	_	7	goeswith	_	_
-9	90o	90o	NUM	N	NumType=Card	7	goeswith	_	_
-10	kaldega	kalle	NOUN	S	Case=Com|Number=Sing	11	nmod	_	_
-11	orbiitidele	orbiit	NOUN	S	Case=All|Number=Plur	4	obl	_	SpaceAfter=No
-12	.	.	PUNCT	Z	_	3	punct	_	_
+1	Päikesesünkroosed	päikese_sünkroonne	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	2	amod	2:amod	_
+2	satelliidid	satelliit	NOUN	S	Case=Nom|Number=Plur	4	obj	4:obj	_
+3	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	toimetada	toimetama	VERB	V	VerbForm=Inf	3	csubj	3:csubj	_
+5	vastupidise	vastu_pidine	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	10	amod	10:amod	_
+6	s.o.	s.o	ADV	Y	Abbr=Yes	7	nmod	7:nmod	_
+7	i	i	NOUN	Y	Abbr=Yes	10	nmod	10:nmod	_
+8	>	>	SYM	Z	_	7	goeswith	7:goeswith	_
+9	90o	90o	NUM	N	NumType=Card	7	goeswith	7:goeswith	_
+10	kaldega	kalle	NOUN	S	Case=Com|Number=Sing	11	nmod	11:nmod	_
+11	orbiitidele	orbiit	NOUN	S	Case=All|Number=Plur	4	obl	4:obl	SpaceAfter=No
+12	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
 
@@ -62,18 +62,18 @@ The following 14 pairs of parts of speech are connected with `goeswith`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 goeswith	color:blue
-1	Päikesesünkroosed	päikese_sünkroonne	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
-2	satelliidid	satelliit	NOUN	S	Case=Nom|Number=Plur	4	obj	_	_
-3	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	toimetada	toimetama	VERB	V	VerbForm=Inf	3	csubj	_	_
-5	vastupidise	vastu_pidine	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	10	amod	_	_
-6	s.o.	s.o	ADV	Y	Abbr=Yes	7	nmod	_	_
-7	i	i	NOUN	Y	Abbr=Yes	10	nmod	_	_
-8	>	>	SYM	Z	_	7	goeswith	_	_
-9	90o	90o	NUM	N	NumType=Card	7	goeswith	_	_
-10	kaldega	kalle	NOUN	S	Case=Com|Number=Sing	11	nmod	_	_
-11	orbiitidele	orbiit	NOUN	S	Case=All|Number=Plur	4	obl	_	SpaceAfter=No
-12	.	.	PUNCT	Z	_	3	punct	_	_
+1	Päikesesünkroosed	päikese_sünkroonne	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	2	amod	2:amod	_
+2	satelliidid	satelliit	NOUN	S	Case=Nom|Number=Plur	4	obj	4:obj	_
+3	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	toimetada	toimetama	VERB	V	VerbForm=Inf	3	csubj	3:csubj	_
+5	vastupidise	vastu_pidine	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	10	amod	10:amod	_
+6	s.o.	s.o	ADV	Y	Abbr=Yes	7	nmod	7:nmod	_
+7	i	i	NOUN	Y	Abbr=Yes	10	nmod	10:nmod	_
+8	>	>	SYM	Z	_	7	goeswith	7:goeswith	_
+9	90o	90o	NUM	N	NumType=Card	7	goeswith	7:goeswith	_
+10	kaldega	kalle	NOUN	S	Case=Com|Number=Sing	11	nmod	11:nmod	_
+11	orbiitidele	orbiit	NOUN	S	Case=All|Number=Plur	4	obl	4:obl	SpaceAfter=No
+12	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
 

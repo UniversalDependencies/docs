@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lzh_kyoto-dep-flat.html">flat</a></tt>.
 
-565 nodes (1%) are attached to their parents as `flat:vv`.
+1289 nodes (1%) are attached to their parents as `flat:vv`.
 
-565 instances of `flat:vv` (100%) are left-to-right (parent precedes child).
+1289 instances of `flat:vv` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 6 pairs of parts of speech are connected with `flat:vv`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (512; 91% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (43; 8% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `flat:vv`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (1172; 91% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (87; 7% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,19 +45,17 @@ The following 6 pairs of parts of speech are connected with `flat:vv`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 flat:vv	color:blue
-1	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	2	det	_	Gloss=[1PRON]|SpaceAfter=No
-2	王	王	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=king|SpaceAfter=No
-3	庶	庶	ADV	v,動詞,描写,量	Degree=Pos|VerbForm=Conv	5	advmod	_	Gloss=common|SpaceAfter=No
-4	幾	幾	ADV	v,副詞,判断,推定	_	3	flat:vv	_	Gloss=how-many|SpaceAfter=No
-5	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
-6	疾	疾	NOUN	n,名詞,不可譲,疾病	_	5	obj	_	Gloss=illness|SpaceAfter=No
-7	病	病	NOUN	n,名詞,不可譲,疾病	_	6	flat	_	Gloss=disease|SpaceAfter=No
-8	與	與	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 flat:vv	color:blue
+1	君	君	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=ruler|SpaceAfter=No
+2	於	於	ADP	v,前置詞,基盤,*	_	3	case	_	Gloss=at|SpaceAfter=No
+3	士	士	NOUN	n,名詞,人,役割	_	4	obl	_	Gloss=officer|SpaceAfter=No
+4	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
+5	賜	賜	VERB	v,動詞,行為,交流	_	4	ccomp	_	Gloss=bestow|SpaceAfter=No
+6	帟	帟	NOUN	n,名詞,可搬,道具	_	5	flat:vv	_	SpacesAfter=\n
 
 ~~~
 

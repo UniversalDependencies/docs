@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt>.
 
-1 nodes (0%) are attached to their parents as `nsubj:cop`.
+6 nodes (1%) are attached to their parents as `nsubj:cop`.
 
-1 instances of `nsubj:cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+5 instances of `nsubj:cop` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 1 pairs of parts of speech are connected with `nsubj:cop`: <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 100% instances).
+The following 5 pairs of parts of speech are connected with `nsubj:cop`: <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (2; 33% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 17% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 17% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,48 @@ The following 1 pairs of parts of speech are connected with `nsubj:cop`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj:cop	color:blue
-1	Ӧні	ӧні	ADV	_	_	3	advmod:tmod	_	_
-2	ті	тэ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj:cop	_	GTtags=Pers,Pl2,Nom
-3	кыкӧнӧсь	кыкӧнӧсь	NUM	_	Number=Plur|NumType=Dist|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	_
+1	Вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	3	cop	_	GTtags=V,IV,Ind,Prt1,Sg3
+2	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj:cop	_	GTtags=Pron,Pers,Sg3,Nom
+3	лажмытик	лажмытик	ADJ	_	_	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB
+5	пӧввезӧн	пӧв	NOUN	N	Case=Ins|Number=Plur	6	obl	_	GTtags=N,Pl,Ins
+6	дорӧм	дорны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	GTtags=N,Sem/Inanim,Sg,Nom
+7	ӧшына	ӧшын	NOUN	N	Derivation=ProprietiveMod|Number=Sing	3	conj	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A|SpaceAfter=No
+8	,	,	PUNCT	CLB	_	9	punct	_	GTtags=CLB
+9	крышатӧм	крыша	NOUN	_	_	3	conj	_	SpaceAfter=No
+10	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nsubj:cop	color:blue
+1	А	а	CCONJ	CC	_	4	cc	_	GTtags=CC
+2	юрын	юр	NOUN	N	Case=Ine|Number=Sing	4	obl:lmod	_	GTtags=N,Sg,Ine
+3	думаэз	дума	NOUN	N	Case=Nom|Derivation=ProprietiveMod|Number=Plur	4	nsubj:cop	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A,Der,Der/MWN,N,Pl,Nom
+4	кокнитӧсь	кокнит	ADJ	A	Number=Plur	0	root	_	GTtags=A,Cop,Pl|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB
+6	гажаӧсь	гажа	ADJ	A	Number=Plur	4	conj	_	GTtags=A,Cop,Pl|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	4	punct	_	GTtags=CLB
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 nsubj:cop	color:blue
+1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:cop	_	GTtags=Pron,Pers,Sg1,Nom
+2	татӧн	татӧн	ADV	Adv	_	4	advmod:lmod	_	GTtags=Adv
+3	не	не	AUX	Pcle	_	4	aux:neg	_	GTtags=Pcle
+4	ӧтнам	ӧтнам	ADV	Adv	_	0	root	_	GTtags=Adv|SpaceAfter=No
+5	.	.	PUNCT	CLB	_	4	punct	_	GTtags=CLB
 
 ~~~
 

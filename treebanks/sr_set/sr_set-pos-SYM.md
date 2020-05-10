@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Serbian-SET: POS Tags: `SYM`
 
 There are 1 `SYM` lemmas (0%), 1 `SYM` types (0%) and 4 `SYM` tokens (0%).
-Out of 17 observed tags, the rank of `SYM` is: 17 in number of lemmas, 17 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `SYM` is: 17 in number of lemmas, 17 in number of types and 17 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: <em>%</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.842192).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.841736).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
@@ -36,13 +36,11 @@ Parents of `SYM` nodes belong to 3 different parts of speech: <tt><a href="sr_se
 
 1 (25%) `SYM` nodes are leaves.
 
-2 (50%) `SYM` nodes have one child.
+3 (75%) `SYM` nodes have one child.
 
-1 (25%) `SYM` nodes have two children.
+The highest child degree of a `SYM` node is 1.
 
-The highest child degree of a `SYM` node is 2.
+Children of `SYM` nodes are attached using 2 different relations: <tt><a href="sr_set-dep-nummod-gov.html">nummod:gov</a></tt> (2; 67% instances), <tt><a href="sr_set-dep-nummod.html">nummod</a></tt> (1; 33% instances)
 
-Children of `SYM` nodes are attached using 3 different relations: <tt><a href="sr_set-dep-nummod-gov.html">nummod:gov</a></tt> (2; 50% instances), <tt><a href="sr_set-dep-nummod.html">nummod</a></tt> (1; 25% instances), <tt><a href="sr_set-dep-punct.html">punct</a></tt> (1; 25% instances)
-
-Children of `SYM` nodes belong to 2 different parts of speech: <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (3; 75% instances), <tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> (1; 25% instances)
+Children of `SYM` nodes belong to 1 different parts of speech: <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (3; 100% instances)
 

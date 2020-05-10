@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fro_srcmf-dep-cc.html">cc</a></tt>.
 
-5504 nodes (3%) are attached to their parents as `cc:nc`.
+5515 nodes (3%) are attached to their parents as `cc:nc`.
 
-5503 instances of `cc:nc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.15952034883721.
+5514 instances of `cc:nc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.15630099728015.
 
-The following 13 pairs of parts of speech are connected with `cc:nc`: <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (5077; 92% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (210; 4% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (135; 2% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (30; 1% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (25; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="fro_srcmf-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `cc:nc`: <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (5094; 92% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (209; 4% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (133; 2% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (30; 1% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (24; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="fro_srcmf-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-NUM.html">NUM</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,7 +38,7 @@ The following 13 pairs of parts of speech are connected with `cc:nc`: <tt><a hre
 1	e	_	CCONJ	CONcoo	_	5	cc:nc	_	_
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	_
 3	soleilz	_	NOUN	NOMcom	_	5	nsubj	_	_
-4	fut	_	VERB	VERcjg	VerbForm=Fin	5	cop	_	_
+4	fut	_	AUX	VERcjg	VerbForm=Fin	5	cop	_	_
 5	cler	_	ADJ	ADJqua	_	0	root	_	_
 
 ~~~
@@ -53,7 +53,7 @@ The following 13 pairs of parts of speech are connected with `cc:nc`: <tt><a hre
 1	ne	_	CCONJ	CONcoo	_	6	cc:nc	_	_
 2	jo	_	PRON	PROper	PronType=Prs	6	nsubj	_	_
 3	ne	_	ADV	ADVneg	Polarity=Neg	6	advmod	_	_
-4	sui	_	VERB	VERcjg	VerbForm=Fin	6	cop	_	_
+4	sui	_	AUX	VERcjg	VerbForm=Fin	6	cop	_	_
 5	tis	_	DET	DETpos	Poss=Yes	6	det	_	_
 6	sire	_	NOUN	NOMcom	_	0	root	_	_
 

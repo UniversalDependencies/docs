@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-228 nodes (1%) are attached to their parents as `advcl`.
+329 nodes (1%) are attached to their parents as `advcl`.
 
-130 instances of `advcl` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.8859649122807.
+197 instances of `advcl` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 10.7021276595745.
 
-The following 16 pairs of parts of speech are connected with `advcl`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (169; 74% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (20; 9% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (10; 4% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `advcl`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (244; 74% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (25; 8% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (12; 4% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (11; 3% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (10; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,14 +26,14 @@ The following 16 pairs of parts of speech are connected with `advcl`: <tt><a hre
 2	гдѣ	гдѣ	ADV	_	Degree=Pos	5	advmod	_	_
 3	бꙋдеш[ь]	быти	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	5	aux	_	_
 4	хотѧ	хотѣти	PART	_	_	5	advmod	_	_
-5	послал	послати	VERB	Analyt=Yes|Tense=Fut2	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=PartRes	12	advcl	_	_
+5	послал	послати	VERB	Analyt=Yes|Tense=Fut2	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=PartRes|Voice=Act	12	advcl	_	_
 6	на	на	ADP	_	_	7	case	_	_
-7	н[а]ше	нашъ	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes	5	obl	_	_
+7	н[а]ше	нашъ	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	5	obl	_	_
 8	лихо	лихо	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	5	punct	_	_
 10	тамо	тамо	ADV	_	Degree=Pos	12	advmod	_	_
 11	ти	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	12	iobj	_	_
-12	ѡтослати	отослати	VERB	_	Aspect=Perf|VerbForm=Inf	0	root	_	SpaceAfter=No
+12	ѡтослати	отослати	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~
@@ -47,15 +47,15 @@ The following 16 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 8 12 advcl	color:blue
 1	А	а	CCONJ	_	_	8	cc	_	_
 2	дворяномъ	дворянинъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	8	iobj	_	_
-3	твоимъ	твой	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes	2	det	_	_
+3	твоимъ	твой	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	2	det	_	_
 4	у	у	ADP	_	_	5	case	_	_
 5	купьць	купецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	8	obl	_	_
 6	повозовъ	повозъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	8	obj	_	_
 7	не	не	PART	_	Polarity=Neg	8	advmod	_	_
-8	имати	имати	VERB	_	Aspect=Imp|VerbForm=Inf	0	root	_	SpaceAfter=No
+8	имати	имати	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	_
 10	развѣ	развѣ	SCONJ	_	_	12	mark	_	_
-11	ратнои	ратный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	12	amod	_	_
+11	ратнои	ратный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
 12	вѣсти	вѣсть	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	advcl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -63,23 +63,25 @@ The following 16 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 6 advcl	color:blue
-1	О	о	INTJ	_	_	10	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	1	punct	_	_
-3	колика	коликий	DET	_	Case=Gen|Gender=Neut|Number=Sing|Variant=Short	4	det	_	_
-4	блага	благо	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	obj	_	_
-5	не	не	PART	_	Polarity=Neg	6	advmod	_	_
-6	памятивъ	памятивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	10	advcl	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	10	punct	_	_
-8	недостаточное	недостаточный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Long	9	amod	_	_
-9	ума	умъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	obj	_	_
-10	достиглъ	достигнути	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	0	root	_	_
-11	еси	быти	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	SpaceAfter=No
-12	!	!	PUNCT	_	_	10	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 5 advcl	color:blue
+1	А	а	CCONJ	_	_	9	cc	_	_
+2	о	о	ADP	_	_	3	case	_	_
+3	чем	что	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	5	obl	_	_
+4	сѧ	ся	PRON	_	Analyt=Yes|Reflex=Yes	5	expl:pv	_	_
+5	сопрꙋт	сперетися	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin|Voice=Mid	9	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	ино	ино	CCONJ	_	_	9	cc	_	_
+8	им	они	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	iobj	_	_
+9	трети	третий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+10	ѡ[те]ць	отецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+11	наш	нашъ	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	митрополит	митрополитъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
 

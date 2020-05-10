@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-286 nodes (22%) are attached to their parents as `punct`.
+308 nodes (22%) are attached to their parents as `punct`.
 
-166 instances of `punct` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.32167832167832.
+178 instances of `punct` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.33766233766234.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (109; 38% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (51; 18% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (26; 9% instances), <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (19; 7% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (17; 6% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (15; 5% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (12; 4% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (11; 4% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (8; 3% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (7; 2% instances), <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (135; 44% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (59; 19% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (22; 7% instances), <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (17; 6% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (15; 5% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (14; 5% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (13; 4% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (9; 3% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (8; 3% instances), <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt>-<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 4 punct	color:blue
 1	Мама	мама	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	Lang=Mixed
-2	уджалӧ	уджавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	уджалӧ	уджавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	колхозын	колхоз	NOUN	N	Case=Ine|Number=Sing	2	obl	_	Lang=Mixed|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 

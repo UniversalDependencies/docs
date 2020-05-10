@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Arabic-PADT: POS Tags: `PUNCT`
 
 There are 20 `PUNCT` lemmas (0%), 20 `PUNCT` types (0%) and 22445 `PUNCT` tokens (8%).
-Out of 16 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 14 in number of types and 5 in number of tokens.
+Out of 17 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 14 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: .، ،، "، -، )، (، /، »، «، :
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  / (<tt><a href="ar_padt-pos-PUNCT.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.762014).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.761966).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: !.
 
@@ -40,9 +40,9 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: (.
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 3 different relations: <tt><a href="ar_padt-dep-punct.html">punct</a></tt> (22439; 100% instances), <tt><a href="ar_padt-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="ar_padt-dep-cop.html">cop</a></tt> (1; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="ar_padt-dep-punct.html">punct</a></tt> (22440; 100% instances), <tt><a href="ar_padt-dep-root.html">root</a></tt> (5; 0% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (6035; 27% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (4839; 22% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (3834; 17% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (3204; 14% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (2239; 10% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (1564; 7% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (412; 2% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (115; 1% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (89; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt> (61; 0% instances), <tt><a href="ar_padt-pos-PUNCT.html">PUNCT</a></tt> (19; 0% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (8; 0% instances),  (5; 0% instances), <tt><a href="ar_padt-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (6062; 27% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (4830; 22% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (3824; 17% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (3210; 14% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (2215; 10% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (1564; 7% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (409; 2% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (119; 1% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (88; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt> (61; 0% instances), <tt><a href="ar_padt-pos-PUNCT.html">PUNCT</a></tt> (19; 0% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="ar_padt-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (8; 0% instances),  (5; 0% instances), <tt><a href="ar_padt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances)
 
 22428 (100%) `PUNCT` nodes are leaves.
 

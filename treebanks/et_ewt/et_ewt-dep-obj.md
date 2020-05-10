@@ -8,51 +8,46 @@ udver: '2'
 
 This relation is universal.
 
-1417 nodes (5%) are attached to their parents as `obj`.
+2050 nodes (5%) are attached to their parents as `obj`.
 
-732 instances of `obj` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.287932251235.
+1057 instances of `obj` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.26536585365854.
 
-The following 10 pairs of parts of speech are connected with `obj`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (962; 68% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (390; 28% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (29; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (15; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 obj	color:blue
-1	Zoppile	Zopp	PROPN	S	Case=All|Number=Sing	2	obl	2:obl	_
-2	tõi	tooma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	edu	edu	NOUN	S	Case=Gen|Number=Sing	2	obj	2:obj	_
-4	eelkõige	eel_kõige	ADV	D	_	2	advmod	2:advmod	_
-5	hea	hea	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	6	amod	6:amod	_
-6	serv	serv	NOUN	S	Case=Nom|Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
-7	.	.	PUNCT	Z	_	2	punct	2:punct	_
-
-~~~
+The following 10 pairs of parts of speech are connected with `obj`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1403; 68% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (550; 27% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (34; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (18; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (18; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (17; 1% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 obj	color:blue
-1	See	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	5	nsubj:cop	5:nsubj	_
-2	ei	ei	AUX	V	Polarity=Neg	5	aux	5:aux	_
-3	ole	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
-4	niisugune	nii_sugune	DET	P	Case=Nom|Number=Sing|PronType=Dem	5	det	5:det	_
-5	leib	leib	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	SpaceAfter=No
-6	,	,	PUNCT	Z	_	10	punct	10:punct	_
-7	mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	10	obj	10:obj	_
-8	teie	sina	PRON	P	Case=Gen|Number=Plur|Person=2|PronType=Prs	9	nmod	9:nmod	_
-9	esiisad	esi_isa	NOUN	S	Case=Nom|Number=Plur	10	nsubj	10:nsubj	_
-10	sõid	sööma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl	SpaceAfter=No
-11	,	,	PUNCT	Z	_	13	punct	13:punct	_
-12	ja	ja	CCONJ	J	_	13	cc	13:cc	_
-13	surid	surema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	10:conj	SpaceAfter=No
-14	.	.	PUNCT	Z	_	5	punct	5:punct	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 obj	color:blue
+1	onia	Onia	PROPN	S	Case=Gen|Number=Sing	2	nmod	2:nmod	_
+2	fotopoe	foto_pood	NOUN	S	Case=Gen|Number=Sing	3	nmod	3:nmod	_
+3	peded	pede	NOUN	S	Case=Nom|Number=Plur	4	nsubj	4:nsubj	_
+4	korrutavad	korrutama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	nagunii	nagu_nii	ADV	D	_	4	advmod	4:advmod	_
+6	selle	see	DET	P	Case=Gen|Number=Sing|PronType=Dem	7	det	7:det	_
+7	hinna	hind	NOUN	S	Case=Gen|Number=Sing	4	obj	4:obj	_
+8	2X	2X	NOUN	Y	Abbr=Yes	4	obl	4:obl	SpaceAfter=No
+9	.	.	PUNCT	Z	_	4	punct	4:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 obj	color:blue
+1	paljudel	palju	PRON	P	Case=Ade|Number=Plur|PronType=Ind	2	nmod	2:nmod	_
+2	tesitel	teine	PRON	P	Case=Ade|Number=Plur|PronType=Dem	6	obl	6:obl	_
+3	pead	pidama	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	6:aux	_
+4	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	6	obj	6:obj	_
+5	menüüst	menüü	NOUN	S	Case=Ela|Number=Sing	6	obl	6:obl	_
+6	tegema	tegema	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	Z	_	6	punct	6:punct	_
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `iobj`: <tt><a href="fr_gsd-dep-iobj-agent.html">iobj:agent</a></tt>.
 
-958 nodes (0%) are attached to their parents as `iobj`.
+981 nodes (0%) are attached to their parents as `iobj`.
 
-883 instances of `iobj` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.48643006263048.
+887 instances of `iobj` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.49643221202854.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (834; 87% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (72; 8% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (27; 3% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (24; 3% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (838; 85% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (84; 9% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (27; 3% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (25; 3% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (7; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 iobj	color:blue
-1	Cela	cela	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	_
+1	Cela	cela	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	wordform=cela
 2	lui	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
 3	donne	donner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -42,7 +42,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 8 iobj	color:blue
-1	Jusqu'	jusque	ADV	_	_	2	advmod	_	SpaceAfter=No
+1	Jusqu'	jusque	ADV	_	_	2	advmod	_	SpaceAfter=No|wordform=jusqu'
 2	à	à	ADP	_	_	7	advmod	_	EXTPOS=ADV|Type=MWE
 3	présent	présent	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	_

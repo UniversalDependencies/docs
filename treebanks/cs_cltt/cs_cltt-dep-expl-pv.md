@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 2	skutečnost	skutečnost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	11	obj	_	_
 3	týkající	týkající	ADJ	AGFS4-----A----	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	2	amod	_	_
 4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pv	_	_
-5	vedení	vedení	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	3	obj	_	_
+5	vedení	vedení	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	3	obl:arg	_	_
 6	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	5	nmod	_	_
 7	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
 8	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	9	amod	_	LId=účetní-1
@@ -89,7 +89,7 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 20	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	21	case	_	LId=v-1
 21	kterém	který	DET	P4ZS6----------	Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	23	obl	_	_
 22	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	23	expl:pv	_	_
-23	rozhodly	rozhodnout	VERB	VpTP---XR-AA--1	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	18	acl	_	_
+23	rozhodly	rozhodnout	VERB	VpTP---XR-AA--1	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	18	acl:relcl	_	_
 24	vést	vést	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	23	xcomp	_	LId=vést-1
 25	účetnictví	účetnictví	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	24	obj	_	SpaceAfter=No
 26	,	,	PUNCT	Z:-------------	_	27	punct	_	_
@@ -124,14 +124,14 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 55	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	56	case	_	LId=v-1
 56	kterém	který	DET	P4ZS6----------	Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	58	obl	_	_
 57	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	58	expl:pv	_	_
-58	rozhodly	rozhodnout	VERB	VpTP---XR-AA--1	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	53	acl	_	_
-59	vedení	vedení	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	61	obj	_	_
+58	rozhodly	rozhodnout	VERB	VpTP---XR-AA--1	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	53	acl:relcl	_	_
+59	vedení	vedení	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	61	obl:arg	_	_
 60	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	59	nmod	_	_
 61	ukončit	ukončit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	58	xcomp	_	SpaceAfter=No
 62	,	,	PUNCT	Z:-------------	_	64	punct	_	_
 63	a	a	CCONJ	J^-------------	_	64	cc	_	LId=a-1
 64	nevznikla-li	nevznikla-li	X	X@-------------	_	27	conj	_	_
-65	jim	on	PRON	PPXP3--3-------	Case=Dat|Number=Plur|Person=3|PronType=Prs	64	obj	_	LId=on-1
+65	jim	on	PRON	PPXP3--3-------	Case=Dat|Number=Plur|Person=3|PronType=Prs	64	obl:arg	_	LId=on-1
 66	povinnost	povinnost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	64	nsubj	_	_
 67	vést	vést	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	66	acl	_	LId=vést-1
 68	účetnictví	účetnictví	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	67	obj	_	_

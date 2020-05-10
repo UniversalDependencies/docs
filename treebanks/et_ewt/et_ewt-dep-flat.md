@@ -9,30 +9,27 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `flat`: <tt><a href="et_ewt-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-157 nodes (1%) are attached to their parents as `flat`.
+227 nodes (1%) are attached to their parents as `flat`.
 
-157 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.24203821656051.
+227 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.31277533039648.
 
-The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (120; 76% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (17; 11% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (5; 3% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `flat`: <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (160; 70% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (23; 10% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (12; 5% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (9; 4% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 flat	color:blue
-1	Taas	taas	ADV	D	_	2	advmod	2:advmod	_
-2	teenis	teenima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	ATP	ATP	NOUN	Y	Abbr=Yes	4	nmod	4:nmod	_
-4	punkti	punkt	NOUN	S	Case=Gen|Number=Sing	2	obj	2:obj	_
-5	Markus	Markus	PROPN	S	Case=Nom|Number=Sing	2	nsubj	2:nsubj	_
-6	Kerner	Kerner	PROPN	S	Case=Nom|Number=Sing	5	flat	5:flat	SpaceAfter=No
-7	,	,	PUNCT	Z	_	2	punct	2:punct	_
-8	[	[	PUNCT	Z	_	2	punct	2:punct	SpaceAfter=No
-9	...	...	PUNCT	Z	_	2	punct	2:punct	SpaceAfter=No
-10	]	]	PUNCT	Z	_	2	punct	2:punct	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 flat	color:blue
+1	Täpsemalt	täpsemalt	ADV	D	_	4	advmod	4:advmod	_
+2	siis	siis	ADV	D	_	4	advmod	4:advmod	_
+3	"	"	PUNCT	Z	_	4	punct	4:punct	SpaceAfter=No
+4	Lumix	Lumix	PROPN	S	Case=Nom|Number=Sing	0	root	0:root	_
+5	DMC-L1	DMC-L1	PROPN	S	Case=Nom|Number=Sing	4	flat	4:flat	SpaceAfter=No
+6	"	"	PUNCT	Z	_	4	punct	4:punct	SpaceAfter=No
+7	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 ~~~
 

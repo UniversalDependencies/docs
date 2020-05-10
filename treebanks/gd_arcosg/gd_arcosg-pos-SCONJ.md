@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Scottish_Gaelic-ARCOSG: POS Tags: `SCONJ`
 
-There are 48 `SCONJ` lemmas (1%), 47 `SCONJ` types (1%) and 469 `SCONJ` tokens (1%).
+There are 48 `SCONJ` lemmas (1%), 47 `SCONJ` types (1%) and 470 `SCONJ` tokens (1%).
 Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 10 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>nuair, mar, ged, ma, far, gus, mus, mun, mur, bho</em>
 
 The 10 most frequent `SCONJ` types:  <em>nuair, mar, ged, ma, far, gus, mus, mun, mur, bho</em>
 
-The 10 most frequent ambiguous lemmas: <em>mar</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 94, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 83, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 1, <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> 1), <em>ged</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 40, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ma</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 40, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 2), <em>far</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 9), <em>gus</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 16), <em>mun</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 22, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 13), <em>bho</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 108, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 2), <em>uair</em> (<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 10, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10), <em>so</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1), <em>an</em> (<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 2408, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 780, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 119, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 113, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 11, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>mar</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 94, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 83, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 1, <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> 1), <em>ged</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 41, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ma</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 40, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 2), <em>far</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 9), <em>gus</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 16), <em>mun</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 22, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 13), <em>bho</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 108, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 2), <em>uair</em> (<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 10, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10), <em>so</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1), <em>an</em> (<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 2415, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 781, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 119, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 113, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 11, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>mar</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 79, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 72, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 1), <em>ged</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ma</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 2), <em>far</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 9), <em>gus</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 15), <em>mun</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 22, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 13), <em>bho</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 80, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 2), <em>uair</em> (<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 30, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 10, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10), <em>so</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1), <em>an</em> (<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 1041, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 450, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 112, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 111, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 14, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 11, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>mar</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 79, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 72, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 1), <em>ged</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ma</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 2), <em>far</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 9), <em>gus</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 15), <em>mun</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 22, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 13), <em>bho</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 80, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 2), <em>uair</em> (<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 30, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 10, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10), <em>so</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1), <em>an</em> (<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 1043, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 451, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 112, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 111, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 14, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 11, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 2)
 
 
 * <em>mar</em>
@@ -52,8 +52,8 @@ The 10 most frequent ambiguous types:  <em>mar</em> (<tt><a href="gd_arcosg-pos-
   * <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1: <em>a’ sgioba a b' fhearr a ghlaodh an sgìre ri chèile daoine mòra tapaidh làidir agus fiadhaich cuideachd <b>so</b></em>
   * <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1: <em>“ Who says <b>so</b> ? " a’s esan .</em>
 * <em>an</em>
-  * <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 1041: <em>agus ciamar a bha a’ homework an do choimhead <b>an</b> tidsear ris ?</em>
-  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 450: <em>leth-uair <b>an</b> deidh a h-ochd</em>
+  * <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 1043: <em>agus ciamar a bha a’ homework an do choimhead <b>an</b> tidsear ris ?</em>
+  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 451: <em>leth-uair <b>an</b> deidh a h-ochd</em>
   * <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 112: <em>turkey burger <b>an</b> robh e math ?</em>
   * <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 111: <em>a bheil an cnatan air duine sam bith eile thall <b>an</b> sin a [Name] ?</em>
   * <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 14: <em><b>an</b> toil leat mince pies ?</em>
@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  <em>mar</em> (<tt><a href="gd_arcosg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.979167 (the average of all parts of speech is 1.237387).
+The form / lemma ratio of `SCONJ` is 0.979167 (the average of all parts of speech is 1.236589).
 
 The 1st highest number of forms (1) was observed with the lemma “'air”: <em>'air</em>.
 
@@ -73,22 +73,22 @@ The 2nd highest number of forms (1) was observed with the lemma “'n”: <em>'n
 
 The 3rd highest number of forms (1) was observed with the lemma “'nuair”: <em>'nuair</em>.
 
-`SCONJ` occurs with 2 features: <tt><a href="gd_arcosg-feat-Foreign.html">Foreign</a></tt> (6; 1% instances), <tt><a href="gd_arcosg-feat-PartType.html">PartType</a></tt> (1; 0% instances)
+`SCONJ` occurs with 1 features: <tt><a href="gd_arcosg-feat-Foreign.html">Foreign</a></tt> (8; 2% instances)
 
-`SCONJ` occurs with 2 feature-value pairs: `Foreign=Yes`, `PartType=Ad`
+`SCONJ` occurs with 1 feature-value pairs: `Foreign=Yes`
 
-`SCONJ` occurs with 3 feature combinations.
+`SCONJ` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (462 tokens).
 Examples: <em>nuair, mar, ged, ma, far, gus, mus, mun, mur, bho</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="gd_arcosg-dep-mark.html">mark</a></tt> (449; 96% instances), <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (19; 4% instances), <tt><a href="gd_arcosg-dep-mark-prt.html">mark:prt</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="gd_arcosg-dep-mark.html">mark</a></tt> (450; 96% instances), <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (19; 4% instances), <tt><a href="gd_arcosg-dep-mark-prt.html">mark:prt</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (423; 90% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (19; 4% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (13; 3% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (424; 90% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (19; 4% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (13; 3% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-450 (96%) `SCONJ` nodes are leaves.
+451 (96%) `SCONJ` nodes are leaves.
 
 15 (3%) `SCONJ` nodes have one child.
 

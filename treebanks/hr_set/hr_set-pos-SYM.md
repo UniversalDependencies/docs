@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.847405).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.845497).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
@@ -40,9 +40,9 @@ Examples: <em>%, $</em>
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 13 different relations: <tt><a href="hr_set-dep-advmod.html">advmod</a></tt> (53; 45% instances), <tt><a href="hr_set-dep-nmod.html">nmod</a></tt> (13; 11% instances), <tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt> (12; 10% instances), <tt><a href="hr_set-dep-obj.html">obj</a></tt> (11; 9% instances), <tt><a href="hr_set-dep-nummod.html">nummod</a></tt> (7; 6% instances), <tt><a href="hr_set-dep-obl.html">obl</a></tt> (7; 6% instances), <tt><a href="hr_set-dep-parataxis.html">parataxis</a></tt> (6; 5% instances), <tt><a href="hr_set-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="hr_set-dep-compound.html">compound</a></tt> (2; 2% instances), <tt><a href="hr_set-dep-punct.html">punct</a></tt> (2; 2% instances), <tt><a href="hr_set-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="hr_set-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 1% instances)
+`SYM` nodes are attached to their parents using 11 different relations: <tt><a href="hr_set-dep-advmod.html">advmod</a></tt> (53; 45% instances), <tt><a href="hr_set-dep-nmod.html">nmod</a></tt> (13; 11% instances), <tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt> (13; 11% instances), <tt><a href="hr_set-dep-obj.html">obj</a></tt> (11; 9% instances), <tt><a href="hr_set-dep-obl.html">obl</a></tt> (8; 7% instances), <tt><a href="hr_set-dep-nummod.html">nummod</a></tt> (7; 6% instances), <tt><a href="hr_set-dep-parataxis.html">parataxis</a></tt> (6; 5% instances), <tt><a href="hr_set-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="hr_set-dep-compound.html">compound</a></tt> (2; 2% instances), <tt><a href="hr_set-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt> (1; 1% instances)
 
-Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (49; 41% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (46; 39% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (10; 8% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (1; 1% instances)
+Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48; 40% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (46; 39% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (11; 9% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (1; 1% instances)
 
 9 (8%) `SYM` nodes are leaves.
 

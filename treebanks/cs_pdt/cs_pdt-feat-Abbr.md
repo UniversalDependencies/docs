@@ -137,6 +137,6 @@ The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>DET --[<tt><a href="cs_pdt-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (4; 100%),
 <tt>ADV --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADV --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>PART --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>ADP --[<tt><a href="cs_pdt-dep-dep.html">dep</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="cs_pdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (2; 67%),
+<tt>PART --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 100%).
 

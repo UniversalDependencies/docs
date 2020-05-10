@@ -16,11 +16,11 @@ Family: Japanese
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
-The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Atsuko Shimada, Anna Trukhina, Martin Popel, Daniel Zeman, Hiroshi Kanayama.
+The following people have contributed to making this treebank part of UD: Mai Omura, Yusuke Miyao, Hiroshi Kanayama, Hiroshi Matsuda, Aya Wakasa, Kayo Yamashita, Masayuki Asahara, Takaaki Tanaka, Yugo Murawaki, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu, Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Atsuko Shimada, Anna Trukhina, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Japanese-PUD](https://github.com/UniversalDependencies/UD_Japanese-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_pud25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_pud26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 3.0
 
@@ -34,10 +34,10 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | not available |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
-| XPOS | not available |
-| Features | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | not available |
 | Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
@@ -75,6 +75,8 @@ The entire treebank is labeled as test set (and was used for testing in the
 shared task). If it is used for training in future research, the users should
 employ ten-fold cross-validation.
 
+In May 2020, we introduced the same coversion method used in UD_Japanese GSD v2.6 for UD_Japanese PUD.
+
 
 ## Acknowledgments
 
@@ -82,25 +84,25 @@ employ ten-fold cross-validation.
 
 ## POS Tags
 
-[ADJ](ja_pud-pos-ADJ.html) – [ADP](ja_pud-pos-ADP.html) – [ADV](ja_pud-pos-ADV.html) – [AUX](ja_pud-pos-AUX.html) – [CCONJ](ja_pud-pos-CCONJ.html) – [DET](ja_pud-pos-DET.html) – [NOUN](ja_pud-pos-NOUN.html) – [NUM](ja_pud-pos-NUM.html) – [PART](ja_pud-pos-PART.html) – [PRON](ja_pud-pos-PRON.html) – [PROPN](ja_pud-pos-PROPN.html) – [PUNCT](ja_pud-pos-PUNCT.html) – [SCONJ](ja_pud-pos-SCONJ.html) – [SYM](ja_pud-pos-SYM.html) – [VERB](ja_pud-pos-VERB.html)
+[ADJ](ja_pud-pos-ADJ.html) – [ADP](ja_pud-pos-ADP.html) – [ADV](ja_pud-pos-ADV.html) – [AUX](ja_pud-pos-AUX.html) – [CCONJ](ja_pud-pos-CCONJ.html) – [DET](ja_pud-pos-DET.html) – [INTJ](ja_pud-pos-INTJ.html) – [NOUN](ja_pud-pos-NOUN.html) – [NUM](ja_pud-pos-NUM.html) – [PART](ja_pud-pos-PART.html) – [PRON](ja_pud-pos-PRON.html) – [PROPN](ja_pud-pos-PROPN.html) – [PUNCT](ja_pud-pos-PUNCT.html) – [SCONJ](ja_pud-pos-SCONJ.html) – [SYM](ja_pud-pos-SYM.html) – [VERB](ja_pud-pos-VERB.html)
 
 ## Features
 
-[NumType](ja_pud-feat-NumType.html)
+[Polarity](ja_pud-feat-Polarity.html)
 
 ## Relations
 
-[acl](ja_pud-dep-acl.html) – [advcl](ja_pud-dep-advcl.html) – [advmod](ja_pud-dep-advmod.html) – [amod](ja_pud-dep-amod.html) – [appos](ja_pud-dep-appos.html) – [aux](ja_pud-dep-aux.html) – [case](ja_pud-dep-case.html) – [cc](ja_pud-dep-cc.html) – [ccomp](ja_pud-dep-ccomp.html) – [compound](ja_pud-dep-compound.html) – [cop](ja_pud-dep-cop.html) – [csubj](ja_pud-dep-csubj.html) – [dep](ja_pud-dep-dep.html) – [det](ja_pud-dep-det.html) – [dislocated](ja_pud-dep-dislocated.html) – [fixed](ja_pud-dep-fixed.html) – [iobj](ja_pud-dep-iobj.html) – [mark](ja_pud-dep-mark.html) – [nmod](ja_pud-dep-nmod.html) – [nsubj](ja_pud-dep-nsubj.html) – [nummod](ja_pud-dep-nummod.html) – [obj](ja_pud-dep-obj.html) – [obl](ja_pud-dep-obl.html) – [punct](ja_pud-dep-punct.html) – [root](ja_pud-dep-root.html)
+[acl](ja_pud-dep-acl.html) – [advcl](ja_pud-dep-advcl.html) – [advmod](ja_pud-dep-advmod.html) – [amod](ja_pud-dep-amod.html) – [appos](ja_pud-dep-appos.html) – [aux](ja_pud-dep-aux.html) – [case](ja_pud-dep-case.html) – [cc](ja_pud-dep-cc.html) – [ccomp](ja_pud-dep-ccomp.html) – [compound](ja_pud-dep-compound.html) – [cop](ja_pud-dep-cop.html) – [csubj](ja_pud-dep-csubj.html) – [dep](ja_pud-dep-dep.html) – [det](ja_pud-dep-det.html) – [discourse](ja_pud-dep-discourse.html) – [dislocated](ja_pud-dep-dislocated.html) – [fixed](ja_pud-dep-fixed.html) – [mark](ja_pud-dep-mark.html) – [nmod](ja_pud-dep-nmod.html) – [nsubj](ja_pud-dep-nsubj.html) – [nummod](ja_pud-dep-nummod.html) – [obj](ja_pud-dep-obj.html) – [obl](ja_pud-dep-obl.html) – [punct](ja_pud-dep-punct.html) – [root](ja_pud-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1000 sentences and 26707 tokens.</li>
+<li>This corpus contains 1000 sentences and 28784 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 26699 tokens (100%) that are not followed by a space.</li>
+<li>This corpus contains 28746 tokens (100%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -108,7 +110,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: 、と, ドナルド・トランプ, 、という, 、を, B.C, B.C., G.D.P, HerFatherDidn't, Z.A, Zettel’sTraum, 、の, 」な, ウォルト・ディズニー, エル・グレコ, オート・ガロンヌ, オードリー・ヘプバーン, カサ・サンタ・マルタ, カステルフランコ・ヴェネト, サン・ゴーダン, シガー・ロス, シー・オブ・ジ・アンティレス, ジョン・ディ・ドメニコ, スティーラーズ・ホイール, ストレンジャー・シングズ, トーキング・デッド, ド・ゴール, ハーバード・ビジネス・スクール, バハ・カリフォルニヤ, ヒラリー・クリントン, フェデリコ・フェリーニ, フランツ・ヨーゼフ, プンタ・デル・エステ, プンタ・ラサ, マラー/サド, メラニア・トランプ, ラッセ・ハルストレム, ル・コント, ルーカス・クラナッハ</li>
+<li>This corpus contains 10 types of words that contain both letters and punctuation. Examples: B.C., G.D.P., H​e​r​F​a​t​h​e​r​D​i​d​n​’​t​L​i​k​e​M​e​A​n​y​w​a​y, Thought’YaKnew, Wi-Fi, Zettel’s, イェルバ・ブエナ, セスト・サン・ジョヴァンニ, プンタ・デル・エステ, プンタ・ラサ</li>
 </ul>
 
 <ul>
@@ -119,16 +121,16 @@ employ ten-fold cross-validation.
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: INTJ, X</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
+<li>This corpus does not use the following tags: X</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10 word types tagged as particles (PART): か, かどうか, さ, ね, 最大, 最高, 第, 紀元前, 約, 翌</li>
+<li>This corpus contains 14 word types tagged as particles (PART): い, か, がかっ, さ, たり, だけ, だらけ, っぽく, ね, ばかり, ほど, まで, 的, 風</li>
 </ul>
 
 <ul>
-<li>This corpus contains 26 lemmas tagged as pronouns (PRON): あなた, いずれ, かれら, ここ, これ, これら, そこ, その他, それ, それぞれ, それら, どこ, どちら, どれ, みなさん, よそ, 君たち, 彼, 彼ら, 彼女, 我々, 皆, 私, 私たち, 私達, 誰</li>
+<li>This corpus contains 22 lemmas tagged as pronouns (PRON): You, あなた, あらゆる, ある, いずれ, いつ, かれ, ここ, これ, そこ, それ, どこ, どちら, どれ, なん, 何, 君, 彼, 彼女, 我々, 私, 誰</li>
 </ul>
 
 <ul>
@@ -139,11 +141,11 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 47 lemmas tagged as auxiliaries (AUX): ある, いく, いる, う, うる, える, おる, かける, かもしれる, くれる, させる, しまう, しめる, すぎる, する, せる, そうだ, た, たい, たら, たろ, だ, できる, でした, ない, なければ, なさる, なら, なる, べし, ます, やすい, ゆく, よい, ようだ, らしい, らす, られる, れる, 出す, 化, 始める, 来る, 終える, 続ける, 良い, 行く</li>
+<li>This corpus contains 46 lemmas tagged as auxiliaries (AUX): ある, いい, いく, いる, える, おる, がましい, くる, くれる, させる, しまう, しめる, しれる, す, すぎる, する, せる, そう, た, たい, たり, だ, づける, てる, できる, ない, なり, なる, ぬ, はじめる, べし, ます, やすい, よい, よう, らしい, られる, り, れる, わたる, 付ける, 出す, 始める, 渡る, 終える, 続ける</li>
 </ul>
 
 <ul>
-<li>Out of the above, 16 lemmas occurred sometimes as AUX and sometimes as VERB: ある, いく, いる, かける, する, せる, できる, なさる, なる, 出す, 化, 始める, 来る, 終える, 続ける, 行く</li>
+<li>Out of the above, 16 lemmas occurred sometimes as AUX and sometimes as VERB: ある, いく, いる, える, くる, しれる, すぎる, する, できる, なる, 付ける, 出す, 始める, 渡る, 終える, 続ける</li>
 </ul>
 
 <ul>
@@ -163,6 +165,18 @@ employ ten-fold cross-validation.
 
 
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>AUX: ない, なかっ, なけれ, なく</li>
+      <li>NOUN: 不, 未, 非, 反, 無</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
@@ -177,17 +191,6 @@ employ ten-fold cross-validation.
 
 
 
-<ul>
-  <li><a>NumType</a></li>
-</ul>
-
-<ul>
-  <li>Card
-    <ul>
-      <li>NUM: 1, 2, 3, 一, 10, 4, 6, 20, 二, 億</li>
-    </ul>
-  </li>
-</ul>
 
 
 
@@ -207,7 +210,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus uses 45 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, いる, れる, ない, ます, ようだ, う, られる, せる, なる, おる, 来る, できる, たい, べし, 始める, かもしれる, しまう, なければ, 続ける, すぎる, える, たら, いく, かける, くれる, させる, そうだ, でした, 出す, 化, うる, しめる, たろ, なさる, なら, やすい, ゆく, らしい, らす, 終える, 良い, 行く.</li>
+<li>This corpus uses 43 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, いる, れる, ある, ない, ます, られる, できる, よう, なる, せる, ぬ, おる, たい, べし, くる, 始める, しれる, しまう, すぎる, 続ける, す, なり, いく, くれる, させる, そう, たり, 付ける, 出す, 渡る, いい, える, がましい, しめる, づける, てる, やすい, よい, らしい, 終える.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -216,15 +219,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-ADP(が) (350)</li>
+      <li>VERB--NOUN-ADP(か)-ADP(が) (1)</li>
+      <li>VERB--NOUN-ADP(が) (390)</li>
+      <li>VERB--NOUN-ADP(しか) (1)</li>
       <li>VERB--NOUN-ADP(だけ)-ADP(が) (1)</li>
+      <li>VERB--NOUN-ADP(だけ)-ADP(は) (1)</li>
+      <li>VERB--NOUN-ADP(と) (1)</li>
       <li>VERB--NOUN-ADP(など)-ADP(が) (3)</li>
-      <li>VERB--NOUN-ADP(の)-ADP(が) (2)</li>
-      <li>VERB--NOUN-ADP(は) (371)</li>
+      <li>VERB--NOUN-ADP(の) (18)</li>
+      <li>VERB--NOUN-ADP(は) (400)</li>
       <li>VERB--NOUN-ADP(まで)-ADP(も)-ADP(が) (1)</li>
-      <li>VERB--PRON-ADP(が) (30)</li>
-      <li>VERB--PRON-ADP(は) (135)</li>
-      <li>VERB--PRON-ADP(も)-ADP(が) (1)</li>
+      <li>VERB--PRON-ADP(か)-ADP(が) (1)</li>
+      <li>VERB--PRON-ADP(が) (24)</li>
+      <li>VERB--PRON-ADP(の) (1)</li>
+      <li>VERB--PRON-ADP(は) (124)</li>
     </ul>
   </li>
 </ul>
@@ -234,11 +242,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-ADP(だけ)-ADP(を) (1)</li>
       <li>VERB--NOUN-ADP(など)-ADP(を) (2)</li>
-      <li>VERB--NOUN-ADP(の)-ADP(を) (2)</li>
-      <li>VERB--NOUN-ADP(を) (700)</li>
-      <li>VERB--NOUN-ADP(を)-ADP(はじめ) (1)</li>
+      <li>VERB--NOUN-ADP(を) (718)</li>
       <li>VERB--NOUN-ADP(を)-ADP(も) (1)</li>
-      <li>VERB--PRON-ADP(を) (21)</li>
+      <li>VERB--PRON-ADP(を) (20)</li>
     </ul>
   </li>
 </ul>
@@ -246,17 +252,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-ADP(だけ)-ADP(に) (1)</li>
-      <li>VERB--NOUN-ADP(に) (499)</li>
-      <li>VERB--NOUN-ADP(に)-ADP(しか) (1)</li>
-      <li>VERB--NOUN-ADP(に)-ADP(は) (68)</li>
-      <li>VERB--NOUN-ADP(に)-ADP(も) (7)</li>
-      <li>VERB--NOUN-ADP(のみ)-ADP(に) (2)</li>
-      <li>VERB--NOUN-ADP(まで)-ADP(に) (8)</li>
-      <li>VERB--NOUN-ADP(まで)-ADP(に)-ADP(は) (2)</li>
-      <li>VERB--PRON-ADP(に) (20)</li>
-      <li>VERB--PRON-ADP(に)-ADP(は) (3)</li>
-      <li>VERB--PRON-ADP(に)-ADP(も) (2)</li>
     </ul>
   </li>
 </ul>
@@ -268,5 +263,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 12 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>discourse</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 12 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

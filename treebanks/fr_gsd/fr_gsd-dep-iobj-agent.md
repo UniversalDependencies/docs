@@ -22,8 +22,8 @@ The following 1 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 iobj:agent	color:blue
-1	Son	son	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	_
-2	entourage	entourage	NOUN	_	Gender=Masc|Number=Sing	9	nsubj:caus	_	SpaceAfter=No
+1	Son	son	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	wordform=son
+2	entourage	entourage	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	ses	son	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det	_	_
 5	enfants	enfant	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_

@@ -30,7 +30,7 @@ The following 38 pairs of parts of speech are connected with `parataxis`: <tt><a
 6	si	se	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	11	expl:pv	11:expl:pv	LGloss=(zvr._zájmeno/částice)
 7	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	9:case	LId=z-1
 8	anglické	anglický	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	9:amod	_
-9	tradice	tradice	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	11	obl:arg	11:obl:arg	_
+9	tradice	tradice	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	11	obl:arg	11:obl:arg:z:gen	_
 10	nic	nic	PRON	PW--4----------	Case=Acc|PronType=Neg	11	obj	11:obj	_
 11	nedělá	dělat	VERB	VB-S---3P-NA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	11	punct	11:punct	_
@@ -50,7 +50,7 @@ The following 38 pairs of parts of speech are connected with `parataxis`: <tt><a
 4	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	5:case	LId=na-1
 5	dráhu	dráha	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	1	dep	1:dep	_
 6	VÝVOZNÍ	vývozní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	7	amod	7:amod	_
-7	TALÓNY	talón	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	9	nsubj	9:nsubj	_
+7	TALÓNY	talón	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	9	nsubj	9:nsubj|10:nsubj	_
 8	SE	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	10	expl:pv	10:expl:pv	LGloss=(zvr._zájmeno/částice)
 9	ZAČÍNAJÍ	začínat	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	1:parataxis	_
 10	PROJEVOVAT	projevovat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	9	xcomp	9:xcomp	_

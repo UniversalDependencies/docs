@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="mdf_jr-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-33 nodes (6%) are attached to their parents as `cc`.
+57 nodes (5%) are attached to their parents as `cc`.
 
-33 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.81818181818182.
+57 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.10526315789474.
 
-The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (22; 67% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (5; 15% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (2; 6% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (2; 6% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (2; 6% instances).
+The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (41; 72% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (7; 12% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (4; 7% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (2; 4% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (2; 4% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -26,12 +26,12 @@ The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="m
 1	И	и	CCONJ	CC	_	2	cc	_	_
 2	уендихть	уендемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	_
 3	сенем	сенем	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	4	amod	_	_
-4	менельть	менель	NOUN	N	Case=Gen|Definite=Def|Number=Sing	2	obl	_	_
-5	потмоса	потмоса	ADP	Adp	AdpType=Post	4	case	_	SpaceAfter=No
+4	менельть	менель	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	nmod:part	_	_
+5	потмоса	потма	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	2	obl:lmod	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
 7	кода	кода	ADV	Adv	_	9	mark	_	_
 8	оцю	оцю	ADJ	A	Case=Nom|Number=Sing	9	amod	_	_
-9	морява	моря	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	4	obl	_	SpaceAfter=No
+9	морява	моря	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	4	obl:lmod	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

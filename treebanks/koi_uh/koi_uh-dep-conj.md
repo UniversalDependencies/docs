@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (5%) are attached to their parents as `conj`.
+43 nodes (6%) are attached to their parents as `conj`.
 
-18 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.44444444444444.
+43 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.88372093023256.
 
-The following 7 pairs of parts of speech are connected with `conj`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (8; 44% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (3; 17% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (2; 11% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 11 pairs of parts of speech are connected with `conj`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (18; 42% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (6; 14% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (3; 7% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -34,22 +34,21 @@ The following 7 pairs of parts of speech are connected with `conj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 9 conj	color:blue
-1	Эз	оз	AUX	_	Person=3|Polarity=Neg|Tense=Past|VerbType=Aux	3	aux:neg	_	GTtags=Prt1,3
-2	позь	позьны	AUX	_	Connegative=Yes	3	aux	_	GTtags=ConNeg
-3	бӧрйыны	бӧрйыны	VERB	_	VerbForm=Inf	0	root	_	GTtags=Inf
-4	не	не	CCONJ	Polarity=Neg	_	6	cc:preconj	_	_
-5	Питер	Питер	PROPN	_	Animacy=Hum|Case=Nom|Number=Sing	3	obj	_	GTtags=Prop,Sg,Nom
-6	Смитӧс	Смит	PROPN	_	Animacy=Hum|Case=Acc|Number=Sing	5	flat:name	_	GTtags=Prop,Sg,Acc|SpaceAfter=No
-7	,	,	PUNCT	CLB	_	10	punct	_	_
-8	не	не	CCONJ	Polarity=Neg	_	10	cc	_	_
-9	Мери	Мери	PROPN	_	Animacy=Hum|Case=Nom|Number=Sing	6	conj	_	GTtags=Prop,Sg,Nom
-10	Браунӧс	Браун	PROPN	_	Animacy=Hum|Case=Acc|Number=Sing	9	flat:name	_	GTtags=Prop,Sg,Acc|SpaceAfter=No
-11	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 conj	color:blue
+1	Ордчӧн	ордчӧн	ADV	Adv	_	3	advmod:lmod	_	GTtags=Adv
+2	мекӧт	ме	PRON	Pron	Case=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	GTtags=Pron,Pers,Sg1,Com
+3	пукалӧ	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=2	0	root	_	GTtags=V,TV,Ind,Prs,Sg3
+4	сьӧд	сьӧд	ADJ	A	_	5	amod	_	GTtags=A
+5	тошока	тошока	NOUN	N	Derivation=ProprietiveMod|Number=Sing	9	amod	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A
+6	и	и	CCONJ	CC	_	8	cc	_	GTtags=CC
+7	гардчӧмкодь	гардчыны	VERB	V	Derivation=CompMod|Mood=Ind|Number=Sing|Person=3|Tense=Prt2|Valency=1	8	advcl	_	GTtags=V,IV,Ind,Prt2,Sg3,Der,Der/CompMod
+8	уссэза	ус	NOUN	N	Derivation=ProprietiveMod|Number=Plur	5	conj	_	GTtags=N,Pl,Der,Der/ProprietiveMod,A
+9	мужик	мужик	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=N,Sg,Nom|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
 
 ~~~
 
@@ -57,20 +56,17 @@ The following 7 pairs of parts of speech are connected with `conj`: <tt><a href=
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 conj	color:blue
-1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	босьтіс	босьтны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
-3	машина	машина	NOUN	_	Case=Nom|Number=Sing	2	obj	_	GTtags=Sg,Nom|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	7	punct	_	_
-5	а	а	CCONJ	_	_	7	cc	_	_
-6	сылӧн	сія	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	nmod	_	GTtags=Pers,Sg3,Gen
-7	воныс	вон	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	conj	_	GTtags=Sg,Nom,PxSg3
-8	–	–	PUNCT	_	_	7	punct	_	_
-9	дзир	дзир	ADV	_	_	7	orphan	_	GTtags=Sg,Nom
-10	велосипед	велосипед	NOUN	_	Case=Nom|Number=Sing	7	orphan	_	GTtags=Sg,Nom|SpaceAfter=No
-11	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 conj	color:blue
+1	Игаузу	Игаузу	PROPN	_	Case=Nom|NameType=Geo|Number=Sing	4	dislocated	_	GTtags=Prop,Sg,Nom
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	этӧ	эта	PRON	_	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	_	GTtags=Dem,Sg,Nom
+4	ыджыт	ыджыт	ADJ	_	_	0	root	_	_
+5	али	али	CCONJ	_	_	7	cc	_	_
+6	учӧт	учӧт	ADJ	_	_	7	amod	_	_
+7	страна	страна	NOUN	_	Case=Nom|Number=Sing	4	conj	_	GTtags=Sg,Nom|SpaceAfter=No
+8	?	?	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

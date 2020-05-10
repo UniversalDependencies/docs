@@ -11,7 +11,7 @@ This relation is universal.
 974 nodes (0%) are attached to their parents as `expl`.
 
 580 instances of `expl` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09958932238193.
+Average distance between parent and child is 1.09650924024641.
 
 The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (969; 99% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 

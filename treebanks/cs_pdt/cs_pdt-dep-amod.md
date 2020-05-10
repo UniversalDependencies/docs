@@ -50,7 +50,7 @@ The following 25 pairs of parts of speech are connected with `amod`: <tt><a href
 6	střední	střední	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	9:amod	_
 7	a	a	CCONJ	J^-------------	_	8	cc	8:cc	LId=a-1
 8	východní	východní	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	6	conj	6:conj|9:amod	_
-9	Evropě	Evropa	PROPN	NNFS6-----A----	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	3	nmod	3:nmod	SpaceAfter=No
+9	Evropě	Evropa	PROPN	NNFS6-----A----	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	3	nmod	3:nmod:v:loc	SpaceAfter=No
 10	:	:	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -63,11 +63,11 @@ The following 25 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 5 amod	color:blue
 1	Z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	2	case	2:case	LId=z-1
-2	dalších	další	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	3	obl	3:obl	_
+2	dalších	další	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	3	obl	3:obl:z:gen	_
 3	byly	být	VERB	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 4	mezi	mezi	ADP	RR--7----------	AdpType=Prep|Case=Ins	6	case	6:case	LId=mezi-1
 5	prvními	první	ADJ	CrIP7----------	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Ord	6	amod	6:amod	_
-6	deseti	deset	NUM	Cn-P7----------	Case=Ins|Number=Plur|NumForm=Word|NumType=Card	3	obl	3:obl	LNumValue=10
+6	deseti	deset	NUM	Cn-P7----------	Case=Ins|Number=Plur|NumForm=Word|NumType=Card	3	obl	3:obl:mezi:ins	LNumValue=10
 7	ještě	ještě	ADV	Db-------------	_	8	advmod:emph	8:advmod:emph|10:advmod:emph	_
 8	Pupp	Pupp	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing|Polarity=Pos	3	nsubj	3:nsubj	_
 9	a	a	CCONJ	J^-------------	_	10	cc	10:cc	LId=a-1

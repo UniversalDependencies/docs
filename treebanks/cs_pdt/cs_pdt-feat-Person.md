@@ -107,11 +107,12 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (5196; 65%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> VERB</tt> (72; 64%),
+<tt>VERB --[<tt><a href="cs_pdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (6; 60%),
 <tt>PRON --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> PRON</tt> (3; 75%),
 <tt>PRON --[<tt><a href="cs_pdt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> VERB</tt> (2; 67%),
-<tt>PRON --[<tt><a href="cs_pdt-dep-acl.html">acl</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="cs_pdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="cs_pdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%),
 <tt>PRON --[<tt><a href="cs_pdt-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -19,7 +19,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="lv_lvtb-pos-PRON.ht
 
 12233 <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7376; 60%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6522; 53%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7376; 60%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6519; 53%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -109,7 +109,7 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 * `Ind` (2; 9% of non-empty `PronType`): <em>kurienes, kurieni</em>
 * `Int` (14; 64% of non-empty `PronType`): <em>kurienes, kurieni</em>
 * `Neg` (1; 5% of non-empty `PronType`): <em>nekurienes</em>
-* `EMPTY` (58667): <em>valsts, laikā, gada, gadā, darba, gadu, piemēram, laiku, cilvēki, gadus</em>
+* `EMPTY` (58669): <em>valsts, laikā, gada, gadā, darba, gadu, piemēram, laiku, cilvēki, gadus</em>
 
 <table>
   <tr><th>Paradigm <i>kuriene</i></th><th><tt>Int</tt></th><th><tt>Ind</tt></th></tr>

@@ -13,7 +13,7 @@ The 10 most frequent `SYM` lemmas: <em>_</em>
 
 The 10 most frequent `SYM` types:  <em>%, $</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pt_gsd-pos-PUNCT.html">PUNCT</a></tt> 42033, <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> 32948, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 30871, <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 26122, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 10984, <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> 8491, <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 7392, <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 3571, <tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> 2299, <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> 1258, <tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> 1007, <tt><a href="pt_gsd-pos-PART.html">PART</a></tt> 748, <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> 705, <tt><a href="pt_gsd-pos-X.html">X</a></tt> 534, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 228)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pt_gsd-pos-PUNCT.html">PUNCT</a></tt> 42031, <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> 32946, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 30865, <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 26119, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 10512, <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> 8491, <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 7392, <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 3573, <tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> 2299, <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> 1257, <tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> 1007, <tt><a href="pt_gsd-pos-PART.html">PART</a></tt> 748, <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> 705, <tt><a href="pt_gsd-pos-X.html">X</a></tt> 534, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 228)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 2.000000 (the average of all parts of speech is 3.391258).
+The form / lemma ratio of `SYM` is 2.000000 (the average of all parts of speech is 3.389530).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>$, %</em>.
 

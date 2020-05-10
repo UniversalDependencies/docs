@@ -37,7 +37,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 obl:agent	color:blue
-1	Herkese	herkes	PRON	_	Case=Dat|Number=Sing|Person=3	4	obl:agent	_	_
+1	Herkese	herkes	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obl:agent	_	_
 2	birer	bir	NUM	_	NumType=Dist	3	nummod	_	_
 3	ağaç	ağaç	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 4	diktirildi	dik	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauPass	0	root	_	SpaceAfter=No

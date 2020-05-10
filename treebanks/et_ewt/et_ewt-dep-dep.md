@@ -8,12 +8,49 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `dep`.
+26 nodes (0%) are attached to their parents as `dep`.
 
-7 instances of `dep` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.91666666666667.
+14 instances of `dep` (54%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.65384615384615.
 
-The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (3; 25% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 17% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 8% instances).
+The following 17 pairs of parts of speech are connected with `dep`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (3; 12% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (3; 12% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (3; 12% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 8% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 8% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 4% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-DET.html">DET</a></tt> (1; 4% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 dep	color:blue
+1	cigs	cigs	PROPN	S	Case=Nom|Number=Sing	6	parataxis	6:parataxis	SpaceAfter=No
+2	:	:	PUNCT	Z	_	1	punct	1:punct	_
+3	Mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	6	dep	6:dep	_
+4	minu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	nmod	5:nmod	_
+5	msni	msni	NOUN	S	Case=Gen|Number=Sing	6	nmod	6:nmod	_
+6	inimestel	inimene	NOUN	S	Case=Ade|Number=Plur	0	root	0:root	_
+7	viga	viga	NOUN	S	Case=Par|Number=Sing	6	nsubj:cop	6:nsubj	_
+8	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	SpaceAfter=No
+9	?	?	PUNCT	Z	_	6	punct	6:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 dep	color:blue
+1	eripruul	eri_pruul	PROPN	S	Case=Nom|Number=Sing	7	parataxis	7:parataxis	SpaceAfter=No
+2	:	:	PUNCT	Z	_	1	punct	1:punct	_
+3	Mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	7	dep	7:dep	_
+4	sa	sina	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	7:nsubj	_
+5	neid	see	DET	P	Case=Par|Number=Plur|PronType=Dem	6	det	6:det	_
+6	eksameid	eksam	NOUN	S	Case=Par|Number=Plur	7	obj	7:obj	_
+7	treid	treidma	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+8	?	?	PUNCT	Z	_	7	punct	7:punct	_
+
+~~~
 
 
 ~~~ conllu
@@ -49,72 +86,6 @@ The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="
 25	ei	ei	AUX	V	Polarity=Neg	26	aux	26:aux	_
 26	kuule	kuulma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	21	conj	21:conj	SpaceAfter=No
 27	?	?	PUNCT	Z	_	3	punct	3:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 33	bgColor:blue
-# visual-style 33	fgColor:white
-# visual-style 29	bgColor:blue
-# visual-style 29	fgColor:white
-# visual-style 29 33 dep	color:blue
-1	pani	panema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	mingi	mingi	DET	P	Case=Gen|Number=Sing|PronType=Ind	4	det	4:det	_
-3	naeru	naer	NOUN	S	Case=Gen|Number=Sing	4	nmod	4:nmod	_
-4	märgi	märk	NOUN	S	Case=Gen|Number=Sing	1	obj	1:obj	_
-5	ka	ka	ADV	D	_	6	advmod	6:advmod	_
-6	veel	veel	ADV	D	_	1	advmod	1:advmod	_
-7	nii	nii	ADV	D	_	8	advmod	8:advmod	_
-8	vastik	vastik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	1	conj	1:conj	_
-9	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
-10	olla	olema	VERB	V	VerbForm=Inf	8	csubj:cop	8:csubj	SpaceAfter=No
-11	,	,	PUNCT	Z	_	16	punct	16:punct	_
-12	kooklis	kool	NOUN	S	Case=Ine|Number=Sing	16	obl	16:obl	_
-13	ka	ka	ADV	D	_	16	advmod	16:advmod	_
-14	mingi	mingi	DET	P	Case=Nom|Number=Sing|PronType=Ind	16	det	16:det	_
-15	küikk	kõik	PRON	P	Case=Nom|Number=Plur|PronType=Tot	16	nsubj	16:nsubj	_
-16	pelgavad	pelgama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
-17	mind	mina	PRON	P	Case=Par|Number=Sing|Person=1|PronType=Prs	16	obj	16:obj	_
-18	jja	ja	CCONJ	J	_	19	cc	19:cc	_
-19	sosistavad	sosistama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
-20	minu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	19	obl	19:obl	_
-21	ees	ees	ADP	K	AdpType=Post	20	case	20:case	_
-22	Mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	25	obj	25:obj	_
-23	ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	25:nsubj	_
-24	neile	tema	PRON	P	Case=All|Number=Plur|Person=3|PronType=Prs	25	obl	25:obl	_
-25	ütlema	ütlema	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	1	parataxis	1:parataxis	_
-26	pean	pidama	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	25	aux	25:aux	SpaceAfter=No
-27	?	?	PUNCT	Z	_	25	punct	25:punct	_
-28	nad	tema	PRON	P	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	nsubj	29:nsubj	_
-29	ütlevad	ütlema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	1:parataxis	_
-30	mulle	mina	PRON	P	Case=All|Number=Sing|Person=1|PronType=Prs	29	obl	29:obl	_
-31	migni	mingi	DET	P	Case=Nom|Number=Sing|PronType=Ind	33	det	33:det	_
-32	loll	loll	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	33	amod	33:amod	_
-33	sõber	sõber	NOUN	S	Case=Nom|Number=Sing	29	dep	29:dep	_
-34	ausõna	au_sõna	NOUN	S	Case=Nom|Number=Sing	29	obl	29:obl	SpaceAfter=No
-35	!	!	PUNCT	Z	_	1	punct	1:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 9 dep	color:blue
-1	Minuarust	minu_arust	ADV	D	_	5	advmod	5:advmod	_
-2	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	5	nsubj:cop	5:nsubj	_
-3	ei	ei	AUX	V	Polarity=Neg	5	aux	5:aux	_
-4	ole	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
-5	õige	õige	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	0:root	SpaceAfter=No
-6	,	,	PUNCT	Z	_	9	punct	9:punct	_
-7	et	et	SCONJ	J	_	9	mark	9:mark	_
-8	moslemid	moslem	NOUN	S	Case=Nom|Number=Plur	9	nsubj	9:nsubj	_
-9	tapavad	tapma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	dep	5:dep	_
-10	kristlasi	kristlane	NOUN	S	Case=Par|Number=Plur	9	obj	9:obj	SpaceAfter=No
-11	!	!	PUNCT	Z	_	5	punct	5:punct	_
 
 ~~~
 

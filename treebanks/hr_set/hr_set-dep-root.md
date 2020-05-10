@@ -11,9 +11,9 @@ This relation is universal.
 9010 nodes (5%) are attached to their parents as `root`.
 
 9010 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.66748057713651.
+Average distance between parent and child is 6.6677025527192.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (6298; 70% instances), -<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1339; 15% instances), -<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (984; 11% instances), -<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (135; 1% instances), -<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (115; 1% instances), -<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (48; 1% instances), -<tt><a href="hr_set-pos-DET.html">DET</a></tt> (37; 0% instances), -<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (25; 0% instances), -<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (11; 0% instances), -<tt><a href="hr_set-pos-PART.html">PART</a></tt> (10; 0% instances), -<tt><a href="hr_set-pos-X.html">X</a></tt> (5; 0% instances), -<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="hr_set-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), -<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (6300; 70% instances), -<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1339; 15% instances), -<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (983; 11% instances), -<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (134; 1% instances), -<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (115; 1% instances), -<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (48; 1% instances), -<tt><a href="hr_set-pos-DET.html">DET</a></tt> (37; 0% instances), -<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (25; 0% instances), -<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (11; 0% instances), -<tt><a href="hr_set-pos-PART.html">PART</a></tt> (10; 0% instances), -<tt><a href="hr_set-pos-X.html">X</a></tt> (5; 0% instances), -<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="hr_set-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), -<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,8 +41,8 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Toliko	toliko	ADV	Rgp	Degree=Pos|PronType=Dem	3	det	_	_
-2	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+1	Toliko	toliko	ADV	Rgp	Degree=Pos|PronType=Dem	3	advmod	_	_
+2	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	radnika	radnik	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	4	obj	_	_
 4	otpušteno	otpustiti	ADJ	Appnsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	Z	_	4	punct	_	_

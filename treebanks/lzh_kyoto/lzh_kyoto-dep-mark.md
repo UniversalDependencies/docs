@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-652 nodes (1%) are attached to their parents as `mark`.
+1023 nodes (1%) are attached to their parents as `mark`.
 
-412 instances of `mark` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.63650306748466.
+565 instances of `mark` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.60312805474096.
 
-The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (421; 65% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (102; 16% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (89; 14% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (22; 3% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (545; 53% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (180; 18% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (160; 16% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (102; 10% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (13; 1% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (8; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,6 +35,20 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 mark	color:blue
+1	膚	膚	NOUN	n,名詞,不可譲,身体	_	2	nsubj	_	Gloss=skin|SpaceAfter=No
+2	受	受	VERB	v,動詞,行為,得失	_	4	advcl	_	Gloss=receive|SpaceAfter=No
+3	之	之	SCONJ	p,助詞,接続,属格	_	2	mark	_	Gloss='s|SpaceAfter=No
+4	愬	愬	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=inform|SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 6	bgColor:blue
@@ -50,20 +64,6 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 8	闕	闕	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=fault|SpaceAfter=No
 9	如	如	PART	p,接尾辞,*,*	_	8	fixed	_	Gloss=[suffix]|SpaceAfter=No
 10	也	也	PART	p,助詞,句末,*	_	8	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 mark	color:blue
-1	膚	膚	NOUN	n,名詞,不可譲,身体	_	2	nsubj	_	Gloss=skin|SpaceAfter=No
-2	受	受	VERB	v,動詞,行為,得失	_	4	advcl	_	Gloss=receive|SpaceAfter=No
-3	之	之	SCONJ	p,助詞,接続,属格	_	2	mark	_	Gloss='s|SpaceAfter=No
-4	愬	愬	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=inform|SpaceAfter=No
 
 ~~~
 

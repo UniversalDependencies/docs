@@ -9,92 +9,94 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-278 tokens (1%) have a non-empty value of `Abbr`.
-175 types (2%) occur at least once with a non-empty value of `Abbr`.
-156 lemmas (3%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 7 part-of-speech tags: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (186; 1% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (71; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 0% instances).
+437 tokens (1%) have a non-empty value of `Abbr`.
+254 types (2%) occur at least once with a non-empty value of `Abbr`.
+225 lemmas (3%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 7 part-of-speech tags: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (256; 1% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (106; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (50; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (11; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-186 <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+256 <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (157; 84%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (157; 84%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (222; 87%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (222; 87%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (186; 100% of non-empty `Abbr`): <em>ATP, a, sape.ru, EE, HD, ID, NASA, kg, %, EU</em>
-* `EMPTY` (5602): <em>asi, inimesed, raha, aru, mees, jumal, aasta, asju, naine, elu</em>
+* `Yes` (256; 100% of non-empty `Abbr`): <em>ATP, a, b, sape.ru, NI, c, EE, HD, ID, NASA</em>
+* `EMPTY` (8335): <em>teema, asi, aasta, kooli, inimesed, koolis, aru, osa, punkti, päev</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (130) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (168) occur only with one value of `Abbr`.
 
 ### `ADV`
 
-71 <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Abbr`.
+106 <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
 `ADV` tokens may have the following values of `Abbr`:
 
-* `Yes` (71; 100% of non-empty `Abbr`): <em>jne, jms, nt, st, mh, vms, ca, ps, etc, jm</em>
-* `EMPTY` (3437): <em>ka, siis, nii, kas, välja, veel, juba, ikka, küll, mitte</em>
+* `Yes` (106; 100% of non-empty `Abbr`): <em>jne, vms, jms, nt, st, mh, ca, jne., ps, va</em>
+* `EMPTY` (5730): <em>ka, siis, nii, kas, ikka, küll, veel, juba, ära, mitte</em>
 
-`Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `Abbr`.
-
-### `SYM`
-
-10 <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> tokens (30% of all `SYM` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `SYM` and `Abbr` co-occurred: <tt><a href="et_ewt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 80%).
-
-`SYM` tokens may have the following values of `Abbr`:
-
-* `Yes` (10; 100% of non-empty `Abbr`): <em>&, CO2, M1, %, M-st, S3-el, i-</em>
-* `EMPTY` (23): <em>%, :-P, S3'med</em>
-
-### `ADJ`
-
-6 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6; 100%).
-
-`ADJ` tokens may have the following values of `Abbr`:
-
-* `Yes` (6; 100% of non-empty `Abbr`): <em>nn, nn., brå</em>
-* `EMPTY` (1666): <em>hea, õige, head, vana, teatud, võimalik, huvitav, ilus, parem, 3.</em>
-
-### `CCONJ`
-
-2 <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Abbr`.
-
-`CCONJ` tokens may have the following values of `Abbr`:
-
-* `Yes` (2; 100% of non-empty `Abbr`): <em>e.</em>
-* `EMPTY` (1119): <em>ja, aga, ning, või, kuid, ehk, vaid, ega, kui, ent</em>
+`Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (21) occur only with one value of `Abbr`.
 
 ### `PROPN`
 
-2 <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+50 <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> tokens (3% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (41; 82%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (41; 82%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (2; 100% of non-empty `Abbr`): <em>MK, R.</em>
-* `EMPTY` (862): <em>Eesti, Imre, Zopp, Tallinna, Ivanov, Jürgen, sony, Eestis, Kangro, Kristuse</em>
+* `Yes` (50; 100% of non-empty `Abbr`): <em>YOU, |=X=|, Macu1, -=Px=-, B., Dr.x, a., C1, J., MK</em>
+* `EMPTY` (1543): <em>Eesti, nomad, Tallinna, gasoline, Imre, Zopp, Dedicated, Ivanov, kensey, treudenbauer</em>
+
+`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (32) occur only with one value of `Abbr`.
+
+### `SYM`
+
+11 <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> tokens (14% of all `SYM` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `SYM` and `Abbr` co-occurred: <tt><a href="et_ewt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 82%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 82%).
+
+`SYM` tokens may have the following values of `Abbr`:
+
+* `Yes` (11; 100% of non-empty `Abbr`): <em>&, CO2, M1, %, TR-23, M-st, S3-el, i-</em>
+* `EMPTY` (66): <em>%, :s, =), :), :/, :D, ;), :/., ;D, >.<</em>
+
+### `ADJ`
+
+7 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7; 100%).
+
+`ADJ` tokens may have the following values of `Abbr`:
+
+* `Yes` (7; 100% of non-empty `Abbr`): <em>nn, nn., brå</em>
+* `EMPTY` (2450): <em>hea, õige, esimene, head, lihtne, inglise, raske, võimalik, antud, huvitav</em>
 
 ### `X`
 
-1 <tt><a href="et_ewt-pos-X.html">X</a></tt> tokens (25% of all `X` tokens) have a non-empty value of `Abbr`.
+4 <tt><a href="et_ewt-pos-X.html">X</a></tt> tokens (14% of all `X` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="et_ewt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `X` tokens may have the following values of `Abbr`:
 
-* `Yes` (1; 100% of non-empty `Abbr`): <em>NB</em>
-* `EMPTY` (3): <em>My, in</em>
+* `Yes` (4; 100% of non-empty `Abbr`): <em>of, NB, ^</em>
+* `EMPTY` (25): <em>my, J, a, apology, ass, btw, by, from, giving, im</em>
+
+### `CCONJ`
+
+3 <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Abbr`.
+
+`CCONJ` tokens may have the following values of `Abbr`:
+
+* `Yes` (3; 100% of non-empty `Abbr`): <em>e., a</em>
+* `EMPTY` (1640): <em>ja, aga, või, ning, kuid, ehk, vaid, ega, kui, ent</em>
 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>NOUN --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (15; 58%),
-<tt>NOUN --[<tt><a href="et_ewt-dep-flat.html">flat</a></tt>]--> NOUN</tt> (11; 92%),
+<tt>NOUN --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (22; 56%),
+<tt>NOUN --[<tt><a href="et_ewt-dep-flat.html">flat</a></tt>]--> NOUN</tt> (11; 85%),
 <tt>NOUN --[<tt><a href="et_ewt-dep-flat.html">flat</a></tt>]--> SYM</tt> (1; 100%).
 

@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “it”: <em>it
 `PRON` occurs with 11 feature-value pairs: `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Prs`
 
 `PRON` occurs with 10 feature combinations.
-The most frequent feature combination is `Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs` (57 tokens).
-Examples: <em>yours</em>
+The most frequent feature combination is `Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs` (57 tokens).
+Examples: <em>theirs</em>
 
 
 ## Relations

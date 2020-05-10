@@ -8,126 +8,117 @@ udver: '2'
 
 This relation is universal.
 
-127 nodes (0%) are attached to their parents as `amod`.
+89 nodes (0%) are attached to their parents as `amod`.
 
-127 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.30708661417323.
+88 instances of `amod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32584269662921.
 
-The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (113; 89% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (9; 7% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (85; 96% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 13 amod	color:blue
-1	当然	当然	NOUN	NN	_	19	obl	_	SpaceAfter=No
-2	の	の	ADP	PN	_	1	case	_	SpaceAfter=No
-3	こと	こと	SCONJ	PNB	_	1	mark	_	SpaceAfter=No
-4	ながら	ながら	SCONJ	PC	_	1	mark	_	SpaceAfter=No
-5	中国	中国	PROPN	NNP	_	19	nsubj	_	SpaceAfter=No
-6	は	は	ADP	PK	_	5	case	_	SpaceAfter=No
-7	今週	今週	NOUN	NR	_	8	nmod	_	SpaceAfter=No
-8	攻撃ヘリコプター	攻撃ヘリコプター	NOUN	NN	_	10	nmod	_	SpaceAfter=No
-9	から	から	ADP	PS	_	8	case	_	SpaceAfter=No
-10	水上飛行機	水上飛行機	NOUN	NN	_	19	obl	_	SpaceAfter=No
-11	まで	まで	ADP	PA	_	10	case	_	SpaceAfter=No
-12	、	、	PUNCT	SYM	_	10	punct	_	SpaceAfter=No
-13	他の	他の	ADJ	JR	_	15	amod	_	SpaceAfter=No
-14	軍用	軍用	NOUN	NN	_	15	compound	_	SpaceAfter=No
-15	品	品	NOUN	XS	_	19	obj	_	SpaceAfter=No
-16	を	を	ADP	PS	_	15	case	_	SpaceAfter=No
-17	存分	存分	NOUN	NN	_	19	iobj	_	SpaceAfter=No
-18	に	に	ADP	PS	_	17	case	_	SpaceAfter=No
-19	展示	展示	VERB	VV	_	0	root	_	SpaceAfter=No
-20	する	する	AUX	XV	_	19	aux	_	SpaceAfter=No
-21	。	。	PUNCT	SYM	_	19	punct	_	SpaceAfter=No
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 amod	color:blue
+1	有名	有名	ADJ	形状詞-一般	_	2	amod	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=有名
+2	人	人	NOUN	接尾辞-名詞的-一般	_	4	nmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=人
+3	の	の	ADP	助詞-格助詞	_	2	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=の
+4	名前	名前	NOUN	名詞-普通名詞-一般	_	10	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=名前
+5	が	が	ADP	助詞-格助詞	_	4	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=が
+6	当初	当初	NOUN	名詞-普通名詞-副詞可能	_	10	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=当初
+7	は	は	ADP	助詞-係助詞	_	6	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UniDicLemma=は
+8	非常	非常	ADJ	形状詞-一般	_	10	advcl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=形状詞-一般|SpaceAfter=No|UniDicLemma=非常
+9	に	だ	AUX	助動詞	_	8	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+10	まれ	まれ	ADJ	形状詞-一般	_	13	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=形状詞-一般|SpaceAfter=No|UniDicLemma=稀
+11	で	だ	AUX	助動詞	_	10	aux	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+12	ある	ある	AUX	動詞-非自立可能	_	10	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=有る
+13	場合	場合	NOUN	名詞-普通名詞-副詞可能	_	19	obl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=場合
+14	、	、	PUNCT	補助記号-読点	_	13	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+15	この	この	DET	連体詞	_	16	det	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=連体詞|SpaceAfter=No|UniDicLemma=此の
+16	こと	こと	NOUN	名詞-普通名詞-一般	_	19	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=事
+17	は	は	ADP	助詞-係助詞	_	16	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UniDicLemma=は
+18	最も	最も	ADV	副詞	_	19	advmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No|UniDicLemma=最も
+19	明白	明白	ADJ	形状詞-一般	_	0	root	_	BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=形状詞-一般|SpaceAfter=No|UniDicLemma=明白
+20	で	だ	AUX	助動詞	_	19	aux	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+21	ある	ある	AUX	動詞-非自立可能	_	19	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=有る
+22	。	。	PUNCT	補助記号-句点	_	19	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No|UniDicLemma=。
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 13 amod	color:blue
-1	ウィンストン	ウィンストン	PROPN	NNP	_	21	nsubj	_	SpaceAfter=No
-2	は	は	ADP	PK	_	1	case	_	SpaceAfter=No
-3	、	、	PUNCT	SYM	_	1	punct	_	SpaceAfter=No
-4	1979	1979	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
-5	年	年	NOUN	XSC	_	10	nmod	_	SpaceAfter=No
-6	に	に	ADP	PS	_	5	case	_	SpaceAfter=No
-7	「	「	PUNCT	SYM	_	8	punct	_	SpaceAfter=No
-8	灼熱	灼熱	NOUN	NN	_	10	nmod	_	SpaceAfter=No
-9	の	の	ADP	PN	_	8	case	_	SpaceAfter=No
-10	肌	肌	NOUN	NN	_	14	nmod	_	SpaceAfter=No
-11	」	」	PUNCT	SYM	_	10	punct	_	SpaceAfter=No
-12	を	を	ADP	PS	_	10	case	_	SpaceAfter=No
-13	撮影	撮影	VERB	VV	_	14	amod	_	SpaceAfter=No
-14	中	中	NOUN	XS	_	21	obl	_	SpaceAfter=No
-15	、	、	PUNCT	SYM	_	14	punct	_	SpaceAfter=No
-16	妻	妻	NOUN	NN	_	18	obl	_	SpaceAfter=No
-17	と	と	ADP	PS	_	16	case	_	SpaceAfter=No
-18	なる	なる	VERB	VV	_	19	acl	_	SpaceAfter=No
-19	イレイン	イレイン	PROPN	NNP	_	21	iobj	_	SpaceAfter=No
-20	に	に	ADP	PS	_	19	case	_	SpaceAfter=No
-21	出会っ	出会う	VERB	VV	_	0	root	_	SpaceAfter=No
-22	た	た	AUX	AV	_	21	aux	_	SpaceAfter=No
-23	。	。	PUNCT	SYM	_	21	punct	_	SpaceAfter=No
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 amod	color:blue
+1	結局	結局	ADV	名詞-普通名詞-副詞可能	_	14	advmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No|UniDicLemma=結局
+2	、	、	PUNCT	補助記号-読点	_	1	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+3	インターネット	インターネット	NOUN	名詞-普通名詞-一般	_	14	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=インターネット
+4	は	は	ADP	助詞-係助詞	_	3	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UniDicLemma=は
+5	ぜいたく	ぜいたく	NOUN	名詞-普通名詞-サ変形状詞可能	_	6	compound	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=贅沢
+6	品	品	NOUN	接尾辞-名詞的-一般	_	12	advcl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=品
+7	で	だ	AUX	助動詞	_	6	cop	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+8	は	は	ADP	助詞-係助詞	_	6	case	_	BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=は
+9	なく	ない	AUX	形容詞-非自立可能	_	6	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=無い
+10	、	、	PUNCT	補助記号-読点	_	6	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+11	必要	必要	ADJ	名詞-普通名詞-形状詞可能	_	12	amod	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=形状詞-一般|SpaceAfter=No|UniDicLemma=必要
+12	不可欠	不可欠	ADJ	形状詞-一般	_	14	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=形状詞-一般|SpaceAfter=No|UniDicLemma=不可欠
+13	な	だ	AUX	助動詞	_	12	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+14	ツール	ツール	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=ツール
+15	で	だ	AUX	助動詞	_	14	cop	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+16	ある	ある	AUX	動詞-非自立可能	_	14	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=有る
+17	。	。	PUNCT	補助記号-句点	_	14	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No|UniDicLemma=。
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 31	bgColor:blue
-# visual-style 31	fgColor:white
-# visual-style 31 18 amod	color:blue
-1	この	この	DET	JR	_	2	det	_	SpaceAfter=No
-2	種	種	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
-3	は	は	ADP	PK	_	2	case	_	SpaceAfter=No
-4	腰痛	腰痛	NOUN	NN	_	6	iobj	_	SpaceAfter=No
-5	に	に	ADP	PS	_	4	case	_	SpaceAfter=No
-6	効く	効く	VERB	VV	_	11	advcl	_	SpaceAfter=No
-7	し	し	SCONJ	PC	_	6	mark	_	SpaceAfter=No
-8	、	、	PUNCT	SYM	_	6	punct	_	SpaceAfter=No
-9	吐き気	吐き気	NOUN	NN	_	11	iobj	_	SpaceAfter=No
-10	に	に	ADP	PS	_	9	case	_	SpaceAfter=No
-11	効く	効く	VERB	VV	_	18	advcl	_	SpaceAfter=No
-12	し	し	SCONJ	PC	_	11	mark	_	SpaceAfter=No
-13	、	、	PUNCT	SYM	_	11	punct	_	SpaceAfter=No
-14	本	本	NOUN	XP	_	15	compound	_	SpaceAfter=No
-15	製品	製品	NOUN	NN	_	18	nmod	_	SpaceAfter=No
-16	で	で	ADP	PS	_	15	case	_	SpaceAfter=No
-17	夜	夜	NOUN	NN	_	18	nmod	_	SpaceAfter=No
-18	眠れる	眠れる	ADJ	JR	_	31	amod	_	SpaceAfter=No
-19	ように	ようだ	AUX	AV	_	18	aux	_	SpaceAfter=No
-20	なる	なる	AUX	AV	_	18	aux	_	SpaceAfter=No
-21	、と	と	ADP	PQ	_	18	case	_	SpaceAfter=No
-22	大麻	大麻	NOUN	NN	_	23	compound	_	SpaceAfter=No
-23	販売	販売	NOUN	NN	_	25	nsubj	_	SpaceAfter=No
-24	が	が	ADP	PS	_	23	case	_	SpaceAfter=No
-25	合法	合法	ADJ	JN	_	29	acl	_	SpaceAfter=No
-26	で	だ	AUX	XV	_	25	aux	_	SpaceAfter=No
-27	ある	ある	AUX	XA	_	25	fixed	_	SpaceAfter=No
-28	コロラド州	コロラド州	PROPN	NNP	_	29	compound	_	SpaceAfter=No
-29	デンバー	デンバー	PROPN	NNP	_	31	iobj	_	SpaceAfter=No
-30	に	に	ADP	PS	_	29	case	_	SpaceAfter=No
-31	ある	ある	VERB	VV	_	33	acl	_	SpaceAfter=No
-32	企業	企業	NOUN	NN	_	33	compound	_	SpaceAfter=No
-33	本社	本社	NOUN	NN	_	35	obl	_	SpaceAfter=No
-34	から	から	ADP	PS	_	33	case	_	SpaceAfter=No
-35	来	来る	VERB	VV	_	37	acl	_	SpaceAfter=No
-36	た	た	AUX	AV	_	35	aux	_	SpaceAfter=No
-37	ディートリッヒ	ディートリッヒ	PROPN	NNP	_	39	nsubj	_	SpaceAfter=No
-38	は	は	ADP	PK	_	37	case	_	SpaceAfter=No
-39	述べ	述べる	VERB	VV	_	0	root	_	SpaceAfter=No
-40	て	て	SCONJ	PC	_	39	mark	_	SpaceAfter=No
-41	いる	いる	AUX	AV	_	39	aux	_	SpaceAfter=No
-42	。	。	PUNCT	SYM	_	39	punct	_	SpaceAfter=No
+# visual-style 32	bgColor:blue
+# visual-style 32	fgColor:white
+# visual-style 33	bgColor:blue
+# visual-style 33	fgColor:white
+# visual-style 33 32 amod	color:blue
+1	17	17	NUM	名詞-数詞	_	3	nummod	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=一七
+2	日	日	NOUN	名詞-普通名詞-助数詞可能	_	3	compound	_	BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=日
+3	後	後	NOUN	接尾辞-名詞的-副詞可能	_	17	obl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=後
+4	に	に	ADP	助詞-格助詞	_	3	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=に
+5	地球	地球	NOUN	名詞-普通名詞-一般	_	7	nmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=地球
+6	の	の	ADP	助詞-格助詞	_	5	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=の
+7	種	種	NOUN	名詞-普通名詞-一般	_	9	obl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=種
+8	から	から	ADP	助詞-格助詞	_	7	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=から
+9	育て	育てる	VERB	動詞-一般	_	11	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=育てる
+10	た	た	AUX	助動詞	_	9	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=た
+11	植物	植物	NOUN	名詞-普通名詞-一般	_	17	dislocated	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=植物
+12	は	は	ADP	助詞-係助詞	_	11	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UniDicLemma=は
+13	70	70	NUM	名詞-数詞	_	15	nummod	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=七十
+14	％	％	NOUN	名詞-普通名詞-助数詞可能	_	15	compound	_	BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=パーセント
+15	以上	以上	NOUN	名詞-普通名詞-副詞可能	_	17	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=以上
+16	が	が	ADP	助詞-格助詞	_	15	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=が
+17	成長	成長	VERB	名詞-普通名詞-サ変可能	_	35	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=成長
+18	し	する	AUX	動詞-非自立可能	_	17	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=為る
+19	、	、	PUNCT	補助記号-読点	_	17	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+20	宇宙	宇宙	NOUN	名詞-普通名詞-一般	_	22	nmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=宇宙
+21	の	の	ADP	助詞-格助詞	_	20	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=の
+22	種	種	NOUN	名詞-普通名詞-一般	_	24	obl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=種
+23	から	から	ADP	助詞-格助詞	_	22	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=から
+24	育て	育てる	VERB	動詞-一般	_	26	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=育てる
+25	た	た	AUX	助動詞	_	24	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=た
+26	植物	植物	NOUN	名詞-普通名詞-一般	_	30	nmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=植物
+27	の	の	ADP	助詞-格助詞	_	26	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=の
+28	66	66	NUM	名詞-数詞	_	30	nummod	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=六六
+29	％	％	NOUN	名詞-普通名詞-助数詞可能	_	30	compound	_	BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=パーセント
+30	以上	以上	NOUN	名詞-普通名詞-副詞可能	_	34	obl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=以上
+31	より	より	ADP	助詞-格助詞	_	30	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=より
+32	ほんの	ほんの	ADJ	連体詞	_	33	amod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=連体詞|SpaceAfter=No|UniDicLemma=本の
+33	少し	少し	ADV	副詞	_	34	advmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No|UniDicLemma=少し
+34	多い	多い	ADJ	形容詞-一般	_	35	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=形容詞-一般|SpaceAfter=No|UniDicLemma=多い
+35	率	率	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=率
+36	だっ	だ	AUX	助動詞	_	35	cop	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+37	た	た	AUX	助動詞	_	35	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=た
+38	。	。	PUNCT	補助記号-句点	_	35	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No|UniDicLemma=。
 
 ~~~
 

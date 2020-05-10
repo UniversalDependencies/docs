@@ -8,43 +8,25 @@ udver: '2'
 
 This relation is universal.
 
-112 nodes (0%) are attached to their parents as `discourse`.
+254 nodes (1%) are attached to their parents as `discourse`.
 
-73 instances of `discourse` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.55357142857143.
+163 instances of `discourse` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.2755905511811.
 
-The following 14 pairs of parts of speech are connected with `discourse`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (61; 54% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (10; 9% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (9; 8% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (8; 7% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (5; 4% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (5; 4% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (4; 4% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 26 pairs of parts of speech are connected with `discourse`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (126; 50% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (23; 9% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (18; 7% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (18; 7% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (13; 5% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (13; 5% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (7; 3% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (6; 2% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (5; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 discourse	color:blue
-1	20	20	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	2	nummod	2:nummod	_
-2	%	%	NOUN	Y	Abbr=Yes	8	parataxis	8:parataxis	_
-3	...	...	PUNCT	Z	_	8	punct	8:punct	_
-4	ja	ja	CCONJ	J	_	8	cc	8:cc	_
-5	no	no	INTJ	B	_	8	discourse	8:discourse	_
-6	ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
-7	ei	ei	AUX	V	Polarity=Neg	8	aux	8:aux	_
-8	tea	teadma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-9	?	?	PUNCT	Z	_	8	punct	8:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 4 discourse	color:blue
-1	Äkki	äkki	ADV	D	_	2	advmod	2:advmod	_
-2	puberteet	puberteet	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	SpaceAfter=No
-3	?	?	PUNCT	Z	_	2	punct	2:punct	_
-4	:d	:d	INTJ	Z	_	2	discourse	2:discourse	_
+# visual-style 2 5 discourse	color:blue
+1	Kõik	kõik	PRON	P	Case=Nom|Number=Sing|PronType=Tot	2	nsubj	2:nsubj	_
+2	oleneb	olenema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	kindlasti	kindlasti	ADV	D	_	2	advmod	2:advmod	_
+4	kasvatusest	kasvatus	NOUN	S	Case=Ela|Number=Sing	2	obl	2:obl	_
+5	:)	:)	INTJ	E	_	2	discourse	2:discourse	_
 
 ~~~
 
@@ -52,19 +34,39 @@ The following 14 pairs of parts of speech are connected with `discourse`: <tt><a
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 discourse	color:blue
-1	Tere	tere	INTJ	B	_	2	discourse	2:discourse	_
-2	ise	ise	PRON	P	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	0	root	0:root	_
-3	kah	kah	ADV	D	_	2	advmod	2:advmod	SpaceAfter=No
-4	,	,	PUNCT	Z	_	7	punct	7:punct	_
-5	aga	aga	CCONJ	J	_	7	cc	7:cc	_
-6	kus	kus	ADV	D	_	7	mark	7:mark	_
-7	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	2:conj	_
-8	lubatud	lubatud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	9:acl	_
-9	e-teenindus	e-teenindus	NOUN	S	Case=Nom|Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
-10	?	?	PUNCT	Z	_	2	punct	2:punct	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 discourse	color:blue
+1	nojah	no_jah	INTJ	I	_	3	discourse	3:discourse	SpaceAfter=No
+2	,	,	PUNCT	Z	_	3	punct	3:punct	_
+3	surve	surve	NOUN	S	Case=Gen|Number=Sing	0	root	0:root	_
+4	all	all	ADP	K	AdpType=Post	3	case	3:case	_
+5	ehk	ehk	ADV	D	_	7	advmod	7:advmod	_
+6	veel	veel	ADV	D	_	7	advmod	7:advmod	_
+7	küll	küll	ADV	D	_	3	advmod	3:advmod	SpaceAfter=No
+8	,	,	PUNCT	Z	_	9	punct	9:punct	_
+9	mõju	mõju	NOUN	S	Case=Gen|Number=Sing	3	conj	3:conj	_
+10	all	all	ADP	K	AdpType=Post	9	case	9:case	_
+11	aga	aga	ADV	D	_	13	advmod	13:advmod	_
+12	ei	ei	ADV	D	_	13	advmod	13:advmod	_
+13	enam	enam	ADV	D	_	9	advmod	9:advmod	_
+14	..	..	PUNCT	Z	_	3	punct	3:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 discourse	color:blue
+1	Dedicated	Dedicated	PROPN	S	Case=Nom|Number=Plur	3	parataxis	3:parataxis	SpaceAfter=No
+2	:	:	PUNCT	Z	_	1	punct	1:punct	_
+3	Mina	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	Z	_	5	punct	5:punct	_
+5	kurat	kurat	INTJ	I	_	3	discourse	3:discourse	SpaceAfter=No
+6	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
 

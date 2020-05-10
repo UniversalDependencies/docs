@@ -69,7 +69,7 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 `NOUN` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): <em>brits</em>
-* `EMPTY` (15969): <em>sätt, år, far, fält, gång, man, data, sidan, del, mor</em>
+* `EMPTY` (15964): <em>sätt, år, far, fält, gång, man, sidan, del, data, mor</em>
 
 ## Relations with Agreement in `Voice`
 

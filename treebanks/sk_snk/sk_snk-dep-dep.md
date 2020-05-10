@@ -32,7 +32,7 @@ The following 81 pairs of parts of speech are connected with `dep`: <tt><a href=
 8	a	a	CCONJ	O	_	9	cc	9:cc	_
 9	vzdá	vzdať	VERB	VKdsc+	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	conj	0:root|3:conj	_
 10	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	9	expl:pv	9:expl:pv	_
-11	štúdia	štúdium	NOUN	SSns2	Case=Gen|Gender=Neut|Number=Sing	9	obj	9:obj	SpaceAfter=No
+11	štúdia	štúdium	NOUN	SSns2	Case=Gen|Gender=Neut|Number=Sing	9	obl:arg	9:obl:arg:gen	SpaceAfter=No
 12	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
@@ -72,7 +72,7 @@ The following 81 pairs of parts of speech are connected with `dep`: <tt><a href=
 5	som	byť	AUX	VKesa+	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 6	a	a	CCONJ	O	_	7	cc	7:cc	_
 7	pokrčila	pokrčiť	VERB	VLdsaf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	4	conj	0:root|4:conj	_
-8	plecami	plece	NOUN	SSnp7	Case=Ins|Gender=Neut|Number=Plur	7	obj	7:obj	SpaceAfter=No
+8	plecami	plece	NOUN	SSnp7	Case=Ins|Gender=Neut|Number=Plur	7	obl:arg	7:obl:arg:ins	SpaceAfter=No
 9	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 ~~~

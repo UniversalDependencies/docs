@@ -40,7 +40,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 16	jag	jag	PRON	PERS-P1SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	17	nsubj	_	_
 17	vet	veta	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	24	parataxis	_	_
 18	inte	inte	PART	NEG	_	17	advmod	_	_
-19	hur	hur	ADV	WH	_	22	advmod	_	_
+19	hur	hur	ADV	WH	PronType=Int	22	advmod	_	_
 20	jag	jag	PRON	PERS-P1SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	22	nsubj	_	_
 21	ska	skola	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	22	aux	_	_
 22	säga	säga	VERB	INF-ACT	VerbForm=Inf|Voice=Act	17	ccomp	_	_
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 1	Ni	ni	PRON	PERS-P2PL-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	nsubj	_	_
 2	anar	ana	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	inte	inte	PART	NEG	_	2	advmod	_	_
-4	hur	hur	ADV	WH	_	5	advmod	_	_
+4	hur	hur	ADV	WH	PronType=Int	5	advmod	_	_
 5	effektiv	effektiv	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	ccomp	_	_
 6	en	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	7	det	_	_
 7	sån	sådan	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	10	reparandum	_	SpaceAfter=No

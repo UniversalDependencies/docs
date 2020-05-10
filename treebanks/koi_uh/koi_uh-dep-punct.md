@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-88 nodes (22%) are attached to their parents as `punct`.
+153 nodes (22%) are attached to their parents as `punct`.
 
-60 instances of `punct` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.875.
+88 instances of `punct` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.90849673202614.
 
-The following 6 pairs of parts of speech are connected with `punct`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (58; 66% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (10; 11% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (9; 10% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (6; 7% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (3; 3% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (2; 2% instances).
+The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (96; 63% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (20; 13% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (12; 8% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (10; 7% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (7; 5% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (6; 4% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -50,16 +50,17 @@ The following 6 pairs of parts of speech are connected with `punct`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 punct	color:blue
-1	Сэм	Сэм	PROPN	_	Animacy=Hum|Case=Nom|Number=Sing	3	vocative	_	GTtags=Prop,Sg,Nom|SpaceAfter=No
-2	,	,	PUNCT	CLB	_	1	punct	_	_
-3	осьт	осьтны	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	GTtags=Imprt,Sg2
-4	ӧшынсӧ	ӧшын	NOUN	_	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc|SpaceAfter=No
-5	!	!	PUNCT	CLB	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 punct	color:blue
+1	Менам	ме	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	GTtags=Pers,Sg1,Gen
+2	айӧ	ай	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	GTtags=Sg,Nom,PxSg1
+3	буржык	бур	ADJ	_	Degree=Cmp	0	root	_	GTtags=Der/жык,Comp
+4	тэ	тэ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nmod	_	GTtags=Pers,Sg2,Nom
+5	айся	ай	NOUN	_	Case=Comp|Number=Sing	3	advcl	_	GTtags=Sg,Cmpr|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

@@ -11,9 +11,9 @@ This relation is universal.
 11138 nodes (7%) are attached to their parents as `root`.
 
 11138 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.17857784162327.
+Average distance between parent and child is 5.17768001436524.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (8989; 81% instances), -<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (1069; 10% instances), -<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (404; 4% instances), -<tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (236; 2% instances), -<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (208; 2% instances), -<tt><a href="bg_btb-pos-DET.html">DET</a></tt> (69; 1% instances), -<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (64; 1% instances), -<tt><a href="bg_btb-pos-PART.html">PART</a></tt> (52; 0% instances), -<tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt> (26; 0% instances), -<tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (17; 0% instances), -<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (8785; 79% instances), -<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (1070; 10% instances), -<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (404; 4% instances), -<tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (236; 2% instances), -<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (208; 2% instances), -<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (204; 2% instances), -<tt><a href="bg_btb-pos-PART.html">PART</a></tt> (73; 1% instances), -<tt><a href="bg_btb-pos-DET.html">DET</a></tt> (68; 1% instances), -<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (64; 1% instances), -<tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (17; 0% instances), -<tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), -<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

@@ -21,7 +21,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ar_padt-pos-X.html"
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (5097; 100% of non-empty `Foreign`): واشنطن، سوريا، شارون، السارس، أفريقيا، روسيا، فرنسا، باول، تركيا، بوش
-* `EMPTY` (12092): ب، محمد، اف، عبد، مبارك، الله، ذلك، علي، عرفات، الذي
+* `EMPTY` (12071): ب، محمد، اف، عبد، مبارك، الله، ذلك، علي، عرفات، الذي
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (850) occur only with one value of `Foreign`.
 

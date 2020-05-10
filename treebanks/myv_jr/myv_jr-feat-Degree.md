@@ -9,30 +9,30 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Cmp`, `Sup`.
 
-67 tokens (0%) have a non-empty value of `Degree`.
+71 tokens (0%) have a non-empty value of `Degree`.
 10 types (0%) occur at least once with a non-empty value of `Degree`.
 5 lemmas (0%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (59; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (8; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (62; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (9; 0% instances).
 
 ### `ADV`
 
-59 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Degree`.
+62 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (56; 95%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (59; 95%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (54; 92% of non-empty `Degree`): <em>седе, седеяк</em>
-* `Sup` (5; 8% of non-empty `Degree`): <em>сех, Весемеде, сехте</em>
-* `EMPTY` (1298): <em>ансяк, кода, пек, истя, уш, ней, мейле, прок, яла, эщо</em>
+* `Cmp` (56; 90% of non-empty `Degree`): <em>седе, седеяк</em>
+* `Sup` (6; 10% of non-empty `Degree`): <em>весемеде, сех, сехте</em>
+* `EMPTY` (1350): <em>ансяк, кода, пек, истя, уш, мейле, ней, прок, яла, эщо</em>
 
 ### `PART`
 
-8 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (7% of all `PART` tokens) have a non-empty value of `Degree`.
+9 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (8% of all `PART` tokens) have a non-empty value of `Degree`.
 
 `PART` tokens may have the following values of `Degree`:
 
-* `Cmp` (2; 25% of non-empty `Degree`): <em>седе, седеяк</em>
-* `Sup` (6; 75% of non-empty `Degree`): <em>весемеде, сехте</em>
-* `EMPTY` (108): <em>жо, бути, прок, вана, эно, буто, паряк, ялатеке, Бульчом, Ведь</em>
+* `Cmp` (3; 33% of non-empty `Degree`): <em>седе, седеяк</em>
+* `Sup` (6; 67% of non-empty `Degree`): <em>весемеде, сехте</em>
+* `EMPTY` (104): <em>жо, бути, прок, вана, эно, буто, ялатеке, Бульчом, Ведь, Каня</em>
 

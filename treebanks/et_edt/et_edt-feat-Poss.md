@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (1593; 100% of non-empty `Poss`): <em>oma, omal, omad, omaks, omast, omaenda, omaga, omalt, omas, omadega</em>
-* `EMPTY` (21424): <em>ta, see, mis, ma, kes, seda, tema, mida, nad, nende</em>
+* `EMPTY` (21425): <em>ta, see, mis, ma, kes, seda, tema, mida, nad, nende</em>
 
 ### `NOUN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Poss` co-occurred:
 `NOUN` tokens may have the following values of `Poss`:
 
 * `Yes` (4; 100% of non-empty `Poss`): <em>oma</em>
-* `EMPTY` (115600): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `EMPTY` (115599): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 ### `ADJ`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): <em>oma</em>
-* `EMPTY` (36772): <em>suur, võimalik, hea, eesti, suurem, uue, suure, raske, oluline, esimene</em>
+* `EMPTY` (36779): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, esimene</em>
 
 ### `ADV`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADV` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): <em>oma</em>
-* `EMPTY` (42046): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
+* `EMPTY` (42042): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
 
 ### `DET`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): <em>Oma</em>
-* `EMPTY` (6895): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, ühe</em>
+* `EMPTY` (6888): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, ühe</em>
 
 ## Relations with Agreement in `Poss`
 

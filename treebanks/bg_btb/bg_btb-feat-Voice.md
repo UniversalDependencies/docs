@@ -12,19 +12,19 @@ It occurs with 2 different values: `Act`, `Pass`.
 22666 tokens (15%) have a non-empty value of `Voice`.
 7792 types (30%) occur at least once with a non-empty value of `Voice`.
 2932 lemmas (20%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 3 part-of-speech tags: <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (16904; 11% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (4276; 3% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (1486; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (16580; 11% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (4600; 3% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (1486; 1% instances).
 
 ### `VERB`
 
-16904 <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Voice`.
+16580 <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15068; 89%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14240; 84%), <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (14224; 84%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14224; 84%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11817; 70%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=3</tt> (11770; 70%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9800; 58%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (8867; 52%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14758; 89%), <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (13916; 84%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13916; 84%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13916; 84%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11553; 70%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=3</tt> (11480; 69%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9528; 57%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (8576; 52%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (15819; 94% of non-empty `Voice`): <em>има, няма, може, трябва, е, каза, могат, съобщи, заяви, стана</em>
-* `Pass` (1085; 6% of non-empty `Voice`): <em>направено, избран, изправени, обвинен, открити, показани, представена, приета, избрана, изнесени</em>
-* `EMPTY` (281): <em>би, виж, кажи, вземи, опитай, Излез, Прочети, вж., върни, дай</em>
+* `Act` (15495; 93% of non-empty `Voice`): <em>има, няма, може, трябва, каза, могат, съобщи, заяви, стана, имат</em>
+* `Pass` (1085; 7% of non-empty `Voice`): <em>направено, избран, изправени, обвинен, открити, показани, представена, приета, избрана, изнесени</em>
+* `EMPTY` (248): <em>виж, кажи, вземи, опитай, Излез, Прочети, вж., върни, дай, дайте</em>
 
 <table>
   <tr><th>Paradigm <i>кажа</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -47,14 +47,14 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-4276 <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> tokens (49% of all `AUX` tokens) have a non-empty value of `Voice`.
+4600 <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4276; 100%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4046; 95%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3923; 92%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=3</tt> (3676; 86%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3407; 80%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3043; 71%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4600; 100%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4354; 95%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4214; 92%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=3</tt> (3966; 86%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3679; 80%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3307; 72%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (4276; 100% of non-empty `Voice`): <em>е, са, бе, бъде, беше, бяха, съм, бъдат, сме, бил</em>
-* `EMPTY` (4501): <em>да, ще, би, бих, биха, е, бихте, са, бихме, бъдат</em>
+* `Act` (4600; 100% of non-empty `Voice`): <em>е, са, бе, бъде, беше, бяха, съм, бъдат, сме, бил</em>
+* `EMPTY` (4534): <em>да, ще, би, бих, биха, е, бихте, са, бихме, бъдат</em>
 
 ### `ADJ`
 
@@ -84,14 +84,14 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="bg_btb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1699; 91%),
-<tt>VERB --[<tt><a href="bg_btb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1481; 92%),
-<tt>VERB --[<tt><a href="bg_btb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1164; 88%),
-<tt>VERB --[<tt><a href="bg_btb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (630; 94%),
-<tt>VERB --[<tt><a href="bg_btb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (305; 85%),
-<tt>VERB --[<tt><a href="bg_btb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (156; 91%),
-<tt>VERB --[<tt><a href="bg_btb-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (48; 71%),
-<tt>VERB --[<tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (2; 100%),
-<tt>AUX --[<tt><a href="bg_btb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="bg_btb-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="bg_btb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1569; 90%),
+<tt>VERB --[<tt><a href="bg_btb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1460; 92%),
+<tt>VERB --[<tt><a href="bg_btb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1136; 88%),
+<tt>VERB --[<tt><a href="bg_btb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (628; 94%),
+<tt>VERB --[<tt><a href="bg_btb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (299; 85%),
+<tt>VERB --[<tt><a href="bg_btb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (137; 90%),
+<tt>AUX --[<tt><a href="bg_btb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (108; 97%),
+<tt>VERB --[<tt><a href="bg_btb-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (47; 70%),
+<tt>VERB --[<tt><a href="bg_btb-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (22; 100%),
+<tt>AUX --[<tt><a href="bg_btb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (19; 95%).
 

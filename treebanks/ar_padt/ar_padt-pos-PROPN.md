@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Arabic-PADT: POS Tags: `PROPN`
 
 There are 70 `PROPN` lemmas (0%), 74 `PROPN` types (0%) and 245 `PROPN` tokens (0%).
-Out of 16 observed tags, the rank of `PROPN` is: 6 in number of lemmas, 8 in number of types and 15 in number of tokens.
+Out of 17 observed tags, the rank of `PROPN` is: 6 in number of lemmas, 8 in number of types and 16 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: بِن، عَبداَللّٰه، عَبداَلعَزِيز، طٰهٰ، بُورسَعِيد، أَبُو، عَبداَلمُنعِم، نَرُوج، أَبُوظَبِي، أَبُورُدَينَة
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  بن (<tt><a href="ar_padt-pos-PROPN.html
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.057143 (the average of all parts of speech is 1.762014).
+The form / lemma ratio of `PROPN` is 1.057143 (the average of all parts of speech is 1.761966).
 
 The 1st highest number of forms (3) was observed with the lemma “أَبُوظَبِي”: أبوظبي, ابوظبى, ابوظبي.
 
@@ -87,7 +87,7 @@ Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="ar_
 
 The highest child degree of a `PROPN` node is 5.
 
-Children of `PROPN` nodes are attached using 10 different relations: <tt><a href="ar_padt-dep-nmod.html">nmod</a></tt> (173; 70% instances), <tt><a href="ar_padt-dep-cc.html">cc</a></tt> (31; 13% instances), <tt><a href="ar_padt-dep-case.html">case</a></tt> (21; 8% instances), <tt><a href="ar_padt-dep-punct.html">punct</a></tt> (8; 3% instances), <tt><a href="ar_padt-dep-acl.html">acl</a></tt> (4; 2% instances), <tt><a href="ar_padt-dep-amod.html">amod</a></tt> (4; 2% instances), <tt><a href="ar_padt-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="ar_padt-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="ar_padt-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="ar_padt-dep-nummod.html">nummod</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 11 different relations: <tt><a href="ar_padt-dep-nmod.html">nmod</a></tt> (173; 70% instances), <tt><a href="ar_padt-dep-cc.html">cc</a></tt> (31; 13% instances), <tt><a href="ar_padt-dep-case.html">case</a></tt> (21; 8% instances), <tt><a href="ar_padt-dep-punct.html">punct</a></tt> (8; 3% instances), <tt><a href="ar_padt-dep-amod.html">amod</a></tt> (4; 2% instances), <tt><a href="ar_padt-dep-acl.html">acl</a></tt> (3; 1% instances), <tt><a href="ar_padt-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="ar_padt-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="ar_padt-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="ar_padt-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="ar_padt-dep-nummod.html">nummod</a></tt> (1; 0% instances)
 
 Children of `PROPN` nodes belong to 9 different parts of speech: <tt><a href="ar_padt-pos-X.html">X</a></tt> (138; 56% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (29; 12% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (23; 9% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (22; 9% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (17; 7% instances), <tt><a href="ar_padt-pos-PUNCT.html">PUNCT</a></tt> (8; 3% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (2; 1% instances)
 

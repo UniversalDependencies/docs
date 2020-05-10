@@ -28,5 +28,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 ## Relations with Agreement in `Reflex`
 
 The 10 most frequent relations where parent and child node agree in `Reflex`:
-<tt>PRON --[<tt><a href="tr_pud-dep-compound.html">compound</a></tt>]--> PRON</tt> (2; 100%).
+<tt>PRON --[<tt><a href="tr_pud-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (2; 100%).
 

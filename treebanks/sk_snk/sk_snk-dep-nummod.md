@@ -26,11 +26,11 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 2	od	od	ADP	Eu2	AdpType=Prep|Case=Gen	5	case	5:case	_
 3	6	6	NUM	0	NumForm=Digit	5	nummod	5:nummod	SpaceAfter=No
 4	.	.	PUNCT	Z	_	3	punct	3:punct	_
-5	storočia	storočie	NOUN	SSns2	Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod	_
+5	storočia	storočie	NOUN	SSns2	Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod:od:gen	_
 6	do	do	ADP	Eu2	AdpType=Prep|Case=Gen	9	case	9:case	_
 7	7	7	NUM	0	NumForm=Digit	9	nummod	9:nummod	SpaceAfter=No
 8	.	.	PUNCT	Z	_	7	punct	7:punct	_
-9	storočia	storočie	NOUN	SSns2	Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod	_
+9	storočia	storočie	NOUN	SSns2	Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod:do:gen	_
 
 ~~~
 
@@ -42,16 +42,16 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 2	fgColor:white
 # visual-style 2 3 nummod	color:blue
 1	Nástup	nástup	NOUN	SSis1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-2	Mahmúda	mahmúd	PROPN	SSms2:r	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod	_
+2	Mahmúda	mahmúd	PROPN	SSms2:r	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod:gen	_
 3	II	ii	NUM	0	NumForm=Digit	2	nummod	2:nummod	SpaceAfter=No
 4	.	.	PUNCT	Z	_	3	punct	3:punct	_
 5	na	na	ADP	Eu4	AdpType=Prep|Case=Acc	6	case	6:case	_
-6	trón	trón	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	nmod	1:nmod	_
+6	trón	trón	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	nmod	1:nmod:na:acc	_
 7	a	a	CCONJ	O	_	9	cc	9:cc	_
 8	prvé	prvý	ADJ	NAip1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord	9	amod	9:amod	_
 9	pokusy	pokus	NOUN	SSip1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	conj	0:root|1:conj	_
 10	o	o	ADP	Eu4	AdpType=Prep|Case=Acc	11	case	11:case	_
-11	reformu	reforma	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	9	nmod	9:nmod	_
+11	reformu	reforma	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	9	nmod	9:nmod:o:acc	_
 
 ~~~
 

@@ -8,66 +8,113 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `goeswith`.
+6 nodes (0%) are attached to their parents as `goeswith`.
 
-1 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+6 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-X.html">X</a></tt> (1; 100% instances).
+The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-X.html">X</a></tt> (3; 50% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-X.html">X</a></tt> (2; 33% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-X.html">X</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
-# visual-style 43	bgColor:blue
-# visual-style 43	fgColor:white
-# visual-style 42	bgColor:blue
-# visual-style 42	fgColor:white
-# visual-style 42 43 goeswith	color:blue
-1	Ẹni	ẹni	PRON	_	PronType=Ind	7	nsubj	_	Gloss=someone|Ref=JOHN_11.44
-2	tí	tí	PRON	_	PronType=Rel	4	nsubj	_	Gloss=that|Ref=JOHN_11.44
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	expl	_	Gloss=has|Ref=JOHN_11.44
-4	kú	kú	VERB	_	_	1	acl	_	Gloss=die|Ref=JOHN_11.44
-5	náà	náà	ADV	_	_	4	advmod	_	Gloss=that|Ref=JOHN_11.44
-6	sì	sì	CCONJ	_	_	7	cc	_	Gloss=then|Ref=JOHN_11.44
-7	jáde	jáde	VERB	_	_	0	root	_	Gloss=out|Ref=JOHN_11.44
-8	wá	wá	VERB	_	_	7	compound:svc	_	Gloss=come|Ref=JOHN_11.44|SpaceAfter=No
-9	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=JOHN_11.44
-10	tí	tí	PRON	_	PronType=Rel	12	obl	_	Gloss=that|Ref=JOHN_11.44
-11	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	Gloss=we|Ref=JOHN_11.44
-12	fi	fi	VERB	_	_	4	conj	_	Gloss=used|Ref=JOHN_11.44
-13	aṣọ	aṣọ	NOUN	_	_	12	obj	_	Gloss=garments|Ref=JOHN_11.44
-14	òkú	òkú	NOUN	_	_	13	nmod	_	Gloss=dead|Ref=JOHN_11.44
-15	dì	dì	VERB	_	_	12	compound:svc	_	Gloss=wrap|Ref=JOHN_11.44
-16	tọwọ́	tọwọ́	NOUN	_	_	15	obj	_	Gloss=hands|Ref=JOHN_11.44
-17	tẹsẹ̀	tẹsẹ̀	NOUN	_	_	16	conj	_	Gloss=legs|Ref=JOHN_11.44
-18	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	20	nsubj	_	Gloss=we|Ref=JOHN_11.44
-19	sì	sì	CCONJ	_	_	20	cc	_	Gloss=have|Ref=JOHN_11.44
-20	fi	fi	VERB	_	_	12	conj	_	Gloss=with|Ref=JOHN_11.44
-21	gèlè	gèlè	NOUN	_	_	20	obj	_	Gloss=mitre|Ref=JOHN_11.44
-22	dì	dì	VERB	_	_	20	compound:svc	_	Gloss=wrap|Ref=JOHN_11.44
-23	í	í	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	22	obj	_	Gloss=his|Ref=JOHN_11.44
-24	lójú	lójú	NOUN	_	_	22	obl	_	Gloss=sight|Ref=JOHN_11.44|SpaceAfter=No
-25	.	.	PUNCT	_	_	7	punct	_	Gloss=.|Ref=JOHN_11.44
-26	Jésù	jésù	PROPN	_	_	27	nsubj	_	Gloss=jesus|Ref=JOHN_11.44
-27	wí	wí	VERB	_	_	7	parataxis	_	Gloss=said|Ref=JOHN_11.44
-28	fún	fún	ADP	_	_	29	case	_	Gloss=unto|Ref=JOHN_11.44
-29	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	27	obl	_	Gloss=them|Ref=JOHN_11.44
-30	pé	pé	SCONJ	_	_	34	mark	_	Gloss=that|Ref=JOHN_11.44|SpaceAfter=No
-31	,	,	PUNCT	_	_	34	punct	_	Gloss=,|Ref=JOHN_11.44
-32	“	“	PUNCT	_	_	34	punct	_	Gloss=“|Ref=JOHN_11.44|SpaceAfter=No
-33	Ẹ	Ẹ	PRON	_	_	34	nsubj	_	Gloss=ye|Ref=JOHN_11.44
-34	tú	tú	VERB	_	_	27	ccomp	_	Gloss=unwrap|Ref=JOHN_11.44
-35	u	u	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	34	obj	_	Gloss=him|Ref=JOHN_11.44|SpaceAfter=No
-36	,	,	PUNCT	_	_	39	punct	_	Gloss=,|Ref=JOHN_11.44
-37	ẹ	ẹ	PRON	_	_	39	nsubj	_	Gloss=ye|Ref=JOHN_11.44
-38	sì	sì	CCONJ	_	_	39	cc	_	Gloss=then|Ref=JOHN_11.44
-39	jẹ́	jẹ́	AUX	_	_	34	conj	_	Gloss=let|Ref=JOHN_11.44
-40	kí	kí	SCONJ	_	_	44	mark	_	Gloss=be|Ref=JOHN_11.44
-41	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	44	nsubj	_	Gloss=he|Ref=JOHN_11.44
-42	má	má	AUX	_	_	44	aux	_	Gloss=will|Ref=JOHN_11.44
-43	a	a	X	_	_	42	goeswith	_	Gloss=be|Ref=JOHN_11.44
-44	lọ	lọ	VERB	_	_	39	ccomp	_	Gloss=go|Ref=JOHN_11.44|SpaceAfter=No
-45	!	!	PUNCT	_	_	34	punct	_	Gloss=.|Ref=JOHN_11.44|SpaceAfter=No
-46	”	”	PUNCT	_	_	34	punct	_	Gloss=”|Ref=JOHN_11.44
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 20 goeswith	color:blue
+1	Àwọn	Àwọn	DET	_	_	2	det	_	Ref=MARK_5.12|Gloss=the
+2	ẹ̀mí	ẹ̀mí	NOUN	_	_	5	nsubj	_	Ref=MARK_5.12|Gloss=spirit
+3	àìmọ́	àìmọ́	ADJ	_	_	2	amod	_	Ref=MARK_5.12|Gloss=unclean
+4	náà	náà	DET	_	_	2	det	_	Ref=MARK_5.12|Gloss=the
+5	bẹ	bẹ	VERB	_	_	0	root	_	Ref=MARK_5.12|Gloss=beg
+6	Jésù	Jésù	PROPN	_	_	5	obj	_	Ref=MARK_5.12|Gloss=jesus
+7	pé	pé	SCONJ	_	_	12	mark	_	Ref=MARK_5.12|SpaceAfter=No|Gloss=that
+8	,	,	PUNCT	_	_	12	punct	_	Ref=MARK_5.12|Gloss=,
+9	“	“	PUNCT	_	_	12	punct	_	Ref=MARK_5.12|SpaceAfter=No|Gloss=“
+10	Rán	rán	VERB	_	_	12	ccomp	_	Ref=MARK_5.12|Gloss=send
+11	wa	wa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	Ref=MARK_5.12|Gloss=us
+12	lọ	lọ	VERB	_	_	5	ccomp	_	Ref=MARK_5.12|Gloss=go
+13	sínú	sínú	ADP	_	_	15	case	_	Ref=MARK_5.12|Gloss=into
+14	àwọn	àwọn	DET	_	_	15	det	_	Ref=MARK_5.12|Gloss=the
+15	ẹlẹ́dẹ̀	ẹlẹ́dẹ̀	NOUN	_	_	12	obl	_	Ref=MARK_5.12|Gloss=swine
+16	wọnni	wọnni	DET	_	_	12	det	_	Ref=MARK_5.12|Gloss=those
+17	kí	kí	AUX	_	_	21	aux	_	Ref=MARK_5.12|Gloss=so
+18	awa	awa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	Ref=MARK_5.12|Gloss=we
+19	le	lè	AUX	_	Typo=Yes	21	aux	_	Ref=MARK_5.12|Gloss=can
+20	è	è	X	_	Typo=Yes	19	goeswith	_	Ref=MARK_5.12|Gloss=
+21	wọ	wọ	VERB	_	_	16	xcomp	_	Ref=MARK_5.12|Gloss=enter
+22	inú	inú	ADP	_	_	23	case	_	Ref=MARK_5.12|Gloss=into
+23	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	obj	_	Ref=MARK_5.12|Gloss=them
+24	lọ	lọ	ADV	_	_	21	compound:svc	_	Ref=MARK_5.12|SpaceAfter=No|Gloss=go
+25	.	.	PUNCT	_	_	21	punct	_	Ref=MARK_5.12|SpaceAfter=No|Gloss=.
+26	”	”	PUNCT	_	_	21	punct	_	Ref=MARK_5.12|Gloss=”
+
+~~~
+
+
+~~~ conllu
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 20 goeswith	color:blue
+1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	5	cc	_	Ref=MARK_5.36|Gloss=but
+2	bi	bí	SCONJ	_	Typo=Yes	5	mark	_	Ref=MARK_5.36|Gloss=as
+3	Jésù	jésù	PROPN	_	_	5	nsubj	_	Ref=MARK_5.36|Gloss=jesus
+4	ti	ti	AUX	_	_	5	aux	_	Ref=MARK_5.36|Gloss=have
+5	gbọ́	gbọ́	VERB	_	_	10	advcl	_	Ref=MARK_5.36|Gloss=heard
+6	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	5	obj	_	Ref=MARK_5.36|Gloss=word
+7	náà	náà	DET	_	_	6	det	_	Ref=MARK_5.36|SpaceAfter=No|Gloss=the
+8	,	,	PUNCT	_	_	5	punct	_	Ref=MARK_5.36|Gloss=,
+9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Ref=MARK_5.36|Gloss=he
+10	wí	wí	VERB	_	_	0	root	_	Ref=MARK_5.36|Gloss=said
+11	fún	fún	ADP	_	_	12	case	_	Ref=MARK_5.36|Gloss=unto
+12	Jáírù	Jáírù	PROPN	_	_	10	obl	_	Ref=MARK_5.36|Gloss=jairus
+13	pé	pé	SCONJ	_	_	17	mark	_	Ref=MARK_5.36|SpaceAfter=No|Gloss=that
+14	,	,	PUNCT	_	_	17	punct	_	Ref=MARK_5.36|Gloss=,
+15	“	“	PUNCT	_	_	17	punct	_	Ref=MARK_5.36|SpaceAfter=No|Gloss=“
+16	Má	má	AUX	_	_	17	aux	_	Ref=MARK_5.36|Gloss=not
+17	bẹ̀rù	bẹ̀rù	VERB	_	_	10	ccomp	_	Ref=MARK_5.36|SpaceAfter=No|Gloss=fear
+18	,	,	PUNCT	_	_	19	punct	_	Ref=MARK_5.36|Gloss=,
+19	sá	sá	ADV	_	_	17	advmod	_	Ref=MARK_5.36|Gloss=just
+20	à	à	X	_	_	19	goeswith	_	Ref=MARK_5.36|Gloss=
+21	gbà	gbà	VERB	_	_	19	acl	_	Ref=MARK_5.36|Gloss=accept
+22	mí	mí	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	21	obj	_	Ref=MARK_5.36|Gloss=me
+23	gbọ́	gbọ́	VERB	_	_	21	compound:svc	_	Ref=MARK_5.36|Gloss=heard
+24	nìkan	nìkan	ADV	_	_	23	advmod	_	Ref=MARK_5.36|SpaceAfter=No|Gloss=only
+25	.	.	PUNCT	_	_	17	punct	_	Ref=MARK_5.36|SpaceAfter=No|Gloss=.
+26	”	”	PUNCT	_	_	17	punct	_	Ref=MARK_5.36|Gloss=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 goeswith	color:blue
+1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	jẹ́	jẹ́	AUX	_	_	3	aux	_	_
+3	èso	èso	VERB	_	_	0	root	_	_
+4	ìfohùnṣọ̀kan	ìfohùnṣọ̀kan	ADV	_	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	12	punct	_	_
+6	bẹ́	bẹ́	NOUN	_	_	12	discourse	_	_
+7	ẹ̀	ẹ̀	X	_	_	6	goeswith	_	_
+8	sì	sì	CCONJ	_	_	12	cc	_	_
+9	ni	ni	PART	_	_	10	case	_	_
+10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+11	jẹ́	jẹ́	AUX	_	_	12	aux	_	_
+12	gbígbàgbọ́	gbígbàgbọ́	VERB	_	_	3	conj	_	_
+13	pé	pé	SCONJ	_	_	16	mark	_	_
+14	gbogbo	gbogbo	DET	_	_	16	det	_	_
+15	àwọn	àwọn	DET	_	_	16	det	_	_
+16	oníṣe	oníṣe	NOUN	_	_	12	obj	_	_
+17	gbọ́dọ̀	gbọ́dọ̀	ADV	_	_	18	advmod	_	_
+18	tẹ̀lé	tẹ̀lé	VERB	_	_	16	conj	_	_
+19	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
+20	gbámúgbámú	gbámúgbámú	VERB	_	_	18	compound:svc	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 ~~~
 

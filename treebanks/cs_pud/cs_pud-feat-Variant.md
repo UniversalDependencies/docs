@@ -41,5 +41,5 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>ADJ --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 80%),
 <tt>ADJ --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="cs_pud-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (2; 100%).
+<tt>ADJ --[<tt><a href="cs_pud-dep-obl-arg.html">obl:arg</a></tt>]--> PRON</tt> (2; 100%).
 

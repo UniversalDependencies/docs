@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>savu</em> (<tt><a href="lv_lvtb-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 4.500000 (the average of all parts of speech is 2.200669).
+The form / lemma ratio of `DET` is 4.500000 (the average of all parts of speech is 2.201338).
 
 The 1st highest number of forms (13) was observed with the lemma “tas”: <em>t, tai, tais, tajos, tajā, tam, tanī, tas, tie, tiem, to, tos, tā</em>.
 
@@ -78,7 +78,7 @@ Examples: <em>tā, šī, šā</em>
 
 `DET` nodes are attached to their parents using 1 different relations: <tt><a href="lv_lvtb-dep-det.html">det</a></tt> (5231; 100% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (4961; 95% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (137; 3% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (42; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (41; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (4962; 95% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (137; 3% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (41; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (41; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 4914 (94%) `DET` nodes are leaves.
 

@@ -80,14 +80,14 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 529 <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> tokens (51% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (529; 100%), <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (512; 97%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (529; 100%), <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (496; 94%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (244; 46% of non-empty `Person`): <em>ben, bana, benim, biz, bizim, beni, bize, bizi, benden, benimle</em>
 * `2` (163; 31% of non-empty `Person`): <em>sen, senin, seni, sana, siz, sizin, size, kendiniz, Kendin, Sizler</em>
 * `3` (122; 23% of non-empty `Person`): <em>herkes, o, herkesin, ona, birisi, kendisi, kendisine, onun, kendisini, onu</em>
-* `EMPTY` (509): <em>ne, burada, kendi, bu, onlar, bunu, o, oraya, kim, kimse</em>
+* `EMPTY` (509): <em>ne, burada, kendi, bu, onlar, bunu, oraya, kim, kimse, o</em>
 
 <table>
   <tr><th>Paradigm <i>kendi</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -166,7 +166,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 `ADJ` tokens may have the following values of `Person`:
 
 * `3` (12; 100% of non-empty `Person`): <em>var, belli</em>
-* `EMPTY` (780): <em>var, yok, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım</em>
+* `EMPTY` (777): <em>var, yok, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım</em>
 
 ## Relations with Agreement in `Person`
 

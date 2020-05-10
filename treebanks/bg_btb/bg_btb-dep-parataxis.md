@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-606 nodes (0%) are attached to their parents as `parataxis`.
+440 nodes (0%) are attached to their parents as `parataxis`.
 
-590 instances of `parataxis` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.07920792079208.
+429 instances of `parataxis` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 10.7454545454545.
 
-The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (358; 59% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> (166; 27% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (42; 7% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (17; 3% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-X.html">X</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (352; 80% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (42; 10% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (17; 4% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,22 +39,6 @@ The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 parataxis	color:blue
-1	,	,	PUNCT	punct	_	2	parataxis	2:parataxis	_
-2	уточни	уточня	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	първата	пръв	ADJ	Mofsd	Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|NumType=Ord	5	amod	5:amod	_
-4	US	us	ADJ	A	Degree=Pos	5	amod	5:amod	_
-5	дама	дама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
-6	.	.	PUNCT	punct	_	2	punct	2:punct	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 9	bgColor:blue
@@ -71,6 +55,23 @@ The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a
 9	твърди	твърдя	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 10	Божилова	божилова	PROPN	Hfsi	Definite=Ind|Gender=Fem|Number=Sing	9	nsubj	9:nsubj	SpaceAfter=No
 11	.	.	PUNCT	punct	_	9	punct	9:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 parataxis	color:blue
+1	Причините	причина	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	3	nsubj	3:nsubj	_
+2	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
+3	канонични	каноничен	ADJ	A-pi	Definite=Ind|Degree=Pos|Number=Plur	5	parataxis	5:parataxis	SpaceAfter=No
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	твърдят	твърдя	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	богословите	богослов	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	5	nsubj	5:nsubj	SpaceAfter=No
+7	.	.	PUNCT	punct	_	5	punct	5:punct	_
 
 ~~~
 

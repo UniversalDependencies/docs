@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="sv_lines-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.809524 (the average of all parts of speech is 1.417078).
+The form / lemma ratio of `DET` is 1.809524 (the average of all parts of speech is 1.416999).
 
 The 1st highest number of forms (5) was observed with the lemma “någon”: <em>någon, något, några, nån, nåt</em>.
 
@@ -64,11 +64,11 @@ The 2nd highest number of forms (4) was observed with the lemma “den”: <em>d
 
 The 3rd highest number of forms (4) was observed with the lemma “denna”: <em>denna, denne, dessa, detta</em>.
 
-`DET` occurs with 6 features: <tt><a href="sv_lines-feat-Number.html">Number</a></tt> (4684; 99% instances), <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt> (4662; 98% instances), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt> (4505; 95% instances), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt> (3996; 84% instances), <tt><a href="sv_lines-feat-Case.html">Case</a></tt> (33; 1% instances), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt> (21; 0% instances)
+`DET` occurs with 6 features: <tt><a href="sv_lines-feat-Number.html">Number</a></tt> (4686; 99% instances), <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt> (4662; 98% instances), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt> (4506; 95% instances), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt> (3996; 84% instances), <tt><a href="sv_lines-feat-Case.html">Case</a></tt> (33; 1% instances), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt> (21; 0% instances)
 
 `DET` occurs with 15 feature-value pairs: `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Pos`, `Gender=Com`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rel`, `PronType=Tot`
 
-`DET` occurs with 33 feature combinations.
+`DET` occurs with 35 feature combinations.
 The most frequent feature combination is `Definite=Ind|Gender=Com|Number=Sing|PronType=Art` (1758 tokens).
 Examples: <em>en</em>
 

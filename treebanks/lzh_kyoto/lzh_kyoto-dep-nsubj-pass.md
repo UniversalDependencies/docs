@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lzh_kyoto-dep-nsubj.html">nsubj</a></tt>.
 
-6 nodes (0%) are attached to their parents as `nsubj:pass`.
+9 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-6 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.16666666666667.
+9 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (2; 33% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (2; 33% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (1; 17% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (1; 17% instances).
+The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (3; 33% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (3; 33% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (1; 11% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -54,19 +54,15 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 nsubj:pass	color:blue
-1	夫子	夫子	NOUN	n,名詞,人,人	_	4	nsubj	_	Gloss=master|SpaceAfter=No
-2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	obj	_	Gloss=what|SpaceAfter=No
-3	以	以	VERB	v,動詞,行為,動作	_	4	advcl	_	Gloss=use|SpaceAfter=No
-4	知	知	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=know|SpaceAfter=No
-5	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	8	nsubj:pass	_	Gloss=[3PRON]|SpaceAfter=No
-6	將	將	ADV	v,副詞,時相,将来	AdvType=Tim|Tense=Fut	8	advmod	_	Gloss=about-to|SpaceAfter=No
-7	見	見	AUX	v,助動詞,受動,*	Voice=Pass	8	aux	_	Gloss=[PASS]|SpaceAfter=No
-8	殺	殺	VERB	v,動詞,行為,動作	_	4	ccomp	_	Gloss=kill|SpaceAfter=No
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nsubj:pass	color:blue
+1	袪	袪	NOUN	n,名詞,可搬,道具	_	3	nsubj:pass	_	SpaceAfter=No
+2	尺	尺	NOUN	n,名詞,度量衡,*	NounType=Class	3	clf	_	Gloss=[foot-measure]|SpaceAfter=No
+3	二	二	NUM	n,数詞,数字,*	_	0	root	_	Gloss=two|SpaceAfter=No
+4	寸	寸	NOUN	n,名詞,度量衡,*	NounType=Class	3	clf	_	Gloss=[length-unit]|SpaceAfter=No
 
 ~~~
 

@@ -16,11 +16,11 @@ Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
-The following people have contributed to making this treebank part of UD: Cătălina Mărănduc, Cenel-Augusto Perez, Victoria Bobicev, Cătălin Mititelu, Florinel Hociung, Valentin Roșca.
+The following people have contributed to making this treebank part of UD: Cătălina Mărănduc, Cenel-Augusto Perez, Victoria Bobicev, Cătălin Mititelu, Florinel Hociung, Valentin Roșca, Roman Untilov, Petru Rebeja.
 
 Repository: [UD_Romanian-Nonstandard](https://github.com/UniversalDependencies/UD_Romanian-Nonstandard)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_nonstandard25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_nonstandard26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 
@@ -48,11 +48,13 @@ The Romanian Non-standard UD treebank (called UAIC-RoDia) is based on UAIC-RoDia
 
 
 
+
+
 The Romanian Non-standard UD treebank (called UAIC-RoDia)is based on UAIC-RoDia Treebank (The Treebank of the Faculty of Computer Science, ”AL. I. Cuza” University, Iași, Romania). This is a balanced treebank. The Contemporary standard part of it (Perez, 2014) was included in the UD-Romanian-RRT Treebank.
 Since 2015, the UAIC Treebank has been developed by including several nonstandard language genres, Old Romanian, Chat, Folklore (Mărănduc 2015, 2016, 2017c, 2018, Perez 2016), considering that the nonstandard langage is more used than the standard one.
 The digitization of cultural heritage includes the old texts and also the folklore, wich is an oral phenomenon that is threatened with extinction (Mărănduc, 2017b).
 
-The UAIC-RoDia Treebank (ISLRN 156-635-615-024-0) has now 19,000 sentences in its basic format.
+The UAIC-RoDia Treebank (ISLRN 156-635-615-024-0) has in March 2020, 34,794 sentences in its basic format.
 
 For the first release, we transposed in the UD format a part of the New Testament from Alba Iulia (1648), 916 sentences.
 It is the first printed New Testament in Romanian, with Cyrillic letters. The text with Latin alphabet is obtained by an OCR program built at the Institut of Mathematics and Computer Science of Chișinău, Republic of Moldova, by a group of researchers led by Alexander Colesnicov and Ludmila Malahov (Colesnicov 2016, Cojocaru 2017).
@@ -68,6 +70,8 @@ For the next release, Flower of Gifts, Moldavian Ballads, Romanian Ballads.
 Also, the contribution of the Republic of Moldova is now 1805 sentences folklore.
 
 Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
+In May 2020 we add the whole book Dosoftei, ”David's Psalms translation with rhymes” (1673), and the first part of the Ion Neculce's ”Chronicle” (1743), to be continued.
+
 
 
 ## Acknowledgments
@@ -90,11 +94,11 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 
 
 <ul>
-<li>This corpus contains 15843 sentences and 318869 tokens.</li>
+<li>This corpus contains 21403 sentences and 449959 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 61734 tokens (19%) that are not followed by a space.</li>
+<li>This corpus contains 89142 tokens (20%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -102,7 +106,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 </ul>
 
 <ul>
-<li>This corpus contains 554 types of words that contain both letters and punctuation. Examples: -i, -l, n-, -mi, -au, într-, -să, -s, m-, s-, -n, mi-, -și, -o, -ți, ce-, l-, de-, ne-, c-, -va, te-, i-, -a, pentr-, -te, -vă, le-, -mă, și-, ți-, -am, -le, v-, ș-, -lea, dentr-, nu-, -voiu, -se, -ne, d-, dintr-, -său, Şi-, -sa, -oi, -ai, -ar, să-</li>
+<li>This corpus contains 963 types of words that contain both letters and punctuation. Examples: -i, -l, -au, -n, n-, s-, i-, -mi, l-, într-, m-, ș-, mi-, -s, -ț, -să, ce-, de-, -m, le-, și-, -o, c-, -a, -și, ne-, te-, pentr-, -ți, -va, -te, -mă, -am, să-, -vă, -le, -său, -ș, dintr-, -ai, nu-, Ş-, ți-, v-, pân-, -lea, -ne, dentr-, Şi-, -ar</li>
 </ul>
 
 <ul>
@@ -118,19 +122,19 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 </ul>
 
 <ul>
-<li>This corpus contains 11 word types tagged as particles (PART): -a, -să, a, a-, ca, n-, s, s-, se, să, să-</li>
+<li>This corpus contains 15 word types tagged as particles (PART): -a, -să, a, a-, ca, n-, s, s-, sa, se, si, sâ, sî, să, să-</li>
 </ul>
 
 <ul>
-<li>This corpus contains 83 lemmas tagged as pronouns (PRON): ,, acela, același, acesta, altceva, altcineva, altul, atât, atâta, care, ce, celălalt, ceva, cine, cineva, cineși, cutare, cât, câtva, destul, dumnealor, dumnealui, dumneata, dumneavoastră, dânsa, dânsul, el, eluși, eu, fiecare, fiecine, fieșcare, fieșcine, fiește, fieștecare, fieștecine, io, mata, meu, mineși, mult, măria, mărie, neșcine, neșcât, neștine, niciunul, nimeni, nimic, nimicuța, noiși, nostru, oare, oarecare, oarece, oarecine, oarecât, oricare, orice, oricine, oricât, orișicine, puțin, sfinția, sine, sineși, singur, său, tot, tu, tău, unul, voi, voiși, vostru, vreunul, însul, însumi, însuși, însuți, ăla, ălalalt, ăsta</li>
+<li>This corpus contains 120 lemmas tagged as pronouns (PRON): ,, -ul, -unul, Iș, acel, acela, același, acest, acesta, aceștia, aicela, alt, altceva, altcineva, altul, alții, alțâi, atât, atâta, care, careaș, ce, cei, ceilalți, cel, celălalt, ceva, ci, cine, cineva, cineș, cineși, cutare, cât, câtva, destul, dumnealor, dumnealui, dumneata, dumneavoastră, dânsa, dânsul, e1, ea, el, eluși, eu, fi, fiecare, fiecine, fieșcare, fieșcine, fiește, fieștecare, fieștecine, io, l, lui, lume, mata, meu, mineși, mult, mă, măria, mărie, neșcine, neșcât, neștine, niciunul, nime, nimeni, nimic, nimicuța, noiși, nostru, oare, oarecare, oarece, oarecine, oarecât, oricare, orice, oricine, oricât, orișicine, puțin, puțintel, se, sfinția, sfinție, sfânt, sieși, sine, sineși, singur, sinw, ssine, să, său, tot, totul, tu, tău, unul, voi, voiși, vostru, vrea, vreunul, însul, însumi, însuși, însuți, îș, ăla, ălalalt, ăsta, și, șie</li>
 </ul>
 
 <ul>
-<li>This corpus contains 59 lemmas tagged as determiners (DET): -său, -ul, Fieștece, acela, același, acest, acesta, acătare, al, altul, atât, atâta, avea, care, ce, cel, celălalt, ceva, cutare, cât, câte, câtva, destul, fiecare, fieșcare, fiește, fieștecare, meu, mult, nescare, neșcât, niciun, nostru, oare, oarecare, oarece, oarecine, oarecât, ori, oricare, orice, oricât, plin, puțin, puțintel, său, tot, tău, un, unul, vostru, vrea, vreun, însumi, însuși, însuți, ăla, ălalalt, ăsta</li>
+<li>This corpus contains 82 lemmas tagged as determiners (DET): -sâu, -său, -ul, Fieștece, a, acel, acela, același, acest, acesta, acestu, aceșta, aceștie, acătare, al, alt, altul, atât, atâta, atâte, avea, care, ce, cei, ceilalți, cel, celi, celălalt, ceva, ci, cutare, cât, câte, câtva, destul, el, eu, fiecare, fieșcare, fiește, fieștecare, iui, lu, meu, mult, nescai, nescaiva, nescare, neșcât, niciun, niscaiva, niscareva, niscavai, nostru, oare, oarecare, oarece, oarecine, oarecât, ori, oricare, orice, oricât, plin, puțin, puțintel, său, tot, tău, un, unul, vostru, vrea, vreo, vreun, vreunul, însumi, însuși, însuți, ăla, ălalalt, ăsta</li>
 </ul>
 
 <ul>
-<li>Out of the above, 42 lemmas occurred sometimes as PRON and sometimes as DET: acela, același, acesta, altul, atât, atâta, care, ce, celălalt, ceva, cutare, cât, câtva, destul, fiecare, fieșcare, fiește, fieștecare, meu, mult, neșcât, nostru, oare, oarecare, oarece, oarecine, oarecât, oricare, orice, oricât, puțin, său, tot, tău, unul, vostru, însumi, însuși, însuți, ăla, ălalalt, ăsta</li>
+<li>Out of the above, 55 lemmas occurred sometimes as PRON and sometimes as DET: -ul, acel, acela, același, acest, acesta, alt, altul, atât, atâta, care, ce, cei, ceilalți, cel, celălalt, ceva, ci, cutare, cât, câtva, destul, el, eu, fiecare, fieșcare, fiește, fieștecare, meu, mult, neșcât, nostru, oare, oarecare, oarece, oarecine, oarecât, oricare, orice, oricât, puțin, puțintel, său, tot, tău, unul, vostru, vrea, vreunul, însumi, însuși, însuți, ăla, ălalalt, ăsta</li>
 </ul>
 
 <ul>
@@ -148,8 +152,8 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: era, vor, e, iaste, -i, ai, poate, fie, -s, fu</li>
-    <li>VERB: zise, are, zice, era, face, zic, ia, dzise, arată, zisără</li>
+    <li>AUX: era, vor, e, iaste, -i, ai, fie, poate, -s, fu</li>
+    <li>VERB: zise, are, era, zice, facă, face, ia, dea, dă, zic</li>
   </ul>
   </li>
 </ul>
@@ -157,8 +161,8 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Ger
   <ul>
-    <li>AUX: fiind, nefiind, fiindu, neputînd, neputîndu, putîndu</li>
-    <li>VERB: zicînd, răspunzînd, văzînd, avînd, auzind, grăind, eșind, fiind, luînd, mergînd</li>
+    <li>AUX: fiind, fiindu, nefiind, fîindu, neputînd, neputând, neputîndu, Nefiindu, nefind, putîndu</li>
+    <li>VERB: zicînd, văzînd, răspunzînd, avînd, auzind, grăind, eșind, fiind, luînd, mergînd</li>
   </ul>
   </li>
 </ul>
@@ -166,8 +170,8 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: fi, putea, ști, fir-, fire, trebui, vor, fire-</li>
-    <li>VERB: da, face, veni, fi, zice, lua, vedea, vrea, avea, grăi</li>
+    <li>AUX: fi, hi, putea, hii, fii, trebui, ști, fir-, fire, pute</li>
+    <li>VERB: da, face, veni, fi, lua, vedea, zice, vrea, pune, avea</li>
   </ul>
   </li>
 </ul>
@@ -175,8 +179,8 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Part
   <ul>
-    <li>AUX: fost, vrut, putut, fostu</li>
-    <li>VERB: făcut, scris, dat, venit, luat, văzut, zis, pus, auzit, fost</li>
+    <li>AUX: fost, putut, vrut, fostu, pututu</li>
+    <li>VERB: făcut, dat, luat, scris, pus, venit, dus, zis, văzut, vinit</li>
   </ul>
   </li>
 </ul>
@@ -191,14 +195,14 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: mare, bună, bune, sfîntă, frumoasă, reale, curată, noao, verde, mari</li>
-      <li>DET: a, o, toată, toate, mea, tot, multe, cea, ta, sa</li>
-      <li>NOUN: credință, credința, lume, carte, casa, parte, zi, zile, moarte, inima</li>
-      <li>NUM: doao, treia, două, mie, mii, patra, doua, sută, doa, doaoa</li>
-      <li>PRON: aceaia, o, carea, aceasta, toate, aceastea, le, ei, ia, -o</li>
-      <li>PROPN: Evangheliia, Maria, Galilea, Iudea, Roma, Evanghelie, Asiia, Evangheliei, Evanghelii, Machedoniia</li>
-      <li>VERB: scrisă, dată, scrise, adevărată, pusă, adevărate, făcută, făcute, puse, neapărată</li>
-      <li>VERB-Part: scrisă, dată, scrise, adevărată, pusă, adevărate, făcută, făcute, puse, neapărată</li>
+      <li>ADJ: bună, svînta, svîntă, bune, mare, sfîntă, curată, frumoasă, plină, rea</li>
+      <li>DET: a, o, toată, ta, tot, toate, cea, mea, multe, sa</li>
+      <li>NOUN: lume, țară, credință, țara, casa, mila, parte, casă, milă, pace</li>
+      <li>NUM: doao, treia, mii, două, mie, doa, patra, doua, sută, sute</li>
+      <li>PRON: o, aceaia, carea, aceasta, le, toate, aceastea, ei, -o, ia</li>
+      <li>PROPN: Poartă, Evangheliia, Moldova, Cameniță, Leșască, Maria, Munteniască, Galilea, Evanghelie, Evanghelii</li>
+      <li>VERB: scrisă, dată, scrise, adevărată, făcute, făcută, pusă, adevărate, ascunsă, puse</li>
+      <li>VERB-Part: scrisă, dată, scrise, adevărată, făcute, făcută, pusă, adevărate, ascunsă, puse</li>
     </ul>
   </li>
 </ul>
@@ -206,15 +210,15 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: mare, sfînt, datoriu, bun, omenesc, verde, mic, mari, rău, viu</li>
+      <li>ADJ: svinte, bun, sfînt, datoriu, omenesc, rău, verde, svîntul, mic, viu</li>
       <li>ADV: cît</li>
       <li>AUX-Part: fost, vrut</li>
-      <li>DET: un, al, cel, mieu, tău, cei, nostru, toți, său, acel</li>
-      <li>NOUN: domnul, domnului, fiiul, duhul, tatăl, omul, numele, cuvîntul, om, ucenicii</li>
-      <li>NUM: doi, întîiu, doisprăzeace, întîi, dintîiu, întăiu, amîndoi, un, dentîiu, trei</li>
-      <li>PRON: lui, el, carele, -l, ei, carii, -i, unul, toți, cela</li>
-      <li>PROPN: Dumnezău, Iisus, Hristos, Pavel, Pătru, Ioan, Ierosalim, Iacov, Moisi, Avraam</li>
-      <li>VERB-Part: scris, făcut, născut, dat, pus, zis, iubit, chemat, legat, aleși</li>
+      <li>DET: un, al, cel, mieu, tău, cei, său, toți, nostru, acel</li>
+      <li>NOUN: vodă, domnul, doamne, omul, domnului, cuvîntul, om, fiiul, numele, duhul</li>
+      <li>NUM: doi, întîiu, doisprăzeace, întîi, dintîiu, un, întăiu, amîndoi, dentîiu, doilea</li>
+      <li>PRON: lui, el, -l, carele, ei, -i, carii, l-, l, unul</li>
+      <li>PROPN: dumnezău, Iisus, Hristos, Pavel, David, Pătru, Ioan, Duca, Cantemir, Ierosalim</li>
+      <li>VERB-Part: scris, făcut, dat, pus, născut, dus, zis, iubit, chemat, legat</li>
     </ul>
   </li>
 </ul>
@@ -227,17 +231,17 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: mari, bune, reale, mici, minciunoși, buni, slobozi, credincioși, tari, negri</li>
-      <li>AUX: au, am, vor, sînt, veți, ați, -s, vom, sînteți, s</li>
-      <li>AUX-Fin: vor, -s, fiți, au, pot, am, fireți, fură, putum, putură</li>
-      <li>DET: toate, cei, multe, toți, voastre, ale, ceale, mulți, sale, meale</li>
-      <li>NOUN: ucenicii, oamenii, oameni, ani, oamenilor, zile, ochii, fraților, zilele, frații</li>
-      <li>NUM: trei, doi, doao, cinci, patru, două, șapte, doisprăzeace, amîndoi, șase</li>
-      <li>PRON: lor, voi, ei, carii, noi, vă, voao, le, -i, toate</li>
-      <li>PROPN: Paștile, București, Hristoși, Dumnezăi, Evanghelii, Carpați, Iacovi, Mehedinţi, Paștilor, Rosalii</li>
-      <li>VERB: zisără, zic, știți, au, veniră, fac, faceți, arată, știm, îndeamnă</li>
-      <li>VERB-Fin: zisără, zic, știți, au, veniră, fac, faceți, arată, știm, îndeamnă</li>
-      <li>VERB-Part: scrise, aleși, chemați, fericiți, sămnați, făcute, puse, adevărate, iubiți, cuprinși</li>
+      <li>ADJ: bune, mari, buni, mici, reale, nalte, minciunoși, scumpe, slobozi, credincioși</li>
+      <li>AUX: au, am, vor, sînt, -s, veți, ați, vom, -am, or</li>
+      <li>AUX-Fin: vor, -s, au, fiți, pot, am, fireți, fură, putum, putură</li>
+      <li>DET: toate, multe, cei, toți, tale, mulți, voastre, ale, sale, ceale</li>
+      <li>NOUN: oameni, oamenii, ucenicii, ani, ochii, oamenilor, bani, zile, cuvinte, pizmașii</li>
+      <li>NUM: trei, doi, doao, patru, cinci, mii, două, șapte, doisprăzeace, șase</li>
+      <li>PRON: lor, voi, ei, le, -i, carii, vă, noi, voao, ne</li>
+      <li>PROPN: Iași, Iașii, București, Galați, Cupăreștii, Bucureștii, Domneștii, Focșani, Paștile, Focșeni</li>
+      <li>VERB: zisără, au, zic, fac, știți, veniră, arată, faceți, știm, îndeamnă</li>
+      <li>VERB-Fin: zisără, au, zic, fac, știți, veniră, arată, faceți, știm, îndeamnă</li>
+      <li>VERB-Part: scrise, aleși, făcute, chemați, fericiți, sămnați, puse, adevărate, iubiți, cuprinși</li>
     </ul>
   </li>
 </ul>
@@ -245,19 +249,19 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: mare, bună, sfînt, datoriu, verde, bun, omenesc, mic, sfîntă, rău</li>
+      <li>ADJ: mare, bună, svînta, svinte, bun, sfînt, datoriu, verde, svîntă, omenesc</li>
       <li>ADV: cît</li>
-      <li>AUX: va, -i, iaste, e, a, era, -au, voiu, ai, easte</li>
+      <li>AUX: va, -i, -au, iaste, a, era, e, ai, voiu, easte</li>
       <li>AUX-Fin: era, e, iaste, -i, ai, poate, fu, putea, are, poci</li>
       <li>AUX-Part: fost, vrut</li>
-      <li>DET: lui, a, un, o, al, toată, cel, mieu, mea, tot</li>
-      <li>NOUN: domnul, domnului, fiiul, duhul, tatăl, omul, numele, cuvîntul, om, credință</li>
-      <li>NUM: întîiu, treia, mie, dintîiu, întăiu, patra, doao, dentîiu, un, doua</li>
-      <li>PRON: lui, el, carele, -l, eu, -i, o, aceaia, mine, mă</li>
-      <li>PROPN: Dumnezău, Iisus, Hristos, Pavel, Pătru, Ioan, Ierosalim, Iacov, Moisi, Evangheliia</li>
-      <li>VERB: zise, are, era, face, zice, dzise, dă, iaste, veni, zicea</li>
-      <li>VERB-Fin: zise, are, era, face, zice, dzise, dă, iaste, veni, zicea</li>
-      <li>VERB-Part: scris, scrisă, dată, făcut, născut, dat, pus, zis, iubit, chemat</li>
+      <li>DET: lui, a, un, o, ta, toată, tot, al, cel, cea</li>
+      <li>NOUN: vodă, domnul, doamne, omul, domnului, cuvîntul, om, lume, țară, fiiul</li>
+      <li>NUM: întîiu, treia, mie, dintîiu, patra, un, doa, întăiu, sută, doao</li>
+      <li>PRON: lui, el, -l, carele, -i, mă, eu, o, mine, te</li>
+      <li>PROPN: dumnezău, Iisus, Hristos, Pavel, David, Pătru, Ioan, Duca, Cantemir, Ierosalim</li>
+      <li>VERB: zise, are, era, face, dă, zice, dzise, iaste, vine, avea</li>
+      <li>VERB-Fin: zise, are, era, face, dă, zice, dzise, iaste, vine, avea</li>
+      <li>VERB-Part: scris, făcut, scrisă, dată, dat, pus, născut, dus, zis, iubit</li>
     </ul>
   </li>
 </ul>
@@ -269,8 +273,8 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Acc
     <ul>
-      <li>ADP: de, în, pre, cu, la, ca, întru, pentru, din, den</li>
-      <li>PRON: să, el, -l, se, o, mă, voi, mine, ei, te</li>
+      <li>ADP: de, în, cu, la, pre, ca, din, pe, pentru, întru</li>
+      <li>PRON: să, -l, el, mă, -i, s, o, se, mine, te</li>
     </ul>
   </li>
 </ul>
@@ -278,15 +282,15 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Acc,Nom
     <ul>
-      <li>ADJ: mare, bună, sfînt, datoriu, verde, bun, omenesc, bune, mari, mic</li>
+      <li>ADJ: mare, bună, svînta, bun, sfînt, datoriu, verde, svîntă, bune, omenesc</li>
       <li>ADV: cît</li>
-      <li>DET: a, un, o, al, toată, toate, cel, ce, mea, tot</li>
-      <li>NOUN: domnul, fiiul, duhul, tatăl, numele, omul, cuvîntul, om, credință, ucenicii</li>
-      <li>NUM: doao, mie, amîndoi, mii, sută, jumătate, amândoi, sute, amîndoao, treile</li>
-      <li>PRON: ce, carele, el, aceaia, cine, carii, carea, aceasta, voi, unul</li>
-      <li>PROPN: Dumnezău, Iisus, Hristos, Pavel, Pătru, Ioan, Ierosalim, Iacov, Moisi, Evangheliia</li>
-      <li>VERB: scrisă, dată, adevărată, pusă, făcută, neapărată, ascunsă, cinstită, uscată, ascuțită</li>
-      <li>VERB-Part: scrisă, dată, adevărată, pusă, făcută, neapărată, ascunsă, cinstită, uscată, ascuțită</li>
+      <li>DET: a, un, o, toată, ta, tot, al, toate, cel, cea</li>
+      <li>NOUN: vodă, domnul, omul, cuvîntul, om, lume, țară, numele, fiiul, duhul</li>
+      <li>NUM: doao, mii, mie, amîndoi, sută, doo, sute, amândoi, jumătate, doilea</li>
+      <li>PRON: ce, carele, el, cine, carii, aceaia, tu, carea, aceasta, voi</li>
+      <li>PROPN: dumnezău, Iisus, Hristos, Pavel, David, Pătru, Ioan, Duca, Cantemir, Ierosalim</li>
+      <li>VERB: scrisă, dată, adevărată, făcută, pusă, -ndurată, ascunsă, neapărată, cinstită, luminată</li>
+      <li>VERB-Part: scrisă, dată, adevărată, făcută, pusă, -ndurată, ascunsă, neapărată, cinstită, luminată</li>
     </ul>
   </li>
 </ul>
@@ -294,8 +298,8 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Dat
     <ul>
-      <li>ADP: derept, asemenea, înainte</li>
-      <li>PRON: lor, -i, voao, lui, -mi, mi-, -și, -ți, mi, mie</li>
+      <li>ADP: asupră, derept, nainte, asemenea, denainte, înainte</li>
+      <li>PRON: -i, lor, -mi, voao, lui, le, mi-, -ț, mi, -m</li>
     </ul>
   </li>
 </ul>
@@ -303,12 +307,12 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Dat,Gen
     <ul>
-      <li>ADJ: creștinești, marelui, mari, sfinte, sîrmanului, reale, sfinților, cerești, iubitului, rumînești</li>
-      <li>DET: lui, celui, celor, sale, tuturor, tale, meale, unui, aceștii, lu</li>
-      <li>NOUN: domnului, oamenilor, omului, jidovilor, trupului, popilor, pămîntului, legiei, duhului, tatălui</li>
-      <li>NUM: mii, amîndurora, sute, unii, tusșapte, unui, zeacelui, șeaselui</li>
-      <li>PRON: lor, căruia, celora, cărora, altuia, celuia, cui, celor, tuturor, acelora</li>
-      <li>PROPN: Evangheliei, Galileei, Rimului, Iudei, Iudeei, Mariei, Marii, Satanei, Eghipetului, Evanghelii</li>
+      <li>ADJ: svintei, svîntului, vechi, creștinești, mari, marelui, sfinte, sîrmanului, reale, sfinților</li>
+      <li>DET: lui, celui, celor, sale, tuturor, unui, tale, aceștii, meale, mele</li>
+      <li>NOUN: domnului, oamenilor, omului, jidovilor, trupului, popilor, pămîntului, lumii, legiei, tatălui</li>
+      <li>NUM: mii, amîndurora, sute, tustrei, unii, amânduror, tusșapte, unui, zeacelui, șeaselui</li>
+      <li>PRON: lor, căruia, celora, cărora, celor, altuia, cui, celuia, tuturor, acelora</li>
+      <li>PROPN: Ducăi, Evangheliei, Moldovei, Moldovii, Evanghelii, Galileei, Iudei, Rimului, Radului, Sionului</li>
       <li>VERB-Part: adevărate, arate, curate, aduse, arătate, uscate, acoperite, alease, aleaseei, ascunse</li>
     </ul>
   </li>
@@ -317,8 +321,8 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Gen
     <ul>
-      <li>ADP: înaintea, împrotiva, împotriva, dinaintea, asupra, desupra, asupră, deasupra, împregiurul, aseamenea</li>
-      <li>PRON: lui, ei, măriei, o, lor, mării, -i, sfinției</li>
+      <li>ADP: înaintea, împrotiva, asupra, împotriva, asupră, denaintea, dinaintea, înainte, desupra, denainte</li>
+      <li>PRON: lui, ei, măriei, lor, măriii, o, iei, mării, svințiii, -i</li>
     </ul>
   </li>
 </ul>
@@ -326,7 +330,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Nom
     <ul>
-      <li>PRON: eu, ei, noi, înșii, dînșii, le, înși, ele, eu-, iale</li>
+      <li>PRON: eu, ei, noi, dînșii, dânșii, înșii, iei, le, ele, înși</li>
     </ul>
   </li>
 </ul>
@@ -334,9 +338,9 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Voc
     <ul>
-      <li>ADJ: sfinte, Mititelule, cinstite, sărmane, Puternice, bune, sfinților, -afurisite, Galantoane, bătrîne</li>
+      <li>ADJ: svinte, sfinte, mișele, Mititelule, cinstite, sărmane, Puternice, bune, sfinților, -afurisite</li>
       <li>NOUN: doamne, fraților, Învățătoriule, părinte, frate, bade, bădiță, cuvinte, dorule, iubiților</li>
-      <li>PROPN: Doamne, Iisuse, Saule, Staline, Manole, Agrippo, Ioane, Marie, Nistrule, Simone</li>
+      <li>PROPN: Doamne, Iisuse, Saule, Staline, Manole, Agrippo, Dumnezeule, Ioane, Marie, Nistrule</li>
     </ul>
   </li>
 </ul>
@@ -349,12 +353,12 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Def
     <ul>
-      <li>ADJ: bune, bunul, sfinții, sfinților, marelui, sîrmanului, Puternicul, Sărmana, marele, roșii</li>
-      <li>DET: lui, -lea, -a, lu, -le, un, -lui</li>
-      <li>NOUN: domnul, domnului, fiiul, duhul, tatăl, numele, omul, cuvîntul, ucenicii, credința</li>
-      <li>NUM: treile, doilea, treilea, întîia, întîiul, noaole, unii, 8-lea, opta, patrulea</li>
-      <li>PRON: carele, carii, carea, fietecarele, totul, caria, toții, carele-, carile, careale</li>
-      <li>PROPN: Evangheliia, Maria, Iuda, Galilea, Varnava, Asiia, Iudea, Roma, Satana, Dumnezăul</li>
+      <li>ADJ: svînta, svîntul, svintele, svintei, mișelul, svîntului, bietul, cinstitul, bune, sfîntul</li>
+      <li>DET: lui, -lea, -a, lu, un, -le, -lui, iui</li>
+      <li>NOUN: domnul, omul, domnului, cuvîntul, fiiul, numele, duhul, tatăl, țara, oamenii</li>
+      <li>NUM: doilea, treile, treilea, întîia, întîiul, patrulea, un, noaole, triile, unii</li>
+      <li>PRON: carele, carii, carea, totul, toții, alțâi, careli, toțâi, toțîi, alții</li>
+      <li>PROPN: Duca, Evangheliia, Moldova, Ducăi, Maria, Brâncovanul, Dumnezăul, Iuda, Galilea, Varnava</li>
     </ul>
   </li>
 </ul>
@@ -362,10 +366,10 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: mare, bună, sfînt, datoriu, verde, bun, mari, omenesc, bune, mic</li>
-      <li>NOUN: om, credință, lucru, ceriu, adevăr, lume, carte, oameni, parte, zi</li>
-      <li>NUM: doao, mie, mii, un, sută, întîi, dentîiu, dintîi, jumătate, sute</li>
-      <li>PROPN: Dumnezău, Iisus, Hristos, Pavel, Pătru, Ioan, Ierosalim, Iacov, Moisi, Avraam</li>
+      <li>ADJ: mare, bună, svinte, bun, sfînt, datoriu, mari, verde, svîntă, bune</li>
+      <li>NOUN: vodă, doamne, om, lume, țară, credință, oameni, parte, casă, lucru</li>
+      <li>NUM: mii, doao, mie, sută, un, sute, doo, întîi, dentîiu, dintîi</li>
+      <li>PROPN: dumnezău, Iisus, Hristos, Pavel, David, Pătru, Ioan, Cantemir, Ierosalim, Iacov</li>
     </ul>
   </li>
 </ul>
@@ -380,7 +384,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: mare, bună, sfînt, datoriu, verde, bun, mari, omenesc, Vel, bune</li>
+      <li>ADJ: mare, bună, svinte, svînta, bun, vel, sfînt, datoriu, mari, verde</li>
       <li>NOUN: SVÎNT, orb, plata, venitori, vergurele, Îndrăcitul</li>
     </ul>
   </li>
@@ -393,13 +397,13 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: nu, n-, nece, nici, nu-, nice, niceodată, neceodată, niciodată, n</li>
-      <li>AUX: nefiind, fii, neputînd, fi, neputîndu</li>
-      <li>AUX-Ger: nefiind, neputînd, neputîndu</li>
-      <li>CCONJ: nece, nici, nice, neci, ce, ci, Nîci</li>
-      <li>VERB-Fin: teame, duce, face, lua, lăsa, curvi, da, plânge, îmbla, gândi</li>
-      <li>VERB-Ger: neavînd, neștiind, neaflîndu-, necrezînd, nepriimind, neaflînd, nefăcînd, nevrînd, nevăzîndu, necunoscîndu</li>
-      <li>VERB-Part: neapărată, neîncetat, nescrisă, nespălate, necugetat, necunoscut, nemăritată, nespălată, nestinsu, netăgăduite</li>
+      <li>ADV: nu, n-, nece, nice, nici, nu-, niceodată, n, neceodată, niciodată</li>
+      <li>AUX: nefiind, fii, neputînd, fi, neputând, neputîndu, Nefiindu, hii, nefind</li>
+      <li>AUX-Ger: nefiind, neputînd, neputând, neputîndu, Nefiindu, nefind</li>
+      <li>CCONJ: nece, nici, nice, neci, ce, ci, Nice-, Nîci</li>
+      <li>VERB-Fin: lăsa, face, da, lua, teame, duce, curvi, uita, îmbla, ascunde</li>
+      <li>VERB-Ger: neavînd, neștiind, neștiindu, nefăcînd, neavându, neaflîndu-, neavând, necrezînd, nepriimind, neaflînd</li>
+      <li>VERB-Part: neapărată, nescris, neîncetat, neclătită, nencetată, nescrisă, nespălate, neatinse, nebiruită, necugetat</li>
     </ul>
   </li>
 </ul>
@@ -408,16 +412,16 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
   <li>Pos
     <ul>
       <li>ADP: ca</li>
-      <li>AUX: fiind, fii, fiindu, fost, putîndu, vrut</li>
-      <li>AUX-Ger: fiind, fiindu, putîndu</li>
+      <li>AUX: fiind, fiindu, fii, fîindu, fost, putîndu, vrut</li>
+      <li>AUX-Ger: fiind, fiindu, fîindu, putîndu</li>
       <li>AUX-Part: fost, vrut</li>
-      <li>CCONJ: și, Şi, iară, ce, sau, au, dară, dar, ori, și-</li>
+      <li>CCONJ: și, Şi, iară, ce, sau, ș-, iar, au, și-, dară</li>
       <li>PRON: ce</li>
-      <li>SCONJ: că, de, să, c-, deaca, căce, de-, căci, dacă, ca</li>
-      <li>VERB: zicînd, scris, răspunzînd, văzînd, avînd, auzind, grăind, scrisă, eșind, dată</li>
-      <li>VERB-Fin: dă, vino, ia, pasă, scoală, spune, lasă, scoate, du, fă</li>
-      <li>VERB-Ger: zicînd, răspunzînd, văzînd, avînd, auzind, grăind, eșind, fiind, luînd, mergînd</li>
-      <li>VERB-Part: scris, scrisă, dată, făcut, scrise, născut, dat, pus, zis, iubit</li>
+      <li>SCONJ: că, de, să, c-, de-, deaca, căce, dacă, căci, ca</li>
+      <li>VERB: zicînd, scris, văzînd, răspunzînd, avînd, auzind, grăind, scrisă, făcut, dă</li>
+      <li>VERB-Fin: dă, scoală, ia, scoate, vino, pasă, spune, lasă, fă, du</li>
+      <li>VERB-Ger: zicînd, văzînd, răspunzînd, avînd, auzind, grăind, eșind, fiind, luînd, mergînd</li>
+      <li>VERB-Part: scris, scrisă, făcut, dată, dat, pus, născut, scrise, dus, zis</li>
     </ul>
   </li>
 </ul>
@@ -429,11 +433,11 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Long
     <ul>
-      <li>AUX: fireți, fire, fire-</li>
+      <li>AUX: fireți, fire, fire-, hire</li>
       <li>AUX-Fin: fireți</li>
-      <li>AUX-Inf: fire, fire-</li>
+      <li>AUX-Inf: fire, fire-, hire</li>
       <li>VERB-Fin: teamereți, grijireți, giudecareți, dareți, oprireți, spămîntareți, contenireți, creadereți, giurareți, greșireți</li>
-      <li>VERB-Inf: Vreare, Dare, lăcuirea, priimi, Pohtire, Zicere, cearere, darea, daria, erta</li>
+      <li>VERB-Inf: hirea, Vreare, dare, lăcuirea, priimi, Pohtire, Zicere, cearere, cercarea, darea</li>
     </ul>
   </li>
 </ul>
@@ -449,9 +453,9 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: fiți, fii, fireți, fi, fiţi, sunteți</li>
+      <li>AUX: fiți, fii, fireți, fi, fiţi, hii, sunteți</li>
       <li>AUX-Fin: fireți, fiți</li>
-      <li>VERB-Fin: dă, vino, ia, pasă, scoală, spune, lasă, faceți, scoate, dați</li>
+      <li>VERB-Fin: dă, ia, scoală, scoate, vino, pasă, spune, lasă, faceți, fă</li>
     </ul>
   </li>
 </ul>
@@ -459,10 +463,10 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: va, au, -i, am, iaste, vor, e, a, era, sînt</li>
-      <li>AUX-Fin: era, vor, e, iaste, -i, ai, poate, -s, fu, putea</li>
-      <li>VERB: zise, are, era, face, zic, zice, dzise, zisără, iaste, veni</li>
-      <li>VERB-Fin: zise, are, era, face, zic, zice, dzise, zisără, iaste, veni</li>
+      <li>AUX: au, va, -i, -au, am, iaste, vor, a, era, e</li>
+      <li>AUX-Fin: era, vor, e, iaste, -i, ai, poate, -s, fu, au</li>
+      <li>VERB: zise, are, era, face, zic, zice, dzise, iaste, arată, vine</li>
+      <li>VERB-Fin: zise, are, era, face, zic, zice, dzise, iaste, arată, vine</li>
       <li>VERB-Part: va</li>
     </ul>
   </li>
@@ -471,9 +475,9 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: fie, fiu, fiți, fii, fim, poată, putem, pot, vrea, poci</li>
+      <li>AUX: fie, fii, fiu, poată, fiți, fim, fie-, hie, putem, pot</li>
       <li>AUX-Fin: fie, fiți, poată</li>
-      <li>VERB-Fin: facă, dea, ia, fie, zice, aibă, vie, plătească, vază, chiamă</li>
+      <li>VERB-Fin: facă, dea, ia, aibă, vază, vie, fie, zice, ducă, auză</li>
     </ul>
   </li>
 </ul>
@@ -485,9 +489,9 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: era, putea, eram, avea, vrea, erați, erau, trebuia, erai, erea</li>
+      <li>AUX: era, putea, eram, iera, avea, vrea, erați, erau, pute, erai</li>
       <li>AUX-Fin: era, putea</li>
-      <li>VERB-Fin: era, zicea, avea, făcea, mergea, vrea, da, grăiia, vedea, auzea</li>
+      <li>VERB-Fin: era, avea, zicea, făcea, mergea, da, vrea, sta, grăiia, lua</li>
     </ul>
   </li>
 </ul>
@@ -497,7 +501,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
     <ul>
       <li>AUX: fu, fură, fuiu, putu, fum, putum, fuset, fuseși, putură, sînt</li>
       <li>AUX-Fin: fu, fură, putum, putură, putuși</li>
-      <li>VERB-Fin: zise, dzise, zisără, veni, fu, răspunse, veniră, văzu, făcu, deade</li>
+      <li>VERB-Fin: zise, dzise, zisără, veni, fu, răspunse, veniră, făcu, văzu, deade</li>
     </ul>
   </li>
 </ul>
@@ -505,8 +509,8 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Pqp
     <ul>
-      <li>AUX: era</li>
-      <li>VERB-Fin: zisease, venise, luase, făcuse, făgăduise, auzise, dedease, poruncise, văzuse, mersease</li>
+      <li>AUX: fusese, fusesă, fusesie, era, putusă</li>
+      <li>VERB-Fin: zisease, venise, luase, făcuse, făcusă, luasă, făgăduise, apucasă, auzise, agiunsesă</li>
     </ul>
   </li>
 </ul>
@@ -514,10 +518,10 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: va, au, -i, am, iaste, vor, e, a, sînt, -au</li>
-      <li>AUX-Fin: vor, e, iaste, -i, ai, poate, fie, -s, are, poci</li>
-      <li>VERB: are, zice, zic, face, facă, iaste, arată, dea, fac, ia</li>
-      <li>VERB-Fin: are, zice, zic, face, facă, iaste, arată, dea, fac, ia</li>
+      <li>AUX: au, va, -i, -au, am, iaste, vor, a, e, sînt</li>
+      <li>AUX-Fin: vor, e, iaste, -i, ai, fie, poate, -s, au, pot</li>
+      <li>VERB: are, zice, facă, face, dea, zic, ia, fac, iaste, arată</li>
+      <li>VERB-Fin: are, zice, facă, face, dea, zic, ia, fac, iaste, arată</li>
       <li>VERB-Part: va</li>
     </ul>
   </li>
@@ -535,7 +539,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Art
     <ul>
-      <li>DET: lui, a, al, ale, -lea, ai, -a, lu, -al, -le</li>
+      <li>DET: lui, a, al, ale, -a, ai, -lea, lu, un, -al</li>
     </ul>
   </li>
 </ul>
@@ -543,8 +547,8 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Dem
     <ul>
-      <li>DET: cel, cei, cea, această, ceale, aceasta, acel, aceaia, acest, acesta</li>
-      <li>PRON: aceaia, aceasta, aceastea, cela, acesta, acela, ceia, cel, cei, aceia</li>
+      <li>DET: cel, cea, cei, acel, această, acea, aceasta, acest, ceale, acesta</li>
+      <li>PRON: aceaia, aceasta, aceastea, cela, ceia, acesta, acela, cei, cel, aceia</li>
     </ul>
   </li>
 </ul>
@@ -552,7 +556,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Emp
     <ul>
-      <li>DET: însuși, înșivă, însuți, înșiși, însumi, însuș, înșine, înseși, înși</li>
+      <li>DET: însuși, înșivă, însuți, înșiși, înșine, însumi, însuș, Înșiș, înseși, înși</li>
       <li>PRON: însuși, eiși, voiși, înșivă, mineși, sineși, loruși, însuți, eluși, noiși</li>
     </ul>
   </li>
@@ -561,9 +565,9 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: tot, cumva, atîta, oarecînd, mult, oarecum, cîndva, uneori, multu, oricît</li>
-      <li>DET: un, o, toată, toate, tot, multe, toți, multă, mulți, alt</li>
-      <li>PRON: unul, toate, toți, altul, unii, mulți, cineva, alții, una, ceva</li>
+      <li>ADV: tot, cumva, atîta, mult, oarecînd, uneori, oarecum, cîndva, hie, multu</li>
+      <li>DET: un, o, toată, tot, toate, multe, toți, multă, mulți, alt</li>
+      <li>PRON: toate, unul, toți, unii, altul, mulți, alții, cineva, una, tot</li>
     </ul>
   </li>
 </ul>
@@ -571,9 +575,9 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Int,Rel
     <ul>
-      <li>ADV: cum, cînd, unde, când, cît, cumu, cât, cîndu, unde-, cîtu</li>
-      <li>DET: ce, care, cîte, câte, cîtă, cîți, Câtă, Câți, carele, cît</li>
-      <li>PRON: ce, carele, carii, cine, carea, care, ce-, căruia, cărora, cîte</li>
+      <li>ADV: cum, cînd, unde, când, cît, cumu, cât, precum, cîndu, câte</li>
+      <li>DET: ce, care, cîte, câte, cîtă, câtă, cîți, câți, carele, ce-</li>
+      <li>PRON: ce, carele, cine, carii, carea, care, ce-, căruia, cărora, cîte</li>
     </ul>
   </li>
 </ul>
@@ -582,7 +586,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
   <li>Neg
     <ul>
       <li>DET: nicio, niciun, necio, neșchite, neșchită</li>
-      <li>PRON: nime, nemică, nimic, nimeni, nemurui, nimenea, nimică, nimica, nemica, niciuna</li>
+      <li>PRON: nime, nemică, nemic, nimic, nimeni, nemurui, nimenea, nimică, nimica, nemărui</li>
     </ul>
   </li>
 </ul>
@@ -590,8 +594,8 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Prs
     <ul>
-      <li>DET: mieu, mea, tău, nostru, său, ta, sa, voastră, sale, voastre</li>
-      <li>PRON: să, lui, el, ei, lor, -i, -l, voi, eu, se</li>
+      <li>DET: ta, mieu, tău, mea, său, sa, nostru, tale, sale, voastră</li>
+      <li>PRON: să, lui, el, -i, lor, -l, ei, mă, voi, le</li>
     </ul>
   </li>
 </ul>
@@ -599,7 +603,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Tot
     <ul>
-      <li>NUM: amîndoi, amândoi, amîndoao, amîndurora, tusșapte, îmbe, amândouă, amîndoo, amîndouă, tușapte</li>
+      <li>NUM: amîndoi, amândoi, amîndoao, îmbe, amîndurora, tustrei, tusșapte, înbe, Tuteopt, amândouă</li>
     </ul>
   </li>
 </ul>
@@ -611,7 +615,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Card
     <ul>
-      <li>NUM: trei, doi, doao, cinci, patru, două, șapte, mie, doisprăzeace, mii</li>
+      <li>NUM: trei, doi, doao, patru, cinci, mii, două, șapte, mie, doisprăzeace</li>
     </ul>
   </li>
 </ul>
@@ -627,7 +631,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Mult
     <ul>
-      <li>NUM: îndoit, Cîtetrele, cîtenouă</li>
+      <li>NUM: îndoit, tustrii, înbe, Cîtetrele, cîtenouă, tretii, tustreli, îndzăcit</li>
     </ul>
   </li>
 </ul>
@@ -635,7 +639,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Ord
     <ul>
-      <li>NUM: întîiu, treia, dentîiu, întîi, dintîiu, întăiu, patra, doua, dintîi, doao</li>
+      <li>NUM: întîiu, treia, dentîiu, întîi, dintîiu, patra, întăiu, doa, doua, dintîi</li>
     </ul>
   </li>
 </ul>
@@ -647,7 +651,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Yes
     <ul>
-      <li>DET: a, al, ale, ai, tău, mieu, ta, vostru, mea, sa</li>
+      <li>DET: a, al, ale, ai, -a, tău, mieu, ta, vostru, mea</li>
       <li>PRON: ta, meu, nostru, tău</li>
     </ul>
   </li>
@@ -672,12 +676,12 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>1
     <ul>
-      <li>AUX: am, voiu, vom, oi, sînt, -am, aș, sîntem, -voiu, -oi</li>
+      <li>AUX: am, voiu, voi, vom, -am, oi, sînt, aș, sîntem, -voiu</li>
       <li>AUX-Fin: am, pociu, Oi, poci, pot, putum, s, sunt, sînt, voiu</li>
-      <li>DET: mieu, mea, nostru, voastră, meale, noastră, noastre, miei, meu, noștri</li>
-      <li>PRON: eu, mă, mine, noi, -mi, voi, tu, m-, ne, mi-</li>
-      <li>VERB: am, zic, știu, fac, știm, duc, văzuiu, avem, dau, grăescu</li>
-      <li>VERB-Fin: am, zic, știu, fac, știm, duc, văzuiu, avem, dau, grăescu</li>
+      <li>DET: mieu, mea, nostru, voastră, noastră, meale, miei, noastre, meu, noștri</li>
+      <li>PRON: mă, eu, mine, noi, -mi, tu, m-, ne, mi-, voi</li>
+      <li>VERB: am, zic, știu, fac, duc, știm, rog, avem, văzuiu, dau</li>
+      <li>VERB-Fin: am, zic, știu, fac, duc, știm, rog, avem, văzuiu, dau</li>
     </ul>
   </li>
 </ul>
@@ -685,11 +689,11 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>2
     <ul>
-      <li>AUX: ai, veți, ați, ești, vei, sînteți, fiți, fii, veri, -ai</li>
+      <li>AUX: ai, ești, veți, ați, vei, sînteți, -ai, -i, fii, fiți</li>
       <li>AUX-Fin: ai, fiți, ești, fireți, poți, putuși, veți</li>
-      <li>DET: tău, ta, voastre, tale, vostru, tăi, voștri, -ta, înșivă, -tău</li>
-      <li>PRON: voi, vă, voao, te, tine, -ți, ție, te-, -vă, -te</li>
-      <li>VERB-Fin: știți, faceți, faci, ai, aveți, dă, vino, ia, vezi, pasă</li>
+      <li>DET: ta, tău, tale, voastre, vostru, tăi, voștri, -ta, înșivă, -tău</li>
+      <li>PRON: te, voi, vă, voao, tine, -ț, te-, ț, ție, -te</li>
+      <li>VERB-Fin: știți, faci, dai, dă, faceți, ai, ia, scoală, știi, aveți</li>
     </ul>
   </li>
 </ul>
@@ -698,12 +702,12 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
   <li>3
     <ul>
       <li>ADV: cît</li>
-      <li>AUX: va, au, -i, iaste, vor, e, a, era, -au, sînt</li>
-      <li>AUX-Fin: era, vor, e, iaste, -i, poate, fie, -s, fu, putea</li>
-      <li>DET: toată, toate, ce, tot, multe, toți, său, sa, multă, sale</li>
-      <li>PRON: să, ce, lui, el, carele, ei, lor, -i, -l, se</li>
-      <li>VERB: zise, are, zice, era, face, dzise, zisără, facă, iaste, veni</li>
-      <li>VERB-Fin: zise, are, zice, era, face, dzise, zisără, facă, iaste, veni</li>
+      <li>AUX: au, va, -i, -au, iaste, vor, a, era, e, sînt</li>
+      <li>AUX-Fin: era, vor, e, iaste, -i, fie, poate, -s, fu, au</li>
+      <li>DET: toată, tot, toate, ce, multe, său, sa, toți, multă, acel</li>
+      <li>PRON: să, ce, lui, el, -i, lor, carele, -l, ei, le</li>
+      <li>VERB: zise, are, era, zice, facă, face, dea, ia, dzise, iaste</li>
+      <li>VERB-Fin: zise, are, era, zice, facă, face, dea, ia, dzise, iaste</li>
       <li>VERB-Part: va</li>
     </ul>
   </li>
@@ -716,7 +720,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Form
     <ul>
-      <li>PRON: însul, măriei, Măriia, dumitale, mării, dumneavoastră, sfinției, Ți-, -ți, MĂRIIA</li>
+      <li>PRON: svinția, însul, măriei, înșii, Măriia, dumitale, mării, svințiile, dumneavoastră, dânsul</li>
     </ul>
   </li>
 </ul>
@@ -729,8 +733,8 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Plur
     <ul>
-      <li>DET: nostru, voastră, voastre, noastră, vostru, noastre, voștri, noștri, noștrii, vostră</li>
-      <li>PRON: nostru, noastră, noastre, voastră, voastre, vostru, noștri</li>
+      <li>DET: nostru, voastră, voastre, noastră, vostru, noastre, noștri, voștri, miei, noștrii</li>
+      <li>PRON: nostru, noastră, noastre, voastră, noștri, voastre, vostru</li>
     </ul>
   </li>
 </ul>
@@ -738,8 +742,8 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
 <ul>
   <li>Sing
     <ul>
-      <li>DET: mieu, mea, tău, său, ta, sa, sale, meale, tale, miei</li>
-      <li>PRON: ta, mea, meu, tău, meale, sale, tăi, mieu, sa, săi</li>
+      <li>DET: ta, mieu, tău, mea, său, sa, tale, sale, -său, meale</li>
+      <li>PRON: ta, mea, tău, meu, săi, meale, sale, tăi, sa, mieu</li>
     </ul>
   </li>
 </ul>
@@ -752,7 +756,7 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
     <ul>
       <li>Prep
         <ul>
-          <li>ADP: de, în, pre, cu, la, ca, întru, pentru, din, den</li>
+          <li>ADP: de, în, cu, la, pre, ca, din, pe, pentru, întru</li>
         </ul>
       </li>
     </ul>
@@ -764,10 +768,10 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
     <ul>
       <li>Yes
         <ul>
-          <li>ADP: pentru, den, din, după, pren, prin, pînă, pentr-, despre, cătră</li>
+          <li>ADP: din, pentru, den, după, prin, preste, pren, pentr-, pînă, cătră</li>
           <li>ADV: nece</li>
-          <li>CCONJ: nece, nici, deci, nice, ce, neci, deacii, dară, însă, dece</li>
-          <li>SCONJ: deaca, căce, căci, dacă, deca, pentru, ca, daca, încît, Şi</li>
+          <li>CCONJ: nece, deci, nice, dece, nici, Decii, ce, neci, deacii, dară</li>
+          <li>SCONJ: deaca, căce, dacă, căci, deca, ca, pentru, daca, încît, deși</li>
         </ul>
       </li>
     </ul>
@@ -779,17 +783,17 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
     <ul>
       <li>Digit
         <ul>
-          <li>NUM: 2, 7, 3, 4, 1, 12, 6, 5, 8, 9</li>
+          <li>NUM: 2, 7, 3, 4, 1, 12, 5, 6, 8, 10</li>
         </ul>
       </li>
       <li>Roman
         <ul>
-          <li>NUM: 16, întîiu, I, dentîiu, treile</li>
+          <li>NUM: 16, întîiu, I, dentîiu, dintâiu, treile, întâiu</li>
         </ul>
       </li>
       <li>Word
         <ul>
-          <li>NUM: trei, doi, doao, întîiu, treia, cinci, patru, două, șapte, dentîiu</li>
+          <li>NUM: trei, doi, doao, întîiu, patru, cinci, treia, mii, două, șapte</li>
         </ul>
       </li>
     </ul>
@@ -801,12 +805,12 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
     <ul>
       <li>Inf
         <ul>
-          <li>PART: a, a-, n-, -a</li>
+          <li>PART: a, -a, a-, n-</li>
         </ul>
       </li>
       <li>Sub
         <ul>
-          <li>PART: să, s-, să-, se, -să, a, ca, s</li>
+          <li>PART: să, să-, s-, se, sâ, -să, a, s, ca, sa</li>
         </ul>
       </li>
     </ul>
@@ -818,13 +822,13 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
     <ul>
       <li>Postnom
         <ul>
-          <li>DET: acesta, acela, aceștiia, cela, aceasta, aceia, acestuia, aceaia, acealea, aceluia</li>
+          <li>DET: acesta, acela, aceștiia, cela, aceasta, aceia, acestuia, aceaia, acealea, ceia</li>
           <li>PRON: ceia, celora</li>
         </ul>
       </li>
       <li>Prenom
         <ul>
-          <li>DET: această, acel, acest, ceastă, cest, aceastea, aceaste, același, aceasta, acei</li>
+          <li>DET: acel, această, acest, ceastă, acei, acea, cest, aceastea, aceste, aceaste</li>
           <li>PRON: acea</li>
         </ul>
       </li>
@@ -837,12 +841,12 @@ Today, 23 September 2019, we add a new sub-corpus, Caragea's Law, 1818.
     <ul>
       <li>Strong
         <ul>
-          <li>PRON: el, lor, voi, mine, ei, voao, lui, noi, tine, mie</li>
+          <li>PRON: el, lor, mine, voi, ei, voao, lui, tine, noi, mie</li>
         </ul>
       </li>
       <li>Weak
         <ul>
-          <li>PRON: să, -i, -l, se, o, mă, vă, te, le, -mi</li>
+          <li>PRON: să, -i, -l, mă, le, s, o, se, te, vă</li>
         </ul>
       </li>
     </ul>
@@ -870,63 +874,73 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--PRON-Acc,Nom (1)</li>
       <li>VERB--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom (4857)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom (6579)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca)-ADP(la) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(către) (1)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (3)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(din) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (4)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(din) (2)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(dintre) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(drept) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(fără) (2)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(la) (2)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(moșie) (1)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (3)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(pentru) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(în) (3)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(întru) (2)</li>
-      <li>VERB-Fin--NOUN-Dat,Gen (12)</li>
+      <li>VERB-Fin--NOUN-Dat,Gen (24)</li>
       <li>VERB-Fin--NOUN-Voc (2)</li>
-      <li>VERB-Fin--PRON (37)</li>
-      <li>VERB-Fin--PRON-Acc (30)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (4112)</li>
+      <li>VERB-Fin--PRON (38)</li>
+      <li>VERB-Fin--PRON-Acc (32)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (4928)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(ca) (1)</li>
-      <li>VERB-Fin--PRON-Acc,Nom-ADP(cu) (2)</li>
-      <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (8)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(cu) (4)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (12)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(din) (1)</li>
-      <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (3)</li>
-      <li>VERB-Fin--PRON-Dat (3)</li>
-      <li>VERB-Fin--PRON-Dat,Gen (8)</li>
-      <li>VERB-Fin--PRON-Gen (8)</li>
-      <li>VERB-Fin--PRON-Nom (616)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom (291)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (5)</li>
+      <li>VERB-Fin--PRON-Dat (14)</li>
+      <li>VERB-Fin--PRON-Dat,Gen (11)</li>
+      <li>VERB-Fin--PRON-Gen (13)</li>
+      <li>VERB-Fin--PRON-Nom (711)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom (418)</li>
+      <li>VERB-Ger--NOUN-Dat,Gen (1)</li>
       <li>VERB-Ger--NOUN-Voc (1)</li>
       <li>VERB-Ger--PRON (3)</li>
       <li>VERB-Ger--PRON-Acc (1)</li>
-      <li>VERB-Ger--PRON-Acc,Nom (161)</li>
+      <li>VERB-Ger--PRON-Acc,Nom (170)</li>
       <li>VERB-Ger--PRON-Gen (1)</li>
-      <li>VERB-Ger--PRON-Nom (60)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom (910)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom-ADP(cu) (1)</li>
+      <li>VERB-Ger--PRON-Nom (62)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom (1283)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom-ADP(cu) (2)</li>
       <li>VERB-Inf--NOUN-Acc,Nom-ADP(de) (1)</li>
       <li>VERB-Inf--NOUN-Acc,Nom-ADP(din) (1)</li>
       <li>VERB-Inf--NOUN-Acc,Nom-ADP(la) (2)</li>
       <li>VERB-Inf--NOUN-Acc,Nom-ADP(împotriva) (1)</li>
       <li>VERB-Inf--NOUN-Acc,Nom-ADP(întru) (1)</li>
-      <li>VERB-Inf--NOUN-Dat,Gen (4)</li>
+      <li>VERB-Inf--NOUN-Dat,Gen (6)</li>
       <li>VERB-Inf--PRON (10)</li>
-      <li>VERB-Inf--PRON-Acc (6)</li>
-      <li>VERB-Inf--PRON-Acc,Nom (741)</li>
-      <li>VERB-Inf--PRON-Dat (1)</li>
-      <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Inf--PRON-Nom (151)</li>
-      <li>VERB-Part--NOUN-Acc,Nom (725)</li>
-      <li>VERB-Part--NOUN-Acc,Nom-ADP(din) (1)</li>
-      <li>VERB-Part--NOUN-Dat,Gen (1)</li>
+      <li>VERB-Inf--PRON-Acc (10)</li>
+      <li>VERB-Inf--PRON-Acc,Nom (868)</li>
+      <li>VERB-Inf--PRON-Acc,Nom-ADP(pe) (1)</li>
+      <li>VERB-Inf--PRON-Dat (11)</li>
+      <li>VERB-Inf--PRON-Dat,Gen (1)</li>
+      <li>VERB-Inf--PRON-Gen (2)</li>
+      <li>VERB-Inf--PRON-Nom (194)</li>
+      <li>VERB-Part--NOUN-Acc,Nom (1662)</li>
+      <li>VERB-Part--NOUN-Acc,Nom-ADP(din) (2)</li>
+      <li>VERB-Part--NOUN-Acc,Nom-ADP(în) (1)</li>
+      <li>VERB-Part--NOUN-Dat,Gen (10)</li>
+      <li>VERB-Part--NOUN-Voc (2)</li>
       <li>VERB-Part--PRON (2)</li>
-      <li>VERB-Part--PRON-Acc (7)</li>
-      <li>VERB-Part--PRON-Acc,Nom (723)</li>
-      <li>VERB-Part--PRON-Dat,Gen (3)</li>
-      <li>VERB-Part--PRON-Nom (149)</li>
+      <li>VERB-Part--PRON-Acc (9)</li>
+      <li>VERB-Part--PRON-Acc,Nom (998)</li>
+      <li>VERB-Part--PRON-Acc,Nom-ADP(cu) (1)</li>
+      <li>VERB-Part--PRON-Dat (7)</li>
+      <li>VERB-Part--PRON-Dat,Gen (5)</li>
+      <li>VERB-Part--PRON-Gen (2)</li>
+      <li>VERB-Part--PRON-Nom (192)</li>
     </ul>
   </li>
 </ul>
@@ -934,20 +948,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc,Nom (5330)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (2)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom (7484)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (3)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (3)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(după) (3)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(fără) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (3)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(în) (1)</li>
-      <li>VERB-Fin--NOUN-Dat,Gen (12)</li>
+      <li>VERB-Fin--NOUN-Dat,Gen (19)</li>
       <li>VERB-Fin--NOUN-Dat,Gen-ADP(în) (1)</li>
       <li>VERB-Fin--NOUN-Dat,Gen-ADP(înaintea) (1)</li>
       <li>VERB-Fin--NOUN-Voc (5)</li>
       <li>VERB-Fin--PRON (3)</li>
-      <li>VERB-Fin--PRON-Acc (2706)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (1058)</li>
+      <li>VERB-Fin--PRON-Acc (3975)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (1308)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (2)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(din) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(fără) (1)</li>
@@ -957,48 +971,54 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc-ADP(de) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(după) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(pe) (5)</li>
-      <li>VERB-Fin--PRON-Dat (55)</li>
-      <li>VERB-Fin--PRON-Dat,Gen (6)</li>
+      <li>VERB-Fin--PRON-Dat (131)</li>
+      <li>VERB-Fin--PRON-Dat,Gen (9)</li>
       <li>VERB-Fin--PRON-Gen (8)</li>
       <li>VERB-Fin--PRON-Nom (12)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom (647)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom (890)</li>
       <li>VERB-Ger--NOUN-Acc,Nom-ADP(drept) (1)</li>
       <li>VERB-Ger--NOUN-Acc,Nom-ADP(pe) (1)</li>
       <li>VERB-Ger--NOUN-Acc,Nom-ADP(spre) (1)</li>
       <li>VERB-Ger--NOUN-Acc,Nom-ADP(în) (1)</li>
       <li>VERB-Ger--NOUN-Acc,Nom-ADP(întru) (1)</li>
+      <li>VERB-Ger--NOUN-Dat,Gen (3)</li>
       <li>VERB-Ger--NOUN-Voc (2)</li>
-      <li>VERB-Ger--PRON-Acc (191)</li>
-      <li>VERB-Ger--PRON-Acc,Nom (129)</li>
+      <li>VERB-Ger--PRON-Acc (255)</li>
+      <li>VERB-Ger--PRON-Acc,Nom (137)</li>
       <li>VERB-Ger--PRON-Acc,Nom-ADP(de) (1)</li>
       <li>VERB-Ger--PRON-Acc,Nom-ADP(din) (1)</li>
-      <li>VERB-Ger--PRON-Dat (13)</li>
+      <li>VERB-Ger--PRON-Dat (14)</li>
       <li>VERB-Ger--PRON-Dat,Gen (1)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom (1032)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom (1464)</li>
       <li>VERB-Inf--NOUN-Acc,Nom-ADP(cu) (1)</li>
       <li>VERB-Inf--NOUN-Acc,Nom-ADP(de) (1)</li>
-      <li>VERB-Inf--NOUN-Dat,Gen (5)</li>
+      <li>VERB-Inf--NOUN-Dat,Gen (9)</li>
       <li>VERB-Inf--PRON (3)</li>
-      <li>VERB-Inf--PRON-Acc (555)</li>
-      <li>VERB-Inf--PRON-Acc,Nom (260)</li>
+      <li>VERB-Inf--PRON-Acc (855)</li>
+      <li>VERB-Inf--PRON-Acc,Nom (305)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(cu) (1)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(de) (1)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(pe) (1)</li>
       <li>VERB-Inf--PRON-Acc-ADP(pe) (1)</li>
-      <li>VERB-Inf--PRON-Dat (17)</li>
-      <li>VERB-Inf--PRON-Dat,Gen (1)</li>
+      <li>VERB-Inf--PRON-Dat (36)</li>
+      <li>VERB-Inf--PRON-Dat,Gen (3)</li>
       <li>VERB-Inf--PRON-Gen (3)</li>
       <li>VERB-Inf--PRON-Nom (5)</li>
-      <li>VERB-Part--NOUN-Acc,Nom (674)</li>
+      <li>VERB-Part--NOUN-Acc,Nom (1731)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(ca) (1)</li>
+      <li>VERB-Part--NOUN-Acc,Nom-ADP(cu) (1)</li>
+      <li>VERB-Part--NOUN-Acc,Nom-ADP(cu)-ADP(de) (1)</li>
+      <li>VERB-Part--NOUN-Acc,Nom-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(despre) (1)</li>
+      <li>VERB-Part--NOUN-Acc,Nom-ADP(până)-ADP(la) (2)</li>
+      <li>VERB-Part--NOUN-Dat,Gen (9)</li>
       <li>VERB-Part--NOUN-Voc (1)</li>
       <li>VERB-Part--PRON (1)</li>
-      <li>VERB-Part--PRON-Acc (667)</li>
-      <li>VERB-Part--PRON-Acc,Nom (313)</li>
-      <li>VERB-Part--PRON-Dat (21)</li>
-      <li>VERB-Part--PRON-Dat,Gen (5)</li>
-      <li>VERB-Part--PRON-Nom (8)</li>
+      <li>VERB-Part--PRON-Acc (1314)</li>
+      <li>VERB-Part--PRON-Acc,Nom (515)</li>
+      <li>VERB-Part--PRON-Dat (44)</li>
+      <li>VERB-Part--PRON-Dat,Gen (6)</li>
+      <li>VERB-Part--PRON-Nom (10)</li>
     </ul>
   </li>
 </ul>
@@ -1006,59 +1026,65 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc,Nom (49)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom (78)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(a) (4)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(al) (1)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (2)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (4)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (4)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(din) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(drept) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(la) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (2)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(spre) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(sub) (1)</li>
-      <li>VERB-Fin--NOUN-Dat,Gen (647)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(în) (2)</li>
+      <li>VERB-Fin--NOUN-Dat,Gen (756)</li>
+      <li>VERB-Fin--NOUN-Dat,Gen-ADP(asupra) (1)</li>
       <li>VERB-Fin--NOUN-Dat,Gen-ADP(fără) (1)</li>
-      <li>VERB-Fin--NOUN-Voc (10)</li>
-      <li>VERB-Fin--PRON-Acc (93)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (29)</li>
-      <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (2)</li>
+      <li>VERB-Fin--NOUN-Voc (11)</li>
+      <li>VERB-Fin--PRON-Acc (185)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (43)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (4)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(drept) (1)</li>
-      <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (1)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (2)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(întru) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(spre) (1)</li>
-      <li>VERB-Fin--PRON-Dat (2829)</li>
-      <li>VERB-Fin--PRON-Dat,Gen (276)</li>
-      <li>VERB-Fin--PRON-Gen (102)</li>
+      <li>VERB-Fin--PRON-Dat (4105)</li>
+      <li>VERB-Fin--PRON-Dat,Gen (316)</li>
+      <li>VERB-Fin--PRON-Gen (107)</li>
       <li>VERB-Fin--PRON-Nom (9)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom (3)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom (5)</li>
       <li>VERB-Ger--NOUN-Acc,Nom-ADP(a) (1)</li>
       <li>VERB-Ger--NOUN-Acc,Nom-ADP(avea) (1)</li>
-      <li>VERB-Ger--NOUN-Dat,Gen (34)</li>
+      <li>VERB-Ger--NOUN-Dat,Gen (44)</li>
       <li>VERB-Ger--NOUN-Voc (1)</li>
-      <li>VERB-Ger--PRON-Acc (1)</li>
-      <li>VERB-Ger--PRON-Dat (126)</li>
-      <li>VERB-Ger--PRON-Dat,Gen (19)</li>
-      <li>VERB-Ger--PRON-Gen (3)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom (12)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom-ADP(de) (1)</li>
-      <li>VERB-Inf--NOUN-Dat,Gen (100)</li>
-      <li>VERB-Inf--PRON-Acc (19)</li>
-      <li>VERB-Inf--PRON-Acc,Nom (7)</li>
-      <li>VERB-Inf--PRON-Dat (378)</li>
-      <li>VERB-Inf--PRON-Dat,Gen (70)</li>
-      <li>VERB-Inf--PRON-Gen (9)</li>
-      <li>VERB-Part--NOUN-Acc,Nom (5)</li>
+      <li>VERB-Ger--PRON-Acc (5)</li>
+      <li>VERB-Ger--PRON-Acc,Nom (1)</li>
+      <li>VERB-Ger--PRON-Dat (175)</li>
+      <li>VERB-Ger--PRON-Dat,Gen (23)</li>
+      <li>VERB-Ger--PRON-Gen (4)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom (23)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom-ADP(de) (3)</li>
+      <li>VERB-Inf--NOUN-Dat,Gen (125)</li>
+      <li>VERB-Inf--PRON-Acc (38)</li>
+      <li>VERB-Inf--PRON-Acc,Nom (11)</li>
+      <li>VERB-Inf--PRON-Dat (683)</li>
+      <li>VERB-Inf--PRON-Dat,Gen (83)</li>
+      <li>VERB-Inf--PRON-Gen (11)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Part--NOUN-Acc,Nom (24)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(a) (1)</li>
-      <li>VERB-Part--NOUN-Acc,Nom-ADP(de) (1)</li>
-      <li>VERB-Part--NOUN-Dat,Gen (104)</li>
+      <li>VERB-Part--NOUN-Acc,Nom-ADP(de) (2)</li>
+      <li>VERB-Part--NOUN-Dat,Gen (194)</li>
       <li>VERB-Part--NOUN-Dat,Gen-ADP(împotriva) (1)</li>
-      <li>VERB-Part--NOUN-Voc (1)</li>
+      <li>VERB-Part--NOUN-Voc (3)</li>
       <li>VERB-Part--PRON (1)</li>
-      <li>VERB-Part--PRON-Acc (25)</li>
-      <li>VERB-Part--PRON-Acc,Nom (7)</li>
+      <li>VERB-Part--PRON-Acc (89)</li>
+      <li>VERB-Part--PRON-Acc,Nom (16)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(pe) (1)</li>
-      <li>VERB-Part--PRON-Dat (557)</li>
-      <li>VERB-Part--PRON-Dat,Gen (65)</li>
-      <li>VERB-Part--PRON-Gen (12)</li>
+      <li>VERB-Part--PRON-Dat (1167)</li>
+      <li>VERB-Part--PRON-Dat,Gen (75)</li>
+      <li>VERB-Part--PRON-Gen (14)</li>
     </ul>
   </li>
 </ul>
@@ -1066,13 +1092,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 2060 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: arăta să, chema să, zice să, da să, face să, scula să, apropia să, cădea să, ruga să, umple să, cuveni să, întoarce să, duce să, duce mă, mira să, duce se, lepăda să, vindeca să, închina să, tocmi să, înturna să, aduna să, duce te, bucura să, socoti să, întâmpla să, chema se, afla să, judeca să, vedea să, cădea se, îndrepta să, sui să, părea să, teme să, închipui se, întoarce se, face se, dovedi să, despărți să, ruga vă, strica să, ține să, arăta s, asemăna să, boteza să, feri să, protimisi să, lua să, atinge să</li>
+  <li>This corpus contains 2886 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: face să, arăta să, chema să, da să, zice să, scula să, întoarce să, ruga să, cădea să, apropia să, duce să, umple să, închina să, dus s, cuveni să, mira să, vedea să, duce mă, întoarce s, întâmpla să, bucura să, lepăda să, duce se, afla să, teme să, tocmi să, vindeca să, sui să, înturna să, aduna să, duce te, pune să, socoti să, ține să, chema se, judeca să, ruga mă, îndrepta să, înțelege să, cădea se, face s, părea să, ridica să, ruga vă, despărți să, închipui se, întoarce se, face se, strica să, dovedi să</li>
 </ul>
 
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 143 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: da să, face să, lua să, orândui să, vinde să, boteza să, chema să, ierta să, zice să, lăsa să, propovădui să, pune se, vesti să, arunca să, boteza mă, cere să, da -să, lua -să, vedea se, grăi să, ispiti să, naște să, omorî să, protimisi să, scrie să, turna se, tăia să, zălogi să, împărți să, ști să, adăuga să, cunoaște să, deschide să, erta să, ierta s-, lăsa -să, lăuda să, necinsti să, orîndui să, osândi să, pedepsi să, plăti să, preface să, risipi să, răstigni să, scoate să, strica să, trimite -să, vinde s, vărsa să</li>
+  <li>This corpus contains 143 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: da să, face să, lua să, orândui să, vinde să, boteza să, chema să, ierta să, zice să, lăsa să, propovădui să, pune se, vesti să, arunca să, boteza mă, cere să, da -să, lua -să, vedea se, grăi să, ispiti să, naște să, omorî să, protimisi să, scrie să, turna se, tăia să, zălogi să, împărți să, ști să, adăuga să, cunoaște să, deschide să, erta să, face s-, ierta s-, lăsa -să, lăuda să, necinsti să, orîndui să, osândi să, pedepsi să, plăti să, preface să, risipi să, răstigni să, scoate să, strica să, trimite -să, vinde s</li>
 </ul>
 
 <h3>Verbs with Reflexive Core Objects</h3>

@@ -55,7 +55,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	Je	il	PRON	_	Number=Sing|Person=1	4	nsubj	_	_
 2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	peut-être	peut-être	ADV	_	_	4	advmod	_	_
-4	têtu	têtu	ADJ	_	_	0	root	_	SpaceAfter=No
+4	têtu	têtu	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	mais	mais	CCONJ	_	_	9	cc	_	_
 7	c'	ce	PRON	_	Number=Sing|Person=3	9	nsubj	_	SpaceAfter=No

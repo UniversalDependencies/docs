@@ -7,14 +7,30 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `nmod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `nmod`: <tt><a href="koi_uh-dep-nmod-poss.html">nmod:poss</a></tt>.
+There are 2 language-specific subtypes of `nmod`: <tt><a href="koi_uh-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="koi_uh-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-20 nodes (5%) are attached to their parents as `nmod`.
+33 nodes (5%) are attached to their parents as `nmod`.
 
-20 instances of `nmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1.
+32 instances of `nmod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.06060606060606.
 
-The following 3 pairs of parts of speech are connected with `nmod`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (10; 50% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (6; 30% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (4; 20% instances).
+The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (14; 42% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (10; 30% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (6; 18% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 nmod	color:blue
+1	Петялӧн	Петя	PROPN	_	Animacy=Hum|Case=Gen|NameType=Giv|Number=Sing	3	nmod	_	GTtags=Prop,Sg,Gen
+2	ордчӧн	ордчӧн	NOUN	_	_	3	nmod	_	_
+3	олісьыс	олісь	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	GTtags=Sg,Nom,PxSg3
+4	краситӧм	краситны	VERB	_	Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt2,Sg3
+5	йӧрсӧ	йӧр	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obj	_	GTtags=Sg,Acc,PxSg3|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	4	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -39,23 +55,7 @@ The following 3 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nmod	color:blue
-1	Петялӧн	Петя	PROPN	_	Animacy=Hum|Case=Gen|Number=Sing	3	nmod	_	GTtags=Prop,Sg,Gen
-2	ордчӧн	ордчӧн	NOUN	_	_	3	nmod	_	_
-3	олісьыс	олісь	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	GTtags=Sg,Nom,PxSg3
-4	краситӧм	краситны	VERB	_	Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt2,Sg3
-5	йӧрсӧ	йӧр	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obj	_	GTtags=Sg,Acc,PxSg3|SpaceAfter=No
-6	.	.	PUNCT	CLB	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nmod	color:blue
-1	Петялӧн	Петя	PROPN	_	Animacy=Hum|Case=Gen|Number=Sing	3	nmod	_	GTtags=Prop,Sg,Gen
+1	Петялӧн	Петя	PROPN	_	Animacy=Hum|Case=Gen|NameType=Giv|Number=Sing	3	nmod	_	GTtags=Prop,Sg,Gen
 2	ордчӧн	ордчӧн	NOUN	_	_	3	nmod	_	_
 3	олісьыс	олісь	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	GTtags=Sg,Nom,PxSg3
 4	краситӧм	краситны	VERB	_	Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt2,Sg3

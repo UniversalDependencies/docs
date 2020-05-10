@@ -63,7 +63,7 @@ The following 20 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 1 5 acl:relcl	color:blue
 1	Fred	Fred	PROPN	SG-NOM	Number=Sing	10	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	Comma	_	5	punct	_	_
-3	who	who	PRON	WH-REL	PronType=Int	5	nsubj	_	_
+3	who	who	PRON	WH-REL	PronType=Rel	5	nsubj	_	_
 4	had	have	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	_
 5	finished	finish	VERB	PERF	Mood=Ind|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
 6	his	he	PRON	P3SG-GEN	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	_

@@ -74,7 +74,7 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 10	mezi	mezi	ADP	RR--7----------	AdpType=Prep|Case=Ins	11	case	_	LId=mezi-1
 11	společníky	společník	NOUN	NNMP7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	9	obl	_	_
 12	přijaté	přijatý	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	_	_
-13	dividendy	dividenda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	9	obj	_	_
+13	dividendy	dividenda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	9	obl:arg	_	_
 14	nebo	nebo	CCONJ	J^-------------	_	15	cc	_	_
 15	podíly	podíl	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	13	conj	_	_
 16	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	17	case	_	LId=na-1
@@ -124,7 +124,7 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 23	závěrka	závěrka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	25	nsubj:pass	_	_
 24	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	25	aux:pass	_	_
 25	ověřována	ověřovaný	ADJ	VsQW---XX-AP---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	14	parataxis	_	LDeriv=ověřovat
-26	auditorem	auditor	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	25	obl:agent	_	SpaceAfter=No
+26	auditorem	auditor	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	25	obl:arg	_	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
 ~~~

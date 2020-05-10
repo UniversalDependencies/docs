@@ -11,84 +11,77 @@ It occurs with 11 different values: `Cnd`, `CndGen`, `CndPot`, `Gen`, `GenNec`, 
 
 1946 tokens (12%) have a non-empty value of `Mood`.
 1221 types (17%) occur at least once with a non-empty value of `Mood`.
-558 lemmas (13%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 8 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (991; 6% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (545; 3% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (323; 2% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (65; 0% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+560 lemmas (13%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 8 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1024; 6% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (544; 3% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (292; 2% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (65; 0% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-991 <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Mood`.
+1024 <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (926; 93%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (912; 92%), <tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (821; 83%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (763; 77%), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (633; 64%), <tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (616; 62%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (951; 93%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (936; 91%), <tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (844; 82%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (784; 77%), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (666; 65%), <tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (639; 62%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (24; 2% of non-empty `Mood`): <em>ise, olsa, benzese, biliyorsanız, getirmese</em>
-* `CndGen` (8; 1% of non-empty `Mood`): <em>olursa, bırakırsa, düşünülürse, gelirse, isterseniz, seçerse, yapılırsa</em>
+* `Cnd` (10; 1% of non-empty `Mood`): <em>olsa, ise, benzese, biliyorsanız, getirmese</em>
+* `CndGen` (10; 1% of non-empty `Mood`): <em>olursa, olursak, bırakırsa, düşünülürse, gelirse, isterseniz, seçerse, yapılırsa</em>
 * `CndPot` (1; 0% of non-empty `Mood`): <em>çözülebilse</em>
-* `Gen` (222; 22% of non-empty `Mood`): <em>etmiştir, başlamıştır, edilmiştir, almıştır, bulunmaktadır, gelmiştir, yapar, almaktadır, anlatır, başlar</em>
+* `Gen` (231; 23% of non-empty `Mood`): <em>edilmiştir, etmiştir, başlamıştır, almıştır, bulunmaktadır, gelmiştir, yapar, almaktadır, anlatır, başlar</em>
 * `GenNec` (2; 0% of non-empty `Mood`): <em>kaçmamalıdır, oluşturulmalıdır</em>
-* `GenPot` (36; 4% of non-empty `Mood`): <em>açabilir, görülebilir, sağlayabilir, verebilir, anlaşılamaz, artırabilir, açabilirler, bekleyebilirdi, bulanıklaştırabilir, bulunabilir</em>
+* `GenPot` (38; 4% of non-empty `Mood`): <em>açabilir, görülebilir, sağlayabilir, verebilir, anlaşılamaz, artırabilir, açabilirler, bekleyebilirdi, bulanıklaştırabilir, bulunabilir</em>
 * `Imp` (3; 0% of non-empty `Mood`): <em>at, atın, seçin</em>
-* `Ind` (683; 69% of non-empty `Mood`): <em>dedi, etti, başladı, söyledi, çıktı, verdi, ediyor, geldi, aldı, edildi</em>
-* `Nec` (1; 0% of non-empty `Mood`): <em>eğitmeliyiz</em>
+* `Ind` (716; 70% of non-empty `Mood`): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, geldi, aldı</em>
+* `Nec` (2; 0% of non-empty `Mood`): <em>eğitmeliyiz, olmalı</em>
 * `Opt` (2; 0% of non-empty `Mood`): <em>edelim, göre</em>
 * `Pot` (9; 1% of non-empty `Mood`): <em>alabildi, bilemiyorum, bulunamadı, erişemiyordu, girilebiliyordu, hissedebiliyordu, sakınamayabiliyor, sallayabiliyor, yürütebiliyor</em>
-* `EMPTY` (21): <em>gelir, vurgular, alacaklar, destekler, gelecek, göre, kaldığından, kalmayan, raporlar, rastlanan</em>
+* `EMPTY` (40): <em>alan, gelir, vurgular, alacaklar, aldığına, bilinen, bulurken, bırakılırken, destekler, duran</em>
 
 <table>
-  <tr><th>Paradigm <i>et</i></th><th><tt>Ind</tt></th><th><tt>Opt</tt></th><th><tt>Gen</tt></th><th><tt>GenPot</tt></th></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ederim</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>ederdi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>eder</em></td><td><em>edebilir</em></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>etmiş</em></td><td></td><td><em>etmiştir</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>edilmiş</em></td><td></td><td><em>edilmiştir</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td><em>etmişti</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>edilmişti</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>etti</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>edildi</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>edeceğiz</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ettiniz</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ettiler</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ediyorum</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>etmiyor</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ediyor</em></td><td></td><td><em>etmektedir</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ediyorlar</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>edelim</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>ol</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Nec</tt></th><th><tt>CndGen</tt></th><th><tt>Gen</tt></th><th><tt>GenPot</tt></th></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td></td><td></td><td><em>olmazdı</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td></td><td></td><td><em>olmaz</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td></td><td><em>olursa</em></td><td></td><td><em>olabilir</em></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td></td><td><em>olursak</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td></td><td></td><td><em>olmayacaktır</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>olmadı</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>olacak</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>oldu</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td></td><td></td><td><em>olacaklardı</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>olsa</em></td><td><em>olmalı</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `NOUN`
 
-545 <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> tokens (9% of all `NOUN` tokens) have a non-empty value of `Mood`.
+544 <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> tokens (9% of all `NOUN` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `NOUN` and `Mood` co-occurred: <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (426; 78%), <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (347; 64%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (347; 64%).
+The most frequent other feature values with which `NOUN` and `Mood` co-occurred: <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (427; 78%), <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (345; 63%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (345; 63%).
 
 `NOUN` tokens may have the following values of `Mood`:
 
 * `Gen` (2; 0% of non-empty `Mood`): <em>geçer, payandalar</em>
 * `Imp` (3; 1% of non-empty `Mood`): <em>ahdet, soyun, çekiçle</em>
-* `Ind` (531; 97% of non-empty `Mood`): <em>yapmak, etmek, büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, görmek, çıkmaya</em>
+* `Ind` (530; 97% of non-empty `Mood`): <em>yapmak, etmek, büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, görmek, çıkmaya</em>
 * `Opt` (5; 1% of non-empty `Mood`): <em>yana, dönene</em>
 * `Pot` (4; 1% of non-empty `Mood`): <em>gidebilmemiz, gönderebilmekten, kalabilmesi, ölümsüzleşeceği</em>
-* `EMPTY` (5834): <em>arasında, tarafından, yıl, şekilde, kuzey, yılında, ortaya, güney, yer, konusunda</em>
+* `EMPTY` (5820): <em>tarafından, arasında, yıl, şekilde, kuzey, yılında, ortaya, güney, yer, konusunda</em>
 
-`Mood` seems to be **lexical feature** of `NOUN`. 100% lemmas (296) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `NOUN`. 100% lemmas (297) occur only with one value of `Mood`.
 
 ### `AUX`
 
-323 <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> tokens (60% of all `AUX` tokens) have a non-empty value of `Mood`.
+292 <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> tokens (60% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (310; 96%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (310; 96%), <tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (292; 90%), <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (291; 90%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (276; 85%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (271; 84%), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (249; 77%), <tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (191; 59%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (281; 96%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (281; 96%), <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (266; 91%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (252; 86%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (248; 85%), <tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (244; 84%), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (217; 74%), <tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (177; 61%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (15; 5% of non-empty `Mood`): <em>olsa, sa, olsaydı, ise, se, yse</em>
-* `CndGen` (6; 2% of non-empty `Mood`): <em>olursa, olursak</em>
-* `Gen` (115; 36% of non-empty `Mood`): <em>dir, dır, olmuştur, tir, değildir, tır, dur, dür, olacaktır, edilmiştir</em>
-* `GenPot` (9; 3% of non-empty `Mood`): <em>olabilir, olabilirler, gelebilir, olmayabilir</em>
+* `Cnd` (29; 10% of non-empty `Mood`): <em>ise, olsa, sa, olsaydı, se, yse</em>
+* `CndGen` (4; 1% of non-empty `Mood`): <em>olursa, olursak</em>
+* `Gen` (106; 36% of non-empty `Mood`): <em>dir, dır, olmuştur, tir, değildir, tır, dur, dür, olacaktır, olmaz</em>
+* `GenPot` (7; 2% of non-empty `Mood`): <em>olabilir, olabilirler, olmayabilir</em>
 * `Imp` (3; 1% of non-empty `Mood`): <em>olsun</em>
-* `Ind` (172; 53% of non-empty `Mood`): <em>değil, oldu, ydı, olmak, ydi, dı, dır, olacak, olmasına, yken</em>
-* `Nec` (3; 1% of non-empty `Mood`): <em>olmalı, olmalısınız, olmamalı</em>
-* `EMPTY` (217): <em>olarak, olan, olduğunu, olduğu, olmayan, tir, olacağını, mi, olup, di</em>
+* `Ind` (141; 48% of non-empty `Mood`): <em>değil, oldu, ydı, olmak, ydi, dı, dır, olacak, olmasına, yken</em>
+* `Nec` (2; 1% of non-empty `Mood`): <em>olmalısınız, olmamalı</em>
+* `EMPTY` (197): <em>olarak, olan, olduğunu, olduğu, olmayan, tir, olacağını, mi, olup, di</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Nec</tt></th><th><tt>CndGen</tt></th><th><tt>Gen</tt></th><th><tt>GenPot</tt></th></tr>
@@ -102,7 +95,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>olmaya</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>olmasının</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>olmanın</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>olmasıyla</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>olmakla</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>olmak</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>olması</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -114,10 +106,11 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>olmak, olacak</em></td><td></td><td></td><td></td><td></td><td><em>olacaktır</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>oldu</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>olması</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>olmadan</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>oluyor</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td></td><td><em>olmamalı</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>olsaydı</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>olsun</em></td><td><em>olsa</em></td><td><em>olmalı</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>olsun</em></td><td><em>olsa</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td></td><td><em>olmalısınız</em></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -134,7 +127,7 @@ The most frequent other feature values with which `ADJ` and `Mood` co-occurred: 
 * `Ind` (40; 62% of non-empty `Mood`): <em>edecek, gerçekleştirilen, Birleşmiş, adanmış, alacak, alışılmamış, beklenmedik, biçilmiş, donatılmış, donmuş</em>
 * `Nec` (3; 5% of non-empty `Mood`): <em>tartışmalı, Seçmeli</em>
 * `Pot` (6; 9% of non-empty `Mood`): <em>cevaplanamamış, kısıtlayabilecek, sokabilecek, sorgulayacakları, çekilebilecek, çözülebilecek</em>
-* `EMPTY` (1673): <em>büyük, yeni, son, sahip, fazla, ilk, aynı, eden, iyi, var</em>
+* `EMPTY` (1668): <em>büyük, yeni, son, sahip, fazla, ilk, aynı, eden, iyi, var</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Ind</tt></th><th><tt>GenPot</tt></th></tr>
@@ -149,15 +142,15 @@ The most frequent other feature values with which `ADJ` and `Mood` co-occurred: 
 
 17 <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `ADV` and `Mood` co-occurred: <tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (10; 59%).
+The most frequent other feature values with which `ADV` and `Mood` co-occurred: <tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (9; 53%).
 
 `ADV` tokens may have the following values of `Mood`:
 
 * `Imp` (1; 6% of non-empty `Mood`): <em>zorla</em>
-* `Ind` (16; 94% of non-empty `Mood`): <em>olmadan, değil, ederken, akarken, bulunmadan, durmadan, düşünmeden, görünürken, çekerken, İyileşerek</em>
-* `EMPTY` (836): <em>daha, de, da, en, ancak, çok, geri, ayrıca, sadece, sonra</em>
+* `Ind` (16; 94% of non-empty `Mood`): <em>değil, olmadan, ederken, akarken, bulunmadan, durmadan, düşünmeden, görünürken, yükselecek, çekerken</em>
+* `EMPTY` (856): <em>daha, de, da, en, ancak, çok, geri, ayrıca, sadece, sonra</em>
 
-`Mood` seems to be **lexical feature** of `ADV`. 100% lemmas (11) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `ADV`. 100% lemmas (12) occur only with one value of `Mood`.
 
 ### `PROPN`
 
@@ -169,16 +162,7 @@ The most frequent other feature values with which `PROPN` and `Mood` co-occurred
 
 * `Gen` (1; 50% of non-empty `Mood`): <em>Gezer</em>
 * `Imp` (1; 50% of non-empty `Mood`): <em>Yum</em>
-* `EMPTY` (1524): <em>İngiliz, Çin, Alman, Amerika, ABD, Hong, Trump, Akdeniz, Avrupa, Avustralya</em>
-
-### `PUNCT`
-
-2 <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Mood`.
-
-`PUNCT` tokens may have the following values of `Mood`:
-
-* `Ind` (2; 100% of non-empty `Mood`): <em>dedi, reddetti</em>
-* `EMPTY` (2147): <em>., ,, ", (, ), -, ;, :, ?, '</em>
+* `EMPTY` (1525): <em>İngiliz, Çin, Alman, Amerika, ABD, Hong, Trump, Akdeniz, Avrupa, Avustralya</em>
 
 ### `ADP`
 
@@ -187,19 +171,21 @@ The most frequent other feature values with which `PROPN` and `Mood` co-occurred
 `ADP` tokens may have the following values of `Mood`:
 
 * `Gen` (1; 100% of non-empty `Mood`): <em>ki</em>
-* `EMPTY` (700): <em>ki, için, ile, gibi, kadar, sonra, birlikte, ardından, göre, karşı</em>
+* `EMPTY` (694): <em>ki, için, ile, gibi, kadar, sonra, birlikte, ardından, göre, karşı</em>
+
+### `PUNCT`
+
+1 <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Mood`.
+
+`PUNCT` tokens may have the following values of `Mood`:
+
+* `Ind` (1; 100% of non-empty `Mood`): <em>dedi</em>
+* `EMPTY` (2147): <em>., ,, ", (, ), -, ;, :, ?, '</em>
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (59; 81%),
-<tt>VERB --[<tt><a href="tr_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (19; 86%),
-<tt>VERB --[<tt><a href="tr_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (11; 65%),
-<tt>VERB --[<tt><a href="tr_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (7; 70%),
-<tt>VERB --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 60%),
-<tt>AUX --[<tt><a href="tr_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="tr_pud-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 67%),
-<tt>AUX --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<tt><a href="tr_pud-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<tt><a href="tr_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (75; 90%),
+<tt>VERB --[<tt><a href="tr_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (13; 65%),
+<tt>VERB --[<tt><a href="tr_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 100%).
 

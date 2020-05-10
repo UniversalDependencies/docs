@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.037736 (the average of all parts of speech is 1.039841).
+The form / lemma ratio of `VERB` is 1.037736 (the average of all parts of speech is 1.044000).
 
 The 1st highest number of forms (3) was observed with the lemma “ܝܵܗܹܒ݂”: <em>ܝܘܼܗܒ̣ܸܠܘܼܟܼ, ܝܘܼܗܒ̣ܸܠܲܢ, ܝܘܼܗܒ̣ܸܠܵܗܿ</em>.
 
@@ -34,8 +34,8 @@ The 3rd highest number of forms (2) was observed with the lemma “ܩܵܐܸܡ”
 `VERB` occurs with 14 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Part`, `Voice=Pass`
 
 `VERB` occurs with 26 feature combinations.
-The most frequent feature combination is `_` (11 tokens).
-Examples: <em>ܐܡܸܪܗܘܿܢ, ܒܸܛܠܵܒܵܐ, ܒܸܩܪܵܛܹܗ, ܓ̰ܡܸܥܠܗܘܿܢ, ܓܘܼܒܹܐ, ܛܲܫܝܵܐ, ܥܵܒ̣ܕܲܚ, ܥܵܪܩܲܚ, ܦܘܼܫܛܵܐ, ܦܲܚܠܝܼܬܘܿܢ</em>
+The most frequent feature combination is `Gender=Masc|Number=Sing|Person=3` (11 tokens).
+Examples: <em>ܐ݇ܡܸܪܹܗ, ܬܘܼܚܡܸܢܹܗ, ܐܡܸܪܹܗ, ܙܵܪܸܥ, ܚܵܨܸܕ, ܡܵܚܸܐ, ܢܟ̣ܸܦܠܹܗ, ܪܵܘܹܐ, ܫܵܬܹܐ</em>
 
 
 ## Relations

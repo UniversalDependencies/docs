@@ -56,9 +56,9 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 25	bgColor:blue
 # visual-style 25	fgColor:white
 # visual-style 25 24 aux	color:blue
-1	இந்தியாவின்	இந்தியா	PROPN	NEG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=intiyāvin|LTranslit=intiyā
+1	இந்தியாவின்	இந்தியா	PROPN	NEG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod:gen	Translit=intiyāvin|LTranslit=intiyā
 2	அண்டை	அண்டை	ADJ	JJ-------	_	3	amod	3:amod	Translit=aṇṭai|LTranslit=aṇṭai
-3	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	4	nmod	4:nmod	Translit=nāṭukaḷ|LTranslit=nāṭu
+3	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	4	nmod	4:nmod:nom	Translit=nāṭukaḷ|LTranslit=nāṭu
 4	ஆன	ஆன	PART	Tg-------	_	7	nmod	7:nmod|12:nmod|22:nmod	Translit=āna|LTranslit=āna
 5	சீனா	சீனா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	Translit=cīnā|LTranslit=cīnā
 6	59வது	59	ADJ	Uy-------	NumType=Ord	7	amod	7:amod	Translit=59vatu|LTranslit=59
@@ -72,7 +72,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 14	பங்களாதேஷ்	பங்களாதேஷ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	17	nsubj	17:nsubj	Translit=paṅkaḷātēṣ|LTranslit=paṅkaḷātēṣ
 15	மற்றும்	மற்றும்	CCONJ	CC-------	_	16	cc	16:cc	Translit=marrum|LTranslit=marrum
 16	பாகிஸ்தான்	பாகிஸ்தான்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	conj	14:conj|17:nsubj	Translit=pākistān|LTranslit=pākistān
-17	ஆகியவை	ஆகியவை	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	22	nmod	22:nmod	Translit=ākiyavai|LTranslit=ākiyavai
+17	ஆகியவை	ஆகியவை	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	22	nmod	22:nmod:முறையே:nom	Translit=ākiyavai|LTranslit=ākiyavai
 18	முறையே	முறையே	ADP	PP-------	AdpType=Post	17	case	17:case	Translit=muraiyē|LTranslit=muraiyē
 19	88	88	NUM	U=-------	NumForm=Digit	22	nummod	22:nummod	Translit=88|LTranslit=88
 20	மற்றும்	மற்றும்	CCONJ	CC-------	_	21	cc	21:cc	Translit=marrum|LTranslit=marrum

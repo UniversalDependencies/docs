@@ -162,13 +162,13 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5962; 98%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4112; 100%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4108; 100%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1809; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (841; 91%),
-<tt>VERB --[<tt><a href="cs_cltt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (777; 90%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (691; 91%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (607; 87%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (571; 96%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-acl.html">acl</a></tt>]--> VERB</tt> (376; 91%),
-<tt>VERB --[<tt><a href="cs_cltt-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (269; 90%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-cop.html">cop</a></tt>]--> AUX</tt> (228; 87%).
+<tt>NOUN --[<tt><a href="cs_cltt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (321; 91%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (288; 83%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (269; 90%).
 

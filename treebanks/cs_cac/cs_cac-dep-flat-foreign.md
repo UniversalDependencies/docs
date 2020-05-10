@@ -30,7 +30,7 @@ The following 25 pairs of parts of speech are connected with `flat:foreign`: <tt
 6	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
 7	bývá	bývat	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	11:cop	_
 8	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	9:case	LId=u-1
-9	ptáků	pták	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	11	obl:arg	11:obl:arg	_
+9	ptáků	pták	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	11	obl:arg	11:obl:arg:u:gen	_
 10	poměrně	poměrně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	11	advmod	11:advmod	LDeriv=poměrný
 11	velký	velký	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	0	root	0:root	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	11	punct	11:punct	_
@@ -44,7 +44,7 @@ The following 25 pairs of parts of speech are connected with `flat:foreign`: <tt
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 flat:foreign	color:blue
-1	Hostům	host	NOUN	NNMP3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos	4	obj	4:obj	_
+1	Hostům	host	NOUN	NNMP3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos	4	obl:arg	4:obl:arg:dat	_
 2	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	3:case	LId=na-1
 3	*	*	SYM	Xx-------------	Abbr=Yes	4	advmod	4:advmod	_
 4	nepomohla	pomoci	VERB	VpQW---XR-NA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
@@ -62,14 +62,14 @@ The following 25 pairs of parts of speech are connected with `flat:foreign`: <tt
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 flat:foreign	color:blue
-1	Všechny	všechno	PRON	PLIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	2	nmod	2:nmod	_
+1	Všechny	všechno	PRON	PLIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	2	nmod	2:nmod:nom	_
 2	druhy	druh	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	4	nsubj	4:nsubj	LId=druh-1|LGloss=(typ)
-3	jedenáctistovek	jedenáctistovka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	nmod	2:nmod	_
+3	jedenáctistovek	jedenáctistovka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	nmod	2:nmod:gen	_
 4	byly	být	VERB	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 5	vždy	vždy	ADV	Db-------------	PronType=Tot	4	advmod	4:advmod	_
 6	jen	jen	PART	TT-------------	_	8	advmod:emph	8:advmod:emph	LId=jen-1|LGloss=(pouze)
 7	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	8:case	LId=v-1
-8	provedení	provedení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	4	obl	4:obl	LDeriv=provést
+8	provedení	provedení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	4	obl	4:obl:v:loc	LDeriv=provést
 9	de	de	ADP	RR--X----------	AdpType=Prep|Foreign=Yes	8	nmod	8:nmod	_
 10	luxe	luxe	NOUN	NNXXX-----A----	Foreign=Yes|Polarity=Pos	9	flat:foreign	9:flat:foreign	_
 11	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_

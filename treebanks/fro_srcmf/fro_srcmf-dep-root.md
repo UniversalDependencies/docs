@@ -11,9 +11,9 @@ This relation is universal.
 17678 nodes (10%) are attached to their parents as `root`.
 
 17678 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.64045706527888.
+Average distance between parent and child is 4.63949541803371.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (16321; 92% instances), -<tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (733; 4% instances), -<tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> (442; 3% instances), -<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (74; 0% instances), -<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (60; 0% instances), -<tt><a href="fro_srcmf-pos-PROPN.html">PROPN</a></tt> (36; 0% instances), -<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (7; 0% instances), -<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (16337; 92% instances), -<tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (728; 4% instances), -<tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> (432; 2% instances), -<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (74; 0% instances), -<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (59; 0% instances), -<tt><a href="fro_srcmf-pos-PROPN.html">PROPN</a></tt> (30; 0% instances), -<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (7; 0% instances), -<tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> (6; 0% instances), -<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 4 root	color:blue
 1	Li	_	DET	DETdef	Definite=Def|PronType=Art	2	det	_	_
 2	reis	_	NOUN	NOMcom	_	4	nsubj	_	_
-3	est	_	VERB	VERcjg	VerbForm=Fin	4	cop	_	_
+3	est	_	AUX	VERcjg	VerbForm=Fin	4	cop	_	_
 4	fiers	_	ADJ	ADJqua	_	0	root	_	_
 5	e	_	CCONJ	CONcoo	_	8	cc	_	_
 6	sis	_	DET	DETpos	Poss=Yes	7	det	_	_
@@ -60,7 +60,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 5 root	color:blue
 1	De	_	ADP	PRE	_	2	case	_	_
 2	vasselage	_	NOUN	NOMcom	_	5	obl	_	_
-3	fut	_	VERB	VERcjg	VerbForm=Fin	5	cop	_	_
+3	fut	_	AUX	VERcjg	VerbForm=Fin	5	cop	_	_
 4	asez	_	ADV	ADVgen	_	5	advmod	_	_
 5	chevaler	_	NOUN	NOMcom	_	0	root	_	_
 

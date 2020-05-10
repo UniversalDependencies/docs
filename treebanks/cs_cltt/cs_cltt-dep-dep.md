@@ -31,7 +31,7 @@ The following 22 pairs of parts of speech are connected with `dep`: <tt><a href=
 7	papírů	papír	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	4	nmod	_	_
 8	oceňovaných	oceňovaný	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	7	amod	_	_
 9	reálnou	reálný	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	amod	_	_
-10	hodnotou	hodnota	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	8	obj	_	_
+10	hodnotou	hodnota	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	8	obl:arg	_	_
 11	(	(	PUNCT	Z:-------------	_	7	punct	_	SpaceAfter=No
 12	realizovatelné	realizovatelný	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	14	amod	_	_
 13	cenné	cenný	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	14	amod	_	_
@@ -67,7 +67,7 @@ The following 22 pairs of parts of speech are connected with `dep`: <tt><a href=
 8	,	,	PUNCT	Z:-------------	_	11	punct	_	_
 9	které	který	DET	P4FP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	11	nsubj	_	_
 10	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
-11	předmětem	předmět	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	7	acl	_	_
+11	předmětem	předmět	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	7	acl:relcl	_	_
 12	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	11	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	11	punct	_	_
 14	(	(	PUNCT	Z:-------------	_	11	punct	_	SpaceAfter=No
@@ -100,7 +100,7 @@ The following 22 pairs of parts of speech are connected with `dep`: <tt><a href=
 8	,	,	PUNCT	Z:-------------	_	11	punct	_	_
 9	které	který	DET	P4FP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	11	nsubj	_	_
 10	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
-11	předmětem	předmět	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	7	acl	_	_
+11	předmětem	předmět	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	7	acl:relcl	_	_
 12	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	11	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	11	punct	_	_
 14	(	(	PUNCT	Z:-------------	_	11	punct	_	SpaceAfter=No

@@ -222,7 +222,7 @@ The most frequent other feature values with which `ADV` and `Animacy` co-occurre
 `ADV` tokens may have the following values of `Animacy`:
 
 * `Inan` (34; 100% of non-empty `Animacy`): <em>raz, ráz, razy</em>
-* `EMPTY` (4399): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
+* `EMPTY` (4411): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
 
 ## Relations with Agreement in `Animacy`
 

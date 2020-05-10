@@ -24,13 +24,13 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 10 flat	color:blue
 1	Okolo	okolo	ADP	Eu2	AdpType=Prep|Case=Gen	2	case	2:case	_
-2	neho	ono	PRON	PFns2	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obl	4:obl	_
+2	neho	ono	PRON	PFns2	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obl	4:obl:okolo:gen	_
 3	neskôr	neskôr	ADV	Dx	Degree=Pos	4	advmod	4:advmod	_
 4	vyrástlo	vyrásť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
 5	nové	nový	ADJ	AAns1x	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	6:amod	_
 6	mesto	mesto	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	4:nsubj	_
 7	nazývané	nazývaný	ADJ	Gtns1x	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	amod	6:amod	_
-8	Spalato	spalato	PROPN	SSns1:r	Case=Nom|Gender=Neut|Number=Sing	7	obl	7:obl	_
+8	Spalato	spalato	PROPN	SSns1:r	Case=Nom|Gender=Neut|Number=Sing	7	obl	7:obl:nom	_
 9	–	–	PUNCT	Z	_	10	punct	10:punct	_
 10	Split	split	PROPN	SSis1:r	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	flat	8:flat	SpaceAfter=No
 11	.	.	PUNCT	Z	_	4	punct	4:punct	_

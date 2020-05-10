@@ -26,12 +26,12 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 2	интересуюсь	интересоваться	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	20	advcl	_	_
 3	я	я	PRON	PRON	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
 4	спросить	спросить	VERB	VERB	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	_
-5	кто	кто	PRON	NOUN	Case=Nom	6	nsubj	_	_
+5	кто	кто	PRON	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 6	приказал	приказать	VERB	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
 7	нам	мы	PRON	PRON	Case=Dat|Number=Plur|Person=1	6	iobj	_	_
 8	долго	долго	ADV	ADV	Degree=Pos	9	advmod	_	_
 9	жить	жить	VERB	VERB	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	_
-10	кто	кто	PRON	NOUN	Case=Nom	12	nsubj	_	_
+10	кто	кто	PRON	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
 11	именно	именно	PART	PART	_	12	advmod	_	_
 12	лежит	лежать	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
 13	в	в	ADP	ADP	_	14	case	_	_

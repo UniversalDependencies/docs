@@ -54,8 +54,8 @@ The following 7 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 3	fgColor:white
 # visual-style 3 2 compound:redup	color:blue
 1	Çocuklar	çocuk	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
-2	kendi	kendi	PRON	_	Case=Nom|Number=Sing|Reflex=Yes	3	compound:redup	_	_
-3	kendilerine	kendi	PRON	_	Case=Dat|Number=Sing|Person=3|Reflex=Yes	1	nmod	_	_
+2	kendi	kendi	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	3	compound:redup	_	_
+3	kendilerine	kendi	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	nmod	_	_
 4	yıkanabilirler	yıka	VERB	_	Aspect=Hab|Mood=GenPot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 

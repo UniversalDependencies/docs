@@ -6,79 +6,79 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `PROPN`
 
-There are 969 `PROPN` lemmas (18%), 969 `PROPN` types (17%) and 1408 `PROPN` tokens (5%).
-Out of 15 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 3 in number of types and 6 in number of tokens.
+There are 831 `PROPN` lemmas (16%), 831 `PROPN` types (15%) and 1363 `PROPN` tokens (5%).
+Out of 16 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: 英国, 中国, 米国, フランス, オーストラリア, ギリシャ, ヨーロッパ, 地中海, ロシア, スペイン
+The 10 most frequent `PROPN` lemmas: 英国, 米国, 中国, アメリカ, フランス, ヨーロッパ, ローマ, スペイン, オーストラリア, ギリシャ
 
-The 10 most frequent `PROPN` types:  英国, 中国, 米国, フランス, オーストラリア, ギリシャ, ヨーロッパ, 地中海, ロシア, スペイン
+The 10 most frequent `PROPN` types:  英国, 米国, 中国, アメリカ, フランス, ヨーロッパ, ローマ, スペイン, オーストラリア, ギリシャ
 
-The 10 most frequent ambiguous lemmas: フランス (<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2), アメリカ (<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 北部 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 3), オリンピック (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2), 北 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2), 文明 (<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 「 (<tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> 92, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), その他 (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 6, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), トランプ (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), ヨーク (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2), キュリー (<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), フォン (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2), マーガレット (<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), クリスチャン (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), ゴール (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), ノース (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), ビル (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), ライン (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), 北海 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  フランス (<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2), アメリカ (<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 北部 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 3), オリンピック (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2), 北 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2), 文明 (<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 「 (<tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> 92, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), その他 (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 6, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), トランプ (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), ヨーク (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  キュリー (<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), フォン (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2), マーガレット (<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), クリスチャン (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), ゴール (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), ノース (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), ビル (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), ライン (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), 北海 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), 王 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1)
 
 
-* フランス
-  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 13: ベニス が 徴募 し た 大軍 に対する 攻勢 は 、 <b>フランス</b> から 始まっ た 。
-  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2: ヌーベル <b>フランス</b> の 、 まだ 定住化 さ れ て い なかっ た より 歴史 の 古い エリア に は 、 砦 も 建設 さ れ まし た 。
-* アメリカ
-  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 7: アメリカ大陸 の <b>アメリカ</b> 先住民 は 、 代表的 な 医療 処置 と し て 、 それ を 頻繁 に 利用 し て い まし た 。
-  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1: アマゾン は ExxonMobil を 上回る 時価総額 を 持つ 、 <b>アメリカ</b> 第 4 位 の 企業 に 成長 し た 。
-* 北部
-  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 4: このよう な 開拓地 は 、 東部 メラネシア人 が <b>北部</b> へ 移動 し た 紀元前 1000 年 頃 に 始まっ た 可能性 が あり ます 。
-  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 3: オンタリオ州 <b>北部</b> の 町 の 警察官 に よる と 、 9月 から の 煽動的 な Facebook の 投稿 について も 捜査 し て いる 。
-* オリンピック
-  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2: 最後 の 古代 <b>オリンピック</b> は 、 393 年 に 開催 さ れ た と 考え られ て いる 。
-  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2: 気象制御 に関する 最近 の 例 と し て は 、 2008 年 の 北京 <b>オリンピック</b> で 中国 が 実施 し た ケース が あり ます 。
-* 北
-  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3: 最 <b>北</b> の 地 で は タイガ 気候 が 支配的 で あり 、 シベリア の 大部分 の エリア を 占め て い た 。
-  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2: その 選挙区 は <b>北</b> ケスチーベン 地区 に あり 、 そこ で は 有権者 の 62 ％ が EU 離脱 を 支持 し て いる 。
-* 文明
-  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2: 紀元前 8 世紀 、 ギリシャ は ミケーネ <b>文明</b> の 没落 に 続く 暗黒時代 から 抜け出 よう と し て い た 。
-  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1: 古典 古代 において 最も 知ら れ て いる 地中海 文明 は 、 ギリシャ の 都市国家 と フェニキア人 の 2 つ で 、 いずれ の <b>文明</b> も 地中海 の 海岸線 を 広範囲 に 植民地化 し た 。
-* 「
-  * <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> 92: パバルカル 氏 は 、 <b>「</b> 建物 を 残す 必要 が ある と 感じ た とき が あっ た 。」 と 述べ た 。
-  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1: この メッセージ で 、 元 法務長官 は 、 ブリス ・ ホテフュー を 「 ファシスト 」 、 <b>「</b> （ ばか ） 内務 長官 」 、 「 刺客 」 である と 非難 し た 。
-* その他
-  * <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 6: 研究者 は 、 腫瘍 の DNA 分析 により <b>その他</b> の 癌 の 根本的 な 原因 が わかる かもしれ ない と 述べ て いる 。
-  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1: 「 最新 の イベント 」 は 、 Reddit 、 Twitter 、 Spotify や <b>その他</b> 多く の 人気 Web サイト が 簡潔 に 書い て いる 、 10月 21 日 の テロ 事件 である 可能性 が 高い 。
-* トランプ
-  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 4: なぜ 人々 が <b>トランプ</b> に 投票 する かもしれ ない か を 彼女 が 理解 し た か 、 最終的 に 彼女 に 尋ね た 。
-  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1: <b>トランプ</b> 氏 の 妻 、 メラニア・トランプ は 、 7月 の 共和党大会 以来 初めて 、 公 の 場 に 姿 を 現し た 。
-* ヨーク
-  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1: 娘 の セシリー が リチャード ・ プランタジネット （ 第 3 代 <b>ヨーク</b> 公 ） と 結婚 し 、 エドワード 4 世 や リチャード 3 世 を 含む 数人 の 子孫 が 生まれ 、 ジョーン は イングランド 王国 ヨーク 朝 の 2 人 の 王 の 祖母 と なっ た 。
-  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1: 娘 の セシリー が リチャード ・ プランタジネット （ 第 3 代 ヨーク 公 ） と 結婚 し 、 エドワード 4 世 や リチャード 3 世 を 含む 数人 の 子孫 が 生まれ 、 ジョーン は イングランド 王国 <b>ヨーク</b> 朝 の 2 人 の 王 の 祖母 と なっ た 。
+* キュリー
+  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2: ハンス ・ ペテルソン が ロナ の 費用 を 支払う 資金 を 確保 できる と 、 ジョリオ ＝ <b>キュリー</b> は ロナ に 、 パリ の <b>キュリー</b> 研究 所 に 来 て ポロニウム 分離 を 研究 する 許可 を 出し た 。
+  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1: メイヤー は 1926 年 に は 既に 、 彼 の ラボ で 独自 の ポロニウム 試料 を 作り出す 方法 に つい て 学ぶ ため に ロナ が 彼女 と 手 を 組む こと を 提案 し た 手紙 を 、 イレーヌ ・ ジョリオ ＝ <b>キュリー</b> に 送っ て い た 。
+* フォン
+  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 4: 平壌 で 、 一部 の 人々 が スマート <b>フォン</b> を 使っ て いる の を 見 た が 、 はるか に 少ない 数 だっ た 。
+  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2: <b>フォン</b> ・ ボイスト は 、 計画 不備 の ため コスト が 増加 し た 、 と 正当 化 し た 。
+* マーガレット
+  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 2: 彼女 の 最新 の ノンフィクション 作品 は 、 レノックス 伯爵 夫人 、 <b>マーガレット</b> ・ ダグラス に つい て の もの で ある 。
+  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1: 定期 超 音波 診断 から 始まっ た 事態 は 、 テキサス 州 プラノ の 、 妊娠 中 の 母 <b>マーガレット</b> ・ ボエーム が 、 彼女 の お腹 の 中 の 子 が 稀 な 状態 で 生存 の ため に 手術 が 必要 だ と 告げ られ た 時 に 複雑 化 し た 。
+* クリスチャン
+  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1: 中世 時代 に は 、 ほとんど の <b>クリスチャン</b> が 母国 語 で 聖書 を 読む こと は でき なかっ た 。
+  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1: 数多く の 鉄道 の 歴史 の 本 を 書い た <b>クリスチャン</b> ・ ウォルマー が 12 月 1日 の コンテスト に 登壇 し ます 。
+* ゴール
+  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1: 2004 年 の アテネ オリンピック で 、 ストリート レース の 優勝 者 と し て 、 ウルリッヒ は 彼 の 第 二 の 金 メダル を 獲得 する ため の <b>ゴール</b> に 向かっ て 走り 出し た 。
+  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1: ド ・ <b>ゴール</b> は 、 チャーチル に 対し 公 の 好意 を 必要 以上 に 見せる こと は ない と 指示 し 、 また 彼 の 事前 の 同意 なし に 公的 な 賞 も 与え て は なら ない と し た 。
+* ノース
+  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3: <b>ノース</b> カロライナ 州 は 、 この 選挙 で は グランド ゼロ に なる 。
+  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1: グラフトン 政権 は 1770 年 に 解体 し 、 <b>ノース</b> 卿 率いる トーリー 党 が 与党 に 復帰 し た 。
+* ビル
+  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1: それ は 、 また 、 バンコク で 最も 高い 建造 物 、 幻想 的 マハナコーン の よう な 現代 高層 <b>ビル</b> の 出現 を 煽っ て き た 。
+  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1: ヒッチコック は 、 彼 の 映画 を 適切 に 表現 する ポスター を 製作 できる 、 <b>ビル</b> ・ ゴールド や ソール ・ バス の よう な 映画 ポスター デザイナー など の 、 当時 最高 の 才能 を 備え た 人材 と 手 を 組む こと を 好ん だ 。
+* ライン
+  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3: 一 例 と し て 、 太平 洋 の <b>ライン</b> 諸島 と 、 インド 洋 の モルディブ 諸島 を 挙げ て いる 。
+  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1: スイス から 流れ て いる ヨーロッパ の 主要 河川 、 <b>ライン</b> 川 、 ローヌ 川 、 イン 川 、 ティチーノ 川 、 ポー 川 など 、 これ ら の すべて の 川 は 、 アルプス 山脈 に 上流 が あり 、 近隣 諸国 に 流入 し 、 最終 的 に は 北海 や 地中 海 、 アドリア 海 と 黒海 に まで 達し ます 。
+* 北海
+  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1: 16 世紀 以降 、 カリブ 海 地域 を 訪れ た ヨーロッパ 人 たち は 、 この エリア を 「 <b>北海</b> 」 （ 同じ 峡谷 の 北側 に ある カリブ 海 ） の 反対 で 、 「 南海 」 （ パナマ の 峡谷 の 南側 に ある 太平 洋 ） で ある と 認識 し た 。
+  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1: スイス から 流れ て いる ヨーロッパ の 主要 河川 、 ライン 川 、 ローヌ 川 、 イン 川 、 ティチーノ 川 、 ポー 川 など 、 これ ら の すべて の 川 は 、 アルプス 山脈 に 上流 が あり 、 近隣 諸国 に 流入 し 、 最終 的 に は <b>北海</b> や 地中 海 、 アドリア 海 と 黒海 に まで 達し ます 。
+* 王
+  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 5: 1350 年 代 に 恭愍 <b>王</b> は 、 元 王朝 の 崩壊 が 始まっ た 時 に 、 ついに 高麗 政権 を 改革 する 自由 を 得る こと が でき た 。
+  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1: 沈括 は 、 行政 官 および 政府 役人 と し て の 高い スキル と 能力 で 、 <b>王</b> 安石 を 感心 さ せ まし た 。
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.051333).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.049698).
 
 The 1st highest number of forms (1) was observed with the lemma “AKP”: AKP.
 
-The 2nd highest number of forms (1) was observed with the lemma “ANewEarthinNorthAmerica”: ANewEarthinNorthAmerica.
+The 2nd highest number of forms (1) was observed with the lemma “America”: America.
 
-The 3rd highest number of forms (1) was observed with the lemma “Anyway”: Anyway.
+The 3rd highest number of forms (1) was observed with the lemma “Amin”: Amin.
 
 `PROPN` does not occur with any features.
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 11 different relations: <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (542; 38% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (316; 22% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (266; 19% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (114; 8% instances), <tt><a href="ja_pud-dep-iobj.html">iobj</a></tt> (72; 5% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (57; 4% instances), <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (23; 2% instances), <tt><a href="ja_pud-dep-dislocated.html">dislocated</a></tt> (7; 0% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (3; 0% instances)
+`PROPN` nodes are attached to their parents using 9 different relations: <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (582; 43% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (324; 24% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (253; 19% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (143; 10% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (44; 3% instances), <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (11; 1% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (689; 49% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (473; 34% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (218; 15% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (21; 1% instances),  (4; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (761; 56% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (410; 30% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (175; 13% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances),  (3; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances)
 
-327 (23%) `PROPN` nodes are leaves.
+582 (43%) `PROPN` nodes are leaves.
 
-604 (43%) `PROPN` nodes have one child.
+419 (31%) `PROPN` nodes have one child.
 
-287 (20%) `PROPN` nodes have two children.
+173 (13%) `PROPN` nodes have two children.
 
-190 (13%) `PROPN` nodes have three or more children.
+189 (14%) `PROPN` nodes have three or more children.
 
-The highest child degree of a `PROPN` node is 7.
+The highest child degree of a `PROPN` node is 10.
 
-Children of `PROPN` nodes are attached using 16 different relations: <tt><a href="ja_pud-dep-case.html">case</a></tt> (895; 49% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (294; 16% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (283; 15% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (231; 13% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (63; 3% instances), <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (23; 1% instances), <tt><a href="ja_pud-dep-cc.html">cc</a></tt> (11; 1% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (11; 1% instances), <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (8; 0% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (6; 0% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 15 different relations: <tt><a href="ja_pud-dep-case.html">case</a></tt> (779; 52% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (321; 21% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (182; 12% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (134; 9% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (46; 3% instances), <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (16; 1% instances), <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (7; 0% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (6; 0% instances), <tt><a href="ja_pud-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (5; 0% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (907; 49% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (283; 15% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (218; 12% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (203; 11% instances), <tt><a href="ja_pud-pos-SYM.html">SYM</a></tt> (141; 8% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (39; 2% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (20; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Children of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (779; 52% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (198; 13% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (182; 12% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (175; 12% instances), <tt><a href="ja_pud-pos-SYM.html">SYM</a></tt> (112; 7% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (29; 2% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

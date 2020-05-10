@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Tanja Samardžić, Nikola Ljubešić.
 
 Repository: [UD_Serbian-SET](https://github.com/UniversalDependencies/UD_Serbian-SET)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsr_set25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsr_set26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 
@@ -62,7 +62,7 @@ additional news documents from the Serbian web.
 
 ## Relations
 
-[acl](sr_set-dep-acl.html) – [advcl](sr_set-dep-advcl.html) – [advmod](sr_set-dep-advmod.html) – [amod](sr_set-dep-amod.html) – [appos](sr_set-dep-appos.html) – [aux](sr_set-dep-aux.html) – [case](sr_set-dep-case.html) – [cc](sr_set-dep-cc.html) – [ccomp](sr_set-dep-ccomp.html) – [compound](sr_set-dep-compound.html) – [conj](sr_set-dep-conj.html) – [cop](sr_set-dep-cop.html) – [csubj](sr_set-dep-csubj.html) – [dep](sr_set-dep-dep.html) – [det](sr_set-dep-det.html) – [det:numgov](sr_set-dep-det-numgov.html) – [discourse](sr_set-dep-discourse.html) – [fixed](sr_set-dep-fixed.html) – [flat](sr_set-dep-flat.html) – [iobj](sr_set-dep-iobj.html) – [list](sr_set-dep-list.html) – [mark](sr_set-dep-mark.html) – [nmod](sr_set-dep-nmod.html) – [nsubj](sr_set-dep-nsubj.html) – [nummod](sr_set-dep-nummod.html) – [nummod:gov](sr_set-dep-nummod-gov.html) – [obj](sr_set-dep-obj.html) – [obl](sr_set-dep-obl.html) – [orphan](sr_set-dep-orphan.html) – [parataxis](sr_set-dep-parataxis.html) – [punct](sr_set-dep-punct.html) – [root](sr_set-dep-root.html) – [vocative](sr_set-dep-vocative.html) – [xcomp](sr_set-dep-xcomp.html)
+[acl](sr_set-dep-acl.html) – [advcl](sr_set-dep-advcl.html) – [advmod](sr_set-dep-advmod.html) – [amod](sr_set-dep-amod.html) – [appos](sr_set-dep-appos.html) – [aux](sr_set-dep-aux.html) – [case](sr_set-dep-case.html) – [cc](sr_set-dep-cc.html) – [ccomp](sr_set-dep-ccomp.html) – [compound](sr_set-dep-compound.html) – [conj](sr_set-dep-conj.html) – [cop](sr_set-dep-cop.html) – [csubj](sr_set-dep-csubj.html) – [dep](sr_set-dep-dep.html) – [det](sr_set-dep-det.html) – [det:numgov](sr_set-dep-det-numgov.html) – [discourse](sr_set-dep-discourse.html) – [expl](sr_set-dep-expl.html) – [fixed](sr_set-dep-fixed.html) – [flat](sr_set-dep-flat.html) – [iobj](sr_set-dep-iobj.html) – [list](sr_set-dep-list.html) – [mark](sr_set-dep-mark.html) – [nmod](sr_set-dep-nmod.html) – [nsubj](sr_set-dep-nsubj.html) – [nummod](sr_set-dep-nummod.html) – [nummod:gov](sr_set-dep-nummod-gov.html) – [obj](sr_set-dep-obj.html) – [obl](sr_set-dep-obl.html) – [orphan](sr_set-dep-orphan.html) – [parataxis](sr_set-dep-parataxis.html) – [punct](sr_set-dep-punct.html) – [root](sr_set-dep-root.html) – [vocative](sr_set-dep-vocative.html) – [xcomp](sr_set-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -103,7 +103,7 @@ additional news documents from the Serbian web.
 </ul>
 
 <ul>
-<li>This corpus contains 57 lemmas tagged as determiners (DET): alfa, bilo, dovoljno, dva, dve, ikakav, jedan, još, kakav, ko, koji, koliki, koliko, la, malo, mi, mnogi, mnogo, moj, naš, neka, nekakav, neki, nekoliko, nečiji, nijedan, nikakav, njegov, njen, njihov, oba, odsto, onaj, onoliko, ostali, ovaj, ovakav, pola, previše, puno, sam, sav, svaki, svačiji, sve, svoj, taj, takav, takođe, te, to, toliki, toliko, tvoj, vaš, čiji, što</li>
+<li>This corpus contains 57 lemmas tagged as determiners (DET): alfa, bilo, dovoljno, ikakav, jedan, još, kakav, ko, koji, koliki, koliko, la, malo, mi, mnogi, mnogo, moj, naš, neka, nekakav, neki, nekoliko, nečiji, nijedan, nikakav, njegov, njen, njihov, oba, odsto, oko, onaj, onoliko, ostali, ovaj, ovakav, pola, previše, puno, sam, sav, skoro, svaki, svačiji, sve, svoj, taj, takav, takođe, te, to, toliki, toliko, tvoj, vaš, čiji, što</li>
 </ul>
 
 <ul>
@@ -111,11 +111,11 @@ additional news documents from the Serbian web.
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): biti, dobiti, hajde, hteti, neće, priča, vršiti, će</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): biti, hteti</li>
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: biti, dobiti, hteti, vršiti</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: biti, hteti</li>
 </ul>
 
 <ul>
@@ -201,7 +201,7 @@ additional news documents from the Serbian web.
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: potrebno, moguće, sve, ljudskih, ljudska, održano, radnih, važno, Crnog, drugo</li>
+      <li>ADJ: potrebno, moguće, ljudskih, sve, ljudska, održano, radnih, važno, Crnog, drugo</li>
       <li>ADJ-Part: održano, povređeno, objavljenom, razgovarano, uhapšeno, saopšteno, zaključeno, data, omogućeno, otkriveno</li>
       <li>AUX-Part: bilo, bila</li>
       <li>DET: to, toga, tome, koja, koje, ovo, sve, svoje, tom, tim</li>
@@ -254,7 +254,7 @@ additional news documents from the Serbian web.
     <ul>
       <li>ADJ: inostranih, političkih, mnogi, drugim, unutrašnjih, novih, nove, drugih, drugi, kiparskih</li>
       <li>ADJ-Part: izloženi, održani, počinjeni, završene, data, integrisane, osumnjičenih, otvorena, podignute, povezane</li>
-      <li>AUX-Fin: su, smo, bi, će, nisu, budu, ćemo, bismo, neće, ste</li>
+      <li>AUX-Fin: su, smo, bi, će, nisu, budu, ćemo, biće, bismo, neće</li>
       <li>AUX-Part: bili, bile, bila</li>
       <li>DET: koji, koje, svoje, kojima, sve, neki, koja, svojih, svi, svih</li>
       <li>NOUN: evra, godina, poslova, ljudi, zemalja, miliona, prava, vlasti, dana, zemlje</li>
@@ -327,7 +327,7 @@ additional news documents from the Serbian web.
       <li>ADP: od, iz, do, protiv, posle, zbog, između, tokom, sa, pre</li>
       <li>DET: ove, toga, tog, ovog, svog, svojih, svih, te, tih, svoje</li>
       <li>NOUN: godine, evra, godina, zemlje, poslova, miliona, zemalja, vlade, nedelje, dana</li>
-      <li>NUM: jedne, jednog, prvih, drugih, prvog, devedesetih, dveju, dve, prve, druge</li>
+      <li>NUM: jedne, jednog, dve, prvih, drugih, prvog, devedesetih, dveju, prve, druge</li>
       <li>PRON: njih, njega, nas, čega, ih, sebe, nje, kog, nekoga</li>
       <li>PROPN: Kosova, Srbije, Turske, Evrope, UN-a, Makedonije, Hrvatske, Bugarske, NATO-a, Albanije</li>
     </ul>
@@ -485,7 +485,6 @@ additional news documents from the Serbian web.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: Hajde</li>
       <li>VERB-Fin: recimo, Zauzmi, dozvolite, obećajmo, ponašajte</li>
     </ul>
   </li>
@@ -494,7 +493,7 @@ additional news documents from the Serbian web.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: je, su, će, nije, bude, smo, nisu, neće, sam, budu</li>
+      <li>AUX-Fin: je, su, će, nije, bude, smo, nisu, neće, sam, biće</li>
       <li>VERB-Fin: kaže, ima, može, treba, mora, mogu, navodi, postoji, kažu, očekuje</li>
     </ul>
   </li>
@@ -507,7 +506,7 @@ additional news documents from the Serbian web.
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: biće</li>
+      <li>AUX-Fin: biće, Bićemo</li>
       <li>VERB-Fin: biće, doneće, imaće, moraće, predstavljaće, zavisiće, dobiće, otvoriće, Ostvarićemo, Preduzećemo</li>
     </ul>
   </li>
@@ -569,6 +568,7 @@ additional news documents from the Serbian web.
     <ul>
       <li>ADV: sada, tako, onda, tu, ovde, zato, tada, toliko, tamo, onako</li>
       <li>DET: to, ove, toga, taj, te, tom, ta, tome, tog, ovog</li>
+      <li>NUM: dve</li>
     </ul>
   </li>
 </ul>
@@ -607,6 +607,7 @@ additional news documents from the Serbian web.
   <li>Prs
     <ul>
       <li>DET: svoje, svoj, svoju, svog, svojih, njegova, njegov, svojim, svom, njegovog</li>
+      <li>NUM: dve</li>
       <li>PRON: se, on, ona, oni, ga, mi, ih, im, njega, njih</li>
     </ul>
   </li>
@@ -645,7 +646,7 @@ additional news documents from the Serbian web.
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: 2008., 2006., 2004, 2010, 2011., 1999., 2004., 2007., 2009., 2011</li>
+      <li>ADJ: 2008., 2006., 2004, 2010, 2011., 2004., 2007., 2009., 2011, 1998</li>
       <li>NUM: 21., 1., 2007., 9., 28., 12., 17., 2004., 11., 14.</li>
     </ul>
   </li>
@@ -660,6 +661,7 @@ additional news documents from the Serbian web.
     <ul>
       <li>ADJ: nevladine, Ešdaunova, Ahtisarijev, Burkajev, nevladinih, vladinih, Nobelove, vladini, Đinđićeve, Erdoganove</li>
       <li>DET: svoje, svoj, svoju, svog, svojih, njegova, njegov, svojim, svom, njegovog</li>
+      <li>NUM: dve</li>
     </ul>
   </li>
 </ul>
@@ -695,7 +697,7 @@ additional news documents from the Serbian web.
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: ste, jeste, Hajde, ćete</li>
+      <li>AUX-Fin: ste, jeste, ćete</li>
       <li>DET: vaša, vaše, vašem, tvojim, vaš</li>
       <li>PRON: vam, vama, vas, vi</li>
       <li>VERB-Fin: očekujete, možete, tražite, želite, Oblačite, Trudite, Zauzmi, dobijete, dozvolite, gasite</li>
@@ -706,8 +708,9 @@ additional news documents from the Serbian web.
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: je, su, će, bi, nije, bude, nisu, neće, budu, biće</li>
+      <li>AUX-Fin: je, su, će, bi, nije, bude, nisu, neće, biće, budu</li>
       <li>DET: njegova, njegov, njegovog, njen, njihov, njegove, njihove, njegovih, njegovim, njegovom</li>
+      <li>NUM: dve</li>
       <li>PRON: on, ona, oni, ga, ih, im, njega, njih, mu, ono</li>
       <li>VERB-Fin: kaže, ima, može, treba, mora, mogu, navodi, postoji, kažu, očekuje</li>
     </ul>
@@ -764,11 +767,11 @@ additional news documents from the Serbian web.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: biti, period.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: biti.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: biti, hteti, neće, sebe, bivati, na, neka, će.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: biti, hteti.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -781,14 +784,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Gen (72)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(od) (7)</li>
-      <li>VERB-Fin--NOUN-Nom (1430)</li>
+      <li>VERB-Fin--NOUN-Nom (1429)</li>
       <li>VERB-Fin--PRON-Acc (4)</li>
       <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
       <li>VERB-Fin--PRON-Nom (162)</li>
       <li>VERB-Inf--NOUN-Acc (4)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (184)</li>
+      <li>VERB-Inf--NOUN-Nom (185)</li>
       <li>VERB-Inf--PRON-Acc (5)</li>
       <li>VERB-Inf--PRON-Nom (24)</li>
       <li>VERB-Part--NOUN-Acc (5)</li>
@@ -810,7 +813,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (1257)</li>
+      <li>VERB-Fin--NOUN-Acc (1259)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(oko) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Fin--NOUN-Dat (3)</li>
@@ -861,5 +864,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 2 relation subtypes: <a>det:numgov</a>, <a>nummod:gov</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

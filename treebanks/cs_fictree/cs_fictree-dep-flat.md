@@ -66,8 +66,8 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 2	všecko	všecek	PRON	PLNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	1	obj	1:obj	_
 3	připravené	připravený	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	2	xcomp	2:xcomp	_
 4	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	5:case	_
-5	hodinu	hodina	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	3:obl	_
-6	pana	pan	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	5:nmod	_
+5	hodinu	hodina	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	3:obl:na:acc	_
+6	pana	pan	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	5:nmod:gen	_
 7	profesora	profesor	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	6	flat	6:flat	_
 8	Jiráska	Jirásek	PROPN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	6	flat	6:flat	SpaceAfter=No
 9	?	?	PUNCT	Z:-------------	_	1	punct	1:punct	_

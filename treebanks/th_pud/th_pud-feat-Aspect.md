@@ -22,9 +22,9 @@ The most frequent other feature values with which `PART` and `Aspect` co-occurre
 
 `PART` tokens may have the following values of `Aspect`:
 
-* `Perf` (289; 72% of non-empty `Aspect`): <em>ได้, แล้ว, มา, เคย, การได้, อยู่, แลัว</em>
-* `Prog` (112; 28% of non-empty `Aspect`): <em>อยู่, ยัง, กำลัง, ยังคง, ค่อนข้าง</em>
-* `EMPTY` (608): <em>ไม่, ไป, มา, ขึ้น, ออก, ลง, เข้า, หรือไม่, หรอก, หรือเปล่า</em>
+* `Perf` (289; 72% of non-empty `Aspect`): ได้, แล้ว, มา, เคย, การได้, อยู่, แลัว
+* `Prog` (112; 28% of non-empty `Aspect`): อยู่, ยัง, กำลัง, ยังคง, ค่อนข้าง
+* `EMPTY` (608): ไม่, ไป, มา, ขึ้น, ออก, ลง, เข้า, หรือไม่, หรอก, หรือเปล่า
 
 ## Relations with Agreement in `Aspect`
 

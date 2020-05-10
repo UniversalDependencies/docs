@@ -166,7 +166,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5967; 98%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (3163; 93%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1468; 81%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (453; 70%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (451; 70%),
 <tt>ADP --[<tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (258; 100%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (187; 88%),
 <tt>DET --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (110; 94%),

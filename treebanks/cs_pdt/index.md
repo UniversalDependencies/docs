@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Jan Hajič.
 
 Repository: [UD_Czech-PDT](https://github.com/UniversalDependencies/UD_Czech-PDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pdt25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pdt26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -101,7 +101,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
 
 ## Relations
 
-[acl](cs_pdt-dep-acl.html) – [advcl](cs_pdt-dep-advcl.html) – [advmod](cs_pdt-dep-advmod.html) – [advmod:emph](cs_pdt-dep-advmod-emph.html) – [amod](cs_pdt-dep-amod.html) – [appos](cs_pdt-dep-appos.html) – [aux](cs_pdt-dep-aux.html) – [aux:pass](cs_pdt-dep-aux-pass.html) – [case](cs_pdt-dep-case.html) – [cc](cs_pdt-dep-cc.html) – [ccomp](cs_pdt-dep-ccomp.html) – [compound](cs_pdt-dep-compound.html) – [conj](cs_pdt-dep-conj.html) – [cop](cs_pdt-dep-cop.html) – [csubj](cs_pdt-dep-csubj.html) – [csubj:pass](cs_pdt-dep-csubj-pass.html) – [dep](cs_pdt-dep-dep.html) – [det](cs_pdt-dep-det.html) – [det:numgov](cs_pdt-dep-det-numgov.html) – [det:nummod](cs_pdt-dep-det-nummod.html) – [discourse](cs_pdt-dep-discourse.html) – [expl:pass](cs_pdt-dep-expl-pass.html) – [expl:pv](cs_pdt-dep-expl-pv.html) – [fixed](cs_pdt-dep-fixed.html) – [flat](cs_pdt-dep-flat.html) – [flat:foreign](cs_pdt-dep-flat-foreign.html) – [iobj](cs_pdt-dep-iobj.html) – [mark](cs_pdt-dep-mark.html) – [nmod](cs_pdt-dep-nmod.html) – [nsubj](cs_pdt-dep-nsubj.html) – [nsubj:pass](cs_pdt-dep-nsubj-pass.html) – [nummod](cs_pdt-dep-nummod.html) – [nummod:gov](cs_pdt-dep-nummod-gov.html) – [obj](cs_pdt-dep-obj.html) – [obl](cs_pdt-dep-obl.html) – [obl:agent](cs_pdt-dep-obl-agent.html) – [obl:arg](cs_pdt-dep-obl-arg.html) – [orphan](cs_pdt-dep-orphan.html) – [parataxis](cs_pdt-dep-parataxis.html) – [punct](cs_pdt-dep-punct.html) – [root](cs_pdt-dep-root.html) – [vocative](cs_pdt-dep-vocative.html) – [xcomp](cs_pdt-dep-xcomp.html)
+[acl](cs_pdt-dep-acl.html) – [acl:relcl](cs_pdt-dep-acl-relcl.html) – [advcl](cs_pdt-dep-advcl.html) – [advmod](cs_pdt-dep-advmod.html) – [advmod:emph](cs_pdt-dep-advmod-emph.html) – [amod](cs_pdt-dep-amod.html) – [appos](cs_pdt-dep-appos.html) – [aux](cs_pdt-dep-aux.html) – [aux:pass](cs_pdt-dep-aux-pass.html) – [case](cs_pdt-dep-case.html) – [cc](cs_pdt-dep-cc.html) – [ccomp](cs_pdt-dep-ccomp.html) – [compound](cs_pdt-dep-compound.html) – [conj](cs_pdt-dep-conj.html) – [cop](cs_pdt-dep-cop.html) – [csubj](cs_pdt-dep-csubj.html) – [csubj:pass](cs_pdt-dep-csubj-pass.html) – [dep](cs_pdt-dep-dep.html) – [det](cs_pdt-dep-det.html) – [det:numgov](cs_pdt-dep-det-numgov.html) – [det:nummod](cs_pdt-dep-det-nummod.html) – [discourse](cs_pdt-dep-discourse.html) – [expl:pass](cs_pdt-dep-expl-pass.html) – [expl:pv](cs_pdt-dep-expl-pv.html) – [fixed](cs_pdt-dep-fixed.html) – [flat](cs_pdt-dep-flat.html) – [flat:foreign](cs_pdt-dep-flat-foreign.html) – [iobj](cs_pdt-dep-iobj.html) – [mark](cs_pdt-dep-mark.html) – [nmod](cs_pdt-dep-nmod.html) – [nsubj](cs_pdt-dep-nsubj.html) – [nsubj:pass](cs_pdt-dep-nsubj-pass.html) – [nummod](cs_pdt-dep-nummod.html) – [nummod:gov](cs_pdt-dep-nummod-gov.html) – [obj](cs_pdt-dep-obj.html) – [obl](cs_pdt-dep-obl.html) – [obl:arg](cs_pdt-dep-obl-arg.html) – [orphan](cs_pdt-dep-orphan.html) – [parataxis](cs_pdt-dep-parataxis.html) – [punct](cs_pdt-dep-punct.html) – [root](cs_pdt-dep-root.html) – [vocative](cs_pdt-dep-vocative.html) – [xcomp](cs_pdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -1492,45 +1492,36 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Conv--NOUN (1)</li>
       <li>VERB-Conv--NOUN-Acc (17)</li>
-      <li>VERB-Conv--NOUN-Gen (2)</li>
-      <li>VERB-Conv--NOUN-Ins (8)</li>
       <li>VERB-Conv--PRON-Acc (2)</li>
-      <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN (89)</li>
       <li>VERB-Fin--NOUN-Acc (14709)</li>
-      <li>VERB-Fin--NOUN-Dat (952)</li>
-      <li>VERB-Fin--NOUN-Gen (1335)</li>
-      <li>VERB-Fin--NOUN-Ins (535)</li>
+      <li>VERB-Fin--NOUN-Gen (677)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(na) (3)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(o) (6)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(za) (2)</li>
       <li>VERB-Fin--NOUN-Nom (43)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
       <li>VERB-Fin--PRON-Acc (2003)</li>
-      <li>VERB-Fin--PRON-Dat (730)</li>
-      <li>VERB-Fin--PRON-Gen (95)</li>
-      <li>VERB-Fin--PRON-Ins (25)</li>
+      <li>VERB-Fin--PRON-Gen (19)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (31)</li>
       <li>VERB-Inf--NOUN-Acc (9904)</li>
-      <li>VERB-Inf--NOUN-Dat (507)</li>
-      <li>VERB-Inf--NOUN-Gen (692)</li>
-      <li>VERB-Inf--NOUN-Ins (254)</li>
+      <li>VERB-Inf--NOUN-Gen (266)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(na) (2)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(o) (1)</li>
       <li>VERB-Inf--NOUN-Nom (19)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (1438)</li>
-      <li>VERB-Inf--PRON-Dat (203)</li>
-      <li>VERB-Inf--PRON-Gen (50)</li>
-      <li>VERB-Inf--PRON-Ins (20)</li>
+      <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Nom (6)</li>
       <li>VERB-Part--NOUN (61)</li>
       <li>VERB-Part--NOUN-Acc (13382)</li>
-      <li>VERB-Part--NOUN-Dat (752)</li>
-      <li>VERB-Part--NOUN-Gen (1409)</li>
-      <li>VERB-Part--NOUN-Ins (600)</li>
+      <li>VERB-Part--NOUN-Gen (733)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(na) (1)</li>
       <li>VERB-Part--NOUN-Nom (22)</li>
       <li>VERB-Part--PRON (2)</li>
       <li>VERB-Part--PRON-Acc (1869)</li>
-      <li>VERB-Part--PRON-Dat (517)</li>
-      <li>VERB-Part--PRON-Gen (70)</li>
-      <li>VERB-Part--PRON-Ins (15)</li>
+      <li>VERB-Part--PRON-Gen (17)</li>
     </ul>
   </li>
 </ul>
@@ -1538,38 +1529,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Acc (149)</li>
-      <li>VERB-Fin--NOUN-Dat (560)</li>
-      <li>VERB-Fin--NOUN-Gen (22)</li>
-      <li>VERB-Fin--NOUN-Ins (62)</li>
+      <li>VERB-Fin--NOUN-Gen (12)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(na) (1)</li>
       <li>VERB-Fin--NOUN-Nom (4)</li>
       <li>VERB-Fin--PRON-Acc (79)</li>
-      <li>VERB-Fin--PRON-Dat (592)</li>
-      <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Fin--PRON-Ins (5)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Inf--NOUN-Acc (61)</li>
-      <li>VERB-Inf--NOUN-Dat (442)</li>
-      <li>VERB-Inf--NOUN-Gen (19)</li>
-      <li>VERB-Inf--NOUN-Ins (70)</li>
+      <li>VERB-Inf--NOUN-Gen (3)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON-Acc (28)</li>
-      <li>VERB-Inf--PRON-Dat (354)</li>
-      <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Inf--PRON-Ins (7)</li>
       <li>VERB-Part--NOUN (4)</li>
       <li>VERB-Part--NOUN-Acc (200)</li>
-      <li>VERB-Part--NOUN-Dat (757)</li>
-      <li>VERB-Part--NOUN-Gen (38)</li>
-      <li>VERB-Part--NOUN-Ins (94)</li>
+      <li>VERB-Part--NOUN-Gen (9)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(za) (1)</li>
       <li>VERB-Part--NOUN-Nom (9)</li>
       <li>VERB-Part--PRON-Acc (113)</li>
-      <li>VERB-Part--PRON-Dat (822)</li>
-      <li>VERB-Part--PRON-Gen (12)</li>
-      <li>VERB-Part--PRON-Ins (3)</li>
+      <li>VERB-Part--PRON-Gen (1)</li>
     </ul>
   </li>
 </ul>
@@ -1589,16 +1567,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 656 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: představit se, seznámit se, koupit si, říci si, prosadit se, přečíst si, nechat se, klást si, dát si, připomenout si, připsat si, spojit se, nechat si, položit si, střídat se, říkat si, zajistit si, ponechat si, poradit si, prezentovat se, vysvětlovat si, připravit se, učit se, znát se, bránit se, protnout se, považovat se, představovat se, vysvětlit si, dostat se, připomínat si, připravovat se, uživit se, vystřídat se, zařadit se, dovolit si, kupovat si, pomáhat si, přihlásit se, přizpůsobit se, stanovit si, zapsat se, živit se, orientovat se, pomoci si, ponechávat si, prosazovat se, skrývat se, udržet se, ujasnit si</li>
+  <li>This corpus contains 440 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: představit se, seznámit se, prosadit se, nechat se, spojit se, střídat se, prezentovat se, připravit se, učit se, znát se, bránit se, protnout se, považovat se, představovat se, dostat se, připravovat se, uživit se, vystřídat se, zařadit se, přihlásit se, přizpůsobit se, zapsat se, živit se, orientovat se, prosazovat se, skrývat se, udržet se, zachránit se, připojistit se, rozdělit se, zapojit se, oběsit se, ovlivňovat se, potkat se, prohlásit se, držet se, hlásit se, omluvit se, pojistit se, profilovat se, přesunout se, připojit se, ukázat se, zbavit se, kvalifikovat se, nechávat se, podepsat se, posílit se, prolínat se, sjednotit se</li>
     <ul>
-      <li>Out of those, 15 lemmas occurred more than once, but never without a reflexive dependent. Examples: připojistit, prolínat, transformující, dotýkat, koupat, navléknout, obalamutit, objímat, osamostatnit, potřást, překrývající, specializovat, vykoupat, zabarikádovat, zadlužit</li>
+      <li>Out of those, 13 lemmas occurred more than once, but never without a reflexive dependent. Examples: připojistit, prolínat, transformující, dotýkat, koupat, obalamutit, objímat, osamostatnit, překrývající, specializovat, vykoupat, zabarikádovat, zadlužit</li>
     </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 12 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

@@ -8,79 +8,76 @@ udver: '2'
 
 This relation is universal.
 
-402 nodes (3%) are attached to their parents as `case`.
+4085 nodes (3%) are attached to their parents as `case`.
 
-399 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.73383084577114.
+4084 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.84675642594859.
 
-The following 16 pairs of parts of speech are connected with `case`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (240; 60% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (44; 11% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (29; 7% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (22; 5% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (20; 5% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (13; 3% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `case`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2527; 62% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (647; 16% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (460; 11% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (133; 3% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (91; 2% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (73; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (58; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (45; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (31; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 11 case	color:blue
-1	#	#	PUNCT	_	_	6	punct	_	_
-2	anyway	anyway	ADV	_	_	6	advmod	_	_
-3	<	<	PUNCT	_	_	2	punct	_	_
-4	#	#	PUNCT	_	_	2	punct	_	_
-5	we	we	PRON	_	_	6	nsubj	_	_
-6	thank	thank	VERB	_	_	0	root	_	_
-7	God	God	PROPN	_	_	6	obj	_	_
-8	sey	sey	SCONJ	_	_	10	mark	_	_
-9	nobody	nobody	NOUN	_	_	10	nsubj	_	_
-10	die	die	VERB	_	_	6	ccomp	_	_
-11	inside	inside	ADP	_	_	13	case	_	_
-12	dis	dis	DET	_	_	13	det	_	_
-13	rain	rain	NOUN	_	_	10	obl:arg	_	_
-14	o	o	ADV	PART	_	13	advmod:emph	_	_
-15	//	//	PUNCT	_	_	6	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 case	color:blue
+1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=23422|AlignEnd=23583|Gloss=PUNCT
+2	meh	make	AUX	_	Mood=Opt	5	aux	_	AlignBegin=23583|AlignEnd=23707|Gloss=SBJV
+3	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=23707|AlignEnd=23758|Gloss=ACC.SG.1
+4	a	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=23788|AlignEnd=23907|Gloss=NOM.SG.1
+5	go	go	VERB	_	_	0	root	_	AlignBegin=23907|AlignEnd=24107|Gloss=go
+6	for	for	ADP	_	_	7	case	_	AlignBegin=24107|AlignEnd=24297|Gloss=for
+7	school	school	NOUN	_	_	5	obl:arg	_	AlignBegin=24297|AlignEnd=24577|Gloss=school
+8	first	first	ADV	_	_	5	advmod	_	AlignBegin=24577|AlignEnd=24826|Gloss=first
+9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=24826|AlignEnd=24856|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 case	color:blue
-1	I	I	PRON	_	_	3	nsubj	_	_
-2	just	just	ADV	_	_	3	advmod	_	_
-3	tire	tire	VERB	_	_	0	root	_	_
-4	for	for	ADP	_	_	5	case	_	_
-5	dem	dem	PRON	_	_	3	obl:arg	_	_
-6	o	o	ADV	PART	_	5	advmod:emph	_	_
-7	//	//	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 8 case	color:blue
-1	anything	anything	NOUN	_	_	15	dislocated	_	_
-2	wey	wey	SCONJ	_	_	4	mark	_	_
-3	I	I	PRON	_	_	4	nsubj	_	_
-4	get	get	VERB	_	_	1	acl:relcl	_	_
-5	to	to	ADP	_	_	7	mark	_	_
-6	dey	dey	AUX	_	_	7	aux	_	_
-7	do	do	VERB	_	_	4	xcomp	_	_
-8	for	for	ADP	_	_	10	case	_	_
-9	dis	dis	DET	_	_	10	det	_	_
-10	Nigeria	Nigeria	PROPN	_	_	7	obl:arg	_	_
-11	<	<	PUNCT	_	_	15	punct	_	_
-12	make	make	AUX	_	_	15	aux	_	_
-13	I	I	PRON	_	_	15	nsubj	_	_
-14	dey	dey	AUX	_	_	15	aux	_	_
-15	do	do	VERB	_	_	0	root	_	_
-16	am	am	PRON	_	_	15	obj	_	_
-17	//	//	PUNCT	_	_	15	punct	_	_
+# visual-style 10 9 case	color:blue
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=64011|AlignEnd=64514|Gloss=PUNCT
+2	dey	dey	AUX	_	Aspect=Imp	3	aux	_	AlignBegin=64514|AlignEnd=64584|Gloss=IPFV
+3	use	use	VERB	_	_	0	root	_	AlignBegin=64584|AlignEnd=64774|Gloss=use
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	AlignBegin=64774|AlignEnd=64944|Gloss=ACC.SG.3
+5	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=64944|AlignEnd=64974|Gloss=PUNCT
+6	dey	dey	AUX	_	Aspect=Imp	7	aux	_	AlignBegin=64974|AlignEnd=65064|Gloss=IPFV
+7	take	take	VERB	_	_	3	parataxis:conj	_	AlignBegin=65064|AlignEnd=65264|Gloss=take
+8	care	care	NOUN	_	_	7	obj:lvc	_	AlignBegin=65264|AlignEnd=65464|Gloss=care
+9	of	of	ADP	_	_	10	case	_	AlignBegin=65464|AlignEnd=65644|Gloss=of
+10	ourself	oursef	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	7	obl:arg	_	AlignBegin=65644|AlignEnd=66002|Gloss=ACC.PL.1.REFL
+11	//	//	PUNCT	_	_	3	punct	_	AlignBegin=66002|AlignEnd=66032|Gloss=PUNCT
+
+~~~
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 14 case	color:blue
+1	#	#	PUNCT	_	_	8	punct	_	AlignBegin=99890|AlignEnd=100444|Gloss=PUNCT
+2	so	so	SCONJ	_	_	8	discourse	_	AlignBegin=100444|AlignEnd=100579|EXTPOS=SCONJ|Gloss=so
+3	dat	dat	DET	_	Number=Sing|PronType=Dem	5	det	_	AlignBegin=100579|AlignEnd=100877|EXTPOS=SCONJ|Gloss=SG.DIST.DEM
+4	#	#	PUNCT	_	_	3	punct	_	AlignBegin=100877|AlignEnd=101323|Gloss=PUNCT
+5	moment	moment	NOUN	_	_	8	dislocated	_	AlignBegin=101323|AlignEnd=101735|Gloss=moment
+6	<	<	PUNCT	_	_	5	punct	_	AlignBegin=101735|AlignEnd=101765|Gloss=PUNCT
+7	#	#	PUNCT	_	_	5	punct	_	AlignBegin=101765|AlignEnd=102107|Gloss=PUNCT
+8	na	na	AUX	_	PartType=Cop	0	root	_	AlignBegin=102107|AlignEnd=102310|EXTPOS=SCONJ|Gloss=be
+9	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	fixed	_	AlignBegin=102107|AlignEnd=102310|Gloss=NOM.SG.3
+10	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	11	nmod:poss	_	AlignBegin=102310|AlignEnd=102430|Gloss=SG.1.POSS
+11	uncle	uncle	NOUN	_	_	13	nsubj	_	AlignBegin=102430|AlignEnd=102650|Gloss=uncle
+12	con	con	AUX	_	Aspect=Cons	13	aux	_	AlignBegin=102650|AlignEnd=102830|Gloss=CONS
+13	come	come	VERB	_	_	8	advcl:cleft	_	AlignBegin=102830|AlignEnd=103090|Gloss=come
+14	from	from	ADP	_	_	15	case	_	AlignBegin=103090|AlignEnd=103350|Gloss=from
+15	Abuja	Abuja	PROPN	_	_	13	obl:arg	_	AlignBegin=103350|AlignEnd=103881|Gloss=Abuja
+16	//	//	PUNCT	_	_	8	punct	_	AlignBegin=103881|AlignEnd=103911|Gloss=PUNCT
 
 ~~~
 

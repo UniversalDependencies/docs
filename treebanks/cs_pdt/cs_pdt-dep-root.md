@@ -39,7 +39,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	|	|	PUNCT	Z:-------------	_	2	punct	2:punct	_
 2	Rady	rada	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	0	root	0:root	LId=rada-1|LGloss=(př._dát_někomu_dobrou_radu)
 3	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	4	case	4:case	LId=na-1
-4	telefon	telefon	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	nmod	2:nmod	_
+4	telefon	telefon	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	nmod	2:nmod:na:acc	_
 5	|	|	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~
@@ -59,7 +59,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 6	připraven	připravený	ADJ	VsYS---XX-AP---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=připravit
 7	zodpovědět	zodpovědět	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	6	xcomp	6:xcomp	_
 8	spolupracovník	spolupracovník	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	6	nsubj	6:nsubj	_
-9	Profitu	profit	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	8	nmod	8:nmod	SpaceAfter=No
+9	Profitu	profit	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	8	nmod	8:nmod:gen	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
 
 ~~~

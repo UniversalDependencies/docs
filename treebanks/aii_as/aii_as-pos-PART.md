@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>ܕ</em> (<tt><a href="aii_as-pos-PART
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.039841).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.044000).
 
 The 1st highest number of forms (1) was observed with the lemma “ܕ”: <em>ܕ</em>.
 

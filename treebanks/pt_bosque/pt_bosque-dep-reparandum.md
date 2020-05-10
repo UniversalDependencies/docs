@@ -36,7 +36,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 12	abaixo	abaixo	ADV	_	_	11	advmod	_	_
 13	para	para	SCONJ	_	_	17	mark	_	_
 14	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
-15	máquinas	máquina	NOUN	_	Gender=Fem|Number=Plur	17	nsubj	_	_
+15	máquinas	máquina	NOUN	_	Gender=Fem|Number=Plur	16	nsubj	_	_
 16	poderem	poder	VERB	_	Number=Plur|Person=3|VerbForm=Inf	11	advcl	_	_
 17	passar	passar	VERB	_	VerbForm=Inf	16	xcomp	_	_
 18	--	--	PUNCT	_	_	17	punct	_	_

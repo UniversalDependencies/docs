@@ -12,7 +12,7 @@ It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 6687 tokens (6%) have a non-empty value of `Mood`.
 1936 types (7%) occur at least once with a non-empty value of `Mood`.
 1038 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (3478; 3% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (2934; 3% instances), <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (262; 0% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (13; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (3478; 3% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (2934; 3% instances), <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (262; 0% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -98,13 +98,24 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `Cnd` (262; 100% of non-empty `Mood`): <em>aby, keby, akoby</em>
 * `EMPTY` (1603): <em>že, keď, ako, ak, kým, čo, pretože, hoci, než, keďže</em>
 
+### `ADV`
+
+12 <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Mood`.
+
+The most frequent other feature values with which `ADV` and `Mood` co-occurred: <tt><a href="sk_snk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="sk_snk-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (12; 100%).
+
+`ADV` tokens may have the following values of `Mood`:
+
+* `Cnd` (12; 100% of non-empty `Mood`): <em>akoby</em>
+* `EMPTY` (4433): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
+
 ### `PART`
 
-13 <tt><a href="sk_snk-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Mood`.
+1 <tt><a href="sk_snk-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Mood`.
 
 `PART` tokens may have the following values of `Mood`:
 
-* `Cnd` (13; 100% of non-empty `Mood`): <em>akoby, Niežeby</em>
+* `Cnd` (1; 100% of non-empty `Mood`): <em>Niežeby</em>
 * `EMPTY` (1915): <em>aj, však, nie, len, už, a, až, iba, ani, ešte</em>
 
 ## Relations with Agreement in `Mood`

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ga_idt-dep-mark.html">mark</a></tt>.
 
-1329 nodes (3%) are attached to their parents as `mark:prt`.
+2176 nodes (3%) are attached to their parents as `mark:prt`.
 
-1309 instances of `mark:prt` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.06847253574116.
+2147 instances of `mark:prt` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.08409926470588.
 
-The following 18 pairs of parts of speech are connected with `mark:prt`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (914; 69% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (271; 20% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (78; 6% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (25; 2% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (11; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `mark:prt`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1492; 69% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (434; 20% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (85; 4% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (56; 3% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (44; 2% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (18; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 18 pairs of parts of speech are connected with `mark:prt`: <tt><a 
 # visual-style 8	fgColor:white
 # visual-style 8 7 mark:prt	color:blue
 1	'	'	PUNCT	Punct	_	2	punct	_	SpaceAfter=No
-2	Dona	dona	ADJ	Adj	Degree=Pos	8	ccomp	_	_
+2	Dona	dona	ADJ	Adj	Degree=Pos	8	parataxis	_	_
 3	go	go	ADV	Gn	_	2	advmod	_	_
 4	leor	leor	ADJ	Adj	_	3	fixed	_	SpaceAfter=No
 5	,	,	PUNCT	Punct	_	2	punct	_	SpaceAfter=No
@@ -61,20 +61,25 @@ The following 18 pairs of parts of speech are connected with `mark:prt`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 mark:prt	color:blue
-1	D'	do	PART	Vb	PartType=Vb	2	mark:prt	_	SpaceAfter=No
-2	iúntaigh	iúntaigh	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	_
-3	Pinocchio	Pinocchio	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	2	nsubj	_	_
-4	agus	agus	CCONJ	Coord	_	6	cc	_	_
-5	d'	do	PART	Vb	PartType=Vb	6	mark:prt	_	SpaceAfter=No
-6	fhéach	féach	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	2	conj	_	_
-7	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
-8	air	ar	ADP	Prep	Gender=Masc|Number=Sing|Person=3	6	obl:prep	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 mark:prt	color:blue
+1	Nach	is	AUX	Cop	Mood=Int|Polarity=Neg|Tense=Pres|VerbForm=Cop	4	cop	_	_
+2	in	in	ADP	Cmpd	PrepForm=Cmpd	4	case	_	_
+3	aghaidh	aghaidh	ADP	Cmpd	PrepForm=Cmpd	2	fixed	_	_
+4	easa	eas	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+5	atá	bí	VERB	PresInd	Mood=Ind|PronType=Rel|Tense=Pres	4	csubj:cleft	_	_
+6	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+7	ag	ag	ADP	Simp	_	8	case	_	_
+8	snámh	snámh	NOUN	Noun	VerbForm=Vnoun	5	xcomp	_	_
+9	le	le	ADP	Simp	_	10	case	_	_
+10	bliain	bliain	NOUN	Noun	Gender=Fem|Number=Sing	8	obl:tmod	_	_
+11	go	go	PART	Ad	PartType=Ad	12	mark:prt	_	_
+12	leith	leith	NOUN	Noun	Gender=Fem|Number=Sing	10	nmod	_	_
+13	anuas	anuas	ADV	Dir	_	8	advmod	_	SpaceAfter=No
+14	?	?	PUNCT	?	_	4	punct	_	_
 
 ~~~
 

@@ -22,8 +22,8 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 punct	color:blue
-1	O	o	PRON	_	Case=Nom|Number=Sing	6	nsubj	_	_
-2	her	her	DET	_	Definite=Def	3	det	_	_
+1	O	o	PRON	_	Case=Nom|Number=Sing|PronType=Prs	6	nsubj	_	_
+2	her	her	DET	_	Definite=Def|PronType=Art	3	det	_	_
 3	zaman	zaman	NOUN	_	Case=Nom|Number=Sing	6	obl:tmod	_	_
 4	yemeklerini	ye	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	6	obj	_	_
 5	lokantada	lokanta	NOUN	_	Case=Loc|Number=Sing	6	obl	_	_
@@ -40,7 +40,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 4	fgColor:white
 # visual-style 4 5 punct	color:blue
 1	Dışarda	dışarı	NOUN	_	Case=Loc|Number=Sing	4	nmod	_	_
-2	bir	bir	DET	_	Definite=Ind	3	det	_	_
+2	bir	bir	DET	_	Definite=Ind|PronType=Art	3	det	_	_
 3	köpek	köpek	NOUN	_	Case=Nom|Number=Sing	4	nsubj:cop	_	_
 4	var	var	ADJ	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_

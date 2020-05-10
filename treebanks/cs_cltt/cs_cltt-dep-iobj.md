@@ -8,122 +8,144 @@ udver: '2'
 
 This relation is universal.
 
-21 nodes (0%) are attached to their parents as `iobj`.
+3 nodes (0%) are attached to their parents as `iobj`.
 
-15 instances of `iobj` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.66666666666667.
+2 instances of `iobj` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (15; 71% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (4; 19% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (2; 10% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (2; 67% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 iobj	color:blue
-1	(1)	(1)	PUNCT	Z:-------------	_	4	punct	_	_
-2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	LId=účetní-1
-3	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	4	nsubj	_	_
-4	mohou	moci	VERB	VB-P---3P-AA--1	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	pověřit	pověřit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	4	xcomp	_	_
-6	vedením	vedení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	5	iobj	_	_
-7	svého	svůj	DET	P8ZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	LId=svůj-1
-8	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	6	nmod	_	_
-9	i	i	CCONJ	J^-------------	_	14	advmod:emph	_	LId=i-1
-10	jinou	jiný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	14	amod	_	_
-11	právnickou	právnický	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	14	amod	_	_
-12	nebo	nebo	CCONJ	J^-------------	_	13	cc	_	_
-13	fyzickou	fyzický	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	conj	_	_
-14	osobu	osoba	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	5	obj	_	SpaceAfter=No
-15	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+# visual-style 63	bgColor:blue
+# visual-style 63	fgColor:white
+# visual-style 56	bgColor:blue
+# visual-style 56	fgColor:white
+# visual-style 56 63 iobj	color:blue
+1	(4)	(4)	PUNCT	Z:-------------	_	50	punct	_	_
+2	Knihy	kniha	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	50	obj	_	_
+3	analytické	analytický	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	_	_
+4	evidence	evidence	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	2	nmod	_	_
+5	pohledávek	pohledávka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	4	nmod	_	_
+6	a	a	CCONJ	J^-------------	_	7	cc	_	LId=a-1
+7	závazků	závazek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	10	punct	_	_
+9	účetní	účetní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	10	amod	_	LId=účetní-1
+10	doklady	doklad	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	2	conj	_	_
+11	a	a	CCONJ	J^-------------	_	14	cc	_	LId=a-1
+12	jiné	jiný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	14	amod	_	_
+13	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	14	amod	_	LId=účetní-1
+14	písemnosti	písemnost	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	10	conj	_	SpaceAfter=No
+15	,	,	PUNCT	Z:-------------	_	17	punct	_	_
+16	které	který	DET	P4FP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	17	nsubj	_	_
+17	vyplývají	vyplývat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
+18	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	20	case	_	LId=z-1
+19	přímého	přímý	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	20	amod	_	_
+20	styku	styk	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	17	obl:arg	_	_
+21	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	22	case	_	LId=s-1
+22	cizinou	cizina	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	20	nmod	_	_
+23	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	24	case	_	LId=z-1
+24	doby	doba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	20	nmod	_	_
+25	před	před	ADP	RR--7----------	AdpType=Prep|Case=Ins	28	case	_	LId=před-1
+26	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	28	nummod	_	SpaceAfter=No
+27	.	.	PUNCT	Z:-------------	_	26	punct	_	_
+28	lednem	leden	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	24	nmod	_	_
+29	1949	1949	NUM	C}-------------	NumForm=Roman|NumType=Card	28	nummod	_	SpaceAfter=No
+30	,	,	PUNCT	Z:-------------	_	33	punct	_	_
+31	a	a	CCONJ	J^-------------	_	33	cc	_	LId=a-1
+32	účetní	účetní	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	33	amod	_	LId=účetní-1
+33	závěrku	závěrka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	2	conj	_	_
+34	vztahující	vztahující	ADJ	AGFS4-----A----	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	33	amod	_	_
+35	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	34	expl:pv	_	_
+36	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	37	case	_	LId=k-1
+37	převodu	převod	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	34	obl:arg	_	_
+38	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	37	nmod	_	_
+39	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	44	case	_	LId=na-1
+40	jiné	jiný	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	44	amod	_	_
+41	právnické	právnický	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	44	amod	_	_
+42	nebo	nebo	CCONJ	J^-------------	_	43	cc	_	_
+43	fyzické	fyzický	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	41	conj	_	_
+44	osoby	osoba	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	37	nmod	_	_
+45	provedenému	provedený	ADJ	AANS3----1A----	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	37	amod	_	_
+46	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	49	case	_	LId=podle-2
+47	zvláštních	zvláštní	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	49	amod	_	_
+48	právních	právní	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	49	amod	_	_
+49	předpisů	předpis	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	45	obl	_	_
+50	uschovávají	uschovávat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+51	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	52	amod	_	LId=účetní-1
+52	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	50	nsubj	_	SpaceAfter=No
+53	,	,	PUNCT	Z:-------------	_	56	punct	_	_
+54	dokud	dokud	SCONJ	J,-------------	_	56	mark	_	_
+55	ministerstvo	ministerstvo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	56	nsubj	_	_
+56	nedá	dát	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	50	advcl	_	_
+57	samo	sám	DET	PLNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp	56	xcomp	_	_
+58	nebo	nebo	CCONJ	J^-------------	_	60	cc	_	_
+59	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	60	case	_	LId=na-1
+60	žádost	žádost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	57	conj	_	_
+61	účetní	účetní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	62	amod	_	LId=účetní-1
+62	jednotky	jednotka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	60	nmod	_	_
+63	souhlas	souhlas	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	56	iobj	_	_
+64	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	65	case	_	LId=k-1
+65	vyřazení	vyřazení	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	63	nmod	_	_
+66	těchto	tento	DET	PDXP2----------	Case=Gen|Number=Plur|PronType=Dem	67	det	_	_
+67	písemností	písemnost	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	65	nmod	_	SpaceAfter=No
+68	.	.	PUNCT	Z:-------------	_	50	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 15 iobj	color:blue
-1	(5)	(5)	PUNCT	Z:-------------	_	7	punct	_	_
-2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	LId=účetní-1
-3	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	7	nsubj	_	_
-4	uvedené	uvedený	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	_
-5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	_	LId=v-1
-6	§_20_odst._1_písm._e)	§_20_odst._1_písm._e)	X	X@-------------	_	4	obl	_	_
-7	vyhotovují	vyhotovovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-8	výroční	výroční	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	_	_
-9	zprávu	zpráva	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obj	_	_
-10	nebo	nebo	CCONJ	J^-------------	_	12	cc	_	_
-11	obdobný	obdobný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	12	amod	_	_
-12	dokument	dokument	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	9	conj	_	SpaceAfter=No
-13	,	,	PUNCT	Z:-------------	_	18	punct	_	_
-14	pokud	pokud	SCONJ	J,-------------	_	18	mark	_	_
-15	jim	on	PRON	PPXP3--3-------	Case=Dat|Number=Plur|Person=3|PronType=Prs	18	iobj	_	LId=on-1
-16	tuto	tuto	ADV	Db-------------	_	17	advmod	_	_
-17	povinnost	povinnost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	18	obj	_	_
-18	stanoví	stanovit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
-19	zvláštní	zvláštní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	21	amod	_	_
-20	právní	právní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	21	amod	_	_
-21	předpis	předpis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	18	nsubj	_	SpaceAfter=No
-22	.	.	PUNCT	Z:-------------	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 38	bgColor:blue
-# visual-style 38	fgColor:white
-# visual-style 41	bgColor:blue
-# visual-style 41	fgColor:white
-# visual-style 41 38 iobj	color:blue
-1	(1)	(1)	PUNCT	Z:-------------	_	8	punct	_	_
-2	Z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	4	case	_	LId=z-1
-3	účetních	účetní	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	4	amod	_	LId=účetní-1
-4	jednotek	jednotka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	26	nmod	_	_
-5	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	_	LId=podle-2
-6	§_1_odst._2	§_1_odst._2	X	X@-------------	_	4	nmod	_	_
-7	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
-8	povinny	povinný	ADJ	ACTP------A----	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short	0	root	_	_
-9	účetní	účetní	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	amod	_	LId=účetní-1
-10	závěrku	závěrka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	25	obj	_	_
-11	i	i	CCONJ	J^-------------	_	13	cc	_	LId=i-1
-12	výroční	výroční	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	_	_
-13	zprávu	zpráva	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	10	conj	_	SpaceAfter=No
-14	,	,	PUNCT	Z:-------------	_	15	punct	_	_
-15	vyžaduje-li	vyžaduje-li	X	X@-------------	_	25	obl	_	_
-16	její	jeho	DET	PSNS4FS3-------	Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
-17	vyhotovení	vyhotovení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	15	obj	_	_
-18	tento	tento	DET	PDYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
-19	zákon	zákon	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	15	nsubj	_	_
-20	nebo	nebo	CCONJ	J^-------------	_	23	cc	_	_
-21	zvláštní	zvláštní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	23	amod	_	_
-22	právní	právní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	23	amod	_	_
-23	předpis	předpis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	19	conj	_	SpaceAfter=No
-24	,	,	PUNCT	Z:-------------	_	15	punct	_	_
-25	zveřejnit	zveřejnit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	8	xcomp	_	_
-26	ty	ten	DET	PDFP4----------	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	8	nsubj	_	SpaceAfter=No
-27	,	,	PUNCT	Z:-------------	_	30	punct	_	_
-28	které	který	DET	P4FP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	30	nsubj:pass	_	_
-29	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	30	expl:pass	_	_
-30	zapisují	zapisovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	26	acl	_	_
-31	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	33	case	_	LId=do-1
-32	obchodního	obchodní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	33	amod	_	_
-33	rejstříku	rejstřík	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	30	obl	_	SpaceAfter=No
-34	,	,	PUNCT	Z:-------------	_	36	punct	_	_
-35	nebo	nebo	CCONJ	J^-------------	_	36	cc	_	_
-36	ty	ten	DET	PDMP4----------	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	26	conj	_	SpaceAfter=No
-37	,	,	PUNCT	Z:-------------	_	41	punct	_	_
-38	kterým	který	DET	P4XP3----------	Case=Dat|Number=Plur|PronType=Int,Rel	41	iobj	_	_
-39	tuto	tuto	ADV	Db-------------	_	40	advmod	_	_
-40	povinnost	povinnost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	41	obj	_	_
-41	stanoví	stanovit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	36	acl	_	_
-42	zvláštní	zvláštní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	44	amod	_	_
-43	právní	právní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	44	amod	_	_
-44	předpis	předpis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	41	nsubj	_	SpaceAfter=No
-45	.	.	PUNCT	Z:-------------	_	8	punct	_	_
+# visual-style 36	bgColor:blue
+# visual-style 36	fgColor:white
+# visual-style 37	bgColor:blue
+# visual-style 37	fgColor:white
+# visual-style 37 36 iobj	color:blue
+1	(3)	(3)	PUNCT	Z:-------------	_	5	punct	_	_
+2	Účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	amod	_	LId=účetní-1
+3	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	nsubj	_	_
+4	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	povinna	povinný	ADJ	ACQW------A----	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short	0	root	_	_
+6	použít	použít	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	5	xcomp	_	_
+7	účetní	účetní	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	6	obj	_	LId=účetní-2
+8	metody	metoda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	7	nmod	_	_
+9	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	_	SpaceAfter=No
+10	,	,	PUNCT	Z:-------------	_	12	punct	_	_
+11	který	který	DET	P4YS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel	12	nsubj	_	_
+12	vychází	vycházet	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
+13	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	14	case	_	LId=z-1
+14	předpokladu	předpoklad	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	12	obl:arg	_	SpaceAfter=No
+15	,	,	PUNCT	Z:-------------	_	19	punct	_	_
+16	že	že	SCONJ	J,-------------	_	19	mark	_	_
+17	bude	být	AUX	VB-S---3F-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	19	aux	_	_
+18	nepřetržitě	přetržitě	ADV	Dg-------1N----	Degree=Pos|Polarity=Neg	19	advmod	_	_
+19	pokračovat	pokračovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	14	acl	_	_
+20	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	22	case	_	LId=v-1
+21	své	svůj	DET	P8FS6---------1	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	22	det	_	LId=svůj-1
+22	činnosti	činnost	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	19	obl:arg	_	_
+23	a	a	CCONJ	J^-------------	_	27	cc	_	LId=a-1
+24	že	že	SCONJ	J,-------------	_	27	mark	_	_
+25	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	26	case	_	LId=u-1
+26	ní	on	PRON	P5FS2--3-------	Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	27	obl	_	LId=on-1
+27	nenastává	nastávat	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	_
+28	žádná	žádný	DET	PWFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Neg	29	det	_	_
+29	skutečnost	skutečnost	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	27	nsubj	_	SpaceAfter=No
+30	,	,	PUNCT	Z:-------------	_	34	punct	_	_
+31	která	který	DET	P4FS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel	34	nsubj	_	_
+32	by	být	AUX	Vc-------------	Mood=Cnd|VerbForm=Fin	34	aux	_	_
+33	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	obj	_	LId=on-1
+34	omezovala	omezovat	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	29	acl:relcl	_	_
+35	nebo	nebo	CCONJ	J^-------------	_	37	cc	_	_
+36	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	37	iobj	_	LId=on-1
+37	zabraňovala	zabraňovat	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	34	conj	_	_
+38	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	40	case	_	LId=v-1
+39	této	tento	DET	PDFS6----------	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	40	det	_	_
+40	činnosti	činnost	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	41	obl:arg	_	_
+41	pokračovat	pokračovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	37	xcomp	_	_
+42	i	i	CCONJ	J^-------------	_	45	advmod:emph	_	LId=i-1
+43	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	45	case	_	LId=v-1
+44	dohledné	dohledný	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	45	amod	_	_
+45	budoucnosti	budoucnost	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	41	obl	_	SpaceAfter=No
+46	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 

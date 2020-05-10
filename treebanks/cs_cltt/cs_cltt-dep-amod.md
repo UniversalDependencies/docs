@@ -116,7 +116,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 21	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	22	case	_	LId=na-1
 22	které	který	DET	P4YP4----------	Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel	24	obl:arg	_	_
 23	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	24	expl:pv	_	_
-24	vztahuje	vztahovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl	_	_
+24	vztahuje	vztahovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	_
 25	utajení	utajení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	24	nsubj	_	_
 26	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	29	case	_	LId=podle-2
 27	zvláštního	zvláštní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	29	amod	_	_

@@ -12,7 +12,7 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 58980 tokens (38%) have a non-empty value of `Gender`.
 19497 types (74%) occur at least once with a non-empty value of `Gender`.
 11282 lemmas (76%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 9 part-of-speech tags: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (33602; 22% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (9557; 6% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (8342; 5% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (3244; 2% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (1836; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (1718; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (515; 0% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (165; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (33602; 22% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (9557; 6% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (8342; 5% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (3244; 2% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (1822; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (1718; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (515; 0% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (179; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -101,16 +101,16 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `VERB`
 
-1836 <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> tokens (11% of all `VERB` tokens) have a non-empty value of `Gender`.
+1822 <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> tokens (11% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1836; 100%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1836; 100%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1836; 100%), <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1835; 100%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1822; 99%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1375; 75%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1126; 61%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (950; 52%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1822; 100%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1822; 100%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1822; 100%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1822; 100%), <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1821; 100%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1375; 75%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1112; 61%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (950; 52%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (493; 27% of non-empty `Gender`): <em>била, могла, можела, получила, представена, приета, започнала, избрана, поставена, щяла</em>
-* `Masc` (984; 54% of non-empty `Gender`): <em>направил, дал, заминал, искал, казал, дошъл, избран, имал, станал, видял</em>
-* `Neut` (359; 20% of non-empty `Gender`): <em>имало, трябвало, направено, станало, нямало, било, налагало, могло, прието, свързано</em>
-* `EMPTY` (15349): <em>има, няма, може, трябва, е, каза, могат, съобщи, заяви, стана</em>
+* `Fem` (486; 27% of non-empty `Gender`): <em>могла, можела, получила, представена, приета, започнала, избрана, поставена, щяла, включена</em>
+* `Masc` (982; 54% of non-empty `Gender`): <em>направил, дал, заминал, искал, казал, дошъл, избран, имал, станал, видял</em>
+* `Neut` (354; 19% of non-empty `Gender`): <em>имало, трябвало, направено, станало, нямало, налагало, могло, прието, свързано, взето</em>
+* `EMPTY` (15006): <em>има, няма, може, трябва, каза, могат, съобщи, заяви, стана, имат</em>
 
 <table>
   <tr><th>Paradigm <i>мога</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -158,16 +158,16 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 ### `AUX`
 
-165 <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Gender`.
+179 <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (165; 100%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (165; 100%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (165; 100%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (165; 100%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (165; 100%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (165; 100%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (165; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (179; 100%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (179; 100%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (179; 100%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (179; 100%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (179; 100%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (179; 100%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (179; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem` (53; 32% of non-empty `Gender`): <em>била</em>
-* `Masc` (81; 49% of non-empty `Gender`): <em>бил</em>
-* `Neut` (31; 19% of non-empty `Gender`): <em>било</em>
-* `EMPTY` (8612): <em>да, е, ще, са, бе, бъде, беше, бяха, съм, бъдат</em>
+* `Fem` (60; 34% of non-empty `Gender`): <em>била</em>
+* `Masc` (83; 46% of non-empty `Gender`): <em>бил</em>
+* `Neut` (36; 20% of non-empty `Gender`): <em>било</em>
+* `EMPTY` (8955): <em>да, е, ще, са, бе, бъде, беше, бяха, съм, бъдат</em>
 
 <table>
   <tr><th>Paradigm <i>съм</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -186,7 +186,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="bg_btb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7987; 70%),
+<tt>NOUN --[<tt><a href="bg_btb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7988; 70%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1793; 55%),
 <tt>PROPN --[<tt><a href="bg_btb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1522; 95%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-det.html">det</a></tt>]--> DET</tt> (1360; 69%),

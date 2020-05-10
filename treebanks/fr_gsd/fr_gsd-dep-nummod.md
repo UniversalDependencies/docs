@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3676 nodes (1%) are attached to their parents as `nummod`.
+3640 nodes (1%) are attached to their parents as `nummod`.
 
-3658 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09167573449402.
+3623 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.09285714285714.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (3176; 86% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (404; 11% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (55; 1% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (3148; 86% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (403; 11% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (48; 1% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 nummod	color:blue
-1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	wordform=il
 2	ne	ne	ADV	_	Polarity=Neg	4	advmod	_	_
 3	sera	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
 4	présent	présent	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
@@ -43,12 +43,12 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 nummod	color:blue
-1	Ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+1	Ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	wordform=ce
 2	taux	taux	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	atteint	atteindre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	même	même	ADV	_	_	5	advmod	_	_
 5	50	50	NUM	_	_	6	nummod	_	SpaceAfter=No
-6	%	%	SYM	_	_	3	obj	_	EXTPOS=NOUN|Type=Trans
+6	%	%	SYM	_	_	3	obj	_	EXTPOS=NOUN|Type=Conv
 7	dans	dans	ADP	_	_	9	case	_	_
 8	certains	certain	DET	_	Gender=Masc|Number=Plur	9	det	_	_
 9	centres	centre	NOUN	_	Gender=Masc|Number=Plur	3	obl:mod	_	SpaceAfter=No
@@ -63,7 +63,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 nummod	color:blue
-1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	wordform=le
 2	restaurant	restaurant	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	se	se	PRON	_	Person=3|PronType=Prs	4	expl:pass	_	_
 4	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -71,7 +71,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 7	289	289	NUM	_	_	8	nummod	_	_
 8	Boul	Boul	PROPN	_	_	4	obl:arg	_	_
-9	Curé	curé	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	_
+9	Curé	curé	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	wordform=curé
 10	Labelle	Labelle	PROPN	_	_	9	appos	_	_
 11	SAINTE	SAINTE	PROPN	_	_	9	nmod	_	_
 12	ROSE	ROSE	PROPN	_	_	11	flat:name	_	SpaceAfter=No

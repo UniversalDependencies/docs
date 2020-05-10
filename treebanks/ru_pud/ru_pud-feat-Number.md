@@ -12,18 +12,18 @@ It occurs with 2 different values: `Plur`, `Sing`.
 10958 tokens (57%) have a non-empty value of `Number`.
 6841 types (89%) occur at least once with a non-empty value of `Number`.
 4307 lemmas (84%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (4893; 25% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1873; 10% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1711; 9% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1101; 6% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (710; 4% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (376; 2% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (254; 1% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (40; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (4892; 25% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1872; 10% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1713; 9% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1101; 6% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (710; 4% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (376; 2% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (254; 1% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (40; 0% instances).
 
 ### `NOUN`
 
-4893 <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+4892 <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4264; 87%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4263; 87%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (1370; 28% of non-empty `Number`): <em>лет, людей, люди, долларов, евро, фунтов, человек, гг., детей, жителей</em>
-* `Sing` (3523; 72% of non-empty `Number`): <em>году, года, время, войны, результате, компании, течение, часть, века, города</em>
+* `Sing` (3522; 72% of non-empty `Number`): <em>году, года, время, войны, результате, компании, течение, часть, века, города</em>
 * `EMPTY` (5): <em>Film, Wi-Fi, GIF</em>
 
 <table>
@@ -41,14 +41,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `ADJ`
 
-1873 <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Number`.
+1872 <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ru_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1863; 99%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ru_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1861; 99%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (599; 32% of non-empty `Number`): <em>другие, других, многие, новые, новых, последние, должны, последних, гражданских, другими</em>
-* `Sing` (1274; 68% of non-empty `Number`): <em>первой, самым, Северной, большой, другой, крайней, большая, южной, новой, новый</em>
+* `Sing` (1273; 68% of non-empty `Number`): <em>первой, самым, Северной, большой, другой, крайней, большая, южной, новой, новый</em>
 * `EMPTY` (217): <em>2014, 2015, III, 1, 1492, 2010, 2012, 2013, 2017, 1992</em>
 
 <table>
@@ -72,14 +72,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-1711 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (81% of all `VERB` tokens) have a non-empty value of `Number`.
+1713 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (81% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1352; 79%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1349; 79%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1148; 67%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1079; 63%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1051; 61%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (902; 53%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (881; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1352; 79%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1349; 79%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1150; 67%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1079; 63%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1051; 61%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (902; 53%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (881; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (539; 32% of non-empty `Number`): <em>могут, получили, стали, являются, можем, включают, имели, имеют, могли, находятся</em>
-* `Sing` (1172; 68% of non-empty `Number`): <em>является, может, сказал, говорит, стало, заявил, находится, стал, имеет, сказала</em>
+* `Plur` (539; 31% of non-empty `Number`): <em>могут, получили, стали, являются, можем, включают, имели, имеют, могли, находятся</em>
+* `Sing` (1174; 69% of non-empty `Number`): <em>является, может, сказал, говорит, стало, заявил, находится, стал, имеет, сказала</em>
 * `EMPTY` (402): <em>можно, сделать, получить, привести, вернуться, найти, стать, используя, надо, начиная</em>
 
 <table>
@@ -198,14 +198,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1474; 88%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (880; 62%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1472; 88%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (879; 62%),
 <tt>VERB --[<tt><a href="ru_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (569; 53%),
 <tt>VERB --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (540; 93%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-det.html">det</a></tt>]--> DET</tt> (341; 74%),
 <tt>VERB --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (324; 92%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (262; 72%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (181; 74%),
-<tt>VERB --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (174; 91%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (173; 90%).
+<tt>NOUN --[<tt><a href="ru_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (174; 90%),
+<tt>VERB --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (174; 91%).
 

@@ -26,8 +26,8 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	ki	ki	SCONJ	SCONJ	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	1	punct	_	_
 4	modern	modern	ADJ	JJ	Number=Sing	5	amod	_	_
-5	Almanya'nın	Almanya	PROPN	PROPN	Case=Gen|Number=Sing	8	nmod:poss	_	Proper=True
-6	Nazi	Nazi	PROPN	PROPN	Number=Sing	7	compound	_	Proper=True
+5	Almanya'nın	Almanya	PROPN	PROPN	Case=Gen|Number=Sing	8	nsubj	_	Proper=True
+6	Nazi	Nazi	PROPN	PROPN	Number=Sing	7	nmod:poss	_	Proper=True
 7	rejiminden	rejim	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obl	_	_
 8	ayrılması	ayrıl	NOUN	VN	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Tense=Pres|VerbForm=Ger	9	nsubj	_	_
 9	gerektiğini	gerek	NOUN	VN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	10	xcomp	_	_
@@ -52,12 +52,12 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 7	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	8	det	_	_
 8	şeyleri	şey	NOUN	NN	Case=Acc|Number=Plur	10	obj	_	_
 9	kendimiz	kend	NOUN	NN	Number=Sing	10	obl	_	_
-10	yapma	yap	NOUN	VN	Aspect=Perf|Case=Nom|Mood=Ind|Tense=Pres|VerbForm=Ger	11	compound	_	_
+10	yapma	yap	NOUN	VN	Aspect=Perf|Case=Nom|Mood=Ind|Tense=Pres|VerbForm=Ger	11	nmod:poss	_	_
 11	konusunda	konu	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	amod	_	_
 12	ki	ki	ADP	JJ	_	11	case	_	_
-13	artan	art	ADJ	VJ	Number=Sing|Polarity=Pos	14	acl:relcl	_	_
-14	saplantımız	saplant	NOUN	NN	Number=Sing|Number[psor]=Plur|Person[psor]=1	15	obj	_	ToDo=pobj
-15	ile	ile	ADP	IN	_	17	obj	_	ToDo=pobj
+13	artan	art	ADJ	VJ	Number=Sing|Polarity=Pos	14	acl	_	_
+14	saplantımız	saplant	NOUN	NN	Number=Sing|Number[psor]=Plur|Person[psor]=1	17	obj	_	ToDo=pobj
+15	ile	ile	ADP	IN	_	14	case	_	ToDo=pobj
 16	yakından	yakın	NOUN	NN	Case=Abl|Number=Sing	17	obl	_	_
 17	ilişkili	ilişkili	ADJ	JJ	Number=Sing	0	root	_	_
 18	dir	i	AUX	AUX	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	17	cop	_	_

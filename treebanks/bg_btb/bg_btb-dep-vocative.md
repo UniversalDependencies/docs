@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-57 nodes (0%) are attached to their parents as `vocative`.
+58 nodes (0%) are attached to their parents as `vocative`.
 
-31 instances of `vocative` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.03508771929825.
+32 instances of `vocative` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.03448275862069.
 
-The following 13 pairs of parts of speech are connected with `vocative`: <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (35; 61% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (6; 11% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="bg_btb-pos-PART.html">PART</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="bg_btb-pos-X.html">X</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 14 pairs of parts of speech are connected with `vocative`: <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (35; 60% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (6; 10% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="bg_btb-pos-PART.html">PART</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="bg_btb-pos-X.html">X</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 13 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 4 vocative	color:blue
 1	-	-	PUNCT	punct	_	7	punct	7:punct	_
-2	Да	да	INTJ	Ta	_	7	discourse	7:discourse	SpaceAfter=No
+2	Да	да	PART	Ta	_	7	discourse	7:discourse	SpaceAfter=No
 3	,	,	PUNCT	punct	_	2	punct	2:punct	_
 4	докторе	доктор	NOUN	Ncms-v	Gender=Masc|Number=Sing	7	vocative	7:vocative	SpaceAfter=No
 5	,	,	PUNCT	punct	_	4	punct	4:punct	_

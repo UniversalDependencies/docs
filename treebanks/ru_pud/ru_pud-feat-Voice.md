@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Mid` are language-specific.
 It occurs with 3 different values: `Act`, `Mid`, `Pass`.
 
-2372 tokens (12%) have a non-empty value of `Voice`.
-1527 types (20%) occur at least once with a non-empty value of `Voice`.
-874 lemmas (17%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (2097; 11% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (275; 1% instances).
+2374 tokens (12%) have a non-empty value of `Voice`.
+1529 types (20%) occur at least once with a non-empty value of `Voice`.
+875 lemmas (17%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (2099; 11% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (275; 1% instances).
 
 ### `VERB`
 
-2097 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Voice`.
+2099 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1534; 73%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1352; 64%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1349; 64%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1288; 61%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1172; 56%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1080; 52%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1062; 51%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1536; 73%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1352; 64%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1349; 64%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1288; 61%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1174; 56%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1080; 51%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1064; 51%).
 
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (1413; 67% of non-empty `Voice`): <em>может, сказал, говорит, могут, заявил, имеет, сделать, сказала, получили, нет</em>
 * `Mid` (391; 19% of non-empty `Voice`): <em>является, стало, находится, стал, вернуться, являются, стали, стать, находятся, оставался</em>
-* `Pass` (293; 14% of non-empty `Voice`): <em>использовался, использованы, обсуждается, объявлен, потраченное, включены, выращенных, закрыт, использовалась, написано</em>
+* `Pass` (295; 14% of non-empty `Voice`): <em>использовался, использованы, обсуждается, объявлен, потраченное, включены, выращенных, закрыт, использовалась, написано</em>
 * `EMPTY` (16): <em>можно, надо</em>
 
 <table>
@@ -55,7 +55,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (129; 60%),
-<tt>VERB --[<tt><a href="ru_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (112; 67%),
+<tt>VERB --[<tt><a href="ru_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (112; 66%),
 <tt>VERB --[<tt><a href="ru_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (81; 57%),
 <tt>VERB --[<tt><a href="ru_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (49; 60%),
 <tt>VERB --[<tt><a href="ru_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (45; 52%),

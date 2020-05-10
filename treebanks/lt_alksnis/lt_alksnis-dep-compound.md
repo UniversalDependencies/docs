@@ -23,9 +23,9 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 7	fgColor:white
 # visual-style 7 6 compound	color:blue
 1	Šiuo	šis	DET	įv.vyr.vns.Įn.	Case=Ins|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	2	det	2:det	_
-2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	5	obl	5:obl	_
+2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	5	obl	5:obl:ins	_
 3	ES	ES	X	akr.	Abbr=Yes	4	nmod	4:nmod	_
-4	rinkoje	rinka	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	5	obl	5:obl	_
+4	rinkoje	rinka	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	5	obl	5:obl:loc	_
 5	cirkuliuoja	cirkuliuoti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	trys	trys	NUM	sktv.raid.kiek.mot.V.	Case=Nom|Gender=Fem|NumForm=Word|NumType=Card	7	compound	7:compound	_
 7	dešimtys	dešimt	NUM	sktv.raid.kiek.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	9	nummod:gov	9:nummod:gov	_

@@ -24,9 +24,9 @@ The following 53 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5 4 cc	color:blue
 1	Automatické	automatický	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	2	amod	2:amod	_
 2	přepínání	přepínání	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	0	root	0:root	LDeriv=přepínat
-3	telefon	telefon	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	nmod	2:nmod	_
+3	telefon	telefon	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	nmod	2:nmod:nom	_
 4	nebo	nebo	CCONJ	J^-------------	_	5	cc	5:cc	_
-5	fax	fax	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	conj	2:nmod|3:conj	SpaceAfter=No
+5	fax	fax	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	conj	2:nmod:nom|3:conj	SpaceAfter=No
 6	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~
@@ -61,7 +61,7 @@ The following 53 pairs of parts of speech are connected with `cc`: <tt><a href="
 6	střední	střední	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	9:amod	_
 7	a	a	CCONJ	J^-------------	_	8	cc	8:cc	LId=a-1
 8	východní	východní	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	6	conj	6:conj|9:amod	_
-9	Evropě	Evropa	PROPN	NNFS6-----A----	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	3	nmod	3:nmod	SpaceAfter=No
+9	Evropě	Evropa	PROPN	NNFS6-----A----	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	3	nmod	3:nmod:v:loc	SpaceAfter=No
 10	:	:	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

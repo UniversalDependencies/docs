@@ -11,7 +11,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 154 tokens (34%) have a non-empty value of `Gender`.
 121 types (48%) occur at least once with a non-empty value of `Gender`.
-115 lemmas (48%) occur at least once with a non-empty value of `Gender`.
+114 lemmas (48%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 7 part-of-speech tags: <tt><a href="aii_as-pos-NOUN.html">NOUN</a></tt> (44; 10% instances), <tt><a href="aii_as-pos-VERB.html">VERB</a></tt> (28; 6% instances), <tt><a href="aii_as-pos-ADJ.html">ADJ</a></tt> (26; 6% instances), <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> (26; 6% instances), <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> (14; 3% instances), <tt><a href="aii_as-pos-DET.html">DET</a></tt> (8; 2% instances), <tt><a href="aii_as-pos-PROPN.html">PROPN</a></tt> (8; 2% instances).
 
 ### `NOUN`

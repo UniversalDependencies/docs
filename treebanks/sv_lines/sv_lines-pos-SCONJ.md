@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-LinES: POS Tags: `SCONJ`
 
-There are 28 `SCONJ` lemmas (0%), 29 `SCONJ` types (0%) and 1939 `SCONJ` tokens (2%).
+There are 29 `SCONJ` lemmas (0%), 30 `SCONJ` types (0%) and 1939 `SCONJ` tokens (2%).
 Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 12 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>att, om, när, som, medan, eftersom, innan, då, så, än</em>
 
 The 10 most frequent `SCONJ` types:  <em>att, om, när, som, medan, eftersom, innan, då, så, än</em>
 
-The 10 most frequent ambiguous lemmas: <em>att</em> (<tt><a href="sv_lines-pos-PART.html">PART</a></tt> 1177, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 821), <em>om</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 391, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 322, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 35), <em>när</em> (<tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 308, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 3), <em>som</em> (<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1086, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 406, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 129, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 8), <em>innan</em> (<tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 38, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 1), <em>då</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 98, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 28), <em>så</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 306, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="sv_lines-pos-PART.html">PART</a></tt> 16, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 15), <em>än</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 61, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 24), <em>sedan</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 83, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 25, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 16), <em>med</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 961, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 47, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 11)
+The 10 most frequent ambiguous lemmas: <em>att</em> (<tt><a href="sv_lines-pos-PART.html">PART</a></tt> 1177, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 821), <em>om</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 391, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 322, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 35), <em>när</em> (<tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 308, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 3), <em>som</em> (<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1087, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 405, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 129, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 8), <em>innan</em> (<tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 38, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 1), <em>då</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 98, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 28), <em>så</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 306, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="sv_lines-pos-PART.html">PART</a></tt> 16, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 15), <em>än</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 61, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 24), <em>sedan</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 83, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 25, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 16), <em>med</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 961, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 47, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 11)
 
-The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_lines-pos-PART.html">PART</a></tt> 1147, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 820), <em>om</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 372, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 227, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 35), <em>när</em> (<tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 188, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 3), <em>som</em> (<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1084, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 398, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 123, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 8), <em>innan</em> (<tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 28, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 1), <em>då</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 79, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 25), <em>så</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 285, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="sv_lines-pos-PART.html">PART</a></tt> 16, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 8), <em>än</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 61, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 23), <em>sedan</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 41, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 14, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 12), <em>med</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 934, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 47, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 11)
+The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_lines-pos-PART.html">PART</a></tt> 1147, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 820), <em>om</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 372, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 227, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 35), <em>när</em> (<tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 188, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 3), <em>som</em> (<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1085, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 397, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 123, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 8), <em>innan</em> (<tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 28, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 1), <em>då</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 79, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 25), <em>så</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 285, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="sv_lines-pos-PART.html">PART</a></tt> 16, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 8), <em>än</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 61, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 23), <em>sedan</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 41, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 14, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 12), <em>med</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 934, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 47, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 11)
 
 
 * <em>att</em>
@@ -29,8 +29,8 @@ The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_lines-pos-P
   * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 188: <em>Filterinställningarna kvarstår <b>när</b> du ändrar layouten och flyttar fält .</em>
   * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 3: <em>Du kan <b>när</b> som helst växla tillbaka till hjälpavsnittet .</em>
 * <em>som</em>
-  * <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1084: <em>Identifiera filter <b>som</b> är igång</em>
-  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 398: <em>SQL Server måste köras på samma dator <b>som</b> Access-projektet .</em>
+  * <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1085: <em>Identifiera filter <b>som</b> är igång</em>
+  * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 397: <em>SQL Server måste köras på samma dator <b>som</b> Access-projektet .</em>
   * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 123: <em>Författare ? Quinn uttalade ordet <b>som</b> vore det en veklagan .</em>
   * <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Man har undersökt såväl barn <b>som</b> anställda på elverk .</em>
 * <em>innan</em>
@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_lines-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.035714 (the average of all parts of speech is 1.417078).
+The form / lemma ratio of `SCONJ` is 1.034483 (the average of all parts of speech is 1.416999).
 
 The 1st highest number of forms (2) was observed with the lemma “sedan”: <em>sedan, sen</em>.
 
@@ -68,12 +68,12 @@ The 2nd highest number of forms (1) was observed with the lemma “allteftersom�
 
 The 3rd highest number of forms (1) was observed with the lemma “att”: <em>att</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt> (2; 0% instances)
+`SCONJ` occurs with 1 features: <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt> (3; 0% instances)
 
 `SCONJ` occurs with 1 feature-value pairs: `PronType=Rel`
 
 `SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1937 tokens).
+The most frequent feature combination is `_` (1936 tokens).
 Examples: <em>att, om, när, som, medan, eftersom, innan, då, så, än</em>
 
 

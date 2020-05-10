@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CLTT: Relations: `obl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `obl`: <tt><a href="cs_cltt-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="cs_cltt-dep-obl-arg.html">obl:arg</a></tt>.
+There are 1 language-specific subtypes of `obl`: <tt><a href="cs_cltt-dep-obl-arg.html">obl:arg</a></tt>.
 
 2030 nodes (6%) are attached to their parents as `obl`.
 
@@ -65,7 +65,7 @@ The following 25 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 obl	color:blue
-1	Výrobou	výroba	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	3	obl:agent	_	_
+1	Výrobou	výroba	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	3	obl:arg	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pass	_	_
 3	rozumí	rozumět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	i	i	CCONJ	J^-------------	_	6	advmod:emph	_	LId=i-1
@@ -74,7 +74,7 @@ The following 25 pairs of parts of speech are connected with `obl`: <tt><a href=
 7	,	,	PUNCT	Z:-------------	_	10	punct	_	_
 8	při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	_	LId=při-1
 9	které	který	DET	P4FS6----------	Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel	10	obl	_	_
-10	nevznikají	vznikat	VERB	VB-P---3P-NA---	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	_
+10	nevznikají	vznikat	VERB	VB-P---3P-NA---	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
 11	hmotné	hmotný	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	12	amod	_	_
 12	produkty	produkt	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	10	nsubj	_	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	3	punct	_	_

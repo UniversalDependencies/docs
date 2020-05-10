@@ -72,9 +72,9 @@ The 3rd highest number of forms (2) was observed with the lemma “அங்க�
 
 Parents of `ADV` nodes belong to 7 different parts of speech: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (305; 80% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (39; 10% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (24; 6% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-311 (82%) `ADV` nodes are leaves.
+310 (81%) `ADV` nodes are leaves.
 
-64 (17%) `ADV` nodes have one child.
+65 (17%) `ADV` nodes have one child.
 
 4 (1%) `ADV` nodes have two children.
 
@@ -82,7 +82,7 @@ Parents of `ADV` nodes belong to 7 different parts of speech: <tt><a href="ta_tt
 
 The highest child degree of a `ADV` node is 5.
 
-Children of `ADV` nodes are attached using 10 different relations: <tt><a href="ta_ttb-dep-obl.html">obl</a></tt> (36; 44% instances), <tt><a href="ta_ttb-dep-amod.html">amod</a></tt> (11; 14% instances), <tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt> (11; 14% instances), <tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt> (9; 11% instances), <tt><a href="ta_ttb-dep-advmod.html">advmod</a></tt> (5; 6% instances), <tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt> (4; 5% instances), <tt><a href="ta_ttb-dep-obl-arg.html">obl:arg</a></tt> (2; 2% instances), <tt><a href="ta_ttb-dep-advmod-emph.html">advmod:emph</a></tt> (1; 1% instances), <tt><a href="ta_ttb-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="ta_ttb-dep-nummod.html">nummod</a></tt> (1; 1% instances)
+Children of `ADV` nodes are attached using 11 different relations: <tt><a href="ta_ttb-dep-obl.html">obl</a></tt> (36; 44% instances), <tt><a href="ta_ttb-dep-amod.html">amod</a></tt> (11; 13% instances), <tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt> (11; 13% instances), <tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt> (9; 11% instances), <tt><a href="ta_ttb-dep-advmod.html">advmod</a></tt> (5; 6% instances), <tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt> (4; 5% instances), <tt><a href="ta_ttb-dep-obl-arg.html">obl:arg</a></tt> (2; 2% instances), <tt><a href="ta_ttb-dep-advmod-emph.html">advmod:emph</a></tt> (1; 1% instances), <tt><a href="ta_ttb-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="ta_ttb-dep-nummod.html">nummod</a></tt> (1; 1% instances), <tt><a href="ta_ttb-dep-punct.html">punct</a></tt> (1; 1% instances)
 
-Children of `ADV` nodes belong to 9 different parts of speech: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (39; 48% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (11; 14% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (9; 11% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (6; 7% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (5; 6% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (4; 5% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (2; 2% instances)
+Children of `ADV` nodes belong to 10 different parts of speech: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (39; 48% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (11; 13% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (9; 11% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (6; 7% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (5; 6% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (4; 5% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="ta_ttb-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances)
 

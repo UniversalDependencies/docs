@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="kpv_ikdp-dep-aux.html">aux</a></tt>.
 
-17 nodes (1%) are attached to their parents as `aux:neg`.
+20 nodes (1%) are attached to their parents as `aux:neg`.
 
-15 instances of `aux:neg` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23529411764706.
+17 instances of `aux:neg` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2.
 
-The following 3 pairs of parts of speech are connected with `aux:neg`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (14; 82% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (2; 12% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `aux:neg`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (16; 80% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (2; 10% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -26,10 +26,10 @@ The following 3 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 2	что	что	PRON	Pron	_	1	fixed	_	Lang=Rus|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	никучем	никутшӧм	ADV	Adv	Polarity=Neg	5	advmod	_	_
-5	иностраннэй	иностраннӧй	ADJ	A	Case=Nom|Number=Sing	6	advmod	_	Lang=Mixed
+5	иностраннэй	иностраннӧй	ADJ	A	Case=Nom|Number=Sing	6	amod	_	Lang=Mixed
 6	местаясэ	места	NOUN	N	Case=Ill|Number=Plur	8	obl	_	Lang=Mixed
-7	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux:neg	_	_
-8	ветлоо	ветлыны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	SpaceAfter=No
+7	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	8	aux:neg	_	_
+8	ветлоо	ветлыны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	8	punct	_	_
 
 ~~~
@@ -44,8 +44,8 @@ The following 3 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 1	Но	но	CCONJ	CC	_	2	cc	_	Lang=Mixed
 2	тятеис	тятей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	GTtags=Sg,Nom,PxSg3
 3	потанас	потан	NOUN	N	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=Sg,Ine,PxSg3
-4	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	2	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
-5	вӧв	вӧвны	AUX	V	Connegative=Yes|Number=Sing	2	aux	_	GTtags=IV,ConNeg|SpaceAfter=No
+4	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	2	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
+5	вӧв	вӧвны	AUX	V	Connegative=Yes	2	aux	_	GTtags=IV,ConNeg|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
@@ -59,8 +59,8 @@ The following 3 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 # visual-style 2 3 aux:neg	color:blue
 1	Пока	пока	ADV	Adv	_	2	advmod	_	_
 2	лёк	лёк	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
-3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	2	aux:neg	_	_
-4	ло	лоны	AUX	V	Connegative=Yes|Number=Sing	2	aux	_	SpaceAfter=No
+3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg	2	aux:neg	_	_
+4	ло	лоны	AUX	V	Connegative=Yes	2	aux	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	но	но	CCONJ	CC	_	13	cc	_	Lang=Mixed|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_

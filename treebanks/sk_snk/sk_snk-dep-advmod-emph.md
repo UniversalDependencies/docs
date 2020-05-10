@@ -23,10 +23,10 @@ The following 23 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 7	fgColor:white
 # visual-style 7 6 advmod:emph	color:blue
 1	V	v	ADP	Eu6	AdpType=Prep|Case=Loc	2	case	2:case	_
-2	prípade	prípad	NOUN	SSis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	9:obl	SpaceAfter=No
+2	prípade	prípad	NOUN	SSis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	9:obl:v:loc	SpaceAfter=No
 3	,	,	PUNCT	ZIP	_	5	punct	5:punct	_
 4	že	že	SCONJ	O	_	5	mark	5:mark	_
-5	nebudú	byť	VERB	VBepc-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin	2	acl	2:acl	_
+5	nebudú	byť	VERB	VBepc-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin	2	acl	2:acl:že	_
 6	ani	ani	PART	T	_	7	advmod:emph	7:advmod:emph	_
 7	dedičia	dedič	NOUN	SSmp1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	5:nsubj	SpaceAfter=No
 8	,	,	PUNCT	ZIP	_	5	punct	5:punct	_
@@ -47,7 +47,7 @@ The following 23 pairs of parts of speech are connected with `advmod:emph`: <tt>
 1	Hélium	hélium	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	5:nsubj	_
 2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	5	expl:pv	5:expl:pv	_
 3	na	na	ADP	Eu6	AdpType=Prep|Case=Loc	4	case	4:case	_
-4	Zemi	zem	PROPN	SSfs6:r	Case=Loc|Gender=Fem|Number=Sing	5	obl	5:obl	_
+4	Zemi	zem	PROPN	SSfs6:r	Case=Loc|Gender=Fem|Number=Sing	5	obl	5:obl:na:loc	_
 5	vyskytuje	vyskytovať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	iba	iba	PART	T	_	8	advmod:emph	8:advmod:emph	_
 7	veľmi	veľmi	ADV	Dx	Degree=Pos	8	advmod	8:advmod	_
@@ -69,7 +69,7 @@ The following 23 pairs of parts of speech are connected with `advmod:emph`: <tt>
 4	je	byť	AUX	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
 5	už	už	PART	T	_	6	advmod:emph	6:advmod:emph	_
 6	druhý	druhý	ADJ	NAis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	7	amod	7:amod	_
-7	deň	deň	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	9:obl	_
+7	deň	deň	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	9:obl:acc	_
 8	veľmi	veľmi	ADV	Dx	Degree=Pos	9	advmod	9:advmod	_
 9	nepokojná	nepokojný	ADJ	AAfs1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
 10	.	.	PUNCT	ZIP	_	9	punct	9:punct	_

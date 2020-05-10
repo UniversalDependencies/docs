@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15843 nodes (5%) are attached to their parents as `root`.
+21403 nodes (5%) are attached to their parents as `root`.
 
-15843 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.47377390645711.
+21403 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.6650469560342.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (12890; 81% instances), -<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (1612; 10% instances), -<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (506; 3% instances), -<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (292; 2% instances), -<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (196; 1% instances), -<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (165; 1% instances), -<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (65; 0% instances), -<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (64; 0% instances), -<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (36; 0% instances), -<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (10; 0% instances), -<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (4; 0% instances), -<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), -<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (17735; 83% instances), -<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (2076; 10% instances), -<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (628; 3% instances), -<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (338; 2% instances), -<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (218; 1% instances), -<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (200; 1% instances), -<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (80; 0% instances), -<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (67; 0% instances), -<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (37; 0% instances), -<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (16; 0% instances), -<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (4; 0% instances), -<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), -<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,7 +61,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
 1	Mai	mai	ADV	Rg	_	2	advmod	_	ref=MATT18.1.content
-2	mare	mare	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=MATT18.1.content
+2	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	0	root	_	ref=MATT18.1.content
 3	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT18.1.content
 4	Împărățiia	împărăție	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	ref=MATT18.1.content
 5	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	ref=MATT18.1.content

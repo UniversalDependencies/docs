@@ -10,22 +10,22 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 31745 tokens (14%) have a non-empty value of `Person`.
-6252 types (15%) occur at least once with a non-empty value of `Person`.
+6251 types (14%) occur at least once with a non-empty value of `Person`.
 2679 lemmas (14%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (16965; 8% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (7830; 4% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (5324; 2% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (1626; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (16964; 8% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (7830; 4% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (5325; 2% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (1626; 1% instances).
 
 ### `VERB`
 
-16965 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (52% of all `VERB` tokens) have a non-empty value of `Person`.
+16964 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (52% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (16965; 100%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16965; 100%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (16965; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (16965; 100%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16965; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16965; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (16964; 100%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (16501; 97%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16501; 97%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (15291; 90%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (16964; 100%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16964; 100%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (16964; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (16964; 100%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16964; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16964; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (16963; 100%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (16500; 97%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16500; 97%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (15290; 90%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (2379; 14% of non-empty `Person`): <em>domāju, varu, zinu, nevaru, teicu, nezinu, gribu, vēlos, varam, esmu</em>
 * `2` (864; 5% of non-empty `Person`): <em>vari, stum, zini, lasiet, domā, liec, varat, atceries, ej, gribi</em>
-* `3` (13722; 81% of non-empty `Person`): <em>ir, var, nav, bija, nevar, teica, būs, notiek, sāka, saka</em>
-* `EMPTY` (15904): <em>varētu, darīt, strādāt, dzīvot, izmantot, iet, runāt, būt, izmantojot, teikt</em>
+* `3` (13721; 81% of non-empty `Person`): <em>ir, var, nav, bija, nevar, teica, būs, notiek, sāka, saka</em>
+* `EMPTY` (15900): <em>varētu, darīt, strādāt, dzīvot, izmantot, iet, runāt, būt, izmantojot, teikt</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -48,7 +48,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 7830 <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> tokens (64% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5869; 75%), <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5101; 65%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4085; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5869; 75%), <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5101; 65%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4082; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -71,16 +71,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-5324 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Person`.
+5325 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5324; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5324; 100%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (5321; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5321; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4555; 86%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3737; 70%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5325; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5325; 100%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (5322; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5322; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4556; 86%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3738; 70%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (329; 6% of non-empty `Person`): <em>esmu, esam, biju, neesmu, bijām, neesam, tiku, būsim, būšu, kļuvu</em>
 * `2` (84; 2% of non-empty `Person`): <em>esi, esat, nebūsi, neesat, būsi, neesi, esiet, nebijāt, būsiet, kļuvi</em>
-* `3` (4911; 92% of non-empty `Person`): <em>ir, bija, nav, tiek, tika, būs, tiks, nebija, kļūst, kļuva</em>
-* `EMPTY` (734): <em>būtu, būt, esot, bijis, jābūt, nebūtu, neesot, bijusi, kļūt, kļuvis</em>
+* `3` (4912; 92% of non-empty `Person`): <em>ir, bija, nav, tiek, tika, būs, tiks, nebija, kļūst, kļuva</em>
+* `EMPTY` (736): <em>būtu, būt, esot, bijis, jābūt, nebūtu, neesot, bijusi, kļūt, kļuvis</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -122,8 +122,8 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2840; 72%),
-<tt>VERB --[<tt><a href="lv_lvtb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2578; 58%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2841; 72%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2579; 58%),
 <tt>PRON --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> PRON</tt> (14; 67%),
 <tt>AUX --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (7; 88%),
 <tt>AUX --[<tt><a href="lv_lvtb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 75%),

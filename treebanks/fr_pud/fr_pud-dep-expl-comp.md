@@ -23,17 +23,17 @@ The following 1 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 expl:comp	color:blue
-1	Il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	3	expl:subj	_	_
-2	y	_	PRON	PRP	Person=3	3	expl:comp	_	_
-3	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-4	encore	_	ADV	RB	_	3	advmod	_	_
-5	des	_	DET	DT	Gender=Fem|Number=Plur	6	det	_	_
-6	questions	_	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
-7	qui	_	PRON	WP	Gender=Fem|Number=Plur	8	nsubj	_	_
-8	demeurent	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	acl:relcl	_	_
-9	sans	_	ADP	IN	_	10	case	_	_
-10	réponse	_	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
-11	.	_	PUNCT	.	_	3	punct	_	_
+1	Il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3	3	expl:subj	_	wordform=il
+2	y	y	PRON	PRP	Person=3	3	expl:comp	_	_
+3	a	avoir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	encore	encore	ADV	RB	_	3	advmod	_	_
+5	des	un	DET	DT	Gender=Fem|Number=Plur	6	det	_	_
+6	questions	question	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
+7	qui	qui	PRON	WP	Gender=Fem|Number=Plur	8	nsubj	_	_
+8	demeurent	demeurer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	sans	sans	ADP	IN	_	10	case	_	_
+10	réponse	réponse	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

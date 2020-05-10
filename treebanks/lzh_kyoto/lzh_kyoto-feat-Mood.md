@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Des`, `Nec`, `Pot`.
 
-1186 tokens (2%) have a non-empty value of `Mood`.
+1558 tokens (1%) have a non-empty value of `Mood`.
 8 types (0%) occur at least once with a non-empty value of `Mood`.
 8 lemmas (0%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1186; 2% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1558; 1% instances).
 
 ### `AUX`
 
-1186 <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Mood`.
+1558 <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="lzh_kyoto-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (1186; 100%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="lzh_kyoto-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (1558; 100%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Des` (224; 19% of non-empty `Mood`): <em>敢, 欲</em>
-* `Nec` (16; 1% of non-empty `Mood`): <em>宜, 儀</em>
-* `Pot` (946; 80% of non-empty `Mood`): <em>可, 能, 得, 足</em>
-* `EMPTY` (285): <em>為, 見, 免</em>
+* `Des` (345; 22% of non-empty `Mood`): 敢、 欲
+* `Nec` (27; 2% of non-empty `Mood`): 宜、 儀
+* `Pot` (1186; 76% of non-empty `Mood`): 可、 能、 得、 足
+* `EMPTY` (555): 為、 見
 
 ## Relations with Agreement in `Mood`
 

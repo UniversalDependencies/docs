@@ -22,8 +22,8 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 
 `PART` tokens may have the following values of `PronType`:
 
-* `Int` (8; 100% of non-empty `PronType`): <em>หรือเปล่า, หรือไม่, เหรอ, หรือ, ไหม</em>
-* `EMPTY` (1001): <em>ได้, ไม่, ไป, มา, ขึ้น, อยู่, แล้ว, ออก, ยัง, ลง</em>
+* `Int` (8; 100% of non-empty `PronType`): หรือเปล่า, หรือไม่, เหรอ, หรือ, ไหม
+* `EMPTY` (1001): ได้, ไม่, ไป, มา, ขึ้น, อยู่, แล้ว, ออก, ยัง, ลง
 
 ### `PRON`
 
@@ -33,8 +33,8 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Int` (4; 100% of non-empty `PronType`): <em>ใคร, อะไร, ไหน</em>
-* `EMPTY` (679): <em>เขา, กัน, เธอ, เรา, ฉัน, มัน, ที่, นี้, นี่, นั้น</em>
+* `Int` (4; 100% of non-empty `PronType`): ใคร, อะไร, ไหน
+* `EMPTY` (679): เขา, กัน, เธอ, เรา, ฉัน, มัน, ที่, นี้, นี่, นั้น
 
 ### `ADV`
 
@@ -42,8 +42,8 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Int` (2; 100% of non-empty `PronType`): <em>ทำไม, อย่างไร</em>
-* `EMPTY` (949): <em>ก็, มาก, ที่สุด, ด้วย, ขึ้น, ไว้, ไป, กว่า, เลย, อีก</em>
+* `Int` (2; 100% of non-empty `PronType`): ทำไม, อย่างไร
+* `EMPTY` (949): ก็, มาก, ที่สุด, ด้วย, ขึ้น, ไว้, ไป, กว่า, เลย, อีก
 
 ### `DET`
 
@@ -51,6 +51,6 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Int` (1; 100% of non-empty `PronType`): <em>อะไร</em>
-* `EMPTY` (1039): <em>ที่, นี้, ซึ่ง, นั้น, หลาย, ทั้ง, อีก, ทุก, บาง, ทั้งหมด</em>
+* `Int` (1; 100% of non-empty `PronType`): อะไร
+* `EMPTY` (1039): ที่, นี้, ซึ่ง, นั้น, หลาย, ทั้ง, อีก, ทุก, บาง, ทั้งหมด
 

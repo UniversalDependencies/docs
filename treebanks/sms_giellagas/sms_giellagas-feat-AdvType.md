@@ -9,16 +9,26 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Tim`.
 
-10 tokens (3%) have a non-empty value of `AdvType`.
-9 types (5%) occur at least once with a non-empty value of `AdvType`.
-9 lemmas (5%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (10; 3% instances).
+29 tokens (3%) have a non-empty value of `AdvType`.
+14 types (3%) occur at least once with a non-empty value of `AdvType`.
+13 lemmas (4%) occur at least once with a non-empty value of `AdvType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (28; 3% instances), <tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-10 <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> tokens (31% of all `ADV` tokens) have a non-empty value of `AdvType`.
+28 <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> tokens (26% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
 `ADV` tokens may have the following values of `AdvType`:
 
-* `Tim` (10; 100% of non-empty `AdvType`): <em>âʹtte, Vuõššân, jåhtta, mâŋŋa, måttmešt, tâʹl, vâl, võl, ååʹn</em>
+* `Tim` (28; 100% of non-empty `AdvType`): <em>âʹtte, mâŋŋa, teä, teʹl, ååʹn, Vuõššân, jåhtta, kuuʹǩǩ, måttmešt, tâʹl</em>
+
+`AdvType` seems to be **lexical feature** of `ADV`. 100% lemmas (12) occur only with one value of `AdvType`.
+
+### `SCONJ`
+
+1 <tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> tokens (4% of all `SCONJ` tokens) have a non-empty value of `AdvType`.
+
+`SCONJ` tokens may have the following values of `AdvType`:
+
+* `Tim` (1; 100% of non-empty `AdvType`): <em>Gu</em>
 

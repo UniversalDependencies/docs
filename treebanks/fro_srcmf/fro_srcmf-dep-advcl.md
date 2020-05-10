@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3873 nodes (2%) are attached to their parents as `advcl`.
+3841 nodes (2%) are attached to their parents as `advcl`.
 
-2366 instances of `advcl` (61%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.77433514071779.
+2337 instances of `advcl` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.77714136943504.
 
-The following 20 pairs of parts of speech are connected with `advcl`: <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (3242; 84% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (257; 7% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (115; 3% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (89; 2% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (64; 2% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> (42; 1% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (15; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt>-<tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `advcl`: <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (3230; 84% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (251; 7% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (115; 3% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (82; 2% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (63; 2% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> (42; 1% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt>-<tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 20 pairs of parts of speech are connected with `advcl`: <tt><a hre
 3	reis	_	NOUN	NOMcom	_	4	nsubj	_	_
 4	voelt	_	VERB	VERcjg	VerbForm=Fin	5	advcl	_	_
 5	prez	_	ADJ	ADJqua	_	0	root	_	_
-6	sui	_	VERB	VERcjg	VerbForm=Fin	5	cop	_	_
+6	sui	_	AUX	VERcjg	VerbForm=Fin	5	cop	_	_
 7	por	_	ADP	PRE	_	8	case	_	_
 8	vus	_	PRON	PROper	PronType=Prs	10	obl	_	_
 9	le	_	PRON	PROper	PronType=Prs	10	obj	_	_
@@ -61,7 +61,7 @@ The following 20 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 2 10 advcl	color:blue
 1	Tant	_	ADV	ADVgen	_	10	advmod	_	_
 2	par	_	ADV	ADVgen	_	4	advmod	_	_
-3	fut	_	VERB	VERcjg	VerbForm=Fin	4	cop	_	_
+3	fut	_	AUX	VERcjg	VerbForm=Fin	4	cop	_	_
 4	bels	_	ADJ	ADJqua	_	0	root	_	_
 5	tuit	_	ADJ	ADJind	PronType=Ind	7	amod	_	_
 6	si	_	DET	DETpos	Poss=Yes	7	det	_	_

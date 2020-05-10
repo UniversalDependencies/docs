@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-254 nodes (5%) are attached to their parents as `root`.
+357 nodes (5%) are attached to their parents as `root`.
 
-254 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 14.007874015748.
+357 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 13.6610644257703.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (212; 83% instances), -<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (29; 11% instances), -<tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (7; 3% instances), -<tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), -<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), -<tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), -<tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (294; 82% instances), -<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (42; 12% instances), -<tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (9; 3% instances), -<tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), -<tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), -<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), -<tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,9 +30,9 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 6	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	5	case	_	_
 7	नेह	नेह	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
 8	नेवता	नेव	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	SpacesAfter=\n
-9	दीहल	दीहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+9	दीहल	दे	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 10	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
-11	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
+11	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
 12	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	9	aux	_	_
 13	।	।	PUNCT	RD_PUNC	_	9	punct	_	_
 
@@ -45,8 +45,8 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	लोकरंजन	लोकरंजन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
-2	आ	आ	CCONJ	CC_CCD	_	1	cc	_	_
+1	लोकरंजन	लोकरंजन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
+2	आ	आ	CCONJ	CC_CCD	_	3	cc	_	_
 3	सांस्कृतिक	सांस्कृतिक	ADJ	JJ	Case=Nom	1	conj	_	_
 4	गीत	गीत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 5	-	-	PUNCT	RD_SYM	_	4	punct	_	_
@@ -62,12 +62,12 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 8 root	color:blue
 1	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	8	nmod	_	_
 2	में	में	ADP	PSP	AdpType=Post	1	mark	_	_
-3	लागल	लागल	VERB	V_VM	_	4	amod	_	_
+3	लागल	लग	VERB	V_VM	_	4	amod	_	_
 4	लोग	लोग	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	nsubj	_	_
 5	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	4	case	_	_
 6	उत्साह	उत्साह	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nmod	_	_
 7	बढ़ावल	बढ़ावल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
-8	जाव	जाव	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	0	root	_	_
+8	जाव	जा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	0	root	_	_
 9	।	।	PUNCT	RD_PUNC	_	8	punct	_	_
 
 ~~~

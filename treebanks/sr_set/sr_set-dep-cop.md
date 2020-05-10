@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1556 nodes (2%) are attached to their parents as `cop`.
+1555 nodes (2%) are attached to their parents as `cop`.
 
 1366 instances of `cop` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.30462724935733.
+Average distance between parent and child is 2.30096463022508.
 
-The following 13 pairs of parts of speech are connected with `cop`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (739; 47% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (656; 42% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (84; 5% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (29; 2% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (751; 48% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (659; 42% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (84; 5% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (29; 2% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

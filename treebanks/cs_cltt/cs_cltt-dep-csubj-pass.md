@@ -68,7 +68,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 19 csubj:pass	color:blue
-1	Zohledněním	zohlednění	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	14	obl:agent	_	_
+1	Zohledněním	zohlednění	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	14	obl:arg	_	_
 2	předpokládané	předpokládaný	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	_	_
 3	zbytkové	zbytkový	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	_	_
 4	hodnoty	hodnota	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ga_idt-dep-nmod.html">nmod</a></tt>.
 
-372 nodes (1%) are attached to their parents as `nmod:poss`.
+624 nodes (1%) are attached to their parents as `nmod:poss`.
 
-370 instances of `nmod:poss` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.0752688172043.
+622 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05608974358974.
 
-The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (357; 96% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (8; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (604; 97% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (11; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,18 +63,29 @@ The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 nmod:poss	color:blue
-1	Ar	ar	ADP	Simp	_	0	root	_	_
-2	dhá	dó	NUM	Num	NumType=Card	3	nummod	_	_
-3	chúis	cúis	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Fem|Number=Sing	1	nmod	_	_
-4	ar	ar	ADP	Simp	_	6	case	_	_
-5	a	a	PART	Inf	PartType=Inf	6	nmod:poss	_	_
-6	laghad	laghad	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nmod:poss	color:blue
+1	Bricfeasta	bricfeasta	NOUN	Noun	Gender=Masc|Number=Sing	0	root	_	_
+2	ag	ag	ADP	Simp	_	4	case	_	_
+3	a	a	PART	Nm	PartType=Num	4	nmod:poss	_	_
+4	leath	leath	NOUN	Noun	Gender=Fem|Number=Sing	1	obl:tmod	_	_
+5	i	i	ADP	Cmpd	PrepForm=Cmpd	8	case	_	_
+6	ndiaidh	ndiaidh	ADP	Cmpd	PrepForm=Cmpd	5	fixed	_	_
+7	a	a	PART	Nm	PartType=Num	8	mark:prt	_	_
+8	sé	sé	NUM	Num	NumType=Card	4	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	Punct	_	11	punct	_	_
+10	agus	agus	CCONJ	Coord	_	11	mark	_	_
+11	muid	muid	PRON	Pers	Number=Plur|Person=1	1	advcl	_	_
+12	ag	ag	ADP	Simp	_	13	case	_	_
+13	buaileadh	buail	NOUN	Noun	VerbForm=Vnoun	11	xcomp	_	_
+14	bothair	bothair	NOUN	Noun	Gender=Fem|Number=Sing	13	obj	_	_
+15	ag	ag	ADP	Simp	_	17	case	_	_
+16	a	a	PART	Nm	PartType=Num	17	mark:prt	_	_
+17	seacht	seacht	NUM	Num	NumType=Card	13	obl:tmod	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

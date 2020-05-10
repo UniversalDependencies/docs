@@ -24,7 +24,7 @@ The following 52 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 8 9 xcomp	color:blue
 1	Protože	protože	SCONJ	J,-------------	_	8	mark	8:mark	_
 2	bez	bez	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	3:case	LId=bez-1
-3	železnice	železnice	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	8	obl	8:obl	_
+3	železnice	železnice	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	8	obl	8:obl:bez:gen	_
 4	bychom	být	AUX	Vc-P---1-------	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	8	aux	8:aux	_
 5	si	se	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	9	expl:pv	9:expl:pv	LGloss=(zvr._zájmeno/částice)
 6	život	život	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	9	obj	9:obj	_
@@ -48,7 +48,7 @@ The following 52 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	jako	jako	SCONJ	J,-------------	_	6	aux	6:aux	_
 5	další	další	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	6	amod	6:amod	_
 6	akci	akce	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	xcomp	7:xcomp	_
-7	výstavbu	výstavba	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	nmod	3:nmod	SpaceAfter=No
+7	výstavbu	výstavba	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	nmod	3:nmod:acc	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~
@@ -61,9 +61,9 @@ The following 52 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 7 xcomp	color:blue
 1	Konečně	konečně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	advmod	5:advmod	LDeriv=konečný
-2	všechny	všechno	PRON	PLIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	3	nmod	3:nmod	_
-3	druhy	druh	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	5	nsubj	5:nsubj	LId=druh-1|LGloss=(typ)
-4	pleti	pleť	NOUN	NNFS2-----A---1	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	3	nmod	3:nmod	_
+2	všechny	všechno	PRON	PLIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	3	nmod	3:nmod:nom	_
+3	druhy	druh	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	5	nsubj	5:nsubj|7:nsubj	LId=druh-1|LGloss=(typ)
+4	pleti	pleť	NOUN	NNFS2-----A---1	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	3	nmod	3:nmod:gen	_
 5	mohou	moci	VERB	VB-P---3P-AA--1	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LGloss=(mít_možnost_[něco_dělat])
 6	být	být	AUX	Vf--------A----	Polarity=Pos|VerbForm=Inf	7	cop	7:cop	_
 7	dráždivé	dráždivý	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	5	xcomp	5:xcomp	SpaceAfter=No

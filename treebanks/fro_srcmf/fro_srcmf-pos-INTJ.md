@@ -7,24 +7,25 @@ udver: '2'
 ## Treebank Statistics: UD_Old_French-SRCMF: POS Tags: `INTJ`
 
 There are 1 `INTJ` lemmas (8%), 20 `INTJ` types (0%) and 131 `INTJ` tokens (0%).
-Out of 12 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 12 in number of types and 12 in number of tokens.
+Out of 13 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>_</em>
 
 The 10 most frequent `INTJ` types:  <em>Ha, E, ahi, Hé, A, Avoi, O, va, Di, Diva</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 37037, <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> 26291, <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> 25210, <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> 20098, <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> 17215, <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> 16365, <tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> 10148, <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> 6599, <tt><a href="fro_srcmf-pos-SCONJ.html">SCONJ</a></tt> 5674, <tt><a href="fro_srcmf-pos-PROPN.html">PROPN</a></tt> 5543, <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> 430, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 131)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 29779, <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> 26292, <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> 24930, <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> 20225, <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> 16672, <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> 16338, <tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> 10102, <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> 7701, <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> 6455, <tt><a href="fro_srcmf-pos-SCONJ.html">SCONJ</a></tt> 5844, <tt><a href="fro_srcmf-pos-PROPN.html">PROPN</a></tt> 5543, <tt><a href="fro_srcmf-pos-NUM.html">NUM</a></tt> 728, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 131)
 
-The 10 most frequent ambiguous types:  <em>E</em> (<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> 312, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 26), <em>A</em> (<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> 371, <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 13, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 5), <em>O</em> (<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> 43, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> 1), <em>va</em> (<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 35, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 2), <em>Di</em> (<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 14, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 2), <em>hu</em> (<tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> 1), <em>Ai</em> (<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 4, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 1), <em>Avoir</em> (<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 2, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>E</em> (<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> 312, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 26), <em>A</em> (<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> 370, <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> 11, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 3), <em>O</em> (<tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> 43, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> 1), <em>va</em> (<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 35, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 2), <em>Di</em> (<tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 14, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 2), <em>hu</em> (<tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> 1), <em>Ai</em> (<tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> 4, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 1), <em>Avoir</em> (<tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> 1, <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 1)
 
 
 * <em>E</em>
   * <tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> 312: <em><b>E</b> dist al rei</em>
   * <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 26: <em><b>E</b> reis amis que vos ici nen estes</em>
 * <em>A</em>
-  * <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> 371: <em><b>A</b> seint Michel tendrat mult halte feste</em>
-  * <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 13: <em>Ha or oiez qel traïson Et con faite seducion <b>A</b> dit au roi cil nain Frocin</em>
+  * <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> 370: <em><b>A</b> seint Michel tendrat mult halte feste</em>
+  * <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> 11: <em>Ha or oiez qel traïson Et con faite seducion <b>A</b> dit au roi cil nain Frocin</em>
   * <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 5: <em><b>A</b> las tant avon a plorer</em>
+  * <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 3: <em>et travaillent <b>A</b> po qu' alainnes ne lor faillent</em>
 * <em>O</em>
   * <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> 43: <em>Or ne laira qu' au nain ne donge <b>O</b> s' espee si sa merite</em>
   * <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 3: <em><b>O</b> kiers amis de ta juvente bela Ço peiset mai que purirat en terre</em>
@@ -41,15 +42,16 @@ The 10 most frequent ambiguous types:  <em>E</em> (<tt><a href="fro_srcmf-pos-CC
   * <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 1: <em>Hu <b>hu</b> Maleüreus ou vas</em>
   * <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> 1: <em>Dunc recumencent e le <b>hu</b> e le cri</em>
 * <em>Ai</em>
-  * <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 4: <em>Par lor parler par lor mentir <b>Ai</b> mon nevo de moi chacié</em>
+  * <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> 4: <em>Par lor parler par lor mentir <b>Ai</b> mon nevo de moi chacié</em>
   * <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 1: <em><b>Ai</b> mi lasse moi caitive por coi sui en prison misse</em>
 * <em>Avoir</em>
-  * <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 2: <em><b>Avoir</b> en puisent mal mehain</em>
+  * <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> 1: <em>Ou tant de honte li voldroit <b>Avoir</b> feite que pis valdroit</em>
   * <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> 1: <em><b>Avoir</b> fait Aucassins bele douce amie ce ne porroit estre que vos m' amissiés tant que je fac vos</em>
+  * <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> 1: <em><b>Avoir</b> en puisent mal mehain</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 20.000000 (the average of all parts of speech is 1523.666667).
+The form / lemma ratio of `INTJ` is 20.000000 (the average of all parts of speech is 1423.769231).
 
 The 1st highest number of forms (20) was observed with the lemma “_”: <em>A, Ai, Avoi, Avoir, Ba, Di, Diva, E, Enondu, Ha, Hé, O, Os, ahi, chaeles, cheles, hu, queles, va, —Ha</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (1%) are attached to their parents as `mark`.
+17 nodes (1%) are attached to their parents as `mark`.
 
-8 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.125.
+17 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.94117647058824.
 
-The following 4 pairs of parts of speech are connected with `mark`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 50% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (2; 25% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 13% instances).
+The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (9; 53% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (3; 18% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (3; 18% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -23,13 +23,32 @@ The following 4 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 mark	color:blue
 1	Афи	афи	AUX	Aux	Polarity=Neg	2	aux:neg	_	_
-2	шарьхкодень	шарьхкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=2	0	root	_	SpaceAfter=No
+2	шарьхкодень	шарьхкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	5	punct	_	_
 4	кода	кода	ADV	Adv	_	5	mark	_	_
-5	лаподень	лаподемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=2	2	advcl	_	_
-6	карденя	карденя	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	obl	_	_
-7	пряста	пряста	ADP	Adp	AdpType=Post	6	case	_	SpaceAfter=No
+5	лаподень	лаподемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	2	advcl	_	_
+6	карденя	карда	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Sing|Typo=Yes	7	nmod:part	_	_
+7	пряста	пря	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	5	obl:lmod	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 mark	color:blue
+1	Сясы	сясы	SCONJ	CS	_	5	mark	_	_
+2	синь	сон	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+3	сембе	сембе	ADV	Adv	_	2	advmod	_	_
+4	и	и	CCONJ	CC	_	5	cc:preconj	_	_
+5	лётчикт	лётчик	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	8	punct	_	_
+7	и	и	CCONJ	CC	_	8	cc	_	_
+8	космонавтт	космонавт	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	5	conj	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
 
@@ -43,7 +62,7 @@ The following 4 pairs of parts of speech are connected with `mark`: <tt><a href=
 1	А	а	CCONJ	CC	_	4	cc	_	_
 2	мезе	мезе	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	0	root	_	_
 3	кда	кда	SCONJ	CS	_	4	mark	_	_
-4	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	2	advcl	_	SpaceAfter=No
+4	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	2	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
 6	аньцек	аньцек	ADV	Adv	_	7	advmod	_	_
 7	налхксемс	налхксемс	VERB	V	Valency=1|VerbForm=Inf	2	advcl	_	SpaceAfter=No
@@ -53,26 +72,6 @@ The following 4 pairs of parts of speech are connected with `mark`: <tt><a href=
 11	ёран	ёрамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=2	2	conj	_	_
 12	лиендемс	лиендемс	VERB	V	Valency=1|VerbForm=Inf	11	xcomp	_	SpaceAfter=No
 13	.	.	PUNCT	CLB	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 mark	color:blue
-1	И	и	CCONJ	CC	_	2	cc	_	_
-2	уендихть	уендемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	_
-3	сенем	сенем	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	4	amod	_	_
-4	менельть	менель	NOUN	N	Case=Gen|Definite=Def|Number=Sing	2	obl	_	_
-5	потмоса	потмоса	ADP	Adp	AdpType=Post	4	case	_	SpaceAfter=No
-6	,	,	PUNCT	CLB	_	9	punct	_	_
-7	кода	кода	ADV	Adv	_	9	mark	_	_
-8	оцю	оцю	ADJ	A	Case=Nom|Number=Sing	9	amod	_	_
-9	морява	моря	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	4	obl	_	SpaceAfter=No
-10	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

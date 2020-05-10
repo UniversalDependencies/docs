@@ -326,7 +326,7 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 `ADV` tokens may have the following values of `Gender`:
 
 * `Masc` (34; 100% of non-empty `Gender`): <em>raz, ráz, razy</em>
-* `EMPTY` (4399): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
+* `EMPTY` (4411): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
 
 ## Relations with Agreement in `Gender`
 

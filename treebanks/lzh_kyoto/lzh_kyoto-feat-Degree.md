@@ -9,38 +9,49 @@ udver: '2'
 This feature is universal but the values `Equ` are language-specific.
 It occurs with 4 different values: `Cmp`, `Equ`, `Pos`, `Sup`.
 
-5417 tokens (7%) have a non-empty value of `Degree`.
-503 types (17%) occur at least once with a non-empty value of `Degree`.
-502 lemmas (17%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (4769; 6% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (646; 1% instances), <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+8935 tokens (7%) have a non-empty value of `Degree`.
+638 types (16%) occur at least once with a non-empty value of `Degree`.
+635 lemmas (16%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 4 part-of-speech tags: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (7761; 6% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (1171; 1% instances), <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-4769 <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> tokens (19% of all `VERB` tokens) have a non-empty value of `Degree`.
+7761 <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> tokens (18% of all `VERB` tokens) have a non-empty value of `Degree`.
 
 `VERB` tokens may have the following values of `Degree`:
 
-* `Equ` (520; 11% of non-empty `Degree`): <em>如, 若, 猶, 區</em>
-* `Pos` (4249; 89% of non-empty `Degree`): <em>大, 仁, 正, 同, 小, 善, 遠, 明, 然, 重</em>
-* `EMPTY` (19769): <em>曰, 有, 以, 為, 無, 知, 謂, 行, 見, 問</em>
+* `Equ` (677; 9% of non-empty `Degree`): 如、 若、 猶、 奈、 區
+* `Pos` (7084; 91% of non-empty `Degree`): 大、 正、 同、 小、 明、 仁、 可、 貴、 然、 和
+* `EMPTY` (34758): 曰、 有、 以、 為、 無、 行、 謂、 知、 問、 見
 
-`Degree` seems to be **lexical feature** of `VERB`. 100% lemmas (478) occur only with one value of `Degree`.
+<table>
+  <tr><th>Paradigm <i>猶</i></th><th><tt>Pos</tt></th><th><tt>Equ</tt></th></tr>
+  <tr><td><tt></tt></td><td>猶</td><td>猶</td></tr>
+</table>
+
+`Degree` seems to be **lexical feature** of `VERB`. 100% lemmas (604) occur only with one value of `Degree`.
 
 ### `ADV`
 
-646 <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> tokens (8% of all `ADV` tokens) have a non-empty value of `Degree`.
+1171 <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> tokens (9% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="lzh_kyoto-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (646; 100%), <tt><a href="lzh_kyoto-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (632; 98%), <tt><a href="lzh_kyoto-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt> (632; 98%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="lzh_kyoto-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1171; 100%), <tt><a href="lzh_kyoto-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1146; 98%), <tt><a href="lzh_kyoto-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt> (1146; 98%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (3; 0% of non-empty `Degree`): <em>滋, 質</em>
-* `Equ` (7; 1% of non-empty `Degree`): <em>如, 猶, 若</em>
-* `Pos` (625; 97% of non-empty `Degree`): <em>然, 大, 善, 凡, 獨, 誠, 難, 多, 小, 易</em>
-* `Sup` (11; 2% of non-empty `Degree`): <em>寔, 已, 特, 實</em>
-* `EMPTY` (7668): <em>不, 則, 以, 故, 必, 亦, 非, 未, 無, 皆</em>
+* `Cmp` (4; 0% of non-empty `Degree`): 滋、 質
+* `Equ` (21; 2% of non-empty `Degree`): 如、 猶、 若
+* `Pos` (1129; 96% of non-empty `Degree`): 然、 凡、 大、 善、 小、 獨、 難、 易、 私、 誠
+* `Sup` (17; 1% of non-empty `Degree`): 已、 特、 報、 寔、 實、 備
+* `EMPTY` (12585): 不、 則、 以、 故、 必、 非、 亦、 未、 皆、 弗
 
-`Degree` seems to be **lexical feature** of `ADV`. 100% lemmas (147) occur only with one value of `Degree`.
+<table>
+  <tr><th>Paradigm <i>報</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><td><tt><tt><a href="lzh_kyoto-feat-AdvType.html">AdvType</a></tt><tt>=Deg</tt></tt></td><td></td><td>報</td></tr>
+  <tr><td><tt><tt><a href="lzh_kyoto-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td>報</td><td></td></tr>
+</table>
+
+`Degree` seems to be **lexical feature** of `ADV`. 99% lemmas (190) occur only with one value of `Degree`.
 
 ### `ADP`
 
@@ -48,15 +59,27 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 `ADP` tokens may have the following values of `Degree`:
 
-* `Equ` (2; 100% of non-empty `Degree`): <em>如</em>
-* `EMPTY` (1510): <em>於, 與, 為, 乎, 于, 自, 由, 有, 及, 從</em>
+* `Equ` (2; 100% of non-empty `Degree`): 如
+* `EMPTY` (2769): 於、 與、 為、 于、 乎、 自、 由、 有、 及、 從
+
+### `NOUN`
+
+1 <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="lzh_kyoto-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`NOUN` tokens may have the following values of `Degree`:
+
+* `Pos` (1; 100% of non-empty `Degree`): 高
+* `EMPTY` (38699): 人、 子、 天、 禮、 君、 民、 下、 王、 君子、 道
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>VERB --[<tt><a href="lzh_kyoto-dep-flat-vv.html">flat:vv</a></tt>]--> VERB</tt> (122; 52%),
-<tt>VERB --[<tt><a href="lzh_kyoto-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (78; 100%),
-<tt>ADV --[<tt><a href="lzh_kyoto-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (22; 100%),
-<tt>ADV --[<tt><a href="lzh_kyoto-dep-flat-vv.html">flat:vv</a></tt>]--> VERB</tt> (12; 57%),
-<tt>ADV --[<tt><a href="lzh_kyoto-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 60%).
+<tt>VERB --[<tt><a href="lzh_kyoto-dep-flat-vv.html">flat:vv</a></tt>]--> VERB</tt> (242; 51%),
+<tt>VERB --[<tt><a href="lzh_kyoto-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (107; 100%),
+<tt>ADV --[<tt><a href="lzh_kyoto-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (24; 100%),
+<tt>ADV --[<tt><a href="lzh_kyoto-dep-flat-vv.html">flat:vv</a></tt>]--> VERB</tt> (18; 58%),
+<tt>ADV --[<tt><a href="lzh_kyoto-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 56%),
+<tt>VERB --[<tt><a href="lzh_kyoto-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (2; 100%).
 

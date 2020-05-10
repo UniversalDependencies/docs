@@ -144,8 +144,8 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (172; 65%),
 <tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (31; 89%),
 <tt>VERB --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (21; 84%),
-<tt>VERB --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> VERB</tt> (9; 56%),
+<tt>VERB --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> VERB</tt> (7; 54%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (5; 63%),
-<tt>VERB --[<tt><a href="cs_cac-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cs_cac-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%),
+<tt>VERB --[<tt><a href="cs_cac-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (2; 100%).
 

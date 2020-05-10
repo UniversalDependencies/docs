@@ -29,7 +29,7 @@ The following 14 pairs of parts of speech are connected with `flat`: <tt><a href
 5	tient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 6	ki	_	PRON	PROrel	PronType=Prs,Rel	9	nsubj	_	_
 7	Deu	_	PROPN	NOMpro	_	9	obj	_	_
-8	nen	_	PRON	ADVgen.PROper	_	9	advmod	_	_
+8	nen	_	ADV	ADVgen.PROper	_	9	advmod	_	_
 9	aimet	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	_
 
 ~~~

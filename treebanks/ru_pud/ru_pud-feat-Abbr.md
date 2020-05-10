@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (43; 100% of non-empty `Abbr`): <em>э., г., гг., э, г-жа, г-жи, гг, ВВП, Г-н, ГФУ</em>
-* `EMPTY` (4855): <em>году, года, время, лет, войны, людей, города, компании, результате, течение</em>
+* `EMPTY` (4854): <em>году, года, время, лет, войны, людей, города, компании, результате, течение</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (11) occur only with one value of `Abbr`.
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>е.</em>
-* `EMPTY` (2110): <em>является, может, сказал, говорит, стало, могут, можно, заявил, находится, стал</em>
+* `EMPTY` (2112): <em>является, может, сказал, говорит, стало, могут, можно, заявил, находится, стал</em>
 
 ## Relations with Agreement in `Abbr`
 

@@ -8,12 +8,36 @@ udver: '2'
 
 This relation is universal.
 
-269 nodes (2%) are attached to their parents as `cop`.
+2127 nodes (2%) are attached to their parents as `cop`.
 
-269 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.70631970260223.
+2127 instances of `cop` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.30371415138693.
 
-The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (111; 41% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (47; 17% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (34; 13% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (22; 8% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (20; 7% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (16; 6% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (10; 4% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `cop`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (977; 46% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (271; 13% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (264; 12% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (234; 11% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (151; 7% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (127; 6% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (52; 2% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (17; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 cop	color:blue
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=233359|AlignEnd=233828|Gloss=PUNCT
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=233828|AlignEnd=233940|Gloss=NOM.SG.1
+3	say	say	VERB	_	_	0	root	_	AlignBegin=233940|AlignEnd=234030|Gloss=say
+4	[	[	PUNCT	_	_	12	punct	_	AlignBegin=234030|AlignEnd=234060|Gloss=PUNCT
+5	okay	OK	INTJ	_	_	12	discourse	_	AlignBegin=234060|AlignEnd=234265|Gloss=OK
+6	if	if	SCONJ	_	_	9	mark	_	AlignBegin=234295|AlignEnd=234500|Gloss=if
+7	na	na	AUX	_	PartType=Cop	9	cop	_	AlignBegin=234500|AlignEnd=234670|Gloss=be
+8	dat	dat	DET	_	Number=Sing|PronType=Dem	9	det	_	AlignBegin=234670|AlignEnd=234830|Gloss=SG.DIST.DEM
+9	one	one	NOUN	_	_	12	acl:periph	_	AlignBegin=234830|AlignEnd=235109|Gloss=one
+10	<	<	PUNCT	_	_	9	punct	_	AlignBegin=235109|AlignEnd=235139|Gloss=PUNCT
+11	no	no	PART	_	Polarity=Neg	12	advmod	_	AlignBegin=235139|AlignEnd=235370|Gloss=NEG
+12	problem	problem	NOUN	_	_	3	parataxis	_	AlignBegin=235370|AlignEnd=235725|Gloss=problem
+13	]	]	PUNCT	_	_	12	punct	_	AlignBegin=235725|AlignEnd=235755|Gloss=PUNCT
+14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=235725|AlignEnd=235755|Gloss=PUNCT
+
+~~~
 
 
 ~~~ conllu
@@ -22,74 +46,32 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
-1	#	#	PUNCT	_	_	3	punct	_	_
-2	na	na	AUX	PART	_	3	cop	_	_
-3	farmer	farmer	NOUN	_	_	0	root	_	_
-4	dem	dem	DET	PART	_	3	det	_	_
-5	>+	>+	PUNCT	_	_	7	punct	_	_
-6	dey	be	AUX	_	_	7	cop	_	_
-7	happy	happy	ADJ	_	_	3	acl:cleft	_	_
-8	pass	pass	VERB	_	_	7	compound:svc	_	_
-9	#	#	PUNCT	_	_	12	punct	_	_
-10	when	when	ADV	_	_	12	mark	_	_
-11	rain	rain	NOUN	_	_	12	nsubj	_	_
-12	fall	fall	VERB	_	_	7	advcl	_	_
-13	like	like	ADP	_	_	14	case	_	_
-14	dis	dis	DET	_	_	12	obl:mod	_	_
-15	//	//	PUNCT	_	_	3	punct	_	_
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=35489|AlignEnd=36891|Gloss=PUNCT
+2	na	na	AUX	_	PartType=Cop	3	cop	_	AlignBegin=36891|AlignEnd=37052|Gloss=be
+3	wetin	wetin	PRON	_	PronType=Int	0	root	_	AlignBegin=37052|AlignEnd=37240|Gloss=what.Q
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=37270|AlignEnd=37360|Gloss=NOM.SG.1
+5	don't	no	PART	_	Polarity=Neg	7	advmod	_	AlignBegin=37360|AlignEnd=37500|Gloss=NEG
+6	just	just	ADV	_	_	7	advmod	_	AlignBegin=37500|AlignEnd=37760|Gloss=just
+7	know	know	VERB	_	_	3	acl:relcl	_	AlignBegin=37760|AlignEnd=37926|Gloss=know
+8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=37926|AlignEnd=37956|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 cop	color:blue
-1	#	#	PUNCT	_	_	5	punct	_	_
-2	because	because	SCONJ	_	_	5	mark	_	_
-3	#	#	PUNCT	_	_	2	punct	_	_
-4	na	na	AUX	PART	_	5	cop	_	_
-5	im	im	PRON	_	_	0	root	_	_
-6	>+	>+	PUNCT	_	_	9	punct	_	_
-7	we	we	PRON	_	_	9	nsubj	_	_
-8	go	go	AUX	_	_	9	aux	_	_
-9	take	take	VERB	_	_	5	acl:cleft	_	_
-10	make	make	VERB	_	_	9	compound:svc	_	_
-11	di	di	DET	_	_	12	det	_	_
-12	move	move	VERB	_	_	10	obj	_	_
-13	#	#	PUNCT	_	_	15	punct	_	_
-14	to	to	ADP	_	_	15	mark	_	_
-15	get	get	VERB	_	_	10	advcl	_	_
-16	di	di	DET	_	_	17	det	_	_
-17	bread	bread	NOUN	_	_	15	obj	_	_
-18	//	//	PUNCT	_	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 cop	color:blue
-1	#	#	PUNCT	_	_	3	punct	_	_
-2	na	na	AUX	PART	_	3	cop	_	_
-3	farmer	farmer	NOUN	_	_	0	root	_	_
-4	dem	dem	DET	PART	_	3	det	_	_
-5	>+	>+	PUNCT	_	_	7	punct	_	_
-6	dey	be	AUX	_	_	7	cop	_	_
-7	happy	happy	ADJ	_	_	3	acl:cleft	_	_
-8	pass	pass	VERB	_	_	7	compound:svc	_	_
-9	#	#	PUNCT	_	_	12	punct	_	_
-10	when	when	ADV	_	_	12	mark	_	_
-11	rain	rain	NOUN	_	_	12	nsubj	_	_
-12	fall	fall	VERB	_	_	7	advcl	_	_
-13	like	like	ADP	_	_	14	case	_	_
-14	dis	dis	DET	_	_	12	obl:mod	_	_
-15	//	//	PUNCT	_	_	3	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 cop	color:blue
+1	na	na	AUX	_	PartType=Cop	2	cop	_	AlignBegin=94899|AlignEnd=95059|Gloss=be
+2	so	so	ADV	_	_	0	root	_	AlignBegin=95059|AlignEnd=95197|Gloss=so
+3	>+	>+	PUNCT	_	_	6	punct	_	AlignBegin=95197|AlignEnd=95227|Gloss=PUNCT
+4	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=95227|AlignEnd=95299|Gloss=NOM.PL.1
+5	con	con	AUX	_	Aspect=Cons	6	aux	_	AlignBegin=95299|AlignEnd=95509|Gloss=CONS
+6	do	do	VERB	_	_	2	advcl:cleft	_	AlignBegin=95509|AlignEnd=95734|Gloss=do
+7	o	o	PART	_	PartType=Disc	6	advmod:emph	_	AlignBegin=95734|AlignEnd=95849|Gloss=EMPH
+8	//	//	PUNCT	_	_	2	punct	_	AlignBegin=95849|AlignEnd=95879|Gloss=PUNCT
 
 ~~~
 

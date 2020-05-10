@@ -69,7 +69,7 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_ewt-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.370370 (the average of all parts of speech is 1.192094).
+The form / lemma ratio of `SCONJ` is 1.370370 (the average of all parts of speech is 1.194181).
 
 The 1st highest number of forms (6) was observed with the lemma “because”: <em>b/c, bc, beacuse, because, becouse, becuse</em>.
 
@@ -77,24 +77,24 @@ The 2nd highest number of forms (4) was observed with the lemma “cause”: <em
 
 The 3rd highest number of forms (3) was observed with the lemma “if”: <em>I'd, if, it</em>.
 
-`SCONJ` occurs with 2 features: <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (13; 0% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (11; 0% instances)
+`SCONJ` occurs with 2 features: <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (14; 0% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (12; 0% instances)
 
 `SCONJ` occurs with 2 feature-value pairs: `Abbr=Yes`, `Typo=Yes`
 
 `SCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (4615 tokens).
+The most frequent feature combination is `_` (4613 tokens).
 Examples: <em>that, if, as, because, for, of, since, before, like, after</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="en_ewt-dep-mark.html">mark</a></tt> (4476; 96% instances), <tt><a href="en_ewt-dep-case.html">case</a></tt> (92; 2% instances), <tt><a href="en_ewt-dep-fixed.html">fixed</a></tt> (59; 1% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="en_ewt-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="en_ewt-dep-mark.html">mark</a></tt> (4475; 96% instances), <tt><a href="en_ewt-dep-case.html">case</a></tt> (92; 2% instances), <tt><a href="en_ewt-dep-fixed.html">fixed</a></tt> (59; 1% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="en_ewt-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-goeswith.html">goeswith</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (3586; 77% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (404; 9% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (323; 7% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (95; 2% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (77; 2% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (42; 1% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (35; 1% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (35; 1% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (3584; 77% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (403; 9% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (323; 7% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (95; 2% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (77; 2% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (42; 1% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (35; 1% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (35; 1% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-4569 (98%) `SCONJ` nodes are leaves.
+4570 (99%) `SCONJ` nodes are leaves.
 
-54 (1%) `SCONJ` nodes have one child.
+53 (1%) `SCONJ` nodes have one child.
 
 15 (0%) `SCONJ` nodes have two children.
 
@@ -102,7 +102,7 @@ Parents of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="en
 
 The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 10 different relations: <tt><a href="en_ewt-dep-fixed.html">fixed</a></tt> (66; 76% instances), <tt><a href="en_ewt-dep-obl-npmod.html">obl:npmod</a></tt> (6; 7% instances), <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (3; 3% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="en_ewt-dep-punct.html">punct</a></tt> (3; 3% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (2; 2% instances), <tt><a href="en_ewt-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="en_ewt-dep-goeswith.html">goeswith</a></tt> (1; 1% instances), <tt><a href="en_ewt-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="en_ewt-dep-obl-tmod.html">obl:tmod</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 9 different relations: <tt><a href="en_ewt-dep-fixed.html">fixed</a></tt> (66; 77% instances), <tt><a href="en_ewt-dep-obl-npmod.html">obl:npmod</a></tt> (6; 7% instances), <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (3; 3% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="en_ewt-dep-punct.html">punct</a></tt> (3; 3% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (2; 2% instances), <tt><a href="en_ewt-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="en_ewt-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="en_ewt-dep-obl-tmod.html">obl:tmod</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (35; 40% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (13; 15% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (13; 15% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (13; 15% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (3; 3% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (35; 41% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (13; 15% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (13; 15% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (13; 15% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (3; 3% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 1% instances)
 

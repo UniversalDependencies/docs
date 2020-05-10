@@ -20,6 +20,6 @@ The feature is used with 1 part-of-speech tags: <tt><a href="th_pud-pos-VERB.htm
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (1; 100% of non-empty `Mood`): <em>ห้าม</em>
-* `EMPTY` (4976): <em>มี, จะ, ให้, ได้, ถูก, ใช้, ทำ, รับ, อยู่, กล่าว</em>
+* `Imp` (1; 100% of non-empty `Mood`): ห้าม
+* `EMPTY` (4976): มี, จะ, ให้, ได้, ถูก, ใช้, ทำ, รับ, อยู่, กล่าว
 

@@ -10,23 +10,23 @@ This feature is universal.
 It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Loc`, `Nom`, `Voc`.
 
 103876 tokens (47%) have a non-empty value of `Case`.
-33525 types (78%) occur at least once with a non-empty value of `Case`.
-14889 lemmas (76%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (58085; 26% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (12235; 6% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (10745; 5% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (8322; 4% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (7780; 4% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (5231; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1301; 1% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (176; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 0% instances).
+33524 types (78%) occur at least once with a non-empty value of `Case`.
+14883 lemmas (76%) occur at least once with a non-empty value of `Case`.
+The feature is used with 9 part-of-speech tags: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (58087; 26% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (12235; 6% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (10745; 5% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (8322; 4% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (7776; 4% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (5231; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1301; 1% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (178; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-58085 <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
+58087 <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39594; 68%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (29326; 50%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39600; 68%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (29327; 50%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (12262; 21% of non-empty `Case`): <em>laiku, gadus, reizi, darbu, vietu, dienu, gadu, dzīvi, skaitu, iespēju</em>
-* `Dat` (5703; 10% of non-empty `Case`): <em>piemēram, gadiem, cilvēkiem, bērniem, kājām, gadam, rokām, valstīm, beigām, iedzīvotājiem</em>
-* `Gen` (18252; 31% of non-empty `Case`): <em>valsts, gada, darba, gadu, izglītības, laika, pasaules, dzīves, cilvēku, dienas</em>
+* `Acc` (12266; 21% of non-empty `Case`): <em>laiku, gadus, reizi, darbu, vietu, dienu, gadu, dzīvi, skaitu, iespēju</em>
+* `Dat` (5704; 10% of non-empty `Case`): <em>piemēram, gadiem, cilvēkiem, bērniem, kājām, gadam, rokām, valstīm, beigām, iedzīvotājiem</em>
+* `Gen` (18247; 31% of non-empty `Case`): <em>valsts, gada, darba, gadu, izglītības, laika, pasaules, dzīves, cilvēku, dienas</em>
 * `Loc` (8242; 14% of non-empty `Case`): <em>laikā, gadā, vietā, gadījumā, mājās, gados, pasaulē, veidā, sākumā, vidū</em>
-* `Nom` (13571; 23% of non-empty `Case`): <em>cilvēki, cilvēks, laiks, vīrietis, bērni, iespēja, sieviete, bērns, daļa, darbs</em>
+* `Nom` (13573; 23% of non-empty `Case`): <em>cilvēki, cilvēks, laiks, vīrietis, bērni, iespēja, sieviete, bērns, daļa, darbs</em>
 * `Voc` (55; 0% of non-empty `Case`): <em>minci, kolēģi, Opi, meli, deputāti, mopsi, radioklausītāji, saule, Bērniņ, Dievs</em>
 * `EMPTY` (604): <em>eiro, SIA, kino, auto, IKP, foto, video, TV, radio, AS</em>
 
@@ -43,11 +43,11 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (2415; 20% of non-empty `Case`): <em>to, ko, viņu, mani, kuru, sevi, visu, tos, tās, neko</em>
+* `Acc` (2418; 20% of non-empty `Case`): <em>to, ko, viņu, mani, kuru, sevi, visu, tos, tās, neko</em>
 * `Dat` (2009; 16% of non-empty `Case`): <em>man, tam, mums, viņai, viņam, tev, viņiem, sev, tiem, kam</em>
 * `Gen` (916; 7% of non-empty `Case`): <em>viņa, mūsu, viņas, viņu, tā, jūsu, tās, sevis, manis, kuras</em>
 * `Loc` (373; 3% of non-empty `Case`): <em>kurā, tajā, kurās, sevī, pašā, kuros, kādā, tajos, viņā, manī</em>
-* `Nom` (6522; 53% of non-empty `Case`): <em>kas, es, tas, viņš, viņa, mēs, tā, viņi, tu, kurš</em>
+* `Nom` (6519; 53% of non-empty `Case`): <em>kas, es, tas, viņš, viņa, mēs, tā, viņi, tu, kurš</em>
 
 <table>
   <tr><th>Paradigm <i>tas</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
@@ -68,11 +68,11 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (2472; 23% of non-empty `Case`): <em>pirmo, lielu, jaunu, labu, jauno, pēdējo, veco, otro, lielāku, mazu</em>
+* `Acc` (2471; 23% of non-empty `Case`): <em>pirmo, lielu, jaunu, labu, jauno, pēdējo, veco, otro, lielāku, mazu</em>
 * `Dat` (998; 9% of non-empty `Case`): <em>dažādiem, dažādām, vietējiem, lieliem, lielākajiem, pirmajiem, pārējām, lielām, pārējiem, īstam</em>
 * `Gen` (1809; 17% of non-empty `Case`): <em>dažādu, pedagoģisko, nacionālās, jauna, sociālās, pirmā, pirmās, sabiedrisko, sociālo, nekustamā</em>
 * `Loc` (1138; 11% of non-empty `Case`): <em>pirmajā, otrajā, dažādās, lielā, nākamajā, pēdējos, pēdējā, iepriekšējā, jaunajā, dažādos</em>
-* `Nom` (4325; 40% of non-empty `Case`): <em>iespējams, liela, nepieciešams, galvenais, pirmais, liels, pirmā, skaidrs, vecais, dažādi</em>
+* `Nom` (4326; 40% of non-empty `Case`): <em>iespējams, liela, nepieciešams, galvenais, pirmais, liels, pirmā, skaidrs, vecais, dažādi</em>
 * `Voc` (3; 0% of non-empty `Case`): <em>cienījamie, godātā, mīļo</em>
 * `EMPTY` (1169): <em>1., 2., 2012., 3., 4., 2011., 2013., 9., 2014., 11.</em>
 
@@ -117,19 +117,19 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `VERB`
 
-7780 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (24% of all `VERB` tokens) have a non-empty value of `Case`.
+7776 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (24% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (7780; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7780; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7780; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7675; 99%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (7638; 98%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7623; 98%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7134; 92%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6560; 84%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6560; 84%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (5977; 77%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (7776; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7776; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7776; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7672; 99%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (7635; 98%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7619; 98%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7129; 92%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6557; 84%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6557; 84%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (5975; 77%).
 
 `VERB` tokens may have the following values of `Case`:
 
 * `Acc` (784; 10% of non-empty `Case`): <em>minēto, esošo, notiekošo, notikušo, zināmu, atlikušo, noteikto, noteiktu, teikto, piedāvāto</em>
-* `Dat` (348; 4% of non-empty `Case`): <em>esošajiem, noteiktajam, iesaistītajām, atklātajiem, bijušajām, izveidotajām, minētajiem, mirušajiem, nodarbinātajiem, atbilstošai</em>
+* `Dat` (347; 4% of non-empty `Case`): <em>esošajiem, noteiktajam, iesaistītajām, atklātajiem, bijušajām, izveidotajām, minētajiem, mirušajiem, nodarbinātajiem, atbilstošai</em>
 * `Gen` (506; 7% of non-empty `Case`): <em>pagājušā, esošo, pagājušās, minētā, bijušā, nodarbināto, ierobežotas, minēto, apsūdzētā, apvienoto</em>
 * `Loc` (241; 3% of non-empty `Case`): <em>pagājušajā, noteiktajā, noteiktā, zināmā, atbilstošā, drukātajā, iesniegtajos, minētajā, Nākamajā, dzimtajā</em>
-* `Nom` (5896; 76% of non-empty `Case`): <em>redzams, bijis, zināms, bijusi, paredzēts, saistīts, Protams, ziņots, noticis, plānots</em>
+* `Nom` (5893; 76% of non-empty `Case`): <em>redzams, bijis, zināms, bijusi, paredzēts, saistīts, Protams, ziņots, noticis, plānots</em>
 * `Voc` (5; 0% of non-empty `Case`): <em>cienījamie, Godājamie</em>
-* `EMPTY` (25089): <em>ir, var, varētu, nav, bija, nevar, teica, būs, notiek, sāka</em>
+* `EMPTY` (25088): <em>ir, var, varētu, nav, bija, nevar, teica, būs, notiek, sāka</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
@@ -202,9 +202,9 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `AUX`
 
-176 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Case`.
+178 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (176; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (176; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (176; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (174; 99%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (167; 95%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (167; 95%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (164; 93%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (178; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (178; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (178; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (176; 99%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (168; 94%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (168; 94%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (165; 93%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -212,8 +212,8 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Dat` (2; 1% of non-empty `Case`): <em>bijušajām, topošajam</em>
 * `Gen` (1; 1% of non-empty `Case`): <em>esošās</em>
 * `Loc` (1; 1% of non-empty `Case`): <em>bijušajos</em>
-* `Nom` (168; 95% of non-empty `Case`): <em>bijis, bijusi, kļuvis, bijuši, kļuvusi, ticis, kļuvuši, tikusi, bijušas, būdams</em>
-* `EMPTY` (5882): <em>ir, bija, nav, tiek, tika, būtu, būs, esmu, būt, tiks</em>
+* `Nom` (170; 96% of non-empty `Case`): <em>bijis, bijusi, kļuvis, kļuvusi, bijuši, ticis, kļuvuši, tikusi, bijušas, būdams</em>
+* `EMPTY` (5883): <em>ir, bija, nav, tiek, tika, būtu, būs, esmu, būt, tiks</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
@@ -250,13 +250,13 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7743; 87%),
-<tt>NOUN --[<tt><a href="lv_lvtb-dep-det.html">det</a></tt>]--> DET</tt> (4522; 91%),
-<tt>NOUN --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3093; 90%),
+<tt>NOUN --[<tt><a href="lv_lvtb-dep-det.html">det</a></tt>]--> DET</tt> (4523; 91%),
+<tt>NOUN --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3097; 90%),
 <tt>NOUN --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> VERB</tt> (2107; 96%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1154; 97%),
 <tt>PROPN --[<tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1102; 77%),
 <tt>NOUN --[<tt><a href="lv_lvtb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (880; 53%),
-<tt>PROPN --[<tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (740; 71%),
+<tt>PROPN --[<tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (741; 71%),
 <tt>ADJ --[<tt><a href="lv_lvtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (648; 97%),
 <tt>PROPN --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (554; 92%).
 

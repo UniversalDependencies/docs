@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `PROPN`
 
-There are 8 `PROPN` lemmas (5%), 8 `PROPN` types (4%) and 13 `PROPN` tokens (4%).
-Out of 14 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 6 in number of types and 8 in number of tokens.
+There are 8 `PROPN` lemmas (3%), 8 `PROPN` types (2%) and 13 `PROPN` tokens (1%).
+Out of 15 observed tags, the rank of `PROPN` is: 9 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Peter, Mary, Brown, Franskkjânnam, Jane, Laurikainen, Pariizzâst, Smith</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Peter</em> (<tt><a href="sms_giellaga
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.165680).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.364516).
 
 The 1st highest number of forms (1) was observed with the lemma “Brown”: <em>Brown</em>.
 
@@ -32,18 +32,18 @@ The 2nd highest number of forms (1) was observed with the lemma “Franskkjânna
 
 The 3rd highest number of forms (1) was observed with the lemma “Jane”: <em>Jane</em>.
 
-`PROPN` occurs with 3 features: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (12; 92% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (12; 92% instances), <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt> (10; 77% instances)
+`PROPN` occurs with 4 features: <tt><a href="sms_giellagas-feat-NameType.html">NameType</a></tt> (13; 100% instances), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (12; 92% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (12; 92% instances), <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt> (10; 77% instances)
 
-`PROPN` occurs with 5 feature-value pairs: `Animacy=Hum`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Number=Sing`
+`PROPN` occurs with 9 feature-value pairs: `Animacy=Hum`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `NameType=Geo`, `NameType=Giv`, `NameType=Prs`, `NameType=Sur`, `Number=Sing`
 
-`PROPN` occurs with 4 feature combinations.
-The most frequent feature combination is `Animacy=Hum|Case=Nom|Number=Sing` (10 tokens).
-Examples: <em>Peter, Mary, Brown, Jane, Smith</em>
+`PROPN` occurs with 5 feature combinations.
+The most frequent feature combination is `Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing` (8 tokens).
+Examples: <em>Peter, Mary, Jane</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 6 different relations: <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (4; 31% instances), <tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt> (3; 23% instances), <tt><a href="sms_giellagas-dep-flat-name.html">flat:name</a></tt> (2; 15% instances), <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt> (2; 15% instances), <tt><a href="sms_giellagas-dep-nmod.html">nmod</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (1; 8% instances)
+`PROPN` nodes are attached to their parents using 7 different relations: <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (4; 31% instances), <tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt> (3; 23% instances), <tt><a href="sms_giellagas-dep-flat-name.html">flat:name</a></tt> (2; 15% instances), <tt><a href="sms_giellagas-dep-nmod.html">nmod</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (1; 8% instances)
 
 Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (7; 54% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (4; 31% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 8% instances),  (1; 8% instances)
 

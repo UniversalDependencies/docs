@@ -32,7 +32,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 7	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	10:case	LId=na-1
 8	několik	několik	DET	Ca--4----------	Case=Acc|NumType=Card|PronType=Ind	10	det:numgov	10:det:numgov	_
 9	málo	málo	DET	Ca--4----------	Case=Acc|NumType=Card|PronType=Ind	10	det:numgov	10:det:numgov	LId=málo-1|LGloss=(málo_+_2._p.,_málo_peněz)
-10	teritorií	teritorium	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	5	obl:arg	5:obl:arg	SpaceAfter=No
+10	teritorií	teritorium	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	5	obl:arg	5:obl:arg:na:acc	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
 ~~~
@@ -51,7 +51,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 5	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	dep	1:dep	_
 6	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	8:case	LId=v-1
 7	samotné	samotný	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	amod	8:amod	_
-8	Jihlavě	Jihlava	PROPN	NNFS6-----A----	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	5	obl	5:obl	SpaceAfter=No
+8	Jihlavě	Jihlava	PROPN	NNFS6-----A----	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	5	obl	5:obl:v:loc	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

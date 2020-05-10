@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-49 nodes (12%) are attached to their parents as `root`.
+71 nodes (10%) are attached to their parents as `root`.
 
-49 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.18367346938776.
+71 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.73239436619718.
 
-The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (39; 80% instances), -<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (6; 12% instances), -<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (2; 4% instances), -<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), -<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (54; 76% instances), -<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (10; 14% instances), -<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), -<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (2; 3% instances), -<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 1% instances), -<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 1% instances), -<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -53,10 +53,14 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	Ӧні	ӧні	ADV	_	_	3	advmod:tmod	_	_
-2	ті	тэ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj:cop	_	GTtags=Pers,Pl2,Nom
-3	кыкӧнӧсь	кыкӧнӧсь	NUM	_	Number=Plur|NumType=Dist|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	_
+1	Кагаыс	кага	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	GTtags=Sg,Nom,PxSg3
+2	—	—	PUNCT	_	_	3	punct	_	_
+3	зоночка	зоночка	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	чужӧма	чужны	VERB	_	Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	GTtags=Ind,Prt2,Sg3
+6	витӧдз	витӧдз	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	5	nsubj	_	GTtags=Ord,Sg,Nom
+7	ни	ни	ADV	_	_	5	advmod:tmod	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

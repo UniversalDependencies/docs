@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 2	Ziya’yla	Ziya	PROPN	_	Case=Ins|Number=Sing	3	obl	_	_
 3	buluştuğunuz	buluştuk	VERB	_	Mood=Ind|Number[psor]=Plur|Person[psor]=2|Tense=Past|VerbForm=Part	6	obl:tmod	_	_
 4	zaman	zaman	ADP	_	Case=Nom|Number=Sing	3	mark	_	_
-5	bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1|Polarity=Pos	6	nmod	_	_
+5	bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1|Polarity=Pos|PronType=Prs	6	nmod	_	_
 6	telefon	telefon	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 7	edin	et	VERB	_	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	compound	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
@@ -56,10 +56,10 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 8	fgColor:white
 # visual-style 8 3 mark	color:blue
 1	Bildiğim	bil	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1|Tense=Past|VerbForm=Part	2	csubj:cop	_	_
-2	şu	şu	PRON	_	Case=Nom|Number=Sing	0	root	_	_
+2	şu	şu	PRON	_	Case=Nom|Number=Sing|PronType=Dem	0	root	_	_
 3	ki	ki	SCONJ	_	_	8	mark	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
-5	herkesin	herkes	PRON	_	Case=Gen|Number=Sing|Person=3	8	nsubj	_	_
+5	herkesin	herkes	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 6	tatile	tatil	NOUN	_	Case=Dat|Number=Sing	8	obl	_	_
 7	ihtiyacı	ihtiyaç	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	compound	_	_
 8	var	var	ADJ	_	_	2	parataxis	_	SpaceAfter=No

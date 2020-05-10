@@ -10,10 +10,10 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-40251 tokens (8%) have a non-empty value of `PronType`.
-719 types (1%) occur at least once with a non-empty value of `PronType`.
-135 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (19762; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (16032; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (4457; 1% instances).
+40818 tokens (8%) have a non-empty value of `PronType`.
+721 types (1%) occur at least once with a non-empty value of `PronType`.
+136 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (19762; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (16032; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (5024; 1% instances).
 
 ### `DET`
 
@@ -53,21 +53,21 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-4457 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (16% of all `ADV` tokens) have a non-empty value of `PronType`.
+5024 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (18% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4457; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4457; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5024; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5024; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (2056; 46% of non-empty `PronType`): <em>tak, zde, tam, tu, dosud, nyní, tehdy, tady, teď, odtud</em>
-* `Ind` (300; 7% of non-empty `PronType`): <em>někdy, někde, kdysi, nějak, několikrát, někam, jaksi, jakkoli, jakkoliv, kdykoliv</em>
-* `Int,Rel` (1641; 37% of non-empty `PronType`): <em>jak, kde, kdy, proč, kam, odkud, kolikrát, kudy, dokdy, kdes</em>
-* `Neg` (112; 3% of non-empty `PronType`): <em>nikdy, nijak, nikde, nikam</em>
+* `Dem` (2623; 52% of non-empty `PronType`): <em>tak, proto, zde, tam, tu, dosud, nyní, tehdy, tady, teď</em>
+* `Ind` (300; 6% of non-empty `PronType`): <em>někdy, někde, kdysi, nějak, několikrát, někam, jaksi, jakkoli, jakkoliv, kdykoliv</em>
+* `Int,Rel` (1641; 33% of non-empty `PronType`): <em>jak, kde, kdy, proč, kam, odkud, kolikrát, kudy, dokdy, kdes</em>
+* `Neg` (112; 2% of non-empty `PronType`): <em>nikdy, nijak, nikde, nikam</em>
 * `Rel` (77; 2% of non-empty `PronType`): <em>přičemž, zato</em>
-* `Tot` (271; 6% of non-empty `PronType`): <em>vždy, všude, odjakživa, navždy, odevždy</em>
+* `Tot` (271; 5% of non-empty `PronType`): <em>vždy, všude, odjakživa, navždy, odevždy</em>
 * `EMPTY` (23108): <em>také, již, už, ještě, pak, tedy, velmi, třeba, především, zejména</em>
 
-`PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (50) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (51) occur only with one value of `PronType`.
 
 ## Relations with Agreement in `PronType`
 

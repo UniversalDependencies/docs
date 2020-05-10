@@ -11,7 +11,7 @@ It occurs with 2 different values: `Def`, `Ind`.
 
 9 tokens (2%) have a non-empty value of `Definite`.
 6 types (2%) occur at least once with a non-empty value of `Definite`.
-6 lemmas (2%) occur at least once with a non-empty value of `Definite`.
+6 lemmas (3%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 1 part-of-speech tags: <tt><a href="aii_as-pos-DET.html">DET</a></tt> (9; 2% instances).
 
 ### `DET`

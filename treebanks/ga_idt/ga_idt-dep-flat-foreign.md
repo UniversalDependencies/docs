@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ga_idt-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="ga_idt-dep-flat-name.html">flat:name</a></tt>.
 
-50 nodes (0%) are attached to their parents as `flat:foreign`.
+150 nodes (0%) are attached to their parents as `flat:foreign`.
 
-50 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.16.
+150 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.07333333333333.
 
-The following 8 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (15; 30% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (14; 28% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (8; 16% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (5; 10% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (3; 6% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 2% instances).
+The following 15 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (75; 50% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (28; 19% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (6; 4% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (5; 3% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (3; 2% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,63 +39,60 @@ The following 8 pairs of parts of speech are connected with `flat:foreign`: <tt>
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 flat:foreign	color:blue
-1	Níl	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
-2	glacadh	glacadh	NOUN	Noun	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	ag	ag	ADP	Simp	_	4	case	_	_
-4	formhór	formhór	NOUN	Noun	Gender=Masc|Number=Sing	1	obl	_	_
-5	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
-6	phobail	pobal	NOUN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	_
-7	náisiúnaigh	náisiúnach	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
-8	leis	le	ADP	Simp	_	10	case	_	_
-9	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
-10	Royal	Royal	PROPN	Noun	Gender=Masc|Number=Sing	1	obl	_	_
-11	Ulster	Ulster	PROPN	Noun	Gender=Masc|Number=Sing	10	flat:foreign	_	_
-12	Constabulary	Constabulary	X	Unknown	_	10	flat:foreign	_	SpaceAfter=No
-13	,	,	PUNCT	Punct	_	16	punct	_	_
-14	agus	agus	CCONJ	Coord	_	16	cc	_	_
-15	ní	is	AUX	Cop	Tense=Pres|VerbForm=Cop	16	cop	_	_
-16	móide	mór	ADJ	Adj	Degree=Cmp,Sup	2	conj	_	_
-17	go	go	PART	Vb	PartType=Cmpl	18	mark:prt	_	_
-18	mbeidh	bí	VERB	FutInd	Form=Ecl|Mood=Ind|Tense=Fut	16	ccomp	_	_
-19	go	go	ADP	Simp	_	20	case	_	_
-20	deo	deo	NOUN	Subst	Number=Sing	18	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 flat:foreign	color:blue
+1	Chríochnaigh	críochnaigh	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
+2	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
+3	sa	i	ADP	Art	Number=Sing|PronType=Art	5	case	_	_
+4	chéad	céad	NUM	Num	Form=Len|NumType=Ord	5	amod	_	_
+5	fichead	fiche	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	_
+6	sa	i	ADP	Art	Number=Sing|PronType=Art	8	case	_	_
+7	'	'	PUNCT	Punct	_	8	punct	_	SpaceAfter=No
+8	British	British	PROPN	Noun	Gender=Masc|Number=Sing	1	obl	_	_
+9	Open	Open	PROPN	Noun	Gender=Masc|Number=Sing	8	flat:foreign	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
-# visual-style 14 15 flat:foreign	color:blue
-1	Bhíodh	bí	VERB	PastImp	Form=Len|Mood=Imp|Tense=Past	0	root	_	_
-2	colún	colún	NOUN	Noun	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	rialta	rialta	ADJ	Adj	Degree=Pos	1	xcomp:pred	_	_
-4	ag	ag	ADP	Simp	_	5	case	_	_
-5	Máire	Máire	NOUN	Noun	Gender=Fem|Number=Sing	1	obl	_	_
-6	dar	dar	ADP	Simp	_	7	case	_	_
-7	theideal	teideal	NOUN	Noun	Form=Len|Gender=Masc|Number=Sing	1	obl	_	_
-8	'	'	PUNCT	Punct	_	10	punct	_	SpaceAfter=No
-9	An	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	7	appos	_	_
-10	Fáinne	fáinne	NOUN	Noun	Definite=Def|Gender=Masc|Number=Sing	9	flat	_	SpaceAfter=No
-11	'	'	PUNCT	Punct	_	10	punct	_	_
-12	ar	ar	ADP	Simp	_	14	case	_	_
-13	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
-14	Irish	Irish	NOUN	Noun	Gender=Masc|Number=Sing	1	obl	_	_
-15	Independent	Independent	NOUN	Noun	Gender=Masc|Number=Sing	14	flat:foreign	_	_
-16	sna	i	ADP	Art	Number=Plur|PronType=Art	17	case	_	_
-17	blianta	bliain	NOUN	Noun	Gender=Fem|Number=Plur	1	obl:tmod	_	_
-18	1927	1927	NUM	Num	_	17	nummod	_	_
-19	agus	agus	CCONJ	Coord	_	20	cc	_	_
-20	1928	1928	NUM	Num	_	18	conj	_	SpaceAfter=No
-21	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 14 16 flat:foreign	color:blue
+1	Ba	is	AUX	Cop	Tense=Past|VerbForm=Cop	12	cop	_	_
+2	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
+3	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+4	toradh	toradh	NOUN	Noun	Definite=Def|Gender=Masc|Number=Sing	12	nsubj	_	_
+5	a	a	PART	Vb	PartType=Vb|PronType=Rel	6	nsubj	_	_
+6	bhí	bí	VERB	VI	Form=Len|Mood=Ind|Tense=Past	4	acl:relcl	_	_
+7	ar	ar	ADP	Simp	_	9	case	_	_
+8	a	a	DET	Det	Number=Plur|Person=3|Poss=Yes	9	nmod:poss	_	_
+9	gcuid	cuid	NOUN	Noun	Form=Ecl|Gender=Fem|Number=Sing	6	obl	_	_
+10	iarrachtaí	iarracht	NOUN	Noun	Case=Gen|Gender=Fem|NounType=Strong|Number=Plur	9	nmod	_	_
+11	ná	ná	SCONJ	Subord	_	12	mark:prt	_	_
+12	bunú	bunú	NOUN	Noun	Gender=Masc|Number=Sing	0	root	_	_
+13	'	'	PUNCT	Punct	_	14	punct	_	SpaceAfter=No
+14	Irish	Irish	NOUN	Noun	Gender=Masc|Number=Sing	12	nmod	_	_
+15	Historical	historical	NOUN	Noun	Gender=Masc|Number=Sing	14	flat:foreign	_	_
+16	Studies	Studies	NOUN	Noun	Gender=Masc|Number=Sing	14	flat:foreign	_	SpaceAfter=No
+17	'	'	PUNCT	Punct	_	14	punct	_	_
+18	i	i	ADP	Simp	_	19	case	_	_
+19	1938	1938	NUM	Num	_	12	obl:tmod	_	_
+20	mar	mar	ADP	Simp	_	21	case	_	_
+21	irisleabhar	irisleabhar	NOUN	Noun	Gender=Masc|Number=Sing	14	nmod	_	_
+22	i	i	ADP	Simp	_	25	case	_	_
+23	gcomhair	comhair	NOUN	Subst	Form=Ecl|Number=Sing	22	fixed	_	_
+24	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	staire	stair	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	obl	_	_
+26	'	'	PUNCT	Punct	_	27	punct	_	SpaceAfter=No
+27	nua	nua	ADJ	Adj	Degree=Pos	25	amod	_	SpaceAfter=No
+28	'	'	PUNCT	Punct	_	27	punct	_	SpaceAfter=No
+29	.	.	PUNCT	.	_	12	punct	_	_
 
 ~~~
 

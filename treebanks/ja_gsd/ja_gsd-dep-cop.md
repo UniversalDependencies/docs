@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2175 nodes (1%) are attached to their parents as `cop`.
+2582 nodes (1%) are attached to their parents as `cop`.
 
-2175 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.45471264367816.
+2582 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.3295894655306.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (1620; 74% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (269; 12% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (117; 5% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (92; 4% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (45; 2% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (22; 1% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (10; 0% instances).
+The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (2507; 97% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (44; 2% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (31; 1% instances).
 
 
 ~~~ conllu
@@ -22,77 +22,73 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 cop	color:blue
-1	姉	姉	NOUN	NN	_	3	obl	_	SpaceAfter=No
-2	と	と	ADP	PS	_	1	case	_	SpaceAfter=No
-3	同じ	同じ	ADJ	JN	_	4	acl	_	SpaceAfter=No
-4	先生	先生	NOUN	NN	_	10	advcl	_	SpaceAfter=No
-5	だっ	だ	AUX	AV	_	4	cop	_	SpaceAfter=No
-6	た	た	AUX	AV	_	4	aux	_	SpaceAfter=No
-7	ので	ので	SCONJ	PC	_	4	mark	_	SpaceAfter=No
-8	、	、	PUNCT	SYM	_	4	punct	_	SpaceAfter=No
-9	話	話	NOUN	NN	_	10	obl	_	SpaceAfter=No
-10	やすかっ	やすい	ADJ	JJ	_	0	root	_	SpaceAfter=No
-11	た	た	AUX	AV	_	10	aux	_	SpaceAfter=No
-12	です	だ	AUX	AV	_	10	cop	_	SpaceAfter=No
-13	。	。	PUNCT	SYM	_	10	punct	_	SpaceAfter=No
+1	姉	姉	NOUN	名詞-普通名詞-一般	_	3	obl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=姉
+2	と	と	ADP	助詞-格助詞	_	1	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=と
+3	同じ	同じ	ADJ	連体詞	_	4	amod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=連体詞|SpaceAfter=No|UniDicLemma=同じ
+4	先生	先生	NOUN	名詞-普通名詞-一般	_	10	advcl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=先生
+5	だっ	だ	AUX	助動詞	_	4	cop	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+6	た	た	AUX	助動詞	_	4	aux	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=た
+7	の	の	SCONJ	助詞-準体助詞	_	4	mark	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=の
+8	で	だ	AUX	助動詞	_	4	cop	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+9	、	、	PUNCT	補助記号-読点	_	4	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+10	話	話す	VERB	動詞-一般	_	0	root	_	BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=形容詞-一般|SpaceAfter=No|UniDicLemma=話す
+11	やすかっ	やすい	AUX	接尾辞-形容詞的	_	10	aux	_	BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=形容詞-一般|SpaceAfter=No|UniDicLemma=易い
+12	た	た	AUX	助動詞	_	10	aux	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=た
+13	です	だ	AUX	助動詞	_	10	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=です
+14	。	。	PUNCT	補助記号-句点	_	10	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No|UniDicLemma=。
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 24 cop	color:blue
-1	人	人	NOUN	NN	_	7	obj	_	SpaceAfter=No
-2	を	を	ADP	PS	_	1	case	_	SpaceAfter=No
-3	人	人	NOUN	NN	_	5	obl	_	SpaceAfter=No
-4	と	と	ADP	PQ	_	3	case	_	SpaceAfter=No
-5	し	する	VERB	VV	_	7	advcl	_	SpaceAfter=No
-6	て	て	SCONJ	PC	_	5	mark	_	SpaceAfter=No
-7	思わ	思う	VERB	VV	_	16	acl	_	SpaceAfter=No
-8	ない	ない	AUX	AV	_	7	aux	_	SpaceAfter=No
-9	ような	ようだ	AUX	AV	_	7	aux	_	SpaceAfter=No
-10	,	,	PUNCT	SYM	_	7	punct	_	SpaceAfter=No
-11	尋常	尋常	ADJ	JN	_	16	acl	_	SpaceAfter=No
-12	で	だ	AUX	XV	_	11	aux	_	SpaceAfter=No
-13	は	は	ADP	PK	_	11	case	_	SpaceAfter=No
-14	ない	ない	AUX	AV	_	11	aux	_	SpaceAfter=No
-15	この	この	DET	JR	_	16	det	_	SpaceAfter=No
-16	現実	現実	NOUN	NN	_	21	obj	_	SpaceAfter=No
-17	を	を	ADP	PS	_	16	case	_	SpaceAfter=No
-18	みなさん	みなさん	PRON	NP	_	21	iobj	_	SpaceAfter=No
-19	に	に	ADP	PS	_	18	case	_	SpaceAfter=No
-20	お	お	NOUN	XP	_	21	compound	_	SpaceAfter=No
-21	伝えし	伝える	VERB	VV	_	0	root	_	SpaceAfter=No
-22	たい	たい	AUX	AV	_	21	aux	_	SpaceAfter=No
-23	の	の	SCONJ	PNB	_	21	mark	_	SpaceAfter=No
-24	です	だ	AUX	AV	_	21	cop	_	SpaceAfter=No
-25	。	。	PUNCT	SYM	_	21	punct	_	SpaceAfter=No
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 18 cop	color:blue
+1	表題	表題	NOUN	名詞-普通名詞-一般	_	2	compound	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=表題
+2	曲	曲	NOUN	名詞-普通名詞-一般	_	6	nmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=曲
+3	『	『	PUNCT	補助記号-括弧開	_	4	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧開|SpaceAfter=No|UniDicLemma=『
+4	港	港	NOUN	名詞-普通名詞-一般	_	6	nmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=港
+5	の	の	ADP	助詞-格助詞	_	4	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=の
+6	五番町	五番町	PROPN	名詞-固有名詞-地名-一般	_	9	nmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-固有名詞-地名-一般|SpaceAfter=No|UniDicLemma=ゴバンチョウ
+7	』	』	PUNCT	補助記号-括弧閉	_	6	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧閉|SpaceAfter=No|UniDicLemma=』
+8	の	の	ADP	助詞-格助詞	_	6	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=の
+9	作詞	作詞	NOUN	名詞-普通名詞-サ変可能	_	12	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=作詞
+10	は	は	ADP	助詞-係助詞	_	9	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UniDicLemma=は
+11	阿久	阿久	PROPN	名詞-固有名詞-人名-姓	_	12	compound	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-固有名詞-人名-一般|SpaceAfter=No|UniDicLemma=アク
+12	悠	悠	PROPN	名詞-固有名詞-人名-名	_	17	nmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-固有名詞-人名-一般|SpaceAfter=No|UniDicLemma=ユウ
+13	、	、	PUNCT	補助記号-読点	_	12	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+14	作曲	作曲	NOUN	名詞-普通名詞-サ変可能	_	17	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=作曲
+15	は	は	ADP	助詞-係助詞	_	14	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UniDicLemma=は
+16	彩木	彩木	PROPN	名詞-固有名詞-人名-姓	_	17	compound	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-固有名詞-人名-一般|SpaceAfter=No|UniDicLemma=アヤキ
+17	雅夫	雅夫	PROPN	名詞-固有名詞-人名-名	_	0	root	_	BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=名詞-固有名詞-人名-一般|SpaceAfter=No|UniDicLemma=マサオ
+18	で	だ	AUX	助動詞	_	17	cop	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+19	ある	ある	AUX	動詞-非自立可能	_	17	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=有る
+20	。	。	PUNCT	補助記号-句点	_	17	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No|UniDicLemma=。
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 12 cop	color:blue
-1	姉	姉	NOUN	NN	_	3	obl	_	SpaceAfter=No
-2	と	と	ADP	PS	_	1	case	_	SpaceAfter=No
-3	同じ	同じ	ADJ	JN	_	4	acl	_	SpaceAfter=No
-4	先生	先生	NOUN	NN	_	10	advcl	_	SpaceAfter=No
-5	だっ	だ	AUX	AV	_	4	cop	_	SpaceAfter=No
-6	た	た	AUX	AV	_	4	aux	_	SpaceAfter=No
-7	ので	ので	SCONJ	PC	_	4	mark	_	SpaceAfter=No
-8	、	、	PUNCT	SYM	_	4	punct	_	SpaceAfter=No
-9	話	話	NOUN	NN	_	10	obl	_	SpaceAfter=No
-10	やすかっ	やすい	ADJ	JJ	_	0	root	_	SpaceAfter=No
-11	た	た	AUX	AV	_	10	aux	_	SpaceAfter=No
-12	です	だ	AUX	AV	_	10	cop	_	SpaceAfter=No
-13	。	。	PUNCT	SYM	_	10	punct	_	SpaceAfter=No
+# visual-style 10 11 cop	color:blue
+1	まんまと	まんまと	ADV	副詞	_	7	advmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No|UniDicLemma=まんまと
+2	お	お	NOUN	接頭辞	_	3	compound	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=御
+3	店側	店側	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=店側
+4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=の
+5	思惑	思惑	NOUN	名詞-普通名詞-一般	_	7	obl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=思惑
+6	に	に	ADP	助詞-格助詞	_	5	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=に
+7	ハマっ	ハマる	VERB	動詞-一般	_	10	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=嵌まる
+8	て	て	SCONJ	助詞-接続助詞	_	7	mark	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=て
+9	いる	いる	AUX	動詞-非自立可能	_	7	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=居る
+10	私	私	PRON	代名詞	_	0	root	_	BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No|UniDicLemma=私
+11	でし	だ	AUX	助動詞	_	10	cop	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=です
+12	た	た	AUX	助動詞	_	10	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=た
+13	。	。	PUNCT	補助記号-句点	_	10	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No|UniDicLemma=。
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-advmod.html">advmod</a></tt>.
 
-2574 nodes (1%) are attached to their parents as `advmod:tmod`.
+3502 nodes (1%) are attached to their parents as `advmod:tmod`.
 
-2027 instances of `advmod:tmod` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.78593628593629.
+2738 instances of `advmod:tmod` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.93146773272416.
 
-The following 11 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (2325; 90% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (93; 4% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (84; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (31; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (14; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (3183; 91% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (133; 4% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (100; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (40; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,17 +57,22 @@ The following 11 pairs of parts of speech are connected with `advmod:tmod`: <tt>
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 advmod:tmod	color:blue
-1	Şi	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	ref=ACTS_10.33
-2	numaidecît	numaidecât	ADV	Rg	_	3	advmod:tmod	_	ref=ACTS_10.33
-3	trimeș	trimeș	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=ACTS_10.33
-4	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=ACTS_10.33
-5	tine	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	3	obl	_	ref=ACTS_10.33|SpaceAfter=No
-6	.	.	PUNCT	PERIOD	_	3	punct	_	ref=ACTS_10.33
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 advmod:tmod	color:blue
+1	Eu	eu	PRON	Pp1-sr	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	așa	așa	ADV	Rg	_	5	advmod	_	_
+3	c-	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	|SpaceAfter=No
+4	am	avea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	aux	_	_
+5	auzit	auzit	VERB	Vmp	VerbForm=Part	0	root	_	_
+6	încă	încă	ADV	Rg	_	5	advmod	_	_
+7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
+8	cînd	când	ADV	Rg	_	10	advmod:tmod	_	_
+9	eram	fi	AUX	Vaii1s	Mood=Ind|Number=Sing|Person=1|Tense=Imp	10	cop	_	_
+10	mic	mic	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	advcl:tcl	_	|SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 ~~~
 

@@ -11,9 +11,9 @@ This relation is universal.
 20 nodes (0%) are attached to their parents as `amod`.
 
 18 instances of `amod` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25.
+Average distance between parent and child is 1.2.
 
-The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (18; 90% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 5% instances).
+The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (18; 90% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -88,38 +88,36 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 3 amod	color:blue
-1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	ⲅⲉⲛⲛⲁⲓⲟⲥ	ⲅⲉⲛⲛⲁⲓⲟⲥ	NOUN	N	_	9	dislocated	_	_
-3	ⲇⲉ	ⲇⲉ	PART	PTC	_	9	amod	_	_
-4	ⲁⲡⲁ	ⲁⲡⲁ	NOUN	N	_	2	appos	_	_
-5	ⲃⲓⲕⲧⲱⲣ	ⲃⲓⲕⲧⲱⲣ	PROPN	NPROP	_	4	flat	_	_
-6	·	·	PUNCT	PUNCT	_	4	punct	_	_
-7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
-8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-9	ⲕⲱ	ⲕⲱ	VERB	V	VerbForm=Fin	0	root	_	_
-10	ⲛⲁ	ⲛⲁ	ADP	PREP	_	11	case	_	_
-11	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
-12	ⲛ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲛ̄
-13	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	_
-14	ⲉⲝⲉⲇⲣⲁ	ⲉⲝⲉⲇⲣⲁ	NOUN	N	_	9	obj	_	_
-15	ⲛϩⲟⲩⲛ	ⲛϩⲟⲩⲛ	ADV	ADV	_	18	case	_	Orig=ⲛ̄ϩⲟⲩⲛ
-16	ⲙ	ⲛ	ADP	PREP	_	15	fixed	_	Orig=ⲙ̄
-17	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
-18	ⲏⲓ	ⲏⲓ	NOUN	N	_	9	obl	_	_
-19	:	:	PUNCT	PUNCT	_	9	punct	_	_
-20	—	—	PUNCT	PUNCT	_	23	punct	_	_
-21	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	23	mark	_	_
-22	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
-23	ⲁⲛⲁⲭⲱⲣⲉⲓ	ⲁⲛⲁⲭⲱⲣⲉⲓ	VERB	V	VerbForm=Fin	9	advcl	_	_
-24	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	25	case	_	Orig=ⲛ̄ϩⲏⲧ
-25	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	obl	_	Orig=ⲥ̄
-26	ⲁϫⲛ	ⲁϫⲛ	ADP	PREP	_	28	case	_	Orig=ⲁϫⲛ̄
-27	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	28	det	_	_
-28	ⲉⲓⲟⲧⲉ	ⲉⲓⲱⲧ	NOUN	N	_	23	obl	_	_
-29	·	·	PUNCT	PUNCT	_	9	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 3 amod	color:blue
+1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
+2	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	obl	_	Orig=ⲡⲁⲓ̈
+3	ⲟⲩ	ⲟⲩ	X	FM	Polarity=Neg	8	amod	_	_
+4	ⲙⲟⲛⲟⲛ	ⲙⲟⲛⲟⲛ	X	FM	_	3	fixed	_	_
+5	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	8	case	_	_
+6	ϩⲛ	ϩⲛ	ADP	PREP	_	5	fixed	_	Orig=ϩⲛ̅
+7	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	det	_	Orig=ⲛ̅
+8	ⲥⲱϣⲉ	ⲥⲱϣⲉ	NOUN	N	_	0	root	_	_
+9	ⲙⲛ	ⲙⲛ	ADP	PREP	_	10	cc	_	Orig=ⲙⲛ̅
+10	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	conj	_	_
+11	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
+12	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	10	acl	_	_
+13	ⲛⲁ	ⲛⲁ	ADP	PREP	_	14	case	_	_
+14	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	12	obl	_	_
+15	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	12	advmod	_	_
+16	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	12	advmod	_	_
+17	·	·	PUNCT	PUNCT	_	23	punct	_	_
+18	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	23	cc	_	_
+19	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	23	case	_	_
+20	ϩⲙ	ϩⲛ	ADP	PREP	_	19	fixed	_	Orig=ϩⲙ̅
+21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	23	det	_	_
+23	ϩⲱⲃ	ϩⲱⲃ	NOUN	N	_	8	conj	_	_
+24	ⲛ	ⲛ	ADP	PREP	_	26	case	_	Orig=ⲛ̅
+25	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	26	det	_	_
+26	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	23	nmod	_	_
+27	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~
 

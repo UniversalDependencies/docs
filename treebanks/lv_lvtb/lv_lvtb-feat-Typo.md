@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-289 tokens (0%) have a non-empty value of `Typo`.
-273 types (1%) occur at least once with a non-empty value of `Typo`.
-256 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 16 part-of-speech tags: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (100; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (76; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (17; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (15; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+290 tokens (0%) have a non-empty value of `Typo`.
+274 types (1%) occur at least once with a non-empty value of `Typo`.
+257 lemmas (1%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 16 part-of-speech tags: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (101; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (76; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (17; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (15; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-100 <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+101 <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (69; 69%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (62; 62%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (70; 69%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (62; 61%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (100; 100% of non-empty `Typo`): <em>biblīotēkā, bībliotēka, lidosta, ministrija, projektu, Asinis, Institūtā, Izstāde, Nagus, Plastmasa</em>
+* `Yes` (101; 100% of non-empty `Typo`): <em>biblīotēkā, bībliotēka, lidosta, ministrija, projektu, Asinis, Institūtā, Izstāde, Nagus, Plastmasa</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (94) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (95) occur only with one value of `Typo`.
 
 ### `VERB`
 

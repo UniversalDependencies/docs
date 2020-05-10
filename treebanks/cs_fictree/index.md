@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Tomáš Jelínek, Daniel Zeman.
 
 Repository: [UD_Czech-FicTree](https://github.com/UniversalDependencies/UD_Czech-FicTree)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -87,7 +87,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 
 ## Relations
 
-[acl](cs_fictree-dep-acl.html) – [advcl](cs_fictree-dep-advcl.html) – [advmod](cs_fictree-dep-advmod.html) – [advmod:emph](cs_fictree-dep-advmod-emph.html) – [amod](cs_fictree-dep-amod.html) – [appos](cs_fictree-dep-appos.html) – [aux](cs_fictree-dep-aux.html) – [aux:pass](cs_fictree-dep-aux-pass.html) – [case](cs_fictree-dep-case.html) – [cc](cs_fictree-dep-cc.html) – [ccomp](cs_fictree-dep-ccomp.html) – [compound](cs_fictree-dep-compound.html) – [conj](cs_fictree-dep-conj.html) – [cop](cs_fictree-dep-cop.html) – [csubj](cs_fictree-dep-csubj.html) – [csubj:pass](cs_fictree-dep-csubj-pass.html) – [dep](cs_fictree-dep-dep.html) – [det](cs_fictree-dep-det.html) – [det:numgov](cs_fictree-dep-det-numgov.html) – [det:nummod](cs_fictree-dep-det-nummod.html) – [discourse](cs_fictree-dep-discourse.html) – [expl:pass](cs_fictree-dep-expl-pass.html) – [expl:pv](cs_fictree-dep-expl-pv.html) – [fixed](cs_fictree-dep-fixed.html) – [flat](cs_fictree-dep-flat.html) – [iobj](cs_fictree-dep-iobj.html) – [mark](cs_fictree-dep-mark.html) – [nmod](cs_fictree-dep-nmod.html) – [nsubj](cs_fictree-dep-nsubj.html) – [nsubj:pass](cs_fictree-dep-nsubj-pass.html) – [nummod](cs_fictree-dep-nummod.html) – [nummod:gov](cs_fictree-dep-nummod-gov.html) – [obj](cs_fictree-dep-obj.html) – [obl](cs_fictree-dep-obl.html) – [obl:agent](cs_fictree-dep-obl-agent.html) – [obl:arg](cs_fictree-dep-obl-arg.html) – [orphan](cs_fictree-dep-orphan.html) – [parataxis](cs_fictree-dep-parataxis.html) – [punct](cs_fictree-dep-punct.html) – [root](cs_fictree-dep-root.html) – [vocative](cs_fictree-dep-vocative.html) – [xcomp](cs_fictree-dep-xcomp.html)
+[acl](cs_fictree-dep-acl.html) – [acl:relcl](cs_fictree-dep-acl-relcl.html) – [advcl](cs_fictree-dep-advcl.html) – [advmod](cs_fictree-dep-advmod.html) – [advmod:emph](cs_fictree-dep-advmod-emph.html) – [amod](cs_fictree-dep-amod.html) – [appos](cs_fictree-dep-appos.html) – [aux](cs_fictree-dep-aux.html) – [aux:pass](cs_fictree-dep-aux-pass.html) – [case](cs_fictree-dep-case.html) – [cc](cs_fictree-dep-cc.html) – [ccomp](cs_fictree-dep-ccomp.html) – [compound](cs_fictree-dep-compound.html) – [conj](cs_fictree-dep-conj.html) – [cop](cs_fictree-dep-cop.html) – [csubj](cs_fictree-dep-csubj.html) – [csubj:pass](cs_fictree-dep-csubj-pass.html) – [dep](cs_fictree-dep-dep.html) – [det](cs_fictree-dep-det.html) – [det:numgov](cs_fictree-dep-det-numgov.html) – [det:nummod](cs_fictree-dep-det-nummod.html) – [discourse](cs_fictree-dep-discourse.html) – [expl:pass](cs_fictree-dep-expl-pass.html) – [expl:pv](cs_fictree-dep-expl-pv.html) – [fixed](cs_fictree-dep-fixed.html) – [flat](cs_fictree-dep-flat.html) – [iobj](cs_fictree-dep-iobj.html) – [mark](cs_fictree-dep-mark.html) – [nmod](cs_fictree-dep-nmod.html) – [nsubj](cs_fictree-dep-nsubj.html) – [nsubj:pass](cs_fictree-dep-nsubj-pass.html) – [nummod](cs_fictree-dep-nummod.html) – [nummod:gov](cs_fictree-dep-nummod-gov.html) – [obj](cs_fictree-dep-obj.html) – [obl](cs_fictree-dep-obl.html) – [obl:arg](cs_fictree-dep-obl-arg.html) – [orphan](cs_fictree-dep-orphan.html) – [parataxis](cs_fictree-dep-parataxis.html) – [punct](cs_fictree-dep-punct.html) – [root](cs_fictree-dep-root.html) – [vocative](cs_fictree-dep-vocative.html) – [xcomp](cs_fictree-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -1136,45 +1136,27 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Conv--NOUN-Acc (16)</li>
-      <li>VERB-Conv--NOUN-Dat (2)</li>
-      <li>VERB-Conv--NOUN-Gen (1)</li>
-      <li>VERB-Conv--NOUN-Ins (3)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN-Acc (1128)</li>
-      <li>VERB-Fin--NOUN-Dat (54)</li>
-      <li>VERB-Fin--NOUN-Gen (85)</li>
-      <li>VERB-Fin--NOUN-Ins (43)</li>
+      <li>VERB-Fin--NOUN-Gen (49)</li>
       <li>VERB-Fin--NOUN-Nom (3)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (731)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(o) (2)</li>
-      <li>VERB-Fin--PRON-Dat (221)</li>
-      <li>VERB-Fin--PRON-Gen (27)</li>
-      <li>VERB-Fin--PRON-Ins (2)</li>
+      <li>VERB-Fin--PRON-Gen (3)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN-Acc (678)</li>
-      <li>VERB-Inf--NOUN-Dat (34)</li>
-      <li>VERB-Inf--NOUN-Gen (45)</li>
-      <li>VERB-Inf--NOUN-Ins (20)</li>
+      <li>VERB-Inf--NOUN-Gen (19)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (467)</li>
-      <li>VERB-Inf--PRON-Dat (91)</li>
-      <li>VERB-Inf--PRON-Gen (13)</li>
-      <li>VERB-Inf--PRON-Ins (3)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Acc (2700)</li>
-      <li>VERB-Part--NOUN-Dat (123)</li>
-      <li>VERB-Part--NOUN-Gen (157)</li>
-      <li>VERB-Part--NOUN-Ins (128)</li>
-      <li>VERB-Part--NOUN-Loc (1)</li>
+      <li>VERB-Part--NOUN-Gen (77)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>
       <li>VERB-Part--PRON (7)</li>
       <li>VERB-Part--PRON-Acc (1316)</li>
-      <li>VERB-Part--PRON-Dat (449)</li>
-      <li>VERB-Part--PRON-Gen (48)</li>
-      <li>VERB-Part--PRON-Ins (17)</li>
+      <li>VERB-Part--PRON-Gen (3)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -1184,30 +1166,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Conv--PRON-Acc (1)</li>
-      <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN-Acc (21)</li>
-      <li>VERB-Fin--NOUN-Dat (34)</li>
-      <li>VERB-Fin--NOUN-Gen (5)</li>
-      <li>VERB-Fin--NOUN-Ins (8)</li>
       <li>VERB-Fin--PRON-Acc (46)</li>
-      <li>VERB-Fin--PRON-Dat (208)</li>
-      <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Inf--NOUN-Acc (10)</li>
-      <li>VERB-Inf--NOUN-Dat (26)</li>
-      <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Ins (5)</li>
       <li>VERB-Inf--PRON-Acc (13)</li>
-      <li>VERB-Inf--PRON-Dat (119)</li>
-      <li>VERB-Inf--PRON-Gen (3)</li>
-      <li>VERB-Inf--PRON-Ins (2)</li>
       <li>VERB-Part--NOUN-Acc (57)</li>
-      <li>VERB-Part--NOUN-Dat (103)</li>
-      <li>VERB-Part--NOUN-Gen (20)</li>
-      <li>VERB-Part--NOUN-Ins (20)</li>
+      <li>VERB-Part--NOUN-Gen (3)</li>
       <li>VERB-Part--PRON-Acc (79)</li>
-      <li>VERB-Part--PRON-Dat (463)</li>
-      <li>VERB-Part--PRON-Gen (21)</li>
     </ul>
   </li>
 </ul>
@@ -1227,16 +1192,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 259 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: říkat si, koupit si, říci si, svlékat se, svléknout se, mít se, schovat se, nalít si, převléknout se, přečíst si, slyšet se, vidět se, nabídnout se, vyčítat si, zabít se, znát se, nasadit si, nechat si, odpovědět si, opakovat si, prostřít se, namlouvat si, navonět se, odpustit si, pomoci si, ponechat si, potkat se, psát si, přesvědčit se, převlékat se, připomenout si, přiznat si, schovávat se, udržet se, ujistit se, chytnout se, držet se, dělat si, kupovat si, milující se, nazvat se, obléknout se, obout se, odradit se, odvést se, odvézt se, ohlásit se, omlouvat se, omluvit se, osvobozovat se</li>
+  <li>This corpus contains 166 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: svlékat se, svléknout se, mít se, schovat se, převléknout se, slyšet se, vidět se, nabídnout se, zabít se, znát se, prostřít se, navonět se, potkat se, přesvědčit se, převlékat se, schovávat se, udržet se, ujistit se, chytnout se, držet se, milující se, nazvat se, obléknout se, obout se, odradit se, odvést se, odvézt se, ohlásit se, omlouvat se, omluvit se, osvobozovat se, ovládnout se, pohladit se, políbit se, potěšit se, prohlédnout se, přikrýt se, sprchovat se, ubránit se, uklidňovat se, uložit se, unášet se, vidět sebe, šetřit se, bavit se, bránit se, brát se, bít se, cvičit se, dovézt se</li>
     <ul>
-      <li>Out of those, 12 lemmas occurred more than once, but never without a reflexive dependent. Examples: převléknout, prostřít, navonět, obout, převlékat, milující, omlouvat, omluvit, ptát, sprchovat, ubránit, zakoupit</li>
+      <li>Out of those, 9 lemmas occurred more than once, but never without a reflexive dependent. Examples: převléknout, prostřít, navonět, převlékat, milující, omlouvat, omluvit, sprchovat, ubránit</li>
     </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

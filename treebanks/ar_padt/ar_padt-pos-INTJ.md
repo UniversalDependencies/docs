@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Arabic-PADT: POS Tags: `INTJ`
 
 There are 4 `INTJ` lemmas (0%), 5 `INTJ` types (0%) and 8 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 15 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 15 in number of types and 17 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: مَرحَبًا، بِلَاش، حَيَّ، مَا
 
@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  بلاش (<tt><a href="ar_padt-pos-INTJ.h
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.250000 (the average of all parts of speech is 1.762014).
+The form / lemma ratio of `INTJ` is 1.250000 (the average of all parts of speech is 1.761966).
 
 The 1st highest number of forms (2) was observed with the lemma “مَرحَبًا”: مرحبا, مرحباً.
 
@@ -61,7 +61,7 @@ Parents of `INTJ` nodes belong to 4 different parts of speech: <tt><a href="ar_p
 
 The highest child degree of a `INTJ` node is 4.
 
-Children of `INTJ` nodes are attached using 7 different relations: <tt><a href="ar_padt-dep-punct.html">punct</a></tt> (3; 23% instances), <tt><a href="ar_padt-dep-cc.html">cc</a></tt> (2; 15% instances), <tt><a href="ar_padt-dep-nmod.html">nmod</a></tt> (2; 15% instances), <tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt> (2; 15% instances), <tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt> (2; 15% instances), <tt><a href="ar_padt-dep-acl.html">acl</a></tt> (1; 8% instances), <tt><a href="ar_padt-dep-obl.html">obl</a></tt> (1; 8% instances)
+Children of `INTJ` nodes are attached using 7 different relations: <tt><a href="ar_padt-dep-punct.html">punct</a></tt> (4; 29% instances), <tt><a href="ar_padt-dep-cc.html">cc</a></tt> (2; 14% instances), <tt><a href="ar_padt-dep-nmod.html">nmod</a></tt> (2; 14% instances), <tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt> (2; 14% instances), <tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt> (2; 14% instances), <tt><a href="ar_padt-dep-acl.html">acl</a></tt> (1; 7% instances), <tt><a href="ar_padt-dep-obl.html">obl</a></tt> (1; 7% instances)
 
-Children of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (5; 38% instances), <tt><a href="ar_padt-pos-PUNCT.html">PUNCT</a></tt> (3; 23% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (2; 15% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (2; 15% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 8% instances)
+Children of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (5; 36% instances), <tt><a href="ar_padt-pos-PUNCT.html">PUNCT</a></tt> (4; 29% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (2; 14% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (2; 14% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 7% instances)
 

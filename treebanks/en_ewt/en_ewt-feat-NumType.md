@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (221; 100% of non-empty `NumType`): <em>first, second, third, 5th, fourth, 19th, 2nd, 1st, 20th, 21st</em>
-* `EMPTY` (15740): <em>good, great, other, best, new, many, more, last, same, few</em>
+* `EMPTY` (15710): <em>good, great, other, best, new, many, more, last, same, few</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (22) occur only with one value of `NumType`.
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (77; 99% of non-empty `NumType`): <em>once, twice</em>
 * `Ord` (1; 1% of non-empty `NumType`): <em>first</em>
-* `EMPTY` (12972): <em>so, just, when, very, also, how, now, even, there, then</em>
+* `EMPTY` (12965): <em>so, just, when, very, also, how, now, even, then, there</em>
 
 ## Relations with Agreement in `NumType`
 

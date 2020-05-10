@@ -12,7 +12,7 @@ It occurs with 2 different values: `Def`, `Ind`.
 61279 tokens (39%) have a non-empty value of `Definite`.
 22259 types (84%) occur at least once with a non-empty value of `Definite`.
 12397 lemmas (83%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 10 part-of-speech tags: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (33023; 21% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (13480; 9% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (8357; 5% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (2680; 2% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (2101; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (793; 1% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (499; 0% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (230; 0% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (115; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (33023; 21% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (13480; 9% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (8357; 5% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (2664; 2% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (2101; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (793; 1% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (499; 0% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (246; 0% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (115; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -77,15 +77,15 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
 
 ### `VERB`
 
-2680 <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Definite`.
+2664 <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2680; 100%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2680; 100%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2664; 99%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2037; 76%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1836; 69%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1595; 60%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1350; 50%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2664; 100%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2664; 100%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2664; 100%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2037; 76%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1822; 68%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1579; 59%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1350; 51%).
 
 `VERB` tokens may have the following values of `Definite`:
 
 * `Def` (5; 0% of non-empty `Definite`): <em>останалите, Останалото, Уволнените, отличените</em>
-* `Ind` (2675; 100% of non-empty `Definite`): <em>имало, направил, дал, трябвало, заминал, направено, искал, казал, направили, дошъл</em>
-* `EMPTY` (14505): <em>има, няма, може, трябва, е, каза, могат, съобщи, заяви, стана</em>
+* `Ind` (2659; 100% of non-empty `Definite`): <em>имало, направил, дал, трябвало, заминал, направено, искал, казал, направили, дошъл</em>
+* `EMPTY` (14164): <em>има, няма, може, трябва, каза, могат, съобщи, заяви, стана, имат</em>
 
 <table>
   <tr><th>Paradigm <i>остана</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -96,7 +96,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
   <tr><td><tt><tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>останали</em></td><td><em>ОСТАНАЛИТЕ</em></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `VERB`. 100% lemmas (995) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `VERB`. 100% lemmas (994) occur only with one value of `Definite`.
 
 ### `NUM`
 
@@ -164,14 +164,14 @@ The most frequent other feature values with which `ADV` and `Definite` co-occurr
 
 ### `AUX`
 
-230 <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Definite`.
+246 <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (230; 100%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (230; 100%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (230; 100%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (230; 100%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (230; 100%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (230; 100%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (165; 72%).
+The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (246; 100%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (246; 100%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (246; 100%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (246; 100%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (246; 100%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (246; 100%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (179; 73%).
 
 `AUX` tokens may have the following values of `Definite`:
 
-* `Ind` (230; 100% of non-empty `Definite`): <em>бил, били, била, било</em>
-* `EMPTY` (8547): <em>да, е, ще, са, бе, бъде, беше, бяха, съм, бъдат</em>
+* `Ind` (246; 100% of non-empty `Definite`): <em>бил, били, била, било</em>
+* `EMPTY` (8888): <em>да, е, ще, са, бе, бъде, беше, бяха, съм, бъдат</em>
 
 ### `PRON`
 

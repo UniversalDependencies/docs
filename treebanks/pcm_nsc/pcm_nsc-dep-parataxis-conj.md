@@ -6,30 +6,56 @@ udver: '2'
 
 ## Treebank Statistics: UD_Naija-NSC: Relations: `parataxis:conj`
 
-This relation is a language-specific subtype of .
-There are also 4 other language-specific subtypes of `parataxis`: <tt><a href="pcm_nsc-dep-parataxis-discourse.html">parataxis:discourse</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-dislocated.html">parataxis:dislocated</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-obj.html">parataxis:obj</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt>.
+This relation is a language-specific subtype of <tt><a href="pcm_nsc-dep-parataxis.html">parataxis</a></tt>.
+There are also 4 other language-specific subtypes of `parataxis`: <tt><a href="pcm_nsc-dep-parataxis-discourse.html">parataxis:discourse</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-dislocated.html">parataxis:dislocated</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-insert.html">parataxis:insert</a></tt>, <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt>.
 
-55 nodes (0%) are attached to their parents as `parataxis:conj`.
+841 nodes (1%) are attached to their parents as `parataxis:conj`.
 
-55 instances of `parataxis:conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.98181818181818.
+840 instances of `parataxis:conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.65992865636147.
 
-The following 9 pairs of parts of speech are connected with `parataxis:conj`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (41; 75% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (5; 9% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 2% instances).
+The following 45 pairs of parts of speech are connected with `parataxis:conj`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (666; 79% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (24; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (20; 2% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (17; 2% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (13; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 8 parataxis:conj	color:blue
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=27115|AlignEnd=27579|Gloss=PUNCT
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=27579|AlignEnd=27670|Gloss=NOM.SG.1
+3	dey	dey	VERB	_	VerbType=Cop	0	root	_	AlignBegin=27670|AlignEnd=27840|Gloss=be
+4	dere	dere	ADV	_	_	3	xcomp	_	AlignBegin=27840|AlignEnd=27980|Gloss=there
+5	o	o	PART	_	PartType=Disc	4	advmod:emph	_	AlignBegin=27980|AlignEnd=28240|Gloss=EMPH
+6	//=	//=	PUNCT	_	_	8	punct	_	AlignBegin=28240|AlignEnd=28270|Gloss=PUNCT
+7	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=28270|AlignEnd=28450|Gloss=NOM.SG.1
+8	school	school	VERB	_	_	3	parataxis:conj	_	AlignBegin=28450|AlignEnd=28830|Gloss=school
+9	o	o	PART	_	PartType=Disc	8	advmod:emph	_	AlignBegin=28830|AlignEnd=29030|Gloss=EMPH
+10	//=	//=	PUNCT	_	_	11	punct	_	AlignBegin=28830|AlignEnd=29030|Gloss=PUNCT
+11	setay	sotay	ADV	_	_	8	parataxis:conj	_	AlignBegin=29060|AlignEnd=29610|Gloss=such_that
+12	four	four	NUM	_	NumType=Card	13	nummod:det	_	AlignBegin=29610|AlignEnd=29950|Gloss=four.CARD
+13	years	year	NOUN	_	Number=Plur	11	obl:mod	_	AlignBegin=29950|AlignEnd=30270|Gloss=year.PL
+14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=30270|AlignEnd=30300|Gloss=PUNCT
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 parataxis:conj	color:blue
-1	bring	bring	VERB	_	_	0	root	_	_
-2	am	am	PRON	_	_	1	obj	_	_
-3	//=	//=	PUNCT	_	_	4	punct	_	_
-4	seize	seize	VERB	_	_	1	parataxis:conj	_	_
-5	am	am	PRON	_	_	4	obj	_	_
-6	again	again	ADV	_	_	4	advmod	_	_
-7	//	//	PUNCT	_	_	1	punct	_	_
+# visual-style 4 8 parataxis:conj	color:blue
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=111137|AlignEnd=111740|Gloss=PUNCT
+2	no	no	PART	_	Polarity=Neg	4	advmod	_	AlignBegin=111740|AlignEnd=111901|Gloss=NEG
+3	school	school	NOUN	_	_	4	compound	_	AlignBegin=111901|AlignEnd=112124|Gloss=school
+4	fees	fee	NOUN	_	Number=Plur	0	root	_	AlignBegin=112124|AlignEnd=112510|Gloss=fee.PL
+5	//=	//=	PUNCT	_	_	8	punct	_	AlignBegin=112510|AlignEnd=112540|Gloss=PUNCT
+6	#	#	PUNCT	_	_	8	punct	_	AlignBegin=112540|AlignEnd=113433|Gloss=PUNCT
+7	no	no	PART	_	Polarity=Neg	8	advmod	_	AlignBegin=113433|AlignEnd=114180|Gloss=NEG
+8	food	food	NOUN	_	_	4	parataxis:conj	_	AlignBegin=114180|AlignEnd=114730|Gloss=food
+9	//	//	PUNCT	_	_	4	punct	_	AlignBegin=114730|AlignEnd=114760|Gloss=PUNCT
 
 ~~~
 
@@ -37,43 +63,23 @@ The following 9 pairs of parts of speech are connected with `parataxis:conj`: <t
 ~~~ conllu
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 13 parataxis:conj	color:blue
-1	to	to	SCONJ	_	_	2	mark	_	_
-2	rent	rent	VERB	_	_	7	csubj	_	_
-3	house	house	NOUN	_	_	2	obj	_	_
-4	now	now	ADV	_	_	2	advmod	_	_
-5	<	<	PUNCT	_	_	2	punct	_	_
-6	na	na	AUX	PART	_	7	cop	_	_
-7	wahala	wahala	NOUN	_	_	0	root	_	_
-8	//=	//=	PUNCT	_	_	13	punct	_	_
-9	to	to	SCONJ	_	_	10	mark	_	_
-10	feed	feed	VERB	_	_	13	csubj	_	_
-11	<	<	PUNCT	_	_	10	punct	_	_
-12	na	na	AUX	PART	_	13	cop	_	_
-13	wahala	wahala	NOUN	_	_	7	parataxis:conj	_	_
-14	//	//	PUNCT	_	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 parataxis:conj	color:blue
-1	ah	ah	INTJ	_	_	4	discourse	_	_
-2	ah	ah	INTJ	_	_	1	goeswith	_	_
-3	{	{	PUNCT	_	_	4	punct	_	_
-4	no	no	INTJ	_	_	0	root	_	_
-5	|r	|r	PUNCT	_	_	6	punct	_	_
-6	no	no	INTJ	_	_	4	parataxis:conj	_	_
-7	|r	|r	PUNCT	_	_	8	punct	_	_
-8	no	no	INTJ	_	_	4	parataxis:conj	_	_
-9	}	}	PUNCT	_	_	4	punct	_	_
-10	//	//	PUNCT	_	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 13 parataxis:conj	color:blue
+1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=276840|AlignEnd=277140|Gloss=PUNCT
+2	and	and	CCONJ	_	_	5	cc	_	AlignBegin=277140|AlignEnd=277658|Gloss=and
+3	she	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	AlignBegin=277658|AlignEnd=277810|Gloss=NOM.F.SG.3
+4	no	no	PART	_	Polarity=Neg	5	advmod	_	AlignBegin=277810|AlignEnd=278000|Gloss=NEG
+5	get	get	VERB	_	_	0	root	_	AlignBegin=278000|AlignEnd=278181|Gloss=get
+6	husband	husband	NOUN	_	_	5	obj	_	AlignBegin=278181|AlignEnd=278590|Gloss=husband
+7	//=	//=	PUNCT	_	_	13	punct	_	AlignBegin=278590|AlignEnd=278620|Gloss=PUNCT
+8	#	#	PUNCT	_	_	13	punct	_	AlignBegin=278620|AlignEnd=279425|Gloss=PUNCT
+9	and	and	CCONJ	_	_	13	cc	_	AlignBegin=279425|AlignEnd=280135|Gloss=and
+10	na	na	AUX	_	PartType=Cop	13	cop	_	AlignBegin=280135|AlignEnd=280302|Gloss=be
+11	her	her	PRON	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	13	nmod:poss	_	AlignBegin=280302|AlignEnd=280465|Gloss=F.SG.3.POSS
+12	boy	boy	NOUN	_	_	13	compound	_	AlignBegin=280465|AlignEnd=280743|Gloss=boy
+13	friend	friend	NOUN	_	_	5	parataxis:conj	_	AlignBegin=280743|AlignEnd=281035|Gloss=friend
+14	&//	//	PUNCT	_	_	5	punct	_	AlignBegin=281035|AlignEnd=281065|Gloss=PUNCT
 
 ~~~
 

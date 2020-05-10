@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-207 nodes (8%) are attached to their parents as `case`.
+783 nodes (9%) are attached to their parents as `case`.
 
-162 instances of `case` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.36231884057971.
+699 instances of `case` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.31928480204342.
 
-The following 12 pairs of parts of speech are connected with `case`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (81; 39% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (58; 28% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (15; 7% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (11; 5% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (10; 5% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (10; 5% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (7; 3% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (6; 3% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (5; 2% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `case`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (428; 55% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (118; 15% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (61; 8% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (28; 4% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (27; 3% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (21; 3% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (20; 3% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (10; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (9; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,51 +38,49 @@ The following 12 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 case	color:blue
-1	Nígbà	Nígbà	SCONJ	_	_	5	mark	_	Gloss=when|Ref=JOHN_11.14
-2	náà	náà	ADV	_	_	5	advmod	_	Gloss=the|Ref=JOHN_11.14
-3	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=JOHN_11.14
-4	Jésù	Jésù	PROPN	_	_	5	nsubj	_	Gloss=jesus|Ref=JOHN_11.14
-5	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_11.14
-6	fún	fún	ADP	_	_	7	case	_	Gloss=unto|Ref=JOHN_11.14
-7	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obl	_	Gloss=them|Ref=JOHN_11.14
-8	gbangba	gbangba	ADV	_	_	5	advmod	_	Gloss=plainly|Ref=JOHN_11.14
-9	pé	pé	SCONJ	_	_	12	mark	_	Gloss=that|Ref=JOHN_11.14|SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=JOHN_11.14
-11	Lásárù	Lásárù	PROPN	_	_	12	nsubj	_	Gloss=lazarus|Ref=JOHN_11.14
-12	kú	kú	VERB	_	_	5	ccomp	_	Gloss=die|Ref=JOHN_11.14|SpaceAfter=No
-13	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=JOHN_11.14
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 14 case	color:blue
+1	Wọ́n	Wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Gloss=they|Ref=JOHN_10.39
+2	sì	sì	CCONJ	_	_	5	cc	_	Gloss=then|Ref=JOHN_10.39
+3	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.39
+4	ń	ń	AUX	_	_	5	aux	_	Gloss=is|Ref=JOHN_10.39
+5	wá	wá	VERB	_	_	0	root	_	Gloss=look|Ref=JOHN_10.39
+6	ọ̀nà	ọ̀nà	NOUN	_	_	5	obj	_	Gloss=way|Ref=JOHN_10.39
+7	láti	láti	ADP	_	_	8	mark	_	Gloss=to|Ref=JOHN_10.39
+8	mú	mú	VERB	_	_	5	xcomp	_	Gloss=take|Ref=JOHN_10.39
+9	un	un	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=him|Ref=JOHN_10.39|SpaceAfter=No
+10	:	:	PUNCT	_	_	13	punct	_	Gloss=:|Ref=JOHN_10.39
+11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	Gloss=he|Ref=JOHN_10.39
+12	sì	sì	CCONJ	_	_	13	cc	_	Gloss=then|Ref=JOHN_10.39
+13	bọ́	bọ́	VERB	_	_	5	conj	_	Gloss=escape|Ref=JOHN_10.39
+14	lọ́wọ́	lọ́wọ́	ADP	_	_	15	case	_	Gloss=from|Ref=JOHN_10.39
+15	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	obj	_	Gloss=they|Ref=JOHN_10.39|SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=JOHN_10.39
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 case	color:blue
-1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	14	cc	_	Gloss=but|Ref=JOHN_10.2
-2	ẹni	ẹni	PRON	_	PronType=Ind	14	nsubj	_	Gloss=someone|Ref=JOHN_10.2
-3	tí	tí	PRON	_	PronType=Rel	10	nsubj	_	Gloss=that|Ref=JOHN_10.2
-4	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	expl	_	Gloss=he|Ref=JOHN_10.2
-5	bá	bá	SCONJ	_	_	10	mark	_	Gloss=if|Ref=JOHN_10.2
-6	ti	ti	AUX	_	_	10	aux	_	Gloss=have|Ref=JOHN_10.2
-7	ẹnu	ẹnu	NOUN	_	_	10	obj	_	Gloss=mouth|Ref=JOHN_10.2|SpaceAfter=No
-8	-	-	PUNCT	_	_	9	punct	_	Gloss=-|Ref=JOHN_10.2|SpaceAfter=No
-9	ọ̀nà	ọ̀nà	NOUN	_	_	7	compound	_	Gloss=way|Ref=JOHN_10.2
-10	wọlé	wọlé	VERB	_	_	2	acl	_	Gloss=enter|Ref=JOHN_10.2|SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=JOHN_10.2
-12	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	appos	_	Gloss=he|Ref=JOHN_10.2
-13	ni	ni	PART	_	_	12	case	_	Gloss=is|Ref=JOHN_10.2
-14	olùṣọ́	olùṣọ́	NOUN	_	_	0	root	_	Gloss=shepherd|Ref=JOHN_10.2
-15	àwọn	àwọn	DET	_	_	16	det	_	Gloss=the|Ref=JOHN_10.2
-16	àgùntàn	àgùntàn	NOUN	_	_	14	nmod	_	Gloss=sheep|Ref=JOHN_10.2|SpaceAfter=No
-17	.	.	PUNCT	_	_	14	punct	_	Gloss=.|Ref=JOHN_10.2
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 case	color:blue
+1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the|Ref=JOHN_10.31
+2	Júù	Júù	PROPN	_	_	5	nsubj	_	Gloss=jews|Ref=JOHN_10.31
+3	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and|Ref=JOHN_10.31
+4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.31
+5	he	he	VERB	_	_	0	root	_	Gloss=pick|Ref=JOHN_10.31
+6	òkúta	òkúta	NOUN	_	_	5	obj	_	Gloss=stone|Ref=JOHN_10.31|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=JOHN_10.31
+8	láti	láti	ADP	_	_	9	case	_	Gloss=to|Ref=JOHN_10.31
+9	sọ	sọ	VERB	_	_	5	advcl	_	Gloss=throw|Ref=JOHN_10.31
+10	lù	lù	VERB	_	_	9	compound:svc	_	Gloss=beat|Ref=JOHN_10.31
+11	ú	ú	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	obj	_	Gloss=him|Ref=JOHN_10.31|SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=JOHN_10.31
 
 ~~~
 

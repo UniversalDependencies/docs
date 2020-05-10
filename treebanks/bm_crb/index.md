@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.3 release.
 The following people have contributed to making this treebank part of UD: Katya Aplonova, Francis Tyers.
 
 Repository: [UD_Bambara-CRB](https://github.com/UniversalDependencies/UD_Bambara-CRB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbm_crb25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbm_crb26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 

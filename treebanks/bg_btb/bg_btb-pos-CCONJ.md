@@ -15,7 +15,7 @@ The 10 most frequent `CCONJ` types:  <em>и, но, а, или, нито, та, &
 
 The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 3873, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 2), <em>а</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 265, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="bg_btb-pos-PART.html">PART</a></tt> 2), <em>нито</em> (<tt><a href="bg_btb-pos-PART.html">PART</a></tt> 30, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 28), <em>та</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 18, <tt><a href="bg_btb-pos-PART.html">PART</a></tt> 2), <em>тоест</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> 1), <em>хем</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 1), <em>па</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="bg_btb-pos-PART.html">PART</a></tt> 1), <em>плюс</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 1), <em>ами</em> (<tt><a href="bg_btb-pos-PART.html">PART</a></tt> 5, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 1), <em>било</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 3679, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 2), <em>а</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 188, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 2), <em>нито</em> (<tt><a href="bg_btb-pos-PART.html">PART</a></tt> 27, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 24), <em>ни</em> (<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> 282, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 12), <em>плюс</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 1), <em>било</em> (<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> 31, <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> 5, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 1), <em>-</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 955, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> 1), <em>че</em> (<tt><a href="bg_btb-pos-SCONJ.html">SCONJ</a></tt> 1030, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 2), <em>/</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 9, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>то</em> (<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> 46, <tt><a href="bg_btb-pos-PART.html">PART</a></tt> 8, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 3679, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 2), <em>а</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 188, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 2), <em>нито</em> (<tt><a href="bg_btb-pos-PART.html">PART</a></tt> 27, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 24), <em>ни</em> (<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> 282, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 12), <em>плюс</em> (<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 1), <em>било</em> (<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> 36, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 1), <em>-</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 955, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> 1), <em>че</em> (<tt><a href="bg_btb-pos-SCONJ.html">SCONJ</a></tt> 1030, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 2), <em>/</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 9, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>то</em> (<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> 46, <tt><a href="bg_btb-pos-PART.html">PART</a></tt> 8, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>и</em>
@@ -34,8 +34,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="bg_btb-pos-CCON
   * <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 4: <em>84 лв. <b>плюс</b> 26 % за горницата над 1380 лв.</em>
   * <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 1: <em>Запазихме духа си <b>плюс</b> ред и дисциплина .</em>
 * <em>било</em>
-  * <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> 31: <em>Детето <b>било</b> прието в петък следобед във видимо добро състояние .</em>
-  * <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> 5: <em>Кога ли е <b>било</b> !</em>
+  * <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> 36: <em>Детето <b>било</b> прието в петък следобед във видимо добро състояние .</em>
   * <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 3: <em>И винаги съм гледал <b>било</b> на власт , <b>било</b> в опозиция , да помогна , доколкото мога , с моето скромно мнение и съвет .</em>
   * <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 1: <em>Той се изкачваше по високото <b>било</b> на планината , където вятърът къдреше тревата на поляните , а наоколо беше синьо небе и бели облаци .</em>
 * <em>-</em>
@@ -58,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="bg_btb-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.160000 (the average of all parts of speech is 1.728014).
+The form / lemma ratio of `CCONJ` is 1.160000 (the average of all parts of speech is 1.727371).
 
 The 1st highest number of forms (4) was observed with the lemma “и”: <em>&, +, -, и</em>.
 
@@ -73,17 +72,17 @@ The 3rd highest number of forms (1) was observed with the lemma “et”: <em>et
 
 `CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="bg_btb-dep-cc.html">cc</a></tt> (4794; 99% instances), <tt><a href="bg_btb-dep-fixed.html">fixed</a></tt> (55; 1% instances), <tt><a href="bg_btb-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="bg_btb-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (2153; 44% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (1718; 35% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (375; 8% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (349; 7% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (149; 3% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="bg_btb-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (2153; 44% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (1694; 35% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (375; 8% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (349; 7% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (149; 3% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="bg_btb-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (8; 0% instances),  (2; 0% instances), <tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-4273 (88%) `CCONJ` nodes are leaves.
+4283 (88%) `CCONJ` nodes are leaves.
 
-579 (12%) `CCONJ` nodes have one child.
+575 (12%) `CCONJ` nodes have one child.
 
-8 (0%) `CCONJ` nodes have two children.
+2 (0%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="bg_btb-dep-punct.html">punct</a></tt> (579; 97% instances), <tt><a href="bg_btb-dep-discourse.html">discourse</a></tt> (10; 2% instances), <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (5; 1% instances), <tt><a href="bg_btb-dep-acl.html">acl</a></tt> (1; 0% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="bg_btb-dep-punct.html">punct</a></tt> (578; 100% instances), <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (1; 0% instances)
 
-Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> (579; 97% instances), <tt><a href="bg_btb-pos-PART.html">PART</a></tt> (10; 2% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> (578; 100% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 

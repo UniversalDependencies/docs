@@ -9,34 +9,34 @@ udver: '2'
 There are 66 `PROPN` lemmas (6%), 82 `PROPN` types (5%) and 167 `PROPN` tokens (1%).
 Out of 15 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 13 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>_, 廟街, 香港, Eason, 豪仔, 陳奕迅, Yes!, 九零三, 龍珠, 千嬅</em>
+The 10 most frequent `PROPN` lemmas: _、 廟街、 香港、 Eason、 豪仔、 陳奕迅、 Yes!、 九零三、 龍珠、 千嬅
 
-The 10 most frequent `PROPN` types:  <em>梁君彥, 香港, 廟街, Eason, 毛孟靜, 豪仔, 陳奕迅, Yes!, 九零三, 英國</em>
+The 10 most frequent `PROPN` types:  梁君彥、 香港、 廟街、 Eason、 毛孟靜、 豪仔、 陳奕迅、 Yes!、 九零三、 英國
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> 1377, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1352, <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 1283, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 853, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 764, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 662, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 335, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 217, <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 209, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 140, <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 124, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 101, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 93, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 92, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 52), <em>多多</em> (<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> 1377, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1352, <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 1283, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 853, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 764, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 662, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 335, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 217, <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 209, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 140, <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 124, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 101, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 93, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 92, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 52), 多多 (<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>多多</em> (<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1), <em>明</em> (<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2), <em>七十一</em> (<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 1, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  多多 (<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1), 明 (<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2), 七十一 (<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 1, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 1)
 
 
-* <em>多多</em>
-  * <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2: <em><b>多多</b> ！</em>
-  * <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1: <em>但係 細個 嗰陣時 就 反而 <b>多多</b> 都 買 得 起 。</em>
-* <em>明</em>
-  * <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 3: <em>因為 基本法 講 到 <b>明</b> 呢 ， 呀 ， 大會 主席 就 必須 沒有 外國 居留權 㗎 。</em>
-  * <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2: <em>其實 我 都 唔 <b>明</b> ， 點解 阿哥 唔 直接 送 千嬅 隻 碟 畀 佢 朋友 。</em>
-* <em>七十一</em>
-  * <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 1: <em>如果 喺 噉 嘅 情況 之下 ， 如果 根據 基本法 <b>七十一</b> 條 所 講 呢 ， 其實 講 緊 居留權 嘅 ， 噉 ， 我 覺得 呢個 喺 未 澄清 之前 ， 係咪 需要 ， 欸 ， 喺 依 一 刻 做 依樣 嘢 呢 ？</em>
-  * <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 1: <em>嗰陣時 啲 CD 舖 仲 多 過 而家 啲 <b>七十一</b> 。</em>
+* 多多
+  * <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2: <b>多多</b> ！
+  * <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1: 但係 細個 嗰陣時 就 反而 <b>多多</b> 都 買 得 起 。
+* 明
+  * <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 3: 因為 基本法 講 到 <b>明</b> 呢 ， 呀 ， 大會 主席 就 必須 沒有 外國 居留權 㗎 。
+  * <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2: 其實 我 都 唔 <b>明</b> ， 點解 阿哥 唔 直接 送 千嬅 隻 碟 畀 佢 朋友 。
+* 七十一
+  * <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 1: 如果 喺 噉 嘅 情況 之下 ， 如果 根據 基本法 <b>七十一</b> 條 所 講 呢 ， 其實 講 緊 居留權 嘅 ， 噉 ， 我 覺得 呢個 喺 未 澄清 之前 ， 係咪 需要 ， 欸 ， 喺 依 一 刻 做 依樣 嘢 呢 ？
+  * <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 1: 嗰陣時 啲 CD 舖 仲 多 過 而家 啲 <b>七十一</b> 。
 
 ## Morphology
 
 The form / lemma ratio of `PROPN` is 1.242424 (the average of all parts of speech is 1.622766).
 
-The 1st highest number of forms (19) was observed with the lemma “_”: <em>塗謹申, 姚松炎, 明, 李慧瓊, 梁, 梁君彥, 梁天琦, 梁美芬, 梁耀忠, 梁頌恆, 梁頌恒, 毛孟靜, 英國, 許智峰, 謝偉俊, 陳志全, 陳直, 陳維安, 香港</em>.
+The 1st highest number of forms (19) was observed with the lemma “_”: 塗謹申, 姚松炎, 明, 李慧瓊, 梁, 梁君彥, 梁天琦, 梁美芬, 梁耀忠, 梁頌恆, 梁頌恒, 毛孟靜, 英國, 許智峰, 謝偉俊, 陳志全, 陳直, 陳維安, 香港.
 
-The 2nd highest number of forms (1) was observed with the lemma “Beyond”: <em>Beyond</em>.
+The 2nd highest number of forms (1) was observed with the lemma “Beyond”: Beyond.
 
-The 3rd highest number of forms (1) was observed with the lemma “Eason”: <em>Eason</em>.
+The 3rd highest number of forms (1) was observed with the lemma “Eason”: Eason.
 
 `PROPN` does not occur with any features.
 

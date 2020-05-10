@@ -23,9 +23,9 @@ The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 aux:caus	color:blue
-1	N'	ne	ADV	_	Polarity=Neg	2	advmod	_	SpaceAfter=No
+1	N'	ne	ADV	_	Polarity=Neg	2	advmod	_	SpaceAfter=No|wordform=n'
 2	hésitez	hésiter	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-3	-pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_
+3	-pas	pas	ADV	_	Polarity=Neg	2	advmod	_	wordform=pas
 4	à	à	ADP	_	_	7	mark	_	_
 5	la	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj:agent	_	_
 6	faire	faire	AUX	_	VerbForm=Inf	7	aux:caus	_	_

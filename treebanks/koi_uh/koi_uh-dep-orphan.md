@@ -22,16 +22,16 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 orphan	color:blue
-1	Мери	Мери	PROPN	_	Animacy=Hum|Case=Nom|Number=Sing	2	nsubj	_	GTtags=Prop,Sg,Nom
+1	Мери	Мери	PROPN	_	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	nsubj	_	GTtags=Prop,Sg,Nom
 2	босьтіс	босьтны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
 3	бронза	бронза	NOUN	_	Case=Nom|Number=Sing	2	obj	_	GTtags=Sg,Nom|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
-5	Питер	Питер	PROPN	_	Animacy=Hum|Case=Nom|Number=Sing	2	conj	_	GTtags=Prop,Sg,Nom
+5	Питер	Питер	PROPN	_	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	conj	_	GTtags=Prop,Sg,Nom
 6	–	–	PUNCT	_	_	5	punct	_	_
 7	эзысь	эзысь	NOUN	_	Case=Nom|Number=Sing	5	orphan	_	GTtags=Sg,Nom|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	10	punct	_	_
 9	а	а	CCONJ	_	_	10	cc	_	_
-10	Джейн	Джейн	PROPN	_	Animacy=Hum|Case=Nom|Number=Sing	2	conj	_	GTtags=Prop,Sg,Nom
+10	Джейн	Джейн	PROPN	_	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	conj	_	GTtags=Prop,Sg,Nom
 11	–	–	PUNCT	_	_	10	punct	_	_
 12	зарни	зарни	NOUN	_	Case=Nom|Number=Sing	10	orphan	_	GTtags=Sg,Nom|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	2	punct	_	_

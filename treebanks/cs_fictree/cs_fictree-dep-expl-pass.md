@@ -27,8 +27,8 @@ The following 2 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 2	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pass	4:expl:pass	_
 3	měla	mít	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 4	přistavovat	přistavovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	3	xcomp	3:xcomp	_
-5	část	část	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	3	nsubj	3:nsubj	_
-6	mlýna	mlýn	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	5:nmod	SpaceAfter=No
+5	část	část	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	3	nsubj	3:nsubj|4:nsubj	_
+6	mlýna	mlýn	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	5:nmod:gen	SpaceAfter=No
 7	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~
@@ -46,13 +46,13 @@ The following 2 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 4	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pass	3:expl:pass	_
 5	krajinu	krajina	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	1	obj	1:obj	_
 6	kolem	kolem	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	7:case	_
-7	sebe	se	PRON	P6--2----------	Case=Gen|PronType=Prs|Reflex=Yes	5	nmod	5:nmod	_
+7	sebe	se	PRON	P6--2----------	Case=Gen|PronType=Prs|Reflex=Yes	5	nmod	5:nmod:kolem:gen	_
 8	a	a	CCONJ	J^-------------	_	9	cc	9:cc	_
 9	snažila	snažit	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	0:root|1:conj	_
 10	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	9	expl:pv	9:expl:pv	_
 11	smazat	smazat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	9	xcomp	9:xcomp	_
 12	pocit	pocit	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	11	obj	11:obj	_
-13	trapnosti	trapnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	12	nmod	12:nmod	SpaceAfter=No
+13	trapnosti	trapnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	12	nmod	12:nmod:gen	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

@@ -9,31 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="tr_pud-dep-aux-q.html">aux:q</a></tt>.
 
-45 nodes (0%) are attached to their parents as `aux`.
+30 nodes (0%) are attached to their parents as `aux`.
 
-45 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33333333333333.
+30 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.3.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (19; 42% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (13; 29% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (12; 27% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (1; 2% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 aux	color:blue
-1	Teoride	Teori	NOUN	NN	Case=Loc|Number=Sing	7	obl	_	SpaceAfter=No
-2	,	,	PUNCT	,	_	1	punct	_	_
-3	eğer	eğer	SCONJ	SCONJ	_	5	mark	_	_
-4	doğru	doğru	ADV	RB	Number=Sing	5	advmod	_	_
-5	yapılırsa	yap	VERB	VB	Aspect=Hab|Mood=CndGen|Number=Sing|Person=3|Tense=Pres|Voice=Pass	7	advcl	_	SpaceAfter=No
-6	,	,	PUNCT	,	_	5	punct	_	_
-7	anlaşılamaz	anlaşıla	VERB	VB	Aspect=Hab|Mood=GenPot|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Pass	0	root	_	_
-8	olmalı	ol	AUX	VB	Mood=Nec|Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	7	punct	_	_
-
-~~~
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (13; 43% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (12; 40% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (3; 10% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -42,9 +23,9 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 aux	color:blue
-1	Sonuçta	Sonuçta	NOUN	NN	Case=Loc|Number=Sing	10	obl	_	SpaceAfter=No
+1	Sonuçta	Sonuçta	NOUN	NN	Case=Loc|Number=Sing	5	obl	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	_	_
-3	internet	internet	NOUN	NN	Case=Nom|Number=Sing	10	nsubj	_	_
+3	internet	internet	NOUN	NN	Case=Nom|Number=Sing	5	nsubj	_	_
 4	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	5	det	_	_
 5	lüks	lüks	NOUN	NN	Number=Sing	0	root	_	_
 6	değil	değil	AUX	NOMP	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	5	aux	_	SpaceAfter=No
@@ -70,6 +51,21 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	belli	belli	ADJ	JJ	Number=Sing	0	root	_	_
 6	değil	değil	AUX	NOMP	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 aux	color:blue
+1	Çalar	Ça	ADJ	VJ	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Pres	2	compound	_	_
+2	saatinizle	saatiniz	NOUN	NN	Case=Ins|Number=Sing|Number[psor]=Plur|Person[psor]=2	3	obl	_	_
+3	tartışıyor	tartış	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	musunuz	mi	AUX	AUX	Number=Plur|Person=2	3	aux	_	SpaceAfter=No
+5	?	?	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

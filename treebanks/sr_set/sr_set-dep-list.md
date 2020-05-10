@@ -58,7 +58,7 @@ The following 2 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 17 list	color:blue
 1	Zaustavlja	zaustavljati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	1	compound	_	_
+2	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	1	expl	_	_
 3	u	u	ADP	Sl	Case=Loc	4	case	_	_
 4	stanicama	stanica	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	1	obl	_	_
 5	Skoplje	Skoplje	PROPN	Npnsn	Case=Nom|Gender=Neut|Number=Sing	4	appos	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (3%) are attached to their parents as `cop`.
+16 nodes (1%) are attached to their parents as `cop`.
 
-10 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8.
+15 instances of `cop` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5625.
 
-The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (5; 50% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (3; 30% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 10% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 10% instances).
+The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (8; 50% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (3; 19% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (3; 19% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -51,16 +51,19 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 cop	color:blue
-1	Ja	ja	CCONJ	CC	_	5	cc	_	_
-2	seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	5	obl	_	GTtags=Pers,Pl3,Loc
-3	vueʹppes	vueʹppes	NOUN	N	_	5	nsubj	_	_
-4	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt|Valency=1	5	cop	_	GTtags=IV,Ind,Prt,Sg3
-5	Laurikainen	Laurikainen	PROPN	N	_	0	root	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 cop	color:blue
+1	Tät	tät	DET	Det	Case=Nom|Number=Sing|PronType=Dem	4	det	_	GTtags=Dem,Sg,Nom
+2	jåhtta	jåhtta	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time
+3	tuåimtum	tuåimted	VERB	V	Aspect=Perf|VerbForm=Part|Voice=Pass	4	advcl	_	GTtags=Pass,PrfPrc
+4	ǩeʹrjj	ǩeʹrjj	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	GTtags=Sg,Nom
+5	lij	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	7	cop	_	GTtags=IV,Ind,Prs,Sg3
+6	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	7	obl	_	GTtags=Prop,Sem/Mal,Sg,Nom
+7	vuõltteem	vuõltteed	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	GTtags=Act,PrfPrc|SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
 
 ~~~
 

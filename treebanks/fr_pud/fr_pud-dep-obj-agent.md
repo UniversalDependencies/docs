@@ -22,18 +22,18 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 obj:agent	color:blue
-1	Les	_	DET	DT	Gender=Masc|Number=Plur	3	det	_	_
-2	bons	_	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
-3	résultats	_	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj:caus	_	_
-4	en	_	ADP	IN	_	5	case	_	_
-5	Asie	_	PROPN	NNP	Gender=Fem|Number=Sing	3	nmod	_	_
-6	faisaient	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp	7	aux:caus	_	_
-7	monter	_	VERB	VB	_	0	root	_	_
-8	immédiatement	_	ADV	RB	_	7	advmod	_	_
-9	les	_	DET	DT	Gender=Masc|Number=Plur	10	det	_	_
-10	marchés	_	NOUN	NN	Gender=Masc|Number=Plur	7	obj:agent	_	_
-11	boursiers	_	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	SpaceAfter=No
-12	.	_	PUNCT	.	_	7	punct	_	_
+1	Les	le	DET	DT	Gender=Masc|Number=Plur	3	det	_	wordform=les
+2	bons	bon	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
+3	résultats	résultat	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj:caus	_	_
+4	en	en	ADP	IN	_	5	case	_	_
+5	Asie	Asie	PROPN	NNP	Gender=Fem|Number=Sing	3	nmod	_	_
+6	faisaient	faire	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	aux:caus	_	_
+7	monter	monter	VERB	VB	VerbForm=Inf	0	root	_	_
+8	immédiatement	immédiatement	ADV	RB	_	7	advmod	_	_
+9	les	le	DET	DT	Gender=Masc|Number=Plur	10	det	_	_
+10	marchés	marché	NOUN	NN	Gender=Masc|Number=Plur	7	obj:agent	_	_
+11	boursiers	boursier	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~
 
@@ -44,17 +44,17 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 obj:agent	color:blue
-1	C'	_	PRON	PDEM	_	3	nsubj	_	SpaceAfter=No
-2	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
-3	ce	_	PRON	PDEM	_	0	root	_	_
-4	qui	_	PRON	WP	_	7	nsubj:caus	_	_
-5	nous	_	PRON	PRP	Number=Plur|Person=1	7	obj:agent	_	_
-6	fait	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux:caus	_	_
-7	revenir	_	VERB	VB	_	3	acl:relcl	_	_
-8	encore	_	ADV	RB	_	7	advmod	_	_
-9	et	_	CCONJ	CC	_	10	cc	_	_
-10	encore	_	ADV	RB	_	8	conj	_	SpaceAfter=No
-11	.	_	PUNCT	.	_	3	punct	_	_
+1	C'	ce	PRON	PDEM	_	3	nsubj	_	SpaceAfter=No|wordform=c'
+2	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	ce	ce	PRON	PDEM	_	0	root	_	_
+4	qui	qui	PRON	WP	_	7	nsubj:caus	_	_
+5	nous	le	PRON	PRP	Number=Plur|Person=1	7	obj:agent	_	_
+6	fait	faire	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:caus	_	_
+7	revenir	revenir	VERB	VB	VerbForm=Inf	3	acl:relcl	_	_
+8	encore	encore	ADV	RB	_	7	advmod	_	_
+9	et	et	CCONJ	CC	_	10	cc	_	_
+10	encore	encore	ADV	RB	_	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

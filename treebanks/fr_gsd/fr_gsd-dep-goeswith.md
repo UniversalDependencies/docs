@@ -13,7 +13,7 @@ This relation is universal.
 31 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.03225806451613.
 
-The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (5; 16% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 3% instances).
+The following 17 pairs of parts of speech are connected with `goeswith`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (5; 16% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (2; 6% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -22,14 +22,14 @@ The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 goeswith	color:blue
-1	Nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+1	Nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	wordform=nous
 2	avons	avoir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	testé	tester	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	restaurant	restaurant	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
 6	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
-7	week	weekend	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	EXTPOS=NOUN|Type=MWE
-8	end	end	NOUN	_	Gender=Fem|Number=Sing	7	goeswith	_	SpaceAfter=No
+7	week	weekend	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	EXTPOS=NOUN|Type=MWE|wordform=week-end
+8	end	end	NOUN	_	Gender=Fem|Number=Sing	7	goeswith	_	SpaceAfter=No|wordform=_
 9	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -41,7 +41,7 @@ The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a 
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 16 goeswith	color:blue
-1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=il
 2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 4	belle	beau	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
@@ -55,8 +55,8 @@ The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a 
 12	dans	dans	ADP	_	_	15	case	_	_
 13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 14	petit	petit	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
-15	sous	sous	ADP	_	_	11	nmod	_	EXTPOS=NOUN|Type=MWE
-16	marin	marin	NOUN	_	Gender=Masc|Number=Sing	15	goeswith	_	_
+15	sous	sous	ADP	_	_	11	nmod	_	EXTPOS=NOUN|Type=MWE|wordform=sous-marin
+16	marin	marin	NOUN	_	Gender=Masc|Number=Sing	15	goeswith	_	wordform=_
 17	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 18	parfait	parfait	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
 19	à	à	ADP	_	_	21	case	_	_
@@ -80,12 +80,12 @@ The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 goeswith	color:blue
-1	Pas	pas	ADV	_	Polarity=Neg	0	root	_	_
+1	Pas	pas	ADV	_	Polarity=Neg	0	root	_	wordform=pas
 2	de	de	ADP	_	_	3	case	_	_
-3	sèche	sécher	VERB	_	_	1	obl:arg	_	EXTPOS=NOUN|Type=MWE
-4	cheveux	cheveu	NOUN	_	Gender=Masc|Number=Plur	3	goeswith	_	_
+3	sèche	sécher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	obl:arg	_	EXTPOS=NOUN|Type=MWE|wordform=sèche-cheveux
+4	cheveux	cheveu	NOUN	_	Gender=Masc|Number=Plur	3	goeswith	_	wordform=_
 5	ni	ni	CCONJ	_	_	7	cc	_	_
-6	de	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	de	de	ADP	_	_	7	case	_	_
 7	prise	prise	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
 8	rasoir	rasoir	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
 9	dans	dans	ADP	_	_	11	case	_	_

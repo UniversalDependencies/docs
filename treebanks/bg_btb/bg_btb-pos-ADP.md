@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>като</em> (<tt><a href="bg_btb-po
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.046154 (the average of all parts of speech is 1.728014).
+The form / lemma ratio of `ADP` is 1.046154 (the average of all parts of speech is 1.727371).
 
 The 1st highest number of forms (2) was observed with the lemma “в”: <em>/, в</em>.
 
@@ -75,13 +75,13 @@ Examples: <em>на, в, за, от, с, по, до, след, като, през
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="bg_btb-dep-case.html">case</a></tt> (21574; 98% instances), <tt><a href="bg_btb-dep-mark.html">mark</a></tt> (260; 1% instances), <tt><a href="bg_btb-dep-fixed.html">fixed</a></tt> (159; 1% instances), <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (44; 0% instances), <tt><a href="bg_btb-dep-obl.html">obl</a></tt> (27; 0% instances), <tt><a href="bg_btb-dep-nmod.html">nmod</a></tt> (17; 0% instances), <tt><a href="bg_btb-dep-iobj.html">iobj</a></tt> (7; 0% instances), <tt><a href="bg_btb-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="bg_btb-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 9 different relations: <tt><a href="bg_btb-dep-case.html">case</a></tt> (21618; 98% instances), <tt><a href="bg_btb-dep-mark.html">mark</a></tt> (260; 1% instances), <tt><a href="bg_btb-dep-fixed.html">fixed</a></tt> (159; 1% instances), <tt><a href="bg_btb-dep-obl.html">obl</a></tt> (27; 0% instances), <tt><a href="bg_btb-dep-nmod.html">nmod</a></tt> (17; 0% instances), <tt><a href="bg_btb-dep-iobj.html">iobj</a></tt> (7; 0% instances), <tt><a href="bg_btb-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="bg_btb-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (17415; 79% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (2554; 12% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (948; 4% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (408; 2% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (282; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (189; 1% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (162; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (94; 0% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (43; 0% instances),  (2; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (17453; 79% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (2554; 12% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (948; 4% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (407; 2% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (281; 1% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (161; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (154; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (93; 0% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (43; 0% instances),  (2; 0% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-21672 (98%) `ADP` nodes are leaves.
+21673 (98%) `ADP` nodes are leaves.
 
-330 (1%) `ADP` nodes have one child.
+329 (1%) `ADP` nodes have one child.
 
 92 (0%) `ADP` nodes have two children.
 
@@ -89,7 +89,7 @@ Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="bg_b
 
 The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes are attached using 11 different relations: <tt><a href="bg_btb-dep-fixed.html">fixed</a></tt> (449; 85% instances), <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (55; 10% instances), <tt><a href="bg_btb-dep-cc.html">cc</a></tt> (8; 2% instances), <tt><a href="bg_btb-dep-conj.html">conj</a></tt> (5; 1% instances), <tt><a href="bg_btb-dep-cop.html">cop</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-punct.html">punct</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="bg_btb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="bg_btb-dep-goeswith.html">goeswith</a></tt> (1; 0% instances), <tt><a href="bg_btb-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 10 different relations: <tt><a href="bg_btb-dep-fixed.html">fixed</a></tt> (449; 85% instances), <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (55; 10% instances), <tt><a href="bg_btb-dep-cc.html">cc</a></tt> (8; 2% instances), <tt><a href="bg_btb-dep-conj.html">conj</a></tt> (5; 1% instances), <tt><a href="bg_btb-dep-cop.html">cop</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-punct.html">punct</a></tt> (2; 0% instances), <tt><a href="bg_btb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="bg_btb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="bg_btb-dep-goeswith.html">goeswith</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (184; 35% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (162; 31% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (95; 18% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (58; 11% instances), <tt><a href="bg_btb-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> (8; 2% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (184; 35% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (161; 31% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (95; 18% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (58; 11% instances), <tt><a href="bg_btb-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> (8; 2% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-PART.html">PART</a></tt> (1; 0% instances)
 

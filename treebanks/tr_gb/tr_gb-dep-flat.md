@@ -39,12 +39,12 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat	color:blue
-1	Bizim	biz	PRON	_	Case=Gen|Number=Sing|Person=1	2	nmod	_	_
+1	Bizim	biz	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 2	mahallede	mahalle	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
 3	Güneş	Güneş	PROPN	_	Number=Sing	7	nmod	_	_
 4	Gıda	gıda	NOUN	_	Case=Nom|Number=Sing	3	flat	_	_
 5	diye	diye	ADP	_	_	4	case	_	_
-6	bir	bir	DET	_	Definite=Ind|Number=Sing	7	det	_	_
+6	bir	bir	DET	_	Definite=Ind|PronType=Art	7	det	_	_
 7	market	market	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 8	var	var	ADJ	_	_	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_

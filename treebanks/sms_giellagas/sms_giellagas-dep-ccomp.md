@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (2%) are attached to their parents as `ccomp`.
+20 nodes (2%) are attached to their parents as `ccomp`.
 
-4 instances of `ccomp` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.2.
+19 instances of `ccomp` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.8.
 
-The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (4; 80% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (1; 20% instances).
+The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (19; 95% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -36,7 +36,7 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 ccomp	color:blue
-1	kõõjji	kõõččâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
+1	kõõjji	kõõččâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	5	punct	_	_
 3	štõ	što	SCONJ	CS	_	5	mark	_	_
 4	leäk-a	leeʹd	AUX	Aux	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	5	cop	_	GTtags=IV,Ind,Prs,Sg2,Qst/a

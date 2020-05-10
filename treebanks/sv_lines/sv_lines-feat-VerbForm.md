@@ -23,8 +23,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (6881; 61% of non-empty `VerbForm`): <em>sa, var, hade, gick, kom, har, såg, sade, är, tog</em>
-* `Inf` (3227; 28% of non-empty `VerbForm`): <em>göra, ta, se, gå, komma, använda, få, bli, ha, säga</em>
-* `Part` (251; 2% of non-empty `VerbForm`): <em>tvungen, taget, leende, tvungna, flåsande, gjort, sittande, svävande, tröstande, baserat</em>
+* `Inf` (3220; 28% of non-empty `VerbForm`): <em>göra, ta, se, gå, komma, använda, få, bli, ha, säga</em>
+* `Part` (258; 2% of non-empty `VerbForm`): <em>tvungen, taget, leende, tvungna, flåsande, gjort, sittande, svävande, tröstande, baserat</em>
 * `Sup` (998; 9% of non-empty `VerbForm`): <em>kommit, gjort, fått, varit, sett, gått, blivit, sagt, hört, tagit</em>
 * `EMPTY` (39): <em>höll, närvarande, taget, förfogande, Tala, följande, gillande, gående, Beroende, Hjälp</em>
 
@@ -85,18 +85,18 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Sup` (1; 100% of non-empty `VerbForm`): <em>brits</em>
-* `EMPTY` (15969): <em>sätt, år, far, fält, gång, man, data, sidan, del, mor</em>
+* `EMPTY` (15964): <em>sätt, år, far, fält, gång, man, sidan, del, data, mor</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1508; 85%),
+<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1507; 85%),
 <tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (193; 65%),
 <tt>VERB --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> VERB</tt> (25; 76%),
 <tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (9; 64%),
 <tt>VERB --[<tt><a href="sv_lines-dep-acl-cleft.html">acl:cleft</a></tt>]--> VERB</tt> (8; 73%),
-<tt>AUX --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (6; 86%),
 <tt>VERB --[<tt><a href="sv_lines-dep-compound-prt.html">compound:prt</a></tt>]--> VERB</tt> (6; 75%),
+<tt>AUX --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 83%),
 <tt>AUX --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (4; 80%),
 <tt>AUX --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 75%),
 <tt>VERB --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> AUX</tt> (1; 100%).

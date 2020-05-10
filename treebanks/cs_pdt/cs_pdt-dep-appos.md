@@ -23,7 +23,7 @@ The following 79 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 4 appos	color:blue
 1	Způsob	způsob	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	0:root	_
-2	tisku	tisk	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	1	nmod	1:nmod	SpaceAfter=No
+2	tisku	tisk	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	1	nmod	1:nmod:gen	SpaceAfter=No
 3	:	:	PUNCT	Z:-------------	_	4	punct	4:punct	_
 4	INKJET	inkjet	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	1	appos	1:appos	_
 
@@ -43,9 +43,9 @@ The following 79 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
 6	ředitel	ředitel	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	appos	3:appos	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
-8	Zásobování	zásobování	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	6	nmod	6:nmod	LDeriv=zásobovat
-9	teplem	teplo	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	8	nmod	8:nmod	LId=teplo-1
-10	Ostrava	Ostrava	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	8	nmod	8:nmod	_
+8	Zásobování	zásobování	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	6	nmod	6:nmod:nom	LDeriv=zásobovat
+9	teplem	teplo	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	8	nmod	8:nmod:ins	LId=teplo-1
+10	Ostrava	Ostrava	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	8	nmod	8:nmod:nom	_
 
 ~~~
 
@@ -63,9 +63,9 @@ The following 79 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
 6	ředitel	ředitel	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	appos	3:appos	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
-8	Zásobování	zásobování	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	6	nmod	6:nmod	LDeriv=zásobovat
-9	teplem	teplo	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	8	nmod	8:nmod	LId=teplo-1
-10	Ostrava	Ostrava	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	8	nmod	8:nmod	_
+8	Zásobování	zásobování	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	6	nmod	6:nmod:nom	LDeriv=zásobovat
+9	teplem	teplo	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	8	nmod	8:nmod:ins	LId=teplo-1
+10	Ostrava	Ostrava	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	8	nmod	8:nmod:nom	_
 
 ~~~
 

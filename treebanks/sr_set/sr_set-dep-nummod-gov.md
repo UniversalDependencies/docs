@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sr_set-dep-nummod.html">nummod</a></tt>.
 
-650 nodes (1%) are attached to their parents as `nummod:gov`.
+643 nodes (1%) are attached to their parents as `nummod:gov`.
 
-645 instances of `nummod:gov` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.70769230769231.
+638 instances of `nummod:gov` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.71073094867807.
 
-The following 11 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (605; 93% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (12; 2% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (10; 2% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (607; 94% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (12; 2% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (10; 2% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 11 pairs of parts of speech are connected with `nummod:gov`: <tt><
 # visual-style 4	fgColor:white
 # visual-style 4 3 nummod:gov	color:blue
 1	Samo	samo	ADV	Rgp	Degree=Pos	3	advmod	_	_
-2	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	5	compound	_	_
+2	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
 3	25	25	NUM	Mdc	NumType=Card	4	nummod:gov	_	_
 4	odsto	odsto	ADV	Rgp	Degree=Pos	5	nsubj	_	_
 5	izjasnilo	izjasniti	VERB	Vmp-sn	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_

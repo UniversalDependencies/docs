@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>больше</em> (<tt><a href="ru_pu
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.028169 (the average of all parts of speech is 1.495958).
+The form / lemma ratio of `ADV` is 1.028169 (the average of all parts of speech is 1.496727).
 
 The 1st highest number of forms (3) was observed with the lemma “поздно”: <em>Позднее, поздно, позже</em>.
 

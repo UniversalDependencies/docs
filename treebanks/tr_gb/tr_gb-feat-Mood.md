@@ -163,7 +163,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `ADJ` tokens may have the following values of `Mood`:
 
 * `Ind` (12; 100% of non-empty `Mood`): <em>var, belli</em>
-* `EMPTY` (780): <em>var, yok, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım</em>
+* `EMPTY` (777): <em>var, yok, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım</em>
 
 ## Relations with Agreement in `Mood`
 

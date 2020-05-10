@@ -9,67 +9,65 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="et_ewt-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-352 nodes (1%) are attached to their parents as `acl`.
+479 nodes (1%) are attached to their parents as `acl`.
 
-228 instances of `acl` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.63352272727273.
+280 instances of `acl` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.82463465553236.
 
-The following 15 pairs of parts of speech are connected with `acl`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (210; 60% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (62; 18% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (35; 10% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (19; 5% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 acl	color:blue
-1	Mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	4	nmod	4:nmod	_
-2	"	"	PUNCT	Z	_	4	punct	4:punct	SpaceAfter=No
-3	tõestatud	tõestatud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	_
-4	füüsika	füüsika	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	SpaceAfter=No
-5	"	"	PUNCT	Z	_	4	punct	4:punct	SpaceAfter=No
-6	?	?	PUNCT	Z	_	4	punct	4:punct	_
-
-~~~
+The following 21 pairs of parts of speech are connected with `acl`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (258; 54% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (101; 21% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (49; 10% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (19; 4% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (13; 3% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (11; 2% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (10; 2% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 9 acl	color:blue
-1	Igast	iga	DET	P	Case=Ela|Number=Sing|PronType=Tot	2	det	2:det	_
-2	kroonist	kroon	NOUN	S	Case=Ela|Number=Sing	0	root	0:root	_
-3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	2:cop	_
-4	kahju	kahju	NOUN	S	Case=Nom|Number=Sing	2	nsubj:cop	2:nsubj	SpaceAfter=No
-5	,	,	PUNCT	Z	_	9	punct	9:punct	_
-6	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	9	obj	9:obj	_
-7	euroga	euro	NOUN	S	Case=Com|Number=Sing	9	obl	9:obl	_
-8	ära	ära	ADV	D	_	9	compound:prt	9:compound	_
-9	võetakse	võtma	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	2	acl	2:acl	SpaceAfter=No
-10	.	.	PUNCT	Z	_	2	punct	2:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 10 acl	color:blue
-1	Samas	samas	ADV	D	_	5	advmod	5:advmod	_
-2	ei	ei	AUX	V	Polarity=Neg	5	aux	5:aux	_
-3	ole	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
-4	armulaud	armu_laud	NOUN	S	Case=Nom|Number=Sing	5	obj	5:obj	_
-5	antud	andma	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
-6	selleks	see	PRON	P	Case=Tra|Number=Sing|PronType=Dem	5	obl	5:obl	SpaceAfter=No
-7	,	,	PUNCT	Z	_	10	punct	10:punct	_
-8	et	et	SCONJ	J	_	10	mark	10:mark	_
-9	inimest	inimene	NOUN	S	Case=Par|Number=Sing	10	obj	10:obj	_
-10	hirmutada	hirmutama	VERB	V	VerbForm=Inf	6	acl	6:acl	SpaceAfter=No
-11	.	.	PUNCT	Z	_	5	punct	5:punct	_
+# visual-style 6 5 acl	color:blue
+1	Grillahju	grill_ahi	NOUN	S	Case=Ill|Number=Sing	0	root	0:root	_
+2	ja	ja	CCONJ	J	_	6	cc	6:cc	_
+3	siis	siis	ADV	D	_	6	advmod	6:advmod	_
+4	edasi	edasi	ADV	D	_	6	advmod	6:advmod	_
+5	voolavasse	voolav	ADJ	A	Case=Ill|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	acl	6:acl	_
+6	vette	vesi	NOUN	S	Case=Ill|Number=Sing	1	conj	1:conj	SpaceAfter=No
+7	.	.	PUNCT	Z	_	1	punct	1:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 acl	color:blue
+1	On	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	selline	selline	DET	P	Case=Nom|Number=Sing|PronType=Dem	3	det	3:det	_
+3	väljend	väljend	NOUN	S	Case=Nom|Number=Sing	1	nsubj	1:nsubj	_
+4	pista	pistma	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	3:acl	_
+5	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	4	obj	4:obj	_
+6	põleema	põlema	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	4	xcomp	4:xcomp	_
+7	mulle	mina	PRON	P	Case=All|Number=Sing|Person=1|PronType=Prs	8	obl	8:obl	_
+8	sobib	sobima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	1:conj	SpaceAfter=No
+9	.	.	PUNCT	Z	_	1	punct	1:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 acl	color:blue
+1	Asi	asi	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	_
+2	selles	see	PRON	P	Case=Ine|Number=Sing|PronType=Dem	1	nmod	1:nmod	SpaceAfter=No
+3	,	,	PUNCT	Z	_	6	punct	6:punct	_
+4	et	et	SCONJ	J	_	6	mark	6:mark	_
+5	ei	ei	AUX	V	Polarity=Neg	6	aux	6:aux	_
+6	oska	oskama	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	2:acl	_
+7	neid	see	PRON	P	Case=Par|Number=Plur|PronType=Dem	8	obj	8:obj	_
+8	lahendada	lahendama	VERB	V	VerbForm=Inf	6	xcomp	6:xcomp	_
+9	...	...	PUNCT	Z	_	1	punct	1:punct	_
 
 ~~~
 

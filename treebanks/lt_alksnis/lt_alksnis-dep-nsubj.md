@@ -56,7 +56,7 @@ The following 41 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 2 nsubj	color:blue
 1	Turite	turėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-2	pats	pats	DET	įv.vyr.vns.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Emp	1	nsubj	1:nsubj	_
+2	pats	pats	DET	įv.vyr.vns.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Emp	1	nsubj	1:nsubj|3:nsubj	_
 3	rodyti	rodyti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	1	xcomp	1:xcomp	_
 4	iniciatyvą	iniciatyva	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	_
 5	bendrauti	bendrauti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	4	advcl	4:advcl	SpaceAfter=No

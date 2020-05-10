@@ -60,7 +60,7 @@ The following 40 pairs of parts of speech are connected with `advmod`: <tt><a hr
 3	3	3	NUM	C=-------------	NumForm=Digit|NumType=Card	6	nummod	6:nummod	SpaceAfter=No
 4	-	-	PUNCT	Z:-------------	_	5	punct	5:punct	SpaceAfter=No
 5	4	4	NUM	C=-------------	NumForm=Digit|NumType=Card	3	conj	3:conj|6:nummod	_
-6	tisících	tisíc	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	1	obl:arg	1:obl:arg	LId=tisíc-2|LNumValue=1000
+6	tisících	tisíc	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	1	obl:arg	1:obl:arg:o:loc	LId=tisíc-2|LNumValue=1000
 7	měsíčně	měsíčně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	6	advmod	6:advmod	SpaceAfter=No|LDeriv=měsíčný|LGloss=(arch.;_př._měsíčná_noc)
 8	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 

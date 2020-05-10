@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Çağrı Çöltekin.
 
 Repository: [UD_Turkish-GB](https://github.com/UniversalDependencies/UD_Turkish-GB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_gb25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_gb26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 
@@ -116,15 +116,15 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 </ul>
 
 <ul>
-<li>This corpus contains 50 lemmas tagged as pronouns (PRON): aynısı, bazıları, bazılarımız, bazısı, başkaları, başkası, ben, bir, birbir, biri, birimiz, birşey, biz, bizler, bu, bura, böylesi, hangileri, hangileriniz, hanginiz, hangisi, hani, hepimiz, hepsi, herkes, herşey, hiçbiri, hiçbirimiz, hiçbiriniz, ikisi, insan, kendi, kim, kiminiz, kimse, ne, nere, o, ora, sen, siz, sizler, yarısı, yenisi, çoğu, öbürü, öteki, şişmanın, şu, şura</li>
+<li>This corpus contains 51 lemmas tagged as pronouns (PRON): aynısı, bazıları, bazılarımız, bazısı, başkaları, başkası, ben, bir, birbir, biri, birimiz, birşey, biz, bizler, bu, bura, böylesi, hangileri, hangileriniz, hanginiz, hangisi, hani, hepimiz, hepsi, herkes, herşey, hiçbiri, hiçbirimiz, hiçbiriniz, ikisi, insan, kendi, kim, kiminiz, kimse, ne, nere, o, ora, sen, siz, sizler, yarısı, yenisi, çok, çoğu, öbürü, öteki, şişmanın, şu, şura</li>
 </ul>
 
 <ul>
-<li>This corpus contains 28 lemmas tagged as determiners (DET): aynı, bazı, başka, bir, biraz, birbir, birkaç, birtakım, birçok, bu, bunca, böyle, bütün, diğer, hangi, her, herhangi, hiç, hiçbir, iki, kimi, ne, o, tek, çok, öbür, öyle, şu</li>
+<li>This corpus contains 27 lemmas tagged as determiners (DET): aynı, bazı, başka, bir, biraz, birkaç, birtakım, birçok, bu, bunca, böyle, bütün, diğer, hangi, her, herhangi, hiç, hiçbir, iki, kimi, ne, o, tek, çok, öbür, öyle, şu</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: bir, birbir, bu, ne, o, şu</li>
+<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: bir, bu, ne, o, çok, şu</li>
 </ul>
 
 <ul>
@@ -211,7 +211,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
       <li>AUX-Fin: değil, dı, oldu, olacak, mış, miş, ydı, dır, tı, ydi</li>
       <li>AUX-Part: olduğunu, olduğu, olacağı, olacağımızı, olduktan, olduğuna, olmadığın, bulunduğumuza, olacağına, olacağını</li>
       <li>AUX-Vnoun: olmak, olması, olmamız, olma, olmasına, olmasını</li>
-      <li>DET: bir, bu, o, her, bütün, şu, birkaç, bazı, hiçbir, başka</li>
       <li>NOUN: gün, bugün, şey, evde, saat, ev, çocuk, yıl, dün, kız</li>
       <li>NUM: altıda, ikide, 9’da, biri, dörde, dördün, kaçta, 1994’te, 5’te, buçukta</li>
       <li>PRON: ben, sen, ne, burada, bana, benim, o, biz, kendi, senin</li>
@@ -266,7 +265,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
       <li>ADP: gibime</li>
       <li>AUX-Part: olduğuna, bulunduğumuza, olacağına</li>
       <li>AUX-Vnoun: olmamalarına, olmasına</li>
-      <li>DET: çoğuna</li>
       <li>NOUN: eve, okula, sokağa, akşama, masaya, sana, sinemaya, sınava, yere, işe</li>
       <li>NUM: dörde, ikiye, yediye, 6.30’a, bire, milyona</li>
       <li>PRON: bana, ona, oraya, sana, nereye, size, bize, buraya, kendine, kendisine</li>
@@ -334,7 +332,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
       <li>AUX: olmak, olması, olmadığın, olmamız, değil, olma, olmadığım, olmayacağın</li>
       <li>AUX-Part: olmadığın, olmadığım, olmayacağın</li>
       <li>AUX-Vnoun: olmak, olması, olmamız, olma</li>
-      <li>DET: ne</li>
+      <li>DET: O, ne</li>
       <li>NOUN: gün, bugün, şey, saat, ev, çocuk, yıl, zaman, çocuklar, dün</li>
       <li>NUM: milyarlık, onbeşi</li>
       <li>PRON: ben, sen, ne, o, biz, kendi, bu, onlar, herkes, siz</li>
@@ -385,7 +383,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
       <li>AUX-Fin: değil, değilim, değildi, değildir, değiliz, değiller, değilse, olamayacaksın, olmadı, olmayacak</li>
       <li>AUX-Part: olmadığın, olamayacağını, olmadığım, olmayacağın</li>
       <li>AUX-Vnoun: olmamalarına</li>
-      <li>DET: hiçbir</li>
+      <li>DET: hiçbir, hiç</li>
       <li>PRON: hiçbiri, Hiçbirimiz, hiçbiriniz, hiçbirisi</li>
       <li>VERB-Conv: fısıldaşmaya</li>
       <li>VERB-Fin: görmedim, istemiyor, bilmiyordum, gitmedi, sevmiyor, konaklamayacaklar, anlayamıyorum, bilmiyorum, bitmiyor, düşünemiyorum</li>
@@ -830,6 +828,31 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: bir, bu, o, her, bütün, şu, birkaç, bazı, hiçbir, başka</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: bu, O</li>
+      <li>PRON: burada, bu, bunu, oraya, o, bundan, burası, buraya, bunun, buradan</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>PRON: birisi, biri, çoğu, Başkalarından, bazısı, birimiz, hepsini, hiçbiri, başkasına, birini</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Int
     <ul>
       <li>ADJ: nasıl, ne</li>
@@ -854,9 +877,16 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 </ul>
 
 <ul>
+  <li>Prs
+    <ul>
+      <li>PRON: ben, sen, bana, benim, biz, kendi, senin, bizim, onlar, beni</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Rcp
     <ul>
-      <li>DET: hiçbir</li>
       <li>PRON: birbirimizi, birbirimizin, birbirinizin, birbirinizle, birbirlerinden, Birbirlerine, Birbirlerini, birbirimize, birbirinden, birbirine</li>
     </ul>
   </li>
@@ -869,7 +899,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 <ul>
   <li>Card
     <ul>
-      <li>NUM: iki, üç, beş, yüz, dört, on, bir, bin, dokuz, sekiz</li>
+      <li>NUM: iki, üç, beş, yüz, on, dört, bir, bin, dokuz, sekiz</li>
     </ul>
   </li>
 </ul>

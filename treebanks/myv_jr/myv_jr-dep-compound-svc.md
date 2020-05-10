@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `compound:svc`: <tt>
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 compound:svc	color:blue
-1	Ваньськавт	Ваньськавт	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	GTtags=IV,Imprt,ScSg2
+1	Ваньськавт	Ваньськавтомс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2|Style=Arch|Valency=1	0	root	_	GTtags=IV,Imprt,ScSg2|ModernForm=Ванськавтт
 2	эйсэнзэ	эйсэ	ADP	Adp	Case=Ine|Number[psor]=Sing|Person[psor]=3	1	obj	_	GTtags=Ine,PxSg3|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	5	punct	_	_
 4	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg1,Nom
@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `compound:svc`: <tt>
 # visual-style 5	fgColor:white
 # visual-style 5 7 compound:svc	color:blue
 1	Сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	шачсь	чачомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	GTtags=IV,Dial,Ind,Prt1,ScSg3
+2	шачсь	чачомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Dial,Ind,Prt1,ScSg3
 3	аволь	аволь	AUX	Pcle	NegationType=Contrastive|Polarity=Neg	8	aux:neg	_	GTtags=Neg,Emphatic
 4	поптнэнь	поп	NOUN	N	Case=Gen|Definite=Def|Number=Plur	8	nmod	_	GTtags=Pl,Gen,Def
 5	пейдема	пейдема	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	8	nmod	_	GTtags=Sg,Nom,Indef

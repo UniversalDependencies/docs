@@ -25,7 +25,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	Keďže	keďže	SCONJ	O	_	4	mark	4:mark	_
 2	galaxie	galaxia	NOUN	SSfp1	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	4:nsubj	_
 3	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	4	expl:pv	4:expl:pv	_
-4	vzďaľovali	vzďaľovať	VERB	VLepcf+	Aspect=Imp|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	6	advcl	6:advcl	SpaceAfter=No
+4	vzďaľovali	vzďaľovať	VERB	VLepcf+	Aspect=Imp|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	6	advcl	6:advcl:keďže	SpaceAfter=No
 5	,	,	PUNCT	Z	_	4	punct	4:punct	_
 6	naznačilo	naznačiť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
 7	to	to	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	6:nsubj	_
@@ -49,11 +49,11 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 4	,	,	PUNCT	Z	_	7	punct	7:punct	_
 5	že	že	SCONJ	O	_	7	mark	7:mark	_
 6	ste	byť	AUX	VKepb+	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
-7	slobodnejší	slobodný	ADJ	AAmp1y	Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	3	acl	3:acl	SpaceAfter=No
+7	slobodnejší	slobodný	ADJ	AAmp1y	Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	3	acl	3:acl:že	SpaceAfter=No
 8	,	,	PUNCT	Z	_	11	punct	11:punct	_
 9	než	než	SCONJ	O	_	11	mark	11:mark	_
 10	ste	byť	AUX	VKepb+	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
-11	boli	byť	VERB	VLepbh+	Aspect=Imp|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	7	advcl	7:advcl	_
+11	boli	byť	VERB	VLepbh+	Aspect=Imp|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	7	advcl	7:advcl:než	_
 12	vtedy	vtedy	ADV	PD	PronType=Dem	11	advmod	11:advmod	SpaceAfter=No
 13	?	?	PUNCT	Z	_	2	punct	2:punct	_
 
@@ -74,7 +74,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	keď	keď	SCONJ	O	_	9	mark	9:mark	_
 7	jazyk	jazyk	NOUN	SSis1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj	_
 8	bude	byť	AUX	VBesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	9	cop	9:cop	_
-9	dokonalý	dokonalý	ADJ	AAis1x	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	advcl	3:advcl	SpaceAfter=No
+9	dokonalý	dokonalý	ADJ	AAis1x	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	advcl	3:advcl:keď	SpaceAfter=No
 10	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~

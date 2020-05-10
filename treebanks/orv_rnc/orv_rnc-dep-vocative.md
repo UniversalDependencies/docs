@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-70 nodes (0%) are attached to their parents as `vocative`.
+130 nodes (0%) are attached to their parents as `vocative`.
 
-42 instances of `vocative` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.82857142857143.
+73 instances of `vocative` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.69230769230769.
 
-The following 5 pairs of parts of speech are connected with `vocative`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (57; 81% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (7; 10% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `vocative`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (79; 61% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (18; 14% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (15; 12% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (12; 9% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,82 +22,54 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 vocative	color:blue
-1	Царь	царь	NOUN	OOV|Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	4	vocative	_	_
+1	Царь	царь	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	4	vocative	_	_
 2	государь	государь	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	_
-4	смилуйся	смиловатися	VERB	OOV|Transit=Intr	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Reflex=Yes|VerbForm=Fin	0	root	_	_
-5	пожалуй	пожаловати	VERB	OOV|Transit=Tran	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	4	discourse	_	SpaceAfter=No
+4	смилуйся	смиловатися	VERB	Transit=Intr	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Reflex=Yes|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	пожалуй	пожаловати	VERB	Transit=Tran	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	4	discourse	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 28 13 vocative	color:blue
-1	Потому	потому	ADV	_	Degree=Pos	8	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	3	punct	_	_
-3	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	vocative	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
-5	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	nsubj:pass	_	_
-6	немало	немало	NUM	_	Case=Nom	5	nummod:gov	_	_
-7	и	и	PART	_	_	8	advmod	_	_
-8	написано	написати	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	28	punct	_	_
-10	а	а	CCONJ	_	_	28	cc	_	_
-11	платежщиков	платежчикъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	_	_
-13	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	vocative	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	13	punct	_	_
-15	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	11	appos	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	22	punct	_	_
-17	которые	который	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	22	nsubj	_	_
-18	у	въ	ADP	_	_	21	case	_	_
-19	твоих	твой	DET	_	Case=Loc|Gender=Neut|Number=Plur|Poss=Yes	21	det	_	_
-20	государевых	государевъ	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Variant=Long	21	amod	_	_
-21	делах	дѣло	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	22	obl	_	_
-22	ходим	ходити	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	SpaceAfter=No
-23	,	,	PUNCT	_	_	22	punct	_	_
-24	одна	одинъ	NUM	_	Case=Nom|Gender=Fem|Number=Sing	28	nummod	_	_
-25	и	и	CCONJ	_	_	27	cc	_	_
-26	с	съ	ADP	_	_	27	case	_	_
-27	восмьдесят	восмьдесятъ	NUM	_	Case=Ins	24	conj	_	_
-28	человек	человѣкъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	8	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 vocative	color:blue
+1	буди	быти	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	4	cop	_	Norm=буди|SpaceAfter=Yes
+2	гсдрь	государь	NOUN	_	Abbr=Yes|Case=Nom|Gender=Masc|Number=Sing	4	vocative	_	Norm=гсдрь|SpaceAfter=Yes
+3	мои	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	Norm=мои|SpaceAfter=Yes
+4	здорово	здоровый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	Norm=здорово|SpaceAfter=Yes
+5	на	на	ADP	_	_	7	case	_	Norm=на|SpaceAfter=Yes
+6	многие	многий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	7	amod	_	Norm=многие|SpaceAfter=Yes
+7	лѣта	лѣто	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	obl	_	Norm=лѣта|SpaceAfter=Yes
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 vocative	color:blue
-1	Уне	уне	VERB	_	_	0	root	_	_
-2	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	1	aux	_	_
-3	ти	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	iobj	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	Упадыше	Упадышъ	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	5	punct	_	_
-7	аще	аще	SCONJ	_	_	12	mark	_	_
-8	не	не	PART	_	Polarity=Neg	12	advmod	_	_
-9	был	быти	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	12	aux	_	_
-10	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	12	aux	_	_
-11	во	въ	ADP	_	_	12	case	_	_
-12	утробѣ	утроба	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	1	advcl	_	_
-13	матерьни	матерний	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	12	amod	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	18	punct	_	_
-15	не	не	PART	_	Polarity=Neg	18	advmod	_	_
-16	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	18	aux	_	_
-17	былъ	быти	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	18	aux	_	_
-18	нареченъ	наречи	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	conj	_	_
-19	предатель	предатель	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	xcomp	_	_
-20	Новуграду	Новъградъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 vocative	color:blue
+1	бꙋдь	быти	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	cop	_	Norm=бꙋдь|SpaceAfter=Yes
+2	на	на	ADP	_	_	3	case	_	Norm=на|SpaceAfter=Yes
+3	тебѣ	ты	PRON	_	Case=Loc|Number=Sing|Person=2|PronType=Prs	0	root	_	Norm=тебѣ|SpaceAfter=Yes
+4	свѣтъ	свѣтъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	vocative	_	Norm=свѣтъ|SpaceAfter=Yes
+5	мои	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	Norm=мои|SpaceAfter=Yes
+6	млсть	милость	NOUN	_	Abbr=Yes|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Norm=млсть|SpaceAfter=Yes
+7	бжия	божий	ADJ	_	Abbr=Yes|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes	6	amod	_	Norm=бжия|SpaceAfter=Yes
+8	и	и	CCONJ	_	_	11	cc	_	Norm=и|SpaceAfter=Yes
+9	мое	мой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	Norm=мое|SpaceAfter=Yes
+10	грешное	грешный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	Norm=грешное|SpaceAfter=Yes
+11	блгоссловение	благословение	NOUN	_	Abbr=Yes|Case=Nom|Gender=Neut|Number=Sing	6	conj	_	Norm=блгоссловение|SpaceAfter=Yes
+12	отннѣ	отнынѣ	ADV	_	Abbr=Yes|Degree=Pos	3	advmod	_	Norm=отннѣ|SpaceAfter=Yes
+13	и	и	CCONJ	_	_	15	cc	_	Norm=и|SpaceAfter=Yes
+14	до	до	ADP	_	_	15	case	_	Norm=до|SpaceAfter=Yes
+15	века	векъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	conj	_	Norm=века|SpaceAfter=No
 
 ~~~
 

@@ -32,7 +32,7 @@ The following 8 pairs of parts of speech are connected with `list`: <tt><a href=
 8	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	6	case	_	_
 9	पुनर्मिलन	पुनर्मिलन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	_
 10	हो	हो	VERB	V_VM	_	0	root	_	_
-11	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	aux	_	_
+11	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	aux	_	_
 12	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	10	aux	_	_
 13	।	।	PUNCT	RD_PUNC	_	10	punct	_	_
 
@@ -86,7 +86,7 @@ The following 8 pairs of parts of speech are connected with `list`: <tt><a href=
 14	नागरिक	नागरिक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	nmod	_	_
 15	बनल	बनल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 16	रह	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	aux	_	_
-17	गइल	गइल	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	15	aux	_	_
+17	गइल	जा	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	15	aux	_	_
 18	रही	रह	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	15	aux	_	_
 19	।	।	PUNCT	RD_PUNC	_	15	punct	_	_
 

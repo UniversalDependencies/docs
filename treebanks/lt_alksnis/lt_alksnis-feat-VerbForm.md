@@ -149,10 +149,11 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> VERB</tt> (1324; 89%),
-<tt>VERB --[<tt><a href="lt_alksnis-dep-acl.html">acl</a></tt>]--> VERB</tt> (238; 55%),
+<tt>VERB --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> VERB</tt> (1323; 89%),
+<tt>VERB --[<tt><a href="lt_alksnis-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (192; 57%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (131; 71%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-dep.html">dep</a></tt>]--> VERB</tt> (5; 56%),
+<tt>VERB --[<tt><a href="lt_alksnis-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (4; 67%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (4; 100%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-flat.html">flat</a></tt>]--> VERB</tt> (1; 100%).

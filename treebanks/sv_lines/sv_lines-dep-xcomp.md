@@ -23,7 +23,7 @@ The following 22 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 6 xcomp	color:blue
 1	Men	men	CCONJ	_	_	3	cc	_	_
-2	varför	varför	ADV	WH	_	3	advmod	_	_
+2	varför	varför	ADV	WH	PronType=Int	3	advmod	_	_
 3	fortsätter	fortsätta	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	ni	ni	PRON	PERS-P2PL-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	3	nsubj	_	_
 5	att	att	PART	_	_	6	mark	_	_

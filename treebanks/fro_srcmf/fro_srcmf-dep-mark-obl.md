@@ -7,34 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Old_French-SRCMF: Relations: `mark:obl`
 
 This relation is a language-specific subtype of <tt><a href="fro_srcmf-dep-mark.html">mark</a></tt>.
-There are also 2 other language-specific subtypes of `mark`: <tt><a href="fro_srcmf-dep-mark-advmod.html">mark:advmod</a></tt>, <tt><a href="fro_srcmf-dep-mark-obj.html">mark:obj</a></tt>.
+There are also 1 other language-specific subtypes of `mark`: <tt><a href="fro_srcmf-dep-mark-advmod.html">mark:advmod</a></tt>.
 
-11 nodes (0%) are attached to their parents as `mark:obl`.
+3 nodes (0%) are attached to their parents as `mark:obl`.
 
-11 instances of `mark:obl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.81818181818182.
+3 instances of `mark:obl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.66666666666667.
 
-The following 3 pairs of parts of speech are connected with `mark:obl`: <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (8; 73% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (2; 18% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (1; 9% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 mark:obl	color:blue
-1	et	_	CCONJ	CONcoo	_	3	cc:nc	_	_
-2	si	_	ADV	ADVgen	_	3	advmod	_	_
-3	demanderent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
-4	dom	_	PRON	PROrel_adv	_	6	mark:obl	_	_
-5	il	_	PRON	PROper	PronType=Prs	6	nsubj	_	_
-6	est	_	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	_
-7	et	_	CCONJ	CONcoo	_	10	cc	_	_
-8	de	_	ADP	PRE	_	10	case	_	_
-9	quel	_	DET	DETrel_o	_	10	det	_	_
-10	gent	_	NOUN	NOMcom	_	4	conj	_	_
-
-~~~
+The following 2 pairs of parts of speech are connected with `mark:obl`: <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (2; 67% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -44,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `mark:obl`: <tt><a h
 # visual-style 10	fgColor:white
 # visual-style 10 7 mark:obl	color:blue
 1	traversent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
-2	.IIII.	_	DET	DETcar	NumType=Card	3	nummod	_	_
+2	.IIII.	_	NUM	DETcar	NumType=Card	3	nummod	_	_
 3	punz	_	NOUN	NOMcom	_	1	obj	_	_
 4	Tutes	_	DET	DETind	PronType=Ind	6	det	_	_
 5	les	_	DET	DETdef	Definite=Def|PronType=Art	6	det	_	_
@@ -65,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `mark:obl`: <tt><a h
 # visual-style 38 33 mark:obl	color:blue
 1	Se	_	SCONJ	CONsub	_	6	mark	_	_
 2	vos	_	PRON	PROper	PronType=Prs	6	nsubj	_	_
-3	volez	_	VERB	VERcjg	VerbForm=Fin	6	aux	_	_
+3	volez	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	_
 4	m'	_	DET	DETpos	Poss=Yes	5	det	_	_
 5	amor	_	NOUN	NOMcom	_	6	obj	_	_
 6	avoir	_	VERB	VERinf	VerbForm=Inf	14	advcl	_	_
@@ -89,7 +69,7 @@ The following 3 pairs of parts of speech are connected with `mark:obl`: <tt><a h
 24	a	_	ADP	PRE	_	26	case	_	_
 25	.i.	_	DET	DETndf	Definite=Ind|PronType=Art	26	det	_	_
 26	an	_	NOUN	NOMcom	_	17	obl	_	_
-27	VIII	_	DET	DETcar	NumType=Card	28	nummod	_	_
+27	VIII	_	NUM	DETcar	NumType=Card	28	nummod	_	_
 28	jorz	_	NOUN	NOMcom	_	17	obl	_	_
 29	aprés	_	ADP	PRE	_	32	case	_	_
 30	la	_	DET	DETdef	Definite=Def|PronType=Art	32	det	_	_

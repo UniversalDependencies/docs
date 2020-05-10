@@ -12,48 +12,55 @@ It occurs with 2 different values: `Card`, `Ord`.
 1096 tokens (1%) have a non-empty value of `NumType`.
 173 types (1%) occur at least once with a non-empty value of `NumType`.
 1 lemmas (0) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (572; 0% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (377; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (147; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="fro_srcmf-pos-NUM.html">NUM</a></tt> (728; 0% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (340; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (14; 0% instances).
 
-### `DET`
+### `NUM`
 
-572 <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `NumType`.
+728 <tt><a href="fro_srcmf-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="fro_srcmf-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (572; 100%), <tt><a href="fro_srcmf-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (572; 100%), <tt><a href="fro_srcmf-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (572; 100%).
+`NUM` tokens may have the following values of `NumType`:
 
-`DET` tokens may have the following values of `NumType`:
-
-* `Card` (563; 98% of non-empty `NumType`): <em>dous, cent, .ii., milie, trois, .xii., deus, mil, set, .iiii.</em>
-* `Ord` (9; 2% of non-empty `NumType`): <em>tierz, premiere, tierce</em>
-* `EMPTY` (16643): <em>la, li, le, l', les, sa, son, un, une, ses</em>
+* `Card` (728; 100% of non-empty `NumType`): <em>.ii., dous, deus, cent, dui, trois, .iii., milie, .iiii., .xii.</em>
 
 ### `PRON`
 
-377 <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `NumType`.
+340 <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="fro_srcmf-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (377; 100%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="fro_srcmf-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (340; 100%).
 
 `PRON` tokens may have the following values of `NumType`:
 
-* `Card` (322; 85% of non-empty `NumType`): <em>milie, trois, dui, .ii., andui, deus, un, troi, uns, dous</em>
-* `Ord` (55; 15% of non-empty `NumType`): <em>tierz, quarte, terce, disme, quarz, sedme, noefme, premere, quinte, siste</em>
-* `EMPTY` (24833): <em>il, vos, qui, li, le, l', je, s', que, ce</em>
+* `Card` (285; 84% of non-empty `NumType`): <em>milie, trois, dui, andui, .ii., deus, troi, un, uns, dous</em>
+* `Ord` (55; 16% of non-empty `NumType`): <em>tierz, quarte, terce, disme, quarz, sedme, noefme, premere, quinte, siste</em>
+* `EMPTY` (24590): <em>il, vos, qui, li, le, l', je, s', ce, se</em>
 
 ### `ADJ`
 
-147 <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `NumType`.
+14 <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Card` (147; 100% of non-empty `NumType`): <em>.ii., .iii., dui, troi, deus, premer, .vii., dous, premereins, .iiii.</em>
-* `EMPTY` (6452): <em>grant, granz, bele, saint, bel, biax, bone, haut, bon, autre</em>
+* `Card` (14; 100% of non-empty `NumType`): <em>premereins, dui, .iii., .vii., ambesdous, anbedui, premer, premerein, troi</em>
+* `EMPTY` (6441): <em>grant, granz, bele, saint, bel, biax, bone, haut, bon, autre</em>
+
+### `DET`
+
+14 <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="fro_srcmf-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="fro_srcmf-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="fro_srcmf-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (14; 100%).
+
+`DET` tokens may have the following values of `NumType`:
+
+* `Card` (5; 36% of non-empty `NumType`): <em>.XII., .XV., .XXIIII., .l., deus</em>
+* `Ord` (9; 64% of non-empty `NumType`): <em>tierz, premiere, tierce</em>
+* `EMPTY` (16658): <em>la, li, le, l', les, sa, son, un, une, ses</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>DET --[<tt><a href="fro_srcmf-dep-nummod.html">nummod</a></tt>]--> DET</tt> (56; 100%),
-<tt>PRON --[<tt><a href="fro_srcmf-dep-nummod.html">nummod</a></tt>]--> PRON</tt> (23; 88%),
-<tt>PRON --[<tt><a href="fro_srcmf-dep-conj.html">conj</a></tt>]--> PRON</tt> (19; 54%),
-<tt>PRON --[<tt><a href="fro_srcmf-dep-nummod.html">nummod</a></tt>]--> DET</tt> (19; 100%),
-<tt>DET --[<tt><a href="fro_srcmf-dep-conj.html">conj</a></tt>]--> PRON</tt> (7; 100%),
-<tt>DET --[<tt><a href="fro_srcmf-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 100%).
+<tt>NUM --[<tt><a href="fro_srcmf-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (58; 100%),
+<tt>PRON --[<tt><a href="fro_srcmf-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (39; 91%),
+<tt>PRON --[<tt><a href="fro_srcmf-dep-conj.html">conj</a></tt>]--> PRON</tt> (18; 53%),
+<tt>NUM --[<tt><a href="fro_srcmf-dep-conj.html">conj</a></tt>]--> PRON</tt> (9; 100%),
+<tt>NUM --[<tt><a href="fro_srcmf-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 100%).
 

@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>ܐܵܗܵܐ</em> (<tt><a href="aii_as-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 0.931034 (the average of all parts of speech is 1.039841).
+The form / lemma ratio of `PRON` is 0.931034 (the average of all parts of speech is 1.044000).
 
 The 1st highest number of forms (1) was observed with the lemma “ܐܲܚܬܘܢ”: <em>ܐܲܚܬܘܢ</em>.
 

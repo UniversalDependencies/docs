@@ -32,7 +32,7 @@ The following 25 pairs of parts of speech are connected with `csubj`: <tt><a hre
 7	početný	početný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	8	amod	8:amod	LGloss=(velké_množství)
 8	rejstřík	rejstřík	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	6	obj	6:obj	_
 9	hereckých	herecký	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	10	amod	10:amod	_
-10	prostředků	prostředek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	8	nmod	8:nmod	SpaceAfter=No|LId=prostředek-2|LGloss=(způsob,_nástroj)
+10	prostředků	prostředek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	8	nmod	8:nmod:gen	SpaceAfter=No|LId=prostředek-2|LGloss=(způsob,_nástroj)
 11	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -49,7 +49,7 @@ The following 25 pairs of parts of speech are connected with `csubj`: <tt><a hre
 3	správně	správně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod	4:advmod	LDeriv=správný|LGloss=(podle_něj._měřítek;_př._chlap,_míra,...)
 4	zařadit	zařadit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	1	conj	1:conj|8:csubj	_
 5	typy	typ	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	1	obj	1:obj|4:obj	_
-6	pleti	pleť	NOUN	NNFS2-----A---1	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	nmod	5:nmod	_
+6	pleti	pleť	NOUN	NNFS2-----A---1	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	nmod	5:nmod:gen	_
 7	není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
 8	lehké	lehký	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	0	root	0:root	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
@@ -65,10 +65,10 @@ The following 25 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 8 9 csubj	color:blue
 1	Výrobky	výrobek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	9	obj	9:obj	_
 2	ze	z	ADP	RV--2----------	AdpType=Voc|Case=Gen	3	case	3:case	LId=z-1
-3	směsi	směs	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	1:nmod	_
-4	polyester	polyester	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nmod	3:nmod	SpaceAfter=No
+3	směsi	směs	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	1:nmod:z:gen	_
+4	polyester	polyester	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nmod	3:nmod:nom	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
-6	bavlna	bavlna	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	4	conj	3:nmod|4:conj	_
+6	bavlna	bavlna	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	4	conj	3:nmod:nom|4:conj	_
 7	není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
 8	třeba	třeba	ADV	Db-------------	_	0	root	0:root	LId=třeba-2|LGloss=(například)
 9	žehlit	žehlit	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	8	csubj	8:csubj	SpaceAfter=No

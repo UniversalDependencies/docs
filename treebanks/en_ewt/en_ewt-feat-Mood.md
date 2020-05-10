@@ -10,21 +10,21 @@ This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
 
 20675 tokens (8%) have a non-empty value of `Mood`.
-1996 types (10%) occur at least once with a non-empty value of `Mood`.
-1059 lemmas (7%) occur at least once with a non-empty value of `Mood`.
+1997 types (10%) occur at least once with a non-empty value of `Mood`.
+1054 lemmas (7%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (11333; 4% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (9342; 4% instances).
 
 ### `VERB`
 
 11333 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (40% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11333; 100%), <tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5698; 50%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11332; 100%), <tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5699; 50%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (1434; 13% of non-empty `Mood`): <em>let, go, see, take, try, get, make, give, call, put</em>
 * `Ind` (9899; 87% of non-empty `Mood`): <em>have, is, had, said, has, are, want, need, know, think</em>
-* `EMPTY` (17076): <em>have, get, know, do, go, going, make, take, see, like</em>
+* `EMPTY` (17075): <em>have, get, know, do, go, going, make, take, see, like</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -53,7 +53,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>am</em></td><td></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, 's, s, ’s, `s, ai, se</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, 's, s, ’s, `s, ai, i, se</em></td><td></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="en_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>wase</em></td><td></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>were</em></td><td></td></tr>

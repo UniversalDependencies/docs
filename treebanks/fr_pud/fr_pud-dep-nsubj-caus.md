@@ -23,13 +23,13 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 nsubj:caus	color:blue
-1	Les	_	DET	DT	Gender=Masc|Number=Plur	2	det	_	_
-2	gens	_	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj:caus	_	_
-3	s'	_	PRON	PRP	Gender=Masc|Number=Plur|Person=3	6	obj	_	SpaceAfter=No
-4	y	_	PRON	PRP	Person=3	6	obl	_	_
-5	font	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	aux:caus	_	_
-6	tuer	_	VERB	VB	_	0	root	_	SpaceAfter=No
-7	.	_	PUNCT	.	_	6	punct	_	_
+1	Les	le	DET	DT	Gender=Masc|Number=Plur	2	det	_	wordform=les
+2	gens	gens	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj:caus	_	_
+3	s'	se	PRON	PRP	Gender=Masc|Number=Plur|Person=3	6	obj	_	SpaceAfter=No
+4	y	y	PRON	PRP	Person=3	6	obl	_	_
+5	font	faire	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:caus	_	_
+6	tuer	tuer	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 
@@ -40,17 +40,17 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 4 nsubj:caus	color:blue
-1	C'	_	PRON	PDEM	_	3	nsubj	_	SpaceAfter=No
-2	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
-3	ce	_	PRON	PDEM	_	0	root	_	_
-4	qui	_	PRON	WP	_	7	nsubj:caus	_	_
-5	nous	_	PRON	PRP	Number=Plur|Person=1	7	obj:agent	_	_
-6	fait	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux:caus	_	_
-7	revenir	_	VERB	VB	_	3	acl:relcl	_	_
-8	encore	_	ADV	RB	_	7	advmod	_	_
-9	et	_	CCONJ	CC	_	10	cc	_	_
-10	encore	_	ADV	RB	_	8	conj	_	SpaceAfter=No
-11	.	_	PUNCT	.	_	3	punct	_	_
+1	C'	ce	PRON	PDEM	_	3	nsubj	_	SpaceAfter=No|wordform=c'
+2	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	ce	ce	PRON	PDEM	_	0	root	_	_
+4	qui	qui	PRON	WP	_	7	nsubj:caus	_	_
+5	nous	le	PRON	PRP	Number=Plur|Person=1	7	obj:agent	_	_
+6	fait	faire	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:caus	_	_
+7	revenir	revenir	VERB	VB	VerbForm=Inf	3	acl:relcl	_	_
+8	encore	encore	ADV	RB	_	7	advmod	_	_
+9	et	et	CCONJ	CC	_	10	cc	_	_
+10	encore	encore	ADV	RB	_	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

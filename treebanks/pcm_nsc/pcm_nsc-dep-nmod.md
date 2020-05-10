@@ -7,73 +7,92 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: Relations: `nmod`
 
 This relation is universal.
-There are 2 language-specific subtypes of `nmod`: <tt><a href="pcm_nsc-dep-nmod-npmod.html">nmod:npmod</a></tt>, <tt><a href="pcm_nsc-dep-nmod-poss.html">nmod:poss</a></tt>.
+There are 4 language-specific subtypes of `nmod`: <tt><a href="pcm_nsc-dep-nmod-appos.html">nmod:appos</a></tt>, <tt><a href="pcm_nsc-dep-nmod-emph.html">nmod:emph</a></tt>, <tt><a href="pcm_nsc-dep-nmod-periph.html">nmod:periph</a></tt>, <tt><a href="pcm_nsc-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-74 nodes (1%) are attached to their parents as `nmod`.
+1132 nodes (1%) are attached to their parents as `nmod`.
 
-63 instances of `nmod` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.97297297297297.
+816 instances of `nmod` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.59363957597173.
 
-The following 14 pairs of parts of speech are connected with `nmod`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (52; 70% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (5; 7% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 27 pairs of parts of speech are connected with `nmod`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (644; 57% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (197; 17% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (61; 5% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (40; 4% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (30; 3% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (26; 2% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (23; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (19; 2% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (17; 2% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 nmod	color:blue
-1	#	#	PUNCT	_	_	6	punct	_	_
-2	dis	dis	DET	_	_	3	det	_	_
-3	kind	kind	NOUN	_	_	6	nsubj	_	_
-4	thing	thing	NOUN	_	_	3	nmod	_	_
-5	no	no	ADV	PART	_	6	advmod	_	_
-6	good	good	ADJ	_	_	0	root	_	_
-7	o	o	ADV	PART	_	6	advmod:emph	_	_
-8	//	//	PUNCT	_	_	6	punct	_	_
+# visual-style 4 7 nmod	color:blue
+1	#	#	PUNCT	_	_	14	punct	_	AlignBegin=58309|AlignEnd=58814|Gloss=PUNCT
+2	den	den	ADV	_	_	14	advmod:periph	_	AlignBegin=58814|AlignEnd=58970|Gloss=den
+3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=58970|AlignEnd=59000|Gloss=PUNCT
+4	ending	ending	NOUN	_	_	14	obl:mod	_	AlignBegin=59000|AlignEnd=59369|Gloss=end
+5	of	of	ADP	_	_	7	case	_	AlignBegin=59369|AlignEnd=59585|Gloss=of
+6	di	the	DET	_	Definite=Def|PronType=Art	7	det	_	AlignBegin=59585|AlignEnd=59679|Gloss=DEF.ART
+7	year	year	NOUN	_	_	4	nmod	_	AlignBegin=59679|AlignEnd=59956|Gloss=year
+8	<	<	PUNCT	_	_	4	punct	_	AlignBegin=59956|AlignEnd=59986|Gloss=PUNCT
+9	#	#	PUNCT	_	_	4	punct	_	AlignBegin=59986|AlignEnd=60261|Gloss=PUNCT
+10	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	AlignBegin=60261|AlignEnd=60331|Gloss=NOM.PL.3
+11	go	go	AUX	_	Aspect=Prosp	14	aux	_	AlignBegin=60331|AlignEnd=60391|Gloss=PROSP
+12	con	con	AUX	_	Aspect=Cons	14	aux	_	AlignBegin=60391|AlignEnd=60601|Gloss=CONS
+13	dey	dey	AUX	_	Aspect=Imp	14	aux	_	AlignBegin=60601|AlignEnd=60771|Gloss=IPFV
+14	pay	pay	VERB	_	_	0	root	_	AlignBegin=60771|AlignEnd=60970|Gloss=pay
+15	us	us	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	14	obj	_	AlignBegin=60970|AlignEnd=61240|Gloss=ACC.PL.1
+16	#	#	PUNCT	_	_	18	punct	_	AlignBegin=61240|AlignEnd=61442|Gloss=PUNCT
+17	our	our	PRON	_	Number=Plur|Person=1|Poss=Yes	18	nmod:poss	_	AlignBegin=61442|AlignEnd=61671|Gloss=PL.1.POSS
+18	money	money	NOUN	_	_	14	obj	_	AlignBegin=61671|AlignEnd=61941|Gloss=money
+19	//	//	PUNCT	_	_	14	punct	_	AlignBegin=61941|AlignEnd=61971|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 15 nmod	color:blue
+1	#	#	PUNCT	_	_	9	punct	_	AlignBegin=393791|AlignEnd=394250|Gloss=PUNCT
+2	even	even	ADV	_	_	4	advmod	_	AlignBegin=394250|AlignEnd=394482|Gloss=even
+3	to	to	ADP	_	_	4	mark	_	AlignBegin=394482|AlignEnd=394682|Gloss=to
+4	succeed	succeed	VERB	_	_	9	dislocated	_	AlignBegin=394682|AlignEnd=395142|Gloss=succeed
+5	sef	sef	PART	_	PartType=Disc	4	advmod:emph	_	AlignBegin=395142|AlignEnd=395392|Gloss=FOC
+6	<	<	PUNCT	_	_	4	punct	_	AlignBegin=395392|AlignEnd=395422|Gloss=PUNCT
+7	{	{	PUNCT	_	_	9	punct	_	AlignBegin=395392|AlignEnd=395422|Gloss=PUNCT
+8	na	na	AUX	_	PartType=Cop	9	cop	_	AlignBegin=395422|AlignEnd=395622|Gloss=be
+9	by	by	ADP	_	_	0	root	_	AlignBegin=395622|AlignEnd=395941|Gloss=by
+10	||	||	PUNCT	_	_	13	punct	_	AlignBegin=395941|AlignEnd=395971|Gloss=PUNCT
+11	#	#	PUNCT	_	_	13	punct	_	AlignBegin=395971|AlignEnd=396633|Gloss=PUNCT
+12	na	na	AUX	_	PartType=Cop	13	cop	_	AlignBegin=396633|AlignEnd=396730|Gloss=be
+13	by	by	ADP	_	_	9	conj:dicto	_	AlignBegin=396730|AlignEnd=396890|Gloss=by
+14	}	}	PUNCT	_	_	13	punct	_	AlignBegin=396890|AlignEnd=396920|Gloss=PUNCT
+15	God	God	PROPN	_	_	16	nmod	_	AlignBegin=396920|AlignEnd=397200|Gloss=God
+16	grace	grace	NOUN	_	_	13	xcomp	_	AlignBegin=397200|AlignEnd=397483|Gloss=grace
+17	//	//	PUNCT	_	_	9	punct	_	AlignBegin=397483|AlignEnd=397513|Gloss=PUNCT
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-# visual-style 11 10 nmod	color:blue
-1	{	{	PUNCT	_	_	3	punct	_	_
-2	dem	dem	PRON	_	_	3	nsubj	_	_
-3	want	want	VERB	_	_	0	root	_	_
-4	||	||	PUNCT	_	_	3	punct	_	_
-5	dem	dem	PRON	_	_	6	nsubj	_	_
-6	want	want	VERB	_	_	3	conj:dicto	_	_
-7	}	}	PUNCT	_	_	6	punct	_	_
-8	just	just	ADV	_	_	9	advmod	_	_
-9	spoil	spoil	VERB	_	_	6	xcomp	_	_
-10	Obasanjo	Obasanjo	PROPN	_	_	11	nmod	_	_
-11	government	government	NOUN	_	_	9	obj	_	_
-12	//	//	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 nmod	color:blue
-1	de	de	PRON	_	_	3	nsubj	_	_
-2	don	don	AUX	_	_	3	aux	_	_
-3	carry	carry	VERB	_	_	0	root	_	_
-4	wetin	wetin	PRON	_	_	3	obj	_	_
-5	we	we	PRON	_	_	7	nsubj	_	_
-6	dey	dey	AUX	_	_	7	aux	_	_
-7	call	call	VERB	_	_	4	acl:relcl	_	_
-8	speed	speed	NOUN	_	_	9	nmod	_	_
-9	limiting	limiting	ADJ	_	_	10	amod	_	_
-10	device	device	NOUN	_	_	7	obj	_	_
-11	//	//	PUNCT	_	_	3	punct	_	_
+# visual-style 11 13 nmod	color:blue
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=103911|AlignEnd=104276|Gloss=PUNCT
+2	con	con	AUX	_	Aspect=Cons	3	aux	_	AlignBegin=104276|AlignEnd=104489|Gloss=CONS
+3	do	do	VERB	_	_	0	root	_	AlignBegin=104489|AlignEnd=104619|Gloss=do
+4	one	one	DET	_	Definite=Spec|PronType=Art	5	det	_	AlignBegin=104619|AlignEnd=104819|Gloss=SPEC.ART
+5	building	building	NOUN	_	_	3	obj	_	AlignBegin=104819|AlignEnd=105179|Gloss=building
+6	for	for	ADP	_	_	7	case	_	AlignBegin=105179|AlignEnd=105523|Gloss=for
+7	one	one	NUM	_	NumType=Card	3	obl:arg	_	AlignBegin=105523|AlignEnd=105769|Gloss=one
+8	of	of	ADP	_	_	11	case	_	AlignBegin=105769|AlignEnd=105959|Gloss=of
+9	our	our	PRON	_	Number=Plur|Person=1|Poss=Yes	11	nmod:poss	_	AlignBegin=105959|AlignEnd=106440|Gloss=PL.1.POSS
+10	#	#	PUNCT	_	_	9	punct	_	AlignBegin=106440|AlignEnd=106680|Gloss=PUNCT
+11	uncle	uncle	NOUN	_	_	7	nmod	_	AlignBegin=106680|AlignEnd=107159|Gloss=uncle
+12	like	like	ADP	_	_	13	case	_	AlignBegin=107159|AlignEnd=107309|Gloss=like
+13	dat	dat	PRON	_	Number=Sing|PronType=Dem	11	nmod	_	AlignBegin=107309|AlignEnd=107560|Gloss=SG.DEM
+14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=107560|AlignEnd=107590|Gloss=PUNCT
 
 ~~~
 

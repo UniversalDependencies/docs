@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>iš</em> (<tt><a href="lt_alksnis-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 2.065462).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 2.065341).
 
 The 1st highest number of forms (1) was observed with the lemma “Iš”: <em>Iš</em>.
 

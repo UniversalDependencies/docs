@@ -20,6 +20,6 @@ The feature is used with 1 part-of-speech tags: <tt><a href="th_pud-pos-VERB.htm
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Pass` (90; 100% of non-empty `Voice`): <em>ถูก, ได้รับ, ต้อง, การถูก</em>
-* `EMPTY` (4887): <em>มี, จะ, ให้, ได้, ใช้, ทำ, รับ, อยู่, กล่าว, ต้อง</em>
+* `Pass` (90; 100% of non-empty `Voice`): ถูก, ได้รับ, ต้อง, การถูก
+* `EMPTY` (4887): มี, จะ, ให้, ได้, ใช้, ทำ, รับ, อยู่, กล่าว, ต้อง
 

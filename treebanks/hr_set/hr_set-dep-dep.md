@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 1	U	u	ADP	Sl	Case=Loc	2	case	_	_
 2	Ankari	Ankara	PROPN	Npfsl	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
 3	će	htjeti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
-4	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
+4	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	6	expl	_	_
 5	uskoro	uskoro	ADV	Rgp	Degree=Pos	6	advmod	_	_
 6	otvoriti	otvoriti	VERB	Vmn	VerbForm=Inf	0	root	_	_
 7	povijesni	povijesni	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
@@ -33,7 +33,7 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 9	koji	koji	DET	Pi-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel	13	nsubj	_	_
 10	će	htjeti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 11	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	13	dep	_	_
-12	biti	biti	AUX	Van	VerbForm=Inf	13	aux:pass	_	_
+12	biti	biti	AUX	Van	VerbForm=Inf	13	aux	_	_
 13	orijentiran	orijentiran	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	acl	_	_
 14	na	na	ADP	Sa	Case=Acc	16	case	_	_
 15	tursku	turski	ADJ	Agpfsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_

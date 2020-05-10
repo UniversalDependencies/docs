@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 1 expl	color:blue
 1	Те	те	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	2	expl	_	GTtags=Dem,Sg,Nom,Indef
-2	чартизе	чартямс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
+2	чартизе	чартямс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
 3	прянзо	пря	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	GTtags=Sem/Body_part,Sg,Gen,PxSg3
 4	Вирьавась	Вирьава	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	GTtags=Sem/Anim_Cnt,Sg,Nom,Def|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -40,9 +40,8 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 1	—	—	PUNCT	PUNCT	_	4	punct	_	_
 2	Те	те	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	4	expl	_	GTtags=Dem,Sg,Nom,Indef|Gloss=it
 3	так	так	ADV	Adv	_	4	advmod	_	GTtags=|Gloss=let-me-see
-4	план	план	NOUN	N	Case=Nom|Definite=Ind	0	root	_	GTtags=Pl,Nom,Indef|Gloss=plan
-5	т	оль	AUX	Cop	Number[subj]=Plur|Person[subj]=3|Tense=Pres	4	cop	_	GTtags=Prs,ScPl3|Gloss=plan
-6	...	...	PUNCT	CLB	_	4	punct	_	_
+4	плант	план	NOUN	N	Case=Nom|Definite=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Pl,Nom,Indef|Gloss=plan|SpaceAfter=No
+5	...	...	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 
@@ -54,16 +53,16 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 1 expl	color:blue
 1	Те	те	DET	Det	Number=Sing|PronType=Dem	4	expl	_	GTtags=Dem,Sg
-2	таго	таго	ADV	Adv	AdvType=Tim	1	advmod	_	GTtags=Temp
+2	таго	таго	ADV	Adv	AdvType=Tim	1	advmod:tmod	_	GTtags=Temp
 3	нать	нать	ADV	Adv	_	1	advmod	_	GTtags=Parenthetic
 4	ускить	ускомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,ScPl3
-5	Колчакнэнь	Колчак	PROPN	N	Case=Dat|Definite=Ind|Number=Plur,Sing	4	obl	_	GTtags=Prop,SP,Dat,Indef
+5	Колчакнэнь	Колчак	PROPN	N	Case=Dat|Definite=Ind|NameType=Sur|Number=Plur,Sing	4	obl	_	GTtags=Prop,SP,Dat,Indef
 6	оружия	оружия	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	obj	_	GTtags=Sg,Nom,Indef
 7	ды	ды	CCONJ	CC	_	8	cc	_	_
 8	снарежения	снарежения	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	obj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	13	punct	_	_
 10	а	а	CCONJ	CC	_	13	cc	_	_
-11	можот	можот	ADV	Adv	_	13	advmod	_	_
+11	можот	можот	ADV	Adv	_	13	advmod:mmod	_	_
 12	розорязь	розорямс	VERB	V	Derivation=Ozj|Valency=1|VerbForm=Conv	13	advcl	_	GTtags=IV,Der/Озь,Ger
 13	велестэ	веле	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	1	conj	_	GTtags=Sem/Plc,SP,Ela,Indef
 14	атят	атя	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	13	nsubj	_	GTtags=Pl,Nom,Indef

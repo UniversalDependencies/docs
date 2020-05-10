@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-187 nodes (1%) are attached to their parents as `mark`.
+267 nodes (1%) are attached to their parents as `mark`.
 
-186 instances of `mark` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.31550802139037.
+266 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.9063670411985.
 
-The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (140; 75% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (20; 11% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (18; 10% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (201; 75% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (23; 9% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (19; 7% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (5; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,11 +26,11 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 2	ему	онъ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
 3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	5	aux	_	_
 4	указ	указъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
-5	промыслить	промыслити	VERB	_	Aspect=Perf|VerbForm=Inf	0	root	_	_
+5	промыслить	промыслити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
 6	чтобъ	чтобы	SCONJ	_	Mood=Cnd	7	mark	_	_
-7	жить	жити	VERB	_	Aspect=Imp|VerbForm=Inf	5	ccomp	_	_
+7	жить	жити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	ccomp	_	_
 8	с	съ	ADP	_	_	10	case	_	_
-9	ннешнеи	нынѣшний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	10	amod	_	_
+9	ннешнеи	нынѣшний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
 10	женъкои	женка	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	obl	_	_
 
 ~~~
@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 13	fgColor:white
 # visual-style 13 8 mark	color:blue
 1	А	а	CCONJ	_	_	2	cc	_	_
-2	бꙋдет	быти	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	бꙋдет	быти	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 3	с	съ	ADP	_	_	4	case	_	_
 4	ними	они	PRON	_	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nmod	_	_
 5	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	_
@@ -66,22 +66,22 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 mark	color:blue
-1	А	а	CCONJ	_	_	4	cc	_	SpaceAfter=Yes
-2	будет	будетъ	SCONJ	_	_	4	mark	_	SpaceAfter=Yes
-3	сеять	сеяти	VERB	OOV	VerbForm=Inf|Voice=Act	4	csubj	_	SpaceAfter=Yes
-4	поздо	поздый	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	advcl	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=Yes
-6	и	и	CCONJ	_	_	11	cc	_	SpaceAfter=Yes
-7	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	SpaceAfter=Yes
-8	бы	бы	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	aux	_	SpaceAfter=Yes
-9	ту	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	SpaceAfter=Yes
-10	землю	земля	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=Yes
-11	посеял	посеяти	VERB	OOV	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	SpaceAfter=Yes
-12	рожью	рожь	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	11	iobj	_	SpaceAfter=Yes
-13	ко	ко	ADP	_	_	15	case	_	SpaceAfter=Yes
-14	160-му	160-й	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	15	amod	_	SpaceAfter=Yes
+1	А	а	CCONJ	_	_	4	cc	_	_
+2	будет	будетъ	SCONJ	_	_	4	mark	_	_
+3	сеять	сеяти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	_
+4	поздо	поздый	ADJ	AdjType=Predic	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	и	и	CCONJ	_	_	11	cc	_	_
+7	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+8	бы	бы	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	aux	_	_
+9	ту	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	землю	земля	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+11	посеял	посеяти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
+12	рожью	рожь	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	11	iobj	_	_
+13	ко	ко	ADP	_	_	15	case	_	_
+14	160-му	160-й	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit	15	amod	_	_
 15	году	годъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=Yes
+16	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
 

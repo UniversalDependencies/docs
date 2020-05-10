@@ -24,7 +24,7 @@ The following 17 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6	fgColor:white
 # visual-style 6 3 advmod	color:blue
 1	Dirbdamas	dirbti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Conv	4	advcl	4:advcl	_
-2	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	1	obl	1:obl	_
+2	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	1	obl	1:obl:loc	_
 3	ilgainiui	ilgainiui	ADV	prv.nelygin.	Degree=Pos	6	advmod	6:advmod	_
 4	gali	galėti	VERB	vksm.asm.tiesiog.es.vns.2.	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	pasijusti	pasijusti	VERB	vksm.bndr.sngr.	Polarity=Pos|Reflex=Yes|VerbForm=Inf	6	csubj	6:csubj	_
@@ -45,8 +45,8 @@ The following 17 pairs of parts of speech are connected with `advmod`: <tt><a hr
 3	džiugu	džiugus	ADJ	bdv.nelygin.bev.	Definite=Ind|Degree=Pos|Gender=Neut	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	skyr.	_	6	punct	6:punct	_
 5	jei	jei	SCONJ	jng.	_	6	mark	6:mark	_
-6	bus	būti	VERB	vksm.asm.tiesiog.būs.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	3	advcl	3:advcl	_
-7	pinigų	pinigai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	6	obj	6:obj	SpaceAfter=No
+6	bus	būti	VERB	vksm.asm.tiesiog.būs.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	3	advcl	3:advcl:jei	_
+7	pinigų	pinigai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	6	obl:arg	6:obl:arg:gen	SpaceAfter=No
 8	.	.	PUNCT	skyr.	_	3	punct	3:punct	_
 
 ~~~
@@ -59,10 +59,10 @@ The following 17 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6	fgColor:white
 # visual-style 6 2 advmod	color:blue
 1	„	„	PUNCT	skyr.	_	6	punct	6:punct	SpaceAfter=No
-2	Kodėl	kodėl	ADV	prv.nelygin.	Degree=Pos	6	advmod	6:advmod	_
+2	Kodėl	kodėl	ADV	prv.nelygin.	Degree=Pos|PronType=Int,Rel	6	advmod	6:advmod	_
 3	tik	tik	PART	dll.	_	5	advmod:emph	5:advmod:emph	_
-4	Dainavos	Dainava	PROPN	dkt.tikr.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
-5	seniūnijos	seniūnija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod	_
+4	Dainavos	Dainava	PROPN	dkt.tikr.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod:gen	_
+5	seniūnijos	seniūnija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod:gen	_
 6	mokyklos	mokykla	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	0	root	0:root	SpaceAfter=No
 7	?	?	PUNCT	skyr.	_	6	punct	6:punct	_
 

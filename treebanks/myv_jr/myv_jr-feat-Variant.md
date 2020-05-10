@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Long`, `Short`.
 
-85 tokens (1%) have a non-empty value of `Variant`.
-24 types (0%) occur at least once with a non-empty value of `Variant`.
+94 tokens (1%) have a non-empty value of `Variant`.
+26 types (0%) occur at least once with a non-empty value of `Variant`.
 11 lemmas (0%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 1 part-of-speech tags: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (85; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (94; 1% instances).
 
 ### `PRON`
 
-85 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (10% of all `PRON` tokens) have a non-empty value of `Variant`.
+94 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (85; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (85; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Dat</tt> (66; 78%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (59; 69%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=3</tt> (46; 54%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (94; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (91; 97%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Dat</tt> (73; 78%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (67; 71%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=3</tt> (52; 55%).
 
 `PRON` tokens may have the following values of `Variant`:
 
-* `Long` (16; 19% of non-empty `Variant`): <em>монень, миньсинек, тонеть, минсенек, сонензэ, сонсинзэ, сыненсткак</em>
-* `Short` (69; 81% of non-empty `Variant`): <em>тензэ, тень, тенст, теть, тенк, эсензэ, эсест, эстензэ, тенек, эсень</em>
+* `Long` (20; 21% of non-empty `Variant`): <em>монень, сонензэ, миньсинек, тонеть, минсенек, сонсинзэ, сыненсткак</em>
+* `Short` (74; 79% of non-empty `Variant`): <em>тензэ, тень, тенст, теть, эсензэ, эстензэ, тенк, эсест, тенек, эсень</em>
 
 <table>
   <tr><th>Paradigm <i>сон</i></th><th><tt>Long</tt></th><th><tt>Short</tt></th></tr>

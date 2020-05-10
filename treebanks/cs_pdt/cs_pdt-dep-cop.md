@@ -49,7 +49,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 6	organizace	organizace	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	0	root	0:root	_
 7	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	9	case	9:case	LId=s-1
 8	stejným	stejný	ADJ	AANS7----1A----	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	9	amod	9:amod	_
-9	posláním	poslání	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	6	nmod	6:nmod	SpaceAfter=No|LDeriv=poslat
+9	posláním	poslání	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	6	nmod	6:nmod:s:ins	SpaceAfter=No|LDeriv=poslat
 10	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
 
 ~~~
@@ -70,8 +70,8 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 7	její	jeho	DET	PSZS1FS3-------	Case=Nom|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	8:det	LGloss=(přivlast.)
 8	pohled	pohled	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj	5:nsubj	_
 9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	10:case	LId=na-1
-10	působení	působení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	8	nmod	8:nmod	LDeriv=působit
-11	Američanů	Američan	PROPN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Nat|Number=Plur|Polarity=Pos	10	nmod	10:nmod	SpaceAfter=No
+10	působení	působení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	8	nmod	8:nmod:na:acc	LDeriv=působit
+11	Američanů	Američan	PROPN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Nat|Number=Plur|Polarity=Pos	10	nmod	10:nmod:gen	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~

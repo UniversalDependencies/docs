@@ -7,93 +7,70 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-PUD: Relations: `acl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `acl`: <tt><a href="tr_pud-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-4 nodes (0%) are attached to their parents as `acl`.
+515 nodes (3%) are attached to their parents as `acl`.
 
-4 instances of `acl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+514 instances of `acl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.66796116504854.
 
-The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (2; 50% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1; 25% instances).
+The following 17 pairs of parts of speech are connected with `acl`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (372; 72% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (67; 13% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (35; 7% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (17; 3% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt>-<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 8 acl	color:blue
-1	Zodyak	Zodyak	NOUN	NN	Number=Sing	2	compound	_	_
-2	hayvanı	hayvan	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
-3	Maymun	_	NOUN	NN	Number=Sing	13	parataxis	_	SpaceAfter=No
-4	'dur	_	AUX	AUX	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
-5	ve	ve	CCONJ	CCONJ	_	13	cc	_	_
-6	geleneksel	geleneksel	ADJ	JJ	Number=Sing	8	amod	_	_
-7	önem	önem	NOUN	NN	Number=Sing	8	obj	_	_
-8	taşıyan	taşı	AUX	VJ	Number=Sing|Polarity=Pos	10	acl	_	_
-9	altmışıncı	altmışıncı	NUM	CD	Number=Sing|NumType=Ord	10	amod	_	_
-10	yıldönümü	yıldön	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	nsubj	_	_
-11	1992'ye	1992	NOUN	NN	Case=Dat|Number=Sing	13	obl	_	_
-12	denk	denk	ADJ	JJ	_	13	amod	_	_
-13	gelmiştir	gel	VERB	VB	Aspect=Perf|Evident=Nfh|Mood=Gen|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	13	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 acl	color:blue
+1	Söylediği	söyle	ADJ	VJ	Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	4	acl	_	_
+2	ve	ve	CCONJ	CCONJ	_	3	cc	_	_
+3	yaptığı	yap	ADJ	VJ	Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	1	conj	_	_
+4	şeyler	şey	NOUN	NN	Case=Nom|Number=Plur	6	nsubj	_	_
+5	gerçekten	gerçekten	ADV	RB	_	6	advmod	_	_
+6	inanılmaz	inan	VERB	VB	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 13 acl	color:blue
-1	Eğer	eğer	SCONJ	SCONJ	_	7	mark	_	_
-2	ki	ki	SCONJ	SCONJ	_	1	fixed	_	_
-3	o	o	PRON	PRP	Case=Nom|Definite=Def|Number=Sing|Polarity=Pos	7	nsubj	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	3	punct	_	_
-5	demokrat	demokrat	NOUN	NN	Number=Sing	6	compound	_	_
-6	başkanlığına	başkanlık	NOUN	NN	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
-7	seçilecek	seç	VERB	VB	Number=Sing|Polarity=Pos	16	advcl	_	_
-8	olursa	ol	AUX	VB	Aspect=Hab|Mood=CndGen|Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No
-9	,	,	PUNCT	,	_	7	punct	_	_
-10	onun	o	PRON	PRP$	Case=Gen|Number=Sing|Polarity=Pos	13	nmod:poss	_	_
-11	yıllarca	yıl	ADV	RB	_	13	advmod	_	_
-12	soruşturma	soruşturma	NOUN	VN	Aspect=Perf|Case=Nom|Mood=Ind|Tense=Pres|VerbForm=Ger	13	compound	_	_
-13	altında	alt	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	15	acl	_	_
-14	olacağının	ol	AUX	VN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2|Polarity=Pos	13	cop	_	_
-15	sözünü	söz	NOUN	NN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	16	obj	_	_
-16	verdi	ver	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-17	.	.	PUNCT	.	_	16	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 7 acl	color:blue
+1	Cape	Cape	PROPN	PROPN	Number=Sing	4	nmod:poss	_	Proper=True
+2	Town'ın	Town	PROPN	PROPN	Case=Gen|Number=Sing	1	flat	_	Proper=True
+3	yerel	yerel	ADJ	JJ	Number=Sing	4	amod	_	_
+4	yönetimi	yönetim	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	4	punct	_	_
+6	büyükşehir	büyükşehir	NOUN	NN	Number=Sing	7	nmod:poss	_	_
+7	belediyesi	belediye	NOUN	NN	Number=Sing|Number[psor]=Sing|Person[psor]=3	11	acl	_	_
+8	olan	ol	AUX	VJ	Number=Sing|Polarity=Pos	7	cop	_	_
+9	Cape	Cape	PROPN	PROPN	Number=Sing	11	nmod	_	Proper=True
+10	Town	Town	PROPN	PROPN	Number=Sing	9	flat	_	Proper=True
+11	şehri	şehir	NOUN	NN	Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	_
+12	dir	i	AUX	AUX	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	11	cop	_	_
+13	.	.	PUNCT	.	_	11	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 13 acl	color:blue
-1	Bu	bu	DET	DT	Definite=Def|Number=Sing|Polarity=Pos	2	det	_	_
-2	durum	durum	NOUN	NN	Case=Nom|Number=Sing	19	nsubj	_	_
-3	en	en	ADV	RB	_	4	advmod	_	_
-4	çok	çok	ADV	RB	_	19	advmod	_	_
-5	şöhret	şöhret	NOUN	NN	Number=Sing	6	compound	_	_
-6	sahibi	sahip	NOUN	NN	Number=Sing|Number[psor]=Sing|Person[psor]=3	8	compound	_	_
-7	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	8	det	_	_
-8	ünlünün	ünlü	NOUN	NN	Case=Gen|Number=Sing	9	nmod:poss	_	_
-9	adı	ad	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	15	nsubj	_	_
-10	başlangıçta	başlangıç	NOUN	NN	Case=Loc|Number=Sing	15	obl:tmod	_	_
-11	oldukça	ol	ADV	CRB	_	12	advcl	_	_
-12	nadir	nadir	ADJ	JJ	Number=Sing	13	xcomp	_	_
-13	rastlanan	rastla	VERB	VJ	Number=Sing|Polarity=Pos	15	acl	_	_
-14	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	15	det	_	_
-15	isim	isim	NOUN	NN	Number=Sing	19	advcl	_	_
-16	olduğunda	ol	AUX	VN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	15	cop	_	_
-17	belirgin	belirgin	ADJ	JJ	Number=Sing	18	amod	_	_
-18	hale	hal	NOUN	NN	Case=Dat|Number=Sing	19	obl	_	_
-19	gelir	gel	VERB	VB	Person=3|Person[psor]=3|Tense=Aor	0	root	_	SpaceAfter=No
-20	.	.	PUNCT	.	_	19	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 acl	color:blue
+1	Seferi	sefer	NOUN	NN	Case=Acc|Number=Sing	8	obj	_	_
+2	Albany'ye	Albany	PROPN	PROPN	Case=Dat|Number=Sing	3	obj	_	Proper=True
+3	ulaşmayı	ulaş	NOUN	VN	Aspect=Perf|Case=Acc|Mood=Ind|Tense=Pres|VerbForm=Ger	4	ccomp	_	_
+4	amaçlayan	amaçlay	ADJ	VJ	Number=Sing|Polarity=Pos	6	acl	_	_
+5	General	General	NOUN	NN	Number=Sing	8	nsubj	_	_
+6	Joseph	Joseph	PROPN	PROPN	Number=Sing	5	appos	_	Proper=True
+7	Burgoyne	Burgoyne	PROPN	PROPN	Case=Nom|Number=Sing	6	flat	_	Proper=True
+8	yönetmiştir	yönet	VERB	VB	Aspect=Perf|Evident=Nfh|Mood=Gen|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	8	punct	_	_
 
 ~~~
 

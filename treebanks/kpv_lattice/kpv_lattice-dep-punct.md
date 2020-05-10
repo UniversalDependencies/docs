@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-393 nodes (18%) are attached to their parents as `punct`.
+452 nodes (18%) are attached to their parents as `punct`.
 
-223 instances of `punct` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.01526717557252.
+241 instances of `punct` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.56858407079646.
 
-The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (217; 55% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (49; 12% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (27; 7% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (26; 7% instances), <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (23; 6% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (18; 5% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (9; 2% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (7; 2% instances), <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (7; 2% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (316; 70% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (71; 16% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (31; 7% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (11; 2% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (9; 2% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 13 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3 5 punct	color:blue
 1	Ныв	ныв	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
 2	ёртыслы	ёрт	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
-3	гижис	гижны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	гижис	гижны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 4	письмӧ	письмӧ	NOUN	N	Case=Nom|Number=Sing	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
@@ -32,16 +32,24 @@ The following 13 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 punct	color:blue
-1	Сэм	сэм	NOUN	N	Case=Nom|Number=Sing	3	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	1	punct	_	_
-3	восьты	восьтны	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-4	ӧшиньсӧ	ӧшинь	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	SpaceAfter=No
-5	!	!	PUNCT	CLB	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 punct	color:blue
+1	Мери	Мери	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	шедӧдіс	шедӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	бронза	бронза	NOUN	N	Case=Nom|Number=Sing	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	Питер	Питер	NOUN	N	Case=Nom|Number=Sing	2	conj	_	_
+6	-	-	PUNCT	PUNCT	_	7	punct	_	_
+7	эзысь	эзысь	NOUN	N	Case=Nom|Number=Sing	5	orphan	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	10	punct	_	_
+9	а	а	CCONJ	CC	_	10	cc	_	_
+10	Джейн	Джейн	NOUN	N	Case=Nom|Number=Sing	2	conj	_	_
+11	-	-	PUNCT	PUNCT	_	12	punct	_	_
+12	зарни	зарни	NOUN	N	Case=Nom|Number=Sing	10	orphan	_	SpaceAfter=No
+13	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

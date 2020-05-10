@@ -27,8 +27,8 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	त	त	PART	RP_RPD	_	4	compound	_	_
 4	बिआहे	बिआह	NOUN	N_NN	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	obj	_	_
 5	भरोसे	भरोसा	VERB	V_VM	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem	0	root	_	_
-6	बाड़ी	बाडी	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	aux	_	_
-7	सँ	सँ	PART	RP_RPD	Case=Nom|PronType=Prs	6	goeswith	_	_
+6	बाड़ी	बा	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	aux	_	_
+7	सँ	स	PART	RP_RPD	Case=Nom|PronType=Prs	6	goeswith	_	_
 8	।	।	PUNCT	RD_PUNC	_	5	punct	_	_
 
 ~~~

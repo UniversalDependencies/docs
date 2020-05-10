@@ -71,7 +71,7 @@ The following 42 pairs of parts of speech are connected with `appos`: <tt><a hre
 8	dostala	dostat	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	appos	5:appos	_
 9	zásah	zásah	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	obj	8:obj	_
 10	německou	německý	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	11:amod	_
-11	pumou	puma	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	9	nmod	9:nmod	SpaceAfter=No
+11	pumou	puma	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	9	nmod	9:nmod:ins	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
 ~~~

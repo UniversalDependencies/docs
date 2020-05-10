@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="et_ewt-dep-compound-prt.html">compound:prt</a></tt>.
 
-9 nodes (0%) are attached to their parents as `compound`.
+13 nodes (0%) are attached to their parents as `compound`.
 
-7 instances of `compound` (78%) are left-to-right (parent precedes child).
+7 instances of `compound` (54%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `compound`: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (8; 89% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 11% instances).
+The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (8; 62% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 15% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 15% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -37,31 +37,47 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 compound	color:blue
-1	See	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	2	nsubj	2:nsubj	_
-2	laguneb	lagunema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	mullas	muld	NOUN	S	Case=Ine|Number=Sing	2	obl	2:obl	_
-4	kiiresti	kiiresti	ADV	D	_	2	advmod	2:advmod	SpaceAfter=No
-5	,	,	PUNCT	Z	_	8	punct	8:punct	_
-6	ilma	ilma	ADV	D	_	8	advmod	8:advmod	_
-7	et	et	SCONJ	J	_	6	compound	6:compound	_
-8	tekiks	tekkima	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	2:advcl	_
-9	mingit	mingi	DET	P	Case=Par|Number=Sing|PronType=Ind	10	det	10:det	_
-10	lõhna	lõhn	NOUN	S	Case=Par|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
-11	,	,	PUNCT	Z	_	13	punct	13:punct	_
-12	või	või	CCONJ	J	_	13	cc	13:cc	_
-13	muret	mure	NOUN	S	Case=Par|Number=Sing	10	conj	10:conj	SpaceAfter=No
-14	,	,	PUNCT	Z	_	19	punct	19:punct	_
-15	et	et	SCONJ	J	_	19	mark	19:mark	_
-16	mingid	mingi	DET	P	Case=Nom|Number=Plur|PronType=Ind	17	det	17:det	_
-17	metsloomad	mets_loom	NOUN	S	Case=Nom|Number=Plur	19	nsubj	19:nsubj	_
-18	kätte	käsi	NOUN	S	Case=Ill|Number=Sing	19	obl	19:obl	_
-19	saavad	saama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	13:acl	SpaceAfter=No
-20	.	.	PUNCT	Z	_	2	punct	2:punct	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 18 compound	color:blue
+1	Aga	aga	CCONJ	J	_	9	cc	9:cc	_
+2	eks	eks	ADV	D	_	9	advmod	9:advmod	_
+3	keelega	keel	NOUN	S	Case=Com|Number=Sing	5	obl	5:obl	_
+4	nii	nii	ADV	D	_	5	advmod	5:advmod	_
+5	ongi,et	ongine	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	6	amod	6:amod	_
+6	enamik	enamik	NOUN	S	Case=Nom|Number=Sing	9	obj	9:obj	_
+7	teadmistest	teadmine	NOUN	S	Case=Ela|Number=Plur	6	nmod	6:nmod	_
+8	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	9:aux	_
+9	omandatud	omandama	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+10	ikka	ikka	ADV	D	_	11	advmod	11:advmod	_
+11	varem	varem	ADV	D	_	9	advmod	9:advmod	_
+12	ja	ja	CCONJ	J	_	19	cc	19:cc	_
+13	viimased	viimane	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	14	amod	14:amod	_
+14	kordamised	kordamine	NOUN	S	Case=Nom|Number=Plur	19	nsubj:cop	19:nsubj	_
+15	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	19:cop	_
+16	lihtsalt	lihtsalt	ADV	D	_	19	advmod	19:advmod	_
+17	reeglite	reegel	NOUN	S	Case=Gen|Number=Plur	19	obl	19:obl	_
+18	üle	üle	ADV	D	_	19	compound	19:compound	_
+19	vaatamamised	vaatamamine	NOUN	S	Case=Nom|Number=Plur	9	conj	9:conj	SpaceAfter=No
+20	.	.	PUNCT	Z	_	9	punct	9:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 compound	color:blue
+1	Sai	saama	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
+2	Inglismaa	Inglis_maa	PROPN	S	Case=Gen|Number=Sing	4	nmod	4:nmod	_
+3	õppimis	õppimis	NOUN	S	Case=Nom|Number=Sing	4	compound	4:compound	_
+4	eelistustest	eelistus	NOUN	S	Case=Ela|Number=Plur	5	obl	5:obl	_
+5	räägitud	rääkima	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
+6	.	.	PUNCT	Z	_	5	punct	5:punct	_
 
 ~~~
 

@@ -23,5 +23,5 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>с.в.</em>
-* `EMPTY` (202): <em>нин, зэв, на, сӧмын, кыдзи, пыр, сідз, ӧні, дзик, кыдз</em>
+* `EMPTY` (232): <em>нин, зэв, на, сӧмын, кыдзи, пыр, сідз, кӧні, ӧні, дзик</em>
 

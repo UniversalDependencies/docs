@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-129 nodes (10%) are attached to their parents as `obl`.
+133 nodes (10%) are attached to their parents as `obl`.
 
-80 instances of `obl` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.16279069767442.
+80 instances of `obl` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.18045112781955.
 
-The following 12 pairs of parts of speech are connected with `obl`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (100; 78% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (8; 6% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (105; 79% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (8; 6% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 12 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 3 obl	color:blue
 1	Мама	мама	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	Lang=Mixed
-2	уджалӧ	уджавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	уджалӧ	уджавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	колхозын	колхоз	NOUN	N	Case=Ine|Number=Sing	2	obl	_	Lang=Mixed|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -40,8 +40,8 @@ The following 12 pairs of parts of speech are connected with `obl`: <tt><a href=
 2	этія	этія	PRON	Pron	_	6	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	_
 4	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
-5	ӧттӧрйи	ӧттӧрйи	ADV	Adv	_	6	advmod	_	_
-6	вӧрзялісныс	вӧрзявны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	ӧттӧрйи	ӧттӧрйи	ADV	Adv	_	6	advmod:tmod	_	_
+6	вӧрзялісныс	вӧрзявны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
 7	Из	из	PROPN	N	Case=Nom|Number=Sing	6	obl	_	_
 8	сае	сайын	ADP	Po	Case=Ill|Number=Sing	7	case	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	6	punct	_	_
@@ -50,21 +50,21 @@ The following 12 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 obl	color:blue
-1	А	а	CCONJ	CC	_	2	cc	_	Lang=Mixed
-2	мамыслӧн	мам	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	Lang=Mixed|GTtags=Sg,Gen,PxSg3
-3	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	GTtags=Ind,Prt1,Sg3
-4	потанын	потан	NOUN	N	Case=Ine|Number=Sing	2	obl	_	GTtags=Sg,Ine
-5	пони	пони	ADJ	A	Case=Nom|Number=Sing	6	amod	_	GTtags=Sg,Nom
-6	тятей	тятей	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
-7	,	,	PUNCT	CLB	_	8	punct	_	_
-8	туплялӧма	туплявны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	GTtags=TV,Ind,Prt2,Sg3
-9	ротӧн	рот	NOUN	N	Case=Ins|Number=Sing	8	obl	_	GTtags=Sg,Ins|SpaceAfter=No
-10	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 obl	color:blue
+1	Сы	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+2	бӧрын	бӧр	ADP	Po	Case=Ine|Number=Sing	1	case	_	_
+3	устроитчи	устроитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	Lang=Mixed
+4	рӧбитны	рӧбитны	VERB	V	VerbForm=Inf	3	xcomp	_	Lang=Mixed|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	_
+6	локті	локны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	3	parataxis	_	_
+7	ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	8	nmod	_	_
+8	сиктэ	сикт	NOUN	N	Case=Ill|Number=Sing	6	obl	_	_
+9	да	да	PART	Pcle	_	8	advmod	_	Lang=Mixed|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

@@ -23,11 +23,11 @@ The following 75 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 2	fgColor:white
 # visual-style 2 5 orphan	color:blue
 1	Všude	všude	ADV	Db-------------	PronType=Tot	0	root	0:root	_
-2	krev	krev	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	1	conj	0:root|1:conj	SpaceAfter=No
-3	,	,	PUNCT	Z:-------------	_	2	punct	2:punct	_
+2	krev	krev	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	1	conj	1.1:dep	SpaceAfter=No
+3	,	,	PUNCT	Z:-------------	_	2	punct	1.1:punct	_
 4	nepřehledné	přehledný	ADJ	AANS1----1N----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg	5	amod	5:amod	_
-5	množství	množství	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	2	orphan	2:orphan	_
-6	krve	krev	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	nmod	5:nmod	SpaceAfter=No
+5	množství	množství	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	2	orphan	1.1:dep	_
+6	krve	krev	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	nmod	5:nmod:gen	SpaceAfter=No
 7	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -46,13 +46,13 @@ The following 75 pairs of parts of speech are connected with `orphan`: <tt><a hr
 5	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
 6	nic	nic	PRON	PW--4----------	Case=Acc|PronType=Neg	7	obj	7:obj	_
 7	neříkej	říkat	VERB	Vi-S---2--N----	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	2	conj	0:root|2:conj	SpaceAfter=No
-8	,	,	PUNCT	Z:-------------	_	11	punct	11:punct	_
+8	,	,	PUNCT	Z:-------------	_	11	punct	7.1:punct	_
 9	já	já	PRON	PP-S1--1-------	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
 10	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	11	expl:pv	11:expl:pv	_
-11	stydím	stydět	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	0:root|2:conj	SpaceAfter=No
-12	,	,	PUNCT	Z:-------------	_	11	punct	11:punct	_
-13	já	já	PRON	PP-S1--1-------	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	14:nsubj	_
-14	nechci	chtít	VERB	VB-S---1P-NA---	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	11	orphan	11:orphan	_
+11	stydím	stydět	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	7.1:dep	SpaceAfter=No
+12	,	,	PUNCT	Z:-------------	_	11	punct	7.1:punct	_
+13	já	já	PRON	PP-S1--1-------	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	14:nsubj|16:nsubj	_
+14	nechci	chtít	VERB	VB-S---1P-NA---	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	11	orphan	7.1:dep	_
 15	nic	nic	PRON	PW--4----------	Case=Acc|PronType=Neg	16	obj	16:obj	_
 16	slyšet	slyšet	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	14	xcomp	14:xcomp	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	SpaceAfter=No
@@ -72,11 +72,11 @@ The following 75 pairs of parts of speech are connected with `orphan`: <tt><a hr
 3	pil	pít	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 4	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	6:case	_
 5	svou	svůj	DET	P8FS4---------1	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	6:det	_
-6	smrt	smrt	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	3:obl	SpaceAfter=No
-7	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
-8	teď	teď	ADV	Db-------------	PronType=Dem	3	conj	0:root|3:conj	_
+6	smrt	smrt	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	3:obl:na:acc	SpaceAfter=No
+7	,	,	PUNCT	Z:-------------	_	8	punct	6.1:punct	_
+8	teď	teď	ADV	Db-------------	PronType=Dem	3	conj	6.1:advmod	_
 9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	10:case	_
-10	život	život	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	orphan	8:orphan	SpaceAfter=No
+10	život	život	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	orphan	6.1:dep	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~

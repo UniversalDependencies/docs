@@ -27,7 +27,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	jsme	být	AUX	VB-P---1P-AA---	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	1:aux	_
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	1:expl:pv	_
 4	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	5:case	_
-5	řeči	řeč	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	obl:arg	1:obl:arg	SpaceAfter=No
+5	řeči	řeč	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	obl:arg	1:obl:arg:do:gen	SpaceAfter=No
 6	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -65,7 +65,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	prsty	prst	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	0	root	0:root	_
 7	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	9:case	_
 8	lidské	lidský	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	9:amod	_
-9	ruce	ruka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	6	nmod	6:nmod	SpaceAfter=No
+9	ruce	ruka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	6	nmod	6:nmod:na:loc	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
 
 ~~~

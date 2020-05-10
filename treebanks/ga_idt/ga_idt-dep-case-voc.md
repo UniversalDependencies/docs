@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ga_idt-dep-case.html">case</a></tt>.
 
-41 nodes (0%) are attached to their parents as `case:voc`.
+55 nodes (0%) are attached to their parents as `case:voc`.
 
-41 instances of `case:voc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02439024390244.
+55 instances of `case:voc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.01818181818182.
 
-The following 2 pairs of parts of speech are connected with `case:voc`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (29; 71% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (12; 29% instances).
+The following 2 pairs of parts of speech are connected with `case:voc`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (34; 62% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (21; 38% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 2 pairs of parts of speech are connected with `case:voc`: <tt><a h
 5	Dhaid	Daid	NOUN	Noun	Case=Voc|Form=Len|Gender=Masc	2	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	Punct	_	8	punct	_	_
 7	ba	is	AUX	Cop	Tense=Past|VerbForm=Cop	8	cop	_	_
-8	shona	sona	ADJ	Adj	Degree=Pos|Form=Len	2	ccomp	_	SpaceAfter=No
+8	shona	sona	ADJ	Adj	Degree=Pos|Form=Len	2	csubj:cleft	_	SpaceAfter=No
 9	,	,	PUNCT	Punct	_	10	punct	_	_
 10	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
 11	laethanta	lá	NOUN	Noun	Definite=Def|Gender=Masc|Number=Plur	12	nsubj	_	_

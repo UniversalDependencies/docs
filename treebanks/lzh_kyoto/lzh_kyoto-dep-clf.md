@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-232 nodes (0%) are attached to their parents as `clf`.
+458 nodes (0%) are attached to their parents as `clf`.
 
-227 instances of `clf` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07758620689655.
+416 instances of `clf` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08733624454148.
 
-The following 3 pairs of parts of speech are connected with `clf`: <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (226; 97% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `clf`: <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (448; 98% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

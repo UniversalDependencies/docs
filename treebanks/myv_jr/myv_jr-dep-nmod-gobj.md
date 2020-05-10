@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `nmod:gobj`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-nmod.html">nmod</a></tt>.
-There are also 2 other language-specific subtypes of `nmod`: <tt><a href="myv_jr-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="myv_jr-dep-nmod-gsubj.html">nmod:gsubj</a></tt>.
+There are also 5 other language-specific subtypes of `nmod`: <tt><a href="myv_jr-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="myv_jr-dep-nmod-gsubj.html">nmod:gsubj</a></tt>, <tt><a href="myv_jr-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="myv_jr-dep-nmod-part.html">nmod:part</a></tt>, <tt><a href="myv_jr-dep-nmod-poss.html">nmod:poss</a></tt>.
 
 9 nodes (0%) are attached to their parents as `nmod:gobj`.
 
@@ -18,17 +18,16 @@ The following 2 pairs of parts of speech are connected with `nmod:gobj`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 nmod:gobj	color:blue
-1	Преве	превей	ADJ	A	_	0	root	_	_
-2	ельгак	оль	AUX	Cop	Clitic=Gak|Number[subj]=Sing|Person[subj]=3|Tense=Prt2	1	cop	_	GTtags=Prt2,Sg3,Clt/Gak
-3	веленть	веле	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	nmod:gobj	_	GTtags=Sg,Gen,Def
-4	тезэнь	тезэнь	ADV	Adv	Case=Ill|PronType=Dem	5	obl	_	GTtags=Dem,Ill
-5	путыцязо	путыця	NOUN	N	Case=Nom|Derivation=NomAg|Number=Sing|Number[psor]=Sing|Person[psor]=3|Valency=2	1	nsubj	_	GTtags=TV,NomAg,Sg,Nom,PxSg3|SpaceAfter=No
-6	!	!	PUNCT	CLB	_	1	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 nmod:gobj	color:blue
+1	Превеельгак	превей	ADJ	A	Clitic=Gak|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Prt2,Sg3,Clt/Gak
+2	веленть	веле	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	nmod:gobj	_	GTtags=Sg,Gen,Def
+3	тезэнь	тезэнь	ADV	Adv	Case=Ill|PronType=Dem	4	obl:lmod	_	GTtags=Dem,Ill
+4	путыцязо	путыця	NOUN	N	Case=Nom|Derivation=NomAg|Number=Sing|Number[psor]=Sing|Person[psor]=3|Valency=2	1	nsubj:cop	_	GTtags=TV,NomAg,Sg,Nom,PxSg3|SpaceAfter=No
+5	!	!	PUNCT	CLB	_	1	punct	_	_
 
 ~~~
 
@@ -39,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `nmod:gobj`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nmod:gobj	color:blue
-1	Мейле	мейле	ADV	Adv	AdvType=Tim	4	advmod	_	GTtags=Sem/Time_dur
+1	Мейле	мейле	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time_dur
 2	левксэнь	левкс	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	3	nmod:gobj	_	GTtags=SP,Gen,Indef
 3	нарвамо	нарвамс	VERB	V	Case=Loc|Valency=2|VerbForm=Inf	4	xcomp	_	GTtags=TV,Inf,Loc
 4	озыть	озамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScPl3|SpaceAfter=No

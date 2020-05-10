@@ -25,7 +25,7 @@ The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Eve	ev	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
 2	çat	çat	X	_	_	6	obl	_	_
 3	kapı	kapı	NOUN	_	Case=Nom|Number=Sing	2	fixed	_	_
-4	bir	bir	DET	_	Definite=Ind|Number=Sing	5	det	_	_
+4	bir	bir	DET	_	Definite=Ind|PronType=Art	5	det	_	_
 5	alıcı	alıcı	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 6	geldi	gel	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	parataxis	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_

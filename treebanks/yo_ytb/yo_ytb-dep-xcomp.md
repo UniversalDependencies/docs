@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24 nodes (1%) are attached to their parents as `xcomp`.
+39 nodes (0%) are attached to their parents as `xcomp`.
 
-24 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.
+39 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.35897435897436.
 
-The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (15; 63% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (5; 21% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (23; 59% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (10; 26% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -22,103 +22,87 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 xcomp	color:blue
-1	Wọ́n	Wọ́n	VERB	_	_	5	nsubj	_	Gloss=they|Ref=JOHN_10.39
+1	Wọ́n	Wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Gloss=they|Ref=JOHN_10.39
 2	sì	sì	CCONJ	_	_	5	cc	_	Gloss=then|Ref=JOHN_10.39
 3	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.39
 4	ń	ń	AUX	_	_	5	aux	_	Gloss=is|Ref=JOHN_10.39
 5	wá	wá	VERB	_	_	0	root	_	Gloss=look|Ref=JOHN_10.39
 6	ọ̀nà	ọ̀nà	NOUN	_	_	5	obj	_	Gloss=way|Ref=JOHN_10.39
 7	láti	láti	ADP	_	_	8	mark	_	Gloss=to|Ref=JOHN_10.39
-8	mú	mú	VERB	_	_	5	xcomp	_	Gloss=brought|Ref=JOHN_10.39
+8	mú	mú	VERB	_	_	5	xcomp	_	Gloss=take|Ref=JOHN_10.39
 9	un	un	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=him|Ref=JOHN_10.39|SpaceAfter=No
 10	:	:	PUNCT	_	_	13	punct	_	Gloss=:|Ref=JOHN_10.39
 11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	Gloss=he|Ref=JOHN_10.39
 12	sì	sì	CCONJ	_	_	13	cc	_	Gloss=then|Ref=JOHN_10.39
 13	bọ́	bọ́	VERB	_	_	5	conj	_	Gloss=escape|Ref=JOHN_10.39
-14	lọ́wọ́	lọ́wọ́	NOUN	_	_	13	obj	_	Gloss=hand|Ref=JOHN_10.39
-15	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	nmod	_	Gloss=they|Ref=JOHN_10.39|SpaceAfter=No
+14	lọ́wọ́	lọ́wọ́	ADP	_	_	15	case	_	Gloss=from|Ref=JOHN_10.39
+15	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	obj	_	Gloss=they|Ref=JOHN_10.39|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=JOHN_10.39
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 xcomp	color:blue
-1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.8
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.8
-3	pe	pe	VERB	_	_	0	root	_	Gloss=called|Ref=GEN_1.8
-4	òfúurufú	òfúurufú	NOUN	_	_	3	obj	_	Gloss=firmament|Ref=GEN_1.8
-5	ní	ní	ADP	_	_	7	case	_	Gloss=it|Ref=GEN_1.8
-6	“	“	PUNCT	_	_	7	punct	_	Gloss=“|Ref=GEN_1.8|SpaceAfter=No
-7	Ọ̀run	ọ̀run	NOUN	_	_	3	xcomp	_	Gloss=heaven|Ref=GEN_1.8|SpaceAfter=No
-8	,	,	PUNCT	_	_	7	punct	_	Gloss=,|Ref=GEN_1.8|SpaceAfter=No
-9	”	”	PUNCT	_	_	7	punct	_	Gloss=”|Ref=GEN_1.8
-10	àsálẹ́	àsálẹ́	NOUN	_	_	15	nsubj	_	Gloss=evening|Ref=GEN_1.8
-11	àti	àti	CCONJ	_	_	12	cc	_	Gloss=and|Ref=GEN_1.8
-12	òwúrọ̀	òwúrọ̀	NOUN	_	_	10	conj	_	Gloss=morning|Ref=GEN_1.8
-13	sì	sì	CCONJ	_	_	15	cc	_	Gloss=was|Ref=GEN_1.8
-14	jẹ́	jẹ́	AUX	_	_	15	cop	_	Gloss=be|Ref=GEN_1.8
-15	ọjọ́	ọjọ́	NOUN	_	_	3	conj	_	Gloss=day|Ref=GEN_1.8
-16	kejì	kejì	ADJ	_	_	15	amod	_	Gloss=second|Ref=GEN_1.8|SpaceAfter=No
-17	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.8
+# visual-style 7 8 xcomp	color:blue
+1	Àdírẹ́ẹ̀sì	Àdírẹ́ẹ̀sì	NOUN	_	_	7	nsubj	_	_
+2	e	e	NOUN	_	_	1	nmod	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	mail	mail	NOUN	_	_	2	compound	_	_
+5	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	1	nmod	_	_
+6	kò	kò	PART	_	_	7	advmod	_	_
+7	ní	ní	VERB	_	_	0	root	_	_
+8	hàn	hàn	NOUN	_	_	7	xcomp	_	_
+9	síta	síta	ADV	_	_	7	advmod	_	_
+10	nígbà	nígbà	ADV	_	_	18	advmod	_	_
+11	tí	tí	PRON	_	PronType=Rel	10	fixed	_	_
+12	àwọn	àwọn	DET	_	_	13	det	_	_
+13	oníṣe	oníṣe	NOUN	_	_	18	nsubj	_	_
+14	míràn	míràn	ADJ	_	_	13	amod	_	_
+15	bá	bá	SCONJ	_	_	18	mark	_	_
+16	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	expl	_	_
+17	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	18	obj	_	_
+18	pàdé	pàdé	VERB	_	_	7	advcl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 42	bgColor:blue
-# visual-style 42	fgColor:white
-# visual-style 40	bgColor:blue
-# visual-style 40	fgColor:white
-# visual-style 40 42 xcomp	color:blue
-1	Nígbà	nígbà	ADV	_	_	19	advmod	_	Gloss=when|Ref=JOHN_11.31
-2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=JOHN_11.31
-3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the|Ref=JOHN_11.31
-4	Júù	júù	PROPN	_	_	19	nsubj	_	Gloss=jews|Ref=JOHN_11.31
-5	tí	tí	PRON	_	PronType=Rel	7	nsubj	_	Gloss=that|Ref=JOHN_11.31
-6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	expl	_	Gloss=he|Ref=JOHN_11.31
-7	wà	wà	VERB	_	_	4	advcl	_	Gloss=was|Ref=JOHN_11.31
-8	lọ́dọ̀	lọ́dọ̀	ADP	_	_	9	case	_	Gloss=with|Ref=JOHN_11.31
-9	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	obl	_	Gloss=him|Ref=JOHN_11.31
-10	nínú	nínú	ADP	_	_	11	case	_	Gloss=in|Ref=JOHN_11.31
-11	ilé	ilé	NOUN	_	_	7	obl	_	Gloss=house|Ref=JOHN_11.31|SpaceAfter=No
-12	,	,	PUNCT	_	_	16	punct	_	Gloss=,|Ref=JOHN_11.31
-13	tí	tí	PRON	_	PronType=Rel	16	nsubj	_	Gloss=that|Ref=JOHN_11.31
-14	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	expl	_	Gloss=they|Ref=JOHN_11.31
-15	ń	ń	AUX	_	_	16	aux	_	Gloss=is|Ref=JOHN_11.31
-16	tù	tù	VERB	_	_	7	conj	_	Gloss=comfort|Ref=JOHN_11.31
-17	ú	ú	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	16	obj	_	Gloss=her|Ref=JOHN_11.31
-18	nínú	nínú	ADP	_	_	16	compound:prt	_	Gloss=in|Ref=JOHN_11.31
-19	rí	rí	VERB	_	_	32	advcl	_	Gloss=saw|Ref=JOHN_11.31
-20	Màríà	màríà	PROPN	_	_	19	obj	_	Gloss=mary|Ref=JOHN_11.31
-21	tí	tí	PRON	_	PronType=Rel	23	nsubj	_	Gloss=that|Ref=JOHN_11.31
-22	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	23	expl	_	Gloss=she|Ref=JOHN_11.31
-23	dìde	dìde	VERB	_	_	20	acl	_	Gloss=rose|Ref=JOHN_11.31
-24	kánkán	kánkán	ADV	_	_	23	advmod	_	Gloss=quickly|Ref=JOHN_11.31|SpaceAfter=No
-25	,	,	PUNCT	_	_	29	punct	_	Gloss=,|Ref=JOHN_11.31
-26	tí	tí	PRON	_	PronType=Rel	29	nsubj	_	Gloss=that|Ref=JOHN_11.31
-27	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	29	expl	_	Gloss=he|Ref=JOHN_11.31
-28	sì	sì	CCONJ	_	_	29	cc	_	Gloss=and|Ref=JOHN_11.31
-29	jáde	jáde	VERB	_	_	23	conj	_	Gloss=out|Ref=JOHN_11.31|SpaceAfter=No
-30	,	,	PUNCT	_	_	19	punct	_	Gloss=,|Ref=JOHN_11.31
-31	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	32	nsubj	_	Gloss=they|Ref=JOHN_11.31
-32	tẹ̀lé	tẹ̀lé	VERB	_	_	0	root	_	Gloss=follow|Ref=JOHN_11.31|SpaceAfter=No
-33	,	,	PUNCT	_	_	35	punct	_	Gloss=,|Ref=JOHN_11.31
-34	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	35	nsubj	_	Gloss=they|Ref=JOHN_11.31
-35	ṣebí	ṣebí	VERB	_	_	32	conj	_	Gloss=suppose|Ref=JOHN_11.31
-36	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	38	nsubj	_	Gloss=she|Ref=JOHN_11.31
-37	ń	ń	AUX	_	_	38	aux	_	Gloss=is|Ref=JOHN_11.31
-38	lọ	lọ	VERB	_	_	35	ccomp	_	Gloss=go|Ref=JOHN_11.31
-39	sí	sí	ADP	_	_	40	case	_	Gloss=to|Ref=JOHN_11.31
-40	ibojì	ibojì	NOUN	_	_	38	obl	_	Gloss=sepulchre|Ref=JOHN_11.31
-41	láti	láti	ADP	_	_	42	mark	_	Gloss=to|Ref=JOHN_11.31
-42	sọkún	sọkún	VERB	_	_	40	xcomp	_	Gloss=weep|Ref=JOHN_11.31
-43	níbẹ̀	níbẹ̀	ADV	_	_	42	advmod	_	Gloss=there|Ref=JOHN_11.31|SpaceAfter=No
-44	.	.	PUNCT	_	_	32	punct	_	Gloss=.|Ref=JOHN_11.31
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 15 xcomp	color:blue
+1	Ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	3	cc	_	Ref=MATT_5.34|Gloss=but
+2	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Ref=MATT_5.34|Gloss=i
+3	wí	wí	VERB	_	_	0	root	_	Ref=MATT_5.34|Gloss=said
+4	fún	fún	ADP	_	_	5	case	_	Ref=MATT_5.34|Gloss=unto
+5	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	obl	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=you
+6	,	,	PUNCT	_	_	9	punct	_	Ref=MATT_5.34|Gloss=,
+7	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	Ref=MATT_5.34|Gloss=you
+8	má	má	AUX	_	_	9	aux	_	Ref=MATT_5.34|Gloss=not
+9	ṣe	ṣe	VERB	_	_	3	conj	_	Ref=MATT_5.34|Gloss=do
+10	búra	búra	VERB	_	_	9	compound:svc	_	Ref=MATT_5.34|Gloss=sware
+11	rárá	rárá	ADJ	_	_	10	nmod	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=nay
+12	,	,	PUNCT	_	_	9	punct	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=,
+13	:	:	PUNCT	_	_	9	punct	_	Ref=MATT_5.34|Gloss=:
+14	ìbáà	ìbáà	ADV	_	_	9	advmod	_	Ref=MATT_5.34|Gloss=even
+15	ṣe	ṣe	VERB	_	_	14	xcomp	_	Ref=MATT_5.34|Gloss=do
+16	ìfi	ìfi	VERB	_	_	15	compound:svc	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=using
+17	-	-	PUNCT	_	_	18	punct	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=-
+18	ọ̀run	ọ̀run	NOUN	_	_	16	nmod	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=heaven
+19	-	-	PUNCT	_	_	20	punct	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=-
+20	búra	búra	VERB	_	_	16	compound:svc	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=sware
+21	,	,	PUNCT	_	_	23	punct	_	Ref=MATT_5.34|Gloss=,
+22	nítorí	nítorí	SCONJ	_	_	23	case	_	Ref=MATT_5.34|Gloss=for
+23	ìtẹ́	ìtẹ́	NOUN	_	_	20	conj	_	Ref=MATT_5.34|Gloss=throne
+24	Ọlọ́run	Ọlọ́run	NOUN	_	_	23	nmod	_	Ref=MATT_5.34|Gloss=god
+25	ni	ni	PART	_	_	23	case	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=is
+26	.	.	PUNCT	_	_	3	punct	_	Ref=MATT_5.34|Gloss=.
 
 ~~~
 

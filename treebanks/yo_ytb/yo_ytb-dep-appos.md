@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (1%) are attached to their parents as `appos`.
+21 nodes (0%) are attached to their parents as `appos`.
 
-18 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.27777777777778.
+21 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.80952380952381.
 
-The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (5; 28% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (4; 22% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (4; 22% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (2; 11% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 9 pairs of parts of speech are connected with `appos`: <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (5; 24% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (4; 19% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 14% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (3; 14% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (2; 10% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 16	fgColor:white
 # visual-style 16 17 appos	color:blue
 1	Nígbà	nígbà	ADV	_	_	6	advmod	_	Gloss=when|Ref=JOHN_11.28
-2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=JOHN_11.28
+2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=|Ref=JOHN_11.28
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=she|Ref=JOHN_11.28
 4	sì	sì	CCONJ	_	_	6	cc	_	Gloss=then|Ref=JOHN_11.28
 5	ti	ti	AUX	_	_	6	aux	_	Gloss=have|Ref=JOHN_11.28
@@ -42,7 +42,7 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 18	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	17	nmod	_	Gloss=his|Ref=JOHN_11.28
 19	sẹ́yìn	sẹ́yìn	ADV	_	_	15	advmod	_	Gloss=back|Ref=JOHN_11.28
 20	wí	wí	VERB	_	_	15	xcomp	_	Gloss=said|Ref=JOHN_11.28
-21	pé	pé	SCONJ	_	_	25	mark	_	SpaceAfter=No|Gloss=that|Ref=JOHN_11.28
+21	pé	pé	SCONJ	_	_	20	compound	_	SpaceAfter=No|Gloss=that|Ref=JOHN_11.28
 22	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=JOHN_11.28
 23	“	“	PUNCT	_	_	25	punct	_	SpaceAfter=No|Gloss=“|Ref=JOHN_11.28
 24	Olùkọ́	olùkọ́	NOUN	_	_	25	nsubj	_	Gloss=master|Ref=JOHN_11.28
@@ -55,46 +55,6 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 31	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	30	obj	_	SpaceAfter=No|Gloss=thee|Ref=JOHN_11.28
 32	.	.	PUNCT	_	_	25	punct	_	SpaceAfter=No|Gloss=.|Ref=JOHN_11.28
 33	”	”	PUNCT	_	_	25	punct	_	Gloss=”|Ref=JOHN_11.28
-
-~~~
-
-
-~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 13 appos	color:blue
-1	Àwọn	àwọn	PRON	_	PronType=Ind	6	nsubj	_	Gloss=some|Ref=JOHN_11.37
-2	kan	kan	NUM	_	NumType=Card	1	nummod	_	Gloss=a|Ref=JOHN_11.37
-3	nínú	nínú	ADP	_	_	4	case	_	Gloss=in|Ref=JOHN_11.37
-4	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	nmod	_	Gloss=them|Ref=JOHN_11.37
-5	sì	sì	CCONJ	_	_	6	cc	_	Gloss=and|Ref=JOHN_11.37
-6	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_11.37
-7	pé	pé	SCONJ	_	_	22	mark	_	Gloss=that|Ref=JOHN_11.37|SpaceAfter=No
-8	,	,	PUNCT	_	_	22	punct	_	Gloss=,|Ref=JOHN_11.37
-9	“	“	PUNCT	_	_	22	punct	_	Gloss=“|Ref=JOHN_11.37|SpaceAfter=No
-10	Ọkùnrin	Ọkùnrin	NOUN	_	_	22	nsubj	_	Gloss=man|Ref=JOHN_11.37
-11	yìí	yìí	DET	_	_	10	det	_	Gloss=this|Ref=JOHN_11.37|SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=JOHN_11.37
-13	ẹni	ẹni	PRON	_	PronType=Ind	10	appos	_	Gloss=someone|Ref=JOHN_11.37
-14	tí	tí	PRON	_	PronType=Rel	16	nsubj	_	Gloss=that|Ref=JOHN_11.37
-15	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	expl	_	Gloss=he|Ref=JOHN_11.37
-16	la	la	VERB	_	_	13	acl	_	Gloss=open|Ref=JOHN_11.37
-17	ojú	ojú	NOUN	_	_	16	obj	_	Gloss=eyes|Ref=JOHN_11.37
-18	afọ́jú	afọ́jú	ADJ	_	_	17	amod	_	Gloss=blind|Ref=JOHN_11.37|SpaceAfter=No
-19	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=JOHN_11.37
-20	kò	kò	PART	_	_	22	advmod	_	Gloss=not|Ref=JOHN_11.37
-21	lè	lè	AUX	_	_	22	aux	_	Gloss=may|Ref=JOHN_11.37
-22	ṣeé	ṣeé	VERB	_	_	6	ccomp	_	Gloss=do-it|Ref=JOHN_11.37
-23	kí	kí	SCONJ	_	_	27	mark	_	Gloss=so|Ref=JOHN_11.37
-24	ọkùnrin	ọkùnrin	NOUN	_	_	27	nsubj	_	Gloss=man|Ref=JOHN_11.37
-25	yìí	yìí	DET	_	_	24	det	_	Gloss=this|Ref=JOHN_11.37
-26	má	má	AUX	_	_	27	aux	_	Gloss=not|Ref=JOHN_11.37
-27	kú	kú	VERB	_	_	22	ccomp	_	Gloss=die|Ref=JOHN_11.37
-28	bí	bí	SCONJ	_	_	27	mark	_	Gloss=not|Ref=JOHN_11.37|SpaceAfter=No
-29	?	?	PUNCT	_	_	22	punct	_	Gloss=?|Ref=JOHN_11.37|SpaceAfter=No
-30	”	”	PUNCT	_	_	22	punct	_	Gloss=”|Ref=JOHN_11.37
 
 ~~~
 
@@ -113,7 +73,7 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 6	,	,	PUNCT	_	_	14	punct	_	Gloss=,|Ref=JOHN_11.27
 7	“	“	PUNCT	_	_	14	punct	_	Gloss=“|Ref=JOHN_11.27|SpaceAfter=No
 8	Bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	14	discourse	_	Gloss=so|Ref=JOHN_11.27
-9	ni	ni	PART	_	_	8	case	_	Gloss=is|Ref=JOHN_11.27|SpaceAfter=No
+9	ni	ni	PART	_	_	8	compound:prt	_	Gloss=is|Ref=JOHN_11.27|SpaceAfter=No
 10	,	,	PUNCT	_	_	14	punct	_	Gloss=,|Ref=JOHN_11.27
 11	Olúwa	Olúwa	PROPN	_	_	14	vocative	_	Gloss=lord|Ref=JOHN_11.27|SpaceAfter=No
 12	:	:	PUNCT	_	_	14	punct	_	Gloss=:|Ref=JOHN_11.27
@@ -129,7 +89,7 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 22	Ọlọ́run	Ọlọ́run	NOUN	_	_	21	nmod	_	Gloss=god|Ref=JOHN_11.27|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=,|Ref=JOHN_11.27
 24	ẹni	ẹni	PRON	_	PronType=Ind	19	appos	_	Gloss=someone|Ref=JOHN_11.27
-25	tí	tí	PRON	_	PronType=Rel	27	nsubj	_	Gloss=that|Ref=JOHN_11.27
+25	tí	tí	PRON	_	PronType=Rel	24	fixed	_	Gloss=that|Ref=JOHN_11.27
 26	ń	ń	AUX	_	_	27	aux	_	Gloss=is|Ref=JOHN_11.27
 27	bọ̀	bọ̀	VERB	_	_	24	acl	_	Gloss=come|Ref=JOHN_11.27
 28	wá	wá	VERB	_	_	27	compound:svc	_	Gloss=come|Ref=JOHN_11.27
@@ -137,6 +97,46 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 30	ayé	ayé	NOUN	_	_	27	obl	_	Gloss=earth|Ref=JOHN_11.27|SpaceAfter=No
 31	.	.	PUNCT	_	_	14	punct	_	Gloss=.|Ref=JOHN_11.27|SpaceAfter=No
 32	”	”	PUNCT	_	_	14	punct	_	Gloss=”|Ref=JOHN_11.27
+
+~~~
+
+
+~~~ conllu
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 22 appos	color:blue
+1	Fún	fún	ADP	_	_	2	case	_	_
+2	àpẹrẹ	àpẹrẹ	NOUN	_	_	8	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	nọ́mbà	nọ́mbà	NOUN	_	_	8	nsubj	_	_
+5	gidi	gidi	ADJ	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	amod	_	_
+6	nìkan	nìkan	ADV	_	PronType=Ind	8	advmod	_	_
+7	kò	kò	PART	_	_	8	advmod	_	_
+8	ní	ní	VERB	_	_	0	root	_	_
+9	ojúùtú	ojúùtú	NOUN	_	_	8	obj	_	_
+10	fún	fún	ADP	_	_	11	case	_	_
+11	ìdọ́gba	ìdọ́gba	NOUN	_	_	8	obl	_	_
+12	aljebra	aljebra	NOUN	_	_	11	nmod	_	_
+13	alápọ̀ọ́nlépúpọ̀	alápọ̀ọ́nlépúpọ̀	NOUN	_	_	12	nmod	_	_
+14	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	polynomial	polynomial	NOUN	_	_	13	appos	_	SpaceAfter=No
+16	)	)	PUNCT	_	_	15	punct	_	_
+17	pẹ̀lú	pẹ̀lú	ADP	_	_	18	case	_	_
+18	nọ́mbà	nọ́mbà	NOUN	_	_	13	nmod	_	_
+19	àfise	àfise	NOUN	_	_	18	nmod	_	_
+20	gidi	gidi	ADJ	_	_	18	amod	_	_
+21	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	coefficient	coefficient	NOUN	_	_	18	appos	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	29	punct	_	_
+25	sùgbọ̀n	sùgbọ̀n	CCONJ	_	_	29	cc	_	_
+26	àwọn	àwọn	DET	_	_	27	det	_	_
+27	nọ́mbà	nọ́mbà	NOUN	_	_	29	nsubj	_	_
+28	tósòro	tósòro	ADJ	_	_	27	amod	_	_
+29	ní	ní	VERB	_	_	8	conj	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n
 
 ~~~
 

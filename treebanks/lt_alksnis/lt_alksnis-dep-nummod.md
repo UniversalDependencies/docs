@@ -26,7 +26,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	2004	2004	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	2	nummod	2:nummod	_
 2	m	m.	NOUN	sutr.	Abbr=Yes	4	nmod	4:nmod	SpaceAfter=No
 3	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
-4	rugpjūčio	rugpjūtis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
+4	rugpjūčio	rugpjūtis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod:gen	_
 5	9	9	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	6	nummod	6:nummod	_
 6	d	d.	X	sutr.	Abbr=Yes	0	root	0:root	SpaceAfter=No
 7	.	.	PUNCT	skyr.	_	6	punct	6:punct	_
@@ -44,15 +44,15 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 7 nummod	color:blue
 1	Į	į	ADP	prl.G.	AdpType=Prep|Case=Acc	2	case	2:case	_
-2	aplinką	aplinka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	6	obl	6:obl	_
+2	aplinką	aplinka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	6	obl	6:obl:į:acc	_
 3	tokiu	toks	DET	įv.vyr.vns.Įn.	Case=Ins|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	4	det	4:det	_
-4	atveju	atvejis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	6	obl	6:obl	_
+4	atveju	atvejis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	6	obl	6:obl:ins	_
 5	būtų	būti	AUX	vksm.asm.tar.3.	Mood=Cnd|Person=3|Polarity=Pos|VerbForm=Fin	6	cop	6:cop	_
 6	išskiriama	išskirti	VERB	vksm.dlv.neveik.es.bev.	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	_
 7	4	4	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	8	nummod	8:nummod	_
 8	kg	kg	X	sutr.	Abbr=Yes	9	obl	9:obl	_
 9	mažiau	mažai	ADV	prv.aukšt.	Degree=Cmp	6	advmod	6:advmod	_
-10	teršalų	teršalas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	9	nmod	9:nmod	SpaceAfter=No
+10	teršalų	teršalas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	9	nmod	9:nmod:gen	SpaceAfter=No
 11	.	.	PUNCT	skyr.	_	6	punct	6:punct	_
 
 ~~~

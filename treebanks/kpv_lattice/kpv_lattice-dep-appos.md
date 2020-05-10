@@ -13,7 +13,7 @@ This relation is universal.
 8 instances of `appos` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.625.
 
-The following 5 pairs of parts of speech are connected with `appos`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (3; 38% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 13% instances).
+The following 5 pairs of parts of speech are connected with `appos`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (3; 38% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -23,9 +23,9 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 6 appos	color:blue
 1	Сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	быдмис	быдмыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	Парижын	Париж	NOUN	N	Case=Ine|Number=Sing	2	obl	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	5	punct	_	_
+2	быдмис	быдмыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	Парижын	Париж	NOUN	N	Case=Ine|Number=Sing	2	obl:lmod	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	Францияса	Франция	ADJ	A	Case=Nom|Number=Sing	6	amod	_	_
 6	юркарын	юркар	NOUN	N	Case=Ine|Number=Sing	3	appos	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -42,8 +42,8 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 1	Став	став	DET	Det	Case=Nom|Number=Sing	2	det	_	_
 2	челядь	челядь	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
 3	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	4	nmod	_	_
-4	странаын	страна	NOUN	N	Case=Ine|Number=Sing	5	obl	_	_
-5	тӧдӧны	тӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	странаын	страна	NOUN	N	Case=Ine|Number=Sing	5	obl:lmod	_	_
+5	тӧдӧны	тӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
 6	Климент	Климент	PROPN	N	Case=Nom|Number=Sing	5	obj	_	_
 7	Ефремович	Ефрем	PROPN	N	Case=Nom|Number=Sing	6	flat:name	_	_
 8	Ворошиловӧс	Ворошилов	PROPN	N	Case=Acc|Number=Sing	7	flat:name	_	SpaceAfter=No

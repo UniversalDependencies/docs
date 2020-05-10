@@ -254,10 +254,10 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3654; 99%),
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2110; 98%),
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-case.html">case</a></tt>]--> ADP</tt> (1761; 98%),
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-acl.html">acl</a></tt>]--> VERB</tt> (1553; 74%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-acl.html">acl</a></tt>]--> VERB</tt> (1527; 84%),
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-det.html">det</a></tt>]--> DET</tt> (895; 99%),
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (528; 56%),
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (460; 62%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (512; 57%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (456; 62%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (406; 96%),
 <tt>ADJ --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> ADJ</tt> (272; 98%),
 <tt>ADJ --[<tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (208; 96%).

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-176 nodes (0%) are attached to their parents as `xcomp`.
+280 nodes (0%) are attached to their parents as `xcomp`.
 
-176 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.76704545454545.
+280 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.69642857142857.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (113; 64% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (53; 30% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (10; 6% instances).
+The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (184; 66% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (85; 30% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (11; 4% instances).
 
 
 ~~~ conllu

@@ -6,80 +6,86 @@ udver: '2'
 
 ## Treebank Statistics: UD_Naija-NSC: POS Tags: `PART`
 
-There are 9 `PART` lemmas (1%), 9 `PART` types (1%) and 85 `PART` tokens (1%).
-Out of 17 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 14 in number of tokens.
+There are 22 `PART` lemmas (1%), 26 `PART` types (1%) and 2360 `PART` tokens (2%).
+Out of 16 observed tags, the rank of `PART` is: 14 in number of lemmas, 15 in number of types and 11 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>to, na, be, no, dem, naim, oya, n~, sey</em>
+The 10 most frequent `PART` lemmas: <em>no, o, sef, not, sha, dem, ni, ma, shey, nko</em>
 
-The 10 most frequent `PART` types:  <em>to, na, be, no, dem, naim, oya, n~, sey</em>
+The 10 most frequent `PART` types:  <em>no, o, sef, sha, not, dem, ni, n't, ma, shey</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> 44, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 36, <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>na</em> (<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> 188, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 15, <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 4, <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 1), <em>be</em> (<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> 81, <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 59, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 14), <em>no</em> (<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 219, <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 11), <em>dem</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 159, <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 50, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 3), <em>naim</em> (<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 7, <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 2), <em>oya</em> (<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 2), <em>sey</em> (<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 194, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>no</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1468, <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 4), <em>sha</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 58, <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 1), <em>dem</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 1843, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 39, <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 1), <em>ma</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 17, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 3), <em>nko</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 6, <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 1), <em>bah</em> (<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 3), <em>ba</em> (<tt><a href="pcm_nsc-pos-X.html">X</a></tt> 4, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 2), <em>mai</em> (<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 2), <em>ke</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 1), <em>now</em> (<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 661, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> 44, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 36, <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>na</em> (<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> 188, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 15, <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 4, <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 1), <em>be</em> (<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 59, <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> 46, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 14), <em>no</em> (<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 219, <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 11), <em>dem</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 159, <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 50, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 3), <em>naim</em> (<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 7, <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 2), <em>oya</em> (<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 2), <em>sey</em> (<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 194, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1458, <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 4), <em>sha</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 58, <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 1), <em>dem</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 726, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 39, <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 1), <em>ma</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 17, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 3), <em>bah</em> (<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 3), <em>ba</em> (<tt><a href="pcm_nsc-pos-X.html">X</a></tt> 4, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 2), <em>mai</em> (<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 2), <em>ke</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 1), <em>na</em> (<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> 1726, <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 11, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 2, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1)
 
 
-* <em>to</em>
-  * <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> 44: <em># make dem dig gutter put for where rain wata suppose <b>to</b> dey pass //</em>
-  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 36: <em>{ dem no || dem no } dey like <b>to</b> bring am //</em>
-  * <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 2: <em><b>to</b> rent house now < na wahala //= <b>to</b> feed < na wahala //</em>
-* <em>na</em>
-  * <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> 188: <em># <b>na</b> farmer dem >+ dey happy pass # when rain fall like dis //</em>
-  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 15: <em># after { food |c # and house } <+ <b>na</b> motor >+ dey follow //</em>
-  * <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 4: <em>ah no be since day before yesterday <b>na</b> dem seize di light sef //</em>
-  * <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 1: <em>you know sey [ { anytin~ || everything } now for dis Lagos <b>na</b> money o ] //</em>
-* <em>be</em>
-  * <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 59: <em>im get one man wey <b>be</b> sey im don carry people dey go abroad //</em>
-  * <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> 46: <em># na im >+ <b>be</b> dat one wey oyibo dey call Urban Mass Transit System //</em>
-  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 14: <em>dat one <b>be</b> sey im don comot for here just go stay for im own town now //</em>
 * <em>no</em>
-  * <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 219: <em># make God <b>no</b> let our { property |c or life } follow rain go like dat //</em>
-  * <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 16: <em># <b>no</b> <b>no</b> na love >+ I dey talk //</em>
-  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 11: <em>{ dem <b>no</b> || dem no } dey like to bring am //</em>
+  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1458: <em># my grand moder { say dis farm || # say dis farm } <b>no</b> go good for me //</em>
+  * <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 16: <em>de go dey # carry dem dey # export dem as if <b>no</b> de be # rice //</em>
+  * <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 4: <em># <b>no</b> money //</em>
+* <em>sha</em>
+  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 58: <em># but < later on < one of di female <b>sha</b> { wan || wan || don } die //</em>
+  * <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 1: <em># so di next time wey you drive your motor to go [hau <b>sha</b> mai for gidan mai hau] < no be sey [ di five naira go comot directly from you ] //</em>
 * <em>dem</em>
-  * <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 159: <em># make <b>dem</b> dig gutter put for where rain wata suppose to dey pass //</em>
-  * <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 50: <em># na farmer <b>dem</b> >+ dey happy pass # when rain fall like dis //</em>
-  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 3: <em># first of all < # dis kind thing don come make to dey come late for work > master worker <b>dem</b> // #</em>
-* <em>naim</em>
-  * <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 7: <em><b>naim</b> we dey softly dey manage unasef for dere //</em>
-  * <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 4: <em>na in di evening time ( zero zero one ) >+ <b>naim</b> im come dey eat now //</em>
-  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 2: <em># em na distraction >+ <b>naim</b> oyibo man go call am //</em>
-* <em>oya</em>
-  * <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 6: <em><b>oya</b> make we go cook for ma house //</em>
-  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 2: <em># ehen <b>oya</b> babe //</em>
-* <em>sey</em>
-  * <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 194: <em># anyway < # we thank God <b>sey</b> nobody die inside dis rain o //</em>
-  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1: <em>"uh" { me I || me I } know <b>sey</b> God dey o //</em>
+  * <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 726: <em># mah go do |c and <b>dem</b> go pay me money //</em>
+  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 39: <em># kai our mama <b>dem</b> < de dey try o //</em>
+  * <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 1: <em># but when <b>dem</b> talk sey [ person now < by force by fire < # you go go your husband house //= { go || go } husband house //] < # person come here //</em>
+* <em>ma</em>
+  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 17: <em># na dis year own <b>ma</b> >+ con worse pass //</em>
+  * <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 3: <em>under dis government [yor naa ni olorun <b>ma</b> wa saanu wa yor] //</em>
+* <em>bah</em>
+  * <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 3: <em># I don add my garden egg >+ be dat <b>bah</b> ?//</em>
+  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 3: <em># di girl <b>bah</b> say [ okay e no go sleep ?//] //</em>
+* <em>ba</em>
+  * <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 4: <em>[yor won ni tawon Kini Kan <b>ba</b> wole { pelu ibon |c pelu bullet } ogbeni dubule yor] //</em>
+  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 2: <em># food <b>ba</b> ?//</em>
+* <em>mai</em>
+  * <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> 2: <em># so di next time wey you drive your motor to go [hau sha <b>mai</b> for gidan <b>mai</b> hau] < no be sey [ di five naira go comot directly from you ] //</em>
+  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 2: <em># ehen if you con check di North now < # { most of dem ( like for dis Abuja ) || most of dem } na # [hau { <b>mai</b> ruwa |c <b>mai</b> barrow } hau] //</em>
+* <em>ke</em>
+  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1: <em># [hau shi >+ <b>ke</b> nan hau] //</em>
+  * <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 1: <em>[yor olorun maa tun saanu mi <b>ke</b> yor] //</em>
+* <em>na</em>
+  * <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> 1726: <em>but to see am do < # <b>na</b> im >+ con dey hard //</em>
+  * <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 11: <em># <b>na</b> e get as { dis || dis || dis || dis life || dis life } //</em>
+  * <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 2: <em># { I wonder || I wonder why || I wonder } # as [igb mgbe a gasi <b>na</b> uwa ne eme ntughari <b>na</b> eziokwu true igb] //</em>
+  * <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1: <em>{ but || # but } dat personal encounter <b>na</b> make me say [ ah # I believe in God { not because de born me for Christian home |c # because of dat my personal encounter wit God } ] //</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.000884).
+The form / lemma ratio of `PART` is 1.181818 (the average of all parts of speech is 1.151606).
 
-The 1st highest number of forms (1) was observed with the lemma “be”: <em>be</em>.
+The 1st highest number of forms (3) was observed with the lemma “no”: <em>din't, don't, no</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “dem”: <em>dem</em>.
+The 2nd highest number of forms (2) was observed with the lemma “not”: <em>n't, not</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “na”: <em>na</em>.
+The 3rd highest number of forms (2) was observed with the lemma “sef”: <em>sef, self</em>.
 
-`PART` does not occur with any features.
+`PART` occurs with 6 features: <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt> (1508; 64% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (731; 31% instances), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt> (45; 2% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (39; 2% instances), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt> (1; 0% instances)
+
+`PART` occurs with 7 feature-value pairs: `Number=Plur`, `PartType=Disc`, `Person=3`, `Polarity=Neg`, `PronType=Art`, `PronType=Int`, `Tense=Past`
+
+`PART` occurs with 8 feature combinations.
+The most frequent feature combination is `Polarity=Neg` (1507 tokens).
+Examples: <em>no, not, don't, din't</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 14 different relations: <tt><a href="pcm_nsc-dep-mark.html">mark</a></tt> (40; 47% instances), <tt><a href="pcm_nsc-dep-orphan.html">orphan</a></tt> (9; 11% instances), <tt><a href="pcm_nsc-dep-root.html">root</a></tt> (8; 9% instances), <tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt> (6; 7% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (6; 7% instances), <tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt> (4; 5% instances), <tt><a href="pcm_nsc-dep-acl-relcl.html">acl:relcl</a></tt> (3; 4% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-dep-ccomp.html">ccomp</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-parataxis-obj.html">parataxis:obj</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-vocative.html">vocative</a></tt> (1; 1% instances)
+`PART` nodes are attached to their parents using 16 different relations: <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (1491; 63% instances), <tt><a href="pcm_nsc-dep-advmod-emph.html">advmod:emph</a></tt> (724; 31% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (41; 2% instances), <tt><a href="pcm_nsc-dep-root.html">root</a></tt> (21; 1% instances), <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (18; 1% instances), <tt><a href="pcm_nsc-dep-flat-foreign.html">flat:foreign</a></tt> (18; 1% instances), <tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt> (17; 1% instances), <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt> (10; 0% instances), <tt><a href="pcm_nsc-dep-advmod-periph.html">advmod:periph</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-dep-parataxis.html">parataxis</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-dep-advcl-cleft.html">advcl:cleft</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (46; 54% instances),  (8; 9% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (7; 8% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (7; 8% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (5; 6% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 1% instances)
+Parents of `PART` nodes belong to 14 different parts of speech: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1328; 56% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (477; 20% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (136; 6% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (126; 5% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (76; 3% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (43; 2% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (39; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (36; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (29; 1% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (27; 1% instances),  (21; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
-59 (69%) `PART` nodes are leaves.
+2252 (95%) `PART` nodes are leaves.
 
-8 (9%) `PART` nodes have one child.
+47 (2%) `PART` nodes have one child.
 
-4 (5%) `PART` nodes have two children.
+24 (1%) `PART` nodes have two children.
 
-14 (16%) `PART` nodes have three or more children.
+37 (2%) `PART` nodes have three or more children.
 
-The highest child degree of a `PART` node is 5.
+The highest child degree of a `PART` node is 13.
 
-Children of `PART` nodes are attached using 18 different relations: <tt><a href="pcm_nsc-dep-punct.html">punct</a></tt> (33; 48% instances), <tt><a href="pcm_nsc-dep-nsubj.html">nsubj</a></tt> (6; 9% instances), <tt><a href="pcm_nsc-dep-ccomp.html">ccomp</a></tt> (4; 6% instances), <tt><a href="pcm_nsc-dep-mark.html">mark</a></tt> (4; 6% instances), <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (3; 4% instances), <tt><a href="pcm_nsc-dep-obj.html">obj</a></tt> (3; 4% instances), <tt><a href="pcm_nsc-dep-advmod-emph.html">advmod:emph</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-dep-aux.html">aux</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-dep-vocative.html">vocative</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-csubj-quasi.html">csubj:quasi</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-nsubj-expl.html">nsubj:expl</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-orphan.html">orphan</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
+Children of `PART` nodes are attached using 21 different relations: <tt><a href="pcm_nsc-dep-punct.html">punct</a></tt> (136; 53% instances), <tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt> (17; 7% instances), <tt><a href="pcm_nsc-dep-advmod-emph.html">advmod:emph</a></tt> (16; 6% instances), <tt><a href="pcm_nsc-dep-flat-foreign.html">flat:foreign</a></tt> (16; 6% instances), <tt><a href="pcm_nsc-dep-nsubj.html">nsubj</a></tt> (11; 4% instances), <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt> (10; 4% instances), <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (10; 4% instances), <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (7; 3% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (6; 2% instances), <tt><a href="pcm_nsc-dep-dislocated.html">dislocated</a></tt> (5; 2% instances), <tt><a href="pcm_nsc-dep-xcomp.html">xcomp</a></tt> (4; 2% instances), <tt><a href="pcm_nsc-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-dep-advcl-periph.html">advcl:periph</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-dep-flat.html">flat</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-dep-obl-mod.html">obl:mod</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-advmod-periph.html">advmod:periph</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-cop.html">cop</a></tt> (1; 0% instances)
 
-Children of `PART` nodes belong to 11 different parts of speech: <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (33; 48% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (9; 13% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (6; 9% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (5; 7% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances)
+Children of `PART` nodes belong to 15 different parts of speech: <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (136; 53% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (39; 15% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (15; 6% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (12; 5% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (11; 4% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (10; 4% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (5; 2% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 

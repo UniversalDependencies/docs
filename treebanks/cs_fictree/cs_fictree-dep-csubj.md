@@ -26,13 +26,13 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 1	A	a	CCONJ	J^-------------	_	5	cc	5:cc	_
 2	jednou	jednou	ADV	Db-------------	_	5	advmod	5:advmod	_
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	5:expl:pv	_
-4	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obj	5:obj	_
+4	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obl:arg	5:obl:arg:dat	_
 5	stalo	stát	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 6	,	,	PUNCT	Z:-------------	_	11	punct	11:punct	_
 7	že	že	SCONJ	J,-------------	_	11	mark	11:mark	_
 8	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	11:aux	_
 9	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	10:case	_
-10	práci	práce	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	11	obl	11:obl	_
+10	práci	práce	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	11	obl	11:obl:v:loc	_
 11	usnul	usnout	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	csubj	5:csubj	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
@@ -51,8 +51,8 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 4	možno	možný	ADJ	ACNS------A----	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short	0	root	0:root	_
 5	jen	jen	PART	TT-------------	_	7	advmod:emph	7:advmod:emph	_
 6	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	7	case	7:case	_
-7	chvilkách	chvilka	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	4	obl	4:obl	_
-8	osamění	osamění	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	7	nmod	7:nmod	SpaceAfter=No
+7	chvilkách	chvilka	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	4	obl	4:obl:v:loc	_
+8	osamění	osamění	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	7	nmod	7:nmod:gen	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	SpaceAfter=No
 10	)	)	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
@@ -71,7 +71,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 4	děje	dít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	10:csubj	_
 5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	7:case	_
 6	té	ten	DET	PDFS6----------	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	7	det	7:det	_
-7	kuchyni	kuchyně	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	4:obl	SpaceAfter=No
+7	kuchyni	kuchyně	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	4:obl:v:loc	SpaceAfter=No
 8	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
 9	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	10:cop	_
 10	hrůza	hrůza	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	0:root	SpaceAfter=No

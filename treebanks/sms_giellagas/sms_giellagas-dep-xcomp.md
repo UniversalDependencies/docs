@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (3%) are attached to their parents as `xcomp`.
+16 nodes (1%) are attached to their parents as `xcomp`.
 
-6 instances of `xcomp` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5.
+8 instances of `xcomp` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.5625.
 
-The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (6; 60% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (4; 40% instances).
+The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (11; 69% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (5; 31% instances).
 
 
 ~~~ conllu
@@ -39,10 +39,10 @@ The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 3 xcomp	color:blue
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	ǩiččlõõddi	ǩiččlõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
+2	ǩiččlõõddi	ǩiččlõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 3	looppted	looppted	VERB	V	VerbForm=Inf	2	xcomp	_	GTtags=Inf
-4	tääbbaǩ	tääbbaǩ	NOUN	N	Case=Gen|Number=Sing	5	obl	_	GTtags=Sg,Gen
-5	puälddmõõžž	puälddmõš	NOUN	N	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc
+4	tääbbaǩ	tääbbaǩ	NOUN	N	Case=Gen|Number=Sing	5	obj	_	GTtags=Sg,Gen
+5	puälddmõõžž	pueʹldded	VERB	V	Case=Acc|Derivation=Vnoun|Number=Sing	3	obj	_	GTtags=Sg,Acc
 6	da	da	CCONJ	CC	_	8	cc	_	_
 7	veeiʹn	veiʹnn	NOUN	N	Case=Gen|Number=Sing	8	obj	_	GTtags=Sg,Gen
 8	juukkmõõžž	juukkmõš	NOUN	N	Case=Acc|Number=Sing	5	conj	_	GTtags=Sg,Acc|SpaceAfter=No

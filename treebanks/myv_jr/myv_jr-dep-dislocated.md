@@ -11,7 +11,7 @@ This relation is universal.
 9 nodes (0%) are attached to their parents as `dislocated`.
 
 5 instances of `dislocated` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.33333333333333.
+Average distance between parent and child is 2.22222222222222.
 
 The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (2; 22% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 11% instances).
 
@@ -54,7 +54,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 dislocated	color:blue
-1	Палько	Палько	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	4	dislocated	_	GTtags=Prop,Sem/Sur,Sg,Nom,Indef
+1	Палько	Палько	PROPN	N	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	dislocated	_	GTtags=Prop,Sem/Sur,Sg,Nom,Indef
 2	кудосонть	кудо	NOUN	N	Case=Ine|Definite=Def|Number=Sing	4	obl	_	GTtags=Sem/Plc,Sg,Ine,Def
 3	а	а	AUX	Pcle	Polarity=Neg	4	aux:neg	_	GTtags=Neg
 4	неяви	неявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No

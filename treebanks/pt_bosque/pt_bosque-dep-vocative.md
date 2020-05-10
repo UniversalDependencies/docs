@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (0%) are attached to their parents as `vocative`.
+15 nodes (0%) are attached to their parents as `vocative`.
 
-7 instances of `vocative` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.07142857142857.
+8 instances of `vocative` (53%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.8.
 
-The following 6 pairs of parts of speech are connected with `vocative`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (7; 50% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (2; 14% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (2; 14% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 7% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 7% instances).
+The following 6 pairs of parts of speech are connected with `vocative`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (7; 47% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (3; 20% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 7% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -40,22 +40,6 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 vocative	color:blue
-1	Gente	gente	NOUN	_	Gender=Fem|Number=Sing	5	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	1	punct	_	_
-3	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	cada	cada	DET	_	Gender=Masc|Number=Sing|PronType=Tot	5	det	_	_
-5	piranhão	piranhão	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-6	!	!	PUNCT	_	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 vocative	color:blue
@@ -70,6 +54,22 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 9	fazer	fazer	VERB	_	VerbForm=Inf	7	xcomp	_	_
 10	nada	nada	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	9	obj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 vocative	color:blue
+1	Gente	gente	NOUN	_	Gender=Fem|Number=Sing	5	vocative	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	cada	cada	DET	_	Gender=Masc|Number=Sing|PronType=Tot	5	det	_	_
+5	piranhão	piranhão	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

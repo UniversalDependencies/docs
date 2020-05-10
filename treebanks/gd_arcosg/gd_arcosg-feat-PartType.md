@@ -9,25 +9,25 @@ udver: '2'
 This feature is language-specific.
 It occurs with 8 different values: `Ad`, `Cmpl`, `Comp`, `Inf`, `Num`, `Pat`, `Vb`, `Voc`.
 
-2696 tokens (6%) have a non-empty value of `PartType`.
-33 types (1%) occur at least once with a non-empty value of `PartType`.
-24 lemmas (1%) occur at least once with a non-empty value of `PartType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2648; 6% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (39; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+2602 tokens (6%) have a non-empty value of `PartType`.
+29 types (1%) occur at least once with a non-empty value of `PartType`.
+20 lemmas (0%) occur at least once with a non-empty value of `PartType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2554; 6% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (40; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (8; 0% instances).
 
 ### `PART`
 
-2648 <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> tokens (63% of all `PART` tokens) have a non-empty value of `PartType`.
+2554 <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> tokens (61% of all `PART` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2108; 80%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1424; 54%).
+The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2013; 79%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1327; 52%).
 
 `PART` tokens may have the following values of `PartType`:
 
-* `Ad` (272; 10% of non-empty `PartType`): <em>gu, gun, gum, 'g, g'</em>
-* `Cmpl` (490; 19% of non-empty `PartType`): <em>cha, nach, chan</em>
+* `Ad` (171; 7% of non-empty `PartType`): <em>gu</em>
+* `Cmpl` (491; 19% of non-empty `PartType`): <em>cha, nach, chan</em>
 * `Comp` (85; 3% of non-empty `PartType`): <em>nas, na, b', bu, 's</em>
-* `Inf` (518; 20% of non-empty `PartType`): <em>a</em>
+* `Inf` (521; 20% of non-empty `PartType`): <em>a</em>
 * `Num` (15; 1% of non-empty `PartType`): <em>a</em>
-* `Vb` (1230; 46% of non-empty `PartType`): <em>a, an, na, nach, am, 'm, ‘n</em>
+* `Vb` (1233; 48% of non-empty `PartType`): <em>a, an, na, nach, am, 'm, ‘n</em>
 * `Voc` (38; 1% of non-empty `PartType`): <em>a</em>
 
 <table>
@@ -39,13 +39,13 @@ The most frequent other feature values with which `PART` and `PartType` co-occur
 
 ### `NOUN`
 
-39 <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `PartType`.
+40 <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `NOUN` and `PartType` co-occurred: <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (39; 100%).
+The most frequent other feature values with which `NOUN` and `PartType` co-occurred: <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (40; 100%).
 
 `NOUN` tokens may have the following values of `PartType`:
 
-* `Pat` (39; 100% of non-empty `PartType`): <em>mac, 'ic, O, Nic, Ó, Mc</em>
+* `Pat` (40; 100% of non-empty `PartType`): <em>mac, 'ic, O, Nic, Ó, Mc</em>
 
 ### `PROPN`
 
@@ -56,14 +56,6 @@ The most frequent other feature values with which `PROPN` and `PartType` co-occu
 `PROPN` tokens may have the following values of `PartType`:
 
 * `Pat` (8; 100% of non-empty `PartType`): <em>Mac, O</em>
-
-### `SCONJ`
-
-1 <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `PartType`.
-
-`SCONJ` tokens may have the following values of `PartType`:
-
-* `Ad` (1; 100% of non-empty `PartType`): <em>gun</em>
 
 ## Relations with Agreement in `PartType`
 

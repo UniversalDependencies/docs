@@ -132,8 +132,8 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (281; 77%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (134; 74%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (37; 74%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-acl.html">acl</a></tt>]--> ADJ</tt> (4; 57%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-obj.html">obj</a></tt>]--> ADJ</tt> (8; 57%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> ADJ</tt> (2; 67%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (2; 67%),
-<tt>ADV --[<tt><a href="cs_pdt-dep-obl-arg.html">obl:arg</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="cs_pdt-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%).
 

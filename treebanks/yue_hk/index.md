@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Kim Gerdes, John Lee, Herman Leung, Tak-sum Wong.
 
 Repository: [UD_Cantonese-HK](https://github.com/UniversalDependencies/UD_Cantonese-HK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyue_hk25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyue_hk26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 
@@ -187,11 +187,11 @@ This work was partially supported by a grant from the PROCORE-France/Hong Kong J
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: _, 係, 係咪.</li>
+<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: _、 係、 係咪.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 26 lemmas as auxiliaries (<a>aux</a>). Examples: _, 咗, 要, 唔好, 過, 可以, 會, 中意, 冇, 想, 緊, 唔使, 得, 應該, 有, 覺得, 住, 識, 可, 可能, 識得, 好, 希望, 肯, 該, 需要.</li>
+<li>This corpus uses 26 lemmas as auxiliaries (<a>aux</a>). Examples: _、 咗、 要、 唔好、 過、 可以、 會、 中意、 冇、 想、 緊、 唔使、 得、 應該、 有、 覺得、 住、 識、 可、 可能、 識得、 好、 希望、 肯、 該、 需要.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-111 nodes (4%) are attached to their parents as `nmod`.
+635 nodes (8%) are attached to their parents as `nmod`.
 
-107 instances of `nmod` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.38738738738739.
+587 instances of `nmod` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.58110236220472.
 
-The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (52; 47% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (41; 37% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (7; 6% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 25 pairs of parts of speech are connected with `nmod`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (316; 50% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (151; 24% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (26; 4% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (24; 4% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (23; 4% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (20; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (18; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (14; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,39 +56,27 @@ The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 9 nmod	color:blue
-1	Nígbà	nígbà	ADV	_	_	6	advmod	_	Gloss=when|Ref=JOHN_11.38
-2	náà	náà	ADV	_	_	6	advmod	_	Gloss=that|Ref=JOHN_11.38
-3	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=JOHN_11.38
-4	Jésù	jésù	PROPN	_	_	6	nsubj	_	Gloss=jesus|Ref=JOHN_11.38
-5	tún	tún	ADV	_	_	6	advmod	_	Gloss=again|Ref=JOHN_11.38
-6	kérora	kérora	VERB	_	_	12	advcl	_	Gloss=groan|Ref=JOHN_11.38
-7	nínú	nínú	ADP	_	_	8	case	_	Gloss=in|Ref=JOHN_11.38
-8	ara	ara	PRON	_	PronType=Emp	6	obl	_	Gloss=self|Ref=JOHN_11.38
-9	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Gloss=his|Ref=JOHN_11.38|SpaceAfter=No
-10	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=JOHN_11.38
-11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=he|Ref=JOHN_11.38
-12	wá	wá	VERB	_	_	0	root	_	Gloss=come|Ref=JOHN_11.38
-13	sí	sí	ADP	_	_	14	case	_	Gloss=to|Ref=JOHN_11.38
-14	ibojì	ibojì	NOUN	_	_	12	obl	_	Gloss=sepulchre|Ref=JOHN_11.38|SpaceAfter=No
-15	,	,	PUNCT	_	_	19	punct	_	Gloss=,|Ref=JOHN_11.38
-16	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Gloss=he|Ref=JOHN_11.38
-17	sì	sì	CCONJ	_	_	19	cc	_	Gloss=then|Ref=JOHN_11.38
-18	jẹ́	jẹ́	AUX	_	_	19	cop	_	Gloss=be|Ref=JOHN_11.38
-19	ihò	ihò	NOUN	_	_	12	conj	_	Gloss=cave|Ref=JOHN_11.38|SpaceAfter=No
-20	,	,	PUNCT	_	_	23	punct	_	Gloss=,|Ref=JOHN_11.38
-21	a	a	PRON	_	_	23	nsubj	_	Gloss=we|Ref=JOHN_11.38
-22	sì	sì	CCONJ	_	_	23	cc	_	Gloss=then|Ref=JOHN_11.38
-23	gbé	gbé	VERB	_	_	19	conj	_	Gloss=put|Ref=JOHN_11.38
-24	òkúta	òkúta	NOUN	_	_	23	obj	_	Gloss=stone|Ref=JOHN_11.38
-25	lé	lé	VERB	_	_	23	compound:svc	_	Gloss=on|Ref=JOHN_11.38
-26	ẹnu	ẹnu	NOUN	_	_	25	obj	_	Gloss=mouth|Ref=JOHN_11.38
-27	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	26	nmod	_	Gloss=it|Ref=JOHN_11.38|SpaceAfter=No
-28	.	.	PUNCT	_	_	12	punct	_	Gloss=.|Ref=JOHN_11.38
+# visual-style 8 6 nmod	color:blue
+1	Alábùkún	Alábùkún	ADJ	_	_	8	nsubj	_	Ref=MATT_5.4|SpaceAfter=No|Gloss=blessed
+2	-	-	PUNCT	_	_	3	punct	_	Ref=MATT_5.4|SpaceAfter=No|Gloss=the
+3	fún	fún	ADP	_	_	1	compound	_	Ref=MATT_5.4|Gloss=unto
+4	ni	ni	PART	_	_	6	case	_	Ref=MATT_5.4|Gloss=is
+5	àwọn	àwọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nmod	_	Ref=MATT_5.4|Gloss=they
+6	tí	tí	PRON	_	PronType=Rel	8	nmod	_	Ref=MATT_5.4|Gloss=that
+7	ń	ń	AUX	_	_	8	aux	_	Ref=MATT_5.4|Gloss=that
+8	ṣọ̀fọ̀	ṣọ̀fọ̀	VERB	_	_	0	root	_	Ref=MATT_5.4|SpaceAfter=No|Gloss=mourn
+9	,	,	PUNCT	_	_	13	punct	_	Ref=MATT_5.4|Gloss=,
+10	nítorí	nítorí	SCONJ	_	_	13	mark	_	Ref=MATT_5.4|Gloss=for
+11	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	Ref=MATT_5.4|Gloss=we
+12	ó	ó	AUX	_	_	13	aux	_	Ref=MATT_5.4|Gloss=will
+13	tù	tù	VERB	_	_	8	advcl	_	Ref=MATT_5.4|Gloss=comfort
+14	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	obj	_	Ref=MATT_5.4|Gloss=them
+15	nínú	nínú	ADP	_	_	13	obl	_	Ref=MATT_5.4|SpaceAfter=No|Gloss=inside
+16	.	.	PUNCT	_	_	8	punct	_	Ref=MATT_5.4|Gloss=.
 
 ~~~
 

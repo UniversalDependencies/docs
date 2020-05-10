@@ -23,16 +23,16 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 17	fgColor:white
 # visual-style 17 18 goeswith	color:blue
 1	Медым	медым	SCONJ	CS	_	2	mark	_	_
-2	содтыны	содтыны	VERB	V	VerbForm=Inf	0	root	_	_
+2	содтыны	содтыны	VERB	V	VerbForm=Inf	7	advcl	_	_
 3	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	4	obj	_	_
 4	идралӧмын	идравны	VERB	V	Case=Ine|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
 5	ӧдъяс	ӧд	NOUN	N	Case=Nom|Number=Plur	2	obj	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
-7	колӧ	ковны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+7	колӧ	ковны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 8	не	не	PART	Pcle	_	10	advmod	_	_
 9	сӧмын	сӧмын	ADV	Adv	_	10	advmod	_	_
 10	сувтӧдны	сувтӧдны	VERB	V	VerbForm=Inf	7	xcomp	_	_
-11	удж	удж	NOUN	N	Case=Nom|Number=Sing	10	obl	_	_
+11	удж	удж	NOUN	N	Case=Nom|Number=Sing	10	obl:lmod	_	_
 12	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	11	case	_	_
 13	став	став	DET	Det	Case=Nom|Number=Sing	14	det	_	_
 14	вундан	вундыны	VERB	V	Case=Nom|Derivation=An|Number=Sing|PartForm=Pres|VerbForm=Part	15	acl	_	_
@@ -52,7 +52,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 28	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	29	nmod	_	_
 29	идралӧм	идравны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	24	obl	_	_
 30	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	29	case	_	SpaceAfter=No
-31	.	.	PUNCT	CLB	_	2	punct	_	_
+31	.	.	PUNCT	CLB	_	7	punct	_	_
 
 ~~~
 

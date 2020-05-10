@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Lithuanian-ALKSNIS: POS Tags: `SCONJ`
 
-There are 16 `SCONJ` lemmas (0%), 16 `SCONJ` types (0%) and 1379 `SCONJ` tokens (2%).
+There are 17 `SCONJ` lemmas (0%), 17 `SCONJ` types (0%) and 1423 `SCONJ` tokens (2%).
 Out of 17 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 16 in number of types and 14 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>kad, kaip, nes, kai, jei, jeigu, jog, nei, nors, negu</em>
+The 10 most frequent `SCONJ` lemmas: <em>kad, kaip, nes, kai, jei, jeigu, jog, nei, nors, ar</em>
 
-The 10 most frequent `SCONJ` types:  <em>kad, kaip, nes, kai, jei, jeigu, jog, nei, nors, negu</em>
+The 10 most frequent `SCONJ` types:  <em>kad, kaip, nes, kai, jei, jeigu, jog, nei, nors, ar</em>
 
-The 10 most frequent ambiguous lemmas: <em>kad</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 559, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 8, <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 1), <em>kaip</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 259, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 30, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 4), <em>kai</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 86, <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> 42), <em>nei</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 55, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 16), <em>nors</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 45, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 37, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 1), <em>tuo</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 2, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 1), <em>lyg</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 2), <em>tarsi</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 21, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 10), <em>kol</em> (<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 21, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>kad</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 559, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 8, <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 1), <em>kaip</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 259, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 30, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 4), <em>kai</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 86, <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> 42), <em>nei</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 55, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 16), <em>nors</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 45, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 37, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 1), <em>ar</em> (<tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 259, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 44, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 33, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 3), <em>tuo</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 2, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 1), <em>lyg</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 2), <em>tarsi</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 21, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 10), <em>kol</em> (<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 21, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 4)
 
-The 10 most frequent ambiguous types:  <em>kad</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 543, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 7, <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 1), <em>kaip</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 242, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 25, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 4), <em>kai</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 70, <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> 32), <em>nei</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 55, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 14), <em>nors</em> (<tt><a href="lt_alksnis-pos-X.html">X</a></tt> 37, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 26, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 1), <em>tuo</em> (<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> 19, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 2), <em>lyg</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 1), <em>tarsi</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 20, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 7), <em>kol</em> (<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 15, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>kad</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 543, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 7, <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 1), <em>kaip</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 242, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 25, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 4), <em>kai</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 70, <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> 32), <em>nei</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 55, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 14), <em>nors</em> (<tt><a href="lt_alksnis-pos-X.html">X</a></tt> 37, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 26, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 1), <em>ar</em> (<tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 258, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 7, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 3), <em>tuo</em> (<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> 19, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 2), <em>lyg</em> (<tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 1), <em>tarsi</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 20, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 7), <em>kol</em> (<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 15, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 3)
 
 
 * <em>kad</em>
@@ -37,6 +37,11 @@ The 10 most frequent ambiguous types:  <em>kad</em> (<tt><a href="lt_alksnis-pos
   * <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 37: <em>Arba kas <b>nors</b> rimčiau – pavyzdžiui , televizijos laidų vedėjas .</em>
   * <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 26: <em>Kremliuje jam ir vieta , <b>nors</b> kai kas gal mano , jog kurioj nors „ Maximoj “ .</em>
   * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 1: <em>Tad antroji hipotezė vis dėlto , <b>nors</b> ir netiesiogiai , – pasitvirtina .</em>
+* <em>ar</em>
+  * <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 258: <em>Solistas <b>ar</b> choristas ?</em>
+  * <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 43: <em>Spėkite , <b>ar</b> jis bus patenkintas ...</em>
+  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 7: <em>Bet <b>ar</b> verta smaugti Vycką ?..</em>
+  * <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 3: <em>Vargu <b>ar</b> ir pats kirpėjas jausdavo kokį malonumą , varydamas ilgus ruožus per mūsų trijų pakaušius .</em>
 * <em>tuo</em>
   * <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> 19: <em>Jie abu rungiasi su kita <b>tuo</b> pačiu principu sudaryta komanda .</em>
   * <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 12: <em>– Kuo dažniau kerpi , <b>tuo</b> greičiau auga !</em>
@@ -53,30 +58,30 @@ The 10 most frequent ambiguous types:  <em>kad</em> (<tt><a href="lt_alksnis-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.065462).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.065341).
 
-The 1st highest number of forms (1) was observed with the lemma “jei”: <em>jei</em>.
+The 1st highest number of forms (1) was observed with the lemma “ar”: <em>ar</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “jeigu”: <em>jeigu</em>.
+The 2nd highest number of forms (1) was observed with the lemma “jei”: <em>jei</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “jog”: <em>jog</em>.
+The 3rd highest number of forms (1) was observed with the lemma “jeigu”: <em>jeigu</em>.
 
 `SCONJ` occurs with 1 features: <tt><a href="lt_alksnis-feat-Hyph.html">Hyph</a></tt> (4; 0% instances)
 
 `SCONJ` occurs with 1 feature-value pairs: `Hyph=Yes`
 
 `SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1375 tokens).
-Examples: <em>kad, kaip, nes, kai, jei, jeigu, jog, nei, nors, negu</em>
+The most frequent feature combination is `_` (1419 tokens).
+Examples: <em>kad, kaip, nes, kai, jei, jeigu, jog, nei, nors, ar</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="lt_alksnis-dep-mark.html">mark</a></tt> (1371; 99% instances), <tt><a href="lt_alksnis-dep-cc.html">cc</a></tt> (6; 0% instances), <tt><a href="lt_alksnis-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-dep.html">dep</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="lt_alksnis-dep-mark.html">mark</a></tt> (1414; 99% instances), <tt><a href="lt_alksnis-dep-cc.html">cc</a></tt> (7; 0% instances), <tt><a href="lt_alksnis-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (914; 66% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (277; 20% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (104; 8% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (37; 3% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="lt_alksnis-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (951; 67% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (280; 20% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (107; 8% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (37; 3% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="lt_alksnis-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-1378 (100%) `SCONJ` nodes are leaves.
+1422 (100%) `SCONJ` nodes are leaves.
 
 1 (0%) `SCONJ` nodes have one child.
 

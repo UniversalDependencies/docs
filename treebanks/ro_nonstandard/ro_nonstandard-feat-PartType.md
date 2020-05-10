@@ -9,24 +9,26 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Inf`, `Sub`.
 
-6619 tokens (2%) have a non-empty value of `PartType`.
-15 types (0%) occur at least once with a non-empty value of `PartType`.
-8 lemmas (0%) occur at least once with a non-empty value of `PartType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (6619; 2% instances).
+9951 tokens (2%) have a non-empty value of `PartType`.
+21 types (0%) occur at least once with a non-empty value of `PartType`.
+13 lemmas (0%) occur at least once with a non-empty value of `PartType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (9951; 2% instances).
 
 ### `PART`
 
-6619 <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> tokens (100% of all `PART` tokens) have a non-empty value of `PartType`.
+9951 <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> tokens (100% of all `PART` tokens) have a non-empty value of `PartType`.
 
 `PART` tokens may have the following values of `PartType`:
 
-* `Inf` (946; 14% of non-empty `PartType`): <em>a, a-, n-, -a</em>
-* `Sub` (5673; 86% of non-empty `PartType`): <em>să, s-, să-, se, -să, a, ca, s</em>
+* `Inf` (1176; 12% of non-empty `PartType`): <em>a, -a, a-, n-</em>
+* `Sub` (8775; 88% of non-empty `PartType`): <em>să, să-, s-, se, sâ, -să, a, s, ca, sa</em>
 
 <table>
   <tr><th>Paradigm <i>a</i></th><th><tt>Inf</tt></th><th><tt>Sub</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>a, -a</em></td><td><em>a</em></td></tr>
+  <tr><td><tt></tt></td><td><em>a, -a, a-</em></td><td><em>a</em></td></tr>
 </table>
+
+`PartType` seems to be **lexical feature** of `PART`. 92% lemmas (12) occur only with one value of `PartType`.
 
 ## Relations with Agreement in `PartType`
 

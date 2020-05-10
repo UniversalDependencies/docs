@@ -12,18 +12,18 @@ It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 9308 tokens (48%) have a non-empty value of `Case`.
 5801 types (75%) occur at least once with a non-empty value of `Case`.
 3726 lemmas (73%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (4893; 25% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1771; 9% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1101; 6% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (794; 4% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (375; 2% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (201; 1% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (173; 1% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (4892; 25% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1770; 9% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1101; 6% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (794; 4% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (375; 2% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (203; 1% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (173; 1% instances).
 
 ### `NOUN`
 
-4893 <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+4892 <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4264; 87%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3523; 72%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4263; 87%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3522; 72%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Acc` (857; 18% of non-empty `Case`): <em>время, течение, день, место, период, влияние, внимание, раз, людей, решение</em>
-* `Dat` (265; 5% of non-empty `Case`): <em>мере, году, данным, правительству, миру, недвижимости, поводу, причине, росту, сравнению</em>
+* `Dat` (264; 5% of non-empty `Case`): <em>мере, году, данным, правительству, миру, недвижимости, поводу, причине, росту, сравнению</em>
 * `Gen` (1699; 35% of non-empty `Case`): <em>года, лет, войны, века, города, людей, компании, э., долларов, жизни</em>
 * `Ins` (449; 9% of non-empty `Case`): <em>образом, летом, помощью, президентом, судом, целью, источником, компанией, контролем, людьми</em>
 * `Loc` (645; 13% of non-empty `Case`): <em>году, результате, качестве, основном, начале, конце, мире, веке, июле, месте</em>
@@ -40,16 +40,16 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-1771 <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> tokens (85% of all `ADJ` tokens) have a non-empty value of `Case`.
+1770 <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> tokens (85% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ru_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1761; 99%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1195; 67%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ru_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1759; 99%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1194; 67%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (277; 16% of non-empty `Case`): <em>последние, большую, значительную, настоящее, новые, собственные, Национальное, Северное, большой, дальнейшее</em>
-* `Dat` (72; 4% of non-empty `Case`): <em>крайней, политическим, самой, новому, электронной, 4-м, 8-м, Голландским, Католическому, Олимпийским</em>
-* `Gen` (540; 30% of non-empty `Case`): <em>новых, других, первой, другой, гражданских, нового, первого, последних, самых, 1960-х</em>
-* `Ins` (255; 14% of non-empty `Case`): <em>самым, главным, другими, главной, живыми, последним, американской, большим, большой, важным</em>
+* `Acc` (276; 16% of non-empty `Case`): <em>последние, большую, значительную, настоящее, новые, собственные, Национальное, Северное, большой, дальнейшее</em>
+* `Dat` (73; 4% of non-empty `Case`): <em>крайней, политическим, самой, новому, электронной, 4-м, 8-м, Голландским, Католическому, Олимпийским</em>
+* `Gen` (540; 31% of non-empty `Case`): <em>новых, других, первой, другой, гражданских, нового, первого, последних, самых, 1960-х</em>
+* `Ins` (254; 14% of non-empty `Case`): <em>самым, главным, другими, главной, живыми, последним, американской, большим, большой, важным</em>
 * `Loc` (176; 10% of non-empty `Case`): <em>самом, Северной, британской, прошлом, следующем, Кельтском, большой, военных, других, европейских</em>
 * `Nom` (451; 25% of non-empty `Case`): <em>другие, многие, большая, новые, южная, большое, последняя, северная, британский, бывший</em>
 * `EMPTY` (319): <em>должны, 2014, 2015, III, нужно, 1, 1492, 2010, 2012, 2013</em>
@@ -136,16 +136,16 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `VERB`
 
-201 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Case`.
+203 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (201; 100%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (201; 100%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (201; 100%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (110; 55%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (105; 52%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (104; 52%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (203; 100%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (203; 100%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (203; 100%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (112; 55%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (105; 52%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (104; 51%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Acc` (39; 19% of non-empty `Case`): <em>потраченное, вдохновленные, включавшую, выражаемую, имеющих, имеющую, используемые, любящую, называемую, найденное</em>
+* `Acc` (40; 20% of non-empty `Case`): <em>потраченное, вдохновленные, включавшую, выражаемую, имеющих, имеющую, используемые, любящую, называемую, найденное</em>
 * `Dat` (10; 5% of non-empty `Case`): <em>возобновляемым, извивающейся, имеющимся, называемым, открытому, развивающемуся, следящим, собравшейся, сформированным, успокоенным</em>
 * `Gen` (50; 25% of non-empty `Case`): <em>выращенных, оставшихся, сделанных, боящихся, включавших, возникающих, воюющих, вступивших, вызывающего, выкуренных</em>
-* `Ins` (24; 12% of non-empty `Case`): <em>действующим, бегущим, верующим, вовлеченным, выжившим, действующей, доминирующей, живущим, занимающимися, обеспечивающим</em>
+* `Ins` (25; 12% of non-empty `Case`): <em>действующим, бегущим, верующим, вовлеченным, выжившим, газированной, действующей, доминирующей, живущим, занимающимися</em>
 * `Loc` (9; 4% of non-empty `Case`): <em>аннексированном, завоеванных, меняющемся, обращенной, объясняющем, предполагаемых, протянувшемся, совершенном, стоящих</em>
 * `Nom` (69; 34% of non-empty `Case`): <em>Вышедший, Говорящие, Живущие, Загрязняющие, Лишившиеся, Обладающий, Сведенная, Спешивший, Сформированная, Ухудшающееся</em>
 * `EMPTY` (1912): <em>является, может, сказал, говорит, стало, могут, можно, заявил, находится, стал</em>
@@ -183,10 +183,10 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1478; 89%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1476; 88%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-det.html">det</a></tt>]--> DET</tt> (336; 73%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (236; 96%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (165; 85%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (166; 86%),
 <tt>PROPN --[<tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (102; 99%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (95; 99%),
 <tt>PROPN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (67; 97%),

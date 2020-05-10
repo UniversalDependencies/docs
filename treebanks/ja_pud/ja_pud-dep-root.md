@@ -8,68 +8,72 @@ udver: '2'
 
 This relation is universal.
 
-1000 nodes (4%) are attached to their parents as `root`.
+1000 nodes (3%) are attached to their parents as `root`.
 
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 23.714.
+Average distance between parent and child is 25.63.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (842; 84% instances), -<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (96; 10% instances), -<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (52; 5% instances), -<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), -<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), -<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="ja_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (813; 81% instances), -<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (138; 14% instances), -<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (37; 4% instances), -<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances), -<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), -<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), -<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 20 root	color:blue
-1	ワシントン	ワシントン	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
-2	の	の	ADP	PN	_	1	case	_	SpaceAfter=No
-3	キャピトルヒル	キャピトルヒル	NOUN	NN	_	9	obl	_	SpaceAfter=No
-4	で	で	ADP	PS	_	3	case	_	SpaceAfter=No
-5	ソーシャルメディア	ソーシャルメディア	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
-6	の	の	ADP	PN	_	5	case	_	SpaceAfter=No
-7	移行	移行	NOUN	NN	_	9	obj	_	SpaceAfter=No
-8	を	を	ADP	PS	_	7	case	_	SpaceAfter=No
-9	フォロー	フォロー	VERB	VV	_	12	acl	_	SpaceAfter=No
-10	し	する	AUX	XV	_	9	aux	_	SpaceAfter=No
-11	た	た	AUX	AV	_	9	aux	_	SpaceAfter=No
-12	人	人	NOUN	NN	_	20	obl	_	SpaceAfter=No
-13	にとって	にとって	ADP	PP	_	12	case	_	SpaceAfter=No
-14	は	は	ADP	PK	_	12	case	_	SpaceAfter=No
-15	、	、	PUNCT	SYM	_	12	punct	_	SpaceAfter=No
-16	この	この	DET	JR	_	17	det	_	SpaceAfter=No
-17	こと	こと	NOUN	NB	_	20	nsubj	_	SpaceAfter=No
-18	は	は	ADP	PK	_	17	case	_	SpaceAfter=No
-19	少し	少し	ADV	RB	_	20	advmod	_	SpaceAfter=No
-20	違う	違う	VERB	VV	_	0	root	_	SpaceAfter=No
-21	。	。	PUNCT	SYM	_	20	punct	_	SpaceAfter=No
+# visual-style 0 14 root	color:blue
+1	新た	新た	ADJ	形状詞-一般	_	3	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=形状詞-一般|SpaceAfter=No|UniDicLemma=新た
+2	な	だ	AUX	助動詞	_	1	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+3	支出	支出	NOUN	名詞-普通名詞-サ変可能	_	14	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=支出
+4	は	は	ADP	助詞-係助詞	_	3	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UniDicLemma=は
+5	クリントン	クリントン	PROPN	名詞-固有名詞-人名-一般	_	10	nmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-固有名詞-人名-一般|SpaceAfter=No|UniDicLemma=クリントン
+6	の	の	ADP	助詞-格助詞	_	5	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=の
+7	巨大	巨大	ADJ	形状詞-一般	_	10	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=形状詞-一般|SpaceAfter=No|UniDicLemma=巨大
+8	な	だ	AUX	助動詞	_	7	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+9	銀行	銀行	NOUN	名詞-普通名詞-一般	_	10	compound	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=銀行
+10	口座	口座	NOUN	名詞-普通名詞-一般	_	14	obl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=口座
+11	に	に	ADP	助詞-格助詞	_	10	case	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=に
+12	よっ	よる	VERB	動詞-一般	_	11	fixed	_	BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=因る
+13	て	て	SCONJ	助詞-接続助詞	_	11	fixed	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=て
+14	充填	充填	VERB	名詞-普通名詞-サ変可能	_	0	root	_	BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=充填
+15	さ	する	AUX	動詞-非自立可能	_	14	aux	_	BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=為る
+16	れ	れる	AUX	助動詞	_	14	aux	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=れる
+17	て	て	SCONJ	助詞-接続助詞	_	14	mark	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=て
+18	いる	いる	AUX	動詞-非自立可能	_	14	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=居る
+19	。	。	PUNCT	補助記号-句点	_	14	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No|UniDicLemma=。
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 13 root	color:blue
-1	今	今	NOUN	NR	_	13	nmod	_	SpaceAfter=No
-2	、	、	PUNCT	SYM	_	1	punct	_	SpaceAfter=No
-3	カンジル	カンジル	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
-4	は	は	ADP	PK	_	3	case	_	SpaceAfter=No
-5	孤独	孤独	ADJ	JN	_	7	acl	_	SpaceAfter=No
-6	な	だ	AUX	XV	_	5	aux	_	SpaceAfter=No
-7	豚	豚	NOUN	NN	_	13	nmod	_	SpaceAfter=No
-8	かもしれ	かもしれる	AUX	AV	_	7	aux	_	SpaceAfter=No
-9	ない	ない	AUX	AV	_	7	aux	_	SpaceAfter=No
-10	が	が	SCONJ	PC	_	7	mark	_	SpaceAfter=No
-11	、	、	PUNCT	SYM	_	7	punct	_	SpaceAfter=No
-12	常に	常に	ADV	RB	_	13	advmod	_	SpaceAfter=No
-13	ひとりぼっち	ひとりぼっち	NOUN	NN	_	0	root	_	SpaceAfter=No
-14	で	だ	AUX	AV	_	13	cop	_	SpaceAfter=No
-15	は	は	ADP	PK	_	13	case	_	SpaceAfter=No
-16	ない	ない	AUX	AV	_	13	aux	_	SpaceAfter=No
-17	。	。	PUNCT	SYM	_	13	punct	_	SpaceAfter=No
+# visual-style 0 21 root	color:blue
+1	彼女	彼女	PRON	代名詞	_	6	nmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No|UniDicLemma=彼女
+2	の	の	ADP	助詞-格助詞	_	1	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=の
+3	言っ	言う	VERB	動詞-一般	_	6	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=言う
+4	て	て	SCONJ	助詞-接続助詞	_	3	mark	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=て
+5	いる	いる	AUX	動詞-非自立可能	_	3	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=居る
+6	こと	こと	NOUN	名詞-普通名詞-一般	_	12	nmod	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=事
+7	と	と	ADP	助詞-格助詞	_	6	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=と
+8	、	、	PUNCT	補助記号-読点	_	6	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+9	やっ	やる	VERB	動詞-非自立可能	_	12	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=遣る
+10	て	て	SCONJ	助詞-接続助詞	_	9	mark	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=て
+11	いる	いる	AUX	動詞-非自立可能	_	9	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=居る
+12	こと	こと	NOUN	名詞-普通名詞-一般	_	21	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=事
+13	は	は	ADP	助詞-係助詞	_	12	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UniDicLemma=は
+14	、	、	PUNCT	補助記号-読点	_	12	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+15	実際	実際	NOUN	名詞-普通名詞-副詞可能	_	18	obl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=実際
+16	に	に	ADP	助詞-格助詞	_	15	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=に
+17	、	、	PUNCT	補助記号-読点	_	15	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+18	信じ	信ずる	VERB	動詞-一般	_	21	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=信ずる
+19	られ	られる	AUX	助動詞	_	18	aux	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=られる
+20	ない	ない	AUX	助動詞	Polarity=Neg	18	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=ない
+21	こと	こと	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=事
+22	だ	だ	AUX	助動詞	_	21	cop	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+23	。	。	PUNCT	補助記号-句点	_	21	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No|UniDicLemma=。
 
 ~~~
 
@@ -80,15 +84,14 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	ドレス	ドレス	NOUN	NN	_	2	compound	_	SpaceAfter=No
-2	コード	コード	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
-3	が	が	ADP	PS	_	2	case	_	SpaceAfter=No
-4	堅苦し	堅苦しい	ADJ	JJ	_	0	root	_	SpaceAfter=No
-5	すぎる	すぎる	AUX	AV	_	4	aux	_	SpaceAfter=No
-6	の	の	SCONJ	PNB	_	4	mark	_	SpaceAfter=No
-7	だろ	だ	AUX	AV	_	4	cop	_	SpaceAfter=No
-8	う	う	AUX	AV	_	4	aux	_	SpaceAfter=No
-9	。	。	PUNCT	SYM	_	4	punct	_	SpaceAfter=No
+1	ドレス	ドレス	NOUN	名詞-普通名詞-一般	_	2	compound	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=ドレス
+2	コード	コード	NOUN	名詞-普通名詞-一般	_	4	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=コード
+3	が	が	ADP	助詞-格助詞	_	2	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=が
+4	堅苦し	堅苦しい	ADJ	形容詞-一般	_	0	root	_	BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=堅苦しい
+5	すぎる	すぎる	AUX	動詞-非自立可能	_	4	aux	_	BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=過ぎる
+6	の	の	SCONJ	助詞-準体助詞	_	4	mark	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=の
+7	だろう	だ	AUX	助動詞	_	4	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+8	。	。	PUNCT	補助記号-句点	_	4	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No|UniDicLemma=。
 
 ~~~
 

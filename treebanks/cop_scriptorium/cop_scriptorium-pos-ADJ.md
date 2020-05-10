@@ -13,16 +13,16 @@ The 10 most frequent `ADJ` lemmas: ϣⲏⲙ, ⲕⲁⲑⲟⲗⲓⲕⲏ, ⲕⲟⲩ
 
 The 10 most frequent `ADJ` types:  ϣⲏⲙ, ⲕⲁⲑⲟⲗⲓⲕⲏ, ⲕⲟⲩⲓ, ⲟⲩⲱⲧ
 
-The 10 most frequent ambiguous lemmas: ϣⲏⲙ (<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 16, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1), ⲕⲟⲩⲓ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 1), ⲟⲩⲱⲧ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ϣⲏⲙ (<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 16, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1), ⲕⲟⲩⲓ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 18, <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 1), ⲟⲩⲱⲧ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  ϣⲏⲙ (<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 16, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1), ⲕⲟⲩⲓ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 1), ⲟⲩⲱⲧ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous types:  ϣⲏⲙ (<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 16, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1), ⲕⲟⲩⲓ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 1), ⲟⲩⲱⲧ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> 1)
 
 
 * ϣⲏⲙ
   * <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 16: ⲥⲱⲧⲙ ϭⲉ ⲧⲉⲛⲟⲩ ⲉ ⲧ ⲙⲛⲧϫⲱⲱⲣⲉ ⲛ ⲟⲩ ϣⲏⲣⲉ <b>ϣⲏⲙ</b> ϫⲉ ⲃⲓⲕⲧⲱⲣ ·
   * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1: ⲛⲉ ⲩⲛⲧ ⲟⲩ ⲕⲉ <b>ϣⲏⲙ</b> ⲇⲉ ⲛ ⲧⲃⲧ ⲛⲧⲉⲣⲉ ϥ ⲥⲙⲟⲩ ⲇⲉ ⲉⲣⲟ ⲟⲩ ⲁ ϥ ⲟⲩⲉϩⲥⲁϩⲛⲉ ⲉ ⲕⲁ ⲛⲉⲓ ⲕⲟⲟⲩⲉ ϩⲁⲣⲱ ⲟⲩ .
 * ⲕⲟⲩⲓ
-  * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 15: ⲁ ϥ ⲕⲁ ϩⲉⲛ <b>ⲕⲟⲩⲓ</b> ⲛⲁ ϥ ⲉⲧⲃⲉ ⲧⲉϥ ⲭⲣⲉⲓⲁ ⲙⲁⲩⲁⲁ ϥ ·
+  * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 17: ⲁ ϥ ⲕⲁ ϩⲉⲛ <b>ⲕⲟⲩⲓ</b> ⲛⲁ ϥ ⲉⲧⲃⲉ ⲧⲉϥ ⲭⲣⲉⲓⲁ ⲙⲁⲩⲁⲁ ϥ ·
   * <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 1: ⲡ ⲉⲧ ⲛⲁ ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ ⲛ ⲟⲩⲁ ⲛ ⲛⲁⲓ <b>ⲕⲟⲩⲓ</b> ⲉⲧ ⲡⲓⲥⲧⲉⲩⲉ ⲉⲣⲟ ⲓ ⲛⲁⲛⲟⲩ ⲥ ⲛⲁ ϥ ⲛ ϩⲟⲩⲟ ⲉⲛⲉ ⲟⲩⲛ ⲟⲩ ⲱⲛⲉ ⲛ ⲥⲓⲕⲉ ⲁϣⲉ ⲉ ⲡⲉϥ ⲙⲁⲕϩ ⲛ ⲥⲉ ⲛⲟϫ ϥ ⲉ ⲧⲉ ⲑⲁⲗⲁⲥⲥⲁ
 * ⲟⲩⲱⲧ
   * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 24: ⲡ ⲉⲧ ⲧⲱϭⲉ ⲇⲉ ⲙⲙⲟ ϥ ⲉ ⲡ ϫⲟⲉⲓⲥ ⲟⲩ ⲡⲛⲉⲩⲙⲁ ⲛ <b>ⲟⲩⲱⲧ</b> ⲡⲉ .
@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  ϣⲏⲙ (<tt><a href="cop_scriptorium-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.112443).
+The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.113591).
 
 The 1st highest number of forms (1) was observed with the lemma “ϣⲏⲙ”: ϣⲏⲙ.
 

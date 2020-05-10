@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (0%) are attached to their parents as `discourse`.
+35 nodes (0%) are attached to their parents as `discourse`.
 
-12 instances of `discourse` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.3125.
+21 instances of `discourse` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.74285714285714.
 
-The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (9; 56% instances), <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (3; 19% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (1; 6% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 6% instances).
+The following 15 pairs of parts of speech are connected with `discourse`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (12; 34% instances), <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (5; 14% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (4; 11% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -54,16 +54,18 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 discourse	color:blue
-1	Och	och	INTJ	Itj	_	4	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	Punct	_	4	punct	_	_
-3	a	a	PART	Voc	PartType=Voc	4	case:voc	_	_
-4	chumannaigh	chumannaigh	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-5	!	!	PUNCT	!	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 discourse	color:blue
+1	NIALL	Niall	PROPN	Noun	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	Punct	_	3	punct	_	_
+3	Bhal	Bal	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	5	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	5	punct	_	_
+5	stróc	stróc	VERB	VTI	Mood=Imp|Number=Sing|Person=2	1	parataxis	_	_
+6	leat	le	ADP	Prep	Number=Sing|Person=2	5	obl:prep	_	SpaceAfter=No
+7	!	!	PUNCT	!	_	1	punct	_	_
 
 ~~~
 

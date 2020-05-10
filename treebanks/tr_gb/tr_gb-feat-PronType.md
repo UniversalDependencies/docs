@@ -7,12 +7,69 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-GB: Features: `PronType`
 
 This feature is universal.
-It occurs with 3 different values: `Int`, `Neg`, `Rcp`.
+It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`.
 
-400 tokens (2%) have a non-empty value of `PronType`.
-87 types (2%) occur at least once with a non-empty value of `PronType`.
-18 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 8 part-of-speech tags: <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (196; 1% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (146; 1% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (31; 0% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+2265 tokens (13%) have a non-empty value of `PronType`.
+326 types (6%) occur at least once with a non-empty value of `PronType`.
+80 lemmas (4%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 8 part-of-speech tags: <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (1038; 6% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt> (980; 6% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (196; 1% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (31; 0% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+
+### `PRON`
+
+1038 <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (982; 95%).
+
+`PRON` tokens may have the following values of `PronType`:
+
+* `Dem` (188; 18% of non-empty `PronType`): <em>burada, bu, bunu, oraya, o, bundan, burası, buraya, bunun, buradan</em>
+* `Ind` (75; 7% of non-empty `PronType`): <em>birisi, biri, çoğu, Başkalarından, bazısı, birimiz, hepsini, hiçbiri, başkasına, birini</em>
+* `Int` (128; 12% of non-empty `PronType`): <em>ne, kim, nerede, nereye, hangisi, kime, hangisini, hani, neyi, hangilerini</em>
+* `Prs` (629; 61% of non-empty `PronType`): <em>ben, sen, bana, benim, biz, kendi, senin, bizim, onlar, beni</em>
+* `Rcp` (18; 2% of non-empty `PronType`): <em>birbirimizi, birbirimizin, birbirinizin, birbirinizle, birbirlerinden, Birbirlerine, Birbirlerini, birbirimize, birbirinden, birbirine</em>
+
+<table>
+  <tr><th>Paradigm <i>o</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ondan</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>onu</em></td><td><em>onu</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>onu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onları</em></td><td><em>onları</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ona</em></td><td><em>ona</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ona</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onlara</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>onun</em></td><td><em>onun</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>onun, Onların</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onların</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>onunla</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onlarla</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_gb-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>o</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>O</em></td><td><em>o</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>o</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onlar</em></td><td></td></tr>
+</table>
+
+`PronType` seems to be **lexical feature** of `PRON`. 98% lemmas (50) occur only with one value of `PronType`.
+
+### `DET`
+
+980 <tt><a href="tr_gb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="tr_gb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (493; 50%).
+
+`DET` tokens may have the following values of `PronType`:
+
+* `Art` (972; 99% of non-empty `PronType`): <em>bir, bu, o, her, bütün, şu, birkaç, bazı, hiçbir, başka</em>
+* `Dem` (2; 0% of non-empty `PronType`): <em>bu, O</em>
+* `Int` (6; 1% of non-empty `PronType`): <em>hangi, ne</em>
+
+<table>
+  <tr><th>Paradigm <i>bu</i></th><th><tt>Art</tt></th><th><tt>Dem</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>bu</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>bu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>Bu</em></td><td></td></tr>
+</table>
+
+`PronType` seems to be **lexical feature** of `DET`. 93% lemmas (25) occur only with one value of `PronType`.
 
 ### `AUX`
 
@@ -26,18 +83,6 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 * `Neg` (6; 3% of non-empty `PronType`): <em>değil</em>
 * `EMPTY` (555): <em>değil, olan, dı, oldu, olarak, olacak, olduğunu, mış, dır, miş</em>
 
-### `PRON`
-
-146 <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> tokens (14% of all `PRON` tokens) have a non-empty value of `PronType`.
-
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (139; 95%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (129; 88%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (78; 53%).
-
-`PRON` tokens may have the following values of `PronType`:
-
-* `Int` (128; 88% of non-empty `PronType`): <em>ne, kim, nerede, nereye, hangisi, kime, hangisini, hani, neyi, hangilerini</em>
-* `Rcp` (18; 12% of non-empty `PronType`): <em>birbirimizi, birbirimizin, birbirinizin, birbirinizle, birbirlerinden, Birbirlerine, Birbirlerini, birbirimize, birbirinden, birbirine</em>
-* `EMPTY` (892): <em>ben, sen, burada, bana, benim, o, biz, kendi, senin, bizim</em>
-
 ### `ADV`
 
 31 <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `PronType`.
@@ -45,7 +90,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (31; 100% of non-empty `PronType`): <em>neden, nasıl, ne, niye, niçin</em>
-* `EMPTY` (1041): <em>çok, daha, de, artık, da, en, hiç, bile, biraz, pek</em>
+* `EMPTY` (1045): <em>çok, daha, de, artık, da, en, hiç, bile, biraz, pek</em>
 
 ### `ADJ`
 
@@ -54,7 +99,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADJ` tokens may have the following values of `PronType`:
 
 * `Int` (8; 100% of non-empty `PronType`): <em>nasıl, ne</em>
-* `EMPTY` (784): <em>var, yok, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım</em>
+* `EMPTY` (781): <em>var, yok, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım</em>
 
 ### `NUM`
 
@@ -67,18 +112,6 @@ The most frequent other feature values with which `NUM` and `PronType` co-occurr
 * `Int` (8; 100% of non-empty `PronType`): <em>kaç</em>
 * `EMPTY` (357): <em>iki, üç, beş, yüz, on, bir, dört, bin, dokuz, birer</em>
 
-### `DET`
-
-7 <tt><a href="tr_gb-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `PronType`.
-
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 100%), <tt><a href="tr_gb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (5; 71%).
-
-`DET` tokens may have the following values of `PronType`:
-
-* `Int` (6; 86% of non-empty `PronType`): <em>hangi, ne</em>
-* `Rcp` (1; 14% of non-empty `PronType`): <em>hiçbir</em>
-* `EMPTY` (972): <em>bir, bu, o, her, bütün, şu, birkaç, bazı, hiçbir, başka</em>
-
 ### `CCONJ`
 
 2 <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> tokens (1% of all `CCONJ` tokens) have a non-empty value of `PronType`.
@@ -86,7 +119,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `CCONJ` tokens may have the following values of `PronType`:
 
 * `Neg` (2; 100% of non-empty `PronType`): <em>değil</em>
-* `EMPTY` (183): <em>ve, ne, ama, de, ya, da, hem, ister, yoksa, İster</em>
+* `EMPTY` (178): <em>ve, ne, ama, ya, da, de, hem, ister, yoksa, İster</em>
 
 ### `NOUN`
 
@@ -97,5 +130,12 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 `NOUN` tokens may have the following values of `PronType`:
 
 * `Int` (2; 100% of non-empty `PronType`): <em>ne, neci</em>
-* `EMPTY` (4385): <em>gün, bugün, şey, evde, saat, ev, çocuk, yıl, zaman, çocuklar</em>
+* `EMPTY` (4388): <em>gün, bugün, şey, evde, saat, ev, çocuk, yıl, zaman, çocuklar</em>
+
+## Relations with Agreement in `PronType`
+
+The 10 most frequent relations where parent and child node agree in `PronType`:
+<tt>PRON --[<tt><a href="tr_gb-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (6; 100%),
+<tt>DET --[<tt><a href="tr_gb-dep-fixed.html">fixed</a></tt>]--> DET</tt> (3; 100%),
+<tt>DET --[<tt><a href="tr_gb-dep-goeswith.html">goeswith</a></tt>]--> DET</tt> (1; 100%).
 

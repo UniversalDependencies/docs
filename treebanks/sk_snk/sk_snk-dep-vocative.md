@@ -42,7 +42,7 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4 6 vocative	color:blue
 1	Krásne	krásny	ADJ	AAfp4x	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	2	amod	2:amod	_
 2	Vianoce	vianoce	PROPN	SSfp4:r	Case=Acc|Gender=Fem|Number=Plur	4	obj	4:obj	_
-3	Vám	vy	PRON	PPhp3	Case=Dat|Number=Plur|Person=2|PronType=Prs	4	iobj	4:iobj	_
+3	Vám	vy	PRON	PPhp3	Case=Dat|Number=Plur|Person=2|PronType=Prs	4	obl:arg	4:obl:arg:dat	_
 4	prajem	priať	VERB	VKesa+	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	Z	_	6	punct	6:punct	_
 6	priatelia	priateľ	NOUN	SSmp5	Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur	4	vocative	4:vocative	SpaceAfter=No

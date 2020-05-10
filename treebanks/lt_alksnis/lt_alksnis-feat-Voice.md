@@ -52,6 +52,6 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> VERB</tt> (199; 54%),
+<tt>VERB --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> VERB</tt> (198; 53%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-flat.html">flat</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (13; 100% of non-empty `Foreign`): <em>priori, explicite, quo, defacto, expost, innuce, ipsofacto, memoriam, theory</em>
-* `EMPTY` (27552): <em>tak, také, jak, již, už, ještě, pak, kde, tedy, velmi</em>
+* `EMPTY` (28119): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
 
 ### `PRON`
 

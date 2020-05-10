@@ -8,56 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-965 nodes (4%) are attached to their parents as `aux`.
+1559 nodes (4%) are attached to their parents as `aux`.
 
-892 instances of `aux` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.17305699481865.
+1428 instances of `aux` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.13406029506094.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (856; 89% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (47; 5% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (37; 4% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (17; 2% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1369; 88% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (77; 5% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (68; 4% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (23; 1% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 aux	color:blue
-1	Zopp	Zopp	PROPN	S	Case=Nom|Number=Sing	3	nsubj	3:nsubj	_
-2	ei	ei	AUX	V	Polarity=Neg	3	aux	3:aux	_
-3	löönud	lööma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	ühtki	üks	DET	P	Case=Par|Number=Sing|PronType=Ind	5	det	5:det	_
-5	ässa	äss	NOUN	S	Case=Par|Number=Sing	3	obj	3:obj	SpaceAfter=No
-6	,	,	PUNCT	Z	_	9	punct	9.1:punct	_
-7	kuid	kuid	CCONJ	J	_	9	cc	9.1:cc	_
-8	ka	ka	ADV	D	_	9	advmod	9:advmod	_
-9	vastane	vastane	NOUN	S	Case=Nom|Number=Sing	3	conj	9.1:nsubj	_
-10	vaid	vaid	ADV	D	_	11	advmod	11:advmod	_
-11	ühe	üks	NUM	N	Case=Gen|Number=Sing|NumType=Card	9	orphan	9.1:obj	SpaceAfter=No
-12	.	.	PUNCT	Z	_	3	punct	3:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 aux	color:blue
-1	See	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	5	nsubj:cop	5:nsubj	_
-2	ei	ei	AUX	V	Polarity=Neg	5	aux	5:aux	_
-3	ole	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
-4	niisugune	nii_sugune	DET	P	Case=Nom|Number=Sing|PronType=Dem	5	det	5:det	_
-5	leib	leib	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	SpaceAfter=No
-6	,	,	PUNCT	Z	_	10	punct	10:punct	_
-7	mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	10	obj	10:obj	_
-8	teie	sina	PRON	P	Case=Gen|Number=Plur|Person=2|PronType=Prs	9	nmod	9:nmod	_
-9	esiisad	esi_isa	NOUN	S	Case=Nom|Number=Plur	10	nsubj	10:nsubj	_
-10	sõid	sööma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl	SpaceAfter=No
-11	,	,	PUNCT	Z	_	13	punct	13:punct	_
-12	ja	ja	CCONJ	J	_	13	cc	13:cc	_
-13	surid	surema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	10:conj	SpaceAfter=No
-14	.	.	PUNCT	Z	_	5	punct	5:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 aux	color:blue
+1	paljudel	palju	PRON	P	Case=Ade|Number=Plur|PronType=Ind	2	nmod	2:nmod	_
+2	tesitel	teine	PRON	P	Case=Ade|Number=Plur|PronType=Dem	6	obl	6:obl	_
+3	pead	pidama	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	6:aux	_
+4	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	6	obj	6:obj	_
+5	menüüst	menüü	NOUN	S	Case=Ela|Number=Sing	6	obl	6:obl	_
+6	tegema	tegema	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	Z	_	6	punct	6:punct	_
 
 ~~~
 
@@ -65,15 +36,32 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 aux	color:blue
-1	Pealetükkivus	peale_tükki=vus	NOUN	S	Case=Nom|Number=Sing	5	nsubj:cop	5:nsubj	_
-2	muidugi	muidugi	ADV	D	_	5	advmod	5:advmod	_
-3	ei	ei	AUX	V	Polarity=Neg	5	aux	5:aux	_
-4	oleks	olema	AUX	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
-5	hea	hea	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	0:root	SpaceAfter=No
-6	.	.	PUNCT	Z	_	5	punct	5:punct	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 aux	color:blue
+1	Igasugune	iga_sugune	DET	P	Case=Nom|Number=Sing|PronType=Ind	2	det	2:det	_
+2	abi	abi	NOUN	S	Case=Nom|Number=Sing	4	nsubj	4:nsubj	_
+3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
+4	teretulnud	tere_tulnud	ADJ	A	Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
+5	.	.	PUNCT	Z	_	4	punct	4:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 aux	color:blue
+1	See	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	7	nsubj:cop	7:nsubj	_
+2	muidugi	muidugi	ADV	D	_	7	advmod	7:advmod	_
+3	ei	ei	AUX	V	Polarity=Neg	7	aux	7:aux	_
+4	ole	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	_
+5	päris	päris	ADV	D	_	6	advmod	6:advmod	_
+6	aus	aus	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	7:amod	_
+7	suhtumine	suhtumine	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	SpaceAfter=No
+8	.	.	PUNCT	Z	_	7	punct	7:punct	_
 
 ~~~
 

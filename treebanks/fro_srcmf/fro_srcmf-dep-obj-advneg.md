@@ -30,7 +30,7 @@ The following 2 pairs of parts of speech are connected with `obj:advneg`: <tt><a
 5	Santi	_	VERB	VERcjg	VerbForm=Fin	15	advcl	_	_
 6	qu'	_	SCONJ	CONsub	_	9	mark	_	_
 7	il	_	PRON	PROper	PronType=Prs	9	nsubj	_	_
-8	fu	_	VERB	VERcjg	VerbForm=Fin	9	cop	_	_
+8	fu	_	AUX	VERcjg	VerbForm=Fin	9	aux:pass	_	_
 9	gariz	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	xcomp	_	_
 10	et	_	CCONJ	CONcoo	_	11	cc	_	_
 11	sains	_	ADJ	ADJqua	_	9	conj	_	_

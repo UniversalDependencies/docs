@@ -11,7 +11,7 @@ It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
 6771 tokens (10%) have a non-empty value of `Tense`.
 2122 types (23%) occur at least once with a non-empty value of `Tense`.
-864 lemmas (13%) occur at least once with a non-empty value of `Tense`.
+863 lemmas (13%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (4690; 7% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (2081; 3% instances).
 
 ### `VERB`

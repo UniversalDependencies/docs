@@ -53,7 +53,7 @@ The following 31 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	de	_	ADP	ADP	_	6	mark	_	_
 6	lá	lá	ADV	ADV	_	4	nmod	_	SpaceAfter=No
 7	,	_	PUNCT	.	_	4	punct	_	_
-8	en	en	ADP	ADP	_	11	case	_	_
+8	em	em	ADP	ADP	_	11	case	_	_
 9	os	o	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 10	quatro	_	NUM	NUM	NumType=Card	11	nummod	_	_
 11	jogos	jogo	NOUN	NOUN	_	13	nmod	_	_
@@ -82,7 +82,7 @@ The following 31 pairs of parts of speech are connected with `fixed`: <tt><a hre
 8	o	_	DET	DET	_	9	det	_	_
 9	índice	índice	NOUN	NOUN	_	4	nmod	_	_
 10	obtido	obter	VERB	VERB	_	9	acl:part	_	_
-11	en	en	ADP	ADP	_	13	case	_	_
+11	em	em	ADP	ADP	_	13	case	_	_
 12	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	ano	ano	NOUN	NOUN	_	10	nmod	_	_
 14	anterior	anterior	ADJ	ADJ	_	13	amod	_	SpaceAfter=No

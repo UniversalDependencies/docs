@@ -12,7 +12,7 @@ It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 161808 tokens (57%) have a non-empty value of `Number`.
 19064 types (77%) occur at least once with a non-empty value of `Number`.
 7996 lemmas (52%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (93664; 33% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (29351; 10% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (21300; 8% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (10877; 4% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (4670; 2% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (1442; 1% instances), <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (501; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (93664; 33% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (29351; 10% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (21296; 8% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (10877; 4% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (4670; 2% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (1442; 1% instances), <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (505; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -71,15 +71,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-21300 <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Number`.
+21296 <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (20904; 98%), <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20024; 94%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13464; 63%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (11219; 53%), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11219; 53%), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11219; 53%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (20900; 98%), <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20020; 94%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13460; 63%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (11215; 53%), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11215; 53%), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11215; 53%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Dual` (214; 1% of non-empty `Number`): قتلا، اتفقا، أكدا، بحثا، كانا، عقدا، قدما، كانتا، يشيران، يلتقيان
 * `Plur` (1233; 6% of non-empty `Number`): كانوا، قتلوا، يريدون، يعملون، يعيشون، دعوا، يطالبون، طالبوا، فروا، قالوا
-* `Sing` (19853; 93% of non-empty `Number`): قال، كان، أضاف، كانت، تم، أكد، يتم، يمكن، أشار، أوضح
+* `Sing` (19849; 93% of non-empty `Number`): قال، كان، أضاف، كانت، تم، أكد، يتم، يمكن، أشار، أوضح
 
 <table>
   <tr><th>Paradigm <i>قَال</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -175,16 +175,16 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 ### `AUX`
 
-501 <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> tokens (23% of all `AUX` tokens) have a non-empty value of `Number`.
+505 <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> tokens (23% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (499; 100%), <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (488; 97%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (324; 65%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (304; 61%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (503; 100%), <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (492; 97%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (328; 65%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (308; 61%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Dual` (1; 0% of non-empty `Number`): يكونا
 * `Plur` (14; 3% of non-empty `Number`): كانوا، تكونون، لسنا، ليسوا، نكون
-* `Sing` (486; 97% of non-empty `Number`): كان، يكون، ليس، تكون، كانت، ليست، يكن، تكن، كنت، كن
-* `EMPTY` (1664): س، قد، سوف، ما، هل، إلا، الا، ربما، أ، علّ
+* `Sing` (490; 97% of non-empty `Number`): كان، يكون، ليس، تكون، كانت، ليست، يكن، تكن، كنت، كن
+* `EMPTY` (1649): س، قد، سوف، ما، هل، ربما، أ، علّ، لقد
 
 <table>
   <tr><th>Paradigm <i>كَان</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -215,14 +215,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ar_padt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (24862; 63%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (24516; 63%),
 <tt>NOUN --[<tt><a href="ar_padt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (15800; 69%),
-<tt>VERB --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7202; 77%),
-<tt>VERB --[<tt><a href="ar_padt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (6995; 83%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4759; 83%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (4007; 71%),
-<tt>VERB --[<tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (3698; 76%),
-<tt>VERB --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3665; 73%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-acl.html">acl</a></tt>]--> VERB</tt> (2883; 68%),
-<tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2352; 91%).
+<tt>VERB --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7268; 77%),
+<tt>VERB --[<tt><a href="ar_padt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (6976; 83%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4765; 82%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (3916; 71%),
+<tt>VERB --[<tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (3711; 76%),
+<tt>VERB --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3656; 73%),
+<tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2352; 91%),
+<tt>VERB --[<tt><a href="ar_padt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2310; 88%).
 

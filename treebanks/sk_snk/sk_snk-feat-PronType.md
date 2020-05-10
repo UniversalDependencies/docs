@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Int,Rel` (244; 25% of non-empty `PronType`): <em>kde, ako, prečo, kam, kedy, odkiaľ, odkedy, čím, Kamže, kadiaľ</em>
 * `Neg` (76; 8% of non-empty `PronType`): <em>nikdy, nijako, nikam, nikde</em>
 * `Tot` (49; 5% of non-empty `PronType`): <em>vždy, všade, Všelijako</em>
-* `EMPTY` (3458): <em>veľmi, potom, opäť, teraz, raz, už, neskôr, stále, dnes, dobre</em>
+* `EMPTY` (3470): <em>veľmi, potom, opäť, teraz, raz, už, neskôr, stále, dnes, dobre</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (65) occur only with one value of `PronType`.
 

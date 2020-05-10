@@ -24,12 +24,12 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 8 csubj	color:blue
 1	Zo	z	ADP	Ev2	AdpType=Voc|Case=Gen	2	case	2:case	_
-2	zbierky	zbierka	NOUN	SSfs2	Case=Gen|Gender=Fem|Number=Sing	3	obl	3:obl	_
+2	zbierky	zbierka	NOUN	SSfs2	Case=Gen|Gender=Fem|Number=Sing	3	obl	3:obl:z:gen	_
 3	vyplýva	vyplývať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	Z	_	8	punct	8:punct	_
 5	že	že	SCONJ	O	_	8	mark	8:mark	_
 6	každé	každý	DET	PAns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	det	7:det	_
-7	zlo	zlo	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	8:nsubj	_
+7	zlo	zlo	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	8:nsubj|10:nsubj	_
 8	musí	musieť	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	csubj	3:csubj	_
 9	byť	byť	AUX	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	10	cop	10:cop	_
 10	potrestané	potrestaný	ADJ	Gtns1x	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	xcomp	8:xcomp	SpaceAfter=No
@@ -50,7 +50,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 4	stalo	stať	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	10	csubj	10:csubj	_
 5	s	s	ADP	Eu7	AdpType=Prep|Case=Ins	7	case	7:case	_
 6	Husravovým	husravov	ADJ	AFns7x:r	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	7	amod	7:amod	_
-7	vedomím	vedomie	NOUN	SSns7	Case=Ins|Gender=Neut|Number=Sing	4	obl	4:obl	SpaceAfter=No
+7	vedomím	vedomie	NOUN	SSns7	Case=Ins|Gender=Neut|Number=Sing	4	obl	4:obl:s:ins	SpaceAfter=No
 8	,	,	PUNCT	Z	_	4	punct	4:punct	_
 9	je	byť	AUX	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 10	nejasné	nejasný	ADJ	AAns1x	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
@@ -71,7 +71,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 4	samostatný	samostatný	ADJ	AAis4x	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	5:amod	_
 5	štát	štát	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	3:obj	_
 6	do	do	ADP	Eu2	AdpType=Prep|Case=Gen	7	case	7:case	_
-7	roku	rok	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	3:obl	_
+7	roku	rok	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	3:obl:do:gen	_
 8	2005	2005	NUM	0	NumForm=Digit	7	nummod	7:nummod	SpaceAfter=No
 9	.	.	PUNCT	Z	_	1	punct	1:punct	_
 

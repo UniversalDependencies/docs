@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Assyrian-AS: POS Tags: `AUX`
 
-There are 12 `AUX` lemmas (5%), 23 `AUX` types (9%) and 51 `AUX` tokens (11%).
+There are 11 `AUX` lemmas (4%), 23 `AUX` types (9%) and 51 `AUX` tokens (11%).
 Out of 13 observed tags, the rank of `AUX` is: 7 in number of lemmas, 5 in number of types and 4 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>ܗܵܘܹܐ, ܒܸܕ, ܒܸܬ, ܟܹܐ, ܒ, ܒܹܬ, ܟܲܕ, ܟܸܐ, ܡܵܨܸܢ, ܦܵܝܫ</em>
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ܒ</em> (<tt><a href="aii_as-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.916667 (the average of all parts of speech is 1.039841).
+The form / lemma ratio of `AUX` is 2.090909 (the average of all parts of speech is 1.044000).
 
 The 1st highest number of forms (13) was observed with the lemma “ܗܵܘܹܐ”: <em>ܝܘܸܢ, ܝܠܵܗܿ, ܝܠܸܗ, ܝܠܹܐ, ܝܠܹܗ, ܝܢܵܐ, ܝܼܘܵܢ, ܝܼܠܵܗܿ, ܝ݇ܘܸܬ, ܝ݇ܘܹܬ, ܝ݇ܢܵܐ, ܝ݇ܬܘܢ, ܝ݇ܬܝܼܒܵܐ</em>.
 

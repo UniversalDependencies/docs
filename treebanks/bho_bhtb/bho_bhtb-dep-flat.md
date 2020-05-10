@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 8	फजीहत	फजीहत	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	obl	_	_
 9	से	से	ADP	PSP	AdpType=Post	8	case	_	_
 10	भइल	भइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
-11	रहुवे	रहुवे	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3|Polite=Form|PronType=Prs	10	aux	_	_
+11	रहुवे	रह	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3|Polite=Form|PronType=Prs	10	aux	_	_
 12	उहो	उहो	PRON	PR_PRP	Number=Sing|Voice=Act	14	acl	_	_
 13	लोग	लोग	NUM	RP_CL	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	flat	_	_
 14	एही	एही	DET	DM_DMD	Case=Acc|Gender=Fem|Number=Sing|Person=3	16	det	_	_
@@ -49,10 +49,10 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 25	लड़िकी	लड़िकी	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	27	nmod	_	SpacesAfter=\n
 26	के	को	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	25	case	_	_
 27	बिअह	बिअह	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	30	nsubj	_	_
-28	काहे	काह	PRON	PR_PRQ	_	29	compound	_	_
+28	काहे	काहे	PRON	PR_PRQ	_	29	compound	_	_
 29	नइखे	नइखा	PART	RP_NEG	Aspect=Perf|Number=Plur|Person=3|VerbForm=Part|Voice=Act	30	advcl	_	_
 30	हो	हो	VERB	V_VM	_	10	ccomp	_	_
-31	पावत	पावत	AUX	V_VAUX	Case=Nom	30	aux	_	_
+31	पावत	पा	AUX	V_VAUX	Case=Nom	30	aux	_	_
 32	?	?	PUNCT	RD_PUNC	_	10	punct	_	_
 
 ~~~

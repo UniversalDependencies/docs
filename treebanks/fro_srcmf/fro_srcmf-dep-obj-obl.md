@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `obj:obl`: <tt><a hr
 8	lur	_	PRON	PROper	PronType=Prs	9	iobj	_	_
 9	anseint	_	VERB	VERcjg	VerbForm=Fin	1	acl	_	_
 10	ol	_	PRON	PROrel.PROper	_	12	obj:obl	_	_
-11	poissent	_	VERB	VERcjg	VerbForm=Fin	12	aux	_	_
+11	poissent	_	AUX	VERcjg	VerbForm=Fin	12	aux	_	_
 12	recovrer	_	VERB	VERinf	VerbForm=Inf	9	xcomp	_	_
 
 ~~~

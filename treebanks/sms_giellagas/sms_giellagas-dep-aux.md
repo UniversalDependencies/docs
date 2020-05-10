@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="sms_giellagas-dep-aux-neg.html">aux:neg</a></tt>.
 
-8 nodes (2%) are attached to their parents as `aux`.
+26 nodes (2%) are attached to their parents as `aux`.
 
-8 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.375.
+24 instances of `aux` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.30769230769231.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (6; 75% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 13% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 13% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (24; 92% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -36,7 +36,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 aux	color:blue
-1	kõõjji	kõõččâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
+1	kõõjji	kõõččâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	5	punct	_	_
 3	štõ	što	SCONJ	CS	_	5	mark	_	_
 4	leäk-a	leeʹd	AUX	Aux	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	5	cop	_	GTtags=IV,Ind,Prs,Sg2,Qst/a
@@ -66,7 +66,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	GTtags=Sem/Time
 4	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	5	nummod	_	GTtags=Sg,Nom
 5	eeʹjj	eeʹǩǩ	NOUN	N	Case=Acc|Number=Sing	8	obl:tmod	_	GTtags=Sg,Acc
-6	feʹrttji	feʹrttjed	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Prt	8	aux	_	GTtags=Ind,Prt,Sg3
+6	feʹrttji	feʹrttjed	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	GTtags=Ind,Prt,Sg3
 7	leeʹd	leeʹd	AUX	Aux	Valency=1|VerbForm=Inf	8	cop	_	GTtags=IV,Inf
 8	säldten	säldten	NOUN	N	Case=Ess	0	root	_	GTtags=Ess
 9	ja	ja	CCONJ	CC	_	11	cc	_	_

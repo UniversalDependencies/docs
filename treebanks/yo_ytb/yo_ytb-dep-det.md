@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-73 nodes (3%) are attached to their parents as `det`.
+273 nodes (3%) are attached to their parents as `det`.
 
-50 instances of `det` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02739726027397.
+191 instances of `det` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12820512820513.
 
-The following 6 pairs of parts of speech are connected with `det`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (52; 71% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (11; 15% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (2; 3% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (214; 78% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (15; 5% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (14; 5% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (12; 4% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (7; 3% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 7 det	color:blue
 1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_10.19
-2	náà	náà	ADV	_	_	5	advmod	_	Gloss=that|Ref=JOHN_10.19
+2	náà	náà	ADV	_	_	1	fixed	_	Gloss=that|Ref=JOHN_10.19
 3	ìyapa	ìyapa	NOUN	_	_	5	nsubj	_	Gloss=separation|Ref=JOHN_10.19
 4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.19
 5	wà	wà	VERB	_	_	0	root	_	Gloss=was|Ref=JOHN_10.19
@@ -60,40 +60,29 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 14 det	color:blue
-1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.20
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.20
-3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.20
-4	pé	pé	SCONJ	_	_	12	mark	_	Gloss=that|Ref=GEN_1.20|SpaceAfter=No
-5	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=GEN_1.20
-6	“	“	PUNCT	_	_	12	punct	_	Gloss=“|Ref=GEN_1.20|SpaceAfter=No
-7	Jẹ́	jẹ́	AUX	_	_	12	aux	_	Gloss=be|Ref=GEN_1.20
-8	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.20
-9	omi	omi	NOUN	_	_	12	nsubj	_	Gloss=water|Ref=GEN_1.20
-10	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.20
-11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl	_	Gloss=he|Ref=GEN_1.20
-12	kún	kún	VERB	_	_	3	ccomp	_	Gloss=full|Ref=GEN_1.20
-13	fún	fún	ADP	_	_	15	case	_	Gloss=unto|Ref=GEN_1.20
-14	àwọn	àwọn	PRON	_	PronType=Ind	15	det	_	Gloss=them|Ref=GEN_1.20
-15	ohun	ohun	NOUN	_	_	12	obj	_	Gloss=things|Ref=GEN_1.20
-16	alààyè	alààyè	NOUN	_	_	15	nmod	_	Gloss=living|Ref=GEN_1.20|SpaceAfter=No
-17	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=GEN_1.20
-18	kí	kí	SCONJ	_	_	25	mark	_	Gloss=let|Ref=GEN_1.20
-19	àwọn	àwọn	DET	_	_	20	det	_	Gloss=the|Ref=GEN_1.20
-20	ẹyẹ	ẹyẹ	NOUN	_	_	25	nsubj	_	Gloss=birds|Ref=GEN_1.20
-21	kí	kí	AUX	_	_	25	aux	_	Gloss=let|Ref=GEN_1.20
-22	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	expl	_	Gloss=it|Ref=GEN_1.20
-23	sì	sì	CCONJ	_	_	25	cc	_	Gloss=and|Ref=GEN_1.20
-24	máa	máa	AUX	_	_	25	aux	_	Gloss=be|Ref=GEN_1.20
-25	fò	fò	VERB	_	_	12	conj	_	Gloss=fly|Ref=GEN_1.20
-26	ní	ní	ADP	_	_	27	case	_	Gloss=in|Ref=GEN_1.20
-27	òfuurufú	òfuurufú	NOUN	_	_	25	obl	_	Gloss=firmament|Ref=GEN_1.20|SpaceAfter=No
-28	.	.	PUNCT	_	_	12	punct	_	Gloss=.|Ref=GEN_1.20|SpaceAfter=No
-29	”	”	PUNCT	_	_	12	punct	_	Gloss=”|Ref=GEN_1.20
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 16 det	color:blue
+1	Nígbà	nígbà	ADV	_	_	6	advmod	_	Ref=MARK_5.17|Gloss=when
+2	náà	náà	ADV	_	_	1	fixed	_	Ref=MARK_5.17|SpaceAfter=No|Gloss=
+3	,	,	PUNCT	_	_	6	punct	_	Ref=MARK_5.17|Gloss=,
+4	àwọn	àwọn	DET	_	_	5	det	_	Ref=MARK_5.17|Gloss=the
+5	èrò	èrò	NOUN	_	_	6	nsubj	_	Ref=MARK_5.17|Gloss=people
+6	bẹ̀rẹ̀	bẹ̀rẹ̀	VERB	_	_	0	root	_	Ref=MARK_5.17|Gloss=began
+7	sí	sí	ADP	_	_	9	case	_	Ref=MARK_5.17|Gloss=to
+8	ní	ní	ADP	_	_	9	case	_	Ref=MARK_5.17|Gloss=in
+9	bẹ	bẹ	VERB	_	_	6	compound:svc	_	Ref=MARK_5.17|Gloss=is
+10	Jésù	Jésù	PROPN	_	_	14	nsubj	_	Ref=MARK_5.17|Gloss=jesus
+11	pé	pé	SCONJ	_	_	14	mark	_	Ref=MARK_5.17|Gloss=that
+12	kí	kí	AUX	_	_	14	aux	_	Ref=MARK_5.17|Gloss=let
+13	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	expl	_	Ref=MARK_5.17|Gloss=he
+14	fi	fi	VERB	_	_	6	advcl	_	Ref=MARK_5.17|Gloss=leave
+15	agbégbé	agbégbé	NOUN	_	_	14	obj	_	Ref=MARK_5.17|Gloss=area
+16	àwọn	àwọn	DET	_	_	17	det	_	Ref=MARK_5.17|Gloss=their
+17	sílẹ̀	sílẹ̀	VERB	_	_	14	compound:svc	_	Ref=MARK_5.17|SpaceAfter=No|Gloss=left
+18	.	.	PUNCT	_	_	6	punct	_	Ref=MARK_5.17|Gloss=.
 
 ~~~
 

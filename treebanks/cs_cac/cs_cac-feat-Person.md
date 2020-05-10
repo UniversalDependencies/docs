@@ -101,7 +101,6 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (2743; 79%),
 <tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (710; 50%),
 <tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (14; 78%),
-<tt>VERB --[<tt><a href="cs_cac-dep-obl-agent.html">obl:agent</a></tt>]--> PRON</tt> (4; 80%),
 <tt>VERB --[<tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt>]--> PRON</tt> (2; 67%),
 <tt>PRON --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cac-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%),

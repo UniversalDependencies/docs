@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-26215 tokens (10%) have a non-empty value of `Person`.
-555 types (3%) occur at least once with a non-empty value of `Person`.
-453 lemmas (3%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (18667; 7% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (5235; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (2313; 1% instances).
+26229 tokens (10%) have a non-empty value of `Person`.
+558 types (3%) occur at least once with a non-empty value of `Person`.
+452 lemmas (3%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (18681; 7% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (5235; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (2313; 1% instances).
 
 ### `PRON`
 
-18667 <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> tokens (81% of all `PRON` tokens) have a non-empty value of `Person`.
+18681 <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> tokens (81% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (18667; 100%), <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (15023; 80%), <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13851; 74%), <tt><a href="en_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11783; 63%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11044; 59%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (18681; 100%), <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (15021; 80%), <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13863; 74%), <tt><a href="en_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11781; 63%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11046; 59%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (7964; 43% of non-empty `Person`): <em>i, my, we, me, our, us, myself, 's, ourselves, s</em>
-* `2` (3617; 19% of non-empty `Person`): <em>you, your, yourself, u, ur, yourselves</em>
-* `3` (7086; 38% of non-empty `Person`): <em>it, they, he, their, his, them, him, she, her, its</em>
-* `EMPTY` (4288): <em>that, this, what, there, who, which, anyone, something, anything, nothing</em>
+* `2` (3620; 19% of non-empty `Person`): <em>you, your, yourself, u, ur, yourselves</em>
+* `3` (7097; 38% of non-empty `Person`): <em>it, they, he, their, his, them, him, she, her, its</em>
+* `EMPTY` (4280): <em>that, this, what, there, who, which, anyone, something, anything, nothing</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (24) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (23) occur only with one value of `Person`.
 
 ### `AUX`
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td><em>was</em></td></tr>
-  <tr><td><tt><tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>am</em></td><td><em>is, 's, s, ’s, `s, ai, se</em></td></tr>
+  <tr><td><tt><tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>am</em></td><td><em>is, 's, s, ’s, `s, ai, i, se</em></td></tr>
 </table>
 
 ### `VERB`
@@ -57,7 +57,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 * `1` (11; 0% of non-empty `Person`): <em>was, am</em>
 * `3` (2302; 100% of non-empty `Person`): <em>is, has, was, says, 's, makes, seems, needs, looks, comes</em>
-* `EMPTY` (26096): <em>have, get, know, had, go, do, want, said, see, going</em>
+* `EMPTY` (26095): <em>have, get, know, had, go, do, want, said, see, going</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>

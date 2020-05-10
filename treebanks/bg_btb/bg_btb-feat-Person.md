@@ -12,20 +12,20 @@ It occurs with 3 different values: `1`, `2`, `3`.
 23272 tokens (15%) have a non-empty value of `Person`.
 5408 types (21%) occur at least once with a non-empty value of `Person`.
 2534 lemmas (17%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (14505; 9% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (4226; 3% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (4152; 3% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (389; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (14164; 9% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (4493; 3% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (4226; 3% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (389; 0% instances).
 
 ### `VERB`
 
-14505 <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Person`.
+14164 <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (14505; 100%), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14505; 100%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14505; 100%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14224; 98%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (14224; 98%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10187; 70%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9800; 68%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (8360; 58%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (14164; 100%), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14164; 100%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14164; 100%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13916; 98%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (13916; 98%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9904; 70%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9528; 67%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (8052; 57%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (1818; 13% of non-empty `Person`): <em>искам, мога, можем, имаме, кажа, говоря, искаме, мисля, смятам, надявам</em>
-* `2` (884; 6% of non-empty `Person`): <em>можеш, имате, дойдеш, мислиш, имаш, искаш, знаеш, смятате, кажеш, коментирате</em>
-* `3` (11803; 81% of non-empty `Person`): <em>има, няма, може, трябва, е, каза, могат, съобщи, заяви, стана</em>
-* `EMPTY` (2680): <em>имало, направил, дал, трябвало, заминал, направено, искал, казал, направили, дошъл</em>
+* `1` (1803; 13% of non-empty `Person`): <em>искам, мога, можем, имаме, кажа, говоря, искаме, мисля, смятам, надявам</em>
+* `2` (881; 6% of non-empty `Person`): <em>можеш, имате, дойдеш, мислиш, имаш, искаш, знаеш, смятате, кажеш, коментирате</em>
+* `3` (11480; 81% of non-empty `Person`): <em>има, няма, може, трябва, каза, могат, съобщи, заяви, стана, имат</em>
+* `EMPTY` (2664): <em>имало, направил, дал, трябвало, заминал, направено, искал, казал, направили, дошъл</em>
 
 <table>
   <tr><th>Paradigm <i>мога</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -35,6 +35,31 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>Можехме</em></td><td></td><td><em>можеха</em></td></tr>
   <tr><td><tt><tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>можаха</em></td></tr>
   <tr><td><tt><tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>можем</em></td><td><em>можете</em></td><td><em>могат</em></td></tr>
+</table>
+
+### `AUX`
+
+4493 <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> tokens (49% of all `AUX` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4493; 100%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4354; 97%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4354; 97%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4107; 91%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3679; 82%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3251; 72%).
+
+`AUX` tokens may have the following values of `Person`:
+
+* `1` (310; 7% of non-empty `Person`): <em>съм, сме, бих, бях, бъдем, бъда, бихме, бяхме</em>
+* `2` (124; 3% of non-empty `Person`): <em>си, сте, бъдеш, бихте, бяхте, беше, бъдете, Би, Бъди, бива</em>
+* `3` (4059; 90% of non-empty `Person`): <em>е, са, бе, бъде, беше, бяха, бъдат, би, биха, биват</em>
+* `EMPTY` (4641): <em>да, ще, бил, били, била, било, е, са, бъдат, беше</em>
+
+<table>
+  <tr><th>Paradigm <i>съм</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>би</em></td></tr>
+  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>бих</em></td><td><em>Би</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>бихме</em></td><td><em>бихте</em></td><td><em>биха</em></td></tr>
+  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>бях</em></td><td><em>беше</em></td><td><em>бе, беше</em></td></tr>
+  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>съм</em></td><td><em>си</em></td><td><em>е</em></td></tr>
+  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>бяхме</em></td><td></td><td><em>бяха</em></td></tr>
+  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>сме</em></td><td><em>сте</em></td><td><em>са</em></td></tr>
+  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>бяхте</em></td><td></td></tr>
 </table>
 
 ### `PRON`
@@ -72,31 +97,6 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ни</em></td><td><em>ви</em></td><td><em>им</em></td></tr>
 </table>
 
-### `AUX`
-
-4152 <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> tokens (47% of all `AUX` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4152; 100%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4046; 97%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4046; 97%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3799; 91%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3407; 82%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2968; 71%).
-
-`AUX` tokens may have the following values of `Person`:
-
-* `1` (295; 7% of non-empty `Person`): <em>съм, сме, бих, бях, бъдем, бъда, бихме, бяхме</em>
-* `2` (121; 3% of non-empty `Person`): <em>си, сте, бъдеш, бихте, бяхте, беше, бъдете, Би, Бъди</em>
-* `3` (3736; 90% of non-empty `Person`): <em>е, са, бе, бъде, беше, бяха, бъдат, би, биха, биват</em>
-* `EMPTY` (4625): <em>да, ще, бил, били, била, било, е, са, бъдат, беше</em>
-
-<table>
-  <tr><th>Paradigm <i>съм</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>би</em></td></tr>
-  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>бих</em></td><td><em>Би</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>бихме</em></td><td><em>бихте</em></td><td><em>биха</em></td></tr>
-  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>бях</em></td><td><em>беше</em></td><td><em>бе, беше</em></td></tr>
-  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>съм</em></td><td><em>си</em></td><td><em>е</em></td></tr>
-  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>бяхме</em></td><td></td><td><em>бяха</em></td></tr>
-  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>сме</em></td><td><em>сте</em></td><td><em>са</em></td></tr>
-  <tr><td><tt><tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>бяхте</em></td><td></td></tr>
-</table>
-
 ### `DET`
 
 389 <tt><a href="bg_btb-pos-DET.html">DET</a></tt> tokens (16% of all `DET` tokens) have a non-empty value of `Person`.
@@ -125,14 +125,14 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="bg_btb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1173; 81%),
-<tt>VERB --[<tt><a href="bg_btb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1052; 57%),
-<tt>VERB --[<tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (955; 52%),
-<tt>VERB --[<tt><a href="bg_btb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (821; 66%),
-<tt>VERB --[<tt><a href="bg_btb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (531; 80%),
-<tt>VERB --[<tt><a href="bg_btb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (222; 62%),
-<tt>VERB --[<tt><a href="bg_btb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (96; 59%),
-<tt>VERB --[<tt><a href="bg_btb-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (33; 54%),
-<tt>VERB --[<tt><a href="bg_btb-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (29; 100%),
-<tt>PRON --[<tt><a href="bg_btb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (5; 83%).
+<tt>VERB --[<tt><a href="bg_btb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1158; 81%),
+<tt>VERB --[<tt><a href="bg_btb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (971; 57%),
+<tt>VERB --[<tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (936; 52%),
+<tt>VERB --[<tt><a href="bg_btb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (807; 66%),
+<tt>VERB --[<tt><a href="bg_btb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (529; 80%),
+<tt>VERB --[<tt><a href="bg_btb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (217; 62%),
+<tt>VERB --[<tt><a href="bg_btb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (84; 58%),
+<tt>AUX --[<tt><a href="bg_btb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (65; 59%),
+<tt>VERB --[<tt><a href="bg_btb-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (32; 53%),
+<tt>VERB --[<tt><a href="bg_btb-dep-fixed.html">fixed</a></tt>]--> AUX</tt> (29; 100%).
 

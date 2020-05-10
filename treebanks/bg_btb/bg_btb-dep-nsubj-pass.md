@@ -42,7 +42,7 @@ The following 12 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 7	fgColor:white
 # visual-style 7 5 nsubj:pass	color:blue
 1	Най-лошото	лош	ADJ	Ansd	Definite=Def|Degree=Sup|Gender=Neut|Number=Sing	2	nsubj	2:nsubj	_
-2	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	punct	_	7	punct	7:punct	_
 4	че	че	SCONJ	Cs	_	7	mark	7:mark	_
 5	тя	аз	PRON	Ppe-os3f	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj:pass	7:nsubj:pass	_

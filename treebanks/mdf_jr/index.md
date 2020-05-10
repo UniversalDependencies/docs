@@ -16,11 +16,11 @@ Family: Uralic, Mordvin
 
 This treebank has been part of Universal Dependencies since the UD v2.5 release.
 
-The following people have contributed to making this treebank part of UD: Jack Rueter, Maria Liovina, Nadezhda Kabaeva.
+The following people have contributed to making this treebank part of UD: Jack Rueter, Maria Levina, Nadezhda Kabaeva.
 
 Repository: [UD_Moksha-JR](https://github.com/UniversalDependencies/UD_Moksha-JR)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmdf_jr25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmdf_jr26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 
@@ -79,11 +79,12 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 [![DOI](https://zenodo.org/badge/118232421.svg)](https://zenodo.org/badge/latestdoi/118232421)
 
+
 ## About the authors
 
 * Кузнецов, Юрий 1975: Сембось ушеткшни киста. Саранск.
 * Mishanina, V. I. (Мишанина, В. И.) 1972: Лиендень очконяса. Мокша №3, 38–39. Саранск. (MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39) (Мордовиянь Кадошкина аймаконь Адаж веле)
-
+* Мокшень кяль. Синтаксис : учебник / аноклаф-тиф Н. С. Алямкинонь и О. Е. Поляковонь профессорхнень вятемаснон ала. -- Саранск : Изд-во Мордов. ун-та, 2008. -- 200 с. -- На морд.-мокша яз.
 
 
 # Statistics of UD Moksha JR
@@ -94,21 +95,21 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 ## Features
 
-[AdpType](mdf_jr-feat-AdpType.html) – [AdvType](mdf_jr-feat-AdvType.html) – [Case](mdf_jr-feat-Case.html) – [Clitic](mdf_jr-feat-Clitic.html) – [Connegative](mdf_jr-feat-Connegative.html) – [Definite](mdf_jr-feat-Definite.html) – [Derivation](mdf_jr-feat-Derivation.html) – [Mood](mdf_jr-feat-Mood.html) – [Number](mdf_jr-feat-Number.html) – [Number[obj]](mdf_jr-feat-Number-obj.html) – [Number[psor]](mdf_jr-feat-Number-psor.html) – [Number[subj]](mdf_jr-feat-Number-subj.html) – [NumType](mdf_jr-feat-NumType.html) – [Person](mdf_jr-feat-Person.html) – [Person[obj]](mdf_jr-feat-Person-obj.html) – [Person[psor]](mdf_jr-feat-Person-psor.html) – [Person[subj]](mdf_jr-feat-Person-subj.html) – [Polarity](mdf_jr-feat-Polarity.html) – [PronType](mdf_jr-feat-PronType.html) – [Reflex](mdf_jr-feat-Reflex.html) – [Tense](mdf_jr-feat-Tense.html) – [Valency](mdf_jr-feat-Valency.html) – [Variant](mdf_jr-feat-Variant.html) – [VerbForm](mdf_jr-feat-VerbForm.html) – [VerbType](mdf_jr-feat-VerbType.html)
+[AdpType](mdf_jr-feat-AdpType.html) – [AdvType](mdf_jr-feat-AdvType.html) – [Case](mdf_jr-feat-Case.html) – [Clitic](mdf_jr-feat-Clitic.html) – [Connegative](mdf_jr-feat-Connegative.html) – [Definite](mdf_jr-feat-Definite.html) – [Degree](mdf_jr-feat-Degree.html) – [Derivation](mdf_jr-feat-Derivation.html) – [Mood](mdf_jr-feat-Mood.html) – [NameType](mdf_jr-feat-NameType.html) – [Number](mdf_jr-feat-Number.html) – [Number[obj]](mdf_jr-feat-Number-obj.html) – [Number[psor]](mdf_jr-feat-Number-psor.html) – [Number[subj]](mdf_jr-feat-Number-subj.html) – [NumType](mdf_jr-feat-NumType.html) – [Person](mdf_jr-feat-Person.html) – [Person[obj]](mdf_jr-feat-Person-obj.html) – [Person[psor]](mdf_jr-feat-Person-psor.html) – [Person[subj]](mdf_jr-feat-Person-subj.html) – [Polarity](mdf_jr-feat-Polarity.html) – [PronType](mdf_jr-feat-PronType.html) – [Reflex](mdf_jr-feat-Reflex.html) – [Style](mdf_jr-feat-Style.html) – [Tense](mdf_jr-feat-Tense.html) – [Typo](mdf_jr-feat-Typo.html) – [Valency](mdf_jr-feat-Valency.html) – [Variant](mdf_jr-feat-Variant.html) – [VerbForm](mdf_jr-feat-VerbForm.html) – [VerbType](mdf_jr-feat-VerbType.html)
 
 ## Relations
 
-[advcl](mdf_jr-dep-advcl.html) – [advmod](mdf_jr-dep-advmod.html) – [advmod:tmod](mdf_jr-dep-advmod-tmod.html) – [amod](mdf_jr-dep-amod.html) – [appos](mdf_jr-dep-appos.html) – [aux](mdf_jr-dep-aux.html) – [aux:neg](mdf_jr-dep-aux-neg.html) – [case](mdf_jr-dep-case.html) – [cc](mdf_jr-dep-cc.html) – [cc:preconj](mdf_jr-dep-cc-preconj.html) – [ccomp](mdf_jr-dep-ccomp.html) – [conj](mdf_jr-dep-conj.html) – [cop](mdf_jr-dep-cop.html) – [csubj](mdf_jr-dep-csubj.html) – [det](mdf_jr-dep-det.html) – [discourse](mdf_jr-dep-discourse.html) – [fixed](mdf_jr-dep-fixed.html) – [flat](mdf_jr-dep-flat.html) – [mark](mdf_jr-dep-mark.html) – [nmod](mdf_jr-dep-nmod.html) – [nmod:bahuv](mdf_jr-dep-nmod-bahuv.html) – [nsubj](mdf_jr-dep-nsubj.html) – [nummod](mdf_jr-dep-nummod.html) – [obj](mdf_jr-dep-obj.html) – [obl](mdf_jr-dep-obl.html) – [obl:tmod](mdf_jr-dep-obl-tmod.html) – [orphan](mdf_jr-dep-orphan.html) – [parataxis](mdf_jr-dep-parataxis.html) – [punct](mdf_jr-dep-punct.html) – [root](mdf_jr-dep-root.html) – [vocative](mdf_jr-dep-vocative.html) – [xcomp](mdf_jr-dep-xcomp.html)
+[acl:relcl](mdf_jr-dep-acl-relcl.html) – [advcl](mdf_jr-dep-advcl.html) – [advcl:tmod](mdf_jr-dep-advcl-tmod.html) – [advmod](mdf_jr-dep-advmod.html) – [advmod:deg](mdf_jr-dep-advmod-deg.html) – [advmod:lmod](mdf_jr-dep-advmod-lmod.html) – [advmod:mmod](mdf_jr-dep-advmod-mmod.html) – [advmod:tmod](mdf_jr-dep-advmod-tmod.html) – [amod](mdf_jr-dep-amod.html) – [appos](mdf_jr-dep-appos.html) – [aux](mdf_jr-dep-aux.html) – [aux:neg](mdf_jr-dep-aux-neg.html) – [aux:opt](mdf_jr-dep-aux-opt.html) – [case](mdf_jr-dep-case.html) – [cc](mdf_jr-dep-cc.html) – [cc:preconj](mdf_jr-dep-cc-preconj.html) – [ccomp](mdf_jr-dep-ccomp.html) – [compound](mdf_jr-dep-compound.html) – [conj](mdf_jr-dep-conj.html) – [cop](mdf_jr-dep-cop.html) – [cop:own](mdf_jr-dep-cop-own.html) – [csubj](mdf_jr-dep-csubj.html) – [csubj:cop](mdf_jr-dep-csubj-cop.html) – [det](mdf_jr-dep-det.html) – [discourse](mdf_jr-dep-discourse.html) – [expl](mdf_jr-dep-expl.html) – [fixed](mdf_jr-dep-fixed.html) – [flat](mdf_jr-dep-flat.html) – [flat:name](mdf_jr-dep-flat-name.html) – [mark](mdf_jr-dep-mark.html) – [nmod](mdf_jr-dep-nmod.html) – [nmod:bahuv](mdf_jr-dep-nmod-bahuv.html) – [nmod:part](mdf_jr-dep-nmod-part.html) – [nmod:poss](mdf_jr-dep-nmod-poss.html) – [nsubj](mdf_jr-dep-nsubj.html) – [nsubj:cop](mdf_jr-dep-nsubj-cop.html) – [nsubj:pass](mdf_jr-dep-nsubj-pass.html) – [nummod](mdf_jr-dep-nummod.html) – [obj](mdf_jr-dep-obj.html) – [obl](mdf_jr-dep-obl.html) – [obl:agent](mdf_jr-dep-obl-agent.html) – [obl:lmod](mdf_jr-dep-obl-lmod.html) – [obl:tmod](mdf_jr-dep-obl-tmod.html) – [orphan](mdf_jr-dep-orphan.html) – [parataxis](mdf_jr-dep-parataxis.html) – [punct](mdf_jr-dep-punct.html) – [root](mdf_jr-dep-root.html) – [vocative](mdf_jr-dep-vocative.html) – [xcomp](mdf_jr-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 65 sentences, 560 tokens and 561 syntactic words.</li>
+<li>This corpus contains 140 sentences and 1252 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 123 tokens (22%) that are not followed by a space.</li>
+<li>This corpus contains 241 tokens (19%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -116,12 +117,10 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 </ul>
 
 <ul>
-<li>This corpus contains 4 types of words that contain both letters and punctuation. Examples: Панчк-ка, лиендихть-тиихть, л​и​й​ф​н​е​с​а​м​а​з​ь​-​т​и​с​а​м​а​з​ь, мялезост-ка</li>
+<li>This corpus contains 13 types of words that contain both letters and punctuation. Examples: кой-кона, Алда-баба, Кодама-кодама, Панчк-ка, кодама-бъди, кядьта-пильгта, лиендихть-тиихть, л​и​й​ф​н​е​с​а​м​а​з​ь​-​т​и​с​а​м​а​з​ь, мезень-бъди, мялезост-ка, ризфсь-пичефкссь, фкя-фкянь, ётай-потай</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 1 types of multi-word tokens. Examples: прясан.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -134,26 +133,27 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 </ul>
 
 <ul>
-<li>This corpus contains 1 word types tagged as particles (PART): улема</li>
+<li>This corpus contains 4 word types tagged as particles (PART): въдь, сяда, улема, хоть</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as pronouns (PRON): Сондеенза, кие, мезе, мон, монць, сон, тон, тя</li>
+<li>This corpus contains 15 lemmas tagged as pronouns (PRON): кивок, кие, кой-кона, кона, мезе, мезе-бди, мезевок, мон, монць, ня, сон, сонць, тон, тя, фкя-фкя</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as determiners (DET): ся, тя, эрь</li>
+<li>This corpus contains 7 lemmas tagged as determiners (DET): кодама-бди, кой-кона, лама, ся, тя, эрь, эсь</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: тя</li>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: кой-кона, тя</li>
 </ul>
 
 <ul>
-<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): апак, аф, афи, афоль, аш, ашезь, оль, улемс, эрявомс</li>
+<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): апак, аф, афи, аш, катк, савомс, сашендовомс, улемс, эрявомс</li>
 </ul>
 
 <ul>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: савомс, эрявомс</li>
 </ul>
 
 <ul>
@@ -163,7 +163,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: мадомста</li>
+    <li>VERB: дивандазь, кенордазь, мадомста, палозь, ётазь</li>
   </ul>
   </li>
 </ul>
@@ -171,7 +171,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: кадомс, лездомс, лиендемс, налхксемс, петемс, тиемда, тиемс, штама</li>
+    <li>VERB: стямс, Валдашкодомс, анцемс, валдашкодомда, ватксема, дивандафтомс, кадомс, косьфтамс, лездомс, лиендемс</li>
   </ul>
   </li>
 </ul>
@@ -179,7 +179,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Part
   <ul>
-    <li>VERB: лиенди</li>
+    <li>VERB: ацафоль, ащи, иретьфти, лиенди, маскировандафт, моли, путфт, ранендаф, сай, шавф</li>
   </ul>
   </li>
 </ul>
@@ -187,7 +187,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: муськома</li>
+    <li>VERB: ардомась, варьхмодема, кенярдема, муськома</li>
   </ul>
   </li>
 </ul>
@@ -204,8 +204,10 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: гулянятнень, сельмонень, Лётчикне, арьсеманень, вайгяльхть, гулянянза, гулянят, досканят, коволнятнень, коволхненди</li>
-      <li>PRON: синь, теест</li>
+      <li>ADJ: малат</li>
+      <li>NOUN: валхнень, гулянятнень, досканят, ломаттне, сельмонень, стирнятне, Автомашинатне, Лётчикне, ават, арьсеманень</li>
+      <li>PRON: синь, минь, теест</li>
+      <li>VERB-Part: маскировандафт, путфт</li>
     </ul>
   </li>
 </ul>
@@ -213,10 +215,12 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Plur,Sing
     <ul>
-      <li>NOUN: гулянянь, онцтон, Цёранянди, алядот, вастса, веленьконь, воляс, геройкс, карденяв, комнатаста</li>
-      <li>NUM: Кемоньшка</li>
-      <li>PRON: Мезень, тянь</li>
-      <li>PROPN: Петянь</li>
+      <li>ADJ: Ёмластокиге, аноконди</li>
+      <li>NOUN: гулянянь, онцтон, Васильевнань, Канайкинонь, Кизонь, Колянь, Ленинонь, Малининонь, Ошу, Разъезду</li>
+      <li>NUM: Кемоньшка, нильгемоньшка</li>
+      <li>PRON: Мезень, киньге, конань, мезень-бъди, тянь</li>
+      <li>PROPN: Архипонь, Ванянди, Веряскинонди, Парижса, Петянь</li>
+      <li>VERB: самозост</li>
     </ul>
   </li>
 </ul>
@@ -224,13 +228,13 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: оцю, ине, кичкор, крутой, пара, сенем, цебярь, ёмла</li>
-      <li>DET: эрь, Тя, ся</li>
-      <li>NOUN: карденя, очконять, шиня, брадозень, пацяняц, Алязе, Алязтиге, Игуазсь, Очконясь, Петять</li>
-      <li>NUM: кафта</li>
-      <li>PRON: сон, мон, сонь, монць, теень, тя, Мондейне, Сондеенза, кие, мезе</li>
-      <li>PROPN: Петя, Марья, Браун, Джейн, Маря, Мишазе, Парижса, Парижсь, Смит, Терешкова</li>
-      <li>VERB-Vnoun: муськома</li>
+      <li>ADJ: оцю, козя, од, омбоце, пяшксе, сенем, танцти, ужяль, ёмла, Весяла</li>
+      <li>DET: Тя, эрь, лама, ся, кодама-бъди, кой-кона, эсь</li>
+      <li>NOUN: шись, карденя, очконять, шамац, шиня, брадозень, директорсь, менельть, мялец, пацяняц</li>
+      <li>NUM: кафта, кафцьке, фкя, колмоцьке, комсь</li>
+      <li>PRON: сон, мон, сонь, тейнза, тя, кона, монць, теень, тонь, Мондейне</li>
+      <li>PROPN: Петя, Марья, Алда-баба, Анна, Браун, Василь, Васильевич, Васясь, Вельматов, Володя</li>
+      <li>VERB-Vnoun: ардомась, варьхмодема, кенярдема, муськома</li>
     </ul>
   </li>
 </ul>
@@ -240,11 +244,28 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 </ul>
 
 <ul>
+  <li>Abe
+    <ul>
+      <li>NOUN: эрьгяфтома</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Abl
     <ul>
-      <li>ADP: эзда</li>
-      <li>NOUN: алядот, пельгта</li>
-      <li>VERB-Inf: тиемда</li>
+      <li>ADP: эзда, эздост</li>
+      <li>NOUN: алядот, вайгяльда, иможда, класста, книгада, кядьта-пильгта, ломаньда, минутада, пильгта, табакта</li>
+      <li>VERB-Inf: валдашкодомда, тиемда, шашнемда</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Cau
+    <ul>
+      <li>ADV: тянкса</li>
+      <li>NOUN: лезксонкса</li>
     </ul>
   </li>
 </ul>
@@ -252,7 +273,8 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Comp
     <ul>
-      <li>NUM: Кемоньшка</li>
+      <li>ADP: эшка</li>
+      <li>NUM: Кемоньшка, нильгемоньшка</li>
     </ul>
   </li>
 </ul>
@@ -260,8 +282,10 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Dat
     <ul>
-      <li>NOUN: Алязтиге, Цёранянди, коволхненди, нармоненди, пацянди, пеняти, поталакти, тядязти, ялганцты</li>
-      <li>PRON: теень, Мондейне, Сондеенза, теест</li>
+      <li>ADJ: аноконди</li>
+      <li>NOUN: Алязтиге, Цёранянди, книгати, коволхненди, ломаттненди, моряти, нармоненди, отделснонды, пацянди, пеняти</li>
+      <li>PRON: тейнза, теень, Мондейне, Сондеенза, Тейне, теест</li>
+      <li>PROPN: Ванянди, Веряскинонди</li>
     </ul>
   </li>
 </ul>
@@ -269,7 +293,9 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Ela
     <ul>
-      <li>NOUN: онцтон, комнатаста, куднястонза, пятналангста</li>
+      <li>ADJ: Ёмластокиге</li>
+      <li>ADV: тоста</li>
+      <li>NOUN: онцтон, доскаста, комнатаста, куднястонза, кудста, пингста, пряста, пятналангста, ширеста</li>
       <li>VERB-Conv: мадомста</li>
     </ul>
   </li>
@@ -278,9 +304,10 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Gen
     <ul>
-      <li>NOUN: очконять, брадозень, гулянянь, гулянятнень, сельмонень, Петять, алязень, арьсеманень, беднаять, бронзать</li>
-      <li>PRON: сонь, Мезень, Синь, моньге, тонь, тянь</li>
-      <li>PROPN: Петянь, Франциять</li>
+      <li>ADJ: омбоцеть</li>
+      <li>NOUN: очконять, брадозень, валхнень, гулянянь, гулянятнень, менельть, сельмонень, Васильевнань, Канайкинонь, Кизонь</li>
+      <li>PRON: сонь, синь, тонь, Мезень, Монь, киньге, конань, мезень-бъди, моньге, тянь</li>
+      <li>PROPN: Архипонь, Петянь, Франциять</li>
     </ul>
   </li>
 </ul>
@@ -288,9 +315,9 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Ill
     <ul>
-      <li>ADP: лангс</li>
-      <li>ADV: эзонза</li>
-      <li>NOUN: воляс, мялезост-ка</li>
+      <li>ADP: лангс, малас, эзонза</li>
+      <li>NOUN: воляс, каршес, лафтубрязонза, мялезост-ка, сереc, тевс, туцяс, экскурсияс</li>
+      <li>VERB: самозост</li>
     </ul>
   </li>
 </ul>
@@ -298,7 +325,9 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Ine
     <ul>
-      <li>NOUN: вастса, кядьса, парашютса, пильгса, пряс, прясон, самолётса</li>
+      <li>ADP: эса, ваксса, лангса, эсост</li>
+      <li>NOUN: брюкаса, вастса, верса, дворса, илиса, кизоса, класса, комнатаса, коридорса, кшиса</li>
+      <li>PROPN: Парижса</li>
     </ul>
   </li>
 </ul>
@@ -306,7 +335,8 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Lat
     <ul>
-      <li>NOUN: карденяв, школавка</li>
+      <li>ADP: алу, шири</li>
+      <li>NOUN: инголи, Ошу, Разъезду, бохаряму, карденяв, кухняв, паксяв, переменав, пряв, ульцяв</li>
     </ul>
   </li>
 </ul>
@@ -314,7 +344,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Loc
     <ul>
-      <li>VERB-Inf: штама</li>
+      <li>VERB-Inf: ватксема, лувома, работама, рисовандама, сёрмадома, штама, якама</li>
     </ul>
   </li>
 </ul>
@@ -322,13 +352,14 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: оцю, ине, кичкор, крутой, пара, сенем, цебярь, ёмла</li>
-      <li>DET: эрь, Тя, ся</li>
-      <li>NOUN: карденя, шиня, пацяняц, Алязе, Игуазсь, Лётчикне, Очконясь, Самсон, Стирсь, брадоц</li>
-      <li>NUM: кафта</li>
-      <li>PRON: сон, мон, монць, тя, кие, мезе, синь, тон</li>
-      <li>PROPN: Петя, Марья, Браун, Джейн, Маря, Мишазе, Парижса, Парижсь, Смит, Терешкова</li>
-      <li>VERB-Vnoun: муськома</li>
+      <li>ADJ: оцю, козя, од, омбоце, пяшксе, сенем, танцти, ужяль, ёмла, Весяла</li>
+      <li>DET: Тя, эрь, лама, ся, кодама-бъди, кой-кона, эсь</li>
+      <li>NOUN: шись, карденя, шамац, директорсь, досканят, ломаттне, мялец, пацяняц, стирнятне, Авась</li>
+      <li>NUM: кафта, кафцьке, фкя, колмоцьке, комсь</li>
+      <li>PRON: сон, мон, синь, тя, кона, монць, кие, кой-кона, мезе, мезевок</li>
+      <li>PROPN: Петя, Марья, Алда-баба, Анна, Браун, Василь, Васильевич, Васясь, Вельматов, Володя</li>
+      <li>VERB-Part: маскировандафт, путфт</li>
+      <li>VERB-Vnoun: ардомась, варьхмодема, кенярдема, муськома</li>
     </ul>
   </li>
 </ul>
@@ -336,8 +367,18 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Prl
     <ul>
-      <li>ADP: мельге</li>
-      <li>NOUN: морява, ужеванза</li>
+      <li>ADP: эзга, мельге</li>
+      <li>NOUN: вастоваст, велькска, вярьгя, кувалмова, морява, ортава, перьфпяльгя, ужеванза, ёткова</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Temp
+    <ul>
+      <li>ADV: Эста, кунара, курок, Мъзярда</li>
+      <li>NOUN: шиня</li>
+      <li>SCONJ: мъзярда</li>
     </ul>
   </li>
 </ul>
@@ -345,7 +386,8 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Tra
     <ul>
-      <li>NOUN: геройкс, лётчикокс, лётчикокска</li>
+      <li>ADP: ланга</li>
+      <li>NOUN: геройкс, крайкс, лётчикокс, лётчикокска, мокшекс, пинекс, симомбялькс, сиякс, стирнякс</li>
     </ul>
   </li>
 </ul>
@@ -358,8 +400,10 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Def
     <ul>
-      <li>NOUN: очконять, гулянятнень, Игуазсь, Лётчикне, Очконясь, Петять, Стирсь, беднаять, бронзать, вальмять</li>
-      <li>PROPN: Парижсь, Франциять</li>
+      <li>ADJ: омбоцеть</li>
+      <li>NOUN: шись, очконять, валхнень, гулянятнень, директорсь, ломаттне, менельть, стирнятне, Авась, Автомашинатне</li>
+      <li>PROPN: Васясь, Игуазсь, Маринкась, Млай, Парижсь, Франциять</li>
+      <li>VERB-Vnoun: ардомась</li>
     </ul>
   </li>
 </ul>
@@ -367,12 +411,14 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: оцю, ине, кичкор, крутой, пара, сенем, ёмла</li>
-      <li>DET: эрь</li>
-      <li>NOUN: карденя, шиня, гулянянь, Самсон, Цёранянди, вайгяльхть, вастса, велосипед, воляс, геройкс</li>
-      <li>NUM: кафта</li>
-      <li>PROPN: Петя, Марья, Браун, Джейн, Парижса, Петянь, Смит, Терешкова</li>
-      <li>VERB-Vnoun: муськома</li>
+      <li>ADJ: оцю, козя, од, омбоце, пяшксе, сенем, танцти, ужяль, ёмла, Ёмластокиге</li>
+      <li>DET: эрь, лама, кодама-бъди, кой-кона, эсь</li>
+      <li>NOUN: карденя, шиня, гулянянь, досканят, Васильевнань, Владимир, Елена, Канайкинонь, Кизонь, Коля</li>
+      <li>NUM: кафта, кафцьке, фкя, комсь, нильгемоньшка</li>
+      <li>PRON: кона, кой-кона, конань</li>
+      <li>PROPN: Петя, Марья, Алда-баба, Анна, Архипонь, Браун, Ванянди, Василь, Васильевич, Вельматов</li>
+      <li>VERB-Part: маскировандафт, путфт</li>
+      <li>VERB-Vnoun: варьхмодема, кенярдема, муськома</li>
     </ul>
   </li>
 </ul>
@@ -380,6 +426,17 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <h3>Degree and Polarity</h3>
 
 
+<ul>
+  <li><a>Degree</a></li>
+</ul>
+
+<ul>
+  <li>Cmp
+    <ul>
+      <li>PART: сяда</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Polarity</a></li>
@@ -388,7 +445,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: аф, ашень, Афи, апак, ашезь, афоль, ашезе, ашель, ашесть</li>
+      <li>AUX: аф, ашезь, ашень, Афи, апак, афоль, ашезе, ашель, ашесть</li>
     </ul>
   </li>
 </ul>
@@ -408,7 +465,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Short
     <ul>
-      <li>PRON: теень, теест</li>
+      <li>PRON: тейнза, теень, Тейне, теест</li>
     </ul>
   </li>
 </ul>
@@ -432,8 +489,8 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Cnj
     <ul>
-      <li>AUX: афоль</li>
-      <li>VERB: Рамаль, келептелине, лиелень, удалаль</li>
+      <li>AUX: афоль, улелеть</li>
+      <li>VERB: Рамаль, келептелине, лиелень, озалень, сизелень, удалаль, шачелеть</li>
     </ul>
   </li>
 </ul>
@@ -449,8 +506,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: эряв</li>
-      <li>VERB: Панчк-ка, кеподев</li>
+      <li>VERB: кеподев, эряв</li>
     </ul>
   </li>
 </ul>
@@ -458,8 +514,24 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: ашень, ашезь, ашезе, ашесть, улелеть, ульсь, улян, эрявсть, эрявсь</li>
-      <li>VERB: касан, рамась, Арьсян, корхтай, сявонь, ёран, Арьсень, Кончайне, Ладяйне, аварьгодонь</li>
+      <li>AUX: ульсь, ашезь, ашень, эрявсь, Эрявихть, ашезе, ашесть, сашендови, ульсть, улян</li>
+      <li>VERB: касан, рамась, Арьсян, варжакстсь, кенярдсь, корхтай, лездсь, лиссть, лиссь, марявсь</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Opt
+    <ul>
+      <li>AUX: савоза</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prec
+    <ul>
+      <li>VERB: Панчк-ка</li>
     </ul>
   </li>
 </ul>
@@ -469,11 +541,21 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 </ul>
 
 <ul>
+  <li>Past
+    <ul>
+      <li>AUX: ашень, ашезь, ашезе, ашель, ашесть, ульсь, эрявсть, эрявсь</li>
+      <li>VERB: рамась, сявонь, Арьсень, Кончайне, Ладяйне, Молелексолеть, аварьгодонь, азондыне, архтозе, ашкордасть</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Pres
     <ul>
-      <li>AUX: ан, улян</li>
-      <li>VERB: касан, Арьсян, корхтай, ёран, арьсят, ащи, валхтсамазь, ванан, ванат, ванондан</li>
-      <li>VERB-Part: лиенди</li>
+      <li>AUX: Эрявихть, сашендови, улян</li>
+      <li>NOUN: прясан</li>
+      <li>VERB: касан, Арьсян, ащи, корхтай, ёран, арьсят, атказай, ащан, валхтсамазь, ванан</li>
+      <li>VERB-Part: ащи, иретьфти, лиенди, моли, сай, ётай-потай</li>
     </ul>
   </li>
 </ul>
@@ -481,8 +563,8 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Prt1
     <ul>
-      <li>AUX: ашень, ашезь, ашезе, ашесть, ульсь, эрявсть, эрявсь</li>
-      <li>VERB: рамась, сявонь, Арьсень, Кончайне, Ладяйне, аварьгодонь, азондыне, архтозе, ашкордасть, валгсь</li>
+      <li>AUX: ульсь, ашезь, ульсть, эрявсь</li>
+      <li>VERB: варжакстсь, кенярдсь, лездсь, лиссь, марявсь, мольсь, няевсь, Варжакстонь, Лихтезь, Няить</li>
     </ul>
   </li>
 </ul>
@@ -490,8 +572,8 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Prt2
     <ul>
-      <li>AUX: ашель, улелеть</li>
-      <li>VERB: Молелексолеть, озалень, сизелень, шачелеть</li>
+      <li>ADJ: маниель, сятяволь, якстерель</li>
+      <li>VERB-Part: ацафоль</li>
     </ul>
   </li>
 </ul>
@@ -508,6 +590,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Dem
     <ul>
+      <li>ADJ: Тяфтама</li>
       <li>DET: Тя, ся</li>
       <li>PRON: тя, тянь</li>
     </ul>
@@ -517,7 +600,9 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: коданга</li>
+      <li>ADV: коданга, козонга</li>
+      <li>DET: кодама-бъди</li>
+      <li>PRON: киньге, кой-кона, мезевок, мезень-бъди</li>
     </ul>
   </li>
 </ul>
@@ -525,6 +610,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Int
     <ul>
+      <li>ADV: Мъзяра</li>
       <li>PRON: Мезень, кие, мезе</li>
     </ul>
   </li>
@@ -533,7 +619,31 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: сон, мон, сонь, монць, синь, теень, Мондейне, Сондеенза, моньге, теест</li>
+      <li>PRON: сон, мон, синь, сонь, тейнза, монць, теень, тонь, Мондейне, Монь</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rcp
+    <ul>
+      <li>PRON: фкя-фкянь</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Refl
+    <ul>
+      <li>PRON: сонць, сонцьке</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: кона, конань</li>
     </ul>
   </li>
 </ul>
@@ -545,7 +655,31 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Card
     <ul>
-      <li>NUM: фкя, вете, кафта</li>
+      <li>NUM: фкя, вете, кафта, комсь, нильгемоньшка</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Coll
+    <ul>
+      <li>NUM: кафонц, кафцьке, колмоцьке</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dist
+    <ul>
+      <li>ADJ: Кодама-кодама</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: васенце, омбоце, колмоце, омбоцеть, сизьгемонце</li>
     </ul>
   </li>
 </ul>
@@ -570,7 +704,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>1
     <ul>
-      <li>PRON: мон, монць, теень, Мондейне, моньге</li>
+      <li>PRON: мон, монць, теень, Мондейне, Монь, Тейне, минь, моньге</li>
     </ul>
   </li>
 </ul>
@@ -578,7 +712,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>2
     <ul>
-      <li>PRON: тон, тонь</li>
+      <li>PRON: тонь, тон</li>
     </ul>
   </li>
 </ul>
@@ -586,7 +720,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>3
     <ul>
-      <li>PRON: сон, сонь, синь, Сондеенза, теест</li>
+      <li>PRON: сон, синь, сонь, тейнза, Сондеенза, сонць, сонцьке, теест</li>
     </ul>
   </li>
 </ul>
@@ -600,7 +734,9 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: веленьконь, либорьфсна, мялезост-ка</li>
+      <li>ADP: корязост, эздост, эсост</li>
+      <li>NOUN: вастоваст, веленьконь, кисетснон, либорьфсна, мялезост-ка, отделснонды, щамснон</li>
+      <li>VERB: самозост</li>
     </ul>
   </li>
 </ul>
@@ -608,8 +744,8 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li>Sing
     <ul>
-      <li>ADV: эзонза</li>
-      <li>NOUN: брадозень, онцтон, пацяняц, сельмонень, Алязе, Алязтиге, алядот, алязень, арьсеманень, брадоц</li>
+      <li>ADP: эзонза</li>
+      <li>NOUN: шамац, брадозень, мялец, онцтон, пацяняц, сельмонень, Алязе, Алязтиге, Кукшенец, алядот</li>
       <li>PROPN: Мишазе</li>
     </ul>
   </li>
@@ -623,7 +759,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
     <ul>
       <li>Post
         <ul>
-          <li>ADP: лангс, велькска, потмоса, пряв, пряста, эшка, мельге</li>
+          <li>ADP: мельге, эшка</li>
         </ul>
       </li>
     </ul>
@@ -635,17 +771,22 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
     <ul>
       <li>Deg
         <ul>
-          <li>ADV: пяк</li>
+          <li>ADV: пяк, ёфcи, ёфси</li>
         </ul>
       </li>
       <li>Loc
         <ul>
-          <li>ADV: алу</li>
+          <li>ADV: алу, тяза</li>
+        </ul>
+      </li>
+      <li>Man
+        <ul>
+          <li>ADV: весяласта</li>
         </ul>
       </li>
       <li>Tim
         <ul>
-          <li>ADV: эста, ни, Тяни</li>
+          <li>ADV: нинге, ни, эста, Тяни</li>
         </ul>
       </li>
     </ul>
@@ -655,18 +796,24 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <ul>
   <li><a>Clitic</a>
     <ul>
-      <li>Ge
+      <li>AddGA
         <ul>
-          <li>NOUN: Алязтиге, лётчикокска, школавка</li>
-          <li>PRON: моньге</li>
+          <li>NOUN: Алязтиге, ведняське, лётчикокска, мялезост-ка, школавга</li>
+          <li>PRON: моньге, сонцьке</li>
         </ul>
       </li>
-      <li>Ka
+      <li>AddKige
         <ul>
-          <li>NOUN: мялезост-ка</li>
+          <li>ADJ: Ёмластокиге</li>
+          <li>ADV: ранакиге</li>
         </ul>
       </li>
-      <li>Vok
+      <li>AddNgA
+        <ul>
+          <li>ADV: сядонга</li>
+        </ul>
+      </li>
+      <li>AddVok
         <ul>
           <li>NOUN: самолётовок</li>
         </ul>
@@ -680,7 +827,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
     <ul>
       <li>Yes
         <ul>
-          <li>VERB: абонда, кирде, кочкав, кунда, сатов, синде, синтть</li>
+          <li>VERB: абонда, кирде, кочкав, кунда, сатов, синде, синтть, стя</li>
         </ul>
       </li>
     </ul>
@@ -692,17 +839,69 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
     <ul>
       <li>Dimin
         <ul>
-          <li>NOUN: самолёткя, шиня</li>
+          <li>NOUN: карденя, очконять, досканят, пацяняц, стирнятне, Очконясь, вазнясь, ведняське, карденяв, кизоня</li>
+        </ul>
+      </li>
+      <li>F
+        <ul>
+          <li>VERB-Part: ацафоль, маскировандафт, путфт, ранендаф, шавф</li>
         </ul>
       </li>
       <li>I
         <ul>
-          <li>VERB-Part: лиенди</li>
+          <li>VERB-Part: ащи, иретьфти, лиенди, моли, сай</li>
+        </ul>
+      </li>
+      <li>Ord
+        <ul>
+          <li>ADJ: васенце, колмоце, омбоце, омбоцеть, сизьгемонце</li>
+        </ul>
+      </li>
+      <li>Ozj
+        <ul>
+          <li>VERB-Conv: дивандазь, кенордазь, палозь, ётазь</li>
         </ul>
       </li>
       <li>Poss
         <ul>
           <li>NOUN: зрняннеть, сияннеть</li>
+        </ul>
+      </li>
+      <li>Vnoun
+        <ul>
+          <li>VERB: самозост</li>
+        </ul>
+      </li>
+      <li>Wife
+        <ul>
+          <li>NOUN: Цямкаерясь</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NameType</a>
+    <ul>
+      <li>Geo
+        <ul>
+          <li>PROPN: Игуазсь, Парижса, Парижсь, Франциять</li>
+        </ul>
+      </li>
+      <li>Giv
+        <ul>
+          <li>PROPN: Петя, Марья, Алда-баба, Анна, Архипонь, Ванянди, Василь, Васясь, Володя, Джейн</li>
+        </ul>
+      </li>
+      <li>Pat
+        <ul>
+          <li>PROPN: Васильевич, Михайлович</li>
+        </ul>
+      </li>
+      <li>Sur
+        <ul>
+          <li>PROPN: Браун, Вельматов, Веряскинонди, Каргалов, Мехов, Смит, Терешкова</li>
         </ul>
       </li>
     </ul>
@@ -714,7 +913,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
     <ul>
       <li>Plur
         <ul>
-          <li>VERB: азондыне, венепнесайне, келептелине, лийфнесайне, нолдасайть, панжине, сотнине, токсесазь</li>
+          <li>VERB: Лихтезь, азондозень, азондыне, венепнесайне, келептелине, лийфнесайне, нолдасайть, панжине, сотнине, токсесазь</li>
         </ul>
       </li>
       <li>Plur,Sing
@@ -725,7 +924,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
       <li>Sing
         <ul>
           <li>AUX: ашезе</li>
-          <li>VERB: Ладяйне, архтозе, валхтсамазь, кандозь, кизефтине, кошардозе, куцфтине, л​и​й​ф​н​е​с​а​м​а​з​ь​-​т​и​с​а​м​а​з​ь, орхкадине, сявозе</li>
+          <li>VERB: Ладяйне, Няить, архтозе, валхтсамазь, кандозь, кизефтине, кошардозе, кулезе, куцфтине, л​и​й​ф​н​е​с​а​м​а​з​ь​-​т​и​с​а​м​а​з​ь</li>
         </ul>
       </li>
     </ul>
@@ -737,14 +936,17 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
     <ul>
       <li>Plur
         <ul>
-          <li>AUX: ашесть, эрявсть</li>
-          <li>VERB: ашкордасть, валхтсамазь, кандозь, лиендихть-тиихть, л​и​й​ф​н​е​с​а​м​а​з​ь​-​т​и​с​а​м​а​з​ь, лиссть, мрдайхть, токсесазь, уендихть</li>
+          <li>AUX: Эрявихть, ашесть, ульсть, эрявсть</li>
+          <li>VERB: лиссть, Лихтезь, ашкордасть, валхтсамазь, варжакстсть, каземе, кандозь, кандсть, лиендихть-тиихть, л​и​й​ф​н​е​с​а​м​а​з​ь​-​т​и​с​а​м​а​з​ь</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>AUX: ашень, ашезь, ан, афоль, ашезе, ашель, улелеть, ульсь, улян, эряв</li>
-          <li>VERB: касан, рамась, Арьсян, корхтай, сявонь, ёран, Арьсень, Касондярян, Кончайне, Ладяйне</li>
+          <li>ADJ: маниель, сятяволь, якстерель</li>
+          <li>AUX: ульсь, ашезь, ашень, эрявсь, афоль, ашезе, ашель, савоза, сашендови, улелеть</li>
+          <li>NOUN: прясан</li>
+          <li>VERB: касан, рамась, Арьсян, варжакстсь, кенярдсь, корхтай, лездсь, лиссь, марявсь, мольсь</li>
+          <li>VERB-Part: ацафоль</li>
         </ul>
       </li>
     </ul>
@@ -756,13 +958,13 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
     <ul>
       <li>1
         <ul>
-          <li>VERB: валхтсамазь, л​и​й​ф​н​е​с​а​м​а​з​ь​-​т​и​с​а​м​а​з​ь, шачфтомань</li>
+          <li>VERB: валхтсамазь, л​и​й​ф​н​е​с​а​м​а​з​ь​-​т​и​с​а​м​а​з​ь, пиксомань, шачфтомань</li>
         </ul>
       </li>
       <li>3
         <ul>
           <li>AUX: ашезе</li>
-          <li>VERB: Кончайне, Ладяйне, азондыне, архтозе, венепнесайне, кандозь, келептелине, кизефтине, кошардозе, куцфтине</li>
+          <li>VERB: Кончайне, Ладяйне, Лихтезь, Няить, азондозень, азондыне, архтозе, венепнесайне, кандозь, келептелине</li>
         </ul>
       </li>
     </ul>
@@ -774,19 +976,20 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
     <ul>
       <li>1
         <ul>
-          <li>NOUN: брадозень, онцтон, сельмонень, Алязе, Алязтиге, алязень, арьсеманень, веленьконь, кяднень, мялезень</li>
+          <li>NOUN: брадозень, онцтон, сельмонень, Алязе, Алязтиге, алязень, арьсеманень, атязе, веленьконь, кудозень</li>
           <li>PROPN: Мишазе</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>NOUN: алядот, кице</li>
+          <li>NOUN: алядот, кице, тевцень</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>ADV: эзонза</li>
-          <li>NOUN: пацяняц, брадоц, гулянянза, куднястонза, либорьфсна, мирденц, мялезост-ка, мялец, очконц, ошец</li>
+          <li>ADP: корязост, эздост, эзонза, эсост</li>
+          <li>NOUN: шамац, мялец, пацяняц, Кукшенец, алянц, брадоц, вастоваст, гулянянза, кисетснон, кияксоц</li>
+          <li>VERB: самозост</li>
         </ul>
       </li>
     </ul>
@@ -798,20 +1001,51 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
     <ul>
       <li>1
         <ul>
-          <li>AUX: ашень, ан, улян</li>
-          <li>VERB: касан, Арьсян, сявонь, ёран, Арьсень, Касондярян, Кончайне, Ладяйне, аварьгодонь, азондыне</li>
+          <li>AUX: ашень, улян</li>
+          <li>NOUN: прясан</li>
+          <li>VERB: касан, Арьсян, сявонь, ёран, Арьсень, Варжакстонь, Касондярян, Кончайне, Ладяйне, аварьгодонь</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>AUX: улелеть, эряв</li>
-          <li>VERB: Молелексолеть, Панчк-ка, арьсят, ванат, касат, кеподев, нолдасайть, сават, туят, шачелеть</li>
+          <li>AUX: улелеть</li>
+          <li>VERB: Молелексолеть, Няить, Панчк-ка, арьсят, ванат, касат, кеподев, нолдасайть, сават, туят</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX: ашезь, афоль, ашезе, ашель, ашесть, ульсь, эрявсть, эрявсь</li>
-          <li>VERB: рамась, корхтай, Рамаль, архтозе, ашкордасть, ащи, валгсь, валхтсамазь, велясь, кандозь</li>
+          <li>ADJ: маниель, сятяволь, якстерель</li>
+          <li>AUX: ульсь, ашезь, эрявсь, Эрявихть, афоль, ашезе, ашель, ашесть, савоза, сашендови</li>
+          <li>VERB: рамась, варжакстсь, кенярдсь, корхтай, лездсь, лиссть, лиссь, марявсь, мольсь, няевсь</li>
+          <li>VERB-Part: ацафоль</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Style</a>
+    <ul>
+      <li>Ped
+        <ul>
+          <li>ADV: кържа, Мъзяра, Мъзярда</li>
+          <li>DET: кодама-бъди</li>
+          <li>PART: въдь</li>
+          <li>PRON: мезень-бъди</li>
+          <li>SCONJ: къда, мъзярда</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: карденя, велькска, карденяв</li>
         </ul>
       </li>
     </ul>
@@ -823,16 +1057,20 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
     <ul>
       <li>1
         <ul>
-          <li>AUX: улелеть, ульсь, улян, эряв, эрявсть, эрявсь</li>
-          <li>VERB: касан, корхтай, рамась, Касондярян, Кончайне, Молелексолеть, Рамаль, абонда, аварьгодонь, ашкордасть</li>
-          <li>VERB-Inf: лездомс, лиендемс, налхксемс</li>
-          <li>VERB-Part: лиенди</li>
+          <li>AUX: ульсь, эрявсь, Эрявихть, савоза, сашендови, улелеть, ульсть, улян, эрявсть</li>
+          <li>VERB: касан, ащи, кенярдсь, корхтай, лездсь, лиссть, лиссь, марявсь, мольсь, няевсь</li>
+          <li>VERB-Conv: дивандазь, кенордазь, палозь</li>
+          <li>VERB-Inf: стямс, Валдашкодомс, валдашкодомда, лездомс, лиендемс, молемс, налхксемс, шашнемда, якама</li>
+          <li>VERB-Part: ащи, иретьфти, лиенди, маскировандафт, моли, ранендаф, сай</li>
+          <li>VERB-Vnoun: ардомась, варьхмодема, кенярдема</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB: Арьсян, сявонь, ёран, Арьсень, Ладяйне, Панчк-ка, азондыне, архтозе, арьсят, валхтсамазь</li>
-          <li>VERB-Inf: кадомс, петемс, тиемда, тиемс, штама</li>
+          <li>VERB: Арьсян, варжакстсь, сявонь, ёран, Арьсень, Варжакстонь, Ладяйне, Лихтезь, Няить, Панчк-ка</li>
+          <li>VERB-Conv: ётазь</li>
+          <li>VERB-Inf: анцемс, ватксема, дивандафтомс, кадомс, косьфтамс, лувома, нежедемс, петемс, рисовандама, сявондемс</li>
+          <li>VERB-Part: ацафоль, путфт, шавф</li>
           <li>VERB-Vnoun: муськома</li>
         </ul>
       </li>
@@ -857,11 +1095,11 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: улемс, оль.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: улемс.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: эрявомс.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: эрявомс, улемс, савомс, сашендовомс.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -870,8 +1108,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (9)</li>
-      <li>VERB--PRON-Nom (16)</li>
+      <li>VERB--NOUN-Nom (50)</li>
+      <li>VERB--PRON-Nom (29)</li>
+      <li>VERB-Part--NOUN-Nom (2)</li>
     </ul>
   </li>
 </ul>
@@ -879,12 +1118,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Gen (15)</li>
+      <li>VERB--NOUN-Abl (1)</li>
+      <li>VERB--NOUN-Ela (1)</li>
+      <li>VERB--NOUN-Gen (22)</li>
       <li>VERB--NOUN-Gen-ADP(эшка) (1)</li>
-      <li>VERB--NOUN-Nom (9)</li>
+      <li>VERB--NOUN-Ine (1)</li>
+      <li>VERB--NOUN-Nom (19)</li>
       <li>VERB--PRON-Gen (3)</li>
-      <li>VERB-Inf--NOUN-Gen (3)</li>
-      <li>VERB-Inf--NOUN-Nom (2)</li>
+      <li>VERB-Inf--NOUN-Gen (7)</li>
+      <li>VERB-Inf--NOUN-Nom (4)</li>
+      <li>VERB-Inf--PRON-Gen (1)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -902,6 +1146,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 5 relation subtypes: <a>advmod:tmod</a>, <a>aux:neg</a>, <a>cc:preconj</a>, <a>nmod:bahuv</a>, <a>obl:tmod</a></li>
-<li>The following 10 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>acl</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>This corpus uses 20 relation subtypes: <a>acl:relcl</a>, <a>advcl:tmod</a>, <a>advmod:deg</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:neg</a>, <a>aux:opt</a>, <a>cc:preconj</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>nmod:bahuv</a>, <a>nmod:part</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>acl</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="tr_pud-dep-det.html">det</a></tt>.
 
-10 nodes (0%) are attached to their parents as `det:predet`.
+8 nodes (0%) are attached to their parents as `det:predet`.
 
-10 instances of `det:predet` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.1.
+8 instances of `det:predet` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.125.
 
-The following 1 pairs of parts of speech are connected with `det:predet`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-DET.html">DET</a></tt> (10; 100% instances).
+The following 1 pairs of parts of speech are connected with `det:predet`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-DET.html">DET</a></tt> (8; 100% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 det:predet	color:blue
-1	Sanayi	sanayi	NOUN	NN	Number=Sing	2	compound	_	Proper=True
+1	Sanayi	sanayi	NOUN	NN	Number=Sing	2	nmod:poss	_	Proper=True
 2	Devrimi	Devrim	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	nsubj	_	Proper=True|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	İngiltere'de	İngiltere	PROPN	PROPN	Case=Loc|Number=Sing	10	obl	_	Proper=True

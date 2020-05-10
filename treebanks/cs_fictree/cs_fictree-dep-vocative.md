@@ -28,7 +28,7 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 4	víš	vědět	VERB	VB-S---2P-AA---	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
 6	že	že	SCONJ	J,-------------	_	8	mark	8:mark	_
-7	Honzovi	Honza	PROPN	NNMS3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	8	obl	8:obl	_
+7	Honzovi	Honza	PROPN	NNMS3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	8	obl	8:obl:dat	_
 8	odešla	odejít	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	ccomp	4:ccomp	_
 9	maminka	maminka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	nsubj	8:nsubj	SpaceAfter=No
 10	?	?	PUNCT	Z:-------------	_	4	punct	4:punct	SpaceAfter=No
@@ -47,11 +47,11 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 2	,	,	PUNCT	Z:-------------	_	3	punct	3:punct	_
 3	pojď	jít	VERB	Vi-S---2--A---1	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	8	ccomp	8:ccomp	_
 4	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	5	case	5:case	_
-5	mnou	já	PRON	PP-S7--1-------	Case=Ins|Number=Sing|Person=1|PronType=Prs	3	obl	3:obl	_
+5	mnou	já	PRON	PP-S7--1-------	Case=Ins|Number=Sing|Person=1|PronType=Prs	3	obl	3:obl:s:ins	_
 6	ven	ven	ADV	Db-------------	_	3	advmod	3:advmod	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	3	punct	3:punct	SpaceAfter=No
 8	řekl	říci	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-9	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	8	iobj	8:iobj	_
+9	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	8	obl:arg	8:obl:arg:dat	_
 10	tiše	tiše	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	8	advmod	8:advmod	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
 

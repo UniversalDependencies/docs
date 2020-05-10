@@ -23,7 +23,7 @@ The following 31 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 9 xcomp	color:blue
 1	Väčšina	väčšina	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
-2	zdrojov	zdroj	NOUN	SSip2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
+2	zdrojov	zdroj	NOUN	SSip2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	1:nmod:gen	_
 3	však	však	PART	T	_	4	advmod	4:advmod	_
 4	uvádza	uvádzať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	ZIP	_	8	punct	8:punct	_
@@ -32,7 +32,7 @@ The following 31 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 8	mal	mať	VERB	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	4	ccomp	4:ccomp	_
 9	byť	byť	VERB	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	8	xcomp	8:xcomp	_
 10	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	11	case	11:case	_
-11	Šanghaji	šanghaj	PROPN	SSis6:r	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	9:obl	SpaceAfter=No
+11	Šanghaji	šanghaj	PROPN	SSis6:r	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	9:obl:v:loc	SpaceAfter=No
 12	.	.	PUNCT	ZIP	_	4	punct	4:punct	_
 
 ~~~
@@ -45,12 +45,12 @@ The following 31 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 10 xcomp	color:blue
 1	Zo	z	ADP	Ev2	AdpType=Voc|Case=Gen	2	case	2:case	_
-2	zbierky	zbierka	NOUN	SSfs2	Case=Gen|Gender=Fem|Number=Sing	3	obl	3:obl	_
+2	zbierky	zbierka	NOUN	SSfs2	Case=Gen|Gender=Fem|Number=Sing	3	obl	3:obl:z:gen	_
 3	vyplýva	vyplývať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	Z	_	8	punct	8:punct	_
 5	že	že	SCONJ	O	_	8	mark	8:mark	_
 6	každé	každý	DET	PAns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	det	7:det	_
-7	zlo	zlo	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	8:nsubj	_
+7	zlo	zlo	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	8:nsubj|10:nsubj	_
 8	musí	musieť	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	csubj	3:csubj	_
 9	byť	byť	AUX	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	10	cop	10:cop	_
 10	potrestané	potrestaný	ADJ	Gtns1x	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	xcomp	8:xcomp	SpaceAfter=No

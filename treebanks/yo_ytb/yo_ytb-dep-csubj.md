@@ -8,108 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-30 nodes (1%) are attached to their parents as `csubj`.
+1 nodes (0%) are attached to their parents as `csubj`.
 
-30 instances of `csubj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.26666666666667.
+1 instances of `csubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (21; 70% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 10% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 11 csubj	color:blue
-1	kí	kí	AUX	_	_	4	aux	_	Gloss=let
-2	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=them
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Gloss=
-4	jẹ́	jẹ́	VERB	_	_	0	root	_	Gloss=be
-5	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	4	obj	_	Gloss=light
-6	ní	ní	ADP	_	_	7	case	_	Gloss=in
-7	ojú	ojú	NOUN	_	_	8	nmod	_	Gloss=eyes
-8	ọ̀run	ọ̀run	NOUN	_	_	4	iobj	_	SpaceAfter=No|Gloss=heaven
-9	,	,	PUNCT	_	_	12	punct	_	Gloss=,
-10	láti	láti	ADP	_	_	12	case	_	Gloss=to
-11	tan	tan	VERB	_	_	4	csubj	_	Gloss=shine
-12	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	obj	_	Gloss=light
-13	sí	sí	ADP	_	_	14	case	_	Gloss=to
-14	orí	orí	NOUN	_	_	11	iobj	_	Gloss=upon
-15	ilẹ̀	ilẹ̀	NOUN	_	_	14	compound	_	SpaceAfter=No|Gloss=land
-16	.	.	PUNCT	_	_	20	punct	_	SpaceAfter=No|Gloss=.
-17	”	”	PUNCT	_	_	20	punct	_	Gloss=”
-18	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	Gloss=he
-19	sì	sì	CCONJ	_	_	20	cc	_	Gloss=and
-20	rí	rí	VERB	_	_	11	xcomp	_	Gloss=saw
-21	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=so
-22	.	.	PUNCT	_	_	4	punct	_	Gloss=.
-
-~~~
+The following 1 pairs of parts of speech are connected with `csubj`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 11 csubj	color:blue
-1	Nítorí	Nítorí	ADV	_	_	7	advmod	_	Gloss=for
-2	náà	náà	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=the
-3	,	,	PUNCT	_	_	7	punct	_	Gloss=,
-4	àwọn	àwọn	DET	_	_	5	det	_	Gloss=the
-5	arákùnrin	arákùnrin	NOUN	_	_	7	nsubj	_	Gloss=brother
-6	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=his
-7	ránsẹ́	ránsẹ́	NOUN	_	_	0	root	_	Gloss=sent
-8	sí	sí	ADP	_	_	9	case	_	Gloss=to
-9	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No|Gloss=him
-10	,	,	PUNCT	_	_	11	punct	_	Gloss=,
-11	wí	wí	VERB	_	_	7	csubj	_	Gloss=said
-12	pé	pé	SCONJ	_	_	15	mark	_	SpaceAfter=No|Gloss=that
-13	,	,	PUNCT	_	_	15	punct	_	Gloss=,
-14	“	“	PUNCT	_	_	15	punct	_	SpaceAfter=No|Gloss=“
-15	Olúwa	Olúwa	PROPN	_	_	17	nsubj	_	SpaceAfter=No|Gloss=lord
-16	,	,	PUNCT	_	_	17	punct	_	Gloss=,
-17	wò	wò	VERB	_	_	11	xcomp	_	Gloss=behold
-18	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	obj	_	SpaceAfter=No|Gloss=he
-19	,	,	PUNCT	_	_	21	punct	_	Gloss=,
-20	ara	ara	PRON	_	PronType=Emp	21	nmod	_	Gloss=body
-21	ẹni	ẹni	PRON	_	PronType=Ind	24	nsubj	_	Gloss=someone
-22	tí	tí	PRON	_	PronType=Rel	24	mark	_	Gloss=that
-23	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	24	nsubj	_	Gloss=thou
-24	fẹ́ràn	fẹ́ràn	VERB	_	_	17	xcomp	_	Gloss=love
-25	kò	kò	PART	_	_	26	discourse	_	Gloss=not
-26	dá	dá	VERB	_	_	24	ccomp	_	SpaceAfter=No|Gloss=sick
-27	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No|Gloss=.
-28	”	”	PUNCT	_	_	7	punct	_	Gloss=”
-
-~~~
-
-
-~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 csubj	color:blue
-1	ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god
-2	rí	rí	VERB	_	_	0	root	_	Gloss=saw
-3	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	goeswith	_	Gloss=it
-4	pé	pé	SCONJ	_	_	11	mark	_	Gloss=that
-5	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	2	csubj	_	Gloss=light
-6	náà	náà	ADJ	_	_	5	amod	_	Gloss=the
-7	dára	dára	ADJ	_	_	5	amod	_	SpaceAfter=No|Gloss=good
-8	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=he
-10	sì	sì	CCONJ	_	_	11	cc	_	Gloss=and
-11	ya	ya	VERB	_	_	2	xcomp	_	Gloss=seperate
-12	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	obj	_	Gloss=light
-13	náà	náà	ADV	_	_	12	advmod	_	Gloss=the
-14	sọ́tọ̀	sọ́tọ̀	ADV	_	_	11	advmod	_	Gloss=aside
-15	kúrò	kúrò	ADP	_	_	17	case	_	Gloss=from
-16	lára	lára	ADP	_	_	17	case	_	Gloss=of
-17	òkùnkùn	òkùnkùn	NOUN	_	_	11	obl	_	SpaceAfter=No|Gloss=darkness
-18	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+# visual-style 5 3 csubj	color:blue
+1	Oríṣìíríṣìí	Oríṣìíríṣìí	DET	_	_	2	det	_	_
+2	nǹkan	nǹkan	NOUN	_	_	3	nsubj	_	_
+3	ló	ló	VERB	_	_	5	csubj	_	_
+4	le	lè	AUX	_	_	5	aux	_	_
+5	yọrí	yọrí	VERB	_	_	0	root	_	_
+6	sí	sí	ADP	_	_	7	case	_	_
+7	o	o	NOUN	_	_	5	obl	_	_
+8	órúkọ	órúkọ	NOUN	_	_	7	nmod	_	_
+9	tí	tí	PRON	_	PronType=Rel	8	fixed	_	_
+10	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
+11	sọ	sọ	VERB	_	_	8	acl	_	_
+12	ọmọ	ọmọ	NOUN	_	_	11	obj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
 
 ~~~
 

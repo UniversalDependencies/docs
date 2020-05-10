@@ -24,10 +24,10 @@ The following 16 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat	color:blue
 1	Té	ten	DET	PDFS3----------	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	2	det	2:det	_
-2	náhodě	náhoda	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	8	obj	8:obj	LGloss=(př._s_takovou_n._jsem_počítal,_n._tomu_chtěla)
+2	náhodě	náhoda	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	8	obl:arg	8:obl:arg:dat	LGloss=(př._s_takovou_n._jsem_počítal,_n._tomu_chtěla)
 3	však	však	CCONJ	J^-------------	_	4	cc	4:cc	_
 4	může	moci	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LGloss=(mít_možnost_[něco_dělat])
-5	pan	pan	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	4	nsubj	4:nsubj	LId=pan-1|LGloss=(oslovení)
+5	pan	pan	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	4	nsubj	4:nsubj|8:nsubj	LId=pan-1|LGloss=(oslovení)
 6	Kouba	Kouba	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	5	flat	5:flat	_
 7	účinně	účinně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	8	advmod	8:advmod	LDeriv=účinný
 8	napomoci	napomoci	VERB	Vf--------A---1	Polarity=Pos|VerbForm=Inf	4	xcomp	4:xcomp	SpaceAfter=No
@@ -64,10 +64,10 @@ The following 16 pairs of parts of speech are connected with `flat`: <tt><a href
 4	že	že	SCONJ	J,-------------	_	8	mark	8:mark	_
 5	ho	on	PRON	PHZS4--3-------	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs|Variant=Short	8	obj	8:obj	LId=on-1
 6	po	po	ADP	RR--4----------	AdpType=Prep|Case=Acc	7	case	7:case	LId=po-1
-7	léta	rok	NOUN	NNNP4-----A---2	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos|Style=Arch	8	obl	8:obl	_
+7	léta	rok	NOUN	NNNP4-----A---2	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos|Style=Arch	8	obl	8:obl:po:acc	_
 8	udržuje	udržovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	1:ccomp	_
 9	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	10:case	LId=v-1
-10	rodině	rodina	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	8	obl	8:obl	_
+10	rodině	rodina	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	8	obl	8:obl:v:loc	_
 11	i	i	CCONJ	J^-------------	_	12	advmod:emph	12:advmod:emph	LId=i-1
 12	pan	pan	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	8	nsubj	8:nsubj	LId=pan-1|LGloss=(oslovení)
 13	premiér	premiér	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	12	flat	12:flat	_

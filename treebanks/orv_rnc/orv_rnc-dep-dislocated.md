@@ -8,365 +8,119 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `dislocated`.
+6 nodes (0%) are attached to their parents as `dislocated`.
 
-2 instances of `dislocated` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.66666666666667.
+5 instances of `dislocated` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 9.
 
-The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (2; 67% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (3; 50% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 25 14 dislocated	color:blue
-1	а	а	CCONJ	_	_	8	cc	_	_
-2	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	8	obj	_	_
-3	ѧ	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-4	о	о	ADP	_	_	5	case	_	_
-5	деньгахъ	деньги	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	8	obl	_	_
-6	к	къ	ADP	_	_	7	case	_	_
-7	тебѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	8	obl	_	_
-8	писал	писати	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	27	advcl	_	_
-9	что	что	SCONJ	_	_	10	mark	_	_
-10	дать	дати	VERB	_	Aspect=Perf|VerbForm=Inf	8	xcomp	_	_
-11	Степанꙋ	Степанъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	_
-12	Ѳекълистовꙋ	Феклистовъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	11	flat:name	_	_
-13	и	и	CCONJ	_	_	27	cc	_	_
-14	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	25	dislocated	_	_
-15	пожалꙋи	пожаловати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	27	discourse	_	_
-16	бꙋде	быти	SCONJ	_	_	23	mark	_	_
-17	бꙋдетъ	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	23	cop	_	_
-18	от	отъ	ADP	_	_	19	case	_	_
-19	нево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nmod	_	_
-20	в	въ	ADP	_	_	21	case	_	_
-21	деле	дѣло	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	23	nmod	_	_
-22	какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing	23	det	_	_
-23	помошь	помощь	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	27	advcl	_	_
-24	и	и	CCONJ	_	_	27	cc	_	_
-25	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	27	nsubj	_	_
-26	емꙋ	онъ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	iobj	_	_
-27	даи	дати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-28	хотя	хотѣти	PART	_	_	30	advmod	_	_
-29	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing	30	det	_	_
-30	полтинꙋ	полтина	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	31	obj	_	_
-31	даи	дати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	27	conj	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 2 dislocated	color:blue
+1	И	и	CCONJ	_	_	20	cc	_	_
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	17	dislocated	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	то	тотъ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	_
+5	услышавъ	услышати	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	20	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	аже	аже	SCONJ	_	_	12	mark	_	_
+8	у	у	ADP	_	_	10	case	_	_
+9	нашеи	нашъ	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	_
+10	братьи	братья	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	12	obl	_	_
+11	товаръ	товаръ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
+12	отъималъ	отымати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	4	acl	_	_
+13	Игнатъ	Игнатъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+14	силно	сильно	ADV	_	Degree=Pos	12	advmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	5	punct	_	_
+16	и	и	CCONJ	_	_	20	cc	_	_
+17	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	20	nsubj	_	_
+18	тои	тотъ	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
+19	товаръ	товаръ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	obj	_	_
+20	отъималѣ	отымати	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 186	bgColor:blue
-# visual-style 186	fgColor:white
-# visual-style 198	bgColor:blue
-# visual-style 198	fgColor:white
-# visual-style 198 186 dislocated	color:blue
-1	А	а	CCONJ	_	_	43	cc	_	_
-2	въ	въ	ADP	_	_	6	case	_	_
-3	прошломъ	прошлый	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	6	amod	_	_
-4	во	въ	ADP	_	_	6	case	_	_
-5	188	188	ADJ	OOV	NumForm=Digit	6	amod	_	_
-6	году	годъ	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Sing	43	obl	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	ноября	ноябрь	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
-9	въ	въ	ADP	_	_	11	case	_	_
-10	27	27	ADJ	OOV	NumForm=Digit	11	amod	_	_
-11	день	день	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	6	punct	_	_
-13	въ	въ	ADP	_	_	14	case	_	_
-14	указѣ	указъ	NOUN	OOV|Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Sing	43	obl	_	_
-15	брата	братъ	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
-16	нашего	нашъ	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	15	det	_	_
-17	государева	государевъ	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	15	amod	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	22	punct	_	_
-19	блаженныя	блаженный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	20	amod	_	_
-20	памяти	память	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
-21	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	22	amod	_	_
-22	государя	государь	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	15	appos	_	_
-23	царя	царь	NOUN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	22	appos	_	_
-24	и	и	CCONJ	_	_	26	cc	_	_
-25	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	26	amod	_	_
-26	князя	князь	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	23	conj	_	_
-27	Ѳеодора	Феодоръ	PROPN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	22	appos	_	_
-28	Алексѣевича	Алексѣевичь	PROPN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	27	flat:name	_	SpaceAfter=No
-29	,	,	PUNCT	_	_	37	punct	_	_
-30	всеа	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing	36	det	_	_
-31	Великія	великий	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	36	amod	_	_
-32	и	и	CCONJ	_	_	33	cc	_	_
-33	Малыя	малый	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	31	conj	_	_
-34	и	и	CCONJ	_	_	35	cc	_	_
-35	Бѣлыя	бѣлый	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	31	conj	_	_
-36	Росіи	Россия	PROPN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	_
-37	самодержца	самодержецъ	NOUN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	22	appos	_	SpaceAfter=No
-38	,	,	PUNCT	_	_	41	punct	_	_
-39	изъ	изъ	ADP	_	_	41	case	_	_
-40	стрѣлецкого	стрѣлецкий	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	41	amod	_	_
-41	приказу	приказъ	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	43	obl	_	SpaceAfter=No
-42	,	,	PUNCT	_	_	41	punct	_	_
-43	писано	писати	VERB	Transit=Tran	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-44	:	:	PUNCT	_	_	45	punct	_	_
-45	велѣно	велѣти	VERB	Transit=Tran	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	43	parataxis	_	_
-46	въ	въ	ADP	_	_	47	case	_	_
-47	городѣхъ	городъ	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Plur	159	obl	_	SpaceAfter=No
-48	,	,	PUNCT	_	_	51	punct	_	_
-49	съ	съ	ADP	_	_	51	case	_	_
-50	посадскихъ	посадский	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	51	amod	_	_
-51	людей	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	159	obl	_	_
-52	и	и	CCONJ	_	_	55	cc	_	_
-53	съ	съ	ADP	_	_	55	case	_	_
-54	уѣздныхъ	уѣздный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	55	amod	_	_
-55	крестьянъ	крестьянинъ	NOUN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	51	conj	_	SpaceAfter=No
-56	,	,	PUNCT	_	_	57	punct	_	_
-57	данные	дати	VERB	OOV|Transit=Tran	Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|Tense=Past|Variant=Long|VerbForm=Part|Voice=Pass	159	obj	_	SpaceAfter=No
-58	,	,	PUNCT	_	_	60	punct	_	_
-59	и	и	CCONJ	_	_	60	cc	_	_
-60	полоняничные	полоняничный	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	57	conj	_	SpaceAfter=No
-61	,	,	PUNCT	_	_	63	punct	_	_
-62	и	и	CCONJ	_	_	63	cc	_	_
-63	четвертные	четвертной	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	57	conj	_	SpaceAfter=No
-64	,	,	PUNCT	_	_	66	punct	_	_
-65	и	и	CCONJ	_	_	66	cc	_	_
-66	ямскіе	ямской	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	57	conj	_	SpaceAfter=No
-67	,	,	PUNCT	_	_	69	punct	_	_
-68	и	и	CCONJ	_	_	69	cc	_	_
-69	пищалные	пищалный	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	57	conj	_	SpaceAfter=No
-70	,	,	PUNCT	_	_	73	punct	_	_
-71	и	и	CCONJ	_	_	73	cc	_	_
-72	малую	малый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	73	amod	_	_
-73	ямщину	ямщина	NOUN	OOV|Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Sing	57	conj	_	SpaceAfter=No
-74	,	,	PUNCT	_	_	76	punct	_	_
-75	и	и	CCONJ	_	_	76	cc	_	_
-76	подмоги	подмога	NOUN	OOV|Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	57	conj	_	_
-77	подъячимъ	подьячий	NOUN	OOV|Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	76	nmod	_	SpaceAfter=No
-78	,	,	PUNCT	_	_	80	punct	_	_
-79	и	и	CCONJ	_	_	80	cc	_	_
-80	сторожамъ	сторожъ	NOUN	OOV|Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	77	conj	_	SpaceAfter=No
-81	,	,	PUNCT	_	_	83	punct	_	_
-82	и	и	CCONJ	_	_	83	cc	_	_
-83	палачамъ	палачь	NOUN	OOV|Animacy[lex]=Inan	Case=Dat|Gender=Masc|Number=Plur	77	conj	_	SpaceAfter=No
-84	,	,	PUNCT	_	_	89	punct	_	_
-85	и	и	CCONJ	_	_	89	cc	_	_
-86	тюремнымъ	тюремный	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	89	amod	_	_
-87	и	и	CCONJ	_	_	88	cc	_	_
-88	губнымъ	губной	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	86	conj	_	_
-89	цѣловалникомъ	цѣловалникъ	NOUN	OOV|Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	77	conj	_	SpaceAfter=No
-90	,	,	PUNCT	_	_	93	punct	_	_
-91	и	и	CCONJ	_	_	93	cc	_	_
-92	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	93	nsubj	_	_
-93	сбирано	сбирати	VERB	OOV|Transit=Tran	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	57	conj	_	_
-94	воеводскихъ	воеводский	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	95	amod	_	_
-95	дворовъ	дворъ	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Plur	93	obl	_	_
-96	и	и	CCONJ	_	_	98	cc	_	_
-97	губныхъ	губной	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	98	amod	_	_
-98	избъ	изба	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	95	conj	_	_
-99	и	и	CCONJ	_	_	102	cc	_	_
-100	въ	въ	ADP	_	_	102	case	_	_
-101	тюремное	тюремный	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Long	102	amod	_	_
-102	строеніе	строение	NOUN	OOV|Animacy[lex]=Inan	Case=Acc|Gender=Neut|Number=Sing	93	obl	_	SpaceAfter=No
-103	,	,	PUNCT	_	_	107	punct	_	_
-104	и	и	CCONJ	_	_	107	cc	_	_
-105	въ	въ	ADP	_	_	107	case	_	_
-106	приказную	приказный	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	107	amod	_	_
-107	избу	изба	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Sing	102	conj	_	_
-108	на	на	ADP	_	_	109	case	_	_
-109	свѣчи	свѣча	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	93	obl	_	SpaceAfter=No
-110	,	,	PUNCT	_	_	113	punct	_	_
-111	и	и	CCONJ	_	_	113	cc	_	_
-112	на	на	ADP	_	_	113	case	_	_
-113	бумагу	бумага	NOUN	OOV|Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Sing	109	conj	_	_
-114	и	и	CCONJ	_	_	116	cc	_	_
-115	на	на	ADP	_	_	116	case	_	_
-116	чернила	чернила	NOUN	OOV|Animacy[lex]=Inan	Case=Acc|Gender=Neut|Number=Plur	109	conj	_	SpaceAfter=No
-117	,	,	PUNCT	_	_	120	punct	_	_
-118	и	и	CCONJ	_	_	120	cc	_	_
-119	на	на	ADP	_	_	120	case	_	_
-120	дрова	дрова	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Neut|Number=Plur	109	conj	_	SpaceAfter=No
-121	,	,	PUNCT	_	_	128	punct	_	_
-122	и	и	CCONJ	_	_	128	cc	_	_
-123	на	на	ADP	_	_	128	case	_	_
-124	иные	иной	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	128	amod	_	_
-125	на	на	ADP	_	_	128	case	_	_
-126	какіе	какой	DET	OOV	Case=Acc|Gender=Masc|Number=Plur	128	det	_	_
-127	мелкіе	мелкий	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	128	amod	_	_
-128	росходы	росходъ	NOUN	OOV|Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Plur	109	conj	_	SpaceAfter=No
-129	,	,	PUNCT	_	_	131	punct	_	_
-130	денежные	денежный	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	131	amod	_	_
-131	доходы	доходъ	NOUN	OOV|Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Plur	57	conj	_	SpaceAfter=No
-132	,	,	PUNCT	_	_	135	punct	_	_
-133	которые	который	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	135	obj	_	_
-134	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	135	nsubj	_	_
-135	платили	платити	VERB	OOV|Transit=Tran	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes	131	acl:relcl	_	_
-136	напередъ	напередъ	ADP	_	_	137	case	_	_
-137	того	то	DET	_	Case=Gen|Gender=Neut|Number=Sing	135	obl	_	SpaceAfter=No
-138	,	,	PUNCT	_	_	141	punct	_	_
-139	по	по	ADP	_	_	141	case	_	_
-140	сошному	сошный	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Variant=Long	141	amod	_	_
-141	писму	писмо	NOUN	Animacy[lex]=Inan	Case=Dat|Gender=Neut|Number=Sing	135	obl	_	SpaceAfter=No
-142	,	,	PUNCT	_	_	145	punct	_	_
-143	въ	въ	ADP	_	_	145	case	_	_
-144	розныхъ	розный	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	145	amod	_	_
-145	приказѣхъ	приказъ	NOUN	OOV|Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Plur	135	obl	_	SpaceAfter=No
-146	,	,	PUNCT	_	_	149	punct	_	_
-147	и	и	CCONJ	_	_	149	cc	_	_
-148	сверхъ	сверхъ	ADP	_	_	149	case	_	_
-149	того	то	DET	_	Case=Gen|Gender=Neut|Number=Sing	135	conj	_	_
-150	по	по	ADP	_	_	152	case	_	_
-151	воеводскимъ	воеводский	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	152	amod	_	_
-152	прихотямъ	прихоть	NOUN	OOV|Animacy[lex]=Inan	Case=Dat|Gender=Fem|Number=Plur	149	orphan	_	SpaceAfter=No
-153	,	,	PUNCT	_	_	135	punct	_	_
-154	для	для	ADP	_	_	156	case	_	_
-155	многихъ	многий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	156	amod	_	_
-156	податей	подать	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	159	obl	_	_
-157	и	и	CCONJ	_	_	158	cc	_	_
-158	тягостей	тягость	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	156	conj	_	_
-159	оставить	оставити	VERB	Transit=Tran	Aspect=Perf|VerbForm=Inf	45	xcomp	_	_
-160	и	и	CCONJ	_	_	168	cc	_	_
-161	впредь	впредь	ADV	_	Degree=Pos	168	advmod	_	_
-162	до	до	ADP	_	_	164	case	_	_
-163	валовыхъ	валовый	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	164	amod	_	_
-164	писцовъ	писецъ	NOUN	OOV|Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	168	obl	_	_
-165	тѣхъ	тотъ	DET	_	Case=Gen|Gender=Fem|Number=Plur	166	det	_	_
-166	денегъ	деньги	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	168	obj	_	_
-167	не	не	PART	_	Polarity=Neg	168	advmod	_	_
-168	сбирать	сбирати	VERB	OOV|Transit=Tran	Aspect=Imp|VerbForm=Inf	159	conj	_	SpaceAfter=No
-169	;	;	PUNCT	_	_	205	punct	_	_
-170	а	а	CCONJ	_	_	205	orphan	_	_
-171	буде	буде	SCONJ	_	_	199	mark	_	_
-172	въ	въ	ADP	_	_	174	case	_	_
-173	которомъ	который	PRON	OOV	Case=Loc|Gender=Masc|Number=Sing|PronType=Ind	174	det	_	_
-174	городѣ	городъ	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Sing	199	obl	_	SpaceAfter=No
-175	,	,	PUNCT	_	_	181	punct	_	_
-176	до	до	ADP	_	_	181	case	_	_
-177	того	тотъ	DET	_	Case=Gen|Gender=Masc|Number=Sing	181	det	_	_
-178	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	180	amod	_	_
-179	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	180	amod	_	_
-180	государя	государь	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	181	nmod	_	_
-181	указу	указъ	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	199	obl	_	SpaceAfter=No
-182	,	,	PUNCT	_	_	181	punct	_	_
-183	такіе	такой	DET	OOV	Case=Nom|Gender=Masc|Number=Plur	186	det	_	_
-184	мелкіе	мелкий	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	186	nmod	_	_
-185	денежные	денежный	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	186	amod	_	_
-186	доходы	доходъ	NOUN	OOV|Animacy[lex]=Inan	Case=Nom|Gender=Masc|Number=Plur	198	dislocated	_	_
-187	по	по	ADP	_	_	190	case	_	_
-188	прежнимъ	прежний	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	190	amod	_	_
-189	окладнымъ	окладный	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	190	amod	_	_
-190	книгамъ	книга	NOUN	Animacy[lex]=Inan	Case=Dat|Gender=Fem|Number=Plur	199	obl	_	SpaceAfter=No
-191	,	,	PUNCT	_	_	190	punct	_	_
-192	съ	съ	ADP	_	_	197	case	_	_
-193	посадскихъ	посадский	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	197	amod	_	_
-194	и	и	CCONJ	_	_	196	cc	_	_
-195	съ	съ	ADP	_	_	197	case	_	_
-196	уѣздныхъ	уѣздный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	197	amod	_	_
-197	людей	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	199	obl	_	_
-198	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	199	nsubj:pass	_	_
-199	взато	взяти	VERB	OOV	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	205	advcl	_	SpaceAfter=No
-200	,	,	PUNCT	_	_	199	punct	_	_
-201	и	и	CCONJ	_	_	205	cc	_	_
-202	тѣ	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Plur	204	det	_	_
-203	сборные	сборный	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	204	amod	_	_
-204	денги	деньги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	205	obj	_	_
-205	роздать	роздати	VERB	OOV|Transit=Tran	Aspect=Perf|VerbForm=Inf	159	conj	_	_
-206	тѣмъ	тотъ	DET	_	Case=Ins|Gender=Masc|Number=Sing	208	det	_	_
-207	же	же	PART	_	_	206	advmod	_	_
-208	людемъ	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	205	iobj	_	_
-209	съ	съ	ADP	_	_	210	case	_	_
-210	кого	кто	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	212	obl	_	_
-211	сколко	сколко	NUM	_	Case=Acc	212	nsubj:pass	_	_
-212	взято	взяти	VERB	OOV|Transit=Tran	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	205	acl	_	SpaceAfter=No
-213	;	;	PUNCT	_	_	241	punct	_	_
-214	а	а	CCONJ	_	_	217	cc	_	_
-215	вмѣсто	вмѣсто	ADP	OOV	_	220	case	_	_
-216	тѣхъ	тотъ	DET	_	Case=Gen|Gender=Masc|Number=Plur	220	det	_	_
-217	вышеписанныхъ	вышеписанный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	220	amod	_	_
-218	мелкихъ	мелкий	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	220	amod	_	_
-219	денежныхъ	денежный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	220	amod	_	_
-220	доходовъ	доходъ	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Plur	241	obl	_	SpaceAfter=No
-221	,	,	PUNCT	_	_	220	punct	_	_
-222	на	на	ADP	_	_	223	case	_	_
-223	жалованье	жалованье	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Neut|Number=Sing	241	obl	_	_
-224	московскимъ	московский	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	225	amod	_	_
-225	стрѣлцомъ	стрѣлецъ	NOUN	OOV|Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	223	nmod	_	SpaceAfter=No
-226	,	,	PUNCT	_	_	223	punct	_	_
-227	съ	съ	ADP	_	_	232	case	_	_
-228	прежнихъ	прежний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	232	obl	_	_
-229	и	и	CCONJ	_	_	231	cc	_	_
-230	съ	съ	ADP	_	_	232	case	_	_
-231	прибылыхъ	прибылой	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	228	conj	_	_
-232	дворовъ	дворъ	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Plur	241	obl	_	SpaceAfter=No
-233	,	,	PUNCT	_	_	232	punct	_	_
-234	по	по	ADP	_	_	236	case	_	_
-235	переписнымъ	переписной	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	236	amod	_	_
-236	книгамъ	книга	NOUN	Animacy[lex]=Inan	Case=Dat|Gender=Fem|Number=Plur	241	obl	_	SpaceAfter=No
-237	,	,	PUNCT	_	_	236	punct	_	_
-238	на	на	ADP	_	_	240	case	_	_
-239	188	188	ADJ	OOV	NumForm=Digit	240	amod	_	_
-240	годъ	годъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Sing	241	obl	_	_
-241	взять	взяти	VERB	Transit=Tran	Aspect=Perf|VerbForm=Inf	159	conj	_	_
-242	и	и	CCONJ	_	_	244	cc	_	_
-243	впредъ	впредъ	ADV	OOV	Degree=Pos	244	advmod	_	_
-244	имать	имати	VERB	Transit=Tran	Aspect=Imp|VerbForm=Inf	241	conj	_	_
-245	въ	въ	ADP	_	_	247	case	_	_
-246	стрѣлецкой	стрѣлецкий	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	247	amod	_	_
-247	приказъ	приказъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Sing	244	obl	_	_
-248	указною	указный	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	249	amod	_	_
-249	статьею	статья	NOUN	OOV|Animacy[lex]=Inan	Case=Ins|Gender=Fem|Number=Sing	244	iobj	_	SpaceAfter=No
-250	,	,	PUNCT	_	_	254	punct	_	_
-251	передъ	передъ	ADP	_	_	252	case	_	_
-252	прежнимъ	прежний	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	254	nmod	_	_
-253	съ	съ	ADP	_	_	254	case	_	_
-254	убавкою	убавка	NOUN	OOV|Animacy[lex]=Inan	Case=Ins|Gender=Fem|Number=Sing	244	obl	_	SpaceAfter=No
-255	;	;	PUNCT	_	_	293	punct	_	_
-256	а	а	CCONJ	_	_	293	cc	_	_
-257	на	на	ADP	_	_	262	case	_	_
-258	которыхъ	который	PRON	_	Case=Loc|Gender=Masc|Number=Plur|PronType=Ind	262	nmod	_	_
-259	посадскихъ	посадский	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	262	amod	_	_
-260	и	и	CCONJ	_	_	261	cc	_	_
-261	уѣздныхъ	уѣздный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	259	conj	_	_
-262	людехъ	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Loc|Gender=Masc|Number=Plur	263	obl	_	_
-263	положены	положити	VERB	Transit=Tran	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	295	acl:relcl	_	_
-264	оброчные	оброчный	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	265	amod	_	_
-265	денги	деньги	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Fem|Number=Plur	263	nsubj:pass	_	_
-266	съ	съ	ADP	_	_	267	case	_	_
-267	лавокъ	лавка	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	263	obl	_	SpaceAfter=No
-268	,	,	PUNCT	_	_	271	punct	_	_
-269	и	и	CCONJ	_	_	271	cc	_	_
-270	съ	съ	ADP	_	_	271	case	_	_
-271	мелницъ	мельница	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	267	conj	_	SpaceAfter=No
-272	,	,	PUNCT	_	_	277	punct	_	_
-273	и	и	CCONJ	_	_	277	cc	_	_
-274	съ	съ	ADP	_	_	277	case	_	_
-275	иныхъ	иной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	277	amod	_	_
-276	оброчныхъ	оброчный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	277	amod	_	_
-277	статей	статья	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	267	conj	_	SpaceAfter=No
-278	,	,	PUNCT	_	_	280	punct	_	_
-279	и	и	CCONJ	_	_	280	cc	_	_
-280	платятъ	платити	VERB	OOV|Transit=Tran	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	263	conj	_	_
-281	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur	280	nsubj	_	_
-282	тѣ	тотъ	DET	_	Case=Acc|Gender=Masc|Number=Plur	283	det	_	_
-283	денги	деньги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	280	obj	_	_
-284	изъ	изъ	ADP	_	_	285	case	_	_
-285	воли	воля	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Sing	280	obl	_	_
-286	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes	285	det	_	_
-287	по	по	ADP	_	_	288	case	_	_
-288	перекупкѣ	перекупка	NOUN	OOV|Animacy[lex]=Inan	Case=Dat|Gender=Fem|Number=Sing	280	obl	_	SpaceAfter=No
-289	,	,	PUNCT	_	_	293	punct	_	_
-290	и	и	CCONJ	_	_	293	cc	_	_
-291	тѣ	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Plur	292	det	_	_
-292	денги	деньги	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	293	obj	_	_
-293	имать	имати	VERB	Transit=Tran	Aspect=Imp|VerbForm=Inf	159	conj	_	_
-294	съ	съ	ADP	_	_	295	case	_	_
-295	нихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	293	obl	_	SpaceAfter=No
-296	,	,	PUNCT	_	_	300	punct	_	_
-297	съ	съ	ADP	_	_	300	case	_	_
-298	тѣхъ	тотъ	DET	_	Case=Gen|Gender=Fem|Number=Plur	300	det	_	_
-299	оброчныхъ	оброчный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	300	amod	_	_
-300	статей	статья	NOUN	OOV|Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Plur	293	obl	_	SpaceAfter=No
-301	,	,	PUNCT	_	_	300	punct	_	_
-302	по	по	ADP	_	_	303	case	_	_
-303	прежнему	прежний	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Variant=Long	293	obl	_	SpaceAfter=No
-304	.	.	PUNCT	_	_	303	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 1 dislocated	color:blue
+1	Печенѣги	печенѣгъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	dislocated	_	Norm=Печенѣги|SpaceAfter=Yes
+2	же	же	PART	_	_	1	advmod	_	Norm=же|SpaceAfter=Yes
+3	устремившаяся	устремитися	VERB	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	Norm=устремившаяся|SpaceAfter=Yes
+4	бранію	брань	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	iobj	_	Norm=бранію|SpaceAfter=Yes
+5	на	на	ADP	_	_	6	case	_	Norm=на|SpaceAfter=Yes
+6	отечество	отечество	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	Norm=отечество|SpaceAfter=Yes
+7	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	Norm=его|SpaceAfter=No
+8	,	,	PUNCT	_	_	1	punct	_	Norm=,|SpaceAfter=Yes
+9	и	и	CCONJ	_	_	14	cc	_	Norm=и|SpaceAfter=Yes
+10	сихъ	сей	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	14	obj	_	Norm=сихъ|SpaceAfter=Yes
+11	Божіею	божий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	Norm=Божіею|SpaceAfter=Yes
+12	помощію	помощь	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	14	iobj	_	Norm=помощію|SpaceAfter=Yes
+13	преславно	преславно	ADV	_	Degree=Pos	14	advmod	_	Norm=преславно|SpaceAfter=Yes
+14	победи	побѣдити	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Norm=победи|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	Norm=.|SpaceAfter=Yes
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 dislocated	color:blue
+1	Такъжо	также	CCONJ	_	Degree=Pos	8	cc	_	_
+2	и	и	PART	_	_	3	advmod	_	_
+3	немъцомъ	немецъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	7	dislocated	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	озеро	озеро	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+6	Великое	великий	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	5	appos	_	_
+7	немцомъ	немецъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	8	iobj	_	_
+8	ловити	ловити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+9	къ	къ	ADP	_	_	11	case	_	_
+10	своему	свой	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	11	det	_	_
+11	берегу	берегъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	19	punct	_	_
+13	а	а	CCONJ	_	_	19	cc	_	_
+14	за	за	ADP	_	_	15	case	_	_
+15	озеро	озеро	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	19	obl	_	_
+16	Великое	великий	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	15	appos	_	_
+17	ловити	ловити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+18	не	не	PART	_	Polarity=Neg	19	advmod	_	_
+19	езъдити	ѣздити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	conj	_	_
+20	на	на	ADP	_	_	22	case	_	_
+21	пъсковъскую	псковский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	сторону	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+23	;	;	PUNCT	_	_	42	punct	_	_
+24	а	а	CCONJ	_	_	27	mark	_	_
+25	по	по	ADP	_	_	26	case	_	_
+26	грехомъ	грѣхъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	27	obl	_	_
+27	станеть	стати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	42	advcl	_	_
+28	изнеможенье	изнеможенье	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	27	nsubj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	занесеть	занести	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	27	conj	_	_
+31	ветръ	ветръ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	_
+32	немецкого	немецкий	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	_
+33	ловъца	ловецъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	30	obj	_	_
+34	на	на	ADP	_	_	36	case	_	_
+35	псковъскую	псковский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+36	сторону	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	30	obl	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	27	punct	_	_
+38	ино	ино	SCONJ	_	Degree=Pos	42	mark	_	_
+39	в	въ	ADP	_	_	41	case	_	_
+40	томъ	тотъ	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	42	obl	_	_
+41	пени	пеня	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	42	nsubj	_	_
+42	нетъ	нетъ	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

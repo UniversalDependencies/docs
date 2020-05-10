@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Kiril Simov, Petya Osenova, Martin Popel.
 
 Repository: [UD_Bulgarian-BTB](https://github.com/UniversalDependencies/UD_Bulgarian-BTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbg_btb25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbg_btb26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -92,7 +92,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
 
 ## Relations
 
-[acl](bg_btb-dep-acl.html) – [acl:relcl](bg_btb-dep-acl-relcl.html) – [advcl](bg_btb-dep-advcl.html) – [advmod](bg_btb-dep-advmod.html) – [amod](bg_btb-dep-amod.html) – [appos](bg_btb-dep-appos.html) – [aux](bg_btb-dep-aux.html) – [aux:pass](bg_btb-dep-aux-pass.html) – [case](bg_btb-dep-case.html) – [cc](bg_btb-dep-cc.html) – [ccomp](bg_btb-dep-ccomp.html) – [compound](bg_btb-dep-compound.html) – [conj](bg_btb-dep-conj.html) – [cop](bg_btb-dep-cop.html) – [csubj](bg_btb-dep-csubj.html) – [csubj:pass](bg_btb-dep-csubj-pass.html) – [det](bg_btb-dep-det.html) – [discourse](bg_btb-dep-discourse.html) – [expl](bg_btb-dep-expl.html) – [fixed](bg_btb-dep-fixed.html) – [flat](bg_btb-dep-flat.html) – [goeswith](bg_btb-dep-goeswith.html) – [iobj](bg_btb-dep-iobj.html) – [mark](bg_btb-dep-mark.html) – [nmod](bg_btb-dep-nmod.html) – [nsubj](bg_btb-dep-nsubj.html) – [nsubj:pass](bg_btb-dep-nsubj-pass.html) – [nummod](bg_btb-dep-nummod.html) – [obj](bg_btb-dep-obj.html) – [obl](bg_btb-dep-obl.html) – [orphan](bg_btb-dep-orphan.html) – [parataxis](bg_btb-dep-parataxis.html) – [punct](bg_btb-dep-punct.html) – [root](bg_btb-dep-root.html) – [vocative](bg_btb-dep-vocative.html) – [xcomp](bg_btb-dep-xcomp.html)
+[acl](bg_btb-dep-acl.html) – [acl:relcl](bg_btb-dep-acl-relcl.html) – [advcl](bg_btb-dep-advcl.html) – [advmod](bg_btb-dep-advmod.html) – [amod](bg_btb-dep-amod.html) – [appos](bg_btb-dep-appos.html) – [aux](bg_btb-dep-aux.html) – [aux:pass](bg_btb-dep-aux-pass.html) – [case](bg_btb-dep-case.html) – [cc](bg_btb-dep-cc.html) – [ccomp](bg_btb-dep-ccomp.html) – [compound](bg_btb-dep-compound.html) – [conj](bg_btb-dep-conj.html) – [cop](bg_btb-dep-cop.html) – [csubj](bg_btb-dep-csubj.html) – [csubj:pass](bg_btb-dep-csubj-pass.html) – [det](bg_btb-dep-det.html) – [discourse](bg_btb-dep-discourse.html) – [expl](bg_btb-dep-expl.html) – [fixed](bg_btb-dep-fixed.html) – [flat](bg_btb-dep-flat.html) – [goeswith](bg_btb-dep-goeswith.html) – [iobj](bg_btb-dep-iobj.html) – [mark](bg_btb-dep-mark.html) – [nmod](bg_btb-dep-nmod.html) – [nsubj](bg_btb-dep-nsubj.html) – [nsubj:pass](bg_btb-dep-nsubj-pass.html) – [nummod](bg_btb-dep-nummod.html) – [obj](bg_btb-dep-obj.html) – [obl](bg_btb-dep-obl.html) – [parataxis](bg_btb-dep-parataxis.html) – [punct](bg_btb-dep-punct.html) – [root](bg_btb-dep-root.html) – [vocative](bg_btb-dep-vocative.html) – [xcomp](bg_btb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -126,7 +126,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
 </ul>
 
 <ul>
-<li>This corpus contains 33 word types tagged as particles (PART): А, Ами, Е, Значи, Па, Та, Хайде, бе, даже, дали, дано, дори, ей, ето, ли, май, ми, мигар, му, нали, не, нека, нима, нито, пък, си, стига, ти, то, уж, хич, чак, я</li>
+<li>This corpus contains 34 word types tagged as particles (PART): А, Ами, Е, Значи, Па, Та, Хайде, бе, да, даже, дали, дано, дори, ей, ето, ли, май, ми, мигар, му, нали, не, нека, нима, нито, пък, си, стига, ти, то, уж, хич, чак, я</li>
 </ul>
 
 <ul>
@@ -146,7 +146,6 @@ We also would like to thank our annotator and validator to the treebank UD versi
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: бивам, бъда, съм</li>
 </ul>
 
 <ul>
@@ -156,8 +155,8 @@ We also would like to thank our annotator and validator to the treebank UD versi
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: е, са, бе, бъде, беше, бяха, съм, бъдат, сме, си</li>
-    <li>VERB: има, няма, може, трябва, е, каза, могат, съобщи, заяви, стана</li>
+    <li>AUX: е, са, бе, бъде, беше, бяха, съм, бъдат, сме, би</li>
+    <li>VERB: има, няма, може, трябва, каза, могат, съобщи, заяви, стана, имат</li>
   </ul>
   </li>
 </ul>
@@ -190,7 +189,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
       <li>NUM: две, една, двете, 2, 1, 0, 22, 52, 42, 0.00</li>
       <li>PRON: тя, която, я, нея, й, коя, Едната, Тази</li>
       <li>PROPN: България, София, Европа, Турция, Югославия, Русия, БСП, Франция, Германия, Румъния</li>
-      <li>VERB-Part: била, могла, можела, получила, представена, приета, започнала, избрана, поставена, щяла</li>
+      <li>VERB-Part: могла, можела, получила, представена, приета, започнала, избрана, поставена, щяла, включена</li>
     </ul>
   </li>
 </ul>
@@ -223,7 +222,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
       <li>NUM: едно, 1, две, двете, едното, 42</li>
       <li>PRON: това, което, го, то, всичко, нищо, нещо, него, кое, всичкото</li>
       <li>PROPN: МВР, Косово, ДПС, Русе, БНР, НС, Панчарево, Би, РМД, Търново</li>
-      <li>VERB-Part: имало, трябвало, направено, станало, нямало, било, налагало, могло, прието, свързано</li>
+      <li>VERB-Part: имало, трябвало, направено, станало, нямало, налагало, могло, прието, свързано, взето</li>
     </ul>
   </li>
 </ul>
@@ -267,7 +266,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
       <li>NUM: две, два, 2, 3, три, 10, двамата, 20, двете, 000</li>
       <li>PRON: които, те, ги, тях, нас, ни, ние, им, всички, ви</li>
       <li>PROPN: САЩ, Балканите, БДЖ, ОДС, DM, Балкани, Гласове, Полимери, РМД-та, Алпи</li>
-      <li>VERB-Fin: могат, имат, съобщиха, са, можем, имаме, работят, искат, правят, вземат</li>
+      <li>VERB-Fin: могат, имат, съобщиха, можем, имаме, работят, искат, правят, вземат, искаме</li>
       <li>VERB-Part: направили, щели, започнали, отказали, изправени, останали, открити, показани, получили, успели</li>
     </ul>
   </li>
@@ -288,14 +287,14 @@ We also would like to thank our annotator and validator to the treebank UD versi
       <li>ADJ: народното, българската, нова, европейската, 2001, друг, цялата, 2000, голяма, новия</li>
       <li>ADJ-Part: миналата, следващата, миналия, цитиран, определен, следващия, обединена, организираната, приета, фокусирано</li>
       <li>ADP: сравнение</li>
-      <li>AUX-Fin: е, бе, бъде, беше, съм, си, би, бих, бях, бъдеш</li>
+      <li>AUX-Fin: е, бе, бъде, беше, съм, би, си, бих, бях, бъда</li>
       <li>AUX-Part: бил, била, било</li>
       <li>DET: тази, този, това, един, какво, една, всеки, всяка, едно, своя</li>
       <li>NOUN: г., време, година, част, президентът, страната, събрание, път, страна, края</li>
       <li>NUM: един, една, 1, едно, половин, 0, Единият, едното, 0,1, 0.00</li>
       <li>PRON: това, той, го, който, тя, която, му, което, него, аз</li>
       <li>PROPN: България, София, Иван, ЕС, Европа, СДС, Петър, Стоянов, Костов, Георги</li>
-      <li>VERB-Fin: има, няма, може, трябва, е, каза, съобщи, заяви, стана, обяви</li>
+      <li>VERB-Fin: има, няма, може, трябва, каза, съобщи, заяви, стана, обяви, направи</li>
       <li>VERB-Part: имало, направил, дал, трябвало, заминал, направено, искал, казал, дошъл, избран</li>
     </ul>
   </li>
@@ -427,7 +426,6 @@ We also would like to thank our annotator and validator to the treebank UD versi
 <ul>
   <li>Neg
     <ul>
-      <li>INTJ: не</li>
       <li>PART: не, нито</li>
     </ul>
   </li>
@@ -445,10 +443,10 @@ We also would like to thank our annotator and validator to the treebank UD versi
   <li>Imp
     <ul>
       <li>ADJ-Part: следващата, управляващите, следващите, следващия, водещи, предстоящите, предстоящата, присъстващите, работещите, следващото</li>
-      <li>AUX-Fin: е, са, бе, беше, бяха, съм, сме, си, би, бих</li>
+      <li>AUX-Fin: е, са, бе, беше, бяха, съм, сме, би, си, бих</li>
       <li>AUX-Part: бил, били, била, било</li>
-      <li>VERB-Fin: има, няма, може, трябва, е, могат, имат, става, иска, нямаше</li>
-      <li>VERB-Part: имало, трябвало, искал, имал, щели, нямало, могъл, била, могла, можела</li>
+      <li>VERB-Fin: има, няма, може, трябва, могат, имат, става, иска, нямаше, искам</li>
+      <li>VERB-Part: имало, трябвало, искал, имал, щели, нямало, могъл, могла, можела, щял</li>
     </ul>
   </li>
 </ul>
@@ -457,7 +455,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
   <li>Perf
     <ul>
       <li>ADJ-Part: миналата, въоръжените, останалите, свързани, миналия, определени, цитиран, определен, пострадали, обединена</li>
-      <li>AUX-Fin: бъде, бъдат, бъдем, бъдеш, бъда, бъдете</li>
+      <li>AUX-Fin: бъде, бъдат, бъдем, бъда, бъдеш, бъдете, биде</li>
       <li>VERB-Fin: каза, съобщи, заяви, стана, обяви, направи, предаде, стане, дойде, съобщиха</li>
       <li>VERB-Part: направил, дал, заминал, направено, казал, направили, дошъл, избран, станал, станало</li>
     </ul>
@@ -472,7 +470,6 @@ We also would like to thank our annotator and validator to the treebank UD versi
   <li>Cnd
     <ul>
       <li>AUX-Fin: би, бих, биха, бихте, бихме</li>
-      <li>VERB-Fin: би</li>
     </ul>
   </li>
 </ul>
@@ -491,8 +488,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
     <ul>
       <li>AUX-Fin: е, са, бе, бъде, беше, бяха, съм, бъдат, сме, си</li>
       <li>AUX-Part: бил, били, била, било</li>
-      <li>VERB-Fin: има, няма, може, трябва, е, каза, могат, съобщи, заяви, стана</li>
-      <li>VERB-Part: била, било, бил, били</li>
+      <li>VERB-Fin: има, няма, може, трябва, каза, могат, съобщи, заяви, стана, имат</li>
     </ul>
   </li>
 </ul>
@@ -504,6 +500,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
 <ul>
   <li>Imp
     <ul>
+      <li>AUX-Fin: бива</li>
       <li>VERB-Fin: нямаше, имаше, трябваше, щеше, можеше, гледаше, имах, говореше, знаеше, искаше</li>
       <li>VERB-Part: имало, трябвало, щели, нямало, имал, можела, щял, знаел, щяла, имали</li>
     </ul>
@@ -514,8 +511,8 @@ We also would like to thank our annotator and validator to the treebank UD versi
   <li>Past
     <ul>
       <li>ADJ-Part: миналата, останалите, миналия, пострадали, загиналите, изминалата, останали, потъналата, участвали, записалите</li>
-      <li>AUX-Fin: бе, беше, бяха, би, бях, бяхме</li>
-      <li>VERB-Fin: каза, съобщи, заяви, стана, обяви, предаде, съобщиха, би, обясни, разбра</li>
+      <li>AUX-Fin: бе, беше, бяха, би, бях, бяхме, биде</li>
+      <li>VERB-Fin: каза, съобщи, заяви, стана, обяви, предаде, съобщиха, обясни, разбра, започна</li>
       <li>VERB-Part: направил, дал, заминал, казал, направили, дошъл, имало, станал, станало, започнали</li>
     </ul>
   </li>
@@ -525,8 +522,8 @@ We also would like to thank our annotator and validator to the treebank UD versi
   <li>Pres
     <ul>
       <li>ADJ-Part: следващата, управляващите, следващите, следващия, водещи, предстоящите, предстоящата, присъстващите, работещите, следващото</li>
-      <li>AUX-Fin: е, са, бъде, съм, бъдат, сме, си, сте, бъдем, бъдеш</li>
-      <li>VERB-Fin: има, няма, може, трябва, е, могат, имат, става, иска, стане</li>
+      <li>AUX-Fin: е, са, бъде, съм, бъдат, сме, си, сте, бъдем, бъда</li>
+      <li>VERB-Fin: има, няма, може, трябва, могат, имат, става, иска, стане, искам</li>
     </ul>
   </li>
 </ul>
@@ -541,7 +538,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
       <li>ADJ-Part: миналата, следващата, останалите, миналия, управляващите, пострадали, следващите, следващия, водещи, загиналите</li>
       <li>AUX-Fin: е, са, бе, бъде, беше, бяха, съм, бъдат, сме, си</li>
       <li>AUX-Part: бил, били, била, било</li>
-      <li>VERB-Fin: има, няма, може, трябва, е, каза, могат, съобщи, заяви, стана</li>
+      <li>VERB-Fin: има, няма, може, трябва, каза, могат, съобщи, заяви, стана, имат</li>
       <li>VERB-Part: имало, направил, дал, трябвало, заминал, искал, казал, направили, дошъл, имал</li>
     </ul>
   </li>
@@ -699,7 +696,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: си, сте, бъдеш, бихте, бяхте, беше, бъдете, Би, Бъди</li>
+      <li>AUX-Fin: си, сте, бъдеш, бихте, бяхте, беше, бъдете, Би, Бъди, бива</li>
       <li>DET: вашата, вашето, вашия, ваш, вашите, ваша, ваше, вашият, твоите, ваши</li>
       <li>PRON: ти, ви, те, вие, вас, тебе, теб</li>
       <li>VERB-Fin: можеш, имате, дойдеш, мислиш, имаш, искаш, знаеш, смятате, кажеш, коментирате</li>
@@ -713,7 +710,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
       <li>AUX-Fin: е, са, бе, бъде, беше, бяха, бъдат, би, биха, биват</li>
       <li>DET: техните, неговата, тяхното, негово, нейните, неговия, неговите, неговото, нейната, негов</li>
       <li>PRON: той, му, го, тя, те, й, им, него, я, ги</li>
-      <li>VERB-Fin: има, няма, може, трябва, е, каза, могат, съобщи, заяви, стана</li>
+      <li>VERB-Fin: има, няма, може, трябва, каза, могат, съобщи, заяви, стана, имат</li>
     </ul>
   </li>
 </ul>
@@ -755,16 +752,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (4122)</li>
+      <li>VERB-Fin--NOUN (3965)</li>
+      <li>VERB-Fin--NOUN-ADP(около) (5)</li>
       <li>VERB-Fin--NOUN-ADP(по) (1)</li>
       <li>VERB-Fin--PRON (7)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
-      <li>VERB-Fin--PRON-Nom (1690)</li>
-      <li>VERB-Part--NOUN (563)</li>
+      <li>VERB-Fin--PRON-Nom (1657)</li>
+      <li>VERB-Part--NOUN (559)</li>
       <li>VERB-Part--NOUN-ADP(над) (1)</li>
       <li>VERB-Part--NOUN-ADP(от) (1)</li>
       <li>VERB-Part--PRON (1)</li>
-      <li>VERB-Part--PRON-Nom (261)</li>
+      <li>VERB-Part--PRON-Nom (257)</li>
     </ul>
   </li>
 </ul>
@@ -772,7 +770,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (4306)</li>
+      <li>VERB-Fin--NOUN (4268)</li>
       <li>VERB-Fin--NOUN-ADP(в) (3)</li>
       <li>VERB-Fin--NOUN-ADP(върху) (1)</li>
       <li>VERB-Fin--NOUN-ADP(до) (2)</li>
@@ -780,16 +778,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(из) (1)</li>
       <li>VERB-Fin--NOUN-ADP(като) (2)</li>
       <li>VERB-Fin--NOUN-ADP(на) (9)</li>
+      <li>VERB-Fin--NOUN-ADP(около) (2)</li>
       <li>VERB-Fin--NOUN-ADP(от) (5)</li>
+      <li>VERB-Fin--NOUN-ADP(по) (1)</li>
       <li>VERB-Fin--NOUN-ADP(през) (1)</li>
       <li>VERB-Fin--NOUN-ADP(с) (6)</li>
       <li>VERB-Fin--NOUN-ADP(със) (3)</li>
-      <li>VERB-Fin--PRON (18)</li>
+      <li>VERB-Fin--PRON (17)</li>
       <li>VERB-Fin--PRON-Acc (715)</li>
       <li>VERB-Fin--PRON-Acc-ADP(за) (1)</li>
       <li>VERB-Fin--PRON-Nom (269)</li>
       <li>VERB-Fin--PRON-Nom-ADP(до) (1)</li>
-      <li>VERB-Part--NOUN (505)</li>
+      <li>VERB-Part--NOUN (503)</li>
       <li>VERB-Part--NOUN-ADP(в) (2)</li>
       <li>VERB-Part--NOUN-ADP(до) (1)</li>
       <li>VERB-Part--NOUN-ADP(за) (1)</li>
@@ -807,16 +807,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-ADP(без) (10)</li>
-      <li>VERB-Fin--NOUN-ADP(в) (356)</li>
+      <li>VERB-Fin--NOUN-ADP(без) (9)</li>
+      <li>VERB-Fin--NOUN-ADP(в) (353)</li>
       <li>VERB-Fin--NOUN-ADP(във) (25)</li>
       <li>VERB-Fin--NOUN-ADP(въз) (1)</li>
       <li>VERB-Fin--NOUN-ADP(върху) (27)</li>
       <li>VERB-Fin--NOUN-ADP(до) (77)</li>
-      <li>VERB-Fin--NOUN-ADP(за) (243)</li>
+      <li>VERB-Fin--NOUN-ADP(за) (241)</li>
       <li>VERB-Fin--NOUN-ADP(зад) (15)</li>
       <li>VERB-Fin--NOUN-ADP(зарад) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(заради) (1)</li>
       <li>VERB-Fin--NOUN-ADP(из) (7)</li>
       <li>VERB-Fin--NOUN-ADP(извън) (2)</li>
       <li>VERB-Fin--NOUN-ADP(изпод) (1)</li>
@@ -824,20 +823,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(край) (1)</li>
       <li>VERB-Fin--NOUN-ADP(към) (64)</li>
       <li>VERB-Fin--NOUN-ADP(между) (4)</li>
-      <li>VERB-Fin--NOUN-ADP(на) (414)</li>
+      <li>VERB-Fin--NOUN-ADP(на) (411)</li>
       <li>VERB-Fin--NOUN-ADP(над) (8)</li>
       <li>VERB-Fin--NOUN-ADP(около) (4)</li>
       <li>VERB-Fin--NOUN-ADP(от) (261)</li>
       <li>VERB-Fin--NOUN-ADP(отвъд) (1)</li>
       <li>VERB-Fin--NOUN-ADP(по) (62)</li>
-      <li>VERB-Fin--NOUN-ADP(под) (17)</li>
+      <li>VERB-Fin--NOUN-ADP(под) (15)</li>
       <li>VERB-Fin--NOUN-ADP(пред) (10)</li>
       <li>VERB-Fin--NOUN-ADP(през) (8)</li>
       <li>VERB-Fin--NOUN-ADP(при) (8)</li>
       <li>VERB-Fin--NOUN-ADP(против) (5)</li>
-      <li>VERB-Fin--NOUN-ADP(с) (170)</li>
+      <li>VERB-Fin--NOUN-ADP(с) (167)</li>
       <li>VERB-Fin--NOUN-ADP(след) (3)</li>
-      <li>VERB-Fin--NOUN-ADP(сред) (5)</li>
+      <li>VERB-Fin--NOUN-ADP(сред) (4)</li>
       <li>VERB-Fin--NOUN-ADP(срещу) (9)</li>
       <li>VERB-Fin--NOUN-ADP(със) (32)</li>
       <li>VERB-Fin--NOUN-ADP(у) (1)</li>
@@ -848,12 +847,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc-ADP(в) (14)</li>
       <li>VERB-Fin--PRON-Acc-ADP(върху) (2)</li>
       <li>VERB-Fin--PRON-Acc-ADP(до) (11)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(за) (22)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(за) (21)</li>
       <li>VERB-Fin--PRON-Acc-ADP(зад) (2)</li>
       <li>VERB-Fin--PRON-Acc-ADP(край) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(към) (9)</li>
       <li>VERB-Fin--PRON-Acc-ADP(на) (11)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(над) (2)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(над) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(около) (2)</li>
       <li>VERB-Fin--PRON-Acc-ADP(от) (22)</li>
       <li>VERB-Fin--PRON-Acc-ADP(по) (1)</li>
@@ -864,7 +863,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc-ADP(сред) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(срещу) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(у) (9)</li>
-      <li>VERB-Fin--PRON-Dat (374)</li>
+      <li>VERB-Fin--PRON-Dat (369)</li>
       <li>VERB-Fin--PRON-Dat-ADP(на) (1)</li>
       <li>VERB-Fin--PRON-Dat-ADP(подире) (3)</li>
       <li>VERB-Fin--PRON-Nom-ADP(в) (16)</li>
@@ -879,7 +878,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Nom-ADP(пред) (4)</li>
       <li>VERB-Fin--PRON-Nom-ADP(с) (12)</li>
       <li>VERB-Part--NOUN-ADP(без) (2)</li>
-      <li>VERB-Part--NOUN-ADP(в) (101)</li>
+      <li>VERB-Part--NOUN-ADP(в) (100)</li>
       <li>VERB-Part--NOUN-ADP(вдън) (1)</li>
       <li>VERB-Part--NOUN-ADP(във) (4)</li>
       <li>VERB-Part--NOUN-ADP(върху) (1)</li>
@@ -937,5 +936,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>nsubj:pass</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

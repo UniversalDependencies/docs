@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-PDT: Relations: `obl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `obl`: <tt><a href="cs_pdt-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="cs_pdt-dep-obl-arg.html">obl:arg</a></tt>.
+There are 1 language-specific subtypes of `obl`: <tt><a href="cs_pdt-dep-obl-arg.html">obl:arg</a></tt>.
 
 85695 nodes (6%) are attached to their parents as `obl`.
 
@@ -31,7 +31,7 @@ The following 65 pairs of parts of speech are connected with `obl`: <tt><a href=
 6	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
 7	proto	proto	CCONJ	J^-------------	_	5	cc	5:cc	LId=proto-1|LGloss=(proto;_a_proto,_ale_proto,...)
 8	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	9	case	9:case	LId=k-1
-9	vyplnění	vyplnění	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	5:obl	LDeriv=vyplnit
+9	vyplnění	vyplnění	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	5:obl:k:dat	LDeriv=vyplnit
 10	dotazník	dotazník	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	obj	5:obj	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
@@ -45,12 +45,12 @@ The following 65 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 2 obl	color:blue
 1	Na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	2	case	2:case	LId=na-1
-2	požádání	požádání	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	5:obl	LDeriv=požádat
+2	požádání	požádání	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	5:obl:na:acc	LDeriv=požádat
 3	může	moci	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LGloss=(mít_možnost_[něco_dělat])
 4	být	být	AUX	Vf--------A----	Polarity=Pos|VerbForm=Inf	5	aux:pass	5:aux:pass	_
 5	zaslán	zaslaný	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	3	obj	3:obj	LDeriv=zaslat
 6	seznam	seznam	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nsubj	3:nsubj	_
-7	firem	firma	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	6	nmod	6:nmod	SpaceAfter=No
+7	firem	firma	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	6	nmod	6:nmod:gen	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~
@@ -64,14 +64,14 @@ The following 65 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 4 6 obl	color:blue
 1	Od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	3:case	LId=od-1
 2	té	ten	DET	PDFS2----------	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	3:det	_
-3	doby	doba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	4:obl	_
+3	doby	doba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	4:obl:od:gen	_
 4	zprostředkovaly	zprostředkovat	VERB	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	6:case	LId=v-1
-6	ČR	ČR	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Geo|Polarity=Pos	4	obl	4:obl	LId=ČR-1|LGloss=(Česká_republika)
+6	ČR	ČR	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Geo|Polarity=Pos	4	obl	4:obl:v	LId=ČR-1|LGloss=(Česká_republika)
 7	pobyt	pobyt	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	4:obj	LGloss=(př._místo_pobytu)
 8	téměř	téměř	ADV	Db-------------	_	9	advmod:emph	9:advmod:emph	_
-9	stovky	stovka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	7	nmod	7:nmod	_
-10	expertů	expert	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	9	nmod	9:nmod	SpaceAfter=No
+9	stovky	stovka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	7	nmod	7:nmod:acc	_
+10	expertů	expert	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	9	nmod	9:nmod:gen	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~

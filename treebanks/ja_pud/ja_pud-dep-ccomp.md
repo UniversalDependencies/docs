@@ -8,103 +8,100 @@ udver: '2'
 
 This relation is universal.
 
-68 nodes (0%) are attached to their parents as `ccomp`.
+72 nodes (0%) are attached to their parents as `ccomp`.
 
-68 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.58823529411765.
+72 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.09722222222222.
 
-The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (44; 65% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (13; 19% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (11; 16% instances).
+The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (52; 72% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (15; 21% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (5; 7% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 10 ccomp	color:blue
-1	証人	証人	NOUN	NN	_	10	dislocated	_	SpaceAfter=No
-2	は	は	ADP	PK	_	1	case	_	SpaceAfter=No
-3	、	、	PUNCT	SYM	_	1	punct	_	SpaceAfter=No
-4	4月	4月	NOUN	NR	_	10	iobj	_	SpaceAfter=No
-5	に	に	ADP	PS	_	4	case	_	SpaceAfter=No
-6	被害者	被害者	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
-7	が	が	ADP	PS	_	6	case	_	SpaceAfter=No
-8	被疑者	被疑者	NOUN	NN	_	10	obj	_	SpaceAfter=No
-9	を	を	ADP	PS	_	8	case	_	SpaceAfter=No
-10	攻撃	攻撃	VERB	VV	_	16	ccomp	_	SpaceAfter=No
-11	し	する	AUX	XV	_	10	aux	_	SpaceAfter=No
-12	た	た	AUX	AV	_	10	aux	_	SpaceAfter=No
-13	、と	と	ADP	PQ	_	10	case	_	SpaceAfter=No
-14	警察	警察	NOUN	NN	_	16	iobj	_	SpaceAfter=No
-15	に	に	ADP	PS	_	14	case	_	SpaceAfter=No
-16	言っ	言う	VERB	VV	_	0	root	_	SpaceAfter=No
-17	た	た	AUX	AV	_	16	aux	_	SpaceAfter=No
-18	。	。	PUNCT	SYM	_	16	punct	_	SpaceAfter=No
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 13 ccomp	color:blue
+1	証人	証人	NOUN	名詞-普通名詞-一般	_	20	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=証人
+2	は	は	ADP	助詞-係助詞	_	1	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UniDicLemma=は
+3	、	、	PUNCT	補助記号-読点	_	1	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+4	4	4	NUM	名詞-数詞	_	5	nummod	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No|UniDicLemma=四
+5	月	月	NOUN	名詞-普通名詞-助数詞可能	_	13	obl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=No|UniDicLemma=月
+6	に	に	ADP	助詞-格助詞	_	5	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=に
+7	被害	被害	NOUN	名詞-普通名詞-一般	_	8	compound	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=被害
+8	者	者	NOUN	接尾辞-名詞的-一般	_	13	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=者
+9	が	が	ADP	助詞-格助詞	_	8	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=が
+10	被疑	被疑	NOUN	名詞-普通名詞-一般	_	11	compound	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=被疑
+11	者	者	NOUN	接尾辞-名詞的-一般	_	13	obj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=者
+12	を	を	ADP	助詞-格助詞	_	11	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=を
+13	攻撃	攻撃	VERB	名詞-普通名詞-サ変可能	_	20	ccomp	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=攻撃
+14	し	する	AUX	動詞-非自立可能	_	13	aux	_	BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=為る
+15	た	た	AUX	助動詞	_	13	aux	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=た
+16	、	、	PUNCT	補助記号-読点	_	13	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+17	と	と	ADP	助詞-格助詞	_	13	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=と
+18	警察	警察	NOUN	名詞-普通名詞-一般	_	20	obl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=警察
+19	に	に	ADP	助詞-格助詞	_	18	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=に
+20	言っ	言う	VERB	動詞-一般	_	0	root	_	BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=言う
+21	た	た	AUX	助動詞	_	20	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=た
+22	。	。	PUNCT	補助記号-句点	_	20	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No|UniDicLemma=。
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 19 ccomp	color:blue
-1	プラトン	プラトン	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No
-2	は	は	ADP	PK	_	1	case	_	SpaceAfter=No
-3	、	、	PUNCT	SYM	_	1	punct	_	SpaceAfter=No
-4	権力	権力	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
-5	は	は	ADP	PK	_	4	case	_	SpaceAfter=No
-6	教育	教育	NOUN	NN	_	8	obj	_	SpaceAfter=No
-7	を	を	ADP	PS	_	6	case	_	SpaceAfter=No
-8	受け	受ける	VERB	VV	_	10	acl	_	SpaceAfter=No
-9	た	た	AUX	AV	_	8	aux	_	SpaceAfter=No
-10	保護者	保護者	NOUN	NN	_	12	iobj	_	SpaceAfter=No
-11	に	に	ADP	PS	_	10	case	_	SpaceAfter=No
-12	注意	注意	VERB	VV	_	15	advcl	_	SpaceAfter=No
-13	し	する	AUX	XV	_	12	aux	_	SpaceAfter=No
-14	て	て	SCONJ	PC	_	12	mark	_	SpaceAfter=No
-15	委ねる	委ねる	VERB	VV	_	16	acl	_	SpaceAfter=No
-16	方	方	NOUN	NB	_	19	nsubj	_	SpaceAfter=No
-17	が	が	ADP	PS	_	16	case	_	SpaceAfter=No
-18	ずっと	ずっと	ADV	RB	_	19	advmod	_	SpaceAfter=No
-19	安全	安全	ADJ	JN	_	23	ccomp	_	SpaceAfter=No
-20	だろ	だ	AUX	XV	_	19	aux	_	SpaceAfter=No
-21	う	う	AUX	AV	_	19	aux	_	SpaceAfter=No
-22	、と	と	ADP	PQ	_	19	case	_	SpaceAfter=No
-23	考え	考える	VERB	VV	_	0	root	_	SpaceAfter=No
-24	た	た	AUX	AV	_	23	aux	_	SpaceAfter=No
-25	。	。	PUNCT	SYM	_	23	punct	_	SpaceAfter=No
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 8 ccomp	color:blue
+1	「	「	PUNCT	補助記号-括弧開	_	2	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧開|SpaceAfter=No|UniDicLemma=「
+2	私	私	PRON	代名詞	_	8	dislocated	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No|UniDicLemma=私
+3	は	は	ADP	助詞-係助詞	_	2	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UniDicLemma=は
+4	、	、	PUNCT	補助記号-読点	_	2	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+5	トロピカル	トロピカル	NOUN	名詞-普通名詞-一般	_	6	compound	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=トロピカル
+6	カラー	カラー	NOUN	名詞-普通名詞-一般	_	8	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=カラー
+7	が	が	ADP	助詞-格助詞	_	6	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=が
+8	大好き	大好き	ADJ	形状詞-一般	_	14	ccomp	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=形状詞-一般|SpaceAfter=No|UniDicLemma=大好き
+9	」	」	PUNCT	補助記号-括弧閉	_	8	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧閉|SpaceAfter=No|UniDicLemma=」
+10	と	と	ADP	助詞-格助詞	_	8	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=と
+11	、	、	PUNCT	補助記号-読点	_	8	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+12	彼	彼	PRON	代名詞	_	14	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No|UniDicLemma=彼
+13	は	は	ADP	助詞-係助詞	_	12	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UniDicLemma=は
+14	言っ	言う	VERB	動詞-一般	_	0	root	_	BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=言う
+15	た	た	AUX	助動詞	_	14	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=た
+16	。	。	PUNCT	補助記号-句点	_	14	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No|UniDicLemma=。
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 6 ccomp	color:blue
-1	これ	これ	PRON	NP	_	6	nsubj	_	SpaceAfter=No
-2	は	は	ADP	PK	_	1	case	_	SpaceAfter=No
-3	疼痛	疼痛	NOUN	NN	_	4	compound	_	SpaceAfter=No
-4	患者	患者	NOUN	NN	_	6	nmod	_	SpaceAfter=No
-5	の	の	ADP	PN	_	4	case	_	SpaceAfter=No
-6	災害	災害	NOUN	NN	_	18	ccomp	_	SpaceAfter=No
-7	だ	だ	AUX	AV	_	6	cop	_	SpaceAfter=No
-8	、と	と	ADP	PQ	_	6	case	_	SpaceAfter=No
-9	マイリス	マイリス	PROPN	NNP	_	18	nsubj	_	SpaceAfter=No
-10	は	は	ADP	PK	_	9	case	_	SpaceAfter=No
-11	木曜日	木曜日	NOUN	NN	_	14	nmod	_	SpaceAfter=No
-12	の	の	ADP	PN	_	11	case	_	SpaceAfter=No
-13	CBC	CBC	PROPN	NNP	_	14	compound	_	SpaceAfter=No
-14	ニュース	ニュース	NOUN	NN	_	16	nmod	_	SpaceAfter=No
-15	の	の	ADP	PN	_	14	case	_	SpaceAfter=No
-16	インタビュー	インタビュー	NOUN	NN	_	18	obl	_	SpaceAfter=No
-17	で	で	ADP	PS	_	16	case	_	SpaceAfter=No
-18	言っ	言う	VERB	VV	_	0	root	_	SpaceAfter=No
-19	た	た	AUX	AV	_	18	aux	_	SpaceAfter=No
-20	。	。	PUNCT	SYM	_	18	punct	_	SpaceAfter=No
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 17 ccomp	color:blue
+1	ミリカン	ミリカン	PROPN	名詞-固有名詞-人名-一般	_	3	nsubj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-固有名詞-人名-一般|SpaceAfter=No|UniDicLemma=ミリカン
+2	が	が	ADP	助詞-格助詞	_	1	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=が
+3	死ん	死ぬ	VERB	動詞-一般	_	5	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=死ぬ
+4	だ	だ	AUX	助動詞	_	3	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=た
+5	時	時	NOUN	名詞-普通名詞-副詞可能	_	20	obl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=時
+6	、	、	PUNCT	補助記号-読点	_	5	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+7	壊れ	壊れる	VERB	動詞-一般	_	12	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=形容詞-一般|SpaceAfter=No|UniDicLemma=壊れる
+8	やすい	やすい	AUX	接尾辞-形容詞的	_	7	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=形容詞-一般|SpaceAfter=No|UniDicLemma=易い
+9	、	、	PUNCT	補助記号-読点	_	7	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UniDicLemma=、
+10	落ち着か	落ち着く	VERB	動詞-一般	_	12	acl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=落ち着く
+11	ない	ない	AUX	助動詞	Polarity=Neg	10	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=ない
+12	オディ	オディ	PROPN	名詞-固有名詞-人名-一般	_	14	obj	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-固有名詞-人名-一般|SpaceAfter=No|UniDicLemma=オデイ
+13	を	を	ADP	助詞-格助詞	_	12	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=を
+14	見る	みる	VERB	動詞-非自立可能	_	17	obl	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=見る
+15	の	の	SCONJ	助詞-準体助詞	_	14	mark	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助詞-準体助詞|SpaceAfter=No|UniDicLemma=の
+16	も	も	ADP	助詞-係助詞	_	14	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UniDicLemma=も
+17	最後	最後	NOUN	名詞-普通名詞-一般	_	20	ccomp	_	BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UniDicLemma=最後
+18	だ	だ	AUX	助動詞	_	17	cop	_	BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=だ
+19	と	と	ADP	助詞-格助詞	_	17	case	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UniDicLemma=と
+20	思っ	思う	VERB	動詞-一般	_	0	root	_	BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No|UniDicLemma=思う
+21	た	た	AUX	助動詞	_	20	aux	_	BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No|UniDicLemma=た
+22	。	。	PUNCT	補助記号-句点	_	20	punct	_	BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No|UniDicLemma=。
 
 ~~~
 

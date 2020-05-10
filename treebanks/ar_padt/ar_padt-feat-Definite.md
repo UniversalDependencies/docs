@@ -107,13 +107,13 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="ar_padt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (19201; 83%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4037; 70%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4041; 70%),
 <tt>ADJ --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (881; 98%),
 <tt>NOUN --[<tt><a href="ar_padt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (311; 81%),
 <tt>ADJ --[<tt><a href="ar_padt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (236; 82%),
 <tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (135; 67%),
 <tt>ADJ --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (98; 54%),
 <tt>NOUN --[<tt><a href="ar_padt-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (67; 72%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (56; 84%),
-<tt>ADJ --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> ADJ</tt> (23; 96%).
+<tt>NOUN --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (56; 82%),
+<tt>ADJ --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> ADJ</tt> (20; 100%).
 

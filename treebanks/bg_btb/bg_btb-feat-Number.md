@@ -12,7 +12,7 @@ It occurs with 4 different values: `Count`, `Plur`, `Ptan`, `Sing`.
 87763 tokens (56%) have a non-empty value of `Number`.
 27713 types (105%) occur at least once with a non-empty value of `Number`.
 14048 lemmas (94%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (33927; 22% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (17185; 11% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (13504; 9% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (8363; 5% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (5368; 3% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (4382; 3% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (2433; 2% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (2101; 1% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (499; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (33927; 22% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (16828; 11% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (13504; 9% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (8363; 5% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (5368; 3% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (4739; 3% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (2433; 2% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (2101; 1% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (499; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -37,14 +37,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-17185 <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Number`.
+16828 <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15819; 92%), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15349; 89%), <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (14505; 84%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14505; 84%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14240; 83%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=3</tt> (11803; 69%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9800; 57%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (9003; 52%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15495; 92%), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15006; 89%), <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (14164; 84%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14164; 84%), <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13916; 83%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=3</tt> (11480; 68%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9528; 57%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (8679; 52%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (5162; 30% of non-empty `Number`): <em>могат, имат, съобщиха, са, можем, имаме, работят, искат, правят, вземат</em>
-* `Sing` (12023; 70% of non-empty `Number`): <em>има, няма, може, трябва, е, каза, съобщи, заяви, стана, обяви</em>
+* `Plur` (5102; 30% of non-empty `Number`): <em>могат, имат, съобщиха, можем, имаме, работят, искат, правят, вземат, искаме</em>
+* `Sing` (11726; 70% of non-empty `Number`): <em>има, няма, може, трябва, каза, съобщи, заяви, стана, обяви, направи</em>
 
 <table>
   <tr><th>Paradigm <i>мога</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -156,14 +156,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-4382 <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Number`.
+4739 <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> tokens (52% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4276; 98%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4276; 98%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4152; 95%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4029; 92%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=3</tt> (3736; 85%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3407; 78%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="bg_btb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4600; 97%), <tt><a href="bg_btb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4600; 97%), <tt><a href="bg_btb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4493; 95%), <tt><a href="bg_btb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4353; 92%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=3</tt> (4059; 86%), <tt><a href="bg_btb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3679; 78%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (1249; 29% of non-empty `Number`): <em>са, бяха, бъдат, сме, били, сте, бъдем, биха, бихте, бяхте</em>
-* `Sing` (3133; 71% of non-empty `Number`): <em>е, бе, бъде, беше, съм, бил, си, била, би, бих</em>
+* `Plur` (1309; 28% of non-empty `Number`): <em>са, бяха, бъдат, сме, били, сте, бъдем, биха, бихте, бяхте</em>
+* `Sing` (3430; 72% of non-empty `Number`): <em>е, бе, бъде, беше, съм, би, бил, си, била, бих</em>
 * `EMPTY` (4395): <em>да, ще, е, са, бъдат, беше, би, бъде, съм</em>
 
 <table>
@@ -241,14 +241,14 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="bg_btb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11159; 97%),
+<tt>NOUN --[<tt><a href="bg_btb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11160; 97%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5931; 61%),
-<tt>VERB --[<tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4386; 94%),
-<tt>VERB --[<tt><a href="bg_btb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (2813; 58%),
+<tt>VERB --[<tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4234; 93%),
+<tt>VERB --[<tt><a href="bg_btb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (2782; 58%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2663; 82%),
-<tt>VERB --[<tt><a href="bg_btb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2654; 58%),
+<tt>VERB --[<tt><a href="bg_btb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2632; 58%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-det.html">det</a></tt>]--> DET</tt> (1948; 98%),
-<tt>VERB --[<tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1924; 98%),
+<tt>VERB --[<tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1889; 98%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1719; 78%),
 <tt>PROPN --[<tt><a href="bg_btb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1539; 96%).
 

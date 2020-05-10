@@ -20,10 +20,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="th_pud-pos-PRON.htm
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (103; 23% of non-empty `Person`): <em>เรา, ฉัน, ผม, ข้าพเจ้า, มี</em>
-* `2` (19; 4% of non-empty `Person`): <em>คุณ, 'Ya, You, นาย, ยู</em>
-* `3` (324; 73% of non-empty `Person`): <em>เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พ​ร​ะ​อ​ง​ค​์​ภ​า​ย​ห​ล​ั​ง​ก​า​ร​ส​ว​ร​ร​ค​ต​โ​ด​ย​ใ​ช​้​ช​ื​่​อ​ย​ุ​ค​ท​ี​่​พ​ร​ะ​อ​ง​ค​์</em>
-* `EMPTY` (237): <em>กัน, ที่, นี้, นี่, นั้น, นั่น, อะไร, เอง, ใคร, ต่าง</em>
+* `1` (103; 23% of non-empty `Person`): เรา, ฉัน, ผม, ข้าพเจ้า, มี
+* `2` (19; 4% of non-empty `Person`): คุณ, 'Ya, You, นาย, ยู
+* `3` (324; 73% of non-empty `Person`): เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พ​ร​ะ​อ​ง​ค​์​ภ​า​ย​ห​ล​ั​ง​ก​า​ร​ส​ว​ร​ร​ค​ต​โ​ด​ย​ใ​ช​้​ช​ื​่​อ​ย​ุ​ค​ท​ี​่​พ​ร​ะ​อ​ง​ค​์
+* `EMPTY` (237): กัน, ที่, นี้, นี่, นั้น, นั่น, อะไร, เอง, ใคร, ต่าง
 
 ## Relations with Agreement in `Person`
 

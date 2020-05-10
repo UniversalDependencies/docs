@@ -42,14 +42,14 @@ The following 5 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 2	,	,	PUNCT	Z:-------------	_	13	punct	13:punct	_
 3	že	že	SCONJ	J,-------------	_	13	mark	13:mark	_
 4	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	5:case	LId=pro-1
-5	ně	on	PRON	P5XP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs	13	obl	13:obl	_
+5	ně	on	PRON	P5XP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs	13	obl	13:obl:pro:acc	_
 6	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	13	expl:pass	13:expl:pass	LGloss=(zvr._zájmeno/částice)
 7	dřevěná	dřevěný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	amod	8:amod	_
 8	bouda	bouda	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	13	nsubj:pass	13:nsubj:pass	_
 9	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	10	case	10:case	LId=z-1
-10	koloušů	kolouš	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	8	nmod	8:nmod	_
+10	koloušů	kolouš	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	8	nmod	8:nmod:z:gen	_
 11	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	12	case	12:case	LId=na-1
-12	šachtě	šachta	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	13	obl	13:obl	_
+12	šachtě	šachta	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	13	obl	13:obl:na:loc	_
 13	*	*	SYM	Xx-------------	Abbr=Yes	1	obj	1:obj	_
 14	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
@@ -68,7 +68,7 @@ The following 5 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	5:expl:pass	LGloss=(zvr._zájmeno/částice)
 5	vyrábějí	vyrábět	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	7:case	LId=z-1
-7	jílů	jíl	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	obl:arg	5:obl:arg	_
+7	jílů	jíl	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	obl:arg	5:obl:arg:z:gen	_
 8	bíle	bíle	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	12	advmod	12:advmod	LDeriv=bílý
 9	nebo	nebo	CCONJ	J^-------------	_	10	cc	10:cc	_
 10	barevně	barevně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	8	conj	8:conj|12:advmod	LDeriv=barevný

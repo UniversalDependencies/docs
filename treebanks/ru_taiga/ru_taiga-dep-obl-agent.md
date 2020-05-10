@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ru_taiga-dep-obl.html">obl</a></tt>.
 
-23 nodes (0%) are attached to their parents as `obl:agent`.
+57 nodes (0%) are attached to their parents as `obl:agent`.
 
-16 instances of `obl:agent` (70%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.91304347826087.
+46 instances of `obl:agent` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.57894736842105.
 
-The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (13; 57% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (5; 22% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (3; 13% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `obl:agent`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (37; 65% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (9; 16% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (8; 14% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -31,8 +31,28 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	метров	метр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
 9	по	по	ADP	_	_	8	case	_	_
-10	150	150	NUM	_	_	8	nummod:gov	_	SpaceAfter=No
+10	150	150	NUM	_	NumForm=Digit	8	nummod:gov	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 obl:agent	color:blue
+1	Опрошенные	опросить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+2	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	Известиями	Известия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	1	obl:agent	_	SpaceAfter=No
+4	"	"	PUNCT	_	_	3	punct	_	_
+5	эксперты	эксперт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	_
+7	разделяют	разделять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	9	det	_	_
+9	оптимизма	оптимизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
@@ -52,29 +72,6 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 7	очень	очень	ADV	_	Degree=Pos	8	advmod	_	_
 8	удивлялся	удивляться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 obl:agent	color:blue
-1	Все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur	2	det	_	_
-2	Законы	Закон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	_
-3	принятые	принять	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
-4	за	за	ADP	_	_	7	case	_	_
-5	последние	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	_
-6	16	16	NUM	_	_	7	nummod:gov	_	_
-7	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	obl	_	_
-8	ГД	ГД	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	obl:agent	_	_
-9	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
-10	не	не	PART	_	_	11	advmod	_	_
-11	подписывал	подписывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-12	?	?	PUNCT	_	_	11	punct	_	SpaceAfter=No
-13	))))	))))	SYM	_	_	11	discourse	_	SpaceAfter=No
 
 ~~~
 

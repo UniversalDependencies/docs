@@ -8,67 +8,70 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `orphan`.
+28 nodes (0%) are attached to their parents as `orphan`.
 
-5 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.2.
+27 instances of `orphan` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.60714285714286.
 
-The following 3 pairs of parts of speech are connected with `orphan`: <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 40% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+The following 12 pairs of parts of speech are connected with `orphan`: <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (10; 36% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (4; 14% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 7% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (2; 7% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 4% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 39	bgColor:blue
-# visual-style 39	fgColor:white
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 28 39 orphan	color:blue
-1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-3	playing	play	VERB	VBG	VerbForm=Ger	2	xcomp	_	_
-4	small	small	ADJ	JJ	Degree=Pos	5	amod	_	_
-5	roles	role	NOUN	NNS	Number=Plur	3	obj	_	_
-6	in	in	ADP	IN	_	7	case	_	_
-7	films	film	NOUN	NNS	Number=Plur	3	obl	_	_
-8	in	in	ADP	IN	_	9	case	_	_
-9	1949	@card@	NUM	CD	NumType=Card	3	obl	_	SpaceAfter=No
-10	,	,	PUNCT	,	_	13	punct	_	_
-11	with	with	ADP	IN	_	13	case	_	_
-12	impressive	impressive	ADJ	JJ	Degree=Pos	13	amod	_	_
-13	performances	performance	NOUN	NNS	Number=Plur	3	obl	_	_
-14	in	in	ADP	IN	_	17	case	_	_
-15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	_
-16	Fernandel	Fernandel	PROPN	NNP	Number=Sing	17	compound	_	_
-17	vehicle	vehicle	NOUN	NN	Number=Sing	13	nmod	_	_
-18	Meurtres	Meurtres	PROPN	NNP	Number=Sing	17	appos	_	SpaceAfter=No
-19	?	?	PUNCT	.	_	18	punct	_	_
-20	(	(	PUNCT	-LRB-	_	22	punct	_	SpaceAfter=No
-21	Three	Three	NUM	NNP	Number=Sing	22	nummod	_	_
-22	Sinners	Sinners	PROPN	NNP	Number=Sing	18	appos	_	SpaceAfter=No
-23	,	,	PUNCT	,	_	24	punct	_	_
-24	1950	@card@	NUM	CD	NumType=Card	22	nmod:tmod	_	SpaceAfter=No
-25	)	)	PUNCT	-RRB-	_	22	punct	_	_
-26	and	and	CCONJ	CC	_	28	cc	_	_
-27	alongside	alongside	ADP	IN	_	28	case	_	_
-28	Jean	Jean	PROPN	NNP	Number=Sing	13	conj	_	_
-29	Gabin	Gabin	PROPN	NNP	Number=Sing	28	flat	_	_
-30	as	as	ADP	IN	_	32	case	_	_
-31	a	a	DET	DT	Definite=Ind|PronType=Art	32	det	_	_
-32	showgirl	showgirl	NOUN	NN	Number=Sing	28	orphan	_	_
-33	/	/	SYM	SYM	_	36	cc	_	_
-34	gangster	gangster	NOUN	NN	Number=Sing	36	nmod	_	SpaceAfter=No
-35	's	's	PART	POS	_	34	case	_	SpaceAfter=No
-36	moll	moll	NOUN	NN	Number=Sing	32	conj	_	_
-37	in	in	ADP	IN	_	39	case	_	_
-38	the	the	DET	DT	Definite=Def|PronType=Art	39	det	_	_
-39	film	film	NOUN	NN	Number=Sing	28	orphan	_	_
-40	Touchez	Touchez	PROPN	NNP	Number=Sing	39	appos	_	_
-41	pas	pas	PROPN	NNP	Number=Sing|Polarity=Neg	40	flat	_	_
-42	au	au	PROPN	NNP	Number=Sing	40	flat	_	_
-43	grisbi	grisbi	PROPN	NNP	Number=Sing	40	flat	_	_
-44	(	(	PUNCT	-LRB-	_	45	punct	_	SpaceAfter=No
-45	1954	@card@	NUM	CD	NumType=Card	40	nmod:tmod	_	SpaceAfter=No
-46	)	)	PUNCT	-RRB-	_	45	punct	_	SpaceAfter=No
-47	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 15 orphan	color:blue
+1	There	there	PRON	EX	_	2	expl	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	Entity=(object-109
+4	public	public	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	bus	bus	NOUN	NN	Number=Sing	2	nsubj	_	_
+6	from	from	ADP	IN	_	8	case	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	Entity=(place-46
+8	airport	airport	NOUN	NN	Number=Sing	5	nmod	_	Entity=place-46)
+9	to	to	ADP	IN	_	10	case	_	_
+10	Hadibo	Hadibo	PROPN	NNP	Number=Sing	8	nmod	_	Entity=(place-30)
+11	and	and	CCONJ	CC	_	13	cc	_	_
+12	from	from	ADP	IN	_	13	case	_	_
+13	Hadibo	Hadibo	PROPN	NNP	Number=Sing	5	conj	_	Entity=(place-30)
+14	to	to	ADP	IN	_	15	case	_	_
+15	Qalansia	Qalansia	PROPN	NNP	Number=Sing	13	orphan	_	Entity=(place-110)object-109)|SpaceAfter=No
+16	.	.	PUNCT	.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 23 orphan	color:blue
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	Entity=(animal-11
+2	silver	silver	ADJ	JJ	Degree=Pos	3	amod	_	_
+3	swarm	swarm	NOUN	NN	Number=Sing	4	nsubj	_	Entity=animal-11)
+4	coalesces	coalesce	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	around	around	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	Entity=(place-106
+7	164th	164th	ADJ	JJ	Degree=Pos|NumType=Ord	4	obl	_	Entity=place-106)|SpaceAfter=No
+8	,	,	PUNCT	,	_	11	punct	_	_
+9	and	and	CCONJ	CC	_	11	cc	_	_
+10	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Entity=(person-6)
+11	vanishes	vanish	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+12	into	into	ADP	IN	_	13	case	_	_
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obl	_	Entity=(animal-11)|SpaceAfter=No
+14	,	,	PUNCT	,	_	17	punct	_	_
+15	like	like	SCONJ	IN	_	17	mark	_	_
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	Entity=(abstract-107
+17	snip	snip	NOUN	NN	Number=Sing	11	advcl	_	_
+18	of	of	ADP	IN	_	19	case	_	_
+19	scallion	scallion	NOUN	NN	Number=Sing	17	nmod	_	Entity=(animal-108)abstract-107)
+20	into	into	ADP	IN	_	23	case	_	_
+21	cloudy	cloudy	ADJ	JJ	Degree=Pos	23	amod	_	Entity=(object-109
+22	miso	miso	NOUN	NN	Number=Sing	23	compound	_	Entity=(substance-110)
+23	soup	soup	NOUN	NN	Number=Sing	17	orphan	_	Entity=object-109)|SpaceAfter=No
+24	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 
@@ -76,113 +79,95 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 ~~~ conllu
 # visual-style 46	bgColor:blue
 # visual-style 46	fgColor:white
-# visual-style 39	bgColor:blue
-# visual-style 39	fgColor:white
-# visual-style 39 46 orphan	color:blue
-1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	won	win	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-3	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
-4	Cannes	Cannes	PROPN	NNP	Number=Sing	6	compound	_	_
-5	Film	Film	PROPN	NNP	Number=Sing	6	compound	_	_
-6	Festival	Festival	PROPN	NNP	Number=Sing	7	compound	_	_
-7	Award	Award	PROPN	NNP	Number=Sing	2	obj	_	_
-8	for	for	ADP	IN	_	10	case	_	_
-9	Best	good	ADJ	JJS	Degree=Sup|Number=Sing	10	compound	_	_
-10	Actress	actress	NOUN	NN	Number=Sing	7	nmod	_	_
-11	for	for	ADP	IN	_	13	case	_	_
-12	Seven	Seven	NUM	NNP	Number=Sing|NumType=Card	13	nummod	_	_
-13	Days	Day	PROPN	NNPS	Number=Plur	2	obl	_	_
-14	...	...	PUNCT	:	_	16	punct	_	_
-15	Seven	Seven	NUM	NNP	Number=Sing|NumType=Card	16	nummod	_	_
-16	Nights	Night	PROPN	NNPS	Number=Plur	13	parataxis	_	_
-17	(	(	PUNCT	-LRB-	_	18	punct	_	SpaceAfter=No
-18	1960	@card@	NUM	CD	NumType=Card	13	nmod:tmod	_	SpaceAfter=No
-19	)	)	PUNCT	-RRB-	_	18	punct	_	SpaceAfter=No
-20	,	,	PUNCT	,	_	23	punct	_	_
-21	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	_
-22	BAFTA	BAFTA	PROPN	NNP	Number=Sing	23	compound	_	_
-23	Award	Award	PROPN	NNP	Number=Sing	7	conj	_	_
-24	for	for	ADP	IN	_	27	case	_	_
-25	Best	good	ADJ	JJS	Degree=Sup|Number=Sing	27	amod	_	_
-26	Foreign	foreign	ADJ	JJ	Degree=Pos|Number=Sing	27	amod	_	_
-27	Actress	actress	NOUN	NN	Number=Sing	23	nmod	_	_
-28	for	for	ADP	IN	_	29	case	_	_
-29	Viva	Viva	PROPN	NNP	Number=Sing	23	orphan	_	_
-30	Maria	Maria	PROPN	NNP	Number=Sing	29	flat	_	SpaceAfter=No
-31	!	!	PUNCT	.	_	29	punct	_	_
-32	(	(	PUNCT	-LRB-	_	33	punct	_	SpaceAfter=No
-33	1965	@card@	NUM	CD	NumType=Card	29	nmod:tmod	_	SpaceAfter=No
-34	)	)	PUNCT	-RRB-	_	33	punct	_	SpaceAfter=No
-35	,	,	PUNCT	,	_	23	punct	_	_
-36	and	and	CCONJ	CC	_	39	cc	_	_
-37	the	the	DET	DT	Definite=Def|PronType=Art	39	det	_	_
-38	César	César	PROPN	NNP	Number=Sing	39	compound	_	_
-39	Award	Award	PROPN	NNP	Number=Sing	7	conj	_	_
-40	for	for	ADP	IN	_	42	case	_	_
-41	Best	good	ADJ	JJS	Degree=Sup|Number=Sing	42	amod	_	_
-42	Actress	actress	NOUN	NN	Number=Sing	39	nmod	_	_
-43	for	for	ADP	IN	_	46	case	_	_
-44	The	the	DET	DT	Definite=Def|PronType=Art	46	det	_	_
-45	Old	Old	PROPN	NNP	Number=Sing	46	amod	_	_
-46	Lady	Lady	PROPN	NNP	Number=Sing	39	orphan	_	_
-47	Who	who	PRON	WP	PronType=Rel	48	nsubj	_	_
-48	Walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	46	acl:relcl	_	_
-49	in	in	ADP	IN	_	51	case	_	_
-50	the	the	DET	DT	Definite=Def|PronType=Art	51	det	_	_
-51	Sea	Sea	PROPN	NNP	Number=Sing	48	obl	_	_
-52	(	(	PUNCT	-LRB-	_	53	punct	_	SpaceAfter=No
-53	1992	@card@	NUM	CD	NumType=Card	46	nmod:tmod	_	SpaceAfter=No
-54	)	)	PUNCT	-RRB-	_	53	punct	_	SpaceAfter=No
-55	.	.	PUNCT	.	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 16 orphan	color:blue
-1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
-2	father	father	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	put	put	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
-5	hand	hand	NOUN	NN	Number=Sing	3	obj	_	_
-6	on	on	ADP	IN	_	7	case	_	_
-7	top	top	NOUN	NN	Number=Sing	3	obl	_	_
-8	of	of	ADP	IN	_	10	case	_	_
-9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
-10	hair	hair	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No
-11	,	,	PUNCT	,	_	13	punct	_	_
-12	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
-13	palm	palm	NOUN	NN	Number=Sing	5	conj	_	_
-14	on	on	ADP	IN	_	16	case	_	_
-15	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
-16	head	head	NOUN	NN	Number=Sing	13	orphan	_	SpaceAfter=No
-17	,	,	PUNCT	,	_	21	punct	_	_
-18	and	and	CCONJ	CC	_	21	cc	_	_
-19	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
-20	could	could	AUX	MD	VerbForm=Fin	21	aux	_	_
-21	feel	feel	VERB	VB	VerbForm=Inf	3	conj	_	_
-22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	_
-23	bone	bone	NOUN	NN	Number=Sing	21	obj	_	_
-24	of	of	ADP	IN	_	26	case	_	_
-25	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	26	nmod:poss	_	_
-26	skull	skull	NOUN	NN	Number=Sing	23	nmod	_	_
-27	and	and	CCONJ	CC	_	29	cc	_	_
-28	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	29	nmod:poss	_	_
-29	skin	skin	NOUN	NN	Number=Sing	23	conj	_	_
-30	and	and	CCONJ	CC	_	33	cc	_	_
-31	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	33	nmod:poss	_	_
-32	hot	hot	ADJ	JJ	Degree=Pos	33	amod	_	_
-33	palm	palm	NOUN	NN	Number=Sing	23	conj	_	SpaceAfter=No
-34	,	,	PUNCT	,	_	36	punct	_	_
-35	so	so	ADV	RB	_	36	advmod	_	_
-36	dry	dry	ADJ	JJ	Degree=Pos	33	amod	_	_
-37	and	and	CCONJ	CC	_	38	cc	_	_
-38	strong	strong	ADJ	JJ	Degree=Pos	36	conj	_	SpaceAfter=No
-39	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 41	bgColor:blue
+# visual-style 41	fgColor:white
+# visual-style 41 46 orphan	color:blue
+1	An	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	Entity=(abstract-143
+2	incomplete	incomplete	ADJ	JJ	Degree=Pos|Polarity=Neg	6	amod	_	_
+3	and	and	CCONJ	CC	_	4	cc	_	_
+4	faulty	faulty	ADJ	JJ	Degree=Pos	2	conj	_	_
+5	German	German	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	translation	translation	NOUN	NN	Number=Sing	21	nsubj:pass	_	Entity=abstract-143)|SpaceAfter=No
+7	,	,	PUNCT	,	_	8	punct	_	_
+8	edited	edit	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	_	_
+9	by	by	ADP	IN	_	10	case	_	_
+10	Dr	Dr	PROPN	NNP	Number=Sing	8	obl	_	Entity=(person-144
+11	Moritz	Moritz	PROPN	NNP	Number=Sing	10	flat	_	_
+12	Posselt	Posselt	PROPN	NNP	Number=Sing	10	flat	_	Entity=person-144)
+13	(	(	PUNCT	-LRB-	_	18	punct	_	SpaceAfter=No
+14	Tagebuch	Tagebuch	X	FW	_	18	compound	_	Entity=(abstract-143
+15	des	des	X	FW	_	18	compound	_	_
+16	Generals	Generals	X	FW	_	18	compound	_	_
+17	Patrick	Patrick	PROPN	NNP	Number=Sing	18	compound	_	_
+18	Gordon	Gordon	PROPN	NNP	Number=Sing	6	appos	_	Entity=abstract-143)|SpaceAfter=No
+19	)	)	PUNCT	-RRB-	_	18	punct	_	_
+20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	aux:pass	_	_
+21	published	publish	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+22	,	,	PUNCT	,	_	25	punct	_	_
+23	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	Entity=(abstract-145
+24	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	25	amod	_	_
+25	volume	volume	NOUN	NN	Number=Sing	21	parataxis	_	Entity=abstract-145)
+26	at	at	ADP	IN	_	27	case	_	_
+27	Moscow	Moscow	PROPN	NNP	Number=Sing	25	orphan	_	Entity=(place-96)
+28	in	in	ADP	IN	_	29	case	_	_
+29	1849	1849	NUM	CD	NumType=Card	25	orphan	_	Entity=(time-146)|SpaceAfter=No
+30	,	,	PUNCT	,	_	32	punct	_	_
+31	the	the	DET	DT	Definite=Def|PronType=Art	32	det	_	Entity=(abstract-147
+32	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	25	conj	_	Entity=abstract-147)
+33	at	at	ADP	IN	_	34	case	_	_
+34	St	St	PROPN	NNP	Number=Sing	32	orphan	_	Entity=(place-148
+35	Petersburg	Petersburg	PROPN	NNP	Number=Sing	34	flat	_	Entity=place-148)
+36	in	in	ADP	IN	_	37	case	_	_
+37	1851	1851	NUM	CD	NumType=Card	32	orphan	_	Entity=(time-149)|SpaceAfter=No
+38	,	,	PUNCT	,	_	41	punct	_	_
+39	and	and	CCONJ	CC	_	41	cc	_	_
+40	the	the	DET	DT	Definite=Def|PronType=Art	41	det	_	Entity=(abstract-150
+41	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	25	conj	_	Entity=abstract-150)
+42	at	at	ADP	IN	_	43	case	_	_
+43	St	St	PROPN	NNP	Number=Sing	41	orphan	_	Entity=(place-148
+44	Petersburg	Petersburg	PROPN	NNP	Number=Sing	43	flat	_	Entity=place-148)
+45	in	in	ADP	IN	_	46	case	_	_
+46	1853	1853	NUM	CD	NumType=Card	41	orphan	_	Entity=(time-151)|SpaceAfter=No
+47	;	;	PUNCT	:	_	48	punct	_	_
+48	and	and	CCONJ	CC	_	66	cc	_	_
+49	Passages	Passages	PROPN	NNP	Number=Sing	66	nsubj	_	Entity=(abstract-152
+50	from	from	ADP	IN	_	52	case	_	_
+51	the	the	DET	DT	Definite=Def|PronType=Art	52	det	_	_
+52	Diary	Diary	PROPN	NNP	Number=Sing	49	nmod	_	_
+53	of	of	ADP	IN	_	54	case	_	_
+54	General	General	PROPN	NNP	Number=Sing	52	nmod	_	Entity=(person-127
+55	Patrick	Patrick	PROPN	NNP	Number=Sing	54	flat	_	_
+56	Gordon	Gordon	PROPN	NNP	Number=Sing	54	flat	_	_
+57	of	of	ADP	IN	_	58	case	_	_
+58	Auchleuchries	Auchleuchries	PROPN	NNP	Number=Sing	54	nmod	_	Entity=(place-5)abstract-152)person-127)
+59	(	(	PUNCT	-LRB-	_	60	punct	_	SpaceAfter=No
+60	1635	1635	NUM	CD	NumType=Card	54	parataxis	_	Entity=(time-153)
+61	–	–	ADP	IN	_	62	case	_	_
+62	1699	1699	NUM	CD	NumType=Card	60	nmod	_	Entity=(time-154)|SpaceAfter=No
+63	)	)	PUNCT	-RRB-	_	60	punct	_	SpaceAfter=No
+64	,	,	PUNCT	,	_	49	punct	_	_
+65	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	66	aux:pass	_	_
+66	printed	print	VERB	VBN	Tense=Past|VerbForm=Part	21	conj	_	SpaceAfter=No
+67	,	,	PUNCT	,	_	70	punct	_	_
+68	under	under	ADP	IN	_	70	case	_	_
+69	the	the	DET	DT	Definite=Def|PronType=Art	70	det	_	Entity=(abstract-155
+70	editorship	editorship	NOUN	NN	Number=Sing	66	obl	_	_
+71	of	of	ADP	IN	_	72	case	_	_
+72	Joseph	Joseph	PROPN	NNP	Number=Sing	70	nmod	_	Entity=(person-156
+73	Robertson	Robertson	PROPN	NNP	Number=Sing	72	flat	_	Entity=abstract-155)person-156)|SpaceAfter=No
+74	,	,	PUNCT	,	_	78	punct	_	_
+75	for	for	ADP	IN	_	78	case	_	_
+76	the	the	DET	DT	Definite=Def|PronType=Art	78	det	_	Entity=(organization-157
+77	Spalding	Spalding	PROPN	NNP	Number=Sing	78	compound	_	_
+78	Club	Club	PROPN	NNP	Number=Sing	66	obl	_	Entity=organization-157)|SpaceAfter=No
+79	,	,	PUNCT	,	_	81	punct	_	_
+80	at	at	ADP	IN	_	81	case	_	_
+81	Aberdeen	Aberdeen	PROPN	NNP	Number=Sing	66	obl	_	Entity=(place-158|SpaceAfter=No
+82	,	,	PUNCT	,	_	83	punct	_	_
+83	Scotland	Scotland	PROPN	NNP	Number=Sing	81	appos	_	Entity=(place-10)place-158)|SpaceAfter=No
+84	,	,	PUNCT	,	_	85	punct	_	_
+85	1859	1859	NUM	CD	NumType=Card	66	obl:tmod	_	Entity=(time-159)|SpaceAfter=No
+86	.	.	PUNCT	.	_	21	punct	_	_
 
 ~~~
 

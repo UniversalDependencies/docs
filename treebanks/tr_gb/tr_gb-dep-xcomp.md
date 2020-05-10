@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-116 nodes (1%) are attached to their parents as `xcomp`.
+117 nodes (1%) are attached to their parents as `xcomp`.
 
-116 instances of `xcomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10344827586207.
+117 instances of `xcomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1025641025641.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (84; 72% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (16; 14% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (84; 72% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (17; 15% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -53,9 +53,9 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 xcomp	color:blue
-1	Ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1	7	obl	_	_
+1	Ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	obl	_	_
 2	ce	-ce	ADV	_	_	1	case	_	_
-3	bu	bu	DET	_	Definite=Def|Number=Sing	4	det	_	_
+3	bu	bu	DET	_	Definite=Def|PronType=Art	4	det	_	_
 4	resim	resim	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
 5	sanat	sanat	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
 6	eseri	eser	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	xcomp	_	_

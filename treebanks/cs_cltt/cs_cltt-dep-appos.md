@@ -94,7 +94,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 20	němž	jenž	PRON	P9ZS6----------	Case=Loc|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel	23	obl	_	_
 21	účetní	účetní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	22	amod	_	LId=účetní-1
 22	zápisy	zápis	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	23	obj	_	_
-23	uspořádají	uspořádat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl	_	_
+23	uspořádají	uspořádat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
 24	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	26	case	_	LId=z-1
 25	hlediska	hledisko	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	24	fixed	_	_
 26	časového	časový	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	23	obl	_	_
@@ -102,7 +102,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 28	chronologicky	chronologicky	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	26	appos	_	SpaceAfter=No
 29	)	)	PUNCT	Z:-------------	_	28	punct	_	_
 30	a	a	CCONJ	J^-------------	_	32	cc	_	LId=a-1
-31	jímž	jenž	PRON	PJZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PrepCase=Npr|PronType=Rel	32	obj	_	_
+31	jímž	jenž	PRON	PJZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PrepCase=Npr|PronType=Rel	32	obl:arg	_	_
 32	prokazují	prokazovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	_
 33	zaúčtování	zaúčtování	NOUN	NNNP1-----A----	Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos	32	obj	_	_
 34	všech	všechen	DET	PLXP2----------	Case=Gen|Number=Plur|PronType=Tot	36	det	_	_
@@ -121,7 +121,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 47	níž	jenž	PRON	P9FS6----------	Case=Loc|Gender=Fem|Number=Sing|PrepCase=Pre|PronType=Rel	50	obl	_	_
 48	účetní	účetní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	49	amod	_	LId=účetní-1
 49	zápisy	zápis	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	50	obj	_	_
-50	uspořádají	uspořádat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	44	acl	_	_
+50	uspořádají	uspořádat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	44	acl:relcl	_	_
 51	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	53	case	_	LId=z-1
 52	hlediska	hledisko	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	51	fixed	_	_
 53	věcného	věcný	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	50	obl	_	_
@@ -138,7 +138,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 64	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	65	case	_	LId=v-1
 65	nichž	jenž	PRON	P9XP6----------	Case=Loc|Number=Plur|PrepCase=Pre|PronType=Rel	67	obl	_	_
 66	podrobně	podrobně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	67	advmod	_	_
-67	rozvádějí	rozvádět	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	60	acl	_	_
+67	rozvádějí	rozvádět	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	60	acl:relcl	_	_
 68	účetní	účetní	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	69	amod	_	LId=účetní-1
 69	zápisy	zápis	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	67	obj	_	_
 70	hlavní	hlavní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	71	amod	_	_
@@ -153,13 +153,13 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 79	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	80	case	_	LId=v-1
 80	kterých	který	DET	P4XP6----------	Case=Loc|Number=Plur|PronType=Int,Rel	82	obl	_	_
 81	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	82	expl:pass	_	_
-82	uvádějí	uvádět	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	75	acl	_	_
+82	uvádějí	uvádět	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	75	acl:relcl	_	_
 83	účetní	účetní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	84	amod	_	LId=účetní-1
 84	zápisy	zápis	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	82	nsubj:pass	_	SpaceAfter=No
 85	,	,	PUNCT	Z:-------------	_	88	punct	_	_
 86	které	který	DET	P4IP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	88	nsubj:pass	_	_
 87	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	88	expl:pass	_	_
-88	neprovádějí	provádět	VERB	VB-P---3P-NA---	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	84	acl	_	_
+88	neprovádějí	provádět	VERB	VB-P---3P-NA---	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	84	acl:relcl	_	_
 89	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	91	case	_	LId=v-1
 90	účetních	účetní	ADJ	AAFP6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	91	amod	_	LId=účetní-1
 91	knihách	kniha	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	88	obl	_	_

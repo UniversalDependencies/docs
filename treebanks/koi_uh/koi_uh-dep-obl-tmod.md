@@ -7,33 +7,28 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `obl:tmod`
 
 This relation is a language-specific subtype of <tt><a href="koi_uh-dep-obl.html">obl</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="koi_uh-dep-obl-lmod.html">obl:lmod</a></tt>.
 
-4 nodes (1%) are attached to their parents as `obl:tmod`.
+7 nodes (1%) are attached to their parents as `obl:tmod`.
 
-4 instances of `obl:tmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25.
+5 instances of `obl:tmod` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.85714285714286.
 
-The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 25% instances).
+The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (5; 71% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 obl:tmod	color:blue
-1	Мукӧд	мукӧд	DET	_	Case=Nom|Number=Sing	2	det	_	GTtags=Sg,Nom
-2	лунас	лун	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl:tmod	_	GTtags=Sg,Ill,PxSg3
-3	вовліс	вовлыны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
-4	гортас	горт	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	GTtags=Sg,Ill,PxSg3
-5	кыкисьӧн-куимисьӧн	кыкисьӧн-куимисьӧн	ADV	_	NumType=MultDist	3	advmod	_	GTtags=Mult,Distr
-6	и	и	CCONJ	_	_	11	cc	_	_
-7	чожа	чожа	ADV	_	_	11	advmod	_	_
-8	сылӧн	сія	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	nmod:poss	_	GTtags=Pers,Sg3,Gen
-9	лук	лук	NOUN	_	Case=Nom|Number=Sing	10	nmod	_	GTtags=Sg,Nom
-10	гряддэс	гряд	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	11	nsubj	_	GTtags=Pl,Nom,PxSg3
-11	кушамисӧ	кушамны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	3	conj	_	SpaceAfter=No
-12	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 3 5 obl:tmod	color:blue
+1	А	а	CCONJ	CC	_	3	cc	_	GTtags=CC
+2	медӧддьӧнсӧ	медӧддьӧнсӧ	ADV	_	_	3	advmod	_	_
+3	повзьӧтчӧ	повзьӧтчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=V,Ind,Prs,Sg3
+4	середа	середа	NOUN	_	_	5	nmod	_	_
+5	ойӧ	ой	NOUN	N	Case=Ill|Number=Sing	3	obl:tmod	_	GTtags=N,Sg,Ill|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
 
 ~~~
 

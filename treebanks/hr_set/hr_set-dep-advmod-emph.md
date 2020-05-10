@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 3 2 advmod:emph	color:blue
 1	"	"	PUNCT	Z	_	5	punct	_	SpaceAfter=No
 2	Već	već	ADV	Rgp	Degree=Pos	3	advmod:emph	_	_
-3	mnogo	mnogo	ADV	Rgp	Degree=Pos	4	det	_	_
+3	mnogo	mnogo	ADV	Rgp	Degree=Pos	4	advmod	_	_
 4	godina	godina	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	5	obl	_	_
 5	imamo	imati	VERB	Vmr1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	takav	takav	DET	Pd-msan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_

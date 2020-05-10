@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Alexandre Rademaker, Fabricio Chalub, Carlos Ramisch.
 
 Repository: [UD_Portuguese-GSD](https://github.com/UniversalDependencies/UD_Portuguese-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_gsd25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_gsd26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 
@@ -56,21 +56,21 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 
 ## Features
 
-[Definite](pt_gsd-feat-Definite.html) – [Gender](pt_gsd-feat-Gender.html) – [Number](pt_gsd-feat-Number.html) – [NumType](pt_gsd-feat-NumType.html) – [Polarity](pt_gsd-feat-Polarity.html) – [PronType](pt_gsd-feat-PronType.html)
+[Definite](pt_gsd-feat-Definite.html) – [Gender](pt_gsd-feat-Gender.html) – [Number](pt_gsd-feat-Number.html) – [NumType](pt_gsd-feat-NumType.html) – [Polarity](pt_gsd-feat-Polarity.html) – [Poss](pt_gsd-feat-Poss.html) – [PronType](pt_gsd-feat-PronType.html)
 
 ## Relations
 
-[acl:inf](pt_gsd-dep-acl-inf.html) – [acl:part](pt_gsd-dep-acl-part.html) – [acl:relcl](pt_gsd-dep-acl-relcl.html) – [advcl](pt_gsd-dep-advcl.html) – [advmod](pt_gsd-dep-advmod.html) – [amod](pt_gsd-dep-amod.html) – [appos](pt_gsd-dep-appos.html) – [aux](pt_gsd-dep-aux.html) – [aux:pass](pt_gsd-dep-aux-pass.html) – [case](pt_gsd-dep-case.html) – [cc](pt_gsd-dep-cc.html) – [ccomp](pt_gsd-dep-ccomp.html) – [conj](pt_gsd-dep-conj.html) – [cop](pt_gsd-dep-cop.html) – [csubj](pt_gsd-dep-csubj.html) – [csubj:pass](pt_gsd-dep-csubj-pass.html) – [dep](pt_gsd-dep-dep.html) – [det](pt_gsd-dep-det.html) – [det:poss](pt_gsd-dep-det-poss.html) – [expl:pv](pt_gsd-dep-expl-pv.html) – [fixed](pt_gsd-dep-fixed.html) – [flat](pt_gsd-dep-flat.html) – [iobj](pt_gsd-dep-iobj.html) – [mark](pt_gsd-dep-mark.html) – [nmod](pt_gsd-dep-nmod.html) – [nsubj](pt_gsd-dep-nsubj.html) – [nsubj:pass](pt_gsd-dep-nsubj-pass.html) – [nummod](pt_gsd-dep-nummod.html) – [obj](pt_gsd-dep-obj.html) – [parataxis](pt_gsd-dep-parataxis.html) – [punct](pt_gsd-dep-punct.html) – [root](pt_gsd-dep-root.html) – [xcomp](pt_gsd-dep-xcomp.html) – [xcomp:adj](pt_gsd-dep-xcomp-adj.html)
+[acl:inf](pt_gsd-dep-acl-inf.html) – [acl:part](pt_gsd-dep-acl-part.html) – [acl:relcl](pt_gsd-dep-acl-relcl.html) – [advcl](pt_gsd-dep-advcl.html) – [advmod](pt_gsd-dep-advmod.html) – [amod](pt_gsd-dep-amod.html) – [appos](pt_gsd-dep-appos.html) – [aux](pt_gsd-dep-aux.html) – [aux:pass](pt_gsd-dep-aux-pass.html) – [case](pt_gsd-dep-case.html) – [cc](pt_gsd-dep-cc.html) – [ccomp](pt_gsd-dep-ccomp.html) – [conj](pt_gsd-dep-conj.html) – [cop](pt_gsd-dep-cop.html) – [csubj](pt_gsd-dep-csubj.html) – [csubj:pass](pt_gsd-dep-csubj-pass.html) – [dep](pt_gsd-dep-dep.html) – [det](pt_gsd-dep-det.html) – [det:poss](pt_gsd-dep-det-poss.html) – [expl:pv](pt_gsd-dep-expl-pv.html) – [fixed](pt_gsd-dep-fixed.html) – [flat](pt_gsd-dep-flat.html) – [flat:name](pt_gsd-dep-flat-name.html) – [iobj](pt_gsd-dep-iobj.html) – [mark](pt_gsd-dep-mark.html) – [nmod](pt_gsd-dep-nmod.html) – [nsubj](pt_gsd-dep-nsubj.html) – [nsubj:pass](pt_gsd-dep-nsubj-pass.html) – [nummod](pt_gsd-dep-nummod.html) – [obj](pt_gsd-dep-obj.html) – [obl](pt_gsd-dep-obl.html) – [parataxis](pt_gsd-dep-parataxis.html) – [punct](pt_gsd-dep-punct.html) – [root](pt_gsd-dep-root.html) – [xcomp](pt_gsd-dep-xcomp.html) – [xcomp:adj](pt_gsd-dep-xcomp-adj.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 12078 sentences, 297478 tokens and 319380 syntactic words.</li>
+<li>This corpus contains 12078 sentences, 297950 tokens and 319853 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 38132 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 38136 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -82,8 +82,8 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
-<li>This corpus contains 21902 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 38 types of multi-word tokens. Examples: do, da, no, na, dos, ao, das, à, pelo, pela, nos, aos, nas, às, dum, duma, pelos, num, numa, pelas, doutros, nalguns, dalguns, noutras, dalgumas, doutra, noutros, nalgumas, doutras, noutro, donde, doutro, noutra, dalguma, dalgum, dalguém, dali, dele.</li>
+<li>This corpus contains 21903 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 39 types of multi-word tokens. Examples: do, da, no, na, dos, ao, das, à, pelo, pela, nos, aos, nas, às, dum, duma, pelos, num, numa, pelas, doutros, nalguns, dalguns, noutras, dalgumas, doutra, noutros, nalgumas, doutras, noutro, donde, doutro, noutra, dalguma, dalgum, Tornando-se, dalguém, dali, dele.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -104,7 +104,7 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as determiners (DET): _, o</li>
+<li>This corpus contains 4 lemmas tagged as determiners (DET): _, a, o, seu</li>
 </ul>
 
 <ul>
@@ -141,7 +141,7 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 <ul>
   <li>Masc
     <ul>
-      <li>DET: o, os</li>
+      <li>DET: o, os, a, seu</li>
     </ul>
   </li>
 </ul>
@@ -162,7 +162,7 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 <ul>
   <li>Sing
     <ul>
-      <li>DET: o, a</li>
+      <li>DET: o, a, seu</li>
     </ul>
   </li>
 </ul>
@@ -224,6 +224,14 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
+  <li>Prs
+    <ul>
+      <li>DET: seu</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>NumType</a></li>
 </ul>
 
@@ -235,6 +243,17 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
   </li>
 </ul>
 
+<ul>
+  <li><a>Poss</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: seu</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -274,7 +293,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (8839)</li>
+      <li>VERB--NOUN (8840)</li>
       <li>VERB--NOUN-ADP(_) (41)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_) (1)</li>
       <li>VERB--NOUN-ADP(a) (1)</li>
@@ -301,7 +320,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 304 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: _ se, tornar se, encontrar se, estender se, referir se, tratar se, destacar se, localizar se, manter se, fazer se, dizer se, passar se, recusar se, ver se, dar se, comunicar se, dever se, realizar se, situar se, ter se, aplicar se, dedicar se, desenvolver se, espalhar se, esperar se, mudar se, saber se, transformar se, aproveitar se, arrepender se, classificar se, formar se, lembrar se, manifestar se, mostrar se, recuperar se, repetir se, sentir se, apropriar se, assemelhar se, campeão se, comportar se, concentrar se, conhecer se, converter se, deparar se, distinguir se, instalar se, limitar se, negar se</li>
+  <li>This corpus contains 303 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: _ se, tornar se, encontrar se, estender se, referir se, tratar se, destacar se, localizar se, manter se, fazer se, dizer se, passar se, recusar se, ver se, dar se, comunicar se, dever se, realizar se, situar se, ter se, aplicar se, dedicar se, desenvolver se, espalhar se, esperar se, mudar se, saber se, transformar se, aproveitar se, arrepender se, classificar se, formar se, lembrar se, manifestar se, mostrar se, recuperar se, repetir se, sentir se, apropriar se, assemelhar se, campeão se, comportar se, concentrar se, conhecer se, converter se, deparar se, distinguir se, instalar se, limitar se, negar se</li>
 </ul>
 
 
@@ -309,7 +328,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:inf</a>, <a>acl:part</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>xcomp:adj</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:inf</a>, <a>acl:part</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>xcomp:adj</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>acl</a>, <a>expl</a></li>
-<li>The following 10 relation types are not used in this corpus at all: <a>obl</a>, <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

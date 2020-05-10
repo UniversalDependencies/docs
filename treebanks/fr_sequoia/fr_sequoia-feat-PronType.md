@@ -55,7 +55,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (38; 100% of non-empty `PronType`): <em>comment, pourquoi, où, combien</em>
-* `EMPTY` (2596): <em>pas, n', ne, plus, moins, très, également, aussi, bien, non</em>
+* `EMPTY` (2597): <em>pas, n', ne, plus, moins, très, également, aussi, bien, non</em>
 
 ## Relations with Agreement in `PronType`
 

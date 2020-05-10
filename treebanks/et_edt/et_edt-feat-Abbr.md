@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1741; 100% of non-empty `Abbr`): <em>USA, AS, A., LRE, NATO, EL, N., de, HA, CDU</em>
-* `EMPTY` (24824): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
+* `EMPTY` (24826): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (385) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1523; 100% of non-empty `Abbr`): <em>a., a, USB, p, VD, g, km, cm, m, kr</em>
-* `EMPTY` (114081): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `EMPTY` (114080): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (342) occur only with one value of `Abbr`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (392; 100% of non-empty `Abbr`): <em>jne, jt., jt, s.t, sh, n-ö, nt, st, jm, jms</em>
-* `EMPTY` (41655): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
+* `EMPTY` (41651): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (39) occur only with one value of `Abbr`.
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (119; 100% of non-empty `Abbr`): <em>nn, nn., van, I, %-se, %-st, 80'ndate, nim, nim., II-ga</em>
-* `EMPTY` (36654): <em>suur, võimalik, hea, eesti, suurem, uue, suure, raske, oluline, esimene</em>
+* `EMPTY` (36661): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, esimene</em>
 
 ### `VERB`
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (48; 100% of non-empty `Abbr`): <em>vt, vt., vrd</em>
-* `EMPTY` (48047): <em>on, tuleb, teha, ütles, saada, sai, saanud, tuli, saab, jääb</em>
+* `EMPTY` (48046): <em>on, tuleb, teha, ütles, saada, sai, saanud, tuli, saab, jääb</em>
 
 ### `CCONJ`
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `CCONJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (13; 100% of non-empty `Abbr`): <em>&, e, e.</em>
-* `EMPTY` (16127): <em>ja, ning, või, aga, kuid, kui, ega, vaid, ehk, ent</em>
+* `EMPTY` (16126): <em>ja, ning, või, aga, kuid, kui, ega, vaid, ehk, ent</em>
 
 ### `NUM`
 

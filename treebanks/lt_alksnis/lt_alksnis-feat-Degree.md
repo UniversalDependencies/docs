@@ -55,7 +55,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (359; 13% of non-empty `Degree`): <em>daugiau, toliau, geriau, mažiau, labiau, dažniau, vėliau, anksčiau, lengviau, tiksliau</em>
-* `Pos` (2377; 84% of non-empty `Degree`): <em>labai, taip, todėl, jau, dabar, tiek, daug, kur, kiek, tikrai</em>
+* `Pos` (2377; 84% of non-empty `Degree`): <em>labai, taip, todėl, jau, dabar, tiek, daug, kiek, tikrai, ypač</em>
 * `Sup` (86; 3% of non-empty `Degree`): <em>dažniausiai, labiausiai, daugiausia, pirmiausia, greičiausiai, Tikriausiai, daugiausiai, geriausiai, mažiausiai, veikiausiai</em>
 * `EMPTY` (6): <em>Dėl, iki, kniedyte, pat, prašyte, tad</em>
 

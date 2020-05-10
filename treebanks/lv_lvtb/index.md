@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lauma Pretkalniņa, Laura Rituma, Baiba Saulīte, Gunta Nešpore-Bērzkalne, Normunds Grūzītis.
 
 Repository: [UD_Latvian-LVTB](https://github.com/UniversalDependencies/UD_Latvian-LVTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlv_lvtb25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlv_lvtb26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 
@@ -48,7 +48,7 @@ Latvian UD Treebank is based on Latvian Treebank ([LVTB](http://sintakse.korpuss
 
 
 
-Latvian UD Treebank v2.5 consists of 13,643 sentences (219,955 tokens), and it has been obtained by automatic conversion of both the morphological and the syntactic annotations of the original LVTB treebank. LVTB data contains manually verified syntactic annotation according to a hybrid dependency-constituency schema, as well as manually verified morphological tags and lemmas. LVTB is released in parallel with Latvian UD Treebank since v2.2 and features the same version numbers. The corresponding LVTB versions are listed [here](http://sintakse.korpuss.lv/versions.html). Key `LvtbNodeId` in Latvian UD Treebank CoNLL-U field `MISC` provides the mapping from Latvian UD Treebank to LVTB. Each LVTB version is superset of the corresponding Latvian UD Treebank version in terms of included sentences.
+Latvian UD Treebank v2.6 consists of 13,643 sentences (219,955 tokens), and it has been obtained by automatic conversion of both the morphological and the syntactic annotations of the original LVTB treebank. LVTB data contains manually verified syntactic annotation according to a hybrid dependency-constituency schema, as well as manually verified morphological tags and lemmas. LVTB is released in parallel with Latvian UD Treebank since v2.2 and features the same version numbers. The corresponding LVTB versions are listed [here](http://sintakse.korpuss.lv/versions.html). Key `LvtbNodeId` in Latvian UD Treebank CoNLL-U field `MISC` provides the mapping from Latvian UD Treebank to LVTB. Each LVTB version is superset of the corresponding Latvian UD Treebank version in terms of included sentences.
 
 ## Acknowledgments
 
@@ -120,7 +120,7 @@ This work is supported by European Regional Development Fund under the grant agr
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: būt, kļūt, tapt, tikt</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: būt, tapt, tikt</li>
 </ul>
 
 <ul>
@@ -130,7 +130,7 @@ This work is supported by European Regional Development Fund under the grant agr
 <ul>
   <li>Conv
   <ul>
-    <li>AUX: būdams, kļūstot, būdami, esot, Nebūdams, Tiekot, būdama, esam, kļūdams</li>
+    <li>AUX: būdams, kļūstot, būdami, esot, Nebūdams, Tiekot, būdama, esam, kļūdami, kļūdams</li>
     <li>VERB: izmantojot, ņemot, sakot, runājot, izņemot, neskatoties, pateicoties, salīdzinot, sākot, braucot</li>
   </ul>
   </li>
@@ -158,7 +158,7 @@ This work is supported by European Regional Development Fund under the grant agr
   <li>Part
   <ul>
     <li>ADJ: droša, radošās, ceļojošās, drošu, klātesošie, verdošu, vispārizglītojošo, aizraujošu, ceļojošo, droši</li>
-    <li>AUX: bijis, bijusi, kļuvis, bijuši, kļuvusi, ticis, kļuvuši, tikusi, bijušas, bijušo</li>
+    <li>AUX: bijis, bijusi, kļuvis, kļuvusi, bijuši, ticis, kļuvuši, tikusi, bijušas, bijušo</li>
     <li>VERB: redzams, bijis, pagājušā, zināms, bijusi, esošo, paredzēts, saistīts, Protams, minēto</li>
   </ul>
   </li>
@@ -194,7 +194,7 @@ This work is supported by European Regional Development Fund under the grant agr
     <ul>
       <li>ADJ: iespējams, nepieciešams, galvenais, pirmais, liels, skaidrs, dažādu, pedagoģisko, lielu, lielā</li>
       <li>ADJ-Part: klātesošie, verdošu, aizraujošu, droši, drošs, izšķirošs, klātesošo, košos, radošais, radoši</li>
-      <li>AUX-Conv: būdams, būdami, Nebūdams, kļūdams</li>
+      <li>AUX-Conv: būdams, būdami, Nebūdams, kļūdami, kļūdams</li>
       <li>AUX-Part: bijis, kļuvis, bijuši, ticis, kļuvuši, tikuši, Bijušo, bijušajos, nebijušu, topošajam</li>
       <li>DET: savu, šo, to, tā, šis, šajā, kādu, visu, šī, visi</li>
       <li>NOUN: laikā, gada, gadā, darba, gadu, piemēram, laiku, cilvēki, gadus, cilvēku</li>
@@ -227,7 +227,7 @@ This work is supported by European Regional Development Fund under the grant agr
     <ul>
       <li>ADJ: dažādu, pedagoģisko, dažādas, jaunas, dažādi, pēdējos, dažādās, lielas, lieli, dažādiem</li>
       <li>ADJ-Part: klātesošie, vispārizglītojošo, ceļojošās, droši, garāmbraucošām, klātesošo, košos, radoši, radošās, tiesībsargājošo</li>
-      <li>AUX-Conv: būdami</li>
+      <li>AUX-Conv: būdami, kļūdami</li>
       <li>AUX-Fin: esam, esat, bijām, neesam, neesat, būsim, esiet, nebijām, nebijāt, nebūsim</li>
       <li>AUX-Part: bijuši, kļuvuši, bijušas, kļuvušas, tikuši, bijušajos, bijušajām</li>
       <li>DET: to, visas, savas, visi, visus, šīs, saviem, šie, savus, citiem</li>
@@ -348,8 +348,8 @@ This work is supported by European Regional Development Fund under the grant agr
     <ul>
       <li>ADJ: iespējams, liela, nepieciešams, galvenais, pirmais, liels, pirmā, skaidrs, vecais, dažādi</li>
       <li>ADJ-Part: droša, klātesošie, droši, drošs, izšķirošs, neapmierinoša, radošais, radoši, vadošie, Kārdinošas</li>
-      <li>AUX-Conv: būdams, būdami, Nebūdams, būdama, kļūdams</li>
-      <li>AUX-Part: bijis, bijusi, kļuvis, bijuši, kļuvusi, ticis, kļuvuši, tikusi, bijušas, kļuvušas</li>
+      <li>AUX-Conv: būdams, būdami, Nebūdams, būdama, kļūdami, kļūdams</li>
+      <li>AUX-Part: bijis, bijusi, kļuvis, kļuvusi, bijuši, ticis, kļuvuši, tikusi, bijušas, kļuvušas</li>
       <li>DET: šī, šis, visi, kāds, šie, mans, tā, šāda, vairāki, kāda</li>
       <li>NOUN: cilvēki, cilvēks, laiks, vīrietis, bērni, iespēja, sieviete, bērns, daļa, darbs</li>
       <li>NUM: viens, viena, trīs, divi, divas, četri, otrs, otra, pieci, septiņi</li>
@@ -396,7 +396,7 @@ This work is supported by European Regional Development Fund under the grant agr
     <ul>
       <li>ADJ: iespējams, liela, jaunu, lielu, nepieciešams, jauna, dažādu, liels, labu, skaidrs</li>
       <li>ADJ-Part: droša, drošu, verdošu, aizraujošu, droši, drošs, garāmbraucošām, izšķirošs, neapmierinoša, radoši</li>
-      <li>AUX-Part: bijis, bijusi, kļuvis, bijuši, kļuvusi, ticis, kļuvuši, tikusi, bijušas, kļuvušas</li>
+      <li>AUX-Part: bijis, bijusi, kļuvis, kļuvusi, bijuši, ticis, kļuvuši, tikusi, bijušas, kļuvušas</li>
       <li>DET: vairākas, daudzi, vairākiem, vairākus, daudzas, daudziem, daudzus, vairāku, vairākās</li>
       <li>PRON: daudzām</li>
       <li>VERB-Conv: neatvadījušamies, Lustrētu, Sēžot, atceļot, atvainojies, gūtu, novērsis, saliecies</li>
@@ -429,7 +429,7 @@ This work is supported by European Regional Development Fund under the grant agr
       <li>ADJ: iespējams, liela, pirmo, jaunu, lielu, pirmā, nepieciešams, galvenais, lielā, jauna</li>
       <li>ADJ-Part: droša, radošās, ceļojošās, drošu, klātesošie, verdošu, vispārizglītojošo, aizraujošu, ceļojošo, droši</li>
       <li>ADV: daudz, labi, īpaši, viegli, grūti, ātri, ilgi, svarīgi, vienkārši, pareizi</li>
-      <li>AUX-Part: bijis, bijusi, kļuvis, bijuši, kļuvusi, ticis, kļuvuši, tikusi, bijušas, bijušo</li>
+      <li>AUX-Part: bijis, bijusi, kļuvis, kļuvusi, bijuši, ticis, kļuvuši, tikusi, bijušas, bijušo</li>
       <li>DET: vairākas, daudzi, vairākiem, vairākus, daudzajiem, daudzas, daudziem, daudzo, daudzus, daudzās</li>
       <li>PRON: daudzām, savējie</li>
       <li>VERB-Part: redzams, bijis, pagājušā, zināms, bijusi, esošo, paredzēts, saistīts, Protams, minēto</li>
@@ -472,10 +472,10 @@ This work is supported by European Regional Development Fund under the grant agr
 <ul>
   <li>Pos
     <ul>
-      <li>AUX-Conv: būdams, kļūstot, būdami, esot, Tiekot, būdama, esam, kļūdams</li>
+      <li>AUX-Conv: būdams, kļūstot, būdami, esot, Tiekot, būdama, esam, kļūdami, kļūdams</li>
       <li>AUX-Fin: ir, bija, tiek, tika, būtu, būs, esmu, tiks, esot, esam</li>
       <li>AUX-Inf: būt, kļūt, tikt, tapt</li>
-      <li>AUX-Part: bijis, bijusi, kļuvis, bijuši, kļuvusi, ticis, kļuvuši, tikusi, bijušas, bijušo</li>
+      <li>AUX-Part: bijis, bijusi, kļuvis, kļuvusi, bijuši, ticis, kļuvuši, tikusi, bijušas, bijušo</li>
       <li>PART: jā</li>
       <li>VERB: ir, var, varētu, bija, teica, būs, notiek, sāka, saka, atrodas</li>
       <li>VERB-Conv: izmantojot, ņemot, sakot, runājot, izņemot, pateicoties, salīdzinot, sākot, braucot, pamatojoties</li>
@@ -506,7 +506,7 @@ This work is supported by European Regional Development Fund under the grant agr
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Part: bijis, bijusi, kļuvis, bijuši, kļuvusi, ticis, kļuvuši, tikusi, bijušas, bijušo</li>
+      <li>AUX-Part: bijis, bijusi, kļuvis, kļuvusi, bijuši, ticis, kļuvuši, tikusi, bijušas, bijušo</li>
       <li>VERB-Part: bijis, pagājušā, bijusi, paredzēts, saistīts, minēto, pagājušajā, ziņots, minētā, noticis</li>
     </ul>
   </li>
@@ -556,7 +556,7 @@ This work is supported by European Regional Development Fund under the grant agr
   <li>Qot
     <ul>
       <li>AUX-Fin: esot, neesot, būšot, kļūšot, nebūšot, tiekot, tikšot</li>
-      <li>VERB-Fin: esot, neesot, nevarot, varot, iekarot, mīlot, dzīvojot, ietilpstot, liecinot, nespējot</li>
+      <li>VERB-Fin: esot, neesot, nevarot, varot, mīlot, dzīvojot, iekarot, ietilpstot, liecinot, nespējot</li>
     </ul>
   </li>
 </ul>
@@ -578,7 +578,7 @@ This work is supported by European Regional Development Fund under the grant agr
   <li>Past
     <ul>
       <li>AUX-Fin: bija, tika, nebija, biju, kļuva, netika, bijām, tiku, bij, kļuvu</li>
-      <li>AUX-Part: bijis, bijusi, kļuvis, bijuši, kļuvusi, ticis, kļuvuši, tikusi, bijušas, bijušo</li>
+      <li>AUX-Part: bijis, bijusi, kļuvis, kļuvusi, bijuši, ticis, kļuvuši, tikusi, bijušas, bijušo</li>
       <li>VERB-Fin: bija, teica, sāka, varēja, nebija, sacīja, gāja, notika, nāca, norādīja</li>
       <li>VERB-Part: bijis, pagājušā, bijusi, paredzēts, saistīts, minēto, pagājušajā, ziņots, minētā, noticis</li>
     </ul>
@@ -606,7 +606,7 @@ This work is supported by European Regional Development Fund under the grant agr
       <li>ADJ-Part: droša, radošās, ceļojošās, drošu, klātesošie, verdošu, vispārizglītojošo, aizraujošu, ceļojošo, droši</li>
       <li>AUX-Fin: ir, bija, nav, tiek, tika, būtu, būs, esmu, tiks, esot</li>
       <li>AUX-Inf: būt, tikt</li>
-      <li>AUX-Part: bijis, bijusi, kļuvis, bijuši, kļuvusi, ticis, kļuvuši, tikusi, bijušas, bijušo</li>
+      <li>AUX-Part: bijis, bijusi, kļuvis, kļuvusi, bijuši, ticis, kļuvuši, tikusi, bijušas, bijušo</li>
       <li>VERB: ir, var, varētu, nav, bija, nevar, teica, būs, notiek, sāka</li>
       <li>VERB-Conv: Nezinādami, atceļot, atspoguļodami, atvainojies, kaukdams, līgodama, nesdami, novērsis, pietuvodamies, rūkdams</li>
       <li>VERB-Fin: ir, var, varētu, nav, bija, nevar, teica, būs, notiek, sāka</li>
@@ -643,7 +643,7 @@ This work is supported by European Regional Development Fund under the grant agr
   <li>Nfh
     <ul>
       <li>AUX-Fin: esot, neesot, būšot, kļūšot, nebūšot, tiekot, tikšot</li>
-      <li>VERB-Fin: esot, neesot, nevarot, varot, iekarot, mīlot, dzīvojot, ietilpstot, liecinot, nespējot</li>
+      <li>VERB-Fin: esot, neesot, nevarot, varot, mīlot, dzīvojot, iekarot, ietilpstot, liecinot, nespējot</li>
     </ul>
   </li>
 </ul>
@@ -946,21 +946,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Conv--PRON-Dat (7)</li>
       <li>VERB-Conv--PRON-Nom (3)</li>
-      <li>VERB-Fin--NOUN (27)</li>
+      <li>VERB-Fin--NOUN (26)</li>
       <li>VERB-Fin--NOUN-ADP(bez) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (27)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(par) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (123)</li>
+      <li>VERB-Fin--NOUN-Acc (24)</li>
+      <li>VERB-Fin--NOUN-Dat (124)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(ap) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(pa) (5)</li>
       <li>VERB-Fin--NOUN-Gen (316)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(pie) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (5680)</li>
+      <li>VERB-Fin--NOUN-Nom (5665)</li>
       <li>VERB-Fin--NOUN-Voc (2)</li>
       <li>VERB-Fin--PRON-Acc (4)</li>
       <li>VERB-Fin--PRON-Dat (140)</li>
       <li>VERB-Fin--PRON-Gen (32)</li>
-      <li>VERB-Fin--PRON-Nom (4042)</li>
+      <li>VERB-Fin--PRON-Nom (4028)</li>
       <li>VERB-Inf--NOUN-Acc (3)</li>
       <li>VERB-Inf--NOUN-Dat (9)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
@@ -970,9 +969,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Nom (8)</li>
       <li>VERB-Part--NOUN (5)</li>
       <li>VERB-Part--NOUN-Acc (2)</li>
-      <li>VERB-Part--NOUN-Dat (10)</li>
+      <li>VERB-Part--NOUN-Dat (9)</li>
       <li>VERB-Part--NOUN-Gen (18)</li>
-      <li>VERB-Part--NOUN-Nom (1223)</li>
+      <li>VERB-Part--NOUN-Nom (1226)</li>
       <li>VERB-Part--PRON-Dat (4)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
       <li>VERB-Part--PRON-Nom (587)</li>
@@ -986,17 +985,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Acc (665)</li>
       <li>VERB-Conv--NOUN-Nom (2)</li>
       <li>VERB-Conv--PRON-Acc (55)</li>
-      <li>VERB-Fin--NOUN-Acc (3993)</li>
-      <li>VERB-Fin--NOUN-Nom (219)</li>
-      <li>VERB-Fin--PRON-Acc (1132)</li>
+      <li>VERB-Fin--NOUN-Acc (3996)</li>
+      <li>VERB-Fin--NOUN-Nom (230)</li>
+      <li>VERB-Fin--PRON-Acc (1134)</li>
       <li>VERB-Fin--PRON-Acc-ADP(ar) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(uz) (1)</li>
-      <li>VERB-Fin--PRON-Nom (51)</li>
-      <li>VERB-Inf--NOUN-Acc (1922)</li>
+      <li>VERB-Fin--PRON-Nom (66)</li>
+      <li>VERB-Inf--NOUN-Acc (1924)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(par) (1)</li>
-      <li>VERB-Inf--NOUN-Gen (2)</li>
+      <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
-      <li>VERB-Inf--PRON-Acc (418)</li>
+      <li>VERB-Inf--PRON-Acc (419)</li>
       <li>VERB-Part--NOUN-Acc (683)</li>
       <li>VERB-Part--NOUN-Dat (1)</li>
       <li>VERB-Part--NOUN-Nom (2)</li>
@@ -1042,7 +1041,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Dat-ADP(no) (1)</li>
       <li>VERB-Conv--PRON-Gen-ADP(no) (3)</li>
       <li>VERB-Conv--PRON-Gen-ADP(pēc) (1)</li>
-      <li>VERB-Fin--NOUN (37)</li>
+      <li>VERB-Fin--NOUN (38)</li>
       <li>VERB-Fin--NOUN-ADP(ar) (3)</li>
       <li>VERB-Fin--NOUN-ADP(no) (1)</li>
       <li>VERB-Fin--NOUN-ADP(pret) (1)</li>
@@ -1050,15 +1049,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(ap) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(ar) (289)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(pa) (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(par) (155)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(par) (156)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(pret) (9)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(pār) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(uz) (48)</li>
-      <li>VERB-Fin--NOUN-Dat (551)</li>
+      <li>VERB-Fin--NOUN-Dat (550)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(ap) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(ar) (150)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(bez) (3)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(līdz) (2)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(līdz) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(līdzi) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(no) (29)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(pa) (2)</li>
@@ -1074,20 +1073,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(ap) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(bez) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(dēļ) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(no) (61)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(no) (60)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(par) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(pie) (17)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(pēc) (10)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(uz) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(virs) (1)</li>
       <li>VERB-Fin--NOUN-Loc (8)</li>
-      <li>VERB-Fin--NOUN-Nom (22)</li>
+      <li>VERB-Fin--NOUN-Nom (25)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ap) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ar) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(pie) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(ap) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(ar) (56)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(par) (76)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(par) (75)</li>
       <li>VERB-Fin--PRON-Acc-ADP(pret) (8)</li>
       <li>VERB-Fin--PRON-Acc-ADP(uz) (17)</li>
       <li>VERB-Fin--PRON-Dat (341)</li>
@@ -1106,7 +1105,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen-ADP(pēc) (1)</li>
       <li>VERB-Fin--PRON-Gen-ADP(uz) (1)</li>
       <li>VERB-Fin--PRON-Loc (2)</li>
-      <li>VERB-Fin--PRON-Nom (9)</li>
+      <li>VERB-Fin--PRON-Nom (7)</li>
       <li>VERB-Inf--NOUN (11)</li>
       <li>VERB-Inf--NOUN-ADP(ar) (3)</li>
       <li>VERB-Inf--NOUN-ADP(pret) (2)</li>
@@ -1115,7 +1114,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc-ADP(par) (70)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(pret) (4)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(pār) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(uz) (12)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(uz) (13)</li>
       <li>VERB-Inf--NOUN-Dat (200)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(aiz) (1)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(ar) (54)</li>
@@ -1132,12 +1131,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen-ADP(dēļ) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(no) (23)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(pie) (12)</li>
-      <li>VERB-Inf--NOUN-Loc (5)</li>
+      <li>VERB-Inf--NOUN-Loc (4)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Acc-ADP(ar) (27)</li>
       <li>VERB-Inf--PRON-Acc-ADP(pa) (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(par) (27)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(par) (29)</li>
       <li>VERB-Inf--PRON-Acc-ADP(pret) (1)</li>
       <li>VERB-Inf--PRON-Acc-ADP(uz) (3)</li>
       <li>VERB-Inf--PRON-Dat (85)</li>
@@ -1158,7 +1157,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Acc-ADP(par) (62)</li>
       <li>VERB-Part--NOUN-Acc-ADP(pret) (5)</li>
       <li>VERB-Part--NOUN-Acc-ADP(uz) (8)</li>
-      <li>VERB-Part--NOUN-Dat (278)</li>
+      <li>VERB-Part--NOUN-Dat (279)</li>
       <li>VERB-Part--NOUN-Dat-ADP(ap) (1)</li>
       <li>VERB-Part--NOUN-Dat-ADP(ar) (55)</li>
       <li>VERB-Part--NOUN-Dat-ADP(bez) (1)</li>
@@ -1169,18 +1168,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Dat-ADP(pie) (4)</li>
       <li>VERB-Part--NOUN-Dat-ADP(pēc) (1)</li>
       <li>VERB-Part--NOUN-Dat-ADP(uz) (9)</li>
-      <li>VERB-Part--NOUN-Gen (14)</li>
+      <li>VERB-Part--NOUN-Gen (13)</li>
       <li>VERB-Part--NOUN-Gen-ADP(no) (19)</li>
       <li>VERB-Part--NOUN-Gen-ADP(pie) (5)</li>
       <li>VERB-Part--NOUN-Gen-ADP(pēc) (4)</li>
       <li>VERB-Part--NOUN-Gen-ADP(uz) (1)</li>
       <li>VERB-Part--NOUN-Gen-ADP(ārpus) (1)</li>
       <li>VERB-Part--NOUN-Loc (2)</li>
-      <li>VERB-Part--NOUN-Nom (3)</li>
+      <li>VERB-Part--NOUN-Nom (4)</li>
       <li>VERB-Part--NOUN-Nom-ADP(ar) (2)</li>
       <li>VERB-Part--NOUN-Nom-ADP(par) (1)</li>
       <li>VERB-Part--PRON-Acc-ADP(ar) (19)</li>
-      <li>VERB-Part--PRON-Acc-ADP(par) (27)</li>
+      <li>VERB-Part--PRON-Acc-ADP(par) (26)</li>
       <li>VERB-Part--PRON-Acc-ADP(pret) (1)</li>
       <li>VERB-Part--PRON-Acc-ADP(uz) (3)</li>
       <li>VERB-Part--PRON-Dat (92)</li>
@@ -1188,7 +1187,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Dat-ADP(no) (3)</li>
       <li>VERB-Part--PRON-Dat-ADP(par) (1)</li>
       <li>VERB-Part--PRON-Dat-ADP(priekš) (1)</li>
-      <li>VERB-Part--PRON-Gen (1)</li>
       <li>VERB-Part--PRON-Gen-ADP(no) (3)</li>
       <li>VERB-Part--PRON-Gen-ADP(pie) (3)</li>
       <li>VERB-Part--PRON-Gen-ADP(uz) (2)</li>

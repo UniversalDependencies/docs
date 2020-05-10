@@ -22,14 +22,14 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 2 vocative	color:blue
-1	Soudruhu	soudruh	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	2	nmod	2:nmod	_
+1	Soudruhu	soudruh	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	2	nmod	2:nmod:voc	_
 2	doktore	doktor	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	10	vocative	10:vocative	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
 4	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	5:case	LId=o-1
-5	čem	co	PRON	PQ--6----------	Animacy=Inan|Case=Loc|PronType=Int,Rel	10	obl:arg	10:obl:arg	LId=co-1
+5	čem	co	PRON	PQ--6----------	Animacy=Inan|Case=Loc|PronType=Int,Rel	10	obl:arg	10:obl:arg:o:loc	LId=co-1
 6	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	10	expl:pass	10:expl:pass	LGloss=(zvr._zájmeno/částice)
 7	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	8:case	LId=na-1
-8	besedě	beseda	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	10	obl	10:obl	_
+8	besedě	beseda	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	10	obl	10:obl:na:loc	_
 9	hlavně	hlavně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	10	advmod	10:advmod	LDeriv=hlavní
 10	hovořilo	hovořit	VERB	VpNS---XR-AA---	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	10	punct	10:punct	_

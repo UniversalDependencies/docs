@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-149 nodes (6%) are attached to their parents as `cc`.
+350 nodes (4%) are attached to their parents as `cc`.
 
-149 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.96644295302013.
+342 instances of `cc` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.90285714285714.
 
-The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (107; 72% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (34; 23% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (243; 69% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (86; 25% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (6; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,11 +25,11 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="y
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.3
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.3
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.3
-4	pé	pé	SCONJ	_	_	12	mark	_	Gloss=that|Ref=GEN_1.3|SpaceAfter=No
+4	pé	pé	SCONJ	_	_	3	compound	_	Gloss=that|Ref=GEN_1.3|SpaceAfter=No
 5	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=GEN_1.3
 6	“	“	PUNCT	_	_	12	punct	_	Gloss=“|Ref=GEN_1.3|SpaceAfter=No
-7	Jẹ́	jẹ́	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.3
-8	kí	kí	AUX	_	_	12	aux	_	Gloss=|Ref=GEN_1.3
+7	Jẹ́	jẹ́	VERB	_	_	12	ccomp	_	Gloss=let|Ref=GEN_1.3
+8	kí	kí	AUX	_	_	7	aux	_	Gloss=|Ref=GEN_1.3
 9	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	12	nsubj	_	Gloss=light|Ref=GEN_1.3
 10	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.3
 11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl	_	Gloss=he|Ref=GEN_1.3
@@ -66,18 +66,33 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="y
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 cc	color:blue
-1	Àsálẹ́	àsálẹ́	NOUN	_	_	5	nsubj	_	Gloss=evening|Ref=GEN_1.13
-2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.13
-3	òwúrọ̀	òwúrọ̀	ADV	_	_	1	conj	_	Gloss=morning|Ref=GEN_1.13
-4	jẹ́	jẹ́	AUX	_	_	5	cop	_	Gloss=be|Ref=GEN_1.13
-5	ọjọ́	ọjọ́	NOUN	_	_	0	root	_	Gloss=day|Ref=GEN_1.13
-6	kẹta	kẹta	ADJ	_	_	5	amod	_	Gloss=third|Ref=GEN_1.13|SpaceAfter=No
-7	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=GEN_1.13
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 cc	color:blue
+1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Ref=MARK_5.6|Gloss=when
+2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Ref=MARK_5.6|Gloss=that
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Ref=MARK_5.6|Gloss=he
+4	sì	sì	CCONJ	_	_	5	cc	_	Ref=MARK_5.6|Gloss=and
+5	rí	rí	VERB	_	_	0	root	_	Ref=MARK_5.6|Gloss=saw
+6	Jésù	jésù	PROPN	_	_	5	obj	_	Ref=MARK_5.6|Gloss=jesus
+7	látòkèrè	látòkèrè	ADV	_	_	5	advmod	_	Ref=MARK_5.6|SpaceAfter=No|Gloss=afar
+8	,	,	PUNCT	_	_	5	punct	_	Ref=MARK_5.6|Gloss=,
+9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Ref=MARK_5.6|Gloss=he
+10	sí	sì	CCONJ	_	Typo=Yes	9	cc	_	Ref=MARK_5.6|Gloss=then
+11	sáré	sáré	VERB	_	_	5	conj	_	Ref=MARK_5.6|Gloss=run
+12	lọ	lọ	VERB	_	_	11	compound:svc	_	Ref=MARK_5.6|Gloss=go
+13	láti	láti	ADP	_	_	14	mark	_	Ref=MARK_5.6|Gloss=to
+14	pàdé	pàdé	VERB	_	_	12	compound:svc	_	Ref=MARK_5.6|Gloss=meet
+15	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	14	obj	_	Ref=MARK_5.6|SpaceAfter=No
+16	.	.	PUNCT	_	_	19	punct	_	Ref=MARK_5.6
+17	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Ref=MARK_5.6|Gloss=he
+18	sì	sì	CCONJ	_	_	19	cc	_	Ref=MARK_5.6|Gloss=and
+19	wólẹ̀	wólẹ̀	VERB	_	_	14	conj	_	Ref=MARK_5.6|Gloss=fell
+20	níwájú	níwájú	ADP	_	_	21	case	_	Ref=MARK_5.6|Gloss=before
+21	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	19	obl	_	Ref=MARK_5.6|SpaceAfter=No
+22	.	.	PUNCT	_	_	19	punct	_	Ref=MARK_5.6
 
 ~~~
 

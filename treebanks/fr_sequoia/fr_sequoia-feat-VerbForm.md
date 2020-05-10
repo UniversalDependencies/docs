@@ -11,7 +11,7 @@ It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
 8205 tokens (12%) have a non-empty value of `VerbForm`.
 2590 types (28%) occur at least once with a non-empty value of `VerbForm`.
-980 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
+979 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (5904; 8% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (2301; 3% instances).
 
 ### `VERB`

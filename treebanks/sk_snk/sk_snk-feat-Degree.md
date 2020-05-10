@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (83; 2% of non-empty `Degree`): <em>viac, bližšie, dlhšie, menej, vyššie, silnejšie, neskôr, nižšie, ľahšie, dávnejšie</em>
 * `Pos` (3273; 97% of non-empty `Degree`): <em>veľmi, potom, opäť, teraz, už, stále, dnes, neskôr, dobre, napokon</em>
 * `Sup` (30; 1% of non-empty `Degree`): <em>najlepšie, najviac, najčastejšie, najrýchlejšie, najskôr, Najdivokejšie, najsilnejšie, Najhoršie, Najvýraznejšie, najdlhšie</em>
-* `EMPTY` (1047): <em>tu, tam, kde, tak, vtedy, ako, nikdy, vždy, takto, prečo</em>
+* `EMPTY` (1059): <em>tu, tam, kde, tak, vtedy, ako, nikdy, vždy, takto, prečo</em>
 
 <table>
   <tr><th>Paradigm <i>dobre</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -90,7 +90,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="sk_snk-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (361; 82%),
+<tt>ADJ --[<tt><a href="sk_snk-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (361; 81%),
 <tt>ADJ --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (303; 98%),
 <tt>ADV --[<tt><a href="sk_snk-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (60; 67%),
 <tt>ADV --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> ADV</tt> (58; 97%),

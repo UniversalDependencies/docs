@@ -33,7 +33,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (681; 100% of non-empty `Polarity`): <em>nije, neće, nisu, nismo, nisam, nećemo, niste, nećete, neću, nećeš</em>
-* `EMPTY` (11857): <em>je, su, će, bi, biti, smo, bio, bilo, bila, sam</em>
+* `EMPTY` (11879): <em>je, su, će, bi, biti, smo, bio, bilo, bila, sam</em>
 
 ### `DET`
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>Niti, ni</em>
-* `EMPTY` (7395): <em>koji, to, koje, koja, svoje, ove, toga, sve, kojima, koju</em>
+* `EMPTY` (7392): <em>koji, to, koje, koja, svoje, ove, toga, sve, kojima, koju</em>
 
 ## Relations with Agreement in `Polarity`
 

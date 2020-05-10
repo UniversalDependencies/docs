@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-32 nodes (0%) are attached to their parents as `expl`.
+45 nodes (0%) are attached to their parents as `expl`.
 
-27 instances of `expl` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15625.
+35 instances of `expl` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26666666666667.
 
-The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (28; 88% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (4; 13% instances).
+The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (38; 84% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (7; 16% instances).
 
 
 ~~~ conllu

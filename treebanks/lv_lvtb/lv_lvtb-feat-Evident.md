@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Fh` are language-specific.
 It occurs with 2 different values: `Fh`, `Nfh`.
 
-22105 tokens (10%) have a non-empty value of `Evident`.
-5944 types (14%) occur at least once with a non-empty value of `Evident`.
+22104 tokens (10%) have a non-empty value of `Evident`.
+5943 types (14%) occur at least once with a non-empty value of `Evident`.
 2622 lemmas (13%) occur at least once with a non-empty value of `Evident`.
-The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (16660; 8% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (5445; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (16658; 8% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (5446; 2% instances).
 
 ### `VERB`
 
-16660 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Evident`.
+16658 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (16660; 100%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16660; 100%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (16660; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (16660; 100%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16660; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (16660; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16654; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16504; 99%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (14996; 90%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (13863; 83%).
+The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (16658; 100%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16658; 100%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (16658; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (16658; 100%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16658; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (16658; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16652; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16503; 99%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (14994; 90%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (13861; 83%).
 
 `VERB` tokens may have the following values of `Evident`:
 
-* `Fh` (16504; 99% of non-empty `Evident`): <em>ir, var, nav, bija, nevar, teica, būs, notiek, sāka, saka</em>
-* `Nfh` (156; 1% of non-empty `Evident`): <em>esot, neesot, nevarot, varot, iekarot, mīlot, dzīvojot, ietilpstot, liecinot, nespējot</em>
-* `EMPTY` (16209): <em>varētu, darīt, strādāt, dzīvot, izmantot, iet, runāt, būt, izmantojot, teikt</em>
+* `Fh` (16503; 99% of non-empty `Evident`): <em>ir, var, nav, bija, nevar, teica, būs, notiek, sāka, saka</em>
+* `Nfh` (155; 1% of non-empty `Evident`): <em>esot, neesot, nevarot, varot, mīlot, dzīvojot, iekarot, ietilpstot, liecinot, nespējot</em>
+* `EMPTY` (16206): <em>varētu, darīt, strādāt, dzīvot, izmantot, iet, runāt, būt, izmantojot, teikt</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Nfh</tt></th><th><tt>Fh</tt></th></tr>
@@ -53,15 +53,15 @@ The most frequent other feature values with which `VERB` and `Evident` co-occurr
 
 ### `AUX`
 
-5445 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Evident`.
+5446 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `AUX` and `Evident` co-occurred: <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5445; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5445; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5321; 98%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (4911; 90%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4651; 85%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3855; 71%).
+The most frequent other feature values with which `AUX` and `Evident` co-occurred: <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5446; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5446; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5322; 98%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (4912; 90%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4652; 85%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3856; 71%).
 
 `AUX` tokens may have the following values of `Evident`:
 
-* `Fh` (5321; 98% of non-empty `Evident`): <em>ir, bija, nav, tiek, tika, būs, esmu, tiks, nebija, esam</em>
+* `Fh` (5322; 98% of non-empty `Evident`): <em>ir, bija, nav, tiek, tika, būs, esmu, tiks, nebija, esam</em>
 * `Nfh` (124; 2% of non-empty `Evident`): <em>esot, neesot, būšot, kļūšot, nebūšot, tiekot, tikšot</em>
-* `EMPTY` (613): <em>būtu, būt, bijis, jābūt, nebūtu, bijusi, kļūt, kļuvis, bijuši, kļuvusi</em>
+* `EMPTY` (615): <em>būtu, būt, bijis, jābūt, nebūtu, bijusi, kļūt, kļuvis, kļuvusi, bijuši</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Nfh</tt></th><th><tt>Fh</tt></th></tr>
@@ -101,7 +101,7 @@ The most frequent other feature values with which `AUX` and `Evident` co-occurre
 ## Relations with Agreement in `Evident`
 
 The 10 most frequent relations where parent and child node agree in `Evident`:
-<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (3034; 78%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (3035; 78%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (280; 66%),
 <tt>AUX --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (7; 88%),
 <tt>AUX --[<tt><a href="lv_lvtb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 75%),

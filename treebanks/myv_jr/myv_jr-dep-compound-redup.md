@@ -28,10 +28,10 @@ The following 2 pairs of parts of speech are connected with `compound:redup`: <t
 3	чи	чи	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	compound	_	GTtags=Sg,Nom,Indef
 4	лисема	лисема	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	compound	_	GTtags=Sg,Nom,Indef
 5	ёнксось	ёнкс	NOUN	N	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	GTtags=Sem/Plc,Sg,Nom,Def
-6	кирвайсь	кирваземс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
+6	кирвайсь	кирваземс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	9	punct	_	_
 8	ды	ды	CCONJ	CC	_	9	cc	_	_
-9	тулкадизе	тулкадемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Prt1|Valency=2	6	conj	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
+9	тулкадизе	тулкадемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	6	conj	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
 10	чопуданть	чопуда	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	obj	_	GTtags=Sg,Gen,Def
 11	тайганть	тайга	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	obl	_	GTtags=Sg,Gen,Def
 12	вельксстэ	велькс	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	11	case	_	GTtags=SP,Ela,Indef|SpaceAfter=No
@@ -50,17 +50,17 @@ The following 2 pairs of parts of speech are connected with `compound:redup`: <t
 2	Ура	ура	INTJ	Interj	_	0	root	_	GTtags=|SpaceAfter=No
 3	!	!	PUNCT	CLB	_	2	punct	_	_
 4	―	―	PUNCT	PUNCT	_	7	punct	_	_
-5	таго	таго	ADV	Adv	AdvType=Tim	7	advmod	_	GTtags=Temp
+5	таго	таго	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Temp
 6	весе	весе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	7	nsubj	_	GTtags=Tot,Sg,Nom,Indef
-7	скокаесть	скокаемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Prt1|Valency=1	2	parataxis	_	GTtags=IV,Ind,Prt1,ScPl3
+7	скокаесть	скокаемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	2	parataxis	_	GTtags=IV,Ind,Prt1,ScPl3
 8	кенкшенть	кенкш	NOUN	N	Case=Gen|Definite=Def|Number=Sing	7	obl	_	GTtags=Sg,Gen,Def
 9	икеле	икеле	ADP	Adp	AdvType=Loc|Case=Loc	8	case	_	GTtags=Spat,Loc|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	11	punct	_	_
-11	кутморясть	кутморямс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Prt1|Valency=2	7	conj	_	GTtags=TV,Ind,Prt1,ScPl3|SpaceAfter=No
+11	кутморясть	кутморямс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=2	7	conj	_	GTtags=TV,Ind,Prt1,ScPl3|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	15	punct	_	_
 13	вейкест	вейке	PRON	Pron	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Rcp	15	obj	_	GTtags=Recip,Sg,Gen,PxPl3
 14	вейкест	вейке	PRON	Pron	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Rcp	13	compound:redup	_	GTtags=Recip,Sg,Gen,PxPl3
-15	палсесть	палсемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Prt1|Valency=2	7	conj	_	GTtags=TV,Ind,Prt1,ScPl3|SpaceAfter=No
+15	палсесть	палсемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=2	7	conj	_	GTtags=TV,Ind,Prt1,ScPl3|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

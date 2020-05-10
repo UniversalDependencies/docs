@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2193 nodes (5%) are attached to their parents as `root`.
+2198 nodes (5%) are attached to their parents as `root`.
 
-2193 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.64933880528956.
+2198 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.65195632393085.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1655; 75% instances), -<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (235; 11% instances), -<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (113; 5% instances), -<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (79; 4% instances), -<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (34; 2% instances), -<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (25; 1% instances), -<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (19; 1% instances), -<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (14; 1% instances), -<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (10; 0% instances), -<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (5; 0% instances), -<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1658; 75% instances), -<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (237; 11% instances), -<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (113; 5% instances), -<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (79; 4% instances), -<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (34; 2% instances), -<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (25; 1% instances), -<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (19; 1% instances), -<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (14; 1% instances), -<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (10; 0% instances), -<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (5; 0% instances), -<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 
 ~~~ conllu

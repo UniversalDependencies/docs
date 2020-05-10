@@ -24,12 +24,12 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 3 2 amod	color:blue
 1	Vypracování	vypracování	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	0	root	0:root	LDeriv=vypracovat
 2	nových	nový	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	3	amod	3:amod	_
-3	principů	princip	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	1	nmod	1:nmod	_
-4	regulace	regulace	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	3	nmod	3:nmod	_
+3	principů	princip	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	1	nmod	1:nmod:gen	_
+4	regulace	regulace	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	3	nmod	3:nmod:gen	_
 5	vodního	vodní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	6:amod	_
-6	režimu	režim	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	4	nmod	4:nmod	_
+6	režimu	režim	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	4	nmod	4:nmod:gen	_
 7	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	8:case	LId=v-1
-8	půdě	půda	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	6	nmod	6:nmod	SpaceAfter=No
+8	půdě	půda	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	6	nmod	6:nmod:v:loc	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -42,10 +42,10 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 6 amod	color:blue
 1	Příprava	příprava	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	0:root	_
-2	výstavby	výstavba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	1:nmod	_
+2	výstavby	výstavba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	1:nmod:gen	_
 3	společné	společný	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	4:amod	_
 4	ČOV	ČOV	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	2	nmod	2:nmod	_
-5	Dvůr	Dvůr	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing|Polarity=Pos	4	nmod	4:nmod	_
+5	Dvůr	Dvůr	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing|Polarity=Pos	4	nmod	4:nmod:nom	_
 6	Králové	Králové	ADJ	AAXXX----1A----	Degree=Pos|NameType=Geo|Polarity=Pos	5	amod	5:amod	SpaceAfter=No
 7	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
@@ -62,7 +62,7 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 2	záleží	záležet	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	5:case	LId=na-1
 4	vrozené	vrozený	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	5	amod	5:amod	LDeriv=vrodit
-5	*	*	SYM	Xx-------------	Abbr=Yes	2	obl:arg	2:obl:arg	_
+5	*	*	SYM	Xx-------------	Abbr=Yes	2	obl:arg	2:obl:arg:na	_
 6	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~

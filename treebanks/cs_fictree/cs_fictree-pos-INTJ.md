@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-FicTree: POS Tags: `INTJ`
 
 There are 35 `INTJ` lemmas (0%), 36 `INTJ` types (0%) and 110 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 13 in number of lemmas, 14 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 15 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>aha, hm, ach, cože, no, hele, hej, proboha, hop, vida</em>
 
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>Cože</em> (<tt><a href="cs_fictree-p
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.028571 (the average of all parts of speech is 1.973298).
+The form / lemma ratio of `INTJ` is 1.028571 (the average of all parts of speech is 1.973368).
 
 The 1st highest number of forms (2) was observed with the lemma “cože”: <em>COŽE, Cože</em>.
 

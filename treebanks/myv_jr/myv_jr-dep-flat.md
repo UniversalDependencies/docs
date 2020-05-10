@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `flat`: <tt><a href="myv_jr-dep-flat-name.html">flat:name</a></tt>.
 
-16 nodes (0%) are attached to their parents as `flat`.
+17 nodes (0%) are attached to their parents as `flat`.
 
-16 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.5625.
+17 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.47058823529412.
 
-The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (7; 44% instances), <tt><a href="myv_jr-pos-X.html">X</a></tt>-<tt><a href="myv_jr-pos-X.html">X</a></tt> (6; 38% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (7; 41% instances), <tt><a href="myv_jr-pos-X.html">X</a></tt>-<tt><a href="myv_jr-pos-X.html">X</a></tt> (6; 35% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3; 18% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	Сень	се	PRON	Pron	Case=Gen|Definite=Ind	3	obl	_	GTtags=Gen,Indef
 2	лангсо	лангсо	ADP	Adp	AdpType=Post|Case=Ine	1	case	_	GTtags=Po,Ine
 3	сёрмадовксонтькак	сёрмадовкс	NOUN	N	Case=Gen|Clitic=Gak|Definite=Def|Number=Sing	4	obj	_	GTtags=Sg,Gen,Def,Clitic=Gak
-4	ловнызь	ловномс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3|SpaceAfter=No
+4	ловнызь	ловномс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3|SpaceAfter=No
 5	:	:	PUNCT	CLB	_	7	punct	_	_
 6	«	«	PUNCT	CLB	_	7	punct	_	GTtags=|SpaceAfter=No
 7	Ни	ни	X	X	_	4	parataxis	_	_

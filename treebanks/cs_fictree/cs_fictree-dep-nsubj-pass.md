@@ -45,14 +45,14 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 5	fgColor:white
 # visual-style 5 6 nsubj:pass	color:blue
 1	Nad	nad	ADP	RR--7----------	AdpType=Prep|Case=Ins	2	case	2:case	_
-2	tím	ten	DET	PDNS7----------	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	5	obl	5:obl	_
+2	tím	ten	DET	PDNS7----------	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	5	obl	5:obl:nad:ins	_
 3	vším	všechen	DET	PLNS7----------	Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	2	det	2:det	_
 4	byl	být	AUX	VpIS----R-AA---	Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	aux:pass	5:aux:pass	_
 5	vyveden	vyvedený	ADJ	VsIS------AP---	Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	_
 6	nápis	nápis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj:pass	5:nsubj:pass	_
-7	Bitva	bitva	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	nmod	6:nmod	_
+7	Bitva	bitva	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	nmod	6:nmod:nom	_
 8	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	9:case	_
-9	Krásné	Krásná	PROPN	NNFS2-----A----	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	7	nmod	7:nmod	_
+9	Krásné	Krásná	PROPN	NNFS2-----A----	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	7	nmod	7:nmod:u:gen	_
 10	a	a	CCONJ	J^-------------	_	11	cc	11:cc	_
 11	letopočet	letopočet	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	6	conj	5:nsubj:pass|6:conj	_
 12	1427	1427	NUM	C=-------------	NumForm=Digit|NumType=Card	11	nummod	11:nummod	SpaceAfter=No
@@ -71,7 +71,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 2	Ta	ten	DET	PDFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	nsubj:pass	6:nsubj:pass	_
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	6	expl:pass	6:expl:pass	_
 4	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	5:case	_
-5	něj	on	PRON	P5MS2--3-------	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	6	obl	6:obl	_
+5	něj	on	PRON	P5MS2--3-------	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	6	obl	6:obl:u:gen	_
 6	léčila	léčit	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 7	dávno	dávno	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	8	advmod	8:advmod	_
 8	předtím	předtím	ADV	Db-------------	_	6	advmod	6:advmod	SpaceAfter=No
@@ -79,7 +79,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 10	než	než	SCONJ	J,-------------	_	13	mark	13:mark	_
 11	jsi	být	AUX	VB-S---2P-AA---	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	13:aux	_
 12	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	13:obj	_
-13	poznal	poznat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	6:advcl	SpaceAfter=No
+13	poznal	poznat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	6:advcl:než	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
 
 ~~~

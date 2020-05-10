@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-obj.html">obj</a></tt>.
 There are also 1 other language-specific subtypes of `obj`: <tt><a href="fr_gsd-dep-obj-lvc.html">obj:lvc</a></tt>.
 
-116 nodes (0%) are attached to their parents as `obj:agent`.
+121 nodes (0%) are attached to their parents as `obj:agent`.
 
-82 instances of `obj:agent` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.38793103448276.
+86 instances of `obj:agent` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.54545454545455.
 
-The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (74; 64% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (36; 31% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `obj:agent`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (75; 62% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (37; 31% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 obj:agent	color:blue
-1	Elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+1	Elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	wordform=elle
 2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 3	aussi	aussi	ADV	_	_	4	advmod	_	_
 4	contribué	contribuer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -43,9 +43,9 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 obj:agent	color:blue
-1	N'	ne	ADV	_	Polarity=Neg	2	advmod	_	SpaceAfter=No
+1	N'	ne	ADV	_	Polarity=Neg	2	advmod	_	SpaceAfter=No|wordform=n'
 2	hésitez	hésiter	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-3	-pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_
+3	-pas	pas	ADV	_	Polarity=Neg	2	advmod	_	wordform=pas
 4	à	à	ADP	_	_	7	mark	_	_
 5	la	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj:agent	_	_
 6	faire	faire	AUX	_	VerbForm=Inf	7	aux:caus	_	_
@@ -65,7 +65,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 19 obj:agent	color:blue
-1	Maintenant	maintenant	ADV	_	_	29	advmod	_	SpaceAfter=No
+1	Maintenant	maintenant	ADV	_	_	29	advmod	_	SpaceAfter=No|wordform=maintenant
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	si	si	SCONJ	_	_	6	mark	_	_
 4	des	un	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
@@ -89,7 +89,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 22	AJA	AJA	PROPN	_	_	18	obl:arg	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	6	punct	_	_
 24	qu'	que	SCONJ	_	_	29	mark	_	SpaceAfter=No
-25	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	29	nsubj:caus	_	_
+25	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	_
 26	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	29	iobj:agent	_	_
 27	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	obj	_	_
 28	fassent	faire	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	aux:caus	_	_

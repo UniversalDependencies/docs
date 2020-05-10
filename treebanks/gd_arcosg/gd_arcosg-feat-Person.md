@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `0` are language-specific.
 It occurs with 4 different values: `0`, `1`, `2`, `3`.
 
-3787 tokens (9%) have a non-empty value of `Person`.
+3792 tokens (9%) have a non-empty value of `Person`.
 281 types (5%) occur at least once with a non-empty value of `Person`.
 165 lemmas (4%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1984; 5% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (1122; 3% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (491; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (190; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1987; 5% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (1123; 3% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (491; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (191; 0% instances).
 
 ### `PRON`
 
-1984 <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> tokens (75% of all `PRON` tokens) have a non-empty value of `Person`.
+1987 <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> tokens (75% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1583; 80%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1586; 80%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (337; 17% of non-empty `Person`): <em>mi, sinn, mise, sinne, mis'</em>
-* `2` (213; 11% of non-empty `Person`): <em>thu, tu, sibh, thusa, tusa, sibhse, sib’, thus'</em>
-* `3` (1434; 72% of non-empty `Person`): <em>e, iad, i, esan, ise, iadsan, aige, h-e, h-ì, sinne</em>
-* `EMPTY` (662): <em>sin, fhèin, seo, dè, fhéin, cò, dé, dhà, siud, chèile</em>
+* `1` (338; 17% of non-empty `Person`): <em>mi, sinn, mise, sinne, mis'</em>
+* `2` (214; 11% of non-empty `Person`): <em>thu, tu, sibh, thusa, tusa, sibhse, sib’, thus'</em>
+* `3` (1435; 72% of non-empty `Person`): <em>e, iad, i, esan, ise, iadsan, aige, h-e, h-ì, sinne</em>
+* `EMPTY` (663): <em>sin, fhèin, seo, dè, fhéin, cò, dé, dhà, siud, chèile</em>
 
 <table>
   <tr><th>Paradigm <i>sinn</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -38,16 +38,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `ADP`
 
-1122 <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> tokens (19% of all `ADP` tokens) have a non-empty value of `Person`.
+1123 <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> tokens (19% of all `ADP` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADP` and `Person` co-occurred: <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (823; 73%).
+The most frequent other feature values with which `ADP` and `Person` co-occurred: <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (824; 73%).
 
 `ADP` tokens may have the following values of `Person`:
 
 * `1` (167; 15% of non-empty `Person`): <em>againn, agam, orm, dhomh, dhuinn, a'm, agamsa, rium, oirnn, dhòmhsa</em>
-* `2` (147; 13% of non-empty `Person`): <em>agad, dhut, ort, dhuibh, leat, agaibh, oirbh, riut, agadsa, a’d</em>
+* `2` (148; 13% of non-empty `Person`): <em>agad, dhut, ort, dhuibh, leat, agaibh, oirbh, riut, agadsa, a’d</em>
 * `3` (808; 72% of non-empty `Person`): <em>ann, aca, air, aige, dha, orra, ris, dhaibh, leatha, leis</em>
-* `EMPTY` (4814): <em>air, an, ann, aig, gu, de, ri, a, le, do</em>
+* `EMPTY` (4828): <em>air, an, ann, aig, gu, de, ri, a, le, anns</em>
 
 <table>
   <tr><th>Paradigm <i>air</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -70,22 +70,22 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (61; 12% of non-empty `Person`): <em>mo, ar, m', m’, ’r</em>
 * `2` (47; 10% of non-empty `Person`): <em>do, d', t', ur, bhur, d’</em>
 * `3` (383; 78% of non-empty `Person`): <em>a, an, am, ’n, ', 'm, 'n</em>
-* `EMPTY` (2589): <em>an, na, a’, a', am, nan, seo, 'n, sin, nam</em>
+* `EMPTY` (2596): <em>an, na, a’, a', am, nan, seo, 'n, sin, nam</em>
 
 `Person` seems to be **lexical feature** of `DET`. 100% lemmas (15) occur only with one value of `Person`.
 
 ### `VERB`
 
-190 <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Person`.
+191 <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (122; 64%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `0` (80; 42% of non-empty `Person`): <em>rinneadh, fhuaras, rugadh, feumar, thathar, bhathar, faodar, lorgadh, Thathas, bhathas</em>
+* `0` (81; 42% of non-empty `Person`): <em>rinneadh, fhuaras, rugadh, faodar, feumar, thathar, bhathar, lorgadh, Thathas, bhathas</em>
 * `1` (27; 14% of non-empty `Person`): <em>chanainn, rachainn, bhithinn, bithinn, Bitheamaid, Dhèanainn, beirinn, bhiomaid, biomaid, bithinn-sa</em>
-* `2` (83; 44% of non-empty `Person`): <em>feuch, can, abair, cuir, till, Cumaibh, bi, gabh, tog, trobhad</em>
-* `EMPTY` (4104): <em>tha, bha, robh, eil, bheil, chaidh, thuirt, bhiodh, chuir, fhuair</em>
+* `2` (83; 43% of non-empty `Person`): <em>feuch, can, abair, cuir, till, Cumaibh, bi, gabh, tog, trobhad</em>
+* `EMPTY` (4111): <em>tha, bha, robh, eil, bheil, chaidh, thuirt, bhiodh, chuir, fhuair</em>
 
 <table>
   <tr><th>Paradigm <i>bi</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>0</tt></th></tr>

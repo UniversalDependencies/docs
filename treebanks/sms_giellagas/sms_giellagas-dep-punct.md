@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-58 nodes (18%) are attached to their parents as `punct`.
+223 nodes (20%) are attached to their parents as `punct`.
 
-37 instances of `punct` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.62068965517241.
+123 instances of `punct` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.01793721973094.
 
-The following 5 pairs of parts of speech are connected with `punct`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (45; 78% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (8; 14% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (3; 5% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `punct`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (198; 89% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (17; 8% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 3 6 punct	color:blue
 1	Tõt	tõt	DET	Det	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg,Nom
 2	nijdd	nijdd	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sem/Kin,Sg,Nom
-3	ǩeeʹrjti	ǩeeʹrjted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
+3	ǩeeʹrjti	ǩeeʹrjted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 4	ǩeeʹrj	ǩeʹrjj	NOUN	N	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc
 5	taaurõššʼses	taaurõš	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	GTtags=Sg,Ill,PxSg3|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	3	punct	_	_

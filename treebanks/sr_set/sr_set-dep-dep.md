@@ -38,12 +38,12 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 14	a	a	CCONJ	Cc	_	18	cc	_	_
 15	Kipar	Kipar	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
 16	i	i	CCONJ	Cc	_	17	cc	_	_
-17	Grčka	Grčka	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
+17	Grčka	Grčka	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	15	conj	_	_
 18	potpisali	potpisati	VERB	Vmp-pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	8	conj	_	_
 19	sporazum	sporazum	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obj	_	_
 20	o	o	ADP	Sl	Case=Loc	21	case	_	_
 21	saradnji	saradnja	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
-22	.	.	PUNCT	Z	_	3	punct	_	_
+22	.	.	PUNCT	Z	_	8	punct	_	_
 
 ~~~
 
@@ -73,7 +73,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 17	sprečiti	sprečiti	VERB	Vmn	VerbForm=Inf	16	dep	_	_
 18	poslodavce	poslodavac	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	16	obj	_	_
 19	da	da	SCONJ	Cs	_	22	mark	_	_
-20	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	22	compound	_	_
+20	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	22	expl	_	_
 21	loše	loše	ADV	Rgp	Degree=Pos	22	advmod	_	_
 22	ponašaju	ponašati	VERB	Vmr3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	SpaceAfter=No
 23	.	.	PUNCT	Z	_	2	punct	_	_

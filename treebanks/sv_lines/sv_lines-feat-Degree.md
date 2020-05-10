@@ -18,7 +18,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="sv_lines-pos-ADJ.ht
 
 5784 <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5740; 99%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (3791; 66%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3630; 63%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3505; 61%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5740; 99%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (3790; 66%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3630; 63%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3505; 61%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (156; 18% of non-empty `Degree`): <em>senare, mer, vidare, tidigare, längre, mindre, mera, bättre, närmare, ytterligare</em>
 * `Pos` (639; 72% of non-empty `Degree`): <em>mycket, helt, länge, längre, väl, lite, faktiskt, långt, snart, bra</em>
 * `Sup` (96; 11% of non-empty `Degree`): <em>helst, mest, minst, sist, ytterst, längst, oftast, senast, närmast, knappast</em>
-* `EMPTY` (5883): <em>så, ut, där, upp, in, bara, här, hur, också, till</em>
+* `EMPTY` (5882): <em>så, ut, där, upp, in, bara, här, hur, också, till</em>
 
 <table>
   <tr><th>Paradigm <i>mycket</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -77,7 +77,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Pos` (3; 100% of non-empty `Degree`): <em>dotter, slags, sågspån</em>
-* `EMPTY` (15967): <em>sätt, år, far, fält, gång, man, data, sidan, del, mor</em>
+* `EMPTY` (15962): <em>sätt, år, far, fält, gång, man, sidan, del, data, mor</em>
 
 ### `PROPN`
 
@@ -88,7 +88,7 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 `PROPN` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>Visual</em>
-* `EMPTY` (2854): <em>Harry, Quinn, Stillman, Bray, Auster, Access, Microsoft, Weasley, Ron, Dobby</em>
+* `EMPTY` (2859): <em>Harry, Quinn, Stillman, Bray, Auster, Access, Microsoft, Weasley, Ron, Dobby</em>
 
 ### `VERB`
 

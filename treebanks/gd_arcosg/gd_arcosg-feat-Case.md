@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Dat`, `Gen`, `Nom`, `Voc`.
 
-9145 tokens (21%) have a non-empty value of `Case`.
-3228 types (57%) occur at least once with a non-empty value of `Case`.
-2403 lemmas (55%) occur at least once with a non-empty value of `Case`.
-The feature is used with 4 part-of-speech tags: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (7217; 17% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (776; 2% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (626; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (526; 1% instances).
+9153 tokens (21%) have a non-empty value of `Case`.
+3233 types (57%) occur at least once with a non-empty value of `Case`.
+2408 lemmas (54%) occur at least once with a non-empty value of `Case`.
+The feature is used with 4 part-of-speech tags: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (7220; 17% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (777; 2% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (626; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (530; 1% instances).
 
 ### `NOUN`
 
-7217 <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> tokens (76% of all `NOUN` tokens) have a non-empty value of `Case`.
+7220 <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> tokens (75% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7217; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6168; 85%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4544; 63%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7220; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6169; 85%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4546; 63%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Dat` (2669; 37% of non-empty `Case`): <em>taobh, àite, àm, thaobh, Ghàidhlig, aghaidh, riaghaltas, bhliadhna, adhart, duine</em>
+* `Dat` (2671; 37% of non-empty `Case`): <em>taobh, àite, àm, thaobh, Ghàidhlig, aghaidh, riaghaltas, bhliadhna, adhart, duine</em>
 * `Gen` (1344; 19% of non-empty `Case`): <em>bliadhna, Gàidhlig, latha, obrach, dùthcha, airgid, pàrlamaid, dhaoine, sgìre, bàrdachd</em>
-* `Nom` (3185; 44% of non-empty `Case`): <em>fear, duine, fhios, rud, bliadhna, beagan, cuid, dùil, daoine, latha</em>
+* `Nom` (3186; 44% of non-empty `Case`): <em>fear, duine, fhios, rud, bliadhna, beagan, cuid, dùil, daoine, latha</em>
 * `Voc` (19; 0% of non-empty `Case`): <em>dhuine, 'ille, Rìgh, ghràidhein, 'ill', 'illean, bhalaich, charaid, ghràidh, luaidh</em>
-* `EMPTY` (2326): <em>bhith, chur, dol, ràdh, dhèanamh, thoirt, cur, tighinn, feuchainn, iarraidh</em>
+* `EMPTY` (2359): <em>bhith, chur, dol, ràdh, dhèanamh, thoirt, cur, tighinn, feuchainn, iarraidh</em>
 
 <table>
   <tr><th>Paradigm <i>duine</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
@@ -36,17 +36,17 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-776 <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> tokens (45% of all `ADJ` tokens) have a non-empty value of `Case`.
+777 <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> tokens (45% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (590; 76%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (502; 65%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (590; 76%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (503; 65%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Dat` (256; 33% of non-empty `Case`): <em>eile, ghoirid, ùr, móra, òg, dubh, ionadail, mór, Albannach, Eòrpach</em>
+* `Dat` (257; 33% of non-empty `Case`): <em>eile, ghoirid, ùr, móra, òg, dubh, ionadail, mór, Albannach, Eòrpach</em>
 * `Gen` (112; 14% of non-empty `Case`): <em>eile, Buidhe, Mhóir, Muileach, beaga, Albannach, Rìoghail, cèin, dùthchail, mhòir</em>
 * `Nom` (407; 52% of non-empty `Case`): <em>eile, ùr, beag, math, mór, mòr, làidir, dubh, mhath, mhòr</em>
 * `Voc` (1; 0% of non-empty `Case`): <em>òig</em>
-* `EMPTY` (957): <em>bith, sam, cinnteach, faisg, fhearr, math, seann, fìor, iomadach, iomadh</em>
+* `EMPTY` (966): <em>bith, sam, cinnteach, faisg, fhearr, math, seann, fìor, iomadach, iomadh</em>
 
 <table>
   <tr><th>Paradigm <i>eile</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -65,21 +65,21 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 `DET` tokens may have the following values of `Case`:
 
 * `Gen` (626; 100% of non-empty `Case`): <em>na, an, nan, a’, a', nam, am</em>
-* `EMPTY` (2454): <em>an, na, a, a’, am, a', seo, 'n, sin, mo</em>
+* `EMPTY` (2461): <em>an, na, a, a’, am, a', seo, 'n, sin, mo</em>
 
 ### `PROPN`
 
-526 <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> tokens (26% of all `PROPN` tokens) have a non-empty value of `Case`.
+530 <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> tokens (26% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (430; 82%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (434; 82%).
 
 `PROPN` tokens may have the following values of `Case`:
 
 * `Dat` (78; 15% of non-empty `Case`): <em>Iain, Dòmhnall, [Name], Màiri, Dhòmhnall, Garaidh, Labhruinn, Tormod, Aonghas, Catrìona</em>
 * `Gen` (67; 13% of non-empty `Case`): <em>Dhòmhnaill, Iain, lain, Dhonnchaidh, Lachlainn, Mairearaid, Ràghaill, Ailein, Alasdair, Eachainn</em>
-* `Nom` (338; 64% of non-empty `Case`): <em>Dòmhnall, Iain, Tormod, Màiri, Alasdair, Eachann, Anna, [Name], Labhruinn, Seumas</em>
+* `Nom` (342; 65% of non-empty `Case`): <em>Dòmhnall, Iain, Tormod, Màiri, Alasdair, Eachann, Anna, [Name], Labhruinn, Seumas</em>
 * `Voc` (43; 8% of non-empty `Case`): <em>[Name], Aonghais, Raghnaill, Mhurchaidh, Dhòmhnaill, Sheonaidh, Iain</em>
-* `EMPTY` (1523): <em>Alba, [Name], a, h-Alba, Uibhist, Yugoslavia, a', Èirinn, Nis, Spasitch</em>
+* `EMPTY` (1534): <em>Alba, [Name], a, h-Alba, Uibhist, Yugoslavia, a', Èirinn, Nis, Spasitch</em>
 
 <table>
   <tr><th>Paradigm <i>[Name]</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
@@ -90,10 +90,10 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (657; 68%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (228; 75%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (658; 67%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (229; 75%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (37; 97%),
-<tt>PROPN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> PROPN</tt> (25; 89%),
+<tt>PROPN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> PROPN</tt> (27; 87%),
 <tt>PROPN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10; 91%),
 <tt>ADJ --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 100%),
 <tt>PROPN --[<tt><a href="gd_arcosg-dep-flat.html">flat</a></tt>]--> ADJ</tt> (7; 78%),

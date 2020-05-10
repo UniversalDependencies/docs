@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (0%) are attached to their parents as `discourse`.
+8 nodes (0%) are attached to their parents as `discourse`.
 
-6 instances of `discourse` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 12.5714285714286.
+7 instances of `discourse` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 10.25.
 
-The following 4 pairs of parts of speech are connected with `discourse`: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (2; 29% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (2; 29% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (2; 29% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 14% instances).
+The following 5 pairs of parts of speech are connected with `discourse`: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (2; 25% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (2; 25% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt>-<tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 13% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	बात	बात	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	discourse	_	_
 3	के	को	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	2	case	_	_
 4	जानकारी	जानकारी	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	5	compound	_	_
-5	देत	देत	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	xcomp	_	_
+5	देत	दे	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	xcomp	_	_
 6	जय	जय	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	compound	_	_
 7	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	nmod	_	SpacesAfter=\n
 8	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	7	case	_	_
@@ -60,7 +60,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 36	बारे	बारे	NOUN	N_NN	AdpType=Post	34	case	_	_
 37	में	में	ADP	PSP	AdpType=Post	34	case	_	_
 38	प्रयासरत	प्रयासरत	NOUN	N_NN	_	39	compound	_	SpacesAfter=\n
-39	रहेले	रहेला	AUX	V_VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	13	acl	_	_
+39	रहेले	रह	AUX	V_VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	13	acl	_	_
 40	।	।	PUNCT	RD_PUNC	_	13	punct	_	_
 
 ~~~
@@ -72,43 +72,43 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 1 discourse	color:blue
-1	काहे	काह	PRON	PR_PRQ	_	11	discourse	_	_
+1	काहे	काहे	PRON	PR_PRQ	_	11	discourse	_	_
 2	एह	एह	DET	DM_DMD	NumType=Card	3	det	_	_
 3	फेरा	फेरा	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	nmod	_	_
 4	में	में	ADP	PSP	AdpType=Post	3	case	_	_
 5	पड़ल	पड़ल	VERB	V_VM	Case=Nom	11	xcomp	_	_
-6	बाड़	बाड	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	aux	_	_
+6	बाड़	बा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	aux	_	_
 7	कि	कि	SCONJ	CC_CCS	_	6	conj	_	_
 8	12	12	NUM	QT_QTC	NumType=Card	11	nummod	_	_
 9	बरीस	बरीस	NOUN	N_NN	NumType=Card	8	fixed	_	_
 10	छोट	छोट	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur|Person=3	13	amod	_	_
 11	ह	ह	VERB	V_VM	NumType=Card	0	root	_	_
 12	कि	कि	SCONJ	CC_CCS	_	10	conj	_	_
-13	बड़	बड	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	amod	_	_
+13	बड़	बड़	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	amod	_	_
 14	।	।	PUNCT	RD_PUNC	_	11	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 5 discourse	color:blue
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 6 discourse	color:blue
 1	ऊ	ऊ	PRON	PR_PRP	Case=Nom|Number=Sing	2	amod	_	_
 2	चैनल	चैनल	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	amod	_	_
 3	चीफ	चीफ	NOUN	N_NN	Case=Acc	4	nmod	_	_
-4	चहक	चहक	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
-5	के	के	VERB	V_VM	_	18	discourse	_	_
-6	बोलल	बोलल	AUX	V_VAUX	_	5	aux	_	_
-7	–	–	PUNCT	RD_SYM	_	5	punct	_	_
-8	चलीं	चल	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	11	aux	_	_
+4	चहक	चहक	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	nmod	_	_
+5	के	के	ADP	PSP	_	4	case	_	_
+6	बोलल	बोलल	VERB	V_VM	_	12	discourse	_	_
+7	–	–	PUNCT	RD_SYM	_	6	punct	_	_
+8	चलीं	चल	VERB	V_VM	_	6	compound	_	_
 9	अब	अब	NOUN	N_NST	Case=Nom|PronType=Prs	12	obl	_	_
 10	रउरो	रउरो	PRON	PR_PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	amod	_	_
 11	कन्फर्म	कन्फर्म	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	nmod	_	_
 12	कर	कर	VERB	V_VM	_	0	root	_	_
-13	दिहनी	दिहन	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	12	aux	_	_
+13	दिहनी	दे	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	12	aux	_	_
 14	कि	कि	SCONJ	CC_CCS	_	18	cc	_	_
 15	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	16	det	_	_
 16	बेहूदा	बेहूदा	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	amod	_	_

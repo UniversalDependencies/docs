@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (11%) are attached to their parents as `root`.
+88 nodes (8%) are attached to their parents as `root`.
 
-36 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.88888888888889.
+88 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.51136363636364.
 
-The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (30; 83% instances), -<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (4; 11% instances), -<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), -<tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (79; 90% instances), -<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), -<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), -<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 1% instances), -<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 1% instances), -<tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 3 root	color:blue
 1	Tõt	tõt	DET	Det	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg,Nom
 2	nijdd	nijdd	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sem/Kin,Sg,Nom
-3	ǩeeʹrjti	ǩeeʹrjted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3
+3	ǩeeʹrjti	ǩeeʹrjted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 4	ǩeeʹrj	ǩeʹrjj	NOUN	N	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc
 5	taaurõššʼses	taaurõš	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	GTtags=Sg,Ill,PxSg3|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	3	punct	_	_

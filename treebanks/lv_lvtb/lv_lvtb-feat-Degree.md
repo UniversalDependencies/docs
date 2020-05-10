@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-21089 tokens (10%) have a non-empty value of `Degree`.
-10767 types (25%) occur at least once with a non-empty value of `Degree`.
-4137 lemmas (21%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 6 part-of-speech tags: <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (10745; 5% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (7655; 3% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (2502; 1% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (166; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (3; 0% instances).
+21087 tokens (10%) have a non-empty value of `Degree`.
+10764 types (25%) occur at least once with a non-empty value of `Degree`.
+4135 lemmas (21%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 6 part-of-speech tags: <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (10745; 5% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (7652; 3% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (2502; 1% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (167; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (3; 0% instances).
 
 ### `ADJ`
 
@@ -73,16 +73,16 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `VERB`
 
-7655 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `Degree`.
+7652 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (7655; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7655; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7655; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7655; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7507; 98%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7046; 92%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6547; 86%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6547; 86%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (5954; 78%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5776; 75%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (7652; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7652; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7652; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7652; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7504; 98%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7042; 92%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6544; 86%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6544; 86%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (5952; 78%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5774; 75%).
 
 `VERB` tokens may have the following values of `Degree`:
 
 * `Cmp` (14; 0% of non-empty `Degree`): <em>aizņemtāka, aptverošāku, atbilstošākos, atbilstošāku, ievainojamāka, izolētāka, koncentrētāka, noapaļotākais, nīstākā, piemērotāku</em>
-* `Pos` (7638; 100% of non-empty `Degree`): <em>redzams, bijis, pagājušā, zināms, bijusi, esošo, paredzēts, saistīts, Protams, minēto</em>
+* `Pos` (7635; 100% of non-empty `Degree`): <em>redzams, bijis, pagājušā, zināms, bijusi, esošo, paredzēts, saistīts, Protams, minēto</em>
 * `Sup` (3; 0% of non-empty `Degree`): <em>visintriģējošākajām, vispostošākā, vispārliecinošākā</em>
-* `EMPTY` (25214): <em>ir, var, varētu, nav, bija, nevar, teica, būs, notiek, sāka</em>
+* `EMPTY` (25212): <em>ir, var, varētu, nav, bija, nevar, teica, būs, notiek, sāka</em>
 
 <table>
   <tr><th>Paradigm <i>zināt</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
@@ -111,7 +111,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>zināmas</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `VERB`. 99% lemmas (1987) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `VERB`. 99% lemmas (1984) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -133,14 +133,14 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 ### `AUX`
 
-166 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Degree`.
+167 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `AUX` and `Degree` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (166; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (166; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (166; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (166; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (166; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (165; 99%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (163; 98%).
+The most frequent other feature values with which `AUX` and `Degree` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (167; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (167; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (167; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (167; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (167; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (166; 99%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (164; 98%).
 
 `AUX` tokens may have the following values of `Degree`:
 
-* `Pos` (166; 100% of non-empty `Degree`): <em>bijis, bijusi, kļuvis, bijuši, kļuvusi, ticis, kļuvuši, tikusi, bijušas, bijušo</em>
-* `EMPTY` (5892): <em>ir, bija, nav, tiek, tika, būtu, būs, esmu, būt, tiks</em>
+* `Pos` (167; 100% of non-empty `Degree`): <em>bijis, bijusi, kļuvis, kļuvusi, bijuši, ticis, kļuvuši, tikusi, bijušas, bijušo</em>
+* `EMPTY` (5894): <em>ir, bija, nav, tiek, tika, būtu, būs, esmu, būt, tiks</em>
 
 ### `DET`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-517 nodes (1%) are attached to their parents as `cop`.
+518 nodes (1%) are attached to their parents as `cop`.
 
-515 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.60154738878143.
+516 instances of `cop` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.6003861003861.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (280; 54% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (91; 18% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (58; 11% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (32; 6% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (25; 5% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (11; 2% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (10; 2% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (281; 54% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (91; 18% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (58; 11% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (32; 6% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (25; 5% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (11; 2% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (10; 2% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

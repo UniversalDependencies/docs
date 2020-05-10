@@ -23,14 +23,14 @@ The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 expl:pv	color:blue
-1	Ne	ne	PART	TT-------------	_	2	advmod:emph	_	_
-2	každý	každý	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	nsubj	_	_
-3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	7	expl:pv	_	LGloss=(zvr._zájmeno/částice)
-4	nad	nad	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	_	LId=nad-1
-5	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	obj	_	_
-6	dokáže	dokázat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-7	povznést	povznést	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	6	xcomp	_	SpaceAfter=No
-8	.	.	PUNCT	Z:-------------	_	6	punct	_	_
+1	Ne	ne	PART	TT-------------	_	2	advmod:emph	2:advmod:emph	_
+2	každý	každý	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	nsubj	6:nsubj|7:nsubj	_
+3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	7	expl:pv	7:expl:pv	LGloss=(zvr._zájmeno/částice)
+4	nad	nad	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	5:case	LId=nad-1
+5	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	obl:arg	7:obl:arg:nad:acc	_
+6	dokáže	dokázat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+7	povznést	povznést	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	6	xcomp	6:xcomp	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
 
 ~~~
 

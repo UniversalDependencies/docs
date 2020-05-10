@@ -40,7 +40,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 3 4 case	color:blue
 1	Londra	Londra	PROPN	_	Number=Sing	5	nsubj	_	_
 2	sonbaharda	sonbahar	NOUN	_	Case=Loc|Number=Sing	5	obl:tmod	_	_
-3	o	o	PRON	_	Case=Nom|Number=Sing	5	nmod	_	_
+3	o	o	PRON	_	Case=Nom|Number=Sing|PronType=Dem	5	nmod	_	_
 4	kadar	kadar	ADP	_	_	3	case	_	_
 5	güzel	güzel	ADJ	_	_	0	root	_	_
 6	olur	ol	AUX	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -57,9 +57,9 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 3 case	color:blue
 1	Saat	saat	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
-2	ikiden	iki	NUM	_	Case=Abl|Number=Sing	6	obl:tmod	_	_
+2	ikiden	iki	NUM	_	Case=Abl|Number=Sing|NumType=Card	6	obl:tmod	_	_
 3	sonra	sonra	ADP	_	_	2	case	_	_
-4	beni	ben	PRON	_	Case=Acc|Number=Sing|Person=1	6	obj	_	_
+4	beni	ben	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
 5	telefonla	telefon	NOUN	_	Case=Ins|Number=Sing	6	obl	_	_
 6	ara	ara	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_

@@ -8,30 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (2%) are attached to their parents as `case`.
+28 nodes (2%) are attached to their parents as `case`.
 
-11 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+28 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03571428571429.
 
-The following 3 pairs of parts of speech are connected with `case`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (9; 82% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (1; 9% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (1; 9% instances).
+The following 5 pairs of parts of speech are connected with `case`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (23; 82% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 case	color:blue
-1	И	и	CCONJ	CC	_	2	cc	_	_
-2	уендихть	уендемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	_
-3	сенем	сенем	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	4	amod	_	_
-4	менельть	менель	NOUN	N	Case=Gen|Definite=Def|Number=Sing	2	obl	_	_
-5	потмоса	потмоса	ADP	Adp	AdpType=Post	4	case	_	SpaceAfter=No
-6	,	,	PUNCT	CLB	_	9	punct	_	_
-7	кода	кода	ADV	Adv	_	9	mark	_	_
-8	оцю	оцю	ADJ	A	Case=Nom|Number=Sing	9	amod	_	_
-9	морява	моря	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	4	obl	_	SpaceAfter=No
-10	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 5 6 case	color:blue
+1	Рамаль	рамамс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	_
+2	хуш	хуш	ADV	Adv	_	5	advmod	_	_
+3	тядязень	тядя	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nmod	_	_
+4	муськома	муськомс	VERB	V	Case=Nom|Definite=Ind|Number=Sing|Valency=2|VerbForm=Vnoun	5	nmod	_	_
+5	очконц	очка	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	obj	_	_
+6	эшка	эшка	ADP	Adp	AdpType=Post|Case=Comp	5	case	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	1	punct	_	_
 
 ~~~
 
@@ -51,21 +48,28 @@ The following 3 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 case	color:blue
-1	Тя	тя	DET	_	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg,Nom
-2	сёрмась	сёрма	NOUN	_	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def
-3	Петянь	Петя	PROPN	_	Case=Gen|Definite=Ind|Number=Plur,Sing	0	root	_	GTtags=Prop,Sem/Mal,SP,Gen,Indef
-4	эзда	эзда	ADP	_	Case=Abl	3	case	_	GTtags=Abl|SpaceAfter=No
-5	,	,	PUNCT	CLB	_	7	punct	_	_
-6	и	и	CCONJ	CC	_	7	cc	_	_
-7	кандозь	кандомс	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Prt1|Valency=2	3	conj	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3
-8	сонь	сон	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	obj	_	GTtags=Pers,Sg3,Gen
-9	исяк	исяк	ADV	_	_	7	advmod:tmod	_	SpaceAfter=No
-10	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 16 case	color:blue
+1	–	–	PUNCT	PUNCT	_	2	punct	_	_
+2	Мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	GTtags=Pers,Sg1,Nom
+3	директорсь	директор	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj:cop	_	GTtags=Sg,Nom,Def|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	6	punct	_	_
+5	–	–	PUNCT	PUNCT	_	6	punct	_	_
+6	пшкядсь	пшкядемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	2	parataxis	_	GTtags=IV,Ind,Prt1,ScSg3
+7	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	GTtags=Pers,Sg3,Nom
+8	пцтай	пцтай	ADV	Adv	_	9	advmod:deg	_	_
+9	весяласта	весяласта	ADV	Adv	AdvType=Man	6	advmod	_	GTtags=Manner|SpaceAfter=No
+10	,	,	PUNCT	CLB	_	13	punct	_	_
+11	и	и	CCONJ	CC	_	13	cc	_	_
+12	сельмованфоц	сельмованф	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	nsubj	_	GTtags=Sg,Nom,PxSg3
+13	курькстсь	курькстомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	2	conj	_	GTtags=IV,Ind,Prt1,ScSg3
+14	Колянь	Коля	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	15	nmod	_	GTtags=Prop,SP,Gen,Indef
+15	ронгонц	ронга	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obl:lmod	_	GTtags=Sg,Gen,PxSg3
+16	кувалмова	кувалма	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	15	case	_	GTtags=SP,Prl,Indef|SpaceAfter=No
+17	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

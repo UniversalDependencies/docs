@@ -116,7 +116,7 @@ The most frequent other feature values with which `AUX` and `Person[psor]` co-oc
 
 22 <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 100%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (17; 77%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (16; 73%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 100%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (16; 73%), <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (14; 64%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 
@@ -131,7 +131,7 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
 
 12 <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> tokens (3% of all `NUM` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NUM` and `Person[psor]` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 100%), <tt><a href="tr_gb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (9; 75%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 67%).
+The most frequent other feature values with which `NUM` and `Person[psor]` co-occurred: <tt><a href="tr_gb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (12; 100%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 100%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 67%).
 
 `NUM` tokens may have the following values of `Person[psor]`:
 

@@ -35,7 +35,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 4 ccomp	color:blue
-1	Ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1	9	nsubj	_	_
+1	Ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 2	adam	adam	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 3	tarih	tarih	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
 4	hocası	hoca	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	ccomp	_	_

@@ -23,12 +23,12 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
 1	Viso	visas	DET	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Tot	2	det	2:det	_
-2	to	tas	DET	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	4	obj	4:obj	_
+2	to	tas	DET	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	4	obl:arg	4:obl:arg:gen	_
 3	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	_
 4	išvengti	išvengti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	3	xcomp	3:xcomp	_
 5	nusprendus	nuspręsti	VERB	vksm.pad.būt-k.	Aspect=Perf|Polarity=Pos|Tense=Past|VerbForm=Ger	4	advcl	4:advcl	_
 6	dirbti	dirbti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	5	xcomp	5:xcomp	_
-7	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	6	obl	6:obl	SpaceAfter=No
+7	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	6	obl	6:obl:loc	SpaceAfter=No
 8	.	.	PUNCT	skyr.	_	3	punct	3:punct	_
 
 ~~~
@@ -41,7 +41,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
 1	Biuras	biuras	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-2	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	1	obl	1:obl	_
+2	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	1	obl	1:obl:loc	_
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 8 root	color:blue
 1	Žinoma	žinoti	VERB	vksm.dlv.neveik.es.bev.	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	8	parataxis	8:parataxis	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	1:punct	_
-3	Lietuvoje	Lietuva	PROPN	dkt.tikr.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	8	obl	8:obl	_
+3	Lietuvoje	Lietuva	PROPN	dkt.tikr.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	8	obl	8:obl:loc	_
 4	šie	šis	DET	įv.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	5	det	5:det	_
 5	skaičiai	skaičius	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	8:nsubj	_
 6	nebūtų	nebūti	VERB	vksm.asm.neig.tar.dgs.3.	Mood=Cnd|Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin	8	csubj	8:csubj	_

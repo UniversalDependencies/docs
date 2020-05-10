@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-641 tokens (4%) have a non-empty value of `Polarity`.
-391 types (8%) occur at least once with a non-empty value of `Polarity`.
+645 tokens (4%) have a non-empty value of `Polarity`.
+393 types (8%) occur at least once with a non-empty value of `Polarity`.
 124 lemmas (6%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 5 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (474; 3% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (77; 0% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (57; 0% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt> (23; 0% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (10; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (474; 3% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (77; 0% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (57; 0% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt> (27; 0% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (10; 0% instances).
 
 ### `VERB`
 
@@ -65,25 +65,25 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (57; 100% of non-empty `Polarity`): <em>yok</em>
-* `EMPTY` (735): <em>var, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım, eski</em>
+* `EMPTY` (732): <em>var, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım, eski</em>
 
 ### `DET`
 
-23 <tt><a href="tr_gb-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Polarity`.
+27 <tt><a href="tr_gb-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23; 100%), <tt><a href="tr_gb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (22; 96%).
+The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (27; 100%), <tt><a href="tr_gb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (26; 96%).
 
 `DET` tokens may have the following values of `Polarity`:
 
-* `Neg` (21; 91% of non-empty `Polarity`): <em>hiçbir</em>
-* `Pos` (2; 9% of non-empty `Polarity`): <em>Bu, bir</em>
-* `EMPTY` (956): <em>bir, bu, o, her, bütün, şu, birkaç, bazı, başka, öyle</em>
+* `Neg` (25; 93% of non-empty `Polarity`): <em>hiçbir, hiç</em>
+* `Pos` (2; 7% of non-empty `Polarity`): <em>Bu, bir</em>
+* `EMPTY` (953): <em>bir, bu, o, her, bütün, şu, birkaç, bazı, başka, öyle</em>
 
 ### `PRON`
 
 10 <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 100%), <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (7; 70%).
+The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 100%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (7; 70%).
 
 `PRON` tokens may have the following values of `Polarity`:
 

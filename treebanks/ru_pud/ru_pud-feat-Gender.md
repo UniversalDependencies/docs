@@ -12,18 +12,18 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 9006 tokens (47%) have a non-empty value of `Gender`.
 5708 types (74%) occur at least once with a non-empty value of `Gender`.
 3792 lemmas (74%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (4893; 25% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1275; 7% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1101; 6% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (809; 4% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (446; 2% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (262; 1% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (155; 1% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (65; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (4892; 25% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1274; 7% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1101; 6% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (811; 4% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (446; 2% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (262; 1% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (155; 1% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (65; 0% instances).
 
 ### `NOUN`
 
-4893 <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+4892 <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4264; 87%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3523; 72%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4263; 87%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3522; 72%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (1523; 31% of non-empty `Gender`): <em>войны, компании, часть, страны, жизни, истории, мере, части, э., партии</em>
-* `Masc` (2208; 45% of non-empty `Gender`): <em>году, года, лет, людей, города, результате, века, человек, год, люди</em>
+* `Masc` (2207; 45% of non-empty `Gender`): <em>году, года, лет, людей, города, результате, века, человек, год, люди</em>
 * `Neut` (1162; 24% of non-empty `Gender`): <em>время, течение, качестве, влияние, основном, море, внимание, место, начале, имя</em>
 * `EMPTY` (5): <em>Film, Wi-Fi, GIF</em>
 
@@ -34,17 +34,17 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>представители</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (1904) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (1903) occur only with one value of `Gender`.
 
 ### `ADJ`
 
-1275 <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> tokens (61% of all `ADJ` tokens) have a non-empty value of `Gender`.
+1274 <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> tokens (61% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1274; 100%), <tt><a href="ru_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1269; 100%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1273; 100%), <tt><a href="ru_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1267; 99%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (508; 40% of non-empty `Gender`): <em>первой, Северной, крайней, большая, другой, южной, новой, южная, американской, большой</em>
+* `Fem` (507; 40% of non-empty `Gender`): <em>первой, Северной, крайней, большая, другой, южной, новой, южная, американской, большой</em>
 * `Masc` (439; 34% of non-empty `Gender`): <em>новый, первого, последний, самым, большой, британский, бывший, высокий, главным, единственный</em>
 * `Neut` (328; 26% of non-empty `Gender`): <em>нужно, самое, самым, большое, возможно, должно, необходимо, самом, известно, настоящее</em>
 * `EMPTY` (815): <em>другие, других, многие, новые, новых, последние, должны, 2014, 2015, III</em>
@@ -87,15 +87,15 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `VERB`
 
-809 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (38% of all `VERB` tokens) have a non-empty value of `Gender`.
+811 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (38% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (809; 100%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (809; 100%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (756; 93%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (585; 72%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (585; 72%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (574; 71%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (482; 60%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (811; 100%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (811; 100%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (756; 93%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (585; 72%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (585; 72%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (576; 71%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (482; 59%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (220; 27% of non-empty `Gender`): <em>сказала, начала, привела, стала, могла, началась, показала, сыграла, вернулась, включала</em>
-* `Masc` (439; 54% of non-empty `Gender`): <em>сказал, заявил, стал, принял, начал, мог, получил, жил, оставался, вернулся</em>
-* `Neut` (150; 19% of non-empty `Gender`): <em>стало, привело, позволило, удалось, началось, получило, потраченное, произошло, имело, использовалось</em>
+* `Fem` (221; 27% of non-empty `Gender`): <em>сказала, начала, привела, стала, могла, началась, показала, сыграла, вернулась, включала</em>
+* `Masc` (440; 54% of non-empty `Gender`): <em>сказал, заявил, стал, принял, начал, мог, получил, жил, оставался, вернулся</em>
+* `Neut` (150; 18% of non-empty `Gender`): <em>стало, привело, позволило, удалось, началось, получило, потраченное, произошло, имело, использовалось</em>
 * `EMPTY` (1304): <em>является, может, говорит, могут, можно, находится, имеет, сделать, получили, нет</em>
 
 <table>
@@ -200,7 +200,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (964; 58%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (962; 58%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-det.html">det</a></tt>]--> DET</tt> (242; 52%),
 <tt>VERB --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (132; 70%),
 <tt>VERB --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (127; 59%),

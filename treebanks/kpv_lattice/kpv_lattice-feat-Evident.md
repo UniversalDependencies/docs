@@ -18,12 +18,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VER
 
 17 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="kpv_lattice-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (17; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (17; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 82%).
+The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (17; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (17; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 82%).
 
 `VERB` tokens may have the following values of `Evident`:
 
 * `Nfh` (17; 100% of non-empty `Evident`): <em>идралӧма, Чеглалӧма, вайӧма, вартӧма, воӧмаӧсь, вунӧдӧма, домавлӧмаӧсь, краситӧма, майшассьӧма, пуктӧма</em>
-* `EMPTY` (382): <em>идралӧм, вермы, колӧ, лоны, идралӧмын, кутіс, воис, мунны, вешйис, восьлавны</em>
+* `EMPTY` (427): <em>вермы, идралӧм, колӧ, лоны, идралӧмын, кутіс, воис, лои, мунны, вешйис</em>
 
 `Evident` seems to be **lexical feature** of `VERB`. 100% lemmas (15) occur only with one value of `Evident`.
 
@@ -31,12 +31,12 @@ The most frequent other feature values with which `VERB` and `Evident` co-occurr
 
 1 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `AUX` and `Evident` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Evident` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Evident`:
 
 * `Nfh` (1; 100% of non-empty `Evident`): <em>вӧлӧма</em>
-* `EMPTY` (67): <em>эз, оз, вӧлі, ог, эг, он, лоас, абу, абуӧсь, вӧв</em>
+* `EMPTY` (74): <em>эз, оз, вӧлі, ог, эг, он, абу, лоас, Овлывлӧ, абуӧсь</em>
 
 ## Relations with Agreement in `Evident`
 

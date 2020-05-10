@@ -64,11 +64,11 @@ The 2nd highest number of forms (6) was observed with the lemma “we”: <em>'s
 
 The 3rd highest number of forms (6) was observed with the lemma “you”: <em>'ye, Yer, you, your, yours, yourself</em>.
 
-`PRON` occurs with 9 features: <tt><a href="en_lines-feat-PronType.html">PronType</a></tt> (6765; 70% instances), <tt><a href="en_lines-feat-Number.html">Number</a></tt> (6167; 64% instances), <tt><a href="en_lines-feat-Person.html">Person</a></tt> (5599; 58% instances), <tt><a href="en_lines-feat-Case.html">Case</a></tt> (4628; 48% instances), <tt><a href="en_lines-feat-Gender.html">Gender</a></tt> (2985; 31% instances), <tt><a href="en_lines-feat-Poss.html">Poss</a></tt> (1290; 13% instances), <tt><a href="en_lines-feat-Reflex.html">Reflex</a></tt> (200; 2% instances), <tt><a href="en_lines-feat-Definite.html">Definite</a></tt> (2; 0% instances), <tt><a href="en_lines-feat-Degree.html">Degree</a></tt> (1; 0% instances)
+`PRON` occurs with 9 features: <tt><a href="en_lines-feat-PronType.html">PronType</a></tt> (6766; 70% instances), <tt><a href="en_lines-feat-Number.html">Number</a></tt> (6167; 64% instances), <tt><a href="en_lines-feat-Person.html">Person</a></tt> (5599; 58% instances), <tt><a href="en_lines-feat-Case.html">Case</a></tt> (4627; 48% instances), <tt><a href="en_lines-feat-Gender.html">Gender</a></tt> (2985; 31% instances), <tt><a href="en_lines-feat-Poss.html">Poss</a></tt> (1291; 13% instances), <tt><a href="en_lines-feat-Reflex.html">Reflex</a></tt> (200; 2% instances), <tt><a href="en_lines-feat-Definite.html">Definite</a></tt> (2; 0% instances), <tt><a href="en_lines-feat-Degree.html">Degree</a></tt> (1; 0% instances)
 
 `PRON` occurs with 24 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Sup`, `Gender=Com`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`
 
-`PRON` occurs with 38 feature combinations.
+`PRON` occurs with 39 feature combinations.
 The most frequent feature combination is `_` (2266 tokens).
 Examples: <em>it, you, there, their, one, oneself, mine, ours, that, yours</em>
 

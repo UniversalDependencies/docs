@@ -30,10 +30,10 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 6	اسبوعين	أُسبُوع	NOUN	N------D4I	Case=Acc|Definite=Ind|Number=Dual	5	obj	5:obj	Vform=أُسبُوعَينِ|Gloss=week|Root=s_b_`|Translit=ʾusbūʿayni|LTranslit=ʾusbūʿ
 7	ب	بِ	ADP	P---------	AdpType=Prep	9	case	9:case	Vform=بِ|Gloss=by,with|Root=bi|Translit=bi|LTranslit=bi
 8	حسب	حَسَبَ	ADP	PI------2-	AdpType=Prep|Case=Gen	7	fixed	7:fixed	Vform=حَسَبِ|Gloss=according_to,depending_on|Root=.h_s_b|Translit=ḥasabi|LTranslit=ḥasaba
-9	احد	أَحَد	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	5	obl	5:obl	Vform=أَحَدِ|Gloss=one,someone|Root='_.h_d|Translit=ʾaḥadi|LTranslit=ʾaḥad
-10	المقربين	مُقَرَّب	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	9	nmod	9:nmod	Vform=اَلمُقَرَّبِينَ|Gloss=close_companion,protege,intimate|Root=q_r_b|Translit=al-muqarrabīna|LTranslit=muqarrab
+9	احد	أَحَد	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	5	obl	5:obl:بِ_حَسَبَ:gen	Vform=أَحَدِ|Gloss=one,someone|Root='_.h_d|Translit=ʾaḥadi|LTranslit=ʾaḥad
+10	المقربين	مُقَرَّب	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	9	nmod	9:nmod:gen	Vform=اَلمُقَرَّبِينَ|Gloss=close_companion,protege,intimate|Root=q_r_b|Translit=al-muqarrabīna|LTranslit=muqarrab
 11	من	مِن	ADP	P---------	AdpType=Prep	12	case	12:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
-12	باراك	بَارَاك	X	X---------	Foreign=Yes	10	nmod	10:nmod	Vform=بَارَاك|Gloss=Barak|Root=bArAk|Translit=bārāk|LTranslit=bārāk
+12	باراك	بَارَاك	X	X---------	Foreign=Yes	10	nmod	10:nmod:مِن	Vform=بَارَاك|Gloss=Barak|Root=bArAk|Translit=bārāk|LTranslit=bārāk
 
 ~~~
 

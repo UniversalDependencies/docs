@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-2635 tokens (14%) have a non-empty value of `Degree`.
-1734 types (23%) occur at least once with a non-empty value of `Degree`.
-1110 lemmas (22%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1880; 10% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (726; 4% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (13; 0% instances).
+2633 tokens (14%) have a non-empty value of `Degree`.
+1733 types (23%) occur at least once with a non-empty value of `Degree`.
+1108 lemmas (22%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 4 part-of-speech tags: <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1878; 10% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (726; 4% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (13; 0% instances).
 
 ### `ADJ`
 
-1880 <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Degree`.
+1878 <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1274; 68%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1272; 68%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (7; 0% of non-empty `Degree`): <em>лучше, выше, меньше, поответственней</em>
-* `Pos` (1863; 99% of non-empty `Degree`): <em>другие, первой, других, многие, новые, самым, новых, последние, Северной, большой</em>
+* `Pos` (1861; 99% of non-empty `Degree`): <em>другие, первой, других, многие, новые, самым, новых, последние, Северной, большой</em>
 * `Sup` (10; 1% of non-empty `Degree`): <em>лучших, важнейшим, крупнейшим, лучшего, лучшим, наибольшее, наихудших, худшим</em>
-* `EMPTY` (210): <em>2014, 2015, III, 1, 1492, 2010, 2012, 2013, 2017, 1992</em>
+* `EMPTY` (211): <em>2014, 2015, III, 1, 1492, 2010, 2012, 2013, 2017, 1992</em>
 
 <table>
   <tr><th>Paradigm <i>высокий</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>высокие</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (893) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (891) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Pos` (16; 100% of non-empty `Degree`): <em>можно, надо</em>
-* `EMPTY` (2097): <em>является, может, сказал, говорит, стало, могут, заявил, находится, стал, имеет</em>
+* `EMPTY` (2099): <em>является, может, сказал, говорит, стало, могут, заявил, находится, стал, имеет</em>
 
 ### `NUM`
 
@@ -87,7 +87,7 @@ The most frequent other feature values with which `NUM` and `Degree` co-occurred
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="ru_pud-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (64; 73%),
 <tt>ADJ --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (49; 100%),
-<tt>ADJ --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (27; 100%),
+<tt>ADJ --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (27; 96%),
 <tt>ADV --[<tt><a href="ru_pud-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (18; 55%),
 <tt>ADJ --[<tt><a href="ru_pud-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (3; 75%),
 <tt>ADV --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> ADV</tt> (3; 100%),

@@ -221,6 +221,6 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>VERB --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (11; 52%),
 <tt>DET --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9; 82%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> NOUN</tt> (6; 75%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-obj.html">obj</a></tt>]--> PRON</tt> (6; 55%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5; 83%).
+<tt>ADJ --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5; 83%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (4; 100%).
 

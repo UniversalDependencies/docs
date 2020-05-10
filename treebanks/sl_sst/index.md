@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Joakim Nivre.
 
 Repository: [UD_Slovenian-SST](https://github.com/UniversalDependencies/UD_Slovenian-SST)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_sst25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_sst26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-NC-SA 4.0
 

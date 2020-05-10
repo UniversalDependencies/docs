@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Portuguese-GSD: Relations: `flat`
 
 This relation is universal.
+There are 1 language-specific subtypes of `flat`: <tt><a href="pt_gsd-dep-flat-name.html">flat:name</a></tt>.
 
 6540 nodes (2%) are attached to their parents as `flat`.
 

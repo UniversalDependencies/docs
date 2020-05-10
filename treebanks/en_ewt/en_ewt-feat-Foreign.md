@@ -21,7 +21,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_ewt-pos-X.html">
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (42; 100% of non-empty `Foreign`): <em>la, a, de, del, guerre, hoc, non, Acedraz, Déjà, Hochrenaissance</em>
-* `EMPTY` (1099): <em>etc, 1, 2, etc., 3, c​a​r​o​l​.​s​t​.​c​l​a​i​r​@​e​n​r​o​n​.​c​o​m, 4, a, over, -</em>
+* `EMPTY` (1099): <em>etc, 1, 2, etc., 3, c​a​r​o​l​.​s​t​.​c​l​a​i​r​@​e​n​r​o​n​.​c​o​m, 4, over, -, a</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (34) occur only with one value of `Foreign`.
 

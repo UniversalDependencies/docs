@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 112 tokens (25%) have a non-empty value of `Person`.
 77 types (30%) occur at least once with a non-empty value of `Person`.
-68 lemmas (28%) occur at least once with a non-empty value of `Person`.
+67 lemmas (28%) occur at least once with a non-empty value of `Person`.
 The feature is used with 5 part-of-speech tags: <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> (39; 9% instances), <tt><a href="aii_as-pos-VERB.html">VERB</a></tt> (36; 8% instances), <tt><a href="aii_as-pos-PRON.html">PRON</a></tt> (27; 6% instances), <tt><a href="aii_as-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="aii_as-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `AUX`

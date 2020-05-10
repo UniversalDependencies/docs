@@ -8,12 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-96 nodes (0%) are attached to their parents as `appos`.
+120 nodes (0%) are attached to their parents as `appos`.
 
-96 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.32291666666667.
+120 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.35833333333333.
 
-The following 9 pairs of parts of speech are connected with `appos`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (40; 42% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (35; 36% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (7; 7% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `appos`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (45; 38% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (45; 38% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (9; 8% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (8; 7% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 appos	color:blue
+1	Kas	kas	ADV	D	_	5	advmod	5:advmod	_
+2	Delfi	Delfi	PROPN	S	Case=Nom|Number=Sing	5	nsubj	5:nsubj	_
+3	ei	ei	AUX	V	Polarity=Neg	5	aux	5:aux	_
+4	võiks	võima	AUX	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
+5	tekitada	tekitama	VERB	V	VerbForm=Inf	0	root	0:root	_
+6	eraldi	eraldi	ADV	D	_	7	advmod	7:advmod	_
+7	rubriiki	rubriik	NOUN	S	Case=Par|Number=Sing	5	obj	5:obj	_
+8	"	"	PUNCT	Z	_	9	punct	9:punct	SpaceAfter=No
+9	tehnika	tehnika	NOUN	S	Case=Nom|Number=Sing	7	appos	7:appos	SpaceAfter=No
+10	"	"	PUNCT	Z	_	9	punct	9:punct	_
+
+~~~
 
 
 ~~~ conllu
@@ -38,38 +58,18 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 appos	color:blue
-1	Kas	kas	ADV	D	_	5	advmod	5:advmod	_
-2	Delfi	Delfi	PROPN	S	Case=Nom|Number=Sing	5	nsubj	5:nsubj	_
-3	ei	ei	AUX	V	Polarity=Neg	5	aux	5:aux	_
-4	võiks	võima	AUX	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
-5	tekitada	tekitama	VERB	V	VerbForm=Inf	0	root	0:root	_
-6	eraldi	eraldi	ADV	D	_	7	advmod	7:advmod	_
-7	rubriiki	rubriik	NOUN	S	Case=Par|Number=Sing	5	obj	5:obj	_
-8	"	"	PUNCT	Z	_	9	punct	9:punct	SpaceAfter=No
-9	tehnika	tehnika	NOUN	S	Case=Nom|Number=Sing	7	appos	7:appos	SpaceAfter=No
-10	"	"	PUNCT	Z	_	9	punct	9:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 appos	color:blue
-1	Minu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	obl	8:obl	_
-2	jaoks	jaoks	ADP	K	AdpType=Post	1	case	1:case	_
-3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
-4	ka	ka	ADV	D	_	8	advmod	8:advmod	_
-5	puhastamine	puhastamine	NOUN	S	Case=Nom|Number=Sing	8	nsubj:cop	8:nsubj	_
-6	number	number	NOUN	S	Case=Nom|Number=Sing	8	nmod	8:nmod	_
-7	ùks	üks	NUM	N	Case=Nom|Number=Sing|NumType=Card	6	appos	6:appos	_
-8	tegevus	tegevus	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	SpaceAfter=No
-9	.	.	PUNCT	Z	_	8	punct	8:punct	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 appos	color:blue
+1	pipa	pipa	PROPN	S	Case=Nom|Number=Sing	3	parataxis	3:parataxis	SpaceAfter=No
+2	:	:	PUNCT	Z	_	1	punct	1:punct	_
+3	võta	võtma	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	sirvi	sirvima	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	3:conj	_
+5	nt.	nt	NOUN	Y	Abbr=Yes	8	nmod	8:nmod	_
+6	george	george	PROPN	S	Case=Nom|Number=Sing	8	nmod	8:nmod	_
+7	orwelli	orwell	PROPN	S	Case=Gen|Number=Sing	6	flat	6:flat	_
+8	raamatut	raamat	NOUN	S	Case=Par|Number=Sing	4	obj	4:obj	_
+9	'1984'	'1984'	NUM	N	NumForm=Digit|NumType=Card	8	appos	8:appos	_
 
 ~~~
 

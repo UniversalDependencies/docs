@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 `PRON` tokens may have the following values of `Person`:
 
 * `3` (3; 100% of non-empty `Person`): <em>det</em>
-* `EMPTY` (10839): <em>han, det, som, jag, sig, du, de, vi, hon, honom</em>
+* `EMPTY` (10840): <em>han, det, som, jag, sig, du, de, vi, hon, honom</em>
 

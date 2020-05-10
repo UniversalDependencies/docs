@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1681 nodes (2%) are attached to their parents as `amod`.
+3815 nodes (3%) are attached to their parents as `amod`.
 
-1667 instances of `amod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17370612730518.
+3785 instances of `amod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22280471821756.
 
-The following 14 pairs of parts of speech are connected with `amod`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (1347; 80% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (277; 16% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (15; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `amod`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (3135; 82% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (435; 11% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (146; 4% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (34; 1% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (17; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,19 +58,11 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
 1	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	2	amod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
-2	禮	禮	NOUN	n,名詞,制度,儀礼	_	3	advcl	_	Gloss=ceremony|SpaceAfter=No
-3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
-4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=use|SpaceAfter=No
-5	辨	辨	VERB	v,動詞,行為,動作	_	3	ccomp	_	Gloss=discriminate|SpaceAfter=No
-6	君	君	NOUN	n,名詞,人,役割	_	13	nmod	_	Gloss=ruler|SpaceAfter=No
-7	臣	臣	NOUN	n,名詞,人,役割	_	6	flat	_	Gloss=vassal|SpaceAfter=No
-8	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	6	conj	_	Gloss=up|SpaceAfter=No
-9	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	8	flat	_	Gloss=down|SpaceAfter=No
-10	長	長	NOUN	n,名詞,人,関係	_	6	conj	_	Gloss=elder|SpaceAfter=No
-11	幼	幼	NOUN	n,名詞,人,関係	_	10	flat	_	Gloss=young|SpaceAfter=No
-12	之	之	SCONJ	p,助詞,接続,属格	_	6	case	_	Gloss='s|SpaceAfter=No
-13	位	位	NOUN	n,名詞,制度,場	Case=Loc	5	obj	_	Gloss=rank|SpaceAfter=No
-14	也	也	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+2	禮	禮	NOUN	n,名詞,制度,儀礼	_	6	advcl	_	Gloss=ceremony|SpaceAfter=No
+3	威	威	VERB	v,動詞,行為,態度	_	6	nsubj	_	Gloss=overawe|SpaceAfter=No
+4	嚴	嚴	VERB	v,動詞,行為,態度	_	3	flat:vv	_	Gloss=stern|SpaceAfter=No
+5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
+6	行	行	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=behave|SpaceAfter=No
 
 ~~~
 

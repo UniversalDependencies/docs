@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2424 nodes (6%) are attached to their parents as `aux`.
+2530 nodes (6%) are attached to their parents as `aux`.
 
-2424 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.09694719471947.
+2530 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.09881422924901.
 
-The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (2392; 99% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (24; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (2497; 99% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

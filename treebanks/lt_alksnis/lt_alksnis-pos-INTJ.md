@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="lt_alksnis-pos-X
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.065462).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.065341).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>A</em>.
 
@@ -66,7 +66,7 @@ Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="lt_a
 
 The highest child degree of a `INTJ` node is 4.
 
-Children of `INTJ` nodes are attached using 4 different relations: <tt><a href="lt_alksnis-dep-punct.html">punct</a></tt> (19; 83% instances), <tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt> (2; 9% instances), <tt><a href="lt_alksnis-dep-acl.html">acl</a></tt> (1; 4% instances), <tt><a href="lt_alksnis-dep-mark.html">mark</a></tt> (1; 4% instances)
+Children of `INTJ` nodes are attached using 4 different relations: <tt><a href="lt_alksnis-dep-punct.html">punct</a></tt> (19; 83% instances), <tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt> (2; 9% instances), <tt><a href="lt_alksnis-dep-ccomp.html">ccomp</a></tt> (1; 4% instances), <tt><a href="lt_alksnis-dep-mark.html">mark</a></tt> (1; 4% instances)
 
 Children of `INTJ` nodes belong to 4 different parts of speech: <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> (19; 83% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (2; 9% instances), <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 4% instances)
 

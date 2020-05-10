@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3467 nodes (2%) are attached to their parents as `det`.
+3462 nodes (2%) are attached to their parents as `det`.
 
-2014 instances of `det` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18805884049611.
+2013 instances of `det` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.183997689197.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-DET.html">DET</a></tt> (1997; 58% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (1052; 30% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (381; 11% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt>-<tt><a href="bg_btb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-DET.html">DET</a></tt> (1997; 58% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (1052; 30% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (381; 11% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt>-<tt><a href="bg_btb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt>-<tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (0%) are attached to their parents as `orphan`.
+19 nodes (0%) are attached to their parents as `orphan`.
 
-14 instances of `orphan` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.16666666666667.
+15 instances of `orphan` (79%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.10526315789474.
 
-The following 9 pairs of parts of speech are connected with `orphan`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (6; 33% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (4; 22% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 11% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 6% instances).
+The following 10 pairs of parts of speech are connected with `orphan`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (6; 32% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (4; 21% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 11% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

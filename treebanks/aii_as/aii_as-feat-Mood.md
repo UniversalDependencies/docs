@@ -11,7 +11,7 @@ It occurs with 2 different values: `Imp`, `Ind`.
 
 26 tokens (6%) have a non-empty value of `Mood`.
 13 types (5%) occur at least once with a non-empty value of `Mood`.
-6 lemmas (2%) occur at least once with a non-empty value of `Mood`.
+6 lemmas (3%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="aii_as-pos-AUX.html">AUX</a></tt> (22; 5% instances), <tt><a href="aii_as-pos-VERB.html">VERB</a></tt> (4; 1% instances).
 
 ### `AUX`

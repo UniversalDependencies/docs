@@ -166,7 +166,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 * `Neg` (116; 4% of non-empty `Polarity`): <em>nenápadně, nechápavě, netrpělivě, nesměle, nejistě, nerozhodně, nebezpečně, neochotně, nedůvěřivě, nevzrušeně</em>
 * `Pos` (3011; 96% of non-empty `Polarity`): <em>vždycky, dobře, často, víc, dlouho, konečně, rychle, brzy, stejně, náhle</em>
-* `EMPTY` (7703): <em>už, tak, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
+* `EMPTY` (7705): <em>už, tak, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
 
 <table>
   <tr><th>Paradigm <i>dlouho</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -206,12 +206,12 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>NOUN --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7082; 92%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-obl.html">obl</a></tt>]--> NOUN</tt> (6406; 95%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4780; 91%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (4508; 85%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4297; 92%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4280; 93%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3410; 100%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3408; 100%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-aux.html">aux</a></tt>]--> AUX</tt> (2516; 62%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1657; 78%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1490; 79%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1415; 81%).
+<tt>VERB --[<tt><a href="cs_fictree-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (1584; 90%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1490; 79%).
 

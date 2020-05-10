@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 flat:foreign	color:blue
-1	Projekto	projektas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
+1	Projekto	projektas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod:gen	_
 2	Digital	Digital	X	užs.	Foreign=Yes	1	nmod	1:nmod	_
 3	Preservation	Preservation	X	užs.	Foreign=Yes	2	flat:foreign	2:flat:foreign	_
 4	Europe	Europe	X	užs.	Foreign=Yes	2	flat:foreign	2:flat:foreign	_

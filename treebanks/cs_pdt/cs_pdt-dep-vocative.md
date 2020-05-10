@@ -50,7 +50,7 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 5	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
 6	běž	běžet	VERB	Vi-S---2--A----	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	10	advcl	10:advcl	_
 7	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	8	case	8:case	LId=na-1
-8	místo	místo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	6	obl	6:obl	SpaceAfter=No|LId=místo-1|LGloss=(fyzické_umístění)
+8	místo	místo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	6	obl	6:obl:na:acc	SpaceAfter=No|LId=místo-1|LGloss=(fyzické_umístění)
 9	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
 10	zkoušela	zkoušet	VERB	VpQW---XR-AA---	Aspect=Imp|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 11	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	10	obj	10:obj	_

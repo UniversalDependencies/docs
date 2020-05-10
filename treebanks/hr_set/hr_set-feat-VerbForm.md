@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-32481 tokens (16%) have a non-empty value of `VerbForm`.
-7350 types (21%) occur at least once with a non-empty value of `VerbForm`.
-2413 lemmas (13%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 5 part-of-speech tags: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (17415; 9% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (12538; 6% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (2054; 1% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (472; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (2; 0% instances).
+32485 tokens (16%) have a non-empty value of `VerbForm`.
+7349 types (21%) occur at least once with a non-empty value of `VerbForm`.
+2411 lemmas (13%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 5 part-of-speech tags: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (17393; 9% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (12559; 6% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (2054; 1% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (477; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-17415 <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+17393 <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11322; 65%), <tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11322; 65%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9477; 54%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9477; 54%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9268; 53%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11303; 65%), <tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11303; 65%), <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9473; 54%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9473; 54%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9251; 53%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (7938; 46% of non-empty `VerbForm`): <em>može, ima, kaže, treba, mogu, nema, mora, postoji, možete, imaju</em>
-* `Inf` (3384; 19% of non-empty `VerbForm`): <em>imati, pomoći, raditi, pronaći, vidjeti, reći, nastaviti, dobiti, doći, morati</em>
-* `Part` (6093; 35% of non-empty `VerbForm`): <em>izjavio, rekao, kazao, mogli, mogla, dodao, mogao, moglo, trebala, dobili</em>
+* `Fin` (7920; 46% of non-empty `VerbForm`): <em>može, ima, kaže, treba, mogu, nema, mora, postoji, možete, imaju</em>
+* `Inf` (3383; 19% of non-empty `VerbForm`): <em>imati, pomoći, raditi, pronaći, vidjeti, reći, nastaviti, dobiti, doći, morati</em>
+* `Part` (6090; 35% of non-empty `VerbForm`): <em>izjavio, rekao, kazao, mogli, mogla, dodao, mogao, moglo, trebala, dobili</em>
 
 <table>
   <tr><th>Paradigm <i>moći</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -48,15 +48,16 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-12538 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+12559 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10609; 85%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10607; 85%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (10596; 85%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8805; 70%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10626; 85%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10624; 85%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (10614; 85%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8823; 70%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (11384; 91% of non-empty `VerbForm`): <em>je, su, će, bi, nije, smo, sam, neće, nisu, ćete</em>
+* `Fin` (11401; 91% of non-empty `VerbForm`): <em>je, su, će, bi, nije, smo, sam, neće, nisu, ćete</em>
 * `Inf` (539; 4% of non-empty `VerbForm`): <em>biti, bit</em>
-* `Part` (615; 5% of non-empty `VerbForm`): <em>bio, bilo, bila, bili, bile</em>
+* `Part` (619; 5% of non-empty `VerbForm`): <em>bio, bilo, bila, bili, bile, si</em>
+* `EMPTY` (1): <em>ja</em>
 
 <table>
   <tr><th>Paradigm <i>biti</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -65,7 +66,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>bili</em></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>bila</em></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>bile</em></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>bilo</em></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>bilo, si</em></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hr_set-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>bila</em></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>bih, bi</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>bi</em></td><td></td><td></td></tr>
@@ -80,9 +81,9 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>si, jesi</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hr_set-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>nije</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>bijaše</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>je, bude, jest, Nije</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>je, bude, jest, Nije, biva</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hr_set-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>nismo</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>smo, Nismo, jesmo, budemo</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>smo, Nismo, budemo, jesmo</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hr_set-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>niste</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ste, Jeste, Niste, budete</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hr_set-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>nisu</em></td><td></td><td></td></tr>
@@ -98,22 +99,31 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (2054; 100% of non-empty `VerbForm`): <em>održana, otvorena, održan, povećana, objavljenom, održano, otvoren, rođen, postignut, usmjerene</em>
-* `EMPTY` (21831): <em>novi, sve, svi, drugi, vanjskih, prvi, glavni, novih, nove, prošle</em>
+* `EMPTY` (21763): <em>novi, sve, svi, drugi, vanjskih, prvi, glavni, novih, nove, prošle</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (636) occur only with one value of `VerbForm`.
 
 ### `ADV`
 
-472 <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `VerbForm`.
+477 <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADV` and `VerbForm` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (472; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (472; 100%).
+The most frequent other feature values with which `ADV` and `VerbForm` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (477; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (477; 100%).
 
 `ADV` tokens may have the following values of `VerbForm`:
 
-* `Conv` (472; 100% of non-empty `VerbForm`): <em>uključujući, zahvaljujući, govoreći, ističući, dodajući, ukazujući, tražeći, opisujući, pozivajući, sudeći</em>
-* `EMPTY` (8392): <em>više, samo, još, također, posto, već, kada, sada, nekoliko, međutim</em>
+* `Conv` (472; 99% of non-empty `VerbForm`): <em>uključujući, zahvaljujući, govoreći, ističući, dodajući, ukazujući, tražeći, opisujući, pozivajući, sudeći</em>
+* `Fin` (1; 0% of non-empty `VerbForm`): <em>sam</em>
+* `Inf` (1; 0% of non-empty `VerbForm`): <em>zauzvrat</em>
+* `Part` (3; 1% of non-empty `VerbForm`): <em>debelo, pomalo, radoznalo</em>
+* `EMPTY` (8457): <em>više, samo, još, također, posto, već, kada, sada, nekoliko, tako</em>
 
-`VerbForm` seems to be **lexical feature** of `ADV`. 100% lemmas (222) occur only with one value of `VerbForm`.
+<table>
+  <tr><th>Paradigm <i>biti</i></th><th><tt>Fin</tt></th><th><tt>Conv</tt></th></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>sam</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>Budući</em></td></tr>
+</table>
+
+`VerbForm` seems to be **lexical feature** of `ADV`. 100% lemmas (225) occur only with one value of `VerbForm`.
 
 ### `DET`
 
@@ -125,7 +135,7 @@ The most frequent other feature values with which `DET` and `VerbForm` co-occurr
 
 * `Fin` (1; 50% of non-empty `VerbForm`): <em>sam</em>
 * `Part` (1; 50% of non-empty `VerbForm`): <em>bilo</em>
-* `EMPTY` (7395): <em>koji, to, koje, koja, svoje, ove, toga, sve, kojima, koju</em>
+* `EMPTY` (7392): <em>koji, to, koje, koja, svoje, ove, toga, sve, kojima, koju</em>
 
 <table>
   <tr><th>Paradigm <i>biti</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
@@ -136,14 +146,14 @@ The most frequent other feature values with which `DET` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (1614; 83%),
-<tt>VERB --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (591; 60%),
+<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (1619; 83%),
+<tt>VERB --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (597; 61%),
 <tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (87; 65%),
-<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (34; 68%),
+<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (33; 67%),
 <tt>AUX --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (27; 71%),
 <tt>AUX --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (17; 77%),
 <tt>AUX --[<tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (17; 85%),
 <tt>VERB --[<tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (17; 59%),
 <tt>ADV --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADV</tt> (14; 100%),
-<tt>VERB --[<tt><a href="hr_set-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (9; 75%).
+<tt>AUX --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (9; 64%).
 

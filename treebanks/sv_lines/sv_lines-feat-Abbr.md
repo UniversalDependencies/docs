@@ -23,5 +23,5 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (17; 100% of non-empty `Abbr`): <em>dvs, osv, t.ex., bl.a., dvs., etc</em>
-* `EMPTY` (6757): <em>så, ut, där, upp, in, bara, här, hur, också, till</em>
+* `EMPTY` (6756): <em>så, ut, där, upp, in, bara, här, hur, också, till</em>
 

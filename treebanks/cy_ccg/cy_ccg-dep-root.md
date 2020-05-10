@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-956 nodes (6%) are attached to their parents as `root`.
+1567 nodes (5%) are attached to their parents as `root`.
 
-956 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.22280334728033.
+1567 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.55456285896618.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (659; 69% instances), -<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (184; 19% instances), -<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (77; 8% instances), -<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (20; 2% instances), -<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (7; 1% instances), -<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), -<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1062; 68% instances), -<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (316; 20% instances), -<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (131; 8% instances), -<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (27; 2% instances), -<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (10; 1% instances), -<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (9; 1% instances), -<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), -<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (5; 0% instances), -<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,7 +53,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 3	rhaid	rhaid	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
 4	i	i	ADP	prep	_	5	case	_	_
 5	ti	ti	PRON	indep	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
-6	ddod	dod	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	3	nmod	_	_
+6	ddod	dod	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	3	acl	_	_
 7	cyn	cyn	ADP	prep	_	8	case	_	_
 8	yfory	yfory	ADV	adv	_	6	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\n

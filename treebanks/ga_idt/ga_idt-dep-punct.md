@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4362 nodes (11%) are attached to their parents as `punct`.
+6988 nodes (11%) are attached to their parents as `punct`.
 
-2317 instances of `punct` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.0430994956442.
+3635 instances of `punct` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.99270177447052.
 
-The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (1772; 41% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (1282; 29% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (243; 6% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (235; 5% instances), <tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (163; 4% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (129; 3% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (111; 3% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (98; 2% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (96; 2% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (89; 2% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (56; 1% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (45; 1% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (18; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances), <tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
+The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (3067; 44% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (1977; 28% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (514; 7% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (372; 5% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (225; 3% instances), <tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (171; 2% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (152; 2% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (124; 2% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (108; 2% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (98; 1% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (54; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (47; 1% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (35; 1% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (22; 0% instances), <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt>-<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 10 punct	color:blue
 1	'	'	PUNCT	Punct	_	2	punct	_	SpaceAfter=No
-2	Dona	dona	ADJ	Adj	Degree=Pos	8	ccomp	_	_
+2	Dona	dona	ADJ	Adj	Degree=Pos	8	parataxis	_	_
 3	go	go	ADV	Gn	_	2	advmod	_	_
 4	leor	leor	ADJ	Adj	_	3	fixed	_	SpaceAfter=No
 5	,	,	PUNCT	Punct	_	2	punct	_	SpaceAfter=No
@@ -51,19 +51,22 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 8 punct	color:blue
-1	Glas	Glas	PROPN	Noun	Gender=Masc|Number=Sing	0	root	_	_
-2	a	a	PART	Vb	PartType=Vb|PronType=Rel	3	mark:prt	_	_
-3	bhíonn	bí	VERB	PresImp	Form=Len	1	csubj:cleft	_	_
-4	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
-5	caora	caor	NOUN	Noun	Definite=Def|Gender=Fem|Number=Plur	3	nsubj	_	_
-6	ar	ar	ADP	Simp	_	7	case	_	_
-7	dtús	tús	NOUN	Noun	Form=Ecl|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 punct	color:blue
+1	Campa	campa	NOUN	Noun	Gender=Masc|Number=Sing	0	root	_	_
+2	samhraidh	samhradh	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	Óg-Eagras	Óg-Eagras	NOUN	Noun	Gender=Masc|Number=Sing	2	flat	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	5	punct	_	_
+5	Ionad	ionad	PROPN	Noun	Gender=Masc|Number=Sing	1	nmod	_	_
+6	Mosney	Mosney	PROPN	Noun	Gender=Masc|Number=Sing	5	flat	_	SpaceAfter=No
+7	,	,	PUNCT	Punct	_	8	punct	_	_
+8	Co.	contae	PROPN	Abr	Abbr=Yes	1	nmod	_	_
+9	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	flat	_	_
+10	Mí	Mí	PROPN	Noun	Case=Gen|Gender=Masc|Number=Sing	8	flat	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

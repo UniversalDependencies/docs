@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Old_French-SRCMF: Relations: `obl:advmod`
 
 This relation is a language-specific subtype of <tt><a href="fro_srcmf-dep-obl.html">obl</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="fro_srcmf-dep-obl-mod.html">obl:mod</a></tt>.
 
 1235 nodes (1%) are attached to their parents as `obl:advmod`.
 
-1164 instances of `obl:advmod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.44777327935223.
+1163 instances of `obl:advmod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.44939271255061.
 
-The following 5 pairs of parts of speech are connected with `obl:advmod`: <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (1160; 94% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (66; 5% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (2; 0% instances).
+The following 7 pairs of parts of speech are connected with `obl:advmod`: <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (1158; 94% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (66; 5% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `obl:advmod`: <tt><a
 3	quens	_	NOUN	NOMcom	_	8	nsubj	_	_
 4	Guenes	_	PROPN	NOMpro	_	3	flat	_	_
 5	en	_	ADV	PROadv	PronType=Dem	8	obl:advmod	_	_
-6	fut	_	VERB	VERcjg	VerbForm=Fin	8	cop	_	_
+6	fut	_	AUX	VERcjg	VerbForm=Fin	8	cop	_	_
 7	mult	_	ADV	ADVgen	_	8	advmod	_	_
 8	anguisables	_	ADJ	ADJqua	_	0	root	_	_
 
@@ -60,7 +61,7 @@ The following 5 pairs of parts of speech are connected with `obl:advmod`: <tt><a
 # visual-style 8	fgColor:white
 # visual-style 8 7 obl:advmod	color:blue
 1	Si	_	ADV	ADVgen	_	3	advmod	_	_
-2	as	_	VERB	VERcjg	VerbForm=Fin	3	aux	_	_
+2	as	_	AUX	VERcjg	VerbForm=Fin	3	aux	_	_
 3	juget	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	_
 4	qu'	_	SCONJ	CONsub	_	8	mark	_	_
 5	a	_	ADP	PRE	_	6	case	_	_

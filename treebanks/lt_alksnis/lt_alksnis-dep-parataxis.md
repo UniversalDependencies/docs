@@ -44,16 +44,16 @@ The following 44 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 1	fgColor:white
 # visual-style 1 4 parataxis	color:blue
 1	Dėkok	dėkoti	VERB	vksm.asm.liep.vns.2.	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	0:root	_
-2	Dievui	dievas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	1	obj	1:obj	SpaceAfter=No
+2	Dievui	dievas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	1:obl:arg:dat	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	4	punct	4:punct	_
 4	žmogau	žmogus	NOUN	dkt.vyr.vns.Š.	Case=Voc|Gender=Masc|Number=Sing	1	parataxis	1:parataxis	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	7	punct	7:punct	_
 6	kad	kad	SCONJ	jng.	_	7	mark	7:mark	_
-7	turi	turėti	VERB	vksm.asm.tiesiog.es.vns.2.	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl	_
-8	valdžią	valdžia	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	7	obj	7:obj	SpaceAfter=No
+7	turi	turėti	VERB	vksm.asm.tiesiog.es.vns.2.	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl:kad	_
+8	valdžią	valdžia	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	7	obj	7:obj|11:nsubj	SpaceAfter=No
 9	,	,	PUNCT	skyr.	_	11	punct	11:punct	_
-10	kuri	kuris	DET	įv.mot.vns.V.	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Int	11	nsubj	11:nsubj	_
-11	rūpinasi	rūpintis	VERB	vksm.asm.sngr.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin	8	acl	8:acl	SpaceAfter=No
+10	kuri	kuris	DET	įv.mot.vns.V.	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Int,Rel	11	nsubj	8:ref	_
+11	rūpinasi	rūpintis	VERB	vksm.asm.sngr.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin	8	acl:relcl	8:acl:relcl	SpaceAfter=No
 12	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 ~~~
@@ -71,8 +71,8 @@ The following 44 pairs of parts of speech are connected with `parataxis`: <tt><a
 4	visos	visas	DET	įv.mot.dgs.V.	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur|PronType=Tot	5	det	5:det	_
 5	įstaigos	įstaiga	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	6	nsubj	6:nsubj	_
 6	yra	būti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-7	Dainavos	Dainava	PROPN	dkt.tikr.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod	_
-8	seniūnijoje	seniūnija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	6	obl	6:obl	SpaceAfter=No
+7	Dainavos	Dainava	PROPN	dkt.tikr.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod:gen	_
+8	seniūnijoje	seniūnija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	6	obl	6:obl:loc	SpaceAfter=No
 9	.	.	PUNCT	skyr.	_	6	punct	6:punct	_
 
 ~~~

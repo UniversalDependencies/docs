@@ -8,34 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (0%) are attached to their parents as `appos`.
+146 nodes (1%) are attached to their parents as `appos`.
 
-36 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.08333333333333.
+146 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.96575342465753.
 
-The following 10 pairs of parts of speech are connected with `appos`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (12; 33% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (7; 19% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (4; 11% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (3; 8% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (2; 6% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 15 pairs of parts of speech are connected with `appos`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (84; 58% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (16; 11% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (15; 10% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-X.html">X</a></tt> (5; 3% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt>-<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 appos	color:blue
-1	1912'de	1912	NOUN	NN	Case=Loc|Number=Sing	4	orphan	_	orig_deprel=obl:tmod
-2	ilk	ilk	ADJ	JJ	Number=Sing	4	amod	_	_
-3	film	film	NOUN	NN	Number=Sing	4	compound	_	_
-4	şirketi	şirket	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	orig_deprel=nsubj
-5	(	(	PUNCT	(	_	7	punct	_	SpaceAfter=No
-6	Athina	Athina	PROPN	PROPN	Number=Sing	7	compound	_	Proper=True
-7	Film	film	NOUN	NN	Number=Sing	4	appos	_	Proper=True|SpaceAfter=No
-8	)	)	PUNCT	)	_	7	punct	_	_
-9	ve	ve	CCONJ	CCONJ	_	13	cc	_	ToDo=cc-after-conj
-10	1916'da	1916	NOUN	NN	Case=Loc|Number=Sing	13	obl:tmod	_	_
-11	Asty	Asty	PROPN	PROPN	Number=Sing	12	compound	_	Proper=True
-12	Film	film	NOUN	NN	Case=Nom|Number=Sing	13	nsubj	_	Proper=True
-13	kuruldu	kur	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	4	conj	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	13	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 appos	color:blue
+1	Eşi	eş	NOUN	NN	Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	_
+2	Alice	_	PROPN	PROPN	_	1	appos	_	Proper=True|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	"	"	PUNCT	``	_	8	punct	_	SpaceAfter=No
+5	Kendi	kendi	PRON	PRR	Number=Sing|Reflex=Yes	6	amod	_	_
+6	sağlığını	sağlık	NOUN	NN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	_
+7	tamamen	tamamen	ADV	RB	_	8	advmod	_	_
+8	ihmal	ihmal	NOUN	NN	Number=Sing	12	xcomp	_	_
+9	etmesi	et	NOUN	VN	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Tense=Pres|VerbForm=Ger	8	compound:lvc	_	SpaceAfter=No
+10	.	_	PUNCT	.	_	8	punct	_	SpaceAfter=No
+11	"	_	PUNCT	''	_	8	punct	_	_
+12	dedi	de	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	12	punct	_	_
 
 ~~~
 
@@ -43,52 +42,50 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 ~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 10 appos	color:blue
-1	M.S.	M.s.	NOUN	NN	Number=Sing	3	compound	_	_
-2	833	833	NUM	CD	Number=Sing	3	compound	_	_
-3	yılında	yıl	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	18	obl:tmod	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	3	punct	_	_
-5	Nitra	Nitra	PROPN	PROPN	Number=Sing	6	compound	_	Proper=True
-6	Prensliği'nin	Prensliği	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nmod:poss	_	Proper=True
-7	(	(	PUNCT	(	_	10	punct	_	SpaceAfter=No
-8	günümüzde	gün	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Plur|Person[psor]=1	10	amod	_	_
-9	ki	ki	ADP	JJ	_	8	case	_	_
-10	Slovakya	Slovakya	PROPN	PROPN	Number=Sing	6	appos	_	Proper=True|SpaceAfter=No
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 10 appos	color:blue
+1	İlk	ilk	ADJ	JJ	Number=Sing	2	amod	_	_
+2	kralları	kral	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	3	nsubj	_	_
+3	Mojmír	Mojmír	PROPN	PROPN	Number=Sing	0	root	_	Proper=True
+4	I	i	NUM	CD	_	3	compound	_	Proper=True
+5	(	(	PUNCT	(	_	10	punct	_	SpaceAfter=No
+6	830	_	NUM	CD	Number=Sing	9	nmod:poss	_	SpaceAfter=No
+7	-	-	PUNCT	-	_	8	punct	_	SpaceAfter=No
+8	846	846	NUM	CD	Number=Sing	6	conj	_	_
+9	arasında	ara	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl	_	_
+10	hükümdar	hükümdar	NOUN	NN	Number=Sing	3	appos	_	SpaceAfter=No
 11	)	)	PUNCT	)	_	10	punct	_	_
-12	fethi	feth	NOUN	NN	Number=Sing|Number[psor]=Sing|Person[psor]=3	18	obl	_	_
-13	ile	ile	ADP	IN	_	12	case	_	_
-14	Büyük	büyük	ADJ	JJ	Number=Sing	16	amod	_	Proper=True
-15	Moravya	Moravya	PROPN	PROPN	Number=Sing	16	compound	_	Proper=True
-16	devleti	devlet	NOUN	NN	Number=Sing|Number[psor]=Sing|Person[psor]=3	17	compound	_	Proper=True
-17	haline	hal	NOUN	NN	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	18	obl	_	_
-18	gelmiştir	gel	VERB	VB	Aspect=Perf|Evident=Nfh|Mood=Gen|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-19	.	.	PUNCT	.	_	18	punct	_	_
+12	olmuştur	ol	AUX	VB	Aspect=Perf|Evident=Nfh|Mood=Gen|Number=Sing|Person=3|Tense=Past	3	cop	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 appos	color:blue
-1	Baş	baş	NOUN	NN	Number=Sing	2	compound	_	_
-2	karakterlerden	karakter	NOUN	NN	Case=Abl|Number=Plur	3	compound	_	_
-3	biri	bir	PRON	PRI	Number=Sing|Polarity=Pos	5	acl:relcl	_	_
-4	olan	ol	AUX	VJ	Number=Sing|Polarity=Pos	3	cop	_	_
-5	Negan	Negan	PROPN	PROPN	Case=Nom|Number=Sing	13	nsubj	_	Proper=True
-6	(	(	PUNCT	(	_	7	punct	_	SpaceAfter=No
-7	Jeffrey	Jeffrey	PROPN	PROPN	Number=Sing	5	appos	_	Proper=True
-8	Dean	Dean	PROPN	PROPN	Number=Sing	7	flat:name	_	Proper=True
-9	Morgan	Morgan	PROPN	PROPN	Number=Sing	7	flat:name	_	Proper=True|SpaceAfter=No
-10	)	)	PUNCT	)	_	7	punct	_	_
-11	bazı	bazı	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	12	det	_	_
-12	özgürlüklere	özgürlük	NOUN	NN	Case=Dat|Number=Plur	13	obl	_	_
-13	sahip	sah	ADJ	JJ	Number=Sing	0	root	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	13	punct	_	_
+# visual-style 7 9 appos	color:blue
+1	1.	1	NUM	CD	Number=Sing|NumType=Ord	2	amod	_	Proper=True
+2	Henry'nin	Henry	PROPN	PROPN	Case=Gen|Number=Sing	3	nmod:poss	_	Proper=True
+3	yönetiminde	yönetim	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obl	_	_
+4	sadece	sadece	ADV	RB	_	7	advmod	_	_
+5	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	6	det	_	_
+6	avuç	avuç	NOUN	NN	Number=Sing	7	clf	_	_
+7	insan	insan	NOUN	NN	Case=Nom|Number=Sing	11	nsubj	_	_
+8	(	(	PUNCT	(	_	9	punct	_	SpaceAfter=No
+9	kontluklar	kontluk	NOUN	NN	Number=Plur	7	appos	_	SpaceAfter=No
+10	)	)	PUNCT	)	_	9	punct	_	_
+11	bulunmuş	bul	VERB	VB	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+12	ve	ve	CCONJ	CCONJ	_	16	cc	_	_
+13	bunlar	bu	PRON	PRI	Case=Nom|Number=Plur|Polarity=Pos	16	nsubj	_	_
+14	büyük	büyük	ADJ	JJ	Number=Sing	15	amod	_	_
+15	oranda	oran	NOUN	NN	Case=Loc|Number=Sing	16	obl	_	_
+16	sembolik	sembolik	ADJ	JJ	Number=Sing	11	conj	_	_
+17	kalmıştır	kal	VERB	VB	Aspect=Perf|Evident=Nfh|Mood=Gen|Number=Sing|Person=3|Tense=Past	16	compound	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	16	punct	_	_
 
 ~~~
 

@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>mi</em> (<tt><a href="tr_gb-pos-AUX.h
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 25.250000 (the average of all parts of speech is 2.302829).
+The form / lemma ratio of `AUX` is 25.250000 (the average of all parts of speech is 2.304425).
 
 The 1st highest number of forms (86) was observed with the lemma “ol”: <em>olabilir, olabilirdim, olacak, olacaklar, olacaksın, olacaksınız, olacaktı, olacağı, olacağım, olacağımızı, olacağına, olacağını, olacağız, olalım, olamayacaksın, olamayacağını, olamaz, olamazsın, olan, olarak, olayım, oldu, olduk, olduklarını, olduktan, oldum, oldun, olduğu, olduğuna, olduğundan, olduğunu, olma, olmadı, olmadık, olmadığım, olmadığın, olmak, olmalı, olmalılar, olmalıydım, olmalıyım, olmalıyız, olmamalarına, olmamız, olmasaydım, olması, olmasın, olmasına, olmasını, olmayacak, olmayacağın, olmayan, olmayız, olmazsa, olmazsın, olmuyor, olmuş, olmuşlar, olmuştur, olsa, olsam, olsan, olsaydı, olsaydım, olsaymış, olsaymışım, olsun, olun, olur, olurdu, olurlardı, olursa, olursak, olursam, olursan, olurum, oluruz, oluyor, oluyordu, oluyorduk, oluyorlar, oluyorlardı, oluyormuş, oluyorsun, oluyorum, oluyoruz</em>.
 

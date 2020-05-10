@@ -57,8 +57,8 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 cop	color:blue
-1	Herkesin	herkes	PRON	_	Case=Gen|Number=Sing	2	nsubj	_	_
-2	burada	bura	PRON	_	Case=Loc|Number=Sing	4	ccomp	_	_
+1	Herkesin	herkes	PRON	_	Case=Gen|Number=Sing|PronType=Prs	2	nsubj	_	_
+2	burada	bura	PRON	_	Case=Loc|Number=Sing|PronType=Dem	4	ccomp	_	_
 3	olduğunu	ol	AUX	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	2	cop	_	_
 4	bilmiyordum	bil	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_

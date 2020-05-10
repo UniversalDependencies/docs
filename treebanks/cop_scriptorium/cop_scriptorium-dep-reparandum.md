@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `reparandum`.
+7 nodes (0%) are attached to their parents as `reparandum`.
 
-5 instances of `reparandum` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.8.
+7 instances of `reparandum` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.85714285714286.
 
-The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 20% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (1; 20% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (1; 20% instances).
+The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 14% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 14% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (1; 14% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 14% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 14% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a
 2	ⲟⲩⲟⲓ	ⲟⲩⲟⲓ	NOUN	N	_	0	root	_	Orig=ⲟⲩⲟⲓ̈
 3	ⲛ	ⲛ	ADP	PREP	_	4	case	_	Orig=ⲛ̄
 4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	2	obl	_	_
-5	ⲉⲧⲉⲣⲉ	ⲉⲧⲉⲣⲉ	AUX	CREL	_	9	aux	_	_
+5	ⲉⲧⲉⲣⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
 6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	9	nsubj	_	_
 8	ⲛⲁ	ⲛⲁ	AUX	FUT	_	9	aux	_	_

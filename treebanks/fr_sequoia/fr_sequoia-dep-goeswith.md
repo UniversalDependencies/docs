@@ -73,7 +73,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 27	AI	AI	NOUN	_	_	12	appos	_	_
 28	/	/	SYM	_	_	27	dep	_	_
 29	IDM	IDM	NOUN	_	_	27	nmod	_	_
-30	ST-	ST-	NOUN	_	_	27	nmod	_	SpaceAfter=No
+30	ST-	ST-	ADJ	_	_	27	amod	_	SpaceAfter=No
 31	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
 32	)	)	PUNCT	_	_	8	punct	_	_
 33	devant	devoir	VERB	_	Tense=Pres|VerbForm=Part	4	acl	_	_

@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `nmod:gsubj`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-nmod.html">nmod</a></tt>.
-There are also 2 other language-specific subtypes of `nmod`: <tt><a href="myv_jr-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="myv_jr-dep-nmod-gobj.html">nmod:gobj</a></tt>.
+There are also 5 other language-specific subtypes of `nmod`: <tt><a href="myv_jr-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="myv_jr-dep-nmod-gobj.html">nmod:gobj</a></tt>, <tt><a href="myv_jr-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="myv_jr-dep-nmod-part.html">nmod:part</a></tt>, <tt><a href="myv_jr-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-9 nodes (0%) are attached to their parents as `nmod:gsubj`.
+10 nodes (0%) are attached to their parents as `nmod:gsubj`.
 
-9 instances of `nmod:gsubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.88888888888889.
+10 instances of `nmod:gsubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 3 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (5; 56% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (3; 33% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 11% instances).
+The following 4 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (5; 50% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (3; 30% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 10% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 3	шкань	шка	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	4	nmod:gsubj	_	GTtags=SP,Gen,Indef
 4	ютазь	ютамс	VERB	V	Derivation=Ozj|Valency=2|VerbForm=Conv	6	advcl	_	GTtags=TV,Der/Озь,Ger
 5	чись	чи	NOUN	N	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	GTtags=Sg,Nom,Def
-6	чопавтсь	чопавтемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
+6	чопавтсь	чопавтемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
 7	роштятнень	роштя	NOUN	N	Case=Gen|Definite=Def|Number=Plur	6	obl	_	GTtags=Pl,Gen,Def
 8	потмос	потмо	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	7	case	_	GTtags=Sem/Plc,SP,Ill,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	6	punct	_	_
@@ -53,36 +53,35 @@ The following 3 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 15 nmod:gsubj	color:blue
-1	Сонсь	сонсь	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	nsubj	_	GTtags=Refl,Sg3,Nom
-2	яла	яла	ADV	Adv	AdvType=Tim	3	advmod	_	GTtags=Sem/Time
-3	соракалесь	соракалемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
-4	апак	апак	AUX	Pcle	Polarity=Neg	5	aux:neg	_	GTtags=Neg
-5	учо	учомс	VERB	V	Connegative=Yes|Valency=2	6	advcl	_	GTtags=TV,ConNeg
-6	тамашанть	тамаша	NOUN	N	Case=Gen|Definite=Def|Number=Sing	3	obl	_	GTtags=Sg,Gen,Def
-7	эйстэ	эйстэ	ADP	Adp	Case=Ela	6	case	_	GTtags=Ela
-8	прясто	пря	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	3	obl	_	GTtags=Sem/Plc,SP,Ela,Indef
-9	пильгс	пильге	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	8	fixed	_	GTtags=SP,Ill,Indef|SpaceAfter=No
-10	,	,	PUNCT	CLB	_	11	punct	_	_
-11	учось	учомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=2	3	conj	_	GTtags=TV,Ind,Prt1,ScSg3
-12	—	—	PUNCT	PUNCT	_	13	punct	_	_
-13	витьксты	витькстамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	11	ccomp	_	GTtags=IV,Ind,Prs,ScSg3
-14	кияк	кияк	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	13	nsubj	_	GTtags=Indef,Sg,Nom
-15	сонзэ	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	18	nmod:gsubj	_	GTtags=Pers,Sg3,Gen
-16	омбоцеде	омбоцеде	ADV	Adv	AdvType=Tim|Case=Abl|NumType=Ord	18	advmod	_	GTtags=Ord,Sem/Time,Abl
-17	мирденень	мирде	NOUN	N	Case=Dat|Definite=Ind|Number=Plur,Sing	18	obl	_	GTtags=Sem/Kin_Mal,SP,Dat,Indef
-18	лисемадонть	лисемс	VERB	V	Case=Abl|Definite=Def|Number=Sing|Valency=1|VerbForm=Vnoun	13	obl	_	GTtags=IV,NomAct,Sg,Abl,Def
-19	Елеськанень	Елеська	PROPN	N	Case=Dat|Definite=Ind|Number=Plur,Sing	13	obl	_	GTtags=Sem/Plc,SP,Dat,Indef
-20	—	—	PUNCT	PUNCT	_	21	punct	_	_
-21	ушодови	ушодовомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	13	conj	_	GTtags=IV,Ind,Prs,ScSg3
-22	сёвнома	сёвномс	VERB	V	Case=Nom|Definite=Ind|Number=Sing|Valency=2|VerbForm=Vnoun	21	nsubj	_	GTtags=TV,NomAct,Sg,Nom,Indef
-23	ды	ды	CCONJ	CC	_	24	cc	_	_
-24	тюрезевемаяк	тюрезевемс	VERB	V	Case=Nom|Clitic=Gak|Definite=Ind|Number=Sing|Valency=1|VerbForm=Vnoun	22	conj	_	GTtags=IV,NomAct,Sg,Nom,Indef,Clitic=Gak|SpaceAfter=No
-25	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 13 nmod:gsubj	color:blue
+1	―	―	PUNCT	PUNCT	_	3	punct	_	_
+2	Звездов	звездов	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Indef
+3	ёвтнесь	ёвтнемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	7	punct	_	_
+5	кода	кода	ADV	Adv	AdvType=Man|PronType=Int	7	advmod	_	GTtags=Interr,Manner
+6	поптнэ	поп	NOUN	N	Case=Nom|Definite=Def|Number=Plur	7	nsubj	_	GTtags=Pl,Nom,Def
+7	анокстасть	анокстамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=2	3	xcomp	_	GTtags=TV,Ind,Prt1,ScPl3
+8	велеванть	веле	NOUN	N	Case=Prl|Definite=Def|Number=Sing	7	obl	_	GTtags=Sem/Plc,Sg,Prl,Def
+9	ютавтомо	ютавтомс	VERB	V	Case=Loc|Valency=2|VerbForm=Inf	7	xcomp	_	GTtags=TV,Inf,Loc
+10	велень	веле	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	11	nmod:poss	_	GTtags=Sem/Plc,SP,Gen,Indef
+11	озкст	озкс	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	9	obj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
+12	,	,	PUNCT	CLB	_	16	punct	_	_
+13	якстеретнень	якстере	ADJ	A	Case=Gen|Definite=Def|Number=Plur	16	nmod:gsubj	_	GTtags=Pl,Gen,Def
+14	седе	седе	ADV	Adv	Degree=Cmp	15	advmod:deg	_	GTtags=Comp
+15	курок	курок	ADV	Adv	AdvType=Tim	16	advmod:tmod	_	GTtags=Temp
+16	маштовомаст	маштовома	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	11	conj	_	GTtags=Sg,Gen,PxPl3
+17	кис	кис	ADP	Adp	_	16	case	_	_
+18	ды	ды	CCONJ	CC	_	22	cc	_	_
+19	Колчаконь	Колчак	PROPN	N	Case=Gen|Definite=Ind|NameType=Sur|Number=Plur,Sing	20	nmod:poss	_	GTtags=Prop,Sem/Sur,SP,Gen,Indef
+20	армиянть	армия	NOUN	N	Case=Gen|Definite=Def|Number=Sing	22	nmod:poss	_	GTtags=Sg,Gen,Def
+21	шумбра	шумбра	ADJ	A	_	22	compound	_	_
+22	чинзэ	чи	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	conj	_	GTtags=Sg,Gen,PxSg3
+23	кис	кис	ADP	Adp	_	22	case	_	GTtags=|SpaceAfter=No
+24	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

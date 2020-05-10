@@ -199,7 +199,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 * `Acc` (27; 79% of non-empty `Case`): <em>raz, razy</em>
 * `Gen` (2; 6% of non-empty `Case`): <em>ráz</em>
 * `Nom` (5; 15% of non-empty `Case`): <em>raz</em>
-* `EMPTY` (4399): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
+* `EMPTY` (4411): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
 
 <table>
   <tr><th>Paradigm <i>raz</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>

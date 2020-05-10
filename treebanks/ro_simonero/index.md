@@ -16,11 +16,11 @@ Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.5 release.
 
-The following people have contributed to making this treebank part of UD: Verginica Mitrofan, Maria, Barbu Mititelu.
+The following people have contributed to making this treebank part of UD: Maria Mitrofan, Verginica Barbu Mititelu.
 
 Repository: [UD_Romanian-SiMoNERo](https://github.com/UniversalDependencies/UD_Romanian-SiMoNERo)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_simonero25)<br />
-Download all treebanks: [UD 2.5](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_simonero26)<br />
+Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 

@@ -25,7 +25,7 @@ The following 15 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 # visual-style 2 4 csubj:cop	color:blue
 1	's	is	AUX	Wp-i	_	2	cop	_	_
 2	dòcha	dòcha	NOUN	Uf	_	0	root	_	_
-3	gu	gu	PART	Qa	PartType=Ad	4	mark:prt	_	_
+3	gu	gu	PART	Qa	_	4	mark:prt	_	_
 4	robh	bi	VERB	V-s--d	Tense=Past	2	csubj:cop	_	_
 
 ~~~

@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5 4 nummod	color:blue
 1	Ahmet’te	Ahmet	PROPN	_	Case=Loc|Number=Sing	6	nmod	_	_
 2	de	de	ADV	_	_	1	advmod:emph	_	_
-3	bunlardan	bu	PRON	_	Case=Abl|Number=Plur	5	nmod:part	_	_
+3	bunlardan	bu	PRON	_	Case=Abl|Number=Plur|PronType=Dem	5	nmod:part	_	_
 4	bir	bir	NUM	_	NumType=Card	5	nummod	_	_
 5	tane	tane	NOUN	_	Case=Nom|Number=Sing	6	nsubj:cop	_	_
 6	var	var	ADJ	_	_	0	root	_	SpaceAfter=No
@@ -39,9 +39,9 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nummod	color:blue
-1	yirminin	yirmi	NUM	_	Case=Gen|Number=Sing	3	nmod:part	_	_
-2	sekizde	sekiz	NUM	_	Case=Loc|Number=Sing	3	nummod	_	_
-3	yedisi	yedi	NUM	_	Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	_
+1	yirminin	yirmi	NUM	_	Case=Gen|Number=Sing|NumType=Card	3	nmod:part	_	_
+2	sekizde	sekiz	NUM	_	Case=Loc|Number=Sing|NumType=Card	3	nummod	_	_
+3	yedisi	yedi	NUM	_	Number=Sing|Number[psor]=Sing|NumType=Card|Person[psor]=3	0	root	_	_
 
 ~~~
 

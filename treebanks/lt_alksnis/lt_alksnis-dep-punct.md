@@ -23,12 +23,12 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 8 punct	color:blue
 1	Viso	visas	DET	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Tot	2	det	2:det	_
-2	to	tas	DET	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	4	obj	4:obj	_
+2	to	tas	DET	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	4	obl:arg	4:obl:arg:gen	_
 3	galima	galėti	VERB	vksm.dlv.neveik.es.bev.	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	_
 4	išvengti	išvengti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	3	xcomp	3:xcomp	_
 5	nusprendus	nuspręsti	VERB	vksm.pad.būt-k.	Aspect=Perf|Polarity=Pos|Tense=Past|VerbForm=Ger	4	advcl	4:advcl	_
 6	dirbti	dirbti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	5	xcomp	5:xcomp	_
-7	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	6	obl	6:obl	SpaceAfter=No
+7	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	6	obl	6:obl:loc	SpaceAfter=No
 8	.	.	PUNCT	skyr.	_	3	punct	3:punct	_
 
 ~~~
@@ -41,10 +41,10 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 6 punct	color:blue
 1	Darbas	darbas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-2	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	1	obl	1:obl	_
+2	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	1	obl	1:obl:loc	_
 3	–	–	PUNCT	skyr.	_	4	punct	4:punct	_
 4	kupinas	kupinas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	appos	1:appos	_
-5	pagundų	pagunda	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	4	obj	4:obj	SpaceAfter=No
+5	pagundų	pagunda	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	4	obl:arg	4:obl:arg:gen	SpaceAfter=No
 6	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 ~~~
@@ -63,7 +63,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	V	V.	X	sutr.	Abbr=Yes	7	nmod	7:nmod	SpaceAfter=No
 6	.	.	PUNCT	skyr.	_	5	punct	5:punct	_
 7	Adamkus	Adamkus	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	_
-8	siūlė	siūlyti	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	2	acl	2:acl	_
+8	siūlė	siūlyti	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	2	ccomp	2:ccomp	_
 9	ne	ne	PART	dll.	_	10	advmod:emph	10:advmod:emph	_
 10	tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	8	obj	8:obj	SpaceAfter=No
 11	.	.	PUNCT	skyr.	_	2	punct	2:punct	_

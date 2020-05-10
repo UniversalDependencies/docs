@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Ind` (8088; 80% of non-empty `Mood`): يتم، يمكن، يجب، يقول، يذكر، يعني، تعتبر، يرى، تبلغ، تضم
 * `Jus` (666; 7% of non-empty `Mood`): يكن، يتم، تكن، يمكن، يصدر، يحدد، يعد، تتجاوز، تعد، يستبعد
 * `Sub` (1275; 13% of non-empty `Mood`): يكون، تكون، تصل، يصل، يتم، تصبح، تقوم، يمكن، تدخل، تستطيع
-* `EMPTY` (11219): قال، كان، أضاف، كانت، تم، أكد، أشار، أوضح، أعلن، قالت
+* `EMPTY` (11215): قال، كان، أضاف، كانت، تم، أكد، أشار، أوضح، أعلن، قالت
 
 <table>
   <tr><th>Paradigm <i>قَام</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th><th><tt>Jus</tt></th></tr>
@@ -50,7 +50,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `Ind` (97; 49% of non-empty `Mood`): يكون، تكون، تكونون، أكون
 * `Jus` (25; 13% of non-empty `Mood`): يكن، تكن، تعد
 * `Sub` (73; 37% of non-empty `Mood`): يكون، تكون، اكون، نكون، يكونا
-* `EMPTY` (1968): س، قد، كان، سوف، ليس، ما، كانت، ليست، هل، إلا
+* `EMPTY` (1957): س، قد، كان، ليس، سوف، ما، كانت، ليست، هل، كانوا
 
 <table>
   <tr><th>Paradigm <i>كَان</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th><th><tt>Jus</tt></th></tr>
