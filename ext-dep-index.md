@@ -19,7 +19,6 @@ Ukrainian
 Latin
 - [acl:cleft]():
 Faroese,
-Naija,
 Norwegian,
 Swedish
 - [acl:focus]():
@@ -28,9 +27,12 @@ Breton
 Portuguese
 - [acl:part]():
 Portuguese
+- [acl:periph]():
+Naija
 - [acl:poss]():
 Kazakh
 - [acl:relcl]():
+Albanian,
 Arabic,
 Armenian,
 Assyrian,
@@ -38,6 +40,7 @@ Belarusian,
 Breton,
 Bulgarian,
 Chinese,
+Czech,
 Danish,
 Dutch,
 English,
@@ -51,17 +54,20 @@ Greek,
 Hebrew,
 Hindi,
 Hindi English,
+Icelandic,
 Indonesian,
 Irish,
 Italian,
 Karelian,
 Kazakh,
+Komi Permyak,
 Komi Zyrian,
 Korean,
 Latin,
 Lithuanian,
 Livvi,
 Marathi,
+Moksha,
 Naija,
 North Sami,
 Norwegian,
@@ -73,13 +79,13 @@ Portuguese,
 Russian,
 Sanskrit,
 Scottish Gaelic,
+Slovak,
 Spanish,
 Swedish,
 Swedish Sign Language,
 Swiss German,
 Telugu,
 Thai,
-Turkish,
 Ukrainian,
 Urdu,
 Welsh,
@@ -93,7 +99,8 @@ Latin
 - [advcl:arg]():
 Latin
 - [advcl:cleft]():
-French
+French,
+Naija
 - [advcl:cmpr]():
 Polish
 - [advcl:cond]():
@@ -101,6 +108,12 @@ Telugu,
 Uyghur
 - [advcl:coverb]():
 Cantonese
+- [advcl:emph]():
+Naija
+- [advcl:lmod]():
+Komi Permyak
+- [advcl:mmod]():
+Komi Permyak
 - [advcl:periph]():
 Naija
 - [advcl:relcl]():
@@ -111,16 +124,26 @@ Ukrainian
 Ukrainian
 - [advcl:tcl]():
 Romanian
+- [advcl:tmod]():
+Erzya,
+Komi Permyak,
+Moksha,
+Skolt Sami
 
 
 
 ## advmod
 - [advmod:appos]():
-Latin
+Latin,
+Naija
 - [advmod:arg]():
 Polish
 - [advmod:cc]():
 Latin
+- [advmod:deg]():
+Erzya,
+Komi Zyrian,
+Moksha
 - [advmod:det]():
 Ukrainian
 - [advmod:df]():
@@ -144,8 +167,20 @@ Tamil,
 Turkish,
 Upper Sorbian,
 Uyghur
+- [advmod:lmod]():
+Erzya,
+Komi Permyak,
+Komi Zyrian,
+Moksha,
+Skolt Sami
 - [advmod:locy]():
 Hungarian
+- [advmod:mmod]():
+Erzya,
+Komi Permyak,
+Komi Zyrian,
+Moksha,
+Skolt Sami
 - [advmod:mode]():
 Hungarian
 - [advmod:neg]():
@@ -157,6 +192,8 @@ Polish
 - [advmod:obl]():
 Hungarian,
 Old French
+- [advmod:periph]():
+Naija
 - [advmod:que]():
 Hungarian
 - [advmod:tfrom]():
@@ -166,6 +203,7 @@ Hungarian
 - [advmod:tmod]():
 Erzya,
 Komi Permyak,
+Komi Zyrian,
 Moksha,
 Romanian,
 Skolt Sami,
@@ -184,6 +222,8 @@ Latin
 Hungarian
 - [amod:attlvc]():
 Hungarian
+- [amod:emph]():
+Naija
 - [amod:flat]():
 Polish
 - [amod:mode]():
@@ -222,7 +262,8 @@ Moksha,
 North Sami,
 Skolt Sami
 - [aux:opt]():
-Erzya
+Erzya,
+Moksha
 - [aux:part]():
 Maltese
 - [aux:pass]():
@@ -230,11 +271,11 @@ Afrikaans,
 Ancient Greek,
 Arabic,
 Belarusian,
+Bhojpuri,
 Breton,
 Bulgarian,
 Buryat,
 Chinese,
-Croatian,
 Czech,
 Dutch,
 English,
@@ -251,7 +292,6 @@ Latvian,
 Lithuanian,
 Maltese,
 Marathi,
-Naija,
 Norwegian,
 Old Church Slavonic,
 Old French,
@@ -336,8 +376,9 @@ Turkish
 
 
 ## ccomp
+- [ccomp:agent]():
+Naija
 - [ccomp:cleft]():
-Naija,
 Polish
 - [ccomp:obj]():
 Hungarian,
@@ -396,6 +437,7 @@ English,
 Estonian,
 Finnish,
 German,
+Icelandic,
 Irish,
 Karelian,
 Naija,
@@ -420,6 +462,7 @@ Erzya,
 Hindi,
 Kurmanji,
 Marathi,
+Naija,
 Tagalog,
 Telugu,
 Turkish,
@@ -450,16 +493,12 @@ Chinese
 
 
 ## conj
-- [conj:appos]():
-Naija
-- [conj:coord]():
-Naija
 - [conj:dicto]():
 Naija
+- [conj:expl]():
+Latin
 - [conj:extend]():
 Slovenian
-- [conj:redup]():
-Naija
 - [conj:svc]():
 Ukrainian
 
@@ -473,7 +512,8 @@ Polish
 - [cop:own]():
 Finnish,
 Karelian,
-Livvi
+Livvi,
+Moksha
 
 
 
@@ -482,13 +522,16 @@ Livvi
 Irish,
 Scottish Gaelic
 - [csubj:cop]():
+Erzya,
 Estonian,
 Finnish,
 Irish,
 Livvi,
+Moksha,
 Scottish Gaelic,
 Turkish
 - [csubj:pass]():
+Albanian,
 Amharic,
 Ancient Greek,
 Arabic,
@@ -496,7 +539,7 @@ Armenian,
 Bulgarian,
 Catalan,
 Chinese,
-Croatian,
+Classical Chinese,
 Czech,
 English,
 French,
@@ -520,8 +563,6 @@ Sanskrit,
 Slovak,
 Spanish,
 Swedish
-- [csubj:quasi]():
-Naija
 
 
 
@@ -537,8 +578,12 @@ Korean
 
 
 ## det
+- [det:adj]():
+Albanian
 - [det:def]():
 Hebrew
+- [det:noun]():
+Albanian
 - [det:numgov]():
 Czech,
 Polish,
@@ -563,12 +608,13 @@ English,
 German,
 Hindi,
 Italian,
-Naija,
 Persian,
 Portuguese,
 Spanish,
 Thai,
 Turkish
+- [det:pron]():
+Albanian
 - [det:rel]():
 Bambara
 
@@ -591,8 +637,28 @@ Classical Chinese
 
 
 ## dislocated
+- [dislocated:acl]():
+Latin
+- [dislocated:advcl]():
+Latin
+- [dislocated:advmod]():
+Latin
+- [dislocated:ccomp]():
+Latin
 - [dislocated:cleft]():
 Mbya Guarani
+- [dislocated:conj]():
+Latin
+- [dislocated:csubj]():
+Latin
+- [dislocated:nmod]():
+Latin
+- [dislocated:nsubj]():
+Latin
+- [dislocated:obj]():
+Latin
+- [dislocated:obl]():
+Latin
 
 
 
@@ -616,7 +682,6 @@ Upper Sorbian
 - [expl:poss]():
 Romanian
 - [expl:pv]():
-Croatian,
 Czech,
 Dutch,
 German,
@@ -627,7 +692,8 @@ Romanian,
 Slovak,
 Upper Sorbian
 - [expl:subj]():
-French
+French,
+Naija
 
 
 
@@ -645,6 +711,7 @@ Arabic,
 Belarusian,
 Buryat,
 Chinese,
+Croatian,
 Czech,
 English,
 Estonian,
@@ -656,6 +723,7 @@ Italian,
 Latin,
 Latvian,
 Lithuanian,
+Naija,
 Norwegian,
 Persian,
 Polish,
@@ -679,6 +747,7 @@ Gothic,
 Hebrew,
 Hindi,
 Hungarian,
+Icelandic,
 Indonesian,
 Irish,
 Italian,
@@ -691,6 +760,7 @@ Latin,
 Latvian,
 Livvi,
 Maltese,
+Moksha,
 Norwegian,
 Old Church Slavonic,
 Old Russian,
@@ -701,7 +771,6 @@ Slovenian,
 Spanish,
 Swedish,
 Thai,
-Turkish,
 Ukrainian,
 Welsh
 - [flat:range]():
@@ -738,8 +807,6 @@ Chinese
 Old French
 - [mark:comp]():
 Chinese
-- [mark:obj]():
-Old French
 - [mark:obl]():
 Old French
 - [mark:prt]():
@@ -766,10 +833,11 @@ Romanian,
 Welsh
 - [nmod:appos]():
 French,
-Latin
+Latin,
+Naija,
+Old French
 - [nmod:arg]():
-Polish,
-Turkish
+Polish
 - [nmod:att]():
 Hungarian
 - [nmod:attlvc]():
@@ -788,6 +856,8 @@ Turkish,
 Uyghur
 - [nmod:dat]():
 Kurmanji
+- [nmod:emph]():
+Naija
 - [nmod:flat]():
 Polish
 - [nmod:gen]():
@@ -804,10 +874,12 @@ Finnish,
 Karelian
 - [nmod:ins]():
 Uyghur
+- [nmod:lmod]():
+Erzya,
+Komi Permyak
 - [nmod:npmod]():
 Armenian,
-English,
-Naija
+English
 - [nmod:obl]():
 Hungarian
 - [nmod:obllvc]():
@@ -815,11 +887,17 @@ Hungarian
 - [nmod:own]():
 Buryat
 - [nmod:part]():
+Erzya,
+Moksha,
+Skolt Sami,
 Turkish,
 Uyghur
+- [nmod:periph]():
+Naija
 - [nmod:pmod]():
 Romanian
 - [nmod:poss]():
+Albanian,
 Arabic,
 Armenian,
 Assyrian,
@@ -828,11 +906,13 @@ Breton,
 Danish,
 Dutch,
 English,
+Erzya,
 Faroese,
 Finnish,
 German,
 Hebrew,
 Hindi,
+Icelandic,
 Indonesian,
 Irish,
 Karelian,
@@ -843,6 +923,7 @@ Kurmanji,
 Livvi,
 Maltese,
 Marathi,
+Moksha,
 Naija,
 North Sami,
 Persian,
@@ -884,16 +965,17 @@ Armenian,
 French
 - [nsubj:cop]():
 Breton,
+Erzya,
 Estonian,
 Finnish,
 Hebrew,
 Karelian,
 Komi Permyak,
 Livvi,
+Moksha,
 Sanskrit,
+Skolt Sami,
 Turkish
-- [nsubj:expl]():
-Naija
 - [nsubj:lvc]():
 Hungarian
 - [nsubj:nc]():
@@ -916,7 +998,6 @@ Cantonese,
 Catalan,
 Chinese,
 Classical Chinese,
-Croatian,
 Czech,
 Dutch,
 English,
@@ -935,7 +1016,7 @@ Latvian,
 Lithuanian,
 Maltese,
 Marathi,
-Naija,
+Moksha,
 Norwegian,
 Old Church Slavonic,
 Old Russian,
@@ -954,12 +1035,12 @@ Thai,
 Upper Sorbian
 - [nsubj:periph]():
 Cantonese
-- [nsubj:quasi]():
-Naija
 
 
 
 ## nummod
+- [nummod:det]():
+Naija
 - [nummod:entity]():
 Belarusian,
 Russian
@@ -976,6 +1057,10 @@ Sanskrit,
 Serbian,
 Ukrainian,
 Upper Sorbian
+- [nummod:mod]():
+Naija
+- [nummod:periph]():
+Naija
 
 
 
@@ -985,7 +1070,8 @@ Old French
 - [obj:advneg]():
 Old French
 - [obj:agent]():
-French
+French,
+Naija
 - [obj:appl]():
 Wolof
 - [obj:cau]():
@@ -994,7 +1080,8 @@ Uyghur
 Wolof
 - [obj:lvc]():
 French,
-Hungarian
+Hungarian,
+Naija
 - [obj:obl]():
 Old French
 - [obj:periph]():
@@ -1025,13 +1112,15 @@ Italian,
 Latin,
 Lithuanian,
 Maltese,
+Moksha,
+Naija,
 Old Church Slavonic,
 Old Russian,
 Polish,
 Portuguese,
 Russian,
 Sanskrit,
-Slovak,
+Skolt Sami,
 Swedish,
 Turkish,
 Welsh
@@ -1043,6 +1132,7 @@ Czech,
 French,
 German,
 Greek,
+Icelandic,
 Latin,
 Lithuanian,
 Maltese,
@@ -1056,12 +1146,20 @@ Telugu
 - [obl:cmpr]():
 Polish
 - [obl:lmod]():
-Classical Chinese
+Classical Chinese,
+Erzya,
+Komi Permyak,
+Komi Zyrian,
+Moksha,
+Skolt Sami
 - [obl:loc]():
 Danish
+- [obl:lvc]():
+Naija
 - [obl:mod]():
 French,
-Naija
+Naija,
+Old French
 - [obl:npmod]():
 Coptic,
 English
@@ -1072,8 +1170,6 @@ Kazakh
 - [obl:patient]():
 Cantonese,
 Chinese
-- [obl:periph]():
-Naija
 - [obl:poss]():
 Indonesian,
 Thai
@@ -1097,6 +1193,7 @@ Indonesian,
 Irish,
 Italian,
 Komi Permyak,
+Komi Zyrian,
 Korean,
 Moksha,
 Portuguese,
@@ -1109,6 +1206,12 @@ Turkish,
 Warlpiri
 - [obl:x]():
 Breton
+
+
+
+## orphan
+- [orphan:missing]():
+Latin
 
 
 
@@ -1131,6 +1234,7 @@ Italian
 - [parataxis:insert]():
 French,
 Italian,
+Naija,
 Polish
 - [parataxis:newsent]():
 Ukrainian
@@ -1139,7 +1243,6 @@ Italian
 - [parataxis:obj]():
 Bambara,
 Italian,
-Naija,
 Polish
 - [parataxis:parenth]():
 French,
@@ -1171,6 +1274,8 @@ Erzya,
 Finnish,
 Karelian,
 Livvi
+- [xcomp:lvc]():
+French
 - [xcomp:obj]():
 North Sami,
 Polish
