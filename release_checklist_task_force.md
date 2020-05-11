@@ -103,13 +103,13 @@ See [here](release_checklist.html) for the checklist for data contributors.
     <code>RELEASE=2.6 tools/package_ud_release.sh --update UD_X UD_Y</code>
 * Make the release packages temporarily available for download somewhere and ask the treebank providers to check them before we archive them in Lindat.
 * Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS). Tell Milan Straka that he can start training UDPipe models of the new data.
-* Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
-  Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
-  they can be reached at lindat-help@ufal.mff.cuni.cz).
-  **Update November 2019: They actually create XML and HTML documents from it. To reduce manual work on both sides,
-  we could generate these documents directly. See e-mail from Ondřej Košarko on 13.11.2019.
-  See also my notes in the README file of the LICENSE repository.**<br />
-  <code>( for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; grep -i license: README* ; cd .. ; echo ; done ) |&amp; less</code>
+* Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE)
+  and the README file there. The script <tt>generate_license_for_lindat.pl</tt> can be invoked from the parent folder
+  and it will create a HTML and a XML file in the LICENSE folder. Add and push the files to the LICENSE repository,
+  then make sure it reaches the Lindat staff, either by e-mail at lindat-help@ufal.mff.cuni.cz, or by a pull request
+  as described in the README file.
+  <br />
+  <code>LICENSE/generate_license_for_lindat.pl --release 2.6 --date 2020/05/15 $(cat released_treebanks.txt) ; cd LICENSE ; git add license-ud-* ; git commit -a -m 'Generated license for UD 2.6.' ; git push ; cd ..</code>
 * Once the Lindat staff make the new license list available in their system, we can create
   a new Lindat item for the new version of UD. The preferable way: Create the new item as
   a new version of the item representing the previous release of Universal Dependencies.
