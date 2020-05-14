@@ -7,7 +7,7 @@ title:  'Tokenization'
 # Tokenization and Word Boundaries
 
 #### Demonstrative and Emphatic Suffixes
-Frequently occurring affixes such as demonstrative and emphatic suffixes are always separated from preceding tokens and considered to be tokens themselves:
+* Frequently occurring affixes such as demonstrative and emphatic suffixes are always separated from preceding tokens and considered to be tokens themselves:
     * _cuci sium_
 
 #### Conjoined Tokens
