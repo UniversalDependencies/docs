@@ -19,9 +19,13 @@ Frequently occurring affixes such as demonstrative and emphatic suffixes are alw
 * separate or mwe?
     * _drochcostud_
 
-#### Verbs
+#### Verbal Complex
 * preverbs and infixed pronouns considered part of the same token and kept together:
     * _dagníu_ = do-a-gníu
+
+# Normalizing Orthography
+
+#### LENITION, BRACKETS, EDITOR-SPECIFIC NORMALIZATION
 
 ## References
 * [A Character-Level LSTM Network Model for Tokenizing the Old Irish text of the Würzburg Glosses on the Pauline Epistles](https://pdfs.semanticscholar.org/ca39/e7b169034e048e4a03eb73588dd02cc1fb61.pdf?_ga=2.226142810.1785128679.1589418175-1340948691.1589214695)
