@@ -7,10 +7,10 @@ title:  'Tokenization'
 # Tokenization
 
 * Frequently occurring affixes such as **demonstrative and emphatic suffixes** are always separated from preceding tokens and considered to be tokens themselves:
-** _cuci sium_
+    * _cuci sium_
 * Where forms of a significant part of speech such as the **article**, the **copula**, or **possessive pronouns** occur in reduced or altered form when combined with other tokens, these forms are considered to be conjoined tokens:
-** _cosin, isnaib, frisna_
-** _manam_
+    * _cosin, isnaib, frisna_
+    * _manam_
 
 
 ## References
