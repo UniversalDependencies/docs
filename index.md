@@ -6,7 +6,7 @@ udver: '2'
 
 # <img class="logo" src="logos/logo-ud.png" width="32px"> Universal Dependencies
 
-Universal Dependencies (UD) is a framework for consistent annotation of grammar 
+Universal Dependencies (UD) is a framework for consistent annotation of grammar
 (parts of speech, morphological features, and syntactic dependencies) across different human languages. UD is
 an open community effort with over 300 contributors producing more than 150 treebanks in 90 languages.
 If you're new to UD, you should start by reading the first part of the Short Introduction and then browsing the annotation guidelines.
@@ -54,8 +54,9 @@ If you want to discuss individual annotation questions, use the
 
 The data is released through LINDAT/CLARIN.
 
-* The next release (v2.6) is scheduled for May 15, 2020 (data freeze on May 1).
-* Version 2.5 treebanks are available at <a href="http://hdl.handle.net/11234/1-3105">http://hdl.handle.net/11234/1-3105</a>. 157 treebanks, 90 languages, released November 15, 2019.
+* The next release (v2.7) is scheduled for November 15, 2020 (data freeze on November 1).
+* Version 2.6 treebanks are available at <a href="http://hdl.handle.net/11234/1-3226">http://hdl.handle.net/11234/1-3226</a>. 163 treebanks, 92 languages, released May 15, 2020.
+* Version 2.5 treebanks are archived at http://hdl.handle.net/11234/1-3105. 157 treebanks, 90 languages, released November 15, 2019.
 * Version 2.4 treebanks are archived at http://hdl.handle.net/11234/1-2988. 146 treebanks, 83 languages, released May 15, 2019.
 * Version 2.3 treebanks are archived at http://hdl.handle.net/11234/1-2895. 129 treebanks, 76 languages, released November 15, 2018.
 * Version 2.2 treebanks are archived at http://hdl.handle.net/11234/1-2837. 122 treebanks, 71 languages, released July 1, 2018.
