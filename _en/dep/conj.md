@@ -14,4 +14,4 @@ Bill is big and honest
 conj(big, honest)
 ~~~
 
-See also: [`cc`](cc.html)
+See also: [`cc`](cc.md)
