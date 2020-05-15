@@ -9,7 +9,7 @@ UD Irish uses the `compound` relation for noun compounding. In Irish, when two n
 
 ### Examples
 
-We currently define noun compounds as including compounding noun constructions. The absence of a definite article in certain noun-noun constructions may indicate whether a noun-noun construction is compound: where the noun dependent is indefinite, the construction is often compound, while the same construction with a definite noun dependent is often labelled as nmod. (i.e. _deireadh seachtaine_).
+We currently define noun compounds as including compounding noun constructions. The absence of a definite article in certain noun-noun constructions may indicate whether a noun-noun construction is compound: where the noun dependent is indefinite, the construction is often compound, while the same construction with a definite noun dependent is often labelled as nmod. (i.e. _deireadh seachtaine_ 'weekend' vs _deireadh na seachtaine_ 'end of the week').
 
 _cluiche <b>ceannais</b>_ `<b>final</b>'   (lit. game of_authority)
 
