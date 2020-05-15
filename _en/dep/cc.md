@@ -11,4 +11,4 @@ And then we left .
 cc(left, And)
 ~~~
 
-See also: [`conj`](conj.html)
+See also: [`conj`](conj.md)
