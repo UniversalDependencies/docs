@@ -222,7 +222,7 @@ xcomp(make, moist)
 
 ~~~sdparse
 The pond froze solid .
-nsubj(pond, froze)
+nsubj(froze, pond)
 xcomp(froze, solid)
 ~~~
 
