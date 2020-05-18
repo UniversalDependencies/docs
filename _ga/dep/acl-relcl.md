@@ -80,12 +80,12 @@ csubj:cop(dóigh, bheith)
 
 NOTE: A relative clause can appear with a copula. The copula equates two NPs, with a relative clause coming off the second NP. 
 
-_Is ise an té a <b>chuir</b> Dick Spring i mbun na Roinne Oideachais_ 'It is her who <b>put</b> Dick Spring in charge of the Department of Education'
+_Is ise an té a <b>chuir</b> Dick Spring i mbun na Roinne Oideachais_ 'She is the person who <b>put</b> Dick Spring in charge of the Department of Education'
 
 ~~~ sdparse
-Is ise an té a chuir Dick Spring i mbun na Roinne Oideachais \n She is the person who put Dick Spring in charge of_the Department of_Education
+Is ise an té a chuir Dick Spring i mbun na Roinne Oideachais \n Is her the person who put Dick Spring in charge of_the Department of_Education
 
-cop(ise, is)
+cop(ise, Is)
 nsubj(ise, té)
 acl:relcl(té, chuir)
 ~~~
