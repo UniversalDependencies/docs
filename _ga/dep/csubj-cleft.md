@@ -88,12 +88,13 @@ NOTE: Sometimes it is difficult to determine whether to use the csubj:cleft labe
 
 1. Check to see if it follows the copula-predicate-subject order-if so then it is likely to be a cleft. 
 2. If the phrase is fronted for emphatic reasons then is is likely to be a cleft. 
-3. Categorise by how it’s fronted (PP, NP, AdvP, AdjP)- if it is a fronted NP then it is more likely to be either a relative clause or a cleft. If the NP consists of an augment pronoun and a noun it is a cleft. However, if the first noun is not an augment pronoun and is being equated with the second NP then the second NP has an embedded relative clause. 
+3. Categorise by how it’s fronted (PP, NP, AdvP, AdjP)- if it is a fronted NP, then it is more likely to be either a relative clause or a cleft. If the NP consists of an augment pronoun and a noun it is a cleft. However, if the first noun is not an augment pronoun and is being equated with the second NP, then the second NP has an embedded relative clause. 
 
 ### Emphatic 
 _Is ise a chuir Dick Spring i mbun na Roinne Oideachais_ 'It is her who put Dick Spring in charge of the Department of Education'
 
 ~~~ sdparse
+Is ise a chuir Dick Spring i mbun na Roinne Oideachais
 cleft(ise, chuir)
 ~~~
 
@@ -101,6 +102,7 @@ cleft(ise, chuir)
 _Is í Máire a chuir Dick Spring i mbun na Roinne Oideachais_ 'It is Máire who put Dick Spring in charge of the Department of Education'
 
 ~~~ sdparse
+Is í Máire a chuir Dick Spring i mbun na Roinne Oideachais
 cleft(Máire, chuir)
 ~~~
 
@@ -108,6 +110,7 @@ cleft(Máire, chuir)
 _Is ise an té a chuir Dick Spring i mbun na Roinne Oideachais_ 'She is the person who put Dick Spring in charge of the Department of Education'
 
 ~~~ sdparse
+Is ise an té a chuir Dick Spring i mbun na Roinne Oideachais
 acl:relcl(té, chuir)
 ~~~
 
