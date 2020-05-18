@@ -78,6 +78,17 @@ cop(dóigh, is)
 csubj:cop(dóigh, bheith)
 ~~~
 
+NOTE: A relative clause can appear with a copula. The copula equates two NPs, with a relative clause coming off the second NP. 
+
+~~~ sdparse
+_Is ise an té a <b>chuir</b> Dick Spring i mbun na Roinne Oideachais_ 'It is her who put Dick Spring in charge of the Department of Education'
+Is ise an té a chuir Dick Spring i mbun na Roinne Oideachais \n Is her the person who put Dick Spring in charge of_the Department of_Education
+
+cop(ise, is)
+nsubj(ise, té)
+acl:relcl(té, chuir)
+~~~
+
 The iterrogative pronouns '_cad_' (what) and '_céard_' (a contraction of _cad é (an) rud_, i.e. what thing) are also treated as the relativised fronted head of the clause, as shown below. 
 
 _Ansin céard a <b>tharlós</b> nuair atá tú sean?_ `Then what will <b>happen</b> when you're old?
