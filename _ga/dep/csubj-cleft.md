@@ -84,7 +84,8 @@ cop(seift, Is)
 amod(seift, iomaí)
 ~~~
 
-NOTE: Sometimes it is difficult to determine whether to use the csubj:cleft label or the acl:relcl label for certain phrases. Here are a few steps to help determine which label to use. 
+### NOTE 
+Sometimes it is difficult to determine whether to use the csubj:cleft label or the acl:relcl label for certain phrases. Here are a few steps to help determine which label to use. 
 
 1. Check to see if it follows the copula-predicate-subject order-if so then it is likely to be a cleft. 
 2. If the phrase is fronted for emphatic reasons then is is likely to be a cleft. 
@@ -106,7 +107,9 @@ Is í Máire a chuir Dick Spring i mbun na Roinne Oideachais
 cleft(Máire, chuir)
 ~~~
 
-### Two noun phrases (‘ise’ & ‘té’ in this example) are being equated by the copula
+### Two noun phrases are being equated by the copula
+* (‘ise’ & ‘té’ in this example)
+
 _Is ise an té a chuir Dick Spring i mbun na Roinne Oideachais_ 'She is the person who put Dick Spring in charge of the Department of Education'
 
 ~~~ sdparse
