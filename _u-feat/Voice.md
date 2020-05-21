@@ -43,6 +43,7 @@ actor-focus voice of Austronesian languages. <!-- which is labeled AGFOC in UniM
   (the active participle _napadli_ can be used to form either past
   tense or conditional mood; here it forms the past tense.)
 * [grc] _<b>λύει</b> τὸν ἵππον μου (<b>luei</b> ton hippon mou)_ “he frees my horse”
+* [tr] _Barış Filiz’i <b>öptü</b>._ “Barış kissed Filiz.”
 * [tl] _<b>Naglilinis</b> siya ng bahay._ “He/she <b>cleans</b> a/the house.”
 * [yii] _Waguɖaŋgu guda:ga <b>wawa:l</b>._ “The man <b>saw</b> the dog.”
   (lit. man-ERG dog.ABS see.ACT-PAST)
@@ -58,6 +59,15 @@ he is acting upon himself.
 * [grc] _<b>λύομαι</b> τὸν ἵππον (<b>luomai</b> ton hippon)_ “I free (my own) horse”
 
 ([source](https://ancientgreek.pressbooks.com/chapter/21/))
+
+### <a name="Rcp">`Rcp`</a>: reciprocal voice
+
+In a plural subject, all members are doers and undergoers,
+acting upon each other.
+
+#### Examples
+
+* [tr] _Filiz ve Barış <b>öpüştüler</b>._ “Filiz and Barış kissed.”
 
 ### <a name="Pass">`Pass`</a>: passive or patient-focus voice
 
@@ -113,19 +123,16 @@ Example hierarchy: human 1st person – 2nd – 3rd – non-human animate – in
 Used in direct-inverse voice systems, e.g. in Algonquian languages of North America.
 Inverse voice marking means that the argument lower in the hierarchy functions as subject.
 
-### <a name="Rcp">`Rcp`</a>: reciprocal voice
-
-#### Examples
-
-* [tr] _<b>karıştı</b>_, _<b>tutuştular</b>_
-
 ### <a name="Cau">`Cau`</a>: causative voice
 
-<A HREF="https://wiki.ufal.ms.mff.cuni.cz/_media/user:zeman:treebanks:ttbankkl.pdf">Documentation</A>
-of the METU Sabanci treebank classifies causative as voice (page 26).
+Causative forms of verbs are classified as a voice category because,
+when compared to the basic active form, they change the number of
+participants and their mapping on semantic roles.
+(See, e.g., the [documentation](https://wiki.ufal.ms.mff.cuni.cz/_media/user:zeman:treebanks:ttbankkl.pdf)
+of the METU Sabanci treebank (page 26).)
 Note that this is a feature of verbs. There are languages that have
 also the causative case of nouns.
 
 #### Examples
 
-* [tr] _<b>karıştırıyor</b>_ "is confusing"
+* [tr] _<b>karıştırıyor</b>_ "is confusing" (= is causing somebody to be confused)
