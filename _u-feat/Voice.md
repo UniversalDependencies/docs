@@ -118,10 +118,18 @@ Used in direct-inverse voice systems, e.g. in Algonquian languages of North Amer
 Direct means that the argument that is higher in salience hierarchy is the subject.
 Example hierarchy: human 1st person – 2nd – 3rd – non-human animate – inanimate.
 
+#### Examples
+
+* [crk] _<b>Niwīcihānānak</b>._ “We help them.” (_ni-wīcih-ā-nān-ak_ lit. 1PL[subj]-help-DIR-3[obj]-PL[obj])
+
 ### <a name="Inv">`Inv`</a>: inverse voice
 
 Used in direct-inverse voice systems, e.g. in Algonquian languages of North America.
 Inverse voice marking means that the argument lower in the hierarchy functions as subject.
+
+#### Examples
+
+* [crk] _<b>Niwīcihikonānak</b>._ “They help us.” (_ni-wīcih-iko-nān-ak_ lit. 1PL[subj]-help-INV-3[obj]-PL[obj])
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
