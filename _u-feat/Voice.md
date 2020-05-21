@@ -42,6 +42,7 @@ actor-focus voice of Austronesian languages. <!-- which is labeled AGFOC in UniM
 * [cs] _<b>Napadli</b> jsme nepřítele._ “We <b>attacked</b> the enemy”
   (the active participle _napadli_ can be used to form either past
   tense or conditional mood; here it forms the past tense.)
+* [grc] _<b>λύει</b> τὸν ἵππον μου (<b>luei</b> ton hippon mou)_ “he frees my horse”
 * [tl] _<b>Naglilinis</b> siya ng bahay._ “He/she <b>cleans</b> a/the house.”
 * [yii] _Waguɖaŋgu guda:ga <b>wawa:l</b>._ “The man <b>saw</b> the dog.”
   (lit. man-ERG dog.ABS see.ACT-PAST)
@@ -54,10 +55,7 @@ he is acting upon himself.
 
 #### Examples
 
-* [grc] _λύει τὸν ἵππον μου (luei ton hippon mou)_ “he frees my horse”
-(active)
-* [grc] _<b>λύομαι</b> τὸν ἵππον (luomai ton hippon)_ “I free (my own) horse”
-(middle)
+* [grc] _<b>λύομαι</b> τὸν ἵππον (<b>luomai</b> ton hippon)_ “I free (my own) horse”
 
 ([source](https://ancientgreek.pressbooks.com/chapter/21/))
 
