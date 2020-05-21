@@ -49,6 +49,17 @@ actor-focus voice of Austronesian languages. <!-- which is labeled AGFOC in UniM
 ### <a name="Mid">`Mid`</a>: middle voice
 
 Between active and passive, needed e.g. in Ancient Greek or Sanskrit.
+The subject is both doer and undergoer in a sense:
+he is acting upon himself.
+
+#### Examples
+
+* [grc] _λύει τὸν ἵππον μου (luei ton hippon mou)_ “he frees my horse”
+(active)
+* [grc] _<b>λύομαι</b> τὸν ἵππον (luomai ton hippon)_ “I free (my own) horse”
+(middle)
+
+([source](https://ancientgreek.pressbooks.com/chapter/21/))
 
 ### <a name="Pass">`Pass`</a>: passive or patient-focus voice
 
