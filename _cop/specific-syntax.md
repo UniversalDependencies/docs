@@ -130,9 +130,10 @@ The presentative particle ⲉⲓⲥ, sometimes translated 'lo, behold!' appears 
 
 With a plain noun, ⲉⲓⲥ 'behold' can also be thought of as a weak 'already', i.e. 'it is (already) X' or 'an X there'. In this construction, the presented noun can be the local root:
 
+~~~ sdparse
+
 ⲉⲓⲥ/PART ⲟⲩ/DET ⲥϩⲓⲙⲉ/NOUN ⲉ/SCONJ ⲥ/PRON ⲛⲕⲟⲧⲕ/VERB ϩⲁⲣⲁⲧ/ADP ϥ/PRON \n Behold, a woman was sleeping beneath him
 
-~~~ sdparse
 
 advmod(ⲥϩⲓⲙⲉ,ⲉⲓⲥ)
 acl(ⲥϩⲓⲙⲉ,ⲛⲕⲟⲧⲕ)
@@ -174,6 +175,7 @@ This construction is similar to presentatives but occurs with verbs, similarly t
 25	ⲛⲥⲱ	ⲛⲥⲁ	ADP	PREP	_	26	case	_	_
 26	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	24	obl	_	_
 27	ϩⲓⲃⲟⲗ	ϩⲓⲃⲟⲗ	ADV	ADV	_	24	advmod	_	_
+
 ~~~
 
 ### Temporal
@@ -197,6 +199,7 @@ This structure often appears with time expressions. Since ⲉⲓⲥ is not prepo
 12	ⲛ	ⲛ	ADP	PREP	_	13	case	_	Orig=ⲣ
 13	ⲣⲟⲙⲡⲉ	ⲣⲟⲙⲡⲉ	NOUN	N	_	7	advcl	_	_
 14	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
 ~~~
 
 ## ⲙⲉϣⲉ ⲛⲓⲙ 'someone, you don't know who'
