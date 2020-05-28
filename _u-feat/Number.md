@@ -27,6 +27,10 @@ depending on language, other parts of speech ([pronouns](u-pos/PRON),
 [adjectives](u-pos/ADJ), [determiners](u-pos/DET), [numerals](u-pos/NUM),
 [verbs](u-pos/VERB)) that mark agreement with nouns.
 
+In languages where noun phrases are pluralized using a specific function
+word (pluralizer), this function word is tagged [DET]() and `Number=Plur`
+is its lexical feature.
+
 ### <a name="Sing">`Sing`</a>: singular number
 
 A singular noun denotes one person, animal or thing.
@@ -42,6 +46,7 @@ A plural noun denotes several persons, animals or things.
 #### Examples
 
 * [en] _<b>cars</b>_
+* [yo] _<b>àwọn</b> àgùntàn_ “the sheep (plural)”
 
 ### <a name="Dual">`Dual`</a>: dual number
 
