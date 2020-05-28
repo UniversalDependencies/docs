@@ -33,13 +33,13 @@ udver: '2'
 * The tag [DET]() is used for articles and pronominal words used with a determiner function;
   they can precede or follow the noun they quantify.
   The tag [PRON]() is used for subjects or objects of a noun phrase and to show possession.
-  * A word can belong to both categories `DET` and `PRON` _(àwọn)_
+  * A word can belong to both categories `DET` and `PRON`: _(àwọn)_ is tagged `DET` when used as a pluralizer of a nominal.
   * Gender of a pronoun is only determined by the antecedent (ó – can be he, she or it). It is not explicitly stated.
 * Polysemy is an important phenomenon in Yorùbá, to correctly categorize a word, the context where it occurs is the determining factor. Tone can distinguish meaning but a word with the same tone can mean different things in different circumstance (e.g. bí - “procreate”, “if”, “not” )
 
 ### Features
 
-* Determiners must agree with noun in Number.
+* The pluralizing determiner _àwọn_ is tagged `Number=Plur|PronType=Dem`.
 * The numeral tag NUM is used for quantity. Number words follow words they quantify.
 * Adjectives agree with nouns (in attributive position) and they only have the positive Degree.
 * There is no morphological Case; instead, adpositions (ADP) are used as case markers and specify the role of a noun in a phrase.
