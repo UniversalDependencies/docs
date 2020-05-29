@@ -172,6 +172,7 @@ Where you have a big long sentence with lots of "ars' esan" and "ars' ise"s in i
 Treat _chaidh_ as being `acl:relcl` of _t-seachdain_ (pw05_005, also _ceud_ in the sense of 'century': see fp01_034).
 
 ### _urrainn_
+
 In most dialects the person (or thing) that can follows the preposition _do_ so is of course `obl`. In some, however, you can say, for example, _'s urrainn mi_, so in this case _mi_ is `obl` of _urrainn_.
 ---
 
