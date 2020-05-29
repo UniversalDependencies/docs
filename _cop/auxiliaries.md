@@ -41,6 +41,7 @@ negation, since this negation is archaic (does not appear by itself for this
 form) and the negative form will appear separately in dictionaries as its own
 word:
 [https://coptic-dictionary.org/entry.cgi?tla=C5674](https://coptic-dictionary.org/entry.cgi?tla=C5674)
+* _ϫⲡⲓ (jpi)_ – necessitative (ought to)
 * _ⲉⲣⲉ_ – standard prenominal positive optative
 * _ⲛⲛⲉ_ – negative optative
 * _ⲙⲁⲣⲉ_ – jussive (let it be the case now…)
