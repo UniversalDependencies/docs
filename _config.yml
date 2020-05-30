@@ -262,6 +262,8 @@ collections:
     output: true
   ckt:
     output: true
+  hit:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
