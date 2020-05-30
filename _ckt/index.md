@@ -34,10 +34,15 @@ incorporated items are given nodes.
 
 * `ADJ` `ADP` `ADV` `AUX` `CCONJ` `DET`? `INTJ` `NOUN` `NUM` `PART` `PRON` `PROPN` `PUNCT` `SCONJ`? `VERB` `X`
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
+The following are described by Dunn as particles, but are annotated here as `AUX`
+given the TAM.
 
----
+* *ӄырым*:
+* *ванэван* (also *ванэ*):
+
+The following are copulae:
+
+* *итык* *вак*
 
 ### Features
 
