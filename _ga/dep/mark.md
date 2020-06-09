@@ -35,6 +35,17 @@ Ba ar Mháirín a smaoiníodh sé nuair a d' fheicfeadh sé iad \n Was on Máir�
 mark(fheicfeadh, nuair)
 ~~~
 
+Note that the coordinating conjunction _agus_ ('and') may function as a subordinating conjunction when it is used to introduce a subordinating clause usually headed by a noun, as shown in the example below. In cases such as this one, _agus_ is labelled `mark`. 
+
+_Sa bhliain san ghaibh na Turcaigh François de Vic <b>agus</b> é ar thuras go dtí Vín._ `The Turkish Army apprehended François de Vic while he was on a trip to Vienna.'
+
+~~~ sdparse
+ROOT Sa bhliain san ghaibh na Turcaigh François de Vic agus é ar thuras go dtí Vín \n In_the year that got the Turkish François de Vic and he on trip to [] Vienna
+mark(é, agus)
+root(ROOT, ghaibh)
+advcl(ghaibh, é)
+~~~
+
 #### Infinitive marker
 
 _Caithfidh mé sin <b>a</b> fhoghlaim_ `I will have <b>to</b> learn that'
