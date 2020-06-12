@@ -208,6 +208,8 @@ UD is an open collaboration with many project members. The administrative struct
   Sookyoung Kwak, Gustavo Mendonça, Tatiana Lando, Rattima Nitisaroj, Josie Li. 2017.
   [CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](https://www.aclweb.org/anthology/K17-3001.pdf).
   In *Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies*, pp. 1-19.
+  
+* Rademaker, Alexandre, Fabricio Chalub, Livy Real, Cláudia Freitas, Eckhard Bick, and Valeria de Paiva [Universal Dependencies for Portuguese](http://arademaker.github.io/bibliography/depling-2017.html). 2017. “Universal Dependencies for Portuguese.” In Proceedings of the Fourth International Conference on Dependency Linguistics (Depling), 197–206. Pisa, Italy.  
 
 ### 2016
 
