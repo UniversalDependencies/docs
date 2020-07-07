@@ -568,7 +568,7 @@ Pronoun Fronting:
 Prepositional fronting:
 * _Is sa pháirc a chonaic mé an gabhar_ "It's in the field I first saw the goat"
 
-Note that in UD, the cleft particle _a_ is indistinguishable from the relative particle _a_. Both are labelled 'mark:prt' (see (mark:prt]().
+Note that in UD, the cleft particle _a_ is indistinguishable from the relative particle _a_. Both are labelled 'mark:prt' (see [mark:prt]().
 
 Stenson (1981, p.111) describes the cleft construction as being similar to copular identity structures with the order of elements as Copula, Predicate, Subject. According to Stenson, the _a_ is a relative particle which forms part of the relative
 clause. However, there is no surface head noun in the relative clause { it is missing an NP. Stenson refers to these structures as having an "understood" nominal head such as _an rud_ "the thing" or _an té_ "the person/the one", e.g. _Is ise \[an té\] a chonaic siad inné_. When the nominal head is present, it becomes a copular identity construction: She is the one who they saw yesterday. In the absence of a head noun, the verb is labelled as the head of the clause.
