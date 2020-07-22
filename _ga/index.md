@@ -586,9 +586,9 @@ The presence of the pleonastic conjunction _ná_ allows for the reordering of th
 In this example, we consider 'é' as an nmod, 'toradh' as a subject and 'bunú' is the root.
 
 ~~~ sdparse
-Ba é an toradh a bhí ar a gcuid iarrachtaí ná bunú 'Irish Historical Studies' i 1938'. \n COP(past) it the name that was on the stallion [CONJ] the 'Darling Arabian'.
-mark:prt('bunú, ná)
-cop('bunú, Ba)
+ROOT Ba é an toradh a bhí ar a gcuid iarrachtaí ná bunú 'Irish Historical Studies' i 1938'. \n ROOT COP(past) The result of their efforts was the establishment of the Irish Historical Studies in 1938. 
+mark:prt(bunú, ná)
+cop(bunú, Ba)
 root(bunú)
 nsubj(bunú, toradh)
 nmod(toradh, é)
