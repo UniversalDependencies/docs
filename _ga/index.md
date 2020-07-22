@@ -581,15 +581,15 @@ Note that a relative clause which is copular is considered to be clefted when it
 
 The presence of the pleonastic conjunction _ná_ allows for the reordering of the copula-predicate subject structure which is rearranged to become copula-subject-conjunction-predicate.
 
-* _Ba é an toradh a bhí ar a gcuid iarrachtaí ná bunú 'Irish Historical Studies' i 1938_ "The result of their efforts was the establishment of'Irish Historical Studies' in 1938".
+Note that in this example, we consider 'bunú' as the root, 'toradh' as the subject and 'é' as a nominal modifier on 'toradh'. There is a relative clause; 'bhí' is an acl:relcl coming off 'toradh'. 
 
-In this example, we consider 'é' as an nmod, 'toradh' as a subject and 'bunú' is the root.
+* _Ba é an toradh a bhí ar a gcuid iarrachtaí <b>ná<\b> bunú 'Irish Historical Studies' i 1938_ "The result of their efforts was the establishment of'Irish Historical Studies' in 1938".
 
 ~~~ sdparse
 ROOT Ba é an toradh a bhí ar a gcuid iarrachtaí ná bunú 'Irish Historical Studies' i 1938'. \n ROOT COP(past) The result of their efforts was the establishment of the Irish Historical Studies in 1938. 
 mark:prt(bunú, ná)
 cop(bunú, Ba)
-root(bunú)
+Root(bunú)
 nsubj(bunú, toradh)
 nmod(toradh, é)
 acl:relcl(toradh, bhí)
