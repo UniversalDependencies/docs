@@ -46,14 +46,14 @@ root(ROOT, ghaibh)
 advcl(ghaibh, é)
 ~~~
 
-### With copular 'ná'
+#### With copular 'ná'
 
-The clause that follows ‘ná’ is an adverbial phrase.
+Note that the clause that follows ‘ná’ is an adverbial clause in certain cases like the example below. 
 
 _Is lú fós a bhí radacachas go forleathan in ollscoileanna na hÉireann <b>ná</b> mar a bhí thar lear._ ' \n There is less widespread radicalism in Irish universities than abroad. 
 
 ~~~ sdparse
-Is lú fós a bhí radacachas go forleathan in ollscoileanna na hÉireann ná mar a bhí thar lear. \n is less that was radicalsim widespread in universities of Ireland than there_was abroad
+Is lú fós a bhí radacachas go forleathan in ollscoileanna na hÉireann ná mar a bhí thar lear. \n is(COP) less that radicalsim widespread in universities of Ireland than there_was abroad
 cop(lú, is)
 mark(bhí, ná)
 advcl(bhí, lú)
