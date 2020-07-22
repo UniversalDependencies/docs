@@ -583,13 +583,13 @@ The presence of the pleonastic conjunction _ná_ allows for the reordering of th
 
 Note that in this example, we consider 'bunú' as the root, 'toradh' as the subject and 'é' as a nominal modifier on 'toradh'. There is a relative clause; 'bhí' is an acl:relcl coming off 'toradh'. 
 
-* _Ba é an toradh a bhí ar a gcuid iarrachtaí <b>ná<\b> bunú 'Irish Historical Studies' i 1938_ "The result of their efforts was the establishment of'Irish Historical Studies' in 1938".
+* _Ba é an toradh a bhí ar a gcuid iarrachtaí <b>ná</b> bunú 'Irish Historical Studies' i 1938_ "The result of their efforts was the establishment of'Irish Historical Studies' in 1938".
 
 ~~~ sdparse
 ROOT Ba é an toradh a bhí ar a gcuid iarrachtaí ná bunú 'Irish Historical Studies' i 1938'. \n ROOT COP(past) The result of their efforts was the establishment of the Irish Historical Studies in 1938. 
 mark:prt(bunú, ná)
 cop(bunú, Ba)
-Root(bunú)
+root(ROOT, bunú)
 nsubj(bunú, toradh)
 nmod(toradh, é)
 acl:relcl(toradh, bhí)
