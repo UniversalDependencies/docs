@@ -50,9 +50,10 @@ advcl(ghaibh, é)
 
 The clause that follows ‘ná’ is an adverbial phrase.
 
-_Is lú fós a bhí radachas go forleathan in ollscoileanna na hÉireann ná mar a bhí thar lear._ '
+_Is lú fós a bhí radacachas go forleathan in ollscoileanna na hÉireann <b>ná</b> mar a bhí thar lear._ ' \n There is less widespread radicalism in Irish universities than abroad. 
 
 ~~~ sdparse
+Is lú fós a bhí radacachas go forleathan in ollscoileanna na hÉireann ná mar a bhí thar lear. \n is less that was radicalsim widespread in universities of Ireland than there_was abroad
 cop(lú, is)
 mark(bhí, ná)
 advcl(bhí, lú)
