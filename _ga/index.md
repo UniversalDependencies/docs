@@ -576,8 +576,24 @@ clause. However, there is no surface head noun in the relative clause { it is mi
 Note that a relative clause which is copular is considered to be clefted when it occurs as the predicate of a copular phrase.
 * _Is é Michael D. Higgins ba chionsiocair leis an Roinn a bhunú sa bhliain 1992._ "Michael D. Higgins was the driving force behind the establishment of the Department in 1992."
 
-In addition, the presence of the pleonastic conjunction _ná_ allows for the reordering of the copula-predicate subject structure which is rearranged to become copula-subject-conjunction-predicate.
+
+### Pleonastic Conjunction 'ná'
+
+The presence of the pleonastic conjunction _ná_ allows for the reordering of the copula-predicate subject structure which is rearranged to become copula-subject-conjunction-predicate.
+
 * _Ba é an toradh a bhí ar a gcuid iarrachtaí ná bunú 'Irish Historical Studies' i 1938_ "The result of their efforts was the establishment of'Irish Historical Studies' in 1938".
+
+In this example, we consider 'é' as an nmod, 'toradh' as a subject and 'bunú' is the root.
+
+~~~ sdparse
+Ba é an toradh a bhí ar a gcuid iarrachtaí ná bunú 'Irish Historical Studies' i 1938'. \n COP(past) it the name that was on the stallion [CONJ] the 'Darling Arabian'.
+mark:prt('bunú, ná)
+cop('bunú, Ba)
+root(bunú)
+nsubj(bunú, toradh)
+nmod(toradh, é)
+acl:relcl(toradh, bhí)
+~~~
 
 ### Language specific labels
 
