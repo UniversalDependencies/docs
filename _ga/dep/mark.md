@@ -46,6 +46,18 @@ root(ROOT, ghaibh)
 advcl(ghaibh, é)
 ~~~
 
+### With copular 'ná'
+
+The clause that follows ‘ná’ is an adverbial phrase.
+
+_Is lú fós a bhí radachas go forleathan in ollscoileanna na hÉireann ná mar a bhí thar lear._ '
+
+~~~ sdparse
+cop(lú, is)
+mark(bhí, ná)
+advcl(bhí, lú)
+~~~
+
 #### Infinitive marker
 
 _Caithfidh mé sin <b>a</b> fhoghlaim_ `I will have <b>to</b> learn that'
