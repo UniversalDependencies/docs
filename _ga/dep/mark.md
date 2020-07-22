@@ -53,10 +53,10 @@ Note that the clause that follows ‘ná’ is an adverbial clause in certain ca
 _Is lú fós a bhí radacachas go forleathan in ollscoileanna na hÉireann <b>ná</b> mar a bhí thar lear._ ' \n There is less widespread radicalism in Irish universities than abroad. 
 
 ~~~ sdparse
-Is lú fós a bhí radacachas go forleathan in ollscoileanna na hÉireann ná mar a bhí thar lear. \n (COP)is less that radicalsim widespread in universities of Ireland than there_was abroad
+Is lú fós a bhí radacachas go forleathan in ollscoileanna na hÉireann ná mar a Bhí thar lear. \n (COP)is less that radicalsim widespread in universities of Ireland than there_was abroad
 cop(lú, Is)
-mark(bhí, ná)
-advcl(bhí, lú)
+mark(Bhí, ná)
+advcl(Bhí, lú)
 ~~~
 
 #### Infinitive marker
