@@ -50,7 +50,7 @@ advcl(ghaibh, é)
 
 Note that the clause that follows ‘ná’ is an adverbial clause in certain cases like the example below. 
 
-_Is lú fós a bhí radacachas go forleathan in ollscoileanna na hÉireann <b>ná</b> mar a Bhí thar lear._ ' \n There is less widespread radicalism in Irish universities than abroad. 
+_Is lú fós a bhí radacachas go forleathan in ollscoileanna na hÉireann <b>ná</b> mar a Bhí thar lear._ '  'There is less widespread radicalism in Irish universities than abroad.'
 
 ~~~ sdparse
 Is lú fós a bhí radacachas go forleathan in ollscoileanna na hÉireann ná mar a Bhí thar lear. \n (COP)is less that radicalsim widespread in universities of Ireland than there_was abroad
