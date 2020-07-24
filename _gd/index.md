@@ -159,6 +159,11 @@ _'S_, _b'_, _bu_, _'se_, _'sann_ and so on are `cop` and the root is whatever ha
 We treat _'S e_ as a fixed expression where _e_ has a `fixed` relation with the `AUX`.
 Again we follow Irish and whatever comes after the root is a subject, be it a nominal subject, `nsubj`, or a clausal subject, `csubj:cop`.
 
+### _mas_
+
+_Mas_ ('if') has a `cop` relation to the _e_ that follows and has UPOS `AUX`.
+(It has XPOS `Csw` and usually `Cs` words are `SCONJ`.)
+
 ### _nach maireann_
 
 (as in _Dr Calum MacGilleathain nach maireann_, 'The late Dr Calum Maclean') This is `acl:relcl` of the deceased because _nach_ is the negative relativiser.
