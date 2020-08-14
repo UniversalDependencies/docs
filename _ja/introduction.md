@@ -2,6 +2,7 @@
 layout: base
 title:  'Introduction'
 permalink: ja/overview/introduction.html
+udver: '2'
 ---
 
 # Introduction
@@ -304,6 +305,14 @@ Tohoku University [(Butler 2012)](http://nlp.nii.ac.jp/tawc/papers/W04_butler.pd
 * Shinsuke Mori
 * Sumire Uematsu
 * Masayuki Asahara
+* Mai Omura
+* Aya Wakasa
+* Kayo Yamashita
+* Yugo Murawaki
+* Yuji Matsumoto
+* Kaoru Ito
+* Hiroshi Matsuda
+* Taishi Chika
 
 # References
 
