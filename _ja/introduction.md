@@ -173,7 +173,7 @@ The JUMAN PoS Tagset is based on the Masuoka-Takubo PoS tagset [(Masuoka and Tak
 
 The UniDic defines two layered PoS tagsets, one for Short Unit Words and the other for Long Unit Words.
 The PoS tagset for Short Unit Words is a 'lexicon-based label'(語彙主義) tagset in which PoS labels imply all possible usages in a context.
-In contrast, BCCWJ annotates the 'usage' of PsS as other PoS information.
+In contrast, BCCWJ annotates the 'usage' of PoS as other PoS information.
 The PoS tagset for Long Unit Words uses 'usage-based labels'(用法主義) disambiguated by contextual information.
 [(小椋ほか 2010a)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf) 
 [(小椋ほか 2010b)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf)
