@@ -114,9 +114,7 @@ Since 2002, they maintain a morporlogical information annotated lexicon UniDic, 
 
 The UniDic has been maintained diachronically, and NINJAL has published versions of UniDic for several eras.
 
-* UniDic (contemporary): [http://sourceforge.jp/projects/unidic/](http://sourceforge.jp/projects/unidic/) will be moved to [http://download.unidic.org/](http://download.unidic.org/)
-* [UniDic (modern)](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic)
-* [UniDic (early middle)](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic)
+* UniDic : [https://unidic.ninjal.ac.jp/](https://unidic.ninjal.ac.jp/)
 
 ### JUMANdic 
 This word unit standard was derived by the morphological analyser JUMAN. The unit is longer than SUW in UniDic.
@@ -125,17 +123,17 @@ The unit includes several compound words as single word units. See the [manual](
 
 ### Morphological Analysers
 
-* [MeCab](http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html): lexicon-based morphological analyser using CRFs.
+* [MeCab](https://mecab.googlecode.com/svn/trunk/mecab/doc/index.html): lexicon-based morphological analyser using CRFs.
 
-* [JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN): lexicon-based morphological analyser using a hand-maintained cost table.
+* [JUMAN](https://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN): lexicon-based morphological analyser using a hand-maintained cost table.
 
-* [Comainu](http://comainu.org/): compound word constructions derived by chunking (CRF or history-based SVM) and dependency parsing.
+* [Comainu](https://comainu.org/): compound word constructions derived by chunking (CRF or history-based SVM) and dependency parsing.
 
-* CRF chunker (used in Comainu): [CRF++](http://taku910.github.io/crfpp/)
+* CRF chunker (used in Comainu): [CRF++](https://taku910.github.io/crfpp/)
 
-* History based SVM chunker (used in Comainu): [YamCha](http://chasen.org/~taku/software/yamcha/)
+* History based SVM chunker (used in Comainu): [YamCha](https://chasen.org/~taku/software/yamcha/)
 
-* [MSTParser](http://sourceforge.net/projects/mstparser/) (used in Comainu)
+* [MSTParser](https://sourceforge.net/projects/mstparser/) (used in Comainu)
 
 ## Bunsetsu Unit (Base Phrase)
 
