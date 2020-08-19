@@ -22,7 +22,7 @@ This feature is only used for pronouns:
 
 * _you, your, yours, yourself, yourselves_
 
-### `3`: second person
+### `3`: third person
 
 The third person refers to one or more persons that are neither speakers nor addressees.
 
