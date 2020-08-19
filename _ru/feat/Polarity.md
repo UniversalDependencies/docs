@@ -28,7 +28,7 @@ is no such thing as “affirmative pronoun”.)
 * _<b>хорошо</b>&nbsp;_ “nicely”
 * _<b>приятие</b>&nbsp;_ “acceptance”
 
-### Polarity: negative
+### `Neg`: negative
 
 #### Examples
 
