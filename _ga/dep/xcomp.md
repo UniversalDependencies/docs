@@ -48,6 +48,14 @@ xcomp(Chuirfeadh,fáil)
 case(fáil, ar)
 ~~~
 
+_Tá cuntas caiteachais le <b>fáil</b> fós ó Bhráithreachas Ospidéal Naomh Eoin._ The expenditure account is still available from St. John's hospital.
+
+~~~ sdparse
+Tá cuntas caiteachais le fáil fós ó Bhráithreachas Ospidéal Naomh Eoin.\n Is account expenditure to_be gotten still from the brotherhood hospital Saint John.
+xcomp(tá, fáil)
+case(fáil, le)
+~~~
+
 Verbal nouns in Irish can have either a fronted object or the object can follow the verbal noun. 
 
 _Déanann Máire iarracht <b>é</b> a mhusclú._ 'Máire makes an effort to wake <b>him</b> up.'
