@@ -50,7 +50,7 @@ case(fáil, ar)
 
 Verbal nouns in Irish can have either a fronted object or the object can follow the verbal noun. 
 
-_Déanann Máire iarracht <>é</b> a mhusclú._ 'Máire makes an effort to wake <b>him</b> up.'
+_Déanann Máire iarracht <b>é</b> a mhusclú._ 'Máire makes an effort to wake <b>him</b> up.'
 
 ~~~ sdparse
 Déanann Máire iarracht é a mhusclú \n 'Makes Máire effort him to wake
