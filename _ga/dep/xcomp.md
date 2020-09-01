@@ -52,7 +52,7 @@ _Tá cuntas caiteachais le <b>fáil</b> fós ó Bhráithreachas Ospidéal Naomh 
 
 ~~~ sdparse
 Tá cuntas caiteachais le fáil fós ó Bhráithreachas Ospidéal Naomh Eoin.\n Is account expenditure to_be gotten still from the brotherhood hospital Saint John.
-xcomp(tá,fáil)
+xcomp(Tá,fáil)
 case(fáil, le)
 ~~~
 
