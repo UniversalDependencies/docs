@@ -30,9 +30,9 @@ Units that are not tokenized apart include:
 
 All corpora use the full range of UPOS tags. The XPOS column uses the Penn Treebank tagset. Note that XPOS does not have a simple mapping to UPOS tags, as UD guidelines enforce complex relations between dependency relations and POS tags: for example, since the relation `advmod` must generally have the tag `ADV`, UPOS may have `ADV` for some non-adverbial XPOS tags, and vice versa.
 
-Closed class auxiliaries include:
-  * AUX - the lemmas 'be', 'have', 'do', 'will', 'would', 'may', 'might', 'can', 'could', 'shall', 'should', 'must', 'get' when used as auxiliaries labeled `aux` or `aux:pass`
-  * COP - the lemma 'be'
+Closed class auxiliaries (tagged `AUX`) include:
+  * auxiliaries for periphrastic tenses, aspects, voices and modalities – the lemmas 'be', 'have', 'do', 'will', 'would', 'may', 'might', 'can', 'could', 'shall', 'should', 'must', 'get' when attached with relations `aux` or `aux:pass`
+  * copula – the lemma 'be'
 
 ### Features
 
