@@ -19,7 +19,15 @@ udver: '2'
 
 ### Tags
 
-*
+* Indonesian has the following auxiliary verbs ([AUX]()):
+  * _akan_ “will” for the future tense.
+  * _sedang_ “be” for the present tense.
+  * _telah_ and _sudah_ “have” for the past tense.
+  * _bisa, dapat_ and _mampu_ as the equivalents of modal “can”.
+  * _boleh_ as the equivalent of modal “may”.
+  * _mungkin_ as the equivalent of modal “might”.
+  * _harus_ as the equivalent of modal “must”.
+  * _adalah_ and _ialah_ “be” serve as copulas.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
