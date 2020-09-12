@@ -5,7 +5,7 @@ shortdef: 'expletive'
 udver: '2'
 ---
 
-This relation captures expletive or pleonastic nominals. These are nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate. The main predicate of the clause (the verb or predicate adjective or noun) is the governor. In English, this is the case for some uses of *it* and *there*: the existential *there*, and *it* when used in extraposition constructions.  (Note that both *it* and *there* also have non-expletive uses.) 
+This relation captures expletive or pleonastic nominals. These are nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate. The main predicate of the clause (the verb or predicate adjective or noun) is the governor. In English, this is the case for some uses of *it* and *there*: the existential *there*, and *it* when used in extraposition constructions.  (Note that both *it* and *there* also have non-expletive uses.)
 
 ~~~ sdparse
 There is a ghost in the room
@@ -82,7 +82,7 @@ pronoun and thus the pronoun does not play the role of a normal object
 (otherwise it would be possible to substitute it with an irreflexive pronoun or other nominal).
 
 UD recognizes several functions of reflexive pronouns (clitics) that are usually distinguished with the help of subtypes
-of the `expl` relation (see also the report from the [2015 Uppsala discussion of clitics](/2015-08-23-uppsala/clitics.html) where
+of the `expl` relation (see also the report from the [2015 Uppsala discussion of clitics](/workgroups/2015-08-23-uppsala/clitics.html) where
 this approach was approved):
 
 * [expl:pv]() for reflexive clitics attached to inherently reflexive verbs (also called pronominal verbs in some grammars)
