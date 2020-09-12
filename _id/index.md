@@ -10,18 +10,18 @@ udver: '2'
 
 * In general, words are delimited by whitespace characters. Special treatments are given to multiword tokens and punctuations.
 * Special treatments for multiword tokens:
- * Multiword tokens that ended with particles of _lah/kah/pun_" are split into two tokens. For example: _bacalah_ "read" is split into _baca_ "read" and _lah_. 
- * Multiword tokens that contains clitics of _ku_ "me/my", _mu_ "you/your", _nya_ "he/him/she/her/it" are split into two tokens. For example: _mencintainya_ "love him/her/it" is split into _mencintai_ "love" and _nya_ "him/her/it". However there are exceptions for words ending with -nya. All _nya_ that has role as pronoun and determiner will be separated from the main word, but if the word ending with -nya has a role as adverb or adjective, we let them unseparated. For example: 
-  * words ended by _nya_ as adverb: _khususnya_ "especially", _awalnya_ "initially", _akhirnya_ "finally"
-  * words ended by _nya_ as adjective: _sebelumnya_ "previous", _sesudahnya_ "next"
+  * Multiword tokens that ended with particles of _lah/kah/pun_" are split into two tokens. For example: _bacalah_ "read" is split into _baca_ "read" and _lah_. 
+  * Multiword tokens that contains clitics of _ku_ "me/my", _mu_ "you/your", _nya_ "he/him/she/her/it" are split into two tokens. For example: _mencintainya_ "love him/her/it" is split into _mencintai_ "love" and _nya_ "him/her/it". However there are exceptions for words ending with -nya. All _nya_ that has role as pronoun and determiner will be separated from the main word, but if the word ending with -nya has a role as adverb or adjective, we let them unseparated. For example: 
+    * words ended by _nya_ as adverb: _khususnya_ "especially", _awalnya_ "initially", _akhirnya_ "finally"
+    * words ended by _nya_ as adjective: _sebelumnya_ "previous", _sesudahnya_ "next"
 * Special treatment for punctuations. All punctuations are separated from the words, except in two cases:
- * For reduplicated words. Indonesian has so many reduplicated words as noun (both singular and plural), verb, adjective, adverb, and so on. These reduplicated words are not split and remain become one token. The examples of reduplicated words are:
-  * Singular noun: _mata-mata_ "spy"
-  * Pluran noun: _anak-anak_ "children"
-  * Verb: _merobek-robek_ "shredding"
-  * Adjective: _hiruk-pikuk_ "noisy"
-  * Adverb: _terus-menerus_ (continuously)
- * For abbreviations. All abbreviations such as Mr., M.Sc. Tn., are not split and remain one token.
+  * For reduplicated words. Indonesian has so many reduplicated words as noun (both singular and plural), verb, adjective, adverb, and so on. These reduplicated words are not split and remain become one token. The examples of reduplicated words are:
+    * Singular noun: _mata-mata_ "spy"
+    * Pluran noun: _anak-anak_ "children"
+    * Verb: _merobek-robek_ "shredding"
+    * Adjective: _hiruk-pikuk_ "noisy"
+    * Adverb: _terus-menerus_ (continuously)
+  * For abbreviations. All abbreviations such as Mr., M.Sc. Tn., are not split and remain one token.
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
