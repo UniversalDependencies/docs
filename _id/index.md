@@ -47,7 +47,7 @@ udver: '2'
   * _adalah_ and _ialah_ “be” serve as copulas. Another copula in Indonesian KBBI, _merupakan_ (be), is tagged as VERB, not AUX since its morphology is closer to VERB.
 * The pronoun (PRON) vs. determiner (DET) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
   * The following word types are tagged as PRON:
-    * personal pronouns: _saya/aku/ku_ "I", _kamu/mu/anda_ "you", _dia/ia/nya_ "he/she/it", _kami/kita_ "our", _mereka_ "them" 
+    * personal pronouns: _saya/aku/ku_ "I", _kamu/mu/anda_ "you", _dia/ia/nya_ "he/she/it/him/her/its", _kami/kita_ "we/us/our", _mereka_ "they/them/their" 
     * interrogative pronouns: _apa_ "what", _siapa_ "who" as in _Apa yang kamu inginkan?_ "What do you want?"
     * relative pronouns are tagged as PRON: _apa_ "what", _siapa_ "who" as in _Saya tahu siapa yang kamu maksud._ "I know who you mean"
     * indefinite pronouns: _seseorang_ "seomeone/somebody", _sesuatu_ "something"
@@ -74,31 +74,46 @@ udver: '2'
 ### Features
 
 * We propose the use of 13 of 24 features defines in UDv2 that relevant to Indonesian grammar:
- 1. Abbr
- 2. Clusivity
- 3. Degree
- 4. Foreign
- 5. Number
- 6. NumType
- 7. Person
- 8. Polarity
- 9. Poss
- 10. PronType
+ 1. Abbr, with one possible value: Yes. This feature can be applied to all UPOS, except PUNCT and SYM. 
+ 2. Clusivity, applies to PRON with two possible values: Ex and In.
+   * Clusivity=Ex for _kami_ "we/our"
+   * Clusivity=In for _kita_ "we/our"
+ 3. Degree, applies to ADJ with two possible values: Pos and Sup.
+   * Degree=Pos is used for _baik_ "good", _cantik_ "beautiful", etc.
+   * Degree=Sup us used for _terbaik_ "best", _tercantik_ "most beautiful", etc.
+ 4. Foreign, with one possible value: Yes. This feature only applies to X.
+ 5. Number, applies to NOUN and PRON with two possible values: Sing and Plur.  
+ 6. NumType, applies to NUM and ADJ.
+   * NumType=Card is used for NUM
+   * NumType=Ord is used for ordinal numbers tagged as ADJ
+ 7. Person, applies to PRON with three possible values: 1, 2, 3.
+ 8. Polarity, with one possible value: Neg, applies to PART and INTJ.
+   * Polarity=Neg for PART applies for negation words as in _Saya tidak menyukainya_ "I do not like him/her/it". Word _tidak_ "no" will be tagged with Polarity=Neg.
+   * Polarity=Neg for INTJ as in _Tidak, terima kasih_ "No, thanks". Word _tidak_ "no" will be given feature Polarity=Neg.
+ 9. Poss, applies to DET, with one possible value: Yes. This feature will be applied to all PRON that serve as possessive pronouns.
+ 10. PronType, applies to PRON, DET, and ADV. For Indonesian, 7 possible values can be applied:
+   * PronType=Dem, applies to PRON such as for _itu_ "that" in _Itu masalahmu._ "That is your problem."
+   * PronType=Emp, applies to PRON such as for _sendiri_ "self" in _Kamu harus percaya pada dirimu sendiri_ "You have to believe in yourself".
+   * PronType=Ind, applies to PRON such as for _seseorang_ "someone/somebody" or _sesuatu_ "something" 
+   * PronType=Int, applies to PRON and ADV. 
+     * PronType=Int for PRON, such as for _apa_ "what" and _siapa_ "who" in interrogative sentences
+     * PronType=Int for ADV, such as for _bagaimana_ "how" and _kapan_ "when" in interrogative sentences
+   * PronType=Prs, applies to PRON or DET for all personal pronouns that serve as PRON or DET.
+   * PronType=Rel, applies to PRON and ADV.
+     * PronType=Rel for PRON, such as for _apa_ "what", _siapa_ "who", _yang_ "that". 
+     * PronType=Rel for ADV, such as for _bagaimana_ "how" and _kapan_ "when" in non-interrogative sentences
+   * PronType=Tot, applies to PRON, DET, or ADV.
+     * PronType=Tot for PRON, such as for _semua_ "all" in _Semua adalah milikmu._ "All is yours."
+     * PronType=Tot for DET, such as for _semua_ "all" in _Semua siswa terlihat senang._ "All student looks happy." 
  11. VerbForm
- 12. Voice
- 13. Typo
+ 12. Voice, applies to VERB with two possible values: Act and Pass.
+   * Voice=Act for active verbs such as _mencintai_ "love", _berdiskusi_ "discuss"
+   * Voice=Pass for passive verbs, that in Indonesian has characteristics of using prefix _di-, ter-_ or confix _ke-an_.
+     * Passive verbs with prefix _di-_ : _dikatakan_ "be said", _dilepaskan_ "be released"
+     * Passive verbs with prefix _ter-_: _terbakar_ "be burned", _terjatuh_ "fell"
+     * Passive verbs with confix _ke-an_: _kehilangan_ "lost", _kecurian_ "be stolen" 
+ 13. Typo, with one possible value, Yes. This feature can be applied to all UPOS, except PUNCT and SYM.
 
-* Nominal features
-  * NOUN only uses one feature, Number, with two possible values: Sing or Plur.
-  * PRON can have four features:
-    * Number, with two possible values relevan to Indonesian grammar: Sing and Plur.
-    * Clusivity, for kami (our) with Clusivity=Ex, and kita (our) with Clusivity=In
-    * Person, for personal pronoun
-    * PronType, with 7 possible values relavan to Indonesian grammar: Dem, Emp, Ind, Int, Prs, Rel, Tot
-
-* Verbal features. 
-  * VerbForm, with two possible values: Part and Vnoun
-  * Voice, with two possible values: Act and Pass.
  
 
 ---
