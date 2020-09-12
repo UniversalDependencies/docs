@@ -75,6 +75,7 @@ udver: '2'
 
 * We propose the use of 13 of 24 features defines in UDv2 that relevant to Indonesian grammar:
   1. Abbr, with one possible value: Yes. This feature can be applied to all UPOS, except PUNCT and SYM. 
+  
   2. Clusivity, applies to PRON with two possible values: Ex and In.
     * Clusivity=Ex for _kami_ "we/our"
     * Clusivity=In for _kita_ "we/our"
@@ -103,17 +104,13 @@ udver: '2'
     * PronType=Dem, applies to PRON such as for _itu_ "that" in _Itu masalahmu._ "That is your problem."
     * PronType=Emp, applies to PRON such as for _sendiri_ "self" in _Kamu harus percaya pada dirimu sendiri_ "You have to believe in yourself".
     * PronType=Ind, applies to PRON such as for _seseorang_ "someone/somebody" or _sesuatu_ "something" 
-    
     * PronType=Int, applies to PRON and ADV. 
       * PronType=Int for PRON, such as for _apa_ "what" and _siapa_ "who" in interrogative sentences
       * PronType=Int for ADV, such as for _bagaimana_ "how" and _kapan_ "when" in interrogative sentences
-      
     * PronType=Prs, applies to PRON or DET for all personal pronouns that serve as PRON or DET.
-    
     * PronType=Rel, applies to PRON and ADV.
       * PronType=Rel for PRON, such as for _apa_ "what", _siapa_ "who", _yang_ "that". 
-      * PronType=Rel for ADV, such as for _bagaimana_ "how" and _kapan_ "when" in non-interrogative sentences
-      
+      * PronType=Rel for ADV, such as for _bagaimana_ "how" and _kapan_ "when" in non-interrogative sentences  
     * PronType=Tot, applies to PRON, DET, or ADV.
       * PronType=Tot for PRON, such as for _semua_ "all" in _Semua adalah milikmu._ "All is yours."
       * PronType=Tot for DET, such as for _semua_ "all" in _Semua siswa terlihat senang._ "All student looks happy." 
@@ -123,9 +120,10 @@ udver: '2'
   12. Voice, applies to VERB with two possible values: Act and Pass.
     * Voice=Act for active verbs such as _mencintai_ "love", _berdiskusi_ "discuss"
     * Voice=Pass for passive verbs, that in Indonesian has characteristics of using prefix _di-, ter-_ or confix _ke-an_.
-      * Passive verbs with prefix _di-_ : _dikatakan_ "be said", _dilepaskan_ "be released"
-      * Passive verbs with prefix _ter-_: _terbakar_ "be burned", _terjatuh_ "fell"
-      * Passive verbs with confix _ke-an_: _kehilangan_ "lost", _kecurian_ "be stolen" 
+       * Passive verbs with prefix _di-_ : _dikatakan_ "be said", _dilepaskan_ "be released"
+       * Passive verbs with prefix _ter-_: _terbakar_ "be burned", _terjatuh_ "fell"
+       * Passive verbs with confix _ke-an_: _kehilangan_ "lost", _kecurian_ "be stolen" 
+       
   13. Typo, with one possible value, Yes. This feature can be applied to all UPOS, except PUNCT and SYM.
 
  
