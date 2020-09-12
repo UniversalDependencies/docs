@@ -104,8 +104,12 @@ udver: '2'
       * PronType=Rel for ADV, such as for _bagaimana_ "how" and _kapan_ "when" in non-interrogative sentences  
     7. PronType=Tot, applies to PRON, DET, or ADV.
       * PronType=Tot for PRON, such as for _semua_ "all" in _Semua adalah milikmu._ "All is yours."
-      * PronType=Tot for DET, such as for _semua_ "all" in _Semua siswa terlihat senang._ "All student looks happy." 
-  * VerbForm
+      * PronType=Tot for DET, such as for _semua_ "all" in _Semua siswa terlihat senang._ "All students look happy." 
+      * PronType=Tot for ADV, such as for _selalu_ "always" in _Dia selalu terlambat_. "She is always late."
+  * VerbForm, applies to ADJ, ADV, and NOUN, with 2 possible values: Conv, Part, and Vnoun.
+    * VerbForm=Conv is applied to verbal adverb, such as for _terpisah_ "be separated" in _secara terpisah_ "separately"
+    * VerbForm=Part is applied to verbal adjective, such as for _terbang_ "fly" in _kapal terbang_ "plane", _renang_ "swim" in _kolam renang_ "swimming pool" 
+    * VerbForm=Vnoun is applied to verbal noun, such as for _memancing_ "fishing", _memasak_ "cooking" as nouns.
   * Voice, applies to VERB with two possible values: Act and Pass.
     * Voice=Act for active verbs such as _mencintai_ "love", _berdiskusi_ "discuss"
     * Voice=Pass for passive verbs, that in Indonesian has characteristics of using prefix _di-, ter-_ or confix _ke-an_.
