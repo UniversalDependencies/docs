@@ -17,7 +17,7 @@ udver: '2'
 * Special treatment for punctuations. All punctuations are separated from the words, except in two cases:
   * For reduplicated words. Indonesian has so many reduplicated words as noun (both singular and plural), verb, adjective, adverb, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
     * Singular noun: _mata-mata_ "spy"
-    * Pluran noun: _anak-anak_ "children"
+    * Plural noun: _anak-anak_ "children"
     * Verb: _merobek-robek_ "shredding"
     * Adjective: _hiruk-pikuk_ "noisy"
     * Adverb: _terus-menerus_ "continuously"
@@ -36,7 +36,7 @@ udver: '2'
 * PART is used for:
   * Negation words, such as _tidak_ "no", _tak_ "no", _bukan_ "no"
   * Particles of _lah, kah, pun_ that usually used to emphasize the word before them
-* The auxiliary ([AUX]) vs. [VERB] distinction is based on examples for English treebank, since initially there is no AUX type in KBBI. We defined 12 Indonesian words as AUX as follows:
+* The auxiliary (AUX) vs. VERB distinction is based on examples for English treebank, since initially there is no AUX type in KBBI. We defined 12 Indonesian words as AUX as follows:
   * _akan_ “will” for the future tense.
   * _sedang_ “be” for the present tense.
   * _telah_ and _sudah_ “have” for the past tense.
@@ -47,15 +47,15 @@ udver: '2'
   * _adalah_ and _ialah_ “be” serve as copulas.
   There is another copula in Indonesian KBBI: _merupakan_ (be) that we tagged as VERB, not AUX since its morphology closes to verb.
 * The pronoun (PRON) vs. determiner (DET) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
- * The following word types are tagged as PRON:
-   * personal pronouns: _saya/aku_ "I", _kamu/anda_ "you", _dia/ia/nya_ "he/she/it", _kami/kita_ "our", _mereka_ "them" 
-   * interrogative pronouns: _apa_ "what", _siapa_ "who" as in _Apa yang kamu inginkan?_ "What do you want?"
-   * relative pronouns are tagged as PRON: _apa_ "what", _siapa_ "who" as in _Saya tahu siapa yang kamu maksud._ "I know who you mean"
-   * indefinite pronouns: _seseorang_ "seomeone/somebody", _sesuatu_ "something"
-   * total pronouns: _semua_ "all" as in _Semua kecuali kamu_ "All but you". 
- * The following word types are tagged as DET:
-   * possessive pronouns: _ku_ "my", _mu_ "your", _nya_ "his/her/it". All personal pronouns in Indonesian can also be used as possessive pronouns, but not the opposite.
-   * pronominal numerals: _beberapa_ "some/many", _semua_ "all" as in _semua siswa_ "all students"
+  * The following word types are tagged as PRON:
+    * personal pronouns: _saya/aku_ "I", _kamu/anda_ "you", _dia/ia/nya_ "he/she/it", _kami/kita_ "our", _mereka_ "them" 
+    * interrogative pronouns: _apa_ "what", _siapa_ "who" as in _Apa yang kamu inginkan?_ "What do you want?"
+    * relative pronouns are tagged as PRON: _apa_ "what", _siapa_ "who" as in _Saya tahu siapa yang kamu maksud._ "I know who you mean"
+    * indefinite pronouns: _seseorang_ "seomeone/somebody", _sesuatu_ "something"
+    * total pronouns: _semua_ "all" as in _Semua kecuali kamu_ "All but you". 
+  * The following word types are tagged as DET:
+    * possessive pronouns: _ku_ "my", _mu_ "your", _nya_ "his/her/it". All personal pronouns in Indonesian can also be used as possessive pronouns, but not the opposite.
+    * pronominal numerals: _beberapa_ "some/many", _semua_ "all" as in _semua siswa_ "all students"
 * Indonesian has the following coordinating conjuncion words ([CCONJ]):
   * _dan, serta, maupun_ as the equivalents of "and" in English
   * _atau_ "or"
@@ -68,7 +68,7 @@ udver: '2'
 
 ### Features
 
-* We propose the use of 13 of 24 features defines in UDv2 features that relevant to Indonesian grammar:
+* We propose the use of 13 of 24 features defines in UDv2 that relevant to Indonesian grammar:
  1. Abbr
  2. Clusivity
  3. Degree
@@ -84,12 +84,12 @@ udver: '2'
  13. Typo
 
 * Nominal features
- * NOUN only uses one feature, Number, with two possible values: Sing or Plur.
- * PRON can have four features:
-   * Number, with two possible values relevan to Indonesian grammar: Sing and Plur.
-   * Clusivity, for kami (our) with Clusivity=Ex, and kita (our) with Clusivity=In
-   * Person, for personal pronoun
-   * PronType, with 7 possible values relavan to Indonesian grammar: Dem, Emp, Ind, Int, Prs, Rel, Tot
+  * NOUN only uses one feature, Number, with two possible values: Sing or Plur.
+  * PRON can have four features:
+    * Number, with two possible values relevan to Indonesian grammar: Sing and Plur.
+    * Clusivity, for kami (our) with Clusivity=Ex, and kita (our) with Clusivity=In
+    * Person, for personal pronoun
+    * PronType, with 7 possible values relavan to Indonesian grammar: Dem, Emp, Ind, Int, Prs, Rel, Tot
 
 * Verbal features. 
   * VerbForm, with two possible values: Part and Vnoun
@@ -112,7 +112,7 @@ udver: '2'
 
 ### Non-verbal Clauses
 
-* The copula ialah or adalah (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. For example: _Ini adalah rumahku._ "This is my house"
+* The copula ialah or adalah (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. For example: _Ini adalah rumahku._ "This is my house."
 
 ### Relations Overview
 
