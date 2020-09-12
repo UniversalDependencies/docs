@@ -12,8 +12,8 @@ udver: '2'
 * Special treatments for multiword tokens:
   * Multiword tokens that ended with particles of _lah/kah/pun_ are split into two tokens. For example, _bacalah_ "read" is split into _baca_ "read" and _lah_. 
   * Multiword tokens that contains clitics of _ku_ "me/my", _mu_ "you/your", _nya_ "he/him/she/her/it" are split into two tokens. For example: _mencintainya_ "love him/her/it" is split into _mencintai_ "love" and _nya_ "him/her/it". However there are exceptions for words ending with -nya. All _nya_ that has role as pronoun and determiner will be separated from the main word, but if the word ended with -nya has a role as adverb or adjective, we let them unseparated. For example: 
-    * words ended by _nya_ as adverb: _khususnya_ "especially", _awalnya_ "initially", _akhirnya_ "finally"
-    * words ended by _nya_ as adjective: _sebelumnya_ "previous", _sesudahnya_ "next"
+    * words ended with _nya_ as adverb: _khususnya_ "especially", _awalnya_ "initially", _akhirnya_ "finally"
+    * words ended with _nya_ as adjective: _sebelumnya_ "previous", _sesudahnya_ "next"
 * Special treatment for punctuations. All punctuations are separated from the words, except in two cases:
   * For reduplicated words. Indonesian has so many reduplicated words as noun (both singular and plural), verb, adjective, adverb, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
     * Singular noun: _mata-mata_ "spy"
@@ -32,10 +32,10 @@ udver: '2'
 
 ### Tags
 
-* Indonesian PUD uses all 17 universal POS categories. We refer to [KBBI](https://kbbi.kemdikbud.go.id/) (Kamus Besar Bahasa Indonesia/Indonesian Great Dictionary) as the reference dictionary. However, since this dictionary only defined 7 word classes: noun, verb, adjective, adverb, pronoun, particle and number, we need to make adjustments so that the tags conforms to UDv2.
+* Indonesian PUD uses all 17 universal POS categories. We refer to [KBBI](https://kbbi.kemdikbud.go.id/) (Kamus Besar Bahasa Indonesia/Indonesian Great Dictionary) as the reference dictionary. However, since this dictionary only defined 7 word classes: noun, verb, adjective, adverb, pronoun, particle and number, we need to make adjustments so that the tags conform to UDv2.
 * PART is used for:
-  * Negation words, such as _tidak_ "no", _tak_ "no", _bukan_ "no"
-  * Particles of _lah, kah, pun_ that usually used to emphasize the word before them
+  * negation words: _tidak_ "no", _tak_ "no", _bukan_ "no"
+  * particles of _lah, kah, pun_, that usually used to emphasize the word before them
 * The auxiliary (AUX) vs. VERB distinction is based on examples for English treebank, since initially there is no AUX type in KBBI. We defined 12 Indonesian words as AUX as follows:
   * _akan_ “will” for the future tense.
   * _sedang_ “be” for the present tense.
@@ -44,22 +44,27 @@ udver: '2'
   * _boleh_ as the equivalent of modal “may”.
   * _mungkin_ as the equivalent of modal “might”.
   * _harus_ as the equivalent of modal “must”.
-  * _adalah_ and _ialah_ “be” serve as copulas.
-  There is another copula in Indonesian KBBI: _merupakan_ (be) that we tagged as VERB, not AUX since its morphology closes to verb.
+  * _adalah_ and _ialah_ “be” serve as copulas. Another copula in Indonesian KBBI, _merupakan_ (be), is tagged as VERB, not AUX since its morphology is closer to VERB.
 * The pronoun (PRON) vs. determiner (DET) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
   * The following word types are tagged as PRON:
-    * personal pronouns: _saya/aku_ "I", _kamu/anda_ "you", _dia/ia/nya_ "he/she/it", _kami/kita_ "our", _mereka_ "them" 
+    * personal pronouns: _saya/aku/ku_ "I", _kamu/mu/anda_ "you", _dia/ia/nya_ "he/she/it", _kami/kita_ "our", _mereka_ "them" 
     * interrogative pronouns: _apa_ "what", _siapa_ "who" as in _Apa yang kamu inginkan?_ "What do you want?"
     * relative pronouns are tagged as PRON: _apa_ "what", _siapa_ "who" as in _Saya tahu siapa yang kamu maksud._ "I know who you mean"
     * indefinite pronouns: _seseorang_ "seomeone/somebody", _sesuatu_ "something"
     * total pronouns: _semua_ "all" as in _Semua kecuali kamu_ "All but you". 
   * The following word types are tagged as DET:
-    * possessive pronouns: _ku_ "my", _mu_ "your", _nya_ "his/her/it". All personal pronouns in Indonesian can also be used as possessive pronouns, but not the opposite.
+    * possessive pronouns. All personal pronouns in Indonesian can also be used as possessive pronouns. For example:
+      * -nya as PRON as in _Aku membawanya ke sini._ "I bring it here."
+      * -nya as DET as in _Rumahnya di Depok._ "His/her house is in Depok."
     * pronominal numerals: _beberapa_ "some/many", _semua_ "all" as in _semua siswa_ "all students"
-* Indonesian has the following coordinating conjuncion words ([CCONJ]):
+* Indonesian has the following coordinating conjuncion words (CCONJ):
   * _dan, serta, maupun_ as the equivalents of "and" in English
   * _atau_ "or"
   * _tapi, tetapi, namun, melainkan_ as the equivalents of "but" in English
+* Indonesian also has (de)verbal form as ADJ, ADV or NOUN
+  * Verbal adjecive as in _pesawat terbang_ (plane). Word _terbang_ "fly" is a verb, but in this noun phrase it functions as an adjective.
+  * Verbal adverb as in _secara terpisah_ "separately". Word _terpisah_ "separated" is a verb, but when used together with _secara_ "with", two tokens functions as an adverb.
+  * Verbal noun as in _Hobinya adalah memancing_ "His hobby is fishing". In this sentence, _memancing_ "fisihing" functions as a noun.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
