@@ -65,7 +65,7 @@ udver: '2'
     * possessive pronouns. All personal pronouns in Indonesian can also be used as possessive pronouns. For example:
       * _-nya_ as PRON as in _Aku membawa**nya** ke sini._ "I bring **it** here."
       * _-nya_ as DET as in _Rumah**nya** di Depok._ "**His/her** house is in Depok."
-    * pronominal numerals: _beberapa_ "some/many", _semua_ "all" as in _**semua siswa**_ "all students"
+    * pronominal numerals: _beberapa_ "some/many", _semua_ "all" as in _**semua** siswa_ "**all** students"
 * Indonesian has the following coordinating conjuncion words (CCONJ):
   * _dan, serta, maupun_ as the equivalents of "and" in English
   * _atau_ "or"
@@ -120,10 +120,13 @@ udver: '2'
     * VerbForm=Part is applied to verbal adjective, such as for _terbang_ "fly" in _kapal **terbang**_ "plane", _renang_ "swim" in _kolam **renang**_ "swimming pool" 
     * VerbForm=Vnoun is applied to verbal noun, such as for _memancing_ "fishing", _memasak_ "cooking" as nouns.
   * Voice, applies to VERB with two possible values: Act and Pass.
-    * Voice=Act for active verbs such as _mencintai_ "love", _berdiskusi_ "discuss"
-    * Voice=Pass for passive verbs, that in Indonesian has characteristics of using prefix _di-, ter-_ or confix _ke-an_.
-      * Passive verbs with prefix _di-_ : _dikatakan_ "be said", _dilepaskan_ "be released"
-      * Passive verbs with prefix _ter-_: _terbakar_ "be burned", _terjatuh_ "fell"
+    * Voice=Act for active verbs that has characteristic of using base word, prefix _me-, ber
+      * Active verbs without affix: _duduk_ "sit", _pergi_ "go"
+      * Active verbs with prefix _me-_: _memperbaiki_ "fix", _mengakui_ "admit"
+      * Active verbs with prefix _ber-_: _belajar_ "study", _bekerja_ "work"
+    * Voice=Pass for passive verbs, that has characteristic of using prefix _di-, ter-_ or confix _ke-an_.
+      * Passive verbs with prefix _di-_ : _dipublikasikan_ "be published", _dilepaskan_ "be released"
+      * Passive verbs with prefix _ter-_: _terbakar_ "on fire", _terjatuh_ "fell", _terkejut_ "shocked"
       * Passive verbs with confix _ke-an_: _kehilangan_ "lost", _kecurian_ "be stolen"  
   * Typo, with one possible value, Yes. This feature can be applied to all UPOS, except PUNCT and SYM.
 
@@ -132,11 +135,11 @@ udver: '2'
   * Animacy. Similar with Gender, there is no requirements of agreements between words in Indonesian.
   * NounClass, with the same reason for Gender and Animacy
   * Case, with the same reason for Gender, Animacy, and NounClass
-  * Tense. Indonesian verbs has the same form in any tenses.
+  * Tense. Indonesian verbs have the same form in any tenses.
   * Aspect, with the same reason for Tense.
   
-* These UDv2 might be relevan for Indonesian grammar, but as far as we know there is no Indonesian grammar reference that has discussed about them:
-  * Definite. Indonesian does not have articles like _a/an/the_ in English. Implicitly, a noun phrase can be determined whether it is infinite or definite. However, due to limited references, we will cover this in a future work.
+* These UDv2 might be relevant to Indonesian grammar, but as far as we know there is no Indonesian grammar reference that has discussed them:
+  * Definite. Indonesian does not have articles like _a/an/the_ in English. Implicitly, a noun phrase can be determined whether it is infinite or definite. However, due to limited references, we will cover this in future work.
   * Mood
   * Polite
 
@@ -160,10 +163,13 @@ udver: '2'
 
 ### Relations Overview
 
-* The following relation subtypes are used in Indonesian:
+* The following relation subtypes are used in Indonesian PUD:
  1. acl:relcl
- 2. advmod:emph for particles that emphasize noun phrases
- 3. case:adv
+ 2. advmod:emph for particles (PART) that emphasize other words that could be a NOUN, PRON, VERB, or SCONJ. For example, in _itu**lah**_ that in tokenization phase was split into _itu_ "that" and _**lah**_, _lah_ is annotated as the dependent of _itu_ and the dependency relation between them is advmod:emph.
+ 3. case:adv for adposition (ADP) that together with its following word of ADJ/ADV/VERB serve as an adverb. For example:
+   * ADP + ADJ as adverb, such as _secara "with" hati-hati "careful"_ "carefully", _dengan "with" cepat "quick"_ "quickly"
+   * ADP + ADV as adverb, such as _dengan "with" sungguh-sungguh "serious"_ "seriously"
+   * ADP + VERB as adverb, such as _secara "with" terpisah "separated"_ "separately"
  4. cc:preconj
  5. csubj:pass for clausal subjects of passive verbs
  6. flat:foreign
