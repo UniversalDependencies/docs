@@ -138,7 +138,7 @@ udver: '2'
   * Tense. Indonesian verbs have the same form in any tenses.
   * Aspect, with the same reason for Tense.
   
-* These UDv2 might be relevant to Indonesian grammar, but due to limited references, we will cover this in future work:
+* These UDv2 features might be relevant to Indonesian grammar, but due to limited references, we will cover them in future work:
   * Definite. Indonesian does not have articles like _a/an/the_ in English. Implicitly, a noun phrase can be determined whether it is infinite or definite. 
   * Mood
   * Polite
@@ -153,13 +153,14 @@ udver: '2'
 ### Core Arguments, Oblique Arguments and Adjuncts
 
 * Nominal subject (nsubj) is a noun phrase in the nominative case, without preposition.
-* Transitive verbs will have noun phrase as the object (obj)
-* Passive verbs could be followed by agent (obl:agent)
-* Verbs can have oblique arguments, if the argument with preposition, we label it as obl. However if without preposition, we label it as obl:mod
+* A verb may serve as the subject and is labeled as clausal subject, either as csubj or csubj:pass.
+* Transitive verbs will have noun phrase as the object (obj).
+* Passive verbs could be followed by agent (obl:agent), such as in _Pesan yang disampaikan presiden_ "Messages sent by president", _presiden_ "president" is the agent of predicate _disampaikan_ "sent".
+* Verbs can have oblique arguments. If the argument with preposition, we label it as obl. However if without preposition, we label it as obl:mod. Special for time-related arguments, we label it as obl:tmod
 
 ### Non-verbal Clauses
 
-* The copula ialah or adalah (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. For example: _Ini adalah rumahku._ "This is my house."
+* The copula _ialah_ or _adalah_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. For example: _Ini adalah rumahku._ "This is my house."
 
 ### Relations Overview
 
@@ -182,7 +183,7 @@ udver: '2'
   * nmod:tmod for the head of time-related noun phrases that becomes dependent of a noun phrase. For example, in _pengeluaran tahun ini_ "this year spending", _tahun ini_ "this year" modifies _pengeluaran_ "spending", and the head of this phrase, _tahun_ "year" will be annotated as the dependent of _pengeluaran_ "spending" with the deprel nmod:tmod. 
   * nsubj:pass for nominal subjects of passive verbs
   * obl:agent for agents of passive verbs
-  * obl:mod for adjunct of predicates
+  * obl:mod for have oblique arguments of predicates with no preposition
   * obl:tmod for head of time-related noun phrases that becomes dependent of a VERB/ADJ. For example, in _Kali ini saya setuju._ "This time I agree.", _kali ini_ "this time" describes the predicate _setuju_ "agree", and the head of this noun phrase, _kali_ "time" will be annotated as the dependent of _setuju_ "agree" with the deprel obl:tmod
 * The following relation types are not used in Indonesian PUD:
   * clf
