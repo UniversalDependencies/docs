@@ -568,7 +568,7 @@ Pronoun Fronting:
 Prepositional fronting:
 * _Is sa pháirc a chonaic mé an gabhar_ "It's in the field I first saw the goat"
 
-Note that in UD, the cleft particle _a_ is indistinguishable from the relative particle _a_. Both are labelled 'mark:prt' (see (mark:prt]().
+Note that in UD, the cleft particle _a_ is indistinguishable from the relative particle _a_. Both are labelled 'mark:prt' (see [mark:prt]().
 
 Stenson (1981, p.111) describes the cleft construction as being similar to copular identity structures with the order of elements as Copula, Predicate, Subject. According to Stenson, the _a_ is a relative particle which forms part of the relative
 clause. However, there is no surface head noun in the relative clause { it is missing an NP. Stenson refers to these structures as having an "understood" nominal head such as _an rud_ "the thing" or _an té_ "the person/the one", e.g. _Is ise \[an té\] a chonaic siad inné_. When the nominal head is present, it becomes a copular identity construction: She is the one who they saw yesterday. In the absence of a head noun, the verb is labelled as the head of the clause.
@@ -576,8 +576,24 @@ clause. However, there is no surface head noun in the relative clause { it is mi
 Note that a relative clause which is copular is considered to be clefted when it occurs as the predicate of a copular phrase.
 * _Is é Michael D. Higgins ba chionsiocair leis an Roinn a bhunú sa bhliain 1992._ "Michael D. Higgins was the driving force behind the establishment of the Department in 1992."
 
-In addition, the presence of the pleonastic conjunction _ná_ allows for the reordering of the copula-predicate subject structure which is rearranged to become copula-subject-conjunction-predicate.
-* _Ba é an toradh a bhí ar a gcuid iarrachtaí ná bunú 'Irish Historical Studies' i 1938_ "The result of their efforts was the establishment of'Irish Historical Studies' in 1938".
+
+### Pleonastic Conjunction 'ná'
+
+The presence of the pleonastic conjunction _ná_ allows for the reordering of the copula-predicate subject structure which is rearranged to become copula-subject-conjunction-predicate.
+
+Note that in this example, we consider 'bunú' as the root, 'toradh' as the subject and 'é' as a nominal modifier on 'toradh'. There is a relative clause; 'bhí' is an acl:relcl coming off 'toradh'. 
+
+* _Ba é an toradh a bhí ar a gcuid iarrachtaí <b>ná</b> bunú 'Irish Historical Studies' i 1938_ "The result of their efforts was the establishment of 'Irish Historical Studies' in 1938".
+
+~~~ sdparse
+ROOT Ba é an toradh a bhí ar a gcuid iarrachtaí ná bunú 'Irish Historical Studies' i 1938'. \n ROOT COP(past) The result of their efforts was the establishment of the Irish Historical Studies in 1938. 
+mark:prt(bunú, ná)
+cop(bunú, Ba)
+root(ROOT, bunú)
+nsubj(bunú, toradh)
+nmod(toradh, é)
+acl:relcl(toradh, bhí)
+~~~
 
 ### Language specific labels
 

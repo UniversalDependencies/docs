@@ -35,6 +35,30 @@ Ba ar Mháirín a smaoiníodh sé nuair a d' fheicfeadh sé iad \n Was on Máir�
 mark(fheicfeadh, nuair)
 ~~~
 
+Note that the coordinating conjunction _agus_ ('and') may function as a subordinating conjunction when it is used to introduce a subordinating clause usually headed by a noun, as shown in the example below. In cases such as this one, _agus_ is labelled `mark`. 
+
+_Sa bhliain san ghaibh na Turcaigh François de Vic <b>agus</b> é ar thuras go dtí Vín._ `The Turkish Army apprehended François de Vic while he was on a trip to Vienna.'
+
+~~~ sdparse
+ROOT Sa bhliain san ghaibh na Turcaigh François de Vic agus é ar thuras go dtí Vín \n In_the year that got the Turkish François de Vic and he on trip to [] Vienna
+mark(é, agus)
+root(ROOT, ghaibh)
+advcl(ghaibh, é)
+~~~
+
+#### With copular 'ná'
+
+Note that the clause that follows ‘ná’ is an adverbial clause in certain cases like the example below. 
+
+_Is lú fós a bhí radacachas go forleathan in ollscoileanna na hÉireann <b>ná</b> mar a Bhí thar lear._ '  'There is less widespread radicalism in Irish universities than abroad.'
+
+~~~ sdparse
+Is lú fós a bhí radacachas go forleathan in ollscoileanna na hÉireann ná mar a Bhí thar lear. \n (COP)is less that radicalsim widespread in universities of Ireland than there_was abroad
+cop(lú, Is)
+mark(Bhí, ná)
+advcl(Bhí, lú)
+~~~
+
 #### Infinitive marker
 
 _Caithfidh mé sin <b>a</b> fhoghlaim_ `I will have <b>to</b> learn that'

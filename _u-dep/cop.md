@@ -90,11 +90,11 @@ The motivation for this choice is that this structure is parallel to the flat st
 ~~~ sdparse
 The presence of troops will be destabilizing .
 nsubj(destabilizing, presence)
-cop(destabilizing, be)
+cop/aux(destabilizing, be)
 aux(destabilizing, will)
 ~~~
 
-While a part of speech has to be decided in such cases, it would be unfortunate if the choice of part of speech also changed the dependency structure. Note, however, that the exact distribution of the copula construction is subject to language-specific variation.
+While a part of speech (and associated deprel: `cop` vs. `aux`) has to be decided in such cases, it would be unfortunate if the choice of part of speech also changed the dependency structure. Note, however, that the exact distribution of the copula construction is subject to language-specific variation.
 
 Finally, the `cop` relation is not used when the nonverbal predicate has the form of a clause, which typically occur in equational constructions like the following:
 

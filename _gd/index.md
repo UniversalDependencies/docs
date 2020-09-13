@@ -42,7 +42,7 @@ Some difficult cases follow:
 #### _na b'_/_na bu_
 Ideally this should be exactly parallel with _nas_.
 #### _sam bith_
-Currently both are marked as `ADJ` but there is clearly internal structure.
+_rud sam bith_, 'whatever' and so forth. Currently both _sam_ and _bith_ are marked as `ADJ` but there is clearly internal structure.
 
 ## Morphology
 
@@ -159,9 +159,14 @@ _'S_, _b'_, _bu_, _'se_, _'sann_ and so on are `cop` and the root is whatever ha
 We treat _'S e_ as a fixed expression where _e_ has a `fixed` relation with the `AUX`.
 Again we follow Irish and whatever comes after the root is a subject, be it a nominal subject, `nsubj`, or a clausal subject, `csubj:cop`.
 
+### _mas_
+
+_Mas_ ('if') has a `cop` relation to the _e_ that follows and has UPOS `AUX`.
+(It has XPOS `Csw` and usually `Cs` words are `SCONJ`.)
+
 ### _nach maireann_
 
-This is `acl:relcl` of the deceased because _nach_ is the negative relativiser.
+(as in _Dr Calum MacGilleathain nach maireann_, 'The late Dr Calum Maclean') This is `acl:relcl` of the deceased because _nach_ is the negative relativiser.
 
 ### `parataxis`
 
@@ -169,11 +174,12 @@ Where you have a big long sentence with lots of "ars' esan" and "ars' ise"s in i
 
 ### _an t-seachdain seo chaidh_ and others
 
-Treat _chaidh_ as being `acl:relcl` of _t-seachdain_ (pw05_005, also _ceud_ in the sense of 'century': see fp01_034).
+'last week', literally 'this week that went'. Treat _chaidh_ as being `acl:relcl` of _t-seachdain_ (pw05_005, also _ceud_ in the sense of 'century': see fp01_034).
 
 ### _urrainn_
 
 In most dialects the person (or thing) that can follows the preposition _do_ so is of course `obl`. In some, however, you can say, for example, _'s urrainn mi_, so in this case _mi_ is `obl` of _urrainn_.
+
 ---
 
 ## Treebanks

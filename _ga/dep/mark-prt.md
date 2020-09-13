@@ -115,7 +115,7 @@ The pleonastic conjunction _ná_ allows for the re-ordering of the copula-predic
 _Ba é an t-ainm a bhí ar an stail <b>ná</b> an 'Darling Arabian'._ 'The name of the stallion was 'The Darling Arabian'.'
 
 ~~~ sdparse
-ROOT Ba é an t-ainm a bhí ar an stail ná an 'Darling Arabian'. \n COP(past) it the name that was on the stallion [CONJ] the 'Darling Arabian'.
+ROOT Ba é an t-ainm a bhí ar an stail ná an 'Darling Arabian'. \n ROOT COP(past) it the name that was on the stallion [CONJ] the 'Darling Arabian'.
 mark:prt('Darling, ná)
 cop('Darling, Ba)
 root(ROOT, 'Darling)

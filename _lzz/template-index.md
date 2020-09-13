@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Indonesian UD'
+title:  'Laz UD'
 udver: '2'
 ---
 
-# UD for Indonesian <span class="flagspan"><img class="flag" src="../../flags/svg/ID.svg" /></span>
+# UD for Laz <span class="flagspan"><img class="flag" src="../../flags/svg/TR.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [N](../treebanks/lzz-comparison.html) Laz UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [Laz-A](../treebanks/lzz_a/index.html)
+  * [Laz-B](../treebanks/lzz_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

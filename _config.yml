@@ -264,6 +264,18 @@ collections:
     output: true
   hit:
     output: true
+  glv:
+    output: true
+  lzz:
+    output: true
+  ajp:
+    output: true
+  kfm:
+    output: true
+  nyq:
+    output: true
+  soj:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 

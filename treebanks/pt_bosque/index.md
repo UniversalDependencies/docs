@@ -24,7 +24,7 @@ Download all treebanks: [UD 2.6](/#download)
 
 License: CC BY-SA 4.0
 
-Genre: news, blog
+Genre: news
 
 Questions, comments?
 General annotation questions (either Portuguese-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).

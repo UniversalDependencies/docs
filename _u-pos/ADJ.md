@@ -16,9 +16,13 @@ They may also function as predicates, as in:
 
 _The car is **green**._
 
-The `ADJ` tag is intended for ordinary adjectives only. See [DET]()
-for determiners and [NUM]() for (cardinal) numbers. `ADJ` is used for “proper adjectives”
-such as *European*.
+Some words that could be seen as adjectives (and are tagged as such
+in other annotation schemes) have a different tag in UD: See [DET]()
+for determiners and [NUM]() for (cardinal) numbers.
+
+`ADJ` is also used for “proper adjectives” such as *European*
+(“proper” as in proper nouns, i.e., words that are derived from names
+but are adjectives rather than nouns).
 
 **Numbers vs. Adjectives:** In general, cardinal numbers receive the
 part of speech [NUM](), while _ordinal numbers_ (more
@@ -31,6 +35,8 @@ universal tagging scheme. In particular, the _adjectival_ ordinal numerals
 adjectives and are tagged `ADJ`.
 
 **Nouns vs. Adjectives:** A noun modifying another noun to form a compound noun is given the tag [NOUN]() not `ADJ`.
+On the other hand, adjectives that exceptionally head a nominal phrase (as in _the sick, the healthy_)
+are still tagged `ADJ`.
 
 **Participles:** Participles are word forms that may share properties and
 usage of any of adjectives, nouns, and verbs. Depending on the language and context, they
