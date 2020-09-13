@@ -163,25 +163,28 @@ udver: '2'
 
 ### Relations Overview
 
-* The following relation subtypes are used in Indonesian PUD:
- 1. acl:relcl
- 2. advmod:emph for particles (PART) that emphasize other words that could be a NOUN, PRON, VERB, or SCONJ. For example, in _itu**lah**_ that in tokenization phase was split into _itu_ "that" and _**lah**_, _lah_ is annotated as the dependent of _itu_ and the dependency relation between them is advmod:emph.
- 3. case:adv for adposition (ADP) that together with its following word of ADJ/ADV/VERB serve as an adverb. For example:
-   * ADP + ADJ as adverb, such as _secara "with" hati-hati "careful"_ "carefully", _dengan "with" cepat "quick"_ "quickly"
-   * ADP + ADV as adverb, such as _dengan "with" sungguh-sungguh "serious"_ "seriously"
-   * ADP + VERB as adverb, such as _secara "with" terpisah "separated"_ "separately"
- 4. cc:preconj
- 5. csubj:pass for clausal subjects of passive verbs
- 6. flat:foreign
- 7. flat:range
- 8. nmod:npmod
- 9. nmod:poss
- 10. nmod:tmod
- 11. nsubj:pass for nominal subjects of passive verbs
- 12. obl:agent for agents of passive verbs
- 13. obl:mod
- 14. obl:tmod
-* The following relation types are not used in Indonesian PUD: clf, expl, reparandum.
+* The following 14 relation subtypes are used in Indonesian PUD:
+  * acl:relcl
+  * advmod:emph for particles (PART) _-lah, -kah, -tah, pun_ that emphasize other words that could be a NOUN, PRON, VERB, or SCONJ. For example, in _itu**lah**_ that in tokenization phase was split into _itu_ "that" and _**lah**_, _lah_ is annotated as the dependent of _itu_ and the dependency relation between them is advmod:emph.
+  * case:adv for adposition (ADP) that together with its following word of ADJ/ADV/VERB serve as an adverb. In this case the ADP word is annotated as the dependent of ADJ/ADV/VERB and the deprel between them is case:adv, and the relation between the ADJ/ADV/VERB word with its head is advmod. For example:
+    * ADP + ADJ as adverb, such as _secara hati-hati_ "carefully", that consists of _secara_ "with"_ (ADP) + _hati-hati_ "careful" (ADJ) 
+    * ADP + ADV as adverb, such as _dengan sungguh-sungguh_ "seriously", that consists of _dengan_ "with" (ADP) + sungguh-sungguh "serious" (ADV) 
+    * ADP + VERB as adverb, such as _secara terpisah_ "separately", that consists of _secara_ "with" (ADP) + _terpisah_ "separated" (VERB).
+  * cc:preconj
+  * csubj:pass for clausal subjects of passive verbs
+  * flat:foreign
+  * flat:range
+  * nmod:npmod
+  * nmod:poss
+  * nmod:tmod
+  * nsubj:pass for nominal subjects of passive verbs
+  * obl:agent for agents of passive verbs
+  * obl:mod
+  * obl:tmod
+* The following relation types are not used in Indonesian PUD:
+  * clf
+  * expl
+  * reparandum
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
