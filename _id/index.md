@@ -66,7 +66,7 @@ udver: '2'
       * _-nya_ as PRON as in _Aku membawa**nya** ke sini._ "I bring **it** here."
       * _-nya_ as DET as in _Rumah**nya** di Depok._ "**His/her** house is in Depok."
     * pronominal numerals: _beberapa_ "some/many", _semua_ "all" as in _**semua** siswa_ "**all** students"
-* Indonesian has the following coordinating conjuncion words (CCONJ):
+* Indonesian has the following coordinating conjunction words (CCONJ):
   * _dan, serta, maupun_ as the equivalents of "and" in English
   * _atau_ "or"
   * _tapi, tetapi, namun, melainkan_ as the equivalents of "but" in English
@@ -97,12 +97,12 @@ udver: '2'
     * NumType=Ord is used for ordinal numbers tagged as ADJ
   * Person, applies to PRON with three possible values: 1, 2, 3.
   * Polarity, with one possible value: Neg, applies to PART and INTJ.
-    * Polarity=Neg for PART applies for negation words as in _Saya tidak menyukainya_ "I do not like him/her/it". Word _tidak_ "no" will be tagged with Polarity=Neg.
-    * Polarity=Neg for INTJ as in _Tidak, terima kasih_ "No, thanks". Word _tidak_ "no" will be given feature Polarity=Neg.
+    * Polarity=Neg for PART applies for negation words as in _Saya **tidak** menyukainya_ "I do **not** like him/her/it". Word _tidak_ "no" will be tagged with Polarity=Neg.
+    * Polarity=Neg for INTJ as in _**Tidak**, terima kasih_ "**No**, thanks". Word _tidak_ "no" will be given feature Polarity=Neg.
   * Poss, applies to DET, with one possible value: Yes. This feature will be applied to all PRON that serve as possessive pronouns.
   * PronType, applies to PRON, DET, and ADV. For Indonesian, 7 possible values can be applied:
-    1. PronType=Dem, applies to PRON such as for _itu_ "that" in _**Itu** masalahmu._ "That is your problem."
-    2. PronType=Emp, applies to PRON such as for _sendiri_ "self" in _Kamu harus percaya pada dirimu **sendiri**_ "You have to believe in yourself".
+    1. PronType=Dem, applies to PRON such as for _itu_ "that" in _**Itu** masalahmu._ "**That** is your problem."
+    2. PronType=Emp, applies to PRON such as for _sendiri_ "self" in _Kamu harus percaya pada dirimu **sendiri**_ "You have to believe in your**self**".
     3. PronType=Ind, applies to PRON such as for _seseorang_ "someone/somebody" or _sesuatu_ "something" 
     4. PronType=Int, applies to PRON and ADV. 
       * PronType=Int for PRON, such as for _apa_ "what" and _siapa_ "who" in interrogative sentences
@@ -112,9 +112,9 @@ udver: '2'
       * PronType=Rel for PRON, such as for _apa_ "what", _siapa_ "who", _yang_ "that". 
       * PronType=Rel for ADV, such as for _bagaimana_ "how" and _kapan_ "when" in non-interrogative sentences  
     7. PronType=Tot, applies to PRON, DET, or ADV.
-      * PronType=Tot for PRON, such as for _semua_ "all" in _**Semua** adalah milikmu._ "All is yours."
-      * PronType=Tot for DET, such as for _semua_ "all" in _**Semua** siswa terlihat senang._ "All students look happy." 
-      * PronType=Tot for ADV, such as for _selalu_ "always" in _Dia **selalu** terlambat_. "She is always late."
+      * PronType=Tot for PRON, such as for _semua_ "all" in _**Semua** adalah milikmu._ "**All** is yours."
+      * PronType=Tot for DET, such as for _semua_ "all" in _**Semua** siswa terlihat senang._ "**All** students look happy." 
+      * PronType=Tot for ADV, such as for _selalu_ "always" in _Dia **selalu** terlambat_. "She is **always** late."
   * VerbForm, applies to ADJ, ADV, and NOUN, with 3 possible values: Conv, Part, and Vnoun.
     * VerbForm=Conv is applied to verbal adverb, such as for _terpisah_ "be separated" in _secara terpisah_ "separately"
     * VerbForm=Part is applied to verbal adjective, such as for _terbang_ "fly" in _kapal **terbang**_ "plane", _renang_ "swim" in _kolam **renang**_ "swimming pool" 
