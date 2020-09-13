@@ -32,10 +32,10 @@ incorporated items are given nodes.
 
 ### Tags
 
-* `ADJ` `ADP` `ADV` `AUX` `CCONJ` `DET`? `INTJ` `NOUN` `NUM` `PART` `PRON` `PROPN` `PUNCT` `SCONJ`? `VERB` `X`
+* [ADJ]() [ADP]() [ADV]() [AUX]() [CCONJ]() [DET]()? [INTJ]() [NOUN]() [NUM]() [PART]() [PRON]() [PROPN]() [PUNCT]() [SCONJ]()? [VERB]() [X]()
 
 The following are described by Dunn as particles, but are annotated here as `AUX`
-given the TAM.
+because they provide the clause with tense-aspect-modality features.
 
 * *ӄырым*:
 * *ванэван* (also *ванэ*):
@@ -50,14 +50,22 @@ The following are copulae:
 
 * Core arguments are marked on the verb. Subjects of intransitive verbs have agreement markers with `subj`, e.g. `Person[subj]=1`. Subjects of transitive verbs have agreement markers with `agent`, e.g. `Person[agent]=1`. Objects are marked with `obj`, e.g. `Person[obj]=3`.
 
-* `acl:attr` `acl:relat` `advmod:emph` `aux:neg` `flat:foreign` `flat:name` `nmod:attr` `nmod:poss` `nmod:relat` `parataxis:speech`
+* The following relation subtypes are used in the Chukchi data:
+  * [acl:attr]()
+  * [acl:relat]()
+  * [advmod:emph]()
+  * [aux:neg]()
+  * [flat:foreign]() to connect sequences of foreign words in code switching.
+  * [flat:name]() for multi-word personal names.
+  * [nmod:attr]()
+  * [nmod:poss]() to attach possessor modifier to the possessed nominal.
+  * [nmod:relat]()
+  * [parataxis:speech]()
 
 ---
 
 ## Treebanks
 
-There is [1](../treebanks/ckt-comparison.html) Chukchi UD treebanks:
+There is 1 Chukchi UD treebank:
 
-  * Chukchi-HSE
-
----
+  * [Chukchi-HSE](../treebanks/ckt_hse/index.html)
