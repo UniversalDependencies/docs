@@ -49,7 +49,7 @@ udver: '2'
   * _boleh_ as the equivalent of modal “may”.
   * _mungkin_ as the equivalent of modal “might”.
   * _harus_ as the equivalent of modal “must”.
-  * _adalah_ and _ialah_ “be” serve as copulas. Another copula in Indonesian KBBI, _merupakan_ (be), is tagged as VERB, not AUX since its morphology of using confix _me-kan_ is closer to VERB.
+  * _adalah_ and _ialah_ “be” serve as copulas. 
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
   * The following word types are tagged as PRON:
     * personal pronouns, such as _saya/aku/ku_ "I", _kamu/mu/anda_ "you", _dia/ia/nya_ "he/she/it/him/her/its", _kami/kita_ "we/us/our", _mereka_ "they/them/their"
@@ -57,11 +57,13 @@ udver: '2'
     * relative pronouns: _apa_ "what", _siapa_ "who" as in _Saya tahu **siapa** yang kamu maksud._ "I know **who** you mean"
     * indefinite pronouns: _seseorang_ "seomeone/somebody", _sesuatu_ "something"
     * total pronouns, such as _semua_ "all" as in _**Semua** kecuali bukumu_ "**All** except your books".
+    * demonstrative pronouns: _ini_ "this" as in _**Ini** bukan salahmu._ "**This** is not your fault". 
   * The following word types are tagged as DET:
     * possessive pronouns. All personal pronouns in Indonesian can also be used as possessive pronouns. For example:
       * _-nya_ as PRON as in _Aku membawa**nya** ke sini._ "I bring **it** here."
       * _-nya_ as DET as in _Rumah**nya** di Depok._ "**His/her** house is in Depok."
     * pronominal numerals: _beberapa_ "some/many", _semua_ "all" as in _**semua** siswa_ "**all** students"
+    * demonstrative determiners: _ini_ "this" as in _Kota **ini** sangat indah_ "**This** city is beautiful"
 * Indonesian has the following coordinating conjunction words ([CCONJ]()):
   * _dan, serta, maupun_ as the equivalents of "and" in English
   * _atau_ "or"
@@ -92,7 +94,7 @@ udver: '2'
   * [Polarity](), with one possible value: `Neg`, applies to [PART]() and [INTJ]().
     * `Polarity=Neg` for [PART]() applies for negation words as in _Saya **tidak** menyukainya_ "I do **not** like him/her/it". The word _tidak_ "no" will be tagged with `Polarity=Neg`.
     * `Polarity=Neg` for [INTJ]() as in _**Tidak**, terima kasih_ "**No**, thanks". The word _tidak_ "no" will be given feature `Polarity=Neg`.
-  * [Poss](), applies to [DET](), with one possible value: `Yes`. This feature will be applied to all [PRON]() that serve as possessive pronouns.
+  * [Poss](), applies to [DET](), with one possible value: `Yes`. This feature will be applied to all [DET]() that serve as possessive pronouns.
   * [PronType](), applies to [PRON](), [DET](), and [ADV](). For Indonesian, 7 possible values can be applied:
     1. `PronType=Dem`, applies to `PRON` such as for _itu_ "that" in _**Itu** masalahmu._ "**That** is your problem."
     2. `PronType=Emp`, applies to `PRON` such as for _sendiri_ "self" in _Kamu harus percaya pada dirimu **sendiri**_ "You have to believe in your**self**".
@@ -142,7 +144,7 @@ udver: '2'
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
-* Nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
+* Nominal subject ([nsubj]()) is a noun phrase, without preposition.
 * A verb may serve as the subject and is labeled as clausal subject, either as csubj or csubj:pass.
 * Transitive verbs will have a noun phrase as the object ([obj]()).
 * Passive verbs could be followed by agent ([obl:agent]()), such as in _Pesan yang disampaikan presiden_ "Messages sent by president", _presiden_ "president" is the agent of predicate _disampaikan_ "sent".
@@ -150,7 +152,7 @@ udver: '2'
 
 ### Non-verbal Clauses
 
-* The copula _ialah_ or _adalah_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. For example: _Ini adalah rumahku._ "This is my house."
+* The copula _ialah_ or _adalah_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. For example: _Ini **adalah** rumahku._ "This **is** my house."
 
 ### Relations Overview
 
