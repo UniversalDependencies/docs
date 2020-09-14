@@ -15,7 +15,7 @@ is given to the first token, and subsequent tokens are given the part of speech 
 
 The most important tokenisation factor is with the words traditionally described as *inflected* or *conjugated* prepositions. Here
 we analyse them as contractions of prepositions and pronouns. For example, *dit* is tokenised as a multiword token
-constructed from *da* "for" and *it* "you". 
+constructed from *da* "to" and *it* "you". 
 
 ## Morphology
 
@@ -78,6 +78,7 @@ Inflectional:
 
 
 ## Syntax
+
 
 The following relation subtypes are used in the Breton data:
 
