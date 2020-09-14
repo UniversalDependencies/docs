@@ -21,13 +21,13 @@ constructed from *da* "for" and *it* "you".
 
 ### Tags
 
-* [ADJ]() [ADP]() [ADV]() [AUX]() [CCONJ]() [DET]() [INTJ]() [NOUN]() [NUM]() [PART]() [PRON]() [PROPN]() [PUNCT]() [SCONJ]() [SYM]() [VERB]() [X]()
+* [ADJ]() [ADP]() [ADV]() [AUX]() [CCONJ]() [DET]() [INTJ]() [NOUN]() [NUM]() ~~[PART]()~~ [PRON]() [PROPN]() [PUNCT]() [SCONJ]() [SYM]() [VERB]() [X]()
 
 Some comments on various parts of speech:
 
 * [X]() Used for parts of multiword tokens that do not necessary have a part of speech of their own. 
 * [ADP]() Breton has prepositions. Those words often called *inflected* or *conjugated* prepositions are analysed as multiword tokens (see above).
-* [PART]() Words described in the literature as *verbal particles* are tagged as [AUX]().
+* [PART]() Not used, words described in the literature as *verbal particles* are tagged as [AUX]().
 
 Words tagged as [AUX]():
 
