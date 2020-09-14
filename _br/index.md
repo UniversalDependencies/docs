@@ -24,6 +24,10 @@ udver: '2'
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
+* [X]() Used for parts of multiword tokens that do not necessary have a part of speech of their own. 
+* [ADP]() Breton has prepositions. Those words often called *inflected* or *conjugated* prepositions are analysed as multiword tokens (see above).
+* [PART]() Words described in the literature as *verbal particles* are tagged as [AUX]().
+
 ---
 
 ### Features
