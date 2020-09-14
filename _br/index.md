@@ -8,12 +8,14 @@ udver: '2'
 
 ## Tokenisation and Word Segmentation
 
-*
+Tokenisation was originally done using the Apertium morphological analyser for Breton. This joins certain multiword
+tokens with spaces as single tokens. Where the number of spaces in the original token matches the number of spaces
+in the multiword token, these are split into separate tokens in UD, where the part of speech of the multiword token
+is given to the first token, and subsequent tokens are given the part of speech [X]() and attached with the [fixed]() relation.
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
+The most important tokenisation factor is with the words traditionally described as *inflected* or *conjugated* prepositions. Here
+we analyse them as contractions of prepositions and pronouns. For example, *dit* is tokenised as a multiword token
+constructed from *da* "for" and *it* "you". 
 
 ## Morphology
 
@@ -21,44 +23,74 @@ udver: '2'
 
 * [ADJ]() [ADP]() [ADV]() [AUX]() [CCONJ]() [DET]() [INTJ]() [NOUN]() [NUM]() [PART]() [PRON]() [PROPN]() [PUNCT]() [SCONJ]() [SYM]() [VERB]() [X]()
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
+Some comments on various parts of speech:
 
 * [X]() Used for parts of multiword tokens that do not necessary have a part of speech of their own. 
 * [ADP]() Breton has prepositions. Those words often called *inflected* or *conjugated* prepositions are analysed as multiword tokens (see above).
 * [PART]() Words described in the literature as *verbal particles* are tagged as [AUX]().
 
+Words tagged as [AUX]():
+
+Copulae:
+
+* *bezañ*
+
+Auxiliary verbs:
+
+* *kaout*
+* *ober*
+
+Verbal "particles":
+
+* *a*
+* *en ur*
+* *en em*
+* *e*
+* *o*
+* *na*
+* *ra*
+
 ---
 
 ### Features
 
-*
+Inherent:
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
+* Gender (in NOUNs)
+* NumType
+* Polarity
+* Case
+* PronType
+* Reflex
+* Poss
+* Person
+* Gender[psor]
 
----
+Inflectional:
+
+* Aspect
+* Degree
+* Gender (other than NOUNs)
+* Mood
+* Number
+* Tense
+* VerbForm
+
 
 ## Syntax
-
-*
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
 
 The following relation subtypes are used in the Breton data:
 
 * [acl:focus]()
 * [acl:relcl]()
 * [advmod:neg]()
-* [aux:pass]()
-* [fixed:name]()
+* [aux:pass]() Auxiliary verb used in the construction of the passive
 * [flat:name]()
-* [nmod:gen]()
+* [nmod:gen]() Nominal modification with genitive meaning using Celtic-style conjunctive genitive
 * [nmod:poss]()
 * [nsubj:appos]()
 * [nsubj:cop]()
-* [obl:agent]()
+* [obl:agent]() An oblique introduced with *gant* "with" that expresses the agent in a passive construction
 * [obl:x]()
 
 ---
