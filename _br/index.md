@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for Breton <span class="flagspan"><img class="flag" src="../../flags/svg/FR-BRE.svg" /></span>
 
-## Tokenization and Word Segmentation
+## Tokenisation and Word Segmentation
 
 *
 
@@ -19,7 +19,7 @@ udver: '2'
 
 ### Tags
 
-*
+* [ADJ]() [ADP]() [ADV]() [AUX]() [CCONJ]() [DET]() [INTJ]() [NOUN]() [NUM]() [PART]() [PRON]() [PROPN]() [PUNCT]() [SCONJ]() [SYM]() [VERB]() [X]()
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -42,18 +42,26 @@ udver: '2'
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
 
+The following relation subtypes are used in the Breton data:
+
+* [acl:focus]()
+* [acl:relcl]()
+* [advmod:neg]()
+* [aux:pass]()
+* [fixed:name]()
+* [flat:name]()
+* [nmod:gen]()
+* [nmod:poss]()
+* [nsubj:appos]()
+* [nsubj:cop]()
+* [obl:agent]()
+* [obl:x]()
+
 ---
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There is 1 Breton UD treebank:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [Breton-KEB](../treebanks/br_keb/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
