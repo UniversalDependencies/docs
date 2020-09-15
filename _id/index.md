@@ -160,28 +160,26 @@ udver: '2'
 
 * The following 14 relation subtypes are used in Indonesian PUD:
   * [acl:relcl]() for relative clauses that modify a noun phrase. In Indonesian, relative clauses usually use _yang_ as the subject of the clause.
-  * [advmod:emph]() for particles (PART) _-lah, -kah, -tah, pun_ that emphasize other words that could be a [NOUN](), [PRON](), [VERB](), or [SCONJ](). For example, in _itu**lah**_ that in tokenization phase was split into _itu_ "that" and _**lah**_, _lah_ is annotated as the dependent of _itu_ and the dependency relation between them is `advmod:emph`.
+  * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah, pun_ that emphasize other words that could be a [NOUN](), [PRON](), [VERB](), or [SCONJ](). For example, token _itu**lah**_ "that" in tokenization phase was split into _itu_ "that" and _**lah**_, then _lah_ is annotated as the dependent of _itu_ and the relation between them is `advmod:emph`.
   * [case:adv]() for adposition ([ADP]()) that together with its following word of [ADJ]()/[ADV]()/[VERB]() serve as an adverb. In this case the `ADP` word is annotated as the dependent of `ADJ`/`ADV`/`VERB` and the dependency relation between them is `case:adv`, and the relation between the `ADJ/ADV/VERB` word and its parent is [advmod](). For example:
     * `ADP` + `ADJ` as adverb, such as _secara hati-hati_ "carefully", that consists of _secara_ "with"_ (`ADP`) + _hati-hati_ "careful" (`ADJ`)
     * `ADP` + `ADV` as adverb, such as _dengan sungguh-sungguh_ "seriously", that consists of _dengan_ "with" (`ADP`) + sungguh-sungguh "serious" (`ADV`)
     * `ADP` + `VERB` as adverb, such as _secara terpisah_ "separately", that consists of _secara_ "with" (`ADP`) + _terpisah_ "separated" (`VERB`).
   * [cc:preconj](), such as in _baik Mongolia maupun Tingkok_ "both Mongolia and China", _baik_ "both" is considered as preconjunct.
   * [csubj:pass]() for clausal subjects of passive verbs.
-  * [det:poss]() for possessive relationship between `NOUN/PROPN` and possessive pronoun that tagged as DET. For example, in _temanku_ "my friend" that is split into _teman_ "friend" and _ku_ "my", token _ku_ "my" will be given deprel `nmod:poss`.
+  * [det:poss]() for possessive relationship between `NOUN/PROPN` and possessive pronoun that tagged as (`DET`). For example, in _temanku_ "my friend" that is split into _teman_ "friend" and _ku_ "my", token _ku_ "my" will be given deprel `det:poss`.
   * [flat:foreign]() to label sequences of foreign words.
   * [flat:range]() for noun phrases that consist of range, such as _2019-2020_ will be separated into three tokens, and the relation between 2020 to 2019 is annotated as `flat:range`.
-  * [nmod:poss]() for possessive relationship between `NOUN/PROPN` and another NOUN/PROPN. For example, in _istri Trump_ "Trump's wife", token Trump will be given deprel `nmod:poss`.
-  * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. For example, in _pengeluaran tahun ini_ "this year spending", _tahun ini_ "this year" modifies _pengeluaran_ "spending", and the head of this phrase, _tahun_ "year" will be annotated as the dependent of _pengeluaran_ "spending" with the deprel nmod:tmod.
+  * [nmod:poss]() for possessive relationship between `NOUN/PROPN` and another `NOUN/PROPN`. For example, in _istri Trump_ "Trump's wife", token Trump will be given deprel `nmod:poss`.
+  * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. For example, in _pengeluaran **tahun ini**_ "**this year** spending", _tahun ini_ "this year" modifies _pengeluaran_ "spending", and the head of this phrase, _tahun_ "year" will be annotated as the dependent of _pengeluaran_ "spending" with the deprel `nmod:tmod`.
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
   * [obl:mod]() for have oblique arguments of predicates with no preposition
-  * [obl:tmod]() for head of time-related noun phrases that depend on a `VERB/ADJ`. For example, in _Kali ini saya setuju._ "This time I agree.", _kali ini_ "this time" describes the predicate _setuju_ "agree", and the head of this noun phrase, _kali_ "time" will be annotated as the dependent of _setuju_ "agree" with the deprel obl:tmod
+  * [obl:tmod]() for head of time-related noun phrases that depend on a `VERB/ADJ`. For example, in _**Kali ini** saya setuju._ "**This time** I agree.", _kali ini_ "this time" describes the predicate _setuju_ "agree", and the head of this noun phrase, _kali_ "time", will be annotated as the dependent of _setuju_ "agree" with the deprel `obl:tmod`
 * The following relation types are not used in Indonesian PUD:
   * `clf`
   * `expl`
   * `reparandum`
-
-
 
 ## Treebanks
 
