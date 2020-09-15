@@ -77,7 +77,7 @@ udver: '2'
 
 ### Features
 
-* We propose the use of 13 of 24 features defined in UDv2 that are relevant to Indonesian grammar:
+* We propose the use of 12 of 24 features defined in UDv2 that are relevant to Indonesian grammar:
   * [Abbr](), with one possible value: `Yes`. This feature can be applied to all UPOS categories, except [PUNCT]() and [SYM]().
   * [Clusivity](), applies to [PRON]() with two possible values: `Ex` and `In`.
     * `Clusivity=Ex` for _kami_ "we/our"
@@ -110,10 +110,6 @@ udver: '2'
       * `PronType=Tot` for `PRON`, such as for _semua_ "all" in _**Semua** adalah milikmu._ "**All** is yours."
       * `PronType=Tot` for `DET`, such as for _semua_ "all" in _**Semua** siswa terlihat senang._ "**All** students look happy."
       * `PronType=Tot` for `ADV`, such as for _selalu_ "always" in _Dia **selalu** terlambat_. "She is **always** late."
-  * [VerbForm](), applies to [ADJ](), [ADV](), and [NOUN](), with 3 possible values: `Conv`, `Part`, and `Vnoun`.
-    * `VerbForm=Conv` is applied to verbal adverbs, such as for _terpisah_ "be separated" in _secara terpisah_ "separately"
-    * `VerbForm=Part` is applied to verbal adjectives, such as for _terbang_ "fly" in _kapal **terbang**_ "plane", _renang_ "swim" in _kolam **renang**_ "swimming pool"
-    * `VerbForm=Vnoun` is applied to verbal nouns, such as for _memancing_ "fishing", _memasak_ "cooking" as nouns.
   * [Voice](), applies to [VERB]() with two possible values: `Act` and `Pass`.
     * `Voice=Act` for active verbs that have characteristic of using base word, prefixes _me-, ber-_
       * Active verbs without affix: _duduk_ "sit", _pergi_ "go"
@@ -122,7 +118,7 @@ udver: '2'
     * `Voice=Pass` for passive verbs that have characteristic of using prefixes _di-, ter-_ or circumfix _ke-an_.
       * Passive verbs with prefix _di-_ : _dipublikasikan_ "be published", _dilepaskan_ "be released"
       * Passive verbs with prefix _ter-_: _terbakar_ "on fire", _terjatuh_ "fell", _terkejut_ "shocked"
-      * Passive verbs with confix _ke-an_: _kehilangan_ "lost", _kecurian_ "be stolen"
+      * Passive verbs with confix _ke-an_: _ketinggalan_ "lag behind", _kecurian_ "be stolen"
   * [Typo](), with one possible value, `Yes`. This feature can be applied to all UPOS categories except [PUNCT]() and [SYM]().
 
 * These UDv2 features are not relevant to Indonesian grammar:
@@ -132,11 +128,17 @@ udver: '2'
   * `Case`, with the same reason for Gender, Animacy, and NounClass
   * `Tense`. Indonesian verbs have the same form in all tenses.
   * `Aspect`, with the same reason for Tense.
+  * `Aspect`
 
 * These UDv2 features might be relevant to Indonesian grammar, but due to limited references, we will cover them in future work:
   * [Definite](). Indonesian does not have articles like _a/an/the_ in English. Implicitly, a noun phrase can be determined whether it is infinite or definite.
   * [Mood]()
   * [Polite]()
+  * [Reflex](), applies to [PRON]() with one possible value: Yes.
+  * [VerbForm](), could be applied to [ADJ](), [ADV](), and [NOUN](), with 3 possible values: `Conv`, `Part`, and `Vnoun`.
+    * `VerbForm=Conv` is applied to verbal adverbs, such as for _terpisah_ "be separated" in _secara terpisah_ "separately"
+    * `VerbForm=Part` is applied to verbal adjectives, such as for _terbang_ "fly" in _kapal **terbang**_ "plane", _renang_ "swim" in _kolam **renang**_ "swimming pool"
+    * `VerbForm=Vnoun` is applied to verbal nouns, such as for _memancing_ "fishing", _memasak_ "cooking" as nouns.
 
 
 
@@ -165,13 +167,10 @@ udver: '2'
     * `ADP` + `VERB` as adverb, such as _secara terpisah_ "separately", that consists of _secara_ "with" (`ADP`) + _terpisah_ "separated" (`VERB`).
   * [cc:preconj](), such as in _baik Mongolia maupun Tingkok_ "both Mongolia and China", _baik_ "both" is considered as preconjunct.
   * [csubj:pass]() for clausal subjects of passive verbs.
+  * [det:poss]() for possessive relationship between `NOUN/PROPN` and possessive pronoun that tagged as DET. For example, in _temanku_ "my friend" that is split into _teman_ "friend" and _ku_ "my", token _ku_ "my" will be given deprel `nmod:poss`.
   * [flat:foreign]() to label sequences of foreign words.
   * [flat:range]() for noun phrases that consist of range, such as _2019-2020_ will be separated into three tokens, and the relation between 2020 to 2019 is annotated as `flat:range`.
-  * [nmod:npmod]() for the head of noun phrase that describes another noun phrase without preposition. We use this deprel in several cases:
-    * `NOUN` + `NOUN` relation, such as in _penggerak utama pengeluaran modal_ "main driver of capital expenditure" that consist of two noun phrases, _penggerak utama_ "main driver" and _pengeluaran modal_ "capital expenditure". In Indonesian version, there is no `ADP` _of_ as in English version, that's why we can't simply use [nmod]() to link the head of _pengeluaran modal_ "capital expenditure" to the head of _penggerak utama_ "main driver. We propose the use of `nmod:npmod` for this case.
-    * `NOUN` + `PROPN` relation, such as in _orang Indonesia_ "Indonesian people". The token Indonesia is annotated as the dependent of _orang_ "people" with deprel nmod:npmod
-    * locative `NOUN` + `NOUN` relation. In Indonesian, _dalam_ "in", _luar_ "out are considered as locative nouns. For noun phrases like _dalam ruangan_ "in a/the room", locative noun is annotated as the dependent of the noun phrase that it modify. We propose the use of `nmod:npmod` for this case
-  * [nmod:poss]() for possessive relationship between `NOUN/PROPN` and its owner. For example, in _temanku_ "my friend" that is split into _teman_ "friend" and _ku_ "my", token _ku_ "my" will be given deprel `nmod:poss`.
+  * [nmod:poss]() for possessive relationship between `NOUN/PROPN` and another NOUN/PROPN. For example, in _istri Trump_ "Trump's wife", token Trump will be given deprel `nmod:poss`.
   * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. For example, in _pengeluaran tahun ini_ "this year spending", _tahun ini_ "this year" modifies _pengeluaran_ "spending", and the head of this phrase, _tahun_ "year" will be annotated as the dependent of _pengeluaran_ "spending" with the deprel nmod:tmod.
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
