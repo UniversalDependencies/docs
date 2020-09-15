@@ -33,7 +33,7 @@ udver: '2'
   * Subject clauses
   * Adverbial clauses
   * Relative clauses
-    * Free relatives
+    * Free relatives (see also issues and other discussions, e.g. [this comment](https://github.com/UniversalDependencies/UD_English-EWT/pull/96#issuecomment-692915672))
   * Other adnominal clauses
   * Open complements (and secondary predication)
   * Direct speech, indirect/reported speech, indirect questions
