@@ -74,7 +74,6 @@ udver: '2'
   * Verbal noun as in _Hobinya adalah **memancing**_ "His hobby is fishing". In this sentence, _memancing_ "fishing" functions as a noun.
 
 
-
 ### Features
 
 * We propose the use of 12 of 24 features defined in UDv2 that are relevant to Indonesian grammar:
@@ -128,7 +127,7 @@ udver: '2'
   * `Case`, with the same reason for Gender, Animacy, and NounClass
   * `Tense`. Indonesian verbs have the same form in all tenses.
   * `Aspect`, with the same reason for Tense.
-  * `Aspect`
+  * `Evident`
 
 * These UDv2 features might be relevant to Indonesian grammar, but due to limited references, we will cover them in future work:
   * [Definite](). Indonesian does not have articles like _a/an/the_ in English. Implicitly, a noun phrase can be determined whether it is infinite or definite.
@@ -141,7 +140,6 @@ udver: '2'
     * `VerbForm=Vnoun` is applied to verbal nouns, such as for _memancing_ "fishing", _memasak_ "cooking" as nouns.
 
 
-
 ## Syntax
 
 ### Core Arguments, Oblique Arguments and Adjuncts
@@ -149,12 +147,14 @@ udver: '2'
 * Nominal subject ([nsubj]()) is a noun phrase, without preposition.
 * A verb may serve as the subject and is labeled as clausal subject, either as csubj or csubj:pass.
 * Transitive verbs will have a noun phrase as the object ([obj]()).
-* Passive verbs could be followed by agent ([obl:agent]()), such as in _Pesan yang disampaikan presiden_ "Messages sent by president", _presiden_ "president" is the agent of predicate _disampaikan_ "sent".
+* Passive verbs could be followed by agent ([obl:agent]()), such as in _Pesan yang dikirimkan **presiden**_ "Messages sent by **president**", _presiden_ "president" is the agent of predicate _dikirimkan_ "be sent".
 * Verbs can have oblique arguments. If the argument includes a preposition, we label it as [obl](). However if it appears without preposition, we label it as [obl:mod](). Special for temporal modifiers, we label it as [obl:tmod]().
 
 ### Non-verbal Clauses
 
-* The copula _ialah_ or _adalah_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. For example: _Ini **adalah** rumahku._ "This **is** my house."
+* The copula _ialah_ or _adalah_ (be) is optionally used in equational, attributional, locative, possessive and benefactory nonverbal clauses. For example: "This **is** my house.", in Indonesian can be written as:
+  * _Ini rumahku._, without copula
+  * _Ini **adalah** rumahku._, with copula _adalah_
 
 ### Relations Overview
 
