@@ -135,7 +135,9 @@ However (see f01_028), there are also uses of _bi_ for extent in time (n03_041) 
 
 ### _còrr is_ and friends
 
-Example taken from pw01_015: in _còrr is deich bliadhna_, _bliadhna_ is conjoined with _còrr_ and _deich_ is a `nummod` of _bliadhna_.
+Example taken from pw01_015a: in _còrr is deich bliadhna_, _bliadhna_ is conjoined with _còrr_ and _deich_ is a `nummod` of _bliadhna_.
+
+From ns04_053: in _thachair an tubaist còrr is bliadhna gu leth_ _còrr_ is `obl:tmod` of _thachair_ because the phrase as a whole is a time phrase.
 
 ### _dè cho..._
 
