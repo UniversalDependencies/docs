@@ -96,7 +96,7 @@ udver: '2'
   * [Poss](), applies to [DET](), with one possible value: `Yes`. This feature will be applied to all [DET]() that serve as possessive pronouns.
   * [PronType](), applies to [PRON](), [DET](), and [ADV](). For Indonesian, 7 possible values can be applied:
     1. `PronType=Dem`, applies to `PRON` such as for _itu_ "that" in _**Itu** masalahmu._ "**That** is your problem."
-    2. `PronType=Emp`, applies to `PRON` such as for _sendiri_ "self" in _Kamu harus percaya pada dirimu **sendiri**_ "You have to believe in your**self**".
+    2. `PronType=Emp`, applies to `DET` such as for _sendiri_ "self" in _Kamu harus percaya pada dirimu **sendiri**_ "You have to believe in your**self**".
     3. `PronType=Ind`, applies to `PRON` such as for _seseorang_ "someone/somebody" or _sesuatu_ "something"
     4. `PronType=Int`, applies to `PRON` and `ADV`.
       * `PronType=Int` for `PRON`, such as for _apa_ "what" and _siapa_ "who" in interrogative sentences
@@ -109,6 +109,9 @@ udver: '2'
       * `PronType=Tot` for `PRON`, such as for _semua_ "all" in _**Semua** adalah milikmu._ "**All** is yours."
       * `PronType=Tot` for `DET`, such as for _semua_ "all" in _**Semua** siswa terlihat senang._ "**All** students look happy."
       * `PronType=Tot` for `ADV`, such as for _selalu_ "always" in _Dia **selalu** terlambat_. "She is **always** late."
+  * [Reflex](), applies to [PRON]() with one possible value: Yes. 
+  * [Typo](), with one possible value, `Yes`. This feature can be applied to all UPOS categories except [PUNCT]() and [SYM]().
+
   * [Voice](), applies to [VERB]() with two possible values: `Act` and `Pass`.
     * `Voice=Act` for active verbs that have characteristic of using base word, prefixes _me-, ber-_
       * Active verbs without affix: _duduk_ "sit", _pergi_ "go"
@@ -118,8 +121,6 @@ udver: '2'
       * Passive verbs with prefix _di-_ : _dipublikasikan_ "be published", _dilepaskan_ "be released"
       * Passive verbs with prefix _ter-_: _terbakar_ "on fire", _terjatuh_ "fell", _terkejut_ "shocked"
       * Passive verbs with confix _ke-an_: _ketinggalan_ "lag behind", _kecurian_ "be stolen"
-  * [Typo](), with one possible value, `Yes`. This feature can be applied to all UPOS categories except [PUNCT]() and [SYM]().
-
 * These UDv2 features are not relevant to Indonesian grammar:
   * `Gender`. Indonesian words have no gender.
   * `Animacy`. Similar with Gender, there is no requirements of agreements between words in Indonesian.
@@ -133,7 +134,6 @@ udver: '2'
   * [Definite](). Indonesian does not have articles like _a/an/the_ in English. Implicitly, a noun phrase can be determined whether it is infinite or definite.
   * [Mood]()
   * [Polite]()
-  * [Reflex](), applies to [PRON]() with one possible value: Yes.
   * [VerbForm](), could be applied to [ADJ](), [ADV](), and [NOUN](), with 3 possible values: `Conv`, `Part`, and `Vnoun`.
     * `VerbForm=Conv` is applied to verbal adverbs, such as for _terpisah_ "be separated" in _secara terpisah_ "separately"
     * `VerbForm=Part` is applied to verbal adjectives, such as for _terbang_ "fly" in _kapal **terbang**_ "plane", _renang_ "swim" in _kolam **renang**_ "swimming pool"
