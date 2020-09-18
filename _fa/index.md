@@ -4,7 +4,7 @@ title:  'Persian UD'
 udver: '2'
 ---
 
-# UD for Persian 
+# UD for Persian <span class="flagspan"><img class="flag" src="../flags/svg/IR.svg" /></span>
 UD Persian contains data from multiple treebanks created by different teams at different times and with often different conversion tools. Currently there are two treebanks: [Seraji](https://github.com/UniversalDependencies/UD_Persian-Seraji) and [PerDT](https://github.com/UniversalDependencies/UD_Persian-PerDT).
 
 ## Tokenization and Word Segmentation
@@ -41,7 +41,7 @@ Standard deprels are used, except for some of the follwing relations:
 
 ## Treebanks
 
-There are six Persian UD treebanks:
+There are two Persian UD treebanks:
 
   * [UD_Persian-Seraji](https://github.com/UniversalDependencies/UD_Persian-Seraji)
   * [UD_Persian-PerDt](https://github.com/UniversalDependencies/UD_Persian-PerDT)
