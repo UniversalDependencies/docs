@@ -49,7 +49,7 @@ udver: '2'
   * _boleh_ as the equivalent of modal “may”.
   * _mungkin_ as the equivalent of modal “might”.
   * _harus_ as the equivalent of modal “must”.
-  * _adalah_ and _ialah_ “be” serve as copulas. 
+  * _adalah_ and _ialah_ “be” serve as copulas.
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
   * The following word types are tagged as PRON:
     * personal pronouns, such as _saya/aku/ku_ "I", _kamu/mu/anda_ "you", _dia/ia/nya_ "he/she/it/him/her/its", _kami/kita_ "we/us/our", _mereka_ "they/them/their"
@@ -57,7 +57,7 @@ udver: '2'
     * relative pronouns: _apa_ "what", _siapa_ "who" as in _Saya tahu **siapa** yang kamu maksud._ "I know **who** you mean"
     * indefinite pronouns: _seseorang_ "seomeone/somebody", _sesuatu_ "something"
     * total pronouns, such as _semua_ "all" as in _**Semua** kecuali bukumu_ "**All** except your books".
-    * demonstrative pronouns: _ini_ "this" as in _**Ini** bukan salahmu._ "**This** is not your fault". 
+    * demonstrative pronouns: _ini_ "this" as in _**Ini** bukan salahmu._ "**This** is not your fault".
   * The following word types are tagged as DET:
     * possessive pronouns. All personal pronouns in Indonesian can also be used as possessive pronouns. For example:
       * _-nya_ as PRON as in _Aku membawa**nya** ke sini._ "I bring **it** here."
@@ -109,7 +109,7 @@ udver: '2'
       * `PronType=Tot` for `PRON`, such as for _semua_ "all" in _**Semua** adalah milikmu._ "**All** is yours."
       * `PronType=Tot` for `DET`, such as for _semua_ "all" in _**Semua** siswa terlihat senang._ "**All** students look happy."
       * `PronType=Tot` for `ADV`, such as for _selalu_ "always" in _Dia **selalu** terlambat_. "She is **always** late."
-  * [Reflex](), applies to [PRON]() with one possible value: Yes. 
+  * [Reflex](), applies to [PRON]() with one possible value: Yes.
   * [Typo](), with one possible value, `Yes`. This feature can be applied to all UPOS categories except [PUNCT]() and [SYM]().
 
   * [Voice](), applies to [VERB]() with two possible values: `Act` and `Pass`.
@@ -146,13 +146,13 @@ udver: '2'
 
 * Nominal subject ([nsubj]()) is a noun phrase, without preposition.
 * A verb may serve as the subject and is labeled as clausal subject, either as csubj or csubj:pass.
-* Transitive verbs will have a noun phrase as the object ([obj]()).
+* Transitive verbs will have a noun phrase as the object ([obj]()). The default word order is SVO, so the subject normally precedes and the object follows the verb (with the exception of inverted sentences).
 * Passive verbs could be followed by agent ([obl:agent]()), such as in _Pesan yang dikirimkan **presiden**_ "Messages sent by **president**", _presiden_ "president" is the agent of predicate _dikirimkan_ "be sent".
 * Verbs can have oblique arguments. If the argument includes a preposition, we label it as [obl](). However if it appears without preposition, we label it as [obl:mod](). Special for temporal modifiers, we label it as [obl:tmod]().
 
 ### Non-verbal Clauses
 
-* The copula _ialah_ or _adalah_ (be) is optionally used in equational, attributional, locative, possessive and benefactory nonverbal clauses. For example: "This **is** my house.", in Indonesian can be written as:
+* The copula _ialah_ or _adalah_ (be) is optionally used in equational, attributional, locative, possessive and benefactory nonverbal clauses. The two forms are interchangeable but _adalah_ is more common. For example: "This **is** my house.", in Indonesian can be written as:
   * _Ini rumahku._, without copula
   * _Ini **adalah** rumahku._, with copula _adalah_
 
