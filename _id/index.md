@@ -112,7 +112,7 @@ udver: '2'
   * [Reflex](), applies to [PRON]() with one possible value: Yes.
   * [Typo](), with one possible value, `Yes`. This feature can be applied to all UPOS categories except [PUNCT]() and [SYM]().
 
-  * [Voice](), applies to [VERB]() with two possible values: `Act` and `Pass`.
+  * [Voice](), applies to [VERB]() with two possible values: `Act` and `Pass`. Voice alternation is treated as inflection and the active and passive counterparts have the same lemma.
     * `Voice=Act` for active verbs that have characteristic of using base word, prefixes _me-, ber-_
       * Active verbs without affix: _duduk_ "sit", _pergi_ "go"
       * Active verbs with prefix _me-_: _memperbaiki_ "fix", _mengakui_ "admit"
