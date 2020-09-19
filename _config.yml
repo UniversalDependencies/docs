@@ -264,7 +264,7 @@ collections:
     output: true
   hit:
     output: true
-  glv:
+  gv:
     output: true
   lzz:
     output: true

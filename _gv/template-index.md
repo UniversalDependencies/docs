@@ -46,10 +46,9 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/glv-comparison.html) Manx UD treebanks:
+There is 1 Manx UD treebank:
 
-  * [Manx-A](../treebanks/glv_a/index.html)
-  * [Manx-B](../treebanks/glv_b/index.html)
+  * [Manx-Cadhan](../treebanks/gv_cadhan/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
