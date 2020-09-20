@@ -76,7 +76,7 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
 | Train |  26196 |  459K | 34.9K |    20.7K    |  5275  |
 | Dev   |  1456  |  26K  |  7.0K |     5.2K    |  1427  |
 | Test  |  1455  |  24K  |  6.7K |     5.1K    |  1671  |
-| All   |  29107 |  509K | 36.7K |    21.6K    |  5413  |
+| All   |  29107 |  501K | 36.7K |    21.6K    |  5413  |
 
 * Dep. relations: 36 of which 3 of them are language-specific.
 
@@ -95,10 +95,33 @@ acl – advcl – advmod – amod – appos – aux – aux:pass – case – cc
 
 <h2>Tokenization and Word Segmentation</h2>
 
+<ul>
+<li>This corpus contains 29107 sentences, 366005 tokens and 135771 syntactic words.</li>
+</ul>
 
+<ul>
+<li>This corpus contains 43893 tokens (8%) that are not followed by a space.</li>
+</ul>
+
+<ul>
+<li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
+<li>This corpus contains 7173 multi-word tokens.</li>
+</ul>
 
 <h2>Morphology</h2>
+<h3>Tags</h3>
 
+<ul>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: SYM</li>
+</ul>
+
+<ul>
+<li>This corpus contains 4 word types tagged as particles (PART): آیا, مگر, که, دیگر</li>
+</ul>
 
 <h2>Syntax</h2>
 
