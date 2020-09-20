@@ -137,6 +137,18 @@ acl – advcl – advmod – amod – appos – aux – aux:pass – case – cc
 
 <h2>Syntax</h2>
 
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: #است ,بود#باش ,#هست.</li>
+</ul>
+
+<ul>
+<li>This corpus uses 20 lemmas as auxiliaries (<a>aux</a>). Examples: #است ,بود#باش ,بایست#باید ,خواست#خواه ,بر#خواست#خواه ,#توان ,شد#شد ,شد#شو ,توانست#توان ,داشت#دار ,فرو#خواست#خواه ,در#خواست#خواه ,باز#خواست#خواه ,کرد#کن ,شایست#شاید ,وا#خواست#خواه ,فرا#خواست#خواه ,گشت#گرد ,داد#ده ,ور#خواست#خواه.</li>
+
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>) : شد#شو.</li>
+</ul>
+
 <h3>Relations Overview</h3>
 
 <ul>
