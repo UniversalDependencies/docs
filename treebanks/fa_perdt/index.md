@@ -83,11 +83,15 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
 
 ## POS Tags
 
+ADJ – ADP – ADV – AUX – CCONJ – DET – INTJ – NOUN – NUM – PART – PRON – PROPN – PUNCT – SCONJ – VERB – X
 
 ## Features
 
+Mood – Number – Person – Polarity – PronType – Tense – VerbForm – Voice
 
 ## Relations
+
+acl – advcl – advmod – amod – appos – aux – aux:pass – case – cc – ccomp – compound – compound:lv – compound:lvc – conj – cop – csubj – dep – det – dislocated – fixed – flat:name – flat:num – goeswith – iobj – mark – nmod – nsubj – nsubj:pass – nummod – obj – obl – obl:arg – parataxis – punct – root – vocative – xcomp
 
 <h2>Tokenization and Word Segmentation</h2>
 
