@@ -111,6 +111,10 @@ acl – advcl – advmod – amod – appos – aux – aux:pass – case – cc
 <li>This corpus contains 7173 multi-word tokens.</li>
 </ul>
 
+<ul>
+<li>This corpus contains 50 words with both letters and punctuation such as: اچ.آی.وی , ه.ق, Fax.com, بتا-گاما </li>
+</ul>
+
 <h2>Morphology</h2>
 <h3>Tags</h3>
 
@@ -121,6 +125,14 @@ acl – advcl – advmod – amod – appos – aux – aux:pass – case – cc
 
 <ul>
 <li>This corpus contains 4 word types tagged as particles (PART): آیا, مگر, که, دیگر</li>
+</ul>
+
+<ul>
+<li>This corpus contains 54 lemmas tagged as pronouns (PRON): آن,خود, هم, او, وی, آنها, این, ما, خودم, من, تو, آنان, یکدیگر, ایشان, بنده, خویش, آنچه, آن‌ها, خودشان, خودش, همدیگر, همین, شما, آنجا, چه, اینها, چنین, همان, خودت, خودمان, خویشتن, دیگران, کجا, کی, خودتان, که, چنان, کو, همه, دیگری, هیچ, بعضی, چی, کس, اینجانب, همانها, اینان, آنچنان, این‌ها, ماها, کدام, چقدر, آها, همینان</li>
+</ul>
+
+<ul>
+<li>This corpus contains 60 lemmas tagged as determiners (DET): این ,همین ,آن ,چند ,هر ,دیگر ,همه ,بعضی ,چندین ,همان ,چندی ,هیچ ,هزاران ,چه ,چنین ,برخی ,عده‌ای ,چنان ,یک ,فلان ,کدام ,مقدار ,عجب ,تنها ,هزار ,دو ,خیلی ,کدامین ,تک ,گاهی ,اکثر ,چندان ,کلیه ,کمی ,مقداری ,بسیاری ,کمتر ,تعداد ,تعدادی ,عده ,پاره ,چندصد ,هوار ,سراسر ,چندمین ,ابن ,گروهی ,چقدر ,بسی ,بسیار ,دین ,اندکی ,چگونه ,هرچه ,گروه ,بدین ,ساعت‌ها ,مدت‌ها ,سالیان ,ان</li>
 </ul>
 
 <h2>Syntax</h2>
