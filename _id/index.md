@@ -11,15 +11,20 @@ udver: '2'
 * In general, words are delimited by whitespace characters. Special treatment is given to multiword tokens and punctuation.
 
 * Special treatment of multiword tokens:
-  * Multiword tokens that end with particles _-lah/-kah/-tah/-pun_ are split into two tokens. These particles are usually used to emphasize the word before them. Particles of -lah/-kah/-tah are clitics, while particle pun can be written as clitic or a single token. The examples of how to tokenize these clitic particles are as follows:
+  * Multiword tokens that ended with particles _-lah/-kah/-tah/-pun_ are split into two tokens. These particles are usually used to emphasize the word before them. Particles of -lah/-kah/-tah are clitics, while particle pun can be written as clitic or a single token. The examples of how to tokenize these clitic particles are as follows:
     * _baca**lah**_ is split into _baca_ "read" and _**lah**_
     * _dia**kah**_ is split into _dia_ "he/she" and _**kah**_
     * _apa**tah**_ is split into _apa_ "what" and _**tah**_
     * _walau**pun**_ is split into _walau_ "although" and _**pun**_
 
-  * Multiword tokens that contain clitics of _-ku_ "me/my", _-mu_ "you/your", _-nya_ "he/him/she/her/it" are split into two tokens. For example: _mencintai**nya**_ "love him/her/it" is split into _mencintai_ "love" and _**nya**_ "him/her/it". However, there are exceptions for words ending with _-nya_. All _-nya_ that has role as pronoun and determiner will be separated from the main word, but if the word ending with _-nya_ has a role as an adverb or adjective, we keep them unseparated. For example:
-    * adverbs ending with _-nya_: _khusus**nya**_ "especially", _awal**nya**_ "initially", _akhir**nya**_ "finally"
-    * adjectives ending with _-nya_: _sebelum**nya**_ "previous", _sesudah**nya**_ "next"
+  * Multiword tokens that contain clitics of _-ku_ "me/my", _-mu_ "you/your", _-nya_ "he/him/she/her/it" are split into two tokens, with exceptions for words ended with _-nya_. 
+    * Words ended with _-nya_ where _-nya- serve as pronouns or determiners are split into two tokens. For example:
+      * Word _-nya_ as pronoun, as in _mencintai**nya**_ "love **him/her/it**", this token is split into _mencintai_ "love" and _**nya**_ "him/her/it".
+      * Word _-nya_ as determiner, as in _buku**nya**_ "**his/her/its** book", this token is split into _buku_ "book" and _**nya**_ "his/her/its".
+      
+    * Words ended with _-nya_ that functions as adverbs or adjectives are not split into two tokens. For example:
+      * adverbs ended with _-nya_: _khusus**nya**_ "especially", _awal**nya**_ "initially", _akhir**nya**_ "finally"
+      * adjectives ended with _-nya_: _sebelum**nya**_ "previous", _sesudah**nya**_ "next", _berikutnya_ "next"
 
 * Special treatment for punctuation. All punctuation symbols are separated from the words, except in two cases:
   * Hyphen in reduplicated words. Indonesian has many reduplicated words as nouns (both singular and plural), verbs, adjectives, adverbs, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
@@ -42,6 +47,7 @@ udver: '2'
   * negation words: _tidak_ "no", _tak_ "no", _bukan_ "no"
   * particles of _-lah, -kah, -tah, pun_, that have been discussed in the previous section.
 * The auxiliary ([AUX]()) vs. [VERB]() distinction is based on examples for English treebank, since initially there is no AUX type in KBBI. We defined 12 Indonesian words as AUX as follows:
+  * _adalah_ and _ialah_ “be” serve as copulas.
   * _akan_ “will/would” for the future tense.
   * _sedang_ “be” for the present tense.
   * _telah_ and _sudah_ “have/has/had” for the past tense.
@@ -50,7 +56,6 @@ udver: '2'
   * _mungkin_ as the equivalent of modal “might”.
   * _harus_ as the equivalent of modal “must”.
   * _sebaiknya_ and _seharusnya_ as the equivalent of modal 'shall/should'
-  * _adalah_ and _ialah_ “be” serve as copulas.
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
   * The following word types are tagged as PRON:
     * personal pronouns, such as _saya/aku/ku_ "I", _kamu/mu/anda_ "you", _dia/ia/nya_ "he/she/it/him/her/its", _kami/kita_ "we/us/our", _mereka_ "they/them/their"
