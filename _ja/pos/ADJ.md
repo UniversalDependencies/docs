@@ -31,7 +31,7 @@ but the other adnimonal words are tagged [ADJ]() (e.g. _同じ&nbsp;_ “same”
 ### Examples
 
 - _<b>赤い</b>&nbsp;_ “red”, _<b>大きい</b>&nbsp;_ “big”  (`adjective_i (general)` / 形容詞-一般)
-- _<b>ない</b>&nbsp;_ “missing” (`adjective_i (non-indipendent` / 形容詞-非自立可能)
+- _<b>ない</b>&nbsp;_ “missing” (`adjective_i (bound)` / 形容詞-非自立可能)
 - _<b>必要</b>(+だ)&nbsp;_ “necessary”, _<b>簡単</b>(+だ)&nbsp;_“easy”(`adjectival_noun` / 形状詞-一般 or 形状詞-タリ)
 - _<b>自由</b>(+だ)&nbsp;_ “free” (`noun(common.adjectival)` / 名詞-普通名詞-形状詞可能 or 名詞-普通名詞-サ変形状詞可能)
 - _<b>同じ</b>&nbsp;_ “same” (`adnominal` / 連体詞)
