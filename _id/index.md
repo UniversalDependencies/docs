@@ -129,26 +129,21 @@ udver: '2'
   * `Tense`. Indonesian verbs have the same form in all tenses.
   * `Aspect`, with the same reason for Tense.
   * `Evident`
-
-* These UDv2 features might be relevant to Indonesian grammar, but due to limited references, we will cover them in future work:
-  * [Definite](). Indonesian does not have articles like _a/an/the_ in English. Implicitly, a noun phrase can be determined whether it is infinite or definite.
-  * [Mood]()
-  * [Polite]()
-  * [VerbForm](), could be applied to [ADJ](), [ADV](), and [NOUN](), with 3 possible values: `Conv`, `Part`, and `Vnoun`.
-    * `VerbForm=Conv` is applied to verbal adverbs, such as for _terpisah_ "be separated" in _secara terpisah_ "separately"
-    * `VerbForm=Part` is applied to verbal adjectives, such as for _terbang_ "fly" in _kapal **terbang**_ "plane", _renang_ "swim" in _kolam **renang**_ "swimming pool"
-    * `VerbForm=Vnoun` is applied to verbal nouns, such as for _memancing_ "fishing", _memasak_ "cooking" as nouns.
-
+  * `Definite`
+  * `Mood`
+  * `Polite`
+  * `VerbForm`
+ 
 
 ## Syntax
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
-* Nominal subject ([nsubj]()) is a noun phrase, without preposition.
+* Nominal subject ([nsubj]()) is a noun phrase, usually written before the predicate.
 * A verb may serve as the subject and is labeled as clausal subject, either as csubj or csubj:pass.
 * Transitive verbs will have a noun phrase as the object ([obj]()). The default word order is SVO, so the subject normally precedes and the object follows the verb (with the exception of inverted sentences).
 * Passive verbs could be followed by agent ([obl:agent]()), such as in _Pesan yang dikirimkan **presiden**_ "Messages sent by **president**", _presiden_ "president" is the agent of predicate _dikirimkan_ "be sent".
-* Verbs can have oblique arguments. If the argument includes a preposition, we label it as [obl](). However if it appears without preposition, we label it as [obl:mod](). Special for temporal modifiers, we label it as [obl:tmod]().
+* Verbs can have oblique arguments. If the argument includes a preposition, we label it as [obl](). Special for temporal modifiers, we label it as [obl:tmod]().
 
 ### Non-verbal Clauses
 
@@ -158,7 +153,7 @@ udver: '2'
 
 ### Relations Overview
 
-* The following 14 relation subtypes are used in Indonesian PUD:
+* The following 13 relation subtypes are used in Indonesian PUD:
   * [acl:relcl]() for relative clauses that modify a noun phrase. In Indonesian, relative clauses usually use _yang_ as the subject of the clause.
   * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah, pun_ that emphasize other words that could be a [NOUN](), [PRON](), [VERB](), or [SCONJ](). For example, token _itu**lah**_ "that" in tokenization phase was split into _itu_ "that" and _**lah**_, then _lah_ is annotated as the dependent of _itu_ and the relation between them is `advmod:emph`.
   * [case:adv]() for adposition ([ADP]()) that together with its following word of [ADJ]()/[ADV]()/[VERB]() serve as an adverb. In this case the `ADP` word is annotated as the dependent of `ADJ`/`ADV`/`VERB` and the dependency relation between them is `case:adv`, and the relation between the `ADJ/ADV/VERB` word and its parent is [advmod](). For example:
@@ -174,8 +169,8 @@ udver: '2'
   * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. For example, in _pengeluaran **tahun ini**_ "**this year** spending", _tahun ini_ "this year" modifies _pengeluaran_ "spending", and the head of this phrase, _tahun_ "year" will be annotated as the dependent of _pengeluaran_ "spending" with the deprel `nmod:tmod`.
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
-  * [obl:mod]() for have oblique arguments of predicates with no preposition
   * [obl:tmod]() for head of time-related noun phrases that depend on a `VERB/ADJ`. For example, in _**Kali ini** saya setuju._ "**This time** I agree.", _kali ini_ "this time" describes the predicate _setuju_ "agree", and the head of this noun phrase, _kali_ "time", will be annotated as the dependent of _setuju_ "agree" with the deprel `obl:tmod`
+  
 * The following relation types are not used in Indonesian PUD:
   * `clf`
   * `expl`
