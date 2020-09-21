@@ -2,16 +2,17 @@
 layout: postag
 title: 'PROPN'
 shortdef: 'proper noun'
+udver: '2'
 ---
 
 ### Definition
 
 A proper noun is a noun that is the name of a specific individual, place, or object. Note that names of days of week (e.g. 月曜, 日曜) are not considered proper nouns.
 
-Multi-word named entities have internal syntactic structure, which is preserved in the annotation. The headword is usually noun or suffix and there may be other nouns involved. They will be tagged either [PROPN]() or [NOUN]().
+Multi-word named entities have internal syntactic structure, which is preserved in the annotation. The head word is usually noun or suffix and there may be other nouns involved. They will be tagged either [PROPN]() or [NOUN]().
  For instance,
-An NE _<b>長谷寺</b>&nbsp;_ “Hasedera temple”consists of a proper noun
-_<b>長谷</b>&nbsp;_ “Hase”and an ordinary noun _<b>寺</b>&nbsp;_ “temple”.
+An NE _<b>長谷寺</b>&nbsp;_ “Hasedera temple” consists of a proper noun
+_<b>長谷</b>&nbsp;_ “Hase” and an ordinary noun _<b>寺</b>&nbsp;_ “temple”.
 
 
 ### Examples
