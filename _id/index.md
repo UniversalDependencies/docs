@@ -84,13 +84,13 @@ udver: '2'
 
 * We propose the use of 13 of 24 features defined in UD v2 that are relevant to Indonesian grammar:
   * [Abbr](), with one possible value: `Yes`. This feature can be applied to all UPOS categories, except [PUNCT]() and [SYM]().
-  * [Clusivity](), applies to [PRON]() with two possible values: `Ex` and `In`.
+  * [Clusivity](), applies to [DET]() and [PRON]() and with two possible values: `Ex` and `In`.
     * `Clusivity=Ex` for _kami_ "we/our"
     * `Clusivity=In` for _kita_ "we/our"
   * [Degree](), applies to [ADJ]() with one possible value: `Sup`.
     * `Degree=Sup` for superlative adjectives, such as _terbaik_ "best", _tercantik_ "most beautiful", etc.
   * [Foreign](), with one possible value: `Yes`. This feature only applies to [X]().
-  * [Number](), applies to [NOUN](), [PRON](), and [DET]() with three possible values: `Sing`, `Dual` or `Plur`.
+  * [Number](), applies to [DET](), [NOUN](), and [PRON](), with three possible values: `Sing`, `Dual` or `Plur`.
   * [NumType](), applies to [NUM]() and [ADJ](), with two possible values: `Card` or `Ord`.
     * `NumType=Card` is used for `NUM`.
     * `NumType=Ord` is used for ordinal numbers tagged as `ADJ`.
@@ -100,9 +100,9 @@ udver: '2'
     * `Polarity=Neg` for [INTJ]() as in _**Tidak**, terima kasih_ "**No**, thanks". The word _tidak_ "no" will be given feature `Polarity=Neg`.
   * [Poss](), applies to [DET](), with one possible value: `Yes`. This feature will be applied to all [DET]() that serve as possessive pronouns.
   * [PronType](), applies to [PRON](), [DET](), and [ADV](). For Indonesian, 7 possible values can be applied:
-    1. `PronType=Dem`, applies to `PRON` such as for _itu_ "that" in _**Itu** masalahmu._ "**That** is your problem."
+    1. `PronType=Dem`, applies to `ADV`, `DET`, and `PRON` such as for _itu_ "that" in _**Itu** masalahmu._ "**That** is your problem."
     2. `PronType=Emp`, applies to `DET` such as for _sendiri_ "self" in _Kamu harus percaya pada dirimu **sendiri**_ "You have to believe in your**self**".
-    3. `PronType=Ind`, applies to `PRON` such as for _seseorang_ "someone/somebody" or _sesuatu_ "something"
+    3. `PronType=Ind`, applies to `ADV`, `DET`, and `PRON` such as for _seseorang_ "someone/somebody" or _sesuatu_ "something"
     4. `PronType=Int`, applies to `PRON` and `ADV`.
       * `PronType=Int` for `PRON`, such as for _apa_ "what" and _siapa_ "who" in interrogative sentences
       * `PronType=Int` for `ADV`, such as for _bagaimana_ "how" and _kapan_ "when" in interrogative sentences
@@ -110,7 +110,7 @@ udver: '2'
     6. `PronType=Rel`, applies to `PRON` and `ADV`.
       * `PronType=Rel` for `PRON`, such as for _apa_ "what", _siapa_ "who", _yang_ "that".
       * `PronType=Rel` for `ADV`, such as for _bagaimana_ "how" and _kapan_ "when" in non-interrogative sentences
-    7. `PronType=Tot`, applies to `PRON`, `DET`, or `ADV`.
+    7. `PronType=Tot`, applies to `ADV`, `DET`, and `PRON`.
       * `PronType=Tot` for `PRON`, such as for _semua_ "all" in _**Semua** adalah milikmu._ "**All** is yours."
       * `PronType=Tot` for `DET`, such as for _semua_ "all" in _**Semua** siswa terlihat senang._ "**All** students look happy."
       * `PronType=Tot` for `ADV`, such as for _selalu_ "always" in _Dia **selalu** terlambat_. "She is **always** late."
