@@ -76,20 +76,19 @@ udver: '2'
 
 ### Features
 
-* We propose the use of 12 of 24 features defined in UDv2 that are relevant to Indonesian grammar:
+* We propose the use of 13 of 24 features defined in UDv2 that are relevant to Indonesian grammar:
   * [Abbr](), with one possible value: `Yes`. This feature can be applied to all UPOS categories, except [PUNCT]() and [SYM]().
   * [Clusivity](), applies to [PRON]() with two possible values: `Ex` and `In`.
     * `Clusivity=Ex` for _kami_ "we/our"
     * `Clusivity=In` for _kita_ "we/our"
-  * [Degree](), applies to [ADJ]() with two possible values: `Pos` and `Sup`.
-    * `Degree=Pos` is used for _baik_ "good", _cantik_ "beautiful", etc.
+  * [Degree](), applies to [ADJ]() with one possible value: `Sup`.
     * `Degree=Sup` us used for _terbaik_ "best", _tercantik_ "most beautiful", etc.
   * [Foreign](), with one possible value: `Yes`. This feature only applies to [X]().
-  * [Number](), applies to [NOUN]() and [PRON]() with two possible values: `Sing` or `Plur`.
+  * [Number](), applies to [NOUN](), [PRON](), and [DET]() with two possible values: `Sing` or `Plur`.
   * [NumType](), applies to [NUM]() and [ADJ](), with two possible values: `Card` or `Ord`.
     * `NumType=Card` is used for `NUM`.
     * `NumType=Ord` is used for ordinal numbers tagged as `ADJ`.
-  * [Person](), applies to [PRON]() with three possible values: `1`, `2`, `3`.
+  * [Person](), applies to [PRON]() and [DET]() with three possible values: `1`, `2`, `3`.
   * [Polarity](), with one possible value: `Neg`, applies to [PART]() and [INTJ]().
     * `Polarity=Neg` for [PART]() applies for negation words as in _Saya **tidak** menyukainya_ "I do **not** like him/her/it". The word _tidak_ "no" will be tagged with `Polarity=Neg`.
     * `Polarity=Neg` for [INTJ]() as in _**Tidak**, terima kasih_ "**No**, thanks". The word _tidak_ "no" will be given feature `Polarity=Neg`.
@@ -111,7 +110,6 @@ udver: '2'
       * `PronType=Tot` for `ADV`, such as for _selalu_ "always" in _Dia **selalu** terlambat_. "She is **always** late."
   * [Reflex](), applies to [PRON]() with one possible value: Yes.
   * [Typo](), with one possible value, `Yes`. This feature can be applied to all UPOS categories except [PUNCT]() and [SYM]().
-
   * [Voice](), applies to [VERB]() with two possible values: `Act` and `Pass`. Voice alternation is treated as inflection and the active and passive counterparts have the same lemma.
     * `Voice=Act` for active verbs that have characteristic of using base word, prefixes _me-, ber-_
       * Active verbs without affix: _duduk_ "sit", _pergi_ "go"
@@ -121,7 +119,8 @@ udver: '2'
       * Passive verbs with prefix _di-_ : _dipublikasikan_ "be published", _dilepaskan_ "be released"
       * Passive verbs with prefix _ter-_: _terbakar_ "on fire", _terjatuh_ "fell", _terkejut_ "shocked"
       * Passive verbs with confix _ke-an_: _ketinggalan_ "lag behind", _kecurian_ "be stolen"
-* These UDv2 features are not relevant to Indonesian grammar:
+      
+* These 11 UDv2 features are not relevant to Indonesian grammar:
   * `Gender`. Indonesian words have no gender.
   * `Animacy`. Similar with Gender, there is no requirements of agreements between words in Indonesian.
   * `NounClass`, with the same reason for Gender and Animacy
