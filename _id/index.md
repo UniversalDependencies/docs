@@ -8,9 +8,9 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* In general, words are delimited by whitespace characters. Special treatment is given to multiword tokens and punctuation.
+* In general, words are delimited by whitespace characters. Special treatments are given to multiword tokens and punctuations.
 
-* Special treatment of multiword tokens:
+* Special treatments of multiword tokens:
   * Multiword tokens that ended with particles _-lah/-kah/-tah/-pun_ are split into two tokens. These particles are usually used to emphasize the word before them. Particles of -lah/-kah/-tah are clitics, while particle pun can be written as clitic or a single token. The examples of how to tokenize these clitic particles are as follows:
     * _baca**lah**_ is split into _baca_ "read" and _**lah**_
     * _dia**kah**_ is split into _dia_ "he/she" and _**kah**_
@@ -18,15 +18,15 @@ udver: '2'
     * _walau**pun**_ is split into _walau_ "although" and _**pun**_
 
   * Multiword tokens that contain clitics of _-ku_ "me/my", _-mu_ "you/your", _-nya_ "he/him/she/her/it" are split into two tokens, with exceptions for words ended with _-nya_. 
-    * Words ended with _-nya_ where _-nya- serve as pronouns or determiners are split into two tokens. For example:
+    * Words ended with _-nya_ where _-nya- itself serves as  a pronoun or determiner are split into two tokens. For example:
       * Word _-nya_ as pronoun, as in _mencintai**nya**_ "love **him/her/it**", this token is split into _mencintai_ "love" and _**nya**_ "him/her/it".
       * Word _-nya_ as determiner, as in _buku**nya**_ "**his/her/its** book", this token is split into _buku_ "book" and _**nya**_ "his/her/its".
       
-    * Words ended with _-nya_ that functions as adverbs or adjectives are not split into two tokens. For example:
+    * Words ended with _-nya_ that functions as adverbs or adjectives are **not** split into two tokens. For example:
       * adverbs ended with _-nya_: _khusus**nya**_ "especially", _awal**nya**_ "initially", _akhir**nya**_ "finally"
       * adjectives ended with _-nya_: _sebelum**nya**_ "previous", _sesudah**nya**_ "next", _berikutnya_ "next"
 
-* Special treatment for punctuation. All punctuation symbols are separated from the words, except in two cases:
+* Special treatments for punctuations. All punctuation symbols are separated from the words, except in two cases:
   * Hyphen in reduplicated words. Indonesian has many reduplicated words as nouns (both singular and plural), verbs, adjectives, adverbs, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
     * Singular noun: _mata-mata_ "spy"
     * Plural noun: _anak-anak_ "children"
@@ -41,12 +41,12 @@ udver: '2'
 
 ### Tags
 
-* We refer to [KBBI](https://kbbi.kemdikbud.go.id/) (Kamus Besar Bahasa Indonesia/Indonesian Great Dictionary) as the reference dictionary. However, since this dictionary only defines 7 word classes: noun, verb, adjective, adverb, pronoun, particle and number, we need to make adjustments so that the tags conform to UDv2.
+* We refer to [KBBI](https://kbbi.kemdikbud.go.id/) (Kamus Besar Bahasa Indonesia/Indonesian Great Dictionary) as the reference dictionary. However, since this dictionary only defines 7 word classes: noun, verb, adjective, adverb, pronoun, particle and number, we need to make adjustments so that the tags conform to UD v2.
 * Indonesian PUD uses all 17 universal POS categories.
 * [PART]() is used for:
   * negation words: _tidak_ "no", _tak_ "no", _bukan_ "no"
   * particles of _-lah, -kah, -tah, pun_, that have been discussed in the previous section.
-* The auxiliary ([AUX]()) vs. [VERB]() distinction is based on examples for English treebank, since initially there is no AUX type in KBBI. We defined 12 Indonesian words as AUX as follows:
+* The auxiliary ([AUX]()) vs. [VERB]() distinction is based on examples for English treebank, since initially there is no AUX type in KBBI. We defined 14 Indonesian words as AUX as follows:
   * _adalah_ and _ialah_ “be” serve as copulas.
   * _akan_ “will/would” for the future tense.
   * _sedang_ “be” for the present tense.
