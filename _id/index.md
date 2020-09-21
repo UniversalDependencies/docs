@@ -49,6 +49,7 @@ udver: '2'
   * _boleh_ as the equivalent of modal “may”.
   * _mungkin_ as the equivalent of modal “might”.
   * _harus_ as the equivalent of modal “must”.
+  * _sebaiknya_ and _seharusnya_ as the equivalent of modal 'should'
   * _adalah_ and _ialah_ “be” serve as copulas.
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
   * The following word types are tagged as PRON:
@@ -90,7 +91,7 @@ udver: '2'
     * `NumType=Ord` is used for ordinal numbers tagged as `ADJ`.
   * [Person](), applies to [PRON]() and [DET]() with three possible values: `1`, `2`, `3`.
   * [Polarity](), with one possible value: `Neg`, applies to [PART]() and [INTJ]().
-    * `Polarity=Neg` for [PART]() applies for negation words as in _Saya **tidak** menyukainya_ "I do **not** like him/her/it". The word _tidak_ "no" will be tagged with `Polarity=Neg`.
+    * `Polarity=Neg` for [PART]() applies for negation particles as in _Saya **tidak** menyukainya_ "I do **not** like him/her/it". The word _tidak_ "no" will be tagged with `Polarity=Neg`.
     * `Polarity=Neg` for [INTJ]() as in _**Tidak**, terima kasih_ "**No**, thanks". The word _tidak_ "no" will be given feature `Polarity=Neg`.
   * [Poss](), applies to [DET](), with one possible value: `Yes`. This feature will be applied to all [DET]() that serve as possessive pronouns.
   * [PronType](), applies to [PRON](), [DET](), and [ADV](). For Indonesian, 7 possible values can be applied:
