@@ -1,3 +1,4 @@
+---
 layout: postag
 title: 'PRON'
 shortdef: 'pronoun'
