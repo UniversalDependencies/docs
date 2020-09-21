@@ -42,14 +42,14 @@ udver: '2'
   * negation words: _tidak_ "no", _tak_ "no", _bukan_ "no"
   * particles of _-lah, -kah, -tah, pun_, that have been discussed in the previous section.
 * The auxiliary ([AUX]()) vs. [VERB]() distinction is based on examples for English treebank, since initially there is no AUX type in KBBI. We defined 12 Indonesian words as AUX as follows:
-  * _akan_ “will” for the future tense.
+  * _akan_ “will/would” for the future tense.
   * _sedang_ “be” for the present tense.
-  * _telah_ and _sudah_ “have” for the past tense.
-  * _bisa, dapat_ and _mampu_ as the equivalents of modal “can”.
+  * _telah_ and _sudah_ “have/has/had” for the past tense.
+  * _bisa, dapat_ and _mampu_ as the equivalents of modal “can/could”.
   * _boleh_ as the equivalent of modal “may”.
   * _mungkin_ as the equivalent of modal “might”.
   * _harus_ as the equivalent of modal “must”.
-  * _sebaiknya_ and _seharusnya_ as the equivalent of modal 'should'
+  * _sebaiknya_ and _seharusnya_ as the equivalent of modal 'shall/should'
   * _adalah_ and _ialah_ “be” serve as copulas.
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
   * The following word types are tagged as PRON:
@@ -83,7 +83,7 @@ udver: '2'
     * `Clusivity=Ex` for _kami_ "we/our"
     * `Clusivity=In` for _kita_ "we/our"
   * [Degree](), applies to [ADJ]() with one possible value: `Sup`.
-    * `Degree=Sup` us used for _terbaik_ "best", _tercantik_ "most beautiful", etc.
+    * `Degree=Sup` for superlative adjectives, such as _terbaik_ "best", _tercantik_ "most beautiful", etc.
   * [Foreign](), with one possible value: `Yes`. This feature only applies to [X]().
   * [Number](), applies to [NOUN](), [PRON](), and [DET]() with two possible values: `Sing` or `Plur`.
   * [NumType](), applies to [NUM]() and [ADJ](), with two possible values: `Card` or `Ord`.
