@@ -1,7 +1,8 @@
 ---
 layout: postag
 title: 'INTJ'
-shortdef: 'interjection'
+shortdef: 'interjection': 
+udver: '2' 
 ---
 
 ### Definition
@@ -12,16 +13,16 @@ is not syntactically related to other accompanying expressions, and
 may include a combination of sounds not otherwise found in the
 language.
 
-In UniDic, these words are tagged with `interjection` / 感動詞,
+In UniDic, these words are tagged with `interjection` / 感動詞-一般 or 感動詞-フィラー,
 such as examples below:
 
 
 ### Examples
 
-- _<b>ああ</b>&nbsp;_ “oh”
-- _<b>えっと</b>&nbsp;_ “well”
-- _<b>はい</b> / <b>いいえ</b>&nbsp;_ “yes / no”
-- _<b>こんにちは</b>&nbsp;_ “hello”
+- _<b>ああ</b>&nbsp;_ “oh” (`interjection` / 感動詞-一般) 
+- _<b>えっと</b>&nbsp;_ “well” (`interjection` / 感動詞-フィラー)
+- _<b>はい</b> / <b>いいえ</b>&nbsp;_ “yes / no”  (`interjection` / 感動詞-一般) 
+- _<b>こんにちは</b>&nbsp;_ “hello”  (`interjection` / 感動詞-一般) 
 
 
 ### References
