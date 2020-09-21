@@ -2,6 +2,7 @@
 layout: postag
 title: 'NOUN'
 shortdef: 'noun'
+udver: '2'
 ---
 
 ### Definition
@@ -16,6 +17,7 @@ Note that they are tagged [VERB](), when they function as verbs in being followe
 
 Prefixes, suffixes and numeral classifiers (e.g. _<b>匹</b>_ of _3<b>匹</b> の猫_ “three cats”) are also classified into [NOUN](), since they are the main notion of the noun phrases.
 
+In UniDic, these words are tagged with `noun` / 名詞-普通名詞-一般 or 名詞-普通名詞-副詞可能 or 名詞-普通名詞-サ変可能 or 名詞-普通名詞-形状詞可能 or 名詞-普通名詞-サ変形状詞可能, and `adjective (na)` / 形状詞-助動詞語幹, and `prefix` / 接頭辞, and `symbol` / 記号, and `foreign word` / 外国語.
 
 ### Examples
 
