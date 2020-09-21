@@ -34,4 +34,4 @@ However, we concatenate them into one word (e.g. _<b>二千十四</b>&nbsp;“20
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a numeral?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsANumeral.htm)
 - [Wikipedia: Numeral](http://en.wikipedia.org/wiki/Numeral_%28linguistics%29)
-- 
+
