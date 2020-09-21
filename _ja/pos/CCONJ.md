@@ -3,19 +3,18 @@ layout: postag
 title: 'CCONJ'
 redirect_from: "ja/pos/CONJ.html"
 shortdef: 'coordinating conjunction'
+udver '2'
 ---
 
 ### Definition
 
-`CCONJ` in Japanese is tagged for `conjunction` / 接続詞 in UniDic and 
-postpositional particles to represent coordination.  
+`CCONJ` in Japanese is tagged for `conjunction` / 接続詞 in UniDic to represent coordination.  
 
 ### Examples
 
-The following instances are cooridnative particles and conjunctions for nominal coordination:
+The following instances are conjunctions for nominal coordination:
 
-- _コーヒー <b>と</b> 牛乳&nbsp;_ “cofee _and_ milk” (`case (particle)` / 助詞-格助詞)
-- _コーヒー <b>か</b> 牛乳&nbsp;_ “cofee _or_ milk” (`case (adverbial)` / 助詞-副助詞)
+
 - _コーヒー <b>及び</b> 牛乳&nbsp;_ “cofee _and_ milk” (`conjunction` / 接続詞)
 - _コーヒー <b>あるいは</b> 牛乳&nbsp;_ “cofee _or_ milk” (`conjunction` / 接続詞)
 
