@@ -82,7 +82,7 @@ udver: '2'
 
 ### Features
 
-* We propose the use of 13 of 24 features defined in UDv2 that are relevant to Indonesian grammar:
+* We propose the use of 13 of 24 features defined in UD v2 that are relevant to Indonesian grammar:
   * [Abbr](), with one possible value: `Yes`. This feature can be applied to all UPOS categories, except [PUNCT]() and [SYM]().
   * [Clusivity](), applies to [PRON]() with two possible values: `Ex` and `In`.
     * `Clusivity=Ex` for _kami_ "we/our"
@@ -90,7 +90,7 @@ udver: '2'
   * [Degree](), applies to [ADJ]() with one possible value: `Sup`.
     * `Degree=Sup` for superlative adjectives, such as _terbaik_ "best", _tercantik_ "most beautiful", etc.
   * [Foreign](), with one possible value: `Yes`. This feature only applies to [X]().
-  * [Number](), applies to [NOUN](), [PRON](), and [DET]() with two possible values: `Sing` or `Plur`.
+  * [Number](), applies to [NOUN](), [PRON](), and [DET]() with three possible values: `Sing`, `Dual` or `Plur`.
   * [NumType](), applies to [NUM]() and [ADJ](), with two possible values: `Card` or `Ord`.
     * `NumType=Card` is used for `NUM`.
     * `NumType=Ord` is used for ordinal numbers tagged as `ADJ`.
@@ -126,7 +126,7 @@ udver: '2'
       * Passive verbs with prefix _ter-_: _terbakar_ "on fire", _terjatuh_ "fell", _terkejut_ "shocked"
       * Passive verbs with confix _ke-an_: _ketinggalan_ "lag behind", _kecurian_ "be stolen"
       
-* These 11 UDv2 features are not relevant to Indonesian grammar:
+* These 11 UD v2 features are not relevant to Indonesian grammar:
   * `Gender`. Indonesian words have no gender.
   * `Animacy`. Similar with Gender, there is no requirements of agreements between words in Indonesian.
   * `NounClass`, with the same reason for Gender and Animacy
@@ -176,7 +176,7 @@ udver: '2'
   * [obl:agent]() for agents of passive verbs
   * [obl:tmod]() for head of time-related noun phrases that depend on a `VERB/ADJ`. For example, in _**Kali ini** saya setuju._ "**This time** I agree.", _kali ini_ "this time" describes the predicate _setuju_ "agree", and the head of this noun phrase, _kali_ "time", will be annotated as the dependent of _setuju_ "agree" with the deprel `obl:tmod`
   
-* The following relation types are not used in Indonesian PUD:
+* The following main relation types are not used in Indonesian PUD:
   * `clf`
   * `expl`
   * `reparandum`
