@@ -46,7 +46,7 @@ More next.
 
 ## Treebanks
 
-There are [3](../treebanks/pt-comparison.html) LANGUAGE UD treebanks:
+There are [3](../treebanks/pt-comparison.html) PORTUGUESE LANGUAGE UD treebanks:
 
   * [Portuguese-Bosque](../treebanks/pt_bosque/index.html)
   * [Portuguese-GSD](../treebanks/pt_gsd/index.html)
