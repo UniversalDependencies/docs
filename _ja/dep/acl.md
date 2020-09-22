@@ -2,6 +2,7 @@
 layout: relation
 title: 'acl'
 shortdef: 'clausal modifier of noun'
+udver: '2'
 ---
 
 The dependency type `acl` is used for relative clauses and clausal complements of nouns.
