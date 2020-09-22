@@ -55,7 +55,7 @@ udver: '2'
   * _boleh_ as the equivalent of modal “may”.
   * _mungkin_ as the equivalent of modal “might”.
   * _harus_ as the equivalent of modal “must”.
-  * _sebaiknya_ and _seharusnya_ as the equivalent of modal 'shall/should'
+  * _sebaiknya_ and _seharusnya_ as the equivalents of modal 'shall/should'
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
   * The following word types are tagged as PRON:
     * personal pronouns, such as _saya/aku/ku_ "I", _kamu/mu/anda_ "you", _dia/ia/nya_ "he/she/it/him/her/its", _kami/kita_ "we/us/our", _mereka_ "they/them/their"
@@ -90,7 +90,7 @@ udver: '2'
   * [Degree](), applies to [ADJ]() with one possible value: `Sup`.
     * `Degree=Sup` for superlative adjectives, such as _terbaik_ "best", _tercantik_ "most beautiful", etc.
   * [Foreign](), with one possible value: `Yes`. This feature only applies to [X]().
-  * [Number](), applies to [DET](), [NOUN](), and [PRON](), with three possible values: `Sing`, `Dual` or `Plur`.
+  * [Number](), applies to [DET](), [NOUN](), and [PRON](), with two possible values: `Sing`, or `Plur`.
   * [NumType](), applies to [NUM]() and [ADJ](), with two possible values: `Card` or `Ord`.
     * `NumType=Card` is used for `NUM`.
     * `NumType=Ord` is used for ordinal numbers tagged as `ADJ`.
@@ -176,7 +176,7 @@ udver: '2'
   * [obl:agent]() for agents of passive verbs
   * [obl:tmod]() for head of time-related noun phrases that depend on a `VERB/ADJ`. For example, in _**Kali ini** saya setuju._ "**This time** I agree.", _kali ini_ "this time" describes the predicate _setuju_ "agree", and the head of this noun phrase, _kali_ "time", will be annotated as the dependent of _setuju_ "agree" with the deprel `obl:tmod`
   
-* The following main relation types are not used in Indonesian PUD:
+* Among 37 of UD v2 main dependency relations, the following relation types are not used in Indonesian PUD:
   * `clf`
   * `expl`
   * `reparandum`
