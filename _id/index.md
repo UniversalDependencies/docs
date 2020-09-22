@@ -22,9 +22,10 @@ udver: '2'
       * Word _-nya_ as pronoun, as in _mencintai**nya**_ "love **him/her/it**", this token is split into _mencintai_ "love" and _**nya**_ "him/her/it".
       * Word _-nya_ as determiner, as in _buku**nya**_ "**his/her/its** book", this token is split into _buku_ "book" and _**nya**_ "his/her/its".
       
-    * Words ended with _-nya_ that functions as adverbs or adjectives are **not** split into two tokens. For example:
+    * Words ended with _-nya_ that functions as adverbs, adjectives or auxiliary are **not** split. For example:
       * adverbs ended with _-nya_: _khusus**nya**_ "especially", _awal**nya**_ "initially", _akhir**nya**_ "finally"
       * adjectives ended with _-nya_: _sebelum**nya**_ "previous", _sesudah**nya**_ "next", _berikutnya_ "next"
+      * auxiliary ended with _-nya_: _seharus**nya**/sebaik**nya**_ "shall/should"
 
 * Special treatments for punctuations. All punctuation symbols are separated from the words, except in two cases:
   * Hyphen in reduplicated words. Indonesian has many reduplicated words as nouns (both singular and plural), verbs, adjectives, adverbs, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
