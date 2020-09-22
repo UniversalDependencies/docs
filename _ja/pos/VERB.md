@@ -2,6 +2,7 @@
 layout: postag
 title: 'VERB'
 shortdef: 'verb'
+udver: '2'
 ---
 
 ### Definition
@@ -15,7 +16,7 @@ A [VERB]() consists of the stem and inflection parts as below:
 - _<b>遊ぶ</b>&nbsp;_ “play” (`verb (general)` / 動詞-一般)
 - _<b>遊ん</b> だ&nbsp;_ “play”+PAST : _だ_ is an auxiliary verb [AUX](), representing past tense.
 - _<b>遊ば</b> ない&nbsp;_ “play”+NEG : _ない_ is an auxiliary verb [AUX](), representing negation.
-- _<b>見</b> て いる&nbsp;_ “see”+PROGRESSIVE : a combination of _て_  [CCONJ]() and _いる_ [AUX]() functions 
+- _<b>見</b> て いる&nbsp;_ “see”+PROGRESSIVE : a combination of _て_  [SCONJ]() and _いる_ [AUX]() functions 
 as adding progrsssive aspect.
 - _<b>来る</b>&nbsp;_ “come” 
 - _<b>勉強</b>する&nbsp;_ “study”: _する_ is an auxiliary verb [AUX](), forming a verb noun into a verb. 
