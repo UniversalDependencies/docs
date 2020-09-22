@@ -2,6 +2,7 @@
 layout: relation
 title: 'advcl'
 shortdef: 'adverbial clause modifier'
+udver: '2'
 ---
 
 The dependency type `advcl` is reserved for subordinate clauses.
