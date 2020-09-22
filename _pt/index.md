@@ -10,9 +10,9 @@ Preliminary documentation for Portuguese treebanks.
 
 ## Tokenization and Word Segmentation
 
-* In general, words are delimited by whitespace characters. Description of exceptions follows.
-* Compounds with hyphen are annotated as MWT (multi-word tokens) and splitted into tokens without the hyphen. That is, `homen-aranha` become two tokens `homen` and `aranha`.
-* Mesoclisis (`contar-lhe-ei` would be `contar`, `lhe` and `ei`) and enclisis (`sentem-se` become `sentem` and `se`) follow the same rule.
+* In general, words are delimited by whitespace characters. A description of some exceptions follows.
+* Compounds with hyphen are annotated as MWT (multi-word tokens) and split into tokens without the hyphen. That is, `homen-aranha` becomes two tokens `homen` and `aranha`.
+* Mesoclisis (like `contar-lhe-ei` would be `contar`, `lhe` and `ei`) and enclisis (e.g. `sentem-se` becomes `sentem` and `se`) follow the same rule.
 
 ## Morphology
 
@@ -24,23 +24,23 @@ the POS tag of multi-word expressions as a whole.
 
 ### Features
 
-More in the future.
+More later.
 
 ### Lemmas
 
-* For NOUN, the singular form.
-* For PROPN, the same form preserving the capitalization.
-* For ADJ and DET, masculine and singular form.
-* For VERB and AUX, the infinitive of the verb.
-* For PRON, if noun, follow the NOUN rule, if adjective pronouns,
+* For NOUN, we use the singular form.
+* For PROPN, we use the same form, preserving the capitalization.
+* For ADJ and DET, the masculine and singular form is used.
+* For VERB and AUX, the infinitive of the verb is used.
+* For PRON, if noun, follow the NOUN rule, if an adjective pronoun,
   follow the ADJ rule.
 
 ## Syntax
 
 
-* Only `ser` and `estar` should be consider copulas. 
+* Only `ser` and `estar` should be considered copulas. 
 
-More next.
+More later.
 
 ---
 
