@@ -7,7 +7,7 @@ shortdef: 'subordinating conjunction'
 ### Definition
 
 `SCONJ` for Japanese are used for words tagged as `conjunction` / 接続詞, 
-`particle (conjunctive)` / 助詞-接続助詞  and `particle (nominal)` / 準体助詞 in UniDic. 
+`particle (conjunctive)` / 助詞-接続助詞  and `particle (nominal)` / 助詞-準体助詞 in UniDic. 
 
 ### Examples
 
