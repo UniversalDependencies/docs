@@ -158,6 +158,12 @@ udver: '2'
 
 ### Relations Overview
 
+* Indonesian PUD uses 32 of 37 main dependency relation defined in UD v2. The following relation types are not used:
+  * `clf`
+  * `def`
+  * `expl`
+  * `list`
+  * `reparandum`
 * The following 13 relation subtypes are used in Indonesian PUD:
   * [acl:relcl]() for relative clauses that modify a noun phrase. In Indonesian, relative clauses usually use _yang_ as the subject of the clause.
   * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah, pun_ that emphasize other words that could be a [NOUN](), [PRON](), [VERB](), or [SCONJ](). For example, token _itu**lah**_ "that" in tokenization phase was split into _itu_ "that" and _**lah**_, then _lah_ is annotated as the dependent of _itu_ and the relation between them is `advmod:emph`.
@@ -176,13 +182,7 @@ udver: '2'
   * [obl:agent]() for agents of passive verbs
   * [obl:tmod]() for head of time-related noun phrases that depend on a `VERB/ADJ`. For example, in _**Kali ini** saya setuju._ "**This time** I agree.", _kali ini_ "this time" describes the predicate _setuju_ "agree", and the head of this noun phrase, _kali_ "time", will be annotated as the dependent of _setuju_ "agree" with the deprel `obl:tmod`
   
-* Among 37 of UD v2 main dependency relations, the following relation types are not used in Indonesian PUD:
-  * `clf`
-  * `def`
-  * `expl`
-  * `list`
-  * `reparandum`
-
+  
 ## Treebanks
 
 There are [2](../treebanks/id-comparison.html) Indonesian UD treebanks:
