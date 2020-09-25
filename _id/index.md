@@ -49,14 +49,16 @@ udver: '2'
   * particles of _-lah, -kah, -tah, pun_, that have been discussed in the previous section.
 * The auxiliary ([AUX]()) vs. [VERB]() distinction is based on examples for English treebank, since initially there is no AUX type in KBBI. We defined 14 Indonesian words as AUX as follows:
   * _adalah_ and _ialah_ “be” serve as copulas.
-  * _akan_ “will/would” for the future tense.
-  * _sedang_ “be” for the present tense.
-  * _telah_ and _sudah_ “have/has/had” for the past tense.
-  * _bisa, dapat_ and _mampu_ as the equivalents of modal “can/could”.
-  * _boleh_ as the equivalent of modal “may”.
-  * _mungkin_ as the equivalent of modal “might”.
-  * _harus_ as the equivalent of modal “must”.
-  * _sebaiknya_ and _seharusnya_ as the equivalents of modal 'shall/should'
+  * Tenses-related AUX:
+    * _akan_ “will/would” for the future tense.
+    * _sedang_ “be” for the present tense.
+    * _telah_ and _sudah_ “have/has/had” for the past tense.
+  * Modal-related AUX:
+    * _bisa, dapat_ and _mampu_ as the equivalents of modal “can/could”.
+    * _boleh_ as the equivalent of modal “may”.
+    * _mungkin_ as the equivalent of modal “might”.
+    * _harus_ as the equivalent of modal “must”.
+    * _sebaiknya_ and _seharusnya_ as the equivalents of modal 'shall/should'
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
   * The following word types are tagged as PRON:
     * personal pronouns, such as _saya/aku/ku_ "I", _kamu/mu/anda_ "you", _dia/ia/nya_ "he/she/it/him/her/its", _kami/kita_ "we/us/our", _mereka_ "they/them/their"
@@ -66,11 +68,8 @@ udver: '2'
     * total pronouns, such as _semua_ "all" as in _**Semua** kecuali bukumu_ "**All** except your books".
     * demonstrative pronouns: _ini_ "this" as in _**Ini** bukan salahmu._ "**This** is not your fault".
   * The following word types are tagged as DET:
-    * possessive pronouns. All personal pronouns in Indonesian can also be used as possessive pronouns. For example:
-      * _-nya_ as PRON as in _Aku membawa**nya** ke sini._ "I bring **it** here."
-      * _-nya_ as DET as in _Rumah**nya** di Depok._ "**His/her** house is in Depok."
-    * pronominal numerals: _beberapa_ "some/many", _semua_ "all" as in _**semua** siswa_ "**all** students"
     * demonstrative determiners: _ini_ "this" as in _Kota **ini** sangat indah_ "**This** city is beautiful"
+    * pronominal numerals: _beberapa_ "some/many", _semua_ "all" as in _**semua** siswa_ "**all** students"
 * Indonesian has the following coordinating conjunction words ([CCONJ]()):
   * _dan, serta, maupun_ as the equivalents of "and" in English
   * _atau_ "or"
@@ -168,9 +167,9 @@ udver: '2'
     * `ADP` + `VERB` as adverb, such as _secara terpisah_ "separately", that consists of _secara_ "with" (`ADP`) + _terpisah_ "separated" (`VERB`).
   * [cc:preconj](), such as in _baik Mongolia maupun Tingkok_ "both Mongolia and China", _baik_ "both" is considered as preconjunct.
   * [csubj:pass]() for clausal subjects of passive verbs.
-  * [det:poss]() for possessive relationship between `NOUN/PROPN` and possessive pronoun that tagged as (`DET`). For example, in _temanku_ "my friend" that is split into _teman_ "friend" and _ku_ "my", token _ku_ "my" will be given deprel `det:poss`.
   * [flat:foreign]() to label sequences of foreign words.
   * [flat:range]() for noun phrases that consist of range, such as _2019-2020_ will be separated into three tokens, and the relation between 2020 to 2019 is annotated as `flat:range`.
+  * [nmod:npmod]() for locative nouns. In Indonesian, _dalam_ "in", _luar_ "out are considered as locative nouns. For noun phrases like _dalam ruangan_ "in a/the room", locative noun is annotated as the dependent of the noun phrase that it modify. This deprel has a _head-final_ direction, different with `nmod` that has a _head-initial_ direction.
   * [nmod:poss]() for possessive relationship between `NOUN/PROPN` and another `NOUN/PROPN`. For example, in _istri Trump_ "Trump's wife", token Trump will be given deprel `nmod:poss`.
   * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. For example, in _pengeluaran **tahun ini**_ "**this year** spending", _tahun ini_ "this year" modifies _pengeluaran_ "spending", and the head of this phrase, _tahun_ "year" will be annotated as the dependent of _pengeluaran_ "spending" with the deprel `nmod:tmod`.
   * [nsubj:pass]() for nominal subjects of passive verbs
