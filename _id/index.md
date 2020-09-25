@@ -169,7 +169,7 @@ udver: '2'
   * [csubj:pass]() for clausal subjects of passive verbs.
   * [flat:foreign]() to label sequences of foreign words.
   * [flat:range]() for noun phrases that consist of range, such as _2019-2020_ will be separated into three tokens, and the relation between 2020 to 2019 is annotated as `flat:range`.
-  * [nmod:npmod]() for locative nouns. In Indonesian, _dalam_ "in", _luar_ "out are considered as locative nouns. For noun phrases like _dalam ruangan_ "in a/the room", locative noun is annotated as the dependent of the noun phrase that it modify. This deprel has a _head-final_ direction, different with `nmod` that has a _head-initial_ direction.
+  * [nmod:npmod]() for locative nouns. In Indonesian, _dalam_ "in/inside", _luar_ "out/outside" are considered as locative nouns. For noun phrases like _dalam ruangan_ "in a/the room", locative noun is annotated as the dependent of the noun phrase that it modify. This deprel has a _head-final_ direction, different with `nmod` that has a _head-initial_ direction.
   * [nmod:poss]() for possessive relationship between `NOUN/PROPN` and another `NOUN/PROPN`. For example, in _istri Trump_ "Trump's wife", token Trump will be given deprel `nmod:poss`.
   * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. For example, in _pengeluaran **tahun ini**_ "**this year** spending", _tahun ini_ "this year" modifies _pengeluaran_ "spending", and the head of this phrase, _tahun_ "year" will be annotated as the dependent of _pengeluaran_ "spending" with the deprel `nmod:tmod`.
   * [nsubj:pass]() for nominal subjects of passive verbs
@@ -178,7 +178,9 @@ udver: '2'
   
 * Among 37 of UD v2 main dependency relations, the following relation types are not used in Indonesian PUD:
   * `clf`
+  * `def`
   * `expl`
+  * `list`
   * `reparandum`
 
 ## Treebanks
