@@ -74,11 +74,6 @@ udver: '2'
   * _dan, serta, maupun_ as the equivalents of "and" in English
   * _atau_ "or"
   * _tapi, tetapi, namun, melainkan_ as the equivalents of "but" in English
-* Indonesian also has (de)verbal form as ADJ, ADV or NOUN
-  * Verbal adjecive as in _pesawat **terbang**_ (plane). Word _terbang_ "fly" is a verb, but in this noun phrase it functions as an adjective.
-  * Verbal adverb as in _secara **terpisah**_ "separately". Word _terpisah_ "separated" is a verb, but when used together with _secara_ "with", the two tokens serve as an adverb.
-  * Verbal noun as in _Hobinya adalah **memancing**_ "His hobby is fishing". In this sentence, _memancing_ "fishing" functions as a noun.
-
 
 ### Features
 
