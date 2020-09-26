@@ -280,6 +280,8 @@ collections:
     output: true
   tpn:
     output: true
+  aqz:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
