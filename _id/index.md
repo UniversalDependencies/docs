@@ -57,7 +57,7 @@ udver: '2'
     * _bisa, dapat_ and _mampu_ as the equivalents of modal “can/could”.
     * _boleh_ as the equivalent of modal “may”.
     * _mungkin_ as the equivalent of modal “might”.
-    * _harus_ as the equivalent of modal “must”.
+    * _harus, wajib_ as the equivalent of modal “must”.
     * _sebaiknya_ and _seharusnya_ as the equivalents of modal 'shall/should'
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
   * The following word types are tagged as PRON:
@@ -93,7 +93,7 @@ udver: '2'
   * [Polarity](), with one possible value: `Neg`, applies to [PART]() and [INTJ]().
     * `Polarity=Neg` for [PART]() applies for negation particles as in _Saya **tidak** menyukainya_ "I do **not** like him/her/it". The word _tidak_ "no" will be tagged with `Polarity=Neg`.
     * `Polarity=Neg` for [INTJ]() as in _**Tidak**, terima kasih_ "**No**, thanks". The word _tidak_ "no" will be given feature `Polarity=Neg`.
-  * [Poss](), applies to [PRON](), with one possible value: `Yes` for [PRON] that serves as possessive pronouns.
+  * [Poss](), applies to [PRON](), with one possible value: `Yes` for [PRON]() that serves as possessive pronouns.
   * [PronType](), applies to [PRON](), [DET](), and [ADV](). For Indonesian, 7 possible values can be applied:
     1. `PronType=Dem`, applies to `ADV`, `DET`, and `PRON` such as for _itu_ "that" in _**Itu** masalahmu._ "**That** is your problem."
     2. `PronType=Emp`, applies to `DET` such as for _sendiri_ "self" in _Kamu harus percaya pada dirimu **sendiri**_ "You have to believe in your**self**".
