@@ -19,7 +19,7 @@ udver: '2'
 ### Tags
 
 * Tagalog uses 16 out of the 17 universal POS tags. The auxiliary ([AUX](https://universaldependencies.org/u/pos/AUX_.html)) tag is not used, as equivalent function words in Tagalog are classified as verbs or adverbs, and no copulas exist.
-  * Note: the UD_Tagalog-TRG treebank incorrectly labels the verb *may* "there is" as [AUX](https://universaldependencies.org/u/pos/AUX_.html). This will be updated in a future release. 
+  * Note: the UD_Tagalog-TRG treebank incorrectly labels the verb *may* "there is" as [AUX](https://universaldependencies.org/u/pos/AUX_.html). This will be updated in a future release.
 * Several word types are classified as particles ([PART](https://universaldependencies.org/u/pos/PART.html)). These fall under two categories:
   * grammatical particles (the inversion marker *ay*; and relative or linking markers *na* and *-ng*)
   * lexical particles (the question marker *ba*, the negation marker *hindi*, fillers such as *e*, *o*, and *a*, and the honorific *po*)
@@ -31,9 +31,18 @@ udver: '2'
   * oblique markers such as *sa*, *mula sa*, *para sa*, *sa pamamamgitan ng*, etc.
 
 
-### Features
 
-* To be determined.
+### Verbal Features
+
+* Verbs inflect for [Mood](), [Aspect]() (rather than [Tense]()) and [Voice]().
+* The current data contain only verbs in the indicative mood (`Ind`).
+* Aspect is perfective (`Perf`), imperfective (`Imp`), prospective (`Prosp`) and habitual (`Hab`).
+* The Austronesian [Voice]() system is quite different from the active-passive opposition in Indo-European languages. The morphological voice of the verb “focuses” on one particular argument, which is annotated as subject. However, the voices are symmetric in the sense that focusing on the more patient-like argument (“passive” voice) does not transform a transitive clause into intransitive: the more agent-like argument, if present, is still a core argument. Moreover, it is possible to focus on arguments with other semantic roles as well. (Note that the “focus” of the verb on a particular semantic role should not be confused with pragmatic focus as in topic-focus articulation. The focused argument here is actually always the topic, not the focus of the utterance.) The following `Voice` features are defined in the universal guidelines and apply to multiple Philippine languages.
+  * To reduce proliferation of feature values, the actor-focus voice uses the same label as the active voice in Indo-European languages, that is, `Voice=Act`.
+  * Analogously, the undergoer-focus voice is conflated with Indo-European passive (`Voice=Pass`), although its grammatical behavior is different, as explained above.
+  * The locative-focused voice (`Voice=Lfoc`) marks the location as the topic of the sentence.
+  * The beneficiary-focused voice (`Voice=Bfoc`) marks the beneficiary as the topic of the sentence.
+
 
 
 ## Syntax
@@ -48,6 +57,22 @@ udver: '2'
 ### Non-verbal Predicates
 
 * Non-verbal clauses (such as noun, adverb, or adjective phrases) may be used as predicates in Tagalog. In these instances, the highest node of the clause is labeled as [root](https://universaldependencies.org/u/dep/root.html), and all other nodes typically connected to the root verb are instead connected to this node.
+
+### Relations Overview
+
+* The following relation subtypes are used in Tagalog:
+  * [nsubj:pass]() for nominal subjects of verbs in undergoer-focused voice
+  * [nsubj:lfoc]() for nominal subjects of verbs in location-focused voice
+  * [nsubj:bfoc]() for nominal subjects of verbs in beneficiary-focused voice
+  * [csubj:pass]() for clausal subjects of verbs in undergoer-focused voice
+  * [csubj:lfoc]() for clausal subjects of verbs in location-focused voice
+  * [csubj:bfoc]() for clausal subjects of verbs in beneficiary-focused voice
+  * [obj:agent]() for agents (actors) of verbs in a non-actor-focused voice
+  * [compound:redup]() for reduplicated nouns and adjectives (reduplication intensifies their meaning)
+  * [nmod:poss]() for possessive relation between nominals
+* The following relation types are not used in Tagalog at all:
+  [clf](), [expl](), [dislocated]()
+
 
 
 ## Treebanks
