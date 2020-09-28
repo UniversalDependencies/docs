@@ -54,11 +54,11 @@ udver: '2'
     * _sedang_ “be” for the present tense.
     * _telah_ and _sudah_ “have/has/had” for the past tense.
   * Modal-related AUX:
+    * _harus, mesti, wajib_ as the equivalents of modal “must”.
+    * _sebaiknya, seharusnya_ as the equivalents of modal 'shall/should'.
     * _bisa, dapat_ and _mampu_ as the equivalents of modal “can/could”.
     * _boleh_ as the equivalent of modal “may”.
     * _mungkin_ as the equivalent of modal “might”.
-    * _harus, wajib_ as the equivalent of modal “must”.
-    * _sebaiknya_ and _seharusnya_ as the equivalents of modal 'shall/should'
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
   * The following word types are tagged as PRON:
     * personal pronouns, such as _saya/aku/ku_ "I", _kamu/mu/anda_ "you", _dia/ia/nya_ "he/she/it/him/her/its", _kami/kita_ "we/us/our", _mereka_ "they/them/their"
@@ -69,7 +69,7 @@ udver: '2'
     * demonstrative pronouns: _ini_ "this" as in _**Ini** bukan salahmu._ "**This** is not your fault".
   * The following word types are tagged as DET:
     * demonstrative determiners: _ini_ "this" as in _Kota **ini** sangat indah_ "**This** city is beautiful"
-    * pronominal numerals: _beberapa_ "some/many", _semua_ "all" as in _**semua** siswa_ "**all** students"
+    * pronominal numerals: _beberapa, berbagai, para_ "some/many", _semua_ "all" as in _**semua** siswa_ "**all** students"
 * Indonesian has the following coordinating conjunction words ([CCONJ]()):
   * _dan, serta, maupun_ as the equivalents of "and" in English
   * _atau_ "or"
@@ -159,17 +159,19 @@ udver: '2'
   * `expl`
   * `list`
   * `reparandum`
-* The following 13 relation subtypes are used in Indonesian PUD:
+* The following 16 relation subtypes are used in Indonesian PUD:
   * [acl:relcl]() for relative clauses that modify a noun phrase. In Indonesian, relative clauses usually use _yang_ as the subject of the clause.
   * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah, pun_ that emphasize other words that could be a [NOUN](), [PRON](), [VERB](), or [SCONJ](). For example, token _itu**lah**_ "that" in tokenization phase was split into _itu_ "that" and _**lah**_, then _lah_ is annotated as the dependent of _itu_ and the relation between them is `advmod:emph`.
   * [case:adv]() for adposition ([ADP]()) that together with its following word of [ADJ]()/[ADV]()/[VERB]() serve as an adverb. In this case the `ADP` word is annotated as the dependent of `ADJ`/`ADV`/`VERB` and the dependency relation between them is `case:adv`, and the relation between the `ADJ/ADV/VERB` word and its parent is [advmod](). For example:
     * `ADP` + `ADJ` as adverb, such as _secara hati-hati_ "carefully", that consists of _secara_ "with"_ (`ADP`) + _hati-hati_ "careful" (`ADJ`)
     * `ADP` + `ADV` as adverb, such as _dengan sungguh-sungguh_ "seriously", that consists of _dengan_ "with" (`ADP`) + sungguh-sungguh "serious" (`ADV`)
-    * `ADP` + `VERB` as adverb, such as _secara terpisah_ "separately", that consists of _secara_ "with" (`ADP`) + _terpisah_ "separated" (`VERB`).
+    * `ADP` + `VERB` as adverb, such as _secara terpisah_ "separately", that consists of _secara_ "with" (`ADP`) + _terpisah_ "separated" (`VERB`).  
   * [cc:preconj](), such as in _baik Mongolia maupun Tingkok_ "both Mongolia and China", _baik_ "both" is considered as preconjunct.
+  * [compound:a]() for adjective compounds, such as: _luar biasa_ "excellent", _besar hati_ "heartened"
+  * [compound:n]() for noun compounds that does not consist of NOUN + NOUN words.
+  * [compound:v]() for verb compounds, such as: _bertanggung jawab_ "be responsible", _mengambil alih_ "to take over" 
   * [csubj:pass]() for clausal subjects of passive verbs.
   * [flat:foreign]() to label sequences of foreign words.
-  * [flat:range]() for noun phrases that consist of range, such as _2019-2020_ will be separated into three tokens, and the relation between 2020 to 2019 is annotated as `flat:range`.
   * [nmod:npmod]() for locative nouns. In Indonesian, _dalam_ "in/inside", _luar_ "out/outside" are considered as locative nouns. For noun phrases like _dalam ruangan_ "in a/the room", locative noun is annotated as the dependent of the noun phrase that it modify. This deprel has a _head-final_ direction, different with `nmod` that has a _head-initial_ direction.
   * [nmod:poss]() for possessive relationship between `NOUN/PROPN` and another `NOUN/PROPN`. For example, in _istri Trump_ "Trump's wife", token Trump will be given deprel `nmod:poss`.
   * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. For example, in _pengeluaran **tahun ini**_ "**this year** spending", _tahun ini_ "this year" modifies _pengeluaran_ "spending", and the head of this phrase, _tahun_ "year" will be annotated as the dependent of _pengeluaran_ "spending" with the deprel `nmod:tmod`.
