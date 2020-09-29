@@ -86,12 +86,12 @@ dependency relations in v2 of the UD guidelines
 The Manx treebank uses the following six subtype relations;
 all but `flat:foreign` are used in the Irish treebank.
 
-* [acl:relcl] for relative clauses
-* [csubj:cleft] for cleft subjects
-* [csubj:cop] for copular clausal subjects
-* [flat:foreign] for non-first words in quoted foreign phrases
-* [obl:tmod] for temporal modifiers
-* [xcomp:pred] for predicates of the substantive verb “to be”
+* `acl:relcl` for relative clauses
+* `csubj:cleft` for cleft subjects
+* `csubj:cop` for copular clausal subjects
+* `flat:foreign` for non-first words in quoted foreign phrases
+* `obl:tmod` for temporal modifiers
+* `xcomp:pred` for predicates of the substantive verb “to be”
 
 ## Treebanks
 
