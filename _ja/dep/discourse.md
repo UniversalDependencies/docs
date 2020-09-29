@@ -12,4 +12,4 @@ discourse(つかれ, あー)
 aux(つかれ, た)
 punct(つかれ, 。)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:20 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:29 CEST 2020 -->

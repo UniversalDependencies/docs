@@ -11,4 +11,4 @@ The `root` grammatical relation points to the root of the sentence. A fake node 
 ROOT PRO1 LITEN-PERSON HA\*INTE PERSON^TECKEN PRO1 PU@g \n When I was small, I didn't have a name sign.
 advcl(ROOT, HA\*INTE)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:36 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:44 CEST 2020 -->

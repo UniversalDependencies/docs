@@ -29,4 +29,4 @@ such as examples below:
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Interjection)
-<!-- Interlanguage links updated Út zář 29 18:40:45 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:22:59 CEST 2020 -->

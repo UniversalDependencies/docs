@@ -13,4 +13,4 @@ tokens; then the tokens need tags.
 Examples: "anglo-" in "anglo-saxon"; [cs] "česko-slovenský"
 (Czecho-Slovak; the second part is a normal adjective, including
 adjectival morphological paradigm, but the first part is special.)
-<!-- Interlanguage links updated Út zář 29 18:40:55 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:08 CEST 2020 -->

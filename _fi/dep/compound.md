@@ -30,4 +30,4 @@ compound(--5, 3-4)
 compound(5-6, --5)
 punct(5-6, .-7)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:13 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:23 CEST 2020 -->

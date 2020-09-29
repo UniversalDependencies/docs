@@ -24,4 +24,4 @@ compounds (the independent form would be _český_).
 #### Examples
 
 * _<b>česko</b>-slovenský&nbsp;_ “Czecho-Slovak”
-<!-- Interlanguage links updated Út zář 29 18:40:54 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:08 CEST 2020 -->

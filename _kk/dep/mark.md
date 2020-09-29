@@ -22,4 +22,4 @@ subj(жауса-4, жаңбыр-3)
 The dependency relation `mark` is also used to identify the
 *complementiser* appearing in most clausal complements, where the head
 of the dependency is the main verb of the subordinate clause. 
-<!-- Interlanguage links updated Út zář 29 18:41:25 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:34 CEST 2020 -->

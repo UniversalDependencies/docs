@@ -26,4 +26,4 @@ number-case inflectional paradigm.
 - _повітря_ “air”
 - _краса_ “beauty”
 - _плавання_ “swimming”
-<!-- Interlanguage links updated Út zář 29 18:40:46 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:00 CEST 2020 -->

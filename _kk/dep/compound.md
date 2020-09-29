@@ -40,4 +40,4 @@ nsubj(түседі-9, доллары-8)
 compound(миллиард-6, 16,3-5)
 punct(түседі-9, .-10)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:13 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:23 CEST 2020 -->

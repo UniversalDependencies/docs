@@ -45,4 +45,4 @@ either `VERB` or [ADV]().
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a verb?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAVerbLinguistics.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Verb)
-<!-- Interlanguage links updated Út zář 29 18:40:49 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:04 CEST 2020 -->

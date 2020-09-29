@@ -16,4 +16,4 @@ ROOT Când a intrat preotul , toți în genunchi .
 root(ROOT, genunchi)
 nsubj(genunchi, toți)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:33 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:41 CEST 2020 -->

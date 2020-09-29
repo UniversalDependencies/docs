@@ -60,4 +60,4 @@ are usually neuter.
 * _<b>moře</b>&nbsp;_ “sea”
 * _<b>kuře</b>&nbsp;_ “chicken”
 * _<b>stavení</b>&nbsp;_ “building”
-<!-- Interlanguage links updated Út zář 29 18:40:54 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:08 CEST 2020 -->

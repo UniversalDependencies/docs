@@ -109,4 +109,4 @@ See the [expl]()  relation for cases of clitic doubling.
 
 At present and contrary to the general UD definition of [u-dep/iobj](), in
 UD Greek we allow prepositional indirect objects.
-<!-- Interlanguage links updated Út zář 29 18:41:24 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:33 CEST 2020 -->

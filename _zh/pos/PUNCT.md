@@ -18,4 +18,4 @@ Punctuation is not taken to include logograms such as _$_, _%_, and _§_, which 
 - Quotation marks: ‘ ’ “ ”「 」 『 』
 - Title marks: 《 》
 
-<!-- Interlanguage links updated Út zář 29 18:40:48 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:03 CEST 2020 -->

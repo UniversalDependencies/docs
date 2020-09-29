@@ -11,4 +11,4 @@ We use reparandum to indicate disfluencies overridden in a speech repair. The di
 Und danach , davor hatten wir andere Probleme . \n And after , before we had other problems .
 reparandum(davor, danach)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:35 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:43 CEST 2020 -->

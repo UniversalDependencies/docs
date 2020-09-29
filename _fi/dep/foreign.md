@@ -26,4 +26,4 @@ foreign(Let's-3, cow-7)
 punct(Opimme-1, .-9)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 18:41:23 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:32 CEST 2020 -->

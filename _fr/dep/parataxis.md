@@ -22,4 +22,4 @@ parataxis(ont, voir)
 C'est l' idée : les enfants sont le futur \n That is the thought : children are the future
 parataxis(idée, futur)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:34 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:42 CEST 2020 -->

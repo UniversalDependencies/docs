@@ -13,4 +13,4 @@ PRO1 BESTÄMMA-SIG TA MEDIA^PROGRAM I@b ÖREBRO@en \n I decided to take the medi
 nmod(MEDIA^PROGRAM, ÖREBRO@b)
 case(ÖREBRO@b, I@b)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:27 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:36 CEST 2020 -->

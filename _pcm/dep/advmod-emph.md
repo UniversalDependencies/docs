@@ -41,4 +41,4 @@ The emphasizing adverbial modifiers in Naija include:
 
 - o
 - sef
-<!-- Interlanguage links updated Út zář 29 18:41:06 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:17 CEST 2020 -->

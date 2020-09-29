@@ -42,4 +42,4 @@ The infinitival construction can also express sequential or  purpose meaning, wh
 
 ~~~
 'A chicken climbed a lemon tree and shook it'.
-<!-- Interlanguage links updated Út zář 29 18:41:37 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:45 CEST 2020 -->

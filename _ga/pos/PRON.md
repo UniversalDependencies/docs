@@ -91,4 +91,4 @@ These are tagged as ADP
 * _ag<b>at</b>_ "at you"
 
 
-<!-- Interlanguage links updated Út zář 29 18:40:47 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:01 CEST 2020 -->

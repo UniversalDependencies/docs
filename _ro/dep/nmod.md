@@ -13,4 +13,4 @@ Prietena fetei o așteaptă la masă . \n Friend-the girl-the-genitive her waits
 nmod(Prietena, fetei)
 nmod(așteaptă, masă)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:27 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:36 CEST 2020 -->

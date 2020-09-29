@@ -11,4 +11,4 @@ The relation `nmod:poss` is used for a genitive/possessive nominal modifier, exp
 POSS1 EGEN SPRÅK VETA-INTE PRO1 \n I didn't know my own language
 nmod:poss(SPRÅK, POSS1)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:28 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:37 CEST 2020 -->

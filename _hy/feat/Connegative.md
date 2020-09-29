@@ -29,4 +29,4 @@ Note that there is no `No` value. If the word is not connegative, the
 * _չէի, չէիր, չէր, չէինք, չէիք, չէին <b>ասի</b>_ “I; you; he/she/it; we; you; they would not <b>say</b>”,
 * _չեմ, չես, չի, չենք, չեք, չեն <b>կարդա</b>_ “I; you; he/she/it; we; you; they will not <b>read</b>”,
 * _չէի, չէիր, չէր, չէինք, չէիք, չէին <b>մոտենա</b>_ “I; you; he/she/it; we; you; they woul not <b>approach</b>”
-<!-- Interlanguage links updated Út zář 29 18:40:52 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:06 CEST 2020 -->

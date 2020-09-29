@@ -18,4 +18,4 @@ nmod(алды-9, Рио-де-Жанейрода-7)
 nsubj(алды-9, финалы-6)
 nmod(матчы-2, Ашылу-1)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:33 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:41 CEST 2020 -->

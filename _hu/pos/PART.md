@@ -11,4 +11,4 @@ shortdef: 'particle'
  not eat-PAST-3SG-OBJ (preverb) the soup-ACC
  
  ``He did not eat the soup.''
-<!-- Interlanguage links updated Út zář 29 18:40:46 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:00 CEST 2020 -->

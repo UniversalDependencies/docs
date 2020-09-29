@@ -37,4 +37,4 @@ Morphological features are important for the specification of particle types. Ir
 example, _a_ can be a vocative particle, relative particle, infinitive particle or quantifier particle, and trigger a variety of different spelling changes (e.g. eclipsis, h-prefix or lenition).
 
 
-<!-- Interlanguage links updated Út zář 29 18:40:46 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:00 CEST 2020 -->

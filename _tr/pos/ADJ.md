@@ -24,4 +24,4 @@ dictionaries and grammars.
 - _büyük_ "big"
 - _eski_ "old"
 - _yeşil_ "green"
-<!-- Interlanguage links updated Út zář 29 18:40:42 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:22:55 CEST 2020 -->

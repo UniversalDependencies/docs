@@ -16,4 +16,4 @@ Potkal jsem ho minulý čtvrtek . \n Met I-have him last Thursday .
 obl(Potkal, čtvrtek)
 obl(Met, Thursday)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:32 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:40 CEST 2020 -->

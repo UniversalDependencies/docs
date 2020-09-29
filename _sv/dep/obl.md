@@ -28,4 +28,4 @@ obl(kom, helgen)
 ~~~
 
 One subtype of `obl` is introduced in Swedish: [obl:agent]() for agents of passive verbs.
-<!-- Interlanguage links updated Út zář 29 18:41:32 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:40 CEST 2020 -->

@@ -25,4 +25,4 @@ acl(prieten, locuiește)
 Dorința să trăiască l-a ajutat să învingă boala . \n Desire-the SĂ live him-has helped SĂ defeat disease-the. (The desire to live helped him to defeat the desease.)
 acl(Dorința, trăiască)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:03 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:15 CEST 2020 -->

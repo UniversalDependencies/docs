@@ -8,4 +8,4 @@ udver: '2'
 All clausal subjects in the current version of the treebank are subjects of the copula _is_. 
 We use [csubj:cop]() for clausal subjects in copular constructions when the clause contains its own subject.
 We use [csubj:cleft]() for subjects of cleft constructions.
-<!-- Interlanguage links updated Út zář 29 18:41:16 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:26 CEST 2020 -->

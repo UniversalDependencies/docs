@@ -14,4 +14,4 @@ Note that adjectival modifiers with arguments are tagged as "[acl]()".
 amod(リンゴ, きれい)
 aux(きれい, な)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:07 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:18 CEST 2020 -->

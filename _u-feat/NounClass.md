@@ -154,4 +154,4 @@ The corresponding plural class is `Bantu2`.
 <td>locative meanings: inside something</td>
 </tr>
 </tbody></table>
-<!-- Interlanguage links updated Út zář 29 18:40:55 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:09 CEST 2020 -->

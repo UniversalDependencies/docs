@@ -24,4 +24,4 @@ means that empty value has the `No` meaning.)
 * possessive reflexive pronoun/determiner: _свой&nbsp;_ “one's own”
 * possessive relative pronoun/determiner: _чей&nbsp;_ “whose”
 * possessive adjectives: _папин&nbsp;_ “father's”, _мамин&nbsp;_ “mother's”
-<!-- Interlanguage links updated Út zář 29 18:40:59 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:11 CEST 2020 -->

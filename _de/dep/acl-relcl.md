@@ -29,4 +29,4 @@ dobj(angerufen, Frau)
 aux(angerufen, hat)
 nsubj(getroffen, die)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:03 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:15 CEST 2020 -->

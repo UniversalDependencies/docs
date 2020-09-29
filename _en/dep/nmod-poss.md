@@ -11,4 +11,4 @@ Marie 's book
 nmod:poss(book, Marie)
 case(Marie, 's)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:28 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:36 CEST 2020 -->

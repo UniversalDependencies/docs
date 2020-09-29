@@ -86,4 +86,4 @@ Vowel form is an indicator of spelling changes that occur in copular verbs when 
 * _<b>ab</b> ea iad_ “they are”
 * _<b>gurbh</b> é_ “it was”
 * _<b>B’</b>fhearr leis_ lit. “it was better for him”
-<!-- Interlanguage links updated Út zář 29 18:40:54 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:08 CEST 2020 -->

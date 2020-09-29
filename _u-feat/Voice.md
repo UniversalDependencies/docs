@@ -144,4 +144,4 @@ also the causative case of nouns.
 #### Examples
 
 * [tr] _<b>karıştırıyor</b>_ "is confusing" (= is causing somebody to be confused)
-<!-- Interlanguage links updated Út zář 29 18:41:02 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:14 CEST 2020 -->

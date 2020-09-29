@@ -25,4 +25,4 @@ punct(punainen-3, .-4)
 ### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=891> (in Finnish)
-<!-- Interlanguage links updated Út zář 29 18:41:15 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:25 CEST 2020 -->

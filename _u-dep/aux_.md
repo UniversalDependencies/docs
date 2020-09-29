@@ -33,4 +33,4 @@ aux(think, Do)
 aux(left, will)
 aux(left, have)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:09 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:19 CEST 2020 -->

@@ -29,4 +29,4 @@ nsubj(ϣⲁϫⲉ, ⲓ)
 nmod(ϣⲁⲭⲉ, ⲉⲣⲟ)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 18:41:25 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:34 CEST 2020 -->

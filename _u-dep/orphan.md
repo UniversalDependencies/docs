@@ -26,4 +26,4 @@ conjunction _and_ performs essentially the same function as in the non-elliptica
 its normal relation `cc`.
 
 See further discussion of [ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis).
-<!-- Interlanguage links updated Út zář 29 18:41:33 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:42 CEST 2020 -->

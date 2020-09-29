@@ -122,4 +122,4 @@ conj(ganhar-3, vai-7)
 nsubj(vai-7, Maria-6)
 advmod(vai-7, também-8)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:33 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:41 CEST 2020 -->

@@ -55,4 +55,4 @@ if there is a dedicated light verb that cannot be used as normal verb,
 it makes sense to mark light verbs with a dedicated feature value.
 
 Japanese example: suru
-<!-- Interlanguage links updated Út zář 29 18:41:01 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:14 CEST 2020 -->

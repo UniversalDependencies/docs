@@ -18,4 +18,4 @@ or a <a href="../feat/VerbForm.html#part-participle">participle</a>.
 cop(человеком, был)
 cop(man, was)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:16 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:26 CEST 2020 -->

@@ -63,4 +63,4 @@ Hence, we only mark verbal predicates with double past indicators as `Pqp`.
 * *eve gitmişti* 'she had gone home' (this is **not** evidential)
 * *eve gitmişmiş* 'she had gone home' (this is evidential)
 * *eve gittiydi* 'she had gone home' (colloquial)
-<!-- Interlanguage links updated Út zář 29 18:41:01 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:13 CEST 2020 -->

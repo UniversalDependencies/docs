@@ -15,4 +15,4 @@ This relation links two parts of a word that are separated in text that is not w
 
 This relation is rarely used in the French treebank.
 Most of the times, it is used in cases where the `-` character is missing in the orginal text like in *lui même* (should be *lui-même*).
-<!-- Interlanguage links updated Út zář 29 18:41:24 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:33 CEST 2020 -->

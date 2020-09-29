@@ -21,4 +21,4 @@ Sr. Oliveira , o seu filme é o meu favorito .
 vocative(favorito, Oliveira)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 18:41:37 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:44 CEST 2020 -->

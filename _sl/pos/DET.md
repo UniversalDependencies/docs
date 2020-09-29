@@ -25,4 +25,4 @@ Since JOS morphosyntactic specifications do not distinguish substantive and attr
 * _noben_ "no one", _nikakršen_ "no kind", _nič_ "nothing" (JOS negative pronouns)
 * _kakršenkoli_ "any kind of", _katerikoli_ "any type of", _čigar_ "whose" (JOS relative pronouns)
 * _nekaj_ "some", _več_ "more", _veliko_ "a lot of", _dovolj_ "enough of", _pol_ "half of", _malo_ "little of" (JOS adverbs)
-<!-- Interlanguage links updated Út zář 29 18:40:45 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:22:58 CEST 2020 -->

@@ -9,4 +9,4 @@ A dependency can be labeled as `dep` when it is impossible to determine a more p
 This may be because of a weird grammatical construction, or a limitation in conversion or parsing software.
 The use of `dep` should be avoided as much as possible.
 
-<!-- Interlanguage links updated Út zář 29 18:41:18 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:28 CEST 2020 -->

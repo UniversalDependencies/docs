@@ -15,4 +15,4 @@ det(okapi, un)
 Spune-i lui Ion . \n Tell-him the-Dative  John.
 det(Ion, lui)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:19 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:28 CEST 2020 -->

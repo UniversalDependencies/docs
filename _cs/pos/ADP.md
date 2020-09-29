@@ -30,4 +30,4 @@ multiword expressions are accounted for in the syntactic annotation.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adposition?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdposition.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Preposition_and_postposition)
-<!-- Interlanguage links updated Út zář 29 18:40:42 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:22:55 CEST 2020 -->

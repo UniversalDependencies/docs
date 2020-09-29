@@ -57,4 +57,4 @@ Typical examples of expressive words in the Armenian data are diminutives:
 ### <a name="Vulg">`Vulg`</a>: vulgar
 
 * _էծ, ուլ, պոռնիկ, ռեխ, զխտվել, շնթռել, լակել, սիկտիր, տուտուց_
-<!-- Interlanguage links updated Út zář 29 18:41:00 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:13 CEST 2020 -->

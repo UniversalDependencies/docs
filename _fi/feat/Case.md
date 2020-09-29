@@ -226,4 +226,4 @@ UD Finnish follows ISK in not recognizing the lative case.
 #### Diff
 
 FinnTreeBank (FI_FTB) marks the base form of the first infinitive as lative in contrast to translative. 
-<!-- Interlanguage links updated Út zář 29 18:40:51 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:06 CEST 2020 -->

@@ -67,4 +67,4 @@ obj(told, plan)
 
 If there are two or more objects, one of them should be [obj]() and the others should be `iobj`. In such cases it is necessary to decide what is the most directly affected object _(patient)_, and the Accusative [ru-feat/Case]() has priority over the Dative, Instrumental, and Genitive cases.
 
-<!-- Interlanguage links updated Út zář 29 18:41:24 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:33 CEST 2020 -->

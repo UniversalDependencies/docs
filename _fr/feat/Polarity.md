@@ -7,4 +7,4 @@ udver: '2'
 ---
 
 In the four corpora **UD_French-ParTUT**, **UD_French-Sequoia**, **UD_French-PUD** and **UD_French-GSD**, the feature `Polarity=Neg` is used on adverbs (_ne_, _pas_), on determiners (_aucun_) or pronouns (_rien_).
-<!-- Interlanguage links updated Út zář 29 18:40:58 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:11 CEST 2020 -->

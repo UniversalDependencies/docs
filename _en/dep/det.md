@@ -22,4 +22,4 @@ nsubj(won, You)
 det(You, all)
 aux(won, 've)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:18 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:28 CEST 2020 -->

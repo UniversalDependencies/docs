@@ -24,4 +24,4 @@ compound:svc(attached-FSG, sell-SUBJ-FSG)
 obj(विकावी, खुर्ची)
 obj(sell-SUBJ-FSG, chair.FSG)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:14 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:24 CEST 2020 -->

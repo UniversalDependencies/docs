@@ -10,4 +10,4 @@ The dependency type `nsubj` marks nominal subjects of a clause. Subjects are dir
 PRO1(B) FÖDD SKÖVDE@en \n I was born in Skövde
 nsubj(FÖDD, PRO1(B))
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:29 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:37 CEST 2020 -->

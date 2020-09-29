@@ -18,4 +18,4 @@ part-of-speech. For example, _кілт&nbsp;_ “kilt” is an ordinary [NOUN]()
 
 - _А він тільки <b>xfgh pdl jklw</b>&nbsp;_ “And he just <b>xfgh pdl jklw</b>”
 
-<!-- Interlanguage links updated Út zář 29 18:40:50 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:05 CEST 2020 -->

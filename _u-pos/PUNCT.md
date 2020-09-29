@@ -30,4 +30,4 @@ or using some more descriptive coding such as _[:pause]_.
 ### References
 
 - [Wikipedia](http://en.wikipedia.org/wiki/Punctuation)
-<!-- Interlanguage links updated Út zář 29 18:40:48 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:02 CEST 2020 -->

@@ -55,4 +55,4 @@ The `nummod:gov` relation is used in the Polish [PDB-UD](http://universaldepende
 10	dollars	_	_	_	_	_	_	_	_
 11	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:31 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:39 CEST 2020 -->

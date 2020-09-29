@@ -25,4 +25,4 @@ Uralic languages:
 * [fi] _<b>pitää</b> juosta_ "<b>must</b> run"
 * [fi] _<b>en</b> tiedä_ "I do <b>not</b> know"
 
-<!-- Interlanguage links updated Út zář 29 18:40:44 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:22:57 CEST 2020 -->

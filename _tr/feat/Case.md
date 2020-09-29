@@ -106,4 +106,4 @@ The oblique arguments of some verbs and complements (noun phrases) of some postp
 * _Ali'<b>den</b> hoşlanıyor_ "she likes Ali"
 * _Bunlar Akara'dakiler<b>den</b> dolayı oluyor_ "All these are happening because of people in Ankara"
 
-<!-- Interlanguage links updated Út zář 29 18:40:52 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:06 CEST 2020 -->

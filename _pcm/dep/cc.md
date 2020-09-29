@@ -38,4 +38,4 @@ The `cc` relation is used for coordinating conjunctions, i.e conjunctions which 
 6	and	_	_	_	_	0	_	_	_
 7	water	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:11 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:22 CEST 2020 -->

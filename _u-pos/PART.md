@@ -42,4 +42,4 @@ should list the words classified as `PART` in the given language.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a particle?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAParticle.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Grammatical_particle)
-<!-- Interlanguage links updated Út zář 29 18:40:47 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:01 CEST 2020 -->

@@ -31,4 +31,4 @@ In our tagset another idiosyncratic case has been marked – the so-called ‘da
 - Той ми взе шапката / _Toy mi vze shapkata_ 'He my.POSS took hat.DEF' (He took my hat.) 
 
 The canonical sentence would be: _Той взе шапката ми_ / Toy vze shapkata mi 'He took hat.DEF my.POSS' (He took my hat).
-<!-- Interlanguage links updated Út zář 29 18:40:51 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:06 CEST 2020 -->

@@ -98,4 +98,4 @@ expl:pv(fears, REFLEX)
 ~~~
 
 Further general discussion of expletives can be found in Postal, P. M., and G. K. Pullum (1988) “Expletive Noun Phrases in Subcategorized Positions,” _Linguistic Inquiry_ 19(4): 635–670. The status of clitic doubling, and arguments for the lexical nominal being an argument with the clitic a kind of pronominal copy, appear inter alia in Boris Harizanov (2014) [Clitic doubling at the syntax-morphology interface: A-movement and morphological merger in Bulgarian](http://stanford.edu/~bharizan/pdfs/Harizanov_2014_NLLT.pdf). _Natural Language and Linguistic Theory_.
-<!-- Interlanguage links updated Út zář 29 18:41:21 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:31 CEST 2020 -->

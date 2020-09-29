@@ -21,4 +21,4 @@ The relation `amod` is used for adjectival modifiers of noun phrases. In Bamana,
 
 ~~~
 'He is a good man'.
-<!-- Interlanguage links updated Út zář 29 18:41:06 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:17 CEST 2020 -->

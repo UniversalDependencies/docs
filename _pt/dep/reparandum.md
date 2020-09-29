@@ -17,4 +17,4 @@ case(esquerda, para-5)
 det(esquerda, a-6)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 18:41:36 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:43 CEST 2020 -->

@@ -70,4 +70,4 @@ The personal pronouns of Naija include _me, I/a, ma, you, your, him, im, e, am, 
 + _we we_
 + _una una_
 + _dem dem_
-<!-- Interlanguage links updated Út zář 29 18:40:59 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:12 CEST 2020 -->

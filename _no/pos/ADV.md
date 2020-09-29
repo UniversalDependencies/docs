@@ -12,4 +12,4 @@ direction or manner.
 * _Han kom <b>nettopp</b>_ "He just arrived"
 * _<b>Derfor</b> kom han_ "Therefore, he came"
 * _<b>nesten</b> ferdig_ "almost finished"
-<!-- Interlanguage links updated Út zář 29 18:40:43 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:22:56 CEST 2020 -->

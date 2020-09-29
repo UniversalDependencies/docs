@@ -19,4 +19,4 @@ punct(行く, 。)
 nmod(ジュース, リンゴ)
 case(リンゴ, の)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:27 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:35 CEST 2020 -->

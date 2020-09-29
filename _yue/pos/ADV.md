@@ -52,4 +52,4 @@ Note that although some adverbs express temporal information, many common time e
   - 都 / _dou1_ "also; all", 亦都 / _jik6dou1_ "also", 先至 / _sin1zi3_ "then and only then", 越嚟越 _jyut6lei4jyut6_ "more and more", 當然 / _dong1jin4_ "of course"
   - "for example", "such as": 譬如 / _pei3jyu4_, 譬如話 / _pei3jyu4waa6_, 例如 / _lai3jyu4_ 
   - "like": 好似 / _hou2ci2_ (note this can also function as a main verb; an example of the adverbial usage is 好似 佢 琴日 噉 講... / _hou2ci2 keoi5 kam4jat6 gam2 gong2_ "Like he said yesterday...")
-<!-- Interlanguage links updated Út zář 29 18:40:43 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:22:56 CEST 2020 -->

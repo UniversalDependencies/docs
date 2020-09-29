@@ -28,4 +28,4 @@ The `conj` relation is used between a coordinative conjunction and its governor.
 
 'An egg and a chicken, they went to the place where lemons fell'.
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:14 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:24 CEST 2020 -->

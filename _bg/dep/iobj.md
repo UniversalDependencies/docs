@@ -24,4 +24,4 @@ are PPs introduced by various prepositions. These cases are handled in the valen
 iobj(питам, нещо)
 iobj(ask-I, something)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:24 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:33 CEST 2020 -->

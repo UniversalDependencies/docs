@@ -12,4 +12,4 @@ for `obj`.
 Hoy comeremos pescado . \n We will eat fish today .
 dobj(comeremos, pescado)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:31 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:39 CEST 2020 -->

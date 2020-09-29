@@ -26,4 +26,4 @@ case(東京, へ)
 nsubj(行く, 太郎)
 nmod(行く, 東京)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:20 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:30 CEST 2020 -->

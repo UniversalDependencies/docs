@@ -27,4 +27,4 @@ mark(ⲡⲱⲧ, ϫⲉ)
 ~~~
 
 This analysis keeps a parallel structure with a similar clause without the preposition (e.g. only with ϫⲉ to mean ‘because’).
-<!-- Interlanguage links updated Út zář 29 18:41:04 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:15 CEST 2020 -->

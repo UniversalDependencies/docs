@@ -50,4 +50,4 @@ a preposition).
 #### Examples
 
 * _<b>vzhledem</b> k(e)_ “due to”, _<b>nehledě</b> na_ “regardless of”, _<b>narozdíl</b> od_ “in contrast to”
-<!-- Interlanguage links updated Út zář 29 18:40:50 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:05 CEST 2020 -->

@@ -45,4 +45,4 @@ In Erzya the ablative case is used to  express (1)  standard of comparison, (2) 
 * [myv] _ней лекси ванькс <b>коштто</b>_ "now it is breathing fresh <b>air</b>"
 * [myv] _<b>педе</b>-пес_ "<b>from end</b> to end"
 
-<!-- Interlanguage links updated Út zář 29 18:40:52 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:06 CEST 2020 -->

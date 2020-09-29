@@ -35,4 +35,4 @@ The Ulster dialect is the variety of Irish spoken mostly in the province of Ulst
 * _fá (standard: faoi)_ "under"
 * _cha (standard: ní)_ negation
 
-<!-- Interlanguage links updated Út zář 29 18:40:53 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:07 CEST 2020 -->

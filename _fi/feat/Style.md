@@ -24,4 +24,4 @@ shortdef: 'style'
 The value `Arch` is not annotated systematically in TDT
 and only very few instances of this value appear in the
 UD Finnish corpus.
-<!-- Interlanguage links updated Út zář 29 18:41:00 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:13 CEST 2020 -->

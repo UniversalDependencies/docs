@@ -28,4 +28,4 @@ Czech examples: ke, ku, se, ve, ze
 
 Same phenomenon exists in Slovak, Russian and probably elsewhere.
 
-<!-- Interlanguage links updated Út zář 29 18:40:50 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:05 CEST 2020 -->

@@ -32,4 +32,4 @@ means that empty value has the `No` meaning.)
 * possessive reflexive determiner: _svůj&nbsp;_ “one's own”
 * possessive relative determiner: _jehož&nbsp;_ “whose”
 * possessive adjectives: _otcův&nbsp;_ “father's”, _matčin&nbsp;_ “mother's”
-<!-- Interlanguage links updated Út zář 29 18:40:58 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:11 CEST 2020 -->

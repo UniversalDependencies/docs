@@ -14,4 +14,4 @@ Sometimes, `DET` and `ADP` are contracted.
 
 - _il sera <b>avec</b> nos_
 - _la queste <b>dou</b> Graal_
-<!-- Interlanguage links updated Út zář 29 18:40:43 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:22:55 CEST 2020 -->

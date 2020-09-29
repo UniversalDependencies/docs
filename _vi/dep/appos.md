@@ -17,4 +17,4 @@ dobj(khai_mạc, hội_nghị)
 appos(Ông, chủ_tịch)
 punct(khai_mạc, 。)
 </code></pre>
-<!-- Interlanguage links updated Út zář 29 18:41:08 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:19 CEST 2020 -->

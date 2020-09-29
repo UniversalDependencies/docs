@@ -27,4 +27,4 @@ punct(playing, .-13)
 ~~~
 
 See [nummod]() for a broader discussion of the various situations with quantifiers.
-<!-- Interlanguage links updated Út zář 29 18:41:31 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:39 CEST 2020 -->

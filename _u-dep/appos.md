@@ -137,4 +137,4 @@ list(Steve-1, Email:-5)
 appos(Phone:-3, 555-9814-4)
 appos(Email:-5, jones@abc.edf-6)
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:08 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:19 CEST 2020 -->

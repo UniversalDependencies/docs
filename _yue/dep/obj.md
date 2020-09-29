@@ -116,4 +116,4 @@ The object of a transitive verb is its second core argument after its subject. I
 2	here"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Út zář 29 18:41:32 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:40 CEST 2020 -->

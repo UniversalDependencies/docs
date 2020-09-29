@@ -18,4 +18,4 @@ See [DET]() for determiners.
 - <b>Fifty eight</b> percent of accident wey im happen for road na overspeeding naim dey cause am.
 - Make I give you <b>one</b> instance.
 - Im daughter fall from <b>three</b> storey build for school.
-<!-- Interlanguage links updated Út zář 29 18:40:46 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:00 CEST 2020 -->

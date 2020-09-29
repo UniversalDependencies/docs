@@ -27,4 +27,4 @@ cop(суық-4, еді-5)
 <!-- noun-->
 
 Note that adjectives used adverbially are also given this relation.
-<!-- Interlanguage links updated Út zář 29 18:41:05 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:17 CEST 2020 -->

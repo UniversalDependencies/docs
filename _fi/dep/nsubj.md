@@ -18,4 +18,4 @@ nmod(tuli-2, töistä-3)
 punct(tuli-2, .-4)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 18:41:28 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:37 CEST 2020 -->

@@ -26,4 +26,4 @@ Araba aşırı sıcaktan bozulmuş . \n The car was broken by extreme heat
 nmod:pass(bozulmuş, sıcaktan)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 18:41:28 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:23:36 CEST 2020 -->
