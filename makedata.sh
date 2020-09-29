@@ -50,6 +50,9 @@ for s in "pos" "feat" "dep"; do
 		# https://github.com/UniversalDependencies/docs/issues/57)
 		p=`echo "$l" | perl -pe 's/-(pos|feat|dep)$/\/$1/'`
 		echo "  - label: '$p'"
+		# Touch the file. Otherwise its HTML will not be re-rendered because only the YAML data file will change.
+		grep -v '<!-- Interlanguage links updated' "_$l/$r.md" > filtered ; mv filtered "_$l/$r.md"
+		echo '<!-- Interlanguage links updated' `date` '-->' >> "_$l/$r.md"
 	    fi
 	done
     done > $out
