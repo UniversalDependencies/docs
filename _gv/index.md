@@ -124,11 +124,11 @@ in other constructions it precedes the verbal noun:
 
 ~~~ sdparse
 Nee eh yn thie y lhieggal \n Will-do he the house to knock-down
-nsubj(nee, eh)
+nsubj(Nee, eh)
 det(thie, yn)
 obj(lhieggal, thie)
 mark(lhieggal, y)
-xcomp(nee, lhieggal)
+xcomp(Nee, lhieggal)
 ~~~
 
 The substantive verb _bee_ “to be” (Irish _bí_, Scottish Gaelic _bi_)
