@@ -68,4 +68,4 @@ punct(Saiatuko-1, .-6)
 ~~~
 
 Note that indefinite quantifiers such as few, many are tagged DET rather than NUM. Therefore their relation to the quantified noun is not nummod but DET (see DET section).
-<!-- Interlanguage links updated Út zář 29 20:31:58 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:23 CEST 2020 -->

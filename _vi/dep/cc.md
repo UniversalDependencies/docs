@@ -15,4 +15,4 @@ cc(cao, và)
 conj(cao, xinh_xắn)
 punct(cao, 。)
 </code></pre>
-<!-- Interlanguage links updated Út zář 29 20:31:45 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:11 CEST 2020 -->

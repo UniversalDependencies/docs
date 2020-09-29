@@ -17,4 +17,4 @@ punct(食べ, 。)
 不 支持 \n not support
 neg(支持, 不)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:55 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:21 CEST 2020 -->

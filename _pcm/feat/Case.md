@@ -45,4 +45,4 @@ Typically used when a personal pronoun is used as a complement for a predicate.
 * _<b>us</b>_ "us"
 * _<b>una</b>_ "you guys"
 * _<b>dem</b>_ "them"
-<!-- Interlanguage links updated Út zář 29 20:31:34 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:00 CEST 2020 -->

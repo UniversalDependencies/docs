@@ -38,4 +38,4 @@ _Ar mhaith leat teach a <b>cheannach</b> ?_  'Would you like to <b>buy</b> a hou
 Ar mhaith leat teach a cheannach ? \n Would_be good with_you house to buy?
 nsubj(mhaith, cheannach)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:57 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:22 CEST 2020 -->

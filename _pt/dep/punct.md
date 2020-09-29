@@ -44,4 +44,4 @@ punct(leia, ()
 punct(leia, ))
 punct(afirmou, .)
 </div>
-<!-- Interlanguage links updated Út zář 29 20:32:01 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:27 CEST 2020 -->

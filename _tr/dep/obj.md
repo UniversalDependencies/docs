@@ -45,4 +45,4 @@ obj(koştum, kilometre)
 Dün 10 kilometreyi 35 dakikada koştum . \n  Yesterday, I ran 10 kilometers in 35 minutes
 obj(koştum, kilometreyi)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:59 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:24 CEST 2020 -->

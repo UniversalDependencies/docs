@@ -20,4 +20,4 @@ neg(fråga, inte)
 De är icke jämförbara \n They are not comparable
 neg(jämförbara, icke)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:55 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:21 CEST 2020 -->

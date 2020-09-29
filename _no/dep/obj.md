@@ -10,4 +10,4 @@ A direct object is a nominal which is the (accusative) object of the verbal pred
 Vi skal ikke gjøre samme feil \n We are not going to make the same mistake
 dobj(gjøre,feil)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:59 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:24 CEST 2020 -->

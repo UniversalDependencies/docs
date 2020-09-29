@@ -49,4 +49,4 @@ conj(іш-6, шық-3)
 nmod(шық-3, Төрге-2)
 punct(демепті-10, .-11)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:46 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:12 CEST 2020 -->

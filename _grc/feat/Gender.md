@@ -36,4 +36,4 @@ nouns that are neither masculine nor feminine (grammatically).
 
 It is not used. Note that if a noun can be both masculine or feminine, the gender annotated is the one the noun bears in a given occurrence. 
 
-<!-- Interlanguage links updated Út zář 29 20:31:35 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:01 CEST 2020 -->

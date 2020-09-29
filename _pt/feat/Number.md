@@ -40,4 +40,4 @@ A plural expression denotes several persons, animals or things.
 * _<b>o(s) funcionário(s)</b>_ 
 * _<b>quem</b> assistir o vídeo ganha 1000 reais_ 
 
-<!-- Interlanguage links updated Út zář 29 20:31:36 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->

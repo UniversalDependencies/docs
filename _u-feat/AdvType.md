@@ -56,4 +56,4 @@ What part of speech is this "there" in the universal parts of speech?
 Derived from adjectives, used only to modify other adjectives
 (http://archives.conlang.info/pei/juenchen/phaelbhaduen.html).
 
-<!-- Interlanguage links updated Út zář 29 20:31:33 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:42:59 CEST 2020 -->

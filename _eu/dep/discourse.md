@@ -35,4 +35,4 @@ nsubj(da-3, hori-4)
 discourse(da-3, ez-5)
 punct(da-3, .-6)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:51 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:17 CEST 2020 -->

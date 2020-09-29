@@ -26,4 +26,4 @@ när det gäller \n when it comes to
 mwe(när, det)
 mwe(när, gäller)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:55 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:21 CEST 2020 -->

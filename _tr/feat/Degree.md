@@ -27,4 +27,4 @@ The quality of one object is compared to the same quality of all other objects w
 
 * _en güzel_  "prettiest"
 * _en çabuk_  "quickest/fastest"
-<!-- Interlanguage links updated Út zář 29 20:31:34 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:01 CEST 2020 -->

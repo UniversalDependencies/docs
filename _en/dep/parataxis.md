@@ -28,4 +28,4 @@ parataxis(left, said)
 ~~~
 
 See also: [language-general documentation of `parataxis`](/u/dep/parataxis.html)
-<!-- Interlanguage links updated Út zář 29 20:32:00 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:26 CEST 2020 -->

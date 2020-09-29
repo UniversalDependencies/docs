@@ -61,4 +61,4 @@ Note that sometimes, a contraction (or portmanteau words) is produced by joining
 7	savra	_	VERB	VERcjg	_	0	root	_	_
 
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:59 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:24 CEST 2020 -->

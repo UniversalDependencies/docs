@@ -18,4 +18,4 @@ Participles are word forms that share properties and usage of adjectives and ver
 Gerunds and infinitives are tagged as <code>VERB</code>, except for grammatized word-forms.
 
 
-<!-- Interlanguage links updated Út zář 29 20:31:32 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:42:58 CEST 2020 -->

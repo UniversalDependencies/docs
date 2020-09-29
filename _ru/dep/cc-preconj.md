@@ -15,4 +15,4 @@ emphasis on it), such as *either*, *both*, *neither*, *and*, *but*).
 cc:preconj(никто, Но)
 cc:preconj(no-one, But)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:46 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:12 CEST 2020 -->

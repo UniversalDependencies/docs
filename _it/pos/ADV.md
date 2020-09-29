@@ -28,4 +28,4 @@ BN:	Negation adverb
 * indefinite adverbs: _talvolta_
 * totality adverbs: _dovunque, sempre_
 * negation adverbs: _no, mica, non, nemmeno, neanche, neppure_
-<!-- Interlanguage links updated Út zář 29 20:31:26 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:42:53 CEST 2020 -->

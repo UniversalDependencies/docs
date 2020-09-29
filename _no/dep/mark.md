@@ -17,4 +17,4 @@ Dette arbeidet rakk han aldri å fullføre \n This worh, he never managed to fin
 mark(fullføre,å)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:31:55 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:21 CEST 2020 -->

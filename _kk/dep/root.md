@@ -16,4 +16,4 @@ punct(жүгірді-5, .-6)
 nmod(жүгірді-5, ағашқа-3)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:32:02 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:27 CEST 2020 -->

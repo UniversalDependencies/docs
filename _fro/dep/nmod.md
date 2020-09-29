@@ -48,4 +48,4 @@ In Old French, this relation is not always introduced by a preposition:
 9	Lac	_	NOUN	NOMcom	_	7	flat	_	_
 
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:56 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:21 CEST 2020 -->

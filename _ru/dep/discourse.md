@@ -11,4 +11,4 @@ At present we use the `discourse` relation for redundant or emotional items, red
 discourse(обещал, же)
 ~~~
 (meaning “… but you promised”)
-<!-- Interlanguage links updated Út zář 29 20:31:51 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:17 CEST 2020 -->

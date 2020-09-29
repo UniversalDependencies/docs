@@ -11,4 +11,4 @@ A marker is the word introducing a clause subordinate to another clause. The mar
 JA@ub@z FÖRSTÅ(L) VARFÖR SMITA FRÅN SKÅL \n Yes, I understand why [it] escaped from the bowl
 mark(FÖRSTÅ(L), VARFÖR)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:55 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:21 CEST 2020 -->

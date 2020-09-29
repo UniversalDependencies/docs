@@ -12,4 +12,4 @@ for `nsubjpass`.
 Pedro ha sido invitado por Juan . \n Pedro has been invited by Juan .
 nsubjpass(invitado, Pedro)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:57 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:23 CEST 2020 -->

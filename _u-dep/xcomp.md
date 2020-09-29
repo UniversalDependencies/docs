@@ -127,4 +127,4 @@ will either render the sentence ungrammatical or lead to a different interpretat
 
 The result is that in _She entered the room sad,_ _sad_ will depend on _She_
 and the relation will be [acl]() instead of `xcomp`.
-<!-- Interlanguage links updated Út zář 29 20:32:03 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:28 CEST 2020 -->

@@ -24,4 +24,4 @@ en rekke saker \n a number-of cases
 det(saker,rekke)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:31:50 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:16 CEST 2020 -->

@@ -11,4 +11,4 @@ A symbol is a word-like entity that differs from ordinary words by form, functio
 * +, −, ×, ÷, =, <, >
 * :), ♥‿♥, 😝
 * post@clubsult.com
-<!-- Interlanguage links updated Út zář 29 20:31:31 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:42:58 CEST 2020 -->

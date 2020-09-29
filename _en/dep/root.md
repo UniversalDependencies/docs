@@ -15,4 +15,4 @@ root(ROOT, love)
 ROOT Bill is an honest man
 root(ROOT, man)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:32:02 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:27 CEST 2020 -->

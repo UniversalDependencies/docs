@@ -18,4 +18,4 @@ Ukrainian (and other Slavic) multi-word named entities have internal syntactic s
 
 - _<b>Франкфурт</b>_`PROPN` _на_`ADP` _<b>Майні</b>_`PROPN` is a city. _Франкфурт&nbsp;_ is the head and the _на Майні&nbsp;_ part refers to the river flowing through the city, to distinguish it from other Frankfurts.
 - _Організація_`NOUN` _об'єднаних_`ADJ` _націй_`NOUN` “United Nations Organization” consists of three words, none of which is proper noun. However, the acronym _<b>ООН</b>&nbsp;_ “UN” is a single-token name and is tagged `PROPN`.
-<!-- Interlanguage links updated Út zář 29 20:31:30 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:42:57 CEST 2020 -->

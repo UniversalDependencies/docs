@@ -17,4 +17,4 @@ Marie , comment vas - tu ?
 vocative(vas, Marie)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:32:03 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:28 CEST 2020 -->

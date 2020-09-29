@@ -18,4 +18,4 @@ The `NOUN` tag is intended for common nouns only. See [PROPN]() for proper nouns
 - And now wey be sey <b>government</b> don even come make am easier.
 - So make una try comply wit dese <b>policy</b>.
 - Make una see sey una put <b>speed limiter</b> for una <b>motor</b> so dat <b>speed</b> go reduce.
-<!-- Interlanguage links updated Út zář 29 20:31:28 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:42:55 CEST 2020 -->

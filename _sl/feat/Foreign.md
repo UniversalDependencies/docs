@@ -17,4 +17,4 @@ shortdef: 'This is this a foreign word'
 ### Conversion from JOS
 
 All tokens with tag Residual and Type=foreign are converted to `X` and Foreign=Yes.
-<!-- Interlanguage links updated Út zář 29 20:31:35 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:01 CEST 2020 -->

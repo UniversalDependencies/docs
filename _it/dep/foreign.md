@@ -22,4 +22,4 @@ flat:foreign(Greetings, from)
 flat:foreign(Greetings, Asbury)
 flat:foreign(Greetings, Park)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:53 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:19 CEST 2020 -->

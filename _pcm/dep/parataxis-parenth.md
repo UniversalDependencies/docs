@@ -70,4 +70,4 @@ In the example below, "_I dey patrol_" could potentially form an autonomous unit
 20	had	_	_	_	_	0	_	_	_
 21	happened	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:32:01 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:27 CEST 2020 -->

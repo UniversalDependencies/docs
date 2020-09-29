@@ -12,4 +12,4 @@ the copular verb.
 VARA KORTVARIG(J) OM@b OBJPRO1 PU@g \n [That] was short about me
 cop(VARA, KORVARIG(J))
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:48 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:14 CEST 2020 -->

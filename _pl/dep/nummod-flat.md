@@ -48,4 +48,4 @@ The `nummod:flat` relation is used in the Polish [PDB-UD](http://universaldepend
 18	17.00	_	_	_	_	_	_	_	_
 19	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:58 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:24 CEST 2020 -->

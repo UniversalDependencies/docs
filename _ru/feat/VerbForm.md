@@ -69,4 +69,4 @@ Perfective verbs form past transgressive, meaning “having done”.
   stared at me <b>while gripping</b> their guns”
 - _<b>приготовив</b> обед, она позвала семью к столу;_ “<b>having
   prepared</b> the dinner, she called her family to the table”
-<!-- Interlanguage links updated Út zář 29 20:31:39 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:05 CEST 2020 -->

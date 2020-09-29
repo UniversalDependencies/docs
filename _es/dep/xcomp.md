@@ -11,4 +11,4 @@ for `xcomp`.
 Quiero comprar un ordenador . \n I want to buy a computer  .
 xcomp(Quiero, comprar)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:32:03 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:28 CEST 2020 -->

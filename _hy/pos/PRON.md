@@ -31,4 +31,4 @@ To make the annotation parallel across languages, it should be now tagged `PRON`
 - emphatic pronouns։ _ինքը, իրենք&nbsp;_ “(he) himself, (they) themselves”
 - total pronouns: _ամենը, ամենքը, ամեն մեկը, ամեն ոք, ամեն ինչ, բոլորը, յուրաքանչյուրը, յուրաքանչյուր ոք, ողջը, ամբողջը&nbsp;_ “all (of things), all (of people), everyone, avery body, everything, all (of people), each one, each one, whole, all”
 - negative pronouns: _ոչ ոք, ոչինչ, ոչ մեկը&nbsp;_ “nobody, nothing, no one”
-<!-- Interlanguage links updated Út zář 29 20:31:30 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:42:56 CEST 2020 -->

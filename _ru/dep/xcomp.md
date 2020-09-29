@@ -57,4 +57,4 @@ advcl(I-write, promised)
 xcomp(обещал, писать)
 xcomp(have-promised, to-write)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:32:03 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:28 CEST 2020 -->

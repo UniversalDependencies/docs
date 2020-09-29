@@ -18,4 +18,4 @@ case(France, to)
 case(události.Loc, o)
 case(event, about)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:44 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:10 CEST 2020 -->

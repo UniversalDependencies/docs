@@ -54,4 +54,4 @@ obl(heard, which)
 case(որի, մասին)
 case(which, about)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:40 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:07 CEST 2020 -->

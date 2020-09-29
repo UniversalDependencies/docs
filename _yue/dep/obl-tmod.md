@@ -106,4 +106,4 @@ The temporal noun may be part of a complex noun phrase.
 10	ago"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:32:00 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:25 CEST 2020 -->

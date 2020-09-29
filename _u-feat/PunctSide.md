@@ -13,4 +13,4 @@ to left, like Arabic.
 ### Ini: initial (left bracket in English texts)
 
 ### Fin: final (right bracket in English texts)
-<!-- Interlanguage links updated Út zář 29 20:31:38 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:04 CEST 2020 -->

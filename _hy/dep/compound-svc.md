@@ -40,4 +40,4 @@ compound:svc(to-speak, to-talk)
 compound:svc(գրել, ջնջել)
 compound:svc(to-write, to-erase)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:47 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:13 CEST 2020 -->

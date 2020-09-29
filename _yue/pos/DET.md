@@ -24,4 +24,4 @@ Note that Chinese does not traditionally define determiners as a separate word c
   - 邊 / _bin1_ "which", 乜(嘢) / _mat1(je5)_ "what", 咩 / _me1_ "what", 幾多 / _gei2do1_ "how many" 
 - Other
   - 上 / _soeng6_ "the previous", 下 / _haa6_ "the next", 前 / _cin4_ "the previous", 後 / _hau6_ "the following", 頭 / _tau4_ "the first", 其餘 / _kei4jyu4_ "the rest", 某 / _mau2_ "some, certain (singular)", 其他 / _kei4taa1_ "other", 另(外) / _ling6(ngoi5)_ "another", 同 / _tong4_ "the same"
-<!-- Interlanguage links updated Út zář 29 20:31:28 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:42:55 CEST 2020 -->

@@ -20,4 +20,4 @@ advmod:locy – relation between an adverb answering for the question „where?�
 
 advmod:mode – relation between other adverbs and its parent
 
-<!-- Interlanguage links updated Út zář 29 20:31:41 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:08 CEST 2020 -->

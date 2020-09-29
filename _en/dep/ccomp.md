@@ -30,4 +30,4 @@ mark(start, to)
 ~~~
 
 See [this page](http://universaldependencies.org/u/dep/ccomp.html) for additional explanation and examples.
-<!-- Interlanguage links updated Út zář 29 20:31:45 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:11 CEST 2020 -->

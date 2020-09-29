@@ -28,4 +28,4 @@ Benim var , ama Ali'nin yok . \n I have (it\/something), but Ali doesn't
 nmod:own(var, Benim)
 nmod:own(yok, Ali'nin)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:56 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:22 CEST 2020 -->

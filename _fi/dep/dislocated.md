@@ -16,4 +16,4 @@ sentence.
 
 `dislocated` is not annotated in TDT and is not used in
 the current version of the UD Finnish corpus.
-<!-- Interlanguage links updated Út zář 29 20:31:51 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:17 CEST 2020 -->

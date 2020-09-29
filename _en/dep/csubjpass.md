@@ -11,4 +11,4 @@ clause. In the example below, *that she lied* is the subject.
 That she lied was suspected by everyone
 csubjpass(suspected, lied)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:49 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:15 CEST 2020 -->

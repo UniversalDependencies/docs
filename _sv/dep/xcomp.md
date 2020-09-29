@@ -22,4 +22,4 @@ Jag betraktar honom som min vän \n I consider him as my friend
 xcomp(betraktar, vän)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:32:03 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:28 CEST 2020 -->

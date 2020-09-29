@@ -14,4 +14,4 @@ discourse(zpronevěřily, to)
 discourse(they-betrayed, it)
 ~~~
 (meaning “… what they betrayed”)
-<!-- Interlanguage links updated Út zář 29 20:31:51 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:16 CEST 2020 -->

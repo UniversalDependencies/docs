@@ -29,4 +29,4 @@ The relation `amod` is used for adjectival modifiers of noun phrases. In Naija a
 5	bad	_	_	_	_	0	_	_	_	
 6	thing	_	_	_	_	0	_	_	_	
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:42 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:08 CEST 2020 -->

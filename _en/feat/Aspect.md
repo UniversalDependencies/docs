@@ -8,4 +8,4 @@ This feature is not being used in English.
 
 In English, some [tenses](Tense) are a combination of tense and aspect. But as the aspect always depends on the tense we mark (verbs)[en-pos/VERB] only with the [tense](Tense) feature.
  
-<!-- Interlanguage links updated Út zář 29 20:31:33 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:00 CEST 2020 -->

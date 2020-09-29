@@ -103,4 +103,4 @@ Conjunctions are treated asymetrically with the first conjunct as the head, and 
 11	your	_	_	_	_	0	_	_	_
 12	vehicles	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:48 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:14 CEST 2020 -->

@@ -27,4 +27,4 @@ Passive voice is formed periphrastically in Ukrainian. The most typical passive 
 * _Ця книга <b>прочитана</b> нами.&nbsp;_ “This book`Nom` <b>was read</b> by us.” (The adjectival passive participle _прочитана_ conveys the passive meaning.)
 * _Цю книгу <b>прочитано</b> нами.&nbsp;_ “This book`Acc` <b>was read</b> by us.” (The impersonal verb form _прочитано_ conveys the passive meaning.)
 
-<!-- Interlanguage links updated Út zář 29 20:31:39 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:06 CEST 2020 -->

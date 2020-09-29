@@ -41,4 +41,4 @@ There is a number of reflexive verbs, which have reflexive pronoun as a [direct 
 #### Example
 * _Fàntá bɛ́ <b>í</b> pán._ "Fanta jumps".
 
-<!-- Interlanguage links updated Út zář 29 20:31:38 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:04 CEST 2020 -->

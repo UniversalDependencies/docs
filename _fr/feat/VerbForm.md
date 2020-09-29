@@ -11,4 +11,4 @@ In French, `VerbForm` is marked on verbs and can take one of the three following
 - Inf: infinitive
 - Part: participle
 
-<!-- Interlanguage links updated Út zář 29 20:31:39 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:05 CEST 2020 -->

@@ -42,4 +42,4 @@ set of objects.
 
 * _bellissimo_, _massimo_, _malissimo_, _ottimo_ "very beatiful", "maximum", "very badly", "optimum"
 
-<!-- Interlanguage links updated Út zář 29 20:31:34 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:01 CEST 2020 -->

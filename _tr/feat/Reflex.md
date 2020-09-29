@@ -20,4 +20,4 @@ column. (Which means that empty value has the `No` meaning.)
 * _kendisi_ "himself/herself/itself" 
 * _kendimiz_ "ourselves" 
 
-<!-- Interlanguage links updated Út zář 29 20:31:38 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:04 CEST 2020 -->

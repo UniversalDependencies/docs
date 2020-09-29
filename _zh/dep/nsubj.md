@@ -24,4 +24,4 @@ The `nsubj` relation links a subject to its predicate, and this subject must be 
 5	."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:57 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:23 CEST 2020 -->

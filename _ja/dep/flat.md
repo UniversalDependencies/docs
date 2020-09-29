@@ -11,4 +11,4 @@ Proper noun compounds.
 山田 太郎 \n Yamada Taro
 name(山田, 太郎)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:53 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:19 CEST 2020 -->

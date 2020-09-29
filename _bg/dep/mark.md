@@ -17,4 +17,4 @@ mark(заминал-5, че-3)
 Believe_I that he has gone .
 mark(gone-5, that-2)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:55 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:20 CEST 2020 -->

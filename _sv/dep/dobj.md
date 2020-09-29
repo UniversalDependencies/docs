@@ -23,4 +23,4 @@ Han skickar dig information . \n He sends you information .
 dobj(skickar, information)
 iobj(skickar, dig)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:52 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:17 CEST 2020 -->

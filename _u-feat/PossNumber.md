@@ -41,4 +41,4 @@ dog; PossNumber=Plur|Number=Sing); <span style='color: red'><I>naši</I></span><
 psi</I>
 (our
 dogs; PossNumber=Plur|Number=Plur).
-<!-- Interlanguage links updated Út zář 29 20:31:38 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:04 CEST 2020 -->

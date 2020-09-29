@@ -20,4 +20,4 @@ The three corpora **UD_French-ParTUT**, **UD_French-Sequoia** and **UD_French-GS
    * `Neg` (_aucun_)
 
 **UD_French-PUD** uses the feature `PronType` only on pronouns and only with the value `Prs`.
-<!-- Interlanguage links updated Út zář 29 20:31:38 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:04 CEST 2020 -->

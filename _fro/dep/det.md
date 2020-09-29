@@ -54,4 +54,4 @@ In case of complex determiner, there are two `det` relations.
 5	reluist	_	VERB	VERcjg	_	0	root	_	_
 
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:50 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:16 CEST 2020 -->

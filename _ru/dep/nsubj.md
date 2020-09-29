@@ -20,4 +20,4 @@ nsubj(красный, Автомобиль)
 nsubj(is-red, Car)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:31:57 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:23 CEST 2020 -->

@@ -12,4 +12,4 @@ iobj(あげる, 花子)
 case(花子, に)
 punct(あげる, 。)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:54 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:20 CEST 2020 -->

@@ -12,4 +12,4 @@ for `det`.
 Esta moneda está sucia . \n This coin is dirty .
 dep(moneda, está)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:50 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:16 CEST 2020 -->

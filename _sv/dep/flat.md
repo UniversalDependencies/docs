@@ -13,4 +13,4 @@ to the first, but this should not be interpreted as an indication of headedness.
 
 A special case of _flat_ is constituted by complex names like _Olof Palme_ and 
 _Carl XVI Gustaf_, which are annotated with the subtype _flat:name_.
-<!-- Interlanguage links updated Út zář 29 20:31:53 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:19 CEST 2020 -->

@@ -16,4 +16,4 @@ animal or idea.
 - _zuhaitz_ "tree"
 - _aire_ "air"
 - _edertasun_ "beauty"
-<!-- Interlanguage links updated Út zář 29 20:31:28 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:42:55 CEST 2020 -->

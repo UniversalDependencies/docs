@@ -12,4 +12,4 @@ dobj(食べる, ご飯)
 case(ご飯, を)
 punct(食べる, 。)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:59 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:24 CEST 2020 -->

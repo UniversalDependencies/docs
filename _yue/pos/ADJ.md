@@ -27,4 +27,4 @@ Note that ordinal numerals such as 第一 / _dai6jat1_ "first" and 第三 / _dai
   - 女 / _neoi5_ "female", 慢性 / _maan6sing3_ "slow-acting", 親生 / _can1saang1_ "biological (kin relations)"
 - Ordinal numbers
   - 第一 / _dai6jat1_ "first", 第三 / _dai6saam1_ "third", 第五十三 / _dai6ng2sap6saam1_ "fifty-third"
-<!-- Interlanguage links updated Út zář 29 20:31:25 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:42:52 CEST 2020 -->

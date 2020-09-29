@@ -12,4 +12,4 @@ list(大阪-4, 東京-2)
 appos(1.-1, 東京-2) 
 appos(2.-3, 大阪-4)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:54 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:20 CEST 2020 -->

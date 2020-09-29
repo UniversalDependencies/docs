@@ -61,4 +61,4 @@ amod(näytelmä-4, eilinen-3)
 ### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=876>
-<!-- Interlanguage links updated Út zář 29 20:31:41 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:07 CEST 2020 -->

@@ -62,4 +62,4 @@ _Note:_ In earlier versions of SD/USD, complement
 clauses with nouns like *fact* or *report* were also analyzed as `ccomp`. 
 However, we now analyze them as [acl](). Hence, `ccomp` does not appear in nominals.
 This makes sense, since nominals normally do not take core arguments.
-<!-- Interlanguage links updated Út zář 29 20:31:46 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:12 CEST 2020 -->

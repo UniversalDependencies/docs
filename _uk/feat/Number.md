@@ -45,4 +45,4 @@ Collective or mass or singulare tantum is a special case of singular. It applies
 ### Ukrainian Dependency Treebank
 
 The UDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`, therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Út zář 29 20:31:36 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->

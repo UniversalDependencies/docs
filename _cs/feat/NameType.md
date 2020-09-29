@@ -93,4 +93,4 @@ but _český&nbsp;_ “Czech” and _čeština&nbsp;_ “Czech [language]” do 
 ### <a name="Oth">`Oth`</a>: other
 
 Names of stadiums, guerilla bases, events etc.
-<!-- Interlanguage links updated Út zář 29 20:31:36 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->

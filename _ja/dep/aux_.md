@@ -17,4 +17,4 @@ dobj(食べ, ご飯)
 aux(食べ, た)
 punct(食べ, 。)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:43 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:09 CEST 2020 -->

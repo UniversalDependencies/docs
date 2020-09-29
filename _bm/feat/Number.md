@@ -19,4 +19,4 @@ In Bamana, the number marking for non-human is often optional, so tha absence of
 There are two plural markers: -w and -lù. -lù is less frequent and can be added only to animate nouns.
 
 
-<!-- Interlanguage links updated Út zář 29 20:31:36 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->

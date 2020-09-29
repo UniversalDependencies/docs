@@ -18,4 +18,4 @@ advcl(habló, crear)
 Estaba cansado cuando lo vi 
 advcl(cansado, vi)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:41 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:07 CEST 2020 -->

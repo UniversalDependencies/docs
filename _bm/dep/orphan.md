@@ -22,4 +22,4 @@ In the example below, a copula _yé_ and a postposition are elided. This senten
 
 ~~~
 'They all are the same'.
-<!-- Interlanguage links updated Út zář 29 20:32:00 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:25 CEST 2020 -->

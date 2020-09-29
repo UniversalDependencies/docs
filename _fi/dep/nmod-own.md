@@ -33,4 +33,4 @@ nsubj(on-2, auto-4)
 amod(auto-4, uusi-3)
 punct(on-2, .-5)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:56 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:22 CEST 2020 -->

@@ -25,4 +25,4 @@ poikkeuksellisen suuri kivi \n exceptional(ly) large rock
 amod(suuri-2, poikkeuksellisen-1)
 amod(kivi-3, suuri-2)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:42 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:08 CEST 2020 -->

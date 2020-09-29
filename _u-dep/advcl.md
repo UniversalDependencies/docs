@@ -28,4 +28,4 @@ advcl(talked, secure)
 He was upset when I talked to him
 advcl(upset, talked)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:41 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:07 CEST 2020 -->

@@ -101,4 +101,4 @@ ccomp(è, esplodendo)
 nsubj(esplodendo, spesa)
 mark(esplodendo, che)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:48 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:14 CEST 2020 -->

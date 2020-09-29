@@ -48,4 +48,4 @@ speakers nor addressees.
 - той, тя, то / _toy, tya, to_ "he, she, it"
 - идва / _idva_ "He/she/it is coming"
 
-<!-- Interlanguage links updated Út zář 29 20:31:37 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:03 CEST 2020 -->

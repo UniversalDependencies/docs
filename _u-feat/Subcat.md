@@ -22,4 +22,4 @@ These verbs can be passivized, then the direct object becomes the subject.
 
 Examples:
 [en] _to <b>do</b> something, to be <b>done</b> by somebody_
-<!-- Interlanguage links updated Út zář 29 20:31:38 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:05 CEST 2020 -->

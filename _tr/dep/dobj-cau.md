@@ -25,4 +25,4 @@ dobj:cau(sevindirdi, herkesi)
 Öğretmen dersi kolaylaştırdı . \n The teacher made the course easier
 dobj:cau(kolaylaştırdı, dersi)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:52 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:17 CEST 2020 -->

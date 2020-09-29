@@ -20,4 +20,4 @@ goeswith(ի, զուր)
 goeswith(կարգ, ու)
 goeswith(կարգ, կանոն)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:54 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:19 CEST 2020 -->

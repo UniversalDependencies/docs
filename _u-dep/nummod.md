@@ -32,4 +32,4 @@ Therefore their relation to the quantified noun is not `nummod` but
 Sam ate many sheep
 det(sheep, many)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:31:58 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:24 CEST 2020 -->

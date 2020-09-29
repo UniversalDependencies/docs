@@ -6,4 +6,4 @@ udver: '2'
 ---
 
 `reparandum` is not used.
-<!-- Interlanguage links updated Út zář 29 20:32:02 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:27 CEST 2020 -->

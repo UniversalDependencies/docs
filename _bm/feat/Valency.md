@@ -19,4 +19,4 @@ If a verb is intransitive, a suffix -ra is used. In the negation, there is still
 * _Fàntá jɔ́<b>ra</b>.  _ "Fanta stood up".
 * _Fàntá <b>tɛ́</b> jɔ́.  _ "Fanta did not stand up".
 
-<!-- Interlanguage links updated Út zář 29 20:31:39 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:05 CEST 2020 -->

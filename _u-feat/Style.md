@@ -32,4 +32,4 @@ in Bulgarian, Czech, Danish, Finnish and Hungarian.
 ### Derg: derogative
 
 ### Vulg: vulgar
-<!-- Interlanguage links updated Út zář 29 20:31:38 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:43:05 CEST 2020 -->

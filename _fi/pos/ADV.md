@@ -16,4 +16,4 @@ direction or manner.
 #### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=646> (in Finnish)
-<!-- Interlanguage links updated Út zář 29 20:31:26 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:42:53 CEST 2020 -->
