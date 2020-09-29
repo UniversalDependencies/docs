@@ -59,7 +59,7 @@ for s in "pos" "feat" "dep"; do
 		# Touch the file. Otherwise its HTML will not be re-rendered because only the YAML data file will change.
 		grep -v '<!-- Interlanguage links updated' "_$l/$r.md" > filtered ; mv filtered "_$l/$r.md"
 		echo '<!-- Interlanguage links updated' `date` '-->' >> "_$l/$r.md"
-	    else
+	    #else
 		#echo no >&2
 	    fi
 	done
