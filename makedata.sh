@@ -53,6 +53,8 @@ for s in "pos" "feat" "dep"; do
 		# collection directory name vs. permalink variance (see
 		# https://github.com/UniversalDependencies/docs/issues/57)
 		p=`echo "$l" | perl -pe 's/-(pos|feat|dep)$/\/$1/'`
+		# Relation subtypes: file name is "nmod-poss.md" but the label should be "nmod:poss".
+		p=`echo "$p" | perl -pe 's/-/:/'`
 		echo "  - label: '$p'"
 		# Touch the file. Otherwise its HTML will not be re-rendered because only the YAML data file will change.
 		grep -v '<!-- Interlanguage links updated' "_$l/$r.md" > filtered ; mv filtered "_$l/$r.md"
