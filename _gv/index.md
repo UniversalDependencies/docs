@@ -21,6 +21,7 @@ is split into _lesh_ “with” and _mee_ ”me”.
   * _t'eh_ = _t'_ “is” + _eh_ ”he, it”
   * _v'ee_ = _v'_ “was” + _ee_ ”she, it”
   * _shoh'n_ = _shoh_ ”this” + _'n_ “the”
+  * _'sy_ = _ayns_ “in” + _yn_ “the”
   * _dt'inneen_ = _dty_ ”your (s.)” + _inneen_ ”daughter”
 But the apostrophe is also used in other
 cases where we choose not to split as a multiword token:
@@ -77,13 +78,77 @@ to a future version.
 
 ## Syntax
 
+The basic word order of Manx is VSO, like the other Celtic languages:
+
+~~~ sdparse
+Ren my ven yn soo shen jea \n Made my wife the jam this yesterday
+det(ven, my)
+nsubj(Ren, ven)
+det(soo, yn)
+obj(Ren, soo)
+det(soo, shen)
+advmod(Ren, jea)
+~~~
+
+The copula _she_ is annotated as follows:
+
+~~~ sdparse
+She yn Vritaan y lieh-innys smoo 'sy Rank \n It-is the Brittany the peninsula biggest in-the France
+cop(Vritaan, She)
+det(Vritaan, yn)
+det(lieh-innys, y)
+nsubj(Vritaan, lieh-innys)
+amod(lieh-innys, smoo)
+case(Rank, 'sy)
+nmod(lieh-innys, Rank)
+~~~
+
+Verbal nouns play an important role in Manx grammar, and they are
+annotated following the guidelines for Irish and Scottish Gaelic.
+As noted above, they are always given the POS tag `NOUN`
+and very often labeled as `xcomp` of some higher verb:
+
+~~~ sdparse
+T' ad faagail bee ec oaieyn ny merriu \n are they leaving food at graves the dead
+nsubj(T', ad)
+xcomp(T', faagail)
+obj(faagail, bee)
+case(oaieyn, ec)
+obl(faagail, oaieyn)
+det(merriu, ny)
+nmod(oaieyn, merriu)
+~~~
+
+Note that the object follows the verbal noun in the case above;
+in other constructions it precedes the verbal noun:
+
+~~~ sdparse
+Nee eh yn thie y lhieggal \n Will-do he the house to knock-down
+nsubj(nee, eh)
+det(thie, yn)
+obj(lhieggal, thie)
+mark(lhieggal, y)
+xcomp(nee, lhieggal)
+~~~
+
+The substantive verb _bee_ “to be” (Irish _bí_, Scottish Gaelic _bi_)
+can have predicate complements in the form of adverbial, adjectival,
+or prepositional phrases; these are distinct from copular
+constructions in Manx. Following the Irish model, 
+we label these complements with the extended tag `xcomp:pred`:
+
+~~~ sdparse
+Ta 'n lioar ass clou \n is the book out-of print
+det(lioar, 'n)
+nsubj(Ta, lioar)
+case(clou, ass)
+xcomp:pred(Ta, clou)
+~~~
+
 The Manx treebank uses 31 of the 37 
 dependency relations in v2 of the UD guidelines
 (all but `expl`, `dislocated`, `aux`, `clf`, `list`, and `goeswith`).
-
-### Subtype relations
-
-The Manx treebank uses the following six subtype relations;
+In addition, there are six subtype relations represented as well;
 all but `flat:foreign` are used in the Irish treebank.
 
 * `acl:relcl` for relative clauses
