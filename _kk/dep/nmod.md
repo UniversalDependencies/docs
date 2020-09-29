@@ -36,3 +36,4 @@ or definite:
 
 Nouns in ablative case which depend on adjectives as object of comparison get `nmod:comp`:
 
+<!-- Interlanguage links updated Út zář 29 18:41:27 CEST 2020 -->

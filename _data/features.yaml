@@ -22,7 +22,6 @@
   - label: 'cs/feat'
   - label: 'hy/feat'
   - label: 'myv/feat'
-  - label: 'pt/feat'
   - label: 'u/feat'
 - label: 'AdvType'
   languages:
@@ -217,7 +216,6 @@
   languages:
   - label: 'cs/feat'
   - label: 'hy/feat'
-  - label: 'pt/feat'
   - label: 'u/feat'
 - label: 'InfForm'
   languages:
@@ -250,6 +248,7 @@
   - label: 'cs/feat'
   - label: 'hy/feat'
   - label: 'myv/feat'
+  - label: 'ru/feat'
   - label: 'u/feat'
 - label: 'NounClass'
   languages:
@@ -287,7 +286,6 @@
   - label: 'cs/feat'
   - label: 'fi/feat'
   - label: 'hy/feat'
-  - label: 'pt/feat'
   - label: 'sl/feat'
   - label: 'tr/feat'
 - label: 'NumForm'
@@ -312,7 +310,6 @@
   - label: 'koi/feat'
   - label: 'myv/feat'
   - label: 'pcm/feat'
-  - label: 'ru/feat'
   - label: 'sl/feat'
   - label: 'tr/feat'
   - label: 'u/feat'
@@ -423,7 +420,6 @@
 - label: 'PrepCase'
   languages:
   - label: 'cs/feat'
-  - label: 'pt/feat'
   - label: 'u/feat'
 - label: 'PrepForm'
   languages:
@@ -508,7 +504,6 @@
   languages:
   - label: 'fi/feat'
   - label: 'hy/feat'
-  - label: 'pt/feat'
   - label: 'u/feat'
 - label: 'Valency'
   languages:

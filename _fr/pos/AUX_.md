@@ -22,3 +22,4 @@ Most French corpora has just three auxiliary verb ([AUX]())
 	* *être* (to be) is used as a copule, as a tense auxiliary and as a passive auxiliary,
 	* *avoir* (to have) is used as a tense auxiliary,
 	* *faire* (to make) is used in causative constructions.
+<!-- Interlanguage links updated Út zář 29 18:40:43 CEST 2020 -->

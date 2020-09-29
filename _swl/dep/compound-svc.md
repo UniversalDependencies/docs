@@ -11,3 +11,4 @@ The `compound:svc` relation is used in Swedish Sign Language only for sequences 
 PRO1 SLUTA(da) GLOSA:(AVGÅ)@z LÄMNA NY@b LEDARE \n I quit, resigned, and left [it] to a new leader.
 compound:svc(SLUTA(da), GLOSA:(AVGÅ)@z)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:14 CEST 2020 -->

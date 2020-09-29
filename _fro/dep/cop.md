@@ -23,3 +23,4 @@ for `cop`.
 7	legers	_	ADJ	ADJqua	_	3	conj	_	_
 
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:15 CEST 2020 -->

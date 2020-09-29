@@ -27,3 +27,4 @@ Another example:
 Барлық шығыстарды бұл одақ көтереді . \n All expenses this union lifts .
 det(шығыстарды-2, Барлық-1)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:19 CEST 2020 -->

@@ -63,3 +63,4 @@ More than one sentence-final particle may appear at the end of the same clause o
 ~~~
 
 To differentiate between the perfective aspect marker 了 / _le_ and the sentence-final particle 了 / _le_, one should define as sentence-final a 了 / _le_ which is placed at the end of a clause or a sentence (though it may be followed by additional sentence-final particles), unless a clear context makes it possible to determine that it is the aspect marker. Before an object, adverbial of duration or frequency, and other non-sentence-final elements, 了 / _le_ will always be annotated as an aspect marker with [`aux`]().
+<!-- Interlanguage links updated Út zář 29 18:41:20 CEST 2020 -->

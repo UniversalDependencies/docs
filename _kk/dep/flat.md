@@ -22,3 +22,4 @@ nsubj(тұрды-6, Федорович-4)
 Contrary to the general UD definition of [u-dep/name](), in
 UD Kazakh the last word of the multi-word name expression is
 considered the head.
+<!-- Interlanguage links updated Út zář 29 18:41:22 CEST 2020 -->

@@ -13,3 +13,4 @@ házuk house-3PLPOSS "their house" Number[psor]=Plur|Person[psor]=3|Number[psed]
 házáé house-3SGPOSS-SGPSED "that of his house" Number[psor]=Sing|Person[psor]=3|Number[psed]=Sing
 
 házáéi house-3SGPOSS-PLPSED "those of his house" Number[psor]=Sing|Person[psor]=3|Number[psed]=Plur
+<!-- Interlanguage links updated Út zář 29 18:40:56 CEST 2020 -->

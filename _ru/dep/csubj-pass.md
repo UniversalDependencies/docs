@@ -12,3 +12,4 @@ A clausal passive subject is a clausal syntactic subject of a passive clause.
 csubj:pass(сказано, взвесил)
 csubj:pass(told, weighed-up)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:18 CEST 2020 -->

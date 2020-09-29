@@ -38,3 +38,4 @@ amod(racer, Fast)
 nsubj(první, závodník)
 nsubj(first, racer)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:06 CEST 2020 -->

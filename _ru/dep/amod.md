@@ -31,3 +31,4 @@ amod(groups, your)
 det(группы, эти)
 det(groups, these)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:07 CEST 2020 -->

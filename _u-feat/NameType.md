@@ -45,3 +45,4 @@ Name denoting a member of a particular nation, or inhabitant of a particular ter
 ### `Oth`: other
 
 Names of stadiums, guerilla bases, events etc.
+<!-- Interlanguage links updated Út zář 29 18:40:55 CEST 2020 -->

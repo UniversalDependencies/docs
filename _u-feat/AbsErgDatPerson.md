@@ -40,3 +40,4 @@ Examples: [eu] _dakarkio<b>zu</b>_ `Person[erg]=2`
 ### 3: third person
 
 Examples: [eu] _<b>d</b>akarki<b>o</b>gu_ `Person[abs]=3|Person[dat]=3`
+<!-- Interlanguage links updated Út zář 29 18:40:50 CEST 2020 -->

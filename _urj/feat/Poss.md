@@ -11,3 +11,4 @@ Possession feature in UD is used for possessive pronouns, determiners and
 adjectives, this should not be confused with various possessive suffix
 morphologies in Uralic languages, these are modeled in [Number[psor]](),
 [Person[psor]](), [Number[psed]]() and [Person[psed]]() features instead.
+<!-- Interlanguage links updated Út zář 29 18:40:59 CEST 2020 -->

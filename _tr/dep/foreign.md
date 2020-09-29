@@ -13,3 +13,4 @@ amod(görüşmeler, off)
 foreign(off, the)
 foreign(off, record)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:23 CEST 2020 -->

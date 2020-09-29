@@ -23,3 +23,4 @@ SP:	Proper noun
 - _NATO_, _HBO_, _U.S.A._
 
 
+<!-- Interlanguage links updated Út zář 29 18:40:47 CEST 2020 -->

@@ -78,3 +78,4 @@ nsubj(est, Marie)
 goeswith(-,elle)
 nsubj(est, -)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:21 CEST 2020 -->

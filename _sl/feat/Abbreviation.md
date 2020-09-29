@@ -18,3 +18,4 @@ Abbreviation is a feature of [X: other](X) to mark abbreviations ending with a d
 
 Currently, all abbreviations are converted to `X` and assigned the `Abbr=Yes` feature.
 
+<!-- Interlanguage links updated Út zář 29 18:40:50 CEST 2020 -->

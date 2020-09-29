@@ -19,3 +19,4 @@ In Bamana, all function words are marked with the `Polarity` feature.
 
 
 
+<!-- Interlanguage links updated Út zář 29 18:40:58 CEST 2020 -->

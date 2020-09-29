@@ -24,3 +24,4 @@ cc(Mary, and)
 ~~~
 
 In this example, the subject _Մերին_ “Mary” is promoted to the head position in the second conjunct. Attaching the object _թեյ_ “tea” to the subject is necessary to preserve the integrity of the clause, but using the standard relation [obj]() would be misleading because _թեյ_ “tea” is not the object of _Մերին_ “Mary”. Therefore, the `orphan` relation is used to indicate that this is a non-standard attachment. By contrast, the coordinating conjunction _իսկ_ “and” performs essentially the same function as in the non-elliptical case and therefore retains its normal relation [cc]().
+<!-- Interlanguage links updated Út zář 29 18:41:33 CEST 2020 -->

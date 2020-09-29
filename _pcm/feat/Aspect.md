@@ -39,3 +39,4 @@ The perfect aspect is used to indicate that a process occurred and was completed
 #### Example
 
 * _tire go <b>come</b> burst_ "the tire would explode"
+<!-- Interlanguage links updated Út zář 29 18:40:51 CEST 2020 -->

@@ -84,3 +84,4 @@ Examples:
 * [bg/en] който и да е / _koyto i da e_ "whoever, anybody", каквото и да е / _kakvoto i da e_ "whatever, anything", etc.
 * [bg/en] еди-кой си / _edi-koy si_ "somebody specific for the speaker, but not for the hearer"
 
+<!-- Interlanguage links updated Út zář 29 18:40:59 CEST 2020 -->

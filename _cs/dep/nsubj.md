@@ -24,3 +24,4 @@ Auto je červené . \n Car is red .
 nsubj(červené, Auto)
 nsubj(red, Car)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:28 CEST 2020 -->

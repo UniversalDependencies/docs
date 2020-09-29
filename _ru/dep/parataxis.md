@@ -65,3 +65,4 @@ There does not seem to be a better relation to use.
 Вашингтон ( CNN ) :
 parataxis(Вашингтон, CNN)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:34 CEST 2020 -->

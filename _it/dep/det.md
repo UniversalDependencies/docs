@@ -21,3 +21,4 @@ det(guerra, la)
 Casi di questo genere . 
 det(genere, questo)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:18 CEST 2020 -->

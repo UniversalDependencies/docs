@@ -82,3 +82,4 @@ Occasionally a heuristic was used: if there are two objects, one of them accusat
 But such heuristics do not cover all possible objects, and even ditransitive verbs may occur without one of their objects because of ellipsis.
 In future, the valency lexicon <a href="http://ufal.mff.cuni.cz/vallex">Vallex</a>
 could be used to identify the main object.
+<!-- Interlanguage links updated Út zář 29 18:41:24 CEST 2020 -->

@@ -47,3 +47,4 @@ for plural possession, but not for his own owner.
 ### Sing: singular possession
 
 ### Plur: plural possession
+<!-- Interlanguage links updated Út zář 29 18:40:59 CEST 2020 -->

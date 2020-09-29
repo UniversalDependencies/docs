@@ -9,3 +9,4 @@ shortdef: 'pronominal type'
  Default denotes "general" adverbs without any specifications.
  
  AdvPart denotes adverbial participles (futva - running).
+<!-- Interlanguage links updated Út zář 29 18:40:59 CEST 2020 -->

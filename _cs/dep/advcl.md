@@ -26,3 +26,4 @@ Spěchal , aby přišel včas . \n He-rushed , in-order-to come in-time .
 advcl(Spěchal, přišel)
 advcl(He-rushed, come)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:04 CEST 2020 -->

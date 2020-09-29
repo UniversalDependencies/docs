@@ -69,3 +69,4 @@ It is used for pronouns *o* 'he/she/it' and *onlar* 'they' and their inflected f
 * *(o) okudu* 'he/she read-PAST'
 * *(onlar) okudu(<b>lar</b>)* 'they read-PAST' -- note the optionality of the  agreement on the verb
 * *okudu<b>lar</b>* 'they read-PAST'
+<!-- Interlanguage links updated Út zář 29 18:40:58 CEST 2020 -->

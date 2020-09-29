@@ -16,3 +16,4 @@ dobj(okudu, gazete)
 conj(okudu, Ali)
 orphan(Ali, kitap)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:33 CEST 2020 -->

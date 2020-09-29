@@ -20,3 +20,4 @@ the current version of the UD Finnish corpus.
 
 The relation `reparandum` is used in FI_FTB
 for the clearest cases of speech repair.
+<!-- Interlanguage links updated Út zář 29 18:41:35 CEST 2020 -->

@@ -11,3 +11,4 @@ udver: '2'
 
 * [myv] _Иван ды <b>Иваннызе</b>_ "Ivan and <b>Ivan's wife</b>"
 * [myv] _Гава ды <b>Гаванизе</b>_ "Gava and <b>Gava's wife</b>"
+<!-- Interlanguage links updated Út zář 29 18:40:54 CEST 2020 -->

@@ -14,3 +14,4 @@ In Danish `PART` is currently used for the infinitive marker _at_. Note that not
 ### Example
 
 - _det er muligt <b>at</b> ændre det_ "it is possible <b>to</b> change it"
+<!-- Interlanguage links updated Út zář 29 18:40:46 CEST 2020 -->

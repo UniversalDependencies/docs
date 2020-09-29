@@ -83,3 +83,4 @@ Thaistil Eoin ní ba mhó ná aon duine eile. \n Travelled Eoin thing SUP(past) 
 cc(duine, ná)
 conj(Eoin, duine)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:11 CEST 2020 -->

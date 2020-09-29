@@ -61,3 +61,4 @@ semantically plausible. Sometimes, the plural form exists and means
 
 The RNC tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
+<!-- Interlanguage links updated Út zář 29 18:40:56 CEST 2020 -->

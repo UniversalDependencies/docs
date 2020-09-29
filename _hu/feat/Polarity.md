@@ -6,3 +6,4 @@ shortdef: 'whether the word can be or is negated'
 ---
 
 This feature is not used in Hungarian.
+<!-- Interlanguage links updated Út zář 29 18:40:58 CEST 2020 -->

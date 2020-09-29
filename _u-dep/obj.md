@@ -34,3 +34,4 @@ Then the clausal complement is regarded as a “clausal object” and an object 
 
 There is more discussion of constructions with multiple objects on the page for [iobj](). 
 If possible, language-specific documentation should be available to help identify the primary (or direct) object.
+<!-- Interlanguage links updated Út zář 29 18:41:32 CEST 2020 -->

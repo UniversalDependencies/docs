@@ -12,3 +12,4 @@ Hier kann nicht mehr eingeschätzt werden, wann es anfängt zu brennen . \n It c
 csubj:pass(eingeschätzt, anfängt)
 ~~~
 
+<!-- Interlanguage links updated Út zář 29 18:41:17 CEST 2020 -->

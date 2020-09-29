@@ -27,3 +27,4 @@ Modifying verbs appearing in [serial verb constructions](pcm/overview/specific-s
 * _di guy fine <b>reach</b> me_ "Is the guy as handsome as I am ?"
 
 
+<!-- Interlanguage links updated Út zář 29 18:41:01 CEST 2020 -->

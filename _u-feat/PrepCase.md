@@ -38,3 +38,4 @@ Examples:
 </I><span style='color: red'><I>ně</I></span><span style='color: red'><I>mu</I></span>
 = to
 him (dative).
+<!-- Interlanguage links updated Út zář 29 18:40:59 CEST 2020 -->

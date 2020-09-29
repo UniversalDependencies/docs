@@ -84,3 +84,4 @@ Perfective verbs form past converb, meaning “having done”.
   stared at me <b>while gripping</b> their guns firmly”
 - _<b>udělavši</b> večeři, zavolala rodinu ke stolu&nbsp;_ “<b>having
   prepared</b> the dinner, she called her family to the table”
+<!-- Interlanguage links updated Út zář 29 18:41:01 CEST 2020 -->

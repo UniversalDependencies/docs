@@ -13,3 +13,4 @@ I anslutning till satsen consensus facit nuptiam
 foreign(consensus, facit)
 foreign(consensus, nuptiam)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:23 CEST 2020 -->

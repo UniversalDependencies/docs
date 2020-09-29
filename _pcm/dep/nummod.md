@@ -36,3 +36,4 @@ The `nummod` relation is used between a nominal phrase and its numeric modifier.
 6	instance	_	_	_	_	0	_	_	_
 
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:30 CEST 2020 -->

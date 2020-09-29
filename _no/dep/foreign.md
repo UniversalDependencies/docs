@@ -12,3 +12,4 @@ foreign(Small-1,is-2)
 foreign(Small-1,beautiful-3)
 xcomp(heter-8,Small-1)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:23 CEST 2020 -->

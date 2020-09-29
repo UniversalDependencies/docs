@@ -56,3 +56,4 @@ their syntactic and morphological behavior.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a numeral?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsANumeral.htm)
 - [Wikipedia: Numeral](http://en.wikipedia.org/wiki/Numeral_%28linguistics%29)
+<!-- Interlanguage links updated Út zář 29 18:40:46 CEST 2020 -->

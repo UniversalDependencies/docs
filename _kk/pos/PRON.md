@@ -20,3 +20,4 @@ See also [PronType]().
 * [kk] TODO (totality pronouns)
 * [kk] TODO (negative pronouns)
 
+<!-- Interlanguage links updated Út zář 29 18:40:47 CEST 2020 -->

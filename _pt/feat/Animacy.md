@@ -20,3 +20,4 @@ animateness as separate feature and instead defines four genders:
 masculine animate, masculine inanimate, feminine and neuter.  We
 follow the two-feature approach used in Multext-East (many languages)
 because it is safer.
+<!-- Interlanguage links updated Út zář 29 18:40:50 CEST 2020 -->

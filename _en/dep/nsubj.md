@@ -65,3 +65,4 @@ nsubj(existed, that)
 From China comes news of a new super-small mobile phone .
 nsubj(comes, news)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:28 CEST 2020 -->

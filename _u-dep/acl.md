@@ -64,3 +64,4 @@ clauses" in Huddleston and Pullum 2002). These are also analyzed as `acl`.
 the fact that nobody cares
 acl(fact, cares)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:03 CEST 2020 -->

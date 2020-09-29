@@ -16,3 +16,4 @@ _<b>dine</b> døtre_ "your daughters" (plural).
 - Articles: _en_ "a/an", _et_ "a/an", _den_ "the", _det_ "the", _de_ "the"  
 - Possessive determiners: _min_ "my" as in _<b>min</b> bil_ "my car", _deres_ "their" as in _<b>deres</b> holdninger_ "their opinions", _<b>dit</b> job_ "your job"
 - Negative determiners: _ingen_ "no" as in _han har <b>ingen</b> empati_ "he has no empathy"
+<!-- Interlanguage links updated Út zář 29 18:40:44 CEST 2020 -->

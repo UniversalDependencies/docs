@@ -19,3 +19,4 @@ det(man, The)
 Which book do you prefer ?
 det(book, Which)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:19 CEST 2020 -->

@@ -19,3 +19,4 @@ nsubjpass(雇わ, 太郎)
 aux(雇わ, た)
 punct(雇わ, 。)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:09 CEST 2020 -->

@@ -14,3 +14,4 @@ nsubj(pudistivat-3, miehet-2)
 dobj(pudistivat-3, päätään-4)
 punct(pudistivat-3, .-5)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:18 CEST 2020 -->

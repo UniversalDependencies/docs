@@ -19,3 +19,4 @@ In Ukrainian, some adverbs often appear to be acting as adjectives.
 ~~~
 
 Such cases are treated as elliptical _doors **[located]** on the right_ and are currently distinguished as `acl:adv`.
+<!-- Interlanguage links updated Út zář 29 18:41:03 CEST 2020 -->

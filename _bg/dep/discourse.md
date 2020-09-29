@@ -16,3 +16,4 @@ In Bulgarian the Yes-No questions are formed with the question particle ли (li
 discourse(Върна, ли)
 discourse(Returned, PART.li)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:19 CEST 2020 -->

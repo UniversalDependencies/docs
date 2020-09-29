@@ -27,3 +27,4 @@ nmod:tmod(okuyacağım, Öğleden)
 Her yıl aynı yere gidiyoruz . \n We go to the same place every year
 nmod:tmod(gidiyoruz, yıl)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:28 CEST 2020 -->

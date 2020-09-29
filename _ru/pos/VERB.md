@@ -54,3 +54,4 @@ take obliques that refer to semantic agents (actor), place and other circumstanc
 (e. g. _танк не был бронирован на заводе_, _бронированный на заводе танк_ &nbsp;“the tank (was) armored at the factory”).
 On the other hand, the participial adjectives modify nouns and are used in attributive, depictive (and sometimes predicative) constructions.
 
+<!-- Interlanguage links updated Út zář 29 18:40:49 CEST 2020 -->

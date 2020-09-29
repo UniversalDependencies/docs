@@ -13,3 +13,4 @@ Cardinal numerals are covered by `NUM` regardless of syntactic function and rega
 
 <b>Note:</b> Numerals are not yet consistently annotated in the French UD treebank, and sometimes appear as `ADJ` or `DET`.
 
+<!-- Interlanguage links updated Út zář 29 18:40:46 CEST 2020 -->

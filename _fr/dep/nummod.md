@@ -41,3 +41,4 @@ je suis né à Alger en 1943 \n I was born in Algiers in 1943
 nummod(né,1943)
 case(1943,en)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:30 CEST 2020 -->

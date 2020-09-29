@@ -18,3 +18,4 @@ A coordinating conjunction may also appear at the beginning of a sentence. This 
 Și au salutat gazda . \n And have greeted host-the
 cc(salutat, Și)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:11 CEST 2020 -->

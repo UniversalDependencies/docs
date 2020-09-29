@@ -20,3 +20,4 @@ neg(mehr, nicht)
 Er hat keinen Regenschirm mitgebracht . \n He didn't bring an umbrella .
 neg(Regenschirm, keinen)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:26 CEST 2020 -->

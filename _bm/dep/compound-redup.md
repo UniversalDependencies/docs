@@ -23,3 +23,4 @@ The `compound:redup` relation is used for reduplication. In Bamana, reduplicatio
 
 ~~~
 'This dust said: "tot-tot-tot!"'.
+<!-- Interlanguage links updated Út zář 29 18:41:14 CEST 2020 -->

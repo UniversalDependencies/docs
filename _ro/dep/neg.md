@@ -17,3 +17,4 @@ neg(scrie, nu)
 Maria a cumpărat nu trandafiri , ci lalele . Mary has bought not roses , but tulips .
 neg(trandafiri, nu)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:26 CEST 2020 -->

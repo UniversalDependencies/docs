@@ -12,3 +12,4 @@ emphasis on it), such as *either*, *both*, *neither*).
 Both the boys and the girls are here
 cc:preconj(boys, Both)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:12 CEST 2020 -->

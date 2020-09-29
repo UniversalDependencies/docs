@@ -21,3 +21,4 @@ But when clitics appear alone in the sentence, they are labeled as core argument
 iobj(έδωσε, Της)
 dobj(έδωσε, τον)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:21 CEST 2020 -->

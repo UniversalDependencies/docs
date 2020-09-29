@@ -41,3 +41,4 @@ ROOT I magistrati sono inamovibili/ADJ .
 root(ROOT, inamovibili)
 cop(inamovibili, sono)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:07 CEST 2020 -->

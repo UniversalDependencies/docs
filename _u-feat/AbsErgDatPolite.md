@@ -37,3 +37,4 @@ Examples: [eu] _ezan, ezak_ `Polite[erg]=Inf`
 ### Pol: polite, formal
 
 Examples: [eu] _ezazu_ `Polite[erg]=Pol` (politeness-neutral form is _ezazue_)
+<!-- Interlanguage links updated Út zář 29 18:40:50 CEST 2020 -->

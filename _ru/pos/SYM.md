@@ -38,3 +38,4 @@ they are punctuation.
 - :), ♥‿♥, 😝
 - _john.doe@universal.org, http://universaldependencies.org/, 1-800-COMPANY_
 
+<!-- Interlanguage links updated Út zář 29 18:40:49 CEST 2020 -->

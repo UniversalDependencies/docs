@@ -39,3 +39,4 @@ advmod:emph(the-minister, as-well)
 discourse(կարող, և)
 discourse(could, also)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:06 CEST 2020 -->

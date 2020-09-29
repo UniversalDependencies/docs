@@ -25,3 +25,4 @@ For instance, _<b>to</b>_ “this” is traditionally called pronoun in Slovenia
 #### Conversion from JOS
 
 All pronouns are converted to `PRON`, except for pronouns that function as attributes to nouns (through Attr dependency relation), which are converted to `DET`.
+<!-- Interlanguage links updated Út zář 29 18:40:47 CEST 2020 -->

@@ -12,3 +12,4 @@ Interjection is an invariable word which is typically used in exclamations to ex
 
 * _ὦ_ "oh"
 * _ἀμήν_ "verily"
+<!-- Interlanguage links updated Út zář 29 18:40:45 CEST 2020 -->

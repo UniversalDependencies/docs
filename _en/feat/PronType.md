@@ -60,3 +60,4 @@ The following determiners and adverbs have this feature:
 * _this, that, those, these, here, there_
 
 Note that _that_ only has this feature when it is being used as a demonstrative determiner. If it is used to mark the beginning of a [clausal complement](en-dep/ccomp) or a [relative clause](en-dep/acl:relcl) it does not have this feature.
+<!-- Interlanguage links updated Út zář 29 18:40:59 CEST 2020 -->

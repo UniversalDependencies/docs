@@ -13,3 +13,4 @@ for `fixed`.
 Tengo que estudiar . \n I have to study .
 mwe(Tengo, que)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:22 CEST 2020 -->

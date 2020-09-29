@@ -18,3 +18,4 @@ Han skickar ett brev till mig . \n He sends a letter to me .
 nmod(skickar, mig)
 case(mig, till)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:24 CEST 2020 -->

@@ -30,3 +30,4 @@ fixed(in, to)
 case(loans, in)
 advmod:emph(loans, for-example)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:22 CEST 2020 -->

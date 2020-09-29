@@ -44,3 +44,4 @@ in Interset but I am not particularly happy with that, as prontype
 otherwise applies to different class of words. So if we keep the
 "PartType" feature, we may want to also add the "int" and "neg" values
 here.
+<!-- Interlanguage links updated Út zář 29 18:40:57 CEST 2020 -->

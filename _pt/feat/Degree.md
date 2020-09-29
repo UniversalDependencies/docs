@@ -49,3 +49,4 @@ set of objects.
 
 * _lindo_ "handsome"; _<b>lindíssimo</b>_ "<b>indescribably
   handsome</b>"
+<!-- Interlanguage links updated Út zář 29 18:40:53 CEST 2020 -->

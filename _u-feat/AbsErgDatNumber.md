@@ -44,3 +44,4 @@ Examples: [eu] _<b>d</b>akarki<b>o</b>gu_ `Number[abs]=Sing|Number[dat]=Sing`
 ### Plur: plural
 
 Examples: [eu] _dakarkio<b>gu</b>_ `Number[erg]=Plur`
+<!-- Interlanguage links updated Út zář 29 18:40:50 CEST 2020 -->

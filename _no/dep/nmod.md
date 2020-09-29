@@ -29,3 +29,4 @@ Stortinget ble mandag kveld enige \n Government agreed Monday evening
 nmod(ble-2,mandag-3)
 nmod(mandag-3,kveld-4)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:27 CEST 2020 -->

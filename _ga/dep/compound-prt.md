@@ -33,3 +33,4 @@ compound:prt(leagtha, amach)
 </body>
 </html>
 
+<!-- Interlanguage links updated Út zář 29 18:41:14 CEST 2020 -->

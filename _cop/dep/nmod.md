@@ -25,3 +25,4 @@ nsubj(ⲥⲱⲧⲙ, ⲁⲣ)
 obl(ⲥⲱⲧⲙ, ⲓ)
 case(ⲉⲣⲟ, ⲓ)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:26 CEST 2020 -->

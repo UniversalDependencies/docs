@@ -38,3 +38,4 @@ For nominal dependents of verbs, adjectives, and adverbs, it gets analyzed with 
 4	rei	_	NOUN	NOMcom	_	2	obl	_	_
 
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:24 CEST 2020 -->

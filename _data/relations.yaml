@@ -186,7 +186,6 @@
   - label: 'cs/dep'
   - label: 'hy/dep'
   - label: 'pcm/dep'
-  - label: 'pt/dep'
   - label: 'tr/dep'
 - label: 'advmod-neg'
   languages:
@@ -363,7 +362,6 @@
   - label: 'zh/dep'
 - label: 'auxpass-reflex'
   languages:
-  - label: 'pt/dep'
 - label: 'aux-q'
   languages:
   - label: 'myv/dep'
@@ -955,14 +953,12 @@
   - label: 'yue/dep'
 - label: 'expl-comp'
   languages:
-  - label: 'fr/dep'
 - label: 'expl-impers'
   languages:
   - label: 'it/dep'
 - label: 'expl-pass'
   languages:
   - label: 'cs/dep'
-  - label: 'fr/dep'
   - label: 'it/dep'
 - label: 'expl-poss'
   languages:
@@ -974,7 +970,6 @@
   - label: 'gsw/dep'
 - label: 'expl-subj'
   languages:
-  - label: 'fr/dep'
 - label: 'fixed'
   languages:
   - label: 'bg/dep'
@@ -1043,14 +1038,12 @@
 - label: 'flat-foreign'
   languages:
   - label: 'cs/dep'
-  - label: 'fr/dep'
   - label: 'ga/dep'
   - label: 'it/dep'
   - label: 'pl/dep'
   - label: 'ru/dep'
 - label: 'flat-name'
   languages:
-  - label: 'fr/dep'
   - label: 'ga/dep'
   - label: 'it/dep'
   - label: 'kpv/dep'
@@ -1467,7 +1460,6 @@
   - label: 'ru/dep'
 - label: 'obj'
   languages:
-  - label: 'af/dep'
   - label: 'bg/dep'
   - label: 'bm/dep'
   - label: 'cop/dep'

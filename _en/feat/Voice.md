@@ -14,3 +14,4 @@ All verbs with the PTB tag `VBN` that have a [passive auxiliary](en-dep/auxpass)
 
 * _Kennedy was <b>killed</b>._
 * _He got <b>shot</b>._
+<!-- Interlanguage links updated Út zář 29 18:41:02 CEST 2020 -->

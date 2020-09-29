@@ -20,3 +20,4 @@ etymological.
 * [fi] _alla_ "under", _alta_ "from under", _alle_ "to under"
 * [fi] _vuoksi_ "because of", _vuokseni_, "because of me"
 
+<!-- Interlanguage links updated Út zář 29 18:40:43 CEST 2020 -->

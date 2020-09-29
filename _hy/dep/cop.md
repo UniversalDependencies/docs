@@ -135,3 +135,4 @@ nsubj(the-table, The-book)
 case(սեղանի, վրա)
 case(the-table, on)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:15 CEST 2020 -->

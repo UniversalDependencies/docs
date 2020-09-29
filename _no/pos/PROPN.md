@@ -12,3 +12,4 @@ In Norwegian, proper nouns do usually not inflect for morphological properties l
 * *Kari*, *Ola*
 * *Oslo*, *Bergen*
 
+<!-- Interlanguage links updated Út zář 29 18:40:47 CEST 2020 -->

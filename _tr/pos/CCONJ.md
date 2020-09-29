@@ -16,3 +16,4 @@ For _subordinating conjunctions,_ see [SCONJ]().
 - _ve_ "and"
 - _ya da_ "or"
 - _ama_ "but"
+<!-- Interlanguage links updated Út zář 29 18:40:44 CEST 2020 -->

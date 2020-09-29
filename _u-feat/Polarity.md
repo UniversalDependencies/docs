@@ -64,3 +64,4 @@ The `Polarity` feature can be also used to distinguish response
 * [cs] _<b>nevelký</b>_ “not big”
 * [en] _<b>not</b>_
 * [en] _<b>no</b>_ as in _no, I don't think so;_ but not as in _we have no bananas_
+<!-- Interlanguage links updated Út zář 29 18:40:58 CEST 2020 -->

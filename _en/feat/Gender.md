@@ -17,3 +17,4 @@ In English, `Gender` is marked only on 3rd-person personal [pronouns](en-pos/PRO
 ### `Neut`: neuter gender
 
 * _it, its, itself_
+<!-- Interlanguage links updated Út zář 29 18:40:54 CEST 2020 -->

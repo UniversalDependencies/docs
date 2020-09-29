@@ -80,3 +80,4 @@ Negative particles  *δεν* and *μην* are assigned the relation [neg](neg).
 TODO 
 Include φαίνεται πρόκειται?
 -->
+<!-- Interlanguage links updated Út zář 29 18:41:08 CEST 2020 -->

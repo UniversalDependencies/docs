@@ -25,3 +25,4 @@ neg(küçük, değil)
 Değil üniversite , orta okulu bile bitirmemiş . \n Let alone the university, he did not even finish the secondary school
 neg(üniversite, Değil)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:26 CEST 2020 -->

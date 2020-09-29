@@ -18,3 +18,4 @@ punct(Kamskjell-1,,-2)
 conj(Kamskjell-1,lammefilet-5)
 cc(Kamskjell-1,og-4)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:15 CEST 2020 -->

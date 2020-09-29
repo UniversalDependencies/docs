@@ -12,3 +12,4 @@ cc(left, And)
 ~~~
 
 See also: [`conj`](conj.html)
+<!-- Interlanguage links updated Út zář 29 18:41:11 CEST 2020 -->

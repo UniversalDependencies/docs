@@ -23,3 +23,4 @@ shortdef: 'number of possessor'
 ### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=97> (in Finnish)
+<!-- Interlanguage links updated Út zář 29 18:40:56 CEST 2020 -->

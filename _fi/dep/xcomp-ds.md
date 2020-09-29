@@ -23,3 +23,4 @@ xcomp:ds(Sain-1, itkemään-3)
 nsubj(itkemään-3, hänet-2)
 punct(Sain-1, .-4)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:38 CEST 2020 -->

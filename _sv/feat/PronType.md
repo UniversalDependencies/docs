@@ -25,3 +25,4 @@ Pronominal type is a feature of (some) pronouns, determiners and pronominal adve
 <b>Note:</b> Because the original Swedish treebank annotation uses a single category subsuming both interrogative and relative
 (corresponding to the English wh-category), we currently do not disambiguate between `Int` and `Rel`, which means 
 that any word belonging to one of these categories is assigned the feature `PronType=Int,Rel`. 
+<!-- Interlanguage links updated Út zář 29 18:40:59 CEST 2020 -->

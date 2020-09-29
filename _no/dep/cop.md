@@ -15,3 +15,4 @@ This analysis entails that in copula clauses, the main predicate is not verbal, 
 
 Note that there are occurrences of *være* "to be" which do not give rise to a copula analysis, such as in cleft constructions (see [expl](expl)).
 
+<!-- Interlanguage links updated Út zář 29 18:41:16 CEST 2020 -->

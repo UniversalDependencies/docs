@@ -13,3 +13,4 @@ In the example below, _qu'il avait triché_ is the clausal subject.
 Qu'il avait triché était cru par tout le monde \n That he cheated was believed by everyone
 csubj:pass(cru, triché)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:17 CEST 2020 -->

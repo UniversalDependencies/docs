@@ -19,3 +19,4 @@ nsubjpass(applicate, placche)
 Tutte le persone sono state poi trasportate a Brindisi.
 nsubjpass(trasportate, persone)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:29 CEST 2020 -->

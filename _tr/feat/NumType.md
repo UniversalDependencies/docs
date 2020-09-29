@@ -41,3 +41,4 @@ Distributive numerals are formed by the suffix _-(ş)Ar_.
 * _bir<b>er</b>, iki<b>şer</b>, üç<b>er</b>_  "one each, two each, three each"
 * _kaç<b>ar</b> kitap okudunuz_ "how many books have you each read"
 
+<!-- Interlanguage links updated Út zář 29 18:40:57 CEST 2020 -->

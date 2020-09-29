@@ -31,3 +31,4 @@ Examples: [hi] "चाय वाय" = "čāya vāya" = "tea or something" (as i
 
 For more details see Rupert Snell and Simon Weightman: Teach Yourself
 Hindi, Section 16.4 and 16.5, pages 210 – 211.
+<!-- Interlanguage links updated Út zář 29 18:40:54 CEST 2020 -->

@@ -47,3 +47,4 @@ Both verbs - perfective and imperfective - are used in imperfect tense.
 
 - Когато се прибрах вкъщи, децата вече <b>спяха</b>. / _Kogato se pribrah vkashti, detsata veche spyaha_ "When I came home, the children were already sleeping."
 - Щом <b>дойдеше</b>, веднага запалваше цигара. / _Shtom doydeshe, vednaga zapalvashe tsigara_ "Every time he came, he always lit a cigarette".
+<!-- Interlanguage links updated Út zář 29 18:41:00 CEST 2020 -->

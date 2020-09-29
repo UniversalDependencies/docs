@@ -43,3 +43,4 @@ The action of the verb is likely but not certain.
 #### Examples
 
 * [fi] _talo <b>valmistunee</b>_ "the house <b>will likely be completed</b>"
+<!-- Interlanguage links updated Út zář 29 18:40:55 CEST 2020 -->

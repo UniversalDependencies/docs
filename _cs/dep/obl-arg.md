@@ -60,3 +60,4 @@ obl(takes-place, Slovakia)
 case(Slovensku, na)
 case(Slovakia, in)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:32 CEST 2020 -->

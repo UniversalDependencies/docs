@@ -20,3 +20,4 @@ shortdef: 'possessor’s number'
 * _kitaplarınız_ "your-PL books" `Number[psor]=Plur|Number=Plur`
 * _kitabımız_ "our book" `Number[psor]=Plur|Number=Sing`
 
+<!-- Interlanguage links updated Út zář 29 18:40:56 CEST 2020 -->

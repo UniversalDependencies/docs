@@ -14,3 +14,4 @@ dobj(ăn, cá)
 nsubj(ăn, Nam)
 punct(ăn, 。)
 </code></pre>
+<!-- Interlanguage links updated Út zář 29 18:41:07 CEST 2020 -->

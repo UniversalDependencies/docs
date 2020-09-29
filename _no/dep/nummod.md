@@ -15,3 +15,4 @@ nummod(år,100)
 De tre partiene svarer likevel \n The three parties still answer
 nummod(partiene,tre)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:30 CEST 2020 -->

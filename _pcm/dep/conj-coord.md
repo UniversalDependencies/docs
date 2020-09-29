@@ -32,3 +32,4 @@ The `conj:coord` relation is used between conjuncts that are coordinated. Coordi
 4	,	_	_	_	_	0	_	_	_
 5	ogogoro	_	_	_	_	0	_	_	_
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:15 CEST 2020 -->

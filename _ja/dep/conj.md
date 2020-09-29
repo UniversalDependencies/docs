@@ -12,3 +12,4 @@ Following the definition of UD, the head of the dependency is the first conjunct
 cc(太郎, と)
 conj(太郎, 次郎)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:15 CEST 2020 -->

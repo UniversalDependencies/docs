@@ -14,3 +14,4 @@ In Estonian UD, auxiliaries are:<br/>
 <i>olema</i> 'be' and in rare occasions <i>saama</i> 'get' are auxiliaries that form periphrastic tense forms;<br/>
 modal verbs are <i>võima, tohtima</i> 'may', <i>saama</i> 'can', <i>pidama</i> 'must', <i>näima</i> 'seem', <i>paistma</i> 'seem', <i>tunduma</i> 'seem';<br/>
 <i>ei</i> and <i>ära</i> 'not' in negative verb forms.
+<!-- Interlanguage links updated Út zář 29 18:40:43 CEST 2020 -->

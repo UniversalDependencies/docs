@@ -68,3 +68,4 @@ advmod(dago-10, gehienbat-12)
 punct(azalduko-4, .-13)
 ~~~
 
+<!-- Interlanguage links updated Út zář 29 18:41:25 CEST 2020 -->

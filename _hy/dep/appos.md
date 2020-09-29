@@ -70,3 +70,4 @@ appos(հեռ, 010)
 flat(010, 101-010)
 appos(փոստ, petros@petros.am)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:08 CEST 2020 -->

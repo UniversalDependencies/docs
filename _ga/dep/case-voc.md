@@ -29,3 +29,4 @@ _Ach, <b>a</b> Bheartla, ní hí an smólach chéanna!_ 'But, <b>(...)</b> Bartl
 Ach, a Bheartla , ní hí an smólach chéanna! \n But, my Bartley, is_not her the thrush same!
 case:voc(Bheartla, a)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:10 CEST 2020 -->

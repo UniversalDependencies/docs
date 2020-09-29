@@ -23,3 +23,4 @@ advmod(konuşuyorlar, Sürekli)
 ~~~
 
 We use a special label, [tr-dep/advmod:emph]() for adverbial modifiers that are used for emphasis.
+<!-- Interlanguage links updated Út zář 29 18:41:06 CEST 2020 -->

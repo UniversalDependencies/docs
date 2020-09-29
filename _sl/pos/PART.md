@@ -28,3 +28,4 @@ In Slovenian, particles, such as _ja_ "yes" and _ne_ "no", are always tagged as 
 #### Conversion from JOS
 
 All particles are converted to `PART`.
+<!-- Interlanguage links updated Út zář 29 18:40:47 CEST 2020 -->

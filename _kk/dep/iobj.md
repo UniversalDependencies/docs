@@ -17,3 +17,4 @@ obj(етті-11, әсер-10)
 
 *Note:* Discussion of what constitutes a core argument in Kazakh is ongoing. The `iobj` relation will
 probably be discarded in favour of subcategorising `nmod`.
+<!-- Interlanguage links updated Út zář 29 18:41:24 CEST 2020 -->

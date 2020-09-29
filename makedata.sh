@@ -38,6 +38,7 @@ for s in "pos" "feat" "dep"; do
 
     # generate YAML with relations and collections
     for r in $entries; do
+	echo entry $r >&2
 	# special case for labels that are not allowed as filenames (see
 	# https://github.com/UniversalDependencies/docs/issues/20)
 	e=`echo "$r" | perl -pe 's/^_//; s/_$//'`
@@ -45,7 +46,10 @@ for s in "pos" "feat" "dep"; do
 	# (not really "languages", but close enough here)
 	echo "  languages:"
 	for l in $collections; do
-	    if [ -e "_$l/$r.md" ]; then
+	    #echo -n '  ' collection $l ' ' >&2
+	    # -s = file exists and is not empty (some .md in Portuguese are empty and the grep below would not work with them)
+	    if [ -s "_$l/$r.md" ]; then
+		#echo yes >&2
 		# collection directory name vs. permalink variance (see
 		# https://github.com/UniversalDependencies/docs/issues/57)
 		p=`echo "$l" | perl -pe 's/-(pos|feat|dep)$/\/$1/'`
@@ -53,6 +57,8 @@ for s in "pos" "feat" "dep"; do
 		# Touch the file. Otherwise its HTML will not be re-rendered because only the YAML data file will change.
 		grep -v '<!-- Interlanguage links updated' "_$l/$r.md" > filtered ; mv filtered "_$l/$r.md"
 		echo '<!-- Interlanguage links updated' `date` '-->' >> "_$l/$r.md"
+	    else
+		#echo no >&2
 	    fi
 	done
     done > $out

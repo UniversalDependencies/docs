@@ -19,3 +19,4 @@ det(man, The)
 det(человек, такой)
 det(man, this-kind-of)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:19 CEST 2020 -->

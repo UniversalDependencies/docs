@@ -67,3 +67,4 @@ obj(Ζήτησε, κούκλα)
 nmod(δω, Κυριακή)
 ~~~
 
+<!-- Interlanguage links updated Út zář 29 18:41:26 CEST 2020 -->

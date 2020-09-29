@@ -38,3 +38,4 @@ det(men, How-many)
 ~~~
 
 See [nummod]() for a broader discussion of the various situations with quantifiers.
+<!-- Interlanguage links updated Út zář 29 18:41:18 CEST 2020 -->

@@ -16,3 +16,4 @@ cop(es, persona)
 Juan es alto . \n Juan is tall .
 cop(es, alto)
 ~~~
+<!-- Interlanguage links updated Út zář 29 18:41:15 CEST 2020 -->
