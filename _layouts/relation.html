@@ -11,6 +11,6 @@ layout: base
 {% for r in site.data.relations %}{% if r.label == page.title %}
 {{ r.label }} in other languages:
 {% for l in r.languages %}
-[<a href="../../{{ l.label }}/{{ r.label }}.html">{{ l.label | replace: '/dep', '' }}</a>]
+[<a href="../../{{ l.label }}/{{ r.label | replace: ':', '-' }}.html">{{ l.label | replace: '/dep', '' }}</a>]
 {% endfor %}
 {% endif %}{% endfor %}
