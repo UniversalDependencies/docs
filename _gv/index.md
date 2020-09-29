@@ -23,7 +23,8 @@ is split into _lesh_ “with” and _mee_ ”me”.
   * _shoh'n_ = _shoh_ ”this” + _'n_ “the”
   * _'sy_ = _ayns_ “in” + _yn_ “the”
   * _dt'inneen_ = _dty_ ”your (s.)” + _inneen_ ”daughter”
-But the apostrophe is also used in other
+
+* But the apostrophe is also used in other
 cases where we choose not to split as a multiword token:
   * In some emphatic endings: _e chree's_ (“*his* heart”)
   * When used word initially, it usually indicates an _f_ dropped by lenition: _toan yn 'ockle_ “tone of the word” (cf. _fockle_ “word”)
