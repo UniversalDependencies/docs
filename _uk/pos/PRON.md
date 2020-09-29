@@ -29,4 +29,4 @@ For instance, _tohle&nbsp;_ “this” is traditionally called pronoun in Czech 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a pronoun?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAPronoun.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Pronoun)
 
-<!-- Interlanguage links updated Út zář 29 20:23:01 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:30 CEST 2020 -->

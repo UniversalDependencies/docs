@@ -38,4 +38,4 @@ xcomp(pourrait, imaginer)
 ~~~
 
 N.B.: For causative constructions (_Marie fait repeindre les murs à Jean-Pierre._ etc.) see the [specific syntax](http://universaldependencies.org/fr/specific-syntax.html) page.
-<!-- Interlanguage links updated Út zář 29 20:23:45 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:32:03 CEST 2020 -->

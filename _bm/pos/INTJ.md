@@ -14,4 +14,4 @@ It is not syntactically related to other accompanying expressions.
 *_<b>Àyí</b>, né má Fàntá yé. "No, I did not see Fanta"._
 *_Búguri kó: <b>tot-tot-tot</b>. "Dust said: tot-tot-tot"._
 
-<!-- Interlanguage links updated Út zář 29 20:22:58 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:28 CEST 2020 -->

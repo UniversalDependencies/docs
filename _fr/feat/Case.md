@@ -6,4 +6,4 @@ udver: '2'
 ---
 
 `Case` only appears for French in rare cases, where a phrase is borrowed from Latin or another case-marked language.
-<!-- Interlanguage links updated Út zář 29 20:23:06 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:33 CEST 2020 -->

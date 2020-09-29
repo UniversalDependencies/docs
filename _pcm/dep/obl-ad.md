@@ -117,4 +117,4 @@ The `obl:ad` relation is used for nominal adjuncts which are governed by their h
 
 
 On the other hand, when the nominal element is not an adjunct but an argument we use [obj]() if it's a direct object, or [obl:comp]() if the argument is introduced by a preposition.
-<!-- Interlanguage links updated Út zář 29 20:23:40 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:59 CEST 2020 -->

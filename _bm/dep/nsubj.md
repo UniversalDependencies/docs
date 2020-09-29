@@ -19,4 +19,4 @@ The `nsubj` relation is used between a clause and its nominal subject.
 
 ~~~
 'A lemon fell'.
-<!-- Interlanguage links updated Út zář 29 20:23:37 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:57 CEST 2020 -->

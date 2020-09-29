@@ -30,4 +30,4 @@ Auxiliaries are a closed-class list. The following list breaks down the lemmas o
 - Modal auxiliary: _burde_, _kunne_, _måtte_, _turde_,_skulle_, _ville_
 - Passive auxiliary: _blive_
 - Copula: _væra_
-<!-- Interlanguage links updated Út zář 29 20:22:57 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:26 CEST 2020 -->

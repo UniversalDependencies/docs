@@ -29,4 +29,4 @@ Post-determiners occur with an article, and follow the noun. Some of these are d
 * _<b>an</b> duine <b>eile</b>_ "the other person"
 
 
-<!-- Interlanguage links updated Út zář 29 20:22:58 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:27 CEST 2020 -->

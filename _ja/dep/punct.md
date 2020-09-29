@@ -18,4 +18,4 @@ punct(走る, 。)
 punct(太郎, 、)
 conj(太郎, 次郎)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:43 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:32:01 CEST 2020 -->

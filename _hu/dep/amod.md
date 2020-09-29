@@ -5,4 +5,4 @@ shortdef: 'adjectival modifier'
 ---
 
 Adverbial uses of adjectives are marked with amod:mode (szépen - nicely, which is marked as adjective in the Hungarian data). Other (attributive) uses of adjectives are marked with amod:att.
-<!-- Interlanguage links updated Út zář 29 20:23:18 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:42 CEST 2020 -->

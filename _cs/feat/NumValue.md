@@ -41,4 +41,4 @@ to mark these numerals.
 ### <a name="3">`3`</a>: numeric value 3 or 4
 
 * _tři_ “three”, _čtyři_ “four”
-<!-- Interlanguage links updated Út zář 29 20:23:10 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:36 CEST 2020 -->

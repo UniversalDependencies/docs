@@ -12,4 +12,4 @@ Tokens with the relation punct always attach to content words (except in cases o
   * Within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity.
   * Paired punctuation marks (quotes and brackets) should be attached to the same word unless that would create non-projectivity. This word is usually the head of the phrase enclosed in the paired punctuation.
 
-<!-- Interlanguage links updated Út zář 29 20:23:43 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:32:01 CEST 2020 -->

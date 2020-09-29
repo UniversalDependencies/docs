@@ -21,4 +21,4 @@ Examples: <i><b>suurem</b> maja</i> "bigger house",
 Sup: superlative. The quality of one object is compared to the same quality of all other objects within a set.
 Examples: <i><b>suurim</b> maja</i> "the biggest house",
 <i><b>tuntuim</b> poliitik</i> "the best-known politician"
-<!-- Interlanguage links updated Út zář 29 20:23:07 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:34 CEST 2020 -->

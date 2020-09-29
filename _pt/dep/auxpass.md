@@ -21,4 +21,4 @@ auxpass(chamado, é)
 é chegado o momento
 auxpass(chegado, é)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:20 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:44 CEST 2020 -->

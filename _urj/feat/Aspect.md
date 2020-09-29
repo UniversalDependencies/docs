@@ -20,4 +20,4 @@ be taken when comparing aspect values to traditional grammars:
 #### Examples
 
 The Aspect feature is not used in currently existing Uralic treebanks.
-<!-- Interlanguage links updated Út zář 29 20:23:06 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:33 CEST 2020 -->

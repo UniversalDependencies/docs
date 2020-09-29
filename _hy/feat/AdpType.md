@@ -44,4 +44,4 @@ a postposition) as in _դեմ հանդիման_ “in front of”.
 #### Examples
 
 * _ի <b>հեճուկս</b>_ “to spite”, _ի <b>փառս</b>_ “in praise of”
-<!-- Interlanguage links updated Út zář 29 20:23:05 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:33 CEST 2020 -->

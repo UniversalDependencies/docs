@@ -15,4 +15,4 @@ ccomp(言っ, 行く)
 aux(言っ, た)
 punct(言っ, 。)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:34 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:55 CEST 2020 -->

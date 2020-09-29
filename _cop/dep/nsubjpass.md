@@ -6,4 +6,4 @@ udver: '2'
 ---
 
 The relation `nsubjpass` is not used in Coptic. For both transitive stative subjects and third person plural pseudo-passivization, use `nsubj`.
-<!-- Interlanguage links updated Út zář 29 20:23:38 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:57 CEST 2020 -->

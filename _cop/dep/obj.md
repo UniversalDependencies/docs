@@ -30,4 +30,4 @@ obj(ϥⲓ, ⲛⲟⲩⲧⲉ)
 case(ⲛⲟⲩⲧⲉ, ⲛ)
 det(ⲛⲟⲩⲛⲧⲉ, ⲛⲉⲕ)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:39 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:59 CEST 2020 -->

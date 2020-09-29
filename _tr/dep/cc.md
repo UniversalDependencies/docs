@@ -62,4 +62,4 @@ even there is no [conj]() is also called ``cc``.
 Ve film başladı . \n And, the movie started.
 cc(başladı, Ve)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:22 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:45 CEST 2020 -->

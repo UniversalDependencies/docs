@@ -5,4 +5,4 @@ shortdef: 'unspecified dependency'
 ---
 
 A dependency is labeled as dep when a system is unable to determine a more precise dependency relation between two words. This relation is not used for Norwegian.
-<!-- Interlanguage links updated Út zář 29 20:23:28 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:50 CEST 2020 -->

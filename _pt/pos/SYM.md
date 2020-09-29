@@ -38,4 +38,4 @@ are not symbols, they are punctuation.
 - _:)_, _♥‿♥_, 😝
 - _john.doe@universal.org_, _http://universaldependencies.org/_,
   _1-800-COMPANY_
-<!-- Interlanguage links updated Út zář 29 20:23:03 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:31 CEST 2020 -->

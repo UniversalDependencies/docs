@@ -20,4 +20,4 @@ Note: This feature is new in UD version 2. It was used as a language-specific ad
 ### <a name="Yes">`Yes`</a>: it is abbreviation
 
 Examples: [en] _<b>etc.</b>, <b>J.</b>, <b>UK</b>_
-<!-- Interlanguage links updated Út zář 29 20:23:05 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:33 CEST 2020 -->

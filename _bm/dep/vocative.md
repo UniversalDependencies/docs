@@ -23,4 +23,4 @@ The `vocative` relation is used when someone is being addressed directly in a di
 ~~~
 
 'Man, where do you go?'
-<!-- Interlanguage links updated Út zář 29 20:23:44 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:32:02 CEST 2020 -->

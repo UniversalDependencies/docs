@@ -33,4 +33,4 @@ Localizers (also known as 方位詞 / _fāngwèicí_) serving as postpositions,
   - (之)上 / _(zhī)shàng_ "above", (以)下 / _(yǐ)xià_ "below, beneath", 內 / _nèi_ "inside", 後 / _hòu_ "behind; after", 前 / _qián_ "in front; before", 中 / _zhōng_ "in the middle; during", 時 / _shí_ "during"
 
 
-<!-- Interlanguage links updated Út zář 29 20:22:56 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:26 CEST 2020 -->

@@ -13,4 +13,4 @@ csubj(алды-9, қашау-6)
 dobj(алды-9, орын-8)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:23:27 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:49 CEST 2020 -->

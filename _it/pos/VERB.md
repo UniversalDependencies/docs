@@ -24,4 +24,4 @@ V:	Main verb
 - _corse, mangiò_
 - _correndo, mangiando_
 - è _stata mangiata_
-<!-- Interlanguage links updated Út zář 29 20:23:04 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:32 CEST 2020 -->

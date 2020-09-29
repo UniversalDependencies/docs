@@ -8,4 +8,4 @@ We use the `nmod:comp` relation for the comparator in comparison constructions l
 than Y", in Turkic, the "than Y" is in the ablative case and this depends on the adjective X. 
 
 
-<!-- Interlanguage links updated Út zář 29 20:23:36 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:56 CEST 2020 -->

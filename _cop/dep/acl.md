@@ -29,4 +29,4 @@ acl(ⲛ,ⲟⲩⲁⲁⲃ)
 mark(ⲟⲩⲁⲁⲃ,ⲉⲧ-7)
 obl(ϣⲟⲟⲡ,ⲛ)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:14 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:40 CEST 2020 -->

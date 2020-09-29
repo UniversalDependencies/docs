@@ -18,4 +18,4 @@ For _coordinating conjunctions,_ see [CCONJ]().
 - if : So <b>if</b> we catch you make you no vex.
 - because : <b>Because</b> speed im dey lead to accident.
 - as : anoder thing wey i want follow una relate na di attitude of sey make we dey use phone <b>as</b> we dey drive.
-<!-- Interlanguage links updated Út zář 29 20:23:03 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:31 CEST 2020 -->

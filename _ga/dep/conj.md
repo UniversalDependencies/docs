@@ -35,4 +35,4 @@ Ná déan níos mó moille ná mar is gá . \n IMP_NEG do SUP(pres) more of_dela
 conj(déan, gá)
 cc(gá, ná)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:25 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:47 CEST 2020 -->

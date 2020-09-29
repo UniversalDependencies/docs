@@ -5,4 +5,4 @@ shortdef: 'adposition'
 ---
 
 The English `ADP` covers the Penn Treebank RP, and a subset of uses of IN (when not a complementizer or subordinating conjunction) and TO (in old treebanks which used this for _to_ even when used as a preposition).
-<!-- Interlanguage links updated Út zář 29 20:22:55 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:26 CEST 2020 -->

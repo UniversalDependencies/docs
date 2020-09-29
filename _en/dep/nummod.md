@@ -21,4 +21,4 @@ nummod(dollars, forty)
 Sam spent $ 40
 nummod($, 40)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:38 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:58 CEST 2020 -->

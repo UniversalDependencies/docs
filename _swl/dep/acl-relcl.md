@@ -13,4 +13,4 @@ head of the relative clause. Relative clauses are often marked only with non-man
 JA@ub@z POJKE LITEN-PERSON@kl SE-UT SJU_ÅTTA ÅR@b HUND SITTA(VVb) TITTA-PÅ@z TITTA-PÅ \n A small boy (who) seems to be about 7 or 8 is sitting with a dog, looking.
 acl:relcl(POJKE, ÅR@b)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:15 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:40 CEST 2020 -->

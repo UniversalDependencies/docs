@@ -46,4 +46,4 @@ Centro - destra
 compound(Centro, destra)
 punct(Centro, -)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:23 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:46 CEST 2020 -->

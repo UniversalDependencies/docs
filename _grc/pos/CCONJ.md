@@ -14,4 +14,4 @@ Coordinating conjunctions are invariable words that connect two constituents wit
 * καί "and"
 * τε "and"
 * ἀλλά "but"
-<!-- Interlanguage links updated Út zář 29 20:22:57 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:27 CEST 2020 -->

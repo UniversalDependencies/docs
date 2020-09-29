@@ -33,4 +33,4 @@ We can go somewhere nice .
 amod(somewhere, nice)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:23:18 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:42 CEST 2020 -->

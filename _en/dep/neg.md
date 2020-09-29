@@ -21,4 +21,4 @@ neg(drive, n't)
 John saw no accidents
 neg(accidents, no)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:35 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:55 CEST 2020 -->

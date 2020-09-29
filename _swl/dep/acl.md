@@ -11,4 +11,4 @@ The category `acl` is used for adverbial modification of a noun, but not for mod
 POJKE SITTA VARELSE-Vb-BEFINNA-SIG LEDSEN \n The-boy sat (there), sad
 acl(POJKE, LEDSEN)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:15 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:40 CEST 2020 -->

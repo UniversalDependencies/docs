@@ -15,4 +15,4 @@ Adposition is a cover term for prepositions and postpositions. French has only p
 - _de_ "of, to"
 - _à_ "to"
 - _dans_ "in"
-<!-- Interlanguage links updated Út zář 29 20:22:55 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:26 CEST 2020 -->

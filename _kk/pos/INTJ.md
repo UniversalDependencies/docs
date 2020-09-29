@@ -14,4 +14,4 @@ part of an exclamation.
 * [kk] _әлбетте_, "of course"
 * [kk] _аһ_ 
 
-<!-- Interlanguage links updated Út zář 29 20:22:59 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:28 CEST 2020 -->

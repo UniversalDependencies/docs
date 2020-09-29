@@ -54,4 +54,4 @@ The transgressive, also called adverbial participle, is a non-finite verb form t
 All verbs with feature VForm=present, VForm=future, VForm=conditional and VForm=imperative are converted to UD `VerbForm=Fin`. All verbs with VForm=Infinitive are converted to UD `VerbForm=Inf`, all verbs with VForm=Supine are converted to UD `VerbForm=Supine`, and all verbs with VForm=Participle are converted to UD `VerbForm=Part`. Additionally, all adjectives with Type=participle are converted to UD `VerbForm=Part` and all adverbs with Type=participle are converted to UD `VerbForm=Trans`.
 
 Note that `gerunds` are currently marked as [nouns](NOUN) and do not have a special `VerbForm` feature to distinguish them from other common nouns.
-<!-- Interlanguage links updated Út zář 29 20:23:14 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:39 CEST 2020 -->

@@ -50,4 +50,4 @@ This is a subtype of adverb but in Komi-Permyak it is a regular inflection of vi
 * [koi] _куимисьӧн, нёлисьӧн, витісьӧн_ "_three times each, four times each, five times each_"
 
 
-<!-- Interlanguage links updated Út zář 29 20:23:10 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:36 CEST 2020 -->

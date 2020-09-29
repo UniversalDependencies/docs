@@ -45,4 +45,4 @@ Smlouva byla podepsána červeným inkoustem . \n Contract was signed in-red ink
 cop(podepsána, byla)
 cop(signed, was)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:20 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:44 CEST 2020 -->

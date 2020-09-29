@@ -24,4 +24,4 @@ name(Donna-5, Tarttin-6)
 nmod:poss(esikoisteos-7, Donna-5)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:23:32 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:53 CEST 2020 -->

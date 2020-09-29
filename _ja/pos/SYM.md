@@ -26,4 +26,4 @@ ascii art symbols tagged with `supplementary_symbol(ascii_art.emoticon)` / 補�
 - _$, %, §, ©_
 - _+, −, ×, ÷, =, <, >_  `supplementary_symbol(general)` /  補助記号-一般
 - :), (*^o^*), (゜∀゜)   `supplementary_symbol(ascii_art.emoticon)` / 補助記号-ＡＡ-顔文字 
-<!-- Interlanguage links updated Út zář 29 20:23:03 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:31 CEST 2020 -->

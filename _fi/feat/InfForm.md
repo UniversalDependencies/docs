@@ -55,4 +55,4 @@ The third infinitive is also known as the MA-infinitive.
 #### References
 
 * <http://kaino.kotus.fi/visk/sisallys.php?p=121> (in Finnish)
-<!-- Interlanguage links updated Út zář 29 20:23:08 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:35 CEST 2020 -->

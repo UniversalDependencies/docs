@@ -16,4 +16,4 @@ vocative(faites, gars)
 David , comment ça va ? \n David, how 's it going ?
 vocative(va, David)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:44 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:32:02 CEST 2020 -->

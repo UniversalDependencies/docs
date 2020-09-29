@@ -14,4 +14,4 @@ punct (nägi-2, .-4)
 ~~~
 
 The cat saw the dog.
-<!-- Interlanguage links updated Út zář 29 20:23:37 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:57 CEST 2020 -->

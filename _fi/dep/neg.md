@@ -27,4 +27,4 @@ Consequently, *ei* (“not”) represents a normal negation verb
 in these combinations and gets annotated `neg`.
 On the other hand, *eikä* (“and+not”) is treated as a single
 token with a clitic particle (and also marked as `neg`).
-<!-- Interlanguage links updated Út zář 29 20:23:35 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:55 CEST 2020 -->

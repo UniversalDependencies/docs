@@ -18,4 +18,4 @@ For _subordinating conjunctions,_ see [SCONJ]().
 - _և&nbsp;_ “and”
 - _կամ&nbsp;_ “or”
 - _բայց&nbsp;_ “but”
-<!-- Interlanguage links updated Út zář 29 20:22:57 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:27 CEST 2020 -->

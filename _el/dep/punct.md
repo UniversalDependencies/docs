@@ -109,4 +109,4 @@ Tokens with the relation [u-dep/punct]() always attach to content words (except 
 
 
 
-<!-- Interlanguage links updated Út zář 29 20:23:43 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:32:01 CEST 2020 -->

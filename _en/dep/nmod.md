@@ -48,4 +48,4 @@ Nominal modifiers not marked by a preposition or 's genitive
 are tagged [nmod:npmod](), a subtype of `nmod`. Temporal nominal
 modifiers are also marked with a separate relation [nmod:tmod](). See
 the definitions of these relations.
-<!-- Interlanguage links updated Út zář 29 20:23:35 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:55 CEST 2020 -->

@@ -58,4 +58,4 @@ In Bulgarian it can be derived only from imperfective verbs.
 
 Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
 
-<!-- Interlanguage links updated Út zář 29 20:23:13 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:39 CEST 2020 -->

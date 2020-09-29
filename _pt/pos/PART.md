@@ -15,4 +15,4 @@ Examples:
 Negative particles: não, nem 
 
 Prefixes: anti-, ex-, pós-, vice-, primeiro-, pró-, infra-
-<!-- Interlanguage links updated Út zář 29 20:23:01 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:29 CEST 2020 -->

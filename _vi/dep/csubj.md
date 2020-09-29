@@ -14,4 +14,4 @@ nsubj(nói, Anh)
 neg(đúng, không)
 punct(đúng, 。)
 </code></pre>
-<!-- Interlanguage links updated Út zář 29 20:23:27 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:49 CEST 2020 -->

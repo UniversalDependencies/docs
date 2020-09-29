@@ -30,4 +30,4 @@ advmod(pulled, out)
 The dentist pulled the tooth out
 advmod(pulled, out)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:24 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:47 CEST 2020 -->

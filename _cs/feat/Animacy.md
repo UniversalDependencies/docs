@@ -42,4 +42,4 @@ Nouns that are not animate are inanimate.
 PDT examples of masculine inanimate nouns:
 
 - _rok&nbsp;_ “year”, _zákon&nbsp;_ “law”, _stát&nbsp;_ “state”, _případ&nbsp;_ “case”, _milión&nbsp;_ “million”
-<!-- Interlanguage links updated Út zář 29 20:23:05 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:33 CEST 2020 -->

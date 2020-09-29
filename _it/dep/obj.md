@@ -28,4 +28,4 @@ dobj(ami, Mi)
 Hanno fatto fuoco prima su mio marito . 
 dobj(fatto, fuoco)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:39 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:59 CEST 2020 -->

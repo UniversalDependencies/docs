@@ -35,4 +35,4 @@ In Naija, function words which are used to negate are marked with the `Polarity`
 Positive polarity (affirmativeness) is rarely, encoded using overt morphology. Naija uses it to distinguish response [interjections](pcm-pos/INTJ) yes and no.
 
 * _dem want come every day ? <b>yes</b>_ "Do they want to come every day ? Yes"
-<!-- Interlanguage links updated Út zář 29 20:23:11 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:37 CEST 2020 -->

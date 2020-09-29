@@ -16,4 +16,4 @@ Ew ji lêzimên xwe re pereyan dişînin . \n They send money to their relatives
 obj(dişînin, pereyan)
 obj(send, money)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:39 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:59 CEST 2020 -->

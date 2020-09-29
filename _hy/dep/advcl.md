@@ -26,4 +26,4 @@ advcl(must, you-know)
 advcl(շտապում, հասնի)
 advcl(rushed, arrive)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:16 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:41 CEST 2020 -->

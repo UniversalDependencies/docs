@@ -32,4 +32,4 @@ Gerund is a non-finite verb form that shares properties of verbs and nouns.
 #### Example
 
 * _how many minute wey dem do <b>overhauling</b> ?_ "For how many minutes are they overhauling ?"
-<!-- Interlanguage links updated Út zář 29 20:23:14 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:39 CEST 2020 -->

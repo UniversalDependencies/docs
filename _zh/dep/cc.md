@@ -45,4 +45,4 @@ The coordinating conjunction links a conjunction word to its immediately followi
 5	teach."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:22 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:45 CEST 2020 -->

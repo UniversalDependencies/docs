@@ -56,4 +56,4 @@ Family name (surname). This is usually the last name in European and American na
 ### `Oth`: other
 
 Names of stadiums, guerilla bases, events etc.
-<!-- Interlanguage links updated Út zář 29 20:23:09 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:36 CEST 2020 -->

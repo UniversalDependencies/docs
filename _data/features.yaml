@@ -208,7 +208,7 @@
   - label: 'tr/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
-- label: 'Gender-psor'
+- label: 'Gender:psor'
   languages:
   - label: 'cs/feat'
   - label: 'sl/feat'
@@ -281,7 +281,7 @@
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urj/feat'
-- label: 'Number-psor'
+- label: 'Number:psor'
   languages:
   - label: 'cs/feat'
   - label: 'fi/feat'
@@ -351,7 +351,7 @@
   - label: 'u/feat'
   - label: 'uk/feat'
   - label: 'urj/feat'
-- label: 'Person-psor'
+- label: 'Person:psor'
   languages:
   - label: 'fi/feat'
   - label: 'hy/feat'

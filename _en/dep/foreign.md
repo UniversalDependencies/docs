@@ -16,4 +16,4 @@ foreign(c'-4, est-5)
 foreign(c'-4, la-6)
 foreign(c'-4, vie-7)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:32 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:53 CEST 2020 -->

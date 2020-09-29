@@ -29,4 +29,4 @@ In UniDic, these words are tagged with `noun` / 名詞-普通名詞-一般 or �
 - _<b>副</b>&nbsp; 社長&nbsp;_ “<b>vice</b> president” (`prefix` / 接頭辞)
 - _付属&nbsp; <b>品</b>&nbsp;_ “accessory / _lit._ supplementary <b>parts</b>” (`suffix` / 接尾辞)
 - _5&nbsp; <b>回</b>&nbsp;_ “5 <b>times</b>” (`noun (common.counter)` / 名詞-普通名詞-助数詞可能)
-<!-- Interlanguage links updated Út zář 29 20:22:59 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:28 CEST 2020 -->

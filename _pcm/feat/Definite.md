@@ -27,4 +27,4 @@ In Naija, articles carry a `Definite` feature.
 #### Example
 
 *  _you dey do two tins at <b>di</b> same time_ "you are doing two things at the same time"
-<!-- Interlanguage links updated Út zář 29 20:23:07 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:34 CEST 2020 -->

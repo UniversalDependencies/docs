@@ -58,4 +58,4 @@ Typical examples of expressive words in the Czech data are diminutives:
 ### <a name="Vulg">`Vulg`</a>: vulgar
 
 * _parchant, suchoprd, bordel, nablito_
-<!-- Interlanguage links updated Út zář 29 20:23:13 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:38 CEST 2020 -->

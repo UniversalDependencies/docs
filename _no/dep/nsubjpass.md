@@ -16,4 +16,4 @@ FN ble opprettet for å sikre verdensfreden \n FN was established to secure worl
 nsubjpass(opprettet,FN)
 auxpass(opprettet,ble)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:38 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:58 CEST 2020 -->

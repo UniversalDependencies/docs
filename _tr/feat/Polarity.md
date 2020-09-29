@@ -33,4 +33,4 @@ We (currently) do not mark adjectives for the `Polarity` feature.
 - _Oku<b>ma</b>yacak_ "he/she will not read"
 - _Ali doktor <b>değil</b>_ "Ali is not a doctor"
 
-<!-- Interlanguage links updated Út zář 29 20:23:11 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:37 CEST 2020 -->

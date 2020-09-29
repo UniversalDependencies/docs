@@ -14,4 +14,4 @@ The UD feature `Poss` is not used in UD Finnish.
 #### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=100> (in Finnish)
-<!-- Interlanguage links updated Út zář 29 20:23:11 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:37 CEST 2020 -->

@@ -37,4 +37,4 @@ we use the same label.
 - _okuyarak daha iyi öğreniyor_ "She/he learns better by reading"
 - _raporu yazılı olarak istiyorlar_ "They want the report in written form"
 - _okuyunca anlayacaksın_ "You will understand when you read it"
-<!-- Interlanguage links updated Út zář 29 20:23:14 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:39 CEST 2020 -->

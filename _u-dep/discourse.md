@@ -21,4 +21,4 @@ not dependents of the predicates as such.
 Iguazu is in Argentina :)
 discourse(Argentina-4, :)-5)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:29 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:51 CEST 2020 -->

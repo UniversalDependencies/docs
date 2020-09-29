@@ -21,4 +21,4 @@ Universitetet i Bergen
 name(Universitetet-1,i-2)
 name(Universitetet-1,Bergen-3)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:32 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:53 CEST 2020 -->

@@ -37,4 +37,4 @@ The `amod:flat` relation is used in the Polish [PDB-UD](http://universaldependen
 11	Association	_	_	_	_	_	_	_	_
 12	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:18 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:43 CEST 2020 -->

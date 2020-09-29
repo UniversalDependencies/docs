@@ -33,4 +33,4 @@ nsubj(түс-3, Сары-1)
 amod(түс-3, жылы-2)
 punct(түс-3, .-4)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:37 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:57 CEST 2020 -->

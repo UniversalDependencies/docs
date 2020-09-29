@@ -57,4 +57,4 @@ The adjectival participle is a non-finite verb form that shares properties of ve
 - _принісши_ &nbsp;“having brought” (past adverbial participle)
 - _несений, несена, несене, несені_ &nbsp;“carried” (passive adjectival participle in different genders and numbers)
 - _несучий, несуча, несуче, несучі_ &nbsp;“carrying” (present adjectival participle in different genders and numbers)
-<!-- Interlanguage links updated Út zář 29 20:23:14 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:39 CEST 2020 -->

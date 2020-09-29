@@ -12,4 +12,4 @@ ROOT Minä pidän oluesta .
 root(ROOT, pidän)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:23:44 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:32:02 CEST 2020 -->

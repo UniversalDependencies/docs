@@ -47,4 +47,4 @@ conj(Азамат-3, пен-4)
 ccomp(қарап-7, ойнағанына-6)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:23:19 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:43 CEST 2020 -->

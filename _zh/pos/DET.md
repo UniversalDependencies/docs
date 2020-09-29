@@ -24,4 +24,4 @@ Note that Chinese does not traditionally define determiners as a separate word c
   - 哪 / _nǎ_ "which", 哪樣 / _nǎyàng_ "which (kind/type/way)", 什麼 / _shénme_ "what", 何 / _hé_ "what", 多少 / _duōshǎo_ "how many" 
 - Other
   - 上 / _shàng_ "the previous", 下 / _xià_ "the next", 前 / _qián_ "the previous", 後 / _hòu_ "the following", 頭 / _tóu_ "the first", 其餘 / _qíyú_ "the rest", 某 / _mǒu_ "some, certain (singular)", 某些 / _mǒuxiē_ "some, certain (plural)", 其他 / _qítā_ "other", 另 / _lìng_ "another", 同 / _tóng_ "the same"
-<!-- Interlanguage links updated Út zář 29 20:22:58 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:28 CEST 2020 -->

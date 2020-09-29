@@ -117,4 +117,4 @@ constructions (cf. the English preposition _by_).
 
 * _Этот закон был одобрен <b>правительством</b>.&nbsp;_ “This bill has been
   approved <b>by the government</b>.” (Passive example)
-<!-- Interlanguage links updated Út zář 29 20:23:06 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:34 CEST 2020 -->

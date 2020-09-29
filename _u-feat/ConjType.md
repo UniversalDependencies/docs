@@ -20,4 +20,4 @@ words.
 Examples: [cs] krát (times), plus, minus
 
 
-<!-- Interlanguage links updated Út zář 29 20:23:06 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:34 CEST 2020 -->

@@ -17,4 +17,4 @@ neg(canta, no)
 Nunca llueve . \n It never rains .
 neg(llueve, Nunca)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:35 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:55 CEST 2020 -->

@@ -98,4 +98,4 @@ Verbal particles include the positive particles _<b>a, gur</b>_ and the negative
 ### `Voc` : vocative 
 
 The vocative particle is _<b>a</b>_, and is used to directly address someone. In this circumstance, it triggers lenition in the following noun. See [Case]()
-<!-- Interlanguage links updated Út zář 29 20:23:10 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:36 CEST 2020 -->

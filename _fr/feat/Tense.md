@@ -6,4 +6,4 @@ udver: '2'
 ---
 
 `Tense` only occurs on verbs in French, with one of the four following values: Past, Pres, Fut or Imp.
-<!-- Interlanguage links updated Út zář 29 20:23:13 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:38 CEST 2020 -->

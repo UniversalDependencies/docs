@@ -52,4 +52,4 @@ cc(went, and)
 See [universal/conj](u-dep/conj) for more details on various coordination-related issues.
 Note that the present conversion procedure loses some annotations of shared modifiers and nested
 coordination.
-<!-- Interlanguage links updated Út zář 29 20:23:24 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:47 CEST 2020 -->

@@ -15,4 +15,4 @@ compound(kommit, fram)
 Vilka får vara med ? \n Who can join ?
 compound(vara, med)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:24 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:47 CEST 2020 -->

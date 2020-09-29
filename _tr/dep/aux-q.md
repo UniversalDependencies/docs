@@ -33,4 +33,4 @@ Kitabı mı Ali'den aldın ? \n Did you take _the book_ from Ali ?
 aux:q(Kitabı, mı)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:23:20 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:44 CEST 2020 -->

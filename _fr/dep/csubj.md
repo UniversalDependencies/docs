@@ -17,4 +17,4 @@ csubj(embête, vienne)
 créer des choses qui durent m'a paru être essentiel \n creating things that last seemed essential to me
 csubj(paru, créer)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:26 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:49 CEST 2020 -->

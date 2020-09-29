@@ -10,4 +10,4 @@ háza house-3SGPOSS "his house" Number[psor]=Sing|Person[psor]=3|Number[psed]=No
 
 házam house-1SGPOSS "my house" Number[psor]=Sing|Person[psor]=1|Number[psed]=None
 
-<!-- Interlanguage links updated Út zář 29 20:23:10 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:37 CEST 2020 -->

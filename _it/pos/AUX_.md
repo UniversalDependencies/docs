@@ -32,4 +32,4 @@ V: Copula
 - Passive auxiliaries: _<b>fu</b> distrutto_ "it was destroyed", _<b>è stato</b> comprato_ "it has been bought"
 - Modal auxiliaries: _<b>dovrebbe</b> fare_ "he should do", _<b>può</b> avere successo_ "he can have success"
 - Copulas: _<b>è</b> una ragazza intelligente_ "she is a smart girl"
-<!-- Interlanguage links updated Út zář 29 20:22:57 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:27 CEST 2020 -->

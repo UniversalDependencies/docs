@@ -65,4 +65,4 @@ It can also be used for temporal and locational nominal modifiers:
 
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:23:40 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:59 CEST 2020 -->

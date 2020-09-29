@@ -55,4 +55,4 @@ advmod(bizi_dira-4, nagusiki-5)
 punct(bizi_dira-4, .-6)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:23:35 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:55 CEST 2020 -->

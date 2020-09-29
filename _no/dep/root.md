@@ -10,4 +10,4 @@ The root grammatical relation points to the root of the sentence.
 ROOT Men så smalt det igjen \n But then it said bang again
 root(ROOT, smalt)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:44 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:32:02 CEST 2020 -->

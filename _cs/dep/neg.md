@@ -24,4 +24,4 @@ Premiér není žádný hlupák . \n The-Prime-Minister is-not no fool .
 det(hlupák, žádný)
 det(fool, no)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:23:35 CEST 2020 -->
+<!-- Interlanguage links updated Út zář 29 20:31:55 CEST 2020 -->
