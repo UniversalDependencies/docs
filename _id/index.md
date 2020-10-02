@@ -20,7 +20,9 @@ udver: '2'
   * Multiword tokens that contain clitics of _-ku_ "me/my", _-mu_ "you/your", _-nya_ "he/him/she/her/it" are split into two tokens, with exceptions for words ended with _-nya_. 
     * Words ended with _-nya_ where _-nya- itself serves as  a pronoun or determiner are split into two tokens. For example:
       * Word _-nya_ as pronoun, as in _mencintai**nya**_ "love **him/her/it**", this token is split into _mencintai_ "love" and _**nya**_ "him/her/it".
-      * Word _-nya_ as determiner, as in _buku**nya**_ "**his/her/its** book", this token is split into _buku_ "book" and _**nya**_ "his/her/its".
+      * Word _-nya_ as posessive pronoun, as in _buku**nya**_ "**his/her/its** book", this token is split into _buku_ "book" and _**nya**_ "his/her/its".
+      * Word _-nya_ as determiner in predicate nominalisation case, as in _meningkat**nya**_ "**the** increase", this token is split into _meningkat_ "increase" and _**nya**_ "the".
+
       
     * Words ended with _-nya_ that functions as adverbs, adjectives or auxiliary are **not** split. For example:
       * adverbs ended with _-nya_: _khusus**nya**_ "especially", _awal**nya**_ "initially", _akhir**nya**_ "finally"
