@@ -34,8 +34,9 @@ Also close up _dhà-na-tri_ (see fp05_012).
 
 ### Multiword tokens
 
-The original version of ARCOSG contains multiword tokens.
-For UD, however, we need to split these up. For the moment we duplicate the UPOS and the XPOS for each of the words.
+The original version of ARCOSG contains tokens that contain spaces.
+For UD, however, we need to split these up.
+For the moment we duplicate the UPOS and the XPOS for each of the words.
 PROPNs have a `flat` relation; others have a `fixed` relation but this needs to be improved.
 
 Some difficult cases follow:
@@ -44,30 +45,37 @@ Ideally this should be exactly parallel with _nas_.
 #### _sam bith_
 _rud sam bith_, 'whatever' and so forth. Currently both _sam_ and _bith_ are marked as `ADJ` but there is clearly internal structure.
 
+Conversely, there are single tokens in ARCOSG that correspond to more than one word in the UD sense.
+Here are the most common families:
+* Inflected prepositions (tagged `Pr*` in ARCOSG) such as _orm_, _agam_ and _ann_ are divided into the preposition which is `ADP` and the personal pronoun which is `PRON`.
+* Similarly prepositions (tagged `Spa-s` in ARCOSG) which have been fused with a following article such as _dhan_, _mun_, _tron_ are divided into a preposition and an article. _'san_ and the like, which are short for _anns an_, are divided into two `ADP`s with a `fixed` relation between the two.
+* Prepositions and aspect markers (see below) which have been fused with a possessive pronoun (tagged `Sap*` or `Spp*`) in ARCOSG.
+* Where _'se_ and _'sann_ are a single orthographical word they too are separated out. See the section on _is_ below for details.
+
 ## Morphology
 
 ### Tags
 
 Standard UPOS tags are used throughout. Generally we follow the choices made in the Irish UD treebanks.
-* AUX is used for _is_ (the copula) only. _bi_ is tagged as VERB.
-* The following words are tagged PART: the adverbialiser _gu_ (_gu math_ 'well'), the comparative particle _nas_, the superlative particle _as_, the agreement particle _a_ (_a dol_ 'to go'), the vocative particle _a_ (_a Sheumais_ 'James'), the patronymic particles _Mac_ and _Nic_, the numerical particle _a_ (_a h-aon) 'one'), the past tense marker _do_, the negative particles _cha_ and _nach_, the interrogative particles _a_ and _an_ and the relative particle _a_.
-* Verbal nouns are tagged as NOUN.
-* Deverbal adjectives are tagged as ADJ.
-* The aspectual particles _ag_/_a'_, _air_, _gu_ and _ri_ (all prototypically adpositions) are tagged as ADP.
-* Demonstrative pronouns, _seo_, _sin_ and _siud_ are tagged as PRON as in Irish.
-* If they are acting as determiners (and tagged as Dd in ARCOSG) then they are tagged DET, as in Irish again.
+* `AUX` is used for _is_ (the copula) only. _bi_ is tagged as `VERB`.
+* The following words are tagged `PART`: the adverbialiser _gu_ (_gu math_ 'well'), the comparative particle _nas_, the superlative particle _as_, the agreement particle _a_ (_a dol_ 'to go'), the vocative particle _a_ (_a Sheumais_ 'James'), the patronymic particles _Mac_ and _Nic_, the numerical particle _a_ (_a h-aon) 'one'), the past tense marker _do_, the negative particles _cha_ and _nach_, the interrogative particles _a_ and _an_ and the relative particle _a_.
+* Verbal nouns are tagged as `NOUN`.
+* Deverbal adjectives are tagged as `ADJ`.
+* The aspectual particles _ag_/_a'_, _air_, _gu_ and _ri_ (all prototypically adpositions) are tagged as `ADP`.
+* Demonstrative pronouns, _seo_, _sin_ and _siud_ are tagged as `PRON` as in Irish.
+* If they are acting as determiners (and tagged as `Dd` in ARCOSG) then they are tagged `DET`, as in Irish again.
 
 ### Features
 
 Gaelic has two genders (masculine and feminine), four cases (nominative/accusative, genitive, dative and vocative), three numbers (singular, dual and plural), the usual three persons and an impersonal form.
 
-The words _fèin_ and _cheile_ take Reflex = Yes.
+The words _fèin_ and _cheile_ take `Reflex=Yes`.
 
-The indicative mood is default and we mark the conditional (Cnd), imperative (Imp) and interrogative (Int) moods. The tenses we mark are 
+The indicative mood is default and we mark the conditional (`Cnd`), imperative (`Imp`) and interrogative (`Int`) moods. The tenses we mark are 
 
-We also follow Irish in marking three pronoun types (Emp = emphatic, Int = interrogative and Rel = relative), polarity (Neg on negative particles) and the following particle types: Ad (adverbialiser), Comp (comparative), Cmpl (complement), Inf (agreement particle), Int (interrogative), Num (numerical), Pat (patronymic), Vb (verbal) and Voc (vocative).
+We also follow Irish in marking three pronoun types (`Emp` = emphatic, `Int` = interrogative and `Rel` = relative), polarity (`Neg` on negative particles) and the following particle types: `Ad` (adverbialiser), `Comp` (comparative), `Cmpl` (complement), `Inf` (agreement particle), `Int` (interrogative), `Num` (numerical), `Pat` (patronymic), `Vb` (verbal) and `Voc` (vocative).
 
-We also have Foreign=Yes for words that are in Irish or English according to the original ARCOSG tagging.
+We also have `Foreign=Yes` for words that are in Irish or English according to the original ARCOSG tagging.
 
 ## Syntax
 
@@ -159,12 +167,15 @@ This means 'almost'. See s08_061b for an example. Use `nmod`.
 ### _is_
 _'S_, _b'_, _bu_, _'se_, _'sann_ and so on are `cop` and the root is whatever has been fronted by it.
 We treat _'S e_ as a fixed expression where _e_ has a `fixed` relation with the `AUX`.
-Again we follow Irish and whatever comes after the root is a subject, be it a nominal subject, `nsubj`, or a clausal subject, `csubj:cop`.
+Likewise _'S ann_, except of course _ann_ is divided up into _an_ and _e_ and both have a `fixed` relation with the `AUX`.
+
+Following Cox in _Geàrr Ghràmar na Gàidhlig_, p. 284, in phrases like _is ann a cheannaich mi bainne_, _cheannaich_ is still the root even though it's preceded by a relative particle.
+
+Again we follow Irish and whatever comes after the root is a subject, be it a nominal subject, `nsubj`, or a clausal subject, `csubj:cleft` or `csubj:cop`.
 
 ### _mas_
 
-_Mas_ ('if') has a `cop` relation to the _e_ that follows and has UPOS `AUX`.
-(It has XPOS `Csw` and usually `Cs` words are `SCONJ`.)
+_Mas_ ('if') is divided into the two words _ma_ (`SCONJ`) and _is_ (`AUX`).
 
 ### _nach maireann_
 
