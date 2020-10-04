@@ -2,6 +2,7 @@
 layout: relation
 title: 'mark'
 shortdef: 'marker'
+udver: '2'
 ---
 
 Subordinating conjunction, conjunctive particle, complementizer (と / to, か / ka).
@@ -15,4 +16,4 @@ ccomp(言っ, 行く)
 aux(言っ, た)
 punct(言っ, 。)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:20 CEST 2020 -->
+
