@@ -2,6 +2,7 @@
 layout: relation
 title: 'det'
 shortdef: 'determiner'
+udver: '2'
 ---
 
 The dependency type `det` is for a closed set of [adnominals](DET).
