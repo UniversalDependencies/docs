@@ -2,6 +2,7 @@
 layout: relation
 title: 'compound'
 shortdef: 'compound'
+udver: '2'
 ---
 
 The dependency type `compound` in UD Japanese is used for noun compounds and verb compounds.
@@ -15,4 +16,4 @@ compound(解析, 構文)
 泳ぎ 着く \n swim reach
 compound(着く, 泳ぎ)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:12 CEST 2020 -->
+
