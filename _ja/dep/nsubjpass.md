@@ -2,7 +2,10 @@
 layout: relation
 title: 'nsubjpass'
 shortdef: 'passive nominal subject'
+udver: '1'
 ---
+
+This page is obsolete.
 
 Nominal subjects in passive forms.
 
@@ -13,4 +16,4 @@ auxpass(ほめ, られる)
 case(太郎, が)
 punct(ほめ, 。)
 ~~~ 
-<!-- Interlanguage links updated Út zář 29 20:43:23 CEST 2020 -->
+
