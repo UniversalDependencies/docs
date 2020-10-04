@@ -2,6 +2,7 @@
 layout: relation
 title: 'ccomp'
 shortdef: 'clausal complement'
+udver: '2'
 ---
 
 Clausal complements are typically introduced by a postpositional particle と / *to* "that".
@@ -15,4 +16,4 @@ aux(きれい, だ)
 case(きれい, と)
 punct(思う, 。)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:12 CEST 2020 -->
+
