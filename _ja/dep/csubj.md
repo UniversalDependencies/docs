@@ -2,6 +2,7 @@
 layout: relation
 title: 'csubj'
 shortdef: 'clausal subject'
+udver: '2'
 ---
 
 A clausal subject (`csubj`) is commonly introduced by a pair of particles,
@@ -19,4 +20,4 @@ case(怒ら, は)
 aux(いや, だ)
 punct(いや, 。)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:15 CEST 2020 -->
+
