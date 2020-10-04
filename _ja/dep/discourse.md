@@ -2,6 +2,7 @@
 layout: relation
 title: 'discourse'
 shortdef: 'discourse element'
+udver: '2'
 ---
 
 Discourse elements (`discourse`) in UD Japanese is interjection and emoticons.
@@ -12,4 +13,4 @@ discourse(つかれ, あー)
 aux(つかれ, た)
 punct(つかれ, 。)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:17 CEST 2020 -->
+
