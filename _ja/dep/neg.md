@@ -2,6 +2,7 @@
 layout: relation
 title: 'neg'
 shortdef: 'negation modifier'
+udver: '1'
 ---
 
 Negation with ない / nai, ず / zu for clausal predicates.
@@ -17,4 +18,4 @@ punct(食べ, 。)
 不 支持 \n not support
 neg(支持, 不)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:21 CEST 2020 -->
+
