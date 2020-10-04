@@ -2,7 +2,10 @@
 layout: relation
 title: 'foreign'
 shortdef: 'foreign words'
+udver: '1'
 ---
+
+This page is obsolete.
 
 Foreign words in non-Japanese characters.
 
@@ -13,4 +16,3 @@ case(docs, を)
 dobj(使う, docs)
 punct(使う, 。)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:19 CEST 2020 -->
