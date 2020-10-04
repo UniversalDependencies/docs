@@ -2,7 +2,7 @@
 layout: relation
 title: 'dep'
 shortdef: 'unspecified dependency'
+udver: '2'
 ---
 
-Undefined.
-<!-- Interlanguage links updated Út zář 29 20:43:16 CEST 2020 -->
+The dependency type `dep` is used for the POS "[X]()".
