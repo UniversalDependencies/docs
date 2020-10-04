@@ -2,6 +2,7 @@
 layout: relation
 title: 'cop'
 shortdef: 'copula'
+udver: '2'
 ---
 
 The dependency type `cop` is reserved for a copular auxiliary だ / *da*.
@@ -31,4 +32,3 @@ punct(きれい, 。)
 ~~~
 
 
-<!-- Interlanguage links updated Út zář 29 20:43:14 CEST 2020 -->
