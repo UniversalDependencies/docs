@@ -2,7 +2,10 @@
 layout: relation
 title: 'csubjpass'
 shortdef: 'clausal passive subject'
+udver: '1'
 ---
+
+This page is obsolete.
 
 The dependency type `csubjpass` is used for clausal subjects of passive verbs.
 
