@@ -2,6 +2,7 @@
 layout: relation
 title: 'iobj'
 shortdef: 'indirect object'
+udver: '2'
 ---
 
 Indirect object (typicall a postpositional phrase with a case marker に / ni).
@@ -12,4 +13,4 @@ iobj(あげる, 花子)
 case(花子, に)
 punct(あげる, 。)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:20 CEST 2020 -->
+
