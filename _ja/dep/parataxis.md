@@ -2,6 +2,7 @@
 layout: relation
 title: 'parataxis'
 shortdef: 'parataxis'
+udver: '2'
 ---
 
 Listing of sentences.
@@ -28,4 +29,3 @@ ccomp(言っ-18, 好き-12)
 aux(言っ-18, た-19)
 punct(言っ-18, 。-20)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:26 CEST 2020 -->
