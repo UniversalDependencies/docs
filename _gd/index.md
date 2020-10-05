@@ -130,6 +130,14 @@ _ag_, _air_, _ri_ and so forth preceding it have a `case` relationship as in Iri
 #### Inversion structures
 The noun preceding it is an `obj` of it.
 
+### _agus_, _is_ and _'s'_
+
+* Usually these are `CCONJ` and are related to what they are conjoining with `cc`.
+* However if they are being used cosubordinatively, to introduce an adverbial phrase that looks like a `bi` clause where the verb has been elided, they are `SCONJ` and the relation is `mark`.
+* **Caution**: one eighth of ARCOSG is football commentary where the verb is routinely elided. In this case look at whether the events being related are sequential or simultaneous. If they are sequential, then _agus_ is a coordinating conjunction. If they are simultaneous then _agus_ is a subordinating conjunction.
+* In expressions like _fad 's_ and _o chionn 's_, then _'s_ has a `fixed` relation to the subordinating conjunction.
+* However in expressions like _corr is_ and _fiù 's_, where the word preceding it is a content word, then it is a coordinating conjunction and behaves as normal.
+
 ### _air ais_
 
 While _ais_ is tagged as _Nf_ in phrases like _air ais no air adhart_ there seems to be no good reason to treat the first half differently from the second half, so _air_ is `case` of _ais_ and _ais_ is the head and `obl` of whatever it is modifying.
