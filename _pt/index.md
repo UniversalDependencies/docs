@@ -22,6 +22,19 @@ This is an overview only. We are following the UD rules as close as
 possible. Moreover, we are using MWEPOS in the Misc field to specify
 the POS tag of multi-word expressions as a whole.
 
+* Portuguese uses all 17 universal POS categories, including particles ([PART]()).
+* The particle tag is used for prefixes _anti, pré, pós_ when they appear as separate tokens.
+* TODO: rules for the PRON vs. DET distinction.
+* Portuguese auxiliary verbs ([AUX]()) are:
+  * _ser_ and _estar_ “to be”, used as copulas
+  * _ser_ “to be” for the passive (_a frase foi publicada_ “the sentence was published”)
+  * _estar_ “to be” for the progressive (_meus filhos estão estudando inglês_ “my children are studying English”)
+* There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
+  * Infinitive `Inf`, tagged [VERB]() or [AUX](), e.g. _estudar_ “to study”.
+  * Finite verb `Fin`, tagged [VERB]() or [AUX](), e.g. _estudo_ “I study”.
+  * Participle `Part`, tagged [VERB]() or [AUX](), e.g. _estudado_ “studied”.
+  * Gerund `Ger` or present participle, tagged [VERB]() or [AUX](), e.g. _estudando_ “studying”.
+
 ### Features
 
 More later.
@@ -38,7 +51,7 @@ More later.
 ## Syntax
 
 
-* Only `ser` and `estar` should be considered copulas. 
+* Only `ser` and `estar` should be considered copulas.
 
 More later.
 
@@ -46,7 +59,7 @@ More later.
 
 ## Treebanks
 
-There are [3](../treebanks/pt-comparison.html) PORTUGUESE LANGUAGE UD treebanks:
+There are [3](../treebanks/pt-comparison.html) Portuguese UD treebanks:
 
   * [Portuguese-Bosque](../treebanks/pt_bosque/index.html)
   * [Portuguese-GSD](../treebanks/pt_gsd/index.html)
