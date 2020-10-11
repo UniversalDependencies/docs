@@ -28,11 +28,6 @@ Words tagged as PART are function words and include:
 * Negation particles مش _(mish)_ and ما _(mā)_.
 * Accusative particle إنَّ _(inna)_ which functions as a marker.
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
-
 
 ### Features
 
@@ -59,11 +54,6 @@ Morphological features FEAT are not available in this release, though they may b
   * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
   * [flat:foreign]() for non-first words in quoted foreign phrases
   
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
