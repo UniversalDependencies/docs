@@ -77,13 +77,11 @@ udver: '2'
 
 ### Features
 
-* We propose the use of 4 of 24 features defined in UD v2 that are relevant to Indonesian grammar:
+* We propose the use of 3 of 24 features defined in UD v2 that are relevant to Indonesian grammar:
   * [Abbr](), with one possible value: `Yes`. This feature can be applied to all UPOS categories, except [PUNCT]() and [SYM]().
   * [Clusivity](), applies to [PRON]() with two possible values: `Ex` and `In`.
     * `Clusivity=Ex` for _kami_ "we/our"
     * `Clusivity=In` for _kita_ "we/our"
-  * [Degree](), applies to [ADJ]() with one possible value: `Sup`.
-    * `Degree=Sup` for superlative adjectives, such as _terbaik_ "best", _tercantik_ "most beautiful", etc.
   * [Foreign](), with one possible value: `Yes`. This feature only applies to [X]().
   
 
