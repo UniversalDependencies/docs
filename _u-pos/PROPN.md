@@ -22,7 +22,11 @@ etymologically adjectives or participles as proper nouns when they
 appear as part of a multiword name that overall functions like a
 proper noun, for example in _the Yellow Pages_, _United Airlines_ or
 _Thrall Manufacturing Company_.  This is certainly the practice for
-the English Penn Treebank tag set.
+the English Penn Treebank tag set. However, the practice should not
+be copied from English to other languages if it is not linguistically
+justified there. For example, in Czech, _Spojené státy_ “United States”
+is an adjective followed by a common noun; their tags in UD are [ADJ]() [NOUN]()
+and the adjective modifies the noun via the [amod]() relation.
 
 Acronyms of proper nouns, such as _UN_ and _NATO_, should be tagged `PROPN`.
 Even if they contain numbers (as in various product names), they are tagged `PROPN` and not [SYM]():
