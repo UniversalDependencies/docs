@@ -25,10 +25,10 @@ udver: '2'
   * lexical particles (the question marker *ba*, the negation marker *hindi*, fillers such as *e*, *o*, and *a*, and the honorific *po*)
 * Quantifiers (including the pluralizer *mga* and indefinite quantifiers such as *marami* "many" and *ilan* "some") are classified as determiners ([DET](https://universaldependencies.org/u/pos/DET.html)). Possessive pronouns are classified under pronouns ([PRON](https://universaldependencies.org/u/pos/PRON.html)) since several identical word forms are also used to indicate the objective case.
   * Note: the UD_Tagalog-TRG treebank incorrectly labels the adposition *ang* as [DET](https://universaldependencies.org/u/pos/DET.html). This will be updated in a future release.
-* Case-marking function words are tagged as adpositions ([ADP](https://universaldependencies.org/u/pos/ADP.html)). These include:
-  * the topic marker *ang*
-  * the non-topic marker *ng*
-  * oblique markers such as *sa*, *mula sa*, *para sa*, *sa pamamamgitan ng*, etc.
+* Like other Philippine-type languages, Tagalog employs nominal markers that have characteristics of both determiners (‘articles’) and prepositions (Himmelmann 2005, pages 145–147). Their functions include case marking, semantic role marking, topic and definiteness marking. There is no standard terminology in use for these words in the literature. Some authors classify them as prepositions (e.g., Schachter and Shopen 2007, page 35), some as articles or determiners (e.g., Dryer 2007, pages 94–95 and 121–122), and many authors avoid either of the terms and use the term ‘markers’ instead (e.g., Andrews 2007, page 203). Within the UD framework, we have to choose either the [ADP]() tag or the [DET]() tag and the corresponding dependency relations. At present thez are tagged as adpositions ([ADP](https://universaldependencies.org/u/pos/ADP.html)) in the Ugnayan treebank. These include:
+  * the topic nominative marker *ang*
+  * the non-topic genitive marker *ng*
+  * oblique markers such as dative *sa*, *mula sa*, *para sa*, *sa pamamamgitan ng*, etc.
 
 
 
@@ -83,3 +83,10 @@ There are [2](../treebanks/tl-comparison.html) Tagalog UD treebanks:
   * [Tagalog-Ugnayan](../treebanks/tl_ugnayan/index.html)
 
 
+
+## References
+
+* Avery D. Andrews (2007). The major functions of the noun phrase. In Timothy Shopen (ed.): Language Typology and Syntactic Description vol. I: Clause Structure. Cambridge University Press, Cambridge, UK.
+* Matthew S. Dryer (2007). Word order. In Timothy Shopen (ed.): Language Typology and Syntactic Description vol. I: Clause Structure. Cambridge University Press, Cambridge, UK.
+* Nikolaus P. Himmelmann (2005). Typological characteristics. In Alexander Adelaar and Nikolaus P. Himmelmann (eds.): The Austronesian Languages of Asia and Madagascar. Routledge, London and New York.
+* Paul Schachter and Timothy Shopen (2007). Parts-of-speech systems. In Timothy Shopen (ed.): Language Typology and Syntactic Description vol. I: Clause Structure. Cambridge University Press, Cambridge, UK.
