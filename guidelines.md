@@ -6,7 +6,6 @@ udver: '2'
 
 # UD Guidelines
 
-
 * Basic principles
   * [Tokenization and word segmentation](u/overview/tokenization.html)
   * [Morphology](u/overview/morphology.html)
