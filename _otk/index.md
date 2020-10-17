@@ -54,7 +54,7 @@ udver: '2'
 
 ## Treebanks
 
-There are [1](../treebanks/otk-comparison.html) Old Turkish UD treebanks:
+There is [one](../treebanks/otk-comparison.html) Old Turkish UD treebank:
 
   * [Old Turkish-Tonqq](../treebanks/otk_tonqq/index.html)
 
