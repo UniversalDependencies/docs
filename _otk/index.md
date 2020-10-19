@@ -6,6 +6,8 @@ udver: '2'
 
 # UD for Old Turkish <span class="flagspan"><img class="flag" src="../../flags/svg/TURKIC.svg" /></span>
 
+UD Old Turkish is an effort to digitize and annotate (or annotate from existing digitization) existing, or structurally constructed to be coherent and fit, Old Turkic script texts. Having all corpus in Old Turkic script is a precondition for this language. This document intends to be rough than precise because the approach of annotation can change drastically over time.
+
 ## Tokenization and Word Segmentation
 
 * The only guarantee is that colon punctuation (which roughly functions like whitespace) delimits letters before it, but that does not guarantee that letters ranged by two colons constitute a one-word unit.
