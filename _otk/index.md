@@ -8,9 +8,8 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-### Tonqq
-
-* TODO
+* The only guarantee is that colon punctuation (which roughly functions like whitespace) delimits letters before it, but that does not guarantee that letters ranged by two colons constitute a one-word unit.
+* For the subtleties, with respect to word segmentation, everything is an exact match to the reference work "Ahmet Bican Ercilasun, Türk Kağanlığı ve Türk Bengü Taşları, Dergâh Yayınları."
 
 <!---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
@@ -21,8 +20,6 @@ udver: '2'
 
 ### Tags
 
-#### Tonqq
-
 * TODO
 
 <!---
@@ -32,8 +29,6 @@ udver: '2'
 
 ### Features
 
-#### Tonqq
-
 * TODO
 
 <!---
@@ -42,8 +37,6 @@ udver: '2'
 --->
 
 ## Syntax
-
-### Tonqq
 
 * TODO
 
