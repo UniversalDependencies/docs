@@ -12,6 +12,7 @@ UD Old Turkish is an effort to digitize and annotate (or annotate from existing 
 
 * The only guarantee is that colon punctuation (which roughly functions like whitespace) delimits letters before it, but that does not guarantee that letters ranged by two colons constitute a one-word unit.
 * For the subtleties, with respect to word segmentation, everything is an exact match to the reference work "Ahmet Bican Ercilasun, Türk Kağanlığı ve Türk Bengü Taşları, Dergâh Yayınları."
+* Treebanks should treat whitespace as an individual character and not implicitly have it by resorting to `SpaceAfter=Yes` (or by not specifying `SpaceAfter=No`).
 
 <!---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
@@ -22,7 +23,7 @@ UD Old Turkish is an effort to digitize and annotate (or annotate from existing 
 
 ### Tags
 
-* TODO
+Current corpora make use of only 13 tags. The plan is to use 16 except for X.
 
 <!---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
