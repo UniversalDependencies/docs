@@ -25,10 +25,10 @@ udver: '2'
   * lexical particles (the question marker *ba*, the negation marker *hindi*, fillers such as *e*, *o*, and *a*, and the honorific *po*)
 * Quantifiers (including the pluralizer *mga* and indefinite quantifiers such as *marami* "many" and *ilan* "some") are classified as determiners ([DET](https://universaldependencies.org/u/pos/DET.html)). Possessive pronouns are classified under pronouns ([PRON](https://universaldependencies.org/u/pos/PRON.html)) since several identical word forms are also used to indicate the objective case.
   * Note: the UD_Tagalog-TRG treebank incorrectly labels the adposition *ang* as [DET](https://universaldependencies.org/u/pos/DET.html). This will be updated in a future release.
-* Case-marking function words are tagged as adpositions ([ADP](https://universaldependencies.org/u/pos/ADP.html)). These include:
-  * the topic marker *ang*
-  * the non-topic marker *ng*
-  * oblique markers such as *sa*, *mula sa*, *para sa*, *sa pamamamgitan ng*, etc.
+* Like other Philippine-type languages, Tagalog employs nominal markers that have characteristics of both determiners (‘articles’) and prepositions (Himmelmann 2005, pages 145–147). Their functions include case marking, semantic role marking, topic and definiteness marking. There is no standard terminology in use for these words in the literature. Some authors classify them as prepositions (e.g., Schachter and Shopen 2007, page 35), some as articles or determiners (e.g., Dryer 2007, pages 94–95 and 121–122), and many authors avoid either of the terms and use the term ‘markers’ instead (e.g., Andrews 2007, page 203). Within the UD framework, we have to choose either the [ADP]() tag or the [DET]() tag and the corresponding dependency relations. At present they are tagged as adpositions ([ADP](https://universaldependencies.org/u/pos/ADP.html)) in the Ugnayan treebank. They include:
+  * the topic nominative marker *ang*
+  * the non-topic genitive marker *ng*
+  * oblique markers such as dative *sa*, *mula sa*, *para sa*, *sa pamamamgitan ng*, etc.
 
 
 
@@ -37,7 +37,7 @@ udver: '2'
 * Verbs inflect for [Mood](), [Aspect]() (rather than [Tense]()) and [Voice]().
 * The current data contain only verbs in the indicative mood (`Ind`).
 * Aspect is perfective (`Perf`), imperfective (`Imp`), prospective (`Prosp`) and habitual (`Hab`).
-* The Austronesian [Voice]() system is quite different from the active-passive opposition in Indo-European languages. The morphological voice of the verb “focuses” on one particular argument, which is annotated as subject. However, the voices are symmetric in the sense that focusing on the more patient-like argument (“passive” voice) does not transform a transitive clause into intransitive: the more agent-like argument, if present, is still a core argument. Moreover, it is possible to focus on arguments with other semantic roles as well. (Note that the “focus” of the verb on a particular semantic role should not be confused with pragmatic focus as in topic-focus articulation. The focused argument here is actually always the topic, not the focus of the utterance.) The following `Voice` features are defined in the universal guidelines and apply to multiple Philippine languages.
+* The Austronesian [Voice]() system is quite different from the active-passive opposition in Indo-European languages. The morphological voice of the verb “focuses” on one particular argument, which is annotated as subject. However, the voices are symmetric in the sense that focusing on the more patient-like argument (“passive” voice) does not transform a transitive clause into intransitive: the more agent-like argument, if present, is still a core argument. Moreover, it is possible to focus on arguments with other semantic roles as well. (Note that the “focus” of the verb on a particular semantic role should not be confused with pragmatic focus as in topic-focus articulation. The focused argument here is actually always the topic, not the focus of the utterance.) The following `Voice` features are defined in the universal guidelines and apply to multiple Philippine languages. Not all verbs have forms for all the voices, though.
   * To reduce proliferation of feature values, the actor-focus voice uses the same label as the active voice in Indo-European languages, that is, `Voice=Act`.
   * Analogously, the undergoer-focus voice is conflated with Indo-European passive (`Voice=Pass`), although its grammatical behavior is different, as explained above.
   * The locative-focused voice (`Voice=Lfoc`) marks the location as the topic of the sentence.
@@ -83,3 +83,10 @@ There are [2](../treebanks/tl-comparison.html) Tagalog UD treebanks:
   * [Tagalog-Ugnayan](../treebanks/tl_ugnayan/index.html)
 
 
+
+## References
+
+* Avery D. Andrews (2007). The major functions of the noun phrase. In Timothy Shopen (ed.): Language Typology and Syntactic Description vol. I: Clause Structure. Cambridge University Press, Cambridge, UK.
+* Matthew S. Dryer (2007). Word order. In Timothy Shopen (ed.): Language Typology and Syntactic Description vol. I: Clause Structure. Cambridge University Press, Cambridge, UK.
+* Nikolaus P. Himmelmann (2005). Typological characteristics. In Alexander Adelaar and Nikolaus P. Himmelmann (eds.): The Austronesian Languages of Asia and Madagascar. Routledge, London and New York.
+* Paul Schachter and Timothy Shopen (2007). Parts-of-speech systems. In Timothy Shopen (ed.): Language Typology and Syntactic Description vol. I: Clause Structure. Cambridge University Press, Cambridge, UK.

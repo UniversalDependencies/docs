@@ -5,7 +5,7 @@ shortdef: 'copula'
 udver: '2'
 ---
 
-A `cop` (copula) is the relation of a function word used to link a subject to a nonverbal predicate.
+A `cop` (copula) is the relation of a function word used to link a subject to a [nonverbal predicate](/u/overview/simple-syntax.html#nonverbal-clauses).
 It is often a verb but nonverbal (pronominal) copulas are also frequent in the world's languages.
 Verbal copulas are tagged [AUX](), not `VERB`. Pronominal copulas are tagged [PRON]() or [DET]().
 

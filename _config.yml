@@ -282,6 +282,10 @@ collections:
     output: true
   aqz:
     output: true
+  apu:
+    output: true
+  otk:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
