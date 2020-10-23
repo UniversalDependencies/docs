@@ -153,7 +153,7 @@ udver: '2'
 
 ### Relations Overview
 
-* The following 15 relation subtypes could be used in Indonesian UD treebank:
+* The following 14 relation subtypes could be used in Indonesian UD treebank:
   * [acl:relcl]() for relative clauses that modify a noun phrase. In Indonesian, relative clauses usually use _yang_ as the subject of the clause.
   * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah, pun_ that emphasize other words that could be a [NOUN](), [PRON](), [VERB](), or [SCONJ](). For example, token _itu**lah**_ "that" in tokenization phase was split into _itu_ "that" and _**lah**_, then _lah_ is annotated as the dependent of _itu_ and the relation between them is `advmod:emph`.
   * [case:adv]() for adposition ([ADP]()) that together with its following word of [ADJ]()/[ADV]()/[VERB]() serve as an adverb. In this case the `ADP` word is annotated as the dependent of `ADJ`/`ADV`/`VERB` and the dependency relation between them is `case:adv`, and the relation between the `ADJ/ADV/VERB` word and its parent is [advmod](). For example:
@@ -162,11 +162,10 @@ udver: '2'
     * `ADP` + `VERB` as adverb, such as _secara terpisah_ "separately", that consists of _secara_ "with" (`ADP`) + _terpisah_ "separated" (`VERB`).  
   * [cc:preconj](), such as in _baik Mongolia maupun Tingkok_ "both Mongolia and China", _baik_ "both" is considered as preconjunct.
   * [compound:a]() for adjective compounds, such as: _luar biasa_ "excellent", _besar hati_ "heartened"
-  * [compound:n]() for noun compounds that does not consist of NOUN + NOUN words.
-  * [compound:v]() for verb compounds, such as: _bertanggung jawab_ "be responsible", _mengambil alih_ "to take over" 
   * [csubj:pass]() for clausal subjects of passive verbs.
   * [flat:foreign]() to label sequences of foreign words.
-  * [nmod:npmod]() for locative nouns. In Indonesian, _dalam_ "in/inside", _luar_ "out/outside" are considered as locative nouns. For noun phrases like _dalam ruangan_ "in a/the room", locative noun is annotated as the dependent of the noun phrase that it modify. This deprel has a _head-final_ direction, different with `nmod` that has a _head-initial_ direction.
+  * [flat:name]() to label sequences of names of PROPN-PROPN pairs.
+  * [nmod:lmod]() for locative nouns. In Indonesian, _dalam_ "in/inside", _luar_ "out/outside" are considered as locative nouns. For noun phrases like _dalam ruangan_ "in a/the room", locative noun is annotated as the dependent of the noun phrase that it modify. This deprel has a _head-final_ direction, different with `nmod` that has a _head-initial_ direction.
   * [nmod:poss]() for possessive relationship between `NOUN/PROPN` and another `NOUN/PROPN`. For example, in _istri Trump_ "Trump's wife", token Trump will be given deprel `nmod:poss`.
   * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. For example, in _pengeluaran **tahun ini**_ "**this year** spending", _tahun ini_ "this year" modifies _pengeluaran_ "spending", and the head of this phrase, _tahun_ "year" will be annotated as the dependent of _pengeluaran_ "spending" with the deprel `nmod:tmod`.
   * [nsubj:pass]() for nominal subjects of passive verbs
