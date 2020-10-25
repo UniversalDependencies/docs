@@ -27,10 +27,10 @@ Stative-verbs and possessed nouns behave alike, in a way that is not possible to
 
 ### Nominal Features
 
-* Nominal words [NOUN](https://universaldependencies.org/u/pos/NOUN.html), [PROPN](https://universaldependencies.org/u/pos/PROPN.html) and [PRON](https://universaldependencies.org/u/pos/PRON.html)) are not marked for [Gender](https://universaldependencies.org/u/feat/Gender.html).
+* Nominal words, [NOUN](https://universaldependencies.org/u/pos/NOUN.html), [PROPN](https://universaldependencies.org/u/pos/PROPN.html) and [PRON](https://universaldependencies.org/u/pos/PRON.html), are not marked for [Gender](https://universaldependencies.org/u/feat/Gender.html).
 * The two main values of the [Number](https://universaldependencies.org/u/feat/Number.html) feature are Sing and Plural. Plural is marked by a separate pronoun or by reduplication on the predicate.
 * Another way to express existential predication is through the reduplication of a noun with the vowel *e* replacing
-the original vowel *xat* 'food' *xaxet* 'there is food'. These nouns receive a marked Redup=Ex (reduplication existential) in the FEATS column.
+the original vowel, e.g, *xat* 'food' *xaxet* 'there is food'. These nouns receive a marked Redup=Ex (reduplication existential) in the FEATS column.
 * Mundurukú classifiers are real nouns. Gomes (2006) speaks of nouns in classifier function. Nouns (NOUN) in this function 
 are tagged cl in the XPOS column.  
 
