@@ -25,5 +25,8 @@ list(Lines, Staff)
 list(Lines, Food)
 ~~~
 
-However, `list` should not be over-used. If a construction can be easily analyzed using the grammatical relations of standard sentences, such as when there is overt coordination, then it should be analyzed with these more standard relations, even if it is laid out as a list typographically.
+However, `list` should not be over-used. If a construction can be easily analyzed using the grammatical relations of standard sentences, typically as a coordinated structure, and particularly when there is overt coordination, then it should be analyzed with these more standard relations, even if it is laid out as a list typographically.
 <!-- Interlanguage links updated Út zář 29 20:43:20 CEST 2020 -->
+
+For list items, the de facto decision taken in https://github.com/UniversalDependencies/docs/issues/156 is that for enumerated lists, regardless of whether the items are numbered with arabic, roman, or other numerals or are given letters, that we will regard the item contents as the head, and the item enumerator will be a `nummod` of it. Any punctuation will be `punct` dependents of the item enumerator. For itemized lists with bullet, dash or similar markers, the current standard is to regard the marker as a `PUNCT` and to give it the dependency relation `punct`.
+
