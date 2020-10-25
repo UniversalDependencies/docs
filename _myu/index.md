@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Swedish UD'
+title:  'Munduruku UD'
 udver: '2'
 ---
 
-# UD for Munduruku <span class="flagspan"><img class="flag" src="../../flags/svg/BR.svg" /></span>
+# UD for Mundurukú <span class="flagspan"><img class="flag" src="../../flags/svg/BR.svg" /></span>
 
 
 ## Tokenization and Word Segmentation
@@ -17,11 +17,11 @@ udver: '2'
 
 ### Tags
 
-This is an overview only. For more detailed discussion and examples, see the list of [Mundurukú POS tags](pos/index.html) 
+This is an overview only. For more detailed discussion and examples, see the list of [Mundurukú POS tags](pos/index.html)
 and [Mundurukú features](feat/index.html).
 
 * Mundurukú uses 16 ofthe 17 universal POS categories. `ADJ` is not used since there is no separate class of adjectives.
-Stative-verbs and possessed nouns behave alike, in a way that is not possible to distinguish them morphologically 
+Stative-verbs and possessed nouns behave alike, in a way that is not possible to distinguish them morphologically
 (I am ugly / I have uglyness; ugly boy / boy with uglyness).
 
 
@@ -31,18 +31,18 @@ Stative-verbs and possessed nouns behave alike, in a way that is not possible to
 * The two main values of the [Number](https://universaldependencies.org/u/feat/Number.html) feature are Sing and Plural. Plural is marked by a separate pronoun or by reduplication on the predicate.
 * Another way to express existential predication is through the reduplication of a noun with the vowel *e* replacing
 the original vowel, e.g, *xat* 'food' *xaxet* 'there is food'. These nouns receive a marked `Redup=Ex` (reduplication existential) in the FEATS column.
-* Mundurukú classifiers are real nouns, and there are more than a hundred of nouns in classifier function. Nouns in this function 
-have the feature `Noun=Clf`.   
+* Mundurukú classifiers are real nouns, and there are more than a hundred of nouns in classifier function. Nouns in this function
+have the feature `Noun=Clf`.
 
 
 ### Verbal Features
 
-* Verbs have a lexical [Aspect](https://universaldependencies.org/u/feat/Aspect.html): imperfective (Imp), perfective (Perf), iterative (Iter). 
-* Some lexical roots can not easily be assigned to a  specific lexical category. This is the case with *kake* and *opop*. 
+* Verbs have a lexical [Aspect](https://universaldependencies.org/u/feat/Aspect.html): imperfective (Imp), perfective (Perf), iterative (Iter).
+* Some lexical roots can not easily be assigned to a  specific lexical category. This is the case with *kake* and *opop*.
 These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in the [UPOS](), and v:ex (existential verb) and aux respectively in the XPOS.
 * Particles or reduplication mark [Aspect](https://universaldependencies.org/u/feat/Aspect.html) or [Tense](https://universaldependencies.org/u/feat/Tense.html).
 * [Person](https://universaldependencies.org/u/feat/Person.html) can have the value [1](), [2](), and [3]().
-* The feature [Evident](https://universaldependencies.org/u/feat/Evident.html) can take the following values in: 
+* The feature [Evident](https://universaldependencies.org/u/feat/Evident.html) can take the following values in:
 * [Clusivity](https://universaldependencies.org/u/feat/Clusivity.html) is also distinguished.
 * There are three values for the [Voice](https://universaldependencies.org/u/feat/Voice.html) feature: Act, Mid Pass. All other verb forms have Voice=Act.
 
@@ -67,14 +67,6 @@ head of a clause, but rather the dependent of a lexical predicate
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There is 1 Mundurukú UD treebank:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Munduruku-TuDeT](../treebanks/myu_tudet/index.html)
