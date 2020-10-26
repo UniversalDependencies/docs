@@ -13,11 +13,10 @@ udver: '2'
 * There are no adjectives in Tupinambá. Modification is made by composition, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ* (*kuɲã* 'woman' + *poraŋ* 'beauty'). Such words are treated as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation).
 
 ---
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
+
+Tupinambá nouns are not marked for gender. Number is optionally marked.
 
 ### Tags
 
@@ -35,7 +34,9 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ### Features
 
-The relation markers, which indicate contiguity (dependent head), non-contiguity (dependent head), or absence of a possessor (absolute) have respectively the following features: `Rel=Cont`, `Rel=NCont`, `Rel=Abs'. 
+* The relation markers, which indicate contiguity (dependent head), non-contiguity (dependent head), or absence of a possessor (absolute) have respectively the following features: `Rel=Cont`, `Rel=NCont`, `Rel=Abs'. 
+* As a head marking language, Tupinambá cross-references arguments on the predicate, mostly when the object is third person: *a-s-epjak* 1.SG-3-see 'I see him'. The [PERSON](https://universaldependencies.org/u/feat/Person.html) feature in this case will be `Person=33`.
+* The protmanteau markers, 1 -> 2 are asigned the [PERSON](https://universaldependencies.org/u/feat/Person.html) feature `Person12Sg` and `Person12Pl`
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
@@ -44,7 +45,8 @@ The relation markers, which indicate contiguity (dependent head), non-contiguity
 
 ## Syntax
 
-As a head marking language, Tupinambá cross-references arguments on the predicate, mostly when the object is third person: *a-s-epjak* 1.SG-3-see 'I see him'. The [VERB feature](https://universaldependencies.org/u/feat/index.html) in this case will be `Person=33`.
+
+
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
