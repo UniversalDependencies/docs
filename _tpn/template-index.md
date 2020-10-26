@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Tupinamba UD'
+title:  'Tupinambá UD'
 udver: '2'
 ---
 
@@ -16,7 +16,8 @@ udver: '2'
 
 ## Morphology
 
-Tupinambá nouns are not marked for gender. Number is optionally marked.
+* Tupinambá nouns are not marked for gender. Number is optionally marked.
+* Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra` and `Loc`. There different locatives, which areasigned the following features: `Case=LocPunc` (punctual locative), `CASE=LocDif` (diffuse locative)
 
 ### Tags
 
@@ -26,9 +27,6 @@ This is an overview only. For more detailed discussion and examples, see the lis
 * The copula with non-verbal predicates.
 * The (de)verbal forms used, are: infinitive `Inf`, finite verb `Fin`, tagged, converb `Conv`, gerund `Ger`.
 * Since Tupinambá is an omnipredicative language, the referential, marker (a  ̴ ∅) is treated as Case (`Case=Ref`) in the treebank, despite its function, which is nothing like that of nominal cases. This marker allows lexeical roots to function as arguments of predicates.
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
 ---
 
