@@ -25,9 +25,8 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 * Tupinambá uses 16 of the 17 universal POS categories. [ADJ](https://universaldependencies.org/u/pos/ADJ.html) is not used.
 * The copula with non-verbal predicates.
-* Verbs with modal meaning are not considered auxiliary.
 * The (de)verbal forms used, are: infinitive `Inf`, finite verb `Fin`, tagged, converb `Conv`, gerund `Ger`.
-* Since Tupinambá is an omnipredicative language, the referential, marker (a  ̴ ∅) is treated as Case (Case=Ref) in the treebank, despite its function, which is nothing like that of nominal cases.
+* Since Tupinambá is an omnipredicative language, the referential, marker (a  ̴ ∅) is treated as Case (`Case=Ref`) in the treebank, despite its function, which is nothing like that of nominal cases. This marker allows lexeical roots to function as arguments of predicates.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -36,7 +35,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ### Features
 
-*
+The relation markers, which indicate contiguity (dependent head), non-contiguity (dependent head), or absence of a possessor (absolute) have respectively the following features: `Rel=Cont`, `Rel=NCont`, `Rel=Abs'. 
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
@@ -45,7 +44,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ## Syntax
 
-*
+As a head marking language, Tupinambá cross-references arguments on the predicate, mostly when the object is third person: *a-s-epjak* 1.SG-3-see 'I see him'. The [VERB feature](https://universaldependencies.org/u/feat/index.html) in this case will be `Person=33`.
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
