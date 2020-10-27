@@ -26,7 +26,7 @@ NOMINAL FEATURE
 * There are no classifiers.
 * The notion of plural is expressed through numerals, particles or through reduplication.
 * The two main values of the Number feature are Sing and Plural. Plural is marked by reduplication.
-* Akuntsú has the following nominal [CASES](https://universaldependencies.org/u/feat/Case.html): Ablative `Abl`, allative `All`, dative `Dat`,  essive `Ess`, locative `Loc`, translative `Tra`, inessive `Ine`.
+* Akuntsú has postpositions and oblique clitis, including Ablative `Abl`, allative `All`, dative `Dat`,  essive `Ess`, locative `Loc`, translative `Tra`, inessive `Ine`.
 
 VERBAL FEATURE
 * Verbs tend to combine with categories that denote aspect, modality, and voice.
