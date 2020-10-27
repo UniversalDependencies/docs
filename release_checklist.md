@@ -202,7 +202,7 @@ language appears on the front page. The names of the contributors to the documen
 be listed among the treebank contributors, otherwise they will not be included in the overall
 UD list of contributors.
 
-Here is an example of the treebank metadata block from the [Czech README file](https://github.com/UniversalDependencies/UD_Czech/blob/dev/README.txt)
+Here is an example of the treebank metadata block from the [Czech README file](https://github.com/UniversalDependencies/UD_Czech/blob/dev/README.md)
 
     <pre>
     === Machine-readable metadata (DO NOT REMOVE!) ================================
