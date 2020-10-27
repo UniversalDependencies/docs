@@ -34,7 +34,8 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 * The relation markers, which indicate contiguity (dependent head), non-contiguity (dependent head), or absence of a possessor (absolute) have respectively the following features: `Rel=Cont`, `Rel=NCont`, `Rel=Abs'. 
 * As a head marking language, Tupinambá cross-references arguments on the predicate, mostly when the object is third person: *a-s-epjak* 1.SG-3-see 'I see him'. The [PERSON](https://universaldependencies.org/u/feat/Person.html) feature in this case will be `Person=33`.
-* The protmanteau markers, 1 -> 2 are asigned the [PERSON](https://universaldependencies.org/u/feat/Person.html) feature `Person12Sg` and `Person12Pl`
+* The protmanteau markers, 1 -> 2 are asigned the [PERSON](https://universaldependencies.org/u/feat/Person.html) feature `Person12Sg` and `Person12Pl`.
+* Tupinambá is reach in nominalizations. Lxical roots can be nominalized by suffixes that receive the following features: nominalizatin of circusntance `Nomzr=Circ` (*-saβ* 'thing, way of VERB'), deverbal passive nominalization `Nomzr=DevPass` (*-pɨr* 'one that is VERB').
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
