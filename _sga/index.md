@@ -115,6 +115,7 @@ Some general advice on tokenization follows which may not be intuitive to those 
   * Where a verb contains an infixed pronoun it will inflect for [PronClass]() (A, B, or C), [PronNum]() (singular or plural), [PronPers]() (1, 2, or 3), and [PronType]() (Personal) at a minimum.
   * Where a 3rd singular pronoun is infixed the verb will inflect also for [PronGend]() (masculine, feminine, or neuter).
   * Where a verb containing a relative clause also contains an infixed pronoun both the values both values (personal and relative) should be listed as inflections under [PronType]().
+  * Where an empty _d_ or _id_ occurs in place of an infixed pronoun following the conjunctions _cía_ and _má_, the [PronType]() is indicated as being void to show that it does not function as a personal pronoun.
 
 * Where conjunct particles precede a verb they will have inherent features, depending on their function:
   * Relative particles will have [PronType]() (relative).
