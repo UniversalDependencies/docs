@@ -47,9 +47,3 @@ There are [N](../treebanks/aqz-comparison.html) Akuntsu UD treebanks:
   * [Akuntsu-A](../treebanks/aqz_a/index.html)
   * [Akuntsu-B](../treebanks/aqz_b/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
