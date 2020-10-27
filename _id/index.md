@@ -21,7 +21,8 @@ udver: '2'
     * Words ended with _-nya_ where _-nya- itself serves as  a pronoun or determiner are split into two tokens. For example:
       * Word _-nya_ as pronoun, as in _mencintai**nya**_ "love **him/her/it**", this token is split into _mencintai_ "love" and _**nya**_ "him/her/it".
       * Word _-nya_ as posessive pronoun, as in _buku**nya**_ "**his/her/its** book", this token is split into _buku_ "book" and _**nya**_ "his/her/its".
-
+      * Word _-nya_ as determiner in predicate nominalisation case, as in _meningkat**nya**_ "**the** increase", this token is split into _meningkat_ "increase" and _**nya**_ "the".
+      
     * Words ended with _-nya_ that functions as adverbs, adjectives or auxiliary are **not** split. For example:
       * adverbs ended with _-nya_: _khusus**nya**_ "especially", _awal**nya**_ "initially", _akhir**nya**_ "finally"
       * adjectives ended with _-nya_: _sebelum**nya**_ "previous", _sesudah**nya**_ "next", _berikutnya_ "next"
@@ -56,7 +57,7 @@ udver: '2'
   * Modal-related AUX:
     * _harus, mesti, wajib_ as the equivalents of modal “must”.
     * _sebaiknya, seharusnya_ as the equivalents of modal 'shall/should'.
-    * _bisa, dapat_ and _mampu_ as the equivalents of modal “can/could”.
+    * _bisa, dapat, sanggup_ and _mampu_ as the equivalents of modal “can/could”.
     * _boleh_ as the equivalent of modal “may”.
     * _mungkin_ as the equivalent of modal “might”.
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
@@ -77,13 +78,62 @@ udver: '2'
 
 ### Features
 
-* We propose the use of 3 of 24 features defined in UD v2 that are relevant to Indonesian grammar:
+* We propose the use of 14 of 24 features defined in UD v2 that are relevant to Indonesian grammar:
   * [Abbr](), with one possible value: `Yes`. This feature can be applied to all UPOS categories, except [PUNCT]() and [SYM]().
   * [Clusivity](), applies to [PRON]() with two possible values: `Ex` and `In`.
     * `Clusivity=Ex` for _kami_ "we/our"
     * `Clusivity=In` for _kita_ "we/our"
+  * [Degree](), applies to [ADJ]() with one possible value: `Sup`.
+    * `Degree=Sup` for superlative adjectives, such as _terbaik_ "best", _tercantik_ "most beautiful", etc.
   * [Foreign](), with one possible value: `Yes`. This feature only applies to [X]().
-  
+  * [Mood](), with two possinle values: `Ind`, and `Imp`
+  * [Number](), applies to [DET](), [NOUN](), and [PRON](), with two possible values: `Sing`, or `Plur`.
+  * [NumType](), applies to [NUM]() and [ADJ](), with two possible values: `Card` or `Ord`.
+    * `NumType=Card` is used for `NUM`.
+    * `NumType=Ord` is used for ordinal numbers tagged as `ADJ`.
+  * [Person](), applies to [PRON]() with three possible values: `1`, `2`, `3`.
+  * [Polarity](), with one possible value: `Neg`, applies to [PART]() and [INTJ]().
+    * `Polarity=Neg` for [PART]() applies for negation particles as in _Saya **tidak** menyukainya_ "I do **not** like him/her/it". The word _tidak_ "no" will be tagged with `Polarity=Neg`.
+    * `Polarity=Neg` for [INTJ]() as in _**Tidak**, terima kasih_ "**No**, thanks". The word _tidak_ "no" will be given feature `Polarity=Neg`.
+  * [Poss](), applies to [PRON](), with one possible value: `Yes` for [PRON]() that serves as possessive pronouns.
+  * [PronType](), applies to [PRON](), [DET](), and [ADV](). For Indonesian, 7 possible values can be applied:
+    1. `PronType=Dem`, applies to `ADV`, `DET`, and `PRON` such as for _itu_ "that" in _**Itu** masalahmu._ "**That** is your problem."
+    2. `PronType=Emp`, applies to `DET` such as for _sendiri_ "self" in _Kamu harus percaya pada dirimu **sendiri**_ "You have to believe in your**self**".
+    3. `PronType=Ind`, applies to `ADV`, `DET`, and `PRON` such as for _seseorang_ "someone/somebody" or _sesuatu_ "something"
+    4. `PronType=Int`, applies to `PRON` and `ADV`.
+      * `PronType=Int` for `PRON`, such as for _apa_ "what" and _siapa_ "who" in interrogative sentences
+      * `PronType=Int` for `ADV`, such as for _bagaimana_ "how" and _kapan_ "when" in interrogative sentences
+    5. `PronType=Prs`, applies to `PRON`for all personal pronouns.
+    6. `PronType=Rel`, applies to `PRON` and `ADV`.
+      * `PronType=Rel` for `PRON`, such as for _apa_ "what", _siapa_ "who", _yang_ "that".
+      * `PronType=Rel` for `ADV`, such as for _di mana_ "where", _bagaimana_ "how" and _kapan/saat/ketika_ "when" in non-interrogative sentences
+    7. `PronType=Tot`, applies to `ADV`, `DET`, and `PRON`.
+      * `PronType=Tot` for `PRON`, such as for _semua_ "all" in _**Semua** adalah milikmu._ "**All** is yours."
+      * `PronType=Tot` for `DET`, such as for _semua_ "all" in _**Semua** siswa terlihat senang._ "**All** students look happy."
+      * `PronType=Tot` for `ADV`, such as for _selalu_ "always" in _Dia **selalu** terlambat_. "She is **always** late."
+  * [Reflex](), applies to [PRON]() with one possible value: Yes.
+  * [Typo](), with one possible value, `Yes`. This feature can be applied to all UPOS categories except [PUNCT]() and [SYM]().
+  * [Voice](), applies to [VERB]() with two possible values: `Act` and `Pass`. Voice alternation is treated as inflection and the active and passive counterparts have the same lemma.
+    * `Voice=Act` for active verbs that have characteristic of using base word, prefixes _me-, ber-_
+      * Active verbs without affix: _duduk_ "sit", _pergi_ "go"
+      * Active verbs with prefix _me-_: _memperbaiki_ "fix", _mengakui_ "admit"
+      * Active verbs with prefix _ber-_: _belajar_ "study", _bekerja_ "work"
+    * `Voice=Pass` for passive verbs that have characteristic of using prefixes _di-, ter-_ or circumfix _ke-an_.
+      * Passive verbs with prefix _di-_ : _dipublikasikan_ "be published", _dilepaskan_ "be released"
+      * Passive verbs with prefix _ter-_: _terbakar_ "on fire", _terjatuh_ "fell", _terkejut_ "shocked"
+      * Passive verbs with confix _ke-an_: _ketinggalan_ "lag behind", _kecurian_ "be stolen"
+      
+* We consider these 10 UD v2 features are not relevant to Indonesian grammar:
+  * `Gender`. Indonesian words have no gender.
+  * `Animacy`. Similar with Gender, there is no requirements of agreements between words in Indonesian.
+  * `NounClass`, with the same reason for Gender and Animacy
+  * `Case`, with the same reason for Gender, Animacy, and NounClass
+  * `Tense`. Indonesian verbs have the same form in all tenses.
+  * `Aspect`, with the same reason for Tense.
+  * `Definite`
+  * `Evident`
+  * `Polite`
+  * `VerbForm`
 
 ## Syntax
 
@@ -103,13 +153,7 @@ udver: '2'
 
 ### Relations Overview
 
-* Indonesian PUD uses 32 of 37 main dependency relation defined in UD v2. The following relation types are not used:
-  * `clf`
-  * `dep`
-  * `expl`
-  * `list`
-  * `reparandum`
-* The following 15 relation subtypes are used in Indonesian PUD:
+* The following 14 relation subtypes could be used in Indonesian UD treebank:
   * [acl:relcl]() for relative clauses that modify a noun phrase. In Indonesian, relative clauses usually use _yang_ as the subject of the clause.
   * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah, pun_ that emphasize other words that could be a [NOUN](), [PRON](), [VERB](), or [SCONJ](). For example, token _itu**lah**_ "that" in tokenization phase was split into _itu_ "that" and _**lah**_, then _lah_ is annotated as the dependent of _itu_ and the relation between them is `advmod:emph`.
   * [case:adv]() for adposition ([ADP]()) that together with its following word of [ADJ]()/[ADV]()/[VERB]() serve as an adverb. In this case the `ADP` word is annotated as the dependent of `ADJ`/`ADV`/`VERB` and the dependency relation between them is `case:adv`, and the relation between the `ADJ/ADV/VERB` word and its parent is [advmod](). For example:
@@ -118,21 +162,28 @@ udver: '2'
     * `ADP` + `VERB` as adverb, such as _secara terpisah_ "separately", that consists of _secara_ "with" (`ADP`) + _terpisah_ "separated" (`VERB`).  
   * [cc:preconj](), such as in _baik Mongolia maupun Tingkok_ "both Mongolia and China", _baik_ "both" is considered as preconjunct.
   * [compound:a]() for adjective compounds, such as: _luar biasa_ "excellent", _besar hati_ "heartened"
-  * [compound:n]() for noun compounds that does not consist of NOUN + NOUN words.
-  * [compound:v]() for verb compounds, such as: _bertanggung jawab_ "be responsible", _mengambil alih_ "to take over" 
   * [csubj:pass]() for clausal subjects of passive verbs.
   * [flat:foreign]() to label sequences of foreign words.
-  * [nmod:npmod]() for locative nouns. In Indonesian, _dalam_ "in/inside", _luar_ "out/outside" are considered as locative nouns. For noun phrases like _dalam ruangan_ "in a/the room", locative noun is annotated as the dependent of the noun phrase that it modify. This deprel has a _head-final_ direction, different with `nmod` that has a _head-initial_ direction.
+  * [flat:name]() to label sequences of names of PROPN-PROPN pairs.
+  * [nmod:lmod]() for locative nouns. In Indonesian, _dalam_ "in/inside", _luar_ "out/outside" are considered as locative nouns. For noun phrases like _dalam ruangan_ "in a/the room", locative noun is annotated as the dependent of the noun phrase that it modify. This deprel has a _head-final_ direction, different with `nmod` that has a _head-initial_ direction.
   * [nmod:poss]() for possessive relationship between `NOUN/PROPN` and another `NOUN/PROPN`. For example, in _istri Trump_ "Trump's wife", token Trump will be given deprel `nmod:poss`.
   * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. For example, in _pengeluaran **tahun ini**_ "**this year** spending", _tahun ini_ "this year" modifies _pengeluaran_ "spending", and the head of this phrase, _tahun_ "year" will be annotated as the dependent of _pengeluaran_ "spending" with the deprel `nmod:tmod`.
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
   * [obl:tmod]() for head of time-related noun phrases that depend on a `VERB/ADJ`. For example, in _**Kali ini** saya setuju._ "**This time** I agree.", _kali ini_ "this time" describes the predicate _setuju_ "agree", and the head of this noun phrase, _kali_ "time", will be annotated as the dependent of _setuju_ "agree" with the deprel `obl:tmod`
   
+* Indonesian PUD uses 32 of 37 main dependency relation defined in UD v2. The following relation types are not used:
+  * `clf`
+  * `dep`
+  * `expl`
+  * `list`
+  * `reparandum`
   
 ## Treebanks
 
-There are [2](../treebanks/id-comparison.html) Indonesian UD treebanks:
+There are [3](../treebanks/id-comparison.html) Indonesian UD treebanks:
 
   * [Indonesian-GSD](../treebanks/id_gsd/index.html)
   * [Indonesian-PUD](../treebanks/id_pud/index.html)
+  * [Indonesian-CSUI](../treebanks/id_csui/index.html)
+

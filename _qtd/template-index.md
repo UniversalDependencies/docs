@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Munduruku UD'
+title:  'Turkish German UD'
 udver: '2'
 ---
 
-# UD for Munduruku <span class="flagspan"><img class="flag" src="../../flags/svg/BR.svg" /></span>
+# UD for Turkish German <span class="flagspan"><img class="flag" src="../../flags/svg/TR.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/myu-comparison.html) Munduruku UD treebanks:
+There are [N](../treebanks/qtd-comparison.html) Turkish German UD treebanks:
 
-  * [Munduruku-A](../treebanks/myu_a/index.html)
-  * [Munduruku-B](../treebanks/myu_b/index.html)
+  * [Turkish German-A](../treebanks/qtd_a/index.html)
+  * [Turkish German-B](../treebanks/qtd_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
