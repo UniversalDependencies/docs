@@ -42,7 +42,7 @@ udver: '2'
 
 ## Treebanks
 
-There are 2 (../treebanks/akk-comparison.html) Akkadian UD treebanks:
+There are [2](../treebanks/akk-comparison.html) Akkadian UD treebanks:
 
   * [PISANDUB](../treebanks/akk_PISANDUB/index.html)
   * [RIAO](../treebanks/akk_RIAO/index.html)
