@@ -42,12 +42,6 @@ udver: '2'
 
 ## Treebanks
 
-There are 2 (../treebanks/LCODE-comparison.html) Akkadian UD treebanks:
-
-  * [Akkadian-PISANDUB](../treebanks/LCODE_a/index.html)
-  * [Akkadian-RIAO](../treebanks/LCODE_b/index.html)
-
-
 There are 2 (../treebanks/akk-comparison.html) Akkadian UD treebanks:
 
   * [PISANDUB](../treebanks/akk_PISANDUB/index.html)
