@@ -27,10 +27,10 @@ Hildur Jónsdóttir. 2020. A Parallel Icelandic Dependency Treebank: Creation, A
 * Icelandic uses all 17 universal tags.
 * The only word tagged with [PART]() is the infinitive marker *að*.
 * Auxiliaries ([AUX]()) are all verbal in Icelandic and can be grouped into four types:
-  * The copula *vera* (be).
+  * The copulas *vera* (be) and *blífa* (be).
   * The auxiliary *hafa* (have), selects the supine form of the main verb to form perfect tenses.
   * The passive auxiliary verða (become), geta (can), fá (can) which combines with the past participle of the main verb to form passives.
-  * Modal and aspectual verbs that combine with the bare infinitive of the main verb, such as mega (may), vilja (want), munu (will) and skulu (shall).
+  * Modal and aspectual verbs that combine with the bare infinitive of the main verb, such as mega (may), vilja (want), munu (will), skulu (shall) and kunna (be able to).
 * The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives. The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase.
 * Participles (both present and past) are tagged with [ADJ]().
 * Foreign proper names are tagged [PROPN]().
