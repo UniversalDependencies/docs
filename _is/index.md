@@ -51,7 +51,7 @@ Objects have the following characteristics:
 * Case marking: Objects occur in accusative, dative or genitive case.
 * Passivization: Objects become (non-expletive) subjects when verbs are passivized.
 
-* The copula verb vera (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. Existential clauses normally use the verb participle til (vera til) or finnast.
+The copula verb *vera* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. Existential clauses normally use the verb participle til (vera til) or finnast.
 
 The following subtypes are used:
 acl:relcl for relative clauses
