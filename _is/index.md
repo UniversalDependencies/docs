@@ -63,7 +63,7 @@ obl:arg for oblique arguments that are not adjuncts
 
 ## Treebanks
 
-There are [two](../treebanks/is-comparison.html) Icelandic UD treebanks in preparation:
+There are [two](../treebanks/is-comparison.html) existing Icelandic UD treebanks:
 
 * [Icelandic-PUD](/treebanks/is_pud/index.html)
 * [Icelandic-IcePaHC](/treebanks/is_icepahc/index.html)
