@@ -5,7 +5,7 @@ shortdef: 'copula'
 udver: '2'
 ---
 
-A `cop` (copula) is the relation of a function word used to link a subject to a [nonverbal predicate](/u/overview/simple-syntax.html#nonverbal-clauses).
+A `cop` (copula) is the relation of a function word used to link a subject to a [nonverbal predicate](/u/overview/simple-syntax.html#nonverbal-clauses), including the expression of identity predication (e.g. sentences like "Kim is the President").
 It is often a verb but nonverbal (pronominal) copulas are also frequent in the world's languages.
 Verbal copulas are tagged [AUX](), not `VERB`. Pronominal copulas are tagged [PRON]() or [DET]().
 
@@ -33,12 +33,17 @@ amod(dancer-5, best-4)
 The copula *be* is not treated as the head of a clause, but rather the nonverbal predicate, as exemplified above.
 
 Such an analysis is motivated by the fact that many languages often or always lack an overt copula in such
-constructions, as in the the following Russian example:
+constructions, as in the the following Russian and Hebrew examples:
 
 ~~~ sdparse
 Ivan lučšij tancor \n Ivan best dancer
 nsubj(tancor, Ivan)
 amod(tancor, lučšij)
+~~~
+
+~~~ sdparse
+ani Kim \n I am Kim
+nsubj(Kim-2, ani-1)
 ~~~
 
 In informal English, this may also arise.

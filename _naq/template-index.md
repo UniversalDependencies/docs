@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Akuntsu UD'
+title:  'Khoekhoe UD'
 udver: '2'
 ---
 
-# UD for Akuntsu <span class="flagspan"><img class="flag" src="../../flags/svg/BR.svg" /></span>
+# UD for Khoekhoe <span class="flagspan"><img class="flag" src="../../flags/svg/NA.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/aqz-comparison.html) Akuntsu UD treebanks:
+There are [N](../treebanks/naq-comparison.html) Khoekhoe UD treebanks:
 
-  * [Akuntsu-A](../treebanks/aqz_a/index.html)
-  * [Akuntsu-B](../treebanks/aqz_b/index.html)
+  * [Khoekhoe-A](../treebanks/naq_a/index.html)
+  * [Khoekhoe-B](../treebanks/naq_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

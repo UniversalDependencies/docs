@@ -27,10 +27,10 @@ Hildur Jónsdóttir. 2020. A Parallel Icelandic Dependency Treebank: Creation, A
 * Icelandic uses all 17 universal tags.
 * The only word tagged with [PART]() is the infinitive marker *að*.
 * Auxiliaries ([AUX]()) are all verbal in Icelandic and can be grouped into four types:
-  * The copula *vera* (be).
-  * The auxiliary *hafa* (have), selects the supine form of the main verb to form perfect tenses.
-  * The passive auxiliary verða (become), geta (can), fá (can) which combines with the past participle of the main verb to form passives.
-  * Modal and aspectual verbs that combine with the bare infinitive of the main verb, such as mega (may), vilja (want), munu (will) and skulu (shall).
+  * The copulas *vera* (be) and *blífa* (be).
+  * The auxiliary *hafa* (have), selects the supine form of the main verb.
+  * The passive auxiliary verða (become), geta (can), fá (can), which select a verbal past participle.
+  * Modal and aspectual verbs that combine with the bare infinitive of the main verb, such as mega (may), vilja (want), munu (will), skulu (shall) and kunna (be able to).
 * The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives. The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase.
 * Participles (both present and past) are tagged with [ADJ]().
 * Foreign proper names are tagged [PROPN]().
@@ -43,7 +43,7 @@ Hildur Jónsdóttir. 2020. A Parallel Icelandic Dependency Treebank: Creation, A
 ## Syntax
 
 Subjects have the following characteristics:
-* Word order: Icelandic is an SVO language although SVO and VS(O) structures may occur as well as OVS (rare).
+* Word order: Icelandic is an SVO language although other structures may occur, especially in older stages of the language.
 * Case marking: Subjects usually occur in nominative case but quirky subjects take accusative, dative or genitive case (rare).
 
 Objects have the following characteristics:
@@ -51,7 +51,7 @@ Objects have the following characteristics:
 * Case marking: Objects occur in accusative, dative or genitive case.
 * Passivization: Objects become (non-expletive) subjects when verbs are passivized.
 
-* The copula verb vera (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. Existential clauses normally use the verb participle til (vera til) or finnast.
+The copula verb *vera* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. Existential clauses normally use the verb participle til (vera til) or finnast.
 
 The following subtypes are used:
 acl:relcl for relative clauses
@@ -63,8 +63,8 @@ obl:arg for oblique arguments that are not adjuncts
 
 ## Treebanks
 
-There are two Icelandic UD treebanks in preparation:
+There are [two](../treebanks/is-comparison.html) Icelandic UD treebanks:
 
 * [Icelandic-PUD](/treebanks/is_pud/index.html)
-* Icelandic-IcePaHC
+* [Icelandic-IcePaHC](/treebanks/is_icepahc/index.html)
 
