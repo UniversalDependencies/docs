@@ -43,7 +43,7 @@ Hildur Jónsdóttir. 2020. A Parallel Icelandic Dependency Treebank: Creation, A
 ## Syntax
 
 Subjects have the following characteristics:
-* Word order: Icelandic is an SVO language although SVO and VS(O) structures may occur as well as OVS (rare).
+* Word order: Icelandic is an SVO language although other structures may occur, especially in older stages of the language.
 * Case marking: Subjects usually occur in nominative case but quirky subjects take accusative, dative or genitive case (rare).
 
 Objects have the following characteristics:
