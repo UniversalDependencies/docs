@@ -37,6 +37,7 @@ udver: '2'
 
 * The following subtypes are used in Apurinã:
   * [acl:relcl]() for relative clause
+  * [advcl:tmod]() for advcl with temporal value
   * [advmod:lmod]() for advmod with spatial value
   * [advmod:neg]() for the negative particles
   * [advmod:tmod]() for advmod with temporal value
