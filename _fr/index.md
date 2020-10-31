@@ -50,7 +50,7 @@ and [French features](feat/index.html).
 
 ## Treebanks
 
-There are [six](../treebanks/fr-comparison.html) French UD treebanks:
+There are [seven](../treebanks/fr-comparison.html) French UD treebanks:
 
   * [UD_French-ParTUT](../treebanks/fr_partut)
   * [UD_French-GSD](../treebanks/fr_gsd)
@@ -58,3 +58,4 @@ There are [six](../treebanks/fr-comparison.html) French UD treebanks:
   * [UD_French-PUD](../treebanks/fr_pud)
   * [UD_French-FTB](../treebanks/fr_ftb)
   * [UD_French-Spoken](../treebanks/fr_spoken)
+  * [UD_French-FQB](../treebanks/fr_fqb)
