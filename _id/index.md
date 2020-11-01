@@ -140,7 +140,7 @@ udver: '2'
 ### Core Arguments, Oblique Arguments and Adjuncts
 
 * The default word order is SVO, so the subject ([nsubj]()) normally precedes and the object follows the verb (with the exception of inverted sentences).
-* A verb may serve as the subject and is labeled as clausal subject, either as csubj or csubj:pass.
+* A verb may serve as the subject and is labeled as clausal subject, either as [csubj]() or [csubj:pass]().
 * Transitive verbs will have a noun phrase as the object ([obj]()). 
 * Passive verbs could be followed by agent ([obl:agent]()), such as in _Pesan yang dikirimkan **presiden**_ "Messages sent by **president**", _presiden_ "president" is the agent of predicate _dikirimkan_ "be sent".
 * Verbs can have oblique arguments ([obl]()). Special for temporal modifiers, we label it as [obl:tmod]().
