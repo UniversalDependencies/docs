@@ -8,12 +8,9 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
-
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
+* Words are generally delimited by whitespace or punctuation.
+* Punctuation marks are attached to the neighboring word. We always tokenize them as separate tokens.
+* Coordinating conjunction and prepositions are separated from the words that follows them in a sentence.
 
 ## Morphology
 
@@ -46,13 +43,8 @@ udver: '2'
 
 ## Treebanks
 
-There is [one](../treebanks/nyq-comparison.html) Nayini UD treebank:
+There is only one Nayini UD treebank:
 
   * [Nayini-AHA](../treebanks/nyq/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
 
----
