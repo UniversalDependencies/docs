@@ -4,7 +4,7 @@ title:  'Nayini UD'
 udver: '2'
 ---
 
-# UD for Nayini <span class="flagspan"><img class="flag" src="../../flags/svg/IR.svg" /></span>
+# UD for Nayini <span class="flagspan"><img class="flag" src="../flags/svg/IR.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
