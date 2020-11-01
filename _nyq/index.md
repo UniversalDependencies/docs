@@ -46,10 +46,9 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/nyq-comparison.html) Nayini UD treebanks:
+There is [one](../treebanks/nyq-comparison.html) Nayini UD treebank:
 
-  * [Nayini-A](../treebanks/nyq_a/index.html)
-  * [Nayini-B](../treebanks/nyq_b/index.html)
+  * [Nayini-AHA](../treebanks/nyq/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
