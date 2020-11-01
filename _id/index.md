@@ -44,20 +44,20 @@ udver: '2'
 ### Tags
 
 * We refer to [KBBI](https://kbbi.kemdikbud.go.id/) (Kamus Besar Bahasa Indonesia/Indonesian Great Dictionary) as the reference dictionary. However, since this dictionary only defines 7 word classes: noun, verb, adjective, adverb, pronoun, particle and number, we need to make adjustments so that the tags conform to UD v2.
-* Indonesian PUD uses all 17 universal POS categories.
+* Indonesian UD treebanks use all 17 universal POS categories.
 * [PART]() is used for:
-  * negation words: _tidak_ "no", _tak_ "no", _bukan_ "no"
+  * negation words: _tidak/tak/bukan_ "no/not", _belum_ "not yet", _jangan_ "don't + VERB"
   * particles of _-lah, -kah, -tah, pun_, that have been discussed in the previous section.
 * The auxiliary ([AUX]()) vs. [VERB]() distinction is based on examples for English treebank, since initially there is no AUX type in KBBI. We defined 14 Indonesian words as AUX as follows:
   * _adalah_ and _ialah_ “be” serve as copulas.
   * Tenses-related AUX:
     * _akan/bakal_ “will/would” for the future tense.
     * _sedang/tengah_ “be” for the present tense.
-    * _telah_ and _sudah_ “have/has/had” for the past tense.
+    * _telah/sudah_ “have/has/had” for the past tense.
   * Modal-related AUX:
-    * _harus, mesti, wajib_ as the equivalents of modal “must”.
+    * _harus/mesti/wajib_ as the equivalents of modal “must”.
     * _sebaiknya/seharusnya/perlu_ as the equivalents of modal 'shall/should'.
-    * _bisa, dapat, sanggup_ and _mampu_ as the equivalents of modal “can/could”.
+    * _bisa/dapat/sanggup/mampu_ as the equivalents of modal “can/could”.
     * _boleh_ as the equivalent of modal “may”.
     * _mungkin_ as the equivalent of modal “might”.
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is also based on examples for English treebank, since DET word class also is not defined in KBBI.
@@ -181,8 +181,8 @@ udver: '2'
   * `reparandum`
   
 ## Remark
-This Indonesian documentation applied to only the Indonesian-PUD and the Indonesian-CSUI treebank. 
-  
+This Indonesian documentation is applied only to the Indonesian-PUD and the Indonesian-CSUI treebank. The Indonesian-GSD does not conform to these guidelines.
+
 ## Treebanks
 
 There are [3](../treebanks/id-comparison.html) Indonesian UD treebanks:
