@@ -12,16 +12,21 @@ udver: '2'
 
 * In [RIAO](../treebanks/akk_RIAO/index.html), sentence boundaries were arrived at by syntactically annotating the unsegmented corpus, and identifying words that are head words but are not themselves dependents of other words. The separate trees produced this way were considered to be separate sentences.
 
+* Enclitic pronouns and clitics are separated during tokenization and marked as multi-word tokens with a syntactic relation.
+
 ## Morphology
 
 ### Tags
 
 * In [RIAO](../treebanks/akk_RIAO/index.html), 13 universal tags have been used. 
 * The tags AUX, INTJ, PUNCT, SYM were not used.
+* The words tagged PART are the emphatic *lū*, the quotation particle *mā*, the clitics *ma* and *ni*, and the negation particles *lā* and *ul*.
 
 ### Nominal Features
 
+* Nominal words (NOUN, PROPN and PRON) and adjectives (ADJ) have an inherent Gender feature with values Masc or Fem.
 * Number has 2 possible values: Sing and Plur.
+* Case has 3 possible values: Nom, Gen, Acc.
 
 ### Verbal Features
 
