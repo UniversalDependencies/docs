@@ -14,8 +14,8 @@ udver: '2'
 
 ### Tags
 
-* In this Akkadian treebank, 13 universal tags have been used. 
-* The tags AUX, INTJ, PUNCT, SYM are not used.
+* In [RIAO](../treebanks/akk_RIAO/index.html), 13 universal tags have been used. 
+* The tags AUX, INTJ, PUNCT, SYM were not used.
 
 ### Nominal Features
 
@@ -23,12 +23,27 @@ udver: '2'
 
 ### Verbal Features
 
-* In this treebank, mood has 4 possible values: Ind(icative), Imp(erative), Precative, Prohibitive.
+In [RIAO](../treebanks/akk_RIAO/index.html), the following subcategories of verbs are annotated:
+* finiteness (finite, infinitive, stative),
+* stem (G, D, Š, N etc.),
+* mood (indicative, imperative, precative, prohibitive),
+* tense (present, preterite, perfect), person (1, 2, 3),
+* number (singular, plural) and
+* gender (masculine, feminine).
+Following Streck (2011: 363), we consider subordinative and ventive as subcategories of their own, which we tag as boolean values. For nouns, adjectives and non-finite verbal forms the subcategories are:
+* case (nominative, accusative, genitive),
+* number (as above),
+* gender (as above) and
+* base, which can have four different values:
+* free (status rectus),
+* bound (status constructus),
+* suffixal (followed by pronominal suffixes) and
+* terminal (status absolutus). 
 
 ## Syntax
 
 ### Core Arguments, Oblique Arguments and Adjuncts
-* Nominal subject is in the nominative case without an adposition.
+* Nominal subjects are in the nominative case without an adposition.
 
 ### Relations Overview
 
