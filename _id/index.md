@@ -51,12 +51,12 @@ udver: '2'
 * The auxiliary ([AUX]()) vs. [VERB]() distinction is based on examples for English treebank, since initially there is no AUX type in KBBI. We defined 14 Indonesian words as AUX as follows:
   * _adalah_ and _ialah_ “be” serve as copulas.
   * Tenses-related AUX:
-    * _akan_ “will/would” for the future tense.
-    * _sedang_ “be” for the present tense.
+    * _akan/bakal_ “will/would” for the future tense.
+    * _sedang/tengah_ “be” for the present tense.
     * _telah_ and _sudah_ “have/has/had” for the past tense.
   * Modal-related AUX:
     * _harus, mesti, wajib_ as the equivalents of modal “must”.
-    * _sebaiknya, seharusnya_ as the equivalents of modal 'shall/should'.
+    * _sebaiknya/seharusnya/perlu_ as the equivalents of modal 'shall/should'.
     * _bisa, dapat, sanggup_ and _mampu_ as the equivalents of modal “can/could”.
     * _boleh_ as the equivalent of modal “may”.
     * _mungkin_ as the equivalent of modal “might”.
@@ -161,7 +161,7 @@ udver: '2'
     * `ADP` + `ADV` as adverb, such as _dengan sungguh-sungguh_ "seriously", that consists of _dengan_ "with" (`ADP`) + sungguh-sungguh "serious" (`ADV`)
     * `ADP` + `VERB` as adverb, such as _secara terpisah_ "separately", that consists of _secara_ "with" (`ADP`) + _terpisah_ "separated" (`VERB`).  
   * [cc:preconj](), such as in _baik Mongolia maupun Tingkok_ "both Mongolia and China", _baik_ "both" is considered as preconjunct.
-  * [compound:a]() for adjective compounds, such as: _luar biasa_ "excellent", _besar hati_ "heartened"
+  * [compound:a]() for adjective compounds, such as: _luar biasa_ "extraordinary", _besar hati_ "heartened"
   * [csubj:pass]() for clausal subjects of passive verbs.
   * [flat:foreign]() to label sequences of foreign words.
   * [flat:name]() to label sequences of names of PROPN-PROPN pairs.
@@ -172,8 +172,9 @@ udver: '2'
   * [obl:agent]() for agents of passive verbs
   * [obl:tmod]() for head of time-related noun phrases that depend on a `VERB/ADJ`. For example, in _**Kali ini** saya setuju._ "**This time** I agree.", _kali ini_ "this time" describes the predicate _setuju_ "agree", and the head of this noun phrase, _kali_ "time", will be annotated as the dependent of _setuju_ "agree" with the deprel `obl:tmod`
   
-* Indonesian PUD uses 32 of 37 main dependency relation defined in UD v2. The following relation types are not used:
-  * `clf`
+* Universal deprel [clf]() is relevant for Indonesian. This label is used in the Indonesian-CSUI treebank but not represented in the Indonesian-PUD.
+
+* The following universal delrel are not represented in both the Indonesian-PUD and Indonesian-CSUI:
   * `dep`
   * `expl`
   * `list`
