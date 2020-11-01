@@ -10,6 +10,8 @@ udver: '2'
 
 * Words are only exceptionally delimited by whitespace or punctuation in the original cuneiform texts. Thus, this treebank is based on the bound transcription (normalized text)
 
+* In [RIAO](../treebanks/akk_RIAO/index.html), sentence boundaries were arrived at by syntactically annotating the unsegmented corpus, and identifying words that are head words but are not themselves dependents of other words. The separate trees produced this way were considered to be separate sentences.
+
 ## Morphology
 
 ### Tags
@@ -35,12 +37,15 @@ Following Streck (2011: 363), we consider subordinative and ventive as subcatego
 * number (as above),
 * gender (as above) and
 * base, which can have four different values:
-* free (status rectus),
-* bound (status constructus),
-* suffixal (followed by pronominal suffixes) and
-* terminal (status absolutus). 
+a) free (status rectus),
+b) bound (status constructus),
+c) suffixal (followed by pronominal suffixes) and
+d) terminal (status absolutus). 
 
 ## Syntax
+
+### Word order
+For the most part, Akkadian word order is SOV structure.
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 * Nominal subjects are in the nominative case without an adposition.
