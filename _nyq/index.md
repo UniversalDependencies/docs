@@ -4,7 +4,9 @@ title:  'Nayini UD'
 udver: '2'
 ---
 
-# UD for Nayini <span class="flagspan"><img class="flag" src="../flags/svg/IR.svg" /></span>
+# UD for Nayini
+
+<span class="flagspan"><img class="flag" src="../flags/svg/IR.svg" /></span>
 
 The AHA Nayini Treebank is a small treebank for Today Nayini. Its corpus is collected and annotated manually. We have prepared this bank tree based on interviews with Nayini speakers.
 
@@ -22,16 +24,29 @@ The AHA Nayini Treebank is a small treebank for Today Nayini. Its corpus is coll
 
 ### Tags
 
-* We will probably use all UPOS tags, but because most of our sentences are based on interviews with Nayini speakers, some tags, such as SYM, may not appear naturally. Also, because our cirpus is under develop, we still do not know which tags may never be used. However, we do not use PROPN based on Seraji corpus.
+* We will probably use all UPOS tags, but because most of our sentences are based on interviews with Nayini speakers, some tags, such as `SYM`, may not appear naturally. Also, because our cirpus is under develop, we still do not know which tags may never be used. However, we do not use `PROPN` based on Seraji corpus.
 * For XPOS tags, our basis at this level is the Seraji corpus.
-* At this level, closed call auxiliary (tagged AUX) include "دار" only.
+* At this level, closed call auxiliary (tagged `AUX`) include "دار" only.
 
 
 ### Features
 
-*
+* VERB:
+     - Number: `Sing`
+     - Person: `1`, `2` or `3`
+     - Tense: `Pres` or `Past`
+     - VerbForm: `Part`
+     - Mood: `Imp` or `Sub`
+     - Plarity: `Neg`
+     
+* ADV:
+     - Case: `Loc` or `Tem`
+     - Number: `Sing`
 
-
+* PRON:
+     - Number: `Sing`
+     - Person: `1`
+     - PronType: `Prs` or `Dem`
 
 ## Syntax
 
