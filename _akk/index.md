@@ -28,16 +28,7 @@ udver: '2'
 * Number has 2 possible values: Sing and Plur.
 * Case has 3 possible values: Nom, Gen, Acc.
 
-### Verbal Features
-
-In [RIAO](../treebanks/akk_RIAO/index.html), the following subcategories of verbs are annotated:
-* finiteness (finite, infinitive, stative),
-* stem (G, D, Š, N etc.),
-* mood (indicative, imperative, precative, prohibitive),
-* tense (present, preterite, perfect), person (1, 2, 3),
-* number (singular, plural) and
-* gender (masculine, feminine).
-Following Streck (2011: 363), we consider subordinative and ventive as subcategories of their own, which we tag as boolean values. For nouns, adjectives and non-finite verbal forms the subcategories are:
+For nouns, adjectives and non-finite verbal forms the subcategories are:
 * case (nominative, accusative, genitive),
 * number (as above),
 * gender (as above) and
@@ -46,6 +37,17 @@ a) free (status rectus),
 b) bound (status constructus),
 c) suffixal (followed by pronominal suffixes) and
 d) terminal (status absolutus). 
+
+### Verbal Features
+
+In [RIAO](../treebanks/akk_RIAO/index.html), the following subcategories of verbs are annotated:
+* finiteness (finite, infinitive, stative),
+* stem (G, D, Š, N etc.),
+* mood (indicative, imperative, precative, prohibitive),
+* tense (present, past), person (1, 2, 3),
+* number (singular, plural) and
+* gender (masculine, feminine).
+Following Streck (2011: 363), we consider subordinative and ventive as subcategories of their own, which we tag as boolean values.
 
 ## Syntax
 
