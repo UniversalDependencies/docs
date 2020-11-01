@@ -51,6 +51,27 @@ The AHA Nayini Treebank is a small treebank for Today Nayini. Its corpus is coll
 ## Syntax
 
 * Standard deprels are used.
+* The following relation subtypes are used in Nayini:
+     - [advcl]()
+     - [advmod]()
+     - [amod]()
+     - [aux]()
+     - [case]()
+     - [cc]()
+     - [ccomp]()
+     - [compound]()
+     - [compound:lvc]()
+     - [flat]()
+     - [mark]()
+     - [nmod]()
+     - [nmod:poss]()
+     - [nsubj]()
+     - [nummod]()
+     - [obj]()
+     - [obl]()
+     - [punct]()
+     - [root]()
+
 
 
 ## Treebanks
