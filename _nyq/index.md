@@ -6,40 +6,37 @@ udver: '2'
 
 # UD for Nayini <span class="flagspan"><img class="flag" src="../flags/svg/IR.svg" /></span>
 
+The AHA Nayini Treebank is a small treebank for Today Nayini. Its corpus is collected and annotated manually. We have prepared this bank tree based on interviews with Nayini speakers.
+
 ## Tokenization and Word Segmentation
 
 * Words are generally delimited by whitespace or punctuation.
 * Punctuation marks are attached to the neighboring word. We always tokenize them as separate tokens.
 * Coordinating conjunction and prepositions are separated from the words that follows them in a sentence.
+* For words that have two or more parts, such as words that have a suffix or prefix, a semi-space is used.
+* There are no multiword tokens in Nayini.
+* In the cases that usually stick together in Persian script, we have separated them by a whitespace.
+* We use Persian script in this version, but maybe in the next versions we will use transliteration to make the work more accurate. However, we do not adhere to Persian script rules. For example, we might start a word with a vowel and no base. It should be noted that Nayini does not naturally have a written version and can be implemented with any script.
 
 ## Morphology
 
 ### Tags
 
-*
+* We will probably use all UPOS tags, but because most of our sentences are based on interviews with Nayini speakers, some tags, such as SYM, may not appear naturally. Also, because our cirpus is under develop, we still do not know which tags may never be used. However, we do not use PROPN based on Seraji corpus.
+* For XPOS tags, our basis at this level is the Seraji corpus.
+* At this level, closed call auxiliary (tagged AUX) include "دار" only.
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
 *
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 
----
 
 ## Syntax
 
-*
+* Standard deprels are used.
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
