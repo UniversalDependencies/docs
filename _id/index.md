@@ -180,6 +180,9 @@ udver: '2'
   * `list`
   * `reparandum`
   
+## Remark
+This Indonesian documentation applied to only the Indonesian-PUD and the Indonesian-CSUI treebank. 
+  
 ## Treebanks
 
 There are [3](../treebanks/id-comparison.html) Indonesian UD treebanks:
