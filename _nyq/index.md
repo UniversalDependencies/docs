@@ -31,22 +31,22 @@ The AHA Nayini Treebank is a small treebank for Today Nayini. Its corpus is coll
 
 ### Features
 
-* VERB:
-     - Number: `Sing`
-     - Person: `1`, `2` or `3`
-     - Tense: `Pres` or `Past`
-     - VerbForm: `Part`
-     - Mood: `Imp` or `Sub`
-     - Plarity: `Neg`
+* [VERB]():
+     - [Number](): `Sing`
+     - [Person](): `1`, `2` or `3`
+     - [Tense](): `Pres` or `Past`
+     - [VerbForm](): `Part`
+     - [Mood](): `Imp` or `Sub`
+     - [Plarity](): `Neg`
      
-* ADV:
-     - Case: `Loc` or `Tem`
-     - Number: `Sing`
+* [ADV]():
+     - [Case](): `Loc` or `Tem`
+     - [Number](): `Sing`
 
-* PRON:
-     - Number: `Sing`
-     - Person: `1`
-     - PronType: `Prs` or `Dem`
+* [PRON]():
+     - Number](): `Sing`
+     - Person](): `1`
+     - PronType](): `Prs` or `Dem`
 
 ## Syntax
 
