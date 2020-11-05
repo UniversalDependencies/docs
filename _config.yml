@@ -294,6 +294,8 @@ collections:
     output: true
   nyn:
     output: true
+  pnt:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
