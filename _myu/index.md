@@ -53,7 +53,24 @@ These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in 
 
 ## Syntax
 
-As a head-marking language, arguments, [nsubj](https://universaldependencies.org/u/dep/nsubj.html) for vi and [nsubj]() and [obj](https://universaldependencies.org/u/dep/obj.html) for vt, are cross-referenced on the predicate most of the time, exceptions depend on the verbal [aspect](https://universaldependencies.org/u/feat/Aspect.html). NPs semantically related to the core arguments are [obl](https://universaldependencies.org/u/dep/obl.html). The order of crossreferencing and predicate is always SOV, but obliques do not necessarily follow thso order.
+### Core Arguments, Oblique Arguments and Adjuncts
+
+As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate, as in the example below:
+
+```
+asepjak 
+
+a-s-epjak
+
+1.SG-3-see
+
+I see her/him/it/them
+```
+
+This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
+
+
+
 
 ### Non-verbal clauses
 
