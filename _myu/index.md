@@ -33,6 +33,8 @@ Stative-verbs and possessed nouns behave alike, in a way that is not possible to
 the original vowel, e.g, *xat* 'food' *xaxet* 'there is food'. These nouns receive a marked `Redup=Ex` (reduplication existential) in the FEATS column.
 * Mundurukú classifiers are real nouns, and there are more than a hundred of nouns in classifier function. Nouns in this function
 have the feature `Noun=Clf`.
+* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. 
+* Mundurukú has possessor markers that distinguish alienably and inalienably possessed nouns. These types of possession have the feature [Poss](https://universaldependencies.org/u/feat/Poss.html) and the values alienable `(Poss=Ali)`, and inalienable `(Poss=Inal)`.
 
 
 ### Verbal Features
