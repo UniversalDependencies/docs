@@ -56,6 +56,8 @@ asepjak
 a-s-epjak
 
 1.SG-3-see
+
+I see her/him/it/them
 ```
 
 This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
