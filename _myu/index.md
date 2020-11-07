@@ -41,7 +41,7 @@ have the feature `Noun=Clf`.
 
 * Verbs have a lexical [Aspect](https://universaldependencies.org/u/feat/Aspect.html): imperfective (Imp), perfective (Perf), iterative (Iter).
 * Some lexical roots can not easily be assigned to a  specific lexical category. This is the case with *kake* and *opop*.
-These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in the [UPOS](), and v:ex (existential verb) and aux respectively in the XPOS.
+These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in the [UPOS](), and v:ex (existential verb) and `aux` respectively in the XPOS.
 * Particles or reduplication mark [Aspect](https://universaldependencies.org/u/feat/Aspect.html) or [Tense](https://universaldependencies.org/u/feat/Tense.html).
 * [Person](https://universaldependencies.org/u/feat/Person.html) can have the value [1](), [2](), and [3]().
 * The feature [Evident](https://universaldependencies.org/u/feat/Evident.html) can take the following values in:
