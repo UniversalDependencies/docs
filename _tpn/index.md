@@ -46,6 +46,21 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ## Syntax
 
+### Core Arguments, Oblique Arguments and Adjuncts
+
+As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate, as in the example below:
+
+```
+asepjak 
+
+a-s-epjak
+
+1.SG-3-see
+```
+
+This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
+
+
 
 
 
