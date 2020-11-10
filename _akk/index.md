@@ -12,8 +12,6 @@ udver: '2'
 * Words are only exceptionally delimited by whitespace or punctuation in the original cuneiform texts. Thus, [RIAO](../treebanks/akk_RIAO/index.html) is based on the bound transcription (normalized text).
 * Enclitic pronouns and clitics are separated during tokenization and marked as multi-word tokens with a syntactic relation.
 
-* Enclitic pronouns and clitics are separated during tokenization and marked as multi-word tokens with a syntactic relation.
-
 ## Morphology
 
 ### Tags
