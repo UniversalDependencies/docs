@@ -33,13 +33,20 @@ Stative-verbs and possessed nouns behave alike, in a way that is not possible to
 the original vowel, e.g, *xat* 'food' *xaxet* 'there is food'. These nouns receive a marked `Redup=Ex` (reduplication existential) in the FEATS column.
 * Mundurukú classifiers are real nouns, and there are more than a hundred of nouns in classifier function. Nouns in this function
 have the feature `Noun=Clf`.
+* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. 
+* Mundurukú has possessor markers that distinguish alienably and inalienably possessed nouns. These types of possession have the feature [Poss](https://universaldependencies.org/u/feat/Poss.html) and the values alienable `(Poss=Ali)`, and inalienable `(Poss=Inal)`.
 
 
 ### Verbal Features
 
 * Verbs have a lexical [Aspect](https://universaldependencies.org/u/feat/Aspect.html): imperfective (Imp), perfective (Perf), iterative (Iter).
 * Some lexical roots can not easily be assigned to a  specific lexical category. This is the case with *kake* and *opop*.
-These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in the [UPOS](), and v:ex (existential verb) and aux respectively in the XPOS.
+These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in the [UPOS](), and v:ex (existential verb) and `aux` respectively in the XPOS.
+
+Some of the words that have [AUX](https://universaldependencies.org/u/pos/AUX_.html) as POS are given below:
+
+* osunuy
+
 * Particles or reduplication mark [Aspect](https://universaldependencies.org/u/feat/Aspect.html) or [Tense](https://universaldependencies.org/u/feat/Tense.html).
 * [Person](https://universaldependencies.org/u/feat/Person.html) can have the value [1](), [2](), and [3]().
 * The feature [Evident](https://universaldependencies.org/u/feat/Evident.html) can take the following values in:
@@ -51,7 +58,24 @@ These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in 
 
 ## Syntax
 
-As a head-marking language, arguments, [nsubj](https://universaldependencies.org/u/dep/nsubj.html) for vi and [nsubj]() and [obj](https://universaldependencies.org/u/dep/obj.html) for vt, are cross-referenced on the predicate most of the time, exceptions depend on the verbal [aspect](https://universaldependencies.org/u/feat/Aspect.html). NPs semantically related to the core arguments are [obl](https://universaldependencies.org/u/dep/obl.html). The order of crossreferencing and predicate is always SOV, but obliques do not necessarily follow thso order.
+### Core Arguments, Oblique Arguments and Adjuncts
+
+As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate, as in the example below:
+
+```
+asepjak 
+
+a-s-epjak
+
+1.SG-3-see
+
+I see her/him/it/them
+```
+
+This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
+
+
+
 
 ### Non-verbal clauses
 

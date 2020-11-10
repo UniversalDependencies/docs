@@ -17,7 +17,9 @@ udver: '2'
 ## Morphology
 
 * Tupinambá nouns are not marked for gender. Number is optionally marked.
-* Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra` and `Loc`. There different locatives, which areasigned the following features: `Case=LocPunc` (punctual locative), `CASE=LocDif` (diffuse locative)
+* Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra` and `Loc`. There different locatives, which areasigned the following features: `Case=LocPunc` (punctual locative), `CASE=LocDif` (diffuse locative).
+* What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to the nominalization of a predicate and the fronting of an adverbial expression. The nominalized form of the verb takes `Nomz=Circ` as feature and value.
+
 
 ### Tags
 
@@ -32,7 +34,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ### Features
 
-* The relation markers, which indicate contiguity (dependent head), non-contiguity (dependent head), or absence of a possessor (absolute) have respectively the following features: `Rel=Cont`, `Rel=NCont`, `Rel=Abs'. 
+* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or rletional indicates that a possessor is not present, neither contiguously or non-contiguously. This relational is tagged `Rel=Abs`, for relational absolute. 
 * As a head marking language, Tupinambá cross-references arguments on the predicate, mostly when the object is third person: *a-s-epjak* 1.SG-3-see 'I see him'. The [PERSON](https://universaldependencies.org/u/feat/Person.html) feature in this case will be `Person=33`.
 * The protmanteau markers, 1 -> 2 are asigned the [PERSON](https://universaldependencies.org/u/feat/Person.html) feature `Person12Sg` and `Person12Pl`.
 * Tupinambá is reach in nominalizations. Lxical roots can be nominalized by suffixes that receive the following features: nominalizatin of circusntance `Nomzr=Circ` (*-saβ* 'thing, way of VERB'), deverbal passive nominalization `Nomzr=DevPass` (*-pɨr* 'one that is VERB').
@@ -43,6 +45,23 @@ This is an overview only. For more detailed discussion and examples, see the lis
 ---
 
 ## Syntax
+
+### Core Arguments, Oblique Arguments and Adjuncts
+
+As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate, as in the example below:
+
+```
+asepjak 
+
+a-s-epjak
+
+1.SG-3-see
+
+I see her/him/it/them
+```
+
+This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
+
 
 
 

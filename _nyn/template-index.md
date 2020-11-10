@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Soi UD'
+title:  'Nkore UD'
 udver: '2'
 ---
 
-# UD for Soi <span class="flagspan"><img class="flag" src="../../flags/svg/IR.svg" /></span>
+# UD for Nkore <span class="flagspan"><img class="flag" src="../../flags/svg/UG.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/soj-comparison.html) Soi UD treebanks:
+There are [N](../treebanks/nyn-comparison.html) Nkore UD treebanks:
 
-  * [Soi-A](../treebanks/soj_a/index.html)
-  * [Soi-B](../treebanks/soj_b/index.html)
+  * [Nkore-A](../treebanks/nyn_a/index.html)
+  * [Nkore-B](../treebanks/nyn_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

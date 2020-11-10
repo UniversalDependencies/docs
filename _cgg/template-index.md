@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Apurina UD'
+title:  'Kiga UD'
 udver: '2'
 ---
 
-# UD for Apurina <span class="flagspan"><img class="flag" src="../../flags/svg/BR.svg" /></span>
+# UD for Kiga <span class="flagspan"><img class="flag" src="../../flags/svg/UG.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/apu-comparison.html) Apurina UD treebanks:
+There are [N](../treebanks/cgg-comparison.html) Kiga UD treebanks:
 
-  * [Apurina-A](../treebanks/apu_a/index.html)
-  * [Apurina-B](../treebanks/apu_b/index.html)
+  * [Kiga-A](../treebanks/cgg_a/index.html)
+  * [Kiga-B](../treebanks/cgg_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

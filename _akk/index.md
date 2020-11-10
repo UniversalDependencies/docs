@@ -12,13 +12,15 @@ udver: '2'
 * Words are only exceptionally delimited by whitespace or punctuation in the original cuneiform texts. Thus, [RIAO](../treebanks/akk_RIAO/index.html) is based on the bound transcription (normalized text).
 * Enclitic pronouns and clitics are separated during tokenization and marked as multi-word tokens with a syntactic relation.
 
+* Enclitic pronouns and clitics are separated during tokenization and marked as multi-word tokens with a syntactic relation.
+
 ## Morphology
 
 ### Tags
 
 * In [RIAO](../treebanks/akk_RIAO/index.html), 13 universal tags have been used. 
 * The tags AUX, INTJ, PUNCT and SYM were not used.
-* The words tagged PART are the emphatic *lū*, the quotaton paricle *mā*, the clitics *ma* and *ni*, and the negation particles *lā* and *ul*.
+* The words tagged PART are the emphatic *lū*, the quotation paricle *mā*, the clitics *ma* and *ni*, and the negation particles *lā* and *ul*.
 * The tag DET is used for the personal pronouns *šī*, *šū*, *šâtu*, *šuāti/u*, *šâtunu*, *šuātunu* when they modify the meaning of a noun; for the quantifiers *gabbu*, *kalāma* and *kalû*; for the demonstratives *ammiu* "that" and *annû* "this" and for the indefinite pronoun *mimma* "anything". The tag PRON is reserved for independent personal pronouns, including oblique forms (*yâši*, *šuāšu*) and possessives, as well as pronominal suffixes; for the relative pronoun *ša* "which, who"; for *ammar* in its function as a relative pronoun; for the indefinite pronoun *mamma(n)* "somebody" and the interrogatives *mannu* "who?" and *mīnu* "what?"
 
 ### Nominal Features
@@ -46,6 +48,35 @@ In [RIAO](../treebanks/akk_RIAO/index.html), the following subcategories of verb
 * Gender (Masculine, Feminine).
 
 We consider subordinative and ventive as subcategories of their own, which we tag as boolean values. 
+* The tags AUX, INTJ, PUNCT, SYM were not used.
+* The words tagged PART are the emphatic *lū*, the quotation particle *mā*, the clitics *ma* and *ni*, and the negation particles *lā* and *ul*.
+
+### Nominal Features
+
+* Nominal words (NOUN, PROPN and PRON) and adjectives (ADJ) have an inherent Gender feature with values Masc or Fem.
+* Number has 2 possible values: Sing and Plur.
+* Case has 3 possible values: Nom, Gen, Acc.
+
+For nouns, adjectives and non-finite verbal forms the subcategories are:
+* case (nominative, accusative, genitive),
+* number (as above),
+* gender (as above) and
+* base, which can have four different values:
+a) free (status rectus),
+b) bound (status constructus),
+c) suffixal (followed by pronominal suffixes) and
+d) terminal (status absolutus). 
+
+### Verbal Features
+
+In [RIAO](../treebanks/akk_RIAO/index.html), the following subcategories of verbs are annotated:
+* finiteness (finite, infinitive, stative),
+* stem (G, D, Š, N etc.),
+* mood (indicative, imperative, precative, prohibitive),
+* tense (present, past), person (1, 2, 3),
+* number (singular, plural) and
+* gender (masculine, feminine).
+Following Streck (2011: 363), we consider subordinative and ventive as subcategories of their own, which we tag as boolean values.
 
 ## Syntax
 

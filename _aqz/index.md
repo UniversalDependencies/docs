@@ -32,6 +32,7 @@ VERBAL FEATURE
 * Verbs tend to combine with categories that denote aspect, modality, and voice.
 * The aspectual morphemes include the iterative `Iter`, and habitual `Hab`. There is also a projective aspect.
 * Akunstu has the following voice features [VOICE](https://universaldependencies.org/u/feat/Voice.html): Middle `Mid` and causative `Cau` 
+* Akunstu has a set of auxiliaries `Aux` that expresses the notion of ‘sitting,’ ‘lying,’ ‘standing,’ ‘walking,’  ‘moving,’  ‘coming’ and ‘going,’.
 
 ## Syntax
 

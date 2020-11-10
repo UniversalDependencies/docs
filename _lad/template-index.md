@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'North Sami UD'
+title:  'Ladino UD'
 udver: '2'
 ---
 
-# UD for North Sami <span class="flagspan"><img class="flag" src="../../flags/svg/SAMI.svg" /></span>
+# UD for Ladino <span class="flagspan"><img class="flag" src="../../flags/svg/IL.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [N](../treebanks/lad-comparison.html) Ladino UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [Ladino-A](../treebanks/lad_a/index.html)
+  * [Ladino-B](../treebanks/lad_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

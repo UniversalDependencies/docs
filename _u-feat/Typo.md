@@ -15,6 +15,9 @@ udver: '2'
 Indicates bad spelling, grammatical error etc. Does not say how the
 correct form looks like.
 
+The correct spelling can be indicated in the MISC column with the `CorrectForm` feature,
+as discussed in the [page on typos](https://universaldependencies.org/u/overview/typos.html).
+
 ### Yes: it is typo
 
 #### Examples

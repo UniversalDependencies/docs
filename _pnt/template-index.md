@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Khunsari UD'
+title:  'Pontic UD'
 udver: '2'
 ---
 
-# UD for Khunsari <span class="flagspan"><img class="flag" src="../../flags/svg/IR.svg" /></span>
+# UD for Pontic <span class="flagspan"><img class="flag" src="../../flags/svg/TR-PONTOS.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/kfm-comparison.html) Khunsari UD treebanks:
+There are [N](../treebanks/pnt-comparison.html) Pontic UD treebanks:
 
-  * [Khunsari-A](../treebanks/kfm_a/index.html)
-  * [Khunsari-B](../treebanks/kfm_b/index.html)
+  * [Pontic-A](../treebanks/pnt_a/index.html)
+  * [Pontic-B](../treebanks/pnt_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

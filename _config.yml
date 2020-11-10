@@ -290,6 +290,14 @@ collections:
     output: true
   naq:
     output: true
+  cgg:
+    output: true
+  nyn:
+    output: true
+  pnt:
+    output: true
+  lad:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
