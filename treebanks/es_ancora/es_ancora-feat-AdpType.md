@@ -9,19 +9,19 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Prep`, `Preppron`.
 
-88489 tokens (16%) have a non-empty value of `AdpType`.
+88483 tokens (16%) have a non-empty value of `AdpType`.
 117 types (0%) occur at least once with a non-empty value of `AdpType`.
 82 lemmas (0%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (88046; 16% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (254; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (189; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (88040; 16% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (254; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (189; 0% instances).
 
 ### `ADP`
 
-88046 <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
+88040 <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Prep` (77351; 88% of non-empty `AdpType`): <em>de, en, a, por, con, para, entre, sobre, sin, desde</em>
-* `Preppron` (10695; 12% of non-empty `AdpType`): <em>del, al, da, do, dels, als, de, pelo</em>
+* `Prep` (77349; 88% of non-empty `AdpType`): <em>de, en, a, por, con, para, entre, sobre, sin, desde</em>
+* `Preppron` (10691; 12% of non-empty `AdpType`): <em>del, al, da, do, dels, als, de, pelo</em>
 
 <table>
   <tr><th>Paradigm <i>de</i></th><th><tt>Prep</tt></th><th><tt>Preppron</tt></th></tr>

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSDSimp: Relations: `case:dec`
 
 This relation is a language-specific subtype of <tt><a href="zh_gsdsimp-dep-case.html">case</a></tt>.
-There are also 2 other language-specific subtypes of `case`: <tt><a href="zh_gsdsimp-dep-case-aspect.html">case:aspect</a></tt>, <tt><a href="zh_gsdsimp-dep-case-pref.html">case:pref</a></tt>.
+There are also 1 other language-specific subtypes of `case`: <tt><a href="zh_gsdsimp-dep-case-pref.html">case:pref</a></tt>.
 
 3285 nodes (3%) are attached to their parents as `case:dec`.
 
@@ -74,7 +74,7 @@ The following 10 pairs of parts of speech are connected with `case:dec`: <tt><a 
 # visual-style 13 15 case:dec	color:blue
 1	他	他	PRON	PRP	Person=3	7	nsubj	_	SpaceAfter=No
 2	花费	花费	VERB	VV	_	7	advcl	_	SpaceAfter=No
-3	了	了	PART	AS	Aspect=Perf	2	case:aspect	_	SpaceAfter=No
+3	了	了	PART	AS	Aspect=Perf	2	aux:aspect	_	SpaceAfter=No
 4	许多	许多	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	时间	时间	NOUN	NN	_	2	obj	_	SpaceAfter=No
 6	来	来	ADV	RB	_	7	mark	_	SpaceAfter=No

@@ -23,8 +23,8 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 acl	color:blue
-1	Но	но	CCONJ	CC	_	5	mark	_	GTtags=CC
-2	оленеводъяслы	оленевод	NOUN	N	Case=Dat|Number=Plur	5	obl	_	GTtags=N,Pl,Dat
+1	Но	но	CCONJ	CC	_	5	mark	_	GTtags=CC|Lang=Mixed
+2	оленеводъяслы	оленевод	NOUN	N	Case=Dat|Number=Plur	5	obl	_	GTtags=N,Pl,Dat|Lang=Mixed
 3	медча	медся	ADV	Adv	_	5	advmod:deg	_	GTtags=Adv
 4	эні	ӧні	ADV	Adv	_	5	advmod:tmod	_	GTtags=Adv
 5	ветлэныс	ветлыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=V,IV,Ind,Prs,Pl3|SpaceAfter=No

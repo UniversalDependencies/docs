@@ -63,9 +63,9 @@ Examples: <em>the, of, North, Association, My, Really, America, Associated, Brea
 
 Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="tr_pud-pos-X.html">X</a></tt> (43; 41% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (29; 28% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (20; 19% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (10; 10% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances)
 
-69 (66%) `X` nodes are leaves.
+67 (64%) `X` nodes are leaves.
 
-15 (14%) `X` nodes have one child.
+17 (16%) `X` nodes have one child.
 
 4 (4%) `X` nodes have two children.
 
@@ -73,7 +73,7 @@ Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="tr_pud-
 
 The highest child degree of a `X` node is 7.
 
-Children of `X` nodes are attached using 11 different relations: <tt><a href="tr_pud-dep-flat.html">flat</a></tt> (58; 62% instances), <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (16; 17% instances), <tt><a href="tr_pud-dep-appos.html">appos</a></tt> (4; 4% instances), <tt><a href="tr_pud-dep-compound.html">compound</a></tt> (4; 4% instances), <tt><a href="tr_pud-dep-conj.html">conj</a></tt> (4; 4% instances), <tt><a href="tr_pud-dep-acl.html">acl</a></tt> (3; 3% instances), <tt><a href="tr_pud-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-nummod.html">nummod</a></tt> (1; 1% instances)
+Children of `X` nodes are attached using 11 different relations: <tt><a href="tr_pud-dep-flat.html">flat</a></tt> (58; 60% instances), <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (18; 19% instances), <tt><a href="tr_pud-dep-appos.html">appos</a></tt> (4; 4% instances), <tt><a href="tr_pud-dep-compound.html">compound</a></tt> (4; 4% instances), <tt><a href="tr_pud-dep-conj.html">conj</a></tt> (4; 4% instances), <tt><a href="tr_pud-dep-acl.html">acl</a></tt> (3; 3% instances), <tt><a href="tr_pud-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-nummod.html">nummod</a></tt> (1; 1% instances)
 
-Children of `X` nodes belong to 9 different parts of speech: <tt><a href="tr_pud-pos-X.html">X</a></tt> (43; 46% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (18; 19% instances), <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (16; 17% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
+Children of `X` nodes belong to 9 different parts of speech: <tt><a href="tr_pud-pos-X.html">X</a></tt> (43; 45% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (18; 19% instances), <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (18; 19% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (9; 9% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
 

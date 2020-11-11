@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sms_giellagas-pos-A
 
 ### `ADV`
 
-3 <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Typo`.
+3 <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Typo`.
 
 The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="sms_giellagas-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (3; 100%).
 

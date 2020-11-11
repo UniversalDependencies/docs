@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Taraka Rama, Sowmya Vajjala.
 
 Repository: [UD_Telugu-MTG](https://github.com/UniversalDependencies/UD_Telugu-MTG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udte_mtg26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udte_mtg27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -102,7 +102,7 @@ Taraka Rama (University of Oslo, Norway) and Sowmya Vajjala (Iowa State Universi
 </ul>
 
 <ul>
-<li>This corpus contains 13 word types tagged as particles (PART): అండి, అండీ, ఏమిటో, ఏమో, గదా, గదూ, గా, గారు, రా, లెండి, లే, సరే, సుమండి</li>
+<li>This corpus contains 15 word types tagged as particles (PART): అంటూ, అండి, అండీ, అన్నా, ఏమిటో, ఏమో, గదా, గదూ, గా, గారు, రా, లెండి, లే, సరే, సుమండి</li>
 </ul>
 
 <ul>
@@ -195,7 +195,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (248)</li>
-      <li>VERB--PRON (492)</li>
+      <li>VERB--PRON (493)</li>
       <li>VERB--PRON-ADP(_) (1)</li>
     </ul>
   </li>

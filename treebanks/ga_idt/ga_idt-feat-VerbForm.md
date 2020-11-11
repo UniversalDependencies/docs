@@ -9,87 +9,87 @@ udver: '2'
 This feature is universal but the values `Cop`, `Vnoun` are language-specific.
 It occurs with 4 different values: `Cop`, `Inf`, `Part`, `Vnoun`.
 
-3523 tokens (5%) have a non-empty value of `VerbForm`.
-890 types (8%) occur at least once with a non-empty value of `VerbForm`.
-713 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2054; 3% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (990; 2% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (420; 1% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (41; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (3; 0% instances).
+6749 tokens (6%) have a non-empty value of `VerbForm`.
+1271 types (8%) occur at least once with a non-empty value of `VerbForm`.
+1026 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (4113; 4% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1534; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (994; 1% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (81; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-2054 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (13% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
+4113 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (13% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2054; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2054; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2054; 100%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1999; 97%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (1230; 60%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4113; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4113; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4113; 100%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4045; 98%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (2345; 57%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
-* `Inf` (1570; 76% of non-empty `VerbForm`): <em>bheith, chur, fáil, dhéanamh, rá, dul, thabhairt, cur, siúl, úsáid</em>
-* `Part` (2; 0% of non-empty `VerbForm`): <em>ceannródaíochta, póilíneachta</em>
-* `Vnoun` (482; 23% of non-empty `VerbForm`): <em>dul, teacht, iarraidh, obair, déanamh, baint, cur, caint, rá, éirí</em>
-* `EMPTY` (14237): <em>duine, rud, chuid, féin, chéile, daoine, lá, fear, áit, leith</em>
+* `Inf` (3349; 81% of non-empty `VerbForm`): <em>fáil, chur, dhéanamh, bheith, cur, dul, thabhairt, siúl, rá, teacht</em>
+* `Part` (5; 0% of non-empty `VerbForm`): <em>ceannródaíochta, fheidhmithe, ionadaithe, pháirtithe, póilíneachta</em>
+* `Vnoun` (759; 18% of non-empty `VerbForm`): <em>dul, obair, teacht, cur, baint, iarraidh, déanamh, freastal, brath, tabhairt</em>
+* `EMPTY` (28028): <em>duine, féidir, chuid, chéile, daoine, rud, cinn, leith, ábhar, bhfeidhm</em>
 
 <table>
-  <tr><th>Paradigm <i>cur</i></th><th><tt>Inf</tt></th><th><tt>Vnoun</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>cur, chur, an-chur</em></td><td><em>cur</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt></tt></td><td><em>gcur</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt></tt></td><td><em>chur</em></td><td></td></tr>
+  <tr><th>Paradigm <i>feidhmiú</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Vnoun</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>feidhmiú, bhfeidhmiú, forfheidhmiú</em></td><td><em>fheidhmithe</em></td><td><em>feidhmiú</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt></tt></td><td><em>bhfeidhmiú</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt></tt></td><td><em>fheidhmiú, feidhmiú</em></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-990 <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+1534 <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ga_idt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (889; 90%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (887; 90%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (845; 85%), <tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (619; 63%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (1360; 89%), <tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1084; 71%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Cop` (990; 100% of non-empty `VerbForm`): <em>is, ba, gur, ní, b', nach, gurb, ar, nár, gurbh</em>
-* `EMPTY` (15): <em>An, is, ar, gur, Sin, ba, gurb, sé</em>
+* `Cop` (1534; 100% of non-empty `VerbForm`): <em>is, ba, ní, gur, b', nach, ar, gurb, nár, an</em>
+* `EMPTY` (4): <em>ar, Sin, sé</em>
 
 ### `ADJ`
 
-420 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+994 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (420; 100%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (420; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (420; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (420; 100%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (994; 100%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (994; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (994; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (994; 100%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (420; 100% of non-empty `VerbForm`): <em>déanta, curtha, bunaithe, imithe, scríofa, caite, leagtha, ráite, tugtha, aontaithe</em>
-* `EMPTY` (2789): <em>mór, maith, amháin, mó, mhaith, nua, mhór, céanna, léir, fada</em>
+* `Part` (994; 100% of non-empty `VerbForm`): <em>déanta, curtha, bunaithe, leagtha, aontaithe, tugtha, scríofa, caite, dírithe, tagtha</em>
+* `EMPTY` (5452): <em>maith, mór, nua, amháin, mó, náisiúnta, éagsúla, sibhialta, céanna, léir</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (205) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (355) occur only with one value of `VerbForm`.
 
 ### `SCONJ`
 
-41 <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> tokens (4% of all `SCONJ` tokens) have a non-empty value of `VerbForm`.
+81 <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> tokens (5% of all `SCONJ` tokens) have a non-empty value of `VerbForm`.
 
 `SCONJ` tokens may have the following values of `VerbForm`:
 
-* `Cop` (41; 100% of non-empty `VerbForm`): <em>más, ós, dar, darb, murab, Is, Sular, murar</em>
-* `EMPTY` (1078): <em>ach, nuair, mar, agus, má, go, dá, cé, ná, is</em>
+* `Cop` (81; 100% of non-empty `VerbForm`): <em>más, ós, dar, arb, murar, darb, murab, Is, Sular</em>
+* `EMPTY` (1545): <em>ach, nuair, má, mar, agus, ná, go, dá, cé, mura</em>
 
 ### `PART`
 
-10 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `VerbForm`.
+14 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `PART` and `VerbForm` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (9; 90%), <tt><a href="ga_idt-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (7; 70%).
+The most frequent other feature values with which `PART` and `VerbForm` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="ga_idt-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (8; 57%).
 
 `PART` tokens may have the following values of `VerbForm`:
 
-* `Cop` (10; 100% of non-empty `VerbForm`): <em>b', ba, ar, gur, is</em>
-* `EMPTY` (4264): <em>a, go, d', ní, nach, ó, níos, gur, níor, is</em>
+* `Cop` (14; 100% of non-empty `VerbForm`): <em>ba, ar, b', is, gur</em>
+* `EMPTY` (7012): <em>a, go, ní, d', nach, níos, is, ó, gur, ina</em>
 
 ### `PROPN`
 
-5 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `VerbForm`.
+10 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `PROPN` and `VerbForm` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (4; 80%).
+The most frequent other feature values with which `PROPN` and `VerbForm` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (9; 90%).
 
 `PROPN` tokens may have the following values of `VerbForm`:
 
-* `Inf` (3; 60% of non-empty `VerbForm`): <em>Forbairt, Leathadh, Fheidhmiú</em>
-* `Part` (1; 20% of non-empty `VerbForm`): <em>Aontaithe</em>
-* `Vnoun` (1; 20% of non-empty `VerbForm`): <em>Loisce</em>
-* `EMPTY` (3649): <em>Gaeilge, Átha, cliath, hÉireann, Seán, Baile, Bhaile, Mháire, Pádraig, Éirinn</em>
+* `Inf` (8; 80% of non-empty `VerbForm`): <em>Forbairt, Astráil, Leathadh, Shaoráil, Fheidhmiú</em>
+* `Part` (1; 10% of non-empty `VerbForm`): <em>Aontaithe</em>
+* `Vnoun` (1; 10% of non-empty `VerbForm`): <em>Loisce</em>
+* `EMPTY` (6516): <em>Átha, cliath, Bhaile, Gaeltachta, Gaeilge, Údarás, hÉireann, Chomhairle, Éirinn, Baile</em>
 
 ### `PRON`
 
@@ -100,12 +100,12 @@ The most frequent other feature values with which `PRON` and `VerbForm` co-occur
 `PRON` tokens may have the following values of `VerbForm`:
 
 * `Cop` (3; 100% of non-empty `VerbForm`): <em>Caidé, cér, cérbh</em>
-* `EMPTY` (2505): <em>sé, é, sin, mé, sí, iad, siad, féin, í, seo</em>
+* `EMPTY` (3490): <em>sé, é, sin, iad, siad, sí, mé, féin, seo, í</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>NOUN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (109; 72%),
-<tt>ADJ --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (10; 67%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (261; 68%),
+<tt>ADJ --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (18; 69%),
 <tt>ADJ --[<tt><a href="ga_idt-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (1; 100%).
 

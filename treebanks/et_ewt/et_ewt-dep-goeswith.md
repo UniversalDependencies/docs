@@ -8,97 +8,78 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `goeswith`.
+51 nodes (0%) are attached to their parents as `goeswith`.
 
-9 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+51 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05882352941176.
 
-The following 7 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (3; 33% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 11% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 11% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 11% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 11% instances).
-
-
-~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 17 goeswith	color:blue
-1	Meie	mina	PRON	P	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	nmod	2:nmod	_
-2	mõistus	mõistus	NOUN	S	Case=Nom|Number=Sing	4	nsubj	4:nsubj	_
-3	ei	ei	AUX	V	Polarity=Neg	4	aux	4:aux	_
-4	taha	tahtma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-5	alati	alati	ADV	D	_	4	advmod	4:advmod	_
-6	tunnistada	tunnistama	VERB	V	VerbForm=Inf	4	xcomp	4:xcomp	SpaceAfter=No
-7	,	,	PUNCT	Z	_	10	punct	10:punct	_
-8	et	et	SCONJ	J	_	10	mark	10:mark	_
-9	tasakaalustavaks	tasa_kaalustav	ADJ	A	Case=Tra|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	10:acl	_
-10	pooleks	pool	NOUN	S	Case=Tra|Number=Sing	6	ccomp	6:ccomp	_
-11	võib	võima	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	10:aux	_
-12	vahel	vahel	ADV	D	_	10	advmod	10:advmod	_
-13	olla	olema	AUX	V	VerbForm=Inf	10	cop	10:cop	_
-14	ka	ka	ADV	D	_	10	advmod	10:advmod	_
-15	Meie	mina	PRON	P	Case=Gen|Number=Plur|Person=1|PronType=Prs	16	nmod	16:nmod	_
-16	Inim	inim	NOUN	S	_	18	obl	18:obl	_
-17	mõistusele	mõistus	NOUN	S	Case=All|Number=Sing	16	goeswith	16:goeswith	_
-18	negatiivne	negatiivne	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	19	amod	19:amod	_
-19	varjund	varjund	NOUN	S	Case=Nom|Number=Sing	10	nsubj:cop	10:nsubj	SpaceAfter=No
-20	.	.	PUNCT	Z	_	4	punct	4:punct	_
-
-~~~
+The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (11; 22% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (8; 16% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (5; 10% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (5; 10% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (4; 8% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (3; 6% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 4% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 4% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 goeswith	color:blue
-1	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
-2	üle	üle	ADV	D	_	4	advmod	4:advmod	_
-3	homme	homme	ADV	D	_	2	goeswith	2:goeswith	_
-4	näen	nägema	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-5	teda	tema	PRON	P	Case=Par|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj	SpaceAfter=No
-6	,	,	PUNCT	Z	_	8	punct	8:punct	_
-7	siis	siis	ADV	D	_	8	advmod	8:advmod	_
-8	räägin	rääkima	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	_
-9	temaga	tema	PRON	P	Case=Com|Number=Sing|Person=3|PronType=Prs	8	obl	8:obl	SpaceAfter=No
-10	.	.	PUNCT	Z	_	4	punct	4:punct	_
+# visual-style 3 4 goeswith	color:blue
+1	YYY	YYY	PROPN	Y	Case=Nom|Number=Sing	5	parataxis	5:parataxis	SpaceAfter=No
+2	:	:	PUNCT	Z	_	1	punct	1:punct	_
+3	10	10	NUM	N	NumForm=Digit|NumType=Card	5	obl	5:obl	_
+4	000	000	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	3	goeswith	3:goeswith	_
+5	tekib	tekkima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	isegi	isegi	ADV	D	_	9	advmod	9:advmod	_
+7	korraliku	korralik	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	8	amod	8:amod	_
+8	Lada-ga	Lada	PROPN	S	Case=Com|Number=Sing	9	obl	9:obl	_
+9	probleeme	probleem	NOUN	S	Case=Par|Number=Plur	5	nsubj	5:nsubj	SpaceAfter=No
+10	.	.	PUNCT	Z	_	5	punct	5:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 goeswith	color:blue
-1	Teise	teine	DET	P	Case=Gen|Number=Sing|PronType=Dem	2	det	2:det	_
-2	inimese	inimene	NOUN	S	Case=Gen|Number=Sing	4	nmod	4:nmod	_
-3	eest	eest	ADP	K	AdpType=Post	2	case	2:case	_
-4	maksmine	maksmine	NOUN	S	Case=Nom|Number=Sing	25	nsubj:cop	25:nsubj	SpaceAfter=No
-5	,	,	PUNCT	Z	_	21	punct	21:punct	_
-6	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	21	nsubj	21:nsubj	_
-7	sinu	sina	PRON	P	Case=Gen|Number=Sing|Person=2|PronType=Prs	8	nmod	8:nmod	_
-8	elus	elu	NOUN	S	Case=Ine|Number=Sing	19	obl	19:obl	_
-9	(	(	PUNCT	Z	_	10	punct	10:punct	SpaceAfter=No
-10	veel	veel	ADV	D	_	19	parataxis	19:parataxis	_
-11	ja	ja	CCONJ	J	_	15	cc	15:cc	_
-12	võib	võima	ADV	D	_	15	advmod	15:advmod	_
-13	olla	olema	VERB	V	VerbForm=Inf	12	goeswith	12:goeswith	_
-14	mitte	mitte	ADV	D	Polarity=Neg	15	advmod	15:advmod	_
-15	kunagi	kunagi	ADV	D	_	10	conj	10:conj	SpaceAfter=No
-16	)	)	PUNCT	Z	_	10	punct	10:punct	_
-17	mingit	mingi	DET	P	Case=Par|Number=Sing|PronType=Ind	18	det	18:det	_
-18	rolli	roll	NOUN	S	Case=Par|Number=Sing	19	obj	19:obj	_
-19	mängima	mängima	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	21	xcomp	21:xcomp	_
-20	ei	ei	AUX	V	Polarity=Neg	21	aux	21:aux	_
-21	hakka	hakkama	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	4:acl	_
-22	peaks	pidama	AUX	V	Mood=Cnd|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act	25	aux	25:aux	_
-23	ju	ju	ADV	D	_	25	advmod	25:advmod	_
-24	pisut	pisut	ADV	D	_	25	advmod	25:advmod	_
-25	alandav	alandav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	0:root	_
-26	olema	olema	AUX	V	Case=Ill|VerbForm=Sup|Voice=Act	25	cop	25:cop	SpaceAfter=No
-27	?	?	PUNCT	Z	_	25	punct	25:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 goeswith	color:blue
+1	loll	loll	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	amod	2:amod	_
+2	juht	juht	NOUN	S	Case=Nom|Number=Sing	5	nsubj:cop	5:nsubj	_
+3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
+4	rahva	rahvas	NOUN	S	Case=Gen|Number=Sing	5	nmod	5:nmod	_
+5	nuhtlu	nuhtlu	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	_
+6	s	s	NOUN	Y	Abbr=Yes	5	goeswith	5:goeswith	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 20 goeswith	color:blue
+1	tundub	tunduma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+2	,	,	PUNCT	Z	_	7	punct	7:punct	_
+3	et	et	SCONJ	J	_	7	mark	7:mark	_
+4	oled	olema	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	_
+5	mingi	mingi	DET	P	Case=Nom|Number=Sing|PronType=Ind	7	det	7:det	_
+6	selline	selline	DET	P	Case=Nom|Number=Sing|PronType=Dem	7	det	7:det	_
+7	sell	sell	NOUN	S	Case=Nom|Number=Sing	1	csubj	1:csubj	_
+8	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	12	nsubj:cop	12:nsubj	_
+9	hullult	hullu=lt	ADV	D	_	12	advmod	12:advmod	_
+10	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	12:cop	_
+11	bemmi	bemm	NOUN	S	Case=Gen|Number=Sing|Style=Slng	12	nmod	12:nmod	_
+12	fänn	fänn	NOUN	S	Case=Nom|Number=Sing	7	acl:relcl	7:acl	_
+13	aga	aga	ADV	D	_	16	advmod	16:advmod	_
+14	ise	ise	ADV	D	_	16	advmod	16:advmod	_
+15	ei	ei	AUX	V	Polarity=Neg	16	aux	16:aux	_
+16	suuda	suutma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	12:conj	_
+17	isegi	isegi	ADV	D	_	19	advmod	19:advmod	_
+18	vanat	vana	ADJ	A	Case=Par|Number=Sing|Typo=Yes	19	amod	19:amod	CorrectForm=vana
+19	300	300	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	22	obj	22:obj	_
+20	st	st	X	Y	_	19	goeswith	19:goeswith	_
+21	enesele	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	22	obl	22:obl	_
+22	lubada	lubama	VERB	V	VerbForm=Inf	16	xcomp	16:xcomp	_
 
 ~~~
 

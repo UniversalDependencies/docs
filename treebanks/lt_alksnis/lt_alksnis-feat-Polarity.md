@@ -79,10 +79,10 @@ The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>VERB --[<tt><a href="lt_alksnis-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (892; 86%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (840; 87%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-cop.html">cop</a></tt>]--> AUX</tt> (334; 98%),
-<tt>VERB --[<tt><a href="lt_alksnis-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (272; 81%),
+<tt>VERB --[<tt><a href="lt_alksnis-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (298; 80%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (161; 88%),
-<tt>VERB --[<tt><a href="lt_alksnis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (108; 57%),
-<tt>VERB --[<tt><a href="lt_alksnis-dep-acl.html">acl</a></tt>]--> VERB</tt> (50; 81%),
+<tt>VERB --[<tt><a href="lt_alksnis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (116; 58%),
+<tt>VERB --[<tt><a href="lt_alksnis-dep-acl.html">acl</a></tt>]--> VERB</tt> (18; 90%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-dep.html">dep</a></tt>]--> VERB</tt> (9; 100%),
-<tt>VERB --[<tt><a href="lt_alksnis-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (5; 83%).
+<tt>VERB --[<tt><a href="lt_alksnis-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (3; 75%).
 

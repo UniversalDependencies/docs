@@ -23,12 +23,12 @@ The following 10 pairs of parts of speech are connected with `nmod:gen`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 nmod:gen	color:blue
-1	Er	e	ADP	pr	_	3	case	_	_
-2	_	an	DET	det	_	3	det	_	_
+1	E	e	ADP	pr	_	3	case	_	_
+2	r	an	DET	det	_	3	det	_	_
 3	sal	sal	NOUN	n	Gender=Fem|Number=Sing	7	obl	_	_
 4	dour	dour	NOUN	n	Gender=Masc|Number=Sing	3	nmod:gen	_	_
-5	en	en	X	x	_	6	dep	_	_
-6	em	em	PART	vpart	Reflex=Yes	7	aux	_	_
+5	en	en	AUX	vpart	Reflex=Yes	7	aux	_	_
+6	em	em	X	x	_	5	fixed	_	_
 7	walc'han	gwalc’hañ	VERB	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	sent	_	7	punct	_	_
 
@@ -42,7 +42,7 @@ The following 10 pairs of parts of speech are connected with `nmod:gen`: <tt><a 
 # visual-style 3	fgColor:white
 # visual-style 3 4 nmod:gen	color:blue
 1	Bras	bras	ADJ	adj	_	0	root	_	_
-2	eo	bezañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	ti	ti	NOUN	n	Gender=Masc|Number=Sing	1	nsubj	_	_
 4	Herve	Herve	PROPN	np	Gender=Masc|Number=Sing	3	nmod:gen	_	SpaceAfter=No
 5	.	.	PUNCT	sent	_	1	punct	_	_

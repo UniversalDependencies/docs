@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="mdf_jr-pos-PRON.htm
 
 ### `PRON`
 
-9 <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> tokens (13% of all `PRON` tokens) have a non-empty value of `Variant`.
+9 <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> tokens (12% of all `PRON` tokens) have a non-empty value of `Variant`.
 
 The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Dat</tt> (9; 100%), <tt><a href="mdf_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9; 100%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 89%), <tt><a href="mdf_jr-feat-Person.html">Person</a></tt><tt>=3</tt> (5; 56%).
 

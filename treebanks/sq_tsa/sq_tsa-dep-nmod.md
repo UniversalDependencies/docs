@@ -45,7 +45,7 @@ The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 nmod	color:blue
-1	Ata	ai	PRON	_	Gender=Masc|Number=Plur|PronType=Prs	4	nsubj	4:nsubj	_
+1	Ata	ai	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	4	nsubj	4:nsubj	_
 2	janë	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	4	cop	4:cop	_
 3	të	i	DET	_	Gender=Masc	4	det:adj	4:det:adj	_
 4	vetmit	vetmi	ADJ	_	Gender=Masc|Number=Plur	0	root	0:root	_
@@ -74,7 +74,7 @@ The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href=
 5	një	një	NUM	_	_	6	nummod	6:nummod	_
 6	brez	brez	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|NounType=Het|Number=Sing	1	nmod	1:nmod	_
 7	në	në	ADP	_	_	8	case	8:case	_
-8	tjetrin	tjetër	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	1	nmod	1:nmod	_
+8	tjetrin	tjetër	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	1	nmod	1:nmod	_
 9	ndihmon	ndihmoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	0:root	_
 10	në	në	ADP	_	_	11	case	11:case	_
 11	centralizimin	centralizim	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	9	obl	9:obl	_

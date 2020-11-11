@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Portuguese-PUD: Relations: `compound`
 
 This relation is universal.
-There are 1 language-specific subtypes of `compound`: <tt><a href="pt_pud-dep-compound-prt.html">compound:prt</a></tt>.
 
-36 nodes (0%) are attached to their parents as `compound`.
+20 nodes (0%) are attached to their parents as `compound`.
 
-36 instances of `compound` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13888888888889.
+20 instances of `compound` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05.
 
-The following 8 pairs of parts of speech are connected with `compound`: <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> (17; 47% instances), <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt> (6; 17% instances), <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_pud-pos-X.html">X</a></tt> (3; 8% instances), <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_pud-pos-X.html">X</a></tt> (3; 8% instances), <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_pud-pos-X.html">X</a></tt> (2; 6% instances), <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `compound`: <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> (13; 65% instances), <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_pud-pos-X.html">X</a></tt> (3; 15% instances), <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_pud-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_pud-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -23,86 +22,85 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 compound	color:blue
-1	O	_	DET	PDT	Gender=Masc|Number=Sing	4	det:predet	_	_
+1	O	o	DET	PDT	Gender=Masc|Number=Sing	4	det:predet	_	_
 2	seu	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	4	det	_	_
-3	primeiro	_	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
-4	rei	_	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
-5	foi	_	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	_
-6	Mojmir	_	PROPN	NNP	Gender=Masc|Number=Sing	0	root	_	_
+3	primeiro	primeiro	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
+4	rei	rei	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	foi	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	_
+6	Mojmir	Mojmir	PROPN	NNP	Gender=Masc|Number=Sing	0	root	_	_
 7	I	_	ADJ	JJ	Gender=Masc|Number=Sing	6	compound	_	Proper=True
-8	(	_	PUNCT	(	_	10	punct	_	SpaceAfter=No
+8	(	(	PUNCT	(	_	10	punct	_	SpaceAfter=No
 9	que	_	PRON	WP	_	10	nsubj	_	_
-10	governou	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	6	acl:relcl	_	_
-11	de	_	ADP	IN	_	12	case	_	_
+10	governou	governar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	acl:relcl	_	_
+11	de	de	ADP	IN	_	12	case	_	_
 12	830	_	NUM	CD	Gender=Masc	10	obl	_	_
 13	a	_	ADP	IN	_	14	case	_	_
 14	846	_	NUM	CD	Gender=Masc	12	nmod	_	SpaceAfter=No
-15	)	_	PUNCT	)	_	10	punct	_	SpaceAfter=No
-16	.	_	PUNCT	.	_	6	punct	_	_
+15	)	)	PUNCT	)	_	10	punct	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 compound	color:blue
-1	Enquanto	_	ADP	IN	_	10	discourse	_	_
-2	isso	_	PRON	PDEM	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
-3	,	_	PUNCT	,	_	1	punct	_	_
-4	seu	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	5	det	_	_
-5	lugar	_	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj:pass	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 compound	color:blue
+1	A	o	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+2	Revolução	revolução	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	Proper=True
+3	Industrial	industrial	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
+4	aconteceu	acontecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	antes	antes	ADV	RB	_	4	advmod	_	_
 6	em	em	ADP	INDT	_	8	case	_	_
 7	a	o	DET	_	Gender=Fem|Number=Sing	8	det	_	_
-8	tribuna	_	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
-9	foi	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	10	aux:pass	_	_
-10	tomado	_	VERB	VBN	Aspect=Perf|Gender=Masc|Number=Sing	0	root	_	_
-11	por	_	ADP	IN	_	12	case	_	_
-12	Marco	_	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	Proper=True
-13	Antonio	_	PROPN	NNP	Gender=Masc|Number=Sing	12	compound	_	SpaceAfter=No
-14	,	_	PUNCT	,	_	16	punct	_	_
-15	quem	_	PRON	WP	_	16	nsubj	_	_
-16	ocupou	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	12	acl:relcl	_	_
-17	a	_	DET	DT	Gender=Fem|Number=Sing	18	det	_	_
-18	posição	_	NOUN	NN	Gender=Fem|Number=Sing	16	obj	_	_
-19	até	_	ADP	IN	_	20	case	_	_
-20	dezembro	_	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
-21	.	_	PUNCT	.	_	10	punct	_	_
+8	Grã	Grã	PROPN	NNP	Gender=Fem|Number=Sing	5	obl	_	_
+9	Bretanha	_	X	GW	_	8	compound	_	Proper=True
+10	de	de	ADP	INDT	_	5	case	_	_
+11	o	o	DET	_	Gender=Masc|Number=Sing	5	det	_	_
+12	que	_	ADP	IN	_	16	case	_	ToDo=ex-adp-child
+13	em	em	ADP	IN	_	16	case	_	_
+14	qualquer	_	DET	PDT	Gender=Masc|Number=Sing	16	det:predet	_	_
+15	outro	_	DET	DT	Gender=Masc|Number=Sing	16	det	_	_
+16	país	país	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 compound	color:blue
-1	Mas	_	CCONJ	CC	_	20	discourse	_	SpaceAfter=No
-2	,	_	PUNCT	,	_	17	punct	_	_
-3	a	a	ADP	INDT	_	17	mark	_	_
-4	a	o	DET	_	Gender=Fem|Number=Sing	3	fixed	_	_
-5	medida	_	NOUN	NN	Gender=Fem|Number=Sing	3	fixed	_	_
-6	que	_	ADP	IN	_	3	fixed	_	_
-7	a	_	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
-8	crítica	_	NOUN	NN	Gender=Fem|Number=Sing	17	nsubj	_	_
-9	contra	_	ADP	IN	_	10	case	_	_
-10	Clinton	_	PROPN	NNP	Gender=Fem|Number=Sing	8	nmod	_	_
-11	como	_	ADP	IN	_	12	case	_	_
-12	Primeira	_	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
-13	Dama	_	X	GW	_	12	compound	_	_
-14	se	_	PRON	SE	Person=3	17	compound:prt	_	_
-15	tornou	_	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	17	cop	_	_
-16	mais	_	ADV	RBR	_	17	advmod	_	_
-17	ácida	_	ADJ	JJ	Gender=Fem|Number=Sing	20	advcl	_	SpaceAfter=No
-18	,	_	PUNCT	,	_	17	punct	_	_
-19	Karel	_	PROPN	NNP	Gender=Masc|Number=Sing	20	nsubj	_	_
-20	demonstrou	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-21	mais	_	ADJ	JJR	Gender=Fem|Number=Sing	22	amod	_	_
-22	empatia	_	NOUN	NN	Gender=Fem|Number=Sing	20	obj	_	SpaceAfter=No
-23	.	_	PUNCT	.	_	20	punct	_	_
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 15 compound	color:blue
+1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	Dupla	dupla	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	fez	fazer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	uma	um	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+5	pegadinha	_	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
+6	a	a	ADP	INDT	_	8	case	_	_
+7	o	o	DET	_	Gender=Masc|Number=Sing	8	det	_	_
+8	entrar	_	VERB	VB	_	3	xcomp	_	_
+9	em	em	ADP	INDT	_	11	case	_	_
+10	o	o	DET	_	Gender=Masc|Number=Sing	11	det	_	_
+11	torneio	torneio	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
+12	de	de	ADP	IN	_	13	case	_	_
+13	golfe	golfe	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
+14	norte	norte	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	_
+15	coreano	coreano	ADJ	_	Gender=Masc|Number=Sing	14	compound	_	_
+16	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+17	,	,	PUNCT	,	_	18	punct	_	_
+18	saiu	sair	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	parataxis	_	_
+19	em	em	ADP	INDT	_	21	case	_	_
+20	as	o	DET	_	Gender=Fem|Number=Plur	21	det	_	_
+21	notícias	notícia	NOUN	NN	Gender=Fem|Number=Plur	18	obl	_	_
+22	de	de	ADP	INDT	_	24	case	_	_
+23	o	o	DET	_	Gender=Masc|Number=Sing	24	det	_	_
+24	Brisbane's	Brisbane's	PROPN	NNP	Gender=Masc|Number=Sing	21	nmod	_	_
+25	Nine	Nine	PROPN	NNP	Foreign=Yes|Gender=Masc|Number=Sing	24	flat	_	SpaceAfter=No
+26	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

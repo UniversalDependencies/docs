@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7108 nodes (5%) are attached to their parents as `nmod`.
+16519 nodes (7%) are attached to their parents as `nmod`.
 
-7103 instances of `nmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4572312886888.
+16488 instances of `nmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3971790059931.
 
-The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (5922; 83% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (657; 9% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (364; 5% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (38; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (38; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (27; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (26; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `nmod`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (11490; 70% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (3318; 20% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (657; 4% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (511; 3% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (233; 1% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (157; 1% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (54; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (50; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (20; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,12 +55,15 @@ The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nmod	color:blue
-1	仁	仁	NOUN	n,名詞,描写,態度	_	2	nmod	_	Gloss=benevolence|SpaceAfter=No
-2	者	者	PART	p,助詞,提示,*	_	6	nsubj	_	Gloss=that-which|SpaceAfter=No
-3	其	其	PART	p,助詞,句頭,*	_	4	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
-4	言	言	VERB	v,動詞,行為,伝達	_	6	nsubj	_	Gloss=speak|SpaceAfter=No
-5	也	也	PART	p,助詞,提示,*	_	4	mark	_	Gloss=that-which|SpaceAfter=No
-6	訒	訒	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=stammer|SpaceAfter=No
+1	弈	弈	NOUN	n,名詞,可搬,道具	_	2	nmod	_	Gloss=board-game|SpaceAfter=No
+2	秋	秋	PROPN	n,名詞,人,名	NameType=Giv	8	nsubj	_	Gloss=[given-name]|SpaceAfter=No
+3	通	通	VERB	v,動詞,行為,移動	_	6	advcl	_	Gloss=go-through|SpaceAfter=No
+4	國	國	NOUN	n,名詞,主体,集団	_	3	obj	_	Gloss=country|SpaceAfter=No
+5	之	之	SCONJ	p,助詞,接続,属格	_	3	mark	_	Gloss='s|SpaceAfter=No
+6	善	善	VERB	v,動詞,描写,態度	Degree=Pos	8	acl	_	Gloss=good|SpaceAfter=No
+7	弈	弈	NOUN	n,名詞,可搬,道具	_	6	obj	_	Gloss=board-game|SpaceAfter=No
+8	者	者	PART	p,助詞,提示,*	_	0	root	_	Gloss=that-which|SpaceAfter=No
+9	也	也	PART	p,助詞,句末,*	_	8	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 ~~~
 

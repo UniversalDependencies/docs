@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 5 language-specific subtypes of `aux`: <tt><a href="myv_jr-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="myv_jr-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="myv_jr-dep-aux-opt.html">aux:opt</a></tt>, <tt><a href="myv_jr-dep-aux-q.html">aux:q</a></tt>.
 
-44 nodes (0%) are attached to their parents as `aux`.
+47 nodes (0%) are attached to their parents as `aux`.
 
-40 instances of `aux` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27272727272727.
+43 instances of `aux` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27659574468085.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (43; 98% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (46; 98% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -58,7 +58,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 11	тосо	тосо	ADV	Adv	AdvType=Loc|Derivation=Ine	5	acl:relcl	_	GTtags=Spat,Adv|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	14	punct	_	_
 13	эрьва	эрьва	DET	Det	Case=Nom|Definite=Ind|Number=Sing	14	det	_	GTtags=Sg,Nom,Indef
-14	ёндо	ёно	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	19	obl	_	GTtags=Sem/Relat,SP,Abl,Indef|SpaceAfter=No
+14	ёндо	ён	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	19	obl	_	GTtags=Relator,SP,Abl,Indef|SpaceAfter=No
 15	,	,	PUNCT	CLB	_	19	punct	_	_
 16	пек	пек	ADV	Adv	AdvType=Deg	17	advmod:deg	_	GTtags=Degree
 17	васоло	васоло	ADV	Adv	AdvType=Loc|Case=Loc	18	advmod:lmod	_	GTtags=Spat,Loc
@@ -74,7 +74,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 27	стака	стака	ADJ	A	_	4	ccomp	_	GTtags=|SpaceAfter=No
 28	,	,	PUNCT	CLB	_	30	punct	_	_
 29	кода	кода	ADV	Adv	AdvType=Man|PronType=Int	30	mark	_	GTtags=Interr,Manner
-30	сыненсткак	сон	PRON	Pron	Case=Dat|Clitic=Gak|Number=Plur|Person=3|PronType=Prs|Variant=Long	22	conj	_	GTtags=Pers,Pl3,Dat,Variant=Long,Clt/Gak|SpaceAfter=No
+30	сыненсткак	сон	PRON	Pron	Case=Dat|Clitic=Add|Number=Plur|Person=3|PronType=Prs|Variant=Long	22	conj	_	GTtags=Pers,Pl3,Dat,Variant=Long,Clt/Gak|SpaceAfter=No
 31	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

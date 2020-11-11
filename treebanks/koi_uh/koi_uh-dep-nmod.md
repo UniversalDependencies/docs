@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `nmod`: <tt><a href="koi_uh-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="koi_uh-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-33 nodes (5%) are attached to their parents as `nmod`.
+36 nodes (4%) are attached to their parents as `nmod`.
 
-32 instances of `nmod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.06060606060606.
+34 instances of `nmod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13888888888889.
 
-The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (14; 42% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (10; 30% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (6; 18% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (17; 47% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (10; 28% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (6; 17% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

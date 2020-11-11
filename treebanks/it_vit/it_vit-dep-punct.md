@@ -10,10 +10,10 @@ This relation is universal.
 
 31577 nodes (11%) are attached to their parents as `punct`.
 
-22747 instances of `punct` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.65341862748203.
+22746 instances of `punct` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.65899230452545.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (14859; 47% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (10515; 33% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (2590; 8% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1707; 5% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (795; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (464; 1% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (351; 1% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (101; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (78; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (52; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (34; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (14859; 47% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (10547; 33% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (2583; 8% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1712; 5% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (792; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (526; 2% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (346; 1% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (97; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (52; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (34; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (17; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 6	più	più	ADV	B	_	10	advmod	_	_
 7	o	o	CCONJ	CC	_	8	cc	_	_
 8	meno	meno	ADV	B	_	6	conj	_	_
-9	si	si	PRON	PC	Clitic=Yes|Gender=Masc|Person=3|PronType=Prs	10	expl	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
 10	veste	vestire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	1	punct	_	_
 

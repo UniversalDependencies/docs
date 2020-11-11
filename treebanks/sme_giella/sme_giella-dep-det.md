@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 det	color:blue
-1	Ale	ii	VERB	V	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	2	aux:neg	_	_
+1	Ale	ii	AUX	V	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	2	aux:neg	_	_
 2	moaráhuva	moaráhuvvat	VERB	V	Connegative=Yes|Mood=Imp|VerbForm=Fin	0	root	_	_
 3	munnje	mun	PRON	Pron	Case=Ill|Number=Sing|Person=1|PronType=Prs	2	obl	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	2	punct	_	_
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 1	Dainna	dat	PRON	Pron	Case=Com|Number=Sing|PronType=Dem	2	det	_	_
 2	čuđiin	čuohti	NUM	Num	Case=Com|Number=Sing|NumType=Card	3	nummod	_	_
 3	ruvnnuin	ruvdnu	NOUN	N	Case=Com|Number=Sing	6	obl	_	_
-4	áiggun	áigut	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	áiggun	áigut	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
 5	bierggu	biergu	NOUN	N	Case=Acc|Number=Sing	6	obj	_	_
 6	oastit	oastit	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	_
@@ -61,7 +61,7 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 1	fgColor:white
 # visual-style 1 3 det	color:blue
 1	Doai	don	PRON	Pron	Case=Nom|Number=Dual|Person=2|PronType=Prs	4	nsubj	_	_
-2	galgabeahtti	galgat	VERB	V	Mood=Ind|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	galgabeahtti	galgat	AUX	V	Mood=Ind|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	ieža	ieš	PRON	Pron	Case=Nom|Number=Dual|PronType=Prs|Reflex=Yes	1	det	_	_
 4	mannat	mannat	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_

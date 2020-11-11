@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 mark	color:blue
 1	Tað	tað	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
 3	ókeypis	ókeypis	ADV	Adv	_	0	root	_	_
 4	at	at	PART	IM	_	5	mark	_	_
 5	brúka	brúka	VERB	V	VerbForm=Inf	3	csubj	_	_
@@ -43,7 +43,7 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 10	fgColor:white
 # visual-style 10 8 mark	color:blue
 1	Føroyar	Føroyar	PROPN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	4	nsubj	_	_
-2	eru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Pres	4	cop	_	_
+2	eru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Pres	4	cop	_	_
 3	ikki	ikki	ADV	Adv	_	4	advmod	_	_
 4	limur	limur	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	í	í	ADP	Pr	_	6	case	_	_
@@ -65,7 +65,7 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 7 6 mark	color:blue
 1	Í	í	ADP	Pr	_	2	case	_	_
 2	2011	2011	NUM	Num	Case=Dat	5	obl	_	_
-3	varð	verða	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
+3	varð	verða	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
 4	hann	hann	PRON	Pron	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	útbúgvin	útbúgvin	ADJ	A	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 6	sum	sum	SCONJ	CS	_	7	mark	_	_

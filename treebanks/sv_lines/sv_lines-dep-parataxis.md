@@ -25,7 +25,7 @@ The following 40 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Inte	inte	PART	NEG	_	2	advmod	_	_
 2	vet	veta	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	jag	jag	PRON	PERS-P1SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	nsubj	_	SpaceAfter=No
-4	,	,	PUNCT	Comma	_	2	punct	_	_
+4	,	,	PUNCT	Comma	_	5	punct	_	_
 5	sa	säga	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
 6	flickan	flicka	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	5	nsubj	_	_
 7	med	med	ADP	_	_	10	case	_	_

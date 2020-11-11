@@ -33,7 +33,7 @@ The following 16 pairs of parts of speech are connected with `acl:cleft`: <tt><a
 8	kjøttvekt	kjøttvekt	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 9	som	som	PRON	_	PronType=Rel	10	nsubj	_	_
 10	slår	slå	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:cleft	_	_
-11	ut	ut	ADP	_	_	10	compound:prt	_	_
+11	ut	ut	ADP	_	_	10	compound:prt	_	SpaceAfter=No
 12	.	$.	PUNCT	_	_	8	punct	_	_
 
 ~~~
@@ -51,7 +51,7 @@ The following 16 pairs of parts of speech are connected with `acl:cleft`: <tt><a
 4	nettopp	nettopp	ADV	_	_	5	advmod	_	_
 5	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	_
 6	som	som	PRON	_	PronType=Rel	7	nsubj	_	_
-7	skjer	skje	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:cleft	_	_
+7	skjer	skje	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:cleft	_	SpaceAfter=No
 8	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -71,7 +71,7 @@ The following 16 pairs of parts of speech are connected with `acl:cleft`: <tt><a
 6	Cohen	Cohen	PROPN	_	_	4	flat:name	_	_
 7	han	han	PRON	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 8	siktet	sikte	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:cleft	_	_
-9	til	til	ADP	_	_	8	compound:prt	_	_
+9	til	til	ADP	_	_	8	compound:prt	_	SpaceAfter=No
 10	?	$?	PUNCT	_	_	4	punct	_	_
 
 ~~~

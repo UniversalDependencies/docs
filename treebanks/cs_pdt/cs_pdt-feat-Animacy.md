@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členové</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (6947) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (6951) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-NameType.html">NameType</a></tt><tt>=Sur</tt></tt></td><td><em>YORK</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (10352) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (10351) occur only with one value of `Animacy`.
 
 ### `VERB`
 

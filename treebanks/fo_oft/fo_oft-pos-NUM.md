@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Faroese-OFT: POS Tags: `NUM`
 
-There are 138 `NUM` lemmas (6%), 143 `NUM` types (5%) and 239 `NUM` tokens (2%).
-Out of 15 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 10 in number of tokens.
+There are 138 `NUM` lemmas (6%), 143 `NUM` types (4%) and 239 `NUM` tokens (2%).
+Out of 16 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>%, eitt, tvey, 2005, 2011, trý, 10, 2010, 4, 18</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>ein</em> (<tt><a href="fo_oft-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.036232 (the average of all parts of speech is 1.289602).
+The form / lemma ratio of `NUM` is 1.036232 (the average of all parts of speech is 1.290924).
 
 The 1st highest number of forms (4) was observed with the lemma “tvey”: <em>tveimum, tveir, tvey, tvær</em>.
 
@@ -72,7 +72,7 @@ Examples: <em>%, ein, 10, 26, 4, tveir, 13, 14, 18, 1917</em>
 
 `NUM` nodes are attached to their parents using 12 different relations: <tt><a href="fo_oft-dep-nummod.html">nummod</a></tt> (140; 59% instances), <tt><a href="fo_oft-dep-obl.html">obl</a></tt> (46; 19% instances), <tt><a href="fo_oft-dep-root.html">root</a></tt> (17; 7% instances), <tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt> (15; 6% instances), <tt><a href="fo_oft-dep-conj.html">conj</a></tt> (6; 3% instances), <tt><a href="fo_oft-dep-nmod.html">nmod</a></tt> (5; 2% instances), <tt><a href="fo_oft-dep-appos.html">appos</a></tt> (4; 2% instances), <tt><a href="fo_oft-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="fo_oft-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 6 different parts of speech: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (163; 68% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (34; 14% instances),  (17; 7% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (11; 5% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (9; 4% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (5; 2% instances)
+Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (163; 68% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (30; 13% instances),  (17; 7% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (11; 5% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (9; 4% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (4; 2% instances)
 
 126 (53%) `NUM` nodes are leaves.
 
@@ -86,5 +86,5 @@ The highest child degree of a `NUM` node is 7.
 
 Children of `NUM` nodes are attached using 15 different relations: <tt><a href="fo_oft-dep-case.html">case</a></tt> (73; 33% instances), <tt><a href="fo_oft-dep-dep.html">dep</a></tt> (34; 15% instances), <tt><a href="fo_oft-dep-nmod.html">nmod</a></tt> (24; 11% instances), <tt><a href="fo_oft-dep-punct.html">punct</a></tt> (24; 11% instances), <tt><a href="fo_oft-dep-cop.html">cop</a></tt> (16; 7% instances), <tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt> (16; 7% instances), <tt><a href="fo_oft-dep-advmod.html">advmod</a></tt> (12; 5% instances), <tt><a href="fo_oft-dep-obl.html">obl</a></tt> (8; 4% instances), <tt><a href="fo_oft-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="fo_oft-dep-conj.html">conj</a></tt> (5; 2% instances), <tt><a href="fo_oft-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="fo_oft-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 10 different parts of speech: <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (71; 32% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (45; 20% instances), <tt><a href="fo_oft-pos-X.html">X</a></tt> (34; 15% instances), <tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (24; 11% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (19; 9% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (11; 5% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (9; 4% instances), <tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (2; 1% instances)
+Children of `NUM` nodes belong to 11 different parts of speech: <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (71; 32% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (45; 20% instances), <tt><a href="fo_oft-pos-X.html">X</a></tt> (34; 15% instances), <tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (24; 11% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (16; 7% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (11; 5% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (9; 4% instances), <tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (2; 1% instances)
 

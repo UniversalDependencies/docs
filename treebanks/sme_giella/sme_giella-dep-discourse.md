@@ -11,7 +11,7 @@ This relation is universal.
 270 nodes (1%) are attached to their parents as `discourse`.
 
 147 instances of `discourse` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.64814814814815.
+Average distance between parent and child is 1.6962962962963.
 
 The following 10 pairs of parts of speech are connected with `discourse`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-PART.html">PART</a></tt> (185; 69% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-PART.html">PART</a></tt> (27; 10% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-PART.html">PART</a></tt> (17; 6% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-PART.html">PART</a></tt> (14; 5% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-INTJ.html">INTJ</a></tt> (9; 3% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-PART.html">PART</a></tt> (6; 2% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-INTJ.html">INTJ</a></tt> (5; 2% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt>-<tt><a href="sme_giella-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="sme_giella-pos-PART.html">PART</a></tt>-<tt><a href="sme_giella-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 3 discourse	color:blue
 1	Eriksen	Eriksen	PROPN	N	Case=Nom|Number=Sing	4	nsubj	_	_
-2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	ge	ge	PART	Pcle	_	4	discourse	_	_
 4	soahpan	soahpat	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	_
 5	Anders	Anders	PROPN	N	_	8	nmod:poss	_	_

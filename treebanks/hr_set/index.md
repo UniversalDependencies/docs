@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Željko Agić, Nikola Ljubešić, Daniel Zeman.
 
 Repository: [UD_Croatian-SET](https://github.com/UniversalDependencies/UD_Croatian-SET)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhr_set26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhr_set27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -883,7 +883,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen (110)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(do) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(od) (14)</li>
-      <li>VERB-Fin--NOUN-Nom (2690)</li>
+      <li>VERB-Fin--NOUN-Nom (2691)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(diljem) (1)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
       <li>VERB-Fin--PRON-Acc (6)</li>
@@ -918,17 +918,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (7)</li>
-      <li>VERB-Fin--NOUN-Acc (1910)</li>
+      <li>VERB-Fin--NOUN-Acc (1913)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(na) (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(od) (2)</li>
       <li>VERB-Fin--NOUN-Dat (121)</li>
-      <li>VERB-Fin--NOUN-Gen (204)</li>
+      <li>VERB-Fin--NOUN-Gen (205)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(od) (12)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(preko) (1)</li>
       <li>VERB-Fin--NOUN-Ins (31)</li>
       <li>VERB-Fin--NOUN-Loc (5)</li>
       <li>VERB-Fin--NOUN-Nom (45)</li>
-      <li>VERB-Fin--PRON-Acc (498)</li>
+      <li>VERB-Fin--PRON-Acc (499)</li>
       <li>VERB-Fin--PRON-Acc-ADP(na) (2)</li>
       <li>VERB-Fin--PRON-Acc-ADP(za) (3)</li>
       <li>VERB-Fin--PRON-Dat (73)</li>
@@ -938,10 +937,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Loc (1)</li>
       <li>VERB-Fin--PRON-Nom (11)</li>
       <li>VERB-Inf--NOUN (3)</li>
-      <li>VERB-Inf--NOUN-Acc (1255)</li>
+      <li>VERB-Inf--NOUN-Acc (1254)</li>
       <li>VERB-Inf--NOUN-Dat (42)</li>
-      <li>VERB-Inf--NOUN-Gen (95)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(do) (2)</li>
+      <li>VERB-Inf--NOUN-Gen (97)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(do) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(između) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(od) (2)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(oko) (1)</li>
@@ -986,7 +985,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen (5)</li>
       <li>VERB-Fin--NOUN-Ins (18)</li>
       <li>VERB-Fin--NOUN-Loc (4)</li>
-      <li>VERB-Fin--PRON-Dat (106)</li>
+      <li>VERB-Fin--PRON-Dat (108)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Dat (60)</li>

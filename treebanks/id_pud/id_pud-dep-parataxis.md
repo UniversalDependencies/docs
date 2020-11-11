@@ -8,56 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-116 nodes (1%) are attached to their parents as `parataxis`.
+114 nodes (1%) are attached to their parents as `parataxis`.
 
-86 instances of `parataxis` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.03448275862069.
+110 instances of `parataxis` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.8684210526316.
 
-The following 21 pairs of parts of speech are connected with `parataxis`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (28; 24% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (18; 16% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (15; 13% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (14; 12% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (7; 6% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 11 parataxis	color:blue
-1	Studi	_	NOUN	NN	_	5	nsubj:pass	_	_
-2	tentang	_	ADP	IN	_	3	case	_	_
-3	gunung	_	NOUN	NN	_	1	nmod	_	_
-4	berapi	_	NOUN	NN	_	3	acl:relcl	_	_
-5	disebut	_	VERB	VV	_	0	root	_	_
-6	volkanologi	_	NOUN	NN	_	5	obj	_	SpaceAfter=No
-7	,	_	PUNCT	,	_	11	punct	_	_
-8	kadang	_	ADV	RB	_	11	aux	_	SpaceAfter=No
-9	-	_	PUNCT	HYPH	_	10	punct	_	SpaceAfter=No
-10	kadang	_	ADV	RB	_	8	compound:plur	_	_
-11	dieja	_	VERB	VV	_	5	parataxis	_	_
-12	vulkanologi	_	NOUN	NN	_	11	obj	_	SpaceAfter=No
-13	.	_	PUNCT	.	_	5	punct	_	_
-
-~~~
+The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (69; 61% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (14; 12% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (9; 8% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (7; 6% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 11 parataxis	color:blue
-1	Lagi	_	ADV	RB	_	6	advmod	_	SpaceAfter=No
-2	pula	_	ADV	RB	_	1	fixed	_	SpaceAfter=No
-3	,	_	PUNCT	,	_	1	punct	_	_
-4	internet	_	NOUN	NN	_	6	nsubj	_	_
-5	bukan	_	ADV	RB	Polarity=Neg	6	advmod	_	_
-6	barang	_	NOUN	NN	_	0	root	_	_
-7	mewah	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No
-8	;	_	PUNCT	:	_	11	punct	_	_
-9	internet	_	NOUN	NN	_	11	nsubj	_	_
-10	adalah	_	AUX	VC	_	11	cop	_	_
-11	alat	_	NOUN	NN	_	6	parataxis	_	_
-12	penting	_	ADJ	JJ	_	11	amod	_	SpaceAfter=No
-13	.	_	PUNCT	.	_	6	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 parataxis	color:blue
+1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+2	Suara	suara	NOUN	_	Number=Sing	4	nsubj	_	_
+3	nya	nya	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+4	menjangkau	jangkau	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+5	seluruh	seluruh	DET	_	PronType=Tot	6	det	_	_
+6	dunia	dunia	NOUN	_	Number=Sing	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=No
+8	"	"	PUNCT	_	_	4	punct	_	_
+9	kata	kata	VERB	_	Mood=Ind|Voice=Act	4	parataxis	_	_
+10	Leive	Leive	PROPN	_	_	9	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -65,30 +40,52 @@ The following 21 pairs of parts of speech are connected with `parataxis`: <tt><a
 ~~~ conllu
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 14 parataxis	color:blue
-1	Pulau	_	NOUN	NN	Number=Plur	5	nsubj	_	SpaceAfter=No
-2	-	_	PUNCT	HYPH	_	3	punct	_	SpaceAfter=No
-3	pulau	_	NOUN	NN	_	1	compound:plur	_	_
-4	ini	_	DET	DT	_	1	det	_	_
-5	terletak	_	NOUN	NN	_	0	root	_	_
-6	di	_	ADP	IN	_	7	case	_	_
-7	patahan	_	ADJ	JJ	_	5	nmod	_	SpaceAfter=No|ToDo=nmod
-8	Indo	_	PROPN	NNP	_	7	compound	_	SpaceAfter=No
-9	-	_	PUNCT	HYPH	_	10	punct	_	SpaceAfter=No
-10	Australia	_	PROPN	NNP	_	8	flat:name	_	SpaceAfter=No
-11	;	_	PUNCT	:	_	14	punct	_	_
-12	patahan	_	ADJ	JJ	_	14	nsubj	_	SpaceAfter=No
-13	ini	_	DET	DT	_	12	det	_	_
-14	naik	_	VERB	VV	_	5	parataxis	_	_
-15	akibat	_	ADP	IN	_	16	case	_	_
-16	tabrakan	_	VERB	VV	_	14	obl	_	SpaceAfter=No
-17	pelat	_	NOUN	NN	_	16	compound	_	_
-18	Hindia	_	PROPN	NNP	_	17	compound	_	_
-19	dan	_	CCONJ	CC	_	20	cc	_	_
-20	Australia	_	PROPN	NNP	_	18	conj	_	SpaceAfter=No
-21	.	_	PUNCT	.	_	5	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 14 parataxis	color:blue
+1	Federico	Federico	PROPN	_	_	4	nsubj	_	_
+2	Fellini	Fellini	PROPN	_	_	1	flat:name	_	_
+3	pernah	pernah	ADV	_	_	4	advmod	_	_
+4	mengatakan	kata	VERB	_	Mood=Ind|Voice=Act	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	14	punct	_	_
+6	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+7	Seperti	seperti	ADP	_	_	8	case	_	_
+8	badut	badut	NOUN	_	Number=Sing	14	nmod	_	_
+9	bagi	bagi	ADP	_	_	10	case	_	_
+10	kemanusiaan	manusia	NOUN	_	Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	demikian	demikian	PRON	_	PronType=Dem	14	nmod	_	_
+13	lah	lah	PART	_	_	12	advmod:emph	_	_
+14	bayangan	bayang	NOUN	_	Number=Sing	4	parataxis	_	_
+15	bagi	bagi	ADP	_	_	16	case	_	_
+16	manusia	manusia	NOUN	_	Number=Sing	14	nmod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 13 parataxis	color:blue
+1	Penangkapan	tangkap	NOUN	_	Number=Sing	6	nsubj	_	_
+2	saat	saat	NOUN	_	Number=Sing	1	nmod:tmod	_	_
+3	ini	ini	DET	_	PronType=Dem	2	det	_	_
+4	adalah	adalah	AUX	_	_	6	cop	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	kelanjutan	lanjut	NOUN	_	Number=Sing	0	root	_	_
+7	dari	dari	ADP	_	_	8	case	_	_
+8	permainan	main	NOUN	_	Number=Sing	6	nmod	_	_
+9	terhadap	hadap	ADP	_	_	10	case	_	_
+10	kami	kami	PRON	_	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	6	punct	_	SpaceAfter=No
+12	"	"	PUNCT	_	_	6	punct	_	_
+13	ujar	ujar	VERB	_	Mood=Ind|Voice=Act	6	parataxis	_	_
+14	Dündar	Dündar	PROPN	_	_	13	nsubj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

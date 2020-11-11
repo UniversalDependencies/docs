@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Welsh-CCG: Relations: `compound`
 
 This relation is universal.
+There are 1 language-specific subtypes of `compound`: <tt><a href="cy_ccg-dep-compound-redup.html">compound:redup</a></tt>.
 
 6 nodes (0%) are attached to their parents as `compound`.
 
@@ -76,7 +77,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 24	dde	de	ADJ	pos	Degree=Pos|Mutation=SM	23	amod	_	SpaceAfter=No
 25	-	-	PUNCT	punct	_	24	punct	_	SpaceAfter=No
 26	chwith	chwith	ADJ	pos	Degree=Pos	24	compound	_	SpaceAfter=No
-27	.	.	PUNCT	punct	_	16	punct	_	SpacesAfter=\s\n
+27	.	.	PUNCT	punct	_	16	punct	_	SpacesAfter=\n
 
 ~~~
 

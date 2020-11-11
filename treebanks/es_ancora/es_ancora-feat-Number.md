@@ -43,7 +43,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (18047; 25% of non-empty `Number`): <em>los, las, sus, todos, otros, estos, unos, todas, estas, otras</em>
 * `Sing` (55521; 75% of non-empty `Number`): <em>la, el, un, una, su, este, esta, todo, esa, ese</em>
-* `EMPTY` (64): <em>qué, Dios, sabe</em>
+* `EMPTY` (70): <em>qué, Al, A, Dios, sabe</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -144,7 +144,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 10337 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (40% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (10171; 98%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (6686; 65%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6179; 60%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (10044; 97%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (6686; 65%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6179; 60%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -154,7 +154,6 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>me</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>él, ello</em></td><td><em>ellos</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ella</em></td><td><em>ellas</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>lo</em></td><td></td></tr>
@@ -162,6 +161,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>lo</em></td><td><em>los</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>la</em></td><td><em>las</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>me</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>le</em></td><td><em>les</em></td></tr>
 </table>
 

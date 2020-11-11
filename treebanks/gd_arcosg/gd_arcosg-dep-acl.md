@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="gd_arcosg-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-15 nodes (0%) are attached to their parents as `acl`.
+19 nodes (0%) are attached to their parents as `acl`.
 
-14 instances of `acl` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.33333333333333.
+18 instances of `acl` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.57894736842105.
 
-The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (9; 60% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 20% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 7% instances).
+The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (9; 47% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (6; 32% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -40,27 +40,28 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 acl	color:blue
-1	Gun	gun	ADP	Sp	_	2	case	_	_
-2	ghuth	guth	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	_
-3	sheasadh	seas	VERB	V-h	Mood=Cnd	0	root	_	_
-4	Labhruinn	Labhruinn	PROPN	Nn-mn	Case=Nom|Gender=Masc	3	nsubj	_	_
-5	ag	ag	PART	Sa	_	6	case	_	_
-6	amharc	amhairc	NOUN	Nv	VerbForm=Vnoun	3	acl	_	_
-7	air	air	ADP	Sp	_	8	case	_	_
-8	muir	muir	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	_
-9	thonn-gheal	tonn-gheal	ADJ	Aq-smd	Case=Dat|Gender=Masc|Number=Sing	8	amod	_	_
-10	a'	ag	PART	Sa	_	11	case	_	_
-11	deoghal	deoghal	NOUN	Nv	VerbForm=Vnoun	8	acl	_	_
-12	a	a	ADV	Rs	_	11	advmod	_	_
-13	stigh	stigh	ADV	Rs	_	12	fixed	_	_
-14	a	a	DET	Dp3sf	Gender=Fem|Number=Sing|Person=3	15	nmod:poss	_	_
-15	maise	mais	NOUN	Ncsfg	Case=Gen|Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
-16	.	.	PUNCT	Fe	_	3	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 14 acl	color:blue
+1	am	an	DET	Tdsm	Gender=Masc|Number=Sing	2	det	_	_
+2	ball	ball	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	ma-thà	ma-thà	ADV	Rg	_	2	advmod	_	_
+4	a-staigh	a-staigh	ADV	Rs	_	7	advmod	_	_
+5	ann	an	ADP	Sp	_	7	case	_	_
+6	am	an	ADP	Sp	_	5	fixed	_	_
+7	bucas	bucas	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	2	xcomp:pred	_	_
+8	Astràilia	Astràilia	PROPN	Nt	_	7	nmod	_	_
+9	ach	ach	CCONJ	Cc	_	10	cc	_	_
+10	fhuair	faigh	VERB	V-s	Tense=Past	2	conj	_	_
+11	Yankos	Yankos	PROPN	Nn	_	10	nsubj	_	_
+12	buille	buille	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	10	obj	_	_
+13	a'	ag	PART	Sa	_	14	case	_	_
+14	leigeil	leig	NOUN	Nv	VerbForm=Vnoun	10	acl	_	_
+15	le	le	ADP	Sp	_	17	case	_	_
+16	a	a	DET	Dp3sm	Gender=Masc|Number=Sing|Person=3|Poss=Yes	17	nmod:poss	_	_
+17	chas	cas	NOUN	Ncsfd	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	_
 
 ~~~
 

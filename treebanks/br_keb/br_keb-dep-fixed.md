@@ -7,46 +7,50 @@ udver: '2'
 ## Treebank Statistics: UD_Breton-KEB: Relations: `fixed`
 
 This relation is universal.
-There are 1 language-specific subtypes of `fixed`: <tt><a href="br_keb-dep-fixed-name.html">fixed:name</a></tt>.
 
-4 nodes (0%) are attached to their parents as `fixed`.
+63 nodes (1%) are attached to their parents as `fixed`.
 
-4 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25.
+63 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03174603174603.
 
-The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href="br_keb-pos-ADP.html">ADP</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (2; 50% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (1; 25% instances), <tt><a href="br_keb-pos-PART.html">PART</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (1; 25% instances).
+The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href="br_keb-pos-AUX.html">AUX</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (34; 54% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (13; 21% instances), <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (10; 16% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="br_keb-pos-X.html">X</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 16 fixed	color:blue
-1	Komzet	komz	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
-2	e	e	PART	vpart	_	1	aux	_	_
-3	vez	bezañ	VERB	vblex	Aspect=Hab|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	_
-4	kembraeg	kembraeg	NOUN	n	Gender=Masc|Number=Sing	1	nsubj	_	_
-5	e	e	ADP	pr	_	6	case	_	_
-6	Kembre	Kembre	PROPN	np	Number=Sing	1	obl	_	SpaceAfter=No
-7	,	,	PUNCT	cm	_	12	punct	_	_
-8	gant	gant	ADP	pr	_	12	case	_	_
-9	war-dro	war-dro	ADV	adv	_	11	advmod	_	_
-10	611	611	X	x	_	11	dep	_	_
-11	000	000	NUM	num	Number=Plur	12	nummod	_	_
-12	den	den	NOUN	n	Gender=Masc|Number=Sing	1	obl:agent	_	_
-13	(	(	PUNCT	lpar	_	18	punct	_	SpaceAfter=No
-14	da	da	ADP	pr	_	18	cc	_	_
-15	lavaret	lavaret	VERB	vblex	Tense=Past|VerbForm=Part	14	fixed	_	_
-16	eo	bezañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	fixed	_	_
-17	tremen	tremen	ADP	pr	_	18	case	_	_
-18	22%	22	NUM	num	Number=Plur	12	appos	_	_
-19	eus	eus	ADP	pr	_	20	case	_	_
-20	tud	den	NOUN	n	Gender=Masc|Number=Plur	18	nmod	_	_
-21	ar	an	DET	det	_	22	det	_	_
-22	vro	bro	NOUN	n	Gender=Fem|Number=Sing	20	nmod:gen	_	SpaceAfter=No
-23	)	)	PUNCT	rpar	_	18	punct	_	SpaceAfter=No
-24	.	.	PUNCT	sent	_	1	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 fixed	color:blue
+1	C’hwitellat	c’hwitellat	VERB	vblex	VerbForm=Inf	0	root	_	_
+2	a	a	AUX	vpart	_	1	aux	_	_
+3	ra	ober	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
+4	en	en	AUX	vpart	_	6	aux	_	_
+5	ur	ur	X	x	_	4	fixed	_	_
+6	labourat	labourat	VERB	vblex	VerbForm=Inf	1	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	sent	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 fixed	color:blue
+1	Cheñch	cheñch	VERB	vblex	VerbForm=Inf	0	root	_	_
+2	a	a	AUX	vpart	_	1	aux	_	_
+3	raio	ober	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	aux	_	_
+4	spontus	spontus	ADJ	adj	_	1	advmod	_	_
+5	e	e	DET	det	Gender[psor]=Masc|Poss=Yes	6	det	_	_
+6	vuhez	buhez	NOUN	n	Gender=Fem|Number=Sing	1	obj	_	_
+7	abalamour	abalamour	ADP	pr	_	10	case	_	_
+8	d'	da	X	x	_	7	fixed	_	SpaceAfter=No
+9	an	an	DET	det	_	10	det	_	_
+10	enklask	enklask	NOUN	n	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+11	-se	se	ADV	adv	_	1	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	sent	_	1	punct	_	_
 
 ~~~
 
@@ -57,42 +61,22 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Er maez	er-maez	ADV	adv	_	4	case	_	_
-2	eus	eus	ADP	pr	_	1	fixed	_	_
-3	an	an	DET	det	_	4	det	_	_
-4	Emsav	emsav	NOUN	n	Gender=Masc|Number=Sing	6	obl	_	_
-5	e	e	PART	vpart	_	6	aux	_	_
-6	adkaver	adkavout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	nebeut	nebeut	ADV	adv	_	8	advmod	_	_
-8	implij	implij	NOUN	n	Gender=Masc|Number=Sing	6	obj	_	_
-9	eus	eus	ADP	pr	_	11	case	_	_
-10	ar	an	DET	det	_	11	det	_	_
-11	yezh	yezh	NOUN	n	Gender=Fem|Number=Sing	8	nmod	_	_
-12	vrezhon	brezhon	ADJ	adj	_	11	amod	_	_
-13	war	war	ADP	pr	_	15	case	_	_
-14	an	an	DET	det	_	15	det	_	_
-15	dachenn	tachenn	NOUN	n	Gender=Fem|Number=Sing	6	obl	_	_
-16	bolitikel	politikel	ADJ	adj	_	15	amod	_	SpaceAfter=No
-17	.	.	PUNCT	sent	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 fixed	color:blue
-1	Rodig	rodig	NOUN	n	Gender=Masc|Number=Sing	7	nsubj	_	_
-2	hag	ha	CCONJ	cnjcoo	_	4	aux	_	_
-3	a	a	PART	vpart	_	1	acl	_	_
-4	dro	treiñ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	fixed	_	SpaceAfter=No
-5	,	,	PUNCT	cm	_	4	punct	_	_
-6	a	a	PART	vpart	_	7	aux	_	_
-7	ra	ober	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	bro	bro	NOUN	n	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
-9	.	.	PUNCT	sent	_	7	punct	_	_
+1	Tra	tra	SCONJ	cnjadv	_	6	mark	_	_
+2	ma	ma	X	x	_	1	fixed	_	_
+3	vo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	cop	_	_
+4	mor	mor	NOUN	n	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	'vel	evel	ADP	pr	_	6	case	_	_
+6	mur	mur	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
+7	'n	un	DET	det	_	6	det	_	_
+8	he	he	DET	det	Gender[psor]=Fem|Poss=Yes	9	det	_	_
+9	zro	tro	NOUN	n	Gender=Fem|Number=Sing	6	nmod:gen	_	SpaceAfter=No
+10	,	,	PUNCT	cm	_	13	punct	_	_
+11	ra	ra	AUX	vpart	Mood=Opt	13	aux	_	_
+12	vezo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	cop	_	_
+13	digabestr	digabestr	ADJ	adj	_	6	parataxis	_	_
+14	ma	ma	DET	det	Poss=Yes	15	det	_	_
+15	bro	bro	NOUN	n	Gender=Fem|Number=Sing	13	nsubj	_	SpaceAfter=No
+16	!	!	PUNCT	sent	_	6	punct	_	_
 
 ~~~
 

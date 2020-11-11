@@ -41,7 +41,7 @@ The following 26 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 4	fgColor:white
 # visual-style 4 1 dislocated	color:blue
 1	Författare	författare	NOUN	IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	4	dislocated	_	SpaceAfter=No
-2	?	?	PUNCT	QuestionMark	_	4	punct	_	_
+2	?	?	PUNCT	QuestionMark	_	1	punct	_	_
 3	Quinn	Quinn	PROPN	SG-NOM	Case=Nom	4	nsubj	_	_
 4	uttalade	uttala	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	ordet	ord	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	4	obj	_	_

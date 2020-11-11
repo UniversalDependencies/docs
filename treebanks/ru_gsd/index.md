@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Vitaly Nikolaev, Olga Lyashevskaya.
 
 Repository: [UD_Russian-GSD](https://github.com/UniversalDependencies/UD_Russian-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_gsd26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_gsd27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 

@@ -317,7 +317,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9581; 98%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5747; 68%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5748; 68%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3518; 63%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2278; 94%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1628; 80%),

@@ -80,17 +80,17 @@ Examples: <em>di, in, a, per, da, con, su, come, tra, dopo</em>
 
 Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (2373; 62% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> (713; 19% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (294; 8% instances), <tt><a href="it_pud-pos-NUM.html">NUM</a></tt> (144; 4% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (102; 3% instances), <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (69; 2% instances), <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> (60; 2% instances), <tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> (20; 1% instances), <tt><a href="it_pud-pos-SYM.html">SYM</a></tt> (19; 0% instances), <tt><a href="it_pud-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="it_pud-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-3743 (98%) `ADP` nodes are leaves.
+3744 (98%) `ADP` nodes are leaves.
 
 47 (1%) `ADP` nodes have one child.
 
-15 (0%) `ADP` nodes have two children.
+14 (0%) `ADP` nodes have two children.
 
 3 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 10 different relations: <tt><a href="it_pud-dep-fixed.html">fixed</a></tt> (76; 86% instances), <tt><a href="it_pud-dep-case.html">case</a></tt> (2; 2% instances), <tt><a href="it_pud-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="it_pud-dep-punct.html">punct</a></tt> (2; 2% instances), <tt><a href="it_pud-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-flat.html">flat</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-obj.html">obj</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 9 different relations: <tt><a href="it_pud-dep-fixed.html">fixed</a></tt> (76; 88% instances), <tt><a href="it_pud-dep-case.html">case</a></tt> (2; 2% instances), <tt><a href="it_pud-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="it_pud-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-flat.html">flat</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-obj.html">obj</a></tt> (1; 1% instances)
 
-Children of `ADP` nodes belong to 9 different parts of speech: <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> (60; 68% instances), <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (12; 14% instances), <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (6; 7% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="it_pud-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="it_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 2% instances), <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> (60; 70% instances), <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (12; 14% instances), <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (6; 7% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="it_pud-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

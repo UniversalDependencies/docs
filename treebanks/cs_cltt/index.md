@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman, Martin Popel.
 
 Repository: [UD_Czech-CLTT](https://github.com/UniversalDependencies/UD_Czech-CLTT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -93,11 +93,11 @@ http://hdl.handle.net/11234/1-1516.
 
 
 <ul>
-<li>This corpus contains 1125 sentences, 35084 tokens and 35630 syntactic words.</li>
+<li>This corpus contains 1125 sentences, 36673 tokens and 36689 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3477 tokens (10%) that are not followed by a space.</li>
+<li>This corpus contains 4099 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -105,12 +105,12 @@ http://hdl.handle.net/11234/1-1516.
 </ul>
 
 <ul>
-<li>This corpus contains 437 types of words that contain both letters and punctuation. Examples: a), b), c), d), e), f), h), není-li, g), je-li, i), jsou-li, j), jde-li, nestanoví-li, t​e​c​h​n​i​c​k​o​-​e​k​o​n​o​m​i​c​k​ý​m, §_25_odst._3, *​_​F​i​n​a​n​č​n​í​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í, *​_​P​r​o​v​o​z​n​í​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í, B​.​I​I​.​9​.​_​O​c​e​ň​o​v​a​c​í​_​r​o​z​d​í​l​_​k​_​n​a​b​y​t​é​m​u​_​m​a​j​e​t​k​u, X​I​I​I​.​_​M​i​m​o​ř​á​d​n​é​_​v​ý​n​o​s​y, nevznikla-li, §_1_odst._2_písm._b), §​_​1​_​o​d​s​t​.​_​2​_​p​í​s​m​.​_​d​)​_​a​ž​_​h​), §_4_odst._10, A​.​I​I​.​6​.​_​R​o​z​d​í​l​y​_​z​_​o​c​e​n​ě​n​í​_​p​ř​i​_​p​ř​e​m​ě​n​á​c​h​_​s​p​o​l​e​č​n​o​s​t​í, B​.​I​I​.​3​.​_​S​a​m​o​s​t​a​t​n​é​_​m​o​v​i​t​é​_​v​ě​c​i​_​a​_​s​o​u​b​o​r​y​_​m​o​v​i​t​ý​c​h​_​v​ě​c​í, B​.​I​I​.​5​.​_​D​o​s​p​ě​l​á​_​z​v​í​ř​a​t​a​_​a​_​j​e​j​i​c​h​_​s​k​u​p​i​n​y, R._Mimořádné_náklady, a)_a_b), k), nejsou-li, písm._a), z​á​k​o​n​a​_​č​.​_​5​6​3​/​1​9​9​1​_​S​b​., §_18_odst._1, §_1_odst._2_písm._a), §​_​2​0​_​o​d​s​t​.​_​1​_​p​í​s​m​.​_​a​)​_​b​o​d​u​_​1, §_26_odst._3, §_31_odst._2, §_4_odst._8, *​*​_​V​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í​_​z​a​_​b​ě​ž​n​o​u​_​č​i​n​n​o​s​t, *​_​M​i​m​o​ř​á​d​n​ý​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í, B​.​I​.​_​D​l​o​u​h​o​d​o​b​ý​_​n​e​h​m​o​t​n​ý​_​m​a​j​e​t​e​k, B​.​I​I​.​3​.​_​Z​á​v​a​z​k​y​_​-​_​p​o​d​s​t​a​t​n​ý​_​v​l​i​v, B​.​I​I​.​4​.​_​Z​á​v​a​z​k​y​_​k​e​_​s​p​o​l​e​č​n​í​k​ů​m​,​_​č​l​e​n​ů​m​_​d​r​u​ž​s​t​v​a​_​a​_​k​_​ú​č​a​s​t​n​í​k​ů​m​_​s​d​r​u​ž​e​n​í, C​.​I​I​.​4​.​_​P​o​h​l​e​d​á​v​k​y​_​z​a​_​s​p​o​l​e​č​n​í​k​y​,​_​č​l​e​n​y​_​d​r​u​ž​s​t​v​a​_​a​_​z​a​_​ú​č​a​s​t​n​í​k​y​_​s​d​r​u​ž​e​n​í, C​.​I​I​I​.​4​.​_​P​o​h​l​e​d​á​v​k​y​_​z​a​_​s​p​o​l​e​č​n​í​k​y​,​_​č​l​e​n​y​_​d​r​u​ž​s​t​v​a​_​a​_​z​a​_​ú​č​a​s​t​n​í​k​y​_​s​d​r​u​ž​e​n​í, M._Mimořádné_náklady, T​.​_​P​ř​e​v​o​d​_​p​o​d​í​l​u​_​n​a​_​v​ý​s​l​e​d​k​u​_​h​o​s​p​o​d​a​ř​e​n​í​_​s​p​o​l​e​č​n​í​k​ů​m, X._Mimořádné_výnosy</li>
+<li>This corpus contains 366 types of words that contain both letters and punctuation. Examples: a), b), c), d), e), f), h), g), i), j), B.II.3., jde-li, B.II.9., nestanoví-li, společníky,, t​e​c​h​n​i​c​k​o​-​e​k​o​n​o​m​i​c​k​ý​m, §_25_odst._3, A., B.II.5., M., X., XIII., nevznikla-li, §_1_odst._2_písm._b), §​_​1​_​o​d​s​t​.​_​2​_​p​í​s​m​.​_​d​)​_​a​ž​_​h​), §_4_odst._10, A.II.6., B.I., B.II.2., B.II.4., B.II.6., B.II.8., I., O., R., a)_a_b), k), písm._a), společníkům,, z​á​k​o​n​a​_​č​.​_​5​6​3​/​1​9​9​1​_​S​b​., §_18_odst._1, §_1_odst._2_písm._a), §​_​2​0​_​o​d​s​t​.​_​1​_​p​í​s​m​.​_​a​)​_​b​o​d​u​_​1, §_26_odst._3, §_31_odst._2, §_4_odst._8, B., B.II., B.II.1., B.III.4.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 281 multi-word tokens. On average, one multi-word token consists of 2.94 syntactic words.</li>
-<li>There are 179 types of multi-word tokens. Examples: aby, "​*​_​F​i​n​a​n​č​n​í​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í​", "​*​_​P​r​o​v​o​z​n​í​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í​", "​B​.​I​I​.​9​.​_​O​c​e​ň​o​v​a​c​í​_​r​o​z​d​í​l​_​k​_​n​a​b​y​t​é​m​u​_​m​a​j​e​t​k​u​", "​X​I​I​I​.​_​M​i​m​o​ř​á​d​n​é​_​v​ý​n​o​s​y​", "​A​.​I​I​.​6​.​_​R​o​z​d​í​l​y​_​z​_​o​c​e​n​ě​n​í​_​p​ř​i​_​p​ř​e​m​ě​n​á​c​h​_​s​p​o​l​e​č​n​o​s​t​í​", "​B​.​I​I​.​3​.​_​S​a​m​o​s​t​a​t​n​é​_​m​o​v​i​t​é​_​v​ě​c​i​_​a​_​s​o​u​b​o​r​y​_​m​o​v​i​t​ý​c​h​_​v​ě​c​í​", "​B​.​I​I​.​5​.​_​D​o​s​p​ě​l​á​_​z​v​í​ř​a​t​a​_​a​_​j​e​j​i​c​h​_​s​k​u​p​i​n​y​", "​R​.​_​M​i​m​o​ř​á​d​n​é​_​n​á​k​l​a​d​y​", "​*​*​_​V​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í​_​z​a​_​b​ě​ž​n​o​u​_​č​i​n​n​o​s​t​", "​*​_​M​i​m​o​ř​á​d​n​ý​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í​", "​B​.​I​.​_​D​l​o​u​h​o​d​o​b​ý​_​n​e​h​m​o​t​n​ý​_​m​a​j​e​t​e​k​", "​B​.​I​I​.​3​.​_​Z​á​v​a​z​k​y​_​-​_​p​o​d​s​t​a​t​n​ý​_​v​l​i​v​", "​B​.​I​I​.​4​.​_​Z​á​v​a​z​k​y​_​k​e​_​s​p​o​l​e​č​n​í​k​ů​m​,​_​č​l​e​n​ů​m​_​d​r​u​ž​s​t​v​a​_​a​_​k​_​ú​č​a​s​t​n​í​k​ů​m​_​s​d​r​u​ž​e​n​í​", "​C​.​I​I​.​4​.​_​P​o​h​l​e​d​á​v​k​y​_​z​a​_​s​p​o​l​e​č​n​í​k​y​,​_​č​l​e​n​y​_​d​r​u​ž​s​t​v​a​_​a​_​z​a​_​ú​č​a​s​t​n​í​k​y​_​s​d​r​u​ž​e​n​í​", "​C​.​I​I​I​.​4​.​_​P​o​h​l​e​d​á​v​k​y​_​z​a​_​s​p​o​l​e​č​n​í​k​y​,​_​č​l​e​n​y​_​d​r​u​ž​s​t​v​a​_​a​_​z​a​_​ú​č​a​s​t​n​í​k​y​_​s​d​r​u​ž​e​n​í​", "​M​.​_​M​i​m​o​ř​á​d​n​é​_​n​á​k​l​a​d​y​", "​T​.​_​P​ř​e​v​o​d​_​p​o​d​í​l​u​_​n​a​_​v​ý​s​l​e​d​k​u​_​h​o​s​p​o​d​a​ř​e​n​í​_​s​p​o​l​e​č​n​í​k​ů​m​", "​X​.​_​M​i​m​o​ř​á​d​n​é​_​v​ý​n​o​s​y​", "+_Obchodní_marže", "​A​.​I​V​.​3​.​_​J​i​n​ý​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í​_​m​i​n​u​l​ý​c​h​_​l​e​t​", "​B​.​I​.​1​.​_​Z​ř​i​z​o​v​a​c​í​_​v​ý​d​a​j​e​", "​B​.​I​.​3​.​_​R​e​z​e​r​v​a​_​n​a​_​d​a​ň​_​z​_​p​ř​í​j​m​ů​", "​B​.​I​.​8​.​_​P​o​s​k​y​t​n​u​t​é​_​z​á​l​o​h​y​_​n​a​_​d​l​o​u​h​o​d​o​b​ý​_​n​e​h​m​o​t​n​ý​_​m​a​j​e​t​e​k​", "​B​.​I​I​.​1​.​_​Z​á​v​a​z​k​y​_​z​_​o​b​c​h​o​d​n​í​c​h​_​v​z​t​a​h​ů​", "B.II.2._Stavby", "​B​.​I​I​.​2​.​_​Z​á​v​a​z​k​y​_​-​_​o​v​l​á​d​a​n​á​_​n​e​b​o​_​o​v​l​á​d​a​j​í​c​í​_​o​s​o​b​a​", "​B​.​I​I​.​6​.​_​J​i​n​ý​_​d​l​o​u​h​o​d​o​b​ý​_​h​m​o​t​n​ý​_​m​a​j​e​t​e​k​", "​B​.​I​I​.​6​.​_​V​y​d​a​n​é​_​d​l​u​h​o​p​i​s​y​", "​B​.​I​I​.​8​.​_​D​o​h​a​d​n​é​_​ú​č​t​y​_​p​a​s​i​v​n​í​", "​B​.​I​I​.​8​.​_​P​o​s​k​y​t​n​u​t​é​_​z​á​l​o​h​y​_​n​a​_​d​l​o​u​h​o​d​o​b​ý​_​h​m​o​t​n​ý​_​m​a​j​e​t​e​k​", "​B​.​I​I​.​_​D​l​o​u​h​o​d​o​b​ý​_​h​m​o​t​n​ý​_​m​a​j​e​t​e​k​", "​B​.​I​I​I​.​4​.​_​P​ů​j​č​k​y​_​a​_​ú​v​ě​r​y​_​-​_​o​v​l​á​d​a​n​á​_​n​e​b​o​_​o​v​l​á​d​a​j​í​c​í​_​o​s​o​b​a​,​_​p​o​d​s​t​a​t​n​ý​_​v​l​i​v​", "​B​.​I​I​I​.​7​.​_​P​o​s​k​y​t​n​u​t​é​_​z​á​l​o​h​y​_​n​a​_​d​l​o​u​h​o​d​o​b​ý​_​f​i​n​a​n​č​n​í​_​m​a​j​e​t​e​k​", "C.I.1._Materiál", "​C​.​I​.​4​.​_​M​l​a​d​á​_​a​_​o​s​t​a​t​n​í​_​z​v​í​ř​a​t​a​_​a​_​j​e​j​i​c​h​_​s​k​u​p​i​n​y​", "C.I.5._Zboží", "​C​.​I​.​6​.​_​P​o​s​k​y​t​n​u​t​é​_​z​á​l​o​h​y​_​n​a​_​z​á​s​o​b​y​", "​C​.​I​I​.​1​.​_​P​o​h​l​e​d​á​v​k​y​_​z​_​o​b​c​h​o​d​n​í​c​h​_​v​z​t​a​h​ů​", "​C​.​I​I​.​2​.​_​P​o​h​l​e​d​á​v​k​y​_​-​_​o​v​l​á​d​a​n​á​_​n​e​b​o​_​o​v​l​á​d​a​j​í​c​í​_​o​s​o​b​a​", "​C​.​I​I​.​3​.​_​P​o​h​l​e​d​á​v​k​y​_​-​_​p​o​d​s​t​a​t​n​ý​_​v​l​i​v​", "​C​.​I​I​.​5​.​_​D​l​o​u​h​o​d​o​b​é​_​p​o​s​k​y​t​n​u​t​é​_​z​á​l​o​h​y​", "​C​.​I​I​.​6​.​_​D​o​h​a​d​n​é​_​ú​č​t​y​_​a​k​t​i​v​n​í​", "​C​.​I​I​.​7​.​_​J​i​n​é​_​p​o​h​l​e​d​á​v​k​y​", "​C​.​I​I​I​.​2​.​_​P​o​h​l​e​d​á​v​k​y​_​-​_​o​v​l​á​d​a​n​á​_​n​e​b​o​_​o​v​l​á​d​a​j​í​c​í​_​o​s​o​b​a​", "​C​.​I​I​I​.​3​.​_​P​o​h​l​e​d​á​v​k​y​_​-​_​p​o​d​s​t​a​t​n​ý​_​v​l​i​v​", "​C​.​I​I​I​.​6​.​_​S​t​á​t​_​-​_​d​a​ň​o​v​é​_​p​o​h​l​e​d​á​v​k​y​", "​C​.​I​I​I​.​7​.​_​K​r​á​t​k​o​d​o​b​é​_​p​o​s​k​y​t​n​u​t​é​_​z​á​l​o​h​y​", "II._Výkony", "​K​.​_​N​á​k​l​a​d​y​_​z​_​f​i​n​a​n​č​n​í​h​o​_​m​a​j​e​t​k​u​".</li>
+<li>This corpus contains 16 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 1 types of multi-word tokens. Examples: aby.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -123,7 +123,7 @@ http://hdl.handle.net/11234/1-1516.
 </ul>
 
 <ul>
-<li>This corpus contains 7 word types tagged as particles (PART): až, brutto, jen, ne, netto, nikoliv, to</li>
+<li>This corpus contains 8 word types tagged as particles (PART): až, brutto, jen, li, ne, netto, nikoliv, to</li>
 </ul>
 
 <ul>
@@ -161,7 +161,7 @@ http://hdl.handle.net/11234/1-1516.
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: je, jsou, nejsou, není, by, bude, budou</li>
+    <li>AUX: je, jsou, není, nejsou, by, bude, budou</li>
     <li>VERB: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
   </ul>
   </li>
@@ -402,7 +402,7 @@ http://hdl.handle.net/11234/1-1516.
     <ul>
       <li>ADJ: účetní, reálnou, účetními, pořizovací, podstatným, společným, právními, účetním, právnickou, vlastní</li>
       <li>ADJ-Part: konsolidující, přejímajícím, ovládající, zaručujícím, jednajícími, nespadajícím, odpovídajícím, odpovídajícími, ovládajícími, plynoucími</li>
-      <li>ADP: s, mezi, se, pod, před, za, nad, přede</li>
+      <li>ADP: s, mezi, pod, se, před, za, nad, přede</li>
       <li>DET: kterým, tímto, tím, touto, kterou, kterými, jejím, jejímž, několika, svým</li>
       <li>NOUN: jednotkou, hodnotou, výjimkou, způsobem, dnem, vlivem, auditorem, cenou, součástí, osobou</li>
       <li>NUM: jednou, dvěma, jedním</li>
@@ -504,7 +504,7 @@ http://hdl.handle.net/11234/1-1516.
       <li>ADJ: nehmotného, nehmotný, nepeněžní, nezbytné, nevyhrazeného, nehmotným, nepřímých, neupraveném, neauditorské, nebytové</li>
       <li>ADJ-Part: nepostačující, nespadajícím, nezměněno</li>
       <li>ADV: nepřetržitě, nepřímo, nedostatečně, nezaměnitelně, nezávisle</li>
-      <li>AUX-Fin: nejsou</li>
+      <li>AUX-Fin: nejsou, není</li>
       <li>AUX-Part: nebyly, nebyla, nebyl</li>
       <li>NOUN: nezahrnutí, nejednoznačnost, nemovitostem, nepotřebnost, neprůkaznosti, nepřehlednosti, nesestavení, nesprávnosti, nesrozumitelnosti, neuvedení</li>
       <li>VERB-Fin: nelze, nemusí, nepoužije, nemá, nepoužijí, nesestaví, nesmí, nestanoví, nevztahuje, neúčtuje</li>
@@ -578,7 +578,7 @@ http://hdl.handle.net/11234/1-1516.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: je, jsou, nejsou, není, bude, budou</li>
+      <li>AUX-Fin: je, jsou, není, nejsou, bude, budou</li>
       <li>VERB-Fin: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
     </ul>
   </li>
@@ -610,7 +610,7 @@ http://hdl.handle.net/11234/1-1516.
   <li>Pres
     <ul>
       <li>ADJ-Part: konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</li>
-      <li>AUX-Fin: je, jsou, nejsou, není</li>
+      <li>AUX-Fin: je, jsou, není, nejsou</li>
       <li>VERB-Conv: počínaje</li>
       <li>VERB-Fin: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
     </ul>
@@ -625,7 +625,7 @@ http://hdl.handle.net/11234/1-1516.
   <li>Act
     <ul>
       <li>ADJ-Part: konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</li>
-      <li>AUX-Fin: je, jsou, nejsou, není, bude, budou</li>
+      <li>AUX-Fin: je, jsou, není, nejsou, bude, budou</li>
       <li>AUX-Part: byly, byl, bylo, nebyly, byla, nebyla, nebyl</li>
       <li>VERB-Conv: počínaje</li>
       <li>VERB-Fin: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
@@ -785,7 +785,7 @@ http://hdl.handle.net/11234/1-1516.
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: je, jsou, nejsou, není, by, bude, budou</li>
+      <li>AUX-Fin: je, jsou, není, nejsou, by, bude, budou</li>
       <li>DET: jejich, jeho, její, jejichž, jejího, jehož, jejím, jejímž, jejích, jejími</li>
       <li>PRON: jej, je, jim, jí, ji, nich, ní, jimi, nimi, ně</li>
       <li>VERB-Fin: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
@@ -875,7 +875,7 @@ http://hdl.handle.net/11234/1-1516.
       </li>
       <li>Voc
         <ul>
-          <li>ADP: ve, ke, se, ze, ode, beze, přede</li>
+          <li>ADP: ve, ke, ze, se, ode, beze, přede</li>
         </ul>
       </li>
     </ul>
@@ -887,7 +887,7 @@ http://hdl.handle.net/11234/1-1516.
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: do, od, pod</li>
+          <li>ADJ: do, pod</li>
         </ul>
       </li>
     </ul>
@@ -946,12 +946,12 @@ http://hdl.handle.net/11234/1-1516.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: být, není-li, je-li, jsou-li, nejsou-li, byt.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: být.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: být, oceněný, oprávněný, stanovený.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, není-li.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: být.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -964,7 +964,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (628)</li>
+      <li>VERB-Fin--NOUN-Nom (627)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>

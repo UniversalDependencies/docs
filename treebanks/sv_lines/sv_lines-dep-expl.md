@@ -31,7 +31,7 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 7	alldeles	alldeles	ADV	_	_	8	advmod	_	_
 8	normal	normal	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	9	amod	_	_
 9	check	check	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	nsubj	_	SpaceAfter=No
-10	,	,	PUNCT	Comma	_	2	punct	_	_
+10	,	,	PUNCT	Comma	_	11	punct	_	_
 11	sa	säga	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
 12	han	han	PRON	PERS-P3SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	11	nsubj	_	SpaceAfter=No
 13	.	.	PUNCT	Period	_	2	punct	_	_

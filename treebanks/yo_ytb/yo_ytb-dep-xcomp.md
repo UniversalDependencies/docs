@@ -59,7 +59,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 9	síta	síta	ADV	_	_	7	advmod	_	_
 10	nígbà	nígbà	ADV	_	_	18	advmod	_	_
 11	tí	tí	PRON	_	PronType=Rel	10	fixed	_	_
-12	àwọn	àwọn	DET	_	_	13	det	_	_
+12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	_
 13	oníṣe	oníṣe	NOUN	_	_	18	nsubj	_	_
 14	míràn	míràn	ADJ	_	_	13	amod	_	_
 15	bá	bá	SCONJ	_	_	18	mark	_	_

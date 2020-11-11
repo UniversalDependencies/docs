@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1984 nodes (14%) are attached to their parents as `punct`.
+19614 nodes (13%) are attached to their parents as `punct`.
 
-1042 instances of `punct` (53%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.95766129032258.
+10186 instances of `punct` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.33399612521668.
 
-The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (852; 43% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (578; 29% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (278; 14% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (151; 8% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (39; 2% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (33; 2% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (21; 1% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (16; 1% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (10; 1% instances), <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ro_simonero-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (7885; 40% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (6111; 31% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (2720; 14% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (1323; 7% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (524; 3% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (337; 2% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (332; 2% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (146; 1% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (142; 1% instances), <tt><a href="ro_simonero-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (48; 0% instances), <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (29; 0% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="ro_simonero-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-PART.html">PART</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,21 +39,22 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 10 punct	color:blue
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	O
-2	acest	acest	DET	Dd3msr---e	Case=Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	3	det	_	O
-3	moment	moment	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	O
-4	peptidul	peptid	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	B-CHEM
-5	C	C	NOUN	Ncm--n	Definite=Ind|Gender=Masc	4	nmod	_	I-CHEM
-6	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
-7	prezenta	prezenta	VERB	Vmnp	Tense=Pres|VerbForm=Inf	6	ccomp	_	O
-8	valori	valoare	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	7	obj	_	O
-9	variabile	variabil	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	8	amod	_	O
-10	.	.	PUNCT	PERIOD	_	6	punct	_	O
+# visual-style 6 11 punct	color:blue
+1	Din	din	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	O
+2	contra	contra	ADV	Rgp	Degree=Pos	6	obl	_	O
+3	,	,	PUNCT	COMMA	_	2	punct	_	O
+4	venele	venă	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	nsubj	_	B-ANAT
+5	centrale	central	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	I-ANAT
+6	devin	deveni	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
+7	subțiri	subțire	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	6	xcomp	_	O
+8	și	și	CCONJ	Crssp	Polarity=Pos	10	cc	_	O
+9	ușor	ușor	ADV	Rgp	Degree=Pos	10	advmod	_	O
+10	distensibile	distensibil	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	7	conj	_	O
+11	.	.	PUNCT	PERIOD	_	6	punct	_	O
 
 ~~~
 

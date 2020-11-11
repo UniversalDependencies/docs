@@ -8,64 +8,31 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt>.
 
-139 nodes (1%) are attached to their parents as `nsubj:pass`.
+1343 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-86 instances of `nsubj:pass` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.10791366906475.
+777 instances of `nsubj:pass` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.88309754281459.
 
-The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (121; 87% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (9; 6% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 nsubj:pass	color:blue
-1	La	la	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	O
-2	acestea	acesta	PRON	Pd3fpr	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	4	obl	_	O
-3	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pass	_	O
-4	adaugă	adăuga	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
-5	și	și	CCONJ	Crssp	Polarity=Pos	6	advmod	_	O
-6	normalizarea	normalizare	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj:pass	_	O
-7	valorilor	valoare	NOUN	Ncfpoy	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	6	nmod	_	O
-8	Na	Na	NOUN	Yn	Abbr=Yes	7	nmod	_	B-CHEM
-9	+	+	PUNCT	PLUS	_	8	punct	_	O
-10	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	O
-11	pacienții	pacient	NOUN	Ncmpry	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	6	nmod	_	O
-12	hiponatremici	hiponatremic	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	O
-13	.	.	PUNCT	PERIOD	_	4	punct	_	O
-
-~~~
+The following 18 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (1182; 88% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (83; 6% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (36; 3% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (12; 1% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 13 nsubj:pass	color:blue
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	O
-2	ultima	ultima	NUM	Mofsrly	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	3	nummod	_	O
-3	perioadă	perioadă	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	6	obl	_	O
-4	s-	sine	PRON	Px3--a--y-----w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	6	expl:pass	_	O
-5	au	avea	AUX	Va--3p	Number=Plur|Person=3|VerbForm=Fin	6	aux	_	O
-6	studiat	studia	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	O
-7	o	un	DET	Tifsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	8	det	_	O
-8	serie	serie	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nsubj:pass	_	O
-9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	O
-10	biomarkeri	biomarker	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	8	nmod	_	B-CHEM
-11	renali	renal	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	I-CHEM
-12	,	,	PUNCT	COMMA	_	15	punct	_	O
-13	care	care	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	15	nsubj:pass	_	O
-14	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	15	expl:pass	_	O
-15	eliberează	elibera	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	10	acl	_	O
-16	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	O
-17	cauza	cauză	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	16	fixed	_	O
-18	injuriei	injurie	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	obl	_	B-DISO
-19	renale	renal	ADJ	Afpfson	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	I-DISO
-20	ischemice	ischemic	ADJ	Afpfson	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	I-DISO
-21	.	.	PUNCT	PERIOD	_	6	punct	_	O
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nsubj:pass	color:blue
+1	Stentarea	stentare	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj:pass	_	B-PROC
+2	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	O
+3	rezervată	rezerva	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	O
+4	cazurilor	caz	NOUN	Ncfpoy	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	iobj	_	O
+5	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	O
+6	APTL	APTL	NOUN	Yn	Abbr=Yes	4	nmod	_	B-PROC
+7	suboptimală	suboptimal	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	O
+8	(	(	PUNCT	LPAR	_	9	punct	_	O
+9	39	39	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	3	parataxis	_	O
+10	)	)	PUNCT	RPAR	_	9	punct	_	O
+11	.	.	PUNCT	PERIOD	_	3	punct	_	O
 
 ~~~
 
@@ -73,25 +40,46 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 nsubj:pass	color:blue
-1	Intensitatea	intensitate	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj:pass	_	O
-2	zgomotului	zgomot	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	O
-3	2	2	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	2	nummod	_	O
-4	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	O
-5	adesea	adesea	ADV	Rgp	Degree=Pos	6	advmod	_	O
-6	diminuată	diminuat	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	O
-7	,	,	PUNCT	COMMA	_	11	punct	_	O
-8	iar	iar	ADV	Rc	_	11	cc	_	O
-9	pulsul	puls	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	O
-10	carotidian	carotidian	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	O
-11	are	avea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	O
-12	aspect	aspect	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	11	obj	_	O
-13	parvus	parvus	X	X	_	12	amod	_	O
-14	et	et	X	X	_	11	obj	_	O
-15	tardus	tardus	X	X	_	14	amod	_	O
-16	.	.	PUNCT	PERIOD	_	6	punct	_	O
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nsubj:pass	color:blue
+1	Ele	el	PRON	Pp3fpr--------s	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Strong	3	nsubj:pass	_	O
+2	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	O
+3	reprezentate	reprezenta	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	O
+4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	O
+5	procese	proces	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	3	nmod:agent	_	O
+6	complexe	complex	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	O
+7	între	între	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	O
+8	sistemele	sistem	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	5	nmod	_	O
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	O
+10	excitație	excitație	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	8	nmod	_	O
+11	și	și	CCONJ	Crssp	Polarity=Pos	12	cc	_	O
+12	inhibiție	inhibiție	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	10	conj	_	O
+13	.	.	PUNCT	PERIOD	_	3	punct	_	O
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 8 nsubj:pass	color:blue
+1	Din	din	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	O
+2	cauza	cauză	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	13	obl	_	O
+3	costului	cost	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	obl	_	O
+4	ridicat	ridicat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	O
+5	al	al	DET	Tsms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	O
+6	materialelor	material	NOUN	Ncfpoy	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	nmod	_	O
+7	,	,	PUNCT	COMMA	_	3	punct	_	O
+8	numărul	număr	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	nsubj:pass	_	O
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	O
+10	intervenții	intervenție	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	8	nmod	_	O
+11	a	avea	AUX	Va--3s	Number=Sing|Person=3	13	aux	_	O
+12	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	13	aux:pass	_	O
+13	limitat	limitat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	O
+14	.	.	PUNCT	PERIOD	_	13	punct	_	O
 
 ~~~
 

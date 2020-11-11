@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Natalia Silveira, Timothy Dozat, Christopher Manning, Sebastian Schuster, Ethan Chi, John Bauer, Miriam Connor, Marie-Catherine de Marneffe, Nathan Schneider, Sam Bowman, Hanzhi Zhu, Daniel Galbraith.
 
 Repository: [UD_English-EWT](https://github.com/UniversalDependencies/UD_English-EWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -55,10 +55,12 @@ The corpus comprises 254,830 words and 16,622 sentences, taken from five genres
 of web media: weblogs, newsgroups, emails, reviews, and Yahoo! answers. See the
 LDC2012T13 documentation for more details on the sources of the sentences. The
 trees were automatically converted into Stanford Dependencies and then
-hand-corrected to Universal Dependencies. All the basic dependency annotations have been single-annotated, a limited portion of them have been double-annotated,
+hand-corrected to Universal Dependencies. All the basic dependency annotations have
+been single-annotated, a limited portion of them have been double-annotated,
 and subsequent correction has been done to improve consistency. Other aspects
-of the treebank, such as Universal POS, features and enhanced dependencies, has mainly been done
-automatically, with very limited hand-correction.
+of the treebank, such as Universal POS, features and enhanced dependencies, has
+mainly been done automatically, with very limited hand-correction.
+
 
 ## Acknowledgments
 
@@ -107,11 +109,11 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 
 
 <ul>
-<li>This corpus contains 16622 sentences and 254829 tokens.</li>
+<li>This corpus contains 16622 sentences, 251725 tokens and 254829 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 34370 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 31266 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -123,6 +125,8 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 </ul>
 
 <ul>
+<li>This corpus contains 3104 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 522 types of multi-word tokens. Examples: don't, i'm, it's, i've, didn't, can't, its, i'll, you'll, you're, cannot, doesn't, he's, that's, won't, dont, they're, wouldn't, there's, haven't, bush's, isn't, i'd, couldn't, we've, China's, wasn't, im, here's, we're, what's, aren't, you've, we'll, ive, wont, let's, she's, weren't, they'll, world's, you'd, Enron's, cant, Iran's, India's, Qaeda's, thats, he'd, mama`s.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -138,15 +142,15 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 </ul>
 
 <ul>
-<li>This corpus contains 77 lemmas tagged as pronouns (PRON): 's, anybody, anyone, anything, ever, everybody, everyone, everything, he, hers, herself, himself, i, is, it, it's, its, itself, mine, mines, my, myself, nobody, nothing, one, our, ours, ourselves, s, self, she, somebody, someone, something, that, the, thei, their, theirs, them, themselves, there, these, they, they're, theyy, this, those, thou, thy, u, ur, us, use, waht, we, what, whatever, which, who, who's, whoever, whom, whomever, whoooooo, whose, wtf, ya, ya'll, ye, yo, you, you're, your, yours, yourself, yourselves</li>
+<li>This corpus contains 74 lemmas tagged as pronouns (PRON): 's, anybody, anyone, anything, ever, everybody, everyone, everything, he, hers, herself, himself, i, is, it, it's, its, itself, mine, mines, my, myself, nobody, nothing, one, our, ours, ourselves, s, self, she, somebody, someone, something, that, the, thei, theirs, them, themselves, there, they, they're, theyy, this, thou, thy, u, ur, us, use, waht, we, what, whatever, which, who, who's, whoever, whom, whomever, whoooooo, whose, wtf, ya, ya'll, ye, yo, you, you're, your, yours, yourself, yourselves</li>
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as determiners (DET): a, all, another, any, both, each, either, every, half, many, neither, no, quite, some, such, that, the, these, this, those, what, whatever, which</li>
+<li>This corpus contains 21 lemmas tagged as determiners (DET): a, all, another, any, both, each, either, every, half, many, neither, no, quite, some, such, that, the, this, what, whatever, which</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: that, the, these, this, those, what, whatever, which</li>
+<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: that, the, this, what, whatever, which</li>
 </ul>
 
 <ul>
@@ -279,7 +283,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Nom
     <ul>
-      <li>PRON: i, you, it, they, we, he, she, the, u, ti</li>
+      <li>PRON: i, you, it, they, we, he, she, the, u, There</li>
     </ul>
   </li>
 </ul>
@@ -438,9 +442,10 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Int
     <ul>
-      <li>ADV: when, how, why, where, whenever, ever, wherever, however, were, y</li>
+      <li>ADV: how, why, where, when, ever, whenever, Wherever, however, were, y</li>
       <li>DET: what, which, whatever</li>
       <li>PRON: what, which, who, whom, whatever, whose, who's, Wtf, ever, waht</li>
+      <li>SCONJ: when, how, where, why, whenever, wherever</li>
     </ul>
   </li>
 </ul>
@@ -456,9 +461,10 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: where, that, when, why, how, were, wherein</li>
+      <li>ADV: that, when, where, how, were, wherein</li>
       <li>DET: what, whhich</li>
       <li>PRON: that, who, which, whom, what, whose</li>
+      <li>SCONJ: where, when, why, were</li>
     </ul>
   </li>
 </ul>
@@ -599,7 +605,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: accomodating, rediculous, knowledgable, unic, Aweesome, Awsome, Chineese, Disatisfied, Hopless, Lovley</li>
+          <li>ADJ: accomodating, rediculous, Arial, knowledgable, unic, Aweesome, Awsome, Chineese, Disatisfied, Hopless</li>
           <li>ADP: then, a, and, of, the, aboout, abou, admidst, aground, amoung</li>
           <li>ADV: to, definately, completly, realy, their, truely, Consistantly, Definetely, Unfortunalty, a</li>
           <li>AUX-Fin: ar, woud, ',, a, as, cold, hav, hvae, made, most</li>
@@ -607,8 +613,8 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
           <li>DET: and, teh, aa, dthat, he, ssome, te, then, ther, whhich</li>
           <li>NOUN: catagory, hamburguers, resturant, DJ's, MYSTERYS, Mechaincs, Sanwiches, Sstaff, Unlce, advise</li>
           <li>PART: too, ot</li>
-          <li>PRON: the, there, you, out, It's, it, then, thier, ti</li>
-          <li>PROPN: Sear's, Bramen, Guiness, Hirsohima, Nagaski, Thanksgiv8ing</li>
+          <li>PRON: the, their, there, you, out, they, It's, it, then, thier</li>
+          <li>PROPN: Sear's, Bramen, Guiness, Hirsohima, Nagaski, Thanksgiv8ing, philipinos</li>
           <li>SCONJ: becuse, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse, sice</li>
           <li>VERB-Fin: where, new, reccomend, recieved, answetred, appologized, aswered, deliverd, fixeded, let's</li>
           <li>VERB-Ger: ASWERING, EATTING, drive, drving, hireing</li>
@@ -640,15 +646,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (2003)</li>
-      <li>VERB-Fin--PRON (791)</li>
+      <li>VERB-Fin--NOUN (2005)</li>
+      <li>VERB-Fin--PRON (790)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
-      <li>VERB-Fin--PRON-Nom (4748)</li>
+      <li>VERB-Fin--PRON-Nom (4749)</li>
       <li>VERB-Ger--NOUN (85)</li>
       <li>VERB-Ger--PRON (22)</li>
       <li>VERB-Ger--PRON-Acc (7)</li>
       <li>VERB-Ger--PRON-Nom (186)</li>
-      <li>VERB-Inf--NOUN (660)</li>
+      <li>VERB-Inf--NOUN (659)</li>
       <li>VERB-Inf--PRON (288)</li>
       <li>VERB-Inf--PRON-Acc (37)</li>
       <li>VERB-Inf--PRON-Nom (2612)</li>
@@ -663,7 +669,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3502)</li>
+      <li>VERB-Fin--NOUN (3504)</li>
       <li>VERB-Fin--NOUN-ADP('s) (1)</li>
       <li>VERB-Fin--PRON (339)</li>
       <li>VERB-Fin--PRON-Acc (869)</li>
@@ -678,7 +684,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON (323)</li>
       <li>VERB-Inf--PRON-Acc (789)</li>
       <li>VERB-Inf--PRON-Nom (88)</li>
-      <li>VERB-Part--NOUN (771)</li>
+      <li>VERB-Part--NOUN (772)</li>
       <li>VERB-Part--PRON (123)</li>
       <li>VERB-Part--PRON-Acc (93)</li>
       <li>VERB-Part--PRON-Nom (4)</li>

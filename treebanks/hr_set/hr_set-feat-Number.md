@@ -299,14 +299,14 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16409; 95%),
-<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9187; 62%),
+<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16966; 95%),
+<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9382; 62%),
 <tt>VERB --[<tt><a href="hr_set-dep-aux.html">aux</a></tt>]--> AUX</tt> (5314; 82%),
-<tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4899; 85%),
+<tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4900; 85%),
 <tt>VERB --[<tt><a href="hr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3814; 51%),
 <tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3225; 98%),
-<tt>NOUN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2856; 78%),
-<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2161; 99%),
-<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2043; 74%),
+<tt>NOUN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2864; 78%),
+<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2382; 99%),
+<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2095; 74%),
 <tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1772; 88%).
 

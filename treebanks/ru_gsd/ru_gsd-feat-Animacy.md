@@ -242,7 +242,7 @@ The most frequent other feature values with which `PART` and `Animacy` co-occurr
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6864; 81%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6865; 81%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1942; 96%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1086; 95%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1000; 64%),

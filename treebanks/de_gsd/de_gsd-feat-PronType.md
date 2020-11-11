@@ -9,27 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`.
 
-49634 tokens (17%) have a non-empty value of `PronType`.
-335 types (1%) occur at least once with a non-empty value of `PronType`.
-169 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 11 part-of-speech tags: <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (34978; 12% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (14244; 5% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (350; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (24; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+51927 tokens (18%) have a non-empty value of `PronType`.
+375 types (1%) occur at least once with a non-empty value of `PronType`.
+171 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 11 part-of-speech tags: <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (37274; 13% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (14241; 5% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (350; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (24; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `DET`
 
-34978 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (95% of all `DET` tokens) have a non-empty value of `PronType`.
+37274 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29993; 86%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (28651; 82%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31778; 85%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (28651; 77%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (34228; 98% of non-empty `PronType`): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
+* `Art` (34228; 92% of non-empty `PronType`): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
 * `Dem` (202; 1% of non-empty `PronType`): <em>dessen, deren, selben, das, diese, jener, derselben, diesem, der, jenen</em>
 * `Ind` (372; 1% of non-empty `PronType`): <em>viele, vielen, meisten, wenige, wenigen, viel, weniger, anderem, eine, beiden</em>
 * `Int` (1; 0% of non-empty `PronType`): <em>welch</em>
 * `Neg` (6; 0% of non-empty `PronType`): <em>keine, Keinen, reine</em>
-* `Prs` (5; 0% of non-empty `PronType`): <em>ihr, meinen, rot</em>
+* `Prs` (2301; 6% of non-empty `PronType`): <em>seine, seiner, sein, ihre, seinen, seinem, ihren, ihrer, ihrem, seines</em>
 * `Rel` (164; 0% of non-empty `PronType`): <em>die, deren, der, dessen, das, dem, den, top</em>
-* `EMPTY` (1818): <em>seine, seiner, sein, ihre, seinen, seinem, ihrer, ihren, ihr, seines</em>
+* `EMPTY` (101): <em>ihr, dem, ein, eine, einen, The, alla, dessa, eins, eure</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Art</tt></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th></tr>
@@ -87,13 +87,13 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>der</em></td><td></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `DET`. 93% lemmas (53) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 93% lemmas (57) occur only with one value of `PronType`.
 
 ### `PRON`
 
-14244 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `PronType`.
+14241 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (12547; 88%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (11315; 79%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10586; 74%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (8511; 60%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (12544; 88%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (11313; 79%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10583; 74%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (8510; 60%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -101,10 +101,10 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (1579; 11% of non-empty `PronType`): <em>diese, dieser, diesem, das, dieses, dies, diesen, die, der, dem</em>
 * `Ind` (2250; 16% of non-empty `PronType`): <em>man, alle, beiden, allem, einige, alles, mehrere, anderem, viele, einer</em>
 * `Int` (192; 1% of non-empty `PronType`): <em>was, wer, welche, wodurch, wovon, womit, welchem, welchen, welcher, wonach</em>
-* `Neg` (291; 2% of non-empty `PronType`): <em>keine, kein, keinen, keinem, keiner, keinerlei, keines, meiner, nichts</em>
-* `Prs` (7680; 54% of non-empty `PronType`): <em>er, sich, es, sie, ich, wir, ihm, ihn, uns, mir</em>
+* `Neg` (290; 2% of non-empty `PronType`): <em>keine, kein, keinen, keinem, keiner, keinerlei, keines, nichts</em>
+* `Prs` (7678; 54% of non-empty `PronType`): <em>er, sich, es, sie, ich, wir, ihm, ihn, uns, mir</em>
 * `Rel` (1851; 13% of non-empty `PronType`): <em>die, der, das, dem, was, denen, den, welche, welches, welcher</em>
-* `EMPTY` (797): <em>meine, seine, unsere, ihre, mein, ihren, meiner, seiner, sein, dazu</em>
+* `EMPTY` (236): <em>dazu, andere, davon, ihr, anderen, dafür, darauf, darin, daran, mehr</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Art</tt></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th></tr>
@@ -159,7 +159,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>die</em></td><td><em>die</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 92% lemmas (104) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 92% lemmas (102) occur only with one value of `PronType`.
 
 ### `ADV`
 
@@ -198,7 +198,7 @@ The most frequent other feature values with which `VERB` and `PronType` co-occur
 * `Ind` (1; 9% of non-empty `PronType`): <em>gefiel</em>
 * `Int` (2; 18% of non-empty `PronType`): <em>Bin</em>
 * `Rel` (7; 64% of non-empty `PronType`): <em>was</em>
-* `EMPTY` (20701): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `EMPTY` (20703): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
 
 ### `X`
 
@@ -224,7 +224,7 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 * `Art` (1; 17% of non-empty `PronType`): <em>Bin</em>
 * `Int` (3; 50% of non-empty `PronType`): <em>Bin</em>
 * `Prs` (2; 33% of non-empty `PronType`): <em>Bin, wir</em>
-* `EMPTY` (10588): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
+* `EMPTY` (10586): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
 
 <table>
   <tr><th>Paradigm <i>sein</i></th><th><tt>Prs</tt></th><th><tt>Art</tt></th><th><tt>Int</tt></th></tr>
@@ -278,7 +278,7 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> PRON</tt> (7; 78%),
+<tt>PRON --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> PRON</tt> (7; 88%),
 <tt>DET --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 67%),
 <tt>PRON --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> DET</tt> (2; 100%),
 <tt>ADV --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),

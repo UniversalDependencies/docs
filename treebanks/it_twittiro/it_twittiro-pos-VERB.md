@@ -77,9 +77,9 @@ Examples: <em>continua, è, fa, ha, dice, va, sembra, parla, pare, arriva</em>
 
 Parents of `VERB` nodes belong to 13 different parts of speech: <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> (1252; 44% instances),  (934; 33% instances), <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> (384; 13% instances), <tt><a href="it_twittiro-pos-PRON.html">PRON</a></tt> (92; 3% instances), <tt><a href="it_twittiro-pos-ADJ.html">ADJ</a></tt> (85; 3% instances), <tt><a href="it_twittiro-pos-PROPN.html">PROPN</a></tt> (45; 2% instances), <tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> (21; 1% instances), <tt><a href="it_twittiro-pos-ADV.html">ADV</a></tt> (17; 1% instances), <tt><a href="it_twittiro-pos-X.html">X</a></tt> (9; 0% instances), <tt><a href="it_twittiro-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="it_twittiro-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="it_twittiro-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_twittiro-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-53 (2%) `VERB` nodes are leaves.
+52 (2%) `VERB` nodes are leaves.
 
-201 (7%) `VERB` nodes have one child.
+202 (7%) `VERB` nodes have one child.
 
 527 (19%) `VERB` nodes have two children.
 

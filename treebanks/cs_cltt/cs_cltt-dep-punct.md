@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4524 nodes (13%) are attached to their parents as `punct`.
+4606 nodes (13%) are attached to their parents as `punct`.
 
-2853 instances of `punct` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.40406719717065.
+2875 instances of `punct` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 9.77529309596179.
 
-The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1931; 43% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1285; 28% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (655; 14% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (523; 12% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (84; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="cs_cltt-pos-PART.html">PART</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1930; 42% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1343; 29% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (631; 14% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (559; 12% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (88; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (19; 0% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="cs_cltt-pos-PART.html">PART</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,13 +62,13 @@ The following 13 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pass	_	_
 4	označují	označovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	znaménky	znaménko	NOUN	NNNP7-----A----	Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos	4	obl	_	_
-6	"	"	PUNCT	Z:-------------	_	7	punct	_	_
-7	+	"+"	X	X@-------------	_	5	nmod	_	_
-8	"	"	PUNCT	Z:-------------	_	7	punct	_	_
+6	„	"	PUNCT	Z:-------------	_	7	punct	_	SpaceAfter=No
+7	+	+	X	X@-------------	_	5	nmod	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+8	“	"	PUNCT	Z:-------------	_	7	punct	_	_
 9	a	a	CCONJ	J^-------------	_	7	cc	_	LId=a-1
-10	"	"	PUNCT	Z:-------------	_	11	punct	_	_
-11	*	"*"	PUNCT	X@-------------	_	7	punct	_	_
-12	"	"	PUNCT	Z:-------------	_	11	punct	_	_
+10	„	"	PUNCT	Z:-------------	_	7	punct	_	SpaceAfter=No
+11	*	*	PUNCT	X@-------------	_	7	punct	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+12	“	"	PUNCT	Z:-------------	_	7	punct	_	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~

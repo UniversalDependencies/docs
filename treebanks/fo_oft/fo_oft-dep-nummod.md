@@ -13,7 +13,7 @@ This relation is universal.
 146 instances of `nummod` (98%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.09395973154362.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (136; 91% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (136; 91% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -53,20 +53,19 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 4 nummod	color:blue
-1	Bergur	Bergur	PROPN	N	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
-2	tók	taka	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-3	í	í	ADP	Pr	_	4	case	_	_
-4	1996	1996	NUM	Num	Case=Dat	2	nummod	_	_
-5	prógv	prógv	NOUN	N	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	2	obj	_	_
-6	á	á	ADP	Pr	_	8	case	_	_
-7	Føroya	Føroyar	PROPN	N	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	8	nmod:poss	_	_
-8	Læraraskúla	læraraskúli	NOUN	N	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
-9	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 2 1 nummod	color:blue
+1	Ein	ein	DET	Det	Case=Nom|Gender=Fem|Number=Sing	2	nummod	_	_
+2	ørgrynna	ørgrynna	NOUN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	_
+3	av	av	ADP	Pr	_	4	case	_	_
+4	møguleikum	møguleiki	NOUN	N	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	2	nmod	_	_
+5	og	og	CCONJ	CC	_	6	cc	_	_
+6	samansetingum	samanseting	NOUN	N	Case=Dat|Definite=Ind|Gender=Fem|Number=Plur	4	conj	_	_
+7	eru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Pres	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
 
 ~~~
 

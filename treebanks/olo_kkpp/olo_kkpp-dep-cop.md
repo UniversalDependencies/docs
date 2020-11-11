@@ -38,7 +38,7 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop	color:blue
-1	–	–	PUNCT	PUNCT	_	3	punct	_	_
+1	–	–	PUNCT	PUNCT	_	4	punct	_	_
 2	Iče	iče	PRON	PRON	Case=Nom|Reflex=Yes	4	nsubj:cop	_	_
 3	olen	olla	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 4	karjalaine	karjalaine	ADJ	ADJ	Case=Nom|Number=Sing	0	root	_	_

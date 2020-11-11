@@ -84,9 +84,9 @@ Examples: <em>and, but, or, nor, both, neither, either, for, &amp;, except</em>
 
 Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1469; 50% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (879; 30% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (275; 9% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (109; 4% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (84; 3% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (56; 2% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (35; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (23; 1% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances),  (1; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (1; 0% instances)
 
-2932 (99%) `CCONJ` nodes are leaves.
+2929 (99%) `CCONJ` nodes are leaves.
 
-7 (0%) `CCONJ` nodes have one child.
+10 (0%) `CCONJ` nodes have one child.
 
 10 (0%) `CCONJ` nodes have two children.
 
@@ -94,7 +94,7 @@ Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="en
 
 The highest child degree of a `CCONJ` node is 3.
 
-Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (17; 57% instances), <tt><a href="en_lines-dep-punct.html">punct</a></tt> (11; 37% instances), <tt><a href="en_lines-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="en_lines-dep-nmod.html">nmod</a></tt> (1; 3% instances)
+Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (17; 52% instances), <tt><a href="en_lines-dep-punct.html">punct</a></tt> (14; 42% instances), <tt><a href="en_lines-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="en_lines-dep-nmod.html">nmod</a></tt> (1; 3% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (11; 37% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (9; 30% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (8; 27% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 3% instances)
+Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (14; 42% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (9; 27% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (8; 24% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 3% instances)
 

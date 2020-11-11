@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="kpv_lattice-dep-aux-neg.html">aux:neg</a></tt>.
 
-5 nodes (0%) are attached to their parents as `aux`.
+13 nodes (0%) are attached to their parents as `aux`.
 
-5 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.6.
+12 instances of `aux` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.38461538461538.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (3; 60% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 20% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 20% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (9; 69% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 15% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 15% instances).
 
 
 ~~~ conllu
@@ -58,32 +58,17 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 aux	color:blue
-1	Овлывлӧ	овлывлыны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	_
-2	сэтшӧм	сэтшӧм	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	3	det	_	_
-3	практика	практика	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	16	punct	_	_
-5	мый	мый	SCONJ	CS	_	16	mark	_	_
-6	колхозъясса	колхозъясса	ADJ	A	Case=Nom|Number=Sing	7	amod	_	_
-7	председательяс	председатель	NOUN	N	Case=Nom|Number=Plur	16	nsubj	_	_
-8	да	да	CCONJ	CC	_	9	cc	_	_
-9	бригадиръяс	бригадир	NOUN	N	Case=Nom|Number=Plur	7	conj	_	_
-10	му	му	NOUN	N	Case=Nom|Number=Sing	12	obl:lmod	_	_
-11	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	10	case	_	_
-12	кольӧм	кольны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
-13	шеп	шеп	NOUN	N	Case=Nom|Number=Sing	14	obj	_	_
-14	октӧм	октыны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	16	acl	_	_
-15	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	16	aux:neg	_	_
-16	котыртны	котыртны	VERB	V	Connegative=Yes	3	acl:relcl	_	SpaceAfter=No
-17	,	,	PUNCT	CLB	_	18	punct	_	_
-18	лыддьӧны	лыддьыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	16	conj	_	_
-19	сійӧс	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
-20	ковтӧмӧн	ковтӧм	ADJ	A	Case=Ins|Number=Sing	18	obl	_	SpaceAfter=No
-21	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 aux	color:blue
+1	Таво	таво	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	GTtags=Temp
+2	матіясас	матіса	ADJ	A	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	0	root	_	GTtags=Pl,Ine,PxSg3,So/CP
+3	эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	5	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
+4	вӧв	вӧвны	AUX	V	Connegative=Yes|Valency=1	5	aux	_	GTtags=IV,ConNeg
+5	вотӧсыс	вотӧс	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nsubj	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

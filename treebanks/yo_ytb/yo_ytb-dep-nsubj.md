@@ -34,7 +34,7 @@ The following 29 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 10	kò	kò	PART	_	_	12	advmod	_	Gloss=did|Ref=JOHN_10.13
 11	sì	sì	CCONJ	_	_	12	cc	_	Gloss=not|Ref=JOHN_10.13
 12	náání	náání	VERB	_	_	8	conj	_	Gloss=care-for|Ref=JOHN_10.13
-13	àwọn	àwọn	DET	_	_	14	det	_	Gloss=the|Ref=JOHN_10.13
+13	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	14	det	_	Gloss=the|Ref=JOHN_10.13
 14	àgùntàn	àgùntàn	NOUN	_	_	12	obj	_	Gloss=sheep|Ref=JOHN_10.13|SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	Gloss=.|Ref=JOHN_10.13
 
@@ -53,7 +53,7 @@ The following 29 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 4	gbogbo	gbogbo	DET	_	_	5	det	_	Gloss=all|Ref=GEN_1.1
 5	Ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	Gloss=god|Ref=GEN_1.1
 6	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.1
-7	àwọn	àwọn	DET	_	_	8	det	_	Gloss=the|Ref=GEN_1.1
+7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	8	det	_	Gloss=the|Ref=GEN_1.1
 8	ọ̀run	ọ̀run	NOUN	_	_	6	obj	_	Gloss=heaven|Ref=GEN_1.1
 9	àti	àti	CCONJ	_	_	10	cc	_	Gloss=and|Ref=GEN_1.1
 10	ayé	ayé	NOUN	_	_	8	conj	_	Gloss=earth|Ref=GEN_1.1|SpaceAfter=No

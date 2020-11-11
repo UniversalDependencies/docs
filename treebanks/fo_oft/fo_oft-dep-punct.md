@@ -13,7 +13,7 @@ This relation is universal.
 1375 instances of `punct` (88%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.54859335038363.
 
-The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (717; 46% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (469; 30% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (203; 13% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (110; 7% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (38; 2% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (24; 2% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (717; 46% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (467; 30% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (203; 13% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (110; 7% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (38; 2% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (24; 2% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt>-<tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 7 punct	color:blue
 1	Føroyar	Føroyar	PROPN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	4	nsubj	_	_
-2	eru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Pres	4	cop	_	_
+2	eru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Pres	4	cop	_	_
 3	ikki	ikki	ADV	Adv	_	4	advmod	_	_
 4	limur	limur	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	í	í	ADP	Pr	_	6	case	_	_
@@ -60,7 +60,7 @@ The following 8 pairs of parts of speech are connected with `punct`: <tt><a href
 2	býurin	býur	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	_
 3	og	og	CCONJ	CC	_	4	cc	_	_
 4	høvuðsstaðurin	høvuðsstaður	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	conj	_	_
-5	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
+5	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
 6	Keypmannahavn	Keypmannahavn	PROPN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	_
 

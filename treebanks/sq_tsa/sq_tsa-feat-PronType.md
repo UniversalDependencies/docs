@@ -33,12 +33,12 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 <table>
   <tr><th>Paradigm <i>ai</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th><th><tt>Emp</tt></th></tr>
-  <tr><td><tt><tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Ai</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_tsa-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>ai</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_tsa-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>tij</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Ata</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>e</em></td></tr>
-  <tr><td><tt><tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ato</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="sq_tsa-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>e</em></td></tr>
+  <tr><td><tt><tt><a href="sq_tsa-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_tsa-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>tij</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="sq_tsa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Ai</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="sq_tsa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_tsa-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>ai</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sq_tsa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Ata</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="sq_tsa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ato</em></td><td></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `PronType`

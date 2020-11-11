@@ -51,10 +51,10 @@ The following 29 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 4	que	que	SCONJ	SCONJ	_	11	mark	_	_
 5	si	si	SCONJ	SCONJ	_	8	mark	_	_
 6	no	no	ADV	ADV	Polarity=Neg	8	advmod	_	_
-7	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pass	_	_
+7	se	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pass	_	_
 8	lucha	luchar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
 9	no	no	ADV	ADV	Polarity=Neg	11	advmod	_	_
-10	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	obj	_	_
+10	se	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pass	_	_
 11	consigue	conseguir	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 12	nada	nada	PRON	PRON	Number=Sing|PronType=Neg	11	nsubj	_	SpaceAfter=No
 13	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_

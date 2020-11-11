@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="koi_uh-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-31 nodes (5%) are attached to their parents as `cc`.
+38 nodes (5%) are attached to their parents as `cc`.
 
-31 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.48387096774194.
+38 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.60526315789474.
 
-The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> (17; 55% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> (8; 26% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> (5; 16% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> (23; 61% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> (9; 24% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> (5; 13% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

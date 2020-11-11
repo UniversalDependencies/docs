@@ -12,20 +12,20 @@ It occurs with 4 different values: `Acc`, `Dat`, `Gen`, `Nom`.
 7638 tokens (41%) have a non-empty value of `Case`.
 4698 types (72%) occur at least once with a non-empty value of `Case`.
 3359 lemmas (70%) occur at least once with a non-empty value of `Case`.
-The feature is used with 11 part-of-speech tags: <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (4077; 22% instances), <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> (1367; 7% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt> (1150; 6% instances), <tt><a href="is_pud-pos-PROPN.html">PROPN</a></tt> (648; 3% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (242; 1% instances), <tt><a href="is_pud-pos-NUM.html">NUM</a></tt> (118; 1% instances), <tt><a href="is_pud-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="is_pud-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="is_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="is_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (4079; 22% instances), <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> (1365; 7% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt> (1150; 6% instances), <tt><a href="is_pud-pos-PROPN.html">PROPN</a></tt> (648; 3% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (242; 1% instances), <tt><a href="is_pud-pos-NUM.html">NUM</a></tt> (118; 1% instances), <tt><a href="is_pud-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="is_pud-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="is_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="is_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-4077 <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
+4079 <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="is_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2933; 72%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2796; 69%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="is_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2935; 72%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2797; 69%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (1234; 30% of non-empty `Case`): <em>árið, ár, áhrif, sinn, stað, borð, kjölfar, hluta, október, dag</em>
+* `Acc` (1235; 30% of non-empty `Case`): <em>árið, ár, áhrif, sinn, stað, borð, kjölfar, hluta, október, dag</em>
 * `Dat` (1135; 28% of non-empty `Case`): <em>árum, öld, áratugnum, hendi, fólki, hluta, sinnum, svæðinu, tíma, apríl</em>
 * `Gen` (543; 13% of non-empty `Case`): <em>ára, fólks, sögunnar, aldar, fjölda, fyrirtækisins, manns, ríkisins, ríkisstjórnarinnar, borgarinnar</em>
-* `Nom` (1165; 29% of non-empty `Case`): <em>fólk, maður, fjárfestar, fyrirtækið, milljónir, ríkisstjórnin, dæmi, eiginkona, forseti, fyrirtæki</em>
+* `Nom` (1166; 29% of non-empty `Case`): <em>fólk, maður, fjárfestar, fyrirtækið, milljónir, ríkisstjórnin, dæmi, eiginkona, forseti, fyrirtæki</em>
 * `EMPTY` (22): <em>hafi, Frú, ati, dala, dr., eiðinu, etým, evra, hefðum, heimi</em>
 
 <table>
@@ -38,15 +38,15 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-1367 <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+1365 <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1030; 75%), <tt><a href="is_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (802; 59%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (242; 18% of non-empty `Case`): <em>sig, það, sína, þetta, hana, hann, sitt, þau, allt, þessa</em>
+* `Acc` (241; 18% of non-empty `Case`): <em>sig, það, sína, þetta, hana, hann, sitt, þau, allt, þessa</em>
 * `Dat` (326; 24% of non-empty `Case`): <em>því, sér, honum, sinni, sínum, þeim, þessum, henni, öðrum, engu</em>
-* `Gen` (201; 15% of non-empty `Case`): <em>þess, hans, þeirra, hennar, okkar, þessa, annars, sín, síns, þessara</em>
+* `Gen` (200; 15% of non-empty `Case`): <em>þess, hans, þeirra, hennar, okkar, þessa, annars, sín, síns, þessara</em>
 * `Nom` (598; 44% of non-empty `Case`): <em>hann, það, hún, ég, þetta, þeir, við, þau, þessi, hvað</em>
 * `EMPTY` (5): <em>hvort, sama, það, þig, þá</em>
 
@@ -214,10 +214,10 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="is_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (761; 94%),
 <tt>NOUN --[<tt><a href="is_pud-dep-det.html">det</a></tt>]--> PRON</tt> (247; 96%),
-<tt>NOUN --[<tt><a href="is_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (196; 81%),
-<tt>NOUN --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (64; 57%),
+<tt>NOUN --[<tt><a href="is_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (197; 81%),
+<tt>NOUN --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (65; 57%),
 <tt>ADJ --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (55; 82%),
-<tt>NOUN --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (43; 74%),
+<tt>NOUN --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (43; 75%),
 <tt>PROPN --[<tt><a href="is_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (35; 59%),
 <tt>ADJ --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (31; 91%),
 <tt>NOUN --[<tt><a href="is_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (19; 66%),

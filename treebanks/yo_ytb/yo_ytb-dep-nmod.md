@@ -28,7 +28,7 @@ The following 25 pairs of parts of speech are connected with `nmod`: <tt><a href
 4	gbogbo	gbogbo	DET	_	_	5	det	_	Gloss=all|Ref=GEN_1.1
 5	Ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	Gloss=god|Ref=GEN_1.1
 6	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.1
-7	àwọn	àwọn	DET	_	_	8	det	_	Gloss=the|Ref=GEN_1.1
+7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	8	det	_	Gloss=the|Ref=GEN_1.1
 8	ọ̀run	ọ̀run	NOUN	_	_	6	obj	_	Gloss=heaven|Ref=GEN_1.1
 9	àti	àti	CCONJ	_	_	10	cc	_	Gloss=and|Ref=GEN_1.1
 10	ayé	ayé	NOUN	_	_	8	conj	_	Gloss=earth|Ref=GEN_1.1|SpaceAfter=No

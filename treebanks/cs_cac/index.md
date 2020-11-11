@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman.
 
 Repository: [UD_Czech-CAC](https://github.com/UniversalDependencies/UD_Czech-CAC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -196,7 +196,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
   <li>Inf
   <ul>
     <li>AUX: být, býti</li>
-    <li>VERB: mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</li>
+    <li>VERB: mít, zajistit, říci, být, vidět, dělat, řešit, věnovat, použít, provádět</li>
   </ul>
   </li>
 </ul>
@@ -223,6 +223,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <ul>
       <li>ADJ: pracovní, socialistické, nové, další, první, základní, současné, druhé, společenské, celé</li>
       <li>ADJ-Part: rozhodující, vedoucí, odpovídající, týkající, řídící, rostoucí, následující, pracující, vládnoucí, vyplývající</li>
+      <li>AUX-Part: byla, byly</li>
       <li>DET: které, která, této, své, naší, tato, svou, tyto, kterou, tuto</li>
       <li>NOUN: práce, práci, oblasti, době, společnosti, činnosti, výroby, teorie, organizace, strany</li>
       <li>NUM: jedné, jednu, jedna, jednou, třetinu, třetina, třetiny, čtvrtiny, dvanáctinu, třetinou</li>
@@ -290,7 +291,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <ul>
       <li>ADJ: možno, možné, nutno, nutné, národního, další, posledních, jiné, řečeno, vědeckého</li>
       <li>ADJ-Part: řečeno, dosaženo, uvedeno, použito, spojeno, určeno, dodáno, provedeno, stanoveno, rozhodující</li>
-      <li>AUX-Part: bylo, nebylo, bývalo</li>
+      <li>AUX-Part: bylo, nebylo, bývalo, byla</li>
       <li>DET: to, které, toto, která, své, tato, každé, takové, některá, její</li>
       <li>NOUN: let, hlediska, období, prostředí, zařízení, řešení, plnění, množství, poznání, století</li>
       <li>NUM: jedno</li>
@@ -310,7 +311,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <ul>
       <li>ADJ: pracujících, mladých, pracující, mladí, další, rádi, mnozí, ostatní, mladý, vedoucí</li>
       <li>ADJ-Part: pracujících, pracující, vedoucí, vedoucích, pracujícím, připraveni, nuceni, pracujícími, zabezpečeni, cestující</li>
-      <li>AUX-Part: byli, nebyli</li>
+      <li>AUX-Part: byli, nebyli, byl</li>
       <li>DET: kteří, každý, sami, každého, ti, někteří, naši, svého, každému, tito</li>
       <li>NOUN: pracovníků, lidí, člověka, člověk, lidé, pracovník, členů, vedoucí, ředitel, pracovníci</li>
       <li>NUM: jednoho</li>
@@ -326,7 +327,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <ul>
       <li>ADJ: jednotlivých, další, základní, pracovní, celý, první, velký, nové, nový, dalších</li>
       <li>ADJ-Part: rozhodující, uvedeny, určeny, splněny, provedeny, spojeny, stanoveny, připraveny, pracujícího, vytvořeny</li>
-      <li>AUX-Part: byly, nebyly, bývaly</li>
+      <li>AUX-Part: byly, nebyly, byl, bývaly</li>
       <li>DET: které, tyto, který, tento, svůj, každý, některé, ty, každém, její</li>
       <li>NOUN: roce, roku, úkolů, výsledky, jazyka, procesu, úkoly, podniku, života, základě</li>
       <li>NUM: jeden</li>
@@ -359,7 +360,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>ADJ-Part: pracujících, pracující, uvedeny, určeny, splněny, vedoucí, týkající, vedoucích, následující, provedeny</li>
       <li>AUX-Conv: byvše, jsouce</li>
       <li>AUX-Fin: jsou, jsme, budou, bychom, nejsou, budeme, jste, byste, nebudou, bývají</li>
-      <li>AUX-Part: byly, byli, nebyly, nebyli, bývaly</li>
+      <li>AUX-Part: byly, byli, nebyly, nebyli, byla, bývaly</li>
       <li>DET: které, těchto, tyto, kteří, některých, některé, svých, své, našich, ty</li>
       <li>NOUN: let, pracovníků, úkolů, výsledky, lidí, úkoly, podmínky, letech, lidé, práce</li>
       <li>NUM: dvou, dvě, tři, dva, obou, dvěma, tří, čtyři, oba, obě</li>
@@ -389,8 +390,8 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>ADJ: pracovní, první, možno, další, socialistické, druhé, základní, vlastní, národního, větší</li>
       <li>ADJ-Part: rozhodující, řečeno, dosaženo, vedoucí, odpovídající, řídící, pracující, uvedeno, dán, splněn</li>
       <li>AUX-Conv: jsouc</li>
-      <li>AUX-Fin: je, bude, není, jsem, bych, bývá, nebude, budu, jsi, buď</li>
-      <li>AUX-Part: byl, bylo, nebylo, nebyl, býval, bývalo</li>
+      <li>AUX-Fin: je, bude, není, jsem, bych, bývá, nebude, budu, jsi, budiž</li>
+      <li>AUX-Part: byl, bylo, nebylo, nebyl, býval, bývalo, byla</li>
       <li>DET: to, který, která, tím, této, tom, toho, tento, tohoto, tomu</li>
       <li>NOUN: práce, roce, práci, roku, době, společnosti, oblasti, hlediska, činnosti, výroby</li>
       <li>NUM: jeden, jedné, jednoho, jedním, jednu, jedna, pět, jednom, jedno, tisíc</li>
@@ -427,7 +428,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <ul>
       <li>ADJ: dalšímu, jiným, ostatním, národnímu, jednotlivým, různým, socialistickému, Slovenskému, plánovaným, určitému</li>
       <li>ADJ-Part: pracujícím, pracujícímu, cestujícím, charakterizujícím, následujícím, následujícímu, předcházejícímu, soutěžícím, vedoucím, zaostávajícím</li>
-      <li>ADP: k, ke, proti, naproti, vůči, díky, oproti, kvůli, dík, vstříc</li>
+      <li>ADP: k, ke, proti, vůči, naproti, díky, oproti, kvůli, dík, vstříc</li>
       <li>DET: tomu, tomuto, této, kterým, těmto, svému, těm, každému, některým, jejímu</li>
       <li>NOUN: pracovníkům, práci, dispozici, výročí, lidem, řešení, dětem, rozvoji, zlepšení, skutečnosti</li>
       <li>NUM: jednomu, oběma, jedné, dvěma, třetině, šestině, jedenácti, osmi, pár, pěti</li>
@@ -462,7 +463,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>NOUN: způsobem, součástí, vodou, cílem, lety, lidmi, prostřednictvím, formou, prací, výsledkem</li>
       <li>NUM: jedním, dvěma, jednou, oběma, třemi, čtyřmi, pěti, dvaceti, sto, třiceti</li>
       <li>PRON: nimi, sebou, ním, čím, jimiž, jimi, všemi, čímž, nimiž, jím</li>
-      <li>PROPN: Labem, Bečvou, Václavem, Karlem, Prahou, Alpami, Karpatami, Sázavou, Cidlinou, Honzou</li>
+      <li>PROPN: Labem, Bečvou, Václavem, Karlem, Prahou, Sázavou, Alpami, Karpatami, Cidlinou, Honzou</li>
     </ul>
   </li>
 </ul>
@@ -600,7 +601,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>PROPN: KSČ, ROH, Praze, SSSR, ÚJČ, SSM, Praha, ČSAV, ČSSR, Škoda</li>
       <li>VERB-Conv: počínaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče, plníce, ponechávajíc</li>
       <li>VERB-Fin: je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</li>
-      <li>VERB-Inf: mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</li>
+      <li>VERB-Inf: mít, zajistit, říci, být, vidět, dělat, řešit, věnovat, použít, provádět</li>
       <li>VERB-Part: měl, měla, bylo, mohli, mohl, došlo, měli, byl, měly, mělo</li>
     </ul>
   </li>
@@ -673,7 +674,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: buď, budiž, buďme, buďte, Nebuď</li>
+      <li>AUX-Fin: budiž, buď, buďme, buďte, Nebuď</li>
       <li>VERB-Fin: viz, překonej, připomeňme, uveďme, nechte, pověste, vraťme, žehlete, nezapomeňte, perte</li>
     </ul>
   </li>
@@ -1307,12 +1308,12 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 31 lemmas as copulas (<a>cop</a>). Examples: být, bývat, *, determinační, dlouhý, doktrína, doprovázený, dosažitelný, dále, faktor, impuls, jeden, krásný, lhostejný, metoda, měkký, nabubřování, naopak, nebo, náboženství, odolný, pohyblivost, prostředek, souhrn, titul, uhlí, výhodný, zahrada, znak, značka, řehole.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: být, bývat.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: být, *, &camount;, bývat, jako, rozdělený, ten, třeba, vytištěný.</li>
-<li>This corpus uses 5 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat, *, &camount;, rámec.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1341,7 +1342,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Nom (185)</li>
       <li>VERB-Inf--PRON-Nom (15)</li>
       <li>VERB-Part--NOUN (32)</li>
-      <li>VERB-Part--NOUN-Acc (5)</li>
+      <li>VERB-Part--NOUN-Acc (4)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(přes) (1)</li>
       <li>VERB-Part--NOUN-Gen (137)</li>
       <li>VERB-Part--NOUN-Gen-ADP(kolem) (2)</li>
       <li>VERB-Part--NOUN-Gen-ADP(na) (2)</li>
@@ -1365,7 +1367,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Acc (5612)</li>
       <li>VERB-Fin--NOUN-Gen (143)</li>
-      <li>VERB-Fin--NOUN-Nom (98)</li>
+      <li>VERB-Fin--NOUN-Nom (99)</li>
       <li>VERB-Fin--PRON (18)</li>
       <li>VERB-Fin--PRON-Acc (612)</li>
       <li>VERB-Fin--PRON-Gen (4)</li>

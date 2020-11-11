@@ -27,7 +27,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	ja	ja	CCONJ	CC	_	1	cc	_	_
 4	šattai	šaddat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
 5	iđit	iđit	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	SpaceAfter=No
-6	,	,	PUNCT	CLB	_	1	punct	_	_
+6	,	,	PUNCT	CLB	_	8	punct	_	_
 7	vuosttaš	vuosttaš	ADJ	A	_	8	amod	_	_
 8	beaivi	beaivi	NOUN	N	Case=Nom|Number=Sing	5	appos	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	1	punct	_	_
@@ -43,10 +43,10 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2 4 appos	color:blue
 1	Mu	mun	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
 2	viellja	viellja	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	SpaceAfter=No
-3	,	,	PUNCT	CLB	_	7	punct	_	_
+3	,	,	PUNCT	CLB	_	4	punct	_	_
 4	Tore	Tore	PROPN	N	Case=Nom|Number=Sing	2	appos	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
-6	sáhttá	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	sáhttá	sáhttit	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	boahtit	boahtit	VERB	V	VerbForm=Inf	0	root	_	_
 8	deike	deike	ADV	Adv	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	7	punct	_	_
@@ -63,7 +63,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	Jáhkobii	Jáhkob	PROPN	N	Case=Ill|Number=Sing	2	obl	_	_
 2	riegádii	riegádit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	Jovsset	Jovsset	PROPN	N	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	2	punct	_	_
+4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	Márjjá	Márjá	PROPN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
 6	boadnjá	boadnjá	NOUN	N	Case=Nom|Number=Sing	3	appos	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_

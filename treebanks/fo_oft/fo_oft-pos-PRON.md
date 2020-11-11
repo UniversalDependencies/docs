@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Faroese-OFT: POS Tags: `PRON`
 
 There are 20 `PRON` lemmas (1%), 34 `PRON` types (1%) and 292 `PRON` tokens (3%).
-Out of 15 observed tags, the rank of `PRON` is: 9 in number of lemmas, 8 in number of types and 9 in number of tokens.
+Out of 16 observed tags, the rank of `PRON` is: 9 in number of lemmas, 8 in number of types and 10 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>hann, hon, tað, hesin, sum, seg, teir, vit, ið, eg</em>
 
@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>hon</em> (<tt><a href="fo_oft-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.700000 (the average of all parts of speech is 1.289602).
+The form / lemma ratio of `PRON` is 1.700000 (the average of all parts of speech is 1.290924).
 
 The 1st highest number of forms (4) was observed with the lemma “hon”: <em>hana, hennara, henni, hon</em>.
 
@@ -69,5 +69,5 @@ The highest child degree of a `PRON` node is 4.
 
 Children of `PRON` nodes are attached using 9 different relations: <tt><a href="fo_oft-dep-case.html">case</a></tt> (20; 59% instances), <tt><a href="fo_oft-dep-cop.html">cop</a></tt> (3; 9% instances), <tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt> (3; 9% instances), <tt><a href="fo_oft-dep-nmod.html">nmod</a></tt> (2; 6% instances), <tt><a href="fo_oft-dep-punct.html">punct</a></tt> (2; 6% instances), <tt><a href="fo_oft-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="fo_oft-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="fo_oft-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="fo_oft-dep-obj.html">obj</a></tt> (1; 3% instances)
 
-Children of `PRON` nodes belong to 7 different parts of speech: <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (20; 59% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (6; 18% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (3; 9% instances), <tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (2; 6% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
+Children of `PRON` nodes belong to 7 different parts of speech: <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (20; 59% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (6; 18% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (3; 9% instances), <tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (2; 6% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
 

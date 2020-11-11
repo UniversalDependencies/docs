@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Comprep`, `Prep`, `Voc`.
 
-3942 tokens (11%) have a non-empty value of `AdpType`.
+3946 tokens (11%) have a non-empty value of `AdpType`.
 58 types (1%) occur at least once with a non-empty value of `AdpType`.
 32 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (3942; 11% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (3946; 11% instances).
 
 ### `ADP`
 
-3942 <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
+3946 <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
 * `Comprep` (4; 0% of non-empty `AdpType`): <em>vzhledem</em>
-* `Prep` (3593; 91% of non-empty `AdpType`): <em>v, podle, na, o, k, s, do, za, z, pro</em>
-* `Voc` (345; 9% of non-empty `AdpType`): <em>ve, ke, se, ze, ode, beze, přede</em>
+* `Prep` (3602; 91% of non-empty `AdpType`): <em>v, podle, na, o, k, s, do, za, z, pro</em>
+* `Voc` (340; 9% of non-empty `AdpType`): <em>ve, ke, ze, se, ode, beze, přede</em>
 
 <table>
   <tr><th>Paradigm <i>v</i></th><th><tt>Prep</tt></th><th><tt>Voc</tt></th></tr>

@@ -42,7 +42,7 @@ The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 acl:relcl	color:blue
-1	Ale	ii	VERB	V	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	2	aux:neg	_	_
+1	Ale	ii	AUX	V	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	2	aux:neg	_	_
 2	moaráhuva	moaráhuvvat	VERB	V	Connegative=Yes|Mood=Imp|VerbForm=Fin	0	root	_	_
 3	munnje	mun	PRON	Pron	Case=Ill|Number=Sing|Person=1|PronType=Prs	2	obl	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	2	punct	_	_
@@ -63,11 +63,11 @@ The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 acl:relcl	color:blue
-1	Eat	ii	VERB	V	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|VerbForm=Fin	3	aux:neg	_	_
+1	Eat	ii	AUX	V	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|VerbForm=Fin	3	aux:neg	_	_
 2	mii	mun	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 3	dieđe	diehtit	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	gii	gii	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	6	nsubj	_	_
-5	leažžá	leat	VERB	V	Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	leažžá	leat	AUX	V	Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	bidjan	bidjat	VERB	V	Aspect=Perf|VerbForm=Part	3	acl:relcl	_	_
 7	silbba	silba	NOUN	N	Case=Acc|Number=Sing	6	obj	_	_
 8	min	mun	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	nmod:poss	_	_

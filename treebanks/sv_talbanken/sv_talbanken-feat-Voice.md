@@ -11,7 +11,7 @@ It occurs with 2 different values: `Act`, `Pass`.
 
 13792 tokens (14%) have a non-empty value of `Voice`.
 2601 types (17%) occur at least once with a non-empty value of `Voice`.
-1189 lemmas (12%) occur at least once with a non-empty value of `Voice`.
+1188 lemmas (12%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (9511; 10% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (4281; 4% instances).
 
 ### `VERB`

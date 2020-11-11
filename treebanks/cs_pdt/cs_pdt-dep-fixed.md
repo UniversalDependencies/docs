@@ -32,7 +32,7 @@ The following 31 pairs of parts of speech are connected with `fixed`: <tt><a hre
 8	6	6	NUM	C=-------------	NumForm=Digit|NumType=Card	9	nummod	9:nummod	_
 9	let	rok	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	5	obl	5:obl:v_průběh:gen	_
 10	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	11:case	LId=o-1
-11	šestinu	šestina	NUM	CyFS4----------	Case=Acc|Gender=Fem|Number=Sing|NumType=Frac	5	obl	5:obl:o:acc	SpaceAfter=No|LDeriv=še`6|LNumValue=6
+11	šestinu	šestina	NUM	CyFS4----------	Case=Acc|Gender=Fem|Number=Sing|NumType=Frac	5	obl	5:obl:o:acc	SpaceAfter=No|LNumValue=6|LDeriv=šest
 12	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
 ~~~

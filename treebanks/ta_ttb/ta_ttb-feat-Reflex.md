@@ -22,6 +22,6 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (16; 100% of non-empty `Reflex`): தனது, தனக்கு, தங்களது, தங்களின், தன்னைப், தமக்க்
+* `Yes` (16; 100% of non-empty `Reflex`): தனது, தனக்கு, தங்களது, தங்களின், தன்னைப், தமக்கு
 * `EMPTY` (220): அவர், இது, அனைவரும், அவர்கள், அது, அதை, நான், அவரது, அவர்களை, இதை
 

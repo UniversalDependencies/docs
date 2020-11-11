@@ -74,15 +74,15 @@ The 3rd highest number of forms (1) was observed with the lemma “去”: 去.
 
 Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (99; 88% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (6; 5% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 1% instances)
 
-110 (97%) `SCONJ` nodes are leaves.
+111 (98%) `SCONJ` nodes are leaves.
 
-1 (1%) `SCONJ` nodes have one child.
+0 (0%) `SCONJ` nodes have one child.
 
 2 (2%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 4 different relations: <tt><a href="yue_hk-dep-punct.html">punct</a></tt> (2; 40% instances), <tt><a href="yue_hk-dep-advcl.html">advcl</a></tt> (1; 20% instances), <tt><a href="yue_hk-dep-conj.html">conj</a></tt> (1; 20% instances), <tt><a href="yue_hk-dep-discourse-sp.html">discourse:sp</a></tt> (1; 20% instances)
+Children of `SCONJ` nodes are attached using 4 different relations: <tt><a href="yue_hk-dep-advcl.html">advcl</a></tt> (1; 25% instances), <tt><a href="yue_hk-dep-conj.html">conj</a></tt> (1; 25% instances), <tt><a href="yue_hk-dep-discourse-sp.html">discourse:sp</a></tt> (1; 25% instances), <tt><a href="yue_hk-dep-punct.html">punct</a></tt> (1; 25% instances)
 
-Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (2; 40% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 40% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 20% instances)
+Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 50% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 25% instances), <tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (1; 25% instances)
 

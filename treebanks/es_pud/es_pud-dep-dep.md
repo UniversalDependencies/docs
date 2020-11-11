@@ -38,7 +38,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	dep	_	_
 15	peor	_	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
 16	permitiría	_	VERB	VBC	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	7	conj	_	_
-17	que	_	ADP	IN	_	29	mark	_	_
+17	que	_	SCONJ	IN	_	29	mark	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	grupos	_	NOUN	NN	Gender=Masc|Number=Plur	29	nsubj	_	_
 20	de	_	ADP	IN	_	21	case	_	_
@@ -86,8 +86,8 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 20	inmigración	_	NOUN	NN	Gender=Fem|Number=Sing	17	nmod	_	_
 21	y	_	CCONJ	CC	_	22	cc	_	_
 22	afirmó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	_
-23	que	_	ADP	IN	_	27	mark	_	_
-24	si	_	ADP	IN	_	26	mark	_	_
+23	que	_	SCONJ	IN	_	27	mark	_	_
+24	si	_	SCONJ	IN	_	26	mark	_	_
 25	fuese	_	AUX	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	26	cop	_	_
 26	presidente	_	NOUN	NN	Gender=Masc|Number=Sing	27	advcl	_	_
 27	reconocería	_	VERB	VBC	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	22	ccomp	_	_

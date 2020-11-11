@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Niko Partanen, Rogier Blokland, Michael Rießler, Jack Rueter.
 
 Repository: [UD_Komi_Zyrian-IKDP](https://github.com/UniversalDependencies/UD_Komi_Zyrian-IKDP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -81,7 +81,7 @@ If you use this treebank in your work, please cite:
 
 ## Relations
 
-[acl](kpv_ikdp-dep-acl.html) – [acl:relcl](kpv_ikdp-dep-acl-relcl.html) – [advcl](kpv_ikdp-dep-advcl.html) – [advmod](kpv_ikdp-dep-advmod.html) – [advmod:deg](kpv_ikdp-dep-advmod-deg.html) – [advmod:lmod](kpv_ikdp-dep-advmod-lmod.html) – [advmod:mmod](kpv_ikdp-dep-advmod-mmod.html) – [advmod:tmod](kpv_ikdp-dep-advmod-tmod.html) – [amod](kpv_ikdp-dep-amod.html) – [appos](kpv_ikdp-dep-appos.html) – [aux](kpv_ikdp-dep-aux.html) – [aux:neg](kpv_ikdp-dep-aux-neg.html) – [case](kpv_ikdp-dep-case.html) – [cc](kpv_ikdp-dep-cc.html) – [ccomp](kpv_ikdp-dep-ccomp.html) – [compound](kpv_ikdp-dep-compound.html) – [conj](kpv_ikdp-dep-conj.html) – [cop](kpv_ikdp-dep-cop.html) – [csubj](kpv_ikdp-dep-csubj.html) – [det](kpv_ikdp-dep-det.html) – [discourse](kpv_ikdp-dep-discourse.html) – [fixed](kpv_ikdp-dep-fixed.html) – [flat:name](kpv_ikdp-dep-flat-name.html) – [goeswith](kpv_ikdp-dep-goeswith.html) – [iobj](kpv_ikdp-dep-iobj.html) – [list](kpv_ikdp-dep-list.html) – [mark](kpv_ikdp-dep-mark.html) – [nmod](kpv_ikdp-dep-nmod.html) – [nsubj](kpv_ikdp-dep-nsubj.html) – [nummod](kpv_ikdp-dep-nummod.html) – [obj](kpv_ikdp-dep-obj.html) – [obl](kpv_ikdp-dep-obl.html) – [parataxis](kpv_ikdp-dep-parataxis.html) – [punct](kpv_ikdp-dep-punct.html) – [reparandum](kpv_ikdp-dep-reparandum.html) – [root](kpv_ikdp-dep-root.html) – [xcomp](kpv_ikdp-dep-xcomp.html)
+[acl](kpv_ikdp-dep-acl.html) – [acl:relcl](kpv_ikdp-dep-acl-relcl.html) – [advcl](kpv_ikdp-dep-advcl.html) – [advmod](kpv_ikdp-dep-advmod.html) – [advmod:deg](kpv_ikdp-dep-advmod-deg.html) – [advmod:lmod](kpv_ikdp-dep-advmod-lmod.html) – [advmod:mmod](kpv_ikdp-dep-advmod-mmod.html) – [advmod:tmod](kpv_ikdp-dep-advmod-tmod.html) – [amod](kpv_ikdp-dep-amod.html) – [appos](kpv_ikdp-dep-appos.html) – [aux](kpv_ikdp-dep-aux.html) – [aux:neg](kpv_ikdp-dep-aux-neg.html) – [case](kpv_ikdp-dep-case.html) – [cc](kpv_ikdp-dep-cc.html) – [ccomp](kpv_ikdp-dep-ccomp.html) – [compound](kpv_ikdp-dep-compound.html) – [conj](kpv_ikdp-dep-conj.html) – [cop](kpv_ikdp-dep-cop.html) – [csubj](kpv_ikdp-dep-csubj.html) – [det](kpv_ikdp-dep-det.html) – [discourse](kpv_ikdp-dep-discourse.html) – [fixed](kpv_ikdp-dep-fixed.html) – [flat:name](kpv_ikdp-dep-flat-name.html) – [goeswith](kpv_ikdp-dep-goeswith.html) – [list](kpv_ikdp-dep-list.html) – [mark](kpv_ikdp-dep-mark.html) – [nmod](kpv_ikdp-dep-nmod.html) – [nsubj](kpv_ikdp-dep-nsubj.html) – [nummod](kpv_ikdp-dep-nummod.html) – [obj](kpv_ikdp-dep-obj.html) – [obl](kpv_ikdp-dep-obl.html) – [parataxis](kpv_ikdp-dep-parataxis.html) – [punct](kpv_ikdp-dep-punct.html) – [reparandum](kpv_ikdp-dep-reparandum.html) – [root](kpv_ikdp-dep-root.html) – [xcomp](kpv_ikdp-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -131,7 +131,7 @@ If you use this treebank in your work, please cite:
 </ul>
 
 <ul>
-<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): абу, быть, вӧвны, лоны, оз, эм</li>
+<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): абу, быть, вӧвны, оз, эм</li>
 </ul>
 
 <ul>
@@ -194,7 +194,7 @@ If you use this treebank in your work, please cite:
       <li>ADJ: ас, бия, бур, второй, дик, кык-суда, Берёзовский, Вто-, Выль, Ленинградскей</li>
       <li>ADP: вылын, бӧрын, вылэ, вывті, доре, сае, сайын, бӧрас, вылас, вылӧ</li>
       <li>ADV: вӧдзӧ, бӧрӧ, бӧр, водз, дзикедз</li>
-      <li>AUX: вӧлі, выйым, из, вӧліс, лоас, было, лоо</li>
+      <li>AUX: вӧлі, выйым, из, вӧліс, было</li>
       <li>DET: Став, всю, мӧд, ставыс, такое</li>
       <li>INTJ: эта</li>
       <li>NOUN: во, ае, год, коми, чой, чом, вок, класс, лун, маме</li>
@@ -421,7 +421,7 @@ If you use this treebank in your work, please cite:
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: вӧлі, из, ог, вӧліс, оз, были, лоас, он, было, лоо</li>
+      <li>AUX: вӧлі, из, ог, вӧліс, оз, были, он, было</li>
       <li>VERB: босьтіс, вежсис, ветлі, мӧдэма, примитіс, пукаліс, рӧдитчи, рӧдитчылі, ветліс, висьталэма</li>
     </ul>
   </li>
@@ -434,8 +434,7 @@ If you use this treebank in your work, please cite:
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: лоас</li>
-      <li>VERB: мӧдасы, сетасныс</li>
+      <li>VERB: лоас, мӧдасы, сетасныс</li>
     </ul>
   </li>
 </ul>
@@ -453,7 +452,7 @@ If you use this treebank in your work, please cite:
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: ог, оз, он, лоо</li>
+      <li>AUX: ог, оз, он</li>
       <li>VERB: колэныс, Верма, будет, велӧдча, велӧдчӧны, ветлала, ветлэныс, ветлӧны, видзены, висены</li>
     </ul>
   </li>
@@ -600,9 +599,9 @@ If you use this treebank in your work, please cite:
 <ul>
   <li>3
     <ul>
-      <li>AUX: вӧлі, из, вӧліс, оз, лоас, лоо</li>
+      <li>AUX: вӧлі, из, вӧліс, оз</li>
       <li>PRON: сыа, сія, сы, сійӧ, ачыс, сіес, Ная, Сылэн, Сыысь, аслас</li>
-      <li>VERB: босьтіс, вежсис, примитіс, пукаліс, ветліс, висьталэма, колэныс, мӧдэма, пондіс, пондісны</li>
+      <li>VERB: босьтіс, вежсис, примитіс, пукаліс, ветліс, висьталэма, колэныс, лоас, мӧдэма, пондіс</li>
     </ul>
   </li>
 </ul>
@@ -655,8 +654,8 @@ If you use this treebank in your work, please cite:
     <ul>
       <li>Yes
         <ul>
-          <li>AUX: вӧв, ло</li>
-          <li>VERB: вермы, тӧд, бросайтчы, ветлоо, во, сдайт, удит, привлекайтныс, юныс</li>
+          <li>AUX: вӧв</li>
+          <li>VERB: вермы, тӧд, бросайтчы, ветлоо, во, ло, сдайт, удит, привлекайтныс, юныс</li>
         </ul>
       </li>
     </ul>
@@ -729,11 +728,11 @@ If you use this treebank in your work, please cite:
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: вӧвны, эм, быть, лоны.</li>
+<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: вӧвны, эм, быть.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: вӧвны, абу, лоны.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: вӧвны, абу.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -742,10 +741,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (32)</li>
+      <li>VERB--NOUN-Nom (33)</li>
       <li>VERB--PRON-Dat (1)</li>
       <li>VERB--PRON-Gen (2)</li>
-      <li>VERB--PRON-Nom (29)</li>
+      <li>VERB--PRON-Nom (30)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
     </ul>
   </li>
@@ -756,7 +755,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Acc (15)</li>
       <li>VERB--NOUN-Dat-ADP(по) (1)</li>
-      <li>VERB--NOUN-Ill (1)</li>
       <li>VERB--NOUN-Nom (13)</li>
       <li>VERB--PRON-Acc (4)</li>
       <li>VERB--PRON-Nom (4)</li>
@@ -769,7 +767,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--PRON-Dat (1)</li>
     </ul>
   </li>
 </ul>
@@ -782,5 +779,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>advmod:deg</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:neg</a>, <a>flat:name</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a>, <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a>, <a>dep</a></li>
 </ul>

@@ -75,7 +75,7 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 4	,	,	PUNCT	$,	_	10	punct	_	_
 5	dass	dass	SCONJ	KOUS	_	10	mark	_	_
 6	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
-7	Olešnice	Olešnice	PROPN	NN	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+7	Olešnice	Olešnice	PROPN	NN	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	NamedEntity=Yes
 8	-	-	PUNCT	$(	_	9	punct	_	_
 9	Tal	Tal	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	7	flat	_	_
 10	Ausgangspunkt	Ausgangspunkt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	csubj:pass	_	_
@@ -83,7 +83,7 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 12	deutschen	deutsch	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Sing	13	amod	_	_
 13	Kolonisation	Kolonisation	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
 14	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	Hostinnér	Hostinnér	PROPN	ADJA	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	Hostinnér	Hostinnér	PROPN	ADJA	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	NamedEntity=Yes
 16	Gegend	Gegend	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	15	flat	_	_
 17	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	SpaceAfter=No
 18	.	.	PUNCT	$.	_	3	punct	_	_

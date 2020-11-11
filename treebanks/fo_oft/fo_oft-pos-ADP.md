@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Faroese-OFT: POS Tags: `ADP`
 
 There are 36 `ADP` lemmas (1%), 37 `ADP` types (1%) and 1237 `ADP` tokens (12%).
-Out of 15 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 4 in number of tokens.
+Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 3 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>í, á, av, við, til, fyri, um, hjá, undir, frá</em>
 
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>á</em> (<tt><a href="fo_oft-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.027778 (the average of all parts of speech is 1.289602).
+The form / lemma ratio of `ADP` is 1.027778 (the average of all parts of speech is 1.290924).
 
 The 1st highest number of forms (2) was observed with the lemma “av”: <em>at, av</em>.
 
@@ -79,5 +79,5 @@ The highest child degree of a `ADP` node is 4.
 
 Children of `ADP` nodes are attached using 9 different relations: <tt><a href="fo_oft-dep-advmod.html">advmod</a></tt> (8; 29% instances), <tt><a href="fo_oft-dep-dep.html">dep</a></tt> (7; 25% instances), <tt><a href="fo_oft-dep-cc.html">cc</a></tt> (3; 11% instances), <tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt> (3; 11% instances), <tt><a href="fo_oft-dep-conj.html">conj</a></tt> (2; 7% instances), <tt><a href="fo_oft-dep-cop.html">cop</a></tt> (2; 7% instances), <tt><a href="fo_oft-dep-advcl.html">advcl</a></tt> (1; 4% instances), <tt><a href="fo_oft-dep-case.html">case</a></tt> (1; 4% instances), <tt><a href="fo_oft-dep-punct.html">punct</a></tt> (1; 4% instances)
 
-Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (9; 32% instances), <tt><a href="fo_oft-pos-X.html">X</a></tt> (6; 21% instances), <tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (4; 14% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (3; 11% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (1; 4% instances)
+Children of `ADP` nodes belong to 9 different parts of speech: <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (9; 32% instances), <tt><a href="fo_oft-pos-X.html">X</a></tt> (6; 21% instances), <tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (4; 14% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (2; 7% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (1; 4% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (1; 4% instances)
 

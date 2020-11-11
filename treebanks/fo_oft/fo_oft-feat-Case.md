@@ -148,7 +148,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `VERB`
 
-7 <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
+7 <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="fo_oft-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7; 100%), <tt><a href="fo_oft-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="fo_oft-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7; 100%), <tt><a href="fo_oft-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7; 100%), <tt><a href="fo_oft-feat-Number.html">Number</a></tt><tt>=Plur</tt> (5; 71%).
 
@@ -156,7 +156,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 * `Dat` (2; 29% of non-empty `Case`): <em>Sameindu, samlaða</em>
 * `Nom` (5; 71% of non-empty `Case`): <em>flettir, kendastur, keyptir, nevndar, prentaðir</em>
-* `EMPTY` (1533): <em>er, eru, var, hevur, vóru, varð, verður, býr, kom, liggur</em>
+* `EMPTY` (554): <em>býr, hevur, liggur, Sí, kom, eru, fer, fór, er, stendur</em>
 
 ## Relations with Agreement in `Case`
 

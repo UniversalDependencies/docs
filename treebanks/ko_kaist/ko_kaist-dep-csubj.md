@@ -34,7 +34,7 @@ The following 25 pairs of parts of speech are connected with `csubj`: <tt><a hre
 10	학당의	학당+의	NOUN	ncn+jcm	_	11	nmod	_	_
 11	선생이	선생+이	NOUN	ncn+jcc	_	12	csubj	_	_
 12	된	되+ㄴ	VERB	pvg+etm	_	13	ccomp	_	_
-13	분이다	분+이+다	VERB	nbn+jp+ef	_	0	root	_	_
+13	분이다	분+이+다	VERB	nbn+jp+ef	_	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	sf	_	13	punct	_	_
 
 ~~~
@@ -60,7 +60,7 @@ The following 25 pairs of parts of speech are connected with `csubj`: <tt><a hre
 12	창녀밖에	창녀+밖에	ADV	ncn+jxc	_	13	advcl	_	_
 13	없다는	없+다는	ADJ	paa+etm	_	14	amod	_	_
 14	것이	것+이	NOUN	nbn+jcs	_	15	nsubj	_	_
-15	정설이다	정설+이+다	VERB	ncn+jp+ef	_	0	root	_	_
+15	정설이다	정설+이+다	VERB	ncn+jp+ef	_	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	sf	_	15	punct	_	_
 
 ~~~
@@ -79,7 +79,7 @@ The following 25 pairs of parts of speech are connected with `csubj`: <tt><a hre
 5	이상적	이상+적	NOUN	ncps+xsn	_	6	amod	_	_
 6	교장이	교장+이	NOUN	ncn+jcc	_	7	csubj	_	_
 7	되리라고	되+리라고	SCONJ	pvg+ecs	_	8	ccomp	_	_
-8	기대했다	기대+하+었+다	VERB	ncpa+xsv+ep+ef	_	0	root	_	_
+8	기대했다	기대+하+었+다	VERB	ncpa+xsv+ep+ef	_	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	sf	_	8	punct	_	_
 
 ~~~

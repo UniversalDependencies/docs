@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Adédayọ̀ Olúòkun, Daniel Zeman, Seyi Williams, Ọlájídé Ishola.
 
 Repository: [UD_Yoruba-YTB](https://github.com/UniversalDependencies/UD_Yoruba-YTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyo_ytb26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyo_ytb27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -145,7 +145,8 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
   <li>Plur
     <ul>
       <li>AUX: maa</li>
-      <li>PRON: wọn, ẹ, a, wọ́n, yín, ẹ̀yin, wa, àwọn, tiwọn, àwa</li>
+      <li>DET: àwọn</li>
+      <li>PRON: wọn, ẹ, a, wọ́n, yín, ẹ̀yin, wa, tiwọn, àwa, àwọn</li>
       <li>PROPN: Naijiria</li>
     </ul>
   </li>
@@ -232,6 +233,7 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
 <ul>
   <li>Dem
     <ul>
+      <li>DET: àwọn</li>
       <li>PRON: èyí</li>
     </ul>
   </li>
@@ -343,7 +345,7 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
     <ul>
       <li>ADJ: Bìrìtìkó</li>
       <li>AUX: ó</li>
-      <li>PRON: ó, rẹ̀, wọn, wọ́n, un, i, òun, a, tirẹ̀, àwọn</li>
+      <li>PRON: ó, rẹ̀, wọn, wọ́n, un, i, òun, a, tirẹ̀, á</li>
     </ul>
   </li>
 </ul>

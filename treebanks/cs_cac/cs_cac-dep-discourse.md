@@ -31,8 +31,8 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 7	let	rok	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	4	obl	4:obl	_
 8	po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	10:case	LId=po-1
 9	jeho	jeho	DET	PSXXXZS3-------	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	10:det	LGloss=(přivlast.)
-10	*	*	SYM	Xx-------------	Abbr=Yes	7	nmod	7:nmod:po	_
-11	*	*	SYM	Xx-------------	Abbr=Yes	4	obj	4:obj	_
+10	*	&cwildcard;	SYM	Xx-------------	Abbr=Yes	7	nmod	7:nmod:po	_
+11	*	&cwildcard;	SYM	Xx-------------	Abbr=Yes	4	obj	4:obj	_
 12	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~

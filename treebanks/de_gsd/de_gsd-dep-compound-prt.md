@@ -50,7 +50,7 @@ The following 13 pairs of parts of speech are connected with `compound:prt`: <tt
 5	dann	dann	ADV	ADV	_	6	advmod	_	_
 6	schließlich	schließlich	ADV	ADV	_	4	advmod	_	_
 7	keine	kein	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Neg|PronType=Neg	8	nmod	_	_
-8	Vespa	Vespa	PROPN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+8	Vespa	Vespa	PROPN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	NamedEntity=Yes
 9	mehr	mehr	ADV	ADV	_	4	advmod	_	_
 10	da	da	ADV	ADV	_	4	compound:prt	_	SpaceAfter=No
 11	.	.	PUNCT	$.	_	4	punct	_	_
@@ -64,7 +64,7 @@ The following 13 pairs of parts of speech are connected with `compound:prt`: <tt
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 compound:prt	color:blue
-1	Judah	Judah	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+1	Judah	Judah	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	NamedEntity=Yes
 2	geht	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	aus	aus	ADP	APPR	_	5	case	_	_
 4	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_

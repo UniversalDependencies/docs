@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (43; 100% of non-empty `NumType`): <em>prvním, prvnímu, prvního, první, třetí, PÁTÁ, ČTVRTÁ, ŠESTÁ, SEDMÁ, druhé</em>
-* `EMPTY` (6738): <em>účetní, účetních, účetního, konsolidované, konsolidující, finanční, účetním, povinny, výroční, právní</em>
+* `EMPTY` (6729): <em>účetní, účetních, účetního, konsolidované, konsolidující, finanční, účetním, povinny, výroční, právní</em>
 
 ### `ADV`
 

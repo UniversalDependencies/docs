@@ -9,17 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-11 tokens (0%) have a non-empty value of `Foreign`.
-11 types (0%) occur at least once with a non-empty value of `Foreign`.
-1 lemmas (0) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 1 part-of-speech tags: <tt><a href="id_pud-pos-X.html">X</a></tt> (11; 0% instances).
+32 tokens (0%) have a non-empty value of `Foreign`.
+27 types (1%) occur at least once with a non-empty value of `Foreign`.
+26 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 1 part-of-speech tags: <tt><a href="id_pud-pos-X.html">X</a></tt> (32; 0% instances).
 
 ### `X`
 
-11 <tt><a href="id_pud-pos-X.html">X</a></tt> tokens (13% of all `X` tokens) have a non-empty value of `Foreign`.
+32 <tt><a href="id_pud-pos-X.html">X</a></tt> tokens (78% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (11; 100% of non-empty `Foreign`): <em>Angeles, Mundo, Nostrum, Píanó, Traum, ZEIT, andino, de, grâce, maiorum</em>
-* `EMPTY` (75): <em>baru, kali, hati, rata, benar, kira, sama, satu, betapa, de</em>
+* `Yes` (32; 100% of non-empty `Foreign`): <em>estate, landmark, real, Energies, International, Investors, MultiStrategy, Organization, Renewable, Return</em>
+* `EMPTY` (9): <em>chief, earl, executive, flap, maiorum, massebot, middle, mos, storyboard</em>
+
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (26) occur only with one value of `Foreign`.
+
+## Relations with Agreement in `Foreign`
+
+The 10 most frequent relations where parent and child node agree in `Foreign`:
+<tt>X --[<tt><a href="id_pud-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (10; 100%).
 

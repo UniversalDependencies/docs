@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 7	fgColor:white
 # visual-style 7 6 compound	color:blue
 1	Pávin	pávi	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
 3	hægsti	høgur	ADJ	A	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	4	amod	_	_
 4	myndugleiki	myndugleiki	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	fyri	fyri	ADP	Pr	_	7	case	_	_
@@ -41,7 +41,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 8	fgColor:white
 # visual-style 8 7 compound	color:blue
 1	Hann	hann	PRON	Pron	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	var	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	cop	_	_
+2	var	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	cop	_	_
 3	lærari	lærari	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 4	og	og	CCONJ	CC	_	5	cc	_	_
 5	stjóri	stjóri	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	conj	_	_
@@ -60,7 +60,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 5	fgColor:white
 # visual-style 5 7 compound	color:blue
 1	Veitin	veit	NOUN	N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
-2	skal	skula	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	_
+2	skal	skula	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	_
 3	kappast	kappa	VERB	V	VerbForm=Inf|Voice=Pass	0	root	_	_
 4	við	við	ADP	Pr	_	5	case	_	_
 5	Panama	Panama	PROPN	N	Case=Nom|Number=Sing	3	obl	_	SpaceAfter=No

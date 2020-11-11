@@ -12,7 +12,7 @@ Some words have combined values of the feature; 21 combinations have been observ
 
 88936 tokens (6%) have a non-empty value of `NameType`.
 24370 types (19%) occur at least once with a non-empty value of `NameType`.
-17007 lemmas (29%) occur at least once with a non-empty value of `NameType`.
+17006 lemmas (29%) occur at least once with a non-empty value of `NameType`.
 The feature is used with 11 part-of-speech tags: <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (84030; 6% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (4756; 0% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (71; 0% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_pdt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `PROPN`
@@ -59,7 +59,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
   <tr><td><tt></tt></td><td><em>Paris</em></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-`NameType` seems to be **lexical feature** of `PROPN`. 96% lemmas (14762) occur only with one value of `NameType`.
+`NameType` seems to be **lexical feature** of `PROPN`. 96% lemmas (14761) occur only with one value of `NameType`.
 
 ### `ADJ`
 

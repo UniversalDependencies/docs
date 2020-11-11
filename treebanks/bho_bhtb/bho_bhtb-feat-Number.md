@@ -284,7 +284,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (182; 53%),
 <tt>PROPN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (137; 93%),
 <tt>VERB --[<tt><a href="bho_bhtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (116; 51%),
-<tt>VERB --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (96; 53%),
+<tt>VERB --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (96; 54%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> DET</tt> (74; 76%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (46; 73%),
 <tt>PROPN --[<tt><a href="bho_bhtb-dep-case.html">case</a></tt>]--> ADP</tt> (46; 55%),

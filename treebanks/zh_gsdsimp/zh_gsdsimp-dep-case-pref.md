@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSDSimp: Relations: `case:pref`
 
 This relation is a language-specific subtype of <tt><a href="zh_gsdsimp-dep-case.html">case</a></tt>.
-There are also 2 other language-specific subtypes of `case`: <tt><a href="zh_gsdsimp-dep-case-aspect.html">case:aspect</a></tt>, <tt><a href="zh_gsdsimp-dep-case-dec.html">case:dec</a></tt>.
+There are also 1 other language-specific subtypes of `case`: <tt><a href="zh_gsdsimp-dep-case-dec.html">case:dec</a></tt>.
 
 745 nodes (1%) are attached to their parents as `case:pref`.
 

@@ -38,11 +38,11 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 37	bgColor:blue
-# visual-style 37	fgColor:white
-# visual-style 38	bgColor:blue
-# visual-style 38	fgColor:white
-# visual-style 38 37 nummod	color:blue
+# visual-style 39	bgColor:blue
+# visual-style 39	fgColor:white
+# visual-style 40	bgColor:blue
+# visual-style 40	fgColor:white
+# visual-style 40 39 nummod	color:blue
 1	(5)	(5)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Podstatným	podstatný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	3	amod	_	_
 3	vlivem	vliv	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	5	obl:arg	_	_
@@ -66,24 +66,26 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 21	rozhodující	rozhodující	ADJ	AGMS1-----A----	Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	8	acl:relcl	_	_
 22	ani	ani	CCONJ	J^-------------	_	23	cc	_	_
 23	společný	společný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	21	conj	_	SpaceAfter=No
-24	;	;	PUNCT	Z:-------------	_	26	punct	_	_
-25	není-li	není-li	X	X@-------------	_	26	cop	_	_
-26	prokázán	prokázaný	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	29	obl	_	LDeriv=prokázat
-27	opak	opak	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	26	nsubj	_	SpaceAfter=No
-28	,	,	PUNCT	Z:-------------	_	26	punct	_	_
-29	považuje	považovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	_
-30	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	29	expl:pass	_	_
-31	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	33	case	_	LId=za-1
-32	podstatný	podstatný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	33	amod	_	_
-33	vliv	vliv	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	29	obl:arg	_	_
-34	dispozice	dispozice	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	29	nsubj:pass	_	_
-35	nejméně	málo	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	38	advmod:emph	_	LId=málo-3
-36	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	38	case	_	LId=s-1
-37	20	20	NUM	C}-------------	NumForm=Roman|NumType=Card	38	nummod	_	_
-38	%	%	SYM	Z:-------------	_	34	nmod	_	_
-39	hlasovacích	hlasovací	ADJ	AANP2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	40	amod	_	_
-40	práv	právo	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	38	nmod	_	SpaceAfter=No
-41	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+24	;	;	PUNCT	Z:-------------	_	28	punct	_	_
+25	není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	28	cop	_	SpaceAfter=No
+26	-	-	PUNCT	Z:-------------	_	28	punct	_	SpaceAfter=No
+27	li	li	PART	TT-------------	_	28	mark	_	_
+28	prokázán	prokázaný	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	31	advcl	_	LDeriv=prokázat
+29	opak	opak	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	28	nsubj	_	SpaceAfter=No
+30	,	,	PUNCT	Z:-------------	_	28	punct	_	_
+31	považuje	považovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	_
+32	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	31	expl:pass	_	_
+33	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	35	case	_	LId=za-1
+34	podstatný	podstatný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	35	amod	_	_
+35	vliv	vliv	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	31	obl:arg	_	_
+36	dispozice	dispozice	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	31	nsubj:pass	_	_
+37	nejméně	málo	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	40	advmod:emph	_	LId=málo-3
+38	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	40	case	_	LId=s-1
+39	20	20	NUM	C}-------------	NumForm=Roman|NumType=Card	40	nummod	_	_
+40	%	%	SYM	Z:-------------	_	36	nmod	_	_
+41	hlasovacích	hlasovací	ADJ	AANP2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	42	amod	_	_
+42	práv	právo	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	40	nmod	_	SpaceAfter=No
+43	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 

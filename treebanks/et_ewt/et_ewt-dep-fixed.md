@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-46 nodes (0%) are attached to their parents as `fixed`.
+69 nodes (0%) are attached to their parents as `fixed`.
 
-46 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.08695652173913.
+69 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07246376811594.
 
-The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (27; 59% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (8; 17% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (7; 15% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (42; 61% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (12; 17% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (10; 14% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -40,26 +40,6 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 fixed	color:blue
-1	Sinna	sinna	ADV	D	_	9	advmod	9:advmod	_
-2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	9:aux	_
-3	nii	nii	ADV	D	_	9	advmod	9:advmod	_
-4	kui	kui	SCONJ	J	_	3	fixed	3:fixed	_
-5	nii	nii	ADV	D	_	3	fixed	3:fixed	_
-6	kõige	kõige	ADV	D	_	7	advmod	7:advmod	_
-7	olulisem	olulisem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	9	obj	9:obj	_
-8	sisse	sisse	ADV	D	_	9	compound:prt	9:compound	_
-9	pandud	panema	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
-10	.	.	PUNCT	Z	_	9	punct	9:punct	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 12	bgColor:blue
@@ -79,6 +59,26 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 12	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	11	conj	11:conj	_
 13	iganes	iganes	ADV	D	_	12	fixed	12:fixed	SpaceAfter=No
 14	.	.	PUNCT	Z	_	4	punct	4:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 fixed	color:blue
+1	Sinna	sinna	ADV	D	_	9	advmod	9:advmod	_
+2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	9:aux	_
+3	nii	nii	ADV	D	_	9	advmod	9:advmod	_
+4	kui	kui	SCONJ	J	_	3	fixed	3:fixed	_
+5	nii	nii	ADV	D	_	3	fixed	3:fixed	_
+6	kõige	kõige	ADV	D	_	7	advmod	7:advmod	_
+7	olulisem	olulisem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	9	obj	9:obj	_
+8	sisse	sisse	ADV	D	_	9	compound:prt	9:compound	_
+9	pandud	panema	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
+10	.	.	PUNCT	Z	_	9	punct	9:punct	_
 
 ~~~
 

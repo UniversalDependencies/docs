@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUM](https://github.com/UniversalDependencies/UD_English-GUM)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -88,7 +88,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 
 ## Features
 
-[Case](en_gum-feat-Case.html) – [Definite](en_gum-feat-Definite.html) – [Degree](en_gum-feat-Degree.html) – [Gender](en_gum-feat-Gender.html) – [Mood](en_gum-feat-Mood.html) – [Number](en_gum-feat-Number.html) – [NumType](en_gum-feat-NumType.html) – [Person](en_gum-feat-Person.html) – [Polarity](en_gum-feat-Polarity.html) – [Poss](en_gum-feat-Poss.html) – [PronType](en_gum-feat-PronType.html) – [Reflex](en_gum-feat-Reflex.html) – [Tense](en_gum-feat-Tense.html) – [VerbForm](en_gum-feat-VerbForm.html)
+[Case](en_gum-feat-Case.html) – [Definite](en_gum-feat-Definite.html) – [Degree](en_gum-feat-Degree.html) – [Gender](en_gum-feat-Gender.html) – [Mood](en_gum-feat-Mood.html) – [Number](en_gum-feat-Number.html) – [NumType](en_gum-feat-NumType.html) – [Person](en_gum-feat-Person.html) – [Polarity](en_gum-feat-Polarity.html) – [Poss](en_gum-feat-Poss.html) – [PronType](en_gum-feat-PronType.html) – [Reflex](en_gum-feat-Reflex.html) – [Tense](en_gum-feat-Tense.html) – [Typo](en_gum-feat-Typo.html) – [VerbForm](en_gum-feat-VerbForm.html)
 
 ## Relations
 
@@ -98,11 +98,11 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 
 
 <ul>
-<li>This corpus contains 5961 sentences and 113374 tokens.</li>
+<li>This corpus contains 5961 sentences and 113385 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 15832 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 15842 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -129,15 +129,15 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 </ul>
 
 <ul>
-<li>This corpus contains 53 lemmas tagged as pronouns (PRON): I, a, all, another, any, be, both, each, either, every, half, he, her, herself, himself, his, it, its, itself, mine, my, myself, no, one, oneself, our, quite, s/he, she, some, such, that, the, their, theirs, themselves, there, these, they, this, those, we, what, whatever, which, who, whoever, whom, whose, you, your, yours, yourself</li>
+<li>This corpus contains 50 lemmas tagged as pronouns (PRON): I, a, all, another, any, be, both, each, either, every, half, he, her, herself, himself, his, it, its, itself, mine, my, myself, no, one, oneself, our, quite, s/he, she, some, such, that, the, their, theirs, themselves, there, they, this, we, what, whatever, which, who, whoever, whose, you, your, yours, yourself</li>
 </ul>
 
 <ul>
-<li>This corpus contains 25 lemmas tagged as determiners (DET): 6, Mat, Une, a, all, another, any, both, each, either, every, no, one, other, some, such, that, the, these, this, those, what, whatever, which, you</li>
+<li>This corpus contains 22 lemmas tagged as determiners (DET): 6, Mat, Une, a, all, another, any, both, each, either, every, no, one, other, some, such, that, the, this, what, whatever, which</li>
 </ul>
 
 <ul>
-<li>Out of the above, 21 lemmas occurred sometimes as PRON and sometimes as DET: a, all, another, any, both, each, either, every, no, one, some, such, that, the, these, this, those, what, whatever, which, you</li>
+<li>Out of the above, 18 lemmas occurred sometimes as PRON and sometimes as DET: a, all, another, any, both, each, either, every, no, one, some, such, that, the, this, what, whatever, which</li>
 </ul>
 
 <ul>
@@ -250,7 +250,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
       <li>PROPN: New, University, United, York, Scientology, Warhol, lee, September, Moreau, Party</li>
       <li>PUNCT: ?</li>
       <li>SYM: %</li>
-      <li>VERB-Fin: is, has, says, was, 's, comes, makes, takes, ’s, means</li>
+      <li>VERB-Fin: is, has, says, was, 's, comes, makes, takes, means, provides</li>
     </ul>
   </li>
 </ul>
@@ -270,7 +270,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Nom
     <ul>
-      <li>DET: you</li>
       <li>PRON: you, it, i, he, we, they, she</li>
     </ul>
   </li>
@@ -322,7 +321,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
       <li>ADV: well, far, long, soon, little, early, hard, badly, fast, late</li>
       <li>DET: other, such</li>
       <li>PUNCT: —</li>
-      <li>SCONJ: such</li>
+      <li>SCONJ: such, like</li>
     </ul>
   </li>
 </ul>
@@ -444,6 +443,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Int
     <ul>
+      <li>ADV: how, why, where, When</li>
       <li>DET: what, which, whatever</li>
       <li>PRON: what, which, who, whose, whatever, whom, whoever</li>
       <li>SCONJ: when, how, where, why, wherever, whither, Whenever, While</li>
@@ -454,7 +454,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Prs
     <ul>
-      <li>DET: you</li>
       <li>PRON: it, you, i, he, his, we, they, your, she, her</li>
     </ul>
   </li>
@@ -463,9 +462,10 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Rel
     <ul>
+      <li>ADV: where, why</li>
       <li>DET: that</li>
       <li>PRON: that, which, who, whom, what</li>
-      <li>SCONJ: where, that, when, why</li>
+      <li>SCONJ: where, that, when</li>
     </ul>
   </li>
 </ul>
@@ -478,7 +478,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Card
     <ul>
       <li>DET: 6, one</li>
-      <li>NUM: one, two, 1, 2, 3, 6, 15, 4, 5, 24</li>
+      <li>NUM: one, two, 1, 2, 3, 6, 15, 5, 4, 24</li>
     </ul>
   </li>
 </ul>
@@ -541,7 +541,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>2
     <ul>
-      <li>DET: you</li>
       <li>PRON: you, your, yourself, yours</li>
     </ul>
   </li>
@@ -552,7 +551,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
     <ul>
       <li>AUX-Fin: is, was, has, 's, ’s, does, s, S’, isn</li>
       <li>PRON: it, he, his, they, she, her, their, them, its, him</li>
-      <li>VERB-Fin: is, has, says, was, 's, comes, makes, takes, ’s, means</li>
+      <li>VERB-Fin: is, has, says, was, 's, comes, makes, takes, means, provides</li>
     </ul>
   </li>
 </ul>
@@ -562,6 +561,38 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: I.=, Well-food, appropriate, authentic, correct, difficult, educative, first, non-Muslim, okay</li>
+          <li>ADP: of, on, in, a, as, fro, from, than, to</li>
+          <li>ADV: before, as, awhile, commonly, litely, most, onboard, really, recently, them</li>
+          <li>AUX-Fin: are, can, has, is, s, where, will</li>
+          <li>AUX-Inf: be</li>
+          <li>AUX-Part: been</li>
+          <li>CCONJ: and</li>
+          <li>DET: a, all, to, an, the, this</li>
+          <li>NOUN: hand, Color, F, bag, balls, break, cycle, effect, experience, migration</li>
+          <li>NUM: 2, 4</li>
+          <li>PART: s, not, the, to</li>
+          <li>PRON: that</li>
+          <li>PROPN: F&AM, Chatnam, Untied</li>
+          <li>PUNCT: ., [, ], ", ), ;, |</li>
+          <li>SCONJ: UNLESS, despite, till, that</li>
+          <li>SYM: /</li>
+          <li>VERB-Fin: is, address, begun, cause, do, get, has, insured, make, makes</li>
+          <li>VERB-Ger: deeping, leading, looking, missing, recurring</li>
+          <li>VERB-Inf: Keep, breath, very, wish</li>
+          <li>VERB-Part: coded, completed, known, recommend, shown, used</li>
+          <li>X: etc</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -582,19 +613,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1240)</li>
+      <li>VERB-Fin--NOUN (1239)</li>
       <li>VERB-Fin--PRON (374)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Nom (1696)</li>
+      <li>VERB-Fin--PRON-Nom (1675)</li>
       <li>VERB-Ger--NOUN (47)</li>
       <li>VERB-Ger--PRON (7)</li>
       <li>VERB-Ger--PRON-Acc (3)</li>
       <li>VERB-Ger--PRON-Nom (30)</li>
-      <li>VERB-Inf--NOUN (306)</li>
+      <li>VERB-Inf--NOUN (303)</li>
       <li>VERB-Inf--PRON (95)</li>
       <li>VERB-Inf--PRON-Acc (12)</li>
-      <li>VERB-Inf--PRON-Nom (627)</li>
-      <li>VERB-Part--NOUN (218)</li>
+      <li>VERB-Inf--PRON-Nom (624)</li>
+      <li>VERB-Part--NOUN (217)</li>
       <li>VERB-Part--PRON (42)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Nom (300)</li>
@@ -605,19 +636,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1747)</li>
-      <li>VERB-Fin--PRON (84)</li>
-      <li>VERB-Fin--PRON-Acc (240)</li>
+      <li>VERB-Fin--NOUN (1746)</li>
+      <li>VERB-Fin--PRON (82)</li>
+      <li>VERB-Fin--PRON-Acc (238)</li>
       <li>VERB-Fin--PRON-Nom (4)</li>
-      <li>VERB-Ger--NOUN (645)</li>
+      <li>VERB-Ger--NOUN (644)</li>
       <li>VERB-Ger--PRON (14)</li>
       <li>VERB-Ger--PRON-Acc (50)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN (1233)</li>
+      <li>VERB-Inf--NOUN (1236)</li>
       <li>VERB-Inf--PRON (69)</li>
-      <li>VERB-Inf--PRON-Acc (211)</li>
+      <li>VERB-Inf--PRON-Acc (214)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
-      <li>VERB-Part--NOUN (256)</li>
+      <li>VERB-Part--NOUN (255)</li>
       <li>VERB-Part--PRON (25)</li>
       <li>VERB-Part--PRON-Acc (34)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
@@ -628,8 +659,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (11)</li>
-      <li>VERB-Fin--PRON-Acc (34)</li>
+      <li>VERB-Fin--NOUN (10)</li>
+      <li>VERB-Fin--PRON-Acc (35)</li>
       <li>VERB-Ger--NOUN (6)</li>
       <li>VERB-Ger--PRON-Acc (7)</li>
       <li>VERB-Inf--NOUN (11)</li>

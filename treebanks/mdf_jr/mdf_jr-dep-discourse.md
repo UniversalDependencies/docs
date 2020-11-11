@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `discourse`.
+4 nodes (0%) are attached to their parents as `discourse`.
 
-3 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.
+4 instances of `discourse` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.25.
 
-The following 2 pairs of parts of speech are connected with `discourse`: <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (2; 67% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (2; 50% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 25% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -34,6 +34,21 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 10	апак	апак	AUX	Aux	Polarity=Neg	11	aux:neg	_	_
 11	синтть	синдемс	VERB	V	Connegative=Yes|Valency=2	6	csubj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 discourse	color:blue
+1	Вай	вай	INTJ	Interj	_	3	discourse	_	_
+2	конашкава	конашкава	ADV	Adv	_	3	advmod:deg	_	_
+3	ужяль	ужяль	ADV	Adv	_	0	root	_	_
+4	вазнясь	вазня	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj:cop	_	GTtags=Sg,Nom,Def|SpaceAfter=No
+5	!	!	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

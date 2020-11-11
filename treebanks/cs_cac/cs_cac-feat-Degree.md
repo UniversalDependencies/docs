@@ -95,7 +95,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (1516; 14% of non-empty `Degree`): <em>více, dále, méně, později, dříve, víc, spíše, lépe, dál, výše</em>
 * `Pos` (8637; 81% of non-empty `Degree`): <em>tedy, často, stále, dobře, přímo, současně, stejně, hlavně, postupně, jistě</em>
 * `Sup` (449; 4% of non-empty `Degree`): <em>nejméně, nejlépe, nejvíce, nejdříve, nejčastěji, nejpozději, nejvíc, nejvýše, nejdéle, nejrychleji</em>
-* `EMPTY` (17530): <em>tak, také, jak, proto, již, už, ještě, pak, kde, velmi</em>
+* `EMPTY` (17531): <em>tak, také, jak, proto, již, už, ještě, pak, kde, velmi</em>
 
 <table>
   <tr><th>Paradigm <i>dobře</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -118,14 +118,14 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3162; 89%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3172; 89%),
 <tt>ADV --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADV</tt> (220; 81%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> ADJ</tt> (103; 84%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (52; 65%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (52; 68%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> ADJ</tt> (42; 58%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (17; 52%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (17; 77%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (17; 53%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (16; 76%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (8; 100%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-cop.html">cop</a></tt>]--> ADJ</tt> (7; 100%),
-<tt>ADV --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> ADV</tt> (6; 75%).
+<tt>ADV --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> ADV</tt> (6; 75%),
+<tt>ADV --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> ADV</tt> (2; 67%).
 

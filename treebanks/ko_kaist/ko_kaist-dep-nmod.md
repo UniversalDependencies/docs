@@ -24,14 +24,14 @@ The following 79 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 2 1 nmod	color:blue
 1	초기의	초기+의	NOUN	ncn+jcm	_	2	nmod	_	_
 2	학생은	학생+은	NOUN	ncn+jxt	_	10	dislocated	_	_
-3	송순명	송순명	PROPN	nq	_	10	compound	_	_
+3	송순명	송순명	PROPN	nq	_	10	compound	_	SpaceAfter=No
 4	,	,	PUNCT	sp	_	3	punct	_	_
-5	안창석	안창석	PROPN	nq	_	3	conj	_	_
+5	안창석	안창석	PROPN	nq	_	3	conj	_	SpaceAfter=No
 6	,	,	PUNCT	sp	_	5	punct	_	_
-7	김유순	김유순	PROPN	nq	_	3	conj	_	_
+7	김유순	김유순	PROPN	nq	_	3	conj	_	SpaceAfter=No
 8	,	,	PUNCT	sp	_	7	punct	_	_
 9	김규식	김규식	PROPN	nq	_	3	conj	_	_
-10	등이었다	등+이+었+다	VERB	nbn+jp+ep+ef	_	0	root	_	_
+10	등이었다	등+이+었+다	VERB	nbn+jp+ep+ef	_	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	sf	_	10	punct	_	_
 
 ~~~
@@ -52,7 +52,7 @@ The following 79 pairs of parts of speech are connected with `nmod`: <tt><a href
 7	곁의	곁+의	NOUN	ncn+jcm	_	8	nmod	_	_
 8	정동에	정동+에	ADV	nq+jca	_	10	obl	_	_
 9	자리를	자리+를	NOUN	ncpa+jco	_	10	obj	_	_
-10	잡았다	잡+았+다	VERB	pvg+ep+ef	_	0	root	_	_
+10	잡았다	잡+았+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	sf	_	10	punct	_	_
 
 ~~~
@@ -68,7 +68,7 @@ The following 79 pairs of parts of speech are connected with `nmod`: <tt><a href
 2	서울의	서울+의	PROPN	nq+jcm	_	3	nmod	_	_
 3	모습이	모습+이	NOUN	ncn+jcs	_	5	nsubj	_	_
 4	몹시	몹시	ADV	mag	_	5	advmod	_	_
-5	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	_
+5	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	sf	_	5	punct	_	_
 
 ~~~

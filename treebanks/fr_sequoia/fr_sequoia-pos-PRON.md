@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>s'</em> (<tt><a href="fr_sequoia-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.534091 (the average of all parts of speech is 1.404382).
+The form / lemma ratio of `PRON` is 1.534091 (the average of all parts of speech is 1.405182).
 
 The 1st highest number of forms (16) was observed with the lemma “il”: <em>-elle, -il, -ils, -je, -nous, -on, -vous, elle, elles, il, ils, j', je, nous, on, vous</em>.
 

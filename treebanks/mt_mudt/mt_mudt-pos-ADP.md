@@ -66,17 +66,17 @@ The 1st highest number of forms (143) was observed with the lemma “_”: <em>'
 
 Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (4180; 78% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (465; 9% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (232; 4% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (151; 3% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (121; 2% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (117; 2% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (49; 1% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt> (25; 0% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (21; 0% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-5271 (98%) `ADP` nodes are leaves.
+5270 (98%) `ADP` nodes are leaves.
 
 99 (2%) `ADP` nodes have one child.
 
 0 (0%) `ADP` nodes have two children.
 
-2 (0%) `ADP` nodes have three or more children.
+3 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 7 different relations: <tt><a href="mt_mudt-dep-fixed.html">fixed</a></tt> (97; 92% instances), <tt><a href="mt_mudt-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="mt_mudt-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="mt_mudt-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="mt_mudt-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="mt_mudt-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="mt_mudt-dep-punct.html">punct</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 7 different relations: <tt><a href="mt_mudt-dep-fixed.html">fixed</a></tt> (97; 90% instances), <tt><a href="mt_mudt-dep-punct.html">punct</a></tt> (4; 4% instances), <tt><a href="mt_mudt-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="mt_mudt-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="mt_mudt-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="mt_mudt-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="mt_mudt-dep-mark.html">mark</a></tt> (1; 1% instances)
 
-Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (91; 87% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="mt_mudt-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (91; 84% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (4; 4% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="mt_mudt-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

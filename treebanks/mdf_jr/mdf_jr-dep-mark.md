@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (1%) are attached to their parents as `mark`.
+21 nodes (1%) are attached to their parents as `mark`.
 
-17 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.94117647058824.
+21 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.9047619047619.
 
-The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (9; 53% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (3; 18% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (3; 18% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances).
+The following 6 pairs of parts of speech are connected with `mark`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (9; 43% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (6; 29% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (3; 14% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -30,25 +30,6 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 6	карденя	карда	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Sing|Typo=Yes	7	nmod:part	_	_
 7	пряста	пря	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	5	obl:lmod	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 mark	color:blue
-1	Сясы	сясы	SCONJ	CS	_	5	mark	_	_
-2	синь	сон	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
-3	сембе	сембе	ADV	Adv	_	2	advmod	_	_
-4	и	и	CCONJ	CC	_	5	cc:preconj	_	_
-5	лётчикт	лётчик	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	CLB	_	8	punct	_	_
-7	и	и	CCONJ	CC	_	8	cc	_	_
-8	космонавтт	космонавт	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	5	conj	_	SpaceAfter=No
-9	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
 
@@ -72,6 +53,25 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 11	ёран	ёрамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=2	2	conj	_	_
 12	лиендемс	лиендемс	VERB	V	Valency=1|VerbForm=Inf	11	xcomp	_	SpaceAfter=No
 13	.	.	PUNCT	CLB	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 mark	color:blue
+1	Сясы	сясы	SCONJ	CS	_	5	mark	_	_
+2	синь	сон	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+3	сембе	сембе	ADV	Adv	_	2	advmod	_	_
+4	и	и	CCONJ	CC	_	5	cc:preconj	_	_
+5	лётчикт	лётчик	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	8	punct	_	_
+7	и	и	CCONJ	CC	_	8	cc	_	_
+8	космонавтт	космонавт	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	5	conj	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
 

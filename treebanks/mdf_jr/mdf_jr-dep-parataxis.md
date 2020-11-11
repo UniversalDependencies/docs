@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `parataxis`.
+9 nodes (1%) are attached to their parents as `parataxis`.
 
-4 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.
+8 instances of `parataxis` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.44444444444444.
 
-The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 50% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 25% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
+The following 4 pairs of parts of speech are connected with `parataxis`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (6; 67% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 11% instances).
 
 
 ~~~ conllu

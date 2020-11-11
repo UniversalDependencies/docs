@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="yo_ytb-dep-punct.html">punct</a></tt> (1114; 100% instances)
 
-Parents of `PUNCT` nodes belong to 10 different parts of speech: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (809; 73% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (185; 17% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (36; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (26; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (23; 2% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (17; 2% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 10 different parts of speech: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (808; 73% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (185; 17% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (36; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (26; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (24; 2% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (17; 2% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 1114 (100%) `PUNCT` nodes are leaves.
 

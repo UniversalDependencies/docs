@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1373 nodes (10%) are attached to their parents as `case`.
+26821 nodes (10%) are attached to their parents as `case`.
 
-1372 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.61981063364894.
+26761 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.37944148242049.
 
-The following 17 pairs of parts of speech are connected with `case`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1123; 82% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (109; 8% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (100; 7% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (11; 1% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (9; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 32 pairs of parts of speech are connected with `case`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (18925; 71% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (4240; 16% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1815; 7% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (555; 2% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (346; 1% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (300; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (153; 1% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (141; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (105; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (101; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (29; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (25; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (19; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,15 +39,15 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 case	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 case	color:blue
 1	Пра	пра	ADP	IN	_	2	case	_	_
 2	гэта	гэта	PRON	DT	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	_
 3	распавялі	распавяць	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	ва	ва	ADP	IN	_	7	case	_	_
-5	УДАІ	УДАІ	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
-6	МУС	МУС	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+4	ва	ва	ADP	IN	_	5	case	_	_
+5	УДАІ	УДАІ	PROPN	NNP	Abbr=Yes	3	obl	_	_
+6	МУС	МУС	PROPN	NNP	Abbr=Yes	5	nmod	_	_
 7	Беларусі	Беларусь	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -63,9 +63,9 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 1	Пра	пра	ADP	IN	_	2	case	_	_
 2	гэта	гэта	PRON	DT	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	_
 3	распавялі	распавяць	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	ва	ва	ADP	IN	_	7	case	_	_
-5	УДАІ	УДАІ	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
-6	МУС	МУС	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+4	ва	ва	ADP	IN	_	5	case	_	_
+5	УДАІ	УДАІ	PROPN	NNP	Abbr=Yes	3	obl	_	_
+6	МУС	МУС	PROPN	NNP	Abbr=Yes	5	nmod	_	_
 7	Беларусі	Беларусь	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	3	punct	_	_
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="en_gumreddit-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-537 nodes (3%) are attached to their parents as `cc`.
+538 nodes (3%) are attached to their parents as `cc`.
 
-531 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.97951582867784.
+536 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.97211895910781.
 
-The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (292; 54% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (138; 26% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (57; 11% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (10; 2% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (9; 2% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (4; 1% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (288; 54% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (140; 26% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (57; 11% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (11; 2% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (10; 2% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,16 +23,16 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 23	bgColor:blue
 # visual-style 23	fgColor:white
 # visual-style 23 19 cc	color:blue
-1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	_	Entity=(abstract-34|Lem=*LOWER*|Len=3
+1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	_	Discourse=evaluation:29->16|Entity=(abstract-34|Lem=*LOWER*|Len=3
 2	_	_	ADJ	JJ	Degree=Pos	3	amod	_	Lem=_|Len=4
-3	_	_	NOUN	NN	Number=Sing	10	nsubj	_	Entity=abstract-34)|Lem=_|Len=6
-4	_	_	SCONJ	IN	_	6	mark	_	Lem=_|Len=4
+3	_	_	NOUN	NN	Number=Sing	10	nsubj	_	Lem=_|Len=6
+4	_	_	SCONJ	IN	_	6	mark	_	Discourse=antithesis:30->29|Lem=_|Len=4
 5	_	_	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	Entity=(event-28)|Lem=_|Len=4
 6	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	Lem=result|Len=7
 7	_	_	ADP	IN	_	8	case	_	Lem=_|Len=2
 8	_	_	NOUN	NN	Number=Sing	6	obl	_	Entity=(abstract-35|Lem=_|Len=8
-9	_	_	ADJ	JJ	Degree=Pos	8	amod	_	Entity=abstract-35)|Lem=_|Len=9
-10	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Lem=be|Len=2
+9	_	_	ADJ	JJ	Degree=Pos	8	amod	_	Entity=abstract-34)abstract-35)|Lem=_|Len=9
+10	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Discourse=same-unit:31->29|Lem=be|Len=2
 11	_	_	SCONJ	IN	_	17	mark	_	Lem=_|Len=7
 12	_	_	NOUN	NNS	Number=Plur	17	nsubj	_	Entity=(person-36|Lem=_|Len=6
 13	_	_	ADV	RB	_	16	advmod	_	Lem=_|Len=3
@@ -41,7 +41,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 16	_	_	NOUN	NN	Number=Sing	12	nmod	_	Entity=person-36)place-37)|Lem=_|Len=5
 17	_	_	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	_	Lem=_|Len=5
 18	_	_	PROPN	NNP	Number=Sing	17	obj	_	Entity=(abstract-27)|Lem=_|Len=3
-19	_	_	CCONJ	CC	_	23	cc	_	Lem=_|Len=3
+19	_	_	CCONJ	CC	_	23	cc	_	Discourse=joint:32->31|Lem=_|Len=3
 20	_	_	DET	DT	Number=Sing|PronType=Dem	22	det	_	Entity=(object-38|Lem=_|Len=4
 21	_	_	NOUN	NN	Number=Sing	22	compound	_	Lem=_|Len=5
 22	_	_	NOUN	NN	Number=Sing	23	nsubj	_	Entity=object-38)|Lem=_|Len=8
@@ -63,26 +63,26 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 cc	color:blue
-1	_	_	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	Entity=(person-74)|Lem=*LOWER*|Len=3
+1	_	_	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	Discourse=elaboration:77->71|Entity=(person-74)|Lem=*LOWER*|Len=3
 2	_	_	AUX	MD	VerbForm=Fin	3	aux	_	Lem=_|Len=3
 3	_	_	VERB	VB	VerbForm=Inf	0	root	_	Lem=_|Len=3
-4	_	_	ADJ	JJ	Degree=Pos	5	amod	_	Entity=(abstract-83|Lem=_|Len=13|Typo=Yes
+4	_	_	ADJ	JJ	Degree=Pos|Typo=Yes	5	amod	_	Entity=(abstract-83|Lem=_|Len=13
 5	_	_	NOUN	NNS	Number=Plur	3	obj	_	Lem=fee|Len=4
 6	_	_	CCONJ	CC	_	7	cc	_	Lem=_|Len=3
 7	_	_	NOUN	NNS	Number=Plur	5	conj	_	Entity=abstract-83)|Lem=bill|Len=5
 8	_	_	ADP	IN	_	10	case	_	Lem=_|Len=4
 9	_	_	DET	DT	Definite=Def|PronType=Art	10	det	_	Entity=(abstract-84|Lem=_|Len=3
 10	_	_	NOUN	NN	Number=Sing	3	obl	_	Entity=abstract-84)|Lem=_|Len=5
-11	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	Entity=(organization-23)|Lem=_|Len=4
+11	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	Discourse=elaboration:78->77|Entity=(organization-23)|Lem=_|Len=4
 12	_	_	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	Lem=_|Len=5
-13	_	_	CCONJ	CC	_	21	cc	_	Lem=_|Len=3
-14	_	_	SCONJ	IN	_	18	mark	_	Lem=_|Len=7
+13	_	_	CCONJ	CC	_	21	cc	_	Discourse=joint:79->77|Lem=_|Len=3
+14	_	_	SCONJ	IN	_	18	mark	_	Discourse=cause:80->81|Lem=_|Len=7
 15	_	_	DET	DT	Definite=Def|PronType=Art	16	det	_	Entity=(organization-23|Lem=_|Len=3
-16	_	_	NOUN	NN	Number=Sing	18	nsubj	_	Entity=organization-23)|Lem=_|Len=5|Typo=Yes
+16	_	_	NOUN	NN	Number=Sing	18	nsubj	_	Entity=organization-23)|Lem=_|Len=5
 17	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	Lem=be|Len=2
 18	_	_	ADJ	JJ	Degree=Pos	21	advcl	_	Lem=_|Len=12|SpaceAfter=No
 19	_	_	PUNCT	,	_	18	punct	_	Lem=_|Len=1
-20	_	_	NOUN	NNS	Number=Plur	21	nsubj	_	Entity=(person-72)|Lem=_|Len=6
+20	_	_	NOUN	NNS	Number=Plur	21	nsubj	_	Discourse=same-unit:81->79|Entity=(person-72)|Lem=_|Len=6
 21	_	_	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	Lem=_|Len=6
 22	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obj	_	Entity=(abstract-84)|Lem=_|Len=2|SpaceAfter=No
 23	_	_	PUNCT	.	_	3	punct	_	Lem=_|Len=1
@@ -96,7 +96,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 28	bgColor:blue
 # visual-style 28	fgColor:white
 # visual-style 28 24 cc	color:blue
-1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	_	Entity=(abstract-136|Lem=*LOWER*|Len=3
+1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	_	Discourse=joint:145->133|Entity=(abstract-136|Lem=*LOWER*|Len=3
 2	_	_	NUM	CD	NumType=Card	3	nummod	_	Lem=_|Len=3
 3	_	_	NOUN	NN	Number=Sing	15	nsubj	_	Lem=_|Len=10
 4	_	_	ADP	IN	_	6	case	_	Lem=_|Len=7
@@ -119,7 +119,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 21	_	_	NUM	CD	NumType=Card	20	nummod	_	Lem=100000|Len=7
 22	_	_	ADP	IN	_	23	case	_	Lem=_|Len=2
 23	_	_	NOUN	NN	Number=Sing	20	nmod	_	Entity=(substance-98)substance-140)|Lem=_|Len=4
-24	_	_	CCONJ	CC	_	28	cc	_	Lem=_|Len=3
+24	_	_	CCONJ	CC	_	28	cc	_	Discourse=joint:146->145|Lem=_|Len=3
 25	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	Lem=be|Len=2
 26	_	_	DET	DT	Definite=Ind|PronType=Art	27	det	_	Lem=_|Len=1
 27	_	_	NOUN	NN	Number=Sing	28	obl:npmod	_	Lem=_|Len=3

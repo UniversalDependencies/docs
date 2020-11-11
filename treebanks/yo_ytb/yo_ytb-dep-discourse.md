@@ -107,7 +107,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 9	dùn	dùn	ADJ	_	_	5	amod	_	Ref=PS_133.1|Gloss=glad
 10	tó	tó	ADV	_	_	9	advmod	_	Ref=PS_133.1|Gloss=much
 11	fún	fún	ADP	_	_	12	case	_	Ref=PS_133.1|Gloss=unto
-12	àwọn	àwọn	DET	_	_	13	det	_	Ref=PS_133.1|Gloss=the
+12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	Ref=PS_133.1|Gloss=the
 13	ará	ará	NOUN	_	_	10	obl	_	Ref=PS_133.1|Gloss=brethren
 14	láti	láti	ADP	_	_	16	case	_	Ref=PS_133.1|Gloss=to
 15	máa	máa	AUX	_	_	16	aux	_	Ref=PS_133.1|Gloss=be

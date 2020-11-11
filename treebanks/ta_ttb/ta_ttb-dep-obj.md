@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-538 nodes (6%) are attached to their parents as `obj`.
+537 nodes (6%) are attached to their parents as `obj`.
 
-538 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.07434944237918.
+537 instances of `obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.07635009310987.
 
-The following 13 pairs of parts of speech are connected with `obj`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (387; 72% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (68; 13% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (28; 5% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (27; 5% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (11; 2% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `obj`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (411; 77% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (43; 8% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (33; 6% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (28; 5% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

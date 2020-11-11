@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="myv_jr-feat-Person.html">Person</a></tt>, <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt>.
 
-2508 tokens (15%) have a non-empty value of `Person[subj]`.
-1533 types (29%) occur at least once with a non-empty value of `Person[subj]`.
-715 lemmas (28%) occur at least once with a non-empty value of `Person[subj]`.
-The feature is used with 7 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2146; 13% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (260; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (59; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (23; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 0% instances).
+2631 tokens (15%) have a non-empty value of `Person[subj]`.
+1600 types (29%) occur at least once with a non-empty value of `Person[subj]`.
+748 lemmas (28%) occur at least once with a non-empty value of `Person[subj]`.
+The feature is used with 7 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2252; 13% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (276; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (60; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (23; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-2146 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (72% of all `VERB` tokens) have a non-empty value of `Person[subj]`.
+2252 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (71% of all `VERB` tokens) have a non-empty value of `Person[subj]`.
 
-The most frequent other feature values with which `VERB` and `Person[subj]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2146; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2120; 99%), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (2078; 97%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1977; 92%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1722; 80%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1718; 80%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1529; 71%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1273; 59%).
+The most frequent other feature values with which `VERB` and `Person[subj]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2252; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2226; 99%), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (2186; 97%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2081; 92%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1818; 81%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1814; 81%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1609; 71%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1339; 59%).
 
 `VERB` tokens may have the following values of `Person[subj]`:
 
@@ -48,9 +48,9 @@ The most frequent other feature values with which `VERB` and `Person[subj]` co-o
 
 ### `AUX`
 
-260 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (45% of all `AUX` tokens) have a non-empty value of `Person[subj]`.
+276 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (46% of all `AUX` tokens) have a non-empty value of `Person[subj]`.
 
-The most frequent other feature values with which `AUX` and `Person[subj]` co-occurred: <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (197; 76%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (195; 75%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (192; 74%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (158; 61%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (141; 54%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (131; 50%).
+The most frequent other feature values with which `AUX` and `Person[subj]` co-occurred: <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (213; 77%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (207; 75%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (199; 72%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (174; 63%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (152; 55%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (140; 51%).
 
 `AUX` tokens may have the following values of `Person[subj]`:
 
@@ -79,9 +79,9 @@ The most frequent other feature values with which `AUX` and `Person[subj]` co-oc
 
 ### `ADJ`
 
-59 <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> tokens (10% of all `ADJ` tokens) have a non-empty value of `Person[subj]`.
+60 <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `Person[subj]`.
 
-The most frequent other feature values with which `ADJ` and `Person[subj]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (53; 90%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (53; 90%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (53; 90%).
+The most frequent other feature values with which `ADJ` and `Person[subj]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (53; 88%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (53; 88%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (53; 88%).
 
 `ADJ` tokens may have the following values of `Person[subj]`:
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `ADJ` and `Person[subj]` co-oc
   <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td><em>шумбра</em></td></tr>
 </table>
 
-`Person[subj]` seems to be **lexical feature** of `ADJ`. 97% lemmas (36) occur only with one value of `Person[subj]`.
+`Person[subj]` seems to be **lexical feature** of `ADJ`. 97% lemmas (37) occur only with one value of `Person[subj]`.
 
 ### `NOUN`
 
@@ -151,14 +151,14 @@ The most frequent other feature values with which `PRON` and `Person[subj]` co-o
 ## Relations with Agreement in `Person[subj]`
 
 The 10 most frequent relations where parent and child node agree in `Person[subj]`:
-<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (501; 81%),
-<tt>VERB --[<tt><a href="myv_jr-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (40; 51%),
+<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (532; 81%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 89%),
 <tt>VERB --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> VERB</tt> (6; 75%),
-<tt>VERB --[<tt><a href="myv_jr-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (5; 63%),
+<tt>VERB --[<tt><a href="myv_jr-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (6; 67%),
 <tt>VERB --[<tt><a href="myv_jr-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (4; 80%),
 <tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 100%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
-<tt>AUX --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 100%).
+<tt>AUX --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
 

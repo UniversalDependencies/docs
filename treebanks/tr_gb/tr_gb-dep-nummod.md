@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-187 nodes (1%) are attached to their parents as `nummod`.
+193 nodes (1%) are attached to their parents as `nummod`.
 
-187 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1283422459893.
+193 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14507772020725.
 
-The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (180; 96% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (6; 3% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (185; 96% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (6; 3% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -52,11 +52,10 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nummod	color:blue
-1	Birer	bir	NUM	_	NumType=Dist	2	compound:redup	_	_
-2	birer	bir	NUM	_	NumType=Dist	3	nummod	_	_
-3	girelim	gir	VERB	_	Mood=Opt|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	csubj	_	_
-4	isteniyormuş	iste	VERB	_	Aspect=Prog|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
+1	Birer	birer	NUM	_	NumType=Dist	2	compound:redup	_	_
+2	birer	birer	NUM	_	NumType=Dist	3	nummod	_	_
+3	gelin	gel	VERB	_	Mood=Imp|Number=Plur|Person=2	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

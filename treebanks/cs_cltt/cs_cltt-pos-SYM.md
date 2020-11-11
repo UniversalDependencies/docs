@@ -13,21 +13,21 @@ The 10 most frequent `SYM` lemmas: <em>%, +, /</em>
 
 The 10 most frequent `SYM` types:  <em>%, +, /</em>
 
-The 10 most frequent ambiguous lemmas: <em>/</em> (<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>+</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 4, <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2), <em>/</em> (<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>+</em> (<tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1), <em>/</em> (<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>+</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 4, <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2), <em>/</em> (<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2)
 
 
 * <em>+</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 4: <em>Výpočtové položky se označují znaménky „ <b>+</b> “ a „ * “ .</em>
   * <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2: <em>(4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( <b>+</b> / - ) jako zůstatek aktivní nebo pasivní .</em>
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1: <em>Výpočtové položky se označují znaménky " <b>+</b> " a " * " .</em>
 * <em>/</em>
   * <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2: <em>(4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + <b>/</b> - ) jako zůstatek aktivní nebo pasivní .</em>
   * <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2: <em>Odpisová sazba na jednotku těženého množství ( Kč <b>/</b> t , Kč <b>/</b> m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.766431).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.726345).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 

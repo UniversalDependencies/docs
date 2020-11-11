@@ -8,12 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (1%) are attached to their parents as `cop`.
+28 nodes (1%) are attached to their parents as `cop`.
 
-14 instances of `cop` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.70588235294118.
+18 instances of `cop` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.03571428571429.
 
-The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (7; 41% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (5; 29% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 12% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 12% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (12; 43% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (6; 21% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (6; 21% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 7% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 7% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 cop	color:blue
+1	Паськӧмӧй	паськӧм	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
+2	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	_
+3	брӧд	брӧд	ADV	Adv	_	4	advmod	_	_
+4	ва	ва	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	4	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -22,31 +37,12 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 cop	color:blue
-1	Кӧть	кӧть	SCONJ	CS	_	5	mark	_	_
+1	Кӧть	кӧть	SCONJ	CS	_	5	mark	_	Lang=Mixed
 2	луныс	лун	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	_
 3	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
 4	зэв	зэв	ADV	Adv	_	5	advmod:deg	_	_
 5	мича	мича	ADJ	A	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 cop	color:blue
-1	Сы	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
-2	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	1	case	_	_
-3	видзӧдігмоз	видзӧдны	VERB	V	Derivation=Igmoz|VerbForm=Conv	7	advcl	_	_
-4	весиг	весиг	PART	Pcle	_	7	advmod	_	_
-5	шуштӧм	шуштӧм	ADJ	A	Case=Nom|Derivation=Tom|Number=Sing	7	amod	_	_
-6	лолі	лолыны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
-7	сьӧлӧм	сьӧлӧм	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
-8	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	7	case	_	SpaceAfter=No
-9	.	.	PUNCT	CLB	_	7	punct	_	_
 
 ~~~
 

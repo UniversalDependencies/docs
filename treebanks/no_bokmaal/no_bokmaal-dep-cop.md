@@ -27,8 +27,8 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 3	grusomt	grusom	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 4	å	å	PART	_	_	5	mark	_	_
 5	høre	høre	VERB	_	VerbForm=Inf	3	advcl	_	_
-6	på	på	ADP	_	_	5	compound:prt	_	_
-7	.	$.	PUNCT	_	_	3	punct	_	_
+6	på	på	ADP	_	_	5	compound:prt	_	SpaceAfter=No
+7	.	$.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 8	»	$"	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 5	til	til	ADP	_	_	8	case	_	_
 6	sin	sin	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
 7	neste	neste	DET	_	Definite=Def|PronType=Dem	8	det	_	_
-8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
+8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 9	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -63,7 +63,7 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 2	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	hva	hva	PRON	_	PronType=Int	5	xcomp	_	_
 4	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
-5	blir	bli	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	blir	bli	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	:	$:	PUNCT	_	_	5	punct	_	_
 
 ~~~

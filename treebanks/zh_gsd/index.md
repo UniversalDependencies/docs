@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Mo Shen, Ryan McDonald, Daniel Zeman, Peng Qi.
 
 Repository: [UD_Chinese-GSD](https://github.com/UniversalDependencies/UD_Chinese-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsd26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsd27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -61,7 +61,7 @@ Google.
 
 ## Relations
 
-[acl](zh_gsd-dep-acl.html) – [acl:relcl](zh_gsd-dep-acl-relcl.html) – [advcl](zh_gsd-dep-advcl.html) – [advmod](zh_gsd-dep-advmod.html) – [amod](zh_gsd-dep-amod.html) – [appos](zh_gsd-dep-appos.html) – [aux](zh_gsd-dep-aux.html) – [aux:pass](zh_gsd-dep-aux-pass.html) – [case](zh_gsd-dep-case.html) – [case:aspect](zh_gsd-dep-case-aspect.html) – [case:dec](zh_gsd-dep-case-dec.html) – [case:pref](zh_gsd-dep-case-pref.html) – [case:suff](zh_gsd-dep-case-suff.html) – [cc](zh_gsd-dep-cc.html) – [ccomp](zh_gsd-dep-ccomp.html) – [clf](zh_gsd-dep-clf.html) – [compound](zh_gsd-dep-compound.html) – [conj](zh_gsd-dep-conj.html) – [cop](zh_gsd-dep-cop.html) – [csubj](zh_gsd-dep-csubj.html) – [csubj:pass](zh_gsd-dep-csubj-pass.html) – [det](zh_gsd-dep-det.html) – [discourse](zh_gsd-dep-discourse.html) – [dislocated](zh_gsd-dep-dislocated.html) – [flat:foreign](zh_gsd-dep-flat-foreign.html) – [flat:name](zh_gsd-dep-flat-name.html) – [iobj](zh_gsd-dep-iobj.html) – [mark](zh_gsd-dep-mark.html) – [mark:advb](zh_gsd-dep-mark-advb.html) – [mark:comp](zh_gsd-dep-mark-comp.html) – [mark:relcl](zh_gsd-dep-mark-relcl.html) – [nmod](zh_gsd-dep-nmod.html) – [nmod:tmod](zh_gsd-dep-nmod-tmod.html) – [nsubj](zh_gsd-dep-nsubj.html) – [nsubj:pass](zh_gsd-dep-nsubj-pass.html) – [nummod](zh_gsd-dep-nummod.html) – [obj](zh_gsd-dep-obj.html) – [obl](zh_gsd-dep-obl.html) – [obl:patient](zh_gsd-dep-obl-patient.html) – [orphan](zh_gsd-dep-orphan.html) – [parataxis](zh_gsd-dep-parataxis.html) – [punct](zh_gsd-dep-punct.html) – [reparandum](zh_gsd-dep-reparandum.html) – [root](zh_gsd-dep-root.html) – [vocative](zh_gsd-dep-vocative.html) – [xcomp](zh_gsd-dep-xcomp.html)
+[acl](zh_gsd-dep-acl.html) – [acl:relcl](zh_gsd-dep-acl-relcl.html) – [advcl](zh_gsd-dep-advcl.html) – [advmod](zh_gsd-dep-advmod.html) – [amod](zh_gsd-dep-amod.html) – [appos](zh_gsd-dep-appos.html) – [aux](zh_gsd-dep-aux.html) – [aux:aspect](zh_gsd-dep-aux-aspect.html) – [aux:pass](zh_gsd-dep-aux-pass.html) – [case](zh_gsd-dep-case.html) – [case:dec](zh_gsd-dep-case-dec.html) – [case:pref](zh_gsd-dep-case-pref.html) – [case:suff](zh_gsd-dep-case-suff.html) – [cc](zh_gsd-dep-cc.html) – [ccomp](zh_gsd-dep-ccomp.html) – [clf](zh_gsd-dep-clf.html) – [compound](zh_gsd-dep-compound.html) – [conj](zh_gsd-dep-conj.html) – [cop](zh_gsd-dep-cop.html) – [csubj](zh_gsd-dep-csubj.html) – [csubj:pass](zh_gsd-dep-csubj-pass.html) – [det](zh_gsd-dep-det.html) – [discourse](zh_gsd-dep-discourse.html) – [dislocated](zh_gsd-dep-dislocated.html) – [flat:foreign](zh_gsd-dep-flat-foreign.html) – [flat:name](zh_gsd-dep-flat-name.html) – [iobj](zh_gsd-dep-iobj.html) – [mark](zh_gsd-dep-mark.html) – [mark:advb](zh_gsd-dep-mark-advb.html) – [mark:comp](zh_gsd-dep-mark-comp.html) – [mark:relcl](zh_gsd-dep-mark-relcl.html) – [nmod](zh_gsd-dep-nmod.html) – [nmod:tmod](zh_gsd-dep-nmod-tmod.html) – [nsubj](zh_gsd-dep-nsubj.html) – [nsubj:pass](zh_gsd-dep-nsubj-pass.html) – [nummod](zh_gsd-dep-nummod.html) – [obj](zh_gsd-dep-obj.html) – [obl](zh_gsd-dep-obl.html) – [obl:patient](zh_gsd-dep-obl-patient.html) – [orphan](zh_gsd-dep-orphan.html) – [parataxis](zh_gsd-dep-parataxis.html) – [punct](zh_gsd-dep-punct.html) – [reparandum](zh_gsd-dep-reparandum.html) – [root](zh_gsd-dep-root.html) – [vocative](zh_gsd-dep-vocative.html) – [xcomp](zh_gsd-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -343,7 +343,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>case:aspect</a>, <a>case:dec</a>, <a>case:pref</a>, <a>case:suff</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:advb</a>, <a>mark:comp</a>, <a>mark:relcl</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
+<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:aspect</a>, <a>aux:pass</a>, <a>case:dec</a>, <a>case:pref</a>, <a>case:suff</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:advb</a>, <a>mark:comp</a>, <a>mark:relcl</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

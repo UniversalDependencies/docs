@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (1%) are attached to their parents as `cop`.
+5 nodes (1%) are attached to their parents as `cop`.
 
-4 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25.
+4 instances of `cop` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.6.
 
-The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (2; 50% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 25% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 25% instances).
+The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (2; 40% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (2; 40% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 20% instances).
 
 
 ~~~ conllu

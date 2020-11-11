@@ -41,7 +41,7 @@ The following 41 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 1 compound	color:blue
 1	Dr.	Dr.	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	compound	_	_
-2	Sieben	sieben	PROPN	NE	NumType=Card	8	nsubj	_	_
+2	Sieben	sieben	PROPN	NE	NumType=Card	8	nsubj	_	NamedEntity=Yes
 3	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 4	wirklich	wirklich	ADV	ADV	_	5	advmod	_	_
 5	hervorragend	hervorragend	ADV	ADJD	_	8	advmod	_	_
@@ -59,12 +59,12 @@ The following 41 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 compound	color:blue
-1	Johannes	Johannes	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	dep	_	FixTigerDep=Yes
-2	Nitschmann	Nitschmann	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+1	Johannes	Johannes	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	dep	_	FixTigerDep=Yes|NamedEntity=Yes
+2	Nitschmann	Nitschmann	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	NamedEntity=Yes
 3	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 4	mit	mit	ADP	APPR	_	6	case	_	_
 5	dieser	dies	PRON	PDAT	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
-6	CDU	CDU	PROPN	NN	Case=Dat|Gender=Fem|Number=Sing	8	compound	_	SpaceAfter=No
+6	CDU	CDU	PROPN	NN	Case=Dat|Gender=Fem|Number=Sing	8	compound	_	SpaceAfter=No|NamedEntity=Yes
 7	-	-	PUNCT	$(	_	6	punct	_	SpaceAfter=No
 8	Schelte	Schelte	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	_
 9	leben	leben	VERB	VVINF	VerbForm=Inf	0	root	_	_

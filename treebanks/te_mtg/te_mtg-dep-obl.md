@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `obl`: <tt><a href="te_mtg-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="te_mtg-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-304 nodes (5%) are attached to their parents as `obl`.
+305 nodes (5%) are attached to their parents as `obl`.
 
-302 instances of `obl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.6875.
+303 instances of `obl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.69508196721311.
 
-The following 7 pairs of parts of speech are connected with `obl`: <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (250; 82% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (28; 9% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (18; 6% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `obl`: <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (251; 82% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (28; 9% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (18; 6% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

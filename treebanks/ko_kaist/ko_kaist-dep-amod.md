@@ -24,7 +24,7 @@ The following 80 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2 1 amod	color:blue
 1	내	내	ADJ	mma	_	2	amod	_	_
 2	고향은	고향+은	NOUN	ncn+jxt	_	3	dislocated	_	_
-3	서울입니다	서울+이+ㅂ니다	VERB	nq+jp+ef	_	0	root	_	_
+3	서울입니다	서울+이+ㅂ니다	VERB	nq+jp+ef	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	sf	_	3	punct	_	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 80 pairs of parts of speech are connected with `amod`: <tt><a href
 8	격조를	격조+를	NOUN	ncn+jco	_	10	obj	_	_
 9	한층	한층	ADV	mag	_	10	advmod	_	_
 10	높이고	높이+고	VERB	pvg+ecx	_	0	root	_	_
-11	있다	있+다	AUX	px+ef	_	10	aux	_	_
+11	있다	있+다	AUX	px+ef	_	10	aux	_	SpaceAfter=No
 12	.	.	PUNCT	sf	_	11	punct	_	_
 
 ~~~
@@ -65,7 +65,7 @@ The following 80 pairs of parts of speech are connected with `amod`: <tt><a href
 5	이상적	이상+적	NOUN	ncps+xsn	_	6	amod	_	_
 6	교장이	교장+이	NOUN	ncn+jcc	_	7	csubj	_	_
 7	되리라고	되+리라고	SCONJ	pvg+ecs	_	8	ccomp	_	_
-8	기대했다	기대+하+었+다	VERB	ncpa+xsv+ep+ef	_	0	root	_	_
+8	기대했다	기대+하+었+다	VERB	ncpa+xsv+ep+ef	_	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	sf	_	8	punct	_	_
 
 ~~~

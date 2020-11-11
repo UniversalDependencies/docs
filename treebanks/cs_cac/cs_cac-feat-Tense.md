@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-46199 tokens (9%) have a non-empty value of `Tense`.
+46229 tokens (9%) have a non-empty value of `Tense`.
 10592 types (17%) occur at least once with a non-empty value of `Tense`.
 3807 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (32537; 7% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11519; 2% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (2143; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (32534; 7% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11552; 2% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (2143; 0% instances).
 
 ### `VERB`
 
-32537 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Tense`.
+32534 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32537; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (29678; 91%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21969; 68%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21961; 67%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21961; 67%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18763; 58%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (18477; 57%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32534; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (29676; 91%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21966; 68%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21958; 67%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21958; 67%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18762; 58%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (18474; 57%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (118; 0% of non-empty `Tense`): <em>bude, půjde, budou, nebude, budu, pojedu, půjdou, Nepůjde, Pojede, nebudu</em>
 * `Past` (10535; 32% of non-empty `Tense`): <em>měl, měla, bylo, mohli, mohl, došlo, měli, byl, měly, mělo</em>
-* `Pres` (21884; 67% of non-empty `Tense`): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
-* `EMPTY` (8068): <em>mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</em>
+* `Pres` (21881; 67% of non-empty `Tense`): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `EMPTY` (8063): <em>mít, zajistit, říci, být, vidět, dělat, řešit, věnovat, použít, provádět</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -54,21 +54,23 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-11519 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Tense`.
+11552 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11519; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10632; 92%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9074; 79%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9072; 79%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9072; 79%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (7983; 69%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7769; 67%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11552; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10657; 92%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9100; 79%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9098; 79%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9098; 79%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (8009; 69%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7787; 67%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (1098; 10% of non-empty `Tense`): <em>bude, budou, budeme, nebude, nebudou, budu, budete, nebudeme, nebudu, nebudete</em>
-* `Past` (2445; 21% of non-empty `Tense`): <em>byl, bylo, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, býval</em>
-* `Pres` (7976; 69% of non-empty `Tense`): <em>je, jsou, jsme, není, jsem, nejsou, jste, bývá, bývají, jsi</em>
-* `EMPTY` (2711): <em>by, být, bychom, bych, byste, býti, buď, budiž, bys, buďme</em>
+* `Fut` (1099; 10% of non-empty `Tense`): <em>bude, budou, budeme, nebude, nebudou, budu, budete, nebudeme, nebudu, nebudete</em>
+* `Past` (2452; 21% of non-empty `Tense`): <em>byl, bylo, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, býval</em>
+* `Pres` (8001; 69% of non-empty `Tense`): <em>je, jsou, jsme, není, jsem, nejsou, jste, bývá, bývají, jsi</em>
+* `EMPTY` (2719): <em>by, být, bychom, bych, byste, býti, budiž, buď, bys, buďme</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byl</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>nebyli</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byli</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byl</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>nebyly</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byly</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>jsouc</em></td><td></td><td></td></tr>
@@ -78,8 +80,11 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byl</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>nebyla</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byla</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byla</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byly</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>nebylo</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>bylo</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>byla</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>nejsem</em></td><td><em>nebudu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>jsem</em></td><td><em>budu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>nebudeš</em></td><td></td></tr>
@@ -88,12 +93,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>není</em></td><td><em>nebude</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Style.html">Style</a></tt><tt>=Arch</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>jest</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>je</em></td><td><em>bude</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>je</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>nejsme</em></td><td><em>nebudeme</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>jsme</em></td><td><em>budeme</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>nebudete</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>jste</em></td><td><em>budete</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>nejsou</em></td><td><em>nebudou</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>jsou</em></td><td><em>budou</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>jsou</em></td><td><em>budou</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
@@ -114,8 +121,8 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (4286; 88%),
-<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1186; 63%),
-<tt>VERB --[<tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (147; 56%),
+<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1187; 63%),
+<tt>VERB --[<tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (148; 56%),
 <tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (22; 85%),
 <tt>VERB --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (10; 67%),
 <tt>VERB --[<tt><a href="cs_cac-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%),

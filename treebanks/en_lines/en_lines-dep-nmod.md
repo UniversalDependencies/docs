@@ -72,7 +72,7 @@ The following 38 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
 4	moving	moving	ADJ	ING	Case=Nom	5	amod	_	_
 5	crowd	crowd	NOUN	SG-NOM	Number=Sing	1	nmod	_	SpaceAfter=No
-6	,	,	PUNCT	Comma	_	8	punct	_	_
+6	,	,	PUNCT	Comma	_	1	punct	_	_
 7	he	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 8	stood	stand	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 9	there	there	ADV	_	PronType=Dem	8	advmod	_	_

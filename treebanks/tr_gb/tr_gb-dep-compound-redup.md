@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="tr_gb-dep-compound.html">compound</a></tt>.
 
-40 nodes (0%) are attached to their parents as `compound:redup`.
+52 nodes (0%) are attached to their parents as `compound:redup`.
 
-34 instances of `compound:redup` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.175.
+46 instances of `compound:redup` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13461538461538.
 
-The following 7 pairs of parts of speech are connected with `compound:redup`: <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (15; 38% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (8; 20% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (6; 15% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (4; 10% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (4; 10% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (2; 5% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `compound:redup`: <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (18; 35% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (10; 19% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (8; 15% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (7; 13% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (5; 10% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (3; 6% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -31,6 +31,27 @@ The following 7 pairs of parts of speech are connected with `compound:redup`: <t
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 compound:redup	color:blue
+1	Eve	ev	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+2	çat	çat	X	_	_	6	obl	_	_
+3	kapı	kapı	NOUN	_	Case=Nom|Number=Sing	2	fixed	_	_
+4	bir	bir	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+5	alıcı	alıcı	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+6	geldi	gel	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	odaları	oda	NOUN	_	Case=Acc|Number=Plur	10	obj	_	_
+9	modaları	moda	NOUN	_	Case=Acc|Number=Plur	8	compound:redup	_	_
+10	dolaştı	dolaş	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
@@ -43,21 +64,6 @@ The following 7 pairs of parts of speech are connected with `compound:redup`: <t
 5	hikayesini	hikaye	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obj	_	_
 6	anlattı	anlat	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 compound:redup	color:blue
-1	Çocuklar	çocuk	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
-2	kendi	kendi	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	3	compound:redup	_	_
-3	kendilerine	kendi	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	nmod	_	_
-4	yıkanabilirler	yıka	VERB	_	Aspect=Hab|Mood=GenPot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

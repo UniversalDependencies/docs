@@ -8,51 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-28 nodes (0%) are attached to their parents as `cop`.
+845 nodes (0%) are attached to their parents as `cop`.
 
-23 instances of `cop` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.96428571428571.
+650 instances of `cop` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.79763313609467.
 
-The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (12; 43% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (9; 32% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (5; 18% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 4% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 6 cop	color:blue
-1	Самы	самы	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
-2	халодны	халодны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
-3	красавік	красавік	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
-4	у	у	ADP	IN	_	5	case	_	_
-5	Беларусі	Беларусь	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	_
-6	быў	быць	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
-7	у	у	ADP	IN	_	9	case	_	_
-8	1955	1955	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
-9	годзе	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	_	9	punct	_	_
-
-~~~
+The following 13 pairs of parts of speech are connected with `cop`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (384; 45% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (212; 25% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (71; 8% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (60; 7% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (38; 4% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (23; 3% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (23; 3% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (23; 3% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 2 cop	color:blue
-1	Гэта	гэта	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
-2	было	быць	AUX	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
-3	вельмі	вельмі	ADV	RB	Degree=Pos	4	advmod	_	_
-4	дзіўна	дзіўны	ADJ	JJH	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	10	punct	_	_
-6	і	і	CCONJ	CC	_	10	cc	_	_
-7	мне	я	PRON	PRP	Case=Dat|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
-8	гэта	гэта	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	_
-9	не	не	PART	UH	Polarity=Neg	10	advmod	_	_
-10	падабалася	падабацца	VERB	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	SpaceAfter=No
-11	.	.	PUNCT	PUNCT	_	4	punct	_	_
+# visual-style 4 10 cop	color:blue
+1	Усяго	усяго	ADV	RB	Degree=Pos	4	advmod	_	_
+2	ў	у	ADP	IN	_	4	case	_	_
+3	“	“	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+4	Трэнера	трэнер	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	”	”	PUNCT	PUNCT	_	4	punct	_	_
+6	за	за	ADP	IN	_	8	case	_	_
+7	24	24	NUM	CD	Animacy=Inan|Case=Acc|NumType=Card	8	nummod	_	_
+8	гадзіны	гадзіна	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	_
+9	трансляцыі	трансляцыя	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	было	быць	AUX	VBC	Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+11	965	965	NUM	CD	Case=Nom|NumType=Card	12	nummod:gov	_	_
+12	праглядаў	прагляд	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
+13	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 
@@ -63,23 +45,30 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 cop	color:blue
-1	Другое	другі	ADJ	ORD	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	PUNCT	_	6	punct	_	_
-3	чым	што	PRON	WP	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Int	6	iobj	_	_
-4	яна	яна	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
-5	мяне	я	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
-6	зацікавіла	зацікавіць	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	acl	_	SpaceAfter=No
-7	,	,	PUNCT	PUNCT	_	6	punct	_	_
-8	было	быць	AUX	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
-9	тое	тое	PRON	DT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	PUNCT	_	13	punct	_	_
-11	што	што	SCONJ	IN	_	13	mark	_	_
-12	я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
-13	магла	магчы	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	_
-14	адразу	адразу	ADV	RB	Degree=Pos	16	advmod	_	_
-15	ўсё	усё	PRON	DT	Case=Acc|Number=Plur|PronType=Tot	16	obj	_	_
-16	разумець	разумець	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	13	xcomp	_	SpaceAfter=No
-17	.	.	PUNCT	PUNCT	_	9	punct	_	_
+1	Далучайцеся	далучацца	VERB	VBC	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	да	да	ADP	IN	_	4	case	_	_
+3	гэтай	гэты	DET	DT	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	атмасферы	атмасфера	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	9	punct	_	_
+6	восень	восень	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+7	таксама	таксама	ADV	RB	Degree=Pos	9	advmod	_	_
+8	будзе	быць	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	cop	_	_
+9	гарачай	гарачы	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	1	xcomp	_	_
+10	:)	:)	SYM	SYM	_	1	discourse	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 cop	color:blue
+1	Як	як	ADV	WRB	Degree=Pos	2	advmod	_	_
+2	гэта	гэта	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
+3	было	быць	AUX	VBC	Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

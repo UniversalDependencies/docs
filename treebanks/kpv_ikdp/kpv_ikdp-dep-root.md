@@ -11,9 +11,9 @@ This relation is universal.
 132 nodes (9%) are attached to their parents as `root`.
 
 132 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.03030303030303.
+Average distance between parent and child is 4.06060606060606.
 
-The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (104; 79% instances), -<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (19; 14% instances), -<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), -<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 2% instances), -<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (2; 2% instances).
+The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (106; 80% instances), -<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (18; 14% instances), -<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), -<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 2% instances), -<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
@@ -46,25 +46,22 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 2 root	color:blue
-1	Пока	пока	ADV	Adv	_	2	advmod	_	_
-2	лёк	лёк	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
-3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg	2	aux:neg	_	_
-4	ло	лоны	AUX	V	Connegative=Yes	2	aux	_	SpaceAfter=No
-5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	но	но	CCONJ	CC	_	13	cc	_	Lang=Mixed|SpaceAfter=No
-7	,	,	PUNCT	CLB	_	8	punct	_	_
-8	пока	пока	ADV	Adv	_	13	advmod	_	Lang=Mixed|SpaceAfter=No
-9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	не	не	PART	Pcle	Polarity=Neg	11	advmod	_	Lang=Mixed
-11	то	то	PART	Pcle	_	13	advmod	_	Lang=Mixed
-12	что	что	PRON	Pron	_	11	goeswith	_	Lang=Rus
-13	лёк-а	лёк	ADJ	A	Case=Nom|Number=Sing	2	conj	_	SpaceAfter=No
-14	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 0 3 root	color:blue
+1	А	а	CCONJ	CC	_	3	cc	_	Lang=Mixed
+2	храмыс	храм	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
+3	восьса	восьса	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
+4	дзик	дзик	ADV	Adv	_	6	advmod:deg	_	_
+5	быд	быд	PRON	Pron	PronType=Tot	6	det	_	_
+6	лун	лун	NOUN	N	Case=Nom|Number=Sing	3	obl	_	_
+7	с	с	ADP	Pr	_	8	case	_	Lang=Rus
+8	десяти	десять	NUM	Num	NumType=Card	3	nmod	_	Lang=Rus
+9	до	до	ADP	Pr	_	10	case	_	Lang=Rus
+10	часу	час	NOUN	N	Case=Dat|Number=Sing	3	nmod	_	Lang=Rus|SpaceAfter=No
+11	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

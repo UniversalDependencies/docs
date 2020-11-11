@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-HDT: Relations: `compound:prt`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="de_hdt-dep-compound.html">compound</a></tt>.
 
 20645 nodes (1%) are attached to their parents as `compound:prt`.
 

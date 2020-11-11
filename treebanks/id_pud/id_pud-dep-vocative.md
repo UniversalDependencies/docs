@@ -22,19 +22,17 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 10 vocative	color:blue
-1	Bukan	_	ADV	RB	Polarity=Neg	2	advmod	_	_
-2	itu	_	PRON	PRD	_	0	root	_	_
-3	yang	_	PRON	PRP	_	2	nsubj	_	_
-4	kita	_	PRON	PRP	_	5	nsubj	_	_
-5	butuhkan	_	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No
-6	di	_	ADP	IN	_	7	case	_	_
-7	negara	_	NOUN	NN	_	5	obl	_	_
-8	ini	_	DET	DT	_	7	det	_	SpaceAfter=No
-9	,	_	PUNCT	,	_	10	punct	_	_
-10	saudara	_	NOUN	NN	Number=Plur	2	vocative	_	SpaceAfter=No
-11	-	_	PUNCT	HYPH	_	12	punct	_	SpaceAfter=No
-12	saudara	_	NOUN	NN	_	10	compound:plur	_	SpaceAfter=No
-13	.	_	PUNCT	.	_	2	punct	_	_
+1	Bukan	bukan	PART	_	Polarity=Neg	2	advmod	_	_
+2	itu	itu	PRON	_	PronType=Dem	0	root	_	_
+3	yang	yang	SCONJ	_	_	5	mark	_	_
+4	kita	kita	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+5	butuhkan	butuh	VERB	_	Mood=Ind|Voice=Act	2	csubj	_	_
+6	di	di	ADP	_	_	7	case	_	_
+7	negara	negara	NOUN	_	Number=Sing	5	obl	_	_
+8	ini	ini	DET	_	PronType=Dem	7	det	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	saudara-saudara	saudara	NOUN	_	Number=Plur	2	vocative	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Hector Fernandez Alcalde, Laura Moreno Romero, Martin Popel, Daniel Zeman, Héctor Martínez Alonso.
 
 Repository: [UD_Spanish-PUD](https://github.com/UniversalDependencies/UD_Spanish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 3.0
 
@@ -82,7 +82,7 @@ employ ten-fold cross-validation.
 
 ## POS Tags
 
-[ADJ](es_pud-pos-ADJ.html) – [ADP](es_pud-pos-ADP.html) – [ADV](es_pud-pos-ADV.html) – [AUX](es_pud-pos-AUX.html) – [CCONJ](es_pud-pos-CCONJ.html) – [DET](es_pud-pos-DET.html) – [NOUN](es_pud-pos-NOUN.html) – [NUM](es_pud-pos-NUM.html) – [PRON](es_pud-pos-PRON.html) – [PROPN](es_pud-pos-PROPN.html) – [PUNCT](es_pud-pos-PUNCT.html) – [SYM](es_pud-pos-SYM.html) – [VERB](es_pud-pos-VERB.html) – [X](es_pud-pos-X.html)
+[ADJ](es_pud-pos-ADJ.html) – [ADP](es_pud-pos-ADP.html) – [ADV](es_pud-pos-ADV.html) – [AUX](es_pud-pos-AUX.html) – [CCONJ](es_pud-pos-CCONJ.html) – [DET](es_pud-pos-DET.html) – [NOUN](es_pud-pos-NOUN.html) – [NUM](es_pud-pos-NUM.html) – [PRON](es_pud-pos-PRON.html) – [PROPN](es_pud-pos-PROPN.html) – [PUNCT](es_pud-pos-PUNCT.html) – [SCONJ](es_pud-pos-SCONJ.html) – [SYM](es_pud-pos-SYM.html) – [VERB](es_pud-pos-VERB.html) – [X](es_pud-pos-X.html)
 
 ## Features
 
@@ -121,8 +121,8 @@ employ ten-fold cross-validation.
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: SCONJ, PART, INTJ</li>
+<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: PART, INTJ</li>
 </ul>
 
 <ul>

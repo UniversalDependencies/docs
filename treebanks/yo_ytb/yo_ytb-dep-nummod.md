@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Ref=MARK_5.13|Gloss=them
 4	láàyè	láàyè	VERB	_	_	2	compound:svc	_	Ref=MARK_5.13|SpaceAfter=No|Gloss=permission
 5	,	,	PUNCT	_	_	11	punct	_	Ref=MARK_5.13|Gloss=,
-6	àwọn	àwọn	DET	_	_	7	det	_	Ref=MARK_5.13|Gloss=the
+6	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	7	det	_	Ref=MARK_5.13|Gloss=the
 7	ẹ̀mí	ẹ̀mí	NOUN	_	_	11	nsubj	_	Ref=MARK_5.13|Gloss=spirit
 8	àìmọ́	àìmọ́	ADJ	_	_	7	amod	_	Ref=MARK_5.13|Gloss=unclean
 9	náà	náà	DET	_	_	11	det	_	Ref=MARK_5.13|Gloss=the
@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 18	sì	sì	CCONJ	_	_	19	cc	_	Ref=MARK_5.13|Gloss=and
 19	wọ	wọ	VERB	_	_	11	ccomp	_	Ref=MARK_5.13|Gloss=enter
 20	inú	inú	ADP	_	_	22	case	_	Ref=MARK_5.13|Gloss=into
-21	àwọn	àwọn	DET	_	_	22	det	_	Ref=MARK_5.13|Gloss=the
+21	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	22	det	_	Ref=MARK_5.13|Gloss=the
 22	ẹlẹ́dẹ̀	ẹlẹ́dẹ̀	NOUN	_	_	19	obl	_	Ref=MARK_5.13|Gloss=swine
 23	náà	náà	DET	_	_	24	det	_	Ref=MARK_5.13|Gloss=the
 24	lọ	lọ	VERB	_	_	19	compound:svc	_	Ref=MARK_5.13|SpaceAfter=No|Gloss=go

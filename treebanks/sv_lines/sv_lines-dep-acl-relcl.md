@@ -72,7 +72,7 @@ The following 28 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 8	viktigare	viktig	ADJ	CMP	Case=Nom|Degree=Cmp	4	acl:relcl	_	_
 9	än	än	ADP	CMP	_	10	case	_	_
 10	checken	check	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	8	nmod	_	SpaceAfter=No
-11	,	,	PUNCT	Comma	_	2	punct	_	_
+11	,	,	PUNCT	Comma	_	12	punct	_	_
 12	sa	säga	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
 13	han	han	PRON	PERS-P3SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	12	nsubj	_	SpaceAfter=No
 14	.	.	PUNCT	Period	_	2	punct	_	_

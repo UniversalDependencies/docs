@@ -7,32 +7,35 @@ udver: '2'
 ## Treebank Statistics: UD_Indonesian-PUD: Relations: `flat:name`
 
 This relation is a language-specific subtype of <tt><a href="id_pud-dep-flat.html">flat</a></tt>.
+There are also 1 other language-specific subtypes of `flat`: <tt><a href="id_pud-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-195 nodes (1%) are attached to their parents as `flat:name`.
+587 nodes (3%) are attached to their parents as `flat:name`.
 
-195 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14358974358974.
+587 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.38671209540034.
 
-The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (195; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (587; 100% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 flat:name	color:blue
-1	Hong	_	PROPN	NNP	_	7	nsubj	_	_
-2	Kong	_	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
-3	,	_	PUNCT	,	_	1	punct	_	_
-4	sementara	_	CCONJ	CC	_	7	dep	_	_
-5	itu	_	PRON	PRD	_	4	fixed	_	SpaceAfter=No
-6	,	_	PUNCT	,	_	4	punct	_	_
-7	tampak	_	VERB	VV	_	0	root	_	_
-8	menghadapi	_	VERB	VV	_	7	xcomp	_	_
-9	gelombang	_	NOUN	NN	_	8	obj	_	_
-10	protes	_	NOUN	NN	_	9	compound	_	SpaceAfter=No
-11	.	_	PUNCT	.	_	7	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 flat:name	color:blue
+1	Ia	ia	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	lalu	lalu	SCONJ	_	_	3	mark	_	_
+3	bekerja	kerja	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	empat	empat	NUM	_	NumType=Card	5	nummod	_	_
+5	tahun	tahun	NOUN	_	Number=Sing	3	obl:tmod	_	_
+6	di	di	ADP	_	_	7	case	_	_
+7	BBC	BBC	PROPN	_	Abbr=Yes	3	obl	_	_
+8	World	World	PROPN	_	_	7	flat:name	_	_
+9	Service	Service	PROPN	_	_	7	flat:name	_	_
+10	di	di	ADP	_	_	11	case	_	_
+11	Bush	Bush	PROPN	_	_	3	obl	_	_
+12	House	House	PROPN	_	_	11	flat:name	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

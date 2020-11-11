@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="tr_gb-dep-aux-q.html">aux:q</a></tt>.
 
-177 nodes (1%) are attached to their parents as `aux`.
+176 nodes (1%) are attached to their parents as `aux`.
 
-177 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05649717514124.
+176 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05681818181818.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (121; 68% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (26; 15% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (26; 15% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (122; 69% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (25; 14% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (25; 14% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1347 nodes (0%) are attached to their parents as `nummod`.
+2180 nodes (0%) are attached to their parents as `nummod`.
 
-759 instances of `nummod` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13882702301411.
+1123 instances of `nummod` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.11605504587156.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1163; 86% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (54; 4% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (50; 4% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (47; 3% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (14; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (3; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1457; 67% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (321; 15% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (193; 9% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (99; 5% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (67; 3% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (22; 1% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,22 +32,23 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 nummod	color:blue
-1	ergo	ergo	ADV	O4	_	6	advmod	_	_
-2	neutrum	neuter	PRON	F1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind	6	nsubj	_	_
-3	illorum	ille	PRON	F1|grn1|casK|gen3	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|PronType=Dem	4	det	_	_
-4	duorum	duo	NUM	F1|grn1|casK|gen3	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|NumType=Card	2	nummod	_	_
-5	est	sum	AUX	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
-6	hoc	hic	PRON	F1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
-7	quod	qui	PRON	F1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	8	obj	_	_
-8	intelligimus	intellego	VERB	L3|modA|tem1|gen7	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
-9	nomine	nomen	NOUN	C1|grn1|casF|gen3|comH	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	8	obl	_	_
-10	dei	deus	PROPN	F1|grn1|casB|gen1	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	Punc	_	6	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 nummod	color:blue
+1	de	de	ADP	S4	AdpType=Prep	2	case	_	_
+2	quo	qui	PRON	F1|grn1|casF|gen3	Case=Abl|Gender=Neut|Number=Sing|PronType=Rel	4	obl	_	_
+3	etiam	etiam	ADV	O4|vgr1	_	4	advmod:emph	_	_
+4	dicitur	dico	VERB	N3|modJ|tem1|gen6	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	ioan.	uox	ADV	5	Abbr=Yes	4	advmod	_	_
+6	17-17	17-17	NUM	G5	NumForm=Reference	5	nummod	_	SpaceAfter=No
+7	,	,	PUNCT	Punc	_	8	punct	_	_
+8	sanctifica	sanctifico	VERB	J3|modC|tem1|gen5	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj:pass	_	_
+9	eos	is	PRON	F1|grn1|casM|gen1	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem,Prs	8	obj	_	_
+10	in	in	ADP	S4	AdpType=Prep	11	case	_	_
+11	ueritate	ueritas	NOUN	C1|grn1|casF|gen2|vgr1	Case=Abl|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+12	:	:	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 
@@ -58,7 +59,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 nummod	color:blue
-1	prov.	vox_breviata	X	5	Abbr=Yes	0	root	_	_
+1	prou.	uox_breuiata	X	5	Abbr=Yes	0	root	_	_
 2	8-7	num._arab.	NUM	G5	NumForm=Digit	1	nummod	_	SpaceAfter=No
 3	.	.	PUNCT	Punc	_	1	punct	_	_
 

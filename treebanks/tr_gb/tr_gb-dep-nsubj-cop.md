@@ -38,8 +38,8 @@ The following 10 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 5 nsubj:cop	color:blue
 1	Bu	bu	DET	_	Definite=Def|Polarity=Pos|PronType=Art	2	det	_	_
-2	hayvanların	hayvan	NOUN	_	Case=Gen|Number=Plur	6	obl	_	_
-3	arasında	arasında	ADP	_	Number[psor]=Sing|Person[psor]=3	2	case	_	_
+2	hayvanların	hayvan	NOUN	_	Case=Gen|Number=Plur	3	nmod	_	_
+3	arasında	ara	NOUN	_	Number[psor]=Sing|Person[psor]=3	6	obl	_	_
 4	en	en	ADV	_	_	5	advmod	_	_
 5	vahşisi	vahşi	NOUN	_	Case=Nom|Number=Sing	6	nsubj:cop	_	_
 6	kaplan	kaplan	NOUN	_	Case=Nom|Number=Sing	0	root	_	_

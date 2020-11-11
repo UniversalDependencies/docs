@@ -11,10 +11,10 @@ There are 1 language-specific subtypes of `cc`: <tt><a href="sme_giella-dep-cc-p
 
 984 nodes (4%) are attached to their parents as `cc`.
 
-891 instances of `cc` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.21849593495935.
+850 instances of `cc` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.18089430894309.
 
-The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (448; 46% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (385; 39% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (63; 6% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (59; 6% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (17; 2% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (9; 1% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances).
+The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (444; 45% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (387; 39% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (63; 6% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (59; 6% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (18; 2% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (10; 1% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -60,14 +60,14 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="s
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 cc	color:blue
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 cc	color:blue
 1	Doppe	doppe	ADV	Adv	_	2	advmod	_	_
 2	vástida	vástidit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	Farmen-Mikkel	Farmen-Mikkel	PROPN	N	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	2	punct	_	_
-5	dahje	dahje	CCONJ	CC	_	3	cc	_	_
+4	,	,	PUNCT	CLB	_	6	punct	_	_
+5	dahje	dahje	CCONJ	CC	_	6	cc	_	_
 6	Mikkel	Mikkel	PROPN	N	_	3	conj	_	_
 7	Isak	Isak	PROPN	N	_	6	flat	_	_
 8	Eira	Eira	PROPN	N	Case=Nom|Number=Sing	7	flat	_	SpaceAfter=No

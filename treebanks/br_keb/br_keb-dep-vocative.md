@@ -22,8 +22,8 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 vocative	color:blue
-1	Petra	petra	PRON	prn	PronType=Int	3	advmod	_	_
-2	'	a	PART	vpart	_	3	aux	_	SpaceAfter=No
+1	Petra	petra	ADV	prn	PronType=Int	3	advmod	_	_
+2	'	a	AUX	vpart	_	3	aux	_	SpaceAfter=No
 3	peus	kaout	VERB	vblex	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	'ta	eta	ADV	adv	_	3	advmod	_	_
 5	plac'h	plac’h	NOUN	n	Gender=Fem|Number=Sing	3	vocative	_	_

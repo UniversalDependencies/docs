@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-290 nodes (3%) are attached to their parents as `amod`.
+291 nodes (3%) are attached to their parents as `amod`.
 
 258 instances of `amod` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.11724137931034.
+Average distance between parent and child is 1.11683848797251.
 
-The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (265; 91% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (15; 5% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (265; 91% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (16; 5% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,8 +44,8 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	an	an	DET	det	_	4	det	_	_
 3	23e	23e	NUM	num	Number=Sing	4	amod	_	_
 4	gwech	gwech	NOUN	n	Gender=Fem|Number=Sing	7	obl	_	_
-5	e	e	PART	vpart	_	7	aux	_	_
-6	vo	bezañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux:pass	_	_
+5	e	e	AUX	vpart	_	7	aux	_	_
+6	vo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux:pass	_	_
 7	aozet	aozañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 8	ar	an	DET	det	_	9	det	_	_
 9	gouel	gouel	NOUN	n	Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
@@ -64,8 +64,8 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 7 amod	color:blue
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
-2	en	en	X	x	_	3	dep	_	_
-3	em	em	PART	vpart	Reflex=Yes	4	aux	_	_
+2	en	en	AUX	vpart	Reflex=Yes	5	aux	_	_
+3	em	em	X	x	_	2	fixed	_	_
 4	garont	karout	VERB	vblex	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	ket	ket	ADV	adv	_	4	advmod	_	_
 6	an	an	DET	det	_	8	det	_	_

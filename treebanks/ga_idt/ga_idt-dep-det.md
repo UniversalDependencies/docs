@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5027 nodes (8%) are attached to their parents as `det`.
+9121 nodes (8%) are attached to their parents as `det`.
 
-4099 instances of `det` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.0698229560374.
+7506 instances of `det` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.06293169608596.
 
-The following 17 pairs of parts of speech are connected with `det`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (4344; 86% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (448; 9% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (63; 1% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (49; 1% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (32; 1% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (25; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `det`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (7771; 85% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (948; 10% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (105; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (93; 1% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (57; 1% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (54; 1% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (25; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,21 +57,22 @@ The following 17 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 det	color:blue
-1	Tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
-2	a	a	DET	Det	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	nmod:poss	_	_
-3	fhios	fios	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	1	nsubj	_	_
-4	sin	sin	PRON	Dem	PronType=Dem	3	det	_	_
-5	agat	ag	ADP	Prep	Number=Sing|Person=2	1	obl:prep	_	_
-6	anois	anois	ADV	Gn	_	1	advmod	_	SpaceAfter=No
-7	,	,	PUNCT	Punct	_	9	punct	_	_
-8	ar	ar	ADP	Simp	_	9	case	_	_
-9	ndóigh	dóigh	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 det	color:blue
+1	Cén	cé	PRON	Q	PronType=Int	0	root	_	_
+2	áit	áit	NOUN	Noun	_	1	nsubj	_	_
+3	an	an	PART	Vb	PartType=Vb	4	mark:prt	_	_
+4	bhfágfaidh	fág	VERB	VTI	_	2	acl:relcl	_	_
+5	mé	mé	PRON	Pers	_	4	nsubj	_	_
+6	iad	iad	PRON	Pers	_	4	obj	_	_
+7	seo	seo	PRON	Dem	PronType=Dem	6	det	_	SpaceAfter=No
+8	,	,	PUNCT	Punct	_	10	punct	_	_
+9	a	a	PART	Voc	PartType=Voc	10	case:voc	_	_
+10	Tom	Tom	NOUN	Noun	_	1	vocative	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

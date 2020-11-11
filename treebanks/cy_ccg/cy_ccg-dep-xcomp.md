@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1333 nodes (4%) are attached to their parents as `xcomp`.
+1438 nodes (4%) are attached to their parents as `xcomp`.
 
-1329 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.59789947486872.
+1434 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.66063977746871.
 
-The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (993; 74% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (280; 21% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (43; 3% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1071; 74% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (304; 21% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (44; 3% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -75,7 +75,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 8	Oes	oes	NOUN	noun	Gender=Fem|Number=Sing	6	obl	_	_
 9	yr	y	DET	art	_	10	det	_	_
 10	Haearn	haearn	NOUN	noun	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\n
+11	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

@@ -74,9 +74,9 @@ The 1st highest number of forms (68) was observed with the lemma “_”: 上, �
 
 Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (175; 55% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (61; 19% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (60; 19% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (17; 5% instances),  (5; 2% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (3; 1% instances)
 
-310 (97%) `ADP` nodes are leaves.
+311 (97%) `ADP` nodes are leaves.
 
-3 (1%) `ADP` nodes have one child.
+2 (1%) `ADP` nodes have one child.
 
 4 (1%) `ADP` nodes have two children.
 
@@ -84,7 +84,7 @@ Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="zh_hk
 
 The highest child degree of a `ADP` node is 7.
 
-Children of `ADP` nodes are attached using 9 different relations: <tt><a href="zh_hk-dep-obj.html">obj</a></tt> (8; 27% instances), <tt><a href="zh_hk-dep-punct.html">punct</a></tt> (8; 27% instances), <tt><a href="zh_hk-dep-advmod.html">advmod</a></tt> (6; 20% instances), <tt><a href="zh_hk-dep-nsubj.html">nsubj</a></tt> (3; 10% instances), <tt><a href="zh_hk-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="zh_hk-dep-aux.html">aux</a></tt> (1; 3% instances), <tt><a href="zh_hk-dep-ccomp.html">ccomp</a></tt> (1; 3% instances), <tt><a href="zh_hk-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="zh_hk-dep-mark.html">mark</a></tt> (1; 3% instances)
+Children of `ADP` nodes are attached using 9 different relations: <tt><a href="zh_hk-dep-obj.html">obj</a></tt> (8; 28% instances), <tt><a href="zh_hk-dep-punct.html">punct</a></tt> (7; 24% instances), <tt><a href="zh_hk-dep-advmod.html">advmod</a></tt> (6; 21% instances), <tt><a href="zh_hk-dep-nsubj.html">nsubj</a></tt> (3; 10% instances), <tt><a href="zh_hk-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="zh_hk-dep-aux.html">aux</a></tt> (1; 3% instances), <tt><a href="zh_hk-dep-ccomp.html">ccomp</a></tt> (1; 3% instances), <tt><a href="zh_hk-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="zh_hk-dep-mark.html">mark</a></tt> (1; 3% instances)
 
-Children of `ADP` nodes belong to 7 different parts of speech: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (10; 33% instances), <tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt> (8; 27% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (6; 20% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (3; 10% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 3% instances)
+Children of `ADP` nodes belong to 7 different parts of speech: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (10; 34% instances), <tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt> (7; 24% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (6; 21% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (3; 10% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 

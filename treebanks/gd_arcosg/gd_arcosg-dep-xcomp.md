@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `xcomp`: <tt><a href="gd_arcosg-dep-xcomp-pred.html">xcomp:pred</a></tt>.
 
-792 nodes (2%) are attached to their parents as `xcomp`.
+968 nodes (2%) are attached to their parents as `xcomp`.
 
-779 instances of `xcomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.01893939393939.
+949 instances of `xcomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.98553719008264.
 
-The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (431; 54% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (286; 36% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (37; 5% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (504; 52% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (375; 39% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (44; 5% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,8 +25,8 @@ The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 2 5 xcomp	color:blue
 1	am	am	PART	Qq	Mood=Int|PartType=Vb|PronType=Int	2	mark:prt	_	_
 2	faod	faod	VERB	V-f--d	Tense=Fut	0	root	_	_
-3	mise	mi	PRON	Pp1s--e	Number=Sing|Person=1|PronType=Emp	2	nsubj	_	_
-4	am	am	DET	Dp3p	Number=Plur|Person=3	5	obj	_	_
+3	mise	mi	PRON	Pp1s--e	Form=Emp|Number=Sing|Person=1	2	nsubj	_	_
+4	am	an	DET	Dp3p	Number=Plur|Person=3|Poss=Yes	5	obj	_	_
 5	faighinn	faigh	NOUN	Nv	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
 6	?	?	PUNCT	Fg	_	2	punct	_	_
 
@@ -62,8 +62,8 @@ The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	bhiodh	bi	VERB	V-h	Mood=Cnd	0	root	_	_
 2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	toilichte	toilichte	ADJ	Ap	_	1	xcomp:pred	_	_
-4	faighinn	faigh	NOUN	Nv	_	3	xcomp	_	_
-5	beothaichean	beothaiche	NOUN	Ncpmg	Case=Gen|Gender=Masc|Number=Plur	4	obj	_	_
+4	faighinn	faigh	NOUN	Nv	VerbForm=Vnoun	3	xcomp	_	_
+5	beothaichean	beothach	NOUN	Ncpmg	Case=Gen|Gender=Masc|Number=Plur	4	obj	_	_
 6	saor	saor	ADJ	Aq-pmg	Case=Gen|Gender=Masc|Number=Plur	5	amod	_	_
 
 ~~~

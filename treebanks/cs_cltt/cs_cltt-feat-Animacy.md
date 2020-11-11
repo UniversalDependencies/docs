@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-7439 tokens (21%) have a non-empty value of `Animacy`.
+7439 tokens (20%) have a non-empty value of `Animacy`.
 1595 types (34%) occur at least once with a non-empty value of `Animacy`.
-718 lemmas (27%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 7 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (4548; 13% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (2723; 8% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (91; 0% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (37; 0% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+718 lemmas (26%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 7 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (4548; 12% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (2723; 7% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (91; 0% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (37; 0% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 * `Anim` (199; 4% of non-empty `Animacy`): <em>auditorem, členům, společník, společníka, zaměstnanců, účastníky, společníkům, emitentem, společníkem, společníky</em>
 * `Inan` (4349; 96% of non-empty `Animacy`): <em>majetku, dni, závazků, odstavce, dne, majetek, případě, náklady, závazky, zisku</em>
-* `EMPTY` (6755): <em>jednotky, jednotka, období, ocenění, účetnictví, položka, závěrky, ustanovení, jednotek, společnosti</em>
+* `EMPTY` (6744): <em>jednotky, jednotka, období, ocenění, účetnictví, položka, závěrky, ustanovení, jednotek, společnosti</em>
 
 <table>
   <tr><th>Paradigm <i>člen</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 * `Anim` (102; 4% of non-empty `Animacy`): <em>přejímající, následujícímu, předcházejícímu, řídících, konsolidující, prvním, přejímajícího, přejímajícím, vysvětlujících, držených</em>
 * `Inan` (2621; 96% of non-empty `Animacy`): <em>účetní, účetních, povinny, účetního, obchodního, právních, peněžních, právní, zvláštního, právního</em>
-* `EMPTY` (4058): <em>účetní, účetních, účetního, konsolidované, konsolidující, výroční, finanční, reálnou, účetním, pořizovací</em>
+* `EMPTY` (4049): <em>účetní, účetních, účetního, konsolidované, konsolidující, výroční, finanční, reálnou, účetním, pořizovací</em>
 
 <table>
   <tr><th>Paradigm <i>právní</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -101,14 +101,14 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 ### `AUX`
 
-26 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (5% of all `AUX` tokens) have a non-empty value of `Animacy`.
+26 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (26; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (26; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (26; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (26; 100%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (26; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (19; 73%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (26; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (26; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (26; 100%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (26; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (19; 73%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
 * `Inan` (26; 100% of non-empty `Animacy`): <em>byly, nebyly</em>
-* `EMPTY` (544): <em>je, jsou, nejsou, být, není, by, bude, byl, bylo, budou</em>
+* `EMPTY` (590): <em>je, jsou, není, nejsou, být, by, bude, byl, bylo, budou</em>
 
 ### `NUM`
 
@@ -130,12 +130,12 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Inan` (2; 100% of non-empty `Animacy`): <em>veškeré</em>
-* `EMPTY` (629): <em>se, nichž, němž, jej, němuž, je, jim, jí, jimiž, jehož</em>
+* `EMPTY` (634): <em>se, nichž, němž, jej, němuž, je, jim, jí, jimiž, jehož</em>
 
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2344; 93%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2345; 93%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (77; 67%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> NOUN</tt> (5; 71%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (2; 100%),

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (1%) are attached to their parents as `ccomp`.
+9 nodes (1%) are attached to their parents as `ccomp`.
 
-7 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.
+9 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.88888888888889.
 
-The following 1 pairs of parts of speech are connected with `ccomp`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (7; 100% instances).
+The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (8; 89% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -30,6 +30,36 @@ The following 1 pairs of parts of speech are connected with `ccomp`: <tt><a href
 6	этӧ	эта	PRON	_	Case=Acc|Number=Sing|PronType=Dem	7	obj	_	GTtags=Dem,Sg,Nom
 7	гижис	гижны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	ccomp	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 17 ccomp	color:blue
+1	Но	но	CCONJ	CC	_	10	cc	_	_
+2	керкуыс	керку	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl:lmod	_	GTtags=Sg,Nom,PxSg3
+3	бокын	бокын	ADP	Adp	AdvType=Loc|Case=Ine	2	case	_	GTtags=Spat,Ine|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	6	punct	_	_
+5	туй	туй	NOUN	N	Case=Nom|Number=Sing	6	nmod	_	GTtags=Sg,Nom
+6	ладорсяняс	ладор	NOUN	N	Case=Egr|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	appos	_	GTtags=Sg,Egr,PxSg3,So/CP|SpaceAfter=No
+7	,	,	PUNCT	CLB	_	6	punct	_	_
+8	мыйкӧ	мыйкӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	10	nsubj	_	GTtags=Indef,Sg,Nom
+9	сё	сё	ADV	Adv	AdvType=Deg	10	advmod	_	GTtags=Deg
+10	вӧрис	вӧрны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+11	,	,	PUNCT	CLB	_	14	punct	_	_
+12	и	и	CCONJ	CC	_	14	cc	_	_
+13	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	GTtags=Pers,Sg1,Nom
+14	вежӧрті	вежӧртны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	10	conj	_	GTtags=Ind,Prt1,Sg1|SpaceAfter=No
+15	,	,	PUNCT	CLB	_	17	punct	_	_
+16	что	что	SCONJ	CS	_	17	mark	_	_
+17	сэтӧн	сэтӧн	ADV	Adv	_	14	ccomp	_	_
+18	кинкӧ	кинкӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	17	nsubj:cop	_	GTtags=Indef,Sg,Nom
+19	ловья	ловья	ADJ	A	_	18	amod	_	SpaceAfter=No
+20	...	...	PUNCT	CLB	_	10	punct	_	_
 
 ~~~
 

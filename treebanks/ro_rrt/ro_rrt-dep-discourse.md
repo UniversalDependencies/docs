@@ -10,10 +10,10 @@ This relation is universal.
 
 20 nodes (0%) are attached to their parents as `discourse`.
 
-11 instances of `discourse` (55%) are right-to-left (child precedes parent).
+12 instances of `discourse` (60%) are right-to-left (child precedes parent).
 Average distance between parent and child is 5.55.
 
-The following 12 pairs of parts of speech are connected with `discourse`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (5; 25% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (3; 15% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (2; 10% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (2; 10% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances).
+The following 11 pairs of parts of speech are connected with `discourse`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (5; 25% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (3; 15% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (3; 15% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (2; 10% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -31,6 +31,30 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 discourse	color:blue
+1	Și	și	CCONJ	Crssp	Polarity=Pos	6	cc	_	_
+2	iaca	iaca	INTJ	I	_	3	discourse	_	_
+3	așa	așa	ADV	Rgp	Degree=Pos	6	advmod	_	_
+4	i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	6	expl	_	SpaceAfter=No
+5	-a	avea	AUX	Va--3s----y	Number=Sing|Person=3|Variant=Short	6	aux	_	_
+6	tras	trage	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+7	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+8	mamă	mamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	obj	_	_
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
+10	bătaie	bătaie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	nmod	_	_
+11	lui	lui	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	Sfântu	Sfântu	PROPN	Np	_	6	iobj	_	_
+13	Petre	Petre	PROPN	Np	_	12	flat	_	SpaceAfter=No
+14	.	.	PUNCT	PERIOD	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 4	bgColor:blue
@@ -43,24 +67,6 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 5	n-	nu	PART	Qz-y	Polarity=Neg|Variant=Short	7	advmod	_	SpaceAfter=No
 6	am	avea	AUX	Va--1	Person=1	7	aux	_	_
 7	știut	ști	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	4	discourse	_	SpaceAfter=No
-8	.	.	PUNCT	PERIOD	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 1 discourse	color:blue
-1	Ei	ei	INTJ	I	_	7	discourse	_	_
-2	bine	bine	ADV	Rgp	Degree=Pos	1	fixed	_	SpaceAfter=No
-3	,	,	PUNCT	COMMA	_	1	punct	_	_
-4	nu	nu	PART	Qz	Polarity=Neg	7	advmod	_	_
-5	a	avea	AUX	Va--3s	Number=Sing|Person=3	7	aux	_	_
-6	fost	fi	AUX	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	7	cop	_	_
-7	așa	așa	ADV	Rgp	Degree=Pos	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
 ~~~

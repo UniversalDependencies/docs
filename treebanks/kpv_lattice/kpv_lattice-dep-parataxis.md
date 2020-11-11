@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (0%) are attached to their parents as `parataxis`.
+24 nodes (0%) are attached to their parents as `parataxis`.
 
-11 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.54545454545455.
+22 instances of `parataxis` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.58333333333333.
 
-The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (4; 36% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (3; 27% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 9% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 9% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 9% instances).
+The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (10; 42% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (5; 21% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (2; 8% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (2; 8% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -60,33 +60,18 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 21 parataxis	color:blue
-1	Ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	2	amod	_	_
-2	шуд	шуд	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
-3	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nmod	_	_
-4	странаса	странаса	ADJ	A	Case=Nom|Number=Sing	5	amod	_	_
-5	томйӧзлӧн	томйӧзлӧн	NOUN	N	Case=Gen|Number=Sing	2	nmod	_	SpaceAfter=No
-6	,	,	PUNCT	CLB	_	8	punct	_	_
-7	кодъяс	коді	PRON	Pron	Case=Nom|Number=Plur|PronType=Int	8	nsubj	_	_
-8	веськалӧны	веськавны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	acl:relcl	_	_
-9	Краснӧй	Краснӧй	PROPN	N	Case=Nom|Number=Sing	11	nmod	_	_
-10	Армия	армия	NOUN	N	Case=Nom|Number=Sing	9	flat:name	_	_
-11	радӧ	рад	NOUN	N	Case=Ill|Number=Sing	8	obl:lmod	_	_
-12	да	да	CCONJ	CC	_	13	cc	_	_
-13	новлӧдлӧны	новлӧдлыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	conj	_	_
-14	почетнӧй	почётнӧй	ADJ	A	Case=Nom|Number=Sing	15	amod	_	_
-15	ним	ним	NOUN	N	Case=Nom|Number=Sing	13	obj	_	_
-16	–	–	PUNCT	PUNCT	_	20	punct	_	_
-17	социализм	социализм	NOUN	N	Case=Nom|Number=Sing	18	nmod	_	_
-18	странаса	странаса	ADJ	A	Case=Nom|Number=Sing	20	amod	_	_
-19	великӧй	великӧй	ADJ	A	Case=Nom|Number=Sing	20	amod	_	_
-20	воинлысь	воин	NOUN	N	Case=Abl|Number=Sing	21	nmod	_	_
-21	ним	ним	NOUN	N	Case=Nom|Number=Sing	15	parataxis	_	SpaceAfter=No
-22	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 parataxis	color:blue
+1	Пияныс	пи	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	nsubj:cop	_	GTtags=Pl,Nom,PxSg3
+2	зэв	зэв	ADV	Adv	_	3	advmod	_	_
+3	шаньӧсь	шань	ADJ	A	Number[subj]=Plur	0	root	_	GTtags=Cop,Pl|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	любитӧны	любитны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Valency=2	3	parataxis	_	GTtags=TV,Ind,Prs,Pl3
+6	каньӧс	кань	NOUN	N	Case=Acc|Number=Sing	5	obj	_	GTtags=Sg,Acc|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

@@ -416,7 +416,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (7970; 98%),
+<tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (7968; 98%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4393; 69%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (4113; 50%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2501; 55%),

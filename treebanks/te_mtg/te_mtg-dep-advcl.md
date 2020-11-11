@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advcl`: <tt><a href="te_mtg-dep-advcl-cond.html">advcl:cond</a></tt>.
 
-124 nodes (2%) are attached to their parents as `advcl`.
+123 nodes (2%) are attached to their parents as `advcl`.
 
-123 instances of `advcl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.57258064516129.
+123 instances of `advcl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.58536585365854.
 
-The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (120; 97% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (120; 98% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

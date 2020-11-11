@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="myv_jr-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-319 nodes (2%) are attached to their parents as `cc`.
+340 nodes (2%) are attached to their parents as `cc`.
 
-316 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.9435736677116.
+337 instances of `cc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.97352941176471.
 
-The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (217; 68% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (57; 18% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (11; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (10; 3% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (9; 3% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (7; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (229; 67% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (62; 18% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (13; 4% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (12; 4% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (8; 2% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (7; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,20 +53,22 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 cc	color:blue
-1	―	―	PUNCT	PUNCT	_	2	punct	_	_
-2	Сынек	самс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScPl1
-3	ды	ды	CCONJ	CC	_	4	cc	_	_
-4	парсте	парсте	ADV	Adv	_	2	advmod	_	GTtags=|SpaceAfter=No
-5	!	!	PUNCT	CLB	_	2	punct	_	_
-6	―	―	PUNCT	PUNCT	_	7	punct	_	_
-7	отвечась	отвечамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	2	parataxis	_	GTtags=IV,Ind,Prt1,ScSg3
-8	Рябов	Рябов	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	7	nsubj	_	GTtags=Sur_Mal,Prop,Sg,Nom,Indef|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 4 1 cc	color:blue
+1	Ды	ды	CCONJ	CC	_	4	cc	_	_
+2	вельть	вельть	ADV	Adv	_	4	advmod	_	_
+3	уш	уш	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	GTtags=Sem/Time
+4	стака	стака	ADJ	A	_	0	root	_	_
+5	эйзэнзэ	эйс	ADP	Adp	Case=Ill|Number[psor]=Sing|Person[psor]=3	6	obl	_	GTtags=Ill,PxSg3
+6	керсемась	керсема	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
+7	,	,	PUNCT	CLB	_	10	punct	_	_
+8	ламо	ламо	ADV	Adv	_	9	advmod	_	GTtags=Qnt,Sg,Nom,Indef
+9	шка	шка	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	10	obj	_	GTtags=Sem/Time,Sg,Nom,Indef
+10	саи	саемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	4	conj	_	GTtags=Ind,Prs,ScSg3|SpaceAfter=No
+11	...	...	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

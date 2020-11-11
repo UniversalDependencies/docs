@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 2 1 acl	color:blue
 1	Leahkki	leat	VERB	V	Tense=Pres|VerbForm=Part	2	acl	_	_
 2	vuoigatvuođat	vuoigatvuohta	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	_
-3	eai	ii	VERB	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin	4	aux:neg	_	_
+3	eai	ii	AUX	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin	4	aux:neg	_	_
 4	lihkahallojuvvo	lihkahallat	VERB	V*	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 

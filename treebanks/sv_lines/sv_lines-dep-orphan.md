@@ -53,7 +53,7 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 2	,	,	PUNCT	Comma	_	1	punct	_	_
 3	nästan	nästan	ADV	_	_	4	advmod	_	_
 4	på	på	ADP	_	_	12	orphan	_	SpaceAfter=No
-5	...	...	PUNCT	Dots	_	12	punct	_	_
+5	...	...	PUNCT	Dots	_	4	punct	_	_
 6	Jag	jag	PRON	PERS-P1SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	12	nsubj	_	_
 7	måste	måste	AUX	AUX	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	_
 8	i	i	ADP	_	_	10	case	_	_
@@ -102,7 +102,7 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 25	hos	hos	ADP	_	_	26	case	_	_
 26	individer	individ	NOUN	PL-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	24	nmod	_	_
 27	därute	därute	ADV	_	_	26	advmod	_	SpaceAfter=No
-28	,	,	PUNCT	Comma	_	17	punct	_	_
+28	,	,	PUNCT	Comma	_	29	punct	_	_
 29	men	men	CCONJ	_	_	17	orphan	_	SpaceAfter=No
 30	...	...	PUNCT	Dots	_	17	punct	_	_
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-534 nodes (3%) are attached to their parents as `case`.
+320 nodes (2%) are attached to their parents as `case`.
 
-529 instances of `case` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07865168539326.
+315 instances of `case` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.071875.
 
-The following 16 pairs of parts of speech are connected with `case`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (334; 63% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (76; 14% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (39; 7% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (35; 7% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (18; 3% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `case`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (230; 72% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (32; 10% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (22; 7% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (18; 6% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (7; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -33,25 +33,6 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 case	color:blue
-1	Се	се	DET	Det	Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg
-2	туремастонть	туремс	VERB	V	Case=Ela|Definite=Def|Number=Sing|Valency=1|VerbForm=Vnoun	4	obl	_	GTtags=IV,NomAct,N,Sg,Ela,Def
-3	Громов	Громов	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	4	nsubj	_	GTtags=Prop,Sur_Mal,Sg,Nom,Indef
-4	кадовсь	кадовомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
-5	апокш	апокш	ADJ	A	_	6	amod	_	_
-6	губор	губор	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	obl	_	GTtags=Sg,Nom,Indef
-7	пряс	пря	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	6	case	_	GTtags=Sem/Plc,SP,Ill,Indef
-8	оймевтеме	ойме	NOUN	N	Case=Abe|Definite=Ind|Number=Plur,Sing	4	obl	_	GTtags=SP,Abe,Indef|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
@@ -64,6 +45,26 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 5	кадовикс	кадовикс	ADJ	A	_	6	amod	_	_
 6	партизантнэ	партизан	NOUN	N	Case=Nom|Definite=Def|Number=Plur	2	nsubj	_	GTtags=Pl,Nom,Def|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 case	color:blue
+1	Ястребов	Ястребов	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	3	nsubj	_	GTtags=Prop,Sur_Mal,Sg,Nom,Indef
+2	ёртозь	ёртомс	VERB	V	Derivation=Ozj|Valency=2|VerbForm=Conv	3	advcl	_	GTtags=TV,Der/Озь,Ger
+3	ёртовсь	ёртовомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	6	punct	_	_
+5	чиезь	чиемс	VERB	V	Derivation=Ozj|Valency=1|VerbForm=Conv	6	advcl	_	GTtags=IV,Der/Озь,Ger
+6	совась	совамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	3	conj	_	GTtags=IV,Ind,Prt1,ScSg3
+7	кудонтень	кудо	NOUN	N	Case=Dat|Definite=Def|Number=Sing	6	obl	_	GTtags=Sem/Plc,Sg,Dat,Def
+8	Любань	Люба	PROPN	N	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Fem|NameType=Giv|Number=Plur,Sing	6	obl	_	GTtags=Prop,Ant_Fem,SP,Gen,Indef
+9	ваксс	ваксс	ADP	Adp	AdvType=Loc|Case=Ill	8	case	_	GTtags=Relator,Spat,Ill|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

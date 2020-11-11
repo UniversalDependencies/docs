@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Relations: `nmod:bahuv`
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt>.
-There are also 2 other language-specific subtypes of `nmod`: <tt><a href="mdf_jr-dep-nmod-part.html">nmod:part</a></tt>, <tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt>.
+There are also 3 other language-specific subtypes of `nmod`: <tt><a href="mdf_jr-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="mdf_jr-dep-nmod-part.html">nmod:part</a></tt>, <tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt>.
 
 1 nodes (0%) are attached to their parents as `nmod:bahuv`.
 

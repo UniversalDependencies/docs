@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_vit-dep-aux.html">aux</a></tt>.
 
-1702 nodes (1%) are attached to their parents as `aux:pass`.
+1701 nodes (1%) are attached to their parents as `aux:pass`.
 
-1697 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24206815511163.
+1696 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24279835390946.
 
-The following 6 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (1689; 99% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (1688; 99% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

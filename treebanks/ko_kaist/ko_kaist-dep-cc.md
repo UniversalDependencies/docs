@@ -32,7 +32,7 @@ The following 27 pairs of parts of speech are connected with `cc`: <tt><a href="
 8	문을	문+을	NOUN	ncn+jco	_	11	obj	_	_
 9	여덟	여덟	NUM	nnc	_	10	nummod	_	_
 10	개나	개+나	ADV	nbu+jxc	_	11	advcl	_	_
-11	세웠지요	세우+었+지요	VERB	pvg+ep+ef	_	3	conj	_	_
+11	세웠지요	세우+었+지요	VERB	pvg+ep+ef	_	3	conj	_	SpaceAfter=No
 12	.	.	PUNCT	sf	_	11	punct	_	_
 
 ~~~
@@ -44,19 +44,19 @@ The following 27 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 9 cc	color:blue
-1	첫째	첫째	NUM	nno	_	13	nummod	_	_
+1	첫째	첫째	NUM	nno	_	13	nummod	_	SpaceAfter=No
 2	,	,	PUNCT	sp	_	1	punct	_	_
 3	노동을	노동+을	NOUN	ncpa+jco	_	4	obj	_	_
 4	지향하는	지향+하+는	VERB	ncpa+xsv+etm	_	7	acl	_	_
 5	인간의	인간+의	NOUN	ncn+jcm	_	7	nmod	_	_
 6	합목적적인	합목적+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	7	acl	_	_
-7	행위	행위	NOUN	ncn	_	13	obj	_	_
+7	행위	행위	NOUN	ncn	_	13	obj	_	SpaceAfter=No
 8	,	,	PUNCT	sp	_	7	punct	_	_
 9	즉	즉	CCONJ	maj	_	12	cc	_	_
 10	노동	노동	NOUN	ncpa	_	12	compound	_	_
 11	그	그	DET	mmd	_	12	det	_	_
 12	자체를	자체+를	NOUN	ncn+jco	_	7	conj	_	_
-13	말한다	말하+ㄴ다	VERB	pvg+ef	_	0	root	_	_
+13	말한다	말하+ㄴ다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	sf	_	13	punct	_	_
 
 ~~~
@@ -71,7 +71,7 @@ The following 27 pairs of parts of speech are connected with `cc`: <tt><a href="
 1	즉	즉	CCONJ	maj	_	4	cc	_	_
 2	이론의	이론+의	NOUN	ncn+jcm	_	3	nmod	_	_
 3	부재가	부재+가	NOUN	ncpa+jcs	_	4	nsubj	_	_
-4	두드러졌다	두드러지+었+다	ADJ	paa+ep+ef	_	0	root	_	_
+4	두드러졌다	두드러지+었+다	ADJ	paa+ep+ef	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	sf	_	4	punct	_	_
 
 ~~~

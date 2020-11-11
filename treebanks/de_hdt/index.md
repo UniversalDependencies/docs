@@ -19,10 +19,10 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Emanuel Borges Völker, Felix Hennig, Arne Köhn, Maximilan Wendt.
 
 Repository: [UD_German-HDT](https://github.com/UniversalDependencies/UD_German-HDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
-License: HZSK-ACA (Text) / CC BY-SA 4.0 (Annotation)
+License: CC BY-SA 4.0
 
 Genre: news, nonfiction, web
 
@@ -150,7 +150,7 @@ and correct errors in annotated corpora
 
 ## Relations
 
-[acl](de_hdt-dep-acl.html) – [advcl](de_hdt-dep-advcl.html) – [advmod](de_hdt-dep-advmod.html) – [amod](de_hdt-dep-amod.html) – [appos](de_hdt-dep-appos.html) – [aux](de_hdt-dep-aux.html) – [aux:pass](de_hdt-dep-aux-pass.html) – [case](de_hdt-dep-case.html) – [cc](de_hdt-dep-cc.html) – [ccomp](de_hdt-dep-ccomp.html) – [compound:prt](de_hdt-dep-compound-prt.html) – [conj](de_hdt-dep-conj.html) – [cop](de_hdt-dep-cop.html) – [csubj](de_hdt-dep-csubj.html) – [csubj:pass](de_hdt-dep-csubj-pass.html) – [det](de_hdt-dep-det.html) – [det:poss](de_hdt-dep-det-poss.html) – [discourse](de_hdt-dep-discourse.html) – [expl](de_hdt-dep-expl.html) – [expl:pv](de_hdt-dep-expl-pv.html) – [flat](de_hdt-dep-flat.html) – [flat:name](de_hdt-dep-flat-name.html) – [iobj](de_hdt-dep-iobj.html) – [mark](de_hdt-dep-mark.html) – [nmod](de_hdt-dep-nmod.html) – [nmod:poss](de_hdt-dep-nmod-poss.html) – [nsubj](de_hdt-dep-nsubj.html) – [nsubj:pass](de_hdt-dep-nsubj-pass.html) – [nummod](de_hdt-dep-nummod.html) – [obj](de_hdt-dep-obj.html) – [obl](de_hdt-dep-obl.html) – [obl:arg](de_hdt-dep-obl-arg.html) – [orphan](de_hdt-dep-orphan.html) – [parataxis](de_hdt-dep-parataxis.html) – [punct](de_hdt-dep-punct.html) – [reparandum](de_hdt-dep-reparandum.html) – [root](de_hdt-dep-root.html) – [vocative](de_hdt-dep-vocative.html) – [xcomp](de_hdt-dep-xcomp.html)
+[acl](de_hdt-dep-acl.html) – [advcl](de_hdt-dep-advcl.html) – [advmod](de_hdt-dep-advmod.html) – [amod](de_hdt-dep-amod.html) – [appos](de_hdt-dep-appos.html) – [aux](de_hdt-dep-aux.html) – [aux:pass](de_hdt-dep-aux-pass.html) – [case](de_hdt-dep-case.html) – [cc](de_hdt-dep-cc.html) – [ccomp](de_hdt-dep-ccomp.html) – [compound](de_hdt-dep-compound.html) – [compound:prt](de_hdt-dep-compound-prt.html) – [conj](de_hdt-dep-conj.html) – [cop](de_hdt-dep-cop.html) – [csubj](de_hdt-dep-csubj.html) – [csubj:pass](de_hdt-dep-csubj-pass.html) – [det](de_hdt-dep-det.html) – [det:poss](de_hdt-dep-det-poss.html) – [discourse](de_hdt-dep-discourse.html) – [expl](de_hdt-dep-expl.html) – [expl:pv](de_hdt-dep-expl-pv.html) – [flat](de_hdt-dep-flat.html) – [flat:name](de_hdt-dep-flat-name.html) – [iobj](de_hdt-dep-iobj.html) – [mark](de_hdt-dep-mark.html) – [nmod](de_hdt-dep-nmod.html) – [nmod:poss](de_hdt-dep-nmod-poss.html) – [nsubj](de_hdt-dep-nsubj.html) – [nsubj:pass](de_hdt-dep-nsubj-pass.html) – [nummod](de_hdt-dep-nummod.html) – [obj](de_hdt-dep-obj.html) – [obl](de_hdt-dep-obl.html) – [obl:arg](de_hdt-dep-obl-arg.html) – [orphan](de_hdt-dep-orphan.html) – [parataxis](de_hdt-dep-parataxis.html) – [punct](de_hdt-dep-punct.html) – [reparandum](de_hdt-dep-reparandum.html) – [root](de_hdt-dep-root.html) – [vocative](de_hdt-dep-vocative.html) – [xcomp](de_hdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -1091,7 +1091,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1075)</li>
+      <li>VERB-Fin--NOUN (1074)</li>
       <li>VERB-Fin--NOUN-Dat (446)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Dat (868)</li>
@@ -1129,6 +1129,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 9 relation subtypes: <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `advcl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `advcl`: <tt><a href="kpv_lattice-dep-advcl-tmod.html">advcl:tmod</a></tt>.
 
-63 nodes (3%) are attached to their parents as `advcl`.
+93 nodes (2%) are attached to their parents as `advcl`.
 
-32 instances of `advcl` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.26984126984127.
+53 instances of `advcl` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.81720430107527.
 
-The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (48; 76% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (5; 8% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `advcl`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (71; 76% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (5; 5% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (5; 5% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -60,20 +61,21 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 advcl	color:blue
-1	Тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	3	det	_	_
-2	Петрсянь	Петр	NOUN	N	Case=Egr|Number=Sing	3	obl	_	_
-3	письмӧ	письмӧ	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	8	punct	_	_
-5	да	да	CCONJ	CC	_	8	mark	_	_
-6	сійӧс	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
-7	тӧрыт	тӧрыт	ADV	Adv	_	8	advmod:tmod	_	_
-8	вайисны	вайны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	3	advcl	_	SpaceAfter=No
-9	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 8 7 advcl	color:blue
+1	Аскинас	аскинас	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	GTtags=Temp
+2	ӧшӧдӧм	ӧшӧдны	VERB	V	Tense=Past|Valency=2|VerbForm=Part	4	advcl	_	GTtags=TV,Der,Der/ӧм,PastPtc
+3	содтӧдъя	содтӧдъя	ADJ	A	Case=Nom|Number=Sing	4	amod	_	GTtags=Sg,Nom
+4	приказын	приказ	NOUN	N	Case=Ine|Number=Sing	8	obl	_	GTtags=Sg,Ine
+5	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj:cop	_	GTtags=Pers,Sg3,Nom
+6	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	8	aux	_	GTtags=IV,Ind,Prt1,Sg3
+7	нин	нин	ADV	Adv	_	8	advcl	_	_
+8	босьтӧмаяс	босьтны	VERB	V	Case=Nom|Derivation=Vnoun|Number=Plur|Tense=Past|Valency=2|VerbForm=Part	0	root	_	GTtags=TV,Der,Der/ӧм,PastPtc,N,Pl,Nom
+9	лыдын	лыд	NOUN	N	Case=Ine|Number=Sing	8	case	_	GTtags=Sg,Ine|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	8	punct	_	_
 
 ~~~
 

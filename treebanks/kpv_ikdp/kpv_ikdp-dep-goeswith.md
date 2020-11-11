@@ -47,19 +47,19 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 6	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	думайтэныс	думайтны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	Lang=Mixed|SpaceAfter=No
-9	,	,	PUNCT	CLB	_	10	punct	_	_
+9	,	,	PUNCT	CLB	_	12	punct	_	_
 10	гашке	гашкӧ	PART	Pcle	_	12	advmod:mmod	_	SpaceAfter=No
 11	,	,	PUNCT	CLB	_	12	punct	_	_
 12	вӧрзям	вӧрзьыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	8	ccomp	_	_
 13	да	да	PART	Pcle	_	12	advmod	_	Lang=Mixed
 14	и	и	PART	Pcle	_	13	goeswith	_	Lang=Mixed|SpaceAfter=No
 15	,	,	PUNCT	CLB	_	16	punct	_	_
-16	ничего	ничего	ADV	Adv	Polarity=Neg	18	advmod	_	Lang=Rus|SpaceAfter=No
-17	,	,	PUNCT	CLB	_	18	punct	_	_
-18	бур	бур	ADJ	A	Case=Nom|Number=Sing	12	conj	_	_
-19	лоо	лоны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	cop	_	_
-20	ставыс	став	DET	Det	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	18	nsubj	_	_
-21	да	да	PART	Pcle	_	18	advmod	_	Lang=Mixed|SpaceAfter=No
+16	ничего	ничего	ADV	Adv	Polarity=Neg	12	conj	_	Lang=Rus|SpaceAfter=No
+17	,	,	PUNCT	CLB	_	19	punct	_	_
+18	бур	бур	ADJ	A	Case=Nom|Number=Sing	19	xcomp	_	_
+19	лоо	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	conj	_	_
+20	ставыс	став	DET	Det	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	19	nsubj	_	_
+21	да	да	PART	Pcle	_	19	advmod	_	Lang=Mixed|SpaceAfter=No
 22	.	.	PUNCT	CLB	_	8	punct	_	_
 
 ~~~
@@ -71,20 +71,20 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 goeswith	color:blue
-1	Пока	пока	ADV	Adv	_	2	advmod	_	_
-2	лёк	лёк	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
-3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg	2	aux:neg	_	_
-4	ло	лоны	AUX	V	Connegative=Yes	2	aux	_	SpaceAfter=No
+1	Пока	пока	ADV	Adv	_	4	advmod	_	_
+2	лёк	лёк	ADJ	A	Case=Nom|Number=Sing	4	nsubj	_	_
+3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg	4	aux:neg	_	_
+4	ло	лоны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	но	но	CCONJ	CC	_	13	cc	_	Lang=Mixed|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	пока	пока	ADV	Adv	_	13	advmod	_	Lang=Mixed|SpaceAfter=No
-9	,	,	PUNCT	CLB	_	10	punct	_	_
+9	,	,	PUNCT	CLB	_	13	punct	_	_
 10	не	не	PART	Pcle	Polarity=Neg	11	advmod	_	Lang=Mixed
 11	то	то	PART	Pcle	_	13	advmod	_	Lang=Mixed
 12	что	что	PRON	Pron	_	11	goeswith	_	Lang=Rus
-13	лёк-а	лёк	ADJ	A	Case=Nom|Number=Sing	2	conj	_	SpaceAfter=No
-14	.	.	PUNCT	CLB	_	2	punct	_	_
+13	лёк-а	лёк	ADJ	A	Case=Nom|Number=Sing	4	conj	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

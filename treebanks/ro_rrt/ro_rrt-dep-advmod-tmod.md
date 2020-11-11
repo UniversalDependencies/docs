@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt>.
 
-136 nodes (0%) are attached to their parents as `advmod:tmod`.
+131 nodes (0%) are attached to their parents as `advmod:tmod`.
 
-103 instances of `advmod:tmod` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.38235294117647.
+101 instances of `advmod:tmod` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.32824427480916.
 
-The following 10 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (94; 69% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (16; 12% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (5; 4% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (5; 4% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (5; 4% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (95; 73% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (16; 12% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (6; 5% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (5; 4% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (5; 4% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -54,18 +54,22 @@ The following 10 pairs of parts of speech are connected with `advmod:tmod`: <tt>
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 advmod:tmod	color:blue
-1	Poți	putea	VERB	Vmm-2s	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	să	să	PART	Qs	Mood=Sub	4	mark	_	SpaceAfter=No
-3	-ți	tu	PRON	Pp2-sd--y-----w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak|Variant=Short	4	iobj	_	_
-4	iei	lua	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
-5	liber	liber	ADV	Rgp	Degree=Pos	4	obj	_	_
-6	duminică	duminică	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	advmod:tmod	_	SpaceAfter=No
-7	?	?	PUNCT	QUEST	_	1	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 3 advmod:tmod	color:blue
+1	Vaca	vacă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	10	nsubj	_	_
+2	poate	poate	ADV	Rgp	Degree=Pos	10	advmod	_	_
+3	niciodată	niciodată	ADV	Rz	PronType=Neg	10	advmod:tmod	_	_
+4	n-	nu	PART	Qz-y	Polarity=Neg|Variant=Short	10	advmod	_	SpaceAfter=No
+5	a	avea	AUX	Va--3s	Number=Sing|Person=3	10	aux	_	_
+6	mai	mai	ADV	Rp	_	10	advmod	_	_
+7	fost	fi	AUX	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	10	cop	_	_
+8	ca	ca	ADV	Rc	_	9	mark	_	_
+9	astăzi	astăzi	ADV	Rgp	Degree=Pos	10	advmod	_	_
+10	neastâmpărată	neastâmpărat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	10	punct	_	_
 
 ~~~
 

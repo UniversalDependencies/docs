@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 amod	color:blue
-1	Ata	ai	PRON	_	Gender=Masc|Number=Plur|PronType=Prs	4	nsubj	4:nsubj	_
+1	Ata	ai	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	4	nsubj	4:nsubj	_
 2	në	në	ADP	_	_	3	case	3:case	_
 3	përgjithësi	përgjithësi	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	obl	4:obl	_
 4	përbëhen	përbëj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	0:root	_

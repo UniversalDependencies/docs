@@ -243,14 +243,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16415; 95%),
-<tt>NOUN --[<tt><a href="hr_set-dep-case.html">case</a></tt>]--> ADP</tt> (13935; 96%),
-<tt>NOUN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3431; 94%),
+<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16972; 95%),
+<tt>NOUN --[<tt><a href="hr_set-dep-case.html">case</a></tt>]--> ADP</tt> (14016; 96%),
+<tt>NOUN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3446; 94%),
 <tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3225; 98%),
-<tt>PROPN --[<tt><a href="hr_set-dep-case.html">case</a></tt>]--> ADP</tt> (2333; 99%),
-<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2131; 98%),
-<tt>ADJ --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1449; 93%),
-<tt>NOUN --[<tt><a href="hr_set-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1286; 72%),
-<tt>PROPN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> PROPN</tt> (947; 99%),
-<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (807; 99%).
+<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2345; 98%),
+<tt>PROPN --[<tt><a href="hr_set-dep-case.html">case</a></tt>]--> ADP</tt> (2342; 99%),
+<tt>ADJ --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1450; 93%),
+<tt>NOUN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1292; 72%),
+<tt>PROPN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> PROPN</tt> (962; 99%),
+<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (810; 99%).
 

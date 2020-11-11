@@ -12,18 +12,18 @@ It occurs with 1 different values: `Yes`.
 2436 tokens (1%) have a non-empty value of `Foreign`.
 1494 types (3%) occur at least once with a non-empty value of `Foreign`.
 1480 lemmas (3%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 10 part-of-speech tags: <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (2197; 1% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (88; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (67; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (33; 0% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (2196; 1% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (88; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (67; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (33; 0% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-2197 <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> tokens (7% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+2196 <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> tokens (7% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2197; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2197; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2197; 100%).
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2196; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2196; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2196; 100%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
-* `Yes` (2197; 100% of non-empty `Foreign`): <em>of, de, the, University, la, d', for, You, di, a</em>
-* `EMPTY` (28660): <em>Deutschland, US, Berlin, SPD, St., Oktober, Frankreich, August, New, von</em>
+* `Yes` (2196; 100% of non-empty `Foreign`): <em>of, de, the, University, la, d', for, You, di, a</em>
+* `EMPTY` (28648): <em>Deutschland, US, Berlin, SPD, St., Oktober, Frankreich, August, New, von</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1362) occur only with one value of `Foreign`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (67; 100% of non-empty `Foreign`): <em>Bass, Top, facto, Arrondissement, Armée, Atun, Chief, City, Dirigent, Drücklok</em>
-* `EMPTY` (52135): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52133): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (57) occur only with one value of `Foreign`.
 
@@ -102,18 +102,18 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>Logon, anschloss, loved, meln, sang, shines</em>
-* `EMPTY` (20706): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `EMPTY` (20708): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
 
 ### `DET`
 
-3 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
+4 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `DET` tokens may have the following values of `Foreign`:
 
-* `Yes` (3; 100% of non-empty `Foreign`): <em>The, alla, dessa</em>
-* `EMPTY` (36793): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
+* `Yes` (4; 100% of non-empty `Foreign`): <em>The, alla, dessa, Seine</em>
+* `EMPTY` (37371): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
 
 ### `SCONJ`
 
@@ -127,7 +127,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1226; 89%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1225; 89%),
 <tt>PROPN --[<tt><a href="de_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (79; 50%),
 <tt>PROPN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> PROPN</tt> (51; 59%),
 <tt>X --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> X</tt> (30; 100%),

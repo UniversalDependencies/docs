@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Dem`, `Ind`, `Int`, `Prs`.
 
-1278 tokens (7%) have a non-empty value of `PronType`.
-173 types (3%) occur at least once with a non-empty value of `PronType`.
-28 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 6 part-of-speech tags: <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> (1269; 7% instances), <tt><a href="is_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="is_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="is_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+1276 tokens (7%) have a non-empty value of `PronType`.
+171 types (3%) occur at least once with a non-empty value of `PronType`.
+26 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 6 part-of-speech tags: <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> (1267; 7% instances), <tt><a href="is_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="is_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="is_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-1269 <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `PronType`.
+1267 <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (954; 75%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (204; 16% of non-empty `PronType`): <em>þetta, það, þessi, þessum, þessa, því, þessu, sú, þeim, þeirra</em>
-* `Ind` (239; 19% of non-empty `PronType`): <em>allt, öðrum, engu, sama, einn, annað, aðrir, ekkert, hvert, allar</em>
+* `Dem` (203; 16% of non-empty `PronType`): <em>þetta, það, þessi, þessum, þessa, því, þessu, sú, þeim, þeirra</em>
+* `Ind` (238; 19% of non-empty `PronType`): <em>allt, öðrum, engu, sama, einn, annað, aðrir, ekkert, hvert, allar</em>
 * `Int` (24; 2% of non-empty `PronType`): <em>hvað, hver, hverju, Hverjar, hvor</em>
 * `Prs` (802; 63% of non-empty `PronType`): <em>hann, það, því, hún, ég, þess, hans, þeir, sér, við</em>
 * `EMPTY` (103): <em>sína, sinni, sínum, sitt, sínu, sinn, sín, minn, sínar, síns</em>
@@ -48,7 +48,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="is_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Hver</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 93% lemmas (25) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 92% lemmas (23) occur only with one value of `PronType`.
 
 ### `ADV`
 

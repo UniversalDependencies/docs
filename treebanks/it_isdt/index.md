@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Alessandro Lenci, Simonetta Montemagni, Maria Simi.
 
 Repository: [UD_Italian-ISDT](https://github.com/UniversalDependencies/UD_Italian-ISDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -221,6 +221,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
   <li>Plur
     <ul>
       <li>ADJ: altri, grandi, seguenti, nazionali, importanti, locali, altre, speciali, internazionali, italiani</li>
+      <li>ADP: quali</li>
       <li>AUX-Fin: sono, hanno, possono, erano, siano, devono, abbiamo, possiamo, siamo, vengono</li>
       <li>AUX-Part: stati, state, potuti</li>
       <li>DET: i, le, gli, tutti, suoi, alcuni, quanti, sue, questi, queste</li>
@@ -239,7 +240,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
   <li>Sing
     <ul>
       <li>ADJ: grande, presente, primo, comune, mondiale, prima, internazionale, nazionale, possibile, sociale</li>
-      <li>ADP: du</li>
+      <li>ADP: quale, du</li>
       <li>ADV: pochissimo</li>
       <li>AUX-Fin: è, ha, può, era, deve, sia, fu, viene, aveva, venne</li>
       <li>AUX-Part: stato, stata, potuto, dovuto, voluto, andato, potuta, andata, fatta, fatto</li>
@@ -516,7 +517,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: primo, prima, secondo, terzo, seconda, primi, ultimi, prime, ultimo, ii</li>
+      <li>ADJ: primo, prima, secondo, terzo, seconda, primi, prime, ultimi, ultimo, ii</li>
       <li>NUM: I</li>
     </ul>
   </li>
@@ -631,7 +632,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3774)</li>
+      <li>VERB-Fin--NOUN (3775)</li>
       <li>VERB-Fin--PRON (1880)</li>
       <li>VERB-Ger--NOUN (46)</li>
       <li>VERB-Ger--PRON (21)</li>

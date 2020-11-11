@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-AnCora: POS Tags: `DET`
 
-There are 51 `DET` lemmas (0%), 120 `DET` types (0%) and 73632 `DET` tokens (13%).
+There are 53 `DET` lemmas (0%), 122 `DET` types (0%) and 73638 `DET` tokens (13%).
 Out of 17 observed tags, the rank of `DET` is: 9 in number of lemmas, 10 in number of types and 3 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>el, uno, su, este, todo, otro, ese, alguno, mismo, mucho</em>
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>la</em> (<tt><a href="es_ancora-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.352941 (the average of all parts of speech is 1.502206).
+The form / lemma ratio of `DET` is 2.301887 (the average of all parts of speech is 1.502171).
 
 The 1st highest number of forms (5) was observed with the lemma “alguno”: <em>alguna, algunas, alguno, algunos, algún</em>.
 
@@ -66,22 +66,22 @@ The 2nd highest number of forms (5) was observed with the lemma “uno”: <em>u
 
 The 3rd highest number of forms (4) was observed with the lemma “aquel”: <em>aquel, aquella, aquellas, aquellos</em>.
 
-`DET` occurs with 9 features: <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt> (73632; 100% instances), <tt><a href="es_ancora-feat-Number.html">Number</a></tt> (73568; 100% instances), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt> (67973; 92% instances), <tt><a href="es_ancora-feat-Definite.html">Definite</a></tt> (61448; 83% instances), <tt><a href="es_ancora-feat-Person.html">Person</a></tt> (5406; 7% instances), <tt><a href="es_ancora-feat-Poss.html">Poss</a></tt> (5406; 7% instances), <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt> (496; 1% instances), <tt><a href="es_ancora-feat-Number-psor.html">Number[psor]</a></tt> (495; 1% instances), <tt><a href="es_ancora-feat-Degree.html">Degree</a></tt> (4; 0% instances)
+`DET` occurs with 10 features: <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt> (73638; 100% instances), <tt><a href="es_ancora-feat-Number.html">Number</a></tt> (73568; 100% instances), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt> (67973; 92% instances), <tt><a href="es_ancora-feat-Definite.html">Definite</a></tt> (61454; 83% instances), <tt><a href="es_ancora-feat-Person.html">Person</a></tt> (5406; 7% instances), <tt><a href="es_ancora-feat-Poss.html">Poss</a></tt> (5406; 7% instances), <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt> (496; 1% instances), <tt><a href="es_ancora-feat-Number-psor.html">Number[psor]</a></tt> (495; 1% instances), <tt><a href="es_ancora-feat-Foreign.html">Foreign</a></tt> (6; 0% instances), <tt><a href="es_ancora-feat-Degree.html">Degree</a></tt> (4; 0% instances)
 
-`DET` occurs with 21 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Degree=Abs`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Tot`
+`DET` occurs with 22 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Degree=Abs`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Tot`
 
-`DET` occurs with 69 feature combinations.
+`DET` occurs with 70 feature combinations.
 The most frequent feature combination is `Definite=Def|Gender=Fem|Number=Sing|PronType=Art` (20251 tokens).
 Examples: <em>la</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 19 different relations: <tt><a href="es_ancora-dep-det.html">det</a></tt> (73212; 99% instances), <tt><a href="es_ancora-dep-fixed.html">fixed</a></tt> (150; 0% instances), <tt><a href="es_ancora-dep-conj.html">conj</a></tt> (63; 0% instances), <tt><a href="es_ancora-dep-advmod.html">advmod</a></tt> (56; 0% instances), <tt><a href="es_ancora-dep-compound.html">compound</a></tt> (45; 0% instances), <tt><a href="es_ancora-dep-root.html">root</a></tt> (21; 0% instances), <tt><a href="es_ancora-dep-mark.html">mark</a></tt> (17; 0% instances), <tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt> (11; 0% instances), <tt><a href="es_ancora-dep-obl.html">obl</a></tt> (11; 0% instances), <tt><a href="es_ancora-dep-nmod.html">nmod</a></tt> (10; 0% instances), <tt><a href="es_ancora-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="es_ancora-dep-obj.html">obj</a></tt> (8; 0% instances), <tt><a href="es_ancora-dep-nsubj.html">nsubj</a></tt> (6; 0% instances), <tt><a href="es_ancora-dep-flat.html">flat</a></tt> (5; 0% instances), <tt><a href="es_ancora-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="es_ancora-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="es_ancora-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="es_ancora-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 19 different relations: <tt><a href="es_ancora-dep-det.html">det</a></tt> (73218; 99% instances), <tt><a href="es_ancora-dep-fixed.html">fixed</a></tt> (150; 0% instances), <tt><a href="es_ancora-dep-conj.html">conj</a></tt> (63; 0% instances), <tt><a href="es_ancora-dep-advmod.html">advmod</a></tt> (56; 0% instances), <tt><a href="es_ancora-dep-compound.html">compound</a></tt> (45; 0% instances), <tt><a href="es_ancora-dep-root.html">root</a></tt> (21; 0% instances), <tt><a href="es_ancora-dep-mark.html">mark</a></tt> (17; 0% instances), <tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt> (11; 0% instances), <tt><a href="es_ancora-dep-obl.html">obl</a></tt> (11; 0% instances), <tt><a href="es_ancora-dep-nmod.html">nmod</a></tt> (10; 0% instances), <tt><a href="es_ancora-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="es_ancora-dep-obj.html">obj</a></tt> (8; 0% instances), <tt><a href="es_ancora-dep-nsubj.html">nsubj</a></tt> (6; 0% instances), <tt><a href="es_ancora-dep-flat.html">flat</a></tt> (5; 0% instances), <tt><a href="es_ancora-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="es_ancora-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="es_ancora-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="es_ancora-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 15 different parts of speech: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (60914; 83% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (6894; 9% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (1326; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1278; 2% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (1204; 2% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (1019; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (540; 1% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (232; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (154; 0% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (32; 0% instances),  (21; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="es_ancora-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 15 different parts of speech: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (60914; 83% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (6900; 9% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (1326; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1278; 2% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (1204; 2% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (1019; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (540; 1% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (232; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (154; 0% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (32; 0% instances),  (21; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="es_ancora-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-X.html">X</a></tt> (1; 0% instances)
 
-71006 (96%) `DET` nodes are leaves.
+71012 (96%) `DET` nodes are leaves.
 
 2013 (3%) `DET` nodes have one child.
 

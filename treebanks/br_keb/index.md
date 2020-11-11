@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Francis Tyers.
 
 Repository: [UD_Breton-KEB](https://github.com/UniversalDependencies/UD_Breton-KEB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbr_keb26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbr_keb27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -78,7 +78,7 @@ year = 2018
 
 ## POS Tags
 
-[ADJ](br_keb-pos-ADJ.html) – [ADP](br_keb-pos-ADP.html) – [ADV](br_keb-pos-ADV.html) – [CCONJ](br_keb-pos-CCONJ.html) – [DET](br_keb-pos-DET.html) – [INTJ](br_keb-pos-INTJ.html) – [NOUN](br_keb-pos-NOUN.html) – [NUM](br_keb-pos-NUM.html) – [PART](br_keb-pos-PART.html) – [PRON](br_keb-pos-PRON.html) – [PROPN](br_keb-pos-PROPN.html) – [PUNCT](br_keb-pos-PUNCT.html) – [SCONJ](br_keb-pos-SCONJ.html) – [SYM](br_keb-pos-SYM.html) – [VERB](br_keb-pos-VERB.html) – [X](br_keb-pos-X.html)
+[ADJ](br_keb-pos-ADJ.html) – [ADP](br_keb-pos-ADP.html) – [ADV](br_keb-pos-ADV.html) – [AUX](br_keb-pos-AUX.html) – [CCONJ](br_keb-pos-CCONJ.html) – [DET](br_keb-pos-DET.html) – [INTJ](br_keb-pos-INTJ.html) – [NOUN](br_keb-pos-NOUN.html) – [NUM](br_keb-pos-NUM.html) – [PART](br_keb-pos-PART.html) – [PRON](br_keb-pos-PRON.html) – [PROPN](br_keb-pos-PROPN.html) – [PUNCT](br_keb-pos-PUNCT.html) – [SCONJ](br_keb-pos-SCONJ.html) – [SYM](br_keb-pos-SYM.html) – [VERB](br_keb-pos-VERB.html) – [X](br_keb-pos-X.html)
 
 ## Features
 
@@ -86,7 +86,7 @@ year = 2018
 
 ## Relations
 
-[acl](br_keb-dep-acl.html) – [acl:focus](br_keb-dep-acl-focus.html) – [acl:relcl](br_keb-dep-acl-relcl.html) – [advcl](br_keb-dep-advcl.html) – [advmod](br_keb-dep-advmod.html) – [advmod:neg](br_keb-dep-advmod-neg.html) – [amod](br_keb-dep-amod.html) – [appos](br_keb-dep-appos.html) – [aux](br_keb-dep-aux.html) – [aux:pass](br_keb-dep-aux-pass.html) – [case](br_keb-dep-case.html) – [cc](br_keb-dep-cc.html) – [ccomp](br_keb-dep-ccomp.html) – [compound](br_keb-dep-compound.html) – [conj](br_keb-dep-conj.html) – [cop](br_keb-dep-cop.html) – [csubj](br_keb-dep-csubj.html) – [dep](br_keb-dep-dep.html) – [det](br_keb-dep-det.html) – [discourse](br_keb-dep-discourse.html) – [dislocated](br_keb-dep-dislocated.html) – [expl](br_keb-dep-expl.html) – [fixed](br_keb-dep-fixed.html) – [fixed:name](br_keb-dep-fixed-name.html) – [flat:name](br_keb-dep-flat-name.html) – [list](br_keb-dep-list.html) – [mark](br_keb-dep-mark.html) – [nmod](br_keb-dep-nmod.html) – [nmod:gen](br_keb-dep-nmod-gen.html) – [nmod:poss](br_keb-dep-nmod-poss.html) – [nsubj](br_keb-dep-nsubj.html) – [nsubj:appos](br_keb-dep-nsubj-appos.html) – [nsubj:cop](br_keb-dep-nsubj-cop.html) – [nummod](br_keb-dep-nummod.html) – [obj](br_keb-dep-obj.html) – [obl](br_keb-dep-obl.html) – [obl:agent](br_keb-dep-obl-agent.html) – [obl:x](br_keb-dep-obl-x.html) – [orphan](br_keb-dep-orphan.html) – [parataxis](br_keb-dep-parataxis.html) – [punct](br_keb-dep-punct.html) – [root](br_keb-dep-root.html) – [vocative](br_keb-dep-vocative.html) – [xcomp](br_keb-dep-xcomp.html)
+[acl](br_keb-dep-acl.html) – [acl:focus](br_keb-dep-acl-focus.html) – [acl:relcl](br_keb-dep-acl-relcl.html) – [advcl](br_keb-dep-advcl.html) – [advmod](br_keb-dep-advmod.html) – [advmod:neg](br_keb-dep-advmod-neg.html) – [amod](br_keb-dep-amod.html) – [appos](br_keb-dep-appos.html) – [aux](br_keb-dep-aux.html) – [aux:pass](br_keb-dep-aux-pass.html) – [case](br_keb-dep-case.html) – [cc](br_keb-dep-cc.html) – [ccomp](br_keb-dep-ccomp.html) – [compound](br_keb-dep-compound.html) – [conj](br_keb-dep-conj.html) – [cop](br_keb-dep-cop.html) – [csubj](br_keb-dep-csubj.html) – [dep](br_keb-dep-dep.html) – [det](br_keb-dep-det.html) – [discourse](br_keb-dep-discourse.html) – [dislocated](br_keb-dep-dislocated.html) – [expl](br_keb-dep-expl.html) – [fixed](br_keb-dep-fixed.html) – [flat:name](br_keb-dep-flat-name.html) – [list](br_keb-dep-list.html) – [mark](br_keb-dep-mark.html) – [nmod](br_keb-dep-nmod.html) – [nmod:gen](br_keb-dep-nmod-gen.html) – [nmod:poss](br_keb-dep-nmod-poss.html) – [nsubj](br_keb-dep-nsubj.html) – [nsubj:appos](br_keb-dep-nsubj-appos.html) – [nsubj:cop](br_keb-dep-nsubj-cop.html) – [nummod](br_keb-dep-nummod.html) – [obj](br_keb-dep-obj.html) – [obl](br_keb-dep-obl.html) – [obl:agent](br_keb-dep-obl-agent.html) – [obl:x](br_keb-dep-obl-x.html) – [orphan](br_keb-dep-orphan.html) – [parataxis](br_keb-dep-parataxis.html) – [punct](br_keb-dep-punct.html) – [root](br_keb-dep-root.html) – [vocative](br_keb-dep-vocative.html) – [xcomp](br_keb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -100,11 +100,11 @@ year = 2018
 </ul>
 
 <ul>
-<li>This corpus contains 34 types of words with spaces. Examples: en deus, he deus, o deus, am eus, em eus, ez eus, o doa, en doa, hon eus, Bro Leon, hoc'h eus, ar pezh, en o zouez, he devoa, 100 000, 15 %, 16 345, 20 %, 40 %, 50 %, 60 %, Er maez, Ho pet, ar re all, banelloù hent, em boa, he do, ho peus, ho pez, ho po, ho poa, hoc’h eus, kentelioù noz, o do</li>
+<li>This corpus contains 35 types of words with spaces. Examples: en deus, he deus, o deus, am eus, em eus, ez eus, o doa, en doa, hon eus, Bro Leon, hoc'h eus, ar pezh, en o zouez, he devoa, 100 000, 15 %, 16 345, 20 %, 40 %, 50 %, 60 %, Er maez, Ho pet, ar re all, banelloù hent, em boa, he do, ho peus, ho pez, ho po, ho poa, hoc’h eus, kentelioù noz, o do, r Poulgwenn</li>
 </ul>
 
 <ul>
-<li>This corpus contains 351 types of words that contain both letters and punctuation. Examples: -se, n', -mañ, e-pad, d', plac'h, a-benn, diwar-benn, c'hoant, en-dro, a-raok, a-walc'h, arc'hant, merc'hed, war-raok, a-hed, c'hoazh, c’hinnig, hoc'h, labourer-douar, -me, -tre, c'haller, c'hoari, c'hoariva, dibenn-sizhun, e-barzh, evel-se, gambrig-kousket, lec'h, pelec'h, tro-dro, war-dro, 'vit, -hi, -kenañ, Bro-Saoz, Kuzul-rannvro, a-bouez, aesoc'h, c'harr, c'heller, c'hellfe, c'hinnig, c'hornôg, c'hounit, dec'h, derc'hel, dispac'h, doare-skrivañ</li>
+<li>This corpus contains 343 types of words that contain both letters and punctuation. Examples: d', -se, n', -mañ, oc'h, e-pad, plac'h, a-benn, diwar-benn, d’, c'hoant, en-dro, -tre, a-raok, a-walc'h, arc'hant, merc'hed, war-raok, a-hed, c'hoazh, c’hinnig, hoc'h, labourer-douar, -me, c'haller, c'hoari, c'hoariva, dibenn-sizhun, e-barzh, evel-se, gambrig-kousket, lec'h, pelec'h, tro-dro, war-dro, 'vit, -hi, -kenañ, Bro-Saoz, Kuzul-rannvro, a-bouez, aesoc'h, c'harr, c'heller, c'hellfe, c'hinnig, c'hornôg, c'hounit, dec'h, derc'hel</li>
 </ul>
 
 <ul>
@@ -117,12 +117,11 @@ year = 2018
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: AUX</li>
+<li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 </ul>
 
 <ul>
-<li>This corpus contains 11 word types tagged as particles (PART): ', a, e, em, ez, na, o, oc'h, oc’h, ra, ur</li>
+<li>This corpus contains 1 word types tagged as particles (PART): na</li>
 </ul>
 
 <ul>
@@ -138,10 +137,11 @@ year = 2018
 </ul>
 
 <ul>
-<li>This corpus contains 0 lemmas tagged as auxiliaries (AUX): </li>
+<li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): a, bezañ, dleout, e, en, gallout, gellout, kaout, na, o, ober, ra, rankout</li>
 </ul>
 
 <ul>
+<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: bezañ, gallout, gellout, kaout, ober, rankout</li>
 </ul>
 
 <ul>
@@ -151,7 +151,8 @@ year = 2018
 <ul>
   <li>Fin
   <ul>
-    <li>VERB: eo, oa, vo, zo, ra, vez, en deus, voe, emañ, ran</li>
+    <li>AUX: eo, oa, vo, zo, vez, ra, en deus, voe, emañ, ran</li>
+    <li>VERB: ra, welas, zeuy, gavo, lennont, wel, ya, yelo, c'haller, eo</li>
   </ul>
   </li>
 </ul>
@@ -159,7 +160,8 @@ year = 2018
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: dont, ober, bezañ, labourat, vont, kinnig, chom, debriñ, gwelout, kanañ</li>
+    <li>AUX: bezañ, vezañ, Rankout, Bez', Gallout, dleout, gellout, vout</li>
+    <li>VERB: dont, ober, labourat, vont, kinnig, chom, debriñ, gwelout, kanañ, Kerzhout</li>
   </ul>
   </li>
 </ul>
@@ -167,7 +169,8 @@ year = 2018
 <ul>
   <li>Part
   <ul>
-    <li>VERB: bet, kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, lakaet, savet</li>
+    <li>AUX: bet, graet, gellet</li>
+    <li>VERB: kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, lakaet, savet, aet</li>
   </ul>
   </li>
 </ul>
@@ -182,11 +185,12 @@ year = 2018
 <ul>
   <li>Fem
     <ul>
+      <li>AUX-Fin: he deus, he devoa, he do</li>
       <li>NOUN: yezh, vro, rannvro, bro, gevredigezh, gêr, plac'h, amzer, stad, wetur</li>
       <li>NUM: div, peder, teir</li>
-      <li>PRON: i, _, hi, anezhi, nni, -hi, he, zi, Honnezh, eben</li>
+      <li>PRON: i, hi, anezhi, -hi, he, zi, Honnezh, eben, hounnezh, ni</li>
       <li>PROPN: Lenaig, Mari, Mona, Morwenna, Anna, Janed, Nolwenn, Stéphanie</li>
-      <li>VERB-Fin: he deus, he devoa, he do</li>
+      <li>VERB-Fin: he deus, he devoa</li>
     </ul>
   </li>
 </ul>
@@ -194,11 +198,11 @@ year = 2018
 <ul>
   <li>Masc
     <ul>
+      <li>AUX-Fin: en deus, en doa</li>
       <li>NOUN: levr, dud, den, ti, brezhoneg, labour, vugale, istor, tud, traoù</li>
       <li>NUM: daou, tri, dri, pevar, zaou</li>
-      <li>PRON: _, añ, Hemañ, anezhañ, E, Hennezh, egile, nañ, nnañ</li>
+      <li>PRON: añ, Hemañ, anezhañ, E, Hennezh, egile, nañ, nnañ</li>
       <li>PROPN: Yann, Yannig, Divi, Fañch, Lan, Nevenoe, Iañ, Loeiz, Ber, Eric</li>
-      <li>VERB-Fin: en deus, en doa</li>
     </ul>
   </li>
 </ul>
@@ -211,13 +215,14 @@ year = 2018
 <ul>
   <li>Plur
     <ul>
+      <li>AUX-Fin: o deus, o doa, emaint, hon eus, int, raent, reont, c'hellit, oant, rit</li>
       <li>DET: a</li>
       <li>NOUN: dud, vugale, tud, traoù, preudeur, merc'hed, rannvroioù, skolioù, skeudennoù, wazed</li>
       <li>NUM: daou, 2007, 4, 000, 1950, 20, 3, 30, 10, 2</li>
-      <li>PRON: h, _, holl, o, int, anezho, ar re all, c'hwi, Ni, anezhe</li>
+      <li>PRON: o, oc'h, holl, int, anezho, imp, omp, ar re all, c'hwi, e</li>
       <li>PROPN: Stadoù-Unanet</li>
-      <li>VERB: o deus, tennit, lennont, o doa, gavint, hon eus, klaskit, meskit, Lakait, emaint</li>
-      <li>VERB-Fin: o deus, lennont, o doa, gavint, hon eus, emaint, hoc'h eus, int, raent, reont</li>
+      <li>VERB: tennit, lennont, gavint, klaskit, meskit, Lakait, hoc'h eus, Ouzhpennit, Treuzit, garont</li>
+      <li>VERB-Fin: lennont, gavint, hoc'h eus, garont, ouzont, Gwelomp, Labourit, Lakait, Sellit, brenit</li>
     </ul>
   </li>
 </ul>
@@ -226,13 +231,15 @@ year = 2018
   <li>Sing
     <ul>
       <li>ADJ: kent</li>
+      <li>AUX: eo, oa, vo, zo, vez, ra, en deus, voe, emañ, ran</li>
+      <li>AUX-Fin: eo, oa, vo, zo, vez, ra, en deus, voe, emañ, ran</li>
       <li>DET: bep, pep, kement</li>
       <li>NOUN: levr, den, ti, brezhoneg, labour, yezh, vro, istor, rannvro, bro</li>
       <li>NUM: unan, 1, 1añ, 23e, 5e, IXvet, XVIIvet, 31añ</li>
-      <li>PRON: _, me, hini, i, añ, netra, a, hi, re, -me</li>
+      <li>PRON: me, in, i, añ, hini, netra, a, hi, re, -me</li>
       <li>PROPN: Breizh, Yann, Pariz, Frañs, Kembre, Yannig, Lenaig, Naoned, Brezhoneg, Europa</li>
-      <li>VERB: eo, oa, vo, zo, ra, vez, en deus, voe, emañ, ran</li>
-      <li>VERB-Fin: eo, oa, vo, zo, ra, vez, en deus, voe, emañ, ran</li>
+      <li>VERB: ra, welas, zeuy, gavo, wel, ya, yelo, eo, fell, labour</li>
+      <li>VERB-Fin: ra, welas, zeuy, gavo, wel, ya, yelo, eo, fell, labour</li>
     </ul>
   </li>
 </ul>
@@ -244,7 +251,7 @@ year = 2018
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: _, h, o, i, añ, anezhi, nni, anezhañ, anezho, E</li>
+      <li>PRON: in, o, oc'h, i, añ, anezhi, e, anezhañ, anezho, imp</li>
     </ul>
   </li>
 </ul>
@@ -290,6 +297,7 @@ year = 2018
   <li>Neg
     <ul>
       <li>ADV: ne, n', Ne'z, n’</li>
+      <li>AUX: na</li>
       <li>PART: na</li>
     </ul>
   </li>
@@ -306,7 +314,8 @@ year = 2018
 <ul>
   <li>Hab
     <ul>
-      <li>VERB-Fin: vez, veze, ho pez, vezit, vezont</li>
+      <li>AUX-Fin: vez, veze, vezit, vezont</li>
+      <li>VERB-Fin: ho pez</li>
     </ul>
   </li>
 </ul>
@@ -318,7 +327,8 @@ year = 2018
 <ul>
   <li>Cnd
     <ul>
-      <li>VERB: vefe, c'hellfe, c'hallfe, rafe, ve, blijfe, c'hanfe, ganfe, kollfemp, lavarfen</li>
+      <li>AUX: vefe, c'hellfe, rafe, ve, c'hallfe, rafen, vefen</li>
+      <li>VERB: vefe, blijfe, c'hallfe, c'hanfe, ganfe, kollfemp, lavarfen, ouifemp, teufe, virfe</li>
     </ul>
   </li>
 </ul>
@@ -326,7 +336,8 @@ year = 2018
 <ul>
   <li>Ind
     <ul>
-      <li>VERB-Fin: eo, oa, vo, zo, ra, en deus, emañ, ran, he deus, o deus</li>
+      <li>AUX-Fin: eo, oa, vo, zo, ra, en deus, emañ, ran, he deus, o deus</li>
+      <li>VERB-Fin: ra, zeuy, gavo, lennont, wel, ya, yelo, c'haller, eo, fell</li>
     </ul>
   </li>
 </ul>
@@ -334,7 +345,7 @@ year = 2018
 <ul>
   <li>Opt
     <ul>
-      <li>PART: ra</li>
+      <li>AUX: ra</li>
     </ul>
   </li>
 </ul>
@@ -346,7 +357,8 @@ year = 2018
 <ul>
   <li>Fut
     <ul>
-      <li>VERB-Fin: vo, rin, zeuy, gavo, raio, yelo, gavint, teuio, kavo, ranko</li>
+      <li>AUX-Fin: vo, rin, raio, ranko, c'hellin, c'helloc'h, he do, raint, reoc'h, reot</li>
+      <li>VERB-Fin: zeuy, gavo, yelo, gavint, teuio, kavo, chomo, in, vo, brenin</li>
     </ul>
   </li>
 </ul>
@@ -354,8 +366,10 @@ year = 2018
 <ul>
   <li>Past
     <ul>
-      <li>VERB-Fin: oa, voe, reas, veze, welas, o doa, en doa, raent, c'helle, chomas</li>
-      <li>VERB-Part: bet, kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, lakaet, savet</li>
+      <li>AUX-Fin: oa, voe, reas, veze, en doa, o doa, raent, oant, raen, edon</li>
+      <li>AUX-Part: bet, graet, gellet</li>
+      <li>VERB-Fin: welas, oa, c'helle, chomas, gane, gontas, lavaras, talveze, aloubas, anaveze</li>
+      <li>VERB-Part: kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, lakaet, savet, aet</li>
     </ul>
   </li>
 </ul>
@@ -363,7 +377,8 @@ year = 2018
 <ul>
   <li>Pres
     <ul>
-      <li>VERB-Fin: eo, zo, ra, vez, en deus, emañ, ran, he deus, o deus, am eus</li>
+      <li>AUX-Fin: eo, zo, vez, ra, en deus, emañ, ran, he deus, o deus, am eus</li>
+      <li>VERB-Fin: ra, lennont, wel, ya, c'haller, eo, fell, labour, sav, blij</li>
     </ul>
   </li>
 </ul>
@@ -389,7 +404,7 @@ year = 2018
   <li>Int
     <ul>
       <li>ADJ: peseurt</li>
-      <li>ADV: penaos, pelec'h, Perak, Pegement, Pegoulz, pegen</li>
+      <li>ADV: penaos, pelec'h, Perak, Petra, Pegement, Pegoulz, pegen</li>
       <li>DET: Peseurt</li>
       <li>PRON: piv, petra, hag-eñ</li>
     </ul>
@@ -399,7 +414,7 @@ year = 2018
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: _, me, h, o, i, añ, hi, int, -me, anezhi</li>
+      <li>PRON: me, in, o, oc'h, i, añ, hi, int, -me, anezhi</li>
     </ul>
   </li>
 </ul>
@@ -444,7 +459,7 @@ year = 2018
 <ul>
   <li>Yes
     <ul>
-      <li>PART: em</li>
+      <li>AUX: en</li>
     </ul>
   </li>
 </ul>
@@ -456,9 +471,11 @@ year = 2018
 <ul>
   <li>1
     <ul>
-      <li>PRON: _, me, -me, Ni, Va, ac'hanon, am</li>
-      <li>VERB: ran, am eus, em eus, on, rin, hon eus, lennan, welan, brenan, emaon</li>
-      <li>VERB-Fin: ran, am eus, em eus, on, rin, hon eus, lennan, welan, brenan, emaon</li>
+      <li>AUX: ran, am eus, em eus, on, rin, hon eus, emaon, raen, c'hellan, c'hellin</li>
+      <li>AUX-Fin: ran, am eus, em eus, on, rin, hon eus, emaon, raen, c'hellan, c'hellin</li>
+      <li>PRON: me, in, -me, imp, omp, Ni, Va, ac'hanon, am</li>
+      <li>VERB: lennan, welan, brenan, in, Gwelomp, ajen, am eus, anavezan, brenin, brenomp</li>
+      <li>VERB-Fin: lennan, welan, brenan, in, Gwelomp, am eus, anavezan, brenin, brenomp, daolimp</li>
     </ul>
   </li>
 </ul>
@@ -466,9 +483,10 @@ year = 2018
 <ul>
   <li>2
     <ul>
-      <li>PRON: h, _, c'hwi, az</li>
-      <li>VERB: tennit, klaskit, meskit, out, Lakait, hoc'h eus, rit, Ouzhpennit, Treuzit, c'hellit</li>
-      <li>VERB-Fin: out, hoc'h eus, rit, c'hellit, Emaout, Labourit, Lakait, Sellit, brenit, c'helloc'h</li>
+      <li>AUX-Fin: out, c'hellit, rit, Emaout, c'helloc'h, ho peus, ho poa, reoc'h, reot, rez</li>
+      <li>PRON: oc'h, it, c'hwi, az, c'h</li>
+      <li>VERB: tennit, klaskit, meskit, Lakait, hoc'h eus, Ouzhpennit, Treuzit, klikit, pouezit, selaouit</li>
+      <li>VERB-Fin: hoc'h eus, Labourit, Lakait, Sellit, brenit, dizhoc'h, eskemmit, ho pez, ho po, hoc’h eus</li>
     </ul>
   </li>
 </ul>
@@ -476,9 +494,11 @@ year = 2018
 <ul>
   <li>3
     <ul>
-      <li>PRON: _, o, i, añ, hi, int, anezhi, nni, -hi, anezhañ</li>
-      <li>VERB: eo, oa, vo, zo, ra, vez, en deus, voe, emañ, vefe</li>
-      <li>VERB-Fin: eo, oa, vo, zo, ra, vez, en deus, voe, emañ, he deus</li>
+      <li>AUX: eo, oa, vo, zo, vez, ra, en deus, voe, emañ, he deus</li>
+      <li>AUX-Fin: eo, oa, vo, zo, vez, ra, en deus, voe, emañ, he deus</li>
+      <li>PRON: o, i, añ, hi, int, anezhi, e, -hi, anezhañ, anezho</li>
+      <li>VERB: ra, welas, zeuy, gavo, lennont, wel, ya, yelo, eo, fell</li>
+      <li>VERB-Fin: ra, welas, zeuy, gavo, lennont, wel, ya, yelo, eo, fell</li>
     </ul>
   </li>
 </ul>
@@ -486,7 +506,8 @@ year = 2018
 <ul>
   <li>Auto
     <ul>
-      <li>VERB-Fin: reer, c'haller, c'heller, adkaver, eus, c'haver, c'houlenner, c’haller, eur, gaver</li>
+      <li>AUX-Fin: reer, c'heller, eus, eur, ranker, tleer</li>
+      <li>VERB-Fin: c'haller, adkaver, c'haver, c'houlenner, c’haller, gaver, gomzer, lenner, ouzer, ouzhpenner</li>
     </ul>
   </li>
 </ul>
@@ -525,7 +546,7 @@ year = 2018
 </ul>
 
 <ul>
-<li>This corpus uses 17 lemmas as auxiliaries (<a>aux</a>). Examples: a, e, bezañ, ober, kaout, o, em, gellout, na, ur, rankout, dleout, gallout, ket, ha, ne, ra.</li>
+<li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: a, e, bezañ, ober, kaout, o, en, gellout, na, rankout, dleout, gallout, ra.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bezañ.</li>
 </ul>
 
@@ -545,7 +566,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN (33)</li>
       <li>VERB-Inf--PRON-Nom (6)</li>
       <li>VERB-Part--NOUN (140)</li>
-      <li>VERB-Part--NOUN-ADP(a) (1)</li>
+      <li>VERB-Part--NOUN-ADP(nebeutoc’h) (1)</li>
       <li>VERB-Part--NOUN-ADP(war-wel) (1)</li>
       <li>VERB-Part--PRON (6)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
@@ -557,7 +578,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (26)</li>
-      <li>VERB--NOUN-ADP(a) (1)</li>
+      <li>VERB--NOUN-ADP(kalz) (1)</li>
       <li>VERB--PRON-Acc (2)</li>
       <li>VERB-Fin--NOUN (95)</li>
       <li>VERB-Fin--PRON (1)</li>
@@ -587,7 +608,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 12 relation subtypes: <a>acl:focus</a>, <a>acl:relcl</a>, <a>advmod:neg</a>, <a>aux:pass</a>, <a>fixed:name</a>, <a>flat:name</a>, <a>nmod:gen</a>, <a>nmod:poss</a>, <a>nsubj:appos</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:x</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:focus</a>, <a>acl:relcl</a>, <a>advmod:neg</a>, <a>aux:pass</a>, <a>flat:name</a>, <a>nmod:gen</a>, <a>nmod:poss</a>, <a>nsubj:appos</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:x</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

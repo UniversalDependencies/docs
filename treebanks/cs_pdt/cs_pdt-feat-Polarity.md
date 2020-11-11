@@ -11,7 +11,7 @@ It occurs with 2 different values: `Neg`, `Pos`.
 
 832058 tokens (55%) have a non-empty value of `Polarity`.
 136462 types (106%) occur at least once with a non-empty value of `Polarity`.
-53732 lemmas (92%) occur at least once with a non-empty value of `Polarity`.
+53723 lemmas (92%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 7 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (372359; 25% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (181484; 12% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (135464; 9% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (84032; 6% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (32502; 2% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (25065; 2% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (1152; 0% instances).
 
 ### `NOUN`
@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>státy</em></td><td></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `NOUN`. 99% lemmas (17731) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `NOUN`. 99% lemmas (17730) occur only with one value of `Polarity`.
 
 ### `ADJ`
 
@@ -110,7 +110,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
   <tr><td><tt><tt><a href="cs_pdt-feat-Hyph.html">Hyph</a></tt><tt>=Yes</tt></tt></td><td><em>česko</em></td><td></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `ADJ`. 95% lemmas (13058) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `ADJ`. 95% lemmas (13057) occur only with one value of `Polarity`.
 
 ### `VERB`
 
@@ -154,7 +154,7 @@ The most frequent other feature values with which `PROPN` and `Polarity` co-occu
 
 * `Pos` (84032; 100% of non-empty `Polarity`): <em>Praha, ČR, Praze, LN, ODS, USA, J, Jiří, Jan, OSN</em>
 
-`Polarity` seems to be **lexical feature** of `PROPN`. 100% lemmas (15371) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `PROPN`. 100% lemmas (15370) occur only with one value of `Polarity`.
 
 ### `AUX`
 

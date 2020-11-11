@@ -75,9 +75,9 @@ Examples: <em>жизнь, Серия, пропитка, любовь, парти
 
 Parents of `NOUN` nodes belong to 17 different parts of speech: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (7537; 51% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (4647; 32% instances),  (977; 7% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (548; 4% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (237; 2% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (199; 1% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (161; 1% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (108; 1% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (77; 1% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (45; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (37; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (21; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (11; 0% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-3274 (22%) `NOUN` nodes are leaves.
+3275 (22%) `NOUN` nodes are leaves.
 
-5457 (37%) `NOUN` nodes have one child.
+5456 (37%) `NOUN` nodes have one child.
 
 3387 (23%) `NOUN` nodes have two children.
 

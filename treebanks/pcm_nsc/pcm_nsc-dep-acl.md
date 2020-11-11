@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `acl`: <tt><a href="pcm_nsc-dep-acl-periph.html">acl:periph</a></tt>, <tt><a href="pcm_nsc-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-107 nodes (0%) are attached to their parents as `acl`.
+139 nodes (0%) are attached to their parents as `acl`.
 
-74 instances of `acl` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.71028037383178.
+95 instances of `acl` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.65467625899281.
 
-The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (83; 78% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (9; 8% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (9; 8% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `acl`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (106; 76% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (11; 8% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (11; 8% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -27,19 +27,19 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 2	to	to	ADP	_	_	3	mark	_	AlignBegin=45790|AlignEnd=45910|Gloss=to
 3	see	see	VERB	_	_	15	dislocated	_	AlignBegin=45910|AlignEnd=46198|Gloss=see
 4	money	money	NOUN	_	_	3	obj	_	AlignBegin=46198|AlignEnd=46608|Gloss=money
-5	#	#	PUNCT	_	_	7	punct	_	AlignBegin=46638|AlignEnd=46976|Gloss=PUNCT
+5	#	#	X	_	_	7	dep	_	AlignBegin=46638|AlignEnd=46976|Gloss=PUNCT
 6	to	to	ADP	_	_	7	mark	_	AlignBegin=46976|AlignEnd=47076|Gloss=to
 7	buy	buy	VERB	_	_	4	acl	_	AlignBegin=47076|AlignEnd=47266|Gloss=buy
 8	tins	ting	NOUN	_	Number=Plur	7	obj	_	AlignBegin=47266|AlignEnd=47566|Gloss=thing.PL
 9	self	sef	PART	_	PartType=Disc	7	advmod:emph	_	AlignBegin=47566|AlignEnd=47850|Gloss=FOC
-10	<	<	PUNCT	_	_	3	punct	_	AlignBegin=47850|AlignEnd=47880|Gloss=PUNCT
-11	#	#	PUNCT	_	_	3	punct	_	AlignBegin=47880|AlignEnd=48320|Gloss=PUNCT
+10	<	<	X	_	_	3	dep	_	AlignBegin=47850|AlignEnd=47880|Gloss=PUNCT
+11	#	#	X	_	_	3	dep	_	AlignBegin=47880|AlignEnd=48320|Gloss=PUNCT
 12	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	AlignBegin=48320|AlignEnd=48390|Gloss=NOM.2
 13	no	no	PART	_	Polarity=Neg	15	advmod	_	AlignBegin=48390|AlignEnd=48480|Gloss=NEG
 14	go	go	AUX	_	Aspect=Prosp	15	aux	_	AlignBegin=48480|AlignEnd=48590|Gloss=PROSP
 15	see	see	VERB	_	_	0	root	_	AlignBegin=48590|AlignEnd=48790|Gloss=see
 16	money	money	NOUN	_	_	15	obj	_	AlignBegin=48790|AlignEnd=48960|Gloss=money
-17	//	//	PUNCT	_	_	15	punct	_	AlignBegin=48960|AlignEnd=48990|Gloss=PUNCT
+17	//	//	X	_	_	15	dep	_	AlignBegin=48960|AlignEnd=48990|Gloss=PUNCT
 
 ~~~
 
@@ -58,22 +58,34 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 6	where	where	ADV	_	PronType=Int	5	obj	_	AlignBegin=76480|AlignEnd=76659|Gloss=where.Q
 7	to	to	ADP	_	_	8	mark	_	AlignBegin=76659|AlignEnd=76784|Gloss=to
 8	start	start	VERB	_	_	6	acl	_	AlignBegin=76784|AlignEnd=77370|Gloss=start
-9	!//	!//	PUNCT	_	_	5	punct	_	AlignBegin=77370|AlignEnd=77400|Gloss=PUNCT
+9	!//	!//	X	_	_	5	dep	_	AlignBegin=77370|AlignEnd=77400|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 acl	color:blue
-1	notin	notin	PRON	_	_	0	root	_	AlignBegin=260320|AlignEnd=260680|Gloss=nothing
-2	to	to	ADP	_	_	3	mark	_	AlignBegin=260680|AlignEnd=260890|Gloss=to
-3	do	do	VERB	_	_	1	acl	_	AlignBegin=260890|AlignEnd=261110|Gloss=do
-4	sef	sef	PART	_	PartType=Disc	1	advmod:emph	_	AlignBegin=261110|AlignEnd=261403|Gloss=FOC
-5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=261403|AlignEnd=261433|Gloss=PUNCT
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 16 acl	color:blue
+1	if	if	SCONJ	_	_	3	mark	_	AlignBegin=30313|AlignEnd=30450|Gloss=if|Lang=en
+2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	AlignBegin=30450|AlignEnd=30510|Gloss=NOM.2|Lang=en
+3	gave	give	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	13	advcl:periph	_	AlignBegin=30510|AlignEnd=30790|Gloss=give.IND.PST.FIN|Lang=en
+4	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	AlignBegin=30790|AlignEnd=30903|Gloss=ACC.SG.1|Lang=en
+5	answer	answer	NOUN	_	_	3	obj	_	AlignBegin=30903|AlignEnd=31490|Gloss=answer|Lang=en
+6	<	<	X	_	_	9	dep	_	AlignBegin=31490|AlignEnd=31520|Gloss=PUNCT
+7	#	#	X	_	_	9	dep	_	AlignBegin=31520|AlignEnd=31768|Gloss=PUNCT
+8	from	from	ADP	_	_	9	case	_	AlignBegin=31768|AlignEnd=31960|Gloss=from|Lang=en
+9	dere	dere	ADV	_	_	3	obl:mod	_	AlignBegin=31960|AlignEnd=32222|Gloss=there|Lang=en
+10	<	<	X	_	_	3	dep	_	AlignBegin=32222|AlignEnd=32252|Gloss=PUNCT
+11	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	AlignBegin=32252|AlignEnd=32370|Gloss=NOM.SG.1|Lang=en
+12	will	will	AUX	_	VerbForm=Fin	13	aux	_	AlignBegin=32370|AlignEnd=32540|Gloss=FUT|Lang=en
+13	know	know	VERB	_	_	0	root	_	AlignBegin=32540|AlignEnd=32795|Gloss=know|Lang=en
+14	what	what	PRON	_	PronType=Int	13	obj	_	AlignBegin=32795|AlignEnd=33016|Gloss=what.Q|Lang=en
+15	to	to	ADP	_	_	16	mark	_	AlignBegin=33016|AlignEnd=33133|Gloss=to|Lang=en
+16	do	do	VERB	_	_	14	acl	_	AlignBegin=33133|AlignEnd=33350|Gloss=do|Lang=en
+17	//	//	X	_	_	13	dep	_	AlignBegin=33350|AlignEnd=33380|Gloss=PUNCT
 
 ~~~
 

@@ -29,7 +29,7 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 5	por	_	ADP	IN	_	4	fixed	_	_
 6	todas	_	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
 7	y	_	CCONJ	CC	_	9	cc	_	_
-8	a	_	ADP	IN	_	9	mark	_	_
+8	a	_	SCONJ	IN	_	9	mark	_	_
 9	intentar	_	VERB	VB	Aspect=Imp|VerbForm=Fin|Voice=Act	6	conj	_	_
 10	ganar	_	VERB	VB	Aspect=Imp|VerbForm=Fin|Voice=Act	9	xcomp	_	_
 11	a	_	ADP	IN	_	12	case	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-20292 nodes (5%) are attached to their parents as `amod`.
+20142 nodes (5%) are attached to their parents as `amod`.
 
-14191 instances of `amod` (70%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25261186674552.
+14139 instances of `amod` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.24853539866945.
 
-The following 16 pairs of parts of speech are connected with `amod`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (19443; 96% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (647; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (62; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (50; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (42; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `amod`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (19361; 96% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (579; 3% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (57; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (47; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (42; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 16 pairs of parts of speech are connected with `amod`: <tt><a href
 6	dérivé	dérivé	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 7	de	de	ADP	_	_	9	case	_	_
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	Basque	Basque	PROPN	_	_	6	nmod	_	_
+9	Basque	Basque	PROPN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 10	occidental	occidental	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -57,19 +57,22 @@ The following 16 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 amod	color:blue
-1	Tout	tout	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	wordform=tout
-2	cela	cela	PRON	_	Number=Sing|PronType=Dem	4	nsubj	_	_
-3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	présent	présent	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
-5	dans	dans	ADP	_	_	7	case	_	_
-6	sa	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	_
-7	passion	passion	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 amod	color:blue
+1	Mitsuko	Mitsuko	PROPN	_	_	4	nsubj	_	_
+2	Sôma	Sôma	PROPN	_	_	1	flat:name	_	_
+3	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	séduit	séduire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	et	et	CCONJ	_	_	7	cc	_	_
+6	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+7	tue	tuer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	tous	tout	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	_
+9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+10	deux	deux	NUM	_	Number=Plur	7	obl:mod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

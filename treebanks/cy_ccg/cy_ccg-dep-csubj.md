@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (0%) are attached to their parents as `csubj`.
+24 nodes (0%) are attached to their parents as `csubj`.
 
-12 instances of `csubj` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.43478260869565.
+13 instances of `csubj` (54%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.91666666666667.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (14; 61% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 9% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (14; 58% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -42,9 +42,9 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 ~~~ conllu
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 13 csubj	color:blue
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 13 csubj	color:blue
 1	Byddwn	bod	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Fut	0	root	_	_
 2	yn	yn	PART	pred	_	3	case:pred	_	_
 3	sicr	sicr	ADJ	pos	Degree=Pos	1	advmod	_	_
@@ -57,21 +57,23 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 10	i	i	ADP	prep	_	13	mark	_	_
 11	fod	bod	AUX	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	13	cop	_	_
 12	yn	yn	PART	pred	_	13	case:pred	_	_
-13	egnïol	egnïol	ADJ	pos	Degree=Pos	22	csubj	_	_
+13	egnïol	egnïol	ADJ	pos	Degree=Pos	23	csubj	_	_
 14	ar	ar	ADP	prep	_	15	case	_	_
 15	ôl	ôl	NOUN	noun	Gender=Masc|Number=Sing	13	obl	_	_
-16	ichi	i	ADP	cprep	Number=Plur|Person=2	17	nsubj	_	_
-17	groesi	croesi	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	15	acl	_	SpaceAfter=No
-18	'r	y	DET	art	_	19	det	_	_
-19	hanner	hanner	NOUN	noun	Gender=Masc|Number=Sing	17	obj	_	_
-20	cant	cant	NOUN	noun	Gender=Masc|Number=Sing	19	nmod	_	_
-21	yn	yn	PART	pred	_	22	case:pred	_	_
-22	bwysig	pwysig	ADJ	pos	Degree=Pos|Mutation=SM	9	ccomp	_	_
-23	i	i	ADP	prep	_	25	case	_	_
-24	bob	pob	ADJ	pos	Degree=Pos|Mutation=SM	25	amod	_	_
-25	un	un	NUM	num	_	22	obl	_	_
-26	ohonom	o	ADP	cprep	Number=Plur|Person=1	25	nmod	_	SpaceAfter=No
-27	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
+16	i	i	ADP	iprep	_	17	case	_	_
+17	chi	chi	PRON	indep	Number=Plur|Person=2|PronType=Prs	18	nsubj	_	_
+18	groesi	croesi	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	15	acl	_	SpaceAfter=No
+19	'r	y	DET	art	_	20	det	_	_
+20	hanner	hanner	NOUN	noun	Gender=Masc|Number=Sing	18	obj	_	_
+21	cant	cant	NOUN	noun	Gender=Masc|Number=Sing	20	nmod	_	_
+22	yn	yn	PART	pred	_	23	case:pred	_	_
+23	bwysig	pwysig	ADJ	pos	Degree=Pos|Mutation=SM	9	ccomp	_	_
+24	i	i	ADP	prep	_	26	case	_	_
+25	bob	pob	ADJ	pos	Degree=Pos|Mutation=SM	26	amod	_	_
+26	un	un	NUM	num	_	23	obl	_	_
+27	o	o	ADP	iprep	_	28	case	_	_
+28	ni	ni	PRON	indep	Number=Plur|Person=1|PronType=Prs	26	nmod	_	_
+29	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `nmod:gobj`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 nmod:gobj	color:blue
-1	Превеельгак	превей	ADJ	A	Clitic=Gak|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Prt2,Sg3,Clt/Gak
+1	Превеельгак	превей	ADJ	A	Clitic=Add|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Prt2,Sg3,Clt/Gak
 2	веленть	веле	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	nmod:gobj	_	GTtags=Sg,Gen,Def
 3	тезэнь	тезэнь	ADV	Adv	Case=Ill|PronType=Dem	4	obl:lmod	_	GTtags=Dem,Ill
 4	путыцязо	путыця	NOUN	N	Case=Nom|Derivation=NomAg|Number=Sing|Number[psor]=Sing|Person[psor]=3|Valency=2	1	nsubj:cop	_	GTtags=TV,NomAg,Sg,Nom,PxSg3|SpaceAfter=No

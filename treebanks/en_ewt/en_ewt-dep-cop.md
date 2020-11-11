@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5619 nodes (2%) are attached to their parents as `cop`.
+5620 nodes (2%) are attached to their parents as `cop`.
 
 5375 instances of `cop` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.14984872753159.
+Average distance between parent and child is 2.15017793594306.
 
-The following 12 pairs of parts of speech are connected with `cop`: <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (2808; 50% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (1961; 35% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (288; 5% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (189; 3% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (174; 3% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (91; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (36; 1% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (25; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `cop`: <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (2809; 50% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (1963; 35% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (288; 5% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (187; 3% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (174; 3% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (91; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (36; 1% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (25; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
-1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	SpaceAfter=No
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
 3	right	right	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	3:punct	_
@@ -62,7 +62,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 cop	color:blue
-1	Here	here	ADV	RB	PronType=Dem	0	root	0:root	SpaceAfter=No
+1	Here	here	ADV	RB	PronType=Dem	0	root	0:root	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	1:cop	_
 3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 4	excerpt	excerpt	NOUN	NN	Number=Sing	1	nsubj	1:nsubj	_

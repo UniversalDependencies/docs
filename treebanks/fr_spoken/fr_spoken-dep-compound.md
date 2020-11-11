@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-65 nodes (0%) are attached to their parents as `compound`.
+49 nodes (0%) are attached to their parents as `compound`.
 
-51 instances of `compound` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.30769230769231.
+48 instances of `compound` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06122448979592.
 
-The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (48; 74% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (9; 14% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (4; 6% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `compound`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (48; 98% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,56 +22,60 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 compound	color:blue
-1	une	un	DET	_	_	2	det	_	_
+1	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	rallonge	rallonge	NOUN	_	_	0	root	_	_
 3	à	à	ADP	_	_	4	mark	_	_
-4	venir	venir	VERB	_	_	2	acl	_	_
+4	venir	venir	VERB	_	VerbForm=Inf	2	acl	_	_
 5	également	également	ADV	_	_	4	advmod	_	_
 6	dans	dans	ADP	_	_	8	case	_	_
-7	le	le	DET	_	_	8	det	_	_
-8	secteur	secteur	NOUN	_	_	4	obl:mod	_	_
-9	automobile	automobile	NOUN	_	_	8	compound	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	secteur	secteur	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_
+9	automobile	automobile	NOUN	_	Gender=Fem|Number=Sing	8	compound	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 compound	color:blue
-1	il	il	PRON	_	_	5	nsubj:caus	_	_
-2	fait	faire	AUX	_	_	5	aux:caus	_	_
-3	d'	de	ADP	_	_	4	case	_	_
-4	abord	abord	NOUN	_	_	5	obl:mod	_	_
-5	lever	lever	VERB	CAUSATIVE	_	0	root	_	_
-6	la	le	DET	_	_	9	det	_	_
-7	belle	belle	ADJ	_	_	9	compound	_	_
-8	-	-	PUNCT	_	_	7	punct	_	_
-9	mère	mère	NOUN	_	_	5	obj	_	_
-10	de	de	ADP	_	_	11	case	_	_
-11	Pierre	Pierre	PROPN	_	_	9	nmod	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 compound	color:blue
-1	attention	attention	NOUN	_	_	0	root	_	_
-2	à	à	ADP	_	_	6	case	_	_
-3	les	le	DET	_	_	6	det	_	_
-4	contre	contre	ADP	_	_	6	compound	_	_
-5	-	-	PUNCT	_	_	4	punct	_	_
-6	attaques	attaques	NOUN	_	_	1	nmod	_	_
-7	françaises	français	ADJ	_	_	6	amod	_	_
-8	avec	avec	ADP	_	_	9	case	_	_
-9	Thierry	Thierry	PROPN	_	_	6	nmod	_	_
-10	Henry	Henry	PROPN	_	_	9	flat	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 13 compound	color:blue
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	expl:subj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	philosophe	philosophe	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	euh	euh	INTJ	_	_	4	discourse	_	_
+6	américain	américain	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+7	euh	euh	INTJ	_	_	6	discourse	_	_
+8	disciple	disciple	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	philosophe	philosophe	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+12	anglo	anglo	ADJ	_	_	11	amod	_	_
+13	aus~	aus~	ADJ	_	_	12	compound	_	_
+14	autrichien	autrichien	ADJ	conj:reform	Gender=Masc|Number=Sing	13	reparandum	_	_
+15	euh	euh	INTJ	_	_	14	discourse	_	_
+16	Wittgenstein	Wittgenstein	PROPN	_	_	11	nmod:appos	_	_
+17	qui	qui	PRON	_	_	20	nsubj	_	_
+18	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+19	euh	euh	INTJ	_	_	20	discourse	_	_
+20	avancé	avancer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl:cleft	_	_
+21	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	22	det	_	_
+22	idée	idée	NOUN	_	Gender=Fem|Number=Sing	20	obj	_	_
+23	de	de	ADP	_	_	25	case	_	_
+24	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	25	det	_	_
+25	art	art	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_
+26	comme	comme	ADP	_	_	27	case	_	_
+27	concept	concept	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	_
+28	flou	flou	ADJ	_	_	27	amod	_	_
+29	c'est-à-dire	c'est-à-dire	CCONJ	_	_	31	cc	_	_
+30	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	art	art	NOUN	conj:reform	Gender=Masc|Number=Sing	25	reparandum	_	_
+32	dont	dont	PRON	_	PronType=Rel	31	reparandum	_	_
+33	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	32	dep	_	_
+34	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	33	dep	_	_
+35	a~	a~	X	conj:reform	_	34	dep	_	_
 
 ~~~
 

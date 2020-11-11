@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_German-GSD: POS Tags: `ADV`
 
 There are 1007 `ADV` lemmas (2%), 1023 `ADV` types (2%) and 14862 `ADV` tokens (5%).
-Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
+Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>auch</em> (<tt><a href="de_gsd-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.015889 (the average of all parts of speech is 1.185293).
+The form / lemma ratio of `ADV` is 1.015889 (the average of all parts of speech is 1.184956).
 
 The 1st highest number of forms (4) was observed with the lemma “lang”: <em>lang, lange, länger, längerer</em>.
 
@@ -78,7 +78,7 @@ Examples: <em>auch, nur, noch, sehr, so, dort, wieder, hier, heute, jedoch</em>
 
 `ADV` nodes are attached to their parents using 20 different relations: <tt><a href="de_gsd-dep-advmod.html">advmod</a></tt> (13774; 93% instances), <tt><a href="de_gsd-dep-compound-prt.html">compound:prt</a></tt> (577; 4% instances), <tt><a href="de_gsd-dep-mark.html">mark</a></tt> (192; 1% instances), <tt><a href="de_gsd-dep-conj.html">conj</a></tt> (91; 1% instances), <tt><a href="de_gsd-dep-dep.html">dep</a></tt> (44; 0% instances), <tt><a href="de_gsd-dep-fixed.html">fixed</a></tt> (44; 0% instances), <tt><a href="de_gsd-dep-root.html">root</a></tt> (34; 0% instances), <tt><a href="de_gsd-dep-cc.html">cc</a></tt> (22; 0% instances), <tt><a href="de_gsd-dep-obl.html">obl</a></tt> (20; 0% instances), <tt><a href="de_gsd-dep-appos.html">appos</a></tt> (18; 0% instances), <tt><a href="de_gsd-dep-nmod.html">nmod</a></tt> (17; 0% instances), <tt><a href="de_gsd-dep-advcl.html">advcl</a></tt> (6; 0% instances), <tt><a href="de_gsd-dep-acl.html">acl</a></tt> (5; 0% instances), <tt><a href="de_gsd-dep-amod.html">amod</a></tt> (5; 0% instances), <tt><a href="de_gsd-dep-xcomp.html">xcomp</a></tt> (4; 0% instances), <tt><a href="de_gsd-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 15 different parts of speech: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (8435; 57% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (2242; 15% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1899; 13% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (808; 5% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (600; 4% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (394; 3% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (182; 1% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (166; 1% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (46; 0% instances),  (34; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (13; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `ADV` nodes belong to 15 different parts of speech: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (8436; 57% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (2242; 15% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1899; 13% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (808; 5% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (600; 4% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (394; 3% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (182; 1% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (163; 1% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (49; 0% instances),  (34; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (13; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
 13326 (90%) `ADV` nodes are leaves.
 

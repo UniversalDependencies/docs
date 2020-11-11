@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Mult`, `Ord`.
 
-2719 tokens (2%) have a non-empty value of `NumType`.
+2718 tokens (2%) have a non-empty value of `NumType`.
 566 types (4%) occur at least once with a non-empty value of `NumType`.
-557 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2428; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (255; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (31; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (2; 0% instances).
+558 lemmas (5%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 5 part-of-speech tags: <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2428; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (255; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (30; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `NUM`
 
@@ -20,10 +20,10 @@ The feature is used with 5 part-of-speech tags: <tt><a href="en_gum-pos-NUM.html
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (2428; 100% of non-empty `NumType`): <em>one, two, 1, 2, 3, 6, 15, 4, 5, 24</em>
+* `Card` (2428; 100% of non-empty `NumType`): <em>one, two, 1, 2, 3, 6, 15, 5, 4, 24</em>
 * `EMPTY` (14): <em>half, I, II, Seven, Three, XV, pm</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (513) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (514) occur only with one value of `NumType`.
 
 ### `ADJ`
 
@@ -34,18 +34,18 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (255; 100% of non-empty `NumType`): <em>first, second, third, 19th, fourth, 20th, 10th, 2nd, 30th, ninth</em>
-* `EMPTY` (7288): <em>other, many, new, more, such, good, own, different, same, most</em>
+* `EMPTY` (7282): <em>other, many, new, more, such, good, own, different, same, most</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (42) occur only with one value of `NumType`.
 
 ### `ADV`
 
-31 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `NumType`.
+30 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `NumType`.
 
 `ADV` tokens may have the following values of `NumType`:
 
-* `Mult` (31; 100% of non-empty `NumType`): <em>once, twice</em>
-* `EMPTY` (4154): <em>also, so, then, just, more, very, as, even, most, only</em>
+* `Mult` (30; 100% of non-empty `NumType`): <em>once, twice</em>
+* `EMPTY` (4210): <em>also, so, then, just, more, very, as, even, most, only</em>
 
 ### `SCONJ`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `SCONJ` and `NumType` co-occur
 `SCONJ` tokens may have the following values of `NumType`:
 
 * `Mult` (3; 100% of non-empty `NumType`): <em>once</em>
-* `EMPTY` (2238): <em>that, if, when, as, how, where, while, by, because, after</em>
+* `EMPTY` (2180): <em>that, if, when, as, where, how, while, by, because, after</em>
 
 ### `DET`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>6, one</em>
-* `EMPTY` (9493): <em>the, a, an, this, some, these, that, no, all, any</em>
+* `EMPTY` (9492): <em>the, a, an, this, some, these, that, no, all, any</em>
 
 ## Relations with Agreement in `NumType`
 

@@ -39,7 +39,7 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 6 root	color:blue
 1	கிழக்கு	கிழக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	2:nmod:nom	Translit=kilakku|LTranslit=kilakku
 2	ஆசியா	ஆசியா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obj	3:obj	Translit=āciyā|LTranslit=āciyā
-3	குறித்த	குறி	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	4	amod	4:amod	Translit=kuritta|LTranslit=kuri
+3	குறித்த	குறி	VERB	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	4	acl	4:acl	Translit=kuritta|LTranslit=kuri
 4	பேச்சுவார்த்தை	பேச்சுவார்த்தை	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	Translit=pēccuvārttai|LTranslit=pēccuvārttai
 5	நடத்த	நடத்து	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	6	advcl	6:advcl	Translit=naṭatta|LTranslit=naṭattu
 6	முடிவு	முடிவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=muṭivu|LTranslit=muṭivu

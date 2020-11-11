@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-GUM: POS Tags: `ADP`
 
-There are 92 `ADP` lemmas (1%), 93 `ADP` types (1%) and 11881 `ADP` tokens (10%).
-Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 3 in number of tokens.
+There are 90 `ADP` lemmas (1%), 91 `ADP` types (1%) and 11818 `ADP` tokens (10%).
+Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>of, in, to, for, on, with, at, from, by, as</em>
 
@@ -61,34 +61,40 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="en_gum-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.010870 (the average of all parts of speech is 1.190011).
+The form / lemma ratio of `ADP` is 1.011111 (the average of all parts of speech is 1.190676).
 
 The 1st highest number of forms (2) was observed with the lemma “as”: <em>a, as</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
+The 2nd highest number of forms (1) was observed with the lemma “@”: <em>@</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “@”: <em>@</em>.
+The 3rd highest number of forms (1) was observed with the lemma “To”: <em>To</em>.
 
-`ADP` does not occur with any features.
+`ADP` occurs with 1 features: <tt><a href="en_gum-feat-Typo.html">Typo</a></tt> (16; 0% instances)
+
+`ADP` occurs with 1 feature-value pairs: `Typo=Yes`
+
+`ADP` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (11802 tokens).
+Examples: <em>of, in, to, for, on, with, at, from, by, as</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 17 different relations: <tt><a href="en_gum-dep-case.html">case</a></tt> (11083; 93% instances), <tt><a href="en_gum-dep-compound-prt.html">compound:prt</a></tt> (486; 4% instances), <tt><a href="en_gum-dep-fixed.html">fixed</a></tt> (177; 1% instances), <tt><a href="en_gum-dep-obl.html">obl</a></tt> (66; 1% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (22; 0% instances), <tt><a href="en_gum-dep-nmod.html">nmod</a></tt> (18; 0% instances), <tt><a href="en_gum-dep-dep.html">dep</a></tt> (8; 0% instances), <tt><a href="en_gum-dep-cc.html">cc</a></tt> (7; 0% instances), <tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="en_gum-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="en_gum-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="en_gum-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="en_gum-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="en_gum-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="en_gum-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt> (1; 0% instances), <tt><a href="en_gum-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 17 different relations: <tt><a href="en_gum-dep-case.html">case</a></tt> (11025; 93% instances), <tt><a href="en_gum-dep-compound-prt.html">compound:prt</a></tt> (488; 4% instances), <tt><a href="en_gum-dep-fixed.html">fixed</a></tt> (178; 2% instances), <tt><a href="en_gum-dep-obl.html">obl</a></tt> (58; 0% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (22; 0% instances), <tt><a href="en_gum-dep-nmod.html">nmod</a></tt> (18; 0% instances), <tt><a href="en_gum-dep-dep.html">dep</a></tt> (8; 0% instances), <tt><a href="en_gum-dep-cc.html">cc</a></tt> (7; 0% instances), <tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="en_gum-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="en_gum-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="en_gum-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="en_gum-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="en_gum-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="en_gum-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt> (1; 0% instances), <tt><a href="en_gum-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 15 different parts of speech: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (7775; 65% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2077; 17% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (604; 5% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (499; 4% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (483; 4% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (201; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (86; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (54; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (54; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (28; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 15 different parts of speech: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (7774; 66% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2081; 18% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (598; 5% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (500; 4% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (420; 4% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (201; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (87; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (55; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (54; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (28; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-11659 (98%) `ADP` nodes are leaves.
+11598 (98%) `ADP` nodes are leaves.
 
-202 (2%) `ADP` nodes have one child.
+201 (2%) `ADP` nodes have one child.
 
-13 (0%) `ADP` nodes have two children.
+12 (0%) `ADP` nodes have two children.
 
 7 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 6.
 
-Children of `ADP` nodes are attached using 17 different relations: <tt><a href="en_gum-dep-conj.html">conj</a></tt> (127; 50% instances), <tt><a href="en_gum-dep-fixed.html">fixed</a></tt> (42; 16% instances), <tt><a href="en_gum-dep-punct.html">punct</a></tt> (25; 10% instances), <tt><a href="en_gum-dep-cc.html">cc</a></tt> (21; 8% instances), <tt><a href="en_gum-dep-obj.html">obj</a></tt> (9; 4% instances), <tt><a href="en_gum-dep-case.html">case</a></tt> (5; 2% instances), <tt><a href="en_gum-dep-advmod.html">advmod</a></tt> (4; 2% instances), <tt><a href="en_gum-dep-cop.html">cop</a></tt> (4; 2% instances), <tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt> (3; 1% instances), <tt><a href="en_gum-dep-xcomp.html">xcomp</a></tt> (3; 1% instances), <tt><a href="en_gum-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="en_gum-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="en_gum-dep-goeswith.html">goeswith</a></tt> (2; 1% instances), <tt><a href="en_gum-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="en_gum-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="en_gum-dep-nummod.html">nummod</a></tt> (2; 1% instances), <tt><a href="en_gum-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 17 different relations: <tt><a href="en_gum-dep-conj.html">conj</a></tt> (127; 50% instances), <tt><a href="en_gum-dep-fixed.html">fixed</a></tt> (43; 17% instances), <tt><a href="en_gum-dep-punct.html">punct</a></tt> (22; 9% instances), <tt><a href="en_gum-dep-cc.html">cc</a></tt> (21; 8% instances), <tt><a href="en_gum-dep-obj.html">obj</a></tt> (8; 3% instances), <tt><a href="en_gum-dep-case.html">case</a></tt> (5; 2% instances), <tt><a href="en_gum-dep-advmod.html">advmod</a></tt> (4; 2% instances), <tt><a href="en_gum-dep-cop.html">cop</a></tt> (4; 2% instances), <tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt> (3; 1% instances), <tt><a href="en_gum-dep-xcomp.html">xcomp</a></tt> (3; 1% instances), <tt><a href="en_gum-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="en_gum-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="en_gum-dep-goeswith.html">goeswith</a></tt> (2; 1% instances), <tt><a href="en_gum-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="en_gum-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="en_gum-dep-nummod.html">nummod</a></tt> (2; 1% instances), <tt><a href="en_gum-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 13 different parts of speech: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (87; 34% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (54; 21% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (25; 10% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (21; 8% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (14; 5% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (13; 5% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (11; 4% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (8; 3% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances)
+Children of `ADP` nodes belong to 13 different parts of speech: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (86; 34% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (55; 22% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (22; 9% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (21; 8% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (14; 6% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (13; 5% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (11; 4% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (8; 3% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances)
 

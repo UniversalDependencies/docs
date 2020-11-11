@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lzh_kyoto-dep-flat.html">flat</a></tt>.
 
-1289 nodes (1%) are attached to their parents as `flat:vv`.
+3047 nodes (1%) are attached to their parents as `flat:vv`.
 
-1289 instances of `flat:vv` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+3047 instances of `flat:vv` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.00196914998359.
 
-The following 12 pairs of parts of speech are connected with `flat:vv`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (1172; 91% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (87; 7% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `flat:vv`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (2797; 92% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (181; 6% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (26; 1% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,17 +45,15 @@ The following 12 pairs of parts of speech are connected with `flat:vv`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat:vv	color:blue
-1	君	君	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=ruler|SpaceAfter=No
-2	於	於	ADP	v,前置詞,基盤,*	_	3	case	_	Gloss=at|SpaceAfter=No
-3	士	士	NOUN	n,名詞,人,役割	_	4	obl	_	Gloss=officer|SpaceAfter=No
-4	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-5	賜	賜	VERB	v,動詞,行為,交流	_	4	ccomp	_	Gloss=bestow|SpaceAfter=No
-6	帟	帟	NOUN	n,名詞,可搬,道具	_	5	flat:vv	_	SpacesAfter=\n
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat:vv	color:blue
+1	賞	賞	VERB	v,動詞,行為,交流	_	3	nsubj	_	Gloss=reward|SpaceAfter=No
+2	罰	罰	NOUN	n,名詞,制度,儀礼	_	1	flat:vv	_	Gloss=punishment|SpaceAfter=No
+3	盡	盡	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=exhaust|SpaceAfter=No
+4	公	公	NOUN	n,名詞,人,役割	_	3	obj	_	Gloss=duke|SpaceAfter=No
 
 ~~~
 

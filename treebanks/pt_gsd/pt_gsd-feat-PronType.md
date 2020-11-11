@@ -24,5 +24,5 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 * `Art` (21346; 100% of non-empty `PronType`): <em>o, a, os, as</em>
 * `Prs` (1; 0% of non-empty `PronType`): <em>seu</em>
-* `EMPTY` (26305): <em>o, a, os, um, uma, as, sua, seu, seus, cada</em>
+* `EMPTY` (26306): <em>o, a, os, um, uma, as, sua, seu, seus, cada</em>
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-26 nodes (0%) are attached to their parents as `orphan`.
+29 nodes (0%) are attached to their parents as `orphan`.
 
-19 instances of `orphan` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.03846153846154.
+19 instances of `orphan` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.17241379310345.
 
-The following 14 pairs of parts of speech are connected with `orphan`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (5; 19% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 15% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 12% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (2; 8% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 13 pairs of parts of speech are connected with `orphan`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (6; 21% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 14% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 14% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 10% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -49,21 +49,26 @@ The following 14 pairs of parts of speech are connected with `orphan`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 orphan	color:blue
-1	Ансяк	ансяк	ADV	Adv	_	2	advmod	_	GTtags=Exclusive
-2	совасть	совамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScPl3
-3	кудос	кудо	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	2	obl	_	GTtags=Sem/Plc,SP,Ill,Indef|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	револьвер	револьвер	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	nmod	_	GTtags=Sg,Nom,Indef
-6	марто	марто	ADP	Adp	_	5	case	_	_
-7	сь	ось	PRON	Pron	Case=Nom|Definite=Def|Number=Sing	2	conj	_	GTtags=Sg,Nom,Def
-8	вицтэ	видьстэ	ADV	Adv	Typo=Yes	7	orphan	_	CorrectForm=видьстэ
-9	Марянень	Маря	PROPN	N	Animacy=Hum|Case=Dat|Definite=Ind|Gender=Fem|NameType=Giv|Number=Plur,Sing	7	orphan	_	GTtags=Prop,Ant_Fem,SP,Dat,Indef|SpaceAfter=No
-10	:	:	PUNCT	CLB	_	2	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 12 orphan	color:blue
+1	Тундось	тундо	NOUN	N	Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	GTtags=Sg,Nom,Def
+2	ломантненень	ломань	NOUN	N	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	5	obl	_	GTtags=Sem/Hum,Pl,Dat,Def
+3	сюпав	сюпав	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	4	amod	_	GTtags=Sg,Nom,Indef
+4	казнеть	казне	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	5	obj	_	GTtags=Pl,Nom,Indef
+5	явшесь	явшемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3|SpaceAfter=No
+6	:	:	PUNCT	CLB	_	10	punct	_	_
+7	сыретненень	сыре	NOUN	N	Case=Dat|Definite=Def|Number=Plur	10	orphan	_	GTtags=Pl,Dat,Def
+8	—	—	PUNCT	PUNCT	_	10	punct	_	_
+9	кувака	кувака	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	10	amod	_	GTtags=Sg,Nom,Indef
+10	пингть	пинге	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	5	conj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
+11	,	,	PUNCT	CLB	_	14	punct	_	_
+12	одтнэнень	од	NOUN	N	Case=Dat|Definite=Def|Number=Plur	14	orphan	_	GTtags=Pl,Dat,Def
+13	—	—	PUNCT	PUNCT	_	14	punct	_	_
+14	вечкема	вечкема	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	conj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+15	...	...	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
 

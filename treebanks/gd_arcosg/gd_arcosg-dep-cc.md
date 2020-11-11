@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1503 nodes (3%) are attached to their parents as `cc`.
+2173 nodes (4%) are attached to their parents as `cc`.
 
-1440 instances of `cc` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.11111111111111.
+2173 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.24804417855499.
 
-The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (704; 47% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (507; 34% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (92; 6% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (82; 5% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (36; 2% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (31; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (28; 2% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (1171; 54% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (650; 30% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (128; 6% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (97; 4% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (42; 2% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (41; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (25; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -26,8 +26,9 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 2	dè	dè	PRON	Uq	Mood=Int	3	obj	_	_
 3	fhuair	faigh	VERB	V-s	Tense=Past	0	root	_	_
 4	thu	thu	PRON	Pp2s	Number=Sing|Person=2	3	nsubj	_	_
-5	leis	le	ADP	Pr3sm	Gender=Masc|Number=Sing|Person=3	3	obl	_	SpaceAfter=No
-6	?	?	PUNCT	Fg	_	3	punct	_	_
+5	le	le	ADP	Sp	_	6	case	_	_
+6	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	3	obl	_	_
+7	?	?	PUNCT	Fg	_	3	punct	_	_
 
 ~~~
 
@@ -35,17 +36,17 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 cc	color:blue
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 cc	color:blue
 1	cha	cha	PART	Qn	PartType=Cmpl|Polarity=Neg	2	mark:prt	_	_
 2	bhi	bi	VERB	V-f--d	Tense=Fut	0	root	_	_
 3	thu	thu	PRON	Pp2s	Number=Sing|Person=2	2	nsubj	_	_
 4	a’	ag	PART	Sa	_	5	case	_	_
 5	gabhail	gabh	NOUN	Nv	VerbForm=Vnoun	2	xcomp:pred	_	_
 6	buntàta	buntàta	NOUN	Ncsmg	Case=Gen|Gender=Masc|Number=Sing	5	obj	_	_
-7	no	no	CCONJ	Cc	_	5	cc	_	_
-8	càil	càil	NOUN	Ncsfg	Case=Gen|Gender=Fem|Number=Sing	5	conj	_	_
+7	no	no	CCONJ	Cc	_	8	cc	_	_
+8	càil	càil	NOUN	Ncsfg	Case=Gen|Gender=Fem|Number=Sing	6	conj	_	_
 9	nach	nach	PART	Qn	PartType=Cmpl|Polarity=Neg	10	mark:prt	_	_
 10	bi	bi	VERB	V-f--d	Tense=Fut	2	parataxis	_	SpaceAfter=No
 11	?	?	PUNCT	Fg	_	2	punct	_	_
@@ -56,21 +57,20 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 cc	color:blue
-1	Sann	is	AUX	Wp-i-x	_	3	cop	_	_
-2	à	à	ADP	Sp	_	3	case	_	_
-3	Nirribhidh	Nirribhidh	PROPN	Nt	_	0	root	_	_
-4	agus	agus	CCONJ	Cc	_	6	cc	_	_
-5	an	an	DET	Tdsf	Gender=Fem|Number=Sing	6	det	_	_
-6	Eadailt	Eadailt	PROPN	Nt	_	3	conj	_	_
-7	a	a	PART	Q-r	PartType=Vb|PronType=Rel	8	mark:prt	_	_
-8	tha	bi	VERB	V-p	Tense=Pres	3	csubj:cleft	_	_
-9	'n	an	DET	Tdsf	Gender=Fem|Number=Sing	10	det	_	_
-10	dithis	dithis	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
-11	eile	eile	ADJ	Aq-sfn	Case=Nom|Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
-12	.	.	PUNCT	Fe	_	3	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cc	color:blue
+1	a	a	PART	Qq	Mood=Int|PartType=Vb|PronType=Int	2	mark:prt	_	_
+2	bheil	bi	VERB	V-p--d	Tense=Pres	0	root	_	_
+3	Stamh	Stamh	PROPN	Nn-mn	Case=Nom|Gender=Masc	2	nsubj	_	_
+4	agus	agus	CCONJ	Cc	_	5	cc	_	_
+5	Putag	Putag	PROPN	Nn-mn	Case=Nom|Gender=Masc	2	conj	_	_
+6	aig	aig	ADP	Sp	_	7	case	_	_
+7	thu	thu	PRON	Pp2s	Number=Sing|Person=2	5	obl	_	_
+8	ri	ri	PART	Sa	_	9	case	_	_
+9	leughadh	leugh	NOUN	Nv	VerbForm=Vnoun	2	xcomp:pred	_	_
+10	an-nochd	an-nochd	ADV	Rt	_	9	advmod	_	SpaceAfter=No
+11	?	?	PUNCT	Fg	_	2	punct	_	_
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="lzh_kyoto-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-1182 nodes (1%) are attached to their parents as `csubj`.
+1846 nodes (1%) are attached to their parents as `csubj`.
 
-1182 instances of `csubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.0575296108291.
+1846 instances of `csubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.91657638136511.
 
-The following 14 pairs of parts of speech are connected with `csubj`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (889; 75% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (163; 14% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (48; 4% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (26; 2% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (26; 2% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `csubj`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (1248; 68% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (257; 14% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (195; 11% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (61; 3% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (39; 2% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,14 +53,17 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 csubj	color:blue
-1	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	2	cop	_	Gloss=be|SpaceAfter=No
-2	君	君	NOUN	n,名詞,人,役割	_	3	csubj	_	Gloss=ruler|SpaceAfter=No
-3	難	難	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=difficult|SpaceAfter=No
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 csubj	color:blue
+1	宮	宮	NOUN	n,名詞,固定物,建造物	Case=Loc	2	nmod	_	Gloss=palace|SpaceAfter=No
+2	監	監	NOUN	n,名詞,人,役割	_	3	nsubj	_	SpaceAfter=No
+3	蓄	蓄	VERB	v,動詞,行為,動作	_	6	csubj	_	Gloss=grow|SpaceAfter=No
+4	積	積	VERB	v,動詞,行為,動作	_	3	flat:vv	_	Gloss=accumulate|SpaceAfter=No
+5	巨	巨	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	6	amod	_	Gloss=great|SpaceAfter=No
+6	萬	萬	NUM	n,数詞,数字,*	_	0	root	_	Gloss=ten-thousand|SpaceAfter=No
 
 ~~~
 

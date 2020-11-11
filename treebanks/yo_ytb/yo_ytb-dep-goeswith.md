@@ -35,7 +35,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 11	wa	wa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	Ref=MARK_5.12|Gloss=us
 12	lọ	lọ	VERB	_	_	5	ccomp	_	Ref=MARK_5.12|Gloss=go
 13	sínú	sínú	ADP	_	_	15	case	_	Ref=MARK_5.12|Gloss=into
-14	àwọn	àwọn	DET	_	_	15	det	_	Ref=MARK_5.12|Gloss=the
+14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	Ref=MARK_5.12|Gloss=the
 15	ẹlẹ́dẹ̀	ẹlẹ́dẹ̀	NOUN	_	_	12	obl	_	Ref=MARK_5.12|Gloss=swine
 16	wọnni	wọnni	DET	_	_	12	det	_	Ref=MARK_5.12|Gloss=those
 17	kí	kí	AUX	_	_	21	aux	_	Ref=MARK_5.12|Gloss=so
@@ -108,7 +108,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 12	gbígbàgbọ́	gbígbàgbọ́	VERB	_	_	3	conj	_	_
 13	pé	pé	SCONJ	_	_	16	mark	_	_
 14	gbogbo	gbogbo	DET	_	_	16	det	_	_
-15	àwọn	àwọn	DET	_	_	16	det	_	_
+15	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	16	det	_	_
 16	oníṣe	oníṣe	NOUN	_	_	12	obj	_	_
 17	gbọ́dọ̀	gbọ́dọ̀	ADV	_	_	18	advmod	_	_
 18	tẹ̀lé	tẹ̀lé	VERB	_	_	16	conj	_	_

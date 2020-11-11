@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-advmod.html">advmod</a></tt>.
 There are also 3 other language-specific subtypes of `advmod`: <tt><a href="myv_jr-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="myv_jr-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="myv_jr-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-59 nodes (0%) are attached to their parents as `advmod:lmod`.
+62 nodes (0%) are attached to their parents as `advmod:lmod`.
 
-45 instances of `advmod:lmod` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.01694915254237.
+47 instances of `advmod:lmod` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.98387096774194.
 
-The following 3 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (46; 78% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (10; 17% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 5% instances).
+The following 3 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (49; 79% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (10; 16% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 5% instances).
 
 
 ~~~ conllu
@@ -77,7 +77,7 @@ The following 3 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 14	мезе	мезе	PRON	Pron	PronType=Int	12	obj	_	GTtags=Interr
 15	мелеть	мель	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	14	fixed	_	GTtags=Sg,Nom,PxSg2
 16	ды	ды	CCONJ	CC	_	18	cc	_	_
-17	тонськак	тонсь	PRON	Pron	Case=Nom|Clitic=Gak|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	18	nsubj	_	GTtags=Refl,2Sg,Nom,Clt/Gak
+17	тонськак	тонсь	PRON	Pron	Case=Nom|Clitic=Add|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	18	nsubj	_	GTtags=Refl,2Sg,Nom,Clt/Gak
 18	миевлик	миемс	VERB	V	Mood=Cnj|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	8	conj	_	GTtags=TV,Conj,ScSg2,OcSg3
 19	ускозенть	ускомс	VERB	V	Case=Gen|Definite=Def|Derivation=Ozj|Number=Sing|VerbForm=Conv	18	obj	_	GTtags=Der/Озь,Ger,Sg,Gen,Def|SpaceAfter=No
 20	.	.	PUNCT	CLB	_	8	punct	_	_

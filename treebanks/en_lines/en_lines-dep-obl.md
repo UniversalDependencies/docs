@@ -47,7 +47,7 @@ The following 35 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 7 2 obl	color:blue
 1	After	after	ADP	_	_	2	case	_	_
 2	that	that	PRON	DEM-SG	Number=Sing|PronType=Dem	7	obl	_	SpaceAfter=No
-3	,	,	PUNCT	Comma	_	1	punct	_	_
+3	,	,	PUNCT	Comma	_	2	punct	_	_
 4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	6	det	_	_
 5	strange	strange	ADJ	POS	Degree=Pos	6	amod	_	_
 6	thing	thing	NOUN	SG-NOM	Number=Sing	7	nsubj	_	_

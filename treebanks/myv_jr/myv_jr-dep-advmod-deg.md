@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-advmod.html">advmod</a></tt>.
 There are also 3 other language-specific subtypes of `advmod`: <tt><a href="myv_jr-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="myv_jr-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="myv_jr-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-116 nodes (1%) are attached to their parents as `advmod:deg`.
+114 nodes (1%) are attached to their parents as `advmod:deg`.
 
-116 instances of `advmod:deg` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.04310344827586.
+114 instances of `advmod:deg` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.04385964912281.
 
-The following 8 pairs of parts of speech are connected with `advmod:deg`: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (59; 51% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (34; 29% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (10; 9% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (5; 4% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `advmod:deg`: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (56; 49% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (34; 30% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (10; 9% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (5; 4% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -70,12 +70,12 @@ The following 8 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 advmod:deg	color:blue
-1	Шкаськак	Шка	NOUN	N	Case=Nom|Clitic=Gak|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def,Clt/Гак
+1	Шкаськак	Шка	NOUN	N	Case=Nom|Clitic=Add|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def,Clt/Гак
 2	седе	седе	ADV	Adv	Degree=Cmp	4	advmod:deg	_	GTtags=Comp
 3	илязо	иля	AUX	V	Mood=Opt|Number[subj]=Sing|Person[subj]=3|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Opt,ScSg3
 4	маряво	марявомс	VERB	V	Connegative=Yes|Derivation=OvtOms|Valency=1	0	root	_	GTtags=Der/ОвОмс,IV,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	эстетькак	тонсь	PRON	Pron	Case=Dat|Clitic=Gak|Number=Sing|Person=2|PronType=Prs|Reflex=Yes|Variant=Short	4	conj	_	GTtags=Refl,Sg2,Dat,Short,Clt/Gak
+6	эстетькак	тонсь	PRON	Pron	Case=Dat|Clitic=Add|Number=Sing|Person=2|PronType=Prs|Reflex=Yes|Variant=Short	4	conj	_	GTtags=Refl,Sg2,Dat,Short,Clt/Gak
 7	мельспаро	мельспаро	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	nsubj	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Indef|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	4	punct	_	_
 

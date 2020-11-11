@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos
 
 ### `ADV`
 
-9 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Reflex`.
+9 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Reflex`.
 
 The most frequent other feature values with which `ADV` and `Reflex` co-occurred: <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (9; 100%).
 
 `ADV` tokens may have the following values of `Reflex`:
 
 * `Yes` (9; 100% of non-empty `Reflex`): ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ
-* `EMPTY` (1717): ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲧⲏⲣ, ⲟⲛ, ⲛ, ⲉϩⲣⲁⲓ, ⲙⲙⲁⲩ, ⲧⲙ, ⲙⲡⲣ
+* `EMPTY` (1939): ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲧⲏⲣ, ⲟⲛ, ⲉϩⲣⲁⲓ, ⲛ, ⲙⲙⲁⲩ, ⲧⲙ, ⲙⲡⲣ
 
 ### `PRON`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): ⲙⲙⲓⲛⲙⲙⲟ
-* `EMPTY` (6918): ϥ, ⲩ, ⲟⲩ, ⲥ, ⲓ, ⲕ, ⲛ, ⲧⲛ, ⲡⲉ, ⲧⲉⲧⲛ
+* `EMPTY` (7969): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
 

@@ -97,12 +97,14 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 73	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	71	obl	_	_
 74	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	73	nummod	_	_
 75	písm._k)	písm._k)	X	X@-------------	_	74	nmod	_	_
-76	a	a	CCONJ	J^-------------	_	79	cc	_	LId=a-1
-77	není-li	není-li	X	X@-------------	_	79	cop	_	_
-78	dále	dále	ADV	Db------------1	_	79	advmod	_	LId=dále-3
-79	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	68	conj	_	LDeriv=stanovit
-80	jinak	jinak	ADV	Db-------------	_	79	advmod	_	SpaceAfter=No
-81	.	.	PUNCT	Z:-------------	_	6	punct	_	_
+76	a	a	CCONJ	J^-------------	_	81	cc	_	LId=a-1
+77	není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	81	cop	_	SpaceAfter=No
+78	-	-	PUNCT	Z:-------------	_	81	punct	_	SpaceAfter=No
+79	li	li	PART	TT-------------	_	81	mark	_	_
+80	dále	dále	ADV	Db------------1	_	81	advmod	_	LId=dále-3
+81	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	68	conj	_	LDeriv=stanovit
+82	jinak	jinak	ADV	Db-------------	_	81	advmod	_	SpaceAfter=No
+83	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
 ~~~
 

@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 170 tokens (1%) have a non-empty value of `Foreign`.
 147 types (2%) occur at least once with a non-empty value of `Foreign`.
-1 lemmas (8%) occur at least once with a non-empty value of `Foreign`.
+144 lemmas (4%) occur at least once with a non-empty value of `Foreign`.
 The feature is used with 2 part-of-speech tags: <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt> (164; 1% instances), <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> (6; 0% instances).
 
 ### `PROPN`
@@ -23,7 +23,9 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (164; 100% of non-empty `Foreign`): <em>Kong, ', of, -, Association, Bonds, Film, Hill, My, You</em>
-* `EMPTY` (1188): <em>China, Trump, América, Austrália, Europa, França, Grécia, Hong, Itália, Albânia</em>
+* `EMPTY` (1229): <em>China, Trump, Mediterrâneo, América, Austrália, Europa, França, Grécia, Hong, Itália</em>
+
+`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (143) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
@@ -34,5 +36,5 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>capita, Select, all, and, maiorum</em>
-* `EMPTY` (4630): <em>anos, vez, guerra, pessoas, parte, ano, governo, cidade, estado, mundo</em>
+* `EMPTY` (4594): <em>anos, vez, pessoas, guerra, ano, parte, governo, cidade, estado, mundo</em>
 

@@ -98,7 +98,7 @@ The following 8 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 7	gust	gust	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	obj	_	_
 8	diferit	diferit	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
 9	când	când	ADV	Rw	PronType=Int,Rel	11	advmod:tmod	_	_
-10	ești	fi	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	ești	fi	AUX	Vaip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	însărcinată	însărcinat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	advcl:tcl	_	SpaceAfter=No
 12	.	.	PUNCT	PERIOD	_	1	punct	_	_
 

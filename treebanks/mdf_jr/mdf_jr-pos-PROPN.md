@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Moksha-JR: POS Tags: `PROPN`
 
-There are 30 `PROPN` lemmas (5%), 33 `PROPN` types (4%) and 36 `PROPN` tokens (3%).
+There are 30 `PROPN` lemmas (5%), 33 `PROPN` types (4%) and 36 `PROPN` tokens (2%).
 Out of 15 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Петя, Марья, Миша, Париж, Алда-баба, Анна, Архип, Браун, Ваня, Василь</em>
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.100000 (the average of all parts of speech is 1.310463).
+The form / lemma ratio of `PROPN` is 1.100000 (the average of all parts of speech is 1.341353).
 
 The 1st highest number of forms (2) was observed with the lemma “Миша”: <em>Миша, Мишазе</em>.
 

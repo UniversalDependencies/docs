@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>är</em> (<tt><a href="sv_talbanken-p
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.000000 (the average of all parts of speech is 1.422634).
+The form / lemma ratio of `AUX` is 3.000000 (the average of all parts of speech is 1.422764).
 
 The 1st highest number of forms (7) was observed with the lemma “vara”: <em>Varen, var, vara, varit, vore, är, äro</em>.
 

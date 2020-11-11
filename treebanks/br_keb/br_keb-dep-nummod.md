@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 4 nummod	color:blue
 1	Kerzhet	kerzhout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
-2	hon eus	kaout	VERB	vblex	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	aux	_	_
+2	hon eus	kaout	AUX	vblex	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	aux	_	_
 3	e-pad	e-pad	ADP	pr	_	5	case	_	_
 4	2	2	NUM	num	Number=Plur	5	nummod	_	_
 5	eurvezh	eurvezh	NOUN	n	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
@@ -40,9 +40,9 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 10 8 nummod	color:blue
 1	En	e	ADP	pr	_	2	case	_	_
 2	holl	holl	PRON	prn	Number=Plur	6	obl	_	_
-3	e	e	PART	vpart	_	6	aux	_	_
-4	vefe	bezañ	VERB	vblex	Mood=Cnd|Number=Sing|Person=3	6	aux	_	_
-5	bet	bezañ	VERB	vblex	Tense=Past|VerbForm=Part	6	aux:pass	_	_
+3	e	e	AUX	vpart	_	6	aux	_	_
+4	vefe	bezañ	AUX	vblex	Mood=Cnd|Number=Sing|Person=3	6	aux	_	_
+5	bet	bezañ	AUX	vblex	Tense=Past|VerbForm=Part	6	aux:pass	_	_
 6	tizhet	tizhout	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 7	etre	etre	ADP	pr	_	11	case	_	_
 8	2,1	2,1	NUM	num	Number=Plur	10	nummod	_	_
@@ -63,7 +63,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 4 nummod	color:blue
 1	Skrivet	skrivañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
-2	en deus	kaout	VERB	vblex	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
+2	en deus	kaout	AUX	vblex	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
 3	un	un	DET	det	_	4	det	_	_
 4	tregont	tregont	NUM	num	Number=Plur	5	nummod	_	_
 5	bennak	bennak	ADJ	adj	_	1	obj	_	_

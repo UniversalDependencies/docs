@@ -38,7 +38,7 @@ The following 26 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 14	때	때	NOUN	ncn	_	16	compound	_	_
 15	그	그	DET	mmd	_	16	det	_	_
 16	서울이	서울+이	PROPN	nq+jcs	_	17	nsubj	_	_
-17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	_
+17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	sf	_	17	punct	_	_
 
 ~~~
@@ -64,7 +64,7 @@ The following 26 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 12	이어	잇+어	SCONJ	pvg+ecs	_	14	ccomp	_	_
 13	다시	다시	ADV	mag	_	14	advmod	_	_
 14	일어난	일어나+ㄴ	VERB	pvg+etm	_	0	root	_	_
-15	것이다	것+이+다	VERB	nbn+jp+ef	_	14	aux	_	_
+15	것이다	것+이+다	VERB	nbn+jp+ef	_	14	aux	_	SpaceAfter=No
 16	.	.	PUNCT	sf	_	15	punct	_	_
 
 ~~~
@@ -82,7 +82,7 @@ The following 26 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	다음과	다음+과	CCONJ	ncn+jct	_	6	xcomp	_	_
 5	같이	같+이	SCONJ	paa+ecs	_	4	conj	_	_
 6	정의하고	정의+하+고	VERB	ncpa+xsv+ecx	_	0	root	_	_
-7	있다	있+다	AUX	px+ef	_	6	aux	_	_
+7	있다	있+다	AUX	px+ef	_	6	aux	_	SpaceAfter=No
 8	.	.	PUNCT	sf	_	7	punct	_	_
 
 ~~~

@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 1 discourse	color:blue
-1	Eh	eh	INTJ	_	_	15	discourse	_	EXTPOS=I|MWE=eh_bien
+1	Eh	eh	INTJ	_	_	15	discourse	_	ExtPos=I
 2	bien	bien	ADV	_	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	15	punct	_	_
 4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_

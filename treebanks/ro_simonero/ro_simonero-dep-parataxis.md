@@ -8,89 +8,76 @@ udver: '2'
 
 This relation is universal.
 
-113 nodes (1%) are attached to their parents as `parataxis`.
+1145 nodes (1%) are attached to their parents as `parataxis`.
 
-112 instances of `parataxis` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 19.9469026548673.
+1110 instances of `parataxis` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 18.0410480349345.
 
-The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (58; 51% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (17; 15% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (10; 9% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 38 pairs of parts of speech are connected with `parataxis`: <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (503; 44% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (182; 16% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (118; 10% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (77; 7% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (60; 5% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (44; 4% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (42; 4% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (20; 2% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (17; 1% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 14 parataxis	color:blue
-1	Scorurile	scor	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	4	nsubj	_	O
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	O
-3	risc	risc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	1	nmod	_	B-DISO
-4	permit	permite	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
-5	aprecierea	apreciere	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	obj	_	O
-6	prealabilă	prealabil	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	O
-7	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	O
-8	riscului	risc	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	O
-9	operator	operator	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	amod	_	O
-10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	O
-11	fiecare	fiecare	DET	Di3-sr---e	Case=Nom|Number=Sing|Person=3|Position=Prenom|PronType=Ind	12	det	_	O
-12	caz	caz	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	O
-13	(	(	PUNCT	LPAR	_	14	punct	_	O
-14	23	23	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	4	parataxis	_	O
-15	)	)	PUNCT	RPAR	_	14	punct	_	O
-16	.	.	PUNCT	PERIOD	_	4	punct	_	O
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 10 parataxis	color:blue
+1	Are	avea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
+2	,	,	PUNCT	COMMA	_	3	punct	_	O
+3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	1	advmod	_	O
+4	asemenea	asemenea	ADV	Rgp	Degree=Pos	3	fixed	_	O
+5	,	,	PUNCT	COMMA	_	3	punct	_	O
+6	efecte	efect	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	1	obj	_	O
+7	minime	minim	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	O
+8	antiplachetare	antiplachetar	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	O
+9	(	(	PUNCT	LPAR	_	10	punct	_	O
+10	48	48	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	1	parataxis	_	O
+11	)	)	PUNCT	RPAR	_	10	punct	_	O
+12	.	.	PUNCT	PERIOD	_	1	punct	_	O
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 13 parataxis	color:blue
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	O
-2	vederea	vedere	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	O
-3	evaluării	evaluare	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	O
-4	acurateței	acurateță	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	O
-5	anastomozelor	anastomoză	NOUN	Ncfpoy	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	4	nmod	_	B-PROC
-6	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	7	expl:pv	_	O
-7	indică	indica	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
-8	angiografie	angiografie	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	B-PROC
-9	intraoperatorie	intraoperatoriu	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	I-PROC
-10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	O
-11	control	control	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	O
-12	(	(	PUNCT	LPAR	_	13	punct	_	O
-13	17	17	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	8	parataxis	_	O
-14	)	)	PUNCT	RPAR	_	13	punct	_	O
-15	.	.	PUNCT	PERIOD	_	7	punct	_	O
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 parataxis	color:blue
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	O
+2	consecință	consecință	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	fixed	_	O
+3	,	,	PUNCT	COMMA	_	1	punct	_	O
+4	concepția	concepție	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	O
+5	trebuie	trebui	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
+6	amânată	amâna	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	5	csubj	_	O
+7	minimum	minimum	ADV	Rgp	Degree=Pos	9	advmod	_	O
+8	6	6	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	9	nummod	_	O
+9	luni	lună	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	6	nmod:tmod	_	O
+10	(	(	PUNCT	LPAR	_	11	punct	_	O
+11	14	14	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	9	parataxis	_	O
+12	)	)	PUNCT	RPAR	_	11	punct	_	O
+13	.	.	PUNCT	PERIOD	_	5	punct	_	O
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 16 parataxis	color:blue
-1	Efectul	efect	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	O
-2	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	O
-3	mai	mai	ADV	Rp	_	4	advmod	_	O
-4	marcat	marcat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	O
-5	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	O
-6	animalele	animal	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	4	obl	_	O
-7	hipofizectomizate	hipofizectomizat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	O
-8	,	,	PUNCT	COMMA	_	14	punct	_	O
-9	și	și	CCONJ	Crssp	Polarity=Pos	14	cc	_	O
-10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	O
-11	mod	mod	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	14	nmod	_	O
-12	paradoxal	paradoxal	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	O
-13	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	O
-14	diabetici	diabetic	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	6	conj	_	O
-15	(	(	PUNCT	LPAR	_	16	punct	_	O
-16	7	7	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	4	parataxis	_	O
-17	)	)	PUNCT	RPAR	_	16	punct	_	O
-18	.	.	PUNCT	PERIOD	_	4	punct	_	O
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 9 parataxis	color:blue
+1	Între	între	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	O
+2	timp	timp	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	O
+3	explorăm	explora	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	O
+4	aplicații	aplicație	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	3	obj	_	O
+5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	O
+6	domeniul	domeniu	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	O
+7	combaterii	combatere	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	O
+8	cancerului	cancer	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	B-DISO
+9	spune	spune	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	O
+10	Gu	Gu	PROPN	Np	_	9	nsubj	_	O
+11	.	.	PUNCT	PERIOD	_	3	punct	_	O
 
 ~~~
 

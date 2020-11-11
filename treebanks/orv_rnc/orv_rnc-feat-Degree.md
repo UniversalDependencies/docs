@@ -94,7 +94,7 @@ The most frequent other feature values with which `NUM` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (152; 98%),
+<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (151; 98%),
 <tt>ADJ --[<tt><a href="orv_rnc-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (14; 82%),
 <tt>ADV --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADV</tt> (14; 100%),
 <tt>ADV --[<tt><a href="orv_rnc-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (10; 83%),

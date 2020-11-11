@@ -59,7 +59,7 @@ The following 25 pairs of parts of speech are connected with `discourse`: <tt><a
 2	,	,	PUNCT	Comma	_	1	punct	_	_
 3	lovely	lovely	ADJ	POS	Degree=Pos	4	amod	_	_
 4	creature	creature	NOUN	SG-NOM	Number=Sing	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	Comma	_	4	punct	_	_
+5	,	,	PUNCT	Comma	_	6	punct	_	_
 6	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	SpaceAfter=No
 7	n't	not	PART	NEG	_	6	advmod	_	_
 8	she	she	PRON	PERS-SG-NOM	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	SpaceAfter=No

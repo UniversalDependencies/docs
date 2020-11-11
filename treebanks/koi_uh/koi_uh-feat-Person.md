@@ -11,61 +11,62 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="koi_uh-feat-Person.html">Person</a></tt>, <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt>.
 
-153 tokens (22%) have a non-empty value of `Person`.
-107 types (28%) occur at least once with a non-empty value of `Person`.
-72 lemmas (23%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (84; 12% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (51; 7% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (17; 2% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+190 tokens (23%) have a non-empty value of `Person`.
+131 types (28%) occur at least once with a non-empty value of `Person`.
+86 lemmas (23%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (108; 13% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (61; 7% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (20; 2% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-84 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Person`.
+108 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (84; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (82; 98%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (65; 77%), <tt><a href="koi_uh-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (55; 65%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (51; 61%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (106; 98%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (87; 81%), <tt><a href="koi_uh-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (79; 73%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (71; 66%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (12; 14% of non-empty `Person`): <em>Висьтала, Пукси, адзза, ветлӧті, вуграся, вуджим, кошши, пантасим, сибӧтчим, узьлі</em>
-* `2` (5; 6% of non-empty `Person`): <em>осьт, Мунан, видзӧтан, думайтан</em>
-* `3` (67; 80% of non-empty `Person`): <em>зэрӧ, босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, пондыліс, тыдалӧ, Кылӧ</em>
-* `EMPTY` (30): <em>вӧтны, адззыв, бырӧм, бӧрйыны, вежӧртӧ, вермы, воштісьны, гленитчы, дорӧм, жалейттӧг</em>
+* `1` (16; 15% of non-empty `Person`): <em>Висьтала, Пукси, адзза, вежӧрті, ветлӧті, видзӧті, вуграся, вуджим, дугда, кошши</em>
+* `2` (8; 7% of non-empty `Person`): <em>осьт, Локтін, Мунан, веритан, видзӧтан, думайтан, эд</em>
+* `3` (84; 78% of non-empty `Person`): <em>зэрӧ, босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, петас, пондыліс, тшӧктіс</em>
+* `EMPTY` (39): <em>вӧтны, адззыв, боньгыныт, бырӧм, бӧрйыны, вежӧртӧ, вермы, видзчисьны, воштісьны, гленитчы</em>
 
 <table>
-  <tr><th>Paradigm <i>видзӧтны</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="koi_uh-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td></td><td><em>видзӧтіс</em></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>видзӧтан</em></td><td></td></tr>
+  <tr><th>Paradigm <i>видзӧтны</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>видзӧті</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="koi_uh-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td></td><td></td><td><em>видзӧтіс</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>видзӧтан</em></td><td></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 95% lemmas (60) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 94% lemmas (73) occur only with one value of `Person`.
 
 ### `PRON`
 
-51 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (77% of all `PRON` tokens) have a non-empty value of `Person`.
+61 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (75% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (51; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (47; 92%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (27; 53%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (61; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57; 93%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (35; 57%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (16; 31% of non-empty `Person`): <em>менам, Ме, меным, Ми, мекӧт, менӧ</em>
-* `2` (9; 18% of non-empty `Person`): <em>тэ, тэнат, ті</em>
-* `3` (26; 51% of non-empty `Person`): <em>сія, сійӧ, сылӧ, нія, сылӧн, Сiя, Сы</em>
-* `EMPTY` (15): <em>мый, эна, этӧ, Кытшӧм, Эта, быд, кин, кыкнаннысӧ, кытӧн, кӧда</em>
+* `1` (20; 33% of non-empty `Person`): <em>ме, менам, меным, Ми, мекӧт, мелань, менӧ</em>
+* `2` (10; 16% of non-empty `Person`): <em>тэ, тэнат, ті</em>
+* `3` (31; 51% of non-empty `Person`): <em>сія, сійӧ, сылӧ, сылӧн, нія, Сiя, Сы</em>
+* `EMPTY` (20): <em>мый, мыйкӧ, эна, этӧ, Кытшӧм, Мӧдыс, Эта, быд, кин, кинкӧ</em>
 
 ### `AUX`
 
-17 <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> tokens (71% of all `AUX` tokens) have a non-empty value of `Person`.
+20 <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15; 88%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (13; 76%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 65%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10; 59%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18; 90%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (15; 75%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 70%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (12; 60%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (4; 24% of non-empty `Person`): <em>эг, ог</em>
-* `2` (2; 12% of non-empty `Person`): <em>верман, эд</em>
-* `3` (11; 65% of non-empty `Person`): <em>эз, оз, озӧ, Вӧлі, коліс, овлӧ</em>
+* `1` (5; 25% of non-empty `Person`): <em>эг, вӧлі, ог</em>
+* `2` (3; 15% of non-empty `Person`): <em>верман, эд, эн</em>
+* `3` (12; 60% of non-empty `Person`): <em>эз, оз, озӧ, Вӧлі, коліс, овлӧ</em>
 * `EMPTY` (7): <em>вермы, бы, вӧв, не, овны, позь</em>
 
 <table>
   <tr><th>Paradigm <i>оз</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эг</em></td><td></td><td><em>эз</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эг</em></td><td><em>эн</em></td><td><em>эз</em></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ог</em></td><td></td><td><em>оз</em></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эг</em></td><td><em>эд</em></td><td></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>озӧ</em></td></tr>
@@ -86,10 +87,8 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (16; 70%),
-<tt>VERB --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> VERB</tt> (13; 87%),
+<tt>VERB --[<tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (23; 70%),
+<tt>VERB --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> VERB</tt> (20; 87%),
 <tt>VERB --[<tt><a href="koi_uh-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (4; 100%),
-<tt>VERB --[<tt><a href="koi_uh-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 75%),
-<tt>VERB --[<tt><a href="koi_uh-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="koi_uh-dep-obl-tmod.html">obl:tmod</a></tt>]--> PRON</tt> (1; 100%).
 

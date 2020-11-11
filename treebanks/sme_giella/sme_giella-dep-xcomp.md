@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	Riidin	riidi	NOUN	N	Case=Ess	2	xcomp	_	_
 2	gohččojuvvo	gohččut	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	dat	dat	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	nsubj	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	2	punct	_	_
+4	,	,	PUNCT	CLB	_	7	punct	_	_
 5	mii	mii	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	7	nsubj	_	_
 6	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	allat	allat	ADJ	A	Case=Nom|Number=Sing	3	acl:relcl	_	_

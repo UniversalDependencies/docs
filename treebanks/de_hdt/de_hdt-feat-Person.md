@@ -178,7 +178,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>NOUN --[<tt><a href="de_hdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (158030; 99%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (158029; 99%),
 <tt>VERB --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (66221; 66%),
 <tt>NOUN --[<tt><a href="de_hdt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (48009; 100%),
 <tt>NOUN --[<tt><a href="de_hdt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (35951; 100%),

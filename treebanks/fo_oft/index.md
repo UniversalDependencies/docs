@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Bjartur Mortensen, Francis Tyers.
 
 Repository: [UD_Faroese-OFT](https://github.com/UniversalDependencies/UD_Faroese-OFT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_oft26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_oft27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -83,7 +83,7 @@ year = 2018
 
 ## POS Tags
 
-[ADJ](fo_oft-pos-ADJ.html) – [ADP](fo_oft-pos-ADP.html) – [ADV](fo_oft-pos-ADV.html) – [CCONJ](fo_oft-pos-CCONJ.html) – [DET](fo_oft-pos-DET.html) – [INTJ](fo_oft-pos-INTJ.html) – [NOUN](fo_oft-pos-NOUN.html) – [NUM](fo_oft-pos-NUM.html) – [PART](fo_oft-pos-PART.html) – [PRON](fo_oft-pos-PRON.html) – [PROPN](fo_oft-pos-PROPN.html) – [PUNCT](fo_oft-pos-PUNCT.html) – [SCONJ](fo_oft-pos-SCONJ.html) – [VERB](fo_oft-pos-VERB.html) – [X](fo_oft-pos-X.html)
+[ADJ](fo_oft-pos-ADJ.html) – [ADP](fo_oft-pos-ADP.html) – [ADV](fo_oft-pos-ADV.html) – [AUX](fo_oft-pos-AUX.html) – [CCONJ](fo_oft-pos-CCONJ.html) – [DET](fo_oft-pos-DET.html) – [INTJ](fo_oft-pos-INTJ.html) – [NOUN](fo_oft-pos-NOUN.html) – [NUM](fo_oft-pos-NUM.html) – [PART](fo_oft-pos-PART.html) – [PRON](fo_oft-pos-PRON.html) – [PROPN](fo_oft-pos-PROPN.html) – [PUNCT](fo_oft-pos-PUNCT.html) – [SCONJ](fo_oft-pos-SCONJ.html) – [VERB](fo_oft-pos-VERB.html) – [X](fo_oft-pos-X.html)
 
 ## Features
 
@@ -120,8 +120,8 @@ year = 2018
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: AUX, SYM</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: SYM</li>
 </ul>
 
 <ul>
@@ -141,10 +141,11 @@ year = 2018
 </ul>
 
 <ul>
-<li>This corpus contains 0 lemmas tagged as auxiliaries (AUX): </li>
+<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): hava, koma, kunna, kunnu, mega, skula, vara, vera, verða</li>
 </ul>
 
 <ul>
+<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: hava, koma, skula, vara, vera, verða</li>
 </ul>
 
 <ul>
@@ -154,7 +155,8 @@ year = 2018
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: vera, síggja, fáa, gera, koma, byggja, eta, hava, ganga, kasta</li>
+    <li>AUX: vera</li>
+    <li>VERB: síggja, fáa, gera, koma, byggja, eta, hava, ganga, kasta, styrkja</li>
   </ul>
   </li>
 </ul>
@@ -170,7 +172,8 @@ year = 2018
 <ul>
   <li>Sup
   <ul>
-    <li>VERB: verið, gjørt, kent, lagt, sæst, dyrkað, endurreist, friðað, funnið, havt</li>
+    <li>AUX: verið</li>
+    <li>VERB: gjørt, kent, lagt, sæst, dyrkað, endurreist, friðað, funnið, havt, loyvt</li>
   </ul>
   </li>
 </ul>
@@ -236,11 +239,12 @@ year = 2018
     <ul>
       <li>ADJ: nógv, fleiri, nógvar, mong, Flestu, stórir, aðrar, aðrir, mangir, stór</li>
       <li>ADV: vanliga, størsta, veldiga</li>
+      <li>AUX: eru, vóru, hava, kunnu, skulu, máttu, vórðu, mugu, verða</li>
       <li>DET: allir, Summir, Allar, mínir, síni, Øll</li>
       <li>NOUN: fólk, kommunur, býnum, døgum, ferðir, Føturnir, býir, indiánar, minuttir, muslimar</li>
       <li>PRON: teir, tey, vit, nakrir, Allir, Báðir, Summir, hesir, okkara, okkum</li>
       <li>PROPN: Føroyum, Føroya, Føroyar, Niðurlondum, Niðurlond, Hellurnar</li>
-      <li>VERB: eru, vóru, hava, búgva, doyðu, kunnu, skulu, búsettust, búðu, hjálpa</li>
+      <li>VERB: eru, búgva, doyðu, búsettust, búðu, hava, hjálpa, tala, Drívið, Sameindu</li>
       <li>VERB-Part: Sameindu, flettir, keyptir, nevndar, prentaðir</li>
     </ul>
   </li>
@@ -250,12 +254,13 @@ year = 2018
   <li>Sing
     <ul>
       <li>ADJ: størsti, størsta, stórur, stóran, nógvur, stórt, føroyskur, sama, amerikanska, stór</li>
+      <li>AUX: er, var, varð, verður, hevur, kann, skal, skuldi, havi, hevði</li>
       <li>DET: ein, eitt, einum, eina, allan, sínum, øll, allur, eini, sína</li>
       <li>NOUN: býur, høvuðsstaður, býurin, høvuðsstaðurin, kommuna, fólkinum, landslutinum, partur, týdning, Meginparturin</li>
       <li>NUM: ein, tveir, trý, tvær, trimum, tríggjar, tveimum, tvey</li>
       <li>PRON: hon, hann, tað, hetta, hansara, henni, honum, eg, hennara, Hatta</li>
       <li>PROPN: Noregi, Danmark, Kanada, Amerika, Kina, Fraklandi, Italia, Keypmannahavn, New, Nigeria</li>
-      <li>VERB: er, var, hevur, varð, verður, býr, kom, liggur, Sí, kann</li>
+      <li>VERB: býr, hevur, liggur, Sí, kom, fer, fór, er, stendur, tók</li>
       <li>VERB-Part: kendastur, samlaða</li>
     </ul>
   </li>
@@ -377,7 +382,8 @@ year = 2018
 <ul>
   <li>Ind
     <ul>
-      <li>VERB: er, eru, var, hevur, vóru, varð, verður, býr, kom, liggur</li>
+      <li>AUX: er, eru, var, vóru, varð, verður, hevur, kann, skal, hava</li>
+      <li>VERB: býr, hevur, liggur, kom, eru, fer, fór, er, stendur, tók</li>
       <li>VERB-Part: nevndur, Sameindu, fingin, flettir, fluttur, framdur, gjørdur, hóskandi, kendastur, keyptir</li>
     </ul>
   </li>
@@ -398,7 +404,8 @@ year = 2018
 <ul>
   <li>Past
     <ul>
-      <li>VERB: var, vóru, varð, kom, fór, hevði, tók, gjørdist, vann, bleiv</li>
+      <li>AUX: var, vóru, varð, skuldi, máttu, vórðu, hevði, kom</li>
+      <li>VERB: kom, fór, tók, gjørdist, hevði, vann, bleiv, spældi, byrjaði, doyðu</li>
       <li>VERB-Part: nevndur, Sameindu, fingin, flettir, fluttur, framdur, gjørdur, kendastur, keyptir, nevndar</li>
     </ul>
   </li>
@@ -407,7 +414,8 @@ year = 2018
 <ul>
   <li>Pres
     <ul>
-      <li>VERB: er, eru, hevur, verður, býr, liggur, kann, fer, skal, hava</li>
+      <li>AUX: er, eru, verður, hevur, kann, skal, hava, kunnu, skulu, havi</li>
+      <li>VERB: býr, hevur, liggur, eru, fer, er, stendur, eitur, fæst, nevnist</li>
       <li>VERB-Part: hóskandi</li>
     </ul>
   </li>
@@ -499,8 +507,9 @@ year = 2018
 <ul>
   <li>1
     <ul>
+      <li>AUX: havi</li>
       <li>PRON: vit, eg, mín, okkara, okkum</li>
-      <li>VERB: havi, taki</li>
+      <li>VERB: taki</li>
     </ul>
   </li>
 </ul>
@@ -517,8 +526,9 @@ year = 2018
 <ul>
   <li>3
     <ul>
+      <li>AUX: er, var, varð, verður, hevur, kann, skal, kom, varir</li>
       <li>PRON: hon, hann, tað, teir, hansara, tey, henni, honum, hennara, hana</li>
-      <li>VERB: er, var, hevur, varð, verður, býr, kom, liggur, kann, fer</li>
+      <li>VERB: býr, hevur, liggur, kom, fer, fór, er, stendur, tók, vann</li>
     </ul>
   </li>
 </ul>
@@ -551,7 +561,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Acc (4)</li>
       <li>VERB--NOUN-Dat (1)</li>
-      <li>VERB--NOUN-Nom (209)</li>
+      <li>VERB--NOUN-Nom (202)</li>
       <li>VERB--NOUN-Nom-ADP(um) (1)</li>
       <li>VERB--PRON (19)</li>
       <li>VERB--PRON-Nom (47)</li>
@@ -572,7 +582,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (2)</li>
-      <li>VERB--NOUN-Acc (55)</li>
+      <li>VERB--NOUN-Acc (54)</li>
       <li>VERB--NOUN-Acc-ADP(á) (1)</li>
       <li>VERB--NOUN-Dat (9)</li>
       <li>VERB--NOUN-Nom (4)</li>

@@ -74,15 +74,15 @@ The 3rd highest number of forms (1) was observed with the lemma “et”: <em>et
 
 Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (2153; 44% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (1694; 35% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (375; 8% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (349; 7% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (149; 3% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="bg_btb-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (8; 0% instances),  (2; 0% instances), <tt><a href="bg_btb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-4283 (88%) `CCONJ` nodes are leaves.
+4287 (88%) `CCONJ` nodes are leaves.
 
-575 (12%) `CCONJ` nodes have one child.
+571 (12%) `CCONJ` nodes have one child.
 
 2 (0%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="bg_btb-dep-punct.html">punct</a></tt> (578; 100% instances), <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (1; 0% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="bg_btb-dep-punct.html">punct</a></tt> (574; 100% instances), <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (1; 0% instances)
 
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> (578; 100% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> (574; 100% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 

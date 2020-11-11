@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-expl.html">expl</a></tt>.
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_nonstandard-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_nonstandard-dep-expl-poss.html">expl:poss</a></tt>.
 
-9662 nodes (2%) are attached to their parents as `expl:pv`.
+12207 nodes (2%) are attached to their parents as `expl:pv`.
 
-8475 instances of `expl:pv` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29062305940799.
+10854 instances of `expl:pv` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32858196116982.
 
-The following 8 pairs of parts of speech are connected with `expl:pv`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (9519; 99% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (107; 1% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `expl:pv`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (12056; 99% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (110; 1% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,26 +55,19 @@ The following 8 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 11 expl:pv	color:blue
-1	Că	că	SCONJ	Csssp	Polarity=Pos	2	mark	_	ref=IOAN10.20
-2	zicea	zice	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	ref=IOAN10.20
-3	mulți	mult	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	2	nsubj	_	ref=IOAN10.20
-4	dentr-	dintre	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	5	case	_	ref=IOAN10.20|SpaceAfter=No
-5	înși	însul	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nmod	_	ref=IOAN10.20|SpaceAfter=No
-6	:	:	PUNCT	COLON	_	8	punct	_	ref=IOAN10.20
-7	Drac	drac	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	obj	_	ref=IOAN10.20
-8	arе	avea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	ref=IOAN10.20
-9	și	și	CCONJ	Ccssp	Polarity=Pos	14	cc	_	ref=IOAN10.20
-10	nu	nu	ADV	Qz	Polarity=Neg	14	advmod	_	ref=IOAN10.20|SpaceAfter=No
-11	-Şi	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Strength=Weak	14	expl:pv	_	ref=IOAN10.20
-12	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	cop	_	ref=IOAN10.20
-13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=IOAN10.20
-14	fire	fire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	conj	_	ref=IOAN10.20|SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	2	punct	_	ref=IOAN10.20
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 expl:pv	color:blue
+1	Dar	dar	CCONJ	Ccssp	Polarity=Pos	3	cc	_	_
+2	sub	sub	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
+3	cort	cort	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+4	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	nsubj	_	_
+5	mi-	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	3	iobj	_	|SpaceAfter=No
+6	și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Strength=Weak	3	expl:pv	_	_
+7	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	3	cop	_	|SpaceAfter=No
+8	?	?	PUNCT	QUEST	_	3	punct	_	_
 
 ~~~
 

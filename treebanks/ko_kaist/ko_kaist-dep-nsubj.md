@@ -35,7 +35,7 @@ The following 58 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 11	종소리가	종소리+가	NOUN	ncn+jcs	_	14	nsubj	_	_
 12	어디서나	어디+서나	ADV	npd+jxc	_	14	advcl	_	_
 13	다	다	ADV	mag	_	14	advmod	_	_
-14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	_
+14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
 
 ~~~
@@ -51,7 +51,7 @@ The following 58 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 2	서울의	서울+의	PROPN	nq+jcm	_	3	nmod	_	_
 3	모습이	모습+이	NOUN	ncn+jcs	_	5	nsubj	_	_
 4	몹시	몹시	ADV	mag	_	5	advmod	_	_
-5	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	_
+5	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	sf	_	5	punct	_	_
 
 ~~~
@@ -76,7 +76,7 @@ The following 58 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 11	종소리가	종소리+가	NOUN	ncn+jcs	_	14	nsubj	_	_
 12	어디서나	어디+서나	ADV	npd+jxc	_	14	advcl	_	_
 13	다	다	ADV	mag	_	14	advmod	_	_
-14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	_
+14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
 
 ~~~

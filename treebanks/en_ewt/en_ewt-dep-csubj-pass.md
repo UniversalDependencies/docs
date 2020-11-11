@@ -31,7 +31,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 7	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 8	by	by	ADP	IN	_	10	case	10:case	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
-10	governor	governor	PROPN	NNP	Number=Sing	7	obl	7:obl:by	_
+10	governor	governor	NOUN	NN	Number=Sing	7	obl	7:obl:by	_
 11	and	and	CCONJ	CC	_	12	cc	12:cc	_
 12	Dunn	Dunn	PROPN	NNP	Number=Sing	10	conj	7:obl:by|10:conj:and	_
 13	to	to	PART	TO	_	17	mark	17:mark	_

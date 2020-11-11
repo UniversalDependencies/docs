@@ -27,7 +27,7 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 3	entire	entire	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	article	article	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
 5	;	;	PUNCT	,	_	1	punct	1:punct	_
-6	there	there	PRON	EX	_	7	expl	7:expl	SpaceAfter=No
+6	there	there	PRON	EX	_	7	expl	7:expl	_
 7	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
 8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
 9	punchline	punchline	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
@@ -67,7 +67,7 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 6 3 expl	color:blue
 1	And	and	CCONJ	CC	_	6	cc	6:cc	_
 2	then	then	ADV	RB	PronType=Dem	6	advmod	6:advmod	_
-3	there	there	PRON	EX	_	6	expl	6:expl	SpaceAfter=No
+3	there	there	PRON	EX	_	6	expl	6:expl	_
 4	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
 6	rain	rain	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	SpaceAfter=No

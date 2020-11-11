@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-958 nodes (0%) are attached to their parents as `compound`.
+956 nodes (0%) are attached to their parents as `compound`.
 
-958 instances of `compound` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.06367432150313.
+956 instances of `compound` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06380753138075.
 
-The following 14 pairs of parts of speech are connected with `compound`: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (894; 93% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (26; 3% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-X.html">X</a></tt> (12; 1% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-X.html">X</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `compound`: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (894; 94% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (26; 3% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-X.html">X</a></tt> (12; 1% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,8 +22,8 @@ The following 14 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 compound	color:blue
-1	Che	che	DET	DQ	PronType=Int	3	obj	_	_
-2	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	1	fixed	_	_
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	3	obj	_	_
 3	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 4	con	con	ADP	E	_	7	case	_	_
 5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_

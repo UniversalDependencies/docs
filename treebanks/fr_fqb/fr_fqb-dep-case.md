@@ -50,7 +50,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 6	en	en	ADP	_	_	7	case	_	_
 7	France	France	PROPN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
 8	ou	ou	CCONJ	_	_	9	cc	_	_
-9	à	à_l'étranger	ADP	_	_	7	conj	_	EXTPOS=ADV
+9	à	à_l'étranger	ADP	_	_	7	conj	_	ExtPos=ADV
 10	l'	_	DET	_	_	9	fixed	_	SpaceAfter=No
 11	étranger	_	NOUN	_	_	9	fixed	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
@@ -68,8 +68,8 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 2	qui	qui	PRON	_	PronType=Int	7	obl:arg	_	_
 3	Shostakovitch	Shostakovitch	PROPN	_	_	7	nsubj	_	_
 4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	SpaceAfter=No
-5	-t	t	PART	_	_	6	dep	_	SpaceAfter=No
-6	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	7	expl:subj	_	_
+5	-t	t	PART	_	_	6	dep	_	SpaceAfter=No|wordform=t
+6	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	7	expl:subj	_	wordform=il
 7	dédié	dédier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	son	son	DET	_	Number=Sing|Poss=Yes	9	det	_	_
 9	quatuor	quatuor	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_

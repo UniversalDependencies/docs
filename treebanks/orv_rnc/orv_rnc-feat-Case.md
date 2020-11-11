@@ -226,7 +226,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (488; 96%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (245; 91%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (187; 83%),
-<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (147; 95%),
+<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (146; 95%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> PROPN</tt> (135; 70%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (92; 95%).
 

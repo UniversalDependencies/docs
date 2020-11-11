@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>etcétera</em> (<tt><a href="es_ancor
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.058824 (the average of all parts of speech is 1.502206).
+The form / lemma ratio of `PUNCT` is 1.058824 (the average of all parts of speech is 1.502171).
 
 The 1st highest number of forms (2) was observed with the lemma “etcétera”: <em>etc, etcétera</em>.
 
@@ -48,7 +48,7 @@ Examples: <em>,, ..., etcétera, etc</em>
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="es_ancora-dep-punct.html">punct</a></tt> (65495; 100% instances), <tt><a href="es_ancora-dep-root.html">root</a></tt> (12; 0% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (29450; 45% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (16310; 25% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (7216; 11% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (5162; 8% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (1848; 3% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1379; 2% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (1237; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1007; 2% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (996; 2% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (306; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (192; 0% instances), <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (149; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (115; 0% instances), <tt><a href="es_ancora-pos-PART.html">PART</a></tt> (79; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (26; 0% instances), <tt><a href="es_ancora-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances),  (12; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (29450; 45% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (16312; 25% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (7228; 11% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (5162; 8% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (1848; 3% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1379; 2% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (1223; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1007; 2% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (996; 2% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (306; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (192; 0% instances), <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (149; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (115; 0% instances), <tt><a href="es_ancora-pos-PART.html">PART</a></tt> (79; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (26; 0% instances), <tt><a href="es_ancora-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances),  (12; 0% instances)
 
 65496 (100%) `PUNCT` nodes are leaves.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="la_ittb-dep-amod.html">amod</a></tt>.
 
-147 nodes (0%) are attached to their parents as `amod:advmod`.
+146 nodes (0%) are attached to their parents as `amod:advmod`.
 
-74 instances of `amod:advmod` (50%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.38775510204082.
+74 instances of `amod:advmod` (51%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.39041095890411.
 
-The following 4 pairs of parts of speech are connected with `amod:advmod`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (68; 46% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (43; 29% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (32; 22% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (4; 3% instances).
+The following 4 pairs of parts of speech are connected with `amod:advmod`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (67; 46% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (43; 29% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (32; 22% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (4; 3% instances).
 
 
 ~~~ conllu
@@ -44,11 +44,11 @@ The following 4 pairs of parts of speech are connected with `amod:advmod`: <tt><
 1	quis	qui	PRON	F1|grn1|casA|gen1|varA	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	_
 2	prior	prior	ADJ	C1|grn2|casA|gen1	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|NumType=Ord	1	amod:advmod	_	_
 3	dedit	do	VERB	J3|modA|tem4|gen6	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	illi	ille	PRON	F1|grn1|casC|gen1	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+4	illi	ille	PRON	F1|grn1|casC|gen1	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem	3	obl:arg	_	SpaceAfter=No
 5	,	,	PUNCT	Punc	_	7	punct	_	_
 6	et	et	CCONJ	O4	_	7	cc	_	_
-7	retribuetur	retribuo	VERB	L3|modJ|tem3|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	3	conj	_	_
-8	ei	is	PRON	F1|grn1|casC|gen1	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem,Prs	7	obj	_	SpaceAfter=No
+7	retribuetur	retribuo	VERB	L3|modJ|tem3|gen6	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	3	conj	_	_
+8	ei	is	PRON	F1|grn1|casC|gen1	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem,Prs	7	obl:arg	_	SpaceAfter=No
 9	?	?	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
@@ -67,8 +67,8 @@ The following 4 pairs of parts of speech are connected with `amod:advmod`: <tt><
 5	quod	quod	SCONJ	O4	_	8	mark	_	_
 6	solus	solus	ADJ	F1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod:advmod	_	_
 7	deus	deus	PROPN	F1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	nsubj	_	_
-8	potest	possum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	1	csubj:pass	_	_
-9	creare	creo	VERB	J3|modH|tem1	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	SpaceAfter=No
+8	potest	possum	VERB	N3|modA|tem1|gen6	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	1	csubj:pass	_	_
+9	creare	creo	VERB	J3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	SpaceAfter=No
 10	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~

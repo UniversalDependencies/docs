@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_North_Sami-Giella: POS Tags: `ADP`
 
 There are 84 `ADP` lemmas (2%), 87 `ADP` types (1%) and 502 `ADP` tokens (2%).
-Out of 14 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 11 in number of tokens.
+Out of 14 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 11 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>birra, mielde, lusa, gaskkas, ovddas, rájes, mielas, luhtte, bokte, maŋŋá</em>
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>birra</em> (<tt><a href="sme_giella-p
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.035714 (the average of all parts of speech is 1.745041).
+The form / lemma ratio of `ADP` is 1.035714 (the average of all parts of speech is 1.749612).
 
 The 1st highest number of forms (2) was observed with the lemma “láhkai”: <em>láhkai, láhkái</em>.
 

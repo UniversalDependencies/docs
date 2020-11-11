@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="sme_giella-dep-aux
 941 instances of `aux` (99%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.65153115100317.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (899; 95% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (24; 3% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (21; 2% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (899; 95% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (24; 3% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (21; 2% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 2 aux	color:blue
 1	Stáhta	stáhta	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
-2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	dadjan	dadjat	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	_
 4	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 5	galggat	galgat	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
@@ -40,9 +40,9 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 aux	color:blue
-1	Ii	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	5	aux:neg	_	_
+1	Ii	ii	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	5	aux:neg	_	_
 2	oktage	oktage	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	5	nsubj	_	_
-3	sáhte	sáhttit	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	sáhte	sáhttit	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	leat	leat	AUX	V	VerbForm=Inf	5	cop	_	_
 5	lahttun	lahttu	NOUN	N	Case=Ess	0	root	_	_
 6	eambbo	eambbo	ADV	Adv	Degree=Cmp	5	advmod	_	_
@@ -62,7 +62,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 2 aux	color:blue
 1	Mearridanváldi	mearridanváldi	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
-2	berre	berret	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+2	berre	berret	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 3	leat	leat	AUX	V	VerbForm=Inf	5	cop	_	_
 4	nu	nu	ADV	Adv	_	5	advmod	_	_
 5	čadni	čadni	ADJ	A	Case=Nom|Number=Sing	0	root	_	_

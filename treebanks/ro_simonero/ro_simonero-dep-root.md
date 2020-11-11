@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-491 nodes (3%) are attached to their parents as `root`.
+4681 nodes (3%) are attached to their parents as `root`.
 
-491 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.81873727087576.
+4681 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.86690878017518.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (390; 79% instances), -<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (51; 10% instances), -<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (40; 8% instances), -<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (4; 1% instances), -<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (4; 1% instances), -<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (3630; 78% instances), -<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (469; 10% instances), -<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (438; 9% instances), -<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (44; 1% instances), -<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (36; 1% instances), -<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (33; 1% instances), -<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (20; 0% instances), -<tt><a href="ro_simonero-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="ro_simonero-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), -<tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,16 +22,37 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 6 root	color:blue
-1	Clasic	clasic	ADV	Rgp	Degree=Pos	6	advmod	_	O
-2	,	,	PUNCT	COMMA	_	1	punct	_	O
-3	creierul	creier	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	B-ANAT
-4	a	avea	AUX	Va--3s	Number=Sing|Person=3	6	aux	_	O
-5	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	6	aux	_	O
-6	inclus	include	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	O
-7	printre	printre	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	O
-8	țesuturile	țesut	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	obl	_	B-ANAT
-9	insulinoindependente	insulinoindependent	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	8	amod	_	I-ANAT
-10	.	.	PUNCT	PERIOD	_	6	punct	_	O
+1	Din	din	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	O
+2	contra	contra	ADV	Rgp	Degree=Pos	6	obl	_	O
+3	,	,	PUNCT	COMMA	_	2	punct	_	O
+4	venele	venă	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	nsubj	_	B-ANAT
+5	centrale	central	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	I-ANAT
+6	devin	deveni	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
+7	subțiri	subțire	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	6	xcomp	_	O
+8	și	și	CCONJ	Crssp	Polarity=Pos	10	cc	_	O
+9	ușor	ușor	ADV	Rgp	Degree=Pos	10	advmod	_	O
+10	distensibile	distensibil	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	7	conj	_	O
+11	.	.	PUNCT	PERIOD	_	6	punct	_	O
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
+1	Consecința	consecință	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	O
+2	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	O
+3	scăderea	scădere	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	O
+4	biodisponibilității	biodisponibilitate	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	O
+5	oxidului	oxid	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	B-CHEM
+6	nitric	nitric	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	I-CHEM
+7	(	(	PUNCT	LPAR	_	8	punct	_	O
+8	NO	NO	NOUN	Yn	Abbr=Yes	3	appos	_	B-CHEM
+9	)	)	PUNCT	RPAR	_	8	punct	_	O
+10	.	.	PUNCT	PERIOD	_	3	punct	_	O
 
 ~~~
 
@@ -52,27 +73,6 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 8	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	O
 9	diagnostic	diagnostic	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	O
 10	.	.	PUNCT	PERIOD	_	7	punct	_	O
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
-# visual-style 0 6 root	color:blue
-1	Volumul	volum	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	O
-2	acestei	acest	DET	Dd3fso---e	Case=Gen|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	3	det	_	O
-3	zone	zonă	NOUN	Ncfson	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	O
-4	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	O
-5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	O
-6	relație	relație	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	O
-7	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	O
-8	aria	arie	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	O
-9	orificiului	orificiu	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	B-ANAT
-10	regurgitant	regurgitant	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	I-ANAT
-11	.	.	PUNCT	PERIOD	_	6	punct	_	O
 
 ~~~
 

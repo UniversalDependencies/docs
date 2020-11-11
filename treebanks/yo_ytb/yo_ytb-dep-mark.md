@@ -28,7 +28,7 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.19
 5	wà	wà	VERB	_	_	0	root	_	Gloss=was|Ref=JOHN_10.19
 6	láàrin	láàrin	ADP	_	_	8	case	_	Gloss=among|Ref=JOHN_10.19
-7	àwọn	àwọn	DET	_	_	8	det	_	Gloss=the|Ref=JOHN_10.19
+7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	8	det	_	Gloss=the|Ref=JOHN_10.19
 8	Júù	júù	PROPN	_	_	5	obl	_	Gloss=jews|Ref=JOHN_10.19
 9	nítorí	nítorí	SCONJ	_	_	10	case	_	Gloss=because|Ref=JOHN_10.19
 10	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	5	obl	_	Gloss=word|Ref=JOHN_10.19
@@ -56,7 +56,7 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 10	kò	kò	PART	_	_	12	advmod	_	Gloss=did|Ref=JOHN_10.13
 11	sì	sì	CCONJ	_	_	12	cc	_	Gloss=not|Ref=JOHN_10.13
 12	náání	náání	VERB	_	_	8	conj	_	Gloss=care-for|Ref=JOHN_10.13
-13	àwọn	àwọn	DET	_	_	14	det	_	Gloss=the|Ref=JOHN_10.13
+13	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	14	det	_	Gloss=the|Ref=JOHN_10.13
 14	àgùntàn	àgùntàn	NOUN	_	_	12	obj	_	Gloss=sheep|Ref=JOHN_10.13|SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	Gloss=.|Ref=JOHN_10.13
 

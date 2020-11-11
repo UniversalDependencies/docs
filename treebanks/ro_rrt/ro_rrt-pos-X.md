@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Romanian-RRT: POS Tags: `X`
 
 There are 65 `X` lemmas (0%), 65 `X` types (0%) and 77 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 10 in number of types and 16 in number of tokens.
+Out of 16 observed tags, the rank of `X` is: 7 in number of lemmas, 10 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>metri_pătrați, 5a, American, K., alia, inter, mot, -a, ACTIVE, Awards</em>
 
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>5a</em> (<tt><a href="ro_rrt-pos-ADV.
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.819957).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.819852).
 
 The 1st highest number of forms (1) was observed with the lemma “-a”: <em>-a</em>.
 
@@ -77,7 +77,7 @@ Examples: <em>American, inter, mot, -a, ACTIVE, Awards, English, Guiness, Jassio
 
 ## Relations
 
-`X` nodes are attached to their parents using 13 different relations: <tt><a href="ro_rrt-dep-flat.html">flat</a></tt> (31; 40% instances), <tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt> (17; 22% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (6; 8% instances), <tt><a href="ro_rrt-dep-appos.html">appos</a></tt> (5; 6% instances), <tt><a href="ro_rrt-dep-obl.html">obl</a></tt> (4; 5% instances), <tt><a href="ro_rrt-dep-amod.html">amod</a></tt> (3; 4% instances), <tt><a href="ro_rrt-dep-goeswith.html">goeswith</a></tt> (3; 4% instances), <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (2; 3% instances), <tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-root.html">root</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 13 different relations: <tt><a href="ro_rrt-dep-flat.html">flat</a></tt> (33; 43% instances), <tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt> (17; 22% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (6; 8% instances), <tt><a href="ro_rrt-dep-appos.html">appos</a></tt> (5; 6% instances), <tt><a href="ro_rrt-dep-obl.html">obl</a></tt> (4; 5% instances), <tt><a href="ro_rrt-dep-amod.html">amod</a></tt> (3; 4% instances), <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (2; 3% instances), <tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="ro_rrt-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-goeswith.html">goeswith</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-root.html">root</a></tt> (1; 1% instances)
 
 Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="ro_rrt-pos-X.html">X</a></tt> (34; 44% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (26; 34% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (7; 9% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (6; 8% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances),  (1; 1% instances)
 
@@ -91,7 +91,7 @@ Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="ro_rrt-
 
 The highest child degree of a `X` node is 6.
 
-Children of `X` nodes are attached using 14 different relations: <tt><a href="ro_rrt-dep-flat.html">flat</a></tt> (26; 29% instances), <tt><a href="ro_rrt-dep-punct.html">punct</a></tt> (24; 27% instances), <tt><a href="ro_rrt-dep-case.html">case</a></tt> (8; 9% instances), <tt><a href="ro_rrt-dep-nummod.html">nummod</a></tt> (8; 9% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (4; 4% instances), <tt><a href="ro_rrt-dep-det.html">det</a></tt> (4; 4% instances), <tt><a href="ro_rrt-dep-goeswith.html">goeswith</a></tt> (4; 4% instances), <tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt> (3; 3% instances), <tt><a href="ro_rrt-dep-amod.html">amod</a></tt> (2; 2% instances), <tt><a href="ro_rrt-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="ro_rrt-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-appos.html">appos</a></tt> (1; 1% instances)
+Children of `X` nodes are attached using 14 different relations: <tt><a href="ro_rrt-dep-flat.html">flat</a></tt> (28; 31% instances), <tt><a href="ro_rrt-dep-punct.html">punct</a></tt> (25; 28% instances), <tt><a href="ro_rrt-dep-case.html">case</a></tt> (8; 9% instances), <tt><a href="ro_rrt-dep-nummod.html">nummod</a></tt> (8; 9% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (4; 4% instances), <tt><a href="ro_rrt-dep-det.html">det</a></tt> (4; 4% instances), <tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt> (3; 3% instances), <tt><a href="ro_rrt-dep-amod.html">amod</a></tt> (2; 2% instances), <tt><a href="ro_rrt-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="ro_rrt-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-goeswith.html">goeswith</a></tt> (1; 1% instances)
 
 Children of `X` nodes belong to 11 different parts of speech: <tt><a href="ro_rrt-pos-X.html">X</a></tt> (34; 38% instances), <tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (25; 28% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (8; 9% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (7; 8% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (4; 4% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

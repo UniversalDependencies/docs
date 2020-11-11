@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 21743 tokens (1%) have a non-empty value of `Abbr`.
 1755 types (1%) occur at least once with a non-empty value of `Abbr`.
-1806 lemmas (3%) occur at least once with a non-empty value of `Abbr`.
+1795 lemmas (3%) occur at least once with a non-empty value of `Abbr`.
 The feature is used with 10 part-of-speech tags: <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (13042; 1% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (5768; 0% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (1715; 0% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (956; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (192; 0% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (23; 0% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="cs_pdt-pos-X.html">X</a></tt> (12; 0% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (3; 0% instances).
 
 ### `PROPN`
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 * `Yes` (5768; 100% of non-empty `Abbr`): <em>r, s, tel, m, č, km, MS, mil, Kčs, cm</em>
 * `EMPTY` (366591): <em>roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (485) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (480) occur only with one value of `Abbr`.
 
 ### `ADJ`
 

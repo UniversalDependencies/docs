@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-20 nodes (2%) are attached to their parents as `ccomp`.
+25 nodes (2%) are attached to their parents as `ccomp`.
 
-19 instances of `ccomp` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.8.
+24 instances of `ccomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.36.
 
-The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (19; 95% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (21; 84% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 8% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -31,26 +31,44 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 ccomp	color:blue
-1	kõõjji	kõõččâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
-2	,	,	PUNCT	CLB	_	5	punct	_	_
-3	štõ	što	SCONJ	CS	_	5	mark	_	_
-4	leäk-a	leeʹd	AUX	Aux	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	5	cop	_	GTtags=IV,Ind,Prs,Sg2,Qst/a
-5	tiõrvâs	tiõrvâs	ADJ	A	Case=Nom|Number=Sing	1	ccomp	_	GTtags=Sg,Nom|SpaceAfter=No
-6	,	,	PUNCT	CLB	_	9	punct	_	_
-7	jiõk	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	9	aux:neg	_	GTtags=Neg,Ind,Sg2
-8	leäkku	leeʹd	AUX	Aux	Connegative=Yes|Mood=Ind|Tense=Pres|Valency=1	9	aux	_	GTtags=IV,Ind,Prs,ConNeg
-9	tiõrvâs	tiõrvâs	ADJ	A	Case=Nom|Number=Sing	5	conj	_	GTtags=Sg,Nom|SpaceAfter=No
-10	,	,	PUNCT	CLB	_	12	punct	_	_
-11	lij-a	leeʹd	AUX	Aux	Clitic=QstA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	12	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
-12	piâr	piâr	NOUN	N	Case=Nom|Number=Sing	5	conj	_	GTtags=N,Sg,Nom
-13	vai	vai	CCONJ	CC	_	14	cc	_	_
-14	iʹlla	iʹlla	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	12	conj	_	GTtags=Neg,Ind,Prs,Sg3|SpaceAfter=No
-15	.	.	PUNCT	CLB	_	1	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 ccomp	color:blue
+1	De	de	CCONJ	CC	_	2	cc	_	_
+2	reäkk	reäkkad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
+3	da	da	CCONJ	CC	_	4	cc	_	_
+4	särnn	särnnad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3
+5	da	da	CCONJ	CC	_	6	cc	_	_
+6	mättat	mättʼted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3
+7	što	što	SCONJ	CS	_	9	mark	_	_
+8	mäʹhtt	mäʹhtt	ADV	Adv	_	9	advmod	_	_
+9	âlgg	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	ccomp	_	GTtags=Ind,Prs,Sg3
+10	jååʹtted	jååʹtted	VERB	V	VerbForm=Inf	9	xcomp	_	GTtags=Inf
+11	što	što	SCONJ	CS	_	14	mark	_	_
+12	oummooumaž	oummooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	14	nsubj	_	GTtags=Sem/Hum,Sg,Nom
+13	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	14	aux:neg	_	GTtags=Neg,Ind,Sg3
+14	kååddče	kåʹdded	VERB	V	Connegative=Yes|Mood=Cnd	10	ccomp	_	GTtags=Cond,ConNeg
+15	tuu	ton	PRON	Pron	Case=Acc|Number=Sing|Person=2|PronType=Prs	14	obj	_	GTtags=Pers,Sg2,Acc|SpaceAfter=No
+16	,	,	PUNCT	CLB	_	14	punct	_	_
+17	naa	naa	INTJ	Interj	_	2	discourse	_	SpaceAfter=No
+18	.	.	PUNCT	CLB	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 ccomp	color:blue
+1	Čeäkkleemaainâs	čeäkkleemaainâs	NOUN	N	Case=Nom|Number=Sing	3	nsubj:cop	_	GTtags=Sg,Nom
+2	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+3	nuʹt	nuʹtt	ADV	Adv	_	0	root	_	GTtags=Err/Orth,@<ADVL
+4	što	što	SCONJ	CS	_	3	ccomp	_	GTtags=@CVP
+5	...	...	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 4 7 dep	color:blue
 1	Пиже	пиже	ADJ	A	_	2	amod	_	_
 2	чекеренть	чекерь	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	obl	_	GTtags=Sg,Gen,Def
-3	алдо	алдо	ADP	Adp	AdvType=Loc|Case=Abl	2	case	_	GTtags=Spat,Abl
+3	алдо	алдо	ADP	Adp	AdvType=Loc|Case=Abl	2	case	_	GTtags=Relator,Spat,Abl
 4	содавсь	содавомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 5	ансяк	ансяк	ADV	Adv	_	4	advmod	_	GTtags=Exclusive
 6	(	(	PUNCT	PUNCT	_	7	punct	_	GTtags=LEFT|SpaceAfter=No

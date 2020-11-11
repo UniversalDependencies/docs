@@ -18,7 +18,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="is_pud-pos-VERB.htm
 
 1136 <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> tokens (57% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="is_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1136; 100%), <tt><a href="is_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1136; 100%), <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1136; 100%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1072; 94%), <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (990; 87%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (824; 73%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (702; 62%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="is_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1136; 100%), <tt><a href="is_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1136; 100%), <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1136; 100%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1071; 94%), <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (990; 87%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (823; 72%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (703; 62%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -37,13 +37,13 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>vildu</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 91% lemmas (279) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 91% lemmas (278) occur only with one value of `Person`.
 
 ### `AUX`
 
 876 <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (876; 100%), <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (876; 100%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (755; 86%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (636; 73%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (491; 56%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (876; 100%), <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (876; 100%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (756; 86%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (637; 73%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (492; 56%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 * `1` (107; 92% of non-empty `Person`): <em>ég, við, okkar, okkur, mig, mér, mín</em>
 * `2` (9; 8% of non-empty `Person`): <em>þið, þú, ykkar, ykkur, þér</em>
-* `EMPTY` (1256): <em>það, hann, því, þetta, þess, hún, hans, þeir, sér, þeirra</em>
+* `EMPTY` (1254): <em>það, hann, því, þetta, þess, hún, hans, þeir, sér, þeirra</em>
 
 ### `NOUN`
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 
 * `1` (1; 33% of non-empty `Person`): <em>hefðum</em>
 * `3` (2; 67% of non-empty `Person`): <em>hafi</em>
-* `EMPTY` (4096): <em>árið, ár, hluta, árum, ára, október, stað, öld, fólk, áhrif</em>
+* `EMPTY` (4098): <em>árið, ár, hluta, árum, ára, október, stað, öld, fólk, áhrif</em>
 
 ### `ADJ`
 

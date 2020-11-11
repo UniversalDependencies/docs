@@ -11,7 +11,7 @@ This relation is universal.
 500 nodes (3%) are attached to their parents as `aux`.
 
 470 instances of `aux` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8.
+Average distance between parent and child is 1.798.
 
 The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="is_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> (453; 91% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> (22; 4% instances), <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> (22; 4% instances), <tt><a href="is_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="is_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 

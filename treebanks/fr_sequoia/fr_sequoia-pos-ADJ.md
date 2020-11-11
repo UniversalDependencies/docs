@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>autres</em> (<tt><a href="fr_sequoia-
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.491819 (the average of all parts of speech is 1.404382).
+The form / lemma ratio of `ADJ` is 1.491819 (the average of all parts of speech is 1.405182).
 
 The 1st highest number of forms (5) was observed with the lemma “européen”: <em>EUROPEEN, européen, européenne, européennes, européens</em>.
 

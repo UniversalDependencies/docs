@@ -8,12 +8,33 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-17 nodes (1%) are attached to their parents as `flat:name`.
+41 nodes (1%) are attached to their parents as `flat:name`.
 
-17 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05882352941176.
+41 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.09756097560976.
 
-The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (8; 47% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (5; 29% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (3; 18% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (29; 71% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (8; 20% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 flat:name	color:blue
+1	Эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	2	aux:neg	_	_
+2	позь	позьны	VERB	V	Connegative=Yes	0	root	_	_
+3	бӧрйыны	бӧрйыны	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	ни	ни	PART	Pcle	Polarity=Neg	5	advmod:neg	_	_
+5	Питер	Питер	NOUN	N	Case=Nom|Number=Sing	3	obj	_	Lang=Mixed
+6	Смитӧс	Смит	NOUN	N	Case=Acc|Number=Sing	5	flat:name	_	Lang=Mixed|SpaceAfter=No
+7	,	,	PUNCT	CLB	_	9	punct	_	_
+8	ни	ни	PART	Pcle	Polarity=Neg	9	advmod:neg	_	_
+9	Мери	Мери	NOUN	N	Case=Nom|Number=Sing	5	conj	_	Lang=Mixed
+10	Браунӧс	Браун	NOUN	N	Case=Acc|Number=Sing	9	flat:name	_	Lang=Mixed|SpaceAfter=No
+11	.	.	PUNCT	CLB	_	2	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -41,27 +62,6 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat:name	color:blue
-1	Эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	2	aux:neg	_	_
-2	позь	позьны	VERB	V	Connegative=Yes	0	root	_	_
-3	бӧрйыны	бӧрйыны	VERB	V	VerbForm=Inf	2	xcomp	_	_
-4	ни	ни	PART	Pcle	Polarity=Neg	5	advmod:tmod	_	_
-5	Питер	Питер	NOUN	N	Case=Nom|Number=Sing	3	obj	_	_
-6	Смитӧс	Смит	NOUN	N	Case=Acc|Number=Sing	5	flat:name	_	SpaceAfter=No
-7	,	,	PUNCT	CLB	_	9	punct	_	_
-8	ни	ни	PART	Pcle	Polarity=Neg	9	advmod:tmod	_	_
-9	Мери	Мери	NOUN	N	Case=Nom|Number=Sing	5	conj	_	_
-10	Браунӧс	Браун	NOUN	N	Case=Acc|Number=Sing	9	flat:name	_	SpaceAfter=No
-11	.	.	PUNCT	CLB	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 9	bgColor:blue
@@ -70,23 +70,23 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 1	Ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	2	amod	_	_
 2	шуд	шуд	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
 3	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nmod	_	_
-4	странаса	странаса	ADJ	A	Case=Nom|Number=Sing	5	amod	_	_
+4	странаса	странаса	ADJ	A	Case=Nom|Number=Sing	5	amod	_	Lang=Mixed
 5	томйӧзлӧн	томйӧзлӧн	NOUN	N	Case=Gen|Number=Sing	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	8	punct	_	_
 7	кодъяс	коді	PRON	Pron	Case=Nom|Number=Plur|PronType=Int	8	nsubj	_	_
 8	веськалӧны	веськавны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	acl:relcl	_	_
 9	Краснӧй	Краснӧй	PROPN	N	Case=Nom|Number=Sing	11	nmod	_	_
-10	Армия	армия	NOUN	N	Case=Nom|Number=Sing	9	flat:name	_	_
+10	Армия	армия	NOUN	N	Case=Nom|Number=Sing	9	flat:name	_	Lang=Mixed
 11	радӧ	рад	NOUN	N	Case=Ill|Number=Sing	8	obl:lmod	_	_
 12	да	да	CCONJ	CC	_	13	cc	_	_
 13	новлӧдлӧны	новлӧдлыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	conj	_	_
-14	почетнӧй	почётнӧй	ADJ	A	Case=Nom|Number=Sing	15	amod	_	_
+14	почетнӧй	почётнӧй	ADJ	A	Case=Nom|Number=Sing	15	amod	_	Lang=Mixed
 15	ним	ним	NOUN	N	Case=Nom|Number=Sing	13	obj	_	_
 16	–	–	PUNCT	PUNCT	_	20	punct	_	_
-17	социализм	социализм	NOUN	N	Case=Nom|Number=Sing	18	nmod	_	_
-18	странаса	странаса	ADJ	A	Case=Nom|Number=Sing	20	amod	_	_
-19	великӧй	великӧй	ADJ	A	Case=Nom|Number=Sing	20	amod	_	_
-20	воинлысь	воин	NOUN	N	Case=Abl|Number=Sing	21	nmod	_	_
+17	социализм	социализм	NOUN	N	Case=Nom|Number=Sing	18	nmod	_	Lang=Mixed
+18	странаса	странаса	ADJ	A	Case=Nom|Number=Sing	20	amod	_	Lang=Mixed
+19	великӧй	великӧй	ADJ	A	Case=Nom|Number=Sing	20	amod	_	Lang=Mixed
+20	воинлысь	воин	NOUN	N	Case=Abl|Number=Sing	21	nmod	_	Lang=Mixed
 21	ним	ним	NOUN	N	Case=Nom|Number=Sing	15	parataxis	_	SpaceAfter=No
 22	.	.	PUNCT	CLB	_	2	punct	_	_
 

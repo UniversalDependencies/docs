@@ -11,7 +11,7 @@ It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Vo
 
 854866 tokens (57%) have a non-empty value of `Case`.
 105404 types (82%) occur at least once with a non-empty value of `Case`.
-42842 lemmas (74%) occur at least once with a non-empty value of `Case`.
+42839 lemmas (74%) occur at least once with a non-empty value of `Case`.
 The feature is used with 7 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (362908; 24% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (173090; 11% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (145304; 10% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (66479; 4% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (50604; 3% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (44858; 3% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (11623; 1% instances).
 
 ### `NOUN`

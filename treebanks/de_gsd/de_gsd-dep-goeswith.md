@@ -24,9 +24,9 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 8 10 goeswith	color:blue
 1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 2	großen	groß	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Plur	3	amod	_	_
-3	Ist	sein	PROPN	NN	Case=Nom|Gender=Fem|Number=Plur	14	nsubj:pass	_	_
+3	Ist	sein	PROPN	NN	Case=Nom|Gender=Fem|Number=Plur	14	nsubj:pass	_	NamedEntity=Yes
 4	-	-	PUNCT	$(	_	5	punct	_	_
-5	Wert	Wert	PROPN	NN	Case=Nom|Gender=Fem|Number=Plur	3	flat	_	_
+5	Wert	Wert	PROPN	NN	Case=Nom|Gender=Fem|Number=Plur	3	flat	_	NamedEntity=Yes
 6	-	-	PUNCT	$(	_	7	punct	_	_
 7	Anzeigen	Anzeige|Anzeigen	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	3	flat	_	_
 8	wer	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	_

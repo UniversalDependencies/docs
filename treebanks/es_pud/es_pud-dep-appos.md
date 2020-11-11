@@ -25,7 +25,7 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	También	_	ADV	RB	_	3	advmod	_	_
 2	me	_	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
 3	pregunto	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	si	_	ADP	IN	_	8	mark	_	_
+4	si	_	SCONJ	IN	_	8	mark	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Copa	_	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	Proper=True
 7	Davis	_	PROPN	NNP	Number=Sing	6	appos	_	_

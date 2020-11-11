@@ -48,7 +48,7 @@ Examples: <em>., ,, ", (, ), -, ;, :, ?, '</em>
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (2147; 100% instances), <tt><a href="tr_pud-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (797; 37% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (794; 37% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (227; 11% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (161; 7% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (55; 3% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (53; 2% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (27; 1% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (16; 1% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="tr_pud-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (805; 37% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (784; 36% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (226; 11% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (163; 8% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (55; 3% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (52; 2% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (27; 1% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (18; 1% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="tr_pud-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 2147 (100%) `PUNCT` nodes are leaves.
 
@@ -58,7 +58,7 @@ Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="tr
 
 The highest child degree of a `PUNCT` node is 2.
 
-Children of `PUNCT` nodes are attached using 2 different relations: <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (1; 50% instances), <tt><a href="tr_pud-dep-xcomp.html">xcomp</a></tt> (1; 50% instances)
+Children of `PUNCT` nodes are attached using 2 different relations: <tt><a href="tr_pud-dep-ccomp.html">ccomp</a></tt> (1; 50% instances), <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (1; 50% instances)
 
 Children of `PUNCT` nodes belong to 2 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 50% instances)
 

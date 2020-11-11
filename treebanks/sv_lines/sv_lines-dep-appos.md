@@ -46,7 +46,7 @@ The following 42 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	En	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	2	det	_	_
 2	sak	sak	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	nsubj	_	_
 3	återstod	återstå	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	–	–	PUNCT	Dash	_	3	punct	_	_
+4	–	–	PUNCT	Dash	_	5	punct	_	_
 5	läkarundersökning	läkarundersökning	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	appos	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	3	punct	_	_
 

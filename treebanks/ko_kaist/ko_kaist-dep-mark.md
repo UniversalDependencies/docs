@@ -22,9 +22,9 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 mark	color:blue
-1	영국	영국	PROPN	nq	_	6	compound	_	_
+1	영국	영국	PROPN	nq	_	6	compound	_	SpaceAfter=No
 2	,	,	PUNCT	sp	_	1	punct	_	_
-3	프랑스	프랑스	PROPN	nq	_	1	conj	_	_
+3	프랑스	프랑스	PROPN	nq	_	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	sp	_	3	punct	_	_
 5	스페인	스페인	PROPN	nq	_	1	conj	_	_
 6	등	등	NOUN	nbn	_	7	mark	_	_
@@ -33,7 +33,7 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 9	강화되고	강화+되+고	CCONJ	ncpa+xsv+ecc	_	0	root	_	_
 10	교황은	교황+은	NOUN	ncn+jxt	_	12	dislocated	_	_
 11	아비뇽에서	아비뇽+에서	ADV	nq+jca	_	12	advcl	_	_
-12	유폐되었다	유폐+되+었+다	VERB	ncpa+xsv+ep+ef	_	9	conj	_	_
+12	유폐되었다	유폐+되+었+다	VERB	ncpa+xsv+ep+ef	_	9	conj	_	SpaceAfter=No
 13	.	.	PUNCT	sf	_	12	punct	_	_
 
 ~~~
@@ -53,7 +53,7 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 6	감은	감+은	VERB	pvg+etm	_	7	acl	_	_
 7	채	채	NOUN	nbn	_	8	mark	_	_
 8	자고	자+고	VERB	pvg+ecx	_	0	root	_	_
-9	있었다	있+었+다	AUX	px+ep+ef	_	8	aux	_	_
+9	있었다	있+었+다	AUX	px+ep+ef	_	8	aux	_	SpaceAfter=No
 10	.	.	PUNCT	sf	_	9	punct	_	_
 
 ~~~
@@ -71,7 +71,7 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 4	만큼	만큼	NOUN	nbn	_	5	mark	_	_
 5	놀라운	놀랍+ㄴ	ADJ	paa+etm	_	6	amod	_	_
 6	소식도	소식+도	ADV	ncn+jxc	_	7	advcl	_	_
-7	전했다	전하+었+다	VERB	pvg+ep+ef	_	0	root	_	_
+7	전했다	전하+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	sf	_	7	punct	_	_
 
 ~~~

@@ -66,7 +66,7 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 23	koin	kodi	NOUN	NOUN	Case=Gen|Number=Sing	22	obj	_	_
 24	mustal	mustu	ADJ	ADJ	Case=Ade|Number=Sing	25	amod	_	_
 25	kraaskal	kraaska	NOUN	X	Case=Ade|Number=Sing	22	obl	_	SpaceAfter=No
-26	,	,	PUNCT	PUNCT	_	24	punct	_	_
+26	,	,	PUNCT	PUNCT	_	25	punct	_	_
 27	a	a	CCONJ	CCONJ	_	28	cc	_	_
 28	talvekse	talvi	NOUN	NOUN	Case=Tra|Number=Sing	29	orphan	_	_
 29	valgiel	valgei	ADJ	ADJ	Case=Ade|Number=Sing	24	conj	_	SpaceAfter=No

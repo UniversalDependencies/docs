@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="krl_kkpp-dep-punct.html">punct</a></tt> (569; 100% instances)
 
-Parents of `PUNCT` nodes belong to 9 different parts of speech: <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (350; 62% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (114; 20% instances), <tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (51; 9% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (23; 4% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (16; 3% instances), <tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="krl_kkpp-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="krl_kkpp-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 9 different parts of speech: <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (351; 62% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (114; 20% instances), <tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (51; 9% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (23; 4% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (14; 2% instances), <tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="krl_kkpp-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="krl_kkpp-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt> (2; 0% instances)
 
 569 (100%) `PUNCT` nodes are leaves.
 

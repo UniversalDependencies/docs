@@ -35,7 +35,7 @@ The following 12 pairs of parts of speech are connected with `compound:svc`: <tt
 10	kò	kò	PART	_	_	12	advmod	_	Gloss=did|Ref=JOHN_10.13
 11	sì	sì	CCONJ	_	_	12	cc	_	Gloss=not|Ref=JOHN_10.13
 12	náání	náání	VERB	_	_	8	conj	_	Gloss=care-for|Ref=JOHN_10.13
-13	àwọn	àwọn	DET	_	_	14	det	_	Gloss=the|Ref=JOHN_10.13
+13	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	14	det	_	Gloss=the|Ref=JOHN_10.13
 14	àgùntàn	àgùntàn	NOUN	_	_	12	obj	_	Gloss=sheep|Ref=JOHN_10.13|SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	Gloss=.|Ref=JOHN_10.13
 
@@ -103,7 +103,7 @@ The following 12 pairs of parts of speech are connected with `compound:svc`: <tt
 22	si	si	CCONJ	_	_	23	cc	_	Ref=MATT_5.1|Gloss=and
 23	tọ̀	tọ̀	VERB	_	_	15	ccomp	_	Ref=MATT_5.1|Gloss=came
 24	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	23	nmod	_	Ref=MATT_5.1|Gloss=him
-25	wá	wá	VERB	_	_	23	compound:svc	_	Ref=MATT_5.1|SpaceAfter=No||Gloss=come
+25	wá	wá	VERB	_	_	23	compound:svc	_	Ref=MATT_5.1|SpaceAfter=No|Gloss=come
 26	.	.	PUNCT	_	_	25	punct	_	Ref=MATT_5.1|Gloss=.
 
 ~~~

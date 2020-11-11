@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-66843 nodes (15%) are attached to their parents as `punct`.
+83975 nodes (15%) are attached to their parents as `punct`.
 
-34462 instances of `punct` (52%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.16953158894723.
+44473 instances of `punct` (53%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.23738017267044.
 
-The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (42666; 64% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (15257; 23% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1969; 3% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1952; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1892; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1854; 3% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (499; 1% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (420; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (218; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (61; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (22; 0% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="ro_nonstandard-pos-X.html">X</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (54246; 65% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (18538; 22% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (2759; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (2386; 3% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (2250; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (2207; 3% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (673; 1% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (552; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (224; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (70; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (33; 0% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (16; 0% instances), <tt><a href="ro_nonstandard-pos-X.html">X</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -72,13 +72,11 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 punct	color:blue
-1	Cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	ref=MATT19.12
-2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MATT19.12
-3	poate	putea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	ref=MATT19.12
-4	cuprinde	cuprinde	VERB	Vmn	VerbForm=Inf	1	acl	_	ref=MATT19.12|SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	1	punct	_	ref=MATT19.12
-6	cuprinză	cuprinde	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT19.12|SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	6	punct	_	ref=MATT19.12
+1	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=MATT20.28.content|SpaceAfter=No
+2	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT20.28.content
+3	sluga	slugă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	appos	_	ref=MATT20.28.content
+4	noastră	meu	DET	Ds1fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	3	det	_	ref=MATT20.28.content|SpaceAfter=No
+5	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT20.28.content
 
 ~~~
 

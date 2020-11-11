@@ -86,9 +86,9 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NUM</tt> (74; 100%),
 <tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (42; 98%),
-<tt>NUM --[<tt><a href="hr_set-dep-compound.html">compound</a></tt>]--> NUM</tt> (4; 100%),
 <tt>NUM --[<tt><a href="hr_set-dep-list.html">list</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="hr_set-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (2; 100%),
+<tt>NUM --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NUM</tt> (1; 100%).
 

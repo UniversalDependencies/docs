@@ -31,16 +31,16 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 7	unter	unter	ADP	APPR	_	9	case	_	_
 8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	Namen	Name	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	13	nmod	_	_
-10	Tacapae	Tacapae	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	9	appos	_	_
+10	Tacapae	Tacapae	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	9	appos	_	NamedEntity=Yes
 11	zu	zu	ADP	APPR	_	13	case	_	_
 12	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	Colonia	Colonia	PROPN	NE	Case=Dat|Gender=Fem|Number=Sing	14	xcomp	_	_
+13	Colonia	Colonia	PROPN	NE	Case=Dat|Gender=Fem|Number=Sing	14	xcomp	_	NamedEntity=Yes
 14	ernannt	ernennen	VERB	VVPP	VerbForm=Part	0	root	_	_
 15	und	und	CCONJ	KON	_	16	reparandum	_	_
 16	und	und	CCONJ	KON	_	17	cc	_	_
 17	gehörte	gehören	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	conj	_	_
 18	zu	zu	ADP	APPR	_	19	case	_	_
-19	Tripolitanien	Tripolitanien	PROPN	NN	Case=Dat|Gender=Fem|Number=Plur	17	obl	_	SpaceAfter=No
+19	Tripolitanien	Tripolitanien	PROPN	NN	Case=Dat|Gender=Fem|Number=Plur	17	obl	_	SpaceAfter=No|NamedEntity=Yes
 20	.	.	PUNCT	$.	_	14	punct	_	_
 
 ~~~

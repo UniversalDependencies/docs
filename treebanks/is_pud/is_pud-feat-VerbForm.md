@@ -18,7 +18,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="is_pud-pos-VERB.htm
 
 1966 <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1756; 89%), <tt><a href="is_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="is_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1074; 55%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1074; 55%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (993; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1756; 89%), <tt><a href="is_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="is_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1074; 55%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1073; 55%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (992; 50%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 973 <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (973; 100%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (852; 88%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (755; 78%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (636; 65%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (491; 50%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (973; 100%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (852; 88%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (756; 78%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (637; 65%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (492; 51%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Fin` (3; 43% of non-empty `VerbForm`): <em>hafi, hefðum</em>
 * `Inf` (2; 29% of non-empty `VerbForm`): <em>dala, mótmæla</em>
 * `Part` (2; 29% of non-empty `VerbForm`): <em>markaðir, orðið</em>
-* `EMPTY` (4092): <em>árið, ár, hluta, árum, ára, október, stað, öld, fólk, áhrif</em>
+* `EMPTY` (4094): <em>árið, ár, hluta, árum, ára, október, stað, öld, fólk, áhrif</em>
 
 ### `ADJ`
 

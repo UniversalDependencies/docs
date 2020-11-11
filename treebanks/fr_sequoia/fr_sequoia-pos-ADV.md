@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>pas</em> (<tt><a href="fr_sequoia-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.007380 (the average of all parts of speech is 1.404382).
+The form / lemma ratio of `ADV` is 1.007380 (the average of all parts of speech is 1.405182).
 
 The 1st highest number of forms (2) was observed with the lemma “ne”: <em>n', ne</em>.
 

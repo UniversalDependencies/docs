@@ -53,9 +53,9 @@ Examples: <em>att, inte, så, to</em>
 
 Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1739; 85% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (111; 5% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (88; 4% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (59; 3% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (24; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-2029 (99%) `PART` nodes are leaves.
+2027 (99%) `PART` nodes are leaves.
 
-17 (1%) `PART` nodes have one child.
+19 (1%) `PART` nodes have one child.
 
 5 (0%) `PART` nodes have two children.
 
@@ -63,7 +63,7 @@ Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="sv_
 
 The highest child degree of a `PART` node is 4.
 
-Children of `PART` nodes are attached using 8 different relations: <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (9; 29% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (6; 19% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (6; 19% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (5; 16% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (2; 6% instances), <tt><a href="sv_lines-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (1; 3% instances)
+Children of `PART` nodes are attached using 8 different relations: <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (9; 27% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (7; 21% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (6; 18% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (6; 18% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (2; 6% instances), <tt><a href="sv_lines-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (1; 3% instances)
 
-Children of `PART` nodes belong to 6 different parts of speech: <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (15; 48% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (6; 19% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (5; 16% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (1; 3% instances)
+Children of `PART` nodes belong to 6 different parts of speech: <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (15; 45% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (7; 21% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (6; 18% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (1; 3% instances)
 

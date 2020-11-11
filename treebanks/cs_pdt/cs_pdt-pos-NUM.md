@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>tisíc</em> (<tt><a href="cs_pdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.031132 (the average of all parts of speech is 2.181762).
+The form / lemma ratio of `NUM` is 1.031132 (the average of all parts of speech is 2.182017).
 
 The 1st highest number of forms (10) was observed with the lemma “jeden”: <em>jeden, jedna, jedno, jednoho, jednom, jednomu, jednou, jednu, jedné, jedním</em>.
 

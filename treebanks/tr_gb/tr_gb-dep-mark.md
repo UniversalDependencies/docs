@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-196 nodes (1%) are attached to their parents as `mark`.
+200 nodes (1%) are attached to their parents as `mark`.
 
-134 instances of `mark` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.98469387755102.
+137 instances of `mark` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.98.
 
-The following 10 pairs of parts of speech are connected with `mark`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (93; 47% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> (75; 38% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> (9; 5% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (5; 3% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> (4; 2% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `mark`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (90; 45% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> (77; 39% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> (10; 5% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (7; 4% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> (4; 2% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

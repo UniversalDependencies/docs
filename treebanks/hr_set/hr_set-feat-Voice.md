@@ -76,8 +76,9 @@ The most frequent other feature values with which `DET` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (514; 67%),
-<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (87; 65%),
+<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (513; 67%),
+<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (87; 64%),
+<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (11; 52%),
 <tt>AUX --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (5; 63%),
 <tt>AUX --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4; 67%),
 <tt>ADJ --[<tt><a href="hr_set-dep-obj.html">obj</a></tt>]--> ADJ</tt> (1; 100%),

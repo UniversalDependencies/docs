@@ -8,65 +8,29 @@ udver: '2'
 
 This relation is universal.
 
-395 nodes (1%) are attached to their parents as `iobj`.
+1 nodes (0%) are attached to their parents as `iobj`.
 
-364 instances of `iobj` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27848101265823.
+1 instances of `iobj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (369; 93% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (20; 5% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 8 iobj	color:blue
-1	je	je	PRON	_	_	2	nsubj	_	_
-2	vois	voir	VERB	DISCOURSE	_	10	discourse	_	_
-3	euh	euh	INTJ	_	_	2	discourse	_	_
-4	moi	lui	PRON	_	_	10	dislocated	_	_
-5	la	le	DET	_	_	6	det	_	_
-6	fac	fac	NOUN	_	_	10	dislocated	_	_
-7	ça	ça	PRON	_	_	10	nsubj	_	_
-8	m'	me	PRON	_	_	10	iobj	_	_
-9	a	avoir	AUX	_	_	10	aux	_	_
-10	fait	faire	VERB	_	_	0	root	_	_
-11	beaucoup	beaucoup	ADV	_	_	10	obj	_	_
-12	de	de	ADP	_	_	13	case	_	_
-13	bien	bien	NOUN	_	_	11	obl:arg	_	_
-
-~~~
+The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 iobj	color:blue
-1	c'	ce	PRON	_	_	2	nsubj	_	_
-2	est	être	VERB	_	_	0	root	_	_
-3	là	là	ADV	_	_	2	iobj	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 6 iobj	color:blue
-1	mais	mais	CCONJ	_	_	9	cc	_	_
-2	peut-être	peut-être	ADV	_	_	9	advmod	_	_
-3	même	même	ADV	_	_	9	advmod	_	_
-4	il	il	PRON	_	_	9	nsubj	_	_
-5	n'	ne	ADV	_	_	9	advmod	_	_
-6	en	en	PRON	_	_	9	iobj	_	_
-7	est	être	AUX	_	_	9	cop	_	_
-8	pas	pas	ADV	_	_	9	advmod	_	_
-9	séparable	séparable	ADJ	_	_	0	root	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 iobj	color:blue
+1	donc	donc	ADV	_	_	7	discourse	_	_
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+3	y	y	PRON	_	Person=3|PronType=Prs	2	dep	_	_
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	reparandum	_	_
+5	y	y	PRON	_	Person=3|PronType=Prs	7	iobj	_	_
+6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	_
+9	gradations	gradation	NOUN	_	_	7	obl:arg	_	_
 
 ~~~
 

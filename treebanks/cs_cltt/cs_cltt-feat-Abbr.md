@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (27; 100% of non-empty `Abbr`): <em>Kč, USD, m, m2, ha, t, ČSSR</em>
-* `EMPTY` (11276): <em>jednotky, jednotka, majetku, období, ocenění, účetnictví, položka, závěrky, dni, ustanovení</em>
+* `EMPTY` (11265): <em>jednotky, jednotka, majetku, období, ocenění, účetnictví, položka, závěrky, dni, ustanovení</em>
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>něm</em>
-* `EMPTY` (6777): <em>účetní, účetních, účetního, konsolidované, konsolidující, finanční, účetním, povinny, výroční, právní</em>
+* `EMPTY` (6768): <em>účetní, účetních, účetního, konsolidované, konsolidující, finanční, účetním, povinny, výroční, právní</em>
 
 ### `ADV`
 

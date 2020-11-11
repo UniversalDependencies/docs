@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	leider	leider	ADV	ADV	_	1	conj	_	SpaceAfter=No
 6	,	,	PUNCT	$,	_	5	punct	_	_
 7	sind	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
-8	meine	mein	PRON	PPOSAT	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes	9	det:poss	_	_
+8	meine	mein	DET	PPOSAT	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det:poss	_	_
 9	Frau	Frau	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	21	nsubj:pass	_	_
 10	und	und	CCONJ	KON	_	11	cc	_	_
 11	ich	ich	PRON	PPER	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	conj	_	SpaceAfter=No

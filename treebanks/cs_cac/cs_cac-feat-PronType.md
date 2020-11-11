@@ -10,10 +10,10 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-40818 tokens (8%) have a non-empty value of `PronType`.
+40821 tokens (8%) have a non-empty value of `PronType`.
 721 types (1%) occur at least once with a non-empty value of `PronType`.
 136 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (19762; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (16032; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (5024; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (19762; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (16035; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (5024; 1% instances).
 
 ### `DET`
 
@@ -36,16 +36,16 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-16032 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+16035 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (14224; 89%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13185; 82%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12578; 78%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10276; 64%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (9778; 61%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (9195; 57%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (9039; 56%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (14227; 89%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13188; 82%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12581; 78%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10279; 64%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (9781; 61%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (9196; 57%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (9042; 56%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Ind` (233; 1% of non-empty `PronType`): <em>něco, někdo, někomu, něčeho, něčemu, kdekdo, cosi, ledacos, málokdo, někoho</em>
 * `Int,Rel` (641; 4% of non-empty `PronType`): <em>co, kdo, čím, čem, čeho, copak, kdož, koho, čemu, komu</em>
 * `Neg` (172; 1% of non-empty `PronType`): <em>nic, nikdo, nikoho, ničím, nikomu, ničeho, ničemu, nikým, ničem</em>
-* `Prs` (12493; 78% of non-empty `PronType`): <em>se, si, je, nás, nám, nich, ji, jim, mu, sebe</em>
+* `Prs` (12496; 78% of non-empty `PronType`): <em>se, si, je, nás, nám, nich, ji, jim, mu, sebe</em>
 * `Rel` (1170; 7% of non-empty `PronType`): <em>jež, nichž, což, níž, němž, jimiž, něhož, čímž, jenž, nimiž</em>
 * `Tot` (1323; 8% of non-empty `PronType`): <em>všech, všechny, všechno, všichni, všem, vše, veškeré, všechna, všemi, všeho</em>
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Neg` (112; 2% of non-empty `PronType`): <em>nikdy, nijak, nikde, nikam</em>
 * `Rel` (77; 2% of non-empty `PronType`): <em>přičemž, zato</em>
 * `Tot` (271; 5% of non-empty `PronType`): <em>vždy, všude, odjakživa, navždy, odevždy</em>
-* `EMPTY` (23108): <em>také, již, už, ještě, pak, tedy, velmi, třeba, především, zejména</em>
+* `EMPTY` (23109): <em>také, již, už, ještě, pak, tedy, velmi, třeba, především, zejména</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (51) occur only with one value of `PronType`.
 

@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="ta_ttb-dep-obl.html
 89 instances of `obl:arg` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.58426966292135.
 
-The following 15 pairs of parts of speech are connected with `obl:arg`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (33; 37% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (16; 18% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (15; 17% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (8; 9% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (7; 8% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `obl:arg`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (37; 42% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (16; 18% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (16; 18% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (7; 8% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -28,27 +28,6 @@ The following 15 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 4	குடிநீர்	குடிநீர்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	Translit=kuṭinīr|LTranslit=kuṭinīr
 5	கிடைக்காது	கிடை	VERB	Vr-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=kiṭaikkātu|LTranslit=kiṭai
 6	.	.	PUNCT	Z#-------	PunctType=Peri	5	punct	5:punct	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 4 obl:arg	color:blue
-1	இந்நிலையில்	இந்நிலை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	8	obl	8:obl:loc	SpaceAfter=No|Translit=innilaiyil|LTranslit=innilai
-2	,	,	PUNCT	Z:-------	PunctType=Comm	8	punct	8:punct	Translit=,|LTranslit=,
-3	முதல்வர்	முதல்வர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	4	nmod	4:nmod:nom	Translit=mutalvar|LTranslit=mutalvar
-4	கருணாநிதிக்கு	கருணாநிதி	PROPN	NED-3SH--	Case=Dat|Gender=Com|Number=Sing|Person=3|Polite=Form	8	obl:arg	8:obl:arg:dat	Translit=karuṇānitikku|LTranslit=karuṇāniti
-5	இ-மெயிலில்	இ-மெயில்	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	8	obl	8:obl:loc	Translit=i-meyilil|LTranslit=i-meyil
-6	கொலை	கொலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nmod	7:nmod:nom	Translit=kolai|LTranslit=kolai
-7	மிரட்டல்	மிரட்டல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	8:nsubj	Translit=miraṭṭal|LTranslit=miraṭṭal
-8	விடுக்கப்	விடு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=viṭukkap|LTranslit=viṭu
-9	பட்ட்	படு	AUX	VT-T---PA	Polarity=Pos|VerbForm=Part|Voice=Pass	8	aux	8:aux	Translit=paṭṭ|LTranslit=paṭu
-10	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	8:aux	Translit=uḷḷatu|LTranslit=uḷ
-11	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	8:punct	Translit=.|LTranslit=.
 
 ~~~
 
@@ -72,6 +51,27 @@ The following 15 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 11	வந்த்	வா	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	Translit=vant|LTranslit=vā
 12	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	11	aux	11:aux	Translit=uḷḷatu|LTranslit=uḷ
 13	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	11:punct	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 4 obl:arg	color:blue
+1	இந்நிலையில்	இந்நிலை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	8	obl	8:obl:loc	SpaceAfter=No|Translit=innilaiyil|LTranslit=innilai
+2	,	,	PUNCT	Z:-------	PunctType=Comm	8	punct	8:punct	Translit=,|LTranslit=,
+3	முதல்வர்	முதல்வர்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	4	nmod	4:nmod:nom	Translit=mutalvar|LTranslit=mutalvar
+4	கருணாநிதிக்கு	கருணாநிதி	PROPN	NED-3SH--	Case=Dat|Gender=Com|Number=Sing|Person=3|Polite=Form	8	obl:arg	8:obl:arg:dat	Translit=karuṇānitikku|LTranslit=karuṇāniti
+5	இ-மெயிலில்	இ-மெயில்	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	8	obl	8:obl:loc	Translit=i-meyilil|LTranslit=i-meyil
+6	கொலை	கொலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nmod	7:nmod:nom	Translit=kolai|LTranslit=kolai
+7	மிரட்டல்	மிரட்டல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	8:nsubj	Translit=miraṭṭal|LTranslit=miraṭṭal
+8	விடுக்கப்	விடு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=viṭukkap|LTranslit=viṭu
+9	பட்ட்	படு	AUX	VT-T---PA	Polarity=Pos|VerbForm=Part|Voice=Pass	8	aux	8:aux	Translit=paṭṭ|LTranslit=paṭu
+10	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	8:aux	Translit=uḷḷatu|LTranslit=uḷ
+11	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	8:punct	Translit=.|LTranslit=.
 
 ~~~
 

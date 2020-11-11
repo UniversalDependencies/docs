@@ -13,31 +13,7 @@ This relation is universal.
 10 instances of `advcl` (91%) are left-to-right (parent precedes child).
 Average distance between parent and child is 7.27272727272727.
 
-The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> (5; 45% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> (5; 45% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt> (1; 9% instances).
-
-
-~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 13 advcl	color:blue
-1	Cilat	cili	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Int	0	root	0:root	_
-2	janë	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	1	cop	1:cop	_
-3	mënyrat	mënyrë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	1:nsubj	_
-4	për	për	ADP	_	_	6	mark	6:mark	_
-5	të	të	PART	_	_	6	mark	6:mark	_
-6	dashuruar	dashuroj	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	3:advcl	_
-7	dhe	dhe	CCONJ	_	_	8	cc	8:cc	_
-8	cila	cili	PRON	_	Gender=Fem|Number=Sing|PronType=Int	1	conj	1:conj	_
-9	është	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	cop	8:cop	_
-10	fuqia	fuqi	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	_
-11	për	për	ADP	_	_	13	mark	13:mark	_
-12	të	të	PART	_	_	13	mark	13:mark	_
-13	dashuruar	dashuroj	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	10	advcl	10:advcl	SpaceAfter=No
-14	?	?	PUNCT	_	_	1	punct	1:punct	_
-
-~~~
+The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> (6; 55% instances), <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> (4; 36% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -58,12 +34,36 @@ The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href
 10	Djuin	Dju	PROPN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
 11	për	për	ADP	_	_	14	advmod	14:advmod	_
 12	sa	sa	ADV	_	_	11	fixed	11:fixed	_
-13	i	i	PRON	_	Gender=Masc	14	expl	14:expl	_
+13	i	i	PRON	_	Case=Dat|Gender=Masc	14	expl	14:expl	_
 14	përket	përkas	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	advcl	4:advcl	_
-15	procesit	proces	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	obj	14:obj	_
+15	procesit	proces	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	14	obj	14:obj	_
 16	të	i	DET	_	Gender=Masc	17	det	17:det	_
 17	edukimit	edukim	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	nmod:poss	15:nmod:poss	SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 13 advcl	color:blue
+1	Cilat	cili	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Int	0	root	0:root	_
+2	janë	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	1	cop	1:cop	_
+3	mënyrat	mënyrë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	1:nsubj	_
+4	për	për	ADP	_	_	6	mark	6:mark	_
+5	të	të	PART	_	_	6	mark	6:mark	_
+6	dashuruar	dashuroj	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	3:advcl	_
+7	dhe	dhe	CCONJ	_	_	8	cc	8:cc	_
+8	cila	cili	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	1	conj	1:conj	_
+9	është	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	cop	8:cop	_
+10	fuqia	fuqi	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	_
+11	për	për	ADP	_	_	13	mark	13:mark	_
+12	të	të	PART	_	_	13	mark	13:mark	_
+13	dashuruar	dashuroj	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	10	advcl	10:advcl	SpaceAfter=No
+14	?	?	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 

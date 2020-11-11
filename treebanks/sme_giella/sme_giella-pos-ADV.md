@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>maid</em> (<tt><a href="sme_giella-po
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.056497 (the average of all parts of speech is 1.745041).
+The form / lemma ratio of `ADV` is 1.056497 (the average of all parts of speech is 1.749612).
 
 The 1st highest number of forms (3) was observed with the lemma “gos”: <em>Gosbat, gos, gosge</em>.
 
@@ -72,19 +72,19 @@ Examples: <em>de, gal, nu, dál, dušše, maid, maiddái, doppe, hui, juo</em>
 
 `ADV` nodes are attached to their parents using 4 different relations: <tt><a href="sme_giella-dep-advmod.html">advmod</a></tt> (2053; 98% instances), <tt><a href="sme_giella-dep-cc-preconj.html">cc:preconj</a></tt> (29; 1% instances), <tt><a href="sme_giella-dep-conj.html">conj</a></tt> (16; 1% instances), <tt><a href="sme_giella-dep-advcl.html">advcl</a></tt> (2; 0% instances)
 
-Parents of `ADV` nodes belong to 7 different parts of speech: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (1604; 76% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (177; 8% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (163; 8% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (63; 3% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (39; 2% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (38; 2% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (16; 1% instances)
+Parents of `ADV` nodes belong to 7 different parts of speech: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (1603; 76% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (177; 8% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (164; 8% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (63; 3% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (39; 2% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (38; 2% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (16; 1% instances)
 
-2012 (96%) `ADV` nodes are leaves.
+2000 (95%) `ADV` nodes are leaves.
 
-66 (3%) `ADV` nodes have one child.
+76 (4%) `ADV` nodes have one child.
 
-17 (1%) `ADV` nodes have two children.
+19 (1%) `ADV` nodes have two children.
 
 5 (0%) `ADV` nodes have three or more children.
 
-The highest child degree of a `ADV` node is 3.
+The highest child degree of a `ADV` node is 4.
 
-Children of `ADV` nodes are attached using 12 different relations: <tt><a href="sme_giella-dep-advmod.html">advmod</a></tt> (53; 46% instances), <tt><a href="sme_giella-dep-cc.html">cc</a></tt> (17; 15% instances), <tt><a href="sme_giella-dep-advcl.html">advcl</a></tt> (15; 13% instances), <tt><a href="sme_giella-dep-conj.html">conj</a></tt> (11; 10% instances), <tt><a href="sme_giella-dep-punct.html">punct</a></tt> (5; 4% instances), <tt><a href="sme_giella-dep-discourse.html">discourse</a></tt> (3; 3% instances), <tt><a href="sme_giella-dep-obl.html">obl</a></tt> (3; 3% instances), <tt><a href="sme_giella-dep-appos.html">appos</a></tt> (2; 2% instances), <tt><a href="sme_giella-dep-cc-preconj.html">cc:preconj</a></tt> (2; 2% instances), <tt><a href="sme_giella-dep-mark.html">mark</a></tt> (2; 2% instances), <tt><a href="sme_giella-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="sme_giella-dep-nummod.html">nummod</a></tt> (1; 1% instances)
+Children of `ADV` nodes are attached using 12 different relations: <tt><a href="sme_giella-dep-advmod.html">advmod</a></tt> (53; 41% instances), <tt><a href="sme_giella-dep-punct.html">punct</a></tt> (19; 15% instances), <tt><a href="sme_giella-dep-cc.html">cc</a></tt> (18; 14% instances), <tt><a href="sme_giella-dep-advcl.html">advcl</a></tt> (15; 12% instances), <tt><a href="sme_giella-dep-conj.html">conj</a></tt> (11; 8% instances), <tt><a href="sme_giella-dep-discourse.html">discourse</a></tt> (3; 2% instances), <tt><a href="sme_giella-dep-obl.html">obl</a></tt> (3; 2% instances), <tt><a href="sme_giella-dep-appos.html">appos</a></tt> (2; 2% instances), <tt><a href="sme_giella-dep-cc-preconj.html">cc:preconj</a></tt> (2; 2% instances), <tt><a href="sme_giella-dep-mark.html">mark</a></tt> (2; 2% instances), <tt><a href="sme_giella-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="sme_giella-dep-nummod.html">nummod</a></tt> (1; 1% instances)
 
-Children of `ADV` nodes belong to 11 different parts of speech: <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (63; 55% instances), <tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (17; 15% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (12; 10% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (5; 4% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="sme_giella-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="sme_giella-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `ADV` nodes belong to 11 different parts of speech: <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (63; 48% instances), <tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (19; 15% instances), <tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (18; 14% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (12; 9% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="sme_giella-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="sme_giella-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

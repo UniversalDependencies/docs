@@ -13,7 +13,7 @@ This relation is universal.
 164 instances of `ccomp` (99%) are right-to-left (child precedes parent).
 Average distance between parent and child is 5.74096385542169.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (152; 92% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (154; 93% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -37,31 +37,6 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 5 ccomp	color:blue
-1	இந்த	இந்த	DET	DD-------	_	2	det	2:det	Translit=inta|LTranslit=inta
-2	நிபந்தனை	நிபந்தனை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	Translit=nipantanai|LTranslit=nipantanai
-3	80	80	NUM	U=-------	NumForm=Digit	4	nummod	4:nummod	Translit=80|LTranslit=80
-4	ஆண்டுகளுக்குப்	ஆண்டு	NOUN	NND-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	5	obl	5:obl:dat	Translit=āṇṭukaḷukkup|LTranslit=āṇṭu
-5	பொருந்தும்	பொருந்து	VERB	Vr-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	9	ccomp	9:ccomp	Translit=poruntum|LTranslit=poruntu
-6	என்று	என்	PART	Tt-T----A	Polarity=Pos|VerbForm=Inf	5	mark	5:mark	Translit=enru|LTranslit=en
-7	இந்திய	இந்தியா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod	Translit=intiya|LTranslit=intiyā
-8	நாடாளுமன்றத்தில்	நாடாளுமன்றம்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	9	obl	9:obl:loc	Translit=nāṭāḷumanrattil|LTranslit=nāṭāḷumanram
-9	நிறைவேற்றப்பட்ட	நிறைவேற்று	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	11	amod	11:amod	Translit=niraivērrappaṭṭa|LTranslit=niraivērru
-10	இழப்பீட்டு	இழப்பீடு	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	11	nmod	11:nmod	Translit=ilappīṭṭu|LTranslit=ilappīṭu
-11	மசோதாவில்	மசோதா	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	12	obl	12:obl:loc	Translit=macōtāvil|LTranslit=macōtā
-12	குறிப்பிடப்	குறிப்பிடு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=kurippiṭap|LTranslit=kurippiṭu
-13	பட்ட்	படு	AUX	VT-T---PA	Polarity=Pos|VerbForm=Part|Voice=Pass	12	aux	12:aux	Translit=paṭṭ|LTranslit=paṭu
-14	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	12	aux	12:aux	Translit=uḷḷatu|LTranslit=uḷ
-15	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	12:punct	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 ccomp	color:blue
@@ -72,6 +47,22 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 5	கட்டப்படுவது	கட்டு	VERB	VzNF3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Ger|Voice=Act	6	ccomp	6:ccomp	Translit=kaṭṭappaṭuvatu|LTranslit=kaṭṭu
 6	அல்ல	அல்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=alla|LTranslit=al
 7	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	6:punct	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 ccomp	color:blue
+1	அணையை	அணை	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	obj	2:obj	Translit=aṇaiyai|LTranslit=aṇai
+2	உடைப்பது	உடை	VERB	VzNF3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Ger|Voice=Act	5	ccomp	5:ccomp	Translit=uṭaippatu|LTranslit=uṭai
+3	தான்	தான்	PART	Tq-------	_	2	advmod:emph	2:advmod:emph	Translit=tān|LTranslit=tān
+4	கேரளத்தின்	கேரளம்	PROPN	NEG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod:gen	Translit=kēraḷattin|LTranslit=kēraḷam
+5	நோக்கம்	நோக்கம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No|Translit=nōkkam|LTranslit=nōkkam
+6	.	.	PUNCT	Z#-------	PunctType=Peri	5	punct	5:punct	Translit=.|LTranslit=.
 
 ~~~
 

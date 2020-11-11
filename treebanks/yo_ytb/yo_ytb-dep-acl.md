@@ -51,7 +51,7 @@ The following 14 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 11 15 acl	color:blue
 1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_11.36
 2	náà	náà	PRON	_	_	1	fixed	_	Gloss=that|Ref=JOHN_11.36
-3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the|Ref=JOHN_11.36
+3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Gloss=the|Ref=JOHN_11.36
 4	Júù	júù	PROPN	_	_	5	nsubj	_	Gloss=jews|Ref=JOHN_11.36
 5	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_11.36
 6	pé	pé	SCONJ	_	_	5	compound	_	Gloss=that|Ref=JOHN_11.36|SpaceAfter=No
@@ -85,7 +85,7 @@ The following 14 pairs of parts of speech are connected with `acl`: <tt><a href=
 5	jẹ́	jẹ́	VERB	_	_	2	advcl	_	_
 6	ọ̀kan	ọ̀kan	NOUN	_	_	5	obj	_	_
 7	nínú	nínú	ADP	_	_	9	case	_	_
-8	àwọn	àwọn	DET	_	_	9	det	_	_
+8	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	9	det	_	_
 9	tí	tí	PRON	_	PronType=Rel	5	obl	_	_
 10	owó	owó	ADV	_	_	13	advmod	_	_
 11	iṣẹ́	iṣẹ́	NOUN	_	_	13	nsubj	_	_

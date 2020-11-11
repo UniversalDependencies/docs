@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="pt_gsd-dep-nsubj.ht
 2011 nodes (1%) are attached to their parents as `nsubj:pass`.
 
 1750 instances of `nsubj:pass` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.4778717056191.
+Average distance between parent and child is 4.47737444057683.
 
-The following 17 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1445; 72% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (309; 15% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (186; 9% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (26; 1% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1445; 72% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (310; 15% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (186; 9% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (26; 1% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,26 +38,23 @@ The following 17 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 nsubj:pass	color:blue
-1	Dois	_	NUM	NUM	NumType=Card	2	nummod	_	_
-2	anos	ano	NOUN	NOUN	_	3	nmod	_	_
-3	depois	depois	ADV	ADV	_	7	advmod	_	SpaceAfter=No
-4	,	_	PUNCT	.	_	3	punct	_	_
-5	ele	_	PRON	PRON	_	7	nsubj:pass	_	_
-6	foi	_	AUX	AUX	_	7	aux:pass	_	_
-7	preso	_	VERB	VERB	_	0	root	_	_
-8	--	_	PUNCT	.	_	13	punct	_	_
-9	e	_	CCONJ	CONJ	_	13	cc	_	_
-10	eu	_	PRON	PRON	_	13	nsubj	_	_
-11	nunca	nunca	ADV	ADV	_	13	advmod	_	_
-12	o	_	PRON	PRON	_	13	obj	_	_
-13	vi	_	VERB	VERB	_	7	conj	_	_
-14	novamente	novamente	ADV	ADV	_	13	advmod	_	SpaceAfter=No
-15	.	_	PUNCT	.	_	7	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 nsubj:pass	color:blue
+1	"	_	PUNCT	.	_	6	punct	_	SpaceAfter=No
+2	Eles	ele	PRON	PRON	_	6	nsubj:pass	_	_
+3	não	não	ADV	ADV	Polarity=Neg	6	advmod	_	_
+4	podem	poder	AUX	AUX	_	6	aux	_	_
+5	ser	ser	AUX	AUX	_	6	aux:pass	_	_
+6	considerados	considerar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
+7	marginais	marginal	ADJ	_	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
+8	"	_	PUNCT	.	_	7	punct	_	SpaceAfter=No
+9	,	_	PUNCT	.	_	10	punct	_	_
+10	disse	dizer	VERB	VERB	_	6	parataxis	_	_
+11	ele	_	PRON	PRON	_	10	nsubj	_	SpaceAfter=No
+12	.	_	PUNCT	.	_	10	punct	_	_
 
 ~~~
 

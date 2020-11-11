@@ -70,15 +70,9 @@ The 3rd highest number of forms (1) was observed with the lemma “!!”: <em>!!
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="ru_taiga-dep-punct.html">punct</a></tt> (11268; 100% instances), <tt><a href="ru_taiga-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (5527; 49% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2951; 26% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (788; 7% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (699; 6% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (468; 4% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (298; 3% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (152; 1% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (141; 1% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (84; 1% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (52; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (47; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="ru_taiga-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (5529; 49% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2951; 26% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (787; 7% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (699; 6% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (470; 4% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (296; 3% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (152; 1% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (140; 1% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (84; 1% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (52; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (47; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances),  (1; 0% instances)
 
-11268 (100%) `PUNCT` nodes are leaves.
+11269 (100%) `PUNCT` nodes are leaves.
 
-1 (0%) `PUNCT` nodes have one child.
-
-The highest child degree of a `PUNCT` node is 1.
-
-Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="ru_taiga-dep-punct.html">punct</a></tt> (1; 100% instances)
-
-Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="ru_taiga-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances)
+The highest child degree of a `PUNCT` node is 0.
 

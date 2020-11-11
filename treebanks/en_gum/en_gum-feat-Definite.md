@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (5923; 71% of non-empty `Definite`): <em>the</em>
 * `Ind` (2478; 29% of non-empty `Definite`): <em>a, an</em>
-* `EMPTY` (1094): <em>this, some, these, that, no, all, any, every, each, those</em>
+* `EMPTY` (1093): <em>this, some, these, that, no, all, any, every, each, those</em>
 
 ### `PRON`
 
@@ -36,5 +36,5 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (4; 67% of non-empty `Definite`): <em>the</em>
 * `Ind` (2; 33% of non-empty `Definite`): <em>a</em>
-* `EMPTY` (7672): <em>it, you, i, he, his, that, we, they, your, she</em>
+* `EMPTY` (7673): <em>it, you, i, he, his, that, we, they, your, she</em>
 

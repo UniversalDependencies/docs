@@ -23,15 +23,15 @@ The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 3 goeswith	color:blue
 1	So	so	ADV	RB	_	6	advmod	_	_
-2	before	before	ADV	IN	_	6	advmod	_	Typo=Yes
-3	hand	hand	NOUN	NN	Number=Sing	2	goeswith	_	Typo=Yes
+2	before	before	ADV	IN	Typo=Yes	6	advmod	_	_
+3	hand	hand	NOUN	NN	Number=Sing|Typo=Yes	2	goeswith	_	_
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Entity=(person-4)
 5	kinda	kinda	ADV	RB	_	6	advmod	_	_
 6	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 7	about	about	ADP	IN	_	8	case	_	_
 8	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	Entity=(person-3)|SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	_	_
-10	but	but	CCONJ	CC	_	13	cc	_	_
+10	but	but	CCONJ	CC	_	13	cc	_	Discourse=contrast:33->32
 11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Entity=(person-4)
 12	never	never	ADV	RB	Polarity=Neg	13	advmod	_	_
 13	met	meet	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	conj	_	_
@@ -47,20 +47,20 @@ The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 19 goeswith	color:blue
-1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	Entity=(person-5)
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	Discourse=elaboration:53->49|Entity=(person-7)
 2	could	could	AUX	MD	VerbForm=Fin	3	aux	_	_
 3	look	look	VERB	VB	VerbForm=Inf	0	root	_	_
 4	at	at	ADP	IN	_	5	case	_	_
-5	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	3	obl	_	Entity=(person-5)|SpaceAfter=No
+5	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	3	obl	_	Entity=(person-7)|SpaceAfter=No
 6	,	,	PUNCT	,	_	7	punct	_	_
-7	turning	turn	VERB	VBG	VerbForm=Ger	3	advcl	_	_
+7	turning	turn	VERB	VBG	VerbForm=Ger	3	advcl	_	Discourse=manner:54->53
 8	to	to	PART	TO	_	9	mark	_	_
 9	catch	catch	VERB	VB	VerbForm=Inf	7	advcl	_	_
-10	different	different	ADJ	JJ	Degree=Pos	11	amod	_	Entity=(abstract-38
-11	angles	angle	NOUN	NNS	Number=Plur	9	obj	_	Entity=abstract-38)
-12	and	and	CCONJ	CC	_	13	cc	_	_
+10	different	different	ADJ	JJ	Degree=Pos	11	amod	_	Entity=(abstract-52
+11	angles	angle	NOUN	NNS	Number=Plur	9	obj	_	Entity=abstract-52)
+12	and	and	CCONJ	CC	_	13	cc	_	Discourse=joint:55->53
 13	say	say	VERB	VB	VerbForm=Inf	3	conj	_	_
-14	“	"	PUNCT	``	_	15	punct	_	SpaceAfter=No
+14	“	''	PUNCT	``	_	15	punct	_	SpaceAfter=No
 15	All	all	PRON	DT	_	13	ccomp	_	_
 16	right	right	NOUN	NN	Number=Sing	15	goeswith	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	18	punct	_	_
@@ -68,11 +68,11 @@ The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a h
 19	right	right	NOUN	NN	Number=Sing	18	goeswith	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	24	punct	_	_
 21	now	now	ADV	RB	_	24	advmod	_	_
-22	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	nsubj	_	Entity=(person-39)
+22	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	nsubj	_	Entity=(person-53)
 23	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	24	aux	_	_
 24	talking	talk	VERB	VBG	VerbForm=Ger	18	parataxis	_	SpaceAfter=No
 25	,	,	PUNCT	,	_	15	punct	_	SpaceAfter=No
-26	”	"	PUNCT	''	_	15	punct	_	_
+26	”	''	PUNCT	''	_	15	punct	_	_
 27	very	very	ADV	RB	_	28	advmod	_	_
 28	loudly	loudly	ADV	RB	_	13	advmod	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	3	punct	_	_
@@ -86,21 +86,21 @@ The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 goeswith	color:blue
-1	eHow	eHow	PROPN	NNP	Number=Sing	2	nsubj	_	Entity=(place-77)
+1	eHow	eHow	PROPN	NNP	Number=Sing	2	nsubj	_	Discourse=elaboration:99->94|Entity=(abstract-92)
 2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	and	and	CCONJ	CC	_	4	cc	_	_
 4	continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 5	to	to	PART	TO	_	12	mark	_	_
 6	be	be	AUX	VB	VerbForm=Inf	12	cop	_	_
-7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	Entity=(place-77
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	Entity=(abstract-92
 8	largest	large	ADJ	JJS	Degree=Sup	12	amod	_	_
 9	and	and	CCONJ	CC	_	10	reparandum	_	_
 10	how	how	SCONJ	WRB	PronType=Int	12	amod	_	_
 11	to	to	PART	TO	_	10	goeswith	_	_
 12	website	website	NOUN	NN	Number=Sing	4	xcomp	_	_
 13	in	in	ADP	IN	_	15	case	_	_
-14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	_
-15	world	world	NOUN	NN	Number=Sing	12	nmod	_	Entity=place-77)|SpaceAfter=No
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	Entity=(place-12
+15	world	world	NOUN	NN	Number=Sing	12	nmod	_	Entity=abstract-92)place-12)|SpaceAfter=No
 16	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~

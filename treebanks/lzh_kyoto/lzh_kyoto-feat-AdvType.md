@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Cau`, `Deg`, `Tim`.
 
-2316 tokens (2%) have a non-empty value of `AdvType`.
-43 types (1%) occur at least once with a non-empty value of `AdvType`.
-42 lemmas (1%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (2316; 2% instances).
+3927 tokens (2%) have a non-empty value of `AdvType`.
+79 types (1%) occur at least once with a non-empty value of `AdvType`.
+77 lemmas (1%) occur at least once with a non-empty value of `AdvType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (3927; 2% instances).
 
 ### `ADV`
 
-2316 <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> tokens (17% of all `ADV` tokens) have a non-empty value of `AdvType`.
+3927 <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> tokens (18% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="lzh_kyoto-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2316; 100%), <tt><a href="lzh_kyoto-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2316; 100%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="lzh_kyoto-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3927; 100%), <tt><a href="lzh_kyoto-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3927; 100%), <tt><a href="lzh_kyoto-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3836; 98%).
 
 `ADV` tokens may have the following values of `AdvType`:
 
-* `Cau` (161; 7% of non-empty `AdvType`): 何、 奚、 寧、 盍、 胡、 曷
-* `Deg` (25; 1% of non-empty `AdvType`): 已、 特、 粗、 報、 寔、 滋、 實、 備、 質
-* `Tim` (2130; 92% of non-empty `AdvType`): 則、 乃、 將、 既、 斯、 遂、 已、 嘗、 常、 曾
+* `Cau` (234; 6% of non-empty `AdvType`): 何、 寧、 奚、 盍、 胡、 曷
+* `Deg` (91; 2% of non-empty `AdvType`): 實、 最、 頗、 滋、 特、 粗、 已、 愼、 良、 酷
+* `Tim` (3602; 92% of non-empty `AdvType`): 則、 乃、 遂、 將、 既、 嘗、 已、 斯、 常、 旣
 
 <table>
   <tr><th>Paradigm <i>已</i></th><th><tt>Deg</tt></th><th><tt>Tim</tt></th></tr>
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `AdvType` co-occurre
   <tr><td><tt><tt><a href="lzh_kyoto-feat-Degree.html">Degree</a></tt><tt>=Sup</tt></tt></td><td>已</td><td></td></tr>
 </table>
 
-`AdvType` seems to be **lexical feature** of `ADV`. 98% lemmas (41) occur only with one value of `AdvType`.
+`AdvType` seems to be **lexical feature** of `ADV`. 99% lemmas (76) occur only with one value of `AdvType`.
 
 ## Relations with Agreement in `AdvType`
 

@@ -11,9 +11,9 @@ This relation is universal.
 16341 nodes (4%) are attached to their parents as `root`.
 
 16341 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.4995410317606.
+Average distance between parent and child is 7.42353589131632.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (11998; 73% instances), -<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (2883; 18% instances), -<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (952; 6% instances), -<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (189; 1% instances), -<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (171; 1% instances), -<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (57; 0% instances), -<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (29; 0% instances), -<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (21; 0% instances), -<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (14; 0% instances), -<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (12; 0% instances), -<tt><a href="fr_gsd-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (11989; 73% instances), -<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (2879; 18% instances), -<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (982; 6% instances), -<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (178; 1% instances), -<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (169; 1% instances), -<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (54; 0% instances), -<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (29; 0% instances), -<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (20; 0% instances), -<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (14; 0% instances), -<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (12; 0% instances), -<tt><a href="fr_gsd-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 9 root	color:blue
-1	C'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	9	nsubj	_	SpaceAfter=No|wordform=c'
+1	C'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	SpaceAfter=No|wordform=c'
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 3	véritablement	véritablement	ADV	_	_	9	advmod	_	_
 4	pour	pour	ADP	_	_	7	case	_	_
@@ -69,10 +69,10 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	présent	présent	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 5	que	que	ADV	_	_	10	advmod	_	_
 6	durant	durant	ADP	_	_	10	case	_	_
-7	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
-8	10	10	NUM	_	_	10	nummod	_	_
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+8	10	10	NUM	_	Number=Plur	10	nummod	_	_
 9	premières	premier	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	_
-10	parties	partie	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+10	parties	partie	NOUN	_	Gender=Fem|Number=Plur	4	obl:mod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

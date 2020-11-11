@@ -13,7 +13,7 @@ This relation is universal.
 73 instances of `nummod` (95%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.1038961038961.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-NUM.html">NUM</a></tt> (71; 92% instances), <tt><a href="te_mtg-pos-NUM.html">NUM</a></tt>-<tt><a href="te_mtg-pos-NUM.html">NUM</a></tt> (3; 4% instances), <tt><a href="te_mtg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="te_mtg-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="te_mtg-pos-ADV.html">ADV</a></tt>-<tt><a href="te_mtg-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-NUM.html">NUM</a></tt> (69; 90% instances), <tt><a href="te_mtg-pos-ADV.html">ADV</a></tt>-<tt><a href="te_mtg-pos-NUM.html">NUM</a></tt> (3; 4% instances), <tt><a href="te_mtg-pos-NUM.html">NUM</a></tt>-<tt><a href="te_mtg-pos-NUM.html">NUM</a></tt> (3; 4% instances), <tt><a href="te_mtg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="te_mtg-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -36,27 +36,30 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nummod	color:blue
+1	రెండు	_	NUM	NUM	NumType=Card	3	nummod	_	Translit=rèṁḍu|LTranslit=_
+2	మూడు	_	NUM	NUM	NumType=Card	3	nummod	_	Translit=mūḍu|LTranslit=_
+3	రోజుల్లో	_	ADV	ADV	_	6	advmod	_	Translit=rojullo|LTranslit=_
+4	సుందరం	_	PROPN	PROPN	_	6	nsubj	_	Translit=suṁdaraṁ|LTranslit=_
+5	కాలేజీ	_	NOUN	NOUN	_	6	obl	_	Translit=kālejī|LTranslit=_
+6	ప్రవేశిస్తాడు	_	VERB	VERB	_	7	ccomp	_	Translit=praveśistāḍu|LTranslit=_
+7	అనగా	_	VERB	VERB	_	0	root	_	Translit=anagā|LTranslit=_
+8	...	_	PUNCT	PUNCT	_	7	punct	_	Translit=...|LTranslit=_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nummod	color:blue
 1	పదిపదులు	_	NUM	NUM	NumType=Card	2	nummod	_	Translit=padipadulu|LTranslit=_
 2	నూరు	_	NUM	NUM	NumType=Card	0	root	_	Translit=nūru|LTranslit=_
 3	.	_	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nummod	color:blue
-1	ప్రయోగించబడిన	_	VERB	VERB	_	4	acl	_	Translit=prayogiṁcabaḍina|LTranslit=_
-2	ముప్ఫై	_	NUM	NUM	NumType=Card	3	nummod	_	Translit=mupphai|LTranslit=_
-3	ఎనిమిదో	_	ADJ	ADJ	_	4	amod	_	Translit=ènimido|LTranslit=_
-4	రోజున	_	NOUN	NOUN	_	0	root	_	Translit=rojuna|LTranslit=_
-5	...	_	PUNCT	PUNCT	_	4	punct	_	Translit=...|LTranslit=_
 
 ~~~
 

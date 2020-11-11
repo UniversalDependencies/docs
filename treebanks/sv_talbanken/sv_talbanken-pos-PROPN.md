@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>Björn</em> (<tt><a href="sv_talbanke
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.079395 (the average of all parts of speech is 1.422634).
+The form / lemma ratio of `PROPN` is 1.079395 (the average of all parts of speech is 1.422764).
 
 The 1st highest number of forms (3) was observed with the lemma “FN”: <em>FN, FN:s, FNs</em>.
 

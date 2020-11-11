@@ -59,7 +59,7 @@ The following 12 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 7	fgColor:white
 # visual-style 7 5 nsubj:pass	color:blue
 1	Capt.	Capt.	PROPN	NNP	Number=Sing	2	compound	2:compound	_
-2	Spastic	Spastic	PROPN	NNP	Number=Sing	5	nmod:poss	5:nmod:poss	SpaceAfter=No
+2	Spastic	Spastic	PROPN	NNP	Number=Sing	5	nmod:poss	5:nmod:poss	_
 3	's	's	PART	POS	_	2	case	2:case	_
 4	Demented	Demented	PROPN	NNP	Number=Sing	5	compound	5:compound	_
 5	World	World	PROPN	NNP	Number=Sing	7	nsubj:pass	7:nsubj:pass	_

@@ -58,17 +58,17 @@ Examples: <em>да, и, вот, значит, же, Ну, гашке, но, то
 
 `PART` nodes are attached to their parents using 9 different relations: <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (45; 73% instances), <tt><a href="kpv_ikdp-dep-advmod-mmod.html">advmod:mmod</a></tt> (5; 8% instances), <tt><a href="kpv_ikdp-dep-appos.html">appos</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-goeswith.html">goeswith</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-mark.html">mark</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-obj.html">obj</a></tt> (1; 2% instances)
 
-Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (26; 42% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (21; 34% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (6; 10% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
+Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (29; 47% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (20; 32% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (6; 10% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 
-38 (61%) `PART` nodes are leaves.
+40 (65%) `PART` nodes are leaves.
 
-21 (34%) `PART` nodes have one child.
+19 (31%) `PART` nodes have one child.
 
 3 (5%) `PART` nodes have two children.
 
 The highest child degree of a `PART` node is 2.
 
-Children of `PART` nodes are attached using 5 different relations: <tt><a href="kpv_ikdp-dep-punct.html">punct</a></tt> (22; 81% instances), <tt><a href="kpv_ikdp-dep-goeswith.html">goeswith</a></tt> (2; 7% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (1; 4% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (1; 4% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (1; 4% instances)
+Children of `PART` nodes are attached using 5 different relations: <tt><a href="kpv_ikdp-dep-punct.html">punct</a></tt> (20; 80% instances), <tt><a href="kpv_ikdp-dep-goeswith.html">goeswith</a></tt> (2; 8% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (1; 4% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (1; 4% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (1; 4% instances)
 
-Children of `PART` nodes belong to 3 different parts of speech: <tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (22; 81% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (3; 11% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 7% instances)
+Children of `PART` nodes belong to 3 different parts of speech: <tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (20; 80% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (3; 12% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 8% instances)
 

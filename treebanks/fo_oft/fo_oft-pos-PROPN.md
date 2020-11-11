@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Faroese-OFT: POS Tags: `PROPN`
 
 There are 428 `PROPN` lemmas (17%), 455 `PROPN` types (14%) and 805 `PROPN` tokens (8%).
-Out of 15 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 2 in number of types and 5 in number of tokens.
+Out of 16 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Føroyar, Noreg, Danmark, Kanada, Niðurlond, Amerika, Grønland, Russland, Tórshavn, Frakland</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Evropa</em> (<tt><a href="fo_oft-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.063084 (the average of all parts of speech is 1.289602).
+The form / lemma ratio of `PROPN` is 1.063084 (the average of all parts of speech is 1.290924).
 
 The 1st highest number of forms (3) was observed with the lemma “Føroyar”: <em>Føroya, Føroyar, Føroyum</em>.
 
@@ -59,5 +59,5 @@ The highest child degree of a `PROPN` node is 6.
 
 Children of `PROPN` nodes are attached using 20 different relations: <tt><a href="fo_oft-dep-case.html">case</a></tt> (333; 33% instances), <tt><a href="fo_oft-dep-punct.html">punct</a></tt> (203; 20% instances), <tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt> (118; 12% instances), <tt><a href="fo_oft-dep-cop.html">cop</a></tt> (117; 12% instances), <tt><a href="fo_oft-dep-parataxis.html">parataxis</a></tt> (73; 7% instances), <tt><a href="fo_oft-dep-flat.html">flat</a></tt> (40; 4% instances), <tt><a href="fo_oft-dep-conj.html">conj</a></tt> (39; 4% instances), <tt><a href="fo_oft-dep-cc.html">cc</a></tt> (33; 3% instances), <tt><a href="fo_oft-dep-obl.html">obl</a></tt> (10; 1% instances), <tt><a href="fo_oft-dep-advmod.html">advmod</a></tt> (7; 1% instances), <tt><a href="fo_oft-dep-compound.html">compound</a></tt> (7; 1% instances), <tt><a href="fo_oft-dep-nmod.html">nmod</a></tt> (7; 1% instances), <tt><a href="fo_oft-dep-appos.html">appos</a></tt> (6; 1% instances), <tt><a href="fo_oft-dep-expl.html">expl</a></tt> (3; 0% instances), <tt><a href="fo_oft-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="fo_oft-dep-aux.html">aux</a></tt> (2; 0% instances), <tt><a href="fo_oft-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="fo_oft-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-amod.html">amod</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (333; 33% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (218; 22% instances), <tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (203; 20% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (121; 12% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (73; 7% instances), <tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (33; 3% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (2; 0% instances)
+Children of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (333; 33% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (218; 22% instances), <tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (203; 20% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (119; 12% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (73; 7% instances), <tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (33; 3% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (2; 0% instances)
 

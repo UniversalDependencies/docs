@@ -53,15 +53,15 @@ Parents of `PART` nodes belong to 14 different parts of speech: <tt><a href="de_
 
 33786 (95%) `PART` nodes are leaves.
 
-1557 (4%) `PART` nodes have one child.
+1558 (4%) `PART` nodes have one child.
 
-29 (0%) `PART` nodes have two children.
+28 (0%) `PART` nodes have two children.
 
 30 (0%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 7.
 
-Children of `PART` nodes are attached using 9 different relations: <tt><a href="de_hdt-dep-advmod.html">advmod</a></tt> (1467; 85% instances), <tt><a href="de_hdt-dep-punct.html">punct</a></tt> (103; 6% instances), <tt><a href="de_hdt-dep-cc.html">cc</a></tt> (102; 6% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (29; 2% instances), <tt><a href="de_hdt-dep-mark.html">mark</a></tt> (11; 1% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `PART` nodes are attached using 9 different relations: <tt><a href="de_hdt-dep-advmod.html">advmod</a></tt> (1467; 85% instances), <tt><a href="de_hdt-dep-cc.html">cc</a></tt> (102; 6% instances), <tt><a href="de_hdt-dep-punct.html">punct</a></tt> (102; 6% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (29; 2% instances), <tt><a href="de_hdt-dep-mark.html">mark</a></tt> (11; 1% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Children of `PART` nodes belong to 9 different parts of speech: <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1454; 85% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (108; 6% instances), <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (103; 6% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (30; 2% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Children of `PART` nodes belong to 9 different parts of speech: <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1454; 85% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (108; 6% instances), <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (102; 6% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (30; 2% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 

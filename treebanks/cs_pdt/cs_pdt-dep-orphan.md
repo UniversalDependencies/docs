@@ -63,7 +63,7 @@ The following 101 pairs of parts of speech are connected with `orphan`: <tt><a h
 5	-	-	PUNCT	Z:-------------	_	6	punct	4.1:punct	_
 6	parovody	parovod	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	2	conj	4.1:dep	_
 7	152	152	NUM	C=-------------	NumForm=Digit|NumType=Card	6	orphan	4.1:dep	_
-8	km	km`kilometr	NOUN	NNIXX-----A---8	Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos	7	nmod	7:nmod	LId=km`kilometr-1
+8	km	km	NOUN	NNIXX-----A---8	Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos	7	nmod	7:nmod	LId=km-1|LNumValue=kilometr
 
 ~~~
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Albanian-TSA: POS Tags: `ADJ`
 
 There are 70 `ADJ` lemmas (17%), 76 `ADJ` types (16%) and 84 `ADJ` tokens (9%).
-Out of 14 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 2 in number of types and 5 in number of tokens.
+Out of 14 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 2 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>kryesor, rëndësishëm, madh, caktuar, emocional, kompleks, njerëzor, njohur, social, abstrakt</em>
 

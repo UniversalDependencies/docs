@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-381 nodes (2%) are attached to their parents as `cop`.
+389 nodes (2%) are attached to their parents as `cop`.
 
-381 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05249343832021.
+389 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05141388174807.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (176; 46% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (140; 37% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (30; 8% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (17; 4% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (15; 4% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (177; 46% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (144; 37% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (32; 8% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (17; 4% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (16; 4% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

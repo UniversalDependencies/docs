@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="fr_sequoia-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.586313 (the average of all parts of speech is 1.404382).
+The form / lemma ratio of `VERB` is 2.586313 (the average of all parts of speech is 1.405182).
 
 The 1st highest number of forms (21) was observed with the lemma “devoir”: <em>devaient, devait, devant, devez, devoir, devons, devra, devraient, devrais, devrait, devrez, devriez, devrions, devrons, devront, dois, doit, doivent, du, dues, dû</em>.
 

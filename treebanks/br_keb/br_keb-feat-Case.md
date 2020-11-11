@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Acc`, `Nom`.
 
 175 tokens (2%) have a non-empty value of `Case`.
-39 types (2%) occur at least once with a non-empty value of `Case`.
+43 types (2%) occur at least once with a non-empty value of `Case`.
 8 lemmas (0%) occur at least once with a non-empty value of `Case`.
 The feature is used with 1 part-of-speech tags: <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (175; 2% instances).
 
@@ -22,9 +22,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (132; 75% of non-empty `Case`): <em>_, h, o, i, añ, anezhi, nni, anezhañ, anezho, E</em>
+* `Acc` (132; 75% of non-empty `Case`): <em>in, o, oc'h, i, añ, anezhi, e, anezhañ, anezho, imp</em>
 * `Nom` (43; 25% of non-empty `Case`): <em>me, int, -me, hi, -hi, c'hwi, Ni</em>
-* `EMPTY` (66): <em>piv, holl, hini, petra, a, re, Hemañ, kement-se, netra, 'ni</em>
+* `EMPTY` (64): <em>piv, holl, hini, a, petra, re, Hemañ, kement-se, netra, 'ni</em>
 
 <table>
   <tr><th>Paradigm <i>prpers</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>

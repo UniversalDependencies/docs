@@ -31,7 +31,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (15; 100% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (983): <em>_</em>
+* `EMPTY` (982): <em>_</em>
 
 ### `ADV`
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADV` tokens may have the following values of `NumType`:
 
 * `Mult` (3; 100% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (977): <em>_</em>
+* `EMPTY` (1009): <em>_</em>
 
 ## Relations with Agreement in `NumType`
 

@@ -32,8 +32,8 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 7	,	,	PUNCT	$,	_	6	punct	_	_
 8	dann	dann	ADV	ADV	_	10	advmod	_	_
 9	bei	bei	ADP	APPR	_	10	case	_	_
-10	Jim	Jim	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
-11	Block	Block	PROPN	NN	Case=Dat|Gender=Masc|Number=Sing	10	flat	_	SpaceAfter=No
+10	Jim	Jim	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	0	root	_	NamedEntity=Yes
+11	Block	Block	PROPN	NN	Case=Dat|Gender=Masc|Number=Sing	10	flat	_	SpaceAfter=No|NamedEntity=Yes
 12	.	.	PUNCT	$.	_	10	punct	_	_
 
 ~~~

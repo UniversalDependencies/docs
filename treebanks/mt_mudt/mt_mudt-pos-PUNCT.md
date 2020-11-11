@@ -35,17 +35,17 @@ The 1st highest number of forms (21) was observed with the lemma “_”: <em>!,
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="mt_mudt-dep-punct.html">punct</a></tt> (4729; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (2562; 54% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1240; 26% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (237; 5% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (159; 3% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (109; 2% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt> (101; 2% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (99; 2% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (87; 2% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (65; 1% instances), <tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt> (43; 1% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (2562; 54% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1239; 26% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (237; 5% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (159; 3% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (109; 2% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt> (101; 2% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (99; 2% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (87; 2% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (65; 1% instances), <tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt> (43; 1% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-4724 (100%) `PUNCT` nodes are leaves.
+4725 (100%) `PUNCT` nodes are leaves.
 
 2 (0%) `PUNCT` nodes have one child.
 
-3 (0%) `PUNCT` nodes have two children.
+2 (0%) `PUNCT` nodes have two children.
 
 The highest child degree of a `PUNCT` node is 2.
 
-Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="mt_mudt-dep-punct.html">punct</a></tt> (8; 100% instances)
+Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="mt_mudt-dep-punct.html">punct</a></tt> (6; 100% instances)
 
-Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (8; 100% instances)
+Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (6; 100% instances)
 

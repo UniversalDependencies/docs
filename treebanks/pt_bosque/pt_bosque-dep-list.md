@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `list`.
+10 nodes (0%) are attached to their parents as `list`.
 
-3 instances of `list` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.33333333333333.
+10 instances of `list` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.
 
-The following 2 pairs of parts of speech are connected with `list`: <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (2; 67% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+The following 5 pairs of parts of speech are connected with `list`: <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (4; 40% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (3; 30% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 10% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -40,6 +40,23 @@ The following 2 pairs of parts of speech are connected with `list`: <tt><a href=
 16	3-3	3-3	NUM	_	NumType=Card	11	list	_	SpaceAfter=No
 17	)	)	PUNCT	_	_	16	punct	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 6 list	color:blue
+1	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	0	root	_	MWEPOS=PROPN
+2	Ivo	Ivo	PROPN	_	Number=Sing	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	63	63	NUM	_	NumType=Card	1	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	tel.	tel.	NOUN	_	Gender=Masc|Number=Sing	1	list	_	_
+7	289-3609	289-3609	NUM	_	NumType=Card	6	appos	_	SpaceAfter=No
 
 ~~~
 

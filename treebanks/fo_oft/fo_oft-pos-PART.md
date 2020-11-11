@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Faroese-OFT: POS Tags: `PART`
 
 There are 1 `PART` lemmas (0%), 1 `PART` types (0%) and 79 `PART` tokens (1%).
-Out of 15 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `PART` is: 16 in number of lemmas, 16 in number of types and 13 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>at</em>
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>at</em> (<tt><a href="fo_oft-pos-PART
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.289602).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.290924).
 
 The 1st highest number of forms (1) was observed with the lemma “at”: <em>at</em>.
 

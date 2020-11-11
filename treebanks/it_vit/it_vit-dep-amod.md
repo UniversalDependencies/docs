@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17320 nodes (6%) are attached to their parents as `amod`.
+17415 nodes (6%) are attached to their parents as `amod`.
 
-11877 instances of `amod` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.27274826789838.
+11962 instances of `amod` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.28056273327591.
 
-The following 15 pairs of parts of speech are connected with `amod`: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (16044; 93% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (431; 2% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (267; 2% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (246; 1% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (164; 1% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (87; 1% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (40; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-X.html">X</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `amod`: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (16122; 93% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (441; 3% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (268; 2% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (246; 1% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (176; 1% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (89; 1% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (41; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 15 pairs of parts of speech are connected with `amod`: <tt><a href
 6	più	più	ADV	B	_	10	advmod	_	_
 7	o	o	CCONJ	CC	_	8	cc	_	_
 8	meno	meno	ADV	B	_	6	conj	_	_
-9	si	si	PRON	PC	Clitic=Yes|Gender=Masc|Person=3|PronType=Prs	10	expl	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
 10	veste	vestire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	1	punct	_	_
 

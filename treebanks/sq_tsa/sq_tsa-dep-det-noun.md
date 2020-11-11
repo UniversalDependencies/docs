@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `det:noun`: <tt><a h
 4	lexojmë	lexoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	1	conj	1:conj	_
 5	artikujt	artikull	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	4	obj	4:obj	_
 6	që	që	SCONJ	_	_	8	mark	8:mark	_
-7	na	ne	PRON	_	Gender=Masc|Number=Plur|PronType=Prs	8	iobj	8:iobj	_
+7	na	ne	PRON	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Prs	8	iobj	8:iobj	_
 8	japin	jap	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	acl:relcl	5:acl:relcl	_
 9	statistika	statistikë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	8	obj	8:obj	_
 10	për	për	ADP	_	_	12	case	12:case	_

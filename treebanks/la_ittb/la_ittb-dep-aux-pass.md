@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="la_ittb-dep-aux.html">aux</a></tt>.
 
-1941 nodes (1%) are attached to their parents as `aux:pass`.
+2928 nodes (1%) are attached to their parents as `aux:pass`.
 
-1469 instances of `aux:pass` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.24111282843895.
+2198 instances of `aux:pass` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.21857923497268.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1940; 100% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (2927; 100% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 3	propter	propter	ADP	S4	AdpType=Prep	4	case	_	_
 4	multa	multus	NOUN	B1|grn1|casM|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	2	conj	_	_
 5	quae	qui	PRON	F1|grn1|casJ|gen3|vgr1	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|PronType=Rel	6	nsubj:pass	_	_
-6	praeexiguntur	praeexigo	VERB	L3|modJ|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl:relcl	_	SpaceAfter=No
+6	praeexiguntur	praeexigo	VERB	L3|modJ|tem1|gen9	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl:relcl	_	SpaceAfter=No
 7	,	,	PUNCT	Punc	_	9	punct	_	_
 8	ut	ut	SCONJ	O4|vgr1	_	9	mark	_	_
 9	dictum	dico	VERB	N2|modM|tem4|grp1|casA|gen3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	conj	_	_
@@ -38,27 +38,26 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 aux:pass	color:blue
-1	in	in	ADP	S4	AdpType=Prep	2	case	_	_
-2	qua	qui	PRON	F1|grn1|casF|gen2|varA	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing|PronType=Rel	5	obl	_	_
-3	forma	forma	NOUN	A1|grn1|casF|gen2	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	9	obl	_	_
-4	injuste	injuste	ADV	B1|grn1|casG|vgr1	Degree=Pos	5	aux:pass	_	_
-5	judicatus	iudico	VERB	J2|modM|tem4|grp1|casA|gen1|vgr2	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl:relcl	_	_
-6	est	sum	AUX	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux:pass	_	SpaceAfter=No
-7	,	,	PUNCT	Punc	_	5	punct	_	_
-8	juste	juste	ADV	B1|grn1|casG|vgr2	Degree=Pos	9	advmod	_	_
-9	judicabit	iudico	VERB	J3|modA|tem3|gen6|vgr2	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	Punc	_	12	punct	_	_
-11	ut	ut	SCONJ	O4|vgr1	_	12	mark	_	_
-12	possit	possum	VERB	N3|modB|tem1|gen6	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	9	advcl	_	_
-13	ab	ab	ADP	S4|vgr2	AdpType=Prep	14	case	_	_
-14	impiis	impius	ADJ	B1|grn1|casO|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	15	obl:arg	_	_
-15	videri	video	VERB	K3|modQ|tem1	Tense=Pres|VerbForm=Inf|Voice=Pass	12	xcomp	_	SpaceAfter=No
-16	.	.	PUNCT	Punc	_	9	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 11 aux:pass	color:blue
+1	recte	recte	ADV	B1|grn1|casG	Degree=Pos	4	advmod	_	_
+2	igitur	igitur	ADV	O4	_	4	advmod	_	_
+3	dici	dico	VERB	N3|modQ|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	4	xcomp	_	_
+4	potest	possum	VERB	N3|modA|tem1|gen6	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
+5	quod	quod	SCONJ	O4	_	6	mark	_	_
+6	uerbum	uerbum	NOUN	B1|grn1|casA|gen3|vgr1	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+7	dei	deus	PROPN	F1|grn1|casB|gen1	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	Punc	_	9	punct	_	_
+9	deus	deus	PROPN	F1|grn1|casA|gen1	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
+10	,	,	PUNCT	Punc	_	11	punct	_	_
+11	sit	sum	AUX	N3|modB|tem1|gen6	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux:pass	_	_
+12	passus	patior	VERB	L2|modM|tem4|grp1|casA|gen1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	_
+13	et	et	CCONJ	O4	_	14	cc	_	_
+14	mortuus	morior	VERB	L2|modM|tem4|grp1|casA|gen1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	SpaceAfter=No
+15	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 

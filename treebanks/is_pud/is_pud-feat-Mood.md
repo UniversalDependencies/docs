@@ -18,13 +18,13 @@ The feature is used with 6 part-of-speech tags: <tt><a href="is_pud-pos-VERB.htm
 
 1138 <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> tokens (57% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="is_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1138; 100%), <tt><a href="is_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1138; 100%), <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1138; 100%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1074; 94%), <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (990; 87%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (824; 72%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (702; 62%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="is_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1138; 100%), <tt><a href="is_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1138; 100%), <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1138; 100%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1074; 94%), <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (990; 87%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (823; 72%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (703; 62%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (2; 0% of non-empty `Mood`): <em>Látið, heyrið</em>
-* `Ind` (1074; 94% of non-empty `Mood`): <em>sagði, fór, varð, segir, kom, þarf, hafði, átti, gerði, tók</em>
-* `Sub` (62; 5% of non-empty `Mood`): <em>ætti, hafi, aðhylltist, fái, kæmi, tæki, verði, vildi, yrði, berist</em>
+* `Ind` (1073; 94% of non-empty `Mood`): <em>sagði, fór, varð, segir, kom, þarf, hafði, átti, gerði, tók</em>
+* `Sub` (63; 6% of non-empty `Mood`): <em>ætti, hafi, aðhylltist, fái, kæmi, tæki, verði, vildi, yrði, berist</em>
 * `EMPTY` (860): <em>nota, gera, gert, hafa, fá, koma, komið, sjá, taka, notað</em>
 
 <table>
@@ -41,12 +41,12 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 876 <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (876; 100%), <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (876; 100%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (852; 97%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (636; 73%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (491; 56%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (876; 100%), <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (876; 100%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (852; 97%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (637; 73%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (492; 56%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Ind` (755; 86% of non-empty `Mood`): <em>er, var, voru, eru, hefur, hafa, hafði, höfðu, getur, má</em>
-* `Sub` (121; 14% of non-empty `Mood`): <em>hafi, væri, myndi, sé, gæti, hefði, hefðu, séu, væru, gætu</em>
+* `Ind` (756; 86% of non-empty `Mood`): <em>er, var, voru, eru, hefur, hafa, hafði, höfðu, má, getur</em>
+* `Sub` (120; 14% of non-empty `Mood`): <em>hafi, væri, myndi, sé, gæti, hefði, hefðu, séu, væru, gætu</em>
 * `EMPTY` (98): <em>verið, vera, hafa, geta, verði</em>
 
 <table>
@@ -70,7 +70,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 `NOUN` tokens may have the following values of `Mood`:
 
 * `Sub` (3; 100% of non-empty `Mood`): <em>hafi, hefðum</em>
-* `EMPTY` (4096): <em>árið, ár, hluta, árum, ára, október, stað, öld, fólk, áhrif</em>
+* `EMPTY` (4098): <em>árið, ár, hluta, árum, ára, október, stað, öld, fólk, áhrif</em>
 
 ### `ADJ`
 

@@ -34,7 +34,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 10	hice	hacer	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	advcl	_	_
 11	y	y	CCONJ	CCONJ	_	28	cc	_	_
 12	si	si	SCONJ	SCONJ	_	15	mark	_	_
-13	me	yo	PRON	PRON	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	iobj	_	_
+13	me	yo	PRON	PRON	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	iobj	_	_
 14	hubiera	haber	AUX	AUX	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux	_	_
 15	hecho	hacer	VERB	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	28	advcl	_	_
 16	poner	poner	VERB	VERB	VerbForm=Inf	15	xcomp	_	_
@@ -63,7 +63,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 22 21 discourse	color:blue
 1	"	"	PUNCT	PUNCT	PunctType=Quot	4	punct	_	SpaceAfter=No
 2	Sólo	sólo	ADV	ADV	_	4	advmod	_	_
-3	me	yo	PRON	PRON	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obj	_	_
+3	me	yo	PRON	PRON	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	iobj	_	_
 4	faltaba	faltar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	44	ccomp	_	_
 5	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	principio	principio	NOUN	NOUN	Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
@@ -84,7 +84,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 21	Ojo	ojo	INTJ	INTJ	_	22	discourse	_	_
 22	lo	él	PRON	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	ccomp	_	_
 23	que	que	PRON	PRON	PronType=Int,Rel	25	nsubj	_	_
-24	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	obj	_	_
+24	se	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	expl:pv	_	_
 25	avecina	avecinar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl	_	SpaceAfter=No
 26	,	,	PUNCT	PUNCT	PunctType=Comm	32	punct	_	_
 27	a	a	ADP	ADP	AdpType=Prep	32	case	_	MWE=a_la_vuelta_de|MWEPOS=ADP
@@ -96,7 +96,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 33	'	'	SYM	SYM	_	22	nmod	_	SpaceAfter=No
 34	,	,	PUNCT	PUNCT	PunctType=Comm	37	punct	_	_
 35	y	y	CCONJ	CCONJ	_	37	cc	_	_
-36	me	yo	PRON	PRON	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	37	obj	_	_
+36	me	yo	PRON	PRON	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	37	iobj	_	_
 37	hizo	hacer	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
 38	mucha	mucho	DET	DET	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	39	det	_	_
 39	gracia	gracia	NOUN	NOUN	Gender=Fem|Number=Sing	37	obj	_	_

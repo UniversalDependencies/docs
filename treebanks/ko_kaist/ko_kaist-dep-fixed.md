@@ -34,7 +34,7 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 10	나라를	나라+를	NOUN	ncn+jco	_	11	obj	_	_
 11	여행할	여행+하+ㄹ	VERB	ncpa+xsv+etm	_	0	root	_	_
 12	수가	수+가	NOUN	nbn+jcs	_	11	aux	_	_
-13	있었다	있+었+다	ADJ	paa+ep+ef	_	12	fixed	_	_
+13	있었다	있+었+다	ADJ	paa+ep+ef	_	12	fixed	_	SpaceAfter=No
 14	.	.	PUNCT	sf	_	12	punct	_	_
 
 ~~~
@@ -56,7 +56,7 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 8	없이	없+이	SCONJ	paa+ecs	_	7	fixed	_	_
 9	자기집까지	자기집+까지	ADV	ncn+jxc	_	11	advcl	_	_
 10	데리고	데리+고	CCONJ	pvg+ecc	_	0	root	_	_
-11	갔다	가+ㅆ+다	VERB	pvg+ep+ef	_	10	conj	_	_
+11	갔다	가+ㅆ+다	VERB	pvg+ep+ef	_	10	conj	_	SpaceAfter=No
 12	.	.	PUNCT	sf	_	11	punct	_	_
 
 ~~~
@@ -79,7 +79,7 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 9	초가집으로	초가집+으로	ADV	ncn+jca	_	10	advcl	_	_
 10	바뀔	바뀌+ㄹ	VERB	pvg+etm	_	7	conj	_	_
 11	수밖에	수+밖에	ADV	nbn+jxc	_	10	aux	_	_
-12	없었습니다	없+었+습니다	ADJ	paa+ep+ef	_	11	fixed	_	_
+12	없었습니다	없+었+습니다	ADJ	paa+ep+ef	_	11	fixed	_	SpaceAfter=No
 13	.	.	PUNCT	sf	_	11	punct	_	_
 
 ~~~

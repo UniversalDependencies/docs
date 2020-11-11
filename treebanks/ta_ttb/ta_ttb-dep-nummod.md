@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-217 nodes (2%) are attached to their parents as `nummod`.
+239 nodes (2%) are attached to their parents as `nummod`.
 
-216 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.35023041474654.
+238 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.34728033472803.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (162; 75% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (30; 14% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (13; 6% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (7; 3% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (181; 76% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (30; 13% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (14; 6% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (6; 3% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

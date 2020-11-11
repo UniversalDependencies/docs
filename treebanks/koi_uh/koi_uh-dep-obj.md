@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-31 nodes (5%) are attached to their parents as `obj`.
+36 nodes (4%) are attached to their parents as `obj`.
 
-20 instances of `obj` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.70967741935484.
+21 instances of `obj` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.66666666666667.
 
-The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (23; 74% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (7; 23% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (27; 75% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (8; 22% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -58,11 +58,11 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	Эз	оз	AUX	_	Person=3|Polarity=Neg|Tense=Past|VerbType=Aux	3	aux:neg	_	GTtags=Prt1,3
 2	позь	позьны	AUX	_	Connegative=Yes	3	aux	_	GTtags=ConNeg
 3	бӧрйыны	бӧрйыны	VERB	_	VerbForm=Inf	0	root	_	GTtags=Inf
-4	не	не	CCONJ	Polarity=Neg	_	6	cc:preconj	_	_
+4	не	не	CCONJ	Polarity=Neg	_	5	cc:preconj	_	_
 5	Питер	Питер	PROPN	_	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	3	obj	_	GTtags=Prop,Sg,Nom
 6	Смитӧс	Смит	PROPN	_	Animacy=Hum|Case=Acc|NameType=Sur|Number=Sing	5	flat:name	_	GTtags=Prop,Sg,Acc|SpaceAfter=No
-7	,	,	PUNCT	CLB	_	10	punct	_	_
-8	не	не	CCONJ	Polarity=Neg	_	10	cc	_	_
+7	,	,	PUNCT	CLB	_	9	punct	_	_
+8	не	не	CCONJ	Polarity=Neg	_	9	cc	_	_
 9	Мери	Мери	PROPN	_	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	6	conj	_	GTtags=Prop,Sg,Nom
 10	Браунӧс	Браун	PROPN	_	Animacy=Hum|Case=Acc|NameType=Sur|Number=Sing	9	flat:name	_	GTtags=Prop,Sg,Acc|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	3	punct	_	_

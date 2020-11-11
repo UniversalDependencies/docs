@@ -52,7 +52,7 @@ The following 10 pairs of parts of speech are connected with `discourse`: <tt><a
 1	Pero	_	CCONJ	CC	_	13	discourse	_	_
 2	cuando	_	ADV	WRB	_	3	advmod	_	_
 3	sugiero	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
-4	que	_	ADP	IN	_	5	mark	_	_
+4	que	_	SCONJ	IN	_	5	mark	_	_
 5	utilice	_	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
 6	a	_	ADP	IN	_	7	case	_	_
 7	Frank	_	PROPN	NNP	Gender=Masc|Number=Sing	5	obl	_	_

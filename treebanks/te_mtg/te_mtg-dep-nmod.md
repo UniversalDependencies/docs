@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `nmod`: <tt><a href="te_mtg-dep-nmod-cmp.html">nmod:cmp</a></tt>, <tt><a href="te_mtg-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="te_mtg-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
-61 nodes (1%) are attached to their parents as `nmod`.
+63 nodes (1%) are attached to their parents as `nmod`.
 
-58 instances of `nmod` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.08196721311475.
+58 instances of `nmod` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11111111111111.
 
-The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (29; 48% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (19; 31% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="te_mtg-pos-DET.html">DET</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="te_mtg-pos-NUM.html">NUM</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (29; 46% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (19; 30% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="te_mtg-pos-DET.html">DET</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="te_mtg-pos-NUM.html">NUM</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

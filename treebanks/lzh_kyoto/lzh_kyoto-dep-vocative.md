@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-30 nodes (0%) are attached to their parents as `vocative`.
+39 nodes (0%) are attached to their parents as `vocative`.
 
-28 instances of `vocative` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.7.
+35 instances of `vocative` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.51282051282051.
 
-The following 6 pairs of parts of speech are connected with `vocative`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (13; 43% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (12; 40% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `vocative`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (17; 44% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (14; 36% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -51,20 +51,23 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 vocative	color:blue
-1	子	子	PRON	n,代名詞,人称,他	Person=2|PronType=Prs	2	vocative	_	Gloss=[2PRON]|SpaceAfter=No
-2	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
-3	惡	惡	ADV	v,副詞,疑問,所在	_	4	advmod	_	Gloss=how|SpaceAfter=No
-4	在	在	VERB	v,動詞,存在,存在	_	2	ccomp	_	Gloss=be-present|SpaceAfter=No
-5	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	6	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
-6	敬	敬	VERB	v,動詞,行為,態度	_	4	ccomp	_	Gloss=respect|SpaceAfter=No
-7	叔	叔	NOUN	n,名詞,人,関係	_	8	compound	_	Gloss=father's-younger-brother|SpaceAfter=No
-8	父	父	NOUN	n,名詞,人,関係	_	6	obj	_	Gloss=father|SpaceAfter=No
-9	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 vocative	color:blue
+1	君	君	NOUN	n,名詞,人,役割	_	5	nmod	_	Gloss=ruler|SpaceAfter=No
+2	大	大	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	3	amod	_	Gloss=big|SpaceAfter=No
+3	夫	夫	NOUN	n,名詞,人,人	_	1	conj	_	Gloss=male-person|SpaceAfter=No
+4	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
+5	子	子	NOUN	n,名詞,人,関係	_	9	nsubj	_	Gloss=child|SpaceAfter=No
+6	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	7	advmod	_	Gloss=not|SpaceAfter=No
+7	敢	敢	AUX	v,助動詞,願望,*	Mood=Des	9	aux	_	Gloss=dare|SpaceAfter=No
+8	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	9	obj	_	Gloss=self|SpaceAfter=No
+9	稱	稱	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=weigh|SpaceAfter=No
+10	曰	曰	VERB	v,動詞,行為,伝達	_	9	vocative	_	Gloss=say|SpaceAfter=No
+11	余	余	PRON	n,代名詞,人称,他	Person=1|PronType=Prs	10	obj	_	Gloss=[1PRON]|SpaceAfter=No
+12	小子	小子	NOUN	n,名詞,人,人	_	11	flat	_	Gloss=people|SpaceAfter=No
 
 ~~~
 

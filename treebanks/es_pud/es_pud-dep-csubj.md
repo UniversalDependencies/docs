@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 2 9 csubj	color:blue
 1	Es	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
 2	posible	_	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
-3	que	_	ADP	IN	_	9	mark	_	_
+3	que	_	SCONJ	IN	_	9	mark	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	asunto	_	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
 6	no	_	ADV	RB	Polarity=Neg	9	advmod	_	_

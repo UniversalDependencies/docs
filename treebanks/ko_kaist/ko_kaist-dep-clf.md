@@ -38,7 +38,7 @@ The following 1 pairs of parts of speech are connected with `clf`: <tt><a href="
 14	교환을	교환+을	NOUN	ncpa+jco	_	15	obj	_	_
 15	드는	들+는	VERB	pvg+etm	_	16	acl	_	_
 16	사람들이	사람+들+이	NOUN	ncn+xsn+jcs	_	17	nsubj	_	_
-17	많다	많+다	ADJ	paa+ef	_	0	root	_	_
+17	많다	많+다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	sf	_	17	punct	_	_
 
 ~~~

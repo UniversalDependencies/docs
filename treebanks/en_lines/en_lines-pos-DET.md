@@ -85,15 +85,15 @@ Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="en_l
 
 8770 (99%) `DET` nodes are leaves.
 
-49 (1%) `DET` nodes have one child.
+48 (1%) `DET` nodes have one child.
 
-4 (0%) `DET` nodes have two children.
+5 (0%) `DET` nodes have two children.
 
 1 (0%) `DET` nodes have three or more children.
 
 The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes are attached using 12 different relations: <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (19; 32% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (12; 20% instances), <tt><a href="en_lines-dep-det.html">det</a></tt> (9; 15% instances), <tt><a href="en_lines-dep-punct.html">punct</a></tt> (5; 8% instances), <tt><a href="en_lines-dep-mark.html">mark</a></tt> (4; 7% instances), <tt><a href="en_lines-dep-amod.html">amod</a></tt> (3; 5% instances), <tt><a href="en_lines-dep-flat.html">flat</a></tt> (2; 3% instances), <tt><a href="en_lines-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="en_lines-dep-acl.html">acl</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-conj.html">conj</a></tt> (1; 2% instances)
+Children of `DET` nodes are attached using 12 different relations: <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (19; 31% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (12; 20% instances), <tt><a href="en_lines-dep-det.html">det</a></tt> (9; 15% instances), <tt><a href="en_lines-dep-punct.html">punct</a></tt> (6; 10% instances), <tt><a href="en_lines-dep-mark.html">mark</a></tt> (4; 7% instances), <tt><a href="en_lines-dep-amod.html">amod</a></tt> (3; 5% instances), <tt><a href="en_lines-dep-flat.html">flat</a></tt> (2; 3% instances), <tt><a href="en_lines-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="en_lines-dep-acl.html">acl</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-conj.html">conj</a></tt> (1; 2% instances)
 
-Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (16; 27% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (12; 20% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (10; 17% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (5; 8% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (5; 8% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (3; 5% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (2; 3% instances)
+Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (16; 26% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (12; 20% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (10; 16% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (6; 10% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (5; 8% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (3; 5% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (2; 3% instances)
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-367 nodes (1%) are attached to their parents as `nummod`.
+533 nodes (1%) are attached to their parents as `nummod`.
 
-337 instances of `nummod` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13896457765668.
+490 instances of `nummod` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19324577861163.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (338; 92% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (23; 6% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (473; 89% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (41; 8% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (11; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	paari	paar	NUM	N	Case=Gen|Number=Sing|NumType=Card	3	nummod	3:nummod	_
 3	aasta	aasta	NOUN	S	Case=Gen|Number=Sing	0	root	5.1:obl	_
 4	pärast	pärast	ADP	K	AdpType=Post	3	case	3:case	_
-5	rôômalt	rõõmsalt	ADV	D	_	3	advmod	5.1:advmod	Orphan=Yes
+5	rôômalt	rõõmsalt	ADV	D	Typo=Yes	3	advmod	5.1:advmod	Orphan=Yes|CorrectForm=rõõmsalt
 6	maasikatele	maasikas	NOUN	S	Case=All|Number=Plur	3	obl	5.1:obl	Orphan=Yes
 7	...	...	PUNCT	Z	_	3	punct	5.1:punct	_
 
@@ -34,19 +34,20 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 nummod	color:blue
-1	Seoses	seoses	ADP	K	AdpType=Prep	2	case	2:case	_
-2	surutisega	surutis	NOUN	S	Case=Com|Number=Sing	5	obl	5:obl	_
-3	esilehe	esi_leht	NOUN	S	Case=Gen|Number=Sing	4	nmod	4:nmod	_
-4	mahtu	maht	NOUN	S	Case=Par|Number=Sing	5	obj	5:obj	_
-5	vähendatud	vähendama	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
-6	8	8	NUM	N	NumForm=Digit|NumType=Card	7	nummod	7:nummod	_
-7	%	%	SYM	nominal	Case=Nom|Number=Sing|NumType=Card	5	obl	5:obl	SpaceAfter=No
-8	.	.	PUNCT	Z	_	5	punct	5:punct	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nummod	color:blue
+1	IMHO	IMHO	NOUN	S	Abbr=Yes	2	discourse	2:discourse	_
+2	teeb	tegema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	uazik	uazik	PROPN	S	Case=Nom|Number=Sing	2	nsubj	2:nsubj	_
+4	90	90	NUM	N	NumForm=Digit|NumType=Card	5	nummod	5:nummod	_
+5	%	%	SYM	X	_	6	advmod	6:advmod	_
+6	autodele	auto	NOUN	S	Case=All|Number=Plur	2	obl	2:obl	_
+7	silmad	silm	NOUN	S	Case=Nom|Number=Plur	2	obj	2:obj	_
+8	ette	ette	ADV	D	_	2	compound:prt	2:compound	SpaceAfter=No
+9	...	...	PUNCT	Z	_	2	punct	2:punct	_
 
 ~~~
 
@@ -54,19 +55,18 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 nummod	color:blue
-1	enamus	enamus	NOUN	S	Case=Nom|Number=Sing	2	nmod	2:nmod	_
-2	ülesanded	üles_anne	NOUN	S	Case=Nom|Number=Plur	4	nsubj:cop	4:nsubj	_
-3	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
-4	samasugused	sama_sugune	ADJ	P	Case=Nom|Number=Plur|PronType=Dem	0	root	0:root	_
-5	ja	ja	CCONJ	J	_	6	cc	6:cc	_
-6	panin	panema	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	4:conj	_
-7	siia	siia	ADV	D	_	6	advmod	6:advmod	_
-8	4	4	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	9	nummod	9:nummod	_
-9	tüüpilisemat	tüüpi=lisem	ADJ	A	Case=Par|Degree=Cmp|Number=Sing	6	obj	6:obj	_
-10	...	...	PUNCT	Z	_	4	punct	4:punct	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 nummod	color:blue
+1	jokker	jokker	PROPN	S	Case=Nom|Number=Sing	3	parataxis	3:parataxis	SpaceAfter=No
+2	:	:	PUNCT	Z	_	1	punct	1:punct	_
+3	Soovitan	soovitama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	20	20	NUM	N	NumForm=Digit|NumType=Card	5	nummod	5:nummod	SpaceAfter=No
+5	a.	a.	NOUN	Y	Abbr=Yes	6	obl	6:obl	_
+6	vana	vana	ADJ	A	Case=Par|Degree=Pos|Number=Sing	7	amod	7:amod	_
+7	audi	Audi	PROPN	S	Case=Par|Number=Sing	3	obj	3:obj	_
+8	80	80	NUM	N	NumForm=Digit|NumType=Card	7	nummod	7:nummod	SpaceAfter=No
+9	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
 

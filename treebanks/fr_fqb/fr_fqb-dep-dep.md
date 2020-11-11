@@ -28,8 +28,8 @@ The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="
 4	Marty	Marty	PROPN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
 5	McKewon	McKewon	PROPN	_	_	4	flat:name	_	_
 6	travaille	travailler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-7	-t	t	PART	_	_	8	dep	_	SpaceAfter=No
-8	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	6	expl:subj	_	_
+7	-t	t	PART	_	_	8	dep	_	SpaceAfter=No|wordform=t
+8	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	6	expl:subj	_	wordform=il
 9	?	?	PUNCT	_	_	6	punct	_	_
 
 ~~~

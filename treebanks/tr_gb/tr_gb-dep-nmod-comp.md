@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="tr_gb-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="tr_gb-dep-nmod-part.html">nmod:part</a></tt>, <tt><a href="tr_gb-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
-17 nodes (0%) are attached to their parents as `nmod:comp`.
+18 nodes (0%) are attached to their parents as `nmod:comp`.
 
-17 instances of `nmod:comp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.11764705882353.
+18 instances of `nmod:comp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.11111111111111.
 
-The following 5 pairs of parts of speech are connected with `nmod:comp`: <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (6; 35% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (6; 35% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (3; 18% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `nmod:comp`: <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (7; 39% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (6; 33% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (3; 17% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -61,8 +61,8 @@ The following 5 pairs of parts of speech are connected with `nmod:comp`: <tt><a 
 # visual-style 7 5 nmod:comp	color:blue
 1	Sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
 2	bu	bu	DET	_	Definite=Def|PronType=Art	3	det	_	_
-3	konu	konu	NOUN	_	Case=Nom|Number=Sing	8	obl	_	_
-4	üzerinde	üzerinde	ADP	_	Number[psor]=Sing|Person[psor]=3	3	case	_	_
+3	konu	konu	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
+4	üzerinde	üzer	NOUN	_	Case=Loc|Number[psor]=Sing|Person[psor]=3	8	obl	_	_
 5	benden	ben	PRON	_	Case=Abl|Number=Sing|Person=1|PronType=Prs	7	nmod:comp	_	_
 6	daha	daha	ADV	_	_	7	advmod	_	_
 7	fazla	fazla	ADV	_	_	8	advmod	_	_

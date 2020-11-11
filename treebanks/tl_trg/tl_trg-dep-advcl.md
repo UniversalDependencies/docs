@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (1%) are attached to their parents as `advcl`.
+6 nodes (1%) are attached to their parents as `advcl`.
 
-2 instances of `advcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.5.
+6 instances of `advcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.16666666666667.
 
-The following 1 pairs of parts of speech are connected with `advcl`: <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_trg-pos-VERB.html">VERB</a></tt> (2; 100% instances).
+The following 1 pairs of parts of speech are connected with `advcl`: <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_trg-pos-VERB.html">VERB</a></tt> (6; 100% instances).
 
 
 ~~~ conllu
@@ -22,16 +22,16 @@ The following 1 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 8 advcl	color:blue
-1	Nagluto	luto	VERB	VBD	Aspect=Perf|Mood=Ind	0	root	_	Focus=Act
-2	na	na	ADV	RP	_	1	advmod	_	_
-3	ng	ng	ADP	_	Case=Erg	4	case	_	_
-4	pagkain	pagkain	NOUN	NN	Number=Coll	1	obj	_	_
-5	ang	ang	DET	DT	Case=Abs|Definite=Def	6	det	_	_
-6	nanay	nanay	NOUN	NN	Number=Sing	1	nsubj	_	_
-7	noong	nang	SCONJ	_	_	8	mark	_	_
-8	dumating	dating	VERB	VBD	Aspect=Perf|Mood=Ind	1	advcl	_	Focus=Act
-9	ako	ang	PRON	PRP	Case=Abs|Number=Sing|Person=1	8	nsubj	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	1	punct	_	_
+1	Nagluto	luto	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=cooked
+2	na	na	ADV	_	PronType=Dem	1	advmod	_	Gloss=now
+3	ng	ng	ADP	_	Case=Gen	4	case	_	_
+4	pagkain	pagkain	NOUN	_	_	1	obj	_	Gloss=food
+5	ang	ang	ADP	_	Case=Nom	6	case	_	Gloss=the
+6	nanay	nanay	NOUN	_	_	1	nsubj	_	Gloss=mother
+7	noong	nang	SCONJ	_	_	8	mark	_	Gloss=when
+8	dumating	dating	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	1	advcl	_	Gloss=arrived
+9	ako	ako	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=I|SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

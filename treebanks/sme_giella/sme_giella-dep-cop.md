@@ -48,7 +48,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	bivut	bivvu	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
 5	galget	galgat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	5	punct	_	_
-7	ii	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	11	aux:neg	_	_
+7	ii	ii	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	11	aux:neg	_	_
 8	leat	leat	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	_
 9	gal	gal	ADV	Adv	_	11	advmod	_	_
 10	nu	nu	ADV	Adv	_	11	advmod	_	_
@@ -65,13 +65,13 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 6	fgColor:white
 # visual-style 6 5 cop	color:blue
 1	Mun	mun	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	6	punct	_	_
+2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	Johanas	Johanas	PROPN	N	Case=Nom|Number=Sing	1	appos	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	lean	leat	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	dat	dat	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	0	root	_	_
 7	guhte	guhte	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	_
-8	lean	leat	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	lean	leat	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	gullan	gullat	VERB	V	Aspect=Perf|VerbForm=Part	6	acl:relcl	_	_
 10	ja	ja	CCONJ	CC	_	9	cc	_	_
 11	oaidnán	oaidnit	VERB	V	Aspect=Perf|VerbForm=Part	9	conj	_	_

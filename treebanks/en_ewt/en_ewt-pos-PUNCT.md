@@ -6,21 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-EWT: POS Tags: `PUNCT`
 
-There are 125 `PUNCT` lemmas (1%), 135 `PUNCT` types (1%) and 29865 `PUNCT` tokens (12%).
+There are 130 `PUNCT` lemmas (1%), 140 `PUNCT` types (1%) and 29863 `PUNCT` tokens (12%).
 Out of 17 observed tags, the rank of `PUNCT` is: 8 in number of lemmas, 8 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ", -, ?, ), (, :, !, ...</em>
 
 The 10 most frequent `PUNCT` types:  <em>., ,, -, ", ?, ), (, :, !, ...</em>
 
-The 10 most frequent ambiguous lemmas: <em>"</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1667, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 6), <em>-</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1651, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 117, <tt><a href="en_ewt-pos-X.html">X</a></tt> 11), <em>)</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1068, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6), <em>(</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1031, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6), <em>:</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 773, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 1), <em>...</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 325, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 5), <em>'</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 244, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 7), <em>/</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 242, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 32, <tt><a href="en_ewt-pos-X.html">X</a></tt> 2), <em>></em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 70, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 3), <em><</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 69, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>"</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1667, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 6), <em>-</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1650, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 118, <tt><a href="en_ewt-pos-X.html">X</a></tt> 11), <em>)</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1068, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6), <em>(</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1031, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6), <em>:</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 773, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 1), <em>...</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 325, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 5), <em>'</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 244, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 7), <em>/</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 235, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 39, <tt><a href="en_ewt-pos-X.html">X</a></tt> 2), <em>></em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 70, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 3), <em><</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 69, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1631, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 117, <tt><a href="en_ewt-pos-X.html">X</a></tt> 11), <em>"</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1605, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 6), <em>)</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1068, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6), <em>(</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1031, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6), <em>:</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 773, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 1), <em>...</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 325, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 5), <em>/</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 242, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 32, <tt><a href="en_ewt-pos-X.html">X</a></tt> 2), <em>'</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 240, <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 36, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 7), <em>></em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 70, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 3), <em><</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 69, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1630, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 118, <tt><a href="en_ewt-pos-X.html">X</a></tt> 11), <em>"</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1605, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 6), <em>)</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1068, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6), <em>(</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1031, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6), <em>:</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 773, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 1), <em>...</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 325, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 5), <em>'</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 240, <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 36, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 7), <em>/</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 235, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 39, <tt><a href="en_ewt-pos-X.html">X</a></tt> 2), <em>></em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 70, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 3), <em><</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 69, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 1)
 
 
 * <em>-</em>
-  * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1631: <em>TEHRAN ( AFP ) <b>-</b></em>
-  * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 117: <em>Intercept : <b>-</b> 0.3931 ( 0.0076 )</em>
+  * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1630: <em>TEHRAN ( AFP ) <b>-</b></em>
+  * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 118: <em>Intercept : <b>-</b> 0.3931 ( 0.0076 )</em>
   * <tt><a href="en_ewt-pos-X.html">X</a></tt> 11: <em><< Compaq.com <b>-</b> notebook.url >></em>
 * <em>"</em>
   * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1605: <em>To pander to the mythical <b>"</b> Arab street <b>"</b> , of course .</em>
@@ -37,14 +37,14 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="en_ewt-pos-PUNCT
 * <em>...</em>
   * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 325: <em><b>...</b> Now comes the fun part ....</em>
   * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 5: <em><b>...</b></em>
-* <em>/</em>
-  * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 242: <em>Rudwell Johnson <b>/</b> ENRON@enronXgate</em>
-  * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 32: <em>No way to read <b>/</b> relax .</em>
-  * <tt><a href="en_ewt-pos-X.html">X</a></tt> 2: <em>Hop onto a Hop On <b>/</b> Hop Off bus .</em>
 * <em>'</em>
   * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 240: <em>He did comment on what he meant by the phrase . <b>'</b></em>
   * <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 36: <em>The latest spot for a real Hackney 's is Printers <b>'</b> Row :</em>
   * <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 7: <em>If you Do n't want to grow out of it quickly get a 14 <b>'</b> 2 ..</em>
+* <em>/</em>
+  * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 235: <em>Rudwell Johnson <b>/</b> ENRON@enronXgate</em>
+  * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 39: <em>No way to read <b>/</b> relax .</em>
+  * <tt><a href="en_ewt-pos-X.html">X</a></tt> 2: <em>Hop onto a Hop On <b>/</b> Hop Off bus .</em>
 * <em>></em>
   * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 70: <em>" Les Spahnn " < spahnn@hnks.com <b>></b></em>
   * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 3: <em><b>></b> 100,000 Newsgroups</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="en_ewt-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.080000 (the average of all parts of speech is 1.194181).
+The form / lemma ratio of `PUNCT` is 1.076923 (the average of all parts of speech is 1.194473).
 
 The 1st highest number of forms (3) was observed with the lemma “"”: <em>", “, ”</em>.
 
@@ -67,11 +67,11 @@ The 3rd highest number of forms (3) was observed with the lemma “''”: <em>''
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 10 different relations: <tt><a href="en_ewt-dep-punct.html">punct</a></tt> (29645; 99% instances), <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (121; 0% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (86; 0% instances), <tt><a href="en_ewt-dep-case.html">case</a></tt> (6; 0% instances), <tt><a href="en_ewt-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-det-predet.html">det:predet</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-list.html">list</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`PUNCT` nodes are attached to their parents using 10 different relations: <tt><a href="en_ewt-dep-punct.html">punct</a></tt> (29650; 99% instances), <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (114; 0% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (86; 0% instances), <tt><a href="en_ewt-dep-case.html">case</a></tt> (6; 0% instances), <tt><a href="en_ewt-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-det-predet.html">det:predet</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-list.html">list</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (15010; 50% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (6908; 23% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (2896; 10% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (2698; 9% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (700; 2% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (417; 1% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (393; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (247; 1% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (172; 1% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (150; 1% instances),  (86; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (52; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (41; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (36; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (35; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances)
+Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (15008; 50% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (6913; 23% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (2895; 10% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (2697; 9% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (700; 2% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (414; 1% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (393; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (247; 1% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (172; 1% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (150; 1% instances),  (86; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (52; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (41; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (36; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (35; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances)
 
-29825 (100%) `PUNCT` nodes are leaves.
+29823 (100%) `PUNCT` nodes are leaves.
 
 35 (0%) `PUNCT` nodes have one child.
 

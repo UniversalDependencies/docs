@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Fut`, `Imp`, `Past`, `Pqp`, `Pres`.
 
-17749 tokens (8%) have a non-empty value of `Tense`.
-4373 types (14%) occur at least once with a non-empty value of `Tense`.
+17743 tokens (8%) have a non-empty value of `Tense`.
+4371 types (14%) occur at least once with a non-empty value of `Tense`.
 1542 lemmas (9%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (14443; 7% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (3301; 2% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (5; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (14334; 7% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (3406; 2% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (3; 0% instances).
 
 ### `VERB`
 
-14443 <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Tense`.
+14334 <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14443; 100%), <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12334; 85%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (10980; 76%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10610; 73%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14334; 100%), <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12231; 85%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (10885; 76%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10514; 73%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Imp` (2117; 15% of non-empty `Tense`): <em>avea, era, putea, trebuia, făcea, stătea, știa, părea, aveau, erau</em>
+* `Imp` (2094; 15% of non-empty `Tense`): <em>avea, era, putea, trebuia, făcea, stătea, știa, părea, aveau, luați</em>
 * `Past` (1714; 12% of non-empty `Tense`): <em>există, aplică, află, intră, determină, asigură, continuă, modifică, respectă, zise</em>
-* `Pqp` (548; 4% of non-empty `Tense`): <em>începuse, făcuse, văzuse, trecuse, fusese, devenise, scosese, avusese, petrecuse, rănise</em>
-* `Pres` (10064; 70% of non-empty `Tense`): <em>poate, trebuie, pot, are, face, putea, este, au, trebui, avea</em>
-* `EMPTY` (8721): <em>avut, prevăzute, fost, făcut, având, spus, putut, rupt, murit, dat</em>
+* `Pqp` (547; 4% of non-empty `Tense`): <em>începuse, făcuse, văzuse, trecuse, fusese, devenise, scosese, avusese, petrecuse, rănise</em>
+* `Pres` (9979; 70% of non-empty `Tense`): <em>poate, trebuie, pot, are, face, putea, au, trebui, este, avea</em>
+* `EMPTY` (8670): <em>avut, prevăzute, făcut, având, spus, putut, rupt, murit, dat, devenit</em>
 
 <table>
   <tr><th>Paradigm <i>putea</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th><th><tt>Pqp</tt></th></tr>
@@ -43,17 +43,17 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-3301 <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> tokens (39% of all `AUX` tokens) have a non-empty value of `Tense`.
+3406 <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> tokens (40% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2672; 81%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (2594; 79%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2464; 75%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1765; 53%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2771; 81%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (2686; 79%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2557; 75%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1824; 54%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Imp` (422; 13% of non-empty `Tense`): <em>era, erau, eram, erai, avea, aveau</em>
+* `Imp` (445; 13% of non-empty `Tense`): <em>era, erau, avea, eram, erai, aveau</em>
 * `Past` (11; 0% of non-empty `Tense`): <em>fu, fură</em>
-* `Pqp` (41; 1% of non-empty `Tense`): <em>fusese, fuseseră</em>
-* `Pres` (2827; 86% of non-empty `Tense`): <em>este, fi, sunt, fie, e, -i, sunteți, ești, fii, suntem</em>
-* `EMPTY` (5113): <em>a, au, fost, va, ar, am, fiind, vor, ai, ați</em>
+* `Pqp` (42; 1% of non-empty `Tense`): <em>fusese, fuseseră</em>
+* `Pres` (2908; 85% of non-empty `Tense`): <em>este, sunt, fi, fie, e, -i, sunteți, ești, fii, suntem</em>
+* `EMPTY` (5158): <em>a, au, fost, va, ar, am, fiind, vor, ai, ați</em>
 
 <table>
   <tr><th>Paradigm <i>fi</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th><th><tt>Pqp</tt></th></tr>
@@ -76,14 +76,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `PART`
 
-5 <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Tense`.
+3 <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `PART` and `Tense` co-occurred: <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ro_rrt-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ro_rrt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5; 100%).
+The most frequent other feature values with which `PART` and `Tense` co-occurred: <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ro_rrt-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ro_rrt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `PART` tokens may have the following values of `Tense`:
 
-* `Fut` (5; 100% of non-empty `Tense`): <em>o</em>
-* `EMPTY` (4873): <em>să, nu, a, n-, s-, a-, -a</em>
+* `Fut` (3; 100% of non-empty `Tense`): <em>o</em>
+* `EMPTY` (4872): <em>să, nu, a, n-, s-, a-, -a</em>
 
 ## Relations with Agreement in `Tense`
 

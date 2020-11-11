@@ -71,13 +71,13 @@ The 3rd highest number of forms (2) was observed with the lemma “Goethe”: <e
 
 Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (128; 38% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (117; 34% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (59; 17% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (12; 4% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (8; 2% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (8; 2% instances),  (7; 2% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (2; 1% instances)
 
-162 (48%) `PROPN` nodes are leaves.
+163 (48%) `PROPN` nodes are leaves.
 
-95 (28%) `PROPN` nodes have one child.
+94 (28%) `PROPN` nodes have one child.
 
-38 (11%) `PROPN` nodes have two children.
+37 (11%) `PROPN` nodes have two children.
 
-46 (13%) `PROPN` nodes have three or more children.
+47 (14%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 7.
 

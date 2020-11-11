@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>"</em> (<tt><a href="fr_gsd-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.306188).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.306397).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -47,20 +47,14 @@ The 2nd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
 
-`PUNCT` occurs with 1 features: <tt><a href="fr_gsd-feat-Foreign.html">Foreign</a></tt> (2; 0% instances)
-
-`PUNCT` occurs with 1 feature-value pairs: `Foreign=Yes`
-
-`PUNCT` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (44004 tokens).
-Examples: <em>,, ., (, ), «, ", », :, !, ?</em>
+`PUNCT` does not occur with any features.
 
 
 ## Relations
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="fr_gsd-dep-punct.html">punct</a></tt> (44006; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (18675; 42% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (13697; 31% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4667; 11% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (2186; 5% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1727; 4% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (962; 2% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (720; 2% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (555; 1% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (432; 1% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (199; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (86; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (65; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (18687; 42% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (13704; 31% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4609; 10% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (2230; 5% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1741; 4% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (895; 2% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (703; 2% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (607; 1% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (432; 1% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (199; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (86; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (63; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (42; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 44006 (100%) `PUNCT` nodes are leaves.
 

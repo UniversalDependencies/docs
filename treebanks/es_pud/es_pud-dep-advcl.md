@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	Pero	_	CCONJ	CC	_	13	discourse	_	_
 2	cuando	_	ADV	WRB	_	3	advmod	_	_
 3	sugiero	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
-4	que	_	ADP	IN	_	5	mark	_	_
+4	que	_	SCONJ	IN	_	5	mark	_	_
 5	utilice	_	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
 6	a	_	ADP	IN	_	7	case	_	_
 7	Frank	_	PROPN	NNP	Gender=Masc|Number=Sing	5	obl	_	_
@@ -49,7 +49,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	En	_	ADP	IN	_	10	discourse	_	_
 2	teoría	_	NOUN	NN	Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	_	PUNCT	,	_	1	punct	_	_
-4	si	_	ADP	IN	_	6	mark	_	_
+4	si	_	SCONJ	IN	_	6	mark	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
 6	hace	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	advcl	_	_
 7	bien	_	ADV	RB	_	6	advmod	_	SpaceAfter=No
@@ -67,7 +67,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 3 advcl	color:blue
-1	Aunque	_	ADP	IN	_	3	mark	_	_
+1	Aunque	_	SCONJ	IN	_	3	mark	_	_
 2	parezca	_	AUX	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
 3	sorprendente	_	ADJ	JJ	Gender=Masc|Number=Sing	12	advcl	_	SpaceAfter=No
 4	,	_	PUNCT	,	_	3	punct	_	_

@@ -58,7 +58,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 16	fonctionne	fonctionner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
 17	aujourd'hui	aujourd'hui	ADV	_	_	16	advmod	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	16	punct	_	_
-19	face	face	NOUN	_	Gender=Fem|Number=Sing	23	case	_	EXTPOS=ADP|MWE=face_à
+19	face	face	NOUN	_	Gender=Fem|Number=Sing	23	case	_	ExtPos=ADP
 20	à	à	ADP	_	_	19	fixed	_	_
 21	tous	tout	ADJ	_	Gender=Masc|Number=Plur	23	amod	_	_
 22	ces	ce	DET	_	Number=Plur|PronType=Dem	23	det	_	_

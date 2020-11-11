@@ -85,9 +85,9 @@ Examples: 嘅、 呢、 呀、 啦、 㗎、 喇、 喎、 嘞、 囖、 吖
 
 Parents of `PART` nodes belong to 14 different parts of speech: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (891; 58% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (304; 20% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (102; 7% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (69; 4% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (67; 4% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt> (32; 2% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (29; 2% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-1489 (97%) `PART` nodes are leaves.
+1477 (96%) `PART` nodes are leaves.
 
-42 (3%) `PART` nodes have one child.
+54 (4%) `PART` nodes have one child.
 
 3 (0%) `PART` nodes have two children.
 
@@ -95,7 +95,7 @@ Parents of `PART` nodes belong to 14 different parts of speech: <tt><a href="yue
 
 The highest child degree of a `PART` node is 5.
 
-Children of `PART` nodes are attached using 9 different relations: <tt><a href="yue_hk-dep-punct.html">punct</a></tt> (39; 74% instances), <tt><a href="yue_hk-dep-reparandum.html">reparandum</a></tt> (6; 11% instances), <tt><a href="yue_hk-dep-discourse.html">discourse</a></tt> (2; 4% instances), <tt><a href="yue_hk-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="yue_hk-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="yue_hk-dep-det.html">det</a></tt> (1; 2% instances), <tt><a href="yue_hk-dep-discourse-sp.html">discourse:sp</a></tt> (1; 2% instances), <tt><a href="yue_hk-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="yue_hk-dep-obj.html">obj</a></tt> (1; 2% instances)
+Children of `PART` nodes are attached using 9 different relations: <tt><a href="yue_hk-dep-punct.html">punct</a></tt> (51; 78% instances), <tt><a href="yue_hk-dep-reparandum.html">reparandum</a></tt> (6; 9% instances), <tt><a href="yue_hk-dep-discourse.html">discourse</a></tt> (2; 3% instances), <tt><a href="yue_hk-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="yue_hk-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="yue_hk-dep-det.html">det</a></tt> (1; 2% instances), <tt><a href="yue_hk-dep-discourse-sp.html">discourse:sp</a></tt> (1; 2% instances), <tt><a href="yue_hk-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="yue_hk-dep-obj.html">obj</a></tt> (1; 2% instances)
 
-Children of `PART` nodes belong to 8 different parts of speech: <tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (39; 74% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (8; 15% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
+Children of `PART` nodes belong to 8 different parts of speech: <tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (51; 78% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (8; 12% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
 

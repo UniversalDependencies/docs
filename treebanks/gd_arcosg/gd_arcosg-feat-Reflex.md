@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-202 tokens (0%) have a non-empty value of `Reflex`.
-7 types (0%) occur at least once with a non-empty value of `Reflex`.
-8 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 3 part-of-speech tags: <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (199; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+295 tokens (0%) have a non-empty value of `Reflex`.
+8 types (0%) occur at least once with a non-empty value of `Reflex`.
+7 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
+The feature is used with 3 part-of-speech tags: <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (292; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-199 <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> tokens (8% of all `PRON` tokens) have a non-empty value of `Reflex`.
+292 <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (199; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (199; 100%), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (199; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (292; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (292; 100%), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (292; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (199; 100% of non-empty `Reflex`): <em>fhèin, fhéin, chèile, fhìn, chéile, a, fhein</em>
-* `EMPTY` (2451): <em>e, iad, mi, i, sin, esan, thu, seo, sinn, ise</em>
+* `Yes` (292; 100% of non-empty `Reflex`): <em>fhèin, fhéin, chèile, fhìn, a, chéile, a-chèile, fhein</em>
+* `EMPTY` (5919): <em>e, iad, i, mi, thu, a, sin, sinn, esan, seo</em>
 
 ### `NOUN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 `NOUN` tokens may have the following values of `Reflex`:
 
 * `Yes` (2; 100% of non-empty `Reflex`): <em>a, chèile</em>
-* `EMPTY` (9577): <em>bhith, chur, dol, duine, fear, ràdh, bliadhna, dhèanamh, thoirt, latha</em>
+* `EMPTY` (12448): <em>bhith, dol, ràdh, duine, chur, fear, taobh, fhios, bliadhna, dhèanamh</em>
 
 ### `ADV`
 
@@ -43,11 +43,11 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 `ADV` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): <em>fhèin</em>
-* `EMPTY` (1930): <em>an, a-mach, a, cho, cuideachd, idir, math, an-diugh, a-steach, dìreach</em>
+* `EMPTY` (3063): <em>an, a-mach, a, cho, cuideachd, dìreach, math, suas, ann, a-steach</em>
 
 ## Relations with Agreement in `Reflex`
 
 The 10 most frequent relations where parent and child node agree in `Reflex`:
-<tt>PRON --[<tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (2; 100%),
+<tt>PRON --[<tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (10; 100%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (1; 100%).
 

@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `det:predet`: <tt><a
 7	a	_	ADP	IN	_	9	case	_	_
 8	sus	_	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	miembros	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
-10	que	_	ADP	IN	_	12	mark	_	_
+10	que	_	SCONJ	IN	_	12	mark	_	_
 11	no	_	ADV	RB	Polarity=Neg	12	advmod	_	_
 12	creyeran	_	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
 13	todo	_	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	15	det:predet	_	_

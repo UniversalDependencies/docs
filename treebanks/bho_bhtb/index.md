@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Atul Kr. Ojha, Daniel Zeman.
 
 Repository: [UD_Bhojpuri-BHTB](https://github.com/UniversalDependencies/UD_Bhojpuri-BHTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbho_bhtb26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbho_bhtb27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -103,7 +103,7 @@ year={2015}
 
 ## Relations
 
-[acl](bho_bhtb-dep-acl.html) – [advcl](bho_bhtb-dep-advcl.html) – [advmod](bho_bhtb-dep-advmod.html) – [amod](bho_bhtb-dep-amod.html) – [aux](bho_bhtb-dep-aux.html) – [aux:pass](bho_bhtb-dep-aux-pass.html) – [case](bho_bhtb-dep-case.html) – [cc](bho_bhtb-dep-cc.html) – [ccomp](bho_bhtb-dep-ccomp.html) – [clf](bho_bhtb-dep-clf.html) – [compound](bho_bhtb-dep-compound.html) – [conj](bho_bhtb-dep-conj.html) – [cop](bho_bhtb-dep-cop.html) – [csubj](bho_bhtb-dep-csubj.html) – [dep](bho_bhtb-dep-dep.html) – [det](bho_bhtb-dep-det.html) – [discourse](bho_bhtb-dep-discourse.html) – [fixed](bho_bhtb-dep-fixed.html) – [flat](bho_bhtb-dep-flat.html) – [goeswith](bho_bhtb-dep-goeswith.html) – [iobj](bho_bhtb-dep-iobj.html) – [list](bho_bhtb-dep-list.html) – [mark](bho_bhtb-dep-mark.html) – [nmod](bho_bhtb-dep-nmod.html) – [nsubj](bho_bhtb-dep-nsubj.html) – [nummod](bho_bhtb-dep-nummod.html) – [obj](bho_bhtb-dep-obj.html) – [obl](bho_bhtb-dep-obl.html) – [punct](bho_bhtb-dep-punct.html) – [root](bho_bhtb-dep-root.html) – [xcomp](bho_bhtb-dep-xcomp.html)
+[acl](bho_bhtb-dep-acl.html) – [advcl](bho_bhtb-dep-advcl.html) – [advmod](bho_bhtb-dep-advmod.html) – [amod](bho_bhtb-dep-amod.html) – [appos](bho_bhtb-dep-appos.html) – [aux](bho_bhtb-dep-aux.html) – [aux:pass](bho_bhtb-dep-aux-pass.html) – [case](bho_bhtb-dep-case.html) – [cc](bho_bhtb-dep-cc.html) – [ccomp](bho_bhtb-dep-ccomp.html) – [clf](bho_bhtb-dep-clf.html) – [compound](bho_bhtb-dep-compound.html) – [conj](bho_bhtb-dep-conj.html) – [cop](bho_bhtb-dep-cop.html) – [csubj](bho_bhtb-dep-csubj.html) – [dep](bho_bhtb-dep-dep.html) – [det](bho_bhtb-dep-det.html) – [discourse](bho_bhtb-dep-discourse.html) – [fixed](bho_bhtb-dep-fixed.html) – [flat](bho_bhtb-dep-flat.html) – [goeswith](bho_bhtb-dep-goeswith.html) – [iobj](bho_bhtb-dep-iobj.html) – [list](bho_bhtb-dep-list.html) – [mark](bho_bhtb-dep-mark.html) – [nmod](bho_bhtb-dep-nmod.html) – [nsubj](bho_bhtb-dep-nsubj.html) – [nummod](bho_bhtb-dep-nummod.html) – [obj](bho_bhtb-dep-obj.html) – [obl](bho_bhtb-dep-obl.html) – [punct](bho_bhtb-dep-punct.html) – [root](bho_bhtb-dep-root.html) – [xcomp](bho_bhtb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -905,5 +905,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 1 relation subtypes: <a>aux:pass</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>appos</a>, <a>parataxis</a>, <a>orphan</a>, <a>reparandum</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>parataxis</a>, <a>orphan</a>, <a>reparandum</a></li>
 </ul>

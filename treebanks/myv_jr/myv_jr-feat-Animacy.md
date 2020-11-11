@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Hum` are language-specific.
 It occurs with 2 different values: `Anim`, `Hum`.
 
-531 tokens (3%) have a non-empty value of `Animacy`.
-158 types (3%) occur at least once with a non-empty value of `Animacy`.
-89 lemmas (4%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 3 part-of-speech tags: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (444; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (58; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (29; 0% instances).
+560 tokens (3%) have a non-empty value of `Animacy`.
+181 types (3%) occur at least once with a non-empty value of `Animacy`.
+107 lemmas (4%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 3 part-of-speech tags: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (444; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (86; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (30; 0% instances).
 
 ### `PROPN`
 
@@ -30,28 +30,28 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 ### `NOUN`
 
-58 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+86 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (55; 95%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (55; 95%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (35; 60%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (34; 59%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 52%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (81; 94%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (81; 94%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (50; 58%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (49; 57%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 52%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (8; 14% of non-empty `Animacy`): <em>карводо, карвот, маравдо, мекште, промодо, псака, укскадо, унжадо</em>
-* `Hum` (50; 86% of non-empty `Animacy`): <em>атясь, аванть, коммунист, коммунистан, коммунистэнь, кудазоравась, охотникень, Атятнень-сэрдятнень, Вирьавась, Вострин</em>
-* `EMPTY` (3726): <em>бандитэсь, партизантнэ, кедензэ, лангс, ялгат, прянзо, кудов, авазо, кенкшенть, бандитнэ</em>
+* `Anim` (8; 9% of non-empty `Animacy`): <em>карводо, карвот, маравдо, мекште, промодо, псака, укскадо, унжадо</em>
+* `Hum` (78; 91% of non-empty `Animacy`): <em>атясь, ломанесь, аванть, коммунист, коммунистан, коммунистэнь, кудазоравась, ломанде, ломантне, ломантненень</em>
+* `EMPTY` (4174): <em>лангс, ёнов, бандитэсь, лангсо, партизантнэ, кедензэ, ланга, ялгат, ёндо, прянзо</em>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (32) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (50) occur only with one value of `Animacy`.
 
 ### `PRON`
 
-29 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Animacy`.
+30 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (28; 97%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (19; 66%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 59%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (29; 97%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20; 67%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 60%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `Hum` (29; 100% of non-empty `Animacy`): <em>ки, кие, кинь, кить, киян, кият, кинень</em>
-* `EMPTY` (857): <em>сон, весе, те, мон, сонзэ, мезе, сонсь, минь, тензэ, минек</em>
+* `Hum` (30; 100% of non-empty `Animacy`): <em>ки, кие, кинь, кить, киян, кият, кинень</em>
+* `EMPTY` (914): <em>сон, весе, те, мон, сонзэ, сонсь, мезе, минь, тензэ, сынь</em>
 
 ## Relations with Agreement in `Animacy`
 

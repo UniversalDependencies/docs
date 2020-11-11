@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="mdf_jr-pos-ADP.html
 
 ### `ADP`
 
-2 <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> tokens (7% of all `ADP` tokens) have a non-empty value of `AdpType`.
+2 <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> tokens (6% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2; 100%).
 

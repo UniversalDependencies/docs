@@ -34,13 +34,13 @@ The following 23 pairs of parts of speech are connected with `appos`: <tt><a hre
 10	이가	이+가	PRON	npd+jcs	_	11	nsubj	_	_
 11	시린	시리+ㄴ	ADJ	paa+etm	_	12	amod	_	_
 12	관계	관계	NOUN	ncn	_	18	nsubj	_	_
-13	(	(	PUNCT	sl	_	15	punct	_	_
+13	(	(	PUNCT	sl	_	15	punct	_	SpaceAfter=No
 14	脣齒의	脣齒+의	PROPN	nq+jcm	_	15	nmod	_	_
-15	關係	關係	NOUN	ncn	_	12	appos	_	_
+15	關係	關係	NOUN	ncn	_	12	appos	_	SpaceAfter=No
 16	)	)	PUNCT	sr	_	15	punct	_	_
 17	가	가	ADP	jcs	_	12	case	_	_
 18	되어	되+어	VERB	pvg+ecx	_	0	root	_	_
-19	있다	있+다	AUX	px+ef	_	18	aux	_	_
+19	있다	있+다	AUX	px+ef	_	18	aux	_	SpaceAfter=No
 20	.	.	PUNCT	sf	_	19	punct	_	_
 
 ~~~
@@ -53,11 +53,11 @@ The following 23 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 3 appos	color:blue
 1	다산	다산	PROPN	nq	_	6	advcl	_	_
-2	(	(	PUNCT	sl	_	3	punct	_	_
-3	茶山	茶山	PROPN	nq	_	1	appos	_	_
+2	(	(	PUNCT	sl	_	3	punct	_	SpaceAfter=No
+3	茶山	茶山	PROPN	nq	_	1	appos	_	SpaceAfter=No
 4	)	)	PUNCT	sr	_	3	punct	_	_
 5	정약용도	정약용+도	ADV	nq+jxc	_	1	flat	_	_
-6	말했다	말하+었+다	VERB	pvg+ep+ef	_	0	root	_	_
+6	말했다	말하+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	sf	_	6	punct	_	_
 
 ~~~
@@ -70,17 +70,17 @@ The following 23 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 3 appos	color:blue
 1	정	정	NOUN	ncn	_	12	advcl	_	_
-2	(	(	PUNCT	sl	_	3	punct	_	_
-3	政	政	PROPN	nq	_	1	appos	_	_
+2	(	(	PUNCT	sl	_	3	punct	_	SpaceAfter=No
+3	政	政	PROPN	nq	_	1	appos	_	SpaceAfter=No
 4	)	)	PUNCT	sr	_	3	punct	_	_
 5	이란	이란	ADP	jxc	_	1	case	_	_
 6	정	정	NOUN	ncn	_	12	amod	_	_
-7	(	(	PUNCT	sl	_	8	punct	_	_
-8	正	正	PROPN	nq	_	6	appos	_	_
+7	(	(	PUNCT	sl	_	8	punct	_	SpaceAfter=No
+8	正	正	PROPN	nq	_	6	appos	_	SpaceAfter=No
 9	)	)	PUNCT	sr	_	8	punct	_	_
 10	과	과	ADP	jct	_	6	case	_	_
 11	같은	같+ㄴ	ADJ	paa+etm	_	6	conj	_	_
-12	뜻이다	뜻+이+다	VERB	ncn+jp+ef	_	0	root	_	_
+12	뜻이다	뜻+이+다	VERB	ncn+jp+ef	_	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	sf	_	12	punct	_	_
 
 ~~~

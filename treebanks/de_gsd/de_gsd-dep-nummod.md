@@ -29,7 +29,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	Nummer	Nummer	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nmod	_	_
 6	EINS	eins	NUM	CARD	NumType=Card	5	nummod	_	_
 7	in	in	ADP	APPR	_	8	case	_	_
-8	Dresden	Dresden	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+8	Dresden	Dresden	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No|NamedEntity=Yes
 9	.	.	PUNCT	$.	_	4	punct	_	_
 
 ~~~
@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3 2 nummod	color:blue
 1	Knapp	knapp	ADV	ADJD	_	2	advmod	_	_
 2	20	20	NUM	CARD	NumType=Card	3	nummod	_	_
-3	Euro	Euro	PROPN	NN	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	_
+3	Euro	Euro	PROPN	NN	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	NamedEntity=Yes
 4	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 5	je	je	ADV	ADV	_	8	advmod	_	_
 6	ein	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_

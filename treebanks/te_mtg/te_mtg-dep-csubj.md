@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24 nodes (0%) are attached to their parents as `csubj`.
+23 nodes (0%) are attached to their parents as `csubj`.
 
-24 instances of `csubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.5.
+23 instances of `csubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.26086956521739.
 
-The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (18; 75% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (2; 8% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (17; 74% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (2; 9% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

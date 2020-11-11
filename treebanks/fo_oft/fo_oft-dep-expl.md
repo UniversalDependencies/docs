@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 1 expl	color:blue
 1	Tað	tað	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
-2	eru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Pres	9	cop	_	_
+2	eru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Pres	9	cop	_	_
 3	átta	átta	NUM	Num	_	4	nummod	_	_
 4	býir	býur	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	9	nsubj	_	_
 5	og	og	CCONJ	CC	_	6	cc	_	_
@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 1 expl	color:blue
 1	Tað	tað	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
 3	gamalt	gamal	ADJ	A	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	4	amod	_	_
 4	handverk	handverk	NOUN	N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	6	nsubj	_	_
 5	í	í	ADP	Pr	_	6	case	_	_

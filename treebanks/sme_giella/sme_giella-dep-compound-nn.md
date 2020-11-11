@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `compound:nn`: <tt><
 # visual-style 5	fgColor:white
 # visual-style 5 4 compound:nn	color:blue
 1	Ávvir	ávvir	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
-2	ii	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	3	aux:neg	_	_
+2	ii	ii	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	3	aux:neg	_	_
 3	ožžon	oažžut	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	rektor	rektor	NOUN	N	Case=Nom|Number=Sing	5	compound:nn	_	_
 5	Mats	Mats	PROPN	N	_	3	obj	_	_
@@ -66,7 +66,7 @@ The following 3 pairs of parts of speech are connected with `compound:nn`: <tt><
 4	golggotmánu	golggotmánnu	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
 5	vuosttaš	vuosttaš	ADJ	A	_	8	compound:nn	_	_
 6	beaivvi	beaivi	NOUN	N	Case=Gen|Number=Sing	5	conj	_	SpaceAfter=No
-7	,	,	PUNCT	CLB	_	2	punct	_	_
+7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	Gáregasnjárggas	Gáregasnjárga	PROPN	N	Case=Loc|Number=Sing	2	obl	_	_
 9	nuppi	nubbi	ADJ	A	Case=Gen|Number=Sing	15	nmod:poss	_	_
 10	beaivvi	beaivi	NOUN	N	Case=Gen|Number=Sing	9	conj	_	_

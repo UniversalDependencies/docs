@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Jinho Choi, Na-Rae Han, Jena Hwang, Jayeol Chun.
 
 Repository: [UD_Korean-Kaist](https://github.com/UniversalDependencies/UD_Korean-Kaist)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_kaist26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_kaist27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -81,7 +81,7 @@ The project repository: https://github.com/emorynlp/ud-korean
 </ul>
 
 <ul>
-<li>All tokens in this corpus are followed by a space.</li>
+<li>This corpus contains 38923 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>

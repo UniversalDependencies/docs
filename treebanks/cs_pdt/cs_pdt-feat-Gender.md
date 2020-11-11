@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 752874 tokens (50%) have a non-empty value of `Gender`.
 122284 types (95%) occur at least once with a non-empty value of `Gender`.
-49988 lemmas (86%) occur at least once with a non-empty value of `Gender`.
+49983 lemmas (86%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 8 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (371963; 25% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (184566; 12% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (82084; 5% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (50326; 3% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (44469; 3% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (7931; 1% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (6776; 0% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (4759; 0% instances).
 
 ### `NOUN`
@@ -31,12 +31,13 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `EMPTY` (396): <em>image, s, pc, Greening, PB, rho, F, LEP, PX, Dancing</em>
 
 <table>
-  <tr><th>Paradigm <i>image</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt></tt></td><td><em>image</em></td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>image</em></td><td><em>image</em></td></tr>
+  <tr><th>Paradigm <i>m</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt>|<tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt></tt></td><td><em>m</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>M</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td></td><td><em>m</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (17569) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (17563) occur only with one value of `Gender`.
 
 ### `ADJ`
 
@@ -157,7 +158,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
   <tr><td><tt><tt><a href="cs_pdt-feat-NameType.html">NameType</a></tt><tt>=Sur</tt></tt></td><td></td><td><em>M</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (14593) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (14592) occur only with one value of `Gender`.
 
 ### `VERB`
 

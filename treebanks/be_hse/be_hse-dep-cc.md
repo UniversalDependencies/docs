@@ -8,12 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-595 nodes (4%) are attached to their parents as `cc`.
+8208 nodes (3%) are attached to their parents as `cc`.
 
-594 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.88235294117647.
+8179 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.11208576998051.
 
-The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (345; 58% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (111; 19% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (98; 16% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (21; 4% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 34 pairs of parts of speech are connected with `cc`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (3188; 39% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (3141; 38% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (638; 8% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (549; 7% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (244; 3% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (139; 2% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (70; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (46; 1% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (40; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (35; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (31; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 cc	color:blue
+1	Але	але	CCONJ	CC	_	4	cc	_	_
+2	працы	праца	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	ім	яны	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	iobj	_	_
+4	хапала	хапаць	VERB	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	заўжды	заўжды	ADV	RB	Degree=Pos	4	advmod	_	SpaceAfter=No
+6	!	!	PUNCT	PUNCT	_	4	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -22,13 +38,15 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cc	color:blue
-1	Сiстэма	сiстэма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-2	органаў	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
-3	і	і	CCONJ	_	_	4	cc	_	_
-4	падраздзяленняў	падраздзяленне	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	conj	_	_
-5	па	па	ADP	_	_	7	case	_	_
-6	надзвычайных	надзвычайны	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	amod	_	_
-7	сiтуацыях	сiтуацыя	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	2	nmod	_	_
+1	-	-	PUNCT	PUNCT	_	2	punct	_	_
+2	Фальклор	фальклор	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	і	і	CCONJ	CC	_	4	cc	_	_
+4	жыццё	жыццё	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	conj	_	_
+5	(	(	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
+6	рэж.	рэж.	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	_
+7	Юрый	Юрый	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+8	Цімафееў	Цімафееў	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	SpaceAfter=No
+9	)	)	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 
@@ -36,34 +54,15 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 cc	color:blue
-1	І	і	CCONJ	CC	_	3	cc	_	_
-2	гэта	гэта	PRON	DT	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	_
-3	разумеюць	разумець	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	ўсё	усё	PRON	DT	Case=Nom|Number=Plur|PronType=Tot	3	nsubj	_	SpaceAfter=No
-5	.	.	PUNCT	PUNCT	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 cc	color:blue
-1	Купюра	купюра	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-2	выканана	выканаць	VERB	VBNH	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
-3	ў	ў	ADP	IN	_	9	case	_	_
-4	зялёна-шэрых	зялёна-шэры	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	9	amod	_	SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	6	punct	_	_
-6	карычневых	карычневы	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	4	conj	_	_
-7	і	і	CCONJ	CC	_	8	cc	_	_
-8	аранжавых	аранжавы	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	4	conj	_	_
-9	танах	тон	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 cc	color:blue
+1	А	а	CCONJ	CC	_	5	cc	_	_
+2	такія	такі	DET	DT	Case=Nom|Number=Plur|PronType=Dem	5	nsubj	_	_
+3	жанчынам	жанчына	NOUN	NN	Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur	5	iobj	_	_
+4	не	не	PART	UH	Polarity=Neg	5	advmod	_	_
+5	патрэбныя	патрэбны	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 

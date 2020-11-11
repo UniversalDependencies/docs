@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `xcomp`: <tt><a href="myv_jr-dep-xcomp-ds.html">xcomp:ds</a></tt>.
 
-235 nodes (1%) are attached to their parents as `xcomp`.
+248 nodes (1%) are attached to their parents as `xcomp`.
 
-200 instances of `xcomp` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.00425531914894.
+209 instances of `xcomp` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.01209677419355.
 
-The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (192; 82% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (20; 9% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (197; 79% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (28; 11% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (7; 3% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,23 +34,20 @@ The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 xcomp	color:blue
-1	Якстере	якстере	ADJ	A	_	8	amod	_	GTtags=|Gloss=red|SpaceAfter=No
-2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	ожо	ожо	ADJ	A	_	8	amod	_	GTtags=|Gloss=yellow|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	сэнь	сэнь	ADJ	A	_	8	amod	_	GTtags=|Gloss=blue|SpaceAfter=No
-6	,	,	PUNCT	CLB	_	7	punct	_	_
-7	ашо	ашо	ADJ	A	_	8	amod	_	GTtags=|Gloss=white
-8	цецятне	цеця	NOUN	N	Case=Nom|Definite=Def|Number=Plur	10	nsubj	_	GTtags=Sem/Inanim_Cnt,Pl,Nom,Def|Gloss=flower
-9	кумбокс	кумбо	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	10	xcomp	_	GTtags=Sem/Inanim_Cnt,SP,Tra,Indef|Gloss=rug
-10	мазылгавтызь	мазылгавтомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3|Gloss=beautify
-11	моданть	мода	NOUN	N	Case=Gen|Definite=Def|Number=Sing	10	obj	_	GTtags=Sem/Inanim_Cnt,Sg,Gen,Def|Gloss=ground|SpaceAfter=No
-12	.	.	PUNCT	CLB	_	10	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 xcomp	color:blue
+1	Се	се	DET	Det	Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg
+2	туремастонть	туремс	VERB	V	Case=Ela|Definite=Def|Number=Sing|Valency=1|VerbForm=Vnoun	4	obl	_	GTtags=IV,NomAct,N,Sg,Ela,Def
+3	Громов	Громов	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	4	nsubj	_	GTtags=Prop,Sur_Mal,Sg,Nom,Indef
+4	кадовсь	кадовомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
+5	апокш	апокш	ADJ	A	_	6	amod	_	_
+6	губор	губор	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	nmod:part	_	GTtags=Sg,Nom,Indef
+7	пряс	пря	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	4	obl:lmod	_	GTtags=Sem/Plc,SP,Ill,Indef
+8	оймевтеме	ойме	NOUN	N	Case=Abe|Definite=Ind|Number=Plur,Sing	4	xcomp	_	GTtags=SP,Abe,Indef|SpaceAfter=No
+9	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

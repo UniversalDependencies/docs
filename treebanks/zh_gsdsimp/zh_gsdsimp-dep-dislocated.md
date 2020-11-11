@@ -101,7 +101,7 @@ The following 15 pairs of parts of speech are connected with `dislocated`: <tt><
 20	几乎	几乎	ADV	RB	_	22	advmod	_	SpaceAfter=No
 21	都	都	ADV	RB	_	22	mark	_	SpaceAfter=No
 22	看	看	VERB	VV	_	16	dislocated	_	SpaceAfter=No
-23	过	过	PART	AS	Aspect=Perf	22	case:aspect	_	SpaceAfter=No
+23	过	过	PART	AS	Aspect=Perf	22	aux:aspect	_	SpaceAfter=No
 24	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 ~~~

@@ -8,46 +8,34 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pt_gsd-dep-flat.html">flat</a></tt>.
 
-3 nodes (0%) are attached to their parents as `flat:name`.
+16 nodes (0%) are attached to their parents as `flat:name`.
 
-3 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.66666666666667.
+16 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
 
-The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (2; 67% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (15; 94% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 17 flat:name	color:blue
-1	As	_	DET	DET	_	2	det	_	_
-2	empresas	empresa	NOUN	NOUN	_	4	nsubj	_	_
-3	já	já	ADV	ADV	_	4	advmod	_	_
-4	afirmaram	afirmar	VERB	VERB	_	0	root	_	_
-5	que	_	CCONJ	CONJ	_	11	mark	_	_
-6	é	ser	VERB	VERB	_	11	cop	_	_
-7	a	_	DET	DET	_	11	det	_	_
-8	sul	sul	ADJ	ADJ	_	11	amod	_	_
-9	-	_	PUNCT	.	_	10	punct	_	_
-10	coreana	coreano	ADJ	ADJ	_	8	conj	_	_
-11	Posco	_	PROPN	PNOUN	_	4	ccomp	_	_
-12	e	e	CCONJ	CONJ	_	15	cc	_	_
-13	a	o	DET	DET	_	15	det	_	_
-14	brasileira	brasileiro	ADJ	ADJ	_	15	amod	_	_
-15	Companhia	_	PROPN	PNOUN	_	11	conj	_	_
-16	Siderúrgica	_	PROPN	PNOUN	_	15	flat:name	_	_
-17	Nacional	_	PROPN	PNOUN	_	15	flat:name	_	_
-18	que	_	PRON	PRON	_	20	nsubj	_	_
-19	irão	ir	AUX	AUX	_	20	aux	_	_
-20	analisar	analisar	VERB	VERB	_	11	acl:relcl	_	_
-21	a	_	DET	DET	_	22	det	_	_
-22	fatia	fatia	NOUN	NOUN	_	20	obj	_	_
-23	em	em	ADP	ADP	_	25	case	_	_
-24	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
-25	CSA	_	PROPN	PNOUN	_	22	nmod	_	SpaceAfter=No
-26	.	_	PUNCT	.	_	4	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 13 flat:name	color:blue
+1	Entre	_	ADP	ADP	_	3	case	_	_
+2	as	_	DET	DET	_	3	det	_	_
+3	atrações	atração	NOUN	NOUN	_	9	obj	_	_
+4	musicais	musical	ADJ	ADJ	_	3	amod	_	_
+5	de	de	ADP	ADP	_	7	case	_	_
+6	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	evento	evento	NOUN	NOUN	_	3	nmod	_	SpaceAfter=No
+8	,	_	PUNCT	.	_	3	punct	_	_
+9	está	estar	VERB	VERB	_	0	root	_	_
+10	a	_	DET	DET	_	11	det	_	_
+11	banda	banda	NOUN	NOUN	_	9	nsubj	_	_
+12	Brasas	_	PROPN	PNOUN	_	11	appos	_	_
+13	Seis	_	PROPN	PNOUN	_	12	flat:name	_	SpaceAfter=No
+14	.	_	PUNCT	.	_	9	punct	_	_
 
 ~~~
 

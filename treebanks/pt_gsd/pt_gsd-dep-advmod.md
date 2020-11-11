@@ -10,10 +10,10 @@ This relation is universal.
 
 8890 nodes (3%) are attached to their parents as `advmod`.
 
-6879 instances of `advmod` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.4392575928009.
+6878 instances of `advmod` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.44094488188976.
 
-The following 32 pairs of parts of speech are connected with `advmod`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (5773; 65% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (956; 11% instances), <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (928; 10% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (606; 7% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (294; 3% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (129; 1% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (81; 1% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (41; 0% instances), <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="pt_gsd-pos-PART.html">PART</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="pt_gsd-pos-X.html">X</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 32 pairs of parts of speech are connected with `advmod`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (5777; 65% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (953; 11% instances), <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (929; 10% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (605; 7% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (294; 3% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (130; 1% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (81; 1% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (40; 0% instances), <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="pt_gsd-pos-PART.html">PART</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="pt_gsd-pos-X.html">X</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,23 +39,21 @@ The following 32 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 3 advmod	color:blue
-1	"	_	PUNCT	.	_	7	punct	_	SpaceAfter=No
-2	Eles	_	PRON	PRON	_	7	nsubj:pass	_	_
-3	não	não	ADV	ADV	Polarity=Neg	7	advmod	_	_
-4	podem	_	AUX	AUX	_	7	aux	_	_
-5	ser	ser	AUX	AUX	_	7	aux:pass	_	_
-6	considerados	considerar	AUX	AUX	_	7	cop	_	_
-7	marginais	marginal	NOUN	NOUN	_	10	ccomp	_	SpaceAfter=No
-8	"	_	PUNCT	.	_	7	punct	_	SpaceAfter=No
-9	,	_	PUNCT	.	_	10	punct	_	_
-10	disse	dizer	VERB	VERB	_	0	root	_	_
-11	ele	_	PRON	PRON	_	10	nsubj	_	SpaceAfter=No
-12	.	_	PUNCT	.	_	10	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 advmod	color:blue
+1	Já	já	ADV	ADV	_	6	advmod	_	_
+2	um	_	DET	DET	_	3	det	_	_
+3	aborto	aborto	NOUN	NOUN	_	6	nsubj	_	_
+4	legal	legal	ADJ	ADJ	_	3	amod	_	_
+5	era	_	AUX	AUX	_	6	cop	_	_
+6	r	r	NOUN	NOUN	_	0	root	_	_
+7	$	_	SYM	SYM	_	6	flat	_	_
+8	2400	_	NUM	NUM	NumType=Card	6	nummod	_	SpaceAfter=No
+9	)	_	PUNCT	.	_	6	punct	_	SpaceAfter=No
+10	.	_	PUNCT	.	_	6	punct	_	_
 
 ~~~
 

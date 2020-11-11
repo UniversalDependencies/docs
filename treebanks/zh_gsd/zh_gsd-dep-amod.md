@@ -83,7 +83,7 @@ The following 27 pairs of parts of speech are connected with `amod`: <tt><a href
 3	後	後	ADP	IN	_	2	acl	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 5	隨	隨	VERB	VV	_	24	advcl	_	SpaceAfter=No
-6	著	著	PART	AS	Aspect=Prog	5	case:aspect	_	SpaceAfter=No
+6	著	著	PART	AS	Aspect=Prog	5	aux:aspect	_	SpaceAfter=No
 7	殖民	殖民	VERB	VV	_	8	compound	_	SpaceAfter=No
 8	地	地	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 9	獨立	獨立	ADJ	JJ	_	5	ccomp	_	SpaceAfter=No

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2333 nodes (1%) are attached to their parents as `cop`.
+2332 nodes (1%) are attached to their parents as `cop`.
 
-2296 instances of `cop` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.82554650664381.
+2293 instances of `cop` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.83190394511149.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (953; 41% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (918; 39% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (161; 7% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (120; 5% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (72; 3% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (54; 2% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (41; 2% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (5; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (956; 41% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (925; 40% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (193; 8% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (118; 5% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (72; 3% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (54; 2% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (5; 0% instances).
 
 
 ~~~ conllu
@@ -73,7 +73,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 9	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	sputata	sputare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
 11	fuori	fuori	ADV	B	_	10	advmod	_	_
-12	tanta	tanto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	10	obj	_	SpaceAfter=No
+12	tanta	tanto	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	10	obj	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~

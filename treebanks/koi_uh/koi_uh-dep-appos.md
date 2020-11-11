@@ -8,12 +8,42 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (1%) are attached to their parents as `appos`.
+7 nodes (1%) are attached to their parents as `appos`.
 
-4 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.25.
+7 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.14285714285714.
 
-The following 3 pairs of parts of speech are connected with `appos`: <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
+The following 5 pairs of parts of speech are connected with `appos`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (2; 29% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (2; 29% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-DET.html">DET</a></tt> (1; 14% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 14% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 appos	color:blue
+1	Но	но	CCONJ	CC	_	10	cc	_	_
+2	керкуыс	керку	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl:lmod	_	GTtags=Sg,Nom,PxSg3
+3	бокын	бокын	ADP	Adp	AdvType=Loc|Case=Ine	2	case	_	GTtags=Spat,Ine|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	6	punct	_	_
+5	туй	туй	NOUN	N	Case=Nom|Number=Sing	6	nmod	_	GTtags=Sg,Nom
+6	ладорсяняс	ладор	NOUN	N	Case=Egr|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	appos	_	GTtags=Sg,Egr,PxSg3,So/CP|SpaceAfter=No
+7	,	,	PUNCT	CLB	_	6	punct	_	_
+8	мыйкӧ	мыйкӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	10	nsubj	_	GTtags=Indef,Sg,Nom
+9	сё	сё	ADV	Adv	AdvType=Deg	10	advmod	_	GTtags=Deg
+10	вӧрис	вӧрны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+11	,	,	PUNCT	CLB	_	14	punct	_	_
+12	и	и	CCONJ	CC	_	14	cc	_	_
+13	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	GTtags=Pers,Sg1,Nom
+14	вежӧрті	вежӧртны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	10	conj	_	GTtags=Ind,Prt1,Sg1|SpaceAfter=No
+15	,	,	PUNCT	CLB	_	17	punct	_	_
+16	что	что	SCONJ	CS	_	17	mark	_	_
+17	сэтӧн	сэтӧн	ADV	Adv	_	14	ccomp	_	_
+18	кинкӧ	кинкӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	17	nsubj:cop	_	GTtags=Indef,Sg,Nom
+19	ловья	ловья	ADJ	A	_	18	amod	_	SpaceAfter=No
+20	...	...	PUNCT	CLB	_	10	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -53,51 +83,6 @@ The following 3 pairs of parts of speech are connected with `appos`: <tt><a href
 12	коричневӧй	коричневӧй	ADJ	_	Case=Nom|Number=Sing	13	amod	_	GTtags=Sg,Nom
 13	кымӧp	кымӧp	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	SpaceAfter=No
 14	.	.	PUNCT	CLB	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 appos	color:blue
-1	Мӧйму	мӧйму	ADV	Adv	_	9	advmod:tmod	_	GTtags=N,Sg,Nom|SpaceAfter=No
-2	,	,	PUNCT	CLB	_	5	punct	_	GTtags=CLB
-3	эта	эта	DET	Det	_	5	det	_	GTtags=Det
-4	жӧ	жӧ	PART	Pcle	_	3	advmod	_	GTtags=Pcle
-5	кадӧ	кад	NOUN	N	Animacy=Inan|Case=Ill|Number=Sing	1	appos	_	GTtags=N,Sem/Inanim,Sg,Ill|SpaceAfter=No
-6	,	,	PUNCT	CLB	_	5	punct	_	GTtags=CLB
-7	неделяся	неделяся	NOUN	A	_	8	nmod	_	GTtags=A
-8	дыржык	дыр	ADV	Adv	Degree=Cmp|Derivation=Zhyk	9	advmod:tmod	_	GTtags=Adv,Der/жык,Comp
-9	ветлӧті	ветлӧтны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|Valency=1	0	root	_	GTtags=V,IV,Ind,Prt1,Sg1
-10	эна	эна	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	11	det	_	GTtags=Pcle
-11	местаэзӧт	места	NOUN	N	Case=Prl|Number=Plur	9	obl:lmod	_	GTtags=N,Pl,Prl|SpaceAfter=No
-12	,	,	PUNCT	CLB	_	13	punct	_	GTtags=CLB
-13	узьлі	узьлыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|Valency=1	9	conj	_	GTtags=V,IV,Ind,Prt1,Sg1|SpaceAfter=No
-14	,	,	PUNCT	CLB	_	15	punct	_	GTtags=CLB
-15	кытӧн	кытӧн	PRON	Pron	Case=Ine|PronType=Int	13	obl:lmod	_	GTtags=Pron,Spat,Ine,Interr
-16	шедас	шедны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Valency=1	15	fixed	_	GTtags=V,IV,Ind,Fut,Sg3|SpaceAfter=No
-17	:	:	PUNCT	CLB	_	15	punct	_	GTtags=CLB
-18	кӧз	кӧз	NOUN	N	Case=Nom|Number=Sing	19	nmod	_	GTtags=N,Sg,Nom
-19	увтын	увт	NOUN	N	Case=Ine|Number=Sing	15	conj	_	GTtags=Sg,Ine|SpaceAfter=No
-20	,	,	PUNCT	CLB	_	22	punct	_	GTtags=CLB
-21	ю	ю	NOUN	N	Case=Ine|Number=Sing	22	nmod	_	GTtags=N,Sg,Ine
-22	дорын	дор	NOUN	_	_	15	conj	_	SpaceAfter=No
-23	,	,	PUNCT	CLB	_	25	punct	_	GTtags=CLB
-24	киссьӧм	киссьӧм	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	25	advcl	_	GTtags=N,Sem/Inanim,Sg,Nom
-25	сарайын	сарай	NOUN	N	Case=Ine|Number=Sing	15	conj	_	GTtags=N,Sg,Ine|SpaceAfter=No
-26	,	,	PUNCT	CLB	_	29	punct	_	GTtags=CLB
-27	быд	быд	PRON	Pron	PronType=Tot	28	det	_	GTtags=Pron,Qnt
-28	лун	лун	NOUN	N	Case=Nom|Number=Sing	29	obl:tmod	_	GTtags=N,Sg,Nom
-29	кошши	кошшыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|Valency=2	9	conj	_	GTtags=V,TV,Ind,Prt1,Sg1
-30	тшаккез	тшак	NOUN	N	Case=Nom|Number=Plur	29	obj	_	GTtags=N,Pl,Nom
-31	да	да	CCONJ	CC	_	32	cc	_	GTtags=CC
-32	ягӧд	ягӧд	NOUN	N	Animacy=Inan|Case=Nom|Number=Sing	30	conj	_	GTtags=N,Sem/Inanim,Sg,Nom|SpaceAfter=No
-33	,	,	PUNCT	CLB	_	34	punct	_	GTtags=CLB
-34	чериалі	чериавны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	9	conj	_	GTtags=V,Ind,Prt1,Sg1|SpaceAfter=No
-35	.	.	PUNCT	CLB	_	9	punct	_	GTtags=CLB
 
 ~~~
 

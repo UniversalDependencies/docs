@@ -45,8 +45,8 @@ The following 2 pairs of parts of speech are connected with `xcomp:ds`: <tt><a h
 1	Окойники	окойники	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
 3	велявтсть	велявтомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3
-4	лей	лей	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	obl	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Indef
-5	лангсто	ланго	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	4	case	_	GTtags=Relat,SP,Ela,Indef
+4	лей	лей	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	nmod:part	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Indef
+5	лангсто	ланго	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	3	obl:lmod	_	GTtags=Relator,Relat,SP,Ela,Indef
 6	шлямо	шлямо	NOUN	N	Case=Loc|Valency=1|VerbForm=Inf	7	xcomp:ds	_	GTtags=IV,Inf,Loc
 7	панезтне	панемс	VERB	V	Case=Nom|Definite=Def|Derivation=Ozj|Number=Plur|VerbForm=Conv	3	nsubj	_	GTtags=Der/Озь,Ger,Pl,Nom,Def|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	3	punct	_	_

@@ -13,13 +13,13 @@ The 10 most frequent `X` lemmas: <em>capitol, taler, Galateeni, lamma, raha, sva
 
 The 10 most frequent `X` types:  <em>cap., cap, tl, Galat., lamma, raha, svahtani</em>
 
-The 10 most frequent ambiguous lemmas: <em>capitol</em> (<tt><a href="ro_nonstandard-pos-X.html">X</a></tt> 8, <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 2), <em>taler</em> (<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ro_nonstandard-pos-X.html">X</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>capitol</em> (<tt><a href="ro_nonstandard-pos-X.html">X</a></tt> 8, <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> 1), <em>taler</em> (<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ro_nonstandard-pos-X.html">X</a></tt> 3)
 
-The 10 most frequent ambiguous types:  <em>cap</em> (<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 135, <tt><a href="ro_nonstandard-pos-X.html">X</a></tt> 3), <em>tl</em> (<tt><a href="ro_nonstandard-pos-X.html">X</a></tt> 3, <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>cap</em> (<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 190, <tt><a href="ro_nonstandard-pos-X.html">X</a></tt> 3), <em>tl</em> (<tt><a href="ro_nonstandard-pos-X.html">X</a></tt> 3, <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>cap</em>
-  * <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 135: <em>Aceastea s cuprinse în al l6 -lea <b>cap</b> .</em>
+  * <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 190: <em>Aceastea s cuprinse în al l6 -lea <b>cap</b> .</em>
   * <tt><a href="ro_nonstandard-pos-X.html">X</a></tt> 3: <em>Iară după moartea lui Dionisie , au venit în Efes , cum scrie Evsevie în Historiia besearecii în a treia carte , în <b>cap</b> 18 .</em>
 * <em>tl</em>
   * <tt><a href="ro_nonstandard-pos-X.html">X</a></tt> 3: <em>Cine prin știinţă va ţinea întru a sa stăpînire , ţigan strein , sau ţigancă , să -i dea înapoi stăpînului lor , ( plătindu -i pentru ţiganul meșter tl 40 prе anu , iar pentru cel fără meșteșug <b>tl</b> doaozeci , și pentru ţigancă meșteră <b>tl</b> treizeci , și pentru cea fără meșteșug <b>tl</b> cincisprezece ) iară cine va ţinea prin neștiinţă , numai să -l întoarcă înapoi .</em>
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>cap</em> (<tt><a href="ro_nonstandard
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.166667 (the average of all parts of speech is 2.480531).
+The form / lemma ratio of `X` is 1.166667 (the average of all parts of speech is 2.492163).
 
 The 1st highest number of forms (2) was observed with the lemma “capitol”: <em>cap, cap.</em>.
 

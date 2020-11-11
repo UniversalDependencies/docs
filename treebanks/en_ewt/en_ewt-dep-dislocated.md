@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 7	front	front	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	register	register	NOUN	NN	Number=Sing	5	obj	5:obj	SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	13:punct	_
-10	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	SpaceAfter=No
+10	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
 11	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
 12	very	very	ADV	RB	_	13	advmod	13:advmod	_
 13	kind	kind	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
@@ -67,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 19	Pakistani	pakistani	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
 20	general	general	NOUN	NN	Number=Sing	32	dislocated	32:dislocated	SpaceAfter=No
 21	,	,	PUNCT	,	_	20	punct	20:punct	_
-22	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj:pass	26:nsubj:pass	SpaceAfter=No
+22	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj:pass	26:nsubj:pass	_
 23	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux:pass	26:aux:pass	_
 24	just	just	ADV	RB	_	26	advmod	26:advmod	_
 25	been	be	AUX	VBN	Tense=Past|VerbForm=Part	26	aux:pass	26:aux:pass	_

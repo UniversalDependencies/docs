@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_North_Sami-Giella: POS Tags: `NUM`
 
 There are 111 `NUM` lemmas (2%), 142 `NUM` types (2%) and 348 `NUM` tokens (1%).
-Out of 14 observed tags, the rank of `NUM` is: 6 in number of lemmas, 7 in number of types and 12 in number of tokens.
+Out of 14 observed tags, the rank of `NUM` is: 6 in number of lemmas, 8 in number of types and 12 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>guokte, okta, golbma, máŋga, vihtta, moadde, njeallje, galle, guhtta, 12</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>oktan</em> (<tt><a href="sme_giella-p
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.279279 (the average of all parts of speech is 1.745041).
+The form / lemma ratio of `NUM` is 1.279279 (the average of all parts of speech is 1.749612).
 
 The 1st highest number of forms (7) was observed with the lemma “guokte”: <em>guokte, guoktin, guovtte, guovtti, guovttit, guvttiid, guvttiin</em>.
 
@@ -47,9 +47,9 @@ Examples: <em>okta, guokte, golbma, máŋga, njeallje, vihtta, moadde, 1971, 200
 
 Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (271; 78% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (55; 16% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (4; 1% instances),  (4; 1% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-266 (76%) `NUM` nodes are leaves.
+262 (75%) `NUM` nodes are leaves.
 
-74 (21%) `NUM` nodes have one child.
+78 (22%) `NUM` nodes have one child.
 
 3 (1%) `NUM` nodes have two children.
 
@@ -57,7 +57,7 @@ Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="sme_g
 
 The highest child degree of a `NUM` node is 4.
 
-Children of `NUM` nodes are attached using 13 different relations: <tt><a href="sme_giella-dep-advmod.html">advmod</a></tt> (38; 39% instances), <tt><a href="sme_giella-dep-case.html">case</a></tt> (13; 13% instances), <tt><a href="sme_giella-dep-det.html">det</a></tt> (11; 11% instances), <tt><a href="sme_giella-dep-amod.html">amod</a></tt> (10; 10% instances), <tt><a href="sme_giella-dep-cop.html">cop</a></tt> (4; 4% instances), <tt><a href="sme_giella-dep-nmod-poss.html">nmod:poss</a></tt> (4; 4% instances), <tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt> (4; 4% instances), <tt><a href="sme_giella-dep-punct.html">punct</a></tt> (4; 4% instances), <tt><a href="sme_giella-dep-cc.html">cc</a></tt> (3; 3% instances), <tt><a href="sme_giella-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="sme_giella-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="sme_giella-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="sme_giella-dep-obl.html">obl</a></tt> (1; 1% instances)
+Children of `NUM` nodes are attached using 13 different relations: <tt><a href="sme_giella-dep-advmod.html">advmod</a></tt> (38; 38% instances), <tt><a href="sme_giella-dep-case.html">case</a></tt> (13; 13% instances), <tt><a href="sme_giella-dep-det.html">det</a></tt> (11; 11% instances), <tt><a href="sme_giella-dep-amod.html">amod</a></tt> (10; 10% instances), <tt><a href="sme_giella-dep-punct.html">punct</a></tt> (8; 8% instances), <tt><a href="sme_giella-dep-cop.html">cop</a></tt> (4; 4% instances), <tt><a href="sme_giella-dep-nmod-poss.html">nmod:poss</a></tt> (4; 4% instances), <tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt> (4; 4% instances), <tt><a href="sme_giella-dep-cc.html">cc</a></tt> (3; 3% instances), <tt><a href="sme_giella-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="sme_giella-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="sme_giella-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="sme_giella-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Children of `NUM` nodes belong to 10 different parts of speech: <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (38; 39% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (15; 15% instances), <tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (13; 13% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (12; 12% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (4; 4% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (4; 4% instances), <tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (4; 4% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="sme_giella-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Children of `NUM` nodes belong to 10 different parts of speech: <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (38; 38% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (15; 15% instances), <tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (13; 13% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (12; 12% instances), <tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (8; 8% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (4; 4% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (4; 4% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="sme_giella-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 

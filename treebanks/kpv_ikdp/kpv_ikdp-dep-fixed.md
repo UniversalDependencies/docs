@@ -28,8 +28,8 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 4	посни	посни	ADJ	A	Case=Nom|Number=Sing	5	amod	_	GTtags=A,Sg,Nom
 5	кӧрыс	кӧр	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	GTtags=N,Sg,Nom,PxSg3
 6	пиялэ	пиявны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=V,IV,Ind,Prs,Sg3
-7	как	как	SCONJ	CS	_	6	advmod	_	GTtags=CS
-8	раз	раз	NOUN	N	Case=Nom|Number=Sing	7	fixed	_	GTtags=N,Sg,Nom|SpaceAfter=No
+7	как	как	SCONJ	CS	_	6	advmod	_	GTtags=CS|Lang=Mixed
+8	раз	раз	NOUN	N	Case=Nom|Number=Sing	7	fixed	_	GTtags=N,Sg,Nom|Lang=Mixed|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	6	punct	_	GTtags=CLB
 
 ~~~

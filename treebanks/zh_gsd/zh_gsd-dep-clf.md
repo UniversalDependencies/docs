@@ -114,14 +114,14 @@ The following 4 pairs of parts of speech are connected with `clf`: <tt><a href="
 45	畢業	畢業	VERB	VV	_	46	compound	_	SpaceAfter=No
 46	生	生	PART	SFN	_	47	nsubj	_	SpaceAfter=No
 47	佔	佔	VERB	VV	_	40	parataxis	_	SpaceAfter=No
-48	了	了	PART	AS	Aspect=Perf	47	case:aspect	_	SpaceAfter=No
+48	了	了	PART	AS	Aspect=Perf	47	aux:aspect	_	SpaceAfter=No
 49	將近	將近	ADV	RB	_	50	advmod	_	SpaceAfter=No
 50	四分之一	四分之一	NUM	CD	NumType=Card	47	obj	_	SpaceAfter=No
 51	，	，	PUNCT	,	_	40	punct	_	SpaceAfter=No
 52	這些	這些	DET	DT	_	53	det	_	SpaceAfter=No
 53	人	人	NOUN	NN	_	54	nsubj	_	SpaceAfter=No
 54	創建	創建	VERB	VV	_	40	parataxis	_	SpaceAfter=No
-55	了	了	PART	AS	Aspect=Perf	54	case:aspect	_	SpaceAfter=No
+55	了	了	PART	AS	Aspect=Perf	54	aux:aspect	_	SpaceAfter=No
 56	美國	美國	PROPN	NNP	_	54	obj	_	SpaceAfter=No
 57	）	）	PUNCT	)	_	40	punct	_	SpaceAfter=No
 58	和	和	CCONJ	CC	_	63	cc	_	SpaceAfter=No

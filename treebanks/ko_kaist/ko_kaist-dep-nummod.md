@@ -36,7 +36,7 @@ The following 14 pairs of parts of speech are connected with `nummod`: <tt><a hr
 12	이어	잇+어	SCONJ	pvg+ecs	_	14	ccomp	_	_
 13	다시	다시	ADV	mag	_	14	advmod	_	_
 14	일어난	일어나+ㄴ	VERB	pvg+etm	_	0	root	_	_
-15	것이다	것+이+다	VERB	nbn+jp+ef	_	14	aux	_	_
+15	것이다	것+이+다	VERB	nbn+jp+ef	_	14	aux	_	SpaceAfter=No
 16	.	.	PUNCT	sf	_	15	punct	_	_
 
 ~~~
@@ -58,7 +58,7 @@ The following 14 pairs of parts of speech are connected with `nummod`: <tt><a hr
 8	문을	문+을	NOUN	ncn+jco	_	11	obj	_	_
 9	여덟	여덟	NUM	nnc	_	10	nummod	_	_
 10	개나	개+나	ADV	nbu+jxc	_	11	advcl	_	_
-11	세웠지요	세우+었+지요	VERB	pvg+ep+ef	_	3	conj	_	_
+11	세웠지요	세우+었+지요	VERB	pvg+ep+ef	_	3	conj	_	SpaceAfter=No
 12	.	.	PUNCT	sf	_	11	punct	_	_
 
 ~~~
@@ -75,7 +75,7 @@ The following 14 pairs of parts of speech are connected with `nummod`: <tt><a hr
 3	그런	그런	DET	mmd	_	4	det	_	_
 4	고아의	고아+의	NOUN	ncn+jcm	_	6	nmod	_	_
 5	한	한	NUM	nnc	_	6	nummod	_	_
-6	예이다	예+이+다	VERB	ncn+jp+ef	_	0	root	_	_
+6	예이다	예+이+다	VERB	ncn+jp+ef	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	sf	_	6	punct	_	_
 
 ~~~

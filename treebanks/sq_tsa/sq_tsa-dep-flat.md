@@ -34,9 +34,9 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 10	Djuin	Dju	PROPN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
 11	për	për	ADP	_	_	14	advmod	14:advmod	_
 12	sa	sa	ADV	_	_	11	fixed	11:fixed	_
-13	i	i	PRON	_	Gender=Masc	14	expl	14:expl	_
+13	i	i	PRON	_	Case=Dat|Gender=Masc	14	expl	14:expl	_
 14	përket	përkas	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	advcl	4:advcl	_
-15	procesit	proces	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	obj	14:obj	_
+15	procesit	proces	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	14	obj	14:obj	_
 16	të	i	DET	_	Gender=Masc	17	det	17:det	_
 17	edukimit	edukim	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	nmod:poss	15:nmod:poss	SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	4:punct	_

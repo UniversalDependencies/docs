@@ -43,7 +43,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	var	være	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	_	_
 4	også	også	ADV	_	_	6	advmod	_	_
 5	til	til	ADP	_	_	6	case	_	_
-6	stede	stede	NOUN	_	_	0	root	_	_
+6	stede	stede	NOUN	_	_	0	root	_	SpaceAfter=No
 7	.	$.	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -64,10 +64,10 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 7	løpet	løp	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	5	obl	_	_
 8	av	av	ADP	_	_	10	case	_	_
 9	én	én	NUM	_	Gender=Masc|Number=Sing|NumType=Card	10	nummod	_	_
-10	Færderseilas	Færderseilas	PROPN	_	_	7	nmod	_	_
+10	Færderseilas	Færderseilas	PROPN	_	_	7	nmod	_	SpaceAfter=No
 11	,	$,	PUNCT	_	_	12	punct	_	_
 12	sier	si	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
-13	Nilsson	Nilsson	PROPN	_	_	12	nsubj	_	_
+13	Nilsson	Nilsson	PROPN	_	_	12	nsubj	_	SpaceAfter=No
 14	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="tr_gb-dep-aux.html">aux</a></tt>.
 
-192 nodes (1%) are attached to their parents as `aux:q`.
+198 nodes (1%) are attached to their parents as `aux:q`.
 
-192 instances of `aux:q` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.0625.
+198 instances of `aux:q` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06565656565657.
 
-The following 7 pairs of parts of speech are connected with `aux:q`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (108; 56% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (32; 17% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (27; 14% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (16; 8% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `aux:q`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (111; 56% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (32; 16% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (29; 15% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (17; 9% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

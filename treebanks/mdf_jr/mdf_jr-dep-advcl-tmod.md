@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-advcl.html">advcl</a></tt>.
 
-6 nodes (0%) are attached to their parents as `advcl:tmod`.
+7 nodes (0%) are attached to their parents as `advcl:tmod`.
 
-4 instances of `advcl:tmod` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.16666666666667.
+5 instances of `advcl:tmod` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.
 
-The following 2 pairs of parts of speech are connected with `advcl:tmod`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (5; 83% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 17% instances).
+The following 2 pairs of parts of speech are connected with `advcl:tmod`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (6; 86% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 14% instances).
 
 
 ~~~ conllu

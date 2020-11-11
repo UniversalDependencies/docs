@@ -13,7 +13,7 @@ This relation is universal.
 143 instances of `obj` (97%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.75510204081633.
 
-The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (116; 79% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (24; 16% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (115; 78% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (24; 16% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 6	fgColor:white
 # visual-style 6 8 obj	color:blue
 1	Hetta	hesin	PRON	Pron	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
 3	nesið	nes	NOUN	N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	sum	sum	PRON	Pron	PronType=Rel	6	nsubj	_	_
@@ -43,7 +43,7 @@ The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 6	fgColor:white
 # visual-style 6 7 obj	color:blue
 1	Tí	tí	SCONJ	CS	_	3	mark	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
 3	umráðandi	umráðandi	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 4	ikki	ikki	ADV	Adv	_	3	advmod	_	_
 5	at	at	PART	IM	_	6	mark	_	_
@@ -63,7 +63,7 @@ The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	Meginparturin	meginpartur	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	_
 2	av	av	ADP	Pr	_	3	case	_	_
 3	fólkinum	fólk	NOUN	N	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	1	nmod	_	_
-4	eru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Pres	5	cop	_	_
+4	eru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Pres	5	cop	_	_
 5	muslimar	muslimur	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
 6	og	og	CCONJ	CC	_	7	cc	_	_
 7	tala	tala	VERB	V	Mood=Ind|Number=Plur|Tense=Pres	5	conj	_	_

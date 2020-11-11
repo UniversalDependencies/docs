@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 7 8 flat	color:blue
 1	50.	50	ADJ	A	NumType=Ord	2	amod	_	_
 2	útgávan	útgáva	NOUN	N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
-3	var	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
+3	var	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
 4	ein	eitt	NUM	Num	Case=Nom|Gender=Fem|Number=Sing	5	nummod	_	_
 5	fløga	fløga	NOUN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 6	við	við	ADP	Pr	_	7	case	_	_
@@ -44,7 +44,7 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	Buffalo	Buffalo	PROPN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 2	:	:	PUNCT	CLB	_	1	punct	_	_
 3	Buffalo	Buffalo	PROPN	N	Case=Nom|Number=Sing	5	nsubj	_	_
-4	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+4	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
 5	býur	býur	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	parataxis	_	_
 6	í	í	ADP	Pr	_	7	case	_	_
 7	New	New	PROPN	N	Case=Acc|Number=Sing	5	obl	_	_
@@ -65,7 +65,7 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1 2 flat	color:blue
 1	Kastrup	Kastrup	PROPN	N	Case=Nom|Number=Sing	6	nsubj	_	_
 2	Flogvøllur	flogvøllur	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat	_	_
-3	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
+3	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
 4	av	av	ADP	Pr	_	6	case	_	_
 5	størstu	stórur	ADJ	A	Case=Dat|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur	6	amod	_	_
 6	flogvøllum	flogvøllur	NOUN	N	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_

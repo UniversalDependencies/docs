@@ -31,10 +31,10 @@ The following 21 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 7	tus	tu	DET	DET	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	8	det	_	_
 8	nombres	nombre	NOUN	NOUN	Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	PunctType=Comm	5	punct	_	_
-10	nos	yo	PRON	PRON	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	11	iobj	_	_
+10	nos	yo	PRON	PRON	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	11	iobj	_	_
 11	dejaste	dejar	VERB	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 12	tutear	tutear	VERB	VERB	VerbForm=Inf	11	xcomp	_	_
-13	te	tú	PRON	PRON	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	12	obj	_	_
+13	te	tú	PRON	PRON	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	12	obj	_	_
 14	.	.	PUNCT	PUNCT	PunctType=Peri	11	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 21 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 7 9 xcomp	color:blue
 1	Una	uno	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	vecina	vecina	NOUN	NOUN	Gender=Fem|Number=Sing	4	nsubj	_	_
-3	nos	yo	PRON	PRON	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	4	iobj	_	_
+3	nos	yo	PRON	PRON	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	4	iobj	_	_
 4	dijo	decir	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	:	:	PUNCT	PUNCT	PunctType=Colo	7	punct	_	_
 6	-	-	PUNCT	PUNCT	PunctType=Dash	7	punct	_	_

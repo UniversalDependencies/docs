@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (2%) are attached to their parents as `discourse`.
+30 nodes (2%) are attached to their parents as `discourse`.
 
-19 instances of `discourse` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.17391304347826.
+25 instances of `discourse` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.13333333333333.
 
-The following 5 pairs of parts of speech are connected with `discourse`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (16; 70% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 13% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 9% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `discourse`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (20; 67% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 13% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

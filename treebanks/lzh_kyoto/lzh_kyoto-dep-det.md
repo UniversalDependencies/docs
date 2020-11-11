@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2237 nodes (2%) are attached to their parents as `det`.
+3270 nodes (1%) are attached to their parents as `det`.
 
-2236 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12069736253911.
+3269 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14128440366972.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (2097; 94% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (74; 3% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (30; 1% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (23; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (3064; 94% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (102; 3% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (41; 1% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (37; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (15; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

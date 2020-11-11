@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-597 nodes (2%) are attached to their parents as `cop`.
+647 nodes (2%) are attached to their parents as `cop`.
 
-541 instances of `cop` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.97319932998325.
+582 instances of `cop` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.06491499227202.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (353; 59% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (223; 37% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (12; 2% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (386; 60% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (238; 37% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (14; 2% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 9	amser	amser	NOUN	noun	Gender=Masc|Number=Sing	7	obl	_	_
 10	a	a	CCONJ	cconj	_	11	cc	_	_
 11	henaint	henaint	NOUN	noun	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
-12	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\s\n
+12	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -69,9 +69,10 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	sicr	sicr	ADJ	pos	Degree=Pos|Gender=Masc|Number=Sing	6	advmod	_	_
 5	yn	yn	ADP	prep	_	6	case	_	_
 6	un	un	NUM	num	_	0	root	_	_
-7	ohonyn	o	ADP	cprep	Gender=Masc|Number=Plur|Person=3	8	case	_	_
-8	nhw	hwy	PRON	indep	Number=Plur|Person=3|PronType=Prs	6	nmod	_	SpaceAfter=No
-9	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\n
+7	o	o	ADP	iprep	_	8	case	_	_
+8	hwy	hwy	PRON	indep	Number=Plur|Person=3|PronType=Prs	6	nmod	_	_
+9	nhw	hwy	PRON	indep	Number=Plur|Person=3|PronType=Prs	8	compound:redup	_	SpaceAfter=No
+10	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\n
 
 ~~~
 

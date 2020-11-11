@@ -31,7 +31,7 @@ The following 66 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 7	헐어다가	헐+어다가	SCONJ	pvg+ecs	_	10	ccomp	_	_
 8	박문사	박문사	PROPN	nq	_	9	compound	_	_
 9	정문으로	정문+으로	ADV	ncn+jca	_	10	advcl	_	_
-10	세웠습니다	세우+었+습니다	VERB	pvg+ep+ef	_	0	root	_	_
+10	세웠습니다	세우+었+습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	sf	_	10	punct	_	_
 
 ~~~
@@ -51,7 +51,7 @@ The following 66 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 6	통하는	통하+는	VERB	pvg+etm	_	9	ccomp	_	_
 7	제일	제일	ADV	mag	_	8	advmod	_	_
 8	큰	크+ㄴ	ADJ	paa+etm	_	9	amod	_	_
-9	다리였습니다	다리+이+었+습니다	VERB	ncn+jp+ep+ef	_	0	root	_	_
+9	다리였습니다	다리+이+었+습니다	VERB	ncn+jp+ep+ef	_	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	sf	_	9	punct	_	_
 
 ~~~
@@ -72,11 +72,11 @@ The following 66 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 7	둘러	두르+어	SCONJ	pvg+ecs	_	8	ccomp	_	_
 8	앉아서	앉+아서	SCONJ	pvg+ecs	_	10	ccomp	_	_
 9	씹어	씹+어	SCONJ	pvg+ecs	_	10	ccomp	_	_
-10	먹는데	먹+는데	SCONJ	pvg+ecs	_	14	ccomp	_	_
+10	먹는데	먹+는데	SCONJ	pvg+ecs	_	14	ccomp	_	SpaceAfter=No
 11	,	,	PUNCT	sp	_	10	punct	_	_
 12	아작아작	아작아작	ADV	mag	_	14	advmod	_	_
 13	씹어	씹+어	SCONJ	pvg+ecs	_	14	ccomp	_	_
-14	먹지요	먹+지요	VERB	pvg+ef	_	0	root	_	_
+14	먹지요	먹+지요	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
 
 ~~~

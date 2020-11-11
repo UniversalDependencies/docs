@@ -27,7 +27,7 @@ The following 8 pairs of parts of speech are connected with `advmod:mmod`: <tt><
 2	,	,	PUNCT	CLB	_	1	punct	_	_
 3	идем	идем	ADJ	A	_	4	amod	_	_
 4	ракшань	ракша	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	5	nmod	_	GTtags=Sem/Anim_Cnt,SP,Gen,Indef
-5	кедтькак	кедь	NOUN	N	Case=Nom|Clitic=Gak|Definite=Ind|Number=Plur	6	obj	_	GTtags=Sem/Body_part,Pl,Nom,Indef,Clt/Gak
+5	кедтькак	кедь	NOUN	N	Case=Nom|Clitic=Add|Definite=Ind|Number=Plur	6	obj	_	GTtags=Sem/Body_part,Pl,Nom,Indef,Clt/Gak
 6	саить	саемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,ScPl3|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	_
 

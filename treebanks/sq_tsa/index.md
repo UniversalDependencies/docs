@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Marsida Toska.
 
 Repository: [UD_Albanian-TSA](https://github.com/UniversalDependencies/UD_Albanian-TSA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsq_tsa26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsq_tsa27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -161,7 +161,6 @@ This treebank was created by Marsida Toska at Uppsala University under the super
     <ul>
       <li>ADJ: komplekse, kryesore, njerëzore, sociale, Madhe, aplikuar, avancuara, caktuar, dendura, dixhitale</li>
       <li>ADJ-Part: aplikuar, avancuara, caktuar, hapur, orientuara, rritura</li>
-      <li>CCONJ: e</li>
       <li>DET: e, të, një, së</li>
       <li>NOUN: Dashuria, kohës, marrëdhënieve, mënyrë, politikat, shkencat, shoqëri, sjelljes, tregtinë, Bujqësia</li>
       <li>PRON: disa, e, gjitha, këto, Kjo, cilat, këtë, saj, ato, atë</li>
@@ -177,7 +176,7 @@ This treebank was created by Marsida Toska at Uppsala University under the super
       <li>ADJ-Part: njohur, caktuara, interesuar, pashkruar, përhapur</li>
       <li>DET: i, të, një, së</li>
       <li>NOUN: Evolucioni, Ishulli, dramaturgu, njeriut, njerëz, qytetit, shtete, ushqimit, vend, Interesi</li>
-      <li>PRON: i, Ata, tij, Ky, ai, cilitdo, disa, Këto, atyre, këtë</li>
+      <li>PRON: Ata, i, tij, Ky, ai, cilitdo, disa, Këto, atyre, këtë</li>
       <li>PROPN: Bashkimit, Djui, Djuin, Manit, Norsëve, Ruso, Zhak, Zhan</li>
     </ul>
   </li>
@@ -212,7 +211,7 @@ This treebank was created by Marsida Toska at Uppsala University under the super
       <li>NOUN: Dashuria, Evolucioni, Ishulli, dramaturgu, kohës, mënyrë, njeriut, qytetit, shoqëri, sjelljes</li>
       <li>PRON: e, këtë, tij, Kjo, Ky, ai, cilitdo, saj, atë, cila</li>
       <li>PROPN: Shqipëri, Bashkimit, Britania, Djui, Djuin, Evropës, Japoninë, Kinës, Korenë, Manit</li>
-      <li>VERB: ka, kishte, mendohet, duhet, formon, karakterizohet, konsiston, krijoi, kthehet, kuptohet</li>
+      <li>VERB: ka, kishte, mendohet, duhet, ekziston, formon, karakterizohet, konsiston, krijoi, kthehet</li>
     </ul>
   </li>
 </ul>
@@ -225,6 +224,7 @@ This treebank was created by Marsida Toska at Uppsala University under the super
   <li>Abl
     <ul>
       <li>NOUN: gjinisë, komunikimit, ndryshimesh, person, problemi, shekujve</li>
+      <li>PRON: cilitdo</li>
     </ul>
   </li>
 </ul>
@@ -233,6 +233,7 @@ This treebank was created by Marsida Toska at Uppsala University under the super
   <li>Acc
     <ul>
       <li>NOUN: drejtimet, mënyrë, shkencat, shtete, tregtinë, administrim, anë, armë, artikujt, bashkim</li>
+      <li>PRON: e, këtë, atë, cilat, cilën, gjitha, i, këto, tillë, tjera</li>
       <li>PROPN: Shqipëri, Djuin, Japoninë, Korenë</li>
     </ul>
   </li>
@@ -249,7 +250,8 @@ This treebank was created by Marsida Toska at Uppsala University under the super
 <ul>
   <li>Dat
     <ul>
-      <li>NOUN: formave, informacionit, përbërësit, përvojave</li>
+      <li>NOUN: formave, informacionit, procesit, përbërësit, përvojave</li>
+      <li>PRON: i, atyre, na, u</li>
     </ul>
   </li>
 </ul>
@@ -258,6 +260,7 @@ This treebank was created by Marsida Toska at Uppsala University under the super
   <li>Gen
     <ul>
       <li>NOUN: kohës, marrëdhënieve, njeriut, qytetit, sjelljes, ushqimit, anëtarëve, djegies, edukimit, ekonomie</li>
+      <li>PRON: tij, saj, cilitdo, gjitha, kësaj, këtyre, tjetër, tyre</li>
       <li>PROPN: Bashkimit, Evropës, Kinës, Manit, Norsëve</li>
     </ul>
   </li>
@@ -267,6 +270,7 @@ This treebank was created by Marsida Toska at Uppsala University under the super
   <li>Nom
     <ul>
       <li>NOUN: Dashuria, Evolucioni, Ishulli, dramaturgu, Bujqësia, Buka, Familja, Forcat, Format, Frutat</li>
+      <li>PRON: disa, Ata, këto, Kjo, Ky, ai, Cilat, ato, cila, gjitha</li>
       <li>PROPN: Britania, Djui, Ruso, Zhak, Zhan</li>
     </ul>
   </li>
@@ -323,8 +327,7 @@ This treebank was created by Marsida Toska at Uppsala University under the super
   <li>Imp
     <ul>
       <li>AUX: janë, është, kanë, ishte, ka</li>
-      <li>NOUN: ekziston</li>
-      <li>VERB: dashuruar, ka, kanë, kishte, mendohet, Dëgjojmë, duhet, dëmtojnë, fillojnë, formon</li>
+      <li>VERB: dashuruar, ka, kanë, kishte, mendohet, Dëgjojmë, duhet, dëmtojnë, ekziston, fillojnë</li>
       <li>VERB-Ger: lëvizur</li>
       <li>VERB-Inf: dashuruar</li>
     </ul>
@@ -356,8 +359,7 @@ This treebank was created by Marsida Toska at Uppsala University under the super
   <li>Ind
     <ul>
       <li>AUX: janë, është, kanë, ishte, ka</li>
-      <li>NOUN: ekziston</li>
-      <li>VERB: ka, kanë, kishte, mendohet, Dëgjojmë, duhet, fillojnë, formon, formuan, identifikojnë</li>
+      <li>VERB: ka, kanë, kishte, mendohet, Dëgjojmë, duhet, ekziston, fillojnë, formon, formuan</li>
     </ul>
   </li>
 </ul>
@@ -389,8 +391,7 @@ This treebank was created by Marsida Toska at Uppsala University under the super
   <li>Pres
     <ul>
       <li>AUX: janë, është, kanë, ka</li>
-      <li>NOUN: ekziston</li>
-      <li>VERB: dashuruar, ka, kanë, mendohet, Dëgjojmë, duhet, dëmtojnë, fillojnë, formon, identifikojnë</li>
+      <li>VERB: dashuruar, ka, kanë, mendohet, Dëgjojmë, duhet, dëmtojnë, ekziston, fillojnë, formon</li>
       <li>VERB-Ger: lëvizur</li>
       <li>VERB-Inf: dashuruar</li>
     </ul>
@@ -405,8 +406,7 @@ This treebank was created by Marsida Toska at Uppsala University under the super
   <li>Act
     <ul>
       <li>AUX: janë, është, kanë, ishte, ka</li>
-      <li>NOUN: ekziston</li>
-      <li>VERB: dashuruar, ka, kanë, kishte, Dëgjojmë, dëmtojnë, fillojnë, formon, identifikojnë, japin</li>
+      <li>VERB: dashuruar, ka, kanë, kishte, Dëgjojmë, dëmtojnë, ekziston, fillojnë, formon, identifikojnë</li>
       <li>VERB-Ger: lëvizur</li>
       <li>VERB-Inf: dashuruar, ndihmuar, rritur</li>
     </ul>
@@ -516,9 +516,8 @@ This treebank was created by Marsida Toska at Uppsala University under the super
   <li>3
     <ul>
       <li>AUX: janë, është, kanë, ishte, ka</li>
-      <li>NOUN: ekziston</li>
       <li>PRON: Cilat, ai, u</li>
-      <li>VERB: ka, kanë, kishte, mendohet, duhet, dëmtojnë, fillojnë, formon, formuan, identifikojnë</li>
+      <li>VERB: ka, kanë, kishte, mendohet, duhet, dëmtojnë, ekziston, fillojnë, formon, formuan</li>
     </ul>
   </li>
 </ul>
@@ -559,9 +558,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Acc (1)</li>
-      <li>VERB--NOUN-Nom (32)</li>
-      <li>VERB--PRON (8)</li>
+      <li>VERB--NOUN-Nom (34)</li>
+      <li>VERB--PRON-Acc (1)</li>
+      <li>VERB--PRON-Nom (7)</li>
       <li>VERB-Part--NOUN-Nom (5)</li>
     </ul>
   </li>
@@ -572,10 +571,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Acc (24)</li>
-      <li>VERB--NOUN-Dat (1)</li>
-      <li>VERB--NOUN-Gen (1)</li>
+      <li>VERB--NOUN-Dat (2)</li>
       <li>VERB--NOUN-Nom (1)</li>
-      <li>VERB--PRON (1)</li>
+      <li>VERB--PRON-Acc (1)</li>
       <li>VERB-Ger--NOUN-Acc (1)</li>
       <li>VERB-Inf--NOUN-Acc (2)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
@@ -586,7 +584,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--PRON (2)</li>
+      <li>VERB--PRON-Dat (2)</li>
     </ul>
   </li>
 </ul>

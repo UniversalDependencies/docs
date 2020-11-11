@@ -29,7 +29,7 @@ The following 25 pairs of parts of speech are connected with `amod`: <tt><a href
 5	A	A	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Giv|Polarity=Pos	10	nmod	10:nmod	SpaceAfter=No|LId=A-0
 6	4	4	NUM	C=-------------	NumForm=Digit|NumType=Card	5	nummod	5:nummod	SpaceAfter=No
 7	/	/	PUNCT	Z:-------------	_	8	punct	8:punct	SpaceAfter=No
-8	sec	s`sekunda	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	5	nmod	5:nmod	SpaceAfter=No|LId=s`sekunda-2
+8	sec	s	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	5	nmod	5:nmod	SpaceAfter=No|LId=s-2|LNumValue=sekunda
 9	)	)	PUNCT	Z:-------------	_	5	punct	5:punct	_
 10	12	12	NUM	C=-------------	NumForm=Digit|NumType=Card	2	appos	2:appos	_
 

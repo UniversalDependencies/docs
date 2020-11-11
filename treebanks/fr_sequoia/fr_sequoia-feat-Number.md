@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 38373 tokens (54%) have a non-empty value of `Number`.
 7687 types (82%) occur at least once with a non-empty value of `Number`.
-5047 lemmas (75%) occur at least once with a non-empty value of `Number`.
+5043 lemmas (75%) occur at least once with a non-empty value of `Number`.
 The feature is used with 8 part-of-speech tags: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14474; 21% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (10409; 15% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (4232; 6% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (4192; 6% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1775; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1712; 2% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1578; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`

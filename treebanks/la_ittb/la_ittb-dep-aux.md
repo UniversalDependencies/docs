@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="la_ittb-dep-aux-pass.html">aux:pass</a></tt>.
 
-11 nodes (0%) are attached to their parents as `aux`.
+26 nodes (0%) are attached to their parents as `aux`.
 
-6 instances of `aux` (55%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.72727272727273.
+14 instances of `aux` (54%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.73076923076923.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (5; 45% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (4; 36% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 9% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1; 9% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (16; 62% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (8; 31% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (2; 8% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	forma	forma	NOUN	A1|grn1|casF|gen2	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	8	obl	_	_
 6	hominis	homo	NOUN	C1|grn1|casB|gen1	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	nmod	_	_
 7	sit	sum	AUX	N3|modB|tem1|gen6	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
-8	judicaturus	iudico	VERB	J2|modD|tem3|grp1|casA|gen1|vgr2	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+8	iudicaturus	iudico	VERB	J2|modD|tem3|grp1|casA|gen1|vgr2	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 9	;	;	PUNCT	Punc	_	8	punct	_	_
 
 ~~~
@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7 8 aux	color:blue
 1	propter	propter	ADP	S4	AdpType=Prep	2	case	_	_
 2	quod	qui	PRON	F1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	7	obl	_	_
-3	et	et	CCONJ	O4	_	4	advmod:emph	_	_
+3	et	et	ADV	O4	_	4	advmod:emph	_	_
 4	aristoteles	aristoteles	PROPN	C1|grn1|casA|gen1|vgr1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	nsubj	_	_
 5	congruo	congruus	ADJ	B1|grn1|casF|gen3	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
 6	exemplo	exemplum	NOUN	B1|grn1|casF|gen3	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	7	nmod	_	_
@@ -56,33 +56,19 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 20 aux	color:blue
-1	nulla	nullus	PRON	F1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
-2	autem	autem	CCONJ	O4	_	8	cc	_	_
-3	talis	talis	PRON	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
-4	affectio	affectio	NOUN	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	nsubj	_	_
-5	in	in	ADP	S4	AdpType=Prep	6	case	_	_
-6	deo	deus	PROPN	F1|grn1|casF|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	7	obl	_	_
-7	esse	sum	VERB	N3|modH|tem1	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	_
-8	potest	possum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	SpaceAfter=No
-9	:	:	PUNCT	Punc	_	11	punct	_	_
-10	cum	cum	SCONJ	S4|vgr1	_	11	mark	_	_
-11	desit	desum	VERB	N3|modB|tem1|gen6	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
-12	sibi	se	PRON	F1|grn1|casC|gen1	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs|Reflex=Yes	11	obj	_	_
-13	sensitiva	sensitivus	ADJ	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
-14	cognitio	cognitio	NOUN	C1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
-15	,	,	PUNCT	Punc	_	21	punct	_	_
-16	ut	ut	SCONJ	O4|vgr1	_	21	mark	_	_
-17	per	per	ADP	S4	AdpType=Prep	19	mark	_	_
-18	supra	supra	ADV	S4	_	19	advmod	_	_
-19	dicta	dico	VERB	N2|modM|tem4|grp1|casM|gen3	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	21	advcl	_	_
-20	est	sum	AUX	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	aux	_	_
-21	manifestum	manifestus	ADJ	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	obl	_	SpaceAfter=No
-22	.	.	PUNCT	Punc	_	8	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 aux	color:blue
+1	unde	unde	ADV	O4	_	7	advmod	_	_
+2	corpora	corpus	NOUN	C1|grn1|casJ|gen3	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
+3	resurgentium	resurgo	VERB	L2|modD|tem1|grp1|casK|gen1	Aspect=Imp|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+4	beatorum	beatus	ADJ	B1|grn1|casK|gen1	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	2	nmod	_	_
+5	futura	sum	AUX	N2|modD|tem3|grp1|casJ|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Act	7	cop	_	_
+6	erunt	sum	AUX	N3|modA|tem3|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	aux	_	_
+7	agilia	agilis	ADJ	C1|grn1|casJ|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
 

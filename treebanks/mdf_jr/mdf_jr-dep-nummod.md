@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (1%) are attached to their parents as `nummod`.
+13 nodes (1%) are attached to their parents as `nummod`.
 
-12 instances of `nummod` (100%) are right-to-left (child precedes parent).
+13 instances of `nummod` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NUM.html">NUM</a></tt> (12; 100% instances).
+The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NUM.html">NUM</a></tt> (13; 100% instances).
 
 
 ~~~ conllu

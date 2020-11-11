@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-444 tokens (3%) have a non-empty value of `Gender`.
-97 types (2%) occur at least once with a non-empty value of `Gender`.
-57 lemmas (2%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (441; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3; 0% instances).
+449 tokens (3%) have a non-empty value of `Gender`.
+102 types (2%) occur at least once with a non-empty value of `Gender`.
+62 lemmas (2%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (441; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (8; 0% instances).
 
 ### `PROPN`
 
@@ -30,15 +30,15 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `NOUN`
 
-3 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Gender`.
+8 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (3; 100%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 67%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (7; 88%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 63%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 63%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (1; 33% of non-empty `Gender`): <em>Любань</em>
-* `Masc` (2; 67% of non-empty `Gender`): <em>Вострин, Елеська</em>
-* `EMPTY` (3781): <em>бандитэсь, партизантнэ, кедензэ, лангс, ялгат, прянзо, кудов, авазо, кенкшенть, бандитнэ</em>
+* `Fem` (1; 13% of non-empty `Gender`): <em>Любань</em>
+* `Masc` (7; 88% of non-empty `Gender`): <em>Вострин, Елеська, Куторкин, Кучаевтнень, Панов, Прокопычень, Шумилкин</em>
+* `EMPTY` (4252): <em>лангс, ёнов, бандитэсь, лангсо, партизантнэ, ялгат, кедензэ, ланга, ёндо, прянзо</em>
 
 ## Relations with Agreement in `Gender`
 

@@ -43,7 +43,7 @@ The following 39 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 8 1 discourse	color:blue
 1	whatever	whatever	INTJ	UH	_	8	discourse	8:discourse	SpaceAfter=No
 2	,	,	PUNCT	,	_	8	punct	8:punct	_
-3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	8:nsubj	SpaceAfter=No
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	8:nsubj	_
 4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 6	perverted	perverted	ADJ	JJ	Degree=Pos	8	amod	8:amod	_

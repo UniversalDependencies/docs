@@ -36,14 +36,12 @@ The feature is used with 5 part-of-speech tags: <tt><a href="en_ewt-pos-ADJ.html
 
 744 <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (744; 100%).
-
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (156; 21% of non-empty `Degree`): <em>later, better, longer, less, earlier, sooner, further, closer, higher, faster</em>
 * `Pos` (490; 66% of non-empty `Degree`): <em>well, far, soon, long, hard, early, late, close, little, high</em>
 * `Sup` (98; 13% of non-empty `Degree`): <em>least, best, worst, highest, longest</em>
-* `EMPTY` (12299): <em>so, just, when, very, also, how, now, even, then, there</em>
+* `EMPTY` (11530): <em>so, just, very, also, now, even, then, there, only, here</em>
 
 `Degree` seems to be **lexical feature** of `ADV`. 100% lemmas (37) occur only with one value of `Degree`.
 
@@ -56,7 +54,7 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 `PROPN` tokens may have the following values of `Degree`:
 
 * `Pos` (3; 100% of non-empty `Degree`): <em>Central, Modern, english</em>
-* `EMPTY` (16896): <em>bush, US, al, Iraq, enron, united, Iran, New, China, states</em>
+* `EMPTY` (16875): <em>bush, US, al, Iraq, enron, united, Iran, New, China, states</em>
 
 ### `INTJ`
 
@@ -76,19 +74,19 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>equivalant</em>
-* `EMPTY` (43089): <em>time, people, service, place, thanks, food, way, year, day, number</em>
+* `EMPTY` (43110): <em>time, people, service, place, thanks, food, way, year, day, number</em>
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (617; 97%),
 <tt>ADJ --[<tt><a href="en_ewt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (99; 96%),
-<tt>ADJ --[<tt><a href="en_ewt-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (41; 87%),
+<tt>ADJ --[<tt><a href="en_ewt-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (42; 88%),
 <tt>ADJ --[<tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (37; 88%),
 <tt>ADJ --[<tt><a href="en_ewt-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (24; 96%),
-<tt>ADJ --[<tt><a href="en_ewt-dep-obl.html">obl</a></tt>]--> ADJ</tt> (18; 51%),
 <tt>ADJ --[<tt><a href="en_ewt-dep-obl-npmod.html">obl:npmod</a></tt>]--> ADJ</tt> (15; 65%),
 <tt>ADJ --[<tt><a href="en_ewt-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (13; 93%),
 <tt>ADJ --[<tt><a href="en_ewt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (10; 100%),
-<tt>ADJ --[<tt><a href="en_ewt-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (9; 64%).
+<tt>ADJ --[<tt><a href="en_ewt-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (9; 64%),
+<tt>ADJ --[<tt><a href="en_ewt-dep-list.html">list</a></tt>]--> ADJ</tt> (9; 90%).
 

@@ -9,18 +9,18 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-6663 tokens (1%) have a non-empty value of `Abbr`.
+6528 tokens (1%) have a non-empty value of `Abbr`.
 452 types (1%) occur at least once with a non-empty value of `Abbr`.
 446 lemmas (2%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 6 part-of-speech tags: <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (3783; 1% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (1878; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (982; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (3570; 1% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (1878; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (982; 0% instances), <tt><a href="cs_cac-pos-PUNCT.html">PUNCT</a></tt> (79; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (9; 0% instances).
 
 ### `SYM`
 
-3783 <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> tokens (100% of all `SYM` tokens) have a non-empty value of `Abbr`.
+3570 <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> tokens (100% of all `SYM` tokens) have a non-empty value of `Abbr`.
 
 `SYM` tokens may have the following values of `Abbr`:
 
-* `Yes` (3783; 100% of non-empty `Abbr`): <em>*</em>
+* `Yes` (3570; 100% of non-empty `Abbr`): <em>*</em>
 
 ### `PROPN`
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1878; 100% of non-empty `Abbr`): <em>KSČ, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, ČSR, TIBA, NDR</em>
-* `EMPTY` (7936): <em>Praze, Praha, Škoda, Prahy, Fučík, Erben, Československa, Karel, Horálek, Země</em>
+* `EMPTY` (7941): <em>Praze, Praha, Škoda, Prahy, Fučík, Erben, Československa, Karel, Horálek, Země</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (287) occur only with one value of `Abbr`.
 
@@ -44,9 +44,18 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (982; 100% of non-empty `Abbr`): <em>ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</em>
-* `EMPTY` (135200): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
+* `EMPTY` (135201): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (160) occur only with one value of `Abbr`.
+
+### `PUNCT`
+
+79 <tt><a href="cs_cac-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Abbr`.
+
+`PUNCT` tokens may have the following values of `Abbr`:
+
+* `Yes` (79; 100% of non-empty `Abbr`): <em>?</em>
+* `EMPTY` (60129): <em>,, ., -, ", :, (, ), ?, ', /</em>
 
 ### `ADV`
 
@@ -57,7 +66,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (10; 100% of non-empty `Abbr`): <em>kt</em>
-* `EMPTY` (28122): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
+* `EMPTY` (28123): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
 
 ### `ADJ`
 
@@ -70,26 +79,17 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 * `Yes` (9; 100% of non-empty `Abbr`): <em>TH, jč, HT, LP, PE, Rh</em>
 * `EMPTY` (74213): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
-### `PUNCT`
-
-1 <tt><a href="cs_cac-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Abbr`.
-
-`PUNCT` tokens may have the following values of `Abbr`:
-
-* `Yes` (1; 100% of non-empty `Abbr`): <em>?</em>
-* `EMPTY` (60126): <em>,, ., -, ", :, (, ), ?, ', /</em>
-
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>SYM --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> SYM</tt> (124; 100%),
+<tt>SYM --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> SYM</tt> (122; 100%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (75; 75%),
 <tt>SYM --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (29; 100%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (25; 53%),
-<tt>SYM --[<tt><a href="cs_cac-dep-case.html">case</a></tt>]--> SYM</tt> (9; 100%),
 <tt>SYM --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> SYM</tt> (3; 100%),
-<tt>SYM --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> SYM</tt> (3; 100%),
-<tt>SYM --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> SYM</tt> (3; 100%),
-<tt>SYM --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> SYM</tt> (2; 100%),
-<tt>SYM --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> SYM</tt> (2; 100%).
+<tt>SYM --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> SYM</tt> (2; 100%),
+<tt>SYM --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> SYM</tt> (2; 100%),
+<tt>SYM --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> SYM</tt> (2; 100%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> SYM</tt> (1; 100%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%).
 

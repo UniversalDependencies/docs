@@ -10,10 +10,10 @@ This relation is universal.
 
 4143 nodes (15%) are attached to their parents as `punct`.
 
-3796 instances of `punct` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.03113685734975.
+3530 instances of `punct` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.58942795076032.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (3425; 83% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (363; 9% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (287; 7% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (31; 1% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (22; 1% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="sme_giella-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="sme_giella-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (3216; 78% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (451; 11% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (295; 7% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (50; 1% instances), <tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (46; 1% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (43; 1% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (19; 0% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="sme_giella-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="sme_giella-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -60,7 +60,7 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 4	bivut	bivvu	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
 5	galget	galgat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	5	punct	_	_
-7	ii	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	11	aux:neg	_	_
+7	ii	ii	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	11	aux:neg	_	_
 8	leat	leat	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	_
 9	gal	gal	ADV	Adv	_	11	advmod	_	_
 10	nu	nu	ADV	Adv	_	11	advmod	_	_

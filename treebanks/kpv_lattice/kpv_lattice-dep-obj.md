@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-120 nodes (5%) are attached to their parents as `obj`.
+217 nodes (4%) are attached to their parents as `obj`.
 
-72 instances of `obj` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.84166666666667.
+123 instances of `obj` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.89400921658986.
 
-The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (90; 75% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (22; 18% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (171; 79% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (34; 16% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	Ныв	ныв	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
 2	ёртыслы	ёрт	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
 3	гижис	гижны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	письмӧ	письмӧ	NOUN	N	Case=Nom|Number=Sing	3	obj	_	SpaceAfter=No
+4	письмӧ	письмӧ	NOUN	N	Case=Nom|Number=Sing	3	obj	_	Lang=Mixed|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -56,11 +56,11 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 obj	color:blue
-1	Урожай	урожай	NOUN	N	Case=Nom|Number=Sing	2	obj	_	_
+1	Урожай	урожай	NOUN	N	Case=Nom|Number=Sing	2	obj	_	Lang=Mixed
 2	идралӧм	идравны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	4	csubj	_	_
 3	–	–	PUNCT	PUNCT	_	4	punct	_	_
 4	удж	удж	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
-5	сезоннӧй	сезоннӧй	ADJ	A	Case=Nom|Number=Sing	4	amod	_	SpaceAfter=No
+5	сезоннӧй	сезоннӧй	ADJ	A	Case=Nom|Number=Sing	4	amod	_	Lang=Mixed|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
 7	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 8	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	9	aux:neg	_	_

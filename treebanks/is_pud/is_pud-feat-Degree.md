@@ -76,7 +76,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Pos` (6; 100% of non-empty `Degree`): <em>Afköst, Upptökustjórar, aðalorsök, friðarins, heilaþroska, hvílustaður</em>
-* `EMPTY` (4093): <em>árið, ár, hluta, árum, ára, október, stað, öld, fólk, áhrif</em>
+* `EMPTY` (4095): <em>árið, ár, hluta, árum, ára, október, stað, öld, fólk, áhrif</em>
 
 ### `NUM`
 

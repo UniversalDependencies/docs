@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>dos</em> (<tt><a href="es_ancora-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.009804 (the average of all parts of speech is 1.502206).
+The form / lemma ratio of `NUM` is 1.009804 (the average of all parts of speech is 1.502171).
 
 The 1st highest number of forms (4) was observed with the lemma “4”: <em>4, 4A, 4B, cuatro</em>.
 

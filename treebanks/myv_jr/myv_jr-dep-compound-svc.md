@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `compound:svc`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-compound.html">compound</a></tt>.
-There are also 2 other language-specific subtypes of `compound`: <tt><a href="myv_jr-dep-compound-coll.html">compound:coll</a></tt>, <tt><a href="myv_jr-dep-compound-redup.html">compound:redup</a></tt>.
+There are also 3 other language-specific subtypes of `compound`: <tt><a href="myv_jr-dep-compound-coll.html">compound:coll</a></tt>, <tt><a href="myv_jr-dep-compound-prt.html">compound:prt</a></tt>, <tt><a href="myv_jr-dep-compound-redup.html">compound:redup</a></tt>.
 
 8 nodes (0%) are attached to their parents as `compound:svc`.
 

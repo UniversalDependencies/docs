@@ -8,81 +8,82 @@ udver: '2'
 
 This relation is universal.
 
-52 nodes (0%) are attached to their parents as `goeswith`.
+3 nodes (0%) are attached to their parents as `goeswith`.
 
-52 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.82692307692308.
+3 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 8 pairs of parts of speech are connected with `goeswith`: <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (29; 56% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (7; 13% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (6; 12% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (3; 6% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (3; 6% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (2; 67% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 goeswith	color:blue
-1	Kadang	_	ADV	RB	_	3	aux	_	SpaceAfter=No
-2	kala	_	X	GW	_	1	goeswith	_	_
-3	seperti	_	ADP	IN	_	0	root	_	_
-4	kekuatan	_	ADJ	JJ	_	3	obj	_	SpaceAfter=No|ToDo=pobj
-5	super	_	ADJ	JJ	_	4	amod	_	SpaceAfter=No
-6	.	_	PUNCT	.	_	3	punct	_	_
+# visual-style 27	bgColor:blue
+# visual-style 27	fgColor:white
+# visual-style 26	bgColor:blue
+# visual-style 26	fgColor:white
+# visual-style 26 27 goeswith	color:blue
+1	Ini	ini	PRON	_	PronType=Dem	3	nsubj	_	_
+2	adalah	adalah	AUX	_	_	3	cop	_	_
+3	bagian	bagi	NOUN	_	Number=Sing	0	root	_	_
+4	dari	dari	ADP	_	_	5	case	_	_
+5	batas	batas	NOUN	_	Number=Sing	3	nmod	_	_
+6	kedua	dua	ADJ	_	NumType=Ord	5	amod	_	_
+7	ini	ini	DET	_	PronType=Dem	5	det	_	_
+8	hingga	hingga	ADP	_	_	10	case	_	_
+9	ke	ke	ADP	_	_	10	case	_	_
+10	batas	batas	NOUN	_	Number=Sing	5	nmod	_	_
+11	luar	luar	NOUN	_	Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	garis	garis	NOUN	_	Number=Sing	16	nsubj	_	_
+14	imajiner	imajiner	NOUN	_	Number=Sing	13	nmod	_	_
+15	yang	yang	PRON	_	PronType=Rel	16	nsubj	_	_
+16	menghubungkan	hubung	VERB	_	Mood=Ind|Voice=Act	5	acl:relcl	_	_
+17	landmark	landmark	X	_	Foreign=Yes	16	obj	_	_
+18	mercu	mercu	NOUN	_	Typo=Yes	17	nmod	_	_
+19	suar	suar	NOUN	_	Typo=Yes	18	goeswith	_	_
+20	di	di	ADP	_	_	21	case	_	_
+21	Punta	Punta	PROPN	_	_	17	nmod	_	_
+22	del	del	PROPN	_	_	21	flat:name	_	_
+23	Este	Este	PROPN	_	_	21	flat:name	_	_
+24	ke	ke	ADP	_	_	25	case	_	_
+25	landmark	landmark	X	_	Foreign=Yes	16	obl	_	_
+26	mercu	mercu	NOUN	_	Typo=Yes	25	nmod	_	_
+27	suar	suar	NOUN	_	Typo=Yes	26	goeswith	_	_
+28	di	di	ADP	_	_	29	case	_	_
+29	Punta	Punta	PROPN	_	_	25	nmod	_	_
+30	Rasa	Rasa	PROPN	_	_	29	flat:name	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 16 goeswith	color:blue
-1	Mereka	_	PRON	PRP	_	2	nsubj	_	_
-2	menduduki	_	VERB	VV	_	0	root	_	SpaceAfter=No
-3	rata	_	NOUN	NN	_	2	obj	_	SpaceAfter=No
-4	-	_	PUNCT	HYPH	_	5	punct	_	SpaceAfter=No
-5	rata	_	X	GW	_	3	goeswith	_	_
-6	nasional	_	ADJ	JJ	_	3	amod	_	_
-7	di	_	ADP	IN	_	8	case	_	_
-8	kelas	_	NOUN	NN	_	2	obl	_	_
-9	4	_	NUM	CD	_	8	nummod	_	_
-10	dan	_	CCONJ	CC	_	12	cc	_	_
-11	lebih	_	ADV	RB	_	12	advmod	_	_
-12	baik	_	ADJ	JJ	_	2	conj	_	_
-13	dari	_	ADP	IN	_	14	case	_	_
-14	rata	_	NOUN	NN	_	12	nmod	_	SpaceAfter=No|ToDo=nmod
-15	-	_	PUNCT	HYPH	_	16	punct	_	SpaceAfter=No
-16	rata	_	X	GW	_	14	goeswith	_	_
-17	nasional	_	ADJ	JJ	_	14	amod	_	_
-18	di	_	ADP	IN	_	19	case	_	_
-19	kelas	_	NOUN	NN	_	12	nmod	_	ToDo=nmod
-20	8	_	NUM	CD	_	19	nummod	_	SpaceAfter=No
-21	.	_	PUNCT	.	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 goeswith	color:blue
-1	Ini	_	PRON	PRD	_	3	nsubj	_	_
-2	belum	_	ADV	RB	Polarity=Neg	3	advmod	_	_
-3	menghentikan	_	NOUN	NN	_	0	root	_	SpaceAfter=No
-4	investor	_	NOUN	NN	_	8	nsubj	_	_
-5	beramai	_	ADJ	JJ	_	8	aux	_	SpaceAfter=No
-6	-	_	PUNCT	HYPH	_	7	punct	_	SpaceAfter=No
-7	ramai	_	X	GW	_	5	goeswith	_	_
-8	memasukkan	_	VERB	VV	_	3	ccomp	_	SpaceAfter=No
-9	uang	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
-10	nya	_	PRON	PRP$	_	9	nmod:poss	_	_
-11	ke	_	ADP	IN	_	12	case	_	_
-12	dana	_	NOUN	NN	_	8	obl	_	_
-13	tersebut	_	VERB	VV	_	12	det	_	SpaceAfter=No
-14	.	_	PUNCT	.	_	3	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 goeswith	color:blue
+1	Tujuan	tuju	NOUN	_	Number=Sing	7	nsubj	_	_
+2	dari	dari	ADP	_	_	3	case	_	_
+3	acara	acara	NOUN	_	Number=Sing	1	nmod	_	_
+4	dengar	dengar	VERB	_	Mood=Ind|Voice=Act	3	acl	_	_
+5	pendapat	dapat	NOUN	_	Number=Sing	4	obl	_	_
+6	CRTC	CRTC	PROPN	_	Abbr=Yes	3	nmod	_	_
+7	adalah	adalah	AUX	_	_	0	root	_	_
+8	untuk	untuk	SCONJ	_	_	9	mark	_	_
+9	mengumpulkan	kumpul	VERB	_	Mood=Ind|Voice=Act	7	ccomp	_	_
+10	respons	respons	NOUN	_	Number=Sing	9	obj	_	_
+11	dari	dari	ADP	_	_	13	case	_	_
+12	pada	pada	ADP	_	_	11	goeswith	_	_
+13	pemangku	pangku	NOUN	_	Number=Sing	10	nmod	_	_
+14	kepentingan	penting	NOUN	_	Number=Sing	13	nmod	_	_
+15	industri	industri	NOUN	_	Number=Sing	13	nmod	_	_
+16	ini	ini	DET	_	PronType=Dem	13	det	_	_
+17	dan	dan	CCONJ	_	_	19	cc	_	_
+18	dari	dari	ADP	_	_	19	case	_	_
+19	masyarakat	masyarakat	NOUN	_	Number=Sing	13	conj	_	_
+20	umum	umum	ADJ	_	_	19	amod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

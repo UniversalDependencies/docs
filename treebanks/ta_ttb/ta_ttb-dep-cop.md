@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 32 cop	color:blue
-1	ஆளும்	ஆளு	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	6	amod	6:amod	Translit=āḷum|LTranslit=āḷu
+1	ஆளும்	ஆளு	VERB	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	6	acl	6:acl	Translit=āḷum|LTranslit=āḷu
 2	ஐக்கிய	ஐக்கிய	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=aikkiya|LTranslit=aikkiya
 3	ஜனதாதளம்	ஜனதாதளம்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod:nom	Translit=janatātaḷam|LTranslit=janatātaḷam
 4	-	-	PUNCT	Z:-------	PunctType=Comm	5	punct	5:punct	Translit=-|LTranslit=-
@@ -45,7 +45,7 @@ The following 1 pairs of parts of speech are connected with `cop`: <tt><a href="
 21	இரண்ட்	இரண்டு	NUM	Ux-------	NumType=Card	28	nsubj	28:nsubj	Translit=iraṇṭ|LTranslit=iraṇṭu
 22	உம்	உம்	PART	Tv-------	_	21	advmod:emph	21:advmod:emph	Translit=um|LTranslit=um
 23	ஏ	ஏ	PART	Tq-------	_	22	advmod:emph	22:advmod:emph	Translit=ē|LTranslit=ē
-24	மத	மதம்	ADJ	JJ-------	_	27	amod	27:amod	SpaceAfter=No|Translit=mata|LTranslit=matam
+24	மத	மதம்	NOUN	JJ-------	_	27	nmod	27:nmod	SpaceAfter=No|Translit=mata|LTranslit=matam
 25	,	,	PUNCT	Z:-------	PunctType=Comm	26	punct	26:punct	Translit=,|LTranslit=,
 26	ஜாதி	ஜாதி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	24	conj	24:conj|27:amod	Translit=jāti|LTranslit=jāti
 27	அரசியலை	அரசியல்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	28	obj	28:obj	Translit=araciyalai|LTranslit=araciyal

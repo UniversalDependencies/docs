@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 4 8 expl	color:blue
 1	Ar	an	DET	det	_	2	det	_	_
 2	mab	mab	NOUN	n	Gender=Masc|Number=Sing	4	obj	_	_
-3	a	a	PART	vpart	_	4	aux	_	_
+3	a	a	AUX	vpart	_	4	aux	_	_
 4	welas	gwelout	VERB	vblex	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	ar	an	DET	det	_	6	det	_	_
 6	plac'h	plac’h	NOUN	n	Gender=Fem|Number=Sing	4	nsubj	_	_

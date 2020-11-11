@@ -13,7 +13,7 @@ This relation is universal.
 42 instances of `conj` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.07142857142857.
 
-The following 8 pairs of parts of speech are connected with `conj`: <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> (23; 55% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> (7; 17% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt> (6; 14% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt>-<tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sq_tsa-pos-PRON.html">PRON</a></tt>-<tt><a href="sq_tsa-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="sq_tsa-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sq_tsa-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `conj`: <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> (23; 55% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> (8; 19% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt> (6; 14% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt>-<tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sq_tsa-pos-PRON.html">PRON</a></tt>-<tt><a href="sq_tsa-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="sq_tsa-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sq_tsa-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 8 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 7 conj	color:blue
 1	Shpesh	shpesh	ADV	_	_	5	advmod	5:advmod	_
-2	këto	kjo	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	3	det	3:det	_
+2	këto	kjo	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	3	det	3:det	_
 3	rryma	rrym	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nsubj	5:nsubj	_
 4	janë	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	aux	5:aux	_
 5	krijuar	krijoj	VERB	_	VerbForm=Part	0	root	0:root	_
@@ -62,10 +62,10 @@ The following 8 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 11 conj	color:blue
-1	Kjo	kjo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	3:nsubj	_
-2	u	ata	PRON	_	Number=Plur|Person=3|PronType=Prs	3	expl	3:expl	_
+1	Kjo	kjo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	3:nsubj	_
+2	u	ata	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	expl	3:expl	_
 3	lejon	lejoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	0:root	_
-4	atyre	ata	PRON	_	Gender=Masc|Number=Plur|PronType=Emp	3	iobj	3:iobj	_
+4	atyre	ata	PRON	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Emp	3	iobj	3:iobj	_
 5	të	të	PART	_	_	6	mark	6:mark	_
 6	ndërtojnë	ndërtoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	3	ccomp	3:ccomp	_
 7	fshatra	fshat	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|NounType=Het|Number=Plur	6	obj	6:obj	_

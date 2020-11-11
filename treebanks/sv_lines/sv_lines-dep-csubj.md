@@ -46,7 +46,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 2	roligt	rolig	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 3	att	att	PART	_	_	4	mark	_	_
 4	träffas	träffas	VERB	INF-PASS	VerbForm=Inf|Voice=Pass	2	csubj	_	SpaceAfter=No
-5	,	,	PUNCT	Comma	_	2	punct	_	_
+5	,	,	PUNCT	Comma	_	8	punct	_	_
 6	Ron	Ron	PROPN	SG-NOM	Case=Nom	8	nsubj	_	_
 7	har	ha	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
 8	berättat	berätta	VERB	SUP-ACT	VerbForm=Sup|Voice=Act	2	parataxis	_	_

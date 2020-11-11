@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-92 nodes (1%) are attached to their parents as `ccomp`.
+95 nodes (1%) are attached to their parents as `ccomp`.
 
-89 instances of `ccomp` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.31521739130435.
+92 instances of `ccomp` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.35789473684211.
 
-The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (70; 76% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (5; 5% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (73; 77% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (5; 5% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

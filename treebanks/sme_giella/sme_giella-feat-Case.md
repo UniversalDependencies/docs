@@ -12,7 +12,7 @@ It occurs with 8 different values: `Abe`, `Acc`, `Com`, `Ess`, `Gen`, `Ill`, `Lo
 10832 tokens (40%) have a non-empty value of `Case`.
 5109 types (67%) occur at least once with a non-empty value of `Case`.
 2932 lemmas (67%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (6374; 24% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (2610; 10% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (875; 3% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (515; 2% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (344; 1% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (113; 0% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (6374; 24% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (2610; 10% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (875; 3% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (515; 2% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (344; 1% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (111; 0% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -140,17 +140,17 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `VERB`
 
-113 <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Case`.
+111 <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (113; 100%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (113; 100%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (113; 100%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (113; 100%), <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (113; 100%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="sme_giella-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (111; 100%).
 
 `VERB` tokens may have the following values of `Case`:
 
 * `Abe` (11; 10% of non-empty `Case`): <em>beroškeahttá, eahpitkeahttá, logakeahttá, bážikeahttá, dieđikeahttá, mávssekeahtes</em>
-* `Ess` (66; 58% of non-empty `Case`): <em>boahtimin, fárremin, leamen, čierastallame, bargame, bargamin, bassaladdame, bassame, boahtime, oađđimin</em>
-* `Gen` (24; 21% of non-empty `Case`): <em>vácci, čuoigga, gudnejahttin, ráhkistan, Mearkkašan, Suga, bora, fuopmášan, namahan, njága</em>
+* `Ess` (64; 58% of non-empty `Case`): <em>boahtimin, fárremin, leamen, čierastallame, bargame, bargamin, bassaladdame, bassame, boahtime, oađđimin</em>
+* `Gen` (24; 22% of non-empty `Case`): <em>vácci, čuoigga, gudnejahttin, ráhkistan, Mearkkašan, Suga, bora, fuopmášan, namahan, njága</em>
 * `Loc` (12; 11% of non-empty `Case`): <em>goargŋumis, juhkamis, bargamis, borgguheames, botkemis, deaivvadeamis, gođđimis, guldaleames, jáhkkimis, vuostáváldimis</em>
-* `EMPTY` (5574): <em>lea, leat, ii, lei, ledje, eai, lean, galgá, sáhttá, in</em>
+* `EMPTY` (4199): <em>lea, leat, lei, ledje, bođii, boahtá, manai, vuolgit, ožžon, dieđe</em>
 
 <table>
   <tr><th>Paradigm <i>bargat</i></th><th><tt>Loc</tt></th><th><tt>Ess</tt></th></tr>
@@ -161,22 +161,22 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `AUX`
 
-1 <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
+3 <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="sme_giella-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (3; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 
-* `Ess` (1; 100% of non-empty `Case`): <em>leamen</em>
-* `EMPTY` (616): <em>lea, leat, lei, ledje, leamaš, lean, livččii, leaba, leago, livčče</em>
+* `Ess` (3; 100% of non-empty `Case`): <em>leamen, áigume, áigumin</em>
+* `EMPTY` (1991): <em>lea, leat, ii, lei, eai, ledje, galgá, lean, sáhttá, in</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> NOUN</tt> (318; 95%),
+<tt>NOUN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> NOUN</tt> (320; 96%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-det.html">det</a></tt>]--> PRON</tt> (169; 93%),
 <tt>ADJ --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (118; 98%),
-<tt>ADJ --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (75; 100%),
+<tt>ADJ --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (76; 100%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (74; 74%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (66; 77%),
 <tt>PROPN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> PROPN</tt> (42; 84%),

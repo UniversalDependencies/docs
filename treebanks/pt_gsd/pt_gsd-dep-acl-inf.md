@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-GSD: Relations: `acl:inf`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="pt_gsd-dep-acl.html">acl</a></tt>.
 There are also 2 other language-specific subtypes of `acl`: <tt><a href="pt_gsd-dep-acl-part.html">acl:part</a></tt>, <tt><a href="pt_gsd-dep-acl-relcl.html">acl:relcl</a></tt>.
 
 61 nodes (0%) are attached to their parents as `acl:inf`.

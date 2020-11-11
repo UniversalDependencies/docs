@@ -27,8 +27,8 @@ The following 1 pairs of parts of speech are connected with `compound:prt`: <tt>
 3	grusomt	grusom	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 4	å	å	PART	_	_	5	mark	_	_
 5	høre	høre	VERB	_	VerbForm=Inf	3	advcl	_	_
-6	på	på	ADP	_	_	5	compound:prt	_	_
-7	.	$.	PUNCT	_	_	3	punct	_	_
+6	på	på	ADP	_	_	5	compound:prt	_	SpaceAfter=No
+7	.	$.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 8	»	$"	PUNCT	_	_	3	punct	_	_
 
 ~~~

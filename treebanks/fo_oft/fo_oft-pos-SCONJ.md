@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Faroese-OFT: POS Tags: `SCONJ`
 
 There are 7 `SCONJ` lemmas (0%), 7 `SCONJ` types (0%) and 48 `SCONJ` tokens (0%).
-Out of 15 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 12 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>sum, at, ið, meðan, tí, hóast, um</em>
 
@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>sum</em> (<tt><a href="fo_oft-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.289602).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.290924).
 
 The 1st highest number of forms (1) was observed with the lemma “at”: <em>at</em>.
 

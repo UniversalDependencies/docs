@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-43819 tokens (17%) have a non-empty value of `VerbForm`.
+43818 tokens (17%) have a non-empty value of `VerbForm`.
 4471 types (23%) occur at least once with a non-empty value of `VerbForm`.
 2077 lemmas (13%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (28407; 11% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (15412; 6% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (28405; 11% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (15413; 6% instances).
 
 ### `VERB`
 
-28407 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+28405 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17074; 60%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17073; 60%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (11332; 40% of non-empty `VerbForm`): <em>have, is, had, said, has, are, want, need, let, think</em>
+* `Fin` (11331; 40% of non-empty `VerbForm`): <em>have, is, had, said, has, are, want, need, let, think</em>
 * `Ger` (2781; 10% of non-empty `VerbForm`): <em>going, getting, looking, following, including, taking, having, using, doing, regarding</em>
-* `Inf` (8714; 31% of non-empty `VerbForm`): <em>have, get, know, do, go, make, take, see, like, find</em>
+* `Inf` (8713; 31% of non-empty `VerbForm`): <em>have, get, know, do, go, make, take, see, like, find</em>
 * `Part` (5580; 20% of non-empty `VerbForm`): <em>going, had, attached, done, made, used, based, called, doing, looking</em>
 * `EMPTY` (1): <em>rays</em>
 
@@ -45,15 +45,15 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-15412 <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+15413 <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10177; 66%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10173; 66%), <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9202; 60%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10178; 66%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10174; 66%), <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9202; 60%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Fin` (13393; 87% of non-empty `VerbForm`): <em>is, will, can, would, was, are, could, do, should, have</em>
 * `Ger` (176; 1% of non-empty `VerbForm`): <em>being, having, getting</em>
-* `Inf` (1435; 9% of non-empty `VerbForm`): <em>be, have, get, do, of, am, 've, are, b</em>
+* `Inf` (1436; 9% of non-empty `VerbForm`): <em>be, have, get, do, of, am, 've, are, b</em>
 * `Part` (408; 3% of non-empty `VerbForm`): <em>been</em>
 
 <table>

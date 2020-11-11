@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="et_ewt-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-1640 nodes (4%) are attached to their parents as `cc`.
+2055 nodes (4%) are attached to their parents as `cc`.
 
-1638 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.66524390243902.
+2052 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.61021897810219.
 
-The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (836; 51% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (435; 27% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (154; 9% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (94; 6% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (60; 4% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (39; 2% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (16; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1034; 50% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (540; 26% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (197; 10% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (117; 6% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (75; 4% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (66; 3% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (17; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="e
 2	pärast	pärast	ADV	D	_	5	advmod	5:advmod	_
 3	kodumaale	kodu_maa	NOUN	S	Case=All|Number=Sing	4	obl	4:obl	_
 4	naastes	naasma	VERB	V	VerbForm=Conv	5	advcl	5:advcl	_
-5	istutaks	istuma	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+5	istutaks	istutama	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	ühe	üks	DET	P	Case=Gen|Number=Sing|PronType=Ind	7	det	7:det	_
 7	tammepuu	tamme_puu	NOUN	S	Case=Gen|Number=Sing	5	obj	5:obj	_
 8	minu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	nmod	9:nmod	_
@@ -46,7 +46,7 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="e
 2	paari	paar	NUM	N	Case=Gen|Number=Sing|NumType=Card	3	nummod	3:nummod	_
 3	aasta	aasta	NOUN	S	Case=Gen|Number=Sing	0	root	5.1:obl	_
 4	pärast	pärast	ADP	K	AdpType=Post	3	case	3:case	_
-5	rôômalt	rõõmsalt	ADV	D	_	3	advmod	5.1:advmod	Orphan=Yes
+5	rôômalt	rõõmsalt	ADV	D	Typo=Yes	3	advmod	5.1:advmod	Orphan=Yes|CorrectForm=rõõmsalt
 6	maasikatele	maasikas	NOUN	S	Case=All|Number=Plur	3	obl	5.1:obl	Orphan=Yes
 7	...	...	PUNCT	Z	_	3	punct	5.1:punct	_
 

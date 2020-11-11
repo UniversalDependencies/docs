@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-1009 tokens (12%) have a non-empty value of `Person`.
+1008 tokens (12%) have a non-empty value of `Person`.
 87 types (6%) occur at least once with a non-empty value of `Person`.
 84 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 9 part-of-speech tags: <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (991; 12% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (990; 12% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-991 <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Person`.
+990 <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (991; 100%), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (659; 66%), <tt><a href="yo_ytb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (549; 55%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (990; 100%), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (659; 67%), <tt><a href="yo_ytb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (549; 55%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (177; 18% of non-empty `Person`): <em>a, mi, èmi, mo, mí, wa, bíi, àwa, Nnaji, à</em>
-* `2` (213; 21% of non-empty `Person`): <em>ẹ, yín, ìwọ, rẹ, ẹ̀yin, ọ, ọ́, alàtúnkọ, jọ, mọ</em>
-* `3` (601; 61% of non-empty `Person`): <em>ó, rẹ̀, wọn, wọ́n, un, i, òun, a, tirẹ̀, àwọn</em>
-* `EMPTY` (370): <em>tí, ẹni, ara, èyí, náà, àwọn, ẹnikẹ́ni, wọ́n, ti, ẹ</em>
+* `2` (213; 22% of non-empty `Person`): <em>ẹ, yín, ìwọ, rẹ, ẹ̀yin, ọ, ọ́, alàtúnkọ, jọ, mọ</em>
+* `3` (600; 61% of non-empty `Person`): <em>ó, rẹ̀, wọn, wọ́n, un, i, òun, a, tirẹ̀, á</em>
+* `EMPTY` (367): <em>tí, ẹni, ara, èyí, náà, ẹnikẹ́ni, wọ́n, àwọn, ti, ẹ</em>
 
 <table>
   <tr><th>Paradigm <i>ó</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 * `1` (4; 80% of non-empty `Person`): <em>gidi, tíkòsi´</em>
 * `3` (1; 20% of non-empty `Person`): <em>Bìrìtìkó</em>
-* `EMPTY` (193): <em>ọ̀pọ̀, ńlá, Alábùkún, dára, irú, àìmọ́, rere, mìíràn, tósòro, náà</em>
+* `EMPTY` (191): <em>ọ̀pọ̀, ńlá, Alábùkún, dára, irú, àìmọ́, rere, mìíràn, tósòro, náà</em>
 
 ### `AUX`
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Dag Haug.
 
 Repository: [UD_Latin-PROIEL](https://github.com/UniversalDependencies/UD_Latin-PROIEL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_proiel26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_proiel27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-NC-SA 3.0
 

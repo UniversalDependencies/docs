@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 5304 tokens (55%) have a non-empty value of `Person`.
-2513 types (70%) occur at least once with a non-empty value of `Person`.
+2512 types (70%) occur at least once with a non-empty value of `Person`.
 1507 lemmas (74%) occur at least once with a non-empty value of `Person`.
 The feature is used with 7 part-of-speech tags: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (2753; 29% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1370; 14% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (477; 5% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (437; 5% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (236; 2% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (15; 0% instances).
 
@@ -23,6 +23,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 `NOUN` tokens may have the following values of `Person`:
 
 * `3` (2753; 100% of non-empty `Person`): அரசு, நாடுகள், தலைவர், செயலாளர், முதல்வர், பேர், ஆண்டு, மக்கள், அதிகாரிகள், அமைச்சர்
+* `EMPTY` (5): சர்வதேச, நிரந்தர, மத, வகுப்புவாத, விரிவாக்க
 
 `Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (834) occur only with one value of `Person`.
 
@@ -40,7 +41,7 @@ The most frequent other feature values with which `PROPN` and `Person` co-occurr
 
 ### `AUX`
 
-477 <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Person`.
+477 <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ta_ttb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (466; 98%), <tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (419; 88%), <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (419; 88%), <tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (401; 84%), <tt><a href="ta_ttb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (392; 82%), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (355; 74%), <tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (351; 74%).
 
@@ -49,7 +50,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `1` (15; 3% of non-empty `Person`): உள்ளோம், உள்ளேன், கொள்கிறேன், மாட்டேன், இருக்கிறேன், இருக்கிறோம், போனேன், வருகிறோம்
 * `2` (2; 0% of non-empty `Person`): இருக்கிறீர்கள், வருகிறீர்கள்
 * `3` (460; 96% of non-empty `Person`): உள்ளது, வேண்டும், உள்ளார், இல்லை, பட்டது, உள்ளனர், உள்ளன, வருகின்றனர், இருந்தது, ப்படும்
-* `EMPTY` (151): பட்ட், பட்டு, கொண்டு, ப்பட, செய்து, கொண்ட், செய்த், விட்டு, செய்ய, செய்யப்
+* `EMPTY` (157): பட்ட், பட்டு, கொண்டு, ப்பட, செய்து, கொண்ட், செய்த், உள்ள, வந்து, விட்டு
 
 <table>
   <tr><th>Paradigm <i>இரு</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -68,7 +69,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `VERB`
 
-437 <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Person`.
+437 <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> tokens (35% of all `VERB` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ta_ttb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (435; 100%), <tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (434; 99%), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (351; 80%), <tt><a href="ta_ttb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (300; 69%), <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (300; 69%), <tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (299; 68%), <tt><a href="ta_ttb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (294; 67%), <tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (270; 62%), <tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (234; 54%).
 
@@ -77,7 +78,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (19; 4% of non-empty `Person`): போராடுவோம், வாழ்ந்தோம், ஆற்றுகிறோம், உள்ளேன், எதிர்க்கிறோம், கட்டுவோம், கருதுகிறேன், கேட்டுக்கொள்கிறேன், செய்கிறோம், செய்வோம்
 * `2` (4; 1% of non-empty `Person`): அஞ்சுகிறீர்கள், இருங்கள், கவலைப்படாதீர்கள், விரும்புகிறீர்கள்
 * `3` (414; 95% of non-empty `Person`): தெரிவித்தார், என்றார், உள்ளது, கூறினார், தெரிகிறது, தெரிவித்தன, நடைபெறும், உயிரிழந்தனர், இருக்கும், இருந்தார்
-* `EMPTY` (733): தெரிவித்த், செய்து, தெரிவிக்கப், செய்யப், கொண்டு, கலந்து, கூறிய், வெளியிட்ட், வழங்கப், நியமிக்கப்
+* `EMPTY` (817): தெரிவித்த், செய்து, தெரிவிக்கப், செய்யப், கொண்டு, கலந்து, கூறிய், வழங்கப், வெளியிட்ட், நியமிக்கப்
 
 <table>
   <tr><th>Paradigm <i>செய்</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -125,7 +126,7 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 `NUM` tokens may have the following values of `Person`:
 
 * `3` (16; 100% of non-empty `Person`): ஒன்றை, 10-க்க், 1200க்க், 15-ல், 18-ல், 1992-96ல், 1995ல், 2009-ல், 444-ல், ஆயிரத்த்
-* `EMPTY` (236): இரு, 2, ஆயிரம், மூன்று, லட்சம், 10, 20, 3, 80, இரண்டு
+* `EMPTY` (258): இரு, 2, ஆயிரம், மூன்று, லட்சம், 10, 20, 3, 80, இரண்டு
 
 `Person` seems to be **lexical feature** of `NUM`. 100% lemmas (13) occur only with one value of `Person`.
 
@@ -144,11 +145,11 @@ The most frequent other feature values with which `PART` and `Person` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (690; 100%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (687; 100%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (687; 99%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (179; 100%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (145; 100%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (95; 100%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (85; 54%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (95; 99%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (85; 53%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (82; 100%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (59; 100%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (40; 82%),

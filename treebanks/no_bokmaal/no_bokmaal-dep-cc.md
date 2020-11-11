@@ -24,10 +24,10 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 3 1 cc	color:blue
 1	Og	og	CCONJ	_	_	3	cc	_	_
 2	Aftenposten	Aftenposten	PROPN	_	Gender=Masc	3	nsubj	_	_
-3	leverer	levere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	leverer	levere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	,	$,	PUNCT	_	_	6	punct	_	_
 5	også	også	ADV	_	_	6	advmod	_	_
-6	her	her	ADV	_	_	3	advmod	_	_
+6	her	her	ADV	_	_	3	advmod	_	SpaceAfter=No
 7	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -48,8 +48,8 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 7	og	og	CCONJ	_	_	8	cc	_	_
 8	holdningene	holdning	NOUN	_	Definite=Def|Gender=Fem|Number=Plur	6	conj	_	_
 9	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
-10	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
-11	.	$.	PUNCT	_	_	2	punct	_	_
+10	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	SpaceAfter=No
+11	.	$.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 12	»	$"	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -70,7 +70,7 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 7	viktig	viktig	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	10	amod	_	_
 8	og	og	CCONJ	_	_	9	cc	_	_
 9	vanskelig	vanskelig	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	7	conj	_	_
-10	oppgave	oppgave	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	_
+10	oppgave	oppgave	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 11	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~

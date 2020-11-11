@@ -13,7 +13,7 @@ This relation is universal.
 30 instances of `advmod` (83%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.22222222222222.
 
-The following 9 pairs of parts of speech are connected with `advmod`: <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt> (11; 31% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sq_tsa-pos-PART.html">PART</a></tt> (7; 19% instances), <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt> (5; 14% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-PART.html">PART</a></tt> (4; 11% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt> (3; 8% instances), <tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt>-<tt><a href="sq_tsa-pos-PART.html">PART</a></tt> (3; 8% instances), <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_tsa-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances).
+The following 9 pairs of parts of speech are connected with `advmod`: <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt> (12; 33% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sq_tsa-pos-PART.html">PART</a></tt> (7; 19% instances), <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt> (4; 11% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-PART.html">PART</a></tt> (4; 11% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt> (3; 8% instances), <tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt>-<tt><a href="sq_tsa-pos-PART.html">PART</a></tt> (3; 8% instances), <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_tsa-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_tsa-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 1 advmod	color:blue
 1	Shpesh	shpesh	ADV	_	_	5	advmod	5:advmod	_
-2	këto	kjo	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	3	det	3:det	_
+2	këto	kjo	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	3	det	3:det	_
 3	rryma	rrym	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nsubj	5:nsubj	_
 4	janë	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	aux	5:aux	_
 5	krijuar	krijoj	VERB	_	VerbForm=Part	0	root	0:root	_

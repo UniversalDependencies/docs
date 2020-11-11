@@ -75,9 +75,9 @@ Examples: <em>é, está, pode, vai, ten, hai, debe, vén, deixa, e</em>
 
 Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (250; 41% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (162; 27% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (110; 18% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (56; 9% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (20; 3% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 0% instances),  (1; 0% instances)
 
-603 (99%) `AUX` nodes are leaves.
+604 (99%) `AUX` nodes are leaves.
 
-5 (1%) `AUX` nodes have one child.
+4 (1%) `AUX` nodes have one child.
 
 0 (0%) `AUX` nodes have two children.
 
@@ -85,7 +85,7 @@ Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="gl_t
 
 The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 3 different relations: <tt><a href="gl_treegal-dep-punct.html">punct</a></tt> (4; 50% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (3; 38% instances), <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (1; 13% instances)
+Children of `AUX` nodes are attached using 3 different relations: <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (3; 43% instances), <tt><a href="gl_treegal-dep-punct.html">punct</a></tt> (3; 43% instances), <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (1; 14% instances)
 
-Children of `AUX` nodes belong to 5 different parts of speech: <tt><a href="gl_treegal-pos-PUNCT.html">PUNCT</a></tt> (4; 50% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 13% instances), <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> (1; 13% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 13% instances)
+Children of `AUX` nodes belong to 5 different parts of speech: <tt><a href="gl_treegal-pos-PUNCT.html">PUNCT</a></tt> (3; 43% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 14% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 14% instances), <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> (1; 14% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 14% instances)
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_North_Sami-Giella: POS Tags: `PART`
 
 There are 16 `PART` lemmas (0%), 16 `PART` types (0%) and 255 `PART` tokens (1%).
-Out of 14 observed tags, the rank of `PART` is: 10 in number of lemmas, 11 in number of types and 13 in number of tokens.
+Out of 14 observed tags, the rank of `PART` is: 11 in number of lemmas, 11 in number of types and 13 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>go, ge, dat, na, goit, han, son, amma, ges, nai</em>
 
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>go</em> (<tt><a href="sme_giella-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.745041).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.749612).
 
 The 1st highest number of forms (1) was observed with the lemma “almma”: <em>Almma</em>.
 

@@ -41,7 +41,7 @@ The following 13 pairs of parts of speech are connected with `nmod:tmod`: <tt><a
 3	at	at	ADP	IN	_	4	case	4:case	_
 4	7	7	NUM	CD	NumType=Card	1	nmod	1:nmod:at	SpaceAfter=No
 5	,	,	PUNCT	,	_	1	punct	1:punct	_
-6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	SpaceAfter=No
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
 7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
 8	time	time	NOUN	NN	Number=Sing	1	parataxis	1:parataxis	_
 9	to	to	PART	TO	_	10	mark	10:mark	_

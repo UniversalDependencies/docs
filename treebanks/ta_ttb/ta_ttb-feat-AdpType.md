@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ta_ttb-pos-ADP.html
 
 ### `ADP`
 
-288 <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
+288 <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> tokens (98% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 

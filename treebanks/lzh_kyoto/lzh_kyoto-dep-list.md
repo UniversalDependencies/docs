@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-55 nodes (0%) are attached to their parents as `list`.
+115 nodes (0%) are attached to their parents as `list`.
 
-51 instances of `list` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.90909090909091.
+111 instances of `list` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.27826086956522.
 
-The following 8 pairs of parts of speech are connected with `list`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (27; 49% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (10; 18% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (8; 15% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `list`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (44; 38% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (24; 21% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (22; 19% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (11; 10% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -32,35 +32,38 @@ The following 8 pairs of parts of speech are connected with `list`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 list	color:blue
-1	告子	吿子	PROPN	n,名詞,人,複合的人名	NameType=Prs	0	root	_	Gloss=Gaozi|SpaceAfter=No
-2	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	1	list	_	Gloss=up|SpacesAfter=\n
+# visual-style 2 3 list	color:blue
+1	力	力	NOUN	n,名詞,不可譲,身体	_	2	nmod	_	Gloss=strength|SpaceAfter=No
+2	士	士	NOUN	n,名詞,人,役割	_	10	nsubj	_	Gloss=officer|SpaceAfter=No
+3	任	任	PROPN	n,名詞,人,姓氏	NameType=Sur	2	list	_	Gloss=[surname]|SpaceAfter=No
+4	鄙	鄙	PROPN	n,名詞,人,名	NameType=Giv	3	flat	_	Gloss=[given-name]|SpaceAfter=No
+5	烏	烏	PROPN	n,名詞,人,姓氏	NameType=Sur	2	list	_	Gloss=[surname]|SpaceAfter=No
+6	獲	獲	PROPN	n,名詞,人,名	NameType=Giv	5	flat	_	Gloss=[given-name]|SpaceAfter=No
+7	孟	孟	PROPN	n,名詞,人,姓氏	NameType=Sur	2	list	_	Gloss=[surname]|SpaceAfter=No
+8	說	說	PROPN	n,名詞,人,名	NameType=Giv	7	flat	_	Gloss=[given-name]|SpaceAfter=No
+9	皆	皆	ADV	v,副詞,範囲,総括	_	10	advmod	_	Gloss=all|SpaceAfter=No
+10	至	至	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=arrive|SpaceAfter=No
+11	大	大	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	12	amod	_	Gloss=big|SpaceAfter=No
+12	官	官	NOUN	n,名詞,人,役割	_	10	obj	_	Gloss=officer|SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 list	color:blue
-1	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	nsubj	_	Gloss=[country-name]|SpaceAfter=No
-2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-3	八	八	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=eight|SpaceAfter=No
-4	士	士	NOUN	n,名詞,人,役割	_	2	obj	_	Gloss=officer|SpaceAfter=No
-5	伯達	伯達	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
-6	伯适	伯适	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
-7	仲突	仲突	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
-8	仲忽	仲忽	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
-9	叔夜	叔夜	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
-10	叔夏	叔夏	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
-11	季隨	季隨	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
-12	季騧	季騧	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpacesAfter=\n
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 list	color:blue
+1	少昊	少昊	PROPN	n,名詞,人,名	NameType=Giv	5	nsubj	_	Gloss=[given-name]|SpaceAfter=No
+2	金天	金天	PROPN	n,名詞,人,名	NameType=Giv	1	list	_	Gloss=[given-name]|SpaceAfter=No
+3	氏	氏	NOUN	n,名詞,不可譲,属性	_	2	flat	_	Gloss=lineage|SpaceAfter=No
+4	名	名	NOUN	n,名詞,不可譲,属性	_	5	nsubj	_	Gloss=name|SpaceAfter=No
+5	玄囂	玄囂	PROPN	n,名詞,人,名	NameType=Giv	0	root	_	Gloss=[given-name]|SpaceAfter=No
 
 ~~~
 

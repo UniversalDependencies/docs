@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 7 different values: `Acc`, `Com`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
 4232 tokens (44%) have a non-empty value of `Case`.
-2144 types (60%) occur at least once with a non-empty value of `Case`.
+2143 types (60%) occur at least once with a non-empty value of `Case`.
 1370 lemmas (68%) occur at least once with a non-empty value of `Case`.
 The feature is used with 7 part-of-speech tags: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (2753; 29% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1017; 11% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (236; 2% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (137; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (58; 1% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (15; 0% instances).
 
@@ -24,11 +24,12 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 * `Acc` (258; 9% of non-empty `Case`): இடத்தைய், நிலையங்களை, வெடிகளை, அணையை, அரசை, ஆட்சியை, உத்தரவை, ஊதியத்தை, பணிகளை, பேச்சுவார்த்தை
 * `Com` (13; 0% of non-empty `Case`): மனிதாபிமானத்தோடு, அமைப்புடன், அவருடன், உயிருடன், சிலருடன், தங்கப்பதக்கத்துடன், துணையோடு, நம்பிக்கையோடு, நேயத்துடன், நேயத்தோடு
-* `Dat` (163; 6% of non-empty `Case`): மணிக்கு, பேருக்க், மக்களுக்கு, அரசுக்கு, ஆண்டுக்கு, ஆண்டுகளுக்குப், அளவுக்கு, குற்றத்துக்க், கோடிக்க், தொகுதிகளுக்க்
+* `Dat` (163; 6% of non-empty `Case`): மணிக்கு, ஆண்டுக்கு, பேருக்க், மக்களுக்கு, அரசுக்கு, ஆண்டுகளுக்குப், அளவுக்கு, குற்றத்துக்க், கோடிக்க், தொகுதிகளுக்க்
 * `Gen` (102; 4% of non-empty `Case`): அரசின், நாடுகளின், நாட்டின், சட்டத்தின், சபையின், புலிகளின், அணியின், அமைப்பின், சங்கத்தின், நிறுவனத்தின்
 * `Ins` (11; 0% of non-empty `Case`): காரணத்தால், ஒப்பந்தத்தால், செயல்களால், தங்கத்தால், நோயால், பித்தளையால், பிரச்னையால், போரினால், முயற்சியால், விடுதலைப்புலிகளால்
 * `Loc` (398; 14% of non-empty `Case`): நிலையில், அறிக்கையில், பகுதியில், வகையில், கவுன்சிலில், தலைமையில், அளவில், சிறையில், முறையில், இடத்தில்
 * `Nom` (1808; 66% of non-empty `Case`): அரசு, நாடுகள், தலைவர், செயலாளர், முதல்வர், பேர், ஆண்டு, மக்கள், அதிகாரிகள், அமைச்சர்
+* `EMPTY` (5): சர்வதேச, நிரந்தர, மத, வகுப்புவாத, விரிவாக்க
 
 <table>
   <tr><th>Paradigm <i>அரசு</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
@@ -81,7 +82,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `VERB`
 
-137 <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `Case`.
+137 <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> tokens (11% of all `VERB` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (137; 100%), <tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (137; 100%), <tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt> (137; 100%), <tt><a href="ta_ttb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (137; 100%), <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (137; 100%), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (136; 99%), <tt><a href="ta_ttb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (136; 99%), <tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (135; 99%), <tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt> (78; 57%).
 
@@ -93,7 +94,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ins` (6; 4% of non-empty `Case`): அளிக்காததால், ஆகியதால், ஆனதால், இல்லாததால், புறக்கணிப்பதால், போட்டியிடுவதால்
 * `Loc` (11; 8% of non-empty `Case`): நிறைவேற்றுவதில், உள்ளதால், கிடைத்ததில், கையெழுத்தாவதில், சுத்தப்படுத்துவதில், செயல்படுத்துவதில், தொகுத்ததில், மோதியதில், விபத்துக்குள்ளானதில், வெடித்ததில்
 * `Nom` (88; 64% of non-empty `Case`): கூறியத், உயிரிழந்தத், உயிரிழப்பத், நம்புவத், பேசியத், இருந்தத், ஈடுபட்டது, செயல்படுவதற்க், செய்தத், நடத்தியத்
-* `EMPTY` (1033): தெரிவித்தார், தெரிவித்த், என்றார், செய்து, தெரிவிக்கப், செய்யப், உள்ளது, கூறினார், கொண்டு, கலந்து
+* `EMPTY` (1117): தெரிவித்தார், தெரிவித்த், என்றார், செய்து, தெரிவிக்கப், செய்யப், உள்ளது, கூறினார், கொண்டு, கலந்து
 
 <table>
   <tr><th>Paradigm <i>கூறு</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -114,7 +115,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Dat` (4; 7% of non-empty `Case`): பட்டதற்கு, கொண்டதற்க்
 * `Ins` (2; 3% of non-empty `Case`): உள்ளதால்
 * `Nom` (50; 86% of non-empty `Case`): உள்ளத், இருப்பத், விட்டத், பட்டது, போவத், வருவது, இருப்பது, கொண்டத், கொள்ளல், பட்டத்
-* `EMPTY` (570): உள்ளது, பட்ட், வேண்டும், உள்ளார், இல்லை, உள்ளனர், பட்டது, பட்டு, உள்ளன, வருகின்றனர்
+* `EMPTY` (576): உள்ளது, பட்ட், வேண்டும், உள்ளார், இல்லை, பட்டு, உள்ளனர், பட்டது, உள்ளன, வருகின்றனர்
 
 <table>
   <tr><th>Paradigm <i>உள்</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Ins</tt></th></tr>
@@ -133,7 +134,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 * `Dat` (3; 19% of non-empty `Case`): 10-க்க், 1200க்க், ஒன்றுக்கு
 * `Loc` (10; 63% of non-empty `Case`): 15-ல், 18-ல், 1992-96ல், 1995ல், 2009-ல், 444-ல், ஆயிரத்த், ஐந்தில், ஒன்றில், மூன்றில்
 * `Nom` (1; 6% of non-empty `Case`): ஒருவர்
-* `EMPTY` (236): இரு, 2, ஆயிரம், மூன்று, லட்சம், 10, 20, 3, 80, இரண்டு
+* `EMPTY` (258): இரு, 2, ஆயிரம், மூன்று, லட்சம், 10, 20, 3, 80, இரண்டு
 
 <table>
   <tr><th>Paradigm <i>ஒன்று</i></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th></tr>
@@ -166,7 +167,7 @@ The most frequent other feature values with which `PART` and `Case` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (136; 76%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (114; 79%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (88; 93%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (88; 92%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (75; 91%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (26; 96%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (16; 84%),

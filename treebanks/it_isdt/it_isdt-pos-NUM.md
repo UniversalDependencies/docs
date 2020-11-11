@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>1</em> (<tt><a href="it_isdt-pos-NUM.
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.010610 (the average of all parts of speech is 1.480768).
+The form / lemma ratio of `NUM` is 1.010610 (the average of all parts of speech is 1.481009).
 
 The 1st highest number of forms (3) was observed with the lemma “cinquanta”: <em>cinquant', cinquanta, cinquant’</em>.
 
@@ -64,12 +64,12 @@ The 2nd highest number of forms (3) was observed with the lemma “uno”: <em>u
 
 The 3rd highest number of forms (3) was observed with the lemma “venti”: <em>vent', venti, vent’</em>.
 
-`NUM` occurs with 1 features: <tt><a href="it_isdt-feat-NumType.html">NumType</a></tt> (5181; 100% instances)
+`NUM` occurs with 1 features: <tt><a href="it_isdt-feat-NumType.html">NumType</a></tt> (5188; 100% instances)
 
 `NUM` occurs with 3 feature-value pairs: `NumType=Card`, `NumType=Ord`, `NumType=Range`
 
-`NUM` occurs with 4 feature combinations.
-The most frequent feature combination is `NumType=Card` (5176 tokens).
+`NUM` occurs with 3 feature combinations.
+The most frequent feature combination is `NumType=Card` (5183 tokens).
 Examples: <em>due, 1, 2, tre, 3, cinque, 4, mila, quattro, 5</em>
 
 

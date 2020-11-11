@@ -75,9 +75,9 @@ Examples: <em>olarak, olan, ise, olduğunu, olduğu, olup, olacağını, olabile
 
 Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (283; 58% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (151; 31% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (19; 4% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (16; 3% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (13; 3% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
-483 (99%) `AUX` nodes are leaves.
+484 (99%) `AUX` nodes are leaves.
 
-5 (1%) `AUX` nodes have one child.
+4 (1%) `AUX` nodes have one child.
 
 0 (0%) `AUX` nodes have two children.
 
@@ -85,7 +85,7 @@ Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="tr_pu
 
 The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 4 different relations: <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (5; 63% instances), <tt><a href="tr_pud-dep-case.html">case</a></tt> (1; 13% instances), <tt><a href="tr_pud-dep-obj.html">obj</a></tt> (1; 13% instances), <tt><a href="tr_pud-dep-obl.html">obl</a></tt> (1; 13% instances)
+Children of `AUX` nodes are attached using 4 different relations: <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (4; 57% instances), <tt><a href="tr_pud-dep-case.html">case</a></tt> (1; 14% instances), <tt><a href="tr_pud-dep-obj.html">obj</a></tt> (1; 14% instances), <tt><a href="tr_pud-dep-obl.html">obl</a></tt> (1; 14% instances)
 
-Children of `AUX` nodes belong to 3 different parts of speech: <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (5; 63% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (1; 13% instances)
+Children of `AUX` nodes belong to 3 different parts of speech: <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (4; 57% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (2; 29% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (1; 14% instances)
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sms_giellagas-dep-advcl.html">advcl</a></tt>.
 
-1 nodes (0%) are attached to their parents as `advcl:tmod`.
+2 nodes (0%) are attached to their parents as `advcl:tmod`.
 
-1 instances of `advcl:tmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.
+2 instances of `advcl:tmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.5.
 
-The following 1 pairs of parts of speech are connected with `advcl:tmod`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `advcl:tmod`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (2; 100% instances).
 
 
 ~~~ conllu

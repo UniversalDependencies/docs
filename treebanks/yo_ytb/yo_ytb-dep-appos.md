@@ -132,7 +132,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 23	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	29	punct	_	_
 25	sùgbọ̀n	sùgbọ̀n	CCONJ	_	_	29	cc	_	_
-26	àwọn	àwọn	DET	_	_	27	det	_	_
+26	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	27	det	_	_
 27	nọ́mbà	nọ́mbà	NOUN	_	_	29	nsubj	_	_
 28	tósòro	tósòro	ADJ	_	_	27	amod	_	_
 29	ní	ní	VERB	_	_	8	conj	_	SpaceAfter=No

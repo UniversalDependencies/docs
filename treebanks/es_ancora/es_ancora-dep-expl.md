@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Spanish-AnCora: Relations: `expl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `expl`: <tt><a href="es_ancora-dep-expl-pass.html">expl:pass</a></tt>.
+There are 3 language-specific subtypes of `expl`: <tt><a href="es_ancora-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="es_ancora-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="es_ancora-dep-expl-pv.html">expl:pv</a></tt>.
 
 1 nodes (0%) are attached to their parents as `expl`.
 

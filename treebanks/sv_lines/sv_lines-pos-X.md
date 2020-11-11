@@ -44,9 +44,9 @@ Examples: <em>W3C, foie, TSQL, maris, stella, .adp, .lpk, .mdb, .odc, .udl</em>
 
 Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (14; 52% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (5; 19% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (3; 11% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (1; 4% instances)
 
-7 (26%) `X` nodes are leaves.
+8 (30%) `X` nodes are leaves.
 
-6 (22%) `X` nodes have one child.
+5 (19%) `X` nodes have one child.
 
 11 (41%) `X` nodes have two children.
 
@@ -54,7 +54,7 @@ Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="sv_line
 
 The highest child degree of a `X` node is 4.
 
-Children of `X` nodes are attached using 9 different relations: <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (27; 69% instances), <tt><a href="sv_lines-dep-flat.html">flat</a></tt> (5; 13% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-appos.html">appos</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-case.html">case</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-nummod.html">nummod</a></tt> (1; 3% instances)
+Children of `X` nodes are attached using 9 different relations: <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (26; 68% instances), <tt><a href="sv_lines-dep-flat.html">flat</a></tt> (5; 13% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-appos.html">appos</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-case.html">case</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-nummod.html">nummod</a></tt> (1; 3% instances)
 
-Children of `X` nodes belong to 7 different parts of speech: <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (27; 69% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (5; 13% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (1; 3% instances)
+Children of `X` nodes belong to 7 different parts of speech: <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (26; 68% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (5; 13% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (1; 3% instances)
 

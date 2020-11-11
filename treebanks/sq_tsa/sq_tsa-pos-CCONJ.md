@@ -33,20 +33,14 @@ The 2nd highest number of forms (1) was observed with the lemma “dhe”: <em>d
 
 The 3rd highest number of forms (1) was observed with the lemma “edhe”: <em>edhe</em>.
 
-`CCONJ` occurs with 1 features: <tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt> (1; 3% instances)
-
-`CCONJ` occurs with 1 feature-value pairs: `Gender=Fem`
-
-`CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (36 tokens).
-Examples: <em>dhe, ose, apo, edhe</em>
+`CCONJ` does not occur with any features.
 
 
 ## Relations
 
 `CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="sq_tsa-dep-cc.html">cc</a></tt> (36; 97% instances), <tt><a href="sq_tsa-dep-advmod.html">advmod</a></tt> (1; 3% instances)
 
-Parents of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> (22; 59% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> (8; 22% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt> (4; 11% instances), <tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sq_tsa-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="sq_tsa-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
+Parents of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> (21; 57% instances), <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> (9; 24% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt> (4; 11% instances), <tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sq_tsa-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="sq_tsa-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
 
 37 (100%) `CCONJ` nodes are leaves.
 

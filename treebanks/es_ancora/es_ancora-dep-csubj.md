@@ -26,10 +26,10 @@ The following 31 pairs of parts of speech are connected with `csubj`: <tt><a hre
 1	Hasta	hasta	ADP	ADP	AdpType=Prep	5	mark	_	_
 2	que	que	SCONJ	SCONJ	_	5	mark	_	_
 3	no	no	ADV	ADV	Polarity=Neg	5	advmod	_	_
-4	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	obj	_	_
+4	se	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 5	acaba	acabar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
 6	no	no	ADV	ADV	Polarity=Neg	8	advmod	_	_
-7	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	obj	_	_
+7	se	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pass	_	_
 8	sabe	saber	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	dónde	dónde	PRON	PRON	PronType=Ind	11	obl	_	_
 10	puede	poder	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
@@ -67,7 +67,7 @@ The following 31 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 9 4 csubj	color:blue
 1	Lo	él	PRON	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
 2	que	que	PRON	PRON	PronType=Int,Rel	4	nsubj	_	_
-3	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	obj	_	_
+3	se	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 4	deteriora	deteriorar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	csubj	_	_
 5	con	con	ADP	ADP	AdpType=Prep	6	case	_	_
 6	estrépito	estrépito	NOUN	NOUN	Gender=Masc|Number=Sing	4	obl	_	_

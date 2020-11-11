@@ -38,7 +38,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 14	때	때	NOUN	ncn	_	16	compound	_	_
 15	그	그	DET	mmd	_	16	det	_	_
 16	서울이	서울+이	PROPN	nq+jcs	_	17	nsubj	_	_
-17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	_
+17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	sf	_	17	punct	_	_
 
 ~~~
@@ -53,7 +53,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 1	그것이	그것+이	PRON	npd+jcs	_	3	nsubj	_	_
 2	경도에	경도+에	ADV	nq+jca	_	3	obl	_	_
 3	있는	있+는	ADJ	paa+etm	_	4	amod	_	_
-4	풍국신사인데	풍국신사+이+ㄴ데	SCONJ	nq+jp+ecs	_	14	ccomp	_	_
+4	풍국신사인데	풍국신사+이+ㄴ데	SCONJ	nq+jp+ecs	_	14	ccomp	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
 6	그	그	DET	mmd	_	7	det	_	_
 7	입구에	입구+에	ADV	ncn+jca	_	11	obl	_	_
@@ -63,7 +63,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 11	돼있는	되+어+있+는	AUX	pvg+ecx+px+etm	_	12	acl	_	_
 12	그곳에	그곳+에	ADV	npd+jca	_	14	obl	_	_
 13	코를	코+를	NOUN	ncn+jco	_	14	obj	_	_
-14	묻었답니다	묻+었+답니다	VERB	pvg+ep+ef	_	0	root	_	_
+14	묻었답니다	묻+었+답니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
 
 ~~~
@@ -80,7 +80,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 3	효제동에는	효제동+에+는	PROPN	nq+jca+jxt	_	1	flat	_	_
 4	오래도록	오래도록	ADV	mag	_	6	advmod	_	_
 5	배추밭이	배추밭+이	NOUN	ncn+jcs	_	6	nsubj	_	_
-6	많았고	많+았+고	CCONJ	paa+ep+ecc	_	0	root	_	_
+6	많았고	많+았+고	CCONJ	paa+ep+ecc	_	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	sp	_	6	punct	_	_
 8	연지동은	연지동+은	PROPN	nq+jxt	_	14	dislocated	_	_
 9	남북으로	남북+으로	ADV	ncn+jca	_	11	advcl	_	_
@@ -88,7 +88,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 11	뻗힌	뻗히+ㄴ	VERB	pvg+etm	_	12	acl	_	_
 12	산언덕이	산언덕+이	NOUN	ncn+jcs	_	14	nsubj	_	_
 13	그	그	DET	mmd	_	14	det	_	_
-14	중심이다	중심+이+다	VERB	ncn+jp+ef	_	6	conj	_	_
+14	중심이다	중심+이+다	VERB	ncn+jp+ef	_	6	conj	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
 
 ~~~

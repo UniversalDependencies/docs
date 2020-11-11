@@ -16,14 +16,14 @@ The feature is used with 4 part-of-speech tags: <tt><a href="kpv_ikdp-pos-AUX.ht
 
 ### `AUX`
 
-24 <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> tokens (48% of all `AUX` tokens) have a non-empty value of `Polarity`.
+24 <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> tokens (52% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18; 75%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (18; 75%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (24; 100% of non-empty `Polarity`): <em>абу, из, ог, оз, он</em>
-* `EMPTY` (26): <em>вӧлі, выйым, вӧліс, были, вӧв, лоас, было, ло, лоо</em>
+* `EMPTY` (22): <em>вӧлі, выйым, вӧліс, были, вӧв, было</em>
 
 ### `ADV`
 

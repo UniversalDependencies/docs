@@ -52,7 +52,7 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 28	kulture	kultura	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	_
 29	i	i	CCONJ	Cc	_	30	cc	_	_
 30	turizma	turizam	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	28	conj	_	_
-31	Ertugrul	Ertugrul	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	27	appos	_	_
+31	Ertugrul	Ertugrul	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	27	flat	_	_
 32	Gunay	Gunay	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	31	flat	_	SpaceAfter=No
 33	.	.	PUNCT	Z	_	6	punct	_	_
 
@@ -78,7 +78,7 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 11	njegovih	njegov	DET	Ps3mpg	Case=Gen|Gender=Masc|Gender[psor]=Masc,Neut|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
 12	prioriteta	prioritet	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	1	ccomp	_	_
 13	kao	kao	SCONJ	Cs	_	14	case	_	_
-14	CiO-a	CiO-a	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	12	flat	_	SpaceAfter=No
+14	CiO-a	CiO-a	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
 15	,	,	PUNCT	Z	_	16	punct	_	_
 16	ističući	isticati	ADV	Rr	Tense=Pres|VerbForm=Conv	1	xcomp	_	_
 17	značaj	značaj	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	_

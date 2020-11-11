@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 compound:prt	color:blue
-1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 4	up	up	ADP	RP	_	3	compound:prt	3:compound:prt	SpaceAfter=No
@@ -65,7 +65,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	hills	hill	NOUN	NNS	Number=Plur	1	obl	1:obl:for	_
 5	...	...	PUNCT	,	_	1	punct	1:punct	_
-6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	SpaceAfter=No
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
 7	'll	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
 8	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	_
 9	much	much	ADV	RB	_	10	advmod	10:advmod	_

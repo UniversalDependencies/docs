@@ -9,12 +9,30 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-advmod.html">advmod</a></tt>.
 There are also 3 other language-specific subtypes of `advmod`: <tt><a href="mdf_jr-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="mdf_jr-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="mdf_jr-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-3 nodes (0%) are attached to their parents as `advmod:mmod`.
+9 nodes (1%) are attached to their parents as `advmod:mmod`.
 
-3 instances of `advmod:mmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.33333333333333.
+5 instances of `advmod:mmod` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.11111111111111.
 
-The following 3 pairs of parts of speech are connected with `advmod:mmod`: <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 33% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 33% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 33% instances).
+The following 4 pairs of parts of speech are connected with `advmod:mmod`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (6; 67% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 11% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 advmod:mmod	color:blue
+1	Уборкать	уборка	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	obl:tmod	_	GTtags=Sg,Gen,Def
+2	пингста	пингста	ADP	Adp	Case=Ela	1	case	_	GTtags=Ela
+3	сембе	сембе	DET	Det	Case=Nom|Definite=Ind|Number=Sing	4	det	_	GTtags=Qnt,Sg,Nom,Indef
+4	ломаттне	ломань	NOUN	N	Case=Nom|Definite=Def|Number=Plur	5	nsubj	_	GTtags=Pl,Nom,Def
+5	работасть	работамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScPl3
+6	пяк	пяк	ADV	Adv	AdvType=Deg	7	advmod:deg	_	GTtags=Deg
+7	вишкста	вишкста	ADV	Adv	_	5	advmod:mmod	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	5	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -53,24 +71,6 @@ The following 3 pairs of parts of speech are connected with `advmod:mmod`: <tt><
 12	,	,	PUNCT	CLB	_	11	punct	_	_
 13	улелеть	улемс	AUX	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=2|Valency=1	3	conj	_	Gloss[eng]=be|SpaceAfter=No
 14	.	.	PUNCT	CLB	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 advmod:mmod	color:blue
-1	Лётчикне	лётчик	NOUN	N	Case=Nom|Definite=Def|Number=Plur	6	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	улема	улема	PART	Pcle	_	6	advmod:mmod	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	3	punct	_	_
-5	кядьса	кядь	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	6	obl	_	_
-6	токсесазь	токсемс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|Valency=2	0	root	_	_
-7	коволнятнень	ковол	NOUN	N	Case=Gen|Definite=Def|Derivation=Dimin|Number=Plur	6	obj	_	SpaceAfter=No
-8	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
 

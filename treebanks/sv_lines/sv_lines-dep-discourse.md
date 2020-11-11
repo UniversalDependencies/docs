@@ -45,7 +45,7 @@ The following 32 pairs of parts of speech are connected with `discourse`: <tt><a
 5	,	,	PUNCT	Comma	_	4	punct	_	_
 6	bilar	bil	NOUN	PL-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	0	root	_	SpaceAfter=No
 7	"	"	PUNCT	Quote	_	6	punct	_	SpaceAfter=No
-8	,	,	PUNCT	Comma	_	6	punct	_	_
+8	,	,	PUNCT	Comma	_	9	punct	_	_
 9	sade	säga	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	_
 10	mrs	Mrs	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	11	nmod	_	_
 11	Weasley	Weasley	PROPN	SG-NOM	Case=Nom	9	nsubj	_	_

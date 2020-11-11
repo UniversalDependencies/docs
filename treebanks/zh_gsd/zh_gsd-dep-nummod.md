@@ -34,7 +34,7 @@ The following 15 pairs of parts of speech are connected with `nummod`: <tt><a hr
 10	瑪氏	瑪氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
 11	則	則	ADV	RB	_	12	mark	_	SpaceAfter=No
 12	中斷	中斷	VERB	VV	_	6	parataxis	_	SpaceAfter=No
-13	了	了	PART	AS	Aspect=Perf	12	case:aspect	_	SpaceAfter=No
+13	了	了	PART	AS	Aspect=Perf	12	aux:aspect	_	SpaceAfter=No
 14	生產	生產	NOUN	NN	_	12	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 16	公司	公司	NOUN	NN	_	17	nmod	_	SpaceAfter=No
@@ -66,7 +66,7 @@ The following 15 pairs of parts of speech are connected with `nummod`: <tt><a hr
 10	瑪氏	瑪氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
 11	則	則	ADV	RB	_	12	mark	_	SpaceAfter=No
 12	中斷	中斷	VERB	VV	_	6	parataxis	_	SpaceAfter=No
-13	了	了	PART	AS	Aspect=Perf	12	case:aspect	_	SpaceAfter=No
+13	了	了	PART	AS	Aspect=Perf	12	aux:aspect	_	SpaceAfter=No
 14	生產	生產	NOUN	NN	_	12	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 16	公司	公司	NOUN	NN	_	17	nmod	_	SpaceAfter=No

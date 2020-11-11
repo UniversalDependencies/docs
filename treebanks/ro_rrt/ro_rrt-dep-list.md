@@ -69,7 +69,7 @@ The following 2 pairs of parts of speech are connected with `list`: <tt><a href=
 19	Watson	Watson	PROPN	Np	_	18	flat	_	SpaceAfter=No
 20	,	,	PUNCT	COMMA	_	23	punct	_	_
 21	20	20	NUM	M	NumType=Card	23	nummod	_	_
-22	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
+22	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
 23	ani	an	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
 24	,	,	PUNCT	COMMA	_	23	punct	_	_
 25	și	și	CCONJ	Crssp	Polarity=Pos	26	cc	_	_

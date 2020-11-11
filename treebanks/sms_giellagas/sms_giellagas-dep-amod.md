@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `amod`.
+9 nodes (1%) are attached to their parents as `amod`.
 
-5 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4.
+9 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22222222222222.
 
-The following 1 pairs of parts of speech are connected with `amod`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (5; 100% instances).
+The following 1 pairs of parts of speech are connected with `amod`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (9; 100% instances).
 
 
 ~~~ conllu

@@ -50,7 +50,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 7	engraverien	engraver	NOUN	n	Gender=Masc|Number=Plur	5	compound	_	_
 8	c'hall	gall	ADJ	adj	_	5	amod	_	SpaceAfter=No
 9	,	,	PUNCT	cm	_	1	punct	_	_
-10	e	e	PART	vpart	_	11	aux	_	_
+10	e	e	AUX	vpart	_	11	aux	_	_
 11	produ	produiñ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	dourioù	dour	NOUN	n	Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
 13	-	-	PUNCT	guio	_	14	punct	_	SpaceAfter=No
@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 12	an	an	DET	det	_	13	det	_	_
 13	amzer	amzer	NOUN	n	Gender=Fem|Number=Sing	11	nmod:gen	_	SpaceAfter=No
 14	,	,	PUNCT	cm	_	9	punct	_	_
-15	e	e	PART	vpart	_	16	aux	_	_
+15	e	e	AUX	vpart	_	16	aux	_	_
 16	tizher	tizhout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
 17	e-tro	e-tro	ADP	pr	_	20	case	_	_
 18	3	3	NUM	num	Number=Plur	19	compound	_	_

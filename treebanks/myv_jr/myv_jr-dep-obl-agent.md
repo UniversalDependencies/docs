@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="myv_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-27 nodes (0%) are attached to their parents as `obl:agent`.
+29 nodes (0%) are attached to their parents as `obl:agent`.
 
-15 instances of `obl:agent` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85185185185185.
+16 instances of `obl:agent` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.79310344827586.
 
-The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (20; 74% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (4; 15% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3; 11% instances).
+The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (22; 76% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (4; 14% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3; 10% instances).
 
 
 ~~~ conllu

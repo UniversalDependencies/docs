@@ -78,13 +78,13 @@ Examples: <em>же, де, и, ж, ли, се, жъ, бо, деи, токмо</em
 
 Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (389; 53% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (92; 13% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (80; 11% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (63; 9% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (40; 5% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (38; 5% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (16; 2% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-723 (99%) `PART` nodes are leaves.
+724 (99%) `PART` nodes are leaves.
 
-8 (1%) `PART` nodes have one child.
+7 (1%) `PART` nodes have one child.
 
 The highest child degree of a `PART` node is 1.
 
-Children of `PART` nodes are attached using 5 different relations: <tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt> (3; 38% instances), <tt><a href="orv_rnc-dep-advmod.html">advmod</a></tt> (2; 25% instances), <tt><a href="orv_rnc-dep-conj.html">conj</a></tt> (1; 13% instances), <tt><a href="orv_rnc-dep-fixed.html">fixed</a></tt> (1; 13% instances), <tt><a href="orv_rnc-dep-punct.html">punct</a></tt> (1; 13% instances)
+Children of `PART` nodes are attached using 4 different relations: <tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt> (3; 43% instances), <tt><a href="orv_rnc-dep-advmod.html">advmod</a></tt> (2; 29% instances), <tt><a href="orv_rnc-dep-conj.html">conj</a></tt> (1; 14% instances), <tt><a href="orv_rnc-dep-fixed.html">fixed</a></tt> (1; 14% instances)
 
-Children of `PART` nodes belong to 4 different parts of speech: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (3; 38% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (3; 38% instances), <tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (1; 13% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 13% instances)
+Children of `PART` nodes belong to 3 different parts of speech: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (3; 43% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (3; 43% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 14% instances)
 

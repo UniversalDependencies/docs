@@ -25,7 +25,7 @@ The following 53 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	"	"	PUNCT	PUNCT	PunctType=Quot	7	punct	_	SpaceAfter=No
 2	No	no	PART	PART	_	7	cc	_	MWE=No_sólo|MWEPOS=ADV
 3	sólo	sólo	ADV	ADV	_	2	fixed	_	_
-4	nos	yo	PRON	PRON	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	5	obj	_	_
+4	nos	yo	PRON	PRON	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	5	iobj	_	_
 5	insultan	insultar	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	PunctType=Comm	7	punct	_	_
 7	sino	sino	CCONJ	CCONJ	_	0	root	_	MWE=sino_que|MWEPOS=CCONJ
@@ -70,7 +70,7 @@ The following 53 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	dientes	diente	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	_
 4	no	no	ADV	ADV	Polarity=Neg	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	PunctType=Comm	7	punct	_	_
-6	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	obj	_	_
+6	se	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
 7	repetía	repetir	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
 8	,	,	PUNCT	PUNCT	PunctType=Comm	7	punct	_	_
 9	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_

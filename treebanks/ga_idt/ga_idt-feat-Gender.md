@@ -9,164 +9,183 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-20965 tokens (32%) have a non-empty value of `Gender`.
-8211 types (73%) occur at least once with a non-empty value of `Gender`.
-5137 lemmas (71%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 14 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (13324; 21% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (3178; 5% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1279; 2% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1233; 2% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (998; 2% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (915; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (14; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+39434 tokens (34%) have a non-empty value of `Gender`.
+11181 types (75%) occur at least once with a non-empty value of `Gender`.
+6768 lemmas (72%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 15 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (26806; 23% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (5595; 5% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1883; 2% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1760; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1730; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1615; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-13324 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (82% of all `NOUN` tokens) have a non-empty value of `Gender`.
+26806 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (83% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (13324; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11262; 85%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (10817; 81%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (10328; 78%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (26806; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (22344; 83%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21836; 81%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (21279; 79%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (14132; 53%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (4826; 36% of non-empty `Gender`): <em>chuid, leith, áit, bhliain, cuid, uair, bliain, bliana, tír, gcuid</em>
-* `Masc` (8498; 64% of non-empty `Gender`): <em>duine, rud, daoine, chéile, lá, fear, scéal, am, fad, leabhar</em>
-* `EMPTY` (2967): <em>bheith, chur, dhéanamh, féin, dul, fáil, rá, thabhairt, bith, féidir</em>
+* `Fem` (10243; 38% of non-empty `Gender`): <em>chuid, leith, bhfeidhm, bliana, cathrach, bhliain, bliain, cuid, áit, gcuid</em>
+* `Masc` (16563; 62% of non-empty `Gender`): <em>duine, chéile, daoine, rud, cinn, ábhar, lá, pobail, am, fear</em>
+* `EMPTY` (5335): <em>chur, dhéanamh, fáil, bheith, féidir, thabhairt, dul, féin, cur, bith</em>
 
 <table>
-  <tr><th>Paradigm <i>ceann</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>cionn</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>gcionn</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>chionn</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>cionn, gcionn</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>chinn</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>cinn</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ceann</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>gceann</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>cheann</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ceann</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>cinn</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ceann</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>cinn</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>gceann</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>gcinn</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>cheann</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ceann, cheann</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>cinn</em></td><td></td></tr>
+  <tr><th>Paradigm <i>cuid</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>coda</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>chuid</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>gcuid</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>chuid</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>cuid, an-chuid</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>codanna</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>chuid</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>gcuid</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>gCodanna</em></td><td><em>gcodanna</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>chuid, an-chuid</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>dhlúthchuid</em></td><td><em>cuid, an-chuid, c(h)uid, tráthchuid</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>codanna</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (3405) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 93% lemmas (4393) occur only with one value of `Gender`.
 
 ### `PROPN`
 
-3178 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (87% of all `PROPN` tokens) have a non-empty value of `Gender`.
+5595 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (86% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2922; 92%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (2683; 84%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5181; 93%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4873; 87%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (4600; 82%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (811; 26% of non-empty `Gender`): <em>Gaeilge, hÉireann, Mháire, Éirinn, Ghaeilge, hEorpa, Gaeltachta, Máire, Chomhairle, Fraince</em>
-* `Masc` (2367; 74% of non-empty `Gender`): <em>Átha, Seán, Baile, Bhaile, Cliath, Pádraig, mBaile, Béarla, Cill, Naomh</em>
-* `EMPTY` (476): <em>Cliath, RTÉ, Bhaile, Co., Feirste, Fáil, nGall, Dara, Eo, FÁS</em>
+* `Fem` (1836; 33% of non-empty `Gender`): <em>cliath, Gaeltachta, Gaeilge, hÉireann, Chomhairle, Éirinn, hEorpa, Ghaeltacht, Ghaeltachta, Chathair</em>
+* `Masc` (3759; 67% of non-empty `Gender`): <em>Átha, Bhaile, Údarás, Baile, Cliath, Coimisiún, Seán, mBaile, Airteagal, tAire</em>
+* `EMPTY` (931): <em>Cliath, AE, Gaeltachta, UNESCO, nGall, AIE, TG4, BCE, Údarás, Co.</em>
 
 <table>
-  <tr><th>Paradigm <i>Frainc</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>Fraince</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Fhrainc</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Fhrainc</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Fhrainc</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>bhFrainc</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Fhrainc</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Frainc</em></td><td></td></tr>
+  <tr><th>Paradigm <i>Éire</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=HPref</tt></tt></td><td></td><td><em>hÉirinn</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td></td><td><em>Éirinn</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td></td><td><em>hÉireann</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>Éireann, Éire</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt></tt></td><td></td><td><em>Éire, hÉire</em></td></tr>
+  <tr><td><tt></tt></td><td><em>Éire</em></td><td><em>Éire</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (1629) occur only with one value of `Gender`.
-
-### `PRON`
-
-1279 <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> tokens (51% of all `PRON` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=3</tt> (1278; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1274; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1247; 97%).
-
-`PRON` tokens may have the following values of `Gender`:
-
-* `Fem` (263; 21% of non-empty `Gender`): <em>sí, í, sise, ise, hin, hí</em>
-* `Masc` (1016; 79% of non-empty `Gender`): <em>sé, é, seisean, hé, eisean</em>
-* `EMPTY` (1229): <em>sin, mé, iad, siad, féin, seo, tú, cad, cén, shin</em>
-
-`Gender` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Gender`.
-
-### `ADP`
-
-1233 <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> tokens (12% of all `ADP` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `ADP` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1232; 100%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=3</tt> (1230; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1152; 93%).
-
-`ADP` tokens may have the following values of `Gender`:
-
-* `Fem` (222; 18% of non-empty `Gender`): <em>uirthi, ina, di, aici, léi, á, dá, inti, lena, chuici</em>
-* `Masc` (1011; 82% of non-empty `Gender`): <em>ann, leis, air, ina, aige, á, dá, dó, de, lena</em>
-* `EMPTY` (8996): <em>ar, i, ag, le, sa, de, in, leis, ó, mar</em>
-
-<table>
-  <tr><th>Paradigm <i>i</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>ann</em></td><td><em>inti</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>ina, 'na</em></td><td><em>ina</em></td></tr>
-</table>
+`Gender` seems to be **lexical feature** of `PROPN`. 97% lemmas (1969) occur only with one value of `Gender`.
 
 ### `DET`
 
-998 <tt><a href="ga_idt-pos-DET.html">DET</a></tt> tokens (17% of all `DET` tokens) have a non-empty value of `Gender`.
+1883 <tt><a href="ga_idt-pos-DET.html">DET</a></tt> tokens (18% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (998; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (634; 64%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (634; 64%), <tt><a href="ga_idt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (634; 64%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (634; 64%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (633; 63%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1883; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1345; 71%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1345; 71%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1340; 71%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (697; 70% of non-empty `Gender`): <em>na, a</em>
-* `Masc` (301; 30% of non-empty `Gender`): <em>a</em>
-* `EMPTY` (4740): <em>an, na, seo, sin, eile, aon, a, gach, mo, do</em>
+* `Fem` (1430; 76% of non-empty `Gender`): <em>na, a, an</em>
+* `Masc` (453; 24% of non-empty `Gender`): <em>a</em>
+* `EMPTY` (8313): <em>an, na, seo, sin, eile, aon, gach, a, do, mo</em>
 
 <table>
   <tr><th>Paradigm <i>a</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt></tt></td><td><em>a</em></td><td><em>a</em></td></tr>
 </table>
 
+### `ADP`
+
+1760 <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> tokens (9% of all `ADP` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `ADP` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1758; 100%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=3</tt> (1757; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1607; 91%).
+
+`ADP` tokens may have the following values of `Gender`:
+
+* `Fem` (317; 18% of non-empty `Gender`): <em>uirthi, di, ina, aici, léi, á, dá, inti, lena, chuici</em>
+* `Masc` (1443; 82% of non-empty `Gender`): <em>ann, ina, leis, air, á, aige, dá, dó, lena, chuige</em>
+* `EMPTY` (17358): <em>ar, i, ag, le, de, sa, chun, do, leis, in</em>
+
+<table>
+  <tr><th>Paradigm <i>i</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ann</em></td><td><em>inti</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ga_idt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>ina, 'na</em></td><td><em>ina</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ga_idt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>ina</em></td><td></td></tr>
+</table>
+
+### `PRON`
+
+1730 <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> tokens (50% of all `PRON` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=3</tt> (1729; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1725; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1694; 98%).
+
+`PRON` tokens may have the following values of `Gender`:
+
+* `Fem` (349; 20% of non-empty `Gender`): <em>sí, í, sise, ise, hin, hí</em>
+* `Masc` (1381; 80% of non-empty `Gender`): <em>sé, é, seisean, hé, eisean, fhicsean, pinsean, pié</em>
+* `EMPTY` (1763): <em>sin, iad, siad, mé, féin, seo, tú, muid, cén, siúd</em>
+
+`Gender` seems to be **lexical feature** of `PRON`. 100% lemmas (13) occur only with one value of `Gender`.
+
 ### `ADJ`
 
-915 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (29% of all `ADJ` tokens) have a non-empty value of `Gender`.
+1615 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (25% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (915; 100%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (914; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (869; 95%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (524; 57%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1615; 100%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1614; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1519; 94%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1034; 64%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (305; 33% of non-empty `Gender`): <em>mhór, mhaith, bheag, éigin, bhreá, chéanna, iomlán, láidir, náisiúnta, óg</em>
-* `Masc` (610; 67% of non-empty `Gender`): <em>mór, éigin, beag, óg, céanna, fada, iomlán, áirithe, ceart, ard</em>
-* `EMPTY` (2294): <em>maith, amháin, mó, mór, léir, nua, déanta, céanna, fada, fearr</em>
+* `Fem` (509; 32% of non-empty `Gender`): <em>mhór, mhaith, poiblí, bheag, leanúnach, eacnamaíoch, ildánach, lárnach, speisialta, thábhachtach</em>
+* `Masc` (1106; 68% of non-empty `Gender`): <em>mór, áitiúil, beag, leathan, iomlán, éigin, leanúnach, réigiúnach, áirithe, idirnáisiúnta</em>
+* `EMPTY` (4831): <em>maith, amháin, nua, mó, mór, náisiúnta, déanta, éagsúla, sibhialta, léir</em>
 
 <table>
   <tr><th>Paradigm <i>mór</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>mhóir</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt></tt></td><td><em>mór, mhór, ollmhór, ró-mhór</em></td><td><em>mhór</em></td></tr>
-  <tr><td><tt></tt></td><td><em>mór, mhór, rómhór</em></td><td><em>mhór</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mhóir</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mór, mhór, ollmhór, ró-mhór</em></td><td><em>mhór</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mór, mhór, rómhór</em></td><td><em>mhór</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>mhóra</em></td></tr>
 </table>
 
 ### `X`
 
-14 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (8% of all `X` tokens) have a non-empty value of `Gender`.
+10 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (5% of all `X` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (13; 93%).
+The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (9; 90%).
 
 `X` tokens may have the following values of `Gender`:
 
-* `Fem` (2; 14% of non-empty `Gender`): <em>open, shilling</em>
-* `Masc` (12; 86% of non-empty `Gender`): <em>Celtica, Erris, Irish, Kill, Politics, Studica, The, Week, a, cut</em>
-* `EMPTY` (157): <em>the, a, of, Irish, on, May, fakir, in, island, men</em>
+* `Fem` (1; 10% of non-empty `Gender`): <em>open</em>
+* `Masc` (9; 90% of non-empty `Gender`): <em>Celtica, Erris, Irish, Kill, Politics, Studica, The, Week, of</em>
+* `EMPTY` (208): <em>the, of, Irish, Read, Right, a, to, for, on, Life</em>
 
-`Gender` seems to be **lexical feature** of `X`. 100% lemmas (14) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `X`. 100% lemmas (10) occur only with one value of `Gender`.
 
 ### `AUX`
 
-7 <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Gender`.
+8 <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="ga_idt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=Cop</tt> (6; 86%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=Cop</tt> (7; 88%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Masc` (7; 100% of non-empty `Gender`): <em>sé</em>
-* `EMPTY` (998): <em>is, ba, gur, ní, b', nach, gurb, ar, nár, an</em>
+* `Masc` (8; 100% of non-empty `Gender`): <em>sé</em>
+* `EMPTY` (1530): <em>is, ba, ní, gur, b', nach, ar, gurb, nár, an</em>
+
+### `VERB`
+
+8 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (6; 75%), <tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 63%), <tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5; 63%).
+
+`VERB` tokens may have the following values of `Gender`:
+
+* `Fem` (2; 25% of non-empty `Gender`): <em>fhreastail, phléasc</em>
+* `Masc` (6; 75% of non-empty `Gender`): <em>tá's, Bain, faigheann, ghníomhaíonn</em>
+* `EMPTY` (8733): <em>tá, bhí, atá, bhfuil, raibh, beidh, bheidh, mbeadh, níl, mbeidh</em>
+
+### `NUM`
+
+7 <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="ga_idt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (7; 100%).
+
+`NUM` tokens may have the following values of `Gender`:
+
+* `Fem` (2; 29% of non-empty `Gender`): <em>245a, n-ealaíon</em>
+* `Masc` (5; 71% of non-empty `Gender`): <em>5in, 9.30rn, III, III+, fiche</em>
+* `EMPTY` (1931): <em>dhá, chéad, 2006, trí, 2007, dá, 2017, dara, cúig, 1</em>
 
 ### `PART`
 
@@ -177,19 +196,7 @@ The most frequent other feature values with which `PART` and `Gender` co-occurre
 `PART` tokens may have the following values of `Gender`:
 
 * `Masc` (6; 100% of non-empty `Gender`): <em>Mhac, ní, Mac, a</em>
-* `EMPTY` (4268): <em>a, go, d', ní, nach, ó, níos, gur, is, níor</em>
-
-### `VERB`
-
-5 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3; 60%), <tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3; 60%).
-
-`VERB` tokens may have the following values of `Gender`:
-
-* `Fem` (1; 20% of non-empty `Gender`): <em>phléasc</em>
-* `Masc` (4; 80% of non-empty `Gender`): <em>tá's, Bain</em>
-* `EMPTY` (5221): <em>bhí, tá, raibh, atá, bhfuil, thug, mbeadh, chuir, níl, bheidh</em>
+* `EMPTY` (7020): <em>a, go, ní, d', nach, níos, is, gur, ó, ina</em>
 
 ### `SCONJ`
 
@@ -198,7 +205,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 `SCONJ` tokens may have the following values of `Gender`:
 
 * `Fem` (3; 100% of non-empty `Gender`): <em>dhá, toisc, áit</em>
-* `EMPTY` (1116): <em>ach, nuair, mar, agus, má, go, dá, cé, ná, is</em>
+* `EMPTY` (1623): <em>ach, nuair, má, mar, agus, ná, más, go, dá, cé</em>
 
 ### `ADV`
 
@@ -207,7 +214,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 `ADV` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>timpeall</em>
-* `EMPTY` (1331): <em>amach, chomh, anois, isteach, ansin, anseo, fós, síos, arís, freisin</em>
+* `EMPTY` (1898): <em>amach, chomh, anois, freisin, isteach, síos, ansin, anseo, fós, laistigh</em>
 
 ### `INTJ`
 
@@ -216,30 +223,30 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 `INTJ` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>No</em>
-* `EMPTY` (25): <em>ó, Bhail, haló, á, Bhuel, Búm, Et, Ha, Leoga, Muise</em>
+* `EMPTY` (26): <em>ó, Bhail, haló, á, Bhuel, Búm, Et, Ha, Leoga, Muise</em>
 
-### `NUM`
+### `SYM`
 
-1 <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Gender`.
+1 <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> tokens (4% of all `SYM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `SYM` and `Gender` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
 
-`NUM` tokens may have the following values of `Gender`:
+`SYM` tokens may have the following values of `Gender`:
 
-* `Masc` (1; 100% of non-empty `Gender`): <em>fiche</em>
-* `EMPTY` (1000): <em>dhá, chéad, dá, trí, (2), cúig, (b), (a), (1), deich</em>
+* `Masc` (1; 100% of non-empty `Gender`): <em>Dublin.ie</em>
+* `EMPTY` (22): <em>Dublin.ie, Gcom, c​i​t​i​z​e​n​s​i​n​f​o​r​m​a​t​i​o​n​.​i​e, h​t​t​p​:​/​/​d​u​b​l​i​n​i​a​.​i​e​/​o​n​l​i​n​e​-​l​e​a​r​n​i​n​g​/​s​e​c​o​n​d​a​r​y​/, Borrowbooks.ie:, DEArs.net, King.com, a​d​m​i​n​@​c​i​t​i​z​e​n​s​i​n​f​o​r​m​a​t​i​o​n​.​i​e, eolas@cnag.ie, h​t​t​p​:​/​/​w​w​w​.​d​u​b​l​i​n​c​i​t​y​.​i​e​/​m​a​i​n​-​m​e​n​u​-​s​e​r​v​i​c​e​s​-​c​u​l​t​u​r​e​-​a​n​d​-​a​m​e​n​i​t​i​e​s​/​c​r​e​a​t​i​v​e​-​i​r​e​l​a​n​d​-​p​r​o​g​r​a​m​m​e​-​2​0​1​7​-​2​0​2​2</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="ga_idt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (781; 52%),
-<tt>NOUN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (425; 57%),
-<tt>PROPN --[<tt><a href="ga_idt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (360; 54%),
-<tt>PROPN --[<tt><a href="ga_idt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (291; 81%),
-<tt>PROPN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (121; 74%),
-<tt>NOUN --[<tt><a href="ga_idt-dep-compound.html">compound</a></tt>]--> NOUN</tt> (71; 60%),
-<tt>PROPN --[<tt><a href="ga_idt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (63; 59%),
-<tt>PROPN --[<tt><a href="ga_idt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (57; 60%),
-<tt>NOUN --[<tt><a href="ga_idt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (54; 52%),
-<tt>NOUN --[<tt><a href="ga_idt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (53; 51%).
+<tt>NOUN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1084; 54%),
+<tt>PROPN --[<tt><a href="ga_idt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (701; 50%),
+<tt>PROPN --[<tt><a href="ga_idt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (314; 77%),
+<tt>PROPN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (185; 64%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-compound.html">compound</a></tt>]--> NOUN</tt> (108; 65%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-flat.html">flat</a></tt>]--> NOUN</tt> (103; 51%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (80; 53%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (77; 51%),
+<tt>PROPN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (70; 51%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (63; 57%).
 

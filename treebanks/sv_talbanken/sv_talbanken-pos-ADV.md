@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>mycket</em> (<tt><a href="sv_talbanke
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.037954 (the average of all parts of speech is 1.422634).
+The form / lemma ratio of `ADV` is 1.037954 (the average of all parts of speech is 1.422764).
 
 The 1st highest number of forms (4) was observed with the lemma “mycket”: <em>mer, mera, mest, mycket</em>.
 

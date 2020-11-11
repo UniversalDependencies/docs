@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUMReddit](https://github.com/UniversalDependencies/UD_English-GUMReddit)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -105,7 +105,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 
 ## Features
 
-[Case](en_gumreddit-feat-Case.html) – [Definite](en_gumreddit-feat-Definite.html) – [Degree](en_gumreddit-feat-Degree.html) – [Gender](en_gumreddit-feat-Gender.html) – [Mood](en_gumreddit-feat-Mood.html) – [Number](en_gumreddit-feat-Number.html) – [NumType](en_gumreddit-feat-NumType.html) – [Person](en_gumreddit-feat-Person.html) – [Polarity](en_gumreddit-feat-Polarity.html) – [Poss](en_gumreddit-feat-Poss.html) – [PronType](en_gumreddit-feat-PronType.html) – [Reflex](en_gumreddit-feat-Reflex.html) – [Tense](en_gumreddit-feat-Tense.html) – [VerbForm](en_gumreddit-feat-VerbForm.html)
+[Case](en_gumreddit-feat-Case.html) – [Definite](en_gumreddit-feat-Definite.html) – [Degree](en_gumreddit-feat-Degree.html) – [Gender](en_gumreddit-feat-Gender.html) – [Mood](en_gumreddit-feat-Mood.html) – [Number](en_gumreddit-feat-Number.html) – [NumType](en_gumreddit-feat-NumType.html) – [Person](en_gumreddit-feat-Person.html) – [Polarity](en_gumreddit-feat-Polarity.html) – [Poss](en_gumreddit-feat-Poss.html) – [PronType](en_gumreddit-feat-PronType.html) – [Reflex](en_gumreddit-feat-Reflex.html) – [Tense](en_gumreddit-feat-Tense.html) – [Typo](en_gumreddit-feat-Typo.html) – [VerbForm](en_gumreddit-feat-VerbForm.html)
 
 ## Relations
 
@@ -119,7 +119,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 </ul>
 
 <ul>
-<li>This corpus contains 2144 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 2143 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -202,7 +202,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Part
   <ul>
     <li>AUX: _</li>
-    <li>SCONJ: _</li>
     <li>VERB: _</li>
   </ul>
   </li>
@@ -333,8 +332,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
     <ul>
       <li>ADJ: _</li>
       <li>ADV: _</li>
-      <li>INTJ: _</li>
-      <li>VERB: _</li>
     </ul>
   </li>
 </ul>
@@ -405,7 +402,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
     <ul>
       <li>AUX-Fin: _</li>
       <li>AUX-Part: _</li>
-      <li>SCONJ-Part: _</li>
       <li>VERB-Fin: _</li>
       <li>VERB-Part: _</li>
     </ul>
@@ -473,6 +469,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Rel
     <ul>
+      <li>ADV: _</li>
       <li>PRON: _</li>
       <li>SCONJ: _</li>
     </ul>
@@ -569,6 +566,34 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: _</li>
+          <li>ADP: _</li>
+          <li>ADV: _</li>
+          <li>AUX-Fin: _</li>
+          <li>AUX-Inf: _</li>
+          <li>CCONJ: _</li>
+          <li>DET: _</li>
+          <li>INTJ: _</li>
+          <li>NOUN: _</li>
+          <li>PART: _</li>
+          <li>PRON: _</li>
+          <li>PROPN: _</li>
+          <li>SCONJ: _</li>
+          <li>VERB-Fin: _</li>
+          <li>VERB-Ger: _</li>
+          <li>VERB-Inf: _</li>
+          <li>VERB-Part: _</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -588,23 +613,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN (222)</li>
+      <li>VERB-Fin--NOUN (220)</li>
       <li>VERB-Fin--PRON (79)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Nom (401)</li>
-      <li>VERB-Ger--NOUN (5)</li>
+      <li>VERB-Fin--PRON-Nom (389)</li>
+      <li>VERB-Ger--NOUN (6)</li>
       <li>VERB-Ger--PRON (4)</li>
       <li>VERB-Ger--PRON-Acc (1)</li>
       <li>VERB-Ger--PRON-Nom (13)</li>
-      <li>VERB-Inf--NOUN (61)</li>
+      <li>VERB-Inf--NOUN (62)</li>
       <li>VERB-Inf--PRON (26)</li>
-      <li>VERB-Inf--PRON-Acc (4)</li>
-      <li>VERB-Inf--PRON-Nom (184)</li>
+      <li>VERB-Inf--PRON-Acc (5)</li>
+      <li>VERB-Inf--PRON-Nom (179)</li>
       <li>VERB-Part--NOUN (27)</li>
       <li>VERB-Part--PRON (14)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Nom (103)</li>
+      <li>VERB-Part--PRON-Nom (104)</li>
     </ul>
   </li>
 </ul>
@@ -612,19 +636,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (250)</li>
-      <li>VERB-Fin--PRON (34)</li>
-      <li>VERB-Fin--PRON-Acc (48)</li>
-      <li>VERB-Ger--NOUN (62)</li>
+      <li>VERB-Fin--NOUN (248)</li>
+      <li>VERB-Fin--PRON (32)</li>
+      <li>VERB-Fin--PRON-Acc (45)</li>
+      <li>VERB-Ger--NOUN (60)</li>
       <li>VERB-Ger--PRON (2)</li>
-      <li>VERB-Ger--PRON-Acc (14)</li>
+      <li>VERB-Ger--PRON-Acc (12)</li>
       <li>VERB-Inf--NOUN (229)</li>
-      <li>VERB-Inf--PRON (30)</li>
-      <li>VERB-Inf--PRON-Acc (52)</li>
+      <li>VERB-Inf--PRON (31)</li>
+      <li>VERB-Inf--PRON-Acc (54)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
-      <li>VERB-Part--NOUN (57)</li>
+      <li>VERB-Part--NOUN (56)</li>
       <li>VERB-Part--PRON (4)</li>
-      <li>VERB-Part--PRON-Acc (12)</li>
+      <li>VERB-Part--PRON-Acc (11)</li>
     </ul>
   </li>
 </ul>
@@ -634,12 +658,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (16)</li>
+      <li>VERB-Fin--PRON-Acc (18)</li>
       <li>VERB-Ger--NOUN (1)</li>
-      <li>VERB-Ger--PRON-Acc (3)</li>
+      <li>VERB-Ger--PRON-Acc (4)</li>
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Inf--PRON-Acc (8)</li>
-      <li>VERB-Part--NOUN (2)</li>
+      <li>VERB-Part--NOUN (4)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
     </ul>
   </li>

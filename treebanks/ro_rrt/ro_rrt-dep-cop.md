@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2109 nodes (1%) are attached to their parents as `cop`.
+2111 nodes (1%) are attached to their parents as `cop`.
 
-1987 instances of `cop` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75391180654339.
+1989 instances of `cop` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75840833728091.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (771; 37% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (631; 30% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (277; 13% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (269; 13% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (83; 4% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (30; 1% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (30; 1% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ro_rrt-pos-SYM.html">SYM</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (783; 37% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (631; 30% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (278; 13% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (270; 13% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (83; 4% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (30; 1% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (19; 1% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -55,23 +55,20 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 cop	color:blue
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
-2	realitate	realitate	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
-3	,	,	PUNCT	COMMA	_	2	punct	_	_
-4	nici	nici	ADV	Rz	PronType=Neg	7	advmod	_	_
-5	nu	nu	PART	Qz	Polarity=Neg	7	advmod	_	_
-6	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
-7	obișnuit	obișnui	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-8	să	să	PART	Qs	Mood=Sub	9	mark	_	_
-9	scrie	scrie	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp:pmod	_	_
-10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
-11	mână	mână	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	7	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 cop	color:blue
+1	Științific	științific	ADV	Rgp	Degree=Pos	5	advmod	_	_
+2	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	cam	cam	ADV	Rp	_	4	advmod	_	_
+4	mult	mult	ADV	Rgp	Degree=Pos	5	advmod	_	_
+5	spus	spune	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	COMMA	_	7	punct	_	_
+7	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	parataxis	_	_
+8	el	el	PRON	Pp3msr--------s	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	7	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_vit-dep-det.html">det</a></tt>.
 There are also 1 other language-specific subtypes of `det`: <tt><a href="it_vit-dep-det-predet.html">det:predet</a></tt>.
 
-1292 nodes (0%) are attached to their parents as `det:poss`.
+1295 nodes (0%) are attached to their parents as `det:poss`.
 
-1258 instances of `det:poss` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.15402476780186.
+1261 instances of `det:poss` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15057915057915.
 
-The following 8 pairs of parts of speech are connected with `det:poss`: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (1240; 96% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (22; 2% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (18; 1% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `det:poss`: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (1245; 96% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (21; 2% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (18; 1% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `det:poss`: <tt><a h
 # visual-style 7	fgColor:white
 # visual-style 7 6 det:poss	color:blue
 1	Da	da	ADP	E	_	3	case	_	_
-2	qualche	qualche	DET	DI	PronType=Ind	3	det	_	_
+2	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
 3	tempo	tempo	ADV	B	_	10	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	10	punct	_	_
 5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -65,7 +65,7 @@ The following 8 pairs of parts of speech are connected with `det:poss`: <tt><a h
 2	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	disordine	disordine	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
 4	di	di	ADP	E	_	6	case	_	_
-5	l'	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
 6	ordine	ordine	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
 7	giudiziario	giudiziario	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	10	punct	_	_

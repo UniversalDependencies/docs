@@ -8,12 +8,29 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-advcl.html">advcl</a></tt>.
 
-6 nodes (0%) are attached to their parents as `advcl:tmod`.
+11 nodes (0%) are attached to their parents as `advcl:tmod`.
 
-4 instances of `advcl:tmod` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.16666666666667.
+7 instances of `advcl:tmod` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.45454545454545.
 
-The following 4 pairs of parts of speech are connected with `advcl:tmod`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (2; 33% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2; 33% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 17% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 17% instances).
+The following 4 pairs of parts of speech are connected with `advcl:tmod`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (7; 64% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (2; 18% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 9% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 9% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 advcl:tmod	color:blue
+1	Иень	ие	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	2	obl	_	GTtags=SP,Gen,Indef
+2	ютазь	ютамс	VERB	V	Derivation=Ozj|Valency=2|VerbForm=Conv	5	advcl:tmod	_	GTtags=TV,Der,Der/Ozj,Ger
+3	агрономонть	агроном	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	obj	_	GTtags=Sg,Gen,Def
+4	веленек	веле	NOUN	N	Case=Com|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=Sem/Plc,SP,Com,Indef
+5	путызь	путомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3
+6	предэкс	пред	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=SP,Tra,Indef|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	5	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -35,23 +52,6 @@ The following 4 pairs of parts of speech are connected with `advcl:tmod`: <tt><a
 11	ков	ков	ADV	Adv	Case=Lat|PronType=Int	12	obl:lmod	_	GTtags=Interr,Lat
 12	ношкстамс	ношкстамс	VERB	V	Valency=1|VerbForm=Inf	6	ccomp	_	GTtags=IV,Inf|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 advcl:tmod	color:blue
-1	Иень	ие	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	2	obl	_	GTtags=SP,Gen,Indef
-2	ютазь	ютамс	VERB	V	Derivation=Ozj|Valency=2|VerbForm=Conv	5	advcl:tmod	_	GTtags=TV,Der,Der/Ozj,Ger
-3	агрономонть	агроном	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	obj	_	GTtags=Sg,Gen,Def
-4	веленек	веле	NOUN	N	Case=Com|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=Sem/Plc,SP,Com,Indef
-5	путызь	путомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3
-6	предэкс	пред	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=SP,Tra,Indef|SpaceAfter=No
-7	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
 

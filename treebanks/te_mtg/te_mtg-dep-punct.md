@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1458 nodes (23%) are attached to their parents as `punct`.
+1465 nodes (23%) are attached to their parents as `punct`.
 
-1344 instances of `punct` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.12345679012346.
+1354 instances of `punct` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.11945392491468.
 
-The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (1103; 76% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (258; 18% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (49; 3% instances), <tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (23; 2% instances), <tt><a href="te_mtg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (10; 1% instances), <tt><a href="te_mtg-pos-NUM.html">NUM</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="te_mtg-pos-PART.html">PART</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="te_mtg-pos-ADV.html">ADV</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="te_mtg-pos-DET.html">DET</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (1110; 76% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (258; 18% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (51; 3% instances), <tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (23; 2% instances), <tt><a href="te_mtg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (10; 1% instances), <tt><a href="te_mtg-pos-NUM.html">NUM</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="te_mtg-pos-PART.html">PART</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="te_mtg-pos-ADV.html">ADV</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="te_mtg-pos-DET.html">DET</a></tt>-<tt><a href="te_mtg-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

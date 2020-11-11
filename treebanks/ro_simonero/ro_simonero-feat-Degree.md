@@ -9,49 +9,63 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-2392 tokens (16%) have a non-empty value of `Degree`.
-1191 types (29%) occur at least once with a non-empty value of `Degree`.
-814 lemmas (30%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (2084; 14% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (308; 2% instances).
+20419 tokens (14%) have a non-empty value of `Degree`.
+5103 types (28%) occur at least once with a non-empty value of `Degree`.
+3053 lemmas (29%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (17044; 12% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (3375; 2% instances).
 
 ### `ADJ`
 
-2084 <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
+17044 <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2053; 99%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1477; 71%), <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1424; 68%), <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1098; 53%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (16720; 98%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11567; 68%), <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (10847; 64%), <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (10092; 59%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (2; 0% of non-empty `Degree`): <em>superioară</em>
-* `Pos` (2081; 100% of non-empty `Degree`): <em>aortică, cardiacă, aortice, mare, valvulare, vârstnici, crescut, precoce, severă, valvulară</em>
+* `Cmp` (34; 0% of non-empty `Degree`): <em>superioară, superioare, superior, inferioare, superiori</em>
+* `Pos` (17009; 100% of non-empty `Degree`): <em>mare, vârstnici, crescut, zaharat, clinice, precoce, mici, cardiacă, cardiace, mari</em>
 * `Sup` (1; 0% of non-empty `Degree`): <em>extreme</em>
-* `EMPTY` (1): <em>primul</em>
+* `EMPTY` (9): <em>AV, ultimul, anti, opta, primul</em>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (750) occur only with one value of `Degree`.
+<table>
+  <tr><th>Paradigm <i>inferior</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
+  <tr><td><tt><tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>inferioare</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>inferioară</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>inferior</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>inferioare</em></td><td><em>inferioare</em></td></tr>
+</table>
+
+`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (2884) occur only with one value of `Degree`.
 
 ### `ADV`
 
-308 <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> tokens (59% of all `ADV` tokens) have a non-empty value of `Degree`.
+3375 <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> tokens (57% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Pos` (307; 100% of non-empty `Degree`): <em>frecvent, atât, special, chiar, ales, comparativ, respectiv, semnificativ, mult, puțin</em>
-* `Sup` (1; 0% of non-empty `Degree`): <em>extrem</em>
-* `EMPTY` (214): <em>mai, ca, iar, cât, cum, când, decât, foarte, tot, câte</em>
+* `Cmp` (3; 0% of non-empty `Degree`): <em>succesiv</em>
+* `Pos` (3358; 99% of non-empty `Degree`): <em>atât, mult, astfel, chiar, asemenea, frecvent, comparativ, puțin, doar, bine</em>
+* `Sup` (14; 0% of non-empty `Degree`): <em>extrem, excesiv, perfect</em>
+* `EMPTY` (2535): <em>mai, ca, iar, cât, când, decât, foarte, cum, precum, nici</em>
 
-`Degree` seems to be **lexical feature** of `ADV`. 100% lemmas (122) occur only with one value of `Degree`.
+<table>
+  <tr><th>Paradigm <i>succesiv</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>succesiv</em></td><td><em>succesiv</em></td></tr>
+</table>
+
+`Degree` seems to be **lexical feature** of `ADV`. 100% lemmas (467) occur only with one value of `Degree`.
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (76; 100%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8; 100%),
-<tt>ADV --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4; 100%),
-<tt>ADV --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADV</tt> (3; 100%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-advcl.html">advcl</a></tt>]--> ADV</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADV</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-appos.html">appos</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt>]--> ADV</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (677; 100%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (56; 95%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (35; 100%),
+<tt>ADV --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADV</tt> (34; 97%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADV</tt> (24; 92%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADV</tt> (10; 100%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (9; 100%),
+<tt>ADV --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (7; 88%),
+<tt>ADV --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6; 100%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-advcl.html">advcl</a></tt>]--> ADV</tt> (4; 100%).
 

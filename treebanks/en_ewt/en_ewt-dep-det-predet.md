@@ -51,7 +51,7 @@ The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a
 5	out	out	ADP	IN	_	8	case	8:case	_
 6	of	of	ADP	IN	_	8	case	8:case	_
 7	all	all	DET	PDT	_	8	det:predet	8:det:predet	_
-8	these	these	DET	DT	Number=Plur|PronType=Dem	2	obl	2:obl:of	SpaceAfter=No
+8	these	this	DET	DT	Number=Plur|PronType=Dem	2	obl	2:obl:of	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~

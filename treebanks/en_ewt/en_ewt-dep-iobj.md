@@ -46,10 +46,10 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 iobj	color:blue
-1	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	3	aux	3:aux	SpaceAfter=No
+1	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	3	aux	3:aux	_
 2	n't	not	PART	RB	_	3	advmod	3:advmod	_
 3	give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
-4	these	these	DET	DT	Number=Plur|PronType=Dem	5	det	5:det	_
+4	these	this	DET	DT	Number=Plur|PronType=Dem	5	det	5:det	_
 5	guys	guy	NOUN	NNS	Number=Plur	3	iobj	3:iobj	_
 6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
 7	penny	penny	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No

@@ -146,10 +146,10 @@ The most frequent other feature values with which `DET` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (1619; 83%),
-<tt>VERB --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (597; 61%),
-<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (87; 65%),
-<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (33; 67%),
+<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (1618; 83%),
+<tt>VERB --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (598; 61%),
+<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (87; 64%),
+<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (33; 69%),
 <tt>AUX --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (27; 71%),
 <tt>AUX --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (17; 77%),
 <tt>AUX --[<tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (17; 85%),

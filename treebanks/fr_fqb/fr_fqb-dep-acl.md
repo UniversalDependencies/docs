@@ -46,7 +46,7 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 12 acl	color:blue
-1	Il	il_y_a	PRON	_	Mood=Ind	0	root	_	EXTPOS=V
+1	Il	il_y_a	PRON	_	Mood=Ind	0	root	_	ExtPos=V
 2	y	_	PRON	_	_	1	fixed	_	_
 3	a	_	VERB	_	Mood=Ind|VerbForm=Fin	1	fixed	_	_
 4	combien	combien	ADV	_	PronType=Int	1	obj	_	_

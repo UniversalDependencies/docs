@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Faroese-OFT: POS Tags: `ADJ`
 
 There are 270 `ADJ` lemmas (11%), 428 `ADJ` types (13%) and 760 `ADJ` tokens (8%).
-Out of 15 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
+Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>stórur, nógvur, mangur, annar, føroyskur, gamal, góður, lítil, høgur, samur</em>
 
@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>størsta</em> (<tt><a href="fo_oft-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.585185 (the average of all parts of speech is 1.289602).
+The form / lemma ratio of `ADJ` is 1.585185 (the average of all parts of speech is 1.290924).
 
 The 1st highest number of forms (14) was observed with the lemma “stórur”: <em>stór, stóra, stóran, stórar, stóri, stórir, stórt, stóru, stórum, stórur, størri, størsta, størsti, størstu</em>.
 
@@ -83,5 +83,5 @@ The highest child degree of a `ADJ` node is 6.
 
 Children of `ADJ` nodes are attached using 20 different relations: <tt><a href="fo_oft-dep-punct.html">punct</a></tt> (110; 23% instances), <tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt> (100; 21% instances), <tt><a href="fo_oft-dep-cop.html">cop</a></tt> (97; 21% instances), <tt><a href="fo_oft-dep-obl.html">obl</a></tt> (39; 8% instances), <tt><a href="fo_oft-dep-conj.html">conj</a></tt> (34; 7% instances), <tt><a href="fo_oft-dep-advmod.html">advmod</a></tt> (32; 7% instances), <tt><a href="fo_oft-dep-cc.html">cc</a></tt> (22; 5% instances), <tt><a href="fo_oft-dep-mark.html">mark</a></tt> (8; 2% instances), <tt><a href="fo_oft-dep-dep.html">dep</a></tt> (6; 1% instances), <tt><a href="fo_oft-dep-nmod.html">nmod</a></tt> (5; 1% instances), <tt><a href="fo_oft-dep-advcl.html">advcl</a></tt> (4; 1% instances), <tt><a href="fo_oft-dep-case.html">case</a></tt> (3; 1% instances), <tt><a href="fo_oft-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="fo_oft-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="fo_oft-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-nummod.html">nummod</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Children of `ADJ` nodes belong to 12 different parts of speech: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (121; 26% instances), <tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (110; 23% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (107; 23% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (35; 7% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (25; 5% instances), <tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (22; 5% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (15; 3% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (15; 3% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (8; 2% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="fo_oft-pos-DET.html">DET</a></tt> (1; 0% instances)
+Children of `ADJ` nodes belong to 13 different parts of speech: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (121; 26% instances), <tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (110; 23% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (97; 21% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (35; 7% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (25; 5% instances), <tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (22; 5% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (15; 3% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (15; 3% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (8; 2% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="fo_oft-pos-DET.html">DET</a></tt> (1; 0% instances)
 

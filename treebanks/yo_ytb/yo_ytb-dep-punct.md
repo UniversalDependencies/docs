@@ -10,10 +10,10 @@ This relation is universal.
 
 1114 nodes (14%) are attached to their parents as `punct`.
 
-615 instances of `punct` (55%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.0754039497307.
+614 instances of `punct` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.08078994614004.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (809; 73% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (185; 17% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (36; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (26; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (23; 2% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (17; 2% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (8; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (808; 73% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (185; 17% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (36; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (26; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (24; 2% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (17; 2% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (8; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 4	gbogbo	gbogbo	DET	_	_	5	det	_	Gloss=all|Ref=GEN_1.1
 5	Ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	Gloss=god|Ref=GEN_1.1
 6	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.1
-7	àwọn	àwọn	DET	_	_	8	det	_	Gloss=the|Ref=GEN_1.1
+7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	8	det	_	Gloss=the|Ref=GEN_1.1
 8	ọ̀run	ọ̀run	NOUN	_	_	6	obj	_	Gloss=heaven|Ref=GEN_1.1
 9	àti	àti	CCONJ	_	_	10	cc	_	Gloss=and|Ref=GEN_1.1
 10	ayé	ayé	NOUN	_	_	8	conj	_	Gloss=earth|Ref=GEN_1.1|SpaceAfter=No
@@ -74,7 +74,7 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 12	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	appos	_	Gloss=he|Ref=JOHN_10.2
 13	ni	ni	PART	_	_	12	case	_	Gloss=is|Ref=JOHN_10.2
 14	olùṣọ́	olùṣọ́	NOUN	_	_	0	root	_	Gloss=shepherd|Ref=JOHN_10.2
-15	àwọn	àwọn	DET	_	_	16	det	_	Gloss=the|Ref=JOHN_10.2
+15	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	16	det	_	Gloss=the|Ref=JOHN_10.2
 16	àgùntàn	àgùntàn	NOUN	_	_	14	nmod	_	Gloss=sheep|Ref=JOHN_10.2|SpaceAfter=No
 17	.	.	PUNCT	_	_	14	punct	_	Gloss=.|Ref=JOHN_10.2
 

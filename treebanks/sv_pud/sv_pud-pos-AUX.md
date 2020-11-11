@@ -74,9 +74,9 @@ Examples: <em>är, har, kan, kommer, måste, ska, vill, bör, blir, får</em>
 
 Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (340; 46% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (168; 23% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (167; 23% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (14; 2% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (11; 2% instances),  (8; 1% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances)
 
-718 (98%) `AUX` nodes are leaves.
+720 (98%) `AUX` nodes are leaves.
 
-2 (0%) `AUX` nodes have one child.
+0 (0%) `AUX` nodes have one child.
 
 1 (0%) `AUX` nodes have two children.
 
@@ -84,7 +84,7 @@ Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_pu
 
 The highest child degree of a `AUX` node is 6.
 
-Children of `AUX` nodes are attached using 12 different relations: <tt><a href="sv_pud-dep-punct.html">punct</a></tt> (11; 23% instances), <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (10; 21% instances), <tt><a href="sv_pud-dep-ccomp.html">ccomp</a></tt> (4; 8% instances), <tt><a href="sv_pud-dep-expl.html">expl</a></tt> (4; 8% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (4; 8% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (3; 6% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (3; 6% instances), <tt><a href="sv_pud-dep-xcomp.html">xcomp</a></tt> (3; 6% instances), <tt><a href="sv_pud-dep-aux.html">aux</a></tt> (2; 4% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (2; 4% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="sv_pud-dep-cc.html">cc</a></tt> (1; 2% instances)
+Children of `AUX` nodes are attached using 12 different relations: <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (10; 22% instances), <tt><a href="sv_pud-dep-punct.html">punct</a></tt> (9; 20% instances), <tt><a href="sv_pud-dep-ccomp.html">ccomp</a></tt> (4; 9% instances), <tt><a href="sv_pud-dep-expl.html">expl</a></tt> (4; 9% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (4; 9% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (3; 7% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (3; 7% instances), <tt><a href="sv_pud-dep-xcomp.html">xcomp</a></tt> (3; 7% instances), <tt><a href="sv_pud-dep-aux.html">aux</a></tt> (2; 4% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (2; 4% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="sv_pud-dep-cc.html">cc</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-PUNCT.html">PUNCT</a></tt> (11; 23% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (9; 19% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (9; 19% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (9; 19% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (3; 6% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (3; 6% instances), <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances)
+Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (9; 20% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (9; 20% instances), <tt><a href="sv_pud-pos-PUNCT.html">PUNCT</a></tt> (9; 20% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (9; 20% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (3; 7% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (3; 7% instances), <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances)
 

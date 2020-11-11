@@ -83,17 +83,17 @@ Examples: <em>that, as, if, because, though, while, before, whether, for, so</em
 
 Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1177; 76% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (112; 7% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (104; 7% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (92; 6% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (22; 1% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (20; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 0% instances),  (1; 0% instances)
 
-1424 (91%) `SCONJ` nodes are leaves.
+1420 (91%) `SCONJ` nodes are leaves.
 
-130 (8%) `SCONJ` nodes have one child.
+132 (8%) `SCONJ` nodes have one child.
 
-2 (0%) `SCONJ` nodes have two children.
+4 (0%) `SCONJ` nodes have two children.
 
 1 (0%) `SCONJ` nodes have three or more children.
 
 The highest child degree of a `SCONJ` node is 4.
 
-Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (98; 71% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (28; 20% instances), <tt><a href="en_lines-dep-punct.html">punct</a></tt> (6; 4% instances), <tt><a href="en_lines-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="en_lines-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="en_lines-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="en_lines-dep-csubj.html">csubj</a></tt> (1; 1% instances), <tt><a href="en_lines-dep-expl.html">expl</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (98; 68% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (28; 19% instances), <tt><a href="en_lines-dep-punct.html">punct</a></tt> (12; 8% instances), <tt><a href="en_lines-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="en_lines-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="en_lines-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="en_lines-dep-csubj.html">csubj</a></tt> (1; 1% instances), <tt><a href="en_lines-dep-expl.html">expl</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (92; 67% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (26; 19% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (6; 4% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (92; 64% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (26; 18% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (12; 8% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

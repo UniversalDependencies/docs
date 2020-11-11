@@ -63,7 +63,7 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 4	fgColor:white
 # visual-style 4 10 advcl	color:blue
 1	Føroyar	Føroyar	PROPN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	4	nsubj	_	_
-2	eru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Pres	4	cop	_	_
+2	eru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Pres	4	cop	_	_
 3	ikki	ikki	ADV	Adv	_	4	advmod	_	_
 4	limur	limur	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	í	í	ADP	Pr	_	6	case	_	_

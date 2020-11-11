@@ -23,12 +23,12 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 8 parataxis	color:blue
 1	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	_
-2	a	a	PART	vpart	_	3	aux	_	_
+2	a	a	AUX	vpart	_	3	aux	_	_
 3	rae	ober	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	stamm	stamm	NOUN	n	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	cm	_	8	punct	_	_
 6	Mari	Mari	PROPN	np	Gender=Fem|Number=Sing	8	nsubj	_	_
-7	a	a	PART	vpart	_	8	aux	_	_
+7	a	a	AUX	vpart	_	8	aux	_	_
 8	laboure	labourat	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
 9	.	.	PUNCT	sent	_	3	punct	_	_
 
@@ -44,11 +44,11 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Hanter-kant	hanter-kant	NUM	num	Number=Plur	2	nummod	_	_
 2	skoed	skoed	NOUN	n	Gender=Masc|Number=Sing	7	parataxis	_	SpaceAfter=No
 3	,	,	PUNCT	cm	_	5	punct	_	_
-4	emezi	eme	ADP	pr	_	5	case	_	_
+4	eme	eme	ADP	pr	_	5	case	_	_
 5	zi	indirect	PRON	prn	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	parataxis	_	_
 6	,	,	PUNCT	cm	_	5	punct	_	_
 7	em eus	kaout	VERB	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	em	e	ADP	pr	_	10	case	_	_
+8	e	e	ADP	pr	_	10	case	_	_
 9	m	ma	DET	det	Poss=Yes	10	det	_	_
 10	yalc'h	yalc’h	NOUN	n	Gender=Fem|Number=Sing	7	obl	_	_
 11	amañ	amañ	ADV	adv	_	7	advmod	_	SpaceAfter=No
@@ -64,12 +64,12 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 8 parataxis	color:blue
 1	Yann	Yann	PROPN	np	Gender=Masc|Number=Sing	3	nsubj	_	_
-2	a	a	PART	vpart	_	3	aux	_	_
+2	a	a	AUX	vpart	_	3	aux	_	_
 3	davas	tevel	VERB	vblex	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	cm	_	8	punct	_	_
 5	Mari	Mari	PROPN	np	Gender=Fem|Number=Sing	8	nsubj	_	_
-6	e	e	PART	vpart	_	8	aux	_	_
-7	oa	bezañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+6	e	e	AUX	vpart	_	8	aux	_	_
+7	oa	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
 8	skuizh	skuizh	ADJ	adj	_	3	parataxis	_	SpaceAfter=No
 9	.	.	PUNCT	sent	_	3	punct	_	_
 

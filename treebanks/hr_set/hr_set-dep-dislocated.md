@@ -145,7 +145,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 39	s	sa	ADP	Si	Case=Ins	40	case	_	_
 40	New	New	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	31	nmod	_	_
 41	York	York	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	40	flat	_	_
-42	Timesom	Times	X	Xf	_	40	compound	_	SpaceAfter=No
+42	Timesom	Times	X	Xf	_	40	flat	_	SpaceAfter=No
 43	.	.	PUNCT	Z	_	20	punct	_	_
 
 ~~~

@@ -10,10 +10,10 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-1868 tokens (5%) have a non-empty value of `PronType`.
+1873 tokens (5%) have a non-empty value of `PronType`.
 147 types (3%) occur at least once with a non-empty value of `PronType`.
 33 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1161; 3% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (631; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (76; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1161; 3% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (636; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (76; 0% instances).
 
 ### `DET`
 
@@ -36,14 +36,14 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-631 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+636 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (560; 89%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (541; 86%), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (538; 85%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (511; 81%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (475; 75%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (475; 75%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (469; 74%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (565; 89%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (546; 86%), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (543; 85%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (516; 81%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (480; 75%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (480; 75%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (474; 75%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Prs` (546; 87% of non-empty `PronType`): <em>se, jej, je, jim, jí, ji, nich, ní, sobě, jimi</em>
-* `Rel` (73; 12% of non-empty `PronType`): <em>nichž, němž, němuž, jimiž, jehož, níž, nějž, jenž, jež, jímž</em>
+* `Prs` (551; 87% of non-empty `PronType`): <em>se, jej, je, jim, jí, ji, nich, ní, sobě, jimi</em>
+* `Rel` (73; 11% of non-empty `PronType`): <em>nichž, němž, němuž, jimiž, jehož, níž, nějž, jenž, jež, jímž</em>
 * `Tot` (12; 2% of non-empty `PronType`): <em>veškeré, veškerého, veškerých, veškerými</em>
 
 ### `ADV`

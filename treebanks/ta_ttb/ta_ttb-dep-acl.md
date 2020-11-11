@@ -8,30 +8,26 @@ udver: '2'
 
 This relation is universal.
 
-41 nodes (0%) are attached to their parents as `acl`.
+132 nodes (1%) are attached to their parents as `acl`.
 
-22 instances of `acl` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.53658536585366.
+110 instances of `acl` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75757575757576.
 
-The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (27; 66% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (9; 22% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (4; 10% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (103; 78% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (9; 7% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (6; 5% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 acl	color:blue
-1	இதனால்	இதனால்	ADV	AA-------	_	8	advmod	8:advmod	Translit=itanāl|LTranslit=itanāl
-2	அவர்கள்	அவர்	PRON	RpN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	Translit=avarkaḷ|LTranslit=avar
-3	கைது	கைது	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	obj	8:obj	Translit=kaitu|LTranslit=kaitu
-4	செய்யப்	செய்	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	3	acl	3:acl	Translit=ceyyap|LTranslit=cey
-5	படக்	படு	AUX	VU-T---PA	Polarity=Pos|VerbForm=Inf|Voice=Pass	3	aux	3:aux	Translit=paṭak|LTranslit=paṭu
-6	கூடும்	கூடு	AUX	VR-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	3	aux	3:aux	Translit=kūṭum|LTranslit=kūṭu
-7	எனக்	என்	PART	Tt-T----A	Polarity=Pos|VerbForm=Inf	3	mark	3:mark	Translit=enak|LTranslit=en
-8	கருதப்	கருது	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=karutap|LTranslit=karutu
-9	பட்டது	படு	AUX	VR-D3SNPA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	8	aux	8:aux	SpaceAfter=No|Translit=paṭṭatu|LTranslit=paṭu
-10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	8:punct	Translit=.|LTranslit=.
+# visual-style 3 2 acl	color:blue
+1	அதற்கு	அது	ADV	AA-------	_	5	advmod	5:advmod	Translit=atarku|LTranslit=atu
+2	கடந்த	கடந்த	VERB	JJ-------	_	3	acl	3:acl	Translit=kaṭanta|LTranslit=kaṭanta
+3	சட்டப்பேரவைத்	சட்டப்பேரவை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod:nom	Translit=caṭṭappēravait|LTranslit=caṭṭappēravai
+4	தேர்தலில்	தேர்தல்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	5	obl	5:obl:loc	Translit=tērtalil|LTranslit=tērtal
+5	பலன்கிட்டியது	பலன்கிட்டு	VERB	Vr-D3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=palankiṭṭiyatu|LTranslit=palankiṭṭu
+6	.	.	PUNCT	Z#-------	PunctType=Peri	5	punct	5:punct	Translit=.|LTranslit=.
 
 ~~~
 
@@ -57,20 +53,29 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 acl	color:blue
-1	குஜராத்	குஜராத்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod:nom	Translit=kujarāt|LTranslit=kujarāt
-2	உள்ளாட்சித்	உள்ளாட்சி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod:nom	Translit=uḷḷāṭcit|LTranslit=uḷḷāṭci
-3	தேர்தலில்	தேர்தல்	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl:loc	Translit=tērtalil|LTranslit=tērtal
-4	பெரும்பான்மையான	பெரும்பான்மை	ADJ	JJ-------	_	5	amod	5:amod	Translit=perumpānmaiyāna|LTranslit=perumpānmai
-5	இடங்களில்	இடம்	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	7	obl	7:obl:loc	Translit=iṭaṅkaḷil|LTranslit=iṭam
-6	பாஜக	பாஜக	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	Translit=pājaka|LTranslit=pājaka
-7	வெற்றி	வெற்றி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=verri|LTranslit=verri
-8	பெற்றுள்ளது	பெறு	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	7	acl	7:acl	SpaceAfter=No|Translit=perruḷḷatu|LTranslit=peru
-9	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	7:punct	Translit=.|LTranslit=.
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 10 acl	color:blue
+1	இவர்	இவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	14	nsubj	14:nsubj	Translit=ivar|LTranslit=ivar
+2	2009	2009	NUM	U=-------	NumForm=Digit	3	nummod	3:nummod	Translit=2009|LTranslit=2009
+3	ஜனவரி	ஜனவரி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	obl	4:obl:nom	Translit=janavari|LTranslit=janavari
+4	முதல்	முதல்	ADP	PP-------	AdpType=Post	10	obj	10:obj	Translit=mutal|LTranslit=mutal
+5	2010	2010	NUM	U=-------	NumForm=Digit	6	nummod	6:nummod	Translit=2010|LTranslit=2010
+6	ஜூன்	ஜூன்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nmod	7:nmod:nom	Translit=jūn|LTranslit=jūn
+7	மாதம்	மாதம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obl	10:obl:வரை:nom	Translit=mātam|LTranslit=mātam
+8	வரை	வரை	ADP	PP-------	AdpType=Post	7	case	7:case	Translit=varai|LTranslit=varai
+9	பதவியில்	பதவி	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	10	obl	10:obl:loc	Translit=pataviyil|LTranslit=patavi
+10	இருந்த	இரு	VERB	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	14	acl	14:acl	Translit=irunta|LTranslit=iru
+11	போது	போது	PART	Tn-------	_	10	mark	10:mark	Translit=pōtu|LTranslit=pōtu
+12	பல்வேறு	பல்வேறு	ADJ	JJ-------	_	13	amod	13:amod	Translit=palvēru|LTranslit=palvēru
+13	மோசடிகள்	மோசடி	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	14	obj	14:obj	Translit=mōcaṭikaḷ|LTranslit=mōcaṭi
+14	செய்தத்	செய்	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	17	ccomp	17:ccomp	Translit=ceytat|LTranslit=cey
+15	ஆக	ஆக	PART	Tg-------	_	14	mark	14:mark	Translit=āka|LTranslit=āka
+16	புகார்	புகார்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	17	nsubj	17:nsubj	Translit=pukār|LTranslit=pukār
+17	எழுந்தன	எழு	VERB	Vr-D3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=eluntana|LTranslit=elu
+18	.	.	PUNCT	Z#-------	PunctType=Peri	17	punct	17:punct	Translit=.|LTranslit=.
 
 ~~~
 

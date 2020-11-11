@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="koi_uh-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="koi_uh-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-23 nodes (3%) are attached to their parents as `obl:lmod`.
+29 nodes (3%) are attached to their parents as `obl:lmod`.
 
-13 instances of `obl:lmod` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.1304347826087.
+16 instances of `obl:lmod` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.13793103448276.
 
-The following 5 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (16; 70% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (3; 13% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (21; 72% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (3; 10% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -31,23 +31,6 @@ The following 5 pairs of parts of speech are connected with `obl:lmod`: <tt><a h
 6	петісӧ	петны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	conj	_	GTtags=Ind,Prt1,Pl3
 7	жырись	жыр	NOUN	_	Case=Ela|Number=Sing	6	obl:lmod	_	GTtags=Sg,Ela|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 obl:lmod	color:blue
-1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	быдмис	быдмыны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
-3	Парижын	Париж	PROPN	_	Case=Ine|NameType=Geo|Number=Sing	2	obl:lmod	_	GTtags=Prop,Sg,Ine|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	6	punct	_	_
-5	Франция	Франция	PROPN	_	Case=Nom|NameType=Geo|Number=Sing	6	nmod	_	GTtags=Prop,Sg,Nom
-6	юркарын	юркар	NOUN	_	Case=Ine|Number=Sing	3	appos	_	GTtags=Sg,Ine|SpaceAfter=No
-7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 
@@ -74,6 +57,23 @@ The following 5 pairs of parts of speech are connected with `obl:lmod`: <tt><a h
 14	кытчӧ	кытчӧ	ADV	_	AdvType=Loc|Case=Ill|PronType=Int	15	advmod:lmod	_	GTtags=Interr,Spat,Ill
 15	воштісьны	воштісьны	VERB	_	VerbForm=Inf	8	conj	_	SpaceAfter=No
 16	.	.	PUNCT	CLB	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 obl:lmod	color:blue
+1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
+2	быдмис	быдмыны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
+3	Парижын	Париж	PROPN	_	Case=Ine|NameType=Geo|Number=Sing	2	obl:lmod	_	GTtags=Prop,Sg,Ine|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	6	punct	_	_
+5	Франция	Франция	PROPN	_	Case=Nom|NameType=Geo|Number=Sing	6	nmod	_	GTtags=Prop,Sg,Nom
+6	юркарын	юркар	NOUN	_	Case=Ine|Number=Sing	3	appos	_	GTtags=Sg,Ine|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

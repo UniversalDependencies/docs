@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="myv_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt>.
 
-44 nodes (0%) are attached to their parents as `obl:tmod`.
+57 nodes (0%) are attached to their parents as `obl:tmod`.
 
-34 instances of `obl:tmod` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.20454545454545.
+46 instances of `obl:tmod` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.31578947368421.
 
-The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (19; 43% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (17; 39% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (30; 53% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (19; 33% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -54,17 +54,16 @@ The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 obl:tmod	color:blue
-1	Омбоце	кавто	ADJ	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Ord	2	amod	_	GTtags=Ord
-2	недля	недля	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	obl:tmod	_	GTtags=Sg,Nom,Indef
-3	Дёбаень	Дёбай	PROPN	N	Case=Gen|Definite=Ind|NameType=Hom|Number=Plur,Sing	4	nmod	_	GTtags=Sem/Sur,Prop,SP,Gen,Indef
-4	Микол	Микол	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	GTtags=Ant_Mal,Prop,Sg,Nom,Indef
-5	тайгасо	тайга	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	0	root	_	GTtags=SP,Ine,Indef|SpaceAfter=No
-6	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 obl:tmod	color:blue
+1	Пазось	Паз	NOUN	N	Case=Nom|Definite=Def	4	nsubj	_	GTtags=Sg,Nom,Def
+2	те	те	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	3	det	_	GTtags=Dem,Sg,Nom,Indef
+3	шкане	шка	NOUN	N	Case=Temp|Definite=Ind|Number=Plur,Sing	4	obl:tmod	_	GTtags=SP,TempCx,Indef
+4	ютксонок	ютко	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=1	0	root	_	GTtags=Relator,Spat,Ine,PxPl1|SpaceAfter=No
+5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

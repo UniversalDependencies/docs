@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-43 nodes (3%) are attached to their parents as `obj`.
+42 nodes (3%) are attached to their parents as `obj`.
 
-26 instances of `obj` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.67441860465116.
+26 instances of `obj` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.69047619047619.
 
-The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (34; 79% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (8; 19% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (33; 79% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (8; 19% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

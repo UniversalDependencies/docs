@@ -84,7 +84,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 12621 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12612; 100%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (9944; 79%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9059; 72%), <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt> (7310; 58%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (6599; 52%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6433; 51%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12612; 100%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (9944; 79%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9059; 72%), <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt> (8690; 69%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (6690; 53%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6433; 51%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -95,7 +95,6 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>me</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>se</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>él, ello</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ellos</em></td></tr>
@@ -107,12 +106,18 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td></td><td><em>los</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td></td><td><em>la</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td></td><td><em>las</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td></td><td><em>se</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>se</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>sí</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>consigo</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>consigo</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>me</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>le</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td></td><td><em>se</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>se</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>se</em></td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `PRON`. 92% lemmas (12) occur only with one value of `Person`.
@@ -128,7 +133,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (463; 9% of non-empty `Person`): <em>mi, nuestra, nuestro, nuestros, mis, nuestras, mío, mía</em>
 * `2` (32; 1% of non-empty `Person`): <em>tu, tus, vuestra, vuestras</em>
 * `3` (4911; 91% of non-empty `Person`): <em>su, sus, suyo, suya, suyos, suyas, Seu, Seva</em>
-* `EMPTY` (68226): <em>la, el, los, un, las, una, este, esta, todo, esa</em>
+* `EMPTY` (68232): <em>la, el, los, un, las, una, este, esta, todo, esa</em>
 
 `Person` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `Person`.
 
@@ -136,13 +141,13 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (2388; 70%),
+<tt>VERB --[<tt><a href="es_ancora-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (2150; 67%),
 <tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2107; 53%),
+<tt>VERB --[<tt><a href="es_ancora-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (1590; 71%),
 <tt>VERB --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> PRON</tt> (503; 72%),
-<tt>VERB --[<tt><a href="es_ancora-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (487; 60%),
-<tt>VERB --[<tt><a href="es_ancora-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (397; 80%),
 <tt>AUX --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (282; 55%),
+<tt>VERB --[<tt><a href="es_ancora-dep-expl-impers.html">expl:impers</a></tt>]--> PRON</tt> (275; 78%),
 <tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (231; 79%),
 <tt>VERB --[<tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (92; 51%),
-<tt>AUX --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (81; 54%),
-<tt>VERB --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (64; 52%).
+<tt>AUX --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (81; 54%).
 

@@ -6,97 +6,92 @@ udver: '2'
 
 ## Treebank Statistics: UD_Scottish_Gaelic-ARCOSG: POS Tags: `SCONJ`
 
-There are 48 `SCONJ` lemmas (1%), 47 `SCONJ` types (1%) and 470 `SCONJ` tokens (1%).
+There are 52 `SCONJ` lemmas (1%), 53 `SCONJ` types (1%) and 725 `SCONJ` tokens (1%).
 Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 10 in number of types and 14 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>nuair, mar, ged, ma, far, gus, mus, mun, mur, bho</em>
+The 10 most frequent `SCONJ` lemmas: <em>mar, nuair, ma, ged, 's, far, agus, gus, is, mur</em>
 
-The 10 most frequent `SCONJ` types:  <em>nuair, mar, ged, ma, far, gus, mus, mun, mur, bho</em>
+The 10 most frequent `SCONJ` types:  <em>mar, nuair, ma, ged, 's, far, agus, gus, is, mur</em>
 
-The 10 most frequent ambiguous lemmas: <em>mar</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 94, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 83, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 1, <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> 1), <em>ged</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 41, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ma</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 40, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 2), <em>far</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 9), <em>gus</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 16), <em>mun</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 22, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 13), <em>bho</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 108, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 2), <em>uair</em> (<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 10, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10), <em>so</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1), <em>an</em> (<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 2415, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 781, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 119, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 113, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 11, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>mar</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 135, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 126, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 4, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 3, <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> 1), <em>ma</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 63, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 10, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 1), <em>ged</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 48, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>'s</em> (<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 462, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 44, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 3, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 1), <em>far</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 41, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 13), <em>agus</em> (<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 978, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 28), <em>gus</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 17), <em>is</em> (<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 764, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 194, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 1), <em>mun</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 14, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 14), <em>bho</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 153, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 13)
 
-The 10 most frequent ambiguous types:  <em>mar</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 79, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 72, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 1), <em>ged</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ma</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 2), <em>far</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 9), <em>gus</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 15), <em>mun</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 22, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 13), <em>bho</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 80, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 2), <em>uair</em> (<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 30, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 10, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10), <em>so</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1), <em>an</em> (<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 1043, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 451, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 112, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 111, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 14, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 11, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>mar</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 124, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 111, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 4, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 3), <em>ma</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 50, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 10, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 1), <em>ged</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 38, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>'s</em> (<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 385, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 124, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 3, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 1), <em>far</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 41, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 13), <em>agus</em> (<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 926, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 28), <em>gus</em> (<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 16), <em>is</em> (<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 189, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 153, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 19), <em>mun</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 14, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 14), <em>bho</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 110, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 2)
 
 
 * <em>mar</em>
-  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 79: <em>Chuala e i a' snotairich <b>mar</b> each aig ceann sgrìob ghoirid .</em>
-  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 72: <em>uill ‘s iongantach <b>mar</b> a chuala</em>
-  * <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5: <em>“ Dé <b>mar</b> a ghabhas sin a bhith , " ars’ esan “ airson tighinn dha do thaigh a raoir ? "</em>
-  * <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 1: <em>Tha comhairlean coimhearsnachd Bharraigh ag ràdh gu bheil na cìsean a chaidh aontachadh air an t-seachdainn sa chaidh ro àrd , agus nach eil e idir soilleir dè <b>mar</b> a thèid tomhas a dhèanamh air dè na bhitheas aig daoine ri phàigheadh .</em>
-* <em>ged</em>
-  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 32: <em>“ Dhèanainn seo , " thuirt e , “ <b>ged</b> a bhithinn na mo chadal . "</em>
-  * <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Bha e neisd a' tighinn am fianuis na h-Airde agus chitheadh e solus an tigh-sheinnse , <b>ged</b> nach robh biùg as na tighean eile fhathast .</em>
+  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 124: <em>uill ‘s iongantach <b>mar</b> a chuala</em>
+  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 111: <em>Chuala e i a' snotairich <b>mar</b> each aig ceann sgrìob ghoirid .</em>
+  * <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 4: <em>“ Dé <b>mar</b> a ghabhas sin a bhith , " ars’ esan “ airson tighinn dha do thaigh a raoir ? "</em>
+  * <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 3: <em>dè <b>mar</b> a tha iad còmhla ri iadsan anns an taigh 's dè dè na an fheum iad a bhith dol do an vet tric no dè 'm biadh a dh'fheumas iad ithe 's tha sin fhèin coisgeil</em>
 * <em>ma</em>
-  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 27: <em>Ach <b>ma</b> dh'fhaoidte thèid d' fhuadachadh air falbh às a-seo buileach " .</em>
-  * <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5: <em>Tha dùil gum mol e gearradh de <b>ma</b> naoi deug not sa bhliadhna thar nan còig bliadhna romhainn .</em>
-  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 2: <em>Cuiridh oifigearan na comhairle aithisg <b>ma</b> choinneamh nan comhairlichean foghlaim an-diugh - far a bheil iad an ìre mhath taiceil do dh'fhoghlam tro mheadhan na Gàidhlig .</em>
+  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 50: <em>Ach <b>ma</b> dh'fhaoidte thèid d' fhuadachadh air falbh às a-seo buileach " .</em>
+  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 10: <em>thà dìreach <b>ma</b> chòig seachdainn a [Name]</em>
+  * <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 5: <em>Tha dùil gum mol e gearradh de <b>ma</b> naoi deug not anns an bhliadhna thar nan còig bliadhna ro sinn .</em>
+  * <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 1: <em>bha a’ chlann aig iad 'n uairsin agus co-dhiubh a’ bhliadhna bha seothach anns an t-Earrach bha e ' cur a-staigh na cruaich <b>ma</b> dheireadh mar a b' àbhaist agus a’ bhliadhna bha seo is an e a bha a’ chlann air fàs suas agus is an e a bha feadhainn de iad ag a chuideachadh a' cur a-staigh na cruaicheadh agus chuir iad a-staigh a’ chruach 's fhuair esan am bian mar a' b' àbhaist 's chuir e 'm bian a' falach air chùl nan sparran anns an àthaidh ach an oidhche bha seothach is an e a bha am màthair a' cur na cloinneadh a chadal agus thuirt tè dhen a’ chloinn dhe na h-igheanan ri a màthair ò mhàthair ars’ ise is e a bha briagha an rud a bh' aig m' athair a's a’ chruaich an-diugh ars’ ise a's a’ chruaich arbhair</em>
+* <em>ged</em>
+  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 38: <em>ò dh’fhaodadh i a bhith onorach gu leòr mar sin <b>ged</b> a bha rudan eile [?]</em>
+  * <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Bha e neisd a' tighinn am fianuis na h-Airde agus chitheadh e solus an tigh-sheinnse , <b>ged</b> nach robh biùg as na tighean eile fhathast .</em>
+* <em>'s</em>
+  * <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 385: <em><b>'s</b> dè fhuair thu le e ?</em>
+  * <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 124: <em>ò <b>'s</b> an e</em>
+  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 43: <em>Dh’innis e do iad gun deach e air chall ann an ceò <b>'s</b> e 'g iasgach .</em>
+  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 3: <em>Chaidh aontachadh cuideachd gun tèid ùrnaighean a chumail anns a’ Phàrlamaid uair <b>'s</b> an t-seachdainn le diofar eaglaisean is chreideamhan os an cionn .</em>
+  * <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 1: <em>Mar a thuirt Samaidh , “ Is sinne <b>'s</b> fhaide a mhaireas a dh’aindeoin deacaireachd .</em>
 * <em>far</em>
-  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 33: <em>“ Bheil rùm agad <b>far</b> am faod mi an t-èileadh a chur orm ? "</em>
-  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 9: <em>Cha togadh tu do thòin <b>far</b> a' bheing , nam faigheadh tu às leis .</em>
+  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 41: <em>thà ach siud <b>far</b> 'eil àsan</em>
+  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 13: <em>Cha togadh tu do thòin <b>far</b> a' bheing , nam faigheadh tu as e le e .</em>
+* <em>agus</em>
+  * <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 926: <em><b>agus</b> ciamar a bha a’ homework an do choimhead an tidsear ri e ?</em>
+  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 28: <em>Bha Ludovic an a chabhaig , <b>agus</b> aithreachas air e .</em>
 * <em>gus</em>
-  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 19: <em>Ghluais e bho thaobh gu taobh e <b>gus</b> an robh am feur air a phronnadh , dorch .</em>
-  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 15: <em>tha sinn <b>gus</b> a’ gnothach a dhèanamh orra co-dhiubh</em>
+  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 23: <em>seachdainn a tha an e <b>gus</b> am bi sinn a’ dol gus an [Placename] ?</em>
+  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 16: <em>tha sinn <b>gus</b> a’ gnothach a dhèanamh air iad co-dhiubh</em>
+* <em>is</em>
+  * <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 189: <em>Clach air na fhras uisge <b>is</b> clachan-meallain , agus ùird , agus mionnan .</em>
+  * <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 153: <em><b>is</b> e leabhar gu math doirbh a tha sin a [Name]</em>
+  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 19: <em>'S e dh’fhaodadh , <b>is</b> fhios aig e nach dèanadh i dad dhe leithid .</em>
 * <em>mun</em>
-  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 22: <em>Chaidh Seumas Longridge a ghortachadh <b>mun</b> aodann 's <b>mun</b> bhodhaig</em>
-  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 13: <em>An lùib sin , bu mhath leis barrachd tìde <b>mun</b> cuireadh e prìs mu choinneamh an fhàinne .</em>
+  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 14: <em>an a aodach dorch leis a’ chrios ròpa <b>mun</b> cuairt air e .</em>
+  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 14: <em>An lùib sin , bu mhath le e barrachd tìde <b>mun</b> cuireadh e prìs mu choinneamh an fhàinne .</em>
 * <em>bho</em>
-  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 80: <em>tha e air a bhith ann a shin <b>bho</b> chionn bhliadhnachan</em>
-  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10: <em>Bha sia bliadhna deug a nise <b>bho</b> thugadh bhuapa feurach na beinne .</em>
+  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 110: <em>tha e air a bhith ann a shin <b>bho</b> chionn bhliadhnachan</em>
+  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 13: <em>Bha sia bliadhna deug a nise <b>bho</b> thugadh bhuapa iad feurach na beinne .</em>
   * <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 2: <em>Tha 'n Riaghaltas air siostam rabhaidh ùr òrdachadh , a chuireas stad air trèanaichean <b>bho</b> bhith dol tro' na soluis dhearg .</em>
-* <em>uair</em>
-  * <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 30: <em>dè an <b>uair</b> ?</em>
-  * <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 10: <em>dè thachair an <b>uair</b> sin ?</em>
-  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 10: <em>Chan eil fhios agam air a’ Ghàidhlig air son “ role model " ach an <b>uair</b> a bha mise òg bha gu leòr dhiubh sin agamsa .</em>
-* <em>so</em>
-  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 8: <em>thuirt [Name] gun robh e ag obair gu anmoch <b>so</b> [?]</em>
-  * <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1: <em>a’ sgioba a b' fhearr a ghlaodh an sgìre ri chèile daoine mòra tapaidh làidir agus fiadhaich cuideachd <b>so</b></em>
-  * <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1: <em>“ Who says <b>so</b> ? " a’s esan .</em>
-* <em>an</em>
-  * <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 1043: <em>agus ciamar a bha a’ homework an do choimhead <b>an</b> tidsear ris ?</em>
-  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 451: <em>leth-uair <b>an</b> deidh a h-ochd</em>
-  * <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 112: <em>turkey burger <b>an</b> robh e math ?</em>
-  * <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 111: <em>a bheil an cnatan air duine sam bith eile thall <b>an</b> sin a [Name] ?</em>
-  * <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 14: <em><b>an</b> toil leat mince pies ?</em>
-  * <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 13: <em>Tha dà shluagh eile anns an Eòrpa <b>an</b> Iar nach eil cinnt aig daoine co ás a thàinig iad .</em>
-  * <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 11: <em>Cha robh na daoine moltach air <b>an</b> seo .</em>
-  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 6: <em>Chan eil fhios agam air a’ Ghàidhlig air son “ role model " ach <b>an</b> uair a bha mise òg bha gu leòr dhiubh sin agamsa .</em>
-  * <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 3: <em>Ach bho thoiseach bha an gaol anns an fhuath agus cha b' fhada gus an robh dà shealladh aig a mhac-meanmna air a' Chuilthionn : an sealladh faisg , far am b' àille Sgùrr nan Gillean ; agus sealladh fad as : Sgùrr a' Ghreadaidh , geàrrte gorm anns an àird <b>an</b> iaras .</em>
-  * <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 2: <em>Ann an sgrìobhaidhean Èireannach tha i air a h-ainmeachadh mar Eachtra <b>an</b> Cheatharnaigh Chaoilriabhaigh no Eachtra Cheatharnaigh Uí Dhomhnaill</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.979167 (the average of all parts of speech is 1.236589).
+The form / lemma ratio of `SCONJ` is 1.019231 (the average of all parts of speech is 1.253617).
 
-The 1st highest number of forms (1) was observed with the lemma “'air”: <em>'air</em>.
+The 1st highest number of forms (2) was observed with the lemma “'s”: <em>'s, ’s</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “'n”: <em>'n</em>.
+The 2nd highest number of forms (1) was observed with the lemma “'air”: <em>'air</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “'nuair”: <em>'nuair</em>.
+The 3rd highest number of forms (1) was observed with the lemma “'n”: <em>'n</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="gd_arcosg-feat-Foreign.html">Foreign</a></tt> (8; 2% instances)
+`SCONJ` occurs with 1 features: <tt><a href="gd_arcosg-feat-PartType.html">PartType</a></tt> (1; 0% instances)
 
-`SCONJ` occurs with 1 feature-value pairs: `Foreign=Yes`
+`SCONJ` occurs with 1 feature-value pairs: `PartType=Cmpl`
 
 `SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (462 tokens).
-Examples: <em>nuair, mar, ged, ma, far, gus, mus, mun, mur, bho</em>
+The most frequent feature combination is `_` (724 tokens).
+Examples: <em>mar, nuair, ma, ged, 's, far, agus, gus, is, mur</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="gd_arcosg-dep-mark.html">mark</a></tt> (450; 96% instances), <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (19; 4% instances), <tt><a href="gd_arcosg-dep-mark-prt.html">mark:prt</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="gd_arcosg-dep-mark.html">mark</a></tt> (699; 96% instances), <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (23; 3% instances), <tt><a href="gd_arcosg-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-mark-prt.html">mark:prt</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (424; 90% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (19; 4% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (13; 3% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (573; 79% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (54; 7% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (50; 7% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (24; 3% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (12; 2% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-451 (96%) `SCONJ` nodes are leaves.
+688 (95%) `SCONJ` nodes are leaves.
 
-15 (3%) `SCONJ` nodes have one child.
+29 (4%) `SCONJ` nodes have one child.
 
-4 (1%) `SCONJ` nodes have two children.
+8 (1%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (20; 87% instances), <tt><a href="gd_arcosg-dep-punct.html">punct</a></tt> (3; 13% instances)
+Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (41; 91% instances), <tt><a href="gd_arcosg-dep-punct.html">punct</a></tt> (3; 7% instances), <tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt> (1; 2% instances)
 
-Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (19; 83% instances), <tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (3; 13% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 4% instances)
+Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (24; 53% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (17; 38% instances), <tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (3; 7% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 

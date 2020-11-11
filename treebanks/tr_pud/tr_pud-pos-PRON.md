@@ -69,15 +69,15 @@ Examples: <em>bu, o</em>
 
 Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (141; 46% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (88; 29% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (49; 16% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (8; 3% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (8; 3% instances),  (8; 3% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-181 (59%) `PRON` nodes are leaves.
+183 (60%) `PRON` nodes are leaves.
 
-84 (27%) `PRON` nodes have one child.
+82 (27%) `PRON` nodes have one child.
 
-28 (9%) `PRON` nodes have two children.
+27 (9%) `PRON` nodes have two children.
 
-13 (4%) `PRON` nodes have three or more children.
+14 (5%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 7.
+The highest child degree of a `PRON` node is 8.
 
 Children of `PRON` nodes are attached using 19 different relations: <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (55; 28% instances), <tt><a href="tr_pud-dep-case.html">case</a></tt> (33; 17% instances), <tt><a href="tr_pud-dep-nmod-poss.html">nmod:poss</a></tt> (30; 15% instances), <tt><a href="tr_pud-dep-advmod-emph.html">advmod:emph</a></tt> (15; 8% instances), <tt><a href="tr_pud-dep-nsubj.html">nsubj</a></tt> (14; 7% instances), <tt><a href="tr_pud-dep-cop.html">cop</a></tt> (12; 6% instances), <tt><a href="tr_pud-dep-amod.html">amod</a></tt> (7; 4% instances), <tt><a href="tr_pud-dep-acl.html">acl</a></tt> (5; 3% instances), <tt><a href="tr_pud-dep-conj.html">conj</a></tt> (5; 3% instances), <tt><a href="tr_pud-dep-advcl.html">advcl</a></tt> (3; 2% instances), <tt><a href="tr_pud-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="tr_pud-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="tr_pud-dep-compound-redup.html">compound:redup</a></tt> (2; 1% instances), <tt><a href="tr_pud-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="tr_pud-dep-dislocated.html">dislocated</a></tt> (2; 1% instances), <tt><a href="tr_pud-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="tr_pud-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="tr_pud-dep-aux.html">aux</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 

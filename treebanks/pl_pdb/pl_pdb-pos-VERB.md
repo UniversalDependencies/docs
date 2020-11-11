@@ -76,9 +76,9 @@ Parents of `VERB` nodes belong to 15 different parts of speech:  (18616; 47% ins
 
 260 (1%) `VERB` nodes are leaves.
 
-2575 (7%) `VERB` nodes have one child.
+2576 (7%) `VERB` nodes have one child.
 
-5470 (14%) `VERB` nodes have two children.
+5469 (14%) `VERB` nodes have two children.
 
 31296 (79%) `VERB` nodes have three or more children.
 

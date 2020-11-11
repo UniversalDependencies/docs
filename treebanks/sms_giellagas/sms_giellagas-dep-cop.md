@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (1%) are attached to their parents as `cop`.
+22 nodes (2%) are attached to their parents as `cop`.
 
-15 instances of `cop` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5625.
+21 instances of `cop` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.72727272727273.
 
-The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (8; 50% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (3; 19% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (3; 19% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 6% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (12; 55% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 18% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (3; 14% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -34,23 +34,6 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 cop	color:blue
-1	Eččad	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	nsubj	_	GTtags=Sem/Kin,Sg,Nom,PxSg2
-2	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	4	cop	_	GTtags=IV,Ind,Prs,Sg3
-3	luândstes	luândd	NOUN	N	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	GTtags=Sg,Loc,PxSg3
-4	lääʹđesmiõllsab	lääʹđesmiõllsaž	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	GTtags=Comp,Sg,Nom
-5	ǥu	ǥu	ADV	Adv	_	6	mark	_	_
-6	eččan	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	obl	_	GTtags=Sem/Kin,Sg,Nom,PxSg1|SpaceAfter=No
-7	.	.	PUNCT	CLB	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 7	bgColor:blue
@@ -64,6 +47,23 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 6	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	7	obl	_	GTtags=Prop,Sem/Mal,Sg,Nom
 7	vuõltteem	vuõltteed	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	GTtags=Act,PrfPrc|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 cop	color:blue
+1	Eččad	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	nsubj	_	GTtags=Sem/Kin,Sg,Nom,PxSg2
+2	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	4	cop	_	GTtags=IV,Ind,Prs,Sg3
+3	luândstes	luândd	NOUN	N	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	GTtags=Sg,Loc,PxSg3
+4	lääʹđesmiõllsab	lääʹđesmiõllsaž	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	GTtags=Comp,Sg,Nom
+5	ǥu	ǥu	ADV	Adv	_	6	mark	_	_
+6	eččan	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	obl	_	GTtags=Sem/Kin,Sg,Nom,PxSg1|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

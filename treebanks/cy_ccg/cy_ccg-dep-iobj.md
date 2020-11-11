@@ -60,15 +60,16 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 36	,	,	PUNCT	punct	_	38	punct	_	_
 37	bu	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Past	38	cop	_	_
 38	rhaid	rhaid	NOUN	noun	Gender=Masc|Number=Sing	1	conj	_	_
-39	iddo	i	ADP	cprep	Gender=Masc|Number=Sing|Person=3	40	nsubj	_	_
-40	wneud	gwneud	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	38	acl	_	_
-41	nifer	nifer	NOUN	noun	Gender=Masc|Number=Sing	40	obl	_	_
-42	o	o	ADP	prep	_	43	case	_	_
-43	gonsesiynau	gonsesiyt	NOUN	noun	Gender=Masc|Number=Plur	41	nmod	_	_
-44	i	i	ADP	prep	_	46	case	_	SpaceAfter=No
-45	'r	y	DET	art	_	46	det	_	_
-46	FLN	FLN	NOUN	noun	Gender=Masc|Number=Sing	40	obl	_	SpaceAfter=No
-47	.	.	PUNCT	punct	_	38	punct	_	SpacesAfter=\n
+39	i	i	ADP	iprep	_	40	case	_	_
+40	e	e	PRON	indep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	41	nsubj	_	_
+41	wneud	gwneud	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	38	acl	_	_
+42	nifer	nifer	NOUN	noun	Gender=Masc|Number=Sing	41	obl	_	_
+43	o	o	ADP	prep	_	44	case	_	_
+44	gonsesiynau	gonsesiyt	NOUN	noun	Gender=Masc|Number=Plur	42	nmod	_	_
+45	i	i	ADP	prep	_	47	case	_	SpaceAfter=No
+46	'r	y	DET	art	_	47	det	_	_
+47	FLN	FLN	NOUN	noun	Gender=Masc|Number=Sing	41	obl	_	SpaceAfter=No
+48	.	.	PUNCT	punct	_	38	punct	_	SpacesAfter=\n
 
 ~~~
 

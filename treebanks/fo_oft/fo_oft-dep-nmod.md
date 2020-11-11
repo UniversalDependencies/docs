@@ -24,7 +24,7 @@ The following 17 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 6 nmod	color:blue
 1	Føroyar	Føroyar	PROPN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	4	nsubj	_	_
-2	eru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Pres	4	cop	_	_
+2	eru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Pres	4	cop	_	_
 3	ikki	ikki	ADV	Adv	_	4	advmod	_	_
 4	limur	limur	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	í	í	ADP	Pr	_	6	case	_	_
@@ -46,7 +46,7 @@ The following 17 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 4 5 nmod	color:blue
 1	Í	í	ADP	Pr	_	2	case	_	_
 2	1957	1957	NUM	Num	Case=Dat	6	nmod	_	_
-3	verður	verða	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	_
+3	verður	verða	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	_
 4	Útvarp	útvarp	NOUN	N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	6	dep	_	_
 5	Føroya	Føroyar	PROPN	N	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	4	nmod	_	_
 6	stovnað	stovna	VERB	V	VerbForm=Sup	0	root	_	SpaceAfter=No
@@ -63,7 +63,7 @@ The following 17 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 6 8 nmod	color:blue
 1	Í	í	ADP	Pr	_	2	case	_	_
 2	2005	2005	NUM	Num	Case=Dat	6	obl	_	_
-3	vóru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Past	6	cop	_	_
+3	vóru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Past	6	cop	_	_
 4	tølini	tal	NOUN	N	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	6	nsubj	_	_
 5	73	73	X	x	_	6	dep	_	_
 6	%	%	NUM	Num	Case=Nom	0	root	_	_

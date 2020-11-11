@@ -12,7 +12,7 @@ There are also 1 other language-specific subtypes of `obl`: <tt><a href="tr_gb-d
 23 nodes (0%) are attached to their parents as `obl:agent`.
 
 21 instances of `obl:agent` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.26086956521739.
+Average distance between parent and child is 2.04347826086957.
 
 The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (19; 83% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (2; 9% instances).
 

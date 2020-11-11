@@ -9,96 +9,111 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-1283 tokens (10%) have a non-empty value of `VerbForm`.
-847 types (20%) occur at least once with a non-empty value of `VerbForm`.
-580 lemmas (20%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1205; 9% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (76; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+29577 tokens (11%) have a non-empty value of `VerbForm`.
+10434 types (23%) occur at least once with a non-empty value of `VerbForm`.
+4125 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 4 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (27917; 10% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1655; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-1205 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+27917 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1075; 89%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (864; 72%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (819; 68%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (809; 67%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (751; 62%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (650; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21531; 77%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20723; 74%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20174; 72%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16938; 61%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (14330; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Conv` (20; 2% of non-empty `VerbForm`): <em>зыходзячы, Адкрываючы, Прыцягваючы, Равучы, Ужыўшы, Улічваючы, гарлаючы, гледзячы, кажучы, падаючы</em>
-* `Fin` (817; 68% of non-empty `VerbForm`): <em>ажыццяўляюць, можа, з’яўляюцца, ажыццяўляе, маюць, перадаваў, мае, паведамілі, з'яўляецца, знаходзяцца</em>
-* `Inf` (201; 17% of non-empty `VerbForm`): <em>працаваць, размаўляць, вярнуцца, ажыццяўляць, прымаць, разумець, весцi, вызваліць, выйсці, выконваць</em>
-* `Part` (167; 14% of non-empty `VerbForm`): <em>устаноўленым, ўстаноўленым, прадугледжаных, звязана, прыведзены, ускладзеных, абавязаны, налічаная, прадугледжаную, створаных</em>
-* `EMPTY` (13): <em>можна, трэба, работнiкаў, варта, зарослы, мага, нельга, няма</em>
+* `Conv` (302; 1% of non-empty `VerbForm`): <em>кажучы, дзякуючы, гледзячы, пачынаючы, седзячы, адказваючы, адчуўшы, выступаючы, маючы, мяркуючы</em>
+* `Fin` (21253; 76% of non-empty `VerbForm`): <em>жыве, можа, адбудзецца, затрымалі, сказаў, стала, мае, кажа, пачалі, ёсьць</em>
+* `Inf` (4560; 16% of non-empty `VerbForm`): <em>падтрымаць, зрабіць, рабіць, паглядзець, слухаць, стаць, атрымаць, размаўляць, працаваць, далучыцца</em>
+* `Part` (1802; 6% of non-empty `VerbForm`): <em>затрыманы, затрыманых, расстраляных, звязаныя, затрыманага, затрыманыя, прысвечаны, вызвалены, асуджаны, рэпрэсаваных</em>
+* `EMPTY` (717): <em>можна, трэба, няма, варта, нельга, шкада, работнiкаў, Поедем, жадаючых, зарослы</em>
 
 <table>
-  <tr><th>Paradigm <i>прыняць</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>прынятых</em></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>прынятым</em></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>Прыняты</em></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>прынятыя</em></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Прымі</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>прынялі</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>прыняць</em></td><td></td></tr>
+  <tr><th>Paradigm <i>сказаць</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
+  <tr><td><tt></tt></td><td></td><td><em>сказаць</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>сказаў</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>сказала</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>сказана</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>скажу</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>скажаш</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>скажа</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>скажам</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>скажыце</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>скажуць</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>сказалі</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td></td><td><em>сказаўшы</em></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>сказаць</em></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-76 <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+1655 <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (75; 99%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (71; 93%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (51; 67%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (49; 64%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (48; 63%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (42; 55%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1651; 100%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1545; 93%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1130; 68%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (995; 60%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (940; 57%), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (833; 50%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Conv` (1; 1% of non-empty `VerbForm`): <em>будучы</em>
-* `Fin` (71; 93% of non-empty `VerbForm`): <em>было, будзе, будуць, былі, быў, была, буду, будзем, ёсць, будзеш</em>
-* `Inf` (4; 5% of non-empty `VerbForm`): <em>быць</em>
-* `EMPTY` (1): <em>б</em>
+* `Conv` (4; 0% of non-empty `VerbForm`): <em>будучы</em>
+* `Fin` (1548; 94% of non-empty `VerbForm`): <em>будзе, было, быў, былі, будуць, была, будзем, ёсць, буду, будзеш</em>
+* `Inf` (103; 6% of non-empty `VerbForm`): <em>быць</em>
+* `EMPTY` (167): <em>б, бы, Будзь, буду, БУДЗЕ, Будзьце</em>
 
 <table>
   <tr><th>Paradigm <i>быць</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Conv</tt></th></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>быў</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>была</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>было, была</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>буду</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будзе, ёсць</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будуць</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>былі</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>будучы</em></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>быць</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>быў</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>буду</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будзеш</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будзе</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будзем</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будуць</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>быў</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>была</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>было, была</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Будзьма</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>буду</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>буду</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будзеш</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будзе, буду</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ёсць, будзе, ёсьць</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будзем</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будзем</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будзеце</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будзеце</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будуць</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будуць</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>былі</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>будучы</em></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>быць</em></td><td></td></tr>
 </table>
-
-### `ADJ`
-
-1 <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
-
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1; 100%), <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
-
-`ADJ` tokens may have the following values of `VerbForm`:
-
-* `Part` (1; 100% of non-empty `VerbForm`): <em>працуючых</em>
-* `EMPTY` (1672): <em>надзвычайных, дзяржаўнага, грамадзянскай, радыяцыйнай, пажарнай, прамысловай, iншыя, iншых, асабiстай, падсобнай</em>
 
 ### `NOUN`
 
-1 <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
+3 <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 67%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
-* `Fin` (1; 100% of non-empty `VerbForm`): <em>склаў</em>
-* `EMPTY` (3976): <em>сiтуацыях, Рэспублiкi, органаў, сiтуацый, заканадаўствам, падраздзяленняў, лiквiдацыi, сакавіка, абароны, Артыкул</em>
+* `Fin` (2; 67% of non-empty `VerbForm`): <em>падкастаў, склаў</em>
+* `Part` (1; 33% of non-empty `VerbForm`): <em>павераны</em>
+* `EMPTY` (64529): <em>дзень, людзей, арт, чалавек, гадоў, людзі, час, году, год, відэа</em>
+
+### `ADJ`
+
+2 <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Gen</tt> (2; 100%), <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`ADJ` tokens may have the following values of `VerbForm`:
+
+* `Part` (2; 100% of non-empty `VerbForm`): <em>працуючых, ўзнікшай</em>
+* `EMPTY` (23977): <em>беларускай, новы, надзвычайных, беларускіх, беларускую, беларуская, беларускі, беларускія, беларускага, 2019</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (119; 92%),
-<tt>VERB --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (45; 83%),
-<tt>VERB --[<tt><a href="be_hse-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (34; 69%),
-<tt>VERB --[<tt><a href="be_hse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (31; 58%),
-<tt>VERB --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (3062; 88%),
+<tt>VERB --[<tt><a href="be_hse-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (702; 75%),
+<tt>VERB --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (441; 78%),
+<tt>VERB --[<tt><a href="be_hse-dep-flat.html">flat</a></tt>]--> VERB</tt> (25; 100%),
+<tt>VERB --[<tt><a href="be_hse-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (18; 82%),
+<tt>VERB --[<tt><a href="be_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (14; 56%),
+<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> AUX</tt> (9; 69%),
+<tt>AUX --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 100%),
+<tt>VERB --[<tt><a href="be_hse-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (6; 75%),
+<tt>AUX --[<tt><a href="be_hse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4; 100%).
 

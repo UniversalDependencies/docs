@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `acl:focus`: <tt><a 
 2	levr	levr	NOUN	n	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	-mañ	mañ	ADV	adv	_	2	advmod	_	_
 4	'ni	hini	PRON	prn	_	2	nsubj	_	_
-5	am eus	kaout	VERB	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	am eus	kaout	AUX	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	kavet	kavout	VERB	vblex	Tense=Past|VerbForm=Part	4	acl:focus	_	SpaceAfter=No
 7	.	.	PUNCT	sent	_	4	punct	_	_
 

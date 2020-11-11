@@ -7,13 +7,44 @@ udver: '2'
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: Relations: `nsubj:cop`
 
 This relation is a language-specific subtype of <tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="sms_giellagas-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-6 nodes (1%) are attached to their parents as `nsubj:cop`.
+11 nodes (1%) are attached to their parents as `nsubj:cop`.
 
-6 instances of `nsubj:cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.16666666666667.
+11 instances of `nsubj:cop` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.27272727272727.
 
-The following 4 pairs of parts of speech are connected with `nsubj:cop`: <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 33% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (2; 33% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 17% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:cop`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (3; 27% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (2; 18% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 9% instances).
+
+
+~~~ conllu
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 16 nsubj:cop	color:blue
+1	De	de	CCONJ	CC	_	3	cc	_	_
+2	ko	ko	SCONJ	CS	_	3	mark	_	GTtags=@CVP
+3	poott	puuʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	advcl:tmod	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	8	punct	_	_
+5	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	8	nsubj	_	GTtags=Dem,Sg,Nom,@<SUBJ
+6	pââjas	pââjas	ADV	Adv	_	8	advmod	_	_
+7	ko	ko	SCONJ	CS	_	8	mark	_	GTtags=@CVP
+8	ǩieʹzzškuätt	ǩieʹzškueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+9	,	,	PUNCT	CLB	_	3	punct	_	_
+10	de	de	CCONJ	CC	_	12	advmod	_	GTtags=@CVP
+11	čeäkkli	čeäkkled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	nsubj	_	GTtags=Ind,Prt,Sg3,@+FMAINV
+12	eett	eeʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+13	,	,	PUNCT	CLB	_	14	punct	_	_
+14	puätt	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
+15	,	,	PUNCT	CLB	_	19	punct	_	_
+16	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj:cop	_	GTtags=Pers,Sg3,Nom,@<SUBJ
+17	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	cop	_	GTtags=Ind,Prs,Sg3,@+FMAINV
+18	mâʹte	mâʹte	ADV	Adv	_	19	advmod	_	GTtags=@<ADVL
+19	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	12	conj	_	GTtags=Sem/Hum,Sg,Nom,@<SUBJ|SpaceAfter=No
+20	.	.	PUNCT	CLB	_	12	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -40,21 +71,6 @@ The following 4 pairs of parts of speech are connected with `nsubj:cop`: <tt><a 
 16	ǩiiččad	ǩiiččeed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	conj	_	GTtags=Ind,Prs,Sg3
 17	mäʹhtt	mäʹhtt	ADV	Adv	_	16	advmod	_	SpaceAfter=No
 18	.	.	PUNCT	CLB	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 nsubj:cop	color:blue
-1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj:cop	_	GTtags=Pers,Sg3,Nom
-2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	4	cop	_	GTtags=Ind,Prt,Sg3
-3	pieʹʒʒid	pieʹcc	NOUN	N	Case=Acc|Number=Plur	4	obj	_	GTtags=Pl,Acc
-4	vueʹtǩǩmen	vueʹtǩǩed	VERB	V	Case=Ess|Derivation=Vnoun	0	root	_	GTtags=Actio,Ess|SpaceAfter=No
-5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

@@ -28,7 +28,7 @@ The following 84 pairs of parts of speech are connected with `dep`: <tt><a href=
 4	내지	내+지	VERB	pvg+ecx	_	7	ccomp	_	_
 5	않는	않+는	AUX	px+etm	_	4	aux	_	_
 6	값싼	값싸+ㄴ	ADJ	paa+etm	_	7	amod	_	_
-7	땅이었다	땅+이+었+다	VERB	ncn+jp+ep+ef	_	0	root	_	_
+7	땅이었다	땅+이+었+다	VERB	ncn+jp+ep+ef	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	sf	_	7	punct	_	_
 
 ~~~
@@ -41,11 +41,11 @@ The following 84 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 2 dep	color:blue
 1	한인은	한인+은	NOUN	ncn+jxt	_	17	dislocated	_	_
-2	성냥	성냥	NOUN	ncn	_	9	dep	_	_
+2	성냥	성냥	NOUN	ncn	_	9	dep	_	SpaceAfter=No
 3	,	,	PUNCT	sp	_	2	punct	_	_
-4	연필	연필	NOUN	ncn	_	2	conj	_	_
+4	연필	연필	NOUN	ncn	_	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
-6	공책	공책	NOUN	ncn	_	2	conj	_	_
+6	공책	공책	NOUN	ncn	_	2	conj	_	SpaceAfter=No
 7	,	,	PUNCT	sp	_	6	punct	_	_
 8	비누	비누	NOUN	ncn	_	2	conj	_	_
 9	같은	같+ㄴ	ADJ	paa+etm	_	10	amod	_	_
@@ -57,7 +57,7 @@ The following 84 pairs of parts of speech are connected with `dep`: <tt><a href=
 15	빼앗아	빼앗+아	SCONJ	pvg+ecs	_	17	ccomp	_	_
 16	간도로	간도+로	ADV	nq+jca	_	17	advcl	_	_
 17	밀려나가게	밀리+어+나+아+가+게	AUX	pvg+ecx+px+ecx+px+ecx	_	13	conj	_	_
-18	되었다	되+었+다	AUX	px+ep+ef	_	17	aux	_	_
+18	되었다	되+었+다	AUX	px+ep+ef	_	17	aux	_	SpaceAfter=No
 19	.	.	PUNCT	sf	_	18	punct	_	_
 
 ~~~
@@ -80,7 +80,7 @@ The following 84 pairs of parts of speech are connected with `dep`: <tt><a href=
 9	생각하게	생각+하+게	VERB	ncpa+xsv+ecx	_	12	ccomp	_	_
 10	하는	하+는	AUX	px+etm	_	9	aux	_	_
 11	매력적인	매력+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	12	acl	_	_
-12	책이다	책+이+다	VERB	ncn+jp+ef	_	0	root	_	_
+12	책이다	책+이+다	VERB	ncn+jp+ef	_	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	sf	_	12	punct	_	_
 
 ~~~

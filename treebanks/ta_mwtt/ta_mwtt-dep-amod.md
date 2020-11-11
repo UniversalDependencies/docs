@@ -1,0 +1,65 @@
+---
+layout: base
+title:  'Statistics of amod in UD_Tamil-MWTT'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Tamil-MWTT: Relations: `amod`
+
+This relation is universal.
+
+46 nodes (2%) are attached to their parents as `amod`.
+
+46 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10869565217391.
+
+The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt> (28; 61% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (12; 26% instances), <tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_mwtt-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 amod	color:blue
+1	அங்கு	அங்கு	ADV	_	_	4	obl:pmod	4:obl:pmod	Translit=aṅku|LTranslit=aṅku
+2	நிறைய	நிறைய	ADJ	_	_	3	amod	3:amod	Translit=niṟaiya|LTranslit=niṟaiya
+3	வீடுகள்	வீடு	NOUN	_	Case=Nom|Number=Plur	4	nsubj	4:nsubj	Translit=vīṭukaḷ|LTranslit=vīṭu
+4	இருக்கின்றன	இரு	VERB	_	Gender=Neut|Number=Plur|Person=3|Tense=Pres	0	root	0:root	Translit=irukkiṉṟaṉa|LTranslit=iru
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	4:punct	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 amod	color:blue
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	6	nsubj	6:nsubj	Translit=kumār|LTranslit=kumār
+2	தன்	தான்	PRON	_	Case=Gen|Gender=Com|Number=Sing	3	nmod:poss	3:nmod:poss	Translit=taṉ|LTranslit=tāṉ
+3	சொந்த	சொந்தம்	NOUN	_	Number=Sing|Person=3	4	amod	4:amod	Translit=conta|LTranslit=contam
+4	அனுபவத்தால்	அனுபவம்	NOUN	_	Case=Ins|Number=Sing|Person=3	6	obl:inst	6:obl:inst	Translit=aṉupavattāl|LTranslit=aṉupavam
+5	தொழிலைக்	தொழில்	NOUN	_	Case=Acc|Number=Sing|Person=3	6	obj	6:obj	Translit=toḻilaik|LTranslit=toḻil
+6	கற்றுக்	கல்	VERB	_	VerbForm=Conv	0	root	0:root	Translit=kaṟṟuk|LTranslit=kal
+7	கொண்டான்	கொள்	AUX	_	Gender=Masc|Number=Sing|Person=3|Tense=Past	6	aux	6:aux	Translit=koṇṭāṉ|LTranslit=koḷ
+8	.	.	PUNCT	_	PunctType=Peri	6	punct	6:punct	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 amod	color:blue
+1	கொஞ்சம்	கொஞ்சம்	ADJ	_	_	2	amod	2:amod	Translit=koñcam|LTranslit=koñcam
+2	சிறிய	சிறிய	ADJ	_	_	3	amod	3:amod	Translit=ciṟiya|LTranslit=ciṟiya
+3	வீடு	வீடு	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	0:root	Translit=vīṭu|LTranslit=vīṭu
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
+
+~~~
+
+

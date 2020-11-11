@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSD: Relations: `case`
 
 This relation is universal.
-There are 4 language-specific subtypes of `case`: <tt><a href="zh_gsd-dep-case-aspect.html">case:aspect</a></tt>, <tt><a href="zh_gsd-dep-case-dec.html">case:dec</a></tt>, <tt><a href="zh_gsd-dep-case-pref.html">case:pref</a></tt>, <tt><a href="zh_gsd-dep-case-suff.html">case:suff</a></tt>.
+There are 3 language-specific subtypes of `case`: <tt><a href="zh_gsd-dep-case-dec.html">case:dec</a></tt>, <tt><a href="zh_gsd-dep-case-pref.html">case:pref</a></tt>, <tt><a href="zh_gsd-dep-case-suff.html">case:suff</a></tt>.
 
 3747 nodes (3%) are attached to their parents as `case`.
 

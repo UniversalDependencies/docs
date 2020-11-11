@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (1%) are attached to their parents as `case`.
+11 nodes (1%) are attached to their parents as `case`.
 
-5 instances of `case` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28571428571429.
+6 instances of `case` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.18181818181818.
 
-The following 2 pairs of parts of speech are connected with `case`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (6; 86% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (1; 14% instances).
+The following 2 pairs of parts of speech are connected with `case`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (9; 82% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (2; 18% instances).
 
 
 ~~~ conllu
@@ -36,24 +36,21 @@ The following 2 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 case	color:blue
-1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj:cop	_	GTtags=Pers,Sg3,Nom
-2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	3	cop	_	GTtags=Ind,Prt,Sg3
-3	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	0	root	_	GTtags=Sg,Loc
-4	pieʹʒʒ	pieʹcc	NOUN	N	Case=Acc|Number=Sing	5	obj	_	GTtags=Sg,Acc
-5	vueʹtǩǩmen	vueʹtǩǩed	VERB	V	Case=Ess|Derivation=Vnoun	3	conj	_	GTtags=Actio,Ess|SpaceAfter=No
-6	,	,	PUNCT	CLB	_	8	punct	_	_
-7	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	8	nsubj	_	GTtags=Sem/Hum,Sg,Nom
-8	puõʹđi	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	3	conj	_	GTtags=Ind,Prt,Sg3
-9	suu	son	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	obl:lmod	_	GTtags=Pers,Sg3,Gen
-10	luzz	luzz	ADP	Po	Case=Ill	9	case	_	GTtags=Ill|SpaceAfter=No
-11	,	,	PUNCT	CLB	_	12	punct	_	_
-12	säärntõlškuõʹđi	säärntõõllâd	VERB	V	Derivation=InchL|Mood=Ind|Number=Sing|Person=3|Tense=Prt	8	conj	_	GTtags=Der/InchL,Ind,Prt,Sg3|SpaceAfter=No
-13	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 case	color:blue
+1	Joo	joo	INTJ	Interj	_	5	discourse	_	_
+2	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg1,Nom,@<SUBJ
+3	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	obl	_	GTtags=Dem,Sg,Gen
+4	räjja	räjja	ADP	Po	_	3	case	_	_
+5	teâđam	tieʹtted	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1,@+FMAINV|SpaceAfter=No
+6	,	,	PUNCT	CLB	_	9	punct	_	_
+7	jäänab	jäänab	DET	Det	_	9	obj	_	GTtags=@ADVL>
+8	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	9	aux:neg	_	GTtags=Neg,Ind,Sg1,@+FAUXV
+9	tieʹđ	tieʹtted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	5	conj	_	GTtags=Ind,Prs,ConNeg,@+FMAINV|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
 

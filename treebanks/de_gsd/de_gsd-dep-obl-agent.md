@@ -31,8 +31,8 @@ The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 7	durch	durch	ADP	APPR	_	8	case	_	_
 8	Fürst	Fürst	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	12	obl:agent	_	_
-9	Johann	Johann	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	8	appos	_	_
-10	Anton	Anton	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	9	flat	_	_
+9	Johann	Johann	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	8	appos	_	NamedEntity=Yes
+10	Anton	Anton	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	9	flat	_	NamedEntity=Yes
 11	wesentlich	wesentlich	ADJ	ADJD	_	12	advmod	_	_
 12	erweiterten	erweitert	VERB	ADJA	Case=Gen|Gender=Masc|Number=Sing	13	amod	_	_
 13	Familienbesitzes	Familienbesitz	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_

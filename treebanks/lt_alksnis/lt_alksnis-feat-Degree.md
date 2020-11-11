@@ -95,9 +95,9 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="lt_alksnis-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (261; 88%),
 <tt>ADV --[<tt><a href="lt_alksnis-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (97; 73%),
 <tt>ADV --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> ADV</tt> (41; 95%),
-<tt>ADJ --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11; 85%),
+<tt>ADJ --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11; 92%),
 <tt>ADJ --[<tt><a href="lt_alksnis-dep-obl.html">obl</a></tt>]--> ADJ</tt> (8; 100%),
-<tt>ADJ --[<tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (5; 63%),
+<tt>ADJ --[<tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (5; 56%),
 <tt>ADJ --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> ADV</tt> (3; 75%),
 <tt>ADJ --[<tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (3; 100%),
 <tt>ADJ --[<tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (3; 75%).

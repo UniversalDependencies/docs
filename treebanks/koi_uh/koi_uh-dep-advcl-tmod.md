@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="koi_uh-dep-advcl.html">advcl</a></tt>.
 There are also 2 other language-specific subtypes of `advcl`: <tt><a href="koi_uh-dep-advcl-lmod.html">advcl:lmod</a></tt>, <tt><a href="koi_uh-dep-advcl-mmod.html">advcl:mmod</a></tt>.
 
-2 nodes (0%) are attached to their parents as `advcl:tmod`.
+3 nodes (0%) are attached to their parents as `advcl:tmod`.
 
-2 instances of `advcl:tmod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5.
+3 instances of `advcl:tmod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.33333333333333.
 
-The following 2 pairs of parts of speech are connected with `advcl:tmod`: <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 50% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `advcl:tmod`: <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 33% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 33% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -69,6 +69,27 @@ The following 2 pairs of parts of speech are connected with `advcl:tmod`: <tt><a
 17	нюжӧтіс	нюжӧтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	10	conj	_	GTtags=V,IV,Ind,Prt1,Sg3
 18	меным	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	17	obl	_	GTtags=Pron,Pers,Sg1,Dat|SpaceAfter=No
 19	.	.	PUNCT	CLB	_	10	punct	_	GTtags=CLB
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 advcl:tmod	color:blue
+1	А	а	CCONJ	CC	_	6	cc	_	_
+2	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	GTtags=Pers,Sg3,Nom
+3	эд	оз	VERB	V	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Past	2	discourse	_	GTtags=Neg,Ind,Prt1,Pl2
+4	видзчисьны	видзчисьны	VERB	V	VerbForm=Inf	6	xcomp	_	GTtags=Inf
+5	оз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	6	aux:neg	_	GTtags=Neg,Ind,Prs,Sg3
+6	понды	пондыны	VERB	V	Connegative=Yes	0	root	_	GTtags=ConNeg|SpaceAfter=No
+7	,	,	PUNCT	CLB	_	9	punct	_	_
+8	кӧр	кӧр	ADV	Adv	_	9	mark	_	_
+9	дугда	дугдыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	advcl:tmod	_	GTtags=Ind,Prs,Sg1
+10	боньгыныт	боньгыны	VERB	V	Person[psor]=2|VerbForm=Inf	9	xcomp	_	GTtags=Inf,Px2|SpaceAfter=No
+11	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
 

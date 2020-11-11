@@ -24,11 +24,11 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 7 1 discourse	color:blue
 1	여보게	여보게	INTJ	ii	_	7	discourse	_	_
 2	산초	산초	PROPN	nq	_	1	dep	_	_
-3	판자	판자	PROPN	nq	_	1	dep	_	_
+3	판자	판자	PROPN	nq	_	1	dep	_	SpaceAfter=No
 4	,	,	PUNCT	sp	_	1	punct	_	_
 5	저기를	저기+를	PRON	npd+jco	_	7	obj	_	_
 6	좀	좀	ADV	mag	_	7	advmod	_	_
-7	보게나	보+게나	VERB	pvg+ef	_	0	root	_	_
+7	보게나	보+게나	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	sf	_	7	punct	_	_
 
 ~~~
@@ -42,7 +42,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 2 3 discourse	color:blue
 1	너무	너무	ADV	mag	_	2	advmod	_	_
 2	착하다보니	착하+다+보+니	SCONJ	paa+ecx+px+ecs	_	0	root	_	_
-3	말입니다	말입니다	INTJ	ii	_	2	discourse	_	_
+3	말입니다	말입니다	INTJ	ii	_	2	discourse	_	SpaceAfter=No
 4	.	.	PUNCT	sf	_	3	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 10	날고	날+고	VERB	pvg+ecx	_	7	conj	_	_
 11	있는	있+는	AUX	px+etm	_	10	aux	_	_
 12	독수리처럼	독수리+처럼	ADV	ncn+jca	_	0	root	_	_
-13	말입니다	말입니다	INTJ	ii	_	12	discourse	_	_
+13	말입니다	말입니다	INTJ	ii	_	12	discourse	_	SpaceAfter=No
 14	.	.	PUNCT	sf	_	13	punct	_	_
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-601 nodes (6%) are attached to their parents as `aux`.
+608 nodes (6%) are attached to their parents as `aux`.
 
-599 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.21797004991681.
+606 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.22203947368421.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (537; 89% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (63; 10% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (544; 89% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (63; 10% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

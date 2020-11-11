@@ -27,11 +27,11 @@ The following 1 pairs of parts of speech are connected with `obl:x`: <tt><a href
 2	ar	an	DET	det	_	3	det	_	_
 3	servijer	servijer	NOUN	n	Gender=Masc|Number=Sing	7	obl:x	_	SpaceAfter=No
 4	-mañ	mañ	ADV	adv	_	3	advmod	_	_
-5	e	e	PART	vpart	_	7	aux	_	_
-6	vez	bezañ	VERB	vblex	Aspect=Hab|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	e	e	AUX	vpart	_	7	aux	_	_
+6	vez	bezañ	AUX	vblex	Aspect=Hab|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	goulennet	goulenn	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
-8	diganin	digant	ADP	pr	_	9	case	_	_
-9	_	indirect	PRON	prn	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obl	_	_
+8	digan	digant	ADP	pr	_	9	case	_	_
+9	in	indirect	PRON	prn	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obl	_	_
 10	kevreañ	kevreañ	VERB	vblex	VerbForm=Inf	7	xcomp	_	_
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (1%) are attached to their parents as `vocative`.
+7 nodes (1%) are attached to their parents as `vocative`.
 
-4 instances of `vocative` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+4 instances of `vocative` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.85714285714286.
 
-The following 3 pairs of parts of speech are connected with `vocative`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (5; 63% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 13% instances).
+The following 3 pairs of parts of speech are connected with `vocative`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (4; 57% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 29% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 14% instances).
 
 
 ~~~ conllu

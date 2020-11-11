@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-33567 tokens (7%) have a non-empty value of `Mood`.
+33592 tokens (7%) have a non-empty value of `Mood`.
 5466 types (9%) occur at least once with a non-empty value of `Mood`.
 2540 lemmas (9%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (22413; 5% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11154; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (22408; 5% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11184; 2% instances).
 
 ### `VERB`
 
-22413 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Mood`.
+22408 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22413; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22413; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21961; 98%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21843; 97%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (20327; 91%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (18480; 82%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13604; 61%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11553; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22408; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22408; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21958; 98%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21840; 97%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (20323; 91%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (18475; 82%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13601; 61%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11553; 52%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (452; 2% of non-empty `Mood`): <em>viz, překonej, připomeňme, uveďme, nechte, pověste, vraťme, žehlete, nezapomeňte, perte</em>
-* `Ind` (21961; 98% of non-empty `Mood`): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
-* `EMPTY` (18192): <em>mít, měl, měla, bylo, mohli, mohl, došlo, měli, byl, být</em>
+* `Imp` (450; 2% of non-empty `Mood`): <em>viz, překonej, připomeňme, uveďme, nechte, pověste, vraťme, žehlete, nezapomeňte, perte</em>
+* `Ind` (21958; 98% of non-empty `Mood`): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `EMPTY` (18189): <em>mít, měl, měla, bylo, mohli, mohl, došlo, měli, byl, zajistit</em>
 
 <table>
   <tr><th>Paradigm <i>mít</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -47,16 +47,16 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-11154 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Mood`.
+11184 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11154; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11154; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (9701; 87%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9072; 81%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (8386; 75%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7974; 71%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6583; 59%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11184; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11184; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (9730; 87%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9098; 81%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (8406; 75%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7999; 72%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6599; 59%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (2064; 19% of non-empty `Mood`): <em>by, bychom, bych, byste, bys</em>
-* `Imp` (18; 0% of non-empty `Mood`): <em>buď, budiž, buďme, buďte, Nebuď</em>
-* `Ind` (9072; 81% of non-empty `Mood`): <em>je, jsou, bude, jsme, není, jsem, budou, nejsou, budeme, jste</em>
-* `EMPTY` (3076): <em>byl, být, bylo, byla, byly, byli, nebylo, nebyl, nebyla, býti</em>
+* `Cnd` (2066; 18% of non-empty `Mood`): <em>by, bychom, bych, byste, bys</em>
+* `Imp` (20; 0% of non-empty `Mood`): <em>budiž, buď, buďme, buďte, Nebuď</em>
+* `Ind` (9098; 81% of non-empty `Mood`): <em>je, jsou, bude, jsme, není, jsem, budou, nejsou, budeme, jste</em>
+* `EMPTY` (3087): <em>byl, být, bylo, byla, byly, byli, nebylo, nebyl, nebyla, býti</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>
@@ -78,6 +78,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>bude</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>je</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>budiž</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>je</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>by</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>nebudeme</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>nejsme</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>budeme</em></td><td></td><td></td></tr>
@@ -93,6 +95,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>nejsou</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>budou</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jsou</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>budou</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jsou</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>by</em></td></tr>
 </table>
 
@@ -100,7 +104,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (2921; 84%),
-<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (860; 61%),
+<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (861; 61%),
+<tt>VERB --[<tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (115; 50%),
 <tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (14; 78%),
 <tt>VERB --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (7; 58%),
 <tt>VERB --[<tt><a href="cs_cac-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).

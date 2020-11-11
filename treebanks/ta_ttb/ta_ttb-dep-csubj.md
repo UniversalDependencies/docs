@@ -71,7 +71,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 9 csubj	color:blue
-1	2022-ம்	2022	ADJ	Uy-------	NumType=Ord	2	amod	2:amod	Translit=2022-m|LTranslit=2022
+1	2022-ம்	2022	NUM	Uy-------	NumType=Ord	2	nummod	2:nummod	Translit=2022-m|LTranslit=2022
 2	ஆண்டில்	ஆண்டு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	9	obl	9:obl:loc	Translit=āṇṭil|LTranslit=āṇṭu
 3	gஎர்மனியில்	gஎர்மனி	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	9	obl	9:obl:loc	Translit=germaniyil|LTranslit=germani
 4	அணுஉலைக்	அணுஉலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod:nom	Translit=aṇuulaik|LTranslit=aṇuulai

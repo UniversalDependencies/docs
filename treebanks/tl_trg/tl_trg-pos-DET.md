@@ -6,44 +6,45 @@ udver: '2'
 
 ## Treebank Statistics: UD_Tagalog-TRG: POS Tags: `DET`
 
-There are 1 `DET` lemmas (1%), 2 `DET` types (2%) and 53 `DET` tokens (18%).
-Out of 12 observed tags, the rank of `DET` is: 11 in number of lemmas, 8 in number of types and 3 in number of tokens.
+There are 3 `DET` lemmas (2%), 3 `DET` types (1%) and 11 `DET` tokens (1%).
+Out of 13 observed tags, the rank of `DET` is: 10 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>ang</em>
+The 10 most frequent `DET` lemmas: <em>mga, lahat, mismo</em>
 
-The 10 most frequent `DET` types:  <em>ang, si</em>
+The 10 most frequent `DET` types:  <em>mga, lahat, mismo</em>
 
-The 10 most frequent ambiguous lemmas: <em>ang</em> (<tt><a href="tl_trg-pos-DET.html">DET</a></tt> 53, <tt><a href="tl_trg-pos-PRON.html">PRON</a></tt> 6, <tt><a href="tl_trg-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>ang</em> (<tt><a href="tl_trg-pos-DET.html">DET</a></tt> 51, <tt><a href="tl_trg-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous types:  
 
 
-* <em>ang</em>
-  * <tt><a href="tl_trg-pos-DET.html">DET</a></tt> 51: <em>Gumising <b>ang</b> bata .</em>
-  * <tt><a href="tl_trg-pos-ADP.html">ADP</a></tt> 1: <em>Artista <b>ang</b> nagluto ng pagkain .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.000000 (the average of all parts of speech is 1.168539).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.247253).
 
-The 1st highest number of forms (2) was observed with the lemma “ang”: <em>ang, si</em>.
+The 1st highest number of forms (1) was observed with the lemma “lahat”: <em>lahat</em>.
 
-`DET` occurs with 3 features: <tt><a href="tl_trg-feat-Definite.html">Definite</a></tt> (51; 96% instances), <tt><a href="tl_trg-feat-Case.html">Case</a></tt> (47; 89% instances), <tt><a href="tl_trg-feat-Number.html">Number</a></tt> (2; 4% instances)
+The 2nd highest number of forms (1) was observed with the lemma “mga”: <em>mga</em>.
 
-`DET` occurs with 4 feature-value pairs: `Case=Abs`, `Definite=Def`, `Definite=Ind`, `Number=Sing`
+The 3rd highest number of forms (1) was observed with the lemma “mismo”: <em>mismo</em>.
 
-`DET` occurs with 4 feature combinations.
-The most frequent feature combination is `Case=Abs|Definite=Def` (44 tokens).
-Examples: <em>ang</em>
+`DET` occurs with 3 features: <tt><a href="tl_trg-feat-PronType.html">PronType</a></tt> (11; 100% instances), <tt><a href="tl_trg-feat-Number.html">Number</a></tt> (8; 73% instances), <tt><a href="tl_trg-feat-Gender.html">Gender</a></tt> (1; 9% instances)
+
+`DET` occurs with 5 feature-value pairs: `Gender=Masc`, `Number=Plur`, `PronType=Emp`, `PronType=Ind`, `PronType=Tot`
+
+`DET` occurs with 3 feature combinations.
+The most frequent feature combination is `Number=Plur|PronType=Ind` (8 tokens).
+Examples: <em>mga</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 1 different relations: <tt><a href="tl_trg-dep-det.html">det</a></tt> (53; 100% instances)
+`DET` nodes are attached to their parents using 2 different relations: <tt><a href="tl_trg-dep-det.html">det</a></tt> (10; 91% instances), <tt><a href="tl_trg-dep-nmod.html">nmod</a></tt> (1; 9% instances)
 
-Parents of `DET` nodes belong to 3 different parts of speech: <tt><a href="tl_trg-pos-NOUN.html">NOUN</a></tt> (49; 92% instances), <tt><a href="tl_trg-pos-PROPN.html">PROPN</a></tt> (3; 6% instances), <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Parents of `DET` nodes belong to 3 different parts of speech: <tt><a href="tl_trg-pos-NOUN.html">NOUN</a></tt> (9; 82% instances), <tt><a href="tl_trg-pos-PROPN.html">PROPN</a></tt> (1; 9% instances), <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt> (1; 9% instances)
 
-53 (100%) `DET` nodes are leaves.
+11 (100%) `DET` nodes are leaves.
 
 The highest child degree of a `DET` node is 0.
 

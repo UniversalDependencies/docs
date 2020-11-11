@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-118 nodes (1%) are attached to their parents as `mark`.
+124 nodes (1%) are attached to their parents as `mark`.
 
-117 instances of `mark` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.55084745762712.
+123 instances of `mark` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.51612903225806.
 
-The following 16 pairs of parts of speech are connected with `mark`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (48; 41% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (42; 36% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (6; 5% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (5; 4% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt>-<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `mark`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (50; 40% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (45; 36% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (6; 5% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (5; 4% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt>-<tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -65,9 +65,9 @@ The following 16 pairs of parts of speech are connected with `mark`: <tt><a href
 5	:	:	PUNCT	CLB	_	4	punct	_	_
 6	весе	весе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	7	nsubj:cop	_	GTtags=Tot,Sg,Nom,Indef
 7	каразь	карамс	VERB	V	Derivation=Ozj|VerbForm=Conv	4	parataxis	_	GTtags=Der/Озь,Ger|SpaceAfter=No
-8	,	,	PUNCT	CLB	_	9	punct	_	_
-9	каштом-латко	каштом-латко	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	appos	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Indef
-10	потсо	потмо	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	9	case	_	GTtags=Sem/Inanim_Cnt,SP,Ine,Indef|SpaceAfter=No
+8	,	,	PUNCT	CLB	_	10	punct	_	_
+9	каштом-латко	каштом-латко	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	10	nmod:part	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Indef
+10	потсо	потмо	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	7	appos	_	GTtags=Sem/Inanim_Cnt,SP,Ine,Indef|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="ga_idt-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-1 nodes (0%) are attached to their parents as `acl`.
+2 nodes (0%) are attached to their parents as `acl`.
 
-1 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+2 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.
 
-The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (2; 100% instances).
 
 
 ~~~ conllu

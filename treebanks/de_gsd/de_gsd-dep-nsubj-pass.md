@@ -64,9 +64,9 @@ The following 22 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 1	Als	als	ADP	APPR	_	2	case	_	_
 2	Reiseziel	Reiseziel	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	7	obl	_	_
 3	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	aux:pass	_	_
-4	Nord	Nord	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	7	nsubj:pass	_	SpaceAfter=No
+4	Nord	Nord	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	7	nsubj:pass	_	SpaceAfter=No|NamedEntity=Yes
 5	-	-	PUNCT	$(	_	6	punct	_	SpaceAfter=No
-6	Korea	Korea	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	4	flat	_	_
+6	Korea	Korea	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	4	flat	_	NamedEntity=Yes
 7	genannt	nennen	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	$.	_	7	punct	_	_
 

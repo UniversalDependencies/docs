@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>svo</em> (<tt><a href="is_pud-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.047393 (the average of all parts of speech is 1.365617).
+The form / lemma ratio of `ADV` is 1.047393 (the average of all parts of speech is 1.365967).
 
 The 1st highest number of forms (3) was observed with the lemma “lengi”: <em>lengi, lengst, lengur</em>.
 

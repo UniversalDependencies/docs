@@ -85,7 +85,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 5	che	che	SCONJ	CS	_	9	mark	_	_
 6	anche	anche	ADV	B	_	7	advmod	_	_
 7	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-8	si	si	PRON	PC	Clitic=Yes|Gender=Masc|Person=3|PronType=Prs	9	expl	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
 9	iscrive	iscrivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
 10	in	in	ADP	E	_	12	case	_	_
 11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_

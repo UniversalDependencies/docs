@@ -33,7 +33,7 @@ The following 7 pairs of parts of speech are connected with `obl:patient`: <tt><
 9	公众	公众	NOUN	NN	_	11	obl	_	SpaceAfter=No
 10	中	中	ADP	IN	_	9	acl	_	SpaceAfter=No
 11	得到	得到	VERB	VV	_	6	ccomp	_	SpaceAfter=No
-12	了	了	PART	AS	Aspect=Perf	11	case:aspect	_	SpaceAfter=No
+12	了	了	PART	AS	Aspect=Perf	11	aux:aspect	_	SpaceAfter=No
 13	威望	威望	NOUN	NN	_	11	obj	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
 15	并	并	ADV	RB	_	20	mark	_	SpaceAfter=No

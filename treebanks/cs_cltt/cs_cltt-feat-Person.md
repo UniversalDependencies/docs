@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `3`.
 
-2167 tokens (6%) have a non-empty value of `Person`.
-369 types (8%) occur at least once with a non-empty value of `Person`.
-227 lemmas (9%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1426; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (454; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (216; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (71; 0% instances).
+2213 tokens (6%) have a non-empty value of `Person`.
+373 types (8%) occur at least once with a non-empty value of `Person`.
+227 lemmas (8%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1426; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (500; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (216; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (71; 0% instances).
 
 ### `VERB`
 
@@ -29,13 +29,13 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-454 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (80% of all `AUX` tokens) have a non-empty value of `Person`.
+500 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (454; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (454; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (438; 96%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (438; 96%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (417; 92%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (389; 86%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (241; 53%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (500; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (484; 97%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (484; 97%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (463; 93%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (410; 82%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (274; 55%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `3` (454; 100% of non-empty `Person`): <em>je, jsou, nejsou, není, by, bude, budou</em>
+* `3` (500; 100% of non-empty `Person`): <em>je, jsou, není, nejsou, by, bude, budou</em>
 * `EMPTY` (116): <em>být, byly, byl, by, bylo, nebyly, byla, nebyla, nebyl</em>
 
 ### `DET`
@@ -58,7 +58,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 `PRON` tokens may have the following values of `Person`:
 
 * `3` (71; 100% of non-empty `Person`): <em>jej, je, jim, jí, ji, nich, ní, jimi, nimi, ně</em>
-* `EMPTY` (560): <em>se, nichž, němž, němuž, jimiž, veškeré, jehož, níž, sobě, nějž</em>
+* `EMPTY` (565): <em>se, nichž, němž, němuž, jimiž, veškeré, jehož, níž, sobě, nějž</em>
 
 ## Relations with Agreement in `Person`
 
@@ -66,7 +66,9 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (170; 92%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (57; 86%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (27; 96%),
-<tt>AUX --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (3; 100%),
+<tt>AUX --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
+<tt>AUX --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).

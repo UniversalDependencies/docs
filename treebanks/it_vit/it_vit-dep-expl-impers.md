@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `expl:impers`: <tt><
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 expl:impers	color:blue
-1	Si	si	PRON	PC	Clitic=Yes|Gender=Masc|Person=3|PronType=Prs	2	expl:impers	_	_
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
 2	veda	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	<	<	PUNCT	FB	_	5	punct	_	SpaceAfter=No
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_

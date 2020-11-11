@@ -8,41 +8,34 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `vocative`.
+10 nodes (0%) are attached to their parents as `vocative`.
 
-9 instances of `vocative` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.22222222222222.
+10 instances of `vocative` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.9.
 
-The following 3 pairs of parts of speech are connected with `vocative`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (7; 78% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
+The following 3 pairs of parts of speech are connected with `vocative`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (8; 80% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 10% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 16 vocative	color:blue
-1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when|Ref=JOHN_11.43
-2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=|Ref=JOHN_11.43
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=he|Ref=JOHN_11.43
-4	sì	sì	CCONJ	_	_	5	cc	_	Gloss=then|Ref=JOHN_11.43
-5	wí	wí	VERB	_	_	10	advcl	_	Gloss=said|Ref=JOHN_11.43
-6	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	5	advmod	_	Gloss=so|Ref=JOHN_11.43
-7	tan	tan	VERB	_	_	5	compound:svc	_	Gloss=had|Ref=JOHN_11.43|SpaceAfter=No
-8	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=JOHN_11.43
-9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=he|Ref=JOHN_11.43
-10	kígbe	kígbe	VERB	_	_	0	root	_	Gloss=cried|Ref=JOHN_11.43
-11	lóhùn	lóhùn	VERB	_	_	10	compound:svc	_	Gloss=answered|Ref=JOHN_11.43
-12	rara	rara	ADV	_	_	10	advmod	_	Gloss=loud|Ref=JOHN_11.43
-13	pé	pé	SCONJ	_	_	18	mark	_	Gloss=that|Ref=JOHN_11.43|SpaceAfter=No
-14	,	,	PUNCT	_	_	18	punct	_	Gloss=,|Ref=JOHN_11.43
-15	“	“	PUNCT	_	_	18	punct	_	Gloss=“|Ref=JOHN_11.43|SpaceAfter=No
-16	Lásárù	lásárù	PROPN	_	_	18	vocative	_	Gloss=lazarus|Ref=JOHN_11.43|SpaceAfter=No
-17	,	,	PUNCT	_	_	16	punct	_	Gloss=,|Ref=JOHN_11.43
-18	jáde	jáde	VERB	_	_	10	ccomp	_	Gloss=out|Ref=JOHN_11.43
-19	wá	wá	VERB	_	_	18	compound:svc	_	Gloss=come|Ref=JOHN_11.43|SpaceAfter=No
-20	.	.	PUNCT	_	_	18	punct	_	Gloss=.|Ref=JOHN_11.43|SpaceAfter=No
-21	”	”	PUNCT	_	_	18	punct	_	Gloss=”|Ref=JOHN_11.43
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 vocative	color:blue
+1	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	4	vocative	_	Ref=PS_131.3|SpaceAfter=No|Gloss=israel
+2	,	,	PUNCT	_	_	1	punct	_	Ref=PS_131.3|Gloss=,
+3	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Ref=PS_131.3|Gloss=you
+4	ní	ní	VERB	_	_	0	root	_	Ref=PS_131.3|Gloss=have
+5	ìrètí	ìrètí	NOUN	_	_	4	obj	_	Ref=PS_131.3|Gloss=hope
+6	ní	ní	ADP	_	_	8	case	_	Ref=PS_131.3|Gloss=in
+7	ti	ti	ADP	_	_	8	case	_	Ref=PS_131.3|Gloss=of
+8	Olúwa	Olúwa	PROPN	_	_	4	obl	_	Ref=PS_131.3|Gloss=lord
+9	láti	láti	ADP	_	_	10	case	_	Ref=PS_131.3|Gloss=to
+10	ìsinsinyí	ìsinsinyí	ADV	_	_	11	advmod	_	Ref=PS_131.3|Gloss=now
+11	lọ	lọ	VERB	_	_	4	advcl	_	Ref=PS_131.3|Gloss=go
+12	àti	àti	CCONJ	_	_	13	cc	_	Ref=PS_131.3|Gloss=and
+13	láéláé	láéláé	ADV	_	_	10	conj	_	Ref=PS_131.3|SpaceAfter=No|Gloss=eternal
+14	.	.	PUNCT	_	_	4	punct	_	Ref=PS_131.3|Gloss=.
 
 ~~~
 
@@ -55,7 +48,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 25 14 vocative	color:blue
 1	Nítorí	Nítorí	SCONJ	_	_	8	mark	_	Gloss=for|Ref=JOHN_11.12
 2	náà	náà	PRON	_	_	1	fixed	_	Gloss=that|Ref=JOHN_11.12
-3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=his|Ref=JOHN_11.12
+3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Gloss=his|Ref=JOHN_11.12
 4	ọmọ	ọmọ	NOUN	_	_	8	nsubj	_	Gloss=child|Ref=JOHN_11.12|SpaceAfter=No
 5	-	-	PUNCT	_	_	6	punct	_	Gloss=-|Ref=JOHN_11.12|SpaceAfter=No
 6	ẹ̀yìn	ẹ̀yìn	NOUN	_	_	4	compound	_	Gloss=back|Ref=JOHN_11.12

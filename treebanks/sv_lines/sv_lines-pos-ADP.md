@@ -76,17 +76,17 @@ The 3rd highest number of forms (2) was observed with the lemma “sedan”: <em
 
 Parents of `ADP` nodes belong to 14 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (6950; 70% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (966; 10% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (850; 9% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (707; 7% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (167; 2% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (93; 1% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (92; 1% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (40; 0% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 0% instances)
 
-9724 (98%) `ADP` nodes are leaves.
+9725 (98%) `ADP` nodes are leaves.
 
-75 (1%) `ADP` nodes have one child.
+73 (1%) `ADP` nodes have one child.
 
-71 (1%) `ADP` nodes have two children.
+75 (1%) `ADP` nodes have two children.
 
-7 (0%) `ADP` nodes have three or more children.
+4 (0%) `ADP` nodes have three or more children.
 
-The highest child degree of a `ADP` node is 7.
+The highest child degree of a `ADP` node is 6.
 
-Children of `ADP` nodes are attached using 8 different relations: <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (197; 81% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (17; 7% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (16; 7% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (4; 2% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 8 different relations: <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (197; 83% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (16; 7% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (13; 5% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (4; 2% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 12 different parts of speech: <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (92; 38% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (75; 31% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (17; 7% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (16; 7% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (14; 6% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (12; 5% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 12 different parts of speech: <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (92; 39% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (75; 32% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (16; 7% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (14; 6% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (13; 5% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (12; 5% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

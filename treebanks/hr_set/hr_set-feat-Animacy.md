@@ -121,14 +121,14 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (994; 97%),
+<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1002; 97%),
 <tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (266; 96%),
-<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (77; 97%),
-<tt>NOUN --[<tt><a href="hr_set-dep-appos.html">appos</a></tt>]--> PROPN</tt> (52; 56%),
+<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (98; 96%),
+<tt>NOUN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (50; 54%),
 <tt>NOUN --[<tt><a href="hr_set-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (44; 69%),
 <tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (37; 95%),
 <tt>PROPN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> PROPN</tt> (36; 61%),
-<tt>PROPN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (24; 96%),
-<tt>PROPN --[<tt><a href="hr_set-dep-compound.html">compound</a></tt>]--> PROPN</tt> (22; 92%),
-<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> NOUN</tt> (8; 67%).
+<tt>PROPN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (25; 96%),
+<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> NOUN</tt> (8; 67%),
+<tt>PROPN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> PROPN</tt> (7; 100%).
 

@@ -6,82 +6,91 @@ udver: '2'
 
 ## Treebank Statistics: UD_Coptic-Scriptorium: POS Tags: `SCONJ`
 
-There are 7 `SCONJ` lemmas (0%), 10 `SCONJ` types (0%) and 1655 `SCONJ` tokens (4%).
-Out of 15 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 14 in number of types and 10 in number of tokens.
+There are 32 `SCONJ` lemmas (1%), 34 `SCONJ` types (1%) and 2724 `SCONJ` tokens (6%).
+Out of 15 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 11 in number of types and 8 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: ⲉⲧⲉⲣⲉ, ⲉⲣⲉ, ⲉ, ⲉⲧ, ⲉⲧⲉ, ⲉⲣϣⲁⲛ, ⲛⲧⲉⲣⲉ
+The 10 most frequent `SCONJ` lemmas: ⲉⲧⲉⲣⲉ, ⲉⲣⲉ, ϫⲉ, ϫⲉⲕⲁⲁⲥ, ⲉϣⲱⲡⲉ, ϩⲱⲥⲧⲉ, ϩⲱⲥ, ⲉϣϫⲉ, ϫⲉⲕⲁⲥ, ⲉⲓⲙⲏⲧⲓ
 
-The 10 most frequent `SCONJ` types:  ⲉ, ⲉⲧ, ⲉⲛⲧ, ⲉⲧⲉ, ⲛⲧ, ⲉⲣⲉ, ⲉⲧⲉⲣⲉ, ⲉⲣϣⲁⲛ, ⲉⲧⲉⲣ, ⲛⲧⲉⲣⲉ
+The 10 most frequent `SCONJ` types:  ⲉ, ϫⲉ, ⲉⲧ, ⲉⲛⲧ, ⲉⲧⲉ, ⲛⲧ, ⲉⲣⲉ, ⲉϣⲱⲡⲉ, ϫⲉⲕⲁⲁⲥ, ⲉⲧⲉⲣⲉ
 
-The 10 most frequent ambiguous lemmas: ⲉⲧⲉⲣⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 959, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 8), ⲉⲣⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 676, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 259, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 4, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 3, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1), ⲉ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 870, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 291, <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉⲧⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1), ⲉⲣϣⲁⲛ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 30, <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 1), ⲛⲧⲉⲣⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 132, <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ⲉⲧⲉⲣⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 1103, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1), ⲉⲣⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 750, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 285, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 10, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 2, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1), ϫⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 644, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 163, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ϫⲉⲕⲁⲁⲥ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 2), ⲉϣⲱⲡⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 7), ϩⲱⲥⲧⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 6), ϩⲱⲥ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 20, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1), ⲉϣϫⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 20, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 2), ⲉⲛⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 2, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1), ⲉ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 984, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 335, <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  ⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 673, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 595, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 489, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 22, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 1, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉⲧ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 571, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1), ⲉⲛⲧ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 140, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1), ⲉⲧⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 116, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1), ⲛⲧ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 79, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 41, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 7), ⲉⲣⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 46, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 27, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 3, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 3), ⲉⲧⲉⲣⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1), ⲉⲣϣⲁⲛ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 29, <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 1), ⲛⲧⲉⲣⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 94, <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  ⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 737, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 671, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 542, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 48, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 7, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ϫⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 644, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 163, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 15), ⲉⲛⲧ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 212, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1), ⲛⲧ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 75, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 49, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 7), ⲉⲣⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 47, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 29, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 10, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 6), ⲉϣⲱⲡⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 7), ϫⲉⲕⲁⲁⲥ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 1), ⲉⲧⲉⲣⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1), ϫⲉⲕⲁⲥ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 26, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 1), ϩⲱⲥⲧⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 6)
 
 
 * ⲉ
-  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 673: <b>ⲉ</b> ⲩ ⲧⲛⲧⲱⲛ ⲉ ϩⲉⲛ ϩⲏⲃⲥ <b>ⲉ</b> ⲁ ⲩ ϫⲉⲣⲱ ⲟⲩ ϩⲛ ϩⲉⲛ ⲙⲁ ⲛ ⲕⲁⲕⲉ ·
-  * <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 595: ⲉ ⲩ ⲧⲛⲧⲱⲛ <b>ⲉ</b> ϩⲉⲛ ϩⲏⲃⲥ ⲉ ⲁ ⲩ ϫⲉⲣⲱ ⲟⲩ ϩⲛ ϩⲉⲛ ⲙⲁ ⲛ ⲕⲁⲕⲉ ·
-  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 489: ⲁⲩⲱ <b>ⲉ</b> ⲩ ⲧⲛⲧⲱⲛ ⲉ ⲡ ⲟⲩⲟⲉⲓⲛ ⲙ ⲡⲉ ϩⲟⲟⲩ ·
-  * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 22: ⲉⲛⲉ ⲙⲡⲉ ⲡⲟⲩ ϩⲏⲧ ⲧⲁⲕⲟ . ⲛⲉⲣ ⲁ ⲥⲱϣ ⲡ ⲙⲁ ⲁⲛ ⲉⲧ <b>ⲉ</b> ⲛϩⲏⲧ ϥ .
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 1: ⲛⲁⲓ ⲉⲧⲉⲣⲉ ⲡ ϫⲟⲉⲓⲥ ϫⲱ ⲙⲙⲟ ⲥ ⲛⲁ ⲩ ϫⲉ <b>ⲉ</b> ⲥ ⲧⲙ ⲣϩⲟⲩⲟ ⲛϭⲓ ⲧⲉⲧⲛ ⲇⲓⲕⲁⲓⲟⲥⲩⲛⲏ ⲛ ϩⲟⲩⲉ ⲉ ⲧⲁ ⲛⲉ ⲅⲣⲁⲙⲙⲁⲧⲉⲩⲥ ⲙⲛ ⲛⲉ ⲫⲁⲣⲓⲥⲥⲁⲓⲟⲥ · ⲛ ⲧⲉⲧⲛ ⲃⲱⲕ ⲉϩⲟⲩⲛ ⲉ ⲧ ⲙⲛⲧⲣⲣⲟ ⲛ ⲙ ⲡⲏⲩⲉ ·
-  * <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 1: <b>ⲉ</b> ⲕ ⲧⲙ ϫⲓⲃⲁⲡⲧⲓⲥⲙⲁ ⲅⲁⲣ ⲙⲉ ⲕ ϫⲓ ⲡⲉ ⲥⲛⲟϥ ·
+  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 737: <b>ⲉ</b> ⲩ ⲧⲛⲧⲱⲛ ⲉ ϩⲉⲛ ϩⲏⲃⲥ <b>ⲉ</b> ⲁ ⲩ ϫⲉⲣⲱ ⲟⲩ ϩⲛ ϩⲉⲛ ⲙⲁ ⲛ ⲕⲁⲕⲉ ·
+  * <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 671: ⲉ ⲩ ⲧⲛⲧⲱⲛ <b>ⲉ</b> ϩⲉⲛ ϩⲏⲃⲥ ⲉ ⲁ ⲩ ϫⲉⲣⲱ ⲟⲩ ϩⲛ ϩⲉⲛ ⲙⲁ ⲛ ⲕⲁⲕⲉ ·
+  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 542: ⲁⲩⲱ <b>ⲉ</b> ⲩ ⲧⲛⲧⲱⲛ ⲉ ⲡ ⲟⲩⲟⲉⲓⲛ ⲙ ⲡⲉ ϩⲟⲟⲩ ·
+  * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 48: ⲉⲛⲉ ⲙⲡⲉ ⲡⲟⲩ ϩⲏⲧ ⲧⲁⲕⲟ . ⲛⲉⲣ ⲁ ⲥⲱϣ ⲡ ⲙⲁ ⲁⲛ ⲉⲧ <b>ⲉ</b> ⲛϩⲏⲧ ϥ .
+  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 7: ⲉ ⲙⲉ ϥ ⲉⲓⲙⲉ ⲉ ⲡⲱⲣϫ · ⲁⲗⲗⲁ ⲉⲧⲃⲉ ⲟⲩ ⲙⲟⲥⲧⲉ ⲉ ϥ ϫⲱ ⲙ ⲡ ⲉⲧⲉ ⲛ ϣⲟⲟⲡ ⲁⲛ ⲉϣⲱⲡⲉ <b>ⲉ</b> ⲩ ϩⲟⲟⲩⲧ ⲡⲉ ⲉϣⲱⲡⲉ <b>ⲉ</b> ⲩ ⲥϩⲓⲙⲉ ⲧⲉ ·
   * <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1: ⲁⲩⲱ ⲟⲩⲟⲓ ⲛ ⲛ ⲉⲧⲉⲣⲉ ⲡ ⲛⲟⲩⲧⲉ ⲛⲁ ϩⲟϫϩϫ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧ ⲟⲩ ⲁⲩⲱ ⲛ ϥ ⲕⲱⲧⲉ ⲛⲥⲁ ⲧ ϩⲉ ⲛ ⲉⲓ <b>ⲉ</b> ⲉⲃⲟⲗ ϩⲛ ⲧⲉⲩ ⲙⲏⲧⲉ · ⲛ ⲧ ϩⲉ ⲛ ⲟⲩ ⲣⲱⲙⲉ ⲛ ⲇⲓⲕⲁⲓⲟⲥ ⲉ ⲁ ϥ ⲕⲱⲧⲉ ⲛⲥⲁ ⲧ ϩⲉ ⲛ ⲕⲱ ⲛⲥⲱ ϥ ⲛ ⲟⲩ ⲗⲁⲟⲥ ⲉⲧⲃⲉ ⲛⲉⲩ ϩⲃⲏⲩⲉ ⲉⲧ ϩⲟⲟⲩ ⲕⲁⲧⲁ ⲡ ϣⲁϫⲉ ⲙ ⲡⲉ ⲡⲣⲟⲫⲏⲧⲏⲥ ϫⲉ ⲛⲓⲙ ⲡ ⲉⲧ ⲛⲁ ϯ ⲛⲁ ⲓ ϩⲙ ⲡ ϫⲁⲓⲉ ⲛ ⲟⲩ ⲙⲁ ⲛ ϣⲱⲡⲉ ⲉ ϥ ⲟⲩⲏⲩ ⲛ ⲧⲁ ⲕⲱ ⲛⲥⲱ ⲓ ⲙ ⲡⲉⲓ ⲗⲁⲟⲥ ⲛ ⲧⲁ ⲟⲩⲉ ⲉⲃⲟⲗ ⲙⲙⲟ ⲟⲩ ·
-* ⲉⲧ
-  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 571: ⲁⲩⲱ ⲛ ⲁⲧϩⲏⲧ <b>ⲉⲧ</b> ⲣϩⲟⲩⲟ ⲉⲙⲁⲧⲉ ϩⲛ ϩⲉⲛ ⲙⲛⲧⲥⲟϭ · ⲉ ⲩ ⲧⲛⲧⲱⲛ ⲉ ϩⲉⲛ ⲛⲩⲕⲧⲉⲣⲓⲥ ·
-  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1: ⲁⲗⲗⲁ ⲛⲛⲉ ⲡ ⲛⲟⲩⲧⲉ ϫⲟⲟ ϥ ⲉ ⲧⲣⲉ ⲩ ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ ⲛ ⲙ ⲙⲁⲓⲛⲟⲩⲧⲉ ⲉⲛⲉϩ . ⲛⲁⲓ ⲉⲧⲉ ⲟⲩⲛⲧⲁ ⲩ ⲙⲙⲁⲩ ⲛ ⲧⲉⲩ ⲡⲓⲥⲧⲓⲥ ⲉ ⲥ ϫⲏⲕ ⲉⲃⲟⲗ ⲉϩⲟⲩⲛ ⲉ ⲡⲉ ⲭⲣⲓⲥⲧⲟⲥ . ⲁⲩⲱ <b>ⲉⲧ</b> ⲁϩⲉ ⲉ ⲡⲉ ⲡⲛⲉⲩⲙⲁ ⲙ ⲡ ⲛⲟⲩⲧⲉ ·
+* ϫⲉ
+  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 644: ⲕⲁⲧⲁ ⲧ ϩⲉ ⲉⲧ ⲥⲏϩ <b>ϫⲉ</b> ⲡ ϩⲏⲃⲥ ⲛ ⲛⲁ ⲟⲩⲉⲣⲏⲧⲉ : ⲉ ⲡⲉⲕ ϣⲁϫⲉ
+  * <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 163: ⲁ ⲟⲩ ⲥⲟⲛ ϫⲛⲉ ⲁⲡⲁ ⲥⲁⲣⲁⲡⲓⲟⲛ <b>ϫⲉ</b> ⲁϫⲓ ⲟⲩ ϣⲁϫⲉ ⲉⲣⲟ ⲓ .
+  * <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 15: ⲡⲉϫⲁ ϥ ϫⲉ ⲁ ⲛ <b>ϫⲉ</b> ⲡ ⲣⲱϣⲉ ·
 * ⲉⲛⲧ
-  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 140: ϩⲟⲧⲁⲛ ⲉⲩϣⲁⲛ ⲣⲛⲟⲃⲉ ⲉ ⲡ <b>ⲉⲛⲧ</b> ⲁ ϥ ⲧⲁⲙⲓⲟ ⲟⲩ ⲉⲧⲉ ⲡ ⲛⲟⲩⲧⲉ ⲡⲉ ·
+  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 212: ϩⲟⲧⲁⲛ ⲉⲩϣⲁⲛ ⲣⲛⲟⲃⲉ ⲉ ⲡ <b>ⲉⲛⲧ</b> ⲁ ϥ ⲧⲁⲙⲓⲟ ⲟⲩ ⲉⲧⲉ ⲡ ⲛⲟⲩⲧⲉ ⲡⲉ ·
   * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1: ⲁⲗⲗⲁ <b>ⲉⲛⲧ</b> ⲁ ⲩ ϯⲥⲃⲱ ⲛⲁ ⲛ ϫⲉ ϩⲛ ⲟⲩ ϩⲟⲧⲉ ⲙⲛ ⲟⲩ ⲥⲧⲱⲧ ⲁⲣⲓϩⲱⲃ ⲉ ⲡⲉⲧⲛ ⲟⲩϫⲁⲓ .
-* ⲉⲧⲉ
-  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 116: ϩⲟⲧⲁⲛ ⲉⲩϣⲁⲛ ⲣⲛⲟⲃⲉ ⲉ ⲡ ⲉⲛⲧ ⲁ ϥ ⲧⲁⲙⲓⲟ ⲟⲩ <b>ⲉⲧⲉ</b> ⲡ ⲛⲟⲩⲧⲉ ⲡⲉ ·
-  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1: ⲁⲩⲱ ϩⲉⲛ ⲕⲟⲟⲩⲉ ⲛ ⲉⲛⲧ ⲁ ⲩ ϫⲟ ⲟⲩ ⲉϩⲣⲁⲓ ⲉ ⲛ ϣⲟⲛⲧⲉ <b>ⲉⲧⲉ</b> ⲛⲁⲓ ⲛⲉ ⲛⲧ ⲁ ⲩ ⲥⲱⲧⲙ ⲉ ⲡ ϣⲁϫⲉ
 * ⲛⲧ
-  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 79: <b>ⲛⲧ</b> ⲁ ϥ ⲉⲓ ⲉⲃⲟⲗ ϩⲛ ⲛⲉϥ ⲙⲉⲣⲟⲥ ·
-  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 41: ϫⲉⲕⲁⲁⲥ ⲛⲛⲉ ⲟⲩⲁ ϫⲟⲟ ⲥ ϫⲉ <b>ⲛⲧ</b> ⲁ ⲧⲉⲧⲛ ⲃⲁⲡⲧⲓⲍⲉ ⲉ ⲡⲁ ⲣⲁⲛ .
+  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 75: <b>ⲛⲧ</b> ⲁ ϥ ⲉⲓ ⲉⲃⲟⲗ ϩⲛ ⲛⲉϥ ⲙⲉⲣⲟⲥ ·
+  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 49: ϫⲉⲕⲁⲁⲥ ⲛⲛⲉ ⲟⲩⲁ ϫⲟⲟ ⲥ ϫⲉ <b>ⲛⲧ</b> ⲁ ⲧⲉⲧⲛ ⲃⲁⲡⲧⲓⲍⲉ ⲉ ⲡⲁ ⲣⲁⲛ .
   * <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 7: ⲁ ϥ <b>ⲛⲧ</b> ⲥ ϩⲓϫⲙ ⲡ ⲡⲓⲛⲁⲝ ⲁ ϥ ⲧⲁⲁ ⲥ ⲛ ⲧ ϣⲉⲉⲣⲉ ϣⲏⲙ ⲧ ϣⲉⲉⲣⲉ ϣⲏⲙ ⲇⲉ ⲁ ⲥ ⲧⲁⲁ ⲥ ⲛ ⲧⲉⲥ ⲙⲁⲁⲩ .
 * ⲉⲣⲉ
-  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 46: ⲁⲩⲱ ⲟⲩ ⲥϩⲓⲙⲉ <b>ⲉⲣⲉ</b> ⲡⲉ ⲥⲛⲟϥ ϣⲟⲩⲟ ⲙⲙⲟ ⲥ ⲉⲓⲥ ⲙⲛⲧⲥⲛⲟⲟⲩⲥ ⲛ ⲣⲟⲙⲡⲉ .
-  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 27: ⲁⲗⲗⲁ <b>ⲉⲣⲉ</b> ⲛⲉⲩ ⲥⲁⲛⲇⲁⲗⲓⲟⲛ ⲟⲧϩ ⲉⲣⲁⲧ ⲟⲩ . ⲟⲩⲇⲉ ⲛ ⲥⲉ ⲧⲙ ϯ ϣⲧⲏⲛ ⲥⲛⲧⲉ ϩⲓⲱ ⲟⲩ
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 3: ⲉⲧⲃⲉ ⲡⲁⲓ ⲕⲁⲗⲱⲥ ⲁ ϥ ϫⲟⲟ ⲥ ⲛϭⲉ ⲡ ϫⲟⲉⲓⲥ ϫⲉ ⲙⲡⲣ ⲉⲓⲣⲉ ϫⲉⲕⲁⲥ <b>ⲉⲣⲉ</b> ⲛ ⲣⲱⲙⲉ ⲛⲁⲩ ⲉⲣⲱ ⲧⲛ ·
-  * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 3: ⲛⲧ ⲁⲣ ϣⲓⲛⲉ ⲛⲥⲁ ⲟⲩ <b>ⲉⲣⲉ</b> ⲣⲭⲣⲉⲓⲁ ⲛⲁ ϥ · ⲁ ⲩ ⲧⲥⲧⲟ ⲉⲃⲟⲗ · ⲏ ⲉ ⲙⲡ ⲟⲩ ⲧⲁⲁ ϥ ⲛ ⲉ ·
+  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 47: ⲁⲩⲱ ⲟⲩ ⲥϩⲓⲙⲉ <b>ⲉⲣⲉ</b> ⲡⲉ ⲥⲛⲟϥ ϣⲟⲩⲟ ⲙⲙⲟ ⲥ ⲉⲓⲥ ⲙⲛⲧⲥⲛⲟⲟⲩⲥ ⲛ ⲣⲟⲙⲡⲉ .
+  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 29: ⲁⲗⲗⲁ <b>ⲉⲣⲉ</b> ⲛⲉⲩ ⲥⲁⲛⲇⲁⲗⲓⲟⲛ ⲟⲧϩ ⲉⲣⲁⲧ ⲟⲩ . ⲟⲩⲇⲉ ⲛ ⲥⲉ ⲧⲙ ϯ ϣⲧⲏⲛ ⲥⲛⲧⲉ ϩⲓⲱ ⲟⲩ
+  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 10: ⲉⲧⲃⲉ ⲡⲁⲓ ⲕⲁⲗⲱⲥ ⲁ ϥ ϫⲟⲟ ⲥ ⲛϭⲉ ⲡ ϫⲟⲉⲓⲥ ϫⲉ ⲙⲡⲣ ⲉⲓⲣⲉ ϫⲉⲕⲁⲥ <b>ⲉⲣⲉ</b> ⲛ ⲣⲱⲙⲉ ⲛⲁⲩ ⲉⲣⲱ ⲧⲛ ·
+  * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 6: ⲛⲧ ⲁⲣ ϣⲓⲛⲉ ⲛⲥⲁ ⲟⲩ <b>ⲉⲣⲉ</b> ⲣⲭⲣⲉⲓⲁ ⲛⲁ ϥ · ⲁ ⲩ ⲧⲥⲧⲟ ⲉⲃⲟⲗ · ⲏ ⲉ ⲙⲡ ⲟⲩ ⲧⲁⲁ ϥ ⲛ ⲉ ·
+* ⲉϣⲱⲡⲉ
+  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 33: <b>ⲉϣⲱⲡⲉ</b> ⲉⲣⲉ ⲛⲟϭ ⲉⲣⲟ ⲕ · ϩⲙⲟⲟⲥ ·
+  * <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 7: ⲡⲉϫⲁ ϥ ⲛⲁ ⲩ ⲛϭⲓ ⲡ ϩⲗⲗⲟ ϫⲉ <b>ⲉϣⲱⲡⲉ</b> ⲙⲉ ϥ ϯϩⲏⲩ ⲉ ⲡⲉⲛ ⲕⲁⲣⲱϥ · ⲉⲓⲉ ⲉⲛϣⲁⲛ ϣⲁϫⲉ ⲟⲛ ⲛ ϥ ⲛⲁ ϯϩⲏⲩ ⲁⲛ ·
+* ϫⲉⲕⲁⲁⲥ
+  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 30: ⲁⲩⲱ ⲁ ⲩ ⲥⲉⲡⲥⲱⲡ ϥ ⲉⲙⲁⲧⲉ <b>ϫⲉⲕⲁⲁⲥ</b> ⲛⲛⲉ ϥ ⲛⲟϫ ⲟⲩ ⲉⲃⲟⲗ ⲛ ⲧⲉ ⲭⲱⲣⲁ .
+  * <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 1: ⲡⲉϫⲉ ⲡ ϩⲗⲗⲟ <b>ϫⲉⲕⲁⲁⲥ</b> ⲉⲣⲉ ⲡ ⲣⲱⲙⲉ ⲛⲁ ϫⲡⲓⲉ ⲧⲉϥ ⲯⲩⲭⲏ ϩⲛ ϩⲱⲃ ⲛⲓⲙ ⲉ ϥ ϫⲱ ⲙⲙⲟ ⲥ ⲛⲁ ⲥ . ϫⲉ ⲁⲣⲓ ⲡ ⲙⲉⲉⲩⲉ ϫⲉ ϩⲁⲡⲥ ⲉⲣⲟ ⲛ ⲡⲉ ⲉ ⲧⲣⲉ ⲛ ⲁⲡⲁⲛⲧⲁ ⲉ ⲡ ⲛⲟⲩⲧⲉ .
 * ⲉⲧⲉⲣⲉ
-  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 27: ⲡ <b>ⲉⲧⲉⲣⲉ</b> ⲡⲉϥ ϩⲱⲃ ⲛⲁ ϭⲱ ⲡⲁⲓ ⲉⲛⲧ ⲁ ϥ ⲕⲟⲧ ϥ ϥ ⲛⲁ ϫⲓ ⲛ ⲟⲩ ⲃⲉⲕⲉ .
+  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 30: ⲡ <b>ⲉⲧⲉⲣⲉ</b> ⲡⲉϥ ϩⲱⲃ ⲛⲁ ϭⲱ ⲡⲁⲓ ⲉⲛⲧ ⲁ ϥ ⲕⲟⲧ ϥ ϥ ⲛⲁ ϫⲓ ⲛ ⲟⲩ ⲃⲉⲕⲉ .
   * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1: ⲉⲛⲉ ⲙⲡⲉ ⲡⲟⲩ ϩⲏⲧ ⲅⲁⲣ ⲛ ⲁⲧⲥⲃⲱ ⲣⲕⲁⲕⲉ ⲉⲣⲟ . ⲛⲉⲣ ⲁ ⲕⲁⲧⲁⲫⲣⲟⲛⲉⲓ ⲡⲉ ⲛ ⲛⲟⲩ ⲉⲓⲟⲧⲉ ⲉⲧ ϩⲛ ⲧ ⲥⲩⲛⲁⲅⲱⲅⲏ ⲛⲙⲙ ⲉ · ⲏ ⲛⲉⲣ ⲁ ⲥⲱϣ ⲛ ⲛⲉ ⲥⲛⲏⲩ , <b>ⲉⲧⲉⲣⲉ</b> ⲟⲩⲏϩ ⲛⲙⲙⲁ ⲩ ϩⲛ ⲧⲟⲩ ⲙⲛⲧϫⲁⲥⲓϩⲏⲧ · ⲙⲛ ⲧⲟⲩ ⲙⲛⲧⲃⲁⲃⲉⲣⲱⲙⲉ ·
-* ⲉⲣϣⲁⲛ
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 29: ⲁⲩⲱ <b>ⲉⲣϣⲁⲛ</b> ⲟⲩ ⲏⲓ ⲡⲱⲣϫ ⲉ ⲛⲉϥ ⲉⲣⲏⲩ ⲛⲛⲉ ϣ ⲡ ⲏⲓ ⲉⲧ ⲙⲙⲁⲩ ⲁϩⲉ ⲣⲁⲧ ϥ .
-  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 1: ⲏ <b>ⲉⲣϣⲁⲛ</b> ϩⲟⲩⲟ ⲉ ⲛ ⲙⲏⲏϣⲉ ⲛⲧ ⲁ ⲕ ϫⲟⲟ ⲥ ϫⲉ ⲥⲉ ϫⲓϩⲛⲁⲩ ⲛⲁ ϥ . ⲉⲩϣⲁⲛ ⲡⲱⲛⲅ ⲛⲁ ⲓ ⲁϫⲛ ϯⲥⲟ ϫⲉ ϯ ⲟ ϩⲱⲱ ⲧ ⲛ ϩⲙϩⲁⲗ ⲛⲁ ⲩ ⲕⲁⲗⲱⲥ ϫⲉ ⲛⲁ ⲥⲛⲏⲩ ⲛⲉ ⲉ ⲓ ⲥⲱⲟⲩϩⲛⲁⲩ ⲉϩⲟⲩⲛ ⲉ ϩⲉⲛ ⲁϩⲟ ϩⲛ ⲧ ⲡⲉ ⲛ ⲛ ⲉⲧ ⲟⲩ ϯ ⲙⲙⲟ ⲟⲩ ⲛ ⲧⲁⲉⲓⲟ ⲙ ⲡ ⲛⲟⲩⲧⲉ . ⲙⲏ ⲛⲧ ⲁ ⲩ ⲛⲧ ⲟⲩ ⲉⲃⲟⲗ ϩⲙ ⲡⲉⲕ ⲏⲓ ⲙⲛ ⲡ ⲏⲓ ⲛ ⲛⲉⲕ ⲉⲓⲟⲧⲉ .
-* ⲛⲧⲉⲣⲉ
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 94: <b>ⲛⲧⲉⲣⲉ</b> ϥ ⲛⲁⲩ ⲉ ⲓⲏⲥⲟⲩⲥ ϩⲙ ⲡ ⲟⲩⲉ ⲁ ϥ ⲡⲱⲧ ⲁ ϥ ⲡⲁϩⲧ ϥ ϩⲁⲣⲁⲧ ϥ ⲁ ϥ ⲟⲩⲱϣⲧ ⲛⲁ ϥ
-  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 1: ⲡ ⲣⲣⲟ ⲇⲉ <b>ⲛⲧⲉⲣⲉ</b> ϥ ⲟⲩⲱϣⲧ · ⲁ ⲡⲉϥ ⲕⲉ ϣⲟⲙⲛⲧ ⲛ ϣⲃⲏⲣ ⲉⲓ ⲉ ⲧⲣⲉ ⲩ ⲟⲩⲱϣⲧ · ϩⲣⲱⲙⲁⲛⲟⲥ · ⲙⲛ ⲃⲁⲥⲓⲗⲉⲓⲧⲏⲥ · ⲙⲛ ⲉⲩϩⲁⲓⲟⲥ ·
+* ϫⲉⲕⲁⲥ
+  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 26: ⲁ ϥ ⲕⲁⲁ ϥ ⲙ ⲡ ⲙⲧⲟ ⲉⲃⲟⲗ ⲛ ⲧ ϣⲏⲩⲉ <b>ϫⲉⲕⲁⲥ</b> ⲉⲩⲉ ⲧⲁⲗⲉ ⲡ ⲁⲡⲟⲗⲗⲱⲛ ⲉϫⲱ ϥ ·
+  * <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 1: ⲥⲱⲧⲡ ⲛⲁ ⲕ ⲟⲛ ⲛ ⲧ ⲙⲛⲧⲣⲙⲣⲁϣ ⲙ ⲙⲱⲩⲥⲏⲥ . <b>ϫⲉⲕⲁⲥ</b> ⲉ ⲕ ⲛⲁ ⲡⲱⲱⲛⲉ ⲙ ⲡⲉⲕ ϩⲏⲧ ⲛ ⲧ ϩⲉ ⲛ ⲧ ⲡⲉⲧⲣⲁ . ⲉ ϩⲉⲛ ⲡⲏⲅⲏ ⲙ ⲙⲟⲟⲩ .
+* ϩⲱⲥⲧⲉ
+  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 22: <b>ϩⲱⲥⲧⲉ</b> · ϣⲉ ϫⲟⲩⲱⲧ ⲛ ⲕⲉⲛⲧⲏⲛⲁⲣⲓⲟⲛ ⲛ ⲛⲟⲩⲃ ⲛ ⲥⲉ ⲧⲁⲁ ⲩ ⲛ ⲭⲁⲣⲓⲥⲙⲁ ⲙ ⲡ ⲁⲡⲟⲗⲗⲱⲛ ·
+  * <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> 6: <b>ϩⲱⲥⲧⲉ</b> ⲡ ϣⲏⲣⲉ ⲙ ⲡ ⲣⲱⲙⲉ ⲡ ϫⲟⲉⲓⲥ ⲡⲉ ⲙ ⲡ ⲕⲉ ⲥⲁⲃⲃⲁⲧⲟⲛ .
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.428571 (the average of all parts of speech is 1.113591).
+The form / lemma ratio of `SCONJ` is 1.062500 (the average of all parts of speech is 1.124670).
 
 The 1st highest number of forms (7) was observed with the lemma “ⲉⲧⲉⲣⲉ”: ⲉ, ⲉⲛⲧ, ⲉⲧ, ⲉⲧⲉ, ⲉⲧⲉⲣ, ⲉⲧⲉⲣⲉ, ⲛⲧ.
 
 The 2nd highest number of forms (3) was observed with the lemma “ⲉⲧⲉ”: ⲉ, ⲉⲧ, ⲉⲧⲉ.
 
-The 3rd highest number of forms (2) was observed with the lemma “ⲉⲣⲉ”: ⲉ, ⲉⲣⲉ.
+The 3rd highest number of forms (2) was observed with the lemma “ϫⲉⲕⲁⲁⲥ”: ϫⲉⲕⲁⲁⲥ, ϫⲉⲕⲁⲥ.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
+
+`SCONJ` occurs with 1 feature-value pairs: `Polarity=Neg`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (2723 tokens).
+Examples: ⲉ, ϫⲉ, ⲉⲧ, ⲉⲛⲧ, ⲉⲧⲉ, ⲛⲧ, ⲉⲣⲉ, ⲉϣⲱⲡⲉ, ϫⲉⲕⲁⲁⲥ, ⲉⲧⲉⲣⲉ
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="cop_scriptorium-dep-mark.html">mark</a></tt> (1643; 99% instances), <tt><a href="cop_scriptorium-dep-case.html">case</a></tt> (8; 0% instances), <tt><a href="cop_scriptorium-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="cop_scriptorium-dep-mark.html">mark</a></tt> (2713; 100% instances), <tt><a href="cop_scriptorium-dep-case.html">case</a></tt> (9; 0% instances), <tt><a href="cop_scriptorium-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1428; 86% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (93; 6% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (55; 3% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (50; 3% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (24; 1% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (2249; 83% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (210; 8% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (104; 4% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (66; 2% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (54; 2% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (22; 1% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (2; 0% instances)
 
-1653 (100%) `SCONJ` nodes are leaves.
+2714 (100%) `SCONJ` nodes are leaves.
 
-1 (0%) `SCONJ` nodes have one child.
+9 (0%) `SCONJ` nodes have one child.
 
 1 (0%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="cop_scriptorium-dep-orphan.html">orphan</a></tt> (3; 100% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="cop_scriptorium-dep-punct.html">punct</a></tt> (10; 91% instances), <tt><a href="cop_scriptorium-dep-orphan.html">orphan</a></tt> (1; 9% instances)
 
-Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 67% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 33% instances)
+Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (10; 91% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 9% instances)
 

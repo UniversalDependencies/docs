@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `xcomp:pred`: <tt><a
 # visual-style 5 6 xcomp:pred	color:blue
 1	Erenoamážit	erenoamážit	ADV	Adv	_	2	advmod	_	_
 2	jokŋa	jokŋa	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
-3	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	leamaš	leat	AUX	V	Aspect=Perf|VerbForm=Part	5	cop	_	_
 5	deaŧalaš	deaŧalaš	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
 6	vuovdingálvun	vuovdingálvu	NOUN	N	Case=Ess	5	xcomp:pred	_	SpaceAfter=No

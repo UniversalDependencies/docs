@@ -44,7 +44,7 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 20	)	)	PUNCT	PUNCT	_	19	punct	_	_
 21	ta	ta	CCONJ	CCONJ	_	22	cc	_	_
 22	kolmannella	kolmaš	ADJ	ADJ	Case=Ade|Number=Sing	13	conj	_	_
-23	–	–	PUNCT	PUNCT	_	25	punct	_	_
+23	–	–	PUNCT	PUNCT	_	24	punct	_	_
 24	Maksim	Maksim	PROPN	PROPN	Case=Nom|Number=Sing	12	conj	_	PropnType=Ant|Gender=Male
 25	Glazkov	Glazkov	PROPN	PROPN	Case=Nom|Number=Sing	24	flat:name	_	PropnType=Cog
 26	(	(	PUNCT	PUNCT	_	28	punct	_	SpaceAfter=No

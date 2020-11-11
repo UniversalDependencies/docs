@@ -57,7 +57,7 @@ The following 12 pairs of parts of speech are connected with `xcomp:obj`: <tt><a
 # visual-style 5 7 xcomp:obj	color:blue
 1	Mo	mo	ADV	Adv	_	4	advmod	_	_
 2	dalle	dalle	ADV	Adv	_	4	advmod	_	_
-3	sáhttet	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	4	aux	_	_
+3	sáhttet	sáhttit	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	4	aux	_	_
 4	dadjat	dadjat	VERB	V	VerbForm=Inf	0	root	_	_
 5	su	son	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 6	iežat	ieš	PRON	Pron	Case=Gen|Number[psor]=Sing|Person[psor]=2|PronType=Prs|Reflex=Yes	7	nmod:poss	_	_

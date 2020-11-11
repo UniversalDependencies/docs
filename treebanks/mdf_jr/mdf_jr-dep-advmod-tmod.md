@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-advmod.html">advmod</a></tt>.
 There are also 3 other language-specific subtypes of `advmod`: <tt><a href="mdf_jr-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="mdf_jr-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="mdf_jr-dep-advmod-mmod.html">advmod:mmod</a></tt>.
 
-28 nodes (2%) are attached to their parents as `advmod:tmod`.
+36 nodes (2%) are attached to their parents as `advmod:tmod`.
 
-21 instances of `advmod:tmod` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.96428571428571.
+27 instances of `advmod:tmod` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.83333333333333.
 
-The following 3 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (25; 89% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 4% instances).
+The following 4 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (30; 83% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 6% instances).
 
 
 ~~~ conllu
@@ -38,47 +38,43 @@ The following 3 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 advmod:tmod	color:blue
-1	Мъзяра	мзяра	ADV	Adv	PronType=Int|Style=Ped	3	advmod:tmod	_	GTtags=Interr|ModernForm=Мзяра
-2	ранендаф	ранендамс	VERB	V	Derivation=F|Valency=1|VerbForm=Part	3	advcl	_	GTtags=IV,PrfPrc
-3	солдатонди	солдат	NOUN	N	Case=Dat|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=SP,Dat,Indef
-4	Людась	Люда	NOUN	N	Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	GTtags=Prop,Sem/Fem,Sg,Nom,Def
-5	лездсь	лездомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
-6	стямс	стямс	VERB	V	Valency=1|VerbForm=Inf	5	xcomp	_	GTtags=IV,Inf
-7	пильге	пильге	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	obl:lmod	_	GTtags=Sg,Nom,Indef
-8	лангс	ланга	ADP	Adp	Case=Ill	7	case	_	GTtags=Ill|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 advmod:tmod	color:blue
+1	Митроха	Митроха	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	nmod	_	GTtags=Prop,Sg,Nom,Indef
+2	атянь	атя	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	1	flat:name	_	GTtags=SP,Gen,Indef
+3	сельмоц	сельме	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj:cop	_	GTtags=Sg,Nom,PxSg3
+4	нинге	нинге	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
+5	оржа	оржа	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef
+6	и	и	CCONJ	CC	_	9	cc	_	_
+7	кядец	кядь	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj:cop	_	GTtags=Sg,Nom,PxSg3
+8	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	9	aux:neg	_	GTtags=Aux,Neg
+9	трнаты	трнатомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,ScSg3|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 13 advmod:tmod	color:blue
-1	Эрь	эрь	DET	Det	Case=Nom|Definite=Ind|Number=Sing	2	det	_	_
-2	шиня	ши	NOUN	N	Case=Temp|Definite=Ind|Number=Sing	3	obl:tmod	_	_
-3	стяшендан	стяшендомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	_
-4	табуреткать	табуретка	NOUN	N	Case=Gen|Definite=Def|Number=Sing	3	obl:lmod	_	_
-5	лангс	ланга	ADP	Adp	Case=Ill	3	case	_	_
-6	и	и	CCONJ	CC	_	8	cc	_	_
-7	кяднень	кядь	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=1	8	obj	_	_
-8	венепнесайне	венепнемс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Pres|Valency=2	3	conj	_	_
-9	поталакти	поталак	NOUN	N	Case=Dat|Definite=Def|Number=Sing	8	obl:lmod	_	SpaceAfter=No
-10	,	,	PUNCT	CLB	_	14	punct	_	_
-11	а	а	CCONJ	CC	_	14	cc	_	_
-12	поталаксь	поталак	NOUN	N	Case=Nom|Definite=Def|Number=Sing	14	nsubj	_	_
-13	нинге	нинге	ADV	Adv	AdvType=Tim	14	advmod:tmod	_	_
-14	вяре	вяре	ADV	Adv	_	3	conj	_	SpaceAfter=No
-15	,	,	PUNCT	CLB	_	16	punct	_	_
-16	вяре	вяре	ADV	Adv	_	14	conj	_	SpaceAfter=No
-17	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 advmod:tmod	color:blue
+1	Аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	2	aux:neg	_	GTtags=Aux,Neg
+2	сиволькс	сиволь	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	3	obl	_	GTtags=SP,Tra,Indef
+3	ащи	ащемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg3|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	7	punct	_	_
+5	пяк	пяк	ADV	Adv	AdvType=Deg	7	advmod	_	GTtags=Deg
+6	ни	ни	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
+7	калгода	калгода	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	3	conj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+8	,	,	PUNCT	CLB	_	9	punct	_	_
+9	марявсь	марявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	3	conj	_	GTtags=Ind,Prt1,ScSg3
+10	мезе-бди	мезе-бди	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	9	nsubj	_	GTtags=Indef,Sg,Nom
+11	шуфтонь	шуфта	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	10	nmod	_	GTtags=SP,Gen,Indef|SpaceAfter=No
+12	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

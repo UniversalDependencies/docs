@@ -9,9 +9,9 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-6378 tokens (18%) have a non-empty value of `Degree`.
+6378 tokens (17%) have a non-empty value of `Degree`.
 1498 types (32%) occur at least once with a non-empty value of `Degree`.
-664 lemmas (25%) occur at least once with a non-empty value of `Degree`.
+664 lemmas (24%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6075; 17% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (285; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (18; 0% instances).
 
 ### `ADJ`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (55; 1% of non-empty `Degree`): <em>delší, vyšší, kratší, nižší, pozdějších, podrobnější, menší, nižším, bližší, bližších</em>
 * `Pos` (6014; 99% of non-empty `Degree`): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, výroční, právní, jiných, ostatní</em>
 * `Sup` (6; 0% of non-empty `Degree`): <em>nejvyšší, nejvyšším, nejvyššího</em>
-* `EMPTY` (706): <em>konsolidující, povinny, povinna, zanikající, stanoveno, následujícího, související, předcházejícímu, týkající, prvním</em>
+* `EMPTY` (697): <em>konsolidující, povinny, povinna, zanikající, stanoveno, následujícího, související, předcházejícímu, týkající, prvním</em>
 
 <table>
   <tr><th>Paradigm <i>vysoký</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_gb-feat-Person.html">Person</a></tt>, <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt>.
 
-3119 tokens (18%) have a non-empty value of `Person`.
-1579 types (31%) occur at least once with a non-empty value of `Person`.
-283 lemmas (14%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2062; 12% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (529; 3% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (516; 3% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances).
+3180 tokens (19%) have a non-empty value of `Person`.
+1602 types (31%) occur at least once with a non-empty value of `Person`.
+285 lemmas (14%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2097; 12% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (543; 3% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (528; 3% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances).
 
 ### `VERB`
 
-2062 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (68% of all `VERB` tokens) have a non-empty value of `Person`.
+2097 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (68% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2062; 100%), <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2062; 100%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2062; 100%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2056; 100%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1834; 89%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1782; 86%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1677; 81%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1630; 79%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1372; 67%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2097; 100%), <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2097; 100%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2097; 100%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2064; 98%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1866; 89%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1787; 85%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1707; 81%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1648; 79%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1403; 67%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (621; 30% of non-empty `Person`): <em>ediyorum, gördüm, görmedim, sanıyorum, aldık, gidiyorum, bilmiyordum, istiyorum, okudum, sanıyordum</em>
-* `2` (265; 13% of non-empty `Person`): <em>istiyorsun, ver, aldın, gittin, gördün, bulabilirsin, istiyorsunuz, konuşabilirsin, al, gidiyorsun</em>
-* `3` (1176; 57% of non-empty `Person`): <em>geldi, istiyor, söyledi, gerekiyor, etti, gitti, istemiyor, olsa, seviyor, verdi</em>
-* `EMPTY` (974): <em>gitmek, geçen, görmüş, yaptığı, almak, görmek, çalışıyor, bitirmiş, gelince, gidiyor</em>
+* `1` (628; 30% of non-empty `Person`): <em>ediyorum, gördüm, görmedim, sanıyorum, aldık, gidiyorum, bilmiyordum, istiyorum, okudum, sanıyordum</em>
+* `2` (274; 13% of non-empty `Person`): <em>ver, istiyorsun, aldın, gittin, gördün, al, bulabilirsin, istiyorsunuz, konuşabilirsin, gidiyorsun</em>
+* `3` (1195; 57% of non-empty `Person`): <em>geldi, istiyor, gerekiyor, söyledi, etti, gitti, istemiyor, olsa, seviyor, verdi</em>
+* `EMPTY` (989): <em>gitmek, geçen, görmüş, yaptığı, almak, gitmeniz, görmek, çalışıyor, bitirmiş, geldiği</em>
 
 <table>
   <tr><th>Paradigm <i>git</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -78,39 +78,41 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-529 <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> tokens (51% of all `PRON` tokens) have a non-empty value of `Person`.
+543 <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> tokens (51% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (529; 100%), <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (496; 94%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (532; 98%), <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (503; 93%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (244; 46% of non-empty `Person`): <em>ben, bana, benim, biz, bizim, beni, bize, bizi, benden, benimle</em>
-* `2` (163; 31% of non-empty `Person`): <em>sen, senin, seni, sana, siz, sizin, size, kendiniz, Kendin, Sizler</em>
-* `3` (122; 23% of non-empty `Person`): <em>herkes, o, herkesin, ona, birisi, kendisi, kendisine, onun, kendisini, onu</em>
-* `EMPTY` (509): <em>ne, burada, kendi, bu, onlar, bunu, oraya, kim, kimse, o</em>
+* `1` (251; 46% of non-empty `Person`): <em>ben, bana, benim, biz, bizim, beni, bize, bizi, benden, benimle</em>
+* `2` (168; 31% of non-empty `Person`): <em>sen, senin, siz, seni, sana, sizin, size, kendiniz, Kendin, Sizler</em>
+* `3` (124; 23% of non-empty `Person`): <em>herkes, o, herkesin, ona, birisi, kendisi, kendisine, onun, kendisini, onu</em>
+* `EMPTY` (531): <em>ne, burada, kendi, onlar, bu, bunu, oraya, kimse, kim, o</em>
 
 <table>
   <tr><th>Paradigm <i>kendi</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>kendimden</em></td><td><em>Kendinden</em></td><td><em>kendilerinden, kendisinden</em></td></tr>
-  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>kendimi</em></td><td><em>kendinizi</em></td><td><em>kendisini, kendilerini</em></td></tr>
-  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Kendime, Kendimize</em></td><td><em>kendinize</em></td><td><em>kendisine, kendilerine</em></td></tr>
-  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td></td><td></td><td><em>kendileriyle, kendisiyle</em></td></tr>
-  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td></td><td></td><td><em>kendisinde</em></td></tr>
-  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>kendim</em></td><td><em>kendiniz, Kendin</em></td><td><em>kendisi, kendileri</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kendimden</em></td><td><em>Kendinden</em></td><td><em>kendilerinden, kendisinden</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kendimi</em></td><td><em>kendinizi</em></td><td><em>kendisini, kendilerini</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Kendime, Kendimize</em></td><td><em>kendinize</em></td><td><em>kendisine, kendilerine, kendine</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>kendileriyle, kendisiyle</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>kendisinde</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kendim</em></td><td><em>Kendin</em></td><td><em>kendisi, kendileri</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>kendinizin</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>kendiniz</em></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-516 <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> tokens (69% of all `AUX` tokens) have a non-empty value of `Person`.
+528 <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> tokens (69% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (447; 87%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (439; 85%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (426; 83%), <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (425; 82%), <tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (389; 75%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (294; 57%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (450; 85%), <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (431; 82%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (426; 81%), <tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (394; 75%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (295; 56%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (87; 17% of non-empty `Person`): <em>yım, olsam, değilim, miyiz, dük, olacağız, oluyorum, ydik, değiliz, olacağım</em>
-* `2` (60; 12% of non-empty `Person`): <em>musun, misiniz, misin, musunuz, mısın, mısınız, mıydınız, olamayacaksın, oldun, oluyorsun</em>
-* `3` (369; 72% of non-empty `Person`): <em>değil, dı, mı, oldu, olacak, mu, mış, mi, miş, ydı</em>
-* `EMPTY` (235): <em>mi, mı, olan, olarak, olduğunu, olduğu, değil, mü, mu, yken</em>
+* `1` (88; 17% of non-empty `Person`): <em>yım, olsam, değilim, miyiz, dük, olacağız, oluyorum, ydik, değiliz, miyimdir</em>
+* `2` (62; 12% of non-empty `Person`): <em>musun, misiniz, misin, musunuz, mısın, mısınız, mıydınız, olamayacaksın, oldun, oluyorsun</em>
+* `3` (378; 72% of non-empty `Person`): <em>değil, mı, dı, oldu, olacak, mu, mış, mi, miş, ydı</em>
+* `EMPTY` (236): <em>mi, mı, olan, olarak, olduğunu, olduğu, değil, mü, mu, yken</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -126,6 +128,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>olmayız</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olurlardı</em></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>oluruz</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olacak</em></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olmuştur</em></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olmuş</em></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>olmuşlar</em></td></tr>
@@ -161,19 +164,20 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `ADJ`
 
-12 <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Person`.
+12 <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 100%).
 
 `ADJ` tokens may have the following values of `Person`:
 
 * `3` (12; 100% of non-empty `Person`): <em>var, belli</em>
-* `EMPTY` (777): <em>var, yok, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım</em>
+* `EMPTY` (794): <em>var, yok, yeni, büyük, güzel, iyi, küçük, lazım, zor, önemli</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (133; 51%),
-<tt>VERB --[<tt><a href="tr_gb-dep-conj.html">conj</a></tt>]--> VERB</tt> (38; 75%),
-<tt>VERB --[<tt><a href="tr_gb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (18; 67%),
+<tt>VERB --[<tt><a href="tr_gb-dep-conj.html">conj</a></tt>]--> VERB</tt> (39; 75%),
+<tt>VERB --[<tt><a href="tr_gb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (17; 65%),
 <tt>VERB --[<tt><a href="tr_gb-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (5; 83%),
 <tt>VERB --[<tt><a href="tr_gb-dep-compound.html">compound</a></tt>]--> PRON</tt> (1; 100%),
 <tt>VERB --[<tt><a href="tr_gb-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (1; 100%),

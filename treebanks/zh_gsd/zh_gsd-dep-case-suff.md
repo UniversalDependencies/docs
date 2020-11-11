@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSD: Relations: `case:suff`
 
 This relation is a language-specific subtype of <tt><a href="zh_gsd-dep-case.html">case</a></tt>.
-There are also 3 other language-specific subtypes of `case`: <tt><a href="zh_gsd-dep-case-aspect.html">case:aspect</a></tt>, <tt><a href="zh_gsd-dep-case-dec.html">case:dec</a></tt>, <tt><a href="zh_gsd-dep-case-pref.html">case:pref</a></tt>.
+There are also 2 other language-specific subtypes of `case`: <tt><a href="zh_gsd-dep-case-dec.html">case:dec</a></tt>, <tt><a href="zh_gsd-dep-case-pref.html">case:pref</a></tt>.
 
 1 nodes (0%) are attached to their parents as `case:suff`.
 

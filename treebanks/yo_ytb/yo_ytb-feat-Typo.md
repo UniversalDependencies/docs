@@ -92,6 +92,8 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 1 <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
 
+The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="yo_ytb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+
 `DET` tokens may have the following values of `Typo`:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>ná</em>

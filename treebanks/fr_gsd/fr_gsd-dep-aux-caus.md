@@ -29,11 +29,11 @@ The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a h
 4	à	à	ADP	_	_	7	mark	_	_
 5	la	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj:agent	_	_
 6	faire	faire	AUX	_	VerbForm=Inf	7	aux:caus	_	_
-7	circuler	circuler	VERB	_	VerbForm=Inf	2	xcomp	_	_
+7	circuler	circuler	VERB	_	VerbForm=Inf	2	xcomp:obl	_	_
 8	largement	largement	ADV	_	_	7	advmod	_	_
 9	autour	autour	ADV	_	_	7	advmod	_	_
 10	de	de	ADP	_	_	11	case	_	_
-11	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	9	obl:arg	_	_
+11	vous	lui	PRON	_	Person=2|PronType=Prs	9	obl:arg	_	_
 12	!	!	PUNCT	_	_	2	punct	_	_
 
 ~~~

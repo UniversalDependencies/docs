@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 4 iobj	color:blue
 1	Fløgan	fløga	NOUN	N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux:pass	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux:pass	_	_
 3	ognað	ogna	VERB	V	VerbForm=Sup	0	root	_	_
 4	pápanum	pápi	NOUN	N	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	3	iobj	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Faroese-OFT: POS Tags: `ADV`
 
 There are 97 `ADV` lemmas (4%), 98 `ADV` types (3%) and 415 `ADV` tokens (4%).
-Out of 15 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 7 in number of tokens.
+Out of 16 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>eisini, ikki, har, nú, so, enn, tó, tá, fyrr, ofta</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>tá</em> (<tt><a href="fo_oft-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.010309 (the average of all parts of speech is 1.289602).
+The form / lemma ratio of `ADV` is 1.010309 (the average of all parts of speech is 1.290924).
 
 The 1st highest number of forms (2) was observed with the lemma “góður”: <em>best, gott</em>.
 
@@ -72,7 +72,7 @@ Examples: <em>eisini, ikki, har, nú, so, enn, tó, tá, fyrr, ofta</em>
 
 `ADV` nodes are attached to their parents using 10 different relations: <tt><a href="fo_oft-dep-advmod.html">advmod</a></tt> (356; 86% instances), <tt><a href="fo_oft-dep-root.html">root</a></tt> (29; 7% instances), <tt><a href="fo_oft-dep-conj.html">conj</a></tt> (11; 3% instances), <tt><a href="fo_oft-dep-dep.html">dep</a></tt> (8; 2% instances), <tt><a href="fo_oft-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="fo_oft-dep-case.html">case</a></tt> (3; 1% instances), <tt><a href="fo_oft-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="fo_oft-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (195; 47% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (111; 27% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (35; 8% instances),  (29; 7% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (18; 4% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="fo_oft-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (192; 46% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (111; 27% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (35; 8% instances),  (29; 7% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (18; 4% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="fo_oft-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
 361 (87%) `ADV` nodes are leaves.
 
@@ -86,5 +86,5 @@ The highest child degree of a `ADV` node is 7.
 
 Children of `ADV` nodes are attached using 15 different relations: <tt><a href="fo_oft-dep-punct.html">punct</a></tt> (38; 22% instances), <tt><a href="fo_oft-dep-cop.html">cop</a></tt> (36; 21% instances), <tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt> (32; 19% instances), <tt><a href="fo_oft-dep-advmod.html">advmod</a></tt> (14; 8% instances), <tt><a href="fo_oft-dep-cc.html">cc</a></tt> (13; 8% instances), <tt><a href="fo_oft-dep-nmod.html">nmod</a></tt> (12; 7% instances), <tt><a href="fo_oft-dep-obl.html">obl</a></tt> (9; 5% instances), <tt><a href="fo_oft-dep-aux.html">aux</a></tt> (4; 2% instances), <tt><a href="fo_oft-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="fo_oft-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="fo_oft-dep-csubj.html">csubj</a></tt> (2; 1% instances), <tt><a href="fo_oft-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="fo_oft-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="fo_oft-dep-expl.html">expl</a></tt> (1; 1% instances), <tt><a href="fo_oft-dep-mark.html">mark</a></tt> (1; 1% instances)
 
-Children of `ADV` nodes belong to 9 different parts of speech: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (48; 28% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (42; 25% instances), <tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (38; 22% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (18; 11% instances), <tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (13; 8% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Children of `ADV` nodes belong to 10 different parts of speech: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (48; 28% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (40; 24% instances), <tt><a href="fo_oft-pos-PUNCT.html">PUNCT</a></tt> (38; 22% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (18; 11% instances), <tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (13; 8% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 

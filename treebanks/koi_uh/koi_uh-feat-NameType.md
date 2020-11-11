@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Geo`, `Giv`, `Sur`.
 
-29 tokens (4%) have a non-empty value of `NameType`.
-20 types (5%) occur at least once with a non-empty value of `NameType`.
-19 lemmas (6%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (28; 4% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+29 tokens (3%) have a non-empty value of `NameType`.
+20 types (4%) occur at least once with a non-empty value of `NameType`.
+19 lemmas (5%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (28; 3% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `PROPN`
 

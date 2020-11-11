@@ -35,7 +35,7 @@ The following 62 pairs of parts of speech are connected with `advmod`: <tt><a hr
 11	종소리가	종소리+가	NOUN	ncn+jcs	_	14	nsubj	_	_
 12	어디서나	어디+서나	ADV	npd+jxc	_	14	advcl	_	_
 13	다	다	ADV	mag	_	14	advmod	_	_
-14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	_
+14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
 
 ~~~
@@ -53,7 +53,7 @@ The following 62 pairs of parts of speech are connected with `advmod`: <tt><a hr
 4	먹지	먹+지	VERB	pvg+ecx	_	0	root	_	_
 5	않고	않+고	CCONJ	px+ecc	_	4	aux	_	_
 6	반쯤	반+쯤	NOUN	ncn+xsn	_	7	advmod	_	_
-7	남기지요	남기+지요	VERB	pvg+ef	_	4	conj	_	_
+7	남기지요	남기+지요	VERB	pvg+ef	_	4	conj	_	SpaceAfter=No
 8	.	.	PUNCT	sf	_	7	punct	_	_
 
 ~~~
@@ -74,11 +74,11 @@ The following 62 pairs of parts of speech are connected with `advmod`: <tt><a hr
 7	둘러	두르+어	SCONJ	pvg+ecs	_	8	ccomp	_	_
 8	앉아서	앉+아서	SCONJ	pvg+ecs	_	10	ccomp	_	_
 9	씹어	씹+어	SCONJ	pvg+ecs	_	10	ccomp	_	_
-10	먹는데	먹+는데	SCONJ	pvg+ecs	_	14	ccomp	_	_
+10	먹는데	먹+는데	SCONJ	pvg+ecs	_	14	ccomp	_	SpaceAfter=No
 11	,	,	PUNCT	sp	_	10	punct	_	_
 12	아작아작	아작아작	ADV	mag	_	14	advmod	_	_
 13	씹어	씹+어	SCONJ	pvg+ecs	_	14	ccomp	_	_
-14	먹지요	먹+지요	VERB	pvg+ef	_	0	root	_	_
+14	먹지요	먹+지요	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
 
 ~~~

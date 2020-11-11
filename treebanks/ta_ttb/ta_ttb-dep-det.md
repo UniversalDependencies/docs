@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 det	color:blue
-1	கடந்த	கட	ADJ	JJ-------	_	2	amod	2:amod	Translit=kaṭanta|LTranslit=kaṭa
+1	கடந்த	கட	VERB	JJ-------	_	2	acl	2:acl	Translit=kaṭanta|LTranslit=kaṭa
 2	வாரம்	வாரம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl:nom	Translit=vāram|LTranslit=vāram
 3	ஜெர்மானிய	ஜெர்மனி	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=jermāniya|LTranslit=jermani
 4	அரசு	அரசு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	Translit=aracu|LTranslit=aracu

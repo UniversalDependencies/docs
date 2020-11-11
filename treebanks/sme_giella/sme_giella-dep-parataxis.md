@@ -11,7 +11,7 @@ This relation is universal.
 324 nodes (1%) are attached to their parents as `parataxis`.
 
 300 instances of `parataxis` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.14506172839506.
+Average distance between parent and child is 7.16049382716049.
 
 The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (244; 75% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (30; 9% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (18; 6% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (17; 5% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 3	fgColor:white
 # visual-style 3 5 parataxis	color:blue
 1	Stáhta	stáhta	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
-2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	dadjan	dadjat	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	_
 4	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 5	galggat	galgat	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	parataxis	_	_

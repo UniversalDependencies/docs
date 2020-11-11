@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-267 nodes (3%) are attached to their parents as `case`.
+270 nodes (3%) are attached to their parents as `case`.
 
-267 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.21722846441948.
+269 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.22222222222222.
 
-The following 9 pairs of parts of speech are connected with `case`: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (178; 67% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (59; 22% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (21; 8% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `case`: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (179; 66% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (59; 22% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (21; 8% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

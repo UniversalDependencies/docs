@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-167 nodes (1%) are attached to their parents as `nummod`.
+189 nodes (1%) are attached to their parents as `nummod`.
 
-152 instances of `nummod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05389221556886.
+171 instances of `nummod` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.04761904761905.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (153; 92% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (173; 92% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (6; 3% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -32,6 +32,39 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 8	Mehefin	Mehefin	NOUN	noun	Gender=Masc|Number=Sing	2	obl	_	_
 9	2004	2004	NUM	num	_	8	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 15 nummod	color:blue
+1	Yn	yn	PART	pred	_	2	case:pred	_	_
+2	ogystal	gogystal	ADJ	eq	Degree=Equ|Mutation=SM	4	advmod	_	_
+3	â	â	ADP	prep	_	4	case	_	_
+4	buddsoddiad	buddsoddiad	NOUN	noun	Gender=Masc|Number=Sing	11	advcl	_	_
+5	gan	gan	ADP	prep	_	7	case	_	_
+6	y	y	DET	art	_	7	det	_	_
+7	Brifysgol	Prifysgol	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	4	nmod	_	_
+8	ei	ei	PRON	dep	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
+9	hun	hun	PRON	refl	Number=Sing|PronType=Rcp	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	punct	_	11	punct	_	_
+11	derbyniodd	erbyn	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+12	y	y	DET	art	_	13	det	_	_
+13	prosiect	prosiect	NOUN	noun	Gender=Masc|Number=Sing	11	nsubj	_	_
+14	£	£	SYM	sym	_	11	obj	_	_
+15	5m	5m	NUM	num	_	14	nummod	_	_
+16	gan	gan	ADP	prep	_	17	case	_	_
+17	raglen	rhaglen	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	11	obl	_	_
+18	Addysg	addysg	NOUN	noun	Gender=Fem|Number=Sing	17	nmod	_	_
+19	ac	a	CCONJ	cconj	_	20	cc	_	_
+20	Ysgolion	ysgol	NOUN	noun	Gender=Fem|Number=Plur	18	conj	_	_
+21	Llywodraeth	llywodraeth	NOUN	noun	Gender=Fem|Number=Sing	17	nmod	_	_
+22	Cymru	Cymru	PROPN	place	Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	punct	_	11	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -59,29 +92,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 15	dros	dros	ADP	prep	_	17	case	_	_
 16	y	y	DET	art	_	17	det	_	_
 17	penwythnos	penwythnos	NOUN	noun	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-18	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\n
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nummod	color:blue
-1	Dirwyon	dirwyo	NOUN	noun	Gender=Masc|Number=Plur	7	nsubj	_	_
-2	o	o	ADP	prep	_	4	case	_	_
-3	60000	60000	NUM	num	_	4	nummod	_	_
-4	ewro	Ewro	PROPN	work	_	1	nmod	_	_
-5	fu	bod	AUX	aux	Mood=Ind|Mutation=SM|Number=Sing|Person=3|Tense=Past	7	cop	_	SpaceAfter=No
-6	'r	y	DET	art	_	7	det	_	_
-7	dyfarniad	dyfarniad	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
-8	i	i	ADP	prep	_	11	case	_	SpaceAfter=No
-9	'r	y	DET	art	_	11	det	_	_
-10	tri	tri	NUM	num	_	11	nummod	_	_
-11	arall	arall	NOUN	noun	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\n
+18	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

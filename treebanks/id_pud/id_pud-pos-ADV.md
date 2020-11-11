@@ -6,84 +6,87 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian-PUD: POS Tags: `ADV`
 
-There are 1 `ADV` lemmas (7%), 110 `ADV` types (2%) and 1049 `ADV` tokens (5%).
-Out of 15 observed tags, the rank of `ADV` is: 3 in number of lemmas, 6 in number of types and 7 in number of tokens.
+There are 99 `ADV` lemmas (2%), 110 `ADV` types (2%) and 646 `ADV` tokens (3%).
+Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>_</em>
+The 10 most frequent `ADV` lemmas: <em>lebih, juga, sangat, hanya, kitar, saat, saja, tetap, lagi, kemudian</em>
 
-The 10 most frequent `ADV` types:  <em>tidak, telah, akan, lebih, juga, bisa, sangat, sudah, hanya, dapat</em>
+The 10 most frequent `ADV` types:  <em>lebih, juga, sangat, hanya, saat, saja, sekitar, tetap, kemudian, paling</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 5578, <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> 2832, <tt><a href="id_pud-pos-PUNCT.html">PUNCT</a></tt> 2579, <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 1965, <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> 1456, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 1358, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 1049, <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 989, <tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> 612, <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> 569, <tt><a href="id_pud-pos-DET.html">DET</a></tt> 522, <tt><a href="id_pud-pos-AUX.html">AUX</a></tt> 211, <tt><a href="id_pud-pos-X.html">X</a></tt> 86, <tt><a href="id_pud-pos-PART.html">PART</a></tt> 57, <tt><a href="id_pud-pos-SYM.html">SYM</a></tt> 37)
+The 10 most frequent ambiguous lemmas: <em>lebih</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 66, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 1), <em>kitar</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 20, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 1), <em>saat</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 20, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> 1), <em>tetap</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 18, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 2, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>akhir</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 4), <em>mungkin</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="id_pud-pos-AUX.html">AUX</a></tt> 11, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 5, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>banyak</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 34, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 20, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>kembali</em> (<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 16, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>tentu</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 2), <em>khusus</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 9, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 7)
 
-The 10 most frequent ambiguous types:  <em>akan</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 75, <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> 1), <em>lebih</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 62, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 2), <em>juga</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 55, <tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>tetap</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 18, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 2), <em>mulai</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 17, <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> 8, <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 2), <em>kembali</em> (<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 13, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 11, <tt><a href="id_pud-pos-AUX.html">AUX</a></tt> 1), <em>ingin</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 9, <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 1), <em>kemudian</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 9, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 6), <em>banyak</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 52, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 8), <em>baru</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 7, <tt><a href="id_pud-pos-X.html">X</a></tt> 6)
+The 10 most frequent ambiguous types:  <em>lebih</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 63, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>saat</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 19, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 19, <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> 1), <em>sekitar</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 20, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 5), <em>tetap</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 18, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 2), <em>banyak</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 31, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 10), <em>kembali</em> (<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 15, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 10), <em>sekarang</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 7, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>baik</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 7, <tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> 4), <em>kemungkinan</em> (<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>mungkin</em> (<tt><a href="id_pud-pos-AUX.html">AUX</a></tt> 11, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 3)
 
 
-* <em>akan</em>
-  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 75: <em>Toh saya tetap <b>akan</b> masuk penjara , semoga sepadan .</em>
-  * <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> 1: <em>The Great Powers tidak memenuhi permintaan <b>akan</b> pengakuan Albania .</em>
 * <em>lebih</em>
-  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 62: <em>Pedoman besi baru berarti diperlukan <b>lebih</b> banyak donor .</em>
-  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 2: <em>Seiring berkembang nya Brisbane , kondisi sungai nya memburuk hingga mencapai titik terburuk di mana sungai itu tak <b>lebih</b> dari selokan terbuka dan pembuangan limbah .</em>
-* <em>juga</em>
-  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 55: <em>Ia punya sisi keras dalam permainan nya tapi <b>juga</b> tangan yang lembut .</em>
-  * <tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Penghadangan armada kapal Villeneuve mengakibatkan penghentian rencana invasi British Isles , <b>juga</b> karena terjadi perkembangan baru di benua itu .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 63: <em>Pedoman besi baru berarti diperlukan <b>lebih</b> banyak donor .</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 1: <em>Seiring berkembang nya Brisbane , kondisi sungai nya memburuk hingga mencapai titik terburuk di mana sungai itu tak <b>lebih</b> dari selokan terbuka dan pembuangan limbah .</em>
+* <em>saat</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 19: <em>Paling nyata <b>saat</b> nama seorang selebriti awalnya cukup langka .</em>
+  * <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 19: <em>Periode tunggu <b>saat</b> ini adalah delapan minggu .</em>
+  * <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> 1: <em>Nicolai berkolaborasi dalam berbagai susunan musik sinematik karya Morricone sebagai Metti , suatu malam <b>saat</b> makan malam ; sebagian dari susunan musik itu ditulis bersama oleh mereka berdua .</em>
+* <em>sekitar</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 20: <em>Pada tahun 1563 , populasi Venesia merosot hingga <b>sekitar</b> 168.000 orang .</em>
+  * <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 5: <em>Lahan pertanian bisa menderita akibat kehancuran lanskap di <b>sekitar</b> nya .</em>
 * <em>tetap</em>
-  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 18: <em>Toh saya <b>tetap</b> akan masuk penjara , semoga sepadan .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 18: <em>" Toh saya <b>tetap</b> akan masuk penjara , semoga sepadan . "</em>
   * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 2: <em>Dan , tentu saja , ada Bob , sumber <b>tetap</b> hiburan .</em>
-* <em>mulai</em>
-  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 17: <em>Dari abad 9 SM , teks Yunani pertama <b>mulai</b> muncul .</em>
-  * <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> 8: <em>Hal itu dilakukan di lepas pantai pesisir Meksiko <b>mulai</b> dari bulan April hingga Juni .</em>
-  * <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 2: <em>Jam yang mempesona ini <b>mulai</b> setidaknya pada saat organ yang menakutkan itu dimainkan , seperti dalam hit Monster Mash pada tahun 60 -an .</em>
-* <em>kembali</em>
-  * <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 13: <em>Itu lah yang membuat kami tetap <b>kembali</b> lagi dan lagi .</em>
-  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 11: <em>Puing - puing nya dibangun <b>kembali</b> di kemudian hari .</em>
-  * <tt><a href="id_pud-pos-AUX.html">AUX</a></tt> 1: <em>Tahun lalu adalah tahun yang luar biasa dan saya siap untuk kita <b>kembali</b> semakin baik di tahun 2017 .</em>
-* <em>ingin</em>
-  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 9: <em>Mereka biasanya artis yang <b>ingin</b> melakukan banyak hal .</em>
-  * <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 1: <em>Sementara itu , Clinton dan sekutu nya , <b>ingin</b> agar Trump tetap disorot , menuduh bahwa komentar nya yang meremehkan tentang perempuan dan minoritas , serta temperamen nya akan membuat nya tidak layak untuk menjabat .</em>
-* <em>kemudian</em>
-  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 9: <em>Philip <b>kemudian</b> bergerak melawan musuh - musuh nya di selatan .</em>
-  * <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 6: <em>Puing - puing nya dibangun kembali di <b>kemudian</b> hari .</em>
 * <em>banyak</em>
-  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 52: <em>Pedoman besi baru berarti diperlukan lebih <b>banyak</b> donor .</em>
-  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 8: <em>Pada saat itu , ia semakin <b>banyak</b> berpikir tentang masa depan .</em>
-* <em>baru</em>
-  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 30: <em>Pengeluaran <b>baru</b> ini dipasok oleh rekening bank gemuk Clinton .</em>
-  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 7: <em>Tapi , Republik Tiongkok yang <b>baru</b> didirikan menganggap Mongolia sebagai bagian dari wilayah nya .</em>
-  * <tt><a href="id_pud-pos-X.html">X</a></tt> 6: <em>Australia , ditempa oleh pertandingan mereka baru - <b>baru</b> ini di Kejuaraan Rugby , lebih habis - habisan .</em>
+  * <tt><a href="id_pud-pos-DET.html">DET</a></tt> 31: <em>Mereka biasanya artis yang ingin melakukan <b>banyak</b> hal .</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 19: <em>Pedoman besi baru berarti diperlukan lebih <b>banyak</b> donor .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 10: <em>Pada saat itu , ia semakin <b>banyak</b> berpikir tentang masa depan .</em>
+* <em>kembali</em>
+  * <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 15: <em>Itu lah yang membuat kami tetap <b>kembali</b> lagi dan lagi .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 10: <em>Puing-puing nya dibangun <b>kembali</b> di kemudian hari .</em>
+* <em>sekarang</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 7: <em>Dan <b>sekarang</b> dia adalah juara dunia .</em>
+  * <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 3: <em>Untuk <b>sekarang</b> , analis ragu untuk mencoret layanan untuk orang mati .</em>
+* <em>baik</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 14: <em>Tentara ini berprestasi <b>baik</b> dalam pertempuran di Kuba .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 7: <em>Para konservasionis menyambut <b>baik</b> pengumuman komisi itu .</em>
+  * <tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> 4: <em>Di Eropa , sebelum pecah nya perang , Sekutu memiliki keunggulan signifikan <b>baik</b> dalam hal populasi maupun ekonomi .</em>
+* <em>kemungkinan</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 5: <em>Sebuah indikasi tentang bahan meteoritik ini <b>kemungkinan</b> sarat mengandung elemen iridium .</em>
+  * <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 3: <em>Juru bicara itu tidak mengesampingkan <b>kemungkinan</b> bahwa orang lain juga akan diselidiki .</em>
+* <em>mungkin</em>
+  * <tt><a href="id_pud-pos-AUX.html">AUX</a></tt> 11: <em>Masalah ini <b>mungkin</b> belum selesai bagi Barroso .</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 3: <em>Sensor tersebut membuang semua opini yang tidak diinginkan ; partisipasi dalam kehidupan umum menjadi hampir tidak <b>mungkin</b> .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 3: <em>" Namun , <b>mungkin</b> saja BA dan IAG sudah memecahkan nya dan dapat menawarkan sesuatu yang sedikit dapat diandalkan . "</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 110.000000 (the average of all parts of speech is 326.933333).
+The form / lemma ratio of `ADV` is 1.111111 (the average of all parts of speech is 1.138187).
 
-The 1st highest number of forms (110) was observed with the lemma “_”: <em>Anggaran, Anyway, Didn't, Don't, Kemudia, Maksimal, Really, Sebelumnya, Sulit, agak, akan, antara, baik, banyak, baru, begitu, belum, benar, berhati, berlebihan, bisa, boleh, bukan, cenderung, cukup, cuma, dapat, diam, diinginkan, diperbolehkan, hampir, hanya, harus, hati, ingin, jarang, jauh, jelas, juga, jujur, kadang, keinginan, kekurangan, kemampuan, kembali, kemudian, kemungkinan, keras, ketidak, kira, kuat, kurang, lagi, lalu, lama, lambat, langsung, layak, lebih, malah, mampu, masih, mau, melebihi, memang, memungkinkan, mendadak, mengurangi, mudah, mulai, mungkin, nyaris, nyata, paling, pasti, patut, pelan, pengurangan, perlu, pernah, pertama, pula, repot, resmi, saja, saling, sama, sangat, sedang, sedikit, segera, seharusnya, selalu, semakin, semestinya, semoga, sendiri, sering, setidaknya, siap, sinis, sudah, tak, telah, tentu, tepat, terus, tetap, tidak, ya</em>.
+The 1st highest number of forms (3) was observed with the lemma “benar”: <em>benar, benar-benar, sebenarnya</em>.
 
-`ADV` occurs with 1 features: <tt><a href="id_pud-feat-Polarity.html">Polarity</a></tt> (183; 17% instances)
+The 2nd highest number of forms (2) was observed with the lemma “_”: <em>selalu, tampaknya</em>.
 
-`ADV` occurs with 1 feature-value pairs: `Polarity=Neg`
+The 3rd highest number of forms (2) was observed with the lemma “berapa”: <em>berapa, seberapa</em>.
 
-`ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (866 tokens).
-Examples: <em>telah, akan, lebih, juga, bisa, sangat, sudah, hanya, dapat, mungkin</em>
+`ADV` occurs with 1 features: <tt><a href="id_pud-feat-PronType.html">PronType</a></tt> (58; 9% instances)
+
+`ADV` occurs with 4 feature-value pairs: `PronType=Ind`, `PronType=Int`, `PronType=Rel`, `PronType=Tot`
+
+`ADV` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (588 tokens).
+Examples: <em>lebih, juga, sangat, hanya, saja, sekitar, tetap, kemudian, paling, lagi</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 20 different relations: <tt><a href="id_pud-dep-aux.html">aux</a></tt> (596; 57% instances), <tt><a href="id_pud-dep-advmod.html">advmod</a></tt> (382; 36% instances), <tt><a href="id_pud-dep-fixed.html">fixed</a></tt> (22; 2% instances), <tt><a href="id_pud-dep-root.html">root</a></tt> (10; 1% instances), <tt><a href="id_pud-dep-conj.html">conj</a></tt> (7; 1% instances), <tt><a href="id_pud-dep-acl-relcl.html">acl:relcl</a></tt> (6; 1% instances), <tt><a href="id_pud-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="id_pud-dep-compound-plur.html">compound:plur</a></tt> (3; 0% instances), <tt><a href="id_pud-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="id_pud-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="id_pud-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="id_pud-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="id_pud-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="id_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 5 different relations: <tt><a href="id_pud-dep-advmod.html">advmod</a></tt> (636; 98% instances), <tt><a href="id_pud-dep-fixed.html">fixed</a></tt> (6; 1% instances), <tt><a href="id_pud-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="id_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (403; 38% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (285; 27% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (254; 24% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (39; 4% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (24; 2% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (18; 2% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (12; 1% instances),  (10; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (369; 57% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (141; 22% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (79; 12% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (21; 3% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (15; 2% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (11; 2% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt> (2; 0% instances)
 
-927 (88%) `ADV` nodes are leaves.
+573 (89%) `ADV` nodes are leaves.
 
-85 (8%) `ADV` nodes have one child.
+63 (10%) `ADV` nodes have one child.
 
-18 (2%) `ADV` nodes have two children.
+10 (2%) `ADV` nodes have two children.
 
-19 (2%) `ADV` nodes have three or more children.
+The highest child degree of a `ADV` node is 2.
 
-The highest child degree of a `ADV` node is 6.
+Children of `ADV` nodes are attached using 8 different relations: <tt><a href="id_pud-dep-fixed.html">fixed</a></tt> (23; 28% instances), <tt><a href="id_pud-dep-advmod.html">advmod</a></tt> (21; 25% instances), <tt><a href="id_pud-dep-case-adv.html">case:adv</a></tt> (19; 23% instances), <tt><a href="id_pud-dep-punct.html">punct</a></tt> (13; 16% instances), <tt><a href="id_pud-dep-advmod-emph.html">advmod:emph</a></tt> (2; 2% instances), <tt><a href="id_pud-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="id_pud-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="id_pud-dep-det.html">det</a></tt> (1; 1% instances)
 
-Children of `ADV` nodes are attached using 24 different relations: <tt><a href="id_pud-dep-fixed.html">fixed</a></tt> (32; 16% instances), <tt><a href="id_pud-dep-goeswith.html">goeswith</a></tt> (29; 15% instances), <tt><a href="id_pud-dep-punct.html">punct</a></tt> (29; 15% instances), <tt><a href="id_pud-dep-advmod.html">advmod</a></tt> (14; 7% instances), <tt><a href="id_pud-dep-obj.html">obj</a></tt> (12; 6% instances), <tt><a href="id_pud-dep-nsubj.html">nsubj</a></tt> (10; 5% instances), <tt><a href="id_pud-dep-mark.html">mark</a></tt> (8; 4% instances), <tt><a href="id_pud-dep-obl.html">obl</a></tt> (8; 4% instances), <tt><a href="id_pud-dep-case.html">case</a></tt> (6; 3% instances), <tt><a href="id_pud-dep-cc.html">cc</a></tt> (6; 3% instances), <tt><a href="id_pud-dep-xcomp.html">xcomp</a></tt> (6; 3% instances), <tt><a href="id_pud-dep-aux.html">aux</a></tt> (5; 3% instances), <tt><a href="id_pud-dep-compound.html">compound</a></tt> (5; 3% instances), <tt><a href="id_pud-dep-conj.html">conj</a></tt> (5; 3% instances), <tt><a href="id_pud-dep-ccomp.html">ccomp</a></tt> (4; 2% instances), <tt><a href="id_pud-dep-obl-poss.html">obl:poss</a></tt> (4; 2% instances), <tt><a href="id_pud-dep-advcl.html">advcl</a></tt> (3; 2% instances), <tt><a href="id_pud-dep-compound-plur.html">compound:plur</a></tt> (3; 2% instances), <tt><a href="id_pud-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="id_pud-dep-compound-n.html">compound:n</a></tt> (1; 1% instances), <tt><a href="id_pud-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="id_pud-dep-dep-prt.html">dep:prt</a></tt> (1; 1% instances), <tt><a href="id_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 1% instances), <tt><a href="id_pud-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
-
-Children of `ADV` nodes belong to 12 different parts of speech: <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (39; 20% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (33; 17% instances), <tt><a href="id_pud-pos-X.html">X</a></tt> (30; 15% instances), <tt><a href="id_pud-pos-PUNCT.html">PUNCT</a></tt> (29; 15% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (27; 14% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (12; 6% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (9; 5% instances), <tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (7; 4% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `ADV` nodes belong to 7 different parts of speech: <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (32; 39% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (21; 25% instances), <tt><a href="id_pud-pos-PUNCT.html">PUNCT</a></tt> (13; 16% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (7; 8% instances), <tt><a href="id_pud-pos-PART.html">PART</a></tt> (7; 8% instances), <tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt> (1; 1% instances)
 

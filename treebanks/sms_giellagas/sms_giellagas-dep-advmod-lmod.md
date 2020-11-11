@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: Relations: `advmod:lmod`
 
 This relation is a language-specific subtype of <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt>.
-There are also 2 other language-specific subtypes of `advmod`: <tt><a href="sms_giellagas-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-tmod.html">advmod:tmod</a></tt>.
+There are also 3 other language-specific subtypes of `advmod`: <tt><a href="sms_giellagas-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="sms_giellagas-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-7 nodes (1%) are attached to their parents as `advmod:lmod`.
+12 nodes (1%) are attached to their parents as `advmod:lmod`.
 
-5 instances of `advmod:lmod` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14285714285714.
+6 instances of `advmod:lmod` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.5.
 
-The following 2 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (6; 86% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 14% instances).
+The following 2 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (11; 92% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 8% instances).
 
 
 ~~~ conllu

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-394 nodes (0%) are attached to their parents as `iobj`.
+777 nodes (0%) are attached to their parents as `iobj`.
 
-392 instances of `iobj` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04060913705584.
+774 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08494208494208.
 
-The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (329; 84% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (54; 14% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (456; 59% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (234; 30% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (65; 8% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (12; 2% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -48,17 +48,19 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 iobj	color:blue
-1	王	王	NOUN	n,名詞,人,役割	_	2	nsubj	_	Gloss=king|SpaceAfter=No
-2	語	語	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=tell|SpaceAfter=No
-3	暴	暴	PROPN	n,名詞,人,名	NameType=Giv	2	iobj	_	Gloss=[given-name]|SpaceAfter=No
-4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=use|SpaceAfter=No
-5	好	好	VERB	v,動詞,行為,態度	_	2	ccomp	_	Gloss=favour|SpaceAfter=No
-6	樂	樂	NOUN	n,名詞,制度,儀礼	_	5	obj	_	Gloss=music|SpaceAfter=No
+# visual-style 3 4 iobj	color:blue
+1	九	九	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=nine|SpaceAfter=No
+2	載	載	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=year|SpaceAfter=No
+3	賜	賜	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=bestow|SpaceAfter=No
+4	祿山	祿山	PROPN	n,名詞,人,名	NameType=Giv	3	iobj	_	Gloss=[given-name]|SpaceAfter=No
+5	爵	爵	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=[title-of-honour]|SpaceAfter=No
+6	東平	東平	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	7	nmod	_	Gloss=[place-name]|SpaceAfter=No
+7	郡	郡	NOUN	n,名詞,制度,場	Case=Loc	8	nmod	_	Gloss=administrative-region|SpaceAfter=No
+8	王	王	NOUN	n,名詞,人,役割	_	5	conj	_	Gloss=king|SpaceAfter=No
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-nsubj.html">nsubj</a></tt>.
 
-24 nodes (0%) are attached to their parents as `nsubj:cop`.
+26 nodes (0%) are attached to their parents as `nsubj:cop`.
 
-16 instances of `nsubj:cop` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.91666666666667.
+16 instances of `nsubj:cop` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 10 pairs of parts of speech are connected with `nsubj:cop`: <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (8; 33% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 17% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3; 13% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (2; 8% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances).
+The following 11 pairs of parts of speech are connected with `nsubj:cop`: <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (8; 31% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 15% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3; 12% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (2; 8% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -37,7 +37,7 @@ The following 10 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 4 nsubj:cop	color:blue
 1	Секс	секс	ADV	Adv	Case=Tra	2	advmod	_	GTtags=Tra
-2	теезьгак	теемс	VERB	V	Clitic=Gak|Derivation=Ozj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Conv	0	root	_	GTtags=Der/Озь,Prs,ScPl3,Clt/Gak
+2	теезьгак	теемс	VERB	V	Clitic=Add|Derivation=Ozj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Conv	0	root	_	GTtags=Der/Озь,Prs,ScPl3,Clt/Gak
 3	зняро	зняро	ADV	Adv	_	4	advmod	_	GTtags=Qnt
 4	здыйтне	здый	NOUN	N	Case=Nom|Definite=Def|Number=Plur	2	nsubj:cop	_	GTtags=Sem/Inanim_Cnt,Pl,Nom,Def|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	2	punct	_	_

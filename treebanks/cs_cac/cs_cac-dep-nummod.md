@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="cs_cac-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-4440 nodes (1%) are attached to their parents as `nummod`.
+4442 nodes (1%) are attached to their parents as `nummod`.
 
-2801 instances of `nummod` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3231981981982.
+2802 instances of `nummod` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32305267897344.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (4134; 93% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (211; 5% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (27; 1% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (23; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (4136; 93% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (211; 5% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (27; 1% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (23; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	asi	asi	PART	TT-------------	_	4	advmod:emph	4:advmod:emph	_
 3	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	5	case	5:case	LId=v-1
 4	#	&camount;	NUM	C=-------------	NumForm=Digit|NumType=Card	5	nummod	5:nummod	_
-5	*	*	SYM	Xx-------------	Abbr=Yes	7	advmod	7:advmod	_
+5	*	&cwildcard;	SYM	Xx-------------	Abbr=Yes	7	advmod	7:advmod	_
 6	případů	případ	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	nmod	5:nmod:gen	_
 7	přejít	přejít	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	1	xcomp	1:xcomp	_
 8	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	10:case	LId=v-1

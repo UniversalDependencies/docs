@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-280 nodes (0%) are attached to their parents as `xcomp`.
+603 nodes (0%) are attached to their parents as `xcomp`.
 
-280 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.69642857142857.
+603 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.80762852404643.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (184; 66% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (85; 30% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (11; 4% instances).
+The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (494; 82% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (92; 15% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (14; 2% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,19 +46,17 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 xcomp	color:blue
-1	季	季	PROPN	n,名詞,人,姓氏	NameType=Sur	3	nsubj	_	Gloss=[surname]|SpaceAfter=No
-2	氏	氏	NOUN	n,名詞,不可譲,属性	_	1	flat	_	Gloss=lineage|SpaceAfter=No
-3	使	使	VERB	v,動詞,行為,使役	_	0	root	_	Gloss=[make-to-do]|SpaceAfter=No
-4	閔	閔	PROPN	n,名詞,人,姓氏	NameType=Sur	3	obj	_	Gloss=[surname]|SpaceAfter=No
-5	子騫	子騫	PROPN	n,名詞,人,名	NameType=Giv	4	flat	_	Gloss=[given-name]|SpaceAfter=No
-6	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	8	cop	_	Gloss=be|SpaceAfter=No
-7	費	費	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	8	nmod	_	Gloss=[place-name]|SpaceAfter=No
-8	宰	宰	NOUN	n,名詞,人,役割	_	3	xcomp	_	Gloss=minister|SpaceAfter=No
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 xcomp	color:blue
+1	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	nsubj	_	Gloss=[country-name]|SpaceAfter=No
+2	使	使	VERB	v,動詞,行為,使役	_	0	root	_	Gloss=[make-to-do]|SpaceAfter=No
+3	田	田	PROPN	n,名詞,人,姓氏	NameType=Sur	2	obj	_	Gloss=[surname]|SpaceAfter=No
+4	忌	忌	PROPN	n,名詞,人,名	NameType=Giv	3	flat	_	Gloss=[given-name]|SpaceAfter=No
+5	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	6	cop	_	Gloss=be|SpaceAfter=No
+6	將	將	NOUN	n,名詞,人,役割	_	2	xcomp	_	Gloss=general|SpaceAfter=No
 
 ~~~
 

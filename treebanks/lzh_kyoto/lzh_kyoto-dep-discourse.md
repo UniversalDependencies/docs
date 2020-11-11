@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `discourse`: <tt><a href="lzh_kyoto-dep-discourse-sp.html">discourse:sp</a></tt>.
 
-333 nodes (0%) are attached to their parents as `discourse`.
+389 nodes (0%) are attached to their parents as `discourse`.
 
-332 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.6966966966967.
+388 instances of `discourse` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.77892030848329.
 
-The following 12 pairs of parts of speech are connected with `discourse`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (258; 77% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (28; 8% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (13; 4% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (11; 3% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (7; 2% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (6; 2% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `discourse`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (296; 76% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (31; 8% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (20; 5% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (16; 4% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (8; 2% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (6; 2% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (5; 1% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,26 +51,20 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 discourse	color:blue
-1	夫	夫	PART	p,助詞,句頭,*	_	3	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
-2	孝	孝	NOUN	n,名詞,描写,態度	_	3	nmod	_	Gloss=filial|SpaceAfter=No
-3	者	者	PART	p,助詞,提示,*	_	14	nsubj	_	Gloss=that-which|SpaceAfter=No
-4	善	善	ADV	v,動詞,描写,態度	Degree=Pos|VerbForm=Conv	5	advmod	_	Gloss=good|SpaceAfter=No
-5	繼	繼	VERB	v,動詞,行為,得失	_	14	acl	_	Gloss=continue|SpaceAfter=No
-6	人	人	NOUN	n,名詞,人,人	_	8	nmod	_	Gloss=person|SpaceAfter=No
-7	之	之	SCONJ	p,助詞,接続,属格	_	6	case	_	Gloss='s|SpaceAfter=No
-8	志	志	NOUN	n,名詞,思考,*	_	5	obj	_	Gloss=aim|SpaceAfter=No
-9	善	善	ADV	v,動詞,描写,態度	Degree=Pos|VerbForm=Conv	10	advmod	_	Gloss=good|SpaceAfter=No
-10	述	述	VERB	v,動詞,行為,伝達	_	5	conj	_	Gloss=transmit|SpaceAfter=No
-11	人	人	NOUN	n,名詞,人,人	_	13	nmod	_	Gloss=person|SpaceAfter=No
-12	之	之	SCONJ	p,助詞,接続,属格	_	11	case	_	Gloss='s|SpaceAfter=No
-13	事	事	NOUN	n,名詞,可搬,成果物	_	10	obj	_	Gloss=affair|SpaceAfter=No
-14	者	者	PART	p,助詞,提示,*	_	0	root	_	Gloss=that-which|SpaceAfter=No
-15	也	也	PART	p,助詞,句末,*	_	14	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 discourse	color:blue
+1	穆	穆	VERB	v,動詞,描写,態度	Degree=Pos|VerbForm=Part	4	amod	_	Gloss=splendid|SpaceAfter=No
+2	穆	穆	VERB	v,動詞,描写,態度	Degree=Pos	1	compound:redup	_	Gloss=splendid|SpaceAfter=No
+3	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	Gloss=Wen|SpaceAfter=No
+4	王	王	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=king|SpaceAfter=No
+5	於	於	INTJ	p,感嘆詞,*,*	_	6	discourse	_	Gloss=ah|SpaceAfter=No
+6	緝	緝	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hem|SpaceAfter=No
+7	熙	熙	VERB	v,動詞,描写,形質	Degree=Pos	6	flat:vv	_	Gloss=bright|SpaceAfter=No
+8	敬	敬	VERB	v,動詞,行為,態度	_	6	conj	_	Gloss=respect|SpaceAfter=No
+9	止	止	VERB	v,動詞,行為,動作	_	8	obj	_	Gloss=stop|SpaceAfter=No
 
 ~~~
 

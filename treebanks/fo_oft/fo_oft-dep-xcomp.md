@@ -13,7 +13,7 @@ This relation is universal.
 41 instances of `xcomp` (95%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.37209302325581.
 
-The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (21; 49% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (15; 35% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (3; 7% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (21; 49% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (14; 33% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (3; 7% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

@@ -9,110 +9,111 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-16266 tokens (13%) have a non-empty value of `Number`.
-378 types (8%) occur at least once with a non-empty value of `Number`.
-341 lemmas (9%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (12637; 10% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1749; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1425; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (184; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (163; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (47; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (39; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (17; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+18288 tokens (13%) have a non-empty value of `Number`.
+411 types (9%) occur at least once with a non-empty value of `Number`.
+368 lemmas (9%) occur at least once with a non-empty value of `Number`.
+The feature is used with 11 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (14382; 10% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1908; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1609; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (162; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (88; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (70; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (42; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-12637 <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `Number`.
+14382 <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (10600; 84%), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (8287; 66%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="pcm_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (12502; 87%), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12097; 84%), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9288; 65%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (4444; 35% of non-empty `Number`): <em>we, de, dem, your, us, una, our, deir, oursef, dose</em>
-* `Sing` (8193; 65% of non-empty `Number`): <em>I, e, am, me, im, my, dat, she, dis, it</em>
-* `EMPTY` (3268): <em>you, wetin, everybody, everyting, some, anyting, who, someting, noting, everything</em>
+* `Plur` (4911; 34% of non-empty `Number`): <em>we, de, dem, your, us, una, our, deir, oursef, dose</em>
+* `Sing` (9471; 66% of non-empty `Number`): <em>I, e, am, me, my, im, dat, she, dis, it</em>
+* `EMPTY` (3860): <em>you, wetin, everybody, some, everyting, anyting, who, someting, everything, noting</em>
 
-`Number` seems to be **lexical feature** of `PRON`. 100% lemmas (29) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PRON`. 100% lemmas (31) occur only with one value of `Number`.
 
 ### `NOUN`
 
-1749 <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> tokens (13% of all `NOUN` tokens) have a non-empty value of `Number`.
+1908 <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> tokens (13% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (1749; 100% of non-empty `Number`): <em>people, tings, women, things, children, years, men, tins, months, girls</em>
-* `EMPTY` (11579): <em>one, money, ting, school, time, man, work, person, house, life</em>
+* `Plur` (1908; 100% of non-empty `Number`): <em>people, tings, women, things, children, years, men, tins, girls, months</em>
+* `EMPTY` (12858): <em>one, money, ting, school, time, man, person, house, work, life</em>
 
-`Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (291) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (309) occur only with one value of `Number`.
 
 ### `DET`
 
-1425 <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> tokens (30% of all `DET` tokens) have a non-empty value of `Number`.
+1609 <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> tokens (28% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pcm_nsc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1424; 100%), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1422; 100%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pcm_nsc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1609; 100%), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1609; 100%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (134; 9% of non-empty `Number`): <em>dose, dese, those, dem</em>
-* `Sing` (1291; 91% of non-empty `Number`): <em>dis, dat, that, a, my, this</em>
-* `EMPTY` (3402): <em>di, one, some, a, any, anoder, every, the, which, anoda</em>
-
-### `ADJ`
-
-184 <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `Number`.
-
-`ADJ` tokens may have the following values of `Number`:
-
-* `Plur` (71; 39% of non-empty `Number`): <em>your, our, deir, oders, una</em>
-* `Sing` (113; 61% of non-empty `Number`): <em>my, her, im, e, His, its</em>
-* `EMPTY` (3177): <em>small, own, good, different, kind, many, better, first, big, oder</em>
+* `Plur` (151; 9% of non-empty `Number`): <em>dose, dese, those</em>
+* `Sing` (1458; 91% of non-empty `Number`): <em>dis, dat, that, da, this</em>
+* `EMPTY` (4053): <em>di, all, one, some, a, any, anoder, which, every, the</em>
 
 ### `AUX`
 
-163 <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Number`.
+162 <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (163; 100%), <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (163; 100%), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (163; 100%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (161; 99%), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (161; 99%), <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (160; 99%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (1; 1% of non-empty `Number`): <em>'re</em>
-* `Sing` (162; 99% of non-empty `Number`): <em>is, was, 'm, am, 's</em>
-* `EMPTY` (10589): <em>dey, go, na, con, don, be, make, fit, come, meh</em>
+* `Plur` (1; 1% of non-empty `Number`): <em>Don</em>
+* `Sing` (161; 99% of non-empty `Number`): <em>is, was, 'm, am, 's, be, does</em>
+* `EMPTY` (12098): <em>dey, go, na, con, don, be, make, fit, come, meh</em>
 
-<table>
-  <tr><th>Paradigm <i>be</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="pcm_nsc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pcm_nsc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>'re</em></td></tr>
-  <tr><td><tt><tt><a href="pcm_nsc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pcm_nsc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="pcm_nsc-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt></tt></td><td><em>was</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pcm_nsc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>'m, am</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pcm_nsc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="pcm_nsc-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt></tt></td><td><em>am</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pcm_nsc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, 's</em></td><td></td></tr>
-</table>
+### `ADJ`
+
+88 <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Number`.
+
+`ADJ` tokens may have the following values of `Number`:
+
+* `Plur` (34; 39% of non-empty `Number`): <em>your, sleepless</em>
+* `Sing` (54; 61% of non-empty `Number`): <em>her, its</em>
+* `EMPTY` (3523): <em>small, own, good, kind, different, better, many, first, big, plenty</em>
 
 ### `VERB`
 
-47 <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Number`.
+70 <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Number`.
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Sing` (47; 100% of non-empty `Number`): <em>is, means, was, comes, goes, has, am, depends, abounds, becomes</em>
-* `EMPTY` (15890): <em>go, dey, do, say, get, come, know, see, be, tell</em>
+* `Plur` (1; 1% of non-empty `Number`): <em>'re</em>
+* `Sing` (69; 99% of non-empty `Number`): <em>is, means, was, comes, has, begins, goes, am, depends, abounds</em>
+* `EMPTY` (17691): <em>go, dey, do, get, say, come, know, see, tell, wan</em>
 
-`Number` seems to be **lexical feature** of `VERB`. 100% lemmas (12) occur only with one value of `Number`.
+<table>
+  <tr><th>Paradigm <i>be</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="pcm_nsc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>'re</em></td></tr>
+  <tr><td><tt><tt><a href="pcm_nsc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="pcm_nsc-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt></tt></td><td><em>was</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pcm_nsc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="pcm_nsc-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt></tt></td><td><em>am</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pcm_nsc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pcm_nsc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="pcm_nsc-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt></tt></td><td><em>is</em></td><td></td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `VERB`. 92% lemmas (11) occur only with one value of `Number`.
 
 ### `PART`
 
-39 <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Number`.
+42 <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (39; 100%).
+The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (42; 100%).
 
 `PART` tokens may have the following values of `Number`:
 
-* `Plur` (39; 100% of non-empty `Number`): <em>dem</em>
-* `EMPTY` (2321): <em>no, o, sef, sha, not, ni, n't, ma, shey, don't</em>
+* `Plur` (41; 98% of non-empty `Number`): <em>dem</em>
+* `Sing` (1; 2% of non-empty `Number`): <em>masef</em>
+* `EMPTY` (2968): <em>no, o, sef, sha, not, ma, shey, ni, don't, ba</em>
 
 ### `PROPN`
 
-17 <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Number`.
+18 <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (17; 100% of non-empty `Number`): <em>Nigerians, Americans, Corinthians, Fridays, Mondays, Saturdays, Sundays, Wednesdays</em>
-* `EMPTY` (2103): <em>God, Nigeria, Jesus, Pidgin, English, Alaska, Lagos, Jos, Abuja, WAEC</em>
+* `Plur` (18; 100% of non-empty `Number`): <em>Nigerians, Americans, Corinthians, Fridays, Mondays, Saturdays, Sundays, Wednesdays</em>
+* `EMPTY` (2162): <em>God, Nigeria, Jesus, Pidgin, English, Lagos, Alaska, Jos, Abuja, WAEC</em>
 
 ### `ADV`
 
@@ -121,7 +122,17 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 `ADV` tokens may have the following values of `Number`:
 
 * `Plur` (4; 100% of non-empty `Number`): <em>students</em>
-* `EMPTY` (5581): <em>so, now, just, all, even, well, dere, den, how, still</em>
+* `EMPTY` (5862): <em>so, now, just, even, well, how, dere, den, still, very</em>
+
+### `X`
+
+4 <tt><a href="pcm_nsc-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Number`.
+
+`X` tokens may have the following values of `Number`:
+
+* `Plur` (1; 25% of non-empty `Number`): <em>de</em>
+* `Sing` (3; 75% of non-empty `Number`): <em>>+, {, }</em>
+* `EMPTY` (40168): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ### `SCONJ`
 
@@ -129,20 +140,20 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 
 `SCONJ` tokens may have the following values of `Number`:
 
-* `Sing` (1; 100% of non-empty `Number`): <em>dat</em>
-* `EMPTY` (4557): <em>sey, wey, if, because, when, so, wen, dat, wheder, once</em>
+* `Sing` (1; 100% of non-empty `Number`): <em>sey</em>
+* `EMPTY` (4980): <em>sey, wey, if, because, when, so, wen, dat, wheder, once</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>PRON --[<tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt>]--> PRON</tt> (90; 90%),
-<tt>NOUN --[<tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt>]--> PART</tt> (25; 60%),
-<tt>PRON --[<tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt>]--> ADJ</tt> (18; 90%),
-<tt>NOUN --[<tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt>]--> NOUN</tt> (15; 63%),
-<tt>DET --[<tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt>]--> DET</tt> (14; 58%),
-<tt>AUX --[<tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt>]--> AUX</tt> (4; 80%),
-<tt>ADJ --[<tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt>]--> ADJ</tt> (3; 75%),
+<tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (114; 90%),
+<tt>NOUN --[<tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt>]--> PART</tt> (25; 57%),
+<tt>DET --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (21; 64%),
+<tt>NOUN --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (16; 62%),
+<tt>PRON --[<tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt>]--> PRON</tt> (6; 100%),
+<tt>AUX --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (4; 80%),
+<tt>PRON --[<tt><a href="pcm_nsc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4; 67%),
+<tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> ADJ</tt> (4; 80%),
 <tt>PRON --[<tt><a href="pcm_nsc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (3; 60%),
-<tt>PRON --[<tt><a href="pcm_nsc-dep-appos.html">appos</a></tt>]--> PRON</tt> (3; 100%),
-<tt>PRON --[<tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt>]--> PRON</tt> (3; 100%).
+<tt>PRON --[<tt><a href="pcm_nsc-dep-appos.html">appos</a></tt>]--> PRON</tt> (3; 100%).
 

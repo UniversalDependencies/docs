@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (5; 100% of non-empty `Abbr`): <em>ET, N, S, Sp, U</em>
-* `EMPTY` (52197): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52195): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 ### `PROPN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>GT, P, TD, FK</em>
-* `EMPTY` (30853): <em>Deutschland, de, of, US, Berlin, the, SPD, St., new, Oktober</em>
+* `EMPTY` (30840): <em>Deutschland, de, of, US, Berlin, the, SPD, St., new, Oktober</em>
 
 ### `ADV`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>Mrd</em>
-* `EMPTY` (15040): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
+* `EMPTY` (14476): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
 
 ## Relations with Agreement in `Abbr`
 

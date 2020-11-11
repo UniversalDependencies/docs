@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-79 nodes (7%) are attached to their parents as `cc`.
+95 nodes (7%) are attached to their parents as `cc`.
 
-79 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25316455696203.
+95 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.47368421052632.
 
-The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (70; 89% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (3; 4% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (80; 84% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (5; 5% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (4; 4% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -36,21 +36,19 @@ The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="s
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 cc	color:blue
-1	Mary	Mary	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	nsubj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-2	vuäǯǯai	vuäǯǯad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
-3	proons	pronss	NOUN	N	Case=Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	conj	_	GTtags=Prop,Sem/Mal,Sg,Nom
-6	siilb	silbb	NOUN	N	Case=Acc|Number=Sing	5	orphan	_	GTtags=Sg,Acc
-7	da	da	CCONJ	CC	_	8	cc	_	_
-8	Jane	Jane	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-9	kååʹll	kåʹll	NOUN	N	Case=Acc|Number=Sing	8	orphan	_	GTtags=Sg,Acc|SpaceAfter=No
-10	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 cc	color:blue
+1	De	de	CCONJ	CC	_	2	cc	_	_
+2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
+3	,	,	PUNCT	CLB	_	4	punct	_	_
+4	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	2	conj	_	GTtags=Ind,Prt,Sg3
+5	de	de	CCONJ	CC	_	7	cc	_	_
+6	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	7	nsubj	_	GTtags=Sem/Hum,Sg,Nom
+7	puõʹđi	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt	2	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

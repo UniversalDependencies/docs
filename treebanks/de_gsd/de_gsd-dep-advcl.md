@@ -70,9 +70,9 @@ The following 33 pairs of parts of speech are connected with `advcl`: <tt><a hre
 2	Schreine	Schrein	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	13	nsubj:pass	_	SpaceAfter=No
 3	,	,	PUNCT	$,	_	8	punct	_	_
 4	die	der	PRON	PRELS	Case=Acc|Number=Plur|PronType=Rel	8	nsubj:pass	_	_
-5	Vishnu	Vishnu	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	8	iobj	_	_
+5	Vishnu	Vishnu	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	8	iobj	_	NamedEntity=Yes
 6	und	und	CCONJ	KON	_	7	cc	_	_
-7	Brahma	Brahma	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
+7	Brahma	Brahma	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	NamedEntity=Yes
 8	gewidmet	widmen	VERB	VVPP	VerbForm=Part	2	advcl	_	_
 9	sind	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	SpaceAfter=No
 10	,	,	PUNCT	$,	_	8	punct	_	_

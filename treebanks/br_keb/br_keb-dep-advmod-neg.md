@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 5	ar	an	DET	det	_	6	det	_	_
 6	bir	bir	NOUN	n	Gender=Masc|Number=Sing	3	obl	_	_
 7	n'	ne	ADV	adv	Polarity=Neg	11	advmod	_	SpaceAfter=No
-8	eo	bezañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+8	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 9	ket	ket	ADV	adv	_	11	advmod:neg	_	_
 10	ur	un	DET	det	_	11	det	_	_
 11	c'halaksienn	galaksienn	NOUN	n	Gender=Fem|Number=Sing	0	root	_	_
@@ -39,7 +39,7 @@ The following 1 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 15	stered	stered	NOUN	n	Gender=Fem|Number=Plur	14	nmod:gen	_	_
 16	ha	ha	CCONJ	cnjcoo	_	17	cc	_	_
 17	gaz	gaz	NOUN	n	Gender=Masc|Number=Sing	15	conj	_	_
-18	a	a	PART	vpart	_	19	aux	_	_
+18	a	a	AUX	vpart	_	19	aux	_	_
 19	zeu	dont	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	dep	_	_
 20	eus	eus	ADP	pr	_	21	case	_	_
 21	unan	unan	NUM	num	Number=Sing	19	dep	_	_

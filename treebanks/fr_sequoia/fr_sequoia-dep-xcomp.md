@@ -22,7 +22,7 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 xcomp	color:blue
-1	De	de	ADP	_	_	11	advmod	_	EXTPOS=ADV|MWE=de_plus
+1	De	de	ADP	_	_	11	advmod	_	ExtPos=ADV
 2	plus	plus	ADV	_	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	11	punct	_	_
 4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_

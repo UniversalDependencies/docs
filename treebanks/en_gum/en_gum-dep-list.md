@@ -22,16 +22,16 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 list	color:blue
-1	A-1	A-1	PROPN	NNP	Number=Sing	0	root	_	Entity=(organization-65)
-2	2470	2470	NUM	CD	NumType=Card	3	nummod	_	Entity=(place-66
+1	A-1	A-1	PROPN	NNP	Number=Sing	0	root	_	Discourse=elaboration:69->67|Entity=(organization-104)
+2	2470	2470	NUM	CD	NumType=Card	3	nummod	_	Entity=(place-105
 3	Lemoine	Lemoine	PROPN	NNP	Number=Sing	4	compound	_	_
-4	Avenue	Avenue	PROPN	NNP	Number=Sing	1	list	_	Entity=place-66)|SpaceAfter=No
-5	,	,	PUNCT	,	_	6	punct	_	_
-6	tel	Tel	NOUN	NN	Number=Sing	8	nsubj	_	SpaceAfter=No
+4	Avenue	Avenue	PROPN	NNP	Number=Sing	1	list	_	Entity=place-105)|SpaceAfter=No
+5	,	,	PUNCT	,	_	8	punct	_	_
+6	tel	Tel	NOUN	NN	Number=Sing	8	nsubj	_	Entity=(abstract-106)|SpaceAfter=No
 7	:	:	PUNCT	:	_	6	punct	_	_
-8	1	1	NUM	CD	NumType=Card	1	list	_	_
+8	1	1	NUM	CD	NumType=Card	1	list	_	Discourse=elaboration:70->69|Entity=(abstract-106
 9	201	201	NUM	CD	NumType=Card	8	flat	_	_
-10	944-3737	944-3737	NUM	CD	NumType=Card	8	flat	_	SpaceAfter=No
+10	944-3737	944-3737	NUM	CD	NumType=Card	8	flat	_	Entity=abstract-106)|SpaceAfter=No
 11	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
@@ -43,16 +43,16 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 8 list	color:blue
-1	A-1	A-1	PROPN	NNP	Number=Sing	0	root	_	Entity=(organization-65)
-2	2470	2470	NUM	CD	NumType=Card	3	nummod	_	Entity=(place-66
+1	A-1	A-1	PROPN	NNP	Number=Sing	0	root	_	Discourse=elaboration:69->67|Entity=(organization-104)
+2	2470	2470	NUM	CD	NumType=Card	3	nummod	_	Entity=(place-105
 3	Lemoine	Lemoine	PROPN	NNP	Number=Sing	4	compound	_	_
-4	Avenue	Avenue	PROPN	NNP	Number=Sing	1	list	_	Entity=place-66)|SpaceAfter=No
-5	,	,	PUNCT	,	_	6	punct	_	_
-6	tel	Tel	NOUN	NN	Number=Sing	8	nsubj	_	SpaceAfter=No
+4	Avenue	Avenue	PROPN	NNP	Number=Sing	1	list	_	Entity=place-105)|SpaceAfter=No
+5	,	,	PUNCT	,	_	8	punct	_	_
+6	tel	Tel	NOUN	NN	Number=Sing	8	nsubj	_	Entity=(abstract-106)|SpaceAfter=No
 7	:	:	PUNCT	:	_	6	punct	_	_
-8	1	1	NUM	CD	NumType=Card	1	list	_	_
+8	1	1	NUM	CD	NumType=Card	1	list	_	Discourse=elaboration:70->69|Entity=(abstract-106
 9	201	201	NUM	CD	NumType=Card	8	flat	_	_
-10	944-3737	944-3737	NUM	CD	NumType=Card	8	flat	_	SpaceAfter=No
+10	944-3737	944-3737	NUM	CD	NumType=Card	8	flat	_	Entity=abstract-106)|SpaceAfter=No
 11	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
@@ -64,7 +64,7 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 list	color:blue
-1	Michiel	Michiel	PROPN	NNP	Number=Sing	0	root	_	Entity=(person-4
+1	Michiel	Michiel	PROPN	NNP	Number=Sing	0	root	_	Discourse=background:3->57|Entity=(person-4
 2	Cock	Cock	PROPN	NNP	Number=Sing	1	flat	_	Entity=person-4)
 3	m.p.cock@vu.nl	m.p.cock@vu.nl	PROPN	NNP	Number=Sing	1	list	_	Entity=(abstract-5)
 4	Vrije	Vrije	X	FW	_	1	list	_	Entity=(organization-6

@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `det:pron`: <tt><a h
 2	një	një	DET	_	Gender=Masc	3	det	3:det	_
 3	klasifikim	klasifikim	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	obl	6:obl	_
 4	të	i	DET	_	Gender=Masc	5	det:pron	5:det:adj	_
-5	tillë	tillë	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	3	det	3:det	_
+5	tillë	tillë	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	3	det	3:det	_
 6	kishte	kam	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	0:root	_
 7	pikënisje	pikënisje	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	6	obj	6:obj	_
 8	të	i	DET	_	Gender=Fem	9	det:adj	9:det:adj	_

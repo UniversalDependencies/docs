@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="et_ewt-dep-compound-prt.html">compound:prt</a></tt>.
 
-13 nodes (0%) are attached to their parents as `compound`.
+18 nodes (0%) are attached to their parents as `compound`.
 
-7 instances of `compound` (54%) are left-to-right (parent precedes child).
+11 instances of `compound` (61%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (8; 62% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 15% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 15% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 8% instances).
+The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (12; 67% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 11% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -37,31 +37,32 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
-# visual-style 19 18 compound	color:blue
-1	Aga	aga	CCONJ	J	_	9	cc	9:cc	_
-2	eks	eks	ADV	D	_	9	advmod	9:advmod	_
-3	keelega	keel	NOUN	S	Case=Com|Number=Sing	5	obl	5:obl	_
-4	nii	nii	ADV	D	_	5	advmod	5:advmod	_
-5	ongi,et	ongine	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	6	amod	6:amod	_
-6	enamik	enamik	NOUN	S	Case=Nom|Number=Sing	9	obj	9:obj	_
-7	teadmistest	teadmine	NOUN	S	Case=Ela|Number=Plur	6	nmod	6:nmod	_
-8	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	9:aux	_
-9	omandatud	omandama	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
-10	ikka	ikka	ADV	D	_	11	advmod	11:advmod	_
-11	varem	varem	ADV	D	_	9	advmod	9:advmod	_
-12	ja	ja	CCONJ	J	_	19	cc	19:cc	_
-13	viimased	viimane	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	14	amod	14:amod	_
-14	kordamised	kordamine	NOUN	S	Case=Nom|Number=Plur	19	nsubj:cop	19:nsubj	_
-15	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	19:cop	_
-16	lihtsalt	lihtsalt	ADV	D	_	19	advmod	19:advmod	_
-17	reeglite	reegel	NOUN	S	Case=Gen|Number=Plur	19	obl	19:obl	_
-18	üle	üle	ADV	D	_	19	compound	19:compound	_
-19	vaatamamised	vaatamamine	NOUN	S	Case=Nom|Number=Plur	9	conj	9:conj	SpaceAfter=No
-20	.	.	PUNCT	Z	_	9	punct	9:punct	_
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 19 compound	color:blue
+1	homme	homme	ADV	D	_	0	root	0:root	_
+2	enam	enam	ADV	D	_	1	advmod	1:advmod	_
+3	kasu	kasu	NOUN	S	Case=Par|Number=Sing	1	nsubj:cop	1:nsubj	_
+4	poleks	olema	AUX	V	Mood=Cnd|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	1:cop	SpaceAfter=No
+5	,	,	PUNCT	Z	_	8	punct	8:punct	_
+6	viimasel	viimane	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	7	amod	7:amod	_
+7	hetkel	hetk	NOUN	S	Case=Ade|Number=Sing	8	obl	8:obl	_
+8	ärkasin	ärkama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
+9	või	või	CCONJ	J	_	10	cc	10:cc	_
+10	midagi	miski	PRON	P	Case=Par|Number=Sing|PronType=Ind	1	conj	1:conj	_
+11	suur	suur	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	12	amod	12:amod	_
+12	tänu	tänu	NOUN	S	Case=Nom|Number=Sing	1	conj	1:conj	_
+13	kõigile	kõik	PRON	P	Case=All|Number=Plur|PronType=Tot	12	nmod	12:nmod	SpaceAfter=No
+14	,	,	PUNCT	Z	_	16	punct	16:punct	_
+15	kes	kes	PRON	P	Case=Nom|Number=Plur|PronType=Int,Rel	16	nsubj	16:nsubj	_
+16	võtavad	võtma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	13:acl	_
+17	vaevaks	vaev	NOUN	S	Case=Tra|Number=Sing	16	xcomp	16:xcomp	_
+18	tööde	töö	NOUN	S	Case=Gen|Number=Plur	20	nmod	20:nmod	_
+19	üles	üles	ADV	D	_	20	compound	20:compound	_
+20	otsimise	otsimine	NOUN	S	Case=Gen|Number=Sing	16	obj	16:obj	SpaceAfter=No
+21	!	!	PUNCT	Z	_	1	punct	1:punct	_
 
 ~~~
 

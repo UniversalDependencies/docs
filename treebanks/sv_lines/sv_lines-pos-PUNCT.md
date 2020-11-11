@@ -39,15 +39,9 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (10067; 100% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (6316; 63% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1814; 18% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (862; 9% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (263; 3% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (230; 2% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (196; 2% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (195; 2% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (58; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (54; 1% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (27; 0% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (6275; 62% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1862; 18% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (869; 9% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (267; 3% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (209; 2% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (203; 2% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (199; 2% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (64; 1% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (58; 1% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (26; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-10047 (100%) `PUNCT` nodes are leaves.
+10067 (100%) `PUNCT` nodes are leaves.
 
-20 (0%) `PUNCT` nodes have one child.
-
-The highest child degree of a `PUNCT` node is 1.
-
-Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (20; 100% instances)
-
-Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (20; 100% instances)
+The highest child degree of a `PUNCT` node is 0.
 

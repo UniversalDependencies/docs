@@ -8,32 +8,29 @@ udver: '2'
 
 This relation is universal.
 
-274 nodes (2%) are attached to their parents as `acl`.
+3136 nodes (2%) are attached to their parents as `acl`.
 
-273 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.62773722627737.
+3133 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.42442602040816.
 
-The following 11 pairs of parts of speech are connected with `acl`: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (195; 71% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (57; 21% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 29 pairs of parts of speech are connected with `acl`: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (2431; 78% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (429; 14% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (84; 3% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (54; 2% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (43; 1% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (17; 1% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (12; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 acl	color:blue
-1	Ularitide	Ularitide	PROPN	Np	_	6	nsubj	_	B-CHEM
-2	/	/	PUNCT	SLASH	AdpType=Prep	1	punct	_	O
-3	uradilatin	uradilatin	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	1	conj	_	B-CHEM
-4	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	O
-5	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	O
-6	peptid	peptid	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	B-CHEM
-7	natriuretic	natriuretic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	I-CHEM
-8	izolat	izola	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	6	acl	_	O
-9	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	O
-10	urina	urină	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	B-ANAT
-11	umană	uman	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	O
-12	.	.	PUNCT	PERIOD	_	6	punct	_	O
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 acl	color:blue
+1	Care	care	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	3	nsubj	_	O
+2	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	O
+3	tratamentul	tratament	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	O
+4	antiaritmic	antiaritmic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	O
+5	indicat	indica	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	O
+6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	O
+7	acest	acest	DET	Dd3msr---e	Case=Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	8	det	_	O
+8	caz	caz	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	O
+9	?	?	PUNCT	QUEST	_	3	punct	_	O
 
 ~~~
 
@@ -61,42 +58,23 @@ The following 11 pairs of parts of speech are connected with `acl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 17 acl	color:blue
-1	Acizii	acid	NOUN	Ncmpry	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	7	nsubj:pass	_	B-CHEM
-2	grași	gras	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	I-CHEM
-3	rezultați	rezulta	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	1	acl	_	O
-4	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	O
-5	lipoliză	lipoliză	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	O
-6	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	O
-7	utilizați	utiliza	VERB	Vmp--pm	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	O
-8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	O
-9	ficat	ficat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	nmod:agent	_	B-ANAT
-10	(	(	PUNCT	LPAR	_	13	punct	_	O
-11	și	și	CCONJ	Crssp	Polarity=Pos	13	cc	_	O
-12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	O
-13	majoritatea	majoritate	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	conj	_	O
-14	țesuturilor	țesut	NOUN	Ncfpoy	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	13	nmod	_	B-ANAT
-15	extrahepatice	extrahepatic	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	I-ANAT
-16	)	)	PUNCT	RPAR	_	13	punct	_	O
-17	diferențiat	diferențiat	ADV	Rgp	Degree=Pos	9	acl	_	O
-18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	O
-19	funcție	funcție	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	18	fixed	_	O
-20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	18	fixed	_	O
-21	concentrația	concentrație	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	17	obl	_	O
-22	plasmatică	plasmatic	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	O
-23	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	24	det	_	O
-24	acestora	acesta	PRON	Pd3-po	Case=Gen|Number=Plur|Person=3|PronType=Dem	21	nmod	_	O
-25	și	și	CCONJ	Crssp	Polarity=Pos	27	cc	_	O
-26	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	27	case	_	O
-27	starea	stare	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	conj	_	O
-28	hormonală	hormonal	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	O
-29	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	30	det	_	O
-30	organismului	organism	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	27	nmod	_	O
-31	.	.	PUNCT	PERIOD	_	7	punct	_	O
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 acl	color:blue
+1	Scopul	scop	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	O
+2	lor	lui	DET	Ds3---p	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	1	det	_	O
+3	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	O
+4	acela	acela	PRON	Pd3msr	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	O
+5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	mark	_	O
+6	a	a	PART	Qn	PartType=Inf	7	mark	_	O
+7	pierde	pierde	VERB	Vmnp	Tense=Pres|VerbForm=Inf	4	acl	_	O
+8	0.07	0.07	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	7	obj	_	O
+9	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	O
+10	greutatea	greutate	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	7	nmod:pmod	_	O
+11	corporală	corporal	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	O
+12	.	.	PUNCT	PERIOD	_	4	punct	_	O
 
 ~~~
 

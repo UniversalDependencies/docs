@@ -11,7 +11,7 @@ This relation is universal.
 1492 nodes (6%) are attached to their parents as `obj`.
 
 1212 instances of `obj` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.70174262734584.
+Average distance between parent and child is 1.71246648793566.
 
 The following 10 pairs of parts of speech are connected with `obj`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (1153; 77% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (279; 19% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (31; 2% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
@@ -41,7 +41,7 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 4 obj	color:blue
 1	Mun	mun	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	áiggun	áigut	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	áiggun	áigut	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	duššadit	duššadit	VERB	V	VerbForm=Inf	0	root	_	_
 4	sin	son	PRON	Pron	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
 5	oktan	oktan	ADV	Adv	_	3	advmod	_	_
@@ -58,7 +58,7 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 5 obj	color:blue
 1	Ávvir	ávvir	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
-2	ii	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	3	aux:neg	_	_
+2	ii	ii	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	3	aux:neg	_	_
 3	ožžon	oažžut	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	rektor	rektor	NOUN	N	Case=Nom|Number=Sing	5	compound:nn	_	_
 5	Mats	Mats	PROPN	N	_	3	obj	_	_

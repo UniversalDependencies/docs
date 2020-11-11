@@ -13,21 +13,23 @@ The 10 most frequent `DET` lemmas: இந்த, அந்த, எந்த, ம
 
 The 10 most frequent `DET` types:  இந்த, அந்த, இந்தப், எந்த, அந்தப், அந், அந்தத், இந்தத், மிக, மிகப்
 
-The 10 most frequent ambiguous lemmas: இந்த (<tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 62, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 1), முழுவதும் (<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 2), ஒரு (<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 21, <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 1), கொஞ்சம் (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 1), முழு (<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: இந்த (<tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 62, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 1), முழுவதும் (<tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 2, <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> 1), ஒரு (<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> 6, <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 1), கொஞ்சம் (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 1), முழு (<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  முழுவதும் (<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 2), ஒரு (<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  முழுவதும் (<tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 2, <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> 1), ஒரு (<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> 5, <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 1)
 
 
 * முழுவதும்
-  * <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 2: இந்த ஆலயத்துக்கு ஹூஸ்டனில் வசிக்கும் மக்கள் மட்டுமல்லாது அமெரிக்கா <b>முழுவதும்</b> வசிக்கும் இந்திய மக்கள் வந்து வழிபாடு நடத்துகின்றனர் .
   * <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 2: சர்வதேச கிரிக்கெட்டில் மோசடிக்கு இடம்தரக் கூடாது எனக் கூறிய லாம்ப் , எந்த வீரர் ஆவது சூதாட்டத்தில் ஈடுபட்டது தெரிய வந்தால் அவருக்கு வாழ்நாள் <b>முழுவதும்</b> கிரிக்கெட் விளையாடத் தடைவிதிக்க வேண்டும் என்றார் .
+  * <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 1: இந்த ஆலயத்துக்கு ஹூஸ்டனில் வசிக்கும் மக்கள் மட்டுமல்லாது அமெரிக்கா <b>முழுவதும்</b> வசிக்கும் இந்திய மக்கள் வந்து வழிபாடு நடத்துகின்றனர் .
+  * <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> 1: நவராத்திரி விழாவ் உம் , அதற்கு சிகரம் வைத்தாற் போல விஜயதசமி விழாவ் உம் தமிழ்நாடு <b>முழுவதும்</b> கோலாகலம் ஆகக் கொண்டாடப் படுகிறது .
 * ஒரு
-  * <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 19: இதற்கு எம்பிக்களில் <b>ஒரு</b> பிரிவினர் அதிருப்தி தெரிவித்தனர் .
+  * <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 14: இதற்கு எம்பிக்களில் <b>ஒரு</b> பிரிவினர் அதிருப்தி தெரிவித்தனர் .
+  * <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> 5: 1. <b>ஒரு</b> ஆண் உம் பெண்ண் உம் வாழ்க்கைத் துணைவர்கள் என்று சமூகம் ஏற்க வேண்டும் .
   * <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> 1: கடந்த வாரம் ஜெர்மானிய அரசு <b>ஒரு</b> முடிவு எதுத்தது .
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.250000 (the average of all parts of speech is 1.558463).
+The form / lemma ratio of `DET` is 2.250000 (the average of all parts of speech is 1.576386).
 
 The 1st highest number of forms (7) was observed with the lemma “அந்த”: அந், அந்த, அந்தக், அந்தச், அந்தத், அந்தப், அப்.
 

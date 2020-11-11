@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ga_idt-dep-nmod.html">nmod</a></tt>.
 
-624 nodes (1%) are attached to their parents as `nmod:poss`.
+960 nodes (1%) are attached to their parents as `nmod:poss`.
 
-622 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05608974358974.
+958 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.04270833333333.
 
-The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (604; 97% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (11; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (918; 96% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (17; 2% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (6; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -63,29 +63,27 @@ The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nmod:poss	color:blue
-1	Bricfeasta	bricfeasta	NOUN	Noun	Gender=Masc|Number=Sing	0	root	_	_
-2	ag	ag	ADP	Simp	_	4	case	_	_
-3	a	a	PART	Nm	PartType=Num	4	nmod:poss	_	_
-4	leath	leath	NOUN	Noun	Gender=Fem|Number=Sing	1	obl:tmod	_	_
-5	i	i	ADP	Cmpd	PrepForm=Cmpd	8	case	_	_
-6	ndiaidh	ndiaidh	ADP	Cmpd	PrepForm=Cmpd	5	fixed	_	_
-7	a	a	PART	Nm	PartType=Num	8	mark:prt	_	_
-8	sé	sé	NUM	Num	NumType=Card	4	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	Punct	_	11	punct	_	_
-10	agus	agus	CCONJ	Coord	_	11	mark	_	_
-11	muid	muid	PRON	Pers	Number=Plur|Person=1	1	advcl	_	_
-12	ag	ag	ADP	Simp	_	13	case	_	_
-13	buaileadh	buail	NOUN	Noun	VerbForm=Vnoun	11	xcomp	_	_
-14	bothair	bothair	NOUN	Noun	Gender=Fem|Number=Sing	13	obj	_	_
-15	ag	ag	ADP	Simp	_	17	case	_	_
-16	a	a	PART	Nm	PartType=Num	17	mark:prt	_	_
-17	seacht	seacht	NUM	Num	NumType=Card	13	obl:tmod	_	SpaceAfter=No
-18	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 nmod:poss	color:blue
+1	Toghfaidh	togh	VERB	VTI	Mood=Ind|Tense=Fut	0	root	_	_
+2	siad	siad	PRON	Pers	Number=Plur|Person=3	1	nsubj	_	_
+3	Uachtarán	uachtarán	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	obj	_	_
+4	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Cúirte	cúirt	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	_
+6	Iniúchóirí	Iniúchóir	NOUN	Noun	Case=Gen|Gender=Masc|NounType=Strong|Number=Plur	5	nmod	_	_
+7	as	as	ADP	Prep	Number=Sing|Person=3	9	case	_	_
+8	a	a	DET	Det	Number=Plur|Person=3|Poss=Yes	9	nmod:poss	_	_
+9	Hon	Hon	PROPN	Noun	Case=Gen|Form=Len|Gender=Masc|Number=Sing	1	obl	_	_
+10	féin	féin	PRON	Ref	Reflex=Yes	9	nmod	_	_
+11	go	go	ADP	Cmpd	PrepForm=Cmpd	13	case	_	_
+12	ceann	ceann	ADP	Cmpd	PrepForm=Cmpd	11	fixed	_	_
+13	téarma	téarma	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	_
+14	trí	trí	NUM	Num	NumType=Card	15	nummod	_	_
+15	bliana	bliain	NOUN	Noun	Definite=Def|Gender=Fem	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

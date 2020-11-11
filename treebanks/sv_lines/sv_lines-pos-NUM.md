@@ -76,11 +76,11 @@ Examples: <em>två, tre, en, fem, sex, fyra, tio, 1, 2, 2000</em>
 
 Parents of `NUM` nodes belong to 10 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (322; 65% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (94; 19% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (30; 6% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (24; 5% instances),  (11; 2% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 0% instances)
 
-309 (62%) `NUM` nodes are leaves.
+307 (62%) `NUM` nodes are leaves.
 
-119 (24%) `NUM` nodes have one child.
+120 (24%) `NUM` nodes have one child.
 
-39 (8%) `NUM` nodes have two children.
+40 (8%) `NUM` nodes have two children.
 
 29 (6%) `NUM` nodes have three or more children.
 

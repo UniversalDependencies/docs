@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-357 nodes (4%) are attached to their parents as `advcl`.
+358 nodes (4%) are attached to their parents as `advcl`.
 
-350 instances of `advcl` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.46218487394958.
+352 instances of `advcl` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.47206703910615.
 
-The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (213; 60% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (85; 24% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (26; 7% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (13; 4% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (9; 3% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (2; 1% instances).
+The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (227; 63% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (65; 18% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (26; 7% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (13; 4% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (10; 3% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	3	nsubj	3:nsubj	Translit=avar|LTranslit=avar
 2	தற்கொலை	தற்கொலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obj	3:obj	Translit=tarkolai|LTranslit=tarkolai
 3	செய்து	செய்	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	8	advcl	8:advcl:போது	Translit=ceytu|LTranslit=cey
-4	கொண்ட	கொள்	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	3	amod	3:amod	Translit=koṇṭa|LTranslit=koḷ
+4	கொண்ட	கொள்	AUX	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	3	aux	3:aux	Translit=koṇṭa|LTranslit=koḷ
 5	போது	போது	PART	Tn-------	_	3	mark	3:mark	Translit=pōtu|LTranslit=pōtu
 6	வீட்டில்	வீடு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	8	obl	8:obl:loc	Translit=vīṭṭil|LTranslit=vīṭu
 7	யாரும்	யார்	PRON	RBN-3SA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Ind	8	nsubj	8:nsubj	Translit=yārum|LTranslit=yār
@@ -37,19 +37,18 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 advcl	color:blue
-1	இப்போது	இப்போது	ADV	AA-------	_	2	advmod	2:advmod	Translit=ippōtu|LTranslit=ippōtu
-2	நடந்து	நட	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	3	advcl	3:advcl	Translit=naṭantu|LTranslit=naṭa
-3	வரும்	வரு	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	4	amod	4:amod	Translit=varum|LTranslit=varu
-4	பேச்சுகள்	பேச்சு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	7	nsubj	7:nsubj	Translit=pēccukaḷ|LTranslit=pēccu
-5	தூண்டுதல்	தூண்டுதல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl:ஆகு:nom	Translit=tūṇṭutal|LTranslit=tūṇṭutal
-6	ஆக	ஆகு	ADP	PP-------	AdpType=Post	5	case	5:case	Translit=āka|LTranslit=āku
-7	உள்ளது	உள்	VERB	Vr-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=uḷḷatu|LTranslit=uḷ
-8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	7:punct	Translit=.|LTranslit=.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advcl	color:blue
+1	இதுகுறித்து	இதுகுறித்து	ADV	AA-------	_	3	advmod	3:advmod	Translit=itukurittu|LTranslit=itukurittu
+2	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	3	nsubj	3:nsubj	Translit=avar|LTranslit=avar
+3	வெளியிட்ட்	வெளியிடு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	4	advcl	4:advcl	Translit=veḷiyiṭṭ|LTranslit=veḷiyiṭu
+4	உள்ள	உள்	ADJ	Jd-T----A	Polarity=Pos|VerbForm=Part	5	amod	5:amod	Translit=uḷḷa|LTranslit=uḷ
+5	அறிக்கை	அறிக்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No|Translit=arikkai|LTranslit=arikkai
+6	:	:	PUNCT	Z:-------	PunctType=Comm	5	punct	5:punct	SpaceAfter=No|Translit=:|LTranslit=:
+7	.	.	PUNCT	Z#-------	PunctType=Peri	5	punct	5:punct	Translit=.|LTranslit=.
 
 ~~~
 

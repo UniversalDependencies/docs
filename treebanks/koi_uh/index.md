@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Larisa Ponomareva, Niko Partanen, Jack Rueter, Francis Tyers.
 
 Repository: [UD_Komi_Permyak-UH](https://github.com/UniversalDependencies/UD_Komi_Permyak-UH)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkoi_uh26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkoi_uh27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -69,6 +69,7 @@ The translation were made by Larisa Ponomareva based on the Finnish, Russian and
 UH = University of Helsinki
 Development repository:
 [https://github.com/rueter/erme-ud-komi-permyak](https://github.com/rueter/erme-ud-komi-permyak)
+Annotation work is simultaneous to finite-state transducer development by Larisa Ponomareva, Niko Partanen and Jack Rueter in the [GiellaLT](https://giellalt.uit.no/lang-koi) infrastucture, which also works with Constraint Grammar disambiguation of the morphological analysis.
 
 Work connected to this treebank is described in following publication. If you use this treebank in your work, please cite:
 
@@ -96,7 +97,7 @@ Work connected to this treebank is described in following publication. If you us
 
 ## POS Tags
 
-[ADJ](koi_uh-pos-ADJ.html) – [ADP](koi_uh-pos-ADP.html) – [ADV](koi_uh-pos-ADV.html) – [AUX](koi_uh-pos-AUX.html) – [CCONJ](koi_uh-pos-CCONJ.html) – [DET](koi_uh-pos-DET.html) – [NOUN](koi_uh-pos-NOUN.html) – [NUM](koi_uh-pos-NUM.html) – [PART](koi_uh-pos-PART.html) – [PRON](koi_uh-pos-PRON.html) – [PROPN](koi_uh-pos-PROPN.html) – [PUNCT](koi_uh-pos-PUNCT.html) – [SCONJ](koi_uh-pos-SCONJ.html) – [VERB](koi_uh-pos-VERB.html)
+[ADJ](koi_uh-pos-ADJ.html) – [ADP](koi_uh-pos-ADP.html) – [ADV](koi_uh-pos-ADV.html) – [AUX](koi_uh-pos-AUX.html) – [CCONJ](koi_uh-pos-CCONJ.html) – [DET](koi_uh-pos-DET.html) – [INTJ](koi_uh-pos-INTJ.html) – [NOUN](koi_uh-pos-NOUN.html) – [NUM](koi_uh-pos-NUM.html) – [PART](koi_uh-pos-PART.html) – [PRON](koi_uh-pos-PRON.html) – [PROPN](koi_uh-pos-PROPN.html) – [PUNCT](koi_uh-pos-PUNCT.html) – [SCONJ](koi_uh-pos-SCONJ.html) – [VERB](koi_uh-pos-VERB.html)
 
 ## Features
 
@@ -104,17 +105,17 @@ Work connected to this treebank is described in following publication. If you us
 
 ## Relations
 
-[acl](koi_uh-dep-acl.html) – [acl:relcl](koi_uh-dep-acl-relcl.html) – [advcl](koi_uh-dep-advcl.html) – [advcl:lmod](koi_uh-dep-advcl-lmod.html) – [advcl:mmod](koi_uh-dep-advcl-mmod.html) – [advcl:tmod](koi_uh-dep-advcl-tmod.html) – [advmod](koi_uh-dep-advmod.html) – [advmod:lmod](koi_uh-dep-advmod-lmod.html) – [advmod:mmod](koi_uh-dep-advmod-mmod.html) – [advmod:tmod](koi_uh-dep-advmod-tmod.html) – [amod](koi_uh-dep-amod.html) – [appos](koi_uh-dep-appos.html) – [aux](koi_uh-dep-aux.html) – [aux:cnd](koi_uh-dep-aux-cnd.html) – [aux:neg](koi_uh-dep-aux-neg.html) – [case](koi_uh-dep-case.html) – [cc](koi_uh-dep-cc.html) – [cc:preconj](koi_uh-dep-cc-preconj.html) – [ccomp](koi_uh-dep-ccomp.html) – [conj](koi_uh-dep-conj.html) – [cop](koi_uh-dep-cop.html) – [csubj](koi_uh-dep-csubj.html) – [det](koi_uh-dep-det.html) – [dislocated](koi_uh-dep-dislocated.html) – [fixed](koi_uh-dep-fixed.html) – [flat:name](koi_uh-dep-flat-name.html) – [list](koi_uh-dep-list.html) – [mark](koi_uh-dep-mark.html) – [nmod](koi_uh-dep-nmod.html) – [nmod:lmod](koi_uh-dep-nmod-lmod.html) – [nmod:poss](koi_uh-dep-nmod-poss.html) – [nsubj](koi_uh-dep-nsubj.html) – [nsubj:cop](koi_uh-dep-nsubj-cop.html) – [nummod](koi_uh-dep-nummod.html) – [obj](koi_uh-dep-obj.html) – [obl](koi_uh-dep-obl.html) – [obl:lmod](koi_uh-dep-obl-lmod.html) – [obl:tmod](koi_uh-dep-obl-tmod.html) – [orphan](koi_uh-dep-orphan.html) – [parataxis](koi_uh-dep-parataxis.html) – [punct](koi_uh-dep-punct.html) – [root](koi_uh-dep-root.html) – [vocative](koi_uh-dep-vocative.html) – [xcomp](koi_uh-dep-xcomp.html)
+[acl](koi_uh-dep-acl.html) – [acl:relcl](koi_uh-dep-acl-relcl.html) – [advcl](koi_uh-dep-advcl.html) – [advcl:lmod](koi_uh-dep-advcl-lmod.html) – [advcl:mmod](koi_uh-dep-advcl-mmod.html) – [advcl:tmod](koi_uh-dep-advcl-tmod.html) – [advmod](koi_uh-dep-advmod.html) – [advmod:deg](koi_uh-dep-advmod-deg.html) – [advmod:lmod](koi_uh-dep-advmod-lmod.html) – [advmod:mmod](koi_uh-dep-advmod-mmod.html) – [advmod:tmod](koi_uh-dep-advmod-tmod.html) – [amod](koi_uh-dep-amod.html) – [appos](koi_uh-dep-appos.html) – [aux](koi_uh-dep-aux.html) – [aux:cnd](koi_uh-dep-aux-cnd.html) – [aux:neg](koi_uh-dep-aux-neg.html) – [case](koi_uh-dep-case.html) – [cc](koi_uh-dep-cc.html) – [cc:preconj](koi_uh-dep-cc-preconj.html) – [ccomp](koi_uh-dep-ccomp.html) – [compound:prt](koi_uh-dep-compound-prt.html) – [conj](koi_uh-dep-conj.html) – [cop](koi_uh-dep-cop.html) – [csubj](koi_uh-dep-csubj.html) – [det](koi_uh-dep-det.html) – [discourse](koi_uh-dep-discourse.html) – [dislocated](koi_uh-dep-dislocated.html) – [fixed](koi_uh-dep-fixed.html) – [flat:name](koi_uh-dep-flat-name.html) – [list](koi_uh-dep-list.html) – [mark](koi_uh-dep-mark.html) – [nmod](koi_uh-dep-nmod.html) – [nmod:lmod](koi_uh-dep-nmod-lmod.html) – [nmod:poss](koi_uh-dep-nmod-poss.html) – [nsubj](koi_uh-dep-nsubj.html) – [nsubj:cop](koi_uh-dep-nsubj-cop.html) – [nummod](koi_uh-dep-nummod.html) – [obj](koi_uh-dep-obj.html) – [obl](koi_uh-dep-obl.html) – [obl:lmod](koi_uh-dep-obl-lmod.html) – [obl:tmod](koi_uh-dep-obl-tmod.html) – [orphan](koi_uh-dep-orphan.html) – [parataxis](koi_uh-dep-parataxis.html) – [punct](koi_uh-dep-punct.html) – [root](koi_uh-dep-root.html) – [vocative](koi_uh-dep-vocative.html) – [xcomp](koi_uh-dep-xcomp.html) – [xcomp:ds](koi_uh-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 71 sentences and 687 tokens.</li>
+<li>This corpus contains 81 sentences and 839 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 140 tokens (20%) that are not followed by a space.</li>
+<li>This corpus contains 170 tokens (20%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -133,20 +134,20 @@ Work connected to this treebank is described in following publication. If you us
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: INTJ, SYM, X</li>
+<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
+<li>This corpus does not use the following tags: SYM, X</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 word types tagged as particles (PART): жӧ, и</li>
+<li>This corpus contains 3 word types tagged as particles (PART): жӧ, и, нӧ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 13 lemmas tagged as pronouns (PRON): быд, кин, кык, кытшӧм, кытӧн, кӧда, ме, мый, сія, тэ, эна, эта, ӧтамӧд</li>
+<li>This corpus contains 16 lemmas tagged as pronouns (PRON): быд, кин, кинкӧ, кык, кытшӧм, кытӧн, кӧда, ме, мый, мыйкӧ, мӧд, сія, тэ, эна, эта, ӧтамӧд</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as determiners (DET): быд, кык, мукӧд, эта</li>
+<li>This corpus contains 5 lemmas tagged as determiners (DET): ас, быд, кык, мукӧд, эта</li>
 </ul>
 
 <ul>
@@ -158,7 +159,7 @@ Work connected to this treebank is described in following publication. If you us
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: вермыны, ковны, овны</li>
+<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: вермыны, ковны, овны, оз</li>
 </ul>
 
 <ul>
@@ -168,7 +169,7 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: жалейттӧг, куриттӧг, ютӧг</li>
+    <li>VERB: жалейттӧг, жмитікӧ, куриттӧг, лӧсьӧтікӧ, сайӧвтӧмӧн, ютӧг</li>
   </ul>
   </li>
 </ul>
@@ -177,7 +178,7 @@ Work connected to this treebank is described in following publication. If you us
   <li>Inf
   <ul>
     <li>AUX: овны</li>
-    <li>VERB: вӧтны, бӧрйыны, воштісьны, керны, куритны, кутчыны, локны, лӧсьӧтны, миссьӧтны, чапкыны</li>
+    <li>VERB: вӧтны, бӧрйыны, видзчисьны, воштісьны, керны, куритны, кутчыны, локны, лӧсьӧтны, миссьӧтны</li>
   </ul>
   </li>
 </ul>
@@ -185,7 +186,7 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Part
   <ul>
-    <li>VERB: бырӧм, дорӧм, киссьӧм, пырӧм, пӧліньтчӧм</li>
+    <li>VERB: бырӧм, дорӧм, дрӧжитана, киссьӧм, пырӧм, пӧліньтчӧм</li>
   </ul>
   </li>
 </ul>
@@ -241,7 +242,7 @@ Work connected to this treebank is described in following publication. If you us
     <ul>
       <li>ADJ: гажаӧсь, кокнитӧсь</li>
       <li>AUX: озӧ, эг, эд</li>
-      <li>NOUN: Томмес, аннэзӧ, видзоккез, воннэз, гряддэс, думаэз, квартираэсӧ, кусттэз, кыдззез, местаэзӧт</li>
+      <li>NOUN: Томмес, аннэзӧ, видзоккез, воннэз, гряддэс, думаэз, звездаэз, квартираэсӧ, кусттэз, кыдззез</li>
       <li>NUM: нёляӧсь, кыкӧнӧсь</li>
       <li>PRON: нія, эна, Ми, ті</li>
       <li>VERB: вайисӧ, вуджим, вуджӧны, иньдӧтчисӧ, кoтӧpтіcӧ, кокаласӧ, кутчисисӧ, кушамисӧ, лэбтіcиcӧ, мунісӧ</li>
@@ -253,15 +254,15 @@ Work connected to this treebank is described in following publication. If you us
   <li>Sing
     <ul>
       <li>ADJ: Куимӧдз, бур, веськытлань, витӧдз, коричневӧй, сісь, том, ыджыт</li>
-      <li>ADP: дынӧ, бердӧ, бӧрсянь, вылын, вылӧ, одзӧ, сайӧ</li>
+      <li>ADP: вылын, дынӧ, бердас, бердӧ, бокӧ, бӧрсянь, вылӧ, кежас, кузяс, одзӧ</li>
       <li>ADV: ӧтикӧ</li>
-      <li>AUX: оз, эг, эз, Вӧлі, верман, коліс, овлӧ, ог</li>
+      <li>AUX: оз, вӧлі, эг, эз, верман, коліс, овлӧ, ог, эн</li>
       <li>DET: Быд, Мукӧд</li>
-      <li>NOUN: айӧ, йӧрсӧ, айся, дорас, луныс, машина, ойнас, олісьыс, охота, соседыс</li>
+      <li>NOUN: айӧ, йӧрсӧ, айся, дорас, керку, луныс, машина, морт, ойнас, олісьыс</li>
       <li>NUM: кыка, öтiк, кык</li>
-      <li>PRON: сія, менам, тэ, Ме, сійӧ, меным, сылӧ, тэнат, сылӧн, этӧ</li>
+      <li>PRON: сія, ме, менам, тэ, сійӧ, меным, сылӧ, сылӧн, тэнат, мыйкӧ</li>
       <li>PROPN: Петялӧн, Мери, Питер, Парижын, Сэм, Браунӧс, Ворошилов, Джейн, Дёма, Игаузу</li>
-      <li>VERB: зэрӧ, босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, осьт, пондыліс, тыдалӧ</li>
+      <li>VERB: зэрӧ, босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, осьт, петас, пондыліс</li>
       <li>VERB-Part: бырӧм, дорӧм, киссьӧм, пырӧм, пӧліньтчӧм</li>
     </ul>
   </li>
@@ -274,7 +275,7 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Acc
     <ul>
-      <li>NOUN: йӧрсӧ, ӧшынсӧ, квартираэсӧ, логсӧ, пизьсö, порогсӧ, юрсисӧ</li>
+      <li>NOUN: йӧрсӧ, ӧшынсӧ, инькасӧ, квартираэсӧ, логсӧ, ольпасьӧс, пизьсö, порогсӧ, синнэсӧ, юрсисӧ</li>
       <li>PRON: сійӧ, кыкнаннысӧ, менӧ, этӧ</li>
       <li>PROPN: Браунӧс, Смитӧс</li>
     </ul>
@@ -293,6 +294,7 @@ Work connected to this treebank is described in following publication. If you us
   <li>Apr
     <ul>
       <li>ADJ: веськытлань</li>
+      <li>PRON: мелань</li>
     </ul>
   </li>
 </ul>
@@ -334,7 +336,7 @@ Work connected to this treebank is described in following publication. If you us
   <li>Egr
     <ul>
       <li>ADP: бӧрсянь</li>
-      <li>NOUN: лaдopcянь</li>
+      <li>NOUN: лaдopcянь, ладорсяняс</li>
       <li>PROPN: Петрасянь</li>
     </ul>
   </li>
@@ -344,7 +346,7 @@ Work connected to this treebank is described in following publication. If you us
   <li>Ela
     <ul>
       <li>ADV: дасöтiсь</li>
-      <li>NOUN: гидсис, дорись, жырись, коласісь</li>
+      <li>NOUN: васис, гидсис, дорись, жырись, коласісь</li>
     </ul>
   </li>
 </ul>
@@ -352,7 +354,7 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Gen
     <ul>
-      <li>PRON: менам, тэнат, сылӧн</li>
+      <li>PRON: менам, сылӧн, тэнат</li>
       <li>PROPN: Петялӧн, Франциялӧн</li>
     </ul>
   </li>
@@ -361,9 +363,10 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Ill
     <ul>
-      <li>ADP: дынӧ, бердӧ, вылӧ, одзӧ</li>
+      <li>ADP: дынӧ, бердас, бердӧ, бокӧ, вылӧ, кежас, кузяс, одзӧ</li>
       <li>ADV: кытчӧ, ӧтикӧ</li>
       <li>NOUN: гортас, дорас, дынӧ, кадӧ, ладорӧ, лунас, лунӧ, муӧ, ойӧ, пельӧсокӧ</li>
+      <li>VERB-Conv: жмитікӧ, лӧсьӧтікӧ</li>
     </ul>
   </li>
 </ul>
@@ -371,9 +374,9 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Ine
     <ul>
-      <li>ADP: вылын</li>
-      <li>ADV: пыдын, кытӧн, ылын</li>
-      <li>NOUN: юркарын, дорас, дорын, керкуын, сарайын, увтын, ю, юрын</li>
+      <li>ADP: вылын, бокын</li>
+      <li>ADV: кытӧн, пыдын, ылын</li>
+      <li>NOUN: юркарын, дорас, дорын, керкуын, небоын, сарайын, увтын, ю, юрын, юрӧдзас</li>
       <li>PRON: кытӧн</li>
       <li>PROPN: Парижын</li>
     </ul>
@@ -383,7 +386,7 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Ins
     <ul>
-      <li>NOUN: ойнас, пӧввезӧн</li>
+      <li>NOUN: ойнас, голосӧн, кинас, пӧввезӧн</li>
     </ul>
   </li>
 </ul>
@@ -394,9 +397,9 @@ Work connected to this treebank is described in following publication. If you us
       <li>ADJ: Куимӧдз, бур, витӧдз, коричневӧй, сісь, том, ыджыт</li>
       <li>ADP: сайӧ</li>
       <li>DET: Быд, Мукӧд</li>
-      <li>NOUN: айӧ, луныс, машина, олісьыс, охота, соседыс, oтиp, Гырка, Дядя, Кагаыс</li>
+      <li>NOUN: айӧ, керку, луныс, машина, морт, олісьыс, охота, соседыс, oтиp, Гырка</li>
       <li>NUM: öтiк, кык</li>
-      <li>PRON: сія, тэ, Ме, мый, нія, эна, Ми, Сiя, Эта, кин</li>
+      <li>PRON: сія, ме, тэ, мый, мыйкӧ, нія, эна, Ми, Мӧдыс, Сiя</li>
       <li>PROPN: Мери, Питер, Сэм, Ворошилов, Джейн, Дёма, Игаузу, Лида, Митя, Прокоп</li>
       <li>VERB-Part: бырӧм, дорӧм, киссьӧм, пырӧм, пӧліньтчӧм</li>
     </ul>
@@ -447,7 +450,8 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: эз, эг, оз, озӧ, ог, эд</li>
+      <li>AUX: эз, оз, эг, озӧ, ог, эд, эн</li>
+      <li>VERB: эд</li>
     </ul>
   </li>
 </ul>
@@ -472,8 +476,8 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: эг, оз, озӧ, эз, Вӧлі, верман, коліс, овлӧ, ог, эд</li>
-      <li>VERB: зэрӧ, босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, пондыліс, тыдалӧ, Висьтала</li>
+      <li>AUX: оз, эг, вӧлі, озӧ, эз, верман, коліс, овлӧ, ог, эд</li>
+      <li>VERB: зэрӧ, босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, петас, пондыліс, тшӧктіс</li>
     </ul>
   </li>
 </ul>
@@ -485,7 +489,7 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Fut
     <ul>
-      <li>VERB: кокаласӧ, локтас, петас, сетас, шедас</li>
+      <li>VERB: петас, кокаласӧ, локтас, сетас, шедас</li>
     </ul>
   </li>
 </ul>
@@ -493,8 +497,8 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Past
     <ul>
-      <li>AUX: эз, эг, Вӧлі, коліс, эд</li>
-      <li>VERB: босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, пондыліс, Окаліс, Пукси, бырӧм</li>
+      <li>AUX: эз, эг, вӧлі, коліс, эд, эн</li>
+      <li>VERB: босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, пондыліс, тшӧктіс, юаліс, Локтін</li>
       <li>VERB-Part: бырӧм, дорӧм, киссьӧм, пырӧм, пӧліньтчӧм</li>
     </ul>
   </li>
@@ -505,7 +509,7 @@ Work connected to this treebank is described in following publication. If you us
     <ul>
       <li>AUX: оз, озӧ, верман, овлӧ, ог</li>
       <li>NUM: кыкӧнӧсь</li>
-      <li>VERB: зэрӧ, тыдалӧ, Висьтала, Кылӧ, Мунан, адзза, видзӧтан, визывтӧ, вуграся, вуджӧны</li>
+      <li>VERB: зэрӧ, тыдалӧ, Висьтала, Кылӧ, Мунан, адзза, веритан, видзӧтан, визывтӧ, вуграся</li>
     </ul>
   </li>
 </ul>
@@ -513,7 +517,7 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Prt2
     <ul>
-      <li>VERB: гардчӧмкодь, ылӧстӧма</li>
+      <li>VERB: вӧвдӧм, гардчӧмкодь, ылӧстӧма</li>
     </ul>
   </li>
 </ul>
@@ -548,10 +552,18 @@ Work connected to this treebank is described in following publication. If you us
 </ul>
 
 <ul>
+  <li>Ind
+    <ul>
+      <li>PRON: мыйкӧ, кинкӧ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Int
     <ul>
       <li>ADV: Кыдз, кытчӧ, кытӧн</li>
-      <li>PRON: Кытшӧм, Мый, кин, кытӧн</li>
+      <li>PRON: Мый, Кытшӧм, кин, кытӧн</li>
     </ul>
   </li>
 </ul>
@@ -559,7 +571,15 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: сія, менам, тэ, Ме, сійӧ, меным, сылӧ, тэнат, нія, сылӧн</li>
+      <li>PRON: сія, ме, менам, тэ, сійӧ, меным, сылӧ, сылӧн, тэнат, нія</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Refl
+    <ul>
+      <li>DET: ас</li>
     </ul>
   </li>
 </ul>
@@ -567,7 +587,7 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: кыдз</li>
+      <li>ADV: кыдз, кытӧн</li>
       <li>PRON: кӧда, мый</li>
     </ul>
   </li>
@@ -636,9 +656,9 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>1
     <ul>
-      <li>AUX: эг, ог</li>
-      <li>PRON: менам, Ме, меным, Ми, мекӧт, менӧ</li>
-      <li>VERB: Висьтала, Пукси, адзза, ветлӧті, вуграся, вуджим, кошши, пантасим, сибӧтчим, узьлі</li>
+      <li>AUX: эг, вӧлі, ог</li>
+      <li>PRON: ме, менам, меным, Ми, мекӧт, мелань, менӧ</li>
+      <li>VERB: Висьтала, Пукси, адзза, вежӧрті, ветлӧті, видзӧті, вуграся, вуджим, дугда, кошши</li>
     </ul>
   </li>
 </ul>
@@ -646,9 +666,9 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>2
     <ul>
-      <li>AUX: верман, эд</li>
+      <li>AUX: верман, эд, эн</li>
       <li>PRON: тэ, тэнат, ті</li>
-      <li>VERB: осьт, Мунан, видзӧтан, думайтан</li>
+      <li>VERB: осьт, Локтін, Мунан, веритан, видзӧтан, думайтан, эд</li>
     </ul>
   </li>
 </ul>
@@ -658,8 +678,8 @@ Work connected to this treebank is described in following publication. If you us
     <ul>
       <li>AUX: эз, оз, озӧ, Вӧлі, коліс, овлӧ</li>
       <li>NUM: кыкӧнӧсь</li>
-      <li>PRON: сія, сійӧ, сылӧ, нія, сылӧн, Сiя, Сы</li>
-      <li>VERB: зэрӧ, босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, пондыліс, тыдалӧ, Кылӧ</li>
+      <li>PRON: сія, сійӧ, сылӧ, сылӧн, нія, Сiя, Сы</li>
+      <li>VERB: зэрӧ, босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, петас, пондыліс, тшӧктіс</li>
     </ul>
   </li>
 </ul>
@@ -681,8 +701,9 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Sing
     <ul>
-      <li>ADP: сайӧ</li>
+      <li>ADP: бердас, кежас, кузяс, сайӧ</li>
       <li>NOUN: айӧ, йӧрсӧ, дорас, луныс, ойнас, олісьыс, соседыс, Кагаыс, Льӧмваыстӧг, Томмес</li>
+      <li>PRON: Мӧдыс</li>
     </ul>
   </li>
 </ul>
@@ -695,7 +716,7 @@ Work connected to this treebank is described in following publication. If you us
     <ul>
       <li>Post
         <ul>
-          <li>ADP: дынӧ, бердӧ, бӧрсянь, вылын, вылӧ, одзӧ</li>
+          <li>ADP: вылын, дынӧ, бердас, бердӧ, бокӧ, бӧрсянь, вылӧ, кежас, кузяс, одзӧ</li>
         </ul>
       </li>
     </ul>
@@ -707,13 +728,13 @@ Work connected to this treebank is described in following publication. If you us
     <ul>
       <li>Deg
         <ul>
-          <li>ADV: сё</li>
+          <li>ADV: сё, дзик</li>
         </ul>
       </li>
       <li>Loc
         <ul>
-          <li>ADP: дынӧ, бердӧ, бӧрсянь, вылын, вылӧ, одзӧ</li>
-          <li>ADV: кытчӧ, ылын</li>
+          <li>ADP: вылын, дынӧ, бердас, бердӧ, бокын, бокӧ, бӧрсянь, вылӧ, одзӧ</li>
+          <li>ADV: кытчӧ, кытӧн, ылын</li>
         </ul>
       </li>
       <li>Man
@@ -731,7 +752,7 @@ Work connected to this treebank is described in following publication. If you us
       <li>Yes
         <ul>
           <li>AUX: вермы, вӧв, позь</li>
-          <li>VERB: адззыв, содты, тӧд, вежӧртӧ, вермы, гленитчы, ков, тӧдӧ</li>
+          <li>VERB: адззыв, лок, понды, содты, тӧд, вежӧртӧ, вермы, гленитчы, ков, тӧдӧ</li>
         </ul>
       </li>
     </ul>
@@ -751,6 +772,11 @@ Work connected to this treebank is described in following publication. If you us
           <li>VERB: кокаласӧ</li>
         </ul>
       </li>
+      <li>Ana
+        <ul>
+          <li>VERB-Part: дрӧжитана</li>
+        </ul>
+      </li>
       <li>CompMod
         <ul>
           <li>VERB: гардчӧмкодь</li>
@@ -759,6 +785,16 @@ Work connected to this treebank is described in following publication. If you us
       <li>Dimin
         <ul>
           <li>NOUN: видзоккез, керкуокыс, пельӧсокӧ</li>
+        </ul>
+      </li>
+      <li>Ik
+        <ul>
+          <li>VERB-Conv: жмитікӧ, лӧсьӧтікӧ</li>
+        </ul>
+      </li>
+      <li>Omon
+        <ul>
+          <li>VERB-Conv: сайӧвтӧмӧн</li>
         </ul>
       </li>
       <li>ProprietiveMod
@@ -809,18 +845,20 @@ Work connected to this treebank is described in following publication. If you us
       <li>1
         <ul>
           <li>ADP: сайӧ</li>
-          <li>NOUN: айӧ, аннэзӧ, вонӧ, увтӧ</li>
+          <li>NOUN: айӧ, аннэзӧ, вонӧ, туйӧ, увтӧ</li>
         </ul>
       </li>
       <li>2
         <ul>
           <li>NOUN: айыт, айытся</li>
+          <li>VERB-Inf: боньгыныт</li>
         </ul>
       </li>
       <li>3
         <ul>
+          <li>ADP: бердас, кежас, кузяс</li>
           <li>NOUN: йӧрсӧ, дорас, луныс, ойнас, олісьыс, соседыс, Кагаыс, Льӧмваыстӧг, Томмес, айкаыслӧ</li>
-          <li>PRON: кыкнаннысӧ</li>
+          <li>PRON: Мӧдыс, кыкнаннысӧ</li>
         </ul>
       </li>
     </ul>
@@ -878,8 +916,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (23)</li>
-      <li>VERB--PRON-Nom (21)</li>
+      <li>VERB--NOUN-Nom (27)</li>
+      <li>VERB--PRON-Nom (31)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
     </ul>
   </li>
@@ -888,9 +926,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (10)</li>
+      <li>VERB--NOUN-Acc (11)</li>
       <li>VERB--NOUN-Nom (10)</li>
       <li>VERB--PRON-Acc (4)</li>
+      <li>VERB--PRON-Nom (1)</li>
+      <li>VERB-Conv--NOUN-Acc (3)</li>
       <li>VERB-Conv--NOUN-Nom (1)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
@@ -912,7 +952,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:lmod</a>, <a>advcl:mmod</a>, <a>advcl:tmod</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:cnd</a>, <a>aux:neg</a>, <a>cc:preconj</a>, <a>flat:name</a>, <a>nmod:lmod</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>This corpus uses 19 relation subtypes: <a>acl:relcl</a>, <a>advcl:lmod</a>, <a>advcl:mmod</a>, <a>advcl:tmod</a>, <a>advmod:deg</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:cnd</a>, <a>aux:neg</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>flat:name</a>, <a>nmod:lmod</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>xcomp:ds</a></li>
+<li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

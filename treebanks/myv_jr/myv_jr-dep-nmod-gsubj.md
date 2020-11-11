@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-nmod.html">nmod</a></tt>.
 There are also 5 other language-specific subtypes of `nmod`: <tt><a href="myv_jr-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="myv_jr-dep-nmod-gobj.html">nmod:gobj</a></tt>, <tt><a href="myv_jr-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="myv_jr-dep-nmod-part.html">nmod:part</a></tt>, <tt><a href="myv_jr-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-10 nodes (0%) are attached to their parents as `nmod:gsubj`.
+12 nodes (0%) are attached to their parents as `nmod:gsubj`.
 
-10 instances of `nmod:gsubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+12 instances of `nmod:gsubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.83333333333333.
 
-The following 4 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (5; 50% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (3; 30% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 10% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 10% instances).
+The following 4 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (7; 58% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (3; 25% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -29,8 +29,8 @@ The following 4 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 4	ютазь	ютамс	VERB	V	Derivation=Ozj|Valency=2|VerbForm=Conv	6	advcl	_	GTtags=TV,Der/Озь,Ger
 5	чись	чи	NOUN	N	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	GTtags=Sg,Nom,Def
 6	чопавтсь	чопавтемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
-7	роштятнень	роштя	NOUN	N	Case=Gen|Definite=Def|Number=Plur	6	obl	_	GTtags=Pl,Gen,Def
-8	потмос	потмо	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	7	case	_	GTtags=Sem/Plc,SP,Ill,Indef|SpaceAfter=No
+7	роштятнень	роштя	NOUN	N	Case=Gen|Definite=Def|Number=Plur	8	nmod:part	_	GTtags=Pl,Gen,Def
+8	потмос	потмо	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	6	obl:lmod	_	GTtags=Sem/Plc,SP,Ill,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~

@@ -10,16 +10,18 @@ This feature is universal.
 It occurs with 1 different values: `Yes`.
 
 25 tokens (0%) have a non-empty value of `Reflex`.
-1 types (0%) occur at least once with a non-empty value of `Reflex`.
+2 types (0%) occur at least once with a non-empty value of `Reflex`.
 1 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 1 part-of-speech tags: <tt><a href="br_keb-pos-PART.html">PART</a></tt> (25; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (25; 0% instances).
 
-### `PART`
+### `AUX`
 
-25 <tt><a href="br_keb-pos-PART.html">PART</a></tt> tokens (4% of all `PART` tokens) have a non-empty value of `Reflex`.
+25 <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Reflex`.
 
-`PART` tokens may have the following values of `Reflex`:
+The most frequent other feature values with which `AUX` and `Reflex` co-occurred: <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (25; 100%).
 
-* `Yes` (25; 100% of non-empty `Reflex`): <em>em</em>
-* `EMPTY` (578): <em>a, e, o, na, ur, ', ez, oc'h, oc’h, ra</em>
+`AUX` tokens may have the following values of `Reflex`:
+
+* `Yes` (25; 100% of non-empty `Reflex`): <em>en</em>
+* `EMPTY` (1307): <em>a, e, eo, oa, vo, zo, bet, o, vez, ra</em>
 

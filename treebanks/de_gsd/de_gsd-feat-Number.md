@@ -9,19 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="de_gsd-feat-Number.html">Number</a></tt>, <tt><a href="de_gsd-feat-Number-psor.html">Number[psor]</a></tt>.
+
 167163 tokens (57%) have a non-empty value of `Number`.
 44222 types (87%) occur at least once with a non-empty value of `Number`.
 37189 lemmas (88%) occur at least once with a non-empty value of `Number`.
-The feature is used with 16 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (51381; 18% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (36738; 13% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (27380; 9% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (14543; 5% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (14318; 5% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12482; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9823; 3% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (210; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (120; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (78; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (26; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances).
+The feature is used with 16 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (51379; 18% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (37316; 13% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (27368; 9% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (14318; 5% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (13979; 5% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12483; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9822; 3% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (210; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (120; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (78; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (26; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-51381 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
+51379 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (14477; 28% of non-empty `Number`): <em>Jahren, Jahre, Menschen, %, km, Prozent, Kinder, m, Einwohner, Millionen</em>
-* `Sing` (36904; 72% of non-empty `Number`): <em>jahr, Zeit, Stadt, Ende, Teil, Familie, Ort, Gemeinde, Platz, Saison</em>
+* `Plur` (14476; 28% of non-empty `Number`): <em>Jahren, Jahre, Menschen, %, km, Prozent, Kinder, m, Einwohner, Millionen</em>
+* `Sing` (36903; 72% of non-empty `Number`): <em>jahr, Zeit, Stadt, Ende, Teil, Familie, Ort, Gemeinde, Platz, Saison</em>
 * `EMPTY` (821): <em>Prozent, mm, Jahrhundert, Mark, °, m, mal, ², ', Wohn</em>
 
 <table>
@@ -35,15 +37,15 @@ The feature is used with 16 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.ht
 
 ### `DET`
 
-36738 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+37316 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (34224; 93%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (28649; 78%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (34224; 92%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (28649; 77%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (5316; 14% of non-empty `Number`): <em>die, den, der, seine, ihre, viele, seinen, vielen, deren, seiner</em>
-* `Sing` (31422; 86% of non-empty `Number`): <em>der, dem, die, das, des, eine, ein, den, einer, einem</em>
-* `EMPTY` (58): <em>viel, weniger, genügend, ein, mehr, reichlich, all, Die, Mancherlei, The</em>
+* `Plur` (5446; 15% of non-empty `Number`): <em>die, den, der, seine, ihre, seinen, viele, ihren, vielen, seiner</em>
+* `Sing` (31870; 85% of non-empty `Number`): <em>der, dem, die, das, des, eine, ein, den, einer, einem</em>
+* `EMPTY` (59): <em>viel, weniger, genügend, ein, mehr, reichlich, all, Die, Mancherlei, Seine</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -100,13 +102,13 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PROPN`
 
-27380 <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> tokens (89% of all `PROPN` tokens) have a non-empty value of `Number`.
+27368 <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> tokens (89% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (1342; 5% of non-empty `Number`): <em>USA, US, Olympischen, Staaten, Euro, Spielen, Vereinigten, Grünen, EU, Mark</em>
-* `Sing` (26038; 95% of non-empty `Number`): <em>Deutschland, Berlin, US, SPD, St., Oktober, Frankreich, August, Mai, New</em>
-* `EMPTY` (3477): <em>of, de, the, von, a, la, University, II, Wiener, Berliner</em>
+* `Sing` (26026; 95% of non-empty `Number`): <em>Deutschland, Berlin, US, SPD, St., Oktober, Frankreich, August, Mai, New</em>
+* `EMPTY` (3476): <em>of, de, the, von, a, la, University, II, Wiener, Berliner</em>
 
 <table>
   <tr><th>Paradigm <i>US</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -125,18 +127,44 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>US</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (14786) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (14783) occur only with one value of `Number`.
+
+### `ADJ`
+
+14318 <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> tokens (70% of all `ADJ` tokens) have a non-empty value of `Number`.
+
+`ADJ` tokens may have the following values of `Number`:
+
+* `Plur` (4439; 31% of non-empty `Number`): <em>weitere, anderen, ersten, verschiedenen, andere, verschiedene, zahlreiche, neue, großen, letzten</em>
+* `Sing` (9879; 69% of non-empty `Number`): <em>erste, ersten, neuen, neue, deutschen, großen, zweiten, große, heutigen, gute</em>
+* `EMPTY` (6250): <em>später, bekannt, gut, kurz, freundlich, lang, möglich, neu, stark, tätig</em>
+
+<table>
+  <tr><th>Paradigm <i>groß</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>großen, größten, größeren, grossen</em></td><td><em>große, größere</em></td></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>große, größere, grosse, größte</em></td><td><em>große, größten, großen, grössere, größere</em></td></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>großes, große, größeres</em></td><td><em>große, größere</em></td></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>großen, großem, größten, größerem</em></td><td><em>großen, größeren</em></td></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>großen, großer, größten, größter, größerer</em></td><td><em>großen, größeren, größten, grossen</em></td></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>großen, großem, größerem, größeren, größten</em></td><td><em>großen</em></td></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>großen, größten</em></td><td><em>großer, großen, größerer, größten</em></td></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>großen, größeren, großer, größerer, größten</em></td><td><em>größten, großen, größerer, größeren</em></td></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>großen, größten</em></td><td><em>größerer, großen, größten</em></td></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>großer, größte, große, größter, größerer, grosse, grosser</em></td><td><em>große, größere, großen, größten</em></td></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>große, größte, größere</em></td><td><em>große, großen, größten, größere</em></td></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>großes, große, grösste, größeres, größte</em></td><td><em>große, grosse, großen</em></td></tr>
+</table>
 
 ### `PRON`
 
-14543 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Number`.
+13979 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (12846; 88%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (11853; 82%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (8678; 60%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7602; 52%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (12282; 88%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (11290; 81%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (8541; 61%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7600; 54%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (3483; 24% of non-empty `Number`): <em>die, sie, sich, wir, alle, diese, beiden, uns, einige, mehrere</em>
-* `Sing` (11060; 76% of non-empty `Number`): <em>er, sich, es, sie, ich, der, die, man, das, dieser</em>
+* `Plur` (3354; 24% of non-empty `Number`): <em>die, sie, sich, wir, alle, diese, beiden, uns, einige, mehrere</em>
+* `Sing` (10625; 76% of non-empty `Number`): <em>er, sich, es, sie, ich, der, die, man, das, dieser</em>
 * `EMPTY` (498): <em>es, nichts, mehr, viel, etwas, dazu, davon, was, paar, dafür</em>
 
 <table>
@@ -190,43 +218,17 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>die</em></td></tr>
 </table>
 
-### `ADJ`
-
-14318 <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> tokens (70% of all `ADJ` tokens) have a non-empty value of `Number`.
-
-`ADJ` tokens may have the following values of `Number`:
-
-* `Plur` (4439; 31% of non-empty `Number`): <em>weitere, anderen, ersten, verschiedenen, andere, verschiedene, zahlreiche, neue, großen, letzten</em>
-* `Sing` (9879; 69% of non-empty `Number`): <em>erste, ersten, neuen, neue, deutschen, großen, zweiten, große, heutigen, gute</em>
-* `EMPTY` (6250): <em>später, bekannt, gut, kurz, freundlich, lang, möglich, neu, stark, tätig</em>
-
-<table>
-  <tr><th>Paradigm <i>groß</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>großen, größten, größeren, grossen</em></td><td><em>große, größere</em></td></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>große, größere, grosse, größte</em></td><td><em>große, größten, großen, grössere, größere</em></td></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>großes, große, größeres</em></td><td><em>große, größere</em></td></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>großen, großem, größten, größerem</em></td><td><em>großen, größeren</em></td></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>großen, großer, größten, größter, größerer</em></td><td><em>großen, größeren, größten, grossen</em></td></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>großen, großem, größerem, größeren, größten</em></td><td><em>großen</em></td></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>großen, größten</em></td><td><em>großer, großen, größerer, größten</em></td></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>großen, größeren, großer, größerer, größten</em></td><td><em>größten, großen, größerer, größeren</em></td></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>großen, größten</em></td><td><em>größerer, großen, größten</em></td></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>großer, größte, große, größter, größerer, grosse, grosser</em></td><td><em>große, größere, großen, größten</em></td></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>große, größte, größere</em></td><td><em>große, großen, größten, größere</em></td></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>großes, große, grösste, größeres, größte</em></td><td><em>große, grosse, großen</em></td></tr>
-</table>
-
 ### `VERB`
 
-12482 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Number`.
+12483 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12362; 99%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12140; 97%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (11939; 96%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6418; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12363; 99%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12141; 97%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (11940; 96%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6419; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (2624; 21% of non-empty `Number`): <em>haben, stehen, gehören, sind, hatten, kamen, kommen, fanden, finden, waren</em>
-* `Sing` (9858; 79% of non-empty `Number`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
-* `EMPTY` (8230): <em>lassen, empfehlen, gegründet, genannt, machen, verwendet, eingesetzt, bezeichnet, genutzt, gebaut</em>
+* `Sing` (9859; 79% of non-empty `Number`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `EMPTY` (8231): <em>lassen, empfehlen, gegründet, genannt, machen, verwendet, eingesetzt, bezeichnet, genutzt, gebaut</em>
 
 <table>
   <tr><th>Paradigm <i>haben</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -242,15 +244,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-9823 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Number`.
+9822 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9815; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9312; 95%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9238; 94%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7334; 75%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5569; 57%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9814; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9311; 95%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9237; 94%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7334; 75%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5569; 57%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (2542; 26% of non-empty `Number`): <em>sind, wurden, werden, waren, haben, können, sollen, hatten, konnten, müssen</em>
-* `Sing` (7281; 74% of non-empty `Number`): <em>ist, wurde, war, wird, kann, hat, hatte, konnte, habe, sei</em>
-* `EMPTY` (771): <em>werden, sein, worden, können, gewesen, haben, müssen, wollen, dürfen, geworden</em>
+* `Sing` (7280; 74% of non-empty `Number`): <em>ist, wurde, war, wird, kann, hat, hatte, konnte, habe, sei</em>
+* `EMPTY` (770): <em>werden, sein, worden, können, gewesen, haben, müssen, wollen, dürfen, geworden</em>
 
 <table>
   <tr><th>Paradigm <i>sein</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -400,14 +402,14 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (27936; 98%),
+<tt>NOUN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (27937; 98%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12454; 93%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6331; 62%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (5511; 92%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (5046; 92%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (5509; 92%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (5045; 92%),
 <tt>VERB --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4456; 79%),
-<tt>VERB --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (4051; 73%),
+<tt>VERB --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (4050; 73%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (3054; 72%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2993; 73%),
-<tt>NOUN --[<tt><a href="de_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (2680; 83%).
+<tt>NOUN --[<tt><a href="de_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (2679; 83%).
 

@@ -59,9 +59,9 @@ Examples: <em>oli</em>
 
 Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (32; 46% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (19; 27% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (11; 16% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (1; 1% instances),  (1; 1% instances)
 
-65 (93%) `AUX` nodes are leaves.
+67 (96%) `AUX` nodes are leaves.
 
-3 (4%) `AUX` nodes have one child.
+1 (1%) `AUX` nodes have one child.
 
 1 (1%) `AUX` nodes have two children.
 
@@ -69,7 +69,7 @@ Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="olo_k
 
 The highest child degree of a `AUX` node is 4.
 
-Children of `AUX` nodes are attached using 5 different relations: <tt><a href="olo_kkpp-dep-punct.html">punct</a></tt> (5; 56% instances), <tt><a href="olo_kkpp-dep-aux.html">aux</a></tt> (1; 11% instances), <tt><a href="olo_kkpp-dep-conj.html">conj</a></tt> (1; 11% instances), <tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt> (1; 11% instances), <tt><a href="olo_kkpp-dep-xcomp.html">xcomp</a></tt> (1; 11% instances)
+Children of `AUX` nodes are attached using 5 different relations: <tt><a href="olo_kkpp-dep-punct.html">punct</a></tt> (3; 43% instances), <tt><a href="olo_kkpp-dep-aux.html">aux</a></tt> (1; 14% instances), <tt><a href="olo_kkpp-dep-conj.html">conj</a></tt> (1; 14% instances), <tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt> (1; 14% instances), <tt><a href="olo_kkpp-dep-xcomp.html">xcomp</a></tt> (1; 14% instances)
 
-Children of `AUX` nodes belong to 3 different parts of speech: <tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (5; 56% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (3; 33% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (1; 11% instances)
+Children of `AUX` nodes belong to 3 different parts of speech: <tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (3; 43% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (3; 43% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (1; 14% instances)
 

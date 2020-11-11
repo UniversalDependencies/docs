@@ -24,7 +24,7 @@ The following 23 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 6 5 dep	color:blue
 1	Í	í	ADP	Pr	_	2	case	_	_
 2	2005	2005	NUM	Num	Case=Dat	6	obl	_	_
-3	vóru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Past	6	cop	_	_
+3	vóru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Past	6	cop	_	_
 4	tølini	tal	NOUN	N	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	6	nsubj	_	_
 5	73	73	X	x	_	6	dep	_	_
 6	%	%	NUM	Num	Case=Nom	0	root	_	_
@@ -65,7 +65,7 @@ The following 23 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 3 dep	color:blue
 1	Landið	land	NOUN	N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	5	nsubj	_	_
-2	var	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
+2	var	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
 3	fram	fram	X	x	_	4	dep	_	_
 4	við	við	ADP	Pr	_	5	case	_	_
 5	Kyrrahavi	Kyrrahav	PROPN	N	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No

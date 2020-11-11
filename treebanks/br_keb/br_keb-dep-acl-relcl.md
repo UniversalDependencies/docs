@@ -30,8 +30,8 @@ The following 1 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 5	an	an	DET	det	_	6	det	_	_
 6	Hollved	hollved	NOUN	n	Gender=Masc|Number=Sing	4	nmod:gen	_	_
 7	kontet	kontañ	VERB	vblex	Tense=Past|VerbForm=Part	4	acl:relcl	_	_
-8	deoc	da	ADP	pr	_	9	case	_	_
-9	h	indirect	PRON	prn	Case=Acc|Number=Plur|Person=2|PronType=Prs	7	obl	_	_
+8	de	da	ADP	pr	_	9	case	_	_
+9	oc'h	indirect	PRON	prn	Case=Acc|Number=Plur|Person=2|PronType=Prs	7	obl	_	_
 10	a-hed	a-hed	ADP	pr	_	12	case	_	_
 11	e	e	DET	det	Gender[psor]=Masc|Poss=Yes	12	det	_	_
 12	bazennoù	pazenn	NOUN	n	Gender=Fem|Number=Plur	7	obl	_	_

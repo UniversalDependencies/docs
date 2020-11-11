@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-960 nodes (6%) are attached to their parents as `det`.
+963 nodes (6%) are attached to their parents as `det`.
 
-960 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10729166666667.
+963 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10903426791277.
 
-The following 5 pairs of parts of speech are connected with `det`: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (936; 98% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `det`: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (937; 97% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

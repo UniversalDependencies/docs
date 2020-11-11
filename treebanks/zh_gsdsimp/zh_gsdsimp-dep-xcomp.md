@@ -69,7 +69,7 @@ The following 23 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 9	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 10	也	也	ADV	RB	_	11	mark	_	SpaceAfter=No
 11	扣押	扣押	VERB	VV	_	0	root	_	SpaceAfter=No
-12	了	了	PART	AS	Aspect=Perf	11	case:aspect	_	SpaceAfter=No
+12	了	了	PART	AS	Aspect=Perf	11	aux:aspect	_	SpaceAfter=No
 13	一百多	一百多	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
 14	张	张	NOUN	NNB	_	21	clf	_	SpaceAfter=No
 15	被	被	VERB	BB	Voice=Pass	16	aux:pass	_	SpaceAfter=No

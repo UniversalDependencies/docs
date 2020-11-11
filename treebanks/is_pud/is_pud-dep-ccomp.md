@@ -11,7 +11,7 @@ This relation is universal.
 124 nodes (1%) are attached to their parents as `ccomp`.
 
 124 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.20967741935484.
+Average distance between parent and child is 6.19354838709677.
 
 The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a href="is_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (81; 65% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (23; 19% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt> (11; 9% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="is_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="is_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="is_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="is_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="is_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 

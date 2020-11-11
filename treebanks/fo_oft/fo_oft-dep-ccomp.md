@@ -49,7 +49,7 @@ The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href
 5	at	at	SCONJ	CS	_	9	mark	_	_
 6	yrkingarnar	yrking	NOUN	N	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	9	nsubj	_	_
 7	ikki	ikki	ADV	Adv	_	9	advmod	_	_
-8	eru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Pres	9	cop	_	_
+8	eru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Pres	9	cop	_	_
 9	góðar	góður	ADJ	A	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	2	ccomp	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -69,7 +69,7 @@ The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href
 5	at	at	SCONJ	CS	_	10	mark	_	_
 6	eitt	ein	DET	Det	Case=Nom|Gender=Neut|Number=Sing	7	det	_	_
 7	menniskja	menniskja	NOUN	N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	10	nsubj	_	_
-8	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	cop	_	_
+8	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	cop	_	_
 9	á	á	ADP	Pr	_	10	case	_	_
 10	hotellinum	hotell	NOUN	N	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	3	ccomp	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	3	punct	_	_

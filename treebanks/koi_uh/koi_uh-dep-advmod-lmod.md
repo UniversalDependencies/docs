@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `advmod:lmod`
 
 This relation is a language-specific subtype of <tt><a href="koi_uh-dep-advmod.html">advmod</a></tt>.
-There are also 2 other language-specific subtypes of `advmod`: <tt><a href="koi_uh-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="koi_uh-dep-advmod-tmod.html">advmod:tmod</a></tt>.
+There are also 3 other language-specific subtypes of `advmod`: <tt><a href="koi_uh-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="koi_uh-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="koi_uh-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
 8 nodes (1%) are attached to their parents as `advmod:lmod`.
 

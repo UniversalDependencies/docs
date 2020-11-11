@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt>.
 There are also 1 other language-specific subtypes of `nmod`: <tt><a href="cy_ccg-dep-nmod-agent.html">nmod:agent</a></tt>.
 
-442 nodes (1%) are attached to their parents as `nmod:poss`.
+479 nodes (1%) are attached to their parents as `nmod:poss`.
 
-413 instances of `nmod:poss` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.03846153846154.
+449 instances of `nmod:poss` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.03966597077244.
 
-The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (420; 95% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (22; 5% instances).
+The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (453; 95% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (26; 5% instances).
 
 
 ~~~ conllu

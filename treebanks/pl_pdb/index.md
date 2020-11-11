@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Alina Wróblewska, Daniel Zeman, Jan Mašek, Rudolf Rosa.
 
 Repository: [UD_Polish-PDB](https://github.com/UniversalDependencies/UD_Polish-PDB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pdb26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pdb27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: fiction, nonfiction, news
 Questions, comments?
 General annotation questions (either Polish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Polish-PDB/issues).
-If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+If you want to collaborate, please contact [alina&nbsp;(æt)&nbsp;ipipan&nbsp;•&nbsp;waw&nbsp;•&nbsp;pl].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.

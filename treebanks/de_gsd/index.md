@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Slav Petrov, Wolfgang Seeker, Ryan McDonald, Joakim Nivre, Daniel Zeman, Adriane Boyd.
 
 Repository: [UD_German-GSD](https://github.com/UniversalDependencies/UD_German-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_gsd26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_gsd27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -60,7 +60,7 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
 
 ## Features
 
-[Abbr](de_gsd-feat-Abbr.html) – [Case](de_gsd-feat-Case.html) – [Definite](de_gsd-feat-Definite.html) – [Foreign](de_gsd-feat-Foreign.html) – [Gender](de_gsd-feat-Gender.html) – [Mood](de_gsd-feat-Mood.html) – [Number](de_gsd-feat-Number.html) – [NumType](de_gsd-feat-NumType.html) – [Person](de_gsd-feat-Person.html) – [Polarity](de_gsd-feat-Polarity.html) – [Poss](de_gsd-feat-Poss.html) – [PronType](de_gsd-feat-PronType.html) – [Reflex](de_gsd-feat-Reflex.html) – [Tense](de_gsd-feat-Tense.html) – [Typo](de_gsd-feat-Typo.html) – [VerbForm](de_gsd-feat-VerbForm.html) – [Voice](de_gsd-feat-Voice.html)
+[Abbr](de_gsd-feat-Abbr.html) – [Case](de_gsd-feat-Case.html) – [Definite](de_gsd-feat-Definite.html) – [Foreign](de_gsd-feat-Foreign.html) – [Gender](de_gsd-feat-Gender.html) – [Gender[psor]](de_gsd-feat-Gender-psor.html) – [Mood](de_gsd-feat-Mood.html) – [Number](de_gsd-feat-Number.html) – [Number[psor]](de_gsd-feat-Number-psor.html) – [NumType](de_gsd-feat-NumType.html) – [Person](de_gsd-feat-Person.html) – [Polarity](de_gsd-feat-Polarity.html) – [Poss](de_gsd-feat-Poss.html) – [PronType](de_gsd-feat-PronType.html) – [Reflex](de_gsd-feat-Reflex.html) – [Tense](de_gsd-feat-Tense.html) – [Typo](de_gsd-feat-Typo.html) – [VerbForm](de_gsd-feat-VerbForm.html) – [Voice](de_gsd-feat-Voice.html)
 
 ## Relations
 
@@ -103,7 +103,7 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
 </ul>
 
 <ul>
-<li>This corpus contains 133 lemmas tagged as pronouns (PRON): 250g, Anger, Brettstein, Bär, DIE, Dr., FOSs, Ihr|ihr, Johannes, Jones, KPO, Kehr, Kid, Letztere, Loderer, M2, Mrd, PD, Propyläen, SKa, See, Sefer, Sie|sie, Silber, Weiteren, Workaholic, all, alle, allermeisten, ander, andere, bei, beide, bißchen, d, dBm, dadurch, dafür, dagegen, daher, damit, daran, darauf, daraus, darin, darum, darüber, davon, davor, dazu, definitionem, dein, der, dergleichen, derjenige, derselbe, diejenige, diejenigen, dies, dieselbe, du, ebendies, eigige, ein, einige, einiges, er, er|es, er|es|sie, es, etlich, etwas, euer, genug, i, ich, ihr, irgendein, irgendetwas, irgendwas, irgendwelch, irgendwer, jed, jeglich, jemand, jen, kein, keinerlei, keinster, letzt, letzter, mA, man, manch, mehr, mehrere, mein, meist, miles, murales, nichts, niemand, nix, paar, s, sein, selb, selbst, sie, solch, soviel, sowas, sämtlich, unser, viel, was, welch, welche, wenig, weniger, wer, wieviele, wir, wobei, wodurch, womit, wonach, woraus, worin, wovon, wozu, zahlreich, zuviel</li>
+<li>This corpus contains 129 lemmas tagged as pronouns (PRON): 250g, Anger, Brettstein, Bär, DIE, Dr., FOSs, Ihr|ihr, Johannes, Jones, KPO, Kehr, Kid, Letztere, Loderer, M2, Mrd, PD, Propyläen, SKa, See, Sefer, Sie|sie, Silber, Weiteren, Workaholic, all, alle, allermeisten, ander, andere, bei, beide, bißchen, d, dBm, dadurch, dafür, dagegen, daher, damit, daran, darauf, daraus, darin, darum, darüber, davon, davor, dazu, definitionem, der, dergleichen, derjenige, derselbe, diejenige, diejenigen, dies, dieselbe, du, ebendies, eigige, ein, einige, einiges, er, er|es, er|es|sie, es, etlich, etwas, euer, genug, i, ich, ihr, irgendein, irgendetwas, irgendwas, irgendwelch, irgendwer, jed, jeglich, jemand, jen, kein, keinerlei, keinster, letzt, letzter, mA, man, manch, mehr, mehrere, meist, miles, murales, nichts, niemand, nix, paar, s, selb, selbst, sie, solch, soviel, sowas, sämtlich, viel, was, welch, welche, wenig, weniger, wer, wieviele, wir, wobei, wodurch, womit, wonach, woraus, worin, wovon, wozu, zahlreich, zuviel</li>
 </ul>
 
 <ul>
@@ -111,7 +111,7 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
 </ul>
 
 <ul>
-<li>Out of the above, 36 lemmas occurred sometimes as PRON and sometimes as DET: Ihr|ihr, Letztere, all, alle, ander, beide, d, dein, der, derselbe, dies, dieselbe, ein, einige, etlich, euer, ihr, irgendein, jeglich, jen, kein, manch, mehr, mehrere, mein, meist, sein, selb, solch, sämtlich, unser, viel, welch, wenig, weniger, zahlreich</li>
+<li>Out of the above, 32 lemmas occurred sometimes as PRON and sometimes as DET: Ihr|ihr, Letztere, all, alle, ander, beide, d, der, derselbe, dies, dieselbe, ein, einige, etlich, euer, ihr, irgendein, jeglich, jen, kein, manch, mehr, mehrere, meist, selb, solch, sämtlich, viel, welch, wenig, weniger, zahlreich</li>
 </ul>
 
 <ul>
@@ -134,9 +134,9 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
     <li>ADV: kennen, aussen, bevorzugt, herausstellte, scheint, ﻿Auch</li>
     <li>AUX: ist, wurde, war, sind, wird, wurden, kann, hat, werden, waren</li>
     <li>CCONJ: bzw, hatte, ﻿Um</li>
+    <li>DET: meinen</li>
     <li>NOUN: mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</li>
     <li>PART: einnahm, auflief, wehe</li>
-    <li>PRON: meinen</li>
     <li>PROPN: ist, sind, 1st, EVTA, Gibt, Glaube, Kambodschas, Kemble, Leuchten, Roden</li>
     <li>PUNCT: wurde</li>
     <li>SCONJ: sonden</li>
@@ -192,11 +192,11 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
       <li>ADP: de, Fur, Gleichwie, lt., names</li>
       <li>ADV: lange, super, Allzeit, Kehrt, Nahe, Wenige, Zügig, absolute, aka, ca</li>
       <li>CCONJ: and, e, od, und</li>
-      <li>DET: der, die, eine, einer, den, seine, seiner, ihre, ihrer, seinen</li>
+      <li>DET: der, die, eine, einer, den, seine, seiner, ihre, ihrer, meine</li>
       <li>NOUN: Zeit, Stadt, Familie, Gemeinde, Saison, Frau, Gruppe, Region, Geschichte, Kirche</li>
       <li>NUM: eine, einer, Millionen, zweier, 15, Million, 30, 35, 6, 1.681.469</li>
       <li>PART: nicht, keine</li>
-      <li>PRON: sie, die, diese, dieser, der, keine, ihr, meine, alle, beiden</li>
+      <li>PRON: sie, die, diese, dieser, der, keine, ihr, alle, beiden, eine</li>
       <li>PROPN: SPD, Mark, Universität, Schweiz, US, Maria, DDR, Deutschen, CDU, Straße</li>
       <li>PUNCT: →</li>
       <li>SYM: °</li>
@@ -268,13 +268,13 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
       <li>AUX: sind, wurden, werden, waren, haben, können, sollen, hatten, konnten, müssen</li>
       <li>AUX-Fin: sind, wurden, werden, waren, haben, können, sollen, hatten, konnten, müssen</li>
       <li>CCONJ: od, uns</li>
-      <li>DET: die, den, der, seine, ihre, viele, seinen, vielen, deren, seiner</li>
+      <li>DET: die, den, der, seine, ihre, seinen, viele, ihren, vielen, seiner</li>
+      <li>DET-Fin: meinen</li>
       <li>NOUN: Jahren, Jahre, Menschen, %, km, Prozent, Kinder, m, Einwohner, Millionen</li>
       <li>NOUN-Fin: Balken, Bin, Familien, belangen, besten, erschienen, finden, folgten, geben, ha</li>
       <li>NUM: Millionen, zweier, 10, 1, 100, 15, 20, 40, 400, 630</li>
       <li>PART: nicht</li>
       <li>PRON: die, sie, sich, wir, alle, diese, beiden, uns, einige, mehrere</li>
-      <li>PRON-Fin: meinen</li>
       <li>PROPN: USA, US, Olympischen, Staaten, Euro, Spielen, Vereinigten, Grünen, EU, Mark</li>
       <li>PROPN-Fin: sind, Roden, Verden, ausnutzen, ficken, kommen, machen, treten</li>
       <li>SCONJ-Fin: sonden</li>
@@ -357,7 +357,7 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
       <li>ADV: allem, anderem, ca, Anfangs, DADURCH, Dort, Ex, Křižanov, PMMA, allen</li>
       <li>AUX: Bin</li>
       <li>CCONJ: et, and, bzw, od, u, uns</li>
-      <li>DET: dem, der, den, einem, einer, seiner, seinem, seinen, ihrer, ihrem</li>
+      <li>DET: dem, der, den, einem, einer, seiner, seinem, ihrem, seinen, ihrer</li>
       <li>NOUN: Jahr, Jahren, Zeit, Jahre, Saison, Ende, Familie, Teil, Ort, Seite</li>
       <li>NUM: einer, einem, 1:1, 24., 8, Millionen, ², +7,6, -10, -2288,9</li>
       <li>PART: nicht</li>
@@ -379,10 +379,10 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
       <li>ADP: Mittels, Pro, der, dieses, dominierten, namens, of</li>
       <li>ADV: Abends, NIE, Zügig, längerer</li>
       <li>CCONJ: and, und, e</li>
-      <li>DET: der, des, eines, einer, seiner, dessen, deren, seines, ihrer, ihres</li>
+      <li>DET: der, des, eines, einer, seiner, dessen, seines, deren, ihrer, ihres</li>
       <li>NOUN: Stadt, Jahre, Jahres, Zeit, Landes, Gemeinde, Familie, Bevölkerung, Vaters, Saison</li>
       <li>NUM: zweier, 7, 1846-1925, 35, 50, Mio, dreier, einer</li>
-      <li>PRON: dieser, der, aller, dieses, des, beiden, deren, seiner, dessen, meiner</li>
+      <li>PRON: dieser, der, aller, dieses, des, beiden, deren, dessen, mehrerer, vieler</li>
       <li>PROPN: Deutschen, US, Deutschlands, Ersten, Europäischen, Weltkrieges, Zweiten, St., Weltkriegs, Frankreichs</li>
       <li>PUNCT: ·</li>
       <li>VERB: Repariert, Sagen, angebotenen, beherrschten, erweiterten, gefüllten, geleisteter, großen, produzierten, stationierten</li>
@@ -399,7 +399,7 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
       <li>ADV: SEHR, alles, super, Allzeit, ECHT, Gottlob, Nahe, Rääts, Vorallem, aka</li>
       <li>AUX: Hab, Bin, wir</li>
       <li>CCONJ: and, bzw</li>
-      <li>DET: die, der, das, ein, eine, sein, seine, ihre, ihr, viele</li>
+      <li>DET: die, der, das, ein, eine, sein, seine, ihre, mein, ihr</li>
       <li>NOUN: Teil, Sohn, Mitglied, Stadt, Menschen, Ort, Gemeinde, Frau, Unternehmen, Präsident</li>
       <li>NUM: ein, 5., 6., 10, Millionen, 20, 28, 35, 6, eine</li>
       <li>PART: 's, ;-), keine</li>
@@ -455,10 +455,10 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
   <li>Neg
     <ul>
       <li>ADV: keineswegs, nicht</li>
-      <li>DET: keine, Keinen, reine</li>
+      <li>DET: keine, Keinen, meiner, reine</li>
       <li>NOUN: Nicht</li>
       <li>PART: nicht, garnicht, nich, keine, keinerlei</li>
-      <li>PRON: keine, kein, keinen, keinem, keiner, keinerlei, keines, meiner</li>
+      <li>PRON: keine, kein, keinen, keinem, keiner, keinerlei, keines</li>
       <li>PROPN: nicht</li>
     </ul>
   </li>
@@ -492,9 +492,9 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
       <li>ADV-Fin: kennen, aussen, bevorzugt, herausstellte, scheint, ﻿Auch</li>
       <li>AUX-Fin: ist, wurde, war, sind, wird, wurden, kann, hat, werden, waren</li>
       <li>CCONJ-Fin: bzw, hatte, ﻿Um</li>
+      <li>DET-Fin: meinen</li>
       <li>NOUN-Fin: mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</li>
       <li>PART-Fin: einnahm, auflief, wehe</li>
-      <li>PRON-Fin: meinen</li>
       <li>PROPN-Fin: ist, sind, 1st, Gibt, Glaube, Leuchten, Sankt, Verden, ausnutzen, bru</li>
       <li>PUNCT-Fin: wurde</li>
       <li>VERB-Fin: wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</li>
@@ -544,9 +544,9 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
       <li>ADJ-Fin: weiß, automatisiert, beanspruchten, beinhaltet, beplankt, beteiligt, betreuten, bewirtschaftet, duale, entworfenen</li>
       <li>ADV-Fin: kennen, aussen, bevorzugt, scheint</li>
       <li>AUX-Fin: ist, sind, wird, kann, hat, werden, haben, habe, können, sei</li>
+      <li>DET-Fin: meinen</li>
       <li>NOUN-Fin: mag, Jahrhundert, Balken, Bin, Erbvogt, Familien, Gemüt, Komme, Liegt, Lohnt</li>
       <li>PART-Fin: wehe</li>
-      <li>PRON-Fin: meinen</li>
       <li>PROPN-Fin: ist, sind, 1st, Gibt, Glaube, Kemble, Roden, Sankt, Verden, ausnutzen</li>
       <li>SCONJ-Fin: sonden</li>
       <li>VERB-Fin: gibt, hat, liegt, befindet, ist, besteht, gehört, steht, kommt, geht</li>
@@ -636,7 +636,7 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
     <ul>
       <li>DET: keine, Keinen, reine</li>
       <li>PART: keine, keinerlei</li>
-      <li>PRON: keine, kein, keinen, keinem, keiner, keinerlei, keines, meiner, nichts</li>
+      <li>PRON: keine, kein, keinen, keinem, keiner, keinerlei, keines, nichts</li>
     </ul>
   </li>
 </ul>
@@ -648,7 +648,8 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
       <li>ADV: einander</li>
       <li>AUX: Bin, wir</li>
       <li>CCONJ: uns</li>
-      <li>DET: ihr, meinen, rot</li>
+      <li>DET: seine, seiner, sein, ihre, seinen, seinem, ihren, ihrer, ihrem, seines</li>
+      <li>DET-Fin: meinen</li>
       <li>PART: 's</li>
       <li>PRON: er, sich, es, sie, ich, wir, ihm, ihn, uns, mir</li>
       <li>X: 's, er, :-)</li>
@@ -703,10 +704,10 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
 <ul>
   <li>Yes
     <ul>
-      <li>DET: seine, seiner, sein, ihre, seinen, seinem, ihrer, ihren, ihr, seines</li>
-      <li>NOUN: Meinen, seiner</li>
-      <li>PRON: meine, seine, unsere, ihre, mein, ihren, meiner, seiner, sein, meinem</li>
-      <li>PROPN: mein, Unser, dein, Meine, SC, SYNODUS, Seine, unserer</li>
+      <li>DET: seine, seiner, sein, ihre, seinen, seinem, ihren, ihrer, ihr, ihrem</li>
+      <li>DET-Fin: meinen</li>
+      <li>PRON: ihr, euren, eurer, deren, meiner</li>
+      <li>PROPN: SC, SYNODUS</li>
     </ul>
   </li>
 </ul>
@@ -737,7 +738,8 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
       <li>AUX-Fin: habe, haben, bin, kann, sind, war, werden, werde, hatte, waren</li>
       <li>CCONJ: hatte, uns</li>
       <li>CCONJ-Fin: hatte</li>
-      <li>DET: meinen</li>
+      <li>DET: meine, unsere, mein, meiner, meinem, unser, meinen, unserer, unserem, unseren</li>
+      <li>DET-Fin: meinen</li>
       <li>NOUN-Fin: ha</li>
       <li>PART-Fin: wehe</li>
       <li>PRON: ich, wir, uns, mir, mich, dBm, i</li>
@@ -753,7 +755,7 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
     <ul>
       <li>ADP: üer</li>
       <li>AUX-Fin: bist, habt, hast, kannst, müsst, seid, sollst, werdet, wirst</li>
-      <li>DET: ihr</li>
+      <li>DET: deinen, dein, ihr</li>
       <li>PRON: du, ihr, euch, Dir, dich</li>
       <li>VERB-Fin: Siehe, gebt, gehst, kommst, laßt, machst, weißt, Brecht, Hast, ISST</li>
     </ul>
@@ -770,12 +772,11 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
       <li>AUX: ist, wurde, war, sind, wird, wurden, hat, werden, kann, waren</li>
       <li>AUX-Fin: ist, wurde, war, sind, wird, wurden, hat, werden, kann, waren</li>
       <li>CCONJ-Fin: bzw, ﻿Um</li>
-      <li>DET: ihr, rot</li>
+      <li>DET: seine, seiner, sein, ihre, seinen, seinem, ihren, ihrer, ihrem, seines</li>
       <li>NOUN-Fin: mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</li>
       <li>PART: einnahm, 's, auflief</li>
       <li>PART-Fin: einnahm, auflief</li>
       <li>PRON: er, sich, sie, es, ihm, ihn, ihnen, ihr, 's, s</li>
-      <li>PRON-Fin: meinen</li>
       <li>PROPN-Fin: ist, sind, 1st, Gibt, Kemble, Leuchten, Roden, Sankt, ausnutzen, bru</li>
       <li>PUNCT-Fin: wurde</li>
       <li>SCONJ-Fin: sonden</li>
@@ -787,7 +788,38 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
 </ul>
 
 
+<ul>
+  <li><a>Gender[psor]</a></li>
+</ul>
 
+<ul>
+  <li>Masc,Neut
+    <ul>
+      <li>DET: seine, seiner, sein, seinen, seinem, seines</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: unsere, unser, unserer, unserem, unseren, unseres</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: seine, seiner, sein, seinen, seinem, seines, meine, mein, meiner, meinem</li>
+      <li>DET-Fin: meinen</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
@@ -817,7 +849,7 @@ The German UD conforms to the UD guidelines, but there are some exceptions.
           <li>ADP: in, de, a, För, om, per</li>
           <li>ADV: Please, always, ca, inte, socially, up, wahnsinning, yonder</li>
           <li>CCONJ: and, et, an, bzw, i, or, ou, u</li>
-          <li>DET: The, alla, dessa</li>
+          <li>DET: The, alla, dessa, Seine</li>
           <li>NOUN: Bass, Top, facto, Arrondissement, Armée, Atun, Chief, City, Dirigent, Drücklok</li>
           <li>PROPN: of, de, the, University, la, d', for, You, di, a</li>
           <li>SCONJ: att</li>
@@ -879,7 +911,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (55)</li>
       <li>VERB-Fin--PRON-Dat (6)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Fin--PRON-Nom (4074)</li>
+      <li>VERB-Fin--PRON-Nom (4073)</li>
       <li>VERB-Inf--NOUN (4)</li>
       <li>VERB-Inf--NOUN-Acc (45)</li>
       <li>VERB-Inf--NOUN-Dat (2)</li>
@@ -929,14 +961,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Dat (17)</li>
       <li>VERB-Inf--NOUN-Gen (4)</li>
       <li>VERB-Inf--NOUN-Nom (86)</li>
-      <li>VERB-Inf--PRON (32)</li>
+      <li>VERB-Inf--PRON (33)</li>
       <li>VERB-Inf--PRON-Acc (319)</li>
       <li>VERB-Inf--PRON-Dat (9)</li>
       <li>VERB-Inf--PRON-Nom (16)</li>
       <li>VERB-Part--NOUN (3)</li>
-      <li>VERB-Part--NOUN-Acc (441)</li>
+      <li>VERB-Part--NOUN-Acc (442)</li>
       <li>VERB-Part--NOUN-Acc-ADP(für) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(mit) (1)</li>
       <li>VERB-Part--NOUN-Dat (7)</li>
       <li>VERB-Part--NOUN-Nom (52)</li>
       <li>VERB-Part--PRON (11)</li>

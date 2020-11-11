@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-65 nodes (6%) are attached to their parents as `obj`.
+76 nodes (6%) are attached to their parents as `obj`.
 
-42 instances of `obj` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.56923076923077.
+50 instances of `obj` (66%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.47368421052632.
 
-The following 4 pairs of parts of speech are connected with `obj`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (46; 71% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (17; 26% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (51; 67% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (22; 29% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

@@ -30,7 +30,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="pt_gsd-pos-ADV.html
 `PROPN` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>Não</em>
-* `EMPTY` (32942): <em>feira, Brasil, São, Paulo, rio, Estado, Nacional, Federal, janeiro, quinta</em>
+* `EMPTY` (32931): <em>feira, Brasil, São, Paulo, rio, Estado, Nacional, Federal, janeiro, quinta</em>
 
 ### `NOUN`
 
@@ -39,5 +39,5 @@ The feature is used with 3 part-of-speech tags: <tt><a href="pt_gsd-pos-ADV.html
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>não</em>
-* `EMPTY` (56315): <em>anos, ano, dia, r, presidente, pessoas, acordo, cidade, governo, tempo</em>
+* `EMPTY` (56316): <em>anos, ano, dia, r, presidente, pessoas, acordo, cidade, governo, tempo</em>
 

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 27661 tokens (39%) have a non-empty value of `Gender`.
 6132 types (65%) occur at least once with a non-empty value of `Gender`.
-4397 lemmas (65%) occur at least once with a non-empty value of `Gender`.
+4395 lemmas (65%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 9 part-of-speech tags: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14317; 20% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (5885; 8% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (3001; 4% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2195; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1438; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (813; 1% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>patients</em></td><td><em>patientes</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (2725) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (2723) occur only with one value of `Gender`.
 
 ### `DET`
 

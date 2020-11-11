@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-255 nodes (20%) are attached to their parents as `punct`.
+307 nodes (20%) are attached to their parents as `punct`.
 
-155 instances of `punct` (61%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.13725490196078.
+188 instances of `punct` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.13029315960912.
 
-The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (181; 71% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (26; 10% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (25; 10% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (7; 3% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (6; 2% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances), <tt><a href="mdf_jr-pos-PART.html">PART</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (219; 71% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (33; 11% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (30; 10% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (9; 3% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (6; 2% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (6; 2% instances), <tt><a href="mdf_jr-pos-PART.html">PART</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances).
 
 
 ~~~ conllu

@@ -43,5 +43,5 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Sup` (1; 100% of non-empty `Degree`): <em>kendastur</em>
-* `EMPTY` (1539): <em>er, eru, var, hevur, vóru, varð, verður, býr, kom, liggur</em>
+* `EMPTY` (560): <em>býr, hevur, liggur, Sí, kom, eru, fer, fór, er, stendur</em>
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: POS Tags: `NUM`
 
 There are 28 `NUM` lemmas (5%), 29 `NUM` types (4%) and 50 `NUM` tokens (4%).
-Out of 15 observed tags, the rank of `NUM` is: 5 in number of lemmas, 6 in number of types and 11 in number of tokens.
+Out of 15 observed tags, the rank of `NUM` is: 5 in number of lemmas, 6 in number of types and 10 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>сизим, дас, куим, кык, вит, десятой, мӧд, нёль, сорок, Девять</em>
 

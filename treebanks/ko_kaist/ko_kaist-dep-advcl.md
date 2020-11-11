@@ -38,7 +38,7 @@ The following 63 pairs of parts of speech are connected with `advcl`: <tt><a hre
 14	때	때	NOUN	ncn	_	16	compound	_	_
 15	그	그	DET	mmd	_	16	det	_	_
 16	서울이	서울+이	PROPN	nq+jcs	_	17	nsubj	_	_
-17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	_
+17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	sf	_	17	punct	_	_
 
 ~~~
@@ -56,12 +56,12 @@ The following 63 pairs of parts of speech are connected with `advcl`: <tt><a hre
 4	볶고	볶+고	VERB	pvg+ecx	_	7	ccomp	_	_
 5	나서는	나+서+는	NOUN	px+ecs+jxt	_	4	aux	_	_
 6	잡아	잡+아	SCONJ	pvg+ecs	_	7	ccomp	_	_
-7	먹고	먹+고	CCONJ	pvg+ecc	_	0	root	_	_
+7	먹고	먹+고	CCONJ	pvg+ecc	_	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	sp	_	7	punct	_	_
 9	그것으로	그것+으로	ADV	npd+jca	_	10	advcl	_	_
 10	부족하니까	부족+하+니까	SCONJ	ncps+xsm+ecs	_	13	xcomp	_	_
 11	파묻고	파묻+고	CCONJ	pvg+ecc	_	7	conj	_	_
-12	밟습니다	밟+습니다	VERB	pvg+ef	_	11	conj	_	_
+12	밟습니다	밟+습니다	VERB	pvg+ef	_	11	conj	_	SpaceAfter=No
 13	.	.	PUNCT	sf	_	11	conj	_	_
 
 ~~~
@@ -75,7 +75,7 @@ The following 63 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 3 2 advcl	color:blue
 1	서울에는	서울+에+는	PROPN	nq+jca+jxt	_	3	dislocated	_	_
 2	다리도	다리+도	ADV	ncn+jxc	_	3	advcl	_	_
-3	많았습니다	많+았+습니다	ADJ	paa+ep+ef	_	0	root	_	_
+3	많았습니다	많+았+습니다	ADJ	paa+ep+ef	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	sf	_	3	punct	_	_
 
 ~~~

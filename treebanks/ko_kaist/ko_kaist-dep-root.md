@@ -24,7 +24,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 3 root	color:blue
 1	내	내	ADJ	mma	_	2	amod	_	_
 2	고향은	고향+은	NOUN	ncn+jxt	_	3	dislocated	_	_
-3	서울입니다	서울+이+ㅂ니다	VERB	nq+jp+ef	_	0	root	_	_
+3	서울입니다	서울+이+ㅂ니다	VERB	nq+jp+ef	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	sf	_	3	punct	_	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 8	문을	문+을	NOUN	ncn+jco	_	11	obj	_	_
 9	여덟	여덟	NUM	nnc	_	10	nummod	_	_
 10	개나	개+나	ADV	nbu+jxc	_	11	advcl	_	_
-11	세웠지요	세우+었+지요	VERB	pvg+ep+ef	_	3	conj	_	_
+11	세웠지요	세우+었+지요	VERB	pvg+ep+ef	_	3	conj	_	SpaceAfter=No
 12	.	.	PUNCT	sf	_	11	punct	_	_
 
 ~~~
@@ -62,7 +62,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 2	서울의	서울+의	PROPN	nq+jcm	_	3	nmod	_	_
 3	모습이	모습+이	NOUN	ncn+jcs	_	5	nsubj	_	_
 4	몹시	몹시	ADV	mag	_	5	advmod	_	_
-5	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	_
+5	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	sf	_	5	punct	_	_
 
 ~~~

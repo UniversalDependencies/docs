@@ -31,10 +31,10 @@ The following 55 pairs of parts of speech are connected with `cc`: <tt><a href="
 7	tus	tu	DET	DET	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	8	det	_	_
 8	nombres	nombre	NOUN	NOUN	Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	PunctType=Comm	5	punct	_	_
-10	nos	yo	PRON	PRON	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	11	iobj	_	_
+10	nos	yo	PRON	PRON	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	11	iobj	_	_
 11	dejaste	dejar	VERB	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 12	tutear	tutear	VERB	VERB	VerbForm=Inf	11	xcomp	_	_
-13	te	tú	PRON	PRON	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	12	obj	_	_
+13	te	tú	PRON	PRON	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	12	obj	_	_
 14	.	.	PUNCT	PUNCT	PunctType=Peri	11	punct	_	_
 
 ~~~

@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  அதில் (<tt><a href="ta_ttb-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.600000 (the average of all parts of speech is 1.558463).
+The form / lemma ratio of `PRON` is 2.600000 (the average of all parts of speech is 1.576386).
 
 The 1st highest number of forms (8) was observed with the lemma “அவர்”: அவரது, அவருக்கு, அவருக்குப், அவர், அவர்களது, அவர்களுக்கு, அவர்களை, அவர்கள்.
 
@@ -54,7 +54,7 @@ Examples: அவர், இவர்
 
 `PRON` nodes are attached to their parents using 7 different relations: <tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt> (107; 45% instances), <tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt> (58; 25% instances), <tt><a href="ta_ttb-dep-obj.html">obj</a></tt> (28; 12% instances), <tt><a href="ta_ttb-dep-obl.html">obl</a></tt> (23; 10% instances), <tt><a href="ta_ttb-dep-obl-arg.html">obl:arg</a></tt> (17; 7% instances), <tt><a href="ta_ttb-dep-iobj.html">iobj</a></tt> (2; 1% instances), <tt><a href="ta_ttb-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 10 different parts of speech: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (153; 65% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (61; 26% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (9; 4% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `PRON` nodes belong to 11 different parts of speech: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (156; 66% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (61; 26% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances)
 
 190 (81%) `PRON` nodes are leaves.
 
@@ -66,7 +66,7 @@ Parents of `PRON` nodes belong to 10 different parts of speech: <tt><a href="ta_
 
 The highest child degree of a `PRON` node is 5.
 
-Children of `PRON` nodes are attached using 9 different relations: <tt><a href="ta_ttb-dep-case.html">case</a></tt> (21; 38% instances), <tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt> (11; 20% instances), <tt><a href="ta_ttb-dep-advmod-emph.html">advmod:emph</a></tt> (8; 14% instances), <tt><a href="ta_ttb-dep-punct.html">punct</a></tt> (6; 11% instances), <tt><a href="ta_ttb-dep-amod.html">amod</a></tt> (5; 9% instances), <tt><a href="ta_ttb-dep-mark.html">mark</a></tt> (2; 4% instances), <tt><a href="ta_ttb-dep-csubj.html">csubj</a></tt> (1; 2% instances), <tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="ta_ttb-dep-obl.html">obl</a></tt> (1; 2% instances)
+Children of `PRON` nodes are attached using 10 different relations: <tt><a href="ta_ttb-dep-case.html">case</a></tt> (21; 38% instances), <tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt> (11; 20% instances), <tt><a href="ta_ttb-dep-advmod-emph.html">advmod:emph</a></tt> (8; 14% instances), <tt><a href="ta_ttb-dep-punct.html">punct</a></tt> (6; 11% instances), <tt><a href="ta_ttb-dep-amod.html">amod</a></tt> (3; 5% instances), <tt><a href="ta_ttb-dep-acl.html">acl</a></tt> (2; 4% instances), <tt><a href="ta_ttb-dep-mark.html">mark</a></tt> (2; 4% instances), <tt><a href="ta_ttb-dep-csubj.html">csubj</a></tt> (1; 2% instances), <tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="ta_ttb-dep-obl.html">obl</a></tt> (1; 2% instances)
 
-Children of `PRON` nodes belong to 8 different parts of speech: <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (21; 38% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (11; 20% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (10; 18% instances), <tt><a href="ta_ttb-pos-PUNCT.html">PUNCT</a></tt> (6; 11% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (5; 9% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `PRON` nodes belong to 8 different parts of speech: <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (21; 38% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (11; 20% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (10; 18% instances), <tt><a href="ta_ttb-pos-PUNCT.html">PUNCT</a></tt> (6; 11% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 

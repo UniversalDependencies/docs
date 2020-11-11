@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Tamil-TTB: POS Tags: `ADV`
 
-There are 146 `ADV` lemmas (6%), 159 `ADV` types (4%) and 381 `ADV` tokens (4%).
+There are 149 `ADV` lemmas (6%), 162 `ADV` types (4%) and 384 `ADV` tokens (4%).
 Out of 14 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: ஆகு, இன்று, மேலும், ஆனால், பின்னர், இதனால், இது, இதுகுறித்து, ஏற்கெனவே, இதுவரை
 
 The 10 most frequent `ADV` types:  ஆக, இன்று, மேலும், ஆனால், பின்னர், இதனால், இதுகுறித்து, ஏற்கெனவே, இதுவரை, எனவே
 
-The 10 most frequent ambiguous lemmas: ஆகு (<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> 40, <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 37, <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 29, <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> 5, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 1), இன்று (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 18, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 3), ஆனால் (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 13, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 2), பின்னர் (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 1), இது (<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> 30, <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 9, <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 3), தொடர் (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 7, <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 3, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 1), ஆக (<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> 59, <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 3), இணை (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 1), சேர் (<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 1), முறை (<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 5)
+The 10 most frequent ambiguous lemmas: ஆகு (<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> 40, <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 37, <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 29, <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> 5, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 3), இன்று (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 18, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 3), ஆனால் (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 13, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 2), பின்னர் (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 1), இது (<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> 30, <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 9, <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 3), தொடர் (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 7, <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 3, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 1), ஆக (<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> 59, <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 3), இணை (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 1), சேர் (<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 2), முறை (<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 5)
 
 The 10 most frequent ambiguous types:  ஆக (<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> 64, <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 35, <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 31), இன்று (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 18, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 3), ஆனால் (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 13, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 2), பின்னர் (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 10, <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 1), தொடர்ந்து (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 7, <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 3, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 2), இணைந்து (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 1), சேர்ந்து (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> 1), இதில் (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> 2), அதற்கு (<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> 1), ஆகக் (<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> 5, <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> 2)
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  ஆக (<tt><a href="ta_ttb-pos-PART.html
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.089041 (the average of all parts of speech is 1.558463).
+The form / lemma ratio of `ADV` is 1.087248 (the average of all parts of speech is 1.576386).
 
 The 1st highest number of forms (3) was observed with the lemma “ஆகு”: ஆக, ஆகக், ஆகப்.
 
@@ -63,26 +63,32 @@ The 2nd highest number of forms (3) was observed with the lemma “இது”:
 
 The 3rd highest number of forms (2) was observed with the lemma “அங்கு”: அங்கு, அங்கே.
 
-`ADV` does not occur with any features.
+`ADV` occurs with 3 features: <tt><a href="ta_ttb-feat-Polarity.html">Polarity</a></tt> (2; 1% instances), <tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt> (2; 1% instances), <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt> (2; 1% instances)
+
+`ADV` occurs with 3 feature-value pairs: `Polarity=Pos`, `Tense=Fut`, `VerbForm=Part`
+
+`ADV` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (382 tokens).
+Examples: ஆக, இன்று, மேலும், ஆனால், பின்னர், இதனால், இதுகுறித்து, ஏற்கெனவே, இதுவரை, எனவே
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 4 different relations: <tt><a href="ta_ttb-dep-advmod.html">advmod</a></tt> (377; 99% instances), <tt><a href="ta_ttb-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="ta_ttb-dep-advmod-emph.html">advmod:emph</a></tt> (1; 0% instances), <tt><a href="ta_ttb-dep-case.html">case</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 5 different relations: <tt><a href="ta_ttb-dep-advmod.html">advmod</a></tt> (373; 97% instances), <tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt> (7; 2% instances), <tt><a href="ta_ttb-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="ta_ttb-dep-advmod-emph.html">advmod:emph</a></tt> (1; 0% instances), <tt><a href="ta_ttb-dep-case.html">case</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 7 different parts of speech: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (305; 80% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (39; 10% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (24; 6% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 7 different parts of speech: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (320; 83% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (27; 7% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (24; 6% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-310 (81%) `ADV` nodes are leaves.
+311 (81%) `ADV` nodes are leaves.
 
 65 (17%) `ADV` nodes have one child.
 
-4 (1%) `ADV` nodes have two children.
+5 (1%) `ADV` nodes have two children.
 
-2 (1%) `ADV` nodes have three or more children.
+3 (1%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 5.
 
-Children of `ADV` nodes are attached using 11 different relations: <tt><a href="ta_ttb-dep-obl.html">obl</a></tt> (36; 44% instances), <tt><a href="ta_ttb-dep-amod.html">amod</a></tt> (11; 13% instances), <tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt> (11; 13% instances), <tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt> (9; 11% instances), <tt><a href="ta_ttb-dep-advmod.html">advmod</a></tt> (5; 6% instances), <tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt> (4; 5% instances), <tt><a href="ta_ttb-dep-obl-arg.html">obl:arg</a></tt> (2; 2% instances), <tt><a href="ta_ttb-dep-advmod-emph.html">advmod:emph</a></tt> (1; 1% instances), <tt><a href="ta_ttb-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="ta_ttb-dep-nummod.html">nummod</a></tt> (1; 1% instances), <tt><a href="ta_ttb-dep-punct.html">punct</a></tt> (1; 1% instances)
+Children of `ADV` nodes are attached using 14 different relations: <tt><a href="ta_ttb-dep-obl.html">obl</a></tt> (36; 41% instances), <tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt> (11; 13% instances), <tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt> (10; 11% instances), <tt><a href="ta_ttb-dep-amod.html">amod</a></tt> (10; 11% instances), <tt><a href="ta_ttb-dep-advmod.html">advmod</a></tt> (5; 6% instances), <tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt> (4; 5% instances), <tt><a href="ta_ttb-dep-mark.html">mark</a></tt> (2; 2% instances), <tt><a href="ta_ttb-dep-nummod.html">nummod</a></tt> (2; 2% instances), <tt><a href="ta_ttb-dep-obl-arg.html">obl:arg</a></tt> (2; 2% instances), <tt><a href="ta_ttb-dep-advmod-emph.html">advmod:emph</a></tt> (1; 1% instances), <tt><a href="ta_ttb-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="ta_ttb-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="ta_ttb-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="ta_ttb-dep-punct.html">punct</a></tt> (1; 1% instances)
 
-Children of `ADV` nodes belong to 10 different parts of speech: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (39; 48% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (11; 13% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (9; 11% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (6; 7% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (5; 6% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (4; 5% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="ta_ttb-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances)
+Children of `ADV` nodes belong to 10 different parts of speech: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (40; 46% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (11; 13% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (10; 11% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (6; 7% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (5; 6% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (5; 6% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (4; 5% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="ta_ttb-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances)
 

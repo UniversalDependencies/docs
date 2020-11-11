@@ -58,7 +58,7 @@ The following 16 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2 1 amod	color:blue
 1	Guovtti	guokte	NUM	Num	Case=Loc|Number=Sing|NumType=Card	2	amod	_	_
 2	diimmus	diibmu	NOUN	N	Case=Loc|Number=Sing	4	obl	_	_
-3	ii	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	4	aux:neg	_	_
+3	ii	ii	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	4	aux:neg	_	_
 4	ollen	ollet	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 5	báljo	báljo	ADV	Adv	_	4	advmod	_	_
 6	maidege	mihkkege	PRON	Pron	Case=Acc|Number=Sing|PronType=Ind	4	obj	_	SpaceAfter=No

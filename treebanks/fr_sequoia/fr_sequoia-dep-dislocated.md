@@ -66,7 +66,7 @@ The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	exprimer	exprimer	VERB	_	VerbForm=Inf	13	dislocated	_	_
 4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	enfants	enfant	NOUN	_	Number=Plur	3	obj:agent	_	_
-6	à	à	ADP	_	_	9	case	_	EXTPOS=ADP|MWE=à_travers
+6	à	à	ADP	_	_	9	case	_	ExtPos=ADP
 7	travers	travers	NOUN	_	Gender=Masc	6	fixed	_	_
 8	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
 9	activité	activité	NOUN	_	Gender=Fem|Number=Sing	3	obl:mod	_	SpaceAfter=No

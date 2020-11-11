@@ -8,39 +8,26 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="et_ewt-dep-cc.html">cc</a></tt>.
 
-13 nodes (0%) are attached to their parents as `cc:preconj`.
+14 nodes (0%) are attached to their parents as `cc:preconj`.
 
-13 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.30769230769231.
+14 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28571428571429.
 
-The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (6; 46% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (3; 23% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 15% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 8% instances).
+The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (7; 50% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (3; 21% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 14% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 cc:preconj	color:blue
-1	Kooli	kool	NOUN	S	Case=Gen|Number=Sing	2	nmod	2:nmod	_
-2	esindajatena	esindaja	NOUN	S	Case=Ess|Number=Plur	3	obl	3:obl	_
-3	olid	olema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	kohal	kohal	ADV	D	_	3	compound:prt	3:compound	_
-5	nii	nii	ADV	D	_	6	cc:preconj	6:cc	_
-6	tudengid	tudeng	NOUN	S	Case=Nom|Number=Plur	3	nsubj	3:nsubj	SpaceAfter=No
-7	,	,	PUNCT	Z	_	9	punct	9:punct	_
-8	kooli	kool	NOUN	S	Case=Gen|Number=Sing	9	nmod	9:nmod	_
-9	töötajad	töötaja	NOUN	S	Case=Nom|Number=Plur	6	conj	6:conj	_
-10	kui	kui	CCONJ	J	_	18	cc	18:cc	_
-11	ka	ka	ADV	D	_	18	advmod	18:advmod	_
-12	praeguseks	praegune	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	16	obl	16:obl	_
-13	juba	juba	ADV	D	_	16	advmod	16:advmod	_
-14	erialast	eri_alane	ADJ	A	Case=Par|Degree=Pos|Number=Sing	15	amod	15:amod	_
-15	tööd	töö	NOUN	S	Case=Par|Number=Sing	16	obj	16:obj	_
-16	tegevad	tegev	ADJ	A	Case=Nom|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	acl	18:acl	_
-17	kooli	kool	NOUN	S	Case=Gen|Number=Sing	18	nmod	18:nmod	_
-18	vilistlased	vilistlane	NOUN	S	Case=Nom|Number=Plur	9	advcl	9:advcl	SpaceAfter=No
-19	.	.	PUNCT	Z	_	3	punct	3:punct	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 cc:preconj	color:blue
+1	nii	nii	ADV	D	_	2	cc:preconj	2:cc	_
+2	nakatunute	nakatu=nu	NOUN	S	Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	5	nmod	5:nmod	_
+3	kui	kui	CCONJ	J	_	4	cc	4:cc	_
+4	surmade	surm	NOUN	S	Case=Gen|Number=Plur	2	conj	2:conj	_
+5	arvu	arv	NOUN	S	Case=Gen|Number=Sing	0	root	0:root	_
+6	poolest	poolest	ADP	K	AdpType=Post	5	case	5:case	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-flat.html">flat</a></tt>.
 
-7 nodes (1%) are attached to their parents as `flat:name`.
+9 nodes (1%) are attached to their parents as `flat:name`.
 
-7 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+9 instances of `flat:name` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (3; 43% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (3; 43% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 14% instances).
+The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (5; 56% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (3; 33% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 11% instances).
 
 
 ~~~ conllu

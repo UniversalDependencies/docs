@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `advmod:tmod`
 
 This relation is a language-specific subtype of <tt><a href="koi_uh-dep-advmod.html">advmod</a></tt>.
-There are also 2 other language-specific subtypes of `advmod`: <tt><a href="koi_uh-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="koi_uh-dep-advmod-mmod.html">advmod:mmod</a></tt>.
+There are also 3 other language-specific subtypes of `advmod`: <tt><a href="koi_uh-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="koi_uh-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="koi_uh-dep-advmod-mmod.html">advmod:mmod</a></tt>.
 
-24 nodes (3%) are attached to their parents as `advmod:tmod`.
+27 nodes (3%) are attached to their parents as `advmod:tmod`.
 
-16 instances of `advmod:tmod` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.70833333333333.
+19 instances of `advmod:tmod` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.74074074074074.
 
-The following 5 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (20; 83% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (23; 85% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

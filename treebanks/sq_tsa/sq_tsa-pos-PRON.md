@@ -39,13 +39,13 @@ The 2nd highest number of forms (4) was observed with the lemma “ky”: <em>Ky
 
 The 3rd highest number of forms (3) was observed with the lemma “ata”: <em>atyre, tyre, u</em>.
 
-`PRON` occurs with 5 features: <tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt> (52; 98% instances), <tt><a href="sq_tsa-feat-Number.html">Number</a></tt> (52; 98% instances), <tt><a href="sq_tsa-feat-PronType.html">PronType</a></tt> (48; 91% instances), <tt><a href="sq_tsa-feat-Poss.html">Poss</a></tt> (6; 11% instances), <tt><a href="sq_tsa-feat-Person.html">Person</a></tt> (3; 6% instances)
+`PRON` occurs with 6 features: <tt><a href="sq_tsa-feat-Case.html">Case</a></tt> (53; 100% instances), <tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt> (52; 98% instances), <tt><a href="sq_tsa-feat-Number.html">Number</a></tt> (52; 98% instances), <tt><a href="sq_tsa-feat-PronType.html">PronType</a></tt> (48; 91% instances), <tt><a href="sq_tsa-feat-Poss.html">Poss</a></tt> (6; 11% instances), <tt><a href="sq_tsa-feat-Person.html">Person</a></tt> (3; 6% instances)
 
-`PRON` occurs with 13 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`
+`PRON` occurs with 18 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`
 
-`PRON` occurs with 29 feature combinations.
-The most frequent feature combination is `Gender=Fem|Number=Sing|PronType=Dem` (6 tokens).
-Examples: <em>Kjo, këtë, atë, kësaj</em>
+`PRON` occurs with 39 feature combinations.
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Plur|PronType=Prs` (4 tokens).
+Examples: <em>Ata, Këto</em>
 
 
 ## Relations

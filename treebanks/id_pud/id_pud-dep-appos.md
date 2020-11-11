@@ -8,80 +8,78 @@ udver: '2'
 
 This relation is universal.
 
-250 nodes (1%) are attached to their parents as `appos`.
+116 nodes (1%) are attached to their parents as `appos`.
 
-249 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.476.
+116 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.91379310344828.
 
-The following 26 pairs of parts of speech are connected with `appos`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (59; 24% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (50; 20% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (45; 18% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (21; 8% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (13; 5% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (9; 4% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (9; 4% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (5; 2% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 10 appos	color:blue
-1	Episode	_	NOUN	NN	_	3	nsubj:pass	_	_
-2	baru	_	ADJ	JJ	_	1	amod	_	_
-3	diikuti	_	VERB	VV	_	0	root	_	SpaceAfter=No
-4	oleh	_	ADP	IN	_	5	case	_	_
-5	acara	_	NOUN	NN	_	3	obl	_	SpaceAfter=No
-6	,	_	PUNCT	,	_	10	punct	_	_
-7	“	_	PUNCT	``	_	10	punct	_	SpaceAfter=No
-8	The	_	DET	DT	_	10	det	_	Proper=True
-9	Talking	_	ADJ	JJ	_	10	amod	_	Proper=True
-10	Dead	_	NOUN	NN	_	5	appos	_	Proper=True|SpaceAfter=No
-11	.	_	PUNCT	.	_	10	punct	_	SpaceAfter=No
-12	”	_	PUNCT	''	_	10	punct	_	_
-
-~~~
+The following 12 pairs of parts of speech are connected with `appos`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (57; 49% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (20; 17% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (15; 13% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (10; 9% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (5; 4% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 appos	color:blue
-1	Kota	_	NOUN	NN	Number=Plur	6	nsubj	_	SpaceAfter=No
-2	-	_	PUNCT	HYPH	_	3	punct	_	SpaceAfter=No
-3	kita	_	NOUN	NN	_	1	compound:plur	_	_
-4	seperti	_	ADP	IN	_	5	mark	_	_
-5	Milan	_	PROPN	NNP	_	1	appos	_	_
-6	bergantung	_	VERB	VV	_	0	root	_	_
-7	pada	_	ADP	IN	_	10	case	_	_
-8	80	_	NUM	CD	_	9	nummod	_	_
-9	persen	_	NOUN	NNB	_	10	clf	_	_
-10	air	_	NOUN	NN	_	6	obl	_	_
-11	dari	_	ADP	IN	_	12	case	_	_
-12	aliran	_	VERB	VV	_	10	nmod	_	SpaceAfter=No
-13	Alpen	_	PROPN	NNP	_	12	compound	_	SpaceAfter=No
-14	.	_	PUNCT	.	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 appos	color:blue
-1	Voucher	_	NOUN	NN	_	2	nsubj:pass	_	_
-2	dihasilkan	_	NOUN	NN	_	0	root	_	SpaceAfter=No
-3	,	_	PUNCT	,	_	4	punct	_	_
-4	yang	_	PRON	PRP	_	1	appos	_	_
-5	bisa	_	ADV	RB	_	6	aux	_	_
-6	disimpan	_	VERB	VV	_	4	acl:relcl	_	_
-7	di	_	ADP	IN	_	8	case	_	_
-8	smartphone	_	NOUN	NN	_	6	obl	_	SpaceAfter=No
-9	,	_	PUNCT	,	_	11	punct	_	_
-10	atau	_	CCONJ	CC	_	11	cc	_	_
-11	diberikan	_	VERB	VV	_	6	conj	_	SpaceAfter=No
-12	di	_	ADP	IN	_	13	case	_	_
-13	kasir	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
-14	.	_	PUNCT	.	_	2	punct	_	_
+# visual-style 4 9 appos	color:blue
+1	Kemudian	kemudian	ADV	_	_	3	advmod	_	_
+2	ia	ia	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	menghadapi	hadap	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	juara	juara	NOUN	_	Number=Sing	3	obj	_	_
+5	bertahan	tahan	VERB	_	Mood=Ind|Voice=Act	4	acl	_	_
+6	dan	dan	CCONJ	_	_	7	cc	_	_
+7	pemain	main	NOUN	_	Number=Sing	4	conj	_	_
+8	top	top	ADJ	_	_	7	amod	_	_
+9	Sara	Sara	PROPN	_	_	4	appos	_	_
+10	Errani	Errani	PROPN	_	_	9	flat:name	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	namun	namun	CCONJ	_	_	13	cc	_	_
+13	kalah	kalah	VERB	_	Mood=Ind|Voice=Act	3	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 appos	color:blue
+1	Dan	dan	CCONJ	_	_	6	cc	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	tentu	tentu	ADV	_	_	6	advmod	_	_
+4	saja	saja	ADV	_	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	ada	ada	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+7	Bob	Bob	PROPN	_	_	6	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	sumber	sumber	NOUN	_	Number=Sing	7	appos	_	_
+10	tetap	tetap	ADJ	_	_	9	amod	_	_
+11	hiburan	hibur	NOUN	_	Number=Sing	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 appos	color:blue
+1	Karya	karya	NOUN	_	Number=Sing	6	nsubj	_	_
+2	nonfiksi	nonfiksi	ADJ	_	_	1	amod	_	_
+3	terakhir	akhir	ADJ	_	Degree=Sup	1	amod	_	_
+4	nya	nya	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
+5	adalah	adalah	AUX	_	_	6	cop	_	_
+6	Margaret	Margaret	PROPN	_	_	0	root	_	_
+7	Douglas	Douglas	PROPN	_	_	6	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	Countess	Countess	PROPN	_	_	6	appos	_	_
+10	of	of	PROPN	_	_	9	flat:name	_	_
+11	Lennox	Lennox	PROPN	_	_	9	flat:name	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

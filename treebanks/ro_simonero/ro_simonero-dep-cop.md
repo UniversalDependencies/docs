@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-183 nodes (1%) are attached to their parents as `cop`.
+1848 nodes (1%) are attached to their parents as `cop`.
 
-171 instances of `cop` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75409836065574.
+1731 instances of `cop` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.77435064935065.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (89; 49% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (60; 33% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (14; 8% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (13; 7% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (867; 47% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (616; 33% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (141; 8% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (111; 6% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (52; 3% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (50; 3% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -39,55 +39,41 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 cop	color:blue
-1	Ularitide	Ularitide	PROPN	Np	_	6	nsubj	_	B-CHEM
-2	/	/	PUNCT	SLASH	AdpType=Prep	1	punct	_	O
-3	uradilatin	uradilatin	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	1	conj	_	B-CHEM
-4	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	O
-5	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	O
-6	peptid	peptid	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	B-CHEM
-7	natriuretic	natriuretic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	I-CHEM
-8	izolat	izola	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	6	acl	_	O
-9	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	O
-10	urina	urină	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	B-ANAT
-11	umană	uman	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	O
-12	.	.	PUNCT	PERIOD	_	6	punct	_	O
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 cop	color:blue
+1	Este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	O
+2	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	O
+3	test	test	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	O
+4	indispensabil	indispensabil	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	O
+5	evaluării	evaluare	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	iobj	_	O
+6	eficacității	eficacitate	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	O
+7	terapiei	terapie	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	O
+8	.	.	PUNCT	PERIOD	_	3	punct	_	O
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 16 cop	color:blue
-1	Dacă	dacă	SCONJ	Csssp	Polarity=Pos	10	mark	_	O
-2	infecțiile	infecție	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	10	nsubj	_	B-DISO
-3	cutanate	cutanat	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	I-DISO
-4	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	O
-5	jurul	jur	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	O
-6	cateterului	cateter	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	O
-7	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	O
-8	ușor	ușor	ADV	Rgp	Degree=Pos	10	advmod	_	O
-9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	O
-10	identificat	identifica	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	15	advcl	_	O
-11	,	,	PUNCT	COMMA	_	10	punct	_	O
-12	cele	acela	PRON	Pd3fpr	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	15	nsubj	_	O
-13	pericateterale	pericateteral	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	12	amod	_	I-DISO
-14	profunde	profund	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	12	amod	_	I-DISO
-15	pot	putea	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
-16	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	19	cop	_	O
-17	destul	destul	ADV	Rgp	Degree=Pos	19	advmod	_	O
-18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	O
-19	greu	greu	ADV	Rgp	Degree=Pos	15	ccomp	_	O
-20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	21	mark	_	O
-21	diagnosticat	diagnostica	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	19	advcl	_	O
-22	.	.	PUNCT	PERIOD	_	15	punct	_	O
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 cop	color:blue
+1	ACO	ACO	NOUN	Yn	Abbr=Yes	4	nsubj	_	B-CHEM
+2	noi	nou	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	1	amod	_	O
+3	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	O
+4	contraindicate	contraindica	VERB	Vmp--pf	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	O
+5	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	O
+6	clearence	clearance	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	O
+7	<	<	PUNCT	LT	_	6	punct	_	O
+8	30	30	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	9	nummod	_	O
+9	ml	ml	NOUN	Yn	Abbr=Yes	4	obl	_	O
+10	/	/	PUNCT	SLASH	AdpType=Prep	9	punct	_	O
+11	min	min	NOUN	Yn	Abbr=Yes	9	nmod	_	O
+12	.	.	PUNCT	PERIOD	_	4	punct	_	O
 
 ~~~
 

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-9317 tokens (1%) have a non-empty value of `Foreign`.
+9318 tokens (1%) have a non-empty value of `Foreign`.
 3670 types (3%) occur at least once with a non-empty value of `Foreign`.
-3487 lemmas (6%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 13 part-of-speech tags: <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (3684; 0% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (2670; 0% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (1813; 0% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (592; 0% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (120; 0% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (119; 0% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (116; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (80; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (60; 0% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (29; 0% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="cs_pdt-pos-INTJ.html">INTJ</a></tt> (6; 0% instances).
+3485 lemmas (6%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 13 part-of-speech tags: <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (3685; 0% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (2670; 0% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (1813; 0% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (592; 0% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (120; 0% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (119; 0% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (116; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (80; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (60; 0% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (29; 0% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="cs_pdt-pos-INTJ.html">INTJ</a></tt> (6; 0% instances).
 
 ### `PROPN`
 
-3684 <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+3685 <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3684; 100%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2905; 79%), <tt><a href="cs_pdt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (2670; 72%), <tt><a href="cs_pdt-feat-NameType.html">NameType</a></tt><tt>=Com</tt> (2512; 68%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2259; 61%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2177; 59%).
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3685; 100%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2905; 79%), <tt><a href="cs_pdt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (2671; 72%), <tt><a href="cs_pdt-feat-NameType.html">NameType</a></tt><tt>=Com</tt> (2512; 68%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2259; 61%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2177; 59%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
-* `Yes` (3684; 100% of non-empty `Foreign`): <em>HZDS, IRA, Floyd, Nature, International, Science, Sinn, Fein, Times, Cup</em>
-* `EMPTY` (80348): <em>Praha, ČR, Praze, LN, ODS, USA, J, Jiří, Jan, OSN</em>
+* `Yes` (3685; 100% of non-empty `Foreign`): <em>HZDS, IRA, Floyd, Nature, International, Science, Sinn, Fein, Times, Cup</em>
+* `EMPTY` (80347): <em>Praha, ČR, Praze, LN, ODS, USA, J, Jiří, Jan, OSN</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1422) occur only with one value of `Foreign`.
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 * `Yes` (2670; 100% of non-empty `Foreign`): <em>New, the, open, US, Pink, la, Le, Deutsche, die, United</em>
 * `EMPTY` (186516): <em>první, další, české, nové, druhé, poslední, státní, dalších, možné, vlastní</em>
 
-`Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (1003) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (1002) occur only with one value of `Foreign`.
 
 ### `NOUN`
 

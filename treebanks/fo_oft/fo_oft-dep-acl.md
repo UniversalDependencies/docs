@@ -45,12 +45,12 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 8 acl	color:blue
 1	Hon	hon	PRON	Pron	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
 3	fyrsta	fyrstur	ADJ	A	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	4	amod	_	_
 4	kvinna	kvinna	NOUN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
 6	sum	sum	PRON	Pron	PronType=Rel	8	nsubj	_	_
-7	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	cop	_	_
+7	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	cop	_	_
 8	stjórnarleiðari	stjórnleiðari	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	acl	_	_
 9	í	í	ADP	Pr	_	10	case	_	_
 10	Íslandi	Ísland	NOUN	N	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
@@ -66,7 +66,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 13	fgColor:white
 # visual-style 13 15 acl	color:blue
 1	Portugisar	portugisi	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	3	nsubj	_	_
-2	vóru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Past	3	cop	_	_
+2	vóru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Past	3	cop	_	_
 3	fyrstir	fyrstur	ADJ	A	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
 4	á	á	ADP	Pr	_	6	case	_	_
 5	nýggja	nýggjur	ADJ	A	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	_
@@ -75,7 +75,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 8	men	men	CCONJ	CC	_	13	cc	_	_
 9	aðrir	annar	ADJ	A	Case=Nom|Gender=Masc|Number=Plur	10	amod	_	_
 10	evropearar	evropeari	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	13	nsubj	_	_
-11	vóru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Past	13	cop	_	_
+11	vóru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Past	13	cop	_	_
 12	ikki	ikki	ADV	Adv	_	13	advmod	_	_
 13	seinir	seinur	ADJ	A	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	3	conj	_	_
 14	at	at	PART	IM	_	15	mark	_	_

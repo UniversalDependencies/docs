@@ -9,18 +9,18 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-1033 tokens (1%) have a non-empty value of `Polarity`.
+1040 tokens (1%) have a non-empty value of `Polarity`.
 153 types (1%) occur at least once with a non-empty value of `Polarity`.
-138 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 10 part-of-speech tags: <tt><a href="en_gum-pos-PART.html">PART</a></tt> (627; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (164; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (87; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (63; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (41; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (30; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (15; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
+137 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 10 part-of-speech tags: <tt><a href="en_gum-pos-PART.html">PART</a></tt> (634; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (164; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (87; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (63; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (41; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (30; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (15; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `PART`
 
-627 <tt><a href="en_gum-pos-PART.html">PART</a></tt> tokens (24% of all `PART` tokens) have a non-empty value of `Polarity`.
+634 <tt><a href="en_gum-pos-PART.html">PART</a></tt> tokens (24% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (627; 100% of non-empty `Polarity`): <em>not, n't, n’t, n`t, ’t</em>
+* `Neg` (634; 100% of non-empty `Polarity`): <em>not, n't, n’t, n`t, ’t</em>
 * `EMPTY` (1964): <em>to, 's, ’s, ', ’, s, na, the</em>
 
 ### `ADJ`
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (164; 100% of non-empty `Polarity`): <em>non-avian, unknown, unlikely, unable, impossible, universal, unprecedented, unfamiliar, incomprehensible, inevitable</em>
-* `EMPTY` (7379): <em>other, many, first, new, more, such, good, own, different, same</em>
+* `EMPTY` (7373): <em>other, many, first, new, more, such, good, own, different, same</em>
 
 `Polarity` seems to be **lexical feature** of `ADJ`. 100% lemmas (99) occur only with one value of `Polarity`.
 
@@ -45,16 +45,16 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (87; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (9408): <em>the, a, an, this, some, these, that, all, any, every</em>
+* `EMPTY` (9407): <em>the, a, an, this, some, these, that, all, any, every</em>
 
 ### `ADV`
 
-63 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Polarity`.
+63 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (63; 100% of non-empty `Polarity`): <em>never, no, unfortunately, nowhere, indirectly, Ne, pas, unambiguously, unawares, uncomprehendingly</em>
-* `EMPTY` (4122): <em>also, so, then, just, more, very, as, even, most, only</em>
+* `EMPTY` (4177): <em>also, so, then, just, more, very, as, even, most, only</em>
 
 `Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (13) occur only with one value of `Polarity`.
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (41; 100% of non-empty `Polarity`): <em>involved, involve, involving, dislike, disliked, dismounted, immortalized, involves, uncovered, undo</em>
-* `EMPTY` (11831): <em>have, make, said, get, see, are, is, want, do, know</em>
+* `EMPTY` (11828): <em>have, make, said, get, see, are, is, want, do, know</em>
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (11) occur only with one value of `Polarity`.
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (30; 100% of non-empty `Polarity`): <em>nothing, involvement, disadvantages, discomfort, dislikes, disrespect, dysphoria, inadequacies, intolerance, involvements</em>
-* `EMPTY` (20501): <em>people, time, city, years, way, language, world, life, study, year</em>
+* `EMPTY` (20479): <em>people, time, city, years, way, language, world, life, study, year</em>
 
 `Polarity` seems to be **lexical feature** of `NOUN`. 100% lemmas (13) occur only with one value of `Polarity`.
 
@@ -100,7 +100,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `PROPN` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>Immortals, Immortal, pas</em>
-* `EMPTY` (8696): <em>New, University, United, York, States, Scientology, Warhol, lee, September, Moreau</em>
+* `EMPTY` (8721): <em>New, University, United, York, States, Scientology, Warhol, lee, September, Moreau</em>
 
 ### `PRON`
 
@@ -111,7 +111,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (7677): <em>it, you, i, he, his, that, we, they, your, she</em>
+* `EMPTY` (7678): <em>it, you, i, he, his, that, we, they, your, she</em>
 
 ### `X`
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 6 different values: `Geo`, `Giv`, `Hom`, `Oth`, `Pat`, `Sur`.
 
-570 tokens (4%) have a non-empty value of `NameType`.
-142 types (3%) occur at least once with a non-empty value of `NameType`.
-87 lemmas (3%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (564; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (6; 0% instances).
+575 tokens (3%) have a non-empty value of `NameType`.
+147 types (3%) occur at least once with a non-empty value of `NameType`.
+92 lemmas (3%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (564; 3% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (11; 0% instances).
 
 ### `PROPN`
 
@@ -33,7 +33,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
   <tr><th>Paradigm <i>Люба</i></th><th><tt>Giv</tt></th><th><tt>Sur</tt></th></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt></tt></td><td><em>Любанень</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt></tt></td><td><em>Любань</em></td><td><em>Любань</em></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt><tt>=Gak</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Любаяк</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt><tt>=Add</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Любаяк</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Люба</em></td><td></td></tr>
 </table>
 
@@ -41,16 +41,18 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 ### `NOUN`
 
-6 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NameType`.
+11 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `NOUN` and `NameType` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (6; 100%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6; 100%).
+The most frequent other feature values with which `NOUN` and `NameType` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (10; 91%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 55%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 55%).
 
 `NOUN` tokens may have the following values of `NameType`:
 
-* `Geo` (1; 17% of non-empty `NameType`): <em>Паргелень</em>
-* `Giv` (2; 33% of non-empty `NameType`): <em>Елеська, Любань</em>
-* `Hom` (1; 17% of non-empty `NameType`): <em>Барякань</em>
-* `Sur` (2; 33% of non-empty `NameType`): <em>Аржай, Вострин</em>
+* `Geo` (1; 9% of non-empty `NameType`): <em>Паргелень</em>
+* `Giv` (2; 18% of non-empty `NameType`): <em>Елеська, Любань</em>
+* `Hom` (1; 9% of non-empty `NameType`): <em>Барякань</em>
+* `Sur` (7; 64% of non-empty `NameType`): <em>Аржай, Вострин, Куторкин, Кучаевтнень, Панов, Прокопычень, Шумилкин</em>
+
+`NameType` seems to be **lexical feature** of `NOUN`. 100% lemmas (11) occur only with one value of `NameType`.
 
 ## Relations with Agreement in `NameType`
 

@@ -61,7 +61,7 @@ The following 18 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 10 parataxis	color:blue
-1	À	à	ADP	_	_	6	advmod	_	EXTPOS=ADV|MWE=au_moins
+1	À	à	ADP	_	_	6	advmod	_	ExtPos=ADV
 2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
 3	moins	moins	ADV	_	_	1	fixed	_	_
 4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_

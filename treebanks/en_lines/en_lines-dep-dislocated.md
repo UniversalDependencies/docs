@@ -42,7 +42,7 @@ The following 18 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 8	fgColor:white
 # visual-style 8 1 dislocated	color:blue
 1	Stones	stone	NOUN	PL-NOM	Case=Nom	8	dislocated	_	SpaceAfter=No
-2	,	,	PUNCT	Comma	_	1	punct	_	_
+2	,	,	PUNCT	Comma	_	3	punct	_	_
 3	leaves	leaf	NOUN	PL-NOM	Case=Nom	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	Comma	_	3	punct	_	_
 5	and	and	CCONJ	_	_	6	cc	_	_
@@ -70,7 +70,7 @@ The following 18 pairs of parts of speech are connected with `dislocated`: <tt><
 3	,	,	PUNCT	Comma	_	2	punct	_	_
 4	said	say	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 5	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	4	nsubj	_	SpaceAfter=No
-6	,	,	PUNCT	Comma	_	4	punct	_	_
+6	,	,	PUNCT	Comma	_	10	punct	_	_
 7	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	SpaceAfter=No
 8	'm	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	_
 9	not	not	PART	NEG	_	10	advmod	_	_

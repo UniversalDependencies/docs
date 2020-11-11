@@ -88,10 +88,10 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 19	znamenala	znamenat	VERB	VpQW---XR-AA---	Aspect=Imp|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	13	acl:relcl	13:acl:relcl	_
 20	nepřiměřené	přiměřený	ADJ	AAFP4----1N----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg	21	amod	21:amod	LDeriv=přiměřit
 21	výhody	výhoda	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	19	obj	19:obj	_
-22	*	*	SYM	Xx-------------	Abbr=Yes	25	case	25:case	_
+22	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	25	case	25:case	_
 23	některá	některý	DET	PZNP4----------	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	25	det	25:det	_
 24	zemědělská	zemědělský	ADJ	AANP4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	25	amod	25:amod	_
-25	družstva	družstvo	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	21	nmod	21:nmod:acc	_
+25	družstva	družstvo	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	21	nmod	21:nmod:pro:acc	_
 26	anebo	nebo	CCONJ	J^------------1	_	29	cc	25.1:cc	_
 27	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	29	case	29:case	LId=u-1
 28	některých	některý	DET	PZXP2----------	Case=Gen|Number=Plur|PronType=Ind	29	det	29:det	_

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Alexandre Rademaker, Cláudia Freitas, Elvis de Souza, Aline Silveira, Tatiana Cavalcanti, Wograine Evelyn, Luisa Rocha, Isabela Soares-Bastos, Eckhard Bick, Fabricio Chalub, Guilherme Paulino-Passos, Livy Real, Valeria de Paiva, Daniel Zeman, Martin Popel, David Mareček, Natalia Silveira, André Martins.
 
 Repository: [UD_Portuguese-Bosque](https://github.com/UniversalDependencies/UD_Portuguese-Bosque)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_bosque26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_bosque27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -137,11 +137,11 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 
 
 <ul>
-<li>This corpus contains 9364 sentences, 210958 tokens and 227825 syntactic words.</li>
+<li>This corpus contains 9364 sentences, 210956 tokens and 227825 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29547 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 29553 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -149,12 +149,12 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 </ul>
 
 <ul>
-<li>This corpus contains 782 types of words that contain both letters and punctuation. Examples: sexta-feira, norte-americano, p., segunda-feira, R., primeiro-ministro, norte-americana, terça-feira, quarta-feira, quinta-feira, S., ex-presidente, vice-presidente, porta-voz, Grã-Bretanha, cessar-fogo, ex-ministro, fim-de-semana, norte-americanos, secretário-geral, etc., d., art., dr., meio-campo, tel., av., director-geral, mão-de-obra, pára-quedas, sr., Guiné-Bissau, Jr., dia-a-dia, ex-jogador, pág., social-democrata, A., CD-ROM, Timor-Leste, co-produção, d', ex-governador, IPC-r, Jean-Pierre, auto-estrada, dom., ed., ex-secretário, infra-estrutura</li>
+<li>This corpus contains 780 types of words that contain both letters and punctuation. Examples: sexta-feira, norte-americano, p., segunda-feira, R., primeiro-ministro, norte-americana, terça-feira, quarta-feira, quinta-feira, S., ex-presidente, vice-presidente, porta-voz, Grã-Bretanha, cessar-fogo, ex-ministro, fim-de-semana, norte-americanos, secretário-geral, d., etc., art., dr., meio-campo, tel., av., director-geral, mão-de-obra, pára-quedas, sr., Guiné-Bissau, Jr., dia-a-dia, ex-jogador, pág., social-democrata, A., CD-ROM, Timor-Leste, co-produção, d', ex-governador, IPC-r, Jean-Pierre, auto-estrada, dom., ed., ex-secretário, infra-estrutura</li>
 </ul>
 
 <ul>
-<li>This corpus contains 16867 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 744 types of multi-word tokens. Examples: do, da, no, na, dos, ao, à, das, pelo, pela, nos, às, aos, nas, num, numa, pelos, deste, pelas, desta, neste, nesta, nesse, disso, trata-se, desse, deles, destes, dele, daí, dessa, encontra-se, nessa, dela, daquela, delas, nestes, desses, nela, nestas, daqueles, dessas, destas, deve-se, naquele, recorde-se, daquele, encontram-se, naquela, nele.</li>
+<li>This corpus contains 16869 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 746 types of multi-word tokens. Examples: do, da, no, na, dos, ao, à, das, pelo, pela, nos, às, aos, nas, num, numa, pelos, deste, pelas, desta, neste, nesta, nesse, disso, trata-se, desse, deles, destes, dele, daí, dessa, encontra-se, nessa, dela, daquela, delas, nestes, desses, nela, nestas, daqueles, dessas, destas, deve-se, naquele, recorde-se, daquele, encontram-se, naquela, nele.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -170,11 +170,11 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 </ul>
 
 <ul>
-<li>This corpus contains 61 lemmas tagged as pronouns (PRON): a, algo, algum, alguém, ambos, aquele, aquilo, cada, cujo, demais, dezena, diferentes, disso, ela, elas, ele, ele/ela, eles, eles/elas, esse, este, eu, gente, isso, isto, mais, me, mesmo, meu, muito, mundo, nada, nenhum, ninguém, nosso, nós, o, onde, outrem, outro, pouco, qual, qualquer, quanto, que, quem, quê, se, seu, si, tal, tanto, todas, todo, tu, tudo, um, você, várias, vários, vós</li>
+<li>This corpus contains 61 lemmas tagged as pronouns (PRON): a, algo, algum, alguém, ambos, aquele, aquilo, cada, cetera, cujo, demais, dezena, diferentes, disso, ela, elas, ele, eles, eles/elas, esse, este, eu, gente, isso, isto, mais, me, mesmo, meu, muito, mundo, nada, nenhum, ninguém, nosso, nós, o, onde, outrem, outro, pouco, qual, qualquer, quanto, que, quem, quê, se, seu, si, tal, tanto, todas, todo, tu, tudo, um, você, várias, vários, vós</li>
 </ul>
 
 <ul>
-<li>This corpus contains 53 lemmas tagged as determiners (DET): $2e, a, algum, ambos, aquele, as, bastante, cada, certo, certos, cujo, demais, dezena, dezenas, diferentes, diversos, esse, este, la, mais, menos, meu, muita, muito, muitíssimo, nada, nenhum, nosso, o, os, outro, pouco, próprio, qual, qualquer, qualquier, quanto, que, semelhante, seu, tal, tanto, teu, toda, todo, tudo, tão, um, uma, umo, vosso, várias, vários</li>
+<li>This corpus contains 54 lemmas tagged as determiners (DET): $2e, The, a, algum, ambos, aquele, as, bastante, cada, certo, certos, cujo, demais, dezena, dezenas, diferentes, diversos, esse, este, la, mais, menos, meu, muita, muito, muitíssimo, nada, nenhum, nosso, o, os, outro, pouco, próprio, qual, qualquer, qualquier, quanto, que, semelhante, seu, tal, tanto, teu, toda, todo, tudo, tão, um, uma, umo, vosso, várias, vários</li>
 </ul>
 
 <ul>
@@ -246,9 +246,9 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
       <li>DET: a, as, uma, sua, esta, suas, essa, toda, outras, algumas</li>
       <li>NOUN: pessoas, parte, semana, empresa, forma, empresas, vez, casa, cidade, vida</li>
       <li>NUM: 4ª, dezenas, meia</li>
-      <li>PRON: que, se, a, ela, onde, as, elas, lhe, esta, eu</li>
+      <li>PRON: que, se, a, ela, onde, as, elas, esta, lhe, eu</li>
       <li>PROPN: Lisboa, Folha, Câmara, Alemanha, Comissão, França, Espanha, Europa, Rússia, Associação</li>
-      <li>SCONJ: Uma, uns</li>
+      <li>SCONJ: Uma, que, uns</li>
       <li>VERB: feita, feitas, considerada, criada, realizada, apresentada, dada, utilizada, marcada, aprovada</li>
       <li>VERB-Part: feita, feitas, considerada, criada, realizada, apresentada, dada, utilizada, marcada, aprovada</li>
       <li>X: made, Body, morcilla, natura</li>
@@ -260,8 +260,8 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
   <li>Masc
     <ul>
       <li>ADJ: primeiro, novo, mesmo, passado, último, segundo, últimos, bom, maior, grande</li>
-      <li>ADP: de</li>
-      <li>ADV: quanto, não, teatral, um</li>
+      <li>ADP: de, que</li>
+      <li>ADV: quanto, entanto, não, teatral, um</li>
       <li>AUX-Part: sido</li>
       <li>DET: o, os, um, seu, este, seus, esse, todos, outros, outro</li>
       <li>NOUN: anos, presidente, ano, dia, país, estado, tempo, contos, grupo, governo</li>
@@ -290,7 +290,6 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
   <li>Unsp
     <ul>
       <li>ADJ: melhor, capaz, especial, favorável, inconvenientes, jovens, mole, Independente, Medíocre, Real</li>
-      <li>ADV: Que, tal</li>
       <li>DET: cada, qual, qualquer, mais</li>
       <li>NOUN: especialistas, representantes, jornalistas, jovens, habitantes, estudantes, visitantes, Aveiro, Esposende, Presidente</li>
       <li>NUM: 2., I</li>
@@ -331,15 +330,15 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
   <li>Sing
     <ul>
       <li>ADJ: maior, primeiro, grande, primeira, novo, nova, mesmo, nacional, passado, melhor</li>
-      <li>ADP: Primeira, de</li>
-      <li>ADV: quanto, tal, não, teatral, um</li>
+      <li>ADP: de, Primeira, que</li>
+      <li>ADV: quanto, entanto, não, tal, teatral, um</li>
       <li>AUX-Fin: é, foi, está, vai, era, será, tem, seria, estava, seja</li>
       <li>AUX-Inf: ser, ter, estar, ir, haver</li>
       <li>AUX-Part: sido</li>
       <li>CCONJ: e</li>
       <li>DET: o, a, um, uma, sua, seu, este, esta, esse, qualquer</li>
       <li>NOUN: presidente, ano, dia, país, estado, parte, tempo, grupo, governo, vez</li>
-      <li>NUM: cento, meia, dúzia, 14, 2, 3, 94, 1., 185/60, 2.</li>
+      <li>NUM: cento, meia, 2, dúzia, 14, 3, 5, 94, 1., 185/60</li>
       <li>PART: pós</li>
       <li>PRON: que, se, o, ele, isso, lhe, onde, quem, tudo, a</li>
       <li>PRON-Ger: se</li>
@@ -357,7 +356,6 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Unsp
     <ul>
-      <li>ADV: Que</li>
       <li>DET: o(s)</li>
       <li>NOUN: tratamento(s)</li>
       <li>PRON: mais, quem, que, menos, aquilo, mundo</li>
@@ -598,7 +596,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: tal, quanto</li>
+      <li>ADV: quanto, tal</li>
       <li>DET: qualquer, outros, outro, mais, outras, alguns, algumas, outra, muitos, vários</li>
       <li>PRON: tudo, nada, outros, ninguém, que, alguns, outro, algo, outras, alguém</li>
     </ul>
@@ -608,7 +606,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Int
     <ul>
-      <li>ADV: quanto, Que</li>
+      <li>ADV: quanto</li>
       <li>DET: que, qual, quais, Quantos, quanto, Quantas</li>
       <li>PRON: que, quem, qual, quais, quanto, quantos, quê</li>
     </ul>
@@ -637,9 +635,11 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Rel
     <ul>
+      <li>ADP: que</li>
       <li>ADV: quanto</li>
       <li>DET: cujo, cuja, cujas, cujos, qual, quais, Quantos, quanto</li>
       <li>PRON: que, onde, quem, qual, quais, tudo, o, quanto, Nada, cuja</li>
+      <li>SCONJ: que</li>
     </ul>
   </li>
 </ul>
@@ -807,7 +807,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-ADP(contra) (1)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
       <li>VERB-Fin--PRON-ADP(em) (1)</li>
-      <li>VERB-Fin--PRON-Acc (216)</li>
+      <li>VERB-Fin--PRON-Acc (220)</li>
       <li>VERB-Fin--PRON-Nom (362)</li>
       <li>VERB-Ger--NOUN (66)</li>
       <li>VERB-Ger--PRON (20)</li>
@@ -815,7 +815,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Nom (7)</li>
       <li>VERB-Inf--NOUN (247)</li>
       <li>VERB-Inf--PRON (64)</li>
-      <li>VERB-Inf--PRON-Acc (73)</li>
+      <li>VERB-Inf--PRON-Acc (69)</li>
       <li>VERB-Inf--PRON-Nom (30)</li>
       <li>VERB-Part--NOUN (193)</li>
       <li>VERB-Part--NOUN-ADP(de) (4)</li>
@@ -863,7 +863,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-ADP(por) (1)</li>
       <li>VERB-Ger--PRON-Acc (23)</li>
       <li>VERB-Ger--PRON-Dat (1)</li>
-      <li>VERB-Inf--NOUN (2100)</li>
+      <li>VERB-Inf--NOUN (2101)</li>
       <li>VERB-Inf--NOUN-ADP(a) (73)</li>
       <li>VERB-Inf--NOUN-ADP(a)-ADP(de) (1)</li>
       <li>VERB-Inf--NOUN-ADP(com) (39)</li>
@@ -919,7 +919,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-ADP(para) (2)</li>
       <li>VERB-Fin--PRON-ADP(por) (2)</li>
       <li>VERB-Fin--PRON-Acc (6)</li>
-      <li>VERB-Fin--PRON-Dat (156)</li>
+      <li>VERB-Fin--PRON-Dat (157)</li>
       <li>VERB-Ger--NOUN-ADP(a) (12)</li>
       <li>VERB-Ger--NOUN-ADP(de) (3)</li>
       <li>VERB-Ger--NOUN-ADP(em) (4)</li>
@@ -936,7 +936,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-ADP(sobre) (3)</li>
       <li>VERB-Inf--PRON-ADP(a) (5)</li>
       <li>VERB-Inf--PRON-ADP(de) (2)</li>
-      <li>VERB-Inf--PRON-Dat (39)</li>
+      <li>VERB-Inf--PRON-Dat (38)</li>
       <li>VERB-Part--NOUN-ADP(a) (7)</li>
       <li>VERB-Part--NOUN-ADP(com) (1)</li>
       <li>VERB-Part--NOUN-ADP(de) (3)</li>

@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-5554 tokens (3%) have a non-empty value of `NumType`.
-1032 types (3%) occur at least once with a non-empty value of `NumType`.
-930 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (5554; 3% instances).
+5588 tokens (3%) have a non-empty value of `NumType`.
+1035 types (3%) occur at least once with a non-empty value of `NumType`.
+931 lemmas (5%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (5588; 3% instances).
 
 ### `NUM`
 
-5554 <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+5588 <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4872; 88%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4652; 84%), <tt><a href="ro_rrt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (3975; 72%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4873; 87%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4653; 83%), <tt><a href="ro_rrt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (3976; 71%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (4831; 87% of non-empty `NumType`): <em>1, 2, 3, două, 4, trei, 5, 6, doi, 7</em>
+* `Card` (4865; 87% of non-empty `NumType`): <em>1, 2, 3, două, 4, trei, 5, 6, doi, 7</em>
 * `Ord` (723; 13% of non-empty `NumType`): <em>primul, prima, I, ii, doilea, doua, primele, iii, treia, ultimii</em>
 
 <table>
@@ -35,19 +35,19 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
   <tr><td><tt><tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-NumForm.html">NumForm</a></tt><tt>=Roman</tt></tt></td><td></td><td><em>ii</em></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `NUM`. 98% lemmas (912) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 98% lemmas (913) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> NUM</tt> (258; 100%),
-<tt>NUM --[<tt><a href="ro_rrt-dep-goeswith.html">goeswith</a></tt>]--> NUM</tt> (81; 99%),
-<tt>NUM --[<tt><a href="ro_rrt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (74; 84%),
-<tt>NUM --[<tt><a href="ro_rrt-dep-compound.html">compound</a></tt>]--> NUM</tt> (37; 100%),
+<tt>NUM --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> NUM</tt> (263; 100%),
+<tt>NUM --[<tt><a href="ro_rrt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (96; 86%),
+<tt>NUM --[<tt><a href="ro_rrt-dep-goeswith.html">goeswith</a></tt>]--> NUM</tt> (64; 100%),
+<tt>NUM --[<tt><a href="ro_rrt-dep-compound.html">compound</a></tt>]--> NUM</tt> (47; 100%),
 <tt>NUM --[<tt><a href="ro_rrt-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (3; 100%),
-<tt>NUM --[<tt><a href="ro_rrt-dep-appos.html">appos</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="ro_rrt-dep-acl.html">acl</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="ro_rrt-dep-appos.html">appos</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="ro_rrt-dep-dep.html">dep</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (1; 100%).
 

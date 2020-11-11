@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-745 nodes (0%) are attached to their parents as `discourse`.
+887 nodes (0%) are attached to their parents as `discourse`.
 
-675 instances of `discourse` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.09798657718121.
+796 instances of `discourse` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.43404735062007.
 
-The following 21 pairs of parts of speech are connected with `discourse`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (538; 72% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (90; 12% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (25; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (23; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (22; 3% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (11; 1% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (9; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (4; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `discourse`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (658; 74% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (96; 11% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (28; 3% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (27; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (25; 3% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (15; 2% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (11; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,19 +54,22 @@ The following 21 pairs of parts of speech are connected with `discourse`: <tt><a
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 discourse	color:blue
-1	Măi	măi	INTJ	I	_	2	discourse	_	_
-2	Ioane	Ioan	PROPN	Npmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	5	vocative	_	Rhyme=ID3,9|Type=Mono
-3	Galantoane	galanton	ADJ	Afpmsvn	Case=Voc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	Rhyme=ID2,9|SpaceAfter=No|Type=Mono
-4	,	,	PUNCT	COMMA	_	2	punct	_	_
-5	Cât	cât	ADV	Rw	PronType=Int,Rel	0	root	_	_
-6	îi	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
-7	kila	kil	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
-8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
-9	chiroane	piron	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	7	nmod	_	Rhyme=ID2,3|SpaceAfter=No|Type=Mono
-10	?	?	PUNCT	QUEST	_	5	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 discourse	color:blue
+1	Of	of	INTJ	I	_	6	discourse	_	|SpaceAfter=No
+2	,	,	PUNCT	COMMA	_	1	punct	_	_
+3	săracile	sărac	ADJ	Afpfpry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	_
+4	neamurile	neam	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	6	parataxis	_	|SpaceAfter=No
+5	,	,	PUNCT	COMMA	_	4	punct	_	_
+6	Unde-	unde	ADV	Rw	PronType=Int,Rel	0	root	_	|SpaceAfter=No
+7	s	fi	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	cop	_	_
+8	eu	eu	PRON	Pp1-sr	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+9	și	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	_
+10	unde-	unde	ADV	Rw	PronType=Int,Rel	6	conj	_	|SpaceAfter=No
+11	s	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	10	cop	_	_
+12	ele	el	PRON	Pp3fpr	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	|SpaceAfter=No
+13	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
 ~~~
 

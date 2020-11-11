@@ -71,7 +71,7 @@ The following 22 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 2	,	,	PUNCT	Comma	_	1	punct	_	_
 3	tror	tro	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	vi	vi	PRON	PERS-P1PL-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	3	nsubj	_	SpaceAfter=No
-5	,	,	PUNCT	Comma	_	3	punct	_	_
+5	,	,	PUNCT	Comma	_	8	punct	_	_
 6	är	vara	AUX	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
 7	en	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	8	det	_	_
 8	risk	risk	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	xcomp	_	_

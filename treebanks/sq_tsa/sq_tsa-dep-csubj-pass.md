@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	Është	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	cop	2:cop	_
 2	detyra	detyrë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	0:root	_
 3	e	i	DET	_	Gender=Fem	4	det	4:det	_
-4	cilitdo	cilido	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	2	nmod	2:nmod	_
+4	cilitdo	cilido	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	2	nmod	2:nmod	_
 5	personi	person	NOUN	_	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	4	nmod:poss	4:nmod:poss	_
 6	të	i	DET	_	Gender=Masc	7	det	7:det	_
 7	interesuar	interesuar	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	5:amod	_

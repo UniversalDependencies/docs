@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-101 nodes (0%) are attached to their parents as `csubj`.
+100 nodes (0%) are attached to their parents as `csubj`.
 
-52 instances of `csubj` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.5049504950495.
+52 instances of `csubj` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.54.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (42; 42% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (30; 30% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (20; 20% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (5; 5% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (42; 42% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (30; 30% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (19; 19% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (5; 5% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 5 csubj	color:blue
 1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
-2	che	che	DET	DQ	Gender=Masc|Number=Sing|PronType=Int	3	det	_	_
+2	che	che	DET	DQ	Number=Sing|PronType=Int	3	det	_	_
 3	senso	senso	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
 4	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	parlare	parlare	VERB	V	VerbForm=Inf	4	csubj	_	_

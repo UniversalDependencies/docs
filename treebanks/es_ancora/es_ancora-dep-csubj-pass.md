@@ -43,7 +43,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 19	en	en	ADP	ADP	AdpType=Prep	21	case	_	_
 20	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	grabación	grabación	NOUN	NOUN	Gender=Fem|Number=Sing	18	nmod	_	_
-22	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	24	expl:pass	_	_
+22	se	él	PRON	PRON	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	24	expl:impers	_	_
 23	le	él	PRON	PRON	Case=Dat|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
 24	oye	oír	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
 25	gritar	gritar	VERB	AUX	VerbForm=Inf	24	csubj:pass	_	_

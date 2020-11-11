@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Anim` (237; 100% of non-empty `Animacy`): பேர், மக்கள், அதிகாரிகள், புலிகள், போலீஸார், தலைவர்கள், தொழிலாளர்கள், பணியாளர்கள், உறுப்பினர்கள், பொதுமக்கள்
-* `EMPTY` (2516): அரசு, நாடுகள், தலைவர், செயலாளர், முதல்வர், ஆண்டு, அமைச்சர், கட்சி, தலைமைச், நிலையில்
+* `EMPTY` (2521): அரசு, நாடுகள், தலைவர், செயலாளர், முதல்வர், ஆண்டு, அமைச்சர், கட்சி, தலைமைச், நிலையில்
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (64) occur only with one value of `Animacy`.
 
@@ -42,14 +42,14 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 ### `AUX`
 
-41 <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Animacy`.
+41 <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> tokens (6% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
 The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (41; 100%), <tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (41; 100%), <tt><a href="ta_ttb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (41; 100%), <tt><a href="ta_ttb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (41; 100%), <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (41; 100%), <tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (40; 98%), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (33; 80%), <tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (30; 73%), <tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt> (25; 61%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
 * `Anim` (41; 100% of non-empty `Animacy`): உள்ளனர், உள்ளோம், உள்ளேன், கொள்கிறேன், மாட்டேன், வருகின்றனர், ஆவர், இருக்கிறேன், இருக்கிறோம், படுகின்றனர்
-* `EMPTY` (587): உள்ளது, பட்ட், வேண்டும், உள்ளார், இல்லை, பட்டது, பட்டு, உள்ளன, இருந்தது, ப்படும்
+* `EMPTY` (593): உள்ளது, பட்ட், வேண்டும், உள்ளார், இல்லை, பட்டது, பட்டு, உள்ளன, இருந்தது, ப்படும்
 
 ### `PROPN`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 `VERB` tokens may have the following values of `Animacy`:
 
 * `Anim` (12; 100% of non-empty `Animacy`): காயமடைந்தனர், அஞ்சுகிறீர்கள், இருங்கள், உள்ளேன், எதிர்க்கிறோம், கருதுகிறேன், கேட்டுக்கொள்கிறேன், செய்கிறோம், புறக்கணிக்கிறேன், மேற்கொண்டேன்
-* `EMPTY` (1158): தெரிவித்தார், தெரிவித்த், என்றார், செய்து, தெரிவிக்கப், செய்யப், உள்ளது, கூறினார், கொண்டு, கலந்து
+* `EMPTY` (1242): தெரிவித்தார், தெரிவித்த், என்றார், செய்து, தெரிவிக்கப், செய்யப், உள்ளது, கூறினார், கொண்டு, கலந்து
 
 `Animacy` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Animacy`.
 

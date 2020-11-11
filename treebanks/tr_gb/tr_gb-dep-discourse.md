@@ -8,12 +8,44 @@ udver: '2'
 
 This relation is universal.
 
-138 nodes (1%) are attached to their parents as `discourse`.
+40 nodes (0%) are attached to their parents as `discourse`.
 
-90 instances of `discourse` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.96376811594203.
+29 instances of `discourse` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.275.
 
-The following 18 pairs of parts of speech are connected with `discourse`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (79; 57% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (13; 9% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (12; 9% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> (7; 5% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (5; 4% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> (3; 2% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `discourse`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> (18; 45% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> (7; 18% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (5; 13% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 discourse	color:blue
+1	Ay	ay	INTJ	_	_	3	discourse	_	_
+2	nasıl	nasıl	ADV	_	PronType=Int	3	advmod	_	_
+3	güldük	gül	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 discourse	color:blue
+1	Aaa	aaa	INTJ	_	_	6	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	yiyecek	yiyecek	ADJ	_	_	5	amod	_	_
+4	hiçbir	hiçbir	DET	_	Definite=Ind|Polarity=Neg|PronType=Art	5	det	_	_
+5	şey	şey	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+6	yok	yok	ADJ	_	Case=Nom|Polarity=Neg	0	root	_	_
+7	muş	i	AUX	_	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -26,42 +58,6 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 2	bitirseler	bit	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	_	_
 3	bari	bari	ADV	_	_	2	discourse	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 discourse	color:blue
-1	Hani	hani	ADV	_	_	3	advmod	_	_
-2	sana	sen	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
-3	göstermiştim	göster	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=1|Tense=Pqp|VerbForm=Fin	8	parataxis	_	_
-4	ya	ya	ADV	_	_	3	advmod:emph	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	3	punct	_	_
-6	işte	işte	ADV	_	_	8	discourse	_	_
-7	o	o	DET	_	Definite=Def|PronType=Art	8	det	_	_
-8	elbise	elbise	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 discourse	color:blue
-1	Telefon	telefon	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
-2	numaram	numara	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
-3	sizde	siz	PRON	_	Case=Loc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
-4	var	var	ADJ	_	_	0	root	_	_
-5	dır	i	AUX	_	Mood=Gen|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-6	herhalde	herhalde	ADV	_	_	4	discourse	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

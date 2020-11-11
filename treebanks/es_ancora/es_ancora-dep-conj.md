@@ -45,7 +45,7 @@ The following 117 pairs of parts of speech are connected with `conj`: <tt><a hre
 2	pudiste	poder	VERB	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	PUNCT	PunctType=Comm	6	punct	_	_
 4	pero	pero	CCONJ	CCONJ	_	6	cc	_	_
-5	nos	yo	PRON	PRON	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	6	obj	_	_
+5	nos	yo	PRON	PRON	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	6	iobj	_	_
 6	dio	dar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 7	igual	igual	ADV	ADV	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_

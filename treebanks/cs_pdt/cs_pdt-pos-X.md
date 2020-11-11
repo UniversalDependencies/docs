@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: <em>a, h, m, s</em>
 
 The 10 most frequent `X` types:  <em>A, H, M, S</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 32110, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 133, <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> 9, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 4), <em>h</em> (<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 3), <em>m</em> (<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 46, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 3, <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> 2), <em>s</em> (<tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> 11169, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 90, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 21, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 3, <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 32110, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 133, <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> 9, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 4), <em>h</em> (<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 3), <em>m</em> (<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 267, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 3, <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> 2), <em>s</em> (<tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> 11169, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 135, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 21, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 3, <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 1042, <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> 172, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 93, <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 4), <em>H</em> (<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> 77, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 18, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 3), <em>M</em> (<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> 244, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 51, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 3, <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> 1), <em>S</em> (<tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> 470, <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> 117, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 3)
 
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="cs_pdt-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.181762).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.182017).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>A</em>.
 

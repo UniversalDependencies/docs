@@ -10,8 +10,8 @@ This relation is universal.
 
 974 nodes (0%) are attached to their parents as `expl`.
 
-580 instances of `expl` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09650924024641.
+579 instances of `expl` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.07597535934292.
 
 The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (969; 99% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
@@ -45,10 +45,10 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 6	por	por	ADP	_	_	8	case	_	_
 7	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
 8	questões	questão	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
-9	-	-	PUNCT	_	_	20	punct	_	_
+9	-	-	PUNCT	_	_	11	punct	_	_
 10	nada	nada	ADV	_	Polarity=Neg	11	advmod	_	_
 11	pequenas	pequeno	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	_
-12	-	-	PUNCT	_	_	20	punct	_	_
+12	-	-	PUNCT	_	_	11	punct	_	_
 13	de	de	ADP	_	_	15	case	_	_
 14	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
 15	tratamentos	tratamento	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_

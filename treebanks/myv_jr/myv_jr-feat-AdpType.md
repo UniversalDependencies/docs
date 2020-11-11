@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Post`.
 
-92 tokens (1%) have a non-empty value of `AdpType`.
-48 types (1%) occur at least once with a non-empty value of `AdpType`.
-37 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (91; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+72 tokens (0%) have a non-empty value of `AdpType`.
+35 types (1%) occur at least once with a non-empty value of `AdpType`.
+29 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (71; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `ADP`
 
-91 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (17% of all `ADP` tokens) have a non-empty value of `AdpType`.
+71 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (18% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (79; 87%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (79; 87%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (77; 85%).
+The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (62; 87%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (62; 87%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (60; 85%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37; 52%).
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Post` (91; 100% of non-empty `AdpType`): <em>марто, мельга, ланга, пачк, эйстэ, кисэ, перька, коряс, лангсо, туртов</em>
+* `Post` (71; 100% of non-empty `AdpType`): <em>марто, мельга, пачк, эйстэ, кисэ, перька, коряс, туртов, алдо, башка</em>
 
-`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (36) occur only with one value of `AdpType`.
+`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (28) occur only with one value of `AdpType`.
 
 ### `ADJ`
 

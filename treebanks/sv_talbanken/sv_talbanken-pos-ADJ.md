@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>olika</em> (<tt><a href="sv_talbanken
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.410339 (the average of all parts of speech is 1.422634).
+The form / lemma ratio of `ADJ` is 1.410339 (the average of all parts of speech is 1.422764).
 
 The 1st highest number of forms (8) was observed with the lemma “liten”: <em>lilla, lille, liten, litet, mindre, minsta, minste, små</em>.
 

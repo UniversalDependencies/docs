@@ -65,7 +65,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 4	,	,	PUNCT	CLB	_	8	punct	_	_
 5	ahte	ahte	SCONJ	CS	_	8	mark	_	_
 6	IKT	IKT	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	_
-7	ii	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	8	aux:neg	_	_
+7	ii	ii	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	8	aux:neg	_	_
 8	doaimma	doaibmat	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 

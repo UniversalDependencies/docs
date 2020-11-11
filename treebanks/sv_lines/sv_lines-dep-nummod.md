@@ -29,7 +29,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	omkring	omkring	ADV	_	_	6	advmod	_	_
 6	30	30	NUM	CARD-PL	_	7	nummod	_	_
 7	man	man	NOUN	PL-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	3	nmod	_	SpaceAfter=No
-8	,	,	PUNCT	Comma	_	3	punct	_	_
+8	,	,	PUNCT	Comma	_	10	punct	_	_
 9	alla	all	PRON	TOT-PL-NOM	Definite=Ind|Number=Plur|PronType=Tot	10	nsubj	_	_
 10	beväpnade	beväpna	VERB	AD-PL-IND	Mood=Ind|VerbForm=Inf|Voice=Pass	3	acl:relcl	_	SpaceAfter=No
 11	.	.	PUNCT	Period	_	3	punct	_	_

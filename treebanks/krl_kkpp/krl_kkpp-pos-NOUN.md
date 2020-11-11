@@ -46,9 +46,9 @@ Parents of `NOUN` nodes belong to 10 different parts of speech: <tt><a href="krl
 
 303 (36%) `NOUN` nodes are leaves.
 
-339 (40%) `NOUN` nodes have one child.
+340 (40%) `NOUN` nodes have one child.
 
-113 (13%) `NOUN` nodes have two children.
+112 (13%) `NOUN` nodes have two children.
 
 85 (10%) `NOUN` nodes have three or more children.
 

@@ -9,26 +9,28 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Des`, `Nec`, `Pot`.
 
-1558 tokens (1%) have a non-empty value of `Mood`.
-8 types (0%) occur at least once with a non-empty value of `Mood`.
-8 lemmas (0%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1558; 1% instances).
+2397 tokens (1%) have a non-empty value of `Mood`.
+11 types (0%) occur at least once with a non-empty value of `Mood`.
+11 lemmas (0%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (2397; 1% instances).
 
 ### `AUX`
 
-1558 <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `Mood`.
+2397 <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> tokens (59% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="lzh_kyoto-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (1558; 100%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="lzh_kyoto-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (2397; 100%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Des` (345; 22% of non-empty `Mood`): 敢、 欲
-* `Nec` (27; 2% of non-empty `Mood`): 宜、 儀
-* `Pot` (1186; 76% of non-empty `Mood`): 可、 能、 得、 足
-* `EMPTY` (555): 為、 見
+* `Des` (641; 27% of non-empty `Mood`): 敢、 欲、 肯
+* `Nec` (72; 3% of non-empty `Mood`): 宜、 須、 儀、 應
+* `Pot` (1684; 70% of non-empty `Mood`): 可、 能、 得、 足
+* `EMPTY` (1670): 爲、 為、 被、 見
+
+`Mood` seems to be **lexical feature** of `AUX`. 100% lemmas (11) occur only with one value of `Mood`.
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>AUX --[<tt><a href="lzh_kyoto-dep-aux.html">aux</a></tt>]--> AUX</tt> (2; 100%).
+<tt>AUX --[<tt><a href="lzh_kyoto-dep-aux.html">aux</a></tt>]--> AUX</tt> (5; 100%).
 

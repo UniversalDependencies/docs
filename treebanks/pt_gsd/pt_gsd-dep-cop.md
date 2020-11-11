@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2172 nodes (1%) are attached to their parents as `cop`.
+2168 nodes (1%) are attached to their parents as `cop`.
 
-1881 instances of `cop` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.07872928176796.
+1877 instances of `cop` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.08025830258303.
 
-The following 21 pairs of parts of speech are connected with `cop`: <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (1721; 79% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (255; 12% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (120; 6% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="pt_gsd-pos-PART.html">PART</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-X.html">X</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-DET.html">DET</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-X.html">X</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `cop`: <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (1717; 79% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (255; 12% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (121; 6% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="pt_gsd-pos-PART.html">PART</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-X.html">X</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-DET.html">DET</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-X.html">X</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,21 +56,23 @@ The following 21 pairs of parts of speech are connected with `cop`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 cop	color:blue
-1	Foi	_	AUX	AUX	_	4	cop	_	_
-2	o	_	DET	DET	_	4	det	_	_
-3	primeiro	primeiro	ADJ	ADJ	_	4	amod	_	_
-4	RPG	_	PROPN	PNOUN	_	0	root	_	_
-5	baseado	basear	VERB	VERB	_	4	acl:part	_	_
-6	em	_	ADP	ADP	_	7	case	_	_
-7	sistema	sistema	NOUN	NOUN	_	5	nmod	_	_
-8	de	_	ADP	ADP	_	9	case	_	_
-9	perícias	perícia	NOUN	NOUN	_	7	nmod	_	SpaceAfter=No
-10	.	_	PUNCT	.	_	4	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 cop	color:blue
+1	De	de	ADP	ADP	_	3	case	_	_
+2	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	álbum	álbum	NOUN	NOUN	_	5	nmod	_	_
+4	Elephunk	_	PROPN	PNOUN	_	3	appos	_	_
+5	veio	_	VERB	VERB	_	0	root	_	_
+6	"	_	PUNCT	.	_	10	punct	_	SpaceAfter=No
+7	Where	_	ADV	_	_	10	advmod	_	_
+8	is	_	AUX	_	_	10	cop	_	_
+9	the	_	DET	DET	_	10	det	_	_
+10	Love	_	PROPN	PNOUN	_	5	ccomp	_	SpaceAfter=No
+11	?	_	PUNCT	.	_	10	punct	_	SpaceAfter=No
+12	"	_	PUNCT	.	_	10	punct	_	_
 
 ~~~
 

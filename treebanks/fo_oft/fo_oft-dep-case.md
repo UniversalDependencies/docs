@@ -23,7 +23,7 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 5 case	color:blue
 1	Føroyar	Føroyar	PROPN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	4	nsubj	_	_
-2	eru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Pres	4	cop	_	_
+2	eru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Pres	4	cop	_	_
 3	ikki	ikki	ADV	Adv	_	4	advmod	_	_
 4	limur	limur	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	í	í	ADP	Pr	_	6	case	_	_
@@ -45,7 +45,7 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5 4 case	color:blue
 1	Nógv	nógvur	ADJ	A	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	amod	_	_
 2	virksemi	virksemi	NOUN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	5	nsubj	_	_
-3	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+3	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
 4	í	í	ADP	Pr	_	5	case	_	_
 5	Dímun	Dímun	PROPN	N	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -61,7 +61,7 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2 1 case	color:blue
 1	Í	í	ADP	Pr	_	2	case	_	_
 2	1957	1957	NUM	Num	Case=Dat	6	nmod	_	_
-3	verður	verða	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	_
+3	verður	verða	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	_
 4	Útvarp	útvarp	NOUN	N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	6	dep	_	_
 5	Føroya	Føroyar	PROPN	N	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	4	nmod	_	_
 6	stovnað	stovna	VERB	V	VerbForm=Sup	0	root	_	SpaceAfter=No

@@ -57,13 +57,13 @@ Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="en_line
 
 6 (13%) `X` nodes have one child.
 
-21 (44%) `X` nodes have two children.
+20 (42%) `X` nodes have two children.
 
-3 (6%) `X` nodes have three or more children.
+4 (8%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 4.
 
-Children of `X` nodes are attached using 9 different relations: <tt><a href="en_lines-dep-punct.html">punct</a></tt> (39; 67% instances), <tt><a href="en_lines-dep-flat.html">flat</a></tt> (6; 10% instances), <tt><a href="en_lines-dep-det.html">det</a></tt> (5; 9% instances), <tt><a href="en_lines-dep-nmod.html">nmod</a></tt> (3; 5% instances), <tt><a href="en_lines-dep-acl-relcl.html">acl:relcl</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (1; 2% instances)
+Children of `X` nodes are attached using 9 different relations: <tt><a href="en_lines-dep-punct.html">punct</a></tt> (40; 68% instances), <tt><a href="en_lines-dep-flat.html">flat</a></tt> (6; 10% instances), <tt><a href="en_lines-dep-det.html">det</a></tt> (5; 8% instances), <tt><a href="en_lines-dep-nmod.html">nmod</a></tt> (3; 5% instances), <tt><a href="en_lines-dep-acl-relcl.html">acl:relcl</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (1; 2% instances)
 
-Children of `X` nodes belong to 7 different parts of speech: <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (39; 67% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (7; 12% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (5; 9% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `X` nodes belong to 7 different parts of speech: <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (40; 68% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (7; 12% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (5; 8% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 2	një	një	DET	_	Gender=Masc	3	det	3:det	_
 3	klasifikim	klasifikim	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	obl	6:obl	_
 4	të	i	DET	_	Gender=Masc	5	det:pron	5:det:adj	_
-5	tillë	tillë	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	3	det	3:det	_
+5	tillë	tillë	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	3	det	3:det	_
 6	kishte	kam	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	0:root	_
 7	pikënisje	pikënisje	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	6	obj	6:obj	_
 8	të	i	DET	_	Gender=Fem	9	det:adj	9:det:adj	_
@@ -42,7 +42,7 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 14 obj	color:blue
-1	Ata	ai	PRON	_	Gender=Masc|Number=Plur|PronType=Prs	4	nsubj	4:nsubj	_
+1	Ata	ai	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	4	nsubj	4:nsubj	_
 2	në	në	ADP	_	_	3	case	3:case	_
 3	përgjithësi	përgjithësi	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	obl	4:obl	_
 4	përbëhen	përbëj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	0:root	_
@@ -67,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 obj	color:blue
-1	Disa	disa	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	2	det	2:det	_
+1	Disa	disa	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	2	det	2:det	_
 2	filozofë	filozof	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	_
 3	parashtrojnë	parashtroj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	0:root	_
 4	çështjen	çështje	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	obj	3:obj	_
@@ -75,7 +75,7 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 6	të	i	DET	_	Gender=Fem	7	det	7:det	_
 7	lumturisë	lumturi	NOUN	_	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	4	nmod:poss	4:nmod:poss	_
 8	dhe	dhe	CCONJ	_	_	10	cc	10:cc	_
-9	e	i	PRON	_	Gender=Fem|Number=Sing|PronType=Prs	10	obj	10:obj	_
+9	e	i	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	10	obj	10:obj	_
 10	identifikojnë	identifikoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	3	conj	3:conj	_
 11	me	me	ADP	_	_	12	case	12:case	_
 12	kënaqësitë	kënaqësi	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	10	obl	10:obl	SpaceAfter=No

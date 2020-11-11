@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="br_keb-pos-DET.html
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (153; 100% of non-empty `Poss`): <em>ho, o, e, ma, he, va, hon, hoc'h, da, hor</em>
-* `EMPTY` (1052): <em>ar, an, ur, al, un, r, n, _, holl, ul</em>
+* `EMPTY` (1052): <em>ar, an, ur, al, r, un, n, holl, ul, bep</em>
 

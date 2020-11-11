@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt>.
 
-14 nodes (1%) are attached to their parents as `obl:tmod`.
+25 nodes (0%) are attached to their parents as `obl:tmod`.
 
-11 instances of `obl:tmod` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.21428571428571.
+21 instances of `obl:tmod` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.8.
 
-The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (11; 79% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 7% instances).
+The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (21; 84% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (2; 8% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -26,12 +26,30 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 1	Идралін	идравны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	advcl	_	_
 2	аскадӧ	аскадӧ	NOUN	N	Case=Ill|Number=Sing	1	obl:tmod	_	_
 3	–	–	PUNCT	PUNCT	_	4	punct	_	_
-4	выиграйтін	выиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	SpaceAfter=No
+4	выиграйтін	выиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	Lang=Mixed|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
 6	сёрмӧдчин	сёрмӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	8	advcl	_	_
 7	–	–	PUNCT	PUNCT	_	8	punct	_	_
-8	проиграйтін	проиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	conj	_	SpaceAfter=No
+8	проиграйтін	проиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	conj	_	Lang=Mixed|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 1 obl:tmod	color:blue
+1	Мудзӧм	мудзӧм	VERB	V	Case=Nom|Derivation=Vnoun|Number=Sing	7	obl:tmod	_	GTtags=NomAct,Sg,Nom
+2	бӧрад	бӧрын	ADP	Adp	AdpType=Post|Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=2	1	case	_	GTtags=Po,Sg,Ine,PxSg2
+3	и	и	CCONJ	CC	_	5	advmod	_	_
+4	пиня	пиня	NOUN	N	Case=Nom|Number=Sing	5	nmod	_	GTtags=Sg,Nom
+5	тув	тув	NOUN	N	Case=Nom|Number=Sing	7	obl	_	GTtags=Sg,Nom
+6	вылын	вылын	ADP	Adp	AdpType=Post|Case=Ine|Number=Sing	5	case	_	GTtags=Po,Sg,Ine
+7	узьсяс	узьсьыны	VERB	V	Mood=Ind|Number=Sing|Person=3|PronType=Ref|Tense=Fut	0	root	_	GTtags=Refl,Ind,Fut,Sg3|SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
 
 ~~~
 
@@ -58,21 +76,6 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 14	мунны	мунны	VERB	V	VerbForm=Inf	13	xcomp	_	_
 15	ачыс	ас	PRON	Pron	Case=Nom|Person=3|Reflex=Yes	14	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	CLB	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 obl:tmod	color:blue
-1	Кыдзи	кыдзи	ADV	Adv	PronType=Int	3	advmod	_	_
-2	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	оліс	овны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	ичӧтдырйиыс	ичӧтдырйи	ADV	Adv	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl:tmod	_	SpaceAfter=No
-5	?	?	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

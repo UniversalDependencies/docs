@@ -18,10 +18,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="kpv_lattice-pos-VER
 
 2 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=Ysj</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2; 100%).
 
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (2; 100% of non-empty `Voice`): <em>командуйтысь, локтысь</em>
-* `EMPTY` (442): <em>вермы, идралӧм, колӧ, лоны, идралӧмын, кутіс, воис, лои, мунны, вешйис</em>
+* `EMPTY` (859): <em>колӧ, вермы, лоны, идралӧм, кутіс, лои, идралӧмын, Локтас, воис, кут</em>
 

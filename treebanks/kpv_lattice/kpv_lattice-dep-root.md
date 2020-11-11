@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-232 nodes (9%) are attached to their parents as `root`.
+435 nodes (9%) are attached to their parents as `root`.
 
-232 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.03448275862069.
+435 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.25977011494253.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (186; 80% instances), -<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (19; 8% instances), -<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (18; 8% instances), -<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (4; 2% instances), -<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (3; 1% instances), -<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (343; 79% instances), -<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (36; 8% instances), -<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (35; 8% instances), -<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (14; 3% instances), -<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (5; 1% instances), -<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 1	Ныв	ныв	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
 2	ёртыслы	ёрт	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
 3	гижис	гижны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	письмӧ	письмӧ	NOUN	N	Case=Nom|Number=Sing	3	obj	_	SpaceAfter=No
+4	письмӧ	письмӧ	NOUN	N	Case=Nom|Number=Sing	3	obj	_	Lang=Mixed|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -38,9 +38,9 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 5 root	color:blue
 1	Менам	ме	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-2	батьӧй	бать	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	_
+2	батьӧй	бать	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	Lang=Mixed
 3	тэнад	тэ	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
-4	батьсьыд	бать	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	obl	_	_
+4	батьсьыд	бать	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	obl	_	Lang=Mixed
 5	бурджык	бур	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 
@@ -53,11 +53,11 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
-1	Игаузу	Игаузу	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+1	Игаузу	Игаузу	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	Lang=Mixed
 2	-	-	PUNCT	PUNCT	_	7	punct	_	_
 3	тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	7	det	_	_
 4	ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	7	amod	_	_
-5	либӧ	либӧ	CCONJ	CC	_	6	cc	_	_
+5	либӧ	либӧ	CCONJ	CC	_	6	cc	_	Lang=Mixed
 6	ичӧт	ичӧт	ADJ	A	Case=Nom|Number=Sing	4	conj	_	_
 7	канму	канму	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 8	?	?	PUNCT	CLB	_	7	punct	_	_

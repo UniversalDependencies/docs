@@ -10,10 +10,10 @@ This relation is universal.
 
 351 nodes (22%) are attached to their parents as `punct`.
 
-182 instances of `punct` (52%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.73504273504274.
+183 instances of `punct` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.76353276353276.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (242; 69% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (65; 19% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (19; 5% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (9; 3% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="olo_kkpp-pos-ADV.html">ADV</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (243; 69% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (68; 19% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (17; 5% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (9; 3% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="olo_kkpp-pos-ADV.html">ADV</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,12 +51,12 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 6 punct	color:blue
-1	–	–	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 4 1 punct	color:blue
+1	–	–	PUNCT	PUNCT	_	4	punct	_	_
 2	Iče	iče	PRON	PRON	Case=Nom|Reflex=Yes	4	nsubj:cop	_	_
 3	olen	olla	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 4	karjalaine	karjalaine	ADJ	ADJ	Case=Nom|Number=Sing	0	root	_	_

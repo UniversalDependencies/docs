@@ -8,12 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `orphan`.
+12 nodes (0%) are attached to their parents as `orphan`.
 
-4 instances of `orphan` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.4.
+11 instances of `orphan` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.33333333333333.
 
-The following 3 pairs of parts of speech are connected with `orphan`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (2; 40% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 20% instances).
+The following 7 pairs of parts of speech are connected with `orphan`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (4; 33% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (2; 17% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (2; 17% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 8% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 8 orphan	color:blue
+1	Imíonn	imigh	VERB	VI	Mood=Ind|Tense=Pres	0	root	_	_
+2	sí	sí	PRON	Pers	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
+3	suas	suas	ADV	Dir	_	1	advmod	_	_
+4	chuig	chuig	ADP	Simp	_	6	case	_	_
+5	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+6	staighre	staighre	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
+7	agus	agus	CCONJ	Coord	_	8	cc	_	_
+8	fuadar	fuadar	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	orphan	_	_
+9	fútha	fútha	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	1	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -90,7 +110,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 66	t-éag	éag	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	61	nmod	_	_
 67	'	'	PUNCT	Punct	_	66	punct	_	SpaceAfter=No
 68	)	)	PUNCT	Punct	_	66	punct	_	SpaceAfter=No
-69	,	,	PUNCT	Punct	_	70	punct	_	_
+69	,	,	PUNCT	Punct	_	6	punct	_	_
 70	beidh	bí	VERB	VI	Mood=Ind|Tense=Fut	0	root	_	_
 71	feidhm	feidhm	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	70	nsubj	_	_
 72	aige	ag	ADP	Prep	Gender=Masc|Number=Sing|Person=3	70	obl:prep	_	_
@@ -106,7 +126,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 82	lá	lá	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	70	obl	_	_
 83	sin	sin	DET	Det	PronType=Dem	82	det	_	_
 84	nó	nó	CCONJ	Coord	_	86	cc	_	SpaceAfter=No
-85	,	,	PUNCT	Punct	_	86	punct	_	_
+85	,	,	PUNCT	Punct	_	84	punct	_	_
 86	de	de	SCONJ	Subord	_	77	conj	_	_
 87	réir	réir	SCONJ	Subord	_	86	fixed	_	_
 88	mar	mar	SCONJ	Subord	_	90	mark	_	_
@@ -162,83 +182,33 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 8 orphan	color:blue
-1	Imíonn	imigh	VERB	VI	Mood=Ind|Tense=Pres	0	root	_	_
-2	sí	sí	PRON	Pers	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
-3	suas	suas	ADV	Dir	_	1	advmod	_	_
-4	chuig	chuig	ADP	Simp	_	6	case	_	_
-5	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
-6	staighre	staighre	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
-7	agus	agus	CCONJ	Coord	_	8	cc	_	_
-8	fuadar	fuadar	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	orphan	_	_
-9	fútha	fútha	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 30	bgColor:blue
-# visual-style 30	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 30 orphan	color:blue
-1	An	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	2	det	_	_
-2	tUachtarán	uachtarán	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
-3	a	a	PART	Vb	PartType=Vb|PronType=Rel	4	nsubj	_	_
-4	rinne	déan	VERB	VTI	Mood=Ind|Tense=Past	2	acl:relcl	_	_
-5	sin	sin	PRON	Dem	PronType=Dem	4	nsubj	_	SpaceAfter=No
-6	,	,	PUNCT	Punct	_	7	punct	_	_
-7	agus	agus	CCONJ	Coord	_	8	mark	_	_
-8	tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	2	advcl	_	_
-9	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
-10	ráite	ráite	ADJ	Adj	VerbForm=Part	8	xcomp:pred	_	_
-11	gur	gur	PART	Vb	PartType=Vb|Tense=Past	12	mark:prt	_	_
-12	tháinig	tar	VERB	VI	Form=Len|Mood=Ind|Tense=Past	8	ccomp	_	_
-13	leathadh	leathadh	NOUN	Noun	VerbForm=Inf	12	nsubj	_	_
-14	súl	súil	NOUN	Noun	Case=Gen|Gender=Fem|NounType=Weak|Number=Plur	13	nmod	_	_
-15	air	ar	ADP	Prep	Gender=Masc|Number=Sing|Person=3	12	obl:prep	_	_
-16	nuair	nuair	SCONJ	Subord	_	18	mark	_	_
-17	a	a	PART	Vb	PartType=Vb|PronType=Rel	18	mark:prt	_	_
-18	chonaic	feic	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	12	advcl	_	_
-19	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	18	nsubj	_	_
-20	nach	is	AUX	Cop	Polarity=Neg|Tense=Pres|VerbForm=Cop	21	cop	_	_
-21	Gaeilge	Gaeilge	PROPN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	18	ccomp	_	_
-22	a	a	PART	Vb	PartType=Vb|PronType=Rel	23	mark:prt	_	_
-23	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	21	csubj:cleft	_	_
-24	sa	i	ADP	Art	Number=Sing|PronType=Art	25	case	_	_
-25	scríbhinn	scríbhinn	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	23	xcomp:pred	_	_
-26	uirthi	ar	ADP	Prep	Gender=Fem|Number=Sing|Person=3	23	obl:prep	_	SpaceAfter=No
-27	,	,	PUNCT	Punct	_	28	punct	_	_
-28	ná	ná	SCONJ	Coord	_	29	mark	_	_
-29	fiú	fiú	NOUN	Subst	Number=Sing	30	nmod	_	_
-30	Gaeilge	Gaeilge	PROPN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	21	orphan	_	_
-31	agus	agus	CCONJ	Coord	_	32	cc	_	_
-32	Béarla	béarla	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	30	conj	_	SpaceAfter=No
-33	,	,	PUNCT	Punct	_	34	punct	_	_
-34	ach	ach	SCONJ	Subord	_	35	mark:prt	_	_
-35	Béarla	béarla	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	21	nmod	_	_
-36	amháin	amháin	ADJ	Adj	Degree=Pos	35	amod	_	_
-37	(	(	PUNCT	Punct	_	38	punct	_	SpaceAfter=No
-38	cé	cé	SCONJ	Subord	_	21	parataxis	_	_
-39	is	is	SCONJ	Subord	_	38	fixed	_	_
-40	moite	moite	SCONJ	Subord	_	38	fixed	_	_
-41	den	de	ADP	Art	Number=Sing|PronType=Art	42	case	_	_
-42	leasainm	leasainm	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	38	nmod	_	_
-43	nó	nó	CCONJ	Coord	_	44	cc	_	_
-44	ainm	ainm	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	42	conj	_	_
-45	cleite	cleite	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	44	compound	_	_
-46	'	'	PUNCT	Punct	_	48	punct	_	SpaceAfter=No
-47	An	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	48	det	_	_
-48	Craoibhín	craobh	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	38	nmod	_	_
-49	Aoibhinn	aoibhinn	ADJ	Adj	Case=NomAcc|Gender=Fem|Number=Sing	48	nmod	_	SpaceAfter=No
-50	'	'	PUNCT	Punct	_	48	punct	_	SpaceAfter=No
-51	)	)	PUNCT	Punct	_	38	punct	_	SpaceAfter=No
-52	:	:	PUNCT	:	_	2	punct	_	_
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 15 orphan	color:blue
+1	Tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
+2	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	stoc	stoc	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	ar	ar	ADP	Simp	_	5	case	_	_
+5	fad	fad	NOUN	Noun	Gender=Masc|Number=Sing	3	nmod	_	_
+6	san	i	ADP	Art	Number=Sing|PronType=Art	7	case	_	_
+7	áireamh	áireamh	NOUN	Noun	Gender=Masc|Number=Sing	1	obl	_	_
+8	sna	i	ADP	Art	Number=Plur|PronType=Art	9	case	_	_
+9	figiúir	figiúr	NOUN	Noun	Gender=Masc|Number=Sing	1	obl	_	_
+10	thuas	thuas	ADV	Dir	_	1	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	Punct	_	13	punct	_	_
+12	lena	le	PART	Rel	PronType=Rel	13	obl	_	_
+13	n-áirítear	áirigh	VERB	VT	Form=Ecl|Mood=Ind|Tense=Pres|Voice=Auto	1	acl:relcl	_	_
+14	a	a	PART	Vb	PartType=Vb|PronType=Rel	15	nsubj	_	_
+15	bhfuil	bí	VERB	PresInd	Form=Ecl|Mood=Ind|Tense=Pres	13	orphan	_	_
+16	sna	i	ADP	Art	Number=Plur|PronType=Art	17	case	_	_
+17	bailiúcháin	bailiúchán	NOUN	Noun	Definite=Def|Gender=Masc|Number=Plur	15	obl	_	_
+18	speisialta	speisialta	ADJ	Adj	Degree=Pos	17	amod	_	_
+19	seo	seo	DET	Det	PronType=Dem	17	det	_	_
+20	a	a	PART	Vb	PartType=Vb|PronType=Rel	21	nsubj	_	_
+21	leanas	lean	VERB	VTI	Mood=Ind|PronType=Rel|Tense=Pres	17	acl:relcl	_	SpaceAfter=No
+22	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

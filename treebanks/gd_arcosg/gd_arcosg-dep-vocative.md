@@ -8,30 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-60 nodes (0%) are attached to their parents as `vocative`.
+89 nodes (0%) are attached to their parents as `vocative`.
 
-45 instances of `vocative` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.08333333333333.
+68 instances of `vocative` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.7752808988764.
 
-The following 10 pairs of parts of speech are connected with `vocative`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (29; 48% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (13; 22% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (7; 12% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `vocative`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (47; 53% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (16; 18% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (10; 11% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 9 vocative	color:blue
+# visual-style 3 10 vocative	color:blue
 1	an	an	PART	Qq	Mood=Int|PartType=Vb|PronType=Int	3	mark:prt	_	_
 2	do	do	PART	Q--s	Tense=Past	3	mark:prt	_	_
 3	dh’ith	ith	VERB	V-s	Tense=Past	0	root	_	_
-4	thusa	thu	PRON	Pp2s--e	Number=Sing|Person=2|PronType=Emp	3	nsubj	_	_
+4	thusa	thu	PRON	Pp2s--e	Form=Emp|Number=Sing|Person=2	3	nsubj	_	_
 5	na	an	DET	Tdp	Number=Plur	6	det	_	_
-6	sandwiches	sandwiches	X	Xfe	Foreign=Yes	3	ccomp	_	_
-7	a’d	a'd	ADP	Pr2s	Number=Sing|Person=2	6	obl	_	_
-8	an-diugh	an-diugh	ADV	Rt	_	6	advmod	_	_
-9	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	3	vocative	_	SpaceAfter=No
-10	?	?	PUNCT	Fg	_	3	punct	_	_
+6	sandwiches	sandwiches	X	Xfe	Foreign=Yes	3	obj	_	_
+7	aig	aig	ADP	Sp	_	8	case	_	_
+8	thu	thu	PRON	Pp2s	Number=Sing|Person=2	6	obl	_	_
+9	an-diugh	an-diugh	ADV	Rt	_	6	advmod	_	_
+10	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	3	vocative	_	SpaceAfter=No
+11	?	?	PUNCT	Fg	_	3	punct	_	_
 
 ~~~
 
@@ -48,28 +49,34 @@ The following 10 pairs of parts of speech are connected with `vocative`: <tt><a 
 4	thu	thu	PRON	Pp2s	Number=Sing|Person=2	3	nsubj	_	_
 5	am	an	DET	Tds	Number=Sing	6	det	_	_
 6	pie	pie	X	Xfe	Foreign=Yes	3	obj	_	_
-7	agam	aig	ADP	Pr1s	Number=Sing|Person=1	3	obl	_	SpaceAfter=No
-8	?	?	PUNCT	Fg	_	3	punct	_	_
+7	aig	aig	ADP	Sp	_	8	case	_	_
+8	mi	mi	PRON	Pp1s	Number=Sing|Person=1	6	obl	_	_
+9	?	?	PUNCT	Fg	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 10 vocative	color:blue
-1	‘se	is	AUX	Wp-i-3	_	2	cop	_	_
-2	leabhar	leabhar	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-3	gu	gu	PART	Ua	PartType=Ad	4	mark:prt	_	_
-4	math	math	ADV	Rg	_	5	advmod	_	_
-5	doirbh	doirbh	ADJ	Ap	_	2	xcomp:pred	_	_
-6	a	a	PART	Q-r	PartType=Vb|PronType=Rel	7	mark:prt	_	_
-7	tha	bi	VERB	V-p	Tense=Pres	2	acl:relcl	_	_
-8	sin	sin	PRON	Pd	_	7	nsubj	_	_
-9	a	a	PART	Uv	PartType=Voc	10	case:voc	_	_
-10	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	2	vocative	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 14 vocative	color:blue
+1	a	a	PART	Qq	Mood=Int|PartType=Vb|PronType=Int	2	mark:prt	_	_
+2	bheil	bi	VERB	V-p--d	Tense=Pres	0	root	_	_
+3	an	an	DET	Tdsm	Gender=Masc|Number=Sing	4	det	_	_
+4	cnatan	cnatan	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	air	air	ADP	Sp	_	6	case	_	_
+6	duine	duine	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	2	xcomp:pred	_	_
+7	sam	sam	ADJ	Aq	_	6	amod	_	_
+8	bith	bith	ADJ	Aq	_	7	fixed	_	_
+9	eile	eile	ADJ	Aq-smd	Case=Dat|Gender=Masc|Number=Sing	6	amod	_	_
+10	thall	thall	ADV	Rs	_	11	advmod	_	_
+11	an	an	ADV	Rs	_	6	advmod	_	_
+12	sin	sin	ADV	Rs	_	11	fixed	_	_
+13	a	a	PART	Uv	PartType=Voc	14	case:voc	_	_
+14	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	6	vocative	_	SpaceAfter=No
+15	?	?	PUNCT	Fg	_	2	punct	_	_
 
 ~~~
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Evident` co-occurr
 `VERB` tokens may have the following values of `Evident`:
 
 * `Nfh` (22; 100% of non-empty `Evident`): <em>мӧдэма, висьталэма, Пургамема, волэма, воома, воссема, вурема, вӧрземаась, звӧнитчылэма, колэма</em>
-* `EMPTY` (172): <em>босьтіс, вежсис, вермы, ветлі, примитіс, пукаліс, рӧдитчи, рӧдитчылі, ветліс, висьтооны</em>
+* `EMPTY` (176): <em>босьтіс, вежсис, вермы, ветлі, примитіс, пукаліс, рӧдитчи, рӧдитчылі, ветліс, висьтооны</em>
 
 `Evident` seems to be **lexical feature** of `VERB`. 100% lemmas (19) occur only with one value of `Evident`.
 

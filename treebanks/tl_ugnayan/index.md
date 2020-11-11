@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Angelina Aquino.
 
 Repository: [UD_Tagalog-Ugnayan](https://github.com/UniversalDependencies/UD_Tagalog-Ugnayan)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtl_ugnayan26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtl_ugnayan27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-NC-SA 4.0
 

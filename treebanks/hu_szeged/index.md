@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Richárd Farkas, Katalin Simkó, Zsolt Szántó, Viktor Varga, Veronika Vincze.
 
 Repository: [UD_Hungarian-Szeged](https://github.com/UniversalDependencies/UD_Hungarian-Szeged)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhu_szeged26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhu_szeged27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-NC-SA 3.0
 

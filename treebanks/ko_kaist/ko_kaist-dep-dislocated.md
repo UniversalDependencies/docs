@@ -24,7 +24,7 @@ The following 74 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 3 2 dislocated	color:blue
 1	내	내	ADJ	mma	_	2	amod	_	_
 2	고향은	고향+은	NOUN	ncn+jxt	_	3	dislocated	_	_
-3	서울입니다	서울+이+ㅂ니다	VERB	nq+jp+ef	_	0	root	_	_
+3	서울입니다	서울+이+ㅂ니다	VERB	nq+jp+ef	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	sf	_	3	punct	_	_
 
 ~~~
@@ -49,7 +49,7 @@ The following 74 pairs of parts of speech are connected with `dislocated`: <tt><
 11	종소리가	종소리+가	NOUN	ncn+jcs	_	14	nsubj	_	_
 12	어디서나	어디+서나	ADV	npd+jxc	_	14	advcl	_	_
 13	다	다	ADV	mag	_	14	advmod	_	_
-14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	_
+14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
 
 ~~~
@@ -69,7 +69,7 @@ The following 74 pairs of parts of speech are connected with `dislocated`: <tt><
 6	외우며	외우+며	SCONJ	pvg+ecs	_	7	ccomp	_	_
 7	공부하면	공부+하+면	SCONJ	ncpa+xsv+ecs	_	0	root	_	_
 8	좋은	좋+ㄴ	ADJ	paa+etm	_	7	conj	_	_
-9	것이다	것+이+다	VERB	nbn+jp+ef	_	8	aux	_	_
+9	것이다	것+이+다	VERB	nbn+jp+ef	_	8	aux	_	SpaceAfter=No
 10	.	.	PUNCT	sf	_	9	punct	_	_
 
 ~~~

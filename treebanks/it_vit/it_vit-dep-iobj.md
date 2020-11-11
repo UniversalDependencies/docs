@@ -10,10 +10,10 @@ This relation is universal.
 
 181 nodes (0%) are attached to their parents as `iobj`.
 
-141 instances of `iobj` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.60220994475138.
+142 instances of `iobj` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.58563535911602.
 
-The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (170; 94% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (6; 3% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (171; 94% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (5; 3% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -64,7 +64,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 12	amministratori	amministratore	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
 13	e	e	CCONJ	CC	_	14	cc	_	_
 14	imprese	impresa	NOUN	S	Gender=Fem|Number=Plur	12	conj	_	_
-15	qualunque	qualunque	DET	DI	PronType=Ind	16	det	_	_
+15	qualunque	qualunque	DET	DI	Number=Sing|PronType=Ind	16	det	_	_
 16	punto	punto	NOUN	S	Gender=Masc	10	obj	_	_
 17	di	di	ADP	E	_	18	case	_	_
 18	riferimento	riferimento	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
@@ -96,7 +96,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 15	ora	ora	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
 16	,	,	PUNCT	FC	_	8	punct	_	_
 17	che	che	PRON	PR	PronType=Rel	21	nsubj	_	_
-18	gli	gli	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	21	iobj	_	_
+18	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Person=3|PronType=Prs	21	iobj	_	_
 19	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
 20	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	cop	_	_
 21	fatale	fatale	ADJ	A	Number=Sing	8	acl:relcl	_	SpaceAfter=No

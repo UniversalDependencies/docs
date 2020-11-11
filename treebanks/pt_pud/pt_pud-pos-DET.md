@@ -6,28 +6,29 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-PUD: POS Tags: `DET`
 
-There are 5 `DET` lemmas (19%), 59 `DET` types (1%) and 3531 `DET` tokens (15%).
-Out of 14 observed tags, the rank of `DET` is: 3 in number of lemmas, 8 in number of types and 3 in number of tokens.
+There are 9 `DET` lemmas (0%), 66 `DET` types (1%) and 3534 `DET` tokens (15%).
+Out of 16 observed tags, the rank of `DET` is: 10 in number of lemmas, 8 in number of types and 3 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>_, o, este, um, esse</em>
+The 10 most frequent `DET` lemmas: <em>o, um, _, este, cujo, esse, seu, nosso, outro</em>
 
 The 10 most frequent `DET` types:  <em>o, a, os, as, um, uma, esta, este, cada, muitos</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 4636, <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> 2571, <tt><a href="pt_pud-pos-PUNCT.html">PUNCT</a></tt> 2547, <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt> 2512, <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 2070, <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> 1554, <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt> 1352, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 910, <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> 841, <tt><a href="pt_pud-pos-CCONJ.html">CCONJ</a></tt> 578, <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> 471, <tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> 328, <tt><a href="pt_pud-pos-SYM.html">SYM</a></tt> 34, <tt><a href="pt_pud-pos-X.html">X</a></tt> 9), <em>este</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 39, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>o</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 2791, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 2), <em>um</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 401, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 4), <em>_</em> (<tt><a href="pt_pud-pos-VERB.html">VERB</a></tt> 1059, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 891, <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> 689, <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> 467, <tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> 418, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 316, <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 290, <tt><a href="pt_pud-pos-CCONJ.html">CCONJ</a></tt> 131, <tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> 96, <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> 94, <tt><a href="pt_pud-pos-SYM.html">SYM</a></tt> 40, <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="pt_pud-pos-X.html">X</a></tt> 5, <tt><a href="pt_pud-pos-INTJ.html">INTJ</a></tt> 1), <em>este</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 39, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 997, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 29), <em>a</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 975, <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> 279, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 8, <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt> 2), <em>os</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 337, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 4), <em>um</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 213, <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> 20, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>uma</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 186, <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> 8, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>esta</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 21, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 2), <em>este</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 17, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 4), <em>muitos</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 5), <em>isso</em> (<tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 16, <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 10), <em>muitas</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 9, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 1001, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 31), <em>a</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 972, <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> 276, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 8, <tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt> 2), <em>os</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 335, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 4), <em>um</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 213, <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> 20, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>uma</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 186, <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> 8, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>esta</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 21, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 2), <em>este</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 17, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 4), <em>muitos</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 5), <em>isso</em> (<tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 16, <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 10), <em>muitas</em> (<tt><a href="pt_pud-pos-DET.html">DET</a></tt> 9, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>o</em>
-  * <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 997: <em>$5,000 por pessoa , <b>o</b> máximo permitido .</em>
-  * <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 29: <em>Isto não é <b>o</b> que precisamos em o nosso país , pessoal .</em>
+  * <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 1001: <em>$ 5,000 por pessoa , <b>o</b> máximo permitido .</em>
+  * <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 31: <em>Isto não é <b>o</b> que precisamos em o nosso país , pessoal .</em>
 * <em>a</em>
-  * <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 975: <em>Os novos gastos são alimentados por <b>a</b> grande conta bancária de Clinton .</em>
-  * <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> 279: <em>Há comparações <b>a</b> traçar aqui entre jogos e a nossa vida quotidiana .</em>
+  * <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 972: <em>Os novos gastos são alimentados por <b>a</b> grande conta bancária de Clinton .</em>
+  * <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> 276: <em>Há comparações <b>a</b> traçar aqui entre jogos e a nossa vida quotidiana .</em>
   * <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 8: <em>Eu não sei por que é que <b>a</b> escolhi ...</em>
+  * <tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> 3: <em>Mas , <b>a</b> a medida que a crítica contra Clinton como primeira dama se tornou mais ácida , Karel demonstrou mais empatia .</em>
   * <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt> 2: <em>Em On <b>a</b> Wing and <b>a</b> Prayer ( 1992 ) se reuniu com o seu colega de os Stealers Wheel , Egan , em diversas faixas .</em>
 * <em>os</em>
-  * <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 337: <em>Anteriormente , <b>os</b> jatos só tinham sido vistos por <b>os</b> blogueiros .</em>
+  * <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 335: <em>Anteriormente , <b>os</b> jatos só tinham sido vistos por <b>os</b> blogueiros .</em>
   * <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 4: <em>Alguns estudiosos cristãos criticam os ensinamentos de Tolle , enquanto outros <b>os</b> elogiam .</em>
 * <em>um</em>
   * <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 213: <em>É como <b>um</b> superpoder , a as vezes .</em>
@@ -55,38 +56,40 @@ The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="pt_pud-pos-DET.h
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 11.800000 (the average of all parts of speech is 228.814815).
+The form / lemma ratio of `DET` is 7.333333 (the average of all parts of speech is 1.574215).
 
-The 1st highest number of forms (57) was observed with the lemma “_”: <em>Aquela, a, algum, alguma, algumas, alguns, ambas, ambos, as, cada, certas, certo, certos, determinados, diversas, essa, essas, esse, esses, esta, estas, este, estes, mesmo, muita, muitas, muito, muitos, nenhum, nenhuma, o, os, outra, outras, outro, outros, pouca, poucos, própria, próprias, próprio, próprios, qualquer, quantas, que, tal, tantas, toda, todas, todo, todos, um, uma, umas, uns, várias, vários</em>.
+The 1st highest number of forms (54) was observed with the lemma “_”: <em>Aquela, As, Um, Uma, algum, alguma, algumas, alguns, ambas, ambos, cada, certas, certo, certos, determinados, diversas, essa, essas, esse, esses, esta, estas, este, estes, mesmo, muita, muitas, muito, muitos, nenhum, nenhuma, outra, outras, outro, outros, pouca, poucos, própria, próprias, próprio, próprios, qualquer, quantas, que, tal, tantas, toda, todas, todo, todos, umas, uns, várias, vários</em>.
 
 The 2nd highest number of forms (6) was observed with the lemma “este”: <em>esta, estas, este, estes, isso, isto</em>.
 
 The 3rd highest number of forms (4) was observed with the lemma “o”: <em>a, as, o, os</em>.
 
-`DET` occurs with 4 features: <tt><a href="pt_pud-feat-Number.html">Number</a></tt> (3530; 100% instances), <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt> (3526; 100% instances), <tt><a href="pt_pud-feat-Case.html">Case</a></tt> (5; 0% instances), <tt><a href="pt_pud-feat-Person.html">Person</a></tt> (5; 0% instances)
+`DET` occurs with 8 features: <tt><a href="pt_pud-feat-Number.html">Number</a></tt> (3533; 100% instances), <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt> (3530; 100% instances), <tt><a href="pt_pud-feat-PronType.html">PronType</a></tt> (11; 0% instances), <tt><a href="pt_pud-feat-Person.html">Person</a></tt> (5; 0% instances), <tt><a href="pt_pud-feat-Case.html">Case</a></tt> (4; 0% instances), <tt><a href="pt_pud-feat-Definite.html">Definite</a></tt> (4; 0% instances), <tt><a href="pt_pud-feat-Poss.html">Poss</a></tt> (4; 0% instances), <tt><a href="pt_pud-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances)
 
-`DET` occurs with 7 feature-value pairs: `Case=Acc`, `Case=Dat`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`
+`DET` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Dat`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Person=1`, `Poss=Yes`, `PronType=Art`, `PronType=Prs`, `PronType=Rel`
 
-`DET` occurs with 7 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing` (1416 tokens).
-Examples: <em>o, um, este, isso, cada, mesmo, outro, muito, nenhum, esse</em>
+`DET` occurs with 16 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing` (1415 tokens).
+Examples: <em>o, um, este, isso, cada, outro, mesmo, muito, nenhum, esse</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 6 different relations: <tt><a href="pt_pud-dep-det.html">det</a></tt> (3379; 96% instances), <tt><a href="pt_pud-dep-det-predet.html">det:predet</a></tt> (113; 3% instances), <tt><a href="pt_pud-dep-fixed.html">fixed</a></tt> (26; 1% instances), <tt><a href="pt_pud-dep-mark.html">mark</a></tt> (8; 0% instances), <tt><a href="pt_pud-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="pt_pud-dep-conj.html">conj</a></tt> (2; 0% instances)
+`DET` nodes are attached to their parents using 8 different relations: <tt><a href="pt_pud-dep-det.html">det</a></tt> (3372; 95% instances), <tt><a href="pt_pud-dep-det-predet.html">det:predet</a></tt> (113; 3% instances), <tt><a href="pt_pud-dep-fixed.html">fixed</a></tt> (32; 1% instances), <tt><a href="pt_pud-dep-mark.html">mark</a></tt> (8; 0% instances), <tt><a href="pt_pud-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="pt_pud-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="pt_pud-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="pt_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> (3025; 86% instances), <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt> (341; 10% instances), <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> (87; 2% instances), <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> (26; 1% instances), <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt> (25; 1% instances), <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pt_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="pt_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> (3049; 86% instances), <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt> (360; 10% instances), <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> (35; 1% instances), <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt> (28; 1% instances), <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="pt_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pt_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-3517 (100%) `DET` nodes are leaves.
+3516 (99%) `DET` nodes are leaves.
 
-6 (0%) `DET` nodes have one child.
+8 (0%) `DET` nodes have one child.
 
-8 (0%) `DET` nodes have two children.
+9 (0%) `DET` nodes have two children.
 
-The highest child degree of a `DET` node is 2.
+1 (0%) `DET` nodes have three or more children.
 
-Children of `DET` nodes are attached using 5 different relations: <tt><a href="pt_pud-dep-fixed.html">fixed</a></tt> (16; 73% instances), <tt><a href="pt_pud-dep-advmod.html">advmod</a></tt> (2; 9% instances), <tt><a href="pt_pud-dep-conj.html">conj</a></tt> (2; 9% instances), <tt><a href="pt_pud-dep-cc.html">cc</a></tt> (1; 5% instances), <tt><a href="pt_pud-dep-punct.html">punct</a></tt> (1; 5% instances)
+The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes belong to 6 different parts of speech: <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> (8; 36% instances), <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> (8; 36% instances), <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> (2; 9% instances), <tt><a href="pt_pud-pos-DET.html">DET</a></tt> (2; 9% instances), <tt><a href="pt_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="pt_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 5% instances)
+Children of `DET` nodes are attached using 6 different relations: <tt><a href="pt_pud-dep-fixed.html">fixed</a></tt> (16; 55% instances), <tt><a href="pt_pud-dep-case.html">case</a></tt> (4; 14% instances), <tt><a href="pt_pud-dep-punct.html">punct</a></tt> (4; 14% instances), <tt><a href="pt_pud-dep-advmod.html">advmod</a></tt> (2; 7% instances), <tt><a href="pt_pud-dep-conj.html">conj</a></tt> (2; 7% instances), <tt><a href="pt_pud-dep-cc.html">cc</a></tt> (1; 3% instances)
+
+Children of `DET` nodes belong to 6 different parts of speech: <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> (12; 41% instances), <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> (8; 28% instances), <tt><a href="pt_pud-pos-PUNCT.html">PUNCT</a></tt> (4; 14% instances), <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="pt_pud-pos-DET.html">DET</a></tt> (2; 7% instances), <tt><a href="pt_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances)
 

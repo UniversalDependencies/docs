@@ -38,7 +38,7 @@ The following 101 pairs of parts of speech are connected with `conj`: <tt><a hre
 14	때	때	NOUN	ncn	_	16	compound	_	_
 15	그	그	DET	mmd	_	16	det	_	_
 16	서울이	서울+이	PROPN	nq+jcs	_	17	nsubj	_	_
-17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	_
+17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	sf	_	17	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 101 pairs of parts of speech are connected with `conj`: <tt><a hre
 14	때	때	NOUN	ncn	_	16	compound	_	_
 15	그	그	DET	mmd	_	16	det	_	_
 16	서울이	서울+이	PROPN	nq+jcs	_	17	nsubj	_	_
-17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	_
+17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	sf	_	17	punct	_	_
 
 ~~~
@@ -84,7 +84,7 @@ The following 101 pairs of parts of speech are connected with `conj`: <tt><a hre
 4	먹지	먹+지	VERB	pvg+ecx	_	0	root	_	_
 5	않고	않+고	CCONJ	px+ecc	_	4	aux	_	_
 6	반쯤	반+쯤	NOUN	ncn+xsn	_	7	advmod	_	_
-7	남기지요	남기+지요	VERB	pvg+ef	_	4	conj	_	_
+7	남기지요	남기+지요	VERB	pvg+ef	_	4	conj	_	SpaceAfter=No
 8	.	.	PUNCT	sf	_	7	punct	_	_
 
 ~~~

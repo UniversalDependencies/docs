@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-PDT: POS Tags: `CCONJ`
 
-There are 45 `CCONJ` lemmas (0%), 48 `CCONJ` types (0%) and 56873 `CCONJ` tokens (4%).
+There are 44 `CCONJ` lemmas (0%), 48 `CCONJ` types (0%) and 56873 `CCONJ` tokens (4%).
 Out of 17 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 8 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
 
 The 10 most frequent `CCONJ` types:  <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 32110, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 133, <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> 9, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 4), <em>i</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 7804, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> 2), <em>proto</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 950, <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 229), <em>až</em> (<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 1384, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 639, <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> 139), <em>ovšem</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 626, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 42), <em>tak</em> (<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 2354, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 389), <em>jak</em> (<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 1802, <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> 398, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 52, <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> 5), <em>plus</em> (<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 31, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 22), <em>alias</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 2), <em>as</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 32110, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 133, <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> 9, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 4), <em>i</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 7804, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> 2), <em>proto</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 950, <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 229), <em>až</em> (<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 1384, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 639, <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> 139), <em>ovšem</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 626, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 42), <em>tak</em> (<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 2354, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 389), <em>and</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 56, <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> 2), <em>jak</em> (<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 1802, <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> 398, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 52, <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> 5), <em>plus</em> (<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 31, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 22), <em>alias</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 31068, <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> 183, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 49, <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> 7), <em>i</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 7339, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> 2), <em>proto</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 655, <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 229), <em>až</em> (<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 1295, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 639, <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> 111), <em>ovšem</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 561, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 42), <em>tak</em> (<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 2201, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 358), <em>buď</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 112, <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> 12, <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> 1), <em>and</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 45, <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> 2), <em>jak</em> (<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 1351, <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> 221, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 50, <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> 5), <em>plus</em> (<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 21, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 20)
 
@@ -58,13 +58,13 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cs_pdt-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 2.181762).
+The form / lemma ratio of `CCONJ` is 1.090909 (the average of all parts of speech is 2.182017).
 
-The 1st highest number of forms (2) was observed with the lemma “krát”: <em>krát, kráte</em>.
+The 1st highest number of forms (2) was observed with the lemma “and”: <em>and, n</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “nebo”: <em>neb, nebo</em>.
+The 2nd highest number of forms (2) was observed with the lemma “krát”: <em>krát, kráte</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “neboť”: <em>neboť, ť</em>.
+The 3rd highest number of forms (2) was observed with the lemma “nebo”: <em>neb, nebo</em>.
 
 `CCONJ` occurs with 5 features: <tt><a href="cs_pdt-feat-Abbr.html">Abbr</a></tt> (192; 0% instances), <tt><a href="cs_pdt-feat-Foreign.html">Foreign</a></tt> (80; 0% instances), <tt><a href="cs_pdt-feat-ConjType.html">ConjType</a></tt> (56; 0% instances), <tt><a href="cs_pdt-feat-Style.html">Style</a></tt> (4; 0% instances), <tt><a href="cs_pdt-feat-NameType.html">NameType</a></tt> (1; 0% instances)
 

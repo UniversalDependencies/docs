@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="it_isdt-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.087500 (the average of all parts of speech is 1.480768).
+The form / lemma ratio of `ADP` is 1.087500 (the average of all parts of speech is 1.481009).
 
 The 1st highest number of forms (6) was observed with the lemma “di”: <em>ad, d', de, des, di, d’</em>.
 
@@ -70,12 +70,12 @@ The 2nd highest number of forms (2) was observed with the lemma “a”: <em>a, 
 
 The 3rd highest number of forms (2) was observed with the lemma “circa”: <em>ca, circa</em>.
 
-`ADP` occurs with 2 features: <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="it_isdt-feat-Number.html">Number</a></tt> (1; 0% instances)
+`ADP` occurs with 2 features: <tt><a href="it_isdt-feat-Number.html">Number</a></tt> (20; 0% instances), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt> (1; 0% instances)
 
-`ADP` occurs with 2 feature-value pairs: `Gender=Masc`, `Number=Sing`
+`ADP` occurs with 3 feature-value pairs: `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
-`ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (45313 tokens).
+`ADP` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (45294 tokens).
 Examples: <em>di, a, in, da, per, con, su, come, ad, tra</em>
 
 

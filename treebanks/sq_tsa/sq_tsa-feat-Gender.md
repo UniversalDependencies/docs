@@ -9,14 +9,14 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-501 tokens (54%) have a non-empty value of `Gender`.
+500 tokens (54%) have a non-empty value of `Gender`.
 339 types (71%) occur at least once with a non-empty value of `Gender`.
 279 lemmas (68%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> (235; 25% instances), <tt><a href="sq_tsa-pos-DET.html">DET</a></tt> (115; 12% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt> (83; 9% instances), <tt><a href="sq_tsa-pos-PRON.html">PRON</a></tt> (52; 6% instances), <tt><a href="sq_tsa-pos-PROPN.html">PROPN</a></tt> (15; 2% instances), <tt><a href="sq_tsa-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> (235; 25% instances), <tt><a href="sq_tsa-pos-DET.html">DET</a></tt> (115; 12% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt> (83; 9% instances), <tt><a href="sq_tsa-pos-PRON.html">PRON</a></tt> (52; 6% instances), <tt><a href="sq_tsa-pos-PROPN.html">PROPN</a></tt> (15; 2% instances).
 
 ### `NOUN`
 
-235 <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Gender`.
+235 <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="sq_tsa-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (205; 87%), <tt><a href="sq_tsa-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (161; 69%), <tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (159; 68%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (140; 60% of non-empty `Gender`): <em>Dashuria, kohës, marrëdhënieve, mënyrë, politikat, shkencat, shoqëri, sjelljes, tregtinë, Bujqësia</em>
 * `Masc` (95; 40% of non-empty `Gender`): <em>Evolucioni, Ishulli, dramaturgu, njeriut, njerëz, qytetit, shtete, ushqimit, vend, Interesi</em>
-* `EMPTY` (4): <em>botëkuptim, ekziston, etj, lloj</em>
+* `EMPTY` (3): <em>botëkuptim, etj, lloj</em>
 
 <table>
   <tr><th>Paradigm <i>njeri</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -82,16 +82,16 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (28; 54% of non-empty `Gender`): <em>disa, e, gjitha, këto, Kjo, cilat, këtë, saj, ato, atë</em>
-* `Masc` (24; 46% of non-empty `Gender`): <em>i, Ata, tij, Ky, ai, cilitdo, disa, Këto, atyre, këtë</em>
+* `Masc` (24; 46% of non-empty `Gender`): <em>Ata, i, tij, Ky, ai, cilitdo, disa, Këto, atyre, këtë</em>
 * `EMPTY` (1): <em>u</em>
 
 <table>
   <tr><th>Paradigm <i>ai</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_tsa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sq_tsa-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>ai</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_tsa-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="sq_tsa-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>tij</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_tsa-feat-PronType.html">PronType</a></tt><tt>=Emp</tt></tt></td><td></td><td><em>e</em></td></tr>
-  <tr><td><tt><tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_tsa-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>Ai</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sq_tsa-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>Ata</em></td><td><em>ato</em></td></tr>
+  <tr><td><tt><tt><a href="sq_tsa-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_tsa-feat-PronType.html">PronType</a></tt><tt>=Emp</tt></tt></td><td></td><td><em>e</em></td></tr>
+  <tr><td><tt><tt><a href="sq_tsa-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_tsa-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="sq_tsa-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>tij</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sq_tsa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_tsa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sq_tsa-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>ai</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sq_tsa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_tsa-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>Ai</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sq_tsa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sq_tsa-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>Ata</em></td><td><em>ato</em></td></tr>
 </table>
 
 ### `PROPN`
@@ -108,15 +108,6 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 `Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (13) occur only with one value of `Gender`.
 
-### `CCONJ`
-
-1 <tt><a href="sq_tsa-pos-CCONJ.html">CCONJ</a></tt> tokens (3% of all `CCONJ` tokens) have a non-empty value of `Gender`.
-
-`CCONJ` tokens may have the following values of `Gender`:
-
-* `Fem` (1; 100% of non-empty `Gender`): <em>e</em>
-* `EMPTY` (36): <em>dhe, ose, apo, edhe</em>
-
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
@@ -128,6 +119,6 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>ADJ --[<tt><a href="sq_tsa-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 100%),
 <tt>ADJ --[<tt><a href="sq_tsa-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4; 67%),
 <tt>NOUN --[<tt><a href="sq_tsa-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (4; 80%),
-<tt>ADJ --[<tt><a href="sq_tsa-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3; 60%),
-<tt>ADJ --[<tt><a href="sq_tsa-dep-det.html">det</a></tt>]--> DET</tt> (2; 67%).
+<tt>NOUN --[<tt><a href="sq_tsa-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4; 57%),
+<tt>ADJ --[<tt><a href="sq_tsa-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3; 60%).
 

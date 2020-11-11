@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (0%) are attached to their parents as `vocative`.
+24 nodes (0%) are attached to their parents as `vocative`.
 
-13 instances of `vocative` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.47826086956522.
+13 instances of `vocative` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.45833333333333.
 
-The following 10 pairs of parts of speech are connected with `vocative`: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (9; 39% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (3; 13% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2; 9% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (2; 9% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2; 9% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 10 pairs of parts of speech are connected with `vocative`: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (10; 42% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (3; 13% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -44,10 +44,10 @@ The following 10 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 vocative	color:blue
-1	Southeast	Southeast	X	Xf	_	3	compound	_	_
-2	European	European	X	Xf	_	3	compound	_	_
-3	Times	Times	X	Xf	_	8	parataxis	_	SpaceAfter=No
-4	:	:	PUNCT	Z	_	3	punct	_	_
+1	Southeast	Southeast	X	Xf	_	8	parataxis	_	_
+2	European	European	X	Xf	_	1	flat	_	_
+3	Times	Times	X	Xf	_	1	flat	_	SpaceAfter=No
+4	:	:	PUNCT	Z	_	1	punct	_	_
 5	G.	G.	NOUN	Y	_	6	vocative	_	_
 6	predsjedniče	predsjednik	NOUN	Ncmsv	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	SpaceAfter=No
 7	,	,	PUNCT	Z	_	6	punct	_	_

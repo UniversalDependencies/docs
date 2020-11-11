@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `nmod`
 
 This relation is universal.
+There are 2 language-specific subtypes of `nmod`: <tt><a href="kpv_lattice-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="kpv_lattice-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-98 nodes (4%) are attached to their parents as `nmod`.
+237 nodes (5%) are attached to their parents as `nmod`.
 
-89 instances of `nmod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3265306122449.
+223 instances of `nmod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.31645569620253.
 
-The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (47; 48% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (15; 15% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (10; 10% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (7; 7% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (7; 7% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (155; 65% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (22; 9% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (16; 7% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (14; 6% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (8; 3% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,38 +38,32 @@ The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nmod	color:blue
+1	Первойсӧ	первой	ADV	Adv	Clitic=So	4	advmod:tmod	_	Lang=Mixed
+2	ичӧтик	ичӧтик	ADJ	A	Case=Nom|Derivation=Ik|Number=Sing	3	amod	_	_
+3	баляяс	баля	NOUN	N	Case=Nom|Number=Plur	4	nmod	_	_
+4	кодьӧсь	кодь	ADJ	A	Case=Nom|Number[subj]=Plur	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nmod	color:blue
 1	Менам	ме	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-2	батьӧй	бать	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	_
+2	батьӧй	бать	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	Lang=Mixed
 3	тэнад	тэ	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
-4	батьсьыд	бать	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	obl	_	_
+4	батьсьыд	бать	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	obl	_	Lang=Mixed
 5	бурджык	бур	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 nmod	color:blue
-1	Быдлаысь	быдла	ADV	Adv	Case=Ela	2	advmod:lmod	_	_
-2	кыліс	кывны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-3	винтовкаяслӧн	винтовка	NOUN	N	Case=Gen|Number=Plur	4	nmod	_	_
-4	трачӧдчӧм	трачӧдчыны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	2	csubj	_	SpaceAfter=No
-5	,	,	PUNCT	CLB	_	7	punct	_	_
-6	орудиеысь	орудие	NOUN	N	Case=Ela|Number=Sing	7	nmod	_	_
-7	лыйлӧм	лыйлыны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	SpaceAfter=No
-8	,	,	PUNCT	CLB	_	10	punct	_	_
-9	взрывъяслӧн	взрыв	NOUN	N	Case=Gen|Number=Plur	10	nmod	_	_
-10	грымгӧм	грымгыны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	SpaceAfter=No
-11	…	…	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

@@ -72,7 +72,7 @@ The following 15 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 6	,	,	PUNCT	Z:-------------	_	9	punct	9:punct	_
 7	kolik	kolik	DET	C?--1----------	Case=Nom|NumType=Card|PronType=Int,Rel	9	nsubj:pass	9:nsubj:pass	_
 8	bude	být	AUX	VB-S---3F-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	9	aux:pass	9:aux:pass	_
-9	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	5	amod	5:amod	SpaceAfter=No|LDeriv=stanovit|LGloss=(určit)
+9	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	5	amod	5:amod	SpaceAfter=No|LGloss=(určit)|LDeriv=stanovit
 10	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~

@@ -40,7 +40,7 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 mark	color:blue
-1	Ata	ai	PRON	_	Gender=Masc|Number=Plur|PronType=Prs	4	nsubj	4:nsubj	_
+1	Ata	ai	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	4	nsubj	4:nsubj	_
 2	janë	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	4	cop	4:cop	_
 3	të	i	DET	_	Gender=Masc	4	det:adj	4:det:adj	_
 4	vetmit	vetmi	ADJ	_	Gender=Masc|Number=Plur	0	root	0:root	_
@@ -62,14 +62,14 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 11 mark	color:blue
-1	Cilat	cili	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Int	0	root	0:root	_
+1	Cilat	cili	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Int	0	root	0:root	_
 2	janë	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	1	cop	1:cop	_
 3	mënyrat	mënyrë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	1:nsubj	_
 4	për	për	ADP	_	_	6	mark	6:mark	_
 5	të	të	PART	_	_	6	mark	6:mark	_
 6	dashuruar	dashuroj	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	3:advcl	_
 7	dhe	dhe	CCONJ	_	_	8	cc	8:cc	_
-8	cila	cili	PRON	_	Gender=Fem|Number=Sing|PronType=Int	1	conj	1:conj	_
+8	cila	cili	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	1	conj	1:conj	_
 9	është	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	cop	8:cop	_
 10	fuqia	fuqi	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	_
 11	për	për	ADP	_	_	13	mark	13:mark	_

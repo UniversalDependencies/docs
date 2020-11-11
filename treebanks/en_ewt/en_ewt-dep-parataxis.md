@@ -27,7 +27,7 @@ The following 66 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	entire	entire	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	article	article	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
 5	;	;	PUNCT	,	_	1	punct	1:punct	_
-6	there	there	PRON	EX	_	7	expl	7:expl	SpaceAfter=No
+6	there	there	PRON	EX	_	7	expl	7:expl	_
 7	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
 8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
 9	punchline	punchline	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
@@ -49,7 +49,7 @@ The following 66 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	story	story	NOUN	NN	Number=Sing	1	nmod	1:nmod:of	SpaceAfter=No
 5	:	:	PUNCT	:	_	1	punct	1:punct	_
-6	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	8	aux	8:aux	SpaceAfter=No
+6	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	8	aux	8:aux	_
 7	n't	not	PART	RB	_	8	advmod	8:advmod	_
 8	drink	drink	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	1:parataxis	_
 9	Coke	Coke	PROPN	NNP	Number=Sing	8	obj	8:obj	SpaceAfter=No

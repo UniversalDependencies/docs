@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Romanian-SiMoNERo: Relations: `ccomp`
 
 This relation is universal.
+There are 1 language-specific subtypes of `ccomp`: <tt><a href="ro_simonero-dep-ccomp-pmod.html">ccomp:pmod</a></tt>.
 
-96 nodes (1%) are attached to their parents as `ccomp`.
+1160 nodes (1%) are attached to their parents as `ccomp`.
 
-96 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.85416666666667.
+1158 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.22586206896552.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (82; 85% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (5; 5% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (964; 83% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (113; 10% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (55; 5% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,57 +38,46 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 14 ccomp	color:blue
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	12	advmod	_	O
-2	consecință	consecință	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	fixed	_	O
-3	,	,	PUNCT	COMMA	_	1	punct	_	O
-4	pacientul	pacient	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	12	nsubj	_	O
-5	vârstnic	vârstnic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	O
-6	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	O
-7	deficiență	deficiență	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	4	nmod	_	B-DISO
-8	fibroelastică	fibroelastic	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	I-DISO
-9	bine	bine	ADV	Rgp	Degree=Pos	10	advmod	_	O
-10	selecționat	selecționa	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	7	amod	_	O
-11	ar	avea	AUX	Va--3	Person=3|VerbForm=Fin	12	aux	_	O
-12	putea	putea	VERB	Vmnp	Tense=Pres|VerbForm=Inf	0	root	_	O
-13	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	14	aux:pass	_	O
-14	candidat	candidat	NOUN	Ncmsrn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	12	ccomp	_	O
-15	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	O
-16	această	acest	DET	Dd3fsr---e	Case=Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	17	det	_	O
-17	procedură	procedură	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	14	obl	_	O
-18	.	.	PUNCT	PERIOD	_	12	punct	_	O
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 9 ccomp	color:blue
+1	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	2	expl:pv	_	O
+2	observă	observa	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
+3	că	că	SCONJ	Csssp	Polarity=Neg	9	mark	_	O
+4	ordinea	ordine	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	O
+5	folosirii	folosire	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	O
+6	acestor	acest	DET	Dd3-po---e	Case=Gen|Number=Plur|Person=3|Position=Prenom|PronType=Dem	7	det	_	O
+7	metode	metodă	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	5	nmod	_	O
+8	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	O
+9	diferită	diferit	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	ccomp	_	O
+10	.	.	PUNCT	PERIOD	_	2	punct	_	O
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 17 ccomp	color:blue
-1	Întucât	Întucât	SCONJ	Csssp	Polarity=Pos	4	mark	_	O
-2	regiunea	regiune	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	B-ANAT
-3	scrotală	scrotal	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	I-ANAT
-4	are	avea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	O
-5	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	O
-6	potențial	potențial	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	4	obj	_	O
-7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	O
-8	regenerare	regenerare	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nmod	_	O
-9	bun	bun	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	O
-10	,	,	PUNCT	COMMA	_	4	punct	_	O
-11	vindecarea	vindecare	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	12	nsubj	_	O
-12	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
-13	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	17	cop	_	O
-14	uneori	uneori	ADV	Rgp	Degree=Pos	17	advmod	_	O
-15	neașteptat	neașteptat	ADV	Rgp	Degree=Pos	17	advmod	_	O
-16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	O
-17	rapidă	rapid	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	12	ccomp	_	O
-18	.	.	PUNCT	PERIOD	_	12	punct	_	O
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 ccomp	color:blue
+1	Acești	acest	DET	Dd3mpr---e	Case=Nom|Gender=Masc|Number=Plur|Person=3|Position=Prenom|PronType=Dem	2	det	_	O
+2	precursori	precursor	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	3	nsubj	_	O
+3	pot	putea	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
+4	fi	fi	AUX	Vanp	Tense=Pres|VerbForm=Inf	5	aux:pass	_	O
+5	aminoacizi	aminoacid	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	3	ccomp	_	B-CHEM
+6	,	,	PUNCT	COMMA	_	7	punct	_	O
+7	lactat	lactat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	conj	_	B-CHEM
+8	,	,	PUNCT	COMMA	_	9	punct	_	O
+9	piruvat	piruvat	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	conj	_	B-CHEM
+10	și	și	CCONJ	Crssp	Polarity=Pos	11	cc	_	O
+11	glicerol	glicerol	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	conj	_	B-CHEM
+12	(	(	PUNCT	LPAR	_	13	punct	_	O
+13	18	18	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	3	parataxis	_	O
+14	)	)	PUNCT	RPAR	_	13	punct	_	O
+15	.	.	PUNCT	PERIOD	_	3	punct	_	O
 
 ~~~
 

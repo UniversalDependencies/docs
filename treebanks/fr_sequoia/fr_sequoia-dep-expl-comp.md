@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 2	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 3	réalisation	réalisation	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
 4	permet	permettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
-5	en	en	ADP	_	_	4	advmod	_	EXTPOS=ADV|MWE=en_plus
+5	en	en	ADP	_	_	4	advmod	_	ExtPos=ADV
 6	plus	plus	ADV	_	_	5	fixed	_	_
 7	d'	de	ADP	_	_	8	mark	_	SpaceAfter=No
 8	améliorer	améliorer	VERB	_	VerbForm=Inf	4	xcomp	_	_

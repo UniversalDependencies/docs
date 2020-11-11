@@ -12,18 +12,18 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 7484 tokens (40%) have a non-empty value of `Gender`.
 4656 types (71%) occur at least once with a non-empty value of `Gender`.
 3330 lemmas (69%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 11 part-of-speech tags: <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (4072; 22% instances), <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> (1251; 7% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt> (1150; 6% instances), <tt><a href="is_pud-pos-PROPN.html">PROPN</a></tt> (616; 3% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (241; 1% instances), <tt><a href="is_pud-pos-NUM.html">NUM</a></tt> (118; 1% instances), <tt><a href="is_pud-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="is_pud-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="is_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="is_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (4074; 22% instances), <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> (1249; 7% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt> (1150; 6% instances), <tt><a href="is_pud-pos-PROPN.html">PROPN</a></tt> (616; 3% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (241; 1% instances), <tt><a href="is_pud-pos-NUM.html">NUM</a></tt> (118; 1% instances), <tt><a href="is_pud-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="is_pud-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="is_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="is_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-4072 <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
+4074 <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="is_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2931; 72%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2791; 69%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="is_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2933; 72%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2792; 69%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (1333; 33% of non-empty `Gender`): <em>öld, sögu, milljónir, stjórn, hendi, leið, notkun, menntun, ríkisstjórnin, sögunnar</em>
-* `Masc` (1299; 32% of non-empty `Gender`): <em>hluta, október, stað, fjölda, áratugnum, maður, apríl, tíma, janúar, júní</em>
+* `Masc` (1301; 32% of non-empty `Gender`): <em>hluta, október, stað, fjölda, áratugnum, maður, apríl, tíma, janúar, júní</em>
 * `Neut` (1440; 35% of non-empty `Gender`): <em>árið, ár, árum, ára, fólk, áhrif, sinn, borð, kjölfar, efni</em>
 * `EMPTY` (27): <em>hafi, FSLN, Frú, Metropolitan, Norður-Ontario, Papworth-, alvarlegust, ati, dala, dr.</em>
 
@@ -41,19 +41,19 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="is_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ríki</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (2205) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (2207) occur only with one value of `Gender`.
 
 ### `PRON`
 
-1251 <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Gender`.
+1249 <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (967; 77%), <tt><a href="is_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (686; 55%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (253; 20% of non-empty `Gender`): <em>hún, hennar, sinni, þær, sína, henni, sér, þeirra, hana, þessi</em>
-* `Masc` (434; 35% of non-empty `Gender`): <em>hann, hans, þeir, sig, honum, þeirra, sér, þeim, sínum, einn</em>
-* `Neut` (564; 45% of non-empty `Gender`): <em>það, því, þetta, þess, þau, allt, hvað, sitt, engu, sér</em>
+* `Masc` (433; 35% of non-empty `Gender`): <em>hann, hans, þeir, sig, honum, þeirra, sér, þeim, sínum, einn</em>
+* `Neut` (563; 45% of non-empty `Gender`): <em>það, því, þetta, þess, þau, allt, hvað, sitt, engu, sér</em>
 * `EMPTY` (121): <em>ég, við, okkar, okkur, mig, mér, þið, þú, hvort, mín</em>
 
 <table>
@@ -228,7 +228,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="is_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (753; 93%),
 <tt>NOUN --[<tt><a href="is_pud-dep-det.html">det</a></tt>]--> PRON</tt> (242; 94%),
-<tt>NOUN --[<tt><a href="is_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (119; 60%),
+<tt>NOUN --[<tt><a href="is_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (120; 61%),
 <tt>NOUN --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (58; 51%),
 <tt>ADJ --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (47; 70%),
 <tt>ADJ --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (30; 88%),

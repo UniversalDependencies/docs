@@ -39,7 +39,7 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc	color:blue
 1	Färg	färg	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	Comma	_	1	punct	_	_
+2	,	,	PUNCT	Comma	_	3	punct	_	_
 3	genomskinlighet	genomskinlighet	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	conj	_	_
 4	och	och	CCONJ	_	_	5	cc	_	_
 5	specialeffekter	specialeffekt	NOUN	PL-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	1	conj	_	_
@@ -57,7 +57,7 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 2	kyrka	kyrka	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	4	nsubj	_	_
 3	är	vara	AUX	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 4	vördnadsvärd	vördnadsvärd	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	Comma	_	4	punct	_	_
+5	,	,	PUNCT	Comma	_	6	punct	_	_
 6	rik	rik	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	4	conj	_	_
 7	och	och	CCONJ	_	_	8	cc	_	_
 8	vacker	vacker	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	4	conj	_	SpaceAfter=No

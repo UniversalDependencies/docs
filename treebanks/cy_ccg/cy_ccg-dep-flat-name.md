@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cy_ccg-dep-flat.html">flat</a></tt>.
 
-223 nodes (1%) are attached to their parents as `flat:name`.
+231 nodes (1%) are attached to their parents as `flat:name`.
 
-223 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22421524663677.
+231 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.22077922077922.
 
-The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (193; 87% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (16; 7% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 2% instances).
+The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (198; 86% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (18; 8% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a 
 5	Urdd	urdd	NOUN	noun	Gender=Fem|Number=Sing	1	nsubj	_	_
 6	Gobaith	gobaith	NOUN	noun	Gender=Masc|Number=Sing	5	flat:name	_	_
 7	Cymru	Cymru	PROPN	place	Gender=Fem|Number=Sing	6	flat:name	_	SpaceAfter=No
-8	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\n
+8	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a 
 5	Urdd	urdd	NOUN	noun	Gender=Fem|Number=Sing	1	nsubj	_	_
 6	Gobaith	gobaith	NOUN	noun	Gender=Masc|Number=Sing	5	flat:name	_	_
 7	Cymru	Cymru	PROPN	place	Gender=Fem|Number=Sing	6	flat:name	_	SpaceAfter=No
-8	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\s\n
+8	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

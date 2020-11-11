@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `PROPN`
 
-There are 19 `PROPN` lemmas (6%), 20 `PROPN` types (5%) and 29 `PROPN` tokens (4%).
-Out of 14 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 6 in number of types and 8 in number of tokens.
+There are 19 `PROPN` lemmas (5%), 20 `PROPN` types (4%) and 29 `PROPN` tokens (3%).
+Out of 15 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Петя, Мери, Питер, Париж, Сэм, Франция, Браун, Ворошилов, Джейн, Дёма</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Митя</em> (<tt><a href="koi_uh-po
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.052632 (the average of all parts of speech is 1.186186).
+The form / lemma ratio of `PROPN` is 1.052632 (the average of all parts of speech is 1.206633).
 
 The 1st highest number of forms (2) was observed with the lemma “Франция”: <em>Франция, Франциялӧн</em>.
 
@@ -47,13 +47,13 @@ Examples: <em>Мери, Питер, Сэм, Джейн</em>
 
 Parents of `PROPN` nodes belong to 5 different parts of speech: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (13; 45% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (8; 28% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (6; 21% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 3% instances),  (1; 3% instances)
 
-10 (34%) `PROPN` nodes are leaves.
+11 (38%) `PROPN` nodes are leaves.
 
-12 (41%) `PROPN` nodes have one child.
+11 (38%) `PROPN` nodes have one child.
 
-4 (14%) `PROPN` nodes have two children.
+3 (10%) `PROPN` nodes have two children.
 
-3 (10%) `PROPN` nodes have three or more children.
+4 (14%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 4.
 

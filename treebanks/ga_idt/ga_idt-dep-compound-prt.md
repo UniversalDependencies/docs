@@ -8,117 +8,87 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ga_idt-dep-compound.html">compound</a></tt>.
 
-19 nodes (0%) are attached to their parents as `compound:prt`.
+51 nodes (0%) are attached to their parents as `compound:prt`.
 
-19 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05263157894737.
+51 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.01960784313725.
 
-The following 4 pairs of parts of speech are connected with `compound:prt`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (7; 37% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (6; 32% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (4; 21% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (2; 11% instances).
+The following 5 pairs of parts of speech are connected with `compound:prt`: <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (16; 31% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (15; 29% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (11; 22% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (8; 16% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 compound:prt	color:blue
+1	Airteagal	airteagal	NOUN	Noun	Gender=Masc|Number=Sing	3	obl	_	_
+2	26	26	NUM	Num	_	1	nmod	_	_
+3	Féadfar	féad	VERB	VTI	Mood=Ind|Tense=Fut|Voice=Auto	0	root	_	_
+4	finnéithe	finné	NOUN	Noun	Gender=Masc|Number=Plur	3	obj	_	_
+5	a	a	PART	Inf	PartType=Inf	6	mark	_	_
+6	éisteacht	éisteacht	NOUN	Noun	VerbForm=Inf	3	xcomp	_	_
+7	faoi	faoi	ADP	Simp	_	8	case	_	_
+8	choinníollacha	coinníoll	NOUN	Noun	Form=Len|Gender=Masc|Number=Plur	6	obl	_	_
+9	a	a	PART	Vb	PartType=Vb|PronType=Rel	10	nsubj	_	_
+10	bheidh	bí	VERB	FutInd	Form=Len|Mood=Ind|Tense=Fut	8	acl:relcl	_	_
+11	leagtha	leagtha	ADJ	Adj	VerbForm=Part	10	xcomp:pred	_	_
+12	síos	síos	ADV	Dir	_	11	compound:prt	_	_
+13	sna	i	ADP	Art	Number=Plur|PronType=Art	14	case	_	_
+14	rialacha	riail	NOUN	Noun	Gender=Fem|Number=Plur	11	obl	_	_
+15	nós	nós	NOUN	Noun	Gender=Masc|Number=Sing	14	nmod	_	_
+16	imeachta	imeacht	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	15	compound	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
-# visual-style 14 15 compound:prt	color:blue
-1	Chuir	cuir	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	litir	litir	NOUN	Noun	Gender=Fem|Number=Sing	2	obj	_	_
-4	isteach	isteach	ADV	Dir	_	1	advmod	_	_
-5	chuig	chuig	ADP	Simp	_	7	case	_	_
-6	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
-7	Ardfheis	feis	NOUN	Noun	Definite=Def|Gender=Fem|Number=Sing	1	obl	_	_
-8	á	do	ADP	Poss	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	case	_	_
-9	rá	rá	NOUN	Noun	VerbForm=Inf	1	xcomp	_	_
-10	go	go	PART	Vb	PartType=Cmpl	11	mark:prt	_	_
-11	raibh	bí	VERB	PastInd	Form=Ecl|Mood=Ind|Tense=Past	9	ccomp	_	_
-12	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
-13	ag	ag	ADP	Simp	_	14	case	_	_
-14	éirí	éirí	NOUN	Noun	VerbForm=Vnoun	11	xcomp	_	_
-15	as	as	ADP	Simp	_	14	compound:prt	_	_
-16	a	a	DET	Det	Gender=Masc|Number=Sing|Person=3|Poss=Yes	17	nmod:poss	_	_
-17	phost	post	NOUN	Noun	Form=Len|Gender=Masc|Number=Sing	14	obl	_	_
-18	'	'	PUNCT	Punct	_	20	punct	_	SpaceAfter=No
-19	mar	mar	ADP	Simp	_	20	case	_	_
-20	gheall	geall	NOUN	Noun	Form=Len|Gender=Masc|Number=Sing	17	obl	_	_
-21	ar	ar	ADP	Simp	_	23	case	_	_
-22	a	a	DET	Det	Gender=Masc|Number=Sing|Person=3|Poss=Yes	23	nmod:poss	_	_
-23	shláinte	sláinte	NOUN	Noun	Form=Len|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
-24	'	'	PUNCT	Punct	_	20	punct	_	_
-25	agus	agus	CCONJ	Coord	_	27	cc	_	_
-26	d'	do	PART	Vb	PartType=Vb	27	mark:prt	_	SpaceAfter=No
-27	imigh	imigh	VERB	VI	Form=Len|Mood=Ind|Tense=Past	1	conj	_	_
-28	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	27	nsubj	_	_
-29	leis	le	ADP	Prep	Gender=Masc|Number=Sing|Person=3	27	obl:prep	_	_
-30	go	go	ADP	Simp	_	31	case	_	_
-31	Baile	Baile	PROPN	Noun	Gender=Masc|Number=Sing	27	obl	_	_
-32	Átha	Átha	PROPN	Noun	Case=Gen|Gender=Masc|Number=Sing	31	flat	_	_
-33	Cliath	Cliath	PROPN	Noun	Case=Gen|Gender=Masc|Number=Sing	32	flat	_	SpaceAfter=No
-34	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 24 compound:prt	color:blue
-1	Labhair	labhair	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	sí	sí	PRON	Pers	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
-3	liom	le	ADP	Prep	Number=Sing|Person=1	1	obl:prep	_	_
-4	ar	ar	ADP	Simp	_	6	case	_	_
-5	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	bealaí	bealach	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Plur	1	obl	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 14 compound:prt	color:blue
+1	B'	is	AUX	Cop	Form=VF|Tense=Past|VerbForm=Cop	2	cop	_	SpaceAfter=No
+2	fhéidir	féidir	NOUN	Subst	Form=Len|Number=Sing	0	root	_	_
+3	leat	le	ADP	Prep	Number=Sing|Person=2	2	obl:prep	_	_
+4	tasc	tasc	NOUN	Noun	Gender=Masc|Number=Sing	13	obj	_	_
+5	nó	nó	CCONJ	Coord	_	6	cc	_	_
+6	cruacheist	ceist	NOUN	Noun	Gender=Fem|Number=Sing	4	conj	_	_
 7	a	a	PART	Vb	PartType=Vb|PronType=Rel	8	nsubj	_	_
-8	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	6	acl:relcl	_	_
-9	ag	ag	ADP	Simp	_	10	case	_	_
-10	údaráis	údarás	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	8	obl	_	_
-11	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	scoile	scoil	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	nmod	_	_
-13	brú	brú	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	15	obj	_	_
-14	a	a	PART	Inf	PartType=Inf	15	mark	_	_
-15	chur	cur	NOUN	Noun	Form=Len|VerbForm=Inf	8	xcomp	_	_
-16	ar	ar	ADP	Simp	_	18	case	_	_
-17	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
-18	daltaí	dalta	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Plur	15	obl	_	_
-19	a	a	DET	Det	Number=Plur|Person=3|Poss=Yes	20	nmod:poss	_	_
-20	gcuid	cuid	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Fem|Number=Sing	23	obj	_	_
-21	teangacha	teanga	NOUN	Noun	Case=Gen|Gender=Fem|NounType=Strong|Number=Plur	20	nmod	_	_
-22	a	a	PART	Inf	PartType=Inf	23	mark	_	_
-23	thabhairt	tabhairt	NOUN	Noun	Form=Len|VerbForm=Inf	15	xcomp	_	_
-24	suas	suas	ADV	Dir	_	23	compound:prt	_	SpaceAfter=No
-25	.	.	PUNCT	.	_	1	punct	_	_
+8	bhaineann	bain	VERB	VTI	Form=Len|Mood=Ind|Tense=Pres	4	acl:relcl	_	_
+9	leis	le	ADP	Simp	_	11	case	_	_
+10	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	bpost	post	NOUN	Noun	Gender=Masc|Number=Sing	8	obl	_	_
+12	a	a	PART	Inf	PartType=Inf	13	mark	_	_
+13	leagan	leagan	NOUN	Noun	VerbForm=Inf	2	csubj:cop	_	_
+14	amach	amach	ADV	Dir	_	13	compound:prt	_	_
+15	don	do	ADP	Art	Number=Sing|PronType=Art	16	case	_	_
+16	duine	duine	NOUN	Noun	Definite=Def|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 compound:prt	color:blue
-1	Tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
-2	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
-3	spriocdháta	spriocdháta	NOUN	Noun	Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
-4	seo	seo	DET	Det	PronType=Dem	3	det	_	_
-5	a	a	PART	Vb	PartType=Vb|PronType=Rel	6	nsubj	_	_
-6	leanas	lean	VERB	VTI	Mood=Ind|PronType=Rel|Tense=Pres	3	acl:relcl	_	_
-7	leagtha	leagtha	ADJ	Adj	VerbForm=Part	1	xcomp:pred	_	_
-8	amach	amach	ADV	Dir	_	7	compound:prt	_	_
-9	d'	do	ADP	Simp	_	10	case	_	SpaceAfter=No
-10	iarratais	iarratas	NOUN	Noun	Gender=Masc|Number=Plur	1	obl	_	_
-11	ar	ar	ADP	Simp	_	12	case	_	_
-12	chabhair	cabhair	NOUN	Noun	Form=Len|Gender=Fem|Number=Sing	10	nmod	_	_
-13	dheontais	deontas	NOUN	Noun	Case=Gen|Form=Len|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
-14	:	:	PUNCT	Punct	_	15	punct	_	_
-15	16	16	NUM	Num	_	3	appos	_	_
-16	Eanáir	Eanáir	PROPN	Noun	Gender=Masc|Number=Sing	15	flat	_	_
-17	2003	2003	NUM	Num	_	15	flat	_	SpaceAfter=No
-18	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 compound:prt	color:blue
+1	Níor	níor	PART	Vb	PartType=Vb|Tense=Past	2	advmod	_	_
+2	leagadh	leag	VERB	VTI	Mood=Ind|Tense=Past|Voice=Auto	0	root	_	_
+3	amach	amach	ADV	Dir	_	2	compound:prt	_	_
+4	modh	modh	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	2	obj	_	_
+5	agus	agus	CCONJ	Coord	_	6	cc	_	_
+6	amscála	amscáil	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	4	conj	_	_
+7	don	do	ADP	Art	Number=Sing|PronType=Art	8	case	_	_
+8	diúscairt	iúscairt	NOUN	Noun	Form=Ecl|Gender=Fem|Number=Sing	2	obl	_	_
+9	sin	sin	DET	Det	PronType=Dem	8	det	_	_
+10	ag	ag	ADP	Simp	_	12	case	_	_
+11	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	am	am	NOUN	Noun	Gender=Masc|Number=Sing	2	obl:tmod	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

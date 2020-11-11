@@ -8,110 +8,68 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="be_hse-dep-acl.html">acl</a></tt>.
 
-101 nodes (1%) are attached to their parents as `acl:relcl`.
+1963 nodes (1%) are attached to their parents as `acl:relcl`.
 
-101 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.14851485148515.
+1961 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.01477330616403.
 
-The following 8 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (91; 90% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 33 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1464; 75% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (118; 6% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (118; 6% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (73; 4% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (38; 2% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (26; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (25; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (22; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 acl:relcl	color:blue
+1	Ў	у	ADP	IN	_	2	case	_	_
+2	краіне	краіна	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	_
+3	сьветлай	сьветлы	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	7	punct	_	_
+5	дзе	дзе	ADV	RB	Degree=Pos	7	advmod	_	_
+6	я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	трываю	трываць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 8 acl:relcl	color:blue
-1	Мiграцыя	мiграцы	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-2	—	—	PUNCT	_	_	4	punct	_	_
-3	як	як	SCONJ	IN	_	4	mark	_	_
-4	вiрус	вiрус	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	8	punct	_	_
-6	перад	перад	ADP	NN	_	7	case	_	_
-7	якiм	якi	PRON	RB	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	8	obl	_	_
-8	нельга	нельга	VERB	RB	_	4	acl:relcl	_	_
-9	паставiць	паставiць	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	_
-10	санiтарны	санiтарны	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
-11	кардон	кардон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
-12	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+# visual-style 4 7 acl:relcl	color:blue
+1	Сюды	сюды	ADV	RB	Degree=Pos	2	advmod	_	_
+2	трапляюць	трапляць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	толькі	толькі	PART	UH	_	4	advmod	_	_
+4	тыя	той	DET	DT	Case=Nom|Number=Plur|PronType=Dem	2	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	7	punct	_	_
+6	хто	хто	PRON	WP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	7	nsubj	_	_
+7	парушыў	парушыць	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
+8	закон	закон	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+9	ўпершыню	упершыню	ADV	RB	Degree=Pos	7	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 25 acl:relcl	color:blue
-1	Але	але	CCONJ	_	_	10	cc	_	_
-2	вось	вось	PART	_	_	6	advmod:discourse	_	_
-3	у	у	ADP	_	_	6	case	_	_
-4	той	той	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	det	_	_
-5	самы	самы	DET	_	Case=Acc|Gender=Masc|Number=Sing	6	amod	_	_
-6	час	час	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	даўным-даўно	даўным-даўно	ADV	_	_	10	advmod	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	8	punct	_	_
-10	жыў	жыць	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-11	адзін	адзін	DET	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	det	_	_
-12	такі	такі	DET	_	Case=Nom|Gender=Masc|Number=Sing	13	det	_	_
-13	Слон	слон	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	20	punct	_	_
-15	або	або	CCONJ	_	_	20	cc	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	17	punct	_	_
-17	лепш	лепш	ADV	_	Degree=Cmp	20	parataxis	_	_
-18	сказаць	сказаць	VERB	_	Aspect=Perf|VerbForm=Inf	17	csubj	_	SpaceAfter=No
-19	,	,	PUNCT	_	_	17	punct	_	_
-20	Слонік	слонік	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	conj	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	25	punct	_	_
-22	які	які	PRON	_	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
-23	быў	быць	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	25	cop	_	_
-24	страшэнна	страшэнна	ADV	_	Degree=Pos	25	advmod	_	_
-25	дапытлівы	дапытлівы	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	acl:relcl	_	SpaceAfter=No
-26	,	,	PUNCT	_	_	37	punct	_	_
-27	і	і	CCONJ	_	_	37	cc	_	_
-28	каго	хто	PRON	_	Case=Gen|Number=Sing	33	obj	_	SpaceAfter=No
-29	,	,	PUNCT	_	_	30	punct	_	_
-30	бывала	бываць	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	33	discourse	_	SpaceAfter=No
-31	,	,	PUNCT	_	_	30	punct	_	_
-32	ні	ні	PART	_	Polarity=Neg	33	amod	_	_
-33	ўбачыць	ўбачыць	VERB	_	Aspect=Perf|VerbForm=Inf	36	acl	_	SpaceAfter=No
-34	,	,	PUNCT	_	_	33	punct	_	_
-35	да	да	ADP	_	_	36	case	_	_
-36	ўсіх	ўсе	PRON	_	Case=Gen|Number=Plur|Person=3	37	obl	_	_
-37	прыстае	прыставаць	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	conj	_	_
-38	з	з	ADP	_	_	39	case	_	_
-39	роспытамі	роспыт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	37	obl	_	SpaceAfter=No
-40	.	.	PUNCT	_	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 10 acl:relcl	color:blue
-1	Новая	новы	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
-2	купюра	купюра	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-3	стала	стаць	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	першай	першы	ADJ	ORD	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	obj	_	_
-5	у	у	ADP	IN	_	6	case	_	_
-6	Беларусі	Беларусь	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
-7	,	,	PUNCT	PUNCT	_	10	punct	_	_
-8	на	на	ADP	IN	_	9	case	_	_
-9	якой	які	PRON	WPA	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	10	obl	_	_
-10	стаіць	стаяць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
-11	подпіс	подпіс	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
-12	цяперашняй	цяперашні	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
-13	кіраўніка	кіраўнік	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
-14	Нацыянальнага	нацыянальны	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
-15	банка	банк	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
-16	Надзеі	Надзея	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	13	appos	_	_
-17	Ермаковай	Ермакова	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	16	flat:name	_	SpaceAfter=No
-18	.	.	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 acl:relcl	color:blue
+1	Рэпартаж	рэпартаж	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	з	з	ADP	IN	_	3	case	_	_
+3	Жодзіна	Жодзіна	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	6	punct	_	_
+5	дзе	дзе	ADV	RB	Degree=Pos	6	advmod	_	_
+6	прайшоў	прайсці	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+7	адзіны	адзіны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+8	ў	у	ADP	IN	_	9	case	_	_
+9	сьвеце	сьвет	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	_
+10	футбольны	футбольны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	матч	матч	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 
 ~~~
 

@@ -59,7 +59,7 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 cc	color:blue
-1	Y	y	PRON	_	Person=3	3	case	_	EXTPOS=ADP|MWE=y_compris
+1	Y	y	PRON	_	Person=3	3	case	_	ExtPos=ADP
 2	compris	compris	ADJ	_	Gender=Masc	1	fixed	_	_
 3	fractures	fracture	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
 4	cliniques	clinique	ADJ	_	Number=Plur	3	amod	_	_

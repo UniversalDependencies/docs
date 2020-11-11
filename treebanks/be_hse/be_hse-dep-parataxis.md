@@ -8,74 +8,70 @@ udver: '2'
 
 This relation is universal.
 
-162 nodes (1%) are attached to their parents as `parataxis`.
+6434 nodes (2%) are attached to their parents as `parataxis`.
 
-106 instances of `parataxis` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.82716049382716.
+4996 instances of `parataxis` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.73204849238421.
 
-The following 26 pairs of parts of speech are connected with `parataxis`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (54; 33% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (17; 10% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (14; 9% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (13; 8% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (11; 7% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (9; 6% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 121 pairs of parts of speech are connected with `parataxis`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (759; 12% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (686; 11% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (566; 9% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (541; 8% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (473; 7% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (380; 6% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (292; 5% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (190; 3% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (172; 3% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (172; 3% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (160; 2% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (130; 2% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (130; 2% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (109; 2% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (105; 2% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (92; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (86; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (78; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (77; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (75; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (65; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (62; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (60; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (49; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (47; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (43; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (39; 1% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (36; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (36; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (35; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (34; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (33; 1% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (33; 1% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (32; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (32; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (30; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (23; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (23; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (20; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (18; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (17; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (16; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt>-<tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 parataxis	color:blue
-1	З	з	ADP	IN	_	2	case	_	_
-2	пашчы	пашча	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	_
-3	пачвары	пачвара	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-4	вылятаў	вылятаць	VERB	NN	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	агонь	агонь	NOUN	VBC	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
-6	,	,	PUNCT	PUNCT	_	8	punct	_	_
-7	вочы	вока	NOUN	NNP	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	_
-8	палалі	палаць	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
-9	шаленствам	шаленства	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	8	obl	_	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	_	4	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 parataxis	color:blue
+1	-	-	PUNCT	PUNCT	_	3	punct	_	_
+2	Не	не	PART	UH	Polarity=Neg	3	advmod	_	_
+3	ведаю	ведаць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	-	-	PUNCT	PUNCT	_	7	punct	_	_
+5	нічога	нішто	PRON	PRP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	7	nsubj	_	_
+6	не	не	PART	UH	Polarity=Neg	7	advmod	_	_
+7	глядзела	глядзець	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+8	(	(	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+9	-	-	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+10	ў	у	X	X	_	7	parataxis	_	SpaceAfter=No
+11	)	)	PUNCT	PUNCT	_	10	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 5 parataxis	color:blue
-1	Таму	таму	ADV	RB	Degree=Pos	9	mark	_	_
-2	што	што	SCONJ	IN	_	1	fixed	_	SpaceAfter=No
-3	,	,	PUNCT	PUNCT	_	5	punct	_	_
-4	на	на	ADP	IN	_	5	case	_	_
-5	жаль	жаль	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	parataxis	_	SpaceAfter=No
-6	,	,	PUNCT	PUNCT	_	5	punct	_	_
-7	у	у	ADP	IN	_	8	case	_	_
-8	большасці	большасць	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
-9	няма	няма	VERB	PRED	Polarity=Neg	0	root	_	_
-10	з	з	ADP	IN	_	11	case	_	_
-11	кім	хто	PRON	WP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|PronType=Int	12	obl	_	_
-12	практыкавацца	практыкавацца	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Mid	9	xcomp	_	SpaceAfter=No
-13	.	.	PUNCT	PUNCT	_	9	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 parataxis	color:blue
+1	🗒	🗒	SYM	SYM	_	3	parataxis	_	SpaceAfter=No
+2	Адказы	адказ	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+3	просім	прасіць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	даць	даць	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+5	да	да	ADP	IN	_	6	case	_	_
+6	25	25	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	obl	_	_
+7	траўня	травень	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	flat	_	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 parataxis	color:blue
-1	Гэтай	гэты	DET	DT	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	падтрымкі	падтрымка	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obj	_	_
-3	відавочна	відавочна	ADV	RB	Degree=Pos	4	advmod	_	_
-4	недастаткова	недастатковы	ADJ	PRED	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
-5	"	"	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
-6	,	,	PUNCT	PUNCT	_	8	punct	_	_
-7	--	--	PUNCT	PUNCT	_	8	punct	_	_
-8	лічыць	лічыць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	_
-9	Уладзімір	Уладзімір	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
-10	Някляеў	Някляеў	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	flat:name	_	SpaceAfter=No
-11	.	.	PUNCT	PUNCT	_	4	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 parataxis	color:blue
+1	-	-	PUNCT	PUNCT	_	3	punct	_	_
+2	Не	не	PART	UH	Polarity=Neg	3	advmod	_	_
+3	ведаю	ведаць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	-	-	PUNCT	PUNCT	_	7	punct	_	_
+5	нічога	нішто	PRON	PRP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	7	nsubj	_	_
+6	не	не	PART	UH	Polarity=Neg	7	advmod	_	_
+7	глядзела	глядзець	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+8	(	(	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+9	-	-	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+10	ў	у	X	X	_	7	parataxis	_	SpaceAfter=No
+11	)	)	PUNCT	PUNCT	_	10	punct	_	_
 
 ~~~
 

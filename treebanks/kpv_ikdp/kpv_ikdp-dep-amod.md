@@ -57,7 +57,7 @@ The following 4 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 6 amod	color:blue
 1	И	и	CCONJ	CC	_	3	cc	_	Lang=Mixed
-2	менум	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+2	менум	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
 3	предложитісны	предложитны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	Lang=Mixed
 4	должность	должность	NOUN	N	Case=Nom|Number=Sing	3	obj	_	Lang=Rus
 5	директора	директор	NOUN	N	Case=Gen|Number=Sing	4	nmod	_	Lang=Rus

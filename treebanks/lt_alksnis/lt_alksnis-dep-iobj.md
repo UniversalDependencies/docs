@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-27 nodes (0%) are attached to their parents as `iobj`.
+28 nodes (0%) are attached to their parents as `iobj`.
 
-14 instances of `iobj` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.77777777777778.
+14 instances of `iobj` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.75.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (13; 48% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (7; 26% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (4; 15% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-X.html">X</a></tt> (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (14; 50% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (7; 25% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (4; 14% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-X.html">X</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

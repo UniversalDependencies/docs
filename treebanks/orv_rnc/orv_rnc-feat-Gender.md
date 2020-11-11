@@ -239,7 +239,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (474; 93%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (229; 85%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> PROPN</tt> (161; 83%),
-<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (147; 95%),
+<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (146; 95%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (87; 90%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (72; 92%).
 

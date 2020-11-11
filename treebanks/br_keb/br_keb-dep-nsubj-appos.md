@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:appos`: <tt><
 7	engraverien	engraver	NOUN	n	Gender=Masc|Number=Plur	5	compound	_	_
 8	c'hall	gall	ADJ	adj	_	5	amod	_	SpaceAfter=No
 9	,	,	PUNCT	cm	_	1	punct	_	_
-10	e	e	PART	vpart	_	11	aux	_	_
+10	e	e	AUX	vpart	_	11	aux	_	_
 11	produ	produiñ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	dourioù	dour	NOUN	n	Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
 13	-	-	PUNCT	guio	_	14	punct	_	SpaceAfter=No

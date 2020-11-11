@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 4 csubj	color:blue
 1	Ætlanin	ætlan	NOUN	N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	cop	_	_
 3	at	at	PART	IM	_	4	mark	_	_
 4	venda	venda	VERB	V	VerbForm=Inf	1	csubj	_	_
 5	lítlu	lítil	ADJ	A	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	6	amod	_	_
@@ -67,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 5 csubj	color:blue
 1	Tað	tað	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
 3	ókeypis	ókeypis	ADV	Adv	_	0	root	_	_
 4	at	at	PART	IM	_	5	mark	_	_
 5	brúka	brúka	VERB	V	VerbForm=Inf	3	csubj	_	_

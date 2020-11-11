@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="t
 # visual-style 5	fgColor:white
 # visual-style 5 6 cc	color:blue
 1	1.	1.	NUM	Ux-------	NumType=Card	11	obj	11:obj	Translit=1.|LTranslit=1.
-2	ஒரு	ஒரு	ADJ	JJ-------	_	3	amod	3:amod	Translit=oru|LTranslit=oru
+2	ஒரு	ஒரு	NUM	JJ-------	_	3	nummod	3:nummod	Translit=oru|LTranslit=oru
 3	ஆண்	ஆண்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	8	nsubj	8:nsubj	Translit=āṇ|LTranslit=āṇ
 4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	Translit=um|LTranslit=um
 5	பெண்ண்	பெண்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	3	conj	3:conj|8:nsubj	Translit=peṇṇ|LTranslit=peṇ

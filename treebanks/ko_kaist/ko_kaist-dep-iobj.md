@@ -26,7 +26,7 @@ The following 18 pairs of parts of speech are connected with `iobj`: <tt><a href
 2	남자들에게	남자+들+에게	ADV	ncn+xsn+jca	_	5	iobj	_	_
 3	일본은	일본+은	PROPN	nq+jxt	_	5	dislocated	_	_
 4	확실히	확실히	ADV	mag	_	5	advmod	_	_
-5	천국이다	천국+이+다	VERB	ncn+jp+ef	_	0	root	_	_
+5	천국이다	천국+이+다	VERB	ncn+jp+ef	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	sf	_	5	punct	_	_
 
 ~~~
@@ -49,7 +49,7 @@ The following 18 pairs of parts of speech are connected with `iobj`: <tt><a href
 9	보내서	보내+서	SCONJ	pvg+ecs	_	11	ccomp	_	_
 10	세례를	세례+를	NOUN	ncpa+jco	_	11	obj	_	_
 11	받게	받+게	VERB	pvg+ecx	_	0	root	_	_
-12	했다	하+었+다	AUX	px+ep+ef	_	11	aux	_	_
+12	했다	하+었+다	AUX	px+ep+ef	_	11	aux	_	SpaceAfter=No
 13	.	.	PUNCT	sf	_	12	punct	_	_
 
 ~~~
@@ -74,7 +74,7 @@ The following 18 pairs of parts of speech are connected with `iobj`: <tt><a href
 11	바꾸기는	바꾸+기+는	NOUN	pvg+etn+jxt	_	12	dislocated	_	_
 12	받아들여질	받아들이+어+지+ㄹ	AUX	pvg+ecx+px+etm	_	0	root	_	_
 13	수	수	NOUN	nbn	_	12	aux	_	_
-14	없었다	없+었+다	ADJ	paa+ep+ef	_	13	fixed	_	_
+14	없었다	없+었+다	ADJ	paa+ep+ef	_	13	fixed	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	13	punct	_	_
 
 ~~~

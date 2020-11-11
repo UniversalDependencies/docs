@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 `ADJ` tokens may have the following values of `Aspect`:
 
 * `Imp` (288; 100% of non-empty `Aspect`): <em>konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</em>
-* `EMPTY` (6493): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, výroční, právní, jiných</em>
+* `EMPTY` (6484): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, výroční, právní, jiných</em>
 
 `Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (50) occur only with one value of `Aspect`.
 

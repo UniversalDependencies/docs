@@ -260,5 +260,5 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (456; 62%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (406; 96%),
 <tt>ADJ --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> ADJ</tt> (272; 98%),
-<tt>ADJ --[<tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (208; 96%).
+<tt>ADJ --[<tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (208; 95%).
 

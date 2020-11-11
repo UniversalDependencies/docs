@@ -6,27 +6,27 @@ udver: '2'
 
 ## Treebank Statistics: UD_Naija-NSC: POS Tags: `CCONJ`
 
-There are 14 `CCONJ` lemmas (0%), 14 `CCONJ` types (0%) and 1557 `CCONJ` tokens (1%).
-Out of 16 observed tags, the rank of `CCONJ` is: 16 in number of lemmas, 16 in number of types and 14 in number of tokens.
+There are 13 `CCONJ` lemmas (0%), 13 `CCONJ` types (0%) and 1676 `CCONJ` tokens (1%).
+Out of 15 observed tags, the rank of `CCONJ` is: 15 in number of lemmas, 15 in number of types and 14 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>and, but, or, abi, plus, wheder, alias, cos, eider, either</em>
 
 The 10 most frequent `CCONJ` types:  <em>and, but, or, abi, plus, wheder, alias, cos, eider, either</em>
 
-The 10 most frequent ambiguous lemmas: <em>plus</em> (<tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> 2), <em>wheder</em> (<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 41, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 8), <em>X</em> (<tt><a href="pcm_nsc-pos-X.html">X</a></tt> 327, <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 2, <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 1), <em>both</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 3, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 1), <em>compare</em> (<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 8, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>and</em> (<tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 960, <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> 1), <em>plus</em> (<tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> 2), <em>wheder</em> (<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 42, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 8), <em>both</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 3, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 1), <em>compare</em> (<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 8, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>plus</em> (<tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> 2), <em>wheder</em> (<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 8), <em>b-</em> (<tt><a href="pcm_nsc-pos-X.html">X</a></tt> 6, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 1), <em>both</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 3, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 1), <em>compare</em> (<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 8, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 960, <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> 1), <em>plus</em> (<tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> 2), <em>wheder</em> (<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 8), <em>both</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 3, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 1), <em>compare</em> (<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 8, <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
+* <em>and</em>
+  * <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 960: <em># dat time sef < I dey small |c <b>and</b> I sabi do farm { well |r well } //</em>
+  * <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> 1: <em>pastor con tell me { sey [ ah ehn e get one babe for my department o ] |c sey [ na from heaven >+ de don tie us together ] |c sey [ ah dem be husband <b>and</b> ] &//</em>
 * <em>plus</em>
   * <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 9: <em># most of di players sef < de say [ de get injury of different degree inside di level ] > <b>plus</b> including goal keeper //</em>
   * <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> 2: <em># just scatter di food |c even scatter <b>plus</b> cooler |c and di fridge join //</em>
 * <em>wheder</em>
   * <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 24: <em># at dat time < me < I no know <b>wheder</b> di guy just dey scope my mama o //</em>
   * <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 8: <em><b>wheder</b> na your husband < e no suppose to do dat one to you //</em>
-* <em>b-</em>
-  * <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 6: <em>so # { e <b>b-</b> || e feel } say [ shebi you don dey work ?//] //</em>
-  * <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 1: <em>{ <b>b-</b> || but } I prefer di time wen I still dey Ondo State dere //</em>
 * <em>both</em>
   * <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 3: <em># <b>both</b> di way tins dey happen for { our society |c # or politics |c and every oder part of life } for our country //</em>
   * <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> 1: <em># { everyting wey Moses write |c # plus di one wey dem prophet write { <b>both</b> for Psalm # |c and for di oder books dem } } # don dey happen //</em>
@@ -37,34 +37,34 @@ The 10 most frequent ambiguous types:  <em>plus</em> (<tt><a href="pcm_nsc-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.151606).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.163644).
 
-The 1st highest number of forms (1) was observed with the lemma “X”: <em>b-</em>.
+The 1st highest number of forms (1) was observed with the lemma “abi”: <em>abi</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “abi”: <em>abi</em>.
+The 2nd highest number of forms (1) was observed with the lemma “alias”: <em>alias</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “alias”: <em>alias</em>.
+The 3rd highest number of forms (1) was observed with the lemma “and”: <em>and</em>.
 
 `CCONJ` does not occur with any features.
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (1517; 97% instances), <tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (10; 1% instances), <tt><a href="pcm_nsc-dep-mark.html">mark</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-flat.html">flat</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (898; 54% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (732; 44% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (13; 1% instances), <tt><a href="pcm_nsc-dep-mark.html">mark</a></tt> (8; 0% instances), <tt><a href="pcm_nsc-dep-orphan.html">orphan</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-dep-flat.html">flat</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-advmod-periph.html">advmod:periph</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (790; 51% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (385; 25% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (72; 5% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (68; 4% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (60; 4% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (58; 4% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (48; 3% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (35; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (13; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (851; 51% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (404; 24% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (85; 5% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (81; 5% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (62; 4% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (59; 4% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (50; 3% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (37; 2% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (14; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (13; 1% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
 
-1521 (98%) `CCONJ` nodes are leaves.
+1601 (96%) `CCONJ` nodes are leaves.
 
-17 (1%) `CCONJ` nodes have one child.
+46 (3%) `CCONJ` nodes have one child.
 
-9 (1%) `CCONJ` nodes have two children.
+15 (1%) `CCONJ` nodes have two children.
 
-10 (1%) `CCONJ` nodes have three or more children.
+14 (1%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 4.
 
-Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt> (41; 61% instances), <tt><a href="pcm_nsc-dep-punct.html">punct</a></tt> (18; 27% instances), <tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt> (8; 12% instances)
+Children of `CCONJ` nodes are attached using 8 different relations: <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (74; 62% instances), <tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt> (29; 24% instances), <tt><a href="pcm_nsc-dep-advmod-emph.html">advmod:emph</a></tt> (5; 4% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (3; 3% instances), <tt><a href="pcm_nsc-dep-orphan.html">orphan</a></tt> (3; 3% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (3; 3% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt> (1; 1% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (18; 27% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (16; 24% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (14; 21% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (11; 16% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (8; 12% instances)
+Children of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (74; 62% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (11; 9% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (10; 8% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (10; 8% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (5; 4% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (3; 3% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

@@ -132,7 +132,7 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="wo_wtb-dep-conj.html">conj</a></tt>]--> PRON</tt> (19; 83%),
-<tt>PRON --[<tt><a href="wo_wtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (8; 67%),
+<tt>PRON --[<tt><a href="wo_wtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (8; 57%),
 <tt>ADV --[<tt><a href="wo_wtb-dep-conj.html">conj</a></tt>]--> ADV</tt> (2; 100%),
 <tt>ADV --[<tt><a href="wo_wtb-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (1; 100%),
 <tt>DET --[<tt><a href="wo_wtb-dep-flat.html">flat</a></tt>]--> ADP</tt> (1; 100%),

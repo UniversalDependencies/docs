@@ -23,12 +23,12 @@ The following 4 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 nsubj:caus	color:blue
-1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:caus	_	_
-2	s'	se	PRON	_	Person=3|PronType=Prs	5	iobj	_	SpaceAfter=No
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:caus	_	wordform=il
+2	s'	se	PRON	_	Person=3|PronType=Prs	5	obl:arg	_	SpaceAfter=No
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	_
 5	poser	poser	VERB	_	VerbForm=Inf	0	root	_	_
-6	des	un	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	_
 7	points	point	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
 8	de	de	ADP	_	_	9	case	_	_
 9	suture	suture	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
@@ -43,13 +43,13 @@ The following 4 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 2 nsubj:caus	color:blue
-1	Son	son	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	_
+1	Son	son	DET	_	Number=Sing|PossNumber=Sing|PossPerson=3|PronType=Prs	2	det	_	wordform=son
 2	entourage	entourage	NOUN	_	Gender=Masc|Number=Sing	9	nsubj:caus	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
-4	ses	son	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det	_	_
-5	enfants	enfant	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_
+4	ses	son	DET	_	Number=Plur|PossNumber=Sing|PossPerson=3|PronType=Prs	5	det	_	_
+5	enfants	enfant	NOUN	_	Number=Plur	2	conj	_	_
 6	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
-7	lui	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	9	iobj:agent	_	_
+7	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj:agent	_	_
 8	font	faire	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux:caus	_	_
 9	remarquer	remarquer	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
@@ -63,13 +63,13 @@ The following 4 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 nsubj:caus	color:blue
-1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	Metelli	Metelli	PROPN	_	_	5	nsubj:caus	_	_
+1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	wordform=les
+2	Metelli	Metelli	PROPN	_	Number=Plur	5	nsubj:caus	_	_
 3	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 4	font	faire	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:caus	_	_
 5	emprisonner	emprisonner	VERB	_	VerbForm=Inf	0	root	_	_
 6	en	en	ADP	_	_	7	case	_	_
-7	205	205	NUM	_	_	5	obl	_	SpaceAfter=No
+7	205	205	NUM	_	Number=Plur	5	obl:mod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

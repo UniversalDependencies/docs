@@ -8,69 +8,73 @@ udver: '2'
 
 This relation is universal.
 
-243 nodes (1%) are attached to their parents as `ccomp`.
+99 nodes (1%) are attached to their parents as `ccomp`.
 
-202 instances of `ccomp` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.1440329218107.
+99 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.96969696969697.
 
-The following 22 pairs of parts of speech are connected with `ccomp`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (57; 23% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (46; 19% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (44; 18% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (25; 10% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (23; 9% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (14; 6% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (12; 5% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (70; 71% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (13; 13% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (7; 7% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="id_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 7 ccomp	color:blue
-1	Itu	_	PRON	PRD	_	3	nsubj	_	SpaceAfter=No
-2	lah	_	PART	RP	_	1	dep:prt	_	_
-3	yang	_	PRON	PRP	_	0	root	_	_
-4	membuat	_	VERB	VV	_	3	acl:relcl	_	_
-5	kami	_	PRON	PRP	_	7	nsubj	_	_
-6	tetap	_	ADV	RB	_	7	aux	_	_
-7	kembali	_	VERB	VV	_	4	ccomp	_	_
-8	lagi	_	ADV	RB	_	7	aux	_	_
-9	dan	_	CCONJ	CC	_	10	cc	_	_
-10	lagi	_	ADV	RB	_	8	conj	_	SpaceAfter=No
-11	.	_	PUNCT	.	_	3	punct	_	_
+# visual-style 4 8 ccomp	color:blue
+1	Dengan	dengan	ADP	_	_	2	case	_	_
+2	ini	ini	PRON	_	PronType=Dem	4	obl	_	_
+3	saya	saya	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	menyatakan	nyata	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+5	pertandingan	tanding	NOUN	_	Number=Sing	8	nsubj	_	_
+6	Olimpiade	Olimpiade	PROPN	_	_	5	nmod	_	_
+7	pertama	pertama	ADJ	_	NumType=Ord	5	amod	_	_
+8	selesai	selesai	VERB	_	Mood=Ind|Voice=Act	4	ccomp	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 3 ccomp	color:blue
-1	Suara	_	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
-2	nya	_	PRON	PRP$	_	1	nmod:poss	_	_
-3	menjangkau	_	NOUN	NN	_	7	ccomp	_	_
-4	seluruh	_	DET	DT	_	5	det	_	_
-5	dunia	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
-6	,	_	PUNCT	,	_	3	punct	_	_
-7	kata	_	VERB	VV	_	0	root	_	_
-8	Leive	_	PROPN	NNP	_	7	nsubj	_	SpaceAfter=No
-9	.	_	PUNCT	.	_	7	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 ccomp	color:blue
+1	Katakan	kata	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+2	lah	lah	PART	_	_	1	advmod:emph	_	_
+3	dia	dia	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	salah	salah	ADJ	_	_	1	ccomp	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 ccomp	color:blue
-1	Pedoman	_	NOUN	NN	_	4	nsubj	_	_
-2	besi	_	NOUN	NN	_	1	compound	_	_
-3	baru	_	ADJ	JJ	_	1	amod	_	_
-4	berarti	_	NOUN	NN	_	0	root	_	_
-5	diperlukan	_	VERB	VV	_	4	ccomp	_	SpaceAfter=No
-6	lebih	_	ADV	RB	_	7	advmod	_	_
-7	banyak	_	ADJ	JJ	_	8	amod	_	_
-8	donor	_	NOUN	NN	_	5	nsubj:pass	_	SpaceAfter=No
-9	.	_	PUNCT	.	_	4	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 10 ccomp	color:blue
+1	Ketika	ketika	ADV	_	PronType=Rel	3	advmod	_	_
+2	Millican	Millican	PROPN	_	_	3	nsubj	_	_
+3	meninggal	tinggal	VERB	_	Mood=Ind|Voice=Act	6	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	kami	kami	PRON	_	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+6	kira	kira	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+7	bahwa	bahwa	SCONJ	_	_	10	mark	_	_
+8	itu	itu	PRON	_	PronType=Dem	10	nsubj	_	_
+9	juga	juga	ADV	_	_	10	advmod	_	_
+10	pertemuan	temu	NOUN	_	Number=Sing	6	ccomp	_	_
+11	kami	kami	PRON	_	Clusivity=Ex|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
+12	yang	yang	PRON	_	PronType=Rel	13	nsubj	_	_
+13	terakhir	akhir	ADJ	_	Degree=Sup	10	acl:relcl	_	_
+14	dengan	dengan	ADP	_	_	16	case	_	_
+15	si	si	DET	_	PronType=Dem	16	det	_	_
+16	gugup	gugup	NOUN	_	Number=Sing	10	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	Odi	Odi	PROPN	_	_	16	appos	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

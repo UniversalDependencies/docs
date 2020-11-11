@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-708 nodes (2%) are attached to their parents as `case`.
+929 nodes (2%) are attached to their parents as `case`.
 
-586 instances of `case` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22033898305085.
+755 instances of `case` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.20882669537137.
 
-The following 6 pairs of parts of speech are connected with `case`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (485; 69% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (158; 22% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (40; 6% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (16; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `case`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (645; 69% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (184; 20% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (54; 6% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (25; 3% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (17; 2% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `case`: <tt><a href=
 2	paari	paar	NUM	N	Case=Gen|Number=Sing|NumType=Card	3	nummod	3:nummod	_
 3	aasta	aasta	NOUN	S	Case=Gen|Number=Sing	0	root	5.1:obl	_
 4	pärast	pärast	ADP	K	AdpType=Post	3	case	3:case	_
-5	rôômalt	rõõmsalt	ADV	D	_	3	advmod	5.1:advmod	Orphan=Yes
+5	rôômalt	rõõmsalt	ADV	D	Typo=Yes	3	advmod	5.1:advmod	Orphan=Yes|CorrectForm=rõõmsalt
 6	maasikatele	maasikas	NOUN	S	Case=All|Number=Plur	3	obl	5.1:obl	Orphan=Yes
 7	...	...	PUNCT	Z	_	3	punct	5.1:punct	_
 

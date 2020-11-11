@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2974 nodes (1%) are attached to their parents as `nummod`.
+3011 nodes (2%) are attached to their parents as `nummod`.
 
-2793 instances of `nummod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.38634835238736.
+2824 instances of `nummod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41481235469944.
 
-The following 19 pairs of parts of speech are connected with `nummod`: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (2314; 78% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (272; 9% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (106; 4% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (102; 3% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (70; 2% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (38; 1% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (32; 1% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `nummod`: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (2422; 80% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (273; 9% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (102; 3% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (73; 2% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (41; 1% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (32; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (30; 1% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,22 +53,23 @@ The following 19 pairs of parts of speech are connected with `nummod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod	color:blue
-1	Tisuće	tisuća	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	2	nummod	_	_
-2	ljudi	čovjek	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	_
-3	okupilo	okupiti	VERB	Vmp-sn	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-4	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	_	_
-5	na	na	ADP	Sl	Case=Loc	6	case	_	_
-6	Cipru	Cipar	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
-7	vidjeti	vidjeti	VERB	Vmn	VerbForm=Inf	3	xcomp	_	_
-8	papu	papa	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
-9	Benedicta	Benedict	PROPN	Npmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	appos	_	_
-10	XVI	XVI	ADJ	Mro	NumType=Ord	9	flat	_	SpaceAfter=No
-11	.	.	PUNCT	Z	_	3	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 nummod	color:blue
+1	U	u	ADP	Sl	Case=Loc	2	case	_	_
+2	segmentu	segment	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+3	online	online	X	Xf	_	4	amod	_	_
+4	prodaje	prodaja	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	Z	_	2	punct	_	_
+6	Algoritam	Algoritam	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+7	bilježi	bilježiti	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	pad	pad	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+9	od	od	ADP	Sg	Case=Gen	10	case	_	_
+10	3	3	NUM	Mdc	NumType=Card	11	nummod	_	_
+11	%	%	SYM	Z	_	8	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	Z	_	7	punct	_	_
 
 ~~~
 

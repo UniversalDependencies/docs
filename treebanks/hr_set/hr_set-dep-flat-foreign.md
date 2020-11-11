@@ -89,13 +89,13 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 11	androginog	androgin	ADJ	Agpmsgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
 12	alter	alter	ADJ	Agpmsgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
 13	ega	ego	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
-14	Ziggyja	Ziggy	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	10	appos	_	_
+14	Ziggyja	Ziggy	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	10	flat	_	_
 15	Stardusta	Stardust	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	14	flat	_	_
 16	s	sa	ADP	Si	Case=Ins	17	case	_	_
 17	albumom	album	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	8	obl	_	_
 18	"	"	PUNCT	Z	_	20	punct	_	SpaceAfter=No
 19	The	the	X	Xf	_	20	nmod	_	_
-20	Rise	rise	X	Xf	_	17	appos	_	_
+20	Rise	rise	X	Xf	_	17	flat	_	_
 21	and	and	X	Xf	_	20	flat:foreign	_	_
 22	Fall	fall	X	Xf	_	20	flat:foreign	_	_
 23	of	of	X	Xf	_	24	nmod	_	_

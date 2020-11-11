@@ -32,7 +32,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="yo_ytb-pos-NUM.html
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (8; 100% of non-empty `NumType`): <em>kẹrin, Benin, kejì, kárùn-ún, kìn-ín-ní, lóbìnrin, ún</em>
-* `EMPTY` (190): <em>ọ̀pọ̀, ńlá, Alábùkún, dára, irú, àìmọ́, gidi, rere, mìíràn, tósòro</em>
+* `EMPTY` (188): <em>ọ̀pọ̀, ńlá, Alábùkún, dára, irú, àìmọ́, gidi, rere, mìíràn, tósòro</em>
 
 ### `ADP`
 

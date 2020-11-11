@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `1`, `2`.
 
-2635 tokens (16%) have a non-empty value of `Valency`.
-1773 types (34%) occur at least once with a non-empty value of `Valency`.
-696 lemmas (28%) occur at least once with a non-empty value of `Valency`.
-The feature is used with 3 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2509; 15% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (111; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (15; 0% instances).
+2636 tokens (15%) have a non-empty value of `Valency`.
+1774 types (32%) occur at least once with a non-empty value of `Valency`.
+696 lemmas (26%) occur at least once with a non-empty value of `Valency`.
+The feature is used with 3 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2511; 15% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (111; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (14; 0% instances).
 
 ### `VERB`
 
-2509 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Valency`.
+2511 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Valency`.
 
-The most frequent other feature values with which `VERB` and `Valency` co-occurred: <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (2270; 90%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2198; 88%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (2105; 84%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (2104; 84%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1999; 80%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1744; 70%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1562; 62%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1313; 52%).
+The most frequent other feature values with which `VERB` and `Valency` co-occurred: <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (2274; 91%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2199; 88%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (2107; 84%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (2106; 84%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2001; 80%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1745; 69%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1563; 62%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1313; 52%).
 
 `VERB` tokens may have the following values of `Valency`:
 
-* `1` (1229; 49% of non-empty `Valency`): <em>кармась, лиссь, кармасть, совась, неяви, ашти, маряви, шачсь, мольсь, чийсь</em>
+* `1` (1231; 49% of non-empty `Valency`): <em>кармась, лиссь, кармасть, совась, неяви, ашти, маряви, шачсь, мольсь, чийсь</em>
 * `2` (1280; 51% of non-empty `Valency`): <em>мерсь, ютась, саизе, ваны, путызе, кепедизе, кевкстизе, неизе, сергедсь, сергець</em>
 
 <table>
@@ -42,11 +42,11 @@ The most frequent other feature values with which `VERB` and `Valency` co-occurr
   <tr><td><tt><tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>меремс</em></td><td><em>меремс</em></td></tr>
 </table>
 
-`Valency` seems to be **lexical feature** of `VERB`. 93% lemmas (631) occur only with one value of `Valency`.
+`Valency` seems to be **lexical feature** of `VERB`. 93% lemmas (632) occur only with one value of `Valency`.
 
 ### `AUX`
 
-111 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (19% of all `AUX` tokens) have a non-empty value of `Valency`.
+111 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (18% of all `AUX` tokens) have a non-empty value of `Valency`.
 
 The most frequent other feature values with which `AUX` and `Valency` co-occurred: <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (110; 99%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (93; 84%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (89; 80%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (76; 68%).
 
@@ -64,24 +64,24 @@ The most frequent other feature values with which `AUX` and `Valency` co-occurre
 
 ### `NOUN`
 
-15 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Valency`.
+14 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Valency`.
 
-The most frequent other feature values with which `NOUN` and `Valency` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (13; 87%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (13; 87%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (9; 60%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (8; 53%).
+The most frequent other feature values with which `NOUN` and `Valency` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (8; 57%).
 
 `NOUN` tokens may have the following values of `Valency`:
 
-* `1` (10; 67% of non-empty `Valency`): <em>шлямо, каявомадо, молемась, полавтовомадонть, прамо, рамсицят-микшницят, совамо, энялдомат, ютамо</em>
-* `2` (5; 33% of non-empty `Valency`): <em>валаськавтомадо, кандомадо, коламодо, путыцязо, ёвтамозояк</em>
+* `1` (9; 64% of non-empty `Valency`): <em>шлямо, каявомадо, молемась, полавтовомадонть, прамо, рамсицят-микшницят, энялдомат, ютамо</em>
+* `2` (5; 36% of non-empty `Valency`): <em>валаськавтомадо, кандомадо, коламодо, путыцязо, ёвтамозояк</em>
 
-`Valency` seems to be **lexical feature** of `NOUN`. 100% lemmas (14) occur only with one value of `Valency`.
+`Valency` seems to be **lexical feature** of `NOUN`. 100% lemmas (13) occur only with one value of `Valency`.
 
 ## Relations with Agreement in `Valency`
 
 The 10 most frequent relations where parent and child node agree in `Valency`:
 <tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (301; 51%),
-<tt>VERB --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (48; 52%),
-<tt>VERB --[<tt><a href="myv_jr-dep-obl.html">obl</a></tt>]--> VERB</tt> (9; 53%),
+<tt>VERB --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (49; 52%),
 <tt>VERB --[<tt><a href="myv_jr-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (8; 89%),
+<tt>VERB --[<tt><a href="myv_jr-dep-obl.html">obl</a></tt>]--> VERB</tt> (8; 53%),
 <tt>VERB --[<tt><a href="myv_jr-dep-xcomp-ds.html">xcomp:ds</a></tt>]--> VERB</tt> (8; 62%),
 <tt>VERB --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> VERB</tt> (4; 57%),
 <tt>AUX --[<tt><a href="myv_jr-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2; 67%),

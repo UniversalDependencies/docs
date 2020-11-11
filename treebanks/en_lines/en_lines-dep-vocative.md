@@ -24,9 +24,9 @@ The following 13 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 1 4 vocative	color:blue
 1	Find	find	VERB	IMP	Mood=Imp|VerbForm=Fin	0	root	_	_
 2	anything	anything	PRON	IND-SG-NOM	Number=Sing	1	obj	_	SpaceAfter=No
-3	,	,	PUNCT	Comma	_	1	punct	_	_
+3	,	,	PUNCT	Comma	_	4	punct	_	_
 4	Dad	dad	NOUN	SG-NOM	Number=Sing	1	vocative	_	SpaceAfter=No
-5	?	?	PUNCT	QuestionMark	_	6	punct	_	_
+5	?	?	PUNCT	QuestionMark	_	1	punct	_	_
 6	said	say	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 7	Fred	Fred	PROPN	SG-NOM	Number=Sing	6	nsubj	_	_
 8	eagerly	eagerly	ADV	_	_	6	advmod	_	SpaceAfter=No
@@ -43,7 +43,7 @@ The following 13 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 1 5 vocative	color:blue
 1	Thank	thank	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	you	you	PRON	PERS-P2	_	1	obj	_	SpaceAfter=No
-3	,	,	PUNCT	Comma	_	1	punct	_	_
+3	,	,	PUNCT	Comma	_	5	punct	_	_
 4	Mr	mr	NOUN	SG-NOM	Number=Sing	5	nmod	_	_
 5	Donnay	Donnay	PROPN	SG-NOM	Number=Sing	1	vocative	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	1	punct	_	_

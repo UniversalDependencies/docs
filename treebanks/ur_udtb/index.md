@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Riyaz Ahmad Bhat, Daniel Zeman.
 
 Repository: [UD_Urdu-UDTB](https://github.com/UniversalDependencies/UD_Urdu-UDTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udur_udtb26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udur_udtb27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -87,7 +87,7 @@ year={2009}
 
 ## Relations
 
-[acl](ur_udtb-dep-acl.html) – [acl:relcl](ur_udtb-dep-acl-relcl.html) – [advcl](ur_udtb-dep-advcl.html) – [advmod](ur_udtb-dep-advmod.html) – [amod](ur_udtb-dep-amod.html) – [aux](ur_udtb-dep-aux.html) – [case](ur_udtb-dep-case.html) – [cc](ur_udtb-dep-cc.html) – [compound](ur_udtb-dep-compound.html) – [conj](ur_udtb-dep-conj.html) – [cop](ur_udtb-dep-cop.html) – [dep](ur_udtb-dep-dep.html) – [det](ur_udtb-dep-det.html) – [dislocated](ur_udtb-dep-dislocated.html) – [iobj](ur_udtb-dep-iobj.html) – [mark](ur_udtb-dep-mark.html) – [nmod](ur_udtb-dep-nmod.html) – [nsubj](ur_udtb-dep-nsubj.html) – [nummod](ur_udtb-dep-nummod.html) – [obj](ur_udtb-dep-obj.html) – [obl](ur_udtb-dep-obl.html) – [punct](ur_udtb-dep-punct.html) – [root](ur_udtb-dep-root.html) – [vocative](ur_udtb-dep-vocative.html) – [xcomp](ur_udtb-dep-xcomp.html)
+[acl](ur_udtb-dep-acl.html) – [acl:relcl](ur_udtb-dep-acl-relcl.html) – [advcl](ur_udtb-dep-advcl.html) – [advmod](ur_udtb-dep-advmod.html) – [amod](ur_udtb-dep-amod.html) – [aux](ur_udtb-dep-aux.html) – [case](ur_udtb-dep-case.html) – [cc](ur_udtb-dep-cc.html) – [compound](ur_udtb-dep-compound.html) – [conj](ur_udtb-dep-conj.html) – [cop](ur_udtb-dep-cop.html) – [dep](ur_udtb-dep-dep.html) – [det](ur_udtb-dep-det.html) – [dislocated](ur_udtb-dep-dislocated.html) – [flat](ur_udtb-dep-flat.html) – [iobj](ur_udtb-dep-iobj.html) – [mark](ur_udtb-dep-mark.html) – [nmod](ur_udtb-dep-nmod.html) – [nsubj](ur_udtb-dep-nsubj.html) – [nummod](ur_udtb-dep-nummod.html) – [obj](ur_udtb-dep-obj.html) – [obl](ur_udtb-dep-obl.html) – [punct](ur_udtb-dep-punct.html) – [root](ur_udtb-dep-root.html) – [vocative](ur_udtb-dep-vocative.html) – [xcomp](ur_udtb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -1171,5 +1171,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 1 relation subtypes: <a>acl:relcl</a></li>
-<li>The following 13 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>expl</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 12 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>expl</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

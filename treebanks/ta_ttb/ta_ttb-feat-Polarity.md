@@ -10,20 +10,21 @@ This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
 2329 tokens (24%) have a non-empty value of `Polarity`.
-975 types (27%) occur at least once with a non-empty value of `Polarity`.
+977 types (27%) occur at least once with a non-empty value of `Polarity`.
 376 lemmas (19%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 6 part-of-speech tags: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (1170; 12% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (628; 7% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (342; 4% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (159; 2% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (14; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (1246; 13% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (634; 7% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (254; 3% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (159; 2% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-1170 <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
+1246 <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1153; 99%), <tt><a href="ta_ttb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1033; 88%), <tt><a href="ta_ttb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (1027; 88%), <tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (855; 73%), <tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (766; 65%), <tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (745; 64%), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (733; 63%), <tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (733; 63%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1153; 93%), <tt><a href="ta_ttb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1109; 89%), <tt><a href="ta_ttb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (1103; 89%), <tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (931; 75%), <tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (821; 66%), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (809; 65%), <tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (809; 65%), <tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (767; 62%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (16; 1% of non-empty `Polarity`): இல்லாமல், செயல்படாமல், தரா, நிறைவேற்றா, ஏற்றுக்கொள்ளாமல், கண்டுகொள்ளாமல், கவலைப்படாதீர்கள், குறிப்பிடாமல், செய்யப்படாமல், பெறாமல்
-* `Pos` (1154; 99% of non-empty `Polarity`): தெரிவித்தார், தெரிவித்த், என்றார், செய்து, தெரிவிக்கப், செய்யப், உள்ளது, கூறினார், கொண்டு, கலந்து
+* `Pos` (1230; 99% of non-empty `Polarity`): தெரிவித்தார், தெரிவித்த், என்றார், செய்து, தெரிவிக்கப், செய்யப், உள்ளது, கூறினார், கொண்டு, கலந்து
+* `EMPTY` (8): கடந்த, ஆக்க, ஏற்ற, குறிப்பிட்ட
 
 <table>
   <tr><th>Paradigm <i>செய்</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -34,23 +35,24 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
   <tr><td><tt><tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>செய்யும்</td><td></td></tr>
   <tr><td><tt><tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>செய்தது</td><td></td></tr>
   <tr><td><tt><tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>செய்வோம்</td><td></td></tr>
+  <tr><td><tt><tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>செய்யும்</td><td></td></tr>
   <tr><td><tt><tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>செய்யப், செய்ய, செய்யப்படவ்</td><td></td></tr>
   <tr><td><tt><tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>செய்யப்படாமல்</td></tr>
   <tr><td><tt><tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>செய்து, செய்த்</td><td></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `VERB`. 97% lemmas (300) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `VERB`. 97% lemmas (315) occur only with one value of `Polarity`.
 
 ### `AUX`
 
-628 <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Polarity`.
+634 <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="ta_ttb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (543; 86%), <tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (463; 74%), <tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt> (460; 73%), <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (431; 69%), <tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (419; 67%), <tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (367; 58%), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (355; 57%), <tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (351; 56%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="ta_ttb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (549; 87%), <tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (463; 73%), <tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt> (460; 73%), <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (431; 68%), <tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (419; 66%), <tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (371; 59%), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (355; 56%), <tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (351; 55%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (11; 2% of non-empty `Polarity`): முடியாது, கூடாது, மாட்டாது, படாது, வேண்டாம்
-* `Pos` (617; 98% of non-empty `Polarity`): உள்ளது, பட்ட், வேண்டும், உள்ளார், இல்லை, பட்டது, உள்ளனர், பட்டு, உள்ளன, வருகின்றனர்
+* `Pos` (623; 98% of non-empty `Polarity`): உள்ளது, பட்ட், வேண்டும், உள்ளார், இல்லை, பட்டது, பட்டு, உள்ளனர், உள்ளன, வருகின்றனர்
 
 <table>
   <tr><th>Paradigm <i>படு</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -74,24 +76,23 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 ### `ADJ`
 
-342 <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> tokens (50% of all `ADJ` tokens) have a non-empty value of `Polarity`.
+254 <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> tokens (46% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (342; 100%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (254; 100%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 
-* `Neg` (8; 2% of non-empty `Polarity`): செய்யாத, அல்லாத, எடுக்காத, சரியில்லாத, சாராத, நடத்தாத, வெடிக்காத
-* `Pos` (334; 98% of non-empty `Polarity`): உள்ள, உள்ளிட்ட, இருந்த, நடைபெற்ற, வந்த, வரும், ஆகிய, நடைபெறும், இருக்கும், கொண்ட
-* `EMPTY` (340): மத்திய, ஒரு, கடந்த, புதிய, சில, முன்னாள், அடுத்த, முதல், பல்வேறு, அனைத்து
+* `Neg` (8; 3% of non-empty `Polarity`): செய்யாத, அல்லாத, எடுக்காத, சரியில்லாத, சாராத, நடத்தாத, வெடிக்காத
+* `Pos` (246; 97% of non-empty `Polarity`): உள்ள, உள்ளிட்ட, இருந்த, நடைபெற்ற, வந்த, ஆகிய, வரும், இருக்கும், நடைபெறும், பெற்ற
+* `EMPTY` (303): மத்திய, ஒரு, புதிய, கடந்த, முன்னாள், அடுத்த, சில, பல்வேறு, முதல், அனைத்து
 
 <table>
   <tr><th>Paradigm <i>செய்</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
-  <tr><td><tt><tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>செய்யும்</td><td></td></tr>
   <tr><td><tt><tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>செய்த, செய்யப்பட்ட</td><td></td></tr>
   <tr><td><tt></tt></td><td></td><td>செய்யாத</td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `ADJ`. 98% lemmas (123) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `ADJ`. 98% lemmas (99) occur only with one value of `Polarity`.
 
 ### `PART`
 
@@ -113,32 +114,52 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Pos` (16; 100% of non-empty `Polarity`): சேர்ந்தவர்கள், என்பவர், அற்றவன், இருந்தவர், உயிரிழந்தவர்கள், செய்தவர்களில், செய்தவர்கள், சேர்ந்தவர், தெரிந்தவர், மீறுவோருக்கு
-* `EMPTY` (2737): அரசு, நாடுகள், தலைவர், செயலாளர், முதல்வர், பேர், ஆண்டு, மக்கள், அதிகாரிகள், அமைச்சர்
+* `EMPTY` (2742): அரசு, நாடுகள், தலைவர், செயலாளர், முதல்வர், பேர், ஆண்டு, மக்கள், அதிகாரிகள், அமைச்சர்
 
 ### `NUM`
 
-14 <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> tokens (6% of all `NUM` tokens) have a non-empty value of `Polarity`.
+14 <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `NUM` and `Polarity` co-occurred: <tt><a href="ta_ttb-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (9; 64%), <tt><a href="ta_ttb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (9; 64%).
 
 `NUM` tokens may have the following values of `Polarity`:
 
 * `Pos` (14; 100% of non-empty `Polarity`): ஒன்றை, 10-க்க், 1200க்க், 15-ல், 18-ல், 1992-96ல், 1995ல், 2009-ல், 444-ல், ஆயிரத்த்
-* `EMPTY` (238): இரு, 2, ஆயிரம், மூன்று, லட்சம், 10, 20, 3, 80, இரண்டு
+* `EMPTY` (260): இரு, 2, ஆயிரம், மூன்று, லட்சம், 10, 20, 3, 80, இரண்டு
 
 `Polarity` seems to be **lexical feature** of `NUM`. 100% lemmas (12) occur only with one value of `Polarity`.
+
+### `ADP`
+
+4 <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `ADP` and `Polarity` co-occurred: <tt><a href="ta_ttb-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (4; 100%).
+
+`ADP` tokens may have the following values of `Polarity`:
+
+* `Pos` (4; 100% of non-empty `Polarity`): உள்ள
+* `EMPTY` (289): ஆக, உடன், இலிருந்து, குறித்து, மீது, சார்பில், மூலம், இடம், இருந்து, இடையில்
+
+### `ADV`
+
+2 <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Polarity`.
+
+`ADV` tokens may have the following values of `Polarity`:
+
+* `Pos` (2; 100% of non-empty `Polarity`): அமல்படுத்தும், விசாரிக்கும்
+* `EMPTY` (382): ஆக, இன்று, மேலும், ஆனால், பின்னர், இதனால், இதுகுறித்து, ஏற்கெனவே, இதுவரை, எனவே
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>VERB --[<tt><a href="ta_ttb-dep-aux.html">aux</a></tt>]--> AUX</tt> (523; 97%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (204; 96%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (151; 99%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-mark.html">mark</a></tt>]--> PART</tt> (116; 61%),
-<tt>ADJ --[<tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (81; 95%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (26; 93%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (26; 100%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-aux.html">aux</a></tt>]--> AUX</tt> (530; 97%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (217; 96%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (153; 99%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-mark.html">mark</a></tt>]--> PART</tt> (116; 59%),
+<tt>ADJ --[<tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (62; 95%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (27; 100%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (18; 90%),
 <tt>VERB --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> VERB</tt> (18; 100%),
 <tt>VERB --[<tt><a href="ta_ttb-dep-compound.html">compound</a></tt>]--> VERB</tt> (11; 100%),
-<tt>ADJ --[<tt><a href="ta_ttb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (5; 100%).
+<tt>VERB --[<tt><a href="ta_ttb-dep-acl.html">acl</a></tt>]--> VERB</tt> (6; 100%).
 

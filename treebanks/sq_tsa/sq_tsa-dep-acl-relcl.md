@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 4	lexojmë	lexoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	1	conj	1:conj	_
 5	artikujt	artikull	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	4	obj	4:obj	_
 6	që	që	SCONJ	_	_	8	mark	8:mark	_
-7	na	ne	PRON	_	Gender=Masc|Number=Plur|PronType=Prs	8	iobj	8:iobj	_
+7	na	ne	PRON	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Prs	8	iobj	8:iobj	_
 8	japin	jap	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	acl:relcl	5:acl:relcl	_
 9	statistika	statistikë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	8	obj	8:obj	_
 10	për	për	ADP	_	_	12	case	12:case	_
@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 acl:relcl	color:blue
-1	Ata	ai	PRON	_	Gender=Masc|Number=Plur|PronType=Prs	4	nsubj	4:nsubj	_
+1	Ata	ai	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	4	nsubj	4:nsubj	_
 2	janë	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	4	cop	4:cop	_
 3	të	i	DET	_	Gender=Masc	4	det:adj	4:det:adj	_
 4	vetmit	vetmi	ADJ	_	Gender=Masc|Number=Plur	0	root	0:root	_
@@ -70,10 +70,10 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 17 acl:relcl	color:blue
 1	Në	në	ADP	_	_	3	case	3:case	_
-2	këtë	ky	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	3:det	_
+2	këtë	ky	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	3:det	_
 3	kuadër	kuadër	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	6	obl	6:obl	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	6:punct	_
-5	ai	ai	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	6:nsubj	_
+5	ai	ai	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	6:nsubj	_
 6	theksonte	theksoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	0:root	_
 7	rëndësinë	rëndësi	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	obj	6:obj	_
 8	dhe	dhe	CCONJ	_	_	9	cc	9:cc	_
@@ -91,13 +91,13 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 20	i	i	DET	_	Gender=Masc	21	det:adj	21:det:adj	_
 21	drejtpërdrejtë	drejtpërdrejtë	ADJ	_	Gender=Masc|Number=Sing	19	amod	19:amod	_
 22	i	i	DET	_	Gender=Masc	23	det:pron	23:det:pron	_
-23	tij	tij	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	SpaceAfter=No
+23	tij	tij	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	25:punct	_
 25	vitaliteti	vitalitet	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	19	conj	19:conj	_
 26	dhe	dhe	CCONJ	_	_	27	cc	27:cc	_
 27	efikasiteti	efikasitet	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	19	conj	19:conj	_
 28	i	i	DET	_	Gender=Masc	29	det:pron	29:det:pron	_
-29	tij	tij	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	27	nmod:poss	27:nmod:poss	SpaceAfter=No
+29	tij	tij	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	27	nmod:poss	27:nmod:poss	SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	31:punct	_
 31	etj	etj.	NOUN	_	_	19	conj	19:conj	SpaceAfter=No
 32	.	.	PUNCT	_	_	6	punct	6:punct	_

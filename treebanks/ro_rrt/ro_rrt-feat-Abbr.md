@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1302; 100% of non-empty `Abbr`): <em>art., a., nr., CE, b., mg, lit., alin., ml, CEE</em>
-* `EMPTY` (52996): <em>ani, timp, cazul, conformitate, loc, membre, timpul, mod, statele, acord</em>
+* `EMPTY` (52982): <em>ani, timp, cazul, conformitate, loc, membre, timpul, mod, statele, acord</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (275) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (20; 100% of non-empty `Abbr`): <em>etc., cca, pm, A.c., p.m., v</em>
-* `EMPTY` (9527): <em>mai, ca, când, cum, iar, astfel, nici, decât, numai, mult</em>
+* `EMPTY` (9574): <em>mai, ca, când, cum, iar, astfel, nici, decât, numai, mult</em>
 
 ### `X`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (9; 100% of non-empty `Abbr`): <em>ș.a., dvs., Î.P.S.</em>
-* `EMPTY` (11834): <em>se, care, ce, s-, el, le, o, își, -și, -l</em>
+* `EMPTY` (11821): <em>se, care, ce, s-, el, le, își, o, -și, -l</em>
 
 ### `ADJ`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>am, a.m.</em>
-* `EMPTY` (15225): <em>mare, asemenea, europene, prezentul, nou, necesare, europeană, mari, prezenta, european</em>
+* `EMPTY` (15228): <em>mare, asemenea, europene, prezentul, nou, necesare, europeană, mari, prezenta, european</em>
 
 ## Relations with Agreement in `Abbr`
 
@@ -79,5 +79,6 @@ The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>NOUN --[<tt><a href="ro_rrt-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (7; 88%),
 <tt>NOUN --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (5; 83%),
 <tt>NOUN --[<tt><a href="ro_rrt-dep-list.html">list</a></tt>]--> NOUN</tt> (5; 63%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-dep.html">dep</a></tt>]--> PRON</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="ro_rrt-dep-dep.html">dep</a></tt>]--> PRON</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-goeswith.html">goeswith</a></tt>]--> NOUN</tt> (1; 100%).
 

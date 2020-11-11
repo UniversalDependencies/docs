@@ -28,7 +28,7 @@ The following 16 pairs of parts of speech are connected with `reparandum`: <tt><
 4	resultater	resultat	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	obj	_	_
 5	fra	fra	ADP	_	_	2	reparandum	_	_
 6	fra	fra	ADP	_	_	7	case	_	_
-7	valgdagsmålinger	valgdagsmåling	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	4	nmod	_	_
+7	valgdagsmålinger	valgdagsmåling	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
 8	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -48,7 +48,7 @@ The following 16 pairs of parts of speech are connected with `reparandum`: <tt><
 6	vil	ville	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	reparandum	_	_
 7	falle	falle	VERB	_	VerbForm=Inf	0	root	_	_
 8	enda	enda	ADV	_	_	9	advmod	_	_
-9	mer	mye	ADJ	_	Degree=Cmp	7	advmod	_	_
+9	mer	mye	ADJ	_	Degree=Cmp	7	advmod	_	SpaceAfter=No
 10	?	$?	PUNCT	_	_	7	punct	_	_
 
 ~~~
@@ -68,7 +68,7 @@ The following 16 pairs of parts of speech are connected with `reparandum`: <tt><
 6	gul	gul	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	7	amod	_	_
 7	legoløve	legoløve	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	_
 8	oppi	oppi	ADP	_	_	9	case	_	_
-9	lysholderen	lysholder	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	_
+9	lysholderen	lysholder	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 10	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~

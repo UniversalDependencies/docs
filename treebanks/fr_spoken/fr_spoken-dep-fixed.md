@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-410 nodes (1%) are attached to their parents as `fixed`.
+459 nodes (1%) are attached to their parents as `fixed`.
 
-410 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.09268292682927.
+459 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07843137254902.
 
-The following 36 pairs of parts of speech are connected with `fixed`: <tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (94; 23% instances), <tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (74; 18% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (35; 9% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (35; 9% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (20; 5% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (19; 5% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (17; 4% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (11; 3% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (11; 3% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (11; 3% instances), <tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (11; 3% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt> (4; 1% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 34 pairs of parts of speech are connected with `fixed`: <tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (94; 20% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (78; 17% instances), <tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (67; 15% instances), <tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (44; 10% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (33; 7% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (20; 4% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (14; 3% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (12; 3% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (11; 2% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (10; 2% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (10; 2% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (10; 2% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,15 +23,39 @@ The following 36 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
 1	euh	euh	INTJ	_	_	6	discourse	_	_
-2	parce	parce	SCONJ	_	_	6	mark	_	_
+2	parce	parce	SCONJ	_	_	6	mark	_	ExtPos=SCONJ|PhraseType=Idiom
 3	que	que	SCONJ	_	_	2	fixed	_	_
 4	euh	euh	INTJ	_	_	6	discourse	_	_
-5	je	je	PRON	_	_	6	nsubj	_	_
-6	travaille	travailler	VERB	_	_	0	root	_	_
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	travaille	travailler	VERB	_	Number=Sing|Person=1	0	root	_	_
 7	dans	dans	ADP	_	_	9	case	_	_
-8	le	le	DET	_	_	9	det	_	_
-9	privé	privé	NOUN	_	_	6	obl:arg	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	privé	privé	NOUN	_	Gender=Masc|Number=Sing	6	obl:arg	_	_
 10	là	là	ADV	_	_	9	discourse	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 fixed	color:blue
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+2	m'	lui	PRON	_	_	4	obl:arg	_	_
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	sorti	sortir	VERB	ETRE	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	advmod	_	ExtPos=ADV|PhraseType=Idiom
+6	petit	petit	ADJ	_	Gender=Masc|Number=Sing	5	fixed	_	_
+7	peu	peu	NOUN	_	_	5	fixed	_	_
+8	de	de	ADP	_	_	11	case	_	_
+9	mon	son	DET	_	Number=Sing|Person=3|PossNumber=Sing|PossPerson=1|PronType=Prs	11	det	_	_
+10	petit	petit	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
+11	cocon	cocon	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	septième	septième	NOUN	_	_	11	nmod	_	_
 
 ~~~
 
@@ -45,35 +69,15 @@ The following 36 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	et	et	CCONJ	_	_	5	cc	_	_
 2	euh	euh	INTJ	_	_	5	discourse	_	_
 3	donc	donc	ADV	_	_	5	discourse	_	_
-4	vous	vous	PRON	_	_	5	nsubj	_	_
-5	passez	passer	VERB	ETRE	_	0	root	_	_
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
+5	passez	passer	VERB	ETRE	Number=Plur|Person=2	0	root	_	_
 6	à	à	ADP	_	_	7	case	_	_
-7	côté	côté	NOUN	_	_	5	obl:arg	_	_
+7	côté	côté	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_
 8	de	de	ADP	_	_	10	case	_	_
-9	la	le	DET	_	_	10	det	_	_
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	poste	poste	NOUN	_	_	7	nmod	_	_
-11	et	et	CCONJ	_	_	10	conj	_	_
+11	et	et	CCONJ	_	_	10	conj	_	ExtPos=ADV|PhraseType=Idiom
 12	caetera	caetera	ADV	_	_	11	fixed	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 fixed	color:blue
-1	et	et	CCONJ	_	_	8	cc	_	_
-2	puis	puis	ADV	_	_	1	fixed	_	_
-3	bon	bon	ADJ	_	_	8	discourse	_	_
-4	ce	ce	DET	_	_	5	det	_	_
-5	monsieur	Monsieur	NOUN	_	_	8	dislocated	_	_
-6	-là	là	ADV	_	_	5	advmod	_	_
-7	il	il	PRON	_	_	8	nsubj	_	_
-8	fait	faire	VERB	_	_	0	root	_	_
-9	de	de	ADP	_	_	8	mark	_	_
-10	la	le	DET	_	_	9	fixed	_	_
 
 ~~~
 

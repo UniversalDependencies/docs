@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="pt_bosque-dep-aux-
 1033 nodes (0%) are attached to their parents as `aux`.
 
 1029 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.48402710551791.
+Average distance between parent and child is 1.48209099709584.
 
 The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (971; 94% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (34; 3% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (22; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 

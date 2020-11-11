@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Hum`, `NHum` are language-specific.
 It occurs with 4 different values: `Anim`, `Hum`, `Inan`, `NHum`.
 
-34 tokens (5%) have a non-empty value of `Animacy`.
-25 types (7%) occur at least once with a non-empty value of `Animacy`.
-23 lemmas (7%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 4 part-of-speech tags: <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (17; 2% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (14; 2% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+35 tokens (4%) have a non-empty value of `Animacy`.
+25 types (5%) occur at least once with a non-empty value of `Animacy`.
+23 lemmas (6%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 4 part-of-speech tags: <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (17; 2% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (14; 2% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 ### `NOUN`
 
-14 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (10% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+14 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (8% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
 The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 93%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 79%), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (10; 71%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (10; 71%).
 
@@ -36,20 +36,20 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 * `Anim` (2; 14% of non-empty `Animacy`): <em>Мортлӧ, вонӧ</em>
 * `Hum` (3; 21% of non-empty `Animacy`): <em>соседыс, oтиp</em>
 * `Inan` (9; 64% of non-empty `Animacy`): <em>бадь, видзоккез, кадӧ, касьтылӧм, керку, керкуокыс, муӧ, син, ягӧд</em>
-* `EMPTY` (128): <em>айӧ, йӧрсӧ, айся, дорас, дорын, луныс, машина, ойнас, олісьыс, ордчӧн</em>
+* `EMPTY` (154): <em>айӧ, йӧрсӧ, айся, дорас, дорын, луныс, машина, морт, ойнас, олісьыс</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (12) occur only with one value of `Animacy`.
 
 ### `PRON`
 
-2 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Animacy`.
+3 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (2; 67%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `NHum` (2; 100% of non-empty `Animacy`): <em>мый</em>
-* `EMPTY` (64): <em>сія, менам, тэ, Ме, сійӧ, меным, сылӧ, тэнат, нія, сылӧн</em>
+* `NHum` (3; 100% of non-empty `Animacy`): <em>мый</em>
+* `EMPTY` (78): <em>сія, ме, менам, тэ, сійӧ, меным, сылӧ, сылӧн, тэнат, мыйкӧ</em>
 
 ### `ADJ`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 `ADJ` tokens may have the following values of `Animacy`:
 
 * `Inan` (1; 100% of non-empty `Animacy`): <em>сісь</em>
-* `EMPTY` (28): <em>буржык, ыджыт, важ, честнӧй, Куимӧдз, бур, веськытлань, витӧдз, гажаӧсь, долыт</em>
+* `EMPTY` (30): <em>буржык, ыджыт, важ, честнӧй, Куимӧдз, бур, быльнӧй, веськытлань, витӧдз, гажаӧсь</em>
 
 ## Relations with Agreement in `Animacy`
 

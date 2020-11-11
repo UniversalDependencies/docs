@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1336 nodes (3%) are attached to their parents as `amod`.
+1806 nodes (3%) are attached to their parents as `amod`.
 
-1286 instances of `amod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18787425149701.
+1741 instances of `amod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2015503875969.
 
-The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1265; 95% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (29; 2% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `amod`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1681; 93% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (47; 3% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (40; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,12 +26,31 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	oleks	olema	AUX	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
 3	et	et	SCONJ	J	_	6	mark	6:mark	_
 4	saaks	saama	AUX	V	Mood=Cnd|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	6:aux	_
-5	tuulde	tuul	NOUN	S	Case=Ill|Number=Sing	6	obl	6:obl	_
+5	tuulde	tuul	NOUN	S	Case=Add|Number=Sing	6	obl	6:obl	_
 6	lennata	lendama	VERB	V	VerbForm=Inf	0	root	0:root	_
 7	koos	koos	ADP	K	AdpType=Prep	9	case	9:case	_
-8	kallis	kallis	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	9	amod	9:amod	_
+8	kallis	kallis	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|Typo=Yes	9	amod	9:amod	CorrectForm=kalli
 9	abikaasaga	abi_kaasa	NOUN	S	Case=Com|Number=Sing	6	obl	6:obl	_
 10	...	...	PUNCT	Z	_	6	punct	6:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 amod	color:blue
+1	Anarion	anarion	PROPN	S	Case=Nom|Number=Sing	9	parataxis	9:parataxis	SpaceAfter=No
+2	:	:	PUNCT	Z	_	1	punct	1:punct	_
+3	Mazda	Mazda	PROPN	S	Case=Nom|Number=Sing	9	nsubj:cop	9:nsubj	_
+4	929	929	NUM	N	NumForm=Digit|NumType=Card	3	flat	3:flat	_
+5	3	3	NUM	N	NumForm=Digit|NumType=Card	6	obl	6:obl	_
+6	liitrine	liitrine	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	amod	3:amod	_
+7	pearis	päris	ADV	D	Typo=Yes	8	advmod	8:advmod	CorrectForm=päris
+8	k6va	kõva	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Typo=Yes	9	amod	9:amod	CorrectForm=kõva
+9	pill	pill	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	_
 
 ~~~
 
@@ -51,24 +70,6 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 7	suus	suu	NOUN	S	Case=Ine|Number=Sing	1	advcl	1:advcl	_
 8	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	SpaceAfter=No
 9	.	.	PUNCT	Z	_	1	punct	1:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 amod	color:blue
-1	Kallis	kallis	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	amod	2:amod	_
-2	Minni	Minni	PROPN	S	Case=Nom|Number=Sing	4	vocative	4:vocative	SpaceAfter=No
-3	,	,	PUNCT	Z	_	4	punct	4:punct	_
-4	ela	elama	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-5	rahus	rahu	NOUN	S	Case=Ine|Number=Sing	4	obl	4:obl	_
-6	ja	ja	CCONJ	J	_	7	cc	7:cc	_
-7	õnnes	õnn	NOUN	S	Case=Ine|Number=Sing	5	conj	5:conj	SpaceAfter=No
-8	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 ~~~
 

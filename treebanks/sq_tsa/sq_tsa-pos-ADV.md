@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “gjithnjë”:
 
 `ADV` nodes are attached to their parents using 7 different relations: <tt><a href="sq_tsa-dep-advmod.html">advmod</a></tt> (19; 70% instances), <tt><a href="sq_tsa-dep-fixed.html">fixed</a></tt> (2; 7% instances), <tt><a href="sq_tsa-dep-mark.html">mark</a></tt> (2; 7% instances), <tt><a href="sq_tsa-dep-acl-relcl.html">acl:relcl</a></tt> (1; 4% instances), <tt><a href="sq_tsa-dep-amod.html">amod</a></tt> (1; 4% instances), <tt><a href="sq_tsa-dep-compound.html">compound</a></tt> (1; 4% instances), <tt><a href="sq_tsa-dep-conj.html">conj</a></tt> (1; 4% instances)
 
-Parents of `ADV` nodes belong to 5 different parts of speech: <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> (13; 48% instances), <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> (7; 26% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt> (4; 15% instances), <tt><a href="sq_tsa-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt> (1; 4% instances)
+Parents of `ADV` nodes belong to 5 different parts of speech: <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> (14; 52% instances), <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> (6; 22% instances), <tt><a href="sq_tsa-pos-ADJ.html">ADJ</a></tt> (4; 15% instances), <tt><a href="sq_tsa-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="sq_tsa-pos-ADV.html">ADV</a></tt> (1; 4% instances)
 
 20 (74%) `ADV` nodes are leaves.
 

@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 7 flat	color:blue
 1	Eriksen	Eriksen	PROPN	N	Case=Nom|Number=Sing	4	nsubj	_	_
-2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	ge	ge	PART	Pcle	_	4	discourse	_	_
 4	soahpan	soahpat	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	_
 5	Anders	Anders	PROPN	N	_	8	nmod:poss	_	_
@@ -61,7 +61,7 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat	color:blue
 1	Eriksen	Eriksen	PROPN	N	Case=Nom|Number=Sing	4	nsubj	_	_
-2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	ge	ge	PART	Pcle	_	4	discourse	_	_
 4	soahpan	soahpat	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	_
 5	Anders	Anders	PROPN	N	_	8	nmod:poss	_	_

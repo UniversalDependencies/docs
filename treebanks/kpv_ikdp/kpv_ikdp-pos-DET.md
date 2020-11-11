@@ -48,7 +48,7 @@ Examples: <em>Став, такое</em>
 
 `DET` nodes are attached to their parents using 4 different relations: <tt><a href="kpv_ikdp-dep-det.html">det</a></tt> (3; 50% instances), <tt><a href="kpv_ikdp-dep-amod.html">amod</a></tt> (1; 17% instances), <tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt> (1; 17% instances), <tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt> (1; 17% instances)
 
-Parents of `DET` nodes belong to 3 different parts of speech: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (4; 67% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 17% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 17% instances)
+Parents of `DET` nodes belong to 3 different parts of speech: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (4; 67% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 17% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 17% instances)
 
 5 (83%) `DET` nodes are leaves.
 

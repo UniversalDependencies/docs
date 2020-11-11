@@ -7,70 +7,75 @@ udver: '2'
 ## Treebank Statistics: UD_Indonesian-PUD: Relations: `flat`
 
 This relation is universal.
-There are 1 language-specific subtypes of `flat`: <tt><a href="id_pud-dep-flat-name.html">flat:name</a></tt>.
+There are 2 language-specific subtypes of `flat`: <tt><a href="id_pud-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="id_pud-dep-flat-name.html">flat:name</a></tt>.
 
-11 nodes (0%) are attached to their parents as `flat`.
+121 nodes (1%) are attached to their parents as `flat`.
 
-11 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.27272727272727.
+121 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.37190082644628.
 
-The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (8; 73% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (3; 27% instances).
+The following 12 pairs of parts of speech are connected with `flat`: <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (51; 42% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (24; 20% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (19; 16% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (6; 5% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (5; 4% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (3; 2% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 flat	color:blue
-1	Ini	_	PRON	PRD	_	3	nsubj	_	_
-2	adalah	_	AUX	VC	_	3	cop	_	_
-3	coup	_	X	FW	_	0	root	_	_
-4	de	_	X	FW	_	3	compound	_	_
-5	grâce	_	X	FW	Foreign=Yes	4	flat	_	_
-6	dan	_	CCONJ	CC	_	7	cc	_	_
-7	dorongan	_	VERB	VV	_	3	conj	_	SpaceAfter=No
-8	yang	_	ADP	IN	_	9	mark	_	_
-9	dibutuhkan	_	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No
-10	oleh	_	ADP	IN	_	12	case	_	_
-11	para	_	DET	DT	_	12	det	_	_
-12	pendatang	_	VERB	VV	_	9	obl	_	_
-13	untuk	_	ADP	IN	_	14	mark	_	_
-14	mendapatkan	_	VERB	VV	_	9	advcl	_	SpaceAfter=No
-15	kemerdekaan	_	ADJ	JJ	_	14	obj	_	SpaceAfter=No
-16	mereka	_	PRON	PRP$	_	15	nmod:poss	_	SpaceAfter=No
-17	.	_	PUNCT	.	_	3	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 flat	color:blue
+1	Raja	raja	NOUN	_	Number=Sing	5	nsubj	_	_
+2	pertama	pertama	ADJ	_	NumType=Ord	1	amod	_	_
+3	nya	nya	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
+4	adalah	adalah	AUX	_	_	5	cop	_	_
+5	Mojmír	Mojmír	PROPN	_	_	0	root	_	_
+6	I	i	ADJ	_	NumType=Ord	5	amod	_	_
+7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	berkuasa	kuasa	VERB	_	Mood=Ind|Voice=Act	5	parataxis	_	_
+9	830	830	NUM	_	NumType=Card	8	obl:tmod	_	_
+10	–	–	PUNCT	_	_	11	punct	_	_
+11	846	846	NUM	_	NumType=Card	9	flat	_	SpaceAfter=No
+12	)	)	PUNCT	_	_	8	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 13 flat	color:blue
-1	Andes	_	PROPN	NNP	_	4	nsubj	_	_
-2	tengah	_	NOUN	NN	_	1	compound	_	_
-3	merupakan	_	AUX	VC	_	4	cop	_	_
-4	bagian	_	NOUN	NN	_	0	root	_	SpaceAfter=No
-5	dari	_	ADP	IN	_	6	case	_	_
-6	apa	_	PRON	WP	_	4	nmod	_	ToDo=nmod
-7	yang	_	ADP	IN	_	8	mark	_	_
-8	disebut	_	VERB	VV	_	6	acl:relcl	_	_
-9	'	_	PUNCT	``	_	10	punct	_	SpaceAfter=No
-10	Andes	_	PROPN	NNP	_	8	obj	_	_
-11	de	_	X	FW	Foreign=Yes	10	flat	_	_
-12	tipo	_	X	FW	Foreign=Yes	10	flat	_	_
-13	andino	_	X	FW	Foreign=Yes	10	flat	_	SpaceAfter=No
-14	'	_	PUNCT	''	_	10	punct	_	_
-15	yang	_	ADP	IN	_	16	mark	_	_
-16	terbentuk	_	NOUN	NN	_	10	acl:relcl	_	_
-17	oleh	_	ADP	IN	_	18	case	_	_
-18	subduksi	_	NOUN	NN	_	16	nmod	_	_
-19	kerak	_	NOUN	NN	_	18	compound	_	_
-20	samudra	_	NOUN	NN	_	19	compound	_	SpaceAfter=No
-21	.	_	PUNCT	.	_	4	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 flat	color:blue
+1	Mereka	mereka	PRON	_	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	akan	akan	AUX	_	_	3	aux	_	_
+3	main	main	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	pada	pada	ADP	_	_	5	case	_	_
+5	hari	hari	NOUN	_	Number=Sing	3	obl:tmod	_	_
+6	Sabtu	Sabtu	PROPN	_	_	5	nmod:tmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	10	10	NUM	_	NumType=Card	5	appos	_	_
+9	Juni	Juni	PROPN	_	_	8	flat	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 flat	color:blue
+1	Di	di	ADP	_	_	2	case	_	_
+2	bulan	bulan	NOUN	_	Number=Sing	8	obl:tmod	_	_
+3	Juni	Juni	PROPN	_	_	2	nmod:tmod	_	_
+4	hingga	hingga	ADP	_	_	5	case	_	_
+5	Agustus	Agustus	PROPN	_	_	3	nmod:tmod	_	_
+6	2010	2010	NUM	_	NumType=Card	3	flat	_	_
+7	kelaparan	lapar	NOUN	_	Number=Sing	8	nsubj	_	_
+8	melanda	landa	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+9	Sahel	Sahel	PROPN	_	_	8	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

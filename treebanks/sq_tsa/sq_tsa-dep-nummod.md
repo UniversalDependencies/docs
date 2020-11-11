@@ -74,13 +74,13 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 8	lëvizur	lëviz	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Ger|Voice=Act	2	advcl	2:advcl	_
 9	kopetë	kope	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	8	obj	8:obj	_
 10	e	i	DET	_	Gender=Fem|Number=Plur	11	det:pron	11:det:pron	_
-11	tyre	ata	PRON	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+11	tyre	ata	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
 12	nga	nga	ADP	_	_	14	case	14:case	_
 13	një	një	NUM	_	_	14	nummod	14:nummod	_
 14	kullotë	kullotë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	8	obl	8:obl	_
 15	në	në	ADP	_	_	17	case	17:case	_
 16	një	një	NUM	_	_	17	nummod	17:nummod	_
-17	tjetër	tjetër	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	8	obl	8:obl	SpaceAfter=No
+17	tjetër	tjetër	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	8	obl	8:obl	SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~

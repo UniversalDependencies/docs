@@ -315,14 +315,14 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (8015; 99%),
+<tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (8013; 99%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6184; 98%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2885; 98%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2140; 95%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-det.html">det</a></tt>]--> DET</tt> (1722; 73%),
 <tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1304; 98%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1072; 98%),
-<tt>PROPN --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (744; 99%),
+<tt>PROPN --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (745; 99%),
 <tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (721; 98%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (667; 54%).
 

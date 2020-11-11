@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `cc`: <tt><a href="fo_oft-dep-cc-preco
 293 instances of `cc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.88775510204082.
 
-The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (171; 58% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (46; 16% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (33; 11% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (22; 7% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (13; 4% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (171; 58% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (45; 15% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (33; 11% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (22; 7% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (13; 4% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt>-<tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,7 +63,7 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="f
 1	Føroyar	Føroyar	PROPN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	6	nsubj	_	_
 2	og	og	CCONJ	CC	_	3	cc	_	_
 3	Grønland	Grønland	PROPN	N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	conj	_	_
-4	eru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Pres	6	cop	_	_
+4	eru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Pres	6	cop	_	_
 5	sjálvstýrandi	sjálvstýrandi	ADJ	A	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	6	amod	_	_
 6	lond	land	NOUN	N	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
 7	í	í	ADP	Pr	_	9	case	_	_

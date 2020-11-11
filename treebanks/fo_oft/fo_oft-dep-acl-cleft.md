@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `acl:cleft`: <tt><a 
 # visual-style 5	fgColor:white
 # visual-style 5 8 acl:cleft	color:blue
 1	Tað	tað	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
 3	í	í	ADP	Pr	_	5	case	_	_
 4	Nýggja	nýggjur	ADJ	A	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	5	amod	_	_
 5	Testamenti	testamenti	NOUN	N	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No

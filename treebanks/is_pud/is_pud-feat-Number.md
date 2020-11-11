@@ -12,18 +12,18 @@ It occurs with 2 different values: `Plur`, `Sing`.
 9658 tokens (51%) have a non-empty value of `Number`.
 5300 types (81%) occur at least once with a non-empty value of `Number`.
 3586 lemmas (75%) occur at least once with a non-empty value of `Number`.
-The feature is used with 11 part-of-speech tags: <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (4080; 22% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (1378; 7% instances), <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> (1367; 7% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt> (1152; 6% instances), <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> (877; 5% instances), <tt><a href="is_pud-pos-PROPN.html">PROPN</a></tt> (650; 3% instances), <tt><a href="is_pud-pos-NUM.html">NUM</a></tt> (118; 1% instances), <tt><a href="is_pud-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="is_pud-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="is_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (4082; 22% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (1378; 7% instances), <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> (1365; 7% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt> (1152; 6% instances), <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> (877; 5% instances), <tt><a href="is_pud-pos-PROPN.html">PROPN</a></tt> (650; 3% instances), <tt><a href="is_pud-pos-NUM.html">NUM</a></tt> (118; 1% instances), <tt><a href="is_pud-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="is_pud-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="is_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-4080 <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+4082 <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="is_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2933; 72%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="is_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2935; 72%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (1283; 31% of non-empty `Number`): <em>árum, ára, áhrif, milljónir, ár, sinnum, yfirráð, fjárfestar, lögum, mörkum</em>
-* `Sing` (2797; 69% of non-empty `Number`): <em>árið, hluta, október, stað, öld, fólk, fjölda, sinn, sögu, ár</em>
+* `Plur` (1284; 31% of non-empty `Number`): <em>árum, ára, áhrif, milljónir, ár, sinnum, yfirráð, fjárfestar, lögum, mörkum</em>
+* `Sing` (2798; 69% of non-empty `Number`): <em>árið, hluta, október, stað, öld, fólk, fjölda, sinn, sögu, ár</em>
 * `EMPTY` (19): <em>Frú, ati, dala, dr., eiðinu, etým, evra, heimi, hofi, k​a​r​l​h​o​r​m​ó​n​a​g​e​t​n​a​ð​a​r​v​ö​r​n</em>
 
 <table>
@@ -38,18 +38,18 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><tt><a href="is_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>ár</em></td><td><em>ár</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 92% lemmas (2031) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 92% lemmas (2033) occur only with one value of `Number`.
 
 ### `VERB`
 
 1378 <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> tokens (69% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1205; 87%), <tt><a href="is_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1137; 83%), <tt><a href="is_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1136; 82%), <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1136; 82%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1074; 78%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1072; 78%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (920; 67%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1205; 87%), <tt><a href="is_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1137; 83%), <tt><a href="is_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1136; 82%), <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1136; 82%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1074; 78%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1071; 78%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (921; 67%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (369; 27% of non-empty `Number`): <em>eiga, komu, fengu, urðu, höfðu, eru, segja, fóru, gerðu, sneru</em>
-* `Sing` (1009; 73% of non-empty `Number`): <em>sagði, fór, varð, segir, þarf, hafði, kom, átti, gerði, tók</em>
+* `Plur` (370; 27% of non-empty `Number`): <em>eiga, komu, fengu, urðu, höfðu, eru, segja, fóru, gerðu, sneru</em>
+* `Sing` (1008; 73% of non-empty `Number`): <em>sagði, fór, varð, segir, þarf, hafði, kom, átti, gerði, tók</em>
 * `EMPTY` (620): <em>nota, gera, hafa, fá, koma, sjá, taka, gert, draga, fara</em>
 
 <table>
@@ -66,13 +66,13 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-1367 <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+1365 <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="is_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (802; 59%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (337; 25% of non-empty `Number`): <em>þeir, þeirra, við, þau, þær, þeim, okkar, sín, okkur, sig</em>
+* `Plur` (335; 25% of non-empty `Number`): <em>þeir, þeirra, við, þau, þær, þeim, okkar, sín, okkur, sig</em>
 * `Sing` (1030; 75% of non-empty `Number`): <em>það, hann, því, þetta, þess, hún, ég, hans, sér, sig</em>
 * `EMPTY` (5): <em>hvort, sama, það, þig, þá</em>
 
@@ -128,12 +128,12 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 877 <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (876; 100%), <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (876; 100%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (852; 97%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (755; 86%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (491; 56%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (876; 100%), <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (876; 100%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (852; 97%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (756; 86%), <tt><a href="is_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (492; 56%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (240; 27% of non-empty `Number`): <em>voru, eru, hafa, höfðu, geta, hefðu, séu, hafi, væru, gætu</em>
-* `Sing` (637; 73% of non-empty `Number`): <em>er, var, hefur, hafði, væri, myndi, sé, gæti, getur, hafi</em>
+* `Plur` (239; 27% of non-empty `Number`): <em>voru, eru, hafa, höfðu, geta, hefðu, séu, hafi, væru, gætu</em>
+* `Sing` (638; 73% of non-empty `Number`): <em>er, var, hefur, hafði, væri, myndi, sé, gæti, má, getur</em>
 * `EMPTY` (97): <em>verið, vera, hafa, geta</em>
 
 <table>
@@ -235,12 +235,12 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="is_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (777; 96%),
 <tt>VERB --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (468; 79%),
-<tt>VERB --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (296; 81%),
+<tt>VERB --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (297; 82%),
 <tt>NOUN --[<tt><a href="is_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (290; 55%),
 <tt>NOUN --[<tt><a href="is_pud-dep-det.html">det</a></tt>]--> PRON</tt> (247; 96%),
 <tt>NOUN --[<tt><a href="is_pud-dep-cop.html">cop</a></tt>]--> AUX</tt> (182; 73%),
+<tt>NOUN --[<tt><a href="is_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (171; 70%),
 <tt>NOUN --[<tt><a href="is_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (171; 56%),
-<tt>NOUN --[<tt><a href="is_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (170; 70%),
-<tt>NOUN --[<tt><a href="is_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (147; 75%),
+<tt>NOUN --[<tt><a href="is_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (148; 75%),
 <tt>ADJ --[<tt><a href="is_pud-dep-cop.html">cop</a></tt>]--> AUX</tt> (123; 85%).
 

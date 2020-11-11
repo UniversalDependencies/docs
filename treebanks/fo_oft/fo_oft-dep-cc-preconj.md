@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 3 cc:preconj	color:blue
 1	Libreville	Libreville	PROPN	N	Case=Nom|Number=Sing	4	nsubj	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
 3	bæði	bæði	CCONJ	CC	_	4	cc:preconj	_	_
 4	høvuðsstaður	høvuðsstaður	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	og	og	CCONJ	CC	_	7	cc	_	_

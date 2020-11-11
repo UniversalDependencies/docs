@@ -6,85 +6,90 @@ udver: '2'
 
 ## Treebank Statistics: UD_Romanian-SiMoNERo: POS Tags: `DET`
 
-There are 25 `DET` lemmas (1%), 61 `DET` types (1%) and 663 `DET` tokens (5%).
-Out of 15 observed tags, the rank of `DET` is: 9 in number of lemmas, 7 in number of types and 6 in number of tokens.
+There are 36 `DET` lemmas (0%), 114 `DET` types (1%) and 7424 `DET` tokens (5%).
+Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 8 in number of types and 6 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>al, un, acest, cel, alt, său, lui, mult, meu, a</em>
+The 10 most frequent `DET` lemmas: <em>al, un, acest, cel, alt, lui, mult, său, tot, același</em>
 
-The 10 most frequent `DET` types:  <em>a, o, un, al, ale, unei, această, acest, alte, cel</em>
+The 10 most frequent `DET` types:  <em>a, o, un, al, ale, unui, acest, această, unei, cel</em>
 
-The 10 most frequent ambiguous lemmas: <em>său</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 16, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 1), <em>mult</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 12, <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> 7, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 1), <em>a</em> (<tt><a href="ro_simonero-pos-PART.html">PART</a></tt> 19, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 3, <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> 1, <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ro_simonero-pos-X.html">X</a></tt> 1), <em>tot</em> (<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 4, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 3, <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> 2), <em>acela</em> (<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 42, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 2), <em>care</em> (<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 114, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 2), <em>fiecare</em> (<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 4, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 2), <em>acesta</em> (<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 29, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 1), <em>atât</em> (<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> 14, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>al</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 2868, <tt><a href="ro_simonero-pos-X.html">X</a></tt> 7, <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> 2), <em>lui</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 149, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 3), <em>mult</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 130, <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> 123, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 21), <em>său</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 99, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 2), <em>tot</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 94, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 42, <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> 16), <em>același</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 75, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 2), <em>fiecare</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 43, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 11), <em>care</em> (<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 1240, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 37), <em>câtva</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 30, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 2), <em>acel</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 25, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 3)
 
-The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 191, <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> 52, <tt><a href="ro_simonero-pos-PART.html">PART</a></tt> 19, <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> 1, <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ro_simonero-pos-X.html">X</a></tt> 1), <em>o</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 81, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 3), <em>cel</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 11, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 1), <em>cele</em> (<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 14, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 6), <em>mult</em> (<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> 7, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 3), <em>toate</em> (<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 4, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 3), <em>celor</em> (<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 4, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 1), <em>unele</em> (<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 2), <em>acestora</em> (<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 5, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 1), <em>atât</em> (<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> 14, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 1826, <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> 793, <tt><a href="ro_simonero-pos-PART.html">PART</a></tt> 302, <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> 12, <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="ro_simonero-pos-X.html">X</a></tt> 5), <em>o</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 896, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 27), <em>al</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 569, <tt><a href="ro_simonero-pos-X.html">X</a></tt> 7, <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> 2), <em>cel</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 127, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 44), <em>cele</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 107, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 56), <em>lor</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 94, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 2), <em>multe</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 89, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 13), <em>ai</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 69, <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> 1), <em>cea</em> (<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 62, <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 54), <em>toate</em> (<tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 45, <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 27)
 
 
 * <em>a</em>
-  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 191: <em>Valoarea medie <b>a</b> euroSCORE la pacienții tratați a fost de 3,45% .</em>
-  * <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> 52: <em>Clasic , creierul <b>a</b> fost inclus printre țesuturile insulinoindependente .</em>
-  * <tt><a href="ro_simonero-pos-PART.html">PART</a></tt> 19: <em>Efectele antagonizante față de insulină par <b>a</b> fi localizate la nivel de postreceptor .</em>
-  * <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> 1: <em>Neseritidul a fost evaluat extensiv de- <b>a</b> lungul ultimului deceniu , în special la pacienții cu ICA și disfuncție sistolică , administrarea sa fiind asociată cu reducerea presiunilor de umplere ventriculară ( într- o manieră dependentă de doză ) , reducerea rezistențelor sistemice și pulmonare și creșterea debitului cardiac ( 17 ) .</em>
-  * <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> 1: <em>Alte polimorfisme induse de enzime de restricție în gena VDR sunt BsmI ( alele b și B ) și ApaI ( alele <b>a</b> și A ) în intron 8 și o substituție C - T silențioasă ( care nu determină modificarea aminoacidului codificat ) în exonul 9 care induce un situs Taq1 ( alele T și T ) .</em>
-  * <tt><a href="ro_simonero-pos-X.html">X</a></tt> 1: <em>Pacienții cu boli hepatice au risc mai mare de acidoză lactică deoarece nivelele serice <b>a</b> jeun ale glicerolului și ale altor precursori gluconeogenetici sunt mari ( 2 , 3 , 10 , 22 ) .</em>
+  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 1826: <em>Un factor patogenic important este și deformarea în equin <b>a</b> piciorului .</em>
+  * <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> 793: <em>S- <b>a</b> demonstrat de asemenea că predomină pierderea de os trabecular .</em>
+  * <tt><a href="ro_simonero-pos-PART.html">PART</a></tt> 302: <em>Ulterior , splinturile sunt strânse pentru <b>a</b> crea o formă bilobulară .</em>
+  * <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> 12: <em>Se consideră sugestivă pentru diagnostic prezența <b>a</b> cel puțin unui ovar cu volumul > 10 cm ( 3 ) / prezentând minimum 12 foliculi cu diametrul cuprins între 43345 mm .</em>
+  * <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> 8: <em>Subunitatea <b>a</b> are 96 acizi aminați , iar b 115 acizi aminați .</em>
+  * <tt><a href="ro_simonero-pos-X.html">X</a></tt> 5: <em>Mai utilă pentru diagnostic este glicemia <b>a</b> jeun , a cărei creștere peste 126 mg / dl semnifică diabet zaharat .</em>
 * <em>o</em>
-  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 81: <em>Prezența comorbidităților reprezintă <b>o</b> particularitate a IC la vârstnici .</em>
-  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 3: <em>De aceea , fragilitatea este considerată cel mai important factor de decizie terapeutică la vârstnic , cu condiția de a <b>o</b> diferenția de comorbidități și dizabilități ( 82 ) .</em>
+  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 896: <em>Ulterior , splinturile sunt strânse pentru a crea <b>o</b> formă bilobulară .</em>
+  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 27: <em>TV poate apărea și în absența unei anomalii structurale sau a unei canalopatii , astfel încât <b>o</b> numim idiopatică .</em>
+* <em>al</em>
+  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 569: <em>Tusea cronică , seacă , echivalent <b>al</b> dispneei , este frecventă .</em>
+  * <tt><a href="ro_simonero-pos-X.html">X</a></tt> 7: <em>În anul 1983 , Vanderschueren-Lodeweyckx et <b>al</b> au efectuat un studiu prin care au verificat nivelul de auz pentru 45 de copii diagnosticați cu hipotiroidism congenital .</em>
+  * <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> 2: <em>Conformația monomerului de insulină poate avea variații de la un cristal la altul ( Derewenda et <b>al</b> cit de 3 ) datorate în primul rând capătului NH2 al lanțului B .</em>
 * <em>cel</em>
-  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 11: <em>Nitroglicerina este <b>cel</b> mai cunoscut și <b>cel</b> mai utilizat vasodilatator , scăzând atât presarcina , cât și postsarcina .</em>
-  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 1: <em>În condițiile scăderii glicemiei sub 50 mg / dl , nivelul glucozei în celula nervoasă va scădea paralel cu glicemia , ceea ce va duce ( datorită imposibilității folosirii altor substrate energetice ) la scăderea producției de ATP și a transportului ionic transmembranar dependent de ATP ( Na / K ATPaza ) , proces similar cu <b>cel</b> întâlnit în condiții de hipoxie cerebrală .</em>
+  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 127: <em>Grefonul autolog utilizat <b>cel</b> mai des este vena safenă internă ipsilaterală .</em>
+  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 44: <em>Un alt procedeu utilizat a fost <b>cel</b> descris de Judd .</em>
 * <em>cele</em>
-  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 14: <em>Aminoacizii glucoformatori provin din proteine , în special din <b>cele</b> musculare și viscerale .</em>
-  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 6: <em>Pe termen lung , atât mortalitatea , cât și respitalizările la 60 și la 90 de zile de la diagnostic sunt similare între <b>cele</b> două forme de IC .</em>
-* <em>mult</em>
-  * <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> 7: <em>În vena portă scade și mai <b>mult</b> concentrația insulinei și crește semnificativ nivelul glucagonului .</em>
-  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 3: <em>Debitul cardiac și volumul VS telediastolic sunt menținute <b>mult</b> timp normale , în ciuda unui gradient presional sistolic între ventriculul stâng și sistemul arterial periferic .</em>
+  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 107: <em>Anevrismele aortei abdominale sunt de <b>cele</b> mai multe ori infrarenale .</em>
+  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 56: <em>Cel mai frecvent întâlnite sunt infecțiile tractului urinar și <b>cele</b> vulvovaginale .</em>
+* <em>lor</em>
+  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 94: <em>Scopul <b>lor</b> era acela de a pierde 0.07 din greutatea corporală .</em>
+  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 2: <em>Într-adevăr , calea de administare obișnuită a rămas cea subcutanată și deci pacientul trebuie să se folosească în continuare de ac și de siringă , injecțiile se fac de mai multe ori pe zi , hipoglicemia este un incident aproape inevitabil și pentru prea mulți încă dintre pacienți mentalitatea de bolnav cronic umbrește viața lor și a celor apropiați <b>lor</b> .</em>
+* <em>multe</em>
+  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 89: <em>Anevrismele aortei abdominale sunt de cele mai <b>multe</b> ori infrarenale .</em>
+  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 13: <em>Am învățat <b>multe</b> în timpul cercetărilor cu privire la buretele inteligent și îl vom îmbunătăți .</em>
+* <em>ai</em>
+  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 69: <em>Proteinele sunt polimeri <b>ai</b> &b.alpha;-aminoacizilor ( fig. 4 ) .</em>
+  * <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> 1: <em>Acestea cunoșteau cât de important este să <b>ai</b> grijă de tine .</em>
+* <em>cea</em>
+  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 62: <em>Există hiperglicemie à jeun , uneori similară cu <b>cea</b> înregistrată în MODY 2 .</em>
+  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 54: <em>În cadrul cancerelor digestive , neoplasmul colorectal are <b>cea</b> mai mare incidență .</em>
 * <em>toate</em>
-  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 4: <em>Cu <b>toate</b> acestea , longevitatea unei bioproteze este invers proporțională cu vârsta .</em>
-  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 3: <em>În <b>toate</b> cazurile se clampează direct aorta și se administrează antifibrinolitice .</em>
-* <em>celor</em>
-  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 4: <em>Vegetațiile mai mici sau absente ar putea explica frecvența mai scăzută a manifestărilor vasculare , inclusiv a <b>celor</b> embolice , deși valva mitrală este mai frecvent afectată .</em>
-  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 1: <em>Cortizolul facilitează și accentuează efectul hiperglicemiant al glucagonului și adrenalinei ( efect permisiv ) , întrucât absența lui previne creșterile glicemice previzibile ale <b>celor</b> doi hormoni de contrareglare .</em>
-* <em>unele</em>
-  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 3: <em>Ulterior au fost efectuate mai multe studii pe loturi de rude sănătoase ale pacienților cu T2DM , <b>unele</b> dintre acestea ( dar nu toate ) stabilind existența unei asociații între alela 972Arg și prezența insulinorezistenței [ 58 ] .</em>
-  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 2: <em>În <b>unele</b> situații , metoda permite ameliorarea și temporarizarea protezării valvulare .</em>
-* <em>acestora</em>
-  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 5: <em>Gluconeogeneza din lipide nu folosește acizi grași deoarece oxidarea <b>acestora</b> nu furnizează substraturi glucogene .</em>
-  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 1: <em>Tratamentul non-farmacologic este complex și presupune educația bolnavilor și a familiilor <b>acestora</b> despre nivelul de activitate fizică , regimul dietetic hiposodat , controlul greutății , depistarea decompensărilor și a factorilor precipitanți .</em>
-* <em>atât</em>
-  * <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> 14: <em>Nitroglicerina este cel mai cunoscut și cel mai utilizat vasodilatator , scăzând <b>atât</b> presarcina , cât și postsarcina .</em>
-  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 1: <em>Abordarea multidisciplinară a bolnavilor vârstnici , care să se adreseze <b>atât</b> IC , cât și comorbidități asociate acestui sindrom este esențială .</em>
+  * <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> 45: <em>Studiile au arătat existența unor modificări genetice în <b>toate</b> neoplasmele .</em>
+  * <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> 27: <em>Cu <b>toate</b> acestea , longevitatea unei bioproteze este invers proporțională cu vârsta .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.440000 (the average of all parts of speech is 1.477080).
+The form / lemma ratio of `DET` is 3.166667 (the average of all parts of speech is 1.666491).
 
-The 1st highest number of forms (7) was observed with the lemma “acest”: <em>această, acest, aceste, acestei, acestor, acestui, acești</em>.
+The 1st highest number of forms (9) was observed with the lemma “acel”: <em>acea, acei, acel, acele, cei, cel, cele, celei, celor</em>.
 
-The 2nd highest number of forms (7) was observed with the lemma “un”: <em>o, un, unei, unele, unii, unor, unui</em>.
+The 2nd highest number of forms (8) was observed with the lemma “acest”: <em>această, acest, aceste, acestei, acestor, acestui, acești, acste</em>.
 
-The 3rd highest number of forms (5) was observed with the lemma “alt”: <em>Alți, alt, alte, altor, altă</em>.
+The 3rd highest number of forms (7) was observed with the lemma “același”: <em>aceeași, aceiași, același, aceleași, aceleiași, acelorași, aceluiași</em>.
 
-`DET` occurs with 9 features: <tt><a href="ro_simonero-feat-PronType.html">PronType</a></tt> (663; 100% instances), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt> (651; 98% instances), <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt> (627; 95% instances), <tt><a href="ro_simonero-feat-Case.html">Case</a></tt> (331; 50% instances), <tt><a href="ro_simonero-feat-Poss.html">Poss</a></tt> (323; 49% instances), <tt><a href="ro_simonero-feat-Person.html">Person</a></tt> (139; 21% instances), <tt><a href="ro_simonero-feat-Position.html">Position</a></tt> (86; 13% instances), <tt><a href="ro_simonero-feat-Number-psor.html">Number[psor]</a></tt> (29; 4% instances), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt> (3; 0% instances)
+`DET` occurs with 10 features: <tt><a href="ro_simonero-feat-PronType.html">PronType</a></tt> (7424; 100% instances), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt> (7248; 98% instances), <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt> (6907; 93% instances), <tt><a href="ro_simonero-feat-Case.html">Case</a></tt> (4148; 56% instances), <tt><a href="ro_simonero-feat-Poss.html">Poss</a></tt> (3138; 42% instances), <tt><a href="ro_simonero-feat-Person.html">Person</a></tt> (1778; 24% instances), <tt><a href="ro_simonero-feat-Position.html">Position</a></tt> (1213; 16% instances), <tt><a href="ro_simonero-feat-Number-psor.html">Number[psor]</a></tt> (259; 3% instances), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt> (41; 1% instances), <tt><a href="ro_simonero-feat-Variant.html">Variant</a></tt> (19; 0% instances)
 
-`DET` occurs with 20 feature-value pairs: `Case=Dat,Gen`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=3`, `Position=Prenom`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Prs`
+`DET` occurs with 24 feature-value pairs: `Case=Dat,Gen`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Position=Postnom`, `Position=Prenom`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `Variant=Short`
 
-`DET` occurs with 50 feature combinations.
-The most frequent feature combination is `Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs` (191 tokens).
+`DET` occurs with 80 feature combinations.
+The most frequent feature combination is `Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs` (1828 tokens).
 Examples: <em>a</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 6 different relations: <tt><a href="ro_simonero-dep-det.html">det</a></tt> (655; 99% instances), <tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="ro_simonero-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="ro_simonero-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="ro_simonero-dep-obj.html">obj</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 16 different relations: <tt><a href="ro_simonero-dep-det.html">det</a></tt> (7274; 98% instances), <tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt> (38; 1% instances), <tt><a href="ro_simonero-dep-advmod.html">advmod</a></tt> (32; 0% instances), <tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt> (20; 0% instances), <tt><a href="ro_simonero-dep-conj.html">conj</a></tt> (14; 0% instances), <tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt> (10; 0% instances), <tt><a href="ro_simonero-dep-amod.html">amod</a></tt> (8; 0% instances), <tt><a href="ro_simonero-dep-obl.html">obl</a></tt> (7; 0% instances), <tt><a href="ro_simonero-dep-iobj.html">iobj</a></tt> (6; 0% instances), <tt><a href="ro_simonero-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="ro_simonero-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="ro_simonero-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="ro_simonero-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ro_simonero-dep-nmod-agent.html">nmod:agent</a></tt> (1; 0% instances), <tt><a href="ro_simonero-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="ro_simonero-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (618; 93% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (19; 3% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (6833; 92% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (192; 3% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (110; 1% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (57; 1% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (52; 1% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (47; 1% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (39; 1% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt> (33; 0% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (31; 0% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (30; 0% instances)
 
-651 (98%) `DET` nodes are leaves.
+7184 (97%) `DET` nodes are leaves.
 
-12 (2%) `DET` nodes have one child.
+182 (2%) `DET` nodes have one child.
 
-The highest child degree of a `DET` node is 1.
+44 (1%) `DET` nodes have two children.
 
-Children of `DET` nodes are attached using 4 different relations: <tt><a href="ro_simonero-dep-advmod.html">advmod</a></tt> (8; 67% instances), <tt><a href="ro_simonero-dep-det.html">det</a></tt> (2; 17% instances), <tt><a href="ro_simonero-dep-amod.html">amod</a></tt> (1; 8% instances), <tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt> (1; 8% instances)
+14 (0%) `DET` nodes have three or more children.
 
-Children of `DET` nodes belong to 3 different parts of speech: <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (9; 75% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (2; 17% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (1; 8% instances)
+The highest child degree of a `DET` node is 5.
+
+Children of `DET` nodes are attached using 16 different relations: <tt><a href="ro_simonero-dep-advmod.html">advmod</a></tt> (129; 40% instances), <tt><a href="ro_simonero-dep-det.html">det</a></tt> (55; 17% instances), <tt><a href="ro_simonero-dep-amod.html">amod</a></tt> (33; 10% instances), <tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt> (31; 10% instances), <tt><a href="ro_simonero-dep-cc.html">cc</a></tt> (15; 5% instances), <tt><a href="ro_simonero-dep-case.html">case</a></tt> (14; 4% instances), <tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt> (13; 4% instances), <tt><a href="ro_simonero-dep-punct.html">punct</a></tt> (11; 3% instances), <tt><a href="ro_simonero-dep-acl.html">acl</a></tt> (5; 2% instances), <tt><a href="ro_simonero-dep-appos.html">appos</a></tt> (5; 2% instances), <tt><a href="ro_simonero-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt> (3; 1% instances), <tt><a href="ro_simonero-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ro_simonero-dep-nummod.html">nummod</a></tt> (1; 0% instances), <tt><a href="ro_simonero-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="ro_simonero-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+
+Children of `DET` nodes belong to 12 different parts of speech: <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (149; 46% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (57; 18% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (32; 10% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (27; 8% instances), <tt><a href="ro_simonero-pos-CCONJ.html">CCONJ</a></tt> (14; 4% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (13; 4% instances), <tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (11; 3% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="ro_simonero-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 

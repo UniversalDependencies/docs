@@ -13,7 +13,7 @@ This relation is universal.
 4 instances of `orphan` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.75.
 
-The following 4 pairs of parts of speech are connected with `orphan`: <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (1; 25% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 25% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 25% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (1; 25% instances).
+The following 4 pairs of parts of speech are connected with `orphan`: <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (1; 25% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 25% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 25% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 25% instances).
 
 
 ~~~ conllu

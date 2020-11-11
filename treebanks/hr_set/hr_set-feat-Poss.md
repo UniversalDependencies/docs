@@ -55,7 +55,6 @@ The most frequent other feature values with which `NUM` and `Poss` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Poss`:
 <tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4; 100%),
-<tt>ADJ --[<tt><a href="hr_set-dep-compound.html">compound</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>DET --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> DET</tt> (1; 100%).
 

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Icelandic-PUD: POS Tags: `AUX`
 
-There are 8 `AUX` lemmas (0%), 50 `AUX` types (1%) and 974 `AUX` tokens (5%).
-Out of 17 observed tags, the rank of `AUX` is: 11 in number of lemmas, 9 in number of types and 9 in number of tokens.
+There are 7 `AUX` lemmas (0%), 49 `AUX` types (1%) and 974 `AUX` tokens (5%).
+Out of 17 observed tags, the rank of `AUX` is: 12 in number of lemmas, 9 in number of types and 9 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>vera, hafa, geta, munu, mega, verða, skulu, eiga</em>
+The 10 most frequent `AUX` lemmas: <em>vera, hafa, geta, munu, mega, verða, skulu</em>
 
 The 10 most frequent `AUX` types:  <em>er, var, voru, eru, hefur, verið, hafa, vera, hafði, höfðu</em>
 
-The 10 most frequent ambiguous lemmas: <em>vera</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 697, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 18), <em>hafa</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 178, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 50), <em>geta</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 47, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 8, <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>mega</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 15, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 1), <em>verða</em> (<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 64, <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 12), <em>eiga</em> (<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 35, <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>vera</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 697, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 18), <em>hafa</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 178, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 50), <em>geta</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 47, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 8, <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>verða</em> (<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 64, <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 12)
 
 The 10 most frequent ambiguous types:  <em>er</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 244, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 4), <em>var</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 185, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 5), <em>voru</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 69, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 2), <em>eru</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 68, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 5), <em>hefur</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 57, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 7), <em>verið</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 45, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 2), <em>hafa</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 38, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 14), <em>hafði</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 23, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 12), <em>höfðu</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 21, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 6), <em>hafi</em> (<tt><a href="is_pud-pos-AUX.html">AUX</a></tt> 17, <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> 4, <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> 2)
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>er</em> (<tt><a href="is_pud-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.250000 (the average of all parts of speech is 1.365617).
+The form / lemma ratio of `AUX` is 7.000000 (the average of all parts of speech is 1.365967).
 
 The 1st highest number of forms (13) was observed with the lemma “vera”: <em>er, eru, erum, sé, séu, var, vera, verið, voru, vorum, væri, væru, værum</em>.
 
@@ -65,7 +65,7 @@ The 3rd highest number of forms (9) was observed with the lemma “hafa”: <em>
 `AUX` occurs with 16 feature-value pairs: `Case=Dat`, `Definite=Ind`, `Gender=Neut`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Sup`, `Voice=Act`
 
 `AUX` occurs with 18 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (326 tokens).
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (327 tokens).
 Examples: <em>er, hefur, má, getur, verður, eru, mun</em>
 
 

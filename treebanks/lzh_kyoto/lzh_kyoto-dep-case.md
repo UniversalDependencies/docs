@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6106 nodes (5%) are attached to their parents as `case`.
+8899 nodes (4%) are attached to their parents as `case`.
 
-3428 instances of `case` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.35948247625287.
+4495 instances of `case` (51%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.38476233284639.
 
-The following 20 pairs of parts of speech are connected with `case`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (2500; 41% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (1825; 30% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (328; 5% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (240; 4% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (237; 4% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (197; 3% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (194; 3% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (142; 2% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (84; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (71; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (68; 1% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (67; 1% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (46; 1% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (34; 1% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (31; 1% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (19; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `case`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (3205; 36% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (2734; 31% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (720; 8% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (552; 6% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (396; 4% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (259; 3% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (245; 3% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (234; 3% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (99; 1% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (95; 1% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (83; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (72; 1% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (64; 1% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (45; 1% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (41; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (28; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,18 +53,17 @@ The following 20 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 case	color:blue
-1	魯	魯	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nmod	_	Gloss=[country-name]|SpaceAfter=No
-2	衛	衞	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	1	flat	_	Gloss=[country-name]|SpaceAfter=No
-3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
-4	政	政	NOUN	n,名詞,制度,儀礼	_	5	nsubj	_	Gloss=government|SpaceAfter=No
-5	兄	兄	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=elder-brother|SpaceAfter=No
-6	弟	弟	NOUN	n,名詞,人,関係	_	5	flat	_	Gloss=younger-brother|SpaceAfter=No
-7	也	也	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[final-particle]|SpacesAfter=\n
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 case	color:blue
+1	哀	哀	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Ai|SpaceAfter=No
+2	公	公	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=duke|SpaceAfter=No
+3	問	問	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=ask|SpaceAfter=No
+4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
+5	有若	有若	PROPN	n,名詞,人,名	NameType=Giv	3	obl	_	Gloss=[given-name]|SpaceAfter=No
+6	曰	曰	VERB	v,動詞,行為,伝達	_	3	parataxis	_	Gloss=say|SpaceAfter=No
 
 ~~~
 

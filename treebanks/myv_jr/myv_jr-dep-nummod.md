@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-117 nodes (1%) are attached to their parents as `nummod`.
+125 nodes (1%) are attached to their parents as `nummod`.
 
-117 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16239316239316.
+125 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.168.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (111; 95% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (121; 97% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,13 +39,17 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 nummod	color:blue
-1	―	―	PUNCT	PUNCT	_	3	punct	_	_
-2	Кавонест	кавонест	ADV	Num	Number[psor]=Plur|NumType=Sets|Person[psor]=3	3	advcl	_	GTtags=AssocColl,PxPl3
-3	кундызь	кундамс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3
-4	Любань	Люба	PROPN	N	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Fem|NameType=Giv|Number=Plur,Sing	3	obj	_	GTtags=Ant_Fem,Prop,SP,Gen,Indef
-5	кавто	кавто	NUM	Num	NumType=Card	6	nummod	_	GTtags=Card
-6	ёндо	ёндо	ADP	Adp	AdvType=Loc|Case=Abl	3	obl	_	GTtags=Spat,Abl|SpaceAfter=No
-7	.	.	PUNCT	CLB	_	3	punct	_	_
+1	—	—	PUNCT	PUNCT	_	3	punct	_	_
+2	Бандитнэнь	бандит	NOUN	N	Case=Gen|Definite=Def|Number=Plur	3	obj	_	GTtags=Pl,Gen,Def
+3	пекстынк	пекстамс	VERB	V	Mood=Imp|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	GTtags=TV,Imprt,ScPl2,OcSg3
+4	весе	весе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	3	advcl	_	GTtags=Tot,Sg,Nom,Indef
+5	ве	ве	NUM	Num	NumType=Card	6	nummod	_	GTtags=Card,Adn
+6	таркас	таркас	ADP	Adp	AdvType=Loc|Case=Ill	3	obl	_	GTtags=Spat,Ill|SpaceAfter=No
+7	!	!	PUNCT	CLB	_	3	punct	_	_
+8	—	—	PUNCT	PUNCT	_	9	punct	_	_
+9	мерсь	меремс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	3	parataxis	_	GTtags=TV,Ind,Prt1,ScSg3
+10	камандирэсь	командир	NOUN	N	Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	GTtags=Dial,Sg,Nom,Def|SpaceAfter=No
+11	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

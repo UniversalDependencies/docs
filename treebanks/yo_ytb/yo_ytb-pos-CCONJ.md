@@ -84,15 +84,15 @@ Examples: <em>sì, àti, ṣùgbọ́n, tàbí, Olorì, ati, sùgbọ́n, òun, 
 
 `CCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="yo_ytb-dep-cc.html">cc</a></tt> (348; 100% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (243; 70% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (86; 25% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (243; 70% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (86; 25% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-346 (99%) `CCONJ` nodes are leaves.
+347 (100%) `CCONJ` nodes are leaves.
 
-2 (1%) `CCONJ` nodes have one child.
+1 (0%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (1; 50% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (1; 50% instances)
+Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (1; 100% instances)
 
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 50% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 50% instances)
+Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 100% instances)
 

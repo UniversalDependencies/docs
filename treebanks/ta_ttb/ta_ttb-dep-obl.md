@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="ta_ttb-dep-obl-arg.html">obl:arg</a></tt>.
 
-892 nodes (9%) are attached to their parents as `obl`.
+888 nodes (9%) are attached to their parents as `obl`.
 
-888 instances of `obl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.03923766816143.
+884 instances of `obl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.02364864864865.
 
-The following 28 pairs of parts of speech are connected with `obl`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (492; 55% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (108; 12% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (76; 9% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (59; 7% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (34; 4% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (31; 3% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (18; 2% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (18; 2% instances), <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `obl`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (518; 58% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (81; 9% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (79; 9% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (59; 7% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (31; 3% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (31; 3% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (18; 2% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (18; 2% instances), <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt>-<tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,19 +32,20 @@ The following 28 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 obl	color:blue
-1	ராணுவ	ராணுவம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=rāṇuva|LTranslit=rāṇuvam
-2	தளவாட	தளவாடம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=taḷavāṭa|LTranslit=taḷavāṭam
-3	தயாரிப்பில்	தயாரிப்பு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	4	obl	4:obl:loc	Translit=tayārippil|LTranslit=tayārippu
-4	நிலவும்	நிலவு	ADJ	Jd-F----A	Polarity=Pos|Tense=Fut|VerbForm=Part	5	amod	5:amod	Translit=nilavum|LTranslit=nilavu
-5	தடைகளை	தடை	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	6	obj	6:obj	Translit=taṭaikaḷai|LTranslit=taṭai
-6	நீக்க	நீக்கு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=nīkka|LTranslit=nīkku
-7	வேண்டும்	வேண்டு	AUX	VR-F3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	6	aux	6:aux	SpaceAfter=No|Translit=vēṇṭum|LTranslit=vēṇṭu
-8	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	6:punct	Translit=.|LTranslit=.
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 obl	color:blue
+1	இது	இது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod:nom	Translit=itu|LTranslit=itu
+2	தொடர்பாக	தொடர்பு	ADV	AA-------	_	6	advmod	6:advmod	SpaceAfter=No|Translit=toṭarpāka|LTranslit=toṭarpu
+3	,	,	PUNCT	Z:-------	PunctType=Comm	6	punct	6:punct	Translit=,|LTranslit=,
+4	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	6	nsubj	6:nsubj	Translit=avar|LTranslit=avar
+5	புதன்கிழமை	புதன்கிழமை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl:nom	Translit=putankilamai|LTranslit=putankilamai
+6	வெளியிட்ட	வெளியிடு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	7	amod	7:amod	Translit=veḷiyiṭṭa|LTranslit=veḷiyiṭu
+7	அறிக்கை	அறிக்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No|Translit=arikkai|LTranslit=arikkai
+8	:	:	PUNCT	Z:-------	PunctType=Comm	7	punct	7:punct	SpaceAfter=No|Translit=:|LTranslit=:
+9	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	7:punct	Translit=.|LTranslit=.
 
 ~~~
 

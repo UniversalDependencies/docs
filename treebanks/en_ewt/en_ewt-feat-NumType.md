@@ -42,13 +42,11 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 78 <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (78; 100%).
-
 `ADV` tokens may have the following values of `NumType`:
 
 * `Mult` (77; 99% of non-empty `NumType`): <em>once, twice</em>
 * `Ord` (1; 1% of non-empty `NumType`): <em>first</em>
-* `EMPTY` (12965): <em>so, just, when, very, also, how, now, even, then, there</em>
+* `EMPTY` (12196): <em>so, just, very, also, now, even, then, there, only, here</em>
 
 ## Relations with Agreement in `NumType`
 

@@ -11,22 +11,22 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_gb-feat-Number.html">Number</a></tt>, <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt>.
 
-9537 tokens (56%) have a non-empty value of `Number`.
-4563 types (91%) occur at least once with a non-empty value of `Number`.
-1489 lemmas (72%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (4385; 26% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2553; 15% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (1037; 6% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (893; 5% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (566; 3% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (75; 0% instances), <tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (13; 0% instances).
+9785 tokens (57%) have a non-empty value of `Number`.
+4658 types (91%) occur at least once with a non-empty value of `Number`.
+1522 lemmas (74%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (4507; 26% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2598; 15% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (1073; 6% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (913; 5% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (578; 3% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (78; 0% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (6; 0% instances).
 
 ### `NOUN`
 
-4385 <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+4507 <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3472; 79%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3472; 79%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2517; 57%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3543; 79%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3543; 79%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2575; 57%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (662; 15% of non-empty `Number`): <em>çocuklar, günlerde, ağaçlar, kitaplar, öğrenciler, kişiler, sıralarda, çocukların, şeyler, anahtarlarını</em>
-* `Sing` (3723; 85% of non-empty `Number`): <em>gün, bugün, şey, evde, saat, ev, çocuk, yıl, dün, kız</em>
-* `EMPTY` (5): <em>ısrar, aramızda, ki, uğruna</em>
+* `Plur` (686; 15% of non-empty `Number`): <em>çocuklar, günlerde, kitaplar, çocukları, öğrenciler, arkadaşlarına, ağaçlar, evler, kişiler, sıralarda</em>
+* `Sing` (3821; 85% of non-empty `Number`): <em>gün, bugün, şey, evde, saat, çocuk, ev, yıl, kız, zaman</em>
+* `EMPTY` (126): <em>içinde, arasında, yanında, tarafından, konusunda, aralarında, aramızda, kenarında, yanına, önünde</em>
 
 <table>
   <tr><th>Paradigm <i>ev</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -51,15 +51,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-2553 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Number`.
+2598 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2307; 90%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2307; 90%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2278; 89%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (2261; 89%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2116; 83%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2072; 81%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2064; 81%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1384; 54%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2345; 90%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2345; 90%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2318; 89%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (2276; 88%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2155; 83%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2099; 81%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2080; 80%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1415; 54%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (467; 18% of non-empty `Number`): <em>aldık, bulduk, gelmişler, girelim, soralım, yayardık, geldiler, gidiyoruz, gitsek, gittiler</em>
-* `Sing` (2086; 82% of non-empty `Number`): <em>geldi, gitmek, istiyor, söyledi, ediyorum, gerekiyor, gördüm, etti, gitti, görmedim</em>
-* `EMPTY` (483): <em>geçen, görmüş, yaptığı, çalışıyor, bitirmiş, gelince, gidiyor, gitmiş, ettiğimiz, geldiği</em>
+* `Plur` (484; 19% of non-empty `Number`): <em>aldık, bulduk, geldiler, gelmişler, girelim, soralım, yayardık, gidiyoruz, gitsek, gittiler</em>
+* `Sing` (2114; 81% of non-empty `Number`): <em>geldi, gitmek, istiyor, gerekiyor, söyledi, ediyorum, gördüm, etti, gitti, görmedim</em>
+* `EMPTY` (488): <em>geçen, görmüş, yaptığı, çalışıyor, bitirmiş, geldiği, gelince, gidiyor, gitmiş, ettiğimiz</em>
 
 <table>
   <tr><th>Paradigm <i>git</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -135,14 +135,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-1037 <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+1073 <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (629; 61%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (642; 60%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (55; 5% of non-empty `Number`): <em>onlar, onları, onların, bunları, bunlar, bunlardan, kimseler, neler, Kimleri, Oralar</em>
-* `Sing` (982; 95% of non-empty `Number`): <em>ben, sen, ne, burada, bana, benim, o, biz, kendi, senin</em>
+* `Plur` (73; 7% of non-empty `Number`): <em>onlar, onları, onların, bunları, kendiniz, bunlar, bunlardan, kimseler, Biz, Siz</em>
+* `Sing` (1000; 93% of non-empty `Number`): <em>ben, sen, ne, burada, bana, benim, kendi, o, biz, senin</em>
 * `EMPTY` (1): <em>ne</em>
 
 <table>
@@ -154,6 +154,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ona</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>ona</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ona</em></td><td><em>onlara</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>Onun</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>onun, Onların</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>onun</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>onun</em></td><td><em>onların</em></td></tr>
@@ -166,14 +167,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `PROPN`
 
-893 <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+913 <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (511; 57%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (522; 57%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (10; 1% of non-empty `Number`): <em>Ahmet’ler, Fransızlar, Atatürk’ler, Nehru’lar, Nermin’ler, Semra’lar, İtalyanlar, Türkleri</em>
-* `Sing` (883; 99% of non-empty `Number`): <em>Ahmet, Ali, Ayşe, Mehmet, Semra, Necla, Türk, Erol, Fatma, İngiliz</em>
+* `Sing` (903; 99% of non-empty `Number`): <em>Ahmet, Ali, Ayşe, Semra, Mehmet, Necla, Erol, Türk, Fatma, İngiliz</em>
 
 <table>
   <tr><th>Paradigm <i>Ahmet</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -186,19 +187,19 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>Ahmet’te</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 97% lemmas (209) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 97% lemmas (213) occur only with one value of `Number`.
 
 ### `AUX`
 
-566 <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Number`.
+578 <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (490; 87%), <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (475; 84%), <tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (439; 78%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (426; 75%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (369; 65%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (294; 52%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (481; 83%), <tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (444; 77%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (426; 74%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (378; 65%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (295; 51%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (78; 14% of non-empty `Number`): <em>misiniz, lar, miyiz, dük, olacağız, ydik, değiliz, değiller, ler, musunuz</em>
-* `Sing` (488; 86% of non-empty `Number`): <em>değil, dı, mı, oldu, olacak, olduğunu, mu, mış, mi, miş</em>
-* `EMPTY` (185): <em>mi, mı, olan, olarak, mü, değil, mu, yken, olmayan, olacağım</em>
+* `Plur` (79; 14% of non-empty `Number`): <em>misiniz, lar, miyiz, dük, olacağız, ydik, değiliz, değiller, ler, musunuz</em>
+* `Sing` (499; 86% of non-empty `Number`): <em>değil, mı, dı, oldu, olacak, olduğunu, mu, mış, mi, miş</em>
+* `EMPTY` (186): <em>mi, mı, olan, olarak, mü, değil, mu, yken, olacağım, olmayan</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -215,6 +216,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>olmazsın</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>olurdu</em></td><td><em>olurlardı</em></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>olur</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>olacak</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>olmuştur</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>olmuş</em></td><td><em>olmuşlar</em></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>olmadık</em></td></tr>
@@ -276,15 +278,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `NUM`
 
-75 <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> tokens (21% of all `NUM` tokens) have a non-empty value of `Number`.
+78 <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> tokens (21% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="tr_gb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (75; 100%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Loc</tt> (42; 56%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="tr_gb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (75; 96%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Loc</tt> (42; 54%).
 
 `NUM` tokens may have the following values of `Number`:
 
 * `Plur` (3; 4% of non-empty `Number`): <em>1830’larda, 1920’lerde, otuzlarda</em>
-* `Sing` (72; 96% of non-empty `Number`): <em>altıda, ikide, 9’da, biri, dörde, dördün, kaçta, 1994’te, 5’te, buçukta</em>
-* `EMPTY` (290): <em>iki, üç, beş, yüz, dört, on, bir, bin, dokuz, birer</em>
+* `Sing` (75; 96% of non-empty `Number`): <em>altıda, ikide, 9’da, biri, dörde, dördün, kaçta, 1994’te, 5’te, buçukta</em>
+* `EMPTY` (294): <em>iki, üç, beş, yüz, dört, on, bir, bin, birer, dokuz</em>
 
 <table>
   <tr><th>Paradigm <i>otuz</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -294,39 +296,56 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 `Number` seems to be **lexical feature** of `NUM`. 93% lemmas (27) occur only with one value of `Number`.
 
-### `ADP`
-
-15 <tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> tokens (3% of all `ADP` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (10; 67%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (10; 67%).
-
-`ADP` tokens may have the following values of `Number`:
-
-* `Sing` (15; 100% of non-empty `Number`): <em>başka, durumunda, halinde, için, kadar, karşı, lıktan, üzere, Aşağısı, gibileri</em>
-* `EMPTY` (566): <em>kadar, ki, için, sonra, gibi, içinde, önce, arasında, beri, li</em>
-
-`Number` seems to be **lexical feature** of `ADP`. 100% lemmas (13) occur only with one value of `Number`.
-
 ### `ADJ`
 
-13 <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Number`.
+19 <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (16; 84%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Sing` (13; 100% of non-empty `Number`): <em>var, belli, ki</em>
-* `EMPTY` (776): <em>var, yok, yeni, büyük, güzel, iyi, küçük, zor, önemli, lazım</em>
+* `Plur` (2; 11% of non-empty `Number`): <em>küçüklerden</em>
+* `Sing` (17; 89% of non-empty `Number`): <em>var, memnun, belli, ki, orta, yeniden</em>
+* `EMPTY` (787): <em>var, yok, yeni, büyük, güzel, iyi, küçük, lazım, zor, önemli</em>
+
+### `ADP`
+
+13 <tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> tokens (3% of all `ADP` tokens) have a non-empty value of `Number`.
+
+`ADP` tokens may have the following values of `Number`:
+
+* `Plur` (1; 8% of non-empty `Number`): <em>gibileri</em>
+* `Sing` (12; 92% of non-empty `Number`): <em>başka, durumunda, halinde, için, kadar, karşı, lıktan, üzere, gibime, kadarını</em>
+* `EMPTY` (419): <em>kadar, ki, için, sonra, gibi, beri, önce, lı, li, göre</em>
+
+<table>
+  <tr><th>Paradigm <i>gibi</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>gibime</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>gibileri</em></td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `ADP`. 91% lemmas (10) occur only with one value of `Number`.
+
+### `ADV`
+
+6 <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Number`.
+
+`ADV` tokens may have the following values of `Number`:
+
+* `Sing` (6; 100% of non-empty `Number`): <em>rahat, usul, püklüm, süklüm</em>
+* `EMPTY` (1044): <em>çok, daha, de, artık, da, en, hiç, bile, biraz, pek</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="tr_gb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (559; 62%),
-<tt>VERB --[<tt><a href="tr_gb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (444; 65%),
+<tt>VERB --[<tt><a href="tr_gb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (567; 63%),
+<tt>VERB --[<tt><a href="tr_gb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (440; 61%),
 <tt>VERB --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (353; 66%),
-<tt>NOUN --[<tt><a href="tr_gb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (320; 76%),
-<tt>VERB --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (307; 84%),
-<tt>VERB --[<tt><a href="tr_gb-dep-obl-tmod.html">obl:tmod</a></tt>]--> NOUN</tt> (202; 54%),
-<tt>VERB --[<tt><a href="tr_gb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (190; 53%),
-<tt>VERB --[<tt><a href="tr_gb-dep-obl.html">obl</a></tt>]--> PRON</tt> (186; 70%),
-<tt>VERB --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (174; 65%),
-<tt>NOUN --[<tt><a href="tr_gb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (122; 86%).
+<tt>NOUN --[<tt><a href="tr_gb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (346; 65%),
+<tt>VERB --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (311; 83%),
+<tt>VERB --[<tt><a href="tr_gb-dep-obl-tmod.html">obl:tmod</a></tt>]--> NOUN</tt> (200; 53%),
+<tt>VERB --[<tt><a href="tr_gb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (191; 53%),
+<tt>VERB --[<tt><a href="tr_gb-dep-obl.html">obl</a></tt>]--> PRON</tt> (184; 68%),
+<tt>VERB --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (182; 65%),
+<tt>NOUN --[<tt><a href="tr_gb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (122; 79%).
 

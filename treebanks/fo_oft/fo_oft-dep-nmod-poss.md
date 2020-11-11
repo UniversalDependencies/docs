@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 9	fgColor:white
 # visual-style 9 8 nmod:poss	color:blue
 1	Tað	tað	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
 3	ókeypis	ókeypis	ADV	Adv	_	0	root	_	_
 4	at	at	PART	IM	_	5	mark	_	_
 5	brúka	brúka	VERB	V	VerbForm=Inf	3	csubj	_	_
@@ -43,7 +43,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 6	fgColor:white
 # visual-style 6 9 nmod:poss	color:blue
 1	Tað	tað	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
 3	ókeypis	ókeypis	ADV	Adv	_	0	root	_	_
 4	at	at	PART	IM	_	5	mark	_	_
 5	brúka	brúka	VERB	V	VerbForm=Inf	3	csubj	_	_
@@ -63,7 +63,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 3 nmod:poss	color:blue
 1	Hatta	hasin	PRON	Pron	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
 3	mín	eg	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	_
 4	veruleiki	veruleiki	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_

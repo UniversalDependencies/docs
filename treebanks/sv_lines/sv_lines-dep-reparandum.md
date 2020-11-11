@@ -75,7 +75,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 5	effektiv	effektiv	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	ccomp	_	_
 6	en	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	7	det	_	_
 7	sån	sådan	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	10	reparandum	_	SpaceAfter=No
-8	...	...	PUNCT	Dots	_	10	punct	_	_
+8	...	...	PUNCT	Dots	_	7	punct	_	_
 9	en	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	12	det	_	_
 10	sån	sådan	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	12	amod	_	SpaceAfter=No
 11	...	...	PUNCT	Dots	_	10	punct	_	_
@@ -127,10 +127,10 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 32	och	och	CCONJ	_	_	34	cc	_	_
 33	utan	utan	ADP	_	_	34	case	_	_
 34	lotusblomma	lotusblomma	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	31	conj	_	_
-35	–	–	PUNCT	Dash	_	37	punct	_	_
+35	–	–	PUNCT	Dash	_	4	punct	_	_
 36	ni	ni	PRON	PERS-P2PL-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	37	nsubj	_	_
 37	förstår	förstå	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-38	–	–	PUNCT	Dash	_	37	punct	_	_
+38	–	–	PUNCT	Dash	_	43	punct	_	_
 39	ingen	ingen	PRON	NEG-SG	Definite=Ind|Gender=Com|Number=Sing|PronType=Neg	43	nsubj	_	_
 40	av	av	ADP	_	_	41	case	_	_
 41	oss	vi	PRON	PERS-P1PL-ACC	Case=Acc|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	39	nmod	_	_

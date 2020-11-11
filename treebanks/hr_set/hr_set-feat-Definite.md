@@ -144,14 +144,14 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (772; 95%),
-<tt>ADJ --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (45; 62%),
+<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (775; 95%),
+<tt>ADJ --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (50; 63%),
 <tt>ADJ --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (31; 74%),
 <tt>ADJ --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (19; 83%),
 <tt>ADJ --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> ADJ</tt> (18; 100%),
 <tt>ADJ --[<tt><a href="hr_set-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (16; 70%),
 <tt>ADJ --[<tt><a href="hr_set-dep-acl.html">acl</a></tt>]--> ADJ</tt> (13; 93%),
 <tt>ADJ --[<tt><a href="hr_set-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (9; 82%),
-<tt>ADJ --[<tt><a href="hr_set-dep-compound.html">compound</a></tt>]--> ADJ</tt> (7; 88%),
-<tt>ADJ --[<tt><a href="hr_set-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (7; 88%).
+<tt>ADJ --[<tt><a href="hr_set-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (7; 88%),
+<tt>ADJ --[<tt><a href="hr_set-dep-discourse.html">discourse</a></tt>]--> ADJ</tt> (4; 100%).
 

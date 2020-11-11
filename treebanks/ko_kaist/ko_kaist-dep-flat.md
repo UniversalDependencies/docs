@@ -38,7 +38,7 @@ The following 12 pairs of parts of speech are connected with `flat`: <tt><a href
 14	때	때	NOUN	ncn	_	16	compound	_	_
 15	그	그	DET	mmd	_	16	det	_	_
 16	서울이	서울+이	PROPN	nq+jcs	_	17	nsubj	_	_
-17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	_
+17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	sf	_	17	punct	_	_
 
 ~~~
@@ -52,19 +52,19 @@ The following 12 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 4 5 flat	color:blue
 1	그것은	그것+은	PRON	npd+jxt	_	14	dislocated	_	_
 2	스피노자	스피노자	PROPN	nq	_	11	nmod	_	_
-3	(	(	PUNCT	sl	_	4	punct	_	_
+3	(	(	PUNCT	sl	_	4	punct	_	SpaceAfter=No
 4	Baruch	Baruch	X	f	_	2	appos	_	_
 5	de	de	X	f	_	4	flat	_	_
-6	Spinoza	Spinoza	X	f	_	4	flat	_	_
+6	Spinoza	Spinoza	X	f	_	4	flat	_	SpaceAfter=No
 7	)	)	PUNCT	sr	_	4	punct	_	_
 8	의	의	ADP	jcm	_	2	case	_	_
 9	표현	표현	NOUN	ncpa	_	11	dep	_	_
-10	<	<	PUNCT	sl	_	11	punct	_	_
-11	exprimere	exprimere	X	f	_	0	root	_	_
+10	<	<	PUNCT	sl	_	11	punct	_	SpaceAfter=No
+11	exprimere	exprimere	X	f	_	0	root	_	SpaceAfter=No
 12	>	>	PUNCT	sr	_	11	punct	_	_
 13	과	과	ADP	jct	_	11	case	_	_
 14	같은	같+ㄴ	ADJ	paa+etm	_	11	conj	_	_
-15	것이다	것+이+다	VERB	nbn+jp+ef	_	14	aux	_	_
+15	것이다	것+이+다	VERB	nbn+jp+ef	_	14	aux	_	SpaceAfter=No
 16	.	.	PUNCT	sf	_	15	punct	_	_
 
 ~~~
@@ -77,11 +77,11 @@ The following 12 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 5 flat	color:blue
 1	다산	다산	PROPN	nq	_	6	advcl	_	_
-2	(	(	PUNCT	sl	_	3	punct	_	_
-3	茶山	茶山	PROPN	nq	_	1	appos	_	_
+2	(	(	PUNCT	sl	_	3	punct	_	SpaceAfter=No
+3	茶山	茶山	PROPN	nq	_	1	appos	_	SpaceAfter=No
 4	)	)	PUNCT	sr	_	3	punct	_	_
 5	정약용도	정약용+도	ADV	nq+jxc	_	1	flat	_	_
-6	말했다	말하+었+다	VERB	pvg+ep+ef	_	0	root	_	_
+6	말했다	말하+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	sf	_	6	punct	_	_
 
 ~~~

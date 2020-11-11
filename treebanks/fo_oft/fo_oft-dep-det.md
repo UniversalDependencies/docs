@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2 1 det	color:blue
 1	Øll	allur	DET	Det	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	det	_	_
 2	vestursíðan	vestursíða	NOUN	N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
-3	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+3	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
 4	høgur	høgur	ADJ	A	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	amod	_	_
 5	bakki	bakki	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 7	ein	ein	DET	Det	Case=Nom|Gender=Masc|Number=Sing	8	det	_	_
 8	veikur	veikur	ADJ	A	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	9	amod	_	_
 9	statur	statur	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	conj	_	_
-10	eru	vera	VERB	V	Mood=Ind|Number=Plur|Tense=Pres	11	cop	_	_
+10	eru	vera	AUX	V	Mood=Ind|Number=Plur|Tense=Pres	11	cop	_	_
 11	umráðandi	umráðandi	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 12	í	í	ADP	Pr	_	14	case	_	_
 13	kapitalistiskum	kapitalistiskur	ADJ	A	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	14	amod	_	_

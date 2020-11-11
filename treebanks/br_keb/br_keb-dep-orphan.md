@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 11	fgColor:white
 # visual-style 11 12 orphan	color:blue
 1	Mignoniezh	mignoniezh	NOUN	n	Gender=Fem|Number=Sing	3	nsubj	_	_
-2	a	a	PART	vpart	_	3	aux	_	_
+2	a	a	AUX	vpart	_	3	aux	_	_
 3	sav	sevel	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	etre	etre	ADP	pr	_	7	case	_	_
 5	an	an	DET	det	_	7	det	_	_
@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 12	fgColor:white
 # visual-style 12 15 orphan	color:blue
 1	Kevreet	kevreañ	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
-2	eo	bezañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
+2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
 3	ar	an	DET	det	_	4	det	_	_
 4	spas	spas	NOUN	n	Gender=Masc|Number=Sing	1	nsubj	_	_
 5	gant	gant	ADP	pr	_	7	case	_	_

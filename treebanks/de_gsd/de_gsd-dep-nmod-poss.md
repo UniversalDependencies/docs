@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	Deren	der	DET	PDAT	Case=Gen|Number=Plur|PronType=Dem	2	nmod:poss	_	_
 2	Zahlungsmittel	Zahlungsmittel	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
 3	waren	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
-4	Transferrubel	Transferrubel	PROPN	NN	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+4	Transferrubel	Transferrubel	PROPN	NN	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	NamedEntity=Yes
 5	und	und	CCONJ	KON	_	6	cc	_	_
 6	Goldreserven	Goldreserve	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	4	conj	_	SpaceAfter=No
 7	.	.	PUNCT	$.	_	2	punct	_	_
@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	﻿Seine	﻿Seine	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	3	nmod:poss	_	_
 2	ältere	alt	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
 3	Schwester	Schwester	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
-4	Eniola	Eniola	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	_
+4	Eniola	Eniola	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	NamedEntity=Yes
 5	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	englische	englisch	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	7	amod	_	_
 7	Fußballnationalspielerin	Fußballnationalspielerin	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No

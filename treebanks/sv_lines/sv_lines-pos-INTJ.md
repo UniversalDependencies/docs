@@ -60,17 +60,17 @@ The 3rd highest number of forms (1) was observed with the lemma “ach”: <em>a
 
 Parents of `INTJ` nodes belong to 11 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (95; 48% instances),  (26; 13% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (21; 11% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (19; 10% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (11; 6% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (9; 5% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (7; 4% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (6; 3% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (1; 1% instances)
 
-42 (21%) `INTJ` nodes are leaves.
+30 (15%) `INTJ` nodes are leaves.
 
-113 (57%) `INTJ` nodes have one child.
+124 (63%) `INTJ` nodes have one child.
 
-19 (10%) `INTJ` nodes have two children.
+25 (13%) `INTJ` nodes have two children.
 
-23 (12%) `INTJ` nodes have three or more children.
+18 (9%) `INTJ` nodes have three or more children.
 
-The highest child degree of a `INTJ` node is 6.
+The highest child degree of a `INTJ` node is 5.
 
-Children of `INTJ` nodes are attached using 12 different relations: <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (196; 83% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (13; 6% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (6; 3% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (5; 2% instances), <tt><a href="sv_lines-dep-nmod.html">nmod</a></tt> (5; 2% instances), <tt><a href="sv_lines-dep-vocative.html">vocative</a></tt> (3; 1% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="sv_lines-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-det.html">det</a></tt> (1; 0% instances)
+Children of `INTJ` nodes are attached using 12 different relations: <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (199; 84% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (13; 5% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (6; 3% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (5; 2% instances), <tt><a href="sv_lines-dep-nmod.html">nmod</a></tt> (5; 2% instances), <tt><a href="sv_lines-dep-vocative.html">vocative</a></tt> (3; 1% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="sv_lines-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-det.html">det</a></tt> (1; 0% instances)
 
-Children of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (196; 83% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (13; 6% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (7; 3% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (6; 3% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (1; 0% instances)
+Children of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (199; 84% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (13; 5% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (7; 3% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (6; 3% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (1; 0% instances)
 

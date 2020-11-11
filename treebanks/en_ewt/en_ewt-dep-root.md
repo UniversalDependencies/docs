@@ -11,9 +11,9 @@ This relation is universal.
 16622 nodes (7%) are attached to their parents as `root`.
 
 16622 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.44290699073517.
+Average distance between parent and child is 4.44266634580676.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (9337; 56% instances), -<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2729; 16% instances), -<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (1677; 10% instances), -<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1421; 9% instances), -<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (423; 3% instances), -<tt><a href="en_ewt-pos-X.html">X</a></tt> (270; 2% instances), -<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (253; 2% instances), -<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (128; 1% instances), -<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (122; 1% instances), -<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (119; 1% instances), -<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (86; 1% instances), -<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (27; 0% instances), -<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (26; 0% instances), -<tt><a href="en_ewt-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (9336; 56% instances), -<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2731; 16% instances), -<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (1677; 10% instances), -<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1421; 9% instances), -<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (423; 3% instances), -<tt><a href="en_ewt-pos-X.html">X</a></tt> (269; 2% instances), -<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (253; 2% instances), -<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (128; 1% instances), -<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (122; 1% instances), -<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (119; 1% instances), -<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (86; 1% instances), -<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (27; 0% instances), -<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (26; 0% instances), -<tt><a href="en_ewt-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	SpaceAfter=No
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
 3	right	right	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	3:punct	_

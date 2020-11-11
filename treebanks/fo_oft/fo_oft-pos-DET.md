@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Faroese-OFT: POS Tags: `DET`
 
 There are 6 `DET` lemmas (0%), 21 `DET` types (1%) and 186 `DET` tokens (2%).
-Out of 15 observed tags, the rank of `DET` is: 12 in number of lemmas, 10 in number of types and 11 in number of tokens.
+Out of 16 observed tags, the rank of `DET` is: 13 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ein, allur, sín, summur, annar, mín</em>
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ein</em> (<tt><a href="fo_oft-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 3.500000 (the average of all parts of speech is 1.289602).
+The form / lemma ratio of `DET` is 3.500000 (the average of all parts of speech is 1.290924).
 
 The 1st highest number of forms (7) was observed with the lemma “allur”: <em>Allar, allan, allari, allir, allur, alt, øll</em>.
 

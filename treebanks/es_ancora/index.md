@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Daniel Zeman.
 
 Repository: [UD_Spanish-AnCora](https://github.com/UniversalDependencies/UD_Spanish-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: GNU GPL 3.0
 
@@ -42,8 +42,22 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-Spanish data from the AnCora corpus.
+Spanish data from the [AnCora](http://clic.ub.edu/corpus/) corpus.
 
+
+
+
+The original annotation was done in a constituency framework as a part of the
+[AnCora](http://clic.ub.edu/corpus/) project at the University of Barcelona.
+It was converted to dependencies and used in the
+[CoNLL 2009 shared task](https://ufal.mff.cuni.cz/conll2009-st/index.html).
+The CoNLL 2009 version was later converted to
+[HamleDT](https://ufal.mff.cuni.cz/hamledt) and to Universal Dependencies.
+
+The GNU license is inherited from the original dataset, downloaded from
+the AnCora website. Any license-related questions have to be directed to
+the original data providers at the University of Barcelona (that is, not
+to the UD contact address listed at the end of this README file).
 
 
 ## Acknowledgments
@@ -56,11 +70,11 @@ Spanish data from the AnCora corpus.
 
 ## Features
 
-[AdpType](es_ancora-feat-AdpType.html) – [AdvType](es_ancora-feat-AdvType.html) – [Case](es_ancora-feat-Case.html) – [Definite](es_ancora-feat-Definite.html) – [Degree](es_ancora-feat-Degree.html) – [Gender](es_ancora-feat-Gender.html) – [Mood](es_ancora-feat-Mood.html) – [Number](es_ancora-feat-Number.html) – [Number[psor]](es_ancora-feat-Number-psor.html) – [NumForm](es_ancora-feat-NumForm.html) – [NumType](es_ancora-feat-NumType.html) – [Person](es_ancora-feat-Person.html) – [Polarity](es_ancora-feat-Polarity.html) – [Polite](es_ancora-feat-Polite.html) – [Poss](es_ancora-feat-Poss.html) – [PrepCase](es_ancora-feat-PrepCase.html) – [PronType](es_ancora-feat-PronType.html) – [PunctSide](es_ancora-feat-PunctSide.html) – [PunctType](es_ancora-feat-PunctType.html) – [Reflex](es_ancora-feat-Reflex.html) – [Tense](es_ancora-feat-Tense.html) – [VerbForm](es_ancora-feat-VerbForm.html)
+[AdpType](es_ancora-feat-AdpType.html) – [AdvType](es_ancora-feat-AdvType.html) – [Case](es_ancora-feat-Case.html) – [Definite](es_ancora-feat-Definite.html) – [Degree](es_ancora-feat-Degree.html) – [Foreign](es_ancora-feat-Foreign.html) – [Gender](es_ancora-feat-Gender.html) – [Mood](es_ancora-feat-Mood.html) – [Number](es_ancora-feat-Number.html) – [Number[psor]](es_ancora-feat-Number-psor.html) – [NumForm](es_ancora-feat-NumForm.html) – [NumType](es_ancora-feat-NumType.html) – [Person](es_ancora-feat-Person.html) – [Polarity](es_ancora-feat-Polarity.html) – [Polite](es_ancora-feat-Polite.html) – [Poss](es_ancora-feat-Poss.html) – [PrepCase](es_ancora-feat-PrepCase.html) – [PronType](es_ancora-feat-PronType.html) – [PunctSide](es_ancora-feat-PunctSide.html) – [PunctType](es_ancora-feat-PunctType.html) – [Reflex](es_ancora-feat-Reflex.html) – [Tense](es_ancora-feat-Tense.html) – [VerbForm](es_ancora-feat-VerbForm.html)
 
 ## Relations
 
-[acl](es_ancora-dep-acl.html) – [advcl](es_ancora-dep-advcl.html) – [advmod](es_ancora-dep-advmod.html) – [amod](es_ancora-dep-amod.html) – [appos](es_ancora-dep-appos.html) – [aux](es_ancora-dep-aux.html) – [aux:pass](es_ancora-dep-aux-pass.html) – [case](es_ancora-dep-case.html) – [cc](es_ancora-dep-cc.html) – [ccomp](es_ancora-dep-ccomp.html) – [compound](es_ancora-dep-compound.html) – [conj](es_ancora-dep-conj.html) – [cop](es_ancora-dep-cop.html) – [csubj](es_ancora-dep-csubj.html) – [csubj:pass](es_ancora-dep-csubj-pass.html) – [dep](es_ancora-dep-dep.html) – [det](es_ancora-dep-det.html) – [discourse](es_ancora-dep-discourse.html) – [expl](es_ancora-dep-expl.html) – [expl:pass](es_ancora-dep-expl-pass.html) – [fixed](es_ancora-dep-fixed.html) – [flat](es_ancora-dep-flat.html) – [iobj](es_ancora-dep-iobj.html) – [list](es_ancora-dep-list.html) – [mark](es_ancora-dep-mark.html) – [nmod](es_ancora-dep-nmod.html) – [nsubj](es_ancora-dep-nsubj.html) – [nsubj:pass](es_ancora-dep-nsubj-pass.html) – [nummod](es_ancora-dep-nummod.html) – [obj](es_ancora-dep-obj.html) – [obl](es_ancora-dep-obl.html) – [orphan](es_ancora-dep-orphan.html) – [parataxis](es_ancora-dep-parataxis.html) – [punct](es_ancora-dep-punct.html) – [root](es_ancora-dep-root.html) – [xcomp](es_ancora-dep-xcomp.html)
+[acl](es_ancora-dep-acl.html) – [advcl](es_ancora-dep-advcl.html) – [advmod](es_ancora-dep-advmod.html) – [amod](es_ancora-dep-amod.html) – [appos](es_ancora-dep-appos.html) – [aux](es_ancora-dep-aux.html) – [aux:pass](es_ancora-dep-aux-pass.html) – [case](es_ancora-dep-case.html) – [cc](es_ancora-dep-cc.html) – [ccomp](es_ancora-dep-ccomp.html) – [compound](es_ancora-dep-compound.html) – [conj](es_ancora-dep-conj.html) – [cop](es_ancora-dep-cop.html) – [csubj](es_ancora-dep-csubj.html) – [csubj:pass](es_ancora-dep-csubj-pass.html) – [dep](es_ancora-dep-dep.html) – [det](es_ancora-dep-det.html) – [discourse](es_ancora-dep-discourse.html) – [expl](es_ancora-dep-expl.html) – [expl:impers](es_ancora-dep-expl-impers.html) – [expl:pass](es_ancora-dep-expl-pass.html) – [expl:pv](es_ancora-dep-expl-pv.html) – [fixed](es_ancora-dep-fixed.html) – [flat](es_ancora-dep-flat.html) – [iobj](es_ancora-dep-iobj.html) – [list](es_ancora-dep-list.html) – [mark](es_ancora-dep-mark.html) – [nmod](es_ancora-dep-nmod.html) – [nsubj](es_ancora-dep-nsubj.html) – [nsubj:pass](es_ancora-dep-nsubj-pass.html) – [nummod](es_ancora-dep-nummod.html) – [obj](es_ancora-dep-obj.html) – [obl](es_ancora-dep-obl.html) – [orphan](es_ancora-dep-orphan.html) – [parataxis](es_ancora-dep-parataxis.html) – [punct](es_ancora-dep-punct.html) – [root](es_ancora-dep-root.html) – [xcomp](es_ancora-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -103,7 +117,7 @@ Spanish data from the AnCora corpus.
 </ul>
 
 <ul>
-<li>This corpus contains 51 lemmas tagged as determiners (DET): Seu, Seva, alguno, aquel, bastante, cada, cierto, cual, cualquiera, cuanto, cuánto, demasiado, demás, diferente, dios, distinto, diverso, dos, el, els, escaso, ese, este, mi, mismo, mismísimo, mucho, muchísimo, musha, mía, mío, ninguno, nuestro, otra, otro, poco, propio, qué, sabe, semejante, sendos, su, suyas, suyo, tal, tanto, todo, tu, uno, varios, vuestro</li>
+<li>This corpus contains 53 lemmas tagged as determiners (DET): A, Al, Seu, Seva, alguno, aquel, bastante, cada, cierto, cual, cualquiera, cuanto, cuánto, demasiado, demás, diferente, dios, distinto, diverso, dos, el, els, escaso, ese, este, mi, mismo, mismísimo, mucho, muchísimo, musha, mía, mío, ninguno, nuestro, otra, otro, poco, propio, qué, sabe, semejante, sendos, su, suyas, suyo, tal, tanto, todo, tu, uno, varios, vuestro</li>
 </ul>
 
 <ul>
@@ -250,7 +264,7 @@ Spanish data from the AnCora corpus.
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: lo, la, los, las, mí, sí, ti</li>
+      <li>PRON: se, lo, la, me, nos, los, las, mí, sí, te</li>
     </ul>
   </li>
 </ul>
@@ -258,7 +272,7 @@ Spanish data from the AnCora corpus.
 <ul>
   <li>Acc,Dat
     <ul>
-      <li>PRON: se, me, nos, te, os</li>
+      <li>PRON: se, nos, te, me, Os</li>
     </ul>
   </li>
 </ul>
@@ -282,7 +296,7 @@ Spanish data from the AnCora corpus.
 <ul>
   <li>Dat
     <ul>
-      <li>PRON: le, les</li>
+      <li>PRON: le, se, les, me, nos, te, os</li>
     </ul>
   </li>
 </ul>
@@ -322,7 +336,7 @@ Spanish data from the AnCora corpus.
 <ul>
   <li>Def
     <ul>
-      <li>DET: la, el, los, las</li>
+      <li>DET: la, el, los, las, Al, A</li>
       <li>PRON: lo</li>
     </ul>
   </li>
@@ -482,7 +496,7 @@ Spanish data from the AnCora corpus.
 <ul>
   <li>Art
     <ul>
-      <li>DET: la, el, los, un, las, una, unos, unas, els, uno</li>
+      <li>DET: la, el, los, un, las, una, unos, unas, els, Al</li>
     </ul>
   </li>
 </ul>
@@ -593,7 +607,7 @@ Spanish data from the AnCora corpus.
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: se, me, nos, sí, te, consigo</li>
+      <li>PRON: se, me, nos, sí, te, consigo, os</li>
     </ul>
   </li>
 </ul>
@@ -702,6 +716,18 @@ Spanish data from the AnCora corpus.
           <li>ADJ: próximo</li>
           <li>ADV: después, tarde</li>
           <li>NOUN: 1999, domingo, viernes, miércoles, sábado, lunes, martes, jueves, 1998, año</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>DET: Al, A</li>
         </ul>
       </li>
     </ul>
@@ -819,7 +845,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
       <li>VERB-Fin--PRON (5004)</li>
       <li>VERB-Fin--PRON-Acc (6)</li>
-      <li>VERB-Fin--PRON-Acc,Dat (2)</li>
       <li>VERB-Fin--PRON-Acc,Nom (214)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Nom (94)</li>
@@ -878,8 +903,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-ADP(hacia) (1)</li>
       <li>VERB-Fin--PRON-ADP(para) (4)</li>
       <li>VERB-Fin--PRON-ADP(por) (8)</li>
-      <li>VERB-Fin--PRON-Acc (689)</li>
-      <li>VERB-Fin--PRON-Acc,Dat (4235)</li>
+      <li>VERB-Fin--PRON-Acc (1141)</li>
       <li>VERB-Fin--PRON-Acc,Nom (5)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(a) (18)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(con) (8)</li>
@@ -910,8 +934,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-ADP(a) (5)</li>
       <li>VERB-Ger--PRON-ADP(de) (3)</li>
       <li>VERB-Ger--PRON-ADP(en) (2)</li>
-      <li>VERB-Ger--PRON-Acc (33)</li>
-      <li>VERB-Ger--PRON-Acc,Dat (185)</li>
+      <li>VERB-Ger--PRON-Acc (47)</li>
       <li>VERB-Ger--PRON-Acc,Nom (2)</li>
       <li>VERB-Ger--PRON-Acc,Nom-ADP(a) (1)</li>
       <li>VERB-Ger--PRON-Acc,Nom-ADP(con) (1)</li>
@@ -946,8 +969,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-ADP(para) (1)</li>
       <li>VERB-Inf--PRON-ADP(por) (1)</li>
       <li>VERB-Inf--PRON-ADP(sobre) (1)</li>
-      <li>VERB-Inf--PRON-Acc (442)</li>
-      <li>VERB-Inf--PRON-Acc,Dat (1283)</li>
+      <li>VERB-Inf--PRON-Acc (638)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(a) (4)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(con) (6)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(contra) (1)</li>
@@ -987,8 +1009,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-ADP(hacia) (1)</li>
       <li>VERB-Part--PRON-ADP(para) (2)</li>
       <li>VERB-Part--PRON-ADP(por) (7)</li>
-      <li>VERB-Part--PRON-Acc (106)</li>
-      <li>VERB-Part--PRON-Acc,Dat (614)</li>
+      <li>VERB-Part--PRON-Acc (157)</li>
       <li>VERB-Part--PRON-Acc,Nom (1)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(a) (7)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(de) (1)</li>
@@ -1025,15 +1046,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-ADP(del) (1)</li>
       <li>VERB-Fin--PRON-ADP(en) (2)</li>
       <li>VERB-Fin--PRON-Acc (14)</li>
-      <li>VERB-Fin--PRON-Acc,Dat (402)</li>
+      <li>VERB-Fin--PRON-Acc,Dat (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(a) (3)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(para) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(a) (2)</li>
-      <li>VERB-Fin--PRON-Dat (166)</li>
+      <li>VERB-Fin--PRON-Dat (716)</li>
       <li>VERB-Ger--NOUN-ADP(a) (4)</li>
       <li>VERB-Ger--NOUN-ADP(de) (1)</li>
       <li>VERB-Ger--PRON-Acc (1)</li>
-      <li>VERB-Ger--PRON-Acc,Dat (1)</li>
+      <li>VERB-Ger--PRON-Dat (20)</li>
       <li>VERB-Inf--NOUN (22)</li>
       <li>VERB-Inf--NOUN-ADP(a) (19)</li>
       <li>VERB-Inf--NOUN-ADP(al) (4)</li>
@@ -1042,9 +1063,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON (2)</li>
       <li>VERB-Inf--PRON-ADP(a) (1)</li>
       <li>VERB-Inf--PRON-Acc (9)</li>
-      <li>VERB-Inf--PRON-Acc,Dat (12)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(de) (1)</li>
-      <li>VERB-Inf--PRON-Dat (12)</li>
+      <li>VERB-Inf--PRON-Dat (140)</li>
       <li>VERB-Part--NOUN (9)</li>
       <li>VERB-Part--NOUN-ADP(a) (23)</li>
       <li>VERB-Part--NOUN-ADP(al) (9)</li>
@@ -1054,31 +1074,35 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-ADP(con) (1)</li>
       <li>VERB-Part--PRON-ADP(del) (1)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Acc,Dat (50)</li>
-      <li>VERB-Part--PRON-Dat (14)</li>
+      <li>VERB-Part--PRON-Dat (92)</li>
     </ul>
   </li>
 </ul>
 
+<h3>Reflexive Verbs</h3>
+
+<ul>
+  <li>This corpus contains 615 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: producir se, encontrar se, convertir se, mostrar se, ver se, referir se, situar se, quedar se, ir se, enfrentar se, dar se, dedicar se, reunir se, sentir se, hacer se, negar se, deber se, imponer se, limitar se, llamar se, encargar se, sumar se, acabar se, manifestar se, acercar se, dirigir se, quejar se, atreverse se, entrevistar se, desarrollar se, extender se, recuperar se, retirar se, incorporar se, reducir se, mover se, volver se, oponer se, sentir me, alzar se, pronunciar se, trasladar se, unir se, detener se, estrellar se, colocar se, concentrar se, desplazar se, elevar se, equivocar se</li>
+</ul>
 
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 207 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: tratar se, hablar se, hacer se, decir se, ver se, esperar se, dar se, querer se, conocer se, jugar se, pasar se, proceder se, vivir se, abrir se, acusar se, creer se, informar se, llegar se, saber se, someter se, tener se, actuar se, apuntar se, contratar se, elegir se, entrar se, especular se, guardar se, incluir se, incrementar se, optar se, pedir se, producir se, sospechar se, tardar se, trabajar se, acudir se, alertar se, ampliar se, apostar se, atribuir se, avanzar se, avisar se, calcular se, cambiar se, castigar se, combatir se, comer se, condenar se, confiar se</li>
+  <li>This corpus contains 576 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: hacer se, celebrar se, disputar se, ver se, registrar se, realizar se, decir se, esperar se, dar se, llevar se, poner se, conocer se, mantener se, utilizar se, saber se, cerrar se, considerar se, conseguir se, iniciar se, aplicar se, encontrar se, abrir se, crear se, incluir se, cumplir se, adoptar se, anunciar se, aprobar se, centrar se, resolver se, basar se, construir se, jugar se, respetar se, prever se, alcanzar se, efectuar se, estrenar se, exigir se, plantear se, creer se, emplear se, establecer se, incorporar se, permitir se, presentar se, querer se, tener se, tomar se, vender se</li>
 </ul>
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 1147 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: encontrar se, producir se, hacer se, ver se, convertir se, mostrar se, dar se, mantener se, reunir se, referir se, llevar se, poner se, situar se, quedar se, enfrentar se, presentar se, celebrar se, disputar se, dedicar se, ir se, imponer se, sentir se, comprometer se, negar se, registrar se, iniciar se, realizar se, limitar se, conocer se, deber se, llamar se, sumar se, encargar se, incorporar se, decir se, manifestar se, acabar se, considerar se, desarrollar se, acercar se, dirigir se, reducir se, cerrar se, quejar se, recuperar se, atreverse se, volver se, entrevistar se, esperar se, jugar se</li>
+  <li>This corpus contains 303 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: presentar se, comprometer se, mantener se, llevar se, poner se, reunir se, preparar se, preguntar se, someter se, hacer se, hacerse se, declarar se, dejar se, ganar se, plantear se, alejar se, dar se, inscribir se, ver se, enfrentar se, distanciar se, jugar se, tomar se, deshacer se, encontrar se, preguntar me, reproducir se, conocer se, considerar se, permitir se, precipitar se, rendir se, unir se, arrojar se, asociar se, creer se, decir se, defender se, disputar se, lanzar se, librar se, meter se, ofrecer se, pasar se, quitar se, reservar se, solidarizar se, afianzar se, alistar se, batir se</li>
     <ul>
-      <li>Out of those, 66 lemmas occurred more than once, but never without a reflexive dependent. Examples: hacerse, apoderar, abstener, arrepentirse, desmarcar, empeñar, resentirse, suicidarse, adentrar, atenerse, enrocar, percatar, propagar, solidarizar, acostar, aproximar, erigir, fugarse, perfilar, sobreponer, adueñarse, cocer, derrumbar, desanimar, desenvolver, desplomar, encaramar, encuadrar, enzarzar, inmutar, mentalizar, plasmar, rebelar, recrudecer, refugiar, rehacer, resignar, aburrir, acoplar, afiliar, aparear, asentar, cerner, ciscar, congratular, depreciar, desahogar, desgarrar, desmoronar, desquitar</li>
+      <li>Out of those, 9 lemmas occurred more than once, but never without a reflexive dependent. Examples: hacerse, solidarizar, desanimar, embolsar, encaramar, familiarizar, matricular, prostituir, rehacer</li>
     </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 4 relation subtypes: <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 6 relation subtypes: <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

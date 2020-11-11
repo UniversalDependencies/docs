@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-5492 tokens (3%) have a non-empty value of `NumForm`.
-1019 types (3%) occur at least once with a non-empty value of `NumForm`.
-922 lemmas (5%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (5492; 3% instances).
+5526 tokens (3%) have a non-empty value of `NumForm`.
+1022 types (3%) occur at least once with a non-empty value of `NumForm`.
+923 lemmas (5%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (5526; 3% instances).
 
 ### `NUM`
 
-5492 <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
+5526 <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4824; 88%), <tt><a href="ro_rrt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4769; 87%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4638; 84%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4825; 87%), <tt><a href="ro_rrt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4803; 87%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4639; 84%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (3975; 72% of non-empty `NumForm`): <em>1, 2, 3, 4, 5, 6, 7, 8, 2004, 10</em>
+* `Digit` (3976; 72% of non-empty `NumForm`): <em>1, 2, 3, 4, 5, 6, 7, 8, 2004, 10</em>
 * `Roman` (235; 4% of non-empty `NumForm`): <em>I, ii, iii, iv, V, XX, XIX, VI, VII, XIII</em>
-* `Word` (1282; 23% of non-empty `NumForm`): <em>două, trei, primul, doi, prima, patru, cinci, doilea, doua, primele</em>
+* `Word` (1315; 24% of non-empty `NumForm`): <em>două, trei, primul, doi, prima, patru, cinci, doilea, doua, primele</em>
 
 <table>
   <tr><th>Paradigm <i>doi</i></th><th><tt>Roman</tt></th><th><tt>Word</tt></th></tr>
@@ -36,18 +36,19 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
   <tr><td><tt><tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-NumType.html">NumType</a></tt><tt>=Ord</tt></tt></td><td><em>ii</em></td><td></td></tr>
 </table>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 98% lemmas (906) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NUM`. 98% lemmas (907) occur only with one value of `NumForm`.
 
 ## Relations with Agreement in `NumForm`
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
-<tt>NUM --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> NUM</tt> (258; 100%),
-<tt>NUM --[<tt><a href="ro_rrt-dep-goeswith.html">goeswith</a></tt>]--> NUM</tt> (81; 99%),
-<tt>NUM --[<tt><a href="ro_rrt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (54; 61%),
-<tt>NUM --[<tt><a href="ro_rrt-dep-appos.html">appos</a></tt>]--> NUM</tt> (2; 100%),
+<tt>NUM --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> NUM</tt> (263; 100%),
+<tt>NUM --[<tt><a href="ro_rrt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (76; 68%),
+<tt>NUM --[<tt><a href="ro_rrt-dep-goeswith.html">goeswith</a></tt>]--> NUM</tt> (64; 100%),
+<tt>NUM --[<tt><a href="ro_rrt-dep-compound.html">compound</a></tt>]--> NUM</tt> (27; 57%),
 <tt>NUM --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="ro_rrt-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (2; 67%),
 <tt>NUM --[<tt><a href="ro_rrt-dep-acl.html">acl</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="ro_rrt-dep-appos.html">appos</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="ro_rrt-dep-dep.html">dep</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (1; 100%).
 

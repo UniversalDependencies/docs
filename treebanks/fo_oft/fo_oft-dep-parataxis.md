@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a 
 1	Slovakia	Slovakia	PROPN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 2	:	:	PUNCT	CLB	_	1	punct	_	_
 3	Slovakia	Slovakia	PROPN	N	Case=Nom|Number=Sing	1	nsubj	_	_
-4	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
+4	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
 5	eitt	ein	DET	Det	Case=Nom|Gender=Neut|Number=Sing	6	det	_	_
 6	lýðveldi	lýðveldi	NOUN	N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	parataxis	_	_
 7	í	í	ADP	Pr	_	8	case	_	_
@@ -45,7 +45,7 @@ The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a 
 2	mál	mál	NOUN	N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
 3	:	:	PUNCT	CLB	_	2	punct	_	_
 4	Føroyskt	føroyskur	ADJ	A	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	6	nsubj	_	_
-5	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
+5	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
 6	høvuðsmálið	høvuðsmál	NOUN	N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	parataxis	_	_
 7	í	í	ADP	Pr	_	8	case	_	_
 8	Føroyum	Føroyar	PROPN	N	Case=Dat|Definite=Ind|Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No

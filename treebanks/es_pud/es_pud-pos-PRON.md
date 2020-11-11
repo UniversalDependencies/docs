@@ -7,20 +7,21 @@ udver: '2'
 ## Treebank Statistics: UD_Spanish-PUD: POS Tags: `PRON`
 
 There are 4 `PRON` lemmas (11%), 51 `PRON` types (1%) and 1058 `PRON` tokens (5%).
-Out of 14 observed tags, the rank of `PRON` is: 3 in number of lemmas, 9 in number of types and 8 in number of tokens.
+Out of 15 observed tags, the rank of `PRON` is: 3 in number of lemmas, 9 in number of types and 8 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>_, él, yo, tú</em>
 
 The 10 most frequent `PRON` types:  <em>se, que, su, lo, sus, le, cual, me, ellos, él</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 4822, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 3825, <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> 2291, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 2125, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1474, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 1234, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 909, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 641, <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> 582, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 553, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 435, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 332, <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> 21, <tt><a href="es_pud-pos-X.html">X</a></tt> 20)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 4822, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 3567, <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> 2291, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 2125, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1474, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 1234, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 909, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 641, <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> 582, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 553, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 435, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 332, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 258, <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> 21, <tt><a href="es_pud-pos-X.html">X</a></tt> 20)
 
-The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 263, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 229, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1), <em>la</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 711, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 5), <em>qué</em> (<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 4, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1), <em>cuanto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2), <em>los</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 357, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2), <em>Ya</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 1), <em>las</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 203, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 229, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 181, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 82, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1), <em>la</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 711, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 5), <em>qué</em> (<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 4, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1), <em>cuanto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2), <em>los</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 357, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2), <em>Ya</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 1), <em>las</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 203, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 1)
 
 
 * <em>que</em>
-  * <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 263: <em>Voy a ir a la cárcel de todas formas ; espero <b>que</b> mereciese la pena .</em>
   * <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 229: <em>Eso es lo <b>que</b> no necesitamos en nuestro país , amigos .</em>
+  * <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 181: <em>Voy a ir a la cárcel de todas formas ; espero <b>que</b> mereciese la pena .</em>
+  * <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 82: <em>Hoy en día nuestros teléfonos móviles son mucho más <b>que</b> teléfonos .</em>
   * <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1: <em>No se sabe de <b>que</b> modo han trabajado juntos ambos dramaturgos .</em>
 * <em>la</em>
   * <tt><a href="es_pud-pos-DET.html">DET</a></tt> 711: <em>Los nuevos gastos corren a cargo de <b>la</b> gran cuenta bancaria de Clinton .</em>
@@ -43,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="es_pud-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 12.750000 (the average of all parts of speech is 171.916667).
+The form / lemma ratio of `PRON` is 12.750000 (the average of all parts of speech is 167.567568).
 
 The 1st highest number of forms (32) was observed with the lemma “_”: <em>Cuáles, Her, My, Quiénes, Ya, You, cual, cuales, cuanto, cuya, cuyo, cuyos, cuál, me, mi, mis, mí, nuestra, nuestras, nuestro, nuestros, que, quien, quienes, quién, qué, su, sus, suya, suyos, tu, yo</em>.
 

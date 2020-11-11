@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Ger` (2; 13% of non-empty `VerbForm`): <em>intensifikuar, lëvizur</em>
 * `Inf` (4; 27% of non-empty `VerbForm`): <em>dashuruar, ndihmuar, rritur</em>
 * `Part` (9; 60% of non-empty `VerbForm`): <em>arritur, bartur, krijuar, mbijetuar, mundësuar, ndryshuar, pastruar, pasur, përparuar</em>
-* `EMPTY` (69): <em>mund, ka, kanë, kishte, mendohet, Dëgjojmë, Kam, duhet, dëmtojnë, fillojnë</em>
+* `EMPTY` (70): <em>mund, ka, kanë, kishte, mendohet, Dëgjojmë, Kam, duhet, dëmtojnë, ekziston</em>
 
 `VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (14) occur only with one value of `VerbForm`.
 

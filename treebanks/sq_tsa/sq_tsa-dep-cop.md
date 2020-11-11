@@ -64,14 +64,14 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 cop	color:blue
-1	Cilat	cili	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Int	0	root	0:root	_
+1	Cilat	cili	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Int	0	root	0:root	_
 2	janë	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	1	cop	1:cop	_
 3	mënyrat	mënyrë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	1:nsubj	_
 4	për	për	ADP	_	_	6	mark	6:mark	_
 5	të	të	PART	_	_	6	mark	6:mark	_
 6	dashuruar	dashuroj	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	3:advcl	_
 7	dhe	dhe	CCONJ	_	_	8	cc	8:cc	_
-8	cila	cili	PRON	_	Gender=Fem|Number=Sing|PronType=Int	1	conj	1:conj	_
+8	cila	cili	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	1	conj	1:conj	_
 9	është	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	cop	8:cop	_
 10	fuqia	fuqi	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	_
 11	për	për	ADP	_	_	13	mark	13:mark	_

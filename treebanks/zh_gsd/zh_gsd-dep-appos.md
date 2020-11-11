@@ -89,7 +89,7 @@ The following 38 pairs of parts of speech are connected with `appos`: <tt><a hre
 13	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
 14	它	它	PRON	PRP	Person=3	15	nsubj	_	SpaceAfter=No
 15	融合	融合	VERB	VV	_	12	parataxis	_	SpaceAfter=No
-16	了	了	PART	AS	Aspect=Perf	15	case:aspect	_	SpaceAfter=No
+16	了	了	PART	AS	Aspect=Perf	15	aux:aspect	_	SpaceAfter=No
 17	動作	動作	NOUN	NN	_	18	nmod	_	SpaceAfter=No
 18	遊戲	遊戲	NOUN	NN	_	21	nmod	_	SpaceAfter=No
 19	的	的	PART	DEC	Case=Gen	18	case:dec	_	SpaceAfter=No

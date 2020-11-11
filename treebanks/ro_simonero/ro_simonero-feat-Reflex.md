@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-143 tokens (1%) have a non-empty value of `Reflex`.
-5 types (0%) occur at least once with a non-empty value of `Reflex`.
+1315 tokens (1%) have a non-empty value of `Reflex`.
+7 types (0%) occur at least once with a non-empty value of `Reflex`.
 1 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (143; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (1315; 1% instances).
 
 ### `PRON`
 
-143 <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> tokens (37% of all `PRON` tokens) have a non-empty value of `Reflex`.
+1315 <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> tokens (31% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (143; 100%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (143; 100%), <tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt> (143; 100%), <tt><a href="ro_simonero-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (143; 100%), <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Acc</tt> (142; 99%), <tt><a href="ro_simonero-feat-Strength.html">Strength</a></tt><tt>=Weak</tt> (139; 97%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1315; 100%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1315; 100%), <tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt> (1315; 100%), <tt><a href="ro_simonero-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1315; 100%), <tt><a href="ro_simonero-feat-Strength.html">Strength</a></tt><tt>=Weak</tt> (1305; 99%), <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1274; 97%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (143; 100% of non-empty `Reflex`): <em>se, s-, sine, își</em>
-* `EMPTY` (245): <em>care, ce, cele, acestea, ceea, aceea, cei, acestora, celor, fiecare</em>
+* `Yes` (1315; 100% of non-empty `Reflex`): <em>se, s-, își, și-, sine</em>
+* `EMPTY` (2888): <em>care, ce, ceea, acestea, cei, cea, cele, acestora, aceasta, cel</em>
 

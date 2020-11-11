@@ -66,7 +66,7 @@ The following 69 pairs of parts of speech are connected with `nmod`: <tt><a href
 1	Un	uno	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	nombre	nombre	NOUN	NOUN	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	semejante	semejante	ADJ	ADJ	Number=Sing	2	amod	_	_
-4	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	obj	_	_
+4	se	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pass	_	_
 5	considera	considerar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	perjudicial	perjudicial	ADJ	ADJ	Number=Sing	5	obj	_	_
 7	para	para	ADP	ADP	AdpType=Prep	9	case	_	_

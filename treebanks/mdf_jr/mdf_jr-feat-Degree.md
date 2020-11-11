@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="mdf_jr-pos-PART.htm
 
 ### `PART`
 
-3 <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> tokens (43% of all `PART` tokens) have a non-empty value of `Degree`.
+3 <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> tokens (33% of all `PART` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `PART` and `Degree` co-occurred: <tt><a href="mdf_jr-feat-Style.html">Style</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `PART` tokens may have the following values of `Degree`:
 
 * `Cmp` (3; 100% of non-empty `Degree`): <em>сяда</em>
-* `EMPTY` (4): <em>улема, въдь, хоть</em>
+* `EMPTY` (6): <em>улема, хоть, въдь, нльне</em>
 

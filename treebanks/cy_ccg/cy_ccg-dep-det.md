@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2033 nodes (7%) are attached to their parents as `det`.
+2218 nodes (7%) are attached to their parents as `det`.
 
-1953 instances of `det` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05361534677816.
+2131 instances of `det` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05635707844905.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1808; 89% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (98; 5% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (56; 3% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (31; 2% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1972; 89% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (108; 5% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (62; 3% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (31; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (17; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,7 +57,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 11	i	i	PRON	indep	Number=Sing|Person=1	13	nsubj	_	SpaceAfter=No
 12	'n	yn	PART	pred	_	13	case:pred	_	_
 13	siŵr	siŵr	ADJ	pos	Degree=Pos	1	parataxis	_	SpaceAfter=No
-14	.	.	PUNCT	punct	_	12	punct	_	SpacesAfter=\n
+14	.	.	PUNCT	punct	_	13	punct	_	SpacesAfter=\n
 
 ~~~
 

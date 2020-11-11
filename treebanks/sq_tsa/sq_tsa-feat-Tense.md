@@ -12,18 +12,18 @@ It occurs with 2 different values: `Past`, `Pres`.
 96 tokens (10%) have a non-empty value of `Tense`.
 67 types (14%) occur at least once with a non-empty value of `Tense`.
 56 lemmas (14%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> (67; 7% instances), <tt><a href="sq_tsa-pos-AUX.html">AUX</a></tt> (28; 3% instances), <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> (68; 7% instances), <tt><a href="sq_tsa-pos-AUX.html">AUX</a></tt> (28; 3% instances).
 
 ### `VERB`
 
-67 <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Tense`.
+68 <tt><a href="sq_tsa-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sq_tsa-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (63; 94%), <tt><a href="sq_tsa-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (61; 91%), <tt><a href="sq_tsa-feat-Person.html">Person</a></tt><tt>=3</tt> (58; 87%), <tt><a href="sq_tsa-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (56; 84%), <tt><a href="sq_tsa-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (49; 73%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sq_tsa-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (64; 94%), <tt><a href="sq_tsa-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (62; 91%), <tt><a href="sq_tsa-feat-Person.html">Person</a></tt><tt>=3</tt> (59; 87%), <tt><a href="sq_tsa-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (57; 84%), <tt><a href="sq_tsa-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (50; 74%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (18; 27% of non-empty `Tense`): <em>kishte, formuan, intensifikuar, krijoi, kërkonin, morën, ndihmuar, nxiti, nënshtruan, përket</em>
-* `Pres` (49; 73% of non-empty `Tense`): <em>dashuruar, ka, kanë, mendohet, Dëgjojmë, duhet, dëmtojnë, fillojnë, formon, identifikojnë</em>
+* `Past` (18; 26% of non-empty `Tense`): <em>kishte, formuan, intensifikuar, krijoi, kërkonin, morën, ndihmuar, nxiti, nënshtruan, përket</em>
+* `Pres` (50; 74% of non-empty `Tense`): <em>dashuruar, ka, kanë, mendohet, Dëgjojmë, duhet, dëmtojnë, ekziston, fillojnë, formon</em>
 * `EMPTY` (17): <em>mund, Kam, arritur, bartur, krijuar, mbijetuar, mundësuar, ndryshuar, pastruar, pasur</em>
 
 <table>
@@ -33,7 +33,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><tt><a href="sq_tsa-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>kenë</em></td><td></td></tr>
 </table>
 
-`Tense` seems to be **lexical feature** of `VERB`. 91% lemmas (49) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `VERB`. 91% lemmas (50) occur only with one value of `Tense`.
 
 ### `AUX`
 
@@ -53,21 +53,9 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>janë</em></td><td></td></tr>
 </table>
 
-### `NOUN`
-
-1 <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Tense`.
-
-The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="sq_tsa-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sq_tsa-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sq_tsa-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
-
-`NOUN` tokens may have the following values of `Tense`:
-
-* `Pres` (1; 100% of non-empty `Tense`): <em>ekziston</em>
-* `EMPTY` (238): <em>Dashuria, Evolucioni, Ishulli, dramaturgu, drejtimet, kohës, lloj, marrëdhënieve, mënyrë, njeriut</em>
-
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="sq_tsa-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 100%),
-<tt>VERB --[<tt><a href="sq_tsa-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 60%),
+<tt>VERB --[<tt><a href="sq_tsa-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 86%),
 <tt>VERB --[<tt><a href="sq_tsa-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2; 100%).
 

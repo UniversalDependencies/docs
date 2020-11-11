@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Hildur Jónsdóttir.
 
 Repository: [UD_Icelandic-PUD](https://github.com/UniversalDependencies/UD_Icelandic-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_pud26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_pud27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -107,7 +107,7 @@ The morphological and syntactic annotation were checked and corrected manually b
 </ul>
 
 <ul>
-<li>This corpus contains 34 lemmas tagged as pronouns (PRON): allur, annar, báðir, einhver, einn, enginn, hann, herflotur, hinn, hver, hvor, hvort, hún, minn, neinn, nokkur, sami, samur, sand-, sig, sinn, sjálfur, slíkur, sumur, sá, ég, ýmis, ýmissi, það, þessi, þig, þinn, þá, þú</li>
+<li>This corpus contains 32 lemmas tagged as pronouns (PRON): allur, annar, báðir, einhver, einn, enginn, hann, hinn, hver, hvor, hvort, hún, minn, neinn, nokkur, sami, samur, sig, sinn, sjálfur, slíkur, sumur, sá, ég, ýmis, ýmissi, það, þessi, þig, þinn, þá, þú</li>
 </ul>
 
 <ul>
@@ -119,11 +119,11 @@ The morphological and syntactic annotation were checked and corrected manually b
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): eiga, geta, hafa, mega, munu, skulu, vera, verða</li>
+<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): geta, hafa, mega, munu, skulu, vera, verða</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: eiga, geta, hafa, mega, vera, verða</li>
+<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: geta, hafa, vera, verða</li>
 </ul>
 
 <ul>
@@ -269,8 +269,8 @@ The morphological and syntactic annotation were checked and corrected manually b
       <li>ADP: undir, við</li>
       <li>ADP-Fin: undir</li>
       <li>ADV: mun, allt, gríðarlega, meira, vafningalaust, óvenju, því</li>
-      <li>AUX: er, var, hefur, hafði, væri, myndi, sé, gæti, getur, hafi</li>
-      <li>AUX-Fin: er, var, hefur, hafði, væri, myndi, sé, gæti, getur, hafi</li>
+      <li>AUX: er, var, hefur, hafði, væri, myndi, sé, gæti, má, getur</li>
+      <li>AUX-Fin: er, var, hefur, hafði, væri, myndi, sé, gæti, má, getur</li>
       <li>DET: hinn, hins, hið, Hin, hinnar, hinni, hinu, þetta</li>
       <li>NOUN: árið, hluta, október, stað, öld, fólk, fjölda, sinn, sögu, ár</li>
       <li>NOUN-Fin: hafi</li>
@@ -451,7 +451,7 @@ The morphological and syntactic annotation were checked and corrected manually b
     <ul>
       <li>ADJ-Fin: fæst, stoltust</li>
       <li>ADP-Fin: undir</li>
-      <li>AUX-Fin: er, var, voru, eru, hefur, hafa, hafði, höfðu, getur, má</li>
+      <li>AUX-Fin: er, var, voru, eru, hefur, hafa, hafði, höfðu, má, getur</li>
       <li>PROPN-Fin: Beust, Trump</li>
       <li>VERB-Fin: sagði, fór, varð, segir, kom, þarf, hafði, átti, gerði, tók</li>
     </ul>
@@ -491,7 +491,7 @@ The morphological and syntactic annotation were checked and corrected manually b
   <li>Pres
     <ul>
       <li>ADJ-Fin: fæst</li>
-      <li>AUX-Fin: er, eru, hefur, hafa, hafi, sé, getur, má, geta, séu</li>
+      <li>AUX-Fin: er, eru, hefur, hafa, hafi, sé, má, getur, geta, séu</li>
       <li>NOUN-Fin: hafi</li>
       <li>PROPN-Fin: Beust, Trump</li>
       <li>VERB-Fin: segir, þarf, fer, vill, eiga, varðar, verður, hefur, stendur, virðist</li>
@@ -682,7 +682,7 @@ The morphological and syntactic annotation were checked and corrected manually b
 </ul>
 
 <ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: vera, hafa, geta, munu, mega, verða, skulu, eiga.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: vera, hafa, geta, munu, mega, verða, skulu.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -702,12 +702,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
       <li>VERB-Fin--PRON-Dat (11)</li>
-      <li>VERB-Fin--PRON-Nom (260)</li>
+      <li>VERB-Fin--PRON-Nom (261)</li>
       <li>VERB-Inf--NOUN-Acc (5)</li>
       <li>VERB-Inf--NOUN-Dat (2)</li>
       <li>VERB-Inf--NOUN-Nom (11)</li>
       <li>VERB-Inf--PRON-Acc (2)</li>
-      <li>VERB-Inf--PRON-Nom (18)</li>
+      <li>VERB-Inf--PRON-Nom (17)</li>
       <li>VERB-Part--NOUN-Acc (5)</li>
       <li>VERB-Part--NOUN-Acc-ADP(fyrir) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(um) (1)</li>
@@ -745,12 +745,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen (2)</li>
       <li>VERB-Fin--PRON-Nom (5)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Acc (148)</li>
+      <li>VERB-Inf--NOUN-Acc (149)</li>
       <li>VERB-Inf--NOUN-Dat (34)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(á) (1)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
       <li>VERB-Inf--NOUN-Nom (4)</li>
-      <li>VERB-Inf--PRON-Acc (20)</li>
+      <li>VERB-Inf--PRON-Acc (19)</li>
       <li>VERB-Inf--PRON-Dat (8)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(við) (1)</li>

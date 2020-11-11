@@ -23,5 +23,5 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>mais</em>
-* `EMPTY` (11327): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, grandes, nacional, melhor</em>
+* `EMPTY` (11330): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, grandes, nacional, melhor</em>
 

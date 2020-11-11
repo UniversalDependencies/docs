@@ -8,28 +8,29 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="gd_arcosg-dep-case.html">case</a></tt>.
 
-38 nodes (0%) are attached to their parents as `case:voc`.
+52 nodes (0%) are attached to their parents as `case:voc`.
 
-38 instances of `case:voc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05263157894737.
+52 instances of `case:voc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.07692307692308.
 
-The following 4 pairs of parts of speech are connected with `case:voc`: <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (24; 63% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (12; 32% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `case:voc`: <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (33; 63% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (15; 29% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2; 4% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2; 4% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 7 case:voc	color:blue
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 case:voc	color:blue
 1	tha	bi	VERB	V-p	Tense=Pres	0	root	_	_
-2	thusa	thu	PRON	Pp2s--e	Number=Sing|Person=2|PronType=Emp	1	nsubj	_	_
-3	nad	nad	ADP	Spp2s	_	4	case	_	_
-4	ghille	gille	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	2	xcomp:pred	_	_
-5	mhòr	mòr	ADJ	Aq-smd	Case=Dat|Gender=Masc|Number=Sing	4	amod	_	_
-6	a-neist	a-neist	ADV	Rt	_	4	advmod	_	_
-7	a	a	PART	Uv	PartType=Voc	8	case:voc	_	_
-8	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	1	vocative	_	_
+2	thusa	thu	PRON	Pp2s--e	Form=Emp|Number=Sing|Person=2	1	nsubj	_	_
+3	nad	nad	ADP	Sp	_	5	case	_	_
+4	do	do	PRON	Dp2s	Number=Sing|Person=2|Poss=Yes	5	nmod:poss	_	_
+5	ghille	gille	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	1	xcomp:pred	_	_
+6	mhòr	mòr	ADJ	Aq-smd	Case=Dat|Gender=Masc|Number=Sing	5	amod	_	_
+7	a-neist	a-neist	ADV	Rt	_	5	advmod	_	_
+8	a	a	PART	Uv	PartType=Voc	9	case:voc	_	_
+9	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	1	vocative	_	_
 
 ~~~
 
@@ -60,7 +61,7 @@ The following 4 pairs of parts of speech are connected with `case:voc`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 1 case:voc	color:blue
 1	a	a	PART	Uv	PartType=Voc	2	case:voc	_	_
-2	shìorraidh	shìorraidh	INTJ	I	_	0	root	_	_
+2	shìorraidh	sìorraidh	INTJ	I	_	0	root	_	_
 
 ~~~
 

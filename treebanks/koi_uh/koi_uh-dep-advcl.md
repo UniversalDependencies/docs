@@ -9,28 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `advcl`: <tt><a href="koi_uh-dep-advcl-lmod.html">advcl:lmod</a></tt>, <tt><a href="koi_uh-dep-advcl-mmod.html">advcl:mmod</a></tt>, <tt><a href="koi_uh-dep-advcl-tmod.html">advcl:tmod</a></tt>.
 
-14 nodes (2%) are attached to their parents as `advcl`.
+18 nodes (2%) are attached to their parents as `advcl`.
 
-9 instances of `advcl` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.85714285714286.
+12 instances of `advcl` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.
 
-The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (5; 36% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (5; 36% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (3; 21% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 7% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 advcl	color:blue
-1	Менам	ме	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	GTtags=Pers,Sg1,Gen
-2	айӧ	ай	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	GTtags=Sg,Nom,PxSg1
-3	буржык	бур	ADJ	_	Degree=Cmp	0	root	_	GTtags=Der/жык,Comp
-4	тэ	тэ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nmod	_	GTtags=Pers,Sg2,Nom
-5	айся	ай	NOUN	_	Case=Comp|Number=Sing	3	advcl	_	GTtags=Sg,Cmpr|SpaceAfter=No
-6	.	.	PUNCT	CLB	_	3	punct	_	_
-
-~~~
+The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (9; 50% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (5; 28% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (3; 17% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -49,6 +33,22 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 8	юаліс	юавны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	2	parataxis	_	_
 9	сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 advcl	color:blue
+1	Менам	ме	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	GTtags=Pers,Sg1,Gen
+2	айӧ	ай	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	GTtags=Sg,Nom,PxSg1
+3	буржык	бур	ADJ	_	Degree=Cmp	0	root	_	GTtags=Der/жык,Comp
+4	тэ	тэ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nmod	_	GTtags=Pers,Sg2,Nom
+5	айся	ай	NOUN	_	Case=Comp|Number=Sing	3	advcl	_	GTtags=Sg,Cmpr|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

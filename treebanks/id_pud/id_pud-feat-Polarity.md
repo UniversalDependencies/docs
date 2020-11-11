@@ -9,17 +9,17 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-183 tokens (1%) have a non-empty value of `Polarity`.
-13 types (0%) occur at least once with a non-empty value of `Polarity`.
-1 lemmas (0) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 1 part-of-speech tags: <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (183; 1% instances).
+177 tokens (1%) have a non-empty value of `Polarity`.
+8 types (0%) occur at least once with a non-empty value of `Polarity`.
+4 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 1 part-of-speech tags: <tt><a href="id_pud-pos-PART.html">PART</a></tt> (177; 1% instances).
 
-### `ADV`
+### `PART`
 
-183 <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> tokens (17% of all `ADV` tokens) have a non-empty value of `Polarity`.
+177 <tt><a href="id_pud-pos-PART.html">PART</a></tt> tokens (79% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-`ADV` tokens may have the following values of `Polarity`:
+`PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (183; 100% of non-empty `Polarity`): <em>tidak, tak, belum, bukan, ketidak, setidaknya, Didn't, Don't</em>
-* `EMPTY` (866): <em>telah, akan, lebih, juga, bisa, sangat, sudah, hanya, dapat, mungkin</em>
+* `Neg` (177; 100% of non-empty `Polarity`): <em>tidak, tak, belum, bukan</em>
+* `EMPTY` (48): <em>pun, kah, lah</em>
 

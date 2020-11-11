@@ -23,5 +23,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (21346; 100% of non-empty `Definite`): <em>o, a, os, as</em>
-* `EMPTY` (26306): <em>o, a, os, um, uma, as, sua, seu, seus, cada</em>
+* `EMPTY` (26307): <em>o, a, os, um, uma, as, sua, seu, seus, cada</em>
 

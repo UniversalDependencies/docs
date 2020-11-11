@@ -13,7 +13,7 @@ This relation is universal.
 275 instances of `mark` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 4.54545454545455.
 
-The following 10 pairs of parts of speech are connected with `mark`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (211; 77% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (26; 9% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (20; 7% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (7; 3% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `mark`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (211; 77% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (26; 9% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (20; 7% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (7; 3% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 3	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
 4	que	_	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	5	nsubj	_	_
 5	hace	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
-6	que	_	ADP	IN	_	8	mark	_	_
+6	que	_	SCONJ	IN	_	8	mark	_	_
 7	sigamos	_	AUX	VBC	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
 8	volviendo	_	VERB	VBG	Aspect=Imp|VerbForm=Fin	5	ccomp	_	_
 9	a	_	ADP	IN	_	11	case	_	_
@@ -53,7 +53,7 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 7	increíble	_	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
 8	y	_	CCONJ	CC	_	9	cc	_	_
 9	espero	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
-10	que	_	ADP	IN	_	13	mark	_	_
+10	que	_	SCONJ	IN	_	13	mark	_	_
 11	seamos	_	AUX	VBC	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
 12	todavía	_	ADV	RB	_	13	advmod	_	_
 13	mejores	_	ADJ	JJR	Degree=Cmp|Number=Plur	9	ccomp	_	_
@@ -75,7 +75,7 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 3	a	_	ADP	IN	_	5	case	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	ligera	_	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
-6	que	_	ADP	IN	_	9	mark	_	_
+6	que	_	SCONJ	IN	_	9	mark	_	_
 7	es	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
 8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	bestia	_	NOUN	NN	Gender=Fem|Number=Sing	2	ccomp	_	SpaceAfter=No

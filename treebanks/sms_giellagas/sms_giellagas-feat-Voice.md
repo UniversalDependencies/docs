@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): <em>tuåimtum</em>
-* `EMPTY` (245): <em>ceälkk, mõõni, puõʹđi, šõõddi, jåått, leäi, räʹjje, vaaʹldi, vuõʹlji, jälste</em>
+* `EMPTY` (298): <em>ceälkk, mõõni, ǩiõzzam, puõʹđi, šõõddi, jåått, pohtt, räʹjje, vaaʹldi, vuõʹlji</em>
 

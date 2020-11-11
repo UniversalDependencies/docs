@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-28 nodes (0%) are attached to their parents as `dep`.
+35 nodes (0%) are attached to their parents as `dep`.
 
-24 instances of `dep` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.60714285714286.
+28 instances of `dep` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.4.
 
-The following 13 pairs of parts of speech are connected with `dep`: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (6; 21% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (5; 18% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (5; 18% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (2; 7% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 20 pairs of parts of speech are connected with `dep`: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (6; 17% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (5; 14% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (5; 14% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (2; 6% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -79,11 +79,11 @@ The following 13 pairs of parts of speech are connected with `dep`: <tt><a href=
 6	prin	prin	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	definiție	definiție	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	nmod	_	ToDo=nmod
 8	V	V	NOUN	Ncm--n	Definite=Ind|Gender=Masc	0	root	_	_
-9	=	=	SYM	EQUAL	_	8	punct	_	_
+9	=	=	PUNCT	EQUAL	_	8	punct	_	_
 10	100	100	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	8	nummod	_	_
-11	*	*	SYM	STAR	AdpType=Prep	10	punct	_	_
+11	*	*	PUNCT	STAR	AdpType=Prep	10	punct	_	_
 12	s	s	NOUN	Ncm--n	Definite=Ind|Gender=Masc	10	dep	_	_
-13	/	/	SYM	SLASH	AdpType=Prep	10	punct	_	_
+13	/	/	PUNCT	SLASH	AdpType=Prep	10	punct	_	_
 14	m	m	NOUN	Ncm--n	Definite=Ind|Gender=Masc	10	dep	_	SpaceAfter=No
 15	;	;	PUNCT	SCOLON	AdpType=Prep	8	punct	_	_
 

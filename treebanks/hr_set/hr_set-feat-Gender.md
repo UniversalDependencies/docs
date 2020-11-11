@@ -118,7 +118,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
   <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>BiH</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (4245) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (4246) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -281,14 +281,14 @@ The most frequent other feature values with which `ADP` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16407; 95%),
+<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16965; 95%),
 <tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3203; 97%),
-<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2121; 98%),
-<tt>ADJ --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1448; 93%),
-<tt>NOUN --[<tt><a href="hr_set-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1349; 75%),
+<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2323; 97%),
+<tt>ADJ --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1449; 93%),
+<tt>NOUN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1333; 74%),
 <tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1132; 57%),
-<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (769; 94%),
-<tt>PROPN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> PROPN</tt> (714; 75%),
+<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (771; 94%),
+<tt>PROPN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> PROPN</tt> (728; 75%),
 <tt>NOUN --[<tt><a href="hr_set-dep-acl.html">acl</a></tt>]--> ADJ</tt> (676; 85%),
-<tt>NOUN --[<tt><a href="hr_set-dep-compound.html">compound</a></tt>]--> ADJ</tt> (558; 99%).
+<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (413; 54%).
 

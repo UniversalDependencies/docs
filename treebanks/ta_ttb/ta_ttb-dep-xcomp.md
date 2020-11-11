@@ -13,7 +13,7 @@ This relation is universal.
 32 instances of `xcomp` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 4.78125.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (26; 81% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (3; 9% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (3; 9% instances).
+The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (27; 84% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (3; 9% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (2; 6% instances).
 
 
 ~~~ conllu
@@ -31,6 +31,30 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 7	கூறிய்	கூறு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	Translit=kūriy|LTranslit=kūru
 8	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	7	aux	7:aux	Translit=uḷḷatu|LTranslit=uḷ
 9	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	7:punct	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 xcomp	color:blue
+1	வரும்	வரு	ADJ	JJ-------	_	3	amod	3:amod	Translit=varum|LTranslit=varu
+2	செப்.15-ம்	செப்.15	ADJ	Uy-------	NumType=Ord	3	amod	3:amod	Translit=cep.15-m|LTranslit=cep.15
+3	தேதி	தேதி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obl	10:obl:nom	Translit=tēti|LTranslit=tēti
+4	அண்ணா	அண்ணா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod:nom	Translit=aṇṇā|LTranslit=aṇṇā
+5	பிறந்த	பிற	ADJ	JJ-------	_	6	amod	6:amod	Translit=piranta|LTranslit=pira
+6	நாளை	நாளை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obj	10:obj	Translit=nāḷai|LTranslit=nāḷai
+7	காஞ்சிபுரத்தில்	காஞ்சிபுரம்	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	10	obl	10:obl:loc	Translit=kāñcipurattil|LTranslit=kāñcipuram
+8	மாநாட்	மாநாடு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	obl	9:obl:nom	Translit=mānāṭ|LTranslit=mānāṭu
+9	ஆக	ஆகு	ADV	AA-------	_	10	advmod	10:advmod	Translit=āka|LTranslit=āku
+10	நடத்த	நடத்து	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	11	xcomp	11:xcomp	Translit=naṭatta|LTranslit=naṭattu
+11	முடிவு	முடிவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=muṭivu|LTranslit=muṭivu
+12	செய்த்	செய்	AUX	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	11	aux	11:aux	Translit=ceyt|LTranslit=cey
+13	உள்ளோம்	உள்	AUX	VR-T1PAAA	Animacy=Anim|Gender=Com|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin|Voice=Act	11	aux	11:aux	Translit=uḷḷōm|LTranslit=uḷ
+14	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	11:punct	Translit=.|LTranslit=.
 
 ~~~
 
@@ -59,30 +83,6 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 16	பட்ட்	படு	AUX	VT-T---PA	Polarity=Pos|VerbForm=Part|Voice=Pass	15	aux	15:aux	Translit=paṭṭ|LTranslit=paṭu
 17	உள்ளனர்	உள்	AUX	VR-T3PAAA	Animacy=Anim|Gender=Com|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	15	aux	15:aux	Translit=uḷḷanar|LTranslit=uḷ
 18	.	.	PUNCT	Z#-------	PunctType=Peri	15	punct	15:punct	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 xcomp	color:blue
-1	வரும்	வரு	ADJ	JJ-------	_	3	amod	3:amod	Translit=varum|LTranslit=varu
-2	செப்.15-ம்	செப்.15	ADJ	Uy-------	NumType=Ord	3	amod	3:amod	Translit=cep.15-m|LTranslit=cep.15
-3	தேதி	தேதி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obl	10:obl:nom	Translit=tēti|LTranslit=tēti
-4	அண்ணா	அண்ணா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod:nom	Translit=aṇṇā|LTranslit=aṇṇā
-5	பிறந்த	பிற	ADJ	JJ-------	_	6	amod	6:amod	Translit=piranta|LTranslit=pira
-6	நாளை	நாளை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	obj	10:obj	Translit=nāḷai|LTranslit=nāḷai
-7	காஞ்சிபுரத்தில்	காஞ்சிபுரம்	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	10	obl	10:obl:loc	Translit=kāñcipurattil|LTranslit=kāñcipuram
-8	மாநாட்	மாநாடு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	obl	9:obl:nom	Translit=mānāṭ|LTranslit=mānāṭu
-9	ஆக	ஆகு	ADV	AA-------	_	10	advmod	10:advmod	Translit=āka|LTranslit=āku
-10	நடத்த	நடத்து	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	11	xcomp	11:xcomp	Translit=naṭatta|LTranslit=naṭattu
-11	முடிவு	முடிவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	Translit=muṭivu|LTranslit=muṭivu
-12	செய்த்	செய்	AUX	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	11	aux	11:aux	Translit=ceyt|LTranslit=cey
-13	உள்ளோம்	உள்	AUX	VR-T1PAAA	Animacy=Anim|Gender=Com|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin|Voice=Act	11	aux	11:aux	Translit=uḷḷōm|LTranslit=uḷ
-14	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	11:punct	Translit=.|LTranslit=.
 
 ~~~
 

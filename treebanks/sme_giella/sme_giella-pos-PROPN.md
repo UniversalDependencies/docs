@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_North_Sami-Giella: POS Tags: `PROPN`
 
 There are 406 `PROPN` lemmas (9%), 508 `PROPN` types (6%) and 992 `PROPN` tokens (4%).
-Out of 14 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 4 in number of types and 8 in number of tokens.
+Out of 14 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 4 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Kárášjohka, Sámediggi, Finnmárku, Guovdageaidnu, Norga, Gállá, Máhtte, Máret, Sápmi, Romsa</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Sámi</em> (<tt><a href="sme_giella-p
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.251232 (the average of all parts of speech is 1.745041).
+The form / lemma ratio of `PROPN` is 1.251232 (the average of all parts of speech is 1.749612).
 
 The 1st highest number of forms (6) was observed with the lemma “Sámediggi”: <em>Sámediggi, Sámediggái, Sámedikke, Sámedikki, Sámedikkiin, Sámedikkis</em>.
 
@@ -74,17 +74,17 @@ Examples: <em>Gállá, Máret, Máhtte, Liná, Ánde, Sámediggi, Ánne, Biret, 
 
 Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (538; 54% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (233; 23% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (170; 17% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (27; 3% instances),  (15; 2% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-697 (70%) `PROPN` nodes are leaves.
+688 (69%) `PROPN` nodes are leaves.
 
-200 (20%) `PROPN` nodes have one child.
+195 (20%) `PROPN` nodes have one child.
 
-62 (6%) `PROPN` nodes have two children.
+70 (7%) `PROPN` nodes have two children.
 
-33 (3%) `PROPN` nodes have three or more children.
+39 (4%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 9.
 
-Children of `PROPN` nodes are attached using 25 different relations: <tt><a href="sme_giella-dep-flat.html">flat</a></tt> (113; 25% instances), <tt><a href="sme_giella-dep-conj.html">conj</a></tt> (66; 15% instances), <tt><a href="sme_giella-dep-cc.html">cc</a></tt> (63; 14% instances), <tt><a href="sme_giella-dep-compound-nn.html">compound:nn</a></tt> (30; 7% instances), <tt><a href="sme_giella-dep-case.html">case</a></tt> (24; 5% instances), <tt><a href="sme_giella-dep-punct.html">punct</a></tt> (22; 5% instances), <tt><a href="sme_giella-dep-amod.html">amod</a></tt> (16; 4% instances), <tt><a href="sme_giella-dep-cop.html">cop</a></tt> (16; 4% instances), <tt><a href="sme_giella-dep-appos.html">appos</a></tt> (15; 3% instances), <tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt> (15; 3% instances), <tt><a href="sme_giella-dep-acl-relcl.html">acl:relcl</a></tt> (14; 3% instances), <tt><a href="sme_giella-dep-advmod.html">advmod</a></tt> (10; 2% instances), <tt><a href="sme_giella-dep-obl.html">obl</a></tt> (8; 2% instances), <tt><a href="sme_giella-dep-discourse.html">discourse</a></tt> (6; 1% instances), <tt><a href="sme_giella-dep-cc-preconj.html">cc:preconj</a></tt> (5; 1% instances), <tt><a href="sme_giella-dep-det.html">det</a></tt> (5; 1% instances), <tt><a href="sme_giella-dep-xcomp-obj.html">xcomp:obj</a></tt> (5; 1% instances), <tt><a href="sme_giella-dep-nummod.html">nummod</a></tt> (4; 1% instances), <tt><a href="sme_giella-dep-mark.html">mark</a></tt> (3; 1% instances), <tt><a href="sme_giella-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sme_giella-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="sme_giella-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="sme_giella-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="sme_giella-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="sme_giella-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 25 different relations: <tt><a href="sme_giella-dep-flat.html">flat</a></tt> (113; 24% instances), <tt><a href="sme_giella-dep-conj.html">conj</a></tt> (66; 14% instances), <tt><a href="sme_giella-dep-cc.html">cc</a></tt> (63; 13% instances), <tt><a href="sme_giella-dep-punct.html">punct</a></tt> (50; 11% instances), <tt><a href="sme_giella-dep-compound-nn.html">compound:nn</a></tt> (30; 6% instances), <tt><a href="sme_giella-dep-case.html">case</a></tt> (24; 5% instances), <tt><a href="sme_giella-dep-amod.html">amod</a></tt> (16; 3% instances), <tt><a href="sme_giella-dep-cop.html">cop</a></tt> (16; 3% instances), <tt><a href="sme_giella-dep-appos.html">appos</a></tt> (15; 3% instances), <tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt> (15; 3% instances), <tt><a href="sme_giella-dep-acl-relcl.html">acl:relcl</a></tt> (14; 3% instances), <tt><a href="sme_giella-dep-advmod.html">advmod</a></tt> (10; 2% instances), <tt><a href="sme_giella-dep-obl.html">obl</a></tt> (8; 2% instances), <tt><a href="sme_giella-dep-discourse.html">discourse</a></tt> (6; 1% instances), <tt><a href="sme_giella-dep-cc-preconj.html">cc:preconj</a></tt> (5; 1% instances), <tt><a href="sme_giella-dep-det.html">det</a></tt> (5; 1% instances), <tt><a href="sme_giella-dep-xcomp-obj.html">xcomp:obj</a></tt> (5; 1% instances), <tt><a href="sme_giella-dep-nummod.html">nummod</a></tt> (4; 1% instances), <tt><a href="sme_giella-dep-mark.html">mark</a></tt> (3; 1% instances), <tt><a href="sme_giella-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sme_giella-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="sme_giella-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="sme_giella-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="sme_giella-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="sme_giella-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 13 different parts of speech: <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (170; 38% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (80; 18% instances), <tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (63; 14% instances), <tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (25; 6% instances), <tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (22; 5% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (16; 4% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (16; 4% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (16; 4% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (12; 3% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (12; 3% instances), <tt><a href="sme_giella-pos-PART.html">PART</a></tt> (6; 1% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sme_giella-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances)
+Children of `PROPN` nodes belong to 13 different parts of speech: <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (170; 36% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (80; 17% instances), <tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (63; 13% instances), <tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (50; 11% instances), <tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (25; 5% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (17; 4% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (16; 3% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (16; 3% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (12; 3% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (11; 2% instances), <tt><a href="sme_giella-pos-PART.html">PART</a></tt> (6; 1% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sme_giella-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances)
 

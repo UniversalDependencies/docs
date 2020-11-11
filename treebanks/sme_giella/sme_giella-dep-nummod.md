@@ -22,9 +22,9 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 nummod	color:blue
-1	Ii	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	5	aux:neg	_	_
+1	Ii	ii	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	5	aux:neg	_	_
 2	oktage	oktage	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	5	nsubj	_	_
-3	sáhte	sáhttit	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	sáhte	sáhttit	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	leat	leat	AUX	V	VerbForm=Inf	5	cop	_	_
 5	lahttun	lahttu	NOUN	N	Case=Ess	0	root	_	_
 6	eambbo	eambbo	ADV	Adv	Degree=Cmp	5	advmod	_	_
@@ -64,7 +64,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 10	fgColor:white
 # visual-style 10 5 nummod	color:blue
 1	Dalle	dalle	ADV	Adv	_	4	advmod	_	_
-2	sáhttá	sáhttit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	sáhttá	sáhttit	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	beaktilit	beaktil	ADV	A*	_	4	advmod	_	_
 4	háhkat	háhkat	VERB	V	VerbForm=Inf	0	root	_	_
 5	guovtte	guokte	NUM	Num	Case=Gen|Number=Sing|NumType=Card	10	nummod	_	_

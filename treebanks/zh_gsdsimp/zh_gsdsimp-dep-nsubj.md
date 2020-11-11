@@ -71,7 +71,7 @@ The following 49 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 10	玛氏	玛氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
 11	则	则	ADV	RB	_	12	mark	_	SpaceAfter=No
 12	中断	中断	VERB	VV	_	6	parataxis	_	SpaceAfter=No
-13	了	了	PART	AS	Aspect=Perf	12	case:aspect	_	SpaceAfter=No
+13	了	了	PART	AS	Aspect=Perf	12	aux:aspect	_	SpaceAfter=No
 14	生产	生产	NOUN	NN	_	12	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 16	公司	公司	NOUN	NN	_	17	nmod	_	SpaceAfter=No

@@ -98,7 +98,7 @@ Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="lt
 
 The highest child degree of a `CCONJ` node is 4.
 
-Children of `CCONJ` nodes are attached using 7 different relations: <tt><a href="lt_alksnis-dep-punct.html">punct</a></tt> (4; 36% instances), <tt><a href="lt_alksnis-dep-obj.html">obj</a></tt> (2; 18% instances), <tt><a href="lt_alksnis-dep-advmod.html">advmod</a></tt> (1; 9% instances), <tt><a href="lt_alksnis-dep-conj.html">conj</a></tt> (1; 9% instances), <tt><a href="lt_alksnis-dep-dep.html">dep</a></tt> (1; 9% instances), <tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt> (1; 9% instances), <tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt> (1; 9% instances)
+Children of `CCONJ` nodes are attached using 6 different relations: <tt><a href="lt_alksnis-dep-punct.html">punct</a></tt> (4; 36% instances), <tt><a href="lt_alksnis-dep-obj.html">obj</a></tt> (3; 27% instances), <tt><a href="lt_alksnis-dep-conj.html">conj</a></tt> (1; 9% instances), <tt><a href="lt_alksnis-dep-dep.html">dep</a></tt> (1; 9% instances), <tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt> (1; 9% instances), <tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt> (1; 9% instances)
 
 Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> (4; 36% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (3; 27% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (2; 18% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (1; 9% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 9% instances)
 

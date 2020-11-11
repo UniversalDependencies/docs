@@ -69,7 +69,7 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 9	Rusia	Rusia	PROPN	PROPN	_	2	nsubj	_	SpaceAfter=No
 10	,	,	PUNCT	PUNCT	PunctType=Comm	13	punct	_	_
 11	que	que	PRON	PRON	PronType=Int,Rel	13	nsubj	_	_
-12	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	obj	_	_
+12	se	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pv	_	_
 13	impuso	imponer	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl	_	_
 14	a	a	ADP	ADP	AdpType=Prep	15	case	_	_
 15	Portugal	Portugal	PROPN	PROPN	_	13	obj	_	SpaceAfter=No

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1817 nodes (3%) are attached to their parents as `amod`.
+3935 nodes (3%) are attached to their parents as `amod`.
 
-1678 instances of `amod` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.48651623555311.
+3702 instances of `amod` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.3700127064803.
 
-The following 19 pairs of parts of speech are connected with `amod`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1548; 85% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (98; 5% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (42; 2% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (38; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (34; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (23; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `amod`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (3475; 88% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (176; 4% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (89; 2% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (67; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (45; 1% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (27; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (17; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 3	gcéad	céad	NUM	Num	Form=Ecl|NumType=Ord	4	amod	_	_
 4	dul	dul	NOUN	Noun	VerbForm=Inf	7	obl	_	_
 5	síos	síos	ADV	Dir	_	4	advmod	_	SpaceAfter=No
-6	,	,	PUNCT	Punct	_	7	punct	_	_
+6	,	,	PUNCT	Punct	_	4	punct	_	_
 7	tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
 8	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
 9	Rialtas	rialtas	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -53,27 +53,21 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 7 amod	color:blue
-1	Ar	ar	ADP	Simp	_	2	case	_	_
-2	ndóigh	dóigh	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Fem|Number=Sing	3	obl	_	_
-3	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-4	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
-5	tír	tír	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	3	nsubj	_	_
-6	suaite	suaite	ADJ	Adj	VerbForm=Part	3	xcomp:pred	_	_
-7	go	go	ADJ	Adj	_	6	amod	_	_
-8	leor	leor	ADJ	Adj	_	7	fixed	_	_
-9	i	i	ADP	Cmpd	PrepForm=Cmpd	12	case	_	_
-10	rith	rith	ADP	Cmpd	_	9	fixed	_	_
-11	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
-12	am	am	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	3	obl	_	_
-13	seo	seo	DET	Det	PronType=Dem	12	det	_	_
-14	go	go	PART	Ad	PartType=Ad	15	mark:prt	_	_
-15	léir	léir	ADJ	Adj	Degree=Pos	3	advmod	_	SpaceAfter=No
-16	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 amod	color:blue
+1	'	'	PUNCT	Punct	_	5	punct	_	SpaceAfter=No
+2	COMHAONTUITHE	comhaontú	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	5	nmod	_	_
+3	FAOI	faoi	ADP	Simp	_	4	case	_	_
+4	SHAINCHEADU	shaincheadu	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	2	nmod	_	_
+5	Comharsain	Comharsain	PROPN	Noun	Case=NomAcc|Gender=Fem|Number=Plur	0	root	_	_
+6	aoibhne	aoibhne	ADJ	Adj	Case=NomAcc|Gender=Fem|Number=Plur	5	amod	_	_
+7	ab	is	AUX	Cop	Form=VF|PronType=Rel|Tense=Past|VerbForm=Cop	5	cop	_	_
+8	ea	ea	PRON	Pers	Number=Sing|Person=3	9	nmod	_	_
+9	iad	iad	PRON	Pers	Number=Plur|Person=3	5	nsubj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

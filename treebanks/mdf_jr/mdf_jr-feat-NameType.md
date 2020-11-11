@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Geo`, `Giv`, `Pat`, `Sur`.
 
-35 tokens (3%) have a non-empty value of `NameType`.
-32 types (4%) occur at least once with a non-empty value of `NameType`.
-30 lemmas (5%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (35; 3% instances).
+36 tokens (2%) have a non-empty value of `NameType`.
+33 types (4%) occur at least once with a non-empty value of `NameType`.
+31 lemmas (5%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (35; 2% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
@@ -28,6 +28,16 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 * `Sur` (7; 20% of non-empty `NameType`): <em>Браун, Вельматов, Веряскинонди, Каргалов, Мехов, Смит, Терешкова</em>
 
 `NameType` seems to be **lexical feature** of `PROPN`. 100% lemmas (30) occur only with one value of `NameType`.
+
+### `NOUN`
+
+1 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NameType`.
+
+The most frequent other feature values with which `NOUN` and `NameType` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1; 100%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt> (1; 100%), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`NOUN` tokens may have the following values of `NameType`:
+
+* `Sur` (1; 100% of non-empty `NameType`): <em>Николаевнань</em>
 
 ## Relations with Agreement in `NameType`
 

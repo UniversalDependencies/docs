@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Kiril Simov, Petya Osenova, Martin Popel.
 
 Repository: [UD_Bulgarian-BTB](https://github.com/UniversalDependencies/UD_Bulgarian-BTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbg_btb26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbg_btb27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-NC-SA 3.0
 

@@ -24,16 +24,16 @@ The following 23 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 6 8 case	color:blue
 1	이런	이런	DET	mmd	_	2	det	_	_
 2	면에서	면+에서	ADV	ncn+jca	_	11	advcl	_	_
-3	'	'	PUNCT	sl	_	4	punct	_	_
+3	'	'	PUNCT	sl	_	4	punct	_	SpaceAfter=No
 4	출판을	출판+을	NOUN	ncpa+jco	_	5	obj	_	_
 5	통한	통하+ㄴ	VERB	pvg+etm	_	6	acl	_	_
-6	사회변혁	사회+변혁	NOUN	ncn+ncpa	_	9	nmod	_	_
+6	사회변혁	사회+변혁	NOUN	ncn+ncpa	_	9	nmod	_	SpaceAfter=No
 7	'	'	PUNCT	sr	_	6	punct	_	_
 8	의	의	ADP	jcm	_	6	case	_	_
 9	필요성이	필요성+이	NOUN	ncn+jcs	_	11	nsubj	_	_
 10	더욱	더욱	ADV	mag	_	11	advmod	_	_
 11	강조되는	강조+되+는	VERB	ncpa+xsv+etm	_	0	root	_	_
-12	것이다	것+이+다	VERB	nbn+jp+ef	_	11	aux	_	_
+12	것이다	것+이+다	VERB	nbn+jp+ef	_	11	aux	_	SpaceAfter=No
 13	.	.	PUNCT	sf	_	12	punct	_	_
 
 ~~~
@@ -45,17 +45,17 @@ The following 23 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 case	color:blue
-1	'	'	PUNCT	sl	_	2	punct	_	_
-2	플룩슈리프트	플룩슈리프트	PROPN	nq	_	11	dislocated	_	_
+1	'	'	PUNCT	sl	_	2	punct	_	SpaceAfter=No
+2	플룩슈리프트	플룩슈리프트	PROPN	nq	_	11	dislocated	_	SpaceAfter=No
 3	'	'	PUNCT	sr	_	2	punct	_	_
 4	는	는	ADP	jxt	_	2	case	_	_
 5	오늘날	오늘날	NOUN	ncn	_	7	compound	_	_
-6	'	'	PUNCT	sl	_	7	punct	_	_
-7	잡지	잡지	NOUN	ncn	_	10	nmod	_	_
+6	'	'	PUNCT	sl	_	7	punct	_	SpaceAfter=No
+7	잡지	잡지	NOUN	ncn	_	10	nmod	_	SpaceAfter=No
 8	'	'	PUNCT	sr	_	7	punct	_	_
 9	의	의	ADP	jcm	_	7	case	_	_
 10	효시가	효시+가	NOUN	ncn+jcc	_	11	csubj	_	_
-11	되었다	되+었+다	VERB	pvg+ep+ef	_	0	root	_	_
+11	되었다	되+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	sf	_	11	punct	_	_
 
 ~~~
@@ -74,7 +74,7 @@ The following 23 pairs of parts of speech are connected with `case`: <tt><a href
 5	의	의	ADP	jcm	_	3	case	_	_
 6	지지를	지지+를	NOUN	ncpa+jco	_	7	obj	_	_
 7	얻은	얻+ㄴ	VERB	pvg+etm	_	0	root	_	_
-8	것이다	것+이+다	VERB	nbn+jp+ef	_	7	aux	_	_
+8	것이다	것+이+다	VERB	nbn+jp+ef	_	7	aux	_	SpaceAfter=No
 9	.	.	PUNCT	sf	_	8	punct	_	_
 
 ~~~

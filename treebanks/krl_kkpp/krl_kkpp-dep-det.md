@@ -63,7 +63,7 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 4	šuorah	suorah	ADV	ADV	_	3	advmod	_	_
 5	šuon	šuo	NOUN	NOUN	Case=Gen|Number=Sing	6	nmod:poss	_	_
 6	laijašta	laita	NOUN	NOUN	Case=Ine|Number=Sing	3	obl	_	SpaceAfter=No
-7	,	,	PUNCT	PUNCT	_	9	punct	_	_
+7	,	,	PUNCT	PUNCT	_	8	punct	_	_
 8	ne	ne	PRON	PRON	Case=Nom|Number=Plur|PronType=Dem	13	nsubj:cop	_	_
 9	oli	olla	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	_
 10	melko	melko	ADV	ADV	_	13	advmod	_	_

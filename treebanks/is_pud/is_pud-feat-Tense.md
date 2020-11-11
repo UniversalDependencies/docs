@@ -18,12 +18,12 @@ The feature is used with 6 part-of-speech tags: <tt><a href="is_pud-pos-VERB.htm
 
 1362 <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> tokens (68% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1213; 89%), <tt><a href="is_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1144; 84%), <tt><a href="is_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1144; 84%), <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1136; 83%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1074; 79%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1072; 79%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (993; 73%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1213; 89%), <tt><a href="is_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1144; 84%), <tt><a href="is_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1144; 84%), <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1136; 83%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1074; 79%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1071; 79%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (992; 73%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (920; 68% of non-empty `Tense`): <em>sagði, fór, varð, hafði, kom, átti, gerði, tók, hélt, komu</em>
-* `Pres` (442; 32% of non-empty `Tense`): <em>segir, þarf, fer, vill, eiga, varðar, verður, hefur, stendur, virðist</em>
+* `Past` (921; 68% of non-empty `Tense`): <em>sagði, fór, varð, hafði, kom, átti, gerði, tók, hélt, komu</em>
+* `Pres` (441; 32% of non-empty `Tense`): <em>segir, þarf, fer, vill, eiga, varðar, verður, hefur, stendur, virðist</em>
 * `EMPTY` (636): <em>nota, gera, hafa, fá, koma, sjá, taka, gert, draga, fara</em>
 
 <table>
@@ -42,12 +42,12 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 876 <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (876; 100%), <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (876; 100%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (852; 97%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (755; 86%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (636; 73%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="is_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (876; 100%), <tt><a href="is_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (876; 100%), <tt><a href="is_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (852; 97%), <tt><a href="is_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (756; 86%), <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (637; 73%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (385; 44% of non-empty `Tense`): <em>var, voru, hafði, höfðu, væri, myndi, gæti, hefði, hefðu, væru</em>
-* `Pres` (491; 56% of non-empty `Tense`): <em>er, eru, hefur, hafa, hafi, sé, getur, má, geta, séu</em>
+* `Past` (384; 44% of non-empty `Tense`): <em>var, voru, hafði, höfðu, væri, myndi, gæti, hefði, hefðu, væru</em>
+* `Pres` (492; 56% of non-empty `Tense`): <em>er, eru, hefur, hafa, hafi, sé, má, getur, geta, séu</em>
 * `EMPTY` (98): <em>verið, vera, hafa, geta, verði</em>
 
 <table>
@@ -71,7 +71,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 
 * `Past` (3; 60% of non-empty `Tense`): <em>hefðum, markaðir, orðið</em>
 * `Pres` (2; 40% of non-empty `Tense`): <em>hafi</em>
-* `EMPTY` (4094): <em>árið, ár, hluta, árum, ára, október, stað, öld, fólk, áhrif</em>
+* `EMPTY` (4096): <em>árið, ár, hluta, árum, ára, október, stað, öld, fólk, áhrif</em>
 
 ### `ADJ`
 

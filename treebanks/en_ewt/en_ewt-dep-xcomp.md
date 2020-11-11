@@ -22,7 +22,7 @@ The following 25 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 xcomp	color:blue
-1	When	when	ADV	WRB	PronType=Int	3	mark	3:mark	_
+1	When	when	SCONJ	WRB	PronType=Int	3	mark	3:mark	_
 2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 3	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	11:advcl:when	_
 4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
@@ -46,7 +46,7 @@ The following 25 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 xcomp	color:blue
-1	These	these	PRON	DT	Number=Plur|PronType=Dem	2	nsubj	2:nsubj|3:nsubj:xsubj	_
+1	These	this	PRON	DT	Number=Plur|PronType=Dem	2	nsubj	2:nsubj|3:nsubj:xsubj	_
 2	look	look	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	fine	fine	ADJ	JJ	Degree=Pos	2	xcomp	2:xcomp	_
 4	to	to	ADP	IN	_	5	case	5:case	_

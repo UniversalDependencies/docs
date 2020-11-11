@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `expl`: <tt><a href="cs_cac
 1688 instances of `expl:pass` (81%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.87816531294792.
 
-The following 5 pairs of parts of speech are connected with `expl:pass`: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (2081; 99% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (2084; 100% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 5 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 10	koloušů	kolouš	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	8	nmod	8:nmod:z:gen	_
 11	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	12	case	12:case	LId=na-1
 12	šachtě	šachta	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	13	obl	13:obl:na:loc	_
-13	*	*	SYM	Xx-------------	Abbr=Yes	1	obj	1:obj	_
+13	*	&cwildcard;	SYM	Xx-------------	Abbr=Yes	1	obj	1:obj	_
 14	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

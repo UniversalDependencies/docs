@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 4	Olímpicos	_	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
 6	cree	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-7	que	_	ADP	IN	_	8	mark	_	_
+7	que	_	SCONJ	IN	_	8	mark	_	_
 8	tuvieron	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	csubj:pass	_	_
 9	lugar	_	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
 10	en	_	ADP	IN	_	12	case	_	_
@@ -50,7 +50,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 3	ocasión	_	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 4	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	compound:prt	_	_
 5	insinúa	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-6	que	_	ADP	IN	_	9	mark	_	_
+6	que	_	SCONJ	IN	_	9	mark	_	_
 7	es	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	agente	_	NOUN	NN	Gender=Masc|Number=Sing	5	csubj:pass	_	_

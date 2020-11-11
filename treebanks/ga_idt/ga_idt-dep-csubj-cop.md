@@ -9,12 +9,31 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="ga_idt-dep-csubj-cleft.html">csubj:cleft</a></tt>.
 
-326 nodes (1%) are attached to their parents as `csubj:cop`.
+609 nodes (1%) are attached to their parents as `csubj:cop`.
 
-326 instances of `csubj:cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.81288343558282.
+609 instances of `csubj:cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.4384236453202.
 
-The following 15 pairs of parts of speech are connected with `csubj:cop`: <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (90; 28% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (84; 26% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (67; 21% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (52; 16% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `csubj:cop`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (268; 44% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (144; 24% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (88; 14% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (68; 11% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 csubj:cop	color:blue
+1	Shíl	síl	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
+2	siad	siad	PRON	Pers	Number=Plur|Person=3	1	nsubj	_	_
+3	gur	is	AUX	Cop	Tense=Pres|VerbForm=Cop	4	cop	_	_
+4	chóir	cóir	NOUN	Noun	Form=Len|Gender=Fem|Number=Sing	1	ccomp	_	_
+5	daobhtha	daobhtha	ADP	Pron	Number=Plur|Person=2	4	obl:prep	_	_
+6	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	8	obj	_	_
+7	a	a	PART	Inf	PartType=Inf	8	mark	_	_
+8	phógadh	pógadh	NOUN	Noun	Form=Len|VerbForm=Inf	4	csubj:cop	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -35,25 +54,6 @@ The following 15 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 10	a	a	PART	Inf	PartType=Inf	11	mark	_	_
 11	bhaint	baint	NOUN	Noun	Form=Len|VerbForm=Inf	7	csubj:cop	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 csubj:cop	color:blue
-1	Shíl	síl	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	siad	siad	PRON	Pers	Number=Plur|Person=3	1	nsubj	_	_
-3	gur	is	AUX	Cop	Tense=Pres|VerbForm=Cop	4	cop	_	_
-4	chóir	cóir	NOUN	Noun	Form=Len|Gender=Fem|Number=Sing	1	ccomp	_	_
-5	daobhtha	daobhtha	ADP	Pron	Number=Plur|Person=2	4	obl:prep	_	_
-6	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	8	obj	_	_
-7	a	a	PART	Inf	PartType=Inf	8	mark	_	_
-8	phógadh	pógadh	NOUN	Noun	Form=Len|VerbForm=Inf	4	csubj:cop	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

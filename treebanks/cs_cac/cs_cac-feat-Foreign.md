@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (257; 100% of non-empty `Foreign`): <em>luxe, vitro, generis, nepusto, pusto, excellence, homo, lege, peeling, Buch</em>
-* `EMPTY` (135925): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
+* `EMPTY` (135926): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (204) occur only with one value of `Foreign`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (64; 100% of non-empty `Foreign`): <em>de, in, a, ad, cross, of, par, Pro, ante, aus</em>
-* `EMPTY` (48327): <em>v, na, s, z, o, k, pro, do, ve, za</em>
+* `EMPTY` (48407): <em>v, na, s, z, o, k, pro, do, ve, za</em>
 
 `Foreign` seems to be **lexical feature** of `ADP`. 100% lemmas (21) occur only with one value of `Foreign`.
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (37; 100% of non-empty `Foreign`): <em>Combi, Kombi, Manche, Orchester, Bell, Böhmen, Corriere, Fruit, Gaudeamus, George</em>
-* `EMPTY` (9777): <em>KSČ, ROH, Praze, SSSR, ÚJČ, SSM, Praha, ČSAV, ČSSR, Škoda</em>
+* `EMPTY` (9782): <em>KSČ, ROH, Praze, SSSR, ÚJČ, SSM, Praha, ČSAV, ČSSR, Škoda</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (32) occur only with one value of `Foreign`.
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (13; 100% of non-empty `Foreign`): <em>priori, explicite, quo, defacto, expost, innuce, ipsofacto, memoriam, theory</em>
-* `EMPTY` (28119): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
+* `EMPTY` (28120): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
 
 ### `PRON`
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>eo, ipso, Tous, er, qua, they</em>
-* `EMPTY` (16024): <em>se, si, co, všech, je, nás, všechny, nám, jež, nich</em>
+* `EMPTY` (16027): <em>se, si, co, všech, je, nás, všechny, nám, jež, nich</em>
 
 ### `VERB`
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (7; 100% of non-empty `Foreign`): <em>are, formo, movere, savoir, singen, singt, vivre</em>
-* `EMPTY` (40598): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `EMPTY` (40590): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
 
 ### `DET`
 
@@ -126,7 +126,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>et, and</em>
-* `EMPTY` (24202): <em>a, i, nebo, ale, však, ani, či, tak, neboť, jednak</em>
+* `EMPTY` (24203): <em>a, i, nebo, ale, však, ani, či, tak, neboť, jednak</em>
 
 ## Relations with Agreement in `Foreign`
 

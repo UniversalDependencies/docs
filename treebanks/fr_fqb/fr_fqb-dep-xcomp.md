@@ -43,13 +43,13 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2 1 xcomp	color:blue
 1	Comment	comment	ADV	_	PronType=Int	2	xcomp	_	_
 2	nomme	nommer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-3	-t	t	PART	_	_	4	dep	_	SpaceAfter=No
-4	-on	il	PRON	_	Number=Sing|Person=3	2	nsubj	_	_
+3	-t	t	PART	_	_	4	dep	_	SpaceAfter=No|wordform=t
+4	-on	il	PRON	_	Number=Sing|Person=3	2	nsubj	_	wordform=on
 5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	nuages	nuage	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
 7	qui	qui	PRON	_	PronType=Rel	8	nsubj	_	_
 8	produisent	produire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
-9	de	du	ADP	_	Gender=Fem|Number=Sing	11	det	_	EXTPOS=DET
+9	de	du	ADP	_	Gender=Fem|Number=Sing	11	det	_	ExtPos=DET
 10	la	_	DET	_	_	9	fixed	_	_
 11	pluie	pluie	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
 

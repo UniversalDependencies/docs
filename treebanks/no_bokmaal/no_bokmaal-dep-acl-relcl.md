@@ -32,8 +32,8 @@ The following 35 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 7	og	og	CCONJ	_	_	8	cc	_	_
 8	holdningene	holdning	NOUN	_	Definite=Def|Gender=Fem|Number=Plur	6	conj	_	_
 9	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
-10	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
-11	.	$.	PUNCT	_	_	2	punct	_	_
+10	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	SpaceAfter=No
+11	.	$.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 12	»	$"	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -56,7 +56,7 @@ The following 35 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 9	dere	dere	PRON	_	Animacy=Hum|Case=Acc|Number=Plur|Person=2|PronType=Prs	8	obj	_	_
 10	som	som	PRON	_	PronType=Rel	11	nsubj	_	_
 11	jobber	jobbe	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
-12	her	her	ADV	_	_	11	advmod	_	_
+12	her	her	ADV	_	_	11	advmod	_	SpaceAfter=No
 13	?	$?	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -79,7 +79,7 @@ The following 35 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 9	for	for	ADP	_	_	10	case	_	_
 10	lederstilen	lederstil	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	obl	_	_
 11	i	i	ADP	_	_	12	case	_	_
-12	2007	2007	NUM	_	Number=Plur|NumType=Card	8	obl	_	_
+12	2007	2007	NUM	_	Number=Plur|NumType=Card	8	obl	_	SpaceAfter=No
 13	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~

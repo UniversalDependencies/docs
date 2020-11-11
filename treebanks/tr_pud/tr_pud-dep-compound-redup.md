@@ -95,7 +95,7 @@ The following 5 pairs of parts of speech are connected with `compound:redup`: <t
 7	ortaya	orta	NOUN	NN	Case=Dat|Number=Sing	8	obl	_	_
 8	çıkmaya	çık	NOUN	VN	Aspect=Perf|Case=Dat|Mood=Ind|Tense=Pres|VerbForm=Ger	9	ccomp	_	_
 9	başlamıştır	başla	VERB	VB	Aspect=Perf|Evident=Nfh|Mood=Gen|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-10	:	:	PUNCT	:	_	9	punct	_	_
+10	:	:	PUNCT	:	_	19	punct	_	_
 11	siyasi	siyasi	ADJ	JJ	Number=Sing	12	amod	_	_
 12	sistemleri	sistem	NOUN	NN	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=3	13	nsubj	_	_
 13	olan	ol	ADJ	VJ	Number=Sing|Polarity=Pos	19	acl	_	_

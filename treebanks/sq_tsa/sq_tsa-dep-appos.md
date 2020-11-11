@@ -38,7 +38,7 @@ The following 1 pairs of parts of speech are connected with `appos`: <tt><a href
 14	madh	madh	ADJ	_	Gender=Masc|Number=Sing	11	amod	11:amod	_
 15	i	i	DET	_	Gender=Masc	18	det	18:det	_
 16	të	i	DET	_	Gender=Fem	17	det:pron	17:det:pron	_
-17	gjitha	gjithë	PRON	_	Gender=Fem|Number=Plur|PronType=Tot	18	det	18:det	_
+17	gjitha	gjithë	PRON	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Tot	18	det	18:det	_
 18	kohërave	kohë	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	nmod:poss	11:nmod:poss	SpaceAfter=No
 19	.	.	PUNCT	_	_	11	punct	11:punct	_
 

@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Trump</em> (<tt><a href="is_pud-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.026834 (the average of all parts of speech is 1.365617).
+The form / lemma ratio of `PROPN` is 1.026834 (the average of all parts of speech is 1.365967).
 
 The 1st highest number of forms (4) was observed with the lemma “Bandaríki”: <em>Bandaríkin, Bandaríkjanna, Bandaríkjum, Bandaríkjunum</em>.
 

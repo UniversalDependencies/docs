@@ -138,7 +138,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 57	opinions	opinion	NOUN	_	Gender=Fem|Number=Plur	54	obj	_	_
 58	politiques	politique	ADJ	_	Number=Plur	57	amod	_	_
 59	-	-	PUNCT	_	_	54	punct	_	SpaceAfter=No
-60	de	de	ADP	_	_	66	advmod	_	EXTPOS=ADV|MWE=du_moins
+60	de	de	ADP	_	_	66	advmod	_	ExtPos=ADV
 61	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	60	fixed	_	_
 62	moins	moins	ADV	_	_	60	fixed	_	_
 63	pas	pas	ADV	_	_	66	advmod	_	_
@@ -162,7 +162,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 81	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	82	det	_	_
 82	droit	droit	NOUN	_	Gender=Masc|Number=Sing	79	obj	_	_
 83	-	-	PUNCT	_	_	82	punct	_	SpaceAfter=No
-84	de	de	ADP	_	_	89	advmod	_	EXTPOS=ADV|MWE=du_moins
+84	de	de	ADP	_	_	89	advmod	_	ExtPos=ADV
 85	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	84	fixed	_	_
 86	moins	moins	ADV	_	_	84	fixed	_	_
 87	dans	dans	ADP	_	_	89	case	_	_
@@ -183,12 +183,12 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 102	ses	son	DET	_	Number=Plur|Poss=Yes	103	det	_	_
 103	agents	agent	NOUN	_	Number=Plur	82	nmod	_	SpaceAfter=No
 104	,	,	PUNCT	_	_	79	punct	_	_
-105	bien	bien	ADV	_	_	115	mark	_	EXTPOS=SCONJ|MWE=bien_que
+105	bien	bien	ADV	_	_	115	mark	_	ExtPos=SCONJ
 106	qu'	que	SCONJ	_	_	105	fixed	_	SpaceAfter=No
 107	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	115	expl:subj	_	_
 108	soit	être	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	115	cop	_	_
 109	ici	ici	ADV	_	_	115	advmod	_	_
-110	tout	tout	ADV	_	_	115	advmod	_	EXTPOS=ADV|MWE=tout_de_même
+110	tout	tout	ADV	_	_	115	advmod	_	ExtPos=ADV
 111	de	de	ADP	_	_	110	fixed	_	_
 112	même	même	ADV	_	_	110	fixed	_	_
 113	à	à	ADP	_	_	115	case	_	_
@@ -203,7 +203,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 122	ses	son	DET	_	Number=Plur|Poss=Yes	123	det	_	_
 123	officiers	officier	NOUN	_	Number=Plur	121	obj	_	SpaceAfter=No
 124	,	,	PUNCT	_	_	121	punct	_	_
-125	y	y	PRON	_	Person=3	129	case	_	EXTPOS=ADP|MWE=y_compris
+125	y	y	PRON	_	Person=3	129	case	_	ExtPos=ADP
 126	compris	compris	ADJ	_	Gender=Masc	125	fixed	_	_
 127	dans	dans	ADP	_	_	129	case	_	_
 128	leur	son	DET	_	Number=Sing|Poss=Yes	129	det	_	_

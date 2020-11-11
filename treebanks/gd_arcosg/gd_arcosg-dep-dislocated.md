@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-28 nodes (0%) are attached to their parents as `dislocated`.
+44 nodes (0%) are attached to their parents as `dislocated`.
 
-26 instances of `dislocated` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.39285714285714.
+43 instances of `dislocated` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.02272727272727.
 
-The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (12; 43% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (4; 14% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (4; 14% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 4% instances).
+The following 12 pairs of parts of speech are connected with `dislocated`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (15; 34% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (11; 25% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (4; 9% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -40,25 +40,6 @@ The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 dislocated	color:blue
-1	ò	ò	INTJ	I	_	5	discourse	_	_
-2	math	math	ADJ	Ap	_	5	dislocated	_	_
-3	gu	gu	PART	Ua	PartType=Ad	4	mark:prt	_	_
-4	leòr	leòr	ADV	Rg	_	2	advmod	_	_
-5	dh'fhuirich	fuirich	VERB	V-s	Tense=Past	0	root	_	_
-6	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
-7	ann	ann	ADP	Sp	_	9	case	_	_
-8	am	an	ADP	Sp	_	7	fixed	_	_
-9	B&B	b&b	NOUN	Y	_	5	obl	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
@@ -70,7 +51,27 @@ The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a
 4	thug	toir	VERB	V-s	Tense=Past	0	root	_	_
 5	an	an	DET	Tdsm	Gender=Masc|Number=Sing	6	det	_	_
 6	[?]	[?]	X	Xx	_	4	dep	_	_
-7	dhi	do	ADP	Pr3sf	Gender=Fem|Number=Sing|Person=3	4	obl	_	_
+7	do	do	ADP	Sp	_	8	case	_	_
+8	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3	4	obl	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 dislocated	color:blue
+1	ò	ò	INTJ	I	_	5	discourse	_	_
+2	math	math	ADJ	Ap	_	5	dislocated	_	_
+3	gu	gu	PART	Ua	PartType=Ad	4	mark:prt	_	_
+4	leòr	leòr	ADV	Rg	_	2	advmod	_	_
+5	dh'fhuirich	fuirich	VERB	V-s	Tense=Past	0	root	_	_
+6	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+7	ann	an	ADP	Sp	_	9	case	_	_
+8	am	an	ADP	Sp	_	7	fixed	_	_
+9	B&B	B&B	NOUN	Y	_	5	obl	_	_
 
 ~~~
 

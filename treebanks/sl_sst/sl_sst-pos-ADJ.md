@@ -74,13 +74,13 @@ Examples: <em>lepa, rdeča, glavna, sama, dobra, edina, stara, logična, nova, o
 
 Parents of `ADJ` nodes belong to 12 different parts of speech: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (1020; 61% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (257; 15% instances),  (205; 12% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (85; 5% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (35; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (24; 1% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (15; 1% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-1048 (63%) `ADJ` nodes are leaves.
+1049 (63%) `ADJ` nodes are leaves.
 
-198 (12%) `ADJ` nodes have one child.
+197 (12%) `ADJ` nodes have one child.
 
-107 (6%) `ADJ` nodes have two children.
+106 (6%) `ADJ` nodes have two children.
 
-311 (19%) `ADJ` nodes have three or more children.
+312 (19%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 16.
 

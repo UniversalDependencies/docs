@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	Det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	ble	bli	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	rene	ren	ADJ	_	Degree=Pos|Number=Plur	4	amod	_	_
-4	ord	ord	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	xcomp	_	_
+4	ord	ord	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	xcomp	_	SpaceAfter=No
 5	:	$:	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -55,10 +55,10 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	ble	bli	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	nest	nest	ADV	_	_	5	advmod	_	_
 5	beste	god	ADJ	_	Definite=Def|Degree=Sup	6	amod	_	_
-6	norske	norsk	ADJ	_	Degree=Pos|Number=Plur	3	xcomp	_	_
+6	norske	norsk	ADJ	_	Degree=Pos|Number=Plur	3	xcomp	_	SpaceAfter=No
 7	,	$,	PUNCT	_	_	9	punct	_	_
 8	på	på	ADP	_	_	9	case	_	_
-9	ellevteplass	ellevteplass	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	_
+9	ellevteplass	ellevteplass	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 10	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~

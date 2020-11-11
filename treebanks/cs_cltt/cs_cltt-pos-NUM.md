@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>jednou</em> (<tt><a href="cs_cltt-pos
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.168675 (the average of all parts of speech is 1.766431).
+The form / lemma ratio of `NUM` is 1.168675 (the average of all parts of speech is 1.726345).
 
 The 1st highest number of forms (9) was observed with the lemma “jeden”: <em>jeden, jedno, jednoho, jednom, jednomu, jednou, jednu, jedné, jedním</em>.
 
@@ -47,9 +47,9 @@ Examples: <em>1, 3, 2, 4, 5, 41, 7, 10, 2004, 2008</em>
 
 Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (338; 77% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (40; 9% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (36; 8% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (13; 3% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-236 (54%) `NUM` nodes are leaves.
+232 (53%) `NUM` nodes are leaves.
 
-165 (38%) `NUM` nodes have one child.
+169 (38%) `NUM` nodes have one child.
 
 31 (7%) `NUM` nodes have two children.
 
@@ -57,7 +57,7 @@ Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="cs_cl
 
 The highest child degree of a `NUM` node is 8.
 
-Children of `NUM` nodes are attached using 13 different relations: <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (84; 31% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (61; 23% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (43; 16% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (34; 13% instances), <tt><a href="cs_cltt-dep-mark.html">mark</a></tt> (17; 6% instances), <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (14; 5% instances), <tt><a href="cs_cltt-dep-dep.html">dep</a></tt> (7; 3% instances), <tt><a href="cs_cltt-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="cs_cltt-dep-case.html">case</a></tt> (3; 1% instances), <tt><a href="cs_cltt-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `NUM` nodes are attached using 13 different relations: <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (88; 32% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (61; 22% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (43; 16% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (34; 12% instances), <tt><a href="cs_cltt-dep-mark.html">mark</a></tt> (17; 6% instances), <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (14; 5% instances), <tt><a href="cs_cltt-dep-dep.html">dep</a></tt> (7; 3% instances), <tt><a href="cs_cltt-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="cs_cltt-dep-case.html">case</a></tt> (3; 1% instances), <tt><a href="cs_cltt-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 12 different parts of speech: <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (84; 31% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (40; 15% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (33; 12% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (25; 9% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (24; 9% instances), <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> (21; 8% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (20; 7% instances), <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> (13; 5% instances), <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (6; 2% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances)
+Children of `NUM` nodes belong to 12 different parts of speech: <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (88; 32% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (40; 15% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (33; 12% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (25; 9% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (24; 9% instances), <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> (21; 8% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (20; 7% instances), <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> (13; 5% instances), <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (6; 2% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances)
 

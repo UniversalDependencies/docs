@@ -11,7 +11,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 191344 tokens (13%) have a non-empty value of `Degree`.
 39570 types (31%) occur at least once with a non-empty value of `Degree`.
-13745 lemmas (24%) occur at least once with a non-empty value of `Degree`.
+13744 lemmas (24%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 3 part-of-speech tags: <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (165171; 11% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (25021; 2% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (1152; 0% instances).
 
 ### `ADJ`
@@ -90,7 +90,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>velká</em></td><td></td><td><em>největší</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 95% lemmas (11489) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 95% lemmas (11488) occur only with one value of `Degree`.
 
 ### `ADV`
 

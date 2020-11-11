@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Faroese-OFT: POS Tags: `X`
 
 There are 33 `X` lemmas (1%), 33 `X` types (1%) and 42 `X` tokens (0%).
-Out of 15 observed tags, the rank of `X` is: 8 in number of lemmas, 9 in number of types and 14 in number of tokens.
+Out of 16 observed tags, the rank of `X` is: 8 in number of lemmas, 9 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>fram, 23, 40, 90, tá, -, 1, 1,1, 10, 100</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>fram</em> (<tt><a href="fo_oft-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.289602).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.290924).
 
 The 1st highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
 

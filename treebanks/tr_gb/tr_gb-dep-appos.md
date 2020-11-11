@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `appos`: <tt><a href
 5	iyi	iyi	ADV	_	_	6	advmod	_	_
 6	gidiyor	git	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
-8	örneğin	örneğin	ADV	_	_	10	discourse	_	_
+8	örneğin	örneğin	ADV	_	_	10	advmod	_	_
 9	kuzu	kuzu	NOUN	_	Case=Nom|Number=Sing	10	nmod	_	_
 10	etiyle	et	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	appos	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_

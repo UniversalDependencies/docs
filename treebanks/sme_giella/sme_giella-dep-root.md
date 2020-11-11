@@ -60,7 +60,7 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 4	bivut	bivvu	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
 5	galget	galgat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	5	punct	_	_
-7	ii	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	11	aux:neg	_	_
+7	ii	ii	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	11	aux:neg	_	_
 8	leat	leat	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	_
 9	gal	gal	ADV	Adv	_	11	advmod	_	_
 10	nu	nu	ADV	Adv	_	11	advmod	_	_

@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `advmod:tmod`
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-advmod.html">advmod</a></tt>.
-There are also 3 other language-specific subtypes of `advmod`: <tt><a href="kpv_lattice-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="kpv_lattice-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="kpv_lattice-dep-advmod-mmod.html">advmod:mmod</a></tt>.
+There are also 4 other language-specific subtypes of `advmod`: <tt><a href="kpv_lattice-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="kpv_lattice-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="kpv_lattice-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="kpv_lattice-dep-advmod-neg.html">advmod:neg</a></tt>.
 
-80 nodes (3%) are attached to their parents as `advmod:tmod`.
+128 nodes (3%) are attached to their parents as `advmod:tmod`.
 
-60 instances of `advmod:tmod` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.9625.
+99 instances of `advmod:tmod` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.9296875.
 
-The following 8 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (60; 75% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (7; 9% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (4; 5% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (4; 5% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (102; 80% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (9; 7% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (7; 5% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (7; 5% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -36,6 +36,21 @@ The following 8 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 advmod:tmod	color:blue
+1	Первойсӧ	первой	ADV	Adv	Clitic=So	4	advmod:tmod	_	Lang=Mixed
+2	ичӧтик	ичӧтик	ADJ	A	Case=Nom|Derivation=Ik|Number=Sing	3	amod	_	_
+3	баляяс	баля	NOUN	N	Case=Nom|Number=Plur	4	nmod	_	_
+4	кодьӧсь	кодь	ADJ	A	Case=Nom|Number[subj]=Plur	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
@@ -49,21 +64,6 @@ The following 8 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	майшассьӧма	майшассьыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 advmod:tmod	color:blue
-1	Первойсӧ	первой	ADV	Adv	Clitic=So	4	advmod:tmod	_	_
-2	ичӧтик	ичӧтик	ADJ	A	Case=Nom|Derivation=Ik|Number=Sing	3	amod	_	_
-3	баляяс	баля	NOUN	N	Case=Nom|Number=Plur	4	nmod	_	_
-4	кодьӧсь	кодь	ADJ	A	Case=Nom|Number=Plur	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

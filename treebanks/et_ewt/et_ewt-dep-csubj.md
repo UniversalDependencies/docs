@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="et_ewt-dep-csubj-cop.html">csubj:cop</a></tt>.
 
-134 nodes (0%) are attached to their parents as `csubj`.
+157 nodes (0%) are attached to their parents as `csubj`.
 
-120 instances of `csubj` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.76119402985075.
+140 instances of `csubj` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.75796178343949.
 
-The following 10 pairs of parts of speech are connected with `csubj`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (104; 78% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (11; 8% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `csubj`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (118; 75% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (13; 8% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (10; 6% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,13 +24,13 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 5 csubj	color:blue
 1	See	see	DET	P	Case=Nom|Number=Sing|PronType=Dem	2	det	2:det	_
-2	kôik	kõik	PRON	P	Case=Nom|Number=Sing|PronType=Tot	5	obj	5:obj	_
+2	kôik	kõik	PRON	P	Case=Nom|Number=Sing|PronType=Tot|Typo=Yes	5	obj	5:obj	CorrectForm=kõik
 3	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	ära	ära	ADV	D	_	5	compound:prt	5:compound	_
 5	aurustada	aurustama	VERB	V	VerbForm=Inf	3	csubj	3:csubj	_
 6	enne	enne	ADV	D	_	5	advmod	5:advmod	_
 7	kui	kui	SCONJ	J	_	9	mark	9:mark	_
-8	pôlema	pôlema	NOUN	S	Case=Nom|Number=Sing	9	obl	9:obl	_
+8	pôlema	põlema	NOUN	S	Case=Nom|Number=Sing|Typo=Yes	9	obl	9:obl	CorrectForm=põlema
 9	pääsed	pääsema	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	3:advcl	SpaceAfter=No
 10	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
@@ -43,14 +43,14 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 csubj	color:blue
-1	Huvitav	huvitav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	_
-2	veel	veel	ADV	D	_	1	advmod	1:advmod	SpaceAfter=No
-3	,	,	PUNCT	Z	_	7	punct	7:punct	_
-4	mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	7	obj	7:obj	_
-5	nad	tema	PRON	P	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
-6	Toyonoshimaga	Toyonoshima	PROPN	S	Case=Com|Number=Sing	7	obl	7:obl	_
-7	teevad	tegema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	1:csubj	SpaceAfter=No
-8	.	.	PUNCT	Z	_	1	punct	1:punct	_
+1	hea	hea	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	0:root	_
+2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	1:cop	_
+3	kui	kui	SCONJ	J	_	7	mark	7:mark	_
+4	mingi	mingi	DET	P	Case=Nom|Number=Sing|PronType=Ind	6	det	6:det	_
+5	s6jav2e	sõja_vägi	NOUN	S	Case=Gen|Number=Sing|Typo=Yes	6	nmod	6:nmod	CorrectForm=sõjaväe
+6	versioon	versioon	NOUN	S	Case=Nom|Number=Sing	7	nsubj	7:nsubj	_
+7	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	1:csubj	SpaceAfter=No
+8	...	...	PUNCT	Z	_	1	punct	1:punct	_
 
 ~~~
 

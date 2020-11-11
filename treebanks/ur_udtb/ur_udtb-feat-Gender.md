@@ -349,14 +349,14 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (7467; 92%),
+<tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (7465; 92%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4365; 69%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2271; 77%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1835; 81%),
 <tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1168; 88%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (920; 54%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (837; 76%),
-<tt>PROPN --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (689; 93%),
+<tt>PROPN --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (690; 93%),
 <tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (650; 89%),
 <tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (409; 93%).
 

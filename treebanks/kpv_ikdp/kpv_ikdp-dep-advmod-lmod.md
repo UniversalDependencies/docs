@@ -11,10 +11,10 @@ There are also 3 other language-specific subtypes of `advmod`: <tt><a href="kpv_
 
 13 nodes (1%) are attached to their parents as `advmod:lmod`.
 
-9 instances of `advmod:lmod` (69%) are right-to-left (child precedes parent).
+10 instances of `advmod:lmod` (77%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.84615384615385.
 
-The following 2 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (9; 69% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (4; 31% instances).
+The following 2 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (10; 77% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (3; 23% instances).
 
 
 ~~~ conllu
@@ -37,23 +37,21 @@ The following 2 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 advmod:lmod	color:blue
-1	Ну	ну	PART	Pcle	_	5	mark	_	Lang=Mixed|SpaceAfter=No
-2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	кучем	кутшӧм	ADV	Adv	_	5	advmod	_	_
-4	пӧрысь	пӧрысь	ADJ	A	Case=Nom|Number=Sing	5	amod	_	_
-5	бабушка	бабушка	NOUN	N	Case=Nom|Number=Sing	0	root	_	Lang=Mixed
-6	сэн	сэн	ADV	Adv	_	5	advmod:lmod	_	_
-7	лоас	лоны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	5	cop	_	SpaceAfter=No
-8	,	,	PUNCT	CLB	_	9	punct	_	_
-9	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	conj	_	_
-10	и	и	PART	Pcle	_	9	advmod	_	Lang=Mixed
-11	лоас	лоны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	9	cop	_	SpaceAfter=No
-12	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 advmod:lmod	color:blue
+1	Сэтэн	сэтӧн	ADV	Adv	_	2	advmod:lmod	_	_
+2	лиса	лиса	NOUN	N	Case=Nom|Number=Sing	0	root	_	Lang=Rus|Note=Check
+3	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	3	punct	_	_
+5	песцы	песец	NOUN	N	Case=Nom|Number=Plur	2	appos	_	Lang=Rus
+6	были	быть	AUX	V	Mood=Ind|Number=Plur|Tense=Past|Voice=Act	5	cop	_	Lang=Rus|SpaceAfter=No
+7	,	,	PUNCT	CLB	_	6	punct	_	_
+8	норки	норка	NOUN	N	Case=Nom|Number=Plur	2	appos	_	Lang=Rus
+9	были	быть	AUX	V	Mood=Ind|Number=Plur|Tense=Past|Voice=Act	8	cop	_	Lang=Rus|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	9	punct	_	_
 
 ~~~
 

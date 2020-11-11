@@ -32,7 +32,7 @@ The following 58 pairs of parts of speech are connected with `obj`: <tt><a href=
 8	문을	문+을	NOUN	ncn+jco	_	11	obj	_	_
 9	여덟	여덟	NUM	nnc	_	10	nummod	_	_
 10	개나	개+나	ADV	nbu+jxc	_	11	advcl	_	_
-11	세웠지요	세우+었+지요	VERB	pvg+ep+ef	_	3	conj	_	_
+11	세웠지요	세우+었+지요	VERB	pvg+ep+ef	_	3	conj	_	SpaceAfter=No
 12	.	.	PUNCT	sf	_	11	punct	_	_
 
 ~~~
@@ -53,7 +53,7 @@ The following 58 pairs of parts of speech are connected with `obj`: <tt><a href=
 7	헐어다가	헐+어다가	SCONJ	pvg+ecs	_	10	ccomp	_	_
 8	박문사	박문사	PROPN	nq	_	9	compound	_	_
 9	정문으로	정문+으로	ADV	ncn+jca	_	10	advcl	_	_
-10	세웠습니다	세우+었+습니다	VERB	pvg+ep+ef	_	0	root	_	_
+10	세웠습니다	세우+었+습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	sf	_	10	punct	_	_
 
 ~~~
@@ -81,7 +81,7 @@ The following 58 pairs of parts of speech are connected with `obj`: <tt><a href=
 14	때	때	NOUN	ncn	_	16	compound	_	_
 15	그	그	DET	mmd	_	16	det	_	_
 16	서울이	서울+이	PROPN	nq+jcs	_	17	nsubj	_	_
-17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	_
+17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	sf	_	17	punct	_	_
 
 ~~~

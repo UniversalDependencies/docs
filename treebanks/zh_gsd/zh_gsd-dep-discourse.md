@@ -85,7 +85,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 18 19 discourse	color:blue
 1	小風	小風	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No
 2	陷入	陷入	VERB	VV	_	0	root	_	SpaceAfter=No
-3	了	了	PART	AS	Aspect=Perf	2	case:aspect	_	SpaceAfter=No
+3	了	了	PART	AS	Aspect=Perf	2	aux:aspect	_	SpaceAfter=No
 4	沒有	沒有	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No
 5	信心	信心	NOUN	NN	_	4	obj	_	SpaceAfter=No
 6	的	的	PART	DEC	_	4	mark:relcl	_	SpaceAfter=No

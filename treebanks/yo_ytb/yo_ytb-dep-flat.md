@@ -65,7 +65,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 10	àmúhàn	àmúhàn	VERB	_	_	9	compound:svc	_	_
 11	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 12	sí	sí	ADP	_	_	14	case	_	_
-13	àwọn	àwọn	DET	_	_	14	det	_	_
+13	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	14	det	_	_
 14	olólùfẹ́	olólùfẹ́	NOUN	_	_	9	obl	_	_
 15	filmu	filmu	NOUN	_	_	14	nmod	_	_
 16	ni	ni	ADP	_	_	17	case	_	_

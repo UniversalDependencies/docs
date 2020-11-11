@@ -91,7 +91,7 @@ The following 21 pairs of parts of speech are connected with `fixed`: <tt><a hre
 10	kò	kò	PART	_	_	12	advmod	_	Gloss=did|Ref=JOHN_10.13
 11	sì	sì	CCONJ	_	_	12	cc	_	Gloss=not|Ref=JOHN_10.13
 12	náání	náání	VERB	_	_	8	conj	_	Gloss=care-for|Ref=JOHN_10.13
-13	àwọn	àwọn	DET	_	_	14	det	_	Gloss=the|Ref=JOHN_10.13
+13	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	14	det	_	Gloss=the|Ref=JOHN_10.13
 14	àgùntàn	àgùntàn	NOUN	_	_	12	obj	_	Gloss=sheep|Ref=JOHN_10.13|SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	Gloss=.|Ref=JOHN_10.13
 

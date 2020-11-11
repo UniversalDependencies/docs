@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="mdf_jr-feat-Person.html">Person</a></tt>, <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt>.
 
-71 tokens (6%) have a non-empty value of `Person[psor]`.
-65 types (9%) occur at least once with a non-empty value of `Person[psor]`.
-53 lemmas (9%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 4 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (65; 5% instances), <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+85 tokens (6%) have a non-empty value of `Person[psor]`.
+77 types (9%) occur at least once with a non-empty value of `Person[psor]`.
+60 lemmas (9%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 4 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (76; 5% instances), <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-65 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (20% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+76 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (20% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (65; 100%), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (58; 89%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 62%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (67; 88%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (47; 62%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -36,11 +36,18 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 ### `ADP`
 
-4 <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> tokens (13% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
-
-The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (3; 75%).
+6 <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> tokens (17% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
 
 `ADP` tokens may have the following values of `Person[psor]`:
+
+
+### `VERB`
+
+2 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
+
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`VERB` tokens may have the following values of `Person[psor]`:
 
 
 ### `PROPN`
@@ -52,17 +59,9 @@ The most frequent other feature values with which `PROPN` and `Person[psor]` co-
 `PROPN` tokens may have the following values of `Person[psor]`:
 
 
-### `VERB`
-
-1 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
-
-The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt> (1; 100%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`VERB` tokens may have the following values of `Person[psor]`:
-
-
 ## Relations with Agreement in `Person[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
-<tt>NOUN --[<tt><a href="mdf_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="mdf_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1; 100%).
 

@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Tagalog-TRG: Relations: `iobj`
 
 This relation is universal.
+There are 1 language-specific subtypes of `iobj`: <tt><a href="tl_trg-dep-iobj-patient.html">iobj:patient</a></tt>.
 
-2 nodes (1%) are attached to their parents as `iobj`.
+1 nodes (0%) are attached to their parents as `iobj`.
 
-2 instances of `iobj` (100%) are left-to-right (parent precedes child).
+1 instances of `iobj` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.
 
-The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_trg-pos-NOUN.html">NOUN</a></tt> (2; 100% instances).
+The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href="tl_trg-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_trg-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
@@ -22,14 +23,14 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 iobj	color:blue
-1	Ibinigay	bigay	VERB	VBP	Aspect=Perf|Mood=Ind	0	root	_	Focus=Obj
-2	ng	ng	ADP	_	Case=Erg	3	case	_	_
-3	titser	titser	NOUN	NN	Number=Sing	1	obj	_	_
-4	sa	sa	ADP	IN	Case=Dat	5	case	_	_
-5	istudyante	istudyante	NOUN	NN	Number=Sing	1	iobj	_	_
-6	ang	ang	DET	DT	Case=Abs|Definite=Def	7	det	_	_
-7	premyo	premyo	NOUN	NN	Number=Sing	1	nsubj	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	1	punct	_	_
+1	Binigyan	bigay	VERB	_	Aspect=Perf|Mood=Ind|Voice=Lfoc	0	root	_	Gloss=given
+2	ng	ng	ADP	_	Case=Gen	3	case	_	_
+3	titser	titser	NOUN	_	_	1	obj:agent	_	Gloss=teacher
+4	ng	ng	ADP	_	Case=Gen	3	case	_	_
+5	premyo	premyo	NOUN	_	_	1	iobj	_	Gloss=prize
+6	ang	ang	ADP	_	Case=Nom	7	case	_	Gloss=the
+7	istudyante	istudyante	NOUN	_	_	1	nsubj:lfoc	_	Gloss=student|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

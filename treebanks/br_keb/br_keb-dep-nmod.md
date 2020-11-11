@@ -12,7 +12,7 @@ There are 2 language-specific subtypes of `nmod`: <tt><a href="br_keb-dep-nmod-g
 221 nodes (2%) are attached to their parents as `nmod`.
 
 218 instances of `nmod` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.07692307692308.
+Average distance between parent and child is 3.08144796380091.
 
 The following 17 pairs of parts of speech are connected with `nmod`: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (115; 52% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (31; 14% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (22; 10% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (17; 8% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (10; 5% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (6; 3% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
@@ -45,8 +45,8 @@ The following 17 pairs of parts of speech are connected with `nmod`: <tt><a href
 2	miz	miz	X	x	_	3	dep	_	_
 3	Even	Even	NOUN	n	Gender=Masc	7	obl	_	_
 4	1998	1998	NUM	num	Number=Plur	3	nmod	_	_
-5	e	e	PART	vpart	_	7	aux	_	_
-6	oa	bezañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
+5	e	e	AUX	vpart	_	7	aux	_	_
+6	oa	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 7	aet	mont	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 8	diwar	diwar	ADP	pr	_	9	case	_	_
 9	wel	gwel	NOUN	n	Gender=Masc|Number=Sing	7	obl	_	_
@@ -68,7 +68,7 @@ The following 17 pairs of parts of speech are connected with `nmod`: <tt><a href
 1	Ho	ho	DET	det	Poss=Yes	2	det	_	_
 2	fent	fent	NOUN	n	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	avat	avat	ADV	adv	_	5	advmod	_	_
-4	a	a	PART	vpart	_	5	aux	_	_
+4	a	a	AUX	vpart	_	5	aux	_	_
 5	chom	chom	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	unan	unan	NUM	num	Number=Sing	5	xcomp	_	_
 7	eus	eus	ADP	pr	_	9	case	_	_

@@ -9,48 +9,49 @@ udver: '2'
 This feature is universal but the values `Prt2` are language-specific.
 It occurs with 4 different values: `Fut`, `Past`, `Pres`, `Prt2`.
 
-105 tokens (15%) have a non-empty value of `Tense`.
-90 types (23%) occur at least once with a non-empty value of `Tense`.
-73 lemmas (23%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (87; 13% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (17; 2% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+132 tokens (16%) have a non-empty value of `Tense`.
+112 types (24%) occur at least once with a non-empty value of `Tense`.
+87 lemmas (23%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (111; 13% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (20; 2% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-87 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Tense`.
+111 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (82; 94%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (82; 94%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (68; 78%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (67; 77%), <tt><a href="koi_uh-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (56; 64%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (106; 95%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (106; 95%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (90; 81%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (84; 76%), <tt><a href="koi_uh-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (80; 72%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (5; 6% of non-empty `Tense`): <em>кокаласӧ, локтас, петас, сетас, шедас</em>
-* `Past` (56; 64% of non-empty `Tense`): <em>босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, пондыліс, Окаліс, Пукси, бырӧм</em>
-* `Pres` (24; 28% of non-empty `Tense`): <em>зэрӧ, тыдалӧ, Висьтала, Кылӧ, Мунан, адзза, видзӧтан, визывтӧ, вуграся, вуджӧны</em>
-* `Prt2` (2; 2% of non-empty `Tense`): <em>гардчӧмкодь, ылӧстӧма</em>
-* `EMPTY` (27): <em>вӧтны, осьт, адззыв, бӧрйыны, вежӧртӧ, вермы, воштісьны, гленитчы, жалейттӧг, керны</em>
+* `Fut` (6; 5% of non-empty `Tense`): <em>петас, кокаласӧ, локтас, сетас, шедас</em>
+* `Past` (76; 68% of non-empty `Tense`): <em>босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, пондыліс, тшӧктіс, юаліс, Локтін</em>
+* `Pres` (26; 23% of non-empty `Tense`): <em>зэрӧ, тыдалӧ, Висьтала, Кылӧ, Мунан, адзза, веритан, видзӧтан, визывтӧ, вуграся</em>
+* `Prt2` (3; 3% of non-empty `Tense`): <em>вӧвдӧм, гардчӧмкодь, ылӧстӧма</em>
+* `EMPTY` (36): <em>вӧтны, осьт, адззыв, боньгыныт, бӧрйыны, вежӧртӧ, вермы, видзчисьны, воштісьны, гленитчы</em>
 
 <table>
-  <tr><th>Paradigm <i>видзӧтны</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>видзӧтан</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="koi_uh-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td></td><td><em>видзӧтіс</em></td></tr>
+  <tr><th>Paradigm <i>локны</i></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td><em>Локтін</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>локтас</em></td><td></td></tr>
 </table>
 
-`Tense` seems to be **lexical feature** of `VERB`. 93% lemmas (62) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `VERB`. 91% lemmas (75) occur only with one value of `Tense`.
 
 ### `AUX`
 
-17 <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> tokens (71% of all `AUX` tokens) have a non-empty value of `Tense`.
+20 <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15; 88%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (13; 76%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 65%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (11; 65%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18; 90%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (15; 75%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 70%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (12; 60%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (10; 59% of non-empty `Tense`): <em>эз, эг, Вӧлі, коліс, эд</em>
-* `Pres` (7; 41% of non-empty `Tense`): <em>оз, озӧ, верман, овлӧ, ог</em>
+* `Past` (12; 60% of non-empty `Tense`): <em>эз, эг, вӧлі, коліс, эд, эн</em>
+* `Pres` (8; 40% of non-empty `Tense`): <em>оз, озӧ, верман, овлӧ, ог</em>
 * `EMPTY` (7): <em>вермы, бы, вӧв, не, овны, позь</em>
 
 <table>
   <tr><th>Paradigm <i>оз</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>ог</em></td><td><em>эг</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td><em>эн</em></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>оз</em></td><td><em>эз</em></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>эг</em></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td><em>эд</em></td></tr>
@@ -72,6 +73,6 @@ The most frequent other feature values with which `NUM` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> VERB</tt> (12; 80%),
+<tt>VERB --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> VERB</tt> (20; 87%),
 <tt>VERB --[<tt><a href="koi_uh-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (4; 100%).
 

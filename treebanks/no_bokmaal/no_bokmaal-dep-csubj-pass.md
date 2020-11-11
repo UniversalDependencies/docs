@@ -25,12 +25,12 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	At	at	SCONJ	_	_	3	mark	_	_
 2	de	de	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 3	mener	mene	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	csubj:pass	_	_
-4	alvor	alvor	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	3	obj	_	_
+4	alvor	alvor	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	3	obj	_	SpaceAfter=No
 5	,	$,	PUNCT	_	_	3	punct	_	_
 6	kan	kunne	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	illustreres	illustrere	VERB	_	VerbForm=Inf|Voice=Pass	0	root	_	_
 8	med	med	ADP	_	_	9	case	_	_
-9	følgende	følgende	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	7	advmod	_	_
+9	følgende	følgende	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	7	advmod	_	SpaceAfter=No
 10	:	$:	PUNCT	_	_	7	punct	_	_
 
 ~~~

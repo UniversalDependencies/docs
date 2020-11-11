@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>è</em> (<tt><a href="it_isdt-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 19.300000 (the average of all parts of speech is 1.480768).
+The form / lemma ratio of `AUX` is 19.300000 (the average of all parts of speech is 1.481009).
 
 The 1st highest number of forms (41) was observed with the lemma “essere”: <em>E`, E’, Fui, e', era, erano, eravamo, eravate, ero, essendo, esser, essere, fosse, fossero, fossi, fossimo, fu, furono, sarai, saranno, sarebbe, sarebbero, sarei, saremmo, saremo, sarà, sarò, sei, sia, siamo, siano, siete, sii, son, sono, stata, state, stati, stato, É, è</em>.
 
@@ -77,9 +77,9 @@ Examples: <em>è, ha, può, deve, viene, sta, vuole, e', va, vuol</em>
 
 Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (8026; 69% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1494; 13% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (1306; 11% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (724; 6% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (84; 1% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (37; 0% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (28; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-11658 (100%) `AUX` nodes are leaves.
+11659 (100%) `AUX` nodes are leaves.
 
-44 (0%) `AUX` nodes have one child.
+43 (0%) `AUX` nodes have one child.
 
 2 (0%) `AUX` nodes have two children.
 
@@ -87,7 +87,7 @@ Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="it_i
 
 The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 5 different relations: <tt><a href="it_isdt-dep-punct.html">punct</a></tt> (40; 78% instances), <tt><a href="it_isdt-dep-conj.html">conj</a></tt> (6; 12% instances), <tt><a href="it_isdt-dep-advmod.html">advmod</a></tt> (2; 4% instances), <tt><a href="it_isdt-dep-cc.html">cc</a></tt> (2; 4% instances), <tt><a href="it_isdt-dep-obj.html">obj</a></tt> (1; 2% instances)
+Children of `AUX` nodes are attached using 5 different relations: <tt><a href="it_isdt-dep-punct.html">punct</a></tt> (39; 78% instances), <tt><a href="it_isdt-dep-conj.html">conj</a></tt> (6; 12% instances), <tt><a href="it_isdt-dep-advmod.html">advmod</a></tt> (2; 4% instances), <tt><a href="it_isdt-dep-cc.html">cc</a></tt> (2; 4% instances), <tt><a href="it_isdt-dep-obj.html">obj</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 6 different parts of speech: <tt><a href="it_isdt-pos-PUNCT.html">PUNCT</a></tt> (40; 78% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (3; 6% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> (2; 4% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 2% instances)
+Children of `AUX` nodes belong to 6 different parts of speech: <tt><a href="it_isdt-pos-PUNCT.html">PUNCT</a></tt> (39; 78% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (3; 6% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> (2; 4% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 

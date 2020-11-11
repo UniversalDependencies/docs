@@ -23,10 +23,10 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 6 ccomp	color:blue
 1	Goulenn	goulenn	VERB	vblex	VerbForm=Inf	0	root	_	_
-2	a	a	PART	vpart	_	1	aux	_	_
-3	reont	ober	VERB	vblex	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
+2	a	a	AUX	vpart	_	1	aux	_	_
+3	reont	ober	AUX	vblex	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
 4	ma	ma	SCONJ	cnjsub	_	6	mark	_	_
-5	vo	bezañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+5	vo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
 6	digoret	digoriñ	VERB	vblex	Tense=Past|VerbForm=Part	1	ccomp	_	_
 7	an	an	DET	det	_	8	det	_	_
 8	nor	dor	NOUN	n	Gender=Fem|Number=Sing	6	obj	_	_
@@ -42,15 +42,15 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 12 ccomp	color:blue
 1	Me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	'	a	PART	vpart	_	3	aux	_	SpaceAfter=No
+2	'	a	AUX	vpart	_	3	aux	_	SpaceAfter=No
 3	lavar	lavarout	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	deoc	da	ADP	pr	_	5	case	_	_
-5	h	indirect	PRON	prn	Case=Acc|Number=Plur|Person=2|PronType=Prs	3	obl	_	_
+4	de	da	ADP	pr	_	5	case	_	_
+5	oc'h	indirect	PRON	prn	Case=Acc|Number=Plur|Person=2|PronType=Prs	3	obl	_	_
 6	ar	an	DET	det	_	7	det	_	_
 7	marc'h	marc’h	NOUN	n	Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
 8	-se	se	ADV	adv	_	7	advmod	_	_
-9	a	a	PART	vpart	_	12	aux	_	_
-10	oa	bezañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
+9	a	a	AUX	vpart	_	12	aux	_	_
+10	oa	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
 11	re	re	ADV	adv	_	12	advmod	_	_
 12	gozh	kozh	ADJ	adj	_	3	ccomp	_	SpaceAfter=No
 13	.	.	PUNCT	sent	_	3	punct	_	_
@@ -68,8 +68,8 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 2	ouzon	gouzout	VERB	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ket	ket	ADV	adv	_	2	advmod	_	_
 4	piv	piv	PRON	prn	PronType=Int	7	nsubj	_	_
-5	a	a	PART	vpart	_	7	aux	_	_
-6	zo	bezañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	a	a	AUX	vpart	_	7	aux	_	_
+6	zo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	aze	aze	ADV	adv	_	2	ccomp	_	SpaceAfter=No
 8	.	.	PUNCT	sent	_	2	punct	_	_
 

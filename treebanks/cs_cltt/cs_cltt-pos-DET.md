@@ -15,14 +15,17 @@ The 10 most frequent `DET` types:  <em>které, jejich, která, jeho, této, toho
 
 The 10 most frequent ambiguous lemmas: <em>jenž</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 73, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 21)
 
-The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 33, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 19), <em>tuto</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 11, <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 7), <em>jehož</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5), <em>t</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1, <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>jejich</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 93, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 6), <em>to</em> (<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 33, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 19), <em>tuto</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 11, <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 7), <em>jehož</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5), <em>t</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1, <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 1)
 
 
+* <em>jejich</em>
+  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 93: <em>Tyto standardy a <b>jejich</b> vydání se nezveřejňují .</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 6: <em>O dospělých zvířatech a jejich skupinách s dobou použitelnosti delší než jeden rok nevykázaných v položce „ B.II.5. Dospělá zvířata a <b>jejich</b> skupiny “ se účtuje jako o zásobách .</em>
 * <em>to</em>
   * <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 33: <em>(6) Konsolidační celek tvoří účetní jednotky uvedené v odstavcích 2 a 3 písm._a) , a <b>to</b> za podmínek stanovených §_22a a prováděcími právními předpisy .</em>
   * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 19: <em>(4) Postup podle odstavců 2 a 3 se použije , pokud <b>to</b> neodporuje přímo použitelnému předpisu Evropské unie nebo zvláštnímu právnímu předpisu .</em>
 * <em>tuto</em>
-  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 11: <em>(7) Není-li objektivně možné stanovit reálnou hodnotu , považuje se za <b>tuto</b> hodnotu ocenění způsoby podle §_25 .</em>
+  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 11: <em>(7) Není - li objektivně možné stanovit reálnou hodnotu , považuje se za <b>tuto</b> hodnotu ocenění způsoby podle §_25 .</em>
   * <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 7: <em>Účetní jednotka popíše <b>tuto</b> skutečnost v příloze v účetní závěrce .</em>
 * <em>jehož</em>
   * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6: <em>(6) Účetní jednotky uvedené v odstavci 1 jsou povinny sestavovat odpisový plán , na <b>jehož</b> podkladě provádějí odpisování majetku v průběhu jeho používání .</em>
@@ -33,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="cs_cltt-pos-PAR
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 5.000000 (the average of all parts of speech is 1.766431).
+The form / lemma ratio of `DET` is 5.000000 (the average of all parts of speech is 1.726345).
 
 The 1st highest number of forms (15) was observed with the lemma “tento”: <em>t, tato, tento, tohoto, tomto, tomuto, toto, touto, tuto, tyto, této, tímto, těchto, těmito, těmto</em>.
 
@@ -56,9 +59,9 @@ Examples: <em>které, jaké</em>
 
 Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (712; 61% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (344; 30% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (96; 8% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (1; 0% instances)
 
-1011 (87%) `DET` nodes are leaves.
+1012 (87%) `DET` nodes are leaves.
 
-124 (11%) `DET` nodes have one child.
+123 (11%) `DET` nodes have one child.
 
 20 (2%) `DET` nodes have two children.
 
@@ -66,7 +69,7 @@ Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="cs_cl
 
 The highest child degree of a `DET` node is 4.
 
-Children of `DET` nodes are attached using 15 different relations: <tt><a href="cs_cltt-dep-case.html">case</a></tt> (117; 64% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (12; 7% instances), <tt><a href="cs_cltt-dep-acl.html">acl</a></tt> (10; 5% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (10; 5% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (7; 4% instances), <tt><a href="cs_cltt-dep-acl-relcl.html">acl:relcl</a></tt> (6; 3% instances), <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (6; 3% instances), <tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt> (6; 3% instances), <tt><a href="cs_cltt-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="cs_cltt-dep-orphan.html">orphan</a></tt> (2; 1% instances), <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (1; 1% instances), <tt><a href="cs_cltt-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="cs_cltt-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
+Children of `DET` nodes are attached using 15 different relations: <tt><a href="cs_cltt-dep-case.html">case</a></tt> (117; 64% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (12; 7% instances), <tt><a href="cs_cltt-dep-acl.html">acl</a></tt> (10; 5% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (10; 5% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (7; 4% instances), <tt><a href="cs_cltt-dep-acl-relcl.html">acl:relcl</a></tt> (6; 3% instances), <tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt> (6; 3% instances), <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (5; 3% instances), <tt><a href="cs_cltt-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="cs_cltt-dep-orphan.html">orphan</a></tt> (2; 1% instances), <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (1; 1% instances), <tt><a href="cs_cltt-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="cs_cltt-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
 
-Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (117; 64% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (24; 13% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (17; 9% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (10; 5% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (117; 64% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (24; 13% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (17; 9% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (10; 5% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (5; 3% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 

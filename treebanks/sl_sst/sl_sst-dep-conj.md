@@ -70,8 +70,8 @@ The following 54 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 5 6 conj	color:blue
 1	preskok	preskok	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	word=preskok|msd=Sometn
 2	barve	barva	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	word=barve|msd=Sozer
-3	…	…	PUNCT	Z	_	6	punct	_	word=…|msd=U
-4	torej	torej	CCONJ	Cc	_	6	cc	_	word=torej|msd=Vp
+3	…	…	PUNCT	Z	_	5	punct	_	word=…|msd=U
+4	torej	torej	CCONJ	Cc	_	5	cc	_	word=torej|msd=Vp
 5	moder	moder	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	parataxis	_	word=moder|msd=Ppnmein
 6	rdeč	rdeč	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	word=rdeč|msd=Ppnmein
 

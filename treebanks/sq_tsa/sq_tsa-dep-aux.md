@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 4 aux	color:blue
 1	Shpesh	shpesh	ADV	_	_	5	advmod	5:advmod	_
-2	këto	kjo	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	3	det	3:det	_
+2	këto	kjo	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	3	det	3:det	_
 3	rryma	rrym	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nsubj	5:nsubj	_
 4	janë	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	aux	5:aux	_
 5	krijuar	krijoj	VERB	_	VerbForm=Part	0	root	0:root	_

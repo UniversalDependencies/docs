@@ -30,7 +30,7 @@ The following 18 pairs of parts of speech are connected with `mark`: <tt><a href
 6	selv	selv	DET	_	PronType=Prs	5	det	_	_
 7	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	underskrevet	underskrive	VERB	_	VerbForm=Part	1	advcl	_	_
-9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	obj	_	_
+9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
 10	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -47,8 +47,8 @@ The following 18 pairs of parts of speech are connected with `mark`: <tt><a href
 3	grusomt	grusom	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 4	å	å	PART	_	_	5	mark	_	_
 5	høre	høre	VERB	_	VerbForm=Inf	3	advcl	_	_
-6	på	på	ADP	_	_	5	compound:prt	_	_
-7	.	$.	PUNCT	_	_	3	punct	_	_
+6	på	på	ADP	_	_	5	compound:prt	_	SpaceAfter=No
+7	.	$.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 8	»	$"	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -60,14 +60,14 @@ The following 18 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 mark	color:blue
-1	«	$"	PUNCT	_	_	4	punct	_	_
-2	...	$...	PUNCT	_	_	4	punct	_	_
+1	«	$"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+2	...	$...	PUNCT	_	_	4	punct	_	SpaceAfter=No
 3	han	han	PRON	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	behandler	behandle	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	menneskene	menneske	NOUN	_	Definite=Def|Gender=Neut|Number=Plur	4	obj	_	_
 6	som	som	SCONJ	_	_	7	mark	_	_
-7	dyr	dyr	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	4	xcomp	_	_
-8	»	$"	PUNCT	_	_	4	punct	_	_
+7	dyr	dyr	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	4	xcomp	_	SpaceAfter=No
+8	»	$"	PUNCT	_	_	4	punct	_	SpaceAfter=No
 9	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~

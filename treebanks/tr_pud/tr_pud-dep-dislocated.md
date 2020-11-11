@@ -88,7 +88,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 5	programında	program	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
 6	şunları	şu	PRON	PRD	Case=Acc|Number=Plur|Polarity=Pos	7	obj	_	_
 7	söyledi	söyle	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-8	:	:	PUNCT	:	_	7	punct	_	_
+8	:	:	PUNCT	:	_	18	punct	_	_
 9	"	"	PUNCT	``	_	18	punct	_	SpaceAfter=No
 10	Açıkçası	Açıkça	NOUN	NN	Number=Sing	18	obl	_	_
 11	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	13	det	_	_

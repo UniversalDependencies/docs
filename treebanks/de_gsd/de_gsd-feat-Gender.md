@@ -9,21 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt>, <tt><a href="de_gsd-feat-Gender-psor.html">Gender[psor]</a></tt>.
+
 137880 tokens (47%) have a non-empty value of `Gender`.
 40759 types (81%) occur at least once with a non-empty value of `Gender`.
 35098 lemmas (83%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 16 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (50879; 17% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (36147; 12% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (26407; 9% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (14123; 5% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (9779; 3% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (204; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (115; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (86; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (65; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (27; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (22; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+The feature is used with 16 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (50877; 17% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (36715; 13% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (26395; 9% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (14123; 5% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (9225; 3% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (204; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (115; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (86; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (65; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (27; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (22; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-50879 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
+50877 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36825; 72%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36824; 72%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (21163; 42% of non-empty `Gender`): <em>Zeit, Stadt, Familie, Gemeinde, Saison, Frau, Gruppe, Region, Geschichte, Kirche</em>
-* `Masc` (18400; 36% of non-empty `Gender`): <em>Teil, Ort, Menschen, Platz, Sohn, km, Namen, Anfang, Titel, Meter</em>
+* `Masc` (18398; 36% of non-empty `Gender`): <em>Teil, Ort, Menschen, Platz, Sohn, km, Namen, Anfang, Titel, Meter</em>
 * `Neut` (11316; 22% of non-empty `Gender`): <em>jahr, Jahre, Jahren, Prozent, Ende, %, Unternehmen, Kinder, Leben, Mitglied</em>
 * `EMPTY` (1323): <em>mm, Eltern, Jahrhundert, Leute, Kosten, °, m, mal, Deutschen, Beschäftigten</em>
 
@@ -38,20 +40,20 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Tag</em></td><td><em>Tage</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 94% lemmas (17026) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 94% lemmas (17025) occur only with one value of `Gender`.
 
 ### `DET`
 
-36147 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Gender`.
+36715 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (33765; 93%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31414; 87%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (28577; 79%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (33765; 92%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31862; 87%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (28577; 78%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (15301; 42% of non-empty `Gender`): <em>der, die, eine, einer, den, seine, seiner, ihre, ihrer, seinen</em>
-* `Masc` (12947; 36% of non-empty `Gender`): <em>dem, der, den, des, die, ein, einen, einem, eines, seinen</em>
-* `Neut` (7899; 22% of non-empty `Gender`): <em>dem, das, ein, des, die, den, einem, der, sein, eines</em>
-* `EMPTY` (649): <em>die, den, der, deren, viel, viele, weniger, seine, genügend, anderen</em>
+* `Fem` (15545; 42% of non-empty `Gender`): <em>der, die, eine, einer, den, seine, seiner, ihre, ihrer, meine</em>
+* `Masc` (13156; 36% of non-empty `Gender`): <em>dem, der, den, des, die, ein, einen, einem, eines, seinen</em>
+* `Neut` (8014; 22% of non-empty `Gender`): <em>dem, das, ein, des, die, den, einem, der, sein, eines</em>
+* `EMPTY` (660): <em>die, den, der, deren, viel, viele, seine, weniger, genügend, anderen</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -79,16 +81,16 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `PROPN`
 
-26407 <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> tokens (86% of all `PROPN` tokens) have a non-empty value of `Gender`.
+26395 <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> tokens (86% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25259; 96%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25247; 96%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (5780; 22% of non-empty `Gender`): <em>SPD, Mark, Universität, Schweiz, US, Maria, DDR, Deutschen, CDU, Straße</em>
-* `Masc` (12894; 49% of non-empty `Gender`): <em>Oktober, US, August, Mai, November, September, Juli, Peter, Weltkrieg, Johann</em>
-* `Neut` (7733; 29% of non-empty `Gender`): <em>Deutschland, Berlin, Frankreich, München, New, Wien, London, Paris, St., Italien</em>
-* `EMPTY` (4450): <em>of, de, the, von, a, la, University, II, Wiener, Berliner</em>
+* `Fem` (5776; 22% of non-empty `Gender`): <em>SPD, Mark, Universität, Schweiz, US, Maria, DDR, Deutschen, CDU, Straße</em>
+* `Masc` (12889; 49% of non-empty `Gender`): <em>Oktober, US, August, Mai, November, September, Juli, Peter, Weltkrieg, Johann</em>
+* `Neut` (7730; 29% of non-empty `Gender`): <em>Deutschland, Berlin, Frankreich, München, New, Wien, London, Paris, St., Italien</em>
+* `EMPTY` (4449): <em>of, de, the, von, a, la, University, II, Wiener, Berliner</em>
 
 <table>
   <tr><th>Paradigm <i>Deutschland</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -127,16 +129,16 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `PRON`
 
-9779 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `Gender`.
+9225 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (64% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (9778; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8571; 88%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (7741; 79%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6216; 64%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5569; 57%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (9224; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8136; 88%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (7188; 78%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6081; 66%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5017; 54%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (2688; 27% of non-empty `Gender`): <em>sie, die, diese, dieser, der, keine, ihr, meine, alle, beiden</em>
-* `Masc` (4242; 43% of non-empty `Gender`): <em>er, der, ihm, ihn, diesem, dieser, dem, diesen, einer, den</em>
-* `Neut` (2849; 29% of non-empty `Gender`): <em>es, das, was, dies, dieses, allem, alles, anderem, dem, diesem</em>
-* `EMPTY` (5262): <em>sich, ich, die, sie, man, wir, uns, mir, mich, denen</em>
+* `Fem` (2448; 27% of non-empty `Gender`): <em>sie, die, diese, dieser, der, keine, ihr, alle, beiden, eine</em>
+* `Masc` (4040; 44% of non-empty `Gender`): <em>er, der, ihm, ihn, diesem, dieser, dem, diesen, einer, den</em>
+* `Neut` (2737; 30% of non-empty `Gender`): <em>es, das, was, dies, dieses, allem, alles, anderem, dem, diesem</em>
+* `EMPTY` (5252): <em>sich, ich, die, sie, man, wir, uns, mir, mich, denen</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -200,7 +202,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (36; 31% of non-empty `Gender`): <em>eingerichtete, Beschrieben, Druckventilen, Empfelen, Fahre, Formatierten, Frage, Mitteldornen, Quarten, Zahlen</em>
 * `Masc` (46; 40% of non-empty `Gender`): <em>läd, Benannt, Biphenylen, Brauch, Check, DENKST, Eingeklemmter, Einhalt, Empfehlen, Fischen</em>
 * `Neut` (33; 29% of non-empty `Gender`): <em>was, erreichte, essen, Amt, Jahrzehnten, Paniertes, Probefahren, Schwimmen, Spielen, Taugen</em>
-* `EMPTY` (20597): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `EMPTY` (20599): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
 
 <table>
   <tr><th>Paradigm <i>eingerichtet</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -344,7 +346,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 `AUX` tokens may have the following values of `Gender`:
 
 * `Masc` (2; 100% of non-empty `Gender`): <em>Bin</em>
-* `EMPTY` (10592): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
+* `EMPTY` (10590): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
 
 ### `SCONJ`
 
@@ -359,13 +361,13 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (26961; 95%),
+<tt>NOUN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (26962; 95%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12024; 91%),
 <tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (4784; 82%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (4683; 87%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (4682; 87%),
+<tt>NOUN --[<tt><a href="de_gsd-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (2158; 95%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1765; 55%),
-<tt>NOUN --[<tt><a href="de_gsd-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (1649; 95%),
-<tt>NOUN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> PRON</tt> (1625; 88%),
+<tt>NOUN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> PRON</tt> (1623; 88%),
 <tt>PROPN --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1309; 63%),
 <tt>PROPN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> PROPN</tt> (1160; 77%),
 <tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> NOUN</tt> (668; 84%).

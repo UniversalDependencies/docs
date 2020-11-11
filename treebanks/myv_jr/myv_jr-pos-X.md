@@ -13,19 +13,19 @@ The 10 most frequent `X` lemmas: <em>ни, имени, й, мне, но, тво�
 
 The 10 most frequent `X` types:  <em>ни, имени, й, мне, но, твоему, тебе</em>
 
-The 10 most frequent ambiguous lemmas: <em>ни</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="myv_jr-pos-X.html">X</a></tt> 2), <em>но</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1, <tt><a href="myv_jr-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ни</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="myv_jr-pos-X.html">X</a></tt> 2), <em>но</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1, <tt><a href="myv_jr-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>но</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1, <tt><a href="myv_jr-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>но</em> (<tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 11, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1, <tt><a href="myv_jr-pos-X.html">X</a></tt> 1)
 
 
 * <em>но</em>
-  * <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 9: <em>Эрьвейкень сэредсь седеезэ Любань кис , <b>но</b> лездамс а кода те тевентень .</em>
+  * <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 11: <em>Эрьвейкень сэредсь седеезэ Любань кис , <b>но</b> лездамс а кода те тевентень .</em>
   * <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1: <em>Читькак лиснить , <b>но</b> сехте сеедьстэ — веть .</em>
   * <tt><a href="myv_jr-pos-X.html">X</a></tt> 1: <em>Сень лангсо сёрмадовксонтькак ловнызь : « Ни тебе , ни мне , <b>но</b> имени твоему » .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.019259).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.038924).
 
 The 1st highest number of forms (1) was observed with the lemma “имени”: <em>имени</em>.
 

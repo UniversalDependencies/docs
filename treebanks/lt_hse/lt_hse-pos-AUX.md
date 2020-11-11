@@ -61,9 +61,9 @@ Examples: <em>yra, būna</em>
 
 Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (42; 38% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (33; 29% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (23; 21% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="lt_hse-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (1; 1% instances),  (1; 1% instances)
 
-107 (96%) `AUX` nodes are leaves.
+108 (96%) `AUX` nodes are leaves.
 
-4 (4%) `AUX` nodes have one child.
+3 (3%) `AUX` nodes have one child.
 
 0 (0%) `AUX` nodes have two children.
 
@@ -71,7 +71,7 @@ Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="lt_hs
 
 The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 3 different relations: <tt><a href="lt_hse-dep-punct.html">punct</a></tt> (4; 57% instances), <tt><a href="lt_hse-dep-conj.html">conj</a></tt> (2; 29% instances), <tt><a href="lt_hse-dep-nsubj.html">nsubj</a></tt> (1; 14% instances)
+Children of `AUX` nodes are attached using 3 different relations: <tt><a href="lt_hse-dep-punct.html">punct</a></tt> (3; 50% instances), <tt><a href="lt_hse-dep-conj.html">conj</a></tt> (2; 33% instances), <tt><a href="lt_hse-dep-nsubj.html">nsubj</a></tt> (1; 17% instances)
 
-Children of `AUX` nodes belong to 3 different parts of speech: <tt><a href="lt_hse-pos-PUNCT.html">PUNCT</a></tt> (4; 57% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (2; 29% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (1; 14% instances)
+Children of `AUX` nodes belong to 3 different parts of speech: <tt><a href="lt_hse-pos-PUNCT.html">PUNCT</a></tt> (3; 50% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (2; 33% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (1; 17% instances)
 

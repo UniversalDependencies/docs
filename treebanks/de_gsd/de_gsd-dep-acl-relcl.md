@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 26	bgColor:blue
 # visual-style 26	fgColor:white
 # visual-style 26 37 acl:relcl	color:blue
-1	Bastian	Bastian	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+1	Bastian	Bastian	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	NamedEntity=Yes
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	jedoch	jedoch	ADV	ADV	_	5	advmod	_	_
 4	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -68,7 +68,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 23	und	und	CCONJ	KON	_	24	cc	_	_
 24	mehr	mehr	ADV	ADV	_	22	conj	_	_
 25	auf	auf	ADP	APPR	_	26	case	_	_
-26	Xayide	Xayide	PROPN	NN	Case=Acc|Gender=Masc|Number=Plur	20	obl	_	_
+26	Xayide	Xayide	PROPN	NN	Case=Acc|Gender=Masc|Number=Plur	20	obl	_	NamedEntity=Yes
 27	ein	ein	ADV	PTKVZ	_	20	compound:prt	_	SpaceAfter=No
 28	,	,	PUNCT	$,	_	37	punct	_	_
 29	die	der	PRON	PRELS	Case=Nom|Number=Plur|PronType=Rel	37	nsubj	_	_
@@ -76,7 +76,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 31	nach	nach	ADV	ADV	_	37	advmod	_	_
 32	wie	wie	ADP	KON	_	31	fixed	_	_
 33	vor	vor	ADV	ADV	_	31	fixed	_	_
-34	ihre	ihr	DET	PPOSAT	Case=Acc|Gender=Neut|Number=Plur|Poss=Yes	35	det:poss	_	_
+34	ihre	ihr	DET	PPOSAT	Case=Acc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs	35	det:poss	_	_
 35	Ziele	Ziel	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	37	obj	_	_
 36	nicht	nicht	PART	PTKNEG	Polarity=Neg	37	advmod	_	_
 37	aufgegeben	aufgeben	VERB	VVPP	VerbForm=Part	26	acl:relcl	_	_
@@ -85,7 +85,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 40	stattdessen	stattdessen	ADV	PAV	_	41	advmod	_	_
 41	versucht	versuchen	VERB	VVPP	VerbForm=Part	37	conj	_	SpaceAfter=No
 42	,	,	PUNCT	$,	_	52	punct	_	_
-43	Bastian	Bastian	PROPN	NN	Case=Acc|Gender=Masc|Number=Sing	52	obj	_	_
+43	Bastian	Bastian	PROPN	NN	Case=Acc|Gender=Masc|Number=Sing	52	obj	_	NamedEntity=Yes
 44	zu	zu	ADP	APPR	_	47	case	_	_
 45	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	47	det	_	_
 46	albernen	albern	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	47	amod	_	_
@@ -98,7 +98,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 53	,	,	PUNCT	$,	_	59	punct	_	_
 54	um	um	ADP	KOUI	_	59	mark	_	_
 55	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	59	iobj	_	_
-56	seine	sein	DET	PPOSAT	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes	57	det:poss	_	_
+56	seine	sein	DET	PPOSAT	Case=Acc|Gender=Fem|Gender[psor]=Masc,Neut|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	57	det:poss	_	_
 57	Erinnerungen	Erinnerung	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	59	obj	_	_
 58	zu	zu	PART	PTKZU	_	59	mark	_	_
 59	stehlen	stehlen	VERB	VVINF	VerbForm=Inf	52	advcl	_	SpaceAfter=No

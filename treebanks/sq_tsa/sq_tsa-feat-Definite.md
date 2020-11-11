@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sq_tsa-pos-NOUN.htm
 
 ### `NOUN`
 
-235 <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Definite`.
+235 <tt><a href="sq_tsa-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="sq_tsa-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (205; 87%), <tt><a href="sq_tsa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (159; 68%), <tt><a href="sq_tsa-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (140; 60%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 * `Def` (161; 69% of non-empty `Definite`): <em>Dashuria, Evolucioni, Ishulli, dramaturgu, drejtimet, kohës, marrëdhënieve, njeriut, njerëzit, politikat</em>
 * `Ind` (74; 31% of non-empty `Definite`): <em>mënyrë, njerëz, shoqëri, shtete, vend, Karakteristikë, administrim, anë, anëtarë, armë</em>
-* `EMPTY` (4): <em>botëkuptim, ekziston, etj, lloj</em>
+* `EMPTY` (3): <em>botëkuptim, etj, lloj</em>
 
 <table>
   <tr><th>Paradigm <i>njeri</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>

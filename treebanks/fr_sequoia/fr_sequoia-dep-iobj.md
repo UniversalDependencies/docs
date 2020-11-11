@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 9 iobj	color:blue
-1	D'	de	ADP	_	_	5	advmod	_	EXTPOS=ADV|MWE=d'abord|SpaceAfter=No
+1	D'	de	ADP	_	_	5	advmod	_	ExtPos=ADV|SpaceAfter=No
 2	abord	abord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_

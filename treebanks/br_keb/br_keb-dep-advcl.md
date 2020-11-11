@@ -23,10 +23,10 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 6 advcl	color:blue
 1	C’hwitellat	c’hwitellat	VERB	vblex	VerbForm=Inf	0	root	_	_
-2	a	a	PART	vpart	_	1	aux	_	_
-3	ra	ober	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
-4	en	en	X	x	_	5	dep	_	_
-5	ur	ur	PART	vpart	_	6	aux	_	_
+2	a	a	AUX	vpart	_	1	aux	_	_
+3	ra	ober	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
+4	en	en	AUX	vpart	_	6	aux	_	_
+5	ur	ur	X	x	_	4	fixed	_	_
 6	labourat	labourat	VERB	vblex	VerbForm=Inf	1	advcl	_	SpaceAfter=No
 7	.	.	PUNCT	sent	_	1	punct	_	_
 
@@ -60,12 +60,12 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 5 8 advcl	color:blue
 1	Ar	an	DET	det	_	2	det	_	_
 2	c'harotez	karotez	NOUN	n	Gender=Fem|Number=Plur	5	nsubj	_	_
-3	a	a	PART	vpart	_	5	aux	_	_
-4	zle	dleout	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	a	a	AUX	vpart	_	5	aux	_	_
+4	zle	dleout	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	dont	dont	VERB	vblex	VerbForm=Inf	0	root	_	_
 6	da	da	ADP	pr	_	8	mark	_	_
-7	vezañ	bezañ	VERB	vblex	VerbForm=Inf	8	cop	_	_
-8	tener-kenañ	tener	ADJ	adj	_	5	advcl	_	_
+7	vezañ	bezañ	AUX	vblex	VerbForm=Inf	8	cop	_	_
+8	tener	tener	ADJ	adj	_	5	advcl	_	_
 9	-kenañ	kenañ	ADV	adv	_	8	advmod	_	_
 10	.	.	PUNCT	sent	_	5	punct	_	_
 

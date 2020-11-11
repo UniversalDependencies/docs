@@ -24,7 +24,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3 4 punct	color:blue
 1	내	내	ADJ	mma	_	2	amod	_	_
 2	고향은	고향+은	NOUN	ncn+jxt	_	3	dislocated	_	_
-3	서울입니다	서울+이+ㅂ니다	VERB	nq+jp+ef	_	0	root	_	_
+3	서울입니다	서울+이+ㅂ니다	VERB	nq+jp+ef	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	sf	_	3	punct	_	_
 
 ~~~
@@ -37,11 +37,11 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 3 punct	color:blue
 1	한인은	한인+은	NOUN	ncn+jxt	_	17	dislocated	_	_
-2	성냥	성냥	NOUN	ncn	_	9	dep	_	_
+2	성냥	성냥	NOUN	ncn	_	9	dep	_	SpaceAfter=No
 3	,	,	PUNCT	sp	_	2	punct	_	_
-4	연필	연필	NOUN	ncn	_	2	conj	_	_
+4	연필	연필	NOUN	ncn	_	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
-6	공책	공책	NOUN	ncn	_	2	conj	_	_
+6	공책	공책	NOUN	ncn	_	2	conj	_	SpaceAfter=No
 7	,	,	PUNCT	sp	_	6	punct	_	_
 8	비누	비누	NOUN	ncn	_	2	conj	_	_
 9	같은	같+ㄴ	ADJ	paa+etm	_	10	amod	_	_
@@ -53,7 +53,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 15	빼앗아	빼앗+아	SCONJ	pvg+ecs	_	17	ccomp	_	_
 16	간도로	간도+로	ADV	nq+jca	_	17	advcl	_	_
 17	밀려나가게	밀리+어+나+아+가+게	AUX	pvg+ecx+px+ecx+px+ecx	_	13	conj	_	_
-18	되었다	되+었+다	AUX	px+ep+ef	_	17	aux	_	_
+18	되었다	되+었+다	AUX	px+ep+ef	_	17	aux	_	SpaceAfter=No
 19	.	.	PUNCT	sf	_	18	punct	_	_
 
 ~~~
@@ -78,7 +78,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 11	박문사라는	박문사+이+라는	VERB	nq+jp+etm	_	12	acl	_	_
 12	현판이	현판+이	NOUN	ncn+jcs	_	13	nsubj	_	_
 13	달려	달리+어	VERB	pvg+ecx	_	6	conj	_	_
-14	있었습니다	있+었+습니다	AUX	px+ep+ef	_	13	aux	_	_
+14	있었습니다	있+었+습니다	AUX	px+ep+ef	_	13	aux	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
 
 ~~~

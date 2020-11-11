@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Trond Trosterud, Lene Antonsen, Francis Tyers.
 
 Repository: [UD_North_Sami-Giella](https://github.com/UniversalDependencies/UD_North_Sami-Giella)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsme_giella26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsme_giella27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -134,11 +134,11 @@ year = 2017
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): leat</li>
+<li>This corpus contains 24 lemmas tagged as auxiliaries (AUX): beassat, berret, boahtit, bállet, dáidit, fertet, galgat, gillet, gártat, háliidit, ii, leat, lávet, máhttit, nagodit, orrut, sihtat, soaitit, sáhttit, veadjit, viggat, áigut, álgit, šaddat</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: leat</li>
+<li>Out of the above, 19 lemmas occurred sometimes as AUX and sometimes as VERB: beassat, boahtit, dáidit, fertet, galgat, gillet, gártat, háliidit, leat, lávet, máhttit, orrut, sihtat, sáhttit, veadjit, viggat, áigut, álgit, šaddat</li>
 </ul>
 
 <ul>
@@ -148,8 +148,8 @@ year = 2017
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: lea, leat, lei, ledje, lean, livččii, leaba, leago, livčče, leage</li>
-    <li>VERB: lea, leat, ii, lei, ledje, eai, lean, galgá, sáhttá, in</li>
+    <li>AUX: lea, leat, ii, lei, eai, ledje, galgá, lean, sáhttá, in</li>
+    <li>VERB: lea, leat, lei, ledje, bođii, boahtá, manai, dieđe, lohká, lean</li>
   </ul>
   </li>
 </ul>
@@ -157,7 +157,7 @@ year = 2017
 <ul>
   <li>Ger
   <ul>
-    <li>AUX: leamen</li>
+    <li>AUX: leamen, áigume, áigumin</li>
     <li>VERB: beroškeahttá, boahtimin, manadettiin, orodettiin, ráhkadettiin, vácci, fárremin, leamen, čierastallame, čuoigga</li>
   </ul>
   </li>
@@ -166,7 +166,7 @@ year = 2017
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: leat, leahkit</li>
+    <li>AUX: leat, beassat, sáhttit, leahkit, máhttit, álgit</li>
     <li>VERB: leat, vuolgit, boahtit, bargat, mannat, geahččat, oastit, oažžut, dahkat, ráhkadit</li>
   </ul>
   </li>
@@ -175,7 +175,7 @@ year = 2017
 <ul>
   <li>Part
   <ul>
-    <li>AUX: leamaš, leamašan</li>
+    <li>AUX: leamaš, beassan, berren, gártan, leamašan, sáhttán</li>
     <li>VERB: oaidnán, ožžon, boahtán, leamaš, mannan, oahppan, čállán, bargan, dahkan, váldán</li>
   </ul>
   </li>
@@ -184,7 +184,8 @@ year = 2017
 <ul>
   <li>Sup
   <ul>
-    <li>VERB: amadet, amas, vuoššažit, amaset, amat</li>
+    <li>AUX: amadet, amas, amaset, amat</li>
+    <li>VERB: vuoššažit</li>
   </ul>
   </li>
 </ul>
@@ -201,9 +202,9 @@ year = 2017
 <ul>
   <li>Dual
     <ul>
-      <li>AUX-Fin: leaba, leahppi, leigga</li>
+      <li>AUX-Fin: leaba, leahppi, eaba, ean, fertebeahtti, letne, leigga, eahppi, ferteba, fertiiga</li>
       <li>PRON: soai, moai, doai, munno, dudno, sudno, sudnos, ieža, dudnos, munnos</li>
-      <li>VERB-Fin: leaba, leahppi, eaba, ean, boahtiba, fertebeahtti, letne, attiiga, leigga, lohkaba</li>
+      <li>VERB-Fin: boahtiba, attiiga, leaba, lohkaba, vácciiga, Boahtti, Gárvodeahkku, Leahppi, Manni, bohte</li>
     </ul>
   </li>
 </ul>
@@ -212,13 +213,13 @@ year = 2017
   <li>Plur
     <ul>
       <li>ADJ: buorit, čeahpit, duhtavaččat, stuorrát, buriid, viššalat, bivnnuhat, boarrásepmosat, buoremusaid, dehálaččat</li>
-      <li>AUX-Fin: leat, ledje, livčče, leimmet, lehpet, Leatgo, Ledjego, Lehket, leiddet</li>
+      <li>AUX-Fin: leat, eai, ledje, eat, galget, lehpet, sáhttet, fertejit, sáhtte, eaige</li>
+      <li>AUX-Sup: amadet, amaset</li>
       <li>NOUN: olbmot, mánát, mánáid, oahppit, olbmuid, nieiddat, sápmelaččat, biktasiid, sámiid, sámit</li>
       <li>NUM: Galliid, golmmain, guovttit, Galliin, Gallit, golmmaide, golmmaiguin, guvttiid, njealjit, ovttaid</li>
       <li>PRON: mii, sii, min, sin, daid, geat, dii, dat, mat, mis</li>
       <li>PROPN: Sámi_Jienat, Davviriikkaid</li>
-      <li>VERB-Fin: leat, ledje, eai, eat, galget, bohte, sáhttet, lehpet, ožžot, orro</li>
-      <li>VERB-Sup: amadet, amaset</li>
+      <li>VERB-Fin: leat, ledje, bohte, ožžot, bidjat, orro, bohtet, manne, šaddet, vulget</li>
     </ul>
   </li>
 </ul>
@@ -227,13 +228,13 @@ year = 2017
   <li>Sing
     <ul>
       <li>ADJ: buorre, váttis, nuppi, vejolaš, veara, boaris, dehálaš, suohtas, buori, divrras</li>
-      <li>AUX-Fin: lea, lei, leat, livččii, leago, lean, leage, leai, leažžá, ledjen</li>
+      <li>AUX-Fin: lea, ii, lei, galgá, sáhttá, in, lean, leat, áiggun, it</li>
+      <li>AUX-Sup: amas, amat</li>
       <li>NOUN: sámi, jagi, sámegiela, eadni, beaivvi, gánda, oahpaheaddji, olmmoš, stállu, olbmo</li>
       <li>NUM: guokte, golbma, ovtta, okta, moadde, máŋga, golmma, vihtta, guovtti, máŋgga</li>
       <li>PRON: son, mun, dan, dat, dán, mu, don, mii, maid, su</li>
       <li>PROPN: Gállá, Liná, Norgga, Kárášjogas, Máret, Finnmárkku, Guovdageainnus, Máhtte, Sámi, Kárášjoga</li>
-      <li>VERB-Fin: lea, ii, lei, galgá, sáhttá, in, bođii, lean, boahtá, manai</li>
-      <li>VERB-Sup: amas, amat</li>
+      <li>VERB-Fin: lea, lei, bođii, boahtá, manai, lohká, šattai, šaddá, oidnen, manná</li>
     </ul>
   </li>
 </ul>
@@ -278,7 +279,7 @@ year = 2017
   <li>Ess
     <ul>
       <li>ADJ: duhtavažžan, nubbin, seavdnjadin, nuorran, ruoksadin, bassin, bivnnuhin, boarisin, buhtisin, buhtismeahttumin</li>
-      <li>AUX-Ger: leamen</li>
+      <li>AUX-Ger: leamen, áigume, áigumin</li>
       <li>NOUN: oahpaheaddjin, lassin, veahkkin, ovdamearkan, vuođđun, buohccedivššárin, nuorran, Eurohpameašttirin, bassin, buohccin</li>
       <li>NUM: guoktin, oktan</li>
       <li>PRON: danin, dákkárin, iehčaneame</li>
@@ -372,8 +373,8 @@ year = 2017
 <ul>
   <li>Neg
     <ul>
-      <li>VERB-Fin: ii, eai, in, eat, it, ale, eaba, iige, eaige, ean</li>
-      <li>VERB-Sup: amadet, amas, amaset, amat</li>
+      <li>AUX-Fin: ii, eai, in, eat, it, ale, eaba, iige, eaige, ean</li>
+      <li>AUX-Sup: amadet, amas, amaset, amat</li>
     </ul>
   </li>
 </ul>
@@ -389,7 +390,7 @@ year = 2017
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Part: leamaš, leamašan</li>
+      <li>AUX-Part: leamaš, beassan, berren, gártan, leamašan, sáhttán</li>
       <li>VERB-Part: oaidnán, ožžon, boahtán, leamaš, mannan, oahppan, čállán, bargan, dahkan, váldán</li>
     </ul>
   </li>
@@ -402,8 +403,8 @@ year = 2017
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX-Fin: livččii, livčče, livččet</li>
-      <li>VERB-Fin: livčče, galggaše, galggašii, livččii, sáhtášii, berrešii, boađášii, livččen, áiggošin, Dieđálin</li>
+      <li>AUX-Fin: livččii, livčče, galggaše, galggašii, sáhtášii, berrešii, livččen, áiggošin, Sáhtášeidde, Sáhtášeigga</li>
+      <li>VERB-Fin: boađášii, livččii, Dieđálin, Gillešeiddet, Gorošii, adnojuvvošii, barggašeimme, barggašii, bisošedje, boađáše</li>
     </ul>
   </li>
 </ul>
@@ -411,8 +412,8 @@ year = 2017
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: Leage, Lehket</li>
-      <li>VERB-Fin: ale, boađe, mana, váldde, bija, allet, geahča, Gula, Oahpa, Addet</li>
+      <li>AUX-Fin: ale, allet, Leage, Lehket</li>
+      <li>VERB-Fin: boađe, mana, váldde, bija, geahča, Gula, Oahpa, Addet, Atte, Bidjet</li>
     </ul>
   </li>
 </ul>
@@ -420,8 +421,8 @@ year = 2017
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: lea, leat, lei, ledje, lean, leaba, leago, leahppi, leimmet, leage</li>
-      <li>VERB-Fin: lea, leat, ii, lei, ledje, eai, lean, galgá, sáhttá, in</li>
+      <li>AUX-Fin: lea, leat, ii, lei, eai, ledje, galgá, lean, sáhttá, in</li>
+      <li>VERB-Fin: lea, leat, lei, ledje, bođii, boahtá, manai, lohká, dieđe, lean</li>
     </ul>
   </li>
 </ul>
@@ -429,8 +430,8 @@ year = 2017
 <ul>
   <li>Pot
     <ul>
-      <li>AUX-Fin: leažžá</li>
-      <li>VERB-Fin: leažžá, leaččan, bođeža, bođežit, Bođežehpet, bođežeaba, dagažit, eležat, leažžat, ležže</li>
+      <li>AUX-Fin: leažžá, leaččan, sáhtežan, Leaččat, leažžat, ležže, sáhtežetne, sáhtežit</li>
+      <li>VERB-Fin: bođeža, leažžá, bođežit, Bođežehpet, Leaččan, bođežeaba, dagažit, eležat, Boraža, Boražeaba</li>
     </ul>
   </li>
 </ul>
@@ -442,8 +443,8 @@ year = 2017
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: lei, ledje, lean, leimmet, leai, ledjen, leigga, Ledjego, leiddet</li>
-      <li>VERB-Fin: lei, ledje, bođii, manai, šattai, lean, bohte, oidnen, galggai, oinnii</li>
+      <li>AUX-Fin: lei, ledje, galggai, lean, fertii, ledjen, sáhtte, gillen, leimmet, lávejedje</li>
+      <li>VERB-Fin: lei, ledje, bođii, manai, šattai, lean, bohte, oidnen, oinnii, válddii</li>
     </ul>
   </li>
 </ul>
@@ -451,8 +452,8 @@ year = 2017
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: lea, leat, livččii, leaba, leago, lean, livčče, leahppi, leage, leažžá</li>
-      <li>VERB-Fin: lea, leat, galgá, sáhttá, lean, boahtá, lohká, dieđe, galget, áiggun</li>
+      <li>AUX-Fin: lea, leat, galgá, sáhttá, lean, galget, áiggun, leaba, ferte, lehpet</li>
+      <li>VERB-Fin: lea, leat, boahtá, lohká, dieđe, šaddá, ožžot, manná, oažžu, bidjat</li>
       <li>VERB-Part: orru, dábuhahtti, gođđi, johtti, Leahkki, buolli, ealli, fátmmasteaddji, juolludeaddji, vahágahtti</li>
     </ul>
   </li>
@@ -568,9 +569,9 @@ year = 2017
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: lean, leat, leimmet, ledjen</li>
+      <li>AUX-Fin: in, lean, eat, áiggun, leat, ledjen, ean, ferten, fertet, leimmet</li>
       <li>PRON: mun, mii, mu, min, moai, munnje, mus, mis, mon, midjiide</li>
-      <li>VERB-Fin: in, lean, eat, áiggun, leat, oidnen, ledjen, bidjat, ean, muittán</li>
+      <li>VERB-Fin: oidnen, bidjat, muittán, oainnán, attán, lean, orun, boađán, vuolggán, čállen</li>
     </ul>
   </li>
 </ul>
@@ -578,10 +579,10 @@ year = 2017
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: leat, leahppi, lehpet, Leage, Lehket, leiddet, livččet</li>
+      <li>AUX-Fin: leat, it, lehpet, ale, leahppi, fertet, galggat, sáhtát, allet, fertebeahtti</li>
+      <li>AUX-Sup: amadet, amat</li>
       <li>PRON: don, dii, du, dus, doai, din, dutnje, dis, dudno, dudnos</li>
-      <li>VERB-Fin: it, ale, lehpet, leat, leahppi, boađe, galggat, váldde, fertet, boađát</li>
-      <li>VERB-Sup: amadet, amat</li>
+      <li>VERB-Fin: boađe, váldde, dovddat, mana, Bija, boađát, manat, oaččut, Gula, Máhtát</li>
     </ul>
   </li>
 </ul>
@@ -589,10 +590,10 @@ year = 2017
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: lea, lei, leat, ledje, livččii, leaba, leago, livčče, leage, leai</li>
+      <li>AUX-Fin: lea, ii, leat, lei, eai, ledje, galgá, sáhttá, galget, leaba</li>
+      <li>AUX-Sup: amas, amaset</li>
       <li>PRON: son, sii, su, soai, sin, sis, sus, sutnje, sidjiide, sudno</li>
-      <li>VERB-Fin: lea, ii, leat, lei, ledje, eai, galgá, sáhttá, bođii, boahtá</li>
-      <li>VERB-Sup: amas, amaset</li>
+      <li>VERB-Fin: lea, leat, lei, ledje, bođii, boahtá, manai, lohká, šattai, bohte</li>
     </ul>
   </li>
 </ul>
@@ -643,8 +644,8 @@ year = 2017
     <ul>
       <li>Yes
         <ul>
-          <li>AUX-Fin: leat, lean, leatge</li>
-          <li>VERB-Fin: leat, dieđe, lean, sáhte, boađe, beasa, diehtán, daga, galgga, gillen</li>
+          <li>AUX-Fin: leat, sáhte, lean, galgga, gillen, sáhttán, nagot, galggaše, háliit, hálit</li>
+          <li>VERB-Fin: leat, dieđe, lean, boađe, beasa, diehtán, daga, oaččo, dovdda, liikon</li>
         </ul>
       </li>
     </ul>
@@ -699,8 +700,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Gen (44)</li>
-      <li>VERB-Fin--NOUN-Nom (1055)</li>
-      <li>VERB-Fin--PRON-Nom (812)</li>
+      <li>VERB-Fin--NOUN-Nom (1053)</li>
+      <li>VERB-Fin--PRON-Nom (811)</li>
       <li>VERB-Ger--NOUN-Acc (5)</li>
       <li>VERB-Ger--NOUN-Gen (2)</li>
       <li>VERB-Ger--NOUN-Nom (16)</li>

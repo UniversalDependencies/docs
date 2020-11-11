@@ -31,7 +31,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	selv	selv	DET	_	PronType=Prs	5	det	_	_
 7	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	underskrevet	underskrive	VERB	_	VerbForm=Part	1	advcl	_	_
-9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	obj	_	_
+9	dommen	dom	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
 10	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	kunne	kunne	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	_
 3	ha	ha	AUX	_	VerbForm=Inf	5	aux	_	_
 4	vært	være	AUX	_	VerbForm=Part	5	cop	_	_
-5	bedre	god	ADJ	_	Degree=Cmp	0	root	_	_
+5	bedre	god	ADJ	_	Degree=Cmp	0	root	_	SpaceAfter=No
 6	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -68,7 +68,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	blandet	blande	ADJ	_	Definite=Ind|Number=Sing|VerbForm=Part	8	amod	_	_
 8	følelse	følelse	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 9	for	for	ADP	_	_	10	case	_	_
-10	Høyre	Høyre	PROPN	_	_	8	obl	_	_
+10	Høyre	Høyre	PROPN	_	_	8	obl	_	SpaceAfter=No
 11	.	$.	PUNCT	_	_	8	punct	_	_
 
 ~~~

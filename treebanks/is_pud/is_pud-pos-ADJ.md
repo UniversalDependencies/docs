@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>meira</em> (<tt><a href="is_pud-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.496350 (the average of all parts of speech is 1.365617).
+The form / lemma ratio of `ADJ` is 1.496350 (the average of all parts of speech is 1.365967).
 
 The 1st highest number of forms (13) was observed with the lemma “mikill”: <em>meira, meiri, mesta, mestu, mikil, mikill, mikillar, mikils, mikinn, mikið, mikla, miklar, miklu</em>.
 

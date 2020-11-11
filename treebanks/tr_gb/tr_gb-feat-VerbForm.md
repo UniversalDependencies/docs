@@ -9,23 +9,24 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Part`, `Vnoun`.
 
-3588 tokens (21%) have a non-empty value of `VerbForm`.
-2111 types (42%) occur at least once with a non-empty value of `VerbForm`.
-475 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (3036; 18% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (552; 3% instances).
+3611 tokens (21%) have a non-empty value of `VerbForm`.
+2123 types (42%) occur at least once with a non-empty value of `VerbForm`.
+477 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (3058; 18% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (553; 3% instances).
 
 ### `VERB`
 
-3036 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+3058 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2722; 90%), <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2683; 88%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2683; 88%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (2665; 88%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2562; 84%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2547; 84%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2086; 69%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1810; 60%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2741; 90%), <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2697; 88%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2697; 88%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (2682; 88%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2581; 84%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2560; 84%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2097; 69%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1821; 60%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Conv` (94; 3% of non-empty `VerbForm`): <em>gelince, gidip, öleli, oturup, alalı, alıp, ağlaya, başlayınca, bilip, bulup</em>
-* `Fin` (2274; 75% of non-empty `VerbForm`): <em>geldi, görmüş, istiyor, söyledi, çalışıyor, gerekiyor, gidiyor, ediyorum, gitti, gitmiş</em>
-* `Part` (341; 11% of non-empty `VerbForm`): <em>geçen, yaptığı, çaldığını, ettiğimiz, geldiği, oynayan, sevdiği, bildiğim, ettiğin, gördüğünüz</em>
-* `Vnoun` (327; 11% of non-empty `VerbForm`): <em>gitmek, görmek, almak, yapmamız, çıkmak, almamız, gelmek, gelmesi, girmeyi, gitmeniz</em>
+* `Conv` (96; 3% of non-empty `VerbForm`): <em>gelince, gidip, öleli, oturup, alalı, alıp, ağlaya, başlayınca, bilip, bulup</em>
+* `Fin` (2283; 75% of non-empty `VerbForm`): <em>geldi, gerekiyor, görmüş, istiyor, söyledi, çalışıyor, ediyorum, gidiyor, gitti, gitmiş</em>
+* `Part` (350; 11% of non-empty `VerbForm`): <em>geçen, yaptığı, geldiği, çaldığını, ettiğimiz, oynayan, sevdiği, bildiğim, ettiğin, gördüğünüz</em>
+* `Vnoun` (329; 11% of non-empty `VerbForm`): <em>gitmek, gitmeniz, görmek, almak, yapmamız, çıkmak, almamız, gelmek, gelmesi, girmeyi</em>
+* `EMPTY` (28): <em>aldı, bayılıyor, getirdiler, pişiriyoruz, sanıyor, Yaparım, aradı, dolaşıyor, duruyor, duruyordu</em>
 
 <table>
   <tr><th>Paradigm <i>git</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th><th><tt>Vnoun</tt></th></tr>
@@ -119,17 +120,17 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-552 <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+553 <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> tokens (72% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (548; 99%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (476; 86%), <tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (423; 77%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (418; 76%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (365; 66%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (319; 58%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (548; 99%), <tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (423; 76%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (418; 76%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (365; 66%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (318; 58%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Conv` (20; 4% of non-empty `VerbForm`): <em>olarak, yken, ken</em>
 * `Fin` (435; 79% of non-empty `VerbForm`): <em>değil, dı, oldu, olacak, mış, miş, ydı, dır, tı, ydi</em>
-* `Part` (85; 15% of non-empty `VerbForm`): <em>olan, olduğunu, olduğu, olacağı, olmayan, olacağım, olacağımızı, olduktan, olduğuna, olmadığın</em>
+* `Part` (86; 16% of non-empty `VerbForm`): <em>olan, olduğunu, olduğu, olacağı, olacağım, olmayan, olacağımızı, olduktan, olduğuna, olmadığın</em>
 * `Vnoun` (12; 2% of non-empty `VerbForm`): <em>olmak, olması, olmamız, olma, olmamalarına, olmasına, olmasını</em>
-* `EMPTY` (199): <em>mi, mı, mu, musun, mü, değil, misiniz, misin, miyiz, dır</em>
+* `EMPTY` (211): <em>mi, mı, mu, musun, mü, değil, misiniz, misin, miyiz, dır</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th><th><tt>Vnoun</tt></th></tr>
@@ -150,6 +151,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>olmayız</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>oluruz</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>olurlardı</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>olacak</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>olmuştur</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>olmuş</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>olmuşlar</em></td><td></td><td></td><td></td></tr>
@@ -231,8 +233,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="tr_gb-dep-aux.html">aux</a></tt>]--> AUX</tt> (78; 64%),
-<tt>VERB --[<tt><a href="tr_gb-dep-conj.html">conj</a></tt>]--> VERB</tt> (60; 94%),
-<tt>VERB --[<tt><a href="tr_gb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (27; 100%),
-<tt>VERB --[<tt><a href="tr_gb-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (7; 88%),
-<tt>VERB --[<tt><a href="tr_gb-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (2; 100%).
+<tt>VERB --[<tt><a href="tr_gb-dep-conj.html">conj</a></tt>]--> VERB</tt> (62; 94%),
+<tt>VERB --[<tt><a href="tr_gb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (26; 100%),
+<tt>VERB --[<tt><a href="tr_gb-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (7; 88%).
 

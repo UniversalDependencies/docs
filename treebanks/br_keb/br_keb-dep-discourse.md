@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	Bro	bro	NOUN	n	Gender=Fem|Number=Sing	2	appos	_	SpaceAfter=No
 6	,	,	PUNCT	cm	_	5	punct	_	_
 7	me	prpers	PRON	prn	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-8	'	a	PART	vpart	_	9	aux	_	SpaceAfter=No
+8	'	a	AUX	vpart	_	9	aux	_	SpaceAfter=No
 9	gar	karout	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	ma	ma	DET	det	Poss=Yes	11	det	_	_
 11	Bro	bro	NOUN	n	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No

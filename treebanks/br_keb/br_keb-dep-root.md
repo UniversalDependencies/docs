@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
 1	N'	ne	ADV	adv	Polarity=Neg	4	advmod	_	SpaceAfter=No
-2	int	bezañ	VERB	vblex	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	int	bezañ	AUX	vblex	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	ket	ket	ADV	adv	_	4	advmod	_	_
 4	aet	mont	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 5	war-raok	war-raok	ADV	adv	_	4	advmod	_	SpaceAfter=No
@@ -39,9 +39,9 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
 1	Poent	poent	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
-2	eo	bezañ	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
-3	din	da	ADP	pr	_	4	case	_	_
-4	_	indirect	PRON	prn	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obl	_	_
+2	eo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	d	da	ADP	pr	_	4	case	_	_
+4	in	indirect	PRON	prn	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obl	_	_
 5	mont	mont	VERB	vblex	VerbForm=Inf	1	csubj	_	SpaceAfter=No
 6	.	.	PUNCT	sent	_	1	punct	_	_
 
@@ -55,8 +55,8 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
 1	Dav	dav	ADJ	adj	_	0	root	_	_
-2	e	e	PART	vpart	_	1	aux	_	_
-3	vije	bezañ	VERB	vblex	Number=Sing|Person=3	1	cop	_	SpaceAfter=No
+2	e	e	AUX	vpart	_	1	aux	_	_
+3	vije	bezañ	AUX	vblex	Number=Sing|Person=3	1	cop	_	SpaceAfter=No
 4	.	.	PUNCT	sent	_	1	punct	_	_
 
 ~~~

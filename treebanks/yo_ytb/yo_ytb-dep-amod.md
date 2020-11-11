@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-114 nodes (1%) are attached to their parents as `amod`.
+112 nodes (1%) are attached to their parents as `amod`.
 
-87 instances of `amod` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.67543859649123.
+85 instances of `amod` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.625.
 
-The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (75; 66% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (12; 11% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (12; 11% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (9; 8% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (75; 67% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (11; 10% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (11; 10% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (9; 8% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

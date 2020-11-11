@@ -35,7 +35,7 @@ The following 51 pairs of parts of speech are connected with `acl`: <tt><a href=
 11	종소리가	종소리+가	NOUN	ncn+jcs	_	14	nsubj	_	_
 12	어디서나	어디+서나	ADV	npd+jxc	_	14	advcl	_	_
 13	다	다	ADV	mag	_	14	advmod	_	_
-14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	_
+14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
 
 ~~~
@@ -58,7 +58,7 @@ The following 51 pairs of parts of speech are connected with `acl`: <tt><a href=
 9	피해와	피해+와	CCONJ	ncn+jcj	_	12	obj	_	_
 10	재산	재산	NOUN	ncn	_	11	compound	_	_
 11	피해를	피해+를	NOUN	ncn+jco	_	9	conj	_	_
-12	입었습니다	입+었+습니다	VERB	pvg+ep+ef	_	0	root	_	_
+12	입었습니다	입+었+습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	sf	_	12	punct	_	_
 
 ~~~
@@ -86,7 +86,7 @@ The following 51 pairs of parts of speech are connected with `acl`: <tt><a href=
 14	때	때	NOUN	ncn	_	16	compound	_	_
 15	그	그	DET	mmd	_	16	det	_	_
 16	서울이	서울+이	PROPN	nq+jcs	_	17	nsubj	_	_
-17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	_
+17	그립습니다	그립+습니다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	sf	_	17	punct	_	_
 
 ~~~

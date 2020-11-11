@@ -53,7 +53,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 7	increíble	_	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
 8	y	_	CCONJ	CC	_	9	cc	_	_
 9	espero	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
-10	que	_	ADP	IN	_	13	mark	_	_
+10	que	_	SCONJ	IN	_	13	mark	_	_
 11	seamos	_	AUX	VBC	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
 12	todavía	_	ADV	RB	_	13	advmod	_	_
 13	mejores	_	ADJ	JJR	Degree=Cmp|Number=Plur	9	ccomp	_	_
@@ -75,7 +75,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 3	a	_	ADP	IN	_	5	case	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	ligera	_	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
-6	que	_	ADP	IN	_	9	mark	_	_
+6	que	_	SCONJ	IN	_	9	mark	_	_
 7	es	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
 8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	bestia	_	NOUN	NN	Gender=Fem|Number=Sing	2	ccomp	_	SpaceAfter=No

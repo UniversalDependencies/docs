@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1409 nodes (11%) are attached to their parents as `amod`.
+19579 nodes (7%) are attached to their parents as `amod`.
 
-1399 instances of `amod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3846699787083.
+19044 instances of `amod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22044026763369.
 
-The following 12 pairs of parts of speech are connected with `amod`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1347; 96% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (19; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 36 pairs of parts of speech are connected with `amod`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (18082; 92% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (498; 3% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (317; 2% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (169; 1% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (147; 1% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (108; 1% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (63; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (62; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (36; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (29; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (17; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,43 +34,41 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 9 amod	color:blue
-1	На	на	ADP	IN	_	3	case	_	_
-2	шэра-карычневай	Шэра-карычневая	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
-3	паверхні	паверхня	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	obl	_	_
-4	вады	вада	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
-5	скрозь	скрозь	ADV	VBC	Degree=Pos	6	advmod	_	_
-6	вытыркаліся	вытыркацца	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
-7	травяністыя	травяністы	ADJ	NNP	Animacy=Inan|Case=Nom|Degree=Pos|Number=Plur	14	amod	_	SpaceAfter=No
-8	,	,	PUNCT	PUNCT	_	9	punct	_	_
-9	злепленыя	зляпіць	VERB	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	14	amod	_	_
-10	з	з	ADP	IN	_	11	case	_	_
-11	гразі	гразь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
-12	і	і	CCONJ	CC	_	13	cc	_	_
-13	галінак	галінка	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	conj	_	_
-14	астраўкі	астравок	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	SpaceAfter=No
-15	.	.	PUNCT	PUNCT	_	6	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 amod	color:blue
+1	<strong>	<strong>	SYM	SYM	_	3	dep	_	SpaceAfter=No
+2	Новы	новы	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	Мінск	Мінск	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	(	(	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+5	1954	1954	ADJ	ORD	_	3	parataxis	_	SpaceAfter=No
+6	;	;	PUNCT	PUNCT	_	5	punct	_	_
+7	рэжысёр	рэжысёр	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+8	–	–	PUNCT	PUNCT	_	9	punct	_	_
+9	Іосіф	Іосіф	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	list	_	_
+10	Шульман	Шульман	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	flat:name	_	SpaceAfter=No
+11	)	)	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+12	</strong>	</strong>	SYM	SYM	_	3	dep	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 amod	color:blue
-1	Паўднёвая	паўднёвы	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
-2	Карэя	Карэя	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-3	хоча	хацець	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	інвеставаць	інвеставаць	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	_
-5	у	у	ADP	IN	_	7	case	_	_
-6	беларускую	беларускі	ADJ	JJL	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
-7	эканоміку	эканоміка	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 amod	color:blue
+1	«	«	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
+2	Ноч	ноч	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+3	расстраляных	расстраляць	VERB	VBNL	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
+4	паэтаў	паэт	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
+5	»	»	PUNCT	PUNCT	_	2	punct	_	_
+6	у	у	ADP	IN	_	7	case	_	_
+7	Курапатах	Курапаты	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

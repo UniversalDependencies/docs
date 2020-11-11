@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 # visual-style 12	fgColor:white
 # visual-style 12 7 obl:arg	color:blue
 1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	dep	_	FixTigerDep=Yes
-2	FDP	FDP	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+2	FDP	FDP	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	NamedEntity=Yes
 3	werde	werden	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 4	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	obj	_	_
 5	an	an	ADP	APPR	_	7	case	_	_

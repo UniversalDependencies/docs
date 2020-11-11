@@ -23,19 +23,19 @@ The following 15 pairs of parts of speech are connected with `nmod:tmod`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 nmod:tmod	color:blue
-1	Also	also	ADV	RB	_	2	advmod	_	_
+1	Also	also	ADV	RB	_	2	advmod	_	Discourse=elaboration:45->44
 2	known	know	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 3	as	as	ADP	IN	_	5	case	_	_
-4	shah	shah	PROPN	NNP	Number=Sing	5	compound	_	Entity=(place-72(person-73)
-5	square	square	PROPN	NNP	Number=Sing	2	obl	_	Entity=place-72)
+4	shah	shah	PROPN	NNP	Number=Sing	5	compound	_	Entity=(place-69(person-70)
+5	square	square	PROPN	NNP	Number=Sing	2	obl	_	Entity=place-69)
 6	or	or	CCONJ	CC	_	8	cc	_	_
-7	imam	imam	PROPN	NNP	Number=Sing	8	compound	_	Entity=(place-72(person-74)
-8	square	square	PROPN	NNP	Number=Sing	5	conj	_	Entity=place-72)
+7	imam	imam	PROPN	NNP	Number=Sing	8	compound	_	Entity=(place-69(person-71)
+8	square	square	PROPN	NNP	Number=Sing	5	conj	_	Entity=place-69)
 9	-	-	PUNCT	:	_	10	punct	_	_
-10	1602	1602	NUM	CD	NumType=Card	8	nmod:tmod	_	Entity=(time-75)
-11	(	(	PUNCT	-LRB-	_	13	punct	_	SpaceAfter=No
-12	Meidan	Meidan	PROPN	NNP	Number=Sing	13	compound	_	Entity=(place-72
-13	Emam	Emam	PROPN	NNP	Number=Sing	8	appos	_	Entity=place-72)|SpaceAfter=No
+10	1602	1602	NUM	CD	NumType=Card	8	nmod:tmod	_	Discourse=elaboration:46->45|Entity=(time-72)
+11	(	(	PUNCT	-LRB-	_	13	punct	_	Discourse=restatement:47->45|SpaceAfter=No
+12	Meidan	Meidan	PROPN	NNP	Number=Sing	13	compound	_	Entity=(place-69
+13	Emam	Emam	PROPN	NNP	Number=Sing	8	appos	_	Entity=place-69)|SpaceAfter=No
 14	)	)	PUNCT	-RRB-	_	13	punct	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -48,12 +48,12 @@ The following 15 pairs of parts of speech are connected with `nmod:tmod`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 nmod:tmod	color:blue
-1	Saturday	Saturday	PROPN	NNP	Number=Sing	0	root	_	Entity=(time-3)|SpaceAfter=No
+1	Saturday	Saturday	PROPN	NNP	Number=Sing	0	root	_	Discourse=circumstance:3->5|Entity=(time-3)|SpaceAfter=No
 2	,	,	PUNCT	,	_	4	punct	_	_
-3	October	October	PROPN	NNP	Number=Sing	4	compound	_	Entity=(time-3(time-4)
+3	October	October	PROPN	NNP	Number=Sing	4	compound	_	Entity=(time-3
 4	9	9	NUM	CD	NumType=Card	1	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	_	_
-6	2010	2010	NUM	CD	NumType=Card	4	nmod:tmod	_	Entity=(time-5)time-3)
+6	2010	2010	NUM	CD	NumType=Card	4	nmod:tmod	_	Entity=(time-4)time-3)
 
 ~~~
 
@@ -64,12 +64,12 @@ The following 15 pairs of parts of speech are connected with `nmod:tmod`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nmod:tmod	color:blue
-1	Wednesday	Wednesday	PROPN	NNP	Number=Sing	0	root	_	Entity=(time-7|SpaceAfter=No
+1	Wednesday	Wednesday	PROPN	NNP	Number=Sing	0	root	_	Discourse=circumstance:3->1|Entity=(time-7)|SpaceAfter=No
 2	,	,	PUNCT	,	_	4	punct	_	_
-3	April	April	PROPN	NNP	Number=Sing	4	nmod:tmod	_	_
+3	April	April	PROPN	NNP	Number=Sing	4	nmod:tmod	_	Entity=(time-8
 4	13	13	NUM	CD	NumType=Card	1	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	_	_
-6	2011	2011	NUM	CD	NumType=Card	4	nmod:tmod	_	Entity=time-7)
+6	2011	2011	NUM	CD	NumType=Card	4	nmod:tmod	_	Entity=(time-9)time-8)
 
 ~~~
 

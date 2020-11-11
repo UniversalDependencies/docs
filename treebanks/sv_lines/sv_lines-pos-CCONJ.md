@@ -83,17 +83,17 @@ The 3rd highest number of forms (1) was observed with the lemma “både”: <em
 
 Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1813; 52% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (992; 28% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (307; 9% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (134; 4% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (124; 4% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (56; 2% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (18; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (5; 0% instances),  (3; 0% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 0% instances)
 
-3470 (100%) `CCONJ` nodes are leaves.
+3466 (99%) `CCONJ` nodes are leaves.
 
-13 (0%) `CCONJ` nodes have one child.
+15 (0%) `CCONJ` nodes have one child.
 
-2 (0%) `CCONJ` nodes have two children.
+4 (0%) `CCONJ` nodes have two children.
 
 1 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 3.
 
-Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (11; 55% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (5; 25% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (4; 20% instances)
+Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (11; 42% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (11; 42% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (4; 15% instances)
 
-Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (7; 35% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (5; 25% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (4; 20% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (4; 20% instances)
+Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (11; 42% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (7; 27% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (4; 15% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (4; 15% instances)
 

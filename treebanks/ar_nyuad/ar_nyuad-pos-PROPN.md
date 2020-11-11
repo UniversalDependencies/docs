@@ -63,11 +63,11 @@ Parents of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="ar
 
 28754 (50%) `PROPN` nodes are leaves.
 
-14847 (26%) `PROPN` nodes have one child.
+14848 (26%) `PROPN` nodes have one child.
 
-7112 (12%) `PROPN` nodes have two children.
+7110 (12%) `PROPN` nodes have two children.
 
-6708 (12%) `PROPN` nodes have three or more children.
+6709 (12%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 36.
 

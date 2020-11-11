@@ -36,33 +36,33 @@ The most frequent other feature values with which `NOUN` and `Polite` co-occurre
 `NOUN` tokens may have the following values of `Polite`:
 
 * `Form` (235; 100% of non-empty `Polite`): தலைவர், செயலாளர், முதல்வர், அமைச்சர், அதிபர், உறுப்பினர், ஆணையர், செயலர், ஒருவர், பொதுச்செயலர்
-* `EMPTY` (2518): அரசு, நாடுகள், பேர், ஆண்டு, மக்கள், அதிகாரிகள், கட்சி, தலைமைச், நிலையில், அணு
+* `EMPTY` (2523): அரசு, நாடுகள், பேர், ஆண்டு, மக்கள், அதிகாரிகள், கட்சி, தலைமைச், நிலையில், அணு
 
 `Polite` seems to be **lexical feature** of `NOUN`. 100% lemmas (68) occur only with one value of `Polite`.
 
 ### `VERB`
 
-143 <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `Polite`.
+143 <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> tokens (11% of all `VERB` tokens) have a non-empty value of `Polite`.
 
 The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="ta_ttb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (143; 100%), <tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (143; 100%), <tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (143; 100%), <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (143; 100%), <tt><a href="ta_ttb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (142; 99%), <tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (142; 99%), <tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt> (141; 99%), <tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (129; 90%), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (109; 76%).
 
 `VERB` tokens may have the following values of `Polite`:
 
 * `Form` (143; 100% of non-empty `Polite`): தெரிவித்தார், என்றார், கூறினார், உயிரிழந்தனர், இருந்தார், தெரிவித்தனர், பார்வையிட்டார், பெற்றார், பேசினார், வகித்தார்
-* `EMPTY` (1027): தெரிவித்த், செய்து, தெரிவிக்கப், செய்யப், உள்ளது, கொண்டு, கலந்து, கூறிய், வெளியிட்ட், வழங்கப்
+* `EMPTY` (1111): தெரிவித்த், செய்து, தெரிவிக்கப், செய்யப், உள்ளது, கொண்டு, கலந்து, கூறிய், வழங்கப், வெளியிட்ட்
 
 `Polite` seems to be **lexical feature** of `VERB`. 100% lemmas (52) occur only with one value of `Polite`.
 
 ### `AUX`
 
-85 <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> tokens (14% of all `AUX` tokens) have a non-empty value of `Polite`.
+85 <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> tokens (13% of all `AUX` tokens) have a non-empty value of `Polite`.
 
 The most frequent other feature values with which `AUX` and `Polite` co-occurred: <tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (85; 100%), <tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (85; 100%), <tt><a href="ta_ttb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (85; 100%), <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (85; 100%), <tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt> (84; 99%), <tt><a href="ta_ttb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (76; 89%), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (55; 65%).
 
 `AUX` tokens may have the following values of `Polite`:
 
 * `Form` (85; 100% of non-empty `Polite`): உள்ளார், வருகின்றனர், இருந்தார், கொண்டார், பட்டனர், இருக்கிறார், கொண்டனர், செய்தனர், படுகின்றனர், படுவார்கள்
-* `EMPTY` (543): உள்ளது, பட்ட், வேண்டும், இல்லை, பட்டது, உள்ளனர், பட்டு, உள்ளன, இருந்தது, ப்படும்
+* `EMPTY` (549): உள்ளது, பட்ட், வேண்டும், இல்லை, பட்டது, பட்டு, உள்ளனர், உள்ளன, இருந்தது, ப்படும்
 
 `Polite` seems to be **lexical feature** of `AUX`. 100% lemmas (11) occur only with one value of `Polite`.
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `NUM` and `Polite` co-occurred
 `NUM` tokens may have the following values of `Polite`:
 
 * `Form` (1; 100% of non-empty `Polite`): ஒருவர்
-* `EMPTY` (251): இரு, 2, ஆயிரம், மூன்று, லட்சம், 10, 20, 3, 80, இரண்டு
+* `EMPTY` (273): இரு, 2, ஆயிரம், மூன்று, லட்சம், 10, 20, 3, 80, இரண்டு
 
 ## Relations with Agreement in `Polite`
 

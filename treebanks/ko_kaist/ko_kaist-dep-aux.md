@@ -35,7 +35,7 @@ The following 33 pairs of parts of speech are connected with `aux`: <tt><a href=
 11	종소리가	종소리+가	NOUN	ncn+jcs	_	14	nsubj	_	_
 12	어디서나	어디+서나	ADV	npd+jxc	_	14	advcl	_	_
 13	다	다	ADV	mag	_	14	advmod	_	_
-14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	_
+14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 33 pairs of parts of speech are connected with `aux`: <tt><a href=
 1	왜놈들을	왜놈+들+을	NOUN	ncn+xsn+jco	_	3	obj	_	_
 2	잡아	잡+아	SCONJ	pvg+ecs	_	3	ccomp	_	_
 3	먹는	먹+는	VERB	pvg+etm	_	0	root	_	_
-4	겁니다	거+이+ㅂ니다	VERB	nbn+jp+ef	_	3	aux	_	_
+4	겁니다	거+이+ㅂ니다	VERB	nbn+jp+ef	_	3	aux	_	SpaceAfter=No
 5	.	.	PUNCT	sf	_	4	punct	_	_
 
 ~~~
@@ -68,12 +68,12 @@ The following 33 pairs of parts of speech are connected with `aux`: <tt><a href=
 4	볶고	볶+고	VERB	pvg+ecx	_	7	ccomp	_	_
 5	나서는	나+서+는	NOUN	px+ecs+jxt	_	4	aux	_	_
 6	잡아	잡+아	SCONJ	pvg+ecs	_	7	ccomp	_	_
-7	먹고	먹+고	CCONJ	pvg+ecc	_	0	root	_	_
+7	먹고	먹+고	CCONJ	pvg+ecc	_	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	sp	_	7	punct	_	_
 9	그것으로	그것+으로	ADV	npd+jca	_	10	advcl	_	_
 10	부족하니까	부족+하+니까	SCONJ	ncps+xsm+ecs	_	13	xcomp	_	_
 11	파묻고	파묻+고	CCONJ	pvg+ecc	_	7	conj	_	_
-12	밟습니다	밟+습니다	VERB	pvg+ef	_	11	conj	_	_
+12	밟습니다	밟+습니다	VERB	pvg+ef	_	11	conj	_	SpaceAfter=No
 13	.	.	PUNCT	sf	_	11	conj	_	_
 
 ~~~

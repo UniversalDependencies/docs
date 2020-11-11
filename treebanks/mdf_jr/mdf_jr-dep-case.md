@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-28 nodes (2%) are attached to their parents as `case`.
+33 nodes (2%) are attached to their parents as `case`.
 
-28 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.03571428571429.
+33 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03030303030303.
 
-The following 5 pairs of parts of speech are connected with `case`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (23; 82% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `case`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (26; 79% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (4; 12% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

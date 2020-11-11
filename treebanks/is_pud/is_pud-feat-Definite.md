@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-5167 tokens (27%) have a non-empty value of `Definite`.
-3794 types (58%) occur at least once with a non-empty value of `Definite`.
-2703 lemmas (56%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 9 part-of-speech tags: <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (4035; 21% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt> (1071; 6% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (23; 0% instances), <tt><a href="is_pud-pos-PROPN.html">PROPN</a></tt> (21; 0% instances), <tt><a href="is_pud-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="is_pud-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+5169 tokens (27%) have a non-empty value of `Definite`.
+3796 types (58%) occur at least once with a non-empty value of `Definite`.
+2705 lemmas (56%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 9 part-of-speech tags: <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (4037; 21% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt> (1071; 6% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (23; 0% instances), <tt><a href="is_pud-pos-PROPN.html">PROPN</a></tt> (21; 0% instances), <tt><a href="is_pud-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="is_pud-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="is_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="is_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-4035 <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Definite`.
+4037 <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2763; 68%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="is_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2764; 68%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Def` (1102; 27% of non-empty `Definite`): <em>árið, áratugnum, svæðið, svæðinu, fyrirtækið, ríkisstjórnin, stríðinu, sögunnar, borginni, fyrirtækisins</em>
-* `Ind` (2933; 73% of non-empty `Definite`): <em>ár, hluta, árum, ára, október, stað, öld, fólk, áhrif, fjölda</em>
+* `Ind` (2935; 73% of non-empty `Definite`): <em>ár, hluta, árum, ára, október, stað, öld, fólk, áhrif, fjölda</em>
 * `EMPTY` (64): <em>Karel, Kína, hafi, Alice, Bandaríkjadala, Borg, Denver, Duffy, Englendinga, Erik</em>
 
 <table>
@@ -135,7 +135,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Ind` (2; 100% of non-empty `Definite`): <em>sig, ýmissi</em>
-* `EMPTY` (1370): <em>það, hann, því, þetta, þess, hún, ég, hans, þeir, sér</em>
+* `EMPTY` (1368): <em>það, hann, því, þetta, þess, hún, ég, hans, þeir, sér</em>
 
 ### `ADP`
 
@@ -162,9 +162,9 @@ The most frequent other feature values with which `AUX` and `Definite` co-occurr
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="is_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (585; 73%),
 <tt>NOUN --[<tt><a href="is_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (330; 62%),
-<tt>NOUN --[<tt><a href="is_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (212; 87%),
+<tt>NOUN --[<tt><a href="is_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (213; 87%),
 <tt>NOUN --[<tt><a href="is_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (166; 55%),
-<tt>NOUN --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (74; 65%),
+<tt>NOUN --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (75; 66%),
 <tt>NOUN --[<tt><a href="is_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (44; 75%),
 <tt>ADJ --[<tt><a href="is_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (40; 60%),
 <tt>ADJ --[<tt><a href="is_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (23; 66%),

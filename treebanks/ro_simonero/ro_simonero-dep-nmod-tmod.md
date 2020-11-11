@@ -9,55 +9,80 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="ro_simonero-dep-nmod-agent.html">nmod:agent</a></tt>, <tt><a href="ro_simonero-dep-nmod-pmod.html">nmod:pmod</a></tt>.
 
-9 nodes (0%) are attached to their parents as `nmod:tmod`.
+104 nodes (0%) are attached to their parents as `nmod:tmod`.
 
-7 instances of `nmod:tmod` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.66666666666667.
+62 instances of `nmod:tmod` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.66346153846154.
 
-The following 2 pairs of parts of speech are connected with `nmod:tmod`: <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (8; 89% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
+The following 4 pairs of parts of speech are connected with `nmod:tmod`: <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (100; 96% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 2 nmod:tmod	color:blue
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	O
-2	anul	an	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	nmod:tmod	_	O
-3	2010	2010	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	2	nummod	_	O
-4	,	,	PUNCT	COMMA	_	2	punct	_	O
-5	Massie	Massie	PROPN	Np	_	10	nsubj	_	O
-6	și	și	CCONJ	Crssp	Polarity=Pos	7	cc	_	O
-7	colaboratorii	colaborator	NOUN	Ncmpry	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	5	conj	_	O
-8	săi	său	DET	Ds3mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	O
-9	au	avea	AUX	Va--3p	Number=Plur|Person=3|VerbForm=Fin	10	aux	_	O
-10	publicat	publica	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	O
-11	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	12	det	_	O
-12	studiu	studiu	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	obj	_	O
-13	ce	ce	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	15	nsubj	_	O
-14	a	avea	AUX	Va--3s	Number=Sing|Person=3	15	aux	_	O
-15	inclus	include	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	12	acl	_	O
-16	aproximativ	aproximativ	ADV	Rgp	Degree=Pos	17	advmod	_	O
-17	2	2	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	19	nummod	_	O
-18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	O
-19	pacienți	pacient	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	15	obj	_	O
-20	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	O
-21	ICA	ICA	NOUN	Yn	Abbr=Yes	19	nmod	_	B-DISO
-22	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	23	case	_	O
-23	care	care	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	26	obl	_	O
-24	s-	sine	PRON	Px3--a--y-----w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	26	expl:pass	_	O
-25	a	avea	AUX	Va--3s	Number=Sing|Person=3	26	aux	_	O
-26	administrat	administra	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	19	acl	_	O
-27	comparativ	comparativ	ADV	Rgp	Degree=Pos	26	advmod	_	O
-28	rolofilina	rolofilină	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	26	nsubj:pass	_	B-CHEM
-29	30	30	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	30	nummod	_	O
-30	mg	mg	NOUN	Yn	Abbr=Yes	28	nmod	_	O
-31	/	/	PUNCT	SLASH	AdpType=Prep	30	punct	_	O
-32	zi	zi	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	30	nmod	_	O
-33	sau	sau	CCONJ	Ccssp	Polarity=Pos	34	cc	_	O
-34	placebo	placebo	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	30	conj	_	O
-35	.	.	PUNCT	PERIOD	_	10	punct	_	O
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 nmod:tmod	color:blue
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod	_	O
+2	consecință	consecință	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	fixed	_	O
+3	,	,	PUNCT	COMMA	_	1	punct	_	O
+4	concepția	concepție	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	O
+5	trebuie	trebui	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
+6	amânată	amâna	VERB	Vmp--sf	Gender=Fem|Number=Sing|VerbForm=Part	5	csubj	_	O
+7	minimum	minimum	ADV	Rgp	Degree=Pos	9	advmod	_	O
+8	6	6	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	9	nummod	_	O
+9	luni	lună	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	6	nmod:tmod	_	O
+10	(	(	PUNCT	LPAR	_	11	punct	_	O
+11	14	14	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	9	parataxis	_	O
+12	)	)	PUNCT	RPAR	_	11	punct	_	O
+13	.	.	PUNCT	PERIOD	_	5	punct	_	O
+
+~~~
+
+
+~~~ conllu
+# visual-style 31	bgColor:blue
+# visual-style 31	fgColor:white
+# visual-style 27	bgColor:blue
+# visual-style 27	fgColor:white
+# visual-style 27 31 nmod:tmod	color:blue
+1	Unele	un	DET	Di3fpr---e	Case=Nom|Gender=Fem|Number=Plur|Person=3|Position=Prenom|PronType=Ind	2	det	_	O
+2	rapoarte	raport	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	4	nsubj	_	O
+3	au	avea	AUX	Va--3p	Number=Plur|Person=3|VerbForm=Fin	4	aux	_	O
+4	documentat	documenta	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	O
+5	fezabilitatea	fezabilitate	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	obj	_	O
+6	bypass	bypass	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	B-PROC
+7	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	O
+8	arterale	arterală	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	9	amod	_	B-ANAT
+9	plantare	plantar	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	obl	_	I-ANAT
+10	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	O
+11	o	un	DET	Tifsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	12	det	_	O
+12	rată	rată	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	O
+13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	O
+14	succes	succes	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	12	nmod	_	O
+15	rezonabilă	rezonabil	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	O
+16	(	(	PUNCT	LPAR	_	17	punct	_	O
+17	rata	rată	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	12	appos	_	O
+18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	O
+19	salvare	salvare	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	17	nmod	_	O
+20	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	21	det	_	O
+21	piciorului	picior	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	19	nmod	_	B-ANAT
+22	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	O
+23	5	5	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	24	nummod	_	O
+24	ani	an	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	17	nmod:tmod	_	O
+25	0.63	0.63	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	17	nummod	_	O
+26	,	,	PUNCT	COMMA	_	27	punct	_	O
+27	permeabilitate	permeabilitate	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	17	conj	_	O
+28	primară	primar	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	O
+29	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	31	case	_	O
+30	5	5	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	31	nummod	_	O
+31	ani	an	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	27	nmod:tmod	_	O
+32	0.41	0.41	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	27	nummod	_	O
+33	)	)	PUNCT	RPAR	_	17	punct	_	O
+34	(	(	PUNCT	LPAR	_	35	punct	_	O
+35	68	68	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	4	parataxis	_	O
+36	)	)	PUNCT	RPAR	_	35	punct	_	O
+37	.	.	PUNCT	PERIOD	_	4	punct	_	O
 
 ~~~
 

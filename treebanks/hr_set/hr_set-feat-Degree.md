@@ -119,11 +119,11 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="hr_set-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (1144; 83%),
-<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (798; 97%),
+<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (800; 97%),
 <tt>ADV --[<tt><a href="hr_set-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (323; 73%),
 <tt>ADV --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADV</tt> (83; 87%),
 <tt>ADJ --[<tt><a href="hr_set-dep-discourse.html">discourse</a></tt>]--> ADV</tt> (57; 80%),
-<tt>ADJ --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (50; 68%),
+<tt>ADJ --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (56; 71%),
 <tt>ADJ --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (38; 90%),
 <tt>ADV --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (35; 92%),
 <tt>ADJ --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (23; 100%),

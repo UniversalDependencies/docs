@@ -31,7 +31,7 @@ The following 25 pairs of parts of speech are connected with `compound`: <tt><a 
 6	øyas	øy	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	_
 7	land-	land-	NOUN	_	_	4	obl	_	_
 8	og	og	CCONJ	_	_	9	cc	_	_
-9	sjøterritorium	sjøterritorium	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	7	conj	_	_
+9	sjøterritorium	sjøterritorium	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	7	conj	_	SpaceAfter=No
 10	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -72,7 +72,7 @@ The following 25 pairs of parts of speech are connected with `compound`: <tt><a 
 7	rundt-reisen	rundt-reise	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	4	obl	_	_
 8	før	før	SCONJ	_	_	10	mark	_	_
 9	dette	dette	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
-10	skjedde	skje	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	_	_
+10	skjedde	skje	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	_	SpaceAfter=No
 11	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~

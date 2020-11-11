@@ -16,11 +16,11 @@ Family: Indo-European, Baltic
 
 This treebank has been part of Universal Dependencies since the UD v2.4 release.
 
-The following people have contributed to making this treebank part of UD: Andrius Utka, Erika Rimkutė, Agnė Bielinskienė, Jolanta Kovalevskaitė, Loïc Boizou, Gabrielė Aleksandravičiūtė, Kristina Brokaitė, Daniel Zeman.
+The following people have contributed to making this treebank part of UD: Andrius Utka, Erika Rimkutė, Agnė Bielinskienė, Jolanta Kovalevskaitė, Loïc Boizou, Gabrielė Aleksandravičiūtė, Kristina Brokaitė, Daniel Zeman, Natalia Perkova, Bernadeta Griciūtė.
 
 Repository: [UD_Lithuanian-ALKSNIS](https://github.com/UniversalDependencies/UD_Lithuanian-ALKSNIS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_alksnis26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_alksnis27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -967,7 +967,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--NOUN-Acc (4)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
-      <li>VERB-Part--NOUN-Nom (316)</li>
+      <li>VERB-Part--NOUN-Nom (317)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Nom (43)</li>
     </ul>
@@ -981,11 +981,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Acc (4)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Acc (796)</li>
-      <li>VERB-Fin--NOUN-Nom (1)</li>
+      <li>VERB-Fin--NOUN-Acc (795)</li>
+      <li>VERB-Fin--NOUN-Nom (7)</li>
       <li>VERB-Fin--PRON (2)</li>
       <li>VERB-Fin--PRON-Acc (139)</li>
-      <li>VERB-Fin--PRON-Nom (2)</li>
+      <li>VERB-Fin--PRON-Nom (5)</li>
       <li>VERB-Ger--NOUN-Acc (216)</li>
       <li>VERB-Ger--PRON-Acc (4)</li>
       <li>VERB-Inf--NOUN (1)</li>
@@ -995,7 +995,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (76)</li>
       <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--NOUN-Acc (226)</li>
-      <li>VERB-Part--NOUN-Nom (1)</li>
+      <li>VERB-Part--NOUN-Nom (3)</li>
       <li>VERB-Part--PRON-Acc (16)</li>
     </ul>
   </li>
@@ -1004,7 +1004,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (8)</li>
+      <li>VERB-Fin--NOUN-Acc (9)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Acc (3)</li>

@@ -118,9 +118,9 @@ The most frequent other feature values with which `DET` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (1263; 79%),
-<tt>VERB --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (560; 58%),
-<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (29; 64%),
+<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (1262; 79%),
+<tt>VERB --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (561; 58%),
+<tt>VERB --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> AUX</tt> (29; 66%),
 <tt>AUX --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (23; 68%),
 <tt>AUX --[<tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (17; 85%),
 <tt>AUX --[<tt><a href="hr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (16; 73%),

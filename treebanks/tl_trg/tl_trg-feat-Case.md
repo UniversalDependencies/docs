@@ -7,55 +7,40 @@ udver: '2'
 ## Treebank Statistics: UD_Tagalog-TRG: Features: `Case`
 
 This feature is universal.
-It occurs with 4 different values: `Abs`, `Dat`, `Erg`, `Loc`.
+It occurs with 3 different values: `Dat`, `Gen`, `Nom`.
 
-83 tokens (28%) have a non-empty value of `Case`.
-12 types (12%) occur at least once with a non-empty value of `Case`.
-5 lemmas (6%) occur at least once with a non-empty value of `Case`.
-The feature is used with 4 part-of-speech tags: <tt><a href="tl_trg-pos-DET.html">DET</a></tt> (47; 16% instances), <tt><a href="tl_trg-pos-ADP.html">ADP</a></tt> (24; 8% instances), <tt><a href="tl_trg-pos-PRON.html">PRON</a></tt> (11; 4% instances), <tt><a href="tl_trg-pos-PART.html">PART</a></tt> (1; 0% instances).
-
-### `DET`
-
-47 <tt><a href="tl_trg-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="tl_trg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (44; 94%).
-
-`DET` tokens may have the following values of `Case`:
-
-* `Abs` (47; 100% of non-empty `Case`): <em>ang, si</em>
-* `EMPTY` (6): <em>ang</em>
+220 tokens (30%) have a non-empty value of `Case`.
+28 types (12%) occur at least once with a non-empty value of `Case`.
+14 lemmas (8%) occur at least once with a non-empty value of `Case`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tl_trg-pos-ADP.html">ADP</a></tt> (170; 23% instances), <tt><a href="tl_trg-pos-PRON.html">PRON</a></tt> (50; 7% instances).
 
 ### `ADP`
 
-24 <tt><a href="tl_trg-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
+170 <tt><a href="tl_trg-pos-ADP.html">ADP</a></tt> tokens (96% of all `ADP` tokens) have a non-empty value of `Case`.
 
 `ADP` tokens may have the following values of `Case`:
 
-* `Abs` (1; 4% of non-empty `Case`): <em>ang</em>
-* `Dat` (5; 21% of non-empty `Case`): <em>sa</em>
-* `Erg` (17; 71% of non-empty `Case`): <em>ng</em>
-* `Loc` (1; 4% of non-empty `Case`): <em>Nasa</em>
+* `Dat` (29; 17% of non-empty `Case`): <em>sa, kay</em>
+* `Gen` (44; 26% of non-empty `Case`): <em>ng, ni</em>
+* `Nom` (97; 57% of non-empty `Case`): <em>ang, si</em>
+* `EMPTY` (7): <em>para, Nasa, Tungkol</em>
 
 ### `PRON`
 
-11 <tt><a href="tl_trg-pos-PRON.html">PRON</a></tt> tokens (85% of all `PRON` tokens) have a non-empty value of `Case`.
+50 <tt><a href="tl_trg-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="tl_trg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10; 91%), <tt><a href="tl_trg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9; 82%), <tt><a href="tl_trg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 55%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="tl_trg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (47; 94%), <tt><a href="tl_trg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41; 82%), <tt><a href="tl_trg-feat-Link.html">Link</a></tt><tt>=EMPTY</tt> (38; 76%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abs` (4; 36% of non-empty `Case`): <em>ako, Siya, kita</em>
-* `Erg` (7; 64% of non-empty `Case`): <em>niya, ko</em>
-* `EMPTY` (2): <em>Iyan, ito</em>
+* `Dat` (5; 10% of non-empty `Case`): <em>kaniyang, kaniya</em>
+* `Gen` (21; 42% of non-empty `Case`): <em>ko, niya, kong, nila, mo, natin, niyang</em>
+* `Nom` (24; 48% of non-empty `Case`): <em>ka, siya, siyang, ako, sila, Iyan, Sino, ito, kayong, kita</em>
+* `EMPTY` (5): <em>sarili, sariling</em>
 
-### `PART`
-
-1 <tt><a href="tl_trg-pos-PART.html">PART</a></tt> tokens (50% of all `PART` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="tl_trg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`PART` tokens may have the following values of `Case`:
-
-* `Erg` (1; 100% of non-empty `Case`): <em>ng</em>
-* `EMPTY` (1): <em>Hindi</em>
+<table>
+  <tr><th>Paradigm <i>siya</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt><tt><a href="tl_trg-feat-Link.html">Link</a></tt><tt>=Yes</tt></tt></td><td><em>siyang</em></td><td><em>kaniyang</em></td><td><em>niyang</em></td></tr>
+  <tr><td><tt></tt></td><td><em>siya</em></td><td><em>kaniya</em></td><td><em>niya</em></td></tr>
+</table>
 

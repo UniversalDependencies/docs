@@ -9,18 +9,28 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Mod`.
 
-3623 tokens (1%) have a non-empty value of `VerbType`.
-102 types (1%) occur at least once with a non-empty value of `VerbType`.
-7 lemmas (0%) occur at least once with a non-empty value of `VerbType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (3623; 1% instances).
+4414 tokens (1%) have a non-empty value of `VerbType`.
+117 types (1%) occur at least once with a non-empty value of `VerbType`.
+8 lemmas (0%) occur at least once with a non-empty value of `VerbType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (4413; 1% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-3623 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `VerbType`.
+4413 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `VerbType`.
 
-The most frequent other feature values with which `VERB` and `VerbType` co-occurred: <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3383; 93%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3334; 92%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3298; 91%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3298; 91%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (3189; 88%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3132; 86%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3085; 85%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (3006; 83%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2919; 81%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2539; 70%).
+The most frequent other feature values with which `VERB` and `VerbType` co-occurred: <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4134; 94%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4090; 93%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4053; 92%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4053; 92%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4040; 92%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3856; 87%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3703; 84%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (3701; 84%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3536; 80%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3125; 71%).
 
 `VERB` tokens may have the following values of `VerbType`:
 
-* `Mod` (3623; 100% of non-empty `VerbType`): <em>potest, possunt, possit, vult, velle, posset, debet, velit, possumus, poterit</em>
+* `Mod` (4413; 100% of non-empty `VerbType`): <em>potest, possunt, possit, uult, posset, uelle, debet, poterit, possumus, uelit</em>
+
+### `AUX`
+
+1 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `VerbType`.
+
+The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (1; 100%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1; 100%).
+
+`AUX` tokens may have the following values of `VerbType`:
+
+* `Mod` (1; 100% of non-empty `VerbType`): <em>esse</em>
 

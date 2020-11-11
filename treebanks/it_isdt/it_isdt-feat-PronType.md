@@ -92,7 +92,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 `ADJ` tokens may have the following values of `PronType`:
 
 * `Prs` (1; 100% of non-empty `PronType`): <em>propria</em>
-* `EMPTY` (19779): <em>primo, prima, nuovo, grande, presente, altri, altro, stesso, comune, italiana</em>
+* `EMPTY` (19778): <em>primo, prima, nuovo, grande, presente, altri, altro, stesso, comune, italiana</em>
 
 ## Relations with Agreement in `PronType`
 

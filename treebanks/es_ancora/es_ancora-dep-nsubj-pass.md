@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 4 2 nsubj:pass	color:blue
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	accidente	accidente	NOUN	NOUN	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
-3	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
+3	se	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 4	saldó	saldar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	sin	sin	ADP	ADP	AdpType=Prep	6	case	_	_
 6	heridos	herido	NOUN	NOUN	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
@@ -66,7 +66,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 2	REAL	real	PROPN	PROPN	_	6	nsubj:pass	_	MWE=REAL_SOCIEDAD|MWEPOS=PROPN
 3	SOCIEDAD	sociedad	PROPN	PROPN	_	2	flat	_	_
 4	NO	no	ADV	ADV	Polarity=Neg	6	advmod	_	_
-5	SE	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pass	_	_
+5	SE	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	obj	_	_
 6	ALEJA	aleja	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	DEL	del	ADP	ADP	AdpType=Preppron	8	case	_	_
 8	PRECIPICIO	precipicio	NOUN	NOUN	Gender=Masc|Number=Sing	6	obl	_	_

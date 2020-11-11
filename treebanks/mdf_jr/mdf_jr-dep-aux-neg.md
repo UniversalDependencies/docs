@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-aux.html">aux</a></tt>.
 There are also 1 other language-specific subtypes of `aux`: <tt><a href="mdf_jr-dep-aux-opt.html">aux:opt</a></tt>.
 
-25 nodes (2%) are attached to their parents as `aux:neg`.
+31 nodes (2%) are attached to their parents as `aux:neg`.
 
-25 instances of `aux:neg` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.04.
+31 instances of `aux:neg` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.03225806451613.
 
-The following 5 pairs of parts of speech are connected with `aux:neg`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (18; 72% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (3; 12% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 8% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-DET.html">DET</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `aux:neg`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (23; 74% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (3; 10% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 6% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-DET.html">DET</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

@@ -27,7 +27,7 @@ The following 42 pairs of parts of speech are connected with `acl`: <tt><a href=
 3	efecto	efecto	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 4	especial	especial	ADJ	ADJ	Number=Sing	3	amod	_	_
 5	que	que	PRON	PRON	PronType=Int,Rel	8	nsubj	_	_
-6	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	obj	_	_
+6	se	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 7	les	él	PRON	PRON	Case=Dat|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
 8	olvidó	olvidar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl	_	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_

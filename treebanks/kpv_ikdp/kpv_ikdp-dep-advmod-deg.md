@@ -57,9 +57,9 @@ The following 5 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod:deg	color:blue
 1	Зэй	зэй	ADV	Adv	_	2	advmod:deg	_	GTtags=Adv
-2	частэ	частэ	ADV	Adv	_	4	advmod:tmod	_	GTtags=Adv
+2	частэ	частэ	ADV	Adv	_	4	advmod:tmod	_	GTtags=Adv|Lang=Mixed
 3	пыр	пыр	ADV	Adv	_	4	advmod:tmod	_	GTtags=Adv
-4	гӧститлыылім	гӧститлывлыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	GTtags=V,IV,Ind,Prt1,Pl1|SpaceAfter=No
+4	гӧститлыылім	гӧститлывлыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	GTtags=V,IV,Ind,Prt1,Pl1|SpaceAfter=No|Lang=Mixed
 5	.	.	PUNCT	CLB	_	4	punct	_	GTtags=CLB
 
 ~~~

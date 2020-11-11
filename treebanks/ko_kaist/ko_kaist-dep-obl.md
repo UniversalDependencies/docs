@@ -31,7 +31,7 @@ The following 50 pairs of parts of speech are connected with `obl`: <tt><a href=
 7	소금에	소금+에	ADV	ncn+jca	_	8	obl	_	_
 8	절여	절이+어	VERB	pvg+ecx	_	0	root	_	_
 9	가지고	가지+고	CCONJ	px+ecc	_	8	aux	_	_
-10	갔습니다	가+ㅆ+습니다	VERB	pvg+ep+ef	_	8	conj	_	_
+10	갔습니다	가+ㅆ+습니다	VERB	pvg+ep+ef	_	8	conj	_	SpaceAfter=No
 11	.	.	PUNCT	sf	_	8	conj	_	_
 
 ~~~
@@ -56,7 +56,7 @@ The following 50 pairs of parts of speech are connected with `obl`: <tt><a href=
 11	종소리가	종소리+가	NOUN	ncn+jcs	_	14	nsubj	_	_
 12	어디서나	어디+서나	ADV	npd+jxc	_	14	advcl	_	_
 13	다	다	ADV	mag	_	14	advmod	_	_
-14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	_
+14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
 
 ~~~
@@ -71,7 +71,7 @@ The following 50 pairs of parts of speech are connected with `obl`: <tt><a href=
 1	그것이	그것+이	PRON	npd+jcs	_	3	nsubj	_	_
 2	경도에	경도+에	ADV	nq+jca	_	3	obl	_	_
 3	있는	있+는	ADJ	paa+etm	_	4	amod	_	_
-4	풍국신사인데	풍국신사+이+ㄴ데	SCONJ	nq+jp+ecs	_	14	ccomp	_	_
+4	풍국신사인데	풍국신사+이+ㄴ데	SCONJ	nq+jp+ecs	_	14	ccomp	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
 6	그	그	DET	mmd	_	7	det	_	_
 7	입구에	입구+에	ADV	ncn+jca	_	11	obl	_	_
@@ -81,7 +81,7 @@ The following 50 pairs of parts of speech are connected with `obl`: <tt><a href=
 11	돼있는	되+어+있+는	AUX	pvg+ecx+px+etm	_	12	acl	_	_
 12	그곳에	그곳+에	ADV	npd+jca	_	14	obl	_	_
 13	코를	코+를	NOUN	ncn+jco	_	14	obj	_	_
-14	묻었답니다	묻+었+답니다	VERB	pvg+ep+ef	_	0	root	_	_
+14	묻었답니다	묻+었+답니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
 
 ~~~

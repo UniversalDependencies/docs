@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-GUM: POS Tags: `X`
 
-There are 180 `X` lemmas (1%), 181 `X` types (1%) and 272 `X` tokens (0%).
+There are 181 `X` lemmas (1%), 181 `X` types (1%) and 272 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 7 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>al., et, de, etc., etc, 1, 2, 3, 4, @ord@</em>
+The 10 most frequent `X` lemmas: <em>al., et, de, etc., etc, 1, 2, 3, 4, Formica</em>
 
 The 10 most frequent `X` types:  <em>al., et, de, etc, etc., 1, 2, 3, 4, Formica</em>
 
-The 10 most frequent ambiguous lemmas: <em>et</em> (<tt><a href="en_gum-pos-X.html">X</a></tt> 13, <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3), <em>de</em> (<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 19, <tt><a href="en_gum-pos-X.html">X</a></tt> 7), <em>1</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 103, <tt><a href="en_gum-pos-X.html">X</a></tt> 4), <em>2</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 91, <tt><a href="en_gum-pos-X.html">X</a></tt> 4), <em>3</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 53, <tt><a href="en_gum-pos-X.html">X</a></tt> 4), <em>4</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 39, <tt><a href="en_gum-pos-X.html">X</a></tt> 4), <em>@ord@</em> (<tt><a href="en_gum-pos-X.html">X</a></tt> 4, <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 2), <em>i.e.</em> (<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_gum-pos-X.html">X</a></tt> 3), <em>5</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 39, <tt><a href="en_gum-pos-X.html">X</a></tt> 2), <em>Montejo</em> (<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="en_gum-pos-X.html">X</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>et</em> (<tt><a href="en_gum-pos-X.html">X</a></tt> 13, <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3), <em>de</em> (<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 19, <tt><a href="en_gum-pos-X.html">X</a></tt> 7), <em>1</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 103, <tt><a href="en_gum-pos-X.html">X</a></tt> 4), <em>2</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 91, <tt><a href="en_gum-pos-X.html">X</a></tt> 4), <em>3</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 53, <tt><a href="en_gum-pos-X.html">X</a></tt> 4), <em>4</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 39, <tt><a href="en_gum-pos-X.html">X</a></tt> 4), <em>i.e.</em> (<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_gum-pos-X.html">X</a></tt> 3), <em>1.</em> (<tt><a href="en_gum-pos-X.html">X</a></tt> 2, <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 1), <em>2.</em> (<tt><a href="en_gum-pos-X.html">X</a></tt> 2, <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 1), <em>5</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 39, <tt><a href="en_gum-pos-X.html">X</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="en_gum-pos-X.html">X</a></tt> 13, <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3), <em>de</em> (<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 19, <tt><a href="en_gum-pos-X.html">X</a></tt> 7), <em>1</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 103, <tt><a href="en_gum-pos-X.html">X</a></tt> 4), <em>2</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 91, <tt><a href="en_gum-pos-X.html">X</a></tt> 4), <em>3</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 53, <tt><a href="en_gum-pos-X.html">X</a></tt> 4), <em>4</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 39, <tt><a href="en_gum-pos-X.html">X</a></tt> 4), <em>i.e.</em> (<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_gum-pos-X.html">X</a></tt> 3), <em>1.</em> (<tt><a href="en_gum-pos-X.html">X</a></tt> 2, <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 1), <em>2.</em> (<tt><a href="en_gum-pos-X.html">X</a></tt> 2, <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 1), <em>5</em> (<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 39, <tt><a href="en_gum-pos-X.html">X</a></tt> 2)
 
@@ -51,20 +51,20 @@ The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="en_gum-pos-X.ht
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.005556 (the average of all parts of speech is 1.190011).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.190676).
 
-The 1st highest number of forms (4) was observed with the lemma “@ord@”: <em>1., 2., 4., 5.</em>.
+The 1st highest number of forms (2) was observed with the lemma “etc.”: <em>etc, etc.</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “etc.”: <em>etc, etc.</em>.
+The 2nd highest number of forms (1) was observed with the lemma “(a)”: <em>(a)</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “(a)”: <em>(a)</em>.
+The 3rd highest number of forms (1) was observed with the lemma “(b)”: <em>(b)</em>.
 
-`X` occurs with 1 features: <tt><a href="en_gum-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
+`X` occurs with 2 features: <tt><a href="en_gum-feat-Typo.html">Typo</a></tt> (3; 1% instances), <tt><a href="en_gum-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
 
-`X` occurs with 1 feature-value pairs: `Polarity=Neg`
+`X` occurs with 2 feature-value pairs: `Polarity=Neg`, `Typo=Yes`
 
-`X` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (271 tokens).
+`X` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (268 tokens).
 Examples: <em>al., et, de, etc, etc., 1, 2, 3, 4, Formica</em>
 
 

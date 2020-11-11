@@ -9,78 +9,89 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-184 tokens (0%) have a non-empty value of `Abbr`.
-122 types (1%) occur at least once with a non-empty value of `Abbr`.
-125 lemmas (2%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (90; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (70; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+440 tokens (0%) have a non-empty value of `Abbr`.
+218 types (1%) occur at least once with a non-empty value of `Abbr`.
+221 lemmas (2%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (289; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (109; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-90 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+289 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (90; 100%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (289; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (289; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (289; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (289; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (289; 100%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (90; 100% of non-empty `Abbr`): <em>RTÉ, Co., FÁS, TG4, BBC, CLG, D., DUP, GPA, IRA</em>
-* `EMPTY` (3564): <em>Gaeilge, Átha, cliath, hÉireann, Seán, Baile, Bhaile, Mháire, Pádraig, Éirinn</em>
+* `Yes` (289; 100% of non-empty `Abbr`): <em>AE, AIE, UNESCO, TG4, BCE, Co., RTÉ, MABS, TD, fás</em>
+* `EMPTY` (6237): <em>Átha, cliath, Bhaile, Gaeltachta, Gaeilge, Údarás, hÉireann, Chomhairle, Éirinn, Baile</em>
 
-`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (62) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (132) occur only with one value of `Abbr`.
 
 ### `NOUN`
 
-70 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+109 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (70; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (70; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (70; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (70; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (70; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (70; 100%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (109; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (109; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (109; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (109; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (109; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (109; 100%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (70; 100% of non-empty `Abbr`): <em>Dr., Dr, Uimh., 4C, I.R., IO, Mr., lch., lgh., 2RN</em>
-* `EMPTY` (16221): <em>bheith, chur, duine, dhéanamh, rud, chuid, féin, chéile, daoine, lá</em>
+* `Yes` (109; 100% of non-empty `Abbr`): <em>Dr., Uimh., Dr, srl., 4C, CBES, CD-ROM, EUR, I.R., IO</em>
+* `EMPTY` (32032): <em>chur, dhéanamh, fáil, bheith, duine, féidir, chuid, chéile, daoine, rud</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (54) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (86) occur only with one value of `Abbr`.
 
 ### `ADV`
 
-11 <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Abbr`.
+18 <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
 `ADV` tokens may have the following values of `Abbr`:
 
-* `Yes` (11; 100% of non-empty `Abbr`): <em>e.g., i.e., .i., KB, etc, srl.</em>
-* `EMPTY` (1321): <em>amach, chomh, anois, isteach, ansin, anseo, fós, síos, arís, freisin</em>
+* `Yes` (18; 100% of non-empty `Abbr`): <em>i.e., e.g., srl., m.sh., .i., KB, etc</em>
+* `EMPTY` (1881): <em>amach, chomh, anois, freisin, isteach, síos, ansin, anseo, fós, laistigh</em>
+
+### `ADJ`
+
+10 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (10; 100%).
+
+`ADJ` tokens may have the following values of `Abbr`:
+
+* `Yes` (10; 100% of non-empty `Abbr`): <em>Teo., Ltd</em>
+* `EMPTY` (6436): <em>maith, mór, nua, amháin, mó, náisiúnta, déanta, éagsúla, sibhialta, áirithe</em>
+
+### `SYM`
+
+5 <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> tokens (22% of all `SYM` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `SYM` and `Abbr` co-occurred: <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (5; 100%).
+
+`SYM` tokens may have the following values of `Abbr`:
+
+* `Yes` (5; 100% of non-empty `Abbr`): <em>Gcom, Dublin.ie, King.com, post@clubsult.com</em>
+* `EMPTY` (18): <em>Dublin.ie, c​i​t​i​z​e​n​s​i​n​f​o​r​m​a​t​i​o​n​.​i​e, h​t​t​p​:​/​/​d​u​b​l​i​n​i​a​.​i​e​/​o​n​l​i​n​e​-​l​e​a​r​n​i​n​g​/​s​e​c​o​n​d​a​r​y​/, Borrowbooks.ie:, DEArs.net, a​d​m​i​n​@​c​i​t​i​z​e​n​s​i​n​f​o​r​m​a​t​i​o​n​.​i​e, eolas@cnag.ie, h​t​t​p​:​/​/​w​w​w​.​d​u​b​l​i​n​c​i​t​y​.​i​e​/​m​a​i​n​-​m​e​n​u​-​s​e​r​v​i​c​e​s​-​c​u​l​t​u​r​e​-​a​n​d​-​a​m​e​n​i​t​i​e​s​/​c​r​e​a​t​i​v​e​-​i​r​e​l​a​n​d​-​p​r​o​g​r​a​m​m​e​-​2​0​1​7​-​2​0​2​2, https://www.mabs.ie, panceltic@eircom.net</em>
 
 ### `X`
 
-5 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `Abbr`.
+5 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `Abbr`.
 
 The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (5; 100%).
 
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (5; 100% of non-empty `Abbr`): <em>A, .i., IRA, Uimh.</em>
-* `EMPTY` (166): <em>the, of, Irish, a, on, May, fakir, in, island, men</em>
-
-### `ADJ`
-
-3 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3; 100%).
-
-`ADJ` tokens may have the following values of `Abbr`:
-
-* `Yes` (3; 100% of non-empty `Abbr`): <em>Teo., Ltd</em>
-* `EMPTY` (3206): <em>mór, maith, amháin, mó, mhaith, nua, mhór, céanna, léir, fada</em>
+* `EMPTY` (213): <em>the, of, Irish, Read, Right, to, for, on, Life, Love</em>
 
 ### `NUM`
 
 3 <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NUM` and `Abbr` co-occurred: <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ga_idt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `NUM` and `Abbr` co-occurred: <tt><a href="ga_idt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>1A, 3B, S1067</em>
-* `EMPTY` (998): <em>dhá, chéad, dá, trí, (2), cúig, (b), (a), (1), deich</em>
+* `EMPTY` (1935): <em>dhá, chéad, 2006, trí, 2007, dá, 2017, dara, cúig, 1</em>
 
 ### `PRON`
 
@@ -91,14 +102,5 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>Co.</em>
-* `EMPTY` (2507): <em>sé, é, sin, mé, sí, iad, siad, féin, í, seo</em>
-
-### `SYM`
-
-1 <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> tokens (25% of all `SYM` tokens) have a non-empty value of `Abbr`.
-
-`SYM` tokens may have the following values of `Abbr`:
-
-* `Yes` (1; 100% of non-empty `Abbr`): <em>post@clubsult.com</em>
-* `EMPTY` (3): <em>eolas@cnag.ie, panceltic@eircom.net, www.10steps.ie</em>
+* `EMPTY` (3492): <em>sé, é, sin, iad, siad, sí, mé, féin, seo, í</em>
 

@@ -28,7 +28,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 4	gbogbo	gbogbo	DET	_	_	5	det	_	Gloss=all|Ref=GEN_1.1
 5	Ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	Gloss=god|Ref=GEN_1.1
 6	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.1
-7	àwọn	àwọn	DET	_	_	8	det	_	Gloss=the|Ref=GEN_1.1
+7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	8	det	_	Gloss=the|Ref=GEN_1.1
 8	ọ̀run	ọ̀run	NOUN	_	_	6	obj	_	Gloss=heaven|Ref=GEN_1.1
 9	àti	àti	CCONJ	_	_	10	cc	_	Gloss=and|Ref=GEN_1.1
 10	ayé	ayé	NOUN	_	_	8	conj	_	Gloss=earth|Ref=GEN_1.1|SpaceAfter=No
@@ -64,7 +64,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 2	-	-	PUNCT	_	_	3	punct	_	Ref=MATT_5.8|SpaceAfter=No|Gloss=-
 3	fún	fún	ADP	_	_	1	compound	_	Ref=MATT_5.8|Gloss=unto
 4	ni	ni	PART	_	_	6	case	_	Ref=MATT_5.8|Gloss=is
-5	àwọn	àwọn	DET	_	_	6	det	_	Ref=MATT_5.8|Gloss=the
+5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Ref=MATT_5.8|Gloss=the
 6	ọlọ́kàn	ọlọ́kàn	ADJ	_	_	0	root	_	Ref=MATT_5.8|Gloss=meek
 7	mímọ́	mímọ́	ADJ	_	_	6	amod	_	Ref=MATT_5.8|SpaceAfter=No|Gloss=pure
 8	,	,	PUNCT	_	_	6	punct	_	Ref=MATT_5.8|Gloss=,

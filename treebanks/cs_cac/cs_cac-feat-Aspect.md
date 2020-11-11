@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (17156; 69% of non-empty `Aspect`): <em>patří, tvoří, znamená, odpovídá, stává, mění, představuje, dochází, ukazuje, říká</em>
 * `Perf` (7803; 31% of non-empty `Aspect`): <em>zajistit, podařilo, vytvořit, vyjádřit, vysvětlit, získat, stanoví, viz, splnit, odstranit</em>
-* `EMPTY` (15646): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `EMPTY` (15638): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (3008) occur only with one value of `Aspect`.
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 * `Imp` (86; 99% of non-empty `Aspect`): <em>bývá, bývají, býval, bývalo, nebývá, bývaly, jsouc, jsouce, nebývají</em>
 * `Perf` (1; 1% of non-empty `Aspect`): <em>byvše</em>
-* `EMPTY` (14143): <em>je, by, jsou, bude, byl, být, bylo, byla, jsme, není</em>
+* `EMPTY` (14184): <em>je, by, jsou, bude, byl, být, bylo, byla, jsme, není</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -68,7 +68,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `CCONJ` tokens may have the following values of `Aspect`:
 
 * `Imp` (9; 100% of non-empty `Aspect`): <em>buď</em>
-* `EMPTY` (24196): <em>a, i, nebo, ale, však, ani, či, tak, neboť, jednak</em>
+* `EMPTY` (24197): <em>a, i, nebo, ale, však, ani, či, tak, neboť, jednak</em>
 
 ### `NOUN`
 
@@ -80,11 +80,10 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 
 * `Imp` (1; 17% of non-empty `Aspect`): <em>tváří</em>
 * `Perf` (5; 83% of non-empty `Aspect`): <em>oprav, vyhovění</em>
-* `EMPTY` (136176): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
+* `EMPTY` (136177): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
 
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>ADJ --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cac-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
 

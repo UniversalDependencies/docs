@@ -46,7 +46,7 @@ The following 25 pairs of parts of speech are connected with `flat:foreign`: <tt
 # visual-style 6 7 flat:foreign	color:blue
 1	Hostům	host	NOUN	NNMP3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos	4	obl:arg	4:obl:arg:dat	_
 2	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	3:case	LId=na-1
-3	*	*	SYM	Xx-------------	Abbr=Yes	4	advmod	4:advmod	_
+3	*	&cwildcard;	SYM	Xx-------------	Abbr=Yes	4	advmod	4:advmod	_
 4	nepomohla	pomoci	VERB	VpQW---XR-NA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 5	ani	ani	CCONJ	J^-------------	_	6	advmod:emph	6:advmod:emph	_
 6	power	power	ADJ	AAXXX----1A----	Degree=Pos|Foreign=Yes|Polarity=Pos	4	nsubj	4:nsubj	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-669 nodes (7%) are attached to their parents as `amod`.
+549 nodes (6%) are attached to their parents as `amod`.
 
-667 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.68011958146487.
+548 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.68488160291439.
 
-The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (560; 84% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (58; 9% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (28; 4% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (456; 83% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (53; 10% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (20; 4% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (10; 2% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -53,21 +53,20 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 amod	color:blue
-1	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	3	nsubj	3:nsubj	Translit=avar|LTranslit=avar
-2	தற்கொலை	தற்கொலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	obj	3:obj	Translit=tarkolai|LTranslit=tarkolai
-3	செய்து	செய்	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	8	advcl	8:advcl:போது	Translit=ceytu|LTranslit=cey
-4	கொண்ட	கொள்	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	3	amod	3:amod	Translit=koṇṭa|LTranslit=koḷ
-5	போது	போது	PART	Tn-------	_	3	mark	3:mark	Translit=pōtu|LTranslit=pōtu
-6	வீட்டில்	வீடு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	8	obl	8:obl:loc	Translit=vīṭṭil|LTranslit=vīṭu
-7	யாரும்	யார்	PRON	RBN-3SA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Ind	8	nsubj	8:nsubj	Translit=yārum|LTranslit=yār
-8	இருக்கவ்	இரு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=irukkav|LTranslit=iru
-9	இல்லை	இல்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	8:aux	Translit=illai|LTranslit=il
-10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	8:punct	Translit=.|LTranslit=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 amod	color:blue
+1	ஓய்வு	ஓய்வு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	obj	2:obj	Translit=ōyvu|LTranslit=ōyvu
+2	பெற்ற	பெறு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	6	amod	6:amod	Translit=perra|LTranslit=peru
+3	பின்னர்	பின்னர்	ADV	AA-------	_	2	mark	2:mark	Translit=pinnar|LTranslit=pinnar
+4	செய்தியாளர்களிடம்	செய்தியாளர்	NOUN	NNL-3PA--	Animacy=Anim|Case=Loc|Gender=Com|Number=Plur|Person=3	6	obl	6:obl:loc	Translit=ceytiyāḷarkaḷiṭam|LTranslit=ceytiyāḷar
+5	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	6	nsubj	6:nsubj	Translit=avar|LTranslit=avar
+6	கூறியத்	கூறு	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	0	root	0:root	Translit=kūriyat|LTranslit=kūru
+7	ஆவது	ஆவது	PART	Tl-------	_	6	advmod:emph	6:advmod:emph	Translit=āvatu|LTranslit=āvatu
+8	:	:	PUNCT	Z:-------	PunctType=Comm	6	punct	6:punct	SpaceAfter=No|Translit=:|LTranslit=:
+9	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	6:punct	Translit=.|LTranslit=.
 
 ~~~
 

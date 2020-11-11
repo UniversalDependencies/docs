@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Peng Qi, Koichi Yasuoka.
 
 Repository: [UD_Chinese-GSDSimp](https://github.com/UniversalDependencies/UD_Chinese-GSDSimp)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsdsimp26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsdsimp27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -63,7 +63,7 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
 
 ## Relations
 
-[acl](zh_gsdsimp-dep-acl.html) – [acl:relcl](zh_gsdsimp-dep-acl-relcl.html) – [advcl](zh_gsdsimp-dep-advcl.html) – [advmod](zh_gsdsimp-dep-advmod.html) – [amod](zh_gsdsimp-dep-amod.html) – [appos](zh_gsdsimp-dep-appos.html) – [aux](zh_gsdsimp-dep-aux.html) – [aux:pass](zh_gsdsimp-dep-aux-pass.html) – [case](zh_gsdsimp-dep-case.html) – [case:aspect](zh_gsdsimp-dep-case-aspect.html) – [case:dec](zh_gsdsimp-dep-case-dec.html) – [case:pref](zh_gsdsimp-dep-case-pref.html) – [cc](zh_gsdsimp-dep-cc.html) – [ccomp](zh_gsdsimp-dep-ccomp.html) – [clf](zh_gsdsimp-dep-clf.html) – [compound](zh_gsdsimp-dep-compound.html) – [conj](zh_gsdsimp-dep-conj.html) – [cop](zh_gsdsimp-dep-cop.html) – [csubj](zh_gsdsimp-dep-csubj.html) – [csubj:pass](zh_gsdsimp-dep-csubj-pass.html) – [det](zh_gsdsimp-dep-det.html) – [discourse](zh_gsdsimp-dep-discourse.html) – [dislocated](zh_gsdsimp-dep-dislocated.html) – [flat:foreign](zh_gsdsimp-dep-flat-foreign.html) – [flat:name](zh_gsdsimp-dep-flat-name.html) – [iobj](zh_gsdsimp-dep-iobj.html) – [mark](zh_gsdsimp-dep-mark.html) – [mark:advb](zh_gsdsimp-dep-mark-advb.html) – [mark:comp](zh_gsdsimp-dep-mark-comp.html) – [mark:relcl](zh_gsdsimp-dep-mark-relcl.html) – [nmod](zh_gsdsimp-dep-nmod.html) – [nmod:tmod](zh_gsdsimp-dep-nmod-tmod.html) – [nsubj](zh_gsdsimp-dep-nsubj.html) – [nsubj:pass](zh_gsdsimp-dep-nsubj-pass.html) – [nummod](zh_gsdsimp-dep-nummod.html) – [obj](zh_gsdsimp-dep-obj.html) – [obl](zh_gsdsimp-dep-obl.html) – [obl:patient](zh_gsdsimp-dep-obl-patient.html) – [orphan](zh_gsdsimp-dep-orphan.html) – [parataxis](zh_gsdsimp-dep-parataxis.html) – [punct](zh_gsdsimp-dep-punct.html) – [reparandum](zh_gsdsimp-dep-reparandum.html) – [root](zh_gsdsimp-dep-root.html) – [vocative](zh_gsdsimp-dep-vocative.html) – [xcomp](zh_gsdsimp-dep-xcomp.html)
+[acl](zh_gsdsimp-dep-acl.html) – [acl:relcl](zh_gsdsimp-dep-acl-relcl.html) – [advcl](zh_gsdsimp-dep-advcl.html) – [advmod](zh_gsdsimp-dep-advmod.html) – [amod](zh_gsdsimp-dep-amod.html) – [appos](zh_gsdsimp-dep-appos.html) – [aux](zh_gsdsimp-dep-aux.html) – [aux:aspect](zh_gsdsimp-dep-aux-aspect.html) – [aux:pass](zh_gsdsimp-dep-aux-pass.html) – [case](zh_gsdsimp-dep-case.html) – [case:dec](zh_gsdsimp-dep-case-dec.html) – [case:pref](zh_gsdsimp-dep-case-pref.html) – [cc](zh_gsdsimp-dep-cc.html) – [ccomp](zh_gsdsimp-dep-ccomp.html) – [clf](zh_gsdsimp-dep-clf.html) – [compound](zh_gsdsimp-dep-compound.html) – [conj](zh_gsdsimp-dep-conj.html) – [cop](zh_gsdsimp-dep-cop.html) – [csubj](zh_gsdsimp-dep-csubj.html) – [csubj:pass](zh_gsdsimp-dep-csubj-pass.html) – [det](zh_gsdsimp-dep-det.html) – [discourse](zh_gsdsimp-dep-discourse.html) – [dislocated](zh_gsdsimp-dep-dislocated.html) – [flat:foreign](zh_gsdsimp-dep-flat-foreign.html) – [flat:name](zh_gsdsimp-dep-flat-name.html) – [iobj](zh_gsdsimp-dep-iobj.html) – [mark](zh_gsdsimp-dep-mark.html) – [mark:advb](zh_gsdsimp-dep-mark-advb.html) – [mark:comp](zh_gsdsimp-dep-mark-comp.html) – [mark:relcl](zh_gsdsimp-dep-mark-relcl.html) – [nmod](zh_gsdsimp-dep-nmod.html) – [nmod:tmod](zh_gsdsimp-dep-nmod-tmod.html) – [nsubj](zh_gsdsimp-dep-nsubj.html) – [nsubj:pass](zh_gsdsimp-dep-nsubj-pass.html) – [nummod](zh_gsdsimp-dep-nummod.html) – [obj](zh_gsdsimp-dep-obj.html) – [obl](zh_gsdsimp-dep-obl.html) – [obl:patient](zh_gsdsimp-dep-obl-patient.html) – [orphan](zh_gsdsimp-dep-orphan.html) – [parataxis](zh_gsdsimp-dep-parataxis.html) – [punct](zh_gsdsimp-dep-punct.html) – [reparandum](zh_gsdsimp-dep-reparandum.html) – [root](zh_gsdsimp-dep-root.html) – [vocative](zh_gsdsimp-dep-vocative.html) – [xcomp](zh_gsdsimp-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -345,7 +345,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>case:aspect</a>, <a>case:dec</a>, <a>case:pref</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:advb</a>, <a>mark:comp</a>, <a>mark:relcl</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:aspect</a>, <a>aux:pass</a>, <a>case:dec</a>, <a>case:pref</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:advb</a>, <a>mark:comp</a>, <a>mark:relcl</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

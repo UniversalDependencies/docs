@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 amod	color:blue
 1	Hon	hon	PRON	Pron	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-2	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+2	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
 3	eisini	eisini	ADV	Adv	_	5	advmod	_	_
 4	størsta	stórur	ADJ	A	Case=Nom|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing	5	amod	_	_
 5	fiskivinnuhavnin	fiskivinnahavn	NOUN	N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
@@ -63,7 +63,7 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 5 4 amod	color:blue
 1	Afrikanski	afrikanskur	ADJ	A	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	amod	_	_
 2	fílurin	fílur	NOUN	N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	_
-3	er	vera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+3	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
 4	størsta	stórur	ADV	A	Degree=Sup|Gender=Neut|Number=Plur	5	amod	_	_
 5	súgdjór	súgdjór	NOUN	N	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
 6	á	á	ADP	Pr	_	7	case	_	_

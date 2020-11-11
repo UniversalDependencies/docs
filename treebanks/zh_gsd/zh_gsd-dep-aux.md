@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSD: Relations: `aux`
 
 This relation is universal.
-There are 1 language-specific subtypes of `aux`: <tt><a href="zh_gsd-dep-aux-pass.html">aux:pass</a></tt>.
+There are 2 language-specific subtypes of `aux`: <tt><a href="zh_gsd-dep-aux-aspect.html">aux:aspect</a></tt>, <tt><a href="zh_gsd-dep-aux-pass.html">aux:pass</a></tt>.
 
 879 nodes (1%) are attached to their parents as `aux`.
 

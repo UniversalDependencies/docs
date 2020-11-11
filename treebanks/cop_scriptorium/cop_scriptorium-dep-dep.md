@@ -35,8 +35,8 @@ The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="
 11	ⲟⲩⲱϣ	ⲟⲩⲱϣ	VERB	V	VerbForm=Fin	4	ccomp	_	_
 12	ⲉ	ⲉ	PART	PREP	_	13	mark	_	Orig=ⲉ̇
 13	ⲧⲟⲩϫⲉ	ⲧⲟⲩϫⲟ	VERB	V	VerbForm=Inf	11	xcomp	_	_
-14	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
-15	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	_	13	obj	_	_
+14	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	Entity=(abstract
+15	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	_	13	obj	_	Entity=abstract)
 16	.	.	PUNCT	PUNCT	_	4	punct	_	Orig=ⲻ
 
 ~~~
@@ -54,8 +54,8 @@ The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="
 4	·	·	PUNCT	PUNCT	_	8	punct	_	_
 5	ⲉ[.....]	UNKNOWN	X	UNKNOWN	_	8	dep	_	Orig=ⲉ̣[.....]
 6	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	8	case	_	Orig=ⲛ̄ⲥⲁ
-7	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
-8	[.....]	[.....]	NOUN	N	_	2	parataxis	_	_
+7	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	Entity=(abstract
+8	[.....]	[.....]	NOUN	N	_	2	parataxis	_	Entity=abstract)
 
 ~~~
 

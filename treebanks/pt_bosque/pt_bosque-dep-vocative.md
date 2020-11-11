@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (0%) are attached to their parents as `vocative`.
+16 nodes (0%) are attached to their parents as `vocative`.
 
-8 instances of `vocative` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.8.
+8 instances of `vocative` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.875.
 
-The following 6 pairs of parts of speech are connected with `vocative`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (7; 47% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (3; 20% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 7% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 7% instances).
+The following 7 pairs of parts of speech are connected with `vocative`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (7; 44% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (3; 19% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

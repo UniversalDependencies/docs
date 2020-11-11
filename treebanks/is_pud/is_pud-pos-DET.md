@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>hinn</em> (<tt><a href="is_pud-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 3.666667 (the average of all parts of speech is 1.365617).
+The form / lemma ratio of `DET` is 3.666667 (the average of all parts of speech is 1.365967).
 
 The 1st highest number of forms (9) was observed with the lemma “hinn”: <em>Hin, hinn, hinna, hinnar, hinni, hins, hinu, hinum, hið</em>.
 

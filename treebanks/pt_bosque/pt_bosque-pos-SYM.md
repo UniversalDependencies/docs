@@ -13,18 +13,18 @@ The 10 most frequent `SYM` lemmas: <em>%, US$, R$, CR$, -</em>
 
 The 10 most frequent `SYM` types:  <em>%, US$, R$, CR$, -</em>
 
-The 10 most frequent ambiguous lemmas: <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 59, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 60, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 59, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 60, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2)
 
 
 * <em>-</em>
-  * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 59: <em>Sporting <b>-</b> Vitória de Setúbal e Marítimo ou Ovarense <b>-</b> FC Porto .</em>
+  * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 60: <em>Sporting <b>-</b> Vitória de Setúbal e Marítimo ou Ovarense <b>-</b> FC Porto .</em>
   * <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2: <em>Já as maiores quedas , de os preços médios , ficaram com a cenoura ( <b>-</b> 13,82 ) , batata comum ( 5,14 % ) e pão francês ( <b>-</b> 1,25 % ) .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.414227).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.414631).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
@@ -43,15 +43,15 @@ Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="pt_b
 
 2 (0%) `SYM` nodes are leaves.
 
-81 (19%) `SYM` nodes have one child.
+80 (19%) `SYM` nodes have one child.
 
-153 (37%) `SYM` nodes have two children.
+154 (37%) `SYM` nodes have two children.
 
 181 (43%) `SYM` nodes have three or more children.
 
 The highest child degree of a `SYM` node is 10.
 
-Children of `SYM` nodes are attached using 19 different relations: <tt><a href="pt_bosque-dep-nummod.html">nummod</a></tt> (415; 38% instances), <tt><a href="pt_bosque-dep-case.html">case</a></tt> (209; 19% instances), <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (139; 13% instances), <tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt> (129; 12% instances), <tt><a href="pt_bosque-dep-advmod.html">advmod</a></tt> (29; 3% instances), <tt><a href="pt_bosque-dep-cop.html">cop</a></tt> (28; 3% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (26; 2% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (22; 2% instances), <tt><a href="pt_bosque-dep-appos.html">appos</a></tt> (21; 2% instances), <tt><a href="pt_bosque-dep-det.html">det</a></tt> (18; 2% instances), <tt><a href="pt_bosque-dep-cc.html">cc</a></tt> (16; 1% instances), <tt><a href="pt_bosque-dep-amod.html">amod</a></tt> (11; 1% instances), <tt><a href="pt_bosque-dep-acl.html">acl</a></tt> (7; 1% instances), <tt><a href="pt_bosque-dep-acl-relcl.html">acl:relcl</a></tt> (4; 0% instances), <tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="pt_bosque-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+Children of `SYM` nodes are attached using 19 different relations: <tt><a href="pt_bosque-dep-nummod.html">nummod</a></tt> (415; 38% instances), <tt><a href="pt_bosque-dep-case.html">case</a></tt> (209; 19% instances), <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (141; 13% instances), <tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt> (129; 12% instances), <tt><a href="pt_bosque-dep-advmod.html">advmod</a></tt> (29; 3% instances), <tt><a href="pt_bosque-dep-cop.html">cop</a></tt> (28; 3% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (26; 2% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (22; 2% instances), <tt><a href="pt_bosque-dep-appos.html">appos</a></tt> (21; 2% instances), <tt><a href="pt_bosque-dep-det.html">det</a></tt> (18; 2% instances), <tt><a href="pt_bosque-dep-cc.html">cc</a></tt> (16; 1% instances), <tt><a href="pt_bosque-dep-amod.html">amod</a></tt> (11; 1% instances), <tt><a href="pt_bosque-dep-acl.html">acl</a></tt> (7; 1% instances), <tt><a href="pt_bosque-dep-acl-relcl.html">acl:relcl</a></tt> (4; 0% instances), <tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="pt_bosque-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Children of `SYM` nodes belong to 14 different parts of speech: <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (424; 39% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (209; 19% instances), <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (139; 13% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (126; 12% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (52; 5% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (29; 3% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (28; 3% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (18; 2% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (16; 1% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Children of `SYM` nodes belong to 14 different parts of speech: <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (424; 39% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (209; 19% instances), <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (141; 13% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (126; 12% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (52; 5% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (29; 3% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (28; 3% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (18; 2% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (16; 1% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

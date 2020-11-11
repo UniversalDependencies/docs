@@ -8,50 +8,52 @@ udver: '2'
 
 This relation is universal.
 
-76 nodes (1%) are attached to their parents as `advcl`.
+1294 nodes (0%) are attached to their parents as `advcl`.
 
-38 instances of `advcl` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.71052631578947.
+844 instances of `advcl` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.62751159196291.
 
-The following 11 pairs of parts of speech are connected with `advcl`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (53; 70% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (5; 7% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 44 pairs of parts of speech are connected with `advcl`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (919; 71% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (71; 5% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (60; 5% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (49; 4% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (44; 3% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (33; 3% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (18; 1% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 advcl	color:blue
-1	Равучы	равець	VERB	NNP	Aspect=Imp|Tense=Pres|VerbForm=Conv	5	advcl	_	SpaceAfter=No
-2	,	,	PUNCT	PUNCT	_	1	punct	_	_
-3	цмок	цмок	NOUN	CC	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
-4	тройчы	тройчы	ADV	NNP	_	5	advmod	_	_
-5	пракружляў	пракружяць	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-6	над	над	ADP	IN	_	7	case	_	_
-7	натоўпам	натоўп	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-8	.	.	PUNCT	PUNCT	_	5	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 9 advcl	color:blue
+1	Яны	яны	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	сышла	сысці	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	з	з	ADP	IN	_	5	case	_	_
+4	бацькоўскага	бацькоўскі	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	дому	дом	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	9	punct	_	_
+7	бо	бо	SCONJ	IN	_	9	mark	_	_
+8	бацькі	бацька	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+9	пачалі	пачаць	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+10	біць	біць	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	яе	яе	DET	DT	Poss=Yes|PronType=Prs	12	det	_	_
+12	дзяцей	дзіця	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur	10	obj	_	SpaceAfter=No
+13	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 7 advcl	color:blue
-1	А	а	CCONJ	CC	_	11	cc	_	_
-2	калі	калі	SCONJ	IN	_	7	mark	_	_
-3	беларусы	беларус	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
-4	не	не	PART	UH	Polarity=Neg	7	advmod	_	_
-5	будуць	быць	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	aux	_	_
-6	мяне	я	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
-7	разумець	разумець	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	11	advcl	_	SpaceAfter=No
-8	,	,	PUNCT	PUNCT	_	7	punct	_	_
-9	гэта	гэта	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	_
-10	іх	іх	DET	PRP$	Poss=Yes|PronType=Prs	11	det	_	_
-11	праблема	праблема	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	PUNCT	_	11	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 4 advcl	color:blue
+1	Галоўнае	галоўны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	4	punct	_	_
+3	як	як	SCONJ	IN	_	4	mark	_	_
+4	сказаў	сказаць	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
+5	кіраўнік	кіраўнік	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	4	punct	_	_
+7	—	-	PUNCT	PUNCT	_	8	punct	_	_
+8	эканоміка	эканоміка	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~
 
@@ -62,16 +64,16 @@ The following 11 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 9 advcl	color:blue
-1	Але	але	CCONJ	_	_	2	cc	_	_
-2	ўдзельнічаю	ўдзельнічаць	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	з	з	ADP	_	_	4	case	_	_
-4	задавальненнем	задавальненне	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	9	punct	_	_
-6	бо	бо	SCONJ	_	_	9	mark	_	_
-7	гэта	гэта	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
-8	каласальны	каласальны	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
-9	досвед	досвед	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	advcl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	_	_
+1	Але	але	CCONJ	CC	_	2	cc	_	_
+2	ўдзельнічаю	удзельнічаць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	з	з	ADP	IN	_	4	case	_	_
+4	задавальненнем	задавальненне	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	9	punct	_	_
+6	бо	бо	SCONJ	IN	_	9	mark	_	_
+7	гэта	гэта	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	_
+8	каласальны	каласальны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	досвед	досвед	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

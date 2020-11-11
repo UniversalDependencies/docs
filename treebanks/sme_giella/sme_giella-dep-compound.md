@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 1	Reivelonuhallan	reivelonuhit	NOUN	V*	Case=Nom|Number=Sing	5	nsubj	_	_
 2	sámi	sápmi	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
 3	institušuvnnaiguin	institušuvdna	NOUN	N	Case=Com|Number=Plur	5	obl	_	_
-4	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	galgá	galgat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	dahkkot	dahkat	VERB	V*	VerbForm=Inf|Voice=Pass	0	root	_	_
 6	sáme-	sápmi	NOUN	N	_	8	compound	_	_
 7	ja	ja	CCONJ	CC	_	6	cc	_	_
@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 12	fgColor:white
 # visual-style 12 8 compound	color:blue
 1	Dat	dat	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	3	nsubj	_	_
-2	ii	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	3	aux:neg	_	_
+2	ii	ii	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	3	aux:neg	_	_
 3	bistán	bistit	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	guhká	guhká	ADV	Adv	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	3	punct	_	_
@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 2	seammádássásaš	seammadássásaš	ADJ	A	_	3	amod	_	_
 3	bohtosiid	boađus	NOUN	N	Case=Gen|Number=Plur	4	nmod:poss	_	_
 4	juksamis	juksat	NOUN	V*	Case=Loc|Number=Sing	6	obl	_	_
-5	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	galgá	galgat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	gustot	gustot	VERB	V	VerbForm=Inf	0	root	_	_
 7	álo	álo	ADV	Adv	_	6	advmod	_	_
 8	beroškeahttá	beroštit	VERB	V	Case=Abe|VerbForm=Ger	6	advcl	_	_

@@ -8,31 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-573 nodes (3%) are attached to their parents as `det`.
+700 nodes (4%) are attached to their parents as `det`.
 
-397 instances of `det` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.42233856893543.
+442 instances of `det` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.22428571428571.
 
-The following 16 pairs of parts of speech are connected with `det`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (408; 71% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (57; 10% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (33; 6% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (22; 4% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (11; 2% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-PART.html">PART</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 det	color:blue
-1	Skema	_	NOUN	NN	_	3	nsubj	_	_
-2	ini	_	DET	DT	_	1	det	_	_
-3	menghasilkan	_	NOUN	NN	_	0	root	_	SpaceAfter=No
-4	uang	_	NOUN	NN	_	3	obj	_	_
-5	melalui	_	ADP	IN	_	6	case	_	_
-6	sponsor	_	NOUN	NN	_	3	nmod	_	ToDo=nmod
-7	dan	_	CCONJ	CC	_	8	cc	_	_
-8	iklan	_	NOUN	NN	_	6	conj	_	SpaceAfter=No
-9	.	_	PUNCT	.	_	3	punct	_	_
-
-~~~
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (646; 92% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (19; 3% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (11; 2% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,16 +22,41 @@ The following 16 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 det	color:blue
-1	Pengeluaran	_	VERB	VV	_	4	nsubj:pass	_	SpaceAfter=No
-2	baru	_	ADJ	JJ	_	1	amod	_	_
-3	ini	_	DET	DT	_	1	det	_	_
-4	dipasok	_	VERB	VV	_	0	root	_	_
-5	oleh	_	ADP	IN	_	6	case	_	_
-6	rekening	_	NOUN	NN	_	4	obl	_	_
-7	bank	_	NOUN	NN	_	6	compound	_	_
-8	gemuk	_	ADJ	JJ	_	6	amod	_	_
-9	Clinton	_	PROPN	NNP	_	6	nmod:poss	_	SpaceAfter=No
-10	.	_	PUNCT	.	_	4	punct	_	_
+1	Pengeluaran	keluar	NOUN	_	Number=Sing	4	nsubj:pass	_	_
+2	baru	baru	ADJ	_	_	1	amod	_	_
+3	ini	ini	DET	_	PronType=Dem	1	det	_	_
+4	dipasok	pasok	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+5	oleh	oleh	ADP	_	_	6	case	_	_
+6	rekening	rekening	NOUN	_	Number=Sing	4	obl:agent	_	_
+7	bank	bank	NOUN	_	Number=Sing	6	nmod	_	_
+8	gemuk	gemuk	ADJ	_	_	6	amod	_	_
+9	Clinton	Clinton	PROPN	_	_	6	nmod:poss	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 det	color:blue
+1	Selain	selain	ADP	_	_	2	case	_	_
+2	itu	itu	PRON	_	PronType=Dem	11	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	terjadi	jadi	VERB	_	Mood=Ind|Voice=Pass	11	csubj:pass	_	_
+5	nya	nya	DET	_	_	4	det	_	_
+6	badai	badai	NOUN	_	Number=Sing	4	nsubj:pass	_	_
+7	di	di	ADP	_	_	8	case	_	_
+8	pulau	pulau	NOUN	_	Number=Sing	6	nmod	_	_
+9	ini	ini	DET	_	PronType=Dem	8	det	_	_
+10	mungkin	mungkin	AUX	_	_	11	aux	_	_
+11	terjadi	jadi	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+12	selama	lama	ADP	_	_	13	case	_	_
+13	musim	musim	NOUN	_	Number=Sing	11	obl:tmod	_	_
+14	panas	panas	ADJ	_	_	13	amod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
 
@@ -61,15 +67,14 @@ The following 16 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 det	color:blue
-1	Sebelumnya	_	ADV	RB	_	6	aux	_	SpaceAfter=No
-2	,	_	PUNCT	,	_	1	punct	_	_
-3	jet	_	NOUN	NN	_	6	nsubj:pass	_	_
-4	tersebut	_	VERB	VV	_	3	det	_	_
-5	hanya	_	ADV	RB	_	6	aux	_	_
-6	dilihat	_	VERB	VV	_	0	root	_	_
-7	oleh	_	ADP	IN	_	8	case	_	_
-8	blogger	_	NOUN	NN	_	6	obl	_	SpaceAfter=No
-9	.	_	PUNCT	.	_	6	punct	_	_
+1	Dua	dua	NUM	_	NumType=Card	2	nsubj	_	_
+2	mengukur	ukur	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	lama	lama	ADJ	_	_	2	ccomp	_	_
+4	nya	nya	DET	_	_	3	det	_	_
+5	bulan-bulan	bulan	NOUN	_	Number=Plur	4	nsubj	_	_
+6	kalender	kalender	NOUN	_	Number=Sing	5	nmod	_	_
+7	Cina	Cina	PROPN	_	_	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

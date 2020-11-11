@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: Relations: `nsubj`
 
 This relation is universal.
-There are 1 language-specific subtypes of `nsubj`: <tt><a href="sms_giellagas-dep-nsubj-cop.html">nsubj:cop</a></tt>.
+There are 2 language-specific subtypes of `nsubj`: <tt><a href="sms_giellagas-dep-nsubj-cop.html">nsubj:cop</a></tt>, <tt><a href="sms_giellagas-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-102 nodes (9%) are attached to their parents as `nsubj`.
+122 nodes (9%) are attached to their parents as `nsubj`.
 
-92 instances of `nsubj` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.73529411764706.
+110 instances of `nsubj` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.81147540983607.
 
-The following 8 pairs of parts of speech are connected with `nsubj`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (49; 48% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (43; 42% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `nsubj`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (61; 50% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (39; 32% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (10; 8% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -53,21 +53,19 @@ The following 8 pairs of parts of speech are connected with `nsubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 nsubj	color:blue
-1	Mary	Mary	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	nsubj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-2	vuäǯǯai	vuäǯǯad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
-3	proons	pronss	NOUN	N	Case=Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	conj	_	GTtags=Prop,Sem/Mal,Sg,Nom
-6	siilb	silbb	NOUN	N	Case=Acc|Number=Sing	5	orphan	_	GTtags=Sg,Acc
-7	da	da	CCONJ	CC	_	8	cc	_	_
-8	Jane	Jane	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-9	kååʹll	kåʹll	NOUN	N	Case=Acc|Number=Sing	8	orphan	_	GTtags=Sg,Acc|SpaceAfter=No
-10	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 2 7 nsubj	color:blue
+1	Seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	2	obl	_	GTtags=Pers,Pl3,Loc
+2	jeäʹla	iʹlla	AUX	V	Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=V
+3	ǩeeʹrjteeʹjest	ǩeeʹrjteei	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
+4	võl	võl	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
+5	ni	ni	PART	Pcle	_	6	advmod:neg	_	_
+6	måkam	måkam	DET	Det	_	7	det	_	GTtags=Attr
+7	jurddi	juurd	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	GTtags=Pl,Nom|SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

@@ -28,7 +28,7 @@ The following 29 pairs of parts of speech are connected with `fixed`: <tt><a hre
 4	wie	wie	ADV	KON	_	3	fixed	_	_
 5	vor	vor	ADV	ADV	_	3	fixed	_	_
 6	in	in	ADP	APPR	_	7	case	_	_
-7	Würzburg	Würzburg	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	1	obl	_	SpaceAfter=No
+7	Würzburg	Würzburg	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	1	obl	_	SpaceAfter=No|NamedEntity=Yes
 8	.	.	PUNCT	$.	_	1	punct	_	_
 
 ~~~
@@ -61,12 +61,12 @@ The following 29 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
 1	Auf	auf	ADP	APPR	_	3	case	_	_
-2	Brittas	Brittas	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+2	Brittas	Brittas	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	NamedEntity=Yes
 3	Wunsch	Wunsch	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
 4	hin	hin	ADP	ADV	_	3	fixed	_	_
 5	halten	halten	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	beide	beide	PRON	PIS	Case=Nom|Definite=Ind|Number=Plur|PronType=Ind	5	nsubj	_	_
-7	ihre	ihr	DET	PPOSAT	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes	8	det:poss	_	_
+7	ihre	ihr	DET	PPOSAT	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det:poss	_	_
 8	Beziehung	Beziehung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
 9	jedoch	jedoch	ADV	ADV	_	5	advmod	_	_
 10	geheim	geheim	ADV	ADJD	_	5	mark	_	SpaceAfter=No

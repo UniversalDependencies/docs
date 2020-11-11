@@ -34,7 +34,7 @@ The following 46 pairs of parts of speech are connected with `parataxis`: <tt><a
 10	玛氏	玛氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
 11	则	则	ADV	RB	_	12	mark	_	SpaceAfter=No
 12	中断	中断	VERB	VV	_	6	parataxis	_	SpaceAfter=No
-13	了	了	PART	AS	Aspect=Perf	12	case:aspect	_	SpaceAfter=No
+13	了	了	PART	AS	Aspect=Perf	12	aux:aspect	_	SpaceAfter=No
 14	生产	生产	NOUN	NN	_	12	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 16	公司	公司	NOUN	NN	_	17	nmod	_	SpaceAfter=No
@@ -57,7 +57,7 @@ The following 46 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	他	他	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No
 2	每天	每天	DET	DT	_	9	nmod:tmod	_	SpaceAfter=No
 3	赶	赶	VERB	VV	_	9	advcl	_	SpaceAfter=No
-4	着	着	PART	AS	Aspect=Prog	3	case:aspect	_	SpaceAfter=No
+4	着	着	PART	AS	Aspect=Prog	3	aux:aspect	_	SpaceAfter=No
 5	马车	马车	NOUN	NN	_	3	obj	_	SpaceAfter=No
 6	到	到	VERB	VV	_	9	advcl	_	SpaceAfter=No
 7	灾区	灾区	NOUN	NN	_	6	obj	_	SpaceAfter=No
@@ -96,7 +96,7 @@ The following 46 pairs of parts of speech are connected with `parataxis`: <tt><a
 13	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
 14	它	它	PRON	PRP	Person=3	15	nsubj	_	SpaceAfter=No
 15	融合	融合	VERB	VV	_	12	parataxis	_	SpaceAfter=No
-16	了	了	PART	AS	Aspect=Perf	15	case:aspect	_	SpaceAfter=No
+16	了	了	PART	AS	Aspect=Perf	15	aux:aspect	_	SpaceAfter=No
 17	动作	动作	NOUN	NN	_	18	nmod	_	SpaceAfter=No
 18	游戏	游戏	NOUN	NN	_	21	nmod	_	SpaceAfter=No
 19	的	的	PART	DEC	Case=Gen	18	case:dec	_	SpaceAfter=No

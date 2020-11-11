@@ -188,7 +188,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 `VERB` tokens may have the following values of `Case`:
 
 * `Nom` (5; 100% of non-empty `Case`): <em>закончитэм, бергедчема, босьтӧм, ветлысь</em>
-* `EMPTY` (189): <em>босьтіс, вежсис, вермы, ветлі, мӧдэма, примитіс, пукаліс, рӧдитчи, рӧдитчылі, ветліс</em>
+* `EMPTY` (193): <em>босьтіс, вежсис, вермы, ветлі, мӧдэма, примитіс, пукаліс, рӧдитчи, рӧдитчылі, ветліс</em>
 
 ## Relations with Agreement in `Case`
 

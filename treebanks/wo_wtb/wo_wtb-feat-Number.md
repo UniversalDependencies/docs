@@ -191,11 +191,11 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>PRON --[<tt><a href="wo_wtb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (48; 96%),
 <tt>PRON --[<tt><a href="wo_wtb-dep-det.html">det</a></tt>]--> DET</tt> (31; 91%),
 <tt>PRON --[<tt><a href="wo_wtb-dep-conj.html">conj</a></tt>]--> PRON</tt> (21; 91%),
+<tt>PRON --[<tt><a href="wo_wtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (10; 71%),
 <tt>NOUN --[<tt><a href="wo_wtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8; 89%),
-<tt>PRON --[<tt><a href="wo_wtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (8; 67%),
 <tt>PRON --[<tt><a href="wo_wtb-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (6; 86%),
 <tt>PRON --[<tt><a href="wo_wtb-dep-advmod.html">advmod</a></tt>]--> PRON</tt> (2; 100%),
-<tt>PRON --[<tt><a href="wo_wtb-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (2; 100%),
 <tt>PRON --[<tt><a href="wo_wtb-dep-parataxis.html">parataxis</a></tt>]--> PRON</tt> (2; 100%),
-<tt>PRON --[<tt><a href="wo_wtb-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="wo_wtb-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="wo_wtb-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (1; 100%).
 

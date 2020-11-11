@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Icelandic-PUD: POS Tags: `CCONJ`
 
 There are 8 `CCONJ` lemmas (0%), 8 `CCONJ` types (0%) and 692 `CCONJ` tokens (4%).
-Out of 17 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 11 in number of tokens.
+Out of 17 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 13 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>og, en, eða, bæði, heldur, annaðhvort, enda, né</em>
 
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>og</em> (<tt><a href="is_pud-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.365617).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.365967).
 
 The 1st highest number of forms (1) was observed with the lemma “annaðhvort”: <em>annaðhvort</em>.
 

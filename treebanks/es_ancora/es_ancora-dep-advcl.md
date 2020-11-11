@@ -24,9 +24,9 @@ The following 79 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 6 4 advcl	color:blue
 1	Cuando	cuando	SCONJ	SCONJ	_	4	mark	_	_
 2	alguien	alguien	PRON	PRON	Number=Sing|PronType=Ind	4	nsubj	_	_
-3	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	obj	_	_
+3	se	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 4	asomaba	asomar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
-5	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	obj	_	_
+5	se	él	PRON	PRON	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 6	quedaba	quedar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 7	enganchado	enganchado	ADJ	ADJ	Gender=Masc|Number=Sing|VerbForm=Part	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_

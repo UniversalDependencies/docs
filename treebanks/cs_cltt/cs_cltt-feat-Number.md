@@ -12,14 +12,14 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cs_cltt-feat-Number.html">Number</a></tt>, <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt>.
 
-21253 tokens (60%) have a non-empty value of `Number`.
-3979 types (85%) occur at least once with a non-empty value of `Number`.
-1780 lemmas (67%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11245; 32% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6766; 19% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1542; 4% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (978; 3% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (497; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (156; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (69; 0% instances).
+21299 tokens (58%) have a non-empty value of `Number`.
+3983 types (85%) occur at least once with a non-empty value of `Number`.
+1780 lemmas (65%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11245; 31% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6766; 18% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1542; 4% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (978; 3% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (543; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (156; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (69; 0% instances).
 
 ### `NOUN`
 
-11245 <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+11245 <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11230; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6704; 60%).
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 * `Plur` (3276; 29% of non-empty `Number`): <em>jednotky, jednotek, závazků, položek, náklady, závazky, nákladů, informace, položky, záznamy</em>
 * `Sing` (7969; 71% of non-empty `Number`): <em>jednotka, majetku, období, ocenění, účetnictví, položka, dni, závěrky, jednotky, společnosti</em>
-* `EMPTY` (58): <em>Kč, Není-li, Nestanoví-li, B, Je-li, Jsou-li, USD, Zjistí-li, m, m2</em>
+* `EMPTY` (47): <em>Kč, Nestanoví-li, B, USD, Zjistí-li, m, m2, B., Dojde-li, Má-li</em>
 
 <table>
   <tr><th>Paradigm <i>jednotka</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 * `Plur` (2487; 37% of non-empty `Number`): <em>účetní, účetních, povinny, jiných, peněžních, uvedených, právních, účetními, ostatní, uvedené</em>
 * `Plur,Sing` (78; 1% of non-empty `Number`): <em>povinna, sestavena, zavedena, uvedena, známa, dotčena, oprávněna, schopna, vyhlášena, vykazována</em>
 * `Sing` (4201; 62% of non-empty `Number`): <em>účetní, účetního, konsolidované, finanční, konsolidující, výroční, účetním, právní, reálnou, obchodního</em>
-* `EMPTY` (15): <em>do, něm, od, pod</em>
+* `EMPTY` (6): <em>něm, do, pod</em>
 
 <table>
   <tr><th>Paradigm <i>uvedený</i></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -136,15 +136,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `AUX`
 
-497 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Number`.
+543 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (497; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (438; 88%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (438; 88%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (438; 88%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (438; 88%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (436; 88%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (417; 84%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (543; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (484; 89%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (484; 89%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (484; 89%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (463; 85%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (457; 84%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (223; 45% of non-empty `Number`): <em>jsou, nejsou, byly, budou, nebyly</em>
+* `Plur` (236; 43% of non-empty `Number`): <em>jsou, nejsou, byly, budou, nebyly</em>
 * `Plur,Sing` (9; 2% of non-empty `Number`): <em>byla, nebyla</em>
-* `Sing` (265; 53% of non-empty `Number`): <em>je, není, bude, byl, bylo, nebyl</em>
+* `Sing` (298; 55% of non-empty `Number`): <em>je, není, bude, byl, bylo, nebyl</em>
 * `EMPTY` (73): <em>být, by</em>
 
 <table>
@@ -156,7 +156,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>nebyla</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>byla</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>bylo</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>nejsou</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>není</em></td><td><em>nejsou</em></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>bude</em></td><td><em>budou</em></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>je, není</em></td><td><em>jsou</em></td></tr>
 </table>
@@ -171,7 +171,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (71; 46% of non-empty `Number`): <em>nichž, je, jim, jimiž, nich, veškeré, jimi, nimi, ně, veškerých</em>
 * `Sing` (85; 54% of non-empty `Number`): <em>němž, jej, němuž, jí, jehož, ji, ní, níž, nějž, jenž</em>
-* `EMPTY` (475): <em>se, sobě, sebou, si</em>
+* `EMPTY` (480): <em>se, sobě, sebou, si</em>
 
 <table>
   <tr><th>Paradigm <i>jenž</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -214,14 +214,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6028; 99%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6029; 99%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2618; 64%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1372; 76%),
-<tt>VERB --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (647; 92%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (646; 92%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (463; 72%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (299; 50%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (301; 50%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (265; 89%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-cop.html">cop</a></tt>]--> AUX</tt> (235; 80%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (235; 67%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (216; 95%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-cop.html">cop</a></tt>]--> AUX</tt> (207; 79%).
+<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (216; 95%).
 

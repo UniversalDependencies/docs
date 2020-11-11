@@ -47,7 +47,7 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 22	vita	vita	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	FF	_	13	punct	_	_
 24	che	che	SCONJ	CS	_	26	mark	_	_
-25	si	si	PRON	PC	Clitic=Yes|Gender=Masc|Person=3|PronType=Prs	26	expl:pass	_	_
+25	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	26	expl:pass	_	_
 26	determinano	determinare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 27	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	grado	grado	NOUN	S	Gender=Masc|Number=Sing	26	nsubj:pass	_	_

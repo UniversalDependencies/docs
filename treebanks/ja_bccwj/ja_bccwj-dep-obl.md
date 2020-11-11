@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-29630 nodes (2%) are attached to their parents as `obl`.
+70617 nodes (6%) are attached to their parents as `obl`.
 
-29630 instances of `obl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.11690853864327.
+70564 instances of `obl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.97198974751122.
 
-The following 87 pairs of parts of speech are connected with `obl`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (16990; 57% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (4362; 15% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (1817; 6% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (1108; 4% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (1065; 4% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (643; 2% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (446; 2% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (442; 1% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (382; 1% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (269; 1% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (187; 1% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (178; 1% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (171; 1% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (157; 1% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (150; 1% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (130; 0% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (123; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (69; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (67; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (67; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (59; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (54; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (54; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (53; 0% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (41; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (36; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (36; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (36; 0% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (36; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (28; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (27; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (24; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (23; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (22; 0% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (21; 0% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (20; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (17; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (14; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (13; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 62 pairs of parts of speech are connected with `obl`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (54907; 78% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (3845; 5% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (3588; 5% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (2983; 4% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (2245; 3% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (531; 1% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (408; 1% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (403; 1% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (257; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (189; 0% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (162; 0% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (160; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (139; 0% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (116; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (83; 0% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (54; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (51; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (49; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (49; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (41; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (37; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (34; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (30; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (27; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (27; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (27; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (12; 0% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,88 +22,86 @@ The following 87 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 obl	color:blue
-1	_	_	NOUN	_	_	3	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-2	_	_	NUM	_	_	3	nummod	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-3	_	_	NOUN	_	_	12	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=0|SpaceAfter=Yes
-4	_	_	NOUN	_	_	6	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-5	_	_	ADP	_	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-6	_	_	VERB	_	_	12	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
-7	_	_	NOUN	_	_	8	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-8	_	_	NOUN	_	_	10	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-9	_	_	ADP	_	_	8	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-10	_	_	NOUN	_	_	12	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-11	_	_	ADP	_	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-12	_	_	NOUN	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+1	_	_	NOUN	_	_	3	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No
+2	_	_	NUM	_	_	3	nummod	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No
+3	_	_	NOUN	_	_	12	dep	_	BBIL=I|BPT=4|LBIL=I|LPOS=0|SpaceAfter=Yes
+4	_	_	NOUN	_	_	6	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No
+5	_	_	ADP	_	_	4	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No
+6	_	_	VERB	_	_	12	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=3|SpaceAfter=No
+7	_	_	NOUN	_	_	8	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No
+8	_	_	NOUN	_	_	10	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No
+9	_	_	ADP	_	_	8	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No
+10	_	_	NOUN	_	_	12	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No
+11	_	_	ADP	_	_	10	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No
+12	_	_	NOUN	_	_	0	root	_	BBIL=B|BPT=4|LBIL=B|LPOS=0|SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 16 obl	color:blue
-1	_	_	NUM	_	_	21	dep	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=3|SpaceAfter=Yes
-2	_	_	NOUN	_	_	3	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-3	_	_	NOUN	_	_	6	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-4	_	_	ADP	_	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-5	_	_	NOUN	_	_	6	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-6	_	_	NOUN	_	_	13	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-7	_	_	ADP	_	_	6	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-8	_	_	NOUN	_	_	10	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-9	_	_	NOUN	_	_	10	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-10	_	_	NOUN	_	_	13	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-11	_	_	ADP	_	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-12	_	_	NOUN	_	_	13	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-13	_	_	NOUN	_	_	16	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-14	_	_	ADP	_	_	13	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-15	_	_	ADJ	_	_	16	amod	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-16	_	_	NOUN	_	_	19	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-17	_	_	ADP	_	_	16	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-18	_	_	VERB	_	_	16	compound	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
-19	_	_	NOUN	_	_	21	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-20	_	_	ADP	_	_	19	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-21	_	_	VERB	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
-22	_	_	PUNCT	_	_	21	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=7|SpaceAfter=No
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 obl	color:blue
+1	_	_	NUM	_	_	3	nummod	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No
+2	_	_	NOUN	_	_	3	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No
+3	_	_	NOUN	_	_	5	obl	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No
+4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No
+5	_	_	ADJ	_	_	9	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=13|SpaceAfter=No
+6	_	_	AUX	_	_	5	cop	_	BBIL=I|BPT=2|LBIL=B|LPOS=2|SpaceAfter=No
+7	_	_	NOUN	_	_	9	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No
+8	_	_	NOUN	_	_	9	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No
+9	_	_	NOUN	_	_	24	obj	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No
+10	_	_	PUNCT	_	_	9	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=12|SpaceAfter=No
+11	_	_	NOUN	_	_	9	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No
+12	_	_	NOUN	_	_	9	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No
+13	_	_	ADP	_	_	9	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=14|SpaceAfter=No
+14	_	_	ADP	_	_	9	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=1|SpaceAfter=No
+15	_	_	NOUN	_	_	9	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No
+16	_	_	PUNCT	_	_	9	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=11|SpaceAfter=No
+17	_	_	ADP	_	_	9	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No
+18	_	_	NUM	_	_	19	nummod	_	BBIL=B|BPT=0|LBIL=B|LPOS=5|SpaceAfter=No
+19	_	_	NOUN	_	_	22	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=5|SpaceAfter=No
+20	_	_	ADP	_	_	19	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No
+21	_	_	NUM	_	_	22	nummod	_	BBIL=B|BPT=0|LBIL=B|LPOS=5|SpaceAfter=No
+22	_	_	NOUN	_	_	24	obl	_	BBIL=I|BPT=1|LBIL=I|LPOS=5|SpaceAfter=No
+23	_	_	ADP	_	_	22	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No
+24	_	_	NOUN	_	_	0	root	_	BBIL=B|BPT=4|LBIL=B|LPOS=0|SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
-# visual-style 27 12 obl	color:blue
-1	_	_	NUM	_	_	27	dep	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=3|SpaceAfter=Yes
-2	_	_	NOUN	_	_	6	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-3	_	_	NOUN	_	_	6	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-4	_	_	NOUN	_	_	6	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-5	_	_	NOUN	_	_	6	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-6	_	_	NOUN	_	_	10	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-7	_	_	ADP	_	_	6	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-8	_	_	ADV	_	_	10	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=17|SpaceAfter=No
-9	_	_	ADP	_	_	8	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-10	_	_	NOUN	_	_	12	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-11	_	_	ADP	_	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-12	_	_	VERB	_	_	27	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
-13	_	_	ADP	_	_	12	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=18|SpaceAfter=No
-14	_	_	NOUN	_	_	12	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=18|SpaceAfter=No
-15	_	_	ADP	_	_	12	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=18|SpaceAfter=No
-16	_	_	PUNCT	_	_	12	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
-17	_	_	NOUN	_	_	19	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-18	_	_	ADP	_	_	17	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-19	_	_	NOUN	_	_	25	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-20	_	_	PUNCT	_	_	19	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
-21	_	_	NOUN	_	_	25	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-22	_	_	ADP	_	_	21	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-23	_	_	NOUN	_	_	25	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
-24	_	_	NOUN	_	_	25	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-25	_	_	NOUN	_	_	27	obj	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-26	_	_	ADP	_	_	25	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-27	_	_	VERB	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
-28	_	_	PUNCT	_	_	27	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=7|SpaceAfter=No
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 24 22 obl	color:blue
+1	_	_	NUM	_	_	3	nummod	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No
+2	_	_	NOUN	_	_	3	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No
+3	_	_	NOUN	_	_	5	obl	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No
+4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No
+5	_	_	ADJ	_	_	9	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=13|SpaceAfter=No
+6	_	_	AUX	_	_	5	cop	_	BBIL=I|BPT=2|LBIL=B|LPOS=2|SpaceAfter=No
+7	_	_	NOUN	_	_	9	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No
+8	_	_	NOUN	_	_	9	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No
+9	_	_	NOUN	_	_	24	obj	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No
+10	_	_	PUNCT	_	_	9	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=12|SpaceAfter=No
+11	_	_	NOUN	_	_	9	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No
+12	_	_	NOUN	_	_	9	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No
+13	_	_	ADP	_	_	9	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=14|SpaceAfter=No
+14	_	_	ADP	_	_	9	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=1|SpaceAfter=No
+15	_	_	NOUN	_	_	9	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No
+16	_	_	PUNCT	_	_	9	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=11|SpaceAfter=No
+17	_	_	ADP	_	_	9	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No
+18	_	_	NUM	_	_	19	nummod	_	BBIL=B|BPT=0|LBIL=B|LPOS=5|SpaceAfter=No
+19	_	_	NOUN	_	_	22	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=5|SpaceAfter=No
+20	_	_	ADP	_	_	19	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No
+21	_	_	NUM	_	_	22	nummod	_	BBIL=B|BPT=0|LBIL=B|LPOS=5|SpaceAfter=No
+22	_	_	NOUN	_	_	24	obl	_	BBIL=I|BPT=1|LBIL=I|LPOS=5|SpaceAfter=No
+23	_	_	ADP	_	_	22	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No
+24	_	_	NOUN	_	_	0	root	_	BBIL=B|BPT=4|LBIL=B|LPOS=0|SpaceAfter=No
 
 ~~~
 

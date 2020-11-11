@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cs_cac-dep-nummod.html">nummod</a></tt>.
 
-1189 nodes (0%) are attached to their parents as `nummod:gov`.
+1188 nodes (0%) are attached to their parents as `nummod:gov`.
 
-1156 instances of `nummod:gov` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.31118587047939.
+1155 instances of `nummod:gov` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.30976430976431.
 
-The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1157; 97% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (31; 3% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1156; 97% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (31; 3% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-426 nodes (1%) are attached to their parents as `ccomp`.
+463 nodes (1%) are attached to their parents as `ccomp`.
 
-409 instances of `ccomp` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.68075117370892.
+446 instances of `ccomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.57667386609071.
 
-The following 17 pairs of parts of speech are connected with `ccomp`: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (337; 79% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (20; 5% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (18; 4% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (17; 4% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `ccomp`: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (371; 80% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (21; 5% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (20; 4% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (17; 4% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -33,6 +33,30 @@ The following 17 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 9	ne	ne	PART	dll.	_	10	advmod:emph	10:advmod:emph	_
 10	tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	8	obj	8:obj	SpaceAfter=No
 11	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 ccomp	color:blue
+1	Nesijauskite	nesijausti	VERB	vksm.asm.neig.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Reflex=Yes|VerbForm=Fin	0	root	0:root	_
+2	blogai	blogai	ADV	prv.nelygin.	Degree=Pos	1	advmod	1:advmod	_
+3	dėl	dėl	ADP	prl.K.	AdpType=Prep|Case=Gen	4	case	4:case	_
+4	to	tas	DET	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	1	obl:arg	1:obl:arg:dėl:gen	SpaceAfter=No
+5	,	,	PUNCT	skyr.	_	7	punct	7:punct	_
+6	kad	kad	SCONJ	jng.	_	7	mark	7:mark	_
+7	neturite	neturėti	VERB	vksm.asm.neig.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	ccomp	4:ccomp	_
+8	už	už	ADP	prl.G.	AdpType=Prep|Case=Acc	9	case	9:case	_
+9	ką	kas	PRON	įv.G.	Case=Acc|Definite=Ind|PronType=Int,Rel	10	obl:arg	10:obl:arg:už:acc	_
+10	nupirkti	nupirkti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	7	xcomp	7:xcomp	_
+11	vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	12	obl:arg	12:obl:arg:gen	_
+12	trokštamų	trokšti	VERB	vksm.dlv.neveik.es.mot.dgs.K.	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	13	acl	13:acl	_
+13	dovanų	dovana	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	10	obl:arg	10:obl:arg:gen	SpaceAfter=No
+14	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 ~~~
 
@@ -61,30 +85,6 @@ The following 17 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 16	buvo	būti	AUX	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	17	cop	17:cop	_
 17	svarbiausias	svarbus	ADJ	bdv.aukšč.vyr.vns.V.	Case=Nom|Definite=Ind|Degree=Sup|Gender=Masc|Number=Sing	11	ccomp	11:ccomp	SpaceAfter=No
 18	.	.	PUNCT	skyr.	_	3	punct	3:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 ccomp	color:blue
-1	Nesijauskite	nesijausti	VERB	vksm.asm.neig.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Reflex=Yes|VerbForm=Fin	0	root	0:root	_
-2	blogai	blogai	ADV	prv.nelygin.	Degree=Pos	1	advmod	1:advmod	_
-3	dėl	dėl	ADP	prl.K.	AdpType=Prep|Case=Gen	4	case	4:case	_
-4	to	tas	DET	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	1	obl:arg	1:obl:arg:dėl:gen	SpaceAfter=No
-5	,	,	PUNCT	skyr.	_	7	punct	7:punct	_
-6	kad	kad	SCONJ	jng.	_	7	mark	7:mark	_
-7	neturite	neturėti	VERB	vksm.asm.neig.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	ccomp	4:ccomp	_
-8	už	už	ADP	prl.G.	AdpType=Prep|Case=Acc	9	case	9:case	_
-9	ką	kas	PRON	įv.G.	Case=Acc|Definite=Ind|PronType=Int,Rel	10	obl:arg	10:obl:arg:už:acc	_
-10	nupirkti	nupirkti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	7	xcomp	7:xcomp	_
-11	vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	12	obl:arg	12:obl:arg:gen	_
-12	trokštamų	trokšti	VERB	vksm.dlv.neveik.es.mot.dgs.K.	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	13	acl	13:acl	_
-13	dovanų	dovana	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	10	obl:arg	10:obl:arg:gen	SpaceAfter=No
-14	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 ~~~
 

@@ -16,11 +16,11 @@ Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
-The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Alexandre Rademaker, Fabricio Chalub, Carlos Ramisch.
+The following people have contributed to making this treebank part of UD: Alexandre Rademaker, Ryan McDonald, Joakim Nivre, Daniel Zeman, Fabricio Chalub, Carlos Ramisch.
 
 Repository: [UD_Portuguese-GSD](https://github.com/UniversalDependencies/UD_Portuguese-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_gsd26)<br />
-Download all treebanks: [UD 2.6](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_gsd27)<br />
+Download all treebanks: [UD 2.7](/#download)
 
 License: CC BY-SA 4.0
 
@@ -56,21 +56,21 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 
 ## Features
 
-[Definite](pt_gsd-feat-Definite.html) – [Gender](pt_gsd-feat-Gender.html) – [Number](pt_gsd-feat-Number.html) – [NumType](pt_gsd-feat-NumType.html) – [Polarity](pt_gsd-feat-Polarity.html) – [Poss](pt_gsd-feat-Poss.html) – [PronType](pt_gsd-feat-PronType.html)
+[Definite](pt_gsd-feat-Definite.html) – [Gender](pt_gsd-feat-Gender.html) – [Number](pt_gsd-feat-Number.html) – [NumType](pt_gsd-feat-NumType.html) – [Polarity](pt_gsd-feat-Polarity.html) – [Poss](pt_gsd-feat-Poss.html) – [PronType](pt_gsd-feat-PronType.html) – [VerbForm](pt_gsd-feat-VerbForm.html) – [Voice](pt_gsd-feat-Voice.html)
 
 ## Relations
 
-[acl:inf](pt_gsd-dep-acl-inf.html) – [acl:part](pt_gsd-dep-acl-part.html) – [acl:relcl](pt_gsd-dep-acl-relcl.html) – [advcl](pt_gsd-dep-advcl.html) – [advmod](pt_gsd-dep-advmod.html) – [amod](pt_gsd-dep-amod.html) – [appos](pt_gsd-dep-appos.html) – [aux](pt_gsd-dep-aux.html) – [aux:pass](pt_gsd-dep-aux-pass.html) – [case](pt_gsd-dep-case.html) – [cc](pt_gsd-dep-cc.html) – [ccomp](pt_gsd-dep-ccomp.html) – [conj](pt_gsd-dep-conj.html) – [cop](pt_gsd-dep-cop.html) – [csubj](pt_gsd-dep-csubj.html) – [csubj:pass](pt_gsd-dep-csubj-pass.html) – [dep](pt_gsd-dep-dep.html) – [det](pt_gsd-dep-det.html) – [det:poss](pt_gsd-dep-det-poss.html) – [expl:pv](pt_gsd-dep-expl-pv.html) – [fixed](pt_gsd-dep-fixed.html) – [flat](pt_gsd-dep-flat.html) – [flat:name](pt_gsd-dep-flat-name.html) – [iobj](pt_gsd-dep-iobj.html) – [mark](pt_gsd-dep-mark.html) – [nmod](pt_gsd-dep-nmod.html) – [nsubj](pt_gsd-dep-nsubj.html) – [nsubj:pass](pt_gsd-dep-nsubj-pass.html) – [nummod](pt_gsd-dep-nummod.html) – [obj](pt_gsd-dep-obj.html) – [obl](pt_gsd-dep-obl.html) – [parataxis](pt_gsd-dep-parataxis.html) – [punct](pt_gsd-dep-punct.html) – [root](pt_gsd-dep-root.html) – [xcomp](pt_gsd-dep-xcomp.html) – [xcomp:adj](pt_gsd-dep-xcomp-adj.html)
+[acl](pt_gsd-dep-acl.html) – [acl:inf](pt_gsd-dep-acl-inf.html) – [acl:part](pt_gsd-dep-acl-part.html) – [acl:relcl](pt_gsd-dep-acl-relcl.html) – [advcl](pt_gsd-dep-advcl.html) – [advmod](pt_gsd-dep-advmod.html) – [amod](pt_gsd-dep-amod.html) – [appos](pt_gsd-dep-appos.html) – [aux](pt_gsd-dep-aux.html) – [aux:pass](pt_gsd-dep-aux-pass.html) – [case](pt_gsd-dep-case.html) – [cc](pt_gsd-dep-cc.html) – [ccomp](pt_gsd-dep-ccomp.html) – [compound](pt_gsd-dep-compound.html) – [conj](pt_gsd-dep-conj.html) – [cop](pt_gsd-dep-cop.html) – [csubj](pt_gsd-dep-csubj.html) – [csubj:pass](pt_gsd-dep-csubj-pass.html) – [dep](pt_gsd-dep-dep.html) – [det](pt_gsd-dep-det.html) – [det:poss](pt_gsd-dep-det-poss.html) – [expl:pv](pt_gsd-dep-expl-pv.html) – [fixed](pt_gsd-dep-fixed.html) – [flat](pt_gsd-dep-flat.html) – [flat:name](pt_gsd-dep-flat-name.html) – [iobj](pt_gsd-dep-iobj.html) – [mark](pt_gsd-dep-mark.html) – [nmod](pt_gsd-dep-nmod.html) – [nsubj](pt_gsd-dep-nsubj.html) – [nsubj:pass](pt_gsd-dep-nsubj-pass.html) – [nummod](pt_gsd-dep-nummod.html) – [obj](pt_gsd-dep-obj.html) – [obl](pt_gsd-dep-obl.html) – [parataxis](pt_gsd-dep-parataxis.html) – [punct](pt_gsd-dep-punct.html) – [root](pt_gsd-dep-root.html) – [xcomp](pt_gsd-dep-xcomp.html) – [xcomp:adj](pt_gsd-dep-xcomp-adj.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 12078 sentences, 297950 tokens and 319853 syntactic words.</li>
+<li>This corpus contains 12078 sentences, 297948 tokens and 319853 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 38136 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 38149 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -82,8 +82,8 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
-<li>This corpus contains 21903 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 39 types of multi-word tokens. Examples: do, da, no, na, dos, ao, das, à, pelo, pela, nos, aos, nas, às, dum, duma, pelos, num, numa, pelas, doutros, nalguns, dalguns, noutras, dalgumas, doutra, noutros, nalgumas, doutras, noutro, donde, doutro, noutra, dalguma, dalgum, Tornando-se, dalguém, dali, dele.</li>
+<li>This corpus contains 21905 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 40 types of multi-word tokens. Examples: do, da, no, na, dos, ao, das, à, pelo, pela, nos, aos, nas, às, dum, duma, pelos, num, numa, pelas, doutros, nalguns, dalguns, noutras, dalgumas, doutra, noutros, nalgumas, doutras, noutro, donde, doutro, noutra, dalguma, dalgum, Concentre-se, Tornando-se, dalguém, dali, dele.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -100,7 +100,7 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+<li>This corpus contains 2 lemmas tagged as pronouns (PRON): _, ele</li>
 </ul>
 
 <ul>
@@ -120,7 +120,15 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
-<li>This corpus does not use the VerbForm feature.</li>
+<li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+<ul>
+  <li>Part
+  <ul>
+    <li>VERB: considerados</li>
+  </ul>
+  </li>
 </ul>
 
 <h3>Nominal Features</h3>
@@ -141,7 +149,9 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 <ul>
   <li>Masc
     <ul>
+      <li>ADJ: marginais</li>
       <li>DET: o, os, a, seu</li>
+      <li>VERB-Part: considerados</li>
     </ul>
   </li>
 </ul>
@@ -154,7 +164,9 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 <ul>
   <li>Plur
     <ul>
+      <li>ADJ: marginais</li>
       <li>DET: os, as</li>
+      <li>VERB-Part: considerados</li>
     </ul>
   </li>
 </ul>
@@ -206,6 +218,17 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 
 
 
+<ul>
+  <li><a>Voice</a></li>
+</ul>
+
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB-Part: considerados</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
@@ -268,7 +291,7 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 36 lemmas as copulas (<a>cop</a>). Examples: ser, _, tornar, considerar, chamar, virar, denominar, eleger, estar, intitular, nomear, designar, representar, sagrar, dizer, fazer, morrer, ordenar, parecer, significar, apelidar, configurar, constituir, demonstrar, encontrar, entrar, ferido, instituir, menino, mostrar, motivo, nascer, permanecer, proclamar, sentir, vencer.</li>
+<li>This corpus uses 36 lemmas as copulas (<a>cop</a>). Examples: ser, _, tornar, considerar, chamar, virar, denominar, eleger, estar, intitular, nomear, designar, representar, sagrar, dizer, fazer, ordenar, parecer, significar, apelidar, configurar, constituir, demonstrar, encontrar, entrar, ferido, instituir, menino, morrer, mostrar, motivo, nascer, permanecer, proclamar, sentir, vencer.</li>
 </ul>
 
 <ul>
@@ -282,7 +305,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (6583)</li>
+      <li>VERB--NOUN (6585)</li>
       <li>VERB--NOUN-ADP(_) (20)</li>
       <li>VERB--NOUN-ADP(de) (3)</li>
       <li>VERB--PRON (3594)</li>
@@ -293,8 +316,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (8840)</li>
-      <li>VERB--NOUN-ADP(_) (41)</li>
+      <li>VERB--NOUN (8843)</li>
+      <li>VERB--NOUN-ADP(_) (42)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_) (1)</li>
       <li>VERB--NOUN-ADP(a) (1)</li>
       <li>VERB--NOUN-ADP(de) (2)</li>
@@ -329,6 +352,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 10 relation subtypes: <a>acl:inf</a>, <a>acl:part</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>xcomp:adj</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>acl</a>, <a>expl</a></li>
-<li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

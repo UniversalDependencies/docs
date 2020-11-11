@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-aux.html">aux</a></tt>.
 
-51 nodes (2%) are attached to their parents as `aux:neg`.
+85 nodes (2%) are attached to their parents as `aux:neg`.
 
-48 instances of `aux:neg` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29411764705882.
+81 instances of `aux:neg` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41176470588235.
 
-The following 4 pairs of parts of speech are connected with `aux:neg`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (45; 88% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (3; 6% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `aux:neg`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (73; 86% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (6; 7% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (3; 4% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,13 +25,13 @@ The following 4 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 1	Эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	2	aux:neg	_	_
 2	позь	позьны	VERB	V	Connegative=Yes	0	root	_	_
 3	бӧрйыны	бӧрйыны	VERB	V	VerbForm=Inf	2	xcomp	_	_
-4	ни	ни	PART	Pcle	Polarity=Neg	5	advmod:tmod	_	_
-5	Питер	Питер	NOUN	N	Case=Nom|Number=Sing	3	obj	_	_
-6	Смитӧс	Смит	NOUN	N	Case=Acc|Number=Sing	5	flat:name	_	SpaceAfter=No
+4	ни	ни	PART	Pcle	Polarity=Neg	5	advmod:neg	_	_
+5	Питер	Питер	NOUN	N	Case=Nom|Number=Sing	3	obj	_	Lang=Mixed
+6	Смитӧс	Смит	NOUN	N	Case=Acc|Number=Sing	5	flat:name	_	Lang=Mixed|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	9	punct	_	_
-8	ни	ни	PART	Pcle	Polarity=Neg	9	advmod:tmod	_	_
-9	Мери	Мери	NOUN	N	Case=Nom|Number=Sing	5	conj	_	_
-10	Браунӧс	Браун	NOUN	N	Case=Acc|Number=Sing	9	flat:name	_	SpaceAfter=No
+8	ни	ни	PART	Pcle	Polarity=Neg	9	advmod:neg	_	_
+9	Мери	Мери	NOUN	N	Case=Nom|Number=Sing	5	conj	_	Lang=Mixed
+10	Браунӧс	Браун	NOUN	N	Case=Acc|Number=Sing	9	flat:name	_	Lang=Mixed|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

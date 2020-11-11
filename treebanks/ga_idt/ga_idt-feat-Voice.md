@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Auto` are language-specific.
 It occurs with 1 different values: `Auto`.
 
-607 tokens (1%) have a non-empty value of `Voice`.
-345 types (3%) occur at least once with a non-empty value of `Voice`.
-177 lemmas (2%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (607; 1% instances).
+1366 tokens (1%) have a non-empty value of `Voice`.
+576 types (4%) occur at least once with a non-empty value of `Voice`.
+251 lemmas (3%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1366; 1% instances).
 
 ### `VERB`
 
-607 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `Voice`.
+1366 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (534; 88%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (388; 64%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1266; 93%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (930; 68%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Auto` (607; 100% of non-empty `Voice`): <em>cuireadh, rinneadh, foilsíodh, cuirtear, bhféadfaí, tugadh, tógadh, déantar, ndéantar, caithfear</em>
-* `EMPTY` (4619): <em>bhí, tá, raibh, atá, bhfuil, thug, mbeadh, chuir, níl, bheidh</em>
+* `Auto` (1366; 100% of non-empty `Voice`): <em>cuireadh, rinneadh, cuirtear, n-áirítear, déantar, cuirfear, déanfar, foilsíodh, tugadh, ndéantar</em>
+* `EMPTY` (7375): <em>tá, bhí, atá, bhfuil, raibh, beidh, bheidh, mbeadh, níl, mbeidh</em>
 
-`Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (177) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (251) occur only with one value of `Voice`.
 
 ## Relations with Agreement in `Voice`
 

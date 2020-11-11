@@ -22,7 +22,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="br_keb-pos-ADJ.html
 
 * `Cmp` (14; 61% of non-empty `Degree`): <em>aesoc'h, bravoc'h, Klaseloc'h, c'hwekoc'h, diwezhatoc'h, emskiantekoc’h, gwelloc'h, hiroc'h, kempoelloc'h, nerzhusoc'h</em>
 * `Sup` (9; 39% of non-empty `Degree`): <em>gwellañ, vrasañ, brasañ, goshañ, hirañ, yenañ</em>
-* `EMPTY` (412): <em>ret, nevez, bras, yaouank, mat, all, gentañ, bihan, kentañ, brav</em>
+* `EMPTY` (412): <em>ret, nevez, bras, mat, yaouank, all, gentañ, bihan, kentañ, brav</em>
 
 <table>
   <tr><th>Paradigm <i>gwell</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

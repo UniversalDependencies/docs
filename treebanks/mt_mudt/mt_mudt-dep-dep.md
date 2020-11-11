@@ -117,9 +117,9 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 10	hemm	_	VERB	HEMM	_	8	ccomp	_	_
 11	numru	_	NOUN	NOUN	_	10	nsubj	_	_
 12	ta'	_	ADP	GEN	_	10	dep	_	SpaceAfter=No
-13	.	_	PUNCT	X_PUN	_	11	punct	_	SpaceAfter=No
-14	.	_	PUNCT	X_PUN	_	13	punct	_	SpaceAfter=No
-15	.	_	PUNCT	X_PUN	_	13	punct	_	_
+13	.	_	PUNCT	X_PUN	_	12	punct	_	SpaceAfter=No
+14	.	_	PUNCT	X_PUN	_	12	punct	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 ~~~
 
