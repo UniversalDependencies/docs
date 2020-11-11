@@ -42,7 +42,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 ## Processing the data before releasing them
 
 * Make sure that there are not significant overlaps between training and dev/test files of treebanks of one language.<br />
-  <code>check_overlaps.pl $(cat released_treebanks.txt) |& tee overlap.log</code>
+  <code>tools/check_overlaps.pl $(cat released_treebanks.txt) |& tee overlap.log</code>
 * Update statistics in the `stats.xml` file in each repository:<br />
   <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; ( ../tools/conllu-stats.pl *.conllu > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; cd .. ; echo ; done</code>
 * Merge the `dev` branch into `master` in the released repositories.
