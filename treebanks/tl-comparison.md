@@ -24,7 +24,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 55 sentences and 292 tokens.</li>
+      <li>This corpus contains 128 sentences and 734 tokens.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -36,7 +36,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 59 tokens (20%) that are not followed by a space.</li>
+      <li>This corpus contains 133 tokens (18%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -88,8 +88,8 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 12 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>DET</a>, <a>NOUN</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
-      <li>This corpus does not use the following tags: NUM, CCONJ, INTJ, SYM, X</li>
+      <li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
+      <li>This corpus does not use the following tags: NUM, CCONJ, SYM, X</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -106,7 +106,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 1 word types tagged as particles (PART): Hindi</li>
+      <li>This corpus contains 7 word types tagged as particles (PART): ano, ba, bang, daw, hindi, kaya, sana</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -118,7 +118,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 4 lemmas tagged as pronouns (PRON): ako, ito, iyan, siya</li>
+      <li>This corpus contains 9 lemmas tagged as pronouns (PRON): ako, ikaw, ito, iyan, kayo, sarili, sila, sino, siya</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -130,7 +130,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 1 lemmas tagged as determiners (DET): ang</li>
+      <li>This corpus contains 3 lemmas tagged as determiners (DET): lahat, mga, mismo</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -152,7 +152,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): may</li>
+      <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): huwag</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -207,8 +207,8 @@ udver: '2'
         <li>Fem
           <ul>
             <li>ADJ: Komika</li>
-            <li>NOUN: maestra, Biyuda</li>
-            <li>PROPN: Linda</li>
+            <li>NOUN: Biyuda, maestra</li>
+            <li>PROPN: Linda, Maria, Mary, Rosa</li>
           </ul>
         </li>
       </ul>
@@ -222,7 +222,9 @@ udver: '2'
       <ul>
         <li>Masc
           <ul>
-            <li>NOUN: maestro, Biyudo</li>
+            <li>DET: mismo</li>
+            <li>NOUN: Biyudo, maestro</li>
+            <li>PROPN: Juan, Pedro, John, Bill</li>
           </ul>
         </li>
       </ul>
@@ -252,20 +254,6 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-        <li>Coll
-          <ul>
-            <li>NOUN: pagkain, alon, gulayan, ingay</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
         <li>Dual
           <ul>
             <li>PRON: kita</li>
@@ -282,7 +270,8 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>ADV: araw</li>
+            <li>DET: mga</li>
+            <li>PRON: nila, sila, kayong, natin</li>
           </ul>
         </li>
       </ul>
@@ -296,10 +285,7 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>DET: si</li>
-            <li>NOUN: nanay, titser, babae, bahay, bangka, bata, Artista, Isda, istudyante, diyaryo</li>
-            <li>PRON: niya, ko, ako, Iyan, Siya, ito</li>
-            <li>PROPN: Juan, Maynila, Linda</li>
+            <li>PRON: ka, ko, niya, siya, kaniyang, kong, siyang, ako, Iyan, ito</li>
           </ul>
         </li>
       </ul>
@@ -321,24 +307,10 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-        <li>Abs
-          <ul>
-            <li>DET: ang, si</li>
-            <li>PRON: ako, Iyan, Siya, ito, kita</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
         <li>Dat
           <ul>
-            <li>ADP: sa</li>
+            <li>ADP: sa, kay</li>
+            <li>PRON: kaniyang, kaniya</li>
           </ul>
         </li>
       </ul>
@@ -350,10 +322,10 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-        <li>Erg
+        <li>Gen
           <ul>
-            <li>ADP: ng</li>
-            <li>PRON: niya, ko</li>
+            <li>ADP: ng, ni</li>
+            <li>PRON: ko, niya, kong, nila, mo, natin, niyang</li>
           </ul>
         </li>
       </ul>
@@ -365,9 +337,10 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-        <li>Loc
+        <li>Nom
           <ul>
-            <li>ADP: Nasa</li>
+            <li>ADP: ang, si</li>
+            <li>PRON: ka, siya, siyang, ako, sila, Iyan, Sino, ito, kayong, kita</li>
           </ul>
         </li>
       </ul>
@@ -386,23 +359,7 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <ul>
-        <li><a>Definite</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li>Def
-          <ul>
-            <li>DET: ang</li>
-          </ul>
-        </li>
-      </ul>
     </td>
     <td width="50%" valign="top">
 
@@ -431,21 +388,7 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ: Bago, Mabuti, Maganda, Matamis, Pagod</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li>Sup
-          <ul>
-            <li>ADJ: bago</li>
+            <li>ADJ: Mabuti, Malapit, bago, Interesante, Maganda, Masagwa, Matalino, Matamis, Napakataas, Pagod</li>
           </ul>
         </li>
       </ul>
@@ -469,7 +412,24 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>PART: Hindi</li>
+            <li>AUX: Huwag</li>
+            <li>PART: hindi</li>
+            <li>VERB: Wala, Walang</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>INTJ: Hindi, Oo</li>
+            <li>VERB: Mayroon, May, Mayroong</li>
           </ul>
         </li>
       </ul>
@@ -509,7 +469,7 @@ udver: '2'
       <ul>
         <li>Hab
           <ul>
-            <li>VERB: Kailangan</li>
+            <li>VERB: Gusto, Kailangan, Ayaw</li>
           </ul>
         </li>
       </ul>
@@ -523,7 +483,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>VERB: nagluluto, Binabasa, Bumabasa, Dumarating, Humihinga, Naghihilik, Nauuhaw, Tumatanda</li>
+            <li>VERB: nagluluto, nagtatrabaho, Umuulan, nagiisa, pumapasok, sumasayaw, tumatanda, Binabasa, Bumabasa, Dumarating</li>
           </ul>
         </li>
       </ul>
@@ -537,7 +497,21 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>VERB: nagluto, dumating, yumaman, Binalikan, Binigyan, Binili, Bumili, Ginising, Gumising, Ibinigay</li>
+            <li>VERB: nagluto, nakita, Inahit, Nagatubili, dumating, tumanggap, yumaman, Binalikan, Binigyan, Binili</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Prog
+          <ul>
+            <li>VERB: darating, Aalisan, Aalisin, Ipagaalis, Magaalis, Susulat, Susulatin</li>
           </ul>
         </li>
       </ul>
@@ -573,9 +547,38 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
+        <li>Imp
+          <ul>
+            <li>AUX: Huwag</li>
+            <li>VERB: Walisan, Bigyan, Magbigay</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
         <li>Ind
           <ul>
-            <li>VERB: nagluluto, nagluto, dumating, yumaman, Binabasa, Binalikan, Binigyan, Binili, Bumabasa, Bumili</li>
+            <li>VERB: nagluluto, nagluto, nagtatrabaho, darating, nakita, Inahit, Nagatubili, Umuulan, dumating, nagiisa</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Pot
+          <ul>
+            <li>VERB: nakakapagalmusal</li>
           </ul>
         </li>
       </ul>
@@ -607,7 +610,35 @@ udver: '2'
       <ul>
         <li>Act
           <ul>
-            <li>VERB: nagluluto, nagluto, dumating, yumaman, Bumabasa, Bumili, Dumarating, Gumising, Humihinga, Magluluto</li>
+            <li>VERB: nagluluto, nagluto, nagtatrabaho, darating, Nagatubili, Umuulan, dumating, nagiisa, pumapasok, sumasayaw</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Bfoc
+          <ul>
+            <li>VERB: Ipagaalis</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Ifoc
+          <ul>
+            <li>VERB: Ipinansulat</li>
           </ul>
         </li>
       </ul>
@@ -621,7 +652,7 @@ udver: '2'
       <ul>
         <li>Lfoc
           <ul>
-            <li>VERB: Binalikan, Binigyan, Sinalpok, Tinakasan</li>
+            <li>VERB: Aalisan, Bigyan, Binalikan, Binigyan, Sinalpok, Tinakasan</li>
           </ul>
         </li>
       </ul>
@@ -635,7 +666,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>VERB: Binabasa, Binili, Ginising, Ibinigay, Nakita, Sinulat, Sinulatan</li>
+            <li>VERB: Gusto, nakita, Inahit, Walisan, Aalisin, Ayaw, Binabasa, Binili, Binisita, Ginising</li>
           </ul>
         </li>
       </ul>
@@ -673,9 +704,10 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-        <li>Art
+        <li>Dem
           <ul>
-            <li>DET: ang, si</li>
+            <li>ADV: na, roon</li>
+            <li>PRON: Iyan, ito</li>
           </ul>
         </li>
       </ul>
@@ -687,9 +719,40 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-        <li>Dem
+        <li>Emp
           <ul>
-            <li>PRON: Iyan, ito</li>
+            <li>DET: mismo</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: mga</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>ADJ: Napakaano</li>
+            <li>ADV: nasaan, Bakit</li>
+            <li>PRON: Sino</li>
+            <li>VERB: Naano, Nagano</li>
           </ul>
         </li>
       </ul>
@@ -703,7 +766,21 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: niya, ko, ako, Siya, kita</li>
+            <li>PRON: ka, ko, niya, siya, kaniyang, sarili, kong, nila, siyang, ako</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>DET: lahat</li>
           </ul>
         </li>
       </ul>
@@ -730,7 +807,23 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
 
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>PRON: sarili, sariling</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="50%" valign="top">
 
@@ -751,7 +844,21 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>PRON: ko, ako, kita</li>
+            <li>PRON: ko, kong, ako, kita, natin</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>PRON: ka, kayong, mo</li>
           </ul>
         </li>
       </ul>
@@ -765,7 +872,7 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>PRON: niya, Siya</li>
+            <li>PRON: niya, siya, kaniyang, nila, siyang, sila, kaniya, niyang</li>
           </ul>
         </li>
       </ul>
@@ -813,7 +920,7 @@ udver: '2'
           <ul>
             <li>In
               <ul>
-                <li>PRON: kita</li>
+                <li>PRON: kita, natin</li>
               </ul>
             </li>
           </ul>
@@ -837,6 +944,11 @@ udver: '2'
             <li>Prox
               <ul>
                 <li>PRON: ito</li>
+              </ul>
+            </li>
+            <li>Remt
+              <ul>
+                <li>ADV: roon</li>
               </ul>
             </li>
           </ul>
@@ -867,12 +979,63 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>Link</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: Bagong</li>
+                <li>NOUN: batang, diyaryong, lalaking</li>
+                <li>PART: bang</li>
+                <li>PRON: kaniyang, kong, siyang, kayong, niyang, sariling</li>
+                <li>PROPN: Juan</li>
+                <li>VERB: Mayroong, Walang</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a>PartType</a>
+          <ul>
+            <li>Des
+              <ul>
+                <li>PART: sana</li>
+              </ul>
+            </li>
+            <li>Int
+              <ul>
+                <li>PART: ba, ano, kaya, bang</li>
+              </ul>
+            </li>
+            <li>Nfh
+              <ul>
+                <li>PART: daw</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: may.</li>
+      <li>This corpus does not contain copulas.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -888,7 +1051,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus does not contain auxiliaries.</li>
+      <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: huwag.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -905,8 +1068,11 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (20)</li>
-            <li>VERB--PRON-Abs (2)</li>
+            <li>VERB--NOUN (1)</li>
+            <li>VERB--NOUN-ADP(ang) (30)</li>
+            <li>VERB--PRON-ADP(ang) (1)</li>
+            <li>VERB--PRON-Gen (3)</li>
+            <li>VERB--PRON-Nom (14)</li>
           </ul>
         </li>
       </ul>
@@ -931,8 +1097,11 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN-ADP(ng) (11)</li>
-            <li>VERB--PRON-Erg (1)</li>
+            <li>VERB--NOUN (5)</li>
+            <li>VERB--NOUN-ADP(ng) (21)</li>
+            <li>VERB--PRON-ADP(ang) (1)</li>
+            <li>VERB--PRON-Gen (1)</li>
+            <li>VERB--PRON-Nom (1)</li>
           </ul>
         </li>
       </ul>
@@ -986,7 +1155,11 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-
+      <h3>Verbs with Reflexive Core Objects</h3>
+      
+      <ul>
+        <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: ahit sarili</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
 
@@ -997,9 +1170,9 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 5 relation subtypes: <a>compound:redup</a>, <a>nmod:poss</a>, <a>nsubj:lfoc</a>, <a>nsubj:pass</a>, <a>obj:agent</a></li>
-      <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>nmod</a></li>
-      <li>The following 22 relation types are not used in this corpus at all: <a>ccomp</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>aux</a>, <a>appos</a>, <a>nummod</a>, <a>acl</a>, <a>amod</a>, <a>clf</a>, <a>conj</a>, <a>cc</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      <li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>compound:redup</a>, <a>iobj:patient</a>, <a>nmod:poss</a>, <a>nsubj:bfoc</a>, <a>nsubj:ifoc</a>, <a>nsubj:lfoc</a>, <a>nsubj:pass</a>, <a>obj:agent</a></li>
+      <li>The following 2 main types are not used alone, they are always subtyped: <a>acl</a>, <a>compound</a></li>
+      <li>The following 18 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>cop</a>, <a>appos</a>, <a>nummod</a>, <a>amod</a>, <a>clf</a>, <a>conj</a>, <a>cc</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">

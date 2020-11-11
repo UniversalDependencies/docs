@@ -1754,7 +1754,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>case:aspect</a>, <a>case:dec</a>, <a>case:pref</a>, <a>case:suff</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:advb</a>, <a>mark:comp</a>, <a>mark:relcl</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
+      <li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:aspect</a>, <a>aux:pass</a>, <a>case:dec</a>, <a>case:pref</a>, <a>case:suff</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:advb</a>, <a>mark:comp</a>, <a>mark:relcl</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
       </ul>
@@ -1763,7 +1763,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>case:aspect</a>, <a>case:dec</a>, <a>case:pref</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:advb</a>, <a>mark:comp</a>, <a>mark:relcl</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
+      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:aspect</a>, <a>aux:pass</a>, <a>case:dec</a>, <a>case:pref</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:advb</a>, <a>mark:comp</a>, <a>mark:relcl</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
       </ul>

@@ -42,7 +42,7 @@ udver: '2'
   <tr>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 57109 sentences and 1273287 tokens.</li>
+      <li>This corpus contains 57028 sentences and 1250875 tokens.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -69,7 +69,7 @@ udver: '2'
   <tr>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 1266616 tokens (99%) that are not followed by a space.</li>
+      <li>This corpus contains 1244226 tokens (99%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -590,6 +590,7 @@ udver: '2'
             <li>ADJ: _</li>
             <li>AUX: _</li>
             <li>NOUN: _</li>
+            <li>SCONJ: _</li>
           </ul>
         </li>
       </ul>
@@ -925,7 +926,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>X: _</li>
+                <li>NOUN: _</li>
               </ul>
             </li>
           </ul>
@@ -1027,19 +1028,15 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (10)</li>
-            <li>VERB--NOUN-ADP(_) (25480)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_) (4075)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (81)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (16)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (10)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (3)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (2)</li>
-            <li>VERB--PRON-ADP(_) (1489)</li>
-            <li>VERB--PRON-ADP(_)-ADP(_) (274)</li>
-            <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_) (10)</li>
+            <li>VERB--NOUN-ADP(_) (26836)</li>
+            <li>VERB--NOUN-ADP(_)-ADP(_) (513)</li>
+            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (32)</li>
+            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (6)</li>
+            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (7)</li>
+            <li>VERB--PRON-ADP(_) (1560)</li>
+            <li>VERB--PRON-ADP(_)-ADP(_) (107)</li>
+            <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_) (2)</li>
             <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
-            <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
           </ul>
         </li>
       </ul>
@@ -1155,16 +1152,17 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (1)</li>
-            <li>VERB--NOUN-ADP(_) (26234)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_) (445)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (29)</li>
+            <li>VERB--NOUN-ADP(_) (27996)</li>
+            <li>VERB--NOUN-ADP(_)-ADP(_) (516)</li>
+            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (33)</li>
             <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (9)</li>
             <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (2)</li>
-            <li>VERB--PRON-ADP(_) (590)</li>
-            <li>VERB--PRON-ADP(_)-ADP(_) (39)</li>
-            <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_) (2)</li>
+            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
+            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
+            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
+            <li>VERB--PRON-ADP(_) (660)</li>
+            <li>VERB--PRON-ADP(_)-ADP(_) (36)</li>
+            <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_) (3)</li>
           </ul>
         </li>
       </ul>
@@ -1238,13 +1236,6 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN (861)</li>
-            <li>VERB--NOUN-ADP(_) (9279)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_) (408)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (10)</li>
-            <li>VERB--PRON (84)</li>
-            <li>VERB--PRON-ADP(_) (602)</li>
-            <li>VERB--PRON-ADP(_)-ADP(_) (74)</li>
           </ul>
         </li>
       </ul>
@@ -1359,7 +1350,7 @@ udver: '2'
       
       <ul>
       <li>This corpus does not use relation subtypes.</li>
-      <li>The following 14 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a></li>
+      <li>The following 12 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a></li>
       </ul>
     </td>
     <td width="20%" valign="top">

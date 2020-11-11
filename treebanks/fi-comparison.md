@@ -6,109 +6,141 @@ udver: '2'
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h1>UD_Finnish-FTB</h1>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h1>UD_Finnish-OOD</h1>
+    </td>
+    <td width="25%" valign="top">
       <h1>UD_Finnish-PUD</h1>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h1>UD_Finnish-TDT</h1>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="25%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 18723 sentences, 159314 tokens and 159612 syntactic words.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 2122 sentences, 19363 tokens and 19382 syntactic words.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 1000 sentences, 15807 tokens and 15813 syntactic words.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 15136 sentences, 201950 tokens and 202194 syntactic words.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 3188 tokens (16%) that are not followed by a space.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 2350 tokens (15%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 28666 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 4 types of words with spaces. Examples: 1 400, 103 000, 14 700, 2 500</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 12 types of words with spaces. Examples: 10 000, 100 000, 12 000, 15 000, 15 001, 16 500, 168 000, 19 999, 25 000, 330 000, 35 000, 600 000</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 106 types of words with spaces. Examples: 100 000, : ), 10 000, 200 000, 50 000, 70 000, 80 000, 800 000, 1 000, 2 800, 20 000, 5 000, 170 000, 21 000, 22 000, 3 000, 30 000, 300 000, 330 000, 400 000, 413 000, 82 000, 90 000, 900 000, 1 022 806, 1 200, 1 377, 1 564, 1 671,82, 1 700, 1 800, 101 389, 102 000, 11 125, 110 000, 118 000, 12 400, 130 000, 130 005, 135 000, 14 634, 14 900, 140 000, 144 900, 154 502, 158 100, 166 000, 175 000, 180 000, 198 058</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 1120 types of words that contain both letters and punctuation. Examples: x:n, mm., EU:n, ns., NN:n, 1900-luvulta, esim., n., A:n, EU-maiden, EU:hun, Oy:n, YK:n, ja/tai, keski-ikäinen, sosiaali-, torstai-iltana, 12-vuotias, 18-vuotiaana, 1980-luvulla, 1980-luvun, B:n, Esa-Pekka, Etelä-Amerikan, Kauppa-, Kivi-juhlat, MM-kisoihin, SAK:n, SDP:n, USA:n, ala-, ala-asteen, keng-, km/h, liike-elämässä, maa-, tv:n, tv:tä, vapaa-aikana, vapaa-ajan, -henkinen, 16-vuotiaita, 16-vuotias, 1700-luvulla, 1800-luvun, 1870-luvulla, 1900-luvun, 1970-luvulla, 1970-luvun, 1990-luvulla</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 575 types of words that contain both letters and punctuation. Examples: RR-taso, kl., sp., mg/vrk, heng., pot., syst., esim., ml/h, mm., :D, thx-kuvassa, @JunesLokka, Bipap:lle, L., MM-kisojen, VM:lla, n., tms., ts., yms., #cmoref1, #johtaminen, #metsä, #nature, #uutisvahti, 2000-luvun, @sannigrahn, Bipap-maskilla, CPAP:lle, Duoderm-levy, Noradrenalin-tukea, Oy:ltä, RR:n, SDP:n, WSOY:n, harj., inf., ja/tai, jne., kendall-kostukselle, ko-operoiva, konefr., mahd., noradr., p.o, pass., po., rivi-ilmoituksen, rr-tason</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 291 types of words that contain both letters and punctuation. Examples: eKr., %:lla, -dynastia, -dynastian, III:n, -järjestöstä, -liittouman, -puisto, -vuotiaista, -yliopiston, 1960-luvulta, 1990-luvulla, 60-luvun, BBC:lle, DNA:n, Etelä-Afrikka, Ison-Britannian, Isossa-Britanniassa, Itä-Afrikan, P​a​p​u​a​-​U​u​d​e​s​s​a​-​G​u​i​n​e​a​s​s​a, Pohjois-Carolina, St., USA:n, YK:n, golf-turnaukseen, jKr., %:n, -akatemiaan, -albumin, -alueen, -alueet, -antologia, -dynastiaan, -elokuvaa, -elokuvassa, -hahmoiksi, -hinnalla, -imitaattori, -instituuttiin, -joella, -joen, -järjestön, -järven, -kadulla, -kanavalla, -keskuksen, -keskustelupalstan, -kirjasta, -kirjeet, -kirjoja</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 2272 types of words that contain both letters and punctuation. Examples: EU:n, N:o, s., mm., eaa., :D, 5(n), EKP:n, talous-, A., esim., sdp:n, EMN:n, YK:n, n., ns., A:n, -yhtye, oy:n, 2003/634/EY, II:n, huhti-kesäkuussa, ja/tai, EU:, UPM:n, Varsinais-Suomen, var., -yhtyeen, 19/65/ETY, 1980-luvun, 3.Rf3, ETA:n, I:n, kuorma-auto, pinta-ala, 1800-luvun, 1999/730/YUTP, 2.f4, 90/642/ETY, Isossa-Britanniassa, J., SDP:tä, Valko-Venäjä, koulutus-, maahanmuutto-, tutkimus-, ven., 1900-luvun, 1970-luvulla, 1990-luvun</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 298 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 33 types of multi-word tokens. Examples: ettei, etten, ellei, etteikö, miksei, etteivät, jollei, muttei, vaikkei, ettet, jolleivät, elleivät, ellet, ettenkö, ehkei, ettette, vaikkeivät, Mikset, ellen, jollet, vaikket, Mutteihän, ellette, etteivätkö, jolleivat, jollen, jossei, jottei, jotten, mikseipä, mutteipa, vaikkeivat, vaikken.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 19 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 7 types of multi-word tokens. Examples: ettei, jollei, muttei, etteikö, vaikkei, Eiku, mikseivät.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 6 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 5 types of multi-word tokens. Examples: ettei, ellei, etteivät, etten, miksei.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 244 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 30 types of multi-word tokens. Examples: ettei, etten, muttei, etteivät, ellei, miksei, jollei, emmä, ettemme, ellemme, vaikkei, vaikkeivat, etteikö, elleivät, ettet, mikseivät, mutten, vaikken, Miksen, Miksette, Oonksmä, Voisiksä, ellen, ettem, ettenkö, jottei, jotteivät, jotten, mutteivät, muttet.</li>
@@ -116,7 +148,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -125,7 +157,7 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -135,7 +167,17 @@ udver: '2'
       <li>This corpus does not use the following tags: DET, PART</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: DET, PART</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -147,122 +189,155 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 305 word types tagged as particles (PART): 28v, 2h, 30-35v, 70,00%, D.E.D, Eli, Elikä, Ettäkö, Ettäs, Ihanko, Ihanks, Johan, Joko, Jokos, Jopas, K-18, Ka, Katos, Katso, Kylläpä, Liekö, Mr., Mrs., Näinkö, OK, Tuskinpa, aika, aina, ainakaan, ainaki, ainakin, ainoastaan, aivan, arviolta, eKr, eKr., edes, ees, ehk, ehkä, ehkäpä, eiku, eikun, elikkä, em., enintään, ennää, entä, entäs, enää, enään, eres, erittäin, esim, esim., etenkin, etenkään, hyvänsä, hädin, iha, iham, ihan, ihav, ja, jne, jne., jo, jokseenkin, joku, jooko, jopa, jos, jospa, jotain, jotakuinkin, just, justii, juuri, järin, kai, kaiketi, kaikkein, kaikkiaan, kaikkiansa, kait, kans, kanssa, kas, kato, katsos, kenties, kerran, kerranki, kerrankin, kerta, km/h, ko., korkeintaan, koskapa, kovin, kovinkaan, ku, kuhan, kuitenkaan, kuitenki, kuitenkin, kumminkaan, kumminki, kumminkin, kun, kunpa, kuule, kuulemaa, kuulemma, kuulemma-, kuules, kuulkaa, kuuluu, kyl, kylhän, kyllä, kyllähän, kylläkin, kylläkään, kylläpäs, kylä, lie, lieh, lien, liene, lienee, liki, likimain, lopen, lähemmäs, lähes, läheskään, lähestulkoon, lähinnä, melkeen, melkein, melkeinpä, melkke, melko, miltei, mitä, mk/kg, mm, mm., muka, mukamas, muute, muuten, myos, myös, myöskin, myöskään, n., napin, ni, nii, niiku, niim, niin, niinkin, niinko, niinku, niinkuin, niinkun, niinpä, nikun, nimenomaan, nimittäi, nimittäin, nin, ninku, ninkun, nipin, noi, noin, ns., nuin, ny, nyk., nyt, nytten, näemmä, näet, näi, näim, näin, näinkin, näkyy, näköjeä, näköjään, nääs, o.s., oik., oikeastaan, oikeestaa, oikeestaan, olletikin, osapuilleen, pe, pelkästään, perin, peräti, plus, puolestaan, päi, päin, rp., saati, saatikka, sangen, semminkin, sen, sentää, sentään, siim, siinä, siis, silti, sitte, sitten, sittenkin, sittenkään, sitä, sitäpaitsi, suinkaan, suorastaan, taas, tahansa, tervetuloa, tiemmä, ties, tietenkin, tietenkään, tietysti, tietystikään, tms, todella, todellakaan, todellakin, toisaalta, toki, tokko, tosi, tosiaan, tosiaankaan, tosin, tota, totta, tottahan, tottakai, tuota, tuskin, v., vaa, vaan, vaikka, vaikkapa, vain, vallan, vallankin, varhmaan, varmaa, varmaan, varmaankaan, varmaankin, varmmaam, varsin, varsinkaan, varsinkin, varsinni, vas., vast, vasta, verraten, verrattain, viel, vielä, vieläk, vieläkin, vieläkö, vieläpä, vihdoin, vihdoinkin, viimein, viimeistään, vissii, vissiin, viä, viäl, vua, vv., vähintään, vähintäänkin, yhteensä, yhtikäs, yhä, yhäkö, yksinomaan, ym, yms.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 49 lemmas tagged as pronouns (PRON): ei-kukaan, ei-mikään, eri, eräs, harva, he, hän, itse, joka, jokainen, jokin, joku, jompi, jompikumpi, kaikki, kuka, kukaan, kukakin, kukin, kumpi, kumpikaan, kumpikin, me, mikä, mikäkin, mikään, minä, molemmat, mones, moni, muu, muutama, ne, niin, nuo, nämä, sama, se, sellainen, siksi, silleen, sinä, siten, te, toinen, tuo, tämä, usea, yksi</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 41 lemmas tagged as pronouns (PRON): ainoa, ainut, eräs, harva, he, hän, inse, itsari, itse, itsessään, joka, jokainen, jokin, joku, kaikkea, kaikki, kuka, kukaan, kumpi, kumpikin, meillä, mikin, mikä, mikään, minä, molemmat, moni, monta, muu, muutama, nuo, sama, samoin, se, sinä, sitä, toinen, tuo, tämä, varsikin, yksi</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 30 lemmas tagged as pronouns (PRON): ainoa, eräs, harva, hän, itse, joka, jokainen, jokin, joku, jokunen, kaikki, koko, kuka, kukaan, kumpi, mikä, mikään, minä, molemmat, moni, monta, muu, muutama, sama, se, sinä, toinen, tuo, tämä, yksi</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 49 lemmas tagged as pronouns (PRON): ainoa, ainut, eräs, harva, hän, itse, itsensä, joka, jokainen, jokin, joku, jokunen, jompikumpi, jonne, kaikkensa, kaikki, ken, kuka, kukaan, kukakin, kukin, kumpi, kumpikaan, kumpikin, ma, mikin, mikä, mikä#lienee#jokin, mikään, minä, molemmat, mones, moni, monta, muu, muuan, muutama, nuo, sama, se, sen, sinä, sää, toinen, tuo, tämä, usea, yksi, yksikään</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 51 lemmas tagged as determiners (DET): ei-kukaan, eri, eräs, harva, he, hän, itse, joka, jokainen, jokin, joku, jokunen, jompikumpi, kaikki, kuka, kukaan, kukin, kumpi, kumpikaan, kumpikin, me, mikä, mikäkin, mikään, minä, molemmat, mones, moni, monta, muu, muuan, muutama, ne, nuo, nämä, sama, se, sellainen, semmoinen, sinä, te, toinen, tuo, tuollainen, tuolloinen, tuommoinen, tällainen, tämmöinen, tämä, usea, yksi</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 0 lemmas tagged as determiners (DET): </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 0 lemmas tagged as determiners (DET): </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 0 lemmas tagged as determiners (DET): </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>Out of the above, 42 lemmas occurred sometimes as PRON and sometimes as DET: ei-kukaan, eri, eräs, harva, he, hän, itse, joka, jokainen, jokin, joku, jompikumpi, kaikki, kuka, kukaan, kukin, kumpi, kumpikaan, kumpikin, me, mikä, mikäkin, mikään, minä, molemmat, mones, moni, muu, muutama, ne, nuo, nämä, sama, se, sellainen, sinä, te, toinen, tuo, tämä, usea, yksi</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 53 lemmas tagged as auxiliaries (AUX): VERB, alkaa, auttaa, ehtiä, ei, ennättää, haluta, huolia, joutaa, joutua, jättää, jäädä, kannattaa, kelvata, keretä, keritä, kuulua, kärsiä, käydä, lakata, mahtaa, meinata, näkyä, näyttää, olla, osata, osoittautua, ottaa, pakata, parata, passata, pitää, pyrkiä, pystyä, ruveta, ryhtyä, saada, saattaa, sattua, sopia, tahtoa, taitaa, tarvita, tavata, toimittaa, tulla, tuntua, täytyä, uhata, vaikuttaa, viitsiä, voida, yrittää</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): ei, joutua, mahtaa, olla, pitää, saattaa, taitaa, tarvita, täytyä, voida</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): aikoa, ei, olla, pitää, saattaa, täytyä, voida</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): aikoa, ei, joutua, mahtaa, olla, pitää, saattaa, taitaa, tarvita, täytyä, voida</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>Out of the above, 51 lemmas occurred sometimes as AUX and sometimes as VERB: alkaa, auttaa, ehtiä, ei, ennättää, haluta, huolia, joutaa, joutua, jättää, jäädä, kannattaa, kelvata, keritä, kuulua, kärsiä, käydä, lakata, mahtaa, meinata, näkyä, näyttää, olla, osata, osoittautua, ottaa, pakata, parata, passata, pitää, pyrkiä, pystyä, ruveta, ryhtyä, saada, saattaa, sattua, sopia, tahtoa, taitaa, tarvita, tavata, toimittaa, tulla, tuntua, täytyä, uhata, vaikuttaa, viitsiä, voida, yrittää</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: ei, joutua, olla, pitää, saattaa, tarvita, voida</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: ei, olla, pitää</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>Out of the above, 10 lemmas occurred sometimes as AUX and sometimes as VERB: aikoa, ei, joutua, mahtaa, olla, pitää, saattaa, taitaa, tarvita, voida</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -272,7 +347,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: on, ei, oli, ole, en, ovat, voi, eikä, olisi, olen</li>
+          <li>NOUN: kaivelette</li>
+          <li>VERB: saa, tulee, hapettuu, sai, alkoi, löytyy, laskee, menee, kertoo, laski</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -282,7 +368,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -294,7 +380,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -304,7 +390,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>AUX: olla, olemaan, ollessa, joutua, ollessaan, pitää</li>
+          <li>NOUN: kumarrella</li>
+          <li>VERB: saada, tehdä, katsomassa, tulla, laskemaan, nukkuessa, käymään, pitää, mennä, menossa</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -314,7 +411,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -326,7 +423,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -336,7 +433,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Part
+        <ul>
+          <li>ADJ: tulevaan</li>
+          <li>AUX: ollut, olevan, jouduttu, olleet, voinut, olevansa, oltava, joutunut, ollet, ollu</li>
+          <li>VERB: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -346,7 +454,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -358,57 +466,71 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="25%" valign="top">
       <h3>Nominal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -426,7 +548,28 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADJ: omat, omia, hyviä, hyvät, pieniä, väkevien, matalat, pitkiä, uusia, Parhaat</li>
+            <li>ADP: tiimoilta</li>
+            <li>ADV: hoitolinjoin</li>
+            <li>AUX-Fin: ovat, eivät, olimme, on, oli, olivat, Olemme, Olkoot, ei, eivätkä</li>
+            <li>AUX-Part: olleet, ollet</li>
+            <li>NOUN: omaiset, paineet, nymfit, ihmisiä, nuorten, lapset, lehdet, töitä, yhteydenottoja, Täyttöpaineet</li>
+            <li>NOUN-Fin: kaivelette</li>
+            <li>NUM: satoja, satojen</li>
+            <li>PRON: ne, niitä, jotka, he, meidän, heidän, me, joilla, kaikille, meillä</li>
+            <li>PROPN: #oscarit, @Duudsonit, @Lukiolaiset, @NVUutiset, @PorinAssat, @SuomenEkonomit, Absojen, Alankomaihin, Canesten, Duodermit</li>
+            <li>VERB: saavat, edistäviin, etenevät, haluatte, jäävät, kasvaneet, koskevat, käyneet, laskivat, liittyvistä</li>
+            <li>VERB-Fin: saavat, etenevät, haluatte, jäävät, laskivat, nousivat, pystyvät, saivat, sanovat, soitamme</li>
+            <li>VERB-Part: edistäviin, kasvaneet, koskevat, käyneet, liittyvistä, näkyvissä, tehtyjä, Diagnosoidut, Jutelleet, Lakitetut</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -443,7 +586,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -462,7 +605,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -480,7 +623,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: hyvä, pitkä, rauhallinen, korkea, oma, vanha, hyvää, huono, toinen, uuden</li>
+            <li>ADJ-Part: tulevaan</li>
+            <li>ADV: aika, itelläni, kipuun, kumma, muun</li>
+            <li>AUX-Fin: on, ei, oli, en, eikä, voi, olen, olisi, pitäisi, voisi</li>
+            <li>AUX-Inf: olla, olemaan, ollessa, joutua, ollessaan, pitää</li>
+            <li>AUX-Part: ollut, olevan, jouduttu, voinut, olevansa, oltava, joutunut, ollu, tainnut, tarvinnut</li>
+            <li>INTJ: Jopas</li>
+            <li>NOUN: diureesi, hemodynamiikka, hapetus, hengitys, pulssi, aikana, Tajunta, yövuoro, aamulla, illalla</li>
+            <li>NOUN-Inf: kumarrella</li>
+            <li>NUM: yksi, kaksi, pari, kolme, yhden, kahden, kolmeen, kolmen, neljä, neljän</li>
+            <li>PRON: se, sen, joka, hän, kaikki, mitä, sitä, muuta, tällä, tämä</li>
+            <li>PROPN: furesis, Esko, Tymppis, Tymppiksen, the, sp., Eskon, Suomi, suomessa, noradrenalina</li>
+            <li>SYM: %:n</li>
+            <li>VERB: saanut, tulee, saa, aloitettu, hapettuu, laitettu, sai, alkoi, päästy, saada</li>
+            <li>VERB-Fin: tulee, saa, hapettuu, sai, alkoi, löytyy, laskee, menee, kertoo, laski</li>
+            <li>VERB-Inf: saada, tehdä, katsomassa, tulla, laskemaan, nukkuessa, käymään, pitää, mennä, menossa</li>
+            <li>VERB-Part: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
+            <li>X: Creator, HERAUS, SATAN, poro</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -501,7 +670,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -522,24 +691,29 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Abe
           <ul>
@@ -551,7 +725,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Abe
+          <ul>
+            <li>NOUN: ongelmitta, vastikkeetta, veloituksetta</li>
+            <li>VERB-Inf: Saavuttamatta, aiheuttamatta, antamatta, asettamatta, ihailematta, juomatta, korostamatta, käynnistämättä, puhumattakaan, purskahtamatta</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Abe
           <ul>
@@ -561,7 +745,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Abe
           <ul>
@@ -575,7 +759,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -590,7 +774,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Abl
+          <ul>
+            <li>ADJ: Kansainväliseltä, alhaiselta, asialliselta, hurjalta, hyvältä, ihanalta, nimiseltä, omalta, orientoituneelta, otolliselta</li>
+            <li>ADP: tiimoilta</li>
+            <li>NOUN: hotellilta, potilaalta, y​h​t​e​i​s​t​y​ö​k​u​m​p​p​a​n​e​i​l​t​a, Ensimetreiltä, KANNALTA, MTV-kanavalta, PUOLUEELTA, Pientuottajilta, Puolilta, Reunalta</li>
+            <li>NUM: neljältä</li>
+            <li>PRON: jokaiselta, Keneltä, Muilta, eräältä, häneltä, joltain, siltä, tältä</li>
+            <li>PROPN: Oy:ltä, Katalonialta, Kelalta, Lokomotivilta</li>
+            <li>VERB-Part: haetuilta, raiskatuilta</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -603,7 +802,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -619,7 +818,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -628,7 +827,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>PRON: hänet, Meidät, heidät, itsesi, minut</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -637,7 +845,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -648,7 +856,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ade
           <ul>
@@ -664,7 +872,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ade
+          <ul>
+            <li>ADJ: hyvällä, omalla, pienellä, Oikealla, Tähänastisella, Täpötäydellä, Vähemmälläkin, Ylemmillä, entisellä, eteläisellä</li>
+            <li>ADV: itelläni</li>
+            <li>NOUN: aamulla, illalla, viikolla, iltapäivällä, avulla, hetkellä, puolella, tasolla, tauolla, yöllä</li>
+            <li>NUM: kahdella, yhdellä</li>
+            <li>PRON: tällä, jolla, sillä, joilla, meillä, millä, heillä, hänellä, minulla, mulla</li>
+            <li>PROPN: furesiksella, Tavastialla, Drägerillä, Uudellamaalla, malmilla, Admiralilla, Bennetillä, Bennetilläkään, Guinealla, Itäväylällä</li>
+            <li>VERB: antamalla, kehumalla, kirjoittamilla, klikkaamalla, kääntyilemällä, mielellänne, ostamalla, riuhtomalla, sijoittuvalla, täyttämällä</li>
+            <li>VERB-Inf: antamalla, kehumalla, klikkaamalla, kääntyilemällä, ostamalla, riuhtomalla, täyttämällä, valitsemalla</li>
+            <li>VERB-Part: kirjoittamilla, sijoittuvalla, vaihtelevalla</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ade
           <ul>
@@ -680,7 +905,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ade
           <ul>
@@ -699,7 +924,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>All
           <ul>
@@ -714,7 +939,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>All
+          <ul>
+            <li>ADJ: Oikealle, Suomalaisille, Uusille, Vasemmalle, hienolle, hintelälle, ikäiselle, ikäisille, jälkimmäiselle, kovimmallekin</li>
+            <li>NOUN: Bipap:lle, CPAP:lle, alkuasukkaille, cpapille, hautausmaalle, kendall-kostukselle, kohdalle, lapselle, ostoksille, 1940-luvulle</li>
+            <li>PRON: hänelle, kaikille, minulle, sinulle, kenellekään, niille, itselleen, tälle, joillekin, jokaiselle</li>
+            <li>PROPN: Malmille, Tymppikselle, Allielle, Eskolle, Furesikselle, Heidille, Hämeenkadulle, Lapinjärvelle, Maurille, Nokialle</li>
+            <li>VERB-Part: dementoituneelle, edeltäneelle, eksyneille, omaaville, osallistuvalle, tarvitseville, tehneille</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>All
           <ul>
@@ -727,7 +965,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>All
           <ul>
@@ -743,7 +981,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Com
           <ul>
@@ -756,7 +994,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Com
+          <ul>
+            <li>NOUN: eläimineen, fiftarimekkoineen, huulipunineen, höysteineen</li>
+            <li>PRON: kaikkine</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Com
           <ul>
@@ -766,7 +1014,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Com
           <ul>
@@ -780,7 +1028,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ela
           <ul>
@@ -797,7 +1045,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ela
+          <ul>
+            <li>ADJ: korkeista, omasta, 15–24-vuotiaista, Absoluuttisesta, Asunnottomista, aiheisista, asiallisista, ensimmäisestä, fantastisesta, iloisista</li>
+            <li>NOUN: putkesta, asioista, mielestä, sydämestä, Joulumaasta, Pumppudreenistä, aiheesta, arvoista, elämästäni, jalasta</li>
+            <li>NUM: sadasta, yhdestä</li>
+            <li>PRON: siitä, josta, tästä, jostain, näistä, itsestään, joista, kaikesta, niistä, Mistäkö</li>
+            <li>PROPN: Kelasta, suomesta, Alanyasta, Dormicumista, Jatkoajasta, JavaScriptistä, Shanghaista, Sydneystä, facebookista, ikeastahan</li>
+            <li>VERB: liittyvistä, kultivoituneesta, olemasta, säästä</li>
+            <li>VERB-Inf: olemasta</li>
+            <li>VERB-Part: liittyvistä, kultivoituneesta</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ela
           <ul>
@@ -812,7 +1076,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ela
           <ul>
@@ -830,7 +1094,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ess
           <ul>
@@ -846,7 +1110,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ess
+          <ul>
+            <li>ADJ: väsyneenä, Jääkaappikylmänä, Nuorempana, ensimmäisenä, harkinnanvaraisen, harkinnanvaraisena, hartaina, hyvänä, idyllisenä, kohtuullisina</li>
+            <li>NOUN: aikana, vuonna, seurauksena, tarkoituksena, kesänä, päivänä, sunnuntaina, syynä, tapana, yönä</li>
+            <li>NUM: toissa, yhtenä</li>
+            <li>PRON: tänä, itsenä, joinakin, muina, tänäkään</li>
+            <li>VERB-Part: verrattuna, katsottuna, Sedatoituna, karkeastisanottuna, kiinnostuneena, lukittuna, muunnettuna, muutettuina, nautittuna, nähtynä</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ess
           <ul>
@@ -860,7 +1137,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ess
           <ul>
@@ -877,7 +1154,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -893,7 +1170,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>ADJ: uuden, oman, hyvän, viimeisen, väkevien, Sentraalisen, erityisen, suuren, hirmuisen, huonon</li>
+            <li>ADV: muun</li>
+            <li>AUX-Part: olevan, olevansa</li>
+            <li>NOUN: yön, vuoden, potilaan, lastin, nuorten, päivän, ajan, lapsen, rakkauden, sarjan</li>
+            <li>NUM: yhden, kahden, kolmen, neljän, parin, sadan, 100.n, 1000e, 100:n, 2:n</li>
+            <li>PRON: sen, tämän, jonka, hänen, meidän, minun, heidän, kaiken, jonkin, minkä</li>
+            <li>PROPN: Tymppiksen, Eskon, suomen, Allien, Furesiksen, Jeesuksen, Jortikan, Kelan, Liikenneturvan, Luhtasen</li>
+            <li>SYM: %:n</li>
+            <li>VERB: jättämäni, ymmärtävän, arvostavan, auttavan, haukkuvan, jatkuvan, kalastavan, kalifornialaistuneen, kirjoittaneen, koittaneen</li>
+            <li>VERB-Part: jättämäni, ymmärtävän, arvostavan, auttavan, haukkuvan, jatkuvan, kalastavan, kalifornialaistuneen, kirjoittaneen, koittaneen</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -909,7 +1204,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -926,7 +1221,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ill
           <ul>
@@ -943,7 +1238,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ill
+          <ul>
+            <li>ADJ: Sanattomaan, eiliseen, elävään, erityiseen, hamaan, huonoon, kreikkalaiseen, kulloiseenkin, kömpelöihin, lukuisiin</li>
+            <li>ADJ-Part: tulevaan</li>
+            <li>ADV: kipuun</li>
+            <li>AUX-Inf: olemaan</li>
+            <li>NOUN: aikaan, loppuun, kotiin, pintaan, nivuseen, päivään, aikoihin, alkuun, elämään, hintaan</li>
+            <li>NUM: kolmeen</li>
+            <li>PRON: siihen, tähän, johon, samaan, jonne, kaikkeen, muihin, noihin, häneen, itseensä</li>
+            <li>PROPN: Guineaan, Saksaan, Uuteen, suomeen, Alankomaihin, Australiaan, Brasiliaan, Britanniaan, Dubaihin, Espanjaan</li>
+            <li>VERB-Inf: laskemaan, käymään, tekemään, katsomaan, nostamaan, tietämään, vähentämään, auttamaan, huuhtelemaan, laittamaan</li>
+            <li>VERB-Part: edistäviin, istuvaan, kirjoitettuun, niukentuneeseen, paketoituun, päivystävään, tapahtuviin, tehtyihin</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ill
           <ul>
@@ -959,7 +1272,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ill
           <ul>
@@ -978,7 +1291,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ine
           <ul>
@@ -995,7 +1308,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ine
+          <ul>
+            <li>ADJ: omassa, Oikeassa, ammatillisissa, erillisissä, halvoissakaan, hirviömäisessä, ilonen, kevyessa, l.sin., lyhyessä</li>
+            <li>AUX-Inf: ollessa, ollessaan</li>
+            <li>NOUN: vaiheessa, yhteydessä, kyseessä, thx-kuvassa, helmikuussa, tapauksessa, vuodessa, Sacrumissa, aamupesuissa, ajassa</li>
+            <li>NUM: 3ssa, kolmessa</li>
+            <li>PRON: jossa, siinä, tässä, missä, jossain, muissa, Missähän, Noissa, hänessä, joissa</li>
+            <li>PROPN: suomessa, Aurassa, Sidessä, euroopassa, @antroblogi'ssa, Aasiassa, Alanyassakin, Amerikassa, Barcelonassa, Bilbaossa</li>
+            <li>VERB: katsomassa, nukkuessa, menossa, tullessa, käymässä, käynnissä, nähdessään, näkyvissä, olemassa, tulossa</li>
+            <li>VERB-Inf: katsomassa, nukkuessa, menossa, tullessa, käymässä, käynnissä, nähdessään, olemassa, tulossa, valitessa</li>
+            <li>VERB-Part: näkyvissä, nähtävissä, takavarikoidussa, vältettävissä</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ine
           <ul>
@@ -1011,7 +1341,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ine
           <ul>
@@ -1030,7 +1360,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1045,7 +1375,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ins
+          <ul>
+            <li>ADJ: Pienin, epävakain, italialaisin, kreikkalaisin</li>
+            <li>ADV: hoitolinjoin</li>
+            <li>NOUN: puolin, tavoin, turvin, juoksuin, jäljin, järvin, käsin, metsin, mielin, muutoksin</li>
+            <li>PRON: molemmin, monin, samoin</li>
+            <li>VERB-Inf: istuen, Viitaten, estäen, ihmetellen, kurtistellen, käännyttäen, loikkien, lähettäen, noudattaen, odottaen</li>
+            <li>VERB-Part: Ojennetuin, suljetuin</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1056,7 +1400,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1074,7 +1418,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Lat
           <ul>
@@ -1084,15 +1428,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -1108,7 +1455,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ: hyvä, pitkä, rauhallinen, korkea, oma, vanha, huono, omat, toinen, asiallinen</li>
+            <li>ADV: aika, kumma</li>
+            <li>AUX-Part: ollut, jouduttu, olleet, voinut, oltava, joutunut, ollet, ollu, tainnut, tarvinnut</li>
+            <li>INTJ: Jopas</li>
+            <li>NOUN: diureesi, hemodynamiikka, hapetus, hengitys, pulssi, omaiset, Tajunta, yövuoro, co2, poika</li>
+            <li>NUM: yksi, kaksi, pari, kolme, neljä, puoli, sata, yhdeksän, 10, kahdeksan</li>
+            <li>PRON: se, joka, hän, kaikki, tämä, ne, mikä, jotka, he, me</li>
+            <li>PROPN: furesis, Esko, Tymppis, the, sp., Suomi, noradrenalina, America, Captain, Nooa</li>
+            <li>VERB: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
+            <li>VERB-Part: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
+            <li>X: Creator, HERAUS, SATAN, poro</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -1124,7 +1490,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -1141,7 +1507,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Par
           <ul>
@@ -1157,7 +1523,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Par
+          <ul>
+            <li>ADJ: hyvää, omia, hyviä, niukkaa, riittävää, helppoa, parasta, pieniä, runsasta, ensimmäistä</li>
+            <li>NOUN: aikaa, kertaa, mg, prosenttia, tietoa, ihmisiä, limaa, asentoa, limaisuutta, maata</li>
+            <li>NUM: satoja, kolmattasataa, toistasataa</li>
+            <li>PRON: mitä, sitä, muuta, niitä, jotain, mitään, jota, tätä, kaikkea, heitä</li>
+            <li>PROPN: furesista, Oxanestia, Eskoa, Bachia, Nitroa, Opamoxia, Stesolidia, Abbodopia, Allieta, Ativania</li>
+            <li>VERB-Part: purettua, valkaistua, saatuaan, tapahtuvaa, tehtyjä, viemää, alentavaa, avattuaan, eristäviä, harkittuja</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Par
           <ul>
@@ -1171,7 +1551,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Par
           <ul>
@@ -1189,7 +1569,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Tra
           <ul>
@@ -1206,7 +1586,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Tra
+          <ul>
+            <li>ADJ: huonoksi, sinisilmäiseksi, työläämmäksi, Suurimmaksi, Toiseksi, ahdistuneemmaksi, a​l​k​o​h​o​l​i​p​o​l​i​i​t​t​i​s​e​k​s​i, ensimmäiseksi, helpommiksi, historialliseksi</li>
+            <li>NOUN: ajaksi, hetkeksi, ohjelmointikieleksi, Eturuoaksi, Sääliksi, Yöksi, alkoholiksi, asemasodaksi, hoitajaksi, huvikseni</li>
+            <li>VERB-Inf: muistaakseni, auttaakseen, herättääkseeni, hämätäkseen, käsittääkseni, pitääkseen, suorittamastanne, säilyäkseen, tietääkseni, ymmärtääkseni</li>
+            <li>VERB-Part: esitettäväksi, jaettavaksi, puretuksi, testattavaks</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Tra
           <ul>
@@ -1220,7 +1612,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Tra
           <ul>
@@ -1238,57 +1630,71 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="25%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -1303,7 +1709,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADJ: lämmin, matalampaa, matalampi, suurempi, työläämmäksi, tärkeämpiä, useampia, Alempi, Nuorempana, PAHEMPI</li>
+            <li>ADV: paremmin, huonommin, lähempänä, helpommin, pahemmin, pahemminkin</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -1313,7 +1729,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -1326,10 +1742,27 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>ADJ: hyvä, pitkä, rauhallinen, korkea, oma, vanha, hyvää, huono, omat, uuden</li>
+            <li>ADJ-Part: tulevaan</li>
+            <li>ADV: kumma</li>
+            <li>AUX-Part: ollut, olevan, jouduttu, olleet, voinut, olevansa, oltava, joutunut, ollet, ollu</li>
+            <li>INTJ: Jopas</li>
+            <li>NOUN: Nuorten, aikuinen, ohueen, viranomaiselle</li>
+            <li>PRON: MUUTA, Muuta, Noissa</li>
+            <li>VERB: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
+            <li>VERB-Part: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1341,7 +1774,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1357,7 +1790,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -1371,7 +1804,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Sup
+          <ul>
+            <li>ADJ: paras, parasta, suosituin, Parhaat, suurimman, Halutuimpia, Naurettavinta, Suurimmaksi, TURVALLISINTA, alin</li>
+            <li>ADV: parhaiten, helpoiten</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -1382,7 +1825,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -1395,24 +1838,29 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1422,7 +1870,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>AUX-Fin: ei, en, eikä, eivät, enkä, eikö, et, älä, Enpä, Ethän</li>
+            <li>VERB-Fin: ei, eikä</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1432,7 +1890,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1444,57 +1902,71 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -1504,7 +1976,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Cnd
+          <ul>
+            <li>AUX-Fin: olisi, pitäisi, voisi, olisin, Olisko, Pitäisikö, Voisko, olis, olisisi, olisivat</li>
+            <li>VERB-Fin: tulisi, tuntuisi, saisi, kiinnostaisi, saataisiin, valitsisi, Halkaisisin, Haluaisin, Käyttäisinkin, Luulisikin</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -1514,7 +1996,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -1526,7 +2008,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1536,7 +2018,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>AUX-Fin: älä, Ethän, Olkoot, älkää</li>
+            <li>VERB-Fin: Lue, anna, hae, osta, seuraa, Johda, KUUNTELE, Keskustele, Kirjaudu, Koeta</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1545,7 +2037,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1557,7 +2049,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1567,7 +2059,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX-Fin: on, oli, ole, ovat, voi, olen, voit, onko, pitää, onkin</li>
+            <li>NOUN-Fin: kaivelette</li>
+            <li>VERB-Fin: saa, tulee, hapettuu, sai, alkoi, löytyy, laskee, menee, kertoo, laski</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1577,7 +2080,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1589,7 +2092,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -1599,15 +2102,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -1617,10 +2123,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Pot
+          <ul>
+            <li>AUX-Fin: lienee, voinee</li>
+            <li>VERB-Fin: kertonee, käynee</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -1632,24 +2148,29 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1659,7 +2180,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX-Fin: oli, olimme, olin, olikin, olivat, taisi, Oliko, Olit, jouduin, liekö</li>
+            <li>VERB-Fin: sai, alkoi, laski, näin, tuli, nousi, meni, sain, kertoi, nukkui</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1669,7 +2200,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1681,7 +2212,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1691,7 +2222,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>AUX-Fin: on, ole, ovat, voi, olen, voit, onko, pitää, onkin, oon</li>
+            <li>NOUN-Fin: kaivelette</li>
+            <li>VERB-Fin: saa, tulee, hapettuu, löytyy, laskee, menee, kertoo, tule, jatkuu, halua</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1701,7 +2243,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1713,24 +2255,29 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1744,7 +2291,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Act
+          <ul>
+            <li>ADJ-Part: tulevaan</li>
+            <li>AUX-Fin: on, ei, oli, en, ovat, eikä, voi, olen, olisi, eivät</li>
+            <li>AUX-Inf: olla, olemaan, ollessa, joutua, ollessaan, pitää</li>
+            <li>AUX-Part: ollut, olevan, olleet, voinut, olevansa, joutunut, ollet, ollu, tainnut, tarvinnut</li>
+            <li>NOUN-Fin: kaivelette</li>
+            <li>NOUN-Inf: kumarrella</li>
+            <li>VERB-Fin: tulee, saa, hapettuu, sai, alkoi, löytyy, laskee, menee, kertoo, laski</li>
+            <li>VERB-Inf: saada, tehdä, katsomassa, tulla, laskemaan, nukkuessa, käymään, pitää, mennä, menossa</li>
+            <li>VERB-Part: saanut, käynyt, nukkunut, soittanut, tullut, orientoitunut, mennyt, pysynyt, hapettunut, laskenut</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1759,7 +2323,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1775,7 +2339,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -1788,7 +2352,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Pass
+          <ul>
+            <li>AUX-Fin: ollaan, voidaan, mahtaako, olla, oltiin, voida</li>
+            <li>AUX-Part: jouduttu, oltava</li>
+            <li>VERB-Fin: jatketaan, nostetaan, odotellaan, anneta, annetaan, arvottiin, julkaistiin, järjestetään, kuvitellaan, käännytetään</li>
+            <li>VERB-Inf: Käännettäessä, kysyttäessä, liikuteltaessa, mitattaessa, pyydettäessä</li>
+            <li>VERB-Part: aloitettu, laitettu, päästy, vaihdettu, lopetettu, nostettu, tehty, käytetty, vähennetty, annettu</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -1801,7 +2378,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -1816,46 +2393,57 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="25%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1867,7 +2455,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>PRON: se, sen, sitä, tällä, tämä, siitä, ne, niitä, tämän, siinä</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1876,7 +2473,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1887,7 +2484,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1899,7 +2496,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>ADV: muun</li>
+            <li>PRON: kaikki, muuta, jotain, mitään, kaiken, ainoa, joku, jonkin, kaikille, kaikkea</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1908,7 +2515,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1920,7 +2527,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -1932,7 +2539,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>PRON: mitä, mikä, millä, kuka, minkä, Keneltä, Ketä, Missähän, Mistäkö, Mitäs</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -1941,7 +2557,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -1952,7 +2568,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1962,7 +2578,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>PRON: hän, he, hänen, meidän, minun, hänelle, heidän, me, minä, meillä</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1971,7 +2596,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1982,7 +2607,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -1992,7 +2617,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Rcp
+          <ul>
+            <li>ADJ: toista</li>
+            <li>PRON: toinen, toisensa, toisemme, toisen, toisenkin, toisiamme, toisiinsa</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -2001,7 +2636,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -2012,7 +2647,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -2024,7 +2659,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>PRON: joka, jolla, jonka, jossa, jotka, josta, mitä, jota, mikä, joilla</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -2033,7 +2677,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -2044,24 +2688,29 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -2070,7 +2719,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>NUM: 2, 40, 20, 5, 10, 100, 60, 90, 2014, yksi</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -2080,7 +2738,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -2092,7 +2750,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -2101,7 +2759,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ord
+          <ul>
+            <li>ADJ: 1., 2., toinen, 14., 3., ensimmäinen, 4., 5., 9., ensimmäistä</li>
+            <li>PRON: Toinen, toiseen</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -2112,7 +2780,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -2123,35 +2791,43 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -2161,7 +2837,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>ADV: itelläni</li>
+            <li>PRON: itsensä, itse, itseni, itselleen, itsestään, itseensä, itsellä, itselläkin, itsemme, itsestäni</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -2170,7 +2856,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -2181,27 +2867,42 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>0
+          <ul>
+            <li>AUX-Fin: on, voi, pitää, oli, täytyy, Taitaa, olisi, pitäisi, voisi</li>
+            <li>VERB-Fin: saa, pääsee, hengittelee, käy, tulee, tuntuu, Tuntui, ei, haluaa, heräsi</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>0
           <ul>
@@ -2211,7 +2912,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>0
           <ul>
@@ -2223,7 +2924,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -2235,7 +2936,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>AUX-Fin: en, olen, enkä, oon, olimme, olin, olisin, Enpä, Olemme, Olisko</li>
+            <li>PRON: meidän, minun, me, minä, meillä, minulle, mä, minua, minulla, Meidät</li>
+            <li>VERB-Fin: näin, sain, haluan, mietin, opettelen, teen, katson, tiedän, Arvostan, Inhoan</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -2246,7 +2958,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -2259,7 +2971,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -2271,7 +2983,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>AUX-Fin: voit, et, älä, Ethän, Oletko, Olit, Ootko, etkä, voitte, älkää</li>
+            <li>NOUN-Fin: kaivelette</li>
+            <li>PRON: sinulle, sinua, sinun, sinä, Sulla, Te, itsesi, sinusta, sua, sun</li>
+            <li>VERB-Fin: Lue, saat, ostat, anna, hae, haluatte, osta, seuraa, Johda, KUUNTELE</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -2281,7 +3005,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -2294,7 +3018,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -2306,7 +3030,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>AUX-Fin: on, ei, oli, ovat, eikä, voi, olisi, eivät, pitäisi, voisi</li>
+            <li>PRON: hän, he, hänen, hänelle, heidän, heitä, heillä, hänellä, hänet, heidät</li>
+            <li>VERB-Fin: tulee, hapettuu, alkoi, sai, löytyy, saa, laskee, menee, kertoo, laski</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -2317,7 +3052,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -2330,46 +3065,57 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Number[psor]</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -2385,7 +3131,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>NOUN: Hommanamme, epäpuhtautemme, hotellissamme, kaupunkilehteemme, koirastamme, kotiovellemme, kropassa, maahamme, perheeseemme, perunakauppiaamme</li>
+            <li>PRON: itsemme, toisemme, toisiamme</li>
+            <li>VERB: merkkaamamme, mielellänne, suorittamastanne</li>
+            <li>VERB-Inf: suorittamastanne</li>
+            <li>VERB-Part: merkkaamamme</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -2394,7 +3153,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -2414,7 +3173,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -2433,7 +3192,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: kaltaiseni</li>
+            <li>ADP: luotani</li>
+            <li>ADV: itelläni, kanssasi, kimppuuni, vieressäni</li>
+            <li>NOUN: elämäni, poikani, elämäsi, elämästäni, mielestäni, mieltäni, poikaani, päässäni, sieluni, silmiini</li>
+            <li>PRON: itseni, itsestäni, itseäni</li>
+            <li>VERB: jättämäni, muistaakseni, Uneksiessasi, halutessasi, herättääkseeni, kertomani, kirjoittaessani, kuuluvani, käsittääkseni, käyttäessäsi</li>
+            <li>VERB-Inf: muistaakseni, Uneksiessasi, halutessasi, herättääkseeni, kirjoittaessani, käsittääkseni, käyttäessäsi, pyrähtäessäni, tietääkseni, uidessasi</li>
+            <li>VERB-Part: jättämäni, kertomani, kuuluvani, löytäväni, postanneeni, saavani, sanovasi, twiittaamasi</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -2445,7 +3220,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -2465,18 +3240,21 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="25%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -2492,7 +3270,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Abbr</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: syst., mahd., pass., P.O, Vas., eteisper., oik., psyykk., sis., tas.</li>
+                <li>ADP: ad, ad., alk.</li>
+                <li>ADV: esim., jne, mm., n., yms., jne., jnk, tms., ed., edell.</li>
+                <li>NOUN: co2, RR, sr, klo, mg, kl., mg/vrk, Hb, heng., pot.</li>
+                <li>PROPN: L., Aller, SDP:n, #WHO, #tvof, #vpk, @MTKry, A., Absojen, CS:n</li>
+                <li>VERB-Fin: ks.</li>
+                <li>VERB-Part: aloit.</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -2507,7 +3304,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -2529,10 +3326,28 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>AdpType</a>
+          <ul>
+            <li>Post
+              <ul>
+                <li>ADP: kanssa, jälkeen, mukaan, vuoksi, takia, päälle, saakka, asti, päällä, sijaan</li>
+              </ul>
+            </li>
+            <li>Prep
+              <ul>
+                <li>ADP: ilman, ad, päälle, alle, ennen, yli, keskellä, Luo, kohti, per</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>AdpType</a>
           <ul>
@@ -2550,7 +3365,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>AdpType</a>
           <ul>
@@ -2570,7 +3385,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Clitic</a>
           <ul>
@@ -2736,7 +3551,83 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Clitic</a>
+          <ul>
+            <li>Han
+              <ul>
+                <li>ADV: Niinhän, näinhän, Itehän, mukavastihan</li>
+                <li>AUX-Fin: Onhan, olihan, olisihan</li>
+                <li>NOUN: Inflaatiohan, Mittasuhteethan, erohan, kapeahan, kuvitelmissasihan, merkkauksessahan, osarillahan, pakkohan, rakkaushan</li>
+                <li>PRON: Minullahan, Missähän, sitähän</li>
+                <li>PROPN: ikeastahan</li>
+                <li>SCONJ: kunhan</li>
+                <li>VERB-Fin: Tuleehan</li>
+              </ul>
+            </li>
+            <li>Han,Pa
+              <ul>
+                <li>VERB-Fin: Satunpahan</li>
+              </ul>
+            </li>
+            <li>Ka
+              <ul>
+                <li>AUX-Fin: eikä, enkä, eivätkä, etkä</li>
+                <li>VERB-Fin: eikä</li>
+              </ul>
+            </li>
+            <li>Kaan
+              <ul>
+                <li>ADJ: halvoissakaan</li>
+                <li>ADV: juurikaan, alkuunkaan, itsekään, mullakaan, nytkään, siltikään, sittenkään, varmaankaan, normaalistikaan, varmastikaan</li>
+                <li>NOUN: Alphallakaan, epäilystäkään, henkilöllisyyttäkään, viskiäkään</li>
+                <li>PRON: sekään, muitakaan, muutakaan, siihenkään, tänäkään</li>
+                <li>PROPN: Bennetilläkään</li>
+                <li>VERB-Inf: puhumattakaan</li>
+                <li>VERB-Part: kuullutkaan, tiennytkään, vaatineetkin</li>
+              </ul>
+            </li>
+            <li>Kin
+              <ul>
+                <li>ADJ: Vähemmälläkin, isompikin, kulloiseenkin, sellaisiakin</li>
+                <li>ADV: muutenkin, enemmänkin, hyvinkin, ennenkin, itsekin, kovastikin, liiankin, muutoinkin, nykyäänkin, olkoonkin</li>
+                <li>AUX-Fin: onkin, olikin, olivatkin</li>
+                <li>NOUN: aamupuurollekin, hetkenkin, kaasuunkin, kenetkin, kotosuomessakin, kukkiakin, kuvakin, käytöstäkin, lapsillekin, luntakin</li>
+                <li>PRON: muutakin, Meilläkin, Tämäkin, hekin, itselläkin, mekin, minunkin, muissakin, muitakin, muutaki</li>
+                <li>PROPN: Alanyassakin, Chopiniakin, HPK:ssakin, noradrenaliinaakin</li>
+                <li>SCONJ: joskin</li>
+                <li>VERB-Fin: kuuluukin, Käyttäisinkin, Luulisikin, Otankin, kunnioittikin, kävikin, luulinkin, opinkin, syöttävätkin, vaikuttikin</li>
+                <li>VERB-Inf: lopahtaakin</li>
+                <li>VERB-Part: jaksanutkin</li>
+              </ul>
+            </li>
+            <li>Ko
+              <ul>
+                <li>ADV: Mitenkä, Paljonko</li>
+                <li>AUX-Fin: onko, eikö, Oletko, Oliko, Olisko, Ootko, Pitäisikö, Voiko, Voisko, liekö</li>
+                <li>PRON: Mistäkö</li>
+                <li>VERB-Fin: kiinnostaako, Kasvanko, Luulitko, Löysitkö, Rakensitko, Saako, Saitko, Satutko, Tarvitseeko, Tekikö</li>
+              </ul>
+            </li>
+            <li>Pa
+              <ul>
+                <li>ADV: melkeinpä, siksipä, melkeimpä</li>
+                <li>AUX-Fin: Enpä, eipä, olenpa, voipi</li>
+                <li>PRON: sepä</li>
+                <li>VERB-Fin: Esitänpä, Pitääpä, pääsevätpä</li>
+              </ul>
+            </li>
+            <li>S
+              <ul>
+                <li>PRON: Mitäs, kukas</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Clitic</a>
           <ul>
@@ -2779,7 +3670,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Clitic</a>
           <ul>
@@ -2903,7 +3794,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Connegative</a>
           <ul>
@@ -2917,7 +3808,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Connegative</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>AUX-Fin: ole, voi, olisi, tarvitse, oo, olla, pidä, voida</li>
+                <li>VERB-Fin: tule, halua, jaksa, saa, kestä, pysty, tiedä, kiinnosta, muista, anneta</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Connegative</a>
           <ul>
@@ -2931,7 +3836,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Connegative</a>
           <ul>
@@ -2947,10 +3852,87 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Derivation</a>
+          <ul>
+            <li>Inen
+              <ul>
+                <li>ADJ: ensimmäinen, toinen, limainen, viimeisen, Sentraalisen, ensimmäistä, punainen, entistä, erityisen, hirmuisen</li>
+                <li>NOUN: aikuinen, viranomaiselle</li>
+                <li>PRON: Toinen, toiseen</li>
+              </ul>
+            </li>
+            <li>Inen,Vs
+              <ul>
+                <li>NOUN: limaisuutta, Hiljaisuuden, Tulevaisuuden, hiljaisuus, kokonaisuudessaan, kokonaisuuteen, mausteisuus, musikaalisuuden, ominaisuuksia, salaisuus</li>
+              </ul>
+            </li>
+            <li>Ja
+              <ul>
+                <li>NOUN: Vierailija, valvojan, jakajan, käyttäjä, unennäkijä, Kuntatyöntekijä, Liikkujan, N​A​I​S​K​A​M​P​A​A​M​O​T​Y​Ö​N​T​E​K​I​J​Ä​I​N, NBA-pelaajien, Osallistujat</li>
+              </ul>
+            </li>
+            <li>Lainen
+              <ul>
+                <li>ADJ: tuollainen, jonkinlainen, sellainen, sellaisen, sellaista, suomalaisia, tietynlainen, tällaisia, Kaikenlainen, Suomalaisille</li>
+                <li>NOUN: Eteläafrikkalaiset, Nokialaisten, PERUS-SUOMALAISTEN, Venäläisiä, Yövuorolaisena, ammattilainen, ammattilaisten, australialaisilla, humalaiset, juutalaisten</li>
+                <li>PROPN: @Lukiolaiset</li>
+              </ul>
+            </li>
+            <li>Llinen
+              <ul>
+                <li>ADJ: rauhallinen, asiallinen, kiitollinen, lapsiystävällinen, mahd., mahdollisen, pakolliset, rauhallista, surullista, Asillainen</li>
+              </ul>
+            </li>
+            <li>Llinen,Vs
+              <ul>
+                <li>NOUN: l​i​i​k​e​n​n​e​t​u​r​v​a​l​l​i​s​u​u​t​t​a, mahdollisuus, v​o​i​t​t​o​m​a​h​d​o​l​l​i​s​u​u​k​s​i​s​t​a, Kirjallisuus, laadullisuus, l​i​i​k​e​n​n​e​t​u​r​v​a​l​l​i​s​u​u​t​e​e​n, mahdollisuuksia, merkkiuskollisuutta, toiminnallisuuden, turvallisuuden</li>
+              </ul>
+            </li>
+            <li>Minen
+              <ul>
+                <li>NOUN: #johtaminen, hapettuminen, osaaminen, tanssimista, tekemistä, #kuluttaminen, Haukkumista, Kirjoitaminen, Korvaaminen, K​u​s​t​a​n​n​u​s​t​o​i​m​i​t​t​a​m​i​n​e​n</li>
+              </ul>
+            </li>
+            <li>Sti
+              <ul>
+                <li>ADV: runsaasti, nopeasti, helposti, tietysti, välittömästi, asiallisesti, kohtalaisesti, Hemodynaamisesti, huomattavasti, huonosti</li>
+              </ul>
+            </li>
+            <li>Ton
+              <ul>
+                <li>ADJ: mahdoton, tuntemattomien, Asunnottomista, Kiireetön, Sanattomaan, Uskomatonta, Välitön, armoton, asumatonta, elämättömän</li>
+              </ul>
+            </li>
+            <li>Ton,Vs
+              <ul>
+                <li>NOUN: hoitamattomuus</li>
+              </ul>
+            </li>
+            <li>Ttain
+              <ul>
+                <li>ADV: erittäin, hiljattain, nimittäin, päivittäin, sykäyksittäin, vuosittain</li>
+              </ul>
+            </li>
+            <li>U
+              <ul>
+                <li>NOUN: hapetus, loppuun, hapetuksen, avulla, tuoksu, Palvelu, apua, keskustelu, lämpöilyä, näkyä</li>
+              </ul>
+            </li>
+            <li>Vs
+              <ul>
+                <li>NOUN: rakkauden, Viisauden, hapokkuus, käännösoikeudet, pituutta, #peliriippuvuus, Kauneus, Peliriippuvuudesta, Rakkaus, Saatavuus</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Derivation</a>
           <ul>
@@ -3057,7 +4039,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Derivation</a>
           <ul>
@@ -3155,7 +4137,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -3168,7 +4150,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>PROPN: Opamoxia</li>
+                <li>X: LIST, All, Inclusive, author, baimbai, quote, time, #nature, Nix, pekato</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -3182,7 +4178,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -3197,7 +4193,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>InfForm</a>
           <ul>
@@ -3223,7 +4219,34 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>InfForm</a>
+          <ul>
+            <li>1
+              <ul>
+                <li>AUX-Inf: olla, joutua, pitää</li>
+                <li>NOUN-Inf: kumarrella</li>
+                <li>VERB-Inf: saada, tehdä, tulla, pitää, mennä, nähdä, ottaa, alkaa, antaa, jättää</li>
+              </ul>
+            </li>
+            <li>2
+              <ul>
+                <li>AUX-Inf: ollessa, ollessaan</li>
+                <li>VERB-Inf: nukkuessa, tullessa, istuen, nähdessään, valitessa, Huomatessaan, Käännettäessä, Nukkuessaan, Soidessa, Uneksiessasi</li>
+              </ul>
+            </li>
+            <li>3
+              <ul>
+                <li>AUX-Inf: olemaan</li>
+                <li>VERB-Inf: katsomassa, laskemaan, käymään, menossa, tekemään, katsomaan, nostamaan, tietämään, vähentämään, auttamaan</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>InfForm</a>
           <ul>
@@ -3249,7 +4272,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>InfForm</a>
           <ul>
@@ -3277,7 +4300,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>PartForm</a>
           <ul>
@@ -3307,7 +4330,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>PartForm</a>
+          <ul>
+            <li>Agt
+              <ul>
+                <li>VERB-Part: jättämäni, kirjoittama, tarvitsema, viemää, esittämä, harjoittama, ideoima, itsetekemä, jättämät, kertomani</li>
+              </ul>
+            </li>
+            <li>Past
+              <ul>
+                <li>AUX-Part: ollut, jouduttu, olleet, voinut, joutunut, ollet, ollu, tainnut, tarvinnut, täytynyt</li>
+                <li>VERB-Part: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
+              </ul>
+            </li>
+            <li>Pres
+              <ul>
+                <li>ADJ-Part: tulevaan</li>
+                <li>AUX-Part: olevan, olevansa, oltava</li>
+                <li>VERB-Part: edistäviin, koskevat, liittyvistä, näkyvissä, tapahtuvaa, ymmärtävän, aiheutuvat, alentavaa, arvostavan, auttavan</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>PartForm</a>
           <ul>
@@ -3332,7 +4381,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>PartForm</a>
           <ul>
@@ -3365,7 +4414,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -3417,7 +4466,48 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Person[psor]</a>
+          <ul>
+            <li>1
+              <ul>
+                <li>ADJ: kaltaiseni</li>
+                <li>ADP: luotani</li>
+                <li>ADV: piruuttani, itelläni, kimppuuni, vieressäni</li>
+                <li>NOUN: elämäni, poikani, elämästäni, mielestäni, mieltäni, poikaani, päässäni, sieluni, silmiini, viisauteni</li>
+                <li>PRON: itseni, itsemme, itsestäni, itseäni, toisemme, toisiamme</li>
+                <li>VERB-Inf: muistaakseni, herättääkseeni, kirjoittaessani, käsittääkseni, pyrähtäessäni, suorittamastanne, tietääkseni, ymmärtääkseni</li>
+                <li>VERB-Part: jättämäni, kertomani, kuuluvani, löytäväni, merkkaamamme, postanneeni, saavani</li>
+              </ul>
+            </li>
+            <li>2
+              <ul>
+                <li>ADV: kanssasi</li>
+                <li>NOUN: elämäsi, Uskonne, asunnossasi, kohtalosi, kuolemaasi, kuvitelmissasi, kuvitelmissasihan, maksaasi, mt-ongelmiisi, muistoosi</li>
+                <li>VERB: Uneksiessasi, halutessasi, käyttäessäsi, mielellänne, sanovasi, twiittaamasi, uidessasi, veljesi</li>
+                <li>VERB-Inf: Uneksiessasi, halutessasi, käyttäessäsi, uidessasi</li>
+                <li>VERB-Part: sanovasi, twiittaamasi</li>
+              </ul>
+            </li>
+            <li>3
+              <ul>
+                <li>ADJ: omiaan</li>
+                <li>ADP: keskuudestaan, ympärillään</li>
+                <li>ADV: alleen, lävitseen, mukanaan, sisällään, muuassaan</li>
+                <li>AUX-Inf: ollessaan</li>
+                <li>AUX-Part: olevansa</li>
+                <li>NOUN: silmiään, aikansa, hetkensä, isällään, kantensa, silmänsä, @​Y​o​u​T​u​b​e​-​s​o​i​t​t​o​l​i​s​t​a​a​n, Pohjistaan, alansa, albuminsa</li>
+                <li>PRON: itsensä, itselleen, itsestään, toisensa, itseensä, itseään, toisiinsa</li>
+                <li>VERB-Inf: nähdessään, Huomatessaan, Nukkuessaan, auttaakseen, hämätäkseen, koittaessaan, lukiessaan, lähtiessään, pitääkseen, säilyäkseen</li>
+                <li>VERB-Part: saatuaan, avattuaan, herättyään, kuolevansa, löytävänsä, oltuaan, rukoiltuaan</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -3452,7 +4542,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -3504,7 +4594,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>PunctSide</a>
           <ul>
@@ -3522,15 +4612,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -3566,7 +4659,38 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Style</a>
+          <ul>
+            <li>Arch
+              <ul>
+                <li>NOUN: N​A​I​S​K​A​M​P​A​A​M​O​T​Y​Ö​N​T​E​K​I​J​Ä​I​N</li>
+              </ul>
+            </li>
+            <li>Coll
+              <ul>
+                <li>ADJ: Ko-operoiva, co-operoiva, ekan, ilonen, jes, tuuheet, tällasia, vastaavaa</li>
+                <li>ADP: kaa, luon</li>
+                <li>ADV: ok, sit, ny, Koton, Miks, Mite, Plus, Viel, aluks, huome</li>
+                <li>AUX-Fin: oon, oli, oo, Ootko, ei, olis, on</li>
+                <li>AUX-Part: ollu</li>
+                <li>CCONJ: mut</li>
+                <li>INTJ: katos, perskeles, sori</li>
+                <li>NOUN: #pesis, Eksä, Vierotusta, isällää, kattominen, kropassa, nauhotusta, parikertaa, peeärrää, puheenaihett</li>
+                <li>PRON: mä, tää, mua, mulla, jotenki, mun, ton, varsinki, Sulla, itsarin</li>
+                <li>PROPN: PERSUILLE, Persujen, instusta, stadis</li>
+                <li>SCONJ: ku, et</li>
+                <li>VERB-Fin: lähen, meen, Käytiin, alko, katoin, kutsuttais, kysy, lähdettiin, läpäistiin, löys</li>
+                <li>VERB-Inf: Tubettaa, ehottaa, kattoo, seurusteleen, tonkiin, vetään</li>
+                <li>VERB-Part: eksytty, innostunu, kaivannu, kasvanu, opettanu, oppinu, ostanu, ottanu, päässy, testattavaks</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -3579,7 +4703,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -3615,13 +4739,39 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Typo</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: Asillainen, Asilliallinen, Oitkä, Pitän, harkinnanvaraisen, huvittavaa, jonkilainen, kevyessa, rauhalline, sisinisilmäinen</li>
+                <li>ADP: läelle, vaste</li>
+                <li>ADV: Enemmin, hijalleen, jol-loin, kunnon, milei, myö, vaam, melkeimpä, passii-visesti</li>
+                <li>AUX-Fin: eii, n, olisisi</li>
+                <li>AUX-Part: ollet</li>
+                <li>CCONJ: Saatika</li>
+                <li>NOUN: 800eur/kk, 2-luumen, Bipaille, Diureesii, Kateri, Potilan, SAÖ2, aviolitto, diuresi, hengitykoneeseen</li>
+                <li>NUM: 100.n</li>
+                <li>PRON: sen</li>
+                <li>PROPN: Actrpid-, Drouhin, Fureisi, Noradrenaliina, Noradrenalinan, OIkkosen, Seenasen, instusta, noradrenaliinaakin, proppofol</li>
+                <li>PUNCT: 8</li>
+                <li>VERB-Fin: Antauden, Happeutui, Satuoi, käysi, liikutta, muttuu, osaisen, osaisin, päädy-tään, soputuu</li>
+                <li>VERB-Inf: sallita</li>
+                <li>VERB-Part: kiinnostavaa, laitettu, saaatu, twiittaamasi, vahennelty</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -3650,7 +4800,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -3659,7 +4809,7 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: olla.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -3668,7 +4818,16 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: olla.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: olla.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -3679,18 +4838,24 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus uses 52 lemmas as auxiliaries (<a>aux</a>). Examples: ei, olla, voida, pitää, saada, täytyä, tulla, alkaa, saattaa, kannattaa, taitaa, tarvita, ehtiä, näyttää, ruveta, jäädä, mahtaa, tuntua, kuulua, jättää, ryhtyä, sattua, sopia, uhata, joutaa, ottaa, tahtoa, keretä, keritä, pyrkiä, ennättää, haluta, käydä, meinata, osata, vaikuttaa, huolia, joutua, kelvata, lakata, osoittautua, parata, passata, yrittää, auttaa, kärsiä, näkyä, pakata, pystyä, tavata.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: ei, olla, voida, pitää, joutua, taitaa, saattaa, tarvita, täytyä, mahtaa.</li>
+      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: olla.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: olla, ei, voida, täytyä, pitää, saattaa, aikoa.</li>
       <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: olla, voida.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: ei, olla, voida, pitää, saattaa, täytyä, joutua, aikoa, taitaa, tarvita, mahtaa.</li>
       <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: olla, voida.</li>
@@ -3698,7 +4863,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -3740,7 +4905,37 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Fin--NOUN-Gen (3)</li>
+            <li>VERB-Fin--NOUN-Nom (353)</li>
+            <li>VERB-Fin--NOUN-Par (27)</li>
+            <li>VERB-Fin--PRON-Gen (3)</li>
+            <li>VERB-Fin--PRON-Nom (131)</li>
+            <li>VERB-Fin--PRON-Par (6)</li>
+            <li>VERB-Inf--NOUN-Ess (1)</li>
+            <li>VERB-Inf--NOUN-Gen (12)</li>
+            <li>VERB-Inf--NOUN-Nom (24)</li>
+            <li>VERB-Inf--NOUN-Par (7)</li>
+            <li>VERB-Inf--PRON-Gen (8)</li>
+            <li>VERB-Inf--PRON-Nom (7)</li>
+            <li>VERB-Inf--PRON-Par (6)</li>
+            <li>VERB-Part--NOUN-Gen (24)</li>
+            <li>VERB-Part--NOUN-Nom (107)</li>
+            <li>VERB-Part--NOUN-Par (11)</li>
+            <li>VERB-Part--PRON-Gen (13)</li>
+            <li>VERB-Part--PRON-Nom (21)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -3768,7 +4963,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -3806,7 +5001,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -3850,7 +5045,40 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB--NOUN-Par (1)</li>
+            <li>VERB-Fin--NOUN-Ela (1)</li>
+            <li>VERB-Fin--NOUN-Gen (100)</li>
+            <li>VERB-Fin--NOUN-Ill (1)</li>
+            <li>VERB-Fin--NOUN-Nom (66)</li>
+            <li>VERB-Fin--NOUN-Par (194)</li>
+            <li>VERB-Fin--PRON-Acc (8)</li>
+            <li>VERB-Fin--PRON-Gen (13)</li>
+            <li>VERB-Fin--PRON-Nom (13)</li>
+            <li>VERB-Fin--PRON-Par (48)</li>
+            <li>VERB-Inf--NOUN-Ela (1)</li>
+            <li>VERB-Inf--NOUN-Gen (29)</li>
+            <li>VERB-Inf--NOUN-Nom (39)</li>
+            <li>VERB-Inf--NOUN-Par (127)</li>
+            <li>VERB-Inf--PRON-Gen (6)</li>
+            <li>VERB-Inf--PRON-Nom (4)</li>
+            <li>VERB-Inf--PRON-Par (21)</li>
+            <li>VERB-Inf--PRON-Par-ADP(kohtaan) (1)</li>
+            <li>VERB-Part--NOUN-Ela (1)</li>
+            <li>VERB-Part--NOUN-Gen (25)</li>
+            <li>VERB-Part--NOUN-Nom (69)</li>
+            <li>VERB-Part--NOUN-Par (107)</li>
+            <li>VERB-Part--PRON-Gen (2)</li>
+            <li>VERB-Part--PRON-Nom (9)</li>
+            <li>VERB-Part--PRON-Par (14)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -3883,7 +5111,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -3923,7 +5151,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -3931,7 +5159,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -3939,7 +5167,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -3949,29 +5185,35 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -3981,14 +5223,21 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Verbs with Reflexive Core Objects</h3>
+      
+      <ul>
+        <li>This corpus contains 6 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: esitellä itsensä, koskea itseään, kuristaa itsensä, saada itseäni, treenata itsensä, väsyttää itsensä</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lyödä itsensä, suojella itseään</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -3997,7 +5246,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -4005,7 +5254,15 @@ udver: '2'
       <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>obl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>parataxis</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
+      <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -4013,7 +5270,7 @@ udver: '2'
       <li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>

@@ -52,7 +52,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>All tokens in this corpus are followed by a space.</li>
+      <li>This corpus contains 38923 tokens (11%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">

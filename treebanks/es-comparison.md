@@ -140,8 +140,8 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
-      <li>This corpus does not use the following tags: SCONJ, PART, INTJ</li>
+      <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: PART, INTJ</li>
       </ul>
     </td>
   </tr>
@@ -181,7 +181,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 51 lemmas tagged as determiners (DET): Seu, Seva, alguno, aquel, bastante, cada, cierto, cual, cualquiera, cuanto, cuánto, demasiado, demás, diferente, dios, distinto, diverso, dos, el, els, escaso, ese, este, mi, mismo, mismísimo, mucho, muchísimo, musha, mía, mío, ninguno, nuestro, otra, otro, poco, propio, qué, sabe, semejante, sendos, su, suyas, suyo, tal, tanto, todo, tu, uno, varios, vuestro</li>
+      <li>This corpus contains 53 lemmas tagged as determiners (DET): A, Al, Seu, Seva, alguno, aquel, bastante, cada, cierto, cual, cualquiera, cuanto, cuánto, demasiado, demás, diferente, dios, distinto, diverso, dos, el, els, escaso, ese, este, mi, mismo, mismísimo, mucho, muchísimo, musha, mía, mío, ninguno, nuestro, otra, otro, poco, propio, qué, sabe, semejante, sendos, su, suyas, suyo, tal, tanto, todo, tu, uno, varios, vuestro</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -705,7 +705,7 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>PRON: lo, la, los, las, mí, sí, ti</li>
+            <li>PRON: se, lo, la, me, nos, los, las, mí, sí, te</li>
           </ul>
         </li>
       </ul>
@@ -735,7 +735,7 @@ udver: '2'
       <ul>
         <li>Acc,Dat
           <ul>
-            <li>PRON: se, me, nos, te, os</li>
+            <li>PRON: se, nos, te, me, Os</li>
           </ul>
         </li>
       </ul>
@@ -822,7 +822,7 @@ udver: '2'
       <ul>
         <li>Dat
           <ul>
-            <li>PRON: le, les</li>
+            <li>PRON: le, se, les, me, nos, te, os</li>
           </ul>
         </li>
       </ul>
@@ -973,7 +973,7 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>DET: la, el, los, las</li>
+            <li>DET: la, el, los, las, Al, A</li>
             <li>PRON: lo</li>
           </ul>
         </li>
@@ -1652,7 +1652,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: la, el, los, un, las, una, unos, unas, els, uno</li>
+            <li>DET: la, el, los, un, las, una, unos, unas, els, Al</li>
           </ul>
         </li>
       </ul>
@@ -2030,7 +2030,7 @@ udver: '2'
       <ul>
         <li>Yes
           <ul>
-            <li>PRON: se, me, nos, sí, te, consigo</li>
+            <li>PRON: se, me, nos, sí, te, consigo, os</li>
           </ul>
         </li>
       </ul>
@@ -2361,7 +2361,17 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>DET: Al, A</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2567,7 +2577,6 @@ udver: '2'
             <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
             <li>VERB-Fin--PRON (5004)</li>
             <li>VERB-Fin--PRON-Acc (6)</li>
-            <li>VERB-Fin--PRON-Acc,Dat (2)</li>
             <li>VERB-Fin--PRON-Acc,Nom (214)</li>
             <li>VERB-Fin--PRON-Dat (1)</li>
             <li>VERB-Fin--PRON-Nom (94)</li>
@@ -2686,8 +2695,7 @@ udver: '2'
             <li>VERB-Fin--PRON-ADP(hacia) (1)</li>
             <li>VERB-Fin--PRON-ADP(para) (4)</li>
             <li>VERB-Fin--PRON-ADP(por) (8)</li>
-            <li>VERB-Fin--PRON-Acc (689)</li>
-            <li>VERB-Fin--PRON-Acc,Dat (4235)</li>
+            <li>VERB-Fin--PRON-Acc (1141)</li>
             <li>VERB-Fin--PRON-Acc,Nom (5)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(a) (18)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(con) (8)</li>
@@ -2718,8 +2726,7 @@ udver: '2'
             <li>VERB-Ger--PRON-ADP(a) (5)</li>
             <li>VERB-Ger--PRON-ADP(de) (3)</li>
             <li>VERB-Ger--PRON-ADP(en) (2)</li>
-            <li>VERB-Ger--PRON-Acc (33)</li>
-            <li>VERB-Ger--PRON-Acc,Dat (185)</li>
+            <li>VERB-Ger--PRON-Acc (47)</li>
             <li>VERB-Ger--PRON-Acc,Nom (2)</li>
             <li>VERB-Ger--PRON-Acc,Nom-ADP(a) (1)</li>
             <li>VERB-Ger--PRON-Acc,Nom-ADP(con) (1)</li>
@@ -2754,8 +2761,7 @@ udver: '2'
             <li>VERB-Inf--PRON-ADP(para) (1)</li>
             <li>VERB-Inf--PRON-ADP(por) (1)</li>
             <li>VERB-Inf--PRON-ADP(sobre) (1)</li>
-            <li>VERB-Inf--PRON-Acc (442)</li>
-            <li>VERB-Inf--PRON-Acc,Dat (1283)</li>
+            <li>VERB-Inf--PRON-Acc (638)</li>
             <li>VERB-Inf--PRON-Acc,Nom-ADP(a) (4)</li>
             <li>VERB-Inf--PRON-Acc,Nom-ADP(con) (6)</li>
             <li>VERB-Inf--PRON-Acc,Nom-ADP(contra) (1)</li>
@@ -2795,8 +2801,7 @@ udver: '2'
             <li>VERB-Part--PRON-ADP(hacia) (1)</li>
             <li>VERB-Part--PRON-ADP(para) (2)</li>
             <li>VERB-Part--PRON-ADP(por) (7)</li>
-            <li>VERB-Part--PRON-Acc (106)</li>
-            <li>VERB-Part--PRON-Acc,Dat (614)</li>
+            <li>VERB-Part--PRON-Acc (157)</li>
             <li>VERB-Part--PRON-Acc,Nom (1)</li>
             <li>VERB-Part--PRON-Acc,Nom-ADP(a) (7)</li>
             <li>VERB-Part--PRON-Acc,Nom-ADP(de) (1)</li>
@@ -2902,15 +2907,15 @@ udver: '2'
             <li>VERB-Fin--PRON-ADP(del) (1)</li>
             <li>VERB-Fin--PRON-ADP(en) (2)</li>
             <li>VERB-Fin--PRON-Acc (14)</li>
-            <li>VERB-Fin--PRON-Acc,Dat (402)</li>
+            <li>VERB-Fin--PRON-Acc,Dat (1)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(a) (3)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(para) (1)</li>
             <li>VERB-Fin--PRON-Acc-ADP(a) (2)</li>
-            <li>VERB-Fin--PRON-Dat (166)</li>
+            <li>VERB-Fin--PRON-Dat (716)</li>
             <li>VERB-Ger--NOUN-ADP(a) (4)</li>
             <li>VERB-Ger--NOUN-ADP(de) (1)</li>
             <li>VERB-Ger--PRON-Acc (1)</li>
-            <li>VERB-Ger--PRON-Acc,Dat (1)</li>
+            <li>VERB-Ger--PRON-Dat (20)</li>
             <li>VERB-Inf--NOUN (22)</li>
             <li>VERB-Inf--NOUN-ADP(a) (19)</li>
             <li>VERB-Inf--NOUN-ADP(al) (4)</li>
@@ -2919,9 +2924,8 @@ udver: '2'
             <li>VERB-Inf--PRON (2)</li>
             <li>VERB-Inf--PRON-ADP(a) (1)</li>
             <li>VERB-Inf--PRON-Acc (9)</li>
-            <li>VERB-Inf--PRON-Acc,Dat (12)</li>
             <li>VERB-Inf--PRON-Acc,Nom-ADP(de) (1)</li>
-            <li>VERB-Inf--PRON-Dat (12)</li>
+            <li>VERB-Inf--PRON-Dat (140)</li>
             <li>VERB-Part--NOUN (9)</li>
             <li>VERB-Part--NOUN-ADP(a) (23)</li>
             <li>VERB-Part--NOUN-ADP(al) (9)</li>
@@ -2931,8 +2935,7 @@ udver: '2'
             <li>VERB-Part--PRON-ADP(con) (1)</li>
             <li>VERB-Part--PRON-ADP(del) (1)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
-            <li>VERB-Part--PRON-Acc,Dat (50)</li>
-            <li>VERB-Part--PRON-Dat (14)</li>
+            <li>VERB-Part--PRON-Dat (92)</li>
           </ul>
         </li>
       </ul>
@@ -2985,7 +2988,11 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <h3>Reflexive Verbs</h3>
+      
+      <ul>
+        <li>This corpus contains 615 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: producir se, encontrar se, convertir se, mostrar se, ver se, referir se, situar se, quedar se, ir se, enfrentar se, dar se, dedicar se, reunir se, sentir se, hacer se, negar se, deber se, imponer se, limitar se, llamar se, encargar se, sumar se, acabar se, manifestar se, acercar se, dirigir se, quejar se, atreverse se, entrevistar se, desarrollar se, extender se, recuperar se, retirar se, incorporar se, reducir se, mover se, volver se, oponer se, sentir me, alzar se, pronunciar se, trasladar se, unir se, detener se, estrellar se, colocar se, concentrar se, desplazar se, elevar se, equivocar se</li>
+      </ul>
     </td>
     <td width="33%" valign="top">
 
@@ -2999,7 +3006,7 @@ udver: '2'
       <h3>Reflexive Passive</h3>
       
       <ul>
-        <li>This corpus contains 207 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: tratar se, hablar se, hacer se, decir se, ver se, esperar se, dar se, querer se, conocer se, jugar se, pasar se, proceder se, vivir se, abrir se, acusar se, creer se, informar se, llegar se, saber se, someter se, tener se, actuar se, apuntar se, contratar se, elegir se, entrar se, especular se, guardar se, incluir se, incrementar se, optar se, pedir se, producir se, sospechar se, tardar se, trabajar se, acudir se, alertar se, ampliar se, apostar se, atribuir se, avanzar se, avisar se, calcular se, cambiar se, castigar se, combatir se, comer se, condenar se, confiar se</li>
+        <li>This corpus contains 576 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: hacer se, celebrar se, disputar se, ver se, registrar se, realizar se, decir se, esperar se, dar se, llevar se, poner se, conocer se, mantener se, utilizar se, saber se, cerrar se, considerar se, conseguir se, iniciar se, aplicar se, encontrar se, abrir se, crear se, incluir se, cumplir se, adoptar se, anunciar se, aprobar se, centrar se, resolver se, basar se, construir se, jugar se, respetar se, prever se, alcanzar se, efectuar se, estrenar se, exigir se, plantear se, creer se, emplear se, establecer se, incorporar se, permitir se, presentar se, querer se, tener se, tomar se, vender se</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -3014,9 +3021,9 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 1147 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: encontrar se, producir se, hacer se, ver se, convertir se, mostrar se, dar se, mantener se, reunir se, referir se, llevar se, poner se, situar se, quedar se, enfrentar se, presentar se, celebrar se, disputar se, dedicar se, ir se, imponer se, sentir se, comprometer se, negar se, registrar se, iniciar se, realizar se, limitar se, conocer se, deber se, llamar se, sumar se, encargar se, incorporar se, decir se, manifestar se, acabar se, considerar se, desarrollar se, acercar se, dirigir se, reducir se, cerrar se, quejar se, recuperar se, atreverse se, volver se, entrevistar se, esperar se, jugar se</li>
+        <li>This corpus contains 303 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: presentar se, comprometer se, mantener se, llevar se, poner se, reunir se, preparar se, preguntar se, someter se, hacer se, hacerse se, declarar se, dejar se, ganar se, plantear se, alejar se, dar se, inscribir se, ver se, enfrentar se, distanciar se, jugar se, tomar se, deshacer se, encontrar se, preguntar me, reproducir se, conocer se, considerar se, permitir se, precipitar se, rendir se, unir se, arrojar se, asociar se, creer se, decir se, defender se, disputar se, lanzar se, librar se, meter se, ofrecer se, pasar se, quitar se, reservar se, solidarizar se, afianzar se, alistar se, batir se</li>
           <ul>
-            <li>Out of those, 66 lemmas occurred more than once, but never without a reflexive dependent. Examples: hacerse, apoderar, abstener, arrepentirse, desmarcar, empeñar, resentirse, suicidarse, adentrar, atenerse, enrocar, percatar, propagar, solidarizar, acostar, aproximar, erigir, fugarse, perfilar, sobreponer, adueñarse, cocer, derrumbar, desanimar, desenvolver, desplomar, encaramar, encuadrar, enzarzar, inmutar, mentalizar, plasmar, rebelar, recrudecer, refugiar, rehacer, resignar, aburrir, acoplar, afiliar, aparear, asentar, cerner, ciscar, congratular, depreciar, desahogar, desgarrar, desmoronar, desquitar</li>
+            <li>Out of those, 9 lemmas occurred more than once, but never without a reflexive dependent. Examples: hacerse, solidarizar, desanimar, embolsar, encaramar, familiarizar, matricular, prostituir, rehacer</li>
           </ul>
       </ul>
     </td>
@@ -3043,7 +3050,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 4 relation subtypes: <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>nsubj:pass</a></li>
+      <li>This corpus uses 6 relation subtypes: <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>

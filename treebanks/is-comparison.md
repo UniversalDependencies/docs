@@ -24,7 +24,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 40809 sentences, 981639 tokens and 983010 syntactic words.</li>
+      <li>This corpus contains 44029 sentences, 983678 tokens and 985057 syntactic words.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -36,7 +36,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 110394 tokens (11%) that are not followed by a space.</li>
+      <li>This corpus contains 109935 tokens (11%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -60,7 +60,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 590 types of words that contain both letters and punctuation. Examples: kap., kongl., W., Jóh., Mag., Matth., Efra-Fossi, Kór., Gull-Haraldur, N., Neðra-Fossi, hndr., mr., Skegg-Broddi, Lúk., etc., rd., Prov., Dr., Jer., m., st., Gen., Gull-Harald, Tím., Devt., Dönsku-húsum, Efes., Heb., III., Matt., Músa-Bölverkur, Pét., Tít., b., c., ix., rdr., Akt., D., Fiðlu-Hansa, Hörða-Knúts, II., Jesaj., Job., Kor., O-já, Róm., S., Sálm.</li>
+      <li>This corpus contains 592 types of words that contain both letters and punctuation. Examples: kap., kongl., W., Jóh., Mag., Matth., Efra-Fossi, Kór., Gull-Haraldur, N., Neðra-Fossi, hndr., mr., Skegg-Broddi, etc., Lúk., rd., Prov., Dr., Jer., m., st., Gen., Gull-Harald, Tím., Devt., Dönsku-húsum, Efes., Heb., III., Matt., Músa-Bölverkur, Pét., Tít., b., c., ix., rdr., Akt., D., Fiðlu-Hansa, Hörða-Knúts, II., Jesaj., Job., Kor., O-já, Róm., S., Sálm.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -72,8 +72,8 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 1370 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 238 types of multi-word tokens. Examples: skaltu, ertu, muntu, viltu, láttu, máttu, vertu, veistu, áttu, attú, sjáðu, heyrðu, farðu, þarftu, heldurðu, komdu, varstu, líttu, stattu, segðu, þeygi, gerðu, kanntu, geturðu, fórstu, gefðu, gættu, hefurðu, manstu, sértu, sérðu, þars, þóttú, færðu, hafðu, taktu, varastu, sendu, varaðu, Gakktu, Gjörðu, ferðu, fáðu, haltu, hugsaðu, hættu, koddu, minnstu, mundu, settu.</li>
+      <li>This corpus contains 1378 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 243 types of multi-word tokens. Examples: skaltu, ertu, muntu, viltu, láttu, máttu, vertu, attú, veistu, áttu, sjáðu, heyrðu, farðu, þarftu, heldurðu, komdu, varstu, líttu, stattu, segðu, þeygi, gerðu, kanntu, geturðu, fórstu, hefurðu, gefðu, gættu, hafðu, manstu, sértu, sérðu, þars, þóttú, færðu, taktu, varastu, sendu, varaðu, Gakktu, Gjörðu, ferðu, fáðu, haltu, hugsaðu, hættu, koddu, minnstu, mundu, settu.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -107,7 +107,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 40 word types tagged as particles (PART): Einninn, alleina, alleinast, alleinasta, at, atð, auðvitað, að, aðeins, bara, ein, eina, einan, einar, einast, einasta, einasti, eingöngu, eini, einir, einka, einkum, einmitt, einn, einneginn, einni, eins, einsamall, einu, einum, einungis, einustu, eitt, en, heldur, jafnan, jafnvel, nema, utan, öldungis</li>
+      <li>This corpus contains 18 word types tagged as particles (PART): Einninn, Einungis, alleinasta, at, atð, að, aðeins, bara, ein, eina, einasta, einir, einkum, einmitt, einu, eitt, jafnvel, nema</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -119,19 +119,19 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 146 lemmas tagged as pronouns (PRON): allur, annar, annarr, annars, annarstaðar, annaðhvor, annaðhvort, annur, arkimagus, austfjörður, aðrur, báðir, eg, einar, einn, einnhver, eitthvað, ekkert, enginn, finnbogi, flestallur, grikki, hann, hans, henni, hinn, honum, hva-að, hvat, hvatki, hvað, hvaða, hver, hver-hver, hvergi, hverigu, hvern, hvert, hverur, hveða, hvor, hvorja, hvort, hvorttveggja, hvorugur, hví, hvílíkur, hvívetna, hvörri, hún, leyfi, lítill, maður, mer, mig, minn, minna, mit, miður, mér, món, neinn, nokkur, okkar, okkur, samur, sek, sig, sinn, sjá, sjálfaur, sjálfur, slíkur, sodan, sodda, soddan, soddann, soddur, sumur, svoddan, svoddann, sá, sér, sérhver, söðull, sýn, vera, vettugi, við, viðlíka, viðlíkur, vor, vora, vorra, vorrar, vorrur, vorur, vv, vá, vær, vér, ykkar, ykkra, ykkri, ykkrur, yðar, yðarri, yður, yðvar, yðvarn, álíka, ég, ér, ófeigur, öll, öllir, öðrumegin, ýmis, ýmiss, þ, þ., þann, þar, þat, þau, þaug, það, þeim, þeir, þeirra, þes, þess, þessi, þetta, þig, þinn, því, þvílíka, þvílíkur, þá, þær, þér, þín, þínn, þórólfur, þú</li>
+      <li>This corpus contains 147 lemmas tagged as pronouns (PRON): _, allur, annar, annarr, annars, annarstaðar, annaðhvor, annaðhvort, annur, arkimagus, austfjörður, aðrur, báðir, eg, einar, einn, einnhver, eitthvað, ekkert, enginn, finnbogi, flestallur, grikki, hann, hans, henni, hinn, honum, hva-að, hvat, hvatki, hvað, hvaða, hver, hver-hver, hvergi, hverigu, hvern, hvert, hverur, hveða, hvor, hvorja, hvort, hvorttveggja, hvorugur, hví, hvílíkur, hvívetna, hvörri, hún, leyfi, lítill, maður, mer, mig, minn, minna, mit, miður, mér, món, neinn, nokkur, okkar, okkur, samur, sek, sig, sinn, sjá, sjálfaur, sjálfur, slíkur, sodan, sodda, soddan, soddann, soddur, sumur, svoddan, svoddann, sá, sér, sérhver, söðull, sýn, vera, vettugi, við, viðlíka, viðlíkur, vor, vora, vorra, vorrar, vorrur, vorur, vv, vá, vær, vér, ykkar, ykkra, ykkri, ykkrur, yðar, yðarri, yður, yðvar, yðvarn, álíka, ég, ér, ófeigur, öll, öllir, öðrumegin, ýmis, ýmiss, þ, þ., þann, þar, þat, þau, þaug, það, þeim, þeir, þeirra, þes, þess, þessi, þetta, þig, þinn, því, þvílíka, þvílíkur, þá, þær, þér, þín, þínn, þórólfur, þú</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 34 lemmas tagged as pronouns (PRON): allur, annar, báðir, einhver, einn, enginn, hann, herflotur, hinn, hver, hvor, hvort, hún, minn, neinn, nokkur, sami, samur, sand-, sig, sinn, sjálfur, slíkur, sumur, sá, ég, ýmis, ýmissi, það, þessi, þig, þinn, þá, þú</li>
+      <li>This corpus contains 32 lemmas tagged as pronouns (PRON): allur, annar, báðir, einhver, einn, enginn, hann, hinn, hver, hvor, hvort, hún, minn, neinn, nokkur, sami, samur, sig, sinn, sjálfur, slíkur, sumur, sá, ég, ýmis, ýmissi, það, þessi, þig, þinn, þá, þú</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 83 lemmas tagged as determiners (DET): allur, að, dráp, ei, einar, einir, einn, einn-einn, einnri, eins, eirnri, eitt, eitthvað, en, enginn, enn, enni, fregn, gera, hann, helgur, hin, hini, hinn, hitt, hlutur, hvað, hvaða, hver, hveregur, hvergi, hverigra, hverigur, hverjur, hvernig, hverskonar, hversu, hvert, hvevetna, hvor, hví, hvílíkur, hvörja, hér, hún, ina, inn, inni, ins, inur, inventarium, margur, nokkur, ráðlegur, sa, samlíkur, sanna, sjá, skilmáli, stríður, sá, tal, um, óhræddur, þann, þar, þau, það, þegar, þeir, þenna, þennur, þerflegur, þess, þessa, þessháttar, þessi, þessi-þessi, þetta, því, þvílíkur, þá, þær</li>
+      <li>This corpus contains 245 lemmas tagged as determiners (DET): afarmikill, all, allfár, allir, alllítill, allmargur, allmikill, allnokkur, allralítill, allskonar, allskyns, allur, allur-allur, annarhvor, annaðhvor, annaðhvort, að, báðir, báðumegin, bæði, dráp, dálitill, dálítill, dálítið, ei, einar, einhver, einhverja, einhvernveginn, einhverskonar, einhversstaðar, einhvor, einhvörn, einhvörstaðar, einn, einn-einn, einnhver, einnhvern, einnri, eins, eirnri, eitt, eitthvað, eitthver, eitthverur, ekkert, ekki, en, engi, enginn, engur, enn, enni, fjölmargur, fleir, flestallur, flestir, flestur, fregn, fáeinir, fáeinn, fáir, fár, gera, gervallur, geysimikill, gjörvallur, hann, heldri, helgur, hin, hini, hinn, hinumeginn, hitt, hlutur, hotvetna, hvar, hvað, hvaða, hvaðvetna, hver, hveregur, hvergi, hverigra, hverigur, hverjur, hvernig, hverski, hverskonar, hverskyns, hversvetna, hvert, hveruga, hverur, hvetvetna, hvevetna, hvor, hvorgi, hvorigur, hvorki, hvorn, hvorngi, hvort, hvortki, hvorttveggi, hvorugur, hvorumeginn, hvurja, hvurur, hvílíkur, hvívetna, hvörja, hálf, hálfur, hár, hún, illur, ina, inn, inni, ins, inur, inventarium, jafnlítill, jafnmargur, jafnmikill, jafnmikið, jafnmikla, kvöld, langur, litlur, lítill, lítill-lítill, lítið, lítt, m, manngi, mannmarur, mara, marga, margt, margur, megn, meira, meiri, mestallur, mestur, mestöllur, meur, mikill, mikill-mikill, mikillur, mikinn, mikið, mikla, miklu, miklur, minna, minni, minnsti, mörgur, neinn, nekkver, nokkrur, nokkur, nokkura, nokkurntíma, nokkursstaðar, nokkurur, nokkuð, nátt, né, oflítill, ofmargur, ofmikill, ofurlitla, ofurlítill, sa, samlíkur, sanna, sinn, sitthver, sjá, skilmáli, slitinn, smár, snjámikill, stórmikill, suman, sumar, sumlegur, sumpart, sumur, svolítill, svolítið, sá, sér, sérhvað, sérhver, sérhvort, síst, síðri, síður, tal, um, varla, velflestur, velmargur, vettergi, vettugi, ást, ófár, ógnarmargur, óspart, ótalmargur, öllir, öllumegin, öngur, öngva, önnur, örfár, örlítill, örlítið, ýmis, ýmislegur, ýmiss, ýmsra, þann, þau, það, þeir, þenna, þennur, þerflegur, þess, þessa, þessháttar, þessi, þessi-þessi, þetta, því, þvílíkur, þá, þær</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -143,7 +143,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>Out of the above, 31 lemmas occurred sometimes as PRON and sometimes as DET: allur, einar, einn, eitthvað, enginn, hann, hinn, hvað, hvaða, hver, hvergi, hvert, hvor, hví, hvílíkur, hún, nokkur, sjá, sá, þann, þar, þau, það, þeir, þess, þessi, þetta, því, þvílíkur, þá, þær</li>
+      <li>Out of the above, 50 lemmas occurred sometimes as PRON and sometimes as DET: allur, annaðhvor, annaðhvort, báðir, einar, einn, einnhver, eitthvað, ekkert, enginn, flestallur, hann, hinn, hvað, hvaða, hver, hvergi, hvert, hverur, hvor, hvort, hvorugur, hvílíkur, hvívetna, hún, lítill, minna, neinn, nokkur, sinn, sjá, sumur, sá, sér, sérhver, vettugi, öllir, ýmis, ýmiss, þann, þau, það, þeir, þess, þessi, þetta, því, þvílíkur, þá, þær</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -155,24 +155,24 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 41 lemmas tagged as auxiliaries (AUX): blífa, en, fylgja, fyrirhafa, fá, geta, gáta, hafa, hafða, hata, hefa, hefna, kenna, koma, kunna, kynni, mega, megu, mun, muna, munu, munur, máttur, mæta, mæða, s, sjá, skalja, skilja, skula, skulu, skylda, skylu, uppvera, vera, vila, vilda, vildim, vilja, vilji, vita</li>
+      <li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): blífa, fá, geta, hafa, kunna, mega, munu, skulu, vera, verða, vilja</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): eiga, geta, hafa, mega, munu, skulu, vera, verða</li>
+      <li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): geta, hafa, mega, munu, skulu, vera, verða</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>Out of the above, 25 lemmas occurred sometimes as AUX and sometimes as VERB: blífa, fylgja, fá, geta, gáta, hafa, hata, hefna, kenna, koma, kunna, mega, muna, munu, mæta, mæða, s, sjá, skilja, skulu, skylda, vera, vilda, vilja, vita</li>
+      <li>Out of the above, 11 lemmas occurred sometimes as AUX and sometimes as VERB: blífa, fá, geta, hafa, kunna, mega, munu, skulu, vera, verða, vilja</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: eiga, geta, hafa, mega, vera, verða</li>
+      <li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: geta, hafa, vera, verða</li>
       </ul>
     </td>
   </tr>
@@ -193,21 +193,21 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>ADJ: engi, verður, var, sannast, fær, nær, ríkir, nokkuru, sanna, átti</li>
-          <li>ADP: á, fyr, nær, eptir, Meður, er, gegni, gegnt, gegnum, næst</li>
-          <li>ADV: eigi, nær, heldur, snart, helst, fyr, næst, braut, aldri, hvörsu</li>
-          <li>AUX: var, er, hafði, voru, væri, eru, mun, hefir, hefði, hefur</li>
-          <li>CCONJ: eður, hverki, Hvörki, efn</li>
-          <li>DET: sá, sjá, eð, Hinum, Sé, enu, hvörri, inna</li>
-          <li>INTJ: Vei, Ó, Hei, Hó, duddu, Áví, Óhó</li>
-          <li>NOUN: vilja, greinir, synda, sakar, syndir, engi, hóf, leið, mun, hjálpar</li>
-          <li>PART: einast</li>
-          <li>PRON: voru, sér, vorum, eg, vorar, yðrum, yðrar, yðrir, sinna, yðra</li>
-          <li>PROPN: sankti, Majst, Valdi, guði, Pálus, hertug, Ótta, Belíus, Brúni, Fiður</li>
+          <li>ADJ: verður, var, fær, nær, ríkir, sannast, átti, sanna, syndgir, varir</li>
+          <li>ADP: á, fyr, nær, eptir, Meður, gegni, héreftir, næst, so, sér</li>
+          <li>ADV: eigi, nær, heldur, snart, helst, fór, kann, aldri, braut, fyr</li>
+          <li>AUX: var, er, hafði, voru, væri, eru, mun, hefði, sé, hefir</li>
+          <li>CCONJ: eður, hverki, Hvörki, Né, efn, heldur</li>
+          <li>DET: sá, engi, sjá, öngum, fá, eð, Nokkuru, inna, minna, Meir</li>
+          <li>INTJ: Hei, Vei, duddu, Áví, Ó, Óhó</li>
+          <li>NOUN: vilja, greinir, sakar, synda, syndir, engi, leið, hóf, mun, klæði</li>
+          <li>NUM: Xii, fjörutigi, iiii, iiijr, vii</li>
+          <li>PRON: voru, sér, vorum, eg, yðrum, vorar, yðrar, yðrir, órar, hvör</li>
+          <li>PROPN: Vali, sankti, Valdi, Georgíus, Maii, Majst, guði, Beljus, Belíus, Brúni</li>
           <li>PUNCT: "</li>
-          <li>SCONJ: er, eð, Hver, at, eru, hvört</li>
-          <li>VERB: sagði, segir, kom, mælti, varð, fór, tók, gekk, lét, hét</li>
-          <li>X: Majst, sankti, sicut, Creidii, datum, nostri, nostrum, patri</li>
+          <li>SCONJ: er, eð, at, eru, hvörri, hvört</li>
+          <li>VERB: sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</li>
+          <li>X: Majst, Edimus, Item, Sicut, beati, nostra, nostri, omnium, patri, sankti</li>
         </ul>
         </li>
       </ul>
@@ -232,18 +232,17 @@ udver: '2'
       <ul>
         <li>Inf
         <ul>
-          <li>ADJ: engi, minna, helga, sanna, fá, minsta, bera, fegra, fljóta, fullkomna</li>
-          <li>ADP: fyr, nema, fá, umkring, uni</li>
-          <li>ADV: skjótast, gjör, glöggvast, ske, Geyst, Lengra, eigi, enda, framast, fyr</li>
-          <li>AUX: vera, hafa, vilja, geta, mega, mundu, fá, má, hefi, hafast</li>
-          <li>DET: sjá, þenna, sá, inna, eð, hvörja, ina</li>
-          <li>NOUN: votta, synda, vilja, ráða, elska, skaða, anda, búa, galdra, vera</li>
-          <li>PART: einast</li>
-          <li>PRON: yðra, sinna, minna, hvörja, hvörri, sjér, óra, þeira</li>
-          <li>PROPN: Ótta, Antiokkia, Beljus, Belíus, Hjaranda, Kristus, Loka, Media, Túta, draga</li>
-          <li>SCONJ: hvört</li>
-          <li>VERB: fara, sjá, segja, verða, taka, koma, láta, gera, ganga, halda</li>
-          <li>X: Ná, Sankti, Tírus, hyggja, nostra, sigla, tertia</li>
+          <li>ADJ: sanna, breiða, helga, fegra, fullkomna, margfalda, yðra, Verra, auðga, bera</li>
+          <li>ADP: fyr, nema</li>
+          <li>ADV: ske, framast, einast, fara, fá, skjótast, æfinlega, aldri, alloftast, fyrirkoma</li>
+          <li>AUX: vera, hafa, verða, vilja, geta, mega, mundu, fá, hafast, hefi</li>
+          <li>DET: sjá, engi, minna, sá, fá, meir, þenna, Margs, eð, ina</li>
+          <li>NOUN: votta, synda, vilja, elska, ráða, búa, galdra, skaða, anda, herða</li>
+          <li>PRON: yðra, sinna, Hina, hvörja, minna, óra, þeira</li>
+          <li>PROPN: anda, Ótta, Antiokkia, Ermanus, Flegða, Loka, Mella, Pjatta, Syrpa, draga</li>
+          <li>SCONJ: er</li>
+          <li>VERB: fara, sjá, segja, taka, koma, láta, gera, ganga, halda, vita</li>
+          <li>X: Ná, hyggja, libra, nostra, sigla, tertia</li>
         </ul>
         </li>
       </ul>
@@ -265,18 +264,19 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>ADJ: minnst, vænst, engi, leitt, kunnigt, auðsýnt, skyldir, sýnt, auglýstur, beint</li>
+          <li>ADJ: vænst, leitt, kunnigt, auðsýnt, skyldir, sýnt, auglýstur, beint, dælt, fallin</li>
           <li>ADP: útgefið</li>
-          <li>ADV: einnin, hverninn, Dæmalaust, Eigi, Einatt, Snöggt, aptur, beint, ei, festar</li>
-          <li>AUX: haft, hafður, hafðir, höfð, verið, hafandi, getið, hafið, mundu, skylduð</li>
-          <li>DET: hitt, sjá, Eirn, talið</li>
-          <li>NOUN: búandi, gerð, liðið, orðið, sótt, fagnað, sæmd, talið, byggð, byggðir</li>
-          <li>NUM: sex</li>
-          <li>PRON: hvörn, hvört, okkart, sjálfir, vor, yðart</li>
-          <li>PROPN: Ríkilað, Herjuð, Mundt, Refur, Sjóður, Trekt, Tyrkjar, Tögld</li>
-          <li>SCONJ: Hvört</li>
+          <li>ADV: háttað, minnst, predikað, einnin, gjör, hverninn, komnir, Einatt, beint, breitt</li>
+          <li>AUX: haft, hafðir, hafður, verið, hafandi, höfð, skylduð, hafið, getið, hafðar</li>
+          <li>CCONJ: annaðhvert, bæði, hvörki</li>
+          <li>DET: minnst, engi, sjá, Ekkert, hitt, inir, nakkvað, nokkora, nökkvað</li>
+          <li>NOUN: búandi, náð, orðið, gerð, liðið, talið, ráðið, sæmd, byggðir, fagnað</li>
+          <li>NUM: sjö</li>
+          <li>PRON: yðvart, eg, okkart, sér, vor, vorra</li>
+          <li>PROPN: Refur, Fiður, Herjuð, Mundt, Móður</li>
+          <li>SCONJ: hvört</li>
           <li>VERB: kominn, sagt, komið, orðinn, komnir, komin, kallaður, getið, gert, farið</li>
-          <li>X: regerandi, Majst, regent</li>
+          <li>X: Majst, regent, regerandi</li>
         </ul>
         </li>
       </ul>
@@ -298,17 +298,17 @@ udver: '2'
       <ul>
         <li>Sup
         <ul>
-          <li>ADJ: minnst, Alt, Mart, Nakið, bráðnað, engi, fjölmennt, greint, hlýðið, hrært</li>
+          <li>ADJ: áminnst, greint, hlýðið, hrært, kunnigt, kært, lagt, leitt, ljósan, mein</li>
           <li>ADP: fyr, þótt</li>
-          <li>ADV: eigi, gjör, gerst, hægt, ríkt, snarast, aldri, brutt, greitt, hellt</li>
-          <li>AUX: verið, haft, getað, viljað, mátt, munt, munuð, fengið, getið, haf</li>
-          <li>DET: gerst, hitt</li>
-          <li>NOUN: náð, sótt, búið, talið, brest, ráðið, engi, mein, varnað, féið</li>
-          <li>PRON: annaðhvört, hitt, hverru</li>
-          <li>PROPN: Ríkilað, Hó, Leonið, Petrus, jesú</li>
-          <li>SCONJ: hvörri</li>
-          <li>VERB: komið, séð, fengið, sagt, gert, tekið, farið, orðið, gjört, gefið</li>
-          <li>X: Sicut</li>
+          <li>ADV: fengið, gerst, gjör, snarast, aldri, alltið, brutt, dárað, einnin, gengið</li>
+          <li>AUX: verið, haft, getað, viljað, mátt, getið, munt, fengið, hafið, munuð</li>
+          <li>DET: Sjá, hitt, engi, gerst, hvört, minnst, nakkvað, nökkut, slitið</li>
+          <li>INTJ: Vei</li>
+          <li>NOUN: náð, sótt, búið, brest, ráðið, talið, féið, varnað, klæði, mein</li>
+          <li>PRON: hitt, hvör, yðart</li>
+          <li>PROPN: Ríkilað, Majst</li>
+          <li>PUNCT: "</li>
+          <li>VERB: komið, séð, fengið, gert, sagt, farið, tekið, orðið, gjört, gefið</li>
         </ul>
         </li>
       </ul>
@@ -349,28 +349,29 @@ udver: '2'
       <ul>
         <li>Fem
           <ul>
-            <li>ADJ: allar, alla, mikil, mikla, allri, öllum, margar, mikilli, meiri, öll</li>
-            <li>ADJ-Part: alklædd, brenndar, bölvuð, eygð, fallin, fegin, ferðbúnar, grafnar, haldin, hraktar</li>
-            <li>ADP: millum, sakir, eptir, fyr, handa, und, ór, Uppá, ein, fraraan</li>
-            <li>ADV: þá, einnin, braut, hvörsu, fyrri, hvörnin, þannin, Sannlega, ákafliga, hvernin</li>
-            <li>ADV-Part: einnin, festar, ofraðar</li>
-            <li>AUX: skyldu, vera, vóru, höfð, megu, vilda, skylda, hafðar, mundu, væra</li>
-            <li>AUX-Part: höfð, hafðar, meguð, mundu</li>
-            <li>CCONJ: eður, bæði, annaðhvurt, aða, oc</li>
-            <li>DET: sú, þessa, þessi, þeirri, þá, eina, ein, þær, þessari, hin</li>
-            <li>INTJ: bittinú, hana, Eia, Ja-á, du, o-jæja, Óhó, ææææææ, óóóóó</li>
+            <li>ADJ: sömu, fyrstu, góða, góð, hægri, góðar, vinstri, eigin, heilagri, heilagrar</li>
+            <li>ADJ-Part: alklædd, brenndar, bölvuð, erfið, eygð, fallin, fegin, ferðbúnar, grafnar, haldin</li>
+            <li>ADP: millum, sakir, eptir, fyr, handa, und, Kringum, ein, fraraan, héreftir</li>
+            <li>ADV: þá, einnin, braut, hvörsu, einasta, mikla, fyrri, ein, þannin, Sannlega</li>
+            <li>ADV-Part: einnin, festar, ofraðar, skorin, tíðkaðar</li>
+            <li>AUX: skyldu, vera, vóru, megu, vilda, höfð, skylda, hefir, hafðar, skyldum</li>
+            <li>AUX-Part: höfð, hafðar, meguð, hafða, máttuð</li>
+            <li>CCONJ: eður, bæði, annaðhvurt, aða</li>
+            <li>DET: sú, þessa, þessi, allar, þeirri, þá, alla, eina, þær, þessari</li>
+            <li>INTJ: hana, bittinú, du, ææææææ</li>
             <li>NOUN: leið, hendur, dóttur, hendi, nótt, stund, von, höndum, kona, konu</li>
-            <li>NOUN-Part: gerð, byggð, sæmd, alin, festar, gjörð, sótt, tryggð, Dirfð, Dýrð</li>
-            <li>NUM: tvær, þrjár, hvorirtveggju, tveim, fimm, sex, tólf, fjórar, tíu, sjö</li>
-            <li>PART: einasta, ein, eina, einni, einar, einka, einu, einustu</li>
-            <li>PRON: hún, henni, hennar, hana, sér, sína, sinni, þær, mín, þeim</li>
-            <li>PROPN: Maríu, Gróa, Sigríður, María, Jerúsalem, Órækja, Gróu, Ragnhildur, bylgja, Sigríði</li>
-            <li>PROPN-Part: Herjuð, Tyrkjar</li>
+            <li>NOUN-Part: gerð, byggð, sæmd, festar, framkvæmdar, þegnar, Dagar, Dirfð, boðin, dáð</li>
+            <li>NUM: tvær, þrjár, hvorirtveggju, sex, fimm, tveim, tólf, fjórar, sjö, tveggja</li>
+            <li>PART: ein, eina</li>
+            <li>PRON: hún, henni, hennar, hana, sér, sína, sinni, þær, mín, þeirra</li>
+            <li>PRON-Part: vorra</li>
+            <li>PROPN: Maríu, Gróa, Sigríður, María, Órækja, Jerúsalem, Gróu, Ragnhildur, bylgja, Sigríði</li>
+            <li>PROPN-Part: Herjuð</li>
             <li>PUNCT: "</li>
-            <li>SCONJ: hverja, hverjar, hvorrar, Hvorn, eð, hvaða, hver, hvor, hvör</li>
-            <li>VERB: komin, búin, orðin, leið, kölluð, sett, haldin, sagða, hætta, lifandi</li>
-            <li>VERB-Part: komin, orðin, kölluð, sett, haldin, tekin, farin, gefin, borin, nefnd</li>
-            <li>X: trinitatis, sanktus, Item, Jerúsalem, Líbía, Martilla, domini, gradum, libra, peccatum</li>
+            <li>SCONJ: hverja, hverjar, hver, hvorrar, hvaða, hvor, hvörju, hvörjum, hvörn</li>
+            <li>VERB: komin, búin, orðin, leið, sett, kölluð, haldin, sagða, hætta, tekin</li>
+            <li>VERB-Part: komin, orðin, kölluð, sett, haldin, tekin, farin, nefnd, gefin, komnar</li>
+            <li>X: trinitatis, sankti, Exordium, Item, Jerúsalem, Martilla, Miraculum, Sicut, brevíaríum, sacramentum</li>
           </ul>
         </li>
       </ul>
@@ -398,30 +399,31 @@ udver: '2'
       <ul>
         <li>Masc
           <ul>
-            <li>ADJ: allir, öllum, alla, enginn, mikill, margir, allan, hver, allra, sumir</li>
-            <li>ADJ-Part: skyldir, auglýstur, geystir, mægður, ofsóttur, ráðinn, vanræktur, verðir, Fegnir, aldraður</li>
-            <li>ADP: fyr, millum, viður, eptir, ór, þá, Kringum, Meður, Milli, eftur</li>
-            <li>ADV: þá, aldri, hverninn, fyrri, hvörninn, aptur, þanninn, aldregi, svona, blíðliga</li>
-            <li>ADV-Part: hverninn, aptur, gerr</li>
-            <li>AUX: mun, vilja, skyli, hafður, var, hafðir, muni, vóru, mundi, mætti</li>
-            <li>AUX-Part: hafður, hafðir, mundu, hafinn, vildu</li>
-            <li>CCONJ: eður, bæði, hverki, hvörki, hvortki, Hvatki, báðir, hvegi</li>
-            <li>DET: sá, einn, þann, þeim, hinn, þessum, þessi, þeir, einum, þá</li>
-            <li>DET-Part: Eirn</li>
-            <li>INTJ: damm, fokk, Hei, Heill, Jú-ú, fjandi, maður, Óvei</li>
+            <li>ADJ: góður, sama, gamall, sæla, dauður, góðan, sami, góðum, góðir, góða</li>
+            <li>ADJ-Part: skyldir, auglýstur, genginn, mægður, ofsóttur, ráðinn, Lofaður, artaðir, auðmýktur, beinir</li>
+            <li>ADP: fyr, millum, viður, eptir, ór, Milli, eftur, fyrirr, fyrur, fá</li>
+            <li>ADV: þá, aldri, einn, hverninn, fyrri, allir, mikill, aptur, hvörninn, aldregi</li>
+            <li>ADV-Part: gjör, hverninn, komnir, fyr, gerr, kominn, liðinn</li>
+            <li>AUX: mun, vilja, var, skyli, muni, hafðir, hafður, mundi, vóru, munir</li>
+            <li>AUX-Part: hafðir, hafður, mundu, hafinn, munduð, værir</li>
+            <li>CCONJ: Eður, bæði, hvörki, hverki, Hvatki, báðir, hvegi, hvortki, nema</li>
+            <li>CCONJ-Part: bæði</li>
+            <li>DET: sá, einn, þann, allir, þeim, hinn, öllum, alla, þessum, þessi</li>
+            <li>DET-Part: inir</li>
+            <li>INTJ: damm, Heill, fjandi, maður, Óvei, óóóóó</li>
             <li>NOUN: menn, maður, konungur, manna, biskup, mönnum, dag, tíma, mann, stað</li>
-            <li>NOUN-Part: byggðir, sóttir, gjörðir, valinn, heimtur, safnaður, brunnar, bústaðir, dauða, felldir</li>
+            <li>NOUN-Part: byggðir, sóttir, gjörðir, heimtur, valinn, Kotungur, brunnar, felldir, fundinn, hlutir</li>
             <li>NUM: tveir, tvo, þrír, tólf, þrjá, fimm, sex, fjórir, sjö, tíu</li>
-            <li>NUM-Part: sex</li>
-            <li>PART: einn, einum, einasta, einir, eini, eina, einasti, einan, einsamall, Einninn</li>
+            <li>NUM-Part: sjö</li>
+            <li>PART: Einninn, einasta, einir</li>
             <li>PRON: hann, þeir, honum, hans, sér, þeim, þeirra, sig, sínum, sinn</li>
-            <li>PRON-Part: hvörn, sjálfir</li>
-            <li>PROPN: guð, guðs, jesús, herra, guði, drottinn, jesú, Illugi, Jón, Sturla</li>
-            <li>PROPN-Part: Refur, Sjóður</li>
-            <li>SCONJ: hvor, hver, hverjum, hvern, hverjir, hvorn, er, hvers, hvorum, hvatki</li>
+            <li>PRON-Part: sér</li>
+            <li>PROPN: guð, guðs, jesús, herra, guði, drottinn, jesú, Illugi, Jón, Finnbogi</li>
+            <li>PROPN-Part: Refur, Fiður, Móður</li>
+            <li>SCONJ: hvor, hver, hverjum, hvern, hverjir, hvorn, hvers, hvorum, er, hvatki</li>
             <li>VERB: kominn, orðinn, komnir, búinn, kallaður, segjandi, farinn, borinn, settur, sá</li>
-            <li>VERB-Part: kominn, orðinn, komnir, kallaður, farinn, settur, borinn, tekinn, nefndur, sendur</li>
-            <li>X: Ektor, sankti, sanktus, Trankival, Assyria, Darii, Kapitulum, anno, Alexandri, Alexandrum</li>
+            <li>VERB-Part: kominn, orðinn, komnir, kallaður, farinn, borinn, settur, tekinn, nefndur, sendur</li>
+            <li>X: sankti, Ektor, Trankival, sanktus, Darii, Alexandrum, domini, Assyria, Vidfraktus, Alexandri</li>
           </ul>
         </li>
       </ul>
@@ -451,32 +453,33 @@ udver: '2'
       <ul>
         <li>Neut
           <ul>
-            <li>ADJ: allt, mikið, öllu, ekkert, nokkuð, öll, gott, miklu, sama, eitthvað</li>
-            <li>ADJ-Part: minnst, vænst, leitt, kunnigt, auðsýnt, engi, sýnt, beint, dælt, nakkvað</li>
-            <li>ADP: millum, alls, fyr, ór, því, fyri, gagnvert, gögnum, það, Gagnvart</li>
+            <li>ADJ: gott, sama, satt, betra, illt, góðu, nóg, sönnu, fyrsta, vísu</li>
+            <li>ADJ-Part: vænst, leitt, kunnigt, auðsýnt, sýnt, beint, dælt, nýtt, stillt, Bezt</li>
+            <li>ADP: millum, alls, fyr, fyri, ór, því, gagnvert, gögnum, kringis, það</li>
             <li>ADP-Part: útgefið</li>
-            <li>ADV: hvað, langt, aldregi, því, jafnsnart, hart, best, nokkuð, trautt, rétt</li>
-            <li>ADV-Part: Dæmalaust, Eigi, Einatt, Snöggt, beint, ei, hegat, hætt, jafnsnart, minnst</li>
-            <li>AUX: em, haft, hafið, haf, verið, vilið, getið, myni, höfð, megim</li>
-            <li>AUX-Part: haft, verið, getið, hafið, höfð, skylduð, munduð, haf, Mun, Munuð</li>
-            <li>CCONJ: bæði, hvörki, hverki, ok, annaðhvert, eður, g, hvatki, hvörgi</li>
-            <li>DET: þetta, það, þessu, því, eitt, þau, hið, þessi, einu, þess</li>
-            <li>DET-Part: hitt, sjá, talið</li>
-            <li>INTJ: bússí, fokk, Hana, Hó, Æ</li>
-            <li>NOUN: orð, ráð, hjarta, landi, mál, ríki, skip, líf, nafni, land</li>
-            <li>NOUN-Part: liðið, orðið, fagnað, talið, náð, ráðið, sótt, boðið, gerð, búið</li>
-            <li>NUM: tvö, þrjú, fimm, sex, fjögur, hálft, tólf, sjö, hundrað, tveggja</li>
-            <li>PART: eitt, eina, einasta, einu, ein, einum, atð, eins</li>
-            <li>PRON: það, því, þess, hvað, þau, sitt, annað, þeim, sínu, þeirra</li>
-            <li>PRON-Part: hvört, okkart, vor, yðart</li>
-            <li>PROPN: Íslandi, Íslands, Skálholti, helvíti, alþingi, Barði, Kaupinhafn, helvítis, Ríkilað, Apríval</li>
-            <li>PROPN-Part: Ríkilað, Mundt, Trekt, Tögld</li>
+            <li>ADV: hvað, mikið, langt, aldregi, því, hart, eitt, jafnsnart, allt, eina</li>
+            <li>ADV-Part: háttað, minnst, predikað, Einatt, beint, breitt, flutt, greitt, hegat, hliðhalt</li>
+            <li>AUX: em, haft, hafið, var, vilið, verið, myni, skylduð, vil, haf</li>
+            <li>AUX-Part: haft, verið, skylduð, hafið, getið, höfð, munduð, Meguð, Skuluð, haf</li>
+            <li>CCONJ: bæði, hvörki, hverki, annað, annaðhvert, g, hvatki, hvortki, hvörgi, ok</li>
+            <li>CCONJ-Part: annaðhvert, hvörki</li>
+            <li>DET: þetta, allt, það, þessu, því, öllu, eitt, mikið, ekkert, nokkuð</li>
+            <li>DET-Part: minnst, engi, sjá, Ekkert, hitt, nakkvað, nokkora, nökkvað</li>
+            <li>INTJ: fokk, bússí, Æ, óvei</li>
+            <li>NOUN: orð, ráð, hjarta, landi, mál, ríki, skip, líf, nafni, orðum</li>
+            <li>NOUN-Part: náð, orðið, liðið, talið, ráðið, fagnað, boðið, sótt, féið, gerð</li>
+            <li>NUM: tvö, þrjú, sex, fimm, sjö, tólf, fjögur, hálft, hundrað, tíu</li>
+            <li>PART: einu, eitt</li>
+            <li>PRON: það, því, þess, hvað, þau, sitt, þeim, annað, sínu, þeirra</li>
+            <li>PRON-Part: yðvart, eg, okkart, vor</li>
+            <li>PROPN: Íslandi, Íslands, Skálholti, helvíti, alþingi, Barði, Kaupinhafn, helvítis, Englandi, Pálnatóki</li>
+            <li>PROPN-Part: Mundt</li>
             <li>PUNCT: "</li>
-            <li>SCONJ: það, hvert, hvort, hvört, hver, hverju, em, er, hvors, hvílíkt</li>
-            <li>SCONJ-Part: Hvört</li>
-            <li>VERB: sagt, komið, búið, orðið, farið, getið, gert, mælt, gjört, tekið</li>
-            <li>VERB-Part: sagt, komið, getið, gert, farið, orðið, mælt, tekið, talað, gjört</li>
-            <li>X: Trankival, domini, sankti, Majst, Holofernis, kalendas, nostri, Vernakíus, Item, Novembris</li>
+            <li>SCONJ: það, hvert, hvort, hvört, hver, hverju, hvör, em, er, hvors</li>
+            <li>SCONJ-Part: hvört</li>
+            <li>VERB: sagt, komið, búið, orðið, getið, farið, gert, mælt, gjört, tekið</li>
+            <li>VERB-Part: sagt, komið, getið, gert, farið, mælt, orðið, tekið, talað, gjört</li>
+            <li>X: Trankival, domini, Majst, Vernakíus, kalendas, Holofernis, sanktus, Kapitulum, evangelium, nostri</li>
             <li>X-Part: Majst, regent</li>
           </ul>
         </li>
@@ -529,41 +532,44 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>ADJ: allir, öllum, alla, allra, öll, margir, allar, sumir, báðir, fleiri</li>
-            <li>ADJ-Fin: engi, fá, öngum, göfgum, helga, sanna, syndgum, bera, blessuðu, göfga</li>
-            <li>ADJ-Part: skyldir, geystir, verðir, Fegnir, Trúuð, artaðir, beinir, brenndar, búin, drukknir</li>
-            <li>ADP: við, millum, fyr, sakir, eptir, handa, gögnum, héreftir, þá, Kringum</li>
-            <li>ADP-Fin: gegnt, yðrum, Þótt</li>
-            <li>ADV: þá, eigi, fyrri, einnin, aldregi, ósköp, svona, blíðliga, elligar, eptir</li>
-            <li>ADV-Fin: eigi, Forðum, skjótast, æfinlega, HVERSU, Hverru, Nær, alltið, einnin, enda</li>
-            <li>ADV-Part: Dæmalaust, aptur, festar, ofraðar</li>
-            <li>AUX: voru, eru, höfðu, hafa, munu, skyldu, væru, vildu, skulum, mundu</li>
-            <li>AUX-Fin: voru, eru, höfðu, hafa, munu, skyldu, væru, vildu, skulum, skulu</li>
-            <li>AUX-Part: hafðir, höfð, skylduð, hafðar, munduð, mundu, Munuð, Skuluð, Voruð, höfðuð</li>
-            <li>CCONJ: bæði, eður, hverki, aða, báðir, hvörki</li>
-            <li>DET: þeim, þau, þessi, þessum, þeir, þá, þeirra, þær, þessir, hinir</li>
-            <li>DET-Fin: sjá, Hinum, enu, inna</li>
-            <li>NOUN: menn, manna, mönnum, orð, bræður, orðum, hendur, hluti, höndum, fætur</li>
-            <li>NOUN-Fin: vilja, synda, komu, anda, lyktum, skyldu, búa, liðu, englum, flugu</li>
-            <li>NOUN-Part: byggðir, sóttir, gerð, gjörðir, festar, heimtur, orðin, sæmd, alin, boðin</li>
-            <li>NUM: tveir, tvo, tólf, fimm, tvö, sex, þrír, þrjá, tvær, sjö</li>
-            <li>PART: einir, ein, eina, einast, einasta, einum, einar, einu, einustu</li>
-            <li>PART-Fin: einast</li>
-            <li>PRON: þeir, þeim, vér, þeirra, oss, þau, yður, þér, við, sínum</li>
-            <li>PRON-Fin: voru, vorum, yðrum, sinna, yðra, hvörju, hvörjum, eg, hvörra, minna</li>
-            <li>PRON-Part: sjálfir, vor</li>
+            <li>ADJ: góðum, góðir, góðar, góð, sömu, bestu, stór, góðra, heilagra, fyrstu</li>
+            <li>ADJ-Fin: helga, syndgum, bera, blessuðu, göfgum, mæta, réttu, sanna, útvöldu, Nakið</li>
+            <li>ADJ-Part: skyldir, artaðir, beinir, bilaðir, borin, brenndar, búin, drukknir, fallin, ferðbúnar</li>
+            <li>ADP: við, millum, eptir, fyr, sakir, handa, gögnum, Kringum, eftir, héreftir</li>
+            <li>ADP-Fin: yðrum</li>
+            <li>ADV: þá, eigi, allir, fyrri, einnin, marga, margar, aldregi, fleiri, einir</li>
+            <li>ADV-Fin: eigi, forðum, koma, fóru, hvörsu, skjótast, Hverru, berjast, enda, fengust</li>
+            <li>ADV-Part: komnir, festar, flutt, fyr, ofraðar, tíðkaðar, þykkt</li>
+            <li>AUX: voru, eru, hafa, höfðu, munu, skyldu, væru, vildu, skulum, mundu</li>
+            <li>AUX-Fin: voru, eru, hafa, höfðu, munu, skyldu, væru, vildu, skulum, mundu</li>
+            <li>AUX-Part: hafðir, skylduð, hafðar, höfð, munduð, mundu, Meguð, Skuluð, höfðuð, munuð</li>
+            <li>CCONJ: bæði, hvörki, hverki, aða, báðir, hvörgi</li>
+            <li>CCONJ-Fin: hverki</li>
+            <li>CCONJ-Part: bæði</li>
+            <li>DET: allir, öllum, þeim, alla, allra, öll, þau, margir, allar, þessi</li>
+            <li>DET-Fin: engi, öngum, fá, inna, minna, sjá, Nokkuru, báðu, hvörjum, þenna</li>
+            <li>DET-Part: inir, nokkora</li>
+            <li>INTJ: du, Æ</li>
+            <li>NOUN: menn, manna, mönnum, orð, bræður, orðum, hendur, hluti, höndum, daga</li>
+            <li>NOUN-Fin: vilja, synda, komu, anda, klæðum, liðu, skyldu, sóttum, borðum, búa</li>
+            <li>NOUN-Part: byggðir, sóttir, festar, framkvæmdar, gerð, gjörðir, rifin, sæmd, þegnar, Dagar</li>
+            <li>NUM: tveir, tvo, tólf, fimm, sex, tvö, þrír, þrjá, sjö, tvær</li>
+            <li>NUM-Fin: Xii, fjörutigi, iiii, vii</li>
+            <li>PART: einir</li>
+            <li>PRON: þeir, þeim, þeirra, vér, oss, þau, yður, þér, við, sínum</li>
+            <li>PRON-Fin: voru, vorum, yðrum, eg, sinna, yðra, hvörjum, hvörra, hvorju, hvörja</li>
+            <li>PRON-Part: sér, vor</li>
             <li>PROPN: gyðinga, gyðingar, Hólum, gyðingum, Hellismenn, grikkir, Georgíum, júðar, himnum, Bessastöðum</li>
-            <li>PROPN-Fin: Ótta, Hafið, Majst, Senda, Syrpu, anda</li>
-            <li>PROPN-Part: Tyrkjar</li>
+            <li>PROPN-Fin: Guddu, Gálu, Senda, Snarinefja, Vamba, drottna</li>
             <li>PUNCT: "</li>
             <li>PUNCT-Fin: "</li>
-            <li>SCONJ: hverjar, hverjir, hver, eru, hvaða, hverja</li>
+            <li>SCONJ: hverjar, hverjir, hver, er, eru, hvaða, hverja, hvör, hvörjum</li>
             <li>SCONJ-Fin: eru</li>
-            <li>VERB: komu, fóru, gengu, urðu, sögðu, tóku, koma, verða, komnir, sáu</li>
-            <li>VERB-Fin: komu, fóru, gengu, urðu, sögðu, tóku, koma, verða, sáu, riðu</li>
-            <li>VERB-Part: komnir, kallaðir, komin, settir, orðnir, teknir, nefndir, sendir, farnir, sett</li>
-            <li>X: sankti, Georgíum, Kapitulum, Miraculum, Exordium, delictum, domini, Alexandrum, Taraskonum, privilegium</li>
-            <li>X-Fin: Majst, datum, nostrum</li>
+            <li>VERB: komu, fóru, gengu, sögðu, tóku, urðu, koma, höfðu, komnir, sáu</li>
+            <li>VERB-Fin: komu, fóru, gengu, sögðu, tóku, urðu, koma, höfðu, sáu, riðu</li>
+            <li>VERB-Part: komnir, komin, kallaðir, settir, sendir, teknir, orðnir, farnir, sett, nefndir</li>
+            <li>X: sankti, Georgíum, Kapitulum, Alexandrum, Miraculum, delictum, privilegium, sanctorum, Exordium, Taraskonum</li>
+            <li>X-Fin: Item, nostra, omnium, statuta</li>
           </ul>
         </li>
       </ul>
@@ -597,46 +603,48 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: allt, mikið, öllu, ekkert, sama, enginn, mikill, nokkuð, hver, miklu</li>
-            <li>ADJ-Fin: engi, verður, var, sannast, fær, nær, ríkir, átti, nokkuru, syndgir</li>
-            <li>ADJ-Part: minnst, vænst, leitt, kunnigt, auðsýnt, engi, sýnt, auglýstur, beint, dælt</li>
-            <li>ADP: á, fyr, alls, viður, nær, eptir, ór, því, fyri, Meður</li>
-            <li>ADP-Fin: á, fyr, nær, eptir, Meður, er, gegni, gegnum, næst, sér</li>
+            <li>ADJ: sama, gott, satt, góða, góður, fyrsta, þriðja, heilaga, sæla, gamall</li>
+            <li>ADJ-Fin: verður, var, fær, nær, ríkir, sannast, átti, syndgir, varir, fegri</li>
+            <li>ADJ-Part: vænst, leitt, kunnigt, auðsýnt, sýnt, auglýstur, beint, dælt, genginn, mægður</li>
+            <li>ADP: á, fyr, alls, viður, eptir, nær, ór, fyri, því, Meður</li>
+            <li>ADP-Fin: á, fyr, nær, eptir, Meður, gegni, héreftir, næst, so, sér</li>
             <li>ADP-Part: útgefið</li>
-            <li>ADV: eigi, hvað, aldri, þá, nær, einnin, heldur, fyrri, hverninn, langt</li>
-            <li>ADV-Fin: eigi, nær, heldur, snart, helst, fyr, næst, braut, aldri, hvörsu</li>
-            <li>ADV-Part: einnin, hverninn, Eigi, Einatt, Snöggt, beint, ei, gerr, hegat, hætt</li>
-            <li>AUX: var, er, hafði, væri, mun, hefir, hefði, hefur, sé, skal</li>
-            <li>AUX-Fin: var, er, hafði, væri, mun, hefir, hefði, hefur, sé, skal</li>
-            <li>AUX-Part: haft, hafður, verið, getið, hafið, höfð, meguð, haf, Mun, hafinn</li>
-            <li>CCONJ: eður, hvörki, bæði, hverki, hvatki, hvortki, ok, annaðhvert, annaðhvurt, efn</li>
-            <li>CCONJ-Fin: eður, hverki, Hvörki, efn</li>
-            <li>DET: þetta, sá, einn, það, þann, þessu, hinn, þessi, þessa, því</li>
-            <li>DET-Fin: sá, sjá, eð, Sé, hvörri</li>
-            <li>DET-Part: hitt, sjá, Eirn, talið</li>
-            <li>INTJ: fokk, bússí, hana, Hei, Hó, Vei, bittinú, damm, Ó, Óhó</li>
-            <li>INTJ-Fin: Vei, Ó, Hei, Hó, duddu, Áví, Óhó</li>
+            <li>ADV: eigi, hvað, aldri, þá, nær, einn, einnin, heldur, hverninn, einasta</li>
+            <li>ADV-Fin: eigi, nær, heldur, snart, helst, fór, kann, aldri, braut, fyr</li>
+            <li>ADV-Part: háttað, minnst, predikað, einnin, gjör, hverninn, Einatt, beint, breitt, gerr</li>
+            <li>AUX: var, er, hafði, væri, mun, hefði, sé, hefir, hefur, skal</li>
+            <li>AUX-Fin: var, er, hafði, væri, mun, hefði, sé, hefir, hefur, skal</li>
+            <li>AUX-Part: haft, hafður, verið, höfð, hafið, getið, meguð, haf, hafinn, hafð</li>
+            <li>CCONJ: eður, hvörki, hverki, bæði, annað, hvatki, hvortki, Né, annaðhvert, annaðhvurt</li>
+            <li>CCONJ-Fin: eður, hverki, Hvörki, Né, efn, heldur</li>
+            <li>CCONJ-Part: annaðhvert, hvörki</li>
+            <li>DET: þetta, sá, allt, einn, það, þann, þessu, hinn, þessi, þessa</li>
+            <li>DET-Fin: sá, engi, sjá, eð, Meir, Nokkuru, Sé, einkis, einnrar, engvan</li>
+            <li>DET-Part: minnst, engi, sjá, Ekkert, hitt, nakkvað, nökkvað</li>
+            <li>INTJ: bússí, fokk, hana, Hei, bittinú, damm, Óhó, óvei, Heill, Vei</li>
+            <li>INTJ-Fin: Hei, Vei, duddu, Áví, Ó, Óhó</li>
             <li>NOUN: maður, konungur, biskup, dag, mann, stað, kóngur, tíma, herra, föður</li>
-            <li>NOUN-Fin: greinir, sakar, syndir, hóf, leið, mun, engi, hjálpar, mætti, getur</li>
-            <li>NOUN-Part: liðið, orðið, sótt, fagnað, gerð, talið, byggð, náð, ráðið, boðið</li>
-            <li>NUM: hálft, hvorirtveggju, hvorttveggja, hálfan, hálfu, hundrað, hálfa, hvorutveggja, hálfs, hálfum</li>
-            <li>NUM-Part: sex</li>
-            <li>PART: einasta, einn, eina, eitt, einum, einu, ein, eini, einasti, einni</li>
+            <li>NOUN-Fin: greinir, sakar, syndir, leið, engi, hóf, mun, mætti, getur, friðar</li>
+            <li>NOUN-Part: náð, orðið, liðið, talið, gerð, ráðið, fagnað, sótt, boðið, byggð</li>
+            <li>NUM: hálft, hvorirtveggju, hvorttveggja, hálfan, hálfu, hundrað, hálfa, hvorutveggja, hálfs, iij</li>
+            <li>NUM-Fin: iiijr</li>
+            <li>NUM-Part: sjö</li>
+            <li>PART: einu, Einninn, ein, eina, einasta, eitt</li>
             <li>PRON: hann, það, því, eg, ég, honum, hans, hún, þú, mér</li>
-            <li>PRON-Fin: sér, eg, vorar, yðrar, yðrir, órar, hver, hvör, hvörja, hvörju</li>
-            <li>PRON-Part: hvörn, hvört, okkart, yðart</li>
-            <li>PROPN: guð, guðs, jesús, herra, guði, drottinn, jesú, Illugi, Jón, Sturla</li>
-            <li>PROPN-Fin: sankti, Valdi, guði, Majst, Pálus, hertug, Belíus, Brúni, Fiður, Karatti</li>
-            <li>PROPN-Part: Ríkilað, Herjuð, Mundt, Refur, Sjóður, Trekt, Tögld</li>
+            <li>PRON-Fin: sér, eg, vorar, yðrar, yðrir, órar, hvör, hver, hvörja, hvörs</li>
+            <li>PRON-Part: yðvart, eg, okkart, vorra</li>
+            <li>PROPN: guð, guðs, jesús, herra, guði, drottinn, jesú, Illugi, Jón, Finnbogi</li>
+            <li>PROPN-Fin: Vali, sankti, Valdi, Georgíus, Maii, Majst, guði, Beljus, Belíus, Brúni</li>
+            <li>PROPN-Part: Refur, Fiður, Herjuð, Mundt, Móður</li>
             <li>PUNCT: "</li>
-            <li>SCONJ: er, það, hvert, hvor, hvort, hvört, eð, hver, hverja, hverjum</li>
-            <li>SCONJ-Fin: er, eð, Hver, at, hvört</li>
-            <li>SCONJ-Part: Hvört</li>
-            <li>VERB: sagði, segir, kom, mælti, varð, fór, tók, gekk, lét, hét</li>
-            <li>VERB-Fin: sagði, segir, kom, mælti, varð, fór, tók, gekk, lét, hét</li>
-            <li>VERB-Part: kominn, sagt, komið, orðinn, kallaður, komin, getið, gert, farið, orðið</li>
-            <li>X: Trankival, Majst, domini, Ektor, sanktus, Vernakíus, anno, sankti, trinitatis, Darii</li>
-            <li>X-Fin: Majst, sankti, sicut, Creidii, nostri, patri</li>
+            <li>SCONJ: er, það, hvert, hvor, hvört, hvort, hver, eð, hverja, hverjum</li>
+            <li>SCONJ-Fin: er, eð, at, hvörri, hvört</li>
+            <li>SCONJ-Part: hvört</li>
+            <li>VERB: sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</li>
+            <li>VERB-Fin: sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</li>
+            <li>VERB-Part: kominn, sagt, komið, orðinn, kallaður, komin, getið, gert, farið, mælt</li>
+            <li>X: Trankival, domini, Majst, Ektor, sanktus, Vernakíus, sankti, Anno, Darii, trinitatis</li>
+            <li>X-Fin: Majst, Edimus, Sicut, beati, nostri, patri, sankti</li>
             <li>X-Part: Majst, regent</li>
           </ul>
         </li>
@@ -652,8 +660,8 @@ udver: '2'
             <li>ADP: undir, við</li>
             <li>ADP-Fin: undir</li>
             <li>ADV: mun, allt, gríðarlega, meira, vafningalaust, óvenju, því</li>
-            <li>AUX: er, var, hefur, hafði, væri, myndi, sé, gæti, getur, hafi</li>
-            <li>AUX-Fin: er, var, hefur, hafði, væri, myndi, sé, gæti, getur, hafi</li>
+            <li>AUX: er, var, hefur, hafði, væri, myndi, sé, gæti, má, getur</li>
+            <li>AUX-Fin: er, var, hefur, hafði, væri, myndi, sé, gæti, má, getur</li>
             <li>DET: hinn, hins, hið, Hin, hinnar, hinni, hinu, þetta</li>
             <li>NOUN: árið, hluta, október, stað, öld, fólk, fjölda, sinn, sögu, ár</li>
             <li>NOUN-Fin: hafi</li>
@@ -688,27 +696,30 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>ADJ: alla, allt, allan, mikið, allar, mikla, mikinn, ekkert, sama, öll</li>
-            <li>ADJ-Part: engi, innifaldar, leifðan, léttan, nefnda, nefndan, nokkurar, nýtt, samlíkt, visnaða</li>
-            <li>ADP: fyr, sakir, eptir, kringis, umb, ór, þá, fyri, nama, tíl</li>
-            <li>ADV: þá, fyrri, hvað, aldregi, braut, hvörsu, brot, einnin, eins, hart</li>
-            <li>AUX: skyldu, vilja, vera, em, vóru, mun, hafið, vilda, mundu, væra</li>
-            <li>AUX-Part: mundu, vildu</li>
-            <li>CCONJ: bæði, hvörki, eður, hverki, hvortki, oc</li>
-            <li>DET: þetta, þann, það, þá, þessa, einn, eitt, hinn, þennan, þessi</li>
-            <li>INTJ: hana, damm, du, fokk, Æ</li>
-            <li>NOUN: menn, dag, mann, orð, tíma, son, land, hendur, ráð, leið</li>
-            <li>NOUN-Part: alin, brotið, búið, dauða, gerða, ráðið, varnað</li>
-            <li>NUM: tvo, þrjá, tvö, fimm, þrjú, sex, tólf, tvær, fjóra, sjö</li>
-            <li>PART: einasta, eina, eitt, einn, einan, einu, einustu</li>
+            <li>ADJ: sama, góða, gott, góðan, satt, sæla, þriðja, sömu, stóra, heilaga</li>
+            <li>ADJ-Part: borin, bættan, endurleystan, fyrra, innifaldar, leifðan, léttan, nefnda, samlíkt, slétt</li>
+            <li>ADP: fyr, sakir, eptir, ór, fyri, kringis, tíl, und, utanfyrir, þvert</li>
+            <li>ADV: þá, fyrri, mikið, einasta, mikla, aldregi, hvað, mikinn, eina, marga</li>
+            <li>ADV-Part: hverninn, létt</li>
+            <li>AUX: skyldu, em, vilja, vóru, vera, vilda, mun, hafið, væra, hefir</li>
+            <li>AUX-Part: mundu, hafða</li>
+            <li>CCONJ: bæði, hvörki, hverki, annað, eður, hvortki, nema</li>
+            <li>CCONJ-Part: hvörki</li>
+            <li>DET: þetta, þann, alla, það, allt, þá, þessa, einn, eitt, allan</li>
+            <li>DET-Part: engi</li>
+            <li>INTJ: hana, damm, du, fokk, Æ, óvei</li>
+            <li>NOUN: menn, dag, mann, orð, tíma, son, land, ráð, hendur, leið</li>
+            <li>NOUN-Part: alin, fundinn, gerða, ráðið, vegana, vitið</li>
+            <li>NUM: tvo, þrjá, tvö, þrjú, sex, tvær, fimm, tólf, fjóra, sjö</li>
+            <li>PART: einasta, eitt</li>
             <li>PRON: það, hann, mig, sig, sína, sinn, hana, þig, sitt, þá</li>
-            <li>PRON-Part: hvörn</li>
-            <li>PROPN: guð, jesúm, Þorlák, Illuga, Þorstein, drottin, jesú, herra, Jón, Krist</li>
+            <li>PRON-Part: vorra</li>
+            <li>PROPN: guð, jesúm, Þorlák, Illuga, Þorstein, drottin, herra, jesú, Jón, Finnboga</li>
             <li>PUNCT: "</li>
-            <li>SCONJ: það, hverja, hvern, hvert, hvorn, hvört, er, hvaða, hverjar, hvort</li>
-            <li>VERB: búið, orðið, sagða, veginn, gjört, lifandi, ganga, heitið, lifanda, boðið</li>
-            <li>VERB-Part: gert, sagða, birt, gerða, borna, getinn, kallaðan, keypt, kominn, komna</li>
-            <li>X: trinitatis, domini, Jesúm, Kristum, sankti, Jerúsalem, Maximíanus, anno, evangelio, pallacio</li>
+            <li>SCONJ: það, hverja, hvern, hvert, hvorn, em, hvaða, hverjar, hvört</li>
+            <li>VERB: búið, veginn, orðið, sagða, lifandi, gjört, heitið, boðið, lagðan, lifanda</li>
+            <li>VERB-Part: gert, sagða, gerða, birt, talað, getið, keypt, komna, ráðið, sendan</li>
+            <li>X: trinitatis, Jesúm, Kristum, Anno, Bethaniam, Domini, Jerúsalem, sankti, Alexandríam, Apologiam</li>
           </ul>
         </li>
       </ul>
@@ -736,21 +747,20 @@ udver: '2'
       <ul>
         <li>Dat
           <ul>
-            <li>ADJ: öllum, öllu, miklu, mörgum, allri, hverjum, sama, litlu, miklum, góðum</li>
-            <li>ADP: millum, því, fyr, gögnum, und, ór, Kringum, fyri, miðli, sinnum</li>
-            <li>ADV: aldri, því, hvörsu, nógu, sér, aldregi, braut, stórum, svona, firrum</li>
-            <li>AUX: mun, skyldu, vóru, vera, vilja, megu, muni, vorum, mætti, hafi</li>
-            <li>CCONJ: hverki, hvörki, bæði, annaðhvurt, hvatki, hvegi</li>
-            <li>DET: þeim, þessu, því, þessum, þeirri, einu, einum, hinum, þessari, einni</li>
+            <li>ADJ: sama, góðum, góðu, sönnu, fyrstu, löngu, vísu, nýju, sömu, stórum</li>
+            <li>ADP: millum, fyr, því, gögnum, ór, Kringum, eptir, fá, miðli, sinnum</li>
+            <li>ADV: aldri, því, einum, hvörsu, miklu, aldregi, braut, stórum, einu, miklum</li>
+            <li>AUX: mun, skyldu, vilja, vóru, vera, megu, muni, mætti, skyldum, vorum</li>
+            <li>CCONJ: hvörki, hverki, hvatki, hvortki</li>
+            <li>DET: þeim, öllum, þessu, þessum, því, öllu, þeirri, einu, einum, miklu</li>
             <li>NOUN: mönnum, landi, manni, nafni, orðum, hendi, sinni, máli, stað, konungi</li>
-            <li>NUM: tveimur, tveim, fjórum, fimm, þremur, tólf, þrem, sex, hvorirtveggju, hálfum</li>
-            <li>PART: einum, einu, einni, einasta, atð, eina</li>
+            <li>NUM: tveimur, tveim, fjórum, fimm, þremur, tólf, þrem, sex, hvorirtveggju, sjö</li>
+            <li>PART: einu</li>
             <li>PRON: því, honum, mér, sér, þeim, þér, sínum, henni, oss, yður</li>
-            <li>PROPN: guði, Íslandi, Sturlu, Noregi, jesú, kristi, Hólum, Jóni, Skálholti, Illuga</li>
-            <li>PUNCT: "</li>
-            <li>SCONJ: hverjum, hverju, hvorum, er, hvaða, hvörju, hvörjum, hvörri</li>
-            <li>VERB: sér, búnu, leið, liðnum, liðinni, mæltu, lifandi, liðnu, Göngum, eigu</li>
-            <li>X: sankti, domini, Georgíum, Kapitulum, Miraculum, Alexandrum, Exordium, delictum, privilegium, Bethanía</li>
+            <li>PROPN: guði, Íslandi, Noregi, Sturlu, jesú, kristi, Hólum, Jóni, Skálholti, Gissuri</li>
+            <li>SCONJ: hverjum, hverju, hvorum, er, hvaða, hvörju, hvörjum, hvörn, hvörri</li>
+            <li>VERB: sér, búnu, leið, liðnum, liðinni, mæltu, sóma, lifandi, göngum, liðnu</li>
+            <li>X: sankti, domini, Alexandrum, Georgíum, Kapitulum, Anno, Miraculum, delictum, privilegium, sanctorum</li>
           </ul>
         </li>
       </ul>
@@ -779,21 +789,20 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>ADJ: allra, alls, mikils, margra, einskis, nokkurs, heilagra, góðra, lítils, góðs</li>
-            <li>ADP: alls, handa, fyr, fyrirr, jafnfram, meðal, sakir, ór</li>
-            <li>ADV: eins, samaleiðis, forkunnar, þá, alls, forgefins, náliga, næsta, snimma, sæmiliga</li>
-            <li>AUX: vóru, skyldu, vera, megu, vilda, vilja, hafi, mega, mun, muna</li>
+            <li>ADJ: heilagra, góðra, góðs, hægri, heilagrar, heilags, eilífs, ills, sæla, kristinna</li>
+            <li>ADP: alls, fyr, handa, gagnvert, innar, jafnfram, sakir, Þá, ór</li>
+            <li>ADV: eins, alls, forkunnar, samaleiðis, sæmiliga, aldregi, blíðliga, náliga, oftliga, ákafliga</li>
+            <li>AUX: vóru, vera, skyldu, mátta, vilja, Má, hefir, mega, megu, munda</li>
             <li>CCONJ: eður, aða</li>
-            <li>DET: þess, þessa, hins, þeirra, þeirrar, þessarar, hinna, þessara, hinnar, eins</li>
-            <li>NOUN: manna, konungs, biskups, kóngs, manns, staðar, föður, lífs, handa, guðs</li>
-            <li>NUM: tveggja, þriggja, sex, tólf, fimm, níu, tíu, sjö, fimmtán, hundrað</li>
-            <li>PART: eins</li>
+            <li>DET: allra, þess, þessa, hins, þeirra, alls, þeirrar, mikils, þessarar, margra</li>
+            <li>NOUN: manna, konungs, biskups, kóngs, manns, föður, staðar, lífs, handa, guðs</li>
+            <li>NUM: tveggja, þriggja, sex, tólf, fimm, níu, fimmtán, tíu, hundrað, sjö</li>
             <li>PRON: hans, þeirra, þess, hennar, síns, sín, sinna, yðar, mín, annars</li>
             <li>PROPN: guðs, drottins, jesú, Krists, herra, Jóns, Sturlu, Maríu, Þorláks, Íslands</li>
             <li>PUNCT: "</li>
-            <li>SCONJ: hvers, hvorrar, er, hvors, hvör</li>
-            <li>VERB: ráða, launa, ganga, lifanda, gjörða, jarteina, kjósa, koma, lifandi, frétta</li>
-            <li>X: kalendas, Holofernis, Alexandri, Assyria, Darii, rupata, sankte, stadía, Academísins, Annfílas</li>
+            <li>SCONJ: hvers, hvorrar, hvors, hvör</li>
+            <li>VERB: ganga, lifanda, ráða, launa, lifandi, gjörða, gerva, jarteina, leiða, liðna</li>
+            <li>X: Holofernis, kalendas, Darii, Domini, Vernakíus, profundis, rupata, stadía, ANIMAE, Academísins</li>
           </ul>
         </li>
       </ul>
@@ -820,33 +829,34 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>ADJ: allir, allt, enginn, mikill, hver, margir, mikið, nokkuð, öll, ekkert</li>
-            <li>ADJ-Part: minnst, vænst, leitt, kunnigt, auðsýnt, skyldir, sýnt, auglýstur, beint, dælt</li>
-            <li>ADP: við, fyr, viður, eptir, ór, Meður, gagnvert, héreftir, sakir, það</li>
+            <li>ADJ: gott, góður, stór, gamall, góð, dauður, satt, sama, sami, góðir</li>
+            <li>ADJ-Part: vænst, leitt, kunnigt, auðsýnt, skyldir, sýnt, auglýstur, beint, dælt, fallin</li>
+            <li>ADP: við, fyr, viður, eptir, sakir, fyri, gagnvert, ór, það, Gagnvart</li>
             <li>ADP-Part: útgefið</li>
-            <li>ADV: hvað, einnin, hverninn, fyrri, langt, aldregi, rétt, aptur, best, hvörnin</li>
-            <li>ADV-Part: einnin, hverninn, Dæmalaust, Eigi, Einatt, Snöggt, aptur, beint, ei, festar</li>
-            <li>AUX: em, haft, var, vera, skyli, hafður, hafðir, haf, hafið, höfð</li>
-            <li>AUX-Part: haft, hafður, hafðir, höfð, verið, getið, hafið, skylduð, hafðar, munduð</li>
-            <li>CCONJ: bæði, eður, hvörki, hverki, ok, Hvatki, annaðhvert, báðir, g, hvortki</li>
-            <li>DET: sá, þetta, þessi, einn, það, hinn, sú, þeir, eitt, ein</li>
-            <li>DET-Part: hitt, sjá, Eirn, talið</li>
-            <li>INTJ: fokk, bússí, bittinú, Eia, Hei, Heill, Hó, Ja-á, Jú-ú, O</li>
+            <li>ADV: hvað, einnin, einn, allir, mikill, fyrri, hverninn, langt, aldregi, aptur</li>
+            <li>ADV-Part: háttað, minnst, predikað, einnin, gjör, komnir, Einatt, beint, breitt, festar</li>
+            <li>AUX: em, var, skyli, vera, haft, hafðir, hafður, mundi, verið, vilið</li>
+            <li>AUX-Part: haft, hafðir, hafður, verið, höfð, skylduð, hafið, getið, hafðar, munduð</li>
+            <li>CCONJ: bæði, eður, hvörki, hverki, annað, Hvatki, annaðhvert, annaðhvurt, báðir, g</li>
+            <li>CCONJ-Part: annaðhvert, bæði</li>
+            <li>DET: sá, þetta, allt, allir, þessi, einn, það, hinn, sú, enginn</li>
+            <li>DET-Part: minnst, sjá, Ekkert, engi, hitt, inir, nakkvað, nokkora, nökkvað</li>
+            <li>INTJ: bússí, bittinú, fokk, Heill, fjandi, maður, Æ, Óhó, Óvei, ææææææ</li>
             <li>NOUN: menn, maður, konungur, biskup, kóngur, faðir, herra, prestur, bræður, jarl</li>
-            <li>NOUN-Part: gerð, liðið, orðið, sótt, fagnað, sæmd, talið, byggð, byggðir, náð</li>
-            <li>NUM: tveir, þrír, tólf, tvö, fjórir, fimm, tvær, sex, tíu, þrjár</li>
-            <li>NUM-Part: sex</li>
-            <li>PART: einn, eina, einasta, ein, einir, eitt, eini, einasti, einsamall, Einninn</li>
-            <li>PRON: hann, þeir, það, ég, eg, hún, þú, vér, hvað, þau</li>
-            <li>PRON-Part: hvört, okkart, sjálfir, vor, yðart</li>
-            <li>PROPN: guð, jesús, drottinn, Illugi, herra, Sturla, Finnbogi, Grettir, Jón, Oddur</li>
-            <li>PROPN-Part: Ríkilað, Herjuð, Mundt, Refur, Sjóður, Trekt, Tyrkjar, Tögld</li>
+            <li>NOUN-Part: náð, orðið, gerð, liðið, talið, sæmd, byggðir, fagnað, ráðið, sótt</li>
+            <li>NUM: tveir, þrír, tólf, fjórir, tvö, fimm, tvær, sex, þrjár, þrjú</li>
+            <li>NUM-Part: sjö</li>
+            <li>PART: Einninn, ein, eina, einir</li>
+            <li>PRON: hann, þeir, það, ég, eg, hún, þú, vér, hvað, þér</li>
+            <li>PRON-Part: yðvart, eg, okkart, sér, vor</li>
+            <li>PROPN: guð, jesús, drottinn, Illugi, herra, Finnbogi, Sturla, Grettir, Jón, Oddur</li>
+            <li>PROPN-Part: Refur, Fiður, Herjuð, Mundt, Móður</li>
             <li>PUNCT: "</li>
-            <li>SCONJ: það, hvor, hvert, hvort, hver, hvört, hverjar, hverjir, Hvorn, em</li>
-            <li>SCONJ-Part: Hvört</li>
+            <li>SCONJ: það, hvor, hvert, hver, hvort, hvört, hverjar, hverjir, er, hvatki</li>
+            <li>SCONJ-Part: hvört</li>
             <li>VERB: kominn, sagt, komið, orðinn, komnir, búinn, komin, kallaður, búið, orðið</li>
             <li>VERB-Part: kominn, sagt, komið, orðinn, komnir, komin, kallaður, getið, farið, gert</li>
-            <li>X: Trankival, Ektor, sanktus, Item, Vernakíus, Majst, Anno, domini, Holofernis, Vidfraktus</li>
+            <li>X: Trankival, Ektor, sanktus, domini, sankti, Vernakíus, Majst, Darii, Dominus, Item</li>
             <li>X-Part: Majst, regent</li>
           </ul>
         </li>
@@ -898,21 +908,20 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>ADJ: meira, meiri, fleiri, fyrsta, mesta, fyrstu, þriðja, mikla, næsta, fleira</li>
-            <li>ADP: fyr, eptir, fraraan, gagnvert, meira</li>
-            <li>ADV: fyrri, einnin, hverninn, hvörninn, hvörnin, þanninn, þannin, næsta, hvernin, hærra</li>
-            <li>AUX: vilið, hafið, vóru, vilda, væra, megu, vera, höfum, mynið, séið</li>
-            <li>CCONJ: eður, annaðhvert</li>
-            <li>DET: eina, þenna, eini, ið, inum, einu, hverngi, inu, Einni, Hvílíkan</li>
-            <li>INTJ: Hó</li>
+            <li>ADJ: fyrsta, fyrstu, þriðja, næsta, betra, heilaga, sæla, góða, fyrri, gamla</li>
+            <li>ADP: fraraan, fyr, fá</li>
+            <li>ADV: fyrri, einnin, hverninn, einasta, eina, hvörnin, hvörninn, þannin, þanninn, næsta</li>
+            <li>AUX: vilið, hafið, vóru, vilda, verðið, væra, megu, myni, mynið, séið</li>
+            <li>CCONJ: hvörki, eður, hvortki</li>
+            <li>DET: meira, meiri, fleiri, mesta, fleira, mikla, mesti, mestu, minna, eina</li>
             <li>NOUN: daginn, fólkið, keisarinn, veturinn, maðurinn, nóttina, borginni, málið, höfuðið, landið</li>
-            <li>NUM: hálfa, ellifu, hvorntveggja, hvortveggi, 1., 11., 4., 8., 9., fimmta</li>
-            <li>PART: einasta, eina, eini, einasti, einu, einustu, Einninn, einka</li>
-            <li>PRON: minni, soddan, minna, þeirra, Sjálfan, annaðhvört, min, svoddan, vor, yðvarn</li>
-            <li>PROPN: drottins, Austvestan, sankti, gyðinganna, Kýlan, Jarlmann, Norðsunnan, herrans, Kýlans, jólin</li>
+            <li>NUM: hvorntveggja, hálfa, hvortveggi, þrjátigi, 1., 11., 4., 8., 9., Hvortveggja</li>
+            <li>PART: Einninn, eina, einasta</li>
+            <li>PRON: minni, soddan, minna, þeirra, vorar, Sjálfan, min, okkarn, soddann, svoddan</li>
+            <li>PROPN: drottins, Austvestan, sankti, Kýlan, gyðinganna, Norðsunnan, herrans, Kýlans, jólin, Jarlmann</li>
             <li>PUNCT: "</li>
-            <li>VERB: orðið, veginn, liðið, heitið, boðið, heita, orðin, verðið, kunni, svarið</li>
-            <li>X: sankti, Academísins, Belina, Dominum, Harmoniam, Karmin, Roddanum, Sacramentum, Singin, Tígrin</li>
+            <li>VERB: orðið, veginn, heitið, liðið, boðið, kunni, orðin, svarið, blessaða, heita</li>
+            <li>X: sankti, Academísins, Belina, Dominum, Lazari, Magdalum, Roddanum, Tígrin, Verluc, crimina</li>
           </ul>
         </li>
       </ul>
@@ -937,22 +946,21 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>ADJ: mikið, mikill, margir, gott, miklu, mikil, margt, satt, mörgum, mikinn</li>
-            <li>ADP: millum, fyr, viður, eptir, sakir, ór, fyri, handa, Meður, gögnum</li>
-            <li>ADV: aldri, aldregi, langt, braut, rétt, hvörsu, jafnsnart, hart, best, aptur</li>
-            <li>AUX: mun, em, skyldu, vera, vóru, vilja, var, skyli, muni, haf</li>
-            <li>CCONJ: hvörki, eður, hverki, hvatki, ok, annaðhvurt, aða, g, hvegi, hvortki</li>
-            <li>DET: einn, einu, þenna, eina, ein, eitt, einum, ið, ins, einni</li>
-            <li>INTJ: fokk, bússí, bittinú, damm, Hei, Heill, Ja-á, Jú-ú, O, O-nei</li>
+            <li>ADJ: gott, satt, góður, stór, góð, góðum, gamall, góða, dauður, góðan</li>
+            <li>ADP: millum, fyr, eptir, viður, sakir, ór, fyri, gagnvert, handa, gögnum</li>
+            <li>ADV: aldri, aldregi, mikið, langt, mikill, einn, braut, hart, jafnsnart, hvörsu</li>
+            <li>AUX: mun, em, skyldu, vera, vóru, var, vilja, skyli, muni, vil</li>
+            <li>CCONJ: hvörki, eður, hverki, hvatki, annaðhvurt, aða, g, hvegi, hvortki, hvörgi</li>
+            <li>DET: mikið, mikill, margir, miklu, margt, mikil, mörgum, mikinn, marga, einn</li>
+            <li>INTJ: bússí, fokk, bittinú, damm, Æ, óvei, Heill, fjandi, maður, Óhó</li>
             <li>NOUN: menn, maður, konungur, manna, biskup, mönnum, orð, dag, tíma, mann</li>
-            <li>NUM: hálft, hvorirtveggju, hálfan, hálfum, hálfu, iij, hálfs, ij, hundrað, hálfa</li>
-            <li>PART: einn, eitt, ein, einasta, einir, einum, einu, eina, einan, einni</li>
-            <li>PRON: hönum, vor, hvör, sinni, mitt, vær, soddan, vorum, annað, sinn</li>
-            <li>PROPN: guð, guðs, jesús, herra, guði, drottinn, jesú, Illugi, Jón, Sturla</li>
-            <li>PUNCT: "</li>
-            <li>SCONJ: hvört, er, hvör, Hvorn, em, eð, hvatki, hvörju, hvörjum, hvörn</li>
-            <li>VERB: búið, búinn, segjandi, búin, búnir, höggur, ganga, fallinn, leið, kömur</li>
-            <li>X: Trankival, domini, Ektor, sanktus, Vernakíus, anno, Item, trinitatis, Darii, kalendas</li>
+            <li>NUM: hálft, hvorirtveggju, hálfan, hálfum, ij, hálfu, iij, hálfa, hálfs, hálfur</li>
+            <li>PART: einu, einir</li>
+            <li>PRON: hönum, vor, hvör, sinni, mitt, vorum, soddan, vær, annað, þeira</li>
+            <li>PROPN: guð, guðs, jesús, herra, guði, drottinn, jesú, Illugi, Jón, Finnbogi</li>
+            <li>SCONJ: hvört, hvör, em, er, hvatki, hvörju, hvörjum, hvörn, hvörri, ið</li>
+            <li>VERB: búið, búinn, segjandi, búin, búnir, höggur, fallinn, ganga, leið, kömur</li>
+            <li>X: Trankival, domini, Ektor, sanktus, Vernakíus, Anno, Darii, trinitatis, Alexandrum, Georgíum</li>
           </ul>
         </li>
       </ul>
@@ -999,19 +1007,18 @@ udver: '2'
       <ul>
         <li>Cmp
           <ul>
-            <li>ADJ: meir, meira, meiri, fleiri, fleira, nær, betra, minna, fyrri, betri</li>
-            <li>ADP: nær, fyrr, sakir, innar, eptir, meira</li>
+            <li>ADJ: nær, betra, fyrri, betri, fyrra, eldri, stærri, lengra, yngri, æðri</li>
+            <li>ADP: nær, fyrr, ór</li>
             <li>ADV: heldur, fyrr, síðar, betur, nær, framar, lengur, oftar, síður, fremur</li>
-            <li>AUX: ver, vera</li>
-            <li>CCONJ: heldur</li>
-            <li>DET: innar, hverngi, þenna, Einni, hveregi, hvörra, öngri</li>
-            <li>NOUN: síður, minni, forvitri, syndara, allstaðar, bráðar, Galdra, Kvinna, Potúananna, dura</li>
-            <li>NUM: v, vii</li>
-            <li>PART: heldur</li>
-            <li>PRON: minni, minna, vor, soddan, yðart, yðvarra, þínni</li>
-            <li>PROPN: saltara, Hertogi, Jaíri, Karatti, Klótildi, Konáli, Lazari, Moysi, Möttli, Sigvatur</li>
-            <li>VERB: heldur, endaðri, fremur, betri, fá, látir, minna, minni, nær, Lýsi</li>
-            <li>X: sankti</li>
+            <li>AUX: myni</li>
+            <li>CCONJ: hvortki, hvörki</li>
+            <li>DET: meir, meira, meiri, fleiri, fleira, minna, síður, minni, fleirum, innar</li>
+            <li>NOUN: minni, síður, sakir, forvitri, allstaðar, bráðar, b​y​g​g​i​n​g​a​r​k​ú​n​s​t​a​r​i​n​n​a​r, engi, reiðara, réttara</li>
+            <li>NUM: vi, xii, átján</li>
+            <li>PRON: minni, minna, soddan, hvörra, sinna, yðvarra, þínni</li>
+            <li>PROPN: saltara, GANGI, Hlymreksfari, Jaíri, Konáli, Mörukári, Teófíli, farisearanna, himnna, kristi</li>
+            <li>VERB: heldur, endaðri, ver, betri, fremur, fá, nær, víprar, Kunni, Lýsi</li>
+            <li>X: sankti, Lazari, seminarii</li>
           </ul>
         </li>
       </ul>
@@ -1032,22 +1039,22 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ: mikið, mikill, margir, miklu, gott, mikla, mikil, margt, satt, góða</li>
-            <li>ADP: fyr, eptir, Gagnvart, Meður, nama, tilbeðin, þvert</li>
-            <li>ADV: langt, eins, hart, svona, rétt, trautt, víst, sannlega, skammt, fast</li>
-            <li>AUX: var, vóru, vilda, væra, vert, hafða, megu, skyldir, vart, Máttu</li>
-            <li>CCONJ: Eður, hvortki</li>
-            <li>DET: einn, einu, eina, þenna, ein, eitt, einum, einni, einir, eini</li>
-            <li>INTJ: fokk, Eia, Heill, Hó, ææææææ</li>
-            <li>NOUN: dauða, heit, góða, búið, sæmd, trúu, skyld, vísu, föstum, gott</li>
-            <li>NUM: hálft, hálfan, hálfum, hálfa, hálfs, hálfu, hálfur, tvennum, þrennar, hvorntveggja</li>
-            <li>PART: einasta, eina, einn, eitt, ein, einir, einu, einum, eini, einasti</li>
-            <li>PRON: soddan, mitt, vær, annað, svoddan, þvílíkan, yðvart, yðru, annan, þeirra</li>
-            <li>PROPN: sankti, heilags, Rauður, heilagur, Arkistratus, heilaga, helga, Svart, Tósti, Konáll</li>
+            <li>ADJ: gott, satt, góða, góður, stór, góð, góðum, heilaga, þriðja, góðu</li>
+            <li>ADP: fyr, eptir, Gagnvart, Kringum, eftur, ein, fá, innar, tilbeðin, ór</li>
+            <li>ADV: mikið, einasta, langt, mikill, eina, einn, hart, eins, mikla, víst</li>
+            <li>AUX: var, vilda, vóru, væra, vert, fær, hafða, fekk, megu, mætta</li>
+            <li>CCONJ: Eður, hvörki</li>
+            <li>DET: mikið, mikill, margir, miklu, margt, mikil, mikla, mörgum, mikinn, marga</li>
+            <li>INTJ: Heill, ææææææ</li>
+            <li>NOUN: dauða, heit, góða, búið, vísu, skyld, föstum, gott, synda, trúu</li>
+            <li>NUM: hálft, hálfan, hálfum, hálfa, hálfs, hálfu, hálfur, hvorntveggja, ij, tvennum</li>
+            <li>PART: einu, eina, einasta, einir</li>
+            <li>PRON: soddan, mitt, vær, annað, svoddan, þvílíkan, yðvart, yðrum, vor, yðart</li>
+            <li>PROPN: sankti, heilags, heilagur, Rauður, Ótta, Arkistratus, heilaga, helga, Konáll, Darius</li>
             <li>PUNCT: "</li>
-            <li>SCONJ: hvört, er, hvörju, hvörjum, hvörn</li>
-            <li>VERB: búið, búinn, lifandi, búin, búnir, fallinn, lifanda, gjört, þegjandi, búnu</li>
-            <li>X: sankti, Item, Valbert, Vidfraktus, sanktus, Alexandrum, Aristandus, Eventum, Holofernis, Regerandi</li>
+            <li>SCONJ: hvört, er</li>
+            <li>VERB: búið, búinn, lifandi, búin, búnir, fallinn, lifanda, þegjandi, búnu, grátandi</li>
+            <li>X: sankti, Vidfraktus, Item, Alexandrum, sanktus, Aristandus, Sicut, Stadium, Vagau, Valbert</li>
           </ul>
         </li>
       </ul>
@@ -1071,17 +1078,17 @@ udver: '2'
       <ul>
         <li>Sup
           <ul>
-            <li>ADJ: mest, fyrsta, mesta, fyrstu, næsta, flestir, mestu, besta, mesti, bestu</li>
-            <li>ADP: fyrst, næst, eptir</li>
+            <li>ADJ: fyrsta, fyrstu, næsta, besta, bestu, best, næst, næstu, fyrstur, síðustu</li>
+            <li>ADP: fyrst, næst</li>
             <li>ADV: fyrst, næst, helst, best, mest, oftast, síðast, fremst, síst, lengst</li>
-            <li>AUX: vorust, vildir</li>
-            <li>NOUN: tigu, bezta, busti, fyrstu, gæfastur, hjartans, kunnustu, tjöldin, vitrastur</li>
-            <li>NUM: 1., xii</li>
-            <li>PART: einasta</li>
-            <li>PRON: vora</li>
-            <li>PROPN: Tósti, Balthasar, Tyrkjahöfðingja, Vali</li>
-            <li>VERB: fanst, helst, minnst, verst, Þóttust, réttast, bjoggust, bættust, flutzt, heitast</li>
-            <li>X: Majst, bezt, mest</li>
+            <li>AUX: vart, vildir, vorum</li>
+            <li>DET: mest, mesta, flestir, mestu, mesti, flestum, mestur, minnsta, flest, minnst</li>
+            <li>NOUN: tigu, Arkistratus, Mannanna, dýra, fyrstu, föstu, gæfastur, hjartans, háttu, kunnustu</li>
+            <li>NUM: 1., þrjátigi</li>
+            <li>PRON: oss, minna, slíkut, vora, þeirra, þvílík</li>
+            <li>PROPN: Tósti, Austvestan, Georgíum, Imbrudaga, Mannsins</li>
+            <li>VERB: helst, fanst, verst, Þóttust, minnst, réttast, sannast, Rifjaðist, fyrfarast, gleðist</li>
+            <li>X: Majst, mest</li>
           </ul>
         </li>
       </ul>
@@ -1146,19 +1153,18 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>ADJ-Fin: nokkuru, Fúnuðu, Heill, Hásu, Lítið, Næstur, engi, engvan, hlýðið, ofgóð</li>
+            <li>ADJ-Fin: Heill, Hásu, Nakið, Skamt, Skjót, löstu, mildi, ofgóð, upprisu</li>
             <li>ADP-Fin: fyr</li>
-            <li>ADV-Fin: Hvörsu, alltið, einnin</li>
-            <li>AUX-Fin: hafið, verið, mundu, megið, Vóru, megu, Höfu, Viljið, Getið, Höfðu</li>
-            <li>CCONJ-Fin: hverki</li>
-            <li>DET-Fin: sjá</li>
-            <li>INTJ-Fin: Vei, duddu</li>
-            <li>NOUN-Fin: Stundu, Furðu, Grið, Menu, Sverðið, byrði, dirfzku, eig, engið, féið</li>
-            <li>PRON-Fin: hvörju, hvörs, óru</li>
-            <li>PROPN-Fin: Hafið, Myntu</li>
+            <li>ADV-Fin: hvörsu, hvört, takið</li>
+            <li>AUX-Fin: hafið, mundu, megið, munuð, Skulu, verið, Vóru, megu, Höfu, Munt</li>
+            <li>DET-Fin: sjá, engi, Nokkuru, engvan, fæstu, nökkut</li>
+            <li>INTJ-Fin: duddu</li>
+            <li>NOUN-Fin: hurðu, Furðu, Grið, Stundu, Sverð, Sverðið, dirfzku, eig, far, gæðsku</li>
+            <li>PRON-Fin: hvörju, hvörs, yðru, þaug, þínun</li>
+            <li>PROPN-Fin: Yxu</li>
             <li>PUNCT-Fin: "</li>
             <li>SCONJ-Fin: at</li>
-            <li>VERB-Fin: lát, sjá, seg, sjáið, gef, látið, takið, settu, gerðu, gjör</li>
+            <li>VERB-Fin: lát, seg, gef, sjáið, sjá, komið, látið, takið, gerðu, settu</li>
           </ul>
         </li>
       </ul>
@@ -1178,20 +1184,20 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>ADJ-Fin: engi, verður, var, sannast, fær, nær, ríkir, sanna, átti, fá</li>
-            <li>ADP-Fin: á, fyr, nær, eptir, Meður, er, gegnt, gegnum, næst, sér</li>
-            <li>ADV-Fin: nær, heldur, snart, helst, eigi, fyr, næst, braut, kann, hvörsu</li>
-            <li>AUX-Fin: var, er, hafði, voru, eru, mun, hefir, hefur, skal, höfðu</li>
-            <li>CCONJ-Fin: eður, Hvörki, efn, hverki</li>
-            <li>DET-Fin: sá, sjá, eð, Hinum, enu, inna</li>
-            <li>INTJ-Fin: Ó, Hó, Vei, Áví, Óhó</li>
-            <li>NOUN-Fin: vilja, greinir, synda, sakar, syndir, hóf, leið, mun, hjálpar, getur</li>
-            <li>PART-Fin: einast</li>
-            <li>PRON-Fin: voru, sér, vorum, eg, vorar, yðrum, yðrar, yðrir, sinna, yðra</li>
-            <li>PROPN-Fin: Majst, Pálus, hertug, sankti, Ótta, Belíus, Brúni, Fiður, Guði, Karatti</li>
-            <li>SCONJ-Fin: er, eð, Hver, eru, hvört</li>
-            <li>VERB-Fin: sagði, segir, kom, mælti, varð, fór, tók, gekk, lét, hét</li>
-            <li>X-Fin: Majst, sicut, Creidii, datum, nostrum</li>
+            <li>ADJ-Fin: verður, var, fær, nær, ríkir, sannast, átti, sanna, syndgir, varir</li>
+            <li>ADP-Fin: á, fyr, nær, eptir, Meður, héreftir, næst, so, sér, yðrum</li>
+            <li>ADV-Fin: nær, heldur, snart, helst, fór, eigi, kann, braut, fyr, mátti</li>
+            <li>AUX-Fin: var, er, hafði, voru, eru, mun, hefir, hefur, skal, hafa</li>
+            <li>CCONJ-Fin: eður, hverki, Né, efn, heldur</li>
+            <li>DET-Fin: sá, engi, fá, öngum, eð, inna, minna, sjá, Meir, Nokkuru</li>
+            <li>INTJ-Fin: Hei, Vei, Áví, Ó, Óhó</li>
+            <li>NOUN-Fin: vilja, greinir, sakar, synda, syndir, leið, hóf, mun, engi, getur</li>
+            <li>NUM-Fin: iiijr</li>
+            <li>PRON-Fin: voru, sér, vorum, eg, vorar, yðrar, yðrum, yðrir, órar, hvör</li>
+            <li>PROPN-Fin: Georgíus, Majst, Beljus, Belíus, Brúni, Guði, Gálu, Hrímgerður, Karatti, Kórmaks</li>
+            <li>SCONJ-Fin: er, eð, eru, hvörri, hvört</li>
+            <li>VERB-Fin: sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</li>
+            <li>X-Fin: Majst, Edimus, Item, Sicut, nostra, omnium, statuta</li>
           </ul>
         </li>
       </ul>
@@ -1202,7 +1208,7 @@ udver: '2'
           <ul>
             <li>ADJ-Fin: fæst, stoltust</li>
             <li>ADP-Fin: undir</li>
-            <li>AUX-Fin: er, var, voru, eru, hefur, hafa, hafði, höfðu, getur, má</li>
+            <li>AUX-Fin: er, var, voru, eru, hefur, hafa, hafði, höfðu, má, getur</li>
             <li>PROPN-Fin: Beust, Trump</li>
             <li>VERB-Fin: sagði, fór, varð, segir, kom, þarf, hafði, átti, gerði, tók</li>
           </ul>
@@ -1215,17 +1221,18 @@ udver: '2'
       <ul>
         <li>Sub
           <ul>
-            <li>ADJ-Fin: engi, fegri, sæti, verðir, Ellefti, Sjötti, fáum, glaði, góði, heilagi</li>
-            <li>ADP-Fin: gegni</li>
-            <li>ADV-Fin: eigi, aldri, Forðum, aldregi</li>
-            <li>AUX-Fin: væri, hefði, sé, skyldi, mundi, hafi, mætti, vildi, skyldu, væru</li>
-            <li>DET-Fin: Sé, hvörri</li>
-            <li>INTJ-Fin: Hei</li>
-            <li>NOUN-Fin: liði, ráði, viti, færi, mildi, mætti, skyldu, verði, vilji, engi</li>
-            <li>PRON-Fin: hvörjum, sinni, sé, yðrir, hver, hverir, hvörri, leifi, öðrum</li>
-            <li>PROPN-Fin: Valdi, sankti, guði, Maii, Martii, Ofsi, Stefni, Vali, bausti, dragi</li>
-            <li>VERB-Fin: yrði, verði, ætti, kæmi, færi, komi, þyki, þætti, fengi, þyrfti</li>
-            <li>X-Fin: sankti, nostri, patri</li>
+            <li>ADJ-Fin: fegri, svarti, verðir, frómi, glaði, sæti, Elsti, fáum, hæsti, lítilsvirði</li>
+            <li>ADP-Fin: gegni, uni</li>
+            <li>ADV-Fin: eigi, aldri, Forðum, kynni, byrji, ei, fyndust, geysi, liggi, liði</li>
+            <li>AUX-Fin: væri, hefði, sé, skyldi, mundi, hafi, mætti, væru, skyldu, vildi</li>
+            <li>CCONJ-Fin: Hvörki</li>
+            <li>DET-Fin: engi, Sé, einkis, meiri, öngum</li>
+            <li>NOUN-Fin: færi, kosti, liði, mætti, verði, vilji, viti, hafi, mildi, skyldu</li>
+            <li>NUM-Fin: Xii, fjörutigi, iiii, vii</li>
+            <li>PRON-Fin: sé, hver, hvörjum, leifi, sinni, yðrum</li>
+            <li>PROPN-Fin: Vali, Valdi, sankti, Maii, Guddu, Julii, Martii, Stefni, bausti, dragi</li>
+            <li>VERB-Fin: ætti, kæmi, yrði, færi, verði, komi, þyki, þætti, fengi, þyrfti</li>
+            <li>X-Fin: beati, nostri, patri, sankti</li>
           </ul>
         </li>
       </ul>
@@ -1259,18 +1266,17 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>ADJ-Fin: engi, var, átti, volaði, blessuðu, sæti, útvöldu, Reiði, báðu, formerkti</li>
-            <li>ADP-Fin: fyr, gegnum</li>
-            <li>ADV-Fin: snart, braut, eigi, hvörsu, Hverru, aldregi, fyr, hvernug, laust, ogsvo</li>
-            <li>AUX-Fin: var, hafði, voru, væri, hefði, höfðu, skyldi, vildi, mundi, mátti</li>
-            <li>CCONJ-Fin: Hvörki</li>
-            <li>DET-Fin: sá, enu, hvörri</li>
-            <li>NOUN-Fin: hóf, leið, mætti, komu, engi, liði, naut, staðfesti, birti, færi</li>
-            <li>PRON-Fin: voru, vorum, hvörju, hver, hvör, hvörja, hvörjum, sá, óru, öðrum</li>
-            <li>PROPN-Fin: hertug, sankti, Belíus, Brúni, Guði, Karatti, Marta, Skafti, Syrpu, Trankival</li>
-            <li>SCONJ-Fin: Hver, hvört</li>
-            <li>VERB-Fin: sagði, kom, mælti, varð, fór, tók, gekk, lét, hét, átti</li>
-            <li>X-Fin: sicut, Creidii</li>
+            <li>ADJ-Fin: var, átti, sétti, blessuðu, laust, réttu, sæti, volaði, útvöldu, Elsti</li>
+            <li>ADP-Fin: fyr</li>
+            <li>ADV-Fin: snart, fór, braut, mátti, eigi, kunni, fóru, hvörsu, kynni, vildi</li>
+            <li>AUX-Fin: var, hafði, voru, væri, hefði, skyldi, vildi, mundi, höfðu, mátti</li>
+            <li>DET-Fin: sá, engi, Nokkuru, báðu, meiri</li>
+            <li>NOUN-Fin: leið, engi, hóf, mætti, komu, færi, lifnaði, liði, skildi, birti</li>
+            <li>PRON-Fin: voru, vorum, hver, vér, hvör, sér, hvorju, hvörja, hvörjum, hvörri</li>
+            <li>PROPN-Fin: Brúni, Guddu, Guði, Gálu, Hrímgerður, Karatti, Pjatti, Skafti, Trankival, Vali</li>
+            <li>SCONJ-Fin: hvörri, hvört</li>
+            <li>VERB-Fin: sagði, kom, mælti, fór, tók, varð, gekk, lét, hafði, hét</li>
+            <li>X-Fin: Edimus, Sicut, beati</li>
           </ul>
         </li>
       </ul>
@@ -1297,21 +1303,21 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>ADJ-Fin: engi, verður, sannast, fær, nær, ríkir, sanna, fá, nokkuru, syndgir</li>
-            <li>ADP-Fin: á, fyr, nær, eptir, Meður, er, gegni, gegnt, næst, sér</li>
-            <li>ADV-Fin: eigi, nær, heldur, helst, fyr, næst, aldri, kann, Forðum, skjótast</li>
-            <li>AUX-Fin: er, eru, mun, hefir, hefur, sé, skal, hafa, hafi, má</li>
-            <li>CCONJ-Fin: eður, hverki, efn</li>
-            <li>DET-Fin: sjá, eð, Hinum, Sé, inna</li>
-            <li>INTJ-Fin: Vei, Ó, Hei, Hó, duddu, Áví, Óhó</li>
-            <li>NOUN-Fin: vilja, greinir, synda, sakar, syndir, mun, hjálpar, getur, náðar, ráði</li>
-            <li>PART-Fin: einast</li>
-            <li>PRON-Fin: sér, eg, vorar, yðrum, yðrar, yðrir, sinna, yðra, órar, hvörju</li>
-            <li>PROPN-Fin: Majst, Valdi, sankti, Pálus, guði, Ótta, Fiður, Hafið, MAÐUR, Maii</li>
+            <li>ADJ-Fin: verður, fær, nær, ríkir, sannast, sanna, syndgir, varir, fegri, göfgir</li>
+            <li>ADP-Fin: á, fyr, nær, eptir, Meður, gegni, héreftir, næst, so, sér</li>
+            <li>ADV-Fin: eigi, nær, heldur, helst, kann, aldri, fyr, næst, fer, kemur</li>
+            <li>AUX-Fin: er, eru, mun, sé, hefir, hefur, skal, hafa, hafi, má</li>
+            <li>CCONJ-Fin: eður, hverki, Hvörki, Né, efn, heldur</li>
+            <li>DET-Fin: engi, sjá, öngum, fá, eð, inna, minna, Meir, Nokkuru, Sé</li>
+            <li>INTJ-Fin: Hei, Vei, duddu, Áví, Ó, Óhó</li>
+            <li>NOUN-Fin: vilja, greinir, sakar, synda, syndir, mun, klæði, getur, friðar, hjálpar</li>
+            <li>NUM-Fin: Xii, fjörutigi, iiii, iiijr, vii</li>
+            <li>PRON-Fin: sér, eg, yðrum, vorar, yðrar, yðrir, órar, sinna, yðra, hvörja</li>
+            <li>PROPN-Fin: Vali, Valdi, sankti, Georgíus, Maii, Majst, Beljus, Belíus, Julii, Kórmaks</li>
             <li>PUNCT-Fin: "</li>
             <li>SCONJ-Fin: er, eð, at, eru</li>
-            <li>VERB-Fin: segir, kemur, verður, fer, svarar, heitir, veit, gengur, þykir, tekur</li>
-            <li>X-Fin: Majst, sankti, datum, nostri, nostrum, patri</li>
+            <li>VERB-Fin: segir, kemur, fer, verður, svarar, veit, heitir, gengur, þykir, tekur</li>
+            <li>X-Fin: Majst, Item, nostra, nostri, omnium, patri, sankti, statuta</li>
           </ul>
         </li>
       </ul>
@@ -1321,7 +1327,7 @@ udver: '2'
         <li>Pres
           <ul>
             <li>ADJ-Fin: fæst</li>
-            <li>AUX-Fin: er, eru, hefur, hafa, hafi, sé, getur, má, geta, séu</li>
+            <li>AUX-Fin: er, eru, hefur, hafa, hafi, sé, má, getur, geta, séu</li>
             <li>NOUN-Fin: hafi</li>
             <li>PROPN-Fin: Beust, Trump</li>
             <li>VERB-Fin: segir, þarf, fer, vill, eiga, varðar, verður, hefur, stendur, virðist</li>
@@ -1348,54 +1354,55 @@ udver: '2'
       <ul>
         <li>Act
           <ul>
-            <li>ADJ-Fin: engi, verður, var, fær, nær, ríkir, nokkuru, sanna, átti, fá</li>
-            <li>ADJ-Inf: engi, minna, helga, sanna, fá, minsta, bera, fegra, fljóta, fullkomna</li>
-            <li>ADJ-Part: engi, leitt, kunnigt, auðsýnt, skyldir, sýnt, auglýstur, beint, dælt, geystir</li>
-            <li>ADJ-Sup: Alt, Mart, Nakið, bráðnað, engi, fjölmennt, greint, hlýðið, hrært, jafnkunnugt</li>
-            <li>ADP-Fin: á, fyr, nær, eptir, Meður, er, gegni, gegnt, gegnum, sér</li>
-            <li>ADP-Inf: fyr, nema, fá, umkring, uni</li>
+            <li>ADJ-Fin: verður, var, fær, nær, ríkir, átti, sanna, syndgir, varir, fegri</li>
+            <li>ADJ-Inf: sanna, breiða, helga, fegra, fullkomna, margfalda, yðra, Verra, auðga, bera</li>
+            <li>ADJ-Part: leitt, kunnigt, auðsýnt, skyldir, sýnt, auglýstur, beint, dælt, fallin, genginn</li>
+            <li>ADJ-Sup: greint, hlýðið, hrært, kunnigt, kært, lagt, leitt, ljósan, mein, mætt</li>
+            <li>ADP-Fin: á, fyr, nær, eptir, Meður, gegni, héreftir, so, sér, uni</li>
+            <li>ADP-Inf: fyr, nema</li>
             <li>ADP-Part: útgefið</li>
             <li>ADP-Sup: fyr, þótt</li>
-            <li>ADV-Fin: eigi, nær, heldur, snart, fyr, braut, aldri, hvörsu, kann, Forðum</li>
-            <li>ADV-Inf: gjör, ske, Lengra, eigi, enda, fyr, gerr, glöggvasta, jafna, lymsklega</li>
-            <li>ADV-Part: einnin, hverninn, Dæmalaust, Eigi, Einatt, Snöggt, aptur, beint, ei, festar</li>
-            <li>ADV-Sup: eigi, gjör, hægt, ríkt, aldri, brutt, greitt, hellt, jafnsnart, leitt</li>
-            <li>AUX-Fin: var, er, hafði, voru, væri, eru, mun, hefir, hefði, hefur</li>
-            <li>AUX-Inf: vera, hafa, vilja, geta, mega, mundu, fá, má, hefi, hefða</li>
-            <li>AUX-Part: haft, hafður, hafðir, höfð, verið, hafandi, getið, hafið, mundu, skylduð</li>
-            <li>AUX-Sup: verið, haft, getað, viljað, mátt, munt, munuð, fengið, getið, haf</li>
-            <li>CCONJ-Fin: eður, hverki, Hvörki, efn</li>
-            <li>DET-Fin: sá, sjá, eð, Hinum, Sé, enu, hvörri, inna</li>
-            <li>DET-Inf: sjá, þenna, sá, inna, eð, hvörja, ina</li>
-            <li>DET-Part: hitt, sjá, Eirn, talið</li>
-            <li>DET-Sup: hitt</li>
-            <li>INTJ-Fin: Vei, Ó, Hei, Hó, duddu, Áví, Óhó</li>
-            <li>NOUN-Fin: vilja, greinir, synda, sakar, syndir, engi, hóf, leið, mun, hjálpar</li>
-            <li>NOUN-Inf: votta, synda, vilja, ráða, elska, skaða, anda, búa, galdra, vera</li>
-            <li>NOUN-Part: búandi, gerð, liðið, orðið, sótt, fagnað, sæmd, talið, byggð, byggðir</li>
-            <li>NOUN-Sup: náð, sótt, búið, talið, ráðið, brest, engi, mein, varnað, féið</li>
-            <li>NUM-Part: sex</li>
-            <li>PRON-Fin: voru, sér, vorum, eg, vorar, yðrum, yðrar, yðrir, sinna, yðra</li>
-            <li>PRON-Inf: yðra, sinna, minna, hvörja, hvörri, sjér, óra</li>
-            <li>PRON-Part: hvörn, hvört, okkart, sjálfir, vor, yðart</li>
-            <li>PRON-Sup: annaðhvört, hitt, hverru</li>
-            <li>PROPN-Fin: sankti, Valdi, guði, Pálus, hertug, Ótta, Belíus, Brúni, Fiður, Hafið</li>
-            <li>PROPN-Inf: Ótta, Antiokkia, Beljus, Belíus, Hjaranda, Loka, Media, Túta, draga, drottna</li>
-            <li>PROPN-Part: Ríkilað, Herjuð, Mundt, Refur, Sjóður, Trekt, Tyrkjar, Tögld</li>
-            <li>PROPN-Sup: Ríkilað, Hó, Leonið, Petrus, jesú</li>
+            <li>ADV-Fin: eigi, nær, heldur, snart, fór, kann, aldri, braut, fyr, mátti</li>
+            <li>ADV-Inf: ske, fara, fá, æfinlega, aldri, fyrirkoma, gefa, gjör, jafna, líka</li>
+            <li>ADV-Part: háttað, predikað, einnin, gjör, hverninn, komnir, Einatt, beint, breitt, festar</li>
+            <li>ADV-Sup: fengið, gjör, aldri, alltið, brutt, dárað, einnin, gengið, gerr, greitt</li>
+            <li>AUX-Fin: var, er, hafði, voru, væri, eru, mun, hefði, sé, hefir</li>
+            <li>AUX-Inf: vera, hafa, verða, vilja, geta, mega, mundu, fá, hefi, má</li>
+            <li>AUX-Part: haft, hafðir, hafður, verið, hafandi, höfð, skylduð, hafið, getið, hafðar</li>
+            <li>AUX-Sup: verið, haft, getað, viljað, mátt, getið, munt, fengið, hafið, munuð</li>
+            <li>CCONJ-Fin: eður, hverki, Hvörki, Né, efn, heldur</li>
+            <li>CCONJ-Part: annaðhvert, bæði, hvörki</li>
+            <li>DET-Fin: sá, engi, sjá, öngum, fá, eð, Nokkuru, inna, minna, Meir</li>
+            <li>DET-Inf: sjá, engi, minna, sá, fá, þenna, Margs, eð, ina, inna</li>
+            <li>DET-Part: engi, sjá, Ekkert, hitt, inir, nakkvað, nokkora, nökkvað</li>
+            <li>DET-Sup: Sjá, hitt, engi, hvört, nakkvað, nökkut, slitið</li>
+            <li>INTJ-Fin: Hei, Vei, duddu, Áví, Ó, Óhó</li>
+            <li>INTJ-Sup: Vei</li>
+            <li>NOUN-Fin: vilja, greinir, sakar, synda, syndir, engi, leið, hóf, mun, klæði</li>
+            <li>NOUN-Inf: votta, synda, vilja, elska, ráða, búa, galdra, skaða, anda, herða</li>
+            <li>NOUN-Part: búandi, náð, orðið, gerð, liðið, talið, ráðið, sæmd, byggðir, fagnað</li>
+            <li>NOUN-Sup: náð, sótt, búið, brest, ráðið, talið, féið, varnað, klæði, mein</li>
+            <li>NUM-Fin: Xii, fjörutigi, iiii, iiijr, vii</li>
+            <li>NUM-Part: sjö</li>
+            <li>PRON-Fin: voru, sér, vorum, eg, yðrum, vorar, yðrar, yðrir, órar, hvör</li>
+            <li>PRON-Inf: yðra, sinna, Hina, hvörja, minna, óra, þeira</li>
+            <li>PRON-Part: yðvart, eg, okkart, sér, vor, vorra</li>
+            <li>PRON-Sup: hitt, hvör, yðart</li>
+            <li>PROPN-Fin: Vali, sankti, Valdi, Georgíus, Maii, guði, Beljus, Belíus, Brúni, Guddu</li>
+            <li>PROPN-Inf: anda, Ótta, Antiokkia, Ermanus, Flegða, Loka, Mella, Pjatta, Syrpa, draga</li>
+            <li>PROPN-Part: Refur, Fiður, Herjuð, Mundt, Móður</li>
+            <li>PROPN-Sup: Ríkilað, Majst</li>
             <li>PUNCT-Fin: "</li>
-            <li>SCONJ-Fin: er, eð, Hver, at, eru, hvört</li>
-            <li>SCONJ-Inf: hvört</li>
-            <li>SCONJ-Part: Hvört</li>
-            <li>SCONJ-Sup: hvörri</li>
-            <li>VERB-Fin: sagði, segir, kom, mælti, varð, fór, tók, gekk, lét, hét</li>
-            <li>VERB-Inf: fara, sjá, segja, verða, taka, koma, láta, gera, ganga, halda</li>
+            <li>SCONJ-Fin: er, eð, at, eru, hvörri, hvört</li>
+            <li>SCONJ-Inf: er</li>
+            <li>SCONJ-Part: hvört</li>
+            <li>VERB-Fin: sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</li>
+            <li>VERB-Inf: fara, sjá, segja, taka, koma, láta, gera, ganga, halda, vita</li>
             <li>VERB-Part: kominn, sagt, komið, orðinn, komnir, komin, kallaður, getið, gert, farið</li>
-            <li>VERB-Sup: komið, séð, fengið, sagt, gert, tekið, farið, orðið, gjört, gefið</li>
-            <li>X-Fin: sankti, sicut, Creidii, Majst, datum, nostri, nostrum, patri</li>
-            <li>X-Inf: Ná, Sankti, Tírus, hyggja, nostra, sigla, tertia</li>
-            <li>X-Part: regerandi, regent</li>
-            <li>X-Sup: Sicut</li>
+            <li>VERB-Sup: komið, séð, fengið, gert, sagt, farið, tekið, orðið, gjört, gefið</li>
+            <li>X-Fin: Edimus, Item, Sicut, beati, nostra, nostri, omnium, patri, sankti, statuta</li>
+            <li>X-Inf: Ná, hyggja, libra, nostra, sigla, tertia</li>
+            <li>X-Part: regent, regerandi</li>
           </ul>
         </li>
       </ul>
@@ -1427,32 +1434,30 @@ udver: '2'
       <ul>
         <li>Mid
           <ul>
-            <li>ADJ-Fin: sannast, Atvinnulaust, betra, hentust, hreinsast, mandasta, nægst, skjótast, snarast, vandast</li>
-            <li>ADJ-Inf: fæstu, leiðast, meir, snjallast</li>
-            <li>ADJ-Part: minnst, vænst, Skoplegast, beinst, byrst, frægst, hægst, ragast, rállegast, sannast</li>
-            <li>ADJ-Sup: minnst, skjótast, vænst</li>
+            <li>ADJ-Fin: sannast, hentust, hreinsast, hreinst, nægst, snarast, þéttust</li>
+            <li>ADJ-Inf: leiðast, líkur, sannast, snjallast</li>
+            <li>ADJ-Part: vænst, Bezt, auðvíst, beinst, byrst, frægst, hægst, ragast, sýnst, þynnst</li>
+            <li>ADJ-Sup: áminnst, skírst, vænst</li>
             <li>ADP-Fin: næst</li>
-            <li>ADV-Fin: helst, næst, skjótast, snarast, frekast, hreystiligast, hæglegast, inst, vandligast</li>
-            <li>ADV-Inf: skjótast, glöggvast, Geyst, framast, léttast, þykkvast</li>
-            <li>ADV-Part: minnst, vísast</li>
-            <li>ADV-Sup: gerst, snarast, nærst</li>
-            <li>AUX-Fin: hafðist, hafast, höfðust, gast, fengust, hafist, hefðust, munuð, sért, varst</li>
+            <li>ADV-Fin: helst, næst, einast, skjótast, Geyst, Sicut, barðist, berjast, fengust, ferðast</li>
+            <li>ADV-Inf: framast, einast, skjótast, alloftast, gerr, helst, skírast, snarast, takast, vandast</li>
+            <li>ADV-Part: minnst</li>
+            <li>ADV-Sup: gerst, snarast, kynst, minnst, nærst, þankalaust</li>
+            <li>AUX-Fin: hafast, hafðist, munuð, sért, ert, fengust, hafist, hefðust, höfðust, mundi</li>
             <li>AUX-Inf: hafast, hafst</li>
-            <li>AUX-Sup: megið</li>
-            <li>DET-Sup: gerst</li>
-            <li>NOUN-Fin: prófast, Guðsást, bast, drustdrust, snjókast</li>
-            <li>NOUN-Inf: prófast, brest, finnast, steinkast, sumar</li>
-            <li>NOUN-Part: fýst</li>
-            <li>NOUN-Sup: blómstrakrans, brest, glest</li>
-            <li>PART-Fin: einast</li>
-            <li>PART-Inf: einast</li>
-            <li>PRON-Inf: þeira</li>
+            <li>DET-Fin: fæstu</li>
+            <li>DET-Inf: meir</li>
+            <li>DET-Part: minnst</li>
+            <li>DET-Sup: gerst, minnst</li>
+            <li>NOUN-Fin: prófast, bast, brest, drustdrust, veizlan</li>
+            <li>NOUN-Inf: prófast, finnast, glest, snjókast</li>
+            <li>PRON-Fin: eg, yðart</li>
             <li>PROPN-Fin: Majst</li>
-            <li>PROPN-Inf: Kristus</li>
-            <li>VERB-Fin: þóttist, fannst, kvaðst, kveðst, sýndist, komst, settist, gerðist, sýnist, sagðist</li>
+            <li>PUNCT-Sup: "</li>
+            <li>VERB-Fin: þóttist, kvaðst, fannst, kveðst, sýndist, komst, settist, gerðist, sagðist, sýnist</li>
             <li>VERB-Inf: komast, berjast, finnast, búast, setjast, takast, eignast, gefast, minnast, gerast</li>
-            <li>VERB-Part: komist, minnst, búist, sestur, barist, eignast, sest, sæst, áminnst, íklæðst</li>
-            <li>VERB-Sup: komist, tekist, gerst, fundist, búist, reynst, barist, öðlast, birst, eignast</li>
+            <li>VERB-Part: komist, minnst, búist, sestur, barist, eignast, áminnst, Barðist, aðhafst, búizt</li>
+            <li>VERB-Sup: komist, tekist, gerst, fundist, öðlast, barist, búist, reynst, eignast, birst</li>
             <li>X-Fin: Majst</li>
             <li>X-Part: Majst</li>
           </ul>
@@ -1515,17 +1520,17 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>ADJ: sama, sömu, sami, samri, sams, nokkura, sérhvers, hitt, nokkurum, samur</li>
-            <li>ADP: fyr, Þá, ór, það</li>
-            <li>ADV: þá, hvílík, hvílíka, sama, samt, þannin</li>
-            <li>AUX: vóru, var</li>
-            <li>DET: þetta, sá, þessi, þann, þessu, það, þeim, þessa, þessum, þá</li>
-            <li>NOUN: sá, þetta, þá, Návistu, sjálfa, sjálfan, Þessa, Þessir, þessi</li>
-            <li>NUM: hvorirtveggju</li>
-            <li>PRON: sjálfur, það, þeim, þeir, sjálfum, slíkt, þeirra, því, sjálfan, þá</li>
-            <li>PROPN: Þetta, Sjálfur, Sá, Hans, Lófar, Sú</li>
-            <li>SCONJ: það, hvílíkt</li>
-            <li>VERB: sá, sama, hitt, hét, kynni, sami, þeim</li>
+            <li>ADJ: sama, sömu, sami, samri, sams, hvílíkur, samur, glöggvasta, hvílík, samt</li>
+            <li>ADP: fyr, Þá, það</li>
+            <li>ADV: þá, hvílík, sama, sjálfum, glöggvasta, hvorsu, hvílíka, sjálfa, öðruvís, því</li>
+            <li>AUX: var, vóru</li>
+            <li>DET: þetta, sá, þessi, þann, þessu, það, þessa, þeim, þessum, þá</li>
+            <li>NOUN: sá, þetta, okurið, sjálfa, sjálfan, strendli, Þessir, þessi, þá</li>
+            <li>NUM: þess</li>
+            <li>PRON: sjálfur, það, þeim, þeir, sjálfum, slíkt, því, þeirra, sjálfan, þá</li>
+            <li>PROPN: Þetta, Sjálfur, Sá, Sú, Þeir</li>
+            <li>SCONJ: það, hverjar, hvílíkt</li>
+            <li>VERB: sá, hét, sama, minni, Lét, bera, biðjum, hitt, kynni, sami</li>
           </ul>
         </li>
       </ul>
@@ -1547,19 +1552,20 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>ADJ: allt, allir, öllum, alla, öllu, ekkert, öll, allra, enginn, nokkuð</li>
-            <li>ADP: alls</li>
-            <li>ADV: nokkuð, hvert, alls, ekkert, hverninn, allt, hvívetna, Eitthvað, helsti, hvað</li>
-            <li>AUX: mundi, megu, vóru</li>
-            <li>CCONJ: bæði, báðir</li>
-            <li>DET: einn, einu, eitt, hver, ein, hverjum, eina, einna, hvern, einni</li>
-            <li>NOUN: sumar, hver, engi, tigu, vor, öllum, Engin, Engum, Frú, annan</li>
-            <li>NUM: hvorttveggja, hvorutveggja, hvorstveggja, nokkurt, viij</li>
-            <li>PART: einn, ein, eina, einu, eitt</li>
+            <li>ADJ: annar, annan, annað, annars, einn, eins, öðru, vorri, aðra, sama</li>
+            <li>ADP: alls, fyr, eptir, ór</li>
+            <li>ADV: allir, allt, nokkuð, einn, hver, öll, alls, báðir, enginn, hvert</li>
+            <li>AUX: mundi, vóru, Myndi</li>
+            <li>CCONJ: bæði, annað, báðir, hverki</li>
+            <li>DET: allt, allir, öllum, alla, öllu, ekkert, öll, allra, enginn, nokkuð</li>
+            <li>NOUN: sumar, hver, vor, öllum, Engum, annan, einhverju, ekkert, engi, foldu</li>
+            <li>NUM: hvorttveggja, hvorutveggja, hvorstveggja, Hvort, ein, eina, hver, nokkurt</li>
+            <li>PART: ein</li>
             <li>PRON: annað, öðrum, annan, aðrir, annar, öðru, aðra, annars, önnur, hver</li>
-            <li>PROPN: Enginn, Sumar, Aðra, Aðrir, Einnhvern, Frú, Vítus, jesú</li>
-            <li>SCONJ: hvor, hvert, hvort, hverja, hver, hverjum, hvern, hvorn, hvers, hvorrar</li>
-            <li>VERB: vorar, hét, báðum, samir, bæði, foraukið, gert, gyrður, kenndust, kömur</li>
+            <li>PROPN: Enginn, Aðra, Aðrir, Bítlana, Hellismenn, Petrum, Reyðarmúla, Sumar</li>
+            <li>SCONJ: hvor, hvert, hverja, hvort, hver, hverjum, hvern, hvorn, hvers, hvorrar</li>
+            <li>VERB: vorar, báðum, ann, entri, forþént, hét, inntakast, kenndust, krafður, reifður</li>
+            <li>X: Dominus, Tírus, regnum, sankti</li>
           </ul>
         </li>
       </ul>
@@ -1582,14 +1588,15 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>ADJ: hver, hverju, hvers, hvern, hverjir, hvað, hverjar, hvort, Hvor, alls</li>
-            <li>ADV: hvað, hvert, hvers, Dæmalaust, hver</li>
-            <li>AUX: fekk, vildi</li>
-            <li>DET: hvaða, hvað, hver, hverjir, hverjar, Hverja, hverra, Hvern, hvers, hvert</li>
-            <li>NOUN: hver</li>
+            <li>ADJ: hver</li>
+            <li>ADV: hvað, hvert, hvers</li>
+            <li>AUX: vildi</li>
+            <li>DET: hver, hvaða, hvað, hverju, hverjir, hvers, hvern, hverjar, hverja, hvert</li>
+            <li>NOUN: hver, hold</li>
+            <li>NUM: hvorutveggja, xij</li>
             <li>PRON: hvað, hver, hverju, hvers, hverjir, hverra, hvern, hverja, hverjar, vorar</li>
-            <li>SCONJ: hverjar, hverjir, hvaða, hver, hvert, hverju, hvort</li>
-            <li>VERB: hvað, vorar, Biðjist, Gagnaðist, Hryggist, setgja, Þvoi</li>
+            <li>SCONJ: hver, hverjar, hverjir, hvert, hvaða, hverju, hvort</li>
+            <li>VERB: hvað, vorar</li>
           </ul>
         </li>
       </ul>
@@ -1609,19 +1616,20 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>ADJ: mitt, minna, minni, nokkura, vorra, algilda, fleira, flest, hvörjir, kunnigt</li>
-            <li>ADP: við, því, Það, ór, þá</li>
-            <li>ADV: þá, því, sér, mitt, best, eg, eigi, fyr, gerr, snimma</li>
-            <li>AUX: vorum, sér, vóru</li>
-            <li>DET: það, þeim, því, þeir, þess, þau, þeirra, þá, þær, þenna</li>
+            <li>ADJ: mitt, H., Tóm, almáttkan, elskuligan, kunnigt, minna, sitt, sæt, sér</li>
+            <li>ADP: við, fyr, því, eftir, Það</li>
+            <li>ADV: þá, því, sér, mitt, það, þeir, þú, hann, þess, fyr</li>
+            <li>AUX: sér, vorum, meguð, var</li>
+            <li>DET: það, þeim, því, þeir, þess, þau, þeirra, þá, þær, minna</li>
             <li>INTJ: hana</li>
-            <li>NOUN: sinn, Þú, ég, sinni, hann, mér, eg, sér, vorra, hún</li>
-            <li>NUM: þess, þeir</li>
+            <li>NOUN: sinn, sinni, Þú, ég, hann, mér, sér, eg, vorra, hún</li>
+            <li>NUM: hvorttveggja, þeir, þess</li>
             <li>PRON: hann, það, þeir, því, ég, eg, honum, hans, hún, þú</li>
-            <li>PROPN: Hann, Eg, Þú, Ég, Hans, Þér, Vér, Hún, Þeir, Því</li>
+            <li>PROPN: Hann, Eg, Þú, Ég, Hans, Þér, Vér, Hún, Helga, Mér</li>
             <li>PUNCT: "</li>
-            <li>SCONJ: það, hverjar</li>
-            <li>VERB: sér, ann, vora, búinn, efa, hann, komt, krossfesta, leyst, minna</li>
+            <li>SCONJ: það</li>
+            <li>VERB: sér, minna, vora, ann, bannaða, brennanda, dansandi, fanst, fyltist, gerði</li>
+            <li>X: Holofernis, Majst</li>
           </ul>
         </li>
       </ul>
@@ -1653,18 +1661,18 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>ADJ: 1., 5., 10., 7., 4., 9., átta, einn, 16., 2.</li>
-            <li>ADP: ein</li>
-            <li>ADV: eins, EIGI, hvorsu</li>
+            <li>ADJ: 5., 1., 7., 10., 4., 3., 9., átta, 16., 2.</li>
+            <li>ADV: einn, tveir, einum, eitt, þrír, tvö, átta, ein, eins, einu</li>
             <li>DET: einn, eitt, einum, ein, eina, einu, einni, eins, einnar, 1</li>
-            <li>NOUN: hundruð, hundrað, móti, þúsund, tigu, goþ, hȧr, sex, xvj, ǫ</li>
-            <li>NUM: tveir, tólf, tvo, fimm, sex, tvö, 3, þrír, sjö, 4</li>
-            <li>PART: einum, einn, eitt, eina, einni, ein, einar, einu</li>
-            <li>PRON: Einn, hvörs, sjálfs, yðru, Þeim</li>
-            <li>PROPN: 1, I, 3., 4., Jesaja, V, Herkúl, Iulium</li>
-            <li>PUNCT: ", –, —</li>
-            <li>VERB: átta, glíkja, grátandi, játim, megu, smámolast</li>
-            <li>X: Item, tuum</li>
+            <li>INTJ: du</li>
+            <li>NOUN: hundruð, hundrað, móti, þúsund, brautu, hndr, sex, vj, ד, Bræður</li>
+            <li>NUM: tólf, tveir, tvo, fimm, sex, tvö, 3, sjö, þrír, 2</li>
+            <li>PART: einu, eitt</li>
+            <li>PRON: hvörri, ór</li>
+            <li>PROPN: 1, 4., I, 3., Jesaja, Tyrkjaskipið</li>
+            <li>PUNCT: ", —</li>
+            <li>VERB: átta, firrði, hylmast, lifir, bera, hvella</li>
+            <li>X: Item</li>
           </ul>
         </li>
       </ul>
@@ -1678,7 +1686,10 @@ udver: '2'
       <ul>
         <li>Frac
           <ul>
-            <li>ADV: jafnan</li>
+            <li>ADJ: almáttkan, vǫn</li>
+            <li>NOUN: ui, xx</li>
+            <li>NUM: ij</li>
+            <li>PUNCT: "</li>
           </ul>
         </li>
       </ul>
@@ -1692,8 +1703,9 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>NOUN: hundruð, líkams</li>
-            <li>NUM: tvö, fimm, fjögur, þrjú, hundruð, tólf, tuttugu, níu, sjö, sex</li>
+            <li>DET: hvaða</li>
+            <li>NOUN: hundruð, þúsund</li>
+            <li>NUM: tvö, fjögur, þrjú, fimm, tólf, hundruð, tuttugu, þrjá, fjörutíu, níu</li>
             <li>PROPN: Tvö</li>
           </ul>
         </li>
@@ -1752,26 +1764,27 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>ADJ: engi, öngum, göfgum, syndgum, trúi, Fám, auðgum, flest, fáum, girskum</li>
-            <li>ADJ-Fin: engi, öngum, göfgum, syndgum, trúi, Fám, auðgum, fáum, girskum, helgum</li>
-            <li>ADP: við, á, fyr, yðrum</li>
+            <li>ADJ-Fin: syndgum, göfgum, Vei, auðgum, blessuðum, fríum, fáum, heilum, helgum, kæri</li>
+            <li>ADP: við, á, eftir, fyr, yðrum</li>
             <li>ADP-Fin: á, fyr, yðrum</li>
-            <li>ADV: eigi, Forðum, Máske, Nær, best, dvel, eg, gerr, helst, laust</li>
-            <li>ADV-Fin: eigi, Forðum, Máske, Nær, dvel, helst, laust, rétt, var, vel</li>
-            <li>AUX-Fin: var, vil, er, hefi, mun, hef, skulum, hafði, skal, erum</li>
-            <li>CCONJ-Fin: efn, hverki</li>
-            <li>DET-Fin: sá, Hinum</li>
-            <li>INTJ-Fin: Ó, Hó, Vei, Áví, Óhó</li>
-            <li>NOUN: ég, mér, eg, lyktum, Vér, elska, englum, klæði, klæðum, pínum</li>
-            <li>NOUN-Fin: lyktum, elska, englum, klæði, klæðum, pínum, sættum, sýnum, limum, lýðum</li>
-            <li>PRON: ég, eg, mér, vér, mig, oss, við, okkur, mín, okkar</li>
-            <li>PRON-Fin: vorum, eg, yðrum, hvörjum, Hina, hver, hvörja, hvörra, hvörri, sá</li>
-            <li>PROPN: Eg, Ég, Vér, Frú, Mér, Pjatti, Skafti</li>
-            <li>PROPN-Fin: Pjatti, Skafti</li>
+            <li>ADV-Fin: eigi, forðum, fer, fór, Nær, aldri, dvel, helst, kann, kem</li>
+            <li>AUX-Fin: var, vil, er, hefi, mun, skal, skulum, erum, hef, höfum</li>
+            <li>CCONJ-Fin: hverki, Né, efn</li>
+            <li>DET: sá, öngum, engi, einkis, hvörjir, hvörjum, þeim</li>
+            <li>DET-Fin: sá, öngum, engi, einkis, hvörjum</li>
+            <li>INTJ-Fin: Hei, Áví, Ó, Óhó</li>
+            <li>NOUN: ég, mér, eg, klæðum, sóttum, Vér, borðum, klæði, lyktum, syndum</li>
+            <li>NOUN-Fin: klæðum, sóttum, borðum, klæði, lyktum, syndum, ættum, herinum, lýðum, meinum</li>
+            <li>PRON: eg, ég, mér, vér, mig, oss, við, okkur, mín, okkar</li>
+            <li>PRON-Fin: vorum, eg, yðrum, hvörja, hvörjum, Annaðhvört, hver, örðum, þeim</li>
+            <li>PROPN: Eg, Ég, Vér, Georgíus, Mér, Vali</li>
+            <li>PROPN-Fin: Georgíus, Vali</li>
             <li>PUNCT: "</li>
             <li>SCONJ-Fin: er</li>
-            <li>VERB-Fin: veit, fór, segi, sá, fékk, ætla, kom, tók, lét, sé</li>
-            <li>X-Fin: datum, nostrum</li>
+            <li>VERB: veit, fór, segi, fékk, sá, ætla, kom, tók, sé, lét</li>
+            <li>VERB-Fin: veit, fór, segi, fékk, sá, ætla, kom, tók, sé, lét</li>
+            <li>X: Majst, omnium</li>
+            <li>X-Fin: omnium</li>
           </ul>
         </li>
       </ul>
@@ -1796,26 +1809,26 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>ADJ: nokkuru, verðir, Fúnuðu, Heill, Hásu, Lítið, Næstur, engi, engvan, hlýðið</li>
-            <li>ADJ-Fin: nokkuru, verðir, Fúnuðu, Heill, Hásu, Lítið, Næstur, engi, engvan, hlýðið</li>
-            <li>ADP-Fin: fyr, Nær, Þótt</li>
-            <li>ADV-Fin: nær, Hvörsu, alltið, eigi, einnin, heldur, hvört, ætlið</li>
-            <li>AUX-Fin: ert, hefir, hefur, hafið, eruð, skalt, vilt, skuluð, munt, viljið</li>
+            <li>ADJ-Fin: verðir, Heill, Hásu, Nakið, Skamt, Skjót, heilagrar, hlýðið, löstu, mildi</li>
+            <li>ADP: fyr, Nær</li>
+            <li>ADP-Fin: fyr, Nær</li>
+            <li>ADV: nær, þú, eigi, heldur, hvört, gerr, hvörsu, kemur, mætir, starfar</li>
+            <li>ADV-Fin: nær, eigi, heldur, hvört, gerr, hvörsu, kemur, mætir, starfar, takið</li>
+            <li>AUX-Fin: ert, hefir, hefur, eruð, hafið, skalt, vilt, munt, skuluð, viljið</li>
             <li>CCONJ-Fin: hverki</li>
-            <li>DET: sjá, þeim</li>
-            <li>DET-Fin: sjá</li>
-            <li>INTJ-Fin: Vei, duddu</li>
-            <li>NOUN: Þú, þér, Stundu, sverð, Furðu, Grið, Menu, Sverðið, byrði, búið</li>
-            <li>NOUN-Fin: Stundu, sverð, Furðu, Grið, Menu, Sverðið, byrði, búið, dirfzku, eig</li>
+            <li>DET: sjá, engi, Nokkuru, engvan, fæstu, meiri, nökkut, þeim</li>
+            <li>DET-Fin: sjá, engi, Nokkuru, engvan, fæstu, meiri, nökkut</li>
+            <li>INTJ-Fin: duddu</li>
+            <li>NOUN: Þú, þér, sverð, hurðu, Furðu, Grið, Stundu, Sverðið, búið, dirfzku</li>
+            <li>NOUN-Fin: sverð, hurðu, Furðu, Grið, Stundu, Sverðið, búið, dirfzku, eig, far</li>
             <li>PRON: þú, þér, yður, þig, yðar, þið, þín, ykkur, ykkar, eg</li>
-            <li>PRON-Fin: hvörju, hvörs, eg, hverir, hvörja, hvörn, yðrir, óru, þaug, þeirra</li>
-            <li>PROPN: Þú, Þér, Hafið, Myntu, Pálus, Ótryggur, Þig</li>
-            <li>PROPN-Fin: Hafið, Myntu, Pálus</li>
+            <li>PRON-Fin: eg, hvörju, hvörn, hvörs, hvörja, hvörra, yðru, þaug, þínun</li>
+            <li>PROPN: Þú, Þér, Yxu, Þig</li>
+            <li>PROPN-Fin: Yxu</li>
             <li>PUNCT: "</li>
             <li>PUNCT-Fin: "</li>
-            <li>SCONJ-Fin: Hver, at</li>
-            <li>VERB-Fin: lát, sjáið, segir, segið, veist, ætlar, sjá, seg, vitið, látið</li>
-            <li>X-Fin: Majst</li>
+            <li>SCONJ-Fin: er, at</li>
+            <li>VERB-Fin: sjáið, segið, lát, ætlar, segir, veist, vitið, átt, gef, seg</li>
           </ul>
         </li>
       </ul>
@@ -1837,20 +1850,20 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>ADJ-Fin: engi, verður, var, sannast, fær, nær, ríkir, átti, fá, syndgir</li>
-            <li>ADP-Fin: á, fyr, nær, eptir, Meður, er, gegni, gegnt, gegnum, næst</li>
-            <li>ADV-Fin: eigi, nær, heldur, snart, helst, fyr, næst, braut, aldri, kann</li>
-            <li>AUX-Fin: var, er, hafði, voru, væri, eru, hefði, hefir, sé, höfðu</li>
-            <li>CCONJ-Fin: eður, Hvörki</li>
-            <li>DET-Fin: sá, sjá, eð, Sé, enu, hvörri, inna</li>
-            <li>INTJ-Fin: Hei</li>
-            <li>NOUN-Fin: vilja, greinir, synda, sakar, syndir, engi, leið, mun, hjálpar, hóf</li>
-            <li>PART-Fin: einast</li>
-            <li>PRON-Fin: voru, sér, vorar, yðrar, yðrir, sinna, yðra, órar, hvörju, hvör</li>
-            <li>PROPN-Fin: sankti, Majst, Valdi, guði, hertug, Ótta, Belíus, Brúni, Fiður, Karatti</li>
-            <li>SCONJ-Fin: er, eð, eru, hvört</li>
-            <li>VERB-Fin: sagði, segir, kom, mælti, varð, tók, gekk, fór, hét, kemur</li>
-            <li>X-Fin: Majst, sankti, sicut, Creidii, nostri, patri</li>
+            <li>ADJ-Fin: verður, var, fær, nær, ríkir, sannast, átti, syndgir, varir, fegri</li>
+            <li>ADP-Fin: á, fyr, nær, eptir, Meður, gegni, héreftir, næst, so, sér</li>
+            <li>ADV-Fin: eigi, nær, heldur, snart, helst, fór, braut, fyr, kann, mátti</li>
+            <li>AUX-Fin: var, er, voru, hafði, væri, eru, hefði, sé, mun, skyldi</li>
+            <li>CCONJ-Fin: eður, Hvörki, heldur</li>
+            <li>DET-Fin: sá, engi, fá, eð, inna, minna, sjá, Meir, Nokkuru, Sé</li>
+            <li>INTJ-Fin: Vei</li>
+            <li>NOUN-Fin: vilja, greinir, sakar, synda, syndir, engi, leið, mun, hóf, mætti</li>
+            <li>NUM-Fin: Xii, fjörutigi, iiii, iiijr, vii</li>
+            <li>PRON-Fin: voru, sér, vorar, yðrar, yðrir, órar, hvör, sinna, yðra, vér</li>
+            <li>PROPN-Fin: Vali, sankti, Valdi, Maii, Majst, guði, Beljus, Belíus, Brúni, Guddu</li>
+            <li>SCONJ-Fin: er, eð, eru, hvörri, hvört</li>
+            <li>VERB-Fin: sagði, segir, kom, mælti, tók, varð, gekk, fór, hét, lét</li>
+            <li>X-Fin: Majst, Edimus, Item, Sicut, beati, nostra, nostri, patri, sankti, statuta</li>
           </ul>
         </li>
       </ul>
@@ -1909,21 +1922,20 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: engi, Vant, craPa, iiii, ilt, mart, sceót, vi, Alt, Aum</li>
-                <li>ADP: of, fyr, umb, Und, gagnvert, intra, so</li>
-                <li>ADV: ei, so, ogsvo, fraMe, hvernug, nu, Allvel, Fullvel, Opt, afarvel</li>
-                <li>AUX: Vil, man, mundi, Hefi, emk, er, hafi, hefoi, meguð, myni</li>
+                <li>ADJ: Vant, Aum, Darius, Heil, iiii, Besti, Gamall, Heili, Italiani, Ofanvert</li>
+                <li>ADP: fyr, of, umb, Und, intra, nama</li>
+                <li>ADV: ei, sicut, so, ogsvo, Mart, item, fraMe, nu, Allvel, Brott</li>
+                <li>AUX: Vil, man, myni, Munu, Vilda, emk, er, hefir, hefoi, séim</li>
                 <li>CCONJ: oc, et</li>
-                <li>DET: in, ins, inum, ina, þenna, inu, enu, enum, inir, Eina</li>
-                <li>INTJ: Hei, Jaaaá, hahaha, he, O, Blubbs, Ne-ei, Nja, Sei-sei</li>
-                <li>NOUN: son, anno, dal, hold, Majestets, hertug, von, kap, Majestet, altera</li>
-                <li>NUM: iiij, iij, ij, iiii, xii, ix, vii, ccc, ellifu, ijur</li>
-                <li>PRON: Oss, Soddan, huer, yðars, þeira, Haun, Hverju, Sitt, Vor, Vort</li>
-                <li>PROPN: Erasmus, Metternich, Darius, Vali, Pelissier, Dominus, Menon, Moyses, Marmier, Thiers</li>
-                <li>PUNCT: "</li>
-                <li>SCONJ: Hvatki, er</li>
-                <li>VERB: Bar, Gessovel, Tak, Spyr, Ger, Seg, talt, Gef, Heyr, Merk</li>
-                <li>X: anno, in, item, domini, sicut, et, Dominus, etc, de, Achior</li>
+                <li>DET: in, ins, þenna, engi, ina, inu, inum, mart, enu, inar</li>
+                <li>INTJ: Hei, Jaaaá, hahaha, he, Vei, Bless, Blubbs, Eia, Hahahaha, O</li>
+                <li>NOUN: son, anno, dal, kap, Majestets, hold, hertug, leon, von, eyxn</li>
+                <li>NUM: ij, iij, iiij, iiii, xii, vii, ccc, e, ix, xi</li>
+                <li>PRON: Oss, þaug, huer, þeira, Haun, Minn, Sitt, Soddan, Vor, Vort</li>
+                <li>PROPN: Erasmus, Metternich, Darius, Vali, Dominus, Pelissier, Moyses, Menon, Petrus, Thiers</li>
+                <li>PUNCT: —</li>
+                <li>VERB: Bar, Tak, Gessovel, Ger, Vita, Heyr, Komu, Tel, talt, Seg</li>
+                <li>X: anno, in, item, domini, et, Dominus, etc, de, Achior, corpus</li>
               </ul>
             </li>
           </ul>
@@ -1974,7 +1986,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 8 lemmas as copulas (<a>cop</a>). Examples: vera, blífa, en, koma, s, sjá, uppvera, vita.</li>
+      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: vera, blífa.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -1990,12 +2002,12 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus uses 1182 lemmas as auxiliaries (<a>aux</a>). Examples: hafa, munu, skulu, vilja, mega, geta, verða, gera, fá, búa, segja, taka, bera, líða, kalla, setja, gefa, koma, sjá, halda, mæla, láta, blessa, fæða, tala, heyra, ljúka, nefna, leggja, fara, dæma, brjóta, drekka, drepa, vinna, ráða, skapa, skilja, veita, binda, enda, ganga, læra, bjóða, byggja, falla, senda, lofa, líta, ríkja.</li>
+      <li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: hafa, munu, skulu, vilja, mega, geta, verða, fá, kunna.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: vera, hafa, geta, munu, mega, verða, skulu, eiga.</li>
+      <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: vera, hafa, geta, munu, mega, verða, skulu.</li>
       </ul>
     </td>
   </tr>
@@ -2007,58 +2019,58 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (84)</li>
-            <li>VERB--NOUN-Acc (117)</li>
-            <li>VERB--NOUN-Dat (71)</li>
-            <li>VERB--NOUN-Gen (23)</li>
-            <li>VERB--NOUN-Nom (1005)</li>
-            <li>VERB--PRON (777)</li>
-            <li>VERB--PRON-Acc (113)</li>
-            <li>VERB--PRON-Dat (215)</li>
-            <li>VERB--PRON-Gen (15)</li>
-            <li>VERB--PRON-Nom (1807)</li>
-            <li>VERB-Fin--NOUN (107)</li>
-            <li>VERB-Fin--NOUN-Acc (648)</li>
-            <li>VERB-Fin--NOUN-Dat (486)</li>
-            <li>VERB-Fin--NOUN-Gen (87)</li>
-            <li>VERB-Fin--NOUN-Nom (11746)</li>
-            <li>VERB-Fin--PRON (251)</li>
-            <li>VERB-Fin--PRON-Acc (847)</li>
-            <li>VERB-Fin--PRON-Dat (2285)</li>
-            <li>VERB-Fin--PRON-Gen (120)</li>
-            <li>VERB-Fin--PRON-Nom (26357)</li>
+            <li>VERB--NOUN (92)</li>
+            <li>VERB--NOUN-Acc (179)</li>
+            <li>VERB--NOUN-Dat (181)</li>
+            <li>VERB--NOUN-Gen (20)</li>
+            <li>VERB--NOUN-Nom (1134)</li>
+            <li>VERB--PRON (887)</li>
+            <li>VERB--PRON-Acc (108)</li>
+            <li>VERB--PRON-Dat (257)</li>
+            <li>VERB--PRON-Gen (11)</li>
+            <li>VERB--PRON-Nom (1993)</li>
+            <li>VERB-Fin--NOUN (121)</li>
+            <li>VERB-Fin--NOUN-Acc (651)</li>
+            <li>VERB-Fin--NOUN-Dat (553)</li>
+            <li>VERB-Fin--NOUN-Gen (78)</li>
+            <li>VERB-Fin--NOUN-Nom (11848)</li>
+            <li>VERB-Fin--PRON (255)</li>
+            <li>VERB-Fin--PRON-Acc (842)</li>
+            <li>VERB-Fin--PRON-Dat (2301)</li>
+            <li>VERB-Fin--PRON-Gen (103)</li>
+            <li>VERB-Fin--PRON-Nom (27150)</li>
             <li>VERB-Fin--PRON-Nom-ADP(hjá) (1)</li>
             <li>VERB-Fin--PRON-Nom-ADP(til) (1)</li>
-            <li>VERB-Inf--NOUN (37)</li>
-            <li>VERB-Inf--NOUN-Acc (404)</li>
-            <li>VERB-Inf--NOUN-Dat (29)</li>
-            <li>VERB-Inf--NOUN-Gen (29)</li>
-            <li>VERB-Inf--NOUN-Nom (1041)</li>
-            <li>VERB-Inf--PRON (441)</li>
-            <li>VERB-Inf--PRON-Acc (529)</li>
-            <li>VERB-Inf--PRON-Dat (337)</li>
-            <li>VERB-Inf--PRON-Gen (19)</li>
-            <li>VERB-Inf--PRON-Nom (3969)</li>
-            <li>VERB-Part--NOUN (20)</li>
-            <li>VERB-Part--NOUN-Acc (78)</li>
-            <li>VERB-Part--NOUN-Dat (219)</li>
-            <li>VERB-Part--NOUN-Gen (30)</li>
-            <li>VERB-Part--NOUN-Nom (1434)</li>
-            <li>VERB-Part--PRON (35)</li>
-            <li>VERB-Part--PRON-Acc (45)</li>
-            <li>VERB-Part--PRON-Dat (330)</li>
-            <li>VERB-Part--PRON-Gen (41)</li>
-            <li>VERB-Part--PRON-Nom (1300)</li>
-            <li>VERB-Sup--NOUN (11)</li>
-            <li>VERB-Sup--NOUN-Acc (59)</li>
-            <li>VERB-Sup--NOUN-Dat (30)</li>
-            <li>VERB-Sup--NOUN-Gen (8)</li>
-            <li>VERB-Sup--NOUN-Nom (951)</li>
+            <li>VERB-Inf--NOUN (35)</li>
+            <li>VERB-Inf--NOUN-Acc (463)</li>
+            <li>VERB-Inf--NOUN-Dat (34)</li>
+            <li>VERB-Inf--NOUN-Gen (26)</li>
+            <li>VERB-Inf--NOUN-Nom (1043)</li>
+            <li>VERB-Inf--PRON (455)</li>
+            <li>VERB-Inf--PRON-Acc (486)</li>
+            <li>VERB-Inf--PRON-Dat (330)</li>
+            <li>VERB-Inf--PRON-Gen (13)</li>
+            <li>VERB-Inf--PRON-Nom (4014)</li>
+            <li>VERB-Part--NOUN (32)</li>
+            <li>VERB-Part--NOUN-Acc (104)</li>
+            <li>VERB-Part--NOUN-Dat (279)</li>
+            <li>VERB-Part--NOUN-Gen (36)</li>
+            <li>VERB-Part--NOUN-Nom (1585)</li>
+            <li>VERB-Part--PRON (48)</li>
+            <li>VERB-Part--PRON-Acc (51)</li>
+            <li>VERB-Part--PRON-Dat (442)</li>
+            <li>VERB-Part--PRON-Gen (54)</li>
+            <li>VERB-Part--PRON-Nom (1551)</li>
+            <li>VERB-Sup--NOUN (14)</li>
+            <li>VERB-Sup--NOUN-Acc (65)</li>
+            <li>VERB-Sup--NOUN-Dat (46)</li>
+            <li>VERB-Sup--NOUN-Gen (10)</li>
+            <li>VERB-Sup--NOUN-Nom (923)</li>
             <li>VERB-Sup--PRON (39)</li>
-            <li>VERB-Sup--PRON-Acc (109)</li>
-            <li>VERB-Sup--PRON-Dat (184)</li>
-            <li>VERB-Sup--PRON-Gen (8)</li>
-            <li>VERB-Sup--PRON-Nom (3212)</li>
+            <li>VERB-Sup--PRON-Acc (108)</li>
+            <li>VERB-Sup--PRON-Dat (191)</li>
+            <li>VERB-Sup--PRON-Gen (12)</li>
+            <li>VERB-Sup--PRON-Nom (3183)</li>
           </ul>
         </li>
       </ul>
@@ -2081,12 +2093,12 @@ udver: '2'
             <li>VERB-Fin--PRON (1)</li>
             <li>VERB-Fin--PRON-Acc (2)</li>
             <li>VERB-Fin--PRON-Dat (11)</li>
-            <li>VERB-Fin--PRON-Nom (260)</li>
+            <li>VERB-Fin--PRON-Nom (261)</li>
             <li>VERB-Inf--NOUN-Acc (5)</li>
             <li>VERB-Inf--NOUN-Dat (2)</li>
             <li>VERB-Inf--NOUN-Nom (11)</li>
             <li>VERB-Inf--PRON-Acc (2)</li>
-            <li>VERB-Inf--PRON-Nom (18)</li>
+            <li>VERB-Inf--PRON-Nom (17)</li>
             <li>VERB-Part--NOUN-Acc (5)</li>
             <li>VERB-Part--NOUN-Acc-ADP(fyrir) (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(um) (1)</li>
@@ -2111,57 +2123,64 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (139)</li>
-            <li>VERB--NOUN-Acc (656)</li>
-            <li>VERB--NOUN-Dat (245)</li>
-            <li>VERB--NOUN-Gen (115)</li>
-            <li>VERB--NOUN-Nom (323)</li>
+            <li>VERB--NOUN (147)</li>
+            <li>VERB--NOUN-Acc (669)</li>
+            <li>VERB--NOUN-Dat (260)</li>
+            <li>VERB--NOUN-Gen (113)</li>
+            <li>VERB--NOUN-Nom (336)</li>
             <li>VERB--PRON (78)</li>
-            <li>VERB--PRON-Acc (266)</li>
-            <li>VERB--PRON-Dat (140)</li>
+            <li>VERB--PRON-Acc (280)</li>
+            <li>VERB--PRON-Dat (135)</li>
             <li>VERB--PRON-Gen (33)</li>
-            <li>VERB--PRON-Nom (182)</li>
-            <li>VERB-Fin--NOUN (251)</li>
-            <li>VERB-Fin--NOUN-Acc (8970)</li>
+            <li>VERB--PRON-Nom (191)</li>
+            <li>VERB-Fin--NOUN (288)</li>
+            <li>VERB-Fin--NOUN-Acc (9709)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(og) (1)</li>
-            <li>VERB-Fin--NOUN-Dat (1999)</li>
-            <li>VERB-Fin--NOUN-Gen (600)</li>
-            <li>VERB-Fin--NOUN-Nom (1354)</li>
-            <li>VERB-Fin--PRON (330)</li>
-            <li>VERB-Fin--PRON-Acc (3502)</li>
-            <li>VERB-Fin--PRON-Dat (1488)</li>
-            <li>VERB-Fin--PRON-Gen (276)</li>
-            <li>VERB-Fin--PRON-Nom (1515)</li>
-            <li>VERB-Inf--NOUN (121)</li>
-            <li>VERB-Inf--NOUN-Acc (4379)</li>
-            <li>VERB-Inf--NOUN-Dat (1027)</li>
-            <li>VERB-Inf--NOUN-Gen (346)</li>
-            <li>VERB-Inf--NOUN-Nom (312)</li>
+            <li>VERB-Fin--NOUN-Dat (2044)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(af) (1)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(fyrir) (1)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(með) (1)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(í) (1)</li>
+            <li>VERB-Fin--NOUN-Gen (633)</li>
+            <li>VERB-Fin--NOUN-Nom (1461)</li>
+            <li>VERB-Fin--PRON (356)</li>
+            <li>VERB-Fin--PRON-Acc (3611)</li>
+            <li>VERB-Fin--PRON-Dat (1491)</li>
+            <li>VERB-Fin--PRON-Gen (294)</li>
+            <li>VERB-Fin--PRON-Nom (1598)</li>
+            <li>VERB-Inf--NOUN (123)</li>
+            <li>VERB-Inf--NOUN-Acc (4451)</li>
+            <li>VERB-Inf--NOUN-Dat (1044)</li>
+            <li>VERB-Inf--NOUN-Dat-ADP(í) (2)</li>
+            <li>VERB-Inf--NOUN-Gen (338)</li>
+            <li>VERB-Inf--NOUN-Nom (339)</li>
             <li>VERB-Inf--PRON (79)</li>
-            <li>VERB-Inf--PRON-Acc (2010)</li>
-            <li>VERB-Inf--PRON-Dat (737)</li>
-            <li>VERB-Inf--PRON-Gen (184)</li>
-            <li>VERB-Inf--PRON-Nom (321)</li>
-            <li>VERB-Part--NOUN (10)</li>
-            <li>VERB-Part--NOUN-Acc (130)</li>
-            <li>VERB-Part--NOUN-Dat (65)</li>
-            <li>VERB-Part--NOUN-Gen (17)</li>
-            <li>VERB-Part--NOUN-Nom (133)</li>
+            <li>VERB-Inf--PRON-Acc (2043)</li>
+            <li>VERB-Inf--PRON-Dat (724)</li>
+            <li>VERB-Inf--PRON-Dat-ADP(eftir) (1)</li>
+            <li>VERB-Inf--PRON-Gen (185)</li>
+            <li>VERB-Inf--PRON-Nom (329)</li>
+            <li>VERB-Part--NOUN (9)</li>
+            <li>VERB-Part--NOUN-Acc (123)</li>
+            <li>VERB-Part--NOUN-Dat (63)</li>
+            <li>VERB-Part--NOUN-Gen (20)</li>
+            <li>VERB-Part--NOUN-Nom (159)</li>
             <li>VERB-Part--PRON (14)</li>
-            <li>VERB-Part--PRON-Acc (46)</li>
-            <li>VERB-Part--PRON-Dat (31)</li>
-            <li>VERB-Part--PRON-Gen (7)</li>
-            <li>VERB-Part--PRON-Nom (92)</li>
-            <li>VERB-Sup--NOUN (30)</li>
-            <li>VERB-Sup--NOUN-Acc (1395)</li>
-            <li>VERB-Sup--NOUN-Dat (318)</li>
-            <li>VERB-Sup--NOUN-Gen (77)</li>
-            <li>VERB-Sup--NOUN-Nom (154)</li>
-            <li>VERB-Sup--PRON (26)</li>
-            <li>VERB-Sup--PRON-Acc (686)</li>
-            <li>VERB-Sup--PRON-Dat (240)</li>
-            <li>VERB-Sup--PRON-Gen (35)</li>
-            <li>VERB-Sup--PRON-Nom (202)</li>
+            <li>VERB-Part--PRON-Acc (55)</li>
+            <li>VERB-Part--PRON-Dat (35)</li>
+            <li>VERB-Part--PRON-Gen (12)</li>
+            <li>VERB-Part--PRON-Nom (119)</li>
+            <li>VERB-Sup--NOUN (31)</li>
+            <li>VERB-Sup--NOUN-Acc (1421)</li>
+            <li>VERB-Sup--NOUN-Dat (314)</li>
+            <li>VERB-Sup--NOUN-Dat-ADP(af) (2)</li>
+            <li>VERB-Sup--NOUN-Gen (74)</li>
+            <li>VERB-Sup--NOUN-Nom (152)</li>
+            <li>VERB-Sup--PRON (30)</li>
+            <li>VERB-Sup--PRON-Acc (676)</li>
+            <li>VERB-Sup--PRON-Dat (237)</li>
+            <li>VERB-Sup--PRON-Gen (37)</li>
+            <li>VERB-Sup--PRON-Nom (207)</li>
           </ul>
         </li>
       </ul>
@@ -2186,12 +2205,12 @@ udver: '2'
             <li>VERB-Fin--PRON-Gen (2)</li>
             <li>VERB-Fin--PRON-Nom (5)</li>
             <li>VERB-Inf--NOUN (1)</li>
-            <li>VERB-Inf--NOUN-Acc (148)</li>
+            <li>VERB-Inf--NOUN-Acc (149)</li>
             <li>VERB-Inf--NOUN-Dat (34)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(á) (1)</li>
             <li>VERB-Inf--NOUN-Gen (2)</li>
             <li>VERB-Inf--NOUN-Nom (4)</li>
-            <li>VERB-Inf--PRON-Acc (20)</li>
+            <li>VERB-Inf--PRON-Acc (19)</li>
             <li>VERB-Inf--PRON-Dat (8)</li>
             <li>VERB-Part--NOUN-Acc (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(við) (1)</li>
@@ -2215,52 +2234,50 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN (4)</li>
-            <li>VERB--NOUN-Acc (4)</li>
-            <li>VERB--NOUN-Dat (34)</li>
-            <li>VERB--NOUN-Gen (2)</li>
-            <li>VERB--NOUN-Nom (3)</li>
+            <li>VERB--NOUN (6)</li>
+            <li>VERB--NOUN-Acc (3)</li>
+            <li>VERB--NOUN-Dat (51)</li>
+            <li>VERB--NOUN-Nom (5)</li>
             <li>VERB--PRON (24)</li>
-            <li>VERB--PRON-Acc (17)</li>
-            <li>VERB--PRON-Dat (202)</li>
-            <li>VERB--PRON-Gen (3)</li>
+            <li>VERB--PRON-Acc (21)</li>
+            <li>VERB--PRON-Dat (203)</li>
+            <li>VERB--PRON-Gen (2)</li>
             <li>VERB--PRON-Nom (1)</li>
-            <li>VERB-Fin--NOUN (5)</li>
-            <li>VERB-Fin--NOUN-Acc (56)</li>
-            <li>VERB-Fin--NOUN-Dat (363)</li>
-            <li>VERB-Fin--NOUN-Gen (23)</li>
-            <li>VERB-Fin--NOUN-Nom (19)</li>
+            <li>VERB-Fin--NOUN (8)</li>
+            <li>VERB-Fin--NOUN-Acc (90)</li>
+            <li>VERB-Fin--NOUN-Dat (486)</li>
+            <li>VERB-Fin--NOUN-Gen (17)</li>
+            <li>VERB-Fin--NOUN-Nom (23)</li>
             <li>VERB-Fin--PRON (33)</li>
-            <li>VERB-Fin--PRON-Acc (247)</li>
-            <li>VERB-Fin--PRON-Dat (2697)</li>
-            <li>VERB-Fin--PRON-Gen (18)</li>
-            <li>VERB-Fin--PRON-Nom (39)</li>
-            <li>VERB-Inf--NOUN (2)</li>
-            <li>VERB-Inf--NOUN-Acc (18)</li>
-            <li>VERB-Inf--NOUN-Dat (162)</li>
+            <li>VERB-Fin--PRON-Acc (230)</li>
+            <li>VERB-Fin--PRON-Dat (2610)</li>
+            <li>VERB-Fin--PRON-Gen (12)</li>
+            <li>VERB-Fin--PRON-Nom (38)</li>
+            <li>VERB-Inf--NOUN (4)</li>
+            <li>VERB-Inf--NOUN-Acc (30)</li>
+            <li>VERB-Inf--NOUN-Dat (221)</li>
             <li>VERB-Inf--NOUN-Gen (9)</li>
-            <li>VERB-Inf--NOUN-Nom (1)</li>
-            <li>VERB-Inf--PRON (16)</li>
-            <li>VERB-Inf--PRON-Acc (70)</li>
-            <li>VERB-Inf--PRON-Dat (1240)</li>
-            <li>VERB-Inf--PRON-Gen (23)</li>
-            <li>VERB-Inf--PRON-Nom (11)</li>
-            <li>VERB-Part--NOUN-Acc (1)</li>
-            <li>VERB-Part--NOUN-Dat (29)</li>
+            <li>VERB-Inf--NOUN-Nom (4)</li>
+            <li>VERB-Inf--PRON (9)</li>
+            <li>VERB-Inf--PRON-Acc (68)</li>
+            <li>VERB-Inf--PRON-Dat (1226)</li>
+            <li>VERB-Inf--PRON-Gen (10)</li>
+            <li>VERB-Inf--PRON-Nom (10)</li>
+            <li>VERB-Part--NOUN-Acc (2)</li>
+            <li>VERB-Part--NOUN-Dat (37)</li>
             <li>VERB-Part--NOUN-Gen (2)</li>
-            <li>VERB-Part--NOUN-Nom (2)</li>
-            <li>VERB-Part--PRON (3)</li>
-            <li>VERB-Part--PRON-Acc (3)</li>
-            <li>VERB-Part--PRON-Dat (63)</li>
-            <li>VERB-Part--PRON-Gen (3)</li>
+            <li>VERB-Part--PRON-Acc (7)</li>
+            <li>VERB-Part--PRON-Dat (67)</li>
+            <li>VERB-Part--PRON-Gen (2)</li>
+            <li>VERB-Part--PRON-Nom (1)</li>
             <li>VERB-Sup--NOUN (1)</li>
-            <li>VERB-Sup--NOUN-Acc (3)</li>
-            <li>VERB-Sup--NOUN-Dat (55)</li>
-            <li>VERB-Sup--NOUN-Nom (2)</li>
-            <li>VERB-Sup--PRON (3)</li>
-            <li>VERB-Sup--PRON-Acc (38)</li>
+            <li>VERB-Sup--NOUN-Acc (8)</li>
+            <li>VERB-Sup--NOUN-Dat (68)</li>
+            <li>VERB-Sup--NOUN-Nom (1)</li>
+            <li>VERB-Sup--PRON (2)</li>
+            <li>VERB-Sup--PRON-Acc (35)</li>
             <li>VERB-Sup--PRON-Dat (535)</li>
-            <li>VERB-Sup--PRON-Gen (5)</li>
+            <li>VERB-Sup--PRON-Gen (3)</li>
             <li>VERB-Sup--PRON-Nom (4)</li>
           </ul>
         </li>
@@ -2311,7 +2328,7 @@ udver: '2'
       <ul>
       <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>compound:prt</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a></li>
       <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
-      <li>The following 8 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">

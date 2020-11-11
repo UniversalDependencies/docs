@@ -6,173 +6,205 @@ udver: '2'
 
 <table>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h1>UD_Czech-CAC</h1>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h1>UD_Czech-CLTT</h1>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h1>UD_Czech-FicTree</h1>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h1>UD_Czech-PDT</h1>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h1>UD_Czech-PDTC</h1>
+    </td>
+    <td width="16%" valign="top">
       <h1>UD_Czech-PUD</h1>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="16%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 24709 sentences, 493306 tokens and 494383 syntactic words.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 1125 sentences, 35084 tokens and 35630 syntactic words.</li>
+      <li>This corpus contains 1125 sentences, 36673 tokens and 36689 syntactic words.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 12760 sentences, 166432 tokens and 167056 syntactic words.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 87913 sentences, 1503732 tokens and 1506484 syntactic words.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+      <li>This corpus contains 208455 sentences, 3305118 tokens and 3312716 syntactic words.</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 1000 sentences, 18565 tokens and 18610 syntactic words.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 57992 tokens (12%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 3477 tokens (10%) that are not followed by a space.</li>
+      <li>This corpus contains 4099 tokens (11%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 31659 tokens (19%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 216384 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+      <li>This corpus contains 368221 tokens (11%) that are not followed by a space.</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 2636 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 10 types of words with spaces. Examples: 10 000, 100 000, 12 000, 15 001, 16 500, 19 999, 25 000, 330 000, 35 000, 600 000</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus does not contain words that contain both letters and punctuation.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 437 types of words that contain both letters and punctuation. Examples: a), b), c), d), e), f), h), není-li, g), je-li, i), jsou-li, j), jde-li, nestanoví-li, t​e​c​h​n​i​c​k​o​-​e​k​o​n​o​m​i​c​k​ý​m, §_25_odst._3, *​_​F​i​n​a​n​č​n​í​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í, *​_​P​r​o​v​o​z​n​í​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í, B​.​I​I​.​9​.​_​O​c​e​ň​o​v​a​c​í​_​r​o​z​d​í​l​_​k​_​n​a​b​y​t​é​m​u​_​m​a​j​e​t​k​u, X​I​I​I​.​_​M​i​m​o​ř​á​d​n​é​_​v​ý​n​o​s​y, nevznikla-li, §_1_odst._2_písm._b), §​_​1​_​o​d​s​t​.​_​2​_​p​í​s​m​.​_​d​)​_​a​ž​_​h​), §_4_odst._10, A​.​I​I​.​6​.​_​R​o​z​d​í​l​y​_​z​_​o​c​e​n​ě​n​í​_​p​ř​i​_​p​ř​e​m​ě​n​á​c​h​_​s​p​o​l​e​č​n​o​s​t​í, B​.​I​I​.​3​.​_​S​a​m​o​s​t​a​t​n​é​_​m​o​v​i​t​é​_​v​ě​c​i​_​a​_​s​o​u​b​o​r​y​_​m​o​v​i​t​ý​c​h​_​v​ě​c​í, B​.​I​I​.​5​.​_​D​o​s​p​ě​l​á​_​z​v​í​ř​a​t​a​_​a​_​j​e​j​i​c​h​_​s​k​u​p​i​n​y, R._Mimořádné_náklady, a)_a_b), k), nejsou-li, písm._a), z​á​k​o​n​a​_​č​.​_​5​6​3​/​1​9​9​1​_​S​b​., §_18_odst._1, §_1_odst._2_písm._a), §​_​2​0​_​o​d​s​t​.​_​1​_​p​í​s​m​.​_​a​)​_​b​o​d​u​_​1, §_26_odst._3, §_31_odst._2, §_4_odst._8, *​*​_​V​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í​_​z​a​_​b​ě​ž​n​o​u​_​č​i​n​n​o​s​t, *​_​M​i​m​o​ř​á​d​n​ý​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í, B​.​I​.​_​D​l​o​u​h​o​d​o​b​ý​_​n​e​h​m​o​t​n​ý​_​m​a​j​e​t​e​k, B​.​I​I​.​3​.​_​Z​á​v​a​z​k​y​_​-​_​p​o​d​s​t​a​t​n​ý​_​v​l​i​v, B​.​I​I​.​4​.​_​Z​á​v​a​z​k​y​_​k​e​_​s​p​o​l​e​č​n​í​k​ů​m​,​_​č​l​e​n​ů​m​_​d​r​u​ž​s​t​v​a​_​a​_​k​_​ú​č​a​s​t​n​í​k​ů​m​_​s​d​r​u​ž​e​n​í, C​.​I​I​.​4​.​_​P​o​h​l​e​d​á​v​k​y​_​z​a​_​s​p​o​l​e​č​n​í​k​y​,​_​č​l​e​n​y​_​d​r​u​ž​s​t​v​a​_​a​_​z​a​_​ú​č​a​s​t​n​í​k​y​_​s​d​r​u​ž​e​n​í, C​.​I​I​I​.​4​.​_​P​o​h​l​e​d​á​v​k​y​_​z​a​_​s​p​o​l​e​č​n​í​k​y​,​_​č​l​e​n​y​_​d​r​u​ž​s​t​v​a​_​a​_​z​a​_​ú​č​a​s​t​n​í​k​y​_​s​d​r​u​ž​e​n​í, M._Mimořádné_náklady, T​.​_​P​ř​e​v​o​d​_​p​o​d​í​l​u​_​n​a​_​v​ý​s​l​e​d​k​u​_​h​o​s​p​o​d​a​ř​e​n​í​_​s​p​o​l​e​č​n​í​k​ů​m, X._Mimořádné_výnosy</li>
+      <li>This corpus contains 366 types of words that contain both letters and punctuation. Examples: a), b), c), d), e), f), h), g), i), j), B.II.3., jde-li, B.II.9., nestanoví-li, společníky,, t​e​c​h​n​i​c​k​o​-​e​k​o​n​o​m​i​c​k​ý​m, §_25_odst._3, A., B.II.5., M., X., XIII., nevznikla-li, §_1_odst._2_písm._b), §​_​1​_​o​d​s​t​.​_​2​_​p​í​s​m​.​_​d​)​_​a​ž​_​h​), §_4_odst._10, A.II.6., B.I., B.II.2., B.II.4., B.II.6., B.II.8., I., O., R., a)_a_b), k), písm._a), společníkům,, z​á​k​o​n​a​_​č​.​_​5​6​3​/​1​9​9​1​_​S​b​., §_18_odst._1, §_1_odst._2_písm._a), §​_​2​0​_​o​d​s​t​.​_​1​_​p​í​s​m​.​_​a​)​_​b​o​d​u​_​1, §_26_odst._3, §_31_odst._2, §_4_odst._8, B., B.II., B.II.1., B.III.4.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 11 types of words that contain both letters and punctuation. Examples: Ha-vel, O-po-nu, pr-chá, A-ano, Cutter's, D-dobře, J-já, Ji-jistě, Za-pla-tit, bytí-na-zemi, t-tento</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 4 types of words that contain both letters and punctuation. Examples: Preud'homma, Preud'homme, Ze'ev, nemusej'</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+      <li>This corpus contains 4 types of words that contain both letters and punctuation. Examples: Preud'homma, Preud'homme, Ze'ev, nemusej'</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 9 types of words that contain both letters and punctuation. Examples: e-maily, sci-fi, B-29, Ce-sü, Chu-nan, Chu-pej, Harley-Davidson, Šen-čenu, š’</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 1077 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 14 types of multi-word tokens. Examples: aby, abychom, kdyby, abyste, kdybychom, abych, oč, kdybych, zač, Abys, Kdybyste, kdybys, nač, sis.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 281 multi-word tokens. On average, one multi-word token consists of 2.94 syntactic words.</li>
-      <li>There are 179 types of multi-word tokens. Examples: aby, "​*​_​F​i​n​a​n​č​n​í​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í​", "​*​_​P​r​o​v​o​z​n​í​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í​", "​B​.​I​I​.​9​.​_​O​c​e​ň​o​v​a​c​í​_​r​o​z​d​í​l​_​k​_​n​a​b​y​t​é​m​u​_​m​a​j​e​t​k​u​", "​X​I​I​I​.​_​M​i​m​o​ř​á​d​n​é​_​v​ý​n​o​s​y​", "​A​.​I​I​.​6​.​_​R​o​z​d​í​l​y​_​z​_​o​c​e​n​ě​n​í​_​p​ř​i​_​p​ř​e​m​ě​n​á​c​h​_​s​p​o​l​e​č​n​o​s​t​í​", "​B​.​I​I​.​3​.​_​S​a​m​o​s​t​a​t​n​é​_​m​o​v​i​t​é​_​v​ě​c​i​_​a​_​s​o​u​b​o​r​y​_​m​o​v​i​t​ý​c​h​_​v​ě​c​í​", "​B​.​I​I​.​5​.​_​D​o​s​p​ě​l​á​_​z​v​í​ř​a​t​a​_​a​_​j​e​j​i​c​h​_​s​k​u​p​i​n​y​", "​R​.​_​M​i​m​o​ř​á​d​n​é​_​n​á​k​l​a​d​y​", "​*​*​_​V​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í​_​z​a​_​b​ě​ž​n​o​u​_​č​i​n​n​o​s​t​", "​*​_​M​i​m​o​ř​á​d​n​ý​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í​", "​B​.​I​.​_​D​l​o​u​h​o​d​o​b​ý​_​n​e​h​m​o​t​n​ý​_​m​a​j​e​t​e​k​", "​B​.​I​I​.​3​.​_​Z​á​v​a​z​k​y​_​-​_​p​o​d​s​t​a​t​n​ý​_​v​l​i​v​", "​B​.​I​I​.​4​.​_​Z​á​v​a​z​k​y​_​k​e​_​s​p​o​l​e​č​n​í​k​ů​m​,​_​č​l​e​n​ů​m​_​d​r​u​ž​s​t​v​a​_​a​_​k​_​ú​č​a​s​t​n​í​k​ů​m​_​s​d​r​u​ž​e​n​í​", "​C​.​I​I​.​4​.​_​P​o​h​l​e​d​á​v​k​y​_​z​a​_​s​p​o​l​e​č​n​í​k​y​,​_​č​l​e​n​y​_​d​r​u​ž​s​t​v​a​_​a​_​z​a​_​ú​č​a​s​t​n​í​k​y​_​s​d​r​u​ž​e​n​í​", "​C​.​I​I​I​.​4​.​_​P​o​h​l​e​d​á​v​k​y​_​z​a​_​s​p​o​l​e​č​n​í​k​y​,​_​č​l​e​n​y​_​d​r​u​ž​s​t​v​a​_​a​_​z​a​_​ú​č​a​s​t​n​í​k​y​_​s​d​r​u​ž​e​n​í​", "​M​.​_​M​i​m​o​ř​á​d​n​é​_​n​á​k​l​a​d​y​", "​T​.​_​P​ř​e​v​o​d​_​p​o​d​í​l​u​_​n​a​_​v​ý​s​l​e​d​k​u​_​h​o​s​p​o​d​a​ř​e​n​í​_​s​p​o​l​e​č​n​í​k​ů​m​", "​X​.​_​M​i​m​o​ř​á​d​n​é​_​v​ý​n​o​s​y​", "+_Obchodní_marže", "​A​.​I​V​.​3​.​_​J​i​n​ý​_​v​ý​s​l​e​d​e​k​_​h​o​s​p​o​d​a​ř​e​n​í​_​m​i​n​u​l​ý​c​h​_​l​e​t​", "​B​.​I​.​1​.​_​Z​ř​i​z​o​v​a​c​í​_​v​ý​d​a​j​e​", "​B​.​I​.​3​.​_​R​e​z​e​r​v​a​_​n​a​_​d​a​ň​_​z​_​p​ř​í​j​m​ů​", "​B​.​I​.​8​.​_​P​o​s​k​y​t​n​u​t​é​_​z​á​l​o​h​y​_​n​a​_​d​l​o​u​h​o​d​o​b​ý​_​n​e​h​m​o​t​n​ý​_​m​a​j​e​t​e​k​", "​B​.​I​I​.​1​.​_​Z​á​v​a​z​k​y​_​z​_​o​b​c​h​o​d​n​í​c​h​_​v​z​t​a​h​ů​", "B.II.2._Stavby", "​B​.​I​I​.​2​.​_​Z​á​v​a​z​k​y​_​-​_​o​v​l​á​d​a​n​á​_​n​e​b​o​_​o​v​l​á​d​a​j​í​c​í​_​o​s​o​b​a​", "​B​.​I​I​.​6​.​_​J​i​n​ý​_​d​l​o​u​h​o​d​o​b​ý​_​h​m​o​t​n​ý​_​m​a​j​e​t​e​k​", "​B​.​I​I​.​6​.​_​V​y​d​a​n​é​_​d​l​u​h​o​p​i​s​y​", "​B​.​I​I​.​8​.​_​D​o​h​a​d​n​é​_​ú​č​t​y​_​p​a​s​i​v​n​í​", "​B​.​I​I​.​8​.​_​P​o​s​k​y​t​n​u​t​é​_​z​á​l​o​h​y​_​n​a​_​d​l​o​u​h​o​d​o​b​ý​_​h​m​o​t​n​ý​_​m​a​j​e​t​e​k​", "​B​.​I​I​.​_​D​l​o​u​h​o​d​o​b​ý​_​h​m​o​t​n​ý​_​m​a​j​e​t​e​k​", "​B​.​I​I​I​.​4​.​_​P​ů​j​č​k​y​_​a​_​ú​v​ě​r​y​_​-​_​o​v​l​á​d​a​n​á​_​n​e​b​o​_​o​v​l​á​d​a​j​í​c​í​_​o​s​o​b​a​,​_​p​o​d​s​t​a​t​n​ý​_​v​l​i​v​", "​B​.​I​I​I​.​7​.​_​P​o​s​k​y​t​n​u​t​é​_​z​á​l​o​h​y​_​n​a​_​d​l​o​u​h​o​d​o​b​ý​_​f​i​n​a​n​č​n​í​_​m​a​j​e​t​e​k​", "C.I.1._Materiál", "​C​.​I​.​4​.​_​M​l​a​d​á​_​a​_​o​s​t​a​t​n​í​_​z​v​í​ř​a​t​a​_​a​_​j​e​j​i​c​h​_​s​k​u​p​i​n​y​", "C.I.5._Zboží", "​C​.​I​.​6​.​_​P​o​s​k​y​t​n​u​t​é​_​z​á​l​o​h​y​_​n​a​_​z​á​s​o​b​y​", "​C​.​I​I​.​1​.​_​P​o​h​l​e​d​á​v​k​y​_​z​_​o​b​c​h​o​d​n​í​c​h​_​v​z​t​a​h​ů​", "​C​.​I​I​.​2​.​_​P​o​h​l​e​d​á​v​k​y​_​-​_​o​v​l​á​d​a​n​á​_​n​e​b​o​_​o​v​l​á​d​a​j​í​c​í​_​o​s​o​b​a​", "​C​.​I​I​.​3​.​_​P​o​h​l​e​d​á​v​k​y​_​-​_​p​o​d​s​t​a​t​n​ý​_​v​l​i​v​", "​C​.​I​I​.​5​.​_​D​l​o​u​h​o​d​o​b​é​_​p​o​s​k​y​t​n​u​t​é​_​z​á​l​o​h​y​", "​C​.​I​I​.​6​.​_​D​o​h​a​d​n​é​_​ú​č​t​y​_​a​k​t​i​v​n​í​", "​C​.​I​I​.​7​.​_​J​i​n​é​_​p​o​h​l​e​d​á​v​k​y​", "​C​.​I​I​I​.​2​.​_​P​o​h​l​e​d​á​v​k​y​_​-​_​o​v​l​á​d​a​n​á​_​n​e​b​o​_​o​v​l​á​d​a​j​í​c​í​_​o​s​o​b​a​", "​C​.​I​I​I​.​3​.​_​P​o​h​l​e​d​á​v​k​y​_​-​_​p​o​d​s​t​a​t​n​ý​_​v​l​i​v​", "​C​.​I​I​I​.​6​.​_​S​t​á​t​_​-​_​d​a​ň​o​v​é​_​p​o​h​l​e​d​á​v​k​y​", "​C​.​I​I​I​.​7​.​_​K​r​á​t​k​o​d​o​b​é​_​p​o​s​k​y​t​n​u​t​é​_​z​á​l​o​h​y​", "II._Výkony", "​K​.​_​N​á​k​l​a​d​y​_​z​_​f​i​n​a​n​č​n​í​h​o​_​m​a​j​e​t​k​u​".</li>
+      <li>This corpus contains 16 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 1 types of multi-word tokens. Examples: aby.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 624 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 22 types of multi-word tokens. Examples: aby, abych, kdyby, kdybych, abys, abychom, ses, sis, abyste, kdybyste, kdybys, Tys, kdybychom, cos, oč, Dostalas, Nač, Slyšelas, Vždyťs, dovolils, pustils, zač.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 2752 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 10 types of multi-word tokens. Examples: aby, kdyby, abychom, abych, kdybychom, kdybych, abyste, kdybyste, Kdybys, Neníť.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+      <li>This corpus contains 7598 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 10 types of multi-word tokens. Examples: aby, kdyby, abychom, abych, kdybych, kdybychom, abyste, kdybyste, abys, kdybys.</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 45 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 5 types of multi-word tokens. Examples: aby, kdyby, abych, abychom, abyste.</li>
@@ -180,7 +212,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -190,7 +222,7 @@ udver: '2'
       <li>This corpus does not use the following tags: X</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -200,7 +232,7 @@ udver: '2'
       <li>This corpus does not use the following tags: PROPN, INTJ</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -210,7 +242,7 @@ udver: '2'
       <li>This corpus does not use the following tags: SYM</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -219,7 +251,17 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: NOUN, DET, VERB, INTJ</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -231,196 +273,229 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 45 word types tagged as particles (PART): Al, Anti, Copak, Cožpak, Jakby, La, Le, Nazdar, Nu, ahoj, ano, arciť, asi, ať, až, ba, bohdá, bohužel, co, das, des, el, fakt, jen, jenom, jo, kdoví, li, natož, ne, nechť, nejen, no, non, ovšem, prý, quo, s, sice, takříkajíc, to, tož, viď, viďte, Žel</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 7 word types tagged as particles (PART): až, brutto, jen, ne, netto, nikoliv, to</li>
+      <li>This corpus contains 8 word types tagged as particles (PART): až, brutto, jen, li, ne, netto, nikoliv, to</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 124 word types tagged as particles (PART): A-ano, Což, Dobře, Díky, Fakt, Jestlipak, Ji-jistě, Neee, Nejenomže, Náhodou, Pardon, Pozor, Príma, ahoj, ale, alespoň, ani, ano, asi, aspoň, ať, až, ba, bezesporu, beztak, bohužel, budiž, bůhví, celkem, co, copak, div, dobrá, dokonce, doopravdy, dozajista, hned, i, jasně, jednoduše, jen, jenom, ještě, jistě, již, jo, kdepak, kdoví, když, klidně, koneckonců, konečně, kupodivu, kéž, leda, možná, nakonec, naneštěstí, naopak, například, natož, ne, nejen, nejenže, nejspíš, nepochybně, nesporně, nicméně, nikoli, nikoliv, no, opravdu, ostatně, ovšem, patrně, pochopitelně, prakticky, pravděpodobně, prej, prostě, právě, prý, přece, přeci, především, přesně, přímo, rozhodně, samozřejmě, sbohem, skoro, skutečně, snad, sotva, spíš, spíše, stejně, tak, takříkajíc, teda, tedy, teprve, to, totiž, třeba, určitě, už, viď, viďte, vlastně, vážně, však, vůbec, vždyť, zajisté, zas, zase, zejména, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 83 word types tagged as particles (PART): Achtung, Bah, Bienvenue, CA, Což, Cožpak, Dobrá, L, Mnohem, Naneštěstí, Nejenomže, Nu, On, Please, Sic, So, Vot, Zaplaťpánbůh, ahoj, al, ano, anti, arciť, asi, at, ať, až, ba, bene, bohužel, by, bůhsuď, bůhví, ciao, co, copak, džambo, el, gala, hele, hop, ja, jen, jenom, jo, ka, kdoví, kéž, leda, li, n, natož, ne, nechť, nejen, netto, neřkuli, než, nie, no, non, not, nuže, off, oui, ovšem, ovšemže, pozor, právěže, prý, s, sbohem, sice, sorry, t, takříkajíc, to, tož, viva, viďte, we, zaplaťpánbu, žel</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+      <li>This corpus contains 2 word types tagged as particles (PART): sice, to</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 12 word types tagged as particles (PART): Bohužel, Koneckonců, asi, ať, až, jen, jenom, ne, no, ovšem, snad, vůbec</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 36 lemmas tagged as pronouns (PRON): Tous, co, cokoliv, copak, cosi, což, eo, er, ipso, jenž, já, kdekdo, kdo, kdokoli, kdokoliv, kdopak, kdosi, kdovíco, leccos, leckdo, ledacos, málokdo, nic, nikdo, nízko, něco, někdo, on, qua, samý, se, they, ty, veškerý, všecek, všechno</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 4 lemmas tagged as pronouns (PRON): jenž, on, se, veškerý</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 32 lemmas tagged as pronouns (PRON): být, bůhvíco, co, cokoli, copak, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, samy, samý, se, ty, veškerý, von, všecek</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 53 lemmas tagged as pronouns (PRON): Everything, I, all, bůhvíco, co, cokoliv, copak, cosi, což, gdo, he, it, ja, jenž, já, kdeco, kdekdo, kdo, kdokoliv, kdopak, kdosi, lecco, leccos, leckdo, ledacos, ledasco, man, máloco, málokdo, nic, nihil, nikdo, nothing, něco, někdo, on, ourselves, q, sa, samý, se, sotvakdo, ty, veškerý, von, vy, všecek, všechno, was, we, who, you, čo</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+      <li>This corpus contains 1 lemmas tagged as pronouns (PRON): se</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 18 lemmas tagged as pronouns (PRON): I, co, což, jenž, já, kdo, kdokoli, nic, nikdo, něco, někdo, on, samý, se, ten, ty, veškerý, you</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 50 lemmas tagged as determiners (DET): hoc, jaký, jakýkoli, jakýkoliv, jakýpak, jakýsi, jeho, jenž, každý, kdejaký, kdovíkolik, kolik, kolikátý, které, který, kterýkoli, kterýkoliv, kterýžto, leckterý, mnoho, málo, málokterý, můj, nejeden, nemálo, nějaký, několik, některý, něčí, onen, pražádný, quem, sui, svůj, sám, takový, takovýhle, takovýto, ten, tenhle, tenhleten, tento, tentýž, tolik, tvůj, týž, všechen, všelijaký, čí, žádný</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 18 lemmas tagged as determiners (DET): jaký, jakýkoliv, jeho, jenž, každý, který, kterýkoliv, několik, některý, svůj, sám, takový, takovýto, ten, tento, týž, všechen, žádný</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 53 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, pražádný, svůj, sám, takový, takovýhle, takovýto, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 71 lemmas tagged as determiners (DET): Notre, Your, bůhvíjaký, c, ce, cui, hodně, jaký, jakýkoliv, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdejaký, kdovíjaký, kolik, který, kterýkoliv, kterýžto, ktorý, lecjaký, leckterý, ledajaký, mio, mnoho, moc, my, málo, málokterý, míň, móóc, můj, nejeden, nemnoho, nemálo, nespočet, nějaký, několik, několikátý, některý, něčí, onen, pranic, přemnoho, some, suus, svůj, sám, takový, takovýhle, takovýto, taký, takýs, ten, tenhle, tenhleten, tento, tentýž, that, this, tolik, toť, tvůj, týž, více, všechen, všelijaký, čí, žádný</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+      <li>This corpus contains 0 lemmas tagged as determiners (DET): </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 27 lemmas tagged as determiners (DET): hodně, jaký, jakýkoli, jeho, jenž, každý, kolik, který, kterýkoli, mnoho, málo, můj, nějaký, několik, některý, onen, svůj, sám, takový, ten, tenhle, tento, tentýž, tolik, tvůj, všechen, žádný</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: jenž</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: jenž</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: jenž, my</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: jenž</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: jenž, ten</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): být, bývat</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): být</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): být, bývat</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): být, bývat, bývávat</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+      <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): _, být</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): být, bývat</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: být</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat, bývávat</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: být</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+      <li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -430,7 +505,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -439,7 +514,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -449,7 +524,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -459,7 +534,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -470,7 +548,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -480,17 +558,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: je, jsou, nejsou, není, by, bude, budou</li>
+          <li>AUX: je, jsou, není, nejsou, by, bude, budou</li>
           <li>VERB: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
         </ul>
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -500,7 +578,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -510,7 +588,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: by, bychom, bych, byste, bys, je</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -522,17 +609,17 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Inf
         <ul>
           <li>AUX: být, býti</li>
-          <li>VERB: mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</li>
+          <li>VERB: mít, zajistit, říci, být, vidět, dělat, řešit, věnovat, použít, provádět</li>
         </ul>
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -542,7 +629,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -552,7 +639,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -562,7 +649,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -574,7 +664,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -585,7 +675,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -596,7 +686,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -607,7 +697,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -618,7 +708,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -631,56 +724,65 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="16%" valign="top">
       <h3>Nominal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem
           <ul>
             <li>ADJ: pracovní, socialistické, nové, další, první, základní, současné, druhé, společenské, celé</li>
             <li>ADJ-Part: rozhodující, vedoucí, odpovídající, týkající, řídící, rostoucí, následující, pracující, vládnoucí, vyplývající</li>
+            <li>AUX-Part: byla, byly</li>
             <li>DET: které, která, této, své, naší, tato, svou, tyto, kterou, tuto</li>
             <li>NOUN: práce, práci, oblasti, době, společnosti, činnosti, výroby, teorie, organizace, strany</li>
             <li>NUM: jedné, jednu, jedna, jednou, třetinu, třetina, třetiny, čtvrtiny, dvanáctinu, třetinou</li>
@@ -690,7 +792,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -704,7 +806,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -723,7 +825,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -739,7 +841,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -758,7 +863,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -770,7 +875,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -782,10 +887,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -797,7 +902,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -811,7 +919,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem,Neut
           <ul>
@@ -827,7 +935,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem,Neut
           <ul>
@@ -840,10 +948,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem,Neut
           <ul>
@@ -859,7 +967,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Fem,Neut
           <ul>
@@ -876,7 +987,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -894,7 +1005,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -911,7 +1022,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -929,7 +1040,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -948,7 +1059,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>PROPN: Sin, kan</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -968,7 +1088,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -979,7 +1099,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -990,10 +1110,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -1004,7 +1124,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -1017,13 +1140,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Neut
           <ul>
             <li>ADJ: možno, možné, nutno, nutné, národního, další, posledních, jiné, řečeno, vědeckého</li>
             <li>ADJ-Part: řečeno, dosaženo, uvedeno, použito, spojeno, určeno, dodáno, provedeno, stanoveno, rozhodující</li>
-            <li>AUX-Part: bylo, nebylo, bývalo</li>
+            <li>AUX-Part: bylo, nebylo, bývalo, byla</li>
             <li>DET: to, které, toto, která, své, tato, každé, takové, některá, její</li>
             <li>NOUN: let, hlediska, období, prostředí, zařízení, řešení, plnění, množství, poznání, století</li>
             <li>NUM: jedno</li>
@@ -1034,7 +1157,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1050,7 +1173,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1068,7 +1191,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1085,7 +1208,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Neut
+          <ul>
+            <li>ADJ: j</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -1104,40 +1236,45 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Animacy</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Anim
           <ul>
             <li>ADJ: pracujících, mladých, pracující, mladí, další, rádi, mnozí, ostatní, mladý, vedoucí</li>
             <li>ADJ-Part: pracujících, pracující, vedoucí, vedoucích, pracujícím, připraveni, nuceni, pracujícími, zabezpečeni, cestující</li>
-            <li>AUX-Part: byli, nebyli</li>
+            <li>AUX-Part: byli, nebyli, byl</li>
             <li>DET: kteří, každý, sami, každého, ti, někteří, naši, svého, každému, tito</li>
             <li>NOUN: pracovníků, lidí, člověka, člověk, lidé, pracovník, členů, vedoucí, ředitel, pracovníci</li>
             <li>NUM: jednoho</li>
@@ -1148,7 +1285,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Anim
           <ul>
@@ -1161,7 +1298,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Anim
           <ul>
@@ -1179,7 +1316,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Anim
           <ul>
@@ -1196,7 +1333,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Anim
           <ul>
@@ -1214,13 +1354,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Inan
           <ul>
             <li>ADJ: jednotlivých, další, základní, pracovní, celý, první, velký, nové, nový, dalších</li>
             <li>ADJ-Part: rozhodující, uvedeny, určeny, splněny, provedeny, spojeny, stanoveny, připraveny, pracujícího, vytvořeny</li>
-            <li>AUX-Part: byly, nebyly, bývaly</li>
+            <li>AUX-Part: byly, nebyly, byl, bývaly</li>
             <li>DET: které, tyto, který, tento, svůj, každý, některé, ty, každém, její</li>
             <li>NOUN: roce, roku, úkolů, výsledky, jazyka, procesu, úkoly, podniku, života, základě</li>
             <li>NUM: jeden</li>
@@ -1231,7 +1371,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Inan
           <ul>
@@ -1247,7 +1387,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Inan
           <ul>
@@ -1265,7 +1405,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Inan
           <ul>
@@ -1282,7 +1422,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Inan
+          <ul>
+            <li>PROPN: Sin, kan</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Inan
           <ul>
@@ -1300,34 +1449,39 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -1339,10 +1493,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -1354,7 +1508,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -1367,7 +1521,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -1379,7 +1536,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1387,7 +1544,7 @@ udver: '2'
             <li>ADJ-Part: pracujících, pracující, uvedeny, určeny, splněny, vedoucí, týkající, vedoucích, následující, provedeny</li>
             <li>AUX-Conv: byvše, jsouce</li>
             <li>AUX-Fin: jsou, jsme, budou, bychom, nejsou, budeme, jste, byste, nebudou, bývají</li>
-            <li>AUX-Part: byly, byli, nebyly, nebyli, bývaly</li>
+            <li>AUX-Part: byly, byli, nebyly, nebyli, byla, bývaly</li>
             <li>DET: které, těchto, tyto, kteří, některých, některé, svých, své, našich, ty</li>
             <li>NOUN: let, pracovníků, úkolů, výsledky, lidí, úkoly, podmínky, letech, lidé, práce</li>
             <li>NUM: dvou, dvě, tři, dva, obou, dvěma, tří, čtyři, oba, obě</li>
@@ -1400,7 +1557,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1418,7 +1575,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1438,7 +1595,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1459,7 +1616,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>AUX-Fin: bychom, byste</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1481,7 +1647,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Plur,Sing
           <ul>
@@ -1493,7 +1659,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Plur,Sing
           <ul>
@@ -1505,10 +1671,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Plur,Sing
           <ul>
@@ -1520,7 +1686,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Plur,Sing
           <ul>
@@ -1534,15 +1703,15 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sing
           <ul>
             <li>ADJ: pracovní, první, možno, další, socialistické, druhé, základní, vlastní, národního, větší</li>
             <li>ADJ-Part: rozhodující, řečeno, dosaženo, vedoucí, odpovídající, řídící, pracující, uvedeno, dán, splněn</li>
             <li>AUX-Conv: jsouc</li>
-            <li>AUX-Fin: je, bude, není, jsem, bych, bývá, nebude, budu, jsi, buď</li>
-            <li>AUX-Part: byl, bylo, nebylo, nebyl, býval, bývalo</li>
+            <li>AUX-Fin: je, bude, není, jsem, bych, bývá, nebude, budu, jsi, budiž</li>
+            <li>AUX-Part: byl, bylo, nebylo, nebyl, býval, bývalo, byla</li>
             <li>DET: to, který, která, tím, této, tom, toho, tento, tohoto, tomu</li>
             <li>NOUN: práce, roce, práci, roku, době, společnosti, oblasti, hlediska, činnosti, výroby</li>
             <li>NUM: jeden, jedné, jednoho, jedním, jednu, jedna, pět, jednom, jedno, tisíc</li>
@@ -1555,7 +1724,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1574,7 +1743,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1595,7 +1764,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1616,7 +1785,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: j</li>
+            <li>AUX-Fin: bych, bys, je</li>
+            <li>PROPN: Sin, kan</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1639,34 +1819,39 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1682,7 +1867,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1697,7 +1882,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1713,7 +1898,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1729,7 +1914,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>ADJ: j</li>
+            <li>PRON: se</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1747,13 +1942,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Dat
           <ul>
             <li>ADJ: dalšímu, jiným, ostatním, národnímu, jednotlivým, různým, socialistickému, Slovenskému, plánovaným, určitému</li>
             <li>ADJ-Part: pracujícím, pracujícímu, cestujícím, charakterizujícím, následujícím, následujícímu, předcházejícímu, soutěžícím, vedoucím, zaostávajícím</li>
-            <li>ADP: k, ke, proti, naproti, vůči, díky, oproti, kvůli, dík, vstříc</li>
+            <li>ADP: k, ke, proti, vůči, naproti, díky, oproti, kvůli, dík, vstříc</li>
             <li>DET: tomu, tomuto, této, kterým, těmto, svému, těm, každému, některým, jejímu</li>
             <li>NOUN: pracovníkům, práci, dispozici, výročí, lidem, řešení, dětem, rozvoji, zlepšení, skutečnosti</li>
             <li>NUM: jednomu, oběma, jedné, dvěma, třetině, šestině, jedenácti, osmi, pár, pěti</li>
@@ -1763,7 +1958,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1778,7 +1973,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1794,7 +1989,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1810,7 +2005,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1828,7 +2026,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1844,7 +2042,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1859,7 +2057,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1875,7 +2073,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1891,7 +2089,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>ADP: do, od</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1909,7 +2116,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1920,18 +2127,18 @@ udver: '2'
             <li>NOUN: způsobem, součástí, vodou, cílem, lety, lidmi, prostřednictvím, formou, prací, výsledkem</li>
             <li>NUM: jedním, dvěma, jednou, oběma, třemi, čtyřmi, pěti, dvaceti, sto, třiceti</li>
             <li>PRON: nimi, sebou, ním, čím, jimiž, jimi, všemi, čímž, nimiž, jím</li>
-            <li>PROPN: Labem, Bečvou, Václavem, Karlem, Prahou, Alpami, Karpatami, Sázavou, Cidlinou, Honzou</li>
+            <li>PROPN: Labem, Bečvou, Václavem, Karlem, Prahou, Sázavou, Alpami, Karpatami, Cidlinou, Honzou</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ins
           <ul>
             <li>ADJ: účetní, reálnou, účetními, pořizovací, podstatným, společným, právními, účetním, právnickou, vlastní</li>
             <li>ADJ-Part: konsolidující, přejímajícím, ovládající, zaručujícím, jednajícími, nespadajícím, odpovídajícím, odpovídajícími, ovládajícími, plynoucími</li>
-            <li>ADP: s, mezi, se, pod, před, za, nad, přede</li>
+            <li>ADP: s, mezi, pod, se, před, za, nad, přede</li>
             <li>DET: kterým, tímto, tím, touto, kterou, kterými, jejím, jejímž, několika, svým</li>
             <li>NOUN: jednotkou, hodnotou, výjimkou, způsobem, dnem, vlivem, auditorem, cenou, součástí, osobou</li>
             <li>NUM: jednou, dvěma, jedním</li>
@@ -1940,7 +2147,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1956,7 +2163,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1972,7 +2179,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1990,7 +2200,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2006,7 +2216,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2021,7 +2231,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2037,7 +2247,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2053,7 +2263,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2071,7 +2284,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2087,7 +2300,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2101,7 +2314,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2117,7 +2330,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2133,7 +2346,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>PROPN: Sin, kan</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2151,7 +2373,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -2163,10 +2385,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -2180,7 +2402,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -2193,7 +2415,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -2204,34 +2429,37 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>PrepCase</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>PrepCase</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>PrepCase</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>PrepCase</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>PrepCase</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Npr
           <ul>
@@ -2240,7 +2468,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Npr
           <ul>
@@ -2249,7 +2477,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Npr
           <ul>
@@ -2258,7 +2486,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Npr
           <ul>
@@ -2267,7 +2495,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Npr
           <ul>
@@ -2278,7 +2509,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pre
           <ul>
@@ -2287,7 +2518,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pre
           <ul>
@@ -2296,7 +2527,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pre
           <ul>
@@ -2305,7 +2536,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pre
           <ul>
@@ -2314,7 +2545,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Pre
           <ul>
@@ -2325,68 +2559,79 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="16%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2396,7 +2641,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2406,7 +2651,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2416,7 +2661,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2426,7 +2671,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2439,7 +2687,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2450,7 +2698,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2461,7 +2709,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2473,7 +2721,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2484,7 +2732,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>ADJ: j</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2496,7 +2753,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2506,7 +2763,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2516,7 +2773,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2526,7 +2783,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2536,7 +2793,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2548,34 +2808,39 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2593,14 +2858,14 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Neg
           <ul>
             <li>ADJ: nehmotného, nehmotný, nepeněžní, nezbytné, nevyhrazeného, nehmotným, nepřímých, neupraveném, neauditorské, nebytové</li>
             <li>ADJ-Part: nepostačující, nespadajícím, nezměněno</li>
             <li>ADV: nepřetržitě, nepřímo, nedostatečně, nezaměnitelně, nezávisle</li>
-            <li>AUX-Fin: nejsou</li>
+            <li>AUX-Fin: nejsou, není</li>
             <li>AUX-Part: nebyly, nebyla, nebyl</li>
             <li>NOUN: nezahrnutí, nejednoznačnost, nemovitostem, nepotřebnost, neprůkaznosti, nepřehlednosti, nesestavení, nesprávnosti, nesrozumitelnosti, neuvedení</li>
             <li>VERB-Fin: nelze, nemusí, nepoužije, nemá, nepoužijí, nesestaví, nesmí, nestanoví, nevztahuje, neúčtuje</li>
@@ -2610,7 +2875,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2629,7 +2894,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2648,7 +2913,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2667,7 +2935,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2683,13 +2951,13 @@ udver: '2'
             <li>PROPN: KSČ, ROH, Praze, SSSR, ÚJČ, SSM, Praha, ČSAV, ČSSR, Škoda</li>
             <li>VERB-Conv: počínaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče, plníce, ponechávajíc</li>
             <li>VERB-Fin: je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</li>
-            <li>VERB-Inf: mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</li>
+            <li>VERB-Inf: mít, zajistit, říci, být, vidět, dělat, řešit, věnovat, použít, provádět</li>
             <li>VERB-Part: měl, měla, bylo, mohli, mohl, došlo, měli, byl, měly, mělo</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2709,7 +2977,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2731,7 +2999,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2753,7 +3021,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>ADJ: j</li>
+            <li>AUX-Fin: je</li>
+            <li>PROPN: Sin, kan</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2776,34 +3055,39 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Variant</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -2814,7 +3098,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -2825,7 +3109,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -2836,7 +3120,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -2847,7 +3131,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Short
+          <ul>
+            <li>PRON: se</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -2860,51 +3153,57 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="16%" valign="top">
       <h3>Verbal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2922,7 +3221,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2932,7 +3231,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2943,7 +3242,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2960,7 +3259,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -2977,7 +3279,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -2992,10 +3294,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3004,7 +3306,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3018,7 +3320,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3033,34 +3338,39 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3069,7 +3379,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3078,7 +3388,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3088,7 +3398,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3098,7 +3408,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Cnd
+          <ul>
+            <li>AUX-Fin: by, bychom, bych, byste, bys</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3109,20 +3428,20 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Imp
           <ul>
-            <li>AUX-Fin: buď, budiž, buďme, buďte, Nebuď</li>
+            <li>AUX-Fin: budiž, buď, buďme, buďte, Nebuď</li>
             <li>VERB-Fin: viz, překonej, připomeňme, uveďme, nechte, pověste, vraťme, žehlete, nezapomeňte, perte</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3132,7 +3451,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3142,7 +3461,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3153,7 +3475,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3163,17 +3485,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: je, jsou, nejsou, není, bude, budou</li>
+            <li>AUX-Fin: je, jsou, není, nejsou, bude, budou</li>
             <li>VERB-Fin: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3183,7 +3505,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3193,7 +3515,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX-Fin: je</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3205,34 +3536,39 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -3242,7 +3578,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -3252,7 +3588,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -3262,7 +3598,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -3272,7 +3608,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -3284,7 +3623,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -3297,7 +3636,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -3307,7 +3646,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -3318,7 +3657,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -3330,7 +3669,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -3343,7 +3685,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -3356,19 +3698,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pres
           <ul>
             <li>ADJ-Part: konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</li>
-            <li>AUX-Fin: je, jsou, nejsou, není</li>
+            <li>AUX-Fin: je, jsou, není, nejsou</li>
             <li>VERB-Conv: počínaje</li>
             <li>VERB-Fin: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -3381,7 +3723,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -3394,7 +3736,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>AUX-Fin: je</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -3408,34 +3759,39 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -3450,12 +3806,12 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Act
           <ul>
             <li>ADJ-Part: konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</li>
-            <li>AUX-Fin: je, jsou, nejsou, není, bude, budou</li>
+            <li>AUX-Fin: je, jsou, není, nejsou, bude, budou</li>
             <li>AUX-Part: byly, byl, bylo, nebyly, byla, nebyla, nebyl</li>
             <li>VERB-Conv: počínaje</li>
             <li>VERB-Fin: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
@@ -3464,7 +3820,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -3479,7 +3835,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -3494,7 +3850,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Act
+          <ul>
+            <li>AUX-Fin: je</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -3511,7 +3876,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -3520,7 +3885,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -3529,7 +3894,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -3538,7 +3903,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -3547,7 +3912,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -3558,68 +3926,79 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="16%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -3629,7 +4008,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -3639,7 +4018,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -3649,7 +4028,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -3659,7 +4038,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -3671,13 +4053,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Dem,Ind
           <ul>
@@ -3686,15 +4068,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -3703,7 +4088,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -3712,7 +4097,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -3721,7 +4106,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -3730,7 +4115,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -3741,7 +4129,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3752,7 +4140,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3762,7 +4150,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3773,7 +4161,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3784,7 +4172,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -3797,7 +4188,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Int,Rel
           <ul>
@@ -3808,7 +4199,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Int,Rel
           <ul>
@@ -3818,7 +4209,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Int,Rel
           <ul>
@@ -3829,7 +4220,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Int,Rel
           <ul>
@@ -3840,7 +4231,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Int,Rel
           <ul>
@@ -3853,7 +4247,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3864,7 +4258,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3873,7 +4267,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3884,7 +4278,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3895,7 +4289,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -3908,7 +4305,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3918,7 +4315,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3928,7 +4325,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3938,7 +4335,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3948,7 +4345,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>PRON: se</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -3960,7 +4366,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -3971,7 +4377,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -3982,7 +4388,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -3993,7 +4399,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -4004,7 +4410,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>ADV: přičemž, zato</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -4017,7 +4432,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -4028,7 +4443,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -4039,7 +4454,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -4050,7 +4465,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -4061,7 +4476,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -4074,34 +4492,39 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -4111,7 +4534,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -4121,7 +4544,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -4131,7 +4554,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -4141,7 +4564,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>NUM: -103</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -4153,7 +4585,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Frac
           <ul>
@@ -4162,10 +4594,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Frac
           <ul>
@@ -4174,7 +4606,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Frac
           <ul>
@@ -4183,12 +4615,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -4197,7 +4632,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -4206,7 +4641,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -4215,7 +4650,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -4224,7 +4659,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -4235,7 +4673,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Mult,Sets
           <ul>
@@ -4244,10 +4682,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Mult,Sets
           <ul>
@@ -4256,7 +4694,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Mult,Sets
           <ul>
@@ -4265,12 +4703,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -4281,7 +4722,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -4291,7 +4732,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -4301,7 +4742,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -4312,7 +4753,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -4324,7 +4768,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -4333,10 +4777,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -4345,7 +4789,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -4354,7 +4798,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -4365,34 +4812,37 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4402,7 +4852,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4412,7 +4862,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4422,7 +4872,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4432,7 +4882,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4444,34 +4897,39 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4481,7 +4939,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4491,7 +4949,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4501,7 +4959,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4511,7 +4969,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>PRON: se</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -4523,34 +4990,39 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -4562,10 +5034,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -4577,7 +5049,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -4589,7 +5061,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>AUX-Fin: bychom, bych</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -4603,7 +5084,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -4615,10 +5096,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -4630,7 +5111,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -4643,7 +5124,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>AUX-Fin: byste, bys</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -4657,7 +5147,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -4669,11 +5159,11 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>3
           <ul>
-            <li>AUX-Fin: je, jsou, nejsou, není, by, bude, budou</li>
+            <li>AUX-Fin: je, jsou, není, nejsou, by, bude, budou</li>
             <li>DET: jejich, jeho, její, jejichž, jejího, jehož, jejím, jejímž, jejích, jejími</li>
             <li>PRON: jej, je, jim, jí, ji, nich, ní, jimi, nimi, ně</li>
             <li>VERB-Fin: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
@@ -4681,7 +5171,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -4693,7 +5183,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -4705,7 +5195,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>AUX-Fin: by, je</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -4719,51 +5218,57 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Gender[psor]</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Gender[psor]</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Gender[psor]</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Gender[psor]</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Gender[psor]</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -4773,7 +5278,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -4782,7 +5287,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -4792,7 +5297,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -4802,7 +5307,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -4814,7 +5322,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -4823,7 +5331,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -4832,7 +5340,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -4842,7 +5350,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -4851,7 +5359,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -4862,7 +5373,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -4871,7 +5382,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -4880,10 +5391,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -4892,7 +5403,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Masc,Neut
           <ul>
@@ -4903,13 +5417,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -4918,42 +5432,48 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -4962,7 +5482,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -4971,7 +5491,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -4980,7 +5500,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -4989,7 +5509,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -5000,7 +5523,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -5009,7 +5532,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -5018,7 +5541,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -5027,7 +5550,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -5036,7 +5559,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -5047,24 +5573,27 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="16%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -5082,7 +5611,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -5098,7 +5627,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -5113,7 +5642,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -5135,7 +5664,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Abbr</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: j</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -5155,7 +5697,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>AdpType</a>
           <ul>
@@ -5178,7 +5720,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>AdpType</a>
           <ul>
@@ -5194,14 +5736,14 @@ udver: '2'
             </li>
             <li>Voc
               <ul>
-                <li>ADP: ve, ke, se, ze, ode, beze, přede</li>
+                <li>ADP: ve, ke, ze, se, ode, beze, přede</li>
               </ul>
             </li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>AdpType</a>
           <ul>
@@ -5224,7 +5766,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>AdpType</a>
           <ul>
@@ -5247,7 +5789,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>AdpType</a>
+          <ul>
+            <li>Prep
+              <ul>
+                <li>ADP: do, od</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>AdpType</a>
           <ul>
@@ -5272,7 +5827,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>ConjType</a>
           <ul>
@@ -5285,10 +5840,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>ConjType</a>
           <ul>
@@ -5301,7 +5856,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>ConjType</a>
           <ul>
@@ -5315,12 +5870,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>ConjType</a>
+          <ul>
+            <li>Oper
+              <ul>
+                <li>CCONJ: plus</li>
+                <li>SYM: +, >, -, <, :, .</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -5344,13 +5913,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -5378,7 +5947,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>PUNCT: -</li>
+                <li>X: Beratung, Management, PMC, Personal, und</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -5399,7 +5982,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Hyph</a>
           <ul>
@@ -5412,20 +5995,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Hyph</a>
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: do, od, pod</li>
+                <li>ADJ: do, pod</li>
               </ul>
             </li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Hyph</a>
           <ul>
@@ -5438,7 +6021,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Hyph</a>
           <ul>
@@ -5451,7 +6034,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Hyph</a>
           <ul>
@@ -5466,7 +6052,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NameType</a>
           <ul>
@@ -5585,10 +6171,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NameType</a>
           <ul>
@@ -5621,7 +6207,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NameType</a>
           <ul>
@@ -5811,7 +6397,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>NameType</a>
           <ul>
@@ -5886,7 +6475,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumForm</a>
           <ul>
@@ -5904,7 +6493,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumForm</a>
           <ul>
@@ -5922,7 +6511,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumForm</a>
           <ul>
@@ -5940,7 +6529,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumForm</a>
           <ul>
@@ -5963,7 +6552,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>NumForm</a>
+          <ul>
+            <li>Digit
+              <ul>
+                <li>NUM: -103</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumForm</a>
           <ul>
@@ -5988,7 +6590,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumValue</a>
           <ul>
@@ -6006,7 +6608,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumValue</a>
           <ul>
@@ -6019,7 +6621,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumValue</a>
           <ul>
@@ -6037,7 +6639,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumValue</a>
           <ul>
@@ -6055,7 +6657,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>NumValue</a>
           <ul>
@@ -6075,7 +6680,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -6134,7 +6739,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -6153,7 +6758,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -6183,7 +6788,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -6269,7 +6874,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -6307,16 +6915,16 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
 
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -6329,30 +6937,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Typo</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>SYM: |</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
-      <h2>Syntax</h2>
-      
-      <h3>Auxiliary Verbs and Copula</h3>
-      
-      <ul>
-      <li>This corpus uses 31 lemmas as copulas (<a>cop</a>). Examples: být, bývat, *, determinační, dlouhý, doktrína, doprovázený, dosažitelný, dále, faktor, impuls, jeden, krásný, lhostejný, metoda, měkký, nabubřování, naopak, nebo, náboženství, odolný, pohyblivost, prostředek, souhrn, titul, uhlí, výhodný, zahrada, znak, značka, řehole.</li>
-      </ul>
-    </td>
-    <td width="20%" valign="top">
-      <h2>Syntax</h2>
-      
-      <h3>Auxiliary Verbs and Copula</h3>
-      
-      <ul>
-      <li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: být, není-li, je-li, jsou-li, nejsou-li, byt.</li>
-      </ul>
-    </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -6361,7 +6964,25 @@ udver: '2'
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: být, bývat.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: být.</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: být, bývat.</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -6370,7 +6991,16 @@ udver: '2'
       <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: být, bývat, bývávat.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -6381,31 +7011,36 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
-      <ul>
-      <li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: být, *, &camount;, bývat, jako, rozdělený, ten, třeba, vytištěný.</li>
-      <li>This corpus uses 5 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat, *, &camount;, rámec.</li>
-      </ul>
-    </td>
-    <td width="20%" valign="top">
-      <ul>
-      <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: být, oceněný, oprávněný, stanovený.</li>
-      <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, není-li.</li>
-      </ul>
-    </td>
-    <td width="20%" valign="top">
-      <ul>
-      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
-      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
-      </ul>
-    </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
       <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat.</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+      <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: být.</li>
+      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
+      <ul>
+      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
+      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
+      <ul>
+      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
+      <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat.</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
+      <ul>
+      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: _, být.</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
       <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: být.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
@@ -6413,7 +7048,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -6440,7 +7075,8 @@ udver: '2'
             <li>VERB-Inf--NOUN-Nom (185)</li>
             <li>VERB-Inf--PRON-Nom (15)</li>
             <li>VERB-Part--NOUN (32)</li>
-            <li>VERB-Part--NOUN-Acc (5)</li>
+            <li>VERB-Part--NOUN-Acc (4)</li>
+            <li>VERB-Part--NOUN-Acc-ADP(přes) (1)</li>
             <li>VERB-Part--NOUN-Gen (137)</li>
             <li>VERB-Part--NOUN-Gen-ADP(kolem) (2)</li>
             <li>VERB-Part--NOUN-Gen-ADP(na) (2)</li>
@@ -6455,7 +7091,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -6466,7 +7102,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Dat (1)</li>
             <li>VERB-Fin--NOUN-Gen (4)</li>
             <li>VERB-Fin--NOUN-Loc (1)</li>
-            <li>VERB-Fin--NOUN-Nom (628)</li>
+            <li>VERB-Fin--NOUN-Nom (627)</li>
             <li>VERB-Fin--PRON-Nom (2)</li>
             <li>VERB-Inf--NOUN-Nom (1)</li>
             <li>VERB-Part--NOUN-Gen (1)</li>
@@ -6475,7 +7111,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -6501,7 +7137,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -6557,7 +7193,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -6584,7 +7231,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -6594,7 +7241,7 @@ udver: '2'
             <li>VERB-Fin--NOUN (3)</li>
             <li>VERB-Fin--NOUN-Acc (5612)</li>
             <li>VERB-Fin--NOUN-Gen (143)</li>
-            <li>VERB-Fin--NOUN-Nom (98)</li>
+            <li>VERB-Fin--NOUN-Nom (99)</li>
             <li>VERB-Fin--PRON (18)</li>
             <li>VERB-Fin--PRON-Acc (612)</li>
             <li>VERB-Fin--PRON-Gen (4)</li>
@@ -6620,7 +7267,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -6638,7 +7285,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -6669,7 +7316,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -6709,7 +7356,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -6737,7 +7392,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -6763,7 +7418,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -6773,7 +7428,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -6789,7 +7444,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -6816,7 +7471,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -6831,35 +7494,42 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Reflexive Verbs</h3>
       
       <ul>
         <li>This corpus contains 1141 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, zabývat se, stávat se, snažit se, projevovat se, podařit se, dát se, měnit se, dostat se, zúčastnit se, podílet se, zdát se, lišit se, týkat se, jevit se, projevit se, vyskytovat se, konat se, objevit se, dostávat se, objevovat se, pohybovat se, domnívat se, rozhodnout se, vrátit se, rozvíjet se, podívat se, setkávat se, setkat se, týkající se, ukázat se, opírat se, učit se, ukazovat se, uskutečnit se, uvědomit si, chovat se, vyznačovat se, změnit se, dít se, pokusit se, vracet se, vytvořit se, uplatňovat se, uvědomovat si, hodit se, představit si, sejít se, starat se, líbit se</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Reflexive Verbs</h3>
       
       <ul>
         <li>This corpus contains 28 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: vztahovat se, týkající se, týkat se, shodovat se, stát se, vztahující se, podrobit se, dopustit se, rovnat se, rozhodnout se, stávat se, lišit se, přiblížení se, vyskytující se, blížící se, dotýkat se, dozvědět se, konsolidovaný se, liší-li se, nejedná-li se, nerozhodnou-li se, odchýlit se, uchovávat se, vykazovat se, vážící se, zbavovat se, řídit se, řídící se</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Reflexive Verbs</h3>
       
       <ul>
         <li>This corpus contains 1008 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, dívat se, zeptat se, zdát se, snažit se, ptát se, vrátit se, podívat se, všimnout si, myslet si, usmát se, bát se, rozhodnout se, dát se, zastavit se, chovat se, smát se, uvědomit si, dostat se, dotknout se, objevit se, starat se, vydat se, představit si, vzpomenout si, cítit se, ozvat se, posadit se, podařit se, uvědomovat si, vracet se, líbit se, divit se, narodit se, obrátit se, prohlížet si, představovat si, těšit se, dít se, otočit se, jmenovat se, otázat se, stěžovat si, přát si, vzít si, bránit se, pustit se, stávat se, blížit se, dozvědět se</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Reflexive Verbs</h3>
       
       <ul>
         <li>This corpus contains 1531 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, podařit se, snažit se, zdát se, dostat se, zabývat se, objevit se, rozhodnout se, vrátit se, domnívat se, týkat se, myslit si, podílet se, pohybovat se, zúčastnit se, pokusit se, dohodnout se, stávat se, jednat se, vracet se, konat se, ptát se, sejít se, změnit se, věnovat se, zvýšit se, setkat se, uvědomit si, dozvědět se, lišit se, objevovat se, pokoušet se, dařit se, účastnit se, bát se, obávat se, představit si, přát si, vyjádřit se, cítit se, projevit se, zeptat se, dopustit se, ukázat se, dít se, narodit se, obrátit se, týkající se, chovat se, líbit se</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h3>Reflexive Verbs</h3>
+      
+      <ul>
+        <li>This corpus contains 3 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: _ se, _ se se, aby se</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <h3>Reflexive Verbs</h3>
       
       <ul>
@@ -6868,35 +7538,42 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Reflexive Passive</h3>
       
       <ul>
         <li>This corpus contains 655 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: používat se, vyrábět se, rozumět se, provádět se, dát se, muset se, moci se, předpokládat se, mít se, počítat se, říkat se, smět se, uplatňovat se, dosáhnout se, dělat se, uvádět se, užívat se, pracovat se, stavět se, považovat se, začít se, plnit se, připravovat se, ukládat se, označovat se, spotřebovat se, využívat se, hovořit se, pokračovat se, realizovat se, dodávat se, nazývat se, chápat se, doporučovat se, dělit se, mluvit se, zdůrazňovat se, zjistit se, najít se, očekávat se, poskytovat se, použít se, stanovit se, vyžadovat se, řešit se, měřit se, pokládat se, prodávat se, psát se, přenášet se</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Reflexive Passive</h3>
       
       <ul>
         <li>This corpus contains 78 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: rozumět se, použít se, považovat se, účtovat se, sestavovat se, odpisovat se, uvádět se, postupovat se, uvést se, provádět se, zaúčtovat se, ocenit se, označovat se, vykazovat se, oceňovat se, zjistit se, odepsat se, ověřovat se, očekávat se, pohlížet se, stanovit se, upravit se, Nestanoví-li se, doplnit se, moci se, odstraňovat se, otevírat se, posuzovat se, snižovat se, snížit se, uschovávat se, vytvářet se, zahrnout se, zapisovat se, Změní-li se, dokumentovat se, lišit se, muset se, mít se, nabývat se, odůvodnit se, pokračovat se, poskytovat se, počítat se, promítat se, předpokládat se, převádět se, převést se, přihlédnout se, přihlížet se</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Reflexive Passive</h3>
       
       <ul>
         <li>This corpus contains 200 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: dát se, otevřít se, chtít se, říkat se, muset se, dělat se, začít se, vědět se, mluvit se, najít se, používat se, psát se, rozkřiknout se, moci se, měnit se, počítat se, připravovat se, příst se, vařit se, vysílat se, zbarvovat se, změnit se, bojovat se, chodit se, dostat se, dělávat se, hrnout se, hrát se, jet se, kouřit se, mít se, nabízet se, otevírat se, pootevřít se, posílat se, poznat se, prodlužovat se, prodávat se, proměnit se, propouštět se, pěstovat se, předpokládat se, přestavět se, rozkmitat se, roznést se, stavět se, svítit se, uvidět se, vcházet se, vyhodit se</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Reflexive Passive</h3>
       
       <ul>
         <li>This corpus contains 951 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: dát se, mít se, uskutečnit se, hrát se, moci se, muset se, počítat se, předpokládat se, uvádět se, očekávat se, mluvit se, prodávat se, říkat se, začít se, konat se, zvýšit se, hovořit se, platit se, najít se, změnit se, používat se, psát se, nabízet se, prodat se, jednat se, připravovat se, dostat se, rozhodnout se, ukázat se, dostávat se, měnit se, vědět se, obchodovat se, snížit se, uvažovat se, diskutovat se, potvrdit se, odhadovat se, hledat se, provádět se, snižovat se, vést se, dělat se, chystat se, vrátit se, vytvořit se, čekat se, dělit se, považovat se, ukazovat se</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h3>Reflexive Passive</h3>
+      
+      <ul>
+        <li>This corpus contains 7 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: _ se, _ si, _ se se, _ chodit se, _ cílevědomý se, _ rozuměli se, aby se</li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <h3>Reflexive Passive</h3>
       
       <ul>
@@ -6905,7 +7582,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -6915,14 +7592,14 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: seznámit se</li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -6932,7 +7609,7 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -6942,7 +7619,10 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -6954,7 +7634,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -6963,7 +7643,7 @@ udver: '2'
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -6972,7 +7652,7 @@ udver: '2'
       <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -6981,7 +7661,7 @@ udver: '2'
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -6990,7 +7670,16 @@ udver: '2'
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="20%" valign="top">
+    <td width="16%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 8 relation subtypes: <a>advmod:emph</a>, <a>compound:prt</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+      <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>expl</a></li>
+      <li>The following 10 relation types are not used in this corpus at all: <a>iobj</a>, <a>ccomp</a>, <a>vocative</a>, <a>dislocated</a>, <a>acl</a>, <a>det</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
