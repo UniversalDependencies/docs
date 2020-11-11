@@ -20,7 +20,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   back; if this is the case, you will see lists of modified files in the output and you
   will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done</code>
-* Run `tools/check_files.pl |& tee release-2.6-report.txt | less`.
+* Run `tools/check_files.pl |& tee release-2.7-report.txt | less`.
   (Check the code for parameters that are currently hard-coded, such as the release number.)
   The script will visit all repositories and report any missing files, unexpected or unexpectedly named files.
   It will download the [online validation report](http://quest.ms.mff.cuni.cz/udvalidator/)
@@ -69,7 +69,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).<br />
   <code>cd docs-automation ; make all ; cd ../docs ; git pull --no-edit ; git commit -a -m 'Updated title page.' ; git push</code>
 * Run the `conllu-stats.pl` script again (but with different settings) and generate the long statistics that are displayed in the docs; note that the script takes the release number as a parameter and puts it in the generated index page:<br />
-  <code>cd docs ; git pull --no-edit ; cd .. ; for i in $(cat released_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --release 2.6 --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
+  <code>cd docs ; git pull --no-edit ; cd .. ; for i in $(cat released_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --release 2.7 --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
 * Generate side-by-side comparison whenever there are multiple treebanks of one language:<br />
   <code>perl tools/generate_comparison_of_treebanks.pl ; cd docs ; git add treebanks/*-comparison.md ; git commit -m 'Updated comparison of treebanks.' ; git push ; cd ..</code>
 * Run two other scripts that generate the lists of language-specific features and dependency
@@ -88,21 +88,21 @@ See [here](release_checklist.html) for the checklist for data contributors.
   directly in a MarkDown file, and then it will re-generate only the HTML page based on this MarkDown file.
   We probably need to ask Filip or Sampo to re-run Jekyll manually? A possible hack would be to insert a blank line at the end of every
   affected MarkDown file but it is an ugly approach.
-* Tag the current commit in all repositories including docs with the tag of the current release (`git tag r2.6` for UD 2.6).
+* Tag the current commit in all repositories including docs with the tag of the current release (`git tag r2.7` for UD 2.7).
   Push the tag to Github: `git push origin --tags`.
   You may even tag a particular commit retroactively: `git tag -a r2.1 9fceb02`.
   If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
   this is how you remove the tag from where it is now: `git tag -d r2.1`.
   And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.<br />
-  <code>for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.6 ; git push --tags ; cd .. ; echo ; done</code>
+  <code>for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.7 ; git push --tags ; cd .. ; echo ; done</code>
 
 ## Releasing the data
 
 * Run the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment,
   and its arguments are names of folders to be released.<br />
-  <code>RELEASE=2.6 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
+  <code>RELEASE=2.7 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
   * If we later find out that we need to fix a bug in one (or a few) repository, we can update the release folder without building everything from scratch:<br />
-    <code>RELEASE=2.6 tools/package_ud_release.sh --update UD_X UD_Y</code>
+    <code>RELEASE=2.7 tools/package_ud_release.sh --update UD_X UD_Y</code>
 * Make the release packages temporarily available for download somewhere and ask the treebank providers to check them before we archive them in Lindat.
 * Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS). Tell Milan Straka that he can start training UDPipe models of the new data.
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE)
@@ -111,7 +111,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   then make sure it reaches the Lindat staff, either by e-mail at lindat-help@ufal.mff.cuni.cz, or by a pull request
   as described in the README file.
   <br />
-  <code>LICENSE/generate_license_for_lindat.pl --release 2.6 --date 2020/05/15 $(cat released_treebanks.txt) ; cd LICENSE ; git add license-ud-* ; git commit -a -m 'Generated license for UD 2.6.' ; git push ; cd ..</code>
+  <code>LICENSE/generate_license_for_lindat.pl --release 2.7 --date 2020/05/15 $(cat released_treebanks.txt) ; cd LICENSE ; git add license-ud-* ; git commit -a -m 'Generated license for UD 2.7.' ; git push ; cd ..</code>
 * Once the Lindat staff make the new license list available in their system, we can create
   a new Lindat item for the new version of UD. The preferable way: Create the new item as
   a new version of the item representing the previous release of Universal Dependencies.
@@ -141,7 +141,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 <small><code style='color:lightgrey'>
 \# copy metadata to biblio<br />
-rel="2.6"<br />
+rel="2.7"<br />
 path=$(pwd)<br />
 cd /net/data<br />
 tar xzf $path/release-$rel/ud-treebanks-v$rel.tgz<br />
