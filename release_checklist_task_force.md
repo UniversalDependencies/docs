@@ -99,7 +99,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   * If we later find out that we need to fix a bug in one (or a few) repository, we can update the release folder without building everything from scratch:<br />
     <code>RELEASE=2.7 tools/package_ud_release.sh --update UD_X UD_Y</code>
 * Make the release packages temporarily available for download somewhere and ask the treebank providers to check them before we archive them in Lindat.
-* Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS). Tell Milan Straka that he can start training UDPipe models of the new data.
+* Tell Milan Straka that he can start training UDPipe models of the new data.
+  Tell Maarten Janssen that he can start importing the data to TEITOK.
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE)
   and the README file there. The script <tt>generate_license_for_lindat.pl</tt> can be invoked from the parent folder
   and it will create a HTML and a XML file in the LICENSE folder. Add and push the files to the LICENSE repository,
