@@ -90,24 +90,26 @@ udver: '2'
 ### Core Arguments and Adjuncts
 
 * Tagalog uses the [Austronesian voice system](https://en.wikipedia.org/wiki/Austronesian_alignment), a typologically unusual class of morphosyntactic alignment. In Tagalog, two core arguments (the topic argument and non-topic argument) are marked by prepositions, with their semantic roles determined by voice affixes on the verb. For the purposes of UD annotation, the following guidelines are used:
-  * The topic argument (marked by the preposition *ang*) is attached to the predicate using the [nsubj](https://universaldependencies.org/u/dep/nsubj.html) relation.
-  * The non-topic argument (marked by the preposition *ng*) is attached to the predicate using the [obj](https://universaldependencies.org/u/dep/obj.html) relation.
-  * Other adjuncts are attached to the predicate using the [obl](https://universaldependencies.org/u/dep/obl.html) relation.
+  * The topic/nominative argument (marked by the preposition *ang*) is attached to the predicate using the [nsubj](https://universaldependencies.org/u/dep/nsubj.html) relation.
+  * The non-topic/genitive argument (marked by the preposition *ng*) is attached to the predicate using the [obj](https://universaldependencies.org/u/dep/obj.html) relation.
+  * If there are two *ng*-arguments, the more agent-like argument is attached as [obj]() and the more patient-like argument is attached as [iobj]().
+  * Other nominals are attached to the predicate using the [obl](https://universaldependencies.org/u/dep/obl.html) relation.
 
 ### Non-verbal Predicates
 
-* Non-verbal clauses (such as noun, adverb, or adjective phrases) may be used as predicates in Tagalog. In these instances, the highest node of the clause is labeled as [root](https://universaldependencies.org/u/dep/root.html), and all other nodes typically connected to the root verb are instead connected to this node.
+* Non-verbal clauses (such as noun, adverb, or adjective phrases) may be used as predicates in Tagalog. In these instances, the highest node of the clause is labeled as [root](https://universaldependencies.org/u/dep/root.html), and all other nodes typically connected to the root verb are instead connected to this node. There is no copula.
 
 ### Relations Overview
 
 * The following relation subtypes are used in Tagalog:
-  * [nsubj:pass]() for nominal subjects of verbs in undergoer-focused voice
+  * [nsubj:pass]() for nominal subjects of verbs in patient-focused voice
   * [nsubj:lfoc]() for nominal subjects of verbs in location-focused voice
   * [nsubj:bfoc]() for nominal subjects of verbs in beneficiary-focused voice
-  * [csubj:pass]() for clausal subjects of verbs in undergoer-focused voice
+  * [csubj:pass]() for clausal subjects of verbs in patient-focused voice
   * [csubj:lfoc]() for clausal subjects of verbs in location-focused voice
   * [csubj:bfoc]() for clausal subjects of verbs in beneficiary-focused voice
   * [obj:agent]() for agents (actors) of verbs in a non-actor-focused voice
+  * [iobj:patient]() for patients (undergoers) of verbs in a voice where neither agent nor patient is the subject
   * [compound:redup]() for reduplicated nouns and adjectives (reduplication intensifies their meaning)
   * [nmod:poss]() for possessive relation between nominals
   * [acl:relcl]() for relative adnominal clauses
