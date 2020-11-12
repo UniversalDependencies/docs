@@ -83,11 +83,6 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Run the script `makedata.sh` in the docs repository. It will regenerate the YAML files in the folder `_data`; this is needed
   for cross-lingual links between documentation pages devoted to individual UPOS tags, features and relations.<br />
   <code>cd docs ; ./makedata.sh ; git commit -a -m 'Updated crosslingual links.' ; git push ; cd ..</code><br />
-  Note that the script updates the data files that are used in many MarkDown pages but it does not update the MarkDown pages directly.
-  Jekyll thus will not notice that almost all documentation must be re-generated; it will update nothing, until a change happens
-  directly in a MarkDown file, and then it will re-generate only the HTML page based on this MarkDown file.
-  We probably need to ask Filip or Sampo to re-run Jekyll manually? A possible hack would be to insert a blank line at the end of every
-  affected MarkDown file but it is an ugly approach.
 * Tag the current commit in all repositories including docs with the tag of the current release (`git tag r2.7` for UD 2.7).
   Push the tag to Github: `git push origin --tags`.
   You may even tag a particular commit retroactively: `git tag -a r2.1 9fceb02`.
