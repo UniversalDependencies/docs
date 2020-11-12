@@ -17,4 +17,4 @@ The Danube was silent and calm .
 cop(silent-4, was-2)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:43:14 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:20 CET 2020 -->

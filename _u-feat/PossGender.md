@@ -51,4 +51,4 @@ daughter; PossGender=Fem|Gender=Fem);
 dítě</I></span>
 (mother's
 child; PossGender=Fem|Gender=Neut).
-<!-- Interlanguage links updated Út zář 29 20:43:04 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->

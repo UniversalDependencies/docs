@@ -21,4 +21,4 @@ punct(mouillé, .)
 ~~~
 
 Since the **UD_French-Spoken** corpus is an oral corpus, there are no punctuation signs (apart from hyphens in certain words or constructions).
-<!-- Interlanguage links updated Út zář 29 20:43:27 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:38 CET 2020 -->

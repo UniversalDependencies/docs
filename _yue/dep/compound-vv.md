@@ -137,4 +137,4 @@ These verbs include 着 / _zeok6_ "touched, got at, successful after an attempt"
 10	leave."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:13 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:19 CET 2020 -->

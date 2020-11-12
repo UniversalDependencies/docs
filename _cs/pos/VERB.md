@@ -76,4 +76,4 @@ the standard forms both in predication and to modify nouns.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a verb?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAVerbLinguistics.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Verb)
-<!-- Interlanguage links updated Út zář 29 20:42:58 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:58 CET 2020 -->

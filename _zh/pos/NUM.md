@@ -15,4 +15,4 @@ Cardinal numerals are covered by `NUM` regardless of syntactic function and rega
 
 - 1, 2, 3, 4, 5, 100, 10,358, 5.23, 3/4
 - 一 / _yī_ "one", 二 / _èr_ "two", 三 / _sān_ "three", 一百 / _yībǎi_ "one hundred", 五十六 / _wǔshíliù_ "fifty-six", 一萬三百五十八 / _yīwànsānbǎiwǔshíbā_ "ten thousand three hundred and fifty-eight", 四分之三 / _sìfēnzhīsān_ "three-quarters"
-<!-- Interlanguage links updated Út zář 29 20:42:56 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:54 CET 2020 -->

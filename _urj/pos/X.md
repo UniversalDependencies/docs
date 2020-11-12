@@ -21,4 +21,4 @@ inflectional suffixes).
 * [fi] _cookie_, _open-source_
 
 
-<!-- Interlanguage links updated Út zář 29 20:42:59 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:58 CET 2020 -->

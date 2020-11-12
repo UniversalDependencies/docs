@@ -54,4 +54,4 @@ This is a subtype of adverb, but in Erzya it is a regular inflection of virtuall
 * [myv] _васенцеде, омбоцеде, колмоцеде_ "_for the first time, for the second time, for the third time_"
 
 
-<!-- Interlanguage links updated Út zář 29 20:43:03 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->

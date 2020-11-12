@@ -28,4 +28,4 @@ and [numbers](myv-pos/NUM) as well as of [verbs](u-pos/VERB) and
 * [myv] _тёжат_ "thousands"
 * [myv] _сёрмадыть_ "write"
 * [myv] _стакат_ "difficult"
-<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

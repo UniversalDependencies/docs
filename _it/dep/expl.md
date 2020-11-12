@@ -47,4 +47,4 @@ expl(è, C')
 In Italian clitics also appears in passive and impersonal constructions.
 For that, see the subclasses [expl:pass](expl-pass) and [expl:impers](expl-impers).
 
-<!-- Interlanguage links updated Út zář 29 20:43:18 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:25 CET 2020 -->

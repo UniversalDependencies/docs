@@ -29,4 +29,4 @@ Nouns that are not animate are inanimate.
 RNC (Russian National Corpus) examples of masculine inanimate nouns:
 
 - _род&nbsp;_ “year”, _закон&nbsp;_ “law”, _состояние&nbsp;_ “state”, _падеж&nbsp;_ “case”, _миллион&nbsp;_ “million”
-<!-- Interlanguage links updated Út zář 29 20:43:00 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->

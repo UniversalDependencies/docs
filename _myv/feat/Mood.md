@@ -71,4 +71,4 @@ The optative is used for three persons in two numbers. It expresses a concessive
 #### Examples
 
 * [myv] _ков <b>илязат</b> моле, сайть свал конёв мартот_ "where ever <b>you don't</b> go, always take paper with you (where ever you go,...)"
-<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

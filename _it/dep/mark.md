@@ -28,4 +28,4 @@ Prima di gettarsi in mare .
 mark(gettarsi, Prima)
 mwe(Prima, di)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:20 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:29 CET 2020 -->

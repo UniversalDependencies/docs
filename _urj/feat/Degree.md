@@ -9,4 +9,4 @@ udver: '2'
 
 Uralic adjectives and adverbs have degrees and should follow universal
 guidelines here.
-<!-- Interlanguage links updated Út zář 29 20:43:01 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->

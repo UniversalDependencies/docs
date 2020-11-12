@@ -29,4 +29,4 @@ number-case inflectional paradigm.
 - _воздух_&nbsp; “air”
 - _красота_&nbsp; “beauty”
 - _плавание_&nbsp; “swimming”
-<!-- Interlanguage links updated Út zář 29 20:42:55 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:53 CET 2020 -->

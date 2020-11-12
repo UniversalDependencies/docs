@@ -18,4 +18,4 @@ nsubj(laughed, I)
 nsubj(got, min)
 nsubj(said, I‌)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:22 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:32 CET 2020 -->

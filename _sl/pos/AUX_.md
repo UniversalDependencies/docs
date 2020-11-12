@@ -28,4 +28,4 @@ Note that in cases, where _biti_ is used independently as a copula or a content 
 #### Conversion from JOS
 
 In ssj500k, all instances of verb _biti_ "to be" have been annotated as Type=auxiliary. To separate the actual auxiliary function from other functions, syntax has to be taken into account. Thus, tokens of _biti_ bearing the dependency relation PPart with a main verb become annotated as `AUX˙.
-<!-- Interlanguage links updated Út zář 29 20:42:54 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:51 CET 2020 -->

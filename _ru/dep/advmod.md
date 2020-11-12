@@ -23,4 +23,4 @@ advmod(часто, менее)
 advmod(often, less)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:43:08 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:11 CET 2020 -->

@@ -23,4 +23,4 @@ B'iontach leis nár chuir Dia cosc leo; a chlann féin bhí siad imithe chun don
 dislocated(bhí, chlann)
 parataxis(B'iontach, bhí)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:17 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:25 CET 2020 -->

@@ -24,4 +24,4 @@ shortdef: 'number'
 * [sv] _förutsättningar_ "prerequisites"
 * [sv] _några färdigheter_ "some skills"
 
-<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

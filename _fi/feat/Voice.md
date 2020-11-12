@@ -20,4 +20,4 @@ and passive for verbs ([fi-pos/VERB]() and [fi-pos/AUX]()).
 
 * [fi] _paikka on <b>valittu</b>_ "a place has been <b>selected</b>"
 * [fi] _sitä <b>voidaan</b> käyttää_ "it <b>can</b> be used"
-<!-- Interlanguage links updated Út zář 29 20:43:06 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->

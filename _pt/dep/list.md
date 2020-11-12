@@ -38,4 +38,4 @@ easily analyzed using the grammatical relations of standard sentences,
 such as when there is overt coordination, then it should be analyzed
 with these more standard relations, even if it is laid out as a list
 typographically.
-<!-- Interlanguage links updated Út zář 29 20:43:20 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:29 CET 2020 -->

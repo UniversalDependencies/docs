@@ -49,4 +49,4 @@ aux(sortu-3, du-4)
 nsubj(sortu-3, aldaketak-5)
 punct(sortu-3, .-6)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:09 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:14 CET 2020 -->

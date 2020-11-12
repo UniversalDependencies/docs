@@ -11,4 +11,4 @@ clause. In the example below, *att hon ljög* is the subject.
 Att hon ljög misstänktes av alla . \n That she lied was suspected by everyone .
 csubjpass(misstänktes, ljög)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:15 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:22 CET 2020 -->

@@ -22,4 +22,4 @@ list(Стив-1, e-mail:-5)
 appos(тел.:-3, 555-9814-4)
 appos(e-mail:-5, jones@mail.ru-6)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:20 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:29 CET 2020 -->

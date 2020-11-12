@@ -27,4 +27,4 @@ dep(թ, ին)
 ~~~
 
 For more details see the [tokenization page](http://universaldependencies.org/hy/tokenization.html).
-<!-- Interlanguage links updated Út zář 29 20:43:16 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:22 CET 2020 -->

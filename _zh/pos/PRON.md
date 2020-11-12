@@ -31,4 +31,4 @@ Pronouns are words that substitute for nouns or noun phrases, whose meaning is r
   - X + 方: 對方 / _duìfāng_ "the other party", 雙方 / _shuāngfāng_ "both parties", 己方 / _jǐfāng_ "one's own side/party", 一方 / _yīfāng_ "one party", 三方 / _sānfāng_ "all three parties", etc.
   - X + 者: 前者 / _qiánzhě_ "the former", 後者 / _hòuzhě_ "the latter", 二者 / _èrzhě_ "the two", 三者 / _sānzhě_ "the three", _etc_.
   - 其餘 / _qíyú_ "the rest"
-<!-- Interlanguage links updated Út zář 29 20:42:57 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:55 CET 2020 -->

@@ -99,4 +99,4 @@ The dislocated constituent is replicated by the _am_ pronoun. The pronominalized
 ~~~
 
 Note that in Naija the [parataxis:dislocated]() relation was introduced for pre-nucleus clauses that function like dislocations.  
-<!-- Interlanguage links updated Út zář 29 20:43:17 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:25 CET 2020 -->

@@ -35,4 +35,4 @@ number-case inflectional paradigm.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a noun?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsANoun.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Noun)
-<!-- Interlanguage links updated Út zář 29 20:42:55 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:53 CET 2020 -->

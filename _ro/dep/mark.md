@@ -15,4 +15,4 @@ mark(plouă, că)
 Vin , dacă pot . \n Come-I , if can-I .
 mark(pot, dacă)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:21 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:29 CET 2020 -->

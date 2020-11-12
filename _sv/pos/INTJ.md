@@ -14,4 +14,4 @@ part of an exclamation.
 - _Tack!_ "Thanks!"
 - _Aj!_ "Ouch!"
 - _Pang!_ "Bam!"
-<!-- Interlanguage links updated Út zář 29 20:42:55 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:53 CET 2020 -->

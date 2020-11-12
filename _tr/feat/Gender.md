@@ -5,4 +5,4 @@ shortdef: 'gender'
 ---
 
 `Gender` is not used in Turkish.
-<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->

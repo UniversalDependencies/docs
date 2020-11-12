@@ -26,4 +26,4 @@ We have three cases in Portuguese: nominative (`Nom`), dative (`Dat`) and accusa
 *  nominative _eu, ele, você, tu, nós_
   accusative _lo_ (in "visando dotá-lo de poderes"), _se_ (in "a copa que amanhã se disputa")
   dative _lhe, lhes_ (in "políticas que lhes dizem respeito")
-<!-- Interlanguage links updated Út zář 29 20:43:00 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->

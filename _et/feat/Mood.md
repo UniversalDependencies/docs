@@ -28,4 +28,4 @@ Verb in quotative mood does not inflect for person. Like conditional, it combine
 Quotative combines with both voices, active and passive.<br/>
 
 Erelt 2003 = Estonian language. Edited by Mati Erelt. Linguistica Uralica Supplemenatry series vol 1. Tallinn: Estonian Academy Publishers.
-<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->

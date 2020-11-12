@@ -10,4 +10,4 @@ The flat relation is one of the relations used for multiword expressions multiwo
 Flat MWEs are annotated with a flat structure, where all subsequent words in the expression are attached to the first one using the flat label. The assumption is that these expressions do not have any internal syntactic structure and that the structural annotation is in principle arbitrary. 
 
 In Naija the [nmod:appos]() relation is used instead of `flat` when part of the expression serves to define, name, or describe the rest.
-<!-- Interlanguage links updated Út zář 29 20:43:19 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:27 CET 2020 -->

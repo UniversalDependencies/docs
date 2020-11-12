@@ -8,4 +8,4 @@ The negation modifier is the relation between a negation word and the word it mo
 
 Words 'ei', 'ära' and 'ärge' as parts of negative verb form are annotated using this relation.
 
-<!-- Interlanguage links updated Út zář 29 20:43:21 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:30 CET 2020 -->

@@ -10,4 +10,4 @@ type applies, for example due to software limitation or error.
 In the original TDT corpus, the type `dep` is additionally used to
 annotate a number of idiomatic multi-word-expressions. In UD Finnish,
 these are annotated as [fixed]().
-<!-- Interlanguage links updated Út zář 29 20:43:16 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:22 CET 2020 -->

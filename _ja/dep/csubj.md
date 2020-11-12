@@ -21,3 +21,4 @@ aux(いや, だ)
 punct(いや, 。)
 ~~~
 
+<!-- Interlanguage links updated Čt lis 12 09:43:21 CET 2020 -->

@@ -19,4 +19,4 @@ vocative(digas, hombre)
 Señor , podemos entender
 vocative(entender, Señor)
 </div>
-<!-- Interlanguage links updated Út zář 29 20:43:28 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:39 CET 2020 -->

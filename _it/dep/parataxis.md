@@ -31,4 +31,4 @@ to resort to an extensive use of parataxis, and of different flavours for differ
 
 
 
-<!-- Interlanguage links updated Út zář 29 20:43:26 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:37 CET 2020 -->

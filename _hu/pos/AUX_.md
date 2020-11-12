@@ -8,4 +8,4 @@ redirect_from: "hu/pos/AUX.html"
 ---
 
 We consider the verbs "volna", "fog", "talál" and "szokott" as `AUX` in Hungarian.
-<!-- Interlanguage links updated Út zář 29 20:42:53 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:51 CET 2020 -->

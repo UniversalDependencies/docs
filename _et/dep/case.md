@@ -16,4 +16,4 @@ punct(läks-2, .-5)
 ~~~
 
 Knight went near the castle.
-<!-- Interlanguage links updated Út zář 29 20:43:10 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:15 CET 2020 -->

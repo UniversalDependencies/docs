@@ -14,4 +14,4 @@ Foreign words appearing inside native text are tagged `X` (see also
 
 * [fi] _Uskoo ken <b>tahtsssszzt brrrzzzt</b>._
 * [fi] _Opimme fyysikoiden "<b>Let's assume a spherical cow</b>" -lähestymistavan._
-<!-- Interlanguage links updated Út zář 29 20:42:59 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:58 CET 2020 -->

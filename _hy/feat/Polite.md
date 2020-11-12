@@ -41,4 +41,4 @@ Examples:
 
 * _<b>Դուք գնացիք</b>_ (you went.`Sing`)
 * _<b>Դուք</b> գնում <b>եք</b>_ (you are.`Sing` going)
-<!-- Interlanguage links updated Út zář 29 20:43:04 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->

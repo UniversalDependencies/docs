@@ -18,4 +18,4 @@ cop(kuiva-4, on-2)
 advmod(kuiva-4, jo-3)
 punct(kuiva-4, .-5)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:23 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:32 CET 2020 -->

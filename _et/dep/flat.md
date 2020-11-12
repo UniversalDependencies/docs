@@ -11,4 +11,4 @@ The dependency relation name is used for proper nouns constituted of multiple no
 Arvo Pärt
 name(Pärt-2, Arvo-1)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:18 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:26 CET 2020 -->

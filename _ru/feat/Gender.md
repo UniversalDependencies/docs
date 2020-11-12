@@ -49,4 +49,4 @@ are usually neuter.
 * _<b>море</b>&nbsp;_ “sea”
 * _<b>мясо</b>&nbsp;_ “meat”
 * _<b>здание</b>&nbsp;_ “building”
-<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->

@@ -9,4 +9,4 @@ Two values of Aspect are used in Hungarian, both of which denote productive deri
 Freq (frequentative): üt - ütöget (hit - hit several times)
 
 Mod (modal): üt - üthet (hit - (he) may hit)
-<!-- Interlanguage links updated Út zář 29 20:43:00 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->

@@ -35,4 +35,4 @@ _(once, twice)_ etc.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a numeral?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsANumeral.htm)
 - [Wikipedia: Numeral](http://en.wikipedia.org/wiki/Numeral_%28linguistics%29)
-<!-- Interlanguage links updated Út zář 29 20:42:56 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:54 CET 2020 -->

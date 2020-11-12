@@ -23,4 +23,4 @@ nummod(procent, 13)
 Erik tjänar ungefär 400 kr \n Erik earns approximately 400 kr
 nummod(kr, 400)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:24 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:34 CET 2020 -->

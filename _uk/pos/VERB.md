@@ -38,4 +38,4 @@ Passive and active adjectival participles are non-finite verb forms that share p
 - Passive adjectival participle is used to construct passive voice: _несений, несена, несене, несені_ &nbsp;“carried” (passive participle in different genders and numbers). It is also used separately as an adjective: _ношений, драний_ &nbsp;“carried, torn/ragged”. Their meaning is almost identical but the usage slightly varies. Both groups can be used in nominal predication with [copula](uk-dep/cop). Only true participles (verbs) can be used to form the passive voice (but it may be sometimes difficult to distinguish from copula constructions, see [AUX]()). On the other hand, the participial adjectives inflect for case and thus can modify nouns.
 - Active participle (it is considered ungrammatical but still used occasionally, which is why it is encoded): _несучий, несуча, несуче, несучі_ &nbsp;“carrying” (present adjectival participle in different genders and numbers).
 
-<!-- Interlanguage links updated Út zář 29 20:42:59 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:58 CET 2020 -->

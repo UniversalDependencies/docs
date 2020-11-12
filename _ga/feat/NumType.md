@@ -33,4 +33,4 @@ Ordinal numbers can be used to show order of items. In Irish, the form uses the 
 * _<b>an chéad</b> lá_ "the first day"
 * _<b>an dara</b> dóigh_ "the second prospect"
 * _<b>an 17ú</b> Marta_ "the 17th of March"
-<!-- Interlanguage links updated Út zář 29 20:43:03 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->

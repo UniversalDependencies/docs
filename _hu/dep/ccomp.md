@@ -5,4 +5,4 @@ shortdef: 'clausal complement'
 ---
 
 Clausal objects are marked with ccomp:obj, clauses that express a core dependent of the main verb but are not objects are marked with ccomp:obl, and clauses that express a predicative dependent of the main verb are marked with ccomp:pred.
-<!-- Interlanguage links updated Út zář 29 20:43:12 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:17 CET 2020 -->

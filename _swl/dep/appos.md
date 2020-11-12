@@ -11,4 +11,4 @@ An appositional modifier of a nominal is a nominal immediately following the fir
 PEK DYKA-UPP PRO1.FL MEDLEM INUTI REGION FÖRESLÅ OBJPRO1 glosa@& ORDFÖRANDE INUTI VGDI@b@en \n We, the members, showed up in the region and suggested me to be president of the VGDI
 appos(PRO1.FL, MEDLEM)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:09 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:13 CET 2020 -->

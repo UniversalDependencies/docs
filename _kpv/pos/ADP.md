@@ -4,4 +4,4 @@ title: 'ADP'
 shortdef: 'adposition'
 udver: '2'
 ---
-<!-- Interlanguage links updated Út zář 29 20:42:53 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:49 CET 2020 -->

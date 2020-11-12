@@ -34,4 +34,4 @@ Our analysis follows a copula-predicate-subject analysis as per Uí Dhonnchadha 
 * Fronting constructions: _Is ise a chonaic sé_ "It is she whom he saw" [lit. `Is her REL saw he']
 * Identification constructions: _Is iad na buaiteoirí_ "They are the winners"  [`is them the winners']
 * Idiomatic use: _Is maith liom tae_ "I like tea" [`is good with-me tea']
-<!-- Interlanguage links updated Út zář 29 20:42:53 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:51 CET 2020 -->

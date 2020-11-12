@@ -85,4 +85,4 @@ In languages that only distinguish human from non-human, this value includes
 inanimates. In languages that distinguish human animates, non-human animates
 and inanimates, this value is used only for non-human animates, while `Inan`
 is used for inanimates.
-<!-- Interlanguage links updated Út zář 29 20:43:00 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->

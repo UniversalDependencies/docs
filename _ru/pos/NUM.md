@@ -51,4 +51,4 @@ their syntactic and morphological behavior.
   _тысячи&nbsp;_ is a noun.
   In numeric expressions, e.g. _110 <b>тысяч</b> долларов&nbsp;_ (“110 <b>thousand</b> dollars”), it is a cardinal numeral.
 - _много, мало, немного, немало, несколько, достаточно&nbsp;_ “many, few, not many, a lot, several, enough”: pronominal quantifiers are ambiguous between cardinal numerals (tagged `NUM` when they refer to imprecise quantities) and adverbs (tagged [ADV]() when they refer to degree/intensity). As a rule, the latter have verbs, adjectives, and adverbs as their head (e.g. _я был несколько груб_ “I was a bit rude”). Note that the words _более, больше, менее, меньше_ “more than, less than” are considered comparative forms of the numerals _много_ and _мало_ when they are used in constructions with cardinal numerals, e.g. _более пяти студентов_ “more than five students” (see [specific-syntax](http://universaldependencies.org/ru/overview/specific-syntax.html#more-than)).
-<!-- Interlanguage links updated Út zář 29 20:42:56 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:54 CET 2020 -->

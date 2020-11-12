@@ -30,4 +30,4 @@ Bir tek Ali okumamış . \n Only Ali did not read
 det(Ali, bir)
 det(Ali, tek)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:18 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:26 CET 2020 -->

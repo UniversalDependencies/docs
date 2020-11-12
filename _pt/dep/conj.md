@@ -132,4 +132,4 @@ conj(B, C)
 conj(A, B)
 ~~~
 -->
-<!-- Interlanguage links updated Út zář 29 20:43:14 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:20 CET 2020 -->

@@ -64,4 +64,4 @@ In order to have only one subtree for each pile of disluencies or reformulations
 11	your	_	_	_	_	0	_	_	_
 12	vehicles	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:26 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:36 CET 2020 -->

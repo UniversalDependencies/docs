@@ -106,4 +106,4 @@ Parallel constructions are a special case of juxtaposed clauses, in which a sing
 14	has	_	_	_	_	0	_	_	_
 15	passed	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:26 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:37 CET 2020 -->

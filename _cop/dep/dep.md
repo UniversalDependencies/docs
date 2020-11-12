@@ -9,4 +9,4 @@ For all cases not covered by these guidelines, the label dep may be used to deno
 
 Another specific use of `dep` in the Coptic Treebank is as the function of tokens representing lacunae (e.g. `[...]`) or tokens representing incomplete words which cannot be reconstructed from context. These are all attached to the root/local root of their clause.
 
-<!-- Interlanguage links updated Út zář 29 20:43:15 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:22 CET 2020 -->

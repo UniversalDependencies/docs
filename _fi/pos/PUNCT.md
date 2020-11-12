@@ -12,4 +12,4 @@ used to delimit linguistic units in printed text.
 * Period: _<b>.</b>_
 * Comma: _<b>,</b>_
 * Parentheses: _<b>()</b>_
-<!-- Interlanguage links updated Út zář 29 20:42:57 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:56 CET 2020 -->

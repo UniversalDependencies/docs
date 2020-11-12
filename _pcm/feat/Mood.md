@@ -42,4 +42,4 @@ The jussive aspect is used to exhort someone to do something. It is carried by t
 #### Example
 
 * _<b>make</b> you dey tink of oda people_ "you should think of other people"
-<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

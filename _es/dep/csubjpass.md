@@ -12,4 +12,4 @@ for `csubjpass`.
 Es sabido que Maria llega siempre tarde . \n It is known that Maria arrives always late .
 csubjpass(sabido, llega)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:15 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:22 CET 2020 -->

@@ -40,4 +40,4 @@ Typically, argument with non-accusative case marking are ``obl``.
 3	okudum	oku	VERB	VERB	Number=Sing|Person=1|Tense=Past	0	root
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:43:25 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:35 CET 2020 -->

@@ -19,3 +19,4 @@ punct(食べ, 。)
 neg(支持, 不)
 ~~~
 
+<!-- Interlanguage links updated Čt lis 12 09:43:30 CET 2020 -->

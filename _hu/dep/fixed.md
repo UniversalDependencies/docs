@@ -6,4 +6,4 @@ shortdef: 'multi-word expression'
 ---
 
 For light verb constructions, we introduced the additional label lvc, which is appended to the normal dependency relation like dobj:lvc, nsubj:lvc etc.
-<!-- Interlanguage links updated Út zář 29 20:43:18 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:26 CET 2020 -->

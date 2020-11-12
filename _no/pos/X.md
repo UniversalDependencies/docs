@@ -7,4 +7,4 @@ shortdef: 'other'
 The tag X is used for words that for some reason cannot be assigned a real part-of-speech category.
 In the Norwegian data, this tag is used mostly for foreign words.
 
-<!-- Interlanguage links updated Út zář 29 20:42:59 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:58 CET 2020 -->

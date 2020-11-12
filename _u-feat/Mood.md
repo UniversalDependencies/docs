@@ -150,4 +150,4 @@ have to": "He <b>must</b><b> come</b>."
 Expresses surprise, irony or doubt. Occurs in Albanian, other Balkan languages,
 and in Caddo (Native American from Oklahoma).
 
-<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

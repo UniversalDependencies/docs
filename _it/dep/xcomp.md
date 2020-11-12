@@ -53,4 +53,4 @@ acl(ritrovati, sani)
 cc(sani, e)
 conj(sani, salvi)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:28 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:40 CET 2020 -->

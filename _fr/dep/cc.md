@@ -32,4 +32,4 @@ conj(sept, huit)
 cc(huit, ou)
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:43:11 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:16 CET 2020 -->

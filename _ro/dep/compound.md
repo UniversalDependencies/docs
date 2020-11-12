@@ -10,4 +10,4 @@ shortdef: 'compound'
 Am patru mii de lei . \n Have-I four thousand of lei .
 compound(mii, patru)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:13 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:18 CET 2020 -->

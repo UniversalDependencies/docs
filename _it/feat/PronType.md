@@ -126,4 +126,4 @@ It is used to mark ordinal pronouns. Part of speech is PRON/NO. When ordinals ar
 * Un quarto d'ora "a quarter of an hour"
 * Valentina è _quinta_ "Valentina is fifth"
 
-<!-- Interlanguage links updated Út zář 29 20:43:04 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->

@@ -17,4 +17,4 @@ the governor.
 ### Turku Dependency Treebank
 
 `expl` is not annotated in TDT and is not used in the current version of the UD Finnish corpus.
-<!-- Interlanguage links updated Út zář 29 20:43:18 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:25 CET 2020 -->

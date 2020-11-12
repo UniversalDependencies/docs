@@ -22,4 +22,4 @@ amod(kyrkans, ortodoxa)
 De tre största hjälpinsatserna \n The three biggest helping efforts
 amod(hjälpinsatserna, största)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:09 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:12 CET 2020 -->

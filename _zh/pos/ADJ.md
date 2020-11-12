@@ -30,4 +30,4 @@ Note that ordinal numerals such as 第一 / _dìyī_ "first" and 第三 / _dìs�
 - Ordinal numbers
   - formed by a numerial preceded by 第 / _dì_.
   - 第一 / _dìyī_ "first", 第三 / _dìsān_ "third", 第五十三 / _dìwǔshísān_ "fifty-third"
-<!-- Interlanguage links updated Út zář 29 20:42:52 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:49 CET 2020 -->

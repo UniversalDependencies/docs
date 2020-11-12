@@ -107,4 +107,4 @@ For nominal time expressions and adverbial time expressions that provide a time 
 5	times."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:08 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:11 CET 2020 -->

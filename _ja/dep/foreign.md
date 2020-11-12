@@ -16,3 +16,4 @@ case(docs, を)
 dobj(使う, docs)
 punct(使う, 。)
 ~~~
+<!-- Interlanguage links updated Čt lis 12 09:43:27 CET 2020 -->

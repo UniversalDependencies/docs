@@ -21,4 +21,4 @@ Another group of symbols is emoticons and emoji.
 - +, −, ×, ÷, =, <, >
 - :), ^\_^, 😝
 - _john.doe@universal.org_, _http://universaldependencies.org/_, _1-800-COMPANY_
-<!-- Interlanguage links updated Út zář 29 20:42:58 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:58 CET 2020 -->

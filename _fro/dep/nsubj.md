@@ -58,4 +58,4 @@ Note that in Old French, `nsubj` is not always expressed.
 11	conte	_	NOUN	NOMcom	_	7	conj	_	_
 
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:22 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:32 CET 2020 -->

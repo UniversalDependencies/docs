@@ -41,4 +41,4 @@ Not used.
 
 * _Sto <b>sognando</b>_ "I am dreaming"
 * _<b>Arrivando</b> tardi si perde il treno_ "Arriving late you miss the train"
-<!-- Interlanguage links updated Út zář 29 20:43:05 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->

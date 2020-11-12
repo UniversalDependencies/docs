@@ -5,4 +5,4 @@ shortdef: 'negation modifier'
 ---
 
 The `neg` relation is not used in Kazakh.
-<!-- Interlanguage links updated Út zář 29 20:43:21 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:30 CET 2020 -->

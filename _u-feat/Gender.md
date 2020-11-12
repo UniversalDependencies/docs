@@ -85,4 +85,4 @@ Therefore in Spanish we should not tag _grande_ with `Gender=Com`.
 Instead, we should either drop the gender feature entirely
 (suggesting that this word does not inflect for gender)
 or tag individual instances of _grande_ as either masculine or feminine, depending on context.
-<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->

@@ -12,4 +12,4 @@ cop(sinh_viên, là)
 nsubj(sinh_viên, Lan)
 punct(sinh_viên, 。)
 </code></pre>
-<!-- Interlanguage links updated Út zář 29 20:43:14 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:21 CET 2020 -->

@@ -10,4 +10,4 @@ A coordination is the relation between an element of a conjunct and the coordina
 María es guapa y simpática . \n María is pretty and friendly .
 cc(guapa, y)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:11 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:16 CET 2020 -->

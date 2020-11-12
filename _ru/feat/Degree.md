@@ -35,4 +35,4 @@ objects within a set.
 #### Examples
 
 * _это <b>наиумнейший</b> человек в нашей команде&nbsp;_ “this is the <b>cleverest</b> man in our team”
-<!-- Interlanguage links updated Út zář 29 20:43:01 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->

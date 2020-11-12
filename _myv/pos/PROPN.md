@@ -4,4 +4,4 @@ title: 'PROPN'
 shortdef: 'proper noun'
 udver: '2'
 ---
-<!-- Interlanguage links updated Út zář 29 20:42:57 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:56 CET 2020 -->

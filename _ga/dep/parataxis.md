@@ -24,4 +24,4 @@ _An bhfuil cead agam mo chéad cheist a chur: <b>Cé</b> hiad féin agus céard 
 An bhfuil cead agam mo chéad cheist a chur : Cé hiad féin agus céard a tharlós dóibh ? \n The_is permission at_me my first question to put : Who they themselves and what that will_happen to_them ?
 parataxis(bhfuil, Cé)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:26 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:37 CET 2020 -->

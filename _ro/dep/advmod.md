@@ -15,4 +15,4 @@ advmod(Merg, mâine)
 Cititul noaptea nu este sănătos . \n Reading night not is healthy . (It is not healthy to read at night.)
 advmod(Cititul, noaptea)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:08 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:11 CET 2020 -->

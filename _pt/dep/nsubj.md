@@ -49,4 +49,4 @@ conj(Grupo, Petrogal)
 conj(Grupo, TAP)
 conj(Grupo, Marconi)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:23 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:32 CET 2020 -->

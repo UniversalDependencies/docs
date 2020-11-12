@@ -17,4 +17,4 @@ Jag är säker på att han gjorde det \n I am certain that he did it
 ccomp(säker, gjorde) 
 ~~~
 
-<!-- Interlanguage links updated Út zář 29 20:43:12 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:17 CET 2020 -->

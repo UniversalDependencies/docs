@@ -21,4 +21,4 @@ dobj(nägi-2, koera-4)
 punct(nägi-2, .-5)
 ~~~
 The cat saw also the dog.
-<!-- Interlanguage links updated Út zář 29 20:43:07 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:11 CET 2020 -->

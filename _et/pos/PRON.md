@@ -19,4 +19,4 @@ Indefinite pronouns: <i>keegi</i> "somebody, anybody", <i>miski</i> "something, 
 Totality pronouns: <i>kõik</i> "all, everybody".<br/>
 Reciprocal pronouns: <i>teineteise</i> "one another, each other".<br/>
 Possessive pronouns: <i>oma, enese</i> "self, oneself".<br/>
-<!-- Interlanguage links updated Út zář 29 20:42:56 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:55 CET 2020 -->

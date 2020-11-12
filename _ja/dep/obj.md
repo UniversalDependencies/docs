@@ -13,3 +13,4 @@ obj(食べる, ご飯)
 case(ご飯, を)
 punct(食べる, 。)
 ~~~
+<!-- Interlanguage links updated Čt lis 12 09:43:34 CET 2020 -->

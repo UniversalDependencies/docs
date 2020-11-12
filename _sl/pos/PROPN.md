@@ -20,4 +20,4 @@ A proper noun is a noun that is the name (or part of the name) of a specific ind
 #### Conversion from JOS
 
 All nouns with Type=proper are converted to `NPROP`.
-<!-- Interlanguage links updated Út zář 29 20:42:57 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:56 CET 2020 -->

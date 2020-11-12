@@ -63,4 +63,4 @@ The `parataxis:insert` relation is used in the Polish [PDB-UD](http://universald
 7	etc	_	_	_	_	_	_	_	_
 8	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:26 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:37 CET 2020 -->

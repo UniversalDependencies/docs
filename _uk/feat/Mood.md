@@ -26,4 +26,4 @@ Ukrainian verbs (except for modal verbs) have imperative forms of the second per
 * _<b>Навчайся</b> в університеті!&nbsp;_ “<b>Study</b>`Sing` at the university!”
 * _<b>Навчайтеся</b> в університеті!&nbsp;_ “<b>Study</b>`Plur` at the university!”
 * _<b>Навчаймося</b> в університеті!&nbsp;_ “Let us <b>study</b> at the university!”
-<!-- Interlanguage links updated Út zář 29 20:43:02 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

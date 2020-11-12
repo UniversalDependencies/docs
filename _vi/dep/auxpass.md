@@ -11,4 +11,4 @@ nsubj(đánh, Tôi)
 auxpass(đánh, bị)
 punct(đánh, 。)
 </code></pre>
-<!-- Interlanguage links updated Út zář 29 20:43:10 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:15 CET 2020 -->

@@ -5,4 +5,4 @@ shortdef: 'polarity'
 redirect_from:
   - "u/feat/Negativeness.html"
 ---
-<!-- Interlanguage links updated Út zář 29 20:43:03 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->

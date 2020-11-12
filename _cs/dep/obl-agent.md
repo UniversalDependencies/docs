@@ -36,4 +36,4 @@ However, in passive sentences like _Byl přejet autem_ “He was run over by a c
 the car could be analyzed as an inanimate agent, but also as an instrument,
 which is supported by the plausibility of the active counterpart,
 _Přejeli ho autem_ “They ran over him with a car.”
-<!-- Interlanguage links updated Út zář 29 20:43:25 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:35 CET 2020 -->

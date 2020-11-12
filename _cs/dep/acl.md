@@ -43,4 +43,4 @@ Příčinou není fakt , že by kina navštívilo víc diváků . \n Cause is-no
 acl(fakt, navštívilo)
 acl(the-fact, visit)
 ~~~
-<!-- Interlanguage links updated Út zář 29 20:43:06 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->

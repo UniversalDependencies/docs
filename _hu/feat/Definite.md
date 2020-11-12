@@ -17,4 +17,4 @@ love-PRES-3SG-DEF the boy-ACC
 Szeretlek.
 love-PRES-1SG-2SGOBJ
 "I love you."
-<!-- Interlanguage links updated Út zář 29 20:43:00 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->

@@ -14,3 +14,4 @@ case(花子, に)
 punct(あげる, 。)
 ~~~
 
+<!-- Interlanguage links updated Čt lis 12 09:43:28 CET 2020 -->

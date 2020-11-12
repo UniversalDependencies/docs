@@ -24,4 +24,4 @@ Note, that there is _infixed punctuation_ (exclamation, emphasis and question ma
 -	Exclamation mark: _<b>՜</b>_
 -	Question mark։ _<b>՞</b>_
 -	Emphasis mark, Acute accent: _<b>՛</b>_
-<!-- Interlanguage links updated Út zář 29 20:42:57 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:56 CET 2020 -->

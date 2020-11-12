@@ -73,4 +73,4 @@ Attributive or associative relations between two nouns, or a pronoun and a noun,
 But if a noun modifies another noun without the particle 的 _de_, and the relationship is not a possessive one, it is treated as a noun-noun compound (see [compound]()).
 
 
-<!-- Interlanguage links updated Út zář 29 20:43:22 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:43:31 CET 2020 -->

@@ -19,4 +19,4 @@ Note that in Slovenian transgressives (adverbial participles) are marked as adve
 #### Conversion from JOS
 
 All adverbs become `ADV`.
-<!-- Interlanguage links updated Út zář 29 20:42:53 CEST 2020 -->
+<!-- Interlanguage links updated Čt lis 12 09:42:50 CET 2020 -->
