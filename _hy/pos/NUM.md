@@ -9,7 +9,7 @@ udver: '2'
 
 A numeral is a word, functioning most typically as a determiner, adjective or pronoun, that expresses a number and a relation to the number, such as quantity, sequence, frequency or fraction.
 
-Note that cardinal numerals are covered by `NUM` whether they are used as determiners or not (as in _Windows <b>7</b>_) and whether they are expressed as words _(չորս)_, digits _(4)_, Roman numerals _(IV)_, or Armenian alphabet tools _(Դ)_. Other words functioning as determiners (including pronominal quantifiers: interrogative and relative (_քանի_ “how many”); demonstrative (_այսքան_ “this many”); indefinite (_մի քանի_ “several”); definite (_բոլոր, ողջ_ “all, whole”) are tagged [DET]().
+Note that cardinal numerals are covered by `NUM` whether they are used as determiners or not (as in _Windows <b>7</b>_) and whether they are expressed as words _(չորս)_, digits _(4)_, Roman numerals _(IV)_, or Armenian letters _(Դ)_. Other words functioning as determiners (including pronominal quantifiers: interrogative and relative (_քանի_ “how many”); demonstrative (_այսքան_ “this many”); indefinite (_մի քանի_ “several”); definite (_բոլոր, ողջ_ “all, whole”) are tagged [DET]().
 
 Note that some words that may be traditionally called numerals, are not tagged `NUM`, based on their syntactic and morphological behavior.
 
