@@ -47,6 +47,7 @@ A plural noun denotes several persons, animals or things.
 
 * [en] _<b>cars</b>_
 * [yo] _<b>àwọn</b> àgùntàn_ “the sheep (plural)”
+* [tl] _<b>mga</b> guro_ “teachers”
 
 ### <a name="Dual">`Dual`</a>: dual number
 
