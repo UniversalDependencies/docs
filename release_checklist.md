@@ -338,7 +338,7 @@ you always have the latest update of the tools repository.
 
 Note that you need Python 3 to run the validator, and you need a third-party
 Python module called `regex` installed via pip. See also the
-[README file](https://github.com/UniversalDependencies/tools/blob/master/README.txt)
+[README file](https://github.com/UniversalDependencies/tools/blob/master/README.md)
 in the tools repository.
 
 In general, you validate the data like so:
