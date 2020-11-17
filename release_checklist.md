@@ -45,8 +45,7 @@ And do not forget to subscribe to the [UD mailing list](http://stp.lingfil.uu.se
 # Executive summary
 
 * Make sure [your repository has the right files](#repository-and-files), [correct metadata](#treebank-metadata) in the README, and data being prepared for the next release [lives on the `dev` branch](#repository-branches).
-* Make sure your data and repository pass the [format validation](#data-format-and-repository): [direct link](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/validation-report.pl) to the format validator output.
-* Make sure your data does not show major deviations in the [content validation](#syntax): [direct link](http://universaldependencies.org/svalidation.html) to the content validator output.
+* Make sure your data and repository pass the [format and content validation](#validation): [direct link](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/validation-report.pl) to the validator output.
 
 # Repository and files
 
@@ -398,25 +397,9 @@ file `data/tokens_w_space.ud` and its language-specific variants `data/tokens_w_
 these files, each line is a [Python regular expression](https://docs.python.org/2/library/re.html)
 defining the permissible forms and lemmas that can contain a whitespace.
 
-
-
-# Content validation
-
-**WARNING: This section is outdated.**
-
-For the `v1.3` release, we created an additional number of tests which try to
-uncover possible logical inconsistencies in the treebank data. Automatic
-validation runs for this syntax validation are available
-[here](http://universaldependencies.org/svalidation.html).
-The tests are specified in the file `gen_index/stests.yaml` and rely on the
-query language of the [SETS search interface](http://bionlp-www.utu.fi/dep_search).
-
-At present (October 2019) this validation machinery does not function correctly.
-However, similar tests are now included as level 3 and 5 tests in the official
-validation script described in the previous section. Selected tests of this kind
-are also available in the
+Some additional tests are available in the
 [Udapi](https://github.com/udapi/udapi-python/blob/master/udapi/block/ud/markbugs.py)
-tool.
+tool. They may reveal configurations that are not necessarily invalid but are suspicious and should be checked manually.
 
 
 
