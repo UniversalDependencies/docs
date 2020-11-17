@@ -394,7 +394,7 @@ or (note the paths and the Arabic-specific extension at two positions)
 Since the `v2.0` release, whitespace is allowed in the `FORM` and `LEMMA` fields under conditions
 specified [here](v2/segmentation.html). This is supported in the validator through the UD-wide
 file `data/tokens_w_space.ud` and its language-specific variants `data/tokens_w_space.xx`. In
-these files, each line is a [Python regular expression](https://docs.python.org/2/library/re.html)
+these files, each line is a [Python regular expression](https://docs.python.org/3/library/re.html)
 defining the permissible forms and lemmas that can contain a whitespace.
 
 Some additional tests are available in the
