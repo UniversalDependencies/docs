@@ -32,7 +32,8 @@ VERBAL FEATURE
 * Verbs tend to combine with categories that denote aspect, modality, and voice.
 * The aspectual morphemes include the iterative `Iter`, and habitual `Hab`. There is also a projective aspect.
 * Akuntsú has the following voice features [VOICE](https://universaldependencies.org/u/feat/Voice.html): Middle `Mid` and causative `Cau` 
-* Akuntsú has a set of auxiliaries `Aux` that expresses the notion of ‘sitting,’ ‘lying,’ ‘standing,’ ‘walking,’  ‘moving,’  ‘coming’ and ‘going,’.
+* Akuntsú has a set of auxiliaries `Aux` that expresses the notion of ‘sitting,’ ‘lying,’ ‘standing,’ ‘walking,’  ‘moving,’  ‘coming’ and ‘going,’
+* The verbs that occur with the morpheme -ka `Trans`are those that: (1) can be used with or without the morpheme -ka, where without -ka they take no overt object; (2) require two obligatory arguments, that is, they have an object. 
 
 ## Syntax
 
