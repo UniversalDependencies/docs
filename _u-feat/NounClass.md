@@ -158,6 +158,18 @@ The corresponding singular class is `Bantu9`.
 
 * [sw] _<b>pahali</b>_ “place”
 
+### <a name="Bantu17">`Bantu17`</a>: indefinite location, direction, movement
+
+#### Examples
+
+* [sw] _<b>kule</b>_ “there”
+
+### <a name="Bantu17">`Bantu18`</a>: definite location, inside something
+
+#### Examples
+
+* [sw] _<b>mule</b>_ “in there”
+
 ## List of noun classes in Swahili
 
 (from [https://en.wikipedia.org/wiki/Noun_class](https://en.wikipedia.org/wiki/Noun_class#Bantu_languages))
