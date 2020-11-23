@@ -31,6 +31,18 @@ udver: '2'
   <td><a href="#Bantu19">Bantu19</a></td>
   <td><a href="#Bantu20">Bantu20</a></td>
 </tr>
+<tr>
+  <td><a href="#Bantu21">Bantu21</a></td>
+  <td><a href="#Bantu22">Bantu22</a></td>
+  <td><a href="#Bantu23">Bantu23</a></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
 </table>
 
 `NounClass` is similar to [Gender]() and [Animacy]() because it is to a large part
@@ -204,9 +216,15 @@ Bantu class 19 may signify “a little bit of” or a plural with a pejorative n
 
 ### <a name="Bantu20">`Bantu20`</a>: singular, augmentatives
 
-In Ganda, the corresponding plural class is `Bantu6`.
+In Ganda, the corresponding plural class is `Bantu6` or `Bantu22`.
 
 * [lg] _musajja_ “man” → _<b>ogusajja</b>_ “giant”
+
+### <a name="Bantu22">`Bantu22`</a>: plural, augmentatives
+
+The corresponding singular class is `Bantu20`.
+
+* [lg] _<b>agasajja</b>_ “giants”
 
 ## List of noun classes in Swahili
 
