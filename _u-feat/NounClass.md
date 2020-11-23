@@ -7,7 +7,7 @@ udver: '2'
 
 <table class="typeindex" border="1">
 <tr>
-  <td rowspan="3" style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td rowspan="5" style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Bantu1">Bantu1</a></td>
   <td><a href="#Bantu2">Bantu2</a></td>
   <td><a href="#Bantu3">Bantu3</a></td>
@@ -35,6 +35,30 @@ udver: '2'
   <td><a href="#Bantu21">Bantu21</a></td>
   <td><a href="#Bantu22">Bantu22</a></td>
   <td><a href="#Bantu23">Bantu23</a></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="#Wol1">Wol1</a></td>
+  <td><a href="#Wol2">Wol2</a></td>
+  <td><a href="#Wol3">Wol3</a></td>
+  <td><a href="#Wol4">Wol4</a></td>
+  <td><a href="#Wol5">Wol5</a></td>
+  <td><a href="#Wol6">Wol6</a></td>
+  <td><a href="#Wol7">Wol7</a></td>
+  <td><a href="#Wol8">Wol8</a></td>
+  <td><a href="#Wol9">Wol9</a></td>
+  <td><a href="#Wol10">Wol10</a></td>
+</tr>
+<tr>
+  <td><a href="#Wol11">Wol11</a></td>
+  <td><a href="#Wol12">Wol12</a></td>
+  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -321,5 +345,27 @@ The corresponding singular class is `Bantu20`.
 ### <a name="Bantu23">`Bantu23`</a>: location with place names
 
 * [lg] _<b>elugala</b>_ “at Lugala”
+
+### <a name="Wol1">`Wol1` – `Wol12`</a>: noun classes in Wolof
+
+Wolof is a non-Bantu Niger-Congo language. It has noun classes but their semantics
+cannot be easily mapped on the Bantu classes.
+
+The following table shows the forms of proximate demonstratives in the first ten noun classes;
+classes 2 and 8 are plural, the rest are singular.
+
+<table class="wikitable">
+<tr><td>`Wol1`</td><td>`Wol2`</td><td>`Wol3`</td><td>`Wol4`</td><td>`Wol5`</td><td>`Wol6`</td><td>`Wol7`</td><td>`Wol8`</td><td>`Wol9`</td><td>`Wol10`</td><td>English</td></tr>
+<tr><td>_ki_</td><td></td><td>_gi_</td><td>_ji_</td><td>_bi_</td><td>_mi_</td><td>_li_</td><td></td><td>_si_</td><td>_wi_</td><td>“this”</td></tr>
+<tr><td></td><td>_ñi_</td><td></td><td></td><td></td><td></td><td></td><td>_yi_</td><td></td><td></td><td>“these”</td></tr>
+</table>
+
+Wolof classes 11 and 12, although behaving like noun classes, have meanings that are adverbial rather than nominal:
+class 11 is for location, class 12 for manner.
+
+<table class="wikitable">
+<tr><td>`Wol11`</td><td>`Wol12`</td></tr>
+<tr><td>_fi_ “here”</td><td>_ni_ “so”</td></tr>
+</table>
 
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->
