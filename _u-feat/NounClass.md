@@ -68,13 +68,29 @@ The corresponding plural class is `Bantu2`.
 
 * [sw] _<b>mtoto</b>_ “child”
 
-### <a name="Bantu1">`Bantu1`</a>: plural, persons
+### <a name="Bantu2">`Bantu2`</a>: plural, persons
 
 The corresponding singular class is `Bantu1`.
 
 #### Examples
 
 * [sw] _<b>watoto</b>_ “children”
+
+### <a name="Bantu3">`Bantu3`</a>: singular, plants, thin objects
+
+The corresponding plural class is `Bantu4`.
+
+#### Examples
+
+* [sw] _<b>mti</b>_ “tree”
+
+### <a name="Bantu4">`Bantu4`</a>: plural, plants, thin objects
+
+The corresponding singular class is `Bantu3`.
+
+#### Examples
+
+* [sw] _<b>miti</b>_ “trees”
 
 ## List of noun classes in Swahili
 
