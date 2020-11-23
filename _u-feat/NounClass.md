@@ -72,6 +72,93 @@ of the class (there is a standardized class numbering system accepted by
 scholars of the various Bantu languages; similar numbering systems should be
 created for the other families that have noun classes).
 
+## List of noun classes in Swahili
+
+(from [https://en.wikipedia.org/wiki/Noun_class](https://en.wikipedia.org/wiki/Noun_class#Bantu_languages))
+
+<table class="wikitable">
+<tbody><tr>
+<th>Class number</th>
+<th>Prefix</th>
+<th>Typical meaning</th>
+</tr>
+<tr>
+<td>1</td>
+<td><i>m-, mw-, mu-</i></td>
+<td>singular: persons</td>
+</tr>
+<tr>
+<td>2</td>
+<td><i>wa-, w-</i></td>
+<td>plural: persons (a plural counterpart of class 1)</td>
+</tr>
+<tr>
+<td>3</td>
+<td><i>m-, mw-, mu-</i></td>
+<td>singular: plants</td>
+</tr>
+<tr>
+<td>4</td>
+<td><i>mi-, my-</i></td>
+<td>plural: plants (a plural counterpart of class 3)</td>
+</tr>
+<tr>
+<td>5</td>
+<td><i>ji-, j-,</i> Ø-</td>
+<td>singular: fruits</td>
+</tr>
+<tr>
+<td>6</td>
+<td><i>ma-, m-</i></td>
+<td>plural: fruits (a plural counterpart of class 5, 9, 11, seldom 1)</td>
+</tr>
+<tr>
+<td>7</td>
+<td><i>ki-, ch-</i></td>
+<td>singular: things</td>
+</tr>
+<tr>
+<td>8</td>
+<td><i>vi-, vy-</i></td>
+<td>plural: things (a plural counterpart of class 7)</td>
+</tr>
+<tr>
+<td>9</td>
+<td><i>n-, ny-, m-,</i> Ø-</td>
+<td>singular: animals, things</td>
+</tr>
+<tr>
+<td>10</td>
+<td><i>n-, ny-, m-,</i> Ø-</td>
+<td>plural: animals, things (a plural counterpart of class 9 and 11)</td>
+</tr>
+<tr>
+<td>11</td>
+<td><i>u-, w-, uw-</i></td>
+<td>singular: no clear semantics</td>
+</tr>
+<tr>
+<td>15</td>
+<td><i>ku-, kw-</i></td>
+<td>verbal nouns</td>
+</tr>
+<tr>
+<td>16</td>
+<td><i>pa-</i></td>
+<td>locative meanings: close to something</td>
+</tr>
+<tr>
+<td>17</td>
+<td><i>ku-</i></td>
+<td>indefinite locative or directive meaning</td>
+</tr>
+<tr>
+<td>18</td>
+<td><i>mu-, m-</i></td>
+<td>locative meanings: inside something</td>
+</tr>
+</tbody></table>
+
 ### <a name="Bantu1">`Bantu1`</a>: singular, persons
 
 The corresponding plural class is `Bantu2`.
@@ -235,90 +322,4 @@ The corresponding singular class is `Bantu20`.
 
 * [lg] _<b>elugala</b>_ “at Lugala”
 
-## List of noun classes in Swahili
-
-(from [https://en.wikipedia.org/wiki/Noun_class](https://en.wikipedia.org/wiki/Noun_class#Bantu_languages))
-
-<table class="wikitable">
-<tbody><tr>
-<th>Class number</th>
-<th>Prefix</th>
-<th>Typical meaning</th>
-</tr>
-<tr>
-<td>1</td>
-<td><i>m-, mw-, mu-</i></td>
-<td>singular: persons</td>
-</tr>
-<tr>
-<td>2</td>
-<td><i>wa-, w-</i></td>
-<td>plural: persons (a plural counterpart of class 1)</td>
-</tr>
-<tr>
-<td>3</td>
-<td><i>m-, mw-, mu-</i></td>
-<td>singular: plants</td>
-</tr>
-<tr>
-<td>4</td>
-<td><i>mi-, my-</i></td>
-<td>plural: plants (a plural counterpart of class 3)</td>
-</tr>
-<tr>
-<td>5</td>
-<td><i>ji-, j-,</i> Ø-</td>
-<td>singular: fruits</td>
-</tr>
-<tr>
-<td>6</td>
-<td><i>ma-, m-</i></td>
-<td>plural: fruits (a plural counterpart of class 5, 9, 11, seldom 1)</td>
-</tr>
-<tr>
-<td>7</td>
-<td><i>ki-, ch-</i></td>
-<td>singular: things</td>
-</tr>
-<tr>
-<td>8</td>
-<td><i>vi-, vy-</i></td>
-<td>plural: things (a plural counterpart of class 7)</td>
-</tr>
-<tr>
-<td>9</td>
-<td><i>n-, ny-, m-,</i> Ø-</td>
-<td>singular: animals, things</td>
-</tr>
-<tr>
-<td>10</td>
-<td><i>n-, ny-, m-,</i> Ø-</td>
-<td>plural: animals, things (a plural counterpart of class 9 and 11)</td>
-</tr>
-<tr>
-<td>11</td>
-<td><i>u-, w-, uw-</i></td>
-<td>singular: no clear semantics</td>
-</tr>
-<tr>
-<td>15</td>
-<td><i>ku-, kw-</i></td>
-<td>verbal nouns</td>
-</tr>
-<tr>
-<td>16</td>
-<td><i>pa-</i></td>
-<td>locative meanings: close to something</td>
-</tr>
-<tr>
-<td>17</td>
-<td><i>ku-</i></td>
-<td>indefinite locative or directive meaning</td>
-</tr>
-<tr>
-<td>18</td>
-<td><i>mu-, m-</i></td>
-<td>locative meanings: inside something</td>
-</tr>
-</tbody></table>
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->
