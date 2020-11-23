@@ -226,6 +226,10 @@ The corresponding singular class is `Bantu20`.
 
 * [lg] _<b>agasajja</b>_ “giants”
 
+### <a name="Bantu23">`Bantu23`</a>: location with place names
+
+* [lg] _<b>elugala</b>_ “at Lugala”
+
 ## List of noun classes in Swahili
 
 (from [https://en.wikipedia.org/wiki/Noun_class](https://en.wikipedia.org/wiki/Noun_class#Bantu_languages))
