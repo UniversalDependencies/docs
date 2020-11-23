@@ -152,6 +152,12 @@ The corresponding singular class is `Bantu9`.
 
 * [sw] _-soma_ “read” → _<b>kusoma</b>_ “reading; to read”
 
+### <a name="Bantu16">`Bantu16`</a>: definite location, close to something
+
+#### Examples
+
+* [sw] _<b>pahali</b>_ “place”
+
 ## List of noun classes in Swahili
 
 (from [https://en.wikipedia.org/wiki/Noun_class](https://en.wikipedia.org/wiki/Noun_class#Bantu_languages))
