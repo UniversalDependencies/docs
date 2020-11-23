@@ -148,11 +148,25 @@ The corresponding singular class is `Bantu9`.
 
 ### <a name="Bantu12">`Bantu12`</a>: singular, small things, diminutives
 
-The corresponding plural class is `Bantu13`.
+The corresponding plural class is `Bantu13` or `Bantu14`.
 
 #### Examples
 
-* [lg] _embwa_ “dog” → _<b>kabwa</b>_ “puppy”
+* [lg] _embwa_ “dog” → _<b>akabwa</b>_ “puppy”
+
+### <a name="Bantu13">`Bantu13`</a>: plural or mass, small amount of mass
+
+#### Examples
+
+* [lg] _mazzi_ “water” → _<b>tuzzi</b>_ “drop of water”
+
+### <a name="Bantu14">`Bantu14`</a>: plural, diminutives
+
+In Ganda, this is the plural counterpart of `Bantu12`.
+
+#### Examples
+
+* [lg] _<b>obubwa</b>_ “puppies”
 
 ### <a name="Bantu15">`Bantu15`</a>: verbal nouns, infinitives
 
@@ -172,7 +186,7 @@ The corresponding plural class is `Bantu13`.
 
 * [sw] _<b>kule</b>_ “there”
 
-### <a name="Bantu17">`Bantu18`</a>: definite location, inside something
+### <a name="Bantu18">`Bantu18`</a>: definite location, inside something
 
 #### Examples
 
