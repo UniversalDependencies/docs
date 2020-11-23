@@ -220,6 +220,11 @@ In Ganda, the corresponding plural class is `Bantu6` or `Bantu22`.
 
 * [lg] _musajja_ “man” → _<b>ogusajja</b>_ “giant”
 
+### <a name="Bantu21">`Bantu21`</a>: singular, augmentatives, derogatives
+
+* [ve] _<b>ḓinga</b>_ “large lump of earth”
+* [ve] _<b>ḓanḓa</b>_ “big clumsy hand”
+
 ### <a name="Bantu22">`Bantu22`</a>: plural, augmentatives
 
 The corresponding singular class is `Bantu20`.
