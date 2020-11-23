@@ -140,6 +140,18 @@ The corresponding singular class is `Bantu9`.
 
 * [sw] _<b>ndege</b>_ “birds” (plural of the noun is identical to singular; however, verbs agree with the _<b>zi-</b>_ prefix in plural and with _i-_ in singular)
 
+### <a name="Bantu11">`Bantu11`</a>: long thin objects, natural phenomena, abstracts
+
+#### Examples
+
+* [sw] _<b>utoto</b>_ “childhood”
+
+### <a name="Bantu15">`Bantu15`</a>: verbal nouns, infinitives
+
+#### Examples
+
+* [sw] _-soma_ “read” → _<b>kusoma</b>_ “reading; to read”
+
 ## List of noun classes in Swahili
 
 (from [https://en.wikipedia.org/wiki/Noun_class](https://en.wikipedia.org/wiki/Noun_class#Bantu_languages))
