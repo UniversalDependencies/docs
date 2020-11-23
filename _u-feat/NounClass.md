@@ -202,6 +202,12 @@ Bantu class 19 may signify “a little bit of” or a plural with a pejorative n
 * [hke] _<b>hìkátsì</b>_ “frail females”
 * [hke] _<b>hyábánà</b>_ “thin children”
 
+### <a name="Bantu20">`Bantu20`</a>: singular, augmentatives
+
+In Ganda, the corresponding plural class is `Bantu6`.
+
+* [lg] _musajja_ “man” → _<b>ogusajja</b>_ “giant”
+
 ## List of noun classes in Swahili
 
 (from [https://en.wikipedia.org/wiki/Noun_class](https://en.wikipedia.org/wiki/Noun_class#Bantu_languages))
