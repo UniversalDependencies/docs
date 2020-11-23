@@ -108,6 +108,22 @@ The corresponding singular class is `Bantu5`, also `Bantu9`, `Bantu11`, seldomly
 
 * [sw] _<b>mawe</b>_ “stones”
 
+### <a name="Bantu7">`Bantu7`</a>: singular, things
+
+The corresponding plural class is `Bantu8`.
+
+#### Examples
+
+* [sw] _<b>kitabu</b>_ “book”
+
+### <a name="Bantu8">`Bantu8`</a>: plural, things
+
+The corresponding singular class is `Bantu7`.
+
+#### Examples
+
+* [sw] _<b>vitabu</b>_ “books”
+
 ## List of noun classes in Swahili
 
 (from [https://en.wikipedia.org/wiki/Noun_class](https://en.wikipedia.org/wiki/Noun_class#Bantu_languages))
