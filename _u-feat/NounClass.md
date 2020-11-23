@@ -158,7 +158,7 @@ The corresponding plural class is `Bantu13` or `Bantu14`.
 
 #### Examples
 
-* [lg] _mazzi_ “water” → _<b>tuzzi</b>_ “drop of water”
+* [lg] _mazzi_ “water” → _<b>otuzzi</b>_ “drop of water”
 
 ### <a name="Bantu14">`Bantu14`</a>: plural, diminutives
 
@@ -191,6 +191,16 @@ In Ganda, this is the plural counterpart of `Bantu12`.
 #### Examples
 
 * [sw] _<b>mule</b>_ “in there”
+
+### <a name="Bantu19">`Bantu19`</a>: little bit of, pejorative plural
+
+Bantu class 19 may signify “a little bit of” or a plural with a pejorative nuance, as in Hunde.
+
+#### Examples
+
+* [hke] _<b>hyùndù</b>_ “a bit of porridge”
+* [hke] _<b>hìkátsì</b>_ “frail females”
+* [hke] _<b>hyábánà</b>_ “thin children”
 
 ## List of noun classes in Swahili
 
