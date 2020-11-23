@@ -355,17 +355,17 @@ The following table shows the forms of proximate demonstratives in the first ten
 classes 2 and 8 are plural, the rest are singular.
 
 <table class="wikitable">
-<tr><td>`Wol1`</td><td>`Wol2`</td><td>`Wol3`</td><td>`Wol4`</td><td>`Wol5`</td><td>`Wol6`</td><td>`Wol7`</td><td>`Wol8`</td><td>`Wol9`</td><td>`Wol10`</td><td>English</td></tr>
-<tr><td>_ki_</td><td></td><td>_gi_</td><td>_ji_</td><td>_bi_</td><td>_mi_</td><td>_li_</td><td></td><td>_si_</td><td>_wi_</td><td>“this”</td></tr>
-<tr><td></td><td>_ñi_</td><td></td><td></td><td></td><td></td><td></td><td>_yi_</td><td></td><td></td><td>“these”</td></tr>
+<tr><td><tt>Wol1</tt></td><td><tt>Wol2</tt></td><td><tt>Wol3</tt></td><td><tt>Wol4</tt></td><td><tt>Wol5</tt></td><td><tt>Wol6</tt></td><td><tt>Wol7</tt></td><td><tt>Wol8</tt></td><td><tt>Wol9</tt></td><td><tt>Wol10</tt></td><td>English</td></tr>
+<tr><td><i>ki</i></td><td></td><td><i>gi</i></td><td><i>ji</i></td><td><i>bi</i></td><td><i>mi</i></td><td><i>li</i></td><td></td><td><i>si</i></td><td><i>wi</i></td><td>“this”</td></tr>
+<tr><td></td><td><i>ñi</i></td><td></td><td></td><td></td><td></td><td></td><td><i>yi</i></td><td></td><td></td><td>“these”</td></tr>
 </table>
 
 Wolof classes 11 and 12, although behaving like noun classes, have meanings that are adverbial rather than nominal:
 class 11 is for location, class 12 for manner.
 
 <table class="wikitable">
-<tr><td>`Wol11`</td><td>`Wol12`</td></tr>
-<tr><td>_fi_ “here”</td><td>_ni_ “so”</td></tr>
+<tr><td><tt>Wol11</tt></td><td><tt>Wol12</tt></td></tr>
+<tr><td><i>fi</i> “here”</td><td><i>ni</i> “so”</td></tr>
 </table>
 
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->
