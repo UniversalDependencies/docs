@@ -108,7 +108,7 @@ The corresponding singular class is `Bantu5`, also `Bantu9`, `Bantu11`, seldomly
 
 * [sw] _<b>mawe</b>_ “stones”
 
-### <a name="Bantu7">`Bantu7`</a>: singular, things
+### <a name="Bantu7">`Bantu7`</a>: singular, things, diminutives
 
 The corresponding plural class is `Bantu8`.
 
@@ -116,13 +116,29 @@ The corresponding plural class is `Bantu8`.
 
 * [sw] _<b>kitabu</b>_ “book”
 
-### <a name="Bantu8">`Bantu8`</a>: plural, things
+### <a name="Bantu8">`Bantu8`</a>: plural, things, diminutives
 
 The corresponding singular class is `Bantu7`.
 
 #### Examples
 
 * [sw] _<b>vitabu</b>_ “books”
+
+### <a name="Bantu9">`Bantu9`</a>: singular, animals, things
+
+The corresponding plural class is `Bantu10` or `Bantu6`.
+
+#### Examples
+
+* [sw] _<b>ndege</b>_ “bird”
+
+### <a name="Bantu10">`Bantu10`</a>: plural, animals, things
+
+The corresponding singular class is `Bantu9`.
+
+#### Examples
+
+* [sw] _<b>ndege</b>_ “birds” (plural of the noun is identical to singular; however, verbs agree with the _<b>zi-</b>_ prefix in plural and with _i-_ in singular)
 
 ## List of noun classes in Swahili
 
