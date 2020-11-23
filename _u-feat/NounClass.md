@@ -146,6 +146,14 @@ The corresponding singular class is `Bantu9`.
 
 * [sw] _<b>utoto</b>_ “childhood”
 
+### <a name="Bantu12">`Bantu12`</a>: singular, small things, diminutives
+
+The corresponding plural class is `Bantu13`.
+
+#### Examples
+
+* [lg] _embwa_ “dog” → _<b>kabwa</b>_ “puppy”
+
 ### <a name="Bantu15">`Bantu15`</a>: verbal nouns, infinitives
 
 #### Examples
