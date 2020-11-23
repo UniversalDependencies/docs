@@ -92,6 +92,22 @@ The corresponding singular class is `Bantu3`.
 
 * [sw] _<b>miti</b>_ “trees”
 
+### <a name="Bantu5">`Bantu5`</a>: singular, fruits, round objects, paired things
+
+The corresponding plural class is `Bantu6`.
+
+#### Examples
+
+* [sw] _<b>jiwe</b>_ “stone”
+
+### <a name="Bantu6">`Bantu6`</a>: plural, fruits, round objects, paired things
+
+The corresponding singular class is `Bantu5`, also `Bantu9`, `Bantu11`, seldomly `Bantu1`.
+
+#### Examples
+
+* [sw] _<b>mawe</b>_ “stones”
+
 ## List of noun classes in Swahili
 
 (from [https://en.wikipedia.org/wiki/Noun_class](https://en.wikipedia.org/wiki/Noun_class#Bantu_languages))
