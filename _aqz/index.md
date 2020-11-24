@@ -8,10 +8,13 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
+
+
 * Akuntsú uses all 17 [UPOS](https://universaldependencies.org/u/pos/index.html), although the class of adjectives is a complicated matter that requires more examination.
 * Tokenization and semgmentatoin in Akunstú is straightforward. There are no multiwords that require spaces or dashes.
 * In general, words are delimited by whitespace characters. Description of exceptions follows.
 * According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words).
+
 
 ## Morphology 
 
