@@ -75,9 +75,10 @@ chmod 666 evaluation-report.txt</pre>
     Go to docs-automation. Assumption: all UD treebank repositories, and the docs repository are cloned as siblings of docs-automation
     in the file-folder hierarchy. They are switched to the dev branch. (It does not matter for us because we will switch them to
     master in any case; but we assume that we do this temporarily, and we will switch back to dev when we are done.)
-12. Remove the old cached metadata: rm `_corpus_metadata/UD_Czech.json`.
+12. Remove the old cached metadata:
+    <pre>rm _corpus_metadata/UD_Czech.json</pre>
 13. Generate new metadata for the treebank (this script switches the repo temporarily to master):
-    <pre>./refresh_corpus_data_master.sh ../UD_Czech-PDT</pre>
+    <pre>./refresh_corpus_data.sh ../UD_Czech-PDT</pre>
 14. Regenerate the UD title page and push it to Github:
     <pre>make dan
 cd ../docs
