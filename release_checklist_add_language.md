@@ -67,20 +67,22 @@ chmod 666 evaluation-report.txt</pre>
 8.  Go to the `tools` repository to the script `check_files.pl` and locate the function `check_metadata()`.
     There is a back up list of treebanks and their "Data available since" metadata. Replace `UD_Czech` with `UD_Czech-PDT`,
     keeping it in the list for the release where `UD_Czech` appeared for the first time.
-9.  If there are other places where you maintain local clones of UD repositories (e.g., one is your laptop and the other is your
+9.  Go to the `docs-automation` repository to the script `valdan/update-validation-report.pl`.
+    Inspect the two lists of treebanks in the `BEGIN` block and replace each occurrence of `UD_Czech` with `UD_Czech-PDT`.
+10. If there are other places where you maintain local clones of UD repositories (e.g., one is your laptop and the other is your
     university network), go to each of them, do a new git clone ; git checkout dev ; rm old clone.
-10. Finally, we want to regenerate the title page of Universal Dependencies.
+11. Finally, we want to regenerate the title page of Universal Dependencies.
     Go to docs-automation. Assumption: all UD treebank repositories, and the docs repository are cloned as siblings of docs-automation
     in the file-folder hierarchy. They are switched to the dev branch. (It does not matter for us because we will switch them to
     master in any case; but we assume that we do this temporarily, and we will switch back to dev when we are done.)
-11. Remove the old cached metadata: rm `_corpus_metadata/UD_Czech.json`.
-12. Generate new metadata for the treebank (this script switches the repo temporarily to master):
+12. Remove the old cached metadata: rm `_corpus_metadata/UD_Czech.json`.
+13. Generate new metadata for the treebank (this script switches the repo temporarily to master):
     <pre>./refresh_corpus_data_master.sh ../UD_Czech-PDT</pre>
-13. Regenerate the UD title page and push it to Github:
+14. Regenerate the UD title page and push it to Github:
     <pre>make dan
 cd ../docs
 git pull --no-edit</pre>
-14. Rename the folder with the treebank hub page in the `docs` repository. Then push the changes.
+15. Rename the folder with the treebank hub page in the `docs` repository. Then push the changes.
     <pre>git mv treebanks/cs treebanks/cs_pdt
 git status
 git diff</pre> then press Q and
