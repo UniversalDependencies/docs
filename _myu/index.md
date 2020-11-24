@@ -43,9 +43,28 @@ have the feature `Noun=Clf`.
 * Some lexical roots can not easily be assigned to a  specific lexical category. This is the case with *kake* and *opop*.
 These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in the [UPOS](), and v:ex (existential verb) and `aux` respectively in the XPOS.
 
-Some of the words that have [AUX](https://universaldependencies.org/u/pos/AUX_.html) as POS are given below:
+Mundurukú has some auxiliary verbs, which are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html). The have two specific functions:
+indicate *tense* or *posture*. The table below, shows auxiliaries, giving their functions and giving their plural forms, which for some for some of the verbs have different forms for the singular and plural:
 
-* osunuy
+
+|Auxiliary | Tense | Posture | Plural | Meaning |
+|:-------------:| :--------:|:-------:|:------:|:------:|
+|osusnuy | past |  |  | was/were |
+|oeku | past | | | was/were in movement |
+|osodop | past |  |  | was/were |
+|e'em |  |  |  | |
+|dopdom |  |  | nuynuy | | 
+|g̃uy |  |  |  | remain |
+|jop | |  |  | remain |
+|cũg̃'i |  | standing | kacũg̃cũg̃'i |  |
+|xik'i |  | sitting | kaxikxik'i |  |
+|toro'i |  | hanging | katororo'i |  |
+|mũg̃'i |  | leaning | kamũg̃mũg̃'i |  |
+|po'i |  | laying | kapopo'i | |
+
+
+
+
 
 * Particles or reduplication mark [Aspect](https://universaldependencies.org/u/feat/Aspect.html) or [Tense](https://universaldependencies.org/u/feat/Tense.html).
 * [Person](https://universaldependencies.org/u/feat/Person.html) can have the value [1](), [2](), and [3]().
