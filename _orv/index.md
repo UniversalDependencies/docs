@@ -14,11 +14,6 @@ udver: '2'
 * Punctuation is not included in UD_Old_Russian-TOROT.
 * Punctuation is included in UD_Old_Russian_RNC.
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
-
 ## Morphology
 
 ### Tags
@@ -37,11 +32,6 @@ This is a brief overview of the use of POS tags in UD_Old_Russian-RNC:
 * The verb forms, including participles, are tagged VERB or AUX. Verbal nouns with clearly nominal properties are tagged NOUN.
 * Only _быти_ and conditional markers _бы_, _бъ_ are tagged AUX.
 * RNC is tagged in parallel in native UD and RNC format, an overview of the tagset and cross-mapping can be found here: https://github.com/olesar/UD_MidRussian.
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 This is a brief overview of the features used in UD_Old_Russian-TOROT:
@@ -77,11 +67,6 @@ At the moment, the Aspect and Analyt features are tagged only in some parts of t
   * Analyt (Yes)
   * Variant (Short)
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
 ## Syntax
 
 * We accept nominative subjects (nsubj), as well as genitive subjects under negation. Clausal subjects are tagged csubj. Potential subjects in other cases (such as the dative) are tagged iobj.
@@ -89,14 +74,10 @@ At the moment, the Aspect and Analyt features are tagged only in some parts of t
 * The copula verb is _быти_. It is increasingly omitted in the present tense in the later texts.
 * We use the following subtype relations: aux:pass, csubj:pass, flat:foreign, flat:name, nsubj:pass, obl:agent.
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
-
 ## Treebanks
 
-There are [2](../treebanks/orv-comparison.html) Old Russian UD treebanks:
+There are [3](../treebanks/orv-comparison.html) Old East Slavic UD treebanks:
 
-  * [Old Russian RNC](../treebanks/orv_rnc/index.html)
-  * [Old Russian TOROT](../treebanks/orv_torot/index.html)
+  * [Old East Slavic RNC](../treebanks/orv_rnc/index.html)
+  * [Old East Slavic TOROT](../treebanks/orv_torot/index.html)
+  * [Old East Slavic Ruthenian](../treebanks/orv_ruthenian/index.html)
