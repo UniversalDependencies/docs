@@ -2,6 +2,7 @@
 layout: feature
 title: 'NumForm'
 shortdef: 'numeral form'
+udver: '2'
 ---
 
 Feature of cardinal and ordinal numbers. Is the number expressed by
@@ -12,15 +13,15 @@ about digits in various other scripts? In texts in many Indian scripts
 and in the Arabic script both native digits and Euro-Arabic digits can
 appear (e.g. 2014 vs. २०१४ in Devanagari).
 
-### Word: number expressed as word
+### <a name="Word">`Word`</a>: number expressed as word
 
 Examples: one, two, three
 
-### Digit: number expressed using digits
+### <a name="Digit">`Digit`</a>: number expressed using digits
 
 Examples: 1, 2, 3
 
-### Roman: roman numeral
+### <a name="Roman">`Roman`</a>: roman numeral
 
 Examples: I, II, III
 <!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->

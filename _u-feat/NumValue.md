@@ -2,6 +2,7 @@
 layout: feature
 title: 'NumValue'
 shortdef: 'numeric value'
+udver: '2'
 ---
 
 Low-value (<5) cardinal numbers in Slavic languages behave
@@ -21,9 +22,22 @@ nouns modified by other nouns in genitive. (Note that this is why in
 the Czech PDT some numeral nodes are annotated as governing nouns
 instead of modifying them.)
 
-### 1: numeric value 1
+### <a name="1">`1`</a>: numeric value 1
 
-### 2: numeric value 2
+#### Examples
 
-### 3: numeric value 3 or 4
+* [cs] _<b>jeden, jedna, jedno</b>_ "one"
+
+### <a name="2">`2`</a>: numeric value 2
+
+#### Examples
+
+* [cs] _<b>dva, dvě</b>_ "two"
+
+### <a name="3">`3`</a>: numeric value 3 or 4
+
+#### Examples
+
+* [cs] _<b>tři</b>_ "three"
+* [cs] _<b>čtyři</b>_ "four"
 <!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->

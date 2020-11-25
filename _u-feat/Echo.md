@@ -2,6 +2,7 @@
 layout: feature
 title: 'Echo'
 shortdef: 'is this an echo word or a reduplicative?'
+udver: '2'
 ---
 
 Is this a reduplicative or echo word? Such words occur in Hindi and
@@ -12,7 +13,7 @@ assigned a POS independent of their RDP or ECH status (same as the
 word that they echo). Perhaps we should merge this also with the
 "hyph" feature to something called "compound"?
 
-### Rdp: reduplicative
+### <a name="Rdp">`Rdp`</a>: reduplicative
 
 The word is a copy of a previous word. In Hindi, this would add the meaning of distribution ("one rupee each"), separation ("sit separately"), variety, diversity or just emphasis.
 
@@ -20,7 +21,7 @@ Examples: [hi] "कभी - कभी" = "kabhī - kabhī" = "sometimes", "क�
 "kabhī" = "sometimes"; "एक एक" = "eka eka" = "one each", "एक" = "eka"
 = "one"
 
-### Ech: echo
+### <a name="Ech">`Ech`</a>: echo
 
 The word rhymes with a previous word but it is not identical to it and
 typically it does not have any meaning of its own. In Hindi it

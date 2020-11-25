@@ -2,27 +2,28 @@
 layout: feature
 title: 'AdpType'
 shortdef: 'adposition type'
+udver: '2'
 ---
 
-### Prep: preposition
+### <a name="Prep">`Prep`</a>: preposition
 
 Examples: in, on, to, from
 
-### Post: postposition
+### <a name="Post">`Post`</a>: postposition
 
 Examples: German "entlang" in "der Strasse entlang" (along the street)
 
-### Circ: circumposition
+### <a name="Circ">`Circ`</a>: circumposition
 
 Examples: German "von … an" in "von dieser Stelle an" (from this place
 on)
 
-### Voc: vocalized preposition
+### <a name="Voc">`Voc`</a>: vocalized preposition
 
 In Slavic languages, some prepositions are non-syllabic and their form
 has to be changed in some contexts to facilitate pronunciation.
 
-Czech examples: ke, ku, se, ve, ze
+Examples: Czech: ke, ku, se, ve, ze
 
 (Non-vocalized equivalents are: k, k, s, v, z)
 

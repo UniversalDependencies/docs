@@ -2,17 +2,18 @@
 layout: feature
 title: 'ConjType'
 shortdef: 'conjunction type'
+udver: '2'
 ---
 
 We already distinguished the two main types, coordinating and
 subordinating conjunctions, at the level of POS tags. However, there
 are other (sub?)types that are not yet accounted for.
 
-### Comp: comparing conjunction
+### <a name="Comp">`Comp`</a>: comparing conjunction
 
 Examples: [de] wie (as), als (than)
 
-### Oper: mathematical operator
+### <a name="Oper">`Oper`</a>: mathematical operator
 
 Note that operators can be expressed either using symbols or using
 words.
