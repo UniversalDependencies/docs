@@ -99,7 +99,7 @@ and refer to other fields as well). If no language-specific tags are available, 
 
 The FEATS field contains a list
 of morphological features, with vertical bar (\|) as list separator and with underscore to represent the empty list.
-All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the [universal feature inventory](u/feat/index.html) and be sorted alphabetically by attribute names. It is possible to declare that a feature has two or more values for a given word: `Case=Acc,Dat`. In this case, the values are sorted alphabetically. In sorting, uppercase letters are considered identical to their lowercase counterparts. Feature names must have the form `[A-Z0-9][A-Z0-9a-z]*(\[[a-z0-9]+\])?` and feature values must have the form `[A-Z0-9][a-zA-Z0-9]*`.
+All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the [universal feature inventory](u/feat/index.html) and be sorted alphabetically by attribute names. It is possible to declare that a feature has two or more values for a given word: `Case=Acc,Dat`. In this case, the values are sorted alphabetically. In sorting, uppercase letters are considered identical to their lowercase counterparts. Feature names must have the form `[A-Z][A-Za-z0-9]*(\[[a-z0-9]+\])?` and feature values must have the form `[A-Z0-9][A-Za-z0-9]*`.
 
 Here is an example, showing only the first five fields for the
 Swedish sentence _Då var han elva år_ (Then he was eleven years old):
