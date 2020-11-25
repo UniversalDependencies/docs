@@ -2,6 +2,7 @@
 layout: feature
 title: 'PrepCase'
 shortdef: 'case form sensitive to prepositions'
+udver: '2'
 ---
 
 Personal pronouns in some languages
@@ -17,25 +18,16 @@ serving as direct objects of verbs: <I>eu</I>/NOM (I), <I>me</I>/ACC
 Default empty value means that the word form is neutral w.r.t.
 prepositions.
 
-### Npr: non-prepositional case
+### <a name="Npr">`Npr`</a>: non-prepositional case
 
-This
-word form must not be used after a preposition.
+This word form must not be used after a preposition.
 
-Examples:
-[cs]
-<span style='color: red'><I>jemu</I></span>
-= him (dative).
+Examples: [cs] _<b>jemu</b>_ "him" (dative)
 
-### Pre: prepositional case
+### <a name="Pre">`Pre`</a>: prepositional case
 
-This
-word form must be used after a preposition.
+This word form must be used after a preposition.
 
-Examples:
-[cs]
-<I>k
-</I><span style='color: red'><I>ně</I></span><span style='color: red'><I>mu</I></span>
-= to
-him (dative).
+Examples: [cs] _k <b>němu</b>_ "to him" (dative)
+
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
