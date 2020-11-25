@@ -329,9 +329,13 @@ Bantu class 19 may signify “a little bit of” or a plural with a pejorative n
 
 In Ganda, the corresponding plural class is `Bantu6` or `Bantu22`.
 
+#### Examples
+
 * [lg] _musajja_ “man” → _<b>ogusajja</b>_ “giant”
 
 ### <a name="Bantu21">`Bantu21`</a>: singular, augmentatives, derogatives
+
+#### Examples
 
 * [ve] _<b>ḓinga</b>_ “large lump of earth”
 * [ve] _<b>ḓanḓa</b>_ “big clumsy hand”
@@ -340,9 +344,13 @@ In Ganda, the corresponding plural class is `Bantu6` or `Bantu22`.
 
 The corresponding singular class is `Bantu20`.
 
+#### Examples
+
 * [lg] _<b>agasajja</b>_ “giants”
 
 ### <a name="Bantu23">`Bantu23`</a>: location with place names
+
+#### Examples
 
 * [lg] _<b>elugala</b>_ “at Lugala”
 
@@ -350,6 +358,8 @@ The corresponding singular class is `Bantu20`.
 
 Wolof is a non-Bantu Niger-Congo language. It has noun classes but their semantics
 cannot be easily mapped on the Bantu classes.
+
+#### Examples
 
 The following table shows the forms of proximate demonstratives in the first ten noun classes;
 classes 2 and 8 are plural, the rest are singular.
