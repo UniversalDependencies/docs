@@ -107,6 +107,10 @@ morphemes, _-yor_ and _-mekte._
 
 English simple present has this aspect.
 
+#### Examples
+
+* [en] _he <b>attends</b> classes of Japanese_
+
 ### <a name="Iter">`Iter`</a>: iterative / frequentative aspect
 
 Denotes repeated action. Attested e.g. in Hungarian.

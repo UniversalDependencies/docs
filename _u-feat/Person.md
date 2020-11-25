@@ -29,7 +29,17 @@ languages).
 Zero person is for impersonal statements, appears in Finnish as well as in
 Santa Ana Pueblo Keres. (The construction is distinctive in Finnish but it does
 not use unique morphology that would necessarily require a feature. However,
-it is morphologically distinct in Keres (Davis 1964:75).
+it is morphologically distinct in Keres (Davis 1964:75):
+The fourth (zero) person is used “when the subject of
+the action is obscure, as when the speaker is telling of something that he
+himself did not observe. It is also used when the subject of the action is
+inferior to the object, as when an animal is the subject and a human being
+the object.”
+
+#### Examples
+
+* [kee] _gàku_ “he (third person) bit him”
+* [kee] _<b>c̓àku</b>_ “he (zero/fourth person) bit him”
 
 ### <a name="1">`1`</a>: first person
 
@@ -70,6 +80,11 @@ speakers nor addressees.
 
 The fourth person can be understood as a third person argument morphologically
 distinguished from another third person argument, e.g. in Navajo.
+
+#### Examples
+
+* [kee] _gàku_ “he (third person) bit him”
+* [kee] _<b>c̓àku</b>_ “he (zero/fourth person) bit him”
 
 ### References
 

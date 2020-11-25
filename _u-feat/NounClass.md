@@ -354,10 +354,12 @@ The corresponding singular class is `Bantu20`.
 
 * [lg] _<b>elugala</b>_ “at Lugala”
 
-### <a name="Wol1">`Wol1` – `Wol12`</a>: noun classes in Wolof
+## Noun Classes in Wolof
 
 Wolof is a non-Bantu Niger-Congo language. It has noun classes but their semantics
-cannot be easily mapped on the Bantu classes.
+cannot be easily mapped on the Bantu classes. The class is morphologically unmarked
+on nouns (although it is an inherent property of the lexeme) but determiners have
+to show agreement with the class.
 
 #### Examples
 
@@ -377,5 +379,78 @@ class 11 is for location, class 12 for manner.
 <tr><td><tt>Wol11</tt></td><td><tt>Wol12</tt></td></tr>
 <tr><td><i>fi</i> “here”</td><td><i>ni</i> “so”</td></tr>
 </table>
+
+### <a name="Wol1">`Wol1`</a>: Wolof noun class 1 (singular)
+
+#### Examples
+
+* [wo] _nitug Afrig <b>ki</b>_
+
+### <a name="Wol2">`Wol2`</a>: Wolof noun class 2 (plural)
+
+#### Examples
+
+* [wo] _jigéen <b>ñi</b>_
+
+### <a name="Wol3">`Wol3`</a>: Wolof noun class 3 (singular)
+
+#### Examples
+
+* [wo] _dexug Gaambi <b>gi</b>_
+
+### <a name="Wol4">`Wol4`</a>: Wolof noun class 4 (singular)
+
+#### Examples
+
+* [wo] _<b>jenn</b> jamono <b>ji</b>_
+
+### <a name="Wol5">`Wol5`</a>: Wolof noun class 5 (singular)
+
+#### Examples
+
+* [wo] _buur <b>bi</b>_
+
+### <a name="Wol6">`Wol6`</a>: Wolof noun class 6 (singular)
+
+#### Examples
+
+* [wo] _at <b>mi</b>_
+
+### <a name="Wol7">`Wol7`</a>: Wolof noun class 7 (singular)
+
+#### Examples
+
+* [wo] _ndongo <b>li</b>_
+
+### <a name="Wol8">`Wol8`</a>: Wolof noun class 8 (plural)
+
+#### Examples
+
+* [wo] _nguur <b>yii</b>_
+
+### <a name="Wol9">`Wol9`</a>: Wolof noun class 9 (singular)
+
+#### Examples
+
+* [wo] _sàmm <b>si</b>_
+
+### <a name="Wol10">`Wol10`</a>: Wolof noun class 10 (singular)
+
+#### Examples
+
+* [wo] _sama nag <b>wa</b>_
+
+### <a name="Wol11">`Wol11`</a>: Wolof noun class 11 (location)
+
+#### Examples
+
+* [wo] _<b>fi</b>_ “here”
+* [wo] _<b>fa</b>_ “there”
+
+### <a name="Wol12">`Wol12`</a>: Wolof noun class 12 (manner)
+
+#### Examples
+
+* [wo] _<b>ni</b>_ “so”
 
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

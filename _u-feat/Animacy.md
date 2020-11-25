@@ -69,9 +69,19 @@ inflected as animate if they are personified. And some words in some
 languages can grammatically behave like animates although there is no
 obvious semantic reason for that.
 
+#### Examples
+
+* [cs] _<b>malí kluci</b>_ "small boys"
+* [cs] _<b>malí psi</b>_ "small dogs"
+
 ### <a name="Inan">`Inan`</a>: inanimate
 
 Nouns that are not animate are inanimate.
+
+#### Examples
+
+* [cs] _<b>malé domy</b>_ "small houses"
+* [pl] _<b>małe domy</b>_ "small houses"
 
 ### <a name="Hum">`Hum`</a>: human
 
@@ -79,10 +89,19 @@ A subset of animates where the prototypical member is a human being but not
 an animal. Again, there may be exceptions that do not fit the class semantically
 but belong to it grammatically.
 
+#### Examples
+
+* [pl] _<b>mali chłopcy</b>_ "small boys"
+
 ### <a name="Nhum">`Nhum`</a>: non-human
 
 In languages that only distinguish human from non-human, this value includes
 inanimates. In languages that distinguish human animates, non-human animates
 and inanimates, this value is used only for non-human animates, while `Inan`
 is used for inanimates.
+
+#### Examples
+
+* [pl] _<b>małe psy</b>_ "small dogs"
+
 <!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->

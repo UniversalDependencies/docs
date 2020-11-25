@@ -41,6 +41,8 @@ happen, without adding any attitude of the speaker.
 * [fr] _Tu le <b>fais</b>._ "You <b>do</b> it."
 * [tr] *eve <b>gidiyor</b>* "she is going home"
 * [tr] *eve <b>gitti</b>* "she went home"
+* [et] _Sa ei <b>tule</b>._ "You are not coming."
+* [sq] _Ti <b>flet</b> shqip._ "You speak Albanian."
 
 ### <a name="Imp">`Imp`</a>: imperative
 
@@ -113,11 +115,20 @@ Used e.g. in Arabic. We also map the Sanskrit injunctive to `Mood=Jus`.
 
 ### <a name="Prp">`Prp`</a>: purposive
 
-Means “in order to”, occurs in Amazonian languages.
+Means “in order to”, occurs in Amazonian and Australian languages, such as Arabana.
+
+#### Examples
+
+* [ard] _Antha yukarnda puntyi <b>manilhiku</b>._ "I am going <b>to get</b> some meat."
 
 ### <a name="Qot">`Qot`</a>: quotative
 
 The quotative mood is used e.g. in Estonian to denote direct speech.
+The boundary between this mood and the non-first-hand [Evidentiality]() is blurred.
+
+#### Examples
+
+* [et] _Sa ei <b>tulevat</b>._ "You are reportedly not coming."
 
 ### <a name="Opt">`Opt`</a>: optative
 
@@ -135,6 +146,10 @@ In Sanskrit it may express possibility (cf. the potential mood in other language
 The desiderative mood corresponds to the modal verb "want to": "He
 <b>wants to come</b>." Used e.g. in Turkish.
 
+#### Examples
+
+* [ja] <b>食べたい</b> / _<b>tabetai</b>_ "want to eat"
+
 ### <a name="Nec">`Nec`</a>: necessitative
 
 The necessitative mood expresses necessity and corresponds to the modal verbs "must, should,
@@ -149,5 +164,9 @@ have to": "He <b>must</b><b> come</b>."
 
 Expresses surprise, irony or doubt. Occurs in Albanian, other Balkan languages,
 and in Caddo (Native American from Oklahoma).
+
+#### Examples
+
+* [sq] _Ti <b>fliske</b> shqip!_ "You (surprisingly) speak Albanian!"
 
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

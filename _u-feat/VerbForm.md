@@ -62,11 +62,13 @@ form of the participle, used to form the composite past form of a
 verb.  It is used after the auxiliary verb _ha_ (to have) but not
 after _vara_ (to be):
 
-* Simple past: I ate (the) dinner = _Jag åt maten_ (using preterite)
-* Composite past: I have eaten (the) dinner = _Jag har <b>ätit</b> maten_ (using supine)
-* Past participle common: (The) dinner is eaten = _Maten är äten_ (using past participle)
-* Past participle neuter: (The) apple is eaten = _Äpplet är ätet_
-* Past participle plural: (The) apples are eaten = _Äpplena är ätna_ 
+#### Examples
+
+* [sv] Simple past: I ate (the) dinner = _Jag åt maten_ (using preterite)
+* [sv] Composite past: I have eaten (the) dinner = _Jag har <b>ätit</b> maten_ (using supine)
+* [sv] Past participle common: (The) dinner is eaten = _Maten är äten_ (using past participle)
+* [sv] Past participle neuter: (The) apple is eaten = _Äpplet är ätet_
+* [sv] Past participle plural: (The) apples are eaten = _Äpplena är ätna_
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
@@ -103,6 +105,10 @@ in UD v2.
 ### <a name="Gdv">`Gdv`</a>: gerundive
 
 Used in Latin and Ancient Greek. Not to confuse with gerund.
+
+#### Examples
+
+* [la] _puer <b>laudandus</b> est_ “the boy <b>should</b> be <b>praised</b>”
 
 ### <a name="Ger">`Ger`</a>: gerund
 

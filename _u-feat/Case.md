@@ -121,12 +121,24 @@ In many languages this is the word form used for subjects of clauses.
 If the language has only two cases, which are called "direct" and
 "oblique", the direct case will be marked Nom.
 
+#### Examples
+
+* [en] _<b>She</b> sleeps._
+* [en] _<b>He</b> loves her._
+* [cs] _<b>Jana</b> spí._ "Jana sleeps."
+* [cs] _<b>Pavel</b> miluje Janu._ "Pavel loves Jana."
+
 ### <a name="Acc">`Acc`</a>: accusative / oblique
 
 Perhaps the second most widely spread morphological case. In many
 languages this is the word form used for direct objects of verbs.  If
 the language has only two cases, which are called "direct" and
 "oblique", the oblique case will be marked Acc.
+
+#### Examples
+
+* [en] _He loves <b>her</b>._
+* [cs] _Pavel miluje <b>Janu</b>._ "Pavel loves Jana."
 
 ### <a name="Abs">`Abs`</a>: absolutive
 
@@ -137,6 +149,10 @@ absolutive-ergative.
 The absolutive case marks subject of intransitive verb and direct
 object of transitive verb.
 
+#### Examples
+
+* [eu] _<b>Maria</b> lotan dago._ "Maria is sleeping."
+
 ### <a name="Erg">`Erg`</a>: ergative
 
 Some languages (e.g. Basque) do not use nominative-accusative to
@@ -144,6 +160,10 @@ distinguish subjects and objects.  Instead, they use the contrast of
 absolutive-ergative.
 
 The ergative case marks subject of transitive verb.
+
+#### Examples
+
+* [eu] _<b>Juanek</b> Maria maite du._ "Juan loves Maria."
 
 ### <a name="Dat">`Dat`</a>: dative
 
@@ -538,6 +558,10 @@ It is used in Warlpiri (Andrews 2007, p.164).
 The comparative case means “than X”. It marks the standard of comparison and
 it differs from the comparative [Degree](), which marks the property being
 compared. It occurs in Dravidian and Northeast-Caucasian languages.
+
+#### Examples
+
+* [mr] हे फूल त्या <b>फुलापेक्षा</b> सुंदर आहे. _(Hē phūla tyā <b>phulāpēkṣā</b> sundara āhē.)_ “This flower is more beautiful than that flower.”
 
 ### <a name="Equ">`Equ`</a>: equative
 

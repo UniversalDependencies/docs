@@ -33,6 +33,7 @@ indefinite, i.e. “any (one) stick”.
 
 * [en] _<b>a</b> dog_
 * [sv] _<b>en hund</b>_ “a dog”
+* [lkt] _c'ą <b>wążi</b> 'aų wo_ “put a [any] stick on [the fire]”
 
 ### <a name="Spec">`Spec`</a>: specific indefinite
 
@@ -41,12 +42,17 @@ Occurs e.g. in Lakota.
 In languages where it is used the value `Ind` is interpreted as non-specific
 indefinite, i.e. “any (one) stick”.
 
+#### Examples
+
+* [lkt] _c'ą <b>wą</b> 'ag.li'_ “he brought a [certain] stick”
+
 ### <a name="Def">`Def`</a>: definite
 
 #### Examples
 
 * [en] _<b>the</b> dog_
 * [sv] _<b>hunden</b>_ “the dog”
+* [lkt] _c'ą <b>kį</b>_ “the stick”
 
 ### <a name="Cons">`Cons`</a>: construct state / reduced definiteness
 

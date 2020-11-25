@@ -63,28 +63,51 @@ A dual noun denotes two persons, animals or things.
 ### <a name="Tri">`Tri`</a>: trial number
 
 A trial pronoun denotes three persons, animals or things.
-It occurs in pronouns of several Austronesian languages.
+It occurs in pronouns of several Austronesian languages, such as Biak.
+
+#### Examples
+
+* [bhw] _sko_ “they three”
+* [bhw] singular _ibiser_ “he is hungry”, dual _subiser_ “they two are hungry”, trial _<b>skobiser</b>_ “they three are hungry”, plural _sibiser_ “they are hungry”
 
 ### <a name="Pauc">`Pauc`</a>: paucal number
 
 A paucal noun denotes “a few” persons, animals or things.
+
+#### Examples
+
+* [wbp] singular _karli_ “boomerang”, paucal _<b>karlipatu</b>_ “a few boomerangs”
 
 ### <a name="Grpa">`Grpa`</a>: greater paucal number
 
 A greater paucal noun denotes “more than several but not many” persons, animals or things.
 It occurs in Sursurunga, an Austronesian language.
 
+#### Examples
+
+* [sgz] singular _iau_ “I”, dual _giur_ “the two of us”, paucal _gimtul_ “the few of us”, greater paucal _<b>gimhat</b>_ “we”, plural _gim_ “we”
+
 ### <a name="Grpl">`Grpl`</a>: greater plural number
 
 A greater plural noun denotes “many, all possible” persons, animals or things.
 Precise semantics varies across languages.
 
+#### Examples
+
+* [ff] singular _ngesa_ “field”, plural _gese_ “fields”, greater plural _geseeli_ “many fields”
+
 ### <a name="Inv">`Inv`</a>: inverse number
 
 Inverse number means non-default for that particular noun. (Some nouns are by
-default assumed to be singular, some plural.) Occurs e.g. in Kiowa.
+default assumed to be singular, some dual or plural.) Occurs e.g. in Kiowa.
 
-### <a name="Count">`Count`</a> count plural
+#### Examples
+
+* [kio] _ę́:dè sân khópdɔ́:_ “This child is sick.” (basic, singular)
+* [kio] _ę́:dè sân ę̀khópdɔ́:_ “These two children are sick.” (basic, dual)
+* [kio] _<b>ę́:gɔ̀ są̂:dɔ̀ èkhópdɔ́:</b>_ “These children are sick.” (inverse, plural)
+
+### <a name="Count">`Count`</a>: count plural
 
 Attested in Bulgarian and Macedonian. It is known variously as “counting form”,
 “count plural” or “quantitative plural” (Sussex and Cubberley 2006, p. 324).

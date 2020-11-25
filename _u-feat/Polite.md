@@ -52,7 +52,7 @@ Usage varies but if the language distinguishes levels of politeness, then
 the informal register is usually meant for communication with family
 members and close friends.
 
-Examples:
+#### Examples
 
 * [cs] _<b>ty jdeš / vy jdete</b>_ (you go.Sing/Plur)
 * [de] _<b>du gehst / ihr geht</b>_ (you go.Sing/Plur)
@@ -65,7 +65,7 @@ Usage varies but if the language distinguishes levels of politeness, then
 the polite register is usually meant for communication with strangers
 and people of higher social status than the one of the speaker.
 
-Examples:
+#### Examples
 
 * [cs] _<b>vy jdete</b>_ (you go.Sing/Plur)
 * [de] _<b>Sie gehen</b>_ (you go.Sing/Plur)
@@ -78,6 +78,8 @@ This register belongs to the speaker-referent axis and can be seen as a subtype
 of the formal register there. As an example, Japanese sonkeigo (尊敬語) is a set
 of honorific forms that elevate the status of the referent.
 
+#### Examples
+
 * [ja] <b>なさる _nasaru,_</b> なさいます _nasaimasu_ (to do; when talking about a customer or a superior)
 
 ### <a name="Humb">`Humb`</a>: speaker humbling
@@ -86,6 +88,8 @@ This register belongs to the speaker-referent axis and can be seen as a subtype
 of the formal register there. As an example, Japanese kenjōgo (謙譲語) is a set
 of honorific forms that lower the speaker's status, thereby raising the referent's
 status by comparison.
+
+#### Examples
 
 * [ja] <b>いたす _itasu,_</b> いたします _itashimasu_ (to do; when referring to one's own actions or the actions of a group member)
 

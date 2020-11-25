@@ -57,6 +57,7 @@ masculine nor feminine (grammatically).
 
 * [en] _<b>castle</b>_
 * [cs] _<b>dítě</b>_ "child"
+* [sv] _<b>barn</b>_ "child"
 
 ### <a name="Com">`Com`</a>: common gender
 
@@ -85,4 +86,9 @@ Therefore in Spanish we should not tag _grande_ with `Gender=Com`.
 Instead, we should either drop the gender feature entirely
 (suggesting that this word does not inflect for gender)
 or tag individual instances of _grande_ as either masculine or feminine, depending on context.
+
+#### Examples
+
+* [sv] _<b>väg</b>_ "way"
+
 <!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->
