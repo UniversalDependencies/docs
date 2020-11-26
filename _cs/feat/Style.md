@@ -27,12 +27,18 @@ systematically change between dialects or styles).
 
 #### Examples
 
-* _biblí, bukův, dubův, činějí_
+* _<b>biblí, bukův, dubův, činějí</b>_
+* _Mezi těmito rodinami jsou <b>dosti</b> značné rozdíly._ “There are quite significant differences between these families.”
+  (The modern equivalent would be _dost_.)
 
 ### <a name="Rare">`Rare`</a>: rare
 
+#### Examples
+
 * _<b>causa</b>_ (rare spelling)
 * _kauza_ (neutral spelling)
+* _Co ale dohnalo mladého <b>ambiciosního</b> člověka k sebevraždě?_ “But what drove the young, ambitious man to commit suicide?”
+  (The more frequent equivalent would be _ambiciózního_.)
 
 ### <a name="Coll">`Coll`</a>: colloquial
 
@@ -43,19 +49,31 @@ systematically change between dialects or styles).
 
 ### <a name="Vrnc">`Vrnc`</a>: vernacular
 
-* _kotáry, žehnáčky, husličky, nesúdí_
+#### Examples
+
+* _<b>kotáry, žehnáčky, husličky, nesúdí</b>_
+* _A tak jsem po čase dělal kmotra nové knize: "Slovácko <b>sa nesúdí</b>"._ “And so, over time, I made the godfather of a new book: "Slovácko sa nesúdí" ("Slovácko does not judge").”
+  (This is an East-Moravian dialect of Czech; its standard equivalent would be _se nesoudí_.)
 
 ### <a name="Slng">`Slng`</a>: slang
 
-* _kšeft, záklaďák, čtvrtkařka, štafl_
+#### Examples
+
+* _<b>kšeft, záklaďák, čtvrtkařka, štafl</b>_
 
 ### <a name="Expr">`Expr`</a>: expressive, emotional
 
+#### Examples
+
 Typical examples of expressive words in the Czech data are diminutives:
 
-* _jezírko, okénko, semínko, hovínko, miminko_
+* _<b>jezírko, okénko, semínko, hovínko, miminko</b>_
+* _Vezeme také několik set <b>čokoládiček</b>._ “We also take several hundred chocolates.”
+  (The diminutive signals affection rather than size. The neutral equivalent would be _čokolád_.)
 
 ### <a name="Vulg">`Vulg`</a>: vulgar
 
-* _parchant, suchoprd, bordel, nablito_
+#### Examples
+
+* _<b>parchant, suchoprd, bordel, nablito</b>_ “bastard, weed, mess, barfed”
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->

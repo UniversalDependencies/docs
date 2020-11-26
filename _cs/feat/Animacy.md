@@ -31,15 +31,19 @@ inflected as animate if they are personified. For instance, consider a
 children's story about cars where cars live and talk as people; then
 the cars may become and be inflected as animates.
 
+#### Examples
+
 PDT examples of masculine animate nouns:
 
-- _člověk&nbsp;_ “man”, _ministr&nbsp;_ “minister”, _prezident&nbsp;_ “president”, _předseda&nbsp;_ “chairman”, _ředitel&nbsp;_ “director”
+* _<b>člověk</b>&nbsp;_ “man”, _<b>ministr</b>&nbsp;_ “minister”, _<b>prezident</b>&nbsp;_ “president”, _<b>předseda</b>&nbsp;_ “chairman”, _<b>ředitel</b>&nbsp;_ “director”
 
 ### <a name="Inan">`Inan`</a>: inanimate
 
 Nouns that are not animate are inanimate.
 
+#### Examples
+
 PDT examples of masculine inanimate nouns:
 
-- _rok&nbsp;_ “year”, _zákon&nbsp;_ “law”, _stát&nbsp;_ “state”, _případ&nbsp;_ “case”, _milión&nbsp;_ “million”
+* _<b>rok</b>&nbsp;_ “year”, _<b>zákon</b>&nbsp;_ “law”, _<b>stát</b>&nbsp;_ “state”, _<b>případ</b>&nbsp;_ “case”, _<b>milión</b>&nbsp;_ “million”
 <!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->

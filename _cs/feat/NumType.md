@@ -51,14 +51,16 @@ several different parts of speech:
 
 This is a subtype of adjective or adverb.
 
-#### Adjectival examples
+#### Examples
+
+Adjectival:
 
 * _první&nbsp;_ “first”; _druhý&nbsp;_ “second”, _třetí&nbsp;_ “third”
 * _kolikátý&nbsp;_ lit. _how manieth&nbsp;_ “which rank”
 * _několikátý&nbsp;_ “some rank”
 * _tolikátý&nbsp;_ “this/that rank”
 
-#### Adverbial examples
+Adverbial:
 
 * _poprvé&nbsp;_ “for the first time”; _podruhé&nbsp;_ “for the second time”; _potřetí&nbsp;_ “for the third time”
 * _pokolikáté&nbsp;_ “for which time”

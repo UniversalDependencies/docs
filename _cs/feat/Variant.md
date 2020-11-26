@@ -20,7 +20,7 @@ short forms of [adjectives](cs-pos/ADJ) and short (clitic) forms of personal [pr
 This feature only marks the non-standard short forms, hence there is only one value, `Short`.
 For the long standard forms the `Variant` feature remains unspecified.
 
-### <a name="Short">`Short`</a>: short form of adjectives
+### <a name="Short">`Short`</a>: short form of adjectives or personal pronouns
 
 The short form is called _nominal form of adjective (jmenný tvar přídavného jména),_
 as opposed to the long form, which is _pronominal_ because it originated as
@@ -37,8 +37,6 @@ do not have them: _<b>třeba</b>, <b>rád</b>._
   _<b>jist</b>_ “sure”, _<b>vědom</b>_ “knowing”, _<b>přítomen</b>_ “present”, _<b>roven</b>_ “equal”,
   _<b>patrno</b>_ “apparent”, _<b>hotov</b>_ “finished”, _<b>spjat</b>_ “connected”, _<b>vinen</b>_ “guilty”
 * Long equivalents: _možné, schopný, nutné, známý, spokojený, povinný, ochotný, jistý, vědomý, přítomný, rovný, patrné, hotový, spjatý, vinný_
-
-### <a name="Short">`Short`</a>: short (clitic) form of personal pronouns
 
 Some personal pronouns in dative and accusative [Case]() have double forms.
 The normal (long) form is more independent in terms of positions it can take in word order.

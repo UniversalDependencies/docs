@@ -25,7 +25,7 @@ in multi-word foreign names, [adjectives](cs-pos/ADJ) may also have this feature
 (they preserve the `ADJ` tag but at the same time they would not exist in Czech
 otherwise than in the named entity).
 
-### Conversion from the Prague Dependency Treebank
+## Conversion from the Prague Dependency Treebank
 
 Lemmas in PDT contain features
 that also encode types of named entities. When converting the PDT annotation
@@ -53,10 +53,6 @@ Names of cities, countries, rivers, mountains etc.
 #### Examples
 
 * _<b>Praha</b>&nbsp;_ “Prague”, _<b>Kostelec</b> nad Černými lesy, <b>Německo</b>&nbsp;_ “Germany”
-
-### <a name="Prs">`Prs`</a>: name of person
-
-This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name.
 
 ### <a name="Giv">`Giv`</a>: given name of person
 
@@ -88,9 +84,22 @@ but _český&nbsp;_ “Czech” and _čeština&nbsp;_ “Czech [language]” do 
 
 ### <a name="Com">`Com`</a>: company, organization
 
+#### Examples
+
+* _<b>Škoda</b>, <b>ODS</b>_
+
 ### <a name="Pro">`Pro`</a>: product
+
+#### Examples
+
+* _Opel <b>Astra</b>_
 
 ### <a name="Oth">`Oth`</a>: other
 
 Names of stadiums, guerilla bases, events etc.
+
+#### Examples
+
+* _rádio <b>Classic</b> '93_ “radio Classic '93”
+
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

@@ -54,6 +54,11 @@ be in a particular grammatical case to fill a particular valency slot
 The base form of the noun, also used as citation form (lemma).
 This is the word form used for subjects of clauses.
 
+#### Examples
+
+* _<b>Jan</b> spí._ “<b>Jan</b> sleeps.”
+* _<b>Jan</b> miluje Marii. “<b>Jan</b> loves Marie.”
+
 ### <a name="Gen">`Gen`</a>: genitive
 
 Prototypical meaning of genitive is that the noun phrase somehow
@@ -97,6 +102,10 @@ This is the word form often used for indirect objects of verbs.
 
 Perhaps the second most widely spread morphological case.
 This is the word form most frequently used for direct objects of verbs.
+
+#### Examples
+
+* _Jan miluje <b>Marii</b>. “Jan loves <b>Marie</b>.”
 
 ### <a name="Voc">`Voc`</a>: vocative
 

@@ -32,13 +32,19 @@ to mark these numerals.
 
 ### <a name="1">`1`</a>: numeric value 1
 
+#### Examples
+
 * _jeden, jedna, jedno_ “one”
 
 ### <a name="2">`2`</a>: numeric value 2
 
+#### Examples
+
 * _dva, dvě_ “two”
 
 ### <a name="3">`3`</a>: numeric value 3 or 4
+
+#### Examples
 
 * _tři_ “three”, _čtyři_ “four”
 <!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->
