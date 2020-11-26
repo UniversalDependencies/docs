@@ -1,12 +1,13 @@
 ---
 layout: feature
-title: 'PossedNumber'
+title: 'Number[psed]'
 shortdef: 'possessed object’s number'
+udver: '2'
 ---
 
-## PossedNumber
+## Number[psed]
 
-PossedNumber
+`Number[psed]`
 is the possessee's (possessed, owned noun phrase's) number. In
 Hungarian, possession can be marked on the possessor or on the
 possessed. It is possible, though rare, that a noun has three
@@ -37,14 +38,23 @@ Multext-East Hungarian lexicon:
 
 Words marked for plural possessions are very rare, though. Note
 that in the following example from Multext-East, Columbus is marked
-for plural possession, but not for his own owner. 
+for plural possession, but not for his own owner.
 
 * <I>Kolumbuszéinál</I>
   * <I>Kolumbusz</I> = Columbus (singular)
   * <I>Kolumbuszéi</I> = (possessions) of Columbus (plural possession)
   * <I>Kolumbuszéinál</I> = (at the possessions) of Columbus (adessive case)
 
-### Sing: singular possession
+### <a name="Sing">`Sing`</a>: singular possession
 
-### Plur: plural possession
+#### Examples
+
+* [hu] _<b>ellenfeleié</b>_ “(possession) of his/her/its opponents” (singular possession)
+
+### <a name="Plur">`Plur`</a>: plural possession
+
+#### Examples
+
+* [hu] _<b>Kolumbuszéi</b>_ “(possessions) of Columbus” (plural possession)
+
 <!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->

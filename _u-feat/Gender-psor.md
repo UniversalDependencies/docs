@@ -1,24 +1,23 @@
 ---
 layout: feature
-title: 'PossGender'
+title: 'Gender[psor]'
 shortdef: 'possessor’s gender'
+udver: '2'
 ---
 
 Possessive
 adjectives and pronouns may have two different genders: that of the
 possessed object (gender agreement with modified noun) and that of
-the possessor (lexical feature, inherent gender). The PossGender
-feature captures the possessor's gender. For simplicity, the set of
-possible values is identical to Gender, although only a subset has
-been observed in corpora so far.
+the possessor (lexical feature, inherent gender). The `Gender[psor]`
+feature captures the possessor's gender.
 
 In
-the Czech examples below, the masculine PossGender implies using one
+the Czech examples below, the masculine `Gender[psor]` implies using one
 of the suffixes <I>-</I><I>ův, -ova, -ovo,</I>
-and the feminine PossGender implies using one of <I>-</I><I>in,
+and the feminine `Gender[psor]` implies using one of <I>-</I><I>in,
 -ina, -ino</I>.
 
-### Masc: masculine possessor
+### <a name="Masc">`Masc`</a>: masculine possessor
 
 Examples:
 [cs]
@@ -35,7 +34,7 @@ dítě</I></span>
 (father's
 child; PossGender=Masc|Gender=Neut).
 
-### Fem: feminine possessor
+### <a name="Fem">`Fem`</a>: feminine possessor
 
 Examples:
 [cs]

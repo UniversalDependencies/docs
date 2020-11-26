@@ -1,24 +1,26 @@
 ---
 layout: feature
-title: 'PossPerson'
+title: 'Person[psor]'
 shortdef: 'possessor’s person'
+udver: '2'
 ---
 
-PossPerson
+Person[psor]
 is possessor's person, marked e.g. on Hungarian nouns. These noun
 forms would be translated to English as possessive pronoun + noun.
 
-Note
-that there is currently a sort of inconsitency in Interset: since
-this feature was introduced, it would be logical to use it also for
-possessive pronouns in other languages. Yet the possessor's person of
-these pronouns is traditionally captured in the &ldquo;Person&rdquo;
-feature. Also note that using PossPerson for possessive pronouns
-might introduce inconsistency at the other end because in some
-languages, possessive pronouns are actually identical to personal
-pronouns in the genitive case.
+This layered feature is conveniently used for possessive inflections
+of nouns, although nouns normally do not have a `Person` feature,
+meaning that no other layers are needed. Nevertheless, the possessive
+morphology typically also includes `Number`, which must be multi-layered
+on nouns, and we thus have `Person[psor]` together with `Number[psor]`.
 
-### 1: first person possessor
+This layered feature is normally not used with possessive pronouns.
+They traditionally have just simple `Person`.
+(And in some languages, possessive pronouns are actually identical to
+personal pronouns in the genitive case.)
+
+### <a name="1">`1`</a>: first person possessor
 
 Examples:
 [hu]
@@ -31,7 +33,7 @@ my dog;
 =
 our dog.
 
-### 2: second person possessor
+### <a name="2">`2`</a>: second person possessor
 
 Examples:
 [hu]
@@ -44,7 +46,7 @@ your.Sing dog;
 =
 your.Plur dog.
 
-### 3: third person possessor
+### <a name="3">`3`</a>: third person possessor
 
 Examples:
 [hu]

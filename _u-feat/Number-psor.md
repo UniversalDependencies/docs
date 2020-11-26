@@ -1,17 +1,16 @@
 ---
 layout: feature
-title: 'PossNumber'
+title: 'Number[psor]'
 shortdef: 'possessor’s number'
+udver: '2'
 ---
 
 Possessives
 may have two different numbers: that of the possessed object (number
 agreement with modified noun) and that of the possessor. The
-PossNumber feature captures the possessor's number. For simplicity,
-the set of possible values is identical to Number, although only a
-subset has been observed in corpora so far.
+`Number[psor]` feature captures the possessor's number.
 
-### Sing: singular possessor
+### <a name="Sing">`Sing`</a>: singular possessor
 
 Examples:
 [en]
@@ -27,7 +26,7 @@ psi</I>
 (my
 dogs; PossNumber=Sing|Number=Plur).
 
-### Plur: plural possessor
+### <a name="Plur">`Plur`</a>: plural possessor
 
 Examples:
 [en]
