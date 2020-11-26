@@ -8,11 +8,11 @@ udver: '2'
 Degree of comparison is used as an inflectional feature of some
 [adjectives](u-pos/ADJ) and [adverbs](u-pos/ADV).
 
-### `Pos`: positive, first degree
+### <a name="Pos">`Pos`</a>: positive, first degree
 
 Not used.
 
-### `Cmp`: comparative, second degree
+### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
 The quality of one object is compared to the same quality of another
 object.
@@ -22,7 +22,7 @@ object.
 * _Luigi è migliore di me_ "Luigi is better than me"
 * _Il prezzo è inferiore_ "The price is lower"
 
-### `Sup`: superlative, third degree
+### <a name="Sup">`Sup`</a>: superlative, third degree
 
 The quality of one object is compared to the same quality of all other
 objects within a set. 
@@ -32,7 +32,7 @@ superlatives, such as [en] "youngest". One would say instead:
 
 * _Luigi è il più giovane_ "Luigi is the most young"
 
-### `Abs`: absolute superlative
+### <a name="Abs">`Abs`</a>: absolute superlative
 
 The quality of the given object is so strong that there is hardly any other object
 exceeding it. The quality is not actually compared to any particular

@@ -35,12 +35,12 @@ adpositions and other words will determine that the noun phrase must
 be in a particular grammatical case to fill a particular valency slot
 (semantic role).
 
-### `Nom`: nominative
+### <a name="Nom">`Nom`</a>: nominative
 
 The base form of the noun, also used as citation form (lemma).
 This is the word form used for subjects of clauses.
 
-### `Gen`: genitive
+### <a name="Gen">`Gen`</a>: genitive
 
 Prototypical meaning of genitive is that the noun phrase somehow
 belongs to its governor; it would often be translated by the English
@@ -68,7 +68,7 @@ preposition _без&nbsp;_ always requires its argument to be in genitive.
 * _Москва - столица <b>Российской Федерации</b>.&nbsp;_ “Moscow is the
   capital <b>of the Russian Federation</b>.”
 
-### `Dat`: dative
+### <a name="Dat">`Dat`</a>: dative
 
 This is the word form often used for indirect objects of verbs.
 
@@ -78,12 +78,12 @@ This is the word form often used for indirect objects of verbs.
   (_своему брату&nbsp;_ “my brother” is dative and
   _подарок&nbsp;_ “present” is accusative.)
 
-### `Acc`: accusative
+### <a name="Acc">`Acc`</a>: accusative
 
 Perhaps the second most widely spread morphological case.
 This is the word form most frequently used for direct objects of verbs.
 
-### `Loc`: locative
+### <a name="Loc">`Loc`</a>: locative
 
 The locative case often expresses location in space or time, which
 gave it its name. As elsewhere, non-locational meanings also exist and
@@ -101,7 +101,7 @@ combination with prepositions.
 * _Разговаривали мы там о <b>морфологии</b>.&nbsp;_ “We talked there about
   <b>morphology</b>.” (Non-locational non-temporal example)
 
-### `Ins`: instrumental
+### <a name="Ins">`Ins`</a>: instrumental
 
 The role from which the name of the instrumental case is derived is
 that the noun is used as instrument to do something (as in _писать

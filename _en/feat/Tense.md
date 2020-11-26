@@ -7,7 +7,7 @@ shortdef: 'tense'
 In English, `Tense` is a feature of [verbs](en-pos/VERB) that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance. 
 
 
-### `Pres`: present tense
+### <a name="Pres">`Pres`</a>: present tense
 
 The present tense denotes actions that are happening right now or that usually happen. All verbs with the PTB tag `VBP` or `VBZ` have this feature. [Subjunctives](Mood) with the PTB tag `VB` also have this feature.
 
@@ -16,7 +16,7 @@ The present tense denotes actions that are happening right now or that usually h
 * _She <b>goes</b> home._
 * _I suggest that he <b>see</b> a doctor._
 
-### `Past`: past tense
+### <a name="Past">`Past`</a>: past tense
 
 The past tense denotes actions that happened before the current moment. All verbs with the PTB tag `VBD` and `VBN` have this feature.
 

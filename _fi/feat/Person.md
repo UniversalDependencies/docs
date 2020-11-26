@@ -6,7 +6,7 @@ shortdef: 'person'
 
 `Person` is a feature of [verbs](u-pos/VERB) (TODO: also pronouns?).
 
-### `1`: first person
+### <a name="1">`1`</a>: first person
 
 In singular, the first person refers just to the speaker or author.
 In plural, it includes the speaker/author and one or more additional
@@ -17,7 +17,7 @@ persons.
 * [fi] _minä <b>näin</b> sinut_ "I <b>saw</b> you"
 * [fi] _me <b>lähdimme</b>_ "we <b>left</b>"
 
-### `2`: second person
+### <a name="2">`2`</a>: second person
 
 In singular, the second person refers to the addressee of the utterance
 or text. In plural, it may mean several addressees and optionally some
@@ -28,7 +28,7 @@ third persons too.
 * [fi] _me <b>tarjoamme</b>_ "we <b>offer</b>"
 * [fi] _te <b>vastaatte</b>_ "you <b>answer</b>"
 
-### `3`: third person
+### <a name="3">`3`</a>: third person
 
 The third person refers to one or more persons that are neither speakers
 nor addressees.

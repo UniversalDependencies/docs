@@ -17,7 +17,7 @@ but as a reference type (similarly to entity, attribute, possession, etc.)
 In Bulgarian there are reflexive verbs - both as form and as meaning. They are written
 separately: събуждам се / _sabuzhdam se_ "to wake up".
 
-### `Yes`: it is reflexive
+### <a name="Yes">`Yes`</a>: it is reflexive
 
 Note that there is no `No` value. If the word is not reflexive, the
 `Reflex` feature will just not be mentioned in the `FEAT`

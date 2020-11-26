@@ -4,14 +4,14 @@ title: 'Style'
 shortdef: 'style'
 ---
 
-### `Coll`: word is colloquial
+### <a name="Coll">`Coll`</a>: word is colloquial
 
 #### Examples
 
 * [fi] _et_ "that" (colloquial form of _että_)
 * [fi] _mut_ "but" (colloquial form of _mutta_)
 
-### `Arch`: archaic, obsolete
+### <a name="Arch">`Arch`</a>: archaic, obsolete
 
 #### Examples
 

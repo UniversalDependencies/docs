@@ -9,7 +9,7 @@ udver: '2'
 
 Definiteness in Erzya is an inflectional feature of [nouns](myv-pos/NOUN) and [proper nouns](myv-pos/PROPN), as well as [adjectives](myv-pos/ADJ), [determiners](myv-pos/DET) and [numerals](myv-pos/NUM) when an NP head is contextually elided and the, more often than not, definite morphology aligned with that head is directly concatenated to the  NP-final modifier. Definite morphology, when associated with the core cases: nominative, genitive and dative, is definite/determinate in nature, it indicates known and retreivable referents, on the one hand, and especially in the nominative indicates topic and post-posed topic. 
 
-### `Def`: definite
+### <a name="Def">`Def`</a>: definite
 
 #### Examples
 
@@ -22,7 +22,7 @@ Definiteness in Erzya is an inflectional feature of [nouns](myv-pos/NOUN) and [p
 * [myv] _сонзэ вастызь кода <b>инязоронть</b>_ "he was received like <b>the king</b>"
 
 
-### `Ind`: indefinite
+### <a name="Ind">`Ind`</a>: indefinite
 
 #### Examples
 

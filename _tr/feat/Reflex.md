@@ -8,7 +8,7 @@ It tells whether the word is reflexive, i.e. refers to the subject of its clause
 
 This marks the reflexive pronoun _kendi_ and its inflected forms.
 
-### `Yes`: it is reflexive
+### <a name="Yes">`Yes`</a>: it is reflexive
 
 Note that there is no `No` value. If the word is not reflexive, the
 `Reflex` feature will just not be mentioned in the `FEAT`

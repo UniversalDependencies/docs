@@ -6,7 +6,7 @@ shortdef: 'pronominal type'
 
 This feature typically applies to [pronouns](uk-pos/PRON), [determiners](uk-pos/DET), pronominal [numerals](uk-pos/NUM) (quantifiers) and pronominal [adverbs](uk-pos/ADV).
 
-### `Prs`: personal or possessive personal pronoun or determiner
+### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
 See also the [Poss]() feature that distinguishes normal personal pronouns from possessives. Note that `Prs` also includes reflexive
 personal/possessive pronouns (e.g. _себе / свій;_ see the [Reflex]() feature).
@@ -16,7 +16,7 @@ personal/possessive pronouns (e.g. _себе / свій;_ see the [Reflex]() fea
 * _я, ти, він, вона, воно, ми, ви, вони&nbsp;_ “I, you, he, she, it, we, you, they, they, they, oneself”
 * _мій, твій, його, її, наш, ваш, їх, свій&nbsp;_ “my, your, his/its, her, our, your, their, one's own”
 
-### `Int`: interrogative pronoun, determiner, numeral or adverb
+### <a name="Int">`Int`</a>: interrogative pronoun, determiner, numeral or adverb
 
 Note that possessive interrogative determiners (_whose_) can be distinguished by the [Poss]() feature.
 
@@ -34,7 +34,7 @@ Note that possessive interrogative determiners (_whose_) can be distinguished by
 * _як&nbsp;_ “how”
 * _чому&nbsp;_ “why”
 
-### `Rel`: relative pronoun, determiner, numeral or adverb
+### <a name="Rel">`Rel`</a>: relative pronoun, determiner, numeral or adverb
 
 Note that this class heavily overlaps with interrogatives.
 
@@ -43,7 +43,7 @@ Note that this class heavily overlaps with interrogatives.
 * _котрий, що&nbsp;_ “which, that” (relative but not interrogative pronouns)
 * _чий&nbsp;_ “whose” (possessive relative pronoun)
 
-### `Dem`: demonstrative pronoun, determiner, numeral or adverb
+### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner, numeral or adverb
 
 These are to some extent parallel to interrogatives.
 
@@ -59,7 +59,7 @@ These are to some extent parallel to interrogatives.
 * _тоді&nbsp;_ “then”
 * _так&nbsp;_ “so”
 
-### `Tot`: total (collective) pronoun, determiner or adverb
+### <a name="Tot">`Tot`</a>: total (collective) pronoun, determiner or adverb
 
 #### Examples
 
@@ -68,7 +68,7 @@ These are to some extent parallel to interrogatives.
 * _всюди&nbsp;_ “everywhere”
 * _завжди&nbsp;_ “always”
 
-### `Neg`: negative pronoun, determiner or adverb
+### <a name="Neg">`Neg`</a>: negative pronoun, determiner or adverb
 
 #### Examples
 
@@ -82,7 +82,7 @@ These are to some extent parallel to interrogatives.
 * _ніколи&nbsp;_ “never”
 * _ніяк&nbsp;_ “no way” (lit. “no-how”)
 
-### `Ind`: indefinite pronoun, determiner, numeral or adverb
+### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner, numeral or adverb
 
 #### Examples
 

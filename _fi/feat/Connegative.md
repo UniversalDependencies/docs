@@ -11,7 +11,7 @@ In Finnish, negations are formed of the auxiliary negative verb (*ei*)
 and the main verb, the latter of which typically appears in
 connegative form.
 
-### Yes: word is connegative
+### <a name="Yes">`Yes`</a>: word is connegative
 
 Note that there is no `No` value. If the word is not connegative, the
 `Connegative` feature will not appear.

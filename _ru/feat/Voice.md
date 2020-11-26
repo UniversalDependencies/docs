@@ -7,7 +7,7 @@ shortdef: 'voice'
 Voice is a feature of verbs that helps map the traditional syntactic functions,
 such as subject and object, to semantic roles, such as agent and pacient.
 
-### `Act`: active voice
+### <a name="Act">`Act`</a>: active voice
 
 Prototypically, the subject of the verb is the doer of the action (agent), the object
 is affected by the action (patient).
@@ -19,7 +19,7 @@ By default, the finite forms, ininitives and gerunds of non-reflexive verbs are 
 
 * _мы <b>атаковали</b> врага.&nbsp;_ “We <b>attacked</b> the enemy”
   
-### `Pass`: passive voice
+### <a name="Pass">`Pass`</a>: passive voice
 
 The subject of the verb is affected by the action (patient). The doer
 (agent) is either a non-obligatory oblique phrase of the verb or not overtly expressed;.
@@ -31,7 +31,7 @@ The passive participles (in present and past form) are tagged `Voice=Pass`. The 
 * _Мы были <b>атакованы</b> врагом.&nbsp;_ “We were <b>attacked</b> by the enemy” 
 * _Разработки лекарства <b>ведутся</b> несколькими международными компаниями.&nbsp;_ “Drug development is <b>conducted</b> by several international companies” 
 
-### `Mid`: middle voice
+### <a name="Mid">`Mid`</a>: middle voice
 
 Between active and passive, needed for the reflexive verbs (in all forms except active participle).
 

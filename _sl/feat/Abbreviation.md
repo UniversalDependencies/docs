@@ -6,7 +6,7 @@ shortdef: 'abbreviation'
 
 Abbreviation is a feature of [X: other](X) to mark abbreviations ending with a dot.
 
-### Yes: it is abbreviation
+### <a name="Yes">`Yes`</a>: it is abbreviation
 
 * _dr._ "doctor"
 * _npr._ "for example"

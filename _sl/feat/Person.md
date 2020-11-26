@@ -6,7 +6,7 @@ shortdef: 'person'
 
 Person is a lexical feature of personal and possessive [pronouns](PRON) and [determiners](DET), and an inflectional feature of [auxiliaries](AUX) and [verbs](VERB).
 
-### `1`: first person
+### <a name="1">`1`</a>: first person
 
 #### Examples
 
@@ -16,7 +16,7 @@ Person is a lexical feature of personal and possessive [pronouns](PRON) and [det
 * _<b>grem</b>_ "I go"
 
 
-### `2`: second person
+### <a name="2">`2`</a>: second person
 
 #### Examples
 
@@ -25,7 +25,7 @@ Person is a lexical feature of personal and possessive [pronouns](PRON) and [det
 * _<b>si</b>_ "you are"
 * _<b>greš</b>_ "you go"
 
-### `3`: third person
+### <a name="3">`3`</a>: third person
 
 #### Examples
 

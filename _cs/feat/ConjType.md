@@ -16,7 +16,7 @@ This feature further subclassifies the parts of speech [cs-pos/CCONJ]() and [cs-
 in Czech, it is used only with `CCONJ`. The main distinction between coordinating and
 subordinating conjunctions is done already at the part-of-speech level.
 
-### `Oper`: mathematical operator
+### <a name="Oper">`Oper`</a>: mathematical operator
 
 Note that operators can be expressed either using [symbols](cs-pos/SYM) or using words.
 The words are considered special kind of coordinating conjunctions and they are marked using

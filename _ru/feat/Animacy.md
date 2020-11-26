@@ -10,7 +10,7 @@ feature of other parts of speech that mark agreement with nouns. It is
 independent of gender, therefore it is encoded separately in some
 tagsets (e.g. all the Multext-East tagsets). 
 
-### `Anim`: animate
+### <a name="Anim">`Anim`</a>: animate
 
 Human beings, animals, fictional characters, names of professions
 etc. are all animate. Even nouns that are normally inanimate can be
@@ -22,7 +22,7 @@ PDT examples of masculine animate nouns:
 
 - _человек&nbsp;_ “man”, _министр&nbsp;_ “minister”, _президент&nbsp;_ “president”, _председатель&nbsp;_ “chairman”, _режиссёр&nbsp;_ “director”
 
-### `Inan`: inanimate
+### <a name="Inan">`Inan`</a>: inanimate
 
 Nouns that are not animate are inanimate.
 

@@ -6,7 +6,7 @@ shortdef: 'mood'
 
 Mood is a feature that expresses modality and subclassifies finite verb forms. It is an inflectional feature of [auxiliaries](AUX) and [verbs](VERB).
 
-### `Ind`: indicative
+### <a name="Ind">`Ind`</a>: indicative
 
 The indicative can be considered the default mood. A verb in indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
 
@@ -15,7 +15,7 @@ The indicative can be considered the default mood. A verb in indicative merely s
 * _<b>Govorim</b> angleško in francosko._ “I speak English and French.”
 * _Proslava <b>bo</b> naslednji petek._ "The celebration will take place next Friday."
 
-### `Imp`: imperative
+### <a name="Imp">`Imp`</a>: imperative
 
 The speaker uses imperative to order or ask the addressee to do the action of the verb.
 
@@ -25,7 +25,7 @@ The speaker uses imperative to order or ask the addressee to do the action of th
 * _<b>Poglejmo</b>, kaj ste naredili._ "Let's have a look at what you have done."
 * _<b>Pospravite</b> ta nered._ "Clean up this mess!"
 
-### `Cnd`: conditional
+### <a name="Cnd">`Cnd`</a>: conditional
 
 Generally, the conditional mood is used to express actions that would have taken place under some circumstances but they actually did not / do not happen. In Slovenian, present and past conditional are formed using the participle of the content verb and a special conditional form of the [auxiliary verb](AUX) _biti_  "to be". Thus, only this form is marked as `Cnd`, regardless of whether it is used to form a conditional or any other type of modality.
 

@@ -10,13 +10,13 @@ articles. Its value distinguishes whether we are talking about
 something known and concrete, or something general or unknown. In Portuguese, this feature applies only to determiners.
  It can be marked on definite and indefinite [articles](pt-pos/DET).
  
-### `Ind`: indefinite
+### <a name="Ind">`Ind`</a>: indefinite
 
 #### Examples
 
 *  _<b>um</b> cachorro_
 
-### `Def`: definite
+### <a name="Def">`Def`</a>: definite
 
 #### Examples
 

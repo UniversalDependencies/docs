@@ -6,7 +6,7 @@ shortdef: 'possessor’s number'
 
 Possessive [pronouns](PRON) and [determiners](DET) may have two different numbers: that of the possessed object (in agreement with the modifying noun, inflectional feature) and that of the possessor (inherent, lexical feature). The `Number[psor]` feature denotes the possessor's number.
 
-### `Sing`: singular possessor
+### <a name="Sing">`Sing`</a>: singular possessor
 
 #### Examples
 
@@ -14,7 +14,7 @@ Possessive [pronouns](PRON) and [determiners](DET) may have two different number
 * _<b>moja</b> balona_ “my (two) balloons” `Number[psor]=Sing|Number=Dual`
 * _<b>moji</b> baloni_ “my (three or more) balloons” `Number[psor]=Sing|Number=Plur`
 
-### `Dual`: dual possessor
+### <a name="Dual">`Dual`</a>: dual possessor
 
 #### Examples
 
@@ -22,7 +22,7 @@ Possessive [pronouns](PRON) and [determiners](DET) may have two different number
 * _<b>najina</b> balona_ “my and your (two) balloons” `Number[psor]=Dual|Number=Dual`
 * _<b>najini</b> baloni_ “my and your (three or more) balloons” `Number[psor]=Dual|Number=Plur`
 
-### `Plur`: plura possessor
+### <a name="Plur">`Plur`</a>: plura possessor
 
 #### Examples
 

@@ -16,7 +16,7 @@ See [tr-overview/special-syntax]() for the discussion of mapping
 relevant verbal suffixes to `Tense`, `Aspect` and `Mood` values.
 
 
-### `Perf`: perfect aspect
+### <a name="Perf">`Perf`</a>: perfect aspect
 
 The action has been / will have been completed.
 
@@ -27,7 +27,7 @@ The action has been / will have been completed.
 * *eve gidecek* 'she will go home'
 * *eve gitmişti* 'she had gone home (when I arrived)'
 
-### `Prog`: progressive aspect
+### <a name="Prog">`Prog`</a>: progressive aspect
 
 Action is in progress with respect to current or a reference time.
 
@@ -43,7 +43,7 @@ In some contexts, both suffixes may also indicate _habitual_ aspect (`Aspect=Hab
 * *eve gidiyordu* 'she was going home (when I saw her)'
 * *eve gimekteydi* 'she was going home (when I saw her)'
 
-### `Hab`: habitual aspect (**new proposal**)
+### <a name="Hab">`Hab`</a>: habitual aspect (**new proposal**)
 
 Verbal morphology in Turkish may indicate an action that happens repeatedly at present or past.
 This aspect is mainly marked with suffix *-A/Ir*.
@@ -56,7 +56,7 @@ See Göksel and Kerslake (2005, pp289--290) for details.
 * *çok kitap okur* 'she reads lots of books'
 * *sigara içerdi* 'she used to smoke'
 
-### `Rapid`: rapid sudden action (**new proposal**)
+### <a name="Rapid">`Rapid`</a>: rapid sudden action (**new proposal**)
 
 A particular verb form formed by suffix *-Iver* refers to actions that are sudden or performed rapidly.
 Kornfilt (1995, p.361) calls this rapid or sudden aspect.
@@ -67,7 +67,7 @@ Kornfilt (1995, p.361) calls this rapid or sudden aspect.
 * *eve gidiverdi* 'she immediately/suddenly went home!'
 
 
-### `Dur`: durative aspect (**new proposal**)
+### <a name="Dur">`Dur`</a>: durative aspect (**new proposal**)
 
 A situation or action that has persisted over a period of time and still continues. This is called durative action (e.g., Kornfilt 1995, p.362).
 The suffixes *-Akal*, *-Agel* and *-Adur* indicate this aspect (the first one might better be defined as 'durative stative' and others 'durative progressive'). 
@@ -78,7 +78,7 @@ The suffixes *-Akal*, *-Agel* and *-Adur* indicate this aspect (the first one mi
 * *yapagelmiştir* 'she have gone on doing (something)'
 * *okuyadur* 'go on reading'
 
-### `Pro`: prospective aspect
+### <a name="Pro">`Pro`</a>: prospective aspect
 
 The action is/was about to happen.
 

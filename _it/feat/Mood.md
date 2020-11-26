@@ -8,7 +8,7 @@ udver: '2'
 Mood is a feature that expresses modality and subclassifies finite
 verb forms.
 
-### `Ind`: indicative
+### <a name="Ind">`Ind`</a>: indicative
 
 The indicative can be considered the default mood. A verb in
 indicative merely states that something happens, has happened or will
@@ -18,7 +18,7 @@ happen, without adding any attitude of the speaker.
 
 * _Io scrivo una lettera_ "I write a letter"
 
-### `Imp`: imperative
+### <a name="Imp">`Imp`</a>: imperative
 
 The speaker uses imperative to order or ask the addressee to do the
 action of the verb.
@@ -27,7 +27,7 @@ action of the verb.
 
 * _Mangia la tua insalata!_ "Eat your salad!"
 
-### `Cnd`: conditional
+### <a name="Cnd">`Cnd`</a>: conditional
 
 The conditional mood is used to express actions that would have taken
 place under some circumstances but they actually did not / do not
@@ -37,11 +37,11 @@ happen.
 
 * _Mi sarei divertito_ "I would have enjoyed myself"
 
-### `Pot`: potential
+### <a name="Pot">`Pot`</a>: potential
 
 Not used.
 
-### `Sub`: subjunctive / conjunctive
+### <a name="Sub">`Sub`</a>: subjunctive / conjunctive
 
 The subjunctive mood is used under certain circumstances in
 subordinate clauses, typically for actions that are subjective or
@@ -51,23 +51,23 @@ otherwise uncertain.
 
 * _Voglio che tu te ne <b>vada</b> "I want you to leave"
 
-### `Jus`: jussive
+### <a name="Jus">`Jus`</a>: jussive
 
 Not used.
 
-### `Qot`: quotative
+### <a name="Qot">`Qot`</a>: quotative
 
 Not used.
 
-### `Opt`: optative
+### <a name="Opt">`Opt`</a>: optative
 
 Not used.
 
-### `Des`: desiderative
+### <a name="Des">`Des`</a>: desiderative
 
 Not used.
 
-### `Nec`: necessitative
+### <a name="Nec">`Nec`</a>: necessitative
 
 Not used.
 

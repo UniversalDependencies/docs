@@ -30,7 +30,7 @@ several different parts of speech:
 * [u-pos/ADJ](): definite adjectival, e.g. ordinal numerals
 * [u-pos/ADV](): adverbial (e.g. ordinal and multiplicative) numerals, both definite and pronominal
 
-### `Card`: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Card">`Card`</a>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
 Note that in some Indo-European languages there is a fuzzy borderline
 between numerals and nouns for _thousand, million_ and _billion._
@@ -40,7 +40,7 @@ between numerals and nouns for _thousand, million_ and _billion._
 * [bg] едно, две, три / _edno, dve, tri_ "one, two, three"; колко / _kolko_ "how many";
   няколко / _nyakolko_ "some"; толкова / _tolkova_ "so many"; много / _mnogo_ "many"; малко / _malko_ "few"
 
-### `Ord`: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
 This is a subtype of adjective.
 
@@ -48,7 +48,7 @@ This is a subtype of adjective.
 
 * [bg] adjectival: първи / _parvi_ "first"; втори / _vtori_ "second", трети / _treti_ "third", etc.
 
-### `Mult`: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Mult">`Mult`</a>: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
 
 This is subtype of adverb.
 
@@ -56,7 +56,7 @@ This is subtype of adverb.
 
 * [bg] веднъж / _vednazh_ "once"; дваж / _dvazh_ "twice"
 
-### `Frac`: fraction
+### <a name="Frac">`Frac`</a>: fraction
 
 This is a subtype of cardinal numbers, occasionally distinguished in
 corpora. It may denote a fraction or just the denominator of the

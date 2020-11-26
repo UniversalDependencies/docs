@@ -8,7 +8,7 @@ Gender is a lexical feature of [nouns](uk-pos/NOUN) and inflectional feature of 
 
 See also the related feature of [Animacy]().
 
-### `Masc`: masculine gender
+### <a name="Masc">`Masc`</a>: masculine gender
 
 Nouns denoting male persons are masculine. Other nouns may be also grammatically masculine, without any relation to sex.
 
@@ -23,7 +23,7 @@ Nouns denoting male persons are masculine. Other nouns may be also grammatically
 
 Note that the last two nouns above can also function as feminine (technically these are two different lemmas), depending on whether these functions designate men or women, with exactly the same (feminine in this case) morphological paradigm and agreeing with adjectivals and verbal forms in the feminine form, respectively. (Historically they are feminine too, with the typical endings _-а&nbsp;_ or _-я&nbsp;_.)
 
-### `Fem`: feminine gender
+### <a name="Fem">`Fem`</a>: feminine gender
 
 Nouns denoting female persons are feminine. Other nouns may be also grammatically feminine, without any relation to sex.
 
@@ -34,7 +34,7 @@ Nouns denoting female persons are feminine. Other nouns may be also grammaticall
 * _<b>пісня</b>&nbsp;_ “song”
 * _<b>кістка</b>&nbsp;_ “bone”
 
-### `Neut`: neuter gender
+### <a name="Neut">`Neut`</a>: neuter gender
 
 This third gender is for nouns that are neither masculine nor feminine (grammatically). Nouns whose nominative suffix is _-о&nbsp;_ or _-е&nbsp;_ (including a large group of deverbative nouns denoting actions) are usually neuter.
 

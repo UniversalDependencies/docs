@@ -19,14 +19,14 @@ clauses with copula _ol-_, e.g., _verimli olmayan_ "<b>un</b>productive"
 A non-productive prefix (of Arabic origin), _na-_, can be used for negating a lexicalized set of adjectives, e.g., _<b>na</b>müsait_ "not suitable".
 We (currently) do not mark adjectives for the `Polarity` feature.
 
-### `Pos`: positive, affirmative
+### <a name="Pos">`Pos`</a>: positive, affirmative
 
 #### Examples
 
 - _Okuyacak_ "he/she will read"
 - _Ali doktor_ "Ali is a doctor"
 
-### `Neg`: negative
+### <a name="Neg">`Neg`</a>: negative
 
 #### Examples
 

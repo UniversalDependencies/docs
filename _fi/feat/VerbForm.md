@@ -4,7 +4,7 @@ title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
 ---
 
-### `Fin`: finite verb
+### <a name="Fin">`Fin`</a>: finite verb
 
 Verbs that inflect for mood ([Mood]()), tense ([Tense]()) or person
 ([Person]()) are finite and are assigned the `VerbForm` value `Fin`.
@@ -17,7 +17,7 @@ and is always annotated with `VerbForm=Fin`.
 * [fi] _Minä <b>ostin</b> kahvia_ "I <b>bought</b> coffee"
 * [fi] _Minulla <b>ei</b> ole autoa_ "I <b>do not</b> have a car"
 
-### `Inf`: infinitive
+### <a name="Inf">`Inf`</a>: infinitive
 
 Words in infinitive forms are assigned the `VerbForm` value `Inf`.
 Infinitive forms are further differentiated using the feature
@@ -37,7 +37,7 @@ the A-, E- and MA-infinitives, see e.g. [VISK §
 * [fi] _Menen <b>katsomaan</b> musikaalia_ "I am going to <b>see</b> a musical"
   (third infinitive)
 
-### `Part`: participle
+### <a name="Part">`Part`</a>: participle
 
 Words in participle forms are assigned the `VerbForm` value `Part`.
 Participle forms are further differentiated using the feature

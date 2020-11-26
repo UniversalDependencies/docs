@@ -19,7 +19,7 @@ Verbs and transgressives, however, use the clitic _не_ for negation.
 The negativeness feature is used to distinguish response
 [particles](u-pos/PART) _yes_ and _no_.
 
-### `Pos`: positive, affirmative
+### <a name="Pos">`Pos`</a>: positive, affirmative
 
 #### Examples
 
@@ -29,7 +29,7 @@ The negativeness feature is used to distinguish response
 - <b>вървя</b> / _varvya_ "I am walking"
 - <b>вървейки</b> / _varveyki_ "walking"
 
-### Neg: negative
+### <a name="Neg">`Neg`</a>: negative
 
 #### Examples
 

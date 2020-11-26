@@ -15,7 +15,7 @@ udver: '2'
 Indicates bad spelling, grammatical error etc. Does not say how the
 correct form looks like.
 
-### Yes: it is typo
+### <a name="Yes">`Yes`</a>: it is typo
 
 #### Examples
 

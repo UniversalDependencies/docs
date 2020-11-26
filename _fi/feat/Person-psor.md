@@ -8,19 +8,19 @@ shortdef: 'person of possessor'
 [layered feature](/docs/u/overview/feat-layers.html) of
 [nouns](NOUN) and ... (TODO)
 
-### `1`: first person
+### <a name="1">`1`</a>: first person
 
 #### Examples
 
 * [fi] _<b>tekojeni</b> seurakset_ "the consequences of <b>my actions</b>"
 
-### `2`: second person
+### <a name="2">`2`</a>: second person
 
 #### Examples
 
 * [fi] _<b>tekojesi</b> seuraukset_ "the consequences of <b>your actions</b>"
 
-### `3`: third person
+### <a name="3">`3`</a>: third person
 
 #### Examples
 

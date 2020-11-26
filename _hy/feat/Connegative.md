@@ -21,7 +21,7 @@ connegative form (traditionally called _negative participle_).
 Note that there is no `No` value. If the word is not connegative, the
 `Connegative` feature will not appear.
 
-### Yes: word is connegative
+### <a name="Yes">`Yes`</a>: word is connegative
 
 #### Examples
 

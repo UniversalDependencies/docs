@@ -21,7 +21,7 @@ The following table lists the name types together with the most frequent example
 <tr><td><tt>_;m</tt></td><td>other proper name: names of mines, stadiums, guerilla bases etc.</td><td><em>Лужники, Крокус Сити Холл</em></td><td>“Лужники, Крокус Сити Холл”</td></tr>
 </table>
 
-### `Geo`: geographical name
+### <a name="Geo">`Geo`</a>: geographical name
 
 Names of cities, countries, rivers, mountains etc.
 
@@ -29,11 +29,11 @@ Names of cities, countries, rivers, mountains etc.
 
 * _<b>Москва</b>&nbsp;_ “Moscow”, <b>Россия</b>&nbsp;_ “Russia”
 
-### `Prs`: name of person
+### <a name="Prs">`Prs`</a>: name of person
 
 This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name.
 
-### `Giv`: given name of person
+### <a name="Giv">`Giv`</a>: given name of person
 
 Given name (not family name). This is usually the first name in European and American names. In Chinese names, the last two syllables (of three) are usually the given name.
 
@@ -41,7 +41,7 @@ Given name (not family name). This is usually the first name in European and Ame
 
 * _<b>Александр</b>, <b>Дмитрий</b>_
 
-### `Sur`: surname / family name of person
+### <a name="Sur">`Sur`</a>: surname / family name of person
 
 Family name (surname). This is usually the last name in European and American names. In Chinese names, the first syllable (of three) is usually the surname.
 
@@ -49,11 +49,11 @@ Family name (surname). This is usually the last name in European and American na
 
 * _<b>Иванов</b>, <b>Сидоров</b>_
 
-### `Com`: company, organization
+### <a name="Com">`Com`</a>: company, organization
 
-### `Pro`: product
+### <a name="Pro">`Pro`</a>: product
 
-### `Oth`: other
+### <a name="Oth">`Oth`</a>: other
 
 Names of stadiums, guerilla bases, events etc.
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

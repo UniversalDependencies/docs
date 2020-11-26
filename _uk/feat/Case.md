@@ -17,11 +17,11 @@ Ukrainian morphology distinguishes seven cases: `Nom`, `Gen`, `Dat`, `Acc`, `Ins
 
 The descriptions of the individual case values below include semantic hints about the prototypical meaning of the case. Bear in mind that quite often a case will be used for a meaning that is totally unrelated to the meaning mentioned here. Valency of verbs, adpositions and other words will determine that the noun phrase must be in a particular grammatical case to fill a particular valency slot (semantic role).
 
-### `Nom`: nominative
+### <a name="Nom">`Nom`</a>: nominative
 
 The base form of the noun, also used as citation form (lemma). This is the word form used for subjects of clauses.
 
-### `Gen`: genitive
+### <a name="Gen">`Gen`</a>: genitive
 
 Prototypical meaning of genitive is that the noun phrase somehow belongs to its governor; it would often be translated by the English
 preposition _of._
@@ -32,7 +32,7 @@ Note that despite considerable semantic overlap, the genitive case is not the sa
 
 * _Київ -- столиця <b>України</b>.&nbsp;_ “Kyiv is the capital <b>of Ukraine</b>.”
 
-### `Dat`: dative
+### <a name="Dat">`Dat`</a>: dative
 
 This is the word form often used for indirect objects of verbs.
 
@@ -40,11 +40,11 @@ This is the word form often used for indirect objects of verbs.
 
 * _Я подарувала м'яч <b>своєму братові</b>.&nbsp;_ “I gave my brother a ball as a present.” (_своєму братові&nbsp;_ “my brother” is dative and  _м'яч&nbsp;_ “ball” is accusative.)
 
-### `Acc`: accusative
+### <a name="Acc">`Acc`</a>: accusative
 
 Perhaps the second most widely spread morphological case. This is the word form most frequently used for direct objects of verbs.
 
-### `Ins`: instrumental
+### <a name="Ins">`Ins`</a>: instrumental
 
 The role from which the name of the instrumental case is derived is that the noun is used as instrument to do something (as in _писати <b>ручкою</b>&nbsp;_ “to write <b>using a pen</b>”). Many other meanings are possible, for example the instrumental is required by the
 preposition _з&nbsp;_ “with” and thus it includes the meaning expressed in other languages by the comitative case.
@@ -55,7 +55,7 @@ In Ukrainian the instrumental is also used for the agent-object in passive const
 
 * _Цей закон було схвалено <b>владою</b>.&nbsp;_ “This bill has been approved <b>by the government</b>.” (Passive example)
 
-### `Loc`: locative
+### <a name="Loc">`Loc`</a>: locative
 
 The locative case often expresses location in space or time, which gave it its name. As elsewhere, non-locational meanings also exist and they are not rare. On the other hand, some location roles may be expressed using other cases (e.g. because those cases are required by a preposition).
 
@@ -66,7 +66,7 @@ This is the only Ukrainian case that is used exclusively in combination with pre
 * _В <b>липні</b> я був у <b>Швеції</b>.&nbsp;_ “In <b>July</b> I was in <b>Sweden</b>.”
 * _Вона при <b>надії</b>.&nbsp;_ “She is expecting a baby.” Literally: “*She is at <b>hope</b>.” (Non-locational non-temporal example)
 
-### `Voc`: vocative
+### <a name="Voc">`Voc`</a>: vocative
 
 The vocative case is a special form of noun used to address someone. Thus it predominantly appears with animate nouns (see the
 feature of [Animacy]()). Nevertheless this is not a grammatical restriction and inanimate things can be addressed as well.

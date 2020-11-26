@@ -10,7 +10,7 @@ The verb forms that function as noun phrases (verbal nouns) are not marked with 
 These verb forms are considered two separate syntactic tokens.
 See [overview/tokenization]()
 
-### `Part`: participle
+### <a name="Part">`Part`</a>: participle
 
 Participle is a non-finite verb form which functions as adjectivals.
 The participles are introduced using a number of subordinating suffixes.
@@ -25,7 +25,7 @@ we treat the word like a verbal noun.
 - _Ali'nin okuduğu kitap_ "the book that I has read"
 - _okuyour olduğun kitap_ "the book that you are reading"
 
-### `Trans`: transgressive
+### <a name="Trans">`Trans`</a>: transgressive
 
 The transgressive, also called adverbial participle,
 is a non-finite verb form that shares properties of verbs and adverbs.

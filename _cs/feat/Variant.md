@@ -38,7 +38,7 @@ do not have them: _<b>třeba</b>, <b>rád</b>._
   _<b>patrno</b>_ “apparent”, _<b>hotov</b>_ “finished”, _<b>spjat</b>_ “connected”, _<b>vinen</b>_ “guilty”
 * Long equivalents: _možné, schopný, nutné, známý, spokojený, povinný, ochotný, jistý, vědomý, přítomný, rovný, patrné, hotový, spjatý, vinný_
 
-### `Short`: short (clitic) form of personal pronouns
+### <a name="Short">`Short`</a>: short (clitic) form of personal pronouns
 
 Some personal pronouns in dative and accusative [Case]() have double forms.
 The normal (long) form is more independent in terms of positions it can take in word order.

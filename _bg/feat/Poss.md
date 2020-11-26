@@ -17,7 +17,7 @@ pronominal types can be optionally possessive, and adjectives can too.
 In BulTreeBank tagset "possessive" is one of the various
 pronoun types.
 
-### `Yes`: it is possessive
+### <a name="Yes">`Yes`</a>: it is possessive
 
 Note that there is no `No` value. If the word is not possessive, the
 `Poss` feature will just not be mentioned in the `FEAT` column. (Which

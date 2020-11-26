@@ -6,7 +6,7 @@ shortdef: 'possessive'
 
 Boolean feature of pronouns or adjectives.It tells whether the word is possessive.
 
-### `Yes`: it is possessive
+### <a name="Yes">`Yes`</a>: it is possessive
 
 #### Examples
 

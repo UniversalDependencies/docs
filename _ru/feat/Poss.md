@@ -12,7 +12,7 @@ pronoun types, this feature is intentionally separate from
 [PronType](), as it is orthogonal to pronominal types. Several of the
 pronominal types can be optionally possessive, and adjectives can too.
 
-### `Yes`: it is possessive
+### <a name="Yes">`Yes`</a>: it is possessive
 
 Note that there is no `No` value. If the word is not possessive, the
 `Poss` feature will just not be mentioned in the `FEAT` column. (Which

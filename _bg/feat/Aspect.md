@@ -13,7 +13,7 @@ whether the action has been completed etc.
 In Bulgarian aspect is a lexical feature, as in other Slavic languages.
 It comprises two grammemes: _perfective_ and _imperfective_.
 
-### `Imp`: imperfect aspect
+### <a name="Imp">`Imp`</a>: imperfect aspect
 
 The action took / takes / will take some time span and there is no
 information whether and when it was / will be completed.
@@ -24,7 +24,7 @@ information whether and when it was / will be completed.
 - намирам / _namiram_ "find"
 - разбирам / _razbiram_ "understand"
 
-### `Perf`: perfect aspect
+### <a name="Perf">`Perf`</a>: perfect aspect
 
 The action has been / will have been completed. Since there is
 emphasis on one point on the time scale (the point of completion),

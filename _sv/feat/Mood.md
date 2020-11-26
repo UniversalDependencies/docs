@@ -4,7 +4,7 @@ title: 'Mood'
 shortdef: 'mood'
 ---
 
-### `Ind`: indicative
+### <a name="Ind">`Ind`</a>: indicative
 
 The indicative can be considered the default mood. A verb in indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
 
@@ -13,7 +13,7 @@ The indicative can be considered the default mood. A verb in indicative merely s
 * [sv] _de <b>kompletterar</b> varandra_ "they complement each other"
 * [sv] _vi <b>behöver</b>_ "we need"
 
-### `Imp`: imperative
+### <a name="Imp">`Imp`</a>: imperative
 
 The speaker uses imperative to order or ask the addressee to perform the
 action of the verb.
@@ -23,7 +23,7 @@ action of the verb.
 * [sv] _<b>låt</b> oss_ "let us"
 * [sv] _<b>jämför</b> dem_ "compare them"
 
-### `Sub`: subjunctive / conjunctive
+### <a name="Sub">`Sub`</a>: subjunctive / conjunctive
 
 In modern Swedish the subjunctive is mainly used in certain fixed expressions and as a conditional form. It is also occassionally used in the more traditional sense, expressing actions that are subjective or otherwise uncertain in subordinate clauses.
 

@@ -8,7 +8,7 @@ shortdef: 'voice'
 
 
 
-### `Pass`: passive voice
+### <a name="Pass">`Pass`</a>: passive voice
 
 The subject of the verb is affected by the action (patient).
 The doer (agent) is either unexpressed or it appears as a noun phrase marked with postposition _tarafından_ "by" or suffix _-IncA_.
@@ -25,7 +25,7 @@ the verb cannot have a subject.
 * _Buradan düş<b>ül</b>ebilir_ "One may fall from here" (impersonal, intransitive verb passivized)
 * _Böyle lafa kır-<b>ıl</b>-<b>ın</b>ır_ "[One] can be hurt by such words" (Double passive resulting in impersonal. Göksel & Kerslake 2005,p136)
 
-### `Rcp`: reciprocal voice
+### <a name="Rcp">`Rcp`</a>: reciprocal voice
 
 A reciprocal verb describes an event in which two agents (or groups of agents) perform the same action upon each other.
 
@@ -36,7 +36,7 @@ the verb roots that can become reciprocal is limited.
 
 * _gör<b>üş</b>tüler_ "they meet (lit: they see each other)"
 
-### `Cau`: causative voice
+### <a name="Cau">`Cau`</a>: causative voice
 
 
 In Turkish, that this is a feature of verbs.
@@ -58,7 +58,7 @@ Often, two or more causative suffixes are used for emphasis and do not express m
 * _Evi boya-t-tık_ "We had the house painted"
 * _Evi boya-t-tır-tık_ "We had someone to have the house painted"
 
-### `Rfl`: reflexive voice
+### <a name="Rfl">`Rfl`</a>: reflexive voice
 
 (**Currently not in UD**)
 

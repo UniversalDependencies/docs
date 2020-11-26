@@ -7,7 +7,7 @@ udver: '2'
 
 Polarity in Swedish is a feature of adverbs and fixed multiword expressions used to express negation. (The value "Pos" is not used.) 
 
-### `Neg`: negative
+### <a name="Neg">`Neg`</a>: negative
 
 #### Examples
 

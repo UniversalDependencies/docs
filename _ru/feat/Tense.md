@@ -8,7 +8,7 @@ Tense is a feature that specifies the time when the action took /
 takes / will take place, in relation to the current moment or to
 another action in the utterance.
 
-### `Past`: past tense
+### <a name="Past">`Past`</a>: past tense
 
 The past tense denotes actions that happened before the current
 moment. Past tense in Czech consists of the past participle
@@ -25,7 +25,7 @@ The participle has `Tense=Past`, even though it can also be used to form present
 * _Ты <b>ушёл</b> домой.&nbsp;_ “You have <b>gone</b> home.”
 * _Он <b>ушёл</b> домой.&nbsp;_ “He has <b>gone</b> home.”
 
-### `Pres`: present tense
+### <a name="Pres">`Pres`</a>: present tense
 
 The present tense denotes actions that are happening right now or that
 usually happen.
@@ -39,7 +39,7 @@ but they will still be marked `Tense=Pres`.
 * _<b>Приду</b> домой.&nbsp;_ “I <b>will come</b> home.” (_Přijít&nbsp;_ is a perfective verb.)
 * _<b>Иду</b> домой.&nbsp;_ “I <b>go / am going</b> home.” (_Jít&nbsp;_ is an imperfective verb.)
 
-### `Fut`: future tense
+### <a name="Fut">`Fut`</a>: future tense
 
 The future tense denotes actions that will happen after the current
 moment. Future tense in Russian is formed in one of three ways, depending of the verb:

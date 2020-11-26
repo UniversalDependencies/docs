@@ -6,7 +6,7 @@ shortdef: 'degree of comparison'
 
 Degree of comparison is an inflectional feature of some [adjectives](ADJ) and [adverbs](ADV).
 
-### `Pos`: positive, first degree
+### <a name="Pos">`Pos`</a>: positive, first degree
 
 This is the base form that merely states a quality of something, without comparing it to qualities of others.
 
@@ -15,7 +15,7 @@ This is the base form that merely states a quality of something, without compari
 * _<b>star</b> človek_ "an old man"
 * _<b>hitro</b>_ narejeno "quickly done"
 
-### `Cmp`: comparative, second degree
+### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
 The quality of one object is compared to the same quality of another object. For most adverbs, two different word forms can be used interchangeably.
 
@@ -24,7 +24,7 @@ The quality of one object is compared to the same quality of another object. For
 * _<b>starejši</b> človek_ "an older man"
 * _<b>hitreje / hitrejše </b>_ narejeno "done more quickly"
 
-### `Sup`: superlative, third degree
+### <a name="Sup">`Sup`</a>: superlative, third degree
 
 The quality of one object is compared to the same quality of all other objects within a set. For most adverbs, two different word forms can be used interchangeably.
 

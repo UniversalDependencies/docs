@@ -4,7 +4,7 @@ title: 'PronType'
 shortdef: 'pronominal type'
 ---
 
-### `Prs`: personal
+### <a name="Prs">`Prs`</a>: personal
 
 Formal written Finnish uses the following personal pronouns:
 
@@ -28,7 +28,7 @@ for each, such as _mä, mie, mää_ and _myö_ for _minä_ "I".
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=716> (in Finnish)
 
-### `Rcp`: reciprocal
+### <a name="Rcp">`Rcp`</a>: reciprocal
 
 #### Examples
 
@@ -38,7 +38,7 @@ for each, such as _mä, mie, mää_ and _myö_ for _minä_ "I".
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=732> (in Finnish)
 
-### `Int`: interrogative
+### <a name="Int">`Int`</a>: interrogative
 
 #### Examples
 
@@ -49,7 +49,7 @@ for each, such as _mä, mie, mää_ and _myö_ for _minä_ "I".
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=734> (in Finnish)
 
-### `Rel`: relative
+### <a name="Rel">`Rel`</a>: relative
 
 #### Examples
 
@@ -59,7 +59,7 @@ for each, such as _mä, mie, mää_ and _myö_ for _minä_ "I".
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=735> (in Finnish)
 
-### `Dem`: demonstrative
+### <a name="Dem">`Dem`</a>: demonstrative
 
 #### Examples
 
@@ -69,11 +69,11 @@ for each, such as _mä, mie, mää_ and _myö_ for _minä_ "I".
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=720> (in Finnish)
 
-### `Ind`: indefinite
+### <a name="Ind">`Ind`</a>: indefinite
 
 TODO
 
-### Notes: indefinite vs. quantifier pronouns
+### <a name="Notes">`Notes`</a>: indefinite vs. quantifier pronouns
 
 Some descriptions of Finnish avoid the category label "indefinite
 pronouns" (indefiniittipronomi) in favor of "quantifier/quantifying
@@ -84,7 +84,7 @@ while others recognize both categories
 UD Finnish only uses the `PronType` value `Ind` (indefinite) (See also
 the note on negative pronouns below).
 
-### Notes: negative pronouns
+### <a name="Notes">`Notes`</a>: negative pronouns
 
 Finnish has no "inherently negative" pronouns (see
 e.g. <http://wals.info/chapter/115>) such as [en] *nothing* or [de]

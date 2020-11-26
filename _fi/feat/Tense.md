@@ -14,7 +14,7 @@ participles), the negation verb *ei*, or verbs not in the
 indicative mood (see
 <http://scripta.kotus.fi/visk/sisallys.php?p=111>; in Finnish).
 
-### `Pres`: present tense
+### <a name="Pres">`Pres`</a>: present tense
 
 The present tense denotes actions that are happening right now or that
 usually happen.
@@ -23,7 +23,7 @@ usually happen.
 
 * [fi] _järjestelmä <b>toimii</b>_ "the system <b>works</b>"
 
-### `Past`: past tense / preterite
+### <a name="Past">`Past`</a>: past tense / preterite
 
 The past tense denotes actions that happened before the current
 moment.

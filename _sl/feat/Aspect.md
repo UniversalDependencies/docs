@@ -8,13 +8,13 @@ Aspect is a lexical feature of [verbs](VERB) that specifies the duration and com
 
 Slovenian grammar distinguishes two aspect values: `imperfect` and `perfect`. Pairs of imperfective and perfective verbs exist and are often morphologically related, but the verbs are considered to belong to separate lemmas.
 
-### `Imp`: imperfect aspect
+### <a name="Imp">`Imp`</a>: imperfect aspect
 
 The action took / takes / will take some time span and there is no information whether and when it was / will be completed.
 
 * _Danes se ni <b>zgodilo</b> nič posebnega._ "Nothing special has happened today."
 
-### `Perf`: perfect aspect
+### <a name="Perf">`Perf`</a>: perfect aspect
 
 The action has been / will have been completed. Since there is emphasis on one point on the time scale (the point of completion).
 

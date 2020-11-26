@@ -11,7 +11,7 @@ being in connegative form.
 In Erzya, some negations are formed combining the auxiliary past (first preterit) negative verb (*эзь*), the conjunctive auxiliary negative verb (*аволь*), the prohibitive auxiliary negative verb (*иля*), or the converb/participle negative auxiliary (*апак*)
 and the main verb, the latter of which appears in the connegative form.
 
-### Yes: word is connegative
+### <a name="Yes">`Yes`</a>: word is connegative
 
 Note that there is no `No` value. If the word is not connegative, the
 `Connegative` feature will not appear.

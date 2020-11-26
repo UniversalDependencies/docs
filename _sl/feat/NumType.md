@@ -6,7 +6,7 @@ shortdef: 'numeral type'
 
 In Slovenian UD Treebank, `NumType` is a lexical feature of [numerals](NUM) and some [adjectives](ADJ) that denote counting by numbers.
 
-### `Card`: cardinal number
+### <a name="Card">`Card`</a>: cardinal number
 
 #### Examples
 
@@ -14,7 +14,7 @@ In Slovenian UD Treebank, `NumType` is a lexical feature of [numerals](NUM) and 
 * _1, 2, 3_
 * _I, II, III_
 
-### `Ord`: ordinal number
+### <a name="Ord">`Ord`</a>: ordinal number
 
 #### Examples
 
@@ -22,7 +22,7 @@ In Slovenian UD Treebank, `NumType` is a lexical feature of [numerals](NUM) and 
 * _1., 2., 3._
 * _I., II., III._
 
-### `Sets`: number of sets of things
+### <a name="Sets">`Sets`</a>: number of sets of things
 
 Numerals used to count sets of things or nouns that are pluralia tantum.
 
@@ -30,7 +30,7 @@ Numerals used to count sets of things or nouns that are pluralia tantum.
 
 * _enoj, dvoj, troj_ "one-fold, two-fold, three-fold"
 
-### `Gen`: generic numeral, i.e. a numeral that is neither of the above
+### <a name="Gen">`Gen`</a>: generic numeral, i.e. a numeral that is neither of the above
 
 #### Examples
 

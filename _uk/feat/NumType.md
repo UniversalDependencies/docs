@@ -14,7 +14,7 @@ From the syntactic point of view, some numtypes behave like adjectives and some 
 * [uk-pos/ADJ](): adjectival ordinal and some generic numerals
 * [uk-pos/ADV](): adverbial (e.g. ordinal and multiplicative) numerals
 
-### `Card`: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Card">`Card`</a>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
 #### Examples
 
@@ -23,7 +23,7 @@ From the syntactic point of view, some numtypes behave like adjectives and some 
 * _кілька&nbsp;_ “several”
 * _стільки&nbsp;_ “so many”
 
-### `Ord`: ordinal number
+### <a name="Ord">`Ord`</a>: ordinal number
 
 This is a subtype of adjective or adverb.
 
@@ -35,7 +35,7 @@ This is a subtype of adjective or adverb.
 
 * _вперше&nbsp;_ “for the first time”; _вдруге&nbsp;_ “for the second time”; _втретє&nbsp;_ “for the third time”
 
-### `Mult`: multiplicative numeral
+### <a name="Mult">`Mult`</a>: multiplicative numeral
 
 This is a subtype of adverb.
 
@@ -43,7 +43,7 @@ This is a subtype of adverb.
 
 * _двічі&nbsp;_ “twice”; _тричі&nbsp;_ “three times”
 
-### `Frac`: fraction
+### <a name="Frac">`Frac`</a>: fraction
 
 This is a subtype of cardinal numbers. It may denote a fraction or just the denominator of the fraction.
 
@@ -51,7 +51,7 @@ This is a subtype of cardinal numbers. It may denote a fraction or just the deno
 
 * _пів / половина&nbsp;_ “half”; _третина&nbsp;_ “one third”; _чверть / четвертина&nbsp;_ “quarter”
 
-### `Sets`: number of sets of things
+### <a name="Sets">`Sets`</a>: number of sets of things
 
 Morphologically distinct class of numerals used to count sets of things, or nouns that are pluralia tantum.
 
@@ -60,7 +60,7 @@ Morphologically distinct class of numerals used to count sets of things, or noun
 * _<b>двоє</b> / <b>троє</b> штанів / черевиків&nbsp;_ “<b>two</b> / <b>three</b> [pairs of] pants / shoes”; 
  as opposed to normal cardinal numbers: _дві / три штатини&nbsp;_ “two / three half-pants”; _два / три черевика&nbsp;_ “two / three shoes”. Note that this form is also used with animate nouns.
 
-### `Gen`: generic numeral
+### <a name="Gen">`Gen`</a>: generic numeral
 
 A numeral that is neither of the above.
 

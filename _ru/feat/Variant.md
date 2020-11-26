@@ -12,7 +12,7 @@ In Russian [adjectives](ru-pos/ADJ) may have a short form.
 This feature only marks the non-standard short forms, hence there is only one value, `Short`.
 For the long standard forms the `Variant` feature remains unspecified.
 
-### `Short`: short form of adjectives
+### <a name="Short">`Short`</a>: short form of adjectives
 
 The short form is called _nominal form of adjective (краткая форма прилагательных),_
 as opposed to the long form, which is _pronominal_ because it originated as

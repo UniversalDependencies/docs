@@ -9,7 +9,7 @@ udver: '2'
 [pronouns](u-pos/PRON),[adjectives](u-pos/ADJ), [determiners](u-pos/DET) and
 [verbs](u-pos/VERB). 
 
-### `Sing`: singular number
+### <a name="Sing">`Sing`</a>: singular number
 
 A singular noun denotes one person, animal or thing.
 
@@ -17,7 +17,7 @@ A singular noun denotes one person, animal or thing.
 
 * [en] _casa_ "house", _io compro_ "I buy" 
 
-### `Plur`: plural number
+### <a name="Plur">`Plur`</a>: plural number
 
 A plural noun denotes several persons, animals or things.
 
@@ -25,17 +25,17 @@ A plural noun denotes several persons, animals or things.
 
 * [en] _case_ "houses", _noi compriamo_ "we buy"
 
-### `Dual`: dual number
+### <a name="Dual">`Dual`</a>: dual number
 
 Not used.
 
 #### Examples
 
-### `Ptan`: plurale tantum
+### <a name="Ptan">`Ptan`</a>: plurale tantum
 
 Not used.
 
-### `Coll`: collective / mass / singulare tantum
+### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
 
 Not used.
 

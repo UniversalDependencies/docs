@@ -8,7 +8,7 @@ shortdef: 'mood'
 Turkish verbs may carry a wide range of mood information.
 Different moods are indicated by a number of suffixes, which also interact with [tense](Tense) and [aspect](Aspect) of the verb.
 
-### `Ind`: indicative
+### <a name="Ind">`Ind`</a>: indicative
 
 The indicative can be considered the default mood. A verb in indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
 
@@ -17,7 +17,7 @@ The indicative can be considered the default mood. A verb in indicative merely s
 * *eve gidiyor* 'she is going home'
 * *eve gitti* 'she went home'
 
-### `Imp`: imperative
+### <a name="Imp">`Imp`</a>: imperative
 
 In Turkish imperatives are expressed by lack of any tense/aspect/modality marker. The form of imperative may indicate second or third person plural/singular. Note that, forms other than second person singular may indicate a wish rather than a command, so may be marked as `Opt` (see below).
 
@@ -27,7 +27,7 @@ In Turkish imperatives are expressed by lack of any tense/aspect/modality marker
 * *eve gidin* '(you-PLU) go home!'
 * *eve gitsin* '(I am ordering him/her to) go home!'
 
-### `Prs`: persuasive (**new, not in UD**)
+### <a name="Prs">`Prs`</a>: persuasive (**new, not in UD**)
 
 Turkish has a particular form of imperative, where the request is not an order, but an attempt to persuade.
 
@@ -36,7 +36,7 @@ Turkish has a particular form of imperative, where the request is not an order, 
 * *eve gitsene* '(please) go home'
 * *eve gitsenize* '(you-PLU, please) go home'
 
-### `Cnd`: conditional
+### <a name="Cnd">`Cnd`</a>: conditional
 
 This expresses conditionality.
 It is the primary means of forming conditionals in Turkish ('if ...').
@@ -50,7 +50,7 @@ The suffix is ambiguous between `Cnd` and `Des` (see below).
 * *eve giderse* 'if she goes home'
 * *eve gidecekdiyse* 'if she was going to go home'
 
-### `Des`: desiderative
+### <a name="Des">`Des`</a>: desiderative
 
 This mood expresses a wish.
 It shares the same form as the `Cnd` mood.
@@ -63,7 +63,7 @@ In general it is difficult to automatically disambiguate between these two moods
 * *(keşke) uyusa* 'I wish she sleeps'
 * *(keşke) uyusaydı* 'I wish she slept'
 
-### `Opt`: optative
+### <a name="Opt">`Opt`</a>: optative
 
 Optative suffix (*-(y)A*) in Turkish typically combines with first person markers and expresses a suggestion.
 The use with second/third person markers express a wish, but it is rare.
@@ -76,7 +76,7 @@ With third person singular agreement the imperative form may also express a wish
 * *gele* 'I wish he/she comes'
 * *gelesin* 'I wish you come'
 
-### `Nec`: necessitative
+### <a name="Nec">`Nec`</a>: necessitative
 
 This expresses some sort of necessity (mush/should/have to in English). 
 
@@ -85,7 +85,7 @@ This expresses some sort of necessity (mush/should/have to in English).
 * *eve gitmeli* 'she should go home'
 * *eve gitmeliydi* 'she should have gone home'
 
-### `Gen`: generalized modality (**new proposal, not in UD**)
+### <a name="Gen">`Gen`</a>: generalized modality (**new proposal, not in UD**)
 
 Turkish modal system includes a distinction between statements of direct experience (`Ind`) and statements with a more general or theoretical nature (Göksel & Kerslake, 2005, p.295).
 This mood is typically marked by the aorist marker on verbs, and with *-DIr* suffix on nominal predicates.
@@ -100,7 +100,7 @@ This mood is typically marked by the aorist marker on verbs, and with *-DIr* suf
 * *Ali işe geç gider* 'Ali goes to work late'
 * *hastadır* '(I hypothesize/deduce that) she must be sick'
 
-### `Abil`: abilitative or potentiality (**new proposal, not in UD**)
+### <a name="Abil">`Abil`</a>: abilitative or potentiality (**new proposal, not in UD**)
 
 The suffix *-Abil* may indicate ability or possibility.
 These moods are normally distinct, and the same verb may express both at the same time (see the last example below).

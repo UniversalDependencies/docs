@@ -21,7 +21,7 @@ We mark `Number=Plur` only if there is an explicit morphological marker.
 The `Nuber` feature should not be confused with [Number\[psor\]](Number_psor),
 which indicates the whether possessor of a noun is singular or plural.
 
-### `Sing`: singular number
+### <a name="Sing">`Sing`</a>: singular number
 
 A single person or thing. There is no morphological marker for singular for nouns and verbs in 3rd person singular form.
 
@@ -32,7 +32,7 @@ A single person or thing. There is no morphological marker for singular for noun
  _\*üç elma<b>lar</b>_ is ungrammatical.
 * *okudum* '(I) read-PAST'
 
-### `Plur`: plural number
+### <a name="Plur">`Plur`</a>: plural number
 
 More than one person or thing.
 On nouns plurality is indicated by suffix *-lAr*.

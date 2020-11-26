@@ -7,7 +7,7 @@ shortdef: 'definiteness or state'
 Definiteness is typically a feature of determiners.
 Its value distinguishes whether we are talking about something known and concrete, or something general or unknown.
 
-### `Ind`: indefinite
+### <a name="Ind">`Ind`</a>: indefinite
 
 #### Examples
 
@@ -15,7 +15,7 @@ Its value distinguishes whether we are talking about something known and concret
 * _bazı_ "some"
 * _birkaç_ "a few/several"
 
-### `Def`: definite
+### <a name="Def">`Def`</a>: definite
 
 #### Examples
 

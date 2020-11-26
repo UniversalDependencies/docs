@@ -6,7 +6,7 @@ shortdef: 'voice'
 
 Voice is a feature of verbs that helps map the traditional syntactic functions, such as subject and object, to semantic roles, such as agent and pacient.
 
-### `Act`: active voice
+### <a name="Act">`Act`</a>: active voice
 
 The subject of the verb is the doer of the action (agent), the object is affected by the action (pacient).
 
@@ -16,7 +16,7 @@ All finite verb forms and the adverbial participle are tagged `Voice=Act`.
 
 * _Ми <b>читали</b> цю книгу.&nbsp;_ “We <b>read</b> this book`Acc`.” (the active past tense form _читали&nbsp;_ can be also used to form conditional mood; here it is used in its original past meaning.)
 
-### `Pass`: passive voice
+### <a name="Pass">`Pass`</a>: passive voice
 
 The subject of the verb is affected by the action (patient). The doer (agent) is either unexpressed or it appears as an object of the verb. 
 

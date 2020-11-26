@@ -6,7 +6,7 @@ shortdef: 'form of verb or deverbative'
 
 Even though the name of the feature seems to suggest that it is used exclusively with [verbs](uk-pos/VERB), it is not the case. The `Part` value can be used also with [adjectives](uk-pos/ADJ). It distinguishes participles from other verb forms, and participial adjectives from other adjectives.
 
-### `Fin`: finite verb
+### <a name="Fin">`Fin`</a>: finite verb
 
 Rule of thumb: if it has non-empty [Mood](), it is finite. In Ukrainian this applies to indicative and imperative forms, and to the special conditional forms of the auxiliary verb _бути_.
 
@@ -22,7 +22,7 @@ Rule of thumb: if it has non-empty [Mood](), it is finite. In Ukrainian this app
 - _би, б, *бим, *бис, *бисми, *бисте_ &nbsp;“would, I would, you would, we would, you would” (*the forms with asterisks are dialectal)
 - _будь, будьмо, будьте_ &nbsp;“be” (imperative in different persons and numbers)
 
-### `Inf`: infinitive
+### <a name="Inf">`Inf`</a>: infinitive
 
 Infinitive is the citation form of verbs. It is also used with the auxiliary _бути&nbsp;_ to form periphrastic future tense, and it appears as the argument of modal and other verbs.
 
@@ -31,7 +31,7 @@ Infinitive is the citation form of verbs. It is also used with the auxiliary _б
 - _нести_ &nbsp;“to carry”
 - _бути_ &nbsp;“to be”
 
-### `Imps`: impersonal
+### <a name="Imps">`Imps`</a>: impersonal
 
 Impersonal form ending with _-но/-то_. In Slavic languages other than Ukrainian and Polish this form coincides with the neutral passive adjectival participle, but in those two languages the participle has a different ending: _-не_ in Ukrainian and _-ne_ in Polish, which is why it is treated as a separate verbal form.
 
@@ -40,7 +40,7 @@ Impersonal form ending with _-но/-то_. In Slavic languages other than Ukrain
 - _несено_&nbsp;“(it was/somebody) carried” (passive impersonal form), cf. also _писане правило_ “a written rule” vs _писано правило_ “a rule was/is written”.
 
 
-### `Part`: participle
+### <a name="Part">`Part`</a>: participle
 
 The adverbial participle, also called transgressive, is a non-finite verb form that shares properties of verbs and adverbs.
 

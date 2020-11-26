@@ -10,7 +10,7 @@ of other parts of speech ([pronouns](u-pos/PRON),
 [verbs](u-pos/VERB)) that mark agreement with
 nouns. 
 
-### `Masc`: masculine gender
+### <a name="Masc">`Masc`</a>: masculine gender
 
 Nouns denoting male persons are masculine. Other nouns may be also
 grammatically masculine, without any relation to sex.
@@ -19,7 +19,7 @@ grammatically masculine, without any relation to sex.
 
 *  _<b>castelo</b>_ "castle"
 
-### `Fem`: feminine gender
+### <a name="Fem">`Fem`</a>: feminine gender
 
 Nouns denoting female persons are feminine. Other nouns may be also
 grammatically feminine, without any relation to sex.
@@ -28,7 +28,7 @@ grammatically feminine, without any relation to sex.
 
 * _<b>casa</b>_ "house"
 
-### `Unsp`: unspecified
+### <a name="Unsp">`Unsp`</a>: unspecified
 
 `Unsp` is used to tag words that can be masculine or feminine when the context is not enough to make clear its gender.
 

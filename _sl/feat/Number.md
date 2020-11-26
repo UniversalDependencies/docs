@@ -8,7 +8,7 @@ In Slovenian, `Number` is an inflectional feature of [nouns](NOUN) and [proper n
 
 Slovenian distinguishes three `Number` values: `singular`, `dual` and `plural`. [Plurale tantum](u-feat/Number) and [Singulare tantum](u-feat/Number) are not explicitly marked and are tagged as `plural` or `singular`, respectively.
 
-### `Sing`: singular number
+### <a name="Sing">`Sing`</a>: singular number
 
 #### Examples
 
@@ -17,7 +17,7 @@ Slovenian distinguishes three `Number` values: `singular`, `dual` and `plural`. 
 * _moja pisarna_ "my office"
 * _sem_ "I am"
 
-### `Dual`: dual number
+### <a name="Dual">`Dual`</a>: dual number
 
 #### Examples
 
@@ -26,7 +26,7 @@ Slovenian distinguishes three `Number` values: `singular`, `dual` and `plural`. 
 * _moji pisarni_ "my two offices"
 * _sva_ "we (two) are"
 
-### `Plur`: plural number
+### <a name="Plur">`Plur`</a>: plural number
 
 #### Examples
 

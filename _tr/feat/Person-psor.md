@@ -6,7 +6,7 @@ shortdef: 'person of possessor'
 
 `Number[psor]` feature captures the possessor's person.
 
-### `1`: first person
+### <a name="1">`1`</a>: first person
 
 #### Examples
 
@@ -15,7 +15,7 @@ shortdef: 'person of possessor'
 * _kitabımız_ "our book"
 * _kitaplarımız_ "our books"
 
-### `2`: second person
+### <a name="2">`2`</a>: second person
 
 #### Examples
 
@@ -24,7 +24,7 @@ shortdef: 'person of possessor'
 * _kitabınız_ "your-PL book"
 * _kitaplarınız_ "your-PL books"
 
-### `3`: third person
+### <a name="3">`3`</a>: third person
 
 #### Examples
 

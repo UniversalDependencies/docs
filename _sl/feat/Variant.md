@@ -6,7 +6,7 @@ shortdef: 'alternative form of word'
 
 In Slovenian, the `Variant` feature is either a lexical or inflectional features of some [pronouns](PRON).
 
-### `Bound`: bound form
+### <a name="Bound">`Bound`</a>: bound form
 
 This value is assigned as a lexical feature of fused combinations of prepositions and personal pronouns that are currently tokenized as one word form and annotated as [personal](PronType) pronouns.
 
@@ -16,7 +16,7 @@ This value is assigned as a lexical feature of fused combinations of preposition
 * _<b>Skozenj</b> je stekel električni tok._ "Electric current ran _through him_."
 * _<b>Prednjo</b> so postavili kozarec vina._ "A glass of wine was put _in front of her._"
 
-### `Short`: clitic form
+### <a name="Short">`Short`</a>: clitic form
 
 This value is assigned as an inflectional feature to clitic personal pronouns in genitive, dative and accusative to distinguish them from their longer counterparts with the same lemma and set of features.
 

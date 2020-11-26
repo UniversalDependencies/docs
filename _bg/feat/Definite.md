@@ -17,14 +17,14 @@ in postposition (жена<b>та</b> / _zhena<b>ta</b>_ 'woman-the' (the woman))
 However, when added to a nominal phrase, the articles become phrasal affixes, i.e. Bulgarian does not have agreement is definiteness. For example, хубава<b>та</b> висока руса жена / _hubavata visoka rusa zhena_ 'pretty-the tall blond woman' (the pretty tall blond woman).
 
 
-### `Ind`: indefinite
+### <a name="Ind">`Ind`</a>: indefinite
 
 #### Examples
 
 - Видях <b>една жена</b> да минава по улицата / _Vidyah <b>edna zhena</b> da minava po ulitsata_ "I saw a woman walking on the street"
 - Видях <b>жена</b> да минава по улицата / _Vidyah <b>zhena</b> da minava po ulitsata_ "I saw a woman walking on the street"
 
-### `Def`: definite
+### <a name="Def">`Def`</a>: definite
 
 #### Examples
 

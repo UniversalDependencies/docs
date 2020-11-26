@@ -9,7 +9,7 @@ In Slovenian, negation can be expressed in different ways. Syntactically, it can
 
 In the Slovenian UD Treebank, we currently only mark negation as an inflectional feature of a limited set of [verbs](VERB) and [auxiliaries](AUX): _<b>biti</b>_ "to be", _<b>imeti</b>_ "to have", _<b>hoteti</b>_ "to want".
 
-### `Neg`: negative
+### <a name="Neg">`Neg`</a>: negative
 
 `Polarity` is assigned to negated word forms of verbs _biti, imeti, hoteti_.
 
@@ -19,7 +19,7 @@ In the Slovenian UD Treebank, we currently only mark negation as an inflectional
 * _<b>nimam</b>_ "I do not have", _<b>nimaš</b>_ "you do not have", _<b>nima</b>_ "he/she/it does not have" etc.
 * _<b>nočem</b>_ "I do not want", _<b>nočeš</b>_ "you do not want", _<b>nočemo</b>_ "he/she/it does not want" etc.
 
-### `Pos`: positive, affirmative
+### <a name="Pos">`Pos`</a>: positive, affirmative
 
 `Positive` is assigned to non-negated word forms of verbs _biti, imeti, hoteti_ with identical set of other grammatical features.
 

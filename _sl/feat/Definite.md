@@ -6,7 +6,7 @@ shortdef: 'definiteness or state'
 
 Definiteness in Slovenian is an inflectional feature of masculine word forms in nominative and accusative singular that distinguishes whether we are talking about something known and concrete, or something general or unknown. It is currently marked on some [adjectives](ADJ) and some [determiners](DET).
 
-### `Ind`: indefinite
+### <a name="Ind">`Ind`</a>: indefinite
 
 #### Examples
 
@@ -15,7 +15,7 @@ Definiteness in Slovenian is an inflectional feature of masculine word forms in 
 * _<b>drug</b> način_ "another way"
 * _<b>sosedov</b> sin_ "neighbour's son"
 
-### `Def`: definite
+### <a name="Def">`Def`</a>: definite
 
 #### Examples
 

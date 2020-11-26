@@ -4,7 +4,7 @@ title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
 ---
 
-### `Fin`: finite verb
+### <a name="Fin">`Fin`</a>: finite verb
 
 Verbs that inflect for mood ([Mood]()), tense ([Tense]()) or person
 ([Person]()) are finite and are assigned the `VerbForm` value `Fin`.
@@ -14,7 +14,7 @@ Verbs that inflect for mood ([Mood]()), tense ([Tense]()) or person
 * [sv] _krig <b>är</b> brutalt_ "war is brutal"
 * [sv] _du <b>får</b> ett vapen_ "you get a weapon"
 
-### `Inf`: infinitive
+### <a name="Inf">`Inf`</a>: infinitive
 
 The infinitive is the citation form of verbs in Swedish. The infinitive marker in Swedish is "att". The infinitive may be used together with auxiliaries to form periphrastic tenses.
 
@@ -23,7 +23,7 @@ The infinitive is the citation form of verbs in Swedish. The infinitive marker i
 * [sv] _ett barn som ska <b>lära</b> sig att <b>läsa</b>_ "a child who will learn to read"
 * [sv] _de behöver <b>sova</b>_ "they need to sleep"
 
-### `Part`: participle
+### <a name="Part">`Part`</a>: participle
 
 Participle is a non-finite verb form that in Swedish is used adjectively. The related supine form is used to form certain periphrastic verb tenses.
 
@@ -32,7 +32,7 @@ Participle is a non-finite verb form that in Swedish is used adjectively. The re
 * [sv] _<b>ökad</b> frånvaro_ "increased absence"
 * [sv] _vår <b>bisulfitbehandlade</b> potatis_ "our bisulfite-treated potato"
 
-### `Sup`: supine
+### <a name="Sup">`Sup`</a>: supine
 
 Supine in Swedish is a special form of the past participle, used to form the composite past form of a verb.  It is used after the auxiliary verb _ha_ (to have) but not after _vara_ (to be):
 

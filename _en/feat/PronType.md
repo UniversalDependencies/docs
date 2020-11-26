@@ -7,7 +7,7 @@ shortdef: 'pronominal type'
 In English, this feature applies to [pronouns](en-pos/PRON),
 [determiners](en-pos/DET) and pronominal [adverbs](u-pos/ADV).
 
-### `Prs`: personal or possessive personal pronoun or determiner
+### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
 See also the [Poss]() feature that distinguishes normal personal
 pronouns from possessives. Note that `Prs` also includes reflexive
@@ -20,7 +20,7 @@ The following pronouns have this feature:
   myself, yourself, himself, herself, itself, ourselves, youselves,
   theirselves_
 
-### `Art`: article
+### <a name="Art">`Art`</a>: article
 
 Article is a special case of determiner that bears the feature of
 [definiteness](Definite).
@@ -29,7 +29,7 @@ In English, the following three determiners have this feature:
 
 * _a, an, the_ 
 
-### `Int`: interrogative pronoun, determiner or adverb
+### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
 
 Note that the possessive interrogative determiner (_whose_) can be
 distinguished by the [Poss]() feature.
@@ -43,7 +43,7 @@ they mark the beginning of a [relative clause](en-dep/acl:relcl).
 * _<b>Whose</b> car is this?_
 * _<b>How</b> old is he?_
 
-### `Rel`: relative pronoun or determiner
+### <a name="Rel">`Rel`</a>: relative pronoun or determiner
 
 All pronouns and determiners that mark the beginning of a [relative clause](en-dep/acl:relcl) have this feature.
 
@@ -53,7 +53,7 @@ All pronouns and determiners that mark the beginning of a [relative clause](en-d
 * _The book <b>which</b> she bought_
 * _The book <b>whose</b> author was arrested_
 
-### `Dem`: demonstrative determiner or adverb
+### <a name="Dem">`Dem`</a>: demonstrative determiner or adverb
 
 The following determiners and adverbs have this feature:
 

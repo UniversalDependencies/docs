@@ -10,7 +10,7 @@ nouns. There are three values of gender: masculine, feminine, and neuter.
 
 See also the related feature of [Animacy]().
 
-### `Masc`: masculine gender
+### <a name="Masc">`Masc`</a>: masculine gender
 
 Nouns denoting male persons are masculine. Other nouns may be also
 grammatically masculine, without any relation to sex.
@@ -23,7 +23,7 @@ grammatically masculine, without any relation to sex.
 * _<b>председатель</b>&nbsp;_ “chairman”
 * _<b>судья</b>&nbsp;_ “judge”
 
-### `Fem`: feminine gender
+### <a name="Fem">`Fem`</a>: feminine gender
 
 Nouns denoting female persons are feminine. Other nouns may be also
 grammatically feminine, without any relation to sex.
@@ -35,7 +35,7 @@ grammatically feminine, without any relation to sex.
 * _<b>песня</b>&nbsp;_ “song”
 * _<b>кость</b>&nbsp;_ “bone”
 
-### `Neut`: neuter gender
+### <a name="Neut">`Neut`</a>: neuter gender
 
 This third gender is for nouns that are neither
 masculine nor feminine (grammatically).

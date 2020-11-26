@@ -6,7 +6,7 @@ shortdef: 'tense'
 
 Tense is a feature that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance.
 
-### `Past`: past tense
+### <a name="Past">`Past`</a>: past tense
 
 The past tense denotes actions that happened before the current moment. Past tense in Ukrainian is expressed by a special past form, historically derived from the past participle (also called active participle or l-participle -- which is why past is the only tense that also varies in gender). In the pre-past version of the past tense the same form is accompanied by a past auxiliary verb. The past tense form can also be used to form present (or past, depending on the tense of the auxiliary verb) conditional. Since both pre-past and conditionals are formed analytically, they do not receive any morphological tags.
 
@@ -22,7 +22,7 @@ The past tense denotes actions that happened before the current moment. Past ten
 * _Вона <b>пішла</b> додому.&nbsp;_ “She has <b>gone</b> home.”
 * _Воно <b>пішло</b> додому.&nbsp;_ “It has <b>gone</b> home.”
 
-### `Pres`: present tense
+### <a name="Pres">`Pres`</a>: present tense
 
 The present tense denotes actions that are happening right now or that usually happen. Only imperfective verbs can have present forms in Ukrainian. Morphologically present forms of perfective verbs have actually a future meaning and are marked `Tense=Fut`, see the last example below.
 
@@ -33,7 +33,7 @@ The present tense denotes actions that are happening right now or that usually h
 * _<b>Йду</b> додому.&nbsp;_ “I <b>go / am going</b> home.” (_Йти&nbsp;_ is an imperfective verb.)
 * _<b>Прийду</b> додому.&nbsp;_ “I <b>will come</b> home.” (_Прийти&nbsp;_ is a perfective verb and it has a future meaning on the contrary to the imperfective forms above.)
 
-### `Fut`: future tense
+### <a name="Fut">`Fut`</a>: future tense
 
 The future tense denotes actions that will happen after the current moment. It is formed in Ukrainian in one of three ways, partly depending on the aspect of the verb:
 

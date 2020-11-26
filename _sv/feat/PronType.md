@@ -6,7 +6,7 @@ shortdef: 'pronominal type'
 
 Pronominal type is a feature of (some) pronouns, determiners and pronominal adverbs in Swedish. 
 
-### `Int`: interrogative pronoun, determiner, or adverb
+### <a name="Int">`Int`</a>: interrogative pronoun, determiner, or adverb
 
 #### Examples: 
 
@@ -14,7 +14,7 @@ Pronominal type is a feature of (some) pronouns, determiners and pronominal adve
 * Determiners: _vilken_ (common singular) "which", _vilket_ (neuter singular) "which", _vilka_ (plural) "which"
 * Adverbs: _när_ "when", _var_ "where", _hur_ "how"
 
-### `Rel`: relative pronoun, determiner, or adverb
+### <a name="Rel">`Rel`</a>: relative pronoun, determiner, or adverb
 
 #### Examples: 
 

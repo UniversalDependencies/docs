@@ -11,7 +11,7 @@ Mood is a feature that expresses modality and subclassifies finite
 verb forms.
 In Bulgarian there are three moods: _Indicative_, _Imperative_ and _Conditional_.
 
-### `Ind`: indicative
+### <a name="Ind">`Ind`</a>: indicative
 
 The indicative can be considered the default mood. A verb in
 indicative merely states that something happens, has happened or will
@@ -23,7 +23,7 @@ and their passive forms in Bulgarian. It also covers the evidential forms.
 - <b>Следвам</b> право в университета. / _Sledvam pravo v universiteta_ "I study law at the University".
 - Той <b>беше ходил</b> в САЩ много пъти. / _Toy beshe hodil v SASHT mnogo pati_ "He had been to the USA many times".
 
-### `Imp`: imperative
+### <a name="Imp">`Imp`</a>: imperative
 
 The speaker uses imperative to order or ask the addressee to do the
 action of the verb. The forms in Bulgarian are synthetic.
@@ -34,7 +34,7 @@ action of the verb. The forms in Bulgarian are synthetic.
 - <b>Подай</b> ми солта, моля! / _Poday mi solta, molya_ "Pass me the salt, please!"
 
 
-### `Cnd`: conditional
+### <a name="Cnd">`Cnd`</a>: conditional
 
 The conditional mood is used to express actions that might happen under certain
 circumstances or that would have taken place but they actually did not / do not

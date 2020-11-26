@@ -15,11 +15,11 @@ Traditionally, Turkish is considered to have 6 cases (nominative is
 often not listed): `Nom`, `Acc`, `Gen`, `Dat`, `Loc`, `Abl`.
 We also consider suffix *-lA* as a case suffix introducing comitative or instrumental case, and mark it as `Ins` (although the function may sometimes be `Com` in some of these cases, currently we do not distinguish the two).
 
-### `Nom`: nominative / direct
+### <a name="Nom">`Nom`</a>: nominative / direct
 
 The base form of the noun, typically used as citation form (lemma).
 
-### `Acc`: accusative
+### <a name="Acc">`Acc`</a>: accusative
 
 Typically, accusative case in Turkish marks the definite direct object in a sentence.
 Indefinite direct objects do not receive the accusative suffix,
@@ -31,7 +31,7 @@ In Turkish `Acc` is expressed by suffix _-(y)I_ (_ı/i/u/ü/yı/yi/yu/yü_).
 
 * _Kitab<b>ı</b> okudum_ "I read-PAST the book" (cf. _Kitap okudum_ "I read a book" / "I read books")
 
-### `Dat`: dative
+### <a name="Dat">`Dat`</a>: dative
 
 Dative case is typically used to indicate movement into/towards/to a place or time.
 The oblique arguments of some verbs and complements (noun phrases) of some postpositions also required to be in dative case.
@@ -45,7 +45,7 @@ In Turkish `Dat` is expressed by suffix _-(y)A_ (_e/a/ye/ya_).
 * _Yağmur<b>a</b> rağmen oynuyorlar_ "They are playing despite the rain" (postposition _rağmen_ "despite" requires a dative complement)
 * _Haber<b>e</b> üzüldük_ "we are sorry/upset about the news"
 
-### `Gen`: genitive
+### <a name="Gen">`Gen`</a>: genitive
 
 Prototypical meaning of genitive is that the noun phrase somehow belongs to its governor; it would often be translated by the English preposition _of_. 
 Complements of some postpositions are also required to be in genitive case.
@@ -58,7 +58,7 @@ In Turkish `Gen` is expressed by suffix _-(n)In_.
 * _Ali'<b>nin</b> kitabı_ "Ali<b>'s</b> book"
 * _Kitabı sen<b>in</b> için aldım_ "I bought the book for you" 
 
-### `Loc`: locative
+### <a name="Loc">`Loc`</a>: locative
 
 The locative case often expresses location in space or time, which gave it its name. 
 The oblique arguments of some verbs and complements (noun phrases) also required to be in locative case.
@@ -71,7 +71,7 @@ In Turkish `Loc` is expressed by suffix _-DA_.
 * _Toplantı iki<b>de</b>_ "The meeting is <b>at</b> two"
 * _Kendi yöntemin<b>de</b> ısrar ediyor_ "He is insisting on his own method"
 
-### `Ins`: instrumental
+### <a name="Ins">`Ins`</a>: instrumental
 
 The role from which the name of the instrumental case is derived is that the noun is used as instrument to do something.
 In Turkish, instrumental suffix _-(y)lA_ also indicates comitative,
@@ -90,11 +90,11 @@ Traditionally _instrumental_ and _comitative_ are not considered `Case`s in Turk
 * _Bebek<b>le</b> ilgilenmiyor_ "He does not pay attention to the baby"
 * _Elma<b>yla</b> portakalı pazardan aldım_ "I bought the apples and the oranges from the market"  (coordination)
 
-### `Com`: comitative / associative
+### <a name="Com">`Com`</a>: comitative / associative
 
 We mark comitative use of _-(y)lA_ as `Ins`.
 
-### `Abl`: ablative
+### <a name="Abl">`Abl`</a>: ablative
 
 Prototypical meaning: direction from some point.
 The oblique arguments of some verbs and complements (noun phrases) of some postpositions also required to be in ablative case.

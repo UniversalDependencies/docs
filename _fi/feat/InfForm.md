@@ -16,7 +16,7 @@ first, second and third infinitives (alternatively termed the A-, E-
 and MA-infinitives, see e.g. [VISK §
 119](http://kaino.kotus.fi/visk/sisallys.php?p=119); in Finnish).
 
-### `1`: first infinitive
+### <a name="1">`1`</a>: first infinitive
 
 The first infinitive is also known as the A-infinitive. It corresponds
 roughly to the English infinitive introduced by *to*.
@@ -32,7 +32,7 @@ for verbs.
 
 * <http://kaino.kotus.fi/visk/sisallys.php?p=120> (in Finnish)
 
-### `2`: second infinitive
+### <a name="2">`2`</a>: second infinitive
 
 The second infinitive is also known as the E-infinitive.
 
@@ -44,7 +44,7 @@ The second infinitive is also known as the E-infinitive.
 
 * <http://kaino.kotus.fi/visk/sisallys.php?p=120> (in Finnish)
 
-### `3`: third infinitive
+### <a name="3">`3`</a>: third infinitive
 
 The third infinitive is also known as the MA-infinitive.
 

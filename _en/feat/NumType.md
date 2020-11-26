@@ -6,7 +6,7 @@ shortdef: 'numeral type'
 
 In English, numerical expressions such as cardinal and ordinal numbers have a `NumType` feature. 
 
-### `Card`: cardinal number
+### <a name="Card">`Card`</a>: cardinal number
 
 Cardinal numbers with the PTB tag `CD`.
 
@@ -14,7 +14,7 @@ Cardinal numbers with the PTB tag `CD`.
 
 * _one, 11, ..._
 
-### `Ord`: ordinal number
+### <a name="Ord">`Ord`</a>: ordinal number
 
 Ordinal numbers with the PTB tag `JJ`.
 
@@ -24,7 +24,7 @@ Ordinal numbers with the PTB tag `JJ`.
 
 (Note that our automatic feature extractor only marks written-out ordinal numbers up to _tenth_ as ordinal numbers. Ordinals expressed with digits such as _42nd_ can be arbitrarily large.)
 
-### `Mult`: multiplicative numbers
+### <a name="Mult">`Mult`</a>: multiplicative numbers
 
 The following adverbs with the PTB tag `RB`:
 

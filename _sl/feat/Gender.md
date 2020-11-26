@@ -6,7 +6,7 @@ shortdef: 'gender'
 
 Gender is a lexical feature of [nouns](NOUN) and [proper nouns](PROPN), and an inflectional feature of other parts of speech ([adjectives](ADJ), [verbs](VERB), [auxiliary](AUX), [pronouns](PRON), [determiners](DET) and [numerals](NUM)) that mark agreement with nouns.
 
-### `Masc`: masculine gender
+### <a name="Masc">`Masc`</a>: masculine gender
 
 #### Examples
 
@@ -15,7 +15,7 @@ Gender is a lexical feature of [nouns](NOUN) and [proper nouns](PROPN), and an i
 * _grad_ “castle”
 * _stroj_ “machine”
 
-### `Fem`: feminine gender
+### <a name="Fem">`Fem`</a>: feminine gender
 
 #### Examples
 
@@ -25,7 +25,7 @@ Gender is a lexical feature of [nouns](NOUN) and [proper nouns](PROPN), and an i
 * _perut_ “wing”
 
 
-### `Neut`: neuter gender
+### <a name="Neut">`Neut`</a>: neuter gender
 
 #### Examples
 

@@ -5,24 +5,24 @@ shortdef: 'form of verb or deverbative'
 udver: '2'
 ---
 
-### `Fin`: finite verb
+### <a name="Fin">`Fin`</a>: finite verb
 
 #### Examples
 
 * _loro <b>hanno</b>_ "they have"
 
-### `Inf`: infinitive
+### <a name="Inf">`Inf`</a>: infinitive
 
 #### Examples
 
 * _desidero <b>andare</b> a <b>dormire</b>_ "I wish to go to sleep"
 * _devo <b>andare</b>_ “I must go”
 
-### `Sup`: supine
+### <a name="Sup">`Sup`</a>: supine
 
 Not used.
 
-### `Part`: participle
+### <a name="Part">`Part`</a>: participle
 
 #### Examples
 
@@ -31,11 +31,11 @@ Not used.
 * _<b>appartenenti</b> ad organizzazioni terroristiche_ "members of terroristic organizations"
 
 
-### `Trans`: transgressive
+### <a name="Trans">`Trans`</a>: transgressive
 
 Not used.
 
-### `Ger`: gerund
+### <a name="Ger">`Ger`</a>: gerund
 
 #### Examples
 

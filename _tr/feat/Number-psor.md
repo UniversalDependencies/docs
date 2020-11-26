@@ -6,14 +6,14 @@ shortdef: 'possessor’s number'
 
 `Number[psor]` feature captures the possessor's number.
 
-### `Sing`: singular possessor
+### <a name="Sing">`Sing`</a>: singular possessor
 
 #### Examples
 
 * _kitabın_ "your-SG books" `Number[psor]=Sing|Number=Sing`
 * _kitaplarım_ "my books" `Number[psor]=Sing|Number=Plur`
 
-### `Plur`: plural possessor
+### <a name="Plur">`Plur`</a>: plural possessor
 
 #### Examples
 

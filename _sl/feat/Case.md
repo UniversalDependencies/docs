@@ -9,13 +9,13 @@ shortdef: 'case'
 Slovenian morphology distinguishes six cases:
 `Nom`, `Gen`, `Dat`, `Acc`, `Loc` and `Ins`.
 
-### `Nom`: nominative
+### <a name="Nom">`Nom`</a>: nominative
 
 The base form of the noun, also used as citation form (lemma). This is the word form usually used for subjects of clauses and answers the question _Kdo ali kaj (je)?_ "Who or what (is there)?".
 
 * _<b>Država</b> je dala jamstva_. "The state has given guarantees."
 
-### `Gen`: genitive
+### <a name="Gen">`Gen`</a>: genitive
 
 In addition to its prototypical meaning of a noun modifying another noun, genitive in Slovenian is used in certain syntactic positions, such as negation, or with certain prepositions. Word form in genetive answers the question _Koga ali česa (ni)?_ "Who or what (is not there)?"
 
@@ -23,27 +23,27 @@ In addition to its prototypical meaning of a noun modifying another noun, geniti
 * _Te <b>države</b> ni na zemljevidu._ "This country is not in the map."
 * _brez <b>države</b>_ "without country", _iz <b>države</b>_ "from country"
 
-### `Dat`: dative
+### <a name="Dat">`Dat`</a>: dative
 
 This is the word form often used for indirect objects of verbs. It answers the question _Komu ali čemu (dam)?_ "To whom or what (do I give)?"
 
 * _služiti svoji <b>državi</b>_ "to serve one's country"
 * _proti <b>državi</b>_ "against country", _k <b>državi</b>_ "to country" 
 
-### `Acc`: accusative
+### <a name="Acc">`Acc`</a>: accusative
 
 This is the word form most frequently used for direct objects of verbs. It answers the question _Koga ali kaj (vidim)?_ "Who or what (do I see)?"
 
 * _napasti <b>državo</b>_ "to attack a country"
 * _za <b>državo</b>_ "for country", _v <b>državo</b>_ "in/to country"  
 
-### `Loc`: locative
+### <a name="Loc">`Loc`</a>: locative
 
 The locative case often expresses location in space or time, but non-locational meanings also exist. The locative word form answers the question _O kom ali čem (govorim)?_ "Of whom or what (do I speak)?" and usually appears with a preposition.
 
 * _v <b>državi</b>_ "in the country", _po <b>državi</b>_ "throughout the country", _o <b>državi</b>_ "about the country"
 
-### `Ins`: instrumental
+### <a name="Ins">`Ins`</a>: instrumental
 
 The instrumental case often expresses the instrument, means or accompaniment of an action, but other meanings also exist. The instrumental word form answers the question _S kom ali čim (delam)?_ "With whom or what (do I work)?"
 

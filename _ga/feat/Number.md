@@ -13,7 +13,7 @@ Words can be either singular or plural.
 
 ### `Sing` : singular
 
-### `Plur`: plural
+### <a name="Plur">`Plur`</a>: plural
 
 #### Examples
 

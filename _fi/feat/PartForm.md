@@ -11,7 +11,7 @@ Finnish has multiple participles forms, here termed the present, past,
 agent, and negative participles ([VISK §
 122](http://kaino.kotus.fi/visk/sisallys.php?p=122); in Finnish).
 
-### `Pres`: present participle
+### <a name="Pres">`Pres`</a>: present participle
 
 The present participle, also known as the first participle and the
 VA-participle, has active and passive forms.
@@ -25,7 +25,7 @@ VA-participle, has active and passive forms.
 
 * <http://kaino.kotus.fi/visk/sisallys.php?p=522> (in Finnish)
 
-### `Past`: past participle
+### <a name="Past">`Past`</a>: past participle
 
 The past participle is also known as the second participle. Its active
 and passive forms are also known as the NUT- and TU-participles,
@@ -40,7 +40,7 @@ respectively.
 
 * <http://kaino.kotus.fi/visk/sisallys.php?p=522> (in Finnish)
 
-### `Agt`: agent participle
+### <a name="Agt">`Agt`</a>: agent participle
 
 The agent participle is also known as the MA-participle.
 
@@ -52,7 +52,7 @@ The agent participle is also known as the MA-participle.
 
 * <http://kaino.kotus.fi/visk/sisallys.php?p=525> (in Finnish)
 
-### `Neg`: negative participle
+### <a name="Neg">`Neg`</a>: negative participle
 
 The negative participle is a negative counterpart to the other
 participle forms.

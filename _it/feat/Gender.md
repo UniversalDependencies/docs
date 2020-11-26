@@ -5,7 +5,7 @@ shortdef: 'gender'
 udver: '2'
 ---
 
-### `Masc`: masculine gender
+### <a name="Masc">`Masc`</a>: masculine gender
 
 Nouns denoting male persons are masculine. Other nouns may be also
 grammatically masculine, without any relation to sex.
@@ -14,7 +14,7 @@ grammatically masculine, without any relation to sex.
 
 * _<b>castello</b>_ "castle"
 
-### `Fem`: feminine gender
+### <a name="Fem">`Fem`</a>: feminine gender
 
 Nouns denoting female persons are feminine. Other nouns may be also
 grammatically feminine, without any relation to sex.
@@ -23,11 +23,11 @@ grammatically feminine, without any relation to sex.
 
 * _<b>nave</b>_ "ship"
 
-### `Neut`: neuter gender
+### <a name="Neut">`Neut`</a>: neuter gender
 
 Not used.
 
-### `Com`: common gender
+### <a name="Com">`Com`</a>: common gender
 
 Not used.
 <!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->

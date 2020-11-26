@@ -4,13 +4,13 @@ title: 'NumType'
 shortdef: 'numeral type'
 ---
 
-### `Card`: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Card">`Card`</a>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
 #### Examples
 
 * [myv] _вейке, кавто, колмо_ "_one, two, three_"
 
-### `Dist`: distributive number is made through reduplication of the number in the indefinite genitive for all but the number 'one'. Alternatively, the second element may appear in the nominative singular, in which case there is an implication the everything has been distributed.
+### <a name="Dist">`Dist`</a>: distributive number is made through reduplication of the number in the indefinite genitive for all but the number 'one'. Alternatively, the second element may appear in the nominative singular, in which case there is an implication the everything has been distributed.
 
 #### Examples
 
@@ -18,7 +18,7 @@ shortdef: 'numeral type'
 * [myv] _тонавтыцясь явшинзе умартнень кавтонь-кавтонь_ "_the teacher passsed out the apples two a piece_"
 * [myv] _тонавтыцясь явшинзе умартнень кавтонь-кавто_ "_the teacher passsed out the apples two a piece <until there were no more>_"
 
-### `Ord`: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
 This is a subtype of adjective or (in some languages) of adverb.
 
@@ -26,7 +26,7 @@ This is a subtype of adjective or (in some languages) of adverb.
 
 * [myv] _васенце, омбоце, колмоце_ "_first, second, third_"
 
-### `Mult`: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Mult">`Mult`</a>: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
 
 This is subtype of adverb.
 
@@ -34,7 +34,7 @@ This is subtype of adverb.
 
 * [myv] _весть, кавксть, колмоксть, котоксть_ "_once, twice, thrice, six times_"
 
-### `Set`: set numeral or corresponding interrogative / relative / indefinite  word
+### <a name="Set">`Set`</a>: set numeral or corresponding interrogative / relative / indefinite  word
 
 This is a subtype of number in Erzya, and it is a regular inflection of virtually any whole number. It is used for counting pairs, plural nouns, and types.
 
@@ -45,7 +45,7 @@ This is a subtype of number in Erzya, and it is a regular inflection of virtuall
 * [myv] _кавонст оргат_ "_two types of yeast_ (plural noncountable noun)"
 
 
-### `OrdMult`: ordinal multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="OrdMult">`OrdMult`</a>: ordinal multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
 
 This is a subtype of adverb, but in Erzya it is a regular inflection of virtually any whole number.
 

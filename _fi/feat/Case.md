@@ -4,7 +4,7 @@ title: 'Case'
 shortdef: 'case'
 ---
 
-### `Nom`: nominative
+### <a name="Nom">`Nom`</a>: nominative
 
 The base form, typically used as a citation form (lemma).
 
@@ -12,7 +12,7 @@ The base form, typically used as a citation form (lemma).
 
 * [fi] _<b>koira</b> juoksee_ "the <b>dog</b> runs"
 
-### `Acc`: accusative
+### <a name="Acc">`Acc`</a>: accusative
 
 In many languages used for direct objects of verbs.
 
@@ -25,7 +25,7 @@ and _kuka_ "who" (<http://scripta.kotus.fi/visk/sisallys.php?p=1221>,
 * [fi] _näen hänet_ "I see him/her"
 * [fi] _kenet näet?_ "who do you see?"
 
-### `Gen`: genitive
+### <a name="Gen">`Gen`</a>: genitive
 
 #### Examples
 
@@ -33,7 +33,7 @@ and _kuka_ "who" (<http://scripta.kotus.fi/visk/sisallys.php?p=1221>,
 * [fi] _<b>vuoden</b> päivät_ "the days of the <b>year</b>"
 * [fi] _<b>Turun</b> Yliopisto_ "University of <b>Turku</b>"
 
-### `Ins`: instructive
+### <a name="Ins">`Ins`</a>: instructive
 
 Instructive primarily characterizes manner or instrument. Instructive can
 also express place or time.
@@ -51,7 +51,7 @@ Corresponds to some uses of English *by means of* or *with the aid of*.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1263> (in Finnish)
 
-### `Par`: partitive
+### <a name="Par">`Par`</a>: partitive
 
 In Finnish the partitive case is an object case that can also express
 indefinite quantity or unfinished actions.
@@ -67,7 +67,7 @@ indefinite quantity or unfinished actions.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1234> (in Finnish)
 
-### `Ess`: essive
+### <a name="Ess">`Ess`</a>: essive
 
 Essive is typically a case of temporal adverbials (e.g. 
 _tiistaina_ "on Tuesday"). In expressions of state, essive
@@ -87,7 +87,7 @@ Essive corresponds to some uses of English _as a_.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1258> (in Finnish)
 
-### `Tra`: translative
+### <a name="Tra">`Tra`</a>: translative
 
 In intransitive sentences, the translative case typically expresses
 change of state (_becomes_, _changes to_) or manner.
@@ -110,7 +110,7 @@ In transitive sentences, the translative case describes the sentence object.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1259> (in Finnish)
 
-### `Com`: comitative / associative
+### <a name="Com">`Com`</a>: comitative / associative
 
 The comitative (also called associative) case expresses belonging, a social relationship or a part of an entity. It often corresponds to English _together with_ and has a descriptive or explicative function. 
 
@@ -124,7 +124,7 @@ The comitative (also called associative) case expresses belonging, a social rela
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1264> (in Finnish)
 
-### `Abe`: abessive
+### <a name="Abe">`Abe`</a>: abessive
 
 The abessive case expresses wihtout what something has happened and roughly corresponds to the English preposition _without_.
 
@@ -134,7 +134,7 @@ The abessive case expresses wihtout what something has happened and roughly corr
 
 
 
-### `Ine`: inessive
+### <a name="Ine">`Ine`</a>: inessive
 
 The inessive case expresses location inside of something.
 
@@ -142,7 +142,7 @@ The inessive case expresses location inside of something.
 
 * [fi] _talossa_ "in the house"
 
-### `Ill`: illative
+### <a name="Ill">`Ill`</a>: illative
 
 The illative case expresses direction into something.
 
@@ -150,7 +150,7 @@ The illative case expresses direction into something.
 
 * [fi] _taloon_ "to the house"
 
-### `Ela`: elative
+### <a name="Ela">`Ela`</a>: elative
 
 The elative case expresses direction out of something.
 
@@ -158,7 +158,7 @@ The elative case expresses direction out of something.
 
 * [fi] _talosta_ "from the house"
 
-### `Ade`: adessive
+### <a name="Ade">`Ade`</a>: adessive
 
 The adessive cases expresses location on the outer or upper
 surface of an entity, or movement to/from such a surface. The 
@@ -177,7 +177,7 @@ owner, instrument, means, manner, and quantity.)
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1252> (in Finnish)
 
-### `All`: allative
+### <a name="All">`All`</a>: allative
 
 The allative case expresses direction onto something (destination
 is adessive).
@@ -186,7 +186,7 @@ is adessive).
 
 * [fi] _pöydälle_ "on to the table"
 
-### `Abl`: ablative
+### <a name="Abl">`Abl`</a>: ablative
 
 Prototypical meaning: direction from some point.
 
@@ -196,7 +196,7 @@ Prototypical meaning: direction from some point.
 * [fi] _katolta_ "from the roof"
 * [fi] _rannalta_ "from the beach"
 
-### Notes: distributive
+### <a name="Notes">`Notes`</a>: distributive
 
 Some descriptions of Finnish recognize a distributive case conveying
 that something happens to every member of a set, one at a time. UD
@@ -212,7 +212,7 @@ derivation.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=379> (in Finnish)
 
-### Notes: lative
+### <a name="Notes">`Notes`</a>: lative
 
 Some descriptions of Finnish mark the base form of the first
 infinitive as being in the lative case (see e.g.

@@ -10,7 +10,7 @@ In Turkish, degree of an adjective or adverb is modified through adverbs _en_ "(
 We only annotate these two adverbs with the `Degree` feature.
 
 
-### `Cmp`: comparative, second degree
+### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
 The quality of one object is compared to the same quality of another object.
 
@@ -19,7 +19,7 @@ The quality of one object is compared to the same quality of another object.
 * _daha güzel_  "prettier"
 * _daha çabuk_  "quicker/faster"
 
-### `Sup`: superlative, third degree
+### <a name="Sup">`Sup`</a>: superlative, third degree
 
 The quality of one object is compared to the same quality of all other objects within a set.
 

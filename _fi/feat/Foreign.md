@@ -12,13 +12,13 @@ class to which the word belongs in its original language.
 
 Note: the UD `Tscript` (transcribed) value is not used in UD Finnish.
 
-### `Foreign`: it is foreign
+### <a name="Foreign">`Foreign`</a>: it is foreign
 
 #### Examples
 
 TODO
 
-### `Fscript`: it is foreign and written in a foreign script
+### <a name="Fscript">`Fscript`</a>: it is foreign and written in a foreign script
 
 #### Examples
 

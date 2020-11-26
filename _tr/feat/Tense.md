@@ -13,7 +13,7 @@ The actions that happen before/after/during a future event is expressed using an
 The verbs expressing actions that happened before a reference in the past are marked with value `Pqp`.
 For events that happen during the past reference, we use `Tense=Past` with proper progressive (`Prog`) or habitual (not in current UD specification) `Aspect`.
 
-### `Past`: paste tense
+### <a name="Past">`Past`</a>: paste tense
 
 Turkish past tense is realized with *-DI* or *-mIş* suffixes on verbal predicates, and  with *-(y)DI* and *-(y)mIş* suffixes on nominal predicates.
 The difference between the *-DI* and *-mIş* forms are related to `Mood` rather than `Tense`. Both morphemes refer to a (completed) past event.
@@ -29,7 +29,7 @@ These suffixes also combine with others to refer to time relative to a past even
 * *hastaydı* 'she was sick'
 * *hastaymış* 'she was sick' (evidential)
 
-### `Fut`: future tense
+### <a name="Fut">`Fut`</a>: future tense
 
 Turkish future tense is expressed with suffix *-(y)AcAk*. 
 Copular predicates cannot directly take future `Tense` morphemes.
@@ -39,7 +39,7 @@ Future tense in nominal phrases are expressed using auxiliary *ol-*.
 
 * *eve gidecek* 'she will go home'
 
-### `Pres`: present tense
+### <a name="Pres">`Pres`</a>: present tense
 
 The present tense in Turkish is realized by lack of past or future morphemes.
 
@@ -51,7 +51,7 @@ The present tense in Turkish is realized by lack of past or future morphemes.
 
 The differences between these forms are `Aspect` and `Mood` differences.
 
-### `Pqp`: pluperfect
+### <a name="Pqp">`Pqp`</a>: pluperfect
 
 This denotes an action that happened before a reference time in the past.
 In Turkish, this is realized by combination of *-DI*/*-mIş* and *-(y)DI*/*-(y)mIş* (only three combinations exemplified below possible).

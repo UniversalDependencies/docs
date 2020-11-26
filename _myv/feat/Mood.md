@@ -8,7 +8,7 @@ udver: '2'
 Mood is a feature that expresses modality and subclassifies finite
 [verb](myv-pos/VERB) forms.
 
-### `Ind`: indicative
+### <a name="Ind">`Ind`</a>: indicative
 
 The indicative can be considered the default mood. A verb in the
 indicative merely states that something happens, has happened or will
@@ -18,7 +18,7 @@ happen, without adding any attitude of the speaker.
 
 * [myv] _мон <b>содан</b>_ "I <b>know</b>"
 
-### `Imp`: imperative
+### <a name="Imp">`Imp`</a>: imperative
 
 The speaker uses the imperative to order or ask the addressee to perform the
 action of the verb, the subject is limited to the second person.
@@ -27,7 +27,7 @@ action of the verb, the subject is limited to the second person.
 
 * [myv] _<b>паник</b> каштомсо_ "_<b>bake it</b> in the oven_"
 
-### `Cnj`: conjunctive
+### <a name="Cnj">`Cnj`</a>: conjunctive
 
 The conjunctive mood (also subjunctive) is attested in both the main clause and subordinate clauses. It is used to express actions that would have taken
 place under some circumstances but they actually did not / do not
@@ -38,7 +38,7 @@ The conjunctive is also used to express volition in both proclamations and quest
 
 * [myv] _<b>молевлинек</b> кинов_ "we <b>would like to go</b> to the movies"
 
-### `Cnd`: conditional
+### <a name="Cnd">`Cnd`</a>: conditional
 
 The conditional mood is used to express conditions, i.e. protasis, for actions of the main clause. This mood marker can be found in finite and non-finite forms alike, as well as followed by derivational suffixes.
 

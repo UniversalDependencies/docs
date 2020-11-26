@@ -6,7 +6,7 @@ shortdef: 'person'
 
 In English, `Person` is a feature of personal and possessive [pronouns](en-pos/PRON), and of some [verbs](en-pos/VERB) to mark agreement with its subject.
 
-### `1`: first person
+### <a name="1">`1`</a>: first person
 
 In singular, the first person refers just to the speaker / author. In plural, it must include the speaker and one or more additional persons. 
 
@@ -14,7 +14,7 @@ This feature is only used for pronouns and two inflections of _be_:
 
 * _am, was_ (if _I_ is its subject)_, I, we, me, us, my, mine, our, ours, myself, ourselves_
 
-### `2`: second person
+### <a name="2">`2`</a>: second person
 
 In singular, the second person refers to the addressee of the utterance / text. In plural, it may mean several addressees and optionally some third persons too.
 
@@ -22,7 +22,7 @@ This feature is only used for pronouns:
 
 * _you, your, yours, yourself, yourselves_
 
-### `3`: third person
+### <a name="3">`3`</a>: third person
 
 The third person refers to one or more persons that are neither speakers nor addressees.
 

@@ -17,14 +17,14 @@ This feature further subclassifies the parts of speech [CCONJ]() and [SCONJ]();
 in Armenian it is used only with `CCONJ`. The main distinction between coordinating and
 subordinating conjunctions is done already at the part-of-speech level.
 
-### `Comp`: comparing conjunction
+### <a name="Comp">`Comp`</a>: comparing conjunction
 
 #### Examples 
 
 * _<b>ոչ միայն</b>... <b>այլ նաև</b>_ “as... than”
 * _<b>եթե</b>... <b>ապա</b>_ “...”
 
-### `Oper`: mathematical operator
+### <a name="Oper">`Oper`</a>: mathematical operator
 
 Note that operators can be expressed either using [symbols](SYM) or using words.
 The words are considered special kind of coordinating conjunctions and they are marked using

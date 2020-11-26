@@ -9,7 +9,7 @@ In Ukrainian, negation is done using the particle _не_ which is most often wri
 
 Note that `Negative=Neg` is not the same thing as [PronType]()`=Neg`. For pronouns and other pronominal parts of speech there is no such binary opposition as for verbs and adjectives. (There is no such thing as “affirmative pronoun”.) 
 
-### Neg: negative
+### <a name="Neg">`Neg`</a>: negative
 
 #### Examples
 

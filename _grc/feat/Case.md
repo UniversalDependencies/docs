@@ -9,15 +9,15 @@ The feature `Case` is used for the following Ancient Greek PoS:
 
 In Ancient Greek we distinguish the following 5 cases:
 
-### `Nom`: nominative  
+### <a name="Nom">`Nom`</a>: nominative  
 
-### `Gen`: genitive
+### <a name="Gen">`Gen`</a>: genitive
 
-### `Dat`: dative
+### <a name="Dat">`Dat`</a>: dative
 
-### `Acc`: accusative
+### <a name="Acc">`Acc`</a>: accusative
 
-### `Voc`: vocative
+### <a name="Voc">`Voc`</a>: vocative
 
 Remants of old cases, such as the locative, are annotated as the corresponding syncretic case or as adverbs. 
 <!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->

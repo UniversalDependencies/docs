@@ -7,7 +7,7 @@ shortdef: 'mood'
 Mood is a feature that expresses modality and subclassifies finite
 [verb](fi-pos/VERB) forms.
 
-### `Ind`: indicative
+### <a name="Ind">`Ind`</a>: indicative
 
 The indicative can be considered the default mood. A verb in
 indicative merely states that something happens, has happened or will
@@ -17,7 +17,7 @@ happen, without adding any attitude of the speaker.
 
 * [fi] _minä <b>sanon</b>_ "I <b>say</b>"
 
-### `Imp`: imperative
+### <a name="Imp">`Imp`</a>: imperative
 
 The speaker uses imperative to order or ask the addressee to do the
 action of the verb.
@@ -26,7 +26,7 @@ action of the verb.
 
 * [fi] _<b>kypsennä</b> uunissa_ "_<b>fry</b> in the oven_"
 
-### Cnd: conditional
+### <a name="Cnd">`Cnd`</a>: conditional
 
 The conditional mood is used to express actions that would have taken
 place under some circumstances but they actually did not / do not
@@ -36,7 +36,7 @@ happen.
 
 * [fi] _<b>tarvistisimme</b> tilaa_ "we <b>would need</b> space"
 
-### Pot: potential
+### <a name="Pot">`Pot`</a>: potential
 
 The action of the verb is likely but not certain.
 

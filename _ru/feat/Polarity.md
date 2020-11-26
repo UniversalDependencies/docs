@@ -19,7 +19,7 @@ Note that `Polaritye=Neg` is not the same thing as
 there is no such binary opposition as for verbs and adjectives. (There
 is no such thing as “affirmative pronoun”.)
 
-### `Pos`: positive, affirmative
+### <a name="Pos">`Pos`</a>: positive, affirmative
 
 #### Examples
 
@@ -28,7 +28,7 @@ is no such thing as “affirmative pronoun”.)
 * _<b>хорошо</b>&nbsp;_ “nicely”
 * _<b>приятие</b>&nbsp;_ “acceptance”
 
-### `Neg`: negative
+### <a name="Neg">`Neg`</a>: negative
 
 #### Examples
 

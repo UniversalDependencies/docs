@@ -8,7 +8,7 @@ shortdef: 'number'
 and [numbers](fi-pos/NUM) as well as of [verbs](u-pos/VERB) and 
 [adjectives](fi-pos/ADJ) that mark agreement with them.
 
-### `Sing`: singular number
+### <a name="Sing">`Sing`</a>: singular number
 
 #### Examples
 
@@ -18,7 +18,7 @@ and [numbers](fi-pos/NUM) as well as of [verbs](u-pos/VERB) and
 * [fi] _käyttää_ "use"
 * [fi] _vaikea_ "difficult"
 
-### `Plur`: plural number
+### <a name="Plur">`Plur`</a>: plural number
 
 #### Examples
 

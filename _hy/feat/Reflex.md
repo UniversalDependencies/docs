@@ -21,7 +21,7 @@ Reflexive possessives indicate that the subject of the clause is the possessor:
 - _Արմենը վաճառել է <b>իր</b> մեքենան։&nbsp;_ “Armen sold <b>his</b> [own] car.”
 - _Արմենը վաճառել է նրա մեքենան։&nbsp;_ “Armen sold his [someone else's] car.”
 
-### `Yes`: it is reflexive
+### <a name="Yes">`Yes`</a>: it is reflexive
 
 Note that there is no `No` value. If the word is not reflexive, the
 `Reflex` feature will just not be mentioned in the `FEAT`

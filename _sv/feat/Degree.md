@@ -6,7 +6,7 @@ shortdef: 'degree of comparison'
 
 Degree of comparison is typically an inflectional feature of some [adjectives](sv-pos/ADJ) and [adverbs](sv-pos/ADV).
 
-### `Pos`: positive, first degree
+### <a name="Pos">`Pos`</a>: positive, first degree
 
 This is the base form that merely states a quality of something, without
 comparing it to qualities of others.
@@ -16,7 +16,7 @@ comparing it to qualities of others.
 * [sv] _<b>vanlig</b> karakteristik_ "normal characteristic"
 * [sv] _<b>naturliga</b> resurser_ "natural resources"
 
-### `Cmp`: comparative, second degree
+### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
 The quality of one thing is compared to the same quality of another.
 
@@ -25,7 +25,7 @@ The quality of one thing is compared to the same quality of another.
 * [sv] _<b>färre</b> barn_ "fewer children"
 * [sv] _att röka <b>mindre</b>_ "to smoke less"
 
-### `Sup`: superlative, third degree
+### <a name="Sup">`Sup`</a>: superlative, third degree
 
 The quality of one thing is compared to the same quality of all other
 things within a set.

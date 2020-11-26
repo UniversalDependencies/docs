@@ -8,7 +8,7 @@ shortdef: 'number'
 other parts of speech ([adjectives](ru-pos/ADJ),
 [verbs](ru-pos/VERB)) that mark agreement with nouns.
 
-### `Sing`: singular number
+### <a name="Sing">`Sing`</a>: singular number
 
 A singular noun denotes one person, animal or thing.
 
@@ -18,7 +18,7 @@ A singular noun denotes one person, animal or thing.
 * _<b>молодая женщина пришла</b>&nbsp;_ “a young woman came”
 * _<b>маленький цыплёнок пришёл</b>&nbsp;_ “a small chicken came”
 
-### `Plur`: plural number
+### <a name="Plur">`Plur`</a>: plural number
 
 A plural noun denotes several persons, animals or things.
 
@@ -28,7 +28,7 @@ A plural noun denotes several persons, animals or things.
 * _<b>молодые женщины пришли</b>&nbsp;_ “young women came”
 * _<b>маленькие цыплята пришли</b>&nbsp;_ “small chickens came”
 
-### `Ptan`: plurale tantum
+### <a name="Ptan">`Ptan`</a>: plurale tantum
 
 Some nouns appear only in the plural form even though they denote one
 thing (semantic singular); some tagsets mark this distinction.
@@ -42,7 +42,7 @@ nouns that are plurale tantum ([NumType]()`=Sets`).
 
 * _<b>ножницы, штаны</b>&nbsp;_ “scissors, pants”
 
-### `Coll`: collective / mass / singulare tantum
+### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
 
 Collective or mass or singulare tantum is a special case of
 singular. It applies to words that use grammatical singular to

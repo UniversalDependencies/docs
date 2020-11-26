@@ -8,7 +8,7 @@ In Turkish [numbers](tr-pos/NUM) can be cardinal, ordinal or distributive.
 We also mark the interrogative _kaç_ "how many" as a number,
 which inflects the same way the numbers are inflected and can become ordinal or distributive.
 
-### `Card`: cardinal number or corresponding interrogative
+### <a name="Card">`Card`</a>: cardinal number or corresponding interrogative
 
 #### Examples
 
@@ -16,7 +16,7 @@ which inflects the same way the numbers are inflected and can become ordinal or 
 * _bir, iki, üç_  "one, two, three"
 * _kaç kitap okudun_ "how many books did your read"
 
-### `Ord`: ordinal number or corresponding interrogative 
+### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative 
 
 In some languages, this is a subtype of adjective or adverb.
 In Turkish, we mark the ordinal numerals as `NUM`.
@@ -30,7 +30,7 @@ A period following a numeral may also indicate ordinal use of the number.
 * _bir<b>inci</b>, iki<b>nci</b>, üç<b>üncü</b>_  "first, second, third"
 * _kaç<b>ıncı</b> kitabı okudun_ "which (of a series) book did your read" (answer should be something like _ikinci_ "(the) second")
 
-### `Dist`: distributive numeral
+### <a name="Dist">`Dist`</a>: distributive numeral
 
 Used to express that the same quantity is distributed to each member in a set of targets.
 

@@ -7,7 +7,7 @@ shortdef: 'pronominal type'
 
 This feature typically applies to [pronouns](u-pos/PRON), [determiners](u-pos/DET), pronominal [numerals](u-pos/NUM) (quantifiers) and pronominal [adverbs](u-pos/ADV).
 
-### `Prs`: personal
+### <a name="Prs">`Prs`</a>: personal
 
 #### Examples
 
@@ -15,7 +15,7 @@ This feature typically applies to [pronouns](u-pos/PRON), [determiners](u-pos/DE
 - _sen_ "you-SG"
 - _siz_ "you-PL"
 
-### `Rcp`: reciprocal pronoun
+### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
 This value covers reciprocal pronoun _birbir-_ and its inflected
 forms.
@@ -25,7 +25,7 @@ forms.
 - _Birbirinize iyi bakın_ "Take care of each other"
 - _Akşamları birbirimize kitap okuruz_ "We read each other books in the evenings"
 
-### `Int`: interrogative pronoun, determiner, numeral or adverb
+### <a name="Int">`Int`</a>: interrogative pronoun, determiner, numeral or adverb
 
 
 #### Examples: 
@@ -35,7 +35,7 @@ forms.
 * _kaç_  "how many"
 * _kimin_  "whose"
 
-### `Dem`: demonstrative pronoun
+### <a name="Dem">`Dem`</a>: demonstrative pronoun
 
 #### Examples: 
 
@@ -43,7 +43,7 @@ forms.
 * _şu_ "that/this"
 * _o_ "that"
 
-### `Loc`: locative pronoun
+### <a name="Loc">`Loc`</a>: locative pronoun
 
 (**Not in UD**)
 

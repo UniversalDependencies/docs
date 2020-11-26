@@ -6,7 +6,7 @@ shortdef: 'number'
 
 In English, `Number` is a feature of [nouns](en-pos/NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](en-pos/PRON), [verbs](en-pos/VERB), and some [determiners](en-pos/DET). 
 
-### `Sing`: singular
+### <a name="Sing">`Sing`</a>: singular
 
 A singular noun denotes one person, animal or thing. Every noun with the PTB tag `NN` or `NNP` is marked with this feature.
 
@@ -33,7 +33,7 @@ Demonstrative determiners of singular nouns and demonstrative pronouns that refe
 
 * _this, that_
 
-### `Plur`: plural
+### <a name="Plur">`Plur`</a>: plural
 
 A plural noun denotes several persons, animals or things. Every noun with the PTB tag `NNS` or `NNPS` is marked with this feature.
 

@@ -17,7 +17,7 @@ from other verb forms or other types of adjectives.
 Bulgarian does not have an infinitive. It distinguishes: finite verbs and non-finite verbs (participles
 and transgressives).
 
-### `Fin`: finite verb
+### <a name="Fin">`Fin`</a>: finite verb
 
 Rule of thumb: if it has non-empty [Mood](), it is finite.
 This features is encoded in the following values as second position in verbal tags: `Vp#` (personal verb); `Vn#` (impersonal verb); `Vx#`, `Vy#` and `Vi#` (auxiliary verbs).
@@ -28,7 +28,7 @@ This features is encoded in the following values as second position in verbal ta
 - Трябва да дойдеш /_Tryabva da doydesh_ "You must come"
 - Прочетох книгата / _Prochetoh knigata_ "I read the book"
 
-### `Part`: participle
+### <a name="Part">`Part`</a>: participle
 
 Participle is a non-finite verb form that shares properties of verbs
 and adjectives. The participle in Bulgarian is encoded as `c` in fifth position of the tag: `V#c#`.
@@ -43,7 +43,7 @@ In Bulgarian there are four types of participles: _present active, past perfecti
 - видян / _vidyan_ "seen" (past passive). BulTreeBank tag: `V#cv#`
 
 
-### `Conv`: converb
+### <a name="Conv">`Conv`</a>: converb
 
 The converb, also called adverbial participle, is a non-finite
 verb form that shares properties of verbs and adverbs. It appears

@@ -6,14 +6,14 @@ shortdef: 'case'
 
 In English, the `Case` feature is only used for some personal [pronouns](en-pos/PRON). Pronouns can be either in the direct or oblique case.
  
-### `Nom`: direct
+### <a name="Nom">`Nom`</a>: direct
 
 The following pronouns are in the direct case:
 
 * _I, you, he, she, it, we, they_
   
 
-### `Acc`: oblique
+### <a name="Acc">`Acc`</a>: oblique
 
 The following pronouns are in the oblique case:
 

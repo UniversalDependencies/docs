@@ -16,7 +16,7 @@ In Bulgarian linguistics there are various theories of Voice distinctions: 2-voi
 
 Here the 2-voice theory is adopted.
 
-### `Act`: active voice
+### <a name="Act">`Act`</a>: active voice
 
 The subject of the verb is the doer of the action (agent), the object
 is affected by the action (pacient).
@@ -27,7 +27,7 @@ is affected by the action (pacient).
 - Децата <b>се засмяха</b>. / _Detsata se zasmyaha_ "The children laughed".
 - Децата <b>се измиха</b>. / _Detsata se izmiha_ "The children washed themselves".
 
-### `Pass`: passive voice
+### <a name="Pass">`Pass`</a>: passive voice
 
 The subject of the verb is affected by the action (patient). The doer
 (agent) is either unexpressed or it appears as an object of the verb.

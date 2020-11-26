@@ -15,7 +15,7 @@ Non-first-hand evidentiality is generally marked the suffix *-mIş*.
 However, in combination with other morphemes,
 *-mIş* does not necessarily mark evidentiality.
 
-### `Fh`: first hand
+### <a name="Fh">`Fh`</a>: first hand
 
 This is the default. 
 The speaker has first-hand evidence for the statement/event.
@@ -29,7 +29,7 @@ The speaker has first-hand evidence for the statement/event.
 * _eve gimeli_ 'she/he has to go home'
 * _eve gimişti_ 'she/he had gone home'
 
-### `Nfh`: non-first hand
+### <a name="Nfh">`Nfh`</a>: non-first hand
 
 The speaker has indirect evidence for the statement.
 

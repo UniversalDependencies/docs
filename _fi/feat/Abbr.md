@@ -10,7 +10,7 @@ Note that UD Finnish does not differentiate between different types of
 shortened forms. In particular, there is no separate feature
 identifying acronyms, which are also marked with `Abbr=Yes`.
 
-### `Yes`: word is abbreviation
+### <a name="Yes">`Yes`</a>: word is abbreviation
 
 Note that there is no `No` value. If the word is not an abbreviation,
 the `Abbr` feature will not appear.

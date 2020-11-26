@@ -6,7 +6,7 @@ shortdef: 'pronominal type'
 
 This is a lexical feature of [pronouns](PRON) and some [determiners](DET).
 
-### `Prs`: personal pronoun or determiner
+### <a name="Prs">`Prs`</a>: personal pronoun or determiner
 
 This feature includes both nominal personal, possessive and reflexive pronouns or determiners.
 
@@ -16,7 +16,7 @@ This feature includes both nominal personal, possessive and reflexive pronouns o
 * _<b>moj</b>_ "my/mine", _<b>tvoj</b>_ "your/yours", _<b>njegov</b>_ "his", _<b>njen</b>_ "her/hers" etc.
 * _<b>se</b>_ "oneself", _<b>svoj</b>_ "one's own"
 
-### `Int`: interrogative pronoun or determiner
+### <a name="Int">`Int`</a>: interrogative pronoun or determiner
 
 #### Examples: 
 
@@ -26,7 +26,7 @@ This feature includes both nominal personal, possessive and reflexive pronouns o
 * _kateri_ “which”
 * _čigav_ “whose”
 
-### `Rel`: relative pronoun or determiner
+### <a name="Rel">`Rel`</a>: relative pronoun or determiner
 
 #### Examples: 
 
@@ -38,7 +38,7 @@ This feature includes both nominal personal, possessive and reflexive pronouns o
 * _kdorkoli_ "anyone"
 * _kakršenkoli_ "any, of any kind"
 
-### `Dem`: demonstrative pronoun or determiner
+### <a name="Dem">`Dem`</a>: demonstrative pronoun or determiner
 
 #### Examples
 
@@ -50,7 +50,7 @@ This feature includes both nominal personal, possessive and reflexive pronouns o
 * _tak_ "such"
 * _tadva_ "these two"
 
-### `Tot`: total (collective) pronoun or determiner
+### <a name="Tot">`Tot`</a>: total (collective) pronoun or determiner
 
 #### Examples
 
@@ -59,7 +59,7 @@ This feature includes both nominal personal, possessive and reflexive pronouns o
 * _vsakdo_ “everyone”* _oba_ "both"
 * _vsakršen_ "any kind"
 
-### `Neg`: negative pronoun, determiner or adverb
+### <a name="Neg">`Neg`</a>: negative pronoun, determiner or adverb
 
 #### Examples
 
@@ -69,7 +69,7 @@ This feature includes both nominal personal, possessive and reflexive pronouns o
 * _nikogaršnji_ “nobody's”
 * _nikak_ “no way”
 
-### `Ind`: indefinite pronoun, determiner, numeral or adverb
+### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner, numeral or adverb
 
 #### Examples
 

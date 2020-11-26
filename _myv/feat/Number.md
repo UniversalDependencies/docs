@@ -9,7 +9,7 @@ udver: '2'
 and [numbers](myv-pos/NUM) as well as of [verbs](u-pos/VERB) and 
 [adjectives](myv-pos/ADJ) that mark agreement with them.
 
-### `Sing`: singular number
+### <a name="Sing">`Sing`</a>: singular number
 
 #### Examples
 
@@ -19,7 +19,7 @@ and [numbers](myv-pos/NUM) as well as of [verbs](u-pos/VERB) and
 * [myv] _сёрмады_ "writes"
 * [myv] _стака_ "difficult"
 
-### `Plur`: plural number
+### <a name="Plur">`Plur`</a>: plural number
 
 #### Examples
 

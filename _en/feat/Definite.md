@@ -6,11 +6,11 @@ shortdef: 'definiteness or state'
 
 In English, the `Definite` feature is marked only on the [determiners](en-pos/DET) _the_, _a_, and _an_. 
 
-### `Ind`: indefinite
+### <a name="Ind">`Ind`</a>: indefinite
 
 * _a, an_
 
-### `Def`: definite
+### <a name="Def">`Def`</a>: definite
 
 * _the_
  

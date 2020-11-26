@@ -8,13 +8,13 @@ shortdef: 'number of possessor'
 [layered feature](/docs/u/overview/feat-layers.html) of
 [nouns](NOUN) and ... (TODO)
 
-### `Sing`: singular
+### <a name="Sing">`Sing`</a>: singular
 
 #### Examples
 
 * [fi] _<b>tekojeni</b> seuraukset_ "the consequences of <b>my actions</b>" (multiple actions, single actor: `Number=Plur`, `Number[psor]=Sing`)
 
-### `Plur`: plural
+### <a name="Plur">`Plur`</a>: plural
 
 #### Examples
 

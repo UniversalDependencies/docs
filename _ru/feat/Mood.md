@@ -7,7 +7,7 @@ shortdef: 'mood'
 Mood is a feature that expresses modality and subclassifies finite
 verb forms.
 
-### `Ind`: indicative
+### <a name="Ind">`Ind`</a>: indicative
 
 The indicative can be considered the default mood. A verb in
 indicative merely states that something happens, has happened or will
@@ -17,7 +17,7 @@ happen, without adding any attitude of the speaker.
 
 * _Ты <b>учишься</b> в университете.&nbsp;_ “<b>You study</b> at the university.”
 
-### `Imp`: imperative
+### <a name="Imp">`Imp`</a>: imperative
 
 The speaker uses imperative to order or ask the addressee to do the
 action of the verb.
@@ -29,7 +29,7 @@ first person plural and second person plural.
 
 * _<b>Учись</b> в университете!&nbsp;_ “<b>Study</b> at the university!”
 
-### `Cnd`: conditional
+### <a name="Cnd">`Cnd`</a>: conditional
 
 The conditional mood is used to express actions that would have taken
 place under some circumstances but they actually did not / do not

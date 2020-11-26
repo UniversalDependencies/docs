@@ -16,7 +16,7 @@ The dichotomy that plays a role here is rather: Human - Non-human.
 With very few exceptions, these features are not encoded grammatically.
 At this point we consider dangerous to use `Hum: human`.
 
-### Anim: animate
+### <a name="Anim">`Anim`</a>: animate
 
 As explicitly Animate can be considered the following pronouns:
 
@@ -26,13 +26,13 @@ _Pie-as-m_ (interrogative - _кого_ /_kogo_ "whom"), _Pfe-as-m_ (indefinite -
 - the 1st and 2nd personal and possessive pronouns: _Ppe#1_ (_аз, ние_ / _az, nie_ "I, we"), _Ppe#2_ (_ти, вие_ / _ti, vie_ "you, you"), _Pph#2_ (_Вие_ / _Vie_ "you-honorific");
 _Ps#1#_ (_мой_ / _moy_ "my"), _Ps#2#_ (_твой_ / _tvoy_ "your")
 
-### Nhum: animate but non-human
+### <a name="Nhum">`Nhum`</a>: animate but non-human
 
 It has the so-called `count form` in contrast to the humans, but only for masculine nouns. The `count form` is a kind of plural, which comes after numerals.
 
 - _два лъва_ / _dva lava_ "two lions"
 
-### Inan: inanimate
+### <a name="Inan">`Inan`</a>: inanimate
 
 It has also the so-called `count form` in contrast to the humans, but only for masculine nouns. The `count form` is a kind of plural, which comes after numerals.
 

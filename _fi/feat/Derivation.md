@@ -9,7 +9,7 @@ shortdef: 'derivation'
 Language-specific feature identifying the form of derivation applied
 to a word.
 
-### `Minen`: derivation with suffix -minen
+### <a name="Minen">`Minen`</a>: derivation with suffix -minen
 
 Produces noun.
 
@@ -21,7 +21,7 @@ Produces noun.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=221> (in Finnish)
 
-### `Sti`: derivation with suffix -sti
+### <a name="Sti">`Sti`</a>: derivation with suffix -sti
 
 Produces adverb.
 
@@ -33,7 +33,7 @@ Produces adverb.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=371> (in Finnish)
 
-### `Inen`: derivation with suffix -inen
+### <a name="Inen">`Inen`</a>: derivation with suffix -inen
 
 Produces adjective.
 
@@ -45,7 +45,7 @@ Produces adjective.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=261> (in Finnish)
 
-### `Lainen`: derivation with suffix -lainen
+### <a name="Lainen">`Lainen`</a>: derivation with suffix -lainen
 
 Produces noun.
 
@@ -57,7 +57,7 @@ Produces noun.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=190> (in Finnish)
 
-### `Ja`: derivation with suffix -ja
+### <a name="Ja">`Ja`</a>: derivation with suffix -ja
 
 Produces noun.
 
@@ -69,7 +69,7 @@ Produces noun.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=252> (in Finnish)
 
-### `Ton`: derivation with suffix -ton
+### <a name="Ton">`Ton`</a>: derivation with suffix -ton
 
 Produces adjective.
 
@@ -81,7 +81,7 @@ Produces adjective.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=292> (in Finnish)
 
-### `Vs`: derivation with suffix -vs
+### <a name="Vs">`Vs`</a>: derivation with suffix -vs
 
 Produces noun
 
@@ -93,7 +93,7 @@ Produces noun
 
 * <TODO> (in Finnish)
 
-### `Llinen`: derivation with suffix -llinen
+### <a name="Llinen">`Llinen`</a>: derivation with suffix -llinen
 
 Produces adjective.
 
@@ -105,7 +105,7 @@ Produces adjective.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=276> (in Finnish)
 
-### `Ttain`: derivation with suffix -ttain
+### <a name="Ttain">`Ttain`</a>: derivation with suffix -ttain
 
 Produces adverb.
 
@@ -117,7 +117,7 @@ Produces adverb.
 
 * <TODO> (in Finnish)
 
-### `U`: derivation with suffix -u
+### <a name="U">`U`</a>: derivation with suffix -u
 
 Produces noun.
 
@@ -129,7 +129,7 @@ Produces noun.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=221> (in Finnish)
 
-### `Ttaa`: derivation with suffix -ttaa
+### <a name="Ttaa">`Ttaa`</a>: derivation with suffix -ttaa
 
 Produces verb.
 
@@ -141,7 +141,7 @@ Produces verb.
 
 * TODO (in Finnish)
 
-### `Tar`: derivation with suffix -tar
+### <a name="Tar">`Tar`</a>: derivation with suffix -tar
 
 Produces noun.
 

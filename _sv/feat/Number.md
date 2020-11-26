@@ -6,7 +6,7 @@ shortdef: 'number'
 
 `Number` in Swedish is a feature of [nouns](sv-pos/NOUN), [pronouns](sv-pos/PRON), [adjectives](sv-pos/ADJ) and [determiners](sv-pos/DET).
 
-### `Sing`: singular number
+### <a name="Sing">`Sing`</a>: singular number
 
 #### Examples
 
@@ -15,7 +15,7 @@ shortdef: 'number'
 * [sv] _traditionell_ "traditional"
 * [sv] _vägen_ "the road"
 
-### `Plur`: plural number
+### <a name="Plur">`Plur`</a>: plural number
 
 #### Examples
 

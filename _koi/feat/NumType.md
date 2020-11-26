@@ -4,19 +4,19 @@ title: 'NumType'
 shortdef: 'numeral type'
 ---
 
-### `Card`: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Card">`Card`</a>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
 #### Examples
 
 * [koi] _ӧтик, кык, куим_ "_one, two, three_"
 
-### `Dist`: distributive number is produced by adding what otherwise would be the instrumental case.
+### <a name="Dist">`Dist`</a>: distributive number is produced by adding what otherwise would be the instrumental case.
 
 #### Examples
 
 * [koi] _кыкӧн, куимӧн, нёльӧн_ "_two at a time, three at time, four at a time_"
 
-### `Ord`: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word. There are two different endings: -ӧт, -ӧдз.
+### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word. There are two different endings: -ӧт, -ӧдз.
 
 This is a subtype of adjective or (in some languages) of adverb.
 
@@ -24,7 +24,7 @@ This is a subtype of adjective or (in some languages) of adverb.
 
 * [koi] _медодзза, коймӧт, витӧт, витӧдз_ "_first, third, fifth, fifth_"
 
-### `Mult`: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Mult">`Mult`</a>: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
 
 This is subtype of adverb.
 
@@ -33,7 +33,7 @@ This is subtype of adverb.
 * [koi] _ӧтпырись, кыкись, куимись_ "_once, twice, thrice_"
 
 
-### `OrdMult`: ordinal multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="OrdMult">`OrdMult`</a>: ordinal multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
 
 This is a subtype of adverb, but in Komi-Permyak it is a regular inflection of virtually any whole number.
 
@@ -41,7 +41,7 @@ This is a subtype of adverb, but in Komi-Permyak it is a regular inflection of v
 
 * [koi] _куимӧтісь, нёльӧтісь, витӧтісь_ "_for the third time, for the fourth time, for the fifth time_"
 
-### `MultDist`: multiplicative distributive numeral or corresponding interrogative / relative / indefinite word
+### <a name="MultDist">`MultDist`</a>: multiplicative distributive numeral or corresponding interrogative / relative / indefinite word
 
 This is a subtype of adverb but in Komi-Permyak it is a regular inflection of virtually any whole number.
 

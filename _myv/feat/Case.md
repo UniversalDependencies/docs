@@ -5,7 +5,7 @@ shortdef: 'case'
 udver: '2'
 ---
 
-### `Nom`: nominative
+### <a name="Nom">`Nom`</a>: nominative
 
 The base form, typically used as a citation form (lemma).
 The nominative form is used in the morphosyntactic funtion of subject and predicate. While the definite declension usually indicates topic (subject) function, the indefinite declension often appears in presentation of new information, such as in existential sentences. Possessor indexing on the nominative allows for both interpretations.
@@ -20,7 +20,7 @@ The indefinite nominative singular and plural are used as indefinite object form
 * [myv] _монь од <b>псакам</b>_ "I have a new <b>cat</b>"
 * [myv] _<b>кискась</b> чийни_ "<b>the dog</b> is running around"
 
-### `Gen`: genitive
+### <a name="Gen">`Gen`</a>: genitive
 
 The genitive in Erzya indicates the possessor. It is also one of the morphological markers for direct object and adpositional complement.
 In the indefinite declension the genitive, when attached to words with material source or origin referents, the resulting form is considered by many grammarians as an adjectival derivation form. 
@@ -32,7 +32,7 @@ In the indefinite declension the genitive, when attached to words with material 
 * [myv] _андынек <b>кисканть</b>_ "we fed <b>the dog</b>" 
 * [myv] _кискась пансь <b>псаканть</b> мельга_ "the dog chased after <b>the cat</b>" 
 
-### `Abl`: ablative
+### <a name="Abl">`Abl`</a>: ablative
 
 In Erzya the ablative case is used to  express (1)  standard of comparison, (2) theme of discussion, (3)  manipulation point of the direct object, (4) in quantification of the object with verbs of `consumption` eat, drink and breath, (5) beginning of path...
 

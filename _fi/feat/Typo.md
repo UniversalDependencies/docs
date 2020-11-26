@@ -7,7 +7,7 @@ shortdef: 'misspelled'
 Boolean feature marking a word as involving misspelling, grammatical
 error, etc.
 
-### Yes: word has typo
+### <a name="Yes">`Yes`</a>: word has typo
 
 #### Examples
 

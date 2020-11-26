@@ -6,7 +6,7 @@ shortdef: 'possessive'
 
 In English, `Poss` is a Boolean feature of [pronouns](en-pos/PRON). It tells whether the word is possessive.
 
-### `Yes`: it is possesive
+### <a name="Yes">`Yes`</a>: it is possesive
 
 The following English pronouns have this feature:
 

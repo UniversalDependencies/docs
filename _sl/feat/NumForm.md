@@ -6,21 +6,21 @@ shortdef: 'numeral form'
 
 `NumForm` is a lexical feature of [numerals](NUM) that marks whether the number is expressed by digits or letters.
 
-### Word: number expressed as word
+### <a name="Word">`Word`</a>: number expressed as word
 
 #### Examples
 
 * _en_ “one”, _dva_ “two”, _tri_ “three”
 * _enoj_ "one-fold", _dvoj_ "two-fold", _troj_ "three-fold"
 
-### Digit: number expressed using digits
+### <a name="Digit">`Digit`</a>: number expressed using digits
 
 #### Examples
 
 * _1, 2, 3_
 * _1., 2., 3._
 
-### Roman: roman numeral
+### <a name="Roman">`Roman`</a>: roman numeral
 
 #### Examples
 

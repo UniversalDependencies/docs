@@ -8,7 +8,7 @@ shortdef: 'number'
 [adjectives](u-pos/ADJ), [determiners](u-pos/DET), [numerals](u-pos/NUM),
 [verbs](u-pos/VERB)) that mark agreement with nouns.
 
-### `Sing`: singular number
+### <a name="Sing">`Sing`</a>: singular number
 
 A singular expression denotes one person, animal or thing.
 
@@ -20,7 +20,7 @@ A singular expression denotes one person, animal or thing.
   
 
 
-### `Plur`: plural number
+### <a name="Plur">`Plur`</a>: plural number
 
 A plural expression denotes several persons, animals or things.
 
@@ -30,7 +30,7 @@ A plural expression denotes several persons, animals or things.
  _<b>meus carros bonitos parados</b>_
    _<b>estes carros quebrados</b>_
   
-### `Unsp`: unspecified
+### <a name="Unsp">`Unsp`</a>: unspecified
 
 `Unsp` is used to tag words that can be singular or plural when the context is not enough to make clear its number.
 

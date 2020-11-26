@@ -8,7 +8,7 @@ shortdef: 'animacy'
 
 Similarly to [Gender](), animacy is a lexical feature of [nouns](uk-pos/NOUN) and inflectional feature of other parts of speech that mark agreement with nouns. It is independent of gender, therefore it is encoded separately in most tagsets (e.g. all the Multext-East tagsets).
 
-### `Anim`: animate
+### <a name="Anim">`Anim`</a>: animate
 
 Human beings, animals, fictional characters, names of professions etc. are all animate. Even nouns that are normally inanimate can be
 inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as animates.
@@ -17,7 +17,7 @@ Examples of animate nouns:
 
 - _чоловік&nbsp;_ “man”, _кіт&nbsp;_ “cat”, _дитина&nbsp;_ “child”, _комаха&nbsp;_ “insect”
 
-### `Inan`: inanimate
+### <a name="Inan">`Inan`</a>: inanimate
 
 Nouns that are not animate are inanimate.
 

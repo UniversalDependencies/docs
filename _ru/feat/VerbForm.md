@@ -10,7 +10,7 @@ The `Part` value can be used also with [adjectives](ru-pos/ADJ).
 It distinguishes participles from other verb forms,
 and participial adjectives from other adjectives.
 
-### `Fin`: finite verb
+### <a name="Fin">`Fin`</a>: finite verb
 
 Rule of thumb: if it has non-empty [Mood](), it is finite.
 In Russian this applies to indicative and imperative forms,
@@ -23,7 +23,7 @@ and to the special conditional forms of the [auxiliary verb](ru-pos/AUX) _быт
 - _буду, будешь, будет, будем, будете, будут_ &nbsp;“I will be, you will be, he/she/it will be, we will be, you will be, they will be”
 - _будь, будьте_ &nbsp;“be” (imperative in different persons and numbers)
 
-### `Inf`: infinitive
+### <a name="Inf">`Inf`</a>: infinitive
 
 Infinitive is the citation form of verbs.
 It is also used with the auxiliary _быть&nbsp;_ to form periphrastic future tense,
@@ -34,7 +34,7 @@ and it appears as the argument of modal and other verbs.
 - _нести_ &nbsp;“to carry”
 - _быть_ &nbsp;“to be”
 
-### `Part`: participle
+### <a name="Part">`Part`</a>: participle
 
 Participle is a non-finite verb form that shares properties of verbs
 and adjectives. Russian has two types of participles:
@@ -51,7 +51,7 @@ Participles inflect for [Gender]() and [Number]() but not for [Person]().
 - _пишущий, пишущая, пишущее, пишущие_ &nbsp;“writing” 
 - _писаный, писаная, писаное, писаные_ &nbsp;“carried” 
 
-### `Trans`: transgressive
+### <a name="Trans">`Trans`</a>: transgressive
 
 The transgressive, also called adverbial participle, is a non-finite
 verb form that shares properties of verbs and adverbs.

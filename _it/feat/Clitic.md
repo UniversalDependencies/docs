@@ -7,7 +7,7 @@ udver: '2'
 
 Boolean feature of [pronouns](u-pos/PRON). It tells whether the pronoun is a clitic.
 
-### `Yes`: it is clitic
+### <a name="Yes">`Yes`</a>: it is clitic
 
 Clitic personal pronouns: _ci, gli, le, li, lo, mi, me, ne, se, si, te, ti, ve, vi_.
 
