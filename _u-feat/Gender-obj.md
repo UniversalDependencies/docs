@@ -1,12 +1,17 @@
 ---
 layout: feature
-title: 'ErgDatGender'
-shortdef: 'gender agreement with ergative/dative argument'
+title: 'Gender[obj]'
+shortdef: 'gender agreement with object'
+udver: '2'
 ---
 
-## Gender[erg], Gender[dat]
+## Gender[obj]
 
 Finite verbs in many Indo-European languages agree in person and number with their subject.
+Some languages in other families are head-marking, which means that the verbal morphology can cross-reference
+multiple core arguments, not just the subject. If the cross-reference involves the `Gender` of the argument,
+we have two layers of `Gender` on the verb: `Gender[subj]`, and (for transitive verbs) `Gender[obj]`.
+
 In Basque (a <a href="http://en.wikipedia.org/wiki/Polypersonal_agreement">polypersonal language</a>),
 certain verbs overtly mark agreement with up to three arguments:
 one in the absolutive [case](u-feat/Case),
@@ -25,12 +30,12 @@ although [gender](u-feat/Gender) is otherwise not distinguished in Basque.
 * `Gender[erg]` is the gender of the ergative argument of the verb. The corresponding feature in Interset 2.041 is called `erggender`.
 * `Gender[dat]` is the gender of the dative argument of the verb. The corresponding feature in Interset 2.041 is called `datgender`.
 
-### Masc: masculine gender
+### <a name="Masc">`Masc`</a>: masculine object
 
 Examples: [eu] _ukan <b>ezak</b>_ “have it” `Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf`
 (imperative addressing a man)
 
-### Fem: feminine gender
+### <a name="Fem">`Fem`</a>: feminine object
 
 Examples: [eu] _ukan <b>ezan</b>_ “have it” `Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf`
 (imperative addressing a woman)

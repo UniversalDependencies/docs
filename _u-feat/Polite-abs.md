@@ -1,10 +1,11 @@
 ---
 layout: feature
-title: 'AbsErgDatPolite'
-shortdef: 'politeness agreement with absolutive/ergative/dative argument'
+title: 'Polite[abs]'
+shortdef: 'politeness agreement with absolutive argument'
+udver: '2'
 ---
 
-## Polite[abs], Polite[erg], Polite[dat]
+## Polite[abs]
 
 Finite verbs in many Indo-European languages agree in person and number with their subject;
 for the second person this also affects the politeness register.
@@ -30,11 +31,11 @@ First, the absolutive argument is not always the subject. For transitive verbs, 
 Second, we cannot avoid `Number[abs]` (both `Number` and `Number[abs]` can occur at one word)
 and thus we keep `Polite[abs]` to demonstrate that it is the same layer of agreement for both the features.
 
-### Inf: informal
+### <a name="Infm">`Infm`</a>: informal absolutive argument
 
 Examples: [eu] _ezan, ezak_ `Polite[erg]=Inf`
 
-### Pol: polite, formal
+### <a name="Form">`Form`</a>: polite, formal absolutive argument
 
 Examples: [eu] _ezazu_ `Polite[erg]=Pol` (politeness-neutral form is _ezazue_)
 <!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->

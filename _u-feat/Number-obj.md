@@ -1,12 +1,17 @@
 ---
 layout: feature
-title: 'AbsErgDatNumber'
-shortdef: 'number agreement with absolutive/ergative/dative argument'
+title: 'Number[obj]'
+shortdef: 'number agreement with object'
+udver: '2'
 ---
 
-## Number[abs], Number[erg], Number[dat]
+## Number[obj]
 
 Finite verbs in many Indo-European languages agree in person and [number](u-feat/Number) with their subject.
+Some languages in other families are head-marking, which means that the verbal morphology can cross-reference
+multiple core arguments, not just the subject. If the cross-reference involves the `Number` of the argument,
+we have two layers of `Number` on the verb: `Number[subj]`, and (for transitive verbs) `Number[obj]`.
+
 In Basque (a <a href="http://en.wikipedia.org/wiki/Polypersonal_agreement">polypersonal language</a>),
 certain verbs overtly mark agreement with up to three arguments:
 one in the absolutive [case](u-feat/Case),
@@ -37,11 +42,11 @@ So we reserve the `Number` feature for nominal inflection, and the `Number[abs]`
 Note that we also define `Person[abs]` and `Polite[abs]`, although there is no direct conflict for these features.
 But it is better to have these features aligned with `Person[erg]`, `Polite[erg]`, `Person[dat]` and `Polite[dat]`.
 
-### Sing: singular
+### <a name="Sing">`Sing`</a>: singular object
 
 Examples: [eu] _<b>d</b>akarki<b>o</b>gu_ `Number[abs]=Sing|Number[dat]=Sing`
 
-### Plur: plural
+### <a name="Plur">`Plur`</a>: plural object
 
 Examples: [eu] _dakarkio<b>gu</b>_ `Number[erg]=Plur`
 <!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->

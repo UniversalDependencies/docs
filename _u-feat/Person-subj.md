@@ -1,12 +1,19 @@
 ---
 layout: feature
-title: 'AbsErgDatPerson'
-shortdef: 'person agreement with absolutive/ergative/dative argument'
+title: 'Person[subj]'
+shortdef: 'person agreement with subject'
+udver: '2'
 ---
 
-## Person[abs], Person[erg], Person[dat]
+## Person[subj]
 
 Finite verbs in many Indo-European languages agree in [person](u-feat/Person) and number with their subject.
+Some languages in other families are head-marking, which means that the verbal morphology can cross-reference
+multiple core arguments, not just the subject. If the cross-reference involves the `Person` of the argument,
+we have two layers of `Person` on the verb: `Person[subj]`, and (for transitive verbs) `Person[obj]`.
+While it would be possible to make the subject layer the default and use just `Person` for it,
+the explicit labeling of both layers is probably more helpful in such languages, as it can reduce confusion.
+
 In Basque (a <a href="http://en.wikipedia.org/wiki/Polypersonal_agreement">polypersonal language</a>),
 certain verbs overtly mark agreement with up to three arguments:
 one in the absolutive [case](u-feat/Case),
@@ -29,15 +36,15 @@ First, the absolutive argument is not always the subject. For transitive verbs, 
 Second, we cannot avoid `Number[abs]` (both `Number` and `Number[abs]` can occur at one word)
 and thus we keep `Person[abs]` to demonstrate that it is the same layer of agreement for both the features.
 
-### 1: first person
+### <a name="1">`1`</a>: first person subject
 
 Examples: [eu] _dakarkio<b>gu</b>_ `Person[erg]=1`
 
-### 2: second person
+### <a name="2">`2`</a>: second person subject
 
 Examples: [eu] _dakarkio<b>zu</b>_ `Person[erg]=2`
 
-### 3: third person
+### <a name="3">`3`</a>: third person subject
 
 Examples: [eu] _<b>d</b>akarki<b>o</b>gu_ `Person[abs]=3|Person[dat]=3`
 <!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->
