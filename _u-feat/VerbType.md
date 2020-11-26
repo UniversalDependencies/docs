@@ -2,28 +2,35 @@
 layout: feature
 title: 'VerbType'
 shortdef: 'verb type'
+udver: '2'
 ---
 
 We already split auxiliary and non-auxiliary verbs at the level of POS
 tags but some tagsets mark other distinctions.
 
-### Aux: auxiliary verb
+### <a name="Aux">`Aux`</a>: auxiliary verb
 
 Verb used to create periphrastic verb forms (tenses, passives etc.) In
 many languages there will be ambiguity between auxiliary and other
 usages, thus the same verb should get different tags or feature values
 depending on context.
 
-### Cop: copula verb
+#### Examples
+
+* [af] _Dit <b>het</b> tot 'n verenigde staat gelei._ “This has led to a united state.”
+
+### <a name="Cop">`Cop`</a>: copula verb
 
 Verb used to make nominal predicates from adjectives, nouns or
 participles. Some languages omit the copula or use other means to
 create nominal predicates. In languages that have copula, it is often
-the equivalent of the verbs "to be" or "to become".
+the equivalent of the verb “to be”.
 
-Examples: It *is* purple. He just *became* father.
+#### Examples
 
-### Mod: modal verb
+* [en] _It <b>is</b> purple._
+
+### <a name="Mod">`Mod`</a>: modal verb
 
 A group of verbs traditionally distinguished in grammars of some
 languages. They take infinitive of another verb as argument (with or
@@ -37,13 +44,14 @@ closed and can be enumerated.
 Note that some languages (e.g. Turkish) use special forms of the main
 verb instead of combining it with a modal verb.
 
-German examples: dürfen (may), können (can), mögen (want/like to),
-müssen (must), sollen (shall), wollen (want to), wissen (know to)
+#### Examples
 
-Czech examples: muset (must), mít (shall, have to), moci (can), smět
-(may, be allowed to), umět (know to), chtít (want to)
+* [de] _dürfen_ (may), _können_ (can), _mögen_ (want/like to),
+  _müssen_ (must), _sollen_ (shall), _wollen_ (want to), _wissen_ (know how to)
+* [cs] _muset_ (must), _mít_ (shall, have to), _moci_ (can), _smět_
+  (may, be allowed to), _umět_ (know how to), _chtít_ (want to)
 
-### Light: light (support) verb
+### <a name="Light">`Light`</a>: light (support) verb
 
 Light or support verb is used in verbo-nominal constructions where the main
 part of the meaning is contributed by a noun complement.
@@ -54,5 +62,8 @@ If the light verb constructions are used frequently in a language (e.g. Hindi or
 if there is a dedicated light verb that cannot be used as normal verb,
 it makes sense to mark light verbs with a dedicated feature value.
 
-Japanese example: suru
+#### Examples
+
+* [ja] <b>する</b> / _<b>suru</b>_ “do”
+
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
