@@ -11,34 +11,36 @@ many other languages if their tagsets cared to cover them. Note that
 the "prontype" feature also applies to some adverbs and is orthogonal
 to "AdvType".
 
-### <a name="Man">`Man`</a>: adverb of manner ("how")
+### <a name="Man">`Man`</a>: adverb of manner
 
 #### Examples
 
 * [en] _<b>how, so</b>_
 
-### <a name="Loc">`Loc`</a>: adverb of location ("where, where to, where from")
+### <a name="Loc">`Loc`</a>: adverb of location
 
 #### Examples
 
 * [en] _<b>where, here, there</b>_
+* [cs] _<b>kde</b>_ “where”, _<b>odkud</b>_ “from where”, _<b>kudy</b>_ “through where”, _<b>kam</b>_ “where to”
 
-### <a name="Tim">`Tim`</a>: adverb of time ("when, since when, till when")
+### <a name="Tim">`Tim`</a>: adverb of time
 
 #### Examples
 
 * [en] _<b>when, now, then</b>_
+* [cs] _<b>kdy</b>_ “when”, _<b>odkdy</b>_ “since when”, _<b>dokdy</b>_ “till when”
 
-### <a name="Deg">`Deg`</a>: adverb of quantity or degree ("how much")
+### <a name="Deg">`Deg`</a>: adverb of quantity or degree
 
 Note that there is a fuzzy borderline between adverbs of degree and
 indefinite numerals (as they are called in some grammars).
 
 #### Examples
 
-* [cs] _<b>více, méně</b>_ "more, less"
+* [cs] _<b>více, méně</b>_ “more, less”
 
-### <a name="Cau">`Cau`</a>: adverb of cause ("why")
+### <a name="Cau">`Cau`</a>: adverb of cause
 
 #### Examples
 
