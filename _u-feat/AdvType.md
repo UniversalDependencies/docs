@@ -57,7 +57,7 @@ native tagset also calles it "modal".
 #### Examples
 
 * [bg] _<b>апропо</b>_
-* [cs] _<b>možno<b>_ “possible”, _<b>nutno</b>_ “necessary”, _<b>radno</b>_ “adviseable”, _<b>třeba</b>_ “necessary”
+* [cs] _<b>možno</b>_ “possible”, _<b>nutno</b>_ “necessary”, _<b>radno</b>_ “adviseable”, _<b>třeba</b>_ “necessary”
 
 ### <a name="Sta">`Sta`</a>: adverb of state
 
