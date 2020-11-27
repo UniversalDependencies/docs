@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Fem">Fem</a></td>
   <td><a href="#Masc">Masc</a></td>
+  <td><a href="#Neut">Neut</a></td>
 </tr>
 </table>
 
