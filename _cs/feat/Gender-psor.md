@@ -38,4 +38,14 @@ one of _-in, -ina, -ino._
 * _<b>matčin syn</b>_ “mother's son” `Gender[psor]=Fem|Gender=Masc`
 * _<b>matčina dcera</b>_ “mother's daughter” `Gender[psor]=Fem|Gender=Fem`
 * _<b>matčino dítě</b>_ “mother's child” `Gender[psor]=Fem|Gender=Neut`
+
+### <a name="Neut">`Neut`</a>: neuter possessor
+
+Neuter possessor is only possible with possessive pronouns and it is
+always ambiguous with masculine.
+
+#### Examples
+
+* _Dítě plakalo, protože někdo odnesl <b>jeho</b> hračku._ “The child wept because somebody took away <b>its</b> (=the child's) toy.”
+
 <!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->
