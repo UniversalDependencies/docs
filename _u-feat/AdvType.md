@@ -59,15 +59,4 @@ native tagset also calles it "modal".
 * [bg] _<b>апропо</b>_
 * [cs] _<b>možno</b>_ “possible”, _<b>nutno</b>_ “necessary”, _<b>radno</b>_ “adviseable”, _<b>třeba</b>_ “necessary”
 
-### <a name="Sta">`Sta`</a>: adverb of state
-
-Note that while the English translations of the Czech examples below
-might hint that they are adjectives, morphologically and syntactically
-they are adverbs (and some of them ambiguous with nouns).
-
-#### Examples
-
-* [cs] _plno_ "full", _zima_ "cold", _chyba_ "wrong", _škoda_ "pity",
-_volno_ "available", _nanic_ "no good"
-
 <!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->
