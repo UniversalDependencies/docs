@@ -1,11 +1,11 @@
 ---
 layout: feature
-title: 'Gender[erg]'
-shortdef: 'gender agreement with the ergative argument'
+title: 'Gender[dat]'
+shortdef: 'gender agreement with the dative argument'
 udver: '2'
 ---
 
-## Gender[erg]
+## Gender[dat]
 
 Finite verbs in many Indo-European languages agree in person and number with their subject.
 Some languages in other families are head-marking, which means that the verbal morphology can cross-reference
@@ -29,13 +29,13 @@ although [gender](u-feat/Gender) is otherwise not distinguished in Basque.
 * `Gender[erg]` is the gender of the ergative argument of the verb.
 * `Gender[dat]` is the gender of the dative argument of the verb.
 
-### <a name="Masc">`Masc`</a>: masculine ergative argument
+### <a name="Masc">`Masc`</a>: masculine dative argument
 
 #### Examples
 
 * [eu] _ukan <b>ezak</b>_ “have it” `Gender[erg]=Masc | Number[abs]=Sing | Number[erg]=Sing | Person[abs]=3 | Person[erg]=2 | Polite[erg]=Inf` (imperative addressing a man)
 
-### <a name="Fem">`Fem`</a>: feminine ergative argument
+### <a name="Fem">`Fem`</a>: feminine dative argument
 
 #### Examples
 
