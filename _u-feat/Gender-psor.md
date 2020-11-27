@@ -5,6 +5,15 @@ shortdef: 'possessor’s gender'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Fem">Fem</a></td>
+  <td><a href="#Masc">Masc</a></td>
+  <td><a href="#Neut">Neut</a></td>
+</tr>
+</table>
+
 Possessive
 adjectives and pronouns may have two different genders: that of the
 possessed object (gender agreement with modified noun) and that of
@@ -19,8 +28,9 @@ and the feminine `Gender[psor]` implies using one of <I>-</I><I>in,
 
 ### <a name="Masc">`Masc`</a>: masculine possessor
 
-Examples:
-[cs]
+#### Examples
+
+* [cs]
 <span style='color: red'><I>otcův
 syn</I></span>
 (father's
@@ -36,8 +46,9 @@ child; PossGender=Masc|Gender=Neut).
 
 ### <a name="Fem">`Fem`</a>: feminine possessor
 
-Examples:
-[cs]
+#### Examples
+
+* [cs]
 <span style='color: red'><I>m</I></span><span style='color: red'><I>atčin
 syn</I></span>
 (mother's
@@ -50,4 +61,11 @@ daughter; PossGender=Fem|Gender=Fem);
 dítě</I></span>
 (mother's
 child; PossGender=Fem|Gender=Neut).
+
+### <a name="Neut">`Neut`</a>: neuter possessor
+
+#### Examples
+
+* [cs] _Dítě plakalo, protože někdo odnesl <b>jeho</b> hračku._ “The child wept because somebody took away <b>its</b> (=the child's) toy.”
+
 <!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->
