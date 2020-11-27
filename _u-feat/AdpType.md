@@ -31,8 +31,7 @@ has to be changed in some contexts to facilitate pronunciation.
 #### Examples
 
 * [cs] _<b>ke</b>, <b>ku</b>, <b>se</b>, <b>ve</b>, <b>ze</b>_
-
-(Non-vocalized equivalents are: _k, k, s, v, z_)
+* [cs] _k, k, s, v, z_ are the non-vocalized equivalents
 
 Same phenomenon exists in Slovak, Russian and probably elsewhere.
 
