@@ -71,8 +71,8 @@ obvious semantic reason for that.
 
 #### Examples
 
-* [cs] _<b>malí kluci</b>_ "small boys"
-* [cs] _<b>malí psi</b>_ "small dogs"
+* [cs] _<b>malí kluci</b>_ “small boys”
+* [cs] _<b>malí psi</b>_ “small dogs”
 
 ### <a name="Inan">`Inan`</a>: inanimate
 
@@ -80,8 +80,8 @@ Nouns that are not animate are inanimate.
 
 #### Examples
 
-* [cs] _<b>malé domy</b>_ "small houses"
-* [pl] _<b>małe domy</b>_ "small houses"
+* [cs] _<b>malé domy</b>_ “small houses”
+* [pl] _<b>małe domy</b>_ “small houses”
 
 ### <a name="Hum">`Hum`</a>: human
 
@@ -91,7 +91,7 @@ but belong to it grammatically.
 
 #### Examples
 
-* [pl] _<b>mali chłopcy</b>_ "small boys"
+* [pl] _<b>mali chłopcy</b>_ “small boys”
 
 ### <a name="Nhum">`Nhum`</a>: non-human
 
@@ -102,6 +102,6 @@ is used for inanimates.
 
 #### Examples
 
-* [pl] _<b>małe psy</b>_ "small dogs"
+* [pl] _<b>małe psy</b>_ “small dogs”
 
 <!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->
