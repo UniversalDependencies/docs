@@ -397,6 +397,13 @@ file `data/tokens_w_space.ud` and its language-specific variants `data/tokens_w_
 these files, each line is a [Python regular expression](https://docs.python.org/3/library/re.html)
 defining the permissible forms and lemmas that can contain a whitespace.
 
+Since release 2.8, the validator also checks that language-specific feature values
+[have been properly documented](contributing_language_specific.html). It is thus not enough to list
+a Finnish-specific feature in `data/feat_val.fi`. You must also document the feature and all
+its values in the `docs` repository in `_fi/feat/FeatureName.md`. If the file does not exist
+or if it does not follow the prescribed format, the validator will not accept the feature
+in the data.
+
 The validator also checks that certain closed classes (currently auxiliaries and copula) appear
 only with documented lemmas. Since release 2.7, auxiliaries can be [defined at the on-line validation
 site](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_auxiliary.pl).
