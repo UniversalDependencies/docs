@@ -419,13 +419,13 @@ tool. They may reveal configurations that are not necessarily invalid but are su
 
 # Language-specific guidelines
 
-Every language should have a set of language-specific guidelines at http://universaldependencies.org/.
+Every language should have a set of language-specific guidelines at [http://universaldependencies.org/](http://universaldependencies.org/).
 If there are multiple UD treebanks in one language, all should follow the same language-specific
 guidelines. It is common responsibility of the teams providing the treebanks to also provide the
 language-specific documentation.
 
-There are <a href="contributing_language_specific.html">guidelines specifying the requirements on
-language-specific documentation.</a> Also see the general guidelines about
+There are [guidelines specifying the requirements on
+language-specific documentation.](contributing_language_specific.html) Also see the general guidelines about
 [how to contribute](contributing.html) (which covers the conventions used in writing UD
 documentation, such as how to format examples).
 

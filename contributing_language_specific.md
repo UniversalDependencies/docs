@@ -16,8 +16,10 @@ by a statistical model) should go to the README file in the treebank repository.
 (Note that portions of the README files are automatically copied to the UD website, as described in the
 [release checklist](release_checklist.html#the-readme-file).)
 
-All languages should have a one-page summary of language-specific features and annotation solutions to certain phenomena that cannot
-be specified universally. There is a template for the page (see below).
+All languages should have a one-page summary of annotation solutions to language-specific phenomena
+that cannot be specified universally. There is a template for the page (see below).
+If a language uses language-specific morphological features or dependency relation subtypes,
+these must be documented on separate pages, following a prescribed format (see below).
 Some languages also have a full mirror of the universal documentation of all tags, features and relations.
 Such a mirror is no longer expected and templates for these pages are not generated.
 Nevertheless, it is possible to have them; contributors wishing to write the full mirror must create the pages manually (see remarks below).
@@ -46,10 +48,67 @@ appears there (at present this does not happen automatically).
 If desirable, the contributors may create additional files in their language folder and provide links to those files from the index page.
 For example, if separate pages describing individual tags / features / relations are available, links to them should be provided
 from the beginning of morphology / syntax sections, respectively.
-(Such pages could provide more native examples in the language. They are not necessary though.
-If there is any peculiarity of the language pertaining to a particular label (tag / feature / relation),
-it should preferably be mentioned on the universal page of that label, and possibly also in the construction-oriented universal documentation.
-However, if the language uses a language-specific feature or relation subtype, it must be documented.)
+Such pages are required for features and relations that are language-specific and their documentation is not available
+in the universal guidelines (see below for details). For other relations, features and UPOS tags, separate pages are
+not required, nevertheless it is possible to create them and provide more native examples in the language.
+Note however that if there is any peculiarity of the language pertaining to a universally defined label (tag / feature / relation),
+it should be preferably mentioned on the universal page of that label, and possibly also in the construction-oriented universal documentation.
+
+## Language-Specific Features
+
+All feature values used in UD treebanks must be documented. If they are defined in the current
+version of the UD guidelines, they are already documented and no action is needed. Some other
+features are not officially part of the UD guidelines (so technically they are in the
+language-specific domain), yet they have been used in multiple treebanks and their documentation
+is accessible globally. No action is needed for them either. Any other language-specific feature
+must have a documentation page in the folder of the given language (regardless of whether this
+feature is or is not documented in another language). Similarly, if a language needs an extra
+value of an otherwise universal feature, there must be a language-specific documentation page
+of that feature.
+
+A language-specific feature page must be readable by both humans and machines, hence it must
+follow a prescribed format. UD validation software will check the page and if it cannot parse
+it, it will not consider the feature valid to be used in UD treebanks.
+
+The page is a MarkDown file and uses the extension `.md`. It must be in a `feat` subfolder of the
+language-specific folder in the `docs` repository. The name of the file normally follows the
+name of the feature, including camel-casing. For example, the feature for particle types in
+Irish is called `PartType` and its documentation must be in the file
+[_ga/feat/PartType.md](https://github.com/UniversalDependencies/docs/blob/pages-source/_ga/feat/PartType.md).
+
+To get started, you may want to copy an existing page from another language and edit it.
+Each MarkDown file has a header which starts and ends with three dashes. Here is an example;
+edit title and shortdef, keep layout and udver intact:
+
+<pre>
+---
+layout: feature
+title: 'PartType'
+shortdef: 'particle type'
+udver: '2'
+---
+</pre>
+
+In the body of the page, level 3 headings (they start with three `#` characters) are reserved
+for the individual values of the feature. Here is the required format of the heading for value
+`Inf`:
+
+<pre>
+### <a name="Inf">`Inf`</a>: infinitive
+</pre>
+
+Make sure you have an exact copy of the heading. Then change the two instances of `Inf` to
+the actual value of your feature, and put a word or phrase expansion of the value after the
+colon. In the following lines, describe the value, what it means and how it is used. Do not
+forget to add examples – a level 4 heading saying "Examples", then a bullet list (with an
+asterisk as the bullet) with individual examples, highlighting the featured word with the
+"b" tag, and followed by English translation.
+
+<pre>
+#### Examples
+
+* _<b>a</b> cheannach_ “to buy”
+</pre>
 
 ## Old-Style Documentation
 
