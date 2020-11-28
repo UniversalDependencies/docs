@@ -46,8 +46,8 @@ information whether and when it was / will be completed.
 
 #### Examples
 
-* [cs] _péci_ "to bake" (Imp); _<b>pekl</b> chleba_ "he baked / was
-  baking a bread"
+* [cs] _péci_ “to bake” (Imp); _<b>pekl</b> chleba_ “he baked / was
+  baking a bread”
 
 ### <a name="Perf">`Perf`</a>: perfect aspect
 
@@ -59,8 +59,8 @@ these actually have a future meaning.
 
 #### Examples
 
-* [cs] _upéci_ "to bake" (Perf); _<b>upekl</b> chleba_ "he baked / has
-  baked a bread"
+* [cs] _upéci_ “to bake” (Perf); _<b>upekl</b> chleba_ “he baked / has
+  baked a bread”
 
 ### <a name="Prosp">`Prosp`</a>: prospective aspect
 
@@ -80,7 +80,7 @@ in UD v2.
 
 #### Examples
 
-* [eu] _Liburua <b>irakurriko</b> behar du._ lit. _book-a read-Prosp must AUX_ "He must go to read a book."
+* [eu] _Liburua <b>irakurriko</b> behar du._ lit. _book-a read-Prosp must AUX_ “He must go to read a book.”
 
 ### <a name="Prog">`Prog`</a>: progressive aspect
 
