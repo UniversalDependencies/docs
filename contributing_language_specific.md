@@ -60,7 +60,9 @@ All feature values used in UD treebanks must be documented. If they are defined 
 version of the UD guidelines, they are already documented and no action is needed. Some other
 features are not officially part of the UD guidelines (so technically they are in the
 language-specific domain), yet they have been used in multiple treebanks and their documentation
-is accessible globally. No action is needed for them either. Any other language-specific feature
+is accessible globally. No action is needed for them either (if you are unsure whether
+a particular feature is in this category, try using it; if the validator complains, you will
+know you have to provide documentation). Any other language-specific feature
 must have a documentation page in the folder of the given language (regardless of whether this
 feature is or is not documented in another language). Similarly, if a language needs an extra
 value of an otherwise universal feature, there must be a language-specific documentation page
@@ -75,6 +77,11 @@ language-specific folder in the `docs` repository. The name of the file normally
 name of the feature, including camel-casing. For example, the feature for particle types in
 Irish is called `PartType` and its documentation must be in the file
 [_ga/feat/PartType.md](https://github.com/UniversalDependencies/docs/blob/pages-source/_ga/feat/PartType.md).
+Layered features have square brackets as part of their name but not as part of the file name.
+Instead of the layer label in brackets, a simple hyphen separates the layer label from the
+main feature name. Thus the feature for the possessor's gender is named `Gender[psor]` but
+the corresponding file is `Gender-psor.md`, as
+[in Czech](https://github.com/UniversalDependencies/docs/blob/pages-source/_cs/feat/Gender-psor.md).
 
 To get started, you may want to copy an existing page from another language and edit it.
 Each MarkDown file has a header which starts and ends with three dashes. Here is an example;
@@ -94,20 +101,20 @@ for the individual values of the feature. Here is the required format of the hea
 `Inf`:
 
 <pre>
-### <a name="Inf">`Inf`</a>: infinitive
+### &lt;a name="Inf"&gt;`Inf`&lt;/a&gt;: infinitive
 </pre>
 
 Make sure you have an exact copy of the heading. Then change the two instances of `Inf` to
 the actual value of your feature, and put a word or phrase expansion of the value after the
 colon. In the following lines, describe the value, what it means and how it is used. Do not
-forget to add examples – a level 4 heading saying "Examples", then a bullet list (with an
+forget to add examples – a level 4 heading saying “Examples”, then a bullet list (with an
 asterisk as the bullet) with individual examples, highlighting the featured word with the
-"b" tag, and followed by English translation.
+&lt;b&gt; tag, and followed by an English translation.
 
 <pre>
 #### Examples
 
-* _<b>a</b> cheannach_ “to buy”
+* _&lt;b&gt;a&lt;/b&gt; cheannach_ “to buy”
 </pre>
 
 ## Old-Style Documentation
