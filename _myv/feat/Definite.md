@@ -2,12 +2,11 @@
 layout: feature
 title: 'Definite'
 shortdef: 'definiteness or state'
-redirect_from: "u/feat/Definiteness.html"
 udver: '2'
 ---
 
 
-Definiteness in Erzya is an inflectional feature of [nouns](myv-pos/NOUN) and [proper nouns](myv-pos/PROPN), as well as [adjectives](myv-pos/ADJ), [determiners](myv-pos/DET) and [numerals](myv-pos/NUM) when an NP head is contextually elided and the, more often than not, definite morphology aligned with that head is directly concatenated to the  NP-final modifier. Definite morphology, when associated with the core cases: nominative, genitive and dative, is definite/determinate in nature, it indicates known and retreivable referents, on the one hand, and especially in the nominative indicates topic and post-posed topic. 
+Definiteness in Erzya is an inflectional feature of [nouns](myv-pos/NOUN) and [proper nouns](myv-pos/PROPN), as well as [adjectives](myv-pos/ADJ), [determiners](myv-pos/DET) and [numerals](myv-pos/NUM) when an NP head is contextually elided and the, more often than not, definite morphology aligned with that head is directly concatenated to the  NP-final modifier. Definite morphology, when associated with the core cases: nominative, genitive and dative, is definite/determinate in nature, it indicates known and retreivable referents, on the one hand, and especially in the nominative indicates topic and post-posed topic.
 
 ### <a name="Def">`Def`</a>: definite
 
