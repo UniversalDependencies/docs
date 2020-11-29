@@ -42,6 +42,8 @@ typically it does not have any meaning of its own. The echoed part is a form tha
 In Armenian it generalizes or specifies the meaning of the previous or following word and is translated
 as “or something”, “etc.”, “like that” etc.
 
+#### Examples
+
 * _տուն-<b>մուն</b>_ “house and things like that”,
 * _աման-<b>չաման</b>_ “dishes and etc.”,
 * _<b>առոք</b>-փառոք_ “good and proper”,

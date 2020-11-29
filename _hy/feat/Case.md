@@ -52,14 +52,22 @@ Personal and some demonstrative pronouns distinguish between `Case=Gen` and `Cas
 ### <a name="Nom">`Nom`</a>: nominative
 
 The base form of the noun, also used as citation form (lemma).
-In Armenian this is the word form used for subjects of clauses, for direct objects of verbs and for addressing someone. 
+In Armenian this is the word form used for subjects of clauses, for direct objects of verbs and for addressing someone.
+
+#### Examples
+
+* _դպրոց&nbsp;_ “school”
 
 ### <a name="Gen">`Gen`</a>: genitive
 
 In many languages prototypical meaning of genitive is that the noun phrase somehow
 belongs to its governor.
 
-We not recognizing the genitive except for possessive personal, some demonstrative pronouns/determiners and _իր&nbsp;_ “one’s own”.
+We do not recognize the genitive except for possessive personal, some demonstrative pronouns/determiners and _իր&nbsp;_ “one’s own”.
+
+#### Examples
+
+* _իր&nbsp;_ “one’s own”
 
 ### <a name="Dat">`Dat`</a>: dative
 

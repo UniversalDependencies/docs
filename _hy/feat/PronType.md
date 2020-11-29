@@ -43,7 +43,7 @@ personal/possessive pronouns (e.g. _իրեն / իր&nbsp;_ see the
 
 Note that possessive interrogative determiners (_whose_) can be distinguished by the [Poss]() feature. Interrogative determiners can be used as exclamatives with exclamation mark or stress.
 
-#### Examples: 
+#### Examples:
 
 * _ո՞վ, ովքե՞ր&nbsp;_ “who”, _ո՞ւմ&nbsp;_ “whose”
 * _ի՞նչ&nbsp;_ “what”, _ինչպիսի՞(ք)&nbsp;_ “what kind of”, _ինչքա՞ն&nbsp;_ “how many”, _ինչչա՞փ&nbsp;_ “how much”, _ինչպե՞ս&nbsp;_ “how”
@@ -56,6 +56,10 @@ Note that possessive interrogative determiners (_whose_) can be distinguished by
 ### <a name="Rel">`Rel`</a>: relative pronoun or determiner or adverb
 
 All pronouns and determiners that mark the beginning of a [relative clause](acl:relcl) have this feature. Note that this class overlaps with interrogatives. There are no pronouns that are only relative.
+
+#### Examples:
+
+* _ո՞վ, ովքե՞ր&nbsp;_ “who”, _ո՞ւմ&nbsp;_ “whose”
 
 ### <a name="Exc">`Exc`</a>: exclamative determiner
 

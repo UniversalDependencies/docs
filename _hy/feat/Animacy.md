@@ -24,12 +24,16 @@ Note also that some school grammars of Armenian distinguish between lexical `Hum
 A subset of animates that only includes human beings (fictional characters, names of professions and personified characters)
 but not animals (there may be exceptions that do not fit the class semantically but belong to it grammatically).
 
-- _մարդ_ “man”, _երեխա_ “child”, _աղջիկ_ “girl”, _ամուսին_ “husband”, _ուսուցիչ_ “teacher”, _նախագահ_ “president”, _տնօրեն_ “director”
+#### Examples
+
+* _մարդ_ “man”, _երեխա_ “child”, _աղջիկ_ “girl”, _ամուսին_ “husband”, _ուսուցիչ_ “teacher”, _նախագահ_ “president”, _տնօրեն_ “director”
 
 ### <a name="Nhum">`Nhum`</a>: non-human
 
 This value in Armenian is used for non-human animates (incl. animals) and inanimates .
 
-- _տարի_ “year”, _օրենք_ “law”, _պետություն_ “state”, _լեռ_ “mountain”, _ծառ_ “tree”
-- _ձի_ “horse”, _կով_ “cow”, _առյուծ_ “lion”, _արագիլ_ “stork”, _ձուկ_ “fish”
+#### Examples
+
+* _տարի_ “year”, _օրենք_ “law”, _պետություն_ “state”, _լեռ_ “mountain”, _ծառ_ “tree”
+* _ձի_ “horse”, _կով_ “cow”, _առյուծ_ “lion”, _արագիլ_ “stork”, _ձուկ_ “fish”
 <!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->

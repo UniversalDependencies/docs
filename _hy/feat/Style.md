@@ -31,6 +31,8 @@ systematically change between dialects or styles).
 
 ### <a name="Rare">`Rare`</a>: rare
 
+#### Examples
+
 * _այրմարդ_
 
 ### <a name="Coll">`Coll`</a>: colloquial
@@ -42,19 +44,27 @@ systematically change between dialects or styles).
 
 ### <a name="Vrnc">`Vrnc`</a>: vernacular
 
+#### Examples
+
 * _հնդուշկա, բուռդիկ, Էրիվան, շուտուց_
 
 ### <a name="Slng">`Slng`</a>: slang
 
+#### Examples
+
 * _մանթրաշ, մանթո, քյալ, քսիվ, մենթ, խոխմա, դուխով_
 
 ### <a name="Expr">`Expr`</a>: expressive, emotional
+
+#### Examples
 
 Typical examples of expressive words in the Armenian data are diminutives:
 
 * _մուկիկ, շունիկ, փիսիկ, Արմենչիկ, Աննուշկա, ճստլոս_
 
 ### <a name="Vulg">`Vulg`</a>: vulgar
+
+#### Examples
 
 * _էծ, ուլ, պոռնիկ, ռեխ, զխտվել, շնթռել, լակել, սիկտիր, տուտուց_
 <!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
