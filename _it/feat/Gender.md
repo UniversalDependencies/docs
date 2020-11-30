@@ -23,11 +23,4 @@ grammatically feminine, without any relation to sex.
 
 * _<b>nave</b>_ "ship"
 
-### <a name="Neut">`Neut`</a>: neuter gender
-
-Not used.
-
-### <a name="Com">`Com`</a>: common gender
-
-Not used.
 <!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->

@@ -18,10 +18,6 @@ udver: '2'
 * _desidero <b>andare</b> a <b>dormire</b>_ "I wish to go to sleep"
 * _devo <b>andare</b>_ “I must go”
 
-### <a name="Sup">`Sup`</a>: supine
-
-Not used.
-
 ### <a name="Part">`Part`</a>: participle
 
 #### Examples
@@ -30,15 +26,11 @@ Not used.
 * _è <b>arrivato</b> tardi_ "he arrived late"
 * _<b>appartenenti</b> ad organizzazioni terroristiche_ "members of terroristic organizations"
 
-
-### <a name="Trans">`Trans`</a>: transgressive
-
-Not used.
-
 ### <a name="Ger">`Ger`</a>: gerund
 
 #### Examples
 
 * _Sto <b>sognando</b>_ "I am dreaming"
 * _<b>Arrivando</b> tardi si perde il treno_ "Arriving late you miss the train"
+
 <!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->

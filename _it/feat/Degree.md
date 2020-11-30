@@ -8,10 +8,6 @@ udver: '2'
 Degree of comparison is used as an inflectional feature of some
 [adjectives](u-pos/ADJ) and [adverbs](u-pos/ADV).
 
-### <a name="Pos">`Pos`</a>: positive, first degree
-
-Not used.
-
 ### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
 The quality of one object is compared to the same quality of another
@@ -25,10 +21,12 @@ object.
 ### <a name="Sup">`Sup`</a>: superlative, third degree
 
 The quality of one object is compared to the same quality of all other
-objects within a set. 
+objects within a set.
 
-Italian does not seem to have single words for 'relative' 
+Italian does not seem to have single words for 'relative'
 superlatives, such as [en] "youngest". One would say instead:
+
+#### Examples
 
 * _Luigi è il più giovane_ "Luigi is the most young"
 

@@ -37,10 +37,6 @@ happen.
 
 * _Mi sarei divertito_ "I would have enjoyed myself"
 
-### <a name="Pot">`Pot`</a>: potential
-
-Not used.
-
 ### <a name="Sub">`Sub`</a>: subjunctive / conjunctive
 
 The subjunctive mood is used under certain circumstances in
@@ -50,25 +46,5 @@ otherwise uncertain.
 #### Examples
 
 * _Voglio che tu te ne <b>vada</b> "I want you to leave"
-
-### <a name="Jus">`Jus`</a>: jussive
-
-Not used.
-
-### <a name="Qot">`Qot`</a>: quotative
-
-Not used.
-
-### <a name="Opt">`Opt`</a>: optative
-
-Not used.
-
-### <a name="Des">`Des`</a>: desiderative
-
-Not used.
-
-### <a name="Nec">`Nec`</a>: necessitative
-
-Not used.
 
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

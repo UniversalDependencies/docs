@@ -18,14 +18,10 @@ personal/possessive pronouns (see the [Reflex]() feature).
 #### Examples
 
 * Personal pronouns: _Uno di <b>loro</b>_ "One among them", _Per <b>lui</b> è utile_ "For him it's useful"
-* Possessive pronouns (`Poss=Yes`): _La <b>sua</b> è migliore_ "Hers is better", _I <b>suoi</b> sono felici_ "Her/his [parents] are happy" 
+* Possessive pronouns (`Poss=Yes`): _La <b>sua</b> è migliore_ "Hers is better", _I <b>suoi</b> sono felici_ "Her/his [parents] are happy"
 * Possessive determiners/adjectives (`Poss=Yes`): _La <b>sua</b> scuola è migliore_ "Her/his school is better", _I <b>loro</b> amici_ "Their friends".
 
-Note: the category clitic pronouns includes cases such as: _<b>Si</b> è trasformato_ "Has transformed itself" (reflexive), _<b>Ti</b> ho dato_ "I have given you" (indirect object), _Ora <b>si</b> cerca il colpevole_ "Now one/somebody searches for the culprit" (impersonal form), _<b>Lo</b> vediamo spesso_ "We often see him/it". These are not marked by the appropriate `PronType`. 
-
-### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
-
-We do not seem to have cases of reciprocal pronouns in Italian.
+Note: the category clitic pronouns includes cases such as: _<b>Si</b> è trasformato_ "Has transformed itself" (reflexive), _<b>Ti</b> ho dato_ "I have given you" (indirect object), _Ora <b>si</b> cerca il colpevole_ "Now one/somebody searches for the culprit" (impersonal form), _<b>Lo</b> vediamo spesso_ "We often see him/it". These are not marked by the appropriate `PronType`.
 
 ### <a name="Art">`Art`</a>: article
 
@@ -34,7 +30,7 @@ Article is a special case of determiner that bears the feature of
 
 #### Examples
 
-* Definite articles (`Definite=Def`): _<b>La</b> luna_ "The moon", _I regali di Natale_ "Christmas presents" 
+* Definite articles (`Definite=Def`): _<b>La</b> luna_ "The moon", _I regali di Natale_ "Christmas presents"
 * Indefinite articles (`Definite=Ind`): _<b>Un</b> amico_ "A friend", _<b>Una</b> sorpresa_ "A surprise"
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner, numeral or adverb
@@ -42,16 +38,16 @@ Article is a special case of determiner that bears the feature of
 Note that possessive interrogative determiners (_whose_) can be
 distinguished by the [Poss]() feature.
 
-#### Examples: 
+#### Examples:
 
 * Interrogative pronouns: _<b>Chi</b> è il presidente?_ "Who is the president?"
 * Interrogative determiners: _<b>Che</b> cosa faremo adesso?_ "What shall we do now?", _<b>Quale</b> libro hai letto?_ "Which book did you read?"
 
 Note: for the time being we do not use the feature `ProntType=Int` interrogative pronouns such as _dove_ "where" and _quando_ "when" in sentences like _<b>Dov'</b> è Siena?_ "Where is Siena?".
- 
+
 ### <a name="Rel">`Rel`</a>: relative pronoun, determiner, numeral or adverb
 
-#### Examples: 
+#### Examples:
 
 * Relative pronouns: _La strada <b>che</b> porta al mare_ "The road which leads to the sea", _Il libro <b>che</b> ho letto_ "The book that I read".
 * Relative determiners: _Un autore sul <b>cui</b> futuro puoi scommettere_ "An author on whose future you can bet".
@@ -78,7 +74,7 @@ We are not using `PronType=Tot`.
 
 ### <a name="Neg">`Neg`</a>: negative pronoun, determiner or adverb
 
-Examples: 
+Examples:
 
 We distinguish only negative adverbs such as: _non_, _nemmeno, _neppure_.
 

@@ -2,6 +2,7 @@
 layout: feature
 title: 'NumType'
 shortdef: 'numeral type'
+udver: '2'
 ---
 
 The `NumType` feature applies to:
@@ -13,7 +14,7 @@ The `NumType` feature applies to:
 
 #### Examples
 
-* _uno_ "one", _due_ "two", _tre_ "three" 
+* _uno_ "one", _due_ "two", _tre_ "three"
 
 ### <a name="Ord">`Ord`</a>: ordinal number or corresponding word
 
@@ -21,33 +22,21 @@ This is a subtype of adjectives or pronouns.
 
 #### Examples
 
-* _primo_ "first", _secondo_ "second", _terzo_ "third"; 
+* _primo_ "first", _secondo_ "second", _terzo_ "third";
 * _III_, _IV_, XIX
 * 30a, 30esima, 1°
 
-### <a name="Mult">`Mult`</a>: multiplicative numeral or corresponding word
-
-Not used.
-
-### <a name="Frac">`Frac`</a>: fraction
-
-Not used.
-
-### <a name="Sets">`Sets`</a>: number of sets of things
-
-Not used.
-
-### <a name="Dist">`Dist`</a>: distributive numeral
-
-Not used.
-
 ### <a name="Range">`Range`</a>: range of values
+
+#### Examples
 
 Used for expressions such as:
 * 2/3 Sett.
 * 3/4 volte
 
 ### <a name="Gen">`Gen`</a>: generic numeral, i.e. a numeral that is neither of the above
+
+#### Examples
 
 Used for time expressions such as:
 * 23'

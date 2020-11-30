@@ -30,14 +30,8 @@ usually happen.
 
 ### <a name="Imp">`Imp`</a>: imperfect
 
+#### Examples
+
 * _andava a casa_ "he/she was going home"
-
-### <a name="Nar">`Nar`</a>: narrative
-
-Not used.
-
-### <a name="Pqp">`Pqp`</a>: pluperfect
-
-Not used.
 
 <!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
