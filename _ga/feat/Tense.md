@@ -33,6 +33,8 @@ The present tense denotes actions that are happening right now or that habituall
 
 The future tense denotes actions that will happen after the current moment. In Irish, the future is indicated by the addition of a -f-, or -ó- suffix, with endings depending on person (see [Person]()).
 
+#### Examples
+
 * _Tit<b>fidh</b> tú_ "You will fall"
 * _Fan<b>faidh</b> sé_ "He will stay"
 * _Tos<b>óidh</b> sí_ "She will start"
