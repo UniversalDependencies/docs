@@ -2,6 +2,7 @@
 layout: feature
 title: 'InfForm'
 shortdef: 'form of infinitive'
+udver: '2'
 ---
 
 (Please note: the labels on this page, including the feature name

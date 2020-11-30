@@ -2,6 +2,7 @@
 layout: feature
 title: 'Clitic'
 shortdef: 'clitic'
+udver: '2'
 ---
 
 (Please note: this part of the documentation is not yet completed.)
@@ -14,7 +15,7 @@ clitics using the `Clitic` feature, which takes one or more of the
 following values, with multiple values expressing combinations, for
 example `Clitic=Ko,S` for _-kos_ (_-ko_ + _-s_) as in _voi<b>kos</b>_.
 
-### `Kin`
+### <a name="Kin">`Kin`</a>: -kin
 
 Expresses focus. Can often be translated into English as *also*.
 Forms contrasting pair with *-kaan*.
@@ -23,7 +24,7 @@ Forms contrasting pair with *-kaan*.
 
 * [fi] _minä<b>kin</b> menen_ "<b>also</b> I am going"
 
-### `Kaan`
+### <a name="Kaan">`Kaan`</a>: -kaan
 
 Expresses focus in negative contexts. Realized as *-kaan* or *-kään*.
 Forms contrasting pair with *-kin*.
@@ -32,7 +33,7 @@ Forms contrasting pair with *-kin*.
 
 * [fi] _minä<b>kään</b> en mene_ "I am not going <b>either</b>"
 
-### `Ko`
+### <a name="Ko">`Ko`</a>: -ko
 
 Expresses a question. Realized as *-ko* or *-kö*.
 
@@ -40,7 +41,7 @@ Expresses a question. Realized as *-ko* or *-kö*.
 
 * [fi] _menen<b>kö</b> minä_ "<b>do</b> I go<b>?</b>"
 
-### `Han`
+### <a name="Han">`Han`</a>: -han
 
 Realized as *-han* or *-hän*.
 
@@ -48,7 +49,7 @@ Realized as *-han* or *-hän*.
 
 * [fi] _ei<b>hän</b>_ ""
 
-### `Pa`
+### <a name="Pa">`Pa`</a>: -pa
 
 Realized as *-pa* or *-pä*.
 
@@ -56,7 +57,7 @@ Realized as *-pa* or *-pä*.
 
 * [fi] _vaikka<b>pa</b>_ ""
 
-### `S`
+### <a name="S">`S`</a>: -s
 
 TODO
 
@@ -64,7 +65,7 @@ TODO
 
 * [fi] _mitä<b>s</b>_ ""
 
-### `Ka`
+### <a name="Ka">`Ka`</a>: -ka
 
 Realized as *-ka* or *-kä*. Attached to the negative verb *ei*, serves
 also as a conjunction.

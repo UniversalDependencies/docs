@@ -2,6 +2,7 @@
 layout: feature
 title: 'Degree'
 shortdef: 'degree of comparison'
+udver: '2'
 ---
 
 Degree of comparison is a feature of [adjectives](fi-pos/ADJ),
@@ -35,7 +36,7 @@ things within a set.
 * [fi] _<b>paras</b> tulos_ "_<b>best</b> result_"
 * [fi] _<b>nopeimmin</b> kasvavat_ "_<b>fastest</b> grow_"
 
-### Diff
+## Diff
 
 #### FinnTreeBank
 
