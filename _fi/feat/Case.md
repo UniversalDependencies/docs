@@ -2,6 +2,7 @@
 layout: feature
 title: 'Case'
 shortdef: 'case'
+udver: '2'
 ---
 
 ### <a name="Nom">`Nom`</a>: nominative
@@ -56,6 +57,8 @@ Corresponds to some uses of English *by means of* or *with the aid of*.
 In Finnish the partitive case is an object case that can also express
 indefinite quantity or unfinished actions.
 
+#### Examples
+
 * [fi] _kolme <b>taloa</b>_ "three <b>houses</b>"
 * [fi] _rakastan tätä <b>taloa</b>_ "I love this <b>house</b>"
 * [fi] _saanko lainata <b>kirjaa</b>_ "can I borrow a <b>book</b>"
@@ -69,7 +72,7 @@ indefinite quantity or unfinished actions.
 
 ### <a name="Ess">`Ess`</a>: essive
 
-Essive is typically a case of temporal adverbials (e.g. 
+Essive is typically a case of temporal adverbials (e.g.
 _tiistaina_ "on Tuesday"). In expressions of state, essive
 is a case of predicative adverbials, characterizing purpose
 or task (e.g. _vartijana_ "as a guard") in intransitive
@@ -112,7 +115,7 @@ In transitive sentences, the translative case describes the sentence object.
 
 ### <a name="Com">`Com`</a>: comitative / associative
 
-The comitative (also called associative) case expresses belonging, a social relationship or a part of an entity. It often corresponds to English _together with_ and has a descriptive or explicative function. 
+The comitative (also called associative) case expresses belonging, a social relationship or a part of an entity. It often corresponds to English _together with_ and has a descriptive or explicative function.
 
 #### Examples
 
@@ -161,7 +164,7 @@ The elative case expresses direction out of something.
 ### <a name="Ade">`Ade`</a>: adessive
 
 The adessive cases expresses location on the outer or upper
-surface of an entity, or movement to/from such a surface. The 
+surface of an entity, or movement to/from such a surface. The
 corresponding directional cases are allative (towards something)
 and ablative (from something).
 
@@ -212,7 +215,7 @@ derivation.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=379> (in Finnish)
 
-### <a name="Notes">`Notes`</a>: lative
+### Notes
 
 Some descriptions of Finnish mark the base form of the first
 infinitive as being in the lative case (see e.g.
@@ -225,5 +228,5 @@ UD Finnish follows ISK in not recognizing the lative case.
 
 #### Diff
 
-FinnTreeBank (FI_FTB) marks the base form of the first infinitive as lative in contrast to translative. 
+FinnTreeBank (FI_FTB) marks the base form of the first infinitive as lative in contrast to translative.
 <!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->

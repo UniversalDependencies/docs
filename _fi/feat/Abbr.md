@@ -2,6 +2,7 @@
 layout: feature
 title: 'Abbr'
 shortdef: 'abbreviation'
+udver: '2'
 ---
 
 Boolean feature marking a word as an abbreviation.
