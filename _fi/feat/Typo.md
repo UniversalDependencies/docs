@@ -2,6 +2,7 @@
 layout: feature
 title: 'Typo'
 shortdef: 'misspelled'
+udver: '2'
 ---
 
 Boolean feature marking a word as involving misspelling, grammatical
@@ -13,7 +14,7 @@ error, etc.
 
 * [fi] _Toyotä_ (for _Toyota_)
 
-### Diffs
+## Diffs
 
 #### FinnTreeBank
 

@@ -2,6 +2,7 @@
 layout: feature
 title: 'Person[psor]'
 shortdef: 'person of possessor'
+udver: '2'
 ---
 
 `Person[psor]` is a

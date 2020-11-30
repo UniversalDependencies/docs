@@ -2,6 +2,7 @@
 layout: feature
 title: 'Person'
 shortdef: 'person'
+udver: '2'
 ---
 
 `Person` is a feature of [verbs](u-pos/VERB) (TODO: also pronouns?).

@@ -2,6 +2,7 @@
 layout: feature
 title: 'Tense'
 shortdef: 'tense'
+udver: '2'
 ---
 
 The `Tense` feature applies to verbs ([VERB]() and [AUX]()),
