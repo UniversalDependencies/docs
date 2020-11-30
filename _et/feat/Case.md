@@ -7,7 +7,8 @@ udver: '2'
 
 Definition
 
-Case is an inflectional feature for [nouns](u-pos/NOUN), [pronouns](u-pos/PRON), [adjectives](u-pos/ADJ) and [numerals](u-pos/NUM) in Estonian.<br/>
+Case is an inflectional feature for [nouns](u-pos/NOUN), [pronouns](u-pos/PRON), [adjectives](u-pos/ADJ)
+and [numerals](u-pos/NUM) in Estonian.<br/>
 Estonian has 14 inflectional cases:<br/>
 nominative<br/>
 genitive<br/>
@@ -33,10 +34,10 @@ If the language has only two cases, which are called "direct" and
 
 #### Examples
 
-* [en] _<b>She</b> sleeps._
-* [en] _<b>He</b> loves her._
-* [cs] _<b>Jana</b> spí._ "Jana sleeps."
-* [cs] _<b>Pavel</b> miluje Janu._ "Pavel loves Jana."
+* [et] _<b>maja</b>_ "house"
+* [et] _<b>laud</b>_ "table"
+* [et] _<b>koer</b>_ "dog"
+* [et] _<b>riik</b>_ "government"
 
 ### <a name="Gen">`Gen`</a>: genitive
 
