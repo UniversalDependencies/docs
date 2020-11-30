@@ -2,11 +2,15 @@
 layout: feature
 title: 'Aspect'
 shortdef: 'aspect'
+udver: '2'
 ---
 
-Two values of Aspect are used in Hungarian, both of which denote productive derivational processes:
+### <a name="Iter">`Iter`</a>: iterative / frequentative aspect
 
-Freq (frequentative): üt - ütöget (hit - hit several times)
+Denotes repeated action.
 
-Mod (modal): üt - üthet (hit - (he) may hit)
+#### Examples
+
+* [hu] _üt_ “hit”, _<b>ütöget</b>_ “hit several times”
+
 <!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
