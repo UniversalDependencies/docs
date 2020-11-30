@@ -43,6 +43,14 @@ object of transitive verb.
 * [eu] _<b>Maria</b> lotan dago._ "Maria is sleeping."
 * [hu] _<b>éveként</b>_
 
+### <a name="Dat">`Dat`</a>: dative
+
+This is the word form used for recipient arguments of verbs of transfer.
+
+#### Examples
+
+* [hu] _Ajándékot adok a <b>bátyámnak</b>._ "I will give my brother a present."
+
 ### <a name="Gen">`Gen`</a>: genitive
 
 #### Examples
