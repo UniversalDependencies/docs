@@ -13,9 +13,13 @@ Words can be either singular or plural.
 
 ### <a name="Sing">`Sing`</a>: singular
 
+* _<b>duine</b>_ "person"
+
 ### <a name="Plur">`Plur`</a>: plural
 
 #### Examples
+
+* _<b>daoine</b>_ "people"
 
 Noun forms in singular and plural for _bád_ ("boat"), _fuinneog_ ("window"), and _am_ ("time"):
 <table>
