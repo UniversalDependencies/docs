@@ -2,6 +2,7 @@
 layout: feature
 title: 'Degree'
 shortdef: 'degree of comparison'
+udver: '2'
 ---
 Definition
 
@@ -9,16 +10,36 @@ Degree of comparison is an inflectional feature of some [adjectives](ud/pos/ADJ
 
 Possible degrees:<br/>
 
-Pos: positive, the base form of an adjective.<br/>
-Examples: <i><b>suur</b> maja</i> "big house",<br/>
-<i><b>tuntud</b> poliitik</i> "well-known politician".<br/>
+### <a name="Pos">`Pos`</a>: positive
 
-Cmp: comparative. The quality of one things is compared to the same quality of another.<br/>
-Examples: <i><b>suurem</b> maja</i> "bigger house",
-<i><b>tuntum</b> poliitik</i> "better-known politician".<br/>
+This is the base form that merely states a quality of something,
+without comparing it to qualities of others. Note that although this
+degree is traditionally called "positive", negative properties can be
+compared, too.
 
+#### Examples
 
-Sup: superlative. The quality of one object is compared to the same quality of all other objects within a set.
-Examples: <i><b>suurim</b> maja</i> "the biggest house",
-<i><b>tuntuim</b> poliitik</i> "the best-known politician"
+* _<b>suur</b> maja_ “big house”
+* _<b>tuntud</b> poliitik_ “well-known politician”
+
+### <a name="Cmp">`Cmp`</a>: comparative
+
+The quality of one object is compared to the same quality of another
+object.
+
+#### Examples
+
+* _<b>suurem</b> maja_ “bigger house”
+* _<b>tuntum</b> poliitik_ “better-known politician”
+
+### <a name="Sup">`Sup`</a>: superlative
+
+The quality of one object is compared to the same quality of all other
+objects within a set.
+
+#### Examples
+
+* _<b>suurim</b> maja_ “the biggest house”
+* _<b>tuntuim</b> poliitik_ “the best-known politician”
+
 <!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->

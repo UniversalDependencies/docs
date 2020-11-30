@@ -1,14 +1,24 @@
 ---
 layout: feature
 title: 'Polarity'
-redirect_from: "et/feat/Negative.html"
 shortdef: 'whether the word can be or is negated'
+udver: '2'
 ---
 
 Definition
 
 
-In UD Estonian, the feature <code>Negative</code> marks<br/>
-forms used as (parts of or modifiers of) negative form of a verb: <i>ei, mitte</i> "no, not", <i>pole</i> "is not" <i>polnud</i> "was not", <i>ära</i> "don't",<br/>
-negative conjunctions <i>ega, mitte</i>.
+In UD Estonian, the feature `Polarity` marks forms used as (parts of or modifiers of)
+negative form of a verb; it is also used with negative conjunctions.
+
+### <a name="Neg">`Neg`</a>: negative
+
+#### Examples
+
+* _<b>ei, mitte</b>_ “no, not”
+* _<b>pole</b>_ “is not”
+* _<b>polnud</b>_ “was not”
+* _<b>ära</b>_ “don't”
+* _<b>ega, mitte</b>_ (negative conjunctions)
+
 <!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->
