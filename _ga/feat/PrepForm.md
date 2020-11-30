@@ -9,6 +9,8 @@ udver: '2'
 
 In Irish, a simple preposition can be combined with a noun to give a compound preposition. Nouns following compound prepositions are inflected in the genitive case (see [Case]()).
 
+#### Examples
+
 A list of all compound prepositions is as follows:
 
 <table>
@@ -69,5 +71,5 @@ A list of all compound prepositions is as follows:
 <td><em><b>thar ceann</b> an dochtúra</em></td><td>"on behalf of the doctor"</td></tr>
 </table>
 
-###### Examples taken from Christian Brothers 1994.
+Examples taken from Christian Brothers 1994.
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
