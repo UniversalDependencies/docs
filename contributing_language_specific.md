@@ -68,6 +68,10 @@ feature is or is not documented in another language). Similarly, if a language n
 value of an otherwise universal feature, there must be a language-specific documentation page
 of that feature.
 
+Note that in some cases you should change the feature in your data rather than documenting it.
+When defining new feature values, make sure that you are **not redefining something that
+already has a different label in UD.**
+
 A language-specific feature page must be readable by both humans and machines, hence it must
 follow a prescribed format. UD validation software will check the page and if it cannot parse
 it, it will not consider the feature valid to be used in UD treebanks.
