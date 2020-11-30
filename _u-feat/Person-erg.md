@@ -33,7 +33,11 @@ and thus we keep `Person[abs]` to demonstrate that it is the same layer of agree
 
 ### <a name="1">`1`</a>: first person ergative argument
 
-Examples: [eu] _dakarkio<b>gu</b>_ `Person[erg]=1`
+#### Examples
+
+* [eu] _dakarkio<b>gu</b>_ `Person[erg]=1`
+* [eu] _<b>dizkizuet</b>_ (lemma _*edun_) `Number[erg]=Sing|Person[erg]=1` | `Number[abs]=Plur|Person[abs]=3` | `Number[dat]=Plur|Person[dat]=2`
+* [eu] _<b>dizkizugu</b>_ (lemma _*edun_) `Number[erg]=Plur|Person[erg]=1` | `Number[abs]=Plur|Person[abs]=3` | `Number[dat]=Sing|Person[dat]=2`
 
 ### <a name="2">`2`</a>: second person ergative argument
 
