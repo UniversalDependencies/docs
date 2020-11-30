@@ -2,6 +2,7 @@
 layout: feature
 title: 'Style'
 shortdef: 'style'
+udver: '2'
 ---
 
 ### <a name="Coll">`Coll`</a>: word is colloquial

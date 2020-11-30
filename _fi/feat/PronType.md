@@ -2,6 +2,7 @@
 layout: feature
 title: 'PronType'
 shortdef: 'pronominal type'
+udver: '2'
 ---
 
 ### <a name="Prs">`Prs`</a>: personal
@@ -71,9 +72,11 @@ for each, such as _mä, mie, mää_ and _myö_ for _minä_ "I".
 
 ### <a name="Ind">`Ind`</a>: indefinite
 
+#### Examples
+
 TODO
 
-### <a name="Notes">`Notes`</a>: indefinite vs. quantifier pronouns
+#### <a name="Notes">`Notes`</a>: indefinite vs. quantifier pronouns
 
 Some descriptions of Finnish avoid the category label "indefinite
 pronouns" (indefiniittipronomi) in favor of "quantifier/quantifying
@@ -84,7 +87,7 @@ while others recognize both categories
 UD Finnish only uses the `PronType` value `Ind` (indefinite) (See also
 the note on negative pronouns below).
 
-### <a name="Notes">`Notes`</a>: negative pronouns
+#### <a name="Notes">`Notes`</a>: negative pronouns
 
 Finnish has no "inherently negative" pronouns (see
 e.g. <http://wals.info/chapter/115>) such as [en] *nothing* or [de]
