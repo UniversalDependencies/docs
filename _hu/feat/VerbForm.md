@@ -55,4 +55,13 @@ participles. Instead, special `VerbForm` values have been defined.
 
 * [hu] _a <b>befejezendő</b> mélygarázs fölé_ “above the underground garage <b>to be completed</b>”
 
+### <a name="Conv">`Conv`</a>: converb, adverbial participle
+
+The converb, also called adverbial participle or transgressive, is a non-finite
+verb form that shares properties of verbs and adverbs.
+
+#### Examples
+
+* [hu] _A két vezér közötti kapcsolat finoman <b>szólva</b> igen rideg._ “The relationship between the two leaders is, <b>to put it</b> mildly, very brittle.”
+
 <!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
