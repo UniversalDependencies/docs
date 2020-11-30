@@ -2,9 +2,12 @@
 layout: feature
 title: 'Tense'
 shortdef: 'tense'
+udver: '2'
 ---
 
-In English, `Tense` is a feature of [verbs](en-pos/VERB) that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance. 
+In English, `Tense` is a feature of [verbs](en-pos/VERB) that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance.
+
+Some English [tenses](Tense) are a combination of tense and aspect. But as the aspect always depends on the tense we mark (verbs)[en-pos/VERB] only with the [tense](Tense) feature.
 
 
 ### <a name="Pres">`Pres`</a>: present tense

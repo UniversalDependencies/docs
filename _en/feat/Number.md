@@ -2,9 +2,10 @@
 layout: feature
 title: 'Number'
 shortdef: 'number'
+udver: '2'
 ---
 
-In English, `Number` is a feature of [nouns](en-pos/NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](en-pos/PRON), [verbs](en-pos/VERB), and some [determiners](en-pos/DET). 
+In English, `Number` is a feature of [nouns](en-pos/NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](en-pos/PRON), [verbs](en-pos/VERB), and some [determiners](en-pos/DET).
 
 ### <a name="Sing">`Sing`</a>: singular
 

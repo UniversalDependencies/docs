@@ -2,6 +2,7 @@
 layout: feature
 title: 'Voice'
 shortdef: 'voice'
+udver: '2'
 ---
 
 In English, `Voice` is a feature of some [verbs](en-pos/VERB). It is only used to distinguish past participles from passive verbs which both have the PTB tag `VBN`.

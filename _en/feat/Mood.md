@@ -2,6 +2,7 @@
 layout: feature
 title: 'Mood'
 shortdef: 'mood'
+udver: '2'
 ---
 
 In English, `Mood` is a feature of [finite](VerbForm) [verbs](en-pos/Verb). It is used to express modality and further subclassify finite verb forms.

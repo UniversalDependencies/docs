@@ -2,11 +2,14 @@
 layout: feature
 title: 'Reflex'
 shortdef: 'reflexive'
+udver: '2'
 ---
 
 In English,  `Reflex` is a feature of [pronouns](en-pos/PRON).  It tells whether the word is reflexive, i.e. refers to the subject of its clause.
 
 ### <a name="Yes">`Yes`</a>: it is reflexive
+
+#### Examples
 
 The following English pronouns have this feature:
 

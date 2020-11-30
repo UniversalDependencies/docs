@@ -2,11 +2,14 @@
 layout: feature
 title: 'Poss'
 shortdef: 'possessive'
+udver: '2'
 ---
 
 In English, `Poss` is a Boolean feature of [pronouns](en-pos/PRON). It tells whether the word is possessive.
 
 ### <a name="Yes">`Yes`</a>: it is possesive
+
+#### Examples
 
 The following English pronouns have this feature:
 

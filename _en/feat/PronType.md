@@ -2,6 +2,7 @@
 layout: feature
 title: 'PronType'
 shortdef: 'pronominal type'
+udver: '2'
 ---
 
 In English, this feature applies to [pronouns](en-pos/PRON),
@@ -13,10 +14,12 @@ See also the [Poss]() feature that distinguishes normal personal
 pronouns from possessives. Note that `Prs` also includes reflexive
 personal/possessive pronouns.
 
+#### Examples
+
 The following pronouns have this feature:
 
 * _I, you, he, she, it, we, they, my, your, his, her, its, our,
-  their, mine, yours, hers, ours, theirs, me, him, us, them, 
+  their, mine, yours, hers, ours, theirs, me, him, us, them,
   myself, yourself, himself, herself, itself, ourselves, youselves,
   theirselves_
 
@@ -25,9 +28,11 @@ The following pronouns have this feature:
 Article is a special case of determiner that bears the feature of
 [definiteness](Definite).
 
+#### Examples
+
 In English, the following three determiners have this feature:
 
-* _a, an, the_ 
+* _a, an, the_
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
 
@@ -37,7 +42,8 @@ distinguished by the [Poss]() feature.
 In English, all words with the PTB tag `WDT`, `WP`, `WP$` or `WRB` have this feature unless
 they mark the beginning of a [relative clause](en-dep/acl:relcl).
 
-#### Examples:
+#### Examples
+
 * _<b>Which</b> one should I get?_
 * _<b>Who</b> was elected president?_
 * _<b>Whose</b> car is this?_
@@ -47,13 +53,15 @@ they mark the beginning of a [relative clause](en-dep/acl:relcl).
 
 All pronouns and determiners that mark the beginning of a [relative clause](en-dep/acl:relcl) have this feature.
 
-#### Examples: 
+#### Examples
 
 * _The book <b>that</b> I read_
 * _The book <b>which</b> she bought_
 * _The book <b>whose</b> author was arrested_
 
 ### <a name="Dem">`Dem`</a>: demonstrative determiner or adverb
+
+#### Examples
 
 The following determiners and adverbs have this feature:
 

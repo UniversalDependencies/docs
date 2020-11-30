@@ -2,13 +2,14 @@
 layout: feature
 title: 'VerbForm'
 shortdef: 'form of verb'
+udver: '2'
 ---
 
 In English, `VerbForm` is a feature of [verbs](en-pos/VERB).
 
 ### <a name="Fin">`Fin`</a>: finite verb
 
-Rule of thumb: if it has non-empty [Mood](Mood), it is finite. English verbs with the PTB tag `VBZ`, `VBD` or `VBP` and modals with the PTB tag `MD` have this feature. Further, verbs with the PTB tag `VB` have this feature if they don't have an auxiliary or modal verb attached to it. 
+Rule of thumb: if it has non-empty [Mood](Mood), it is finite. English verbs with the PTB tag `VBZ`, `VBD` or `VBP` and modals with the PTB tag `MD` have this feature. Further, verbs with the PTB tag `VB` have this feature if they don't have an auxiliary or modal verb attached to it.
 
 #### Examples:
 
@@ -17,7 +18,7 @@ Rule of thumb: if it has non-empty [Mood](Mood), it is finite. English verbs wit
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
-Infinitive is the citation form of verbs in many languages. Infinitives may be used together with auxiliaries to form periphrastic [tenses](Tense) (e.g. future tense _I will <b>sit</b> in a plane_), they appear as arguments of modal verbs etc. English verbs with the PTB tag `VB` have this feature if they have an auxiliary or modal verb or the inifinitval _to_ attached to it. 
+Infinitive is the citation form of verbs in many languages. Infinitives may be used together with auxiliaries to form periphrastic [tenses](Tense) (e.g. future tense _I will <b>sit</b> in a plane_), they appear as arguments of modal verbs etc. English verbs with the PTB tag `VB` have this feature if they have an auxiliary or modal verb or the inifinitval _to_ attached to it.
 
 #### Examples:
 
@@ -39,7 +40,7 @@ Gerund is a non-finite verb form that shares properties of verbs and nouns. In E
 
 #### Examples:
 
-* _I look forward to <b>seeing</b> you._ 
+* _I look forward to <b>seeing</b> you._
 * _She turns a blind eye to my <b>being</b> late._
 
 <!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
