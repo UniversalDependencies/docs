@@ -2,10 +2,11 @@
 layout: feature
 title: 'Number'
 shortdef: 'number'
+udver: '2'
 ---
 
 `Number` is a feature of [nouns](fi-pos/NOUN), [pronouns](fi-pos/PRON)
-and [numbers](fi-pos/NUM) as well as of [verbs](u-pos/VERB) and 
+and [numbers](fi-pos/NUM) as well as of [verbs](u-pos/VERB) and
 [adjectives](fi-pos/ADJ) that mark agreement with them.
 
 ### <a name="Sing">`Sing`</a>: singular number
