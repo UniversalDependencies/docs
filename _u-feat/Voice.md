@@ -43,6 +43,7 @@ actor-focus voice of Austronesian languages. <!-- which is labeled AGFOC in UniM
   (the active participle _napadli_ can be used to form either past
   tense or conditional mood; here it forms the past tense.)
 * [grc] _<b>λύει</b> τὸν ἵππον μου (<b>luei</b> ton hippon mou)_ “he frees my horse”
+* [hu] _<b>mos</b>_ “wash”
 * [tr] _Barış Filiz’i <b>öptü</b>._ “Barış kissed Filiz.”
 * [tl] _<b>Naglilinis</b> siya ng bahay._ “He/she <b>cleans</b> a/the house.”
 * [yii] _Waguɖaŋgu guda:ga <b>wawa:l</b>._ “The man <b>saw</b> the dog.”
@@ -143,5 +144,7 @@ also the causative case of nouns.
 
 #### Examples
 
-* [tr] _<b>karıştırıyor</b>_ "is confusing" (= is causing somebody to be confused)
+* [hu] _<b>mosat</b>_ “make somebody wash”
+* [tr] _<b>karıştırıyor</b>_ “is confusing” (= is causing somebody to be confused)
+
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
