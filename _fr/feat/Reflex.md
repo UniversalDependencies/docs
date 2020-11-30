@@ -6,4 +6,15 @@ udver: '2'
 ---
 
 In **UD_French-GSD** and **UD_French-Sequoia**, reflexive pronouns are marked with the feature `Reflex=Yes`.
+
+### <a name="Yes">`Yes`</a>: it is reflexive
+
+Note that there is no `No` value. If the word is not reflexive, the
+`Reflex` feature will just not be mentioned in the `FEAT`
+column. (Which means that empty value has the `No` meaning.)
+
+#### Examples
+
+* _lui-même, elle-même, eux-mêmes, elles-mêmes, moi-même, nous-mêmes, soi-même_
+
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
