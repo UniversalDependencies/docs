@@ -36,21 +36,21 @@ and thus we keep `Person[abs]` to demonstrate that it is the same layer of agree
 #### Examples
 
 * [eu] _dakarkio<b>gu</b>_ `Person[erg]=1`
-* [eu] _<b>dizkizuet</b>_ (lemma _*edun_) `Number[erg]=Sing|Person[erg]=1` | `Number[abs]=Plur|Person[abs]=3` | `Number[dat]=Plur|Person[dat]=2`
-* [eu] _<b>dizkizugu</b>_ (lemma _*edun_) `Number[erg]=Plur|Person[erg]=1` | `Number[abs]=Plur|Person[abs]=3` | `Number[dat]=Sing|Person[dat]=2`
+* [eu] _<b>dizkizuet</b>_ (lemma _*edun_) `Number[erg]=Sing|Person[erg]=1` `|` `Number[abs]=Plur|Person[abs]=3` `|` `Number[dat]=Plur|Person[dat]=2`
+* [eu] _<b>dizkizugu</b>_ (lemma _*edun_) `Number[erg]=Plur|Person[erg]=1` `|` `Number[abs]=Plur|Person[abs]=3` `|` `Number[dat]=Sing|Person[dat]=2`
 
 ### <a name="2">`2`</a>: second person ergative argument
 
 #### Examples
 
 * [eu] _dakarkio<b>zu</b>_ `Person[erg]=2`
-* [eu] _<b>dizkidazu</b>_ (lemma _*edun_) `Number[erg]=Sing|Person[erg]=2` | `Number[abs]=Plur|Person[abs]=3` | `Number[dat]=Sing|Person[dat]=1`
+* [eu] _<b>dizkidazu</b>_ (lemma _*edun_) `Number[erg]=Sing|Person[erg]=2` `|` `Number[abs]=Plur|Person[abs]=3` `|` `Number[dat]=Sing|Person[dat]=1`
 
 ### <a name="3">`3`</a>: third person ergative argument
 
 #### Examples
 
-* [eu] _<b>zizkigun, dizkigu</b>_ (lemma _*edun_) `Number[erg]=Sing|Person[erg]=3` | `Number[abs]=Plur|Person[abs]=3` | `Number[dat]=Plur|Person[dat]=1`
-* [eu] _<b>zizkieten, dizkiete</b>_ (lemma _*edun_) `Number[erg]=Plur|Person[erg]=3` | `Number[abs]=Plur|Person[abs]=3` | `Number[dat]=Plur|Person[dat]=3`
+* [eu] _<b>zizkigun, dizkigu</b>_ (lemma _*edun_) `Number[erg]=Sing|Person[erg]=3` `|` `Number[abs]=Plur|Person[abs]=3` `|` `Number[dat]=Plur|Person[dat]=1`
+* [eu] _<b>zizkieten, dizkiete</b>_ (lemma _*edun_) `Number[erg]=Plur|Person[erg]=3` `|` `Number[abs]=Plur|Person[abs]=3` `|` `Number[dat]=Plur|Person[dat]=3`
 
 <!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->

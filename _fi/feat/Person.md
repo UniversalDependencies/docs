@@ -7,6 +7,14 @@ udver: '2'
 
 `Person` is a feature of [verbs](u-pos/VERB) (TODO: also pronouns?).
 
+### <a name="0">`0`</a>: zero person
+
+Zero person is for impersonal statements.
+
+#### Examples
+
+* _kollegani silmistä <b>näki</b>_ “my colleague <b>saw</b> through his eyes” lit. “it was <b>seen</b> through my colleague's eyes”
+
 ### <a name="1">`1`</a>: first person
 
 In singular, the first person refers just to the speaker or author.
