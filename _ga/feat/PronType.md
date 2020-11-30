@@ -47,6 +47,9 @@ The interrogative pronouns can be used to specify or question a specific noun. T
 
 ### <a name="Prs">`Prs`</a>: person
 
+#### Examples
+
+* _<b>mé, tú, sé, sí, sinn, siad</b>_ “<b>I, you, he, she, we, they</b>”
 
 ### <a name="Rel">`Rel`</a>: relative
 
