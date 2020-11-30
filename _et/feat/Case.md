@@ -25,7 +25,7 @@ essive<br/>
 abessive<br/>
 comitative
 
-### <a name="Nom">`No`</a>: nominative / direct
+### <a name="Nom">`Nom`</a>: nominative / direct
 
 The base form of the noun, typically used as citation form (lemma).
 In many languages this is the word form used for subjects of clauses.
