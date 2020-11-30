@@ -13,6 +13,8 @@ Words can be either singular or plural.
 
 ### <a name="Sing">`Sing`</a>: singular
 
+#### Examples
+
 * _<b>duine</b>_ "person"
 
 ### <a name="Plur">`Plur`</a>: plural
