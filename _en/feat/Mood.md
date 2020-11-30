@@ -32,6 +32,8 @@ The subjunctive mood is used under certain circumstances in
 subordinate clauses, typically for actions that are subjective or
 otherwise uncertain such as expressing an opinion or describing one's state of mind. It is also used to make statements contrary to fact.
 
+#### Examples
+
 * _I suggest that he <b>see</b> a doctor._
 * _If I <b>were</b> rich..._
 
