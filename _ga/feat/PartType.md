@@ -42,13 +42,15 @@ NOTE: Although 'níos' is tagged as a substantive noun in the standard rule-base
 
 The copular particle introduces a copular construction. There is only one instance of this particle in the treebank currently.
 
-#### Example
+#### Examples
 
 * _cén fhealsúnacht <b>a</b> ba bhun leis an tuairim_ “which philosophy <b>that</b> the opinion was based on”
 
 ### <a name="Deg">`Deg`</a>: degree
 
 The degree particle is used to give a superlative description.
+
+#### Examples
 
 * _<b>dá</b> laghad_ “the least” (at all)
 * _ba ea <b>a</b> dhéine a bhí sé á breathnú_ “with how much more handsome he was becoming”
@@ -98,4 +100,9 @@ Verbal particles include the positive particles _<b>a, gur</b>_ and the negative
 ### <a name="Voc">`Voc`</a>: vocative
 
 The vocative particle is _<b>a</b>_, and is used to directly address someone. In this circumstance, it triggers lenition in the following noun. See [Case]()
+
+#### Examples
+
+* _Slán leat, <b>a</b> Mhichíl ghrinn._ “Goodbye, funny Michael.”
+
 <!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->
