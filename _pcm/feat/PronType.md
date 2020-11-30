@@ -66,6 +66,7 @@ The personal pronouns of Naija include _me, I/a, ma, you, your, him, im, e, am, 
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
+#### Example
 
 + _we we_
 + _una una_

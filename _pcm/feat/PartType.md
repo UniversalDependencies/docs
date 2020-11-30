@@ -17,7 +17,7 @@ We use the `PartType` feature to distinguish the different roles performed by th
 
 ### <a name="Cop">`Cop`</a>: copular
 
-The particle is considered copulative when it is used to link a subject with its nonverbal predicate. In Naija, the subject may be omitted. 
+The particle is considered copulative when it is used to link a subject with its nonverbal predicate. In Naija, the subject may be omitted.
 
 #### Example
 
@@ -25,7 +25,7 @@ The particle is considered copulative when it is used to link a subject with its
 
 Note : _na_ is a copulative particle frequently used for focalization, such as in [clefts](http://universaldependencies.org/pcm/overview/specific-syntax.html#clefts)
 
-### <a name="disc">`Disc`</a>: discourse
+### <a name="Disc">`Disc`</a>: discourse
 
 The PartType feature takes this value for discourse particles elements such as _sha_ or _o_.
 
