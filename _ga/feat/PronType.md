@@ -4,7 +4,7 @@ title: 'PronType'
 shortdef: 'pronominal type'
 udver: '2'
 ---
-### `Art` : articles
+### <a name="Art">`Art`</a>: articles
 
 Pronominal articles in Irish include the definite articles _an_ or _na_. These articles can combine with prepositions to create new forms, e.g., _an_ + _de_ = _den_ (“from the”), _an_ + _faoi_ = _faoin_ (“under the”), _na_ + _i_ = _sna_ (“in the”).
 
@@ -15,17 +15,17 @@ Pronominal articles in Irish include the definite articles _an_ or _na_. These a
 * _<b>san</b> áit_ “in the place”
 * _<b>faoin</b> suíochán_ “under the seat”
 
-### `Dem` : demonstrative
+### <a name="Dem">`Dem`</a>: demonstrative
 
 Irish demonstrative pronouns indicate nearness to the speaker, whether this is a difference of time or space. There are three main degrees of closeness: near to the speaker (_seo_, “this/these”), of some distance to the speaker (_sin_, “that/those”), and of greater distance to the speaker (_siúd, úd_, “that/those over there”).
 
 #### Examples
 
 * _Caithfidh mé <b>sin</b> a fhoghlaim_ “I have to learn <b>that</b>”
-* _an ceo <b>seo</b>_ “<b>this</b> fog” 
+* _an ceo <b>seo</b>_ “<b>this</b> fog”
 * _Ina measc <b>siúd</b>_ “in the midst of <b>that</b>”
 
-### `Ind` : indefinite
+### <a name="Ind">`Ind`</a>: indefinite
 
 Indefinite pronouns are used to refer to unspecified quantities or persons.
 
@@ -35,7 +35,7 @@ Indefinite pronouns are used to refer to unspecified quantities or persons.
 * _ní raibh <b>aon</b> duine acu ag goil_ “nobody (lit. not one person of them) was crying”
 * _ar gach <b>uile</b> Chaitliceach_ “at every single Catholic”
 
-### `Int` : interrogative
+### <a name="Int">`Int`</a>: interrogative
 
 The interrogative pronouns can be used to specify or question a specific noun. The pronouns used for inanimate things include _cén, cad, céard, cathain, conas_ and _cá_, while  _cé_ can be used for persons, places or things. These interrogative pronouns can be combined with other nouns to form common question phrases, such as _cén fáth_ (“what reason”), and _cé mhéad_ (“how many”)
 
@@ -45,10 +45,10 @@ The interrogative pronouns can be used to specify or question a specific noun. T
 * _<b>cad</b> é sin?_ “<b>what</b> is that?”
 * _<b>cé</b> atá ag comóradh_ “<b>who</b> is assembling”
 
-### `Prs` : person
+### <a name="Prs">`Prs`</a>: person
 
 
-### `Rel` : relative
+### <a name="Rel">`Rel`</a>: relative
 
 The relative pronoun in Irish is _<b>a</b>_ (or _ná_), and is used to introduce a relative clause or adverbial clause. It can combine with other words, such as the possible combinations with the present form of the verb _bí_ “to be”, as in _atá_ or _atáimse_, with the copula _is_, as in _ab_,  or with the preposition _le_ “with”, as in _lena_.
 

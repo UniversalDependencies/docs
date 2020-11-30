@@ -5,9 +5,9 @@ shortdef: 'possessive'
 udver: '2'
 ---
 
-Possessive is a feature of prepositions and determiners in Irish. Possessive prepositions can inflect to show person and number. Possessive determiners cause morphological changes in the noun they are dependent on. 
+Possessive is a feature of prepositions and determiners in Irish. Possessive prepositions can inflect to show person and number. Possessive determiners cause morphological changes in the noun they are dependent on.
 
-### `Yes` : possessive
+### <a name="Yes">`Yes`</a>: possessive
 
 The following table describes the determiners and the morphological changes they cause.
 
@@ -28,5 +28,5 @@ Certain prepositions (e.g. _faoi_ "under", _i_ "in", _le_ "with") in Irish can a
 
 * _ina c<b>h</b>orpán_ "in his body"
 * _ina cónaí_ "she lives in (lit. in her dwelling)"
-* _ina <b>g</b>cónaí_ "they live in (lit. in their dwelling)"                                                                                                                                                                                                                                                                                                                                                        
+* _ina <b>g</b>cónaí_ "they live in (lit. in their dwelling)"
 <!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->

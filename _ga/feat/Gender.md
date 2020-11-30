@@ -5,9 +5,9 @@ shortdef: 'gender'
 udver: '2'
 ---
 
-Irish has two gender forms: masculine and feminine. 
+Irish has two gender forms: masculine and feminine.
 
-### `Masc` : masculine gender
+### <a name="Masc">`Masc`</a>: masculine gender
 
 In general, words ending in a broad consonant are masculine. Exceptions include words ending in slender -óir, -eoir, and -ín, which are masculine.
 
@@ -16,12 +16,12 @@ In general, words ending in a broad consonant are masculine. Exceptions include 
 * _madra_ "dog"
 * _múinteoir_ "teacher"
 
-### `Fem` : feminine gender
+### <a name="Fem">`Fem`</a>: feminine gender
 
 In general, words ending in a slender consonant are feminine. Exceptions include words ending in a broad -óg, or -eog, which are feminine.
 
 #### Examples
 
 * _Éire_ "Ireland"
-* _néaróga_ "nerves" 
+* _néaróga_ "nerves"
 <!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->

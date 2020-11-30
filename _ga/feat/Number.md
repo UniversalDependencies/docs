@@ -5,13 +5,13 @@ shortdef: 'number'
 udver: '2'
 ---
 
-Number is an inflectional feature of nouns and other parts of speech (determiners, adjectives, prepositions, verbs, etc.) that mark agreement with nouns. Nouns may have different singular and plural forms in each case (see [Form]() for more on the noun declensions). 
+Number is an inflectional feature of nouns and other parts of speech (determiners, adjectives, prepositions, verbs, etc.) that mark agreement with nouns. Nouns may have different singular and plural forms in each case (see [Form]() for more on the noun declensions).
 
 Verb endings frequently synthesise to show number and person. The first person singular and plural are always synthetic, while the other paradigms (except 3rd person singular) can be synthetic depending on [Mood]() and [Tense]().
 
 Words can be either singular or plural.
 
-### `Sing` : singular
+### <a name="Sing">`Sing`</a>: singular
 
 ### <a name="Plur">`Plur`</a>: plural
 

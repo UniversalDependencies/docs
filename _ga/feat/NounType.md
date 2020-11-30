@@ -7,17 +7,17 @@ udver: '2'
 
 In Irish, noun forms fall into certain groups or declentions (see [Form]()). These nouns follow patterns of inflection depending on gender, number and case. The noun type feature affects the form of modifying adjectives, and so is a feature of both parts of speech.
 
-### `Strong` : strong plurals
+### <a name="Strong">`Strong`</a>: strong plurals
 
 The form of a strong plural remains unchanged regardless of grammatical case, i.e. it does not inflect.
 
 #### Examples
- 
+
 * _bláthanna_ “flowers” (nominative, accusative, genitive)
 * _oibreacha_ “works” (nominative, accusative, genitive)
 * _cótaí_ “coats” (nominative, accusative, genitive)
 
-### `Weak` : weak plurals
+### <a name="Weak">`Weak`</a>: weak plurals
 
 Unlike the strong plural, a weak plural noun is different in the nominative, accusative and genitive cases.
 
@@ -38,7 +38,7 @@ A final consonant is termed broad if the preceding vowel is broad (a, á, o, ó,
 * _dath<b>a</b>nna príomhúla_
 * _n<b>ó</b>taí praiticiúla_
 
-### `Slender` : slender consonants
+### <a name="Slender">`Slender`</a>: slender consonants
 
 A final consonant is termed slender if the preceding vowel is slender (e, é, i, í). The feature 'Slender' applies to adjectives qualifying a plural noun that ends in a slender consonant.
 

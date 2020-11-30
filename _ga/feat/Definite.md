@@ -7,11 +7,11 @@ udver: '2'
 
 In Irish, definiteness is indicated through the use of a definite article singular _<b>an</b>_ or plural _<b>na</b>_ (also used with feminine singular in genitive case, see below), much like the definite article "the" in English. There is no indefinite particle, with nouns considered indefinite unless otherwise indicated.
 
-### `Def` : definite
+### <a name="Def">`Def`</a>: definite
 
 Determiners _<b>an</b>_ and _<b>na</b>_ are both definite, as mentioned above.
 
-In the case of a genitive construction (eg _hata fhir an bhaile_ "the hat of the man of the town"), the noun can also indicate definiteness, though treatment depends on gender and number. 
+In the case of a genitive construction (eg _hata fhir an bhaile_ "the hat of the man of the town"), the noun can also indicate definiteness, though treatment depends on gender and number.
 
 #### Nominative case
 
@@ -50,7 +50,7 @@ The plural definite article _<b>na</b>_ is used with feminine singular nouns. In
 * _eagras <b>na bh</b>fostóirí_ "organisation of the employers"
 * _measc <b>na n-</b>ábhar_ "middle of the subjects"
 
-### `Ind` : indefinite
+### <a name="Ind">`Ind`</a>: indefinite
 
 There are no indefinite articles in Irish, however some nouns may inflect to show indefinite features.
 

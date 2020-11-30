@@ -5,11 +5,11 @@ shortdef: 'PrepForm'
 udver: '2'
 ---
 
-### `Cmpd` : compound preposition
+### <a name="Cmpd">`Cmpd`</a>: compound preposition
 
 In Irish, a simple preposition can be combined with a noun to give a compound preposition. Nouns following compound prepositions are inflected in the genitive case (see [Case]()).
 
-A list of all compound prepositions is as follows: 
+A list of all compound prepositions is as follows:
 
 <table>
 <tr><td><em><b>ar aghaidh</b> an  dorais</em></td><td>"opposite the door"</td>

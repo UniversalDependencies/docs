@@ -5,7 +5,7 @@ shortdef: 'reflexive'
 udver: '2'
 ---
 
-###  `Yes` : it is reflexive 
+### <a name="Yes">`Yes`</a>: it is reflexive
 
 The reflexive form is a feature of pronouns or determiners. It tells whether the word is reflexive, i.e. it refers to the subject of its clause.
 

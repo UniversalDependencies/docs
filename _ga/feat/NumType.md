@@ -5,9 +5,9 @@ shortdef: 'numeral type'
 udver: '2'
 ---
 
-Irish numeral forms inflect to demonstrate different grammatical roles. 
+Irish numeral forms inflect to demonstrate different grammatical roles.
 
-### `Card` : cardinal numbers
+### <a name="Card">`Card`</a>: cardinal numbers
 
 Cardinal numbers can be divided into those without nouns (used in counting, giving the time, etc.), and those with nouns. Those used without nouns use a particle _<b>a</b>_ that is absent in those used with nouns. This particle triggers h-prefix in numbers beginning with a vowel (_aon, ocht_).
 
@@ -24,7 +24,7 @@ Cardinal numbers can be divided into those without nouns (used in counting, givi
 * _<b>seasca</b> punt_ "sixty pounds"
 
 
-### `Ord` : ordinal numbers
+### <a name="Ord">`Ord`</a>: ordinal numbers
 
 Ordinal numbers can be used to show order of items. In Irish, the form uses the definite article _an_. (see [Definite]()). The English abbreviation "th" appended to a numeral (as in eigh<b>th</b>), is given in Irish as _<b>-ú</b>_.
 

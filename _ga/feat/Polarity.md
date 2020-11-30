@@ -1,16 +1,15 @@
 ---
 layout: feature
 title: 'Polarity'
-redirect_from: "ga/feat/Negative.html"
 shortdef: 'whether the word can be or is negated'
 udver: '2'
 ---
 
-There is no word for "yes" or "no" in Irish. Instead, a negative particle is used in combination with the verb to give a negative polarity. 
+There is no word for "yes" or "no" in Irish. Instead, a negative particle is used in combination with the verb to give a negative polarity.
 
-### `Neg` : negative
+### <a name="Neg">`Neg`</a>: negative
 
-The negative particle _ní_* can be used in almost every tense, except the past. It causes lenition to relevant consonants (see [Form]()), otherwise there is no change. In the past tense the particle is written as _níor_, and does not trigger any further lenition, though the word may already be lenited due to past tense morphology (see [Tense]()). 
+The negative particle _ní_* can be used in almost every tense, except the past. It causes lenition to relevant consonants (see [Form]()), otherwise there is no change. In the past tense the particle is written as _níor_, and does not trigger any further lenition, though the word may already be lenited due to past tense morphology (see [Tense]()).
 
 *In the Ulster dialect, this particle also appears as _cha_ (see [Dialect]())
 

@@ -5,10 +5,10 @@ shortdef: 'form of verb or deverbative'
 udver: '2'
 ---
 
-In Irish, verb form is a feature of words which have the appearance of a verb, although they function as other parts of speech. 
+In Irish, verb form is a feature of words which have the appearance of a verb, although they function as other parts of speech.
 This feature appears most commonly as an `infinitive` construction, which functions as a noun. This feature also appears as a `copula`, a `particle` or a `verbal noun`.
 
-### `Inf` : infinitive
+### <a name="Inf">`Inf`</a>: infinitive
 
 The infinitive verb form is the same as the verbal noun. The infinitive is always preceded by the infinitive particle _<b>a</b>_. This particle causes lenition in the verb, where possible (see [Form]()).
 
@@ -24,9 +24,9 @@ The infinitive verb form is the same as the verbal noun. The infinitive is alway
 * _chun féachaint_ "to see"
 * _á rá_ "being said/saying"
 
-### `Cop` : copula
+### <a name="Cop">`Cop`</a>: copula
 
-The copula verb form usually functions as a copula verb, though it can also be used as a mark, to introduce a complement clause, or as the root of the sentence. The order of elements in a copula construction is in general: copula, predicate (new or focussed information), and subject. 
+The copula verb form usually functions as a copula verb, though it can also be used as a mark, to introduce a complement clause, or as the root of the sentence. The order of elements in a copula construction is in general: copula, predicate (new or focussed information), and subject.
 
 #### Examples
 
@@ -40,9 +40,9 @@ In the Irish treebank, the copula verb usually appears in its present tense form
 * _<b>Ar</b> mhaith leat_ "<b>would</b> you like?"
 * _Dúirt sé <b>gur</b> múinteoir é_ "He said that he <b>was</b> a teacher"
 
-### `Part` : participle
+### <a name="Part">`Part`</a>: participle
 
-The participle verb form indicates a verbal adjective. It can be used to modify the head noun, or to introduce an adjectival predicate complement. (see [xcomp:pred](ga-dep/xcomp:pred)) The participle is usually inflected by adding the suffix <b>-te</b> (<b>-the</b>) or <b>-ta</b> (<b>-tha</b>) to the lemma. 
+The participle verb form indicates a verbal adjective. It can be used to modify the head noun, or to introduce an adjectival predicate complement. (see [xcomp:pred](ga-dep/xcomp:pred)) The participle is usually inflected by adding the suffix <b>-te</b> (<b>-the</b>) or <b>-ta</b> (<b>-tha</b>) to the lemma.
 
 #### Examples
 
@@ -55,7 +55,7 @@ The participle verb form indicates a verbal adjective. It can be used to modify 
 * _An mothaíonn tú <b>sábháilte</b>?_ "Do you feel <b>safe</b>?"
 * _Tá a lán <b>scríofa</b> ar an ábhar seo_ "There's a lot <b>written</b> on this topic"
 
-### `Vnoun` : verbal noun
+### <a name="Vnoun">`Vnoun`</a>: verbal noun
 
 Verbal nouns are similar to an infinitive verb in English, however they function as a noun rather than a verb. They may be used to introduce a clausal complement, (see [xcomp](ga-dep/xcomp)), as a conjunct, or as a root of the sentence. The noun is preceded by the preposition <b>ag</b> which loosely translates to "in the process of" in this context. The object of the verbal noun is in the genitive case (see [Case](ga/feat/all.html#gen--genitive-case)).
 
@@ -63,7 +63,7 @@ Verbal nouns are similar to an infinitive verb in English, however they function
 
 * _Beidh Máire Andrews <b>ag insint</b> scéalta difriúla_ "Mary Andrews will be <b>telling</b> different stories"
 * _Bhí Bhreandán <b>ag caitheamh</b> a chuid airgid_ "Brendan was <b>spending</b> his money"
-* _Bhí Éamonn <b>ag obair</b> go lánaimsireach_ "Eamon was <b>working</b> full-time" 
+* _Bhí Éamonn <b>ag obair</b> go lánaimsireach_ "Eamon was <b>working</b> full-time"
 
 
 

@@ -9,7 +9,7 @@ Case is an inflectional feature of nouns and other parts of speech (adjectives, 
 
 In Irish four cases are used: common (which covers nominative and accusative case), vocative, genitive and dative. These cases are labelled respectively as `NomAcc`, `Voc`, `Gen`, and `Dat`.
 
-### `NomAcc` : common case
+### <a name="NomAcc">`NomAcc`</a>: common case
 
 The common case is the base form of the noun, and is used for the lemma.
 This word form is used for subjects and objects of a clause, and predicates of a copula.
@@ -28,7 +28,7 @@ This word form is used for subjects and objects of a clause, and predicates of a
 * _Is <b>láithreán</b> uafásach é seo_ "This is an awful <b>site</b>"
 * _Is <b>múinteoir</b> é_ "He is a <b>teacher</b>"
 
-### `Voc` : vocative case
+### <a name="Voc">`Voc`</a>: vocative case
 
 The vocative case is used to mark a noun as being the addresse. It is preceded by the particle `a` (see [PartType]()). The vocative case triggers lenition.
 
@@ -37,7 +37,7 @@ The vocative case is used to mark a noun as being the addresse. It is preceded b
 * _'Slán leat, <b>a</b> D<b>h</b>oráid!_ "Goodbye, Dorád!"
 * _<b>A</b> d<b>h</b>aoine uaisle_ "ladies and gentlemen"
 
-### `Gen` : genitive case
+### <a name="Gen">`Gen`</a>: genitive case
 
 The genitive case indicates possesion or ownership. Its use is similar to the use of <b>'s</b> in English. Other use cases include describing the composition of an object, compound nouns, objects of a compound preposition, and objects of a verbal noun (see [VerbForm]()).
 
@@ -47,7 +47,7 @@ The genitive case indicates possesion or ownership. Its use is similar to the us
 * _mac an <b>fhir</b>_ "the man's son (lit. son of the man)"
 * _an Aontas <b>Eorpaigh</b>_ "the European Union"
 
-### `Dat` : dative case
+### <a name="Dat">`Dat`</a>: dative case
 
 The dative case is used with most simple prepositions in Irish. In standard Irish, the dative form is identical to the common case.
 
