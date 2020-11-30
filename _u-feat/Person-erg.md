@@ -41,6 +41,9 @@ Examples: [eu] _dakarkio<b>zu</b>_ `Person[erg]=2`
 
 ### <a name="3">`3`</a>: third person ergative argument
 
-Examples: [eu] _<b>d</b>akarki<b>o</b>gu_ `Person[abs]=3|Person[dat]=3`
+#### Examples
+
+* [eu] _<b>zizkigun, dizkigu</b>_ (lemma _*edun_) `Number[erg]=Sing|Person[erg]=3` | `Number[abs]=Plur|Person[abs]=3` | `Number[dat]=Plur|Person[dat]=1`
+* [eu] _<b>zizkieten, dizkiete</b>_ (lemma _*edun_) `Number[erg]=Plur|Person[erg]=3` | `Number[abs]=Plur|Person[abs]=3` | `Number[dat]=Plur|Person[dat]=3`
 
 <!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->
