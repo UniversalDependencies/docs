@@ -2,6 +2,7 @@
 layout: feature
 title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
+udver: '2'
 ---
 
 For verbs and auxiliaries, VerbForm denotes finite and infinitival forms of verbs. For adjectives, verbForm may denote whether it is a participle:
