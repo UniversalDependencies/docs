@@ -37,7 +37,10 @@ Examples: [eu] _dakarkio<b>gu</b>_ `Person[erg]=1`
 
 ### <a name="2">`2`</a>: second person ergative argument
 
-Examples: [eu] _dakarkio<b>zu</b>_ `Person[erg]=2`
+#### Examples
+
+* [eu] _dakarkio<b>zu</b>_ `Person[erg]=2`
+* [eu] _<b>dizkidazu</b>_ (lemma _*edun_) `Number[erg]=Sing|Person[erg]=2` | `Number[abs]=Plur|Person[abs]=3` | `Number[dat]=Sing|Person[dat]=1`
 
 ### <a name="3">`3`</a>: third person ergative argument
 
