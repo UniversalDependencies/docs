@@ -12,7 +12,7 @@ Estonian has 14 inflectional cases:<br/>
 nominative<br/>
 genitive<br/>
 partitive<br/>
-illative<br/>
+illative (+ additive)<br/>
 inessive<br/>
 elative<br/>
 allative<br/>
@@ -90,9 +90,20 @@ The illative case expresses direction into something.
 
 #### Examples
 
-* [hu] _ház_ "house"; _<b>házba</b>_ "into the house"
-* [fi] _talo_ "house"; _<b>taloon</b>_ "into the house"
 * [et] _maja_ "house"; _<b>majasse</b>_ "into the house"
+
+### <a name="Add">`Add`</a>: additive
+
+Distinguished by some scholars in Estonian, not recognized by
+traditional grammar, exists in the Multext-East Estonian tagset and in
+the Eesti keele puudepank. It has the meaning of illative, and
+some grammars will thus consider the additive just an alternative
+form of illative.
+Forms of this case exist only in singular and not for all nouns.
+
+#### Examples
+
+* [et] _riik_ "government"; _riigisse_ "to the government" (singular illative); _<b>riiki</b>_ "to the government" (singular additive)
 
 ### <a name="Ine">`Ine`</a>: inessive
 
@@ -100,8 +111,6 @@ The inessive case expresses location inside of something.
 
 #### Examples
 
-* [hu] _ház_ "house"; _<b>házban</b>_ "in the house"
-* [fi] _talo_ "house"; _<b>talossa</b>_ "in the house"
 * [et] _maja_ "house"; _<b>majas</b>_ "in the house"
 
 ### <a name="Ela">`Ela`</a>: elative
@@ -110,8 +119,6 @@ The elative case expresses direction out of something.
 
 #### Examples
 
-* [hu] _ház_ "house"; _<b>házból</b>_ "from the house"
-* [fi] _talo_ "house"; _<b>talos</b><b>t</b><b>a</b>_ "from the house"
 * [et] _maja_ "house"; _<b>majas</b><b>t</b>_ "from the house"
 
 ### <a name="All">`All`</a>: allative
@@ -132,8 +139,6 @@ ablative (from something).
 
 #### Examples
 
-* [hu] _pénztár_ "cash desk"; _<b>pénztárnál</b>_ "at the cash desk"
-* [fi] _pöytä_ "table"; _<b>pöydällä</b>_ "on the table"
 * [et] _laud_ "table"; _<b>laual</b>_ "on the table"
 
 Note that adessive is used to express location on the surface of
@@ -158,12 +163,7 @@ Szeged Treebank, this case is called factive.
 
 #### Examples
 
-* [fi] _pitkä_ "long"; _kasvoi <b>pitkäksi</b>_ "grew long"
-* [fi] _englanti_ "English language"; _<b>englanniksi</b>_ "in/into English"
-* [fi] _kello kuusi_ "six o'clock"; _kello <b>kuudeksi</b>_ "by six o'clock"
 * [et] _kell kuus_ "six o'clock"; _kella <b>kuueks</b>_ "by six o'clock"
-* [hu] _Oroszlány halott <b>várossá</b> válhat._ lit. _Oroszlány dead city.Tra
-  could-become._ "Oroszlány could become a dead city."
 
 ### <a name="Ter">`Ter`</a>: terminative / terminal allative
 
@@ -175,9 +175,6 @@ _adlativo terminal_).
 
 * [et] _<b>j&otilde;eni</b>_ "down to the river"; _kella <b>kuueni</b>_
   "till six o'clock"
-* [hu] _a <b>házig</b>_ "up to the house"; _hat <b>óráig</b>_ "till
-  six o'clock"
-* [eu] _erdi_ "half"; _<b>erdiraino</b>_ "up to the half"
 
 ### <a name="Ess">`Ess`</a>: essive / prolative
 
@@ -187,9 +184,7 @@ and it should be tagged `Ess` too.
 
 #### Examples
 
-* [fi] _lapsi_ "child"; _<b>lapsena</b>_ "as a child / when he/she was child"
 * [et] _laps_ "child"; _<b>lapsena</b>_ "as a child"
-* [eu] _erreformista_ "reformer"; _<b>erreformistatzat</b>_ "as a reformer"
 
 ### <a name="Abe">`Abe`</a>: abessive
 
