@@ -215,12 +215,17 @@ derivation.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=379> (in Finnish)
 
-### Notes
+### <a name="Lat">`Lat`</a>: lative
 
 Some descriptions of Finnish mark the base form of the first
 infinitive as being in the lative case (see e.g.
 [Omorfi tagger documentation](https://code.google.com/p/omorfi/wiki/AnalysisPossibilities#Infinite_forms_of_verbs)).
-UD Finnish follows ISK in not recognizing the lative case.
+The Finnish UD treebanks follow ISK in not recognizing the lative case,
+with the exception of FinnTreeBank, which currently marks this form as `Case=Lat`.
+
+#### Examples
+
+* [fi] _nukkuu_ "to sleep"
 
 #### References
 
