@@ -68,4 +68,29 @@ The following determiners and adverbs have this feature:
 * _this, that, those, these, here, there_
 
 Note that _that_ only has this feature when it is being used as a demonstrative determiner. If it is used to mark the beginning of a [clausal complement](en-dep/ccomp) or a [relative clause](en-dep/acl:relcl) it does not have this feature.
+
+### <a name="Neg">`Neg`</a>: negative pronoun or determiner
+
+#### Examples
+
+The following pronouns and determiners have this feature:
+
+* _none, no_
+
+### <a name="Tot">`Tot`</a>: total pronoun or determiner
+
+#### Examples
+
+The following pronouns and determiners have this feature:
+
+* _all, both_
+
+### <a name="Ind">`Ind`</a>: indefinite pronoun or determiner
+
+#### Examples
+
+The following pronouns and determiners have this feature:
+
+* _some, any_
+
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
