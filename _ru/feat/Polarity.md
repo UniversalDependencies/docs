@@ -2,6 +2,7 @@
 layout: feature
 title: 'Polarity'
 shortdef: 'polarity'
+udver: '2'
 ---
 
 Polarity in Russian is a feature of verbs, adjectives, adverbs and nouns used to express negation. Negation in Russian is done both by using the bound morpheme _не-_

@@ -2,6 +2,7 @@
 layout: feature
 title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
+udver: '2'
 ---
 
 Even though the name of the feature seems to suggest that it is used
@@ -39,7 +40,7 @@ and it appears as the argument of modal and other verbs.
 Participle is a non-finite verb form that shares properties of verbs
 and adjectives. Russian has two types of participles:
 
-- The active past participle 
+- The active past participle
   is used to form the active voice.
 - The passive participle
   is used to form the passive voice.
@@ -48,8 +49,8 @@ Participles inflect for [Gender]() and [Number]() but not for [Person]().
 
 #### Examples
 
-- _пишущий, пишущая, пишущее, пишущие_ &nbsp;“writing” 
-- _писаный, писаная, писаное, писаные_ &nbsp;“carried” 
+- _пишущий, пишущая, пишущее, пишущие_ &nbsp;“writing”
+- _писаный, писаная, писаное, писаные_ &nbsp;“carried”
 
 ### <a name="Trans">`Trans`</a>: transgressive
 
@@ -63,7 +64,7 @@ Perfective verbs form past transgressive, meaning “having done”.
 #### Examples
 
 - _неся;“carrying”)
-- _принеся_ &nbsp;“having brought” 
+- _принеся_ &nbsp;“having brought”
 
 - _они смотреля на меня <b>держа</b> ружья;_ “they
   stared at me <b>while gripping</b> their guns”

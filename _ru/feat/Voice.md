@@ -2,6 +2,7 @@
 layout: feature
 title: 'Voice'
 shortdef: 'voice'
+udver: '2'
 ---
 
 Voice is a feature of verbs that helps map the traditional syntactic functions,
@@ -18,7 +19,7 @@ By default, the finite forms, ininitives and gerunds of non-reflexive verbs are 
 #### Examples
 
 * _мы <b>атаковали</b> врага.&nbsp;_ “We <b>attacked</b> the enemy”
-  
+
 ### <a name="Pass">`Pass`</a>: passive voice
 
 The subject of the verb is affected by the action (patient). The doer
@@ -28,8 +29,8 @@ The passive participles (in present and past form) are tagged `Voice=Pass`. The 
 
 #### Examples
 
-* _Мы были <b>атакованы</b> врагом.&nbsp;_ “We were <b>attacked</b> by the enemy” 
-* _Разработки лекарства <b>ведутся</b> несколькими международными компаниями.&nbsp;_ “Drug development is <b>conducted</b> by several international companies” 
+* _Мы были <b>атакованы</b> врагом.&nbsp;_ “We were <b>attacked</b> by the enemy”
+* _Разработки лекарства <b>ведутся</b> несколькими международными компаниями.&nbsp;_ “Drug development is <b>conducted</b> by several international companies”
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
@@ -37,11 +38,11 @@ Between active and passive, needed for the reflexive verbs (in all forms except 
 
 #### Examples
 
-* _Я <b>занялся</b> музыкой.&nbsp;_ “I <b>took up.Refl</b> music” 
+* _Я <b>занялся</b> музыкой.&nbsp;_ “I <b>took up.Refl</b> music”
 
 #### References
 
-Anna Siewierska. 2013. Passive Constructions. In: Dryer, Matthew S. & Haspelmath, Martin (eds.) 
-The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. 
-(http://wals.info/chapter/107) 
+Anna Siewierska. 2013. Passive Constructions. In: Dryer, Matthew S. & Haspelmath, Martin (eds.)
+The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology.
+(http://wals.info/chapter/107)
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->

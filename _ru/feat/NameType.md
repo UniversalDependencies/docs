@@ -2,6 +2,7 @@
 layout: feature
 title: 'NameType'
 shortdef: 'type of named entity'
+udver: '2'
 ---
 
 Classification of named entities (token-based, no nesting of entities etc.)

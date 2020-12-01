@@ -2,6 +2,7 @@
 layout: feature
 title: 'Reflex'
 shortdef: 'reflexive'
+udver: '2'
 ---
 
 Boolean feature of [pronouns](ru-pos/PRON) or

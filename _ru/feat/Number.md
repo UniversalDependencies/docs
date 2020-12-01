@@ -2,6 +2,7 @@
 layout: feature
 title: 'Number'
 shortdef: 'number'
+udver: '2'
 ---
 
 `Number` is an inflectional feature of [nouns](ru-pos/NOUN) and

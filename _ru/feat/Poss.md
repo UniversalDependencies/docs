@@ -2,6 +2,7 @@
 layout: feature
 title: 'Poss'
 shortdef: 'possessive'
+udver: '2'
 ---
 
 Boolean feature of pronouns, determiners or adjectives.  It tells

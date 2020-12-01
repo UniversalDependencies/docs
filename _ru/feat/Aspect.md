@@ -2,6 +2,7 @@
 layout: feature
 title: 'Aspect'
 shortdef: 'aspect'
+udver: '2'
 ---
 
 Aspect is a feature that specifies duration of the action in time,
