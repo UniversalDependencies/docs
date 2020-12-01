@@ -2,6 +2,7 @@
 layout: feature
 title: 'Animacy'
 shortdef: 'animacy'
+udver: '2'
 ---
 
 In contrast to some other languages, the Slovenian tagset does not consider `Animacy` to be a lexical feature, as certain types of inanimate nouns, such as institutions, personified objects, brand names etc., often take on both semantic and grammatical features of animate nouns.
@@ -9,6 +10,8 @@ In contrast to some other languages, the Slovenian tagset does not consider `Ani
 Animacy is thus only marked as an inflectional feature of [masculine](Gender) [nouns](NOUN) and [proper nouns](PROPN) to distinguish between animate and inanimate word forms in [accusative](Case) [singular](Number), e.g. _Odstrigla si je <b>koder</b>._ "She cut off a curl." (inanimate) vs. _Videla je <b>kodra</b>._ "She saw a poodle." (animate).
 
 ### <a name="Anim">`Anim`</a>: animate
+
+#### Examples
 
 `Animate` value is attributed to masculine nouns in accusative singular usually ending in -a:
 
@@ -20,6 +23,8 @@ Note that grammatical animatness can also apply to semantically inanimate nouns,
 
 
 ### <a name="Inan">`Inan`</a>: inanimate
+
+#### Examples
 
 `Inanimate` value is attributed to all other masculine nouns in accusative singular:
 
