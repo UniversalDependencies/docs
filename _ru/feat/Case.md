@@ -74,6 +74,16 @@ preposition _без&nbsp;_ always requires its argument to be in genitive.
 * _Москва - столица <b>Российской Федерации</b>.&nbsp;_ “Moscow is the
   capital <b>of the Russian Federation</b>.”
 
+### <a name="Par">`Par`</a>: partitive
+
+The partitive case is sometimes considered just a variant form of the
+genitive. Not all nouns have the form. Concording adjectives take the
+genitive form.
+
+#### Examples
+
+* _Кроме письменных принадлежностей ему принесли хлеба и горячего <b>чаю</b>.&nbsp;_ “In addition to writing instruments, they brought him bread and hot <b>tea</b>.”
+
 ### <a name="Dat">`Dat`</a>: dative
 
 This is the word form often used for indirect objects of verbs.
@@ -127,4 +137,17 @@ constructions (cf. the English preposition _by_).
 
 * _Этот закон был одобрен <b>правительством</b>.&nbsp;_ “This bill has been
   approved <b>by the government</b>.” (Passive example)
+
+
+### <a name="Voc">`Voc`</a>: vocative
+
+The vocative case is a special form of noun used to address
+someone. Only a few Russian nouns still preserve a vocative form.
+For the rest, the nominative is used instead.
+
+#### Examples
+
+* _О <b>боже</b>, в каком положении?!_ “Oh <b>god</b>, in what position?!”
+* _<b>Господи</b>! недопустимо так унижать людей!_ “<b>Lord</b>! it is unacceptable to humiliate people so!”
+
 <!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
