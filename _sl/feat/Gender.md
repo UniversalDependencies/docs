@@ -2,6 +2,7 @@
 layout: feature
 title: 'Gender'
 shortdef: 'gender'
+udver: '2'
 ---
 
 Gender is a lexical feature of [nouns](NOUN) and [proper nouns](PROPN), and an inflectional feature of other parts of speech ([adjectives](ADJ), [verbs](VERB), [auxiliary](AUX), [pronouns](PRON), [determiners](DET) and [numerals](NUM)) that mark agreement with nouns.
@@ -23,7 +24,6 @@ Gender is a lexical feature of [nouns](NOUN) and [proper nouns](PROPN), and an i
 * _bankirka_ "female banker"
 * _univerza_ "university"
 * _perut_ “wing”
-
 
 ### <a name="Neut">`Neut`</a>: neuter gender
 
