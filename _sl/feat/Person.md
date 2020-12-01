@@ -2,6 +2,7 @@
 layout: feature
 title: 'Person'
 shortdef: 'person'
+udver: '2'
 ---
 
 Person is a lexical feature of personal and possessive [pronouns](PRON) and [determiners](DET), and an inflectional feature of [auxiliaries](AUX) and [verbs](VERB).
