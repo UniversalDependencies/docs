@@ -18,21 +18,27 @@ At this point we consider dangerous to use `Hum: human`.
 
 ### <a name="Anim">`Anim`</a>: animate
 
+#### Examples
+
 As explicitly Animate can be considered the following pronouns:
 
 - the masculine accusative forms of some pronouns: _Pre-as-m_ (relative - _когото_ /_kogoto_ "whom"), _Pce-as-m_ (collective - _всекиго_ /_vsekigo_ "everybody",
-_Pie-as-m_ (interrogative - _кого_ /_kogo_ "whom"), _Pfe-as-m_ (indefinite - _някого_ /_nyakogo_ "somebody"), _Pne-as-m_ (negative - _никого_ /_nikogo_ "nobody")) 
+_Pie-as-m_ (interrogative - _кого_ /_kogo_ "whom"), _Pfe-as-m_ (indefinite - _някого_ /_nyakogo_ "somebody"), _Pne-as-m_ (negative - _никого_ /_nikogo_ "nobody"))
 - some pronouns for quantity of humans: _Piy_ (interrogative - _колцина_ / _koltsina_ "how many"); _Pfy#_ (indefinite - _неколцина_ / _nekoltsina_ "few, some")
 - the 1st and 2nd personal and possessive pronouns: _Ppe#1_ (_аз, ние_ / _az, nie_ "I, we"), _Ppe#2_ (_ти, вие_ / _ti, vie_ "you, you"), _Pph#2_ (_Вие_ / _Vie_ "you-honorific");
 _Ps#1#_ (_мой_ / _moy_ "my"), _Ps#2#_ (_твой_ / _tvoy_ "your")
 
 ### <a name="Nhum">`Nhum`</a>: animate but non-human
 
+#### Examples
+
 It has the so-called `count form` in contrast to the humans, but only for masculine nouns. The `count form` is a kind of plural, which comes after numerals.
 
 - _два лъва_ / _dva lava_ "two lions"
 
 ### <a name="Inan">`Inan`</a>: inanimate
+
+#### Examples
 
 It has also the so-called `count form` in contrast to the humans, but only for masculine nouns. The `count form` is a kind of plural, which comes after numerals.
 
