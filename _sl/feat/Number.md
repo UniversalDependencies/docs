@@ -2,6 +2,7 @@
 layout: feature
 title: 'Number'
 shortdef: 'number'
+udver: '2'
 ---
 
 In Slovenian, `Number` is an inflectional feature of [nouns](NOUN) and [proper nouns](PROPN), and other parts of speech ([adjectives](ADJ), [auxiliaries](AUX), [determiners](DET), [numerals](NUM), [pronouns](PRON), [verbs](VERB)) that mark agreement with nouns.
