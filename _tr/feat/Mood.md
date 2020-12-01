@@ -101,7 +101,7 @@ This mood is typically marked by the aorist marker on verbs, and with *-DIr* suf
 * *Ali işe geç gider* 'Ali goes to work late'
 * *hastadır* '(I hypothesize/deduce that) she must be sick'
 
-### <a name="Abil">`Abil`</a>: abilitative or potentiality (**new proposal, not in UD**)
+### <a name="Pot">`Pot`</a>: potential
 
 The suffix *-Abil* may indicate ability or possibility.
 These moods are normally distinct, and the same verb may express both at the same time (see the last example below).
