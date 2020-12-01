@@ -23,18 +23,18 @@ In affirmative imperative, ther is no auxiliaries, while in negative imperative 
 
 #### Example
 
-
 * _Bɔ́ yàn!_ "Go away!"
 * _Í <b>kána</b> kàsi!_ "Do not cry!"
 
-### <a name="Subj">`Subj`</a>: Subjunctive
+### <a name="Sub">`Sub`</a>: Subjunctive
 
 In subjunctive, an auxiliary ká is used.
+
 #### Example
 
 * _Í <b>ká</b> dɔń kɛ́!_ "You should dance!"
 
-### <a name="Cond">`Cond`</a>: Conditional
+### <a name="Cnd">`Cnd`</a>: Conditional
 
 Conditional may be expressed by an auxiliary mána, but such cases are rather rare.
 
