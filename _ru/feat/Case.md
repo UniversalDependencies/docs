@@ -2,6 +2,7 @@
 layout: feature
 title: 'Case'
 shortdef: 'case'
+udver: '2'
 ---
 
 Case is an inflectional feature of [nouns](ru-pos/NOUN) and
@@ -39,6 +40,11 @@ be in a particular grammatical case to fill a particular valency slot
 
 The base form of the noun, also used as citation form (lemma).
 This is the word form used for subjects of clauses.
+
+#### Examples
+
+* _<b>Наташа</b> спит.&nbsp;_ / _<b>Nataša</b> spit.&nbsp;_ “<b>Natasha</b> sleeps.”
+* _<b>Иван</b> любит Наташу.&nbsp;_ / _<b>Ivan</b> ljubit Natašu.&nbsp;_ “<b>Ivan</b> loves Natasha.”
 
 ### <a name="Gen">`Gen`</a>: genitive
 
@@ -82,6 +88,10 @@ This is the word form often used for indirect objects of verbs.
 
 Perhaps the second most widely spread morphological case.
 This is the word form most frequently used for direct objects of verbs.
+
+#### Examples
+
+* _Иван любит <b>Наташу</b>.&nbsp;_ / _Ivan ljubit <b>Natašu</b>.&nbsp;_ “Ivan loves <b>Natasha</b>.”
 
 ### <a name="Loc">`Loc`</a>: locative
 
