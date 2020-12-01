@@ -2,6 +2,7 @@
 layout: feature
 title: 'PronType'
 shortdef: 'pronominal type'
+udver: '2'
 ---
 
 
@@ -28,7 +29,7 @@ forms.
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner, numeral or adverb
 
 
-#### Examples: 
+#### Examples:
 
 * _kim_ "who"
 * _ne_ "what"
@@ -37,7 +38,7 @@ forms.
 
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun
 
-#### Examples: 
+#### Examples:
 
 * _bu_ "this"
 * _şu_ "that/this"
@@ -49,7 +50,7 @@ forms.
 
 Locative pronouns are typically distinguished from their _demonstrative_ counterparts in Turkish.
 
-#### Examples: 
+#### Examples:
 
 * _bura_ "here"
 * _şura_ "there"

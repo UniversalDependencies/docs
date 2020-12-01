@@ -2,6 +2,7 @@
 layout: feature
 title: 'Person'
 shortdef: 'person'
+udver: '2'
 ---
 
 In Turkish, `Person` is a feature of personal [pronouns](tr-pos/PRON), and [verbs](tr-pos/VERB).
@@ -22,7 +23,7 @@ We do not mark nouns for `Person`.
 
 In singular, the first person refers just to the speaker / author. In
 plural, it must include the speaker and one or more additional
-persons. 
+persons.
 
 It is used for pronouns *ben* 'I' and *biz* 'we' and their inflected forms, and verbs with a first person  plural/singular agreement suffix.
 
@@ -60,7 +61,7 @@ The second person singular agreement suffix is null for verbs in imperative form
 The third person refers to one or more persons that are neither
 speakers nor addressees.
 
-It is used for pronouns *o* 'he/she/it' and *onlar* 'they' and their inflected forms, and verbs with a second third plural/singular agreement suffix. The third person singular agreement suffix is null in most cases. 
+It is used for pronouns *o* 'he/she/it' and *onlar* 'they' and their inflected forms, and verbs with a second third plural/singular agreement suffix. The third person singular agreement suffix is null in most cases.
 
 #### Examples
 

@@ -1,8 +1,8 @@
 ---
 layout: feature
 title: 'Polarity'
-redirect_from: "tr/feat/Negative.html"
 shortdef: 'whether the word can be or is negated'
+udver: '2'
 ---
 
 In Turkish [verbs](tr-pos/VERB) are negated with the suffix _-mA_ (and its allomorphs).
@@ -10,7 +10,7 @@ Only exception is the verb/particle _değil_ which functions as an auxiliary or 
 (it is the main means of negating a copular clause, but it can also be used to negate a verbal clause).
 _değil_ is marked as `Negative=Neg` when it is used as a copula or auxiliary.
 We use the POS tag [particle](tr-pos/PART) when _değil_ is used for negating non-predicates,
-in which case we use the feature [`PronType`](PronType) for marking its negativity. 
+in which case we use the feature [`PronType`](PronType) for marking its negativity.
 
 
 In Turkish [adjectives](tr-pos/ADJ) are normally negated by forming adjectival

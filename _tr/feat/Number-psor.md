@@ -2,6 +2,7 @@
 layout: feature
 title: 'Number[psor]'
 shortdef: 'possessor’s number'
+udver: '2'
 ---
 
 `Number[psor]` feature captures the possessor's number.

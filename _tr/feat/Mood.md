@@ -2,6 +2,7 @@
 layout: feature
 title: 'Mood'
 shortdef: 'mood'
+udver: '2'
 ---
 
 `Mood` expresses the modality, a speaker's perspective, in finite verbs.
@@ -78,7 +79,7 @@ With third person singular agreement the imperative form may also express a wish
 
 ### <a name="Nec">`Nec`</a>: necessitative
 
-This expresses some sort of necessity (mush/should/have to in English). 
+This expresses some sort of necessity (mush/should/have to in English).
 
 #### Examples
 
@@ -90,7 +91,7 @@ This expresses some sort of necessity (mush/should/have to in English).
 Turkish modal system includes a distinction between statements of direct experience (`Ind`) and statements with a more general or theoretical nature (Göksel & Kerslake, 2005, p.295).
 This mood is typically marked by the aorist marker on verbs, and with *-DIr* suffix on nominal predicates.
 
-(**NOTE:** this mood interacts with evidentiality.  One may consider the status of evidentiality expressed by this suffix to be "inferred". Hence, an alternative way of marking this could be `Evidential=Infer`, or something similar) 
+(**NOTE:** this mood interacts with evidentiality.  One may consider the status of evidentiality expressed by this suffix to be "inferred". Hence, an alternative way of marking this could be `Evidential=Infer`, or something similar)
 
 #### Examples
 
@@ -107,8 +108,8 @@ These moods are normally distinct, and the same verb may express both at the sam
 However, it is also very difficult to disambiguate between these two moods.
 
 #### Examples
-* *eve gidebilir* 'she can go home' ('she is capable of going home', or 'she just may go home') 
-* *yağmur yağabilir* 'it may rain' 
+* *eve gidebilir* 'she can go home' ('she is capable of going home', or 'she just may go home')
+* *yağmur yağabilir* 'it may rain'
 * *eve gidemeyebilir* 'she may not be able to go home' (it is possible that she is not capable of going home)
 
 ### References

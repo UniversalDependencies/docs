@@ -2,6 +2,7 @@
 layout: feature
 title: 'Number'
 shortdef: 'number'
+udver: '2'
 ---
 
 `Number` is an inflectional feature of nouns and other parts of speech (adjectives, verbs) that mark agreement with nouns.
@@ -28,7 +29,7 @@ A single person or thing. There is no morphological marker for singular for noun
 #### Examples
 
 * *bir elma* 'one/an apple'
-* *üc elma* 'three apples' -- note the missing plural marker. 
+* *üc elma* 'three apples' -- note the missing plural marker.
  _\*üç elma<b>lar</b>_ is ungrammatical.
 * *okudum* '(I) read-PAST'
 

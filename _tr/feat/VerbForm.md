@@ -2,6 +2,7 @@
 layout: feature
 title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
+udver: '2'
 ---
 
 We use `VerbForm` with non-finite verbs that function as heads of adjectival and adverbial clauses.

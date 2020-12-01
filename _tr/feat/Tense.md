@@ -2,6 +2,7 @@
 layout: feature
 title: 'Tense'
 shortdef: 'tense'
+udver: '2'
 ---
 
 Turkish has a complex tense/aspect/modality system.
@@ -31,7 +32,7 @@ These suffixes also combine with others to refer to time relative to a past even
 
 ### <a name="Fut">`Fut`</a>: future tense
 
-Turkish future tense is expressed with suffix *-(y)AcAk*. 
+Turkish future tense is expressed with suffix *-(y)AcAk*.
 Copular predicates cannot directly take future `Tense` morphemes.
 Future tense in nominal phrases are expressed using auxiliary *ol-*.
 

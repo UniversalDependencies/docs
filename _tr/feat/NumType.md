@@ -2,6 +2,7 @@
 layout: feature
 title: 'NumType'
 shortdef: 'numeral type'
+udver: '2'
 ---
 
 In Turkish [numbers](tr-pos/NUM) can be cardinal, ordinal or distributive.
@@ -12,11 +13,11 @@ which inflects the same way the numbers are inflected and can become ordinal or 
 
 #### Examples
 
-* _1, 2, 3_ 
+* _1, 2, 3_
 * _bir, iki, üç_  "one, two, three"
 * _kaç kitap okudun_ "how many books did your read"
 
-### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative 
+### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative
 
 In some languages, this is a subtype of adjective or adverb.
 In Turkish, we mark the ordinal numerals as `NUM`.
@@ -26,7 +27,7 @@ A period following a numeral may also indicate ordinal use of the number.
 
 #### Examples
 
-* _1., 2., 3._ 
+* _1., 2., 3._
 * _bir<b>inci</b>, iki<b>nci</b>, üç<b>üncü</b>_  "first, second, third"
 * _kaç<b>ıncı</b> kitabı okudun_ "which (of a series) book did your read" (answer should be something like _ikinci_ "(the) second")
 

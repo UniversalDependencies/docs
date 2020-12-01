@@ -2,6 +2,7 @@
 layout: feature
 title: 'Voice'
 shortdef: 'voice'
+udver: '2'
 ---
 
 (**This feature, as defined currently, cannot correctly handle voice features on Turkish verbs.**) See https://github.com/UniversalDependencies/docs/issues/197 for the discussion.
@@ -43,8 +44,8 @@ In Turkish, that this is a feature of verbs.
 Not to be caused with causative case of nouns in some languages.
 
 In causative constructions the subject is the entity "causing" the action. It generally translate to English as 'cause/make/have/let/allow' someone to perform action described by the main verb.
-Many (lexicalized) verbs that have unrelated roots in other languages are formed are related by the causative suffix in Turkish, 
-e.g., _öl-_ "die" and _öl-<b>dür</b>_ "kill" (to cause someone to die). 
+Many (lexicalized) verbs that have unrelated roots in other languages are formed are related by the causative suffix in Turkish,
+e.g., _öl-_ "die" and _öl-<b>dür</b>_ "kill" (to cause someone to die).
 Causative suffix is quite productive.
 Multiple causative suffixes can be attached to a verb,
 and the number of causative suffixes are theoretically unbounded.
