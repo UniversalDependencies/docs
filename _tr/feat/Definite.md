@@ -2,6 +2,7 @@
 layout: feature
 title: 'Definite'
 shortdef: 'definiteness or state'
+udver: '2'
 ---
 
 Definiteness is typically a feature of determiners.
