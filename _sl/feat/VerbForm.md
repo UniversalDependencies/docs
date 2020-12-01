@@ -2,6 +2,7 @@
 layout: feature
 title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
+udver: '2'
 ---
 
 Principally, `VerbForm` is an inflectional feature of [verbs](VERB) and [auxiliaries](AUX), however, it is also used as a lexical feature of some [adjectives](ADJ) and [adverbs](ADV).
@@ -27,7 +28,7 @@ Infinitive is the citation form of verbs and it appears as the argument of modal
 
 ### <a name="Part">`Part`</a>: participle
 
-Participle is a non-finite verb form that shares properties of verbs and adjectives. We distinguish two groups of participles: l-participles that can either be classified as [verbs](VERB) or [adjectives](ADJ), and all other participles (usually ending in _-č_, _-n_, or _-t_) that are always classified as [adjectives](ADJ), regardless of whether they are used as attributes or predicates. 
+Participle is a non-finite verb form that shares properties of verbs and adjectives. We distinguish two groups of participles: l-participles that can either be classified as [verbs](VERB) or [adjectives](ADJ), and all other participles (usually ending in _-č_, _-n_, or _-t_) that are always classified as [adjectives](ADJ), regardless of whether they are used as attributes or predicates.
 
 As verbs, _L-participles_ are used to form the past and future tense, and the conditional mood in present or past tense. As adjectives, both groups of participles can be used either as noun attributes (_ukradena denarnica_ "stolen wallet"), as subject complements (_denarnica je ukradena_ "the wallet is stolen") or in passive constructions (_denarnica je bila ukradena_ "the wallet has been stolen").
 
@@ -37,9 +38,9 @@ As verbs, _L-participles_ are used to form the past and future tense, and the co
 - _zgorel, zgorelega, zgorelemu, zgorelega ..._ "burnt" (participial adjective in different genders, numbers and cases)
 - _ukraden, ukradenega, ukradenemu, ukradenega_ ..."stolen” (participial adjective in different genders, numbers and cases)
 
-### <a name="Trans">`Trans`</a>: transgressive
+### <a name="Conv">`Conv`</a>: converb / adverbial participle
 
-The transgressive, also called adverbial participle, is a non-finite verb form that shares properties of verbs and adverbs. In Slovenian, `transgressives` are always marked as [adverbs](ADV).
+The converb, also called adverbial participle, is a non-finite verb form that shares properties of verbs and adverbs. In Slovenian, `converbs` are always tagged as [adverbs](ADV).
 
 #### Examples
 

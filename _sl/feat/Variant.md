@@ -2,6 +2,7 @@
 layout: feature
 title: 'Variant'
 shortdef: 'alternative form of word'
+udver: '2'
 ---
 
 In Slovenian, the `Variant` feature is either a lexical or inflectional features of some [pronouns](PRON).

@@ -2,6 +2,7 @@
 layout: feature
 title: 'Number[psor]'
 shortdef: 'possessor’s number'
+udver: '2'
 ---
 
 Possessive [pronouns](PRON) and [determiners](DET) may have two different numbers: that of the possessed object (in agreement with the modifying noun, inflectional feature) and that of the possessor (inherent, lexical feature). The `Number[psor]` feature denotes the possessor's number.

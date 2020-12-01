@@ -1,7 +1,8 @@
 ---
 layout: feature
 title: 'Foreign'
-shortdef: 'This is this a foreign word'
+shortdef: 'foreign word'
+udver: '2'
 ---
 
 `Foreign` is a lexical feature of some words belonging to class [X: other](X). It is assigned to intervening foreign words that have not been analyzed grammatically. These can appear as a string or in combination with other Slovenian words. If a word is commonly used in Slovenian and displays Slovenian grammatical behavior, such as inflection, it is considered to be a Slovenian (loan) word, not a foreign word.

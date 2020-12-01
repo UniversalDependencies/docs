@@ -2,6 +2,7 @@
 layout: feature
 title: 'Gender[psor]'
 shortdef: 'possessor’s gender'
+udver: '2'
 ---
 
 Possessive [pronouns](PRON) and [determiners](DET) may have two different genders: that of the possessed object (in agreement with the modifying noun, inflectional feature) and that of the possessor (inherent, lexical feature). The `Gender[psor]` feature denotes the possessor's gender.

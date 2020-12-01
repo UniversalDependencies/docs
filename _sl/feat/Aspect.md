@@ -2,6 +2,7 @@
 layout: feature
 title: 'Aspect'
 shortdef: 'aspect'
+udver: '2'
 ---
 
 Aspect is a lexical feature of [verbs](VERB) that specifies the duration and completion of action in time.
@@ -12,16 +13,19 @@ Slovenian grammar distinguishes two aspect values: `imperfect` and `perfect`. Pa
 
 The action took / takes / will take some time span and there is no information whether and when it was / will be completed.
 
+#### Examples
+
 * _Danes se ni <b>zgodilo</b> nič posebnega._ "Nothing special has happened today."
 
 ### <a name="Perf">`Perf`</a>: perfect aspect
 
 The action has been / will have been completed. Since there is emphasis on one point on the time scale (the point of completion).
 
+#### Examples
+
 * _Pogosto se je <b>dogajalo</b>, da je zamujal._ "It often happened he was late."
 
-
-### Verbs without `Aspect`
+## Verbs without `Aspect`
 
 Verbs without `Aspect` are considered to be biaspectual, i.e. they can either denote duration or completion, but their actual interpretation depends on the context.
 

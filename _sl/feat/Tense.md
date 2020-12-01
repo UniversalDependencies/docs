@@ -2,9 +2,10 @@
 layout: feature
 title: 'Tense'
 shortdef: 'tense'
+udver: '2'
 ---
 
-Tense is an inflectional feature of [nouns](NOUN) and [auxiliaries](AUX) that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance. In Slovenian, only `Present` tense and `Future` tense can be expressed morphologically, while past tense is formed syntactically, by a combination of a present auxiliary verb _biti_ "to be" and past participle (l-participle), e.g. _sem šel_ "I went". 
+Tense is an inflectional feature of [nouns](NOUN) and [auxiliaries](AUX) that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance. In Slovenian, only `Present` tense and `Future` tense can be expressed morphologically, while past tense is formed syntactically, by a combination of a present auxiliary verb _biti_ "to be" and past participle (l-participle), e.g. _sem šel_ "I went".
 
 ### <a name="Pres">`Pres`</a>: present tense
 
@@ -27,6 +28,6 @@ Examples:
 
 ### Conversion from JOS
 
-All verbs with VForm=present are converted to UD `Tense=Pres` and all verbs with VForm=future are converted to UD `Ťense=Fut`. We do not assign tense to other verb forms, such as participle, infinitive, supine, conditional and imperative. 
+All verbs with VForm=present are converted to UD `Tense=Pres` and all verbs with VForm=future are converted to UD `Ťense=Fut`. We do not assign tense to other verb forms, such as participle, infinitive, supine, conditional and imperative.
 
 <!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->

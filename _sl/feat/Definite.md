@@ -2,6 +2,7 @@
 layout: feature
 title: 'Definite'
 shortdef: 'definiteness or state'
+udver: '2'
 ---
 
 Definiteness in Slovenian is an inflectional feature of masculine word forms in nominative and accusative singular that distinguishes whether we are talking about something known and concrete, or something general or unknown. It is currently marked on some [adjectives](ADJ) and some [determiners](DET).

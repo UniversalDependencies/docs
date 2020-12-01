@@ -2,6 +2,7 @@
 layout: feature
 title: 'NumForm'
 shortdef: 'numeral form'
+udver: '2'
 ---
 
 `NumForm` is a lexical feature of [numerals](NUM) that marks whether the number is expressed by digits or letters.

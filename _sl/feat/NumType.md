@@ -2,6 +2,7 @@
 layout: feature
 title: 'NumType'
 shortdef: 'numeral type'
+udver: '2'
 ---
 
 In Slovenian UD Treebank, `NumType` is a lexical feature of [numerals](NUM) and some [adjectives](ADJ) that denote counting by numbers.
