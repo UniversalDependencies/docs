@@ -2,9 +2,10 @@
 layout: feature
 title: 'Aspect'
 shortdef: 'aspect'
+udver: '2'
 ---
 
-Aspect is a feature that specifies duration of the action in time, whether the action has been completed, ongoing etc. 
+Aspect is a feature that specifies duration of the action in time, whether the action has been completed, ongoing etc.
 
 In Turkish a set of verbal morphemes alter the `Aspect` feature of a verb.
 These morphemes often affect the [Tense]() and [Mood]() features as well.
@@ -47,7 +48,7 @@ In some contexts, both suffixes may also indicate _habitual_ aspect (`Aspect=Hab
 
 Verbal morphology in Turkish may indicate an action that happens repeatedly at present or past.
 This aspect is mainly marked with suffix *-A/Ir*.
-In some cases, the progressive suffix *-(I)yor* may indicate the habitual aspect, 
+In some cases, the progressive suffix *-(I)yor* may indicate the habitual aspect,
 _Her sabah 5 km koşuyorum_ "I ran 5 km every morning".
 See Göksel and Kerslake (2005, pp289--290) for details.
 
@@ -70,7 +71,7 @@ Kornfilt (1995, p.361) calls this rapid or sudden aspect.
 ### <a name="Dur">`Dur`</a>: durative aspect (**new proposal**)
 
 A situation or action that has persisted over a period of time and still continues. This is called durative action (e.g., Kornfilt 1995, p.362).
-The suffixes *-Akal*, *-Agel* and *-Adur* indicate this aspect (the first one might better be defined as 'durative stative' and others 'durative progressive'). 
+The suffixes *-Akal*, *-Agel* and *-Adur* indicate this aspect (the first one might better be defined as 'durative stative' and others 'durative progressive').
 
 #### Examples
 
@@ -78,7 +79,7 @@ The suffixes *-Akal*, *-Agel* and *-Adur* indicate this aspect (the first one mi
 * *yapagelmiştir* 'she have gone on doing (something)'
 * *okuyadur* 'go on reading'
 
-### <a name="Pro">`Pro`</a>: prospective aspect
+### <a name="Prosp">`Prosp`</a>: prospective aspect
 
 The action is/was about to happen.
 

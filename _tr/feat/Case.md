@@ -2,6 +2,7 @@
 layout: feature
 title: 'Case'
 shortdef: 'case'
+udver: '2'
 ---
 
 Case helps specify the role of the noun phrase in the sentence.
@@ -18,6 +19,10 @@ We also consider suffix *-lA* as a case suffix introducing comitative or instrum
 ### <a name="Nom">`Nom`</a>: nominative / direct
 
 The base form of the noun, typically used as citation form (lemma).
+
+#### Examples
+
+* _<b>Kız</b> uyuyor._ "The <b>girl</b> sleeps."
 
 ### <a name="Acc">`Acc`</a>: accusative
 
@@ -47,20 +52,20 @@ In Turkish `Dat` is expressed by suffix _-(y)A_ (_e/a/ye/ya_).
 
 ### <a name="Gen">`Gen`</a>: genitive
 
-Prototypical meaning of genitive is that the noun phrase somehow belongs to its governor; it would often be translated by the English preposition _of_. 
+Prototypical meaning of genitive is that the noun phrase somehow belongs to its governor; it would often be translated by the English preposition _of_.
 Complements of some postpositions are also required to be in genitive case.
-The genitive morpheme also marks the subject of the subordinate clauses. 
+The genitive morpheme also marks the subject of the subordinate clauses.
 
 In Turkish `Gen` is expressed by suffix _-(n)In_.
 
 #### Examples
 
 * _Ali'<b>nin</b> kitabı_ "Ali<b>'s</b> book"
-* _Kitabı sen<b>in</b> için aldım_ "I bought the book for you" 
+* _Kitabı sen<b>in</b> için aldım_ "I bought the book for you"
 
 ### <a name="Loc">`Loc`</a>: locative
 
-The locative case often expresses location in space or time, which gave it its name. 
+The locative case often expresses location in space or time, which gave it its name.
 The oblique arguments of some verbs and complements (noun phrases) also required to be in locative case.
 
 In Turkish `Loc` is expressed by suffix _-DA_.
@@ -81,6 +86,8 @@ The oblique arguments of some verbs and complements (noun phrases) of some postp
 
 Traditionally _instrumental_ and _comitative_ are not considered `Case`s in Turkish.
 
+We mark comitative use of _-(y)lA_ as `Ins`.
+
 
 #### Examples
 
@@ -89,10 +96,6 @@ Traditionally _instrumental_ and _comitative_ are not considered `Case`s in Turk
 * _Ankara'<b>yla</b> ilgili bir kitap_ "A book about Ankara"
 * _Bebek<b>le</b> ilgilenmiyor_ "He does not pay attention to the baby"
 * _Elma<b>yla</b> portakalı pazardan aldım_ "I bought the apples and the oranges from the market"  (coordination)
-
-### <a name="Com">`Com`</a>: comitative / associative
-
-We mark comitative use of _-(y)lA_ as `Ins`.
 
 ### <a name="Abl">`Abl`</a>: ablative
 
