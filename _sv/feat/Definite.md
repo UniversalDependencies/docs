@@ -2,9 +2,10 @@
 layout: feature
 title: 'Definite'
 shortdef: 'definiteness or state'
+udver: '2'
 ---
 
-Definiteness in Swedish is an inflectional feature of [nouns](sv-pos/NOUN), as well as [adjectives](sv-pos/ADJ) and [determiners](sv-pos/DET) that agree with nouns. Its value distinguishes whether we are talking about something known and concrete, or something general or unknown. 
+Definiteness in Swedish is an inflectional feature of [nouns](sv-pos/NOUN), as well as [adjectives](sv-pos/ADJ) and [determiners](sv-pos/DET) that agree with nouns. Its value distinguishes whether we are talking about something known and concrete, or something general or unknown.
 
 ### <a name="Ind">`Ind`</a>: indefinite
 

@@ -2,6 +2,7 @@
 layout: feature
 title: 'Poss'
 shortdef: 'possessive'
+udver: '2'
 ---
 
 Poss is a boolean feature of some determiners in Swedish, indicating whether it is possessive or not.
@@ -9,7 +10,7 @@ Poss is a boolean feature of some determiners in Swedish, indicating whether it 
 ### <a name="Yes">`Yes`</a>: it is possessive
 
 Note that there is no `No` value. If the word is not possessive, the
-`Poss` feature will just not be mentioned in the `FEAT` column. 
+`Poss` feature will just not be mentioned in the `FEAT` column.
 
 #### Examples
 

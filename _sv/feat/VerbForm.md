@@ -2,6 +2,7 @@
 layout: feature
 title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
+udver: '2'
 ---
 
 ### <a name="Fin">`Fin`</a>: finite verb
@@ -40,7 +41,7 @@ Supine in Swedish is a special form of the past participle, used to form the com
 * Composite past: I have eaten (the) dinner = _Jag har <b>ätit</b> maten_ (using supine)
 * Past participle common: (The) dinner is eaten = _Maten är uppäten_ (using past participle)
 * Past participle neuter: (The) apple is eaten = _Äpplet är uppätet_
-* Past participle plural: (The) apples are eaten = _Äpplena är uppätna_ 
+* Past participle plural: (The) apples are eaten = _Äpplena är uppätna_
 
 #### Examples
 

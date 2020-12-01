@@ -2,6 +2,7 @@
 layout: feature
 title: 'Degree'
 shortdef: 'degree of comparison'
+udver: '2'
 ---
 
 Degree of comparison is typically an inflectional feature of some [adjectives](sv-pos/ADJ) and [adverbs](sv-pos/ADV).

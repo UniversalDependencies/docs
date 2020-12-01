@@ -2,6 +2,7 @@
 layout: feature
 title: 'Number'
 shortdef: 'number'
+udver: '2'
 ---
 
 `Number` in Swedish is a feature of [nouns](sv-pos/NOUN), [pronouns](sv-pos/PRON), [adjectives](sv-pos/ADJ) and [determiners](sv-pos/DET).

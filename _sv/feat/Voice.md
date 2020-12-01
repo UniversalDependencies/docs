@@ -2,6 +2,7 @@
 layout: feature
 title: 'Voice'
 shortdef: 'voice'
+udver: '2'
 ---
 
 The `Voice` feature captures the distinction between active and passive for verbs ([sv-pos/VERB]() and [sv-pos/AUX]()). The value `Pass` is only used when the passive voice is realized morphologically. (Swedish in addition has a periphrastic passive similar to English: _han blev jagad_ "he was chased".)

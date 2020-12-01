@@ -2,6 +2,7 @@
 layout: feature
 title: 'Tense'
 shortdef: 'tense'
+udver: '2'
 ---
 
 The `Tense` feature applies to verbs ([VERB]() and [AUX]()), specifying the time when the action took / takes place, in relation to the current moment or to another action in the utterance.

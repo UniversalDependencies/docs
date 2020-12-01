@@ -2,11 +2,12 @@
 layout: feature
 title: 'Gender'
 shortdef: 'gender'
+udver: '2'
 ---
 
 Gender is a lexical feature of nouns and an inflectional feature
 of other parts of speech (adjectives, determiners) that mark agreement with
-nouns. 
+nouns.
 
 ### <a name="Com">`Com`</a>: common gender
 
