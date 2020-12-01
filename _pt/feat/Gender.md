@@ -2,13 +2,14 @@
 layout: feature
 title: 'Gender'
 shortdef: 'gender'
+udver: '2'
 ---
 
 `Gender` is usually a lexical feature of [nouns](u-pos/NOUN) and inflectional feature
 of other parts of speech ([pronouns](u-pos/PRON),
 [adjectives](u-pos/ADJ), [determiners](u-pos/DET), [numerals](u-pos/NUM),
 [verbs](u-pos/VERB)) that mark agreement with
-nouns. 
+nouns.
 
 ### <a name="Masc">`Masc`</a>: masculine gender
 
@@ -28,11 +29,4 @@ grammatically feminine, without any relation to sex.
 
 * _<b>casa</b>_ "house"
 
-### <a name="Unsp">`Unsp`</a>: unspecified
-
-`Unsp` is used to tag words that can be masculine or feminine when the context is not enough to make clear its gender.
-
-#### Examples
-
-* _<b>você</b>_ "you"
 <!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->

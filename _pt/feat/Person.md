@@ -2,6 +2,7 @@
 layout: feature
 title: 'Person'
 shortdef: 'person'
+udver: '2'
 ---
 
 Person is typically feature of personal and possessive
@@ -31,7 +32,7 @@ optionally some third persons too.
 #### Examples
 
 * _<b>tu, você, vós, vocês</b>_
-* _<b>queres, quereis</b>_ 
+* _<b>queres, quereis</b>_
 
 ### <a name="3">`3`</a>: third person
 
@@ -41,5 +42,6 @@ speakers nor addressees.
 #### Examples
 
 * _<b>ele, ela, eles, elas</b>_
-* _<b>quer, querem</b>_ 
+* _<b>quer, querem</b>_
+
 <!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->
