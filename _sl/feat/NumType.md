@@ -23,6 +23,14 @@ In Slovenian UD Treebank, `NumType` is a lexical feature of [numerals](NUM) and 
 * _1., 2., 3._
 * _I., II., III._
 
+### <a name="Mult">`Mult`</a>: multiplicative numeral
+
+This is subtype of adjective or adverb.
+
+#### Examples
+
+* _dvojen_ "double, twofold"; _trojen_ "triple, threefold"; _četveren_ "fourfold"
+
 ### <a name="Sets">`Sets`</a>: number of sets of things
 
 Numerals used to count sets of things or nouns that are pluralia tantum.

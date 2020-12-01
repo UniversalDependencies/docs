@@ -12,6 +12,7 @@ Principally, `VerbForm` is an inflectional feature of [verbs](VERB) and [auxilia
 Verbs that have a non-empty [Mood]() are considered finite.
 
 #### Examples
+
 * _študiram, študiraš, študira_ "I study, you study, he/she/it studies"
 * _študiraj, študirajmo, študirajte_ "study!-sing, let's study!, study!-plur"
 * _bom, boš, bo_ "I will, you will, he/she/it will"
@@ -23,8 +24,17 @@ Infinitive is the citation form of verbs and it appears as the argument of modal
 
 #### Examples
 
-- _študirati_ "to study"
-- _biti_ "to be"
+* _študirati_ "to study"
+* _biti_ "to be"
+
+### <a name="Sup">`Sup`</a>: supine
+
+Supine is a rare verb form, which has disappeared from most of the other Slavic languages.
+It is used instead of infinitive as the argument of motion verbs.
+
+#### Examples
+
+* _<b>Spat</b> je odšel prej kot navadno._ “He went to bed (lit. <b>to sleep</b) earlier than usual.”
 
 ### <a name="Part">`Part`</a>: participle
 
@@ -52,7 +62,7 @@ The converb, also called adverbial participle, is a non-finite verb form that sh
 
 ### Conversion from JOS
 
-All verbs with feature VForm=present, VForm=future, VForm=conditional and VForm=imperative are converted to UD `VerbForm=Fin`. All verbs with VForm=Infinitive are converted to UD `VerbForm=Inf`, all verbs with VForm=Supine are converted to UD `VerbForm=Supine`, and all verbs with VForm=Participle are converted to UD `VerbForm=Part`. Additionally, all adjectives with Type=participle are converted to UD `VerbForm=Part` and all adverbs with Type=participle are converted to UD `VerbForm=Trans`.
+All verbs with feature VForm=present, VForm=future, VForm=conditional and VForm=imperative are converted to UD `VerbForm=Fin`. All verbs with VForm=Infinitive are converted to UD `VerbForm=Inf`, all verbs with VForm=Supine are converted to UD `VerbForm=Sup`, and all verbs with VForm=Participle are converted to UD `VerbForm=Part`. Additionally, all adjectives with Type=participle are converted to UD `VerbForm=Part` and all adverbs with Type=participle are converted to UD `VerbForm=Conv`.
 
 Note that `gerunds` are currently marked as [nouns](NOUN) and do not have a special `VerbForm` feature to distinguish them from other common nouns.
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
