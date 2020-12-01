@@ -33,12 +33,12 @@ although [gender](u-feat/Gender) is otherwise not distinguished in Basque.
 
 #### Examples
 
-* [eu] _ukan <b>ezak</b>_ “have it” `Gender[erg]=Masc | Number[abs]=Sing | Number[erg]=Sing | Person[abs]=3 | Person[erg]=2 | Polite[erg]=Inf` (imperative addressing a man)
+* [eu] _ukan <b>ezak</b>_ “have it” `Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=2|Polite[erg]=Inf` `|` `Number[abs]=Sing|Person[abs]=3` (imperative addressing a man)
 
 ### <a name="Fem">`Fem`</a>: feminine dative argument
 
 #### Examples
 
-* [eu] _ukan <b>ezan</b>_ “have it” `Gender[erg]=Fem | Number[abs]=Sing | Number[erg]=Sing | Person[abs]=3 | Person[erg]=2 | Polite[erg]=Inf` (imperative addressing a woman)
+* [eu] _ukan <b>ezan</b>_ “have it” `Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=2|Polite[erg]=Inf` `|` `Number[abs]=Sing|Person[abs]=3` (imperative addressing a woman)
 
 <!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->
