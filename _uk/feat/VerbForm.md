@@ -43,19 +43,25 @@ Impersonal form ending with _-но/-то_. In Slavic languages other than Ukrain
 
 ### <a name="Part">`Part`</a>: participle
 
-The adverbial participle, also called transgressive, is a non-finite verb form that shares properties of verbs and adverbs.
-
-- Imperfective verbs form present adverbial participle, meaning “while doing”.
-- Perfective verbs form past adverbial participle, meaning “having done”.
-
 The adjectival participle is a non-finite verb form that shares properties of verbs and adjectives. It inflects for [Gender]() and [Number]() but not for [Person](). Ukrainian has two types of participles:
 - Passive adjectival participle is used to construct passive voice. It is also used separately as an adjective: _ношений, драний_ &nbsp;“carried, torn/ragged”. Their meaning is almost identical but the usage slightly varies. Both groups can be used in nominal predication with [copula](uk-dep/cop). Only true participles can be used to form the passive voice but it is sometimes difficult to distinguish them from copula constructions, see [AUX](). On the other hand, the deverbal (participial) adjectives inflect for case and thus can modify nouns.
 - Active participle (it is considered ungrammatical but still used occasionally, which is why it is encoded).
 
 #### Examples
 
-- _несучи, нісши_ &nbsp;“carrying” (present and past adverbial participles)
-- _принісши_ &nbsp;“having brought” (past adverbial participle)
 - _несений, несена, несене, несені_ &nbsp;“carried” (passive adjectival participle in different genders and numbers)
 - _несучий, несуча, несуче, несучі_ &nbsp;“carrying” (present adjectival participle in different genders and numbers)
+
+### <a name="Conv">`Conv`</a>: converb, adverbial participle
+
+The adverbial participle, also called converb or transgressive, is a non-finite verb form that shares properties of verbs and adverbs.
+
+- Imperfective verbs form present adverbial participle, meaning “while doing”.
+- Perfective verbs form past adverbial participle, meaning “having done”.
+
+#### Examples
+
+- _несучи, нісши_ &nbsp;“carrying” (present and past adverbial participles)
+- _принісши_ &nbsp;“having brought” (past adverbial participle)
+
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->

@@ -7,6 +7,14 @@ udver: '2'
 
 Person is a feature of personal [pronouns](uk-pos/PRON) and of [verbs](uk-pos/VERB). On verbs it is in fact an agreement feature that marks the person of the verb's subject. Person marked on verbs makes it unnecessary to always add a personal pronoun as subject and thus subjects are sometimes dropped (Ukrainian is a pro-drop language).
 
+### <a name="0">`0`</a>: zero person
+
+Zero person is for impersonal statements.
+
+#### Examples
+
+* _Проект Barracuda так і не було <b>закінчено</b>._ “The Barracuda project was never <b>completed</b>.”
+
 ### <a name="1">`1`</a>: first person
 
 In singular, the first person refers just to the speaker / author. In plural, it must include the speaker and one or more additional persons.

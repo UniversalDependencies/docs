@@ -27,4 +27,23 @@ Ukrainian verbs (except for modal verbs) have imperative forms of the second per
 * _<b>Навчайся</b> в університеті!&nbsp;_ “<b>Study</b>`Sing` at the university!”
 * _<b>Навчайтеся</b> в університеті!&nbsp;_ “<b>Study</b>`Plur` at the university!”
 * _<b>Навчаймося</b> в університеті!&nbsp;_ “Let us <b>study</b> at the university!”
+
+### <a name="Cnd">`Cnd`</a>: conditional
+
+The conditional mood is used to express actions that would have taken
+place under some circumstances but they actually did not / do not
+happen.
+
+Ukrainian conditional is formed periphrastically using
+the past participle of the content verb and a special form of the [auxiliary verb](uk-pos/AUX)
+_б._
+
+The past participle of the content verb is not marked as conditional
+because it can also be used in past indicative.
+
+#### Examples
+
+* _Якби я був розумним, я <b>б</b> вчився в університеті.&nbsp;_ “If I were smart I <b>would</b> study at the
+  university.”
+
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->
