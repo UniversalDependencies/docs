@@ -26,6 +26,8 @@ In Bulgarian only some nouns have special vocative forms (v):
 
 ### <a name="Dat">`Dat`</a>: dative
 
+#### Examples
+
 * _му_ / _mu_ "him.DAT.SHORT"
 
 In our tagset another idiosyncratic case has been marked – the so-called ‘dative possessive case’ (s). It refers to situations where the short possessive pronoun comes before its possessor noun and thus – next to the verb.

@@ -9,12 +9,12 @@ Tense
 
 Tense is a feature that specifies the time when the action took /
 takes / will take place, in relation to the current moment or to
-another action in the utterance. 
+another action in the utterance.
 In Bulgarian aspect and tense are separate, although not completely independent of each other.
 
 In Bulgarian there are 9 tenses: 3 synthetic and 6 analytic.
 
-Since the feature _Tense_ is assigned to a single word, i.e. it relates to 
+Since the feature _Tense_ is assigned to a single word, i.e. it relates to
 synthetic forms, in Bulgarian it is applicable to only 3 tenses: _Present_, _Aorist_ and _Imperfect_.
 
 ### <a name="Past">`Past`</a>: past tense / preterite / aorist
@@ -44,6 +44,8 @@ Imperfect is a special case of the past tense. It denotes actions that are happe
 some past moment. These actions might continue after the moment of speaking, but also might not, i.e.
 the evidence is not in the form itself, but it is in the context.
 Both verbs - perfective and imperfective - are used in imperfect tense.
+
+#### Examples
 
 - Когато се прибрах вкъщи, децата вече <b>спяха</b>. / _Kogato se pribrah vkashti, detsata veche spyaha_ "When I came home, the children were already sleeping."
 - Щом <b>дойдеше</b>, веднага запалваше цигара. / _Shtom doydeshe, vednaga zapalvashe tsigara_ "Every time he came, he always lit a cigarette".
