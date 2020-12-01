@@ -2,6 +2,7 @@
 layout: feature
 title: 'Animacy'
 shortdef: 'animacy'
+udver: '2'
 ---
 
 <!--It is also valency feature of prepositions (saying that the preposition requires its argument to be in that case).-->
@@ -13,7 +14,7 @@ Similarly to [Gender](), animacy is a lexical feature of [nouns](uk-pos/NOUN) an
 Human beings, animals, fictional characters, names of professions etc. are all animate. Even nouns that are normally inanimate can be
 inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as animates.
 
-Examples of animate nouns:
+#### Examples
 
 - _чоловік&nbsp;_ “man”, _кіт&nbsp;_ “cat”, _дитина&nbsp;_ “child”, _комаха&nbsp;_ “insect”
 
@@ -21,7 +22,7 @@ Examples of animate nouns:
 
 Nouns that are not animate are inanimate.
 
-Examples of inanimate nouns:
+#### Examples
 
 - _рік&nbsp;_ “year”, _закон&nbsp;_ “law”, _хустка&nbsp;_ “kerchief”, _озеро&nbsp;_ “lake”, _мільйон&nbsp;_ “million”
 

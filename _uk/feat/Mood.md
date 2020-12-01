@@ -2,6 +2,7 @@
 layout: feature
 title: 'Mood'
 shortdef: 'mood'
+udver: '2'
 ---
 
 Mood is a feature that expresses modality and subclassifies finite verb forms.

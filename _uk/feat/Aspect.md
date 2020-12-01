@@ -2,11 +2,12 @@
 layout: feature
 title: 'Aspect'
 shortdef: 'aspect'
+udver: '2'
 ---
 
 Aspect is a feature that specifies duration of the action in time, whether the action has been completed etc.
 
-In Ukrainian, aspect is considered a lexical feature of [verbs](uk-pos/VERB). While many imperfective verbs have morphologically related perfective counterparts, it is not a regular system and the two verbs are represented by different lemmas. 
+In Ukrainian, aspect is considered a lexical feature of [verbs](uk-pos/VERB). While many imperfective verbs have morphologically related perfective counterparts, it is not a regular system and the two verbs are represented by different lemmas.
 
 ### <a name="Imp">`Imp`</a>: imperfect aspect
 
@@ -24,7 +25,7 @@ The action has been / will have been completed. Since there is emphasis on one p
 
 * _спекти&nbsp;_ “to bake” (Perf); _<b>спік</b> хліб&nbsp;_ “he <b>baked / has baked</b> a bread”
 
-There is a small group of verbs, usually borrowed, of the Latin origin, which have the same form for both the perfect and imperfect aspect. It is only possible (although not always) to discern the aspect on the basis of the context they are used in. Verbs that carry two aspectual meanings are called biaspectual in the academic Ukrainian grammar. 
+There is a small group of verbs, usually borrowed, of the Latin origin, which have the same form for both the perfect and imperfect aspect. It is only possible (although not always) to discern the aspect on the basis of the context they are used in. Verbs that carry two aspectual meanings are called biaspectual in the academic Ukrainian grammar.
 
 Even though originally Ukrainian naturalised such verbs by adding a relevant prefix to the perfective variant, thus creating two lemmas instead of one borrowed verb, there was a period in the language development when prefixed forms were consistently eradicated in prescriptive grammars. Therefore presently one can find prefixed and prefixless perfective forms of the same verbs in different texts, e.g. _абонувати&nbsp;_ “to subscribe” (aspect unclear without a wider context, see examples below) and _заабонувати&nbsp;_ “to subscribe” (perfect).
 

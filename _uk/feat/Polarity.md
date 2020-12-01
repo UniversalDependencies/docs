@@ -1,13 +1,13 @@
 ---
 layout: feature
 title: 'Polarity'
-redirect_from: "uk/feat/Negative.html"
 shortdef: 'whether the word can be or is negated'
+udver: '2'
 ---
 
 In Ukrainian, negation is done using the particle _не_ which is most often written as a separate word. In some cases, depending on the part of speech and orthographical conventions, it becomes a bound morpheme, mostly with [adjectives](uk-pos/ADJ), [adverbs](uk-pos/ADV), and some deverbative [nouns](uk-pos/NOUN). Negation is usually unmarked. However, there are several exceptions for [verbs](uk-pos/VERB) (see examples below) where it is used. The affirmative variants, which are prevailing, are not marked for negation at all.
 
-Note that `Negative=Neg` is not the same thing as [PronType]()`=Neg`. For pronouns and other pronominal parts of speech there is no such binary opposition as for verbs and adjectives. (There is no such thing as “affirmative pronoun”.) 
+Note that `Negative=Neg` is not the same thing as [PronType]()`=Neg`. For pronouns and other pronominal parts of speech there is no such binary opposition as for verbs and adjectives. (There is no such thing as “affirmative pronoun”.)
 
 ### <a name="Neg">`Neg`</a>: negative
 

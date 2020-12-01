@@ -2,9 +2,10 @@
 layout: feature
 title: 'NumType'
 shortdef: 'numeral type'
+udver: '2'
 ---
 
-Ukrainian has a complex system of [numerals](uk-pos/NUM). 
+Ukrainian has a complex system of [numerals](uk-pos/NUM).
 
 From the syntactic point of view, some numtypes behave like adjectives and some behave like adverbs. They are tagged [uk-pos/ADJ]() and
 [uk-pos/ADV]() respectively. Thus the `NumType` feature applies to several different parts of speech:
@@ -27,11 +28,13 @@ From the syntactic point of view, some numtypes behave like adjectives and some 
 
 This is a subtype of adjective or adverb.
 
-#### Adjectival examples
+#### Examples
+
+Adjectival
 
 * _перший&nbsp;_ “first”; _другий&nbsp;_ “second”, _третій&nbsp;_ “third”
 
-#### Adverbial examples
+Adverbial
 
 * _вперше&nbsp;_ “for the first time”; _вдруге&nbsp;_ “for the second time”; _втретє&nbsp;_ “for the third time”
 
@@ -57,7 +60,7 @@ Morphologically distinct class of numerals used to count sets of things, or noun
 
 #### Examples
 
-* _<b>двоє</b> / <b>троє</b> штанів / черевиків&nbsp;_ “<b>two</b> / <b>three</b> [pairs of] pants / shoes”; 
+* _<b>двоє</b> / <b>троє</b> штанів / черевиків&nbsp;_ “<b>two</b> / <b>three</b> [pairs of] pants / shoes”;
  as opposed to normal cardinal numbers: _дві / три штатини&nbsp;_ “two / three half-pants”; _два / три черевика&nbsp;_ “two / three shoes”. Note that this form is also used with animate nouns.
 
 ### <a name="Gen">`Gen`</a>: generic numeral

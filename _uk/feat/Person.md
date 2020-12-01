@@ -2,6 +2,7 @@
 layout: feature
 title: 'Person'
 shortdef: 'person'
+udver: '2'
 ---
 
 Person is a feature of personal [pronouns](uk-pos/PRON) and of [verbs](uk-pos/VERB). On verbs it is in fact an agreement feature that marks the person of the verb's subject. Person marked on verbs makes it unnecessary to always add a personal pronoun as subject and thus subjects are sometimes dropped (Ukrainian is a pro-drop language).

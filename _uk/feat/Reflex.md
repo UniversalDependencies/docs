@@ -2,6 +2,7 @@
 layout: feature
 title: 'Reflex'
 shortdef: 'reflexive'
+udver: '2'
 ---
 
 Boolean feature of [pronouns](uk-pos/PRON) or [determiners](uk-pos/DET). It tells whether the word is reflexive, i.e. refers to the subject of its clause. Unlike in Czech, the reciprocal and reflexive meanings in Ukrainian are carried by the special reflexive verbal postfix _*ся_, thus the reflexive pronoun is much less loaded semantically and functionally.

@@ -2,6 +2,7 @@
 layout: feature
 title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
+udver: '2'
 ---
 
 Even though the name of the feature seems to suggest that it is used exclusively with [verbs](uk-pos/VERB), it is not the case. The `Part` value can be used also with [adjectives](uk-pos/ADJ). It distinguishes participles from other verb forms, and participial adjectives from other adjectives.

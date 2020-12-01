@@ -2,6 +2,7 @@
 layout: feature
 title: 'Gender'
 shortdef: 'gender'
+udver: '2'
 ---
 
 Gender is a lexical feature of [nouns](uk-pos/NOUN) and inflectional feature of other parts of speech ([adjectives](uk-pos/ADJ), [verbs](uk-pos/VERB)) that mark agreement with nouns. There are three values of gender: masculine, feminine, and neuter.

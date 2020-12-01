@@ -2,6 +2,7 @@
 layout: feature
 title: 'Tense'
 shortdef: 'tense'
+udver: '2'
 ---
 
 Tense is a feature that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance.

@@ -2,6 +2,7 @@
 layout: feature
 title: 'Number'
 shortdef: 'number'
+udver: '2'
 ---
 
 `Number` is an inflectional feature of [nouns](uk-pos/NOUN) and other parts of speech ([adjectives](uk-pos/ADJ), [verbs](uk-pos/VERB)) that mark agreement with nouns.

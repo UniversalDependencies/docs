@@ -2,6 +2,7 @@
 layout: feature
 title: 'Case'
 shortdef: 'case'
+udver: '2'
 ---
 
 Case is an inflectional feature of [nouns](uk-pos/NOUN) and other parts of speech ([adjectives](uk-pos/ADJ), [numerals](uk-pos/NUM)) that mark agreement with nouns. It is also valency feature of [prepositions](uk-pos/ADP) (saying that the preposition requires its argument to be in that case).
@@ -21,12 +22,17 @@ The descriptions of the individual case values below include semantic hints abou
 
 The base form of the noun, also used as citation form (lemma). This is the word form used for subjects of clauses.
 
+#### Examples
+
+* _<b>Наташа</b> спить._ “<b>Natasha</b> sleeps.”
+* _<b>Іван</b> любить Наташу._ “<b>Ivan</b> loves Natasha.”
+
 ### <a name="Gen">`Gen`</a>: genitive
 
 Prototypical meaning of genitive is that the noun phrase somehow belongs to its governor; it would often be translated by the English
 preposition _of._
 
-Note that despite considerable semantic overlap, the genitive case is not the same as the feature of possessivity ([Poss]()). Possessivity is a lexical feature, i.e. it applies to lemma and its whole paradigm. Genitive is a feature of just a subset of word forms of the lemma. Semantics of possessivity is much more clearly defined while the genitive (as many other cases) may be required in situations that have nothing to do with possessing. 
+Note that despite considerable semantic overlap, the genitive case is not the same as the feature of possessivity ([Poss]()). Possessivity is a lexical feature, i.e. it applies to lemma and its whole paradigm. Genitive is a feature of just a subset of word forms of the lemma. Semantics of possessivity is much more clearly defined while the genitive (as many other cases) may be required in situations that have nothing to do with possessing.
 
 #### Examples
 
@@ -43,6 +49,10 @@ This is the word form often used for indirect objects of verbs.
 ### <a name="Acc">`Acc`</a>: accusative
 
 Perhaps the second most widely spread morphological case. This is the word form most frequently used for direct objects of verbs.
+
+#### Examples
+
+* _Іван любить <b>Наташу</b>._ “Ivan loves <b>Natasha</b>.”
 
 ### <a name="Ins">`Ins`</a>: instrumental
 

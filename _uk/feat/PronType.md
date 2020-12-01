@@ -2,6 +2,7 @@
 layout: feature
 title: 'PronType'
 shortdef: 'pronominal type'
+udver: '2'
 ---
 
 This feature typically applies to [pronouns](uk-pos/PRON), [determiners](uk-pos/DET), pronominal [numerals](uk-pos/NUM) (quantifiers) and pronominal [adverbs](uk-pos/ADV).
@@ -20,7 +21,7 @@ personal/possessive pronouns (e.g. _себе / свій;_ see the [Reflex]() fea
 
 Note that possessive interrogative determiners (_whose_) can be distinguished by the [Poss]() feature.
 
-#### Examples: 
+#### Examples:
 
 * _хто&nbsp;_ “who”
 * _що&nbsp;_ “what”
@@ -38,7 +39,7 @@ Note that possessive interrogative determiners (_whose_) can be distinguished by
 
 Note that this class heavily overlaps with interrogatives.
 
-#### Examples: 
+#### Examples:
 
 * _котрий, що&nbsp;_ “which, that” (relative but not interrogative pronouns)
 * _чий&nbsp;_ “whose” (possessive relative pronoun)

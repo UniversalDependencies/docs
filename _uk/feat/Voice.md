@@ -2,6 +2,7 @@
 layout: feature
 title: 'Voice'
 shortdef: 'voice'
+udver: '2'
 ---
 
 Voice is a feature of verbs that helps map the traditional syntactic functions, such as subject and object, to semantic roles, such as agent and pacient.
@@ -18,7 +19,7 @@ All finite verb forms and the adverbial participle are tagged `Voice=Act`.
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
-The subject of the verb is affected by the action (patient). The doer (agent) is either unexpressed or it appears as an object of the verb. 
+The subject of the verb is affected by the action (patient). The doer (agent) is either unexpressed or it appears as an object of the verb.
 
 Passive voice is formed periphrastically in Ukrainian. The most typical passive construction consists of the finite verb forms of the auxiliary verbs _бути_&nbsp; “to be” (optional for the present forms) and the present or past passive adjectival participle. The grammatical subject in such constructions, being the semantic object, or patient, is in the nominative case. The semantic subject in such constructions is optional, it is expressed by the instrumental case. Note that the adjectival participles, sharing most morphological features with adjectives (with the exception of aspect and voice which are inherited from verbs), are treated as a special type of adjectives in Ukrainian. An alternative passive construction, also periphrastic, is more specific and both of its parts belong to the verb. The semantic object is expressed by the accusative case, similarly to the prototypical active construction. The semantic subject is also optional and expressed by the instrumental case. It also uses finite verb forms of the auxiliary verbs _бути_&nbsp; “to be” (optional for the present forms). The lexical meaning is presented by the Impersonal verb form, which also receives the tag `Voice=Pass`.
 
