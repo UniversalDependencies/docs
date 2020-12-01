@@ -54,7 +54,7 @@ udver: '2'
 ### Other Features
 
 * There is one language-specific feature:
-  * [Compound]()
+  * [Compound](feat/Compound.html)
 
 ## Syntax
 
