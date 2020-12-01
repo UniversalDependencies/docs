@@ -28,7 +28,7 @@ _Pie-as-m_ (interrogative - _кого_ /_kogo_ "whom"), _Pfe-as-m_ (indefinite -
 - the 1st and 2nd personal and possessive pronouns: _Ppe#1_ (_аз, ние_ / _az, nie_ "I, we"), _Ppe#2_ (_ти, вие_ / _ti, vie_ "you, you"), _Pph#2_ (_Вие_ / _Vie_ "you-honorific");
 _Ps#1#_ (_мой_ / _moy_ "my"), _Ps#2#_ (_твой_ / _tvoy_ "your")
 
-### <a name="Nhum">`Nhum`</a>: animate but non-human
+### <a name="NHum">`NHum`</a>: animate but non-human
 
 #### Examples
 
