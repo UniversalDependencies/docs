@@ -31,14 +31,4 @@ A plural expression denotes several persons, animals or things.
  _<b>meus carros bonitos parados</b>_
    _<b>estes carros quebrados</b>_
 
-### <a name="Unsp">`Unsp`</a>: unspecified
-
-`Unsp` is used to tag words that can be singular or plural when the context is not enough to make clear its number.
-
-#### Examples
-
-* _a cidade de  <b>Cascais</b>_
-* _<b>o(s) funcionário(s)</b>_
-* _<b>quem</b> assistir o vídeo ganha 1000 reais_
-
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->
