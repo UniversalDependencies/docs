@@ -2,11 +2,14 @@
 layout: feature
 title: 'Abbr'
 shortdef: 'abbreviation'
+udver: '2'
 ---
 
 Abbreviation is a feature of [X: other](X) to mark abbreviations ending with a dot.
 
 ### <a name="Yes">`Yes`</a>: it is abbreviation
+
+#### Examples
 
 * _dr._ "doctor"
 * _npr._ "for example"

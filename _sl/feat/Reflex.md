@@ -27,6 +27,6 @@ Note that reflexive pronoun _se_ can also be used in subjectless passive constru
 
 * _Sledil je <b>svojim</b> sanjam._ "He followed his dreams."
 
-### Conversion to JOS
+### Conversion from JOS
 All pronouns with feature Type=reflexive are converted to UD `Reflexice=Yes`.
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
