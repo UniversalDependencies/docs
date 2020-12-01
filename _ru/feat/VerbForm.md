@@ -52,7 +52,7 @@ Participles inflect for [Gender]() and [Number]() but not for [Person]().
 - _пишущий, пишущая, пишущее, пишущие_ &nbsp;“writing”
 - _писаный, писаная, писаное, писаные_ &nbsp;“carried”
 
-### <a name="Trans">`Trans`</a>: transgressive
+### <a name="Conv">`Conv`</a>: converb
 
 The transgressive, also called adverbial participle, is a non-finite
 verb form that shares properties of verbs and adverbs.
