@@ -2,6 +2,7 @@
 layout: feature
 title: 'PronType'
 shortdef: 'pronominal type'
+udver: '2'
 ---
 
 This is a lexical feature of [pronouns](PRON) and some [determiners](DET).
@@ -18,7 +19,7 @@ This feature includes both nominal personal, possessive and reflexive pronouns o
 
 ### <a name="Int">`Int`</a>: interrogative pronoun or determiner
 
-#### Examples: 
+#### Examples:
 
 * _kdo_ “who”
 * _kaj_ “what”
@@ -28,7 +29,7 @@ This feature includes both nominal personal, possessive and reflexive pronouns o
 
 ### <a name="Rel">`Rel`</a>: relative pronoun or determiner
 
-#### Examples: 
+#### Examples:
 
 * _kar_ “which/that”
 * _kdor_ “who”
@@ -82,7 +83,7 @@ This feature includes both nominal personal, possessive and reflexive pronouns o
 
 ### Conversion from JOS
 
-All pronouns with feature Type=personal, Type=reflexive and Type=possessive are converted to UD `PronType=Prs`. All pronouns with Type=interrogative are converted to UD `PronType=Int`, all pronouns with Type=relative are converted to UD `PronType=Rel`, all pronouns with Type=demonstrative are converted to UD `PronType=Dem`, all pronouns with Type=general are converted to UD `PronType=Tot`, all pronouns with Type=negative are converted to UD `PronType=Neg` and all pronouns with Type=indefinite are converted to UD `PronType=Ind`. 
+All pronouns with feature Type=personal, Type=reflexive and Type=possessive are converted to UD `PronType=Prs`. All pronouns with Type=interrogative are converted to UD `PronType=Int`, all pronouns with Type=relative are converted to UD `PronType=Rel`, all pronouns with Type=demonstrative are converted to UD `PronType=Dem`, all pronouns with Type=general are converted to UD `PronType=Tot`, all pronouns with Type=negative are converted to UD `PronType=Neg` and all pronouns with Type=indefinite are converted to UD `PronType=Ind`.
 
 Not that currently `PronType` is only assigned to pronouns and determiners, but not to other POS categories, such as adverbs (_zakaj_ "why", _čemu_ "what for", _kako_ "how", _tukaj_ "here", _tam_ "there", _tolikokrat_ "this many times" etc.)
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->

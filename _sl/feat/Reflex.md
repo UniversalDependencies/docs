@@ -2,6 +2,7 @@
 layout: feature
 title: 'Reflex'
 shortdef: 'reflexive'
+udver: '2'
 ---
 
 Reflexiveness is a lexical feature of some [pronouns](PRON) and [determiners](DET). It tells whether the word is reflexive,

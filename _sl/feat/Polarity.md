@@ -1,8 +1,8 @@
 ---
 layout: feature
 title: 'Polarity'
-redirect_from: "sl/feat/Negative.html"
 shortdef: 'whether the word can be or is negated'
+udver: '2'
 ---
 
 In Slovenian, negation can be expressed in different ways. Syntactically, it can be marked by using negation particle _ne_ "not", as in _Tega <b>ne</b> vem_ "I do not know that." or _Šli smo na <b>ne</b> najbolj zanimivo predavanje._ "We attended a not too interesting lecture.", or by using special negated verb form, as in _To <b>ni</b> ona._ "This is not her." Morhplogically, negation is marked by prefix _ne-_, as in _<b>ne</b>pravičen_ "unfair", _<b>ne</b>želen_ "unwanted" etc.

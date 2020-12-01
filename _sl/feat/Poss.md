@@ -2,6 +2,7 @@
 layout: feature
 title: 'Poss'
 shortdef: 'possessive'
+udver: '2'
 ---
 
 `Possessive` is a lexical feature of [adjectives](ADJ), [determiners](DET) and [pronouns](PRON).  It tells whether the word is possessive. Words without the `Poss` feature are not possessive.
@@ -16,5 +17,5 @@ shortdef: 'possessive'
 
 ### Conversion from JOS
 
-All adjectives and pronouns with Type=possessive are converted to `Poss=Yes`. Additionally, the reflexive pronoun _svoj_ is also converted to `Poss=Yes`. Note that within JOS annotation scheme, possessiveness is not explicitly marked with other types of pronouns that denote possession, such as _ćigav, čigaver, nikogaršnji_ etc. 
+All adjectives and pronouns with Type=possessive are converted to `Poss=Yes`. Additionally, the reflexive pronoun _svoj_ is also converted to `Poss=Yes`. Note that within JOS annotation scheme, possessiveness is not explicitly marked with other types of pronouns that denote possession, such as _ćigav, čigaver, nikogaršnji_ etc.
 <!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->
