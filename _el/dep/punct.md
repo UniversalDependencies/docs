@@ -2,6 +2,7 @@
 layout: relation
 title: 'punct'
 shortdef: 'punctuation'
+udver: '2'
 ---
 
 A punctuation token is labeled `punct` and it is attached to the element it delimits. Thus, sentence-delimiting punctuation, such as “.”, “!” or “?” should be attached to the main verb (or predicative) of the sentence. Punctuation tokens always attach to content words and can never have dependents.
@@ -35,7 +36,7 @@ If there are several subordinate clauses within each other and the punctuation c
 A punctuation mark separating coordinated units is attached to the first conjunct.
 
 <div id="punct1" class="sd-parse">
-οι εντυπώσεις του κοινού , των ανακριτών , των ενόρκων και των δικαστών 
+οι εντυπώσεις του κοινού , των ανακριτών , των ενόρκων και των δικαστών
 nmod(εντυπώσεις, κοινού)
 conj(κοινού, ανακριτών)
 conj(κοινού, ενόρκων)

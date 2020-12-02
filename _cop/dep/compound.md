@@ -2,6 +2,7 @@
 layout: relation
 title: 'compound'
 shortdef: 'compound'
+udver: '2'
 ---
 
 Used to connect compound noun heads to their modifier. For example, the compound ‘accomplice’ is comprised of ‘friend’ and ‘doing’ (a ‘doing-friend’), which is a type of ‘friend’ (not a type of ‘doing’). Therefore ‘friend’ is the head, and ‘doing’ is attached to it via the function `compound`:

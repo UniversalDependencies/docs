@@ -2,6 +2,7 @@
 layout: relation
 title: 'mark'
 shortdef: 'marker'
+udver: '2'
 ---
 
 A marker is the word introducing a finite clause subordinate to
@@ -9,7 +10,7 @@ another clause. For a [complement clause](ccomp), these typically include *ότ�
 Notice that we annotate *να*, *θα* and *ας* particles as instances of [aux](aux).
 
 ~~~ sdparse
-Διαβεβαίωσε ότι οι εθελοντές θα συνεχίσουν το έργο τους 
+Διαβεβαίωσε ότι οι εθελοντές θα συνεχίσουν το έργο τους
 ccomp(Διαβεβαίωσε, συνεχίσουν)
 mark(συνεχίσουν, ότι)
 ~~~
@@ -22,21 +23,21 @@ aux(γράφουν, να)
 
 For an [adverbial clause](advcl), the marker is typically a
 subordinating conjunction like *αφού* or *επειδή*. The marker is a dependent of the
-subordinate clause head. 
+subordinate clause head.
 
 ~~~ sdparse
-Αφού με περιμένουν δεν έχω άλλη επιλογή 
+Αφού με περιμένουν δεν έχω άλλη επιλογή
 advcl(έχω, περιμένουν)
 mark(περιμένουν, Αφού)
 ~~~
 
 ~~~ sdparse
-Τη συνέλαβαν επειδή βιντεοσκοπούσε το περιστατικό 
+Τη συνέλαβαν επειδή βιντεοσκοπούσε το περιστατικό
 advcl(συνέλαβαν, βιντεοσκοπούσε)
 mark(βιντεοσκοπούσε, επειδή)
 ~~~
 
-When prepositions are used as subordinate conjunctions to introduce clauses, they are also labelled with the `mark` relation. 
+When prepositions are used as subordinate conjunctions to introduce clauses, they are also labelled with the `mark` relation.
 
 ~~~ sdparse
 Δεν συμμετείχα πριν τη συναντήσω .
@@ -52,7 +53,7 @@ mwe(συναντήσω, να)
 ~~~
 
 ~~~ sdparse
-Ψάχνουν τρόπους για να το σταματήσουν 
+Ψάχνουν τρόπους για να το σταματήσουν
 advcl(Ψάχνουν, σταματήσουν)
 mark(σταματήσουν, για)
 aux(σταματήσουν, να)
@@ -66,7 +67,7 @@ aux(ξημερώσει, να)
 ~~~
 
 ~~~ sdparse
-Ο χρόνος επαρκεί προκειμένου να μάθει ο προπονητής το υλικό και να το δουλέψει 
+Ο χρόνος επαρκεί προκειμένου να μάθει ο προπονητής το υλικό και να το δουλέψει
 advcl(επαρκεί, μάθει)
 mark(δουλέψει, προκειμένου)
 aux(μάθει, να)
@@ -75,7 +76,7 @@ conj(μάθει, δουλέψει)
 aux(δουλέψει, να)
 ~~~
 
-For certain multiword subordinate conjunctions, we use combinations of the `mark` and the [mwe](fixed) relations. 
+For certain multiword subordinate conjunctions, we use combinations of the `mark` and the [mwe](fixed) relations.
 
 ~~~ sdparse
 Αν και βρίσκεται στο σωστό δρόμο χρειάζεται περισσότερο χρόνο

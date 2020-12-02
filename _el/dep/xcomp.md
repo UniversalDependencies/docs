@@ -2,19 +2,20 @@
 layout: relation
 title: 'xcomp'
 shortdef: 'open clausal complement'
+udver: '2'
 ---
 
-An (`xcomp`) label is used in cases of *obligatory coreference* between 
-the subject of a *finite* να-clause, which is not present as a separate 
-word, and an argument (subject or object) of the higher clause. 
+An (`xcomp`) label is used in cases of *obligatory coreference* between
+the subject of a *finite* να-clause, which is not present as a separate
+word, and an argument (subject or object) of the higher clause.
 
 ~~~ sdparse
-Ο γιατρός δεν ήξερε να του πει την αλήθεια. 
+Ο γιατρός δεν ήξερε να του πει την αλήθεια.
 xcomp(ήξερε, πει)
 ~~~
 
 ~~~ sdparse
-Οι μεταφορείς αναγκάζουν τους οδηγούς να οδηγούν ασταμάτητα 
+Οι μεταφορείς αναγκάζουν τους οδηγούς να οδηγούν ασταμάτητα
 iobj(αναγκάζουν, οδηγούς)
 xcomp(αναγκάζουν, οδηγούν)
 ~~~
@@ -22,7 +23,7 @@ xcomp(αναγκάζουν, οδηγούν)
 There are some cases where the implied subject of both clauses is present in the complement clause. In these cases, we attach the subject to the verb of the complement clause.
 
 ~~~ sdparse
-Άρχισαν να λένε οι πολιτικοί την αλήθεια στον κόσμο ; 
+Άρχισαν να λένε οι πολιτικοί την αλήθεια στον κόσμο ;
 xcomp(Άρχισαν, λένε)
 nsubj(λένε, πολιτικοί)
 ~~~
@@ -30,7 +31,7 @@ nsubj(λένε, πολιτικοί)
 The `xcomp` relation is also used for labelling *obligatory* predicatives in clauses where the verb heading the construction is not the copula *είμαι*
 
 ~~~ sdparse
-Ο Γιάννης υπήρξε πρότυπο ανθρώπου 
+Ο Γιάννης υπήρξε πρότυπο ανθρώπου
 xcomp(υπήρξε, πρότυπο)
 ~~~
 
@@ -40,22 +41,22 @@ xcomp(μοιάζει, παρορμητική)
 ~~~
 
 ~~~ sdparse
-Η σημερινή ημέρα αποτελεί αφετηρία εξελίξεων 
+Η σημερινή ημέρα αποτελεί αφετηρία εξελίξεων
 xcomp(αποτελεί, αφετηρία)
 ~~~
 
 ~~~ sdparse
-Τον εξέλεξαν βουλευτή 
+Τον εξέλεξαν βουλευτή
 xcomp(εξέλεξαν, βουλευτή)
 ~~~
 
 ~~~ sdparse
-διορίστηκε επιστημονικός συνεργάτης 
+διορίστηκε επιστημονικός συνεργάτης
 xcomp(διορίστηκε, συνεργάτης)
 ~~~
 
 ~~~ sdparse
-διορίστηκε ως επιστημονικός συνεργάτης 
+διορίστηκε ως επιστημονικός συνεργάτης
 xcomp(διορίστηκε, συνεργάτης)
 case(συνεργάτης, ως)
 ~~~
@@ -66,7 +67,7 @@ xcomp(περνιέται, ωραίος)
 case(ωραίος, για)
 ~~~
 
-This relation is also used for the small list of resultatives like 
+This relation is also used for the small list of resultatives like
 
 ~~~ sdparse
 έβαψε το σπίτι μπλε

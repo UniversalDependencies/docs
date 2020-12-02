@@ -2,6 +2,7 @@
 layout: relation
 title: 'expl'
 shortdef: 'expletive'
+udver: '2'
 ---
 
 The `expl` relation is used in UD Greek for cases of clitic doubling.

@@ -2,6 +2,7 @@
 layout: relation
 title: 'advcl'
 shortdef: 'adverbial clause modifier'
+udver: '2'
 ---
 
 An adverbial subordinate clause (e.g. a clause answering the question why? How? Where? When? or a conditional, etc.), usually introduced by a subordinating conjunction or auxiliary (ⲉⲡⲉⲓⲇⲏ, ⲉⲣϣⲁⲛ), or a circumstantial converter (ⲉ/ⲉⲣⲉ).
@@ -16,7 +17,7 @@ advcl(ⲣ,ⲙⲟⲛⲁⲭⲟⲥ)
 
 Rarely, we may also see a subordinate clause governed by a preposition, in which case the preposition is governed by the head of the clause and labeled `mark`, not `case`, even if there is also a second conjunction with a `mark` label.
 
-Example: 
+Example:
 
 ~~~ sdparse
 ⲙⲛ/VERB ϣⲏⲣⲉ/NOUN ... ⲉⲧⲃⲉ/ADP ϫⲉ/CONJ ⲁ/AUX ⲩ/PRON ⲡⲱⲧ/VERB \n There are no children ... because (lit. for that) they have fled.

@@ -2,6 +2,7 @@
 layout: relation
 title: 'amod'
 shortdef: 'adjectival modifier'
+udver: '2'
 ---
 
 An adjectival modifier of a noun is any adjectival phrase that serves
@@ -35,7 +36,7 @@ amod(σπόρος, ξεφλουδισμένος)
 
 
 <!--
-TODO 
+TODO
 ~~~ sdparse
 Ο αμερικανός πρόεδρος
 amod(πρόεδρος, αμερικανός)

@@ -2,6 +2,7 @@
 layout: relation
 title: 'reparandum'
 shortdef: 'overridden disfluency'
+udver: '2'
 ---
 
 We use `reparandum` to indicate disfluencies overridden in a speech

@@ -5,11 +5,12 @@ shortdef: 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "el/dep/aux.html"
+udver: '2'
 ---
 
 We use the `aux` relation for:
 
-- forms of the auxiliary verb _έχω_ in periphrastic tenses. 
+- forms of the auxiliary verb _έχω_ in periphrastic tenses.
 
 ~~~ sdparse
 έχουν πάει
@@ -41,7 +42,7 @@ dobj(συναντήσει, τον)
 - the impersonal verb *πρέπει* expressing obligation and probability
 
 ~~~ sdparse
-θα πρέπει να τον συναντήσω 
+θα πρέπει να τον συναντήσω
 aux(συναντήσω, θα)
 aux(συναντήσω, πρέπει)
 aux(συναντήσω, να)
@@ -56,10 +57,10 @@ aux(δει, να)
 dobj(δει, τον)
 ~~~
 
-- the impersonal verb *μπορεί* when expressing possibility. 
+- the impersonal verb *μπορεί* when expressing possibility.
 
 ~~~ sdparse
-μπορεί να τον έχουν δει 
+μπορεί να τον έχουν δει
 aux(δει, μπορεί)
 aux(δει, έχουν)
 aux(δει, να)
@@ -77,7 +78,7 @@ aux(φάει, να)
 Negative particles  *δεν* and *μην* are assigned the relation [neg](neg).
 
 <!--
-TODO 
+TODO
 Include φαίνεται πρόκειται?
 -->
 <!-- Interlanguage links updated Čt lis 12 09:43:13 CET 2020 -->

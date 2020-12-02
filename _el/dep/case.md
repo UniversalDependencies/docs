@@ -2,6 +2,7 @@
 layout: relation
 title: 'case'
 shortdef: 'case marking'
+udver: '2'
 ---
 
 The `case` relation for Greek is used for prepositions.
@@ -13,7 +14,7 @@ nmod(Κυριαρχήσαμε, παιχνίδι)
 ~~~
 
 ~~~ sdparse
-Δε σταμάτησαν από την αρχή ως το τέλος 
+Δε σταμάτησαν από την αρχή ως το τέλος
 case(αρχή,  από)
 case(τέλος, ως)
 nmod(σταμάτησαν, αρχή)
@@ -23,12 +24,12 @@ nmod(σταμάτησαν, τέλος)
 A small list of postpositions in fixed expressions are labeled with `case`. **TODO:** An alternative analysis would be to label them using the [mwe](fixed) relation.
 
 ~~~ sdparse
-λόγου χάριν 
+λόγου χάριν
 case(λόγου,  χάριν)
 ~~~
 
 ~~~ sdparse
-παραδείγματος χάριν 
+παραδείγματος χάριν
 case(παραδείγματος,  χάριν)
 ~~~
 
@@ -36,13 +37,13 @@ case(παραδείγματος,  χάριν)
 τιμής ένεκεν
 case(τιμής,  ένεκεν)
 ~~~
- 
+
 
 
 Certain adverbs may be followed by prepositions. We label these adverbs with the `case` relation and attach to them the prepositions with a [mwe] relation.
 
 ~~~ sdparse
-ενάντια σε όλα τα εμπόδια 
+ενάντια σε όλα τα εμπόδια
 case(εμπόδια, ενάντια)
 mwe(ενάντια, σε)
 ~~~
@@ -86,7 +87,7 @@ mark(συναντήσω, πριν)
 ~~~
 
 
-## TODO 
+## TODO
 
 Add guidelines on tokenization of  _στ-_ preposition+article combinations.
 <!-- Interlanguage links updated Čt lis 12 09:43:15 CET 2020 -->

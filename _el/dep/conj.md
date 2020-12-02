@@ -2,6 +2,7 @@
 layout: relation
 title: 'conj'
 shortdef: 'conjunct'
+udver: '2'
 ---
 
 A conjunct is the relation between two elements connected by a
@@ -10,12 +11,12 @@ conjunctions asymmetrically: The head of the relation is the first
 conjunct and all the other conjuncts depend on it via the `conj` relation.
 
 ~~~ sdparse
-Ακούστηκαν προτάσεις για παραγωγική ανασυγκρότηση και βιώσιμη ανάπτυξη 
+Ακούστηκαν προτάσεις για παραγωγική ανασυγκρότηση και βιώσιμη ανάπτυξη
 conj(ανασυγκρότηση, ανάπτυξη)
 ~~~
 
 <div id="punct1" class="sd-parse">
-των σχέσεων μεταξύ οικονομίας , πολιτικού παιγνίου , κομματικής ισορροπίας και διεθνούς παράγοντα . 
+των σχέσεων μεταξύ οικονομίας , πολιτικού παιγνίου , κομματικής ισορροπίας και διεθνούς παράγοντα .
 conj(οικονομίας, ισορροπίας)
 conj(οικονομίας, παιγνίου)
 conj(οικονομίας, παράγοντα)
@@ -25,7 +26,7 @@ punct(οικονομίας, ,-8)
 </div>
 
 ~~~ sdparse
-Μια μικρή αλλά ανθηρή επιχείρηση . 
+Μια μικρή αλλά ανθηρή επιχείρηση .
 amod(επιχείρηση, μικρή)
 cc(μικρή, αλλά)
 conj(μικρή, ανθηρή)
@@ -34,7 +35,7 @@ conj(μικρή, ανθηρή)
 Coordinate clauses are treated the same way as coordination of other constituent types:
 
 ~~~ sdparse
-Ο οδηγός ενοχλήθηκε και άρχισε να κορνάρει . 
+Ο οδηγός ενοχλήθηκε και άρχισε να κορνάρει .
 cc(ενοχλήθηκε, και)
 conj(ενοχλήθηκε, άρχισε)
 ~~~
@@ -43,7 +44,7 @@ Coordination may be _asyndetic,_ which means that the coordinating conjunction i
 Commas or other punctuation symbols will delimit the conjuncts in the typical case.
 
 ~~~ sdparse
-Θα προωθήσουν ένα ασφαλέστερο , πιο ανθεκτικό παγκόσμιο χρηματοπιστωτικό σύστημα . 
+Θα προωθήσουν ένα ασφαλέστερο , πιο ανθεκτικό παγκόσμιο χρηματοπιστωτικό σύστημα .
 conj(ασφαλέστερο, ανθεκτικό)
 punct(ασφαλέστερο, ,-5)
 ~~~
@@ -51,21 +52,21 @@ punct(ασφαλέστερο, ,-5)
 Coordination can apply to most word categories.
 
 ~~~ sdparse
-Άνοιξαν και έκλεισαν την πόρτα . 
+Άνοιξαν και έκλεισαν την πόρτα .
 conj(Άνοιξαν, έκλεισαν)
 cc(Άνοιξαν, και)
 dobj(Άνοιξαν, πόρτα)
 ~~~
 
 ~~~ sdparse
-από και προς το αεροδρόμιο 
+από και προς το αεροδρόμιο
 case(αεροδρόμιο, από)
 cc(από, και)
 conj(από, προς)
 ~~~
 
 ~~~ sdparse
-εάν και εφόσον δεήσουν 
+εάν και εφόσον δεήσουν
 mark(δεήσουν, εάν)
 cc(εάν, και)
 conj(εάν, εφόσον)
@@ -74,6 +75,6 @@ conj(εάν, εφόσον)
 
 
 ### TODO
-Shared dependents. 
+Shared dependents.
 Nested coordination.
 <!-- Interlanguage links updated Čt lis 12 09:43:19 CET 2020 -->

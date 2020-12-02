@@ -2,10 +2,11 @@
 layout: relation
 title: 'acl'
 shortdef: 'clausal modifier of noun'
+udver: '2'
 ---
 
 `acl` stands for finite clauses that modify a nominal. The head of the `acl` relation is the noun
-that is modified, and the dependent is the head of the clause that modifies the noun. Greek relative 
+that is modified, and the dependent is the head of the clause that modifies the noun. Greek relative
 are assigned a specific subtype label [acl:relcl]().
 
 ~~~ sdparse

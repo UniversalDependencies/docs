@@ -2,6 +2,7 @@
 layout: relation
 title: 'nsubj'
 shortdef: 'nominal subject'
+udver: '2'
 ---
 
 A nominal subject is a nominal phrase which is the syntactic subject of a clause. (See [csubj]() for cases when the subject is clausal.

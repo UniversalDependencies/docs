@@ -2,9 +2,10 @@
 layout: relation
 title: 'compound'
 shortdef: 'compound'
+udver: '2'
 ---
 
-We use the `compound` relation for 
+We use the `compound` relation for
 
 - the few noun noun compounds of Modern Greek:
 

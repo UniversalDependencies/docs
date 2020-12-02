@@ -2,12 +2,13 @@
 layout: relation
 title: 'iobj'
 shortdef: 'indirect object'
+udver: '2'
 ---
 
 The indirect object of a verb is any nominal structure that is a core
 argument of the verb but is not its subject or [direct object](obj).
 The prototypical example is the recipient of ditransitive verbs of exchange,
-that is often realized as a nominal element preceded by a σε-preposition. 
+that is often realized as a nominal element preceded by a σε-preposition.
 
 ~~~ sdparse
 Έδωσε της Άννας αύξηση
@@ -28,7 +29,7 @@ iobj(Έδωσε, Άννα)
 obj(Έδωσε, αύξηση)
 ~~~
 
-Benefactives and source semantic roles are also marked as indirect objects. Recipient and source roles can be realized as nominal elements preceded by για- and από- prepositions. 
+Benefactives and source semantic roles are also marked as indirect objects. Recipient and source roles can be realized as nominal elements preceded by για- and από- prepositions.
 
 ~~~ sdparse
 Έφτιαξε της Λίλας φακές
@@ -48,7 +49,7 @@ iobj(Πήραν, Νίκο)
 obj(Πήραν, χιλιάρικα)
 ~~~
 
-Recipient, benefactives and source roles can be cliticized in genitive. 
+Recipient, benefactives and source roles can be cliticized in genitive.
 
 ~~~ sdparse
 Της έδωσε αύξηση
@@ -88,7 +89,7 @@ dobj(Διδάσκει, μαθηματικά)
 dobj(Διδάσκει, φοιτητές)
 ~~~
 
-The one exception is when there is a clausal complement. Then the clausal complement is regarded 
+The one exception is when there is a clausal complement. Then the clausal complement is regarded
 as a [ccomp]() “clausal direct object” and an object nominal will be an iobj, parallel to the simple ditransitive case:
 
 ~~~ sdparse

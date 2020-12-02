@@ -1,12 +1,12 @@
 ---
 layout: relation
 title: 'flat'
-redirect_from: "el/dep/name.html"
 shortdef: 'name'
+udver: '2'
 ---
 
-We use the `flat` relation for proper nouns constituted of more than one words. 
-The first (leftmost) word is the head, and the other words are direct dependents of the head. 
+We use the `flat` relation for proper nouns constituted of more than one words.
+The first (leftmost) word is the head, and the other words are direct dependents of the head.
 
 ~~~ sdparse
 Τάκης Παπαδόπουλος
@@ -63,7 +63,7 @@ nmod(Γραμματεία, Εκπαίδευσης)
 nmod(Εκπαίδευσης, Ενηλίκων)
 ~~~
 
-This convention is not used for foreign names (transliterated or not), which are annotated in a flat, head-initial structure, in 
+This convention is not used for foreign names (transliterated or not), which are annotated in a flat, head-initial structure, in
 which all words in the name modify the first one using the `flat` label.
 
 ~~~ sdparse

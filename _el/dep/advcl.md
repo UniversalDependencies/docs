@@ -2,10 +2,11 @@
 layout: relation
 title: 'advcl'
 shortdef: 'adverbial clause modifier'
+udver: '2'
 ---
 
 An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.),
-as a modifier not as a core complement. This includes things such as a temporal, consequence, purpose, conditional 
+as a modifier not as a core complement. This includes things such as a temporal, consequence, purpose, conditional
 clauses, etc. The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause.
 
 ~~~ sdparse
@@ -14,7 +15,7 @@ advcl(συνέβη, έπεφτε)
 ~~~
 
 ~~~ sdparse
-το συνηθίσαμε τόσο πολύ ώστε δεν αντιλαμβανόμαστε 
+το συνηθίσαμε τόσο πολύ ώστε δεν αντιλαμβανόμαστε
 advcl(συνηθίσαμε, αντιλαμβανόμαστε)
 ~~~
 
@@ -74,7 +75,7 @@ advcl(στέκεται, αμίλητος)
 
 
 <!---
-TODO: επιρρηματικές αναφορικές όπως/καθώς/όταν/σαν/όσο σου είπα 
+TODO: επιρρηματικές αναφορικές όπως/καθώς/όταν/σαν/όσο σου είπα
 TODO: επιρρηματικές μετοχές έφυγε τρέχοντας
 TODO: επιρρηματικά κατηγορούμενα έφυγε σκυφτός
 

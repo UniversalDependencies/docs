@@ -2,6 +2,7 @@
 layout: relation
 title: 'cop'
 shortdef: 'copula'
+udver: '2'
 ---
 
 In copular clauses, the predicative acts as the head word of the clause, and the copular verb depends on it using a cop (copula) dependency. The only copular verb in the scheme for Greek is *είμαι* (*be*).
@@ -29,7 +30,7 @@ nsubj(πάνω, Νίκος)
 cop(πάνω, είναι)
 ~~~
 
-The same label is used in Greek sentences (often in informal discourse or headlines), where deletion of *είμαι*  may occur. 
+The same label is used in Greek sentences (often in informal discourse or headlines), where deletion of *είμαι*  may occur.
 
 ~~~ sdparse
 Φοβερό το γλυκό .

@@ -1,7 +1,8 @@
 ---
 layout: relation
-title: 'nsubjpass'
+title: 'nsubj:pass'
 shortdef: 'passive nominal subject'
+udver: '2'
 ---
 
 A passive nominal subject is a noun phrase which is the syntactic
@@ -12,7 +13,7 @@ subject of a passive clause (or more generally, any voice where the proto-agent 
 nsubjpass(Περιορίστηκε, μετάδοση)
 ~~~
 
-Notice that the `nsubj` relation is used for the subjects of 
+Notice that the `nsubj` relation is used for the subjects of
 
 - reflexive and reciprocal passive constructions
 
@@ -22,7 +23,7 @@ nsubj(ετοιμάστηκε, Νίκη)
 ~~~
 
 ~~~ sdparse
-Το ζευγάρι αγκαλιάστηκε 
+Το ζευγάρι αγκαλιάστηκε
 nsubj(αγκαλιάστηκε, ζευγάρι)
 ~~~
 

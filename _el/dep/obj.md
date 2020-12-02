@@ -2,9 +2,10 @@
 layout: relation
 title: 'dobj'
 shortdef: 'direct object'
+udver: '2'
 ---
 
-The direct object of a verb is the noun phrase that denotes the entity acted upon. The direct object is typically marked by the accusative case in Greek. 
+The direct object of a verb is the noun phrase that denotes the entity acted upon. The direct object is typically marked by the accusative case in Greek.
 
 ~~~ sdparse
 Ο υπουργός ενημέρωσε το σώμα

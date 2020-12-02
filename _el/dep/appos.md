@@ -2,6 +2,7 @@
 layout: relation
 title: 'appos'
 shortdef: 'appositional modifier'
+udver: '2'
 ---
 
 An appositional modifier of a noun is a nominal immediately following
@@ -25,7 +26,7 @@ appos(θύμα, Παπαδόπουλος)
 ~~~
 
 ~~~ sdparse
-Υπηρεσία Ενημερώσεως Ενόπλων Δυνάμεων ( Υ.ΕΝ.Ε.Δ. ) 
+Υπηρεσία Ενημερώσεως Ενόπλων Δυνάμεων ( Υ.ΕΝ.Ε.Δ. )
 appos(Υπηρεσία, Υ.ΕΝ.Ε.Δ.)
 ~~~
 
