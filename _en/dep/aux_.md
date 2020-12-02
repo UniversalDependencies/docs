@@ -6,6 +6,7 @@ udver: '2'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "en/dep/aux.html"
+udver: '2'
 ---
 
 An `aux` (auxiliary) of a clause is a function word associated with a verbal predicate that

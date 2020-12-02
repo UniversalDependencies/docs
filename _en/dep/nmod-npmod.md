@@ -2,6 +2,7 @@
 layout: relation
 title:  'nmod:npmod'
 shortdef : 'noun phrase as adverbial modifier'
+udver: '2'
 ---
 
 This relation is a subtype of the [nmod]() relation, which captures

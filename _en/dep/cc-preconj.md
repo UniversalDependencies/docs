@@ -2,6 +2,7 @@
 layout: relation
 title:  'cc:preconj'
 shortdef : 'preconjunct'
+udver: '2'
 ---
 
 A preconjunct is the relation between the head of an NP and a word

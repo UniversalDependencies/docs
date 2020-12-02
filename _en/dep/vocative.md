@@ -2,6 +2,7 @@
 layout: relation
 title: 'vocative'
 shortdef: 'vocative'
+udver: '2'
 ---
 
 The `vocative` relation is used to mark dialogue participant addressed

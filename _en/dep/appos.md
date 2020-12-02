@@ -2,9 +2,10 @@
 layout: relation
 title:  'appos'
 shortdef : 'appositional modifier'
+udver: '2'
 ---
 
-An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures. 
+An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures.
 
 ~~~ sdparse
 Sam , my brother , arrived

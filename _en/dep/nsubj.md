@@ -2,13 +2,14 @@
 layout: relation
 title:  'nsubj'
 shortdef : 'nominal subject'
+udver: '2'
 ---
 
 A nominal subject (`nsubj`) is a nominal which is the syntactic subject and the proto-agent of a clause.
 That is, it is in the position that passes typical grammatical test for subjecthood, and this argument is the more agentive,
-the do-er, or the proto-agent of the clause. 
-(See [csubj]() for when the subject is clausal. See [nsubjpass]() and [csubjpass]() for when the subject is not 
-the proto-agent argument due to valence changing operations.) This nominal may be headed by a noun, 
+the do-er, or the proto-agent of the clause.
+(See [csubj]() for when the subject is clausal. See [nsubjpass]() and [csubjpass]() for when the subject is not
+the proto-agent argument due to valence changing operations.) This nominal may be headed by a noun,
 or it may be a pronoun or relative pronoun, or in ellipsis contexts, other things such as an adjective.
 
 The `nsubj` role is only applied to semantic arguments of a predicate.
@@ -20,7 +21,7 @@ the verb is a copular verb, the root of the clause is the complement
 of the copular verb, which can be an adjective or noun, including a noun marked by a preposition,
 as in the examples below.
 
-In English, the `nsubj` normally precedes the predicate that it depends on, but this need not be the case, 
+In English, the `nsubj` normally precedes the predicate that it depends on, but this need not be the case,
 both for the displaced subjects of expletive constructions and in other cases of stylistic inversion, such
 as the example headed by the predicate _come_ below.
 

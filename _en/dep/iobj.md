@@ -2,6 +2,7 @@
 layout: relation
 title:  'iobj'
 shortdef : 'indirect object'
+udver: '2'
 ---
 
 The indirect object of a (verbal) predicate is the nominal which is the dative

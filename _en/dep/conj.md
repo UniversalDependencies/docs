@@ -2,6 +2,7 @@
 layout: relation
 title:  'conj'
 shortdef : 'conjunct'
+udver: '2'
 ---
 
 A conjunct is the relation between two elements connected by a

@@ -2,6 +2,7 @@
 layout: relation
 title:  'cop'
 shortdef : 'copula'
+udver: '2'
 ---
 
 A copula is the relation between the complement of a copular verb and
@@ -50,7 +51,7 @@ nsubj(on, light)
 det(light, The)
 ~~~
 
-In predicative wh-constructions, the fronted wh-word is the head, and the copula is 
+In predicative wh-constructions, the fronted wh-word is the head, and the copula is
 another cop.
 
 ~~~ sdparse

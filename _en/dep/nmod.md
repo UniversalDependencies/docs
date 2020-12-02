@@ -2,6 +2,7 @@
 layout: relation
 title:  'nmod'
 shortdef : 'nominal modifier'
+udver: '2'
 ---
 
 The `nmod` relation is used for nominal modifiers of nouns or clausal

@@ -2,11 +2,12 @@
 layout: relation
 title: 'compound'
 shortdef: 'compound'
+udver: '2'
 ---
 
 *compound* is used for:
 
-- noun compounds. (These should show the correct modification structure of noun compounds, and do - or should - in the English UD treebank. Note, however, that the current automatic Stanford UD converter still makes all nouns modify the rightmost noun of the noun phrase when run on corpora like the 1999 Penn Treebank 3 which do not show noun compound structure - there is no intelligent noun compound analysis.  The correct results are achieved when run on corpora like OntoNotes which do represent the branching structure of noun phrases.) 
+- noun compounds. (These should show the correct modification structure of noun compounds, and do - or should - in the English UD treebank. Note, however, that the current automatic Stanford UD converter still makes all nouns modify the rightmost noun of the noun phrase when run on corpora like the 1999 Penn Treebank 3 which do not show noun compound structure - there is no intelligent noun compound analysis.  The correct results are achieved when run on corpora like OntoNotes which do represent the branching structure of noun phrases.)
 
 ~~~ sdparse
 phone book
@@ -70,7 +71,7 @@ compound(oink-5, oink-4)
 ~~~
 
  - idiomatic phrasal verbs are analyzed as a language-specific subrelation of *compound*
- 
+
 ~~~ sdparse
 She just made up the answer .
 compound:prt(made, up)

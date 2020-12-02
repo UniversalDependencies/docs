@@ -2,9 +2,10 @@
 layout: relation
 title:  'det'
 shortdef : 'determiner'
+udver: '2'
 ---
 
-A determiner is the relation between the head of an NP and its determiner. 
+A determiner is the relation between the head of an NP and its determiner.
 
 ~~~ sdparse
 The man is here

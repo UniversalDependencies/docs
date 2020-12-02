@@ -2,6 +2,7 @@
 layout: relation
 title:  'det:predet'
 shortdef : 'predeterminer'
+udver: '2'
 ---
 
 A predeterminer is the relation between the head of an NP and a word

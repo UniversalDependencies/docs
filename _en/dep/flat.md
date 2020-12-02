@@ -1,8 +1,8 @@
 ---
 layout: relation
 title: 'flat'
-redirect_from: "en/dep/name.html"
-shortdef: 'name'
+shortdef: 'flat'
+udver: '2'
 ---
 
 `flat` is one of the three relations for compounding in UD (together
@@ -25,8 +25,8 @@ label.
 
 ~~~ sdparse
 Carl XVI Gustaf
-name(Carl-1, Gustaf-3)
-name(Carl-1, XVI-2)
+flat(Carl-1, Gustaf-3)
+flat(Carl-1, XVI-2)
 ~~~
 
 For organization names with clear syntactic modification structure, the dependencies should reflect the syntactic modification structure using regular syntactic relation, as in:.
@@ -55,28 +55,28 @@ If a name contains a function word in another language than English, we also use
 
 ~~~ sdparse
 Río de la Plata
-name(Río-1, de-2)
-name(Río-1, la-3)
-name(Río-1, Plata-4)
+flat(Río-1, de-2)
+flat(Río-1, la-3)
+flat(Río-1, Plata-4)
 ~~~
 
 ~~~ sdparse
 Ludwig van Beethoven
-name(Ludwig, van)
-name(Ludwig, Beethoven)
+flat(Ludwig, van)
+flat(Ludwig, Beethoven)
 
 ~~~
 
 ~~~ sdparse
 Miguel de Cervantes y Saavedra
-name(Miguel, de)
-name(Miguel, Cervantes)
-name(Miguel, y)
-name(Miguel, Saavedra)
+flat(Miguel, de)
+flat(Miguel, Cervantes)
+flat(Miguel, y)
+flat(Miguel, Saavedra)
 ~~~
 
 ~~~ sdparse
 San Francisco
-name(San, Francisco)
+flat(San, Francisco)
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:26 CET 2020 -->
