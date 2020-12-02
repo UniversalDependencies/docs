@@ -5,10 +5,10 @@ shortdef: 'classifier'
 udver: '2'
 ---
 
-A `clf` (classifier) is a word which accompanies a noun in certain grammatical contexts. 
-The most canonical use is numeral classifiers, where the word is used with a number for counting objects. 
-A classifier generally reflects some kind of 
-conceptual classification of nouns, based principally on features of their referents. 
+A `clf` (classifier) is a word which accompanies a noun in certain grammatical contexts.
+The most canonical use is numeral classifiers, where the word is used with a number for counting objects.
+A classifier generally reflects some kind of
+conceptual classification of nouns, based principally on features of their referents.
 Etymologically, classifiers are normally historically nouns, and the words may still also be used as independent nouns,
 but in their classifier use they have scant semantics left.
 In most cases, the most appropriate UPOS to give classifiers will still be NOUN, though you may wish to give the words a feature
@@ -33,7 +33,7 @@ Here are some examples from Mandarin/Putonghua Chinese:
 
 Syntactically, the classifier groups with the numeral rather than the noun and we therefore treat
 classifiers as functional dependents of numerals (or possessives) using the new `clf` relation. (This
-is one of Greenberg’s universals and is true in almost all cases. 
+is one of Greenberg’s universals and is true in almost all cases.
 A couple of exceptions are noted in Aikhenvald (2000: 105) _Classifiers_, OUP, but it is noticeable that in those languages
 the putative head noun is in the genitive case.)
 
@@ -45,7 +45,7 @@ clf(sān, gè)
 
 Sometimes a classifier is inserted between a demonstrative and a noun (instead of numeral and noun) [zh]:
 
-<div class="sd-parse">
+~~~ sdparse
 乘坐 這 輛 巴士 \n Chéngzuò zhè liàng bāshì \n Take this CLF bus
 obj(乘坐, 巴士)
 det(巴士, 這)
@@ -56,45 +56,45 @@ clf(zhè, liàng)
 obj(Take, bus)
 det(bus, this)
 clf(this, CLF)
-</div>
+~~~
 
 Classifier words also occur in various other constructions, and so it is important to distinguish the word in a particular
 language from the universal classifier function proposed in UD. We go through here some further examples with Chinese classifiers.
 
-No noun may appear with the number and classifier. 
+No noun may appear with the number and classifier.
 In this case, the classifier takes the role of the missing noun, and we promote the classifier to be the head.
 So 我 買 兩 本 “I am buying two” is regarded as “I am buying two [books-CLF]”.
 
-<div class="sd-parse">
+~~~ sdparse
 我 買 兩 本 \n I buy two CLF
 obj(買, 本)
 nummod(本, 兩)
-</div>
+~~~
 
 In some languages, including Chinese, a classifier can also appear without a number, and frequently then has some sort of
 determinative function. We use the relation `det` for such uses of a classifier. For instance, in Cantonese ‘She bought a/the book’:
 
-<div class="sd-parse">
+~~~ sdparse
 佢 買 咗 本 書 \n keoi maai zo bun syu \n 3sg buy PERF CLF book
 obj(買, 書)
 det(書, 本)
-</div>
+~~~
 
 For languages without highly grammaticalized classifier systems, standard nominal modification relationships are used
 even when things are being counted in groups (with "massifiers"). For example, in English:
 
-<div class="sd-parse">
+~~~ sdparse
 three cups of rolled oats
 nummod(cups, three)
 case(oats, of)
 amod(oats, rolled)
 nmod(cups, oats)
-</div>
+~~~
 
-<div class="sd-parse">
+~~~ sdparse
 three cups rolled oats
 nummod(cups, three)
 amod(oats, rolled)
 nmod(cups, oats)
-</div>
+~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:18 CET 2020 -->
