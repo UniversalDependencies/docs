@@ -202,6 +202,7 @@ as well as Czech-specific examples scattered across the documentation of constru
   * [expl:pv]() for reflexive clitics of inherently reflexive verbs
   * [expl:pass]() for reflexive clitics in reflexive passives
   * [aux:pass]() for passive auxiliaries
+  * [acl:relcl]() for relative clauses
   * [nummod:gov]() for cardinal numbers that are attached as children of the counted noun but govern its case
   * [det:numgov]() for pronominal quantifiers that are attached as children of the quantified noun but govern its case
   * [det:nummod]() for pronominal quantifiers in cases in which they do not govern the case of the quantified noun
