@@ -2,6 +2,7 @@
 layout: relation
 title: 'nummod'
 shortdef: 'numeric modifier'
+udver: '2'
 ---
 
 A numeric modifier of a noun is any number phrase that serves to modify the meaning of the noun with a quantity.
@@ -11,7 +12,7 @@ hay dos espacios \n There are two spaces
 nummod(espacios, dos)
 ~~~
 ~~~ sdparse
-15 años \n 15 years 
+15 años \n 15 years
 nummod(años, 15)
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:33 CET 2020 -->

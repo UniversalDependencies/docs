@@ -5,6 +5,7 @@ shortdef: 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "es/dep/aux.html"
+udver: '2'
 ---
 
 An auxiliary of a clause is a non-main verb of the clause, e.g., a modal auxiliary, or a form of "estar", "ser" or "haber" in a periphrastic tense.

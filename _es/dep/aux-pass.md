@@ -1,14 +1,14 @@
 ---
 layout: relation
-title: 'auxpass'
+title: 'aux:pass'
 shortdef: 'passive auxiliary'
+udver: '2'
 ---
 
-This document is a stub for the language-specific documentation
-for `auxpass`.
+The relation `aux:pass` is used to attach a passive auxiliary to the participle of the lexical verb.
 
 ~~~ sdparse
 Kennedy fue asesinado . \n Kennedy was murdered .
-auxpass(asesinado, fue)
+aux:pass(asesinado, fue)
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:14 CET 2020 -->
