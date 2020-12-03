@@ -4,7 +4,7 @@ title:  'Swahili UD'
 udver: '2'
 ---
 
-# UD for Swahili <span class="flagspan"><img class="flag" src="../../flags/svg/TZ.svg" /></span>
+# UD for Swahili <span class="flagspan"><img class="flag" src="../../flags/svg/TZ.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/KE.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/UG.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/RW.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/CD.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/SS.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
