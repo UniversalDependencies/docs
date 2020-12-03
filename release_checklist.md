@@ -19,8 +19,6 @@ Contents:
   - [Treebank metadata](#treebank-metadata)
   - [Repository branches](#repository-branches)
 * [Validation](#validation)
-  - [Data format and repository](#data-format-and-repository)
-  - [Content validation](#content-validation)
 * [Language-specific guidelines](#language-specific-guidelines)
 
 # New language or treebank
@@ -402,6 +400,12 @@ Since release 2.8, the validator also checks that language-specific feature valu
 a Finnish-specific feature in `data/feat_val.fi`. You must also document the feature and all
 its values in the `docs` repository in `_fi/feat/FeatureName.md`. If the file does not exist
 or if it does not follow the prescribed format, the validator will not accept the feature
+in the data.
+
+Similarly, the validator now checks that language-specific relation subtypes have been properly
+documented. It is thus not enough to list a Finnish-specific subtype in `data/deprel.fi`. You must
+also document it in the `docs` repository in `_fi/dep/maintype-subtype.md`. If the file does not
+exist or if it does not follow the prescribed format, the validator will not accept the relation
 in the data.
 
 The validator also checks that certain closed classes (currently auxiliaries and copula) appear

@@ -54,6 +54,13 @@ not required, nevertheless it is possible to create them and provide more native
 Note however that if there is any peculiarity of the language pertaining to a universally defined label (tag / feature / relation),
 it should be preferably mentioned on the universal page of that label, and possibly also in the construction-oriented universal documentation.
 
+**Please do not create empty documentation pages!**
+If you do not have the time now to provide some meaningful description, postpone the creation
+of the file until you have the time to fill it with contents. It is annoying for the user
+to click on a link only to find out that the information is not there. Even if you do not create
+any link to the empty page, the links may be generated automatically once the file exists in the
+repository.
+
 ## Language-Specific Features
 
 All feature values used in UD treebanks must be documented. If they are defined in the current
@@ -119,6 +126,66 @@ asterisk as the bullet) with individual examples, highlighting the featured word
 #### Examples
 
 * _&lt;b&gt;a&lt;/b&gt; cheannach_ “to buy”
+</pre>
+
+## Language-Specific Subtypes of Dependency Relations
+
+All relations used in UD treebanks must be documented. If they are defined in the current
+version of the UD guidelines, they are already documented and no action is needed. Subtypes are
+optional and technically in the language specific domain, although some subtypes are fairly
+widely attested and some are even mentioned in the universal part of the guidelines. If the
+documentation of a subtype is accessible globally, no action is needed either (if you are unsure
+whether a particular subtype is in this category, try using it; if the validator complains, you
+will know you have to provide documentation). Any other language-specific relation subtype must
+have a documentation page in the folder of the given language (regardless of whether this subtype
+is or is not documented in another language).
+
+Note that in some cases you should change the relation in your data rather than documenting it.
+When defining new subtypes, make sure that you are **not redefining something that
+already has a different label in UD (even in other languages).**
+
+A language-specific relation page must be readable by both humans and machines, hence it must
+follow a prescribed format. UD validation software will check the page and if it cannot parse
+it, it will not consider the relation valid to be used in UD treebanks.
+
+The page is a MarkDown file and uses the extension `.md`. It must be in a `dep` subfolder of the
+language-specific folder in the `docs` repository. The name of the file normally follows the
+name of the relation, only the colon must be converted to a hyphen. For example, the documentation
+of the French subtype `advcl:cleft` must be in the file
+[_fr/dep/advcl-cleft.md](https://github.com/UniversalDependencies/docs/blob/pages-source/_fr/dep/advcl-cleft.md).
+
+To get started, you may want to copy an existing page from another language and edit it.
+Each MarkDown file has a header which starts and ends with three dashes. Here is an example;
+edit title and shortdef, keep layout and udver intact:
+
+<pre>
+---
+layout: relation
+title: 'advcl:cleft'
+shortdef: 'cleft adverbial clause modifier'
+udver: '2'
+---
+</pre>
+
+Your description of the subtype starts after the header. Do not forget to add examples
+(full dependency trees are preferred over just showing the relation the page is about).
+Dependency trees are inserted either in the `sdparse` environment or in the `conllu`
+environment (the latter is more complex but it allows direct inserting of trees from your
+treebank). Do not forget to add an English translation of a foreign-language example.
+
+<pre>
+~~~ sdparse
+Il y a Marie qui danse dans la pièce . \n Marie dances in the room .
+nsubj(a,Il)
+advmod(a,y)
+obj(a,Marie)
+advcl:cleft(Marie,danse)
+nsubj(danse,qui)
+obl(danse,pièce)
+case(pièce,dans)
+det(pièce,la)
+punct(a,.)
+~~~
 </pre>
 
 ## Old-Style Documentation
