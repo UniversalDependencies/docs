@@ -49,6 +49,7 @@ In Komi-Zyrian the specifically marked accusatives mark direct objects of verbs.
 #### Examples
 
 * [kpv] _ме <b>тэнӧ</b> нуӧда гортӧ_ "I will take <b>you</b> home"
+* [kpv] _аддза <b>ёртӧс</b>_ "I see <b>my friend</b>"
 
 ### <a name="Car">`Car`</a>: caritive
 
@@ -109,9 +110,7 @@ The base form of the noun, typically used as citation form (lemma).
 
 #### Examples
 
-* [kpv] _<b>горт</b>_ "house"
-* [kpv] _<b>пызан</b>_ "table"
-* [kpv] _<b>пон</b>_ "dog"
+* [kpv] _<b>понйыс</b> котралӧ_ "the dog is running"
 
 ### <a name="Ter">`Ter`</a>: terminative / terminal allative
 
