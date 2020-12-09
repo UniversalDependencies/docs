@@ -2,16 +2,17 @@
 layout: relation
 title: 'appos'
 shortdef: 'appositional modifier'
+udver: '2'
 ---
 
 An appositional modifier of a noun (`appos`) is a nominal immediately following the first noun that serves to define or modify that noun. It includes parenthesized examples, as well as defining abbreviations in one of these structures.
 
 *Bikote bat hil zuten Chinanin, Taref **probintzian** .*
 
-*They killed a couple in Chinani, in the Taref **province** .* 
+*They killed a couple in Chinani, in the Taref **province** .*
 
 ~~~ sdparse
-Bikote bat hil zuten Chinanin, Taref probintzian . \n Couple a killed Chinani_in, Taref province_the_in . 
+Bikote bat hil zuten Chinanin, Taref probintzian . \n Couple a killed Chinani_in, Taref province_the_in .
 
 dobj(hil-3, Bikote-1)
 nummod(Bikote-1, bat-2)
@@ -36,14 +37,14 @@ nmod(adierazi-6, asanbladan-2)
 nmod(10ean-4, martxoaren-3)
 nmod(eginikoa-5, 10ean-4)
 appos(asanbladan-2, eginikoa-5)
-aux(adierazi-6, zuten-7) 
+aux(adierazi-6, zuten-7)
 punct(adierazi-6, .-8)
 ~~~
-	
 
-*Nekazaritza eta abeltzaintza **(esnea, haragia eta txerriak)** dira bertako iharduera ekonomiko nagusiak .* 
 
-*Agriculture and stockbreeding **(milk, meat and pork)** are the main autochthonous economic activities .* 
+*Nekazaritza eta abeltzaintza **(esnea, haragia eta txerriak)** dira bertako iharduera ekonomiko nagusiak .*
+
+*Agriculture and stockbreeding **(milk, meat and pork)** are the main autochthonous economic activities .*
 
 ~~~ sdparse
 Nekazaritza eta abeltzaintza (esnea, haragia eta txerriak) dira bertako iharduera ekonomiko nagusiak . n\ Agriculture and stockbreeding (milk, meat and pork) are autochthonous activities economic main_the .
@@ -67,10 +68,10 @@ punct(iharduera-11, .-14)
 
 *Francesco Casagrandre italiarrak Nazioarteko Txirrindularitza Elkarteko **(UCI)** lehen postuan jarraitzen du .*
 
-*The italian Francesco Casagrandre continues in the first position of the Union Cycliste Internationale **(UCI)** .*  
+*The italian Francesco Casagrandre continues in the first position of the Union Cycliste Internationale **(UCI)** .*
 
 ~~~ sdparse
-Francesco Casagrandre italiarrak Nazioarteko Txirrindularitza Elkarteko (UCI) lehen postuan jarraitzen du . n\ Francesco Casagrandre italian_the Internationale_the_of Cycliste Union (UCI) first position_the_in continues .  
+Francesco Casagrandre italiarrak Nazioarteko Txirrindularitza Elkarteko (UCI) lehen postuan jarraitzen du . n\ Francesco Casagrandre italian_the Internationale_the_of Cycliste Union (UCI) first position_the_in continues .
 
 nmod(italiarrak-3, Francesco-1)
 name(Francesco-1, Casagrandre-2)

@@ -2,6 +2,7 @@
 layout: relation
 title: 'nmod'
 shortdef: 'nominal modifier'
+udver: '2'
 ---
 
 The nmod relation (`nmod`) is used for nominal modifiers. They depend either on another noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).
@@ -32,7 +33,7 @@ punct(zegoen-5, .-8)
 ~~~ sdparse
 Partidutxoa egin zuten hamarreko bi taldetan . \n Match_a played ten_of two match_in  .
 
-dobj(egin-2, Partidutxoa)
+obj(egin-2, Partidutxoa)
 aux(egin-2, zuten-3)
 nmod(taldetan-6, hamarreko-4)
 nummod(taldetan-6, bi-5)
@@ -45,10 +46,10 @@ punct(egin-2, .-7)
 
 *Hori izango da **gure** zigorra .*
 
-*That will be our punishment .* 
+*That will be our punishment .*
 
 ~~~ sdparse
-Hori izango da gure zigorra . \n That will be our punishment . 
+Hori izango da gure zigorra . \n That will be our punishment .
 
 nsubj(zigorra-5, Hori-1)
 cop(zigorra-5, izango-2)

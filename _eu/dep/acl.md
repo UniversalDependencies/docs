@@ -2,6 +2,7 @@
 layout: relation
 title: 'acl'
 shortdef: 'clausal modifier of noun'
+udver: '2'
 ---
 
 `acl` stands for finite and non-finite clauses that modify a nominal. A relative clause is an instance of acl, characterized by finiteness and usually omission of the modified noun in the embedded clause. The head of the acl relation is the noun that is modified, and the dependent is the head of the clause that modifies the noun.
@@ -10,7 +11,7 @@ shortdef: 'clausal modifier of noun'
 
 *Hori diote futbolaz **dakiten** entrenatzaileek .*
 
-*The coaches **who know** about football say that .* 
+*The coaches **who know** about football say that .*
 
 ~~~ sdparse
 Hori diote futbolaz dakiten entrenatzaileek . \n That say football_about know_who coaches_the .

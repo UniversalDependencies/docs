@@ -1,20 +1,20 @@
 ---
 layout: relation
 title: 'flat'
-redirect_from: "eu/dep/name.html"
-shortdef: 'name'
+shortdef: 'flat structure with no head'
+udver: '2'
 ---
 
-`flat` is one of the three relations for compounding in UD (together with [compound]() and [fixed]()). It is used for proper nouns constituted of multiple nominal elements. 
-Words joined by `flat` should all be part of a minimal noun phrase; otherwise, regular syntactic relations should be used.  
+`flat` is one of the three relations for compounding in UD (together with [compound]() and [fixed]()). It is used for proper nouns constituted of multiple nominal elements.
+Words joined by `flat` should all be part of a minimal noun phrase; otherwise, regular syntactic relations should be used.
 In general, names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the `flat` label.
 
 ***Scottie Pippenek** polemika artean ekin zion norgehiagokari .*
 
-***Scottie Pippene** attacked to the competition among polemics .* 
+***Scottie Pippene** attacked to the competition among polemics .*
 
 ~~~ sdparse
-Scottie Pippenek polemika artean ekin zion norgehiagokari . \n Scottie Pippene polemic among attacked competition_the_to . 
+Scottie Pippenek polemika artean ekin zion norgehiagokari . \n Scottie Pippene polemic among attacked competition_the_to .
 
 nsubj(ekin-5, Scottie-1)
 name(Scottie-1, Pippenek-2)
@@ -41,10 +41,10 @@ punct(zegoen-4, .-6)
 
 *Hego Koreako gobernuak **Hyundai Motor** enpresaren salmenta baimendu du .*
 
-*South Korea's government has authorized the sale of **Hyundai Motor** enterprise .* 
+*South Korea's government has authorized the sale of **Hyundai Motor** enterprise .*
 
 ~~~ sdparse
-Hego Koreako gobernuak Hyundai Motor enpresaren salmenta baimendu du . \n South Korea's government Hyundai Motor enterprise_of sale_the authorized has . 
+Hego Koreako gobernuak Hyundai Motor enpresaren salmenta baimendu du . \n South Korea's government Hyundai Motor enterprise_of sale_the authorized has .
 
 compound(Koreako-2, Hego-1)
 nmod(gobernuak-3, Koreako-2)

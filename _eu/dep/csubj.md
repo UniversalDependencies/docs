@@ -2,15 +2,16 @@
 layout: relation
 title: 'csubj'
 shortdef: 'clausal subject'
+udver: '2'
 ---
-A clausal subject (`csubj`) is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb. The dependent is the main lexical verb or other predicate of the subject clause. 
+A clausal subject (`csubj`) is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb. The dependent is the main lexical verb or other predicate of the subject clause.
 
 *Orain ezinezkoa da **engainatzea** .*
 
 *It is now impossible **to deceive** .*
 
 ~~~ sdparse
-Orain ezinezkoa da engainatzea .\n Now impossible is to_deceive 
+Orain ezinezkoa da engainatzea .\n Now impossible is to_deceive
 
 advmod(da-3, Orain-1)
 cop(ezinezkoa-2, da-3)

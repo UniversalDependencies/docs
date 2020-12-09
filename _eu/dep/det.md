@@ -2,10 +2,11 @@
 layout: relation
 title: 'det'
 shortdef: 'determiner'
+udver: '2'
 ---
 
 The relation determiner (`det`) holds between a nominal head and its
-[determiner]. 
+[determiner].
 Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc.
 
 Note that cardinal numerals (one, five, hundred) are not tagged DET but nummod.
@@ -17,7 +18,7 @@ Note that cardinal numerals (one, five, hundred) are not tagged DET but nummod.
 *To get the three points in the **first** match is not essential .*
 
 ~~~ sdparse
-Lehen partiduan hiru puntuak eskuratzea ez da ezinbestekoa . \n First match_the_in three points_the to_get not is essential . 
+Lehen partiduan hiru puntuak eskuratzea ez da ezinbestekoa . \n First match_the_in three points_the to_get not is essential .
 
 det(partiduan-2, Lehen-1)
 nmod(eskuratzea-5, partiduan-2)
@@ -60,7 +61,7 @@ punct(Aukera-1-2, .-4)
 ~~~
 
 
-*Oso harreman **gutxi** dute gurekin .* 
+*Oso harreman **gutxi** dute gurekin .*
 
 *They have very **few** relation with us .*
 
@@ -76,7 +77,7 @@ punct(dute-4, .-6)
 
 * Interrogative determiners:
 
-***Zeintzu** proiektu dituzu epe laburrera ?* 
+***Zeintzu** proiektu dituzu epe laburrera ?*
 
 ***Which** projects do you have in the near future ?*
 
@@ -110,5 +111,5 @@ punct(altuena-7, .-9)
 ~~~
 
 
-* Possessive determiners, are not tagged with det but with nmod (see nmod section).  
+* Possessive determiners, are not tagged with det but with nmod (see nmod section).
 <!-- Interlanguage links updated Čt lis 12 09:43:23 CET 2020 -->

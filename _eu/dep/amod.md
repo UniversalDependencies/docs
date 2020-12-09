@@ -2,11 +2,12 @@
 layout: relation
 title: 'amod'
 shortdef: 'adjectival modifier'
+udver: '2'
 ---
 
 Nouns may take adjectival modifiers, which are marked with the dependency type `amod`. Most of the adjectives appear after the noun they modify, though some of them may appear before.
 
-*Epaiketa horrek kezka **handia** piztu du .* 
+*Epaiketa horrek kezka **handia** piztu du .*
 
 *That trial has caused a **big** concern .*
 
@@ -41,7 +42,7 @@ punct(heldu-2, .-9)
 
 ***Azkeneko** 400 metroak minutu batean osatu zituen Derartu Tuluk .*
 
-*Derartu Tulu made the **last** 400 meters in one minute .* 
+*Derartu Tulu made the **last** 400 meters in one minute .*
 
 ~~~ sdparse
 Azkeneko 400 metroak minutu batean osatu zituen Derartu Tuluk . \n Last 400 meters_the minute one_in made Derartu Tulu .

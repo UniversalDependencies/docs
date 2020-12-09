@@ -2,6 +2,7 @@
 layout: relation
 title: 'nsubj'
 shortdef: 'nominal subject'
+udver: '2'
 ---
 
 The `nsubj` marks nominal subjects of the non-copular clause. Being Basque a morphologically ergative language, subjects of transitive verbs are marked with the ergative case, while subjects of intransitive verbs are marked with the absolutive case.
@@ -30,10 +31,10 @@ Example of a subject in a transitive sentence (ERG case):
 
 *Eztabaida handia sortu du **aldaketak** .*
 
-*The **change** has caused a huge discussion .* 
+*The **change** has caused a huge discussion .*
 
 ~~~ sdparse
-Eztabaida handia sortu du aldaketak .\n Discussion huge_a caused has change_the .  
+Eztabaida handia sortu du aldaketak .\n Discussion huge_a caused has change_the .
 
 amod(Eztabaida-1, handia-2)
 dobj(sortu-3, Eztabaida-1)

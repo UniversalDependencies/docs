@@ -2,16 +2,17 @@
 layout: relation
 title: 'compound'
 shortdef: 'compound'
+udver: '2'
 ---
 
 `compound` is one of the three relations in UD for compounding. It is used for noun compounds (e.g., *phone book*), but also for verb and adjective compounds as well as for “phrasal verb” constructions (e.g., *throw up*), which in Basque are expressions such as *gora egin* (*go up*), for example:
 
 *Kazetariak aztoratuta ibili ziren atzo **Euskadi Fundazioak** Derion duen egoitzaren atarian .*
 
-*Journalists were rowdy yesterday in the entrace of the officce that **Euskadi Foundation** has in Derio .* 
+*Journalists were rowdy yesterday in the entrace of the officce that **Euskadi Foundation** has in Derio .*
 
 ~~~ sdparse
-Kazetariak aztoratuta ibili ziren atzo Euskadi Fundazioak Derion duen egoitzaren atarian .\n Journalists rowdy were yesterday Euskadi Foundation Derio_in has_that officce_of entrace_the_in . 
+Kazetariak aztoratuta ibili ziren atzo Euskadi Fundazioak Derion duen egoitzaren atarian .\n Journalists rowdy were yesterday Euskadi Foundation Derio_in has_that officce_of entrace_the_in .
 
 nsubj(aztoratuta-2, Kazetariak-1)
 cop(aztoratuta-2, ibili-3)
@@ -28,10 +29,10 @@ punct(ibili-3, .-12)
 
 ***Izan ere** zerbait gehiago behar da nirekin bukatzeko .*
 
-***In fact** something esle is needed in order to end with me .* 
+***In fact** something esle is needed in order to end with me .*
 
 ~~~ sdparse
-Izan ere zerbait gehiago behar da nirekin bukatzeko . \n In fact something esle needed is me_with end_in_order_to  . 
+Izan ere zerbait gehiago behar da nirekin bukatzeko . \n In fact something esle needed is me_with end_in_order_to  .
 
 compound(ere-2, Izan-1)
 nmod(da-6, ere-2)

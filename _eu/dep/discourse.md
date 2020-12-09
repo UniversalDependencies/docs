@@ -2,6 +2,7 @@
 layout: relation
 title: 'discourse'
 shortdef: 'discourse element'
+udver: '2'
 ---
 
 `discourse` is used for [interjections](u-pos/INTJ) and other discourse [particles](u-pos/PART). The guidelines of what the Penn Treebanks count as an INTJ have been followed in this case, which inlcude interjections, fillers and discourse markers.
@@ -24,10 +25,10 @@ punct(egoiten-6, !-8)
 
 ***Ba** ez da hori, **ez** .*
 
-***So** it is not that, **no** .* 
+***So** it is not that, **no** .*
 
 ~~~ sdparse
-Ba ez da hori, ez . \n So it is not that, no . 
+Ba ez da hori, ez . \n So it is not that, no .
 
 discourse(da-3, Ba-1)
 neg(da-3, ez-2)

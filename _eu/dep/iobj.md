@@ -2,11 +2,12 @@
 layout: relation
 title: 'iobj'
 shortdef: 'indirect object'
+udver: '2'
 ---
 
-The indirect object (`iobj`) of a verb is any nominal phrase that is a core argument of the verb but is not its subject or direct object. As Basque is a language that distinguishes morphological cases, the indirect object is marked by the dative case. 
+The indirect object (`iobj`) of a verb is any nominal phrase that is a core argument of the verb but is not its subject or direct object. As Basque is a language that distinguishes morphological cases, the indirect object is marked by the dative case.
 
-***Ikasleei** esan zien arratsaldean ikasi behar zutela .* 
+***Ikasleei** esan zien arratsaldean ikasi behar zutela .*
 
 *(He/she told **the students** that they needed to study in the evening .*
 
@@ -22,12 +23,12 @@ punct(esan-2, .-8)
 ~~~
 
 
-*Ahalegin haundia egin du **guri** geografia irakasten .* 
+*Ahalegin haundia egin du **guri** geografia irakasten .*
 
 *(He/she) has made a great effort teaching **us** geography .*
 
 ~~~ sdparse
-Ahalegin haundia egin du guri geografia irakasten .\n  Effort great_a made has us geography teaching . 
+Ahalegin haundia egin du guri geografia irakasten .\n  Effort great_a made has us geography teaching .
 
 amod(Ahalegin-1, haundia-2)
 dobj(egin-3, Ahalegin-1)

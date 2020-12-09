@@ -1,8 +1,8 @@
 ---
 layout: relation
 title: 'fixed'
-redirect_from: "eu/dep/mwe.html"
-shortdef: 'multi-word expression'
+shortdef: 'fixed multi-word expression'
+udver: '2'
 ---
 
 `fixed`, the multi-word expression (modifier) relation, is one of the three relations (compound, mwe, name) for compounding. It is used for certain fixed grammaticized expressions that behave like function words or short adverbials.
@@ -30,7 +30,7 @@ punct(besteak-9, .-14)
 ~~~
 
 
-*Hakkinen baino sendoago ari da, **argi eta garbi** .* 
+*Hakkinen baino sendoago ari da, **argi eta garbi** .*
 
 *He/she is stronger than Hakkinen, **as clear as water** .*
 
