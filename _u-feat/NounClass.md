@@ -356,10 +356,18 @@ The corresponding singular class is `Bantu20`.
 
 ## Noun Classes in Wolof
 
+<!-- https://github.com/UniversalDependencies/docs/issues/592 -->
+
 Wolof is a non-Bantu Niger-Congo language. It has noun classes but their semantics
 cannot be easily mapped on the Bantu classes. The class is morphologically unmarked
 on nouns (although it is an inherent property of the lexeme) but determiners have
 to show agreement with the class.
+
+The Wolof noun class system lacks semantic coherence. One reason for this is that
+in Wolof noun classification is sometimes based on other factors than semantics,
+including phonology and morphology. And still these are just some tendencies, but in
+most cases there is no clear semantics, phonology or morphology that can explain the
+classification in Wolof.
 
 #### Examples
 
@@ -380,74 +388,81 @@ class 11 is for location, class 12 for manner.
 <tr><td><i>fi</i> “here”</td><td><i>ni</i> “so”</td></tr>
 </table>
 
-### <a name="Wol1">`Wol1`</a>: Wolof noun class 1 (singular)
+### <a name="Wol1">`Wol1`</a>: Wolof noun class 1/k (singular human)
 
 #### Examples
 
 * [wo] _nitug Afrig <b>ki</b>_
 
-### <a name="Wol2">`Wol2`</a>: Wolof noun class 2 (plural)
+### <a name="Wol2">`Wol2`</a>: Wolof noun class 2/ñ (plural human)
 
 #### Examples
 
 * [wo] _jigéen <b>ñi</b>_
 
-### <a name="Wol3">`Wol3`</a>: Wolof noun class 3 (singular)
+### <a name="Wol3">`Wol3`</a>: Wolof noun class 3/g (singular)
 
 #### Examples
 
 * [wo] _dexug Gaambi <b>gi</b>_
 
-### <a name="Wol4">`Wol4`</a>: Wolof noun class 4 (singular)
+### <a name="Wol4">`Wol4`</a>: Wolof noun class 4/j (singular)
 
 #### Examples
 
 * [wo] _<b>jenn</b> jamono <b>ji</b>_
 
-### <a name="Wol5">`Wol5`</a>: Wolof noun class 5 (singular)
+### <a name="Wol5">`Wol5`</a>: Wolof noun class 5/b (singular)
+
+For example, “dog” is in the b class.
 
 #### Examples
 
+* [wo] _xaj <b>bi</b>_ “this dog” (dog class-DEF.PROX)
+* [wo] _xaj <b>ba</b>_ “that dog” (dog class-DEF.REMT)
 * [wo] _buur <b>bi</b>_
 
-### <a name="Wol6">`Wol6`</a>: Wolof noun class 6 (singular)
+### <a name="Wol6">`Wol6`</a>: Wolof noun class 6/m (singular)
+
+For example, “sheep” is in the m class.
 
 #### Examples
 
+* [wo] _xar <b>mi</b>_ “this sheep” (sheep class-DEF.PROX)
 * [wo] _at <b>mi</b>_
 
-### <a name="Wol7">`Wol7`</a>: Wolof noun class 7 (singular)
+### <a name="Wol7">`Wol7`</a>: Wolof noun class 7/l (singular)
 
 #### Examples
 
 * [wo] _ndongo <b>li</b>_
 
-### <a name="Wol8">`Wol8`</a>: Wolof noun class 8 (plural)
+### <a name="Wol8">`Wol8`</a>: Wolof noun class 8/y (plural non-human)
 
 #### Examples
 
 * [wo] _nguur <b>yii</b>_
 
-### <a name="Wol9">`Wol9`</a>: Wolof noun class 9 (singular)
+### <a name="Wol9">`Wol9`</a>: Wolof noun class 9/s (singular)
 
 #### Examples
 
 * [wo] _sàmm <b>si</b>_
 
-### <a name="Wol10">`Wol10`</a>: Wolof noun class 10 (singular)
+### <a name="Wol10">`Wol10`</a>: Wolof noun class 10/w (singular)
 
 #### Examples
 
 * [wo] _sama nag <b>wa</b>_
 
-### <a name="Wol11">`Wol11`</a>: Wolof noun class 11 (location)
+### <a name="Wol11">`Wol11`</a>: Wolof noun class 11/f (location)
 
 #### Examples
 
 * [wo] _<b>fi</b>_ “here”
 * [wo] _<b>fa</b>_ “there”
 
-### <a name="Wol12">`Wol12`</a>: Wolof noun class 12 (manner)
+### <a name="Wol12">`Wol12`</a>: Wolof noun class 12/n (manner)
 
 #### Examples
 
