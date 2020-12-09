@@ -25,7 +25,7 @@ of the speaker or of the hearer. The common distinction is distance (proximate v
 remote entities); in some languages, elevation is distinguished as well (e.g., the
 entity is located higher or lower than the speaker).
 
-### <a name="Prox">`Prox`</a>: proximate
+### <a name="Proxx">`Prox`</a>: proximate
 
 The entity is close to the reference point (e.g., to the speaker).
 
