@@ -124,7 +124,7 @@ Means “in order to”, occurs in Amazonian and Australian languages, such as A
 ### <a name="Qot">`Qot`</a>: quotative
 
 The quotative mood is used e.g. in Estonian to denote direct speech.
-The boundary between this mood and the non-first-hand [Evidentiality]() is blurred.
+The boundary between this mood and the non-first-hand [Evident]()iality is blurred.
 
 #### Examples
 
