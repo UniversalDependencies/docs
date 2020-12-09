@@ -23,6 +23,11 @@ of the speaker or of the hearer. The common distinction is distance (proximate v
 remote entities); in some languages, elevation is distinguished as well (e.g., the
 entity is located higher or lower than the speaker).
 
+If it is necessary to distinguish the person whose location is the reference point (speaker or hearer),
+the feature [DeixisRef]() can be used in addition to `Deixis`. See also the Wolof examples below.
+`DeixisRef` is not needed if all deictic expressions in the language are relative to the same person
+(probably the speaker).
+
 ### <a name="Prox">`Prox`</a>: proximate
 
 The entity is close to the reference point (e.g., to the speaker).
@@ -32,6 +37,8 @@ The entity is close to the reference point (e.g., to the speaker).
 * [en] _<b>this</b> dog_
 * [en] _<b>here</b>_
 * [es] _<b>aquí</b>_ “<b>here</b>”
+* [wo] _xaj <b>bii</b>_ “<b>this</b> dog” (close to me, wherever you may be) `Deixis=Prox|DeixisRef=1`
+* [wo] _xaj <b>boobu</b>_ “<b>that</b> dog / the dog in question” (close to you, far from me) `Deixis=Prox|DeixisRef=2`
 
 ### <a name="Med">`Med`</a>: medial
 
@@ -40,6 +47,7 @@ The entity is neither close nor far away from the reference point (e.g., from th
 #### Examples
 
 * [es] _<b>ahí</b>_ “there”
+* [wo] _xaj <b>boobale</b>_ “<b>that</b> dog” (far away from both of us, but closer to you than to me) `Deixis=Med|DeixisRef=2`
 
 ### <a name="Remt">`Remt`</a>: remote, distal
 
@@ -50,5 +58,6 @@ The entity is far away from the reference point (e.g., from the speaker).
 * [en] _<b>that</b> dog_
 * [en] _<b>there</b>_
 * [es] _<b>allí</b>_ “<b>there</b>”
+* [wo] _xaj <b>bale</b>_ “<b>that</b> dog” (far away from me, wherever you may be) `Deixis=Remt|DeixisRef=1`
 
 <!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->
