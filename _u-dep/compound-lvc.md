@@ -11,7 +11,7 @@ The semantics of the construction is determined by the non-head word,
 often a noun or adjective.
 
 ~~~ sdparse
-Onlar treni tercih ediyor . \n The prefer the train .
+Onlar treni tercih ediyor . \n They prefer the train .
 compound:lvc(ediyor, tercih)
 obj(ediyor, treni)
 subj(ediyor, Onlar)
