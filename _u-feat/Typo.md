@@ -23,5 +23,4 @@ as discussed in the [page on typos](https://universaldependencies.org/u/overview
 #### Examples
 
 * [en] _<b>Barak</b> Obama_
-
 <!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
