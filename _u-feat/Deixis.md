@@ -8,11 +8,9 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Com">Com</a></td>
-  <td><a href="#Cons">Cons</a></td>
-  <td><a href="#Def">Def</a></td>
-  <td><a href="#Ind">Ind</a></td>
-  <td><a href="#Spec">Spec</a></td>
+  <td><a href="#Med">Med</a></td>
+  <td><a href="#Prox">Prox</a></td>
+  <td><a href="#Remt">Remt</a></td>
 </tr>
 </table>
 
@@ -25,7 +23,7 @@ of the speaker or of the hearer. The common distinction is distance (proximate v
 remote entities); in some languages, elevation is distinguished as well (e.g., the
 entity is located higher or lower than the speaker).
 
-### <a name="Proxx">`Prox`</a>: proximate
+### <a name="Prox">`Prox`</a>: proximate
 
 The entity is close to the reference point (e.g., to the speaker).
 
