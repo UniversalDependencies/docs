@@ -11,6 +11,20 @@ See [here](release_checklist.html) for the checklist for data contributors.
 # How to add a language to UD
 
 * Make sure the language name, ISO code, family and flag is listed in docs-automation in `codes_and_flags.yaml`.
+  * It should be the English name of the language, and it should contain only English letters or the space.
+    Avoid special characters such as diacritics or apostrophes (we enforce this since the beginning, to be
+    sure that we do not face any surprises with our infrastructure; the language will be part of a file/folder
+    name).
+  * There is a one-to-one mapping between language names and ISO 639 (-1 or -3) codes.
+    A language that does not have its own code must be treated as a variant of another language.
+    Renaming a language is painful (see below), so one should be careful: is it possible that somebody will
+    fall under the same language in the future, and will not like this name?
+  * We use flags just as a visual enhancement of the website and we have a disclaimer on the title page that
+    they are not a political statement of any sort. We give a flag to every language, although there are
+    occasional troubles (e.g., a historical language gets a flag of a modern country because there was no flag
+    in the times the language was spoken). If there are multiple candidate flags, we pick one as central and
+    put it to `codes_and_flags.yaml`. While this flag will be displayed on the title page of UD, in the
+    language-specific documentation there is room for multiple flags (see, e.g., German).
 * Create the language collection in the docs repository. Run `addlanguage.sh langcode langname flagcode`
   (If the name of the language consists of multiple words, replace spaces by underscores.)
   * A [template for the language documentation page](https://github.com/UniversalDependencies/docs/blob/pages-source/_template/template-index.md) will be also created. How to force the contributors

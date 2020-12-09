@@ -36,9 +36,22 @@ and their identifiers are LinES and ParTUT).
 It can be an acronym of your annotation project (such as XTB, where X is the initial of the language name), or your institution, or even your own initials, but preferably it should be short. It can contain uppercase and lowercase English letters (the first letter uppercase) but it cannot contain additional underscores, hyphens or other special characters.
 Tell your preferred treebank acronym to the release task force when you ask for the repository.
 
+For some languages, there may be multiple candidates for the name of the language. It deserves some
+thought before the first treebank repository of the language is created, as the language name is
+not supposed to be changed in the future (although renaming is not impossible, it is painful because
+many places in the infrastructure have to be carefully checked manually by the maintenance crew).
+We stick with the ISO 639 language codes. If a language does not have its own code, it will be treated
+as a variant of its closest relative, and they will share the language prefix of the repository name.
+Try to imagine how likely it is that somebody will want to cover another variant in the future, and
+whether or not they will like the language name you propose now. In any case, we only use English
+letters in the repository name (which should bear the _English_ name of the language). Various
+special characters, diacritics or apostrophes may be linguistically more appropriate but you have to
+save them for the documentation, and avoid them in the repository name.
+
 While you are waiting for your repository, read the instructions below. They explain what you need to do
 so that your treebank works well with our infrastructure and can be released.
-And do not forget to subscribe to the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud). Important announcements for the data providers are circulated through this list.
+And do not forget to subscribe to the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
+Important announcements for the data providers are circulated through this list.
 
 # Executive summary
 
