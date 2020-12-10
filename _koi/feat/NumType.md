@@ -2,7 +2,7 @@
 layout: feature
 title: 'NumType'
 shortdef: 'numeral type'
-udver: '2'
+udver: '1'
 ---
 
 ### <a name="Card">`Card`</a>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
