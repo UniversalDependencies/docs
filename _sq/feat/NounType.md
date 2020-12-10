@@ -8,7 +8,7 @@ udver: '2'
 Noun type is a lexical feature of selected nouns. Other nouns omit the feature, which means that
 they do not have any unusual properties.
 
-### <a name="Het">`Het`</a>: heterogenous
+### <a name="Het">`Hetx`</a>: heterogenous
 
 Heterogenous nouns change gender in plural.
 
