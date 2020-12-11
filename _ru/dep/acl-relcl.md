@@ -30,7 +30,7 @@ obj(love, who)
 ~~~
 
 ~~~ sdparse
-Я увидел этого мужчину в саду , в котором я не хотел бы оказаться снова \n I saw that man in the garden , where I would not like to turn up again
+Я увидел этого мужчину в стране , где я не хотел бы оказаться снова \n I saw that man in the country , where I would not like to turn up again
 obl(увидел, саду)
 obl(saw, garden)
 acl:relcl(саду, хотел)
