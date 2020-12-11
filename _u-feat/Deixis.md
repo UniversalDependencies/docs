@@ -40,10 +40,10 @@ The entity is close to the reference point (e.g., to the speaker).
 
 * [en] _<b>this</b> dog_
 * [en] _<b>here</b>_
-* [es] _<b>aquí</b>_ “<b>here</b>”
-* [eu] _<b>hau</b>_ “<b>he/she</b> (nearby)”
-* [wo] _xaj <b>bii</b>_ “<b>this</b> dog” (close to me, wherever you may be) `Deixis=Prox|DeixisRef=1`
-* [wo] _xaj <b>boobu</b>_ “<b>that</b> dog / the dog in question” (close to you, far from me) `Deixis=Prox|DeixisRef=2`
+* [es] _<b>aquí</b>_ “here”
+* [eu] _<b>hau</b>_ “he/she (nearby)”
+* [wo] _xaj <b>bii</b>_ “this dog” (close to me, wherever you may be) `Deixis=Prox|DeixisRef=1`
+* [wo] _xaj <b>boobu</b>_ “that dog / the dog in question” (close to you, far from me) `Deixis=Prox|DeixisRef=2`
 * [kha] _<b>u-ne</b>_ “he (near)”
 
 ### <a name="Med">`Med`</a>: medial
@@ -53,8 +53,8 @@ The entity is neither close nor far away from the reference point (e.g., from th
 #### Examples
 
 * [es] _<b>ahí</b>_ “there”
-* [eu] _<b>hori</b>_ “<b>he/she</b> (not close)”
-* [wo] _xaj <b>boobale</b>_ “<b>that</b> dog” (far away from both of us, but closer to you than to me) `Deixis=Med|DeixisRef=2`
+* [eu] _<b>hori</b>_ “he/she (not close)”
+* [wo] _xaj <b>boobale</b>_ “that dog” (far away from both of us, but closer to you than to me) `Deixis=Med|DeixisRef=2`
 * [kha] _<b>u-to</b>_ “he (not near, not far)”
 
 ### <a name="Remt">`Remt`</a>: remote, distal
@@ -65,9 +65,9 @@ The entity is far away from the reference point (e.g., from the speaker).
 
 * [en] _<b>that</b> dog_
 * [en] _<b>there</b>_
-* [es] _<b>allí</b>_ “<b>there</b>”
-* [eu] _<b>hura</b>_ “<b>he/she</b> (over there, yonder)”
-* [wo] _xaj <b>bale</b>_ “<b>that</b> dog” (far away from me, wherever you may be) `Deixis=Remt|DeixisRef=1`
+* [es] _<b>allí</b>_ “there”
+* [eu] _<b>hura</b>_ “he/she (over there, yonder)”
+* [wo] _xaj <b>bale</b>_ “that dog” (far away from me, wherever you may be) `Deixis=Remt|DeixisRef=1`
 * [kha] _<b>u-tay</b>_ “he (far away, visible)”
 
 ### <a name="Nvis">`Nvis`</a>: not visible
