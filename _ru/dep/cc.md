@@ -7,7 +7,7 @@ udver: '2'
 
 For more on coordination, see the [conj]() relation.
 A `cc` is the relation between a conjunct and
-the [coordinating conjunction](cs-pos/CCONJ) that precedes it.
+the [coordinating conjunction](ru-pos/CCONJ) that precedes it.
 (Note: different dependency grammars have different treatments of coordination.
 We take the first conjunct as the head of the coordination.)
 
