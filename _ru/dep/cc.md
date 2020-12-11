@@ -2,11 +2,12 @@
 layout: relation
 title: 'cc'
 shortdef: 'coordinating conjunction'
+udver: '2'
 ---
 
 For more on coordination, see the [conj]() relation.
-A `cc` is the relation between the first conjunct and
-the [coordinating conjunction](ru-pos/CONJ) delimiting another conjunct.
+A `cc` is the relation between a conjunct and
+the [coordinating conjunction](cs-pos/CCONJ) that precedes it.
 (Note: different dependency grammars have different treatments of coordination.
 We take the first conjunct as the head of the coordination.)
 
@@ -30,20 +31,20 @@ cc(left, And)
 ~~~
 
 ~~~ sdparse
-У нас есть яблоки , груши , апельсины и бананы . \n By us are apples , pears , oranges and bananas .
-nsubj(есть, яблоки)
-nsubj(are, apples)
+Мы покупаем яблоки , груши , апельсины и бананы . \n We buy apples , pears , oranges and bananas .
+obj(покупаем, яблоки)
+obj(buy, apples)
 conj(яблоки, груши)
 conj(яблоки, апельсины)
 conj(яблоки, бананы)
 conj(apples, pears)
 conj(apples, oranges)
 conj(apples, bananas)
-cc(яблоки, и)
-cc(apples, and)
-punct(яблоки, ,-5)
-punct(яблоки, ,-7)
-punct(apples, ,-17)
-punct(apples, ,-19)
+cc(бананы, и)
+cc(bananas, and)
+punct(груши, ,-4)
+punct(апельсины, ,-6)
+punct(pears, ,-15)
+punct(oranges, ,-17)
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:16 CET 2020 -->
