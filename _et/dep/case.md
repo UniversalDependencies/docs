@@ -2,6 +2,7 @@
 layout: relation
 title: 'case'
 shortdef: 'case marking'
+udver: '2'
 ---
 case: case marking
 
@@ -16,4 +17,5 @@ punct(läks-2, .-5)
 ~~~
 
 Knight went near the castle.
+
 <!-- Interlanguage links updated Čt lis 12 09:43:15 CET 2020 -->
