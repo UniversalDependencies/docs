@@ -361,15 +361,32 @@ for example for Finnish:
     *** PASSED ***
 
 Among other items, the script also validates the language-specific set
-of morphological features and relations and therefore it needs to know about these. The
+of morphological features and relations and therefore it needs to know about these.
+Until release 2.7, language-specific lists were stored in the `data` folder in the `tools`
+repository and they could be edited directly by users working on individual languages. This
+practice is now deprecated. The `data` folder will contain necessary information in JSON files
+that cannot be edited directly. Instead, language-specific labels will be registered through
+a web interface and the data in the `tools` repository will be automatically updated when a change
+is saved in the web interface.
+
+At present, morphological features can be registered
+[here](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl)
+while dependency relations are still registered in the old text lists.
+
+It is possible to register language-specific features and relations only if they
+[have been properly documented](contributing_language_specific.html). If a feature does not have
+its own documentation page in the `docs` repository (either as part of the universal guidelines
+or in the language-specific folder), or if the page is not in the prescribed (machine-recognizable)
+format, the web interface will not allow to register the feature as valid, and consequently, the
+validator will not accept it in the data.
+
+The
 language-specific lists are stored in:
 
-* `data/feat_val.xx` (language-specific feature-value pairs)
 * `data/deprel.xx` (language-specific relations valid in the _basic representation,_ i.e., the DEPREL column)
 * `data/edeprel.xx` (additional language-specific relations that are valid _only_ in the _enhanced representation,_ i.e., the DEPS column;
   do not put these in `deprel.xx`!)
 
-In addition `data/*.ud` stores the UD POS tags, features and relations.
 Before you can validate data for a given language, you need to
 produce and commit the necessary label lists and add them to the
 repository:
@@ -377,12 +394,6 @@ repository:
     $ git add data/deprel.xx data/feat_val.xx
     $ git commit -m "Adding language-specific data for xx."
     $ git push
-
-**IMPORTANT:** Before UD release 2.2, the language specific lists of labels were in fact
-treebank-specific: for example, the two Finnish treebanks had separate lists of relation
-types, `deprel.fi` and `deprel.fi_ftb`, respectively. This is no longer supported. From the very
-beginning the UD policy is that all treebanks of one language adhere to the same language-specific
-guidelines. Therefore, all Finnish treebanks must now validate according to `deprel.fi`.
 
 If there are no label lists for the language yet, it is possible to create the initial lists
 by collecting labels from the data. However, such lists must be carefully examined by a human
@@ -407,19 +418,6 @@ specified [here](v2/segmentation.html). This is supported in the validator throu
 file `data/tokens_w_space.ud` and its language-specific variants `data/tokens_w_space.xx`. In
 these files, each line is a [Python regular expression](https://docs.python.org/3/library/re.html)
 defining the permissible forms and lemmas that can contain a whitespace.
-
-Since release 2.8, the validator also checks that language-specific feature values
-[have been properly documented](contributing_language_specific.html). It is thus not enough to list
-a Finnish-specific feature in `data/feat_val.fi`. You must also document the feature and all
-its values in the `docs` repository in `_fi/feat/FeatureName.md`. If the file does not exist
-or if it does not follow the prescribed format, the validator will not accept the feature
-in the data.
-
-Similarly, the validator now checks that language-specific relation subtypes have been properly
-documented. It is thus not enough to list a Finnish-specific subtype in `data/deprel.fi`. You must
-also document it in the `docs` repository in `_fi/dep/maintype-subtype.md`. If the file does not
-exist or if it does not follow the prescribed format, the validator will not accept the relation
-in the data.
 
 The validator also checks that certain closed classes (currently auxiliaries and copula) appear
 only with documented lemmas. Since release 2.7, auxiliaries can be [defined at the on-line validation
