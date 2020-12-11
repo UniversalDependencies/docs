@@ -306,6 +306,8 @@ collections:
     output: true
   urb:
     output: true
+  xnr:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
