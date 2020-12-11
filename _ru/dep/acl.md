@@ -57,7 +57,7 @@ Some Russian treebanks use a language-particular subtype `acl:relcl` for the tra
 ~~~ sdparse
 Видела мужчину , которого ты любишь . \n I-saw man , whom you love .
 acl:relcl(мужчину, любишь)
-acl:relcl(man, you-love)
+acl:relcl(man, love)
 ~~~
 
 <!-- Interlanguage links updated Čt lis 12 09:43:09 CET 2020 -->
