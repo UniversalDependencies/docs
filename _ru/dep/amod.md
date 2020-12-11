@@ -8,7 +8,7 @@ udver: '2'
 An adjectival modifier of a noun is any adjectival phrase that serves
 to modify the meaning of the noun. Ordinal numerals that modify the meaning of the noun are also labeled `amod`.
 
-Exception: if the modifying adjectival word is pronominal (i.e. tagged [cs-pos/DET]()),
+Exception: if the modifying adjectival word is pronominal (i.e. tagged [ru-pos/DET]()),
 the relation is [det]() instead of `amod`.
 
 ~~~ sdparse
