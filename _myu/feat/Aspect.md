@@ -24,6 +24,7 @@ of an *m* or nasalisation of the last vowel/syllable signalizes duration.
 ### <a name="DurIprf">`DurIprf`</a>: 
 
 The exmaple below has the root *bu* 'finger' in classifier function.
+
 #### Examples
 
 * _<b>tõ-tõ-m</b>&nbsp;_ “be/keep crying”
@@ -32,6 +33,7 @@ The exmaple below has the root *bu* 'finger' in classifier function.
 ### <a name="Imp">`Imp`</a>: 
 
 The exmaple below has the root *bu* 'finger' in classifier function.
+
 #### Examples
 
 * _<b>orog̃</b>&nbsp;_ “Hunt(ing)” (perfective form *orok*)
@@ -49,6 +51,7 @@ The default form is perfective aspect.
 ### <a name="Compl">`Compl`</a>: 
 
 The exmaple below has the root *bu* 'finger' in classifier function.
+
 #### Examples
 
 * _<b>tõ-tõ-m</b>&nbsp;_ “be/keep crying”
