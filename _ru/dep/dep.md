@@ -14,6 +14,6 @@ because of an unresolved long distance dependency.
 ~~~ sdparse
 Зарплату обещанную не платят , с пьяницами . \n The promised salary is not paid , with drunkards .
 dep(платят, пьяницами)
-dep(paid, drunks)
+dep(paid, drunkards)
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:23 CET 2020 -->
