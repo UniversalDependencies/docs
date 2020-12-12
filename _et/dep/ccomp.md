@@ -2,6 +2,7 @@
 layout: relation
 title: 'ccomp'
 shortdef: 'clausal complement'
+udver: '2'
 ---
 A clausal complement of a verb or adjective is a dependent clause which is a core argument.
 
@@ -17,4 +18,5 @@ punct(usun-2, .-8)
 ~~~
 
 I beleive, that everything goes well.
+
 <!-- Interlanguage links updated Čt lis 12 09:43:17 CET 2020 -->
