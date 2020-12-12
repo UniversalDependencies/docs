@@ -371,47 +371,23 @@ is saved in the web interface.
 
 At present, morphological features can be registered
 [here](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl)
-while dependency relations are still registered in the old text lists.
+and dependency relations for basic trees
+[here](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl).
+Enhanced dependency relations are still registered in the old text lists.
 
 It is possible to register language-specific features and relations only if they
-[have been properly documented](contributing_language_specific.html). If a feature does not have
+[have been properly documented](contributing_language_specific.html). If a feature or relation does not have
 its own documentation page in the `docs` repository (either as part of the universal guidelines
 or in the language-specific folder), or if the page is not in the prescribed (machine-recognizable)
-format, the web interface will not allow to register the feature as valid, and consequently, the
+format, the web interface will not allow to register the feature or relation as valid, and consequently, the
 validator will not accept it in the data.
 
-The
-language-specific lists are stored in:
+The language-specific lists of enhanced dependency relations are stored here (temporarily, until
+they are ported to the new system too):
 
-* `data/deprel.xx` (language-specific relations valid in the _basic representation,_ i.e., the DEPREL column)
-* `data/edeprel.xx` (additional language-specific relations that are valid _only_ in the _enhanced representation,_ i.e., the DEPS column;
-  do not put these in `deprel.xx`!)
-
-Before you can validate data for a given language, you need to
-produce and commit the necessary label lists and add them to the
-repository:
-
-    $ git add data/deprel.xx data/feat_val.xx
-    $ git commit -m "Adding language-specific data for xx."
-    $ git push
-
-If there are no label lists for the language yet, it is possible to create the initial lists
-by collecting labels from the data. However, such lists must be carefully examined by a human
-before they are deployed! Obviously it would not make sense to look for erroneous labels in the
-data using label lists based on the same data. Here is an example of a Bash command that collects
-the language-specific relation subtypes from the DEPREL column:
-
-    cat *-ud-*.conllu | grep -P '^\d+\t' | cut -f8 | sort -u | grep ':'
-
-Here is an example of a Bash (+Perl) command that collects the relations from the DEPS column.
-Note that it cannot know which subtypes are also allowed in the DEPREL column and which are
-used only in the enhanced representation. Only the latter should be listed in `edeprel.xx`.
-
-    cat *-ud-*.conllu | perl -CDS -e 'while(<>) { if(m/^[\d\.]+\t/) { @f=split(/\t/); @d=split(/\|/, $f[8]); foreach my $d (@d) { $d =~ s/^[\d\.]+://; $h{$d}++ } } } @k=sort(keys(%h)); foreach my $k (@k) { print $k, "\n"; }' | grep ':'
-
-or (note the paths and the Arabic-specific extension at two positions)
-
-    cat *-ud-*.conllu | perl -CDS -e 'open(DEPREL, "../tools/data/deprel.ar"); while(<DEPREL>) {chomp; $deprel{$_}++} close(DEPREL); while(<>) { if(m/^[\d\.]+\t/) { @f=split(/\t/); @d=split(/\|/, $f[8]); foreach my $d (@d) { $d =~ s/^[\d\.]+://; $h{$d}++ unless($deprel{$d}) } } } @k=sort(keys(%h)); foreach my $k (@k) { print $k, "\n"; }' | grep ':' > ../tools/data/edeprel.ar
+* `data/edeprel.xx` (additional language-specific relations that are valid _only_ in the _enhanced
+  representation,_ i.e., the DEPS column; do not register them for DEPREL; all basic dependency
+  relations are automatically allowed in DEPS as well)
 
 Since the `v2.0` release, whitespace is allowed in the `FORM` and `LEMMA` fields under conditions
 specified [here](v2/segmentation.html). This is supported in the validator through the UD-wide
