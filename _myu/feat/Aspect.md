@@ -1,8 +1,8 @@
 
 ---
 layout: feature
-title: 'Reduplicatoin'
-shortdef: 'reduplication'
+title: 'Aspect'
+shortdef: 'aspect'
 udver: '2'
 ---
 
