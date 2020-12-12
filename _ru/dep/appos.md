@@ -2,9 +2,11 @@
 layout: relation
 title: 'appos'
 shortdef: 'appositional modifier'
+udver: '2'
 ---
 
-An appositional modifier of a noun is a nominal immediately following the first noun that serves to define or modify that noun. It includes parenthesized examples, as well as defining abbreviations in one of these structures.
+An appositional modifier of a noun is a nominal immediately following the first noun that serves to define or modify that noun. 
+It includes parenthesized examples, as well as defining abbreviations in one of these structures.
 
 ~~~ sdparse
 Карл Четвертый , римский император и чешский король , царствовал в XIV веке . \n Charles IV , Roman Emperor and Czech king , ruled in 14th century .
