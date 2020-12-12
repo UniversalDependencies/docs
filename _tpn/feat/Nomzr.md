@@ -16,7 +16,6 @@ udver: '2'
 </tr>
 </table>
 
-`Case`  
 
 ### <a name="Circ">`Circ`</a>: Circumstance
 
