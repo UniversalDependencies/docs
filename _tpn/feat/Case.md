@@ -2,7 +2,7 @@
 ---
 layout: feature
 title: 'Case'
-shortdef: 'referential'
+shortdef: 'case'
 udver: '2'
 ---
 
