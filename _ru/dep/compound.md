@@ -28,8 +28,8 @@ Note that in Russian the words *тысяча* “thousand”, *миллион* �
 
 ~~~ sdparse
 Это будет стоить максимум 5 тысяч 500 рублей . \n It will cost at-most 5 thousand 500 rubles .
-nummod:gov(рублей, тысяч)
-nummod:gov(rubles, thousand)
+nummod:gov(рублей, 500-7)
+nummod:gov(rubles, 500-17)
 nummod:gov(тысяч, 5-5)
 nummod:gov(thousand, 5-15)
 compound(500-7, тысяч)
