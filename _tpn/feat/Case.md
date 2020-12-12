@@ -10,6 +10,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ref">Ref</a></td>
+  <td><a href="#Loc">Loc</a></td>
   
   ### <a name="Ref">`Ref`</a>: Referential (Argumentative)
 
