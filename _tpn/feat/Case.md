@@ -11,6 +11,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ref">Ref</a></td>
   <td><a href="#Loc">Loc</a></td>
+  <td><a href="#Tra">Tra</a></td>
   
   ### <a name="Ref">`Ref`</a>: Referential (Argumentative)
 
@@ -20,7 +21,8 @@ in Tupinambá, to funcion as arguments of predicates or allow them to be referen
 
 #### Examples
 
-* _<b>ok-(ɨ)-pe</b>&nbsp;_ “In the house”
+* _<b>t-uβ</b>&nbsp;_ “father (existential predicate)”
+* _<b>uβ-a</b>&nbsp;_ “A/the father”
   
 </tr>
 </table>
@@ -34,6 +36,15 @@ there are three locative cases in Tupinambá
 #### Examples
 
 * _<b>ok-(ɨ)-pe</b>&nbsp;_ “In the house”
+
+
+### <a name="Tra">`Loc`</a>: Traslative
+
+Traslative
+
+#### Examples
+
+* _<b>uβ-amo</b>&nbsp;_ “as / in the quality of a father”
 
 
 
