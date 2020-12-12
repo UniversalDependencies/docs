@@ -19,8 +19,8 @@ compound(second, minus)
 
 ~~~ sdparse
 в бизнес же центре \n in the business , well , center
-compound(втором, минус)
-compound(second, minus)
+compound(центре, бизнес)
+compound(center, business)
 ~~~
 
 In Russian `compound` is regulary used in compound numerals. The rightmost numeral is the head, the other numerals are attached as its modifiers.
