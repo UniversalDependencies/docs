@@ -11,17 +11,28 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ref">Ref</a></td>
   
-  
-  
-</tr>
-</table>
+  ### <a name="Ref">`Ref`</a>: Referential (Argumentative)
 
 `Case` is used for the referential marker (also called argumentative). It allows lexical roots, all of which are predicates 
 in Tupinambá, to funcion as arguments of predicates or allow them to be referential. 
 
 
-### <a name="Loc">`Loc`</a>: contiguous
+#### Examples
 
+* _<b>ok-(ɨ)-pe</b>&nbsp;_ “In the house”
+  
+</tr>
+</table>
+
+
+
+### <a name="Loc">`Loc`</a>: Locative
+
+there are three locative cases in Tupinambá
+
+#### Examples
+
+* _<b>ok-(ɨ)-pe</b>&nbsp;_ “In the house”
 
 
 
