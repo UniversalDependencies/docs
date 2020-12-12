@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="">Sing</a></td>
+  <td><a href="">Plur</a></td>
   
   
 </tr>
@@ -24,6 +25,18 @@ The example below has the root *ta* indicating the plural number.
 
 * _<b>a’e ta</b>&nbsp;_ “they” (PRON.SG.3 PL)
 
+
+
+
+`Number` in Ka'apor is marked by a particle *ta*.
+
+### <a name="Plur">`Plur`</a>: contiguous
+
+The example below has the root *ta* indicating the plural number.
+
+#### Examples
+
+* _<b>a’e ta</b>&nbsp;_ “they” (PRON.SG.3 PL)
 
 
 
