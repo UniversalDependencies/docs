@@ -9,6 +9,11 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="">33</a></td>
+  <td><a href="">1</a></td>
+  <td><a href="">2</a></td>
+  <td><a href="">3</a></td>
+  <td><a href="">12</a></td>
+  <td><a href="">13</a></td>
   
   
  
@@ -25,6 +30,65 @@ The patient is always cross-referenced by the relational of non-contiguity.
 #### Examples
 
 * _<b>ere-s-epjak</b>&nbsp;_ “you see her/him/it/them”
+
+  
+</tr>
+</table>
+
+### <a name="1">`1`</a>: Person=1
+
+First person
+
+#### Examples
+
+* _<b>a-so</b>&nbsp;_ “I go”
+
+</tr>
+</table>
+
+### <a name="2">`2`</a>: Person=2
+
+Second person
+
+#### Examples
+
+* _<b>ere-so</b>&nbsp;_ “you go”
+
+  
+</tr>
+</table>
+
+### <a name="3">`3`</a>: Person=2
+
+Second person
+
+#### Examples
+
+* _<b>o-so</b>&nbsp;_ “(s)he/it/they go”
+
+  
+</tr>
+</table>
+
+### <a name="12">`12`</a>: Person=12
+
+Second person
+
+#### Examples
+
+* _<b>ja-so</b>&nbsp;_ “(s)he/it/they go”
+
+  
+</tr>
+</table>
+
+### <a name="13">`13`</a>: Person=13
+
+Second person
+
+#### Examples
+
+* _<b>ore-so</b>&nbsp;_ “(s)he/it/they go”
 
   
 </tr>
