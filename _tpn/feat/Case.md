@@ -13,14 +13,17 @@ udver: '2'
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Tra">Tra</a></td>
   
-  ### <a name="Ref">`Ref`</a>: Referential (Argumentative)
+  
 
 </tr>
 </table>
 
-`Case` is used for the referential marker (also called argumentative). It allows lexical roots, all of which are predicates 
-in Tupinambá, to funcion as arguments of predicates or allow them to be referential. 
+`Case`  
 
+### <a name="Ref">`Ref`</a>: Referential (Argumentative)
+
+is used for the referential marker (also called argumentative). It allows lexical roots, all of which are predicates 
+in Tupinambá, to funcion as arguments of predicates or allow them to be referential.
 
 #### Examples
 
