@@ -9,7 +9,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Ex">Cont</a>Ex</td>
+  <td><a href="#Ex">Ex</a>Ex</td>
   
   
 </tr>
