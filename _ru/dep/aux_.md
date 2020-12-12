@@ -4,16 +4,17 @@ title: 'aux'
 shortdef: 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
-redirect_from: "ru/dep/aux.html"
+redirect_from: "cs/dep/aux.html"
+udver: '2'
 ---
 
 An auxiliary of a clause is a form of the [auxiliary verb](ru-pos/AUX) _быть_ “to be”
 used to construct the periphrastic future tense or conditional.
 
 Exception: Auxiliary verb used to construct the passive
-[voice](ru-feat/Voice) is not labeled `aux` but [auxpass]().
+[voice](ru-feat/Voice) is not labeled `aux` but [aux:pass]().
 
-Note that besides `aux` and `auxpass`, the verb _быть_ may also act as a [copula](cop)
+Note that besides `aux` and `aux:pass`, the verb _быть_ may also act as a [copula](cop)
 and as the main verb.
 
 ~~~ sdparse
