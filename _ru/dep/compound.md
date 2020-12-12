@@ -42,8 +42,8 @@ nummod:gov(рублей, тысяч)
 nummod:gov(rubles, thousand)
 compound(тысяч, пятьдесят)
 compound(thousand, fifty)
-compound(тысяч, пять)
-compound(thousand, five)
+nummod:gov(тысяч, пять)
+nummod:gov(thousand, five)
 ~~~
 
 ~~~ sdparse
