@@ -42,6 +42,7 @@ If you would like to have your tool added to this page, please write the
     * [Treex](#treex)
     * [UDPipe](#udpipe)
     * [UDAPI](#udapi)
+    * [UDon2](#udon2)
   * Visualization tools
     * [Deptreeviz](#deptreeviz)
     * [CoNLL-U viewer](#conll-u-viewer)
@@ -395,6 +396,10 @@ It's easily installable with "pip install conllu", has good documentation and a 
 * License: GPL, Perl
 * Homepage: <http://udapi.github.io/>
 
+#### UDon2
+
+* Category: package for efficient manipulation of UD trees, mostly aimed at developers using UD for downstream applications
+* Homepage: <https://github.com/udon2/udon2>
 
 
 ### Visualization tools
