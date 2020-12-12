@@ -10,6 +10,8 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="">DurIprf</a></td>
+  <td><a href="">Imp</a></td>
+  <td><a href="">Perf</a></td>
   
   
 </tr>
@@ -25,6 +27,21 @@ The exmaple below has the root *bu* 'finger' in classifier function.
 * _<b>tõ-tõ-m</b>&nbsp;_ “be/keep crying”
 
 
+### <a name="Imp">`Imp`</a>: 
+
+The exmaple below has the root *bu* 'finger' in classifier function.
+#### Examples
+
+* _<b>orog̃</b>&nbsp;_ “Hunt(ing)” (perfective form *orok*
+
+
+### <a name="Perf">`Perf`</a>: 
+
+The default form is perfective aspect.
+
+#### Examples
+
+* _<b>orok</b>&nbsp;_ “hunt”
 
 
 
