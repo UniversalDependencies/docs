@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="">DurIprf</a></td>
   <td><a href="">Imp</a></td>
   <td><a href="">Perf</a></td>
+  <td><a href="">Compl</a></td>
   
   
 </tr>
@@ -45,7 +46,12 @@ The default form is perfective aspect.
 * _<b>orok</b>&nbsp;_ “hunt”
 
 
+### <a name="Compl">`Compl`</a>: 
 
+The exmaple below has the root *bu* 'finger' in classifier function.
+#### Examples
+
+* _<b>tõ-tõ-m</b>&nbsp;_ “be/keep crying”
 
 
 
