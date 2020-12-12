@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Circ">Circ</a></td>
-  
+  <td><a href="#DevPass">DevPass</a></td>
   
   
 
@@ -24,6 +24,18 @@ The nominalizer of circumstance can be roughly translated as 'way / place of x'
 #### Examples
 
 * _<b>juká-saβ-a</b>&nbsp;_ “way / place of killing”
+
+  
+</tr>
+</table>
+
+### <a name="DevPass">`DevPass`</a>: Circumstance
+
+The deverbal passive
+
+#### Examples
+
+* _<b>i-juká-pɨr-a</b>&nbsp;_ “the one who is/must be killed”
 
   
 </tr>
