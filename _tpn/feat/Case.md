@@ -50,7 +50,7 @@ Traslative
 
 #### Examples
 
-* _<b>uβ-amo</b>&nbsp;_ “as / in the quality of a father”
+* _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
 
 
 
