@@ -2,10 +2,11 @@
 layout: relation
 title: 'case'
 shortdef: 'case marking'
+udver: '2'
 ---
 
 Russian uses a combination of oblique morphological cases and prepositions to express semantic case.
-Prepositions in UD are treated as dependents of the noun they attach to. The relation between the noun and the preposition is labeled `case`.
+Prepositions in UD are treated as dependents of the noun they attach to. The relation between the nominal and the preposition is labeled `case`.
 
 ~~~ sdparse
 В пятницу.Acc по дороге.Dat к деревне.Dat мы разговаривали o событии.Loc . \n On Friday during the-journey to the-village we talked about the-event .
