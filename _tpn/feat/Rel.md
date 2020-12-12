@@ -44,9 +44,9 @@ Non-contiguity is more often associated with
 * _<b>s-orɨβ</b>&nbsp;_ “(S)he/it is happy / there is her/his/its/their happiness”
 * _<b>s-orɨβ-a</b>&nbsp;_ “Her/his/their/its happiness”
 
-### <a name="Abs">`Abs`</a>: contiguous
+### <a name="Abs">`Abs`</a>: absolute
 
-Contiguity is more often associated with
+Abslute relational indicates that the possessor
 
 #### Examples
 
