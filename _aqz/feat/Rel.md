@@ -27,6 +27,9 @@ Contiguity is more often associated with
 * _<b>ʃe=r-uβ</b>&nbsp;_ “I have a father / There is my father”
 * _<b>ʃe=r-uβ-a</b>&nbsp;_ “My father”
 
+* _<b>nde=r-orɨβ</b>&nbsp;_ “you are happy / there is your happiness”
+* _<b>nde=r-orɨβ-a</b>&nbsp;_ “Your happiness”
+
 ### <a name="NCont">`NCont`</a>: non-contiguous
 
 Non-contiguity is more often associated with
@@ -35,6 +38,9 @@ Non-contiguity is more often associated with
 
 * _<b>t-uβ</b>&nbsp;_ “He has a father / there is his father”
 * _<b>t-uβ-a</b>&nbsp;_ “He is (a/the) father / ”
+
+* _<b>s-orɨβ</b>&nbsp;_ “(S)he/it is happy / there is her/his/its/their happiness”
+* _<b>s-orɨβ-a</b>&nbsp;_ “Her/his/their/its happiness”
 
 
 ## Diffs
