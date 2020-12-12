@@ -8,8 +8,10 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Coll">Cont</a></td>
-  <td><a href="#Dual">NCont</a></td>
+  <td><a href="#Cont">Cont</a></td>
+  <td><a href="#NCont">NCont</a></td>
+  <td><a href="#Abs">Abs</a></td>
+  
   
 </tr>
 </table>
@@ -41,6 +43,18 @@ Non-contiguity is more often associated with
 
 * _<b>s-orɨβ</b>&nbsp;_ “(S)he/it is happy / there is her/his/its/their happiness”
 * _<b>s-orɨβ-a</b>&nbsp;_ “Her/his/their/its happiness”
+
+### <a name="Abs">`Abs`</a>: contiguous
+
+Contiguity is more often associated with
+
+#### Examples
+
+* _<b>t-uβ</b>&nbsp;_ “(There is a) (someone's)  father / ”
+* _<b>t-uβ-a</b>&nbsp;_ “A/the father(s)”
+
+* _<b>s-orɨβ</b>&nbsp;_ “(There is a) (someone's) happiness”
+* _<b>s-orɨβ-a</b>&nbsp;_ “Someone's happiness”
 
 
 ## Diffs
