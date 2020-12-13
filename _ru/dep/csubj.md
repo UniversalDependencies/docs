@@ -2,6 +2,7 @@
 layout: relation
 title: 'csubj'
 shortdef: 'clausal subject'
+udver: '2'
 ---
 
 A clausal subject is a clausal syntactic subject of a clause, i.e.,
@@ -15,4 +16,13 @@ predicate of the subject clause.
 csubj(трудно, Забыть)
 csubj(it-is-hard, To-forget)
 ~~~
+
+Note that the `csubj:pass` relation is used for the clausal subject of a passive verb or verb group.
+
+~~~ sdparse
+Сколько платить, еще не решено. \t How-much to-pay has not yet been decided .
+csubj:pass(решено, платить)
+csubj(decided, to-pay)
+~~~
+
 <!-- Interlanguage links updated Čt lis 12 09:43:22 CET 2020 -->
