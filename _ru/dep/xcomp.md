@@ -58,4 +58,55 @@ advcl(I-write, promised)
 xcomp(обещал, писать)
 xcomp(have-promised, to-write)
 ~~~
+
+Verbs that attach core arguments that are often expressed as nouns, adjectives and other nominals, mostly in instrumental and sometimes nominative case, include:
+**являться** “be“, **становиться**/**стать** “became“, **оказаться** “turn up“, **остаться** “remain“, **служить** “serve“, **работать** “work, be employed (as)“, ** appoint** “serve“.
+
+### Secondary Predicates
+
+The `xcomp` relation is also used in constructions that assign secondary predicates such as depictive.
+
+* _Она объявила пирог красивым._ “She declared the cake beautiful.“
+* _Она объявила пирог шедевром._ “She declared the cake a masterpiece.“
+
+We could paraphrase the sentence using a subordinate clause: _She declared that the cake was beautiful._
+There are two predicates mixed in one clause: 1. she declared something, and 2. the cake was beautiful (according to her opinion).
+The secondary predicate will be attached to the main predicate as an `xcomp`:
+
+~~~ sdparse
+Она объявила пирог красивым . \n She declared the cake beautiful .
+nsubj(объявила, Она)
+nsubj(declared, She)
+obj(объявила, пирог)
+obj(declared, cake)
+xcomp(объявила, красивым)
+xcomp(declared, beautiful)
+~~~
+
+In the enhanced representation, there is an additional subject link showing the secondary predication:
+
+~~~ sdparse
+Она объявила пирог красивым . \n She declared the cake beautiful .
+nsubj(объявила, Она)
+nsubj(declared, She)
+obj(объявила, пирог)
+obj(declared, cake)
+xcomp(declared, beautiful)
+xcomp(объявила, красивым)
+nsubj(красивым, пирог)
+nsubj(beautiful, cake)
+~~~
+
+Remember that `xcomp` is used for core arguments of clausal predicates
+so it will not be used for other instances of secondary predication.
+For instance, in _She entered the room sad_ we also have a double predication
+(she entered the room; she was sad).
+But _sad_ is not a core argument of _enter:_ leaving it out will neither affect grammaticality
+nor significantly alter the meaning of the verb.
+On the other hand, leaving out _beautiful_ in _she declared the cake beautiful_
+will either render the sentence ungrammatical or lead to a different interpretation of _declared._
+
+The result is that in _She entered the room sad,_ _sad_ will depend on _She_
+and the relation will be [acl]() instead of `xcomp`.
+
 <!-- Interlanguage links updated Čt lis 12 09:43:40 CET 2020 -->
