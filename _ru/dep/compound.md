@@ -6,8 +6,7 @@ udver: '2'
 ---
 
 The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being fixed and flat). It is used for  
-
-- any kind of X<sup>0</sup> compounding: noun compounds (e.g., *стресс менеджмент* “stress management", *Темпл бар* “Tample bar"), but also 
+any kind of X<sup>0</sup> compounding: noun compounds (e.g., *стресс менеджмент* “stress management", *Жар птица* “Fire bird"), but also 
 adjective compounds (e.g., *бэд блоки* “bad blocks", *мини колонка* “mini speaker", *Гранд отель* “Grand hotel") and some other types (*+ 1*, *№ 1*).
 Compounds are not typical for the literary Russian language but are widely used in electronic communication. Note that some clitics can divide two parts of the composite word that would otherwise be written as one word: in this case, the first part is attached as `compound`.
 
