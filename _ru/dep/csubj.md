@@ -20,7 +20,7 @@ csubj(it-is-hard, To-forget)
 Note that the `csubj:pass` relation is used for the clausal subject of a passive verb or verb group.
 
 ~~~ sdparse
-Сколько платить, еще не решено. \t How-much to-pay has not yet been decided .
+Сколько платить , еще не решено. \t How-much to-pay has not yet been decided .
 csubj:pass(решено, платить)
 csubj(decided, to-pay)
 ~~~
