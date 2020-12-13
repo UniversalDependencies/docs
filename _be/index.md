@@ -49,11 +49,6 @@ The Belarusian UD treebank does not contain multiword tokens.
 * The only auxiliary verb is the copula _быць_ “to be”. The conditional mood marker _б_ “would” etymologically related to _быць_ is also marked [AUX]().  
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is based on word lists because the traditional grammar does not define determiners. The [DET]() category includes possessive (including reflexive and relative possessive), demonstrative, interrogative/relative, indefinite, negative, and universal (total) determiners that inflect for gender. The relative pronoun _які_ is tagged either [PRON]()) or ([DET]() depending its syntactic role.  
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
-
 ### Features
 
 * There are five main verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
@@ -85,12 +80,7 @@ The Belarusian UD treebank does not contain multiword tokens.
 
 ### Language-Specific Features
 
-* [Variant]() has one value: `Short` and applies to [ADJ]() and [VERB]() (participles). Long forms are not labeled.    
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
+* [Variant]() distinguishes short and long forms of [adjectives](be-pos/ADJ) and [participles](be-pos/VERB), a Slavic-wide phenomenon. It has one value: `Short`, long forms are not labeled.   
 
 ## Syntax
 
