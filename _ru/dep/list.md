@@ -22,7 +22,7 @@ list(Steve, e-mail:-21)
 appos(тел., +7-5)
 appos(tel., +7-17)
 appos(e-mail:-9, jones@mail.ru-11)
-appos(e-mail:-21, jones@mail.ru-23)
+appos(e-mail:-23, jones@mail.ru-23)
 ~~~
 
 In Russian treebanks, this relation is also used to attach numerals written as several digit tokens (eg. telephone numbers) and syllables written separately in poetry.
