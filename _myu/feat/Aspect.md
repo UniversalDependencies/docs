@@ -21,7 +21,7 @@ udver: '2'
 `Aspect` in Mundurukú is threefold. The default from of the verb is perfective. Reduplication indicates imperfective aspect. The addition 
 of an *m* or nasalisation of the last vowel/syllable signalizes duration.
 
-### <a name="DurIprf">`DurIprf`</a>: 
+### <a name="DurIprf">`DurIprf`</a>: Durative-Imperfective
 
 The exmaple below has the root *bu* 'finger' in classifier function.
 
@@ -30,7 +30,7 @@ The exmaple below has the root *bu* 'finger' in classifier function.
 * _<b>tõ-tõ-m</b>&nbsp;_ “be/keep crying”
 
 
-### <a name="Imp">`Imp`</a>: 
+### <a name="Imp">`Imp`</a>: Imperfective
 
 The exmaple below has the root *bu* 'finger' in classifier function.
 
@@ -39,7 +39,7 @@ The exmaple below has the root *bu* 'finger' in classifier function.
 * _<b>orog̃</b>&nbsp;_ “Hunt(ing)” (perfective form *orok*)
 
 
-### <a name="Perf">`Perf`</a>: 
+### <a name="Perf">`Perf`</a>: Perfective
 
 The default form is perfective aspect.
 
@@ -48,7 +48,7 @@ The default form is perfective aspect.
 * _<b>orok</b>&nbsp;_ “hunt”
 
 
-### <a name="Compl">`Compl`</a>: 
+### <a name="Compl">`Compl`</a>: Completive
 
 The exmaple below has the root *bu* 'finger' in classifier function.
 

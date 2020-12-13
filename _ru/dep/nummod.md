@@ -2,6 +2,7 @@
 layout: relation
 title: 'nummod'
 shortdef: 'numeric modifier'
+udver: '2'
 ---
 
 A numeric modifier of a noun is a [numeral](ru-pos/NUM) or quantifier 

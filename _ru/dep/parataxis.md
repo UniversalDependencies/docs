@@ -2,6 +2,7 @@
 layout: relation
 title: 'parataxis'
 shortdef: 'parataxis'
+udver: '2'
 ---
 
 The parataxis relation (from Greek for “place side by side”) is a
@@ -56,10 +57,9 @@ An argument for this analysis is that in the cases analyzed as embedding, the en
 while this is not possible with medial or final placement of the speech verb 
 (_*I was taken aback when the guy left early this morning, John said._).
 
-### News article bylines
+### Parataxis in brackets
 
-The `parataxis` relation should be used to connect the parts of a news article byline.
-There does not seem to be a better relation to use.
+The `parataxis` relation is used to connect parts of the sentence written as explanation in brackets. It is also used to connect the parts of a news article byline. 
 
 ~~~ sdparse
 Вашингтон ( CNN ) :

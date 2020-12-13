@@ -21,14 +21,14 @@ Multi-word prepositions usually form a contiguous span of the sentence. In excep
 by emphasizers and other words:
 
 ~~~ sdparse
-по сравнению же с долгом \n in comparison , namely, to loans
+по сравнению же с долгом \n in comparison , namely , to loans
 fixed(по, сравнению)
 fixed(in, comparison)
 fixed(по, с)
 fixed(in, to)
 case(долгом, по)
 case(loans, in)
-advmod(долгом, например)
+advmod(долгом, же)
 advmod(loans, namely)
 ~~~
 

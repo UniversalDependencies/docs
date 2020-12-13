@@ -75,7 +75,8 @@ The following universal features are not used in Russian: [Clusivity](), [Defini
   * core arguments of verbs, adjectives and other predicates;  
   * adjuncts (or, following the Russian grammar, adverbial modifiers realized as prepositional noun phrases).  
 * Temporal and other circumstantial modifiers as well as benefactives realized as bare noun phrases: _подумал минуту_ “he thought for a minute”, _сварила ему обед_ “she cooked him a lunch” are also labeled [obl]().
-* In comparative constructions, the genitive noun phrase that refers to the standard of comparison is labeled [obl]().
+* In comparative constructions, the genitive noun phrase that refers to the standard of comparison is labeled [obl]().  
+* The [vocative]() relation is used to attach a participant addressed in the dialogue. 
 
 ### Copula Clauses
 
@@ -97,6 +98,34 @@ The following universal features are not used in Russian: [Clusivity](), [Defini
   * Participles that do not have dependents are labeled [amod]().  
 * Floating quantifiers _сам_ “oneself”, _один_ “alone”, _весь_ “all”, _оба_ "both" are labeled [acl]().  
 * Secondary non-core arguments in depictive constructions are labeled [acl](): _Он пришел домой усталый_ “He came home tired.”     
+
+### Nominal phrases  
+
+* The following relations are used to attach elements to the head of the nominal phrase:
+  * [nmod]() for regular nominal modifiers marked with case and, optionally, preposition  
+  * [appos]() for appositives that go after the head and agree ot not in case with the head   
+  * [compound]() for flat compound relations 
+  * [amod]() for adjectival modifiers 
+  * [det]() for determiners  
+
+### Function words  
+
+* The following relations are used to attach the function words:
+  * [aux]() for the auxiliary 
+  * [cop]() for the copula marker 
+  * [case]() for prepositions and postpositions (case markers)  
+  * [cc]() for coordinate conjunctions  
+  * [mark]() for subordinate conjunctions (markers)  
+  * [punct]() for punctuation marks  
+  
+### Other relations    
+  * [root]() for the root of the sentence 
+  * [orphan]() for orphan relations in ellipsis 
+  * [list]() for chains of items in the list  
+  * [fixed]() for tokens in the multiword expression   
+  * [flat]() for other flat relations   
+  * [goeswith]() for elements written separately in not well edited texts 
+  * [dep]() for unspecified dependency 
 
 ### Relations Overview
 
