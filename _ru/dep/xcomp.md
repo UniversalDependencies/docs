@@ -59,8 +59,7 @@ xcomp(обещал, писать)
 xcomp(have-promised, to-write)
 ~~~
 
-Verbs that attach core arguments that are often expressed as nouns, adjectives and other nominals, mostly in instrumental and sometimes nominative case, include:
-**являться** “be“, **становиться**/**стать** “became“, **оказаться** “turn up“, **остаться** “remain“, **служить** “serve“, **работать** “work, be employed (as)“, ** appoint** “serve“.
+Verbs that attach core arguments that are often expressed as nouns, adjectives and other nominals, mostly in instrumental and sometimes nominative case, include: **являться** “be“, **становиться**/**стать** “became“, **оказаться** “turn up“, **остаться** “remain“, **служить** “serve (as)“, **работать** “work, be employed (as)“. The transitive verbs such as **назвать** “call“, **объявить** “declare“, **считать** “consider“, **назначить** “appoint“ have secondary predicates as its third valency.
 
 ### Secondary Predicates
 
