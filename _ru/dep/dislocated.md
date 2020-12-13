@@ -10,20 +10,19 @@ The `dislocated` relation is used for fronted or postposed elements that do not 
 It is used for fronted elements that introduce the topic of a sentence or used for postposed elements. Left and right dislocated elements are frequent in spoken language and verses. The dislocated elements attach to the same governor as the dependent that they double for:
 
 ~~~ sdparse
-Петя, он на рыбалку пошел . \n Peter, he went fishing .
+Петя , он на рыбалку пошел . \n Peter , he went fishing .
 dislocated(он, Петя)
 dislocated(he, Peter)
 ~~~
 
 ~~~ sdparse
-кстати покупка свечей у них написано везде , что это добровольное пожертвование \n 
-by-the-way , buying candles from them it says everywhere that this-is-a voluntary donation
+кстати покупка свечей у них написано везде , что это добровольное пожертвование \n by-the-way , buying candles from them it says everywhere that this-is-a voluntary donation
 dislocated(пожертвование, покупка)
 dislocated(donation, buying)
 ~~~
 
 ~~~ sdparse
-Он никогда мне не нравился , этот Миша . \n I never liked him, this Misha. .
+Он никогда мне не нравился , этот Миша . \n I never liked him , this Misha .
 dislocated(Он, Миша)
 dislocated(him, Misha)
 ~~~
