@@ -32,14 +32,16 @@ The staked prepositions are usually written as one token in Russian. Whould they
 
 ~~~ sdparse
 из-за меня \n because-of me
-case(меня, ради)
+case(меня, из-за)
 case(me, because-of)
 ~~~
 
 ~~~ sdparse
 из за меня \n because of me
-goeswith(меня, из)
-goeswith(me, because)
+case(меня, из)
+case(me, because)
+goeswith(из, за)
+goeswith(because, of)
 ~~~
 
 In the comparative construction, the subordinate conjunction _чем_ “than“ that attaches the nominal phrase is labeled `case` as well. If it is a prepositional nominal phrase, both prepositions are attached to the head of the nominal phrase.
