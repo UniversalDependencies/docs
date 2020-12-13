@@ -21,7 +21,7 @@ Multi-word prepositions usually form a contiguous span of the sentence. In excep
 by emphasizers and other words:
 
 ~~~ sdparse
-по сравнению же с долгом \n in comparison , namely, to loans
+по сравнению же с долгом \n in comparison , namely , to loans
 fixed(по, сравнению)
 fixed(in, comparison)
 fixed(по, с)
