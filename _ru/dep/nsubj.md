@@ -2,9 +2,10 @@
 layout: relation
 title: 'nsubj'
 shortdef: 'nominal subject'
+udver: '2'
 ---
 
-A nominal subject is a NP which is the syntactic subject of a clause; in Russian, the phrase is in the Nominative [Case]().
+A nominal subject is a NP which is the syntactic subject of a clause; in Russian, the phrase is prototypically in the nominative [Case](). Under negation, the phrase can be in the genitive [Case]().
 (See [csubj]() for when the subject is clausal. See [nsubjpass]() and [csubjpass]() for when the subject is not the proto-agent argument due to valence changing operations.)
 The governor of the `nsubj` relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun.
 
@@ -19,5 +20,12 @@ nsubj(wrote, Shostakovich)
 nsubj(красный, Автомобиль)
 nsubj(is-red, Car)
 ~~~
+
+~~~ sdparse
+Машины нет . \n There-is-no car  .
+nsubj(нет, Машины)
+nsubj(There-is-no, car)
+~~~
+
 
 <!-- Interlanguage links updated Čt lis 12 09:43:32 CET 2020 -->
