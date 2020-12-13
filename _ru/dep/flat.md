@@ -43,4 +43,30 @@ flat(31-1, декабря)
 flat(31-4, December)
 ~~~
 
+### Street addresses
+
+The street addresses written informally such as _Гагарина 35_ “Gagarin (st.) 35“ have a flat structure as well. The numeral (the number of the building) is attached to the noun (street name) using the `flat` relation.
+
+~~~ sdparse
+Гагарина 35 \n Gagarin 35
+flat(Гагарина, 35-2)
+flat(Gagarin, 35-5)
+~~~
+
+In more formal writings, the address is annotated using the [list]() and [appos]() relations.
+
+~~~ sdparse
+ул. Гагарина , д. 35 \n st. of-Gagarin , build. 35
+list(ул., д.)
+list(st., build.)
+nmod(ул., Гагарина)
+nmod(st., of-Gagarin)
+nmod(д., 35-2)
+nmod(build., 35-5)
+~~~
+
+### Grades with minus, plus and asterisks
+
+Grades written as _5 -_, _A +_, _B `***`_ are annotated using the `flat` relations. However, when the words _минус_, _плюс, or symbols are used before the nominal they are attached using the [compound]() relation.
+
 <!-- Interlanguage links updated Čt lis 12 09:43:27 CET 2020 -->
