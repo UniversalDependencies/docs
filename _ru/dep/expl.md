@@ -17,11 +17,13 @@ nsubj(calls, my-mother)
 ~~~
 
 The particle _eto_ is also labeled `expl` when it is ised in the nominal sentence with zero copula.  
-```
+
+~~~ sdparse
 Счастье - это путешествие , а не цель . \t Happiness is-a journey , not a destination .
 expl(путешествие, это)
 expl(journey, is-a)
 nsubj(путешествие, Счастье)
 nsubj(journey, Happiness)
-```
+~~~
+
 <!-- Interlanguage links updated Čt lis 12 09:43:25 CET 2020 -->
