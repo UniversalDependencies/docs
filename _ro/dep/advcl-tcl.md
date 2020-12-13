@@ -10,7 +10,7 @@ This is parallel to [obl:tmod](), which covers temporal modifiers that are reali
 and [advmod:tmod](), which covers temporal modifiers that are realized as adverbs.
 
 ~~~ sdparse
-De când am urcat, n-am mai coborât .
+De când am urcat , n-am mai coborât .
 advcl:tcl(coborât, urcat)
 ~~~
 
