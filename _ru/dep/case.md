@@ -38,8 +38,8 @@ case(me, because-of)
 
 ~~~ sdparse
 из за меня \n because of me
-goeswith(меня, ради)
-goeswith(me, because-of)
+goeswith(меня, из)
+goeswith(me, because)
 ~~~
 
 In the comparative construction, the subordinate conjunction _чем_ “than“ that attaches the nominal phrase is labeled `case` as well. If it is a prepositional nominal phrase, both prepositions are attached to the head of the nominal phrase.
