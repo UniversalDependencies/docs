@@ -7,8 +7,9 @@ udver: '2'
 
 The indirect object of a verb is any nominal phrase that is a core
 argument of the verb but is not its subject or [direct object](obj).
-The prototypical example is the recipient of ditransitive verbs of
-exchange:
+The two typical examples are 
+* the recipient/addressee of the ditransitive verb marked by the dative case,
+* the instrument/means marked by the instrumental case.
 
 ~~~ sdparse
 Павел дал Петру две груши . \n Pavel gave Peter two pears .
@@ -16,7 +17,13 @@ iobj(дал, Петру)
 iobj(gave, Peter)
 ~~~
 
-However, Russian allows instrument, means, and other semantic roles as additional objects.
+~~~ sdparse
+Женщины красятся хной . \n The women paint-their-hair with-henna .
+iobj(красятся, хной)
+iobj(paint-their-hair, with-henna)
+~~~
+
+However, Russian allows other semantic roles as additional objects.
 The morphological [ru-feat/Case]() of the objects is dictated by verb valency.
 
 In the following Russian example, the verb takes two arguments. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (cf. a similar sentence, _he gave my daughter a class of maths_).
@@ -66,6 +73,6 @@ iobj(told, students)
 obj(told, plan)
 ~~~
 
-If there are two or more objects, one of them should be [obj]() and the others should be `iobj`. In such cases it is necessary to decide what is the most directly affected object _(patient)_, and the Accusative [ru-feat/Case]() has priority over the Dative, Instrumental, and Genitive cases.
+If there are two or more objects, one of them should be [obj]() and the others should be `iobj`. In such cases it is necessary to decide what is the most directly affected object _(patient)_, and the accusative [ru-feat/Case]() has priority over the dative, instrumental, and genitive cases.
 
 <!-- Interlanguage links updated Čt lis 12 09:43:28 CET 2020 -->
