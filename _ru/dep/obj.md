@@ -2,6 +2,7 @@
 layout: relation
 title: 'obj'
 shortdef: 'object'
+udver: '2'
 ---
 
 The object of a verb is the the second most core argument of a verb after the subject. 
