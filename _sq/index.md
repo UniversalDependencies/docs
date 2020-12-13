@@ -38,7 +38,7 @@ udver: '2'
 
 ### Features
 
-* Nouns have inherent [Gender](), `Masc` or`Fem`. They inflect for [Definite]() (definite or indefinite, marked as suffix), [Number]() (singular or plural) and [Case]() (nominative, genitive, dative, accusative, vocative and ablative). For those nouns that change gender in plural, the feature `NounType=Het` has been provided additionally.
+* Nouns have inherent [Gender](), `Masc` or`Fem`. They inflect for [Definite]() (definite or indefinite, marked as suffix), [Number]() (singular or plural) and [Case]() (nominative, genitive, dative, accusative, vocative and ablative). For those nouns that change gender in plural, the feature [NounType]()`=Het` has been provided additionally.
 * Verbs inflect for [Aspect]() (imperfect, perfect), [Mood]() (indicative, subjunctive, admirative, imperative, conditional, optative) [Number]() (singular or plural), [Person]() (first, second, third), [Tense]() (past or present) and [Voice]() (active or passive/mediopassive). There are three types of nonfinite forms: infinitives, past participle/supine (used to form perfect tenses together with the auxiliary to have/to be or other verb constructions, i.e. *për të shkruajtur* (in order to write). However, in case of non-finite verb forms only the feature [VerbForm]() has been provided.
 * Adjectives agree with nouns with respect to the features [Gender](), [Number](), [Case]() and [Definite](). In addition, many adjectives inflect for [Degree]() (positive, comparative, superlative). In this Treebank, only the features [Gender](), [Number]() and [VerbForm]() were included in the morphological analysis.
 * Adverbs inflect only for [Degree]().
