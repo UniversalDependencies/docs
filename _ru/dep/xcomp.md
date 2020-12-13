@@ -2,6 +2,7 @@
 layout: relation
 title: 'xcomp'
 shortdef: 'open clausal complement'
+udver: '2'
 ---
 
 An open clausal complement (`xcomp`) of a verb or an adjective is a
