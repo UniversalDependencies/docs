@@ -28,7 +28,7 @@ fixed(по, с)
 fixed(in, to)
 case(долгом, по)
 case(loans, in)
-advmod(долгом, например)
+advmod(долгом, же)
 advmod(loans, namely)
 ~~~
 
