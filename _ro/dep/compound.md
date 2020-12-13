@@ -2,6 +2,7 @@
 layout: relation
 title: 'compound'
 shortdef: 'compound'
+udver: '2'
 ---
 
 `compound` is used for linking compound words of any part of speech:

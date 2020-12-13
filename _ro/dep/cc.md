@@ -2,6 +2,7 @@
 layout: relation
 title: 'cc'
 shortdef: 'coordinating conjunction'
+udver: '2'
 ---
 
 A `cc` is the relation between the first conjunct and the coordinating conjunction delimiting another conjunct:

@@ -2,6 +2,7 @@
 layout: relation
 title: 'conj'
 shortdef: 'conjunct'
+udver: '2'
 ---
 
 A conjunct is the relation between two elements connected by a coordinating conjunction, such as and, or, etc. We treat conjunctions asymmetrically: the head of the relation is the first conjunct and all the other conjuncts depend on it via the conj relation.

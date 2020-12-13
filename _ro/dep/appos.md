@@ -2,12 +2,13 @@
 layout: relation
 title: 'appos'
 shortdef: 'appositional modifier'
+udver: '2'
 ---
 
 An appositional modifier serves to identify its head in a different way. This relation is usually established between noun phrases.
 
 ~~~ sdparse
-Am plecat cu Alexandru , vărul meu . \n Have-I left with Alexandru , cousin-the my . 
+Am plecat cu Alexandru , vărul meu . \n Have-I left with Alexandru , cousin-the my .
 appos(Alexandru, vărul)
 ~~~
 
@@ -34,12 +35,12 @@ mark(asudând, adică)
 It includes parenthesized examples, as well as defining abbreviations in one of these structures.
 
 ~~~ sdparse
-Venerabilul ( adică eu ) merge diseară la întrunire . \n Honorable-the ( that_is I ) goes tonight at meeting. 
+Venerabilul ( adică eu ) merge diseară la întrunire . \n Honorable-the ( that_is I ) goes tonight at meeting.
 appos(Venerabilul, eu)
 ~~~
 
 ~~~ sdparse
-Banca Comercială Română ( BCR ) \n Bank-the Commercial Romanian ( BCR )  
+Banca Comercială Română ( BCR ) \n Bank-the Commercial Romanian ( BCR )
 appos(Banca, BCR)
 ~~~
 

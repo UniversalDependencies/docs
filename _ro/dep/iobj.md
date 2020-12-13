@@ -2,6 +2,7 @@
 layout: relation
 title: 'iobj'
 shortdef: 'indirect object'
+udver: '2'
 ---
 
 The indirect object of a verb is any nominal phrase that is a core argument of the verb, usually expressing the recipient, the addressee or beneficiary of the predicate:
@@ -25,7 +26,7 @@ We also analyse as `iobj` the [+Animate] object (the direct object in traditiona
 
 ~~~ sdparse
 Bunica i-a învățat pe copii o poezie . \n Grandmother-the them-has taught PE children a poem .
-dobj(învățat, poezie)
+obj(învățat, poezie)
 iobj(învățat, copii)
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:28 CET 2020 -->

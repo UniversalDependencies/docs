@@ -2,6 +2,7 @@
 layout: relation
 title: 'expl'
 shortdef: 'expletive'
+udver: '2'
 ---
 
 Romanian does not have expletives of the English sort.

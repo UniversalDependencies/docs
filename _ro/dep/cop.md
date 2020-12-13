@@ -2,6 +2,7 @@
 layout: relation
 title: 'cop'
 shortdef: 'copula'
+udver: '2'
 ---
 
 A copula is the relation between the complement of a copular verb and the copular verb `a fi` (only). (We normally take a copula as a dependent of its complement.)

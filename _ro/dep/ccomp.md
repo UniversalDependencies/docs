@@ -2,10 +2,11 @@
 layout: relation
 title: 'ccomp'
 shortdef: 'clausal complement'
+udver: '2'
 ---
 
 A clausal complement of a verb or adjective is a dependent clause which is a core argument. That is, it functions like an object of the verb, or adjective.
-Such clausal complements may be finite or nonfinite. 
+Such clausal complements may be finite or nonfinite.
 
 ~~~ sdparse
 Înțeleg că ești obosit . \n Understand-I that are-you tired .
