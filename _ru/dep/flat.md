@@ -39,8 +39,8 @@ Dates such as _31 декабря_ “31 December“, _на первое мая_ 
 
 ~~~ sdparse
 31 декабря \n 31 December
-flat(31, декабря)
-flat(31, December)
+flat(31-1, декабря)
+flat(31-4, December)
 ~~~
 
 <!-- Interlanguage links updated Čt lis 12 09:43:27 CET 2020 -->
