@@ -2,6 +2,7 @@
 layout: relation
 title: 'iobj'
 shortdef: 'indirect object'
+udver: '2'
 ---
 
 The indirect object of a verb is any nominal phrase that is a core
@@ -15,7 +16,7 @@ iobj(дал, Петру)
 iobj(gave, Peter)
 ~~~
 
-However, Russian allows other semantic roles as additional objects.
+However, Russian allows instrument, means, and other semantic roles as additional objects.
 The morphological [ru-feat/Case]() of the objects is dictated by verb valency.
 
 In the following Russian example, the verb takes two arguments. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (cf. a similar sentence, _he gave my daughter a class of maths_).
