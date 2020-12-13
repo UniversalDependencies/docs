@@ -12,17 +12,17 @@ Email signatures often contain these structures, in the form of contact informat
 the different contact information items are labeled as `list`; the key-value pair relations are labeled as [appos]().
 
 ~~~ sdparse
-Стив Джонс тел. : +7 495 555 9814 e-mail : jones@mail.ru \n Steve Jones tel. : +7 495 555 9814 e-mail : jones@mail.ru
+Стив Джонс тел. : +7 495 555 9814 email : jones@mail.ru \n Steve Jones tel. : +7 495 555 9814 email : jones@mail.ru
 flat:name(Стив, Джонс)
 flat:name (Steve, Jones)
 list(Стив, тел.)
 list(Steve, tel.)
-list(Стив, e-mail:-9)
-list(Steve, e-mail:-21)
+list(Стив, email-9)
+list(Steve, email-21)
 appos(тел., +7-5)
 appos(tel., +7-17)
-appos(e-mail:-9, jones@mail.ru-11)
-appos(e-mail:-21, jones@mail.ru-23)
+appos(email-9, jones@mail.ru-11)
+appos(email-21, jones@mail.ru-23)
 ~~~
 
 In Russian treebanks, this relation is also used to attach numerals written as several digit tokens (eg. telephone numbers) and syllables written separately in poetry.
