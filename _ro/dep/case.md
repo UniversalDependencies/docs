@@ -2,6 +2,7 @@
 layout: relation
 title: 'case'
 shortdef: 'case marking'
+udver: '2'
 ---
 
 The `case` relation is used for linking prepositions to their heads:
@@ -23,7 +24,7 @@ Plecăm devreme pentru a nu întârzia . \n Leave-we early for to not be_late .
 mark(întârzia, pentru)
 ~~~
 
-Prepositions linking numerals to their nominal heads are dependents of the numerals. 
+Prepositions linking numerals to their nominal heads are dependents of the numerals.
 
 ~~~ sdparse
 30 de copii \n 30 of children

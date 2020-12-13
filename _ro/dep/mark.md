@@ -2,6 +2,7 @@
 layout: relation
 title: 'mark'
 shortdef: 'marker'
+udver: '2'
 ---
 
 A marker is the word introducing a finite clause subordinate to another clause:

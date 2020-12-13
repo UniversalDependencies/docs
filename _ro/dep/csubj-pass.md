@@ -1,13 +1,14 @@
 ---
 layout: relation
-title: 'csubjpass'
+title: 'csubj:pass'
 shortdef: 'clausal passive subject'
+udver: '2'
 ---
 
 A clausal passive subject is a clausal syntactic subject of a passive clause:
 
 ~~~ sdparse
 Cine a încălcat legea a fost pedepsit de instanță . \n Who has broken law-the has been punished by court .
-csubjpass(pedepsit, încălcat)
+csubj:pass(pedepsit, încălcat)
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:22 CET 2020 -->
