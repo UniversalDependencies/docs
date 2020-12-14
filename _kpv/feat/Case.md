@@ -66,7 +66,7 @@ The comitative (also called associative) case corresponds to English
 
 #### Examples
 
-* [kpv] _пон_ "dog"; _<b>понкӧд</b>_ "with dog"
+* _<b>понкӧд</b> ветлыны_ "walk with a dog"
 
 ### <a name="Dat">`Dat`</a>: dative
 
@@ -74,7 +74,7 @@ The dative case expresses transfer to someone.
 
 #### Examples
 
-* [kpv] _ёрт_ "friend"; _<b>ёртлы</b>_ "to a friend"
+* _<b>ёртлы</b> сетны_ "give to a friend"
 
 ### <a name="Ela">`Ela`</a>: elative
 
@@ -82,7 +82,7 @@ The elative case expresses direction out of something.
 
 #### Examples
 
-* [kpv] _горт_ "house"; _<b>гортысь</b>_ "from the house"
+* _<b>гортысь</b> петны_ "go out of the house"
 
 ### <a name="Gen">`Gen`</a>: genitive
 
@@ -93,7 +93,7 @@ the possessor of a non-direct object.
 
 #### Examples
 
-* [kpv] _Сыктывкар -- <b>Коми канмулӧн</b> юркарыс._ "Syktyvkar is the
+* _Сыктывкар -- <b>Коми канмулӧн</b> юркарыс._ "Syktyvkar is the
   capital <b>of the Komi Republic</b>."
 
 ### <a name="Ill">`Ill`</a>: illative
@@ -102,7 +102,7 @@ The illative case expresses direction into something.
 
 #### Examples
 
-* [kpv] _горт_ "house"; _<b>гортӧ</b>_ "into the house"
+* _<b>гортӧ</b> пырны_ "go into the house"
 
 ### <a name="Ine">`Ine`</a>: inessive
 
@@ -110,7 +110,7 @@ The inessive case expresses location inside of something.
 
 #### Examples
 
-* [kpv] _горт_ "house"; _<b>гортын</b>_ "in the house"
+* _<b>гортын</b> пукавны_ "sit at home"
 
 ### <a name="Ins">`Ins`</a>: instrumental
 
@@ -118,7 +118,7 @@ The instrumental case is affixed to the noun defining the entity used as an inst
 
 #### Examples
 
-* [kpv] _ки_ "hand"; _<b>киӧн</b>_ "with a hand"
+* _<b>киӧн</b> босьтны_ "take with a hand"
 
 ### <a name="Nom">`Nom`</a>: nominative / direct
 
@@ -126,7 +126,7 @@ The base form of the noun, typically used as citation form (lemma).
 
 #### Examples
 
-* [kpv] _<b>понйыс</b> котралӧ_ "the dog is running"
+* _<b>понйыс</b> котралӧ_ "the dog is running"
 
 ### <a name="Ter">`Ter`</a>: terminative / terminal allative
 
@@ -136,7 +136,7 @@ _adlativo terminal_).
 
 #### Examples
 
-* [kpv] _<b>юӧдз</b>_ "down to the river"; _квайт <b>часӧдз</b>_
+* _<b>юӧдз</b> мунны_ "go as far as the river"; _квайт <b>часӧдз</b>_
   "till six o'clock"
 
 <!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
