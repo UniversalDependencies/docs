@@ -10,7 +10,8 @@ they do not have any unusual properties.
 
 ### <a name="Het">`Het`</a>: heterogenous
 
-Heterogenous nouns change gender in plural.
+Heterogenous nouns change gender in plural. They are usually words that are masculine in singular
+and use the feminine _-e_ suffix in plural.
 
 #### Examples
 
