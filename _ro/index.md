@@ -88,6 +88,7 @@ udver: '2'
 
 * Besides the layered features listed above, there are several other language-specific features:
   * [Polite]()
+  * [Position]()
   * [Variant]()
     * `Variant=Long` distinguishes long forms of infinitives and negative imperatives in nonstandard Romanian.
     * `Variant=Short` distinguishes the words written with hyphen, whish loss some characters in RRT.
