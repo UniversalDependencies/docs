@@ -13,6 +13,9 @@ udver: '2'
   <td><a href="">Imp</a></td>
   <td><a href="">Perf</a></td>
   <td><a href="">Compl</a></td>
+  <td><a href="">Hab</a></td>
+  <td><a href="">Iter</a></td>
+  <td><a href="">Prog</a></td>
   
   
 </tr>
@@ -51,6 +54,35 @@ The default form is perfective aspect.
 ### <a name="Compl">`Compl`</a>: Completive
 
 The exmaple below has the root *bu* 'finger' in classifier function.
+
+#### Examples
+
+* _<b>tõ-tõ-m</b>&nbsp;_ “be/keep crying”
+
+
+
+### <a name="Hab">`Hab`</a>: Completive
+
+The habitual aspect
+
+#### Examples
+
+* _<b>tõ-tõ-m</b>&nbsp;_ “be/keep crying”
+
+
+
+### <a name="Iter">`Iter`</a>: Completive
+
+The iterative aspect
+
+#### Examples
+
+* _<b>tõ-tõ-m</b>&nbsp;_ “be/keep crying”
+
+
+### <a name="Prog">`Prog`</a>: Completive
+
+The progressive aspect
 
 #### Examples
 
