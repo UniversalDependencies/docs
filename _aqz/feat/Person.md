@@ -8,14 +8,37 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#1">1</a></td>
   <td><a href="#2">2</a></td>
+  <td><a href="#3">3</a></td>
   
 </tr>
 </table>
 
-`Person` 
+`Person`  
+
+### <a name="1">`1`</a>: contiguous
+
+Contiguity is more often associated with
+
+#### Examples
+
+* _<b>ʃe=r-uβ</b>&nbsp;_ “I have a father / There is my father”
+
+
+
+
 
 ### <a name="2">`2`</a>: contiguous
+
+Contiguity is more often associated with
+
+#### Examples
+
+* _<b>ʃe=r-uβ</b>&nbsp;_ “I have a father / There is my father”
+
+
+### <a name="3">`3`</a>: contiguous
 
 Contiguity is more often associated with
 
