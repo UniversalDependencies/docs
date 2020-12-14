@@ -5,7 +5,7 @@ shortdef: 'article of a prearticulated adjective'
 udver: '2'
 ---
 
-Certain Albanian adjectives must be accompanied by the article _i/e/të_ and some authors call them
+Certain Albanian adjectives must be accompanied by the article _i/e/të/së_ and some authors call them
 prearticulated adjectives. We use the relation `det:adj` to attach the article to the adjective.
 
 ~~~ sdparse
