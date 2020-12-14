@@ -17,7 +17,7 @@ udver: '2'
 
 `Number` in Ka'apor is marked by a particle *ta*.
 
-### <a name="Sing">`Sing`</a>: contiguous
+### <a name="Sing">`Sing`</a>: Singular
 
 The example below has the root *ta* indicating the plural number.
 
@@ -30,7 +30,7 @@ The example below has the root *ta* indicating the plural number.
 
 `Number` in Ka'apor is marked by a particle *ta*.
 
-### <a name="Plur">`Plur`</a>: contiguous
+### <a name="Plur">`Plur`</a>: Plural
 
 The example below has the root *ta* indicating the plural number.
 
