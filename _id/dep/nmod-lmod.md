@@ -19,7 +19,7 @@ nmod:lmod(meja, atas)
 ~~~
 
 ~~~ sdparse
-di bawah pengawasannya \n under his watch
+di bawah pengawasan nya \n under his watch
 case(pengawasan, di)
 nmod:lmod(pengawasan, bawah)
 nmod:poss(pengawasan, nya)
