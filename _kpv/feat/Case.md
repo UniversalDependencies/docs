@@ -68,6 +68,22 @@ The comitative (also called associative) case corresponds to English
 
 * [kpv] _пон_ "dog"; _<b>понкӧд</b>_ "with dog"
 
+### <a name="Dat">`Dat`</a>: dative
+
+The dative case expresses transfer to someone.
+
+#### Examples
+
+* [kpv] _ёрт_ "friend"; _<b>ёртлы</b>_ "to a friend"
+
+### <a name="Ela">`Ela`</a>: elative
+
+The elative case expresses direction out of something.
+
+#### Examples
+
+* [kpv] _горт_ "house"; _<b>гортысь</b>_ "from the house"
+
 ### <a name="Gen">`Gen`</a>: genitive
 
 Prototypical meaning of genitive is that the noun phrase somehow
@@ -96,13 +112,13 @@ The inessive case expresses location inside of something.
 
 * [kpv] _горт_ "house"; _<b>гортын</b>_ "in the house"
 
-### <a name="Ela">`Ela`</a>: elative
+### <a name="Ins">`Ins`</a>: instrumental
 
-The elative case expresses direction out of something.
+The instrumental case is affixed to the noun defining the entity used as an instrument to do something.
 
 #### Examples
 
-* [kpv] _горт_ "house"; _<b>гортысь</b>_ "from the house"
+* [kpv] _ки_ "hand"; _<b>киӧн</b>_ "with a hand"
 
 ### <a name="Nom">`Nom`</a>: nominative / direct
 
