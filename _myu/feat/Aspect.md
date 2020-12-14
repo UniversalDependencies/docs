@@ -53,7 +53,7 @@ The default form is perfective aspect.
 
 ### <a name="Compl">`Compl`</a>: Completive
 
-The exmaple below has the root *bu* 'finger' in classifier function.
+The completive aspect
 
 #### Examples
 
@@ -67,7 +67,7 @@ The habitual aspect
 
 #### Examples
 
-* _<b>tõ-tõ-m</b>&nbsp;_ “be/keep crying”
+* _<b>Takatkat 'uk og̃uy</b>&nbsp;_ “I was always cutting”
 
 
 
@@ -77,7 +77,7 @@ The iterative aspect
 
 #### Examples
 
-* _<b>tõ-tõ-m</b>&nbsp;_ “be/keep crying”
+* _<b>g̃ebuje aĩhĩ tõtõm</b>&nbsp;_ “My mother used to cry / kept crying”
 
 
 ### <a name="Prog">`Prog`</a>: Completive
@@ -86,7 +86,7 @@ The progressive aspect
 
 #### Examples
 
-* _<b>tõ-tõ-m</b>&nbsp;_ “be/keep crying”
+* _<b>jokjog̃ tu ẽn?</b>&nbsp;_ “Are you bathing?”
 
 
 
