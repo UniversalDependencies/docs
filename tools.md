@@ -398,8 +398,16 @@ It's easily installable with "pip install conllu", has good documentation and a 
 
 #### UDon2
 
-* Category: package for efficient manipulation of UD trees, mostly aimed at developers using UD for downstream applications
+UDon2 is a library providing the possibility to manipulate Universal Dependencies trees. UDon2 is written in C++ with Python bindings via Boost.Python and is geared towards downstream NLP applications that require plenty of manipulations with individual dependency trees, including transforming UD trees to trees without labels on edges (as defined by [Croce et. al. (2011)](https://www.aclweb.org/anthology/D11-1096.pdf)) to be used in ML algorithms. The package can perform these manipulations, as well as reading and writing to CoNLL-U files, efficiently (see [benchmarks](https://udon2.github.io/benchmarks/). UDon2 lacks command-line interface and thus is not recommended by the authors for working with treebanks.
+
+* Category: library
+* Implementation: C++ (with Python bindings)
+* Platform: Linux and Windows (contributions for supporting OS X are welcome)
+* License: MIT (starting from release 0.1b1)
 * Homepage: <https://github.com/udon2/udon2>
+* Documentation: <https://udon2.github.io/>
+* References: [Kalpakchi and Boye (2020)](https://www.aclweb.org/anthology/2020.udw-1.14/)
+
 
 
 ### Visualization tools
