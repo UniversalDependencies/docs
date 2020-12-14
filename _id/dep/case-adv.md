@@ -1,12 +1,15 @@
 ---
 layout: relation
 title: 'case:adv'
-shortdef: 'case to form adverbs'
+shortdef: 'case marking to form adverbs'
 udver: '2'
 ---
 
-This is a special class of [case marking](case).
-While deprel 'case' is usually a nominal dependent, in Indonesian it also can be used to form adverbs. Especially for preposition _secara_ "in a manner" and _dengan_ "with/in a manner of". 
+This deprel is a special class of [case]().
+While deprel 'case' is usually a nominal dependent, in Indonesian it also can be used to form adverbs. The tokens that can be labeled as _case:adv_ are preposition _secara_ "in a manner" and _dengan_ "with/in a manner of". These prepositions are followed by tokens with POS tags ADJ/VERB/NOUN that serve as their parents. For example:
+* _secara/dengan_ + ADJ: _secara bijaksana_ "wisely" = _secara_ "in a manner of" (ADP) + _bijaksana_ "wise" 
+* _secara/dengan_ + VERB: _secara terbuka_ "openly" = _secara_ "in a manner of" (ADP) + _terbuka_ "open" (VERB)
+* _secara/dengan_ + NOUN: _secara keseluruhan_ "overall" = _secara_ "in a manner of" (ADP) + _keseluruhan_ "whole" (NOUN)
 
 
 ~~~ sdparse
@@ -21,6 +24,15 @@ advmod(dipilih, sengaja)
 case:adv(sengaja, dengan)
 ~~~
 
-Other examples: 
-* _dengan indah_ = _dengan_ "in a manner of" + _indah_ "beautiful" = beautifully
-* _secara bijaksana_ = _secara_ "in a manner of" + _bijaksana_ "wise" = wisely
+~~~ sdparse
+merespon secara terbuka \n to respon openly
+advcl(merespon, terbuka)
+case:adv(terbuka, secara)
+~~~
+
+~~~ sdparse
+menguntungkan secara keseluruhan \n beneficial as a whole
+obl(menguntungkan, keseluruhan)
+case:adv(keseluruhan, secara)
+~~~
+
