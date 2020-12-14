@@ -16,7 +16,7 @@ udver: '2'
 
 `Person` in Ka'apor may take the the following values: 1, 2, and 3. *ta*.
 
-### <a name="3">`Sing`</a>: 3
+### <a name="3">`3`</a>: 3
 
 The example below has 
 
