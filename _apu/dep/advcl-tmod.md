@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'advcl:tmod'
-shortdef: 'advcl:tmod'
+shortdef: 'adverbal clause as temporal modifier'
 udver: '2'
 ---
 
