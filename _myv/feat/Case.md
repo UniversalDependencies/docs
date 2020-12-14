@@ -8,21 +8,21 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Abe">Abe</a> abessive ВтОмО</td>
-  <td><a href="#Abl">Abl</a> ablative ДО</td>
-  <td><a href="#Com">Com</a> comitative нЕк</td>
-  <td><a href="#Cmpr">Cmpr</a> comparative шка</td>
-  <td><a href="#Dat">Dat</a> dative нЕнь</td>
-  <td><a href="#Ela">Ela</a> elative стО</td>
-  <td><a href="#Gen">Gen</a> genitive нь</td>
-  <td><a href="#Ill">Ill</a> illative с</td>
-  <td><a href="#Ine">Ine</a> inessive сО</td>
-  <td><a href="#Lat">Lat</a> lative В</td>
-  <td><a href="#Loc">Loc</a> locative О</td>
-  <td><a href="#Nom">Nom</a> nominative</td>
-  <td><a href="#Prl">Prl</a> prolative Га</td>
-  <td><a href="#Temp">Temp</a> temporalis не</td>
-  <td><a href="#Tra">Tra</a> translative кс</td>
+  <td><a href="#Abe">Abe</a></td>
+  <td><a href="#Abl">Abl</a></td>
+  <td><a href="#Com">Com</a></td>
+  <td><a href="#Cmpr">Cmpr</a></td>
+  <td><a href="#Dat">Dat</a></td>
+  <td><a href="#Ela">Ela</a></td>
+  <td><a href="#Gen">Gen</a></td>
+  <td><a href="#Ill">Ill</a></td>
+  <td><a href="#Ine">Ine</a></td>
+  <td><a href="#Lat">Lat</a></td>
+  <td><a href="#Loc">Loc</a></td>
+  <td><a href="#Nom">Nom</a></td>
+  <td><a href="#Prl">Prl</a></td>
+  <td><a href="#Temp">Temp</a></td>
+  <td><a href="#Tra">Tra</a></td>
 </tr>
 </table>
 
