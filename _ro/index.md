@@ -8,98 +8,88 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-•	In general, words are delimited by whitespace characters. Description of exceptions follows.
+* In general, words are delimited by whitespace characters. Description of exceptions follows.
+* According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words); that holds even for hyphenated words pronounced joining two syllables in a single one, such as  ne-am, v-ați.
 
-•	According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words); that holds even for hyphenated words pronounced joining two syllables in a single one, such as  ne-am, v-ați.
+## Morphology
 
-Morphology
-Tags
-This is an overview only. For more detailed discussion and examples, see the list of Romanian POS tags and Romanian features.
-•	Romanian uses all 17 universal POS categories.
+### Tags
 
-•	The pronoun (PRON) vs. determiner (DET) distinction is based on the syntactic position; PRON is independent, DET is subordinated to a NOUN or PRONOUN.
+* Romanian uses all 17 universal POS categories.
+* The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is based on the syntactic position; `PRON` is
+  independent, `DET` is subordinated to a noun or pronoun.
+* CONTEMPORARY ROMANIAN (RRT) has three auxiliary verbs ([AUX]()), _fi_ (“to be”), _avea_ (“to have”),
+  _vrea_ (“to want”). In Nonstandard Romanian, the auxiliaries _putea_ (“can”), _trebui_ (“must”),
+  _ști_ (“to know”) were annotated. The auxiliary _vrea_ (“to want”) is used in the old language in many
+  forms than in the contemporary, ex.: participle.
+  * The copula with non-verbal predicates  was annotated as AUX.
+  * Periphrastic future tense (vrea + infinitive of the main verb; vrea + fi+ participle of the main verb).
+  * Periphrastic past tense (avea + participle of the main verb).
+  * Periphrastic conditional (conditional form of avea + future of the main verb; conditional form of avea+ fi + participle of the main verb).
+  * Periphrastic passive (any form of fi, including periphrastic forms, + participle of the main verb).
+* There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the VerbForm feature:
+  * Infinitive Inf, tagged VERB or AUX.
+  * Finite verb Fin, tagged VERB or AUX.
+  * Participle Part, tagged VERB or AUX (in the nonstandard treebank) or ADJ (in the RRT treebank).
+  * Gerundive verb Ger, tagged VERB or AUX.
 
-•	CONTEMPORARY ROMANIAN (RRT) has three auxiliary verbs (AUX), fi (“to be”), avea (“to have”) vrea (“to want”). In Nonstandard Romanian, the auxiliaries putea (“can”), trebui (“must”), ști (“to know”) were annotated. The auxiliary vrea (“to want”) is used in the old language in many forms than in the contemporary, ex.: participle.
+### Nominal Features
 
-o	The copula with non-verbal predicates  was annotated as AUX.
+* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of
+  two values: `Masc` or `Fem`. The neuter is in Romanian classified as masculine singular and
+  feminine plural.
+  * The following parts of speech inflect for `Gender` because they must agree with nouns:
+    [ADJ](), [DET](), [NUM](), [VERB](), [AUX](). For verbs (including auxiliaries), only
+    participles have gender.
+* The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of
+  speech inflect for number: [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]()
+  (finite, participles), marginally [NUM]().
+* [Case]() has 5 possible values: `Nom`, `Gen`, `Dat`, `Acc`, `Voc`. It occurs with the nominal
+  words, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [NUM](). It can occur with
+  participles but only with those tagged as `ADJ`. To nouns there is no distinction of form,
+  they are annotated as nom.,-acc. and gen.,-dat. Only some pronouns have distinct forms of
+  accusative and dative.
+  * The `Case` feature also occurs with prepositions (ADP). Here it is a lexical feature.
+    Prepositions do not inflect for case but they subcategorize for the case of their noun phrase.
+* [Definite]() has 2 possible values: `Ind` and `Def`. Definiteness is marked morphologically on
+  nouns.
 
-o	Periphrastic future tense (vrea + infinitive of the main verb; vrea + fi+ participle of the main verb).
+### Degree and Polarity
 
-o	Periphrastic past tense (avea + participle of the main verb).
+* Degree applies to adjectives (ADJ) and adverbs (ADV) and has (rarely, in RRT) one of three possible values: Pos, Cmp, Sup.
+* Polarity has two values, Pos and Neg, and applies primarily to verbs (VERB, AUX), adjectives (ADJ) and adverbs (ADV) that can be negated using the paricle “nu”, the ADV “nici” (or the morpheme “ne-” in nonstandard treebank).
+  * The Polarity feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners. The PronType=Neg feature is used there instead.
 
-o	Periphrastic conditional (conditional form of avea + future of the main verb; conditional form of avea+ fi + participle of the main verb).
+### Verbal Features
 
-o	Periphrastic passive (any form of fi, including periphrastic forms, + participle of the main verb).
-o
-•	There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the VerbForm feature:
+* Finite verbs always have one of three values of Mood: Ind, Imp or Subj.
+* Verbs in the indicative mood have one of four values of Tense: Past simple, Pres, Imperfect, Pluperfect.
+* The future are distinguished analytically.
+* Imperative forms do not have the Tense feature
+* Past and present conditionals are distinguished analytically; also the past subjunctive and the perfect future).
 
-o	Infinitive Inf, tagged VERB or AUX.
+### Pronouns, Determiners, Quantifiers
 
-o	Finite verb Fin, tagged VERB or AUX.
+* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()), and adverbs ([ADV]()).
+* [NumType]() is used with numerals ([NUM]()).
+* The [Poss]() feature marks possessive personal determiners.
+* The [Reflex]() feature is marked by the language specific features: expl:pv, expl:poss, expl:impers, and expl:pass.
+* [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, 1, 2 and 3.
+  With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
+  Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
+  * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
+* There are two layered features, Gender[psor] and Number[psor]. They appear with certain possessive
+  adjectives and determiners and encode the lexical gender/number of the possessor. The extra layer
+  is needed to distinguish these lexical features from the inflectional gender and number that mark
+  agreement with the modified (possessed) noun.
+* [Strength]() distinguishes strong (independent) and weak (clitic) forms of personal pronouns.
 
-o	Participle Part, tagged VERB or AUX (in the nonstandard treebank) or ADJ (in the RRT treebank).
+### Other Features
 
-o	Gerundive verb Ger, tagged VERB or AUX.
-
-Nominal Features
-
-•	Nominal words (NOUN, PROPN and PRON) have an inherent Gender feature with one of two values: Masc or Fem. The neuter is in Romanian classified as masc singular and feminine plural.
-
-o	The following parts of speech inflect for Gender because they must agree with nouns: ADJ, DET, NUM, VERB, AUX. For verbs (including auxiliaries), only participles have gender.
-
-•	The two main values of the Number feature are Sing and Plur. The following parts of speech inflect for number: NOUN, PROPN, PRON, ADJ, DET, VERB, AUX (finite, participles), marginally NUM.
-
-•	Case has 5 possible values: Nom, Gen, Dat, Acc, Voc. It occurs with the nominal words, i.e., NOUN, PROPN, PRON, ADJ, DET, NUM. It can occur with participles but only with those tagged as ADJ. To nouns there is no distinction of form, they are annotated as nom.,-acc. and gen.,-dat. Distinct forms for acc., dat. have only some pronouns.
-
-o	The Case feature also occurs with prepositions (ADP). Here it is a lexical feature. Prepositions do not inflect for case but they subcategorize for the case of their noun phrase.
-
-Degree and Polarity
-
-•	Degree applies to adjectives (ADJ) and adverbs (ADV) and has (rarely, in RRT) one of three possible values: Pos, Cmp, Sup.
-
-•	Polarity has two values, Pos and Neg, and applies primarily to verbs (VERB, AUX), adjectives (ADJ) and adverbs (ADV) that can be negated using the paricle “nu”, the ADV “nici” (or the morpheme “ne-” in nonstandard treebank).
-
-o	The Polarity feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners. The PronType=Neg feature is used there instead.
-
-Verbal Features
-o
-•	Finite verbs always have one of three values of Mood: Ind, Imp or Subj.
-
-•	Verbs in the indicative mood have one of four values of Tense: Past simple, Pres, Imperfect, Pluperfect.
-
-•	The future are distinguished analytically.
-
-•	Imperative forms do not have the Tense feature
-
-• Past and present conditionals are distinguished analytically; also the past subjunctive and the perfect future).
-
-Pronouns, Determiners, Quantifiers
-
-•	PronType is used with pronouns (PRON), determiners (DET) and adverbs (ADV).
-
-•	NumType is used with numerals (NUM), The Poss feature marks possessive personal determiners.
-
-•	The Reflex feature is marked by the language specific features: expl:pv, expl:poss, expl:impers, and expl:pass.
-
-•	Person is a lexical feature of personal pronouns (PRON) and has three values, 1, 2 and 3. With personal possessive determiners (DET), the feature actually encodes the person of the possessor. Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
-
-o	As a cross-reference to subject, person is also marked on finite verbs (VERB, AUX).
-
-•	There are two layered features, Gender[psor] and Number[psor]. They appear with certain possessive adjectives and determiners and encode the lexical gender/number of the possessor. The extra layer is needed to distinguish these lexical features from the inflectional gender and number that mark agreement with the modified (possessed) noun.
-
-Other Features
-
-•	Besides the layered features listed above, there are several other language-specific features:
-
-•	NumType
-
-• Definite
-
-• Polite
-
-•	Variant long distinguishes long forms of infinitives and imperative negative in nonstandard.
-
-• Variant short distinguishes the words written with hyphen, whish loss some characters in RRT.
+* Besides the layered features listed above, there are several other language-specific features:
+  * [Polite]()
+  * Variant Long distinguishes long forms of infinitives and imperative negative in nonstandard.
+  * Variant Short distinguishes the words written with hyphen, whish loss some characters in RRT.
 
 ## Syntax
 
