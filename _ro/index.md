@@ -78,7 +78,7 @@ udver: '2'
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
   * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
-* There are two layered features, Gender[psor] and Number[psor]. They appear with certain possessive
+* There are two layered features, [Gender[psor]]() and [Number[psor]](). They appear with certain possessive
   adjectives and determiners and encode the lexical gender/number of the possessor. The extra layer
   is needed to distinguish these lexical features from the inflectional gender and number that mark
   agreement with the modified (possessed) noun.
@@ -88,8 +88,9 @@ udver: '2'
 
 * Besides the layered features listed above, there are several other language-specific features:
   * [Polite]()
-  * Variant Long distinguishes long forms of infinitives and imperative negative in nonstandard.
-  * Variant Short distinguishes the words written with hyphen, whish loss some characters in RRT.
+  * [Variant]()
+    * `Variant=Long` distinguishes long forms of infinitives and negative imperatives in nonstandard Romanian.
+    * `Variant=Short` distinguishes the words written with hyphen, whish loss some characters in RRT.
 
 ## Syntax
 
