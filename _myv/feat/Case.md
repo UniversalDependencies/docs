@@ -109,7 +109,7 @@ In the indefinite declension the genitive, when attached to words with material 
 
 * [myv] _Тонавтыцясь сыргась <b>школав</b>_ "The teacher left <b>for school</b>"
 
-### <a name="Lox">`Loc`</a>: locative
+### <a name="Loc">`Loc`</a>: locative
 
 #### Examples
 
