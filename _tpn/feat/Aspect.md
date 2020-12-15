@@ -23,7 +23,7 @@ Contiguity is more often associated with
 
 #### Examples
 
-* _<b>mbaʔeʔ**upaβ**iré</b>&nbsp;_ “After (having finished) eating”
+* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
 
 
 
