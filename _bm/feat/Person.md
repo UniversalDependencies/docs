@@ -16,5 +16,22 @@ udver: '2'
 
 In Bambara, person is  a feature of [pronouns](bm-pos/PRON).
 
+### <a name="1">`1`</a>: first person
+
+#### Examples
+
+* _<b>Ne</b> ka so dun tè bin dun._ “My horse does not eat herbs.”
+
+### <a name="2">`2`</a>: second person
+
+#### Examples
+
+* _Mògò si ma <b>i</b> tògò dòn._ “Nobody knows your name.”
+
+### <a name="3">`3`</a>: third person
+
+#### Examples
+
+* _Tasuma ye <b>a</b> minè._ “Fire has caught it.”
 
 <!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->

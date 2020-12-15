@@ -20,25 +20,32 @@ udver: '2'
 
 Relative pronoun mín is used in [relative clause](bm-dep/acl).
 
-#### Example
-* _Fàntá bɛ́ dɔ́nkili <b>mín</b> dá, ò ká dí né má._ "A song which Fanta sings, I like it".   
+#### Examples
+
+* _Fàntá bɛ́ dɔ́nkili <b>mín</b> dá, ò ká dí né má._ "A song which Fanta sings, I like it".
 
 ### <a name="Dem">`Dem`</a>:  demonstratives
 
-In Bamana, there are two demonstratives ò 'that' and  nín 'this'. They can be [pronouns](bm-pos/PRON) or [determinatives](bm-pos/DET). 
+In Bamana, there are two demonstratives ò 'that' and  nín 'this'. They can be [pronouns](bm-pos/PRON) or [determinatives](bm-pos/DET).
 
-#### Example
+#### Examples
 
 * _na me park <b>dis</b> car_ "I'm the one who parked this car"
 
 ### <a name="Emp">`Emp`</a>: emphatic serie of personal pronouns
 
-Personal pronouns in Bamana have two series: basic one and emphatic one. The use of emphatic pronouns depends of informational structure. These are: _né, é, àlé, ánw, áw, òlu_
+Personal pronouns in Bamana have two series: basic one and emphatic one. The use of emphatic pronouns depends of informational structure.
+
+#### Examples
+
+* _né, é, àlé, ánw, áw, òlu_
 
 ### <a name="Refl">`Refl`</a>: reflexive pronoun
 
 There is a number of reflexive verbs, which have reflexive pronoun as a [direct object](bm-dep/obj).
-#### Example
+
+#### Examples
+
 * _Fàntá bɛ́ <b>í</b> pán._ "Fanta jumps".
 
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
