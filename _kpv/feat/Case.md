@@ -5,6 +5,38 @@ shortdef: 'case'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Acc">Acc</a> accusative</td>
+  <td><a href="#Abl">Abl</a> ablative</td>
+  <td><a href="#Apr">Apr</a> approximative</td>
+  <td><a href="#AprEgr">AprEgr</a> approximative egressive</td>
+  <td><a href="#AprEla">AprEla</a> approximative elative</td>
+  <td><a href="#AprIll">AprIll</a> approximative illative</td>
+  <td><a href="#AprIne">AprIne</a> approximative inessive</td>
+  <td><a href="#AprPrl">AprPrl</a> approximative prolative</td>
+  <td><a href="#AprTer">AprTer</a> approximative terminative</td>
+  <td><a href="#AprTra">AprTra</a> approximative translative</td>
+  <td><a href="#Car">Car</a> caritive</td>
+  <td><a href="#Cns">Cns</a> consecultative</td>
+  <td><a href="#Com">Com</a> comitative</td>
+  <td><a href="#Cmpr">Cmpr</a> comparative</td>
+  <td><a href="#Dat">Dat</a> dative</td>
+  <td><a href="#Egr">Egr</a> egressive</td>
+  <td><a href="#Ela">Ela</a> elative</td>
+  <td><a href="#Gen">Gen</a> genitive</td>
+  <td><a href="#Ill">Ill</a> illative</td>
+  <td><a href="#Ine">Ine</a> inessive</td>
+  <td><a href="#Ins">Ins</a> instrumental</td>
+  <td><a href="#Nom">Nom</a> nominative</td>
+  <td><a href="#Prl">Prl</a> prolative</td>
+  <td><a href="#Ter">Ter</a> terminative</td>
+  <td><a href="#Tra">Tra</a> translative</td>
+</tr>
+</table>
+
+
 Case is an inflectional feature for [nouns](u-pos/NOUN), [pronouns](u-pos/PRON), [adjectives](u-pos/ADJ)
 and [numerals](u-pos/NUM) in Komi-Zyrian.<br/>
 Komi-Zyrian has 25 inflectional cases:<br/>
@@ -66,7 +98,23 @@ The comitative (also called associative) case corresponds to English
 
 #### Examples
 
-* [kpv] _пон_ "dog"; _<b>понкӧд</b>_ "with dog"
+* [kpv] _<b>понкӧд</b> ветлыны_ "walk with a dog"
+
+### <a name="Dat">`Dat`</a>: dative
+
+The dative case expresses transfer to someone.
+
+#### Examples
+
+* [kpv] _<b>ёртлы</b> сетны_ "give to a friend"
+
+### <a name="Ela">`Ela`</a>: elative
+
+The elative case expresses direction out of something.
+
+#### Examples
+
+* [kpv] _<b>гортысь</b> петны_ "go out of the house"
 
 ### <a name="Gen">`Gen`</a>: genitive
 
@@ -86,7 +134,7 @@ The illative case expresses direction into something.
 
 #### Examples
 
-* [kpv] _горт_ "house"; _<b>гортӧ</b>_ "into the house"
+* [kpv] _<b>гортӧ</b> пырны_ "go into the house"
 
 ### <a name="Ine">`Ine`</a>: inessive
 
@@ -94,15 +142,15 @@ The inessive case expresses location inside of something.
 
 #### Examples
 
-* [kpv] _горт_ "house"; _<b>гортын</b>_ "in the house"
+* [kpv] _<b>гортын</b> пукавны_ "sit at home"
 
-### <a name="Ela">`Ela`</a>: elative
+### <a name="Ins">`Ins`</a>: instrumental
 
-The elative case expresses direction out of something.
+The instrumental case is affixed to the noun defining the entity used as an instrument to do something.
 
 #### Examples
 
-* [kpv] _горт_ "house"; _<b>гортысь</b>_ "from the house"
+* [kpv] _<b>киӧн</b> босьтны_ "take with a hand"
 
 ### <a name="Nom">`Nom`</a>: nominative / direct
 
@@ -120,7 +168,7 @@ _adlativo terminal_).
 
 #### Examples
 
-* [kpv] _<b>юӧдз</b>_ "down to the river"; _квайт <b>часӧдз</b>_
+* [kpv] _<b>юӧдз</b> мунны_ "go as far as the river"; _квайт <b>часӧдз</b>_
   "till six o'clock"
 
 <!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->

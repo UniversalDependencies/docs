@@ -11,7 +11,7 @@ The negative auxiliary, when attached to a predicate,
 typically carries some of the tense/aspect/modality suffixes as well as person/number agreement suffixes.
 
 Although they do not function as an auxiliary when attached to non-predicate words or phrases,
-we use `aux:neg` for all uses of the negative auxiliaries and particles.
+we use `aux:neg` for all forms and uses of the highly suppletive negative auxiliary paradigm and particles.
 
 ~~~ sdparse
 Виде ли кияк косояк мезтькак а тейни ?.. \n Is it true that nobody _does_ anything anywhere ?..
