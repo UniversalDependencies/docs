@@ -64,7 +64,11 @@ repository.
 ## Language-Specific Features
 
 All feature values used in UD treebanks must be documented. If they are defined in the current
-version of the UD guidelines, they are already documented and no action is needed. Some other
+version of the UD guidelines, they are already documented and no action is needed.
+If you decide to provide their language-specific documentation anyway, note that the global
+documentation will be ignored by the system, and if there are errors in your page, the given
+universal feature will be undocumented and unavailable in your language.
+Some other
 features are not officially part of the UD guidelines (so technically they are in the
 language-specific domain), yet they have been used in multiple treebanks and their documentation
 is accessible globally. No action is needed for them either (if you are unsure whether
@@ -131,7 +135,11 @@ asterisk as the bullet) with individual examples, highlighting the featured word
 ## Language-Specific Subtypes of Dependency Relations
 
 All relations used in UD treebanks must be documented. If they are defined in the current
-version of the UD guidelines, they are already documented and no action is needed. Subtypes are
+version of the UD guidelines, they are already documented and no action is needed.
+If you decide to provide their language-specific documentation anyway, note that the global
+documentation will be ignored by the system, and if there are errors in your page, the given
+universal relation will be undocumented and unavailable in your language.
+Subtypes are
 optional and technically in the language specific domain, although some subtypes are fairly
 widely attested and some are even mentioned in the universal part of the guidelines. If the
 documentation of a subtype is accessible globally, no action is needed either (if you are unsure
