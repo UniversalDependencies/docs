@@ -8,13 +8,22 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Rel">Rel</a></td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Emp">Emp</a></td>
-  <td><a href="#Refl">Refl</a></td>
+  <td><a href="#Prs">Prs</a></td>
+  <td><a href="#Rel">Rel</a></td>
 </tr>
 </table>
 
+### <a name="Prs">`Prs`</a>: personal pronoun, including reflexive
+
+There is a number of reflexive verbs, which have reflexive pronoun as a [direct object](bm-dep/obj).
+According to the UD guidelines, reflexive verbs are grouped with personal pronouns (`PronType=Prs`)
+and distinguished by a special feature [Reflex]()`=Yes`.
+
+#### Examples
+
+* _Fàntá bɛ́ <b>í</b> pán._ "Fanta jumps".
 
 ### <a name="Rel">`Rel`</a>: relative pronoun
 
@@ -39,13 +48,5 @@ Personal pronouns in Bamana have two series: basic one and emphatic one. The use
 #### Examples
 
 * _né, é, àlé, ánw, áw, òlu_
-
-### <a name="Refl">`Refl`</a>: reflexive pronoun
-
-There is a number of reflexive verbs, which have reflexive pronoun as a [direct object](bm-dep/obj).
-
-#### Examples
-
-* _Fàntá bɛ́ <b>í</b> pán._ "Fanta jumps".
 
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
