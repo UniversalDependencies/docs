@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Emp">Emp</a></td>
   <td><a href="#Prs">Prs</a></td>
+  <td><a href="#Rcp">Rcp</a></td>
   <td><a href="#Rel">Rel</a></td>
 </tr>
 </table>
@@ -24,6 +25,12 @@ and distinguished by a special feature [Reflex]()`=Yes`.
 #### Examples
 
 * _Fàntá bɛ́ <b>í</b> pán._ "Fanta jumps".
+
+### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
+
+#### Examples
+
+* _Surukuw bè kan ka <b>nyògòn</b> kin._ “The hyenas were biting each other.”
 
 ### <a name="Rel">`Rel`</a>: relative pronoun
 
