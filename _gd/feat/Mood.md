@@ -12,6 +12,8 @@ The default is the indicative mood which is not currently marked.
 This is used for things that might happen, but also for things that happened habitually in the past.
 It applies to verbs.
 
+#### Examples
+
 * _Bha e mar gum <b>biodh</b> e smaoineachadh._ "It was as if he were thinking." (f07\_056)
 * _nuair a <b>dh’fhalbhadh</b> daoine o 'n taigh <b>thigeadh</b> feadhainn agus <b>dh’fhalbhadh</b> iad le na beathaichean aca_ "When people left the house (other) people would come and they would leave with their animals" (n06\_000b)
 
