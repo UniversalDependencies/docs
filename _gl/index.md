@@ -44,6 +44,8 @@ For more information, see the README file of each Galician UD treebank.
 * Morphological information is currently encoded as follows:
   * Galician-CTG treebank contains morphological information in the XPOS field provided by [FreeLing](http://universaldependencies.org/tagset-conversion/pt-freeling-uposf.html).
   * Galician-TreeGal includes the morphological features following the UD guidelines.
+* Besides universal features, Galician-TreeGal uses a language-specific feature:
+  * [Clitic](https://github.com/UniversalDependencies/docs/blob/pages-source/_gl/feat/Clitic.md): `Clitic=Yes` refers to clitic pronouns that depend phonologically on a verb. They may be enclitic (_Quéro<b>te</b>_) or proclitic (_Non <b>te</b> quero_).
 
 For more information, see the README file of each Galician UD treebank.
 
