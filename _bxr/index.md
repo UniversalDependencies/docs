@@ -20,7 +20,7 @@ udver: '2'
 
 * All 17 universal POS categories are relevant for Buryat, although the current data does not contain any instance of [X]().
 * At present, 177 lemma types are tagged [PART]().
-* There are five main types of verbal forms, distinguished by the value of the [VerbForm]() feature
+* There are four main types of verbal forms, distinguished by the value of the [VerbForm]() feature
   (all of them are tagged [VERB]() or [AUX](), not as other derived categories):
   * Finite verb `Fin` can act as a predicate of a main clause without an auxiliary; it inflects for the [Person]() of the subject.
   * Converb (verbal adverb) `Conv` functions as a predicate in a dependent adverbial clause.
