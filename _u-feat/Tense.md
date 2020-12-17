@@ -79,7 +79,7 @@ imperfect).
 
 
 
-### <a name="Pres">`Pres`</a>: present / non-past tense
+### <a name="Pres">`Pres`</a>: present / non-past tense / aorist
 
 The present tense denotes actions that are in progress (or states that
 are valid) in a reference point; it may also describe events that usually
@@ -94,6 +94,10 @@ _he was watching TV when I arrived._
 
 Some languages (e.g. Uralic) only distinguish past vs. non-past morphologically,
 and then `Tense=Pres` can be used to represent the non-past form.
+(In some grammar descriptions, e.g. Turkic or Mongolic, this non-past
+form may be termed _aorist_, but note that in other languages the term
+is actually used for a past tense, as noted above. Therefore the term
+is better avoided in UD annotation.)
 Similarly, some Slavic languages (e.g. Czech), although they do
 distinguish the future tense, nevertheless have a subset of verbs
 where the morphologically present form has actually a future meaning.
