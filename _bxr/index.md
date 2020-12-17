@@ -30,7 +30,8 @@ udver: '2'
   * Infinitive `Inf`. The non-finite form ending in _-жа, -жо, -жэ_ normally has to be accompanied by an auxiliary; together
     they can form a predicate of a main or a dependent clause. This makes the form different from verbal adverbs and thus worth
     a separate label. Calling them infinitives is in line with what Washington and Tyers (2019) propose for Turkic languages;
-    note that in earlier releases of the Buryat treebank, these forms were labeled `Coverb`.
+    note that in earlier releases of the Buryat treebank, these forms were labeled `Coverb`
+    (see also [#747](https://github.com/UniversalDependencies/docs/issues/747)).
     Some authors (e.g., Skribnik 2011) label them as imperfective converbs.
   * Gerund `Ger` is used for various other forms that are classified as types of converbs in the literature.
     Gerunds may function as predicates in main clauses (without an auxiliary, and with an overt subject).
