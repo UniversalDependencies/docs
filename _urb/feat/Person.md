@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="">1</a></td>
   <td><a href="">3</a></td>
   
   
@@ -15,6 +16,17 @@ udver: '2'
 </table>
 
 `Person` in Ka'apor may take the the following values: 1, 2, and 3. *ta*.
+
+
+
+### <a name="1">`1`</a>: 1
+
+The example below has 
+
+#### Examples
+
+* _<b>some example</b>&nbsp;_ “soe example” 
+
 
 ### <a name="3">`3`</a>: 3
 
