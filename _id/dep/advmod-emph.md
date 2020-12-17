@@ -7,9 +7,9 @@ udver: '2'
 
 This is a special class of [advmod]().
 This deprel is used in Indonesian grammar for foregrounding particles such as clitics _-lah/-kah_ and for focusing adjunct _pun_. These particles do not have a specific meaning. For example:
-* _-lah_  such as in _Dialah pelakunya_ "He's the culprit", where _-lah-_ emphasizes the subject _dia_ "he/she".
-* _-kah_ such as in _Berapakah harganya?_ "How much does it cost?", where _-kah- emphasizes the interrogative pronoun _berapa_ "how much".
-* _"pun" such as in _Tidak seorang pun peduli_ "No one cares" where _pun_ emphazises _tidak seorang_ "no one".
+* _-lah_  such as in _Dialah pelakunya_ "He's the culprit", where _-lah_ emphasizes the subject _dia_ "he/she".
+* _-kah_ such as in _Berapakah harganya?_ "How much does it cost?", where _-kah_ emphasizes the interrogative pronoun _berapa_ "how much".
+* _pun_ such as in _Tidak seorang pun peduli_ "No one cares" where _pun_ emphazises _tidak seorang_ "no one".
 
 
 ~~~ sdparse
