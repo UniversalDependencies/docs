@@ -8,7 +8,7 @@ udver: '2'
 The relation obl:agent is used for agents of passive verbs. In Indonesian, the agent could be optionally preceded by preposition _oleh_ "by". For example:
 
 ~~~ sdparse
-Dibentuk oleh kekuatan tektonik \n Shaped by tectonic forces
+dibentuk oleh kekuatan tektonik \n shaped by tectonic forces
 obl:agent(dibentuk, kekuatan)
 case(kekuatan, oleh)
 nmod(kekuatan, tektonik)
