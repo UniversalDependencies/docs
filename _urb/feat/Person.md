@@ -9,8 +9,8 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="">1</a></td>
+  <td><a href="">2</a></td>
   <td><a href="">3</a></td>
-  
   
 </tr>
 </table>
@@ -26,6 +26,16 @@ The example below has
 #### Examples
 
 * _<b>some example</b>&nbsp;_ “soe example” 
+
+
+### <a name="2">`2`</a>: 2
+
+The example below has 
+
+#### Examples
+
+* _<b>remusak</b>&nbsp;_ “you got sb. to see” (SG.2 causative) 
+
 
 
 ### <a name="3">`3`</a>: 3
