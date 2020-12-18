@@ -164,7 +164,7 @@ udver: '2'
   * [flat:name]() to label sequences of names of PROPN-PROPN pairs.
   * [nmod:lmod]() for locative nouns. 
   * [nmod:poss]() for possessive relationship.
-  * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. For example, in _pengeluaran **tahun ini**_ "**this year** spending", _tahun ini_ "this year" modifies _pengeluaran_ "spending", and the head of this phrase, _tahun_ "year" will be annotated as the dependent of _pengeluaran_ "spending" with the deprel `nmod:tmod`.
+  * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. 
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
   * [obl:tmod]() for head of time-related noun phrases that depend on a `VERB/ADJ`.
