@@ -13,17 +13,17 @@ This deprel is used in Indonesian grammar for word _baik_ in clause _baik A maup
 
 ~~~ sdparse
 ROOT Baik Jakarta maupun Bandung sama macet nya . \n Both Jakarta and Bandung are equally congested .
-cc:preconj(Jakarta-2, Baik)
-nsubj(macet, Jakarta-2)
+cc:preconj(Jakarta-3, Baik)
+nsubj(macet, Jakarta-3)
 root(ROOT, macet)
-cc(Bandung-4, maupun)
-conj(Jakarta-2, Bandung-4)
+cc(Bandung-5, maupun)
+conj(Jakarta-3, Bandung-5)
 advmod(sama, macet)
 det(macet, nya)
 punct(macet, .)
-cc:preconj(Jakarta-10, Both)
-cc(Bandung-12, and)
-conj(Jakarta-10, Bandung-12)
+cc:preconj(Jakarta-11, Both)
+cc(Bandung-13, and)
+conj(Jakarta-11, Bandung-13)
 ~~~
 
 ~~~ sdparse
