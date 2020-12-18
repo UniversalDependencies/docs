@@ -21,6 +21,9 @@ conj(Bandung, Jakarta)
 advmod(sama, macet)
 det(macet, nya)
 punct(macet, .)
+cc:preconj(Both, Jakarta)
+cc(Bandung, and)
+conj(Jakarta, Bandung)
 ~~~
 
 ~~~ sdparse
@@ -32,6 +35,9 @@ root(ROOT, hidup)
 cc(wafat, maupun)
 mark(wafat, setelah)
 punct(hidup, .)
+cc:preconj(Both, alive)
+cc(death, and)
+conj(alive, death)
 ~~~
 
 
