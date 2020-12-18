@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'obl:tmod'
-shortdef: 'classifier'
+shortdef: 'temporal modifier' of verb/adjective
 udver: '2'
 ---
 
