@@ -21,9 +21,9 @@ conj(Jakarta-3, Bandung-5)
 advmod(sama, macet)
 det(macet, nya)
 punct(macet, .)
-cc:preconj(Jakarta-11, Both)
-cc(Bandung-13, and)
-conj(Jakarta-11, Bandung-13)
+cc:preconj(Jakarta-12, Both)
+cc(Bandung-14, and)
+conj(Jakarta-12, Bandung-14)
 ~~~
 
 ~~~ sdparse
