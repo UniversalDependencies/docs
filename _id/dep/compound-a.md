@@ -14,6 +14,7 @@ The tokens with this deprel should have an adjective parent. Together with their
 kesuksesan luar biasa \n remarkable success
 amod(kesuksesan, biasa)
 compound:a(biasa, luar)
+amod(success, remarkable)
 ~~~
 
 ~~~ sdparse
@@ -21,4 +22,5 @@ dia ketahuan buta aksara \n he was caught illiterate
 nsubj:pass(ketahuan, dia)
 xcomp(ketahuan, buta)
 compound:a(buta, aksara)
+xcomp(caught, illiterate)
 ~~~

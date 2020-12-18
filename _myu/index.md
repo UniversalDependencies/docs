@@ -12,6 +12,27 @@ udver: '2'
 * In general, words are delimited by whitespace characters. Description of exceptions follows.
 * According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words);
 
+Mapping UPOS to XPOS Mundurukú
+
+ UPOS | XPOS |
+:----: | :------: |
+ ADJ   | adj      |
+ ADV   | adv      |
+ INTJ  | intj     |
+ NOUN  | n        |
+ PROPN | ppn      |
+ VERB  | v, vi, vt|
+ ADP   | pp       |
+ AUX   | aux      |
+ CCONJ | cc       |
+ DET   | det      |
+ NUM   | num      |
+ PART  | pcl      |
+ PRON  | pro      |
+ SCONJ | sc       |
+ PUNCT | punct    |
+ SYM   | sym      |
+ X     | x        |
 
 ## Morphology
 

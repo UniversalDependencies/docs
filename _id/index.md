@@ -155,22 +155,19 @@ udver: '2'
 
 * The following 14 relation subtypes could be used in Indonesian UD treebank:
   * [acl:relcl]() for relative clauses that modify a noun phrase. In Indonesian, relative clauses usually use _yang_ as the subject of the clause.
-  * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah, pun_ that emphasize other words that could be a [NOUN](), [PRON](), [VERB](), or [SCONJ](). For example, token _itu**lah**_ "that" in tokenization phase was split into _itu_ "that" and _**lah**_, then _lah_ is annotated as the dependent of _itu_ and the relation between them is `advmod:emph`.
-  * [case:adv]() for adposition ([ADP]()) that together with its following word of [ADJ]()/[ADV]()/[VERB]() serve as an adverb. In this case the `ADP` word is annotated as the dependent of `ADJ`/`ADV`/`VERB` and the dependency relation between them is `case:adv`, and the relation between the `ADJ/ADV/VERB` word and its parent is [advmod](). For example:
-    * `ADP` + `ADJ` as adverb, such as _secara hati-hati_ "carefully", that consists of _secara_ "with"_ (`ADP`) + _hati-hati_ "careful" (`ADJ`)
-    * `ADP` + `ADV` as adverb, such as _dengan sungguh-sungguh_ "seriously", that consists of _dengan_ "with" (`ADP`) + sungguh-sungguh "serious" (`ADV`)
-    * `ADP` + `VERB` as adverb, such as _secara terpisah_ "separately", that consists of _secara_ "with" (`ADP`) + _terpisah_ "separated" (`VERB`).  
-  * [cc:preconj](), such as in _baik Mongolia maupun Tingkok_ "both Mongolia and China", _baik_ "both" is considered as preconjunct.
-  * [compound:a]() for adjective compounds, such as: _luar biasa_ "extraordinary", _besar hati_ "heartened"
+  * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah and , pun_ that emphasize other words. 
+  * [case:adv]() for adposition ([ADP]()) that together with its following word of [ADJ]()/[VERB]()/[NOUN]() serve as an adverb. 
+  * [cc:preconj]() for  word _baik_ in clause _baik A maupun B_ "both A and B".
+  * [compound:a]() for adjective compounds
   * [csubj:pass]() for clausal subjects of passive verbs.
   * [flat:foreign]() to label sequences of foreign words.
   * [flat:name]() to label sequences of names of PROPN-PROPN pairs.
-  * [nmod:lmod]() for locative nouns. In Indonesian, _dalam_ "in/inside", _luar_ "out/outside" are considered as locative nouns. For noun phrases like _dalam ruangan_ "in a/the room", locative noun is annotated as the dependent of the noun phrase that it modify. This deprel has a _head-final_ direction, different with `nmod` that has a _head-initial_ direction.
-  * [nmod:poss]() for possessive relationship between `NOUN/PROPN` and another `NOUN/PROPN`. For example, in _istri Trump_ "Trump's wife", token Trump will be given deprel `nmod:poss`.
-  * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. For example, in _pengeluaran **tahun ini**_ "**this year** spending", _tahun ini_ "this year" modifies _pengeluaran_ "spending", and the head of this phrase, _tahun_ "year" will be annotated as the dependent of _pengeluaran_ "spending" with the deprel `nmod:tmod`.
-  * [nsubj:pass]() for nominal subjects of passive verbs
-  * [obl:agent]() for agents of passive verbs
-  * [obl:tmod]() for head of time-related noun phrases that depend on a `VERB/ADJ`. For example, in _**Kali ini** saya setuju._ "**This time** I agree.", _kali ini_ "this time" describes the predicate _setuju_ "agree", and the head of this noun phrase, _kali_ "time", will be annotated as the dependent of _setuju_ "agree" with the deprel `obl:tmod`
+  * [nmod:lmod]() for locative nouns. 
+  * [nmod:poss]() for possessive relationship.
+  * [nmod:tmod]() for temporal modifier that becomes dependent of a noun phrase. 
+  * [nsubj:pass]() for nominal subjects of passive verbs.
+  * [obl:agent]() for agents of passive verbs.
+  * [obl:tmod]() for temporal modifier that describes a `VERB/ADJ`.
   
 * Universal deprel [clf]() is relevant for Indonesian. This label is used in the Indonesian-CSUI treebank but not represented in the Indonesian-PUD.
 

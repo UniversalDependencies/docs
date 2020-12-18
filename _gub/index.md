@@ -12,6 +12,29 @@ udver: '2'
 * According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words);
 * There are no adjectives in Tupinambá. Modification is made by composition, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ* (*kuɲã* 'woman' + *poraŋ* 'beauty'). Such words are treated as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation).
 
+Mapping UPOS to XPOS Guajajara
+
+ UPOS | XPOS |
+:----: | :------: |
+ ADJ   | adj      |
+ ADV   | adv      |
+ INTJ  | intj     |
+ NOUN  | n        |
+ PROPN | ppn      |
+ VERB  | v, vi, vt|
+ ADP   | pp       |
+ AUX   | aux      |
+ CCONJ | cc       |
+ DET   | det      |
+ NUM   | num      |
+ PART  | pcl      |
+ PRON  | pro      |
+ SCONJ | sc       |
+ PUNCT | punct    |
+ SYM   | sym      |
+ X     | x        |
+
+
 ---
 
 ## Morphology
