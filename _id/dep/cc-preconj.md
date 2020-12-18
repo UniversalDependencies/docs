@@ -15,7 +15,7 @@ This deprel is used in Indonesian grammar for word _baik_ in clause _baik A maup
 Baik Jakarta maupun Bandung sama macet nya . \n Both Jakarta and Bandung are equally congested .
 cc:preconj(Jakarta, Baik)
 nsubj(macet, Jakarta)
-root(macet, root)
+root(ROOT, macet)
 cc(Bandung, maupun)
 conj(Bandung, Jakarta)
 advmod(sama, macet)
@@ -28,6 +28,7 @@ Baik saat masih hidup maupun setelah wafat . \n Both while alive and after death
 cc:preconj(Baik, hidup)
 mark(hidup, saat)
 advmod(hidup, masih)
+root(ROOT, hidup)
 cc(wafat, maupun)
 mark(wafat, setelah)
 punct(hidup, .)
