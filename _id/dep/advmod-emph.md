@@ -22,7 +22,7 @@ punct(pelaku, .)
 ~~~
 
 ~~~ sdparse
-ROOT Berapa kah harga nya ? \n How much doest it cost ?
+ROOT Berapa kah harga nya ? \n How-much (does) it cost ?
 advmod(Berapa, harga)
 advmod:emph(Berapa, kah)
 root(ROOT, harga)
@@ -31,7 +31,7 @@ punct(harga, ?)
 ~~~
 
 ~~~ sdparse
-ROOT Tidak seorang pun peduli . \n No one care .
+ROOT Tidak seorang pun peduli . \n No one cares .
 advmod(Tidak, seorang)
 advmod:emph(seorang, pun)
 root(ROOT, peduli)
