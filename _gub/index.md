@@ -18,7 +18,7 @@ udver: '2'
 
 ## Morphology
 
-* Tupinambá nouns are not marked for gender. Number is optionally marked.
+* Guajajara nouns are not marked for gender. Number is optionally marked.
 * Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra` and `Loc`. There different locatives, which areasigned the following features: `Case=LocPunc` (punctual locative), `CASE=LocDif` (diffuse locative).
 * What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to the nominalization of a predicate and the fronting of an adverbial expression. The nominalized form of the verb takes `Nomz=Circ` as feature and value.
 
