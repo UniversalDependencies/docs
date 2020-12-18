@@ -164,10 +164,10 @@ udver: '2'
   * [flat:name]() to label sequences of names of PROPN-PROPN pairs.
   * [nmod:lmod]() for locative nouns. 
   * [nmod:poss]() for possessive relationship.
-  * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. 
-  * [nsubj:pass]() for nominal subjects of passive verbs
-  * [obl:agent]() for agents of passive verbs
-  * [obl:tmod]() for head of time-related noun phrases that depend on a `VERB/ADJ`.
+  * [nmod:tmod]() for temporal modifier that becomes dependent of a noun phrase. 
+  * [nsubj:pass]() for nominal subjects of passive verbs.
+  * [obl:agent]() for agents of passive verbs.
+  * [obl:tmod]() for temporal modifier that describes a `VERB/ADJ`.
   
 * Universal deprel [clf]() is relevant for Indonesian. This label is used in the Indonesian-CSUI treebank but not represented in the Indonesian-PUD.
 
