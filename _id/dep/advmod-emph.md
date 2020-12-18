@@ -13,7 +13,7 @@ This deprel is used in Indonesian grammar for foregrounding particles such as cl
 
 
 ~~~ sdparse
-ROOT Dia lah pelaku nya . \n He is the culprit .
+ROOT Dia lah pelaku nya . \n He-is the culprit .
 nsubj(pelaku, Dia)
 advmod:emph(Dia, lah)
 root(ROOT, pelaku)
