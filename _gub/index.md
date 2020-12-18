@@ -12,11 +12,13 @@ udver: '2'
 * According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words);
 * There are no adjectives in Tupinambá. Modification is made by composition, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ* (*kuɲã* 'woman' + *poraŋ* 'beauty'). Such words are treated as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation).
 
+
+
 ---
 
 ## Morphology
 
-* Tupinambá nouns are not marked for gender. Number is optionally marked.
+* Guajajara nouns are not marked for gender. Number is optionally marked.
 * Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra` and `Loc`. There different locatives, which areasigned the following features: `Case=LocPunc` (punctual locative), `CASE=LocDif` (diffuse locative).
 * What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to the nominalization of a predicate and the fronting of an adverbial expression. The nominalized form of the verb takes `Nomz=Circ` as feature and value.
 
@@ -25,10 +27,32 @@ udver: '2'
 
 This is an overview only. For more detailed discussion and examples, see the list of [Czech POS tags](pos/index.html) and [Czech features](feat/index.html).
 
-* Tupinambá uses 16 of the 17 universal POS categories. [ADJ](https://universaldependencies.org/u/pos/ADJ.html) is not used.
-* The copula with non-verbal predicates.
+* Guajajara uses 16 of the 17 universal POS categories. [ADJ](https://universaldependencies.org/u/pos/ADJ.html) is not used.
 * The (de)verbal forms used, are: infinitive `Inf`, finite verb `Fin`, tagged, converb `Conv`, gerund `Ger`.
-* Since Tupinambá is an omnipredicative language, the referential, marker (a  ̴ ∅) is treated as Case (`Case=Ref`) in the treebank, despite its function, which is nothing like that of nominal cases. This marker allows lexeical roots to function as arguments of predicates.
+
+
+Mapping UPOS to XPOS Guajajara
+
+ UPOS | XPOS |
+:----: | :------: |
+ ADV   | adv      |
+ INTJ  | intj     |
+ NOUN  | n        |
+ PROPN | ppn      |
+ VERB  | v, vi, vt|
+ ADP   | pp       |
+ AUX   | aux      |
+ CCONJ | cc       |
+ DET   | det      |
+ NUM   | num      |
+ PART  | pcl      |
+ PRON  | pro      |
+ SCONJ | sc       |
+ PUNCT | punct    |
+ SYM   | sym      |
+ X     | x        |
+
+
 
 ---
 
