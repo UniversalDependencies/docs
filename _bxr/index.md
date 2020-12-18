@@ -55,6 +55,9 @@ udver: '2'
   * If combined with a nominal in the comitative case, its meaning is possessively existential,
     corresponding to English “have”: _Хүзүүбшэ улан үнгэтэй байгаа._ / _Xüzüübše ulan üngetey baygaa._
     lit. “neck red fox.with is” = “The red fox has a neck.”
+* Buryat uses the following language-specific dependency relation subtypes:
+  * [nmod:own](/bxr/dep/nmod-own.html) for the owner in existential possessive clauses
+  * [advmod:neg](/bxr/dep/advmod-neg.html) for negative particles
 
 ## Treebanks
 
