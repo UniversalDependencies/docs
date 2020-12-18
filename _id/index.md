@@ -157,13 +157,13 @@ udver: '2'
   * [acl:relcl]() for relative clauses that modify a noun phrase. In Indonesian, relative clauses usually use _yang_ as the subject of the clause.
   * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah and , pun_ that emphasize other words. 
   * [case:adv]() for adposition ([ADP]()) that together with its following word of [ADJ]()/[VERB]()/[NOUN]() serve as an adverb. 
-  * [cc:preconj](), such as in _baik Mongolia maupun Tingkok_ "both Mongolia and China", _baik_ "both" is considered as preconjunct.
-  * [compound:a]() for adjective compounds, such as: _luar biasa_ "extraordinary".
+  * [cc:preconj]() for  word _baik_ in clause _baik A maupun B_ "both A and B".
+  * [compound:a]() for adjective compounds
   * [csubj:pass]() for clausal subjects of passive verbs.
   * [flat:foreign]() to label sequences of foreign words.
   * [flat:name]() to label sequences of names of PROPN-PROPN pairs.
   * [nmod:lmod]() for locative nouns. 
-  * [nmod:poss]() for possessive relationship between `NOUN/PROPN` and another `NOUN/PROPN`. For example, in _istri Trump_ "Trump's wife", token Trump will be given deprel `nmod:poss`.
+  * [nmod:poss]() for possessive relationship.
   * [nmod:tmod]() for the head of time-related noun phrases that becomes dependent of a noun phrase. For example, in _pengeluaran **tahun ini**_ "**this year** spending", _tahun ini_ "this year" modifies _pengeluaran_ "spending", and the head of this phrase, _tahun_ "year" will be annotated as the dependent of _pengeluaran_ "spending" with the deprel `nmod:tmod`.
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
