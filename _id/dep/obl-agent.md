@@ -12,21 +12,24 @@ dibentuk oleh kekuatan tektonik \n shaped by tectonic forces
 obl:agent(dibentuk, kekuatan)
 case(kekuatan, oleh)
 nmod(kekuatan, tektonik)
+obl:agent(shaped, forces)
 ~~~
 
 ~~~ sdparse
-buku yang disukai nya \n the-book that loved by-him
+buku yang disukai nya \n the-book that loved by him
 acl:relcl(buku, disukai)
 mark(disukai, yang)
 obl:agent(disukai, nya)
+obl:agent(loved, him)
 ~~~
 
 ~~~ sdparse
-Ia telah diingatkan Ibu sebelumnya . \n She had been-warned by-Mother before .
+Ia telah diingatkan Ibu sebelumnya . \n She had been warned by Mother before .
 nsubj:pass(Ia, diingatkan)
 advmod(diingatkan, telah)
 obl:agent(diingatkan, Ibu)
 advmod(diingatkan, sebelumnya)
 punct(diingatkan, .)
+obl:agent(warned, Mother)
 ~~~
 
