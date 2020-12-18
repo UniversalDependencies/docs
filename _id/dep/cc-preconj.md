@@ -12,7 +12,7 @@ This deprel is used in Indonesian grammar for word _baik_ in clause _baik A maup
 
 
 ~~~ sdparse
-Baik Jakarta maupun Bandung sama macet nya . \n Both Jakarta and Bandung are equally congested .
+ROOT Baik Jakarta maupun Bandung sama macet nya . \n Both Jakarta and Bandung are equally congested .
 cc:preconj(Jakarta, Baik)
 nsubj(macet, Jakarta)
 root(ROOT, macet)
@@ -24,7 +24,7 @@ punct(macet, .)
 ~~~
 
 ~~~ sdparse
-Baik saat masih hidup maupun setelah wafat . \n Both while alive and after death .
+ROOT Baik saat masih hidup maupun setelah wafat . \n Both while alive and after death .
 cc:preconj(Baik, hidup)
 mark(hidup, saat)
 advmod(hidup, masih)
