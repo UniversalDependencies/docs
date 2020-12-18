@@ -22,7 +22,7 @@ obl:agent(disukai, nya)
 ~~~
 
 ~~~ sdparse
-Ia telah diingatkan Ibu sebelumnya . \n She had-been warned by-Mother before .
+Ia telah diingatkan Ibu sebelumnya . \n She had been-warned by-Mother before .
 nsubj:pass(Ia, diingatkan)
 advmod(diingatkan, telah)
 obl:agent(diingatkan, Ibu)
