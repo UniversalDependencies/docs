@@ -12,7 +12,7 @@ Examples of the used of deprel [nmod:tmod]() in Indonesian:
 
 
 ~~~ sdparse
-pengeluan tahun ini \n expenditure this year
+pengeluaran tahun ini \n expenditure this year
 nmod:tmod(pengeluaran, tahun)
 det(tahun, ini)
 ~~~
