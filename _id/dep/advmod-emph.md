@@ -13,25 +13,28 @@ This deprel is used in Indonesian grammar for foregrounding particles such as cl
 
 
 ~~~ sdparse
-Dia lah pelaku nya . \n He is the culprit .
+ROOT Dia lah pelaku nya . \n He is the culprit .
 nsubj(pelaku, Dia)
 advmod:emph(Dia, lah)
+root(ROOT, pelaku)
 det(pelaku, nya)
 punct(pelaku, .)
 ~~~
 
 ~~~ sdparse
-Berapa kah harga nya ? \n How much doest it cost ?
+ROOT Berapa kah harga nya ? \n How much doest it cost ?
 advmod(Berapa, harga)
 advmod:emph(Berapa, kah)
+root(ROOT, harga)
 det(harga, nya)
 punct(harga, ?)
 ~~~
 
 ~~~ sdparse
-Tidak seorang pun peduli . \n No one care .
+ROOT Tidak seorang pun peduli . \n No one care .
 advmod(Tidak, seorang)
 advmod:emph(seorang, pun)
+root(ROOT, peduli)
 nsubj(peduli, seorang)
 punct(peduli, .)
 ~~~
