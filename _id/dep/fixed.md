@@ -28,10 +28,10 @@ nummod(plants, 500-9)
 
 ~~~ sdparse
 kurang lebih 100 orang \n approximately 100 people
-advmod(kurang, 100)
+advmod(100-3, kurang)
 fixed(kurang, lebih)
-nummod(orang, 100)
-advmod(100, approximately)
+nummod(orang, 100-3)
+advmod(100-7, approximately)
 ~~~
 
 ~~~ sdparse
