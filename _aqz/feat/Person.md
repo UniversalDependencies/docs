@@ -23,7 +23,7 @@ First Person: o=
 
 #### Examples
 
-* _<b>o=pi</b>&nbsp;_ “my foot”
+* _<b>o=ø-pi</b>&nbsp;_ “my foot”
 
 * _<b>o=et-a</b>&nbsp;_ “I sleep”
 
