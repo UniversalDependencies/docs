@@ -21,12 +21,9 @@ udver: '2'
 
 #### Examples
 
-* _<b>ʃe=r-uβ</b>&nbsp;_ “I have a father / There is my father”
+* _<b>nako kwiɾi tʃã-ka</b>&nbsp;_ “Men are kneading (with a powder) the açaí”
 
-
-
-
-
+* _<b>en i=wip-ka</b>&nbsp;_ “You made it slide (from the hammock to the floor)”
 
 
 
