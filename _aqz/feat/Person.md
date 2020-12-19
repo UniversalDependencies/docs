@@ -17,35 +17,39 @@ udver: '2'
 
 `Person`  
 
-### <a name="1">`1`</a>: contiguous
+### <a name="1">`1`</a>: Person=1
 
-Contiguity is more often associated with
-
-#### Examples
-
-* _<b>ʃe=r-uβ</b>&nbsp;_ “I have a father / There is my father”
-
-
-
-
-
-### <a name="2">`2`</a>: contiguous
-
-Contiguity is more often associated with
+First Person: o=
 
 #### Examples
 
-* _<b>ʃe=r-uβ</b>&nbsp;_ “I have a father / There is my father”
+* _<b>o=ø-pi</b>&nbsp;_ “my foot”
+
+* _<b>o=et-a</b>&nbsp;_ “I sleep”
 
 
-### <a name="3">`3`</a>: contiguous
 
-Contiguity is more often associated with
+### <a name="2">`2`</a>: Person=2
+
+Second Person: e=
+
 
 #### Examples
 
-* _<b>ʃe=r-uβ</b>&nbsp;_ “I have a father / There is my father”
+* _<b>e=ø-pi</b>&nbsp;_ “your foot”
 
+* _<b>e=et-a</b>&nbsp;_ “You sleep”
+
+
+### <a name="3">`3`</a>: Person=3
+
+Third person: i=/t=
+
+#### Examples
+
+* _<b>i=ø-pi</b>&nbsp;_ “his/her foot”
+
+* _<b>on t=erepe</b>&nbsp;_ “I tie it”
 
 
 ## Diffs

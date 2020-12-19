@@ -14,6 +14,12 @@ nmod:poss(house, Budi-4)
 ~~~
 
 ~~~ sdparse
+anak presiden \n president 's son
+nmod:poss(anak, presiden)
+nmod:poss(son, president)
+~~~
+
+~~~ sdparse
 prestasi nya \n her achievement
 nmod:poss(prestasi, nya)
 nmod:poss(achievement, her)
@@ -25,8 +31,3 @@ nmod:poss(ibu, ku)
 nmod:poss(mother, my)
 ~~~
 
-~~~ sdparse
-anak presiden \n president 's son
-nmod:poss(anak, presiden)
-nmod:poss(son, president)
-~~~

@@ -14,33 +14,17 @@ udver: '2'
 </tr>
 </table>
 
-`Rel` is a morpheme that combines with lexical roots and postpositions. They signalize the 
-adjacency or contiguity (Rel=Cont) and non-adjacency or non-contiguity of head and depenent, 
-e.g., possessor-noun, object-postposition.
+`Rel` is a morpheme that combines with lexical roots and postpositions. They signalize the adjacency or contiguity (Rel=Cont) and non-adjacency or non-contiguity of head and depenent, e.g., possessor-noun, object-postposition. In Akuntsú, the relational only expresses possessive relation between two elements within the same phrase, i.e., it indicates whether the possessed noun is or is not contiguous to its possessor, functioning in this language as a possessive marker. This prefix is no longer productive in this language. 
 
 ### <a name="Cont">`Cont`</a>: contiguous
 
-Contiguity is more often associated with
+The only relationals found in Akuntsú are the contiguous: t- or ø-
 
 #### Examples
 
-* _<b>ʃe=r-uβ</b>&nbsp;_ “I have a father / There is my father”
-* _<b>ʃe=r-uβ-a</b>&nbsp;_ “My father”
+* _<b>o=t-ek</b>&nbsp;_ “My house”
+* _<b>o=ø-mepit</b>&nbsp;_ “My son”
 
-* _<b>nde=r-orɨβ</b>&nbsp;_ “you are happy / there is your happiness”
-* _<b>nde=r-orɨβ-a</b>&nbsp;_ “Your happiness”
-
-### <a name="NCont">`NCont`</a>: non-contiguous
-
-Non-contiguity is more often associated with
-
-#### Examples
-
-* _<b>t-uβ</b>&nbsp;_ “He has a father / there is his father”
-* _<b>t-uβ-a</b>&nbsp;_ “He is (a/the) father / ”
-
-* _<b>s-orɨβ</b>&nbsp;_ “(S)he/it is happy / there is her/his/its/their happiness”
-* _<b>s-orɨβ-a</b>&nbsp;_ “Her/his/their/its happiness”
 
 
 ## Diffs

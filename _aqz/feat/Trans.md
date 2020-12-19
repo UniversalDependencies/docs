@@ -14,20 +14,16 @@ udver: '2'
 </tr>
 </table>
 
-`Trans` the transitivizer ...
+`Trans` the transitivizer derives verbs from nouns and adjectives, functioning as a derivational suffix. The verbs that occur with the transitivizer are those that: (1) take no overt object; (2) require two obligatory arguments, that is, they have an object.
 
-### <a name="Yes">`Yes`</a>: contiguous
+### <a name="Yes">`Yes`</a>: Transitivizer
 
-Contiguity is more often associated with
 
 #### Examples
 
-* _<b>ʃe=r-uβ</b>&nbsp;_ “I have a father / There is my father”
+* _<b>nako kwiɾi tʃã-ka</b>&nbsp;_ “Men are kneading (with a powder) the açaí”
 
-
-
-
-
+* _<b>en i=wip-ka</b>&nbsp;_ “You made it slide (from the hammock to the floor)”
 
 
 
