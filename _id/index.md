@@ -154,9 +154,9 @@ udver: '2'
 ### Relations Overview
 
 * The following 14 relation subtypes could be used in Indonesian UD treebank:
-  * [acl:relcl]() for relative clauses that modify a noun phrase. In Indonesian, relative clauses usually use _yang_ as the subject of the clause.
+  * [acl:relcl]() for relative clauses that modify a noun phrase. 
   * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah and , pun_ that emphasize other words. 
-  * [case:adv]() for adposition ([ADP]()) that together with its following word of [ADJ]()/[VERB]()/[NOUN]() serve as an adverb. 
+  * [case:adv]() for adposition ([ADP]()) that is a dependent of [ADJ]()/[VERB](). 
   * [cc:preconj]() for  word _baik_ in clause _baik A maupun B_ "both A and B".
   * [compound:a]() for adjective compounds
   * [csubj:pass]() for clausal subjects of passive verbs.
@@ -164,10 +164,10 @@ udver: '2'
   * [flat:name]() to label sequences of names of PROPN-PROPN pairs.
   * [nmod:lmod]() for locative nouns. 
   * [nmod:poss]() for possessive relationship.
-  * [nmod:tmod]() for temporal modifier that becomes dependent of a noun phrase. 
+  * [nmod:tmod]() for temporal modifier of a noun phrase. 
   * [nsubj:pass]() for nominal subjects of passive verbs.
   * [obl:agent]() for agents of passive verbs.
-  * [obl:tmod]() for temporal modifier that describes a `VERB/ADJ`.
+  * [obl:tmod]() for temporal modifier for a [VERB]()/[ADJ]().
   
 * Universal deprel [clf]() is relevant for Indonesian. This label is used in the Indonesian-CSUI treebank but not represented in the Indonesian-PUD.
 
