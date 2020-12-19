@@ -5,11 +5,14 @@ shortdef: 'case marking to form adverbs'
 udver: '2'
 ---
 
-This deprel is a special class of [case]().
-While deprel 'case' is usually a nominal dependent, in Indonesian it also can be used to form adverbs. The tokens that can be labeled as _case:adv_ are preposition _secara_ "in a manner" and _dengan_ "with/in a manner of". These prepositions are followed by tokens with POS tags ADJ/VERB/NOUN that serve as their parents. For example:
-* _secara/dengan_ + ADJ: _dengan sengaja_ "purposely/intentionally" = _dengan_ "in a manner of" (ADP) + _sengaja_ "on purpose" (ADJ)
-* _secara/dengan_ + VERB: _secara terbuka_ "openly" = _secara_ "in a manner of" (ADP) + _terbuka_ "open" (VERB)
-* _secara/dengan_ + NOUN: _secara keseluruhan_ "overall" = _secara_ "in a manner of" (ADP) + _keseluruhan_ "whole" (NOUN)
+This deprel is a special class of [case](). While deprel 'case' is usually used for ADP as a nominal dependent, for this subtype ADP can be a dependent of ADJ or VERB and together with its parent, they form adverbs.
+
+In Indonesian grammar, we can use syntax _secara/dengan_ + ADJ/VERB/NOUN to form adverbs. For example:
+1. _secara/dengan_ + ADJ: _dengan sengaja_ "purposely/intentionally" = _dengan_ "in a manner of" (ADP) + _sengaja_ "on purpose" (ADJ)
+2. _secara/dengan_ + VERB: _secara terbuka_ "openly" = _secara_ "in a manner of" (ADP) + _terbuka_ "open" (VERB)
+3. _secara/dengan_ + NOUN: _secara keseluruhan_ "overall" = _secara_ "in a manner of" (ADP) + _keseluruhan_ "whole" (NOUN)
+
+Since we can not use deprel 'case' for syntax 1 and 2 for ADP + ADJ/VERB, we propose the use of subtype 'case:adv'. For syntax 3, we use the basic 'case'.
 
 
 ~~~ sdparse
@@ -33,6 +36,6 @@ case:adv(terbuka, secara)
 ~~~ sdparse
 menguntungkan secara keseluruhan \n beneficial as a whole
 obl(menguntungkan, keseluruhan)
-case:adv(keseluruhan, secara)
+case(keseluruhan, secara)
 ~~~
 
