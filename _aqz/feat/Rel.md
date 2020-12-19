@@ -22,7 +22,7 @@ The only relationals found in Akuntsú are the contiguous: t- or ø-
 
 #### Examples
 
-* _<b>e=ø-mepit</b>&nbsp;_ “My son”
+* _<b>o=ø-mepit</b>&nbsp;_ “My son”
 * _<b>o=t-ek</b>&nbsp;_ “My house”
 
 
