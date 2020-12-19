@@ -38,8 +38,6 @@ advmod(100-7, approximately)
 sering kali berakhir dengan pertengkaran \n often ending in a fight
 advmod(berakhir, sering)
 fixed(sering, kali)
-case(keributan, dengan)
-obl(berakhir, keributan)
 advmod(ending, often)
 ~~~
 
