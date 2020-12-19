@@ -153,6 +153,15 @@ udver: '2'
 
 ### Relations Overview
 
+* Among 37 universal dependency relations in UDv2, 33 deprels are respresented in the Indonesian-PUD and Indonesian-CSUI treebank
+* The following universal delrel are not represented in both the Indonesian-PUD and Indonesian-CSUI:
+  * `dep`
+  * `expl`
+  * `list`
+  * `reparandum`
+* We provide additional docummentation with examples in Indonesian for some of universal deprels:
+  * [clf]()
+
 * The following 14 relation subtypes could be used in Indonesian UD treebank:
   * [acl:relcl]() for relative clauses that modify a noun phrase. 
   * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah and , pun_ that emphasize other words. 
@@ -169,13 +178,6 @@ udver: '2'
   * [obl:agent]() for agents of passive verbs.
   * [obl:tmod]() for temporal modifier for a [VERB]()/[ADJ]().
   
-* Universal deprel [clf]() is relevant for Indonesian. This label is used in the Indonesian-CSUI treebank but not represented in the Indonesian-PUD.
-
-* The following universal delrel are not represented in both the Indonesian-PUD and Indonesian-CSUI:
-  * `dep`
-  * `expl`
-  * `list`
-  * `reparandum`
   
 ## Remark
 This Indonesian documentation is applied only to the Indonesian-PUD and the Indonesian-CSUI treebank. The Indonesian-GSD does not conform to these guidelines.
