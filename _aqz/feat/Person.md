@@ -17,15 +17,15 @@ udver: '2'
 
 `Person`  
 
-### <a name="1">`1`</a>: contiguous
+### <a name="1">`1`</a>: First Person
 
-Contiguity is more often associated with
+Person=1
 
 #### Examples
 
-* _<b>ʃe=r-uβ</b>&nbsp;_ “I have a father / There is my father”
+* _<b>o-pi</b>&nbsp;_ “my foot”
 
-
+* _<b>o-et-a</b>&nbsp;_ “I sleep”
 
 
 
