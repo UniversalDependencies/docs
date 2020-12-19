@@ -56,8 +56,21 @@ udver: '2'
     corresponding to English “have”: _Хүзүүбшэ улан үнгэтэй байгаа._ / _Xüzüübše ulan üngetey baygaa._
     lit. “neck red fox.with is” = “The red fox has a neck.”
 * Buryat uses the following language-specific dependency relation subtypes:
-  * [nmod:own](/bxr/dep/nmod-own.html) for the owner in existential possessive clauses
   * [advmod:neg](/bxr/dep/advmod-neg.html) for negative particles
+
+In Buryat, possessive existential sentences (e.g., “I have a book”) are non-verbal:
+“To me (dative), [there is] a book.”
+The owner is in the dative case and is analyzed as the predicate; the possessed thing is the subject.
+
+~~~ sdparse
+Мааттида шэнэ түмэр морин . \n Maattida šene tümer morin . \n to.Maatti new iron horse .
+nsubj(Мааттида, морин)
+amod(морин, шэнэ)
+compound(морин, түмэр)
+punct(Мааттида, .-5)
+~~~
+
+“Maatti has a new car.”
 
 ## Treebanks
 
