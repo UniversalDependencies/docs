@@ -53,12 +53,12 @@ advmod(disagree, totally)
 
 ~~~ sdparse
 antara lain buku pengetahuan dan agama \n such as books of knowledge and religion
-case(antara, buku)
+case(buku, antara)
 fixed(antara, lain)
 nmod(buku, pengetahuan)
 conj(pengetahuan, agama)
 cc(dan, agama)
-case(such, books)
+case(books, such)
 fixed(such, as)
 ~~~
 
