@@ -156,7 +156,7 @@ udver: '2'
 * The following 14 relation subtypes could be used in Indonesian UD treebank:
   * [acl:relcl]() for relative clauses that modify a noun phrase. 
   * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah and , pun_ that emphasize other words. 
-  * [case:adv]() for adposition ([ADP]()) that is a dependent of [ADJ]()/[VERB](). 
+  * [case:adv]() for adposition ([ADP]()) that is not a nomimal dependent.
   * [cc:preconj]() for  word _baik_ in clause _baik A maupun B_ "both A and B".
   * [compound:a]() for adjective compounds
   * [csubj:pass]() for clausal subjects of passive verbs.
