@@ -36,7 +36,7 @@ Second Person: e=
 
 #### Examples
 
-* _<b>e=pi</b>&nbsp;_ “your foot”
+* _<b>e=ø-pi</b>&nbsp;_ “your foot”
 
 * _<b>e=et-a</b>&nbsp;_ “You sleep”
 
@@ -47,7 +47,7 @@ Third person: i=/t=
 
 #### Examples
 
-* _<b>i=pi</b>&nbsp;_ “his/her foot”
+* _<b>i=ø-pi</b>&nbsp;_ “his/her foot”
 
 * _<b>on t=erepe</b>&nbsp;_ “I tie it”
 
