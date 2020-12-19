@@ -35,11 +35,12 @@ advmod(100-7, approximately)
 ~~~
 
 ~~~ sdparse
-sering kali berakhir dengan keributan \n often often ending in a fuss
+sering kali berakhir dengan pertengkaran \n often ending in a fight
 advmod(berakhir, sering)
 fixed(sering, kali)
 case(keributan, dengan)
 obl(berakhir, keributan)
+advmod(ending, often)
 ~~~
 
 ~~~ sdparse
