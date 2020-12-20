@@ -20,13 +20,14 @@ udver: '2'
 
 ### <a name="Hum">`Hum`</a>: Human
 
-is used for the referential marker (also called argumentative). It allows lexical roots, all of which are predicates 
-in Tupinambá, to funcion as arguments of predicates or allow them to be referential.
-
+The feature `Poss` is similar to the feature [`Rel`](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Rel.md), but it indicates that the dependent of the head - possessor in case of a noun -- is human.
 #### Examples
 
 * _<b>posang-a</b>&nbsp;_ “Medicine”
 * _<b>m.osang-a</b>&nbsp;_ “Medicine (for a person)”
+
+* _<b>po</b>&nbsp;_ “hand”
+* _<b>m(b)o</b>&nbsp;_ “Hand of a person” (HUM.hand)
 
 
   
