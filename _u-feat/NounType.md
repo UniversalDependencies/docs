@@ -5,17 +5,19 @@ shortdef: 'noun type'
 udver: '2'
 ---
 
-We already split common and proper nouns at the level of POS
-tags but some tagsets mark other distinctions.
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Clf">Clf</a></td>
+</tr>
+</table>
 
-### <a name="Class">`Class`</a>: classifier
+We already split common and proper nouns at the level of UPOS tags but some tagsets mark
+other distinctions.
 
-Chinese classifiers between cardinal numbers and nouns.
+### <a name="Clf">`Clf`</a>: classifier
 
-Note that this
-is the only value of NounType. Interset also has the values “com” and
-“prop” but in Universal Dependencies these two are distinguished
-already at the level of POS tags.
+Chinese classifiers between cardinal numbers and nouns, or between determiners and nouns.
 
 #### Examples
 
