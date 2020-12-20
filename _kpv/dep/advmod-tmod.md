@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'advmod:tmod'
-shortdef: 'advmod:tmod'
+shortdef: 'advmod with temporal modality'
 udver: '2'
 ---
 

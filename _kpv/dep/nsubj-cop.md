@@ -2,6 +2,7 @@
 layout: relation
 title:  'nsubj:cop'
 shortdef : 'nominal copular subject'
+udver: '2'
 ---
 
 The dependency type `nsubj:cop` is used for the nominal subject

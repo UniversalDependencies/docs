@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'obl:lmod'
-shortdef: 'obl:lmod'
+shortdef: 'oblique with locative modality'
 udver: '2'
 ---
 

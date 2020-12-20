@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'advmod:lmod'
-shortdef: 'advmod:lmod'
+shortdef: 'advmod with locative modality'
 udver: '2'
 ---
 
