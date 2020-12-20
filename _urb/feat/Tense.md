@@ -21,7 +21,7 @@ Thus, in terms of tense, Ka'apor is a future/non-future language.
 
 ### <a name="Fut">`Fut`</a>: Future tense
 
-The example below has the clitic *ta* indicating the plural number.
+The example below has the clitic *ta* indicating the future tense.
 
 #### Examples
 
