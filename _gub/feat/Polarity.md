@@ -17,7 +17,7 @@ udver: '2'
 
 `Polarity` is a feature found in verbs and adverbs of Guajajara
 
-### <a name="Neg">Neg</a>: Negative
+### <a name="Neg">`Neg`</a>: negative
 
 #### Examples
 
