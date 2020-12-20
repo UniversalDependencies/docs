@@ -9,8 +9,9 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Prs">Prs</a></td>
-  <td><a href="#Loc">Loc</a></td>
-  <td><a href="#Tra">Tra</a></td>
+  <td><a href="#Dem">Dem</a></td>
+  <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Int">Int</a></td>
   
   
 
@@ -49,6 +50,14 @@ udver: '2'
 
 * _<b>amo awa</b>&nbsp;_ “some men”
 
+
+### <a name="Int">`Int`</a>: Interrogative
+
+
+
+#### Examples
+
+* _<b>Mo</b>&nbsp;_ “Who?”
 
 
 ## Diffs
