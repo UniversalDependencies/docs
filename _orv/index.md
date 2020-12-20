@@ -64,8 +64,9 @@ At the moment, the Aspect and Analyt features are tagged only in some parts of t
   * Abbr (Yes)
 
 * Language-specific features include:
-  * Analyt (Yes)
-  * Variant (Short)
+  * [Analyt]() (Yes) is a marker of the analytic verb forms 
+  * [Variant]() distinguishes short and long forms of adjectives.
+
 
 ## Syntax
 
