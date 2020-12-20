@@ -19,7 +19,7 @@ marked by the particle *ta*. The distinction between present and past tense can 
 Thus, in terms of tense, Ka'apor is a future/non-future language.
 
 
-### <a name="Fut">`Fut`</a>: contiguous
+### <a name="Fut">`Fut`</a>: Future tense
 
 The example below has the root *ta* indicating the plural number.
 
