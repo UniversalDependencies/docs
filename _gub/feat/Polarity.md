@@ -21,7 +21,7 @@ udver: '2'
 
 #### Examples
 
-* _<b>n-u-Z-apo</b>&nbsp;_ “He doesn't do" (NEG-3-Z-do)”
+* _<b>n-u-Z-apo</b>&nbsp;_ “He doesn't do" 
 
 
 
