@@ -5,11 +5,19 @@ shortdef: 'form of verb or deverbative'
 udver: '2'
 ---
 
-Even though the name of the feature seems to suggest that it is used
-exclusively with [verbs](ru-pos/VERB), it is not the case.
-The `Part` value can be used also with [adjectives](ru-pos/ADJ).
-It distinguishes participles from other verb forms,
-and participial adjectives from other adjectives.
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Conv">Conv</a></td>
+  <td><a href="#Fin">Fin</a></td>
+  <td><a href="#Inf">Inf</a></td>
+  <td><a href="#Part">Part</a></td>
+  <td><a href="#PartRes">PartRes</a></td>
+</tr>
+</table>
+
+The feature is used exclusively with [verbs](orv-pos/VERB) and [auxiliaries](orv-pos/VERB). 
+Participles are treated as [verbs](orv-pos/VERB) and not [adjectives](orv-pos/ADJ) in Russian treebanks.
 
 ### <a name="Fin">`Fin`</a>: finite verb
 
@@ -66,8 +74,7 @@ Perfective verbs form past transgressive, meaning “having done”.
 - _неся;“carrying”)
 - _принеся_ &nbsp;“having brought”
 
-- _они смотреля на меня <b>держа</b> ружья;_ “they
-  stared at me <b>while gripping</b> their guns”
+- _собака подошла ко мне <b>виляя</b> хвостом;_ “the dog came to me <b>wagging</b> its tail”
 - _<b>приготовив</b> обед, она позвала семью к столу;_ “<b>having
   prepared</b> the dinner, she called her family to the table”
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
