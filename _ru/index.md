@@ -51,7 +51,7 @@ The following feature subtypes are used in Russian:
 
 * [Variant]() distinguishes short and long forms of adjectives.
 
-The following universal features are not used in Russian: [Clusivity](), [Definite](), [Evident](), [NounClass](), [Polite](),  [Poss](), [PronType]().
+The following universal features are not used in Russian: [Clusivity](), [Definite](), [Evident](), [NounClass](), [Polite]().
 
 ## Syntax
 
