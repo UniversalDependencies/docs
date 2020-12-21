@@ -1,25 +1,25 @@
 ---
 layout: feature
-title: 'Aspect'
-shortdef: 'aspect'
+title: 'Dimin'
+shortdef: 'diminutive'
 udver: '2'
 ---
 
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Prog">Prog</a></td>
+  <td><a href="#Yes">Yes</a></td>
   
   
 
 </tr>
 </table>
 
-`Aspect`  
+`Dimin`  
 
-### <a name="Prog">`Prog`</a>: Progressive 
+### <a name="Yes">`Yes`</a>: Yes 
 
-It is used to signal the instrument with which an action was performed.
+Diminutive *a'i* is a noun modifier always bound to its host.
 
 #### Examples
 
