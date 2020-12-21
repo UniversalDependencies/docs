@@ -19,20 +19,15 @@ udver: '2'
 other parts of speech ([adjectives](orv-pos/ADJ), [determiners](orv-pos/DET),
 [verbs](orv-pos/VERB)) that mark agreement with nouns.
 
-### <a name="Adnum">`Adnum`</a>: adnumeral form 
-
-In the Middle Russian and Ruthenian, the adnumeral form is used in the construction with (mostly) paucal numerals. 
-Sometimes it can be assosiated with old dual forms, sometimes - with modern genitive singular forms, and sometimes 
-unique forms are used. Since the adnumeral construction calls for further investigation, all noun and adjective forms  
-the use of which is governed by numerals are marked `Adnum`. 
 
 ### <a name="Sing">`Sing`</a>: singular number
 
 A singular noun denotes one person, animal or thing.
 
-### <a name="Plur">`Plur`</a>: plural number
+#### Examples
 
-A plural noun denotes several persons, animals or things.
+* _<b>вьсѧ новгородьскаꙗ область</b>&nbsp;_ “all Novgorod region”
+
 
 ### <a name="Dual">`Dual`</a>: dual number
 
@@ -42,8 +37,35 @@ by the end of the Middle Russian/Old Ukrainian/Old Belarusian period with the ex
 of some fossilized expressions. As the inflectional paradigm was restructured, some dual 
 endings were reused as either singular or plural endings.
 
+#### Examples
+
+* _<b>оба багряная стлъпа погасоста</b>&nbsp;_ “both crimson pillars went out”
+
+
+### <a name="Plur">`Plur`</a>: plural number
+
+A plural noun denotes several persons, animals or things.
+
+#### Examples
+
+* _<b>блг҃овѣрныи хрстїѧне</b>&nbsp;_ “faithful Christians”
+
+
+### <a name="Adnum">`Adnum`</a>: adnumeral form 
+
+In the Middle Russian and Ruthenian, the adnumeral form is used in the construction with (mostly) paucal numerals. 
+Sometimes it can be assosiated with old dual forms, sometimes - with modern genitive singular forms, and sometimes 
+unique forms are used. Since the adnumeral construction calls for further investigation, all noun and adjective forms  
+the use of which is governed by numerals are marked `Adnum`. 
+
+#### Examples
+
+* _<b>на обе стороне</b>&nbsp;_ “on both sides”
+
+
+
 ## Diffs
 
-### TOROT
+#### TOROT
 
 `Adnum` is not used in the TOROT tagset.

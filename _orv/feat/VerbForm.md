@@ -24,25 +24,43 @@ Participles are treated as [verbs](orv-pos/VERB) and not [adjectives](orv-pos/AD
 Rule of thumb: if it has non-empty [Mood](), it is finite.
 In East Slavic this applies to indicative and imperative forms.
 
+#### Examples
+
+- _да ѧзъ ти тѹ <b>сѣжѹ</b>_ &nbsp;“I sit here”
+
+
 ### <a name="Inf">`Inf`</a>: infinitive
 
 Infinitive is the citation form of verbs.
 It is also used with the auxiliary _быти_ to form periphrastic future tense,
 and it appears as the argument of modal and other verbs.
 
+#### Examples
+
+- _велѣно <b>сбирать</b> пошлины_ &nbsp;“it was ordered to collect the fee”
+
+
 ### <a name="Part">`Part`</a>: participle
 
 Participle is a non-finite verb form that shares properties of verbs
 and adjectives. Old East Slavic has two types of participles:
 
-- The active past participle
+- The active present and past participle
   is used to form the active voice.
-- The passive participle
+- The passive present and past participle
   is used to form the passive voice.
 
 Participles inflect for [Gender]() and [Number]() but not for [Person]().
 
-### <a name="PartRes">`Part`</a>: resultative participle, l-form
+#### Examples
+
+- _добре <b>правяй</b> скипетро_ &nbsp;“properly governing scepter”
+- _<b>писавы</b>_ &nbsp;“who wrote”
+- _<b>любимъ</b> отьцемъ_ &nbsp;“he is loved by his father”
+- _<b>велѣно</b> сбирать пошлины_ &nbsp;“it was ordered to collect the fee”
+
+
+### <a name="PartRes">`PartRes`</a>: resultative participle, l-form
 
 This is a special case of participles. The value `PartRes` reflects the use of the l-form as transitional 
 from perfective/resultative participle in Old Russian to the simple past form in Modern Russian, Belarussian and Ukrainian. 
@@ -68,7 +86,15 @@ Imperfective verbs form present converb, meaning “while doing”.
 
 Perfective verbs form past converb, meaning “having done”.
 
+#### Examples
+
+- _<b>будучи</b> головою_ &nbsp;“being the head”
+- _и вы_, _то <b>услышавъ</b>_, _тои товаръ отъималѣ</b>_ &nbsp;“and you, hearing (having heard) this, took away that product”
+
+
 ## Diff 
 
 In the TOROT treebank, l-forms are annotated as `VerbForm=Part` and `Aspect=Res`. 
 In the Old Russian-RNC and Ruthenian treebanks , l-forms are annotated as `VerbForm=PartRes`, `Tense=Past`, and `Aspect=Imp` or `Aspect=Perf`, depending their aspect. 
+
+Converbs are annotated as participles in TOROT. (These forms originate in the Proto-Slavic participles but are interpreted as adverbial forms in later texts, see Zalizniak 2004, Lyashevskaya 2010). 

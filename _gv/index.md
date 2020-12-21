@@ -153,11 +153,12 @@ In addition, there are six subtype relations represented as well;
 all but `flat:foreign` are used in the Irish treebank.
 
 * `acl:relcl` for relative clauses
-* `csubj:cleft` for cleft subjects
-* `csubj:cop` for copular clausal subjects
+* [case:voc]() for vocative particles
+* [csubj:cleft]() for cleft subjects
+* [csubj:cop]() for copular clausal subjects
 * `flat:foreign` for non-first words in quoted foreign phrases
 * `obl:tmod` for temporal modifiers
-* `xcomp:pred` for predicates of the substantive verb “to be”
+* [xcomp:pred]() for predicates of the substantive verb “to be”
 
 ## Treebanks
 
