@@ -23,7 +23,7 @@ It is used to signal the instrument with which an action was performed.
 
 #### Examples
 
-* _<b>ur iko</b>&nbsp;_ “he/she is coming”
+* _<b>Pixik-a'i a'e taw</b>&nbsp;_ “That village is very small” (small-DIM PRON village)
   
 </tr>
 </table>
