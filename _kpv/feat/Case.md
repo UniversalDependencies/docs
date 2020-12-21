@@ -8,31 +8,31 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Acc">Acc</a> accusative</td>
-  <td><a href="#Abl">Abl</a> ablative</td>
-  <td><a href="#Apr">Apr</a> approximative</td>
-  <td><a href="#AprEgr">AprEgr</a> approximative egressive</td>
-  <td><a href="#AprEla">AprEla</a> approximative elative</td>
-  <td><a href="#AprIll">AprIll</a> approximative illative</td>
-  <td><a href="#AprIne">AprIne</a> approximative inessive</td>
-  <td><a href="#AprPrl">AprPrl</a> approximative prolative</td>
-  <td><a href="#AprTer">AprTer</a> approximative terminative</td>
-  <td><a href="#AprTra">AprTra</a> approximative translative</td>
-  <td><a href="#Car">Car</a> caritive</td>
-  <td><a href="#Cns">Cns</a> consecultative</td>
-  <td><a href="#Com">Com</a> comitative</td>
-  <td><a href="#Cmpr">Cmpr</a> comparative</td>
-  <td><a href="#Dat">Dat</a> dative</td>
-  <td><a href="#Egr">Egr</a> egressive</td>
-  <td><a href="#Ela">Ela</a> elative</td>
-  <td><a href="#Gen">Gen</a> genitive</td>
-  <td><a href="#Ill">Ill</a> illative</td>
-  <td><a href="#Ine">Ine</a> inessive</td>
-  <td><a href="#Ins">Ins</a> instrumental</td>
-  <td><a href="#Nom">Nom</a> nominative</td>
-  <td><a href="#Prl">Prl</a> prolative</td>
-  <td><a href="#Ter">Ter</a> terminative</td>
-  <td><a href="#Tra">Tra</a> translative</td>
+  <td><a href="#Abl">Abl</a></td>
+  <td><a href="#Acc">Acc</a></td>
+  <td><a href="#Apr">Apr</a></td>
+  <td><a href="#AprEgr">AprEgr</a></td>
+  <td><a href="#AprEla">AprEla</a></td>
+  <td><a href="#AprIll">AprIll</a></td>
+  <td><a href="#AprIne">AprIne</a></td>
+  <td><a href="#AprPrl">AprPrl</a></td>
+  <td><a href="#AprTer">AprTer</a></td>
+  <td><a href="#AprTra">AprTra</a></td>
+  <td><a href="#Car">Car</a></td>
+  <td><a href="#Cns">Cns</a></td>
+  <td><a href="#Com">Com</a></td>
+<!--  <td><a href="#Cmpr">Cmpr</a> comparative</td>-->
+  <td><a href="#Dat">Dat</a></td>
+<!--  <td><a href="#Egr">Egr</a> egressive</td>-->
+  <td><a href="#Ela">Ela</a></td>
+  <td><a href="#Gen">Gen</a></td>
+  <td><a href="#Ill">Ill</a></td>
+  <td><a href="#Ine">Ine</a></td>
+  <td><a href="#Ins">Ins</a></td>
+  <td><a href="#Nom">Nom</a></td>
+<!--  <td><a href="#Prl">Prl</a> prolative</td>-->
+  <td><a href="#Ter">Ter</a></td>
+<!--  <td><a href="#Tra">Tra</a> translative</td>-->
 </tr>
 </table>
 
@@ -66,14 +66,6 @@ prolative<br/>
 translative<br/>
 terminative<br/>
 
-### <a name="Abl">`Abl`</a>: ablative
-
-The ablative case expresses possessor of object.
-
-#### Examples
-
-* [kpv] _босьті <b>ёртлысь</b> небӧгсӧ_ "I took <b>a friend's</b> book"
-
 ### <a name="Acc">`Acc`</a>: accusative
 
 In Komi-Zyrian the specifically marked accusatives mark direct objects of verbs. This tends to be the marking of direct objects high in the hierarchies of identifiability and animacy.
@@ -83,13 +75,94 @@ In Komi-Zyrian the specifically marked accusatives mark direct objects of verbs.
 * [kpv] _ме <b>тэнӧ</b> нуӧда гортӧ_ "I will take <b>you</b> home"
 * [kpv] _аддза <b>ёртӧс</b>_ "I see <b>my friend</b>"
 
+### <a name="Abl">`Abl`</a>: ablative
+
+The ablative case expresses possessor of object.
+
+#### Examples
+
+* [kpv] _босьті <b>ёртлысь</b> небӧгсӧ_ "I took <b>a friend's</b> book"
+
+### <a name="Apr">`Apr`</a>: approximative
+
+The approximative case expresses general direction toward a place.
+
+#### Examples
+
+* [kpv] _леччисны <b>карлань</b>_ "They went down <b>towards town</b>"
+
+### <a name="AprEgr">`AprEgr`</a>: approximative egressive
+
+The approximative egressive case expresses from the general vicinity of a place.
+
+#### Examples
+
+* [kpv] _каисны <b>карланьсянь</b>_ "They came up <b>from down towards town</b>"
+
+### <a name="AprEla">`AprEla`</a>: approximative elative
+
+The approximative elative case expresses departure from the general vicinity of a place.
+
+#### Examples
+
+* [kpv] _кутшӧмкӧ важ йӧз волӧма <b>Важкуръяланьысь</b>_ "some old group of people had apparently come <b>from the direction of Vazhkuria</b>"
+
+### <a name="AprIll">`AprIll`</a>: approximative illative
+
+The approximative illative case expresses approach to the general vicinity of a place.
+
+#### Examples
+
+* [kpv] _инстинкт тшӧктӧ петны <b>войвывланьӧ</b>_ "instinct forces them to go <b>on to the north</b>"
+
+### <a name="AprIne">`AprIne`</a>: approximative inessive
+
+The approximative inessive case expresses location in the general vicinity of a place.
+
+#### Examples
+
+* [kpv] _Коми муын, <b>Пермакланьын</b>, оліс вӧрын... ён морт Пера_ "In the land of the Komi, <b>in the vicinity of Permak</b>, in the forest, there dwelt a great man Pera"
+
+### <a name="AprPrl">`AprPrl`</a>: approximative prolative
+
+The approximative prolative case expresses passing by the general vicinity of a place.
+
+#### Examples
+
+* [kpv] _Тыдалӧ, <b>асывланьтіыс</b> мичаммӧ югыдкольквижӧн_ "You can see, _along the eastern horizon_ it is becoming a beautiful light-yellow"
+
+### <a name="AprTer">`AprTer`</a>: approximative terminative
+
+The approximative terminative case expresses reaching as far as the general vicinity of a place.
+
+#### Examples
+
+* [kpv] _Веськӧдчис тӧдса <b>вӧрланьӧдз</b>_ "He came _as far as the vicinity of_ the well-known _forest_"
+
+### <a name="AprTra">`AprTra`</a>: approximative transitive
+
+The approximative transitive case expresses going through the general vicinity of a place.
+
+#### Examples
+
+* [kpv] _Одыб сикт <b>помланьӧд</b> визувтысь Кирӧ шорсянь туй_ "The road from Kiro creek flowing _along the end_ of Odyb village"
+
+
 ### <a name="Car">`Car`</a>: caritive
 
 The caritive case corresponds to the English preposition _without_.
 
 #### Examples
 
-* [kpv] _сьӧм_ "money"; _<b>сьӧмтӧг</b>_ "without money"
+* [kpv] _<b>сьӧмтӧг</b>_ "without money"
+
+### <a name="Cns">`Cns`</a>: consecultative
+
+The consecultative case expresses acquisition, corresponding to the English preposition _after_.
+
+#### Examples
+
+* [kpv] _петіс <b>вала</b>_ "he went out _after water_"
 
 ### <a name="Com">`Com`</a>: comitative / associative
 
