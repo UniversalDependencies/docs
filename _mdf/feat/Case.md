@@ -22,7 +22,7 @@ udver: '2'
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Nom">Nom</a></td>
   <td><a href="#Prl">Prl</a></td>
-  <td><a href="#Temp">Temp</a></td>
+  <td><a href="#Tem">Tem</a></td>
   <td><a href="#Tra">Tra</a></td>
 </tr>
 </table>
@@ -34,7 +34,7 @@ other parts of speech ([adjectives](mdf-pos/ADJ),
 Case helps specify the role of the noun phrase in the sentence. The various cases have different distributions as basic or indefinite cases (1–16) in relation to their definite singular (3), definite plural (3) and possessive (-12) paradigms.
 
 Erzya morphology distinguishes fifteen cases:
-`Abe`, `Abl`, `Cau`, `Com`, `Cmp`, `Dat`, `Ela`, `Gen`, `Ill`, `Ine`, `Lat`, `Loc`, `Nom`, `Prl`, `Temp`, `Tra`
+`Abe`, `Abl`, `Cau`, `Com`, `Cmp`, `Dat`, `Ela`, `Gen`, `Ill`, `Ine`, `Lat`, `Loc`, `Nom`, `Prl`, `Tem`, `Tra`
 (this ordering is alphabetical, some authors use different names or even numbers for identifying these cases.)
 
 ### <a name="Abe">`Abe`</a>: abessive
@@ -137,7 +137,7 @@ The indefinite nominative singular and plural are used as indefinite object form
 
 * [mdf] _Иван тись кафта-колма аськолкс <b>коридорнява</b> и лоткась._ "Ivan took two or three steps <b>down the corridor</b> and stopped."
 
-### <a name="Temp">`Temp`</a>: temporalis
+### <a name="Tem">`Tem`</a>: temporalis
  
 #### Examples
 
