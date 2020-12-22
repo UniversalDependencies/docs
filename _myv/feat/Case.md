@@ -21,7 +21,7 @@ udver: '2'
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Nom">Nom</a></td>
   <td><a href="#Prl">Prl</a></td>
-  <td><a href="#Temp">Temp</a></td>
+  <td><a href="#Tem">Tem</a></td>
   <td><a href="#Tra">Tra</a></td>
 </tr>
 </table>
@@ -33,7 +33,7 @@ other parts of speech ([adjectives](myv-pos/ADJ),
 Case helps specify the role of the noun phrase in the sentence. The various cases have different distributions as basic or indefinite cases (1–15) in relation to their definite singular (-10), definite plural (-13) and possessive (-12) paradigms.
 
 Erzya morphology distinguishes fifteen cases:
-`Abe`, `Abl`, `Com`, `Cmp`, `Dat`, `Ela`, `Gen`, `Ill`, `Ine`, `Lat`, `Loc`, `Nom`, `Prl`, `Temp`, `Tra`
+`Abe`, `Abl`, `Com`, `Cmp`, `Dat`, `Ela`, `Gen`, `Ill`, `Ine`, `Lat`, `Loc`, `Nom`, `Prl`, `Tem`, `Tra`
 (this ordering is alphabetical, some authors use different names or even numbers for identifying these cases.)
 
 ### <a name="Abe">`Abe`</a>: abessive
@@ -136,7 +136,7 @@ The indefinite nominative singular and plural are used as indefinite object form
 
 * [myv] _Ломантне тусть <b>кудова</b>_ "The people left <b>for home, each to his or her own</b>"
 
-### <a name="Temp">`Temp`</a>: temporalis
+### <a name="Tem">`Tem`</a>: temporalis
 
 #### Examples
 
