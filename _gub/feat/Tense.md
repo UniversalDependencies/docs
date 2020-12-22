@@ -9,10 +9,9 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Fut">Fut</a></td>
-  <td><a href="#Past">Fut</a></td>
+  <td><a href="#Past">Past</a></td>
   
-  
-  
+   
 </tr>
 </table>
 
