@@ -1,28 +1,28 @@
 ---
 layout: feature
-title: 'Distance'
-shortdef: 'distance'
+title: 'Deixis'
+shortdef: 'relative location encoded in demonstratives'
 udver: '2'
 ---
 
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Dist">Dist</a></td>
   <td><a href="#Mid">Mid</a></td>
   <td><a href="#Prox">Prox</a></td>
+  <td><a href="#Remt">Remt</a></td>
 </tr>
 </table>
 
-`Distance` is typically a feature of [demonstrative](PronType) pronouns,
-determiners or adverbs. Its value distinguishes whether we are talking about
-something is close to the speaker or something removed from the speaker.
+Deixis is typically a feature of demonstrative [pronouns](hy-pos/PRON), [determiners](hy-pos/DET), and [adverbs](hy-pos/ADV).
+Its value classifies the location of the referred entity with respect to the location
+of the speaker or of the hearer.
 
 Armenian make a three-way distinction between demonstratives. 
 
 ### <a name="Prox">`Prox`</a>: proximal
 
-Indicate objects near to the speaker.
+The entity is close to the reference point (e.g., to the speaker).
  
 #### Examples
 
@@ -30,15 +30,15 @@ Indicate objects near to the speaker.
 
 ### <a name="Mid">`Mid`</a>: medial
 
-Objects are near to the addressee.
+The entity is neither close nor far away from the reference point (e.g., from the speaker).
 
 #### Examples
 
 * _դա, այդ, այդպիսի, այդքան, այդտեղ_ “that, that, such, that many, there”
 
-### <a name="Dist">`Dist`</a>: distal
+### <a name="Remt">`Remt`</a>: remote, distal
 
-Objects far from both.
+The entity is far away from the reference point (e.g., from the speaker).
 
 #### Examples
 
