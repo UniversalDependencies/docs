@@ -11,7 +11,7 @@ udver: '2'
   <td><a href="#Abe">Abe</a></td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#Com">Com</a></td>
-  <td><a href="#Cmpr">Cmpr</a></td>
+  <td><a href="#Cmp">Cmp</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Ela">Ela</a></td>
   <td><a href="#Gen">Gen</a></td>
@@ -33,7 +33,7 @@ other parts of speech ([adjectives](myv-pos/ADJ),
 Case helps specify the role of the noun phrase in the sentence. The various cases have different distributions as basic or indefinite cases (1–15) in relation to their definite singular (-10), definite plural (-13) and possessive (-12) paradigms.
 
 Erzya morphology distinguishes fifteen cases:
-`Abe`, `Abl`, `Com`, `Cmpr`, `Dat`, `Ela`, `Gen`, `Ill`, `Ine`, `Lat`, `Loc`, `Nom`, `Prl`, `Temp`, `Tra`
+`Abe`, `Abl`, `Com`, `Cmp`, `Dat`, `Ela`, `Gen`, `Ill`, `Ine`, `Lat`, `Loc`, `Nom`, `Prl`, `Temp`, `Tra`
 (this ordering is alphabetical, some authors use different names or even numbers for identifying these cases.)
 
 ### <a name="Abe">`Abe`</a>: abessive
@@ -61,7 +61,7 @@ In Erzya the ablative case is used to  express (1)  standard of comparison, (2) 
 
 * [myv] _Сыргасть <b>веленек</b>_ "They set off <b>the whole village</b>"
 
-### <a name="Cmpr">`Cmpr`</a>: comparative
+### <a name="Cmp">`Cmp`</a>: comparative
 
 #### Examples
 

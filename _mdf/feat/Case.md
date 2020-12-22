@@ -12,7 +12,7 @@ udver: '2'
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#Cau">Cau</a></td>
   <td><a href="#Com">Com</a></td>
-  <td><a href="#Cmpr">Cmpr</a></td>
+  <td><a href="#Cmp">Cmp</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Ela">Ela</a></td>
   <td><a href="#Gen">Gen</a></td>
@@ -34,7 +34,7 @@ other parts of speech ([adjectives](mdf-pos/ADJ),
 Case helps specify the role of the noun phrase in the sentence. The various cases have different distributions as basic or indefinite cases (1–16) in relation to their definite singular (3), definite plural (3) and possessive (-12) paradigms.
 
 Erzya morphology distinguishes fifteen cases:
-`Abe`, `Abl`, `Cau`, `Com`, `Cmpr`, `Dat`, `Ela`, `Gen`, `Ill`, `Ine`, `Lat`, `Loc`, `Nom`, `Prl`, `Temp`, `Tra`
+`Abe`, `Abl`, `Cau`, `Com`, `Cmp`, `Dat`, `Ela`, `Gen`, `Ill`, `Ine`, `Lat`, `Loc`, `Nom`, `Prl`, `Temp`, `Tra`
 (this ordering is alphabetical, some authors use different names or even numbers for identifying these cases.)
 
 ### <a name="Abe">`Abe`</a>: abessive
@@ -62,7 +62,7 @@ Erzya morphology distinguishes fifteen cases:
 
 * [mdf] _Цёранясь <b>банканек</b> грохадсь масторти._ "The boy came down with a crash, <b>jar and all</b>."
 
-### <a name="Cmpr">`Cmpr`</a>: comparative
+### <a name="Cmp">`Cmp`</a>: comparative
 
 #### Examples
 
