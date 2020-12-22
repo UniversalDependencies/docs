@@ -23,16 +23,16 @@ udver: '2'
   <td><a href="#Com">Com</a></td>
 <!--  <td><a href="#Cmpr">Cmpr</a> comparative</td>-->
   <td><a href="#Dat">Dat</a></td>
-<!--  <td><a href="#Egr">Egr</a> egressive</td>-->
+  <td><a href="#Egr">Egr</a></td>
   <td><a href="#Ela">Ela</a></td>
   <td><a href="#Gen">Gen</a></td>
   <td><a href="#Ill">Ill</a></td>
   <td><a href="#Ine">Ine</a></td>
   <td><a href="#Ins">Ins</a></td>
   <td><a href="#Nom">Nom</a></td>
-<!--  <td><a href="#Prl">Prl</a> prolative</td>-->
+  <td><a href="#Prl">Prl</a></td>
   <td><a href="#Ter">Ter</a></td>
-<!--  <td><a href="#Tra">Tra</a> translative</td>-->
+ <td><a href="#Tra">Tra</a></td>
 </tr>
 </table>
 
@@ -181,6 +181,14 @@ The dative case expresses transfer to someone.
 
 * [kpv] _<b>ёртлы</b> сетны_ "give to a friend"
 
+### <a name="Egr">`Egr`</a>: egressive
+
+The egressive case expresses general locative source.
+
+#### Examples
+
+* [kpv] _<b>гортсянь</b>_ "from home"
+
 ### <a name="Ela">`Ela`</a>: elative
 
 The elative case expresses direction out of something.
@@ -233,6 +241,16 @@ The base form of the noun, typically used as citation form (lemma).
 
 * [kpv] _<b>понйыс</b> котралӧ_ "the dog is running"
 
+### <a name="Prl">`Prl`</a>: prolative 
+
+The transitive case may indicate a pathway through a three-dimensional or a two-dimensional space.
+In the central dialects it is often distinguished from the transitive.
+
+#### Examples
+
+* [kpv] _<b>туйӧд</b>_ "along the road"
+
+
 ### <a name="Ter">`Ter`</a>: terminative / terminal allative
 
 The terminative case specifies where something ends in space or
@@ -243,5 +261,15 @@ _adlativo terminal_).
 
 * [kpv] _<b>юӧдз</b> мунны_ "go as far as the river"; _квайт <b>часӧдз</b>_
   "till six o'clock"
+
+### <a name="Tra">`Tra`</a>: transitive 
+
+The transitive case may indicate a point a path passes through in two-dimensional space.
+In the central dialects it is often distinguished from the prolative in nouns.
+
+#### Examples
+
+* [kpv] _<b>таті</b>_ "this way"
+
 
 <!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
