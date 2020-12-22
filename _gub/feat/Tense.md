@@ -17,8 +17,7 @@ udver: '2'
 
 The only `Tense` 
 
-`Past` is not a feature of the verb in Guajajara. Some evidential partiles also carry tense, as *kakwez*, 
-which always appears in second position and inindicates an attested event in a distant past. 
+
 
 ### <a name="Fut">`Fut`</a>: Future
 
@@ -29,7 +28,10 @@ Usually realised in adverbs
 * _<b>oho putar</b>&nbsp;_ “He/she/they will go" 
 
 
-### <a name="Past">`Past`</a>: Future
+`Past` is not a feature of the verb in Guajajara. Some evidential partiles also carry tense, as *kakwez*, 
+which always appears in second position and inindicates an attested event in a distant past. 
+
+### <a name="Past">`Past`</a>: Past
 
 Usually realised in adverbs
 
