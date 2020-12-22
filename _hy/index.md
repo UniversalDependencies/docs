@@ -119,7 +119,7 @@ and [Armenian features](feat/index.html).
   * [ConjType]()
   * [Hyph]()
   * [Style]()
-  * [Distance]()
+  * [Deixis]()
   * [Echo]()
   * [Typo]()
 * The following universal features are not used in Armenian: [Gender](), [Evident]().
