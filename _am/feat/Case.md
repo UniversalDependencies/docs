@@ -40,7 +40,7 @@ for good things, and the bad ones are marked differently (see below).
 #### Examples
 
 * አስተናጋጁ ሻይ አመጣ<b>ላ</b>ቸውና ጠጡ ። / _'äsətänagadžu šajə 'ämäţa<b>l</b>ačäwəna ţäţu ._
-  “The waiter brought them tea and they drank.” (lit. the-host tea brought-she-BEN-them-and drank-they)
+  “The waitress brought them tea and they drank.” (lit. the-host tea brought-she-BEN-them-and drank-they)
 
 ### <a name="Mal">`Mal`</a>: malefactive
 
