@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="">Perf</a></td>
+  <td><a href="">Frus</a></td>
   
 </tr>
 </table>
@@ -22,6 +23,17 @@ Perfective in Ka'apor is marked by particle "ʔy"
 #### Examples
 
 * _<b>remusak ʔy</b>&nbsp;_ “(you) got sb. to see” (SG.2 Causative)
+
+
+
+
+### <a name="Frus">`Frus`</a>: perfective
+
+Frustrative in Ka'apor is marked by particle "tipe"
+
+#### Examples
+
+* _<b>O-ho tipe</b>&nbsp;_ “He went in vain” (3-go Frus)
 
 
 
