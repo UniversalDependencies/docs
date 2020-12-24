@@ -45,11 +45,6 @@ In addition, regular syntactic relations are used:
 * to connect together the words of a description or name which involve embedded prepositional phrases, sentences, etc.
 
 ~~~ sdparse
-Mariatersa Di Lascia
-name(Mariatersa, Lascia)
-case(Lascia, Di)
-~~~
-~~~ sdparse
 Università di Pristina 
 name(Università, Pristina)
 case(Pristina, di)
