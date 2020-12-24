@@ -64,6 +64,6 @@ and [Czech features](feat/index.html).
 
 ## Treebanks
 
-There is one Afrikaanse UD treebank:
+There is one Afrikaans UD treebank:
 
   * [Afrikaans](../treebanks/af_afribooms/index.html)
