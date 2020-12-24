@@ -9,7 +9,7 @@ The `flat:name` relation is a specialization of `flat` used for names.
 
 ~~~ sdparse
 Ecco l'arringa di Tiziana Maiolo . 
-name(Tiziana, Maiolo)
+flat:name(Tiziana, Maiolo)
 ~~~
 
 Names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the <code>flat:name</code> label. This also works for prepositions or determiners and numerals that are part of the names.
