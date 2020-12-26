@@ -12,7 +12,7 @@ Jakarta adalah ibukota Indonesia . \n Jakarta is the capital of Indonesia .
 nsubj(ibukota, Jakarta-1)
 cop(ibukota, adalah)
 nmod(ibukota, Indonesia-4)
-nsubj(capital, Jakarta-2)
+nsubj(capital, Jakarta-7)
 cop(capital, is)
 nmod(capital, Indonesia-12)
 ~~~
