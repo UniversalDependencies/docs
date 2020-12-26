@@ -5,7 +5,7 @@ shortdef: 'copula'
 udver: '2'
 ---
 
-In Indonesian reference grammar only two words considered as copulas: _ialah_ and _adalah_.
+In Indonesian reference grammar only two words are considered as copulas: _ialah_ and _adalah_. The use of copula is also optional.
 
 ~~~ sdparse
 Jakarta adalah ibukota Indonesia . \n Jakarta is the capital of Indonesia .
@@ -25,6 +25,3 @@ det(segala, nya)
 nsubj(everything, You)
 cop(everything, are)
 ~~~
-
-
-
