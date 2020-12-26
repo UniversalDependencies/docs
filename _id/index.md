@@ -160,6 +160,8 @@ udver: '2'
   * `list`
   * `reparandum`
 * We provide additional docummentation with examples in Indonesian for some of universal deprels:
+  * [aux]()
+  * [cop]()
   * [clf]()
   * [fixed]()
 
