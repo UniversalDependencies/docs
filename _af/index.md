@@ -18,25 +18,22 @@ udver: '2'
 
 ### Tags
 
-This is an overview only. For more detailed discussion and examples, see the list of [Czech POS tags](pos/index.html)
-and [Czech features](feat/index.html).
-
 * Afrikaans uses all 17 universal POS categories. Currently interjections are not covered by the treebank, as it contains legal texts from government websites.
-* Particle ([PART]) is used for _te_ introducing an infinitive, for the negation particle _nie_, the contraction _dis_ (_dit is_), and the genitival particle _se_.
-* The tag [DET] is used for articles, demonstrative and indefinite pronouns. Other pronouns get the tag [PRON].
-* Auxiliaries ([AUX]) are all verbal in Swedish and can be grouped into four types:
-  * The copula _wees_. 
+* Particle ([PART]()) is used for _te_ introducing an infinitive, for the negation particle _nie_, the contraction _dis_ (_dit is_), and the genitival particle _se_.
+* The tag [DET]() is used for articles, demonstrative and indefinite pronouns. Other pronouns get the tag [PRON]().
+* Auxiliaries ([AUX]()) are all verbal in Afrikaans and can be grouped into four types:
+  * The copula _wees_.
   * The temporal auxiliary _het _(have), which combines with the past participle of the main verb to form perfect tenses.
   * The passive auxiliaries _word_ (present) and _wees_ (past), which combine with the past participle of the main verb passives.
   * The modal verbs  _sal_, _wil_, _mag_, _durf_, _kan_, _moet_, _moenie_, _behoort_, _hoef_.
 
 ### Features
 
-* Nouns ([NOUN]) and proper names ([PROPN]) inflect for number and degree (diminutives).
-* Most adjectives ([ADJ]) have different forms in attributive and predicative positions, which is indicate by the `AdjType` feature. In addition, many adjectives inflect for `Degree` (positive, comparative, superlative), and rarely for Case, which could be genitive when used independently.
+* Nouns ([NOUN]()) and proper names ([PROPN]()) inflect for number and degree (diminutives).
+* Most adjectives ([ADJ]()) have different forms in attributive and predicative positions, which is indicated by the `AdjType` feature. In addition, many adjectives inflect for `Degree` (positive, comparative, superlative), and rarely for Case, which could be genitive when used independently.
 * Adverbs inflect only for `Degree`.
 * Verbs can be Finite or Infinite (reflected in `VerbType`). Finite forms inflect for `Tense`. For auxiliaries, the type (copula, modal, temporal/passive) is reflected in `VerbType`.
-* The type of determiner and pronoun is reflected in `PronType`. Articles are definite or indefinite (`Definiteness`). Personal pronouns are inflected for number, case (nominative or accusative/oblique) and person; possessive and reflexive pronouns for number and person.
+* The type of determiner and pronoun is reflected in `PronType`. Articles are definite or indefinite (`Definite`ness). Personal pronouns are inflected for number, case (nominative or accusative/oblique) and person; possessive and reflexive pronouns for number and person.
 
 
 ## Syntax
@@ -57,10 +54,10 @@ and [Czech features](feat/index.html).
 ### Relations Overview
 
 * The following relation subtypes can be used in Afrikaans:
-  * [nsubj:pass] for nominal subjects of passive verbs
-  * [csubj:pass] for clausal subjects of passive verbs (currently not present)
-  * [aux:pass] for passive auxiliaries
-  * [compound:prt] for verb particles
+  * [nsubj:pass]() for nominal subjects of passive verbs
+  * [csubj:pass]() for clausal subjects of passive verbs (currently not present)
+  * [aux:pass]() for passive auxiliaries
+  * [compound:prt]() for verb particles
 
 ## Treebanks
 
