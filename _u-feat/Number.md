@@ -94,7 +94,7 @@ Precise semantics varies across languages.
 
 #### Examples
 
-* [ff] singular _ngesa_ “field”, plural _gese_ “fields”, greater plural _geseeli_ “many fields”
+* [ff] singular _ngesa_ “field”, plural _gese_ “fields”, greater plural _<b>geseeli</b>_ “many fields”
 
 ### <a name="Inv">`Inv`</a>: inverse number
 
@@ -109,16 +109,22 @@ default assumed to be singular, some dual or plural.) Occurs e.g. in Kiowa.
 
 ### <a name="Count">`Count`</a>: count plural
 
-Attested in Bulgarian and Macedonian. It is known variously as “counting form”,
+A special plural form of nouns (and other parts of speech, such as adjectives)
+if they occur after numerals.
+
+In Bulgarian and Macedonian, this form is known variously as “counting form”,
 “count plural” or “quantitative plural” (Sussex and Cubberley 2006, p. 324).
-It is a special plural form of nouns if they occur after numerals.
 (The form originates in the Proto-Slavic dual but it should not be marked
 `Number=Dual` because 1. the dual vanished from Bulgarian and 2. the form is
 no longer semantically tied to the number two.)
 
+Other languages (e.g., Russian) have forms that are not necessarily related
+to dual, yet they are used exclusively with numerals.
+
 #### Examples
 
-* [bg] _tri <b>stola</b>_ “three chairs” vs. _stolove_ “chairs”
+* [bg] _три <b>стола</b>_ / _tri <b>stola</b>_ “three chairs” vs. _столове_ / _stolove_ “chairs”
+* [ru] _<b>шаг'а</b>, <b>шар'а</b>, <b>ряд'а</b>_ / _šaga, šara, rjada_ “steps, balls, rows”
 
 ### <a name="Ptan">`Ptan`</a>: plurale tantum
 
