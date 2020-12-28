@@ -31,17 +31,6 @@ This tense if often called Present Tense, but in fact it denotes a future event.
 * Bydd yn frenin "He will be King"
 
 
-### <a name="Imp">`Imp`</a>: Conditional tense
-
-Denotes conditional events
-
-#### Examples
-
-* Canwn i "I would sing"
-
-* Byddwn i yna "I would be there"
-
-
 ### <a name="Pqp">`Pqp`</a>: Pluperfect or Irreal tense
 
 This tense is less and less employed, mostly in irreal situations

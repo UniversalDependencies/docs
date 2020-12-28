@@ -43,6 +43,8 @@ The third person refers to one or more persons who are not present, i.e. neither
 The impersonal ver forms are employed when the subject is not present.
 It is a form distinct from the 3rd person which is frequently translated using passive voice in English. It is nevertheless not a passive form, since the verb does not agree with any argument and there is no subject whatsoever
 
+#### Examples
+
 * _Gweler tudalen 20_ "[one] may see page 20"
 
 

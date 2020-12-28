@@ -30,6 +30,8 @@ action of the verb.
 
 Expresses a possibility
 
+#### Examples
+
 * _**Gallai** gwyntoedd cryfion daro Cymru_ "strong winds could hit Wales"
 
 ### <a name="Sub">`Sub`</a>: subjunctive

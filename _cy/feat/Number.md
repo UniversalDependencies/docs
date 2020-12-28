@@ -20,7 +20,7 @@ There is a group of nouns in Welsh, whose lemma is a plural, the singular is for
 * _aderyn_ "bird"
 * _o_ "he"
 
-### <a name="Plur">`Sing`</a>: singular
+### <a name="Plur">`Plur`</a>: plural
 
 #### Examples
 
