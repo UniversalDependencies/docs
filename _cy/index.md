@@ -56,10 +56,7 @@ See [conjugation tables](conjugation.md) for forms and corresponding UD Tense/Mo
   * Tense=Fut,Imp,Pres,Past,Pqp 
 
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 
----
 
 ## Syntax
 
@@ -143,10 +140,6 @@ _gwrando arni_
 
 
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
