@@ -30,9 +30,9 @@ udver: '2'
 ### Features
 
 * Nouns ([NOUN]()) and proper names ([PROPN]()) inflect for number and degree (diminutives).
-* Most adjectives ([ADJ]()) have different forms in attributive and predicative positions, which is indicated by the [AdjType]() feature. In addition, many adjectives inflect for [Degree]() (positive, comparative, superlative), and rarely for [Case](), which could be genitive when used independently.
+* Most adjectives ([ADJ]()) have different forms in attributive and predicative positions, which is indicated by the [AdjType](feat/AdjType.html) feature. In addition, many adjectives inflect for [Degree]() (positive, comparative, superlative), and rarely for [Case](), which could be genitive when used independently.
 * Adverbs inflect only for [Degree]().
-* Verbs can be finite or infinite (reflected in [VerbForm]()). Finite forms inflect for [Tense](). For auxiliaries, the type (copula, modal, temporal/passive) is reflected in [VerbType]().
+* Verbs can be finite or infinite (reflected in [VerbForm]()). Finite forms inflect for [Tense](). For auxiliaries, the type (copula, modal, temporal/passive) is reflected in [VerbType](feat/VerbType.html).
 * The type of determiner and pronoun is reflected in [PronType](). Articles are definite or indefinite ([Definite]()ness). Personal pronouns are inflected for [Number](), [Case]() (nominative or accusative/oblique) and [Person](); possessive and reflexive pronouns for number and person.
 
 
