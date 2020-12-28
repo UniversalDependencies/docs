@@ -23,17 +23,17 @@ udver: '2'
 * The tag [DET]() is used for articles, demonstrative and indefinite pronouns. Other pronouns get the tag [PRON]().
 * Auxiliaries ([AUX]()) are all verbal in Afrikaans and can be grouped into four types:
   * The copula _wees_.
-  * The temporal auxiliary _het _(have), which combines with the past participle of the main verb to form perfect tenses.
+  * The temporal auxiliary _het_ (have), which combines with the past participle of the main verb to form perfect tenses.
   * The passive auxiliaries _word_ (present) and _wees_ (past), which combine with the past participle of the main verb passives.
   * The modal verbs  _sal_, _wil_, _mag_, _durf_, _kan_, _moet_, _moenie_, _behoort_, _hoef_.
 
 ### Features
 
 * Nouns ([NOUN]()) and proper names ([PROPN]()) inflect for number and degree (diminutives).
-* Most adjectives ([ADJ]()) have different forms in attributive and predicative positions, which is indicated by the `AdjType` feature. In addition, many adjectives inflect for `Degree` (positive, comparative, superlative), and rarely for Case, which could be genitive when used independently.
-* Adverbs inflect only for `Degree`.
-* Verbs can be Finite or Infinite (reflected in `VerbType`). Finite forms inflect for `Tense`. For auxiliaries, the type (copula, modal, temporal/passive) is reflected in `VerbType`.
-* The type of determiner and pronoun is reflected in `PronType`. Articles are definite or indefinite (`Definite`ness). Personal pronouns are inflected for number, case (nominative or accusative/oblique) and person; possessive and reflexive pronouns for number and person.
+* Most adjectives ([ADJ]()) have different forms in attributive and predicative positions, which is indicated by the [AdjType]() feature. In addition, many adjectives inflect for [Degree]() (positive, comparative, superlative), and rarely for [Case](), which could be genitive when used independently.
+* Adverbs inflect only for [Degree]().
+* Verbs can be finite or infinite (reflected in [VerbForm]()). Finite forms inflect for [Tense](). For auxiliaries, the type (copula, modal, temporal/passive) is reflected in [VerbType]().
+* The type of determiner and pronoun is reflected in [PronType](). Articles are definite or indefinite ([Definite]()ness). Personal pronouns are inflected for [Number](), [Case]() (nominative or accusative/oblique) and [Person](); possessive and reflexive pronouns for number and person.
 
 
 ## Syntax
