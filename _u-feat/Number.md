@@ -124,7 +124,7 @@ to dual, yet they are used exclusively with numerals.
 #### Examples
 
 * [bg] _три <b>стола</b>_ / _tri <b>stola</b>_ “three chairs” vs. _столове_ / _stolove_ “chairs”
-* [ru] _<b>шаг'а</b>, <b>шар'а</b>, <b>ряд'а</b>_ / _šaga, šara, rjada_ “steps, balls, rows”
+* [ru] _<b>шага́</b>, <b>шара́</b>, <b>ряда́</b>_ / _šagá, šará, rjadá_ “steps, balls, rows”
 
 ### <a name="Ptan">`Ptan`</a>: plurale tantum
 
