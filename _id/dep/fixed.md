@@ -5,12 +5,17 @@ shortdef: 'fixed MWE'
 udver: '2'
 ---
 
-We annotated the following phrases in Indonesian using 'fixed':
+We use deprel 'fixed' to annotate multi-word adverbs and prepositions in Indonesian.
 
+Examples of adverb MWEs:
 * _lebih dari/kurang dari_ "more than/less than" 
 * _kurang lebih_ "approximately/more or less"
 * _sering kali_ "often"
 * _sama sekali_ "absolutely/totally/at all"
+* _kadang kala_ "sometimes"
+
+Examples of preposition MWEs:
+
 * _antara lain_ "among others/such as"
 * _oleh karena_ "therefore"
 

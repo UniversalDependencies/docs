@@ -55,11 +55,19 @@ udver: '2'
 `Case` is usually an inflectional feature of [nouns](u-pos/NOUN) and,
 depending on language, other parts of speech ([pronouns](u-pos/PRON),
 [adjectives](u-pos/ADJ), [determiners](u-pos/DET), [numerals](u-pos/NUM),
-[verbs](u-pos/VERB)) that mark agreement with nouns. In some tagsets
-it is also valency feature of [adpositions](u-pos/ADP) (saying that
-the adposition requires its argument to be in that case). Annotating
-preposition valency case in UD treebanks would be superfluous because the
-same case feature can be found at the nominal to which the preposition
+[verbs](u-pos/VERB)) that mark agreement with nouns.
+
+`Case` can also be a lexical feature of [adpositions](u-pos/ADP) and
+describe the case meaning that the adposition contributes to the nominal
+in which it appears. (This usage of the feature is typical for languages
+that do not have case morphology on nouns. For languages that have both
+adpositions and morphological case, the traditional set of cases is
+determined by the nominal forms and it does not cover adpositional
+meanings.) In some non-UD tagsets, case of adpositions is
+used as a valency feature (saying that the adposition requires its
+nominal argument to be in that morphological case); however, annotating
+adposition valency case in UD treebanks would be superfluous because the
+same case feature can be found at the nominal to which the adposition
 belongs.
 
 Case helps specify the role of the noun phrase in the sentence,
