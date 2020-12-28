@@ -45,12 +45,12 @@ This is a brief overview of the features used in UD_Old_Russian-TOROT:
 
 This is a brief overview of the features used in UD_Old_Russian-RNC:
 
-* VERB and AUX can have the following features: Person (1, 2, 3), Number (Sing, Dual, Plur), Tense (Pres, Past, Fut), Aspect (Perf, Imp), Mood (Ind, Imp, Cnd), VerbForm (Fin, Inf, Sup, Conv, Part, PartRes), Voice (Act, Pass, Mid), Reflex (Yes), Polarity (Neg), Analyt (Yes).
+* VERB and AUX can have the following features: Person (1, 2, 3), [Number]() (Sing, Dual, Plur), Tense (Pres, Past, Fut), Aspect (Perf, Imp), Mood (Ind, Imp, Cnd), VerbForm (Fin, Inf, Sup, Conv, Part, PartRes), Voice (Act, Pass, Mid), Reflex (Yes), Polarity (Neg), Analyt (Yes).
 Participles also have the features Gender (Fem, Masc, Neut), Case (Nom, Acc, Gen, Dat, Ins, Loc) and Variant (Short). The latter feature is applied to short forms; long forms are not marked explicitely. Variant=Short in UD-RNC corresponds directly to Strength=Weak in UD-TOROT.
-Unlike in UD-Torot, l-participles are tagged VerbForm=PartRes and distinguish Aspect (Perf, Imp), converbs are tagged VerbForm=Conv in UD-RNC.
-At the moment, the Aspect and Analyt features are tagged only in some parts of the treebank.
+Unlike in UD-Torot, l-participles are tagged [VerbForm](feat/VerbForm.md)=PartRes and distinguish Aspect (Perf, Imp), converbs are tagged [VerbForm]()=Conv in UD-RNC.
+At the moment, the Aspect and [Analyt]() features are tagged only in some parts of the treebank.
 
-* NOUN and PROPN can have the following features: Number (Sing, Dual, Plur, Adnum), Gender (Fem, Masc, Neut), Case (Nom, Acc, Gen, Dat, Ins, Loc, Voc), Animacy (Anim, Inan). The latter feature is only used to distinguish animate and inanimate accusative forms.
+* NOUN and PROPN can have the following features: [Number]() (Sing, Dual, Plur, Count), Gender (Fem, Masc, Neut), Case (Nom, Acc, Gen, Dat, Ins, Loc, Voc), Animacy (Anim, Inan). The latter feature is only used to distinguish animate and inanimate accusative forms.
 
 * ADJ can have the following features: Case, Gender, Number, Variant (with the specifications above), Degree (Pos, Cmp, Sup), Poss (Yes), Reflex (Yes).
 
