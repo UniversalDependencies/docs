@@ -11,4 +11,8 @@ Impersonal verb forms useally do not have any subject. However they can have an 
 
 * _Argraffwyd **gan Wasg Gomer**_ "Printed by the Gomer Press"
 
-
+~~~ sdparse
+obl:agent(Argraffwyd, Wasg)
+case(Wasg, gan)
+name(Wasg, Gomer)
+~~~
