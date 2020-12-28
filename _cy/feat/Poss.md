@@ -5,8 +5,11 @@ shortdef: 'possessive'
 udver: '2'
 ---
 
-In Welsh, `Poss` is a Boolean feature of [pronouns](en-pos/PRON). It tells whether the word is possessive.
-The possessive pronoun can be reduplicated after the possessed noun, using a different form
+In Welsh, `Poss` is a Boolean feature of [pronouns](en-pos/PRON). It tells whether the pronoun is possessive.
+Welsh has no possessive pronouns, but uses the so-called dependent pronouns as possessive pronouns.
+Dependent pronouns without this feature, are not possessives (but pronominal direct oobject of verbnouns)
+The possessive pronoun can be reduplicated after the possessed noun, using a different form.
+
 
 ### <a name="Yes">`Yes`</a>: it is possesive
 
