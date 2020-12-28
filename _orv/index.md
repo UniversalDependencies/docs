@@ -47,7 +47,7 @@ This is a brief overview of the features used in UD_Old_Russian-RNC:
 
 * VERB and AUX can have the following features: Person (1, 2, 3), [Number]() (Sing, Dual, Plur), Tense (Pres, Past, Fut), Aspect (Perf, Imp), Mood (Ind, Imp, Cnd), VerbForm (Fin, Inf, Sup, Conv, Part, PartRes), Voice (Act, Pass, Mid), Reflex (Yes), Polarity (Neg), Analyt (Yes).
 Participles also have the features Gender (Fem, Masc, Neut), Case (Nom, Acc, Gen, Dat, Ins, Loc) and Variant (Short). The latter feature is applied to short forms; long forms are not marked explicitely. Variant=Short in UD-RNC corresponds directly to Strength=Weak in UD-TOROT.
-Unlike in UD-Torot, l-participles are tagged [VerbForm](feat/VerbForm.md)=PartRes and distinguish Aspect (Perf, Imp), converbs are tagged [VerbForm]()=Conv in UD-RNC.
+Unlike in UD-Torot, l-participles are tagged [VerbForm]()=PartRes and distinguish Aspect (Perf, Imp), converbs are tagged [VerbForm]()=Conv in UD-RNC.
 At the moment, the Aspect and [Analyt]() features are tagged only in some parts of the treebank.
 
 * NOUN and PROPN can have the following features: [Number]() (Sing, Dual, Plur, Count), Gender (Fem, Masc, Neut), Case (Nom, Acc, Gen, Dat, Ins, Loc, Voc), Animacy (Anim, Inan). The latter feature is only used to distinguish animate and inanimate accusative forms.
@@ -64,8 +64,8 @@ At the moment, the Aspect and [Analyt]() features are tagged only in some parts 
   * Abbr (Yes)
 
 * Language-specific features include:
-  * [Analyt](feat/Analyt.md) (Yes) is a marker of the analytic verb forms 
-  * [Variant](feat/Variant.md) distinguishes short and long forms of adjectives.
+  * [Analyt]() (Yes) is a marker of the analytic verb forms 
+  * [Variant]() distinguishes short and long forms of adjectives.
 
 
 ## Syntax
