@@ -65,11 +65,12 @@ See [conjugation tables](conjugation.md) for forms and corresponding UD Tense/Mo
 
 * Verbnouns function as nouns in Welsh: The direct object is in a genetive case (like possessives for other nouns), subjects (unless linked indirectly via a xcomp relation, are attached using a prepositional phrase. However, currently, we still use nsubj, obj , obl, csubj, ccomp and xcomp for dependents of verbnouns, in opposition to nmod etc. for nouns.
 * Welsh specific dependency relation
-  * case:pred only to attach the predicative _yn_ (PART) to its head noun or ajdective
-* Other relations with :
-  * acl:relcl
-  * flat:name
-  * obl:agent (agents for impersonal verb forms)
+  * [case:pred]() only to attach the predicative _yn_ (PART) to its head noun or ajdective
+* Other relations with `:`
+  * [acl:relcl]()
+  * [flat:name]()
+  * [obl:agent]() (_gan_ attached agents for impersonal verb forms)
+  * [nmod:agent]() (_gan_ attached agents for verbnouns in _cael_ passives)
 
 * The following multi-word expressions use the fixed dependency relation
   * _o hyd_ «always«
