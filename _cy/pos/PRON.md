@@ -12,15 +12,15 @@ The independent pronouns are used in subject positions and as reduplications in 
 Prepositions are also used with the independent pronouns 
 The dependent pronouns are used in object positions and as possessive pronouns. 
 
-Person/Numer/Gender | independent  | dependent | independent emphatic
------------ | ------------ | --------- | -----------
-1 Sing      | _i, mi, fi_  | _fy, f', 'm_  | _minnau_
-2 Sing      | _ti_         | _dy, d', 'th_ | _tithau_
-3 Sing Masc | _e(f), o_    | _ei, 'i_      | 
-3 Sing Fem  | _hi_         | _ei, 'i_      | _hithau_
-1 Plur      | _ni_         | _ein, 'n_     | _ninnau_
-2 Plur      | _chi_        | _eich, 'ch_   | _chwithau_
-3 Plur      | _hwy, nhw_   | _eu, 'w_      | _hwythau_
+Person/Numer/Gender | independent  | dependent     | independent emphatic
+------------------- | ------------ | ------------- | -----------
+1 Sing              | _i, mi, fi_  | _fy, f', 'm_  | _minnau_
+2 Sing              | _ti_         | _dy, d', 'th_ | _tithau_
+3 Sing Masc         | _e(f), o_    | _ei, 'i_      | _yntau_
+3 Sing Fem          | _hi_         | _ei, 'i_      | _hithau_
+1 Plur              | _ni_         | _ein, 'n_     | _ninnau_
+2 Plur              | _chi_        | _eich, 'ch_   | _chwithau_
+3 Plur              | _hwy, nhw_   | _eu, 'u, 'w_  | _hwythau, hwyntau_
 
 #### Demonstrative pronouns
 
