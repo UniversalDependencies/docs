@@ -22,7 +22,7 @@ This feature is used for an intransitive verb.
 
 #### Examples
 
-* _'n Verwysingsnommer sal op die skerm verskyn sodra jy die vorm ingedien het._ “A reference number will appear on the screen as soon as you submitted the form.”
+* _'n Verwysingsnommer sal op die skerm <b>verskyn</b> sodra jy die vorm ingedien het._ “A reference number will appear on the screen as soon as you submitted the form.”
 
 
 ### <a name="Tran">`Tran`</a>: transitive verb
@@ -31,6 +31,6 @@ This feature is used for a transitive verb.
 
 #### Examples
 
-* _Hierdie dienste sluit water, elektrisiteit, sanitasie en vullisverwydering in._ “These services include water, electricity, sanitation and garbage collection.”
+* _Hierdie dienste <b>sluit</b> water, elektrisiteit, sanitasie en vullisverwydering in._ “These services include water, electricity, sanitation and garbage collection.”
 
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->

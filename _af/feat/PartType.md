@@ -42,6 +42,6 @@ The negative particle _nie_ used in double negations.
 
 #### Examples
 
-* _En dus, in die woorde van voormalige President Mandela, "durf ons nie talm nie, want ons lang pad is nog nie verby nie"._ “And therefore, in the words of former President Mandela, "we don't dare to delay, as our long path is not over yet".”
+* _En dus, in die woorde van voormalige President Mandela, "durf ons nie talm nie, want ons lang pad is nog nie verby <b>nie</b>"._ “And therefore, in the words of former President Mandela, "we don't dare to delay, as our long path is not over yet".”
 
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
