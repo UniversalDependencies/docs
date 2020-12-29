@@ -33,7 +33,7 @@ The particle _te_ introducing an infinitive.
 
 #### Examples
 
-* _En ons hoop hierdie keer dat hernude pogings deur die internasionale gemeenskap om blywende oplossings vir hierdie konflik <b>te</b> vind, vrugte sal afwerp sodat die Israeliete en die Palestyne as bure vrede en sekuriteit kan geniet binne hul soewereine gebiede.- “And we hope this time that the renewed attempts by the international community to find lasting solutions for this conflict, will bear fruit in order for the Israelis and Palestinians to enjoy peace and security within their sovereign territories.”
+* _En ons hoop hierdie keer dat hernude pogings deur die internasionale gemeenskap om blywende oplossings vir hierdie konflik <b>te</b> vind, vrugte sal afwerp sodat die Israeliete en die Palestyne as bure vrede en sekuriteit kan geniet binne hul soewereine gebiede._ “And we hope this time that the renewed attempts by the international community to find lasting solutions for this conflict, will bear fruit in order for the Israelis and Palestinians to enjoy peace and security within their sovereign territories.”
 
 
 ### <a name="Neg">`Neg`</a>: negative particle
