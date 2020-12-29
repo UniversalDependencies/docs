@@ -12,14 +12,14 @@ udver: '2'
 * Words are generally delimited by whitespace or punctuation. Exceptions:
   * Numerical expressions (including dates) are treated as single words and may contain punctuation or whitespace: _1-1-1970_, _11:00_, _2 000_. This still needs be partially implemented.
   * Abbreviations are treated as single words and may contain punctuation or whitespace: _art._
-* Contractions like _dis_ are considered to be one token.
+* Contractions like _dis_ are considered to be one token. However, they don't occur in this treebank.
 
 ## Morphology
 
 ### Tags
 
 * Afrikaans uses all 17 universal POS categories. Currently interjections are not covered by the treebank, as it contains legal texts from government websites.
-* Particle ([PART]()) is used for _te_ introducing an infinitive, for the negation particle _nie_, the contraction _dis_ (_dit is_), and the genitival particle _se_.
+* Particle ([PART]()) is used for _te_ introducing an infinitive, for the negation particle _nie_, and the genitival particle _se_.
 * The tag [DET]() is used for articles, demonstrative and indefinite pronouns. Other pronouns get the tag [PRON]().
 * Auxiliaries ([AUX]()) are all verbal in Afrikaans and can be grouped into four types:
   * The copula _wees_.
@@ -29,12 +29,13 @@ udver: '2'
 
 ### Features
 
-* Nouns ([NOUN]()) and proper names ([PROPN]()) inflect for number and degree (diminutives).
+* Nouns ([NOUN]()) and proper names ([PROPN]()) inflect for [Number]() and [Degree](feat/Degree.html) (diminutives).
 * Most adjectives ([ADJ]()) have different forms in attributive and predicative positions, which is indicated by the [AdjType](feat/AdjType.html) feature. In addition, many adjectives inflect for [Degree]() (positive, comparative, superlative), and rarely for [Case](), which could be genitive when used independently.
 * Adverbs inflect only for [Degree]().
-* Verbs can be finite or infinite (reflected in [VerbForm]()). Finite forms inflect for [Tense](). For auxiliaries, the type (copula, modal, temporal/passive) is reflected in [VerbType](feat/VerbType.html).
-* The type of determiner and pronoun is reflected in [PronType](). Articles are definite or indefinite ([Definite]()ness). Personal pronouns are inflected for [Number](), [Case]() (nominative or accusative/oblique) and [Person](); possessive and reflexive pronouns for number and person.
-
+* Verbs can be finite or infinite (reflected in [VerbForm]()). Finite forms inflect for [Tense](). For auxiliaries, the type (copula, modal, temporal/passive) is reflected in [VerbType](feat/VerbType.html). Transitivity of a verb is indicate by [Subcat](feat/Subcat.html).
+* The type of determiner and pronoun is reflected in [PronType](). Articles are definite or indefinite ([Definite]()). Personal and reflexive pronouns are inflected for [Number](), [Case]() (nominative or accusative/oblique) and [Person](); possessive pronouns for [Number]() and [Person]().
+* The type of particle is reflected in [PartType](feat/PartType.html).
+* The type of adposition is reflected in [AdpType]().
 
 ## Syntax
 
