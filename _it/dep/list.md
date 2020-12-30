@@ -15,9 +15,9 @@ list(TT, #cinemaInChiesa)
 list(TT, #serviziopubblico)
 list(TT, #Grillo)
 list(TT, Trota)
-list(TT, Levon Helm)
-list(TT, Damon and Elena)
-list(TT, Prince Of Persia)
+list(TT, Levon)
+list(TT, Damon)
+list(TT, Prince)
 list(TT, Lega)
 ~~~
 
