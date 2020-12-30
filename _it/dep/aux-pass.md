@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'auxpass'
+title: 'aux:pass'
 shortdef: 'passive auxiliary'
 udver: '2'
 ---
