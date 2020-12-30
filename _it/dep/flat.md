@@ -11,7 +11,7 @@ The `flat` relation is one of three relations for multiword expressions multiwor
  It is not used to replace the usual relations in a phrasal or clausal name, like titles of books, where the actual dependencies should be preserved. 
  An exception is for foreign phrases which cannot be given a compositional analysis. 
  
- ~~~ sdparse
+~~~ sdparse
 1 dicembre 2016
 flat(1, dicembre)
 flat(1, 2016)
