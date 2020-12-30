@@ -9,11 +9,11 @@ A passive auxiliary (*essere*/*venire*) of a clause is a non-main verb of the cl
 
 ~~~ sdparse
 L' escursione era guidata da Castiglioni
-auxpass(guidata, era)
+aux:pass(guidata, era)
 ~~~
 ~~~ sdparse
 Le norme sono determinate da leggi speciali
-auxpass(determinate, sono)
+aux:pass(determinate, sono)
 ~~~
 
 Sometimes the verb *essere* to be can be substituted by other verbs that assume the same function, like *andare* (to go) and *venire* (to come). 
@@ -22,11 +22,11 @@ Sometimes the verb *essere* to be can be substituted by other verbs that assume 
 
 ~~~ sdparse
 I programmi vanno coordinati .
-auxpass(vanno, coordinati)
+aux:pass(vanno, coordinati)
 ~~~
 ~~~ sdparse
 Il documento è andato perduto .
-auxpass(perduto, andato)
+aux:pass(perduto, andato)
 aux(perduto, è)
 ~~~
 
@@ -34,27 +34,27 @@ aux(perduto, è)
 
 ~~~ sdparse
 Quando venne costruito il Titanic ?
-auxpass(costruito, venne)
+aux:pass(costruito, venne)
 ~~~
 ~~~ sdparse
 Cosa viene prodotto da la Oracle ?
-auxpass(prodotto, viene)
+aux:pass(prodotto, viene)
 ~~~
 ~~~ sdparse
 La sua immagine viene liquidata
-auxpass(liquidata, viene)
+aux:pass(liquidata, viene)
 ~~~
 
 Note that periphrastic tenses in passive constructions are marked as follows, by distinguishing between the passive auxiliary (i.e. that immediately preceding the verbal head) which is marked as <code>auxpass</code> and the tense auxiliaries (the preceding ones) which are marked as [aux]().
 
 ~~~ sdparse
 è stato trovato
-auxpass(trovato, stato)
+aux:pass(trovato, stato)
 aux(trovato, è)
 ~~~
 ~~~ sdparse
 potrebbe essere stato trovato
-auxpass(trovato, stato)
+aux:pass(trovato, stato)
 aux(trovato, essere)
 aux(trovato, potrebbe)
 ~~~
