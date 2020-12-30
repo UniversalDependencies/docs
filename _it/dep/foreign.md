@@ -2,6 +2,7 @@
 layout: relation
 title: 'flat:foreign'
 shortdef: 'foreign words'
+udver: '1'
 ---
 
 We use <code>flat:foreign</code> to label sequences of foreign words. These are given a linear analysis: the head is the first token in the foreign phrase. 
