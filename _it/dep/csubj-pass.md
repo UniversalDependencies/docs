@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'csubjpass'
+title: 'csubj:pass'
 shortdef: 'clausal passive subject'
 udver: '2'
 ---
@@ -9,22 +9,22 @@ A clausal passive subject is a clausal syntactic subject of a passive clause (or
 
 ~~~ sdparse
 Ci viene spiegato come fossero fatti , in gran parte , da giovani ebrei 
-csubjpass(spiegato, fatti)
-auxpass(spiegato, viene)
+csubj:pass(spiegato, fatti)
+aux:pass(spiegato, viene)
 iobj(spiegato, Ci)
 aux(fatti, fossero)
 mark(fatti, come)
 ~~~
 ~~~ sdparse
 Gli venne chiesto se si ricordasse di Honoré
-csubjpass(chiesto, ricordasse)
+csubj:pass(chiesto, ricordasse)
 ~~~
 ~~~ sdparse
 Mi è stato detto che il gruppo socialista vorrebbe che questo punto venisse ritirato
-csubjpass(detto, vorrebbe)
+csubj:pass(detto, vorrebbe)
 ccomp(vorrebbe, ritirato)
 iobj(detto, Mi)
 aux(detto, è)
-auxpass(detto, stato)
+aux:pass(detto, stato)
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:22 CET 2020 -->

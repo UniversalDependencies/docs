@@ -8,7 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Adnum">Adnum</a></td>
+  <td><a href="#Count">Count</a></td>
   <td><a href="#Dual">Dual</a></td>
   <td><a href="#Plur">Plur</a></td>
   <td><a href="#Sing">Sing</a></td>
@@ -51,12 +51,12 @@ A plural noun denotes several persons, animals or things.
 * _<b>блг҃овѣрныи хрстїѧне</b>&nbsp;_ “faithful Christians”
 
 
-### <a name="Adnum">`Adnum`</a>: adnumeral form 
+### <a name="Count">`Count`</a>: count plural (adnumeral form)  
 
 In the Middle Russian and Ruthenian, the adnumeral form is used in the construction with (mostly) paucal numerals. 
 Sometimes it can be assosiated with old dual forms, sometimes - with modern genitive singular forms, and sometimes 
 unique forms are used. Since the adnumeral construction calls for further investigation, all noun and adjective forms  
-the use of which is governed by numerals are marked `Adnum`. 
+the use of which is governed by numerals are marked `Count`. 
 
 #### Examples
 
@@ -68,4 +68,4 @@ the use of which is governed by numerals are marked `Adnum`.
 
 #### TOROT
 
-`Adnum` is not used in the TOROT tagset.
+`Count` is not used in the TOROT tagset.

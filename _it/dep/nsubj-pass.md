@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'nsubjpass'
+title: 'nsubj:pass'
 shortdef: 'passive nominal subject'
 udver: '2'
 ---
@@ -9,14 +9,14 @@ A passive nominal subject is a noun phrase which is the syntactic subject of a p
 
 ~~~ sdparse
 Orejuela è stato trasferito a Bogotà.
-nsubjpass(trasferito, Orejuela)
+nsubj:pass(trasferito, Orejuela)
 ~~~
 ~~~ sdparse
 Vengono applicate placche .
-nsubjpass(applicate, placche)
+nsubj:pass(applicate, placche)
 ~~~
 ~~~ sdparse
 Tutte le persone sono state poi trasportate a Brindisi.
-nsubjpass(trasportate, persone)
+nsubj:pass(trasportate, persone)
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:33 CET 2020 -->

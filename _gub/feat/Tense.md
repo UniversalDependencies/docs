@@ -9,13 +9,15 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Fut">Fut</a></td>
+  <td><a href="#Past">Past</a></td>
   
-  
-  
+   
 </tr>
 </table>
 
-`Tense`
+The only `Tense` 
+
+
 
 ### <a name="Fut">`Fut`</a>: Future
 
@@ -25,8 +27,17 @@ Usually realised in adverbs
 
 * _<b>oho putar</b>&nbsp;_ “He/she/they will go" 
 
-</tr>
-</table>
+
+`Past` is not a feature of the verb in Guajajara. Some evidential partiles also carry tense, as *kakwez*, 
+which always appears in second position and inindicates an attested event in a distant past. 
+
+### <a name="Past">`Past`</a>: Past
+
+Usually realised in adverbs
+
+#### Examples
+
+* _<b>Ukwaw kakwez zeʔengete imungetahaw aʔe wə kurɨ</b>&nbsp;_ “They know (attested in the distant past) how to read Guajajara" 
 
 
 ## Diffs

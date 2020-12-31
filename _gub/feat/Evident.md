@@ -1,39 +1,41 @@
 ---
 layout: feature
-title: 'Aspect'
-shortdef: 'aspect'
+title: 'Evident'
+shortdef: 'evidential'
 udver: '2'
 ---
 
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="">Perf</a></td>
-  <td><a href="">Frus</a></td>
+  <td><a href="#Att">Att</a></td>
+  <td><a href="#Fh">Fh</a></td>
   
+  
+
 </tr>
 </table>
 
-`Aspect` in Ka'apor has the following values...
+`Evidential`  
 
-### <a name="Perf">`Perf`</a>: perfective
+### <a name="Att">`Att`</a>: Attested 
 
-Perfective in Ka'apor is marked by particle "ʔy"
+It is used to signal the instrument with which an action was performed.
+
+#### Examples
+(small-DIM PRON village)
+
+
+
+### <a name="Fh">`Fh`</a>: First Hand 
+
+It is used to signal the instrument with which an action was performed.
 
 #### Examples
 
-* _<b>remusak ʔy</b>&nbsp;_ “(you) got sb. to see” (SG.2 Causative)
+* _<b>blabla</b>&nbsp;_ “blabla” 
+  
 
-
-
-
-### <a name="Frus">`Frus`</a>: perfective
-
-Frustrative in Ka'apor is marked by particle "tipe"
-
-#### Examples
-
-* _<b>O-ho tipe</b>&nbsp;_ “He went in vain” (3-go Frus)
 
 
 
