@@ -26,11 +26,14 @@ udver: '2'
 </tr>
 </table>
 
+Case is a grammatical category determined by the syntactic or semantic function of a noun or pronoun.
+Discussion: 
+
 Case is an inflectional feature of [nouns](myv-pos/NOUN) and
 other parts of speech ([adjectives](myv-pos/ADJ),
 [numerals](myv-pos/NUM), [pronouns](myv-pos/PRON), [postpositions](myv-pos/ADP)) that are noun phrase heads.
 
-Case helps specify the role of the noun phrase in the sentence. The various cases have different distributions as basic or indefinite cases (1–15) in relation to their definite singular (-10), definite plural (-13) and possessive (-12) paradigms.
+Case helps specify the role of a complex noun phrase in a sentence. Here, the term **complex noun phrase** is used to provide a syntactic delimitation and thereby distinguish between noun phrases versus single-word adverbs in adverbial phrases. The various cases have different distributions as basic or indefinite cases (1–15) in relation to their definite singular (-10), definite plural (-13) and possessive (-12) paradigms.
 
 Erzya morphology distinguishes fifteen cases:
 `Abe`, `Abl`, `Com`, `Cmp`, `Dat`, `Ela`, `Gen`, `Ill`, `Ine`, `Lat`, `Loc`, `Nom`, `Prl`, `Tem`, `Tra`
