@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Rel'
-shortdef: 'relational'
+shortdef: 'rel'
 udver: '2'
 ---
 
