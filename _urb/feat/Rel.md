@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Cont">Cont</a></td>
-  
+  <td><a href="#NCont">NCont</a></td>
   
 </tr>
 </table>
@@ -19,6 +19,16 @@ adjacency or contiguity (Rel=Cont) and non-adjacency or non-contiguity of head a
 e.g., possessor-noun, object-postposition.
 
 ### <a name="Cont">`Cont`</a>: contiguous
+
+Contiguity is more often associated with
+
+#### Examples
+
+* _<b>ne r-ɛhɛ</b>&nbsp;_ “about you (preceding element)"
+* _<b>ɛhɛ</b>&nbsp;_ “about”
+
+
+### <a name="NCont">`NCont`</a>: contiguous
 
 Contiguity is more often associated with
 
