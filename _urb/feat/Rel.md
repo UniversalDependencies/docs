@@ -15,7 +15,7 @@ udver: '2'
 </table>
 
 `Rel` is a morpheme that combines with lexical roots and postpositions. They signalize the 
-adjacency or contiguity (Rel=Cont) and non-adjacency or non-contiguity of head and depenent, 
+adjacency or contiguity (Rel=Cont) and non-adjacency or non-contiguity (Rel=NCont) of head and depenent, 
 e.g., possessor-noun, object-postposition.
 
 ### <a name="Cont">`Cont`</a>: contiguous
