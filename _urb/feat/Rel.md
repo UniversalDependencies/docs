@@ -25,16 +25,15 @@ Contiguity is more often associated with
 #### Examples
 
 * _<b>ne r-ɛhɛ</b>&nbsp;_ “about you (preceding element)"
-* _<b>ɛhɛ</b>&nbsp;_ “about”
 
 
-### <a name="NCont">`NCont`</a>: contiguous
+
+### <a name="NCont">`NCont`</a>: non-contiguous
 
 Contiguity is more often associated with
 
 #### Examples
 
-* _<b>ne r-ɛhɛ</b>&nbsp;_ “about you (preceding element)"
 * _<b>ɛhɛ</b>&nbsp;_ “about”
 
 
