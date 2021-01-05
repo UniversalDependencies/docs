@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Rel'
-shortdef: 'rel'
+shortdef: 'relational'
 udver: '2'
 ---
 
@@ -25,6 +25,8 @@ Contiguity is more often associated with
 #### Examples
 
 * _<b>ne r-ɛhɛ</b>&nbsp;_ “about you (preceding element)"
+* _<b>ne r-ɛhɛ</b>&nbsp;_ “about you (preceding element)"
+
 
 
 
@@ -34,6 +36,7 @@ Non-contiguity is more often associated with
 
 #### Examples
 
+* _<b>ɛhɛ</b>&nbsp;_ “about”
 * _<b>ɛhɛ</b>&nbsp;_ “about”
 
 
