@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Rel'
-shortdef: 'relational'
+shortdef: 'rel'
 udver: '2'
 ---
 
@@ -30,7 +30,7 @@ Contiguity is more often associated with
 
 ### <a name="NCont">`NCont`</a>: non-contiguous
 
-Contiguity is more often associated with
+Non-contiguity is more often associated with
 
 #### Examples
 
