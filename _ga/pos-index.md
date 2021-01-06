@@ -8,25 +8,25 @@ permalink: ga/pos/index.html
 # POS tags
 <table>
 <tr><td><strong>Open class words</strong></td><td><strong>Closed class words</strong></td><td><strong>Other</strong></td></tr>
-<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADJ.html">ADJ</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADP.html">ADP</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PUNCT.html">PUNCT</a></td>
+<tr><td><a href="https://universaldependencies.org/ga/pos/ADJ.html">ADJ</a></td>
+<td><a href="https://universaldependencies.org/ga/pos/ADP.html">ADP</a></td>
+<td><a href="https://universaldependencies.org/ga/pos/PUNCT.html">PUNCT</a></td>
 </tr>
-<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADV.html">ADV</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-AUX.html">AUX</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SYM.html">SYM</a></td></tr>
-<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-INTJ.html">INTJ</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-CCONJ.html">CCONJ</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-X.html">X</a></td></tr>
-<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NOUN.html">NOUN</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SCONJ.html
+<tr><td><a href="https://universaldependencies.org/ga/pos/ADV.html">ADV</a></td>
+<td><a href="https://universaldependencies.org/ga/pos/AUX.html">AUX</a></td>
+<td><a href="https://universaldependencies.org/ga/pos/SYM.html">SYM</a></td></tr>
+<tr><td><a href="https://universaldependencies.org/ga/pos/INTJ.html">INTJ</a></td>
+<td><a href="https://universaldependencies.org/ga/pos/CCONJ.html">CCONJ</a></td>
+<td><a href="https://universaldependencies.org/ga/pos/X.html">X</a></td></tr>
+<tr><td><a href="https://universaldependencies.org/ga/pos/NOUN.html">NOUN</a></td>
+<td><a href="https://universaldependencies.org/ga/pos/SCONJ.html
 ">SCONJ</a></td><td></td></tr>
-<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PROPN.html">PROPN</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-DET.html">DET</a></td><td></td></tr>
-<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-VERB.html">VERB</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NUM.html">NUM</a></td><td></td></tr>
-<tr><td></td><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PART.html">PART</a></td><td></td></tr>
-<tr><td></td><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PRON.html">PRON</a></td><td></td></tr>
+<tr><td><a href="https://universaldependencies.org/ga/pos/PROPN.html">PROPN</a></td>
+<td><a href="https://universaldependencies.org/ga/pos/DET.html">DET</a></td><td></td></tr>
+<tr><td><a href="https://universaldependencies.org/ga/pos/VERB.html">VERB</a></td>
+<td><a href="https://universaldependencies.org/ga/pos/NUM.html">NUM</a></td><td></td></tr>
+<tr><td></td><td><a href="https://universaldependencies.org/ga/pos/PART.html">PART</a></td><td></td></tr>
+<tr><td></td><td><a href="https://universaldependencies.org/ga/pos/PRON.html">PRON</a></td><td></td></tr>
 </table>
 
 Here we highlight the unintuitive choices made for mapping the Irish data to Universal POS tags. More information on each of the 17 POS tags and their use in Irish can be found in their respective pages.
