@@ -2,6 +2,7 @@
 layout: relation
 title: 'parataxis'
 shortdef: 'parataxis'
+udver: '2'
 ---
 
 The parataxis relation (from Greek for "place side by side") is a
@@ -30,13 +31,13 @@ parataxis(Folha, acredita)
 
 ### Side-by-side sentences ("run-on sentences")
 
-The relation parataxis is used for a pair of what could have been standalone sentences, 
+The relation parataxis is used for a pair of what could have been standalone sentences,
 but which are being treated together as a single sentence. This may happen because sentence
 segmentation of the sentence was done primarily following the presence of sentence-final punctuation,
 and these clauses are joined by punctuation such as a colon or comma, or not delimited by punctuation
 at all. In a spoken corpus, it may happen because what is labeled as a sentence is more
 commonly an utterance turn. Even if the treebanker is doing the sentence division, it may
-happen because there seems to be a clear discourse relation linking two clauses. 
+happen because there seems to be a clear discourse relation linking two clauses.
 Sometimes there are more than two sentences joined in this way. In this case we make all the later sentences
 dependents of the first one, to maximize similarity to the analysis used for conjunction.
 
@@ -81,7 +82,7 @@ preceding main clause with a [parataxis]() relation, hence with the
 speech verb as its head.
 
 ~~~ sdparse
-Van Himst disse :  Eles encontraram um homem - gol . 
+Van Himst disse :  Eles encontraram um homem - gol .
 parataxis(disse, encontraram)
 ~~~
 

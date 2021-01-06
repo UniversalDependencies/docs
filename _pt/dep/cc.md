@@ -2,18 +2,19 @@
 layout: relation
 title: 'cc'
 shortdef: 'coordinating conjunction'
+udver: '2'
 ---
 
 For more on coordination, see the [conj]() relation.
-A `cc` is the relation between the first conjunct and
-the [coordinating conjunction](../pos/CCONJ) delimiting another conjunct.
+A `cc` is the relation between a conjunct and
+the preceding [coordinating conjunction](../pos/CCONJ) delimiting another conjunct.
 (Note: different dependency grammars have different treatments of coordination.
 We take the first conjunct as the head of the coordination.)
 
 ~~~ sdparse
 repúblicas gregas e romanas
-cc(gregas, e)
 conj(gregas, romanas)
+cc(romanas, e)
 ~~~
 
 ~~~ sdparse
@@ -45,6 +46,6 @@ amod(quarto, pobre)
 conj(pobre, simples)
 conj(pobre, limpo)
 conj(pobre, acolhedor)
-cc(pobre, e)
+cc(acolhedor, e)
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:16 CET 2020 -->

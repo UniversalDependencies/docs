@@ -2,6 +2,7 @@
 layout: relation
 title: 'cop'
 shortdef: 'copula'
+udver: '2'
 ---
 
 A copula is the relation between the complement of a copular verb and
@@ -15,7 +16,7 @@ cop(campeã, é)
 ~~~
 
 ~~~ sdparse
-As 15 pessoas são membros da Peta 
+As 15 pessoas são membros da Peta
 nsubj(membros, pessoas)
 cop(membros, são)
 ~~~
@@ -43,7 +44,7 @@ case(forma, em)
 
 <!--
 A parallel can also be drawn to so-called raising-to-object or small clause constructions in English.
-Under the basic analysis proposed for SD, the predicate complement is not linked to its subject argument, but in the enhanced representation (see below), 
+Under the basic analysis proposed for SD, the predicate complement is not linked to its subject argument, but in the enhanced representation (see below),
 the linkage is then parallel to the treatment in a zero
 copula language:
 
@@ -67,8 +68,8 @@ cop(correta, sido)
 aux(correta, tem)
 ~~~
 
-The motivation for this choice is that this structure is parallel to the flat structure which we give to auxiliary verbs accompanying verbs. 
-In particular, in languages such as English and Portuguese, it is often very difficult to decide whether to regard a participle as a verb or an adjective.  
+The motivation for this choice is that this structure is parallel to the flat structure which we give to auxiliary verbs accompanying verbs.
+In particular, in languages such as English and Portuguese, it is often very difficult to decide whether to regard a participle as a verb or an adjective.
 Perhaps the following sentence is such a case:
 
 ~~~ sdparse

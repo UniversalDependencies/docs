@@ -2,6 +2,7 @@
 layout: relation
 title: 'punct'
 shortdef: 'punctuation'
+udver: '2'
 ---
 
 This is used for any piece of punctuation in a clause, if punctuation
@@ -15,7 +16,7 @@ punct(Tem, .)
 ~~~
 
 Tokens with the relation [u-dep/punct]() always attach to content words (except in cases of ellipsis) and can never have dependents.
-Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
+Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply.
 Instead, we use the following principles:
 
 1. A punctuation mark separating coordinated units is attached to the first conjunct.
@@ -29,10 +30,10 @@ nmod(equipados, frigobar)
 conj(frigobar, ar condicionado)
 conj(frigobar, televisão)
 conj(frigobar, telefone)
-cc(frigobar, e)
-punt(frigobar, ,)
-punt(frigobar, ,)
-punt(dividem, .)
+cc(telefone, e)
+punct(ar condicionado, ,-14)
+punct(televisão, ,-17)
+punct(dividem, .)
 </div>
 
 <div id="punct2" class="sd-parse">

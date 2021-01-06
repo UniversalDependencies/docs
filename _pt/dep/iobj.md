@@ -2,6 +2,7 @@
 layout: relation
 title: 'iobj'
 shortdef: 'indirect object'
+udver: '2'
 ---
 
 The indirect object of a verb is any nominal phrase that is a core
@@ -19,12 +20,12 @@ In general, if there is just one object, it should be labeled
 
 ~~~ sdparse
 Ela ensina lógica
-dobj(ensina, lógica)
+obj(ensina, lógica)
 ~~~
 
 ~~~ sdparse
 Ela ensina os alunos do primeiro ano
-dobj(ensina, alunos)
+obj(ensina, alunos)
 ~~~
 
 ~~~ sdparse
@@ -49,7 +50,7 @@ ccomp(told, precisam)
 ~~~ sdparse
 Ela disse o plano a os estudantes
 iobj(disse, estudantes)
-dobj(disse, plano)
+obj(disse, plano)
 ~~~
 
 If there are two or

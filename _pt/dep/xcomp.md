@@ -2,6 +2,7 @@
 layout: relation
 title: 'xcomp'
 shortdef: 'open clausal complement'
+udver: '2'
 ---
 
 An open clausal complement (`xcomp`) of a verb or an adjective is a
@@ -9,8 +10,8 @@ predicative or clausal complement without its own subject. The
 reference of the subject is necessarily determined by an argument
 external to the xcomp (normally by the object of the next higher
 clause, if there is one, or else by the subject of the next higher
-clause). This is often referred to as *obligatory control*. 
-These clauses tend to be non-finite in many languages, 
+clause). This is often referred to as *obligatory control*.
+These clauses tend to be non-finite in many languages,
 but they can be finite as well. The name `xcomp` is
 borrowed from Lexical-Functional Grammar.
 
@@ -71,7 +72,7 @@ advcl(projetado, manter)
 ~~~
 
 ~~~ sdparse
-Os empresários abriram mão de posições históricas , eventualmente visando sua proteção , para construir e defender idéias 
+Os empresários abriram mão de posições históricas , eventualmente visando sua proteção , para construir e defender idéias
 nsubj(abriram, empresários)
 advcl(abriram, visando)
 advcl(abriram, construir)
@@ -95,7 +96,7 @@ as an `xcomp`:
 ~~~ sdparse
 Ela declarou o bolo lindo .
 nsubj(declarou, Ela)
-dobj(declarou, bolo)
+obj(declarou, bolo)
 xcomp(declarou, lindo)
 nsubj(lindo, bolo)
 ~~~

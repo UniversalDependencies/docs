@@ -1,8 +1,8 @@
 ---
 layout: relation
 title: 'fixed'
-redirect_from: "pt/dep/mwe.html"
-shortdef: 'multi-word expression'
+shortdef: 'fixed multi-word expression'
+udver: '2'
 ---
 
 The multi-word expression (modifier) relation is one of the three
@@ -19,18 +19,18 @@ for MWEs in exceptional cases.
 
 ~~~ sdparse
 fluido está para vítreo assim como viscoso está para translúcido
-mwe(assim, como)
+fixed(assim, como)
 ~~~
 
 ~~~ sdparse
 o que é mais 48,31 por cento
-mwe(o, que)
-mwe(por, cento)
+fixed(o, que)
+fixed(por, cento)
 ~~~
 
 ~~~ sdparse
-todos os candidatos recebem os dois pontos 
-mwe(todos, os)
+todos os candidatos recebem os dois pontos
+fixed(todos, os)
 det(candidatos, todos)
 ~~~
 

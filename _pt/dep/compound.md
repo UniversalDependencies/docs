@@ -2,14 +2,15 @@
 layout: relation
 title: 'compound'
 shortdef: 'compound'
+udver: '2'
 ---
 
 `compound` is one of the three relations in UD for compounding.
 
-It is used for 
+It is used for
 
 - any kind of X<sup>0</sup> compounding: noun compounds (e.g., *linha vermelha*), but also verb and
-adjective compounds that are more common in other languages (_guarda-chuva, nova era_). 
+adjective compounds that are more common in other languages (_guarda-chuva, nova era_).
 ~~~ sdparse
 nova era
 compound(era, nova)
@@ -19,7 +20,7 @@ compound(era, nova)
 - for numbers
 
 ~~~ sdparse
-a décima primeira rodada 
+a décima primeira rodada
 compound(décima, primeira)
 ~~~
 

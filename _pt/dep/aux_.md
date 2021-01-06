@@ -5,11 +5,12 @@ shortdef: 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "pt/dep/aux.html"
+udver: '2'
 ---
 
 An auxiliary of a clause is a [non-main verb](u-pos/AUX) of the
 clause, e.g., a modal auxiliary, or a form of _ser, fazer_ or _ter_ in a
-periphrastic tense. 
+periphrastic tense.
 
 Note that in Portuguese, verbs as "começar", "acabar", "terminar" are analysed as aspectualizers of the main verb (following [ROCIO, S. Começar e acabar: aspestualizadores em processo de gramaticalização](http://acervodigital.ufpr.br/bitstream/handle/1884/37207/R%20-%20T%20-%20SIRLEI%20DO%20ROCIO%20CAVALLI.pdf?sequence=3), then they should be tagged as `aux`.
 
