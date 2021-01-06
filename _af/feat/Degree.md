@@ -40,8 +40,7 @@ compared, too.
 
 #### Examples
 
-* [en] _<b>young</b> man_
-* [cs] _<b>mladý</b> muž_
+* _die <b>internasionale</b> gemeenskap_ “the international community”
 
 ### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
@@ -50,8 +49,7 @@ object.
 
 #### Examples
 
-* [en] _the man is <b>younger</b> than me_
-* [cs] _ten muž je <b>mladší</b> než já_
+* _Dit word toenemend <b>sterker</b>._ “It gets increasingly strong.”
 
 ### <a name="Sup">`Sup`</a>: superlative, third degree
 
@@ -60,8 +58,7 @@ objects within a set.
 
 #### Examples
 
-* [en] _this is the <b>youngest</b> man in our team_
-* [cs] _toto je <b>nejmladší</b> muž v našem týmu_
+* _Ons sal ons pogings verskerp, geïnspireer deur die entoesiasme, hoop en veerkragtigheid van die Suid-Afrikaanse mense in 'n strewe na dit wat die <b>beste</b> is vir ons almal._ “We will intensify our attempts, inspired by the enthusiasm, hope and resilience of the South African people in pursuit of what is best for all of us.”
 
 
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
