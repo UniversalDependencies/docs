@@ -18,9 +18,9 @@ for a single argument.
 
 #### Examples:
 
-* _Xkikunaj le ali ri ixoqibʼ._
-* _<b>Xkunataj</b> le ali (kumal ri ixoqibʼ)._
-* _Le ali <b>xkunatajik</b>._
+* _Xkikunaj le ali ri ixoqibʼ._ "Las mujeres curaron a la niña."
+* _<b>Xkunataj</b> le ali (kumal ri ixoqibʼ)._ "La niña fue curada (por las mujeres)."
+* _Le ali <b>xkunatajik</b>._ "La niña se curó"
 
 ### <a name="Anti">`Anti`</a>: antipassive
 
@@ -29,7 +29,7 @@ for a single argument.
 
 #### Examples:
 
-* _Xinkunaj alaq._
-* _<b>Xinkunan</b> chech alaq._
-* _<b>Xkunan</b> alaq chwe._
+* _Xinkunaj alaq._ "Los curé a ustedes"
+* _<b>Xinkunan</b> (chech alaq)._ "Yo los curé (a ustedes)"
+* _<b>Xkunan</b> alaq (chwe)._ "Ustedes (me) curaron"
 
