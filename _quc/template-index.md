@@ -1,12 +1,12 @@
 ---
 layout: base
-title:  'Kiche UD'
+title:  'Kʼicheʼ UD'
 udver: '2'
 ---
 
-# UD for Kiche <span class="flagspan"><img class="flag" src="../../flags/svg/GT-QC.svg" /></span>
+# UD for Kʼicheʼ <span class="flagspan"><img class="flag" src="../../flags/svg/GT-QC.svg" /></span>
 
-## Tokenization and Word Segmentation
+## Tokenisation and Word Segmentation
 
 *
 
@@ -48,8 +48,8 @@ udver: '2'
 
 There are [N](../treebanks/quc-comparison.html) Kiche UD treebanks:
 
-  * [Kiche-A](../treebanks/quc_a/index.html)
-  * [Kiche-B](../treebanks/quc_b/index.html)
+  * [Kʼicheʼ-A](../treebanks/quc_a/index.html)
+  * [Kʼicheʼ-B](../treebanks/quc_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
