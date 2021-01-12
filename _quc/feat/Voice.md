@@ -22,7 +22,7 @@ for a single argument.
 * _<b>Xkunataj</b> le ali (kumal ri ixoqibʼ)._ "La niña fue curada (por las mujeres)."
 * _Le ali <b>xkunatajik</b>._ "La niña se curó"
 
-### <a name="Anti">`Anti`</a>: antipassive
+### <a name="Antip">`Antip`</a>: antipassive
 
 The passive demotes an object and leaves the subject in position. The verb then only has agreement
 for a single argument.
