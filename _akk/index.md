@@ -63,7 +63,6 @@ For the most part, Akkadian word order is SOV.
 * The following relation subtypes are used in Akkadian:
   * acl:relcl for relative clauses
   * advmod:emph for the particle *lū* in its asseverative function
-  * advmod:neg for the negation particles *lā* and *ul*
   * det:poss for possessive determiners
   * nmod:poss for the construct state
 
