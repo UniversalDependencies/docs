@@ -33,3 +33,12 @@ for a single argument.
 * _<b>Xinkunan</b> (chech alaq)._ "Yo los curé (a ustedes)"
 * _<b>Xkunan</b> alaq (chwe)._ "Ustedes (me) curaron"
 
+### <a name="AgFoc">`AgFoc`</a>: agent focus antipassive
+
+The passive demotes an object and leaves the subject in position. The verb then only has agreement
+for a single argument. In this variant the subject is fronted.
+
+#### Examples:
+
+* _Ri tʼuʼy <b>kpaqʼowik</b>._ "La olla está hirviendo"
+* _Are ri achi <b>xinchʼayowik</b>._ "Fue el hombre que me pegó."
