@@ -13,8 +13,12 @@ This feature specifies how many arguments the verb agrees with.
 
 ### <a name="1">`1`</a>: intransitive verb (1 argument)
 
+#### Examples
+
 * _<b>Kinbʼe</b>_ "I go"
 
 ### <a name="2">`2`</a>: transitive verb (2 arguments)
+
+#### Examples
 
 * _<b>Xatinwilo</b>_ "I see you"
