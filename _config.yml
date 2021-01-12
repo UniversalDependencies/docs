@@ -312,6 +312,8 @@ collections:
     output: true
   si:
     output: true
+  quc:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
