@@ -5,7 +5,7 @@ shortdef: 'voice'
 udver: '2'
 ---
 
-In Kʼicheʼ, `Voice` is a feature of some [verbs](quc-pos/VERB). Transitive verbs in Kʼicheʼ agree 
+In Kʼicheʼ, `Voice` is a feature of some [verbs](quc-pos/VERB). Transitive verbs in Kʼicheʼ agree
 for both subject and object.
 
 
@@ -22,7 +22,7 @@ for a single argument.
 * _<b>Xkunataj</b> le ali (kumal ri ixoqibʼ)._ "La niña fue curada (por las mujeres)."
 * _Le ali <b>xkunatajik</b>._ "La niña se curó"
 
-### <a name="Anti">`Anti`</a>: antipassive
+### <a name="Antip">`Antip`</a>: antipassive
 
 The passive demotes an object and leaves the subject in position. The verb then only has agreement
 for a single argument.
