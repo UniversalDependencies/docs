@@ -25,7 +25,7 @@ csubj:cleft(sheelaght, t')
 Ayns y choorse echeysyn va Ammizabad e vac \n In the course at-himself was Ammizabad his son
 case(choorse, Ayns)
 det(choorse, y)
-csubj:cleft(choose, va)
+csubj:cleft(choorse, va)
 nsubj(va, Ammizabad)
 det(vac, e)
 appos(Ammizabad, vac)
