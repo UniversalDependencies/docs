@@ -5,7 +5,7 @@ shortdef: 'case marking to form adverbs'
 udver: '2'
 ---
 
-This deprel is a special class of [case](). While deprel 'case' is usually used for ADP as a nominal dependent, for this subtype ADP can be a dependent of ADJ/ADV/VERB and together with its parent, they form adverbs.
+This deprel is a special class of [case](). While deprel 'case' is usually used for ADP as a nominal dependent, for this subtype, ADP can be a dependent of ADJ/VERB and together with its parent, they form adverbs.
 
 In Indonesian grammar, we can use syntax ADP + ADJ/VERB/NOUN to form adverbs. For example:
 1. _secara/dengan_ + ADJ: _dengan sengaja_ "purposely/intentionally" = _dengan_ "in a manner of" (ADP) + _sengaja_ "on purpose" (ADJ)
