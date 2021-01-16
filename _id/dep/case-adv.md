@@ -14,8 +14,6 @@ In Indonesian grammar, we can use syntax ADP + ADJ/VERB/NOUN to form adverbs. Fo
 
 Since we can not use deprel 'case' for syntax 1 and 2 for ADP + ADJ/VERB, we propose the use of subtype 'case:adv'. 
 
-The examples of annotation for ADP + ADJ:
-
 ~~~ sdparse
 dijual secara legal \n sold legally
 advmod(dijual, legal)
@@ -23,20 +21,10 @@ case:adv(legal, secara)
 ~~~
 
 ~~~ sdparse
-dipilih dengan sengaja \n selected intentionally
-advmod(dipilih, sengaja)
-case:adv(sengaja, dengan)
-~~~
-
-The examples of annotation for ADP + VERB:
-
-~~~ sdparse
 merespon secara terbuka \n to respon openly
 advcl(merespon, terbuka)
 case:adv(terbuka, secara)
 ~~~
-
-For syntax 3 (ADP + NOUN = ADV), we use the basic 'case'.
 
 ~~~ sdparse
 menguntungkan secara keseluruhan \n beneficial as a whole
