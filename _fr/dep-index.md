@@ -8,7 +8,7 @@ udver: '2'
 
 # Dependencies for French corpora
 
-The consistency among the seven French corpora was improved in release 2.5.
+The consistency among the seven French corpora was improved in recent versions.
 
 The table below gives the full set of French relations with an additional annotation.
 3 relations are used only in the **UD_French-Spoken** corpus (tagged with [Spo]).
