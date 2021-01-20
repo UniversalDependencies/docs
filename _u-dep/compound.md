@@ -60,7 +60,7 @@ case(play, of)
 ~~~ sdparse
 make a decision
 obj(make, decision)
-det(a, decision)
+det(decision, a)
 ~~~
 
 <!-- Interlanguage links updated Čt lis 12 09:43:18 CET 2020 -->
