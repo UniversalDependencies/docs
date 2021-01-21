@@ -170,7 +170,7 @@ the same feature as indicative, `Ind`) and irrealis.
 
 #### Examples
 
-* [quc] _Xaq <b>ta</b> ne kimbʼe iwukʼ. “Let me be with you.” (“Que fuera yo con ustedes.”)
+* [quc] _Xaq <b>ta</b> ne kimbʼe iwukʼ._ “Let me be with you.” (“Que fuera yo con ustedes.”)
 
 ### <a name="Adm">`Adm`</a>: admirative
 
