@@ -28,17 +28,6 @@ obl:mod(mange, heures)
 case(heures, à)
 ~~~
 
-~~~ sdparse
-Max habite à Paris . \n Max lives in Paris.
-obl:comp(habite, Paris)
-case(Paris, à)
-~~~
-
-~~~ sdparse
-Selon ma voisine , le gardien vole parfois des colis. \n According to my neighbour, the caretaker sometimes steals packages.
-obl:periph(vole, voisine)
-case(voisine, Selon)
-~~~
 
 
 <!-- Interlanguage links updated Čt lis 12 09:43:35 CET 2020 -->

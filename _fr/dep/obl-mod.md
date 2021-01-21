@@ -12,7 +12,7 @@ Here is an example from **UD_French-Spoken** :
 
 ~~~ sdparse
 oui oui je prends le métro le matin à huit heures et demie \n yes i take the underground in the morning at eight thirty
-obl:mod(prends, heures)
+obl:mod (prends, heures)
 obl:mod (prends, matin)
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:36 CET 2020 -->
