@@ -12,8 +12,8 @@ udver: '2'
   <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#Des">Des</a></td>
   <td><a href="#Imp">Imp</a></td>
-  <td><a href="#Irr">Irr</a></td>
   <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Irr">Irr</a></td>
   <td><a href="#Jus">Jus</a></td>
   <td><a href="#Nec">Nec</a></td>
   <td><a href="#Opt">Opt</a></td>
