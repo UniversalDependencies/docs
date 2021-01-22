@@ -12,8 +12,8 @@ udver: '2'
   <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#Des">Des</a></td>
   <td><a href="#Imp">Imp</a></td>
-  <td><a href="#Irr">Irr</a></td>
   <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Irr">Irr</a></td>
   <td><a href="#Jus">Jus</a></td>
   <td><a href="#Nec">Nec</a></td>
   <td><a href="#Opt">Opt</a></td>
@@ -170,7 +170,7 @@ the same feature as indicative, `Ind`) and irrealis.
 
 #### Examples
 
-* [quc] _Xaq <b>ta</b> ne kimbʼe iwukʼ. “Let me be with you.” (“Que fuera yo con ustedes.”)
+* [quc] _Xaq <b>ta</b> ne kimbʼe iwukʼ._ “Let me be with you.” (“Que fuera yo con ustedes.”)
 
 ### <a name="Adm">`Adm`</a>: admirative
 

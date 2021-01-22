@@ -30,43 +30,43 @@ The Irish POS-tagger used in the Irish Dependency Treebank retains these as sing
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADJ.html">ADJ</a></td>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADP.html">ADP</a></td>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PUNCT.html">PUNCT</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/ADJ.html">ADJ</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/ADP.html">ADP</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/PUNCT.html">PUNCT</a></td>
     </tr>
     <tr>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADV.html">ADV</a></td>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-AUX.html">AUX</a></td>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SYM.html">SYM</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/ADV.html">ADV</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/AUX.html">AUX</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/SYM.html">SYM</a></td>
     </tr>
     <tr>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-INTJ.html">INTJ</a></td>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-CCONJ.html">CCONJ</a></td>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-X.html">X</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/INTJ.html">INTJ</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/CCONJ.html">CCONJ</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/X.html">X</a></td>
     </tr>
     <tr>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NOUN.html">NOUN</a></td>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-DET.html">DET</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/NOUN.html">NOUN</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/DET.html">DET</a></td>
       <td> </td>
     </tr>
     <tr>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PROPN.html">PROPN</a></td>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NUM.html">NUM</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/PROPN.html">PROPN</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/NUM.html">NUM</a></td>
       <td> </td>
     </tr>
     <tr>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-VERB.html">VERB</a></td>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PART.html">PART</a></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PRON.html">PRON</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/VERB.html">VERB</a></td>
+      <td><a href="https://universaldependencies.org/ga/pos/PART.html">PART</a></td>
       <td> </td>
     </tr>
     <tr>
       <td> </td>
-      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SCONJ.html
+      <td><a href="https://universaldependencies.org/ga/pos/PRON.html">PRON</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><a href="https://universaldependencies.org/ga/pos/SCONJ.html
 ">SCONJ</a></td>
       <td> </td>
     </tr>
