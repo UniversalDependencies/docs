@@ -21,6 +21,15 @@ Tokenization is the simpler and more low-level of the two. A surface string of n
 
 Word segmentation is more complex. The CoNLL-U file contains an extra line representing the multi-word surface token **(MWT),** and two or more subsequent lines represent syntactic words extracted from the multi-word token. The form of the surface token does not have to be a simple concatenation of the forms of the syntactic words. This is useful for various contractions where the uncontracted form of the word can be shown.
 
+    # text = I don't like it.
+    1     I       I      PRON    _   Case=Nom|Number=Sing|Person=1|PronType=Prs               4   nsubj    _   _
+    2-3   don't   _      _       _   _                                                        _   _        _   _
+    2     do      do     AUX     _   Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin    4   aux      _   _
+    3     not     not    PART    _   Polarity=Neg                                             4   advmod   _   _
+    4     like    like   VERB    _   VerbForm=Inf                                             0   root     _   _
+    5     it      it     PRON    _   Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs   4   obj      _   SpaceAfter=No
+    6     .       .      PUNCT   _   _                                                        4   punct    _   _
+
     # lang = de
     # text = Der Haus steht am See.
     # text_en = The house stands at the lake.
@@ -43,7 +52,7 @@ On the other hand, a word boundary between two adjacent letters should almost al
     # text = 現在我們在瓦倫西亞。
     # translit = Xiànzài wǒmen zài wǎlúnxīyǎ.
     # text_en = We are now in Valencia.
-    1     現在　　    現在　　   ADV     _   _                                   4   advmod   _   Gloss=now|SpaceAfter=No
+    1     現在　　   現在　　   ADV     _   _                                   4   advmod   _   Gloss=now|SpaceAfter=No
     2     我們　　   我　　　   PRON    _   Number=Plur|Person=1|PronType=Prs   4   nsubj    _   Gloss=we|SpaceAfter=No
     3     在　　　   在　　　   ADP     _   _                                   4   case     _   Gloss=in|SpaceAfter=No
     4     瓦倫西亞   瓦倫西亞   PROPN   _   _                                   0   root     _   Gloss=Valencia|SpaceAfter=No
@@ -99,7 +108,7 @@ advmod(saṁsadi, atra)
 
 An often cited example of clitic segmentation in UD is Spanish, where pronominal clitics are sometimes written together with the verb whose arguments they are: _vámonos = vamos + nos_ lit. _we.go + ourselves_ “let's leave”; _dámelo = da + me + lo_ “give me it”. The crucial point is that the clitics are normally written as separate words and only if the verb is in imperative or infinitive form, the object clitics are written attached to it. So we have for instance _nos vamos al mar_ “we are leaving for the sea”; _me lo das mañana_ “you give me it tomorrow”. By splitting the object clitic from the imperative or infinitive, we are enabling the same annotation that is used for the indicative and other forms of the verb.
 
-Note that we do not create syntactic words for subject pronouns, although in many Spanish sentences the subject can be recognized only from the form of the verb. For example, _voy_ means “I go”, _va_ “he/she goes”, _vamos_ “we go”. However, these are not contracted forms of a subject pronoun and the verb stem. These are simply verb forms that show agreement with (or cross-reference) the subject. The agreement is captured using features such as [Person]() and [Number]() with the verb. The form of the verb will stay the same if an overt subject is present: _yo voy_ “I go”, _Miguel va_ “Miguel goes”.
+Note that we do not create syntactic words for subject pronouns, although in many Spanish sentences the subject can be recognized only from the form of the verb. For example, _voy_ means “I go”, _va_ “he/she goes”, _vamos_ “we go”. However, these are not contracted forms of a subject pronoun and the verb stem. These are simply verb forms that show agreement with (or cross-reference) the subject. The agreement is captured using features such as [Person]() and [Number]() at the verb. The form of the verb will stay the same if an overt subject is present: _yo voy_ “I go”, _Miguel va_ “Miguel goes”.
 
 Even if the agreement morpheme is clearly similar in form to the corresponding full pronoun, we do not have to (and shouldn't) separate it if it always appears at the fixed position next to the verb, and if it stays there even if an overt subject is present.
 
@@ -117,9 +126,7 @@ So far we have mostly dealt with situations where one orthographic word (surface
 
 However, in exceptional cases it is possible to have “words with spaces”, i.e., there is one node with one corresponding line in the CoNLL-U format but it contains one or more word-internal space characters in the FORM (and possibly also LEMMA) field. The utilization of this option should be extremely limited, and alternative solutions should always be sought. One uncontroversial example where word-internal spaces make sense is long numbers in languages like French or Czech, where spaces are used to make the number more readable: _1&nbsp;000&nbsp;000_.
 
-Finally, Vietnamese is an example (and so far the only example) of a language where words with spaces are used frequently. The reason is that in the Vietnamese writing system, spaces delimit monosyllabic morphemes rather than words (with the exception of foreign loanwords, such as _bêtông_ in the example below, which are sometimes written without separating syllables by spaces).
-
-Tất cả đường bêtông nội đồng là thành quả
+Finally, Vietnamese is an example (and so far the only example) of a language where words with spaces are used frequently. The reason is that in the Vietnamese writing system, spaces delimit monosyllabic morphemes rather than words (with the exception of foreign loanwords, such as _bêtông_ in the example below, which are sometimes written without separating syllables by spaces). The Vietnamese writing system is thus parallel to Chinese, the string between spaces corresponds to one Chinese character, and there are no visible word boundaries in the text.
 
     # lang = vi
     # text = Tất cả đường bêtông nội đồng là thành quả…
