@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Armenian">Armenian</a></td>
   <td><a href="#Digit">Digit</a></td>
+  <td><a href="#Combi">Combi</a></td>
   <td><a href="#Roman">Roman</a></td>
   <td><a href="#Word">Word</a></td>
 </tr>
@@ -29,6 +30,12 @@ digits or as a word? Several types of nouns can also have this feature, adjectiv
 #### Examples
 
 * _1, 2, 3_
+
+### <a name="Combi">`Combi`</a>: digits combined with a suffix
+
+#### Examples
+
+* _1-ին “1st”, 15-րդ “15th”_
 
 ### <a name="Roman">`Roman`</a>: roman numeral
 
