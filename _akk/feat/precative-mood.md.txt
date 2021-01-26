@@ -1,0 +1,11 @@
+---
+layout: feature
+title: 'Precative[mood]'
+shortdef: 'precative'
+udver: '2'
+---
+
+The precative, a polite request or encouragement, is formed with the combination of the particle _lū_ and the preterite form of a verb.
+#### Examples
+* _<b>līrur</b>_ “may he curse”
+* _<b>luhalliqū</b>_ “may they destroy”
