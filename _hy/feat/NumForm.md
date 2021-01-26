@@ -9,8 +9,8 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Armenian">Armenian</a></td>
-  <td><a href="#Digit">Digit</a></td>
   <td><a href="#Combi">Combi</a></td>
+  <td><a href="#Digit">Digit</a></td>
   <td><a href="#Roman">Roman</a></td>
   <td><a href="#Word">Word</a></td>
 </tr>
