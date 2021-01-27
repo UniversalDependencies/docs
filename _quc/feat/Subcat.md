@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Valency'
-shortdef: 'valency'
+title: 'Subcat'
+shortdef: 'subcategorisation'
 udver: '2'
 ---
 
@@ -11,13 +11,13 @@ a transitive verb.
 
 This feature specifies how many arguments the verb agrees with.
 
-### <a name="1">`1`</a>: intransitive verb (1 argument)
+### <a name="Intr">`Intr`</a>: intransitive verb (1 argument)
 
 #### Examples
 
 * _<b>Kinbʼe</b>_ "I go"
 
-### <a name="2">`2`</a>: transitive verb (2 arguments)
+### <a name="Tran">`Tran`</a>: transitive verb (2 arguments)
 
 #### Examples
 
