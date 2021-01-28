@@ -11,12 +11,27 @@ The dependency relation  `acl` stands for finite and non-finite clauses that mod
 
 [et] _Tal oli plaan <b>minna edasi</b>_ "He had a plan <b>to go forward</b>"
 
+~~~ sdparse
+Tal oli plaan minna edasi
+acl(plaan, minna)
+~~~
+
 * `acl` as a participle
 
 [et] _See oli <b>ammu unustatud</b> plaan_ "This was a <b>long-forgotten</b> plan" 
 
+~~~ sdparse
+See oli ammu unustatud plaan
+acl(plaan,unustatud)
+~~~
+
 * `acl`as a clause
 
 [et] _See, <b>et päike tõuseb iga päev</b>, ei lohuta teda_ "The fact <b>that the sun rises every day</b> does not comfort him"
+
+~~~ sdparse
+See , et päike tõuseb iga päev , ei lohuta teda
+acl(See, tõuseb)
+~~~
 
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
