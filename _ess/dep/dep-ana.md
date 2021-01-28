@@ -1,7 +1,7 @@
 ---
 layout: relation
 title:  'dep:ana'
-shortdef : 'anaphoric dependency'
+shortdef : 'anaphoric prefix dependency'
 udver: '2'
 ---
 

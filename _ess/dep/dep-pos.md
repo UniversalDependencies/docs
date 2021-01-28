@@ -1,7 +1,7 @@
 ---
 layout: relation
 title:  'dep:pos'
-shortdef : 'postural dependency'
+shortdef : 'postural root dependency'
 udver: '2'
 ---
 
