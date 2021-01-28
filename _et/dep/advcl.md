@@ -15,7 +15,7 @@ advcl(jooksis-2, karjudes-3)
 punct(jooksis-2, .-4)
 ~~~
 
-He ran shouting.
+"He ran shouting."
 
 ~~~ sdparse
 Mulle pakuti süüa , kui õhtul koolist saabusin .
@@ -29,6 +29,6 @@ advcl(pakuti-2, saabusin-8)
 punct(saabusin-8, .-9)
 ~~~
 
-I was offered something to eat, when I arrived from school in the evening
+"I was offered something to eat, when I arrived from school in the evening"
 
 <!-- Interlanguage links updated Čt lis 12 09:43:10 CET 2020 -->
