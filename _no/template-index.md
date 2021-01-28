@@ -8,52 +8,46 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+White space always indicates a token boundary and punctuation constitute separate tokens, except:
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
+* numbers with periods, commas or colons, e.g. *1.3*, *0,6*, *10:13*
+* abbreviations, e.g. *f.eks.*, *Carl J. Hambro*
+* URLs, e.g. *http://www.ifi.uio.no*
 
----
+The treebank does not contain multiword tokens.
+
 
 ## Morphology
 
 ### Tags
 
-*
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* [PART]() is used only for the infinitival marker *å* "to".
+* the [VERB]() tag covers main verbs (content verbs) and copulas but it does not cover temporal, passive and modal auxiliary verbs, for which there is the [AUX]() tag
+* [DET]() is used for possessives, demonstratives and quantifiers, which usually modify nominal heads. [PRON]() is used for pro-words that substitute for nouns or noun phrases.
+* Participles are tagged either as [VERB]() or [ADJ]() based on syntactic criteria.
 
 ### Features
 
-*
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
+* Common nouns are associated with the features `Definite=Def/Ind`, `Gender=Masc/Fem/Neut`,  `Number=Sing/Plur` and, where applicable, `Case=Gen`
+* Non-finite verbs are distinguished by their `VerbForm` feature: `VerbForm=Part` and `VerbForm=Inf`. Finite verbs have `VerbForm=Fin`.
+* Finite verbs have the following features: `Mood=Ind/Imp`. Indicative verbs are marked for tense: `Tense=Pres/Past`
+* Passive verbforms are marked with `Voice=Pass`
 
 ## Syntax
+* An important test for subjecthood in Norwegian is word order: In sentences with matrix clause word order, subjects are either in the position right before or right after the finite verb. Moreover, in relative clauses, the relativizer, *som*, 'that', cannot be omitted if the subject is relativized. Case-marked pronouns in subject position will have nominative case.
+* The unmarked position of the object is immediately after the verb of which it is a complement. Case-marked pronouns in object position will have accusative case.
+* These subtype relations are used in the written language treebanks:
+ * [acl:relcl]() is used for relative clauses
+ * [compound:prt]() for verbal particles
+* The LIA treebank, containing spoken language data, has these subtype relations in addition to those described above:
+ * ...
 
-*
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are three Norwegian UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [Norwegian Bokmaal](https://universaldependencies.org/treebanks/no_bokmaal/index.html)
+  * [Norwegian Nynorsk](https://universaldependencies.org/treebanks/no_nynorsk/index.html)
+  * [Norwegian Nynorsk LIA](https://universaldependencies.org/treebanks/no_nynorsklia/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
