@@ -28,6 +28,7 @@ flat(Juhan-10,Tamm-11)
 ~~~
 
 * Descriptions:
+
 ~~~ sdparse
 detsembris , kõige trööstitumal aastaajal \n in December , the most depressing season
 appos(detsembris, aastaajal)
