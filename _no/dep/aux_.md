@@ -8,7 +8,7 @@ udver: '2'
 redirect_from: "no/dep/aux.html"
 ---
 An auxiliary of a clause is a non-main verb of the clause, e.g., a modal auxiliary, or a form of *ha* "have" or *være* "be" in a periphrastic tense.
-Exception: Auxiliary verb used to construct the passive voice is not labeled aux but [aux:pass]().
+Exception: Auxiliary verb used to construct the passive voice is not labeled aux but [aux:pass](aux-pass).
 
 ~~~ sdparse
 Dette har vi i Norge merket \n This we have in Norway noticed
