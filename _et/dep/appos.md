@@ -29,7 +29,7 @@ flat(Juhan,Tamm)
 
 * Descriptions:
 ~~~ sdparse
-detsemris , kõige trööstitumal aastaajal \n in December , the most depressing season
+detsembris , kõige trööstitumal aastaajal \n in December , the most depressing season
 appos(detsembris, aastaajal)
 appos(December, season)
 ~~~
