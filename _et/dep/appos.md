@@ -12,7 +12,7 @@ An appositional modifier of a noun is a nominal immediately following the first 
 ~~~ sdparse
 kohvik Moskva \n caffee Moskva
 appos(kohvik-1, Moskva-2)
-appos(caffee-3, Moskva-4)
+appos(caffee-4, Moskva-5)
 ~~~
 
 ~~~ sdparse
