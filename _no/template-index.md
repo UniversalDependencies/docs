@@ -34,13 +34,13 @@ The treebank does not contain multiword tokens.
 * Passive verbforms are marked with `Voice=Pass`
 
 ## Syntax
-* An important test for subjecthood in Norwegian is word order: In sentences with matrix clause word order, subjects are either in the position right before or right after the finite verb. Moreover, in relative clauses, the relativizer, *som*, 'that', cannot be omitted if the subject is relativized. Case-marked pronouns in subject position will have nominative case.
-* The unmarked position of the object is immediately after the verb of which it is a complement. Case-marked pronouns in object position will have accusative case.
+* In sentences with matrix clause word order, subjects are either in the position right before or right after the finite verb. In sentences with subordinate clause word order, the subject is before the finite verb, but not necessarily immediately before: The finite verb and the subject can be separated by a sentence adverbial. Moreover, in relative clauses, the relativizer, *som*, 'that', cannot be omitted if the subject is relativized. Case-marked pronouns in subject position will have nominative case.
+* The unmarked position of the object in clauses with subordinate clause word order is immediately after the verb of which it is a complement. Case-marked pronouns in object position will have accusative case.
 * These subtype relations are used in the written language treebanks:
- * [acl:relcl]() is used for relative clauses
- * [compound:prt]() for verbal particles
+  * [acl:relcl]() is used for relative clauses
+  * [compound:prt]() for verbal particles
 * The LIA treebank, containing spoken language data, has these subtype relations in addition to those described above:
- * ...
+  * ...
 
 
 ## Treebanks
