@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'csubjpass'
+title: 'csubj:pass'
 shortdef: 'clausal passive subject'
 udver: '2'
 ---
