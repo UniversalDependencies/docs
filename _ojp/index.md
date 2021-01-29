@@ -11,7 +11,7 @@ udver: '2'
 * Old Japanese (late middle) Old Japanese (late middle) Old Japanese (late middle) Old Japanese (late middle) Old Japanese (late middle) Old Japanese (late middle) Old Japanese (late middle) Old Japanese (late middle) Old Japanese (late middle) Old Japanese (late middle) 
 
 ---
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
+[comment]: <> **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
 
 ---
 
