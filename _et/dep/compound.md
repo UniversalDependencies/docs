@@ -13,7 +13,7 @@ In Estonian treebanks, the dependency relation 'compound' is used for annotating
 compound(60-1, 000-2)
 ~~~
 
-~~~sdparse
+~~~ sdparse
 kaks tuhat \n two thousand
 compound(kaks, tuhat)
 compound(two, thousand)
