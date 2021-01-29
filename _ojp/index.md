@@ -45,10 +45,9 @@ Old Japanese (late middle) Old Japanese (late middle) Old Japanese (late middle)
 
 ## Treebanks
 
-There are [N](../treebanks/ojp-comparison.html) Old Japanese UD treebanks:
+There is one (../treebanks/ojp-comparison.html) Old Japanese UD treebanks:
 
-  * [Old Japanese-A](../treebanks/ojp_a/index.html)
-  * [Old Japanese-B](../treebanks/ojp_b/index.html)
+  * [UD-Old_Japanese-LMJ](../treebanks/ojp_a/index.html)
 
 ---
 
