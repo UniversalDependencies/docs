@@ -11,20 +11,20 @@ An appositional modifier of a noun is a nominal immediately following the first 
 
 ~~~ sdparse
 kohvik Moskva \n caffee Moskva
-appos(kohvik-1, Moskva-2)
-appos(caffee-4, Moskva-5)
+appos(kohvik, Moskva-2)
+appos(caffee, Moskva-5)
 ~~~
 
 ~~~ sdparse
 kirjanik ja tõlkija Juhan Tamm \n writer and translator Juhan Tamm
-appos(kirjanik, Juhan)
+appos(kirjanik, Juhan-4)
 cc(tõlkija, ja)
 conj(kirjanik, tõlkija)
-flat(Juhan,Tamm)
-appos(writer, Juhan)
+flat(Juhan-4,Tamm-5)
+appos(writer, Juhan-10)
 cc(translator, and)
 conj(writer, translator)
-flat(Juhan,Tamm)
+flat(Juhan-10,Tamm-11)
 ~~~
 
 * Descriptions:
