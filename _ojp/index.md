@@ -8,7 +8,7 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+* 
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
@@ -19,7 +19,7 @@ udver: '2'
 
 ### Tags
 
-*
+* Old Japanese (Late Middle) uses xx POS tags 
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -37,7 +37,7 @@ udver: '2'
 
 ## Syntax
 
-*
+* Old Japanese (Late Middle) is 
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
