@@ -14,7 +14,7 @@ White space always indicates a token boundary and punctuation constitute separat
 * abbreviations, e.g. *f.eks.*, *Carl J. Hambro*
 * URLs, e.g. *http://www.ifi.uio.no*
 
-The treebank does not contain multiword tokens.
+The treebanks do not contain multiword tokens.
 
 
 ## Morphology
