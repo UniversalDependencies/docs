@@ -11,7 +11,7 @@ In Estonian treebanks, the dependency relation 'compound' is used for annotating
 ~~~ sdparse
 60 000
 compound(60-1, 000-2)
-~~
+~~~
 
 ~~~sdparse
 kaks tuhat \n two thousand
