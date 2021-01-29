@@ -16,10 +16,10 @@ appos(caffee, Moskva-5)
 ~~~
 
 ~~~ sdparse
-kirjanik ja tõlkija Juhan Tamm \n writer and translator Juhan Tamm
+kirjanik ja tolkija Juhan Tamm \n writer and translator Juhan Tamm
 appos(kirjanik, Juhan-4)
-cc(tõlkija, ja)
-conj(kirjanik, tõlkija)
+cc(tolkija, ja)
+conj(kirjanik, tolkija)
 flat(Juhan-4,Tamm-5)
 appos(writer, Juhan-10)
 cc(translator, and)
