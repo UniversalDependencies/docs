@@ -15,7 +15,7 @@ cop(big,is)
 
 ~~~ sdparse
 Maja ei ole suur \n The house is not big 
-cop(suur,on)
+cop(suur,ole)
 cop(big,is)
 aux(suur,ei)
 aux(big,not)
