@@ -2,16 +2,23 @@
 layout: relation
 title: 'csubj'
 shortdef: 'clausal subject'
+udver: '2'
 ---
 
-A clausal subject is a clausal syntactic subject of a clause. Both finite and non-finite clauses can act as clausal subjects.
+A clausal subject is a clausal syntactic subject of a clause.  Its governor may be a verb or a nonverbal predicate. 
 
 ~~~ sdparse
-Mulle meeldib mõelda .
-nmod(meeldib-2, mulle-1)
-csubj(meeldib-2, mõelda-3)
-punct(meeldib-2, .-4)
+Armastada tähendab elada elu , mida sa armastad \n To love means to live the life you love . 
+csubj(tähendab,Armastada)
+csubj(means,love)
 ~~~
 
-I like to think.
+~~~ sdparse
+Mulle meeldib mõelda . \n I like to think ,
+obl(meeldib-2, mulle-1)
+csubj(meeldib-2, mõelda-3)
+punct(meeldib-2, .-4)
+csubj(like,think)
+~~~
+
 <!-- Interlanguage links updated Čt lis 12 09:43:21 CET 2020 -->
