@@ -14,8 +14,8 @@ csubj(means,love)
 ~~~
 
 ~~~ sdparse
-Mulle meeldib mõelda . \n I like to think ,
-obl(meeldib-2, mulle-1)
+Mulle meeldib mõelda . \n I like to think .
+obl(meeldib-2, Mulle-1)
 csubj(meeldib-2, mõelda-3)
 punct(meeldib-2, .-4)
 csubj(like,think)
