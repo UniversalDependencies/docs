@@ -2,6 +2,7 @@
 layout: relation
 title: 'compound'
 shortdef: 'compound'
+udver: '2'
 ---
 
 For Norwegian the `compound` relation is used only for verbal particle constructions with the language-specific subtype [compound:prt](compound-prt).
