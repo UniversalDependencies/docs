@@ -39,8 +39,10 @@ The treebanks do not contain multiword tokens.
 * These subtype relations are used in the written language treebanks:
   * [acl:relcl]() is used for relative clauses
   * [compound:prt]() for verbal particles
+  * [acl:cleft]()
 * The LIA treebank, containing spoken language data, has these subtype relations in addition to those described above:
-  * ...
+  * discourse:filler
+  * parataxis:deletion
 
 
 ## Treebanks
