@@ -1,9 +1,11 @@
 ---
 layout: feature
-title: 'Prohibitive[mood]'
-shortdef: 'prohibitive'
+title: 'Mood'
+shortdef: 'mood'
 udver: '2'
 ---
+
+### <a name="Prohibitive">`Prohibitive`</a>: prohibitive
 
 The prohibitive expresses negative commands and combines the negation _lā_ with the present tense. Optionally, the particle _lū_ may be added to stress the command.
 
