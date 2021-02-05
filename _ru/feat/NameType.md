@@ -15,7 +15,7 @@ The following table lists the name types together with the most frequent example
 
 <table>
 <tr><td><tt>_;Y</tt></td><td>given name</td><td><em>Александр, Игорь, Петр</em></td><td>“Александр, Игорь, Петр”</td></tr>
-<tr><td><tt>_;P</tt></td><td>patronymic</td><td><em>Петрович, Петровна, Иванна</em></td><td>“Петрович, Петровна, Иванна”</td></tr>
+<tr><td><tt></tt></td><td>patronymic</td><td><em>Петрович, Петровна, Иванна</em></td><td>“Петрович, Петровна, Иванна”</td></tr>
 <tr><td><tt>_;S</tt></td><td>surname</td><td><em>Иванов, Петров, Кожевников</em></td><td>“Иванов, Петров, Кожевников”</td></tr>
 <tr><td><tt>_;G</tt></td><td>geographical name</td><td><em>Москва, Россия, Азия</em></td><td>“Москва, Россия, Азия”</td></tr>
 <tr><td><tt>_;K</tt></td><td>company, organization, institution</td><td><em>Афиша, Просвещение, МТС</em></td><td>“Афиша, Просвещение, МТС”</td></tr>
@@ -26,6 +26,8 @@ The following table lists the name types together with the most frequent example
 ### <a name="Prs">`Prs`</a>: name of person
 
 This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name.
+
+#### Examples
 
 * _<b>Дурилка</b>, <b>Рюриковичи</b>_
 
@@ -45,7 +47,7 @@ Patronymic name (the second component of a polite personal name based on the giv
 
 * _<b>Петрович</b>, <b>Петровна</b>, <b>Иванна</b>_
 
-#### <a name="Sur">`Sur`</a>: surname / family name of person
+### <a name="Sur">`Sur`</a>: surname / family name of person
 
 Family name (surname). This is usually the last name in European and American names. In Chinese names, the first syllable (of three) is usually the surname.
 
@@ -63,13 +65,19 @@ Names of cities, countries, rivers, mountains etc.
 
 ### <a name="Com">`Com`</a>: company, organization
 
+#### Examples
+
 * _<b>Афиша</b>, <b>МТС</b>_
 
 ### <a name="Pro">`Pro`</a>: product
 
+#### Examples
+
 * _<b>Мерседес</b>, <b>Тайд</b>_
 
 ### <a name="Oth">`Oth`</a>: other
+
+#### Examples
 
 * _<b>Лужники</b>, <b>Евровидение</b>_
 
