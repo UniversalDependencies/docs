@@ -23,17 +23,11 @@ The following table lists the name types together with the most frequent example
 <tr><td><tt>_;m</tt></td><td>other proper name: names of mines, stadiums, guerilla bases etc.</td><td><em>Лужники, Крокус Сити Холл</em></td><td>“Лужники, Крокус Сити Холл”</td></tr>
 </table>
 
-### <a name="Geo">`Geo`</a>: geographical name
-
-Names of cities, countries, rivers, mountains etc.
-
-#### Examples
-
-* _<b>Москва</b>&nbsp;_ “Moscow”, <b>Россия</b>&nbsp;_ “Russia”
-
 ### <a name="Prs">`Prs`</a>: name of person
 
 This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name.
+
+* _<b>Дурилка</b>, <b>Рюриковичи</b>_
 
 ### <a name="Giv">`Giv`</a>: given name of person
 
@@ -58,6 +52,14 @@ Family name (surname). This is usually the last name in European and American na
 #### Examples
 
 * _<b>Иванов</b>, <b>Сидоров</b>_
+
+### <a name="Geo">`Geo`</a>: geographical name
+
+Names of cities, countries, rivers, mountains etc.
+
+#### Examples
+
+* _<b>Москва</b>&nbsp;_ “Moscow”, <b>Россия</b>&nbsp;_ “Russia”
 
 ### <a name="Com">`Com`</a>: company, organization
 
