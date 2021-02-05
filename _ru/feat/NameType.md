@@ -15,6 +15,7 @@ The following table lists the name types together with the most frequent example
 
 <table>
 <tr><td><tt>_;Y</tt></td><td>given name</td><td><em>Александр, Игорь, Петр</em></td><td>“Александр, Игорь, Петр”</td></tr>
+<tr><td><tt>_;P</tt></td><td>patronymic</td><td><em>Петрович, Петровна, Иванна</em></td><td>“Петрович, Петровна, Иванна”</td></tr>
 <tr><td><tt>_;S</tt></td><td>surname</td><td><em>Иванов, Петров, Кожевников</em></td><td>“Иванов, Петров, Кожевников”</td></tr>
 <tr><td><tt>_;G</tt></td><td>geographical name</td><td><em>Москва, Россия, Азия</em></td><td>“Москва, Россия, Азия”</td></tr>
 <tr><td><tt>_;K</tt></td><td>company, organization, institution</td><td><em>Афиша, Просвещение, МТС</em></td><td>“Афиша, Просвещение, МТС”</td></tr>
@@ -36,13 +37,21 @@ This value is used if it is not known whether it is a given or a family name, bu
 
 ### <a name="Giv">`Giv`</a>: given name of person
 
-Given name (not family name). This is usually the first name in European and American names. In Chinese names, the last two syllables (of three) are usually the given name.
+Given name (not family name). Can be either the first name or, in formal speech, the second name in Russian names.
 
 #### Examples
 
 * _<b>Александр</b>, <b>Дмитрий</b>_
 
-### <a name="Sur">`Sur`</a>: surname / family name of person
+### <a name="Patrn">`Patrn`</a>: given name of person
+
+Patronymic name (the second component of a polite personal name based on the given name of one's father).
+
+#### Examples
+
+* _<b>Петрович</b>, <b>Петровна</b>, <b>Иванна</b>_
+
+#### <a name="Sur">`Sur`</a>: surname / family name of person
 
 Family name (surname). This is usually the last name in European and American names. In Chinese names, the first syllable (of three) is usually the surname.
 
@@ -52,9 +61,15 @@ Family name (surname). This is usually the last name in European and American na
 
 ### <a name="Com">`Com`</a>: company, organization
 
+* _<b>Афиша</b>, <b>МТС</b>_
+
 ### <a name="Pro">`Pro`</a>: product
 
+* _<b>Мерседес</b>, <b>Тайд</b>_
+
 ### <a name="Oth">`Oth`</a>: other
+
+* _<b>Лужники</b>, <b>Евровидение</b>_
 
 Names of stadiums, guerilla bases, events etc.
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->
