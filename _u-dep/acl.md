@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'acl'
-shortdef: 'clausal modifier of noun (adjectival clause)'
+shortdef: 'clausal modifier of noun (adnominal clause)'
 udver: '2'
 ---
 
