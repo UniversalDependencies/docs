@@ -76,8 +76,8 @@ is a very subtle compromise between approximately 6 things:
 1. UD needs to be satisfactory on linguistic analysis grounds for individual languages.
 2. UD needs to be good for linguistic typology, i.e., providing a suitable basis for bringing out cross-linguistic parallelism across languages and language families.
 3. UD must be suitable for rapid, consistent annotation by a human annotator.
-4. UD must be suitable for computer parsing with high accuracy.
-5. UD must be easily comprehended and used by a non-linguist, whether a language learner or an engineer with prosaic needs for language processing. We refer to this as seeking a _habitable_ design, and it leads us to favor traditional grammar notions and terminology.
+4. UD must be easily comprehended and used by a non-linguist, whether a language learner or an engineer with prosaic needs for language processing. We refer to this as seeking a _habitable_ design, and it leads us to favor traditional grammar notions and terminology.
+5. UD must be suitable for computer parsing with high accuracy.
 6. UD must support well downstream language understanding tasks (relation extraction, reading comprehension, machine translation, …).
 
 It's easy to come up with a proposal that improves UD on one of these dimensions. The interesting and difficult part is to improve UD while remaining sensitive to all these dimensions.
@@ -212,8 +212,8 @@ UD is an open collaboration with many project members. The administrative struct
   Sookyoung Kwak, Gustavo Mendonça, Tatiana Lando, Rattima Nitisaroj, Josie Li. 2017.
   [CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](https://www.aclweb.org/anthology/K17-3001.pdf).
   In *Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies*, pp. 1-19.
-  
-* Rademaker, Alexandre, Fabricio Chalub, Livy Real, Cláudia Freitas, Eckhard Bick, and Valeria de Paiva [Universal Dependencies for Portuguese](http://arademaker.github.io/bibliography/depling-2017.html). 2017. “Universal Dependencies for Portuguese.” In Proceedings of the Fourth International Conference on Dependency Linguistics (Depling), 197–206. Pisa, Italy.  
+
+* Rademaker, Alexandre, Fabricio Chalub, Livy Real, Cláudia Freitas, Eckhard Bick, and Valeria de Paiva [Universal Dependencies for Portuguese](http://arademaker.github.io/bibliography/depling-2017.html). 2017. “Universal Dependencies for Portuguese.” In Proceedings of the Fourth International Conference on Dependency Linguistics (Depling), 197–206. Pisa, Italy.
 
 * Anssi Yli-Jyrä. 2017. [Bounded-Depth High-Coverage Search Space for Noncrossing Parses](https://www.aclweb.org/anthology/W17-4007.pdf). In _Proceedings of the 13th International Conference on Finite State Methods and Natural Language Processing (FSMNLP 2017, Umeå, Sweden, 4-6 September 2017)_, pp. 30-40. SIGFSM, Association for Computational Linguistics.
 
@@ -289,7 +289,7 @@ UD is an open collaboration with many project members. The administrative struct
 Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics*, pp. 143-147.
 
 * Teresa Lynn, Jennifer Foster, Mark Dras and Lamia Tounsi. 2014.
-[Cross-lingual Transfer Parsing for Low-Resourced Languages: An Irish Case Study](https://www.aclweb.org/anthology/W14-4606/) In *Proceedings of the First Celtic Language Technology Workshop (CLTW 2014)* 
+[Cross-lingual Transfer Parsing for Low-Resourced Languages: An Irish Case Study](https://www.aclweb.org/anthology/W14-4606/) In *Proceedings of the First Celtic Language Technology Workshop (CLTW 2014)*
 
 * Marie-Catherine de Marneffe, Miriam Connor, Natalia Silveira, Samuel R. Bowman, Timothy Dozat, and Christopher D. Manning. 2013.
   [More constructions, more genres: extending Stanfod Dependencies](http://anthology.aclweb.org/W/W13/W13-3721.pdf).
