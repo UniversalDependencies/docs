@@ -17,6 +17,7 @@ The following table lists the name types together with the most frequent example
 <tr><td><tt>_;Y</tt></td><td>given name</td><td><em>Александр, Игорь, Петр</em></td><td>“Александр, Игорь, Петр”</td></tr>
 <tr><td><tt></tt></td><td>patronymic</td><td><em>Петрович, Петровна, Иванна</em></td><td>“Петрович, Петровна, Иванна”</td></tr>
 <tr><td><tt>_;S</tt></td><td>surname</td><td><em>Иванов, Петров, Кожевников</em></td><td>“Иванов, Петров, Кожевников”</td></tr>
+<tr><td><tt></tt></td><td>zoonym</td><td><em>Мурка, Буренка, Бимбо</em></td><td>“Мурка, Буренка, Бимбо”</td></tr>
 <tr><td><tt>_;G</tt></td><td>geographical name</td><td><em>Москва, Россия, Азия</em></td><td>“Москва, Россия, Азия”</td></tr>
 <tr><td><tt>_;K</tt></td><td>company, organization, institution</td><td><em>Афиша, Просвещение, МТС</em></td><td>“Афиша, Просвещение, МТС”</td></tr>
 <tr><td><tt>_;R</tt></td><td>product</td><td><em>Мерседес, Тайд</em></td><td>“Мерседес, Тайд”</td></tr>
@@ -55,9 +56,17 @@ Family name (surname). This is usually the last name in European and American na
 
 * _<b>Иванов</b>, <b>Сидоров</b>_
 
+### <a name="Zoo">`Zoo`</a>: animal name (zoonym) 
+
+Names of individual pet animals, talking animals in fiction, etc.
+
+#### Examples
+
+* _<b>Мурка</b>, <b>Буренка</b>, <b>Бимбо</b>_
+
 ### <a name="Geo">`Geo`</a>: geographical name
 
-Names of cities, countries, rivers, mountains etc.
+Names of cities, countries, rivers, mountains etc. In Russian treebanks, `Geo` is also assigned to local (informal) toponyms and astronomical objects.
 
 #### Examples
 
