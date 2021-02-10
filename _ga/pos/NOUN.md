@@ -9,7 +9,7 @@ udver: '2'
 
 Nouns are a part of speech typically denoting a person, place, thing, animal or idea.
 
-The `NOUN`tag is intended for common nouns only. See [PROPN]() for proper nouns and [PRON]() for pronouns.
+The `NOUN`tag is intended for common nouns and verbal nouns. See [PROPN]() for proper nouns and [PRON]() for pronouns.
 
 ##### Common nouns
 
@@ -40,7 +40,7 @@ Verbal noun forms are used widely in Irish for the infinitive form, using the in
 
 ##### Verbal nouns
 
-* _ag <b>déanamh</b> iarracht_ "making an attempt"
+* _ag <b>déanamh</b> iarrachta_ "making an attempt"
 * _beidh orthu gnó a <b>dhéanamh</b> leis_ "they will have to do business with him"
 * _scannán a <b>dhéanamh</b>_ "to make a movie"
 * _tá obair le <b>déanamh</b>_ "there is work to be done"
