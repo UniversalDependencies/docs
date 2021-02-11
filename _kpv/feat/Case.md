@@ -232,6 +232,7 @@ The instrumental case is affixed to the noun defining the entity used as an inst
 #### Examples
 
 * [kpv] _<b>киӧн</b> босьтны_ "take with a hand"
+* [kpv] _<b>юрӧн</b> ыджыдджык_ "taller by a head"
 
 ### <a name="Nom">`Nom`</a>: nominative / direct
 

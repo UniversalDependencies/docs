@@ -68,4 +68,28 @@ Produces converb.
 
 * [kpv] _кутӧмӧн_ "holding"
 
+### <a name="PrivMod">`PrivMod`</a>: derivation with suffix -тӧм
+
+Produces adnominal modifiers (without an X).
+
+#### Examples
+
+* [kpv] _кепысьтӧм_ "without a glove"
+
+### <a name="ProprietiveMod">`ProprietiveMod`</a>: derivation with suffix -а/-я
+
+Produces adverbs and adjectives (having an X).
+
+#### Examples
+
+* [kpv] _кепыся_ "with a glove"
+
+### <a name="VNoun">`VNoun`</a>: derivation with suffix -ӧм
+
+Produces deverbal nouns.
+
+#### Examples
+
+* [kpv] _кутӧм_ "holding"
+
 <!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->
