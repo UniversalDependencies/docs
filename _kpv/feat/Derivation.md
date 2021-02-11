@@ -84,12 +84,4 @@ Produces adverbs and adjectives (having an X).
 
 * [kpv] _кепыся_ "with a glove"
 
-### <a name="VNoun">`VNoun`</a>: derivation with suffix -ӧм
-
-Produces deverbal nouns.
-
-#### Examples
-
-* [kpv] _кутӧм_ "holding"
-
 <!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->
