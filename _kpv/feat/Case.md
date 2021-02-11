@@ -21,7 +21,7 @@ udver: '2'
   <td><a href="#Car">Car</a></td>
   <td><a href="#Cns">Cns</a></td>
   <td><a href="#Com">Com</a></td>
-<!--  <td><a href="#Cmpr">Cmpr</a> comparative</td>-->
+  <td><a href="#Cmpr">Cmpr</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Egr">Egr</a></td>
   <td><a href="#Ela">Ela</a></td>
@@ -155,6 +155,15 @@ The caritive case corresponds to the English preposition _without_.
 #### Examples
 
 * [kpv] _<b>сьӧмтӧг</b>_ "without money"
+
+### <a name="Cmpr">`Cmpr`</a>: comparative
+
+The comparative case corresponds to the English _than_ as a marker of the standard of comparison.
+
+#### Examples
+
+* [kpv] _<b>бӧрся</b>_ "after"
+
 
 ### <a name="Cns">`Cns`</a>: consecultative
 
