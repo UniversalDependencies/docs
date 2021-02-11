@@ -50,7 +50,7 @@ udver: '2'
 * Other relations not covered by the above
   * Parataxis, list, fixed, reparandum, goeswith, discourse
 * Other stuff
-  * Word segmentation (where to segment and where not)
+  * [Word segmentation](word_segmentation.html) (where to segment and where not)
   * Typos and other errors in the underlying text
   * Dates, numbers and measures (and classifiers?)
   * Quoted text in foreign language (e.g. book/movie titles); foreign names; code switching

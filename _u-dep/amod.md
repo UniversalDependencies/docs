@@ -16,16 +16,6 @@ amod(dogs, hot)
 ~~~
 
 ~~~ sdparse
-Sam took out  a 3 million dollar loan
-amod(loan, dollar)
-~~~
-
-~~~ sdparse
-Sam took out  a $ 3 million loan
-amod(loan, $)
-~~~
-
-~~~ sdparse
 There is nothing wrong with it
 amod(nothing, wrong)
 ~~~

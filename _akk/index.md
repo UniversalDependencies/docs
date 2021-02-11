@@ -70,5 +70,5 @@ For the most part, Akkadian word order is SOV.
 
 There are [2](../treebanks/akk-comparison.html) Akkadian UD treebanks:
 
-  * [PISANDUB](../treebanks/akk_PISANDUB/index.html)
-  * [RIAO](../treebanks/akk_RIAO/index.html)
+  * [PISANDUB](../treebanks/akk_pisandub/index.html)
+  * [RIAO](../treebanks/akk_riao/index.html)

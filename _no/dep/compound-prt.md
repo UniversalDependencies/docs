@@ -2,6 +2,7 @@
 layout: relation
 title: 'compound:prt'
 shortdef: 'compound:prt'
+udver: '2'
 ---
 This language-specific relation is used for verbal particles in Norwegian and describes the relation of the particle to its verbal head. 
 

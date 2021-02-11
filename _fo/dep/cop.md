@@ -2,6 +2,7 @@
 layout: relation
 title: 'cop'
 shortdef: 'copula'
+udver: '2'
 ---
 
 A copula is the relation between the complement of a copular verb and
@@ -33,7 +34,7 @@ adjective/adverb is the root, the nominal phrase is the nsubj, and the
 copula is attached to the root with the `cop` relation.
 
 ~~~ sdparse
-Hon er sterk . \n She is strong . 
+Hon er sterk . \n She is strong .
 nsubj(sterk, Hon)
 cop(sterk, er)
 punct(sterk, .)
@@ -56,7 +57,7 @@ nsubj(frá, Ljósið)
 punct(frá, .)
 ~~~
 
-In predicative wh-constructions, the fronted wh-word is the head, and the copula is 
+In predicative wh-constructions, the fronted wh-word is the head, and the copula is
 another cop.
 
 ~~~ sdparse

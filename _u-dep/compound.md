@@ -22,6 +22,16 @@ compound(cream, ice)
 compound(flavors, cream)
 ~~~
 
+~~~ sdparse
+Sam took out a 3 million dollar loan
+compound(loan, dollar)
+~~~
+
+~~~ sdparse
+Sam took out a $ 3 million loan
+compound(loan, $)
+~~~
+
 - for particle verbs (with the subtype `compound:prt`):
 
 ~~~ sdparse

@@ -2,6 +2,7 @@
 layout: relation
 title: 'case'
 shortdef: 'case marking'
+udver: '2'
 ---
 The case relation is used for any case-marking element which is treated as a separate syntactic word, in Norwegian it is used to mark the relation between a preposition and what is traditionally known as its complement (its head in the UD scheme).
 

@@ -2,12 +2,13 @@
 layout: relation
 title: 'cc'
 shortdef: 'coordinating conjunction'
+udver: '2'
 ---
-For more on coordination, see the [conj]() relation. A cc is the relation between the first conjunct and the coordinating conjunction delimiting another conjunct.
+For more on coordination, see the [conj]() relation. A cc is the relation for the coordinating conjunction delimiting a conjunct from another. The conjuct is a dependent on the nearest conjunct following it.
 
 ~~~ sdparse
 Kamskjell , piggvar og lammefilet sto på menyen \n Scallops , turbot and lamb were on the menu
-cc(Kamskjell,og)
+cc(lammefilet,og)
 ~~~
 
 A coordinating conjunction may also appear at the beginning of a sentence. This is also called a cc, and it depends on the root predicate of the sentence.

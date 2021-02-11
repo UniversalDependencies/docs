@@ -15,16 +15,6 @@ amod(meat, red)
 ~~~
 
 ~~~ sdparse
-Sam took out  a 3 million dollar loan
-amod(loan, dollar)
-~~~
-
-~~~ sdparse
-Sam took out  a $ 3 million loan
-amod(loan, $)
-~~~
-
-~~~ sdparse
 Anything else for me ?
 amod(Anything, else)
 ~~~

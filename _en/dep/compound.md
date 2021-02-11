@@ -42,7 +42,9 @@ compound(thousand, four)
 ~~~
 
 ~~~ sdparse
-I lost $ 3.2 billion
+I won a $ 3.2 billion grant
+compound(grant, $)
+nummod($, billion)
 compound(billion, 3.2)
 ~~~
 
