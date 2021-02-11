@@ -50,4 +50,22 @@ Produces diminutive.
 
 * [kpv] _векньыдик_ "quite thin"
 
+### <a name="Ko">`Ko`</a>: derivation with suffix -кӧ
+
+Produces indefinite from interrogative.
+
+#### Examples
+
+* [kpv] _кодкӧ_ "somebody"
+* [kpv] _кыдзкӧ_ "somehow"
+* [kpv] _кутшӧмкӧ_ "some kind of"
+
+### <a name="Omon">`Omon`</a>: derivation with suffix -ӧмӧн
+
+Produces converb.
+
+#### Examples
+
+* [kpv] _кутӧмӧн_ "holding"
+
 <!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->
