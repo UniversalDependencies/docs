@@ -2,6 +2,7 @@
 layout: relation
 title:  'aux:pass'
 shortdef : 'passive auxiliary'
+udver: '2'
 ---
 
 The only *passive auxiliary* (`aux:pass`) in Finnish is *olla* (*to
