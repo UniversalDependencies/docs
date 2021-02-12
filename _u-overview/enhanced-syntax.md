@@ -9,11 +9,11 @@ udver: '2'
 
 We always intended the Universal Dependencies representation to be used in shallow natural language understanding tasks such as relation extraction or biomedical event extraction. For such tasks, one is typically interested in the relation between certain entities, e.g., the relation between two persons or whether one protein interacts with another. UD is particularly well suited for such tasks as UD trees contain many direct dependencies between content words and many of the dependency labels provide a lot of information about the type of relation between two content words. However, for some constructions, the dependency path between two content words of interest can be very long in a UD tree, which complicates determining how the content words are related. Further, some dependency types such as [`obl`](u-dep/obl) or [`nmod`](u-dep/nmod) are used for many different types of arguments and modifiers, and therefore they are not very informative on their own. For these reasons, we also provide guidelines for an _enhanced_ representation, which makes some of the implicit relations between words more explicit, and augments some of the dependency labels to facilitate the disambiguation of types of arguments and modifiers.
 
-
 _Enhanced_ UD graphs may contain some or all of the following enhancements, which are described in the sections below.
 
 * [Empty (null) nodes for elided predicates](#ellipsis)
-* [Propagation of conjuncts](#propagation-of-conjuncts)
+* [Propagation of incoming dependencies to conjuncts](#propagation-of-incoming-dependencies-to-conjuncts)
+* [Propagation of outgoing dependencies from conjuncts](#propagation-of-outgoing-dependencies-from-conjuncts)
 * [Additional subject relations for control and raising constructions](#controlledraised-subjects)
 * [Coreference in relative clause constructions](#relative-clauses)
 * [Modifier labels that contain the preposition or other case-marking information](#case-information)
@@ -133,99 +133,9 @@ values; here they can be copied from the overt occurrence of the predicate.)
 Note that this is a case in which the _enhanced_ UD graph is not a supergraph of the _basic_ tree as the _basic_ tree contains `orphan` relations, which are not present in the _enhanced_ UD graph.
 
 
-## Propagation of Conjuncts
+## Propagation of incoming dependencies to conjuncts
 
 In the _basic_ representation, the governor and dependents of a conjoined phrase are all attached to the first conjunct. This often leads to very long dependency paths between content words. The _enhanced_ representation therefore also contains dependencies between the other conjuncts and the governor and dependents of the phrase.
-
-### Conjoined verbs and verb phrases
-
-When two verbs share their objects (or other complements), the subject and the object of the conjoined verbs are attached to every conjunct.
-
-<table> <!--The store buys and sells cameras .-->
-<tbody><tr><td width="600">
-<div class="conllu-parse">
-1 The     _ _ _ _ 2 det   _ _
-2 store   _ _ _ _ 3 nsubj _ _
-3 buys    _ _ _ _ 0 root  _ _
-4 and     _ _ _ _ 5 cc    _ _
-5 sells   _ _ _ _ 3 conj  _ _
-6 cameras _ _ _ _ 3 obj   _ _
-7 .       _ _ _ _ 3 punct _ _
-</div>
-</td><td width="600">
-<div class="conllu-parse">
-# visual-style 5 2 nsubj color:blue
-# visual-style 5 6 obj color:blue
-1 The     _ _ _ _ 2 det   _ _
-2 store   _ _ _ _ 3 nsubj 5:nsubj _
-3 buys    _ _ _ _ 0 root  _ _
-4 and     _ _ _ _ 5 cc    _ _
-5 sells   _ _ _ _ 3 conj  _ _
-6 cameras _ _ _ _ 3 obj   5:obj _
-7 .       _ _ _ _ 3 punct _ _
-</div>
-</td></tr></tbody>
-</table>
-
-However, if the complements of the second verb are not shared, only the shared dependents are attached to every conjunct.
-
-<table> <!--She was reading or watching a movie .-->
-<tbody><tr><td width="600">
-<div class="conllu-parse">
-1 She      _ _ _ _ 3 nsubj _ _
-2 was      _ _ _ _ 3 aux   _ _
-3 reading  _ _ _ _ 0 root  _ _
-4 or       _ _ _ _ 5 cc    _ _
-5 watching _ _ _ _ 3 conj  _ _
-6 a        _ _ _ _ 7 det   _ _
-7 movie    _ _ _ _ 5 obj   _ _
-8 .        _ _ _ _ 3 punct _ _
-</div>
-</td><td width="600">
-<div class="conllu-parse">
-# visual-style 5 1 nsubj color:blue
-# visual-style 5 2 aux color:blue
-1 She      _ _ _ _ 3 nsubj 5:nsubj _
-2 was      _ _ _ _ 3 aux   5:aux _
-3 reading  _ _ _ _ 0 root  _ _
-4 or       _ _ _ _ 5 cc    _ _
-5 watching _ _ _ _ 3 conj  _ _
-6 a        _ _ _ _ 7 det   _ _
-7 movie    _ _ _ _ 5 obj   _ _
-8 .        _ _ _ _ 3 punct _ _
-</div>
-</td></tr></tbody>
-</table>
-
-Similarly, the enhanced representation can also distinguish private dependents of the first verb. Note however that in this case it cannot be inferred from the basic representation automatically.
-
-<table> <!--She was reading or watching a movie .-->
-<tbody><tr><td width="600">
-<div class="conllu-parse">
-1 She      _ _ _ _ 3 nsubj _ _
-2 was      _ _ _ _ 3 aux   _ _
-3 watching _ _ _ _ 0 root  _ _
-4 a        _ _ _ _ 5 det   _ _
-5 movie    _ _ _ _ 3 obj   _ _
-6 or       _ _ _ _ 7 cc    _ _
-7 reading  _ _ _ _ 3 conj  _ _
-8 .        _ _ _ _ 3 punct _ _
-</div>
-</td><td width="600">
-<div class="conllu-parse">
-# visual-style 7 1 nsubj color:blue
-# visual-style 7 2 aux color:blue
-1 She      _ _ _ _ 3 nsubj 7:nsubj _
-2 was      _ _ _ _ 3 aux   7:aux _
-3 watching _ _ _ _ 0 root  _ _
-4 a        _ _ _ _ 5 det   _ _
-5 movie    _ _ _ _ 3 obj   _ _
-6 or       _ _ _ _ 7 cc    _ _
-7 reading  _ _ _ _ 3 conj  _ _
-8 .        _ _ _ _ 3 punct _ _
-</div>
-</td></tr></tbody>
-</table>
 
 ### Conjoined subjects and objects
 
@@ -388,6 +298,103 @@ Each conjunct in a conjoined modifier phrase gets attached to the governor of th
 </div>
 </td></tr></tbody>
 </table>
+
+
+
+## Propagation of outgoing dependencies from conjuncts
+
+In the _basic_ representation, the governor and dependents of a conjoined phrase are all attached to the first conjunct. This often leads to very long dependency paths between content words. The _enhanced_ representation therefore also contains dependencies between the other conjuncts and the governor and dependents of the phrase.
+
+### Conjoined verbs and verb phrases
+
+When two verbs share their objects (or other complements), the subject and the object of the conjoined verbs are attached to every conjunct.
+
+<table> <!--The store buys and sells cameras .-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 The     _ _ _ _ 2 det   _ _
+2 store   _ _ _ _ 3 nsubj _ _
+3 buys    _ _ _ _ 0 root  _ _
+4 and     _ _ _ _ 5 cc    _ _
+5 sells   _ _ _ _ 3 conj  _ _
+6 cameras _ _ _ _ 3 obj   _ _
+7 .       _ _ _ _ 3 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 5 2 nsubj color:blue
+# visual-style 5 6 obj color:blue
+1 The     _ _ _ _ 2 det   _ _
+2 store   _ _ _ _ 3 nsubj 5:nsubj _
+3 buys    _ _ _ _ 0 root  _ _
+4 and     _ _ _ _ 5 cc    _ _
+5 sells   _ _ _ _ 3 conj  _ _
+6 cameras _ _ _ _ 3 obj   5:obj _
+7 .       _ _ _ _ 3 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+However, if the complements of the second verb are not shared, only the shared dependents are attached to every conjunct.
+
+<table> <!--She was reading or watching a movie .-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 She      _ _ _ _ 3 nsubj _ _
+2 was      _ _ _ _ 3 aux   _ _
+3 reading  _ _ _ _ 0 root  _ _
+4 or       _ _ _ _ 5 cc    _ _
+5 watching _ _ _ _ 3 conj  _ _
+6 a        _ _ _ _ 7 det   _ _
+7 movie    _ _ _ _ 5 obj   _ _
+8 .        _ _ _ _ 3 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 5 1 nsubj color:blue
+# visual-style 5 2 aux color:blue
+1 She      _ _ _ _ 3 nsubj 5:nsubj _
+2 was      _ _ _ _ 3 aux   5:aux _
+3 reading  _ _ _ _ 0 root  _ _
+4 or       _ _ _ _ 5 cc    _ _
+5 watching _ _ _ _ 3 conj  _ _
+6 a        _ _ _ _ 7 det   _ _
+7 movie    _ _ _ _ 5 obj   _ _
+8 .        _ _ _ _ 3 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+Similarly, the enhanced representation can also distinguish private dependents of the first verb. Note however that in this case it cannot be inferred from the basic representation automatically.
+
+<table> <!--She was reading or watching a movie .-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 She      _ _ _ _ 3 nsubj _ _
+2 was      _ _ _ _ 3 aux   _ _
+3 watching _ _ _ _ 0 root  _ _
+4 a        _ _ _ _ 5 det   _ _
+5 movie    _ _ _ _ 3 obj   _ _
+6 or       _ _ _ _ 7 cc    _ _
+7 reading  _ _ _ _ 3 conj  _ _
+8 .        _ _ _ _ 3 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 7 1 nsubj color:blue
+# visual-style 7 2 aux color:blue
+1 She      _ _ _ _ 3 nsubj 7:nsubj _
+2 was      _ _ _ _ 3 aux   7:aux _
+3 watching _ _ _ _ 0 root  _ _
+4 a        _ _ _ _ 5 det   _ _
+5 movie    _ _ _ _ 3 obj   _ _
+6 or       _ _ _ _ 7 cc    _ _
+7 reading  _ _ _ _ 3 conj  _ _
+8 .        _ _ _ _ 3 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
 
 
 ## Controlled/raised subjects
