@@ -102,6 +102,16 @@ Produces adverbs and adjectives (having an X).
 
 * [kpv] _кепыся_ "with a glove"
 
+### <a name="Sjuro">`Sjuro`</a>: derivation with suffix -сюрӧ
+
+Produces indefinite from interrogative.
+
+#### Examples
+
+* [kpv] _кодсюрӧ_ "somebody"
+* [kpv] _кыдзсюрӧ_ "somehow"
+* [kpv] _кутшӧмсюрӧ_ "some kind of"
+
 ### <a name="VCar">`VCar`</a>: derivation with suffix -тӧг
 
 Produces converbs.
