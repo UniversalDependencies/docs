@@ -2,6 +2,7 @@
 layout: relation
 title:  'nsubj'
 shortdef : 'nominal subject'
+udver: '2'
 ---
 
 The dependency type `nsubj` marks nominal subjects of the non-copular

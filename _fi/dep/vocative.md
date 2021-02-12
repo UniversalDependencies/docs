@@ -2,6 +2,7 @@
 layout: relation
 title:  'vocative'
 shortdef : 'vocative modifier'
+udver: '2'
 ---
 
 The dependency type `vocative` is used for *vocatives*, that is,

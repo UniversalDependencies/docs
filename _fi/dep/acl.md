@@ -2,6 +2,7 @@
 layout: relation
 title: 'acl'
 shortdef: 'clausal modifier of noun'
+udver: '2'
 ---
 
 `acl` stands for finite and non-finite clauses that modify a noun, in
@@ -27,7 +28,7 @@ punct(oli-2, .-6)
 The participial modifier is a participle verb which modifies a noun
 phrase. Note that the participle can take arguments, for instance a subject,
 just as any verb. (Also the MA-derivation is treated as a participle in UD
-Finnish.)  
+Finnish.)
 
 <!-- fname:partmod_NP.pdf -->
 ~~~ sdparse
@@ -44,7 +45,7 @@ punct(menestys-5, .-6)
 Saadut lahjat ilahduttivat lapsia . \n Received presents made_happy children .
 acl(lahjat-2, Saadut-1)
 nsubj(ilahduttivat-3, lahjat-2)
-dobj(ilahduttivat-3, lapsia-4)
+obj(ilahduttivat-3, lapsia-4)
 punct(ilahduttivat-3, .-5)
 ~~~
 
@@ -65,7 +66,7 @@ punct(juoksin-2, .-5)
 Ksylitoli osoittautui kariesta ehkäiseväksi . \n Xylitol turned_out karies preventing .
 nsubj(osoittautui-2, Ksylitoli-1)
 xcomp(osoittautui-2, ehkäiseväksi-4)
-dobj(ehkäiseväksi-4, kariesta-3)
+obj(ehkäiseväksi-4, kariesta-3)
 punct(osoittautui-2, .-5)
 ~~~
 

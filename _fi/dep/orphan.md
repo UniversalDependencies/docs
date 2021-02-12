@@ -2,7 +2,8 @@
 layout: relation
 title: 'orphan'
 redirect_from: "fi/dep/remnant.html"
-shortdef : 'remnant in ellipsis'
+shortdef : 'orphaned dependent in gapping, attached to the promoted orphan'
+udver: '2'
 ---
 
 The `orphan` relation is used to provide a treatment of ellipsis (in
@@ -12,8 +13,11 @@ that do not postulate empty nodes.
 
 ~~~ sdparse
 Maija meni Pariisiin ja Mirja Prahaan \n Maija went to Paris and Mirja to Prague
-remnant(Maija, Mirja)
-remnant(Pariisiin, Prahaan)
+nsubj(meni-2, Maija-1)
+obl(meni-2, Pariisiin-3)
+conj(meni-2, Mirja-5)
+cc(Mirja-5, ja-4)
+orphan(Mirja-5, Prahaan-6)
 ~~~
 
 ### Diffs

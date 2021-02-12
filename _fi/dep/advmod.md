@@ -2,6 +2,7 @@
 layout: relation
 title:  'advmod'
 shortdef : 'adverb modifier'
+udver: '2'
 ---
 
 The dependency type `advmod` is used for *adverb modifiers* of verbs,
@@ -21,7 +22,7 @@ punct(käveli-2, .-5)
 Minä otin kaapista myös vasaran . \n I took from_closet also hammer .
 nsubj(otin-2, Minä-1)
 nmod(otin-2, kaapista-3)
-dobj(otin-2, vasaran-5)
+obj(otin-2, vasaran-5)
 advmod(vasaran-5, myös-4)
 punct(otin-2, .-6)
 ~~~

@@ -2,6 +2,7 @@
 layout: relation
 title:  'csubj'
 shortdef : 'clausal subject'
+udver: '2'
 ---
 
 A *clausal subject* (`csubj`) is a clause that acts as the subject of
