@@ -17,6 +17,7 @@ The three corpora **UD_French-ParTUT**, **UD_French-Sequoia** and **UD_French-GS
    * `Art` (_le_, _un_)
    * `Prs` (_mon_, _leur_)
    * `Dem` (_ce_)
+   * `Exc` (_quel_)
    * `Neg` (_aucun_)
    * `Tot` (_tous_)
 
@@ -51,6 +52,12 @@ distinguished by the [Poss]() feature.
 #### Examples:
 
 * _que_
+
+### <a name="Exc">`Exc`</a>: Exclamative determiners
+
+#### Examples:
+
+* _quel_ in _Quel dommage !_ [What a pity!]
 
 ### <a name="Rel">`Rel`</a>: relative pronoun, determiner, numeral or adverb
 
