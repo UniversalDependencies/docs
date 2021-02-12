@@ -19,9 +19,6 @@ The three corpora **UD_French-ParTUT**, **UD_French-Sequoia** and **UD_French-GS
    * `Dem` (_ce_)
    * `Exc` (_quel_)
    * `Neg` (_aucun_)
-   * `Tot` (_tous_)
-
-**UD_French-PUD** uses the feature `PronType` only on pronouns and only with the value `Prs`.
 
 ### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
@@ -87,11 +84,5 @@ do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the
 #### Examples
 
 * _quiconque_
-
-### <a name="Tot">`Tot`</a>: total pronoun, determiner, numeral or adverb
-
-#### Examples
-
-* _tout, toute, tous, toutes_
 
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
