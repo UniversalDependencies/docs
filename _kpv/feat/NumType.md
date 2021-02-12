@@ -11,6 +11,12 @@ udver: '2'
 
 * [kpv] _ӧти, кык, куим_ "_one, two, three_"
 
+### <a name="Dist">`Dist`</a>: distributional number or corresponding interrogative / relative / indefinite / demonstrative word
+
+#### Examples
+
+* [kpv] _кыкӧн, куимӧн_ "_by two, by three_"
+
 ### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
 This is a subtype of adjective or (in some languages) of adverb.
