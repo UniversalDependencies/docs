@@ -10,6 +10,16 @@ udver: '2'
 Language-specific feature identifying the form of derivation applied
 to a word.
 
+### <a name="An">`An`</a>: derivation with suffix -ан
+
+Produces adnominal deverbal noun modifier / noun.
+
+#### Examples
+
+* [kpv] _кутан_ "holding"
+* [kpv] _сёян_ "food"
+* [kpv] _чужан_ "birth"
+
 ### <a name="Ig">`Ig`</a>: derivation with suffix -иг/-іг
 
 Produces converb.
@@ -60,6 +70,14 @@ Produces indefinite from interrogative.
 * [kpv] _кыдзкӧ_ "somehow"
 * [kpv] _кутшӧмкӧ_ "some kind of"
 
+### <a name="NomAg">`NomAg`</a>: derivation with suffix -ысь
+
+Produces nomen agensis (non-temporal).
+
+#### Examples
+
+* [kpv] _сулалысь_ "one standing"
+
 ### <a name="Omon">`Omon`</a>: derivation with suffix -ӧмӧн
 
 Produces converb.
@@ -83,5 +101,21 @@ Produces adverbs and adjectives (having an X).
 #### Examples
 
 * [kpv] _кепыся_ "with a glove"
+
+### <a name="VCar">`VCar`</a>: derivation with suffix -тӧг
+
+Produces converbs.
+
+#### Examples
+
+* [kpv] _повтӧг_ "without fearing"
+
+### <a name="VTer">`VTer`</a>: derivation with suffix -тӧдз
+
+Produces converbs.
+
+#### Examples
+
+* [kpv] _петтӧдз_ "until it comes out"
 
 <!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->
