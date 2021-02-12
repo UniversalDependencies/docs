@@ -12,7 +12,7 @@ We always intended the Universal Dependencies representation to be used in shall
 
 _Enhanced_ UD graphs may contain some or all of the following enhancements, which are described in the sections below.
 
-* [Null nodes for elided predicates](#ellipsis)
+* [Empty (null) nodes for elided predicates](#ellipsis)
 * [Propagation of conjuncts](#propagation-of-conjuncts)
 * [Additional subject relations for control and raising constructions](#controlledraised-subjects)
 * [Coreference in relative clause constructions](#relative-clauses)
@@ -50,7 +50,10 @@ in the order described below. We provide a more detailed explanation of the extr
 
 (See also the guidelines on [ellipsis](specific-syntax.html#ellipsis).)
 
-In the _enhanced_ representation, we add special null nodes in clauses in which a predicate is elided.
+In the _enhanced_ representation, we add special empty (null) nodes in clauses in which a predicate is elided.
+(Although the node is termed ‘empty’ in the CoNLL-U format specification, and although it does not correspond
+to an overt surface token, its FORM, LEMMA, UPOS, XPOS and FEATS may be optionally filled with the assumed
+values; here they can be copied from the overt occurrence of the predicate.)
 
 <table id="ellipsis-example1"> <!--I like tea and you E5.1 rum .-->
 <tbody><tr><td width="600">
@@ -823,3 +826,15 @@ The following formal rules apply (copied from the summary at the beginning of th
 ## Additional enhancements
 
 Some postprocessing steps such as demoting light nouns that behave like quantificational determiners (as, for example, described in [Schuster and Manning (2016)](http://www.lrec-conf.org/proceedings/lrec2016/pdf/779_Paper.pdf)) can improve the usability of the dependency graphs for downstream applications. However, as most of these additions are highly language-specific, we do not provide any universal guidelines for such a representation and anything beyond the above additions is not part of the UD standard and should not be added to the officially released treebanks.
+
+----------
+
+DZ: Here are some additional thoughts on things that are not part of the officially approved guidelines
+but I think that they should be considered for addition in the future (based on experience with the
+treebanks that already contain some enhanced annotation).
+
+* If a corpus does not annotate any of the enhancements defined in the guidelines, it should always have the underscore character in the DEPS column. That is, the enhanced graph should not be just an exact copy of the basic tree. Otherwise it creates the impression that the user can expect some enhancements while there are actually none.
+* If one sentence in a corpus has the enhanced graph, then all sentences in the corpus must have it. It will facilitate processing of the corpus.
+* While individual enhancement types are optional, once a particular enhancement type is annotated somewhere in the corpus, the authors should annotate it everywhere in the corpus. This cannot be checked automatically for some enhancement types, but obviously the user will then assume that non-presence of the annotation in a sentence means that the phenomenon does not occur there.
+* It would be useful if one could recognize from the enhanced relation type what type of enhancement it represents. (Some relations may be a result of two enhancement types combined.) The Stanford Enhancer does this at least for the controlled subjects (generating `nsubj:xsubj`, `nsubj:pass:xsubj`, `csubj:xsubj`, or `csubj:pass:xsubj` for the new enhanced relation) but in fact, the `:xsubj` extension is not supported in the guidelines and is technically illegal.
+* Besides adding case information to `nmod`, `obl`, `acl`, and `advcl`, the Stanford Enhancer also adds conjunction information to `conj`. This is not allowed in the guidelines and thus illegal; however, several UD treebanks already contain it and, arguably, its usefulness can be compared to that of case information.
