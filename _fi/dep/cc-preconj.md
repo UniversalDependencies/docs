@@ -2,6 +2,7 @@
 layout: relation
 title:  'cc:preconj'
 shortdef : 'preconjunct'
+udver: '2'
 ---
 
 The *preconjunct* (`cc:preconj`) dependency relation marks the
@@ -14,7 +15,7 @@ See also [CCONJ]().
 ~~~ sdparse
 sekä talo että piha \n both house and yard
 cc:preconj(talo-2, sekä-1)
-cc(talo-2, että-3)
+cc(piha-4, että-3)
 conj(talo-2, piha-4)
 ~~~
 

@@ -2,6 +2,7 @@
 layout: relation
 title:  'nmod'
 shortdef : 'nominal modifier'
+udver: '2'
 ---
 
 *Nominal modifiers* are inflected nominals which modify most commonly a verb or a noun phrase. They can occur alone or together with an adposition in an adpositional phrase. Both cases are analyzed similarly, as semantically nominal modifiers and adpositional phrases are similar.

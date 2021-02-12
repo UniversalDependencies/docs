@@ -2,6 +2,7 @@
 layout: relation
 title:  'compound'
 shortdef : 'compound'
+udver: '2'
 ---
 
 `compound` is one of the three UD relations UD for compounding,

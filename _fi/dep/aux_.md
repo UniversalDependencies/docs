@@ -2,13 +2,14 @@
 layout: relation
 title:  'aux'
 shortdef : 'auxiliary'
+udver: '2'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "fi/dep/aux.html"
 ---
 
 In UD Finnish, only a closed list of verbs can act as auxiliaries, including
-the main modal verbs 
+the main modal verbs
 (see ISK [§1562](http://scripta.kotus.fi/visk/sisallys.php?p=1562))
 and in addition the verbs _olla_ "to be" and _aikoa_ "to be going to".
 
