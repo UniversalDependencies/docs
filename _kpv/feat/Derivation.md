@@ -20,6 +20,22 @@ Produces adnominal deverbal noun modifier / noun.
 * [kpv] _сёян_ "food"
 * [kpv] _чужан_ "birth"
 
+### <a name="Ana">`Ana`</a>: derivation with suffix -ана
+
+Produces adnominal deverbal adjective modifier / adverb.
+
+#### Examples
+
+* [kpv] _кутана_ "holding"
+
+### <a name="CompMod">`CompMod`</a>: derivation with suffix -кодь
+
+Produces meaning _like_ added to adjectival heads.
+
+#### Examples
+
+* [kpv] _паськыдкодь_ "rather extensive"
+
 ### <a name="Ig">`Ig`</a>: derivation with suffix -иг/-іг
 
 Produces converb.
