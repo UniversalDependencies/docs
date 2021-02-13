@@ -2,6 +2,7 @@
 layout: relation
 title:  'obj'
 shortdef : 'direct object'
+udver: '2'
 ---
 
 The dependency type `obj` is used for (nominal) direct objects of the

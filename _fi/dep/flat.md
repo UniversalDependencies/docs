@@ -3,6 +3,7 @@ layout: relation
 title: 'flat'
 redirect_from: "fi/dep/name.html"
 shortdef : 'flat phrase without a clear head'
+udver: '2'
 ---
 
 Proper names constituted of more than one word are annotated using the dependency type `flat`. The first (leftmost) word is the head, and the other words are direct dependents of the head.
