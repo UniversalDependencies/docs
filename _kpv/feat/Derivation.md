@@ -44,6 +44,14 @@ Produces converb.
 
 * [kpv] _вундігӧн_ "in cutting"
 
+### <a name="Igkost">`Igkost`</a>: derivation with suffix -игкост/-ігкост
+
+Produces converb.
+
+#### Examples
+
+* [kpv] _чӧвтігкостаныс_ "in between keeping silent"
+
 ### <a name="Igmoz">`Igmoz`</a>: derivation with suffix -игмоз/-ігмоз
 
 Produces converb.
