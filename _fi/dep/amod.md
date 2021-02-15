@@ -2,6 +2,7 @@
 layout: relation
 title:  'amod'
 shortdef : 'adjectival modifier'
+udver: '2'
 ---
 
 Nouns may take adjectival modifiers, which are marked with the

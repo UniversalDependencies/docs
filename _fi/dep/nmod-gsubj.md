@@ -2,6 +2,7 @@
 layout: relation
 title:  'nmod:gsubj'
 shortdef : 'genitive subject'
+udver: '2'
 ---
 
 *Genitive subjects* are subject-like arguments taken by a noun. This

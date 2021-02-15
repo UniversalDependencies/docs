@@ -2,6 +2,7 @@
 layout: relation
 title:  'nmod:poss'
 shortdef : 'genitive modifier'
+udver: '2'
 ---
 
 The dependency type `poss` stands for *possessive* in the original SD

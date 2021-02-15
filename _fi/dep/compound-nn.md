@@ -2,6 +2,7 @@
 layout: relation
 title:  'compound:nn'
 shortdef : 'noun compound modifier'
+udver: '2'
 ---
 
 The dependency type `compound:nn`, which stands for *noun compound
@@ -26,7 +27,7 @@ generally express profession, rank, position, assignment or other such
 classifiable property (see ISK
 [§1062](http://scripta.kotus.fi/visk/sisallys.php?p=1062)). The
 phenomenon is closely related to that of *apposition*, and the
-distinction between the two is described in 
+distinction between the two is described in
 [Appositions and appellation modifiers](/docs/fi/overview/specific-syntax.html#appositions-and-appellation-modifiers).
 
 <!-- fname:nn_appellation.pdf -->
@@ -35,7 +36,7 @@ Professori Matti Tamminen pitää puheen . \n Professor Matti Tamminen gives a_s
 compound:nn(Tamminen-3, Professori-1)
 name(Tamminen-3, Matti-2)
 nsubj(pitää-4, Tamminen-3)
-dobj(pitää-4, puheen-5)
+obj(pitää-4, puheen-5)
 punct(pitää-4, .-6)
 ~~~
 
