@@ -8,6 +8,25 @@ udver: '2'
 Mood is a feature that expresses modality and subclassifies finite
 [verb](fi-pos/VERB) forms.
 
+### <a name="Ind">`Ind`</a>: indicative
+
+The indicative can be considered the default mood. A verb in
+indicative merely states that something happens, has happened or will
+happen, without adding any attitude of the speaker.
+
+#### Examples
+
+* FIXME example here!
+
+### <a name="Imp">`Imp`</a>: imperative
+
+The speaker uses imperative to order or ask the addressee to do the
+action of the verb.
+
+#### Examples
+
+* FIXME example here!
+
 ### <a name="Precative">`Precative`</a>: precative
 
 The precative, a polite request or encouragement, is formed with the combination of the particle _lū_ and the preterite form of a verb.
