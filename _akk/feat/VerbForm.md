@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'VerbForm'
-shortdef: 'stative'
+shortdef: 'form of verb
 udver: '2'
 ---
 
