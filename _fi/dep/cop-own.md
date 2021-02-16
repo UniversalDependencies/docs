@@ -12,7 +12,7 @@ expressed in Finnish by _Minulla on kynä_, literally _"At me is a pen"_.
 These possessive clauses are analyzed as a subtype to copula clauses,
 making the owner (_minulla_, _at me_ in the previous example) the head,
 while the copula verb is marked with relation **cop:own** distinguising
-posessive clauses from typical copula clauses (_Minä olen ihminen_, _I am a human_)
+possessive clauses from typical copula clauses (_Minä olen ihminen_, _I am a human_)
 as well as existential clauses (_Pihalla on auto_, _There is a car in the yard_). 
 
 <!-- fname:cop-own.pdf -->
