@@ -12,6 +12,14 @@ Language-specific feature identifying clitics attached to the word.
 Komi-Zyrian has a number of particle clitics used to express questions,
 politeness, or focus.
 
+### <a name="A">`A`</a>: -а
+
+Expresses question _do you think_.
+
+#### Examples
+
+* [kpv] _Тун кӧ тайӧ нывбабаыс-<b>а</b>?_ "If this woman is a witch, <b>you think</b>?"
+
 ### <a name="O">`O`</a>: -ӧ
 
 Expresses question _whether_.

@@ -52,4 +52,10 @@ Pronominal type is a feature of (some) pronouns, determiners and pronominal adve
 
 * _кодкӧ, кодсюрӧ_
 
+### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
+
+#### Examples
+
+* _ӧта-мӧднымӧс_ \n one another.
+
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
