@@ -27,7 +27,7 @@ action of the verb.
 
 * FIXME example here!
 
-### <a name="Precative">`Precative`</a>: precative
+### <a name="Precative">`Prec`</a>: precative
 
 The precative, a polite request or encouragement, is formed with the combination of the particle _lū_ and the preterite form of a verb.
 
@@ -35,7 +35,7 @@ The precative, a polite request or encouragement, is formed with the combination
 * _<b>līrur</b>_ “may he curse”
 * _<b>luhalliqū</b>_ “may they destroy”
 
-### <a name="Prohibitive">`Prohibitive`</a>: prohibitive
+### <a name="Prohibitive">`Proh`</a>: prohibitive
 
 The prohibitive expresses negative commands and combines the negation _lā_ with the present tense. Optionally, the particle _lū_ may be added to stress the command.
 
