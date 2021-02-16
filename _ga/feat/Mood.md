@@ -35,7 +35,7 @@ The imperative mood is used to give a command, express advice, or make a request
 
 * _<b>Ná habair</b> liom_ "Don't tell me"
 * _<b>Bígí</b> ar ais anseo_ "Be back here"
-* _<b>Chuiridís</b> oilithrigh amach_ "Let them send the pilgrims out"
+* _<b>Clúdaigh</b> an bia_ "Cover the food"
 
 ### <a name="Sub">`Sub`</a>: subjunctive mood
 
