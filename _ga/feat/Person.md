@@ -58,10 +58,10 @@ The second person refers to the listener. The singular first person denotes just
 * _Dúnann <b>tú/sibh</b>_ "You(sing/pl) close
 * _Tuigeann <b>tú/sibh</b>_ "You(sing/pl) understand
 * _Féach!_ "(You) look!"
-* _Bígí ann_ "(You pl) be there!" 
+* _Bí<b>gí</b> ann_ "(You pl) be there!" 
 * _ag<b>aibh</b>_ "at you (pl)"
-* _do sheoladh_ "your (sg) address"
-* _bhur dtacaíocht_ "your (pl) support"
+* _<b>do</b> sheoladh_ "your (sg) address"
+* _<b>bhur</b> dtacaíocht_ "your (pl) support"
 
 
 
@@ -77,7 +77,7 @@ While, some verbs forms (e.g. conditional, past imperfect) mark the 3rd person p
 * _Tuigeann <b>sé/sí/siad</b>_ "He/she/they understand(s)
 * _é_ "him"
 * _iad_"they"
-* _ina* "in his/hers/its/their"
+* _ina_ "in his/hers/its/their"
 * _go ndéan<b>faidís</b>_ "that they would make"
 * _an t-ainm a thug<b>aidís</b> ar a n-athair_ "the name they used to give to their father"
 
