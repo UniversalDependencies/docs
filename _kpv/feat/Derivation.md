@@ -94,6 +94,15 @@ Produces indefinite from interrogative.
 * [kpv] _кыдзкӧ_ "somehow"
 * [kpv] _кутшӧмкӧ_ "some kind of"
 
+### <a name="LocMod">`LocMod`</a>: derivation with suffix -са
+
+Produces meaning _in_ added to adjectival heads adnominal phrases, contrast Inessive case.
+Added to both singular and plural stems.
+
+#### Examples
+
+* [kpv] _карса олысьяс_ "urban dwellers"
+
 ### <a name="NomAg">`NomAg`</a>: derivation with suffix -ысь
 
 Produces nomen agensis (non-temporal).
