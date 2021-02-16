@@ -145,6 +145,14 @@ Produces indefinite from interrogative.
 * [kpv] _кыдзсюрӧ_ "somehow"
 * [kpv] _кутшӧмсюрӧ_ "some kind of"
 
+### <a name="TempMod">`TempMod`</a>: derivation with suffix -ся
+
+Produces adnominal modifiers (in the time of X).
+
+#### Examples
+
+* [kpv] _июль тӧлысся_ "from the month of June"
+
 ### <a name="VCar">`VCar`</a>: derivation with suffix -тӧг
 
 Produces converbs.
