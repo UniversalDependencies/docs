@@ -9,23 +9,43 @@ In Akkadian, various verbal stems are used to indicate whether a verb has, for e
 
 ### <a name="D">`D`</a>: D
 
+The D stem.
+
 ### <a name="D">`Dt`</a>: Dt
+
+The Dt stem.
 
 ### <a name="D">`G`</a>: G
 
+The G stem.
+
 ### <a name="D">`Gt`</a>: Gt
+
+The Gt stem.
 
 ### <a name="D">`Gtn`</a>: Gtn
 
+The Gtn stem.
+
 ### <a name="D">`N`</a>: N
+
+The N stem.
 
 ### <a name="D">`Ntn`</a>: Ntn
 
+The Ntn stem.
+
 ### <a name="D">`S`</a>: S
+
+The S stem.
 
 ### <a name="D">`St`</a>: St
 
+The St stem.
+
 ### <a name="D">`Stn`</a>: Stn
+
+The Stn stem.
 
 #### Examples
 * _<b>arṣip</b>_ “I built” (G stem)
