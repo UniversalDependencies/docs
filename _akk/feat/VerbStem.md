@@ -12,43 +12,43 @@ In Akkadian, various verbal stems are used to indicate whether a verb has, for e
 The D stem.
 
 #### Examples
-* _<b>tīlu labēru unakkir</b>_ “I removed the old ruin hill.” (D stem)
+* _<b>tīlu labēru unakkir</b>_ "I removed the old ruin hill." (D stem)
 
 ### <a name="Dt">`Dt`</a>: Dt
 
 The Dt stem.
 
 #### Examples
-* FIXME example missing
+* _<b>šutarruhūtišu uštarrih</b>_ "He had himself exalted." (Dt stem)
 
 ### <a name="G">`G`</a>: G
 
 The G stem.
 
 #### Examples
-* _<b>arṣip</b>_ “I built” (G stem)
-* _<b>iplah</b>_ “He become afraid” (G stem) 
+* _<b>arṣip</b>_ "I built" (G stem)
+* _<b>iplah</b>_ "He become afraid" (G stem) 
 
 ### <a name="Gt">`Gt`</a>: Gt
 
 The Gt stem.
 
 #### Examples
-* FIXME example missing
+* _<b>ittešunu amdahhiṣ</b>_ "I fought with them." (Gt stem)
 
 ### <a name="Gtn">`Gtn`</a>: Gtn
 
 The Gtn stem.
 
 #### Examples
-* _<b>attallak-ma</b>_ “I marched (over and over) and …” (Gtn stem)
+* _<b>attallak-ma</b>_ "I marched (over and over) and …" (Gtn stem)
 
 ### <a name="N">`N`</a>: N
 
 The N stem.
 
 #### Examples
-* _<b>ana gipiš ummānātišunu ittaklū</b>_ “They trusted in the massiveness of their troops.” (N stem)
+* _<b>ana gipiš ummānātišunu ittaklū</b>_ "They trusted in the massiveness of their troops." (N stem)
 
 ### <a name="Ntn">`Ntn`</a>: Ntn
 
@@ -62,18 +62,18 @@ The Ntn stem.
 The Š stem.
 
 #### Examples
-* _<b>Sin u Šamaš ana libbi ušērib</b>_ “I brought inside the gods Sîn and Šamaš.” (Š stem)
+* _<b>Sin u Šamaš ana libbi ušērib</b>_ "I brought inside the gods Sîn and Šamaš." (Š stem)
 
 ### <a name="St">`St`</a>: St
 
 The Št stem.
 
 #### Examples
-* FIXME example missing
+* _<b>tamētu šiṭriya lā uštennû</b>_ "(who) does not alter the ordinances of my text." (Št stem)
 
 ### <a name="Stn">`Stn`</a>: Stn
 
-The Štn stem.
+* _<b>šarrāni uštanapšaqū</b>_ "Kings are in constant distress." (Štn stem)
 
 #### Examples
-* FIXME example missing
+* _<b>šadâni dannūte ittatabalkitu</b>_ "(who) was constantly traversing the mighty mountains." (Ntn stem)
