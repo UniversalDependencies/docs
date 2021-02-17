@@ -111,6 +111,14 @@ Produces nomen agensis (non-temporal).
 
 * [kpv] _сулалысь_ "one standing"
 
+### <a name="Oma">`Oma`</a>: derivation with suffix -ӧма
+
+Produces proprietive-like adjectival derivation of deverbal noun used in elliptic constructions.
+
+#### Examples
+
+* [kpv] _быдмӧма_ "having grown"
+
 ### <a name="Omon">`Omon`</a>: derivation with suffix -ӧмӧн
 
 Produces converb.
