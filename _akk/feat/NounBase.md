@@ -5,7 +5,7 @@ shortdef: 'base of noun'
 udver: '2'
 ---
 
-Depending on its immediate environment, the "status" of a noun (i.e., its morphological form) varies in Akkadian. RIAO distinguishes between bound, free, suffixal, and terminal forms.
+Depending on its immediate environment, the "status" of a noun or a noun-like word (i.e., its morphological form) varies in Akkadian. RIAO distinguishes between bound, free, suffixal, and terminal forms.
 
 ### <a name="Free">`Free`</a>: free
 
