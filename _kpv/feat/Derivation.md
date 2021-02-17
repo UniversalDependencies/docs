@@ -44,6 +44,14 @@ Produces converb.
 
 * [kpv] _вундігӧн_ "in cutting"
 
+### <a name="Igdyrji">`Igdyrji`</a>: derivation with suffix -игдырйи/-ігдырйи
+
+Produces converb.
+
+#### Examples
+
+* [kpv] _горзігдырйи_ "while shouting"
+
 ### <a name="Igkost">`Igkost`</a>: derivation with suffix -игкост/-ігкост
 
 Produces converb.
