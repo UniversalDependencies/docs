@@ -21,11 +21,12 @@ The stative can be analysed as a verbal noun which expresses states and is not t
 A finite verb.
 
 #### Examples
-* FIXME example here!
+* _<b>rēmu artašišu</b>_ "I had mercy on him."
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
 An infinitive verb.
 
 #### Examples
-* FIXME example here!
+* _<b>ana šūzub napšātišunu</b>_ "To save their lives."
+
