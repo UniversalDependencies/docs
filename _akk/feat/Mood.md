@@ -16,7 +16,7 @@ happen, without adding any attitude of the speaker.
 
 #### Examples
 
-* FIXME example here!
+* _<b>idūkūšu</b>_ "They defeated him."
 
 ### <a name="Imp">`Imp`</a>: imperative
 
@@ -25,7 +25,8 @@ action of the verb.
 
 #### Examples
 
-* FIXME example here!
+* _<b>ṣalmu šuātu hulliq</b>_ "Destroy this monument!"
+* _<b>šumka itti šumiya šuṭur</b>_ "Write your name with my name!"
 
 ### <a name="Prec">`Prec`</a>: precative
 
