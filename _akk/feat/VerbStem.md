@@ -57,21 +57,21 @@ The Ntn stem.
 #### Examples
 * _<b>šadâni dannūte ittatabalkitu</b>_ "(who) was constantly traversing the mighty mountains."
 
-### <a name="S">`Š`</a>: Š
+### <a name="S">`S`</a>: S
 
 The Š stem.
 
 #### Examples
 * _<b>Sin u Šamaš ana libbi ušērib</b>_ "I brought inside the gods Sîn and Šamaš."
 
-### <a name="St">`Št`</a>: Št
+### <a name="St">`St`</a>: St
 
 The Št stem.
 
 #### Examples
 * _<b>tamētu šiṭriya lā uštennû</b>_ "(who) does not alter the ordinances of my text."
 
-### <a name="Stn">`Štn`</a>: Štn
+### <a name="Stn">`Stn`</a>: Stn
 
 #### Examples
 * _<b>šarrāni uštanapšaqū</b>_ "Kings are in constant distress."
