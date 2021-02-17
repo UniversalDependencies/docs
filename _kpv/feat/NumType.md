@@ -5,6 +5,12 @@ shortdef: 'numeral type'
 udver: '2'
 ---
 
+### <a name="Appr">`Appr`</a>: approximate number
+
+#### Examples
+
+* [kpv] _ӧти-кык, кык-ӧ-куим_ "_one or two, two or three_"
+
 ### <a name="Card">`Card`</a>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
 #### Examples
