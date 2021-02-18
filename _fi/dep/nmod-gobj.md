@@ -2,6 +2,7 @@
 layout: relation
 title:  'nmod:gobj'
 shortdef : 'genitive object'
+udver: '2'
 ---
 
 Certain nouns, those which have been directly derived from a verb or

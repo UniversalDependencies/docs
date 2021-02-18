@@ -2,6 +2,7 @@
 layout: relation
 title:  'cop'
 shortdef : 'copula'
+udver: '2'
 ---
 
 Copular clauses receive a special treatment in the SD scheme. The

@@ -2,6 +2,7 @@
 layout: relation
 title:  'xcomp'
 shortdef : 'open clausal complement'
+udver: '2'
 ---
 
 The dependency type `xcomp` is reserved for clausal complements which have an external subject, that is, whose subject is shared with the complemented verb (a phenomenon also known as subject control). Note that the subject of the complementing clause must be the *subject* of the complemented verb, not any other sentence element (in other cases the dependency type [xcomp:ds]() should be used instead). These complements are always non-finite.
@@ -11,7 +12,7 @@ The dependency type `xcomp` is reserved for clausal complements which have an ex
 Hän alkoi hakata halkoja . \n He started chopping the_wood .
 nsubj(alkoi-2, Hän-1)
 xcomp(alkoi-2, hakata-3)
-dobj(hakata-3, halkoja-4)
+obj(hakata-3, halkoja-4)
 punct(alkoi-2, .-5)
 ~~~
 

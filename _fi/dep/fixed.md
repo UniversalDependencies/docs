@@ -2,7 +2,8 @@
 layout: relation
 title: 'fixed'
 redirect_from: "fi/dep/mwe.html"
-shortdef : 'multi-word expression'
+shortdef : 'fixed multi-word expression'
+udver: '2'
 ---
 
 The multi-word expression (modifier) relation is used for certain
@@ -15,7 +16,7 @@ mwe label.
 <!-- fname:dep.pdf -->
 ~~~ sdparse
 Itse asiassa hän tuli jo eilen . \n As_a matter_of_fact he came already yesterday .
-mwe(Itse-1, asiassa-2)
+fixed(Itse-1, asiassa-2)
 advmod(tuli-4, Itse-1)
 nsubj(tuli-4, hän-3)
 advmod(tuli-4, eilen-6)

@@ -2,6 +2,7 @@
 layout: relation
 title: 'nsubj'
 shortdef: 'nominal subject'
+udver: '2'
 ---
 
 A nominal subject is a nominal phrase which is the subject of a clause. The governor of the `nsubj` relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun.

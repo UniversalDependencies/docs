@@ -1,14 +1,24 @@
 ---
 layout: relation
 title: 'flat'
-redirect_from: "et/dep/name.html"
-shortdef: 'name'
+shortdef: 'flat multiword expression'
+udver: '2'
 ---
 
-The dependency relation name is used for proper nouns constituted of multiple nominal elements. Note that names are right-headed in Estonian UD.
+The dependency relation 'flat' is used for exocentric (headless) semi-fixed MWEs like names (Arvo Pärt), dates and foreign phrases. 
 
 ~~~ sdparse
 Arvo Pärt
-name(Pärt-2, Arvo-1)
+flat(Pärt-2, Arvo-1)
 ~~~
+
+~~~ sdparse
+entry level kaamerate hinnad \n prices for entry level cameras
+flat(entry-1, level-2)
+flat(entry-8, level-9)
+nmod(kaamerate,entry-1)
+nmod(cameras,entry-8)
+~~~
+
+
 <!-- Interlanguage links updated Čt lis 12 09:43:26 CET 2020 -->

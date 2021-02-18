@@ -2,7 +2,8 @@
 layout: relation
 title: 'flat'
 redirect_from: "fi/dep/name.html"
-shortdef : 'name'
+shortdef : 'flat phrase without a clear head'
+udver: '2'
 ---
 
 Proper names constituted of more than one word are annotated using the dependency type `flat`. The first (leftmost) word is the head, and the other words are direct dependents of the head.
@@ -16,11 +17,11 @@ If a name has an obvious internal structure, as is often the case in names of bo
 Jumalat juhlivat öisin on Donna Tarttin esikoisteos . \n Gods celebrate by_night is Donna Tartt's first_work .
 nsubj(juhlivat-2, Jumalat-1)
 nmod(juhlivat-2, öisin-3)
-name(Jumalat-1, öisin-3)
+flat(Jumalat-1, öisin-3)
 nsubj:cop(esikoisteos-7, juhlivat-2)
 cop(esikoisteos-7, on-4)
 punct(esikoisteos-7, .-8)
-name(Donna-5, Tarttin-6)
+flat(Donna-5, Tarttin-6)
 nmod:poss(esikoisteos-7, Donna-5)
 ~~~
 

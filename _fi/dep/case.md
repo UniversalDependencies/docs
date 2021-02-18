@@ -3,6 +3,7 @@ layout: relation
 title:  'case'
 shortdef : 'case marking'
 tags: ['case']
+udver: '2'
 ---
 
 The dependency type `case` is used for the adposition in pre- and

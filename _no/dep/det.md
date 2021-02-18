@@ -2,6 +2,7 @@
 layout: relation
 title: 'det'
 shortdef: 'determiner'
+udver: '2'
 ---
 
 The relation determiner (`det`) holds between a nominal head and its determiner. Most commonly, a word of POS DET will have the relation `det` and vice versa. 

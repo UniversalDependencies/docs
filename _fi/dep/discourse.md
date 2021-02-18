@@ -2,6 +2,7 @@
 layout: relation
 title:  'discourse'
 shortdef : 'discourse element'
+udver: '2'
 ---
 
 *Discourse elements* are interjections, exclamations or emoticons. They are attached to the main verb or predicative of the
@@ -21,12 +22,12 @@ punct(tule-3, !-5)
 Hmm ... Mitähän tuohon sanoisi ? \n Umm ... What to_that to_say ?
 discourse(sanoisi-5, Hmm-1)
 punct(Hmm-1, ...-2)
-dobj(sanoisi-5, Mitähän-3)
+obj(sanoisi-5, Mitähän-3)
 nmod(sanoisi-5, tuohon-4)
 punct(sanoisi-5, ?-6)
 ~~~
 
-~~~ sdparse 
+~~~ sdparse
 Iguazu on Argentiinassa :]  \n Iguazu is in Argentina :]
 discourse(on-2, :]-4)
 ~~~
