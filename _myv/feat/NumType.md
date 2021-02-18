@@ -35,7 +35,7 @@ This is subtype of adverb.
 
 * [myv] _весть, кавксть, колмоксть, котоксть_ "_once, twice, thrice, six times_"
 
-### <a name="Set">`Set`</a>: set numeral or corresponding interrogative / relative / indefinite  word
+### <a name="Sets">`Sets`</a>: set numeral or corresponding interrogative / relative / indefinite  word
 
 This is a subtype of number in Erzya, and it is a regular inflection of virtually any whole number. It is used for counting pairs, plural nouns, and types.
 
