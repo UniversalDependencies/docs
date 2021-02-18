@@ -23,5 +23,8 @@ Note that there is no `No` value. If the word is not reflexive, the
 `Reflex` feature will just not be mentioned in the `FEAT`
 column. (Which means that empty value has the `No` meaning.)
 
+#### Examples
+
+* [myv]_Ацирьгадоманть эйстэ сон мик сускизе <b>эсь</b> турванзо ...&nbsp;_ “Out of rage he even bit <b>his</b> [own] lip.”
 
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
