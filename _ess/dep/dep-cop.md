@@ -1,7 +1,7 @@
 ---
 layout: relation
 title:  'dep:cop'
-shortdef : 'derivational copula dependency'
+shortdef : 'derivational copular dependency'
 udver: '2'
 ---
 
