@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'advmod:deg'
-shortdef: 'advmod with locative modality'
+shortdef: 'advmod with degree modality'
 udver: '2'
 ---
 
