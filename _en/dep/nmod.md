@@ -36,12 +36,12 @@ det(toys, the)
 The `nmod` relation holds between the noun/predicate modified by the
 prepositional complement and the noun introduced by the preposition.
 
-- for 's genitives:
+- for 's genitives, use [nmod:poss]():
 
 ~~~ sdparse
 the Chair 's office
 det(Chair-2, the-1)
-nmod(office-4, Chair-2)
+nmod:poss(office-4, Chair-2)
 case(Chair-2, 's-3)
 ~~~
 
