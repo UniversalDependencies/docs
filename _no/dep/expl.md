@@ -2,6 +2,7 @@
 layout: relation
 title: 'expl'
 shortdef: 'expletive'
+udver: '2'
 ---
 
 This relation captures expletive nominals. These are nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate. The main predicate of the clause (the verb or predicate adjective or noun) is the governor. 

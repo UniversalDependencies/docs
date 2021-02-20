@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Inf">Inf</a></td>
   <td><a href="#Part">Part</a></td>
   <td><a href="#PartRes">PartRes</a></td>
+  <td><a href="#Sup">Sup</a></td>  
 </tr>
 </table>
 
@@ -38,6 +39,16 @@ and it appears as the argument of modal and other verbs.
 #### Examples
 
 - _велѣно <b>сбирать</b> пошлины_ &nbsp;“it was ordered to collect the fee”
+
+
+### <a name="Sup">`Sup`</a>: supine
+
+Supine is a rare verb form that is used instead of infinitive as the argument of
+the motion verbs.
+
+#### Examples
+
+- _кѹрѧнꙑ съ половьци <b>идоша<b> на пльсковъ <b>прогонитъ</b> всѣволода_ &nbsp;“Kursk people and Cumans went to Pskov to drive Vsevolod away”
 
 
 ### <a name="Part">`Part`</a>: participle

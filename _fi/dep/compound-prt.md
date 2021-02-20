@@ -2,6 +2,7 @@
 layout: relation
 title:  'compound:prt'
 shortdef : 'phrasal particle'
+udver: '2'
 ---
 
 *Phrasal particles* (`compound:prt`) are used in connection with *phrasal verbs*, (partikkeliverbi, "particle verb" in Finnish grammar)  where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.
@@ -37,8 +38,8 @@ The following verb expressions are considered phrasal verbs. Note that this list
 * _astua voimaan_ "become valid"
 * _hyökätä kimppuun_ "attack"
 * _jäädä jälkeen_ "be left behind"
-* _jäädä kiinni_ "be caught" (not in the sense _be stuck into something_) 
-* _jäädä käteen_ "be left in one's hand", "one is left with something" (figurative reading only.) 
+* _jäädä kiinni_ "be caught" (not in the sense _be stuck into something_)
+* _jäädä käteen_ "be left in one's hand", "one is left with something" (figurative reading only.)
 * _jäädä väliin_ "be passed" (In the sense _I'll pass._)
 * _kiriä kiinni_ "close the distance"
 * _kuroa kiinni_ "close the distance"

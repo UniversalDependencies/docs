@@ -2,6 +2,7 @@
 layout: relation
 title: 'advcl'
 shortdef: 'adverbial clause modifier'
+udver: '2'
 ---
 
 An adverbial clause modifier is a clause which modifies a verb or

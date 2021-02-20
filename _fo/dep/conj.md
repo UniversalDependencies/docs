@@ -2,6 +2,7 @@
 layout: relation
 title: 'conj'
 shortdef: 'conjunct'
+udver: '2'
 ---
 
 The conjunct relation holds between coordinated elements. We treat
@@ -9,7 +10,7 @@ coordination asymmetrically: The head of the relation is the first
 conjunct and other conjuncts depend on it via the `conj` relation.
 
 ~~~ sdparse
-ROOT Kappingin byrjaði í Napoli og endaði í Brescia . 
+ROOT Kappingin byrjaði í Napoli og endaði í Brescia .
 conj(byrjaði, endaði)
 cc(byrjaði, og)
 nsubj(byrjaði, Kappingin)

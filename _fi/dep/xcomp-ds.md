@@ -2,6 +2,7 @@
 layout: relation
 title:  'xcomp:ds'
 shortdef : 'clausal complement with different subject'
+udver: '2'
 ---
 
 The dependency type `xcomp:ds`, which stands for *clausal

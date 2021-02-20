@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Des">Des</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Irr">Irr</a></td>
   <td><a href="#Jus">Jus</a></td>
   <td><a href="#Nec">Nec</a></td>
   <td><a href="#Opt">Opt</a></td>
@@ -26,7 +27,7 @@ udver: '2'
 Mood is a feature that expresses modality and subclassifies finite
 verb forms.
 
-### <a name="Ind">`Ind`</a>: indicative
+### <a name="Ind">`Ind`</a>: indicative or realis
 
 The indicative can be considered the default mood. A verb in
 indicative merely states that something happens, has happened or will
@@ -143,12 +144,12 @@ In Sanskrit it may express possibility (cf. the potential mood in other language
 
 ### <a name="Des">`Des`</a>: desiderative
 
-The desiderative mood corresponds to the modal verb "want to": "He
-<b>wants to come</b>." Used e.g. in Turkish.
+The desiderative mood corresponds to the modal verb “want to”: “He
+<b>wants to come</b>.” Used e.g. in Japanese or Turkish.
 
 #### Examples
 
-* [ja] <b>食べたい</b> / _<b>tabetai</b>_ "want to eat"
+* [ja] <b>食べたい</b> / _<b>tabetai</b>_ “want to eat”
 
 ### <a name="Nec">`Nec`</a>: necessitative
 
@@ -157,8 +158,19 @@ have to": "He <b>must</b><b> come</b>."
 
 #### Examples
 
-* [tr] *eve <b>gitmeli</b>* 'she should go home'
-* [tr] *eve <b>gitmeliydi</b>* 'she should have gone home'
+* [tr] _eve <b>gitmeli</b>_ “she should go home”
+* [tr] _eve <b>gitmeliydi</b>_ “she should have gone home”
+
+### <a name="Irr">`Irr`</a>: irrealis
+
+The irrealis mood denotes an action that is not known to have happened. As such, it is a roof term
+for a group of more specific moods such as conditional, potential, or desiderative. Some languages
+do not distinguish these finer shades of meaning but they do distinguish realis (which we tag with
+the same feature as indicative, `Ind`) and irrealis.
+
+#### Examples
+
+* [quc] _Xaq <b>ta</b> ne kimbʼe iwukʼ._ “Let me be with you.” (“Que fuera yo con ustedes.”)
 
 ### <a name="Adm">`Adm`</a>: admirative
 
@@ -167,6 +179,6 @@ and in Caddo (Native American from Oklahoma).
 
 #### Examples
 
-* [sq] _Ti <b>fliske</b> shqip!_ "You (surprisingly) speak Albanian!"
+* [sq] _Ti <b>fliske</b> shqip!_ “You (surprisingly) speak Albanian!”
 
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

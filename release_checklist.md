@@ -347,13 +347,18 @@ you always have the latest update of the tools repository.
     $ python validate.py -h
 
 Note that you need Python 3 to run the validator, and you need a third-party
-Python module called `regex` installed via pip. See also the
+Python module called `regex` installed via pip, so when needed try this before
+invoking the validator:
+
+    $ sudo apt-get install python3-pip; python3 -m pip install regex
+
+See also the
 [README file](https://github.com/UniversalDependencies/tools/blob/master/README.md)
 in the tools repository.
 
 In general, you validate the data like so:
 
-    python validate.py --lang=xx --max-err=0 [file.conllu]
+    $ python validate.py --lang=xx --max-err=0 [file.conllu]
 
 for example for Finnish:
 

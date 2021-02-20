@@ -6,10 +6,14 @@ udver: '2'
 
 # UD Events
 
+## 2021
+
+  * [IWPT 2021 shared task on enhanced UD parsing](http://universaldependencies.org/iwpt21/)
+
 ## 2020
 
   * [4th Workshop on Universal Dependencies (UDW)](http://universaldependencies.org/udw20/)
-  * [IWPT shared task on enhanced UD parsing](http://universaldependencies.org/iwpt20/)
+  * [IWPT 2020 shared task on enhanced UD parsing](http://universaldependencies.org/iwpt20/)
 
 ## 2019
 

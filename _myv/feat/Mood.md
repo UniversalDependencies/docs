@@ -71,4 +71,12 @@ The optative is used for three persons in two numbers. It expresses a concessive
 
 * [myv] _ков <b>илязат</b> моле, сайть свал конёв мартот_ "where ever <b>you don't</b> go, always take paper with you (where ever you go,...)"
 
+### <a name="Prec">`Prec`</a>: precutive
+
+The precutive mood is used to express requests instead of commands.
+
+#### Examples
+
+* [myv] _<b>сака</b> тей_ "<b>Could you come</b> here"
+
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

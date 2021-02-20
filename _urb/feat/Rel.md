@@ -9,13 +9,14 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Cont">Cont</a></td>
+  <td><a href="#NCont">NCont</a></td>
   
   
 </tr>
 </table>
 
 `Rel` is a morpheme that combines with lexical roots and postpositions. They signalize the 
-adjacency or contiguity (Rel=Cont) and non-adjacency or non-contiguity of head and depenent, 
+adjacency or contiguity (Rel=Cont) and non-adjacency or non-contiguity (Rel=NCont) of head and depenent, 
 e.g., possessor-noun, object-postposition.
 
 ### <a name="Cont">`Cont`</a>: contiguous
@@ -25,6 +26,18 @@ Contiguity is more often associated with
 #### Examples
 
 * _<b>ne r-ɛhɛ</b>&nbsp;_ “about you (preceding element)"
+* _<b>ne r-ɛhɛ</b>&nbsp;_ “about you (preceding element)"
+
+
+
+
+### <a name="NCont">`NCont`</a>: non-contiguous
+
+Non-contiguity is more often associated with
+
+#### Examples
+
+* _<b>ɛhɛ</b>&nbsp;_ “about”
 * _<b>ɛhɛ</b>&nbsp;_ “about”
 
 

@@ -2,6 +2,7 @@
 layout: relation
 title:  'cc'
 shortdef : 'coordinating conjunction'
+udver: '2'
 ---
 
 *Coordinating conjunctions* are marked as dependents of the first
@@ -11,8 +12,8 @@ coordinated element, and the dependency type used is `cc`.
 ~~~ sdparse
 kirjat , kynät ja viivottimet \n books , pencils and rulers
 conj(kirjat-1, kynät-3)
-punct(kirjat-1, ,-2)
-cc(kirjat-1, ja-4)
+punct(kynät-3, ,-2)
+cc(viivottimet-5, ja-4)
 conj(kirjat-1, viivottimet-5)
 ~~~
 
@@ -29,17 +30,17 @@ as the head and others as direct dependents of this word.
 ~~~ sdparse
 toisaalta kynät , toisaalta viivottimet \n on_the_one_hand pencils , on_the_other_hand rulers
 cc:preconj(kynät-2, toisaalta-1)
-punct(kynät-2, ,-3)
-cc(kynät-2, toisaalta-4)
+punct(viivottimet-5, ,-3)
+cc(viivottimet-5, toisaalta-4)
 conj(kynät-2, viivottimet-5)
 ~~~
 
 <!-- fname:cc3.pdf -->
 ~~~ sdparse
 kynät ja / tai viivottimet \n pencils and / or rulers
-cc(kynät-1, ja-2)
-mwe(ja-2, /-3)
-mwe(ja-2, tai-4)
+cc(viivottimet-5, ja-2)
+fixed(ja-2, /-3)
+fixed(ja-2, tai-4)
 conj(kynät-1, viivottimet-5)
 ~~~
 

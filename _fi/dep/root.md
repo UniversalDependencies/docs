@@ -2,6 +2,7 @@
 layout: relation
 title:  'root'
 shortdef : 'root'
+udver: '2'
 ---
 
 The `root` grammatical relation points to the root of the sentence. A

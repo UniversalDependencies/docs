@@ -2,6 +2,7 @@
 layout: relation
 title: 'acl'
 shortdef: 'clausal modifier of noun (adjectival clause)'
+udver: '2'
 ---
 
 `acl` stands for finite and non-finite clauses that modify a nominal.

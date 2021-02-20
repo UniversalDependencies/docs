@@ -2,6 +2,7 @@
 layout: relation
 title: 'advmod'
 shortdef: 'adverbial modifier'
+udver: '2'
 ---
 
 An adverbial modifier of a word is a (non-clausal) [adverb](u-pos/ADV)

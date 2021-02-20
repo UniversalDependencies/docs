@@ -1,8 +1,8 @@
 ---
 layout: relation
 title: 'flat'
-redirect_from: "pt/dep/name.html"
-shortdef: 'name'
+shortdef: 'flat nominal structure'
+udver: '2'
 ---
 
 `flat` is one of the three relations for compounding in UD (together
@@ -23,8 +23,8 @@ label.
 
 ~~~ sdparse
 Dom Pedro I
-name(Dom-1, I-3)
-name(Dom-1, Pedro-2)
+flat(Dom-1, I-3)
+flat(Dom-1, Pedro-2)
 ~~~
 
 For organization names with clear syntactic modification structure, the dependencies should reflect the syntactic modification structure using regular syntactic relation, as in:.
@@ -45,8 +45,8 @@ det(Estados, os)
 ~~~
 
 ~~~ sdparse
-Miguel de Cervantes 
-name(Miguel, Cervantes)
+Miguel de Cervantes
+flat(Miguel, Cervantes)
 case(Cervantes, de)
 ~~~
 
@@ -68,6 +68,6 @@ In the case of proper entities named after people, e.g. _Fundação Getúlio Var
 ~~~ sdparse
 Fundação Getúlio Vargas
 compound(Fundação, Getúlio)
-name(Getúlio, Vargas)
+flat(Getúlio, Vargas)
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:27 CET 2020 -->

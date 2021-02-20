@@ -2,6 +2,7 @@
 layout: relation
 title: 'mark'
 shortdef: 'marker'
+udver: '2'
 ---
 
 A marker is the word introducing a subordinate clause and the marker is a dependent of the subordinate clause head. In Norwegian it is used for both finite and non-finite subordinate clauses.

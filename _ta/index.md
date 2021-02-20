@@ -60,6 +60,7 @@ Tamil uses 4 relation subtypes:
 
 ## Treebanks
 
-There is only one Tamil UD treebank at present:
+There are two Tamil UD treebanks at present:
 
   * [Tamil-TTB](../treebanks/ta_ttb/index.html)
+  * [Tamil-MWTT](../treebanks/ta_mwtt/index.html)

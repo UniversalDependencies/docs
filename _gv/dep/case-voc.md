@@ -21,6 +21,6 @@ vocative(bannee, Voirrey)
 But the particle is omitted in examples like these:
 
 ~~~ sdparse
-Ettyl-jee ersooyl, ushagyn! \n Fly away, birds!
+Ettyl-jee ersooyl , ushagyn ! \n Fly away , birds !
 vocative(Ettyl-jee, ushagyn)
 ~~~

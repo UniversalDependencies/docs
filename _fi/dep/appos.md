@@ -2,13 +2,14 @@
 layout: relation
 title:  'appos'
 shortdef : 'apposition'
+udver: '2'
 ---
 
 An *apposition* (`appos`) is a grammaticalized, paradigmatic addition
 (usually a noun phrase), which has the same referent as its head word,
-and the same grammatical function 
-(see ISK [§1059](http://scripta.kotus.fi/visk/sisallys.php?p=1059)). 
-Also structures with a _supporting noun_ 
+and the same grammatical function
+(see ISK [§1059](http://scripta.kotus.fi/visk/sisallys.php?p=1059)).
+Also structures with a _supporting noun_
 (see ISK [§567](http://scripta.kotus.fi/visk/sisallys.php?p=567)) are
 considered appositional. Appositional structures and the closely
 related _appellation modifiers_ are discussed in detail in

@@ -21,7 +21,7 @@ udver: '2'
   <td><a href="#Car">Car</a></td>
   <td><a href="#Cns">Cns</a></td>
   <td><a href="#Com">Com</a></td>
-<!--  <td><a href="#Cmpr">Cmpr</a> comparative</td>-->
+  <td><a href="#Cmp">Cmp</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Egr">Egr</a></td>
   <td><a href="#Ela">Ela</a></td>
@@ -29,6 +29,7 @@ udver: '2'
   <td><a href="#Ill">Ill</a></td>
   <td><a href="#Ine">Ine</a></td>
   <td><a href="#Ins">Ins</a></td>
+  <td><a href="#Loc">Loc</a></td>
   <td><a href="#Nom">Nom</a></td>
   <td><a href="#Prl">Prl</a></td>
   <td><a href="#Ter">Ter</a></td>
@@ -39,32 +40,8 @@ udver: '2'
 
 Case is an inflectional feature for [nouns](u-pos/NOUN), [pronouns](u-pos/PRON), [adjectives](u-pos/ADJ)
 and [numerals](u-pos/NUM) in Komi-Zyrian.<br/>
-Komi-Zyrian has 25 inflectional cases:<br/>
-accusative<br/>
-ablative<br/>
-approximative<br/>
-approximative egressive<br/>
-approximative elative<br/>
-approximative illative<br/>
-approximative inessive<br/>
-approximative prolative<br/>
-approximative terminative<br/>
-approximative translative<br/>
-caritive<br/>
-consecultative<br/>
-comitative<br/>
-comparative<br/>
-dative<br/>
-egressive<br/>
-elative<br/>
-genitive<br/>
-illative<br/>
-inessive<br/>
-instrumental<br/>
-nominative<br/>
-prolative<br/>
-translative<br/>
-terminative<br/>
+Komi-Zyrian has 25 inflectional cases.
+
 
 ### <a name="Acc">`Acc`</a>: accusative
 
@@ -156,6 +133,14 @@ The caritive case corresponds to the English preposition _without_.
 
 * [kpv] _<b>сьӧмтӧг</b>_ "without money"
 
+### <a name="Cmp">`Cmp`</a>: comparative
+
+The comparative case corresponds to the English _than_ as a marker of the standard of comparison.
+
+#### Examples
+
+* [kpv] _<b>бӧрся</b>_ "after"
+
 ### <a name="Cns">`Cns`</a>: consecultative
 
 The consecultative case expresses acquisition, corresponding to the English preposition _after_.
@@ -232,6 +217,15 @@ The instrumental case is affixed to the noun defining the entity used as an inst
 #### Examples
 
 * [kpv] _<b>киӧн</b> босьтны_ "take with a hand"
+* [kpv] _<b>юрӧн</b> ыджыдджык_ "taller by a head"
+
+### <a name="Loc">`Loc`</a>: prepositional case
+
+The Russian prepositional case is used in Russian speech, and is accompanied by a Lang=Rus in Misc.
+
+#### Examples
+
+* [kpv] _в <b>шоке</b>_ "In <b>shock</b>"
 
 ### <a name="Nom">`Nom`</a>: nominative / direct
 

@@ -28,14 +28,4 @@ nsubj(réitigh, iad)
 cop(réitigh, Is)
 ~~~
 
-The head of an infinitival phrase can also be `nsubj` in a copula construction -- in Irish, the infinitive verb form is a verbal noun.
-
-
-
-_Ar mhaith leat teach a <b>cheannach</b> ?_  'Would you like to <b>buy</b> a house?'
-
-~~~ sdparse
-Ar mhaith leat teach a cheannach ? \n Would_be good with_you house to buy?
-nsubj(mhaith, cheannach)
-~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:32 CET 2020 -->
