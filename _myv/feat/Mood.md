@@ -79,4 +79,12 @@ The precutive mood is used to express requests instead of commands.
 
 * [myv] _<b>сака</b> тей_ "<b>Could you come</b> here"
 
+### <a name="Proh">`Proh`</a>: prohibitive
+
+The prohibitive mood is used to express prohibiting of an action vs the contrastive negation of an imperative.
+
+#### Examples
+
+* [myv] _<b>Илядо</b> кавтолдо те сонсь Елеська._ "<b>don't</b> doubt it, that is Yeleska himself."
+
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

@@ -34,6 +34,14 @@ Produces nomen agensis (non-temporal).
 
 * [myv] _мизолдыця_ "one that is smiling"
 
+### <a name="OkshnOms">`OkshnOms`</a>: derivation with suffix -ОкшнОмс
+
+Produces deverbal verbs indicating discontinuous past.
+
+#### Examples
+
+* [myv] _сакшкомс_ "to have arrived <and subsequentially left>"
+
 ### <a name="Ozj">`Ozj`</a>: derivation with suffix -Озь
 
 Produces converb.
