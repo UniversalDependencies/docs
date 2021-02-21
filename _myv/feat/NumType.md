@@ -5,6 +5,14 @@ shortdef: 'numeral type'
 udver: '2'
 ---
 
+### <a name="Appr">`Appr`</a>: approximal number or corresponding interrogative / relative / indefinite / demonstrative word
+
+This is a subtype of number
+
+#### Examples
+
+* [myv] _зярошка, кавтошка, кавто-колмо_ "_about how manyd, two or so, two or three_"
+
 ### <a name="Card">`Card`</a>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
 #### Examples
@@ -18,6 +26,12 @@ udver: '2'
 * [myv] _вейте-вейте, кавтонь-кавтонь, колмонь-колмонь_ "_one a piece; two a piece, two-by-by; three a piece, three-by-three_"
 * [myv] _тонавтыцясь явшинзе умартнень кавтонь-кавтонь_ "_the teacher passsed out the apples two a piece_"
 * [myv] _тонавтыцясь явшинзе умартнень кавтонь-кавто_ "_the teacher passsed out the apples two a piece <until there were no more>_"
+
+### <a name="Frac">`Frac`</a>: fractional number or corresponding interrogative / relative / indefinite / demonstrative word
+
+#### Examples
+
+* [myv] _пель_ "_half_"
 
 ### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
