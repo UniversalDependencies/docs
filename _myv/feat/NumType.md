@@ -41,6 +41,14 @@ This is a subtype of adjective or (in some languages) of adverb.
 
 * [myv] _васенце, омбоце, колмоце_ "_first, second, third_"
 
+### <a name="OrdSets">`OrdSets`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
+
+This is a subtype of numerals distinguished from `Sets`, which are cardinal.
+
+#### Examples
+
+* [myv] _омбонст, колмоценст_ "_second set, third set_"
+
 ### <a name="Mult">`Mult`</a>: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
 
 This is subtype of adverb.

@@ -66,6 +66,14 @@ Used with proper nouns and kinship terms ending in vowels.
 
 * [myv] _ялгай_ "friend"
 
+### <a name="Shka">`Shka`</a>: derivation with suffix -шка
+
+Used to indicat approximate or near equivalent.
+
+#### Examples
+
+* [myv] _сатышка_ "enough"
+
 ### <a name="VocKaj">`VocKaj`</a>: vocative derivation with suffix -кай
 
 Used with common and proper nouns and kinship terms ending in vowels and consonants.
