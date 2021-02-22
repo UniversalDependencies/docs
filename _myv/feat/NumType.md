@@ -36,6 +36,14 @@ This is a subtype of number with person reference
 * [myv] _тонавтыцясь явшинзе умартнень кавтонь-кавтонь_ "_the teacher passsed out the apples two a piece_"
 * [myv] _тонавтыцясь явшинзе умартнень кавтонь-кавто_ "_the teacher passsed out the apples two a piece <until there were no more>_"
 
+### <a name="Frac">`Frac`</a>: fraction
+
+This is a subtype of number in Erzya with a limitation to `half`.
+
+#### Examples
+
+* [myv] _пель_ "_half_"
+
 ### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
 This is a subtype of adjective or (in some languages) of adverb.
