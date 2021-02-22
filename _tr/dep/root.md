@@ -19,3 +19,8 @@ root(ROOT, ağlıyor)
 ROOT Aslı yemek yemek istiyor . \n Aslı wants to eat .
 root(ROOT, istiyor)
 ~~~
+
+~~~ sdparse
+ROOT Ali'nin kitabı  \n Ali's book
+root(ROOT, kitap)
+~~~
