@@ -11,7 +11,7 @@ This is a subtype of number
 
 #### Examples
 
-* [mdf] _мзярошка, кафтошка, кафт-колма_ "_about how many, two or so, two or three_"
+* [mdf] _мзярошка, кафтошка, кафта-колма_ "_about how many, two or so, two or three_"
 
 ### <a name="Card">`Card`</a>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
@@ -46,7 +46,7 @@ This is subtype of adverb.
 
 #### Examples
 
-* [mdf] _весть, кавксть, колмоксть, котоксть_ "_once, twice, thrice, six times_"
+* [mdf] _весть, кафксть, колмоксть, котоксть_ "_once, twice, thrice, six times_"
 
 ### <a name="Sets">`Sets`</a>: set numeral or corresponding interrogative / relative / indefinite  word
 
