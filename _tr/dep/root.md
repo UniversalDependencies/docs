@@ -11,11 +11,11 @@ The ROOT node is indexed with "0", since the indexation of real words in the sen
 <!-- Interlanguage links updated Čt lis 12 09:43:39 CET 2020 -->
 
 ~~~ sdparse
-ROOT Neslihan ağlıyor . \n Neslihan is crying.
+ROOT Neslihan ağlıyor . \n Neslihan is crying .
 root(ROOT, ağlıyor)
 ~~~
 
 ~~~ sdparse
-ROOT Aslı yemek yemek istiyor . \n Aslı wants to eat.
+ROOT Aslı yemek yemek istiyor . \n Aslı wants to eat .
 root(ROOT, istiyor)
 ~~~
