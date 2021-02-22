@@ -96,6 +96,14 @@ Produces indefinite pronouns, adverbs.
 * [myv] _мезеяк_ "anything"
 * [myv] _косояк_ "anywhere"
 
+### <a name="VSj">`VSj`</a>: derivation with suffix -сь
+
+Produces participle-like form from verb.
+
+#### Examples
+
+* [myv] _<b>синдсь</b> политикадонть_ "about battered policy"
+
 ### <a name="VerbYcja">`VerbYcja`</a>: derivation with suffix -ыця/-иця
 
 Used with verbs for participle type including a deictic element `ця/се`
