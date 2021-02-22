@@ -51,13 +51,32 @@ Produces deverbal verbs indicating discontinuous past.
 
 * [myv] _сакшкомс_ "to have arrived <and subsequentially left>"
 
-### <a name="Ovoms">`Ovoms`</a>: derivation with suffix -Овомс
+### <a name="Omka">`Omka`</a>: derivation with suffix -Омка
+
+Produces deverbal nouns that generally indicate an instrument.
+
+#### Examples
+
+* [myv] _а тескеть карксозонзо поволезь <b>ванстомкатне</b>_ \n "and here are the <b>amulets</b> hung on his belt"
+
+### <a name="OvOms">`OvOms`</a>: derivation with suffix -ОвОмс
 
 Produces converb.
 
 #### Examples
 
 * [myv] _содавомс_ "to get recognized"
+
+### <a name="Ovt">`Ovt`</a>: derivation with suffix -Овт/-Овть
+
+Produces participle-like adnominal modifiers. In grammars, it is requires a genitive modifiers,
+but in literature it may also be used with a genitive modifier in a similar function to `Ozj`.
+
+#### Examples
+
+* [myv] _валськень правт лов_ \n "snow that has fallen in the morning"
+* [myv] _ойсэ вадневть картуз_ \n "a hat that is smeared with grease"
+
 
 ### <a name="Ozj">`Ozj`</a>: derivation with suffix -Озь
 
@@ -66,6 +85,16 @@ Produces converb.
 #### Examples
 
 * [myv] _ютазь_ "having passed"
+
+### <a name="PronGak">`PronGak`</a>: derivation with suffix -гак/-как/-ак
+
+Produces indefinite pronouns, adverbs.
+
+#### Examples
+
+* [myv] _кияк_ "anybody"
+* [myv] _мезеяк_ "anything"
+* [myv] _косояк_ "anywhere"
 
 ### <a name="VerbYcja">`VerbYcja`</a>: derivation with suffix -ыця/-иця
 
