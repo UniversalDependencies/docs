@@ -34,13 +34,14 @@ Produces indefinite genitive-like modifiers from adverbs
 
 * [myv] _алкуксонь_ "real"
 
-### <a name="NomAg">`NomAg`</a>: derivation with suffix -ыця/-иця
+### <a name="NomAg">`NomAg`</a>: derivation with suffix -ы/-и
 
 Produces nomen agensis (non-temporal).
 
 #### Examples
 
-* [myv] _мизолдыця_ "one that is smiling"
+* [myv] _стада ваны_ "herder"
+* [myv] _<b>эри</b> ялга_ "live in friend"
 
 ### <a name="OkshnOms">`OkshnOms`</a>: derivation with suffix -ОкшнОмс
 
@@ -50,6 +51,14 @@ Produces deverbal verbs indicating discontinuous past.
 
 * [myv] _сакшкомс_ "to have arrived <and subsequentially left>"
 
+### <a name="Ovoms">`Ovoms`</a>: derivation with suffix -Овомс
+
+Produces converb.
+
+#### Examples
+
+* [myv] _содавомс_ "to get recognized"
+
 ### <a name="Ozj">`Ozj`</a>: derivation with suffix -Озь
 
 Produces converb.
@@ -57,6 +66,32 @@ Produces converb.
 #### Examples
 
 * [myv] _ютазь_ "having passed"
+
+### <a name="VerbYcja">`VerbYcja`</a>: derivation with suffix -ыця/-иця
+
+Used with verbs for participle type including a deictic element `ця/се`
+
+#### Examples
+
+* [myv] _сэредиця_ "someone who is ill"
+* [myv] _<b>эриця</b> ялга_ "<b>living</b> friend, friend who is alive"
+
+### <a name="VerbYks">`VerbYks`</a>: derivation with suffix -ыкс/-икс
+
+Used with verbs for participle type indicating potential 
+
+#### Examples
+
+* [myv] _кадовикс_ "tending to be left"
+
+### <a name="VGen">`VGen`</a>: verbal genitive
+
+Used with verbs to produce adnominal attributes without temporal dynamism.
+
+#### Examples
+
+* [myv] _апак учонь_ "unexpected"
+* [myv] _салтонь куяр_ "salt pickle"
 
 ### <a name="Voc">`Voc`</a>: vocative derivation with suffix -й
 
