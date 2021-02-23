@@ -11,7 +11,7 @@ Language-specific feature identifying clitics attached to the word.
 
 Moksha has four enclitic particles with partial geographical complementary distribution, and all of them are used to express additive focus.
 
-### <a name="AddGa">`AddGa`</a>: Additive clitic -га/-ге/-ка/-ке
+### <a name="AddGA">`AddGA`</a>: Additive clitic -га/-ге/-ка/-ке
 
 Expresses additive adverbal _too, even_.
 
@@ -27,7 +27,7 @@ Expresses additive adverbal _too, even_.
 
 * [mdf] _И Маринкась сргозсь рана<b>киге</b>._ "And Marinka woke up <b>quite</b> early"
 
-### <a name="AddNga">`AddNga`</a>: Additive clitic -Онга
+### <a name="AddNgA">`AddNgA`</a>: Additive clitic -Онга
 
 Expresses additive adverbal _too, even_.
 
