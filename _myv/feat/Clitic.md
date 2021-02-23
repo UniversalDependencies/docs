@@ -9,7 +9,7 @@ udver: '2'
 
 Language-specific feature identifying clitics attached to the word.
 
-Erzya has a of particle clitics used to express additive focus.
+Erzya has one particle clitic used to express additive focus.
 
 ### <a name="Add">`Add`</a>: Additive clitic -как/гак/як
 
