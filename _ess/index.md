@@ -18,31 +18,22 @@ udver: '2'
 
 * [ADJ](), [ADP](), [AUX](), [INTJ](), [PROPN](), [SCONJ](), and [SYM]() do not occur in the corpus
 * [NOUN](), [VERB](), [PART]()
-* [ADV](), [NUM](), [PRON]()
+* [ADV](), [NUM](), [PRON](), [DET]()
 * [X]()
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
-*
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
+* Unpossessed nouns inflect for [Case]() and [Number]().
+* Possessed nouns also inflect for [Number]() and [Person]() to encode the possessor's number and person information.
+* Verbs inflect for [Mood](), [Number](), [Person]() (to agree with subjects and objects), [Subcat]()
 
 ## Syntax
 
-*
+* Yupik does not have a fixed word order.
+* Subjects
+* Objects
+* There are no known auxiliaries or copulas. However, some derivational suffixes seem to act like as such.
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
