@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'advmod:neg
+title: 'advmod:neg'
 shortdef: 'adverbial polarity (negative) modifier'
 udver: '2'
 ---
