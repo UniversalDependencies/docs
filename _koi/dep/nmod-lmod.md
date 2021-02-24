@@ -8,8 +8,8 @@ udver: '2'
 The _nmod:lmod_ relation is used for obliques with locative modality.
 
 ~~~ sdparse
-Вадорӧ туйсӧ дед мӧдіс вуджны шойччалӧмъясӧн...\n The old man set off crossing the road to the beach resting on the way...
-nmod:lmod(туйсӧ, Вадорӧ)
+Ми вуджим Гырка логсӧ, сибӧтчим дорись керкуокыс дынӧ.\n We crossed Gyrka gulley, and ran into the  little house on the edge.
+nmod:lmod(керкуокыс, дорись)
 nsubj(мӧдіс, дед)
 xcomp(мӧдіс, вуджны)
 obj(вуджны, туйсӧ)

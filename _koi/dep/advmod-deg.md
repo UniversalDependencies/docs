@@ -8,8 +8,8 @@ udver: '2'
 The _advmod:deg_ relation is used for adverbal modifiers of degree.
 
 ~~~ sdparse
-Кӧть луныс вӧлі зэв мича. \n Even though the day had been quite beautiful.
-advmod:deg(мича, зэв)
+..., дзик ас кежас,... \n ..., in their very midst, ...
+advmod:deg(ас, дзик)
 
 ~~~
 
