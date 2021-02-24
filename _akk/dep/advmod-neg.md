@@ -4,6 +4,7 @@ title: 'advmod:neg
 shortdef: 'adverbial polarity (negative) modifier'
 udver: '2'
 ---
+
 Used for adverbials being modified by the negative particle *lā*.
 
 ~~~ conllu
