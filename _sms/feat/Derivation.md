@@ -10,6 +10,14 @@ udver: '2'
 Language-specific feature identifying the form of derivation applied
 to a word.
 
+### <a name="Dimin">`Dimin`</a>: diminutive form
+
+Produces diminutive nouns 
+
+#### Examples
+
+* [sms] _vuõddjez_ "their small shoe laces"
+
 ### <a name="InchL">`InchL`</a>: inchoative-cessative verb derived in -škueʹtted
 
 Produces converbs indicating ongoing activity
