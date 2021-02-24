@@ -29,6 +29,7 @@ udver: '2'
   <td><a href="#Ill">Ill</a></td>
   <td><a href="#Ine">Ine</a></td>
   <td><a href="#Ins">Ins</a></td>
+  <td><a href="#Loc">Loc</a></td>
   <td><a href="#Nom">Nom</a></td>
   <td><a href="#Prl">Prl</a></td>
   <td><a href="#Ter">Ter</a></td>
@@ -217,6 +218,14 @@ The instrumental case is affixed to the noun defining the entity used as an inst
 
 * [kpv] _<b>киӧн</b> босьтны_ "take with a hand"
 * [kpv] _<b>юрӧн</b> ыджыдджык_ "taller by a head"
+
+### <a name="Loc">`Loc`</a>: prepositional case
+
+The Russian prepositional case is used in Russian speech, and is accompanied by a Lang=Rus in Misc.
+
+#### Examples
+
+* [kpv] _в <b>шоке</b>_ "In <b>shock</b>"
 
 ### <a name="Nom">`Nom`</a>: nominative / direct
 

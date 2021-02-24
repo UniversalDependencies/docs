@@ -14,8 +14,6 @@ udver: '2'
 
 Reflexive possessives indicate that the topic/subject of the clause is the possessor:
 
-- _Янлы ковмис вузавны <b>ас</b> машинасӧ.&nbsp;_ “Jan had to sell <b>his</b> [own] car.”
-- _Янлы ковмис вузавны машинасӧ.&nbsp;_ “Jan had to sell his [someone else's] car.”
 
 ### <a name="Yes">`Yes`</a>: it is possessive
 
@@ -24,5 +22,8 @@ Note that there is no `No` value. If the word is not reflexive, the
 column. (Which means that empty value has the `No` meaning.)
 
 #### Examples
+
+* [mdf] _Мзярда кулезе <b>эсь</b> фамилиянц, Тумкин тись аськолкс инголи.&nbsp;_ “When he heard <b>his</b> [own] surname, he stepped forward.”
+
 
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
