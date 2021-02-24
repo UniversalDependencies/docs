@@ -10,8 +10,8 @@ of a copular clause. The predicative is the head of the copular
 clause, and also the governor of the `nsubj:cop` dependency.
 
 ~~~ sdparse
-Мон директорсь, – пшкядсь сон пцтай весяласта,... \n I am the director, - he said almost happily,...
-nsubj:cop(Мон-1, директорсь-2)
+Kuna faltatinhi hãty kananeã. \n Nothing was missing in the other year.
+nsubj:cop(kananeã, faltatinhi)
 
 ~~~
 
