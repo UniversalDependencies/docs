@@ -2,7 +2,6 @@
 layout: relation
 title: 'dobj:cauhttps://github.com/UniversalDependencies/docs/tree/pages-source/_tr'
 shortdef: 'direct object of an intransitive causative verb'
-udver: '2'
 ---
 
 This is a subtype of [obj]().
