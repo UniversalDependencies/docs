@@ -2,6 +2,7 @@
 layout: relation
 title: 'flat:foreign'
 shortdef: 'foreign words'
+udver: '2'
 ---
 
 We use foreign to label sequences of foreign words.
