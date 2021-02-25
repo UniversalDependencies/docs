@@ -8,6 +8,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Conv">Conv</a></td>
+  <td><a href="#Fin">Fin</a></td>
   <td><a href="#Inf">Inf</a></td>
   <td><a href="#NomAg">NomAg</a></td>
   <td><a href="#Part">Part</a></td>
@@ -35,6 +36,15 @@ Perfective verbs form past converb, meaning “after having done”.
 #### Examples
 
 - _гуляйтігмоз_ “as if while partying”
+
+### <a name="Fin">`Fin`</a>: finite
+
+Finite verb occurs in the indicative and imperative.
+
+#### Examples
+
+- _юӧ_ &nbsp;“he/she/it drinks”
+- _сёрнитӧны_ &nbsp;“they talk”
 
 ### <a name="Inf">`Inf`</a>: infinitive
 

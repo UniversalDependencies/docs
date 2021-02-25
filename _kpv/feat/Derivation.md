@@ -20,6 +20,22 @@ Produces adnominal deverbal noun modifier / noun.
 * [kpv] _сёян_ "food"
 * [kpv] _чужан_ "birth"
 
+### <a name="Ana">`Ana`</a>: derivation with suffix -ана
+
+Produces adnominal deverbal adjective modifier / adverb.
+
+#### Examples
+
+* [kpv] _кутана_ "holding"
+
+### <a name="CompMod">`CompMod`</a>: derivation with suffix -кодь
+
+Produces meaning _like_ added to adjectival heads.
+
+#### Examples
+
+* [kpv] _паськыдкодь_ "rather extensive"
+
 ### <a name="Ig">`Ig`</a>: derivation with suffix -иг/-іг
 
 Produces converb.
@@ -27,6 +43,22 @@ Produces converb.
 #### Examples
 
 * [kpv] _вундігӧн_ "in cutting"
+
+### <a name="Igdyrji">`Igdyrji`</a>: derivation with suffix -игдырйи/-ігдырйи
+
+Produces converb.
+
+#### Examples
+
+* [kpv] _горзігдырйи_ "while shouting"
+
+### <a name="Igkost">`Igkost`</a>: derivation with suffix -игкост/-ігкост
+
+Produces converb.
+
+#### Examples
+
+* [kpv] _чӧвтігкостаныс_ "in between keeping silent"
 
 ### <a name="Igmoz">`Igmoz`</a>: derivation with suffix -игмоз/-ігмоз
 
@@ -70,6 +102,15 @@ Produces indefinite from interrogative.
 * [kpv] _кыдзкӧ_ "somehow"
 * [kpv] _кутшӧмкӧ_ "some kind of"
 
+### <a name="LocMod">`LocMod`</a>: derivation with suffix -са
+
+Produces meaning _in_ added to adjectival heads adnominal phrases, contrast Inessive case.
+Added to both singular and plural stems.
+
+#### Examples
+
+* [kpv] _карса олысьяс_ "urban dwellers"
+
 ### <a name="NomAg">`NomAg`</a>: derivation with suffix -ысь
 
 Produces nomen agensis (non-temporal).
@@ -77,6 +118,14 @@ Produces nomen agensis (non-temporal).
 #### Examples
 
 * [kpv] _сулалысь_ "one standing"
+
+### <a name="Oma">`Oma`</a>: derivation with suffix -ӧма
+
+Produces proprietive-like adjectival derivation of deverbal noun used in elliptic constructions.
+
+#### Examples
+
+* [kpv] _быдмӧма_ "having grown"
 
 ### <a name="Omon">`Omon`</a>: derivation with suffix -ӧмӧн
 
@@ -111,6 +160,14 @@ Produces indefinite from interrogative.
 * [kpv] _кодсюрӧ_ "somebody"
 * [kpv] _кыдзсюрӧ_ "somehow"
 * [kpv] _кутшӧмсюрӧ_ "some kind of"
+
+### <a name="TempMod">`TempMod`</a>: derivation with suffix -ся
+
+Produces adnominal modifiers (in the time of X).
+
+#### Examples
+
+* [kpv] _июль тӧлысся_ "from the month of June"
 
 ### <a name="VCar">`VCar`</a>: derivation with suffix -тӧг
 
