@@ -5,6 +5,7 @@ shortdef: 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "tr/dep/aux.html"
+udver: '2'
 ---
 
 Use of ``aux`` relation is incosistent across different Turkish  UD
