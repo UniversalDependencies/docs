@@ -2,6 +2,7 @@
 layout: relation
 title: 'iobj'
 shortdef: 'indirect object'
+udver: '2'
 ---
 
 We do not use the dependency label `iobj`.
