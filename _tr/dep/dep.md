@@ -11,6 +11,6 @@ We currently do not use the `dep` label.
 <!-- Interlanguage links updated Čt lis 12 09:43:23 CET 2020 -->
 
 ~~~ sdparse
-a. Oraya gitmiş olabilir. \n a. She/He could have gone there .
+a. Oraya gitmiş olabilir. \n a. S/he may have gone there .
 dep(a, gitmiş)
 ~~~
