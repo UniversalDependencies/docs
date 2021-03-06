@@ -5,8 +5,32 @@ shortdef: 'form of verb or deverbative'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Conv">Conv</a></td>
+  <td><a href="#Fin">Fin</a></td>
+  <td><a href="#Part">Part</a></td>
+  <td><a href="#Vnoun">Vnoun</a></td>
+</tr>
+</table>
+
 The feature `VerbForm` can be used for verbal or deverbal elements in matrix and embedded clauses. 
-As of now, Turkish treebanks make us of `Fin`, `Part`, `Conv`, and `Vnoun`. 
+As of now, Turkish treebanks make us of  `Conv`, `Fin`, `Part`, and `Vnoun`. 
+
+
+### <a name="Conv">`Conv`</a>: converb
+
+The converb, also called transgressive or adverbial participle,
+is a non-finite verb form that shares properties of verbs and adverbs.
+
+#### Examples
+
+- _yürürken gördüm_ "I saw it while I was walking"
+- _okuyarak daha iyi öğreniyor_ "She/he learns better by reading"
+- _raporu yazılı olarak istiyorlar_ "They want the report in written form"
+- _okuyunca anlayacaksın_ "You will understand when you read it"
+
 
 ### <a name="Fin">`Fin`</a>: participle
 
@@ -35,18 +59,6 @@ we treat the word like a verbal noun.
 - _okuyacağım kitap_ "the book that I will read"
 - _Ali'nin okuduğu kitap_ "the book that I has read"
 - _okuyor olduğun kitap_ "the book that you are reading"
-
-### <a name="Conv">`Conv`</a>: converb
-
-The converb, also called transgressive or adverbial participle,
-is a non-finite verb form that shares properties of verbs and adverbs.
-
-#### Examples
-
-- _yürürken gördüm_ "I saw it while I was walking"
-- _okuyarak daha iyi öğreniyor_ "She/he learns better by reading"
-- _raporu yazılı olarak istiyorlar_ "They want the report in written form"
-- _okuyunca anlayacaksın_ "You will understand when you read it"
 
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
 
