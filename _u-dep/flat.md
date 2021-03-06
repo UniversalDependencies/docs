@@ -12,9 +12,10 @@ completely fixed grammaticized (function word-like) MWEs (like _in spite of_), a
 endocentric (headed) MWEs (like _apple pie_).
 
 Flat MWEs are annotated with a flat structure, where all subsequent words in the expression are attached to the 
-first one using the `flat` label. The assumption is that these expressions do not have any internal syntactic structure 
-and that the structural annotation is in principle arbitrary. In practice, however, it is highly desirable to use 
-a consistent annotation of all flat MWEs in all languages.
+first one using the `flat` label. The assumption is that in these expressions, the `flat` relations
+are not syntactic head-modifier relations, and that the structural annotation is in principle arbitrary. 
+For consistency, UD specifies that the first word of the expression shall be the head of all `flat` 
+dependents. These dependents may have other modifiers so long as they are not `flat`.
 
 Below we describe some of the most common uses of [flat]() across languages. Note that semantically
 equivalent expressions in different languages (or even in the same language) may require a different analysis if sometimes
@@ -183,6 +184,39 @@ Leland Stanford Jr. University
 compound(Leland-1, University-4)
 flat(Leland-1, Stanford-2)
 flat(Leland-1, Jr.-3)
+~~~
+
+On occasion, an expression with no clear head at the top level will have internal syntactic modifiers or punctuation:
+
+~~~ sdparse
+Dwayne " The Rock " Johnson
+flat(Dwayne, Rock)
+flat(Dwayne, Johnson)
+det(Rock, The)
+punct(Rock, "-1)
+punct(Rock, "-5)
+~~~
+
+Likewise, in a Portuguese sentence, the surname "Paulo da Silva" would be analyzed with internal structure:
+
+~~~ sdparse
+Roberto Paulo da Silva Júnior
+flat(Roberto, Paulo)
+flat(Roberto, Júnior)
+nmod(Paulo, Silva)
+case(Silva, da)
+~~~
+
+But a flat structure cannot be nested immediately under another flat structure. For example, 
+the words of an embedded nickname would be treated as top-level parts of the flat expression:
+
+~~~ sdparse ~~~
+Denise " Dee Dee " Bridgewater
+flat(Denise, Dee-3)
+flat(Denise, Dee-4)
+flat(Denise, Bridgewater)
+punct(Dee-3, "-2)
+punct(Dee-4, "-5)
 ~~~
 
 ### Some further notes on relations for names
