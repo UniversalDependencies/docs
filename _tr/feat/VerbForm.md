@@ -5,11 +5,22 @@ shortdef: 'form of verb or deverbative'
 udver: '2'
 ---
 
-We use `VerbForm` with non-finite verbs that function as heads of adjectival and adverbial clauses.
+The feature `VerbForm` can be used for verbal or deverbal elements in matrix and embedded clauses. 
+As of now, Turkish treebanks make us of `Fin`, `Part`, `Conv`, and `Vnoun`. 
 
-The verb forms that function as noun phrases (verbal nouns) are not marked with the `VerbForm` feature.
-These verb forms are considered two separate syntactic tokens.
-See [overview/tokenization]()
+### <a name="Fin">`Fin`</a>: participle
+
+Verbs that are marked for ([Mood]()), tense ([Tense]()) or 
+person ([Person]()) are finite and are assigned the `VerbForm` value `Fin`.
+Either embedded or matrix verbs can be finite. 
+Rule of thumb: If the verb and all of its dependents can be uttered alone without a conversational context, the verb should be finite.
+
+#### Examples
+
+- _Eve **geldi**._ "She came home."
+- _Eve **geldin** sanıyordum._ "I thought you came home."
+- _Eve **geldin** diye duydum._ "I heard that you came home."
+- _Eve **geldin** ya problem kalmadı._ "You came home, so there is no problem."
 
 ### <a name="Part">`Part`</a>: participle
 
@@ -23,7 +34,7 @@ we treat the word like a verbal noun.
 
 - _okuyacağım kitap_ "the book that I will read"
 - _Ali'nin okuduğu kitap_ "the book that I has read"
-- _okuyour olduğun kitap_ "the book that you are reading"
+- _okuyor olduğun kitap_ "the book that you are reading"
 
 ### <a name="Conv">`Conv`</a>: converb
 
@@ -50,3 +61,7 @@ Verbalnouns are derived from verbs. Such words in Turkish take the following suf
 - _<b>Bitirdiğini</b> sanmıştım._ "I thought you were finished"
 - _Oradan <b>geçmek</b> istemiyordum._ "I didn’t want to pass there"
 
+### References
+- Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar.  London: Routledge, 2005.
+
+<!-- Fin and References added March 6, 08:00 CET 2020 -->
