@@ -38,3 +38,15 @@ is a non-finite verb form that shares properties of verbs and adverbs.
 - _okuyunca anlayacaksın_ "You will understand when you read it"
 
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
+
+### <a name="Vnoun">`Vnoun`</a>: verbal noun
+
+Verbalnouns are derived from verbs. Such words in Turkish take the following suffixes: -mA, -(y)Iş, -DIK, -(y)AcAK, -mAK
+
+#### Examples
+
+- _<b>Gitmeni</b> istiyorum._ "I want you to go"
+- _<b>Kalkış</b> yapalım._ "Let’s take off"
+- _<b>Bitirdiğini</b> sanmıştım._ "I thought you were finished"
+- _Oradan <b>geçmek</b> istemiyordum._ "I didn’t want to pass there"
+
