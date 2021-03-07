@@ -181,7 +181,7 @@ normal syntactic relations:
 
 ~~~ sdparse
 Leland Stanford Jr. University
-compound(Leland-1, University-4)
+compound(University-4, Leland-1)
 flat(Leland-1, Stanford-2)
 flat(Leland-1, Jr.-3)
 ~~~
