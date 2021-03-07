@@ -30,7 +30,8 @@ fixed(as, well)
 I like dogs as well as cats
 fixed(as-4, well)
 fixed(as-4, as-6)
-cc(dogs, as-4)
+cc(cats, as-4)
+conj(dogs, cats)
 ~~~
 
 *such as*
@@ -169,7 +170,8 @@ fixed(in, order)
 ~~~ sdparse
 I decided to get a dog rather than a cat
 fixed(rather, than)
-cc(rather, dog)
+cc(cat, rather)
+conj(dog, cat)
 ~~~
 
 *at least* (when not used for quantities)
@@ -233,8 +235,8 @@ mark(feel, whether)
 This restaurant is pretty cheap with good food, not to mention their friendly staff
 fixed(not, to)
 fixed(not, mention)
-cc(cheap, not)
-conj(staff, cheap)
+cc(staff, not)
+conj(food, staff)
 ~~~
 
 *as opposed to*
@@ -251,7 +253,7 @@ case(Mary, as)
 ~~~ sdparse
 He could n't handle being hurt , let alone hurt by you
 fixed(let, alone)
-cc(hurt-6, alone)
+cc(hurt-6, let)
 conj(hurt-6, hurt-10)
 ~~~
 
@@ -261,7 +263,7 @@ conj(hurt-6, hurt-10)
 John left early so as to miss the meeting
 fixed(so, as)
 fixed(so, to)
-mark(so, miss)
+mark(miss, so)
 ~~~
 
 *in between*
@@ -269,7 +271,7 @@ mark(so, miss)
 ~~~ sdparse
 John left in between meetings
 fixed(in, between)
-case(in, meetings)
+case(meetings, in)
 ~~~
 
 *all but*
@@ -277,7 +279,7 @@ case(in, meetings)
 ~~~ sdparse
 John has all but left
 fixed(all, but)
-advmod(all, left)
+advmod(left, all)
 ~~~
 
 *that is*
@@ -301,7 +303,7 @@ mark(left, How)
 ~~~ sdparse
 You had better apologize
 fixed(had, better)
-aux(had, apologize)
+aux(apologize, had)
 ~~~
 
 ### Not `fixed`s
