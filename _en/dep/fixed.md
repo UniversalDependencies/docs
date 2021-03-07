@@ -21,15 +21,15 @@ At present, this relation is used inside the following expressions:
 ~~~ sdparse
 I like dogs as well
 advmod(like, as)
-mwe(as, well)
+fixed(as, well)
 ~~~
 
 *as well as*
 
 ~~~ sdparse
 I like dogs as well as cats
-mwe(as-4, well)
-mwe(as-4, as-6)
+fixed(as-4, well)
+fixed(as-4, as-6)
 cc(dogs, as-4)
 ~~~
 
@@ -38,7 +38,7 @@ cc(dogs, as-4)
 ~~~ sdparse
 I like fluffy animals , such as dogs
 case(dogs, such)
-mwe(such, as)
+fixed(such, as)
 ~~~
 
 
@@ -47,7 +47,7 @@ mwe(such, as)
 ~~~ sdparse
 He cried due to the fact that you hurt him
 case(fact, due)
-mwe(due, to)
+fixed(due, to)
 ~~~
 
 *because of* (and other forms, such as *b c of* and *b/c of*)
@@ -55,20 +55,20 @@ mwe(due, to)
 ~~~ sdparse
 He cried because of you
 case(you, because)
-mwe(because, of)
+fixed(because, of)
 ~~~
 
 *instead of*
 
 ~~~ sdparse
 John went instead of Mary
-mwe(instead, of)
+fixed(instead, of)
 case(Mary, instead)
 ~~~
 
 ~~~ sdparse
 John left early instead of staying for the whole thing
-mwe(instead, of)
+fixed(instead, of)
 mark(staying, instead)
 ~~~
 
@@ -76,13 +76,13 @@ mark(staying, instead)
 
 ~~~ sdparse
 I always back up my files in case my computer crashes
-mwe(in, case)
+fixed(in, case)
 mark(crashes, in)
 ~~~
 
 ~~~ sdparse
 I always back up my files just in case
-mwe(in, case)
+fixed(in, case)
 advmod(back, in)
 advmod(in, just)
 ~~~
@@ -91,8 +91,8 @@ advmod(in, just)
 
 ~~~ sdparse
 I always back up my files in case of a crash
-mwe(in, case)
-mwe(in, of)
+fixed(in, case)
+fixed(in, of)
 case(crash, in)
 ~~~
 
@@ -101,7 +101,7 @@ case(crash, in)
 ~~~ sdparse
 I like dogs , of course
 advmod(like, of)
-mwe(of, course)
+fixed(of, course)
 ~~~
 
 *so that*
@@ -109,7 +109,7 @@ mwe(of, course)
 ~~~ sdparse
 He cried so that you would feel bad
 mark(feel, so)
-mwe(so, that)
+fixed(so, that)
 ~~~
 
 *more than* (when used synonymously with "over" in a quantity)
@@ -117,7 +117,7 @@ mwe(so, that)
 ~~~ sdparse
 More than 90 percent
 advmod(percent, More)
-mwe(More, than)
+fixed(More, than)
 ~~~
 
 *less than* (when used synonymously with "under" in a quantity)
@@ -125,14 +125,14 @@ mwe(More, than)
 ~~~ sdparse
 Less than ten percent
 advmod(percent, Less)
-mwe(Less, than)
+fixed(Less, than)
 ~~~
 
 *up to* (when used in quantities)
 
 ~~~ sdparse
 Up to fifty percent
-mwe(Up, to)
+fixed(Up, to)
 advmod(percent, Up)
 ~~~
 
@@ -140,7 +140,7 @@ advmod(percent, Up)
 
 ~~~ sdparse
 According to John
-mwe(According, to)
+fixed(According, to)
 case(John, According)
 ~~~
 
@@ -149,26 +149,26 @@ case(John, According)
 ~~~ sdparse
 He cried in order to make you feel bad
 mark(feel, in)
-mwe(in, order)
+fixed(in, order)
 ~~~
 
 ~~~ sdparse
 He cried in order that you might feel bad
 mark(feel, in)
-mwe(in, order)
+fixed(in, order)
 ~~~
 
 ~~~ sdparse
 He cried in order for you to have something to feel bad about
 mark(have, in)
-mwe(in, order)
+fixed(in, order)
 ~~~
 
 *rather than*
 
 ~~~ sdparse
 I decided to get a dog rather than a cat
-mwe(rather, than)
+fixed(rather, than)
 cc(rather, dog)
 ~~~
 
@@ -176,7 +176,7 @@ cc(rather, dog)
 
 ~~~ sdparse
 At least I like dogs
-mwe(At, least)
+fixed(At, least)
 advmod(like, At)
 ~~~
 
@@ -184,7 +184,7 @@ advmod(like, At)
 
 ~~~ sdparse
 It was as if he cried to make you feel bad
-mwe(as, if)
+fixed(as, if)
 mark(cried, as)
 ~~~
 
@@ -192,7 +192,7 @@ mark(cried, as)
 
 ~~~ sdparse
 John left prior to the meeting
-mwe(prior, to)
+fixed(prior, to)
 case(meeting, prior)
 ~~~
 
@@ -200,21 +200,21 @@ case(meeting, prior)
 
 ~~~ sdparse
 As to whether I love dogs ...
-mwe(As, to)
+fixed(As, to)
 mark(love, As)
 ~~~
 
 ~~~ sdparse
 As to my love of dogs ...
-mwe(As, to)
+fixed(As, to)
 case(love, As)
 ~~~
 
-*kind of*
+*kind of* (as a hedge)
 
 ~~~ sdparse
 I kind of like dogs
-mwe(kind, of)
+fixed(kind, of)
 advmod(like, kind)
 ~~~
 
@@ -222,8 +222,8 @@ advmod(like, kind)
 
 ~~~ sdparse
 He 's crying whether or not you feel bad about it
-mwe(whether, or)
-mwe(whether, not)
+fixed(whether, or)
+fixed(whether, not)
 mark(feel, whether)
 ~~~
 
@@ -231,8 +231,8 @@ mark(feel, whether)
 
 ~~~ sdparse
 This restaurant is pretty cheap with good food, not to mention their friendly staff
-mwe(not, to)
-mwe(not, mention)
+fixed(not, to)
+fixed(not, mention)
 cc(cheap, not)
 conj(staff, cheap)
 ~~~
@@ -241,8 +241,8 @@ conj(staff, cheap)
 
 ~~~ sdparse
 John decided to leave early , as opposed to Mary
-mwe(as, opposed)
-mwe(as, to-9)
+fixed(as, opposed)
+fixed(as, to-9)
 case(Mary, as)
 ~~~
 
@@ -250,7 +250,7 @@ case(Mary, as)
 
 ~~~ sdparse
 He could n't handle being hurt , let alone hurt by you
-mwe(let, alone)
+fixed(let, alone)
 cc(hurt-6, alone)
 conj(hurt-6, hurt-10)
 ~~~
@@ -259,8 +259,8 @@ conj(hurt-6, hurt-10)
 
 ~~~ sdparse
 John left early so as to miss the meeting
-mwe(so, as)
-mwe(so, to)
+fixed(so, as)
+fixed(so, to)
 mark(so, miss)
 ~~~
 
@@ -268,7 +268,7 @@ mark(so, miss)
 
 ~~~ sdparse
 John left in between meetings
-mwe(in, between)
+fixed(in, between)
 case(in, meetings)
 ~~~
 
@@ -276,7 +276,7 @@ case(in, meetings)
 
 ~~~ sdparse
 John has all but left
-mwe(all, but)
+fixed(all, but)
 advmod(all, left)
 ~~~
 
@@ -284,7 +284,7 @@ advmod(all, left)
 
 ~~~ sdparse
 The dogs need to be housebroken -- that is , '' potty - trained ''
-mwe(that, is)
+fixed(that, is)
 advmod(trained, that)
 ~~~
 
@@ -292,7 +292,7 @@ advmod(trained, that)
 
 ~~~ sdparse
 How come John left early ?
-mwe(How, come)
+fixed(How, come)
 mark(left, How)
 ~~~
 
@@ -300,7 +300,7 @@ mark(left, How)
 
 ~~~ sdparse
 You had better apologize
-mwe(had, better)
+fixed(had, better)
 aux(had, apologize)
 ~~~
 
