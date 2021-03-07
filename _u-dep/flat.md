@@ -210,7 +210,7 @@ case(Silva, da)
 But a flat structure cannot be nested immediately under another flat structure. For example, 
 the words of an embedded nickname would be treated as top-level parts of the flat expression:
 
-~~~ sdparse ~~~
+~~~ sdparse
 Denise " Dee Dee " Bridgewater
 flat(Denise, Dee-3)
 flat(Denise, Dee-4)
