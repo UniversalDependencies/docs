@@ -193,7 +193,7 @@ Dwayne " The Rock " Johnson
 flat(Dwayne, Rock)
 flat(Dwayne, Johnson)
 det(Rock, The)
-punct(Rock, "-1)
+punct(Rock, "-2)
 punct(Rock, "-5)
 ~~~
 
