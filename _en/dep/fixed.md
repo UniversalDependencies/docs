@@ -232,7 +232,7 @@ mark(feel, whether)
 *not to mention*
 
 ~~~ sdparse
-This restaurant is pretty cheap with good food, not to mention their friendly staff
+This restaurant is pretty cheap with good food , not to mention their friendly staff
 fixed(not, to)
 fixed(not, mention)
 cc(staff, not)
