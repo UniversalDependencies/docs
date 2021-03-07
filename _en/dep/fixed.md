@@ -253,7 +253,7 @@ case(Mary, as)
 ~~~ sdparse
 He could n't handle being hurt , let alone hurt by you
 fixed(let, alone)
-cc(hurt-6, let)
+cc(hurt-10, let)
 conj(hurt-6, hurt-10)
 ~~~
 
