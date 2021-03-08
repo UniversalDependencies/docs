@@ -142,11 +142,17 @@ universal relation will be undocumented and unavailable in your language.
 Subtypes are
 optional and technically in the language specific domain, although some subtypes are fairly
 widely attested and some are even mentioned in the universal part of the guidelines. If the
-documentation of a subtype is accessible globally, no action is needed either (if you are unsure
-whether a particular subtype is in this category, try using it; if the validator complains, you
-will know you have to provide documentation). Any other language-specific relation subtype must
-have a documentation page in the folder of the given language (regardless of whether this subtype
-is or is not documented in another language).
+documentation of a subtype is accessible globally, no action is needed either. Any other
+language-specific relation subtype must have a documentation page in the folder of the given
+language (regardless of whether this subtype is or is not documented in another language).
+In addition, all relation types must be
+[registered with the on-line validator](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl)
+before they can be used in a language (go to the registration page, select your language,
+click on the relation type and make sure the check box is checked to permit the relation
+in the language).
+If you are unsure whether a particular subtype is globally documented, try registering it;
+if the registration page does not list it as one of the types that “can be permitted”,
+you will know you have to provide documentation.
 
 Note that in some cases you should change the relation in your data rather than documenting it.
 When defining new subtypes, make sure that you are **not redefining something that
