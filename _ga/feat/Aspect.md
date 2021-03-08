@@ -9,6 +9,17 @@ Aspect is a feature that specifies duration of the action in time,
 whether the action has been completed etc.
 
 
+### <a name="Hab">`Hab`</a>: habitual aspect
+
+The action takes place habitually (daily, weekly, annually etc)  or is a usual occurence 
+
+#### Examples
+
+- _<b>Bíonn</b> an seoladh poist céanna ag na vótóirí uilig_ "Each voter (usually) <b>has</b> the same postal address"
+- _Glas a <b>bhíonn</b> na caora ar dtús_ "The sheep <b>are</b> green at first"
+- _<b>Bíonn</b> contúirt bhreise ag baint leis an iomarca meáchain_ "There <b>are</b> (can be) additional risks linked to overweight"
+
+
 ### <a name="Imp">`Imp`</a>: imperfect aspect
 
 The action took / takes / will take some time span and there is no
