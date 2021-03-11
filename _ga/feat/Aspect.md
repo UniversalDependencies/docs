@@ -28,6 +28,6 @@ information whether and when it was / will be completed.
 #### Examples
 
 - _<b>Chuiridís</b> oilithrigh amach go dtí Compostela_ "They <b>used to send</b> pilgrims out to Compostela"
-- _De ghnáth <b>bhíodh</b> an teach i Sráid Sheáin Mhic Dhiarmada go deas te_ "Usually, the house in Sean MacDermott St. <b>would be</b> nice and warm"
+- _De ghnáth <b>bhíodh</b> an teach i Sráid Sheáin Mhic Dhiarmada go deas te_ "Usually, the house in Sean MacDermott St. <b>used to be</b> nice and warm"
 - _<b>Bhíodh</b> colún rialta ag Máire dar theideal 'An Fáinne' ar an Irish Independent_ "Mary <b>used to have</b> a regular column in the Irish Independent called `The Ring'"
 
