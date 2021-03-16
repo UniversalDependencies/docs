@@ -10,7 +10,7 @@ udver: '2'
 
 * Words are delimited based on whitespace and spaces do not occur within words
 * Abbreviations that consist of characters are splitted with a whitespace (e.g. V N)
-* There is no punctuation
+* There is no punctuation, because the only Frisian Dutch treebank consists of transcribed spoken data
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
