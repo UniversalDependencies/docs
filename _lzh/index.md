@@ -36,7 +36,7 @@ For POS-tagging of classical Chinese texts in UD, we use `VERB` `ADV` `AUX` `ADP
 
 ## Syntax
 
-* `discourse:sp` to annotate the final sentence particles in the predicate-object-final structure.
+* [`discourse:sp`](dep/discource-sp.md) to annotate the final sentence particles in the predicate-object-final structure.
 * `nsubj:pass` to annotate passive subjects.
 * `obl:tmod` to annotate temporal oblique nominals.
 * `obl:lmod` to annotate locational oblique nominals.
