@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'flat-vv'
+title: 'flat:vv'
 shortdef: 'serial verbs'
 udver: '2'
 ---
