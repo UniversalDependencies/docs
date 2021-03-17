@@ -10,12 +10,11 @@ Sentence particles, also commonly known as "sentence-final particles" in Chinese
 Common sentence-final particles in Classical Chinese include: 也, 哉, 已, 兮, 乎, 歟, 矣, 焉.
 
 ~~~ conllu
-# visual-style 5 7 discourse:sp	color:blue
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# text = 賢者亦樂此乎
+# visual-style 4 6 discourse:sp	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	賢	賢	VERB	v,動詞,描写,態度	Degree=Pos	2	amod	_	Gloss=worthy|SpaceAfter=No
 2	者	者	PART	p,助詞,提示,*	_	4	nsubj	_	Gloss=that-which|SpaceAfter=No
 3	亦	亦	ADV	v,副詞,頻度,重複	_	4	advmod	_	Gloss=also|SpaceAfter=No
