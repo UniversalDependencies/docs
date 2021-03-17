@@ -41,7 +41,7 @@ For POS-tagging of classical Chinese texts in UD, we use `VERB` `ADV` `AUX` `ADP
 * `obl:tmod` to annotate temporal oblique nominals.
 * `obl:lmod` to annotate locational oblique nominals.
 * `compound:redup` (left-to-right) to annotate reduplicated compounds.
-* `flat:vv` (left-to-right) to annotate serial verbs (rather exocentric).
+* [`flat:vv`](dep/flat-vv.html) (left-to-right) to annotate serial verbs (rather exocentric).
 
 ## Treebanks
 
