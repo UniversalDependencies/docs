@@ -28,6 +28,10 @@ udver: '2'
 ### Features
 * There are no annotations for morphological features in this release.
 
+### Code-switching
+* Code-switching is annotated at the word level. In the MISC column the language labels can be found (e.g. 'lang=fy'). In every sentence there is at least a switch from Frisian to Dutch or the other way around.
+
+
 ---
 
 ## Syntax
