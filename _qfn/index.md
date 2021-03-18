@@ -25,12 +25,17 @@ udver: '2'
 * For other verbs `VERB` is used
 * `DET` is used as a determiner in front of a noun (phrase). These include 'de', 'het'/'it', 'een'/'in'. 
 
+### Features
+* There are no annotations for morphological features in this release.
+
 
 ---
 
 ## Syntax
 
 * The standard dependency relations are used. Included subtypes are `aux:pass` for passives, `compound:prt` for particle verbs , `flat:name` for multiword proper names, `nmod:poss` for possessive, `nsubj:pass` for passives and `obl:tmod` for a temporal modifier.
+* As the data in the Fame treebank is transcribed spoken speech, some sentences seem to have a 'non-standard' ending. For this we use the `orphan` relation. If possible `orphan` is attached to the root. If this results in a validation error we attach `orphan` to the highest node available.
+* The subject is identified as the entity that performs an action. Objects are the entities that receive the actions and indirect objects are recipients.
 
 
 ---
