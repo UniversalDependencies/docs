@@ -28,14 +28,21 @@ udver: '2'
 ### Features
 * There are no annotations for morphological features in this release.
 
-
 ---
 
 ## Syntax
 
-* The standard dependency relations are used. Included subtypes are `aux:pass` for passives, `compound:prt` for particle verbs , `flat:name` for multiword proper names, `nmod:poss` for possessive, `nsubj:pass` for passives and `obl:tmod` for a temporal modifier.
 * As the data in the Fame treebank is transcribed spoken speech, some sentences seem to have a 'non-standard' ending. For this we use the `orphan` relation. If possible `orphan` is attached to the root. If this results in a validation error we attach `orphan` to the highest node available.
+* `discourse` is always attached to the highest node without any projectivity. It is typically used for interjections and discourse elements (e.g. 'eh').
 * The subject is identified as the entity that performs an action. Objects are the entities that receive the actions and indirect objects are recipients.
+* Standard dependency relations are used.
+* Included subtypes:
+  * `aux:pass`: auxiliary in passives
+  * `compound:prt`: particle verbs
+  * `flat:name`: multiword proper names
+  * `nmod:poss`: possessives
+  * `nsubj:pass`: subject in passives
+  * `obl:tmod`: temporal modifier
 
 
 ---
