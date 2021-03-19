@@ -1,12 +1,18 @@
 ---
 layout: relation
-title: 'nmod'
-shortdef: 'nominal modifier'
+title: 'nmod:att'
+shortdef: 'nominal modifier without postposition'
+udver: '2'
 ---
 
 nmod denotes the head noun of postpositional phrases.
 
 nmod:att denotes nominal dependents of other nouns, e.g. in a possessive structure: a fiú kutyája - the boy dog-3SGPOSS "the boy's dog", where fiú has the relation nmod:att.
 
-nmod:obl denotes nominal dependents that bear a case marker different from accusative or dative: Eljövök a kutyáért - away.come-PRES-1SG-INDEF the dog-CAU "I will come for the dog", where kutyáért has the relation nmod:obl.
+~~~ sdparse
+a fiú kutyája \n the boy dog-3SGPOSS
+det(kutyája, a)
+nmod:att(kutyája, fiú)
+~~~
+
 <!-- Interlanguage links updated Čt lis 12 09:43:30 CET 2020 -->
