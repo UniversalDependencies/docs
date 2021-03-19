@@ -24,6 +24,7 @@ udver: '2'
   * a property is assigned to the subject
 * For other verbs `VERB` is used
 * `DET` is used as a determiner in front of a noun (phrase). These include 'de', 'het'/'it', 'een'/'in'. 
+* `ADV` is used for words that modify a verb, adjectives or other adverbs. In some cases it is difficult to determine if something is an adverb or an adjective (`ADJ`). In that case we determine the part of speech by checking a Frisian or Dutch dictionary. If the word was not in the dictionary we use the frequencies of the existing Dutch treebank to determine the part of speech.
 
 ### Features
 * There are no annotations for morphological features in this release.
