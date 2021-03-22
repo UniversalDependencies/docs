@@ -43,6 +43,8 @@ there are three locative cases in Tupinambá
 
 * _<b>ok-(ɨ)-pe</b>&nbsp;_ “In the house”
 
+</tr>
+</table>
 
 ### <a name="Tra">`Tra`</a>: Traslative
 
