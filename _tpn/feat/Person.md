@@ -94,6 +94,18 @@ Second person
 </tr>
 </table>
 
+
+### <a name="1">`123`</a>: Person=1
+
+A2 U3
+
+#### Examples
+
+* _<b>pe-s-apirõ</b>&nbsp;_ “You mourn him/her/it/tehem”
+
+</tr>
+</table>
+
 ## Diffs
 
 ### Prague Dependency Treebank
