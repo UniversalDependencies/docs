@@ -1,4 +1,3 @@
-
 ---
 layout: feature
 title: 'Mood'
@@ -10,23 +9,30 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Imp">Imp</a></td>
+  
+  
+
 </tr>
 </table>
 
-`Aspect`  
+`Mood`  
 
 ### <a name="Imp">`Imp`</a>: Imperative
 
-It is used to give orders
+It is used to give orders.
 
 #### Examples
 
 * _<b>Ezapo arapuk nehe</b>&nbsp;_ “Make a trap”
-
+  
 </tr>
 </table>
 
+
+
+
 ## Diffs
+
 ### Prague Dependency Treebank
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
