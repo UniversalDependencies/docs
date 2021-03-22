@@ -53,7 +53,13 @@ Traslative
 * _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
 
 
+### <a name="Per">`Per`</a>: Perlative
 
+TraslatPerlativeive
+
+#### Examples
+
+* _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
 
 
 
