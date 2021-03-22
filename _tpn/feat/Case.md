@@ -9,10 +9,10 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Ref">Ref</a></td>
-  <td><a href="#Loc">Loc</a></td>
-  <td><a href="#Tra">Tra</a></td>
-  
+  <td><a href="#Ref">Ref</a>Referential</td>
+  <td><a href="#Loc">Loc</a>Locative</td>
+  <td><a href="#Tra">Tra</a>Translative</td>
+  <td><a href="#Per">Per</a>Perlative</td>
   
 
 </tr>
@@ -53,6 +53,18 @@ Traslative
 * _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
 
 
+
+### <a name="Ref">`Per`</a>: Perlative
+
+
+
+#### Examples
+
+* _<b>t-uβ</b>&nbsp;_ “father (existential predicate)”
+* _<b>t-uβ-a</b>&nbsp;_ “A/the father”
+  
+</tr>
+</table>
 
 ## Diffs
 
