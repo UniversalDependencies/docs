@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Intens'
-shortdef: 'intensity'
+shortdef: 'intens'
 udver: '2'
 ---
 
