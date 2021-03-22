@@ -1,7 +1,8 @@
 ---
 layout: relation
-title: 'fixed'
-shortdef: 'multi-word expression'
+title: 'nsubj:lvc'
+shortdef: 'subject in a light-verb construction'
+udver: '2'
 ---
 
 For light verb constructions, we introduced the additional label `lvc`, which is appended to the normal dependency relation like `obj:lvc`, `nsubj:lvc`, `obl:lvc` etc.
