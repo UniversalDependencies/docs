@@ -9,10 +9,10 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Ref">Ref</a>Referential</td>
-  <td><a href="#Loc">Loc</a>Locative</td>
-  <td><a href="#Tra">Tra</a>Translative</td>
-  <td><a href="#Per">Per</a>Perlative</td>
+  <td><a href="#Ref">Ref</a></td>
+  <td><a href="#Loc">Loc</a></td>
+  <td><a href="#Tra">Tra</a></td>
+  <td><a href="#Per">Per</a></td>
   
 
 </tr>
