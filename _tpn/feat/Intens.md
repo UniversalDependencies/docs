@@ -16,7 +16,8 @@ udver: '2'
 
 `Intens` is a 
 
-### <a name="Compl">`Yes`</a>: Yes
+### <a name="Yes">`Yes`</a>: Yes
+
 
 Contiguity is more often associated with
 
