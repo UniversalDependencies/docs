@@ -10,7 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Prs">Prs</a></td>
-  
+  <td><a href="#Ind">Ind</a></td>
   
 
 </tr>
@@ -40,6 +40,20 @@ Personal pronoun
   
 </tr>
 </table>
+
+
+### <a name="Ind">`Ind`</a>: Indefinite
+
+Indefinite pronoun
+
+#### Examples
+
+* _<b>?????a</b>&nbsp;_ “?????”
+
+  
+</tr>
+</table>
+
 
 ## Diffs
 
