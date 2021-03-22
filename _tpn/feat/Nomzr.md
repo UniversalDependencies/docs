@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Circ">Circ</a></td>
   <td><a href="#DevPass">DevPass</a></td>
+  <td><a href="#Ag">Ag</a></td>
   
   
 
@@ -36,6 +37,19 @@ The deverbal passive
 #### Examples
 
 * _<b>i-juká-pɨr-a</b>&nbsp;_ “the one who is/must be killed”
+
+  
+</tr>
+</table>
+
+
+### <a name="Ag">`Ag`</a>: Circumstance
+
+The agent nominalizer
+
+#### Examples
+
+* _<b>juká-sar-a</b>&nbsp;_ “way / Kill-er”
 
   
 </tr>
