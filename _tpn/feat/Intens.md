@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Intensity'
+title: 'Intens'
 shortdef: 'intensity'
 udver: '2'
 ---
@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-`Intensity` is a 
+`Intens` is a 
 
 ### <a name="Compl">`Yes`</a>: Yes
 
