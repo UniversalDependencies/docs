@@ -21,4 +21,13 @@ advmod:tto – relation between an adverb answering for the question „till whe
 
 advmod:mode – relation between other adverbs and their parents
 
+“there are indeed cameras there”
+
+~~~ sdparse
+valóban ott vannak kamerák \n indeed there are cameras
+advmod:mode(vannak, valóban)
+advmod:locy(vannak, ott)
+nsubj(vannak, kamerák)
+~~~
+
 <!-- Interlanguage links updated Čt lis 12 09:43:11 CET 2020 -->
