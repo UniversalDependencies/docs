@@ -12,7 +12,7 @@ udver: '2'
   <td><a href="#Ref">Ref</a></td>
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Tra">Tra</a></td>
-  
+  <td><a href="#Per">Per</a></td>
   
 
 </tr>
@@ -43,6 +43,8 @@ there are three locative cases in Tupinambá
 
 * _<b>ok-(ɨ)-pe</b>&nbsp;_ “In the house”
 
+</tr>
+</table>
 
 ### <a name="Tra">`Tra`</a>: Traslative
 
@@ -52,7 +54,20 @@ Traslative
 
 * _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
 
+</tr>
+</table>
 
+### <a name="Ref">`Per`</a>: Perlative
+
+
+
+#### Examples
+
+* _<b>t-uβ</b>&nbsp;_ “father (existential predicate)”
+* _<b>t-uβ-a</b>&nbsp;_ “A/the father”
+  
+</tr>
+</table>
 
 ## Diffs
 
