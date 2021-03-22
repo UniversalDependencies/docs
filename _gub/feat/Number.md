@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Plur">Plur</a></td>
-  <td><a href="#Sing">Plur</a></td>
+  <td><a href="#Sing">Sing</a></td>
   <td><a href="#Coll">Loc</a></td>
 
   
