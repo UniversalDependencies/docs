@@ -1,12 +1,22 @@
 ---
 layout: relation
 title: 'nmod'
-shortdef: 'nominal modifier'
+shortdef: 'nominal modifier in oblique case'
+udver: '2'
 ---
 
 nmod denotes the head noun of postpositional phrases.
 
-nmod:att denotes nominal dependents of other nouns, e.g. in a possessive structure: a fiú kutyája - the boy dog-3SGPOSS "the boy's dog", where fiú has the relation nmod:att.
+nmod:obl denotes nominal modifiers (of nominals) that bear a case marker different from accusative or dative.
+In the following example, _olajért_ “for oil” is in the causative case, while _élelmiszert_ “food” is in the accusative.
 
-nmod:obl denotes nominal dependents that bear a case marker different from accusative or dative: Eljövök a kutyáért - away.come-PRES-1SG-INDEF the dog-CAU "I will come for the dog", where kutyáért has the relation nmod:obl.
+~~~ sdparse
+úgynevezett " olajért élelmiszert " programot \n so-called “ for-oil food ” program
+amod:att(élelmiszert, úgynevezett)
+punct(élelmiszert, "-2)
+nmod:obl(élelmiszert, olajért)
+punct(élelmiszert, "-5)
+nmod:att(programot, élelmiszert)
+~~~
+
 <!-- Interlanguage links updated Čt lis 12 09:43:30 CET 2020 -->
