@@ -55,14 +55,7 @@ Traslative
 
 
 
-### <a name="Ref">`Per`</a>: Perlative
 
-
-
-#### Examples
-
-* _<b>t-uβ</b>&nbsp;_ “father (existential predicate)”
-  
 
 
 ## Diffs
