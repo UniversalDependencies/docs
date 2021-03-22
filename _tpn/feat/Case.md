@@ -65,9 +65,6 @@ Traslative
   
 
 
-</tr>
-</table>
-
 ## Diffs
 
 ### Prague Dependency Treebank
