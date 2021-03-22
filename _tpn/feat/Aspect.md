@@ -8,8 +8,8 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Compl">Compl</a></td>
-  
+  <td><a href="#Compl">Compl</a>Completive</td>
+  <td><a href="#Iter">Iter</a>Iterative</td>
   
   
 </tr>
@@ -25,6 +25,14 @@ Contiguity is more often associated with
 
 * _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
 
+
+### <a name="Iter">`Iter`</a>: contiguous
+
+Contiguity is more often associated with
+
+#### Examples
+
+* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
 
 
 
