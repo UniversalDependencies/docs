@@ -8,15 +8,27 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Perm">Perm</a>Completive</td>
+  <td><a href="#Perm">Perm</a></td>
+  <td><a href="#Sub">Sub</a></td>
   
   
 </tr>
 </table>
 
-`Aspect` is a 
+`Mood` is a 
 
 ### <a name="Perm">`Perm`</a>: Permissive
+
+Contiguity is more often associated with
+
+#### Examples
+
+* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
+
+
+
+
+### <a name="Sub">`Sub`</a>: Subjunctive
 
 Contiguity is more often associated with
 
