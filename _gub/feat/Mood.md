@@ -1,42 +1,32 @@
 ---
 layout: feature
-title: 'Number'
-shortdef: 'number'
+title: 'Mood'
+shortdef: 'mood'
 udver: '2'
 ---
 
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Plur">Plur</a></td>
-  <td><a href="#Sing">Sing</a></td>
-
+  <td><a href="#Imp">Imp</a></td>
+  
   
 
 </tr>
 </table>
 
-`Number`  
+`Mood`  
 
-### <a name="Plur">`Plur`</a>: Plural 
+### <a name="Imp">`Imp`</a>: Imperative
 
-Several entities or objects
-
-#### Examples
-
-* _<b>a'e wà</b>&nbsp;_ “They”
-
-### <a name="Sing">`Sing`</a>: Singular 
-
-One entity or object
+It is used to give orders.
 
 #### Examples
 
-* _<b>ihe</b>&nbsp;_ “I”
+* _<b>Ezapo arapuk nehe</b>&nbsp;_ “Make a trap”
   
 </tr>
 </table>
-
 
 
 
