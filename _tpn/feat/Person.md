@@ -95,14 +95,16 @@ Second person
 </table>
 
 
-### <a name="1">`23`</a>: Person=23
+### <a name="23">`23`</a>: Person=23
 
-A2 U3
+When the object is third person, both arguments of a transitive verb are cross-referenced on the predicate. 
+The patient is always cross-referenced by the relational of non-contiguity.
 
 #### Examples
 
-* _<b>pe-s-apirõ</b>&nbsp;_ “You mourn him/her/it/tehem”
+* _<b>pe-s-apirõ</b>&nbsp;_ “you mourn her/him/it/them”
 
+  
 </tr>
 </table>
 
