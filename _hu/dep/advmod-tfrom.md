@@ -21,4 +21,22 @@ advmod:tto – relation between an adverb answering for the question „till whe
 
 advmod:mode – relation between other adverbs and their parents
 
+“According to the project, the Arab state has been able to export raw materials at a half-yearly specified value since 1996.”
+
+~~~ sdparse
+A projekt szerint az arab állam 1996-tól félévente meghatározott értékben exportálhatott nyersanyagot . \n The project according-to the Arab state 1996-from every-half-a-year specified value-at could-export raw-material .
+det(projekt, A)
+case(projekt, szerint)
+obl(exportálhatott, projekt)
+det(állam, az)
+amod:att(állam, arab)
+nsubj(exportálhatott, állam)
+advmod:tfrom(exportálhatott, 1996-tól)
+advmod:mode(meghatározott, félévente)
+amod:att(értékben, meghatározott)
+obl(exportálhatott, értékben)
+obj(exportálhatott, nyersanyagot)
+punct(exportálhatott, .-13)
+~~~
+
 <!-- Interlanguage links updated Čt lis 12 09:43:11 CET 2020 -->
