@@ -25,7 +25,7 @@ Contiguity is more often associated with
 
 * _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
 
-
+ 
 
 
 
