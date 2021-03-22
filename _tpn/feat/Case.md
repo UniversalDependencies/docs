@@ -30,8 +30,7 @@ in Tupinambá, to funcion as arguments of predicates or allow them to be referen
 * _<b>t-uβ</b>&nbsp;_ “father (existential predicate)”
 * _<b>t-uβ-a</b>&nbsp;_ “A/the father”
   
-</tr>
-</table>
+
 
 
 
@@ -43,8 +42,7 @@ there are three locative cases in Tupinambá
 
 * _<b>ok-(ɨ)-pe</b>&nbsp;_ “In the house”
 
-</tr>
-</table>
+
 
 ### <a name="Tra">`Tra`</a>: Traslative
 
@@ -54,8 +52,8 @@ Traslative
 
 * _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
 
-</tr>
-</table>
+
+
 
 ### <a name="Ref">`Per`</a>: Perlative
 
@@ -64,8 +62,9 @@ Traslative
 #### Examples
 
 * _<b>t-uβ</b>&nbsp;_ “father (existential predicate)”
-* _<b>t-uβ-a</b>&nbsp;_ “A/the father”
   
+
+
 </tr>
 </table>
 
