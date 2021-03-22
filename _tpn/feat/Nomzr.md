@@ -10,8 +10,8 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Circ">Circ</a></td>
   <td><a href="#DevPass">DevPass</a></td>
-  <td><a href="#Ag">Ag</a>Agent</td>
-  <td><a href="#Rel">Rel</a>Relative</td>
+  <td><a href="#Ag">Ag</a>Ag</td>
+  <td><a href="#Rel">Rel</a>Rel</td>
   
   
 
