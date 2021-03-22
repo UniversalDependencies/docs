@@ -1,26 +1,25 @@
 ---
 layout: feature
-title: 'Nomzr'
-shortdef: 'nominalizer'
+title: 'PronType'
+shortdef: 'PronType'
 udver: '2'
 ---
 
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Circ">Circ</a></td>
-  <td><a href="#DevPass">DevPass</a></td>
-  <td><a href="#Ag">Ag</a>Agent</td>
-  
+  <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Prs">Prs</a></td>
+  <td><a href="#Ind">Ind</a></td>
   
 
 </tr>
 </table>
 
 
-### <a name="Circ">`Circ`</a>: Circumstance
+### <a name="Int">`Int`</a>: Circumstance
 
-The nominalizer of circumstance can be roughly translated as 'way / place of x'
+interrogative pronoun
 
 #### Examples
 
@@ -30,9 +29,9 @@ The nominalizer of circumstance can be roughly translated as 'way / place of x'
 </tr>
 </table>
 
-### <a name="DevPass">`DevPass`</a>: Pasive deverbal
+### <a name="Prs">`Prs`</a>: Circumstance
 
-The deverbal passive
+Personal pronoun
 
 #### Examples
 
@@ -43,17 +42,18 @@ The deverbal passive
 </table>
 
 
-### <a name="Ag">`Ag`</a>: Agent
+### <a name="Ind">`Ind`</a>: Indefinite
 
-The agent nominalizer
+Indefinite pronoun
 
 #### Examples
 
-* _<b>juká-sar-a</b>&nbsp;_ “way / Kill-er”
+* _<b>?????a</b>&nbsp;_ “?????”
 
   
 </tr>
 </table>
+
 
 ## Diffs
 
