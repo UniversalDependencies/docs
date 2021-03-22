@@ -8,7 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Int">Int</a></td>
+  <td><a href="#Ind">Ind</a></td>
   <td><a href="#Prs">Prs</a></td>
   
   
@@ -17,9 +17,9 @@ udver: '2'
 </table>
 
 
-### <a name="Circ">`Int`</a>: Circumstance
+### <a name="Int">`Int`</a>: Circumstance
 
-The nominalizer of circumstance can be roughly translated as 'way / place of x'
+interrogative pronoun
 
 #### Examples
 
@@ -29,9 +29,9 @@ The nominalizer of circumstance can be roughly translated as 'way / place of x'
 </tr>
 </table>
 
-### <a name="DevPass">`Prs`</a>: Circumstance
+### <a name="Prs">`Prs`</a>: Circumstance
 
-The deverbal passive
+Personal pronoun
 
 #### Examples
 
