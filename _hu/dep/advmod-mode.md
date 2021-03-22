@@ -21,4 +21,16 @@ advmod:tto – relation between an adverb answering for the question „till whe
 
 advmod:mode – relation between other adverbs and their parents
 
+“and can therefore have a negative impact on the economy as a whole”
+
+~~~ sdparse
+és emiatt az egész gazdaságra negatív hatással lehet \n and therefore the whole economy negative impact may
+cc(lehet, és)
+advmod:mode(lehet, emiatt)
+det(gazdaságra, az)
+amod:att(gazdaságra, egész)
+amod:att(hatással, negatív)
+obl(lehet, hatással)
+~~~
+
 <!-- Interlanguage links updated Čt lis 12 09:43:11 CET 2020 -->
