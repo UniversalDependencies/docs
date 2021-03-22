@@ -52,7 +52,8 @@ Traslative
 
 * _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
 
-
+</tr>
+</table>
 
 ### <a name="Ref">`Per`</a>: Perlative
 
