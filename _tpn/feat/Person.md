@@ -99,7 +99,7 @@ The patient is always cross-referenced by the relational of non-contiguity.
 
 ### <a name="23">`23`</a>: Person=23
 
-First person inclusive.
+Second person.
 
 When the object is third person, both arguments of a transitive verb are cross-referenced on the predicate. 
 The patient is always cross-referenced by the relational of non-contiguity.
