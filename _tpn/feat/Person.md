@@ -60,7 +60,7 @@ Second person
 
 ### <a name="3">`3`</a>: Person=2
 
-Second person
+Third person
 
 #### Examples
 
@@ -84,7 +84,9 @@ Second person
 
 ### <a name="13">`13`</a>: Person=13
 
-Second person
+First person exclusive.
+When the object is third person, both arguments of a transitive verb are cross-referenced on the predicate. 
+The patient is always cross-referenced by the relational of non-contiguity.
 
 #### Examples
 
@@ -96,6 +98,8 @@ Second person
 
 
 ### <a name="23">`23`</a>: Person=23
+
+First person inclusive.
 
 When the object is third person, both arguments of a transitive verb are cross-referenced on the predicate. 
 The patient is always cross-referenced by the relational of non-contiguity.
