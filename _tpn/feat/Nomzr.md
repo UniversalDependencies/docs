@@ -10,7 +10,8 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Circ">Circ</a></td>
   <td><a href="#DevPass">DevPass</a></td>
-  <td><a href="#Ag">Ag</a>Agent</td>
+  <td><a href="#Ag">Ag</a></td>
+  <td><a href="#Rel">Rel</a></td>
   
   
 
@@ -54,6 +55,14 @@ The agent nominalizer
   
 </tr>
 </table>
+
+### <a name="Rel">`Rel`</a>: Relativizer
+
+The nominalizer of circumstance can be roughly translated as 'way / place of x'
+
+#### Examples
+
+* _<b>juká-saβ-a</b>&nbsp;_ “way / place of killing”
 
 ## Diffs
 
