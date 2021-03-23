@@ -18,7 +18,7 @@ udver: '2'
 `Incorp`  
 
 
-### <a name="All">`Incorp`</a>: Incorporation 
+### <a name="Incorp">`Incorp`</a>: Incorporation 
 
 is used for the referential marker (also called argumentative). It allows lexical roots, all of which are predicates 
 in Tupinambá, to funcion as arguments of predicates or allow them to be referential.
