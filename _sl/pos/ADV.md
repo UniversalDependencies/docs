@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADV'
 shortdef: 'adverb'
+udver: '2'
 ---
 
 ### Definition
@@ -9,7 +10,7 @@ shortdef: 'adverb'
 Adverbs are words that typically modify [verbs](VERB) and [adjectives](ADJ) for such categories as time, place,
 direction or manner, e.g. _<b>znova</b> začutiti_ "feel again" or _<b>dobro</b> obveščen_ "well informed". Adverbs deriving from adjectives can inflect for [degree](), e.g. _zanimivo_ "interestingly", _zanimiveje/zanimivejše_ "more interestingly", _najzanimiveje/najzanimivejše_ "the most interestingly".    
 
-Note that in Slovenian transgressives (adverbial participles) are marked as adverbs, not [verbs](VERB).
+Borderline cases marked as ADV include pronominal adverbs (e.g. _<b>kje</b>_ "where", _<b>tam</b>_ "there", _<b>takrat</b>_ "then"), ordinal adverbs (e.g. _<b>prvič</b>_ "for the first time"), multiplicative adverbs (e.g. _<b>dvakrat</b>_ "twice") and transgressives (adverbial participles, e.g. _<b>zahvaljujoč</b>_ "thanks to, lit. thanking").
 
 ### Examples
 
@@ -18,5 +19,5 @@ Note that in Slovenian transgressives (adverbial participles) are marked as adve
 
 #### Conversion from JOS
 
-All adverbs become `ADV`.
+All adverbs become `ADV`, with the exception of JOS adverbs converted to [determiners](DET).
 <!-- Interlanguage links updated Čt lis 12 09:42:50 CET 2020 -->
