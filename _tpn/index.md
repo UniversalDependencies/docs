@@ -20,7 +20,7 @@ Mapping UPOS to XPOS for Tupinambá:
  NOUN  | n        |
  PROPN | ppn      |
  VERB  | v, vi, vt|
- ADP   | pp       |
+ ADP   | posp       |
  AUX   | aux      |
  CCONJ | cc       |
  DET   | det      |
