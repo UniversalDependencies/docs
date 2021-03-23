@@ -18,7 +18,7 @@ udver: '2'
 `Incorp`  
 
 
-### <a name="Incorp">`Incorp`</a>: Incorporation 
+### <a name="Yes">`Yes`</a>: Yes 
 
 is used for the referential marker (also called argumentative). It allows lexical roots, all of which are predicates 
 in Tupinambá, to funcion as arguments of predicates or allow them to be referential.
