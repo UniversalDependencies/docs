@@ -13,12 +13,26 @@ udver: '2'
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Tra">Tra</a></td>
   <td><a href="#Per">Per</a></td>
+  <td><a href="#All">All</a></td>
   
 
 </tr>
 </table>
 
 `Case`  
+
+
+### <a name="All">`All`</a>: Allative 
+
+is used for the referential marker (also called argumentative). It allows lexical roots, all of which are predicates 
+in Tupinambá, to funcion as arguments of predicates or allow them to be referential.
+
+#### Examples
+
+
+* _<b>ɨβɨtɨr-(ɨ)-pe</b>&nbsp;_ “To the mountain”
+
+
 
 ### <a name="Ref">`Ref`</a>: Referential (Argumentative)
 
