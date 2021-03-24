@@ -2,6 +2,7 @@
 layout: relation
 title:  'vocative'
 shortdef : 'vocative modifier'
+udver: '2'
 ---
 
 The dependency type `vocative` is used for *vocatives*, that is,
@@ -11,7 +12,7 @@ occurs.
 
 <!-- fname:voc.pdf -->
 ~~~ sdparse
-Жоқ , Айгүл , айта алмаймын . \n No , Aygül , say can-not-I . 
+Жоқ , Айгүл , айта алмаймын . \n No , Aygül , say can-not-I .
 vocative(айта-5, Айгүл-3)
 discourse(айта-5, Жоқ-1)
 aux(айта-5, алмаймын-6)
