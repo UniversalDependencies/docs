@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Compl">Compl</a></td>
   <td><a href="#Iter">Iter</a></td>
+  <td><a href="#Suc">Suc</a></td>
   
   
 </tr>
@@ -19,7 +20,7 @@ udver: '2'
 
 ### <a name="Compl">`Compl`</a>: Completive
 
-Contiguity is more often associated with
+The completive aspect indicates that an action happens completely (an activity achievment)
 
 #### Examples
 
@@ -28,11 +29,20 @@ Contiguity is more often associated with
 
 ### <a name="Iter">`Iter`</a>: Iterative
 
-Contiguity is more often associated with
+Iterative aspect indicates that the action happens continuously
 
 #### Examples
 
 * _<b>a-watá-watá teɲẽ</b>&nbsp;_ “I keep on walking for nothing” - 1.SG-walk-walk for.nothing
+
+
+### <a name="Suc">`Suc`</a>: Successive
+
+Successive aspect indicates that the action happens more than once, either the subject of the object has to have a plural reading (one after the other).
+
+#### Examples
+
+* _<b>o-sɨk-sɨk</b>&nbsp;_ “They arrive(d) one father the other” - 3-arrive-arrive
 
 
 
