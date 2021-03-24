@@ -51,6 +51,9 @@ Some verbal stems show irregular variations in their imperfective forms for hist
 
 All Latin verbal stems inflect for imperfective in the active or passive [voice](la-feat/Voice) (and possibly both), with the only notable exceptions of *memini* 'to remember' and *odi* 'to hate' ("perfective" verbs), and *coepi* 'to begin'. Some verbal stems appear only in an imperfective form: *uolo* 'to want', *nolo* 'to not want', *malo* 'to prefer'.
 
+####Examples
+
+* ***amo*** "I love/am loving"; ***uidebatis*** "you (pl.) were seeing"; ***capiendum*** "to be seized" 
 
 
 ### <a name="Inch">`Inch`</a>: inchoative aspect
@@ -92,7 +95,9 @@ For some stems displaying an inchoative form, the respective imperfective form h
 * imp. *disco* 'to learn', perf. *didici*: originally inchoative (with reduplication and zero-grade) \**di-dc-sco*, tied to the same root as *doceo* 'to teach' (perf. *docui*) 
 * imp. *cresco* 'to come into existence; to grow', intransitive, perf. *creui*: tied to the same root as *creo* 'to bring forth', originally 'to make grow', transitive (perf. *creaui*)
 
+####Examples
 
+* ***albesces*** "you will become white"; ***latesce*** "go hide yourself!"; ***adulescens*** "(who/which) is growing up [hence, young person]" 
 
 ### <a name="Perf">`Perf`</a>: perfective aspect
 
@@ -123,6 +128,9 @@ Some verbs express the perfective aspect by means of suppletive forms:
 
 Some verbal stems only appear in their perfective forms:  *memini* 'to remember' and *odi* 'to hate' ("perfective" verbs), and *coepi* 'to begin'. Some verbal stems do not have a perfective form: *uolo* 'to want', *nolo* 'to not want', *malo* 'to prefer'.
 
+####Examples
+
+* ***amaui*** "I have loved"; ***monueratis*** "you (pl.) had reminded"; ***captum*** "seized" 
 
 #### Other possible aspects in Latin
 
