@@ -77,11 +77,12 @@ Mapping UPOS to XPOS for Tupinambá:
 * Tupinambá is reach in nominalizations. Lexical roots can be nominalized by suffixes that receive the following features: nominalizatin of circusntance `Nomzr=Circ` (*-saβ* 'thing, way of VERB'), deverbal passive nominalization `Nomzr=DevPass` (*-pɨr* 'one that is VERB past participle'), `Nomzr=Ag`(*-sar* 'the VERB-_er_').
 
 ---
----
 
 ## Syntax
 
-### Core Arguments, Oblique Arguments and Adjuncts
+* The order of arguments cross-referenced on the predicate is SOV, and this order seems to be the most common when full NPs semantically associated with the bound arguments are present. In this case, there is no fixed order, and the lack of a formal corpus dos not allow for precise figures. It is worth noting, though, that clauses with two NPs, each related with one of the bound arguments are no as frequent as one would expect.
+
+### 
 
 
 
