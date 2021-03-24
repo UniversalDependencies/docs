@@ -2,13 +2,14 @@
 layout: relation
 title:  'discourse'
 shortdef : 'discourse element'
+udver: '2'
 ---
 
 *Discourse elements* are interjections, exclamations or emoticons. They are attached to the main verb or predicative of the
-sentence with the `discourse` dependency type. 
+sentence with the `discourse` dependency type.
 
 ~~~ sdparse
-Жоқ , Айгүлдің күшігі жоқ . \n No , Aygül's dog not-existing-is . 
+Жоқ , Айгүлдің күшігі жоқ . \n No , Aygül's dog not-existing-is .
 discourse(жоқ-5, Жоқ-1)
 nsubj(жоқ-5, күшігі-4)
 ~~~
