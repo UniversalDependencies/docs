@@ -16,8 +16,16 @@ udver: '2'
 ## Morphology
 
 * Tupinambá nouns are not marked for gender. Number is optionally marked.
+
 * Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `All`, `Per`.
+
 * What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to a nominalization accompanied by the fronting of an adverbial expression: adverbs, adverbial expressions, postpositional phrases (oblique topicalization). The nominalized form in this case receives a marked with the feature-value `OblTop=Yes`.
+
+* Lexical roots in Tupinambá are tagged either as NOUN or VERB, but NOUNS, due to the types of constructions are more frequent. VERB is only the case when transitive verbs are third person. The lexical root in the *gerund* [(VerbForm=Ger)](https://universaldependencies.org/u/feat/VerbForm.html) is also marked as VERB.
+
+* Verbs are marked for [aspect](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Aspect.md): `Compl` (completive) and `Iter` (Iterative).
+
+* Nouns are also marked for tense.
 
 
 ### Tags
@@ -54,8 +62,11 @@ Mapping UPOS to XPOS for Tupinambá:
 ### Features
 
 * The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or relational indicates that a possessor is not present, neither contiguously or non-contiguously. This relational is tagged `Rel=Abs`, for absolute. The reflexive/correferential morpheme _o_. which is often referred to as 'relational<sub>3</sub>' is associated with the feature-value `Reflex=Yes`. 
-* As a head marking language, Tupinambá cross-references arguments on the predicate, actor (A) and undergoer (U) are only marked in transitive verbs when the U is third person: *a-s-epjak* 1.SG-3-see 'I see him'. The [PERSON](https://universaldependencies.org/u/feat/Person.html) feature in this case will be `Person=13` indicating that A is 1<sup>st</sup> and U 3<sup>rd</sup> person.
+
+* As a head marking language, Tupinambá cross-references both arguments of a two-place predicate, actor (A) and undergoer (U), only when U is third person: *a-s-epjak* 1.SG-3(RELNCONT)-see 'I see him/her/it/them'. The [PERSON](https://universaldependencies.org/u/feat/Person.html) feature in this case ha sthe value `Person=13` indicating that A is 1<sup>st</sup> and U 3<sup>rd</sup> person.
+
 * The protmanteau markers indicating 1 -> 2 (A is 1<sup>st</sup> and U is 2<sup>nd</sup> person) are asigned the [PERSON](https://universaldependencies.org/u/feat/Person.html) feature `Person12Sg` and `Person12Pl`.
+
 * Tupinambá is reach in nominalizations. Lexical roots can be nominalized by suffixes that receive the following features: nominalizatin of circusntance `Nomzr=Circ` (*-saβ* 'thing, way of VERB'), deverbal passive nominalization `Nomzr=DevPass` (*-pɨr* 'one that is VERB past participle'), `Nomzr=Ag`(*-sar* 'the VERB-_er_').
 
 ---
