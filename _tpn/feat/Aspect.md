@@ -23,7 +23,7 @@ Contiguity is more often associated with
 
 #### Examples
 
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
+* _<b>mbaʔe-ʔu-paβ-iré</b>&nbsp;_ “After (having finished) eating” - thing-ingest-COMPL-POSP
 
 
 ### <a name="Iter">`Iter`</a>: contiguous
@@ -32,7 +32,7 @@ Contiguity is more often associated with
 
 #### Examples
 
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
+* _<b>a-watá-watá teɲẽ</b>&nbsp;_ “I keep on walking for nothing” - 1.SG-walk-walk for.nothing
 
 
 
