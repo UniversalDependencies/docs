@@ -12,6 +12,18 @@ udver: '2'
 * According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words);
 * There are no adjectives in Tupinambá. Modification is made by composition, juxtaposing lexical roots, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ(a)* (*kuɲã* 'woman' + *poraŋ-(a)* 'beauty'). Such words are treated as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation).
 
+
+## Morphology
+
+* Tupinambá nouns are not marked for gender. Number is optionally marked.
+* Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `All`, `Per`.
+* What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to a nominalization accompanied by the fronting of an adverbial expression: adverbs, adverbial expressions, postpositional phrases (oblique topicalization). The nominalized form in this case receives a marked with the feature-value `OblTop=Yes`.
+
+
+### Tags
+
+* Tupinambá uses 16 of the 17 universal POS categories, *ADJ* is not used.
+
 Mapping UPOS to XPOS for Tupinambá:
  UPOS | XPOS |
 :----: | :------: |
@@ -20,10 +32,10 @@ Mapping UPOS to XPOS for Tupinambá:
  NOUN  | n        |
  PROPN | ppn      |
  VERB  | v, vi, vt|
- ADP   | posp       |
+ ADP   | posp     |
  AUX   | aux      |
  CCONJ | cc       |
- DET   | det      |
+ DET   | dem      |
  NUM   | num      |
  PART  | pcl      |
  PRON  | pro      |
@@ -34,17 +46,6 @@ Mapping UPOS to XPOS for Tupinambá:
 
 ---
 
-## Morphology
-
-* Tupinambá nouns are not marked for gender. Number is optionally marked.
-* Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `All`, `Per`.
-* What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to the nominalization of a predicate and the fronting of an adverbial expression (oblique topicalization). The nominalized form of the verb, morphologically marked if the adverbial expression is fronted  is marked with the feature-value `OblTop=Yes`..
-
-
-### Tags
-
-
-* Tupinambá uses 16 of the 17 universal POS categories, *ADJ* is not used.
 * The (de)verbal forms used, are: 
 * Since Tupinambá is an omnipredicative language, the referential, marker (a  ̴ ∅) is marked as Case (`Case=Ref`) in the treebank, despite its function, which is nothing like that of nominal cases. This marker allows lexical roots to function as arguments of predicates.
 
