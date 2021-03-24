@@ -82,15 +82,14 @@ Mapping UPOS to XPOS for Tupinambá:
 
 * The order of arguments cross-referenced on the predicate is SOV, and this order seems to be the most common when full NPs semantically associated with the bound arguments are present. In this case, there is no fixed order, and the lack of a formal corpus dos not allow for precise figures. It is worth noting, though, that clauses with two NPs, each related with one of the bound arguments are no as frequent as one would expect.
 
+
+
 ### 
 
 
 
 
 
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
 
 ---
 
