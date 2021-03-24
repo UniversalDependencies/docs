@@ -2,6 +2,7 @@
 layout: postag
 title: 'NOUN'
 shortdef: 'noun'
+udver: '2'
 ---
 
 ### Definition
@@ -15,6 +16,7 @@ Nouns deriving from verbs (gerunds) are categorized as nouns in Slovenian.
 - _čas_ "time", _dan_ "day", _človek_ "human"
 - _leto_ "year", _delo_ "work", _mesto_ "city"
 - _država_ "country", _stran_ "page", _ura_ "hour"
+- _USB_, _GPS_,_pdf_
 
 #### Conversion from JOS
 
