@@ -17,7 +17,7 @@ udver: '2'
 
 `Aspect` is a 
 
-### <a name="Compl">`Compl`</a>: contiguous
+### <a name="Compl">`Compl`</a>: Completive
 
 Contiguity is more often associated with
 
@@ -26,7 +26,7 @@ Contiguity is more often associated with
 * _<b>mbaʔe-ʔu-paβ-iré</b>&nbsp;_ “After (having finished) eating” - thing-ingest-COMPL-POSP
 
 
-### <a name="Iter">`Iter`</a>: contiguous
+### <a name="Iter">`Iter`</a>: Iterative
 
 Contiguity is more often associated with
 
