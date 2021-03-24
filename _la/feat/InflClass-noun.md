@@ -43,6 +43,13 @@ Future participle | *amatura*
 Gerundive | *amanda*
 Superlatives | *amatissima*, *amaturissima*, *amandissima* 
 
+#### Examples
+
+* ***uisae*** 'seen (gen./dat. sing. f., nom./voc. plur. f.)'
+* ***moritura*** '(who/which is) going to die (nom./voc./abl. sing. f.)'
+* ***delendis*** '(who/which has) to be obliterated (dat./abl. plur. f.)'
+* ***uigilantissimarum*** 'most watchful (gen. plur. f.)'
+
 ### <a name="IndEurO">`IndEurO`</a>: second declension of nominal forms
 
 Perfect and future [participles](la-feat/VerbForm), gerundives/gerunds, and all [superlative](la-feat/Degree) forms thereof (not all equally attested, but possible) follow the second declension in the masculine/neuter (like first-class [adjectives](la-pos/ADJ)).
@@ -55,6 +62,13 @@ Perfect participle | *amatus*/*amatum*
 Future participle | *amaturus*/*amaturum*
 Gerundive | *amandus*/*amandum*
 Superlatives | *amatissimus*/*amatissimum*, *amaturissimus*/*amaturissimum*, *amandissimus*/*amandissimum* 
+
+#### Examples
+
+* ***uisi*** 'seen (gen. sing. m./n., nom./voc. plur. m.)'
+* ***moriturus*** '(who/which is) going to die (nom. sing. m.)'
+* ***delendis*** '(who/which has) to be obliterated (dat./abl. plur. m./n.)'
+* ***uigilantissimorum*** 'most watchful (gen. plur. m.)'
 
 ### <a name="IndEurX">`IndEurX`</a>: third declension of nominal forms (consonant stems)
 
@@ -69,6 +83,13 @@ Perfect participle | *amatior*/*amatior*/*amatius*
 Future participle | *amaturior*/*amaturior*/*amaturius*
 Gerundive | *amandior*/*amandior*/*amandius*
 
+#### Examples
+
+* ***uidentioris*** 'more seeing (gen. sing. m./f./n.)'
+* ***secutior*** 'more followed (nom. sing. m./f.)'
+* ***deleturius*** 'more (going) to be obliterated (nom./acc./voc. sing. n.)'
+* ***uigilandioribus*** 'to be more watched over (dat./abl. plur. m./f./n.)'
+
 
 ### <a name="IndEurI">`IndEurI`</a>: third declension of nominal forms (*i* stems)
 
@@ -80,6 +101,10 @@ Present [participles](la-feat/VerbForm) (like second-class [adjectives](la-pos/A
 --|--
 Present participle | *amans*/*amans*/*amans* 
 
+#### Examples
+
+* ***uidentium*** 'seeing (gen. plur. m./f./n.)'
+
 ### <a name="IndEurU">`IndEurU`</a>: fourth declension of nominal forms
 
 The [supine](la-feat/VerbForm) is a defective verbal noun belonging to the fourth declension, appearing only in the accusative and ablative cases.
@@ -89,6 +114,11 @@ The [supine](la-feat/VerbForm) is a defective verbal noun belonging to the fourt
 [Nominal form(s)](la-feat/VerbForm) | Forms
 --|--
 Supine | *amatum*, *amatu*
+
+#### Examples
+
+* ***uisu*** 'with regard to seeing [smth.] (abl.)' 
+* ***scriptum*** '[going/coming/... somewhere to] write (acc.)'
 
 
 ### <a name="Ind">`Ind`</a>: indeclinable nominal forms
@@ -103,4 +133,11 @@ Present active infinitive | *amare*
 Present passive infinitive | *amari*
 Perfect (active) infinitive | *amauisse*
 [Future active infinitive (archaic) | **amassere* ]
+
+#### Examples
+
+* ***uidēre*** 'to see'
+* ***sequi*** 'to follow' ([deponent](la-feat/Voice) verb)
+* ***audiuisse*** 'to have heard'
+* ***deargentassere*** 'to be going to deprive of money' (Lucil., Sat. 682)
 

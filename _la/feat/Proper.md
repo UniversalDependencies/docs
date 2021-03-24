@@ -31,7 +31,6 @@ A noun receiving the part-of-speech tag for proper nouns ([PROPN](la-pos/PROPN))
     * *in hiis que De simpliciter ente* literally means 'in those [i.e. books] which (are) about the simple Being', referring to a part of Aristotle's Metaphysics. All elements in the sequence *de simpliciter ente* receive `Proper=Yes` for being used as a sort of title (as the posteriorly edited upper-case *d* suggests), but they otherwise form a regular phrase, syntactically undistinguishable from others.
 * [...] *Ovidius dicit in quinto **Metamorfoseos*** [...] 'Ovidius says in the fifth [book] of his *Metamorphoses*' (Dante, *De vulgari eloquentia*)
     *  *metamorphosis* 'metamorphosis' is a common noun regularly declined in the [Greek form](la-feat/Variant) of the genitive singular, and the phrase literally means 'the fifth one about/of the metamorphosis'.
-* 
 
 
 
