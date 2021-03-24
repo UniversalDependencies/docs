@@ -2,23 +2,14 @@
 layout: relation
 title:  'nmod'
 shortdef : 'nominal modifier'
+udver: '2'
 ---
 
-*Nominal modifiers* are inflected nominals which modify most commonly a verb or a noun phrase. They can occur alone or 
-together with an postposition in an postpositional phrase. Both cases are analysed similarly, as semantically 
+*Nominal modifiers* are inflected nominals which modify another nominal.
+If they modify a clause/predicate, they are labeled [obl]() instead.
+They can occur alone or
+together with an postposition in an postpositional phrase. Both cases are analysed similarly, as semantically
 nominal modifiers and postpositional phrases are similar.
-
-`nmod` is by far the most used relation in UD Kazakh.
-
-*Postpositional phrases:*
-
-~~~ sdparse
-Азамат ағашқа қарай жүгірді . \n Azamat tree-to towards ran .
-nsubj(жүгірді-4, Азамат-1)
-case(ағашқа-2, қарай-3)
-punct(жүгірді-4, .-5)
-nmod(жүгірді-4, ағашқа-2)
-~~~
 
 *Izafet construction:*
 
