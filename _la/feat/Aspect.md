@@ -51,9 +51,11 @@ Some verbal stems show irregular variations in their imperfective forms for hist
 
 All Latin verbal stems inflect for imperfective in the active or passive [voice](la-feat/Voice) (and possibly both), with the only notable exceptions of *memini* 'to remember' and *odi* 'to hate' ("perfective" verbs), and *coepi* 'to begin'. Some verbal stems appear only in an imperfective form: *uolo* 'to want', *nolo* 'to not want', *malo* 'to prefer'.
 
-####Examples
+#### Examples
 
-* ***amo*** "I love/am loving"; ***uidebatis*** "you (pl.) were seeing"; ***capiendum*** "to be seized" 
+* ***amo*** 'I love/am loving'
+* ***uidebatis*** 'you (pl.) were seeing'
+* ***capiendum*** 'to be seized' 
 
 
 ### <a name="Inch">`Inch`</a>: inchoative aspect
@@ -95,9 +97,11 @@ For some stems displaying an inchoative form, the respective imperfective form h
 * imp. *disco* 'to learn', perf. *didici*: originally inchoative (with reduplication and zero-grade) \**di-dc-sco*, tied to the same root as *doceo* 'to teach' (perf. *docui*) 
 * imp. *cresco* 'to come into existence; to grow', intransitive, perf. *creui*: tied to the same root as *creo* 'to bring forth', originally 'to make grow', transitive (perf. *creaui*)
 
-####Examples
+#### Examples
 
-* ***albesces*** "you will become white"; ***latesce*** "go hide yourself!"; ***adulescens*** "(who/which) is growing up [hence, young person]" 
+* ***albesces*** 'you will become white'
+* ***latesce*** 'go hide yourself!'
+* ***adulescens*** '(who/which) is growing up' (hence 'young person') 
 
 ### <a name="Perf">`Perf`</a>: perfective aspect
 
@@ -128,10 +132,12 @@ Some verbs express the perfective aspect by means of suppletive forms:
 
 Some verbal stems only appear in their perfective forms:  *memini* 'to remember' and *odi* 'to hate' ("perfective" verbs), and *coepi* 'to begin'. Some verbal stems do not have a perfective form: *uolo* 'to want', *nolo* 'to not want', *malo* 'to prefer'.
 
-####Examples
+#### Examples
 
-* ***amaui*** "I have loved"; ***monueratis*** "you (pl.) had reminded"; ***captum*** "seized" 
+* ***amaui*** 'I have loved'
+* ***monueratis*** 'you (pl.) had reminded'
+* ***captum*** 'seized' 
 
-#### Other possible aspects in Latin
+### Other possible aspects in Latin
 
 It might be argued that the nominal forms of gerundive/gerund and future participle do not actually express the imperfective and perfective aspect respectively, but are instead instances of some other aspects tied to the notion of relative, immediate future and/or necessity, like e.g. the prospective aspect. For the moment, however, they keep the imperfective/perfective labels in the annotation.

@@ -63,6 +63,14 @@ Ablative | *rosā* | *rosis*
 
 In other Indo-European branches: gr. *θάλασσα*, icel. *borg*, lith. *gatvė*
 
+#### Examples
+
+* ***rosam*** 'rose (acc. sing. f.)'
+* ***piratae*** 'of/to a pirate (gen./dat. sing. m.); pirates (nom./voc. plur. m.)'
+* ***mystes*** 'priest of secret rites (nom. sing. m.)' ([Greek](la-feat/Variant) variant)
+* ***pulchrā*** 'beautiful (nom./voc./abl. sing. f.)'
+* ***facillimarum*** 'most simple (gen. plur. f.)' 
+
 ### <a name="IndEurO">`IndEurO`</a>: second declension
 
 Originating from stems terminating in *-e/o*. Mostly tied to the masculine and neuter genders, but some feminine [nouns](la-pos/NOUN) in *-us* (mostly tree names) exist. First-class [adjectives](la-pos/ADJ) (including perfect and future [participles](la-feat/VerbForm) and gerundives/gerunds) and all [superlative](la-feat/Degree) forms follow the second declension in the masculine and neuter.
@@ -76,10 +84,18 @@ Genitive   | *lupi* | *luporum* | *templi* | *templorum*
 Dative  | *lupo* | *lupis* | *templo* | *templis* 
 Accusative   | *lupum* | *lupos* | *templum* | *templa* 
 Vocative   | *lupe* | *lupi* | *templum* | *templa* 
-Ablative | *lupo* | *lupis* | *templis* | *templis* 
+Ablative | *lupo* | *lupis* | *templo* | *templis* 
 
 
 In other Indo-European branches: gr. *άνθρωπος*, icel. *íslenskur*, lith. *miškas*
+
+#### Examples
+
+* ***lupum*** 'wolf (acc. sing. m.)'
+* ***scutorum*** 'of shields (gen. plur. n.)'
+* ***melos*** 'tune (nom./acc. sing. n.)' ([Greek](la-feat/Variant) variant)
+* ***pulchro*** 'beautiful (dat./abl. sing. m./n.)'
+* ***facillimorum*** 'most simple (gen. plur. m./n.)' 
 
 ### <a name="IndEurX">`IndEurX`</a>: third declension (consonant stems)
 
@@ -99,6 +115,14 @@ Ablative | *rege* | *regibus* | *tempore* | *temporibus*
 
 In other Indo-European branches: gr. *θώραξ*, icel. *maður*. lith. *sesuo*
 
+#### Examples
+
+* ***imperatorem*** 'emperor (acc. sing. m.)', nom. sing. *imperator*
+* ***artificibus*** 'to/from masters of the art (dat./abl. plur. m.)', nom. sing. *artifex*
+* ***uiscera*** 'entrails (nom./acc. plur. n.)' , nom. sing. *viscus*
+* ***pulchriores*** 'more beautiful (nom./acc. plur. m./f.)'
+* ***ueteri*** 'old (dat. sing. m./f./n.)' 
+
 ### <a name="IndEurI">`IndEurI`</a>: third declension (*i* stems)
 
 Originating from stems terminating in *-i*. Every gender is represented. Nearly all second-class [adjectives](la-pos/ADJ) (including present [participles](la-feat/VerbForm)), some determiners and some numerals also follow this declension.
@@ -114,6 +138,14 @@ Accusative   | *ciuem* | *ciues* | *animal* | *animalia*
 Vocative   | *ciuis* | *ciues* | *animal* | *animalia* 
 Ablative | *ciue* | *ciuibus* | *animali* | *animalibus* 
 
+#### Examples
+
+* ***ciuem*** 'citizen (acc. sing. m./f.)', nom. sing. *ciuis*
+* ***marĭa*** 'seas (nom./acc. plur. n.)', nom. sing. *mare*
+* ***apocalypseon*** 'of apocalypses (gen. plur. f.)' ([Greek](la-feat/Variant) variant), nom. sing. *apocalypsis*
+* ***possibili*** 'possible (abl./dat. sing. m./f./n.)', nom. sing. *possibilis*
+* ***omnis*** 'all (nom./voc. sing. m./f., gen. sing. m./f./n.)' 
+* ***tribus*** 'three (dat./abl. plur. m./f./n.)', nom. sing. m./f. *tres*
 
 ### <a name="IndEurU">`IndEurU`</a>: fourth declension
 
@@ -133,6 +165,11 @@ Ablative | *fructū* | *fructibus* | *cornū* | *cornibus*
 
 In other Indo-European branches: lith. *Vilnius*
 
+#### Examples
+
+* ***manuum*** 'of hands (gen. plur. f.)'
+* ***acubus*** 'to/from needles' (dat./abl. plur. f.)
+
 ### <a name="IndEurE">`IndEurE`</a>: fifth declension
 
 Originating from stems terminating in *-e*. Pretty much restricted to feminine [nouns](la-pos/ADJ).
@@ -148,6 +185,9 @@ Accusative   | *rem* | *res*
 Vocative   | *res* | *res*
 Ablative | *re* | *rebus* 
 
+#### Examples
+
+* ***barbariei*** 'of/to a foreign country (gen./dat. sing. f.)'
 
 ### <a name="LatPron">`LatPron`</a>: pronominal declension
 
@@ -163,6 +203,10 @@ Dative  | ***cui*** | *quibus*
 Accusative   | *quem*, *quam*, *quod* | *quos*, *quas*, *quae*
 Ablative | *quo*, *qua*, *quo* | *quibus* 
 
+#### Examples
+
+* ***solius*** 'only (gen. sing. m./f./n.)'
+* ***illis*** 'those (dat./abl. plur. m./f./n.)'
 
 ### <a name="LatA">`LatA`</a>: first conjugation
 
@@ -183,6 +227,10 @@ Present participle  | *amans*
 Gerundive  | *amandus* 
 Infinitive   | *amare* 
 
+#### Examples
+
+* ***amaui*** 'I have loved'
+
 ### <a name="LatE">`LatE`</a>: second conjugation
 
 Stems with thematic vowel *e* (resulting from the convergence of different verbal stems).
@@ -201,6 +249,10 @@ Future imperative  | *uideto*
 Present participle  | *uidens* 
 Gerundive  | *uidendus* 
 Infinitive   | *uidere* 
+
+#### Examples
+
+* ***uīdi*** 'I have seen'
 
 ### <a name="LatX">`LatX`</a>: third conjugation
 
@@ -221,6 +273,10 @@ Present participle  | *legens*
 Gerundive  | *legendus* 
 Infinitive   | *legĕre* 
 
+#### Examples
+
+* ***lēgi*** 'I have read'
+
 ### <a name="LatI">`LatI`</a>: fourth conjugation
 
 Stems with thematic vowel *i* (resulting from the convergence of different verbal stems).
@@ -240,6 +296,10 @@ Present participle  | *audiens*
 Gerundive  | *audiendus* 
 Infinitive   | *audire* 
 
+#### Examples
+
+* ***audiui*** 'I have heard'
+
 ### <a name="LatI2">`LatI2`</a>: mixed conjugation
 
 The "fifth" or "mixed" conjugation arose from the fourth conjugation on the basis of rythmical grounds, and differs from it only with regard to few forms.
@@ -258,6 +318,10 @@ Future imperative  | *capĭto*
 Present participle  | *acapiens* 
 Gerundive  | *capiendus* 
 Infinitive   | *capĕre* 
+
+#### Examples
+
+* ***cēpi*** 'I have seized'
 
 ### <a name="LatAnom">`LatAnom`</a>: anomalous inflection
 
@@ -288,18 +352,25 @@ Present participle  | *uolens*
 Infinitive   | *uelle* 
 
 
+#### Examples
+
+* ***tibi*** 'to you (dat. sing.)', nom. sing. *tu*
+* ***fert*** '(he/she/it) carries', 1st pers. sing. ind. pres. act. *fero*
+
 
 ### <a name="Ind">`Ind`</a>: indeclinable
 
 A word belonging to a part of speech whose members are usually expected to inflect, but which itself does not (or is never attested in more than one form), receives the value `Ind`. At the same time, it is not marked for [case](la-feat/Case), but it might still retain [gender](la-feat/Gender) and/or [number](la-feat/Number) if it is a (proper) noun. The [infinitives](la-feat/VerbForm), as verbal nouns, are indeclinable.
 
-Most nominal parts of speech are also represented by some indeclinable members to a greater or lesser extent. It is not uncommon for these latter, especially for nouns, to be foreign loanwords. Sometimes, such words appear both as indeclinable and as inflected forms (e.g. *Adam* can be either indeclinable, or associated to the first declension, taking genitive *Adae* etc.). Some examples:
+Most nominal parts of speech are also represented by some indeclinable members to a greater or lesser extent. It is not uncommon for these latter, especially for nouns, to be foreign loanwords. Sometimes, such words appear both as indeclinable and as inflected forms (e.g. *Adam* can be either indeclinable, or associated to the first declension, taking genitive *Adae* etc.).
 
-* **Proper noun**: *Ierusalem* 'Jerusalem'
-* **Noun**: *fas* 'divine law'
-* **Adjective**: *nequam* 'worthless'
-* **Determiner**: *tot* 'so many'
-* **Numeral**: *quattuor* 'four'
+#### Examples
+
+* ***Ierusalem*** 'Jerusalem' (Proper noun) 
+* ***fas*** 'divine law' (Noun) 
+* ***nequam*** 'worthless' (Adjective) 
+* ***tot*** 'so many' (Determiner)
+* ***quattuor*** 'four' (Numeral) 
 
 There seem to be no indeclinable finite forms of verbs nor pronouns. 
 

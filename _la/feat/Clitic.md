@@ -12,7 +12,7 @@ udver: '2'
 </tr>
 </table>
 
-This is a binary (yes/no) lexical feature that is only annotated when its value is `Yes`.
+This is a binary (yes/no) feature that is only annotated when its value is `Yes`.
 
 ### <a name="Yes">`Yes`</a>: word appearing as a clitic
 
@@ -26,7 +26,7 @@ It might happen that the same combination of words is written differently in dif
 
 Derivational morphemes or other elements which are not syntactically independent never determine the splitting of a token or the annotation of the `Clitic` feature.
 
-####Examples
+#### Examples
 
 * *me**cum*** 'with me', split as *me*-*cum*: *cum* is a clitic [postposition](la-feat/AdpType) (`ADP`) depending on *me* as `case`
     * normally occurs independently, this is a crystallized construction with personal pronouns
@@ -34,5 +34,4 @@ Derivational morphemes or other elements which are not syntactically independent
     * usually occurs independently, but it can appear as a clitic with personal pronouns 
 * *populus**que*** 'and the people', split as *populus*-*que*: *que* is a clitic [co-ordinating conjunction](la-pos/CCONJ) (`CCONJ`) and depends on the given phrase/clause head as `cc`
     * *que* appears only as a bound element; it has become grammaticalised in some words
-* 
 

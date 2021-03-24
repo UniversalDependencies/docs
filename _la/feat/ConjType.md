@@ -22,7 +22,7 @@ Such conjunctions usually originate from relative elements (e.g. *quam*, related
 
 Note: the `Cmpr` value has been preferred over `Comp`, so as to parallel the `:cmpr` subrelation for clauses.
 
-####Examples
+#### Examples
 
 In the following sentences, comparative conjunctions (and their equivalents in translation) are highlighted with bold typeface.
 
