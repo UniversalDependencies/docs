@@ -23,9 +23,18 @@ udver: '2'
 
 * Lexical roots in Tupinambá are tagged either as NOUN or VERB, but NOUNS, due to the types of constructions are more frequent. VERB is only the case when transitive verbs are third person. The lexical root in the *gerund* [(VerbForm=Ger)](https://universaldependencies.org/u/feat/VerbForm.html) is also marked as VERB.
 
-* Verbs are marked for [aspect](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Aspect.md): `Compl` (completive) and `Iter` (Iterative).
+* Verbs are marked for [aspect](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Aspect.md): `Compl` (completive), `Iter` (Iterative).
+
+* Verbs are also marked for [mood](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Mood.md): `Perm` (permissive), `Subj` (subjunctive).
+
+* Lexical roots may be [reduplicated](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Red.md) in two differentways: 
+monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The modify the aspect of the verb in different ways: disylabic reduplication indicate the repetition or duration of an action; monosylabic reduplication indicates iteration of the action.
+Nouns may also be reduplicated in both ways denoting: plurality, collectivity, superlativity, and other semantic nuances. Numerals may also be reduplicated in order to indicate distribution. 
 
 * Nouns are also marked for tense.
+
+* As an omnipredicative language, lexical roots in Tupinambá are existential predicates. In order to function as arguments, the referential marker (a  ̴ ∅), is marked as Case (`Case=Ref`) despite its function being nothing like that of nominal cases.
+
 
 
 ### Tags
@@ -54,8 +63,6 @@ Mapping UPOS to XPOS for Tupinambá:
 
 ---
 
-* The (de)verbal forms used, are: 
-* Since Tupinambá is an omnipredicative language, the referential, marker (a  ̴ ∅) is marked as Case (`Case=Ref`) in the treebank, despite its function, which is nothing like that of nominal cases. This marker allows lexical roots to function as arguments of predicates.
 
 ---
 
@@ -70,27 +77,12 @@ Mapping UPOS to XPOS for Tupinambá:
 * Tupinambá is reach in nominalizations. Lexical roots can be nominalized by suffixes that receive the following features: nominalizatin of circusntance `Nomzr=Circ` (*-saβ* 'thing, way of VERB'), deverbal passive nominalization `Nomzr=DevPass` (*-pɨr* 'one that is VERB past participle'), `Nomzr=Ag`(*-sar* 'the VERB-_er_').
 
 ---
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
 ---
 
 ## Syntax
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
-As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate, as in the example below:
-
-```
-asepjak 
-
-a-s-epjak
-
-1.SG-3-see
-
-I see her/him/it/them
-```
-
-This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
 
 
 
