@@ -15,8 +15,8 @@ In accordance with the universal recommendations on delimiting [determiners](htt
 
 #### Examples
 
-* _njegov_ "his", _njen_ "her", _naš_ "our", _njihov_ "their"_, _moj_ "my"_, _vaš_ "your" etc. 
-* _ta_ "this", _tisti_ "that", _takšen_ "such", _tak_ "such"_, _tolikšen_ "so big" etc.
+* _njegov_ "his", _njen_ "her", _naš_ "our", _njihov_ "their", _moj_ "my", _vaš_ "your" etc. 
+* _ta_ "this", _tisti_ "that", _takšen_ "such", _tak_ "such", _tolikšen_ "so big" etc.
 * _ves_ "all", _vsak_ "each", _oba_ "both", _vsakršen_ "any"
 * _svoj_ "one's own" 
 * _nekateri_ "some", _nek_ "some kind", _isti_ "identical", _enak_ "same", _mnog_ "many" 
