@@ -20,7 +20,7 @@ obl:own(бар, Сізде)
 amod(бөлмелер, бос)
 nsubj(бар, бөлмелер)
 discourse(бар, ма)
-punct(бар, ?)
+punct(бар, ?-6)
 ~~~
 
 “We have no empty rooms.”
@@ -30,7 +30,7 @@ punct(бар, ?)
 obl:own(жоқ, Бізде)
 amod(бөлмелер, бос)
 nsubj(жоқ, бөлмелер)
-punct(жоқ, ?)
+punct(жоқ, .-5)
 ~~~
 
 <!-- Interlanguage links updated Čt lis 12 09:43:34 CET 2020 -->
