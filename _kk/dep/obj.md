@@ -1,6 +1,6 @@
 ---
 layout: relation
-title:  'dobj'
+title:  'obj'
 shortdef : 'direct object'
 udver: '2'
 ---
