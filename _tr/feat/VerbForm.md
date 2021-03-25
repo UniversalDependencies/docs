@@ -15,8 +15,8 @@ udver: '2'
 </tr>
 </table>
 
-The feature `VerbForm` can be used for verbal or deverbal elements in matrix and embedded clauses. 
-As of now, Turkish treebanks make us of  `Conv`, `Fin`, `Part`, and `Vnoun`. 
+The feature `VerbForm` can be used for verbal or deverbal elements in matrix and embedded clauses.
+As of now, Turkish treebanks make us of  `Conv`, `Fin`, `Part`, and `Vnoun`.
 
 
 ### <a name="Conv">`Conv`</a>: converb
@@ -32,11 +32,11 @@ is a non-finite verb form that shares properties of verbs and adverbs.
 - _okuyunca anlayacaksın_ "You will understand when you read it"
 
 
-### <a name="Fin">`Fin`</a>: participle
+### <a name="Fin">`Fin`</a>: finite verb
 
-Verbs that are marked for ([Mood]()), tense ([Tense]()) or 
+Verbs that are marked for ([Mood]()), tense ([Tense]()) or
 person ([Person]()) are finite and are assigned the `VerbForm` value `Fin`.
-Either embedded or matrix verbs can be finite. 
+Either embedded or matrix verbs can be finite.
 Rule of thumb: If the verb and all of its dependents can be uttered alone without a conversational context, the verb should be finite.
 
 #### Examples
