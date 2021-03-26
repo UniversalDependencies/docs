@@ -62,7 +62,10 @@ we treat the word like a verbal noun.
 
 ### <a name="Vnoun">`Vnoun`</a>: verbal noun
 
-Verbal nouns are derived from verbs. Such words in Turkish take the following suffixes: -mA, -(y)Iş, -DIK, -(y)AcAK, -mAK
+Verbal nouns are derived from verbs. Such words in Turkish take the following suffixes:
+_-mA, -(y)Iş, -DIK, -(y)AcAK, -mAK._ Note that the forms with _-mAK_ are often called
+the **infinitive** (Göksel and Kerslake, p. 412) and used as the citation form of the
+verb. Nevertheless, we annotate them as `VerbForm=Vnoun`, not `Inf`.
 
 #### Examples
 
