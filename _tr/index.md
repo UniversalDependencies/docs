@@ -42,7 +42,7 @@ e.g., 'reflexive voice' which is marked using language specific value ``Voice=Rf
 Another open issue is multiple values for certain UD morphological features.
 For example, a _gelemeselerdi_ "if they were not able to come_ expresses
 two different modalities, requiring assigning both ``Pot`` and ``Cnd``
-to the [Mood](feat/mood) feature.
+to the [Mood]() feature.
 Currently these multiple features are expressed
 by concatenating the values together in alphabetic order,
 resulting in feature-value pairs like ``Mood=CndPot``.
