@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Plur">Plur</a></td>
-  <td><a href="#Coll">Loc</a></td>
+  <td><a href="#Sing">Sing</a></td>
 
   
 
@@ -25,6 +25,14 @@ Several entities or objects
 #### Examples
 
 * _<b>a'e wà</b>&nbsp;_ “They”
+
+### <a name="Sing">`Sing`</a>: Singular 
+
+One entity or object
+
+#### Examples
+
+* _<b>ihe</b>&nbsp;_ “I”
   
 </tr>
 </table>

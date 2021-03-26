@@ -12,13 +12,27 @@ udver: '2'
   <td><a href="#Ref">Ref</a></td>
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Tra">Tra</a></td>
-  
+  <td><a href="#Per">Per</a></td>
+  <td><a href="#All">All</a></td>
   
 
 </tr>
 </table>
 
 `Case`  
+
+
+### <a name="All">`All`</a>: Allative 
+
+is used for the referential marker (also called argumentative). It allows lexical roots, all of which are predicates 
+in Tupinambá, to funcion as arguments of predicates or allow them to be referential.
+
+#### Examples
+
+
+* _<b>ɨβɨtɨr-(ɨ)-pe</b>&nbsp;_ “To the mountain”
+
+
 
 ### <a name="Ref">`Ref`</a>: Referential (Argumentative)
 
@@ -30,8 +44,7 @@ in Tupinambá, to funcion as arguments of predicates or allow them to be referen
 * _<b>t-uβ</b>&nbsp;_ “father (existential predicate)”
 * _<b>t-uβ-a</b>&nbsp;_ “A/the father”
   
-</tr>
-</table>
+
 
 
 
@@ -44,6 +57,7 @@ there are three locative cases in Tupinambá
 * _<b>ok-(ɨ)-pe</b>&nbsp;_ “In the house”
 
 
+
 ### <a name="Tra">`Tra`</a>: Traslative
 
 Traslative
@@ -51,6 +65,16 @@ Traslative
 #### Examples
 
 * _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
+
+
+### <a name="Per">`Per`</a>: Perlative
+
+TraslatPerlativeive
+
+#### Examples
+
+* _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
+
 
 
 

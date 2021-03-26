@@ -5,6 +5,7 @@ shortdef : 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "kk/dep/aux.html"
+udver: '2'
 ---
 
 In Kazakh, only a closed list of verbs can act as auxiliaries. These are words
@@ -38,13 +39,13 @@ Note: Some of these are ambiguous with lexical verbs.
 ~~~ sdparse
 Ол терезеден Азамат пен Айгүлдің ойнағанына қарап тұр . \n She window-through Azamat and Aygül's playing watching stands .
 nsubj(қарап-7, Ол-1)
-nsubj(ойнағанына-6, Айгүлдің-5)
+obl(қарап-7, терезеден-2)
+nsubj(ойнағанына-6, Азамат-3)
+conj(Азамат-3, Айгүлдің-5)
+cc(Айгүлдің-5, пен-4)
+ccomp(қарап-7, ойнағанына-6)
 aux(қарап-7, тұр-8)
 punct(қарап-7, .-9)
-nmod(қарап-7, терезеден-2)
-cc(Айгүлдің-5, пен-4)
-conj(Азамат-3, пен-4)
-ccomp(қарап-7, ойнағанына-6)
 ~~~
 
 <!-- Interlanguage links updated Čt lis 12 09:43:14 CET 2020 -->

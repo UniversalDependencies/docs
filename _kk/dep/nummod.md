@@ -2,10 +2,11 @@
 layout: relation
 title: 'nummod'
 shortdef : 'numeric modifier'
+udver: '2'
 ---
 
 *Numeric modifiers* of a noun or NP, when they function as quantifiers
-are marked with the `nummod` dependency type. 
+are marked with the `nummod` dependency type.
 
 Ordinal numbers should get the `amod` type.
 
@@ -19,7 +20,7 @@ amod(ел-9, бесінші-8)
 
 Another example:
 
-~~~ sdparse 
+~~~ sdparse
 Баба-атаға да үш күн түнеді . \n Baba-ata-to also three days slept-over .
 nummod(күн-4, үш-3)
 ~~~

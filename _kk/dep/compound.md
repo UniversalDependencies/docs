@@ -2,6 +2,7 @@
 layout: relation
 title:  'compound'
 shortdef : 'compound'
+udver: '2'
 ---
 
 `compound` is one of the three UD relations UD for compounding,
@@ -12,7 +13,7 @@ Nouns should modify appropriate noun in the compound in order to respect the bra
 Most uses of attr will be tagged with compound.
 
 ~~~ sdparse
-Қазақстан көрші елдерге үлгі бола алады . \n Kazakhstan neighbour countries-to example be can . 
+Қазақстан көрші елдерге үлгі бола алады . \n Kazakhstan neighbour countries-to example be can .
 compound(елдерге-3, көрші-2)
 nsubj(бола-5, Қазақстан-1)
 aux(бола-5, алады-6)
@@ -40,4 +41,5 @@ nsubj(түседі-9, доллары-8)
 compound(миллиард-6, 16,3-5)
 punct(түседі-9, .-10)
 ~~~
+
 <!-- Interlanguage links updated Čt lis 12 09:43:18 CET 2020 -->
