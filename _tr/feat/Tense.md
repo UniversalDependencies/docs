@@ -87,6 +87,11 @@ began or has begun to happen recurrently, or as a matter of habit:
 
 DZ: The form _gider_, which example (194) from Göksel and Kerslake shows as aorist, is indicated
 above on this documentation page as one of the forms of the present tense.
+
+In their Glossary on page 548, Göksel and Kerslake define aorist as follows:
+a **finite verb form** marked by the suffix _-(A/I)r_ (or its negative counterpart _-z_);
+the aorist expresses either habitual aspect or various kinds of modality: generalizing,
+hypothetical, presumptive (with future time reference) or volitional
 -->
 
 <!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
