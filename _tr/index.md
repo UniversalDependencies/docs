@@ -60,6 +60,11 @@ and [Turkish features](feat/index.html).
 * The question particle _mI_ is tagged as ``AUX``.
 * The copular suffix -_(y)_-, which is treated as a syntactic word, and its clitic counterpart _i-_ is marked as AUX.
 * Treatment of auxiliary/copula _ol_ differs among different treebanks.
+* There are four main (de)verbal forms, distinguished by the value of the [VerbForm]() feature:
+  * Finite verb `Fin`.
+  * Participle `Part`.
+  * Converb `Conv`.
+  * Verbal noun `Vnoun` (it includes the citation forms with _-mak_, sometimes called the infinitive).
 
 ## Syntax
 
