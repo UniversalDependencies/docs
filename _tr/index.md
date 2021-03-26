@@ -90,8 +90,9 @@ see the list of [relations](dep/index.html),
 
 ## Treebanks
 
-As of v2.4, there are three treebanks, more treebanks are in progress.
+As of UD 2.7, there are [four](../treebanks/tr-comparison.html) Turkish UD treebanks, more treebanks are in progress.
 
-  * [Turkish-GB](http://coltekin.github.io/gk-treebank/)
-  * [Turkish-IMST](../treebanks/cs/index.html)
-  * [Turkish-PUD](../treebanks/cs_pud/index.html)
+  * [Turkish-BOUN](../treebanks/tr_boun/index.html)
+  * [Turkish-GB](../treebanks/tr_gb/index.html)
+  * [Turkish-IMST](../treebanks/tr_imst/index.html)
+  * [Turkish-PUD](../treebanks/tr_pud/index.html)
