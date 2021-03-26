@@ -17,6 +17,15 @@ See [tr-overview/special-syntax]() for the discussion of mapping
 relevant verbal suffixes to `Tense`, `Aspect` and `Mood` values.
 
 
+### <a name="Imp">`Imp`</a>: imperfect aspect
+
+The action took / takes / will take some time span and there is no
+information whether and when it was / will be completed.
+
+#### Examples
+
+* _yere gitmeyeceğim_ “I won't go anywhere”
+
 ### <a name="Perf">`Perf`</a>: perfect aspect
 
 The action has been / will have been completed.
