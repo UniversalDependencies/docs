@@ -14,7 +14,7 @@ The actions that happen before, during, or after a future event are expressed us
 The verbs expressing actions that happened before a reference in the past are marked with value `Pqp`.
 For events that happen during the past reference, we use `Tense=Past` with proper progressive (`Prog`) or habitual (`Hab`) [Aspect]().
 
-### <a name="Past">`Past`</a>: paste tense
+### <a name="Past">`Past`</a>: past tense
 
 Turkish past tense is realized with *-DI* or *-mIş* suffixes on verbal predicates, and  with *-(y)DI* and *-(y)mIş* suffixes on nominal predicates.
 The difference between the *-DI* and *-mIş* forms are related to evidentiality ([Evident]()) rather than `Tense`. Both morphemes refer to a (completed) past event.
