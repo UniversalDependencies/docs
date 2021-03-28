@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Coll">Coll</a></td>
   <td><a href="#Plur">Plur</a></td>
   <td><a href="#Sing">Sing</a></td>
 
@@ -17,6 +18,14 @@ udver: '2'
 </table>
 
 `Number`  
+
+### <a name="Coll">`Coll`</a>: Collective 
+
+Words that use grammatical singular to describe a set of objects
+
+#### Examples
+
+* _<b>awakwer</b>&nbsp;_ “Mankind”
 
 ### <a name="Plur">`Plur`</a>: Plural 
 
