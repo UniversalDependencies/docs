@@ -8,6 +8,8 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#All">All</a></td>
+  <td><a href="#Ben">Ben</a></td>
   <td><a href="#Ins">Ins</a></td>
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Tra">Tra</a></td>
@@ -18,6 +20,26 @@ udver: '2'
 </table>
 
 `Case`  
+
+
+### <a name="All">`All`</a>: Allative 
+
+It expresses direction to something
+
+#### Examples
+
+
+* _<b>ko-pe</b>&nbsp;_ “To the countryside”
+
+
+### <a name="Ben">`Ben`</a>: Benefactive
+
+
+
+#### Examples
+
+* _<b>wiràmiri pe</b>&nbsp;_ “For the bird”
+
 
 ### <a name="Ins">`Ins`</a>: Instrumental 
 
@@ -38,7 +60,7 @@ There are different locatives
 
 #### Examples
 
-* _<b>ko pe</b>&nbsp;_ “In the countryside”
+* _<b>a'e pe</b>&nbsp;_ “There”
 
 
 ### <a name="Tra">`Tra`</a>: Traslative
