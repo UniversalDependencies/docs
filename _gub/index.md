@@ -10,7 +10,7 @@ udver: '2'
 
 * In general, words are delimited by whitespace characters. Description of exceptions follows.
 * According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words);
-* There are no adjectives in Tupinambá. Modification is made by composition, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ* (*kuɲã* 'woman' + *poraŋ* 'beauty'). Such words are treated as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation).
+* There are no adjectives in Guajajara. Modification is made by composition, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ* (*kuɲã* 'woman' + *poraŋ* 'beauty'). Such words are treated as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation).
 
 
 
@@ -19,7 +19,7 @@ udver: '2'
 ## Morphology
 
 * Guajajara nouns are not marked for gender. Number is optionally marked.
-* Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra` and `Loc`. There different locatives, which areasigned the following features: `Case=LocPunc` (punctual locative), `CASE=LocDif` (diffuse locative).
+* Nouns can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra` and `Loc`. There different locatives, which areasigned the following features: `Case=LocPunc` (punctual locative), `CASE=LocDif` (diffuse locative).
 * What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to the nominalization of a predicate and the fronting of an adverbial expression. The nominalized form of the verb takes `Nomz=Circ` as feature and value.
 
 
@@ -40,10 +40,10 @@ Mapping UPOS to XPOS Guajajara
  NOUN  | n        |
  PROPN | ppn      |
  VERB  | v, vi, vt|
- ADP   | pp       |
+ ADP   | posp     |
  AUX   | aux      |
  CCONJ | cc       |
- DET   | det      |
+ DET   | dem      |
  NUM   | num      |
  PART  | pcl      |
  PRON  | pro      |
@@ -59,9 +59,9 @@ Mapping UPOS to XPOS Guajajara
 ### Features
 
 * The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or rletional indicates that a possessor is not present, neither contiguously or non-contiguously. This relational is tagged `Rel=Abs`, for relational absolute. 
-* As a head marking language, Tupinambá cross-references arguments on the predicate, mostly when the object is third person: *a-s-epjak* 1.SG-3-see 'I see him'. The [PERSON](https://universaldependencies.org/u/feat/Person.html) feature in this case will be `Person=33`.
-* The protmanteau markers, 1 -> 2 are asigned the [PERSON](https://universaldependencies.org/u/feat/Person.html) feature `Person12Sg` and `Person12Pl`.
-* Tupinambá is reach in nominalizations. Lxical roots can be nominalized by suffixes that receive the following features: nominalizatin of circusntance `Nomzr=Circ` (*-saβ* 'thing, way of VERB'), deverbal passive nominalization `Nomzr=DevPass` (*-pɨr* 'one that is VERB').
+* As a head marking language, Guajajara cross-references arguments on the predicate, mostly when the object is third person: *u-Z-akook* 3-3-empty 'He empty it'. The [PERSON](https://universaldependencies.org/u/feat/Person.html) feature in this case will be `Person=33`.
+* The protmanteau markers, 1 -> 2 are asigned the [PERSON](https://universaldependencies.org/u/feat/Person.html) feature `Person=12Sg` and `Person=12Pl`.
+* Guajajara is reach in nominalizations. Lexical roots can be nominalized by suffixes that receive the following features: nominalization of circumstance `Nomzr=Circ` (*-saβ* 'thing, way of VERB'), deverbal passive nominalization `Nomzr=DevPass` (*-pɨr* 'one that is VERB').
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
@@ -75,13 +75,13 @@ Mapping UPOS to XPOS Guajajara
 As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate, as in the example below:
 
 ```
-asepjak 
+uzakook
 
-a-s-epjak
+u-Z-akook
 
-1.SG-3-see
+3-3-empty
 
-I see her/him/it/them
+He/She/They empty it/them
 ```
 
 This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
