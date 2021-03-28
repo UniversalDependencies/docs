@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#All">All</a></td>
   <td><a href="#Ben">Ben</a></td>
+  <td><a href="#Dat">Dat</a></td>
   <td><a href="#Ins">Ins</a></td>
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Tra">Tra</a></td>
@@ -39,6 +40,15 @@ It expresses direction to something
 #### Examples
 
 * _<b>wiràmiri pe</b>&nbsp;_ “For the bird”
+
+
+### <a name="Dat">`Dat`</a>: Dative
+
+This is the word form used for indirect objects of verbs.
+
+#### Examples
+
+* _<b>Nuzapo pixik kwaw agwer ma'e amo ae awa pe</b>&nbsp;_ “He never did this kind of things to any other man”
 
 
 ### <a name="Ins">`Ins`</a>: Instrumental 
