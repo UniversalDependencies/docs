@@ -25,6 +25,8 @@ For adjectives, only the short form is explicitly annotated while the standard l
 
 Some personal pronouns have double forms.
 
+#### Examples
+
 * _<b>mnie</b>_ “me”
 
 ### <a name="Short">`Short`</a>: short form of adjectives or personal pronouns
