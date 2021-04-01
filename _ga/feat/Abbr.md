@@ -1,7 +1,7 @@
---
+---
 layout: feature
 title: 'Abbr'
-shortdef: 'abbreviation'
+shortdef: 'abbrev'
 udver: '2'
 ---
 
