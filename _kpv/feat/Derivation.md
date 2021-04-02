@@ -60,6 +60,14 @@ Produces converb.
 
 * [kpv] _чӧвтігкостаныс_ "in between keeping silent"
 
+### <a name="Igkosti">`Igkosti`</a>: derivation with suffix -игкості/-ігкості
+
+Produces converb, which may be a variant of `Igkost`.
+
+#### Examples
+
+* [kpv] _чукӧртчигкості_ "while gathering"
+
 ### <a name="Igmoz">`Igmoz`</a>: derivation with suffix -игмоз/-ігмоз
 
 Produces converb.
@@ -176,6 +184,14 @@ Produces converbs.
 #### Examples
 
 * [kpv] _повтӧг_ "without fearing"
+
+### <a name="Voc">`Voc`</a>: derivation with suffix -ӧ
+
+Produces vocative with nouns.
+
+#### Examples
+
+* [kpv] _нылӧ_ "hey girl"
 
 ### <a name="VTer">`VTer`</a>: derivation with suffix -тӧдз
 

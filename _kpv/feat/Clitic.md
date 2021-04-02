@@ -20,6 +20,14 @@ Expresses question _do you think_.
 
 * [kpv] _Тун кӧ тайӧ нывбабаыс-<b>а</b>?_ "If this woman is a witch, <b>you think</b>?"
 
+### <a name="Add">`Add`</a>: -а
+
+Is an additive expressing focus _too/also_.
+
+#### Examples
+
+* [kpv] _Петас, вокъяс, шонді-<b>й</b> тан!_ "Hey brothers, the sun is going to come out here, <b>too</b>!
+
 ### <a name="O">`O`</a>: -ӧ
 
 Expresses question _whether_.
