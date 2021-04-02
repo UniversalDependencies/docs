@@ -1,19 +1,20 @@
 ---
 layout: relation
-title: 'advmod:lfrom'
-shortdef: 'advmod with locative from modality'
+title: 'advmod:lto'
+shortdef: 'advmod with locative to modality'
 udver: '2'
 ---
 
-The _advmod:lto_ relation is used for adverbal modifiers with locative from, i.e. direction from modality.
-This is distinguished from other locative dependency relations advmod:lmod, advmod:lto and advmod:lmp,
-which generally indicate locative, goal and path, respectively.
+The _advmod:lto_ relation is used for adverbal modifiers with locative to, i.e. direction to modality.
+This is distinguished from other locative dependency relations advmod:lmod, advmod:lfrom and advmod:lmp,
+which generally indicate locative, source and path, respectively, see also `obl:lfrom`.
 
 ~~~ sdparse
-Кытысь лэбыштас выльысь? \n Where is he/she/it going to fly in from again?
-advmod:lfrom(лэбыштас, Кытысь)
-advmod:tmod(лэбыштас, выльысь)
-punct(лэбыштас, ?)
+Ӧтияс ӧтарӧ котӧртӧны, мӧдъяс — мӧдарӧ,... \n Some are running one way, the others the other,...
+nsubj(котӧртӧны, Ӧтияс)
+advmod:lto(котӧртӧны, ӧтарӧ)
+conj(котӧртӧны, мӧдъяс)
+orphan(мӧдъяс, мӧдарӧ)
 ~~~
 
 <!-- Interlanguage links updated Čt lis 12 09:43:27 CET 2020 -->
