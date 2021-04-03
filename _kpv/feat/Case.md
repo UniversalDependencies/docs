@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#Acc">Acc</a></td>
+  <td><a href="#Adp">Adp</a></td>
   <td><a href="#Apr">Apr</a></td>
   <td><a href="#AprEgr">AprEgr</a></td>
   <td><a href="#AprEla">AprEla</a></td>
@@ -59,6 +60,17 @@ The ablative case expresses possessor of object.
 #### Examples
 
 * [kpv] _босьті <b>ёртлысь</b> небӧгсӧ_ "I took <b>a friend's</b> book"
+
+### <a name="Adp">`Adp`</a>: adpositional
+
+The adpositional case indicates special form of third person pronouns with adpositions.
+This is analogous to the PrepCase found in cs `Pre` prepositional case, which is realized in pronouns there.
+Although the forms <сы> and <на> are standard, there are occasional instances of <сійӧ> and <найӧ> occuring before
+adpositions.
+
+#### Examples
+
+* [kpv] _<b>сы</b> вӧсна_ "for <b>it</b>"
 
 ### <a name="Apr">`Apr`</a>: approximative
 

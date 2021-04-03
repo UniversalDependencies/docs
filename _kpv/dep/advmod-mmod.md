@@ -1,15 +1,18 @@
 ---
 layout: relation
 title: 'advmod:mmod'
-shortdef: 'advmod with locative modality'
+shortdef: 'advmod indicating manner'
 udver: '2'
 ---
 
-The _advmod:mmod_ relation is used for adverbal modal modifiers.
+The _advmod:mmod_ relation is used for adverbal modifiers indicating manner.
+An extensive set of manner adverbs can be directly derived from adjectives through <-а>.
 
 ~~~ sdparse
-Ӧд мунны колӧ бура унакодь на. \n As you know, there is still a good way to go.
-advmod:mmod(колӧ, Ӧд)
+сійӧ зэв тэрыба котӧртіс. \n he ran very quickly.
+nsubj(котӧртіс, сійӧ)
+advmod:mmod(котӧртіс, тэрыба)
+advmod:deg(тэрыба, зэв)
 
 ~~~
 

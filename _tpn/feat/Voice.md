@@ -1,24 +1,33 @@
 ---
 layout: feature
-title: 'Mood'
-shortdef: 'mood'
+title: 'Voice'
+shortdef: 'voice'
 udver: '2'
 ---
 
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Perm">Perm</a></td>
-  <td><a href="#Sub">Sub</a></td>
-  <td><a href="#Cnd">Cnd</a></td>
+  <td><a href="#Com">Perm</a></td>
+  <td><a href="#Cau">Sub</a></td>
   
   
 </tr>
 </table>
 
-`Mood` is a 
+`Voice` is a 
 
-### <a name="Perm">`Perm`</a>: Permissive
+### <a name="Com">`Com`</a>: Comitative
+
+Contiguity is more often associated with
+
+#### Examples
+
+* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
+
+
+
+### <a name="Cau">`Cau`</a>: Causative
 
 Contiguity is more often associated with
 
@@ -29,23 +38,7 @@ Contiguity is more often associated with
 
 
 
-### <a name="Sub">`Sub`</a>: Subjunctive
 
-Contiguity is more often associated with
-
-#### Examples
-
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
-
-
-
-### <a name="Cnd">`Cnd`</a>: Permissive
-
-Contiguity is more often associated with
-
-#### Examples
-
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
 
 
 

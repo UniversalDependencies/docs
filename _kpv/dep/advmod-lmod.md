@@ -6,11 +6,14 @@ udver: '2'
 ---
 
 The _advmod:lmod_ relation is used for adverbal modifiers with locative modality.
+This is distinguished from the more specific advmod:lto, advmod:lfrom and advmod:lmp,
+which generally indicate goal, source and path, respectively.
 
 ~~~ sdparse
-Но гӧгӧр сулалысь ылі вӧръяс абу на вежсьӧмаӧсь . \n But the surrounding distant forests have not changed yet.
-advmod:lmod(сулалысь, гӧгӧр)
-
+Тані ме абу ӧтнам. \n Here I am not alone.
+advmod:lmod(ӧтнам, Тані)
+nsubj:cop(ӧтнам, ме)
+aux:neg(ӧтнам, абу)
 ~~~
 
 <!-- Interlanguage links updated Čt lis 12 09:43:27 CET 2020 -->
