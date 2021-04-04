@@ -8,7 +8,7 @@ udver: '2'
 Abbr is a boolean value feature used to indicate that the surface form is an abbreviation.
 
 
-### <a name="True">`True`</a>: Is an abbreviated form
+### <a name="Yes">`Yes`</a>: Is an abbreviated form
 
 Abbreviations in Irish take the form of initials, acronyms (incl named entities) or shortened word forms:
 

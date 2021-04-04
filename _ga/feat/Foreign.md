@@ -5,10 +5,10 @@ shortdef: 'foreign'
 udver: '2'
 ---
 
-Foreign is a boolean value feature used to indicate that the token belongs to a language other than that of the treebank. 
+Foreign is a boolean value feature used to indicate that the token belongs to a language other than that of the treebank.
 
 
-### <a name="True">`True`</a>: Is a foreign word
+### <a name="Yes">`Yes`</a>: Is a foreign word
 
 Foreign words can appear in titles, quotes, code-switching, foreign proper noun strings etc
 
