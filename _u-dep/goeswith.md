@@ -26,7 +26,7 @@ goeswith(never, less)
 ~~~
 
 ~~~ sdparse
-For get that!
+For get that !
 goeswith(For, get)
 obj(For, that)
 punct(For, !)
