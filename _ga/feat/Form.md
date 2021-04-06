@@ -4,7 +4,48 @@ title: 'Form'
 shortdef: 'Form'
 udver: '2'
 ---
-One of the characteristics of Irish is its tendency for initial mutation to occur in certain circumstances. This is triggered by the preceding word and affects the spelling of nouns, adjectives and verbs. Nouns in Irish are divided into classes according to the way they are inflected to form the genitive singular. There are five such noun-classes or declensions. (The Christian Brothers, 1994)
+Form has been introduced as a language specific feature for Irish. It covers both the morphology of direct/indirect relative markers, and initial mutation. 
+
+
+### <a name="Direct">`Direct`</a>: direct
+
+Direct relatives represent the relative marker _a_ in the following contexts:
+
+#### Examples
+(where mark:prt applies)
+*_Nuair a chonaic mé_ "when I saw"
+*_Fad a bhí sé ann_ "while he was there"
+
+
+Relative pronouns that represent a missing subject or object in the relative clause
+
+*_cé mhéad fuinnimh a bheidh le fáil_ "how much energy would be available"   (nsubj)
+*_rudaí a sheoltar ar ais_ "things that were sent back"  (obj)
+
+Cases of a that are regarded as Pronouns instead of particles (according to FGB https://www.teanglann.ie/ga/fgb/a)
+*_An bhfuair tú a bhfuil uait?_ Did you get what you wanted?  (nsubj in this case)
+
+
+### <a name="Indirect">`Indirect`</a>: indirect
+
+Indirect relatives represent the relative marker _a_ in the following contexts:
+
+#### Examples
+Relative pronouns that represent a missing oblique (PP head)
+*_an teach <b>inar</b> thug sé an chuid ba mhó dá óige_ "the house in which he spent most his youth"  (obl)
+
+Resumptive pronouns, whereby the element which is represented is actually still present in the relativised clause
+*_an scríbhneoir a molann na mic léinn é_ "the writer who the students praise"  (mark:prt)
+
+Possessive relativisers - where the a represents the missing possessor in the relativised clause
+*_An fear a raibh a mhac san ospidéal_ "the man whose son was in hospital"  (mark:prt)
+
+
+
+
+
+
+One of the characteristics of Irish is its tendency for initial mutation (eclipsis and lenition) to occur in certain circumstances. This is triggered by the preceding word and affects the spelling of nouns, adjectives and verbs. Nouns in Irish are divided into classes according to the way they are inflected to form the genitive singular. There are five such noun-classes or declensions. (The Christian Brothers, 1994)
 
 ### <a name="Ecl">`Ecl`</a>: eclipsis
 
