@@ -12,18 +12,18 @@ Form has been introduced as a language specific feature for Irish. It covers bot
 Direct relatives represent the relative marker _a_ in the following contexts:
 
 #### Examples
-(where mark:prt applies)
-*_Nuair a chonaic mé_ "when I saw"
-*_Fad a bhí sé ann_ "while he was there"
+(Relativisers where [mark:prt]() applies)
+* _Nuair <b>a</b> chonaic mé_ "when I saw"
+* _Fad <b>a</b> bhí sé ann_ "while he was there"
 
 
 Relative pronouns that represent a missing subject or object in the relative clause
 
-*_cé mhéad fuinnimh a bheidh le fáil_ "how much energy would be available"   (nsubj)
-*_rudaí a sheoltar ar ais_ "things that were sent back"  (obj)
+* _cé mhéad fuinnimh <b>a</b> bheidh le fáil_ "how much energy would be available"   (nsubj)
+* _rudaí <b>a</b> sheoltar ar ais_ "things that were sent back"  (obj)
 
 Cases of a that are regarded as Pronouns instead of particles (according to FGB https://www.teanglann.ie/ga/fgb/a)
-*_An bhfuair tú a bhfuil uait?_ Did you get what you wanted?  (nsubj in this case)
+* _An bhfuair tú <b>a</b> bhfuil uait?_ Did you get what you wanted?  (nsubj in this case)
 
 
 ### <a name="Indirect">`Indirect`</a>: indirect
@@ -32,13 +32,13 @@ Indirect relatives represent the relative marker _a_ in the following contexts:
 
 #### Examples
 Relative pronouns that represent a missing oblique (PP head)
-*_an teach <b>inar</b> thug sé an chuid ba mhó dá óige_ "the house in which he spent most his youth"  (obl)
+* _an teach <b>inar</b> thug sé an chuid ba mhó dá óige_ "the house in which he spent most his youth"  ([obl]())
 
 Resumptive pronouns, whereby the element which is represented is actually still present in the relativised clause
-*_an scríbhneoir a molann na mic léinn é_ "the writer who the students praise"  (mark:prt)
+* _an scríbhneoir <b>a</b> molann na mic léinn é_ "the writer who the students praise"  ([mark:prt]())
 
 Possessive relativisers - where the a represents the missing possessor in the relativised clause
-*_An fear a raibh a mhac san ospidéal_ "the man whose son was in hospital"  (mark:prt)
+* _An fear <b>a</b> raibh a mhac san ospidéal_ "the man whose son was in hospital"  ([mark:prt]())
 
 
 
