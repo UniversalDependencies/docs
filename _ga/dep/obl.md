@@ -17,10 +17,10 @@ If the noun is inflected as part of a pronominal preposition, then use the label
 
 #### Temporal:
 
-_Foilsíodh an chéad chuid den sraith cartún sa <b>bhliain</b> 1983_  'The first part of the cartoon series was published in the <b>year</b> 1983'
+_Foilsíodh an chéad chuid den sraith cartún sa <b>bhliain</b> 1983_  "The first part of the cartoon series was published in the <b>year</b> 1983"
 
 ~~~ sdparse
-Foilsíodh an chéad chuid den sraith cartún sa bhliain 1983 \n Was-published the first part of-the series cartoon in-the year 1983
+Foilsíodh an chéad chuid den sraith cartún sa bhliain 1983
 obl:tmod(Foilsíodh, bhliain)
 case(bhliain, sa)
 ~~~
@@ -28,36 +28,36 @@ case(bhliain, sa)
 
 #### Arguments of Adjectives:
 
-_liosta na dtríú tíortha a mbeidh a náisiúnaigh saor ón <b>gceanglas</b> sin_  'a list of the three countries whose nationals will be free from that <b>requirement</b>'
+_liosta na dtríú tíortha a mbeidh a náisiúnaigh saor ón <b>gceanglas</b> sin_  "a list of the three countries whose nationals will be free from that <b>requirement</b>"
 
 ~~~ sdparse
-liosta na dtríú tíortha a mbeidh a náisiúnaigh saor ón gceanglas sin \n list the three countries that will-be their nationals free from requirement that
+liosta na dtríú tíortha a mbeidh a náisiúnaigh saor ón gceanglas sin
 obl(saor, gceanglas)
 case(gceanglas, ón)
 ~~~ 
 
-_Níor chonaic sé na haghaidheanna smeartha le <b>snas</b> roimhe_  'He didn't see the faces smeared with <b>polish</b> before'
+_Níor chonaic sé na haghaidheanna smeartha le <b>snas</b> roimhe_  "He didn't see the faces smeared with <b>polish</b> before"
 
 ~~~ sdparse
-Níor chonaic sé na haghaidheanna smeartha le snas roimhe \n Did_not saw he the faces smeared with polish before
+Níor chonaic sé na haghaidheanna smeartha le snas roimhe
 obl(smeartha, snas)
 case(snas, le)
 ~~~ 
 
 #### Dative (verbal) arguments:
 
-_Má bhreathnaítear ar <b>Ghaillimh</b>_  'If we look at <b>Galway</b>' (If Galway is looked at)
+_Má bhreathnaítear ar <b>Ghaillimh</b>_  "If we look at <b>Galway</b>" (If Galway is looked at)
 
 ~~~ sdparse
-Má bhreathnaítear ar Ghaillimh \n If is-looked on Galway
+Má bhreathnaítear ar Ghaillimh
 obl(bhreathnaítear, Ghaillimh)
 case(Ghaillimh, ar)
 ~~~ 
 
-_Sagairt a bhí ag saothrú ar na <b>misin</b> ann a bhformhór_ 'The majority working on the missions there were priests'
+_Sagairt a bhí ag saothrú ar na <b>misin</b> ann a bhformhór_ "The majority working on the missions there were priests"
 
 ~~~ sdparse
-Sagairt a bhí ag saothrú ar na misin ann a bhformhór \n Priests it was at_working on the missions there the majority
+Sagairt a bhí ag saothrú ar na misin ann a bhformhór
 obl(saothrú, misin)
 case(misin, ar)
 ~~~ 
