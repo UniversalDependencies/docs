@@ -70,13 +70,13 @@ _Céard is féidir a dhéanamh faoi?_ "What can be done about it?"
 
 ~~~ sdparse
 Céard is féidir a dhéanamh faoi \n What be able to do about-it
-obl:prep(déanamh, faoi)
+obl:prep(dhéanamh, faoi)
 ~~~
 
 _ag briseadh ar na carraigeacha_ "breaking on the rocks"
 
 ~~~ sdparse
-ag briseadh ar na carraigeacha
+ag briseadh ar na carraigeacha \n at breaking on the rocks
 obl(briseadh, carraigeacha)
 ~~~
 
