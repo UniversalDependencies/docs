@@ -14,6 +14,7 @@ udver: '2'
   <td><a href="#Geo">Geo</a></td>
   <td><a href="#Giv">Giv</a></td>
   <td><a href="#Let">Let</a></td>
+  <td><a href="#Lit">Lit</a></td>
   <td><a href="#Nat">Nat</a></td>
   <td><a href="#Rel">Rel</a></td>
   <td><a href="#Sur">Sur</a></td>
@@ -23,7 +24,7 @@ udver: '2'
 
 The type of a named entity is applied to ([proper](la-pos/PROPN)) [nouns](la-pos/NOUN) and [adjectives](la-pos/ADJ) to broadly describe the category this nominal element is referring to. 
 
-This feature is token-based and does not take into account nested entities or additional layers of reference: this means, for example, that there is no value for titles of literary works, since these are usually made up of common nouns or other kinds of named entities. Still, the lexical feature [`Proper`](la-feat/Proper) can be used to distinguish such strings.
+This feature is token-based and does not take into account nested entities or additional layers of reference: this means, for example, that there is no value for titles of literary works, since these are usually made up of common nouns or other kinds of named entities (but see `Lit`). Still, the lexical feature [`Proper`](la-feat/Proper) can be used to distinguish such strings.
 
 ### <a name="Ast">`Ast`</a>: name of astronomical/astrological entity
 
@@ -60,12 +61,14 @@ Name of any entity formed by human social activities: a group, a company, a soci
 
 Name of any geographical entity: a city, a country, a mountain, a sea... also used for mythical or legendary places.
 
+Also used for [adjectives](la-pos/ADJ) which refer to geographical (real or mythical) features rather than to dwellers of those (it has to be said that the distinction with respect to `Nat` may be blurry at times).
 
 #### Examples
 
 * ***Roma***
 * ***Padus***, the Po river in Northern Italy
 * ***Atlantis***, the mythical island described by Plato
+* ***hadriaticus***, of/relative to the Adriatic sea (adjective: *Hadriaticum mare*)
 
 ### <a name="Giv">`Giv`</a>: given name of person
 
@@ -89,9 +92,18 @@ The name used to refer to a letter of the alphabet or any other literal characte
 * ***A***, ***B***, ***C***... (Latin letters)
 * ***alpha***, ***beta***, ***gamma***... (Greek letters)
 
+### <a name="Lit">`Lit`</a>: name of literary work
+
+Specific *name* for a literary work, different from the *title* of a book or similar, which often is a phrase consisting of common terms.
+
+#### Examples
+
+* ***Aeneis***, the Aeneid, the poem by Virgil
+* ***Vulgata***, the Latin translation of the Bible (actually a participle from *vulgata editio* 'popularised edition')
+
 ### <a name="Nat">`Nat`</a>: designation of nationality
 
-Term which indicates some kind of national or ethnic membership, or inhabitants of a particular territory. 
+Term which indicates some kind of national or ethnic membership, possibly defined by ancestry, or inhabitants of a particular territory. 
 
 In Latin, it is very often an [adjective](la-pos/ADJ), which can be used for persons and inanimated entites alike, and can be substantivised.
 
@@ -106,12 +118,15 @@ Name or term used to refer to any non-mortal and/or numinous being of a religion
 
 Mortal beings "regularly" receive the feature `Giv` instead.
 
+It can also be assigned to [adjectives](la-pos/ADJ), if they e.g. directly refer to a deity.
+
 #### Examples
 
 * ***Deus*** 'God', intended as the Christian god
 * ***Proserpina***, ***Saturnus***, Roman gods
 * ***Helius***, Greek divinity, a Titan identified with the Sun
 * ***Hercules***, demigod
+* ***saturnius*** 'belonging to Saturn (the god)' (adjective)
 
 
 ### <a name="Sur">`Sur`</a>: surname / family name of person
