@@ -20,6 +20,15 @@ participle forms, the verbal abessive in -тӧм.
 
 * [kpv] _<b>Тыдавлытӧм</b> изйыс_ "That <b>invisible</b> rock"
 
+### <a name="Pres">`Pres`</a>: Present participle
+
+The present participle is a counterpart to the Neg
+participle form. The present participle is written in -ысь.
+
+#### Examples
+
+* [kpv] _пызан вылын <b>куйлысь</b> бумагаяс_ "the papers <b>lying</b> on the table"
+
 #### References
 
 
