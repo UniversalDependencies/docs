@@ -69,6 +69,14 @@ Produces converb.
 
 * [kpv] _чӧвтігкостаныс_ "in between keeping silent"
 
+### <a name="Igkost">`Igkosta`</a>: derivation with suffix -игкоста/-ігкоста
+
+Produces converb.
+
+#### Examples
+
+* [kpv] _ но ворсны велӧдчигкостаыс_ "but while learning to play in the meantime"
+
 ### <a name="Igkosti">`Igkosti`</a>: derivation with suffix -игкості/-ігкості
 
 Produces converb, which may be a variant of `Igkost`.
