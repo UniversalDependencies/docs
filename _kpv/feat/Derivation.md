@@ -69,7 +69,7 @@ Produces converb.
 
 * [kpv] _чӧвтігкостаныс_ "in between keeping silent"
 
-### <a name="Igkost">`Igkosta`</a>: derivation with suffix -игкоста/-ігкоста
+### <a name="Igkosta">`Igkosta`</a>: derivation with suffix -игкоста/-ігкоста
 
 Produces converb.
 
