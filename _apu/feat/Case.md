@@ -12,7 +12,7 @@ udver: '2'
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Nom">Nom</a></td>
-  <td><a href="#Temp">Temp</a></td>
+  <td><a href="#Tem">Tem</a></td>
 </tr>
 </table>
 
@@ -59,7 +59,7 @@ It is used for both subject and object marking.
 
 * [apu] _<b>Ywa</b> matxaka kaiãapuku <b>maky</b>._ "He took a lot of nuts."
 
-### <a name="Temp">`Temp`</a>: temporal
+### <a name="Tem">`Tem`</a>: temporal
 
 The temporal case is used to indicate duration or point in time `-saaky`
 
