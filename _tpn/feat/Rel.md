@@ -65,7 +65,7 @@ Abslute relational indicates that the possessor
 #### Examples
 
 * _<b>m</b>osanga &nbsp;_ “medicine (of people)”
-* _<b>p</b>osanga &nbsp;_ “medicine”
+* _<b></b>posanga &nbsp;_ “medicine”
 
 
 ## Diffs
