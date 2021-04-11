@@ -17,7 +17,7 @@ udver: '2'
 
 `Plur` is a 
 
-### <a name="Sing">`SIng`</a>: Singular
+### <a name="Sing">`Sing`</a>: Singular
 
 
 
