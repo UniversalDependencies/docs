@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Cont">Cont</a></td>
   <td><a href="#NCont">NCont</a></td>
   <td><a href="#Abs">Abs</a></td>
+  <td><a href="#Hum">Hum</a></td>
   
   
 </tr>
@@ -55,6 +56,16 @@ Abslute relational indicates that the possessor
 
 * _<b>s-orɨβ</b>&nbsp;_ “(There is a) (someone's) happiness”
 * _<b>s-orɨβ-a</b>&nbsp;_ “Someone's happiness”
+
+
+### <a name="Hum">`Hum`</a>: human
+
+Abslute relational indicates that the possessor
+
+#### Examples
+
+* _<b>m</b>osanga &nbsp;_ “medicine (of people)”
+* _<b>p</b>osanga &nbsp;_ “medicine”
 
 
 ## Diffs
