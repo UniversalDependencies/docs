@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Circ">Circ</a></td>
-  <td><a href="#DevPass">DevPass</a></td>
+  <td><a href="#Pas">Pas</a></td>
   <td><a href="#Ag">Ag</a></td>
   <td><a href="#Rel">Rel</a></td>
   
@@ -31,7 +31,7 @@ The nominalizer of circumstance can be roughly translated as 'way / place of x'
 </tr>
 </table>
 
-### <a name="DevPass">`DevPass`</a>: Pasive deverbal
+### <a name="Pas">`Pas`</a>: Pasive deverbal
 
 The deverbal passive
 
