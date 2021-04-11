@@ -20,4 +20,11 @@ obl:lto(enter-4, grade-3)
 
 ~~~
 
+Цямкаерясь лиссь ортава ульцяв . \n Tsyamkay's wife went out through the gate into the street.
+nsubj(лиссь-2, Цямкаерясь-1)
+obl:lmp(лиссь-2, ортава-3)
+obl:lto(лиссь-2, ульцяв-4)
+obl:lto(went_out-2, into_the_street-4)
+
+
 <!-- Interlanguage links updated Čt lis 12 09:43:27 CET 2020 -->
