@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Sing">Sing</a></td>
   <td><a href="#Plur">Plur</a></td>
   
   
@@ -16,7 +17,16 @@ udver: '2'
 
 `Plur` is a 
 
-### <a name="Plur">`Plur`</a>: Singular
+### <a name="Sing">`SIng`</a>: Singular
+
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+
+### <a name="Plur">`Plur`</a>: Plural
 
 
 
