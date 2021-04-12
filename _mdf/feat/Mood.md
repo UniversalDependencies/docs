@@ -39,6 +39,16 @@ The desiderative mood is used to express desired or potential actions that are n
 
 * [mdf] _<b>Молелексолеть</b>_ "Did you want to go"
 
+### <a name="Imp">`Imp`</a>: indicative
+
+The imperative is used for second person singular and plural.
+It is distinguished from the optative and precutive elsewhere documented
+as imperative with softening clitic.
+
+#### Examples
+
+* [mdf] _<b>Архт</b>, <b>архт</b> меки общежитияв._ "<b>Go</b>, <b>go</b> back to the dormitory."
+
 ### <a name="Ind">`Ind`</a>: indicative
 
 The indicative can be considered the default mood. A verb in the
