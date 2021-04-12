@@ -37,7 +37,9 @@ Contiguity is more often associated with
 * _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
 
 
-### <a name="Mid">`CMidom`</a>: Middle
+
+
+### <a name="Mid">`Mid`</a>: Middle
 
 The middle voice
 
