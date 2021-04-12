@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Com">Perm</a></td>
   <td><a href="#Cau">Sub</a></td>
+  <td><a href="#Mid">Mid</a></td>
   
   
 </tr>
@@ -37,6 +38,14 @@ Contiguity is more often associated with
 
 
 
+
+### <a name="Mid">`Mid`</a>: Middle
+
+The middle voice
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
 
 
 
