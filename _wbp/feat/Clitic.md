@@ -29,7 +29,7 @@ pronouns. They may occur together with real pronouns, as the 1SG subject marker 
 * _Ngaju ka<b>rna</b> purlami._ “I am shouting.” (lit. I-ABS PRES-1SG(SUBJ) shout-NONPAST)
 * _Ngajulurlu ka<b>rna</b>ngku nyuntu nyanyi._ “I see you.” (lit. I-ERG PRES-1SG(SUBJ)-2SG(OBJ) you(SG.ABS) see-NONPAST)
 
-In the above examples, the stem _ka_ encodes the present tense. However, for for the perfect
+In the above examples, the stem _ka_ encodes the present tense. However, for the perfect
 aspect, the stem of the auxiliary is empty and the subject agreement marker then attaches as
 a clitic to the first word of the clause:
 
