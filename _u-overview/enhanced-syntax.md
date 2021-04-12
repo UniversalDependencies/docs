@@ -39,7 +39,8 @@ in the order described below. We provide a more detailed explanation of the extr
    a fixed multi-word expression, the lemma of the expression is not necessarily composed of lemmas of the individual member words.
    For instance, the string representing the English expression “As Opposed To” is `as_opposed_to`. That is, the casing is normalized
    from “As” to “as” etc., but “opposed” is not replaced by its lemma “oppose” because the expression is fixed. We use the underscore
-   character (“_”) to connect member words.
+   character (“_”) to connect member words. The same approach can also be taken when a node has multiple case markers that are not
+   annotated as a fixed expression, e.g., `out_of` for “out of business”.
 4. [Case information](#case-information) –
    morphological case of the node whose relation to its parent is being enhanced. Value corresponds to the value of
    the Case feature but it is lowercased (e.g., `gen` instead of `Gen`). Unlike in morphological features, multivalues with comma
@@ -660,7 +661,8 @@ The following formal rules apply (copied from the summary at the beginning of th
   a fixed multi-word expression, the lemma of the expression is not necessarily composed of lemmas of the individual member words.
   For instance, the string representing the English expression “As Opposed To” is `as_opposed_to`. That is, the casing is normalized
   from “As” to “as” etc., but “opposed” is not replaced by its lemma “oppose” because the expression is fixed. We use the underscore
-  character (“_”) to connect member words.
+  character (“_”) to connect member words. The same approach can also be taken when a node has multiple case markers that are not
+   annotated as a fixed expression, e.g., `out_of` for “out of business”.
   * Multiple `case` or `mark` nodes may occur even if it is not a fixed expression. For example, a type of adverbial clause
     in Dutch uses two markers _om_ and _te_, the first one roughly corresponding to English “so that”, the second one being
     an infinitive marker. The incoming dependency of the subordinate clause will then be labeled `advcl:om_te`.
