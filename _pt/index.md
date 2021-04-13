@@ -64,3 +64,4 @@ There are [3](../treebanks/pt-comparison.html) Portuguese UD treebanks:
   * [Portuguese-Bosque](../treebanks/pt_bosque/index.html)
   * [Portuguese-GSD](../treebanks/pt_gsd/index.html)
   * [Portuguese-PUD](../treebanks/pt_pud/index.html)
+  * [Portuguese-DHBB](../treebanks/pt_dhbb/index.html)
