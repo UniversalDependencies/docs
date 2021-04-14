@@ -19,41 +19,45 @@ conj:expl(misso,Aggelmanno)
 cc(Aggelmanno,id)
 fixed(id,est)
 conj:expl(legate,Agelmannus)
-cc(Agelmannus,id)
+cc(Agelmannus,that)
 fixed(that,is)
 ~~~
 
 ~~~ sdparse
-hoc igitur nomen homo , et de christo et de aliis hominibus dictum , semper eandem formam significat , scilicet naturam humanam . \n this then name man , and about Christ and about other men said , always the-same form-ACC means , that-is nature-ACC human . \n 'Therefore, this name "man" said of Christ and of other men always signifies the same form; namely, human nature.' (*Summa contra Gentiles*, ITTB)
+hoc igitur nomen homo , et de christo et de aliis hominibus dictum , semper eandem formam significat , scilicet naturam humanam . \n this then name man , and about Christ and about other men said , always the-same form-ACC means , that-is nature-ACC human .
 conj:expl(formam,naturam)
 cc(naturam,scilicet)
 conj:expl(form-ACC,nature-ACC)
 cc(nature-ACC,that-is)
 ~~~
 
+'Therefore, this name "man" said of Christ and of other men always signifies the same form; namely, human nature.' (*Summa contra Gentiles*, ITTB)
+
 ~~~ sdparse
-Neque sine ratione ipsum vulgare illustre decusamus adiectione secunda , videlicet ut id cardinale vocetur . \n Nor without reason itself vulgar illustrious we-decorate addition second , that-is that it cardinal be-called . \n 'Nor are we without justification if we adorn this illustrious vernacular with our second epithet, by calling it "cardinal".' (*De Vulgari Eloquentia*, UDante)
-conj:expl(decusamus,vocetur)
+Neque sine ratione ipsum vulgare illustre decusamus adiectione secunda , videlicet ut id cardinale vocetur . \n Nor without reason itself vulgar illustrious we-decorate addition second , that-is that it cardinal be-called .
+conj:expl(adiectione,vocetur)
 cc(vocetur,videlicet)
 mark(vocetur,ut)
-conj:expl(we-decorate,be-called)
+conj:expl(addition,be-called)
 cc(be-called,that-is)
 mark(be-called,that)
 ~~~
 
+'Nor are we without justification if we adorn this illustrious vernacular with our second epithet, by calling it "cardinal".' (*De Vulgari Eloquentia*, UDante)
+
 ~~~ sdparse
-Sed Monarcha non habet quod possit optare : sua nanque iurisdictio terminatur Occeano solum : quod non contingit principibus aliis , quorum principatus ad alios terminantur , ut puta regis Castelle ad illum qui regis Aragonum . \n But Monarch not has what he-can choose : his in-fact jurisdiction is-ended by-Ocean only : what not touches to-rulers others , whose reigns to other are-ended , like for-example of-king of-Castille to that which of-king of-the-Aragonese . \n 'But there is nothing the monarch could covet, for his jurisdiction is bounded only by the ocean; whereas this is not the case with other rulers, whose sovereignty extends only as far as the neighbouring kingdom, as is the case, for instance, with the kings of Castille and of Aragon. ' (*De Monarchia*, UDante)
+Sed Monarcha non habet quod possit optare : sua nanque iurisdictio terminatur Occeano solum : quod non contingit principibus aliis , quorum principatus ad alios terminantur , ut puta regis Castelle ad illum qui regis Aragonum . \n But Monarch not has what he-can choose : his in-fact jurisdiction is-ended by-Ocean only : what not touches to-rulers others , whose reigns to other are-ended , like for-example of-king of-Castille to that which of-king of-the-Aragonese .
 conj:expl(habet,terminatur)
 conj:expl(regis-30,terminantur)
 cc(regis-30,puta)
 mark(regis-30,ut)
 orphan(regis-30,illum)
 conj:expl(has,is-ended)
-conj:expl(of-king-69,are-ended)
-cc(of-king-69,for-example)
-mark(of-king-69,like)
-orphan(of-king-69,that)
+conj:expl(of-king-68,are-ended)
+cc(of-king-68,for-example)
+mark(of-king-68,like)
+orphan(of-king-68,that)
 ~~~
 
-
+'But there is nothing the monarch could covet, for his jurisdiction is bounded only by the ocean; whereas this is not the case with other rulers, whose sovereignty extends only as far as the neighbouring kingdom, as is the case, for instance, with the kings of Castille and of Aragon. ' (*De Monarchia*, UDante)
 
