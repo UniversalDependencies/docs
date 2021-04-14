@@ -19,4 +19,12 @@ obl:lmp(went_out-2, through_the_gate-3)
 obl:lto(лиссь-2, ульцяв-4)
 ~~~
 
+~~~ sdparse
+Кой-кинди савсь мянемс вальмава . \n Some people had to escape out the window.
+obl:agent(мянемс-3, Кой-кинди-1)
+aux:nec(мянемс-3, савсь-2)
+obl:lmp(мянемс-3, вальмава-4)
+punct(мянемс-3, .-5)
+~~~
+
 <!-- Interlanguage links updated Čt lis 12 09:43:27 CET 2020 -->
