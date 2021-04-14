@@ -14,7 +14,7 @@ Any phrase can be the explicative conjunct of any other phrase, but it will show
 Often, but not always, an explicative conjunct is introduced by a conjunctional element, which is coherently labeled as [`CCONJ`](la-pos/CCONJ) and bears the feature [`ConjType=Expl`](la-feat/ConjType), in parallel to this subrelation. In Late and Medieval Latin, the grammaticalised verbal phrases *scilicet* 'you may know' and *id est* 'that is' (sometimes [univerbated](la-feat/Compound)) are amongst the most common ones. The relation might also be pointed to by dedicated punctuation marks.
 
 ~~~ sdparse
-et Adalbertus dux derexit misso suo , id est Aggelmanno , qui ambulaverunt ... \n and Adalbertus leader he-sent legate his , that is Agelmannus , who they-went ... (LLCT)
+et Adalbertus dux derexit misso suo , id est Aggelmanno , qui ambulaverunt ... \n and Adalbertus leader he-sent legate his , that is Agelmannus , who they-went ...
 conj:expl(misso,Aggelmanno)
 cc(Aggelmanno,id)
 fixed(id,est)
@@ -22,6 +22,8 @@ conj:expl(legate,Agelmannus)
 cc(Agelmannus,that)
 fixed(that,is)
 ~~~
+
+'And so *dux* Adalbertus sent his legate, that is Agelmannus, who went...' (LLCT)
 
 ~~~ sdparse
 hoc igitur nomen homo , et de christo et de aliis hominibus dictum , semper eandem formam significat , scilicet naturam humanam . \n this then name man , and about Christ and about other men said , always the-same form-ACC means , that-is nature-ACC human .
