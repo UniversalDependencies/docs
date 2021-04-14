@@ -15,6 +15,7 @@ udver: '2'
   <td><a href="#Per">Per</a></td>
   <td><a href="#All">All</a></td>
   <td><a href="#Voc">Voc</a></td>
+  <td><a href="#Dat">Dat</a></td>
   
 
 </tr>
@@ -84,6 +85,14 @@ Vocative
 #### Examples
 
 * _<b></b>&nbsp;_ “”
+
+
+
+### <a name="Dat">`Dat`</a>: Dative
+
+#### Examples
+
+* _<b>t-uβa-pe</b>&nbsp;_ “To the father”
 
 
 
