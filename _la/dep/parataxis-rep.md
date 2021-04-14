@@ -18,12 +18,12 @@ parataxis:rep(says, I-sing)
 The same logic and subrelation is applied to digressions in the sentence that take the form of independent and complex clauses themselves, factually beginning a new sentence. The two blocks are however still in a (loose) syntactical relation, because the digression is usually introduced by some element in the main clause, in a similar way to [explicative co-ordinations](la-feat/conj-expl). 
 
 ~~~ sdparse
-Sed nunc queritur : Cum illa regio celi circulariter feratur , quare illa elevatio non fuit circularis ? \n But now is-asked : When that region of-sky circularly is-brought, for-which-reason that lifting not was circular ?
+Sed nunc queritur : Cum illa regio celi circulariter feratur , quare illa elevatio non fuit circularis ? \n But now is-asked : When that region of-sky circularly is-brought , for-which-reason that lifting not was circular ?
 parataxis:rep(queritur, circularis)
 parataxis:rep(is-asked, circular)
 advcl(circularis, feratur)
 advcl(circular, is-brought)
 ~~~
 
-In both cases, the strategy is that of juxtaposition, and any morphosyntactical marks of subordination (e.g. [subordinating conjunctions](la-pos/SCONJ), [non-finite verb forms](la-feat/VerbForm), [constructions in oblique cases](la-dep/advcl-abs)...) are lacking, hence the use of `parataxis`; at the same time, the subrelation `rep` acknowledges that the two juxtaposed (sometimes even interwoven) blocks are conceptually more connected than for usual parataxis.
+In both cases, the strategy is that of juxtaposition, and any morphosyntactical marks of subordination (e.g. [subordinating conjunctions](la-pos/SCONJ), [non-finite verb forms](la-feat/VerbForm), [constructions in oblique cases](la-dep/advcl-abs)...) are lacking, hence the use of `parataxis`; at the same time, the subrelation `rep` acknowledges that the two juxtaposed (sometimes even interwoven) blocks are conceptually more connected than with usual parataxis.
 
