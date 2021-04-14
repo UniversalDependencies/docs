@@ -12,7 +12,7 @@ and _advmod_ locative dependency relations advmod:lmod, advmod:lfrom and advmod:
 which generally indicate locative, source and path, respectively.
 
 ~~~ sdparse
--Сёксенда кемонце классу озан . \n In the fall, I'll enter the tenth grade.
+Сёксенда кемонце классу озан . \n In the fall, I'll enter the tenth grade.
 advmod:tmod(озан-4, Сёксенда-1)
 amod(классу-3, кемонце-2)
 obl:lto(озан-4, классу-3)
