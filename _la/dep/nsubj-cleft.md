@@ -11,20 +11,20 @@ When the relative clause acting as the subject of a cleft sentence does have an 
 
 As with clausal subjects, some minor readjustments in the components of the cleft sentence may be needed to make the whole sentence grammatical.
 
-In the following example, *|* points to the splitting point in the cleft sentence.
+In the following example, *\|* points to the splitting point in the cleft sentence.
 
 ~~~ sdparse
 ROOT Fuit ergo hebraicum ydioma | illud quod primi loquentis labia fabricarunt . \n ROOT Was so Hebrew language that which first of-the-speaking lips they-made .
 root(ROOT-1,ydioma)
 amod(ydioma,hebraicum)
 nsubj:cleft(ydioma,illud)
-cop(ydioma,fuit)
+cop(ydioma,Fuit)
 acl:relcl(illud,fabricarunt)
 obj(fabricarunt,quod)
 root(ROOT-15,language)
 amod(language,Hebrew)
 nsubj:cleft(language,that)
-cop(language,was)
+cop(language,Was)
 acl:relcl(that,they-made)
 obj(they-made,which)
 ~~~
@@ -33,7 +33,6 @@ obj(they-made,which)
 
 * Matrix clause:   
     * *Primi loquentis labia **hebraicum ydioma** fabricarunt.* (object argument)
-*  
 
 ~~~ sdparse
 ROOT Ego sum | ille qui longas terras et ignotas regiones peragravi , ego | ille qui tam longe abieram ut in patriam redire non possem . \n ROOT I am that who long lands and unknown regions I-have-traversed , I that who so long I-had-went-away so-that in fatherland to-go-back not may .
@@ -45,16 +44,16 @@ nsubj(peragravi,qui-6)
 conj(Ego,ego)
 nsubj:cleft(ego,ille-16)
 acl:relcl(ille-16,abieram)
-obj(abieram,qui-17)
+nsubj(abieram,qui-17)
 root(ROOT-29,I-30)
-nsubj:cleft(I-30,that-33)
+nsubj:cleft(I-30,that-32)
 cop(I-30,am)
-acl:relcl(that-33,I-have-traversed)
-nsubj(I-have-traversed,who-34)
-conj(I-30,I-42)
-nsubj:cleft(I-42,that-43)
-acl:relcl(that-43,I-had-went-away)
-obj(I-had-went-away,who-44)
+acl:relcl(that-32,I-have-traversed)
+nsubj(I-have-traversed,who-33)
+conj(I-30,I-41)
+nsubj:cleft(I-41,that-42)
+acl:relcl(that-42,I-had-went-away)
+nsubj(I-had-went-away,who-43)
 ~~~
 
 'I am the one who went through faraway and unknown lands, me who got so far that I could not even return home.' (*Declamationes*, Quintilian)
@@ -65,6 +64,6 @@ obj(I-had-went-away,who-44)
 * Note that the second conjunct shows ellipsis of the copula. 
 * The subject does not need to be made explicit in Latin, but can be extracted nonetheless.
 
-####References
+###References
 
 * Goria, E. (2013). *Towards a taxonomy of Latin cleft sentences*, Journal of Latin Linguistics, 12(2): 147 – 172

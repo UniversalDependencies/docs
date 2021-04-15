@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'advmod:neg'
-shortdef: 'negating particle
+shortdef: 'negating particle'
 udver: '2'
 ---
 

@@ -13,7 +13,7 @@ In the subject of a cleft sentence, the gap left by the extracted phrase is reco
 
 Any kind of phrase at any nesting level can be extracted; sometimes the cleft subject will be introduced by a [complementiser](la-dep/ccomp), or some other minor adjustments are introduced in order for the sentence to be grammatically acceptable.
 
-In the following examples, *|* points to the splitting point in the cleft sentence.
+In the following examples, *\|* points to the splitting point in the cleft sentence.
 
 
 ~~~ sdparse
@@ -38,23 +38,23 @@ obj(illuminate,whom-54)
     * *Petrus, Dei vicarius, monet nos **hunc** honorificare.* (object argument)
     * *Clemens, nunc Petri successor, luce Apostolice benedictionis **hunc** illuminat.* (object argument)
 * Note that in the first conjunct the [object](la-dep/object) *hunc* 'him' is extracted from the clausal complement of *monet* 'he exhorts' headed by *honorificare* 'to honour', i.e. from a nested argument.
-* 
 
 ~~~ sdparse
 ROOT Hic est | apud quem cubitum ponitis . \n ROOT This is by whom elbow ye-set-down .
 root(ROOT-1,Hic)
 csubj:cleft(Hic,ponitis)
 cop(Hic,est)
+obl(ponitis,quem)
 root(ROOT-11,This)
 csubj:cleft(This,ye-set-down)
 cop(This,is)
+obl(ye-set-down,whom)
 ~~~
 
 'It is at this man’s table that you are dining.' (*Satyricon*, C. Petronius)
 
 * Matrix clause:
     * *Apud **hunc** cubitum ponitis.* ([oblique](la-dep/obl) argument)
-*  
 
 ~~~ sdparse
 ROOT Hanc domum | iam multos annos est | cum possideo et colo . \n ROOT This house already many years is when I-own and I-tend .
@@ -74,7 +74,7 @@ mark(I-own,when)
     * *Hanc domum **iam multos annos** possideo et colo.* (temporal [oblique](la-dep/obl) argument)
 * *hanc domum* 'this house' is itself dislocated at the beginning of the sentence, but belongs to the clausal subject. This is probably an example of Latin as it was actually spoken.
 
-####References
+###References
 
 * Goria, E. (2013). *Towards a taxonomy of Latin cleft sentences*, Journal of Latin Linguistics, 12(2): 147 – 172
 

@@ -9,7 +9,7 @@ This subrelation of [`orphan`](u-dep/orphan) is used to explicitly mark uncertai
 
 Even when the content of such a gap is, at least from the point of view of its part of speech, predictable, if not completely reconstructible (e.g. in the case of repetitive formulaic expressions), we may refrain to guess the corresponding syntactic relations, and instead report this exceptional case as a relation subtype.
 
-From the LLCT treebank, a transcription of sometimes corrupt notarial *chartulae* of the Early Middle Ages:
+From the LLCT treebank, which contains transcriptions of sometimes corrupt notarial *chartulae* of the Early Middle Ages:
 
 ~~~ sdparse
 ROOT unde ego qui supra Andriperto presbitero una cum meis heredes tibi qui supra Teudilascio archidiacono vel ad posteris que GAP ut , si nos vobis aliquando tempore in aliquo exinde intentionare aut retolli quesierimus , eam vobis ab omni homines defendere non potuerimus , spondimus componere quas tibi supra in commutationem dedi in duplum , in ferquidem loco , sub estimatione , quales tunc fuerit , quia taliter inter nos convenit .
