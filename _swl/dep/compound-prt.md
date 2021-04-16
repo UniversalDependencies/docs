@@ -2,6 +2,7 @@
 layout: relation
 title:  'compound:prt'
 shortdef : 'verb particle'
+udver: '2'
 ---
 
 The verb particle relation _compound:prt_ is used for the particle element of a particle verb construction, usually in a construction calqued from Swedish.
