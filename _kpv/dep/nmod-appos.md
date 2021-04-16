@@ -8,9 +8,10 @@ udver: '2'
 TODO: check this page !!!
 
 
-The `nmod:appos` relation is used for appositions which modify nominal elements.
+The `nmod:appos` relation is used for apposition-like support nouns which modify nominal elements.
 The nominal modifier is not introduced by an adposition (otherwise we use the [nmod]() relation).
 Contrary to the [appos]() relation, the `nmod:appos` relation can also go right to left.
+This not the `compound:nn` found in the Finnish treebanks.
 
 Here is the first example:
 

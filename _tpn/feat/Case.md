@@ -14,6 +14,8 @@ udver: '2'
   <td><a href="#Tra">Tra</a></td>
   <td><a href="#Per">Per</a></td>
   <td><a href="#All">All</a></td>
+  <td><a href="#Voc">Voc</a></td>
+  <td><a href="#Dat">Dat</a></td>
   
 
 </tr>
@@ -74,6 +76,23 @@ TraslatPerlativeive
 #### Examples
 
 * _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
+
+
+### <a name="Voc">`Voc`</a>: Vocative
+
+Vocative
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+
+
+### <a name="Dat">`Dat`</a>: Dative
+
+#### Examples
+
+* _<b>t-uβa-pe</b>&nbsp;_ “To the father”
 
 
 

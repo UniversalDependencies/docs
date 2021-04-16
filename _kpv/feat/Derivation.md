@@ -28,6 +28,15 @@ Produces adnominal deverbal adjective modifier / adverb.
 
 * [kpv] _кутана_ "holding"
 
+### <a name="Anin">`Anin`</a>: derivation with suffix -анін
+
+Produces deverbal noun indicating place where activity of the verb is performed
+
+#### Examples
+
+* [kpv] _сёянін_ "place for eating"
+* [kpv] _вузасянін_ "place of retail, store"
+
 ### <a name="CompMod">`CompMod`</a>: derivation with suffix -кодь
 
 Produces meaning _like_ added to adjectival heads.
@@ -59,6 +68,14 @@ Produces converb.
 #### Examples
 
 * [kpv] _чӧвтігкостаныс_ "in between keeping silent"
+
+### <a name="Igkosta">`Igkosta`</a>: derivation with suffix -игкоста/-ігкоста
+
+Produces converb.
+
+#### Examples
+
+* [kpv] _ но ворсны велӧдчигкостаыс_ "but while learning to play in the meantime"
 
 ### <a name="Igkosti">`Igkosti`</a>: derivation with suffix -игкості/-ігкості
 
