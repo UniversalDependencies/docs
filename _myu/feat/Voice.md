@@ -1,0 +1,38 @@
+---
+layout: feature
+title: 'Voice'
+shortdef: 'voice'
+udver: '2'
+---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Mid">Mid</a></td>
+  
+  
+</tr>
+</table>
+
+`Voice` is a 
+
+
+### <a name="Mid">`Mid`</a>: Middle
+
+The middle voice
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+
+
+
+
+## Diffs
+
+### Prague Dependency Treebank
+
+The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
+therefore this distinction is not being made in the converted data.
+<!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->
