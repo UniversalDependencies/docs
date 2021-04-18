@@ -14,7 +14,6 @@ udver: '2'
 </tr>
 </table>
 
-`Incorp` refers to the object incorporation, a valency-reducing device. 
 
 ### <a name="Yes">`Yes`</a>: Transitivisor
 
