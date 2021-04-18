@@ -9,6 +9,8 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Mid">Mid</a></td>
+   <td><a href="#Cau">Cau</a></td>
+
   
   
 </tr>
@@ -24,6 +26,16 @@ The middle voice
 #### Examples
 
 * _<b></b>&nbsp;_ “”
+
+
+### <a name="Cau">`Cau`</a>: Causative
+
+Contiguity is more often associated with
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
 
 
 
