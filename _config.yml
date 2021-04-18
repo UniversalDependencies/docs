@@ -320,6 +320,8 @@ collections:
     output: true
   mpu:
     output: true
+  lij:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
