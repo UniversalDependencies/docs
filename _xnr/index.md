@@ -8,21 +8,14 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
-
----
 •	In general, words are delimited by whitespace characters. Description of exceptions follows.
 •	According to typographical rules, some punctuation marks (e.g., comma) are attached to a neighboring word, while others (e.g., the sentence-terminating danda) are not. We tokenize punctuation as separate tokens (words).
 
----
 
 ## Morphology
 
 ### Tags
 
-*
-
----
 •	Kangri uses all 17 universal POS categories, including particles (PART).
 •	Kangri has the following auxiliary verbs (AUX):
      है hai and था thā are present and past equivalents of “to be”. They are used as copulas and in periphrastic tenses.
@@ -48,33 +41,18 @@ udver: '2'
     	रख rakha (“to keep”)
     	आ ā (“to come”)
 
----
-
-### Features
-
-*
-
----
-**Instruction: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
 ## Syntax
 
-*
 
----
 in Kangri, a discourse is made up of sentences which are of different structure and are marked by intonation and terminal contour. In a conversation discourse a sentence maybe constructed of a single word in addition to information. All single words except postpositions and particles can make a sentence. कुण ? , कुथू ? , फिरी.
 The sentences in Kangri are of two types in view of their nature of construction. They are (1) elementary and (2) Core or Kernel. The elementary sentences are obtained from the core or kernel sentences by way of transformation that is they can be expanded from or reduced to the kernel or the basic sentences types.
 Nominal subject (nsubj) is mostly a noun ( राधा )or pronoun ( तिन्ना, तिन्ने ) phrase in the nominative case in Kangri. For the purpose of UD the objects are divided to core objects, obj  ( किताब ) or iobj  ( मोहने जो ) Aux. verbs mostly enhance the intensity of the verb ( तिन्नी राजुए जो किताब दित्ती and तिन्नी राजुए जो किताब देई दित्तियो / देई छड्डियो )
 
 
----
-
 ## Treebanks
 
 There are only one Kangri UD treebanks:
 
-•	Kangri-KDTB
+•	Kangri-KDTB [Kangri-KDTB-treebank](https://github.com/UniversalDependencies/UD_Kangri-KDTB/tree/dev)
 
 ---
