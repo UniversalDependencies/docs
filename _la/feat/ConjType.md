@@ -40,7 +40,7 @@ In the following sentences, comparative conjunctions (and their equivalents in t
 
 This value is introduced for those [connectors](la-pos/CCONJ) introducing [explanations](la-dep/conj-expl), reformulations, or similar, of a preceding element of the sentence; this element and its "expansion" are marked as co-ordinated.
 
-Many of such conjunctions originate from crystallised [paratactic](la-dep-parataxis) expressions with the general meaning of "that is", "as it is known", etc., and so often incorporate verbal elements, and the general tendency is towards univerbation. 
+Many of such conjunctions originate from crystallised [paratactic](la-dep/parataxis) expressions with the general meaning of "that is", "as it is known", etc., and so often incorporate verbal elements, and the general tendency is towards univerbation. 
 
 
 #### Examples
